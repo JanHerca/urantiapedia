@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Ea | | | PERSON | OK
+Éa | | | PERSON | OK
 Dieu mésopotamien de la mer (95:1.4)
 
 aigles | (61:2.12) | | | OK
@@ -60,16 +60,16 @@ De nombreux Andites appelés Dravidiens ont migré vers l'Inde et l'Asie central
 J.-C., la navigation dravidienne andite progressait le long des côtes de la mer d'Arabie jusqu'aux villes sumériennes du golfe Persique et s'aventurait sur les eaux de la baie du Bengale jusqu'aux Indes orientales. (79:3.7)
 > https://en.wikipedia.org/wiki/East_Indies
 
-Île de Pâques | | | PLACE | OK
+Île de Pâques; ile de Pâques | | | PLACE | OK
 L'île de Pâques a longtemps été un centre religieux et administratif d'un groupe de Polynésiens modifiés par les Andites (78:5.7)
 > https://en.wikipedia.org/wiki/Easter_Island
 
-Ghâts orientaux | (79:3.6) | | PLACE | OK
+Ghâtes orientales | (79:3.6) | | PLACE | OK
 
 manger | | nourriture | | OK
 
-Ebal | | | PLACE | OK
-Le mont Ebal est une montagne visible depuis Nazareth (126:1.2)
+Ébal | | | PLACE | OK
+Le mont Ébal est une montagne visible depuis Nazareth (126:1.2)
 > https://en.wikipedia.org/wiki/Mount_Ebal
 
 Eber | | | PERSON | OK
@@ -80,10 +80,10 @@ excentricité; excentrique | | | | OK
 Jésus libéré de (100:7.3-4)
 Jésus exhortait ses auditeurs à s'efforcer d'être originaux tout en évitant toute tendance à l'excentricité. Il plaidait pour une sympathie sans sentimentalité, une piété sans moralisme. Il enseignait la révérence exempte de crainte et de superstition. (149:4.4)
 
-Ecclésiaste | | | | OK
-L'Ecclésiaste est un livre de la Bible appartenant au groupe appelé Livres de Sagesse
+Écclésiaste | | | | OK
+L'Écclésiaste est un livre de la Bible appartenant au groupe appelé Livres de Sagesse
 comme d'autres livres de sagesse comme la Sagesse de Salomon, illustre le platonisme et le stoïcisme (121:6.3)
-Le pessimisme franc de l'Ecclésiaste était une réaction sage et mondaine à ces croyances trop optimistes en la Providence. (97:8.2)
+Le pessimisme franc de l'Écclésiaste était une réaction sage et mondaine à ces croyances trop optimistes en la Providence. (97:8.2)
 > https://en.wikipedia.org/wiki/Ecclesiaste
 
 ecclésiastique | | prêtres | | OK
@@ -111,54 +111,54 @@ Le test pratique de toutes ces étranges expériences religieuses de mysticisme,
 
 Eden, Jardin de | | Jardin d'Eden | PLACE | OK
 
-Ligue édénique | | | | OK
+Ligue édénique; ligue édénique | | | | OK
 Adam fit un effort héroïque et déterminé pour établir un gouvernement mondial, mais il rencontra à chaque fois une résistance obstinée. Adam mit en place un système de contrôle de groupe dans tout l'Éden et fédéra toutes ces sociétés en une ligue édénique. (74:5.5)
 
 Enseignements édéniques | | Jardin d'Eden : enseignements | | OK
 
 Édenites | | Jardin d'Eden | RACE | OK
 
-Edentia | (43:1) | constellations; Les Plus Hauts de Norlatiadek | PLACE | OK
-Edentia est le siège de Norlatiadek, notre constellation (15:7.6) (15:14.6) (43:0.1-2)
+Édentia | (43:1) | constellations; Les Plus Hauts de Norlatiadek | PLACE | OK
+Édentia est le siège de Norlatiadek, notre constellation (15:7.6) (15:14.6) (43:0.1-2)
 c'est le siège des Pères de la Constellation, les Très Hauts de Norlatiadek (43:0.2)
-La construction de Salvington fut immédiatement suivie par la création des cent mondes sièges des constellations projetées, sous le nom d'Edentia. (32:2.3)
+La construction de Salvington fut immédiatement suivie par la création des cent mondes sièges des constellations projetées, sous le nom d'Édentia. (32:2.3)
 description
-	 Sur Edentia, il y a dix Centres de Pouvoir Suprêmes, dix contrôleurs mécaniques associés et dix frandalanks qui sont en liaison parfaite et constante avec les centres de pouvoir proches. (41:1.4)
-	Les soixante-dix sphères majeures entourant Edentia ont environ dix fois la taille d'Urantia, tandis que les dix satellites qui tournent autour de chacun de ces soixante-dix mondes ont à peu près la taille d'Urantia. (43:0.2) (43:7.1,3)
-	Toute la vie animale d'Edentia est très intelligente et extrêmement serviable, et toutes les espèces diverses sont étonnamment douces et touchantes. Il n'y a pas de créatures carnivores ; il n'y a rien dans tout Edentia qui puisse effrayer un être vivant. (43:6.5)
-	Edentia est cent fois plus grande qu'Urantia (43:0.2)
-	Sur Edentia, les ornements vivants sont plus généralement utilisés, et c'est cette prépondérance de la vie – l'art botanique – qui fait que ces mondes sont appelés « les jardins de Dieu ». Environ la moitié d'Edentia est consacrée aux jardins exquis des Très-Hauts. (43:1.7) (43:6.1-2)
-	Les hautes terres d'Edentia sont des caractéristiques physiques magnifiques, et leur beauté est renforcée par la profusion infinie de vie qui abonde sur toute leur longueur et leur largeur. (43:1.4)
+	 Sur Édentia, il y a dix Centres de Pouvoir Suprêmes, dix contrôleurs mécaniques associés et dix frandalanks qui sont en liaison parfaite et constante avec les centres de pouvoir proches. (41:1.4)
+	Les soixante-dix sphères majeures entourant Édentia ont environ dix fois la taille d'Urantia, tandis que les dix satellites qui tournent autour de chacun de ces soixante-dix mondes ont à peu près la taille d'Urantia. (43:0.2) (43:7.1,3)
+	Toute la vie animale d'Édentia est très intelligente et extrêmement serviable, et toutes les espèces diverses sont étonnamment douces et touchantes. Il n'y a pas de créatures carnivores ; il n'y a rien dans tout Édentia qui puisse effrayer un être vivant. (43:6.5)
+	Édentia est cent fois plus grande qu'Urantia (43:0.2)
+	Sur Édentia, les ornements vivants sont plus généralement utilisés, et c'est cette prépondérance de la vie – l'art botanique – qui fait que ces mondes sont appelés « les jardins de Dieu ». Environ la moitié d'Édentia est consacrée aux jardins exquis des Très-Hauts. (43:1.7) (43:6.1-2)
+	Les hautes terres d'Édentia sont des caractéristiques physiques magnifiques, et leur beauté est renforcée par la profusion infinie de vie qui abonde sur toute leur longueur et leur largeur. (43:1.4)
 	la végétation morontielle est une croissance purement énergétique ; lorsqu'elle est consommée, il n'en reste aucune partie résiduelle. (43:6.6)
 	Il y a des dizaines de milliers de lacs étincelants et des milliers et des milliers de cours d'eau interconnectés. (43:1.1-2)
 	il n'y a pas de chaînes de montagnes escarpées, pas de grands océans ni de rivières torrentielles; il n'y a ni tempêtes ni ouragans; il n'y a ni été ni hiver (43:1.1-3)
 	la plupart des transports se font dans les airs (43:1.2)
-	La mer de verre, la zone d'accueil d'Edentia, se trouve près du centre administratif et est entourée par l'amphithéâtre du siège. C'est un énorme cristal circulaire d'environ cent milles de circonférence et d'environ trente milles de profondeur (43:1.7,10-11)
+	La mer de verre, la zone d'accueil d'Édentia, se trouve près du centre administratif et est entourée par l'amphithéâtre du siège. C'est un énorme cristal circulaire d'environ cent milles de circonférence et d'environ trente milles de profondeur (43:1.7,10-11)
 	il est alimenté par les courants spatiaux universels (43:8.1)
-	l'arbre de vie est un arbuste d'Edentia, et de lui peuvent être extraits des compléments antidotaux qui permettent aux êtres mortels de vivre indéfiniment sur une planète mortelle (66:4.13)
-	Edentia et ses mondes associés ont une atmosphère avec un mélange de trois gaz qui contient de l'oxygène, de l'azote et un gaz morontiel adapté à la respiration des créatures morontielles. (43:1.3)
-	au centre des cercles des mortels ascendants sur Jérusalem, il y a un modèle fonctionnel d'Edentia qui a quarante miles de diamètre (46:5.27)
+	l'arbre de vie est un arbuste d'Édentia, et de lui peuvent être extraits des compléments antidotaux qui permettent aux êtres mortels de vivre indéfiniment sur une planète mortelle (66:4.13)
+	Édentia et ses mondes associés ont une atmosphère avec un mélange de trois gaz qui contient de l'oxygène, de l'azote et un gaz morontiel adapté à la respiration des créatures morontielles. (43:1.3)
+	au centre des cercles des mortels ascendants sur Jérusalem, il y a un modèle fonctionnel d'Édentia qui a quarante miles de diamètre (46:5.27)
 éducation
 	Les sensibilisateurs éthiques accéléreront notre appréciation de la vérité de la fraternité dans les écoles de la fraternité (39:3.7)
-	Les Melchisédeks maintiennent également deux collèges spéciaux sur Edentia, l'école d'urgence et l'école d'effusion (43:1.6)
+	Les Melchisédeks maintiennent également deux collèges spéciaux sur Édentia, l'école d'urgence et l'école d'effusion (43:1.6)
 Administration
-	À Edentia, nous serons toujours les bienvenus en tant qu'observateurs dans les assemblées législatives. (43:1.8)
-	après la rébellion de Satania, les archirebelles ont continué à assister aux conseils sur Edentia comme ils l'avaient fait à d'autres occasions (43:4.7)
+	À Édentia, nous serons toujours les bienvenus en tant qu'observateurs dans les assemblées législatives. (43:1.8)
+	après la rébellion de Satania, les archirebelles ont continué à assister aux conseils sur Édentia comme ils l'avaient fait à d'autres occasions (43:4.7)
 Ascendeurs mortels
-	Situées au sommet de la septième chaîne de montagnes se trouvent les salles de résurrection d'Edentia, où s'éveillent les mortels ascendants de l'ordre secondaire modifié d'ascension. (43:1.5)
-	sur Edentia, les ascendants sont à mi-chemin entre leur état ancien et leur état futur, à mi-chemin de leur passage de l'animal évolutionnaire à l'esprit ascendant. (43:9.2)
-	Notre séjour sur Edentia et ses sphères associées sera principalement consacré à la maîtrise de l'éthique de groupe. (43:8.3)
-	L'ensemble du séjour sur les mondes d'entraînement des constellations culmine avec la citoyenneté d'Edentia. (43:9)
-	là nous vivons avec les univitatia, le peuple natif d'Edentia (39:3.7)
+	Situées au sommet de la septième chaîne de montagnes se trouvent les salles de résurrection d'Édentia, où s'éveillent les mortels ascendants de l'ordre secondaire modifié d'ascension. (43:1.5)
+	sur Édentia, les ascendants sont à mi-chemin entre leur état ancien et leur état futur, à mi-chemin de leur passage de l'animal évolutionnaire à l'esprit ascendant. (43:9.2)
+	Notre séjour sur Édentia et ses sphères associées sera principalement consacré à la maîtrise de l'éthique de groupe. (43:8.3)
+	L'ensemble du séjour sur les mondes d'entraînement des constellations culmine avec la citoyenneté d'Édentia. (43:9)
+	là nous vivons avec les univitatia, le peuple natif d'Édentia (39:3.7)
 	nous apprenons à mieux socialiser avec les univitatia (43:8.4-12)
 
-Edomites | | | RACE | OK
-Le roi David imposa un lourd tribut aux tribus voisines, parmi lesquelles les Edomites (97:9.14)
+Édomites | | | RACE | OK
+Le roi David imposa un lourd tribut aux tribus voisines, parmi lesquelles les Édomites (97:9.14)
 ils se révoltèrent contre le roi Amatsia et furent vaincus dans une victoire éclatante (97:9.22)
 
-Edrei | | | PLACE | OK
-Edrei est l'une des villes visitées par Jésus, les douze apôtres, les douze évangélistes et d'autres évangélistes au cours du deuxième tour de la Décapole, entre le 18 août et le 16 septembre 29 après J.-C. (159:0.2)
-À Edrei, où l'apôtre Thomas et ses associés prêchaient, Jésus passa un jour et une nuit et, au cours de la discussion du soir, exprima les principes qui devraient guider ceux qui prêchent la vérité et qui devraient motiver tous ceux qui enseignent l'Évangile du royaume. (159:3.1)
+Édréi | | | PLACE | OK
+Édréi est l'une des villes visitées par Jésus, les douze apôtres, les douze évangélistes et d'autres évangélistes au cours du deuxième tour de la Décapole, entre le 18 août et le 16 septembre 29 après J.-C. (159:0.2)
+À Édréi, où l'apôtre Thomas et ses associés prêchaient, Jésus passa un jour et une nuit et, au cours de la discussion du soir, exprima les principes qui devraient guider ceux qui prêchent la vérité et qui devraient motiver tous ceux qui enseignent l'Évangile du royaume. (159:3.1)
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Daraa
 
@@ -320,7 +320,7 @@ religion
 	Les Égyptiens ont développé une théologie extensive et disposaient d'un sacerdoce tout aussi étendu mais pesant. (80:6.4)
 	Ils croyaient que chaque individu favorisé avait reçu à sa naissance, ou peu de temps après, un esprit protecteur qu'ils appelaient le ka. Le concept de ba symbolisait l'âme (111:0.5).
 	Le tabou égyptien sur le porc a été perpétué par les religions hébraïque et islamique. (89:1.5)
-	Les enseignements originaux de Melchisédek ont ​​véritablement pris leurs racines les plus profondes en Égypte, d'où ils se sont ensuite répandus en Europe. (95:2) (95:2.1)
+	Les enseignements originaux de Melchisédek ont véritablement pris leurs racines les plus profondes en Égypte, d'où ils se sont ensuite répandus en Europe. (95:2) (95:2.1)
 	les grands prophètes égyptiens étaient Aménémopé, Okhban, Ikhnaton et Moïse (95:3.5)
 	Les Égyptiens avaient des dieux triadiques, mais ceux-ci n'étaient pas encore de véritables trinités. (104:0.3)
 Égyptiens célèbres
@@ -337,11 +337,11 @@ faits amusants
 	Un souverain égyptien sacrifia 113 433 esclaves, 493 386 têtes de bétail, 88 bateaux, 2 756 images d'or, 331 702 pots de miel et d'huile, 228 380 pots de vin, 680 714 oies, 6 744 428 pains et 5 740 352 sacs de blé. Et pour y parvenir, il lui fallut imposer de lourdes charges à ses sujets laborieux. (89:4.9)
 > https://en.wikipedia.org/wiki/Egypt
 
-Chemin octuple | | | | OK
+Voie Octuple | | | | OK
 La philosophie du sentier octuple était étroitement liée à la doctrine bouddhiste de la souffrance et de la façon d'en sortir : vues, aspirations, paroles, conduite, moyens de subsistance, efforts, attention et contemplation justes. (94:8.8)
 > https://en.wikipedia.org/wiki/Noble_Eightfold_Path
 
-Le | | | PERSON | OK
+El | | | PERSON | OK
 Déité hébraïque composite qui comprend plusieurs dieux diffus et d'autres dieux de nature bédouine (96:1.7)
 > https://en.wikipedia.org/wiki/El_(deity)
 
@@ -353,8 +353,8 @@ Moïse était convaincu que son peuple ne comprendrait jamais pleinement El Elyo
 Le beau-père de Moïse était un Kénite adorateur d'El Elyon, mais les parents de l'émancipateur croyaient en El Shaddaï. (96:4.2)
 > https://en.wikipedia.org/wiki/Elyon
 
-El Shaddai | | | PERSON | OK
-El Shaddai représentait la Providence divine ; le service récompensé par la prospérité (96:1.5-6)
+El Shaddaï | | | PERSON | OK
+El Shaddaï représentait la Providence divine ; le service récompensé par la prospérité (96:1.5-6)
 Il représentait le concept égyptien du Dieu du ciel (142:3.5)
 Le beau-père de Moïse était un Kénite adorateur d'El Elyon, mais les parents de l'émancipateur croyaient en El Shaddaï. (96:4.2)
 > https://en.wikipedia.org/wiki/El_Shaddai
@@ -370,7 +370,7 @@ Les prêtres séthites se sont déplacés vers l'est à travers les hautes terre
 Les Élamites étaient une tribu nodite d'Élam. Énoc, fils de Caïn, en était le chef. Pendant des centaines d'années, les Élamites et les Adamites vécurent en paix. (76:2.9)
 > https://en.wikipedia.org/wiki/Elam
 
-Elealah | | | PLACE | OK
+Éléala | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
 élections | | gouvernement; suffrage | | OK
@@ -456,12 +456,12 @@ bien que disparu depuis longtemps, la massivité des Reptilia de passage a trouv
 Le Miocène était l'âge des chevaux et des éléphants (61:3)
 > https://en.wikipedia.org/wiki/Elephantidae
 
-Mystères d'Éleusis | | | | OK
+mystères d'Éleusis | | | | OK
 Les mystères d'Éleusis se sont développés au sein du panthéon olympien, une version grecque du culte de la fertilité ; le culte de Dionysos pour la nature a prospéré ; le meilleur des cultes était celui de la confrérie orphique, dont les prêches moraux et les promesses de salut ont suscité un grand attrait auprès de beaucoup. (98:2.10)
 > https://en.wikipedia.org/wiki/Eleusinian_Mysteries
 
-Elihu | | | PERSON | OK
-Eliju était un prophète extraordinaire d'Ur et un prêtre salémite ; il prêchait un message d'espoir de salut tel qu'il n'en avait pas été entendu dans le monde levantin (96:7.7)
+Élihu | | | PERSON | OK
+Élihu était un prophète extraordinaire d'Ur et un prêtre salémite ; il prêchait un message d'espoir de salut tel qu'il n'en avait pas été entendu dans le monde levantin (96:7.7)
 > https://en.wikipedia.org/wiki/Elihu_(Job)
 
 Élie Marc | | | PERSON | OK
@@ -500,7 +500,7 @@ Jean Baptiste
 Élisée était un fidèle collaborateur du prophète Élie (97:2.2)
 > https://en.wikipedia.org/wiki/Elisha
 
-Élisabeth (mère de Jean-Baptiste) | (135:0-4) | | PERSON | OK
+Élisabeth (mère de Jean-Baptiste); Élisabeth | (135:0-4) | | PERSON | OK
 Élisabeth était une cousine éloignée de Marie, la mère de Jésus (122:2.1,6)
 elle était une descendante des filles d'Aaron (135:0.4) | Les filles d'Aaron
 Gabriel apparaît pour la première fois à Élisabeth pour lui annoncer sa grossesse (122:2)
@@ -516,8 +516,8 @@ Elle est décédée le 17 août 22 après J.C. (135:4)
 Élisabeth de Tibériade était la fille d'un riche Juif ; elle était membre du groupe des douze femmes évangélistes (150:1.1)
 elle était présente à la seizième apparition de Jésus (193:0)
 
-Ellanora | | | PERSON | OK
-Elanora est la jeune mortelle qui a pris la tête de Panoptia dans la rébellion de Lucifer, empêchant le Prince Planétaire de mener ce monde vers la rébellion. (53:7.1)
+Éllanora | | | PERSON | OK
+Éllanora est la jeune mortelle qui a pris la tête de Panoptia dans la rébellion de Lucifer, empêchant le Prince Planétaire de mener ce monde vers la rébellion. (53:7.1)
 
 ellipse; ellipsoïde | | | | OK
 Chaque forme connue de réalité cosmique a la courbure des âges, la tendance du cercle, l'oscillation de la grande ellipse. (11:8.2) (12:1.1)
@@ -549,7 +549,7 @@ Au fil du temps, les Égyptiens ont observé que les corps des morts placés dan
 
 urgences | | crise | | OK
 
-conseil d'urgence d'Edentia | | | PERSON | OK
+conseil d'urgence d'Édentia | | | PERSON | OK
 ce conseil est composé de toutes les personnalités qui ont été assignées à Norlatiadek en raison du soulèvement de Satania, et est dirigé par le directeur Très-Haut (43:5.14)
 
 énergie émergente | | ultimatum | | OK
@@ -615,7 +615,7 @@ de nombreux disciples de Jésus ont interprété ses prédictions concernant la 
 La chute des nations, l'effondrement des empires, la destruction des Juifs incrédules, la fin d'un âge, et même la fin du monde, qu'ont ces choses à voir avec celui qui croit à cet Évangile ? (176:3.2)
 
 Endantum | | | PLACE | OK
-Endantum est le siège de la 5ème constellation de Nébadon, tout comme Edentia est le siège de notre constellation, la 70ème. C'est là que Jésus, c'est-à-dire Michel, a fait son sixième don à ses créatures sous la forme d'un mortel morontiel d'ascension évolutionnaire (119:6.3,6).
+Endantum est le siège de la 5ème constellation de Nébadon, tout comme Édentia est le siège de notre constellation, la 70ème. C'est là que Jésus, c'est-à-dire Michel, a fait son sixième don à ses créatures sous la forme d'un mortel morontiel d'ascension évolutionnaire (119:6.3,6).
 
 endogamie | | mariage | | OK
 
@@ -630,7 +630,7 @@ L'Esprit de Vérité nous confère le pouvoir d'accomplir avec certitude et joie
 Le temps est le don universel de toutes les créatures douées de volonté ; c'est le « talent unique » confié à tous les êtres intelligents. (28:6.9)
 
 fins contre moyens ; fin ; fins | | | | OK
- Tout ce qui n'est pas spirituel dans l'expérience humaine, à l'exception de la personnalité, est un moyen pour parvenir à une fin. (112:2.8) (112:5.22)
+Tout ce qui n'est pas spirituel dans l'expérience humaine, à l'exception de la personnalité, est un moyen pour parvenir à une fin. (112:2.8) (112:5.22)
 L'intelligence seule peut déterminer les meilleurs moyens d'atteindre des fins indifférenciées, mais un être moral possède une perspicacité qui lui permet de distinguer entre les fins aussi bien qu'entre les moyens. (16:7.4-10) (160:4.11)
 Jésus n'a jamais eu recours à des tactiques ignobles pour faire face à la pression continuelle de ses ennemis, qui n'ont pas hésité à employer contre lui toutes sortes de moyens d'attaque faux, injustes et iniques. (149:4.5) (173:2.7)
 Jésus ne voulait pas servir le mal dans le but présumé d'en tirer du bien (136:9.3)
@@ -839,11 +839,11 @@ nature
 	Ils semblent parfaitement capables de recevoir nos communications, mais tout à fait incapables d'y répondre. (29:4.26)
 	ils sont totalement automatiques et mécaniques en réponse aux impulsions de leurs supérieurs et en réaction ; ils ne sont pas personnels (29:4.12,26)
 
-Engedi | | | PLACE | OK
+Engaddi | | | PLACE | OK
 Vieille ville près de la mer Morte.
 Jésus et Abner ont visité la colonie nazaréenne d'Engaddi (142:8.1)
 Jean vécut à Engaddi pendant deux ans et demi et il persuada la plupart des frères que « la fin des temps était proche » et que « le royaume des cieux était sur le point d'apparaître » (135:4.3).
-Engedi était le quartier général sud des Nazaréens et autres bergers ascétiques (135:1.1) (135:2.3) (165:0.1)
+Engaddi était le quartier général sud des Nazaréens et autres bergers ascétiques (135:1.1) (135:2.3) (165:0.1)
 > https://en.wikipedia.org/wiki/Ein_Gedi
 
 Angleterre | | Îles britanniques | PLACE | OK
@@ -856,24 +856,24 @@ les révélateurs des révélations d'Urantia ont reçu pour instruction d'utili
 
 inimitié | | haine | | OK
 
-Enoch | | | PERSON | OK
-Enoch était un fils de Caïn et de Remona, et devint le chef des Nodites élamites (76:2.9)
+Énoch | | | PERSON | OK
+Énoch était un fils de Caïn et de Remona, et devint le chef des Nodites élamites (76:2.9)
 il fut le premier mortel à fusionner avec son Ajusteur dans la chair ; il est actuellement l'un des 24 conseillers de Jérusalem, numéro 11 (45:4.13)
 livre d'enoch
-	c'est un livre apocalyptique partiellement attribué à Enoch, bien que Jésus ait clairement indiqué qu'il ne pouvait pas être écrit par Enoch (126:3.8)
+	c'est un livre apocalyptique partiellement attribué à Énoch, bien que Jésus ait clairement indiqué qu'il ne pouvait pas être écrit par Énoch (126:3.8)
 	Jésus a adopté le terme Fils de l'Homme de ce livre car il décrivait un être présentant de nombreuses similitudes avec sa mission sur Terre (126 : 3.6-8)
 	a présenté un concept du Fils de Dieu comme un être divin, mais pas comme une union humaine-divine (136:1.6)
 > https://en.wikipedia.org/wiki/Enoch_(son_of_Cain)
 > https://en.wikipedia.org/wiki/Enoch
 
-Enos | | | PERSON | OK
-Enos, fils de Seth et petit-fils d'Adam et Eve, fonda un nouvel ordre de culte (76:3.4)
+Énos | | | PERSON | OK
+Énos, fils de Seth et petit-fils d'Adam et Eve, fonda un nouvel ordre de culte (76:3.4)
 > https://en.wikipedia.org/wiki/Enos_(biblical_figure)
 
 Ensa | | secteurs mineurs; Uminor le troisième | PLACE | OK
 Ensa est notre secteur mineur, le troisième du secteur majeur de Splandon, qui comprend cent secteurs mineurs (15:14.7) (18:5.5) (29:4.18)
 Uminor le troisième, le siège d'Ensa, est entouré de sept sphères satellites (15:7.8)
-Le centre de rotation d'Ensa est situé très loin dans l'énorme et dense nuage d'étoiles du Sagittaire, autour duquel votre univers local et ses créations associées se déplacent tous, et depuis les côtés opposés du vaste système sous-galactique du Sagittaire, vous pouvez observer deux grands courants de nuages ​​d'étoiles émergeant dans des bobines stellaires stupéfiantes. (15:3.5-11)
+Le centre de rotation d'Ensa est situé très loin dans l'énorme et dense nuage d'étoiles du Sagittaire, autour duquel votre univers local et ses créations associées se déplacent tous, et depuis les côtés opposés du vaste système sous-galactique du Sagittaire, vous pouvez observer deux grands courants de nuages d'étoiles émergeant dans des bobines stellaires stupéfiantes. (15:3.5-11)
 
 enseconaphimation | | transport séraphique, sécoraphique et superaphique | | OK
 L'enseconaphimation est le processus par lequel un pèlerin ascendant est enfermé dans un seconaphin pour le long vol vers Havona (112:7.5)
@@ -915,7 +915,7 @@ L'âme intérieure des pharisiens était remplie d'autosatisfaction, de convoiti
 La peur, l'envie et la vanité ne peuvent être évitées que par un contact intime avec d'autres esprits. (160:2.7)
 « Il y a celui qui s'enrichit par sa prudence et ses avarices, et voici quelle est sa récompense : alors qu'il dit : J'ai trouvé le repos et maintenant je pourrai manger continuellement de mes biens, il ne sait pas ce que le temps lui apportera, et aussi qu'il devra laisser toutes ces choses à d'autres quand il mourra » (165:4.8).
 
-Éocène | | âges géologiques | | OK
+Éocène; éocène | | âges géologiques | | OK
 L'Éocène était l'ère primitive des mammifères, il y a 50 à 35 millions d'années (61:1.14)
 > https://en.wikipedia.org/wiki/Eocène
 
@@ -934,11 +934,11 @@ Les Juifs (Judaites) ont toujours cherché à diffamer et à noircir le passé d
 Les anciens opprimés d'Éphraïm ont oint David comme roi d'Israël (97:9.11)
 > https://en.wikipedia.org/wiki/Tribe_of_Ephraim
 
-Professeur épicurien à Corinthe; Professeur épicurien | | | | OK
+Maitre épicurien à Corinthe; maitre épicurien | | | | OK
 Jésus a eu une conversation avec un enseignant épicurien à Corinthe (133:4.5)
 
-Épicurisme; Épicuriens; Épicurien | | | RELIGION | OK
- Cette école de pensée se consacrait à la recherche du bonheur. Elle combattait efficacement la superstition ignorante. (121:4.2)
+Épicurisme; épicuriens | | | RELIGION | OK
+Cette école de pensée se consacrait à la recherche du bonheur. Elle combattait efficacement la superstition ignorante. (121:4.2)
 La religion occidentale a ainsi langui jusqu'à l'époque des sceptiques, des cyniques, des épicuriens et des stoïques, mais surtout jusqu'à l'époque de la grande lutte entre le mithraïsme et la nouvelle religion chrétienne de Paul. (98:6.2)
 > https://en.wikipedia.org/wiki/Epicureanism
 
@@ -950,8 +950,8 @@ les épileptiques étaient souvent des prêtres et des hommes-médecine (88:1.9)
 Les fous, les épileptiques et les faibles d'esprit étaient souvent adorés par leurs semblables normaux, qui croyaient que ces êtres anormaux étaient habités par les dieux. (85:6.2)
 > https://en.wikipedia.org/wiki/Epilepsy
 
-Épître de Jean; Première épître de Jean | | | | OK
-L'épître connue sous le nom de « Première épître de Jean » a été écrite par Jean lui-même comme lettre de couverture du travail que Nathan a exécuté sous sa direction pour l'Évangile de Jean (121:8.10).
+Épître de Jean; Première de Jean | | | | OK
+L'épître connue sous le nom de « Première de Jean » a été écrite par Jean lui-même comme lettre de couverture du travail que Nathan a exécuté sous sa direction pour l'Évangile de Jean (121:8.10).
 > https://en.wikipedia.org/wiki/First_Epistle_of_John
 
 anges d'époque | | séraphins:types | ORDER | OK
@@ -989,9 +989,9 @@ Nous ne pouvons pas prier une formule chimique, implorer une équation mathémat
 équivoque | | | | OK
 L'un des objectifs de la carrière morontielle est d'éliminer définitivement chez les survivants mortels des traits vestigiaux animaux tels que la procrastination, l'équivoque, l'insincérité, l'évitement des problèmes, l'injustice et la recherche de la facilité. (48:5.8)
 
-Erech | | | PLACE | OK
-Erech était une cité-état de Mésopotamie. Vers 2500 av. J.-C., les Sumériens subirent de graves revers aux mains des Suites et des Guites du nord. Lagash, la capitale sumérienne construite sur des monticules inondés, tomba. Erech résista trente ans après la chute d'Akkad. (78:8.9-10)
-Noé n'était pas un mythe. Il a réellement vécu. Il était vigneron à Aram, une ville située près d'Erech. (78:7.5)
+Érech | | | PLACE | OK
+Érech était une cité-état de Mésopotamie. Vers 2500 av. J.-C., les Sumériens subirent de graves revers aux mains des Suites et des Guites du nord. Lagash, la capitale sumérienne construite sur des monticules inondés, tomba. Érech résista trente ans après la chute d'Akkad. (78:8.9-10)
+Noé n'était pas un mythe. Il a réellement vécu. Il était vigneron à Aram, une ville située près d'Érech. (78:7.5)
 > https://en.wikipedia.org/wiki/Uruk
 
 erreur; Erreur | | mal; iniquité; erreurs; péché | | OK
@@ -1018,7 +1018,7 @@ la plus grosse erreur
 	Il n'y a pas d'erreur plus grave que cette espèce d'auto-illusion qui conduit des êtres intelligents à désirer exercer le pouvoir sur d'autres êtres dans le but de priver ces personnes de leurs libertés naturelles. (54:1.6-9)
 	il est difficile pour les anges et les médians de concevoir que des dirigeants brillants et dignes de confiance comme Caligastia puissent s'égarer (67:4.6)
 
-Esdraelon | (158:1.4) | | PLACE | OK
+Esdraélon | (158:1.4) | | PLACE | OK
 La plaine d'Esdralon est une grande vallée fertile située au nord d'Israël. Elle est également connue sous le nom de vallée de Jizréel (123:5.13)
 David, avec six cents hommes, s'allia avec les Philistins et marcha le long de la côte jusqu'à Esdrelon. Mais il quitta la plaine à la demande des Philistins, leur permettant de vaincre Saül. (97:9.5)
 > https://en.wikipedia.org/wiki/Jezreel_Valley
@@ -1042,14 +1042,14 @@ Croyances
 	Les Esquimaux et les Amérindiens, relativement récents, avaient des conceptions très limitées de Dieu ; ils croyaient aux fantômes et avaient une idée vague de la survie d'une certaine sorte après la mort. (92:6.1)
 > https://en.wikipedia.org/wiki/Eskimo
 
-Esséniens | | Judaïsme | RELIGION | OK
+Esséniens; esséniens | | Judaïsme | RELIGION | OK
 Les Esséniens étaient une secte juive mystique de la période du Second Temple, née lors de la révolte des Maccabées
 ils possédaient des biens en commun, ce que faisaient également les apôtres de Jésus (165:4.5)
 Leurs exigences étaient à certains égards plus exigeantes que celles des pharisiens. Ils avaient adopté de nombreuses croyances et pratiques perses, vivaient en fraternité dans des monastères, s'abstenaient de se marier et avaient tout en commun. Ils se spécialisaient dans les enseignements concernant les anges. (137:7.8)
 de nombreux Esséniens ont toléré la théorie de la réincarnation, selon laquelle les hommes peuvent récolter en une seule incarnation ce qu'ils ont semé dans une existence précédente (164:3.4)
 > https://en.wikipedia.org/wiki/Essenes
 
-Cette | | | PERSON | OK
+Esta | | | PERSON | OK
 Elle épousa Jacques, le frère de Jésus (128:5.7) (128:7.10-11)
 elle a remonté le moral de Marie quand elle s'est relâchée en pensant que Jésus n'avait pas l'intention de combler ses attentes messianiques (137 : 7.1)
 
@@ -1156,7 +1156,7 @@ nature
 	Il est le contrepoids éternel du Paradis. Le Paradis soutient les choses matérielles et le Fils Éternel les choses spirituelles (7:0.3)
 	il est difficile à comprendre pour les mortels (6:8.6)
 	il est égal au Père en amour, en miséricorde et en ministère (6:4.9)
-	Le Fils Éternel, en tant qu'être infini et exclusivement personnel, ne peut fragmenter sa nature (6:5.5-6) ​​(7:5.3) (10:3.18)
+	Le Fils Éternel, en tant qu'être infini et exclusivement personnel, ne peut fragmenter sa nature (6:5.5-6) (7:5.3) (10:3.18)
 	il est infini en sagesse et en vérité; il est le révélateur universel (9:0.2)
 	il est éternel (10:3.5)
 	Le Fils Éternel est le grand ministre de miséricorde envers toute la création. (6:3.2,5) (8:4.2)
@@ -1184,7 +1184,7 @@ reconnaissance du Fils Éternel
 	Michael possède tous les attributs du Fils Éternel, il était le Fils Éternel dans Nébadon (33:1.2)
 	Les Princes Planétaires sont l'approche personnelle la plus proche, en dehors de l'incarnation, que le Fils Éternel puisse faire à l'homme (50:1.1)
 
-Éternels des jours | (18:2) | Havona | ORDER | OK
+Éternels des Jours | (18:2) | Havona | ORDER | OK
 ce sont des Personnalités Suprêmes de la Trinité (18:0.3) (18:2.1)
 Ils sont proches parents des Anciens des Jours et sont leurs égaux divins, ceux-ci présidant aux destinées des sept supergouvernements. (18:2.2)
 Il y en a un milliard et ils ont été créés par la Trinité. Chacun d'eux dirige une des sphères de Havona (14:3.3) (14:5.6,9) (18:2.1)
@@ -1218,7 +1218,7 @@ toutes les suppositions de la philosophie naturelle ne sont pas valables ; par e
 l'Absolu Non Qualifié n'est pas une influence indifférenciée et omniprésente comparable soit aux concepts panthéistes de la métaphysique, soit à l'hypothèse parfois éthérée de la science (0:11.9)
 > https://en.wikipedia.org/wiki/Aether_theories
 
-Sensibilisateurs éthiques | | superviseur séraphin | ORDER | OK
+Sensibilisateurs d'éthique; sensibilisateurs d'éthique | | superviseur séraphin | ORDER | OK
 Les sensibilisateurs éthiques sont des séraphins superviseurs dont la mission est de favoriser et de promouvoir la croissance de l'appréciation des créatures de la moralité des relations interpersonnelles, car telle est la semence et le secret de la croissance continue et déterminée de la société et du gouvernement, humain ou surhumain. (39:3.7)
 
 éthique; Éthique; Éthique; éthique | | moralité | | OK
@@ -1242,8 +1242,8 @@ défini comme
 	L'éthique est la nécessité de reconnaître que le monde et l'univers sont remplis d'une multitude de types d'êtres différents, et que toute cette magnifique création, y compris nous-mêmes, n'a pas été faite juste pour nous. (28:6.18)
 	L'éthique de groupe est le secret des relations agréables et profitables entre les différents ordres de personnalités intelligentes de l'univers et du superunivers. (43:8.3)
 apprentissage
-	notre séjour sur Edentia sera principalement consacré à l'éthique de groupe (43:8.3)
-	nous pratiquerons un apprentissage éthique amélioré en socialisant avec univitatia à Edentia (43:8.12)
+	notre séjour sur Édentia sera principalement consacré à l'éthique de groupe (43:8.3)
+	nous pratiquerons un apprentissage éthique amélioré en socialisant avec univitatia à Édentia (43:8.12)
 	Les significations des origines enseignent aux ascendeurs comment appliquer l'éthique spirituelle (28:6.8)
 	Les Unions d'Âmes sécoraphiques représentent des idéaux et montrent l'état de l'univers face aux problèmes éthiques (28:5.13)
 Jésus et l'éthique
@@ -1254,7 +1254,7 @@ Jésus et l'éthique
 Les Compagnons Morontiels sont des instructeurs de conduite sociale dans les mondes temporaires (48:3.11)
 Les conseillers techniques enseignent la meilleure et la bonne façon de faire les choses (25:4.17)
 
-Sacerdoce étrusque | | | RELIGION | OK
+Prêtrise étrusque; prêtrise étrusque | | | RELIGION | OK
 Au cours de la grande renaissance monothéiste de l'évangile de Melchisédek au cours du sixième siècle avant Jésus-Christ, trop peu de missionnaires de Salem pénétrèrent en Italie, et ceux qui le firent furent incapables de surmonter l'influence du sacerdoce étrusque qui se répandait rapidement avec sa nouvelle galaxie de dieux et de temples, qui s'organisèrent tous dans la religion d'État romaine. (98:3.2)
 
 eugénisme | (82:6) | génétique; handicaps; races | | OK
@@ -1360,9 +1360,9 @@ Jésus a assuré qu'il y avait des messagers invisibles aux côtés des évangé
 évangiles du destin | | | ORDER | OK
 Les évangiles de la destinée proclament la liberté spirituelle et la filiation divine même dans les mondes les plus reculés de l'univers (35:3.21)
 
-Évangiles de la Lumière | | | ORDER | OK
-Les Évangiles de Lumière sont des êtres célestes temporairement attachés à des compagnies mortelles finalitaires (31:7.1)
-Toute personnalité céleste assignée au service d'un corps finalitaire est appelée Évangile de Lumière. (31:7.2)
+Évanges de Lumière | | | ORDER | OK
+Les Évanges de Lumière sont des êtres célestes temporairement attachés à des compagnies mortelles finalitaires (31:7.1)
+Toute personnalité céleste assignée au service d'un corps finalitaire est appelée Évange de Lumière. (31:7.2)
 
 Ève | | Adam; Fils matériels | PERSON | OK
 Eve est la fille matérielle consort d'Adam qui a accepté la mission d'amener la race violette sur Urantia
@@ -1391,8 +1391,8 @@ après la faute
 
 Étoiles du soir | | Étoiles du soir brillantes | ORDER | OK
 
-Événement | | | PERSON | OK
-Événements est le nom que Miguel a adopté lorsqu'il a fait son premier don en tant qu'esprit mortel ascendant sur Uversa. (119:5.2)
+Éventod | | | PERSON | OK
+Éventod est le nom que Miguel a adopté lorsqu'il a fait son premier don en tant qu'esprit mortel ascendant sur Uversa. (119:5.2)
 
 êtres transcendantaux exaucés | | Transcendantaux | ORDER | OK
 
@@ -1411,8 +1411,8 @@ eventuateurs | | Transcendentalers | | OK
 
 omniprésence | | omniprésence | | OK
 
-Eveson | | | PERSON | OK
-Evason est le deuxième fils d'Adam ; il est devenu un chef magistral. Il est décédé avant Adam (74:6.2) (76:3.3)
+Èveson | | | PERSON | OK
+Èveson est le deuxième fils d'Adam ; il est devenu un chef magistral. Il est décédé avant Adam (74:6.2) (76:3.3)
 
 preuve; Preuve | | certitude | | OK
 La preuve, la base de l'équité, de la justice en harmonie avec la miséricorde, est fournie par les personnalités de la Troisième Source-Centre, le représentant conjoint du Père et du Fils dans tous les royaumes et dans l'esprit des êtres intelligents de toute la création. (10:6.3)
@@ -1757,22 +1757,22 @@ il a parlé d'un nouvel esprit qui habiterait dans l'âme de l'homme (121:7.5)
 il était l'un des rares chefs spirituels qui n'ont pas été réduits au silence (97:10.3)
 > https://en.wikipedia.org/wiki/Ezekiel
 
-Esdras (disciple de Jean) | | | PERSON | OK
-Esdras est un disciple de Jean-Baptiste qui n'a pas accepté Jésus, s'est séparé de Jean et a formé un groupe séparé dans le sud, devenant le fondateur de la religion mandéenne, une religion qui existe encore aujourd'hui (137:2.2)
+Ezra (disciple de Jean) | | | PERSON | OK
+Ezra est un disciple de Jean-Baptiste qui n'a pas accepté Jésus, s'est séparé de Jean et a formé un groupe séparé dans le sud, devenant le fondateur de la religion mandéenne, une religion qui existe encore aujourd'hui (137:2.2)
 > https://en.wikipedia.org/wiki/Mandaeism
 
-Esdras d'Alexandrie | | | PERSON | OK
-Esdras est le père de Suzanne, la chef des douze femmes évangélistes (189:4.4)
+Ezra d'Alexandrie | | | PERSON | OK
+Ezra est le père de Suzanne, la chef des douze femmes évangélistes (189:4.4)
 
-Esdras de Nazareth; Esdras | | | PERSON | OK
-Esdras était un riche marchand de Nazareth, le père de Rebecca, la femme qui tomba amoureuse de Jésus et lui demanda sa main (127:5.1,2,6)
+Ezra de Nazareth; Ezra | | | PERSON | OK
+Ezra était un riche marchand de Nazareth, le père de Rebecca, la femme qui tomba amoureuse de Jésus et lui demanda sa main (127:5.1,2,6)
 
-Esdras de Syracuse; Esdras | | | PERSON | OK
-Esdras était un Juif rétrograde, qui possédait une taverne et un hospice à Syracuse, et que Jésus a réhabilité (130:8.2)
+Ezra de Syracuse; Ezra, le Juif | | | PERSON | OK
+Ezra était un Juif rétrograde, qui possédait une taverne et un hospice à Syracuse, et que Jésus a réhabilité (130:8.2)
 
-Esdras (Prophète) | | | PERSON | OK
-Le prophète Esdras a promis la prospérité à ceux qui observeraient la loi (97:8.3)
+Ezra (Prophète) | | | PERSON | OK
+Le prophète Ezra a promis la prospérité à ceux qui observeraient la loi (97:8.3)
 > https://en.wikipedia.org/wiki/Ezra
 
-Ezraeon | | | PLACE | OK
-Joseph et Marie quittèrent Alexandrie sur le bateau d'Esraeon (123:0.4)
+Ezraéon | | | PLACE | OK
+Joseph et Marie quittèrent Alexandrie sur le bateau d'Ezraéon (123:0.4)

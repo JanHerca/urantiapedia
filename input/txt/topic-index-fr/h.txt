@@ -66,11 +66,11 @@ Marteaux de peur et d'angoisse
 	La civilisation d'Urantia a été littéralement forgée entre l'enclume de la nécessité et les marteaux de la peur. (66:5.13)
 	Les Créateurs possèdent tous les pouvoirs pour faire d'Urantia un véritable paradis, mais un tel Éden ne contribuerait pas au développement de ces caractères forts, nobles et expérimentés que les Dieux forgent si sûrement sur votre monde entre les enclumes de la nécessité et les marteaux de l'angoisse. (23:2.12)
 
-Hammurabi | (78:8.10) | | PERSON | OK
-Hammurabi, comme d'autres chefs antiques, a admis avoir puni certains crimes par le bûcher. (70:10.14)
+Hammourabi | (78:8.10) | | PERSON | OK
+Hammourabi, comme d'autres chefs antiques, a admis avoir puni certains crimes par le bûcher. (70:10.14)
 > https://en.wikipedia.org/wiki/Hammurabi
 
-Empire Han | | Chine | PLACE | OK
+Empire de Han | | Chine | PLACE | OK
 À l'époque de Jésus, il n'y avait que deux grandes puissances mondiales – l'Empire romain à l'Ouest et l'Empire Han à l'Est – et elles étaient largement séparées par le royaume parthe et d'autres terres intermédiaires des régions caspienne et du Turkestan. (134:5.1)
 La civilisation des fils de Han est celle qui se rapproche le plus de la présentation d'une image ininterrompue de progression continue jusqu'à l'époque du vingtième siècle. (79:8.16)
 
@@ -104,8 +104,8 @@ la cérémonie juive du lavage des mains
 Les guérisons de Jésus
 	Jésus a guéri un homme à la main sèche en signe de protestation contre les pratiques religieuses asservissantes, comme le sabbat juif (148:7)
 
-Hannah | | | PERSON | OK
-Anne était la mère de Marie, la mère de Jésus. Toute la famille de Marie, y compris sa mère, était toujours très sceptique quant à la mission divine de Jésus (122:3.3)
+Anna | | | PERSON | OK
+Anna était la mère de Marie, la mère de Jésus. Toute la famille de Marie, y compris sa mère, était toujours très sceptique quant à la mission divine de Jésus (122:3.3)
 > https://en.wikipedia.org/wiki/Saint_Anne
 
 Hap | | Caligastia cent; La voie du père | | OK
@@ -364,15 +364,15 @@ Les sept circuits des esprits d'Havona envahissent ; ils ne font pas partie de l
 univers modèle (26:2.6)
 L'Être suprême fonctionne à Havona en tant que personnalité spirituelle (116:0.5)
 
-Centres Havona | | | ORDER |
+Centres de Havona | | | ORDER |
 dans le registre de personnalité d'Uversa (30:2.94)
 non requis avant la création des superunivers (29:2.12)
 Centres de pouvoir suprêmes ; l'un supervise 1000 mondes de Havona ; 1 million de mondes créés (29:2.12)
 
-Méthode du graphe de Havona | | | |
+méthode graphique de Havona | | | |
 quantités prodigieuses d'informations assimilées par ; utilisées au Paradis (26:3.8) (27:6.4)
 
-Natifs de Havona | (14:4) (19:6) | | ORDER |
+natifs de Havona | (14:4) (19:6) | | ORDER |
 acquérir la compréhension du Suprême (117:6.14)
 acquérir de l'expérience grâce au contact avec les ascendeurs (19:6.2)
 dans les registres de personnalité (30:1.21) (30:2.35) (30:2.124)
@@ -533,7 +533,7 @@ types
 cortèges historiques | | | ORDER |
 reproducteurs célestes, artisans célestes (44:2.6)
 
-Langue hébraïque | | | |
+langue hébraïque | | | |
 alphabet des Philistins ; peu d'écriture jusqu'à 900 av. J.-C. (74:8.9)
 distinctement andonite (80:8.2)
 Jésus a parlé (123:2.14) (123:5.1,4)
@@ -553,7 +553,7 @@ Jean et Élisabeth ont déménagé à (135:2.3)
 Le roi David a établi son quartier général dans la ville non hébraïque de (97:9.7)
 la synagogue d'Hébron a nié la juridiction du Sanhédrin ; elle a été détruite par le feu (154:2.1)
 
-Course d'Heidelberg | | | RACE |
+race de Heidelberg | | | RACE |
 Andonites supérieurs et prolifiques (64:2.3)
 
 hauteur | | | |
@@ -561,7 +561,7 @@ Adam et Eve mesuraient 2,40 mètres (74:1.1)
 l'anxiété ne peut pas ajouter de largeur à (165:5.2)
 le géantisme chez les peuples verts et oranges (51:4.2)
 
-Heldua | (156:3.1) | | PLACE |
+Heldoue | (156:3.1) | | PLACE |
 Jésus est passé par la Phénicie
 
 hélium | | | |
@@ -660,14 +660,14 @@ concernant Jésus
 	Jésus refusa de parler à; ne voulait pas travailler pour (128:2.6) (185:4) (186:2.2)
 > https://en.wikipedia.org/wiki/Herod_Antipas
 
-Hérode Archélaüs ; Archélaos | | | PERSON | OK
+Hérode Archélaüs; Archelaüs | | | PERSON | OK
 déposé en l'an 7 après J.-C. (124:6.2)
 Joseph craignait qu'Hérode Archélaüs ne poursuive la politique de son père (123:0.5)
 palais à Jéricho (171:8.2)
 parabole des livres basée sur l'expérience de (171:8.2)
 > https://en.wikipedia.org/wiki/Herod_Archelaus
 
-Hérode le Grand | | | PERSON | OK
+Hérode le Grand; Hérode | | | PERSON | OK
 père d'Archélaüs (123:0.5)
 père d'Hérode Antipas ; bâtisseur du port de Césarée ; mort en 4 av. J.-C. (121:2.11)
 d'Idumée (121:2.9)
@@ -677,7 +677,7 @@ gouverna la Judée; construisit des temples pour des dieux étrangers (121:2.9-1
 
 Hérode l'Iduméen | | Hérode le Grand | PERSON | OK
 
-Hérodiens | | | |
+hérodiens | | | |
 a prôné la restauration de la dynastie hérodienne (137:7.10)
 unis dans un effort pour discréditer Jésus (174:2.1)
 
@@ -694,7 +694,7 @@ le voleur sur la croix a vu un vrai héros (187:4.5)
 
 hérons | (61:2.12) | | |
 
-Ondes hertziennes | (42:5.12) | | |
+ondes hertziennes | (42:5.12) | | |
 
 Hesbon | (128:3.2) (159:0.2) (165:0.1) (171:3.2) | | PLACE |
 Mission Pérée
@@ -729,7 +729,7 @@ nombre 1,5 milliard dans Nébadon (37:5.6)
 Les mortels fusionnés avec l'Esprit peuvent devenir (37:5.1-10)
 travailler avec le conseiller judiciaire Seraphim pour s'assurer que les accusations contre les mortels sont formulées de manière équitable (39:1.7)
 
-Fils Assistants Supérieurs | | Fils de Perfection Trinitisés | ORDER |
+Assistants des Fils Élevés | | Fils de Perfection Trinitisés | ORDER |
 affectueux, loyaux, humbles et extrêmement sages quant au concept qu'ils personnifient (22:10.8)
 sont la personnification d'un idéal universel unique (22:10.2)
 effectuer des travaux de routine majeurs et mineurs dans les secteurs (18:4.4-5)
@@ -744,7 +744,7 @@ Finalitaires embrassés par la Trinité et fils trinitisés par le Paradis-Havon
 
 personnalités spirituelles élevées du contrôle des circuits (non révélées) | (24:1.12) | | ORDER |
 
-Personnalités supérieures de l'Esprit infini | (23) (24) | | ORDER |
+Personnalités Supérieures de l'Esprit Infini | (23) (24) | | ORDER |
 dans le registre de la personnalité (30:2.66-73)
 Le Maître Esprit Numéro Trois dirige beaucoup de gens (16:3.6)
 commandes (24:0.2)
@@ -762,13 +762,13 @@ femme adultère ; son mari était un dégénéré de Nazareth (162:3)
 
 collines | | montagnes | |
 
-Himalaya | | | PLACE |
+Himalayas | | | PLACE |
 géologie (59:3.3) (60:1.12) (60:3.15) (61:1.13)
 
 Hindu Kush | | | PLACE |
 croissance du commerce (81:3.1)
 
-Hindouisme | (94:4) | Agni ; Brahma; Brahmane; les brahmanes ; Brahmanisme; Inde; Indra ; Rig-Véda ; Soma; Trimurti ; les Upanishads ; Védas ; Vishnu | RACE |
+hindouisme | (94:4) | Agni ; Brahma; Brahmane; les brahmanes ; Brahmanisme; Inde; Indra ; Rig-Véda ; Soma; Trimurti ; les Upanishads ; Védas ; Vishnu | RACE |
 Bouddhisme affecté (94:9.3)
 feux d'autel allumés avec un exercice d'incendie primitif (92:2.2)
 croyances
@@ -791,14 +791,14 @@ religion de la métaphysique (5:4.7)
 
 Hindous | | Hindouisme; Inde | RACE |
 
-Hinnom, vallée de; vallée de Hinnom | | | PLACE |
+Hinnom, vallée du; vallée du Hinnom | | | PLACE |
 Judas s'est pendu (186:1.7)
 
 hippopotames | (61:2.9) | | |
 entré en Europe depuis l'Afrique ; les lions ont été pratiquement exterminés (64:4.7)
 chassé par les Néandertaliens (64:4.2)
 
-Hippopotames | (138:9.3) (149:0.1) (159:1.1) | | PLACE |
+Hippos | (138:9.3) (149:0.1) (159:1.1) | | PLACE |
 Une ville où Jésus et les apôtres ont prêché
 
 Hiram | | | PERSON |
@@ -832,16 +832,16 @@ ils ont constamment attaqué les tribus de Palestine (93:5.6)
 organisé et hautement civilisé (96:2.2)
 a enseigné le culte de Salem aux descendants d'Adamson (93:7.2)
 
-Tenant | | | PERSON | OK
+Holdant | | | PERSON | OK
 gardien du système local; détenteur des esprits internés; Lanonandek tertiaire #19 (45:3.5)
 
 vacances | | | |
 la prière empêche les jours saints de revenir à (91:1.1)
 
-Holocène | | âges géologiques | |
+Holocène; période holocène | | âges géologiques | |
 période postglaciaire; a commencé il y a 35 000 ans (61:7.18)
 
-Zone sacrée | | | PLACE |
+Aire Sainte | | | PLACE |
 zone du Paradis supérieur (11:3.2-4)
 zone résidentielle de 7 zones (11:3.3-4)
 souvenirs de nos journées matérielles retrouvés sur (11:3.2)
@@ -917,7 +917,7 @@ bâtisseurs divins, artisans célestes (44:3.2)
 sans-abri | | | |
 ramener à la maison (147:8.3)
 
-Phénicien nostalgique | | | |
+Phénicien nostalgique; Phénicien fort découragé | | | |
 Les paroles réconfortantes de Jésus à (133:6.2)
 
 Honan | | | |
@@ -1029,11 +1029,11 @@ proclamer l'évangile de (150:4.2)
 propension à se blottir | | | |
 des ultimatons (42:7.10)
 
-Baie d'Hudson | | | PLACE |
+Baie d'Hudson; baie d'Hudson | | | PLACE |
 les élévations granitiques appartiennent aux âges préocéaniques (57:8.12)
 rencontre entre une tribu indienne et un groupe esquimau (64:7.19)
 
-Rivière Hudson | (59:4.15) (60:1.3) | | PLACE |
+Rivière Hudson; vallée de l'Hudson | (59:4.15) (60:1.3) | | PLACE |
 Les Grands Lacs autrefois vidés (61:7.10)
 
 nature humaine | | mortels : nature humaine | |
@@ -1137,10 +1137,10 @@ hybridation | | génétique | |
 de souches différentes supérieures produisent des souches vigoureuses (82:6,5-11)
 des races plus fortes et meilleures résultent du croisement de celles qui ont une hérédité supérieure (64:6.32)
 
-Hydre | (65:2.5) | | |
+hydre | (65:2.5) | | |
 
 hydrogène | | | |
-amas de nuages ​​de poussière astronomiques (58:3.1-4)
+amas de nuages de poussière astronomiques (58:3.1-4)
 poids de l'électron par rapport à un atome d'hydrogène (42:6,7)
 dans l'océan primitif (57:8.3)
 dans les réactions d'énergie solaire (41:8.1-2)

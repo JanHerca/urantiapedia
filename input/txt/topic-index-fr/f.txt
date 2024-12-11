@@ -22,7 +22,7 @@ On peut avoir techniquement raison quant aux faits et éternellement tort quant 
 
 faculté de diffusion et de conservation des connaissances | | Caligastia cent | | OK
 
-Mode | | Caligastia cent | | OK
+Fad | | Caligastia cent | | OK
 Fad était le directeur de la faculté chargée de diffuser et de préserver la connaissance, l'un des dix conseils du personnel de Caligastia sur Urantia (66:5.9)
 Fad et 5 membres de son conseil s'opposèrent à la rébellion (67:4.1)
 Fad a formulé le premier alphabet de 25 caractères et a introduit un système d'écriture (66:5.9)
@@ -33,8 +33,8 @@ il a parrainé une méthode d'enseignement par la pratique (66:7.6)
 évanouissement | | | | OK
 Les anciens croyaient que l'âme quittait le corps lors d'un évanouissement (86:5.5)
 
-Les havres de paix | | | | OK
-Une chose s'est produite lors d'une visite à Fair Havens : Jésus a empêché un dégénéré ivre d'attaquer une esclave sur la voie publique. (130:5.4)
+Beaux-Ports | | | | OK
+Une chose s'est produite lors d'une visite à Beaux-Ports : Jésus a empêché un dégénéré ivre d'attaquer une esclave sur la voie publique. (130:5.4)
 > https://en.wikipedia.org/wiki/Kaloi_Limenes
 
 fées | | | | OK
@@ -224,20 +224,20 @@ foi fils de Dieu | | apostolat; disciples; communion des croyants; gouvernement:
 Dans les réalités fraternelles du royaume des cieux, les fils de Dieu par la foi trouvent la délivrance finale de l'isolement du moi, à la fois personnel et planétaire. (184:4.6)
 Les mortels d'aujourd'hui vivraient moins cette apparente guerre entre la chair et l'esprit s'ils entraient dans le royaume spirituel, dans lequel les fils de Dieu par la foi jouissent d'une délivrance comparative de l'esclavage de la chair (34:7.6-7)
 
-Fidèle des Jours d'Edentia | | Fidèles des Jours | PERSON | OK
-Le Fidèle des Jours est le représentant de la Trinité du Paradis et d'Emmanuel à Edentia
-l'Assemblée du Mont d'Edentia est la résidence des Fidèles des Jours (43:4.1)
-sa résidence sur Edentia est relativement modeste par rapport à celle des Vorondadeks au pouvoir (18:7.4) (43:4.4)
+Fidèle des Jours d'Édentia | | Fidèles des Jours | PERSON | OK
+Le Fidèle des Jours est le représentant de la Trinité du Paradis et d'Emmanuel à Édentia
+l'Assemblée du Mont d'Édentia est la résidence des Fidèles des Jours (43:4.1)
+sa résidence sur Édentia est relativement modeste par rapport à celle des Vorondadeks au pouvoir (18:7.4) (43:4.4)
 il a conseillé aux Très Hauts de permettre aux rebelles de Lucifer une libre ligne d'action (54:5.9)
 les Fidèles des Jours ont présenté le plan de salut de Michel à Lucifer, mais ont été rejetés (53:2.5)
-les mortels ascendants rencontrent sur Edentia le Fidèle des Jours, la première personnalité née de la Trinité qu'ils connaissent (43:9.1)
+les mortels ascendants rencontrent sur Édentia le Fidèle des Jours, la première personnalité née de la Trinité qu'ils connaissent (43:9.1)
 
 fidélité; fidèle | | | | OK
 La fidélité est la mesure infaillible de la fiabilité humaine.
 la fidélité est la base du verdict éternel du Juge suprême : « C'est bien, bon et fidèle serviteur ; tu as été fidèle sur quelques points essentiels ; tu seras établi sur les réalités de l'univers » (25:1.6)
 nous devons être fidèles dans les petites choses comme dans les grandes (169:2.6) (171:8.11-13) (176:3.4)
 
-Fidèles des jours | (18:7) | Fidèles des jours d'Edentia | ORDER | OK
+Fidèles des Jours | (18:7) | Fidèle des Jours d'Édentia | ORDER | OK
 Les Fidèles des Jours sont les conseillers du Paradis auprès des dirigeants des cent constellations de chaque univers local. Il en existe 70 millions (18:7.1)
 ils sont en communication constante avec leur ordre (18:7.3) (43:4.3)
 ils apparaissent dans les registres de personnalité sous des êtres d'origine trinitaire dans le groupe des Fils Stationnaires de la Trinité (30:1.14) (30:2.29)
@@ -333,7 +333,7 @@ valeur des familles
 	Le groupe social le plus efficace est la famille, et plus particulièrement les deux parents. La famille est le maître civilisateur. (82:0.2) (160:2.4)
 	une vraie famille – une bonne famille – révèle aux parents procréateurs l'attitude du Créateur envers ses enfants, tandis qu'en même temps, de tels vrais parents dépeignent à leurs enfants la première d'une longue série de révélations ascendantes de l'amour du parent du Paradis (84:7.30)
 
-Commission de la famille des Douze | | | PERSON | OK
+Commission Familiale des Douze | | | PERSON | OK
 3 familles sélectionnées pour l'incarnation de Michael (122:0.2)
 
 armoiries familiales | | | | OK
@@ -376,7 +376,7 @@ Jésus voulait avoir une ferme, mais il n'a pas réalisé ce rêve. Malgré tout
 Le frère de la mère de Jésus avait une ferme sur la route de Megiddo près de Sarid (123:1.7) (123:6.1) (124:1.2,11)
 Jude, le frère de Jésus, s'enfuit dans la ferme de son oncle (128:7.8)
 
-Îles Féroé | | | PLACE | OK
+Îles Féroé; iles Féroé | | | PLACE | OK
 Les missionnaires de Salem pénétrèrent dans toute l'Europe, même jusqu'aux îles britanniques. Un groupe passa par les îles Féroé pour se rendre chez les Andonites d'Islande (93:7.2).
 
 mode; robe | | | | OK
@@ -415,20 +415,20 @@ Les monothéistes considèrent leurs dieux subordonnés comme des esprits, des d
 
 Père-Absolu | | Père Universel | PERSON | OK
 
-Père-Brahma | | Brahma; Brahmanisme | PERSON | OK
+Brahma-Père | | Brahma; Brahmanisme | PERSON | OK
 Source védique de tous les dieux, un concept védique très similaire au Dieu unique prêché à Salem (94:1.5)
 
 Fragments du Père | | Ajusteurs de Pensée | ORDER | OK
 
 Mortels fusionnés avec le Père | | mortels ascendants | ORDER | OK
 
-Père guide | | | ORDER | OK
+Guides du Père; guides du Père | | | ORDER | OK
 supernaphins secondaires du 3ème cercle de Havona. Lorsque l'âme pèlerine atteint le troisième cercle de Havona, elle se place sous la tutelle des guides du Père, les plus âgés, les plus qualifiés et les plus expérimentés des ministres superaphiques. (26:9)
 
-Père-Infini | | Père Universel | PERSON | OK
+Infini-Père | | Père Universel | PERSON | OK
 le Père-Infini est le concept de l'Infini qui dénote la primauté du Premier Centre-Source, l'infinité du libre arbitre absolu et sans entraves du Père Universel (0:3.24)
 
-Père Melchisédek | (35:1) (189:1.10) | Fils de Melchisédek | PERSON | OK
+Père Melchizédek | (35:1) (189:1.10) | Fils de Melchisédek | PERSON | OK
 Le Père Melchisédek est le Fils Melchisédek originel ou premier-né, et dans Nébadon il y en a un (33:6.2) (35:1.1)
 il est l'associé exécutif et le directeur général de Gabriel
 Le père Melchisédek est celui qui assume la position de Gabriel en son absence (33:6.2) (35:1.2)
@@ -449,7 +449,7 @@ En fin de compte, l'idée du Père reste le concept humain le plus élevé de Di
 La paternité de Dieu et la fraternité de l'homme présentent le paradoxe de la partie et du tout au niveau de la personnalité. (12:7.8)
 La paternité devient, ou peut devenir, une réalité universelle pour toutes les créatures morales parce que le Père a lui-même conféré la personnalité à tous ces êtres et les a placés dans l'emprise du circuit universel de la personnalité. (16:9.14)
 
-Ressemblance avec le Père | | divinité; croissance spirituelle | | OK
+Ressemblance avec le Père; ressemblance avec le Père | | divinité; croissance spirituelle | | OK
 Nous nous rendrons compte un jour que le succès dans la quête de l'Infini est directement proportionnel à la réalisation de la ressemblance avec le Père, et que dans cet âge de l'univers, les réalités du Père sont révélées dans les qualités de la divinité. (106:9.11)
 
 pères | | éducation des enfants; enfants; famille | | OK
@@ -477,15 +477,15 @@ Il est prévu que les mortels qui partent d'un monde habité aient l'expérience
 # L'esprit ou le Père de Havona — le Père Universel
 Les pères ne sont pas des juges, des ennemis ou des créanciers. Les vraies familles sont fondées sur la tolérance, la patience et le pardon. (142:7.11)
 
-L'affaire du père | | | | OK
+Affaires du Père; affaires de ton Père | | | | OK
 Jésus a fait référence à plusieurs reprises à ses tâches comme étant celles du Père (124:6.15) (126:3.5) (135:8.3)
 
-Maison du Père; Maison du Père | | temple | PLACE | OK
+Maison du Père; Maison du Père; affaires de son Père | | temple | PLACE | OK
 Le temple de Jérusalem a été appelé par Jésus « la maison de son Père » (125:1.1) (125:6.7) (171:4.7)
 Le Paradis est parfois appelé « la Maison du Père » car c'est sa résidence éternelle, et ces sept zones sont souvent désignées comme « les demeures paradisiaques du Père » (11:3.3).
 Jésus a dit que chacune des nombreuses stations dans la maison de son Père, c'est-à-dire dans l'univers, est une étape, une vie destinée à nous préparer à la prochaine étape à venir. (181:1.2)
 
-Prière du Père | | | | OK
+Prière du Père; prière au Père | | | | OK
 Hap, l'assistant du Prince Planétaire, enseigna aux Dalamatiens les sept chants d'adoration et leur donna également la phrase de louange quotidienne et leur enseigna finalement « la prière du Père », qui était : (66:5.14-15)
 « Père de tous, dont nous honorons le Fils, regarde-nous avec faveur. Délivre-nous de la crainte de tous, sauf de toi. Fais de nous un sujet de plaisir pour nos divins enseignants et mets toujours la vérité sur nos lèvres. Délivre-nous de la violence et de la colère ; donne-nous du respect pour nos aînés et pour ce qui appartient à nos voisins. Donne-nous en cette saison des pâturages verts et des troupeaux fructueux pour réjouir nos cœurs. Nous prions pour que vienne plus rapidement l'Élévateur promis, et nous voudrions faire ta volonté sur ce monde comme d'autres le font sur les mondes au-delà. »
 
@@ -692,7 +692,7 @@ résidence
 	le monde de transition numéro 1 du système local est le Monde Finalitaire (45:1.2) (47:1)
 	Bien que le monde finalitaire soit une sphère d'une beauté physique exquise et d'une extraordinaire décoration morontielle, la grande demeure spirituelle située au centre des activités, le temple des finalitaires, n'est pas visible à la vision matérielle sans aide ou à la vision morontielle primitive. (47:1.2-3)
 	Lorsqu'un système est ancré dans la lumière et la vie, et que les mondes des maisons cessent un à un de servir de stations d'entraînement des mortels, ils sont envahis par la population croissante de finalitaires qui s'accumule dans ces systèmes plus anciens et plus perfectionnés. (47:0.3)
-	La zone morontielle attribuée aux mortels ascendants résidant sur Edentia est située dans la zone médiane du trente-cinquième triangle jouxtant le siège des finalitaires, situé dans le trente-sixième triangle. (43:1.9)
+	La zone morontielle attribuée aux mortels ascendants résidant sur Édentia est située dans la zone médiane du trente-cinquième triangle jouxtant le siège des finalitaires, situé dans le trente-sixième triangle. (43:1.9)
 	Les cercles des finalitaires de Jérusem ont une structure centrale unique. Et ce même temple vacant se trouve sur tous les mondes-sièges de systèmes dans tout Nébadon. Cet édifice de Jérusem est scellé avec l'insigne de Micaël et porte cette inscription : « Non consacré au septième stade de l'esprit – à la mission éternelle » (46:5.32).
 	les finalitaires n'utilisent actuellement qu'un dixième de 1% des mondes de Havona (14:3.5)
 service
@@ -781,7 +781,7 @@ la vraie religion transforme la cause première universelle de la logique en Die
 il n'y a qu'une seule Cause sans cause dans tout l'univers (118:6.2)
 la raison peut conduire à une cause première, mais la foi religieuse est nécessaire pour transformer la cause première en un Dieu de salut (101:2.3,7)
 
-Première épître de Pierre | | | | OK
+Première Épitre de Pierre | | | | OK
 Le style vigoureux de l'apôtre Pierre est mieux illustré dans sa lettre connue sous le nom de Première Épître de Pierre ; du moins c'était vrai avant qu'elle ne soit ultérieurement modifiée par un disciple de Paul. (139:2.12)
 
 première expérience Trinity | | Trinity Ultimate | PERSON | OK
@@ -822,8 +822,8 @@ flatterie | | éloge; reconnaissance | | OK
 Jésus a conseillé de ne pas se lasser de faire le bien, et il a mis en garde contre les sentiers glissants de la flatterie et les flèches empoisonnées du ridicule. (174:0.2)
 Influencée par les flatteries, l'enthousiasme et la grande persuasion personnelle de Cano, Ève consentit alors et là à se lancer dans l'entreprise tant discutée, pour ajouter son propre petit projet de salut du monde au plan divin plus vaste et de plus grande portée. (75:3.9)
 
-Flavius ​​| (142:4) | | PERSON | OK
-Flavius ​​était un Juif grec dont la maison de Jérusalem était richement décorée d'œuvres d'art. Jésus se rendait souvent dans cette maison (142:0.1) (142:4.1)
+Flavius | (142:4) | | PERSON | OK
+Flavius était un Juif grec dont la maison de Jérusalem était richement décorée d'œuvres d'art. Jésus se rendait souvent dans cette maison (142:0.1) (142:4.1)
 La sixième apparition de Jésus eut lieu dans la maison de Flavius, devant environ 40 croyants grecs (190:4).
 
 défauts | | critique | | OK
@@ -892,7 +892,7 @@ inondations notables :
 depuis l'Archéozoïque, il n'y a jamais eu de déluge universel (78:7.4)
 Noé a réellement vécu ; il était vigneron à Aram, une colonie fluviale près d'Erech. Il tenait un registre écrit des jours de crue du fleuve d'année en année. Il s'attira beaucoup de moqueries en parcourant la vallée du fleuve et en préconisant que toutes les maisons soient construites en bois, à la manière des bateaux, et que les animaux de la famille soient mis à bord chaque nuit à l'approche de la saison des inondations. Il se rendait chaque année dans les colonies fluviales voisines et les avertissait que dans un certain nombre de jours les inondations arriveraient. Finalement, une année arriva où les inondations annuelles furent considérablement aggravées par des pluies inhabituellement fortes, de sorte que la montée soudaine des eaux anéantit tout le village ; seuls Noé et sa famille immédiate furent sauvés dans leur bateau-maison. (77:4.12) (78:7.5)
 
-Couches fossilifères de Florissant | (61:2.4) | | | OK
+dépôts fossiles de Florissant | (61:2.4) | | | OK
 
 joueurs de flûte | | | | OK
 En Palestine, les joueurs de flûte étaient utilisés dans les maisons de deuil (152:1.1)
@@ -901,7 +901,7 @@ se concentrer | | concentration | | OK
 
 brouillard; brumes | | | | OK
 Les Néandertaliens avaient une peur bleue des nuages, plus particulièrement des brumes et des brouillards. (64:4.12)
-Lorsque les nuages ​​s'amoncellent au-dessus de nos têtes, notre foi devrait accepter le fait de la présence de l'Ajusteur intérieur, et ainsi nous devrions être capables de regarder au-delà des brumes de l'incertitude mortelle vers la clarté du soleil de la justice éternelle sur les hauteurs invitantes des mondes des maisons de Satania. (108:6.8)
+Lorsque les nuages s'amoncellent au-dessus de nos têtes, notre foi devrait accepter le fait de la présence de l'Ajusteur intérieur, et ainsi nous devrions être capables de regarder au-delà des brumes de l'incertitude mortelle vers la clarté du soleil de la justice éternelle sur les hauteurs invitantes des mondes des maisons de Satania. (108:6.8)
 
 Police | | Andon et Fonta | PERSON | OK
 
@@ -963,8 +963,8 @@ Saül n'hésita pas à exiger cent prépuces de Philistins comme dot que David d
 forêts | (59:4.2,13,17) | | | OK
 Les Andonites évitaient les forêts, contrairement à leurs parents non humains. Dans les forêts, l'homme s'est toujours détérioré ; l'évolution humaine n'a progressé qu'en plein air et sous les latitudes les plus élevées (64:1.3).
 
-Avant-propos | | | | OK
-L'avant-propos du Livre d'Urantia n'est pas une déclaration complète en soi ; c'est seulement un guide définitif conçu pour aider ceux qui liront les fascicules 1 à 31 (0:0.4)
+Introduction | | | | OK
+L'Introduction du Livre d'Urantia n'est pas une déclaration complète en soi ; c'est seulement un guide définitif conçu pour aider ceux qui liront les fascicules 1 à 31 (0:0.4)
 
 oubli | | mémoire | | OK
 Ayant pris le chemin de la vie éternelle, ayant accepté la mission et reçu l'ordre d'avancer, nous ne devons pas craindre les dangers de l'oubli humain et de l'inconstance mortelle, nous ne devons pas être troublés par des doutes d'échec ou par une confusion déconcertante, nous ne devons pas faiblir et remettre en question notre statut et notre position, car à chaque heure sombre, à chaque carrefour de la lutte en avant, l'Esprit de Vérité parlera toujours, disant : « Voici le chemin. » (34:7.8)
@@ -1020,8 +1020,8 @@ Les formes n'ont aucune valeur lorsque les leçons sont apprises. (48:6.32)
 Fortant | | | PERSON | OK
 Fortant est l'un des sept Lanonandeks qui administrent actuellement Satania, et il est le directeur de la donation ; il est le Fils Lanonandek secondaire numéroté 319 847. Il est responsable de toutes les activités qui ont été transférées à Jérusalem à la suite de la donation de Michael (45:3.7)
 
-Fortune | | jeune fugueur à Corinthe | PERSON | OK
-Fortune est un jeune homme craintif et abattu que Jésus a rencontré alors qu'il parcourait les montagnes de Crète (130:6)
+Fortuné | | jeune fugueur à Corinthe | PERSON | OK
+Fortuné est un jeune homme craintif et abattu que Jésus a rencontré alors qu'il parcourait les montagnes de Crète (130:6)
 est devenu le chef des chrétiens en Crète (130:6.5)
 
 diseuses de bonne aventure; voyance | | | | OK
@@ -1040,7 +1040,7 @@ fossiles | (58:7) (59:2.9) (59:3.10) (59:4.12) (59:5.10) (60:1.2,12) (60:2.5-6) 
 L'étude des fossiles de la vie marine enfermés dans des roches révèle les premières luttes d'adaptation de ces organismes primitifs. (58:6.6)
 > https://en.wikipedia.org/wiki/Fossile
 
-Fondements du progrès spirituel | | | | OK
+Fondation du Progrès Spirituel | | | | OK
 Dans la nation continentale la plus développée d'une planète voisine, les enseignants spirituels ou pasteurs qui examinent les parents de chaque famille sont sous la direction de la Fondation du Progrès Spirituel, une institution nouvellement créée et soutenue par des contributions volontaires. (72:3.6)
 
 porte de la fontaine | | | PLACE | OK
@@ -1108,7 +1108,7 @@ Les bourreaux divins, étant des quatrièmes créatures – des êtres quasi mat
 renards | (61:3.13) | | | OK
 Jésus dit : « Mon fils, les renards ont des tanières et les oiseaux du ciel ont des nids, mais le Fils de l'homme n'a pas où reposer sa tête. » (157:6.12) (163:2.2)
 
-Peuples de Foxhall | | | RACE | OK
+peuplades de Foxhall | | | RACE | OK
 Bien que les restes des peuples de Foxhall aient été les derniers à être découverts en Angleterre, ces Andonites furent en réalité les premiers êtres humains à vivre dans ces régions. (64:2.6)
 Durant une longue période de décadence culturelle, les peuples Foxhall d'Angleterre et les tribus Badonan au nord-ouest de l'Inde ont continué à conserver certaines traditions d'Andon et certains vestiges de la culture d'Onagar. (64:2)
 Les peuples de Foxhall étaient les plus à l'ouest et ont réussi à conserver une grande partie de la culture andonique ; ils ont également préservé leur connaissance du travail du silex, qu'ils ont transmis à leurs descendants, les anciens ancêtres des Esquimaux. (64:2.5-7)
@@ -1116,10 +1116,10 @@ Les peuples de Foxhall étaient les plus à l'ouest et ont réussi à conserver 
 fragmentation; fragmentations | | | | OK
 Les Ajusteurs représentent le mieux les entités fragmentées de la Déité (30:1.100-102)
 Il existe d'autres fragmentations en dehors des Ajusteurs de Pensée (42.11.1)
-Le Fils Éternel, en tant qu'être infini et exclusivement personnel, ne peut fragmenter sa nature, ne peut pas distribuer et conférer des portions individualisées de son individualité à d'autres entités ou personnes comme le font le Père Universel et l'Esprit Infini. (6:5.5-6) ​​(7:5.3)
+Le Fils Éternel, en tant qu'être infini et exclusivement personnel, ne peut fragmenter sa nature, ne peut pas distribuer et conférer des portions individualisées de son individualité à d'autres entités ou personnes comme le font le Père Universel et l'Esprit Infini. (6:5.5-6) (7:5.3)
 
 France | (61:3.8) (61:4.2) (61:5.4) | Bretagne; Somme | PLACE | OK
-Il y avait des Andonites en France. Ils ont vécu le long de la Somme pendant des dizaines de milliers d'années. Bien que les restes des peuples de Foxhall aient été les derniers à être découverts en Angleterre, ces Andonites furent en réalité les premiers êtres humains à vivre dans ces régions. À cette époque, le pont terrestre reliait encore la France à l'Angleterre (63:5.2-3) (64:1.5-6) ​​(64:2.6)
+Il y avait des Andonites en France. Ils ont vécu le long de la Somme pendant des dizaines de milliers d'années. Bien que les restes des peuples de Foxhall aient été les derniers à être découverts en Angleterre, ces Andonites furent en réalité les premiers êtres humains à vivre dans ces régions. À cette époque, le pont terrestre reliait encore la France à l'Angleterre (63:5.2-3) (64:1.5-6) (64:2.6)
 Les Néandertaliens étaient d'excellents combattants et ils voyageaient beaucoup. Ils se sont progressivement répandus depuis les hauts plateaux du nord-ouest de l'Inde jusqu'à la France à l'ouest, la Chine à l'est et même jusqu'en Afrique du Nord. (64:4.1)
 Les bastions de l'homme bleu qui ont persisté le plus longtemps se trouvaient dans le sud de la France, mais la dernière grande résistance militaire a été vaincue le long de la Somme. (80:5.5)
 Vers 5000 av. J.-C., les races blanches en évolution dominaient toute l'Europe du Nord, y compris le nord de l'Allemagne, le nord de la France et les îles britanniques. (80:5.8)
@@ -1131,7 +1131,7 @@ frandalanks; Frandalanks | | Contrôleurs physiques principaux | ORDER | OK
 Il y en a dix sur chaque capitale de constellation (41:1.4)
 Les frandalanks sont créés en trente divisions, une pour chaque forme de force universelle de base, et ils fonctionnent exclusivement comme des jauges de présence, de pression et de vitesse vivantes et automatiques. (29:4.37)
 les chronoldeks sont des frandalanks qui enregistrent le temps en plus de la présence énergétique quantitative et qualitative (29:4.37)
- Ces êtres sont la création conjointe des trois ordres d'êtres qui contrôlent l'énergie : les organisateurs de force primaire et secondaire et les directeurs de pouvoir. (29:4.36)
+Ces êtres sont la création conjointe des trois ordres d'êtres qui contrôlent l'énergie : les organisateurs de force primaire et secondaire et les directeurs de pouvoir. (29:4.36)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.107)
 Les maîtres frandalanks sont ces instruments vivants qui indiquent la pression de puissance et la charge énergétique d'un superunivers entier (29:4.2)
 Ils sont stationnés sur tous les mondes habités et sont toujours attachés aux ordres supérieurs de contrôleurs physiques. (29:4.36)
@@ -1192,13 +1192,13 @@ ordonné par le Père et non imposé
 décisions historiques
 	la décision des jumeaux Andon et Fonta de fuir vers le nord et de se séparer de leurs ancêtres fut le premier acte de volonté sur Terre (62:7.3) (63:1.4)
 	L'acquisition par l'homme du jugement éthique et de la volonté morale coïncide généralement avec l'apparition du langage primitif. (52:1.6) (65:4.11)
-	Pendant la rébellion de Lucifer, les autorités d'Edentia ne sont pas intervenues dans la rébellion jusqu'à ce que chaque personne ait pris une décision finale (67:2.6).
+	Pendant la rébellion de Lucifer, les autorités d'Édentia ne sont pas intervenues dans la rébellion jusqu'à ce que chaque personne ait pris une décision finale (67:2.6).
 	Il ne leur est pas permis d'expérimenter ou d'interférer avec la volonté ; il ne leur est pas permis de dominer ou d'influencer arbitrairement les créatures morales. (36:3.8) (62:5.9)
 
 boucliers de friction | | | | OK
 Les boucliers de friction sont un isolant énergétique utilisé par les Séraphins de transport. Pour placer une personnalité endormie à l'intérieur du séraphin et pouvoir être transportée, les boucliers doivent être complètement ouverts. (39:5.12-14)
 
-Vendredi; Vendredi | | | | OK
+vendredi | | | | OK
 Pendant des siècles, le vendredi a été considéré comme un jour de malchance et le nombre treize comme un chiffre maléfique. (88:1.6)
 
 amis de la cour | | | | OK

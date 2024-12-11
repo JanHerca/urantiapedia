@@ -175,19 +175,30 @@ class TopicIndex {
 					level = line.split(/\t/g).findIndex(a => a != '');
 					data = tline.split('|').map(i => i.trim());
 					
-					if (current && tline === '') {
+					if (
+						current && 
+						tline === ''
+					) {
 						//End line of an entry
 						if (category === 'ALL' || category === current.type) {
 							this.topics.push(current);
 						}
 						current = null;
-					} else if (current && tline.length > 0 && tline.startsWith('>')) {
+					} else if (
+						current && 
+						tline.length > 0 && 
+						tline.startsWith('>')
+					) {
 						//Line of entry with a link
 						if (!current.externalLinks) {
 							current.externalLinks = [];
 						}
 						current.externalLinks.push(tline.substring(1).trim());
-					} else if (current && tline.length > 0 && tline.startsWith('[')) {
+					} else if (
+						current && 
+						tline.length > 0 && 
+						tline.startsWith('[')
+					) {
 						//Line with an image
 						groups = [...tline.matchAll(/\[(.+)\]|\((.+)\)|{(.+)}/g)];
 						if (groups.length < 2) {
@@ -213,7 +224,10 @@ class TopicIndex {
 							current.lines.push(topicline);
 						}
 						
-					} else if (current && tline.length > 0) {
+					} else if (
+						current && 
+						tline.length > 0
+					) {
 						//Line of entry without a link or image (any other line)
 						topicline = {
 							text: '',
@@ -257,12 +271,18 @@ class TopicIndex {
 						} else {
 							errors.push(err);
 						}
-					} else if (!current && tline.length > 0) {
+					} else if (
+						!current && 
+						tline.length > 0
+					) {
 						//First line of an entry
 						if (data.length === 0) {
 							errors.push(err);
 						} else if (data.length === 5) {
-							if (data[1].startsWith('(') && data[1].endsWith(')')) {
+							if (
+								data[1].startsWith('(') && 
+								data[1].endsWith(')')
+							) {
 								refs = data[1].split(/[()]/g)
 									.filter(i => i.replace(/\s+/, '') != '');
 							}
@@ -271,11 +291,13 @@ class TopicIndex {
 								.map(s => s.trim());
 							current = {
 								name: data[0].split(';')[0].trim(),
-								altnames: data[0].split(';').slice(1).map(a=>a.trim()),
+								altnames: data[0].split(';')
+									.slice(1).map(a=>a.trim()),
 								lines: [],
 								type: (data[3] === '' ? 'OTHER' : data[3]),
 								revised: (data[4] === '' ? false : true),
-								sorting: baseName + ':' + (i + 1).toString().padStart(5, '0'),
+								sorting: baseName + ':' + 
+									(i + 1).toString().padStart(5, '0'),
 								filename: baseName,
 								fileline: i + 1,
 								seeAlso : seeAlso
@@ -314,8 +336,9 @@ class TopicIndex {
 			const topicErr = [];
 			const tpath = `/${this.language}/topic/`;
 			this.topics.forEach(topic => {
-				const tEN = (this.language === 'en' ? topic :
-					topicindexEN.topics.find(t => {
+				const tEN = (this.language === 'en' 
+					? topic 
+					: topicindexEN.topics.find(t => {
 						return (t.filename === topic.filename &&
 							t.fileline === topic.fileline);
 					}));
@@ -325,8 +348,7 @@ class TopicIndex {
 				}
 				const nameEN = (tEN ? tEN.name : null);
 				const urlName = (nameEN ? nameEN.replace(/\s/g, '_') : null);
-				const names = [topic.name.split('(')[0].trim(), 
-					...topic.altnames];
+				const names = this.getNames(topic);
 				const links = names.map(name => {
 					return `<a href="${tpath}${urlName}">${name}</a>`;
 				});
@@ -341,6 +363,25 @@ class TopicIndex {
 			}
 		});
 	};
+
+	/**
+	 * Returns of the possible names for a topic to use when searching.
+	 * @param {Object} topic A topic entry.
+	 * @return {string[]}
+	 */
+	getNames = (topic) => {
+		const name = topic.name.split('(')[0].trim();
+		const names = [name];
+		extendArray(names, topic.altnames);
+		if (this.language === "fr") {
+			extendArray(names, names.map(i => i.replace(/'/g, '’')));
+			extendArray(names, names
+				.map(i => ['L','l','D','d','qu'].map(j => `${j}’${i}`))
+				.flat()
+			);
+		}
+		return names.filter((n,i,ar) => ar.indexOf(n) === i);
+	}
 
 	/**
 	 * Updates an internal array to be be used for fast searches.
@@ -658,8 +699,7 @@ class TopicIndex {
 	 * @param {Book} book The Urantia Book object.
 	 */
 	checkNamesInPars = (topic, book) => {
-		const names = [topic.name.split('(')[0].trim()];
-		extendArray(names, topic.altnames);
+		const names = this.getNames(topic);
 		const refs = topic.refs.slice();
 		topic.lines.forEach(line => extendArray(refs, line.refs));
 		if (refs.length === 0) return;
@@ -668,8 +708,9 @@ class TopicIndex {
 			topic.errors.find(er => er.desc.indexOf(ref) != -1) == undefined);
 		const validArRefs = book.getArrayOfRefs(validRefs);
 		const notfounded = validArRefs.filter(validArRef => {
-			const par = book.getPar(validArRef[0], validArRef[1], validArRef[2]);
-			return (par == null || !testWords(names, par.par_content));
+			const par = book.getPar(...validArRef);
+			return (par == null || !testWords(names, 
+				par.par_content.replace(/\*/g, '')));
 		}).map(r => `${r[0]}:${r[1]}.${r[2]}`);
 
 		if (notfounded.length === validArRefs.length) {
@@ -678,13 +719,13 @@ class TopicIndex {
 					topic.name, notfounded.join('; ')),
 				fileline: topic.fileline
 			});
-		} else if (notfounded.length / validArRefs.length > 0.8) {
+		} /*else if (notfounded.length / validArRefs.length > 0.8) {
 			topic.errors.push({
 				desc: strformat(this.tr('topic_in_less_20%'), 
 					topic.name, notfounded.join('; ')),
 				fileline: topic.fileline
 			});
-		}
+		}*/
 	};
 
 	/**
@@ -1812,10 +1853,9 @@ class TopicIndex {
 	 * @return {Array.<Object>} Objects with topics.
 	 */
 	filterTopicsInParagraph = (text, paper, section, par, topicNames, used) => {
-		//TODO: Next regex only works in English and Spanish
 		//How to separate words in all languages??
 		const words = text
-			.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
+			.match(/[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]+(?:'[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]+)*/gi);
 		
 		return this.topics.filter(t => {
 			if (used.includes(t.name)) {

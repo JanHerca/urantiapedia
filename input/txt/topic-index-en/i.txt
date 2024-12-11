@@ -1052,7 +1052,7 @@ stripping atoms of outer and chemically active electrons (42:3.8)
 ionosphere | | | | 
 temperature range; storms in (58:2.6,10)
 
-Iowa | (61:7.5) | | PLACE | 
+Iowa; d’Iowa | (61:7.5) | | PLACE | 
 
 Iran | | | PLACE | 
 Andite migration to (78:6.3) (79:1.1)

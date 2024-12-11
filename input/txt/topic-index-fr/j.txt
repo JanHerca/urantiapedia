@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Jabbok | | | PLACE |
+Jaboc | | | PLACE |
 se jette dans le Jourdain (124:6.6)
 
 Jacob (évangéliste) | | | PERSON | OK
@@ -35,7 +35,7 @@ associé d'affaires de Joseph (124:2.4) (126:3.1)
 le jeune Jésus a demandé conseil à (123:6.9)
 mis au repos (128:7.12)
 
-Jacob le maçon (fils) | (123:1.4) (124:2.4) | | PERSON | OK
+Jacob le maçon (fils); tailleur de pierre Jacob | (123:1.4) (124:2.4) | | PERSON | OK
 Ami proche d'enfance de Jésus et défenseur autoproclamé (123:1.4) (124:2.4) (133:1.5)
 associé d'affaires des frères de Jésus (128:2.2) (128:5.8)
 mariage avec Miriam (128:5.8) (128:7.10,12)
@@ -47,12 +47,12 @@ Jah | | | PERSON | OK
 Appellation sémitique de la divinité (96:1.9)
 > https://en.wikipedia.org/wiki/Jah
 
-Jaïnisme | (92:6.10) | | RELIGION |
+Jaïnisme; jaïnisme | (92:6.10) | | RELIGION |
 Mouvement religieux du 6e siècle av. J.-C. (92:5.12)
 Résumé de Ganid de (131:6)
 influence sur l'hindouisme (94:4.1)
 
-Jaïrus | (152:0.1) (152:1) | | PERSON | OK
+Jaïre | (152:0.1) (152:1) | | PERSON | OK
 présidé dans la nouvelle synagogue de Capharnaüm (152:0.1) (153:1.1)
 Jésus a guéri la fille de (152:0.1) (152:1.1-3)
 Les dirigeants de Jérusalem s'efforcèrent de dissuader (153:1.7)
@@ -164,7 +164,7 @@ Migration andonique vers (64:1.5)
 Asoka a établi le bouddhisme en (94:9.1)
 un pont terrestre reliait Java à l'Asie (64:1.6)
 
-Homme Java | | | RACE |
+homme de Java | | | RACE |
 ossements récemment découverts; Andonite (64:1.6)
 
 jalousie | | envie | |
@@ -181,14 +181,14 @@ ville de Salem, plus tard Jérusalem (93:2.4) (97:9.11,17)
 Le roi David a épousé 6 femmes de J.; a établi sa capitale à (97:9.10-11)
 ville fortifiée entre Juda et Israël (97:9.11)
 
-Jébuséens | | | RACE |
+Jébusites | | | RACE |
 Palestiniens non hébreux ; rejoignirent le nouveau royaume de David (97:9.7)
 
-Jéhoas | | | PERSON | OK
+Joas | | | PERSON | OK
 père de Jéroboam; délivra Israël de ses ennemis (97:9.20)
 > https://en.wikipedia.org/wiki/Jehoash_of_Israel
 
-Jehonadab | | | PERSON | OK
+Jonadab | | | PERSON | OK
 chef gitan qui a aidé Jéhu à détruire les prophètes samaritains de Baal (97:9.19)
 > https://en.wikipedia.org/wiki/Jehonadab
 
@@ -207,7 +207,7 @@ Jephté | | | PERSON | OK
 offert sa fille en sacrifice humain (89:6.3)
 > https://en.wikipedia.org/wiki/Jephthah
 
-Jeramy | | | PERSON | OK
+Jéramy | | | PERSON | OK
 Prosélyte juif grec de Nicopolis (133:2.5)
 
 Jérémie | | | PERSON | OK
@@ -267,7 +267,7 @@ profané par le trafic d'animaux, les changeurs d'argent (173:1)
 système bancaire étendu (173:1.3-4)
 La maison du père (125:1.1) (125:6.7) (171:4.7)
 les prosélytes gentils étaient baptisés dans la communion de la cour extérieure (135:6.4)
-impôt d'un demi-sicle pour (126:5.5-6) ​​(157:1.1,3) (173:1.3)
+impôt d'un demi-sicle pour (126:5.5-6) (157:1.1,3) (173:1.3)
 maison de prière pour toutes les nations; caverne des brigands (173:1.7)
 Jésus
 	accusé de vouloir détruire le temple (184:3.7) (184:5.7)
@@ -362,7 +362,7 @@ aspects physiques (45:0-1) (46:1-2)
 	les transports partent du mont Séraphin (46:2.8)
 	triangles; affaires locales dirigées depuis Jérusalem (46:8)
 	temple vacant non consacré ; scellé par Gabriel (46:5.32)
-	modèle de travail des mondes d'Edentia (46:5.27)
+	modèle de travail des mondes d'Édentia (46:5.27)
 réception des émissions (46:3)
 vu dans des visions par Jean, Paul (34:4.11) (47:10.2-3)
 système n°24 de la constellation Norlatiadek (15:14.6)
@@ -390,7 +390,7 @@ communiait seul avec Dieu (136:4.10) (144:1.8) (145:5.1-2) (147:0.1) (148:3) (15
 pourrait auto-limiter la conscience divine (161:3.2-3)
 la nature divine de Jésus est le fondement du royaume (157:4.5,7) (157:5.1) (191:5.3)
 ne dépeignez pas Jésus comme un homme de douleur (159:3.10)
-éducation obtenue en se mêlant à ses semblables (123:5.8) (124:3.3) (124:4.1) (125:2.12) (126:5.2) (128:2.5) (128:3.4) (129:1.7) (129:3.7-8) (130:0.5-6) ​​(132:4.1) (134:0.1) (134:7.3)
+éducation obtenue en se mêlant à ses semblables (123:5.8) (124:3.3) (124:4.1) (125:2.12) (126:5.2) (128:2.5) (128:3.4) (129:1.7) (129:3.7-8) (130:0.5-6) (132:4.1) (134:0.1) (134:7.3)
 soit il était ce qu'il professait, soit il était le plus grand hypocrite (161:2.4)
 tous ceux qui se soumettent à l'Ajusteur finissent par arriver à (153:2.8,11)
 destruction prédite de Jérusalem (172:3.10) (176:0.1) (176:1) (176:2.6) (178:3.3-4) (187:1.5-7)
@@ -434,7 +434,7 @@ attitudes de Jésus
 		éprouvé le doute (124:4.2) (128:1.8)
 		conscience de la préexistence, de la divinité (127:0.1) (128:1.8-13) (128:7.1) (129:3.9) (134:8.5) (136:2.4) (137:4.2) (161:3)
 	évitait d'attirer l'attention sur lui
-		éviter l'impression d'une carrière personnelle trop attrayante (128:4.5-6) ​​(129:1.8) (129:3.5) (134:9.9) (161:3.2-3)
+		éviter l'impression d'une carrière personnelle trop attrayante (128:4.5-6) (129:1.8) (129:3.5) (134:9.9) (161:3.2-3)
 		des choses cachées qui pourraient le faire paraître différent (124:4.1) (126:3.14) (127:2.7)
 	attitude envers les cérémonies et les traditions
 		cérémonie pure abhorrée (166:1.2) (190:2.4)
@@ -572,7 +572,7 @@ attitudes envers Jésus
 		Le christianisme s'est construit autour de la mort de Jésus (143:5.11)
 		la plus grande tragédie de la terre (178:2.1)
 		La volonté du Père concernant (4:5.6) (183:1)
-		Jésus a prédit (162:2.1) (171:2.2) (171:4.2-7) (172:1.6-7) (173:5.4) (174:5.13) (175:1.4,20) (176:1.1) (178:3.2) (179:4.1) (180:6.7) (181:1.5) (181:2.3) (182:2.5-6) ​​(190:5.4)
+		Jésus a prédit (162:2.1) (171:2.2) (171:4.2-7) (172:1.6-7) (173:5.4) (174:5.13) (175:1.4,20) (176:1.1) (178:3.2) (179:4.1) (180:6.7) (181:1.5) (181:2.3) (182:2.5-6) (190:5.4)
 		a fait preuve d'une certitude évidente de survie (188:4.6)
 	tombeau
 		appartenait à Joseph d'Arimathée (188:1.2)
@@ -602,7 +602,7 @@ attitudes envers Jésus
 		# à Jacques, frère de Jésus à Béthanie (190:2.2-5)
 		# à la famille et aux amis à Béthanie (190:2.6)
 		# aux femmes de la maison de Joseph d'Arimathée (190:3.1)
-		# à 40 Grecs chez Flavius ​​(190:4)
+		# à 40 Grecs chez Flavius (190:4)
 		# à Cléopas et Jacob à Emmaüs (190:5)
 		# à Pierre chez Marc (191:1)
 		# aux apôtres de la maison de Marc (191:2)
@@ -992,7 +992,7 @@ Enseignements de Jésus | Évangile : expliqué ; Royaume des cieux ; Religion :
 		* J'exige de mes disciples une vie de service aimant (191:5.3)
 		* Heureux ceux qui croient sans voir (191:5.5)
 		* prêcher l'évangile sans crainte ni faveur (192:2.2,11-12)
-		* soyez sur vos gardes à tout moment – ​​veillez et priez (192:2.3)
+		* soyez sur vos gardes à tout moment – veillez et priez (192:2.3)
 		* ne vous inquiétez pas de ce que feront vos frères (192:2.5)
 		* pesez les conséquences de vos paroles et de vos actes (192:2.8)
 		* réduire la déception en attendant moins de certains (192:2.10)
@@ -1180,7 +1180,7 @@ réalisations spirituelles
 	sur le sable devant le mari d'Hildana (162:3.5)
 	travail de traduction pour le marchand de Damas (128:4.2)
 
-Jethro | | | PERSON |
+Jéthro | | | PERSON |
 Le beau-père de Moïse (96:5.3)
 
 Bijoux | | ornementation | |
@@ -1189,7 +1189,7 @@ Sacerdoce juif | | Lévites; Sanhédrin | |
 
 Religion juive | | Judaïsme | |
 
-Tuteur juif | | | |
+précepteur juif | | | |
 Jésus connu comme le tuteur juif à Corinthe (129:3.2)
 
 Juifs | | Langue hébraïque; Juifs (anciens Hébreux) | RACE |
@@ -1235,14 +1235,14 @@ la vie quotidienne
 	des garanties d'équité sont généralement prévues dans les procès (184:3.4,6) (184:4.1)
 	possédaient des esclaves (173:1.3) (186:1.2)
 	retenue dans l'approche des femmes envers les hommes inconnus (196:0,5)
-n'ont pas accompli leur destinée en tant que personnes ayant une mission spirituelle (121:2.8) (121:7.5) (175:1.5-6) ​​(176:1.2) (182:3.9)
+n'ont pas accompli leur destinée en tant que personnes ayant une mission spirituelle (121:2.8) (121:7.5) (175:1.5-6) (176:1.2) (182:3.9)
 éminemment apte à répandre une nouvelle religion (121:1.1)
 célèbre pour sa valeur militaire et ses particularités théologiques (98:0.3)
 ils ont trouvé Dieu comme aucune autre race humaine (155:6.10)
 Gabriel a choisi les Juifs comme race pour l'incarnation de Michel (122:0.2)
 les gentils moralement inférieurs à (121:4.1)
 Hébreux du royaume du sud de Juda connus sous le nom de Juifs (97:9.2)
-l'histoire exploitée de façon désastreuse par les écrivains juifs et chrétiens (97:8.5-6) ​​(97:9)
+l'histoire exploitée de façon désastreuse par les écrivains juifs et chrétiens (97:8.5-6) (97:9)
 dans 200 synagogues à travers le monde romain (121:2.3-4)
 Jésus n'était pas le Messie attendu par (122:4.2-4)
 Jésus est le dernier à exercer un véritable leadership national (186:2.8)
@@ -1296,7 +1296,7 @@ la religion était austère et tyrannique (98:3.2)
 Jézabel | (124:6.3) | | PERSON |
 Reine des juifs de Phénicie
 
-Jezréel | (124:6.1,3) (149:0.1) | | PLACE |
+Jizréel | (124:6.1,3) (149:0.1) | | PLACE |
 Jésus est décédé
 
 Joab | | | PERSON |
@@ -1305,7 +1305,7 @@ jeune évangéliste; meneur du complot visant à faire de Jésus un roi (152:2.5
 Joachim | | | PERSON |
 père de Marie, mère de Jésus (122:3.3)
 
-Joanna | | | PERSON |
+Jeanne | | | PERSON |
 réunion organisée dans le nouveau palais d'Hérode (150:3.1)
 aux apparitions de Jésus (190:3.1) (193:0)
 découvert un tombeau vide (189:4.2-14)
@@ -1314,7 +1314,7 @@ trésorière du corps des femmes; épouse de Chuza, intendant d'Hérode (150:1.1
 Joas | | | PERSON |
 jeune roi; a fait une croisade pour Yahweh (97:9.21)
 
-Travail (livre) | | | |
+Job (livre) | | | |
 discours sur Job (148:6)
 Job a reçu une vision de Dieu (148:6.3)
 Job désirait ardemment un Dieu humain (148:6.7)
@@ -1322,13 +1322,13 @@ Protestation contre le concept égyptien de récompenses divines pour la justice
 reflète l'école de Salem à Kish (95:1.10)
 écrit sur plus de 300 ans (96:7.5)
 
-Jogbeha | (165:0.1) | | PLACE |
+Jogbéhah | (165:0.1) | | PLACE |
 Mission Pérée
 
 Johab | | | PERSON |
 époux des noces de Cana (137:3.6)
 
-Jean Hyrcan | | | PERSON |
+Jean Hyrkan | | | PERSON |
 Temple détruit sur le mont Garizim (143:4.2)
 
 Jean Marc | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON |
@@ -1361,7 +1361,7 @@ les parents étaient Élie et Marie Marc (182:0.1)
 jour de repos avec Jésus (177:1-2)
 marchait autour du lac avec Jésus (152:5.1)
 
-Jean Baptiste | (135) | | PERSON |
+Jean le Baptiste | (135) | | PERSON |
 apôtres de | apôtres de Jean-Baptiste
 au baptême de Jésus (135:8.6)
 baptisé plus de 100 000 pénitents en 15 mois (135:6.4)
@@ -1552,7 +1552,7 @@ travail
 	employé comme contremaître à Alexandrie (123:0,1)
 	à Sepphoris (124:5.5)
 
-Joseph d'Arimathée | (174:5.1) (188:3.3) | | PERSON |
+Joseph d'Arimathie | (174:5.1) (188:3.3) | | PERSON |
 accompagné Jésus au temple (175:0.1)
 ils croyaient que Jésus ressusciterait du tombeau (188:1.2,8)
 il réclama hardiment le corps de Jésus à Pilate (142:6.9) (187:6.2) (188:0.3)
@@ -1579,7 +1579,7 @@ vendu comme esclave égyptien à Dothan (126:1.2)
 
 Josué ben Joseph | | Jésus | PERSON |
 
-Josué (Jésus) | | Jésus | PERSON |
+Joshua (Jésus) | | Jésus | PERSON |
 Gabriel a demandé à Marie de donner un nom à son fils (122:3.1) (122:8.2)
 
 Josué (Ancien Testament) | (124:6.7) (135:6.1) (135:9.5) | | PERSON |
@@ -1590,7 +1590,7 @@ Moïse a remis le commandement des Hébreux à (96:5.9)
 prêcha un évangile sévère à un peuple incrédule (96:6.1,3)
 dresser 12 pierres près du Jourdain (135:6.7)
 
-Josué le professeur | | | PERSON |
+Joshua l'éducateur | | | PERSON |
 chapitre de la vie de Jésus (133:9.6)
 
 Josias (mendiant aveugle) | | | PERSON |
@@ -1631,7 +1631,7 @@ L'Esprit de Vérité donne (194:0.1)
 la croissance spirituelle produit des résultats durables (100:4.3)
 partager la joie du Maître, partager son amour et son service (180:1.5)
 
-Les joies de l'existence; La joie de l'existence | | | ORDER |
+Joie de l'Existence | | | ORDER |
 collaborer avec les directeurs de réversion (28:5.16)
 favoriser les réactions de joie (28:5.16)
 reflétant les superviseurs de l'harmonie supraphique (28:5.16)
@@ -1646,7 +1646,7 @@ lors de l'établissement d'un univers local dans la lumière et la vie (17:3.11)
 
 Juda | | Judée | PLACE |
 
-Judaïsme | (97:10) (121:6) | Abraham (Ancien Testament) ; apocryphes ; arche de Yahweh ; captivité babylonienne ; El Elyon ; El Shaddai ; Elohim ; Esséniens ; temple de Jérusalem ; Juifs ; Juifs (anciens Hébreux) ; Lévites ; Moïse ; Nazaréens ; Ancien Testament ; Pharisiens ; prophètes ; rabbins ; Sadducéens ; Sanhédrin ; scribes ; Shema ; Sheol ; Yahweh | RACE |
+Judaïsme; judaïsme | (97:10) (121:6) | Abraham (Ancien Testament) ; apocryphes ; arche de Yahweh ; captivité babylonienne ; El Elyon ; El Shaddaï ; Elohim ; Esséniens ; temple de Jérusalem ; Juifs ; Juifs (anciens Hébreux) ; Lévites ; Moïse ; Nazaréens ; Ancien Testament ; Pharisiens ; prophètes ; rabbins ; Sadducéens ; Sanhédrin ; scribes ; Shema ; Sheol ; Yahweh | RACE |
 religion avancée des temps anciens (92:6.4,14)
 les apôtres ont d'abord imposé le judaïsme aux convertis (194:3.9)
 croyances
@@ -1756,14 +1756,14 @@ divers titres de divinité définis (96:1.2-10)
 
 Judas Alphée | | Jumeaux Alphée | PERSON |
 
-Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apôtres de Jésus | PERSON | OK
-Judas Iscariote était le douzième apôtre. Il fut choisi par Nathanaël, et plus tard confirmé dans cette élection par Jésus. Il naquit à Kerioth, une petite ville du sud de la Judée. Lorsqu'il était jeune, ses parents s'installèrent à Jéricho, où il vécut et travailla dans les diverses entreprises commerciales de son père jusqu'à ce qu'il s'intéresse à la prédication et à l'œuvre de Jean-Baptiste. (139:6.2) (139:12.1-2)
+Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apôtres de Jésus | PERSON | OK
+Judas Iscariot était le douzième apôtre. Il fut choisi par Nathanaël, et plus tard confirmé dans cette élection par Jésus. Il naquit à Kerioth, une petite ville du sud de la Judée. Lorsqu'il était jeune, ses parents s'installèrent à Jéricho, où il vécut et travailla dans les diverses entreprises commerciales de son père jusqu'à ce qu'il s'intéresse à la prédication et à l'œuvre de Jean-Baptiste. (139:6.2) (139:12.1-2)
 Les parents de Judas étaient sadducéens, et lorsque leur fils rejoignit les disciples de Jean, ils le renièrent. (138:2.9) (139:12.1)
 Lorsque Nathanaël rencontra Judas à Tarichée, il cherchait un emploi dans une entreprise de séchage de poisson à l'extrémité inférieure de la mer de Galilée. Il avait trente ans en 26 après J.-C. et n'était pas marié lorsqu'il rejoignit les apôtres. Il était probablement l'homme le plus instruit parmi les douze et le seul Judéen de la famille apostolique du Maître. Il était cultivé, instruit et un bon penseur, mais il n'était pas vraiment honnête. (138:2.9) (139:12.1-2)
 Judas fut accepté par Jésus dans le groupe des apôtres avec Thomas, à Tarichée. Lorsque Jésus accepta Judas, il lui dit : « Judas, nous sommes tous d'une seule chair, et en te recevant au milieu de nous, je te prie de toujours être fidèle à tes frères galiléens. Suis-moi. » Judas était le seul Judéen. Tous les autres étaient de Galilée. (138:5)
 Son travail de trésorier
 	André nomma Judas trésorier des douze, poste pour lequel il était parfaitement qualifié. Jusqu'au moment où son Maître fut trahi, il s'acquitta de ses responsabilités avec honnêteté, fidélité et efficacité. Il portait le sac, payait toutes les dépenses et tenait les comptes. Il faisait des estimations budgétaires pour Matthieu de semaine en semaine et faisait également des rapports hebdomadaires à André. Judas versait des fonds sur autorisation d'André. (138:8.1) (138:10.10) (139:12.3)
-	Judas était vraiment un grand dirigeant, un financier clairvoyant et compétent. Il était aussi très organisé. Aucun des douze ne l'a jamais critiqué. Pour autant qu'ils aient pu le voir, Judas Iscariote était un trésorier hors pair, un homme instruit, un apôtre loyal, bien que parfois critique, et dans tous les sens du terme, un grand succès. (139:12.5)
+	Judas était vraiment un grand dirigeant, un financier clairvoyant et compétent. Il était aussi très organisé. Aucun des douze ne l'a jamais critiqué. Pour autant qu'ils aient pu le voir, Judas Iscariot était un trésorier hors pair, un homme instruit, un apôtre loyal, bien que parfois critique, et dans tous les sens du terme, un grand succès. (139:12.5)
 	Judas portait un sac contenant les fonds apostoliques et gardait ce sac dans une poche profonde (186:1.3)
 	Judas a eu la sagesse de déposer le surplus de fonds dans une banque de Jéricho tenue par un ami. Ce dépôt y est resté jusqu'à la dernière année de la vie de Jésus. (147:2.1) (163:2.11) (172:2.3)
 	David Zébédée remit à Judas les fonds provenant de la vente du matériel du campement de Pella, et Judas confia la plus grande partie de cet argent aux soins de Simon de Béthanie. (172:2.3)
@@ -1773,8 +1773,8 @@ Ses critiques
 	tous les apôtres, à l'exception de Judas, réussirent à surmonter une grande partie de leurs préjugés contre les Samaritains. (143:0.2)
 	Judas, ainsi que Pierre, Jean et Simon le Zélote, étaient favorables à la proclamation de Jésus comme roi. Lorsque Jésus ne répondit pas à ces attentes, il pensa qu'il serait accablé de regrets de ne pas avoir eu le courage de se faire faire roi. (152:2.5) (153:0.2)
 	Judas, avec Simon le Zélote, tenta de guérir le fils de Jacques de Safed, sans succès (158:4.6)
-	Judas Iscariote pensait que Jésus s'était enfui en toute hâte en Phénicie parce qu'il craignait les chefs juifs et Hérode Antipas. (162:1.3)
-	De tous les apôtres, Judas Iscariote fut le plus affecté par l'entrée processionnelle de Jésus à Jérusalem. (172:5.12-13)
+	Judas Iscariot pensait que Jésus s'était enfui en toute hâte en Phénicie parce qu'il craignait les chefs juifs et Hérode Antipas. (162:1.3)
+	De tous les apôtres, Judas Iscariot fut le plus affecté par l'entrée processionnelle de Jésus à Jérusalem. (172:5.12-13)
 	Judas ne s'en rendait pas compte, mais il avait été un critique inconscient de Jésus depuis que Jean-Baptiste avait été décapité par Hérode. (138:5.4) (177:4.11)
 	Tandis que ses compagnons hésitaient, Judas prit une place d'honneur lors de la Dernière Cène. (179:1.4)
 	Le lavement des pieds au cours de la dernière Cène était une preuve supplémentaire pour Judas que Jésus n'était pas le libérateur d'Israël et ne serait jamais qualifié pour l'être. (179:3.1,4)
@@ -1816,7 +1816,7 @@ sa fin
 	Après la terrible déception que lui avait fait ressentir le Sanhédrin, Judas se suicida en tentant de se pendre à un arbre dans la vallée de Hinnom. La ceinture qu'il avait utilisée se détacha et il mourut en heurtant les rochers du précipice. (139:12.13) (186:1)
 	Les mondes ont eu du mal à pardonner à Judas, et son nom a été rejeté dans un univers lointain. (139:12.14)
 
-Judas Maccabée | | Maccabées | PERSON |
+Judas Macchabée | | Maccabées | PERSON |
 déception du règne (136:8.8)
 exploits héroïques (121:2.7)
 Les Juifs expulsés de Pérée à l'époque de (165:0.3)
@@ -1921,7 +1921,7 @@ Censeurs universels
 	sont le jugement de la Déité (19:4.1,4)
 	les juges et les censeurs décrètent la survie mortelle (108:6.6)
 
-Julias | | | PLACE |
+Juliade | | | PLACE |
 Hérode a maintenu sa résidence péréenne à (135:12.1) (150:3.1)
 
 Junon | | | PERSON |
@@ -1941,7 +1941,7 @@ origine (41:10.1) (57:5.9-10)
 mouvement rétrograde de certains satellites (57:5.9)
 soleil secondaire pendant une courte période (57:5.10)
 
-Jurassique | | âges géologiques | |
+jurassique | | âges géologiques | |
 Âge reptilien ultérieur, il y a 125 à 100 millions d'années (60:2)
 
 jurés | | | |
@@ -1952,7 +1952,7 @@ juste un homme | | | |
 celui qui s'est acquitté de ses obligations rituelles (89:8.7)
 vivra par la foi (131:2.8)
 
-Juste | | | PERSON |
+Justa | | | PERSON |
 de Sidon, fille de Bérénice (156:2.2) (156:3.2)
 
 justice | (2:3) (133:1) | tribunaux; crime; peine de mort; karma; loi | |

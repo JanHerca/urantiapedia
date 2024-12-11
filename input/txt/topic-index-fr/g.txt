@@ -21,7 +21,7 @@ il n'est jamais loin de Salvington lorsque le père Melchisédek est également 
 statut
 	Gabriel est un administrateur, pas un créateur (33:4.2,4,7)
 	c'est l'Étoile brillante du matin, la seule de Nébadon, et elle appartient à cet ordre d'êtres (33:4.1)
-	il est le chef exécutif de Nébadon; il représente également les Anciens des Jours (33:0.1) (33:4.5-6) ​​(33:6.1) (37:1.9) (50:2.1)
+	il est le chef exécutif de Nébadon; il représente également les Anciens des Jours (33:0.1) (33:4.5-6) (33:6.1) (37:1.9) (50:2.1)
 	il est le président d'office de la plupart des conclaves, conseils et tribunaux de Salvington (35:1.2) (37:2.2) (188:3.12)
 	il est le premier-né de Michel et de l'Esprit Mère (33:4.1)
 	il est comme Michel en divinité mais est limité dans ses attributs de divinité (33:4.2-3)
@@ -79,7 +79,7 @@ C'était l'une des villes visitées lors de la mission de Pérée par Jésus, le
 Gadiah | | | PERSON | OK
 Gadiah est un interprète philistin avec lequel Jésus discuta au sujet de Jonas lors de son séjour à Joppé. Il deviendra chrétien après avoir écouté l'apôtre Pierre, avec lequel il eut une controverse mémorable (130:1)
 
-Gaius | | | PERSON | OK
+Gaïus | | | PERSON | OK
 Jésus rencontra Gaïus dans la maison de Crispus à Corinthe ; il devint plus tard un fidèle partisan de Paul (133:3.11)
 
 Galantia | | | PERSON | OK
@@ -162,7 +162,7 @@ il était un digne successeur de son éminent père (133:9.5)
 
 Jardin d'Eden; jardin | | Adam; Jardins d'Eden; deuxième jardin | PLACE | OK
 Le Jardin d'Eden est le deuxième centre mondial de civilisation à se projeter sur une planète normale, après la ville-siège du Prince Planétaire. Une grande université planétaire de culture destinée à durer éternellement (51:6.1-3)
-Lorsqu'Adam et Ève commencent leur séjour sur un monde évolutionnaire, leur lieu de résidence est souvent appelé le jardin d'Éden car il est caractérisé par la beauté florale et la grandeur botanique d'Edentia, la capitale de la constellation. (39:5.3) (51:3.2) (73:4.1)
+Lorsqu'Adam et Ève commencent leur séjour sur un monde évolutionnaire, leur lieu de résidence est souvent appelé le jardin d'Éden car il est caractérisé par la beauté florale et la grandeur botanique d'Édentia, la capitale de la constellation. (39:5.3) (51:3.2) (73:4.1)
 préparation
 	Au bout de trois ans, la commission du site choisit trois candidats : une île dans le golfe Persique, le site fluvial de l'Euphrate qui devint plus tard le Second Jardin, et une péninsule longue et étroite, presque une île, s'étendant vers l'ouest à partir des côtes de la mer Méditerranée orientale. Le troisième fut choisi. (73:2.3) (73:3.1) (76:1.3)
 	Le Jardin a été préparé par 3000 bénévoles recrutés par Van et Amadon (73:2.3)
@@ -215,13 +215,13 @@ enseignements
 jardiniers | | | ORDER | OK
 Les spornagia sont les paysagistes des mondes sièges, et ils sont à la fois originaux et artistiques dans leur traitement des espaces ouverts de Jérusalem. (46:7.2)
 
-Jardins d'Eden | | Jardin d'Eden | PLACE | OK
-Ces jardins d'Eden sont ainsi nommés en l'honneur d'Edentia, la capitale de la constellation, et parce qu'ils sont calqués sur la grandeur botanique du monde siège des Pères Très-Hauts. (43:6.2) (51:3.2) (73:4.1)
+Jardin d'Éden | | Jardin d'Eden | PLACE | OK
+Ces jardins d'Eden sont ainsi nommés en l'honneur d'Édentia, la capitale de la constellation, et parce qu'ils sont calqués sur la grandeur botanique du monde siège des Pères Très-Hauts. (43:6.2) (51:3.2) (73:4.1)
 Sur les mondes normaux, le quartier général de la race violette devient le deuxième centre de la culture mondiale et, conjointement avec la ville-quartier général du Prince Planétaire, donne le ton au développement de la civilisation. (51:6.2)
 Ces maisons-jardins sont généralement situées dans une zone isolée et dans une zone quasi tropicale. (51:3.2)
 
 jardins de Dieu | (43:6) | | PLACE | OK
-La moitié d'Edentia est divisée en soixante-dix sections triangulaires, dont les limites convergent vers les bâtiments centraux de leurs secteurs respectifs. Le reste de cette sphère est un vaste parc naturel, les jardins de Dieu. (43:1.7) (43:6.1-2)
+La moitié d'Édentia est divisée en soixante-dix sections triangulaires, dont les limites convergent vers les bâtiments centraux de leurs secteurs respectifs. Le reste de cette sphère est un vaste parc naturel, les jardins de Dieu. (43:1.7) (43:6.1-2)
 
 chambres à gaz | | | | OK
 dans la plupart des nations continentales développées, les criminels sont exécutés dans des chambres à gaz (72:10.1)
@@ -236,7 +236,7 @@ Gath | | | PLACE | OK
 Les Philistins ordonnèrent au roi David de quitter le champ de bataille de Gath. Ils craignaient qu'il ne passe du côté de Saül. (97:9.5)
 > https://en.wikipedia.org/wiki/Gath_(city)
 
-Gautama Siddhartha | (94:7) | Bouddha; Bouddhisme | PERSON | OK
+Gautama Siddharta | (94:7) | Bouddha; Bouddhisme | PERSON | OK
 Siddartha était un grand maître du 6e siècle avant J.-C., fils d'un chef sans importance qui régnait dans une vallée de l'Himalaya.
 sa conversion à ses nouveaux idéaux s'est produite soudainement (100:5.3)
 il a élaboré la doctrine trinitaire du Maître, de la Loi et de la Fraternité (104:1.6)
@@ -268,7 +268,7 @@ Gaza | | | PLACE | OK
 Jésus est passé ici lors de son voyage personnel à travers la Syrie et la Palestine (134:7.4) (194:4.13)
 > https://en.wikipedia.org/wiki/Gaza_City
 
-Geba | | | PLACE | OK
+Géba | | | PLACE | OK
 Jésus est passé ici lors de son voyage personnel à travers la Syrie et la Palestine (134:7.5)
 > https://en.wikipedia.org/wiki/Geba_(city)
 
@@ -282,7 +282,7 @@ Les Significations des Origines sont les généalogies vivantes et prêtes à l'
 conseil général | | | | OK
 Il y avait un concile général des disciples de Jésus à Philadelphie (167:0.3) (167:2.3)
 
-Genèse, Livre de; histoire | | | | OK
+Genèse, Livre de; L'histoire de la création | | | | OK
 L'histoire de la création d'Ève à partir de la côte d'Adam est une condensation confuse de l'arrivée d'Adam et de la chirurgie céleste liée à l'échange de substances vivantes associé à la venue du bâton corporel du Prince Planétaire plus de quatre cent cinquante mille ans auparavant. (74:8.3)
 
 génétique | | eugénisme; handicaps; hybridation; races | | OK
@@ -331,7 +331,7 @@ la fuite du génie est neutralisée par la gravité de la médiocrité (111:7.5)
 L'homme normal doit être encouragé ; il est l'épine dorsale de la civilisation et la source des génies mutants de la race. (68:6.11)
 le génie et l'originalité créatrice sont très encouragés dans la principale nation continentale d'une planète habitée plus proche (72:6.7) (72:7.1)
 
-Génésareth | | | PLACE | OK
+Gennésareth | | | PLACE | OK
 Une région de la mer de Galilée où Jésus se reposait après les événements de l'alimentation des cinq mille. (152:6)
 C'est ici que Jésus et les douze terminèrent leur voyage de retour de Phénicie le 1er août 29. (156:6.3)
 
@@ -409,7 +409,7 @@ Les périodes alternées de domination terrestre et maritime se sont produites s
 La croûte terrestre primitive était en état de changement continuel. Le refroidissement de la surface alternait avec d'immenses coulées de lave. Nulle part on ne trouve à la surface du monde quoi que ce soit de cette croûte planétaire originelle. Tout cela a été trop souvent mélangé avec des laves extrudées d'origines profondes et mélangé avec des dépôts ultérieurs de l'océan mondial primitif. (57:8.11) (58:7.1,6)
 Toute l'histoire géologique est racontée de manière graphique dans les pages fossiles du vaste « livre de pierre » des archives mondiales. (58:7)
 
-Gerar | | | PLACE | OK
+Gérar | | | PLACE | OK
 Après le départ de Melchisédek, Abraham s'installa à Guérar. Là, il cacha son identité par crainte (93:9.2-3)
 
 Gérasa | | | PLACE | OK
@@ -433,7 +433,7 @@ Les cultures nordique-danoise et danubienne-andonite se sont rencontrées et mê
 Les Allemands sont les descendants des races andites et bleues. Ces races furent les ancêtres des races dites nordiques, les ancêtres des peuples scandinaves, allemands et anglo-saxons. (80:4.5)
 Vers 5000 av. J.-C., les races blanches en évolution dominaient toute l'Europe du Nord, y compris le nord de l'Allemagne, le nord de la France et les îles britanniques. (80:5.8)
 
-Geshur | | | PLACE | OK
+Guéshur | | | PLACE | OK
 Talmaï était roi de Geshur et David épousa une de ses filles (97:9.10)
 
 geste; Geste | | | | OK
@@ -496,12 +496,12 @@ gibbons; gibbon | | | | OK
 un raid de gibbons a tué les parents d'Andon et Fonta, les parents de l'humanité (62:5.10-11)
 Les premiers lémuriens concernés par l'ascendance de l'espèce humaine n'étaient pas directement apparentés aux tribus préexistantes de gibbons et de singes vivant alors en Eurasie et en Afrique du Nord, dont la progéniture a survécu jusqu'à nos jours. (62:1.1)
 
-Gabaon | | | PLACE | OK
+Gibéon | | | PLACE | OK
 Cité cananéenne attaquée par Saül (97:9.13)
 > https://en.wikipedia.org/wiki/Gibeon_(ancient_city)
 
-Gabaonites | | | RACE | OK
-Le roi David livra 7 descendants de Saül aux Gabaonites pour être pendus (97:9.13)
+Gibéonites | | | RACE | OK
+Le roi David livra 7 descendants de Saül aux Gibéonites pour être pendus (97:9.13)
 > https://en.wikipedia.org/wiki/Gibeon_(ancient_city)
 
 Isthme de Gibraltar; isthme de Gibraltar | (61:3.8) | | PLACE | OK
@@ -509,7 +509,7 @@ A l'époque de certains changements climatiques en Afrique, l'Angleterre se sép
 Au début de la race violette, le creux méditerranéen était protégé par l'isthme de Gibraltar et le pont terrestre sicilien. (80:1.1)
 > https://en.wikipedia.org/wiki/Strait_of_Gibraltar
 
-Gideon | | | PERSON | OK
+Gédéon | | | PERSON | OK
 Les Madianites envahirent la vallée du Jourdain à l'époque de Gédéon (124:6.6)
 > https://en.wikipedia.org/wiki/Gideon
 
@@ -520,23 +520,23 @@ Si nos parents terrestres, étant de mauvaise tendance, savent aimer leurs enfan
 L'accumulation de richesses devint très tôt un signe distinctif social. Même les peuples modernes se réjouissent de la distribution somptueuse de cadeaux de Noël, tandis que les hommes riches dotent de grandes institutions de philanthropie et d'enseignement. (69:5.13)
 Le salut est le don de Dieu, et la justice est le fruit naturel de la vie spirituelle de fils dans le royaume. Jésus dit : « Vous voyez donc que le Père donne le salut aux enfants des hommes, et ce salut est un don gratuit à tous ceux qui ont la foi pour recevoir la filiation dans la famille divine. » (150:5.3,5) (167:5.1) (170:2.21) (193:1.2) (193:2.2)
 
-Guilboa | (144) | | PLACE | OK
-Les Philistins battirent Saül au mont Guilboa. Le roi Saül s'y suicida. (97:9.6) (97:9.13) (124:6.3) (134:9.5)
-Marie et Joseph campèrent sur les pentes du mont Guilboa en route vers Bethléem pour s'inscrire (122:7.5)
+Gilboa | (144) | | PLACE | OK
+Les Philistins battirent Saül au mont Gilboa. Le roi Saül s'y suicida. (97:9.6) (97:9.13) (124:6.3) (134:9.5)
+Marie et Joseph campèrent sur les pentes du mont Gilboa en route vers Bethléem pour s'inscrire (122:7.5)
 Cette montagne était visible depuis la colline près de la maison de Jésus à Nazareth (123:5.13)
 Jésus passa avec ses parents lorsqu'ils l'emmenèrent pour la première fois à Jérusalem (124:6.1) (124:6.4)
-Entre les mois de septembre et d'octobre 27, Jésus et les apôtres établirent leur camp sur le mont Guilboa (144:1)
-le 27 octobre, les apôtres de Jésus ont tenu une conférence avec les apôtres de Jean sur le mont Guilboa (144:6)
-Matthieu et Philippe furent expulsés d'un village samaritain sur les pentes du mont Guilboa alors qu'ils se rendaient à la Fête des Tabernacles en l'an 29 (162:0.1)
+Entre les mois de septembre et d'octobre 27, Jésus et les apôtres établirent leur camp sur le mont Gilboa (144:1)
+le 27 octobre, les apôtres de Jésus ont tenu une conférence avec les apôtres de Jean sur le mont Gilboa (144:6)
+Matthieu et Philippe furent expulsés d'un village samaritain sur les pentes du mont Gilboa alors qu'ils se rendaient à la Fête des Tabernacles en l'an 29 (162:0.1)
 > https://en.wikipedia.org/wiki/Mount_Gilboa
 
-Galaad | | | PLACE | OK
+Giléad | | | PLACE | OK
 Une des villes visitées lors de la mission de Pérée, du 30 janvier jusqu'à la fin de la vie de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Gilead
 
-Galaadites; Galaad | | | RACE | OK
-Les Galaadites étaient une tribu réputée biblique (128:1.14)
-L'histoire prétentieuse des Hébreux commence avec Saül qui rassemble les clans du nord pour résister à une attaque des Ammonites contre leurs compatriotes, les Galaadites, à l'est du Jourdain. Avec une armée d'un peu plus de trois mille hommes, il vainquit l'ennemi, et c'est cet exploit qui poussa les tribus des montagnes à le faire roi. (97:9.3)
+Giléadites; Giléad | | | RACE | OK
+Les Giléadites étaient une tribu réputée biblique (128:1.14)
+L'histoire prétentieuse des Hébreux commence avec Saül qui rassemble les clans du nord pour résister à une attaque des Ammonites contre leurs compatriotes, les Giléadites, à l'est du Jourdain. Avec une armée d'un peu plus de trois mille hommes, il vainquit l'ennemi, et c'est cet exploit qui poussa les tribus des montagnes à le faire roi. (97:9.3)
 > https://en.wikipedia.org/wiki/Gilead
 
 girafes | (61:4.4) | | | OK
@@ -731,11 +731,11 @@ trouver Dieu | foi; croissance spirituelle
 	il y en a peu qui ont réussi à trouver Dieu au Paradis (11:1.3)
 	On peut trouver Dieu par la soumission à l'esprit | soumission
 	Dieu ne peut être révélé à ceux qui ne le cherchent pas, ils doivent avoir faim de la vérité à la suite d'expériences de vie ou de contacts avec ceux qui connaissent Dieu (132:7.2)
-	Dieu en tant que Père a la priorité sur toutes les phases de la Déité (4:4.5-6) ​​​​(54:6.2) (196:3.35)
+	Dieu en tant que Père a la priorité sur toutes les phases de la Déité (4:4.5-6) (54:6.2) (196:3.35)
 	Dieu ne peut pas être pluriel en termes de personnalité, car quiconque adore Dieu, Dieu est un (56:4.4-5)
 	Dieu est toujours une réalité d'expérience personnelle (102:4.3)
 	Dieu est toujours accessible; il n'est pas caché (1:3.3) (1:5.3) (3:0.2) (5:1.8) (131:1.5) (131:2.4)
-	La présence divine dont chacun peut jouir à un moment donné n'est limitée que par la capacité de cette créature à recevoir et à discerner les réalités spirituelles (1:4.5-6) ​​​​(32:4.7)
+	La présence divine dont chacun peut jouir à un moment donné n'est limitée que par la capacité de cette créature à recevoir et à discerner les réalités spirituelles (1:4.5-6) (32:4.7)
 	la recherche sublime de Dieu est l'aventure suprême, la plus grande expérience de l'existence humaine (1:0.6) (117:6.9)
 	celui qui a vu un Fils Créateur a vu Dieu (0:8.9) (32:3.6) (107:0.4)
 	celui qui a vu Jésus a vu Dieu (157:6.13) (180:3.9) (182:1.9)
@@ -969,7 +969,7 @@ noms
 	* dragon | dragon
 	* nains | nains
 	* Dyaus pitar | Dyaus pitar
-	* Ea | ​​Ea
+	* Ea | Ea
 	* Le | Le
 	* El Shaddaï | El Shaddaï
 	* fées | fées
@@ -1054,9 +1054,9 @@ vivre la règle d'or
 	* le premier commandement est : aime le père, le chef de famille, et le deuxième commandement est : aime les enfants les uns les autres, aime ton frère comme toi-même (142:7.4) (163:4.8)
 	* aimer nos semblables comme Jésus nous a aimés (147:4.9) (180:5.5-11)
 
-Golgotha ​​| | | PLACE | OK
-Le Golgotha ​​était le site officiel de la crucifixion de Jérusalem (187:1.4)
-Jésus a été crucifié au Golgotha ​​(186:0.2) (187:1)
+Golgotha | | | PLACE | OK
+Le Golgotha était le site officiel de la crucifixion de Jérusalem (187:1.4)
+Jésus a été crucifié au Golgotha (186:0.2) (187:1)
 
 Goliath | | | PERSON | OK
 Goliath est le géant qui s'est battu en duel avec David (70:1.19)
@@ -1083,8 +1083,8 @@ Jésus a prêché le sermon sur le « Bon Pasteur » devant un groupe de plus de
 
 bonté; bien; Bien; Bonté | | vérité, beauté et bonté | | OK
 La divinité est une créature compréhensible comme vérité, beauté et bonté ; corrélée à la personnalité comme amour, miséricorde et ministère ; révélée sur des niveaux impersonnels comme justice, puissance et souveraineté. (0:1.17)
-« Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu », « car les yeux de l'Éternel sont sur les justes, et ses oreilles sont attentives à leurs prières. » (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1) | providence
-Notre Père céleste permet que le bien et le mal cohabitent jusqu'à la fin de la vie, tout comme la nature permet au blé et à l'ivraie de croître côte à côte jusqu'à la moisson. (4:2.6) (130:1.5-6) ​​(132:2) (159:5.10)
+« Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu », « car les yeux de l'Éternel sont sur les justes, et ses oreilles sont attentives à leurs prières. » (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1) | providence
+Notre Père céleste permet que le bien et le mal cohabitent jusqu'à la fin de la vie, tout comme la nature permet au blé et à l'ivraie de croître côte à côte jusqu'à la moisson. (4:2.6) (130:1.5-6) (132:2) (159:5.10)
 L'idéalisation et la tentative de servir la vérité, la beauté et la bonté ne remplacent pas une véritable expérience religieuse – la réalité spirituelle. (196:3.23)
 nous devons fonder la vie sur la plus haute conscience de la vérité, de la beauté et de la bonté (110:3.7)
 S'il est vrai que le bien ne peut résulter du mal pour celui qui envisage et accomplit le mal, il est également vrai que toutes choses (y compris le mal, potentiel et manifeste) concourent au bien de tous les êtres qui connaissent Dieu, aiment faire sa volonté et s'élèvent vers le Paradis selon son plan éternel et son dessein divin. (54:4.7)
@@ -1191,7 +1191,7 @@ diffusion de l'évangile
 	Maintenant que nous jouissons aujourd'hui des avantages de l'art de l'imprimerie, nous ne comprenons guère combien il était difficile de perpétuer la vérité à cette époque reculée ; combien il était facile de perdre de vue une nouvelle doctrine d'une génération à l'autre. (93:7.4)
 	À mesure que l'Évangile de ce royaume se répandra dans le monde entier avec son message de bonne humeur et de bonne volonté envers tous les hommes, les relations entre les familles de toutes les nations s'amélioreront et deviendront meilleures. (142:2.2) (143:1.4) (176:1.1)
 Autres évangiles
-	Les receveurs de Melchisédek ont ​​proclamé un évangile de résurrection et de réhabilitation à Adam et Ève, et ils ont pleinement cru (76:5.1)
+	Les receveurs de Melchisédek ont proclamé un évangile de résurrection et de réhabilitation à Adam et Ève, et ils ont pleinement cru (76:5.1)
 proclamer l'évangile | gouvernement : relation des croyants avec ; royaume des cieux : établissement
 	Lorsque nous proclamons l'Évangile, nous ne devons pas commettre l'erreur de condamner uniquement les torts dans la vie de nos élèves, mais aussi de reconnaître généreusement les choses les plus louables dans leur vie. (159:3.3)
 	Toute la Terre d'Urantia attend la proclamation du message ennoblissant de Micaël, libéré des doctrines et des dogmes accumulés au cours de dix-neuf siècles de contact avec les religions d'origine évolutionnaire. L'heure est venue de présenter au bouddhisme, au christianisme, à l'hindouisme et même aux peuples de toutes les croyances, non pas l'évangile de Jésus, mais la réalité vivante et spirituelle de l'évangile de Jésus. (94:12.7)
@@ -1233,7 +1233,7 @@ proclamer l'évangile | gouvernement : relation des croyants avec ; royaume des 
 		Prêchez d'abord l'Évangile, et quand vous aurez amené un homme en sécurité dans le royaume, alors, s'il le demande, donnez-lui l'enseignement avancé. (141:6.2-4)
 		Nous avons reçu gratuitement ; c'est pourquoi nous devons donner gratuitement de la vérité du ciel (159:1.5) (176:3.10) (193:0.5)
 		nous devons aller dans le monde entier, vers chaque homme, chaque femme et chaque enfant (93:4.4) (94:7.2) (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2) (193:2.2) (193:3.2) (193:5.2)
-		À Edrei, Jésus a donné une instruction sur les principes qui devraient guider les enseignants et les croyants de l'évangile du royaume (159:3) (178:1)
+		À Édréi, Jésus a donné une instruction sur les principes qui devraient guider les enseignants et les croyants de l'évangile du royaume (159:3) (178:1)
 		nous devons vivre notre vie de manière à amener les autres à s'enquérir de l'évangile (130:2.4) (132:7.2) (140:1.7) (141:7.3) (155:1.5) (182:1.6) (191:6.2)
 		Lorsque nous allons dans le monde pour proclamer l'Évangile, nous devons prendre les dispositions qui nous semblent les meilleures pour subvenir à nos besoins. (180:0.2)
 		La moralité ne peut jamais être promue par la loi ou par la force. C'est une affaire personnelle et de libre arbitre et elle doit être diffusée par la contagion du contact de personnes moralement parfumées (16:7.9).
@@ -1436,7 +1436,7 @@ les survivants bénéficient d'une opportunité prolongée d'accomplissement spi
 Il y a un décalage temporel entre le péché et la sanction. Une période de temps suffisamment longue pour permettre une évaluation entièrement satisfaisante du statut d'un individu dans l'univers (54:3.2) (54:4)
 
 grâce (prière avant de manger) ; rendre grâce | | | | OK
-Jésus négligeait rarement de rendre grâces – verbalement – ​​lorsqu'il rompait le pain pour leur déjeuner de midi (143:3.4).
+Jésus négligeait rarement de rendre grâces – verbalement – lorsqu'il rompait le pain pour leur déjeuner de midi (143:3.4).
 La méthode primitive de réciter la grâce consistait, avant de manger, à jeter un peu de nourriture dans le feu dans le but d'apaiser les esprits, tout en marmonnant une formule magique. (87:2.9)
 
 grâce | | | | OK
@@ -1445,7 +1445,7 @@ Nous pouvons cultiver la grâce, mais la grâce est l'arôme de l'amitié qui é
 dégradé | | | | OK
 Le poids standard de Jérusalem, le « gradant », est construit à l'aide du système décimal à partir de l'ultimaton de la maturité et représente presque exactement dix onces de notre poids. (46:1.2)
 
-Guides des diplômés | (24:6-7) | | ORDER | OK
+Guides de Diplômés | (24:6-7) | | ORDER | OK
 Les guides diplômés sont comptés parmi les personnalités supérieures de l'Esprit infini (26:6.1)
 Les guides diplômés, en tant que groupe, parrainent et dirigent la haute université d'instruction technique et de formation spirituelle qui est si essentielle à notre objectif. Ils sont engagés dans le pilotage des pèlerins du temps à travers les sept circuits des mondes de Havona. Ils restent avec le même pèlerin tout au long (24:6.1,3) (26:10.7)
 Le nombre des guides diplômés dépasse les capacités de l'esprit humain. Ils n'existent pas de toute éternité ; ils apparaissent mystérieusement quand on en a besoin. Malvorian fut le premier, le guide des diplômés appelé Grandfanda, et il est maintenant le chef de leur conseil suprême (24:6.4-6).
@@ -1453,7 +1453,7 @@ Les guides diplômés ne quittent jamais les mondes de Havona ; ils se consacren
 Bien que l'évolution ne soit pas l'ordre de l'univers central, on croit que les Guides diplômés sont les membres perfectionnés ou plus expérimentés d'un autre ordre de créatures de l'univers central, les Servites de Havona. (24:7.1-7) (25:1.7)
 Un servile est longtemps absent de Havona pour accomplir des missions dans le superunivers et peut plus tard avoir le privilège de recevoir une étreinte divine au Paradis qui peut le transformer en Guide Diplômé. (24:7.2-3)
 Par exemple, Sudna est un serviteur revenu du service du superunivers, a été reçu au Paradis, a rencontré le Père, est entré dans l'étreinte divine et n'est plus, et trois jours plus tard, un nouveau-né Guide Diplômé est apparu « spontanément » à Havona. (24:7.5)
-Les serviteurs nouvellement créés, ainsi que les guides diplômés nouvellement apparus, suivent tous les cours de formation que les guides supérieurs dirigent continuellement sur chacun des sept circuits de Havona. Ils font ensuite de grands efforts pour servir sur les mondes d'étude entourant les sphères sièges des sept superunivers. (25:1.5-6) ​​(26:7.4)
+Les serviteurs nouvellement créés, ainsi que les guides diplômés nouvellement apparus, suivent tous les cours de formation que les guides supérieurs dirigent continuellement sur chacun des sept circuits de Havona. Ils font ensuite de grands efforts pour servir sur les mondes d'étude entourant les sphères sièges des sept superunivers. (25:1.5-6) (26:7.4)
 dans les registres de personnalité, ils apparaissent comme des êtres d'origine unique dans la famille de l'Esprit Infini (30:1.77) (30:2.73)
 Les guides diplômés, avec leurs associés serviteurs, exercent leur ministère sur tous les circuits de Havona auprès des pèlerins montants et descendants (26:6.1)
 
@@ -1635,20 +1635,20 @@ Cette énergie secondaire ou énergie de gravité est le produit de l'élaborati
 c'est l'énergie gravitationnelle du Paradis qui porte le potentiel de la puissance de l'univers et devient l'ancêtre actif de toute la matière de l'univers. C'est l'une des deux formes d'ultimata. (42:2.12-13)
 Les Directeurs Suprêmes du Pouvoir et les Superviseurs Suprêmes du Centre fonctionnent à la fois individuellement et conjointement à l'égard de tous les phénomènes cosmiques situés au-dessous des niveaux de « l'énergie gravitationnelle » (29:2.11).
 
-Messagers de la gravité | (31:2) | | ORDER | OK
-Les Messagers de la Gravité sont des personnalités spirituelles presque infinies qui peuvent défier le temps et l'espace. Ce sont des êtres hautement personnels, divins, intelligents et d'une compréhension touchante. Une grande partie du travail insondable de l'univers lointain est accompli par eux (31:2.2) (108:4.5)
+Messagers de Gravité | (31:2) | | ORDER | OK
+Les Messagers de Gravité sont des personnalités spirituelles presque infinies qui peuvent défier le temps et l'espace. Ce sont des êtres hautement personnels, divins, intelligents et d'une compréhension touchante. Une grande partie du travail insondable de l'univers lointain est accompli par eux (31:2.2) (108:4.5)
 ils sont sous la juridiction exclusive de Grandfanda et du corps finalitaire (31:2.1)
-Les Messagers de la Gravité viennent de Divinington, et ce sont des Ajusteurs modifiés et personnalisés, mais peu de gens à Uversa entreprendront d'expliquer la nature de l'un de ces messagers. (31:2.2)
+Les Messagers de Gravité viennent de Divinington, et ce sont des Ajusteurs modifiés et personnalisés, mais peu de gens à Uversa entreprendront d'expliquer la nature de l'un de ces messagers. (31:2.2)
 Divinington est leur maison (13:1.6) (31:2.2)
 ils apparaissent dans la classification du Paradis comme des êtres d'origine unique et des Esprits suprêmes (30:1.57)
-Il existe une liaison d'une puissance et d'une importance considérables entre les Étoiles du Soir et les Messagers de la Gravité attachés aux groupes de travail finalitaires. (37:2.11)
-Certains franchisseurs de gravité sont des êtres personnels, tels que les Messagers de la Gravité et les Enregistreurs Transcendantaux, mais ils ne sont pas accessibles aux administrateurs de l'univers supra-universel et local. (23:3.2)
+Il existe une liaison d'une puissance et d'une importance considérables entre les Étoiles du Soir et les Messagers de Gravité attachés aux groupes de travail finalitaires. (37:2.11)
+Certains franchisseurs de gravité sont des êtres personnels, tels que les Messagers de Gravité et les Enregistreurs Transcendantaux, mais ils ne sont pas accessibles aux administrateurs de l'univers supra-universel et local. (23:3.2)
 ils deviennent finalitaires lorsqu'ils deviennent chefs avec un état-major permanent de 999 compagnons ; ils peuvent même faire usage de réserves illimitées disponibles (31:2.3)
 Les messagers de la gravité sont capables de se déplacer très rapidement, indépendamment du temps et de l'espace (23:2.23) (31:2.1)
 ils sont en charge de certains messages spatiaux (44:5.7)
 ils n'ont pas de forme physique découvrable (42:12.10)
 
-Au-delà | | | RELIGION | OK
+Grand Au-Delà | | | RELIGION | OK
 D'Oban, il envoya des enseignants dans les colonies éloignées pour diffuser ses nouvelles doctrines d'une Déité unique et son concept de l'au-delà, qu'il appela le Grand Au-delà. (63:6.7)
 
 Grande-Bretagne | | Îles britanniques | PLACE | OK
@@ -1663,10 +1663,10 @@ Culte de la Grande Mère | | Culte de la Mère de Dieu | RELIGION | OK
 
 Grande Pyramide | | pyramides | | OK
 
-Grande Rivière | | | | OK
+Grand Fleuve | | | | OK
 Les Egyptiens s'attendaient à ce que le ka les attende de l'autre côté (111:0.6)
 
-Grandes Sources et Centres | | Fils Éternel; Esprit Infini; Père Universel | | OK
+Grandes Sources-Centres | | Fils Éternel; Esprit Infini; Père Universel | | OK
 Fait référence à : (15:1.4)
 * Père Universel
 * Fils Éternel
@@ -1681,7 +1681,7 @@ la parabole du grand souper de Jésus concerne celui qui sera digne de manger le
 plus grand | | | | OK
 Recherchez la plus grande chose, et vous y trouverez la moindre; demandez le céleste, et le terrestre vous sera donné. (165:5.3)
 
-Grande Route | | Bouddhisme | | OK
+Route Majeure | | Bouddhisme | | OK
 Le concept de Dieu, opposé à l'Absolu, a commencé à apparaître progressivement dans le bouddhisme. Ses origines remontent aux premiers jours de cette différenciation entre les adeptes de la Petite Voie et de la Grande Voie. C'est au sein de cette dernière branche du bouddhisme que la double conception de Dieu et de l'Absolu a finalement mûri (94:12.2).
 Avant l'effondrement de l'Inde, les groupes chinois et indiens du nord des disciples de Gautama avaient commencé à développer l'enseignement Mahayana de la « Grande Voie » vers le salut, en contraste avec les puristes du sud qui adhéraient au Hinayana, ou « Petite Voie » (94:9.4-5).
 
@@ -1793,7 +1793,7 @@ la race verte a été anéantie et a absorbé les restes de la race orange il y 
 La stature des mortels tend à diminuer depuis l'homme rouge jusqu'à la race indigo, bien que sur Urantia des tendances inattendues de gigantisme soient apparues parmi les peuples verts et oranges. Beaucoup de leurs chefs mesuraient huit et neuf pieds de haut. (51:4.2) (64:6.19)
 destruction
 	vers 15 000 av. J.-C., la race verte a été exterminée (78:3.7)
-	La race verte se divisa en trois grandes divisions : les tribus du nord furent soumises, asservies et absorbées par les races jaune et bleue. Le groupe de l'est fut fusionné avec les peuples indiens de l'époque, et des vestiges subsistent encore parmi eux. La nation du sud pénétra en Afrique, où elle détruisit ses cousins ​​oranges presque aussi inférieurs, puis les restes des hommes verts victorieux furent absorbés par la race indigo (51:4.6) (64:6.18-20).
+	La race verte se divisa en trois grandes divisions : les tribus du nord furent soumises, asservies et absorbées par les races jaune et bleue. Le groupe de l'est fut fusionné avec les peuples indiens de l'époque, et des vestiges subsistent encore parmi eux. La nation du sud pénétra en Afrique, où elle détruisit ses cousins oranges presque aussi inférieurs, puis les restes des hommes verts victorieux furent absorbés par la race indigo (51:4.6) (64:6.18-20).
 	cette race, avec la race orange, est particulièrement sujette à l'extinction (52:2.5)
 	il s'agit d'une race, comme les hommes rouges et les hommes orange, qui s'est pratiquement détruite par la guerre (64:7.7)
 vestiges survivants
@@ -1820,11 +1820,11 @@ géologie
 
 marnes de sable vert | (60:3.9) | | | OK
 
-Calendrier grégorien; calendrier bissextile; calendrier du XXe siècle | | | | OK
+Calendrier grégorien; calendrier actuellement utilisé; calendrier du vingtième siècle | | | | OK
 Le calendrier grégorien est celui utilisé dans les Fascicules d'Urantia. Bien que les années exactes soient connues des développeurs, elles n'ont pas été utilisées pour se conformer à ce calendrier. (57:0.1) (126:3.1)
 
 groupes | | coopération; famille; communion de croyants; amitié; individu; parties et le tout | | OK
- Trois personnes constituent un groupe social minimum, mais c'est la moindre des nombreuses raisons de croire à l'inévitabilité de l'Acteur Conjoint. (10:2.3) (39:3.6)
+Trois personnes constituent un groupe social minimum, mais c'est la moindre des nombreuses raisons de croire à l'inévitabilité de l'Acteur Conjoint. (10:2.3) (39:3.6)
 implication céleste
 	Le Fils Créateur règne en maître sur toutes les questions d'associations éthiques, les relations de toute division de créatures avec toute autre classe de créatures ou de deux ou plusieurs individus au sein d'un groupe donné (32:4.3-4).
 	les résurrections dispensationnelles maintiennent les groupes ensemble pour un service efficace et de longue durée (30:4.13)
@@ -1987,14 +1987,14 @@ Anciens tests de culpabilité
 Pierre
 	Pierre se sentit le cœur lourd et écrasé par le sentiment de culpabilité après avoir renié Jésus (184:2.8-9,13)
 
-Guides | | | RACE | OK
+Guites | | | RACE | OK
 Vers 2500 av. J.-C., les Sumériens subirent de graves revers aux mains des Suites et des Guites du nord. (78:8.10)
 
 golfe | | | | OK
 Il existe un grand gouffre cosmique entre la matière et la pensée, et ce gouffre est infiniment plus grand entre le mental matériel et l'amour spirituel. (112:2.10)
 Il existe un immense gouffre entre l'humain et le divin, entre l'homme et Dieu. (110:4.5)
 
-Golfe du Mexique | (59:2.7) | | PLACE | OK
+golfe du Mexique | (59:2.7) | | PLACE | OK
 Les animaux marins de ces époques cherchèrent refuge temporairement dans trois lieux favorables : la région actuelle du golfe du Mexique, la baie du Gange en Inde et la baie de Sicile dans le bassin méditerranéen. (59:6.9)
 > https://en.wikipedia.org/wiki/Gulf_of_Mexico
 
@@ -2006,8 +2006,8 @@ Les grands courants océaniques étaient en fonction au Miocène et affectaient 
 mouettes | (61:2.12) | | | OK
 > https://en.wikipedia.org/wiki/Gull
 
-Guru Nanak | | | PERSON | OK
-Guru Nanak ou Nanak était le récent chef religieux du 15e siècle qui a fondé le sikhisme (92:5.8)
+gourou Nanak | | | PERSON | OK
+Gourou Nanak ou Nanak était le récent chef religieux du 15e siècle qui a fondé le sikhisme (92:5.8)
 Le sikhisme est une synthèse de l'islam, de l'hindouisme et du bouddhisme (92:5.15)
 > https://en.wikipedia.org/wiki/Guru_Nanak
 

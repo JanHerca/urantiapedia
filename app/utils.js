@@ -515,7 +515,7 @@ exports.writeHTMLToWikijs = (filePath, header, body) => {
 /**
  * Checks a text with an array of components.
  * This function is required because RegExp has problems to search components
- * that are full words and start or end with spacial chars like accent.
+ * that are full words and start or end with special chars like accent.
  * @param {Array.<string>} arItems Array of components. If any of them appear 
  * then test is valid.
  * @param {string} text Text to test.
@@ -523,7 +523,7 @@ exports.writeHTMLToWikijs = (filePath, header, body) => {
  */
 exports.testWords = function(arItems, text) {
 	let ini = 0, fin = 0, j, testIni, testFin;
-	const regex = /[a-z0-9áéíóúü]/i;
+	const regex = /[a-z0-9áéíóúäëïöüàèìòùâêîôû’]/i;
 	const len = text.length;
 	for (j = 0; j < arItems.length; j++) {
 		ini = 0;

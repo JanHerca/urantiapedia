@@ -210,8 +210,8 @@ Callirrhoé | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Callirrhoe_(Jordanie)
 
-Cambrien | (59:1.15,20) | âges géologiques | | OK
-Le Cambrien est l'ère de la vie marine qui s'étend de 400 à 350 millions d'années (59:1)
+Cambrienne; cambrienne; cambriennes | (59:1.15,20) | âges géologiques | | OK
+Le cambrienne est l'ère de la vie marine qui s'étend de 400 à 350 millions d'années (59:1)
 > https://en.wikipedia.org/wiki/Cambrian
 
 chameaux; chameaux | | caravanes | | OK
@@ -296,7 +296,7 @@ Jésus
 	une répulsion envers Jésus était générale à Capharnaüm (153:5.2) (154:1.2) (154:4.1)
 	les dernières paroles de Jésus dans la synagogue ont déclenché le changement de sentiments à son égard (153:4)
 	Jésus adresse ici quelques-unes de ses paroles de reproche les plus dures : « Malheur aux habitants de Chorazin, de Bethsaïda-Julias et de Capharnaüm, les villes qui n'ont pas bien reçu ces messagers ! » (163:6.5)
-	La quatorzième apparition morontielle de Jésus eut lieu à Capharnaüm. À ​​midi, le samedi 22 avril 30 après J.-C., les onze apôtres se réunirent sur la colline près de Capharnaüm, et Jésus apparut au milieu d'eux. (192:3.1)
+	La quatorzième apparition morontielle de Jésus eut lieu à Capharnaüm. À midi, le samedi 22 avril 30 après J.-C., les onze apôtres se réunirent sur la colline près de Capharnaüm, et Jésus apparut au milieu d'eux. (192:3.1)
 Habitants connus
 	* André, président du corps apostolique du royaume, est né à Capharnaüm. (139:1.1)
 	* La famille Zébédée (129:1.4) (139:3.1) (139:4.1)
@@ -618,9 +618,9 @@ les cellules blessées commencent la sécrétion de certaines substances qui fac
 les cellules humaines sont apparentées aux organismes microscopiques et ultramicroscopiques vivants producteurs de maladies (76:4.7)
 L'unité biologique de la vie matérielle est la cellule protoplasmique, l'association communautaire d'énergies chimiques, électriques et autres énergies fondamentales. (49:1.2)
 
-Celse | | | PERSON | OK
-Celse était un croyant de Jésus à Césarée de Philippe (157:3.7) (157:4.1) (157:6.1)
-les apôtres ont passé la nuit avec Celse à une occasion (158:6.1)
+Celsus | | | PERSON | OK
+Celsus était un croyant de Jésus à Césarée de Philippe (157:3.7) (157:4.1) (157:6.1)
+les apôtres ont passé la nuit avec Celsus à une occasion (158:6.1)
 
 Celta | | | PERSON | OK
 Celta était la fille d'un centurion romain ; elle faisait partie du corps des douze femmes évangélistes (150:1.1)
@@ -630,7 +630,7 @@ cimetière | | | | OK
 Une personne crucifiée ne pouvait pas être enterrée dans un cimetière juif ; il y avait une loi stricte interdisant une telle procédure. (188:1.2)
 Le fou Kheresa vivait dans les grottes du cimetière (151:6.2)
 
-Cénozoïque | | âges géologiques | | OK
+Cénozoïque; cénozoïque | | âges géologiques | | OK
 Le Cénozoïque était l'ère des mammifères, d'il y a 50 millions d'années à nos jours (59:0,6) (61:0,2) (61:7,19)
 > https://en.wikipedia.org/wiki/Cenozoic
 
@@ -1118,7 +1118,7 @@ La Chine est un pays privilégié sur le plan géographique. Elle est protégée
 	Il y a environ 85 000 ans, les restes relativement purs de la race rouge se sont déplacés en masse vers l'Amérique du Nord. Mais à travers la Sibérie, la Chine, l'Asie centrale, l'Inde et l'Europe, ils ont laissé derrière eux une grande partie de leur lignée mélangée (64:6.5).
 	Cela fait presque 40 000 ans que les premières avancées importantes ont été réalisées dans la culture chinoise (79:8.16)
 	Vers 15 000 av. J.-C., la pression démographique croissante dans tout le Turkestan et l'Iran provoqua le premier mouvement andite vraiment important vers l'Inde. Cette pression andite venue du nord-ouest poussa de nombreux peuples inférieurs du sud et de l'est vers la Birmanie et le sud de la Chine (79:2.4).
-	Les Andites n'émigrèrent pas seulement en Europe, mais aussi dans le nord de la Chine et en Inde. Beaucoup de membres de cette race se rendirent en Chine en passant par le Sinkiang et le Tibet et ajoutèrent des qualités désirables aux souches chinoises ultérieures. (78:5.5-6) ​​(79:1.1)
+	Les Andites n'émigrèrent pas seulement en Europe, mais aussi dans le nord de la Chine et en Inde. Beaucoup de membres de cette race se rendirent en Chine en passant par le Sinkiang et le Tibet et ajoutèrent des qualités désirables aux souches chinoises ultérieures. (78:5.5-6) (79:1.1)
 	Il y a 20 000 ans, les ancêtres des Chinois avaient bâti une douzaine de centres puissants de culture et d'apprentissage primitifs, notamment le long du fleuve Jaune et du Yangtze. (79:6.5)
 	Il y a environ 15 000 ans, les Andites, en nombre considérable, traversaient le col de Ti Tao et se répandaient dans la haute vallée du fleuve Jaune parmi les colonies chinoises du Kansu. Les Chinois du nord reçurent juste assez de la souche andite pour stimuler légèrement leurs esprits naturellement doués (79:7).
 	Les Chinois n'ont commencé à construire des villes et à s'engager dans l'industrie qu'après 10 000 av. J.-C. (79:1.4) (79:7.5)
@@ -1414,7 +1414,7 @@ Cicéron | | | PERSON | OK
 Le célèbre écrivain et orateur romain est présenté comme un exemple de maturité pour recevoir le christianisme (195:2.6)
 > https://en.wikipedia.org/wiki/Cicéron
 
-Île de Cincinnati; l’ile de Cincinnati | (59:4.8) | | PLACE | OK
+Île de Cincinnati; ile de Cincinnati | (59:4.8) | | PLACE | OK
 
 cercles | | cercles psychiques; cercles concentriques, trois; Jérusalem | | OK
 A Jérusalem, les zones résidentielles des non-indigènes sont appelées les cercles. Chacune d'elles est constituée de sept cercles concentriques et successivement surélevés. Ces cercles sont les suivants : (46:4.2)
@@ -1422,7 +1422,7 @@ A Jérusalem, les zones résidentielles des non-indigènes sont appelées les ce
 # les cercles des anges, qui sont entourés par le panorama exposé de Jérusalem, 5 000 milles standards de circonférence, ou 55 000 km en unités terrestres (46:5.20-24)
 # les cercles des Aides Universelles, où se trouve le siège des Étoiles du Soir, dirigé par Galantia, un bâtiment en cristal coulé monolithique (46:5.25)
 # les cercles des Maîtres Contrôleurs Physiques, entourant le temple mystérieux et immense du pouvoir (46:5.26)
-# les cercles des mortels ascendants, dont le centre est occupé par les 619 mémoriaux planétaires, avec l'immense modèle fonctionnel d'Edentia, de 65 km de diamètre (46:5.27-29)
+# les cercles des mortels ascendants, dont le centre est occupé par les 619 mémoriaux planétaires, avec l'immense modèle fonctionnel d'Édentia, de 65 km de diamètre (46:5.27-29)
 # les cercles des colonies de courtoisie, ornés de trois structures énormes : le vaste observatoire astronomique de Jérusalem, la gigantesque galerie d'art de Satania et l'immense salle de réunion des directeurs de la réversion (46:5.30-31)
 # les cercles des finalitaires, avec le temple incomparable, vide et silencieux, portant le sceau de Michel (46:5.32)
 # Autres cercles résidentiels supplémentaires (46:5.33)
@@ -1476,10 +1476,10 @@ Au temps de Jésus
 circonspection | | bienséance | | OK
 
 circonstances | | environnement; handicaps; providence | | OK
-« Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu. » Les événements physiques catastrophiques contribuent toujours au bien-être et au progrès des univers. Il se peut que les circonstances inexplicables de l'existence soient toutes entrelacées dans un modèle significatif de grande valeur par le Suprême et la Trinité. (4:1.4,11) (10:7.5-6) ​​(48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
+« Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu. » Les événements physiques catastrophiques contribuent toujours au bien-être et au progrès des univers. Il se peut que les circonstances inexplicables de l'existence soient toutes entrelacées dans un modèle significatif de grande valeur par le Suprême et la Trinité. (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 Les séraphins peuvent manipuler les conditions planétaires et associent ainsi les circonstances de manière à influencer favorablement les sphères d'activité humaine auxquelles ils sont attachés. (113:3.5) (113:4.4) (114:6.18)
 Jésus
-	Jésus n'a pas interféré avec les événements naturels ni provoqué d'événements surnaturels sur lui-même (135:11.3) (136:7.2-3) (136:8.5-6) ​​(136:9.9) (182:3.7) (183:1.2) (186:2.3)
+	Jésus n'a pas interféré avec les événements naturels ni provoqué d'événements surnaturels sur lui-même (135:11.3) (136:7.2-3) (136:8.5-6) (136:9.9) (182:3.7) (183:1.2) (186:2.3)
 	il a choisi de vivre sa vie humaine dans le cours naturel de son existence, même si cela a conduit à l'arrestation et à l'exécution (128:1.6)
 	Jésus a cherché à faire comprendre que le monde ne doit pas être considéré comme un ennemi ; que les circonstances de la vie constituent une dispensation divine œuvrant de concert avec les enfants de Dieu. (140:8.3)
 	« Peu importe dans quelles profondeurs les âmes découragées peuvent être tombées, lorsqu'elles recherchent la lumière de tout leur cœur, l'Esprit de Dieu les délivrera de leur captivité ; les mauvaises circonstances de la vie les vomiront sur la terre sèche des nouvelles opportunités de service renouvelé et de vie plus sage. » (130:1.2)
@@ -1736,7 +1736,7 @@ les changements climatiques ont provoqué des changements dans la civilisation :
 * L'expansion de la race violette en Europe fut interrompue par certains changements climatiques et géologiques assez soudains. Les vents de l'ouest se dirigèrent vers le nord, transformant peu à peu les vastes régions de pâturages ouverts du Sahara en un désert aride. (80:2.1)
 * Il y a 15 000 ans, les forêts alpines s'étendaient à perte de vue. Ces grandes modifications climatiques forcèrent les races d'Europe qui pratiquaient la chasse à devenir des bergers. (80:3.8)
 * Vers 3000 av. J.-C., l'aridité croissante repoussa les Andonites au Turkestan. (80:9.6)
-Les principaux facteurs à l'origine des fluctuations sont l'élévation du sol, les nuages ​​cosmiques et les océans (57:8.22)
+Les principaux facteurs à l'origine des fluctuations sont l'élévation du sol, les nuages cosmiques et les océans (57:8.22)
 le climat est un facteur décisif dans les premières civilisations (81:1.1-5) (81:6.3-4)
 la période permienne était caractérisée par son climat continental rigoureux (59:6) (60:0.1)
 Dans une parabole, Jésus utilise l'idée de discerner le temps qu'il fait : « Comment se fait-il que vous sachiez si bien discerner l'aspect du ciel, mais que vous soyez si incapables de discerner les signes des temps ? » (157:2.1)
@@ -1765,8 +1765,8 @@ les soixante-dix évangélistes furent envoyés sans vêtements supplémentaires
 Les vêtements de Jésus ont été divisés par les soldats avant la crucifixion (187:2.2,8-9)
 « Souvenez-vous qu'un tailleur avisé ne coud pas un morceau de tissu neuf et non rétréci sur un vieux vêtement, de peur que, lorsqu'il est mouillé, il ne rétrécisse et ne produise une déchirure plus grave. » (147:7.2)
 
-nuages; nuages ​​cosmiques; Nuages ​​| | | | OK
-les nuages ​​cosmiques peuvent affecter le climat (57:8.22)
+nuages; nuages cosmiques; Nuages | | | | OK
+les nuages cosmiques peuvent affecter le climat (57:8.22)
 Les nuages, la pluie et la grêle ont tous été craints et adorés par de nombreuses tribus primitives et par de nombreux cultes de la nature primitifs. (85:4.3)
 Les Néandertaliens avaient une peur bleue des nuages, plus particulièrement des brumes et des brouillards. (64:4.12)
 
@@ -1779,7 +1779,7 @@ L'une des leçons les plus importantes à apprendre au cours de votre carrière 
 	Le personnel du Prince enseignait le travail d'équipe (66:7.6)
 	L'une des leçons les plus importantes à apprendre au cours de notre vie mortelle est le travail d'équipe. Rares sont les devoirs qui incombent au serviteur solitaire dans l'univers (28:5.14).
 	à Jérusalem, nous apprendrons à coopérer et à planifier avec d'autres êtres plus sages, aidés par les séraphins Stimulateurs de Moralité (39:4.10)
-	à Edentia, nous acquérons la capacité de coopérer volontairement et efficacement avec votre propre ordre d'êtres (43:8.4-11)
+	à Édentia, nous acquérons la capacité de coopérer volontairement et efficacement avec votre propre ordre d'êtres (43:8.4-11)
 coopération et civilisation
 	Dans la civilisation, beaucoup dépend d'un esprit de traction de charge enthousiaste et efficace. (81:6.34-37)
 	Non seulement les esprits apparentés sont attirés les uns vers les autres, mais les esprits apparentés sont également très fraternels et enclins à coopérer les uns avec les autres. (16:6.3)
@@ -1813,7 +1813,7 @@ déposition (60:2.7) (60:3.9) (61:2.3)
 
 manteau | | | | OK
 Quand Jésus dit à ses apôtres qu'ils devraient, lorsque l'un d'eux enlevait injustement la tunique, offrir le vêtement de l'autre, il ne faisait pas tellement allusion à un second manteau littéral, mais plutôt à l'idée de faire quelque chose de positif pour sauver le malfaiteur, au lieu du vieux conseil de se venger – « œil pour œil » et ainsi de suite. (159:5.11)
- 
+
 coq | | volaille | | OK
 
 cafards | (59:5.7) | | | OK
@@ -1839,10 +1839,10 @@ La gravité et l'absence de chaleur (froid) organisent et maintiennent la matiè
 effondrement | | | | OK
 Si Dieu devait se retirer comme le soutien actuel de toute la création, il se produirait immédiatement un effondrement universel. (4:1.6)
 
-Collège d'éthique, de droit et de Suprématie; collèges de l’éthique de la loi et de la technique de Suprématie | | | | OK
+Collège d'éthique, de droit et de Suprématie; collèges de l'éthique de la loi et de la technique de Suprématie | | | | OK
 l'une des étapes de la formation des Conseillers Techniques est l'entrée dans le « collège de l'éthique du droit et de la technique de la Suprématie », l'école de formation du Paradis pour le perfectionnement des Conseillers Techniques. (25:4.14)
 
-Collège d’Éthique Supérieure | | | | OK
+Collège d'Éthique Supérieure | | | | OK
 Le cours le plus élevé de formation en administration de l'univers est donné par les Melchizédeks sur leur planète natale. Ce Collège de Haute Éthique est présidé par le Père originel Melchizédek. (35:3.22)
 
 collège de planification de la vie | | | | OK
@@ -1853,7 +1853,7 @@ collège de religion révélée | | Caligastia cent | | OK
 collège d'auto-évaluation | | | | OK
 Les Fils de Melchisédek dirigent plus de trente centres éducatifs différents à Jérusalem. Ces écoles de formation commencent par le collège d'auto-évaluation et se terminent par les écoles de citoyenneté de Jérusalem (45:7.3).
 
-Collège de la Sagesse | | | | OK
+Collège de la Sagesse; Collège supérieur de Sagesse | | | | OK
 Les Fils Instructeurs dirigent un cours de formation de longue durée, allant des cours planétaires jusqu'au haut Collège de Sagesse situé à Salvington. (20:8.3)
 
 collisions | | | | OK
@@ -2392,7 +2392,7 @@ Il existe véritablement en nous une conspiration de forces spirituelles, une co
 Constantin | | | PERSON | OK
 Constantin fut le premier empereur romain à être conquis par le christianisme (195:0.10)
 
-Centres de constellation | | Centres de pouvoir suprême | ORDER | OK
+Centres de Constellation | | Centres de pouvoir suprême | ORDER | OK
 il y a dix centres de constellation assignés à chaque constellation (29:2.17) (41:1.4) (43:8.1)
 De ces êtres partent les lignes électriques pour la communication et le transport, ainsi que pour l'énergie des créatures vivantes qui dépendent de certaines formes d'énergie physique pour le maintien de la vie. (29:2.17)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.97)
@@ -2407,7 +2407,7 @@ Les constellations sont les unités primaires et autonomes d'un univers local, c
 se compose de 100 systèmes locaux présidés par 3 Fils Vorondadek, les Très Hauts (15:2.4) (32:0.1)
 ils contiennent 100 000 mondes habitables (15:2.5,20)
 le nom de notre constellation est Norlatiadek, le nombre 70 dans Nébadon, notre univers local (15:14.6) (43:0.1)
-les sphères de chaque siège sont comparables à Edentia, la capitale de Norlatiadek. Edentia est une sphère cent fois plus grande qu'Urantia, elle est entourée de 70 satellites dix fois plus grands qu'Urantia, et chacun des satellites est entouré de dix sous-satellites de la taille d'Urantia (43:0.2)
+les sphères de chaque siège sont comparables à Édentia, la capitale de Norlatiadek. Édentia est une sphère cent fois plus grande qu'Urantia, elle est entourée de 70 satellites dix fois plus grands qu'Urantia, et chacun des satellites est entouré de dix sous-satellites de la taille d'Urantia (43:0.2)
 Les sphères morontielles sont les phases de transition de l'ascension des mortels à travers les mondes de progression de l'univers local. Les 56 demeures de transition du système, comme les sphères supérieures autour des constellations et du siège de l'univers, sont appelées mondes morontiels. (48:1.2)
 L'heure de Nébadon, diffusée depuis Salvington, est la norme pour toutes les constellations et tous les systèmes de cet univers local. (33:6.8) (43:0.3)
 gouvernement
@@ -2436,7 +2436,7 @@ consuls (univers); Consuls | | | ORDER | OK
 Les ambassadeurs sont nommés par décret judiciaire et représentent les univers auprès des autres univers. Les consuls sont les représentants des constellations les unes auprès des autres et auprès du siège de l'univers (33:6.4)
 Les Vorondadeks servent d'ambassadeurs auprès d'autres univers et de consuls représentant des constellations dans leur univers d'origine. (35:5.5)
 
-Consommateur de la destinée de l'univers | (30:1.105) | | ORDER | OK
+Consommateur de la Destinée de l'Univers | (30:1.105) | | ORDER | OK
 la destinée est probablement consommée par l'acte du Consommateur de la Destinée de l'Univers, et cet acte est probablement impliqué avec le Suprême et l'Ultime dans la Trinité Absolue. (106:7.3)
 la deuxième Trinité expérientielle est la Trinité Absolue, l'union de Dieu le Suprême, de Dieu l'Ultime et du Consommateur non révélé de la Destinée de l'Univers. (106:5.1) (0:12.7)
 
@@ -2448,7 +2448,7 @@ mépris | | | | OK
 Adam et Ève furent absous des accusations de « mépris du gouvernement de l'univers » (75:7.2).
 Le mariage mixte a fini par dominer parce qu'il était favorisé par l'homme ; trouver une femme de l'extérieur assurait une plus grande liberté par rapport à la belle-famille. La familiarité engendre le mépris (82:5.6)
 Dans l'univers de Nébadon, il y a dix mille systèmes de mondes habités. Dans toute l'histoire des Fils Lanonandeks, dans tout leur travail à travers ces milliers de systèmes et au siège de l'univers, seuls trois Souverains de Systèmes ont été trouvés en train de mépriser le gouvernement du Fils Créateur. (53:0.2)
-Van rédigea formellement son acte d'accusation contre Daligastia, Caligastia et Lucifer, qui méprisaient la souveraineté de l'univers de Nébadon ; et il fit appel aux Très Hauts d'Edentia pour obtenir leur soutien et leur confirmation. (67:2.2)
+Van rédigea formellement son acte d'accusation contre Daligastia, Caligastia et Lucifer, qui méprisaient la souveraineté de l'univers de Nébadon ; et il fit appel aux Très Hauts d'Édentia pour obtenir leur soutien et leur confirmation. (67:2.2)
 
 dispute; controverse | | arguments; conflit | | OK
 Par la discrétion, nous devons nous montrer experts dans l'art de régler les désaccords mineurs et de régler les malentendus insignifiants. (178:1.7)
@@ -2539,8 +2539,8 @@ Le travail personnel de Jésus à Corinthe l'a conduit à rencontrer : (133:3-4)
 	* un certain nombre d'autres personnes anonymes
 Pierre a visité Corinthe (139:2.11)
 
-Cornelius | | | PERSON | OK
-Corneille est le centurion romain de Césarée qui fut converti par Pierre, et dont le subordonné, Anaxande, avait rencontré Jésus quelque temps auparavant et avait été ému par ses paroles (130:2.5).
+Cornélius | | | PERSON | OK
+Cornélius est le centurion romain de Césarée qui fut converti par Pierre, et dont le subordonné, Anaxande, avait rencontré Jésus quelque temps auparavant et avait été ému par ses paroles (130:2.5).
 
 pierre angulaire | | | | OK
 Il existe un dicton juif qui dit : la pierre que les bâtisseurs ont rejetée est devenue la pierre angulaire lorsque le peuple l'a découverte. (173:4.4)
@@ -2570,7 +2570,7 @@ Le Corps des Finalitaires Trinitisés Conjoints est l'un des sept corps finalita
 Les natifs de Havona sont reçus, dans la même proportion, dans le Corps des Finalitaires Trinitisés Conjoints de Vicegerington et dans le Corps des Finalitaires Transcendantaux du Paradis. Les citoyens de Havona considèrent ces trois destinées comme constituant les buts suprêmes de leur carrière céleste, ainsi que leur admission éventuelle dans le Corps des Finalitaires de Havona. (31:1.5)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.135)
 
-Corps des finalitaires de Havona | | Natifs de Havona; Corps du Paradis de la Finalité | ORDER | OK
+Corps des Finalitaires de Havona | | Natifs de Havona; Corps du Paradis de la Finalité | ORDER | OK
 Le Corps des Finalitaires d'Havona est l'un des sept corps finalitaires (31:1.5) (31:10.6)
 il apparaît dans le registre de personnalité d'Uversa (30:2.136)
 
@@ -2624,8 +2624,8 @@ le Corps des Finalitaires du Paradis est l'un des sept corps finalitaires (31:10
 il apparaît dans le registre de personnalité d'Uversa (30:2.133)
 Depuis des siècles et des siècles, il y a eu au Paradis une mobilisation d'êtres associés au corps finalitaire (31:10.17)
 
-Corps de Perfection | | | ORDER | OK
-Le Corps de Perfection est un corps d'univers local. C'est la destinée des ascendeurs fusionnés avec l'Esprit (37:5.3-4)
+Corps de la Perfection | | | ORDER | OK
+Le Corps de la Perfection est un corps d'univers local. C'est la destinée des ascendeurs fusionnés avec l'Esprit (37:5.3-4)
 
 corps des citoyens permanents | (30:2.116-128) | | ORDER | OK
 toutes les divisions de l'organisation administrative des univers locaux et des superunivers ont leurs populations plus ou moins permanentes, habitants ayant le statut de citoyens. (37:9.12)
@@ -2730,7 +2730,7 @@ conseil des anciens; conseil des anciens; premier conseil des anciens | | | | OK
 Dans l'Antiquité, le premier véritable organisme gouvernemental était le conseil des anciens. Ce groupe régulateur était composé de vieillards qui s'étaient distingués par une certaine efficacité. (70:5.2-3)
 Les pouvoirs primitifs et diffus du conseil primitif des anciens furent progressivement concentrés dans la personne du monarque absolu. (70:12.2)
 
-Conseil d'équilibre | | | PERSON | OK
+Conseil d'Équilibre | | | PERSON | OK
 ce conseil est composé d'organisateurs associés de la Force principale envoyés par sept esprits principaux (29:4.2)
 un organisateur de force a été envoyé par ce conseil à Andronover il y a 900 000 millions d'années (29:4.2) (57:1.4)
 ils sont capables d'interpréter les enregistrements des maîtres frandalanks (29:4.2)
@@ -2738,7 +2738,7 @@ ils sont capables d'interpréter les enregistrements des maîtres frandalanks (2
 conseil de perfection | | | ORDER | OK
 Les Conciliateurs Universels sont transférés au conseil de perfection au Paradis, d'où ils émergent ensuite comme le corps de coordination évolué par l'Esprit Infini pour l'univers des univers (25:3.16)
 
-Conseil des Princes Planétaires; Conseil des dirigeants mondiaux | | | ORDER | OK
+Conseil des Princes Planétaires; conseil systémique des dirigeants de mondes | | | ORDER | OK
 Le Souverain du Système préside le conseil du système des dirigeants du monde, des Princes Planétaires et des gouverneurs généraux résidents des mondes isolés. Ce conseil planétaire se réunit de temps à autre au siège du système (45:2.4)
 
 conseil des sept | | | PERSON | OK
@@ -2849,7 +2849,7 @@ lâches
 coyotes | | | | D'accord
 Certaines tribus indiennes d'Amérique du Nord croyaient qu'elles descendaient des castors et des coyotes. (74:8.5)
 
-Nébuleuse du Crabe | | | PLACE | OK
+Nébuleuse du Crabe; nébuleuse du Crabe | | | PLACE | OK
 La nébuleuse du Crabe s'est effondrée il y a 900 ans (41:8.4)
 
 crabes | (59:1.18) (60:2.9) | crustacés | | OK
@@ -2905,7 +2905,7 @@ une variété presque infinie caractérise les plans des Fils Créateurs pour or
 Les Fils Créateurs s'approchent des créatures de leurs mondes habités et « attirent tous les hommes à eux » (1:4.2)
 Leur nombre actuel est supérieur à 700 000 et ne cesse de croître. Il n'y a pas de limite au nombre de ceux qui peuvent être (21:1.4) (33:4.2)
 Les Fils Créateurs de Dieu aspirent à dupliquer dans le temps et à reproduire dans l'espace l'univers modèle, Havona, dans son propre univers local (14:0.2) (14:6.27-31) (54:2.1)
-celui qui a vu un Fils Créateur a vu le Père (1:5.5-6) ​​(6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9) (182:1.9)
+celui qui a vu un Fils Créateur a vu le Père (1:5.5-6) (6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9) (182:1.9)
 la découverte-carrière expérientielle de la réalisation de Dieu commence par la reconnaissance de la divinité du Fils Créateur de l'univers local (0:8.9)
 ils apparaissent dans les registres de personnalité (30:1.31) (30:2.39)
 Qui sont-ils
@@ -3087,7 +3087,7 @@ fils réembrassés par la créature trinitisée
 		* Assistants du Fils Supérieur (22:1.8)
 
 créatures; Créatures | | mortels; personnalité | | OK
-À Edentia, il y a 70 divisions majeures de créatures célestes (43:1.9)
+À Édentia, il y a 70 divisions majeures de créatures célestes (43:1.9)
 Avant qu'un Fils Créateur puisse s'engager dans la création d'un nouveau type d'être, d'une nouvelle conception de créature, il doit obtenir le consentement du Fils Mère Éternel et Originel. (21:2.5)
 Le Père délègue tout ce qui est possible à ses créatures (10:1.2) | délégation
 Les créatures planétaires habitées par l'esprit de Dieu, dispersées ici et là dans les univers de l'espace, sont presque infinies en nombre et en ordre (3:2.8) (30:0.1)
@@ -3120,7 +3120,7 @@ Les Nodites encourageaient la crémation comme moyen de combattre le cannibalism
 Pendant plusieurs milliers d'années, la crémation des morts était presque universelle dans toute la Scandinavie. (80:9.4)
 La crémation est une invention ultérieure destinée à prévenir les ennuis causés par les fantômes. (87:6.8)
 
-Crétacé | | âges géologiques | | OK
+Crétacé; période crétacée; crétacées; ère, appelée crétacée | | âges géologiques | | OK
 Le Crétacé était l'ère des oiseaux et des plantes à fleurs, il y a 100 à 50 millions d'années (60:3-4)
 > https://en.wikipedia.org/wiki/Cretaceous
 
@@ -3204,12 +3204,12 @@ Les crocodiliens marins étaient également une réversion du type de reptile te
 croix | | doctrine de l'expiation; crucifixion; Jésus:mort; Jésus:événements de la vie | | OK
 la croix
 	Jésus portait la traverse sur ses épaules, et non la croix entière ; il était cloué à la traverse, hissé sur le bois vertical et clouait ses pieds au bois à l'aide d'un long clou (187:1.1-2) (187:2.1)
-	Simon de Cyrène porte la traverse à Jésus depuis les portes jusqu'au Golgotha ​​(187:1.9-10)
+	Simon de Cyrène porte la traverse à Jésus depuis les portes jusqu'au Golgotha (187:1.9-10)
 la signification de la croix
 	Le fait de la croix est devenu le centre même du christianisme ultérieur ; mais ce n'est pas la vérité centrale de la religion qui peut être déduite de la vie et des enseignements de Jésus de Nazareth. (143:6.3)
 	Bien que Jésus ne soit pas mort sur la croix pour expier la culpabilité raciale de l'homme mortel, ni pour fournir une sorte d'approche efficace à un Dieu autrement offensé et impitoyable, bien que ces idées d'expiation et de propitiation soient erronées, il n'en demeure pas moins qu'Urantia est devenue connue parmi les autres planètes habitées voisines comme le « Monde de la Croix ». Jésus a vécu et est mort pour tout un univers, pas seulement pour les races de ce monde. (188:4-5)
 	La croix de Jésus illustre la pleine mesure du dévouement suprême du vrai berger, même pour les membres indignes de son troupeau. La mort de Jésus sur la croix illustre un amour suffisamment fort et divin pour pardonner le péché et engloutir toute mauvaise action. (188:5.1-7)
-	Sur d'autres mondes, ainsi que sur Urantia, ce spectacle sublime de la mort de l'homme Jésus sur la croix du Golgotha ​​a suscité l'émotion des mortels, tandis qu'il a suscité la plus haute dévotion des anges. (188:5.8-12)
+	Sur d'autres mondes, ainsi que sur Urantia, ce spectacle sublime de la mort de l'homme Jésus sur la croix du Golgotha a suscité l'émotion des mortels, tandis qu'il a suscité la plus haute dévotion des anges. (188:5.8-12)
 	Nous savons que la mort sur la croix n'avait pas pour but de réconcilier l'homme avec Dieu, mais de stimuler l'homme à prendre conscience de l'amour éternel du Père et de la miséricorde infinie de son Fils, et de diffuser ces vérités universelles à l'univers entier. (188:5.13)
 	Le triomphe de la mort sur la croix se résume dans l'esprit de l'attitude de Jésus envers ceux qui l'attaquaient. Il a fait de la croix un symbole éternel du triomphe de l'amour sur la haine et de la victoire de la vérité sur le mal lorsqu'il a prié : « Père, pardonne-leur, car ils ne savent pas ce qu'ils font » (188:5.6).
 	La croix est le symbole de la forme la plus élevée de service désintéressé, de la dévotion suprême consistant à donner pleinement une vie juste au service d'un ministère sincère (188:5.9).
@@ -3232,7 +3232,7 @@ La crucifixion était utilisée pour infliger un châtiment cruel et prolongé, 
 Il était strictement interdit par la loi de manifester des sentiments amicaux envers quelqu'un qui était conduit à la crucifixion. (187:1.7)
 Une personne crucifiée ne pouvait pas être enterrée dans un cimetière juif (188:1.2)
 crucifié principal
-	* Jésus à Jérusalem, sur le Golgotha ​​(187)
+	* Jésus à Jérusalem, sur le Golgotha (187)
 	* André à Patras, en Achaïe (139 : 1.12)
 	* Pierre à Rome (139:2.15)
 	* Philippe à Hiérapolis (139 :5.11-12)
@@ -3346,7 +3346,7 @@ Ces supernaphins primaires qui possèdent intrinsèquement la connaissance de l'
 au Paradis, les chercheurs de connaissance sont confrontés à des êtres qui sont exactement ce qu'ils recherchent (27:5.2-3)
 Les Voix de la Sagesse en liaison perpétuelle avec les Gardiens de la Connaissance (28:5.7)
 
-Gardiens des archives | (25:5) | | ORDER | OK
+Conservateurs d'Archives | (25:5) | | ORDER | OK
 Les chefs enregistreurs des supernaphins tertiaires transmettent aux gardiens de la connaissance les transactions d'importation de la vraie connaissance (26:3.5)
 Les gardiens des archives sont choisis parmi les supernaphins tertiaires de Havona (25:5.1,3)
 conserver les archives officielles du Paradis, ces archives qui contrastent avec les registres vivants de l'enregistrement dans l'esprit des gardiens de la connaissance, parfois désignées comme la « bibliothèque vivante du Paradis » (25:5.1)
@@ -3378,7 +3378,7 @@ il y eut des troubles à Urmia après sa mort (134:6.14)
 
 cynisme (attitude) | | ridicule | | OK
 
-Cynisme (religion) ; doctrines des cyniques | | Cyniques | RELIGION | OK
+Cynisme (religion); cynisme; doctrine des cyniques | | Cyniques | RELIGION | OK
 Les cyniques prêchaient la simplicité et la vertu et exhortaient les hommes à affronter la mort sans crainte. (121:4.4)
 Les enseignements résiduels des disciples de Melchisédek, à l'exception de ceux qui persistèrent dans la religion juive, furent mieux préservés dans les doctrines des cyniques. (98:0.2) (131:1.1)
 ils se caractérisaient par le fait d'être des prédicateurs itinérants et ils faisaient remonter leur philosophie à Diogène d'Athènes (121:4.4,6)
@@ -3386,7 +3386,7 @@ La religion occidentale a ainsi langui jusqu'à l'époque des sceptiques, des cy
 Ganid a fait un résumé des enseignements de cette religion alors qu'il était à Alexandrie avec Jésus (131:1)
 > https://en.wikipedia.org/wiki/Cynicism_(philosophy)
 
-Cyniques | | Cynisme (religion) | RELIGION | OK
+Cyniques; cyniques | | Cynisme (religion) | RELIGION | OK
 Claude, un jeune homme découragé et découragé de Malte, devint prédicateur des cyniques (130:8.1)
 La dernière résistance du groupe décroissant des croyants de Salem fut celle des prédicateurs cyniques, qui exhortèrent les Romains à abandonner leurs rituels religieux sauvages et insensés et à revenir à une forme de culte incarnant l'évangile de Melchisédek (98:3.9).
 Jésus fut un jour pris pour un prêtre des cyniques (133:2.1)
