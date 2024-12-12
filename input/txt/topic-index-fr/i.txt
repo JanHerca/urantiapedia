@@ -293,7 +293,7 @@ futile (150:3.11)
 magie pratiquée avec (88:6.1)
 combinaisons de mots considérées comme hautement magiques (88:6.3)
 
-incarnation | | Fils Créateurs : dons de créatures ; Jésus : personnalité et nature ; Fils Magistraux : missions planétaires ; Michel de Nébadon : dons ; Fils Paradisiaques de Dieu : dons | |
+incarnation | | Fils Créateurs:dons de créatures ; Jésus:personnalité et nature ; Fils Magistraux:missions planétaires ; Michel de Nébadon:dons ; Fils Paradisiaques de Dieu:dons | |
 L'Esprit infini ne s'incarne pas ; il descend plutôt sous la forme d'anges (8:4.5-6)
 
 Incas | | | RACE |
@@ -764,7 +764,7 @@ Le conseil de Jésus à l'homme riche (132:5.3,15,23)
 obligation de transmettre la richesse légitime aux générations suivantes (69:9.3) (132:5.15)
 les primitifs considéraient l'hérédité comme une lignée féminine (84:2.1)
 Le fils prodigue a gaspillé son héritage en menant une vie dissolue (169:1.7)
-impôts | fiscalité : impôt sur les successions
+impôts | fiscalité:impôt sur les successions
 
 l'inique | | Lucifer | |
 
@@ -1032,7 +1032,7 @@ Les Sumériens utilisaient l'opium comme médicament (90:4.9)
 
 introspection | | auto-analyse | |
 
-intuition | | esprits adjuvats : 1 – Intuition ; directions ; perspicacité spirituelle | |
+intuition | | esprits adjuvats:1 – Intuition ; directions ; perspicacité spirituelle | |
 
 invention | | | |
 accélère le développement culturel (81:6.9)

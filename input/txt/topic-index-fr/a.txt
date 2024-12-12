@@ -1073,7 +1073,7 @@ Sur les murs d'un temple de Louxor, la naissance d'Amenhotep est représentée a
 
 Amérindiens | | race rouge | RACE | OK
 
-Bouddha Amida | | Bouddhisme : types | | OK
+Bouddha Amida | | Bouddhisme:types | | OK
 
 Amidiste; Amidistes | | Amida Bouddha | | OK
 croyant en Amida Bouddha (94:12.3)
@@ -1563,7 +1563,7 @@ Relation avec l'homme
 	L'homme primitif a diagnostiqué une maladie en examinant les entrailles d'un animal (90:4.3)
 	Le culte des animaux était très répandu, ainsi que celui des créatures mi-humaines, mi-animales, comme les centaures et les sirènes, ou des animaux fictifs, comme le dragon en Chine ; le culte des insectes et d'autres animaux fut favorisé par une incompréhension ultérieure de la règle d'or : faire de chaque forme de vie ce que l'on voudrait qu'on fasse. (64:4.12) (85:3)
 Relation avec Jésus
-	les animaux ont toujours été utilisés pour les rituels sacrificiels | sacrifice : sacrifice animal
+	les animaux ont toujours été utilisés pour les rituels sacrificiels | sacrifice:sacrifice animal
 	Jésus demanda à Joseph, son père, pourquoi notre Père céleste exigeait le massacre de tant d'animaux innocents et sans défense lors de sacrifices rituels. (124:6.14)
 	Dans la maison de Jésus, il y avait 3 vaches, 4 moutons, des poulets, un âne, des colombes et un chien (126:5.11)
 Animaux mentionnés

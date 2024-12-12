@@ -313,7 +313,7 @@ aspects physiques (41)
 	physiquement assemblé à partir d'Andronover et d'autres nébuleuses (41:0,3) (57:1,1) (57:3,8-9)
 	Salvington est au centre de masse énergétique de (32:2.4)
 	les sphères partagent un point commun minimal de mouvement spatial (41:0,3)
-	heure | heure : jours et années
+	heure | heure:jours et années
 	travaux commencés sur Nébadon il y a 400 milliards d'années (57:3.8-9)
 Salvington est la capitale de (15:7.7)
 quelques puissants messagers et ceux qui ont une haute autorité récemment (22:2.4) (22:3.2)
@@ -446,11 +446,11 @@ a changé l'histoire pendant 2000 ans (121:8.11)
 évangiles, livres et épîtres nommés
 	Livre des Actes | Actes, Livre des
 	Livre des Révélations | Révélations, Livre des
-	Épître de Jacques | Jacques (frère de Jésus) : Épître de
+	Épître de Jacques | Jacques (frère de Jésus):Épître de
 	Épître aux Hébreux | Hébreux, Livre des
-	Première épître de Jean | Jean Zébédée : Première épître
-	Première épître de Pierre | Simon Pierre : Première épître
-	Évangile de Jean | Jean Zébédée : Évangile de Jean
+	Première épître de Jean | Jean Zébédée:Première épître
+	Première épître de Pierre | Simon Pierre:Première épître
+	Évangile de Jean | Jean Zébédée:Évangile de Jean
 	Évangile selon Luc | Luc:Évangile selon Luc
 	Évangile selon Marc | Jean Marc:Évangile selon Marc
 	Évangile de Matthieu | Matthieu Lévi:Évangile de Matthieu
@@ -587,7 +587,7 @@ fantômes censés être effrayés par (87:6.11)
 nomadisme | | | |
 déclin progressif de (68:5.12)
 
-non-respirateurs | | mortels : types planétaires | |
+non-respirateurs | | mortels:types planétaires | |
 
 non-conformistes | | | |
 la civilisation inflige de lourdes sanctions aux dissidents et (81:5.3)
@@ -615,7 +615,7 @@ de la réaction égoïste à l'univers (180:5.9)
 ne résistez pas aux atteintes à la dignité personnelle (141:3.8)
 la race violette a conservé les traditions édéniques de paix pendant de nombreux millénaires (78:3.1) (78:4.5)
 
-non-survivants | | mort : mort spirituelle ; extinction ; jugement ; résurrection ; appel : de la justice ; salut ; survie | |
+non-survivants | | mort:mort spirituelle ; extinction ; jugement ; résurrection ; appel:de la justice ; salut ; survie | |
 Les Ajusteurs préservent les réalités nées de l'amour et du service (16:9.3) (47:3.4) (196:3.35)
 se déplacent à contre-courant du courant des événements de l'univers (117:4.11)
 devenir comme s'ils n'avaient jamais existé (47:2.7)

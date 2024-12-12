@@ -121,7 +121,7 @@ Matthieu Lévi était un (138:3.1,4) (181:2.14)
 Pierre a payé (157:1)
 Zachée était un (171:6.1)
 
-fiscalité | | gouvernement : principes de gouvernement ; collecteurs d'impôts ; contribuables | |
+fiscalité | | gouvernement:principes de gouvernement ; collecteurs d'impôts ; contribuables | |
 éviter l'asservissement des citoyens par l'État (70:12.15)
 les citoyens doivent contrôler (71:8.6)
 la fiscalité excessive porte atteinte aux libertés individuelles (134:6.10)
@@ -169,7 +169,7 @@ séraphins suprêmes; secrétaires de tous les enseignants, même des mortels (3
 
 travail d'équipe | | coopération | |
 
-larmes | | Jésus : événements de la vie | |
+larmes | | Jésus:événements de la vie | |
 Le tenancier du bordel a oint les pieds de Jésus avec (147:5.3)
 Dieu effacera (27:1.5)
 
@@ -852,7 +852,7 @@ Les Thraces croyaient à l'immortalité (92:6.1)
 
 trois | | 3 | |
 
-mortels à trois cerveaux | (49:5.13-18) | cerveaux; mortels : types planétaires | |
+mortels à trois cerveaux | (49:5.13-18) | cerveaux; mortels :types planétaires | |
 
 trois cercles concentriques | | cercles concentriques, trois | |
 
@@ -1061,7 +1061,7 @@ faire preuve de tolérance en vivant avec des personnes têtues (156:5.18)
 tam-tams | | | |
 autrefois universel (90:4.6)
 
-tombeaux | | Jésus : événements de la vie | |
+tombeaux | | Jésus:événements de la vie | |
 coutume d'enterrer les biens de l'homme avec lui (69:9.4)
 se délecte à construire des tombeaux pour les prophètes (166:1.5)
 d'Hiram (156:4.1)
@@ -1103,7 +1103,7 @@ symboles du groupe et de leur dieu (88:3.2)
 
 tour de Babel | | Babel | PLACE |
 
-traditions | | cérémonies ; cultes ; judaïsme : loi orale ; mœurs | |
+traditions | | cérémonies ; cultes ; judaïsme:loi orale ; mœurs | |
 force irrésistible de (51:6.5)
 la coutume établit des institutions de survie (69:1.3)
 Jésus a ignoré les traditions superstitieuses (149:2.10)
@@ -1161,7 +1161,7 @@ soumis à Dieu l'Ultime (31:8.3)
 
 transcription, céleste | | enregistrements | |
 
-transfiguration | | Jésus : événements de la vie | |
+transfiguration | | Jésus:événements de la vie | |
 
 transformation | | croissance spirituelle; renaissance spirituelle | |
 par l'Esprit de Vérité (143:2.4)
@@ -1170,7 +1170,7 @@ le service est un sous-produit de la transformation spirituelle (178:1.11)
 
 transformateurs | | transformateurs d'énergie | ORDER |
 
-sommeil de transit | | repos : repos de transition ; transport séraphique, sécoraphique et supraphique | |
+sommeil de transit | | repos:repos de transition ; transport séraphique, sécoraphique et supraphique | |
 
 trio de transit | | | |
 assister les pèlerins de Havona (26:9.2)
@@ -1324,7 +1324,7 @@ tribus | (70:4) | clans; races | RACE |
 souvent subverti la souveraineté de l'État territorial (134:5.8)
 les chefs de guerre ont établi la lignée paternelle (70:4.10)
 à l'origine une confédération lâche de clans (70:4.9)
-tribus et groupes raciaux nommés | aborigènes (australiens) ; aborigènes (indiens) ; Adamites ; Adamsonites ; Amadonites ; Ammonites ; Amorites ; Andites ; Andonites ; Anglo-Saxons ; Arabes ; Aryens ; Assyrie ; Babyloniens ; tribus Badonan ; tribus Baganda ; Basques ; Bédouins ; Berbères ; Indiens Pieds-Noirs ; race bleue ; Bornéens ; Bretons ; race brune ; Bushmen ; Calebites ; Cananéens ; Caucasiens ; Chaldéens ; Cro-Magnons ; Cuthites ; Cutites ; Danubiens ; Dravidiens ; Dyaks ; Édénites ; Édomites ; Élamites ; Esquimaux ; Ezréon ; Finlandais ; Peuples Foxhall ; Gad ; Gabaonites ; Galaadites ; Grecs ; race verte ; Guites ; Hamathites ; race de Heidelberg ; Hittites ; Incas ; Inde : groupes raciaux ; race indigo ; Iroquois ; Jébuséens ; Juifs Kateri; Kéniens; Lévites; Malaisie; Mélanésiens; Mésopotamie; Madianites; Moabites; Mongoloïdes; tribu Moqui; Néandertaliens; Négroïdes; Nérites; Nodites; race orange; Parsis; Patagoniens; Perses; Philistins; Phéniciens; Polynésie; Pygmées; race rouge; Romains; Ruben; Sahariens; Samaritains; Sangiks; Scandinaves; Sémites; Sépharvites; Séthites; Sibérie; Suites; Sumériens; Suntites; Thrace; tribu Toda; Touraniens; Vanites; race blanche; race jaune; Zoulous
+tribus et groupes raciaux nommés | aborigènes (australiens) ; aborigènes (indiens) ; Adamites ; Adamsonites ; Amadonites ; Ammonites ; Amorites ; Andites ; Andonites ; Anglo-Saxons ; Arabes ; Aryens ; Assyrie ; Babyloniens ; tribus Badonan ; tribus Baganda ; Basques ; Bédouins ; Berbères ; Indiens Pieds-Noirs ; race bleue ; Bornéens ; Bretons ; race brune ; Bushmen ; Calebites ; Cananéens ; Caucasiens ; Chaldéens ; Cro-Magnons ; Cuthites ; Cutites ; Danubiens ; Dravidiens ; Dyaks ; Édénites ; Édomites ; Élamites ; Esquimaux ; Ezréon ; Finlandais ; Peuples Foxhall ; Gad ; Gabaonites ; Galaadites ; Grecs ; race verte ; Guites ; Hamathites ; race de Heidelberg ; Hittites ; Incas ; Inde:groupes raciaux ; race indigo ; Iroquois ; Jébuséens ; Juifs Kateri; Kéniens; Lévites; Malaisie; Mélanésiens; Mésopotamie; Madianites; Moabites; Mongoloïdes; tribu Moqui; Néandertaliens; Négroïdes; Nérites; Nodites; race orange; Parsis; Patagoniens; Perses; Philistins; Phéniciens; Polynésie; Pygmées; race rouge; Romains; Ruben; Sahariens; Samaritains; Sangiks; Scandinaves; Sémites; Sépharvites; Séthites; Sibérie; Suites; Sumériens; Suntites; Thrace; tribu Toda; Touraniens; Vanites; race blanche; race jaune; Zoulous
 
 tribut en argent | | | |
 rendre à César (174:2.2)
@@ -1593,10 +1593,10 @@ la croissance de la Suprématie dérive de (115:4.7) (115:6)
 l'infini est transmissivement associé dans (115:2.1)
 relations trinitaires non-Pères (104:5)
 Suprême est le canal par lequel s'écoule l'infinité créatrice des triodités (115:6) (117:3.2)
-triodités d'actualité | Absolus : d'actualité
+triodités d'actualité | Absolus:d'actualité
 	composé du Fils Éternel, de l'Esprit Infini et du Paradis (104:5.2) (115:3.14)
 	existences du centre du cosmos dans (115:3.14)
-triodités de potentialité | Absolus : les trois
+triodités de potentialité | Absolus:les trois
 	composé de l'Absolu de Déité, de l'Absolu Universel, de l'Absolu Non Qualifié (0:11.4-14) (104:5.7) (115:3.8)
 	intègre toute la réalité énergétique latente (104:5.11)
 
@@ -1881,7 +1881,7 @@ deux et deux | | | |
 70 évangélistes envoyés (160:2.7) (163:1.3) (181:2.12)
 apôtres envoyés (138:1.1) (193:3.2)
 
-mortels à deux cerveaux | (49:5.13-18) | cerveaux; mortels : types planétaires | |
+mortels à deux cerveaux | (49:5.13-18) | cerveaux; mortels:types planétaires | |
 
 deux fils | | | |
 parabole de (173:3)

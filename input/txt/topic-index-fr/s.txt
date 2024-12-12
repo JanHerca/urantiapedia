@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Sabbat | | | |
+sabbat | | | |
 Le choix par coïncidence d'Adam du septième jour pour le culte (74:3.9) (74:4.6) (74:8.1)
 les apôtres frottaient le grain sur (147:6.4)
 commandement de se reposer le 7ème jour (142:3.15,21) (147:6.4)
@@ -173,7 +173,7 @@ la propitiation était une forme positive de (89:4.7)
 cherche à substituer des offrandes matérielles aux testaments consacrés (91:2.4)
 valeur mesurée par la douleur subie (89:4.1)
 
-Sadducéens | | Judaïsme; Sanhédrin | RELIGION |
+sadducéens | | Judaïsme; Sanhédrin | RELIGION |
 n'a reconnu que 5 livres de Moïse (174:3.4)
 Anne était le sadducéen le plus influent (129:1.5)
 Anne voulait que le procès du Maître soit confié aux Sadducéens (184:1.1)
@@ -223,7 +223,7 @@ origine évolutive de la sainteté (85:6.3)
 pratiqué la continence (89:3.6)
 menace spirituelle dans la galaxie de (195:4.2)
 
-Bouddha Sakyamuni | | | PERSON |
+Sakyamouni Bouddha | | | PERSON |
 retour supposé de (94:11.3)
 
 salamandres | | | |
@@ -239,7 +239,7 @@ Salem | | | PLACE |
 appelée Jérusalem après la disparition de Melchisédek (93:2.4)
 plus de 100 000 payeurs de dîme sur les listes de (93:6.8)
 
-Enseignements de Salem | (93:4) | Melchisédek, Machiventa; missionnaires:Missionnaires de Salem | RELIGION |
+enseignements de Salem; crédo de la colonie de Salem; commandements de la religion de Salem; doctrine de Salem; religion de Salem; évangile de Salem; vérités de Salem | (93:4) | Melchisédek, Machiventa; missionnaires:Missionnaires de Salem | RELIGION |
 parmi les Hébreux (96) (97)
 basé exclusivement sur le pouvoir créateur (96:0.1)
 facteur fondamental dans toutes les religions des 4000 dernières années (98:7.4)
@@ -410,7 +410,7 @@ transformé en quartz (59:1.16)
 
 tempêtes de sable | | tempêtes | |
 
-Famille Sangik | | Sangiks | RACE |
+famille Sangik | | Sangiks | RACE |
 19 enfants intelligents dont la peau a changé de couleur (64:5.2-3)
 ancêtre de toutes les 6 races colorées (64:5.2-3) (65:4.7)
 Parents andoniques d'enfants mutants ; vivaient il y a 500 000 ans lors de l'avancée du 5e glacier (61:7.4) (66:0.1-2)
@@ -436,7 +436,7 @@ Sangiks secondaires
 	appelé négroïde (81:4.813-14)
 	le substrat représente la parenté de nombreux peuples modernes (80:2.3)
 
-Sanhédrin | | Anne; Caïphe; temple de Jérusalem; Judaïsme; Pharisiens; Sadducéens; scribes | |
+sanhédrin | | Anne; Caïphe; temple de Jérusalem; Judaïsme; Pharisiens; Sadducéens; scribes | |
 23 membres constituaient le tribunal de première instance (184:0,2)
 a demandé à Jean-Baptiste s'il était Élie (135:6.6) (135:9.4)
 attitude envers Jésus
@@ -621,10 +621,10 @@ réadmission dans la famille constellation (45:3.22) (46:8.1)
 le jour standard est de 3 jours Urantia ; l'année est de 100 jours (33:6.9)
 Urantia est la planète 606 de (15:14.5,8) (32:3.10) (43:0.1) (49:0.3) (58:1.1) (93:10.1)
 
-Centre de pouvoir de Satania | | centres de systèmes locaux | PERSON |
+Centre de Pouvoir de Satania | | centres de systèmes locaux | PERSON |
 Centre de pouvoir suprême du 6ème ordre basé à Satania (45:0.3)
 
-Satisfactions du service; La satisfaction du service | | seconaphin | ORDER |
+Satisfaction du Service; La Satisfaction du Service | | seconaphin | ORDER |
 éclairer les récompenses différées inhérentes au service désintéressé (28:5.17)
 refléter les directeurs supraphiques de conduite au Paradis (28:5.17)
 seconaphins secondaires, associés réfléchis des Conseillers Divins (28:5.17-18)
@@ -772,7 +772,7 @@ concombres de mer | (65:2.5) | | |
 lions de mer | | | |
 mammifère placentaire qui est retourné à la mer (61:2.11)
 
-Mer de Galilée | | | PLACE |
+mer de Galilée | | | PLACE |
 700 pieds sous le niveau de la mer (151:5.2)
 les apôtres ont peur pendant la tempête (151:5)
 les coups de vent vont et viennent rapidement (151:5.2)
@@ -866,7 +866,7 @@ guider les ascendeurs dans la perplexité, l'incertitude et les urgences (28:7.2
 		# Les secrets de la grandeur
 		# Âmes de bonté
 
-seconde venue | | Jésus : seconde venue | |
+seconde venue | | Jésus:seconde venue | |
 les groupes attendent toujours le retour des dirigeants (92:5.6)
 
 deuxième Trinité expérientielle | | Trinité Absolue | PERSON |
@@ -892,7 +892,7 @@ Deuxième Personne de la Déité | | Fils Éternel | PERSON |
 
 Seconde Source et Centre | | Fils Éternel | PERSON |
 
-Superviseurs des circuits secondaires | | | ORDER |
+Superviseurs secondaires des circuits; superviseurs secondaires des circuits | | | ORDER |
 numéro 84 691 sur Uversa ; nombres en augmentation (24:1,9)
 ordre des superviseurs du circuit de l'univers ; servir au siège du superunivers (24:1.5,9)
 
@@ -929,7 +929,7 @@ types sociopolitiques et religio-mystiques (70:7.1)
 
 secrets | | mystères; secret | |
 
-Les secrets de la grandeur; Le secret de la grandeur; le secret de la grandeur | | seconaphin | ORDER |
+Secret de Grandeur; Le Secret de Grandeur | | seconaphin | ORDER |
 attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne portent ni nom ni nombre (28:6.1)
 seconaphin tertiaire; associé aux Âmes de Bonté (28:6.20-22)
 
@@ -954,7 +954,7 @@ la religion de Jésus vaincra (195:9.2-3)
 la laïcité irréfléchie de l'homme de la rue (195:6.7)
 enseignements humanistes erronés (99:5.1)
 
-Voir Fuch | | | PLACE |
+Si Fouch | | | PLACE |
 Siège social de Salem pour la Chine (94:5.1)
 
 graines | | | |
@@ -990,7 +990,7 @@ réagit avec une élasticité de réponse conformément à des lois inconnues ma
 la réponse est universelle, inévitable ; inhérente aux Absolus (56:1.3)
 sous le contrôle personnel du Père Universel (42:0) (56:1.3)
 
-Segub | | | PERSON |
+Ségub | | | PERSON |
 sacrifié pour la construction des murs de Jéricho (89:6.6)
 
 trieurs sélectifs | (48:2.21-24) | Superviseurs du pouvoir morontiel | |
@@ -1027,7 +1027,7 @@ le travail est important, l'égo ne l'est pas (48:6.37)
 auto-humiliation | | | |
 la coopération avec l'Ajusteur n'implique pas un auto-humiliation ostentatoire (110:3.4)
 
-Ajusteurs auto-agissants | | Ajusteurs de pensée : types d'Ajusteurs | ORDER |
+Ajusteurs auto-agissants | | Ajusteurs de pensée:types d'Ajusteurs | ORDER |
 
 admiration de soi | | importance personnelle | |
 
@@ -1320,9 +1320,9 @@ Tibériade succéda à Sepphoris comme capitale de la Galilée (129:1.1-2) (135:
 
 sépulcres | | tombeaux | |
 
-séquentialité | | temps : nature du temps | |
+séquentialité | | temps:nature du temps | |
 
-Sérapatatie | (75 : 3-5) | | PERSON |
+Sérapatatia | (75:3-5) | | PERSON |
 chef de teint brun de la confédération syrienne nodite (75:3.1)
 Caïn a accompli les prédictions de (76:2.9)
 s'est noyé de peur, de remords (75:5.4,7)
@@ -1586,7 +1586,7 @@ formation (38:5)
 séraphins du futur | | séraphins | ORDER |
 séraphins auxiliaires planétaires ; ministre des mortels de l'ordre modifié d'ascension (39:7)
 
-Seraphington | (13:1.19-20) (39:8) | sphères sacrées du Paradis | PLACE |
+Séraphington | (13:1.19-20) (39:8) | sphères sacrées du Paradis | PLACE |
 sein du Fils et de l'Esprit ; demeure des êtres non révélés créés par le Fils Éternel et l'Esprit Infini (13:1.19)
 sphère de destinée pour les anges (13:1.19) (39:8) (40:1)
 les gardiens du destin atteignent Seraphington tandis que leurs sujets traversent Havona (26:4.11) (113:7.5)
@@ -1701,7 +1701,7 @@ Concept de la Trinité (79:3.4) (104:1.2)
 
 sept | | 7 | |
 
-Sept Absolus de l'Infini | | Absolus : les sept | PERSON |
+Sept Absolus de l'Infini | | Absolus:les sept | PERSON |
 
 Sept superviseurs centraux | | Maîtres esprits, sept | PERSON |
 
@@ -1731,7 +1731,7 @@ travail confiné à Havona (17:5.2)
 
 sept superunivers | | superunivers | PLACE |
 
-Sept dirigeants suprêmes | (17:1) | Dirigeant suprême n° 7 (d'Orvonton) | PERSON |
+Sept Maitres Esprits; Sept Agents Exécutifs Suprêmes | (17:1) | Dirigeant suprême n° 7 (d'Orvonton) | PERSON |
 7 architectes du superunivers du Maître Univers associés à (31:9.5)
 coordonnateurs administratifs du grand univers (17:1.3)
 cabinets consultatifs (17:1.8)
@@ -1865,7 +1865,7 @@ les tendances de personnalité respectives survivent à cette vie (84:6.6)
 points de vue et réactions de vie entière essentiellement différents (82:1.1) (84:5.13) (84:6.3,6)
 les femmes aiment les bébés plus que les hommes (69:3.2)
 
-Shabattum | | Chabbat | |
+sabbatum | | Chabbat | |
 Les Juifs ont conservé les tabous mésopotamiens concernant (95:1.2)
 
 ombres | | | |
@@ -1885,7 +1885,7 @@ déposition (59:1.12) (59:5.10) (60:1.1) (60:3.9)
 indique la présence de carbone organique (58:7.10)
 calcaire transformé en (59:3.1)
 
-Salmanazar III | | | PERSON |
+Salmanasar III | | | PERSON |
 Roi assyrien ; décide de contrôler la côte méditerranéenne (97:9.18)
 
 chamans | (90) | | |
@@ -1933,7 +1933,7 @@ requins | (59:4.11) (59:5.8) | | |
 
 Shawnee Tenskwatawa | | Tenskwatawa | PERSON |
 
-Sichem | (134:7.5) (186:3.2-3) | | PLACE |
+Shéchem | (134:7.5) (186:3.2-3) | | PLACE |
 Jésus est décédé
 
 mouton | | berger | |
@@ -1964,17 +1964,17 @@ symbole réputé de la Présence Divine (136:1.4)
 coquille | | | |
 sans valeur après l'éclosion du poussin (48:6.32)
 
-Chéma | | | |
+Shéma | | | |
 Credo de la foi juive (150:8.4)
 
-Shemer | | | PERSON |
+Shémer | | | PERSON |
 Le roi Omri a tenté d'acheter le domaine de (97:9.18)
 
-Shensi | | | |
+Shansi | | | |
 civilisation chinoise avancée en (79:7.5)
 problèmes hydrauliques des agriculteurs en (79:8.6)
 
-Shéol | | | |
+shéol  | | | |
 Lieu hébreu pour les morts (86:4.8)
 
 berger | | mouton | |
@@ -1995,7 +1995,7 @@ Le temple de Yahweh à Silo est discrédité (97:9.17)
 Shinran | | | PERSON |
 a enseigné le concept de Dieu dans le Bouddha Amida; la foi (94:12.2-3)
 
-Shintoïsme | | | RELIGION |
+Shintoïsme; shinto | | | RELIGION |
 Bouddhisme affecté (94:9.3)
 Résumé de Ganid de (131:7)
 proto-taoïsme, vénéré au Japon (92:6.9,15) (94:5.6)
@@ -2031,7 +2031,7 @@ sanctuaires | | temples | |
 
 arbuste d'Édentia | | arbre de vie | |
 
-Chounem | (124:6.3) (150:5.1) | | PLACE |
+Shunem | (124:6.3) (150:5.1) | | PLACE |
 Jésus a prêché
 
 rejet | | | |
@@ -2050,7 +2050,7 @@ la race jaune a poussé les Andonites dans (79:6.1)
 Sibmah | (165:0.1) | | PLACE |
 Mission Pérée
 
-Pont terrestre sicilien | | | PLACE |
+pont terrestre de Sicile | | | PLACE |
 reliait l'Europe à l'Afrique ; les Andonites ont migré à travers (64:1.5)
 à l'époque du 4ème glacier (64:4.7)
 Méditerranée protégée aux premiers jours de la race violette (80:1.1)
@@ -2062,7 +2062,7 @@ Sicile | | | PLACE |
 la vie marine a évolué dans la baie de (59:6.9)
 Thomas a prêché en (139:8.13)
 
-malade | | maladie; guérison; santé; blessure; Jésus : miracles et guérisons; médecine | |
+malade | | maladie; guérison; santé; blessure; Jésus:miracles et guérisons; médecine | |
 apôtres, le corps des femmes visitait chaque maison pour exercer son ministère (141:8.1) (142:8.1) (146:3.9) (151:0.2) (163:7.3)
 évité et négligé pendant de longues périodes (90:4.3)
 faire tout ce qui est en son pouvoir pour soulager ou guérir (163:4.15)
@@ -2087,7 +2087,7 @@ tamisage | | | |
 d'Israël comme le blé, dit Amos (97:4.3)
 du royaume ne devrait pas être affligé (153:5.3)
 
-Signification des origines | | séconaphin | ORDER |
+Significations d'Origine | | séconaphin | ORDER |
 attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne portent ni nom ni nombre (28:6.1)
 enseigner aux ascendants l'éthique spirituelle (28:6.8)
 seconaphins tertiaires; généalogies vivantes de référence (28:6.2-4)
@@ -2100,7 +2100,7 @@ les hommes-médecine placent une grande confiance en (90:2.5)
 aucun ne sera donné (153:4.5) (157:2.1)
 Le pharisien a demandé à Jésus de donner un signe prédéterminé (153:4.5)
 
-Sikhisme | | | RELIGION |
+sikhisme | | | RELIGION |
 religion avancée synthétisée par Guru Nanak à partir de l'islam, du bouddhisme et de l'hindouisme (92:5.15) (92:7.2)
 religion la plus récente (92:6.13)
 
@@ -2121,7 +2121,7 @@ lieu semi-sacré (164:3.14)
 Siloé (tour) | | | PLACE |
 est tombé sur 18 hommes (166:4.4)
 
-Silurien | | âges géologiques | |
+Silurienne; siluriennes | | âges géologiques | |
 ère de la vie marine de 300 à 275 millions d'années (59:3)
 
 Siméon (réputé saint homme) | | | PERSON |
@@ -2264,7 +2264,7 @@ Jésus a visité (147:5)
 Simon le tanneur; Simon | | | PERSON |
 Employeur de Gadiah à Joppé ; il a embrassé le christianisme (130:1.1,3)
 
-Simon Zélote | (139:11) (143:3.5) (144:1.7) | apôtres de Jésus | PERSON |
+Simon Zélotès | (139:11) (143:3.5) (144:1.7) | apôtres de Jésus | PERSON |
 lors de la guérison de 10 lépreux (166:2.3-6)
 aux apparitions de Jésus (191:2,5) (192:1-4) (193:0,3,5)
 a tenté de guérir le fils de Jacques de Safed (158:4.6)
@@ -2360,7 +2360,7 @@ tourments don de Dieu qui habite en nous (3:1.5)
 le salaire du péché c'est la mort (46:8.4) (53:9.8)
 la voie du transgresseur est dure (53:9.8) (75:6.4)
 exemples (153:3.5)
-pardon des péchés | pardon : pardon divin
+pardon des péchés | pardon:pardon divin
 glamour, fascination et ivresse de l'engagement (186:1.6)
 n'a jamais eu lieu à Havona (14:2.9)
 si le faux berger était aveugle, il n'aurait pas (165:2.3)
@@ -2373,7 +2373,7 @@ prouve l'existence du libre arbitre (54:4.3)
 L'Esprit de Vérité éclaire la différence entre le péché et la justice (180:6.2)
 Qui convainc Jésus de s.? (162:7.4)
 
-Péché (dieu) | | | |
+Sin (dieu) | | | |
 l'une des principales divinités mésopotamiennes (95:1.4)
 
 sincérité | | motifs | |
@@ -2406,9 +2406,9 @@ ordres
 	*# séraphins évolutionnaires | séraphins
 	*# chérubins évolutionnaires | chérubins et sanobins
 	*# ascendants non révélés (30:1.54)
-	* Famille C. de l'Esprit Infini | Esprit Infini : famille de
+	* Famille C. de l'Esprit Infini | Esprit Infini:famille de
 
-Sinkiang | | | PLACE |
+Sin-Kiang | | | PLACE |
 Culture andite dominante en 15 000 av. J.-C. (78:5.2,6) (78:6.4)
 l'aridité a forcé les Andites à inventer de nouvelles méthodes (81:6.3)
 Turkestan oriental; rivière Tarim (79:1.1-2)
@@ -2425,14 +2425,14 @@ pas de paix pour les méchants (131:2.10)
 le temps d'accepter le salut est accordé à chaque pécheur (54:5.2-3)
 les méchants ne devraient pas être autorisés à profiter des « règles d'or » (71:4.16)
 
-Sisera | | | PERSON |
+Sisara | | | PERSON |
 vaincu par Déborah et Barak à Taanach (126:1.2)
 
 Siva | | Hindouisme | PERSON |
 Seigneur hindou de la vie, de la mort, de la fertilité et de la destruction (94:4.5)
 membre du concept trinitaire hindou (104:1.5)
 
-Collines de Siwalik | | | PLACE |
+monts Siwalik | | | PLACE |
 contiennent les fossiles les plus proches de l'homme de transition (64:3.4)
 
 structures squelettiques | | crânes | |
@@ -2443,7 +2443,7 @@ scepticisme (philosophie) | | | |
 affirme que la connaissance est fallacieuse, la conviction impossible (121:4.5)
 la philosophie s'appuie sur la métaphysique (103:6.14)
 
-Scepticisme (religion); Sceptiques | | | RELIGION |
+Scepticisme (religion); sceptiques | | | RELIGION |
 La religion occidentale a langui jusqu'aux jours de (98:6.2)
 
 ciel | | atmosphère | |
@@ -2620,7 +2620,7 @@ supergaz solaires | | soleils | |
 
 systèmes solaires | | Monmatia; planètes; soleil (Urantia); soleils | PLACE |
 
-Solennités de confiance; La Solennité de confiance | | seconaphin | ORDER |
+Solennité de la Confiance | | seconaphin | ORDER |
 refléter la fiabilité exacte des individus (28:6.13-15)
 seconaphins tertiaires assignés aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui n'ont ni nom ni nombre (28:6.1,13-15)
 
@@ -2694,7 +2694,7 @@ Salomon | | | PERSON |
 pas dans la lignée de Joseph, le père de Jésus (122:1.1)
 fils du roi David et de Bath-Shéba ; continua la tyrannie et la taxation de son père ; construisit un temple, une marine ; harem comptait 1000 personnes (97:9.15-16)
 
-Portique de Salomon | | Temple de Jérusalem | PLACE |
+porche de Salomon | | Temple de Jérusalem | PLACE |
 Jésus a enseigné dans (162:1.9) (162:7.1) (164:5)
 
 Solonia | | | PERSON |
@@ -2711,10 +2711,10 @@ Les Cro-Magnoïdes ont résisté aux envahisseurs blancs (80:5.4-5)
 preuve de la présence des Andonites (63:5.3)
 écoulements dans le chenal préglaciaire (63:5.3) (80:3.1)
 
-Chercheurs de fils | | supernaphin | ORDER |
+découvreurs de Fils | | supernaphin | ORDER |
 supernaphin secondaire du 4ème circuit de Havona (26:8)
 
-Mortels fusionnés avec les fils | (40:8) | fusion; mortels | ORDER |
+Mortels fusionnés avec le Fils; mortels fusionnés avec le Fils; fusionnés avec le Fils | (40:8) | fusion; mortels | ORDER |
 Les Ajusteurs servent durant la vie dans la chair jusqu'au capital de l'univers local ; ils construisent des âmes (40:8.2) (40:9.2)
 Les Anciens des Jours approuvent la fusion du Fils (40:8.3)
 comme des fils ascendants (40:8)
@@ -2735,10 +2735,10 @@ fils du commandement | | | |
 citoyen du Commonwealth d'Israël (123:5.2) (125:2.6)
 après avoir obtenu son diplôme, Jésus est devenu (124:5.4) (125:4.3)
 
-Fils de Dieu | | Jésus : nature de Jésus | ORDER |
+Fils de Dieu | | Jésus:nature de Jésus | ORDER |
 Concept juif du Prince céleste gouvernant la terre renouvelée (135:5.7) (136:1.1)
 
-Fils de l'homme | | | PERSON |
+Fils de l'Homme | | | PERSON |
 Aménémopé connu comme fils de l'homme (95:4.1)
 Emmanuel a conseillé à Michel de mettre fin à la rébellion comme (120:2.2) (120:3.11)
 Jésus
@@ -2752,7 +2752,7 @@ Jésus
 	a cherché à accomplir la mission d'effusion comme (157:5.2) (157:6.6)
 Concept juif du Fils de Dieu, le Prince céleste (135:5.7) (136:1.1)
 
-Crise d'épilepsie | | traduction | |
+emprise du Fils | | traduction | |
 la traduction d'entre les vivants (49:6.18-21) (55:2.9)
 
 Ministres du Fils-Esprit; Ministres du Fils-Esprit | | séraphins | ORDER |
@@ -2972,17 +2972,17 @@ nature de l'âme (111:2)
 la prière est le souffle de l'âme (144:2.3)
 le conflit de l'âme est une disharmonie entre la conscience morale et intellectuelle de soi (133:6.6)
 sauver ou perdre l'âme (133:6.6)
-gagner des âmes | évangile : proclamer
+gagner des âmes | évangile:proclamer
 un monde rempli d'âmes perdues (100:5.1)
 
-Âmes de bonté; l'Âme de bonté | | seconaphin | ORDER |
+Âme de Bonté; Âmes de Bonté | | seconaphin | ORDER |
 attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne portent ni nom ni nombre (28:6.1)
 seconaphin tertiaire, associé aux Secrets de la Grandeur (28:6.20-22)
 
 âmes de paix | | séraphins | ORDER |
 séraphins auxiliaires planétaires; ministre de la paix (39:5.5-6)
 
-Les âmes de la philosophie; L'âme de la philosophie | | seconaphin | ORDER |
+Âme de la Philosophie | | seconaphin | ORDER |
 seconaphins secondaires, associés réfléchis des Perfecteurs de Sagesse en synchronie avec les maîtres de la philosophie au Paradis (28:5.11)
 
 concepteurs sonores | | | ORDER |
@@ -3010,7 +3010,7 @@ Fils Souverains | | Maître Michaels | ORDER |
 souveraineté | | | |
 parce que les Anciens des Jours n'ont pas mérité le droit de régner, ils seront remplacés par le Suprême (18:3.8-9)
 le contrôle de la gravité spirituelle par le Fils Éternel est la souveraineté spirituelle (7:1.1)
-univers local s | Fils Créateurs : souveraineté de l'univers local
+univers local s | Fils Créateurs:souveraineté de l'univers local
 	Les Fils Créateurs gagnent (18:3.9) (21:3) (120:0.1,4)
 	Jésus a accompli l'accomplissement de (21:4.5) (136:3.4-5)
 souveraineté politique | nationalisme
@@ -3256,7 +3256,7 @@ Primates, les Andonites se sont développés (63:1.2-3) (63:5.6)
 
 araignées | (59:5.7) (65:2.5) | | |
 
-espions | | Sanhédrin : espions du Sanhédrin | |
+espions | | Sanhédrin:espions du Sanhédrin | |
 les premières sociétés secrètes (70:7.16)
 femmes employées comme (69:3.11)
 
@@ -3350,16 +3350,16 @@ ce qui ne peut pas être spiritualisé finira par être désorganisé (21:5.7)
 esprit, nouveau nom | | | |
 mortel ascendant dans le Corps de Finalité (194:2.12)
 
-Esprit-Avocat | | | |
+avocat spirituel | | | |
 des commissions de conciliation (25:2.7)
 
-Coordinateurs spirituels; Coordinateurs spirituels | | séraphins | ORDER |
+coordonnateurs d'Esprit | | séraphins | ORDER |
 séraphins supérieurs servant aux ascendeurs sur Salvington (39:2.6)
 
 invocation d'esprit | | | |
 les chamans ont utilisé (90:2.1)
 
-Mortels fusionnés avec l'Esprit | (37:5.1-4) (40:9) | fusion; mortels : types planétaires | ORDER |
+Mortels fusionnés avec l'Esprit | (37:5.1-4) (40:9) | fusion; mortels:types planétaires | ORDER |
 associé aux Gardiens Célestes sur Uversa (22:9.4) (40:10.9)
 dépendre des associés séraphiques, des archives, pour la reconstruction immédiate de la mémoire humaine (40:9.4-9) (112:6.8)
 destin
@@ -3499,7 +3499,7 @@ assurance spirituelle | | assurance | |
 
 accomplissement spirituel | | croissance spirituelle | |
 
-communion spirituelle | (103:4) | Dieu : conscience de Dieu ; méditation ; prière ; croissance spirituelle ; adoration | |
+communion spirituelle | (103:4) | Dieu:conscience de Dieu ; méditation ; prière ; croissance spirituelle ; adoration | |
 effet de la communion spirituelle
 	l'assurance de la communion spirituelle se développe progressivement (34:6.12)
 	présence divine la plus pleinement découverte dans (5:2.3)
@@ -3532,7 +3532,7 @@ consécration spirituelle | | consécration de choix | |
 manipulateurs d'énergie spirituelle | | | ORDER |
 manipulateur d'énergie artisans célestes (44:5.4)
 
-croissance spirituelle | (103) (100:1-2) (101:6) | Dieu : conscience de Dieu ; Dieu : trouver Dieu ; croissance ; religion ; communion spirituelle ; renaissance spirituelle ; soumission | |
+croissance spirituelle | (103) (100:1-2) (101:6) | Dieu:conscience de Dieu ; Dieu:trouver Dieu ; croissance ; religion ; communion spirituelle ; renaissance spirituelle ; soumission | |
 réalisation
 	par l'élimination des qualités égoïstes de l'amour (100:2.4)
 	par la foi et la révélation (19:5.12)
@@ -3681,7 +3681,7 @@ transforme la défaite en déterminations plus élevées (196:3.29)
 
 paix spirituelle | | paix:paix spirituelle | |
 
-présence spirituelle | | Dieu : conscience de Dieu | |
+présence spirituelle | | Dieu:conscience de Dieu | |
 
 progrès spirituel | | croissance spirituelle | |
 
@@ -3808,7 +3808,7 @@ calmar | (59:2.11) | | |
 
 écureuils | (61:1.9) (61:2.7) | | |
 
-Vallée de Sainte-Croix | (58:7.7) | | PLACE |
+vallée de Sainte-Croix | (58:7.7) | | PLACE |
 
 Fleuve Saint-Laurent; Saint-Laurent | (59:4.16) (61:7.5) | | PLACE |
 Les Grands Lacs autrefois vidés (61:7.10)
@@ -3836,7 +3836,7 @@ Le bûcher était autrefois monnaie courante pour les délits sexuels (70:10.14)
 
 endurance | | persistance | |
 
-heure normale | | heure : jours et années | |
+heure normale | | heure:jours et années | |
 heure de l'univers local (33:6.9)
 
 niveau de vie | | | |
@@ -3869,9 +3869,9 @@ dans leurs courses, combattez pour la foi, fils (101:10.9)
 une nouvelle étoile signifiait la naissance d'un grand homme (150:3.2-3)
 vus comme des âmes glorifiées de grands hommes disparus (85:5.1) (95:2.7)
 
-ordres stationnaires (double origine) | | Fils de Dieu : ordres | ORDER |
+ordres stationnaires (double origine) | | Fils de Dieu:ordres | ORDER |
 
-Fils stationnaires de la Trinité | (10:6) (33:5) | | |
+Fils Stationnaires de la Trinité | (10:6) (33:5) | | |
 2 milliards et 70 servent à Havona ; 5 milliards dans chaque superunivers (19:4.8)
 corps des administrateurs de la Trinité ; il n'en sera plus créé (10:6.5) (19:1.2) (19:4.8)
 dans la classification du Paradis (30:1.7-17)
@@ -3904,7 +3904,7 @@ Le jeune Jésus réfléchissait (124:1.8)
 
 nuages de gaz stellaires | | nuages d'étoiles | PLACE |
 
-Stephen | | | PERSON |
+Étienne | | | PERSON |
 chef compétent des croyants grecs à Jérusalem ; premier martyr (128:3.6) (194:4.11-12)
 La discussion de 4 heures de Jésus avec Étienne a été un facteur primordial dans la rapide
 propagation du christianisme (128:3.5) (132:0.5-9)
@@ -3926,7 +3926,7 @@ accepter votre sort lorsque vous avez fidèlement accompli votre devoir (48:6.36
 une certaine dose de stoïcisme est utile dans la vie (181:1.8)
 pas un niveau élevé de réalisation de soi (12:5.10)
 
-Stoïcisme (religion) | | | RELIGION |
+Stoïcisme (religion); stoïcisme | | | RELIGION |
 Angamon était un chef stoïcien à Rome (132:1.1)
 lutté contre les cultes mystérieux (195:3.3)
 illustré par le 4e livre des Maccabées, Sagesse de Salomon (121:6.3)
@@ -3957,7 +3957,7 @@ pierres
 Le soleil d'Urantia a une surface de pierre gazeuse épaisse de 6 000 milles (41:6.3)
 que les bâtisseurs ont rejetée, elle est devenue la pierre angulaire; quiconque tombe sur une pierre est brisé, mais sauvé (173:4.4)
 
-Âge de pierre (ancien) | | | |
+Âge de pierre (ancien); Paléolithique | | | |
 commence avec les races colorées il y a 500 000 ans (64:0.2)
 pas une période distincte (81:3.4)
 la recherche porte sur les anciens hommes bleus (64:6.24)
@@ -3971,7 +3971,7 @@ lys des pierres | (59:3.11) (65:2.5) | crinoïdes | |
 maçon | | Jacob le maçon (père) ; Jacob le maçon (fils) | |
 premiers spécialistes (69:3.9)
 
-Pierre de Scone | | | |
+pierre de Scone | | | |
 pierre fétiche (88:1.2)
 
 Stonehenge | | | PLACE |
@@ -4038,7 +4038,7 @@ observateurs, élèves d'échange, étudiants assistants (30:3.11)
 
 esturgeon | (60:2.9) | | |
 
-sous-respirateurs | | mortels : types planétaires | |
+sous-respirateurs | | mortels:types planétaires | |
 type de mortel atmosphérique ; 2-1/2% dans Satania ; les êtres sur Mars seraient (49:2.12-13)
 
 subconscient | | esprit mortel | |
@@ -4074,15 +4074,15 @@ céder le contrôle des pouvoirs de l'âme à l'esprit intérieur (1:3.7) (5:1.1
 
 sous-normaux | | inférieurs | |
 
-Souccoth | (165:0,1) | | PLACE |
+Succoth | (165:0,1) | | PLACE |
 Mission Pérée
 
-Soudan | | | PERSON |
+Sudna | | | PERSON |
 Havona Servital qui est devenu Guide Diplômé (24:7.5)
 
 Soudanisme | | Jaïnisme | RELIGION |
 
-Région de Suez | (61:3.8) | | PLACE |
+région de Suez | (61:3.8) | | PLACE |
 
 souffrance | | difficultés; maladie; blessure | |
 L'Ajusteur ne peut pas atténuer les difficultés (111:7.2)
@@ -4147,7 +4147,7 @@ les veuves se suicidaient autrefois sur la tombe de leur mari (82:3.12)
 Suites | | | RACE |
 vaincu les Sumériens (78:8.10)
 
-Été | | | PLACE |
+Sumer | | | PLACE |
 Cité-État mésopotamienne (78:8.9)
 
 Sumériens | | Mésopotamie | RACE |
@@ -4191,7 +4191,7 @@ adoration du soleil
 	Sol Invictus mithraïque (98:5.3)
 	persiste en Bretagne (80:9.14)
 	le soleil honoré par la dénomination de dimanche (85:5.2)
-lumière du soleil | lumière : lumière matérielle ; soleils : lumière du soleil
+lumière du soleil | lumière:lumière matérielle ; soleils:lumière du soleil
 	propriétés bénéfiques pour la santé et destructrices de maladies (66:5.20)
 	ionise la haute atmosphère (58:2.6-10)
 	la couche d'ozone filtre les rayons ultraviolets extrêmes (58:2.2)
@@ -4229,7 +4229,7 @@ accélérateurs locaux de circulation d'énergie (15:6.9)
 la majorité a des planètes (57:4.2)
 la plupart sont nés en étant éjectés d'une nébuleuse en rotation (57:3.6)
 la plupart pas très denses ; certaines extrêmement denses (41:3.6) (41:5.1)
-nommé | astronomie : lieux nommés
+nommé | astronomie:lieux nommés
 réactions nucléaires en (41:8)
 nombre dans l'univers maître (41:3.2)
 origine (15:4-5)
@@ -4246,7 +4246,7 @@ l'analyse spectrale ne montre que les conditions de surface (41:6,7)
 stabilité dépendante de l'équilibre gravité-chaleur (41:9)
 température interne stable de 35 000 000 °F; chaleur dégagée (15:6,9) (41:4,7) (41:7,1-13) (41:9,1)
 matière subatomique à l'intérieur de (42:3.6)
-lumière du soleil | lumière : lumière matérielle ; soleil (d'Urantia) : lumière du soleil
+lumière du soleil | lumière:lumière matérielle ; soleil (d'Urantia):lumière du soleil
 	se compose d'électrons agités par des rayons X (41:5.4-5)
 	octave d'énergie des vagues (42:5.1,10)
 taches solaires
@@ -4275,12 +4275,12 @@ taches solaires | | soleils | |
 Suntites | | | RACE |
 Jardin d'Eden occupé après défaut (73:7.1)
 
-monde des superanges | | Jérusalem : mondes culturels de transition | PLACE |
+monde des superanges | | Jérusalem:mondes culturels de transition | PLACE |
 monde culturel de transition #4 (45:1.6)
 
 superanges | | Étoiles brillantes du soir | ORDER |
 
-superrespirateurs | | mortels : types planétaires | |
+superrespirateurs | | mortels:types planétaires | |
 type de mortel atmosphérique ; 5% dans Satania ; les êtres sur Vénus seraient (49:2.12-13)
 
 esprit supraconscient | | esprit mortel | |
@@ -4391,7 +4391,7 @@ superstratosphère | (58:2.10) | | |
 superultime | | | |
 l'absolu est un superultime (4:1.9)
 
-Centres du Superunivers | | Centres de Pouvoir Suprême | ORDER |
+Centres de Superunivers; centres de superunivers | | Centres de Pouvoir Suprême | ORDER |
 Centres de pouvoir suprême de 3e ordre ; mouvements énergétiques localisés directs à des fins spécifiques (29:2.13-15)
 administrer les circuits d'énergie physique du superunivers (15:8.2-3)
 commencer à fonctionner lorsque l'énergie répond sans équivoque à la gravité du Paradis (42:2.23)
@@ -4512,7 +4512,7 @@ types
 	# enregistreurs (39:3.10)
 	# réserves (39:3.11)
 
-suppression | | péché : faire face à | |
+suppression | | péché:faire face à | |
 résumé la suppression de la rébellion de Lucifer aurait triplé le nombre de personnes égarées (54:5.12)
 
 Suprématie | | Suprême | |
@@ -4712,18 +4712,18 @@ Trinité
 	La Trinité est au Suprême ce que l'Ajusteur est aux mortels (116:3.4) (117:3.10)
 Trinité de la Suprématie (0:8.10) (10:5.4) (10:7.3) (16:3.18) (26:6.3-4)
 
-Superviseurs du Centre Suprême | | Centres de Pouvoir Suprême | ORDER |
+Superviseurs Suprêmes de Centres; Superviseurs Suprêmes de Centre | | Centres de Pouvoir Suprême | ORDER |
 dans le registre de personnalité d'Uversa (30:2.93)
 réguler les circuits énergétiques principaux du grand univers ; au nombre de 7 (29:2.10)
 Centres de pouvoir suprêmes ; agissent sur les phénomènes situés en dessous des niveaux d'énergie gravitationnelle (29:2.11)
 
-Chef suprême | | | RELIGION |
+Chef Suprême | | | RELIGION |
 Orlandof a enseigné à Dieu la race bleue comme (64:6.23)
 
-Superviseurs des circuits suprêmes | | Superviseurs des circuits de l'univers | ORDER |
+Superviseurs suprêmes des circuits; superviseurs suprêmes des circuits | | Superviseurs des circuits de l'univers | ORDER |
 ordre des superviseurs des circuits de l'univers ; servir sur les circuits de Havona ; numéro 7 (24:1.2-8)
 
-Conseil suprême du destin | | | PERSON |
+Conseil Suprême de la Destinée | | | PERSON |
 composé des chefs des 7 corps finalitaires (31:10.1-10,20)
 
 conseil suprême de Salvington | | | PERSON |
@@ -4732,7 +4732,7 @@ a tenu une réunion exécutive sur Urantia pendant la période de la tombe (188:
 Puissant Messager attaché à (32:5.9)
 Représentation de Satania suspendue par la rébellion (45:3.22)
 
-Conseil suprême des ajustements universels | | | |
+Conseil Suprême des Ajustements Universels | | | |
 les réserves des Unions des Jours fonctionnent comme (18:6.2)
 
 conseil suprême d'autorité illimitée | | | PERSON |
@@ -4743,7 +4743,7 @@ Fils enseignants de la Trinité assignés à, dans la lumière et la vie (55:10.
 
 cour suprême de coordination tribale et de coopération raciale | | Caligastia cent | PERSON |
 
-Créateurs suprêmes | | Dieu le Septuple | ORDER |
+Créateurs Suprêmes | | Dieu le Septuple | ORDER |
 1er 3 niveaux de Dieu le Septuple : Fils Créateurs, Esprits Mères de l'univers local, Anciens des Jours et Sept Esprits Maîtres (31:9.14) (36:6.7) (56:5.3) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
 date de l'organisation de 7 superunivers (0:8.12)
 descendu du Paradis pour faire évoluer des créatures avec la capacité d'atteindre le Paradis (0:2.16) (117:1.2)
@@ -4752,7 +4752,7 @@ le ministère est celui du Suprême (34:6.2)
 La souveraineté suprême naît des réalisations des Créateurs suprêmes (0:7.7) (56:6.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:3.7) (118:0.9)
 transmuter les potentiels mûris en réalités expérientielles (118:4.7)
 
-Exécutif suprême n° 7 (d'Orvonton) ; Exécutif suprême d'Orvonton | (17:1.5) | Sept Exécutifs suprêmes | PERSON |
+Exécutif Suprême n° 7 (d'Orvonton); Agent Exécutif Suprême d'Orvonton | (17:1.5) | Sept Exécutifs suprêmes | PERSON |
 L'inspecteur adjoint de Salvington rend compte à (37:8.5)
 Rapport des omniaphim d'Uversa à (28:2.2)
 
@@ -4761,7 +4761,7 @@ Les dirigeants suprêmes | | Les sept dirigeants suprêmes | PERSON |
 Conseils suprêmes Lanonandek; conseil suprême | | | PERSON |
 sélectionnez Souverains du système (35:9.3)
 
-Esprit suprême | (116:1) | esprit; Suprême | PERSON |
+Mental Suprême | (116:1) | esprit; Suprême | PERSON |
 tient compte de la réflectivité (9:7.4)
 active le mécanisme vivant du grand univers (116:7.3) (118:9.4)
 accordé au Suprême par l'Esprit Infini (22:7.11) (56:6.2) (115:4.7)
@@ -4773,7 +4773,7 @@ Les messagers solitaires sont-ils la conséquence d'un don de ? (23:4.2-3)
 unifie la personne spirituelle du Suprême avec le pouvoir atteint du Tout-Puissant (56:6.2) (116:1.2) (116:3.2-3) (117:7.14)
 potentiel inconnu (106:5.2)
 
-Centres de pouvoir suprêmes | (29:2) (41:1) (116:5.3) | Directeurs de pouvoir de l'univers | PERSON |
+Centres Suprêmes de Pouvoir | (29:2) (41:1) (116:5.3) | Directeurs de pouvoir de l'univers | PERSON |
 1 million d'unités de contrôle (29:3,7)
 dotations antigravitationnelles (9:3.6) (29:3.6) (42:4.4)
 les ascendeurs étudient les centres de pouvoir suprêmes sur les secteurs mineurs (18:5.3)
@@ -4836,7 +4836,7 @@ types (39:1)
 service suprême | | | |
 seul diplôme accordé dans le temple morontiel (55:3.8,19)
 
-Esprits suprêmes | (17) (9:8.15) | Esprit infini : famille | ORDER |
+sprits Suprêmes | (17) (9:8.15) | Esprit infini:famille | ORDER |
 directeurs administratifs du grand univers (17:0.1-12) (17:8.3)
 tous les esprits au service de Dieu proviennent de (17:8.2)
 groupes comprenant, dans les registres de personnalité (30:1.3,56) (30:2.14)
@@ -4852,7 +4852,7 @@ groupes comprenant, dans les registres de personnalité (30:1.3,56) (30:2.14)
 	Des êtres non révélés (30:1.63)
 noyau de la famille fonctionnelle de l'Esprit Infini (17:8.1)
 
-Personnalités de la Trinité Suprême | (18) | | ORDER |
+Personnalités Suprêmes de la Trinité | (18) | | ORDER |
 créé dans la perfection; de nombres définis et définitifs (18:0.9-11)
 groupes comprenant (18:0,1)
 	# Les secrets trinitarisés de la suprématie
@@ -4875,7 +4875,7 @@ surprise | | | |
 pour Dieu, aucun événement n'arrive comme (2:1.5) (3:2.6-7) (3:3.4)
 
 survie (de la mort mortelle) | (112) | vie éternelle; non-survivants; crèche probatoire; résurrection; salut | |
-jugement de survie | jugement : jugement divin
+jugement de survie | jugement:jugement divin
 	tous doivent faire l'expérience d'une véritable opportunité de faire un choix définitif et incontestable (112:5.9)
 	Les Fils Créateurs peuvent décréter la survie (15:12.2)
 	dans le doute, les gouvernements de l'univers gouvernent invariablement dans l'intérêt personnel de l'individu (112:5.7-9) (139:12.7)
@@ -4974,7 +4974,7 @@ Suzanne (fille de Nazareth chazan) | (150:2.1) | | PERSON |
 à la 16ème apparition de Jésus (193:0)
 chef du corps des femmes (150:1.1-2)
 
-Susatia; Susatias | | | PERSON |
+Susatia; susatias; Lessusatias | | | PERSON |
 créé par le Fils Créateur et l'Esprit Mère (37:9.7)
 dans les registres de personnalité (30:1.45) (30:2.120)
 citoyens permanents de Salvington ; étroitement associés aux mortels fusionnés avec l'Esprit (37:9.7)
@@ -4988,7 +4988,7 @@ poison mental; interfère énormément avec le progrès spirituel (110:1.5)
 s'abstenir de suggérer des soupçons aux enfants (140:5.14)
 ne tombez pas dans des enchevêtrements d'incompréhensions (191:4.3)
 
-Rivière Susquehanna | (59:4.16) | | PLACE |
+rivière Susquehanna | (59:4.16) | | PLACE |
 
 sueur | | transpiration | |
 
@@ -5083,7 +5083,7 @@ coordinateurs système | | | ORDER |
 dans le registre de personnalité d'Uversa (30:2.110)
 Superviseurs du pouvoir morontiel ; harmoniser les différents systèmes de pouvoir (48:2.15-16)
 
-Souverains du Système | (45:2) | Lanaforge; Fils de Lanonandek; Lucifer | ORDER |
+Souverains de Système; Souverains de Systèmes; Souverain Systémique; Souverains Systémiques | (45:2) | Lanaforge; Fils de Lanonandek; Lucifer | ORDER |
 3 se sont rebellés dans Nébadon (35:9.5-6) (119:2.1-6)
 709 841 Lanonandeks primaires désignés comme Souverains du Système dans Nébadon (20:1.10) (35:8.4) (45:2.1)
 les cabinets des Princes Planétaires conseillent (114:3.4)

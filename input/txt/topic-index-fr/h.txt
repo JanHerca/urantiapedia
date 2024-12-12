@@ -202,7 +202,7 @@ harpes de Dieu; harpe de Dieu | | | | OK
 Les « harpes de Dieu » sont des dispositifs morontiels utilisés à Jérusalem pour la réception des communications spatiales (47:10.2)
 Adam et Eve, lorsqu'ils étaient sur la Terre, pouvaient communiquer entre eux et avec leurs enfants immédiats sur une distance d'environ 80 kilomètres. Cet échange de pensées s'effectuait au moyen de chambres à gaz délicates situées à proximité immédiate de leurs structures cérébrales. Grâce à ce mécanisme, ils pouvaient envoyer et recevoir des oscillations de pensée. Mais ce pouvoir était instantanément suspendu dès que l'esprit s'abandonnait à la discorde et à la perturbation du mal. (74:6.6)
 
-récolte | | Judaïsme : fêtes : tabernacles | | OK
+récolte | | Judaïsme:fêtes:tabernacles | | OK
 Jésus dit : « Ne dites plus : c'est tel temps jusqu'à la moisson. Moi, je vous dis que les champs sont déjà blancs pour la moisson. » (143:6.1)
 « La moisson est abondante, mais les ouvriers sont peu nombreux » (150:4.1) (163:1.3)
 
@@ -447,7 +447,7 @@ les jeunes chasseurs de têtes ne peuvent se marier tant qu'ils n'ont pas une t�
 maux de tête | | | |
 Les hommes-médecine ont trépané des crânes pour les guérir (90:4.4)
 
-guérison | | santé; Jésus : miracles et guérisons | |
+guérison | | santé; Jésus:miracles et guérisons | |
 traitement matériel et spirituel à l'hôpital de Bethsaïda (148:2.1)
 guérison spirituelle
 	impossible sauf en accord avec la volonté du Père (158:6.4)
@@ -455,7 +455,7 @@ guérison spirituelle
 	le royaume ne peut pas être édifié (145:5.4)
 	Les œuvres de la foi ne viennent pas de l'incrédulité (158:5.2)
 
-guérison au coucher du soleil | (145:3) | Jésus : miracles et guérisons | |
+guérison au coucher du soleil | (145:3) | Jésus:miracles et guérisons | |
 683 guéris (145:3.10)
 la majorité n'a pas bénéficié spirituellement de manière permanente (145:3.14)
 seulement 7 des 683 inscrits à l'école des évangélistes (148:1.4)
@@ -1036,9 +1036,9 @@ rencontre entre une tribu indienne et un groupe esquimau (64:7.19)
 Rivière Hudson; vallée de l'Hudson | (59:4.15) (60:1.3) | | PLACE |
 Les Grands Lacs autrefois vidés (61:7.10)
 
-nature humaine | | mortels : nature humaine | |
+nature humaine | | mortels:nature humaine | |
 
-droits de l'homme | (70:9) | gouvernement : principes de gouvernement | |
+droits de l'homme | (70:9) | gouvernement:principes de gouvernement | |
 associé aux devoirs sociaux (81:5.4,6)
 les subventions accordées à un individu limitent celles accordées à tous les autres (70:11.2)
 les droits des hommes ne sont pas les droits des femmes (84:5.11-12)
@@ -1047,7 +1047,7 @@ rien de plus que les règles du jeu (70:9.13)
 la société devrait administrer équitablement (70:9.17)
 la femme a obtenu des droits quand le moment est venu (84:5.4)
 
-sacrifice humain | | sacrifice : sacrifice humain | |
+sacrifice humain | | sacrifice:sacrifice humain | |
 
 humanisme | | laïcité | |
 

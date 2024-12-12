@@ -146,7 +146,7 @@ Jésus est décédé
 couleuvre d'eau | | | |
 si votre enfant demande un (144:2.4)
 
-phénomènes ondulatoires | | énergie : types d'énergie | |
+phénomènes ondulatoires | | énergie:types d'énergie | |
 
 collage de panneaux de cire | | | |
 dettes enregistrées sur (169:2.4)
@@ -280,7 +280,7 @@ les premiers étaient des grains de blé (69:4.5)
 Le gradient de Jérusalem équivaut à 10 onces d'Urantia (46:1.2)
 des électrons et des atomes (42:6.7-8)
 
-bien-être (gouvernement) | | charité : par le gouvernement | |
+bien-être (gouvernement) | | charité:par le gouvernement | |
 
 bien faire | | | |
 ne vous lassez pas de (163:6.7) (174:0.2) (192:2.9)
@@ -646,7 +646,7 @@ les Fils divins sont (10:3.3)
 Le Fils Éternel est (6:0.1) (6:1.3) (6:2.2) (6:8.3) (14:6.15) (20:5.1)
 est le pain de vie (179:5.3)
 c'est la vérité, la miséricorde, la vie éternelle (174:5.7)
-Jésus était | Jésus : personnalité et nature
+Jésus était | Jésus:personnalité et nature
 Paul n'imaginait pas que ses lettres seraient considérées comme (98:7.9)
 rejeter les écritures traditionnelles considérées comme (155:6.2)
 
@@ -666,16 +666,16 @@ gouvernement mondial | | gouvernement:gouvernement mondial | |
 monde de la croix | | | |
 Urantia connue sous le nom de (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-monde du Père | | Jérusalem : mondes culturels de transition | PLACE |
+monde du Père | | Jérusalem:mondes culturels de transition | PLACE |
 Les 7 mondes en cercle sont des sphères de détention (45:1.10)
 Satellite de Jérusalem, sphère silencieuse ; monde culturel de transition n°7 (45:1.9) (53:7.1)
 Les Panoptiens sont des gardiens (53:7.1)
 les rebelles ont résisté (53:9.1)
 
-monde des Fils | | Jérusalem : mondes culturels de transition | PLACE |
+monde des Fils | | Jérusalem:mondes culturels de transition | PLACE |
 monde culturel de transition #5 (45:1.7)
 
-monde de l'Esprit | | Jérusalem : mondes culturels de transition | PLACE |
+monde de l'Esprit | | Jérusalem:mondes culturels de transition | PLACE |
 monde culturel de transition #6 (45:1.8)
 
 Première Guerre mondiale; Guerre mondiale | | | |
@@ -752,7 +752,7 @@ primitifs vénérés
 	plantes et arbres (85:2)
 	dirigeants politiques de l'Empire romain (98:3.7-8)
 	pierres et collines (85:1)
-	soleil | soleil (d'Urantia) : culte du soleil
+	soleil | soleil (d'Urantia) :culte du soleil
 	les 4 éléments (85:4)
 	ce qu'ils craignaient (85:7.2)
 la qualité du culte est déterminée par la profondeur de la perception (5:4.8) (27:7.1)

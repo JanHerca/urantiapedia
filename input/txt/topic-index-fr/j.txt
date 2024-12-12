@@ -59,7 +59,7 @@ Les dirigeants de Jérusalem s'efforcèrent de dissuader (153:1.7)
 démissionné de son poste de chef ; s'est aligné sur Jésus (154:1.2)
 > https://en.wikipedia.org/wiki/Raising_of_Jairus%27_daughter
 
-Jacques, Épître de | | Jacques (frère de Jésus) : Épître de | |
+Jacques, Épître de | | Jacques (frère de Jésus):Épître de | |
 
 James Alpheus | | Jumeaux Alpheus | PERSON | OK
 
@@ -552,7 +552,7 @@ attitudes envers Jésus
 	transfiguration (158:0-3)
 		Jésus a refusé d'être investi de la pleine autorité lors de la transfiguration (158:1.4)
 		le souvenir de la transfiguration soutenait Jésus (171:4.9)
-	procès et crucifixion | doctrine de l'expiation; Jésus : mort
+	procès et crucifixion | doctrine de l'expiation; Jésus:mort
 		trahison (183)
 		arrestation (183:3)
 		craché dessus (184:3.18) (185:6.2)
@@ -567,7 +567,7 @@ attitudes envers Jésus
 		côté percé par une lance (187:5.8)
 		ceux qui ont été témoins (127:5.6) (187:3.1)
 		enterrement (188:1)
-	mort | doctrine de l'expiation; Jésus : événements de la vie
+	mort | doctrine de l'expiation; Jésus:événements de la vie
 		il a accompli par la mort des choses qu'il n'aurait pas pu faire de son vivant (171:4.9)
 		Le christianisme s'est construit autour de la mort de Jésus (143:5.11)
 		la plus grande tragédie de la terre (178:2.1)
@@ -625,7 +625,7 @@ attitudes envers Jésus
 		aucune apparition aux ennemis (190:2.1)
 		aucune trace de clou sur les mains (191:5.4)
 		ascension (193:5) (196:1.12)
-valeur de la vie de Jésus | Fils de Dieu du Paradis : dons
+valeur de la vie de Jésus | Fils de Dieu du Paradis:dons
 	Les apôtres ont mal compris l'enseignement de Jésus mais ont saisi sa vie (140:7.8)
 	compense l'incapacité à saisir le Fils Éternel (6:8.6-7)
 	visualisation humaine la plus élevée du Père, agrandie et amplifiée (97:10.8)
@@ -651,7 +651,7 @@ valeur de la vie de Jésus | Fils de Dieu du Paradis : dons
 	la plus belle expression de la divinité trouvée dans la vie terrestre des Fils d'effusion (116:2.3)
 	voie nouvelle et vivante (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	comprendre les enseignements de Jésus par sa vie (140:8.19) (149:2.1)
-Enseignements de Jésus | Évangile : expliqué ; Royaume des cieux ; Religion : expliquée ; Vérité
+Enseignements de Jésus | Évangile:expliqué ; Royaume des cieux ; Religion:expliquée ; Vérité
 	n'ayez pas honte des enseignements de Jésus (150:4.3)
 	ne soyez pas découragé par l'incapacité à saisir pleinement (181:2.25)
 	dénonce l'orgueil, la cruauté, l'oppression, l'hypocrisie (140:8.22)
@@ -954,7 +954,7 @@ Enseignements de Jésus | Évangile : expliqué ; Royaume des cieux ; Religion :
 		* ne cherchez pas votre propre glorification, mais la gloire de Dieu (175:1.10)
 		* prenez garde que personne ne vous séduise (176:1.1)
 		* de faux docteurs surgiront et séduiront beaucoup de gens (176:1.4)
-		* Je reviendrai | Jésus : seconde venue (176:2.3)
+		* Je reviendrai | Jésus:seconde venue (176:2.3)
 		* vous ne pouvez pas rester immobiles dans les affaires du royaume (176:3.5)
 		* accomplis fidèlement ce qui t'est confié (176:3.6)
 		* aimez-vous les uns les autres comme je vous ai aimés (178:1.17) (180:1) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
@@ -1124,7 +1124,7 @@ personnalité et nature (100:7)
 description physique (123:2.15) (127:1.2-3) (127:5.1) (128:6.2,11) (187:2.8)
 	les images ont été très malheureuses (141:3.6)
 	la voix était musicale, fascinante, autoritaire (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
-but de la vie | Michel de Nébadon : dons
+but de la vie | Michel de Nébadon:dons
 	dans les contacts humains (132:4.1)
 	que nous ayons la vie en abondance (157:6.2)
 	être le libérateur du monde (122:4.2)
@@ -1163,7 +1163,7 @@ compétences de Jésus
 	narration (126:2.6) (130:7.1)
 	fabrication de tentes (134:7.3)
 	fabrication du joug (124:1.7) (126:1.1)
-Fils de Dieu | Jésus : la nature de Jésus
+Fils de Dieu | Jésus:la nature de Jésus
 Fils de l'homme
 réalisations spirituelles
 	nous atteindrons un jour toute la filiation (142:7.13)
@@ -1562,7 +1562,7 @@ embaumé le corps de Jésus avec de la myrrhe et de l'aloès (188:1.4)
 ancien membre du Sanhédrin (188:1.2)
 a aidé à porter le corps de Jésus au tombeau (188:1.3)
 5ème apparition de Jésus à la maison de (190:3.1)
-Jésus enterré dans le tombeau de | Jésus : événements de la vie
+Jésus enterré dans le tombeau de | Jésus:événements de la vie
 a rencontré Jésus dans la maison de Nicodème (164:2.1)
 le disciple le plus franc de Jésus à Jérusalem (188:1.2)
 visité le tombeau vide (190:1.2)
@@ -1616,7 +1616,7 @@ Marie Madeleine et Rebecca ordonnées à (150:2.3)
 Jupiter | | | PLACE |
 persiste seulement comme exclamation (96:1.14)
 
-joie | | bonheur; paix : paix spirituelle | |
+joie | | bonheur; paix:paix spirituelle | |
 né de la confiance en la parole divine (143:2.7)
 on ne peut pas l'expérimenter tout seul (111:4.7)
 ne peut pas être mis sous microscope (196:3.18)
@@ -1743,7 +1743,7 @@ le salut promis des difficultés (5:4.5-8) (148:6.5)
 en pleine expansion à l'époque de Jésus (121:1.6)
 religion de la sublimité morale (196:3.19)
 la renaissance date de la traduction grecque des Écritures (121:6.2)
-rituels | Judaïsme : fêtes
+rituels | Judaïsme:fêtes
 	Sacrifice animal andonique préservé dans (63:6.4)
 	incohérent et absurde ; Jésus pensait que les cérémonies étaient pathétiques (125:2.4) (134:9.3)
 	purification après l'accouchement (122:9.1) (122:10.2)
