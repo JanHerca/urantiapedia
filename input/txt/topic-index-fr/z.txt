@@ -64,7 +64,7 @@ Zébédée, Salomé | | Salomé (épouse de Zébédée) | PERSON |
 
 Zabulon | (146:3.10) (156:6.2) | | PLACE |
 
-Zacharie | | | PERSON |
+Zacharie, Livre de; Zacharie | | | PERSON |
 Livre de Zacharie
 	épisode du roi monté sur un âne (172:3.4)
 	Jésus a cité (146:2.3)
@@ -76,7 +76,7 @@ transplanté à Rome, Zeus devint Jupiter (98:3.3)
 
 zinc | (59:3.4) (59:5.9) | | |
 
-Zone de l'infini | | | PLACE |
+Zone de l'Infinitéi; Zone inconnue et non révélée de l'Infinité | | | PLACE |
 au bas du Paradis directement sous la Trinité (11:5.2-4)
 
 Zophar | | | PERSON |
@@ -86,9 +86,9 @@ Zoroastre | | Zoroastrisme | PERSON |
 la flamme symbolisait l'Esprit (95:6.4)
 en contact direct avec les descendants des missionnaires de Salem (131:5.1)
 très affecté par le spiritisme dualiste (92:5.12)
-éminent professeur religieux ; apparu en Iran au 6e siècle av. J.-C. (95:6.1) (121:6.4)
+éminent professeur religieux; apparu en Iran au 6e siècle av. J.-C. (95:6.1) (121:6.4)
 
-Zoroastrisme | (92:6.8) | Ahura-Mazda; Zoroastre | RELIGION |
+zoroastrisme; zoroastrienne; zoroastriens; Zoroastrian teachings | (92:6.8) | Ahura-Mazda; Zoroastre | RELIGION |
 Résumé de Ganid de (131:5)
 influence sur le christianisme (98:7.6)
 s'opposait de manière militante au mithraïsme (98:5.2)

@@ -80,7 +80,7 @@ Gadiah | | | PERSON | OK
 Gadiah est un interprète philistin avec lequel Jésus discuta au sujet de Jonas lors de son séjour à Joppé. Il deviendra chrétien après avoir écouté l'apôtre Pierre, avec lequel il eut une controverse mémorable (130:1)
 
 Gaïus | | | PERSON | OK
-Jésus rencontra Gaïus dans la maison de Crispus à Corinthe ; il devint plus tard un fidèle partisan de Paul (133:3.11)
+Jésus rencontra Gaïus dans la maison de Crispus à Corinthe; il devint plus tard un fidèle partisan de Paul (133:3.11)
 
 Galantia | | | PERSON | OK
 Galantia est l'associé ascendant de Gavalia, la première Étoile Brillante du Soir de Nébadon, et Galantia est le premier ascendant à entrer en service dans Nébadon (37:2.6) (46:5.25)
@@ -134,11 +134,11 @@ a conseillé au Sanhédrin de ne pas emprisonner les disciples de Jésus (194:4.
 
 jeu d'argent; joueur | | hasard; chance | | OK
 Les peuples partiellement civilisés croient encore aujourd'hui au hasard et manifestent une prédisposition persistante au jeu. (86:1.4)
-L'homme primitif était un joueur né ; il voulait toujours obtenir quelque chose gratuitement, et trop souvent, à cette époque reculée, le succès obtenu grâce à une pratique patiente était attribué aux charmes. (69:2.7)
+L'homme primitif était un joueur né; il voulait toujours obtenir quelque chose gratuitement, et trop souvent, à cette époque reculée, le succès obtenu grâce à une pratique patiente était attribué aux charmes. (69:2.7)
 
 jeux | | | | OK
 à propos des jeux athlétiques, voir le lien vers Sports | sports
-Les vestiges modernes de cette propension au tirage au sort sont illustrés, non seulement dans les nombreux jeux de hasard, mais aussi dans les célèbres comptines de « décompte ». Autrefois, la personne éliminée devait mourir ; aujourd'hui, elle n'est plus que cela dans un jeu enfantin. (90:2.4)
+Les vestiges modernes de cette propension au tirage au sort sont illustrés, non seulement dans les nombreux jeux de hasard, mais aussi dans les célèbres comptines de « décompte ». Autrefois, la personne éliminée devait mourir; aujourd'hui, elle n'est plus que cela dans un jeu enfantin. (90:2.4)
 
 rayons gamma; rayons gamma | | | | OK
 Les rayons gamma sont des émanations qui caractérisent la dissociation spontanée de la matière atomique. La meilleure illustration de cette forme d'activité électronique se trouve dans les phénomènes associés à la désintégration du radium. (42:5.1,7)
@@ -172,9 +172,9 @@ préparation
 description physique (73:5)
 	La côte de cette masse terrestre était considérablement élevée, et le bras de mer reliant le continent n'avait que vingt-sept milles de large au point le plus étroit. (73:3.4)
 	À l'époque de l'arrivée d'Adam, bien que le Jardin n'était achevé qu'au quart, il comptait des milliers de kilomètres de fossés d'irrigation et plus de douze mille kilomètres de sentiers et de routes pavés. (73:5.2)
-	Un jardin zoologique a été créé en construisant un mur plus petit juste à l'extérieur du mur principal ; l'espace intermédiaire, occupé par toutes sortes de bêtes sauvages, servait de défense supplémentaire contre les attaques hostiles. (73:4.3)
+	Un jardin zoologique a été créé en construisant un mur plus petit juste à l'extérieur du mur principal; l'espace intermédiaire, occupé par toutes sortes de bêtes sauvages, servait de défense supplémentaire contre les attaques hostiles. (73:4.3)
 	un mur de briques a été construit à travers le cou de la péninsule (73:4.2-3)
-	Cette péninsule méditerranéenne avait un climat salubre et une température uniforme ; ce temps stable était dû aux montagnes qui l'entouraient et au fait que cette région était pratiquement une île dans une mer intérieure. (73:3.3-6)
+	Cette péninsule méditerranéenne avait un climat salubre et une température uniforme; ce temps stable était dû aux montagnes qui l'entouraient et au fait que cette région était pratiquement une île dans une mer intérieure. (73:3.3-6)
 	Les montagnes entourant le Jardin abondaient en pierres et métaux précieux, bien que ceux-ci aient reçu très peu d'attention. (73:3.5)
 	il y avait une montagne, la montagne inaugurale, d'où Adam parla (74:2.5) (74:3.5) (74:4.4)
 	Le site choisi pour le Jardin était probablement le plus bel endroit de son genre au monde, et le climat était alors idéal. (73:3.6)(73:5.8)(73:7.1)(74:3.4)
@@ -291,7 +291,7 @@ importance de l'hérédité génétique
 	la génétique sous-tend toutes les capacités et tous les caractères (44:8.2) (76:2.6)
 	la chimie de certaines glandes influence l'imagination inhérente et la réceptivité spirituelle (49:5.19)
 	Les mortels diffèrent par leurs dons innés et leurs qualités acquises (69:3.8) (70:8.1) (100:7.8)
-	Bien que les pulsions héréditaires ne puissent pas être fondamentalement modifiées, les réponses émotionnelles à ces pulsions peuvent être changées ; par conséquent, la nature morale peut être modifiée, le caractère peut être amélioré. (140:4.8)
+	Bien que les pulsions héréditaires ne puissent pas être fondamentalement modifiées, les réponses émotionnelles à ces pulsions peuvent être changées; par conséquent, la nature morale peut être modifiée, le caractère peut être amélioré. (140:4.8)
 	Le jeu et l'humour des races actuelles sont en grande partie dérivés de la souche adamique. (74:6.7)
 	L'expérience religieuse est fortement influencée par la santé physique, le tempérament héréditaire et l'environnement social. (100:1.6)
 	La religion est le puissant levier qui élève la civilisation du chaos, mais elle est impuissante sans le point d'appui d'un esprit sain et normal reposant solidement sur une hérédité saine et normale. (70:8.18)
@@ -306,7 +306,7 @@ la génétique au paradis
 	Chaque génération tend désormais à éliminer du courant reproductif de la race les individus chez lesquels l'instinct parental n'est pas suffisamment fort pour assurer la procréation des enfants, les futurs parents de la génération suivante. (84:7.7)
 historiquement
 	il y avait exactement 70 générations entre les mammifères de l'aube et les mammifères moyens (61:6.1) (62:2.6)
-	Entre les tribus primitives, les querelles familiales se multiplièrent, des guerres tribales éclatèrent et de graves pertes furent subies parmi les meilleurs éléments des groupes les plus capables et les plus avancés. Certaines de ces pertes furent irréparables ; certaines des souches les plus précieuses de talent et d'intelligence furent perdues à jamais pour le monde. Cette race primitive et sa civilisation primitive furent menacées d'extinction par cette guerre incessante entre les clans. (63:4.8)
+	Entre les tribus primitives, les querelles familiales se multiplièrent, des guerres tribales éclatèrent et de graves pertes furent subies parmi les meilleurs éléments des groupes les plus capables et les plus avancés. Certaines de ces pertes furent irréparables; certaines des souches les plus précieuses de talent et d'intelligence furent perdues à jamais pour le monde. Cette race primitive et sa civilisation primitive furent menacées d'extinction par cette guerre incessante entre les clans. (63:4.8)
 	les chromosomes du personnel du Prince sont réorganisés davantage selon les modèles de la spécialisation standardisée de Satania par de puissants circuits de maintien de la vie du système Satania (77:2.2,5)
 	Les cent assistants de Caligastia ont enseigné à l'humanité l'élevage sélectif des animaux (66:5.4)
 	d'énormes gains résultèrent de la petite quantité de sang de la race violette que les peuples évolutionnaires obtinrent par hasard. (48:4.13,17) (52:3.6) (74:7.23) | Andites
@@ -318,17 +318,17 @@ historiquement
 	la détérioration raciale a contribué au déclin de Rome (133:0.2) (195:3.8-9)
 
 Gengis Khan | | | PERSON | OK
-Le génie militaire andite des Mongols ; il était monothéiste (79:1.9)
+Le génie militaire andite des Mongols; il était monothéiste (79:1.9)
 les membres de sa tribu attendent toujours son retour (92:5.6)
 
 génie; génies | | | | OK
-L'homme primitif ne pouvait pas faire la distinction entre le génie et la folie ; les idiots étaient soit battus à mort, soit vénérés comme des personnalités fétiches. (88:1.9)
+L'homme primitif ne pouvait pas faire la distinction entre le génie et la folie; les idiots étaient soit battus à mort, soit vénérés comme des personnalités fétiches. (88:1.9)
 Beaucoup de gens considéraient les génies comme des personnalités fétiches possédées par un esprit sage. (88:1.10)
 Chaque civilisation est limitée par les ressources naturelles disponibles, le génie inhérent et suffisamment de loisirs pour assurer la réalisation de l'invention (78:2.4)
 Chez un génie religieux, une foi spirituelle forte conduit souvent directement au fanatisme désastreux, à l'exagération de l'ego religieux, mais il n'en fut pas ainsi avec Jésus. (196:0.6)
-Jésus nous a donné ce conseil concernant l'utilisation de nos richesses : « Si vous avez la chance de vous enrichir grâce à votre génie, si vos richesses proviennent des récompenses de votre talent inventif, ne vous en prévalez pas injustement. Le génie doit quelque chose à ses ancêtres et à sa progéniture ; il est également redevable à la race, à la nation et aux circonstances de ses découvertes inventives » (132:5.8,20).
+Jésus nous a donné ce conseil concernant l'utilisation de nos richesses : « Si vous avez la chance de vous enrichir grâce à votre génie, si vos richesses proviennent des récompenses de votre talent inventif, ne vous en prévalez pas injustement. Le génie doit quelque chose à ses ancêtres et à sa progéniture; il est également redevable à la race, à la nation et aux circonstances de ses découvertes inventives » (132:5.8,20).
 la fuite du génie est neutralisée par la gravité de la médiocrité (111:7.5)
-L'homme normal doit être encouragé ; il est l'épine dorsale de la civilisation et la source des génies mutants de la race. (68:6.11)
+L'homme normal doit être encouragé; il est l'épine dorsale de la civilisation et la source des génies mutants de la race. (68:6.11)
 le génie et l'originalité créatrice sont très encouragés dans la principale nation continentale d'une planète habitée plus proche (72:6.7) (72:7.1)
 
 Gennésareth | | | PLACE | OK
@@ -450,36 +450,36 @@ C'est près de Gethsémani, un peu au-dessus du mont des Oliviers, que Jésus ad
 > https://en.wikipedia.org/wiki/Gethsemane
 
 fantômes; fantôme; Fantôme; Fantômes; superfantôme | (87) | | | OK
-Le culte des fantômes a évolué pour contrer les dangers de la malchance ; ses pratiques religieuses primitives étaient le résultat de l'anxiété face à la malchance et de la peur excessive des morts. (87:0.1)
-De nombreux peuples primitifs associaient les fantômes à la mer ; les vierges étaient donc soumises à de grandes restrictions dans leurs pratiques de bain ; les jeunes femmes avaient bien plus peur de se baigner dans la mer à marée haute que d'avoir des relations sexuelles. (84:1.4)
+Le culte des fantômes a évolué pour contrer les dangers de la malchance; ses pratiques religieuses primitives étaient le résultat de l'anxiété face à la malchance et de la peur excessive des morts. (87:0.1)
+De nombreux peuples primitifs associaient les fantômes à la mer; les vierges étaient donc soumises à de grandes restrictions dans leurs pratiques de bain; les jeunes femmes avaient bien plus peur de se baigner dans la mer à marée haute que d'avoir des relations sexuelles. (84:1.4)
 L'homme a hérité d'un environnement naturel, a acquis un environnement social et a imaginé un environnement fantôme. L'État est la réaction de l'homme à son environnement naturel, la maison à son environnement social, l'église à son environnement fantôme illusoire. (86:6)
 L'idée la plus primitive de l'âme humaine, le fantôme, est dérivée du système d'idées souffle-rêve. (86:4.3)
 Moïse a constamment cherché à déraciner les restes du culte des fantômes parmi son peuple, prescrivant même la peine de mort pour ses pratiquants. (92:5.11)
 peur des fantômes
 	La crainte des fantômes des morts a fait apparaître une forme de peur nouvelle et étonnante, une terreur effroyable et puissante, qui a contribué à transformer les ordres sociaux distendus des premiers âges en groupes primitifs plus disciplinés et mieux contrôlés des temps anciens. (68:3.3)
 	Les désirs primitifs ont produit la société originelle, mais la peur des fantômes l'a maintenue unie et a donné un aspect extrahumain à son existence. (68:2.4,6) (68:3.1,4) (68:4.3)
-	La peur des fantômes a poussé l'homme primitif à imaginer le surnaturel et a ainsi solidement établi les bases de ces puissantes influences sociales de l'éthique et de la religion qui, à leur tour, ont préservé inviolablement les mœurs et les coutumes de la société de génération en génération. La peur des fantômes a été la source de toutes les religions du monde ; et pendant des siècles, de nombreuses tribus se sont accrochées à la vieille croyance en une classe de fantômes. (68:4.3) (87:1) (87:4.1)
+	La peur des fantômes a poussé l'homme primitif à imaginer le surnaturel et a ainsi solidement établi les bases de ces puissantes influences sociales de l'éthique et de la religion qui, à leur tour, ont préservé inviolablement les mœurs et les coutumes de la société de génération en génération. La peur des fantômes a été la source de toutes les religions du monde; et pendant des siècles, de nombreuses tribus se sont accrochées à la vieille croyance en une classe de fantômes. (68:4.3) (87:1) (87:4.1)
 	a préparé l'esprit des hommes, par la crainte superstitieuse de l'irréel et du surnaturel, à la découverte ultérieure de « la crainte de l'Éternel, qui est le commencement de la sagesse » (68:3.3).
 	produit la crainte d'être seul (84:7.17)
 	Le sauvage vivait dans la peur des fantômes de ses semblables et passait son temps libre à planifier la conduite sûre de son propre fantôme après la mort. (87:3.3)
 	c'était une superstition insensée (68:3.3)
 nature et activités des fantômes
-	On a cru très tôt que les fantômes administraient la justice par l'intermédiaire des sorciers et des prêtres ; ces ordres étaient donc les premiers détecteurs de crimes et officiers de la loi. (70:10.5)
+	On a cru très tôt que les fantômes administraient la justice par l'intermédiaire des sorciers et des prêtres; ces ordres étaient donc les premiers détecteurs de crimes et officiers de la loi. (70:10.5)
 	On pensait autrefois que le grand désir d'un fantôme était d'être rapidement « mis à l'écart » afin de pouvoir continuer sans être dérangé vers le monde des morts. On croyait que toute erreur déplaisait au fantôme, et un fantôme en colère était censé être une source de calamité, de malheur et de malheur. (87:2.2)
-	La première hypothèse avancée pour expliquer la maladie et la mort était que les esprits provoquaient la maladie en attirant l'âme hors du corps ; si elle ne revenait pas, la mort s'ensuivait. (90:3.4)
+	La première hypothèse avancée pour expliquer la maladie et la mort était que les esprits provoquaient la maladie en attirant l'âme hors du corps; si elle ne revenait pas, la mort s'ensuivait. (90:3.4)
 	Bien que le sauvage ait attribué aux fantômes des pouvoirs surnaturels, il ne concevait guère qu'ils aient une intelligence surnaturelle. (87:1.2-5)
-	L'homme primitif considérait que les esprits et les fantômes avaient des droits presque illimités mais aucun devoir ; on pensait que les esprits considéraient l'homme comme ayant de multiples devoirs mais aucun droit. (87:5.1)
-	Les fantômes voulaient des épouses et des serviteurs ; un sauvage aisé s'attendait à ce qu'au moins une épouse esclave soit enterrée vivante à sa mort. (87:2.7)
+	L'homme primitif considérait que les esprits et les fantômes avaient des droits presque illimités mais aucun devoir; on pensait que les esprits considéraient l'homme comme ayant de multiples devoirs mais aucun droit. (87:5.1)
+	Les fantômes voulaient des épouses et des serviteurs; un sauvage aisé s'attendait à ce qu'au moins une épouse esclave soit enterrée vivante à sa mort. (87:2.7)
 	Et cette croyance en l'existence d'esprits désincarnés ou de fantômes semblait expliquer l'occurrence de l'inhabituel, de l'extraordinaire, du peu fréquent et de l'inexplicable. (86:4.4)
-	On supposait que les fantômes étaient dérangés et effrayés par le bruit ; les cris, les cloches et les tambours les éloignaient des vivants ; et ces anciennes méthodes sont toujours en vogue lors des « veillées funèbres » pour les morts. (87:6.11)
-	Plus tard encore, l'imagination humaine a imaginé le concept d'agents surnaturels bons et mauvais ; certains fantômes n'ont jamais évolué jusqu'au niveau de bons esprits. Lorsque la doctrine des bons et des mauvais esprits a finalement mûri, elle est devenue la plus répandue et la plus persistante de toutes les croyances religieuses. La philosophie primitive de l'homme n'a pu concilier la constance de l'esprit avec les vicissitudes de la fortune temporelle qu'en postulant deux sortes d'esprits, l'un bon et l'autre mauvais. (87:4)
+	On supposait que les fantômes étaient dérangés et effrayés par le bruit; les cris, les cloches et les tambours les éloignaient des vivants; et ces anciennes méthodes sont toujours en vogue lors des « veillées funèbres » pour les morts. (87:6.11)
+	Plus tard encore, l'imagination humaine a imaginé le concept d'agents surnaturels bons et mauvais; certains fantômes n'ont jamais évolué jusqu'au niveau de bons esprits. Lorsque la doctrine des bons et des mauvais esprits a finalement mûri, elle est devenue la plus répandue et la plus persistante de toutes les croyances religieuses. La philosophie primitive de l'homme n'a pu concilier la constance de l'esprit avec les vicissitudes de la fortune temporelle qu'en postulant deux sortes d'esprits, l'un bon et l'autre mauvais. (87:4)
 	L'humanité croyait généralement que les fantômes percevaient un tribut de service continu en guise de prix de leur non-ingérence dans les affaires humaines, et que le moindre malheur était imputé aux activités des fantômes. (87:5.1)
 	C'était une préférence supposée des fantômes d'habiter un objet qui leur avait appartenu lorsqu'ils étaient vivants dans la chair. (88:2.1)
-	La seule chose qui a établi et cristallisé très tôt les mœurs était la croyance que les morts étaient jaloux de la manière dont ils avaient vécu et étaient morts ; par conséquent, ils infligeraient un châtiment terrible aux mortels vivants qui osaient traiter avec un dédain insouciant les règles de vie qu'ils avaient honorées lorsqu'ils étaient dans la chair. (68:4.3)
+	La seule chose qui a établi et cristallisé très tôt les mœurs était la croyance que les morts étaient jaloux de la manière dont ils avaient vécu et étaient morts; par conséquent, ils infligeraient un châtiment terrible aux mortels vivants qui osaient traiter avec un dédain insouciant les règles de vie qu'ils avaient honorées lorsqu'ils étaient dans la chair. (68:4.3)
 	Le jeûne et d'autres formes d'abnégation étaient considérés comme agréables aux fantômes, qui prenaient plaisir à l'inconfort des vivants pendant la période de transition où ils rôdaient avant leur départ effectif pour le pays des morts. (87:2.4) (89:0.2)
 influence dans la religion
 	Dans la religion, le programme négatif d'apaisement des esprits a longtemps précédé le programme positif de coercition et de supplication des esprits. (87:2.1)
-	Aucune des religions primitives n'avait grand-chose à voir avec la reconnaissance de la Déité ou avec la vénération du surhumain ; leurs rites étaient pour la plupart négatifs, conçus pour éviter, expulser ou contraindre les fantômes. (87:0.1)
+	Aucune des religions primitives n'avait grand-chose à voir avec la reconnaissance de la Déité ou avec la vénération du surhumain; leurs rites étaient pour la plupart négatifs, conçus pour éviter, expulser ou contraindre les fantômes. (87:0.1)
 	Finalement, le sauvage se considéra comme un être double : un corps et un souffle. Le souffle sans le corps équivalait à un esprit, un fantôme. (86:4.4)
 	Les chamans ont hurlé pour chasser les fantômes responsables des maladies (90:4.3)
 	Toutes les tribus primitives, à l'exception de celles qui sont un peu au-dessus des animaux, ont développé une certaine conception de l'âme. (86:5)
@@ -576,8 +576,8 @@ Certains sont tentés d'aimer la gloire des hommes plus que la gloire de Dieu. (
 Jésus a dit : « Si quelqu'un veut réellement faire la volonté de mon Père, il connaîtra certainement ma doctrine, si elle vient de Dieu ou si je parle en mon nom propre. Celui qui parle en son nom cherche sa propre gloire, mais quand j'annonce les paroles du Père, je cherche par là la gloire de celui qui m'a envoyé. Ne cherchez pas dans votre vie quotidienne votre propre gloire, mais la gloire de Dieu. » (162:2.1) (175:1.10)
 
 moucherons; moucheron | | | | OK
-Jésus a dit un jour : « Mon peuple se prend trop au sérieux ; il est pratiquement dépourvu de sens de l'humour. La religion pesante des pharisiens n'aurait jamais pu naître chez un peuple doté d'un sens de l'humour. Ils manquent également de cohérence ; ils filtrent les moucherons et avalent les chameaux. » (156:2.8) (185:0.4)
-Et aussi : « Malheur à vous, scribes, pharisiens et autres hypocrites, qui prenez soin de payer la dîme de la menthe, de l'aneth et du cumin, et qui négligez en même temps les choses les plus importantes de la loi : la foi, la miséricorde et la justice ! Dans la mesure du raisonnable, vous auriez dû faire l'une, mais ne pas négliger l'autre. Vous êtes vraiment des guides aveugles et des enseignants muets ; vous filtrez le moucheron et avalez le chameau. » (175:1.17)
+Jésus a dit un jour : « Mon peuple se prend trop au sérieux; il est pratiquement dépourvu de sens de l'humour. La religion pesante des pharisiens n'aurait jamais pu naître chez un peuple doté d'un sens de l'humour. Ils manquent également de cohérence; ils filtrent les moucherons et avalent les chameaux. » (156:2.8) (185:0.4)
+Et aussi : « Malheur à vous, scribes, pharisiens et autres hypocrites, qui prenez soin de payer la dîme de la menthe, de l'aneth et du cumin, et qui négligez en même temps les choses les plus importantes de la loi : la foi, la miséricorde et la justice ! Dans la mesure du raisonnable, vous auriez dû faire l'une, mais ne pas négliger l'autre. Vous êtes vraiment des guides aveugles et des enseignants muets; vous filtrez le moucheron et avalez le chameau. » (175:1.17)
 
 objectifs; but | | ambitions; consécration du choix; destin; progrès; réalisation de soi; volonté | | OK
 atteindre des objectifs
@@ -587,13 +587,13 @@ atteindre des objectifs
 	L'état humain idéal est celui dans lequel la philosophie, la religion et la science sont soudées en une unité significative par l'action conjointe de la sagesse, de la foi et de l'expérience. (98:2.12)
 	Si nous nous soumettons aux directives des forces spirituelles en nous et autour de nous, nous ne pouvons manquer d'atteindre la haute destinée établie par un Dieu aimant comme but universel de ses créatures ascendantes issues des mondes évolutionnaires de l'espace. (5:1.12)
 	La véritable destinée de l'homme consiste à créer des objectifs nouveaux et spirituels, puis à répondre aux attraits cosmiques de ces objectifs célestes de valeur immatérielle. (12:9.1)
-	Les mortels d'Urantia peuvent difficilement espérer être parfaits au sens infini du terme, mais il est tout à fait possible aux êtres humains, débutant comme ils le font sur cette planète, d'atteindre le but céleste et divin que le Dieu infini a fixé pour l'homme mortel ; et lorsqu'ils atteindront cette destinée, ils seront, dans tout ce qui concerne la réalisation de soi et l'accomplissement mental, tout aussi comblés dans leur sphère de perfection divine que Dieu lui-même l'est dans sa sphère d'infinité et d'éternité. (1:0.5)
+	Les mortels d'Urantia peuvent difficilement espérer être parfaits au sens infini du terme, mais il est tout à fait possible aux êtres humains, débutant comme ils le font sur cette planète, d'atteindre le but céleste et divin que le Dieu infini a fixé pour l'homme mortel; et lorsqu'ils atteindront cette destinée, ils seront, dans tout ce qui concerne la réalisation de soi et l'accomplissement mental, tout aussi comblés dans leur sphère de perfection divine que Dieu lui-même l'est dans sa sphère d'infinité et d'éternité. (1:0.5)
 	Les buts, ce que l'imagination humaine éclairée et réfléchie de l'enseignement et de la direction spirituelles veut faire et être de tout cœur et de manière désintéressée, deviennent mesurablement créatifs en fonction du degré de dévouement mortel à l'accomplissement divin de la volonté du Père. (132:7.9)
 	Le bonheur le plus élevé est lié à la poursuite intelligente et enthousiaste d'objectifs louables, et de telles réalisations constituent un véritable progrès dans la réalisation cosmique de soi. (94:8.17)
-	Le but de la vie doit être jalousement protégé de la tentation de rechercher des réalisations faciles et transitoires ; de même, il doit être encouragé de manière à devenir immunisé contre les menaces désastreuses du fanatisme. (160:3.5)
+	Le but de la vie doit être jalousement protégé de la tentation de rechercher des réalisations faciles et transitoires; de même, il doit être encouragé de manière à devenir immunisé contre les menaces désastreuses du fanatisme. (160:3.5)
 	La religion paie n'importe quel prix essentiel à l'atteinte du but suprême, le prix éternel. (100:3.1)
 	À Havona, les pèlerins ascendants découvrent ce que signifient la véritable étude et le véritable effort mental lorsqu'ils commencent à discerner la nature de l'effort spirituel encore plus éprouvant et bien plus ardu qui sera nécessaire pour répondre aux exigences du but élevé fixé pour leur réalisation sur les mondes de ce circuit. (26:7.1)
-	« Avec Dieu, tout est possible ; le Créateur éternel est la cause des causes. » (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
+	« Avec Dieu, tout est possible; le Créateur éternel est la cause des causes. » (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	le travail est important, le moi ne l'est pas (48:6.37)
 valeur des objectifs
 	Dieu le Père traite l'homme, son enfant, non pas sur la base de la vertu ou de la dignité réelle, mais en reconnaissance de la motivation de l'enfant – le but et l'intention de la créature. (103:4.5)
@@ -609,7 +609,7 @@ objectifs suprêmes
 	* atteindre la perfection | perfection
 	* arriver à Ascendington, la sphère de statut ultime (13:0.6)
 	* l'atteinte de l'Être suprême, puis de Dieu l'Ultime (0:7.10) (0:9.1)
-	* Le grand but de l'existence humaine est de s'harmoniser avec la divinité de l'Ajusteur intérieur ; la grande réalisation de la vie mortelle est l'obtention d'une consécration véritable et compréhensive aux objectifs éternels de l'esprit divin qui attend et travaille dans votre esprit. (110:3.4)
+	* Le grand but de l'existence humaine est de s'harmoniser avec la divinité de l'Ajusteur intérieur; la grande réalisation de la vie mortelle est l'obtention d'une consécration véritable et compréhensive aux objectifs éternels de l'esprit divin qui attend et travaille dans votre esprit. (110:3.4)
 	* devenir finalitaire (14:6.39)
 	* la réalisation sociale de la fraternité humaine et le statut personnel de la conscience de Dieu (71:4.15) (143:1.4)
 	* consécration à la volonté du Père et loyauté au Fils Créateur (20:1.14)
@@ -621,11 +621,11 @@ objectifs suprêmes
 	* le but des siècles : Dieu, le repos, puis l'éternité du service parfait (24:6.1)
 	* l'accomplissement final de la perfection de la foi et du service, cette expérience dans laquelle nous serons « remplis de toute la plénitude de Dieu » (34:6.10)
 	* Le service — plus de service, un service accru, un service difficile, un service aventureux et enfin un service divin et parfait — est le but du temps et la destination de l'espace. (28:6.17)
-	* Le but de l'existence de toutes les personnalités est l'esprit ; les manifestations matérielles sont relatives, et le mental cosmique intervient entre ces opposés universels. (12:8.13) (16:4.6)
+	* Le but de l'existence de toutes les personnalités est l'esprit; les manifestations matérielles sont relatives, et le mental cosmique intervient entre ces opposés universels. (12:8.13) (16:4.6)
 	* trinitisation, pour certains (13:1.13)
 	* La quête éternelle est celle de l'unification, de la cohérence divine. (2:7.7)
 	* La sagesse est le but d'une existence purement mentale et morale. (36:5.12)
-	Dans un monde en perpétuel changement, au sein d'un ordre social en pleine évolution, il est impossible de maintenir des objectifs de destinée fixes et établis. La stabilité de la personnalité ne peut être expérimentée que par ceux qui ont découvert et accepté le Dieu vivant comme le but éternel de l'accomplissement infini. Ainsi, pour transférer son but du temps à l'éternité, de la terre au Paradis, de l'humain au divin, l'homme doit se régénérer, se convertir, naître de nouveau ; il doit devenir l'enfant recréé de l'esprit divin ; il doit accéder à la fraternité du royaume des cieux. (160:1.14)
+	Dans un monde en perpétuel changement, au sein d'un ordre social en pleine évolution, il est impossible de maintenir des objectifs de destinée fixes et établis. La stabilité de la personnalité ne peut être expérimentée que par ceux qui ont découvert et accepté le Dieu vivant comme le but éternel de l'accomplissement infini. Ainsi, pour transférer son but du temps à l'éternité, de la terre au Paradis, de l'humain au divin, l'homme doit se régénérer, se convertir, naître de nouveau; il doit devenir l'enfant recréé de l'esprit divin; il doit accéder à la fraternité du royaume des cieux. (160:1.14)
 
 chèvres; chèvre | | | | OK
 les chèvres ont été domestiquées vers 5000 av. J.-C. grâce aux agriculteurs mésopotamiens, turkestanais et chinois (81:2.12)
@@ -644,7 +644,7 @@ Les Fils Créateurs sont Dieu dans ses univers locaux (33:1.4) | Michel de Néba
 il n'est présent que de manière perceptible au Paradis et à Havona (3:1.6)
 il est littéralement présent au Paradis (11:1)
 les qualités divines sont parfaitement unifiées en Dieu (44:7.4)
-Dieu, en tant que superpersonne, se réalise ; Dieu, en tant que personne, crée ; Dieu, en tant que prépersonne, se fragmente en Ajusteurs (30:1.99)
+Dieu, en tant que superpersonne, se réalise; Dieu, en tant que personne, crée; Dieu, en tant que prépersonne, se fragmente en Ajusteurs (30:1.99)
 Le Livre d'Urantia propose un document, le 97e, sur l'évolution du concept de Dieu (97) (5:4.9-13) (5:5.12) (142:3)
 dans la relation de Dieu avec les univers locaux, il semble qu'il se retire de l'activité en faveur des êtres créés et des Créateurs de lui, mais il y a aussi une participation réelle, littérale et personnelle de la part de Dieu (32:4)
 Dieu fonctionne non seulement dans des capacités parentales, mais aussi dans des capacités non paternelles telles que les relations de force, d'énergie, de puissance, de causalité, de réaction, de potentialité, d'actualité, de gravité, de tension, d'archétype, de principe et d'unité de Dieu (104:2.6).
@@ -656,7 +656,7 @@ terme « Dieu »
 	Le mot Dieu ne peut pas être défini et représente le concept infini du Père, mais comme le mot Père peut être partiellement défini, il peut être utilisé pour représenter le concept humain du Père divin (0:2.9) (1:7.1) (169:4.7)
 	Dieu doit être compris comme la réalité des valeurs, la substance des significations et la vie de la vérité (5:4.2)
 	les définitions théologiques de Dieu doivent changer à chaque époque (5:5.12)
-également connu sous le nom | Déité:également connu sous le nom ; Père universel:également connu sous le nom
+également connu sous le nom | Déité:également connu sous le nom; Père universel:également connu sous le nom
 	* Adonaï (96:1.9)
 	* Allah (95:7.6)
 	* Ancien des jours (96:1.9)
@@ -726,7 +726,7 @@ trouver Dieu | foi; croissance spirituelle
 	le désir de trouver Dieu est la preuve qu'on l'a trouvé (130:8.2) (131:10.4) (195:6.16)
 	nous devons discerner Dieu à travers sa création et les révélations de ses Fils (1:5.3)
 	l'homme atteint l'union divine par la communion spirituelle progressive et réciproque, conformément à la volonté divine (1:7.2)
-	l'échec dans l'aventure de la Déité demeure dans les univers ; la deuxième tentative est toujours couronnée de succès (25:8.9) (26:8.3-5)
+	l'échec dans l'aventure de la Déité demeure dans les univers; la deuxième tentative est toujours couronnée de succès (25:8.9) (26:8.3-5)
 	la foi révèle Dieu dans l'âme (101:2.10)
 	il y en a peu qui ont réussi à trouver Dieu au Paradis (11:1.3)
 	On peut trouver Dieu par la soumission à l'esprit | soumission
@@ -820,7 +820,7 @@ Dieu et l'homme
 	nous montrons encore une certaine volonté de négocier avec Dieu (87:6.17)
 	Une personne ne peut commencer à comprendre l'unité de Dieu qu'à travers l'approche de la personnalité (1:5.11)
 	De grandes choses se produisent lorsque l'homme s'associe à Dieu (132:7.9)
-	Dieu n'est pas seulement celui qui détermine le destin ; il est le destin éternel de l'homme (5:4.3)
+	Dieu n'est pas seulement celui qui détermine le destin; il est le destin éternel de l'homme (5:4.3)
 idées fausses sur Dieu (1:2.2) (4:5) (12:7.6) (102:6.3) (188:4.8) (188:5.1,11) (196:3.24)
 	les tribus anciennes ont commis de nombreuses atrocités exécutées au nom de Dieu (70:1.15)
 	tout ce qui était inhabituel a été attribué à l'intervention personnelle de Dieu (75:4.8)
@@ -836,10 +836,10 @@ idées fausses sur Dieu (1:2.2) (4:5) (12:7.6) (102:6.3) (188:4.8) (188:5.1,11) 
 	les révélateurs ne peuvent expliquer Dieu qu'avec l'aide des Ajusteurs et de l'Esprit de Vérité (2:0.3)
 	l'âme conclut que l'homme n'a pas le droit de ne pas croire en Dieu (101:1.7) (101:9.3)
 	pour comprendre Dieu, il faut explorer les faits universels (102:6.6)
-	Pour la science, Dieu est une possibilité ; pour la psychologie, une chose désirable ; pour la philosophie, une probabilité ; pour la religion, une certitude (102:6.8)
+	Pour la science, Dieu est une possibilité; pour la psychologie, une chose désirable; pour la philosophie, une probabilité; pour la religion, une certitude (102:6.8)
 > https://en.wikipedia.org/wiki/Dieu
 
-Dieu d'action | | Esprit infini | PERSON | OK
+Dieu d'action | | Esprit Infini | PERSON | OK
 
 Dieu l'Absolu | (0:10.1-2) | | PERSON | OK
 La Déité Absolue fait l'expérience de l'identité avec l'Absolu Non Qualifié dans (0:2.18)
@@ -855,11 +855,11 @@ Dieu le Père | | Père Universel | PERSON | OK
 
 Dieu le Septuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 composé de (56:5.3) (116:2.4-11)
-	# Fils Créateurs, Esprits Mères de l'univers local
+	# Fils Créateurs, Esprits-Mères des univers locaux
 	# Anciens des Jours
 	# Les Sept Esprits Maîtres
 	# Être suprême
-	# Esprit infini
+	# Esprit Infini
 	# Fils Éternel
 	# Père Universel
 Les Fils Créateurs sont des focalisations finales de la puissance-personnalité (33:1.3)
@@ -879,7 +879,7 @@ fonction
 
 Dieu le Fils | | Fils Éternel | PERSON | OK
 
-Dieu l'Esprit | | Esprit infini | PERSON | OK
+Dieu l'Esprit | | Esprit Infini | PERSON | OK
 
 Dieu le Suprême | | Suprême | PERSON | OK
 
@@ -909,7 +909,7 @@ relation avec Trinity et autres
 	L'Esprit Infini compense l'incomplétude de (9:1.6)
 	Trinity collabore avec GtU, pas avec les divinités individuellement (10:7.3)
 	les finalistes font face au défi de (27:7.10)
-	identifié aux transcendantaux ; absonites (105:7.3-5)
+	identifié aux transcendantaux; absonites (105:7.3-5)
 	Les transcendantaux sont soumis à (31:8.3)
 	peut doter les midsoniters d'un esprit d'absonité (36:4.8)
 avenir
@@ -925,7 +925,7 @@ Divinités | | Fils Éternel; Esprit Infini; Père Universel | PERSON | OK
 Se réfère à
 	# Père Universel
 	# Fils Éternel
-	# Esprit infini
+	# Esprit Infini
 
 Ressemblance à Dieu | | croissance spirituelle | | OK
 
@@ -1017,7 +1017,7 @@ noms
 	* Zeus | Zeus
 
 or; Or | | | | OK
-L'or fut le premier métal recherché par l'homme ; il était facile à travailler et, au début, il ne servait qu'à décorer. (81:3.4-5)
+L'or fut le premier métal recherché par l'homme; il était facile à travailler et, au début, il ne servait qu'à décorer. (81:3.4-5)
 Ils ont voyagé aux quatre coins du monde à la recherche de silex, tout comme les humains d'aujourd'hui voyagent jusqu'aux extrémités de la terre à la recherche d'or, de platine et de diamants. (63:5.6)
 l'or était le produit des coulées de lave dans les Sierras (60:3.3)
 Chaque enfant créé peut dire en vérité : « Il connaît la voie que je prends, et quand il m'aura éprouvé, j'en sortirai comme de l'or. » (3:3.2)
@@ -1035,17 +1035,17 @@ les veaux d'argent et d'or symbolisaient la conception des bergers bédouins de 
 
 règle d'or | (52:5.8) (101:8.4) | commandements | | OK
 Les « dirigeants d'or » peuvent établir une société progressiste dans laquelle ils vivront selon leurs idéaux tout en maintenant une défense adéquate contre leurs semblables obscurs qui pourraient chercher soit à exploiter leurs prédilections pacifiques, soit à détruire leur civilisation en progrès. (71:4.16-17)
-Les Andonites ont été instruits très tôt de la règle d'or, et, aujourd'hui encore, leurs descendants esquimaux vivent en grande partie selon ce code ; la coutume est forte parmi eux, et ils sont relativement exempts d'antagonismes violents. (70:1.2)
+Les Andonites ont été instruits très tôt de la règle d'or, et, aujourd'hui encore, leurs descendants esquimaux vivent en grande partie selon ce code; la coutume est forte parmi eux, et ils sont relativement exempts d'antagonismes violents. (70:1.2)
 la règle d'or a été enseignée dans le jardin d'Eden (74:7.5,18)
 La règle d'or de Jésus était basée sur la valeur infinie du fini (196:2.10)
 La règle d'or de l'équité humaine dénonce toute fraude, toute injustice, tout égoïsme et toute injustice. (54:1.8)
 il y a deux niveaux de la règle d'or : l'amour fraternel et l'amour paternel (140:5.1) (147:4)
 La règle d'or, interprétée littéralement, peut devenir l'instrument d'une grande offense envers ses semblables. (180:5.5)
 Le culte des insectes et d'autres animaux a été encouragé par une interprétation erronée ultérieure de la règle d'or : faire aux autres (à toute forme de vie) ce que l'on voudrait qu'on nous fasse. (85:3.4)
-La religion évolutionniste enseigne à l'individu l'idée du devoir personnel ; la religion révélée met de plus en plus l'accent sur l'amour, la règle d'or. (101:5.11)
+La religion évolutionniste enseigne à l'individu l'idée du devoir personnel; la religion révélée met de plus en plus l'accent sur l'amour, la règle d'or. (101:5.11)
 vivre la règle d'or
 	les êtres éthiques et moraux peuvent apprendre à vivre selon la règle d'or (50:5.8)
-	La règle d'or telle que réitérée par Jésus exige un contact social actif ; l'ancienne règle négative pouvait être respectée de manière isolée. (140:10.5) (159:5.16) (178:1.12)
+	La règle d'or telle que réitérée par Jésus exige un contact social actif; l'ancienne règle négative pouvait être respectée de manière isolée. (140:10.5) (159:5.16) (178:1.12)
 	Seuls les êtres moraux rechercheront la perspicacité spirituelle qui est essentielle pour vivre selon la règle d'or. (52:6.5)
 	la règle d'or ne peut être comprise qu'en la vivant, en réalisant sa signification dans l'interprétation vivante de l'Esprit de Vérité, qui dirige le contact affectueux d'un être humain avec un autre. (180:5.11)
 énoncés de la règle d'or
@@ -1082,7 +1082,7 @@ Jésus était le bon berger (182:1.16)
 Jésus a prêché le sermon sur le « Bon Pasteur » devant un groupe de plus de trois cents habitants de Jérusalem, des pharisiens et d'autres, ses ennemis acharnés, et devant les apôtres (165:1.2) (165:2)
 
 bonté; bien; Bien; Bonté | | vérité, beauté et bonté | | OK
-La divinité est une créature compréhensible comme vérité, beauté et bonté ; corrélée à la personnalité comme amour, miséricorde et ministère ; révélée sur des niveaux impersonnels comme justice, puissance et souveraineté. (0:1.17)
+La divinité est une créature compréhensible comme vérité, beauté et bonté; corrélée à la personnalité comme amour, miséricorde et ministère; révélée sur des niveaux impersonnels comme justice, puissance et souveraineté. (0:1.17)
 « Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu », « car les yeux de l'Éternel sont sur les justes, et ses oreilles sont attentives à leurs prières. » (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1) | providence
 Notre Père céleste permet que le bien et le mal cohabitent jusqu'à la fin de la vie, tout comme la nature permet au blé et à l'ivraie de croître côte à côte jusqu'à la moisson. (4:2.6) (130:1.5-6) (132:2) (159:5.10)
 L'idéalisation et la tentative de servir la vérité, la beauté et la bonté ne remplacent pas une véritable expérience religieuse – la réalité spirituelle. (196:3.23)
@@ -1106,7 +1106,7 @@ défini comme
 	Dans la mesure où l'âme morontielle évolutive de l'homme est imprégnée de vérité, de beauté et de bonté en tant que réalisation de la valeur de la conscience de Dieu, un tel être résultant devient indestructible. (111:3.7)
 la bonté de Dieu (2:6)
 	Dieu étend sa main bienfaisante sur le juste comme sur le méchant. (131:5.2)
-	La bonté infinie du Père dépasse la compréhension de l'esprit fini du temps ; par conséquent, il faut toujours prévoir un contraste avec le mal comparatif (et non le péché) pour la démonstration efficace de toutes les phases de la bonté relative. (4:3.6)
+	La bonté infinie du Père dépasse la compréhension de l'esprit fini du temps; par conséquent, il faut toujours prévoir un contraste avec le mal comparatif (et non le péché) pour la démonstration efficace de toutes les phases de la bonté relative. (4:3.6)
 	Dans l'univers physique, nous pouvons voir la beauté divine, dans le monde intellectuel, nous pouvons discerner la vérité éternelle, mais la bonté de Dieu ne se trouve que dans le monde spirituel de l'expérience religieuse personnelle. (2:6.1)
 	Après tout, la plus grande preuve de la bonté de Dieu et la raison suprême de l'aimer est le don intérieur du Père – l'Ajusteur qui attend si patiemment l'heure où vous serez tous deux éternellement un. (2:5.5)
 	« La richesse de la bonté de Dieu conduit l'homme égaré à la repentance. » (2:6.3) (48:6.8) (131:10.4) (143:2.7) (149:6.4)
@@ -1118,15 +1118,15 @@ Jésus et la bonté
 	Jésus allait de lieu en lieu faisant du bien (100:7.8) (159:5.10) (171:7.9)
 	Nathanaël demanda : « Maître, ne laisserons-nous pas la justice s'exercer ? La loi de Moïse dit : Œil pour œil, et dent pour dent. Que dirons-nous ? » Et Jésus répondit : « Tu rendras le bien pour le mal. » (140:6.9)
 nature de la bonté
-	Sur les mondes des maisons, ils proclament la grande loi de la conservation et de la domination de la bonté : Aucun acte de bien n'est jamais entièrement perdu ; il peut être longtemps contrecarré mais jamais complètement annulé, et il est éternellement puissant en proportion de la divinité de sa motivation. (48:6.7)
+	Sur les mondes des maisons, ils proclament la grande loi de la conservation et de la domination de la bonté : Aucun acte de bien n'est jamais entièrement perdu; il peut être longtemps contrecarré mais jamais complètement annulé, et il est éternellement puissant en proportion de la divinité de sa motivation. (48:6.7)
 	toute bonté prend son origine dans le Père (8:2.7)
 	puisque la qualité de la grandeur est entièrement déterminée par le contenu de la bonté, il s'ensuit que, même dans votre état humain actuel, si vous pouvez par la grâce devenir bon, vous devenez par là même grand. (28:6.22)
 	La véritable bonté est comme l'eau en ce sens qu'elle bénit tout et ne nuit à rien. Et comme l'eau, la véritable bonté recherche les endroits les plus bas, même les niveaux que les autres évitent (131:8.3)
 	La grandeur et la bonté ne peuvent tout simplement pas être dissociées. (28:6.21) (56:10.12) (100:7.17)
 	la bonté détruit efficacement le mal. (188:5.2)
 	la bonté peut provenir d'un mal limité dans le temps (54:6.6-10)
-	La justice de tout acte doit être mesurée par le motif ; les formes les plus élevées du bien sont donc inconscientes. (140:8.26) (170:3.9)
-	Les goûts et les dégoûts humains ne déterminent pas le bien et le mal ; les valeurs morales ne naissent pas de la réalisation de désirs ou de frustrations émotionnelles. (100:3.2)
+	La justice de tout acte doit être mesurée par le motif; les formes les plus élevées du bien sont donc inconscientes. (140:8.26) (170:3.9)
+	Les goûts et les dégoûts humains ne déterminent pas le bien et le mal; les valeurs morales ne naissent pas de la réalisation de désirs ou de frustrations émotionnelles. (100:3.2)
 	aucune bonne action n'est jamais complètement perdue (48:6.7)
 	c'est compréhensible par contraste avec le mal (4:3.6)
 	La bonté, la droiture et la justice sont philosophiquement interdépendantes et spirituellement liées à la vérité vivante et à la beauté divine. (44:7.2-4)
@@ -1148,7 +1148,7 @@ Ceux qui connaissent l'Évangile seulement dans leur esprit et qui ne l'ont pas 
 L'Évangile du royaume appartient à tous ceux qui y croient; il ne sera pas confié à la garde de simples sacrificateurs. (191:6.3)
 les gens ordinaires écoutent volontiers l'évangile (173:3.2) (174:4.7) (196:1.4)
 nous ne devrions pas essayer d'adapter le nouvel évangile de Jésus aux anciennes formes de croyance religieuse (138:5.2) (140:6.2) (147:7.2-3)
-L'ancienne religion était motivée par la peur ; le nouvel évangile du royaume est dominé par la conviction de vérité, l'esprit de vérité éternelle et universelle. (180:5.12)
+L'ancienne religion était motivée par la peur; le nouvel évangile du royaume est dominé par la conviction de vérité, l'esprit de vérité éternelle et universelle. (180:5.12)
 La preuve de la foi en l'Évangile est l'amour manifesté les uns envers les autres (182:1.6)
 L'Évangile libère les hommes des traditions pesantes d'une religion formelle de cérémonies que les anciens enseignants sont déterminés à maintenir à tout prix. (162:2.2)(170:2.1-2)
 celui qui nie sciemment l'évangile devant les hommes sera renié par les anges du ciel (165:3.5)
@@ -1163,7 +1163,7 @@ L'Évangile expliqué | religion:expliquée
 	L'évangile de la bonne nouvelle selon lequel l'homme mortel peut, par la foi, devenir spirituellement conscient qu'il est un fils de Dieu, ne dépend pas de la mort de Jésus. (140:10.4,7)(141:4.2)(142:3.8)(181:2.12,18)(186:5.4)
 	Le Maître a mis l'accent sur les cinq points suivants comme représentant les caractéristiques cardinales de l'évangile du royaume : (170:4.8-13)
 		# le caractère sacré de l'individu. Jésus n'a jamais manqué d'exalter le caractère sacré de l'individu par rapport à la communauté. (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:3.10-11) (170:4.9) (171:7.4) (194:3.7) (195:1.1)
-		# La volonté comme facteur déterminant dans l'expérience humaine. (170:4.10) | consécration du choix ; décisions ; volonté
+		# La volonté comme facteur déterminant dans l'expérience humaine. (170:4.10) | consécration du choix; décisions; volonté
 		# Communion spirituelle avec Dieu le Père. (170:4.11) | communion spirituelle; croissance spirituelle; renaissance spirituelle
 		# Les satisfactions suprêmes du service aimant de l'homme. (170:4.12) | service
 		# La transcendance du spirituel sur le matériel dans la personnalité humaine. (170:4.13)
@@ -1173,26 +1173,26 @@ L'Évangile expliqué | religion:expliquée
 	L'Évangile est fondé sur le fait que la vie de Jésus révèle Dieu (191:5.3)
 	En prêchant l'Évangile du royaume, nous enseignons simplement l'amitié avec Dieu. (159:3.9)
 	il n'y a qu'un seul Évangile du royaume : la bonne nouvelle du don de la vie éternelle que les hommes reçoivent par la foi. (191:4.3)
-	Voici l'Évangile : « Le royaume des cieux, c'est ici : Dieu est votre Père, et vous êtes ses fils ; et cette bonne nouvelle, si vous la croyez de tout votre cœur, est votre salut éternel. » (141:6.2,4) (141:7.4) (147:3.3)
+	Voici l'Évangile : « Le royaume des cieux, c'est ici : Dieu est votre Père, et vous êtes ses fils; et cette bonne nouvelle, si vous la croyez de tout votre cœur, est votre salut éternel. » (141:6.2,4) (141:7.4) (147:3.3)
 	L'Évangile de Jésus doit refléter, non pas tant la personnalité de Jésus, mais plutôt ses enseignements. (166:0.2) (170:5.19)
 	L'acceptation de l'Évangile, a déclaré Jésus, libérerait l'homme de l'esclavage séculaire de la peur animale et enrichirait en même temps la vie humaine avec les dons de la nouvelle vie de liberté spirituelle (136:0.2) (170:2.1-2).
 	L'Évangile du royaume concerne l'amour du Père et le service de ses enfants sur terre. (142:4.2) (178:1.4) (193:0.4)
 	L'évangile de la bonne nouvelle selon lequel l'homme mortel peut, par la foi, devenir spirituellement conscient qu'il est un fils de Dieu, ne dépend pas de la mort ou de la résurrection de Jésus. (138:6.3) (186:5.4) (193:2.2) (194:0.3,7) (194:4.4-5)
 	l'évangile est une révélation de la bonté de Dieu (150:5.5)
 	Jésus a mis l'accent sur ce qu'il a appelé les deux vérités de première importance dans les enseignements du royaume, et ce sont : l'obtention du salut par la foi, et la foi seule, associée à l'enseignement révolutionnaire de l'obtention de la liberté humaine par la reconnaissance sincère de la vérité (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4)(170:2.20-22)
-	L'Évangile devrait être : « Cherchez premièrement le royaume et la justice de Dieu ; en les trouvant, toutes les autres choses essentielles à la survie éternelle seront assurées. » (140:1.5)
+	L'Évangile devrait être : « Cherchez premièrement le royaume et la justice de Dieu; en les trouvant, toutes les autres choses essentielles à la survie éternelle seront assurées. » (140:1.5)
 	Le soi-disant « Sermon sur la montagne » n'est pas l'évangile de Jésus. C'était la mission personnelle du Maître adressée à ceux qui devaient continuer à prêcher l'évangile et à aspirer à le représenter dans le monde (140:4.1).
 	L'Évangile de Jésus, tel qu'il l'a prêché et vécu à son époque, a été un moyen efficace de résoudre les difficultés spirituelles de l'homme à l'époque où il a été proclamé. (194:2.1)
 	La vérité, la beauté, la bonté, l'amour et l'adoration deviennent significatives en tant que communion avec l'homme et filiation avec Dieu. (99:4.4)
 	Les efforts intellectuels peuvent révéler les faits de la vie, mais l'Évangile du royaume dévoile les vérités de l'être. (146:3.1)
 diffusion de l'évangile
-	Jésus a maintenu divers groupes de messagers de l'Évangile : ses apôtres, ses disciples, les soixante-dix évangélistes et le corps des messagers de David Zébédée | apôtres de Jésus ; disciples ; évangélistes ; corps des messagers (David Zébédée)
+	Jésus a maintenu divers groupes de messagers de l'Évangile : ses apôtres, ses disciples, les soixante-dix évangélistes et le corps des messagers de David Zébédée | apôtres de Jésus; disciples; évangélistes; corps des messagers (David Zébédée)
 	Si l'Évangile de Jésus était resté tel qu'il l'a présenté, le seul commentaire étant l'interprétation inspirée offerte par sa vie terrestre, toutes les nations et toutes les religions du monde auraient rapidement adopté cet Évangile du royaume. (149:2.1)
-	Maintenant que nous jouissons aujourd'hui des avantages de l'art de l'imprimerie, nous ne comprenons guère combien il était difficile de perpétuer la vérité à cette époque reculée ; combien il était facile de perdre de vue une nouvelle doctrine d'une génération à l'autre. (93:7.4)
+	Maintenant que nous jouissons aujourd'hui des avantages de l'art de l'imprimerie, nous ne comprenons guère combien il était difficile de perpétuer la vérité à cette époque reculée; combien il était facile de perdre de vue une nouvelle doctrine d'une génération à l'autre. (93:7.4)
 	À mesure que l'Évangile de ce royaume se répandra dans le monde entier avec son message de bonne humeur et de bonne volonté envers tous les hommes, les relations entre les familles de toutes les nations s'amélioreront et deviendront meilleures. (142:2.2) (143:1.4) (176:1.1)
 Autres évangiles
 	Les receveurs de Melchizédek ont proclamé un évangile de résurrection et de réhabilitation à Adam et Ève, et ils ont pleinement cru (76:5.1)
-proclamer l'évangile | gouvernement:relation des croyants avec ; royaume des cieux:établissement
+proclamer l'évangile | gouvernement:relation des croyants avec; royaume des cieux:établissement
 	Lorsque nous proclamons l'Évangile, nous ne devons pas commettre l'erreur de condamner uniquement les torts dans la vie de nos élèves, mais aussi de reconnaître généreusement les choses les plus louables dans leur vie. (159:3.3)
 	Toute la Terre d'Urantia attend la proclamation du message ennoblissant de Micaël, libéré des doctrines et des dogmes accumulés au cours de dix-neuf siècles de contact avec les religions d'origine évolutionnaire. L'heure est venue de présenter au bouddhisme, au christianisme, à l'hindouisme et même aux peuples de toutes les croyances, non pas l'évangile de Jésus, mais la réalité vivante et spirituelle de l'évangile de Jésus. (94:12.7)
 	nous devons permettre aux enseignants apostoliques d'enseigner leurs propres points de vue sur l'évangile (148:1.2)
@@ -1201,7 +1201,7 @@ proclamer l'évangile | gouvernement:relation des croyants avec ; royaume des ci
 	choses à éviter
 		nous ne devrions pas faire appel à la peur, à l'esprit, à l'hystérie religieuse, à l'émotion, à la pitié ou au sentiment (152:6.2-4) (159:3.2,5)
 		c'est une folie de créer des situations artificielles dans le but de faire preuve d'une autorité arbitraire ou d'exercer un pouvoir exceptionnel dans le but d'améliorer les valeurs morales ou d'accélérer le progrès spirituel (136:8.8) (137:6.5) (140:1.5)
-		les anciennes méthodes ne doivent pas être attaquées, et il ne faut pas réformer davantage ; nous devons plutôt ajouter une nouvelle vérité (95:1.6-9) (132:0.4) (141:6.2) (178:1.16)
+		les anciennes méthodes ne doivent pas être attaquées, et il ne faut pas réformer davantage; nous devons plutôt ajouter une nouvelle vérité (95:1.6-9) (132:0.4) (141:6.2) (178:1.16)
 		Jésus a interdit aux apôtres de s'impliquer dans la politique (120:3.4) (137:7.5,12) (139:11.9) (140:8.9) (167:5.6)
 		Jésus n'a jamais eu recours à des tactiques ignobles pour répondre aux attaques fausses et injustes de ses ennemis. Nous devons de la même manière éviter la malhonnêteté et l'injustice dans tous nos efforts pour prêcher la vérité et proclamer l'Évangile. (125:5.8) (128:4.7) (149:4.5) (156:5.19) (166:4.12)
 		nous devons éviter les détails distrayants, le langage fleuri et la simple imagerie poétique d'un jeu de mots (159:5.17)
@@ -1210,19 +1210,19 @@ proclamer l'évangile | gouvernement:relation des croyants avec ; royaume des ci
 		nous ne devons jamais commettre l'erreur d'identifier l'évangile à une race, une culture ou un système politique particulier (140:8.9-31) (140:10.6) (142:7.17) (194:3.9)
 		nous ne devons pas nous livrer au sarcasme ou au cynisme aux dépens de frères simples d'esprit (159:3.4)
 		nous n'avons pas besoin d'utiliser des arguments, des appels ou des miracles accablants (129:3.5) (136:6.6) (136:8.2) (159:3.2)
-		Une cause juste ne devrait jamais être promue par la force ; les victoires spirituelles ne peuvent être remportées que par la puissance spirituelle. (152:6.2-4) (159:3.2,5) (178:1.2-3,6)
+		Une cause juste ne devrait jamais être promue par la force; les victoires spirituelles ne peuvent être remportées que par la puissance spirituelle. (152:6.2-4) (159:3.2,5) (178:1.2-3,6)
 		Les chrétiens commettent une grave erreur lorsqu'en présentant le Christ comme l'idéal suprême du leadership spirituel, ils osent exiger des hommes et des femmes conscients de Dieu qu'ils rejettent le leadership historique des hommes connaissant Dieu qui ont contribué à leur illumination nationale ou raciale particulière au cours des âges passés. (99:5.11)
 		nous devons nous efforcer de vivre en paix avec tous les hommes (141:6.4) (178:1.16) (181:2.5)
 		L'évangile ne doit jamais être subordonné au ministère physique des malades et des affligés (145:5.1-7)
 		nous ne devons pas substituer l'accomplissement de prodiges et la guérison des malades à la proclamation de l'évangile de la vérité éternelle (147:3.2)
 		nous ne devrions pas employer les forces physiques des gouvernements terrestres, dont les dirigeants peuvent devenir des croyants, dans l'œuvre de promotion de la mission du royaume spirituel. (16:7.9) (178:1.3,6,12)
 	choses à faire
-		Nous devons être doux dans nos relations avec les mortels qui errent, patients dans nos rapports avec les hommes ignorants, et indulgents face à la provocation ; mais nous devons aussi être vaillants dans la défense de la justice, puissants dans la promulgation de la vérité, et agressifs dans la prédication de l'évangile du royaume, même jusqu'aux extrémités de la terre. (143:1.9) (178:1.14,16) (192:2.11-12) (195:10.1)
+		Nous devons être doux dans nos relations avec les mortels qui errent, patients dans nos rapports avec les hommes ignorants, et indulgents face à la provocation; mais nous devons aussi être vaillants dans la défense de la justice, puissants dans la promulgation de la vérité, et agressifs dans la prédication de l'évangile du royaume, même jusqu'aux extrémités de la terre. (143:1.9) (178:1.14,16) (192:2.11-12) (195:10.1)
 		nous devons être audacieux et catégoriques (141:7.8) (155:1.3)
 		nous devons être plus gracieux et moins stricts dans les exigences sociales collatérales (95:7.3)
 		Jésus était tout aussi habile à enseigner en posant des questions qu'en y répondant. En règle générale, c'est à ceux à qui il enseignait le plus qu'il en disait le moins. (132:4.2)
-		Vous ne pouvez pas révéler Dieu à ceux qui ne le cherchent pas ; vous ne pouvez pas conduire les âmes réticentes aux joies du salut. (132:7.1,2) (153:3.5)
-		La certitude du croyant connaissant Dieu ne devrait pas être troublée par l'incertitude du matérialiste qui doute ; au contraire, l'incertitude de l'incroyant devrait être puissamment remise en question par la foi profonde et la certitude inébranlable du croyant expérimental. (103:8.5)
+		Vous ne pouvez pas révéler Dieu à ceux qui ne le cherchent pas; vous ne pouvez pas conduire les âmes réticentes aux joies du salut. (132:7.1,2) (153:3.5)
+		La certitude du croyant connaissant Dieu ne devrait pas être troublée par l'incertitude du matérialiste qui doute; au contraire, l'incertitude de l'incroyant devrait être puissamment remise en question par la foi profonde et la certitude inébranlable du croyant expérimental. (103:8.5)
 		nous devons entrer en conflit avec les dirigeants établis seulement lorsqu'ils s'opposent directement à la prédication de l'évangile du royaume aux fils des hommes. (138:5.4) (178:1.16)
 		il y a des récompenses différées inhérentes au service de la vérité (28:5.17)
 		Il incombe à ceux qui connaissent les réalités de l'esprit de révéler ces choses à ceux qui ne discernent que les manifestations du monde matériel. (142:6.6)
@@ -1231,7 +1231,7 @@ proclamer l'évangile | gouvernement:relation des croyants avec ; royaume des ci
 		la mesure dans laquelle la nécessité d'aller vers les gens révèle un manque de vie juste (163:7.2)
 		nous ne devons pas avoir peur de ceux qui peuvent tuer le corps, mais qui ne peuvent pas détruire l'âme; (150:4.2)
 		Prêchez d'abord l'Évangile, et quand vous aurez amené un homme en sécurité dans le royaume, alors, s'il le demande, donnez-lui l'enseignement avancé. (141:6.2-4)
-		Nous avons reçu gratuitement ; c'est pourquoi nous devons donner gratuitement de la vérité du ciel (159:1.5) (176:3.10) (193:0.5)
+		Nous avons reçu gratuitement; c'est pourquoi nous devons donner gratuitement de la vérité du ciel (159:1.5) (176:3.10) (193:0.5)
 		nous devons aller dans le monde entier, vers chaque homme, chaque femme et chaque enfant (93:4.4) (94:7.2) (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2) (193:2.2) (193:3.2) (193:5.2)
 		À Édréi, Jésus a donné une instruction sur les principes qui devraient guider les enseignants et les croyants de l'évangile du royaume (159:3) (178:1)
 		nous devons vivre notre vie de manière à amener les autres à s'enquérir de l'évangile (130:2.4) (132:7.2) (140:1.7) (141:7.3) (155:1.5) (182:1.6) (191:6.2)
@@ -1241,11 +1241,11 @@ proclamer l'évangile | gouvernement:relation des croyants avec ; royaume des ci
 		Le Père n'exige pas de nous, comme prix pour entrer dans le royaume des cieux, que nous nous forcions à souscrire à une croyance en des choses qui sont spirituellement répugnantes, impies et mensongères. (155:6.5)
 		la seule loi à obéir est le commandement de prêcher l'évangile (192:2.11)
 		La prédication persistante de l'Évangile du royaume apportera un jour à toutes les nations une libération nouvelle et incroyable, la liberté intellectuelle et la liberté religieuse. (178:1.9)
-		Ceux qui connaissent Dieu ont fait l'expérience de sa présence ; ces mortels qui connaissent Dieu détiennent dans leur expérience personnelle la seule preuve positive de l'existence du Dieu vivant qu'un être humain puisse offrir à un autre. (1:2.8)
+		Ceux qui connaissent Dieu ont fait l'expérience de sa présence; ces mortels qui connaissent Dieu détiennent dans leur expérience personnelle la seule preuve positive de l'existence du Dieu vivant qu'un être humain puisse offrir à un autre. (1:2.8)
 		nous devons prêcher l'évangile sans crainte ni favoritisme; nous devons toujours nous rappeler que Dieu ne fait pas acception de personnes. (102:7.6) (143:1.5) (192:2.2)
 		nous devons proclamer le royaume non seulement avec des paroles mais dans notre propre vie (140:1.7)
 		nous devons proclamer toute la vérité de la bonne nouvelle, et non pas seulement une partie de l'évangile du salut. (193:0.4)
-		L'appel aux sentiments humains est passager et totalement décevant ; l'appel exclusif à l'intellect de l'homme est également vide et stérile ; c'est seulement en faisant appel à l'esprit qui vit dans l'esprit humain que nous pouvons espérer obtenir un succès durable et accomplir ces merveilleuses transformations du caractère humain qui se manifestent actuellement dans l'abondance des fruits authentiques de l'esprit. Le royaume des cieux, étant une fraternité spirituelle des fils de Dieu nés de l'esprit, ne peut être promulgué que par la puissance de l'esprit. (152:6.2-4) (159:3.2,5) (178:1.2)
+		L'appel aux sentiments humains est passager et totalement décevant; l'appel exclusif à l'intellect de l'homme est également vide et stérile; c'est seulement en faisant appel à l'esprit qui vit dans l'esprit humain que nous pouvons espérer obtenir un succès durable et accomplir ces merveilleuses transformations du caractère humain qui se manifestent actuellement dans l'abondance des fruits authentiques de l'esprit. Le royaume des cieux, étant une fraternité spirituelle des fils de Dieu nés de l'esprit, ne peut être promulgué que par la puissance de l'esprit. (152:6.2-4) (159:3.2,5) (178:1.2)
 		Tandis que Jésus réconfortait les esprits affamés et s'occupait des âmes assoiffées, les bénéficiaires de sa miséricorde n'avaient pas tant le sentiment de se confesser à lui que de conférer avec lui. (171:7.5)
 		Une heure d'enseignement ne changera pas complètement les croyances de toute une vie, et il est donc nécessaire de réitérer le message (166:4.12) (178:1.9)
 		L'esprit de la religion est éternel, mais la forme de son expression doit être réaffirmée chaque fois que le dictionnaire du langage humain est révisé. (99:1.6)
@@ -1288,10 +1288,10 @@ La relation des croyants avec le gouvernement
 	Le Livre d'Urantia contient des extraits de conférences données par Jésus à Urmia sur la souveraineté politique, bien qu'adaptés pour être applicables aux conditions politiques du vingtième siècle. (134:5-6)
 gouvernement céleste | Urantia:gouvernement céleste
 	les affaires de tous les mondes sont supervisées par Dieu (3:1.1)
-	Dans son contact avec les créations post-Havoniennes, le Père Universel n'exerce pas son pouvoir infini et son autorité finale par transmission directe, mais plutôt par l'intermédiaire de ses Fils et de leurs personnalités subordonnées. Le Père gouverne par l'intermédiaire de ses Fils ; à travers l'organisation de l'univers, il existe une chaîne ininterrompue de dirigeants qui se termine par les Princes Planétaires, qui dirigent les destinées des sphères évolutionnaires des vastes domaines du Père. (3:5.1-2)
+	Dans son contact avec les créations post-Havoniennes, le Père Universel n'exerce pas son pouvoir infini et son autorité finale par transmission directe, mais plutôt par l'intermédiaire de ses Fils et de leurs personnalités subordonnées. Le Père gouverne par l'intermédiaire de ses Fils; à travers l'organisation de l'univers, il existe une chaîne ininterrompue de dirigeants qui se termine par les Princes Planétaires, qui dirigent les destinées des sphères évolutionnaires des vastes domaines du Père. (3:5.1-2)
 	Les différentes sous-administrations de l'univers se voient attribuer certains domaines de responsabilité particuliers. Par exemple, un gouvernement systémique s'occupe des problèmes biologiques. (33:6.3)
 	En ce qui concerne le gouvernement de l'univers central, Havona, il n'y en a pas. Dans chaque exigence de Havona, se révèle la raison de la droiture et le règne de la justice. (14:3.1-2) (14:5.3)
-	En tant que personnes, vous pouvez concevoir le Père Universel et le Fils Éternel comme des individus séparés, car ils le sont en effet ; mais dans l'administration des univers, ils sont si étroitement liés et si étroitement liés qu'il n'est pas toujours possible de les distinguer. (6:8.3)
+	En tant que personnes, vous pouvez concevoir le Père Universel et le Fils Éternel comme des individus séparés, car ils le sont en effet; mais dans l'administration des univers, ils sont si étroitement liés et si étroitement liés qu'il n'est pas toujours possible de les distinguer. (6:8.3)
 	L'administration du Fils Éternel dans les superunivers, étant exclusivement spirituelle et suprapersonnelle, n'est pas discernable par les personnalités des créatures. (7:2.4)
 	Les Très Hauts règnent dans les royaumes des hommes. Ce règne des Très Hauts dans les royaumes des hommes n'est pas destiné au bénéfice particulier d'un groupe de mortels particulièrement favorisé. Il n'existe pas de « peuple élu » (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.4) (136:9.6) (175:1.8) (175:3.2)
 démocratie
@@ -1300,7 +1300,7 @@ démocratie
 	# Choix de dirigeants vils et ignorants.
 	# Incapacité à reconnaître les faits fondamentaux de l'évolution sociale.
 	# Danger du suffrage universel entre les mains de majorités incultes et paresseuses.
-	# L'esclavage de l'opinion publique ; la majorité n'a pas toujours raison.
+	# L'esclavage de l'opinion publique; la majorité n'a pas toujours raison.
 	Les élections populaires ne permettent pas toujours de prendre les bonnes décisions, mais elles représentent la bonne façon de faire, même une mauvaise chose. (71:2.8)
 	Dans l'Antiquité, les fonctions sacerdotales et les rois étaient considérés comme des fétiches. Aujourd'hui, les hommes ont également fait de la démocratie un fétichisme, de l'exaltation et de l'adoration des idées de l'homme du commun, collectivement appelées « opinion publique » (88:3.4).
 histoire du gouvernement (70) (71) | civilisation
@@ -1313,13 +1313,13 @@ histoire du gouvernement (70) (71) | civilisation
 	Le communisme primitif a été une étape supplémentaire dans l'évolution du gouvernement | communisme
 	Le premier véritable organisme gouvernemental était le conseil des anciens du clan. (70:5.2)
 	le danger toujours présent de subir une agression extérieure stimule le développement de l'État (79:8.1)
-	Le gouvernement est un développement inconscient ; il évolue par essais et erreurs. (70:0.2-3) (71)
-	Le développement de l'industrie exige la loi, l'ordre et l'ajustement social ; la propriété privée nécessite le gouvernement. (69:9.17) (70:0.1)
+	Le gouvernement est un développement inconscient; il évolue par essais et erreurs. (70:0.2-3) (71)
+	Le développement de l'industrie exige la loi, l'ordre et l'ajustement social; la propriété privée nécessite le gouvernement. (69:9.17) (70:0.1)
 	dans le gouvernement primitif, les dictateurs étaient ceux qui prévalaient (70:12.2)
 	Les premiers États étaient petits et étaient tous le résultat d'une conquête. (71:1.2)
 	L'État n'est devenu effectif qu'avec l'arrivée d'un chef doté de pleins pouvoirs exécutifs, le gouvernement monarchique (70:6).
 	le pouvoir exécutif est né de la nécessité d'organiser la guerre ou des guérisseurs et des prêtres (70:5.5-9)
-	Les faibles et les inférieurs ont toujours lutté pour l'égalité des droits ; ils ont toujours insisté pour que l'État oblige les forts et les supérieurs à subvenir à leurs besoins et à combler les déficiences qui sont trop souvent le résultat naturel de leur propre indifférence et de leur paresse. (70:9.16)
+	Les faibles et les inférieurs ont toujours lutté pour l'égalité des droits; ils ont toujours insisté pour que l'État oblige les forts et les supérieurs à subvenir à leurs besoins et à combler les déficiences qui sont trop souvent le résultat naturel de leur propre indifférence et de leur paresse. (70:9.16)
 	Dans le passé, la religion institutionnelle pouvait rester passive tandis que les couches supérieures de la société faisaient la sourde oreille aux souffrances et à l'oppression des couches inférieures impuissantes, mais à l'époque moderne, ces ordres sociaux inférieurs ne sont plus aussi abjectement ignorants ni aussi impuissants politiquement. (99:1.5)
 d'autres mondes
 	Le Livre d'Urantia décrit comment est gouverné le pays le plus important d'une planète voisine, qui jouit actuellement d'une république représentative. (72)
@@ -1350,7 +1350,7 @@ principes de gouvernement (70) (71) (72) | concurrence; tribunaux; droits de l'h
 	* la liberté d'expression est indispensable. Un gouvernement représentatif est impensable sans la liberté d'expression sous toutes ses formes, des aspirations et des opinions humaines. (71:2.13)
 	* la société organisée a le droit d'employer la force dans l'exécution de ses justes mandats. L'État a le droit de se défendre comme il l'entend, y compris en recourant à la peine de mort (133:1.5) (133:4.12) (140:8.4) (178:1.2)
 	* L'État idéal est organique, et chaque groupe de citoyens libres et intelligents représente un organe vital et fonctionnel au sein d'un organisme gouvernemental plus vaste. (72:9.7)
-	* l'État idéal a peu de lois ; il est entré dans l'ère du progrès positif de la liberté individuelle résultant d'une meilleure maîtrise de soi (71:3.7)
+	* l'État idéal a peu de lois; il est entré dans l'ère du progrès positif de la liberté individuelle résultant d'une meilleure maîtrise de soi (71:3.7)
 	* Les idéaux de l'État doivent être atteints par l'évolution, par la croissance lente de la conscience civique, par la reconnaissance de l'obligation et du privilège du service social. (70:9.17) (71:3)
 	* le gouvernement doit préserver les libertés individuelles (70:12.5) (71:4.3) (71:8.4)
 	* La survie de la démocratie dépend du succès du gouvernement représentatif, et cela est conditionné par la pratique consistant à élire aux fonctions publiques uniquement des individus techniquement formés, intellectuellement compétents, socialement loyaux et moralement aptes. (71:2.19)
@@ -1367,7 +1367,7 @@ principes de gouvernement (70) (71) (72) | concurrence; tribunaux; droits de l'h
 	* Le règne de la loi. La volonté et les caprices des dirigeants humains doivent être remplacés par des lois conformes à la loi fondamentale acceptée. (71:2.12)
 	* Le gouvernement représentatif est l'idéal divin de l'autogouvernance parmi les êtres imparfaits. (45:7.3) (52:4.6) (70:12.1-2)
 	* Le droit de pétition. Le gouvernement représentatif reconnaît aux citoyens le droit d'être entendus. Le droit de pétition est inhérent à la liberté de citoyenneté. (71:2.15)
-	* Le droit de gouverner. Il ne suffit pas d'être entendu ; le pouvoir de pétition doit progresser jusqu'à la gestion effective du gouvernement. (71:2.16)
+	* Le droit de gouverner. Il ne suffit pas d'être entendu; le pouvoir de pétition doit progresser jusqu'à la gestion effective du gouvernement. (71:2.16)
 	* La sécurité de la propriété. Aucun gouvernement ne peut survivre longtemps s'il ne garantit pas le droit de jouir de la propriété personnelle sous une forme ou une autre. (71:2.14)
 	* La reconnaissance de l'égalité des sexes et le fonctionnement coordonné des hommes et des femmes à la maison, à l'école et à l'église, avec un service spécialisé des femmes dans l'industrie et le gouvernement. (71:8.10)
 	* le gouvernement devrait encourager la science et vaincre la maladie (71:8.9,11)
@@ -1398,7 +1398,7 @@ avertissements
 	* nous devons éviter le contrôle de dictateurs ambitieux et intelligents (70:12.12)
 	* nous devons éviter la domination des minorités vicieuses (70:12.11)
 	* nous ne devons pas chercher à promulguer la vérité ni à établir la justice par le pouvoir des gouvernements civils ou par la promulgation de lois séculières. (152:6.2-4) (159:3.2) (178:1.12)
-	* Les citoyens ne naissent pas pour le bien des gouvernements ; les gouvernements sont des organisations créées et conçues pour le bien des hommes. (71:0.2) (134:5.16)
+	* Les citoyens ne naissent pas pour le bien des gouvernements; les gouvernements sont des organisations créées et conçues pour le bien des hommes. (71:0.2) (134:5.16)
 	* le gouvernement ne peut pas être dirigé par une société de débat (70:5.5)
 	* l'oisiveté et la pauvreté ne doivent pas être tolérées (71:3.8)
 	* L'ignorance et l'égoïsme entraîneront la chute même du type de gouvernement le plus élevé. (71:3.1)
@@ -1407,7 +1407,7 @@ avertissements
 	* la fiscalité et la réglementation oppressives portent atteinte aux libertés individuelles (70:12.15) (134:6.10)
 	* la laïcité vend l'homme comme esclave de l'État totalitaire (195:8.4)
 	* Il faut éviter l'union de l'Église et de l'État. L'une des grandes tentatives de paix de tous les temps a été de tenter de séparer l'Église et l'État. (70:1.14) (70:12.17) (71:8.4) (72:3.6) (178:1.9)
-	* L'homme sous-normal devrait être maintenu sous le contrôle de la société ; il ne devrait pas être produit plus que ce qui est nécessaire pour administrer les niveaux inférieurs de l'industrie (68:6.11) | eugénisme ; inférieurs
+	* L'homme sous-normal devrait être maintenu sous le contrôle de la société; il ne devrait pas être produit plus que ce qui est nécessaire pour administrer les niveaux inférieurs de l'industrie (68:6.11) | eugénisme; inférieurs
 	* La grande faiblesse de l'Empire romain et la cause de sa fin fut la disposition permettant d'émanciper les garçons à vingt et un ans et de donner aux jeunes femmes la liberté d'épouser un homme de leur choix ou de parcourir le pays en se livrant à l'immoralité. (71:1.22) (195:3.8-9)
 	* Avec la fertilité planétaire, le grave problème de la surpopulation se pose rapidement. La nation sage sait quand arrêter sa croissance (81:6.12)
 autonomie gouvernementale
@@ -1422,10 +1422,10 @@ gouvernement mondial
 
 gouverneur général | | gouverneurs généraux résidents | | OK
 
-gouverneurs des relations tribales avancées | | Caligastia cent | | OK
+gouverneurs des relations tribales avancées | | Cent de Caligastia | | OK
 
 grâce (miséricorde de Dieu) | | miséricorde | | OK
-Le temps est un élément invariable dans l'acquisition de la connaissance ; la religion rend ses dons immédiatement disponibles, bien qu'il y ait un facteur important de croissance dans la grâce, un progrès certain dans toutes les phases de l'expérience religieuse. (102:2.4)
+Le temps est un élément invariable dans l'acquisition de la connaissance; la religion rend ses dons immédiatement disponibles, bien qu'il y ait un facteur important de croissance dans la grâce, un progrès certain dans toutes les phases de l'expérience religieuse. (102:2.4)
 Bien que les éléments de la grâce soient librement mélangés, les réalisations des créatures sont néanmoins le résultat d'un effort individuel et d'une réaction réelle et vivante de la personnalité à l'environnement existant. (32:3.9)
 La filiation est un don. Aucun enfant n'a rien à voir avec le fait de mériter le statut de fils ou de fille. L'enfant terrestre naît par la volonté de ses parents. De même, l'enfant de Dieu entre dans la grâce et la nouvelle vie de l'esprit par la volonté du Père qui est dans les cieux. (144:4.3) (144:5.13)
 Les besoins de la créature sont entièrement suffisants pour assurer le plein écoulement des tendres miséricordes du Père et de sa grâce salvatrice. (2:4.2,4)
@@ -1435,7 +1435,7 @@ un crédit de miséricorde est établi pour la survie de chaque créature ration
 les survivants bénéficient d'une opportunité prolongée d'accomplissement spirituel interrompue par la mort (45:7.1)
 Il y a un décalage temporel entre le péché et la sanction. Une période de temps suffisamment longue pour permettre une évaluation entièrement satisfaisante du statut d'un individu dans l'univers (54:3.2) (54:4)
 
-grâce (prière avant de manger) ; rendre grâce | | | | OK
+grâce (prière avant de manger); rendre grâce | | | | OK
 Jésus négligeait rarement de rendre grâces – verbalement – lorsqu'il rompait le pain pour leur déjeuner de midi (143:3.4).
 La méthode primitive de réciter la grâce consistait, avant de manger, à jeter un peu de nourriture dans le feu dans le but d'apaiser les esprits, tout en marmonnant une formule magique. (87:2.9)
 
@@ -1446,10 +1446,10 @@ dégradé | | | | OK
 Le poids standard de Jérusalem, le « gradant », est construit à l'aide du système décimal à partir de l'ultimaton de la maturité et représente presque exactement dix onces de notre poids. (46:1.2)
 
 Guides de Diplômés | (24:6-7) | | ORDER | OK
-Les guides diplômés sont comptés parmi les personnalités supérieures de l'Esprit infini (26:6.1)
+Les guides diplômés sont comptés parmi les personnalités supérieures de l'Esprit Infini (26:6.1)
 Les guides diplômés, en tant que groupe, parrainent et dirigent la haute université d'instruction technique et de formation spirituelle qui est si essentielle à notre objectif. Ils sont engagés dans le pilotage des pèlerins du temps à travers les sept circuits des mondes de Havona. Ils restent avec le même pèlerin tout au long (24:6.1,3) (26:10.7)
-Le nombre des guides diplômés dépasse les capacités de l'esprit humain. Ils n'existent pas de toute éternité ; ils apparaissent mystérieusement quand on en a besoin. Malvorian fut le premier, le guide des diplômés appelé Grandfanda, et il est maintenant le chef de leur conseil suprême (24:6.4-6).
-Les guides diplômés ne quittent jamais les mondes de Havona ; ils se consacrent au service des pèlerins diplômés du temps et de l'espace. (24:0.10) (24:6.9)
+Le nombre des guides diplômés dépasse les capacités de l'esprit humain. Ils n'existent pas de toute éternité; ils apparaissent mystérieusement quand on en a besoin. Malvorian fut le premier, le guide des diplômés appelé Grandfanda, et il est maintenant le chef de leur conseil suprême (24:6.4-6).
+Les guides diplômés ne quittent jamais les mondes de Havona; ils se consacrent au service des pèlerins diplômés du temps et de l'espace. (24:0.10) (24:6.9)
 Bien que l'évolution ne soit pas l'ordre de l'univers central, on croit que les Guides diplômés sont les membres perfectionnés ou plus expérimentés d'un autre ordre de créatures de l'univers central, les Servites de Havona. (24:7.1-7) (25:1.7)
 Un servile est longtemps absent de Havona pour accomplir des missions dans le superunivers et peut plus tard avoir le privilège de recevoir une étreinte divine au Paradis qui peut le transformer en Guide Diplômé. (24:7.2-3)
 Par exemple, Sudna est un serviteur revenu du service du superunivers, a été reçu au Paradis, a rencontré le Père, est entré dans l'étreinte divine et n'est plus, et trois jours plus tard, un nouveau-né Guide Diplômé est apparu « spontanément » à Havona. (24:7.5)
@@ -1462,7 +1462,7 @@ La greffe détermine la nature du fruit, même si la nourriture vivante provient
 
 grain | | | | D'accord
 les apôtres ramassèrent et frottèrent du grain dans leurs mains un jour de sabbat, ce qui provoqua l'indignation d'un groupe d'espions du Sanhédrin (147:6.4)
-Il était de coutume chez de nombreux peuples du Proche-Orient de jeter du grain sur les jeunes mariés ; c'était un rite magique censé assurer la fécondité. (83:4.5)
+Il était de coutume chez de nombreux peuples du Proche-Orient de jeter du grain sur les jeunes mariés; c'était un rite magique censé assurer la fécondité. (83:4.5)
 
 Grand Canyon | (58:7.5) | | PLACE | OK
 
@@ -1471,11 +1471,11 @@ Le Grand Lama est le chef religieux tibétain (94:10.2)
 > https://en.wikipedia.org/wiki/Dalai_Lama
 
 grand univers | | univers maître; superunivers; univers | PLACE | OK
-Les sept superunivers en évolution associés à l'univers central et divin de Havona sont communément appelés le grand univers ; ce sont les créations désormais organisées et habitées. Ils font tous partie du maître univers, qui comprend également les univers inhabités mais mobilisateurs de l'espace extérieur. Le grand univers a un potentiel évolutif d'environ sept mille milliards de planètes habitées, sans compter le milliard de sphères éternelles de la création centrale et les sphères administratives architecturales. (0:0.6) (12:1.13) (15:2.9)
+Les sept superunivers en évolution associés à l'univers central et divin de Havona sont communément appelés le grand univers; ce sont les créations désormais organisées et habitées. Ils font tous partie du maître univers, qui comprend également les univers inhabités mais mobilisateurs de l'espace extérieur. Le grand univers a un potentiel évolutif d'environ sept mille milliards de planètes habitées, sans compter le milliard de sphères éternelles de la création centrale et les sphères administratives architecturales. (0:0.6) (12:1.13) (15:2.9)
 Les Anciens des Jours et les Sept Maîtres Esprits sont éternellement fixés comme administrateurs du grand univers (0:8.11)
 Les sept groupes spirituels suprêmes sont les directeurs coordonnateurs universels de l'administration en sept segments du grand univers. (17:0.1)
 Les Superviseurs du Centre Suprême, les sept coordonnées et associés des Directeurs Suprêmes du Pouvoir, sont les régulateurs des circuits énergétiques maîtres du grand univers. (29:2.10)
-Havona et les sept superunivers ont besoin les uns des autres pour atteindre le maximum de réalisation finie ; et un jour, les univers futurs dans l'espace extra-atmosphérique dépendront également du grand univers pour transcender le fini. (117:6.20)
+Havona et les sept superunivers ont besoin les uns des autres pour atteindre le maximum de réalisation finie; et un jour, les univers futurs dans l'espace extra-atmosphérique dépendront également du grand univers pour transcender le fini. (117:6.20)
 Tout comme les mortels comptent sur l'énergie solaire pour maintenir leur vie, le grand univers dépend des énergies infaillibles émanant du bas Paradis pour soutenir les activités matérielles et les mouvements cosmiques de l'espace. (116:7.2)
 Le grand univers contient la possibilité d'une unification complète et cherche toujours à l'atteindre, et cela découle du fait que cette existence cosmique est une conséquence des actes créateurs et des mandats de pouvoir de la Trinité du Paradis, qui est une unité absolue. (117:1.3)
 Ses bords actuels sont irréguliers, sa périphérie inégale et inachevée, et l'ensemble du terrain astronomique est extrêmement instable. Les sept superunivers ne sont pas encore achevés. (12:1.13)
@@ -1490,13 +1490,13 @@ Grandfanda | | | PERSON | OK
 chef par intérim du Corps de la Finalité (112:7.13)
 chef du Conseil suprême du destin (31:10.9-10,20)
 juridiction exclusive sur les Messagers de la Gravité (31:2.1)
-premier mortel à atteindre Havona ; rapports spatiaux de la gloire inaugurée à son arrivée (7:5.8) (24:6.4-8) (119:0.2)
+premier mortel à atteindre Havona; rapports spatiaux de la gloire inaugurée à son arrivée (7:5.8) (24:6.4-8) (119:0.2)
 du superunivers #1 (24:6.8)
 Malvorian a été affecté au Guide Diplômé (24:6.4-6)
 
 granit | | | | OK
 le granite a commencé à se former il y a 1,500 millions d'années, à l'époque volcanique (57:7.5)
-Les couches de lave de la croûte terrestre, une fois refroidies, forment du granite. La densité moyenne d'Urantia est un peu plus de cinq fois et demie celle de l'eau ; la densité du granite est moins de trois fois celle de l'eau. Le noyau terrestre est douze fois plus dense que l'eau. (58:5.5)
+Les couches de lave de la croûte terrestre, une fois refroidies, forment du granite. La densité moyenne d'Urantia est un peu plus de cinq fois et demie celle de l'eau; la densité du granite est moins de trois fois celle de l'eau. Le noyau terrestre est douze fois plus dense que l'eau. (58:5.5)
 
 raisins; raisin | | | | OK
 sur le linteau de la synagogue de Capharnaüm, il y avait l'emblème d'un pot de manne orné de grappes de raisin (153:2.8)
@@ -1524,23 +1524,23 @@ c'est une énergie de travail utile aux superunivers. La force spatiale est d'ab
 
 gravité; gravité | | antigravité | | OK
 caractéristiques
-	Toutes les formes de force-énergie — matérielles, mentales ou spirituelles — sont également soumises à ces emprises, à ces présences universelles appelées gravité. La personnalité est également sensible à la gravité — au circuit exclusif du Père ; mais bien que ce circuit soit exclusif au Père, il n'est pas exclu des autres circuits ; le Père Universel est infini et agit sur les quatre circuits de gravité absolue dans le maître univers : (12:3.1-4) (15:9.1-2)
+	Toutes les formes de force-énergie — matérielles, mentales ou spirituelles — sont également soumises à ces emprises, à ces présences universelles appelées gravité. La personnalité est également sensible à la gravité — au circuit exclusif du Père; mais bien que ce circuit soit exclusif au Père, il n'est pas exclu des autres circuits; le Père Universel est infini et agit sur les quatre circuits de gravité absolue dans le maître univers : (12:3.1-4) (15:9.1-2)
 	# La gravité de la personnalité du Père Universel. (12:3.2)
 	# La gravité spirituelle du Fils Éternel. (12:3.3)
 	# La gravité mentale de l'acteur conjoint. (12:3.4)
 	# La gravité cosmique de l'île du Paradis. (12:3.5)
-	Ces quatre circuits ne sont pas liés au centre de force du Paradis inférieur ; ils ne sont ni des circuits de force, ni des circuits d'énergie, ni des circuits de puissance. Ce sont des circuits de présence absolue et, comme Dieu, ils sont indépendants du temps et de l'espace. (12:3.6) (12:8.2) (42:11.4)
-	Ces forces primordiales, inhérentes aux Absolus, sont personnellement contrôlées par le Père Universel ; c'est pourquoi toute gravité se concentre dans la présence personnelle du Père du Paradis de pure énergie et de pur esprit et dans sa demeure supramatérielle. (11:1.4) (56:1.3)
+	Ces quatre circuits ne sont pas liés au centre de force du Paradis inférieur; ils ne sont ni des circuits de force, ni des circuits d'énergie, ni des circuits de puissance. Ce sont des circuits de présence absolue et, comme Dieu, ils sont indépendants du temps et de l'espace. (12:3.6) (12:8.2) (42:11.4)
+	Ces forces primordiales, inhérentes aux Absolus, sont personnellement contrôlées par le Père Universel; c'est pourquoi toute gravité se concentre dans la présence personnelle du Père du Paradis de pure énergie et de pur esprit et dans sa demeure supramatérielle. (11:1.4) (56:1.3)
 	Le Contrôleur Universel est potentiellement présent dans les circuits de gravité de l'Ile du Paradis dans toutes les parties de l'univers, à tout moment et au même degré. Toute la création est intrinsèquement cohérente et consiste en Dieu (3:1.7)
 	Alors que la création et l'organisation de l'univers demeurent à jamais sous le contrôle des Créateurs infinis et de leurs associés, l'ensemble du phénomène se déroule selon une technique ordonnée et en conformité avec les lois de la gravité de la force, de l'énergie et de la matière. (15:4.1)
 	Le modèle peut configurer l'énergie, mais il ne la contrôle pas. La gravité est le seul moyen de contrôle de l'énergie-matière. Ni l'espace ni le modèle ne réagissent à la gravité. La vie non plus. (0:6.10-13) (36:6.6)
 	Les Déités du Paradis agissent directement dans leurs circuits de gravité à travers le grand univers (116:3.1)
-	L'unification de la gravité est universelle et invariable ; la réponse de l'énergie pure est également universelle et inévitable. (56:1.3)
+	L'unification de la gravité est universelle et invariable; la réponse de l'énergie pure est également universelle et inévitable. (56:1.3)
 types de gravité
 	gravité matérielle
 		l'univers central et les sept superunivers environnants n'utilisent actuellement qu'environ cinq pour cent du fonctionnement actif de l'emprise de gravité absolue du Paradis (12:3.8)
 		la gravité agit toujours préférentiellement dans le plan perpendiculaire à la masse, phénomène indicatif des dimensions différentielles du Paradis et des créations environnantes. (11:8.9)
-		L'antigravité peut annuler la gravité dans un référentiel local ; elle le fait par l'exercice d'une présence de force égale. (9:3.3)
+		L'antigravité peut annuler la gravité dans un référentiel local; elle le fait par l'exercice d'une présence de force égale. (9:3.3)
 		À mesure que l'esprit de toute personnalité dans l'univers devient plus spirituel – semblable à Dieu – il devient moins sensible à la gravité matérielle. (7:3.2) (12:8.5)
 		En balançant le 19e électron entre sa propre orbite et celle de son compagnon perdu plus de 25 000 fois par seconde, un atome de calcium mutilé est capable de défier partiellement la gravité et ainsi de chevaucher avec succès les courants émergents de lumière et d'énergie, les rayons du soleil, vers la liberté et l'aventure. (41:6.4-5)
 		Les forces de gravité des univers matériels convergent vers le centre de gravité du Bas-Paradis. (0:3.13) (3:2.4) (5:6.11) (11:1.4) (11:8.2)
@@ -1550,20 +1550,20 @@ types de gravité
 		Le centre et le point focal de la gravité matérielle absolue est l'île du Paradis, et elle est complétée par les corps de gravité sombres encerclant Havona et équilibrés par les réservoirs spatiaux supérieur et inférieur. (11:8.2)
 		Les directions alternées des processions spatiales successives des univers ont quelque chose à voir avec la technique de gravité intramaître de l'univers de l'Absolu Universel, qui consiste en une coordination des forces et une égalisation des tensions spatiales. Le mouvement, tout comme l'espace, est un complément ou un équilibrant de la gravité. (12:4.16)
 		les facteurs empêchant la gravité de convertir toute l'énergie en matière sont les influences antigravitationnelles des contrôleurs d'énergie et la capacité de la matière organisée à se désintégrer dans certaines conditions (15:8.5-6)
-		L'univers est hautement prévisible uniquement dans le sens quantitatif ou de mesure de la gravité ; même les forces physiques primitives ne sont pas sensibles à la gravité linéaire, pas plus que les significations mentales supérieures et les véritables valeurs spirituelles des réalités ultimes de l'univers. (12:6.5)
+		L'univers est hautement prévisible uniquement dans le sens quantitatif ou de mesure de la gravité; même les forces physiques primitives ne sont pas sensibles à la gravité linéaire, pas plus que les significations mentales supérieures et les véritables valeurs spirituelles des réalités ultimes de l'univers. (12:6.5)
 		Les niveaux de réponse à la gravité pour l'esprit, l'âme et la matière sont assez indépendants du temps (42:11.4)
 		Jérusem, la capitale du système, est presque cent fois plus grande qu'Urantia, bien que sa gravité soit un peu moindre. (45:0.1)
 		Lucifer a affirmé que le Père Universel n'existait pas réellement, que la gravité physique et l'énergie spatiale étaient inhérentes à l'univers et que le Père était un mythe inventé par les Fils du Paradis (53:3.2).
 		Dans les soleils destinés à s'éteindre, la luminosité atteint son apogée au moment où l'hydrogène s'épuise. Au-delà de ce point, la brillance est maintenue par le processus résultant de la contraction de la gravité. (41:8.2)
 		La masse de la matière tend à ralentir la vitesse de l'énergie (15:8.3)
-		La gravité et l'absence de chaleur (froid) organisent et maintiennent la matière ensemble ; la chaleur et l'antigravité perturbent la matière et dissipent l'énergie. (15:8.10)
+		La gravité et l'absence de chaleur (froid) organisent et maintiennent la matière ensemble; la chaleur et l'antigravité perturbent la matière et dissipent l'énergie. (15:8.10)
 		La chaleur peut ainsi largement surmonter la stabilité gravitationnelle. (42:4.8)
 		L'action de la gravité à haute température transforme une certaine puissance en circuit en énergies radiatives. (41:7.9)
 		La gravité du paradis est une forme de gravité (11:8.7)
-		L'espace ne réagit pas à la gravité, mais il agit comme un équilibrant sur elle. Sans le coussin spatial, l'action explosive secouerait les corps spatiaux environnants. L'espace envahi exerce également une influence antigravitationnelle sur la gravité physique ou linéaire ; l'espace peut en fait neutraliser une telle action de gravité même s'il ne peut pas la retarder. (11:8.3)
+		L'espace ne réagit pas à la gravité, mais il agit comme un équilibrant sur elle. Sans le coussin spatial, l'action explosive secouerait les corps spatiaux environnants. L'espace envahi exerce également une influence antigravitationnelle sur la gravité physique ou linéaire; l'espace peut en fait neutraliser une telle action de gravité même s'il ne peut pas la retarder. (11:8.3)
 		la présence physique du Paradis est source et substance de la gravité (9:1.7) (9:3.1) (11:8.1)
 		La présence et l'action de la gravité sont ce qui empêche l'apparition du zéro absolu théorique, car l'espace interstellaire n'a pas la température du zéro absolu. (42:4.6)
-		L'action de la gravité physique est un déterminant quantitatif de l'énergie non spirituelle ; l'action de la gravité spirituelle est la mesure qualitative de l'énergie vivante de la divinité. (12:8.5)
+		L'action de la gravité physique est un déterminant quantitatif de l'énergie non spirituelle; l'action de la gravité spirituelle est la mesure qualitative de l'énergie vivante de la divinité. (12:8.5)
 		la gravité est l'une des choses les plus réelles et éternellement fiables de tout l'univers physique des univers (9:3.1)
 		Bien que cette réponse gravitationnelle soit directement proportionnelle à la masse, elle est tellement modifiée par l'espace intermédiaire que le résultat final n'est qu'une approximation grossière lorsqu'il est exprimé comme inversement en fonction du carré de la distance. (42:11.5)
 		la science ne pourra jamais savoir ce qu'est réellement la gravité, même si elle peut mesurer ses manifestations (133:5.4)
@@ -1575,7 +1575,7 @@ types de gravité
 			La gravité linéaire est un phénomène interactif qui ne peut être calculé qu'en connaissant la gravité réelle du Paradis. (12:3.8)
 			Les organisateurs de force se retirent en faveur des directeurs de puissance dès l'apparition de la gravité linéaire (42:2.12)
 			la gravité linéaire n'est pas pleinement opérationnelle en dessous du niveau des électrons de matière atomique, dans l'état primitif d'ultimaton (42:4.3)
-			La gravité locale ou linéaire se rapporte au stade électrique de l'énergie ou de la matière ; elle opère dans les univers centraux, supra- et extérieurs, partout où une matérialisation appropriée a eu lieu. (11:8.3)
+			La gravité locale ou linéaire se rapporte au stade électrique de l'énergie ou de la matière; elle opère dans les univers centraux, supra- et extérieurs, partout où une matérialisation appropriée a eu lieu. (11:8.3)
 		Gravité paradisiaque (3:1.6) (11:8)
 			Les Ajusteurs parcourent l'espace sur des circuits instantanés et universels de gravité paradisiaque (107:6.4-5)
 			Toutes les formes d'énergie fondamentale oscillent toujours autour du chemin courbe des niveaux spatiaux du maître univers en obéissance à l'attraction incessante et absolue de la gravité du Paradis. (12:1.1)
@@ -1610,12 +1610,12 @@ types de gravité
 		cette gravité spirituelle du Fils, attirant toujours à lui toutes les réalités spirituelles, est tout aussi réelle et absolue que l'est l'emprise matérielle toute-puissante de l'Ile du Paradis. (7:1.3) (12:8.4)
 		Les réalités spirituelles répondent au pouvoir d'attraction du centre de gravité spirituel en fonction de leur valeur qualitative, de leur degré réel de nature spirituelle. (7:1.3-4,8)
 		Le fonctionnement discriminatif du circuit esprit-gravité pourrait éventuellement être comparé aux fonctions des circuits neuronaux du corps humain matériel (7:3.4)
-		Les grands circuits d'énergie, d'esprit et de pensée ne sont jamais la possession permanente de la personnalité ascendante ; ces ministères demeurent à jamais une partie de la Suprématie. (117:5.7-8)
+		Les grands circuits d'énergie, d'esprit et de pensée ne sont jamais la possession permanente de la personnalité ascendante; ces ministères demeurent à jamais une partie de la Suprématie. (117:5.7-8)
 		les circuits dans Nébadon sont le Saint-Esprit et l'Esprit de Vérité (34:4.3-4)
 		Le pouvoir d'attraction spirituelle du Fils est inhérent à un degré moindre dans de nombreux ordres de filiation du Paradis. (7:1.5)
 		L'âme immortelle en évolution de l'homme, création conjointe du mental matériel et de l'Ajusteur, s'élève en tant que telle au Paradis et, par la suite, lorsqu'elle est incorporée au Corps de la Finalité, s'allie d'une nouvelle manière au circuit de gravité spirituelle du Fils Éternel par une technique d'expérience connue sous le nom de transcendance finalitaire. (117:5.3)
 		L'attraction spirituelle gravitationnelle du Fils Éternel constitue le secret inhérent de l'ascension au Paradis des âmes humaines survivantes. Toutes les valeurs spirituelles authentiques et tous les individus spiritualisés de bonne foi sont maintenus sous l'emprise infaillible de la gravité spirituelle du Fils Éternel. (7:3.2)
-		Ce contrôle de la gravité des choses spirituelles fonctionne indépendamment du temps et de l'espace ; par conséquent, l'énergie spirituelle n'est pas diminuée dans sa transmission. (7:1.2) (34:3.5) (42:11.4)
+		Ce contrôle de la gravité des choses spirituelles fonctionne indépendamment du temps et de l'espace; par conséquent, l'énergie spirituelle n'est pas diminuée dans sa transmission. (7:1.2) (34:3.5) (42:11.4)
 		la gravité spirituelle ramène directement au Fils Éternel et se concentre sur lui (5:6.11) (6:3.2) (6:4.1) (6:5.2) (7:1.1) (7:5.6) (7:6.7) (11:1.4) (12:8.4) (34:3.5) (44:5.4) (56:3.1)
 		attire littéralement les âmes mortelles vers le Paradis (7:3.2)
 		Notre Fils Créateur exerce le même pouvoir d'attraction spirituelle, la même gravité spirituelle, depuis le siège de l'univers local que le Fils Éternel du Paradis exercerait s'il était personnellement présent à Salvington, et plus encore (33:1.3)
@@ -1643,7 +1643,7 @@ Divinington est leur maison (13:1.6) (31:2.2)
 ils apparaissent dans la classification du Paradis comme des êtres d'origine unique et des Esprits suprêmes (30:1.57)
 Il existe une liaison d'une puissance et d'une importance considérables entre les Étoiles du Soir et les Messagers de Gravité attachés aux groupes de travail finalitaires. (37:2.11)
 Certains franchisseurs de gravité sont des êtres personnels, tels que les Messagers de Gravité et les Enregistreurs Transcendantaux, mais ils ne sont pas accessibles aux administrateurs de l'univers supra-universel et local. (23:3.2)
-ils deviennent finalitaires lorsqu'ils deviennent chefs avec un état-major permanent de 999 compagnons ; ils peuvent même faire usage de réserves illimitées disponibles (31:2.3)
+ils deviennent finalitaires lorsqu'ils deviennent chefs avec un état-major permanent de 999 compagnons; ils peuvent même faire usage de réserves illimitées disponibles (31:2.3)
 Les messagers de la gravité sont capables de se déplacer très rapidement, indépendamment du temps et de l'espace (23:2.23) (31:2.1)
 ils sont en charge de certains messages spatiaux (44:5.7)
 ils n'ont pas de forme physique découvrable (42:12.10)
@@ -1651,7 +1651,7 @@ ils n'ont pas de forme physique découvrable (42:12.10)
 Grand Au-Delà | | | RELIGION | OK
 D'Oban, il envoya des enseignants dans les colonies éloignées pour diffuser ses nouvelles doctrines d'une Déité unique et son concept de l'au-delà, qu'il appela le Grand Au-delà. (63:6.7)
 
-Grande-Bretagne | | Îles britanniques | PLACE | OK
+Grande-Bretagne | | Iles Britanniques | PLACE | OK
 
 grand commandement | (174:4) | commandements | | OK
 
@@ -1670,7 +1670,7 @@ Grandes Sources-Centres | | Fils Éternel; Esprit Infini; Père Universel | | OK
 Fait référence à : (15:1.4)
 * Père Universel
 * Fils Éternel
-* Esprit infini
+* Esprit Infini
 
 Grand Esprit | | | RACE | OK
 Onamonalonton, un chef lointain de l'homme rouge et celui qui a dirigé cette race de l'adoration de nombreux dieux à la vénération du « Grand Esprit » (45:4.5 ?) (64:6.7)
@@ -1690,7 +1690,7 @@ Plus nous contemplons et poursuivons avec persévérance les concepts de la bont
 La noblesse elle-même est toujours une croissance inconsciente. (100:1.7)
 Le choix moral le plus élevé est celui de la valeur la plus élevée possible, et toujours – dans n'importe quel domaine, dans tous les domaines – il s'agit de choisir de faire la volonté de Dieu. Si l'homme choisit ainsi, il est grand, même s'il est le plus humble des citoyens (39:4.14).
 La grandeur ne réside pas tant dans la possession de la force que dans l'usage sage et divin de cette force. (48:7.27)
-Jésus a dit : « Quiconque veut être grand dans le royaume de mon Père sera le ministre de tous ; et quiconque veut être le premier parmi vous, qu'il se fasse le serviteur de ses frères » (56:10.14) (140:1.6) (171:0.6) (175:1.10)
+Jésus a dit : « Quiconque veut être grand dans le royaume de mon Père sera le ministre de tous; et quiconque veut être le premier parmi vous, qu'il se fasse le serviteur de ses frères » (56:10.14) (140:1.6) (171:0.6) (175:1.10)
 La manifestation de la grandeur sur un monde comme Urantia est la démonstration de la maîtrise de soi. Le grand homme n'est pas celui qui « prend une ville » ou « renverse une nation », mais plutôt « celui qui soumet sa propre langue » (28:6.20).
 Lorsque les tests spirituels de grandeur sont appliqués, les éléments moraux ne sont pas négligés, mais la qualité de désintéressement révélée dans le travail désintéressé pour le bien-être de ses semblables terrestres, en particulier des êtres dignes dans le besoin et la détresse, est la véritable mesure de la grandeur planétaire. (28:6.20) (140:4.6)
 La grandeur spirituelle consiste en un amour compréhensif qui est semblable à Dieu et non en une jouissance de l'exercice du pouvoir matériel pour l'exaltation de soi. (158:6.3)
@@ -1728,11 +1728,11 @@ Religion grecque (98:1-2) | cultes mystérieux; platonisme
 	ils avaient la philosophie et la science, mais guère de religion avec un Dieu personnel (130:3.5) (155:1.4)
 	les Grecs intelligents n'ont jamais pris les dieux grecs au sérieux (98:1.4) (98:2.4) (195:1.6-7)
 	La mythologie grecque était plus esthétique qu'éthique. (98:1.6)
-	En Grèce, l'absence presque totale de prêtres et de « livres sacrés » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la pensée. Les Grecs helléniques n'ont jamais développé un système de culte centralisé ; le rituel était local ; ils n'avaient ni sacerdoce ni « livre sacré » (98:1.5) (98:2.7) (98:6.1).
-	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps ; aucune n'a jamais créé un système d'éthique aussi avancé pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain (98:2.11).
-	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée ; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure ; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
+	En Grèce, l'absence presque totale de prêtres et de « livres sacrés » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la pensée. Les Grecs helléniques n'ont jamais développé un système de culte centralisé; le rituel était local; ils n'avaient ni sacerdoce ni « livre sacré » (98:1.5) (98:2.7) (98:6.1).
+	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps; aucune n'a jamais créé un système d'éthique aussi avancé pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain (98:2.11).
+	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
 	mais ils firent un plongeon orgiaque terrible dans les folies des cultes à mystères qui se répandaient alors dans les terres méditerranéennes (98:2.10-11)
-	La religion olympienne ne promettait pas le salut, ni n'étanchait la soif spirituelle de ses croyants ; elle était donc vouée à périr. (98:2.1)
+	La religion olympienne ne promettait pas le salut, ni n'étanchait la soif spirituelle de ses croyants; elle était donc vouée à périr. (98:2.1)
 	croyances
 		un groupe de 30 pierres était vénéré en Grèce (85:1.3)
 		Tous les peuples traitaient avec mépris les femmes qui avaient leurs règles. Même les Grecs considéraient la femme qui avait ses règles comme l'une des trois grandes causes de souillure, les deux autres étant le porc et l'ail. (84:4.8)
@@ -1743,12 +1743,12 @@ Religion grecque (98:1-2) | cultes mystérieux; platonisme
 		Les Grecs faisaient une distinction entre l'animé et l'inanimé, l'esprit et l'énergie (103:6.10)
 		ils considéraient la matière comme l'ombre de la substance spirituelle plus réelle (12:8.16)
 		Comme d'autres peuples, les Grecs avaient aussi des dieux qui formaient des triades. (104:0.3)
-		Les Grecs croyaient que les hommes faibles devaient avoir une âme faible ; ils inventèrent donc l'Hadès comme un lieu approprié pour recevoir ces âmes anémiques ; ces spécimens peu robustes étaient également censés avoir des ombres plus courtes. (86:4.8)
+		Les Grecs croyaient que les hommes faibles devaient avoir une âme faible; ils inventèrent donc l'Hadès comme un lieu approprié pour recevoir ces âmes anémiques; ces spécimens peu robustes étaient également censés avoir des ombres plus courtes. (86:4.8)
 	influences sur la religion grecque
 		L'influence des premiers maîtres de Salem fut presque entièrement détruite par ce qu'on a appelé l'invasion aryenne venue du sud de l'Europe et de l'Est. Ces envahisseurs helléniques apportèrent avec eux des concepts anthropomorphiques de Dieu semblables à ceux que leurs compatriotes aryens avaient apportés en Inde. Cette importation inaugura l'évolution de la famille grecque des dieux et des déesses. Cette nouvelle religion était en partie basée sur les cultes des barbares helléniques qui arrivaient, mais elle partageait aussi les mythes des anciens habitants de la Grèce. (98:1.2)
 		Aménémopé a transmis l'éthique de l'évolution et la morale de la révélation aux Grecs (95:4.4)
 		Bien que les efforts d'Ikhnaton pour imposer le culte d'un seul Dieu à son peuple semblent avoir échoué, les répercussions de son travail ont persisté pendant des siècles en Palestine et en Grèce (95:5.14).
-		La religion romaine fut grandement influencée par les nombreuses importations culturelles venues de Grèce. Finalement, la plupart des dieux de l'Olympe furent transplantés et incorporés au panthéon latin. Les Grecs adorèrent longtemps le feu du foyer familial : Hestia était la déesse vierge du foyer ; Vesta était la déesse romaine du foyer. Zeus devint Jupiter ; Aphrodite, Vénus ; et ainsi de suite pour les nombreuses divinités de l'Olympe (98:3.3).
+		La religion romaine fut grandement influencée par les nombreuses importations culturelles venues de Grèce. Finalement, la plupart des dieux de l'Olympe furent transplantés et incorporés au panthéon latin. Les Grecs adorèrent longtemps le feu du foyer familial : Hestia était la déesse vierge du foyer; Vesta était la déesse romaine du foyer. Zeus devint Jupiter; Aphrodite, Vénus; et ainsi de suite pour les nombreuses divinités de l'Olympe (98:3.3).
 	influences de la religion grecque
 		La philosophie grecque a grandement influencé le christianisme. La philosophie grecque, unie à la théologie de Paul, constitue toujours la base de l'éthique européenne. Les idéaux de Jésus ont été réinterprétés par la philosophie grecque et socialisés dans le christianisme. (98:7.10) (195:0-1)
 		Il y avait quelque chose d'étrangement semblable dans la philosophie grecque et dans de nombreux enseignements de Jésus. Ils avaient un but commun, tous deux visant à l'émergence de l'individu. (195:1.1)
@@ -1757,7 +1757,7 @@ Religion grecque (98:1-2) | cultes mystérieux; platonisme
 Grecs; Grec | | Grèce | RACE | OK
 Les Grecs n'étaient pas seulement de grands enseignants et artistes, ils étaient aussi les plus grands commerçants et colonisateurs du monde. (80:7.12-13)
 Les Grecs et le christianisme
-	Jésus a dit : « Les Juifs ont vanté la bonté ; les Grecs ont exalté la beauté ; les Hindous prêchent la dévotion ; les ascètes lointains enseignent la révérence ; les Romains exigent la loyauté ; mais j'exige de mes disciples la vie, même une vie de service affectueux pour vos frères dans la chair. » (191:5.3)
+	Jésus a dit : « Les Juifs ont vanté la bonté; les Grecs ont exalté la beauté; les Hindous prêchent la dévotion; les ascètes lointains enseignent la révérence; les Romains exigent la loyauté; mais j'exige de mes disciples la vie, même une vie de service affectueux pour vos frères dans la chair. » (191:5.3)
 	L'épine dorsale de l'Église chrétienne primitive était constituée de prosélytes grecs convertis au judaïsme. (195:3.6)
 	Les croyants grecs ont porté le christianisme dans tout l'Empire romain (195:0-1)
 Grecs mentionnés
@@ -1781,11 +1781,11 @@ Progrès intellectuel et stagnation
 	Les anciens Grecs, ayant conservé les traditions des enseignements d'Adamson, furent parmi les premiers à reconnaître que toute maladie est le résultat de causes naturelles. (90:3.9) (90:4.9)
 	Les premiers Chinois et les Grecs traitaient les femmes mieux que la plupart des peuples voisins. (84:5.6)
 	les Grecs et les Romains étaient tous deux favorables au mariage monogame. (83:6.3)
-	Le fait de l'évolution n'est pas une découverte moderne ; les anciens comprenaient le caractère lent et évolutif du progrès humain. Les premiers Grecs en avaient une idée claire malgré leur proximité avec la Mésopotamie. (74:8.5)
+	Le fait de l'évolution n'est pas une découverte moderne; les anciens comprenaient le caractère lent et évolutif du progrès humain. Les premiers Grecs en avaient une idée claire malgré leur proximité avec la Mésopotamie. (74:8.5)
 	L'esprit grec était disposé à emprunter des idées nouvelles et bonnes, même aux Juifs. (195:1.3)
-	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée ; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure ; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
+	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
 	Comme les Grecs n'étaient pas très intéressés par la philosophie de la réalisation de soi et d'une divinité abstraite, ils se tournèrent vers les cultes mystérieux, tels que les mystères d'Éleusis, le culte dionysiaque de la nature et la confrérie orphique (98:2.10).
-	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps ; aucune n'a jamais créé un système éthique aussi avancé, pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain ; aucune nation n'a jamais plongé aussi rapidement, aussi profondément et aussi violemment dans de telles profondeurs de stagnation intellectuelle, de dépravation morale et de pauvreté spirituelle que ces mêmes peuples grecs lorsqu'ils se précipitèrent dans le tourbillon fou des cultes à mystères. (98:2.111)
+	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps; aucune n'a jamais créé un système éthique aussi avancé, pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain; aucune nation n'a jamais plongé aussi rapidement, aussi profondément et aussi violemment dans de telles profondeurs de stagnation intellectuelle, de dépravation morale et de pauvreté spirituelle que ces mêmes peuples grecs lorsqu'ils se précipitèrent dans le tourbillon fou des cultes à mystères. (98:2.111)
 
 race verte | (64:6.17-20) | races | RACE | OK
 La race verte était l'un des groupes d'hommes primitifs les moins capables, et ils furent grandement affaiblis par de vastes migrations dans différentes directions. (64:6.17)
@@ -1856,7 +1856,7 @@ valeur des groupes
 	l'homme bénéficie de sa loyauté envers les associations humaines et les institutions temporelles (100:2.6)
 	les membres d'un groupe récoltent des bénéfices et subissent les conséquences des actions des autres (12:7.11) (54:6.3-4) (67:7) (145:2.8)
 	les groupes sont bien plus grands et plus forts que la simple somme de leurs unités individuelles. (10:5.2) (68:1.4-5)
-	deux créatures morales ne doublent pas simplement leur potentiel personnel de réalisation universelle par la technique du partenariat ; elles quadruplent même presque leurs possibilités de réalisation et d'accomplissement. (43:8.11)
+	deux créatures morales ne doublent pas simplement leur potentiel personnel de réalisation universelle par la technique du partenariat; elles quadruplent même presque leurs possibilités de réalisation et d'accomplissement. (43:8.11)
 	La religion contribue au progrès de tous en favorisant le progrès de chaque individu, et le progrès de chacun est accru par la réussite de tous. (100:0.1)
 	la croissance spirituelle est stimulée par une association intime avec d'autres religieux (100:0,2)
 	En ce qui concerne la personnalité humaine, il serait plus proche de la vérité de dire qu'une telle association de personnalités est une somme égale au carré du nombre de personnalités concernées dans l'équation plutôt qu'une simple somme arithmétique. (133:5.6)
@@ -1865,7 +1865,7 @@ croissance | | équilibre; progrès; croissance spirituelle | | OK
 La croissance ne s'indique pas véritablement par de simples produits, mais plutôt par des progrès. (100:1.3)
 La progression de l'éternité ne consiste pas seulement en un développement spirituel. L'acquisition intellectuelle fait aussi partie de l'éducation universelle. (37:6.6)
 croissance finie et absonite
-	Le fini du temps contient en lui-même les semences de l'éternité ; lorsque la plénitude de l'évolution verra s'épuiser la capacité de croissance cosmique, le fini total s'engagera dans les phases absonites de la carrière éternelle en quête du Père comme Ultime. (117:5.14)
+	Le fini du temps contient en lui-même les semences de l'éternité; lorsque la plénitude de l'évolution verra s'épuiser la capacité de croissance cosmique, le fini total s'engagera dans les phases absonites de la carrière éternelle en quête du Père comme Ultime. (117:5.14)
 	La croissance actuelle qui caractérise l'existence des créatures dans l'âge de l'univers actuel est une fonction du Suprême. Ce genre de croissance est particulier à l'âge de la croissance du Suprême, et elle prendra fin avec l'achèvement de la croissance du Suprême. (117:2.2)
 nature de la croissance
 	L'homme ne peut pas provoquer la croissance, mais il peut créer des conditions favorables. La croissance est toujours inconsciente, qu'elle soit physique, intellectuelle ou spirituelle. (100:3.7)
@@ -1881,14 +1881,14 @@ nature de la croissance
 	Le grand problème de la vie religieuse consiste dans la tâche d'unifier les pouvoirs de l'âme de la personnalité par la domination de l'amour. (100:4)
 	La croissance créatrice est sans fin mais toujours satisfaisante, sans fin dans son étendue mais toujours ponctuée de ces moments de satisfaction personnelle d'atteinte d'objectifs transitoires qui servent si efficacement de préludes de mobilisation à de nouvelles aventures de croissance cosmique, d'exploration de l'univers et d'accomplissement de la Déité. (118:0.10,12)
 	Certaines personnes sont trop occupées pour grandir et courent donc un grave danger de fixation spirituelle. Il faut prendre des dispositions pour leur croissance (100:1.2).
-	Le Suprême est Dieu dans le temps ; c'est à Lui qu'appartient le secret de la croissance de la créature dans le temps ; c'est aussi à Lui qu'appartiennent la conquête du présent incomplet et la consommation du futur parfait. (117:2)
+	Le Suprême est Dieu dans le temps; c'est à Lui qu'appartient le secret de la croissance de la créature dans le temps; c'est aussi à Lui qu'appartiennent la conquête du présent incomplet et la consommation du futur parfait. (117:2)
 moteurs de croissance
 	Il existe chez tous les mortels normaux certaines pulsions innées vers la croissance et la réalisation de soi qui fonctionnent si elles ne sont pas spécifiquement inhibées. (100:1.6)
-	L'interassociation de l'Originel, de l'Actuel et du Potentiel produit les tensions au sein de l'infini qui résultent en la possibilité de toute croissance de l'univers ; et la croissance est la nature du Septuple, du Suprême et de l'Ultime. (115:3.9)
+	L'interassociation de l'Originel, de l'Actuel et du Potentiel produit les tensions au sein de l'infini qui résultent en la possibilité de toute croissance de l'univers; et la croissance est la nature du Septuple, du Suprême et de l'Ultime. (115:3.9)
 	La croissance expérientielle implique un partenariat entre la créature et le Créateur – Dieu et l'homme en association. (116:0.3)
 	Avec l'apparition de la réalité relative et qualifiée, un nouveau cycle de réalité apparaît – le cycle de croissance – une descente majestueuse des hauteurs de l'infini vers le domaine du fini, se balançant toujours vers l'intérieur jusqu'au Paradis et à la Déité, cherchant toujours ces hautes destinées proportionnées à une source d'infinité. (105:5.5)
-	L'interassociation de l'Originel, de l'Actuel et du Potentiel produit les tensions au sein de l'infini qui résultent en la possibilité de toute croissance de l'univers ; et la croissance est la nature du Septuple, du Suprême et de l'Ultime. (115:3.9)
-	En parvenant à la capacité d'expérience, le Dieu fini devient également soumis à la nécessité de celle-ci ; en parvenant à se libérer de l'éternité, le Tout-Puissant rencontre les barrières du temps ; et le Suprême ne pouvait connaître la croissance et le développement que comme conséquence de la partialité de l'existence et de l'incomplétude de la nature, de la non-absolution de l'être. (115:7.1)
+	L'interassociation de l'Originel, de l'Actuel et du Potentiel produit les tensions au sein de l'infini qui résultent en la possibilité de toute croissance de l'univers; et la croissance est la nature du Septuple, du Suprême et de l'Ultime. (115:3.9)
+	En parvenant à la capacité d'expérience, le Dieu fini devient également soumis à la nécessité de celle-ci; en parvenant à se libérer de l'éternité, le Tout-Puissant rencontre les barrières du temps; et le Suprême ne pouvait connaître la croissance et le développement que comme conséquence de la partialité de l'existence et de l'incomplétude de la nature, de la non-absolution de l'être. (115:7.1)
 	Ce décalage temporel du superunivers, cet obstacle à l'atteinte de la perfection, permet la participation des créatures à la croissance évolutive. (106:1.1-2)
 aperçus cosmiques
 	L'état humain idéal est celui dans lequel la philosophie, la religion et la science sont soudées en une unité significative par l'action conjointe de la sagesse, de la foi et de l'expérience. (98:2.12)
@@ -1897,7 +1897,7 @@ aperçus cosmiques
 rancunes | | vengeance | | OK
 
 anges gardiens; séraphins gardiens | (113:0-1) | gardiens du destin; résurrection; séraphins | ORDER | OK
-L'enseignement sur les anges gardiens n'est pas un mythe ; certains groupes d'êtres humains ont effectivement des anges personnels. (113:1.1)
+L'enseignement sur les anges gardiens n'est pas un mythe; certains groupes d'êtres humains ont effectivement des anges personnels. (113:1.1)
 après la mort des sujets
 	Les séraphins gardiens assistent les jeunes dans la nurserie probatoire sur le monde finalitaire, tout comme ils exercent un ministère spirituel auprès des mortels sur les planètes évolutionnaires, tandis que les fidèles spornagias répondent à leurs besoins physiques. (47:2.6)
 	Quand un âge planétaire prend fin, quand ceux qui sont dans les cercles inférieurs de réalisation mortelle sont rassemblés, ce sont leurs gardiens de groupe qui les rassemblent dans les salles de résurrection des sphères des maisons, comme le rapporte : « Et il enverra ses anges avec une grande voix et rassemblera ses élus d'un bout à l'autre du royaume. » (113:6.7) (189:3.2)
@@ -1911,22 +1911,22 @@ après la mort des sujets
 	Si un pèlerin ascendant rencontrait une défaite dans l'aventure de la Déité alors qu'il traversait Havona en compagnie d'un séraphin ascendant, l'ange gardien de la carrière mortelle, il choisirait d'accompagner son associé mortel. (25:8.10)
 affectation
 	Toutes les affectations angéliques sont faites par un groupe de séraphins volontaires, et ces affectations sont toujours conformes aux besoins humains et au statut du couple angélique (113:2.3,7).
-	Avec l'arrivée du premier Ajusteur sur un monde habité, les séraphins gardiens font également leur apparition ; ils sont indispensables à l'évasion terrestre. (40:5.9) (49:6.4)
+	Avec l'arrivée du premier Ajusteur sur un monde habité, les séraphins gardiens font également leur apparition; ils sont indispensables à l'évasion terrestre. (40:5.9) (49:6.4)
 	Depuis l'octroi de Michael, ils sont assignés en accord avec l'intelligence humaine, la spiritualité et la destinée. (113:1.2)
 	Bien qu'Andon et Fonta aient tous deux reçu des Ajusteurs de Pensée, comme beaucoup de leurs descendants, ce n'est qu'à l'époque d'Onagar que les Ajusteurs et les séraphins gardiens arrivèrent en grand nombre sur Urantia. (63:6.9)
 	Les gardiens de groupe peuvent servir sur une planète âge après âge et devenir finalement les gardiens des âmes endormies de milliers et de milliers de survivants endormis. (113:2.4) (113:6.9)
-	Les médians ne sont pas des hommes, ni des anges, mais les médians secondaires sont, par nature, plus proches de l'homme que de l'ange ; ils sont, d'une certaine manière, de nos races et sont, par conséquent, très compréhensifs et sympathiques dans leur contact avec nous ; ils sont d'une valeur inestimable pour les séraphins dans leur travail pour et avec nos races, et les deux ordres sont indispensables aux séraphins qui servent de gardiens personnels. (77:8.4)
+	Les médians ne sont pas des hommes, ni des anges, mais les médians secondaires sont, par nature, plus proches de l'homme que de l'ange; ils sont, d'une certaine manière, de nos races et sont, par conséquent, très compréhensifs et sympathiques dans leur contact avec nous; ils sont d'une valeur inestimable pour les séraphins dans leur travail pour et avec nos races, et les deux ordres sont indispensables aux séraphins qui servent de gardiens personnels. (77:8.4)
 	Lorsque nous atteignons le sixième cercle de spiritualité, un couple séraphique avec une compagnie de chérubins est désigné pour nous guider en groupes de cinq cents. (113:0-1)
 gardiens du destin
 	Les séraphins ne sont pas connus comme gardiens du destin jusqu'au moment où ils sont assignés à l'association d'une âme humaine qui a réalisé une ou plusieurs des trois réalisations suivantes : a pris la décision suprême de devenir semblable à Dieu, est entrée dans le troisième cercle ou a été enrôlée dans l'un des corps de réserve du destin. (113:2.1)
 La rébellion de Lucifer
 	Tous les gardiens personnels et collectifs du système de Satania qui se sont égarés dans la rébellion de Lucifer, bien que beaucoup se soient sincèrement repentis de leur folie, doivent être détenus à Jérusalem jusqu'au jugement final de la rébellion. (113:6.10)
 technique de service
-	Les séraphins nous gardent ; ils ne cherchent pas directement à nous influencer ; nous devons tracer notre propre voie, mais ces anges agissent ensuite pour faire le meilleur usage possible de la voie que nous avons choisie. (113:5.4)
+	Les séraphins nous gardent; ils ne cherchent pas directement à nous influencer; nous devons tracer notre propre voie, mais ces anges agissent ensuite pour faire le meilleur usage possible de la voie que nous avons choisie. (113:5.4)
 	Pour les gardiens séraphiques, les cheveux mêmes de notre tête sont comptés. (165:3.4-5)
 	Les séraphins gardiens manipulent constamment notre environnement dans le but d'accroître notre perspicacité cosmique afin que nous puissions acquérir une meilleure réalisation de la présence de l'Ajusteur intérieur et ainsi être capables de coopérer davantage à la mission spirituelle de la présence divine. (113:3.5) (113:4.4)
-	Les anges n'envahissent pas le caractère sacré de l'esprit humain ; ils ne manipulent pas notre volonté ; ils n'entrent pas non plus en contact direct avec les Ajusteurs intérieurs. (113:5.1)
-	Les séraphins agissent en notre faveur tout à fait indépendamment de nos appels directs ; ils exécutent les ordres de leurs supérieurs et fonctionnent donc sans tenir compte de nos caprices passagers ou de nos humeurs changeantes. Cela ne signifie pas que nous ne pouvons pas rendre leur tâche plus facile ou plus difficile, mais plutôt que les anges ne sont pas directement concernés par nos appels ou nos prières. (113:5.3)
+	Les anges n'envahissent pas le caractère sacré de l'esprit humain; ils ne manipulent pas notre volonté; ils n'entrent pas non plus en contact direct avec les Ajusteurs intérieurs. (113:5.1)
+	Les séraphins agissent en notre faveur tout à fait indépendamment de nos appels directs; ils exécutent les ordres de leurs supérieurs et fonctionnent donc sans tenir compte de nos caprices passagers ou de nos humeurs changeantes. Cela ne signifie pas que nous ne pouvons pas rendre leur tâche plus facile ou plus difficile, mais plutôt que les anges ne sont pas directement concernés par nos appels ou nos prières. (113:5.3)
 	Ils n'interviennent donc pas dans le drame humain, sauf en cas d'urgence et généralement sur ordre direct de leurs supérieurs. (113:5.4)
 	Les gardiens sont plus actifs aux moments où les Ajusteurs sont moins actifs, mais leur ministère est d'une certaine manière étrangement corrélé. (113:4.5)
 	Bien qu'il n'y ait apparemment aucune communication entre les Ajusteurs intérieurs et les séraphins environnants, ils semblent toujours travailler en parfaite harmonie et en accord exquis. (113:4.5) (113:5.1)
@@ -1952,23 +1952,23 @@ affectation
 	Lorsque les êtres humains sont choisis comme protecteurs de la destinée planétaire, lorsqu'ils deviennent des individus pivots dans les plans que les administrateurs du monde poursuivent, à ce moment-là, le chef planétaire des séraphins confirme leur attachement temporel au corps séraphique et nomme des gardiens personnels de la destinée pour servir avec ces réservistes mortels. (114:7.2)
 destin
 	la plupart entrent dans le Corps des Finalitaires Mortels (39:8.10)
-	le couple angélique peut réaliser la bi-unification spirituelle sur Seraphington et peut recevoir un fragment non-Ajusteur du Père et fusionner avec lui (113:7.8)
+	le couple angélique peut réaliser la bi-unification spirituelle sur Séraphington et peut recevoir un fragment non-Ajusteur du Père et fusionner avec lui (113:7.8)
 	certains deviennent des planificateurs mentaux si les protections ne survivent pas (48:6.24)
 	le passeport séraphique le plus sûr pour le Paradis est le service en tant que gardien du destin (39:1.6) (39:8.4-5) (113:7.7)
 	la majorité se détache des sujets pendant Havona (39:8.7-8)
 	les médians agissent comme interprètes pour les gardiens du destin dans les ères de lumière et de vie (55:4.8)
 Cessionnaires notables
-	Jésus a envoyé son tuteur personnel loin de la montagne alors qu'il était sur le mont Hermon ; il n'a plus eu de tuteur personnel après son baptême (123:2.2) (134:8.2,8) (136:4.10)
+	Jésus a envoyé son tuteur personnel loin de la montagne alors qu'il était sur le mont Hermon; il n'a plus eu de tuteur personnel après son baptême (123:2.2) (134:8.2,8) (136:4.10)
 	Sur Urantia, le premier mortel à s'assurer un gardien personnel fut Rantowoc, un homme sage de la race rouge d'autrefois. (113:2.2)
 technique de service
 	L'une des choses les plus importantes qu'un gardien de la destinée fasse pour son sujet mortel est d'effectuer une coordination personnelle des nombreuses influences spirituelles impersonnelles qui habitent, entourent et affectent l'esprit et l'âme de la créature matérielle en évolution. (113:3.1-5)
 	De nombreux gardiens ont acquis une expérience très précieuse sur les mondes qui appartiennent à la série de fusion non-Ajusteur. (113:2.3)
-	Le gardien du destin vous influence de toutes les manières possibles, compatibles avec la dignité de votre personnalité ; en aucun cas ces anges n'interfèrent avec la libre action de la volonté humaine. (113:5.1)
+	Le gardien du destin vous influence de toutes les manières possibles, compatibles avec la dignité de votre personnalité; en aucun cas ces anges n'interfèrent avec la libre action de la volonté humaine. (113:5.1)
 	Les médians sont indispensables aux séraphins qui servent de gardiens personnels aux mortels. (77:8.4)
-	Les gardiens séraphiques de la destinée continuent leur ministère personnel auprès des mortels qui progressent dans la lumière ; en effet, de tels anges viennent en nombre toujours croissant au cours des âges sédentaires, car des groupes de plus en plus nombreux d'êtres humains atteignent le troisième cercle cosmique de réalisation coordonnée des mortels au cours de la vie planétaire. Le Saint-Esprit et le ministère des anges sont encore plus efficaces au fur et à mesure que les époques successives de la vie sédentaire sont vécues. (55:4.2) (55:6.4)
+	Les gardiens séraphiques de la destinée continuent leur ministère personnel auprès des mortels qui progressent dans la lumière; en effet, de tels anges viennent en nombre toujours croissant au cours des âges sédentaires, car des groupes de plus en plus nombreux d'êtres humains atteignent le troisième cercle cosmique de réalisation coordonnée des mortels au cours de la vie planétaire. Le Saint-Esprit et le ministère des anges sont encore plus efficaces au fur et à mesure que les époques successives de la vie sédentaire sont vécues. (55:4.2) (55:6.4)
 	Il est très difficile de travailler avec les races humaines d'Urantia. Il n'est pas rare d'entendre un gardien de la destinée faire une déclaration officielle pour excuser les difficultés qu'il a rencontrées alors qu'il servait son sujet mortel. (111:7.4-5)
 
-gardiens de la santé et de la vie | | Caligastia cent | PERSON | OK
+gardiens de la santé et de la vie | | Cent de Caligastia | PERSON | OK
 
 invités | | hospitalité | | OK
 
@@ -1977,11 +1977,11 @@ origine
 	L'incapacité à résoudre ce problème donne naissance au premier type de sentiment de culpabilité humaine. (103:5.4)
 	Le sentiment de culpabilité (et non la conscience du péché) provient soit d'une communion spirituelle interrompue, soit d'un abaissement des idéaux moraux. (103:4.3)
 	L'enfant, étant immature et manquant d'une compréhension plus complète de la profondeur de la relation père-enfant, doit souvent ressentir un sentiment de séparation coupable de l'approbation totale d'un père, mais le vrai père n'est jamais conscient d'une telle séparation. (174:1.4)
-	Le sentiment de culpabilité est la conscience de la violation des mœurs ; il ne s'agit pas nécessairement d'un péché. (89:10.3-4)
+	Le sentiment de culpabilité est la conscience de la violation des mœurs; il ne s'agit pas nécessairement d'un péché. (89:10.3-4)
 faire face à la culpabilité
 	Ne soyez pas découragés par notre incapacité à oublier complètement certaines de nos expériences regrettables. (156:5.8)
-	Jésus a détruit la base de toute cette culpabilité fictive et de ce sentiment d'isolement dans l'univers en déclarant que l'homme est un enfant de Dieu ; la relation créature-Créateur a été placée sur une base enfant-parent. (103:4.4)
-	Jésus dit : « Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien ; vous devez non seulement être purifiés de tout péché conscient, mais vous devez refuser d'entretenir même des sentiments de culpabilité. » (156:2.7)
+	Jésus a détruit la base de toute cette culpabilité fictive et de ce sentiment d'isolement dans l'univers en déclarant que l'homme est un enfant de Dieu; la relation créature-Créateur a été placée sur une base enfant-parent. (103:4.4)
+	Jésus dit : « Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien; vous devez non seulement être purifiés de tout péché conscient, mais vous devez refuser d'entretenir même des sentiments de culpabilité. » (156:2.7)
 Anciens tests de culpabilité
 	L'Ancien Testament rapporte l'une de ces épreuves, un test de culpabilité conjugale : Leurs premières méthodes de détection des crimes consistaient à effectuer des épreuves de poison, de feu et de douleur. (70:10.5-7)
 Pierre

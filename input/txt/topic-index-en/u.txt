@@ -699,7 +699,7 @@ Ovid proclaimed Salem doctrines in (93:5.4)
 wise men from Ur sought baby Jesus (122:8.5-7)
 Zoroaster’s dream at (95:6.2)
 
-Ural mountains |(59:5.12) | | PLACE | 
+Ural mountains | (59:5.12) | | PLACE | 
 
 Ural Straits | | | PLACE | 
 connected Arctic to Mediterranean (61:1.12)
@@ -846,7 +846,7 @@ Urantia advisory council | | four and twenty counselors | PERSON |
 
 Urantia Brotherhood of Urantia Midwayers | | midwayers | PERSON | 
 
-Urantia Papers | | language:limitations of human language; revelation | RELIGION | 
+Urantia Papers; accompanying papers; those papers; these papers; These papers; the series; papers | | language:limitations of human language; revelation | RELIGION | 
 authors
 	acknowledgments by (0:12.13-14) (56:10.22-23) (121:0.1) (121:8.12-14)
 	book is composite presentation by many beings (92:4.9)

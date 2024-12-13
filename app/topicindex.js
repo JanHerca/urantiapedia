@@ -624,10 +624,12 @@ class TopicIndex {
 	/**
 	 * Checks topics, writing errors found inside topics.
 	 * @param {Book} book The Urantia Book object.
+	 * @param {?TopicIndex} topicIndexEN An optional TopicIndex in English
+	 * to obtain valid seeAlsos, if they exist.
 	 */
-	check = (book) => {
+	check = (book, topicIndexEN) => {
 		return new Promise((resolve, reject) => {
-			this.topics.forEach(t => this.checkTopic(t, book));
+			this.topics.forEach(t => this.checkTopic(t, book, topicIndexEN));
 			resolve(true);
 		});
 	};
@@ -636,8 +638,10 @@ class TopicIndex {
 	 * Checks a topic, writing errors in it.
 	 * @param {Object} topic Topic.
 	 * @param {Book} book The Urantia Book object.
+	 * @param {?TopicIndex} topicIndexEN An optional TopicIndex in English
+	 * to obtain valid seeAlsos, if they exist.
 	 */
-	checkTopic = (topic, book) => {
+	checkTopic = (topic, book, topicIndexEN) => {
 		topic.errors = [];
 		//Checking duplicates
 		const other = this.topics.filter(tt => tt != topic && tt.name === topic.name);
@@ -661,9 +665,9 @@ class TopicIndex {
 		}
 
 		//Checking links to other topics
-		this.checkSeeAlso(topic.seeAlso, topic.fileline, topic.errors);
+		this.checkSeeAlso(topic, undefined, topicIndexEN);
 		topic.lines.forEach(line => {
-			this.checkSeeAlso(line.seeAlso, line.fileline, topic.errors);
+			this.checkSeeAlso(topic, line, topicIndexEN);
 		});
 	};
 
@@ -731,18 +735,44 @@ class TopicIndex {
 	/**
 	 * Checks an array of links to other topics and add errors in an array
 	 * of error objects (with desc and fileline).
-	 * @param {Array.<string>} seeAlso Array of links to other topics.
-	 * @param {number} fileline Line number.
-	 * @param {Array.<Object>} errors Array for the errors.
+	 * @param {Object} topic Topic to check.
+	 * @param {?Object} line Line inside a topic (optional for checking lines).
+	 * @param {?TopicIndex} topicIndexEN An optional TopicIndex in English
+	 * to obtain valid seeAlsos, if they exist.
 	 */
-	checkSeeAlso = (seeAlso, fileline, errors) => {
+	checkSeeAlso = (topic, line, topicIndexEN) => {
+		const { errors, filename } = topic;
+		const { seeAlso, fileline } = (line ? line : topic);
 		if (seeAlso && seeAlso.length > 0) {
-			seeAlso.forEach(sa => {
+			let tEN = null;
+			seeAlso.forEach((sa, i) => {
 				const term = sa.split(':')[0];
+				let correctTerm = '';
 				if (!this.topics.find(t => t.name === term)) {
+					if (topicIndexEN && tEN === null) {
+						tEN = topicIndexEN.topics
+							.find(t => t.filename === filename && 
+								t.fileline === topic.fileline);
+					}
+					if (tEN) {
+						const lineEN = line 
+							? tEN.lines.find(l => l.fileline === line.fileline)
+							: null;
+						const seeAlsoEN = lineEN ? lineEN.seeAlso : tEN.seeAlso;
+						const saEN = seeAlsoEN ? seeAlsoEN[i] : null;
+						const termEN = saEN ? saEN.split(':')[0] : null;
+						const t2EN = termEN ? topicIndexEN.topics
+							.find(t => t.name === termEN) : null;
+						if (t2EN) {
+							const t2 = this.topics
+								.find(t => t.filename === t2EN.filename && 
+									t.fileline === t2EN.fileline);
+							correctTerm = `, better use '${t2.name}'`;
+						}
+					}
 					errors.push({
-						desc: strformat(
-							this.tr('topic_seealso_not_found'), sa),
+						desc: strformat(this.tr('topic_seealso_not_found'), sa, 
+							correctTerm),
 						fileline: fileline
 					});
 				}

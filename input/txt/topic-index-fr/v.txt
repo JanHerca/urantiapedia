@@ -48,7 +48,7 @@ avertissements
 
 Van (lac) | | Lac Van | PLACE |
 
-Van (bâton du prince) | (67:6) | Caligastia cent | PERSON |
+Van (bâton du prince) | (67:6) | Cent de Caligastia | PERSON |
 1-2-3 le premier supporté (77:9.5)
 et tout le conseil loyal dans la rébellion (67:4.1)
 pouvait communiquer avec les médians (74:4.3)
@@ -69,14 +69,14 @@ travail
 	a prêché l'avènement de l'élévation raciale (73:2.1-2)
 	proclamé Adam et Ève dirigeants d'Urantia (74:2.1,6)
 	protesté contre l'intention des habitants du jardin d'adorer Adam (74:4.3)
-	est resté 150 000 ans après la rébellion ; est parti 7 ans après l'arrivée d'Adam (67:4.5) (67:6.4,8) (74:5.2)
-	formé une nouvelle génération d'ouvriers du jardin ; résisté aux désertions (73:4.5)
+	est resté 150 000 ans après la rébellion; est parti 7 ans après l'arrivée d'Adam (67:4.5) (67:6.4,8) (74:5.2)
+	formé une nouvelle génération d'ouvriers du jardin; résisté aux désertions (73:4.5)
 	se retira dans les hautes terres à l'ouest de l'Inde (67:6.1-2)
 
 vanadium | | | |
 l'ascidie oxygène le sang avec (65:6.4)
 
-Vanités | | | RACE |
+Vanites | | | RACE |
 Les Amadonites et les Nodites qui abandonnèrent Nod pour Van (77:4.10)
 
 vanité | | suffisance | |
@@ -153,14 +153,14 @@ toucha le bord du vêtement de Jésus (152:0.2-3) (171:7.8)
 vertébrés | | animaux | |
 
 Vesta | | | PERSON |
-Déesse romaine du foyer ; Hestia en Grèce (98:3.3)
+Déesse romaine du foyer; Hestia en Grèce (98:3.3)
 
 veto | | | |
 Le père brandit le sceptre de veto (3:6.1)
 sur le conclave du système (55:8.1)
 sur le gouvernement planétaire d'Urantia exercé par le Très Haut observateur (114:5.1)
 
-Vevona | | | PERSON |
+Vévona | | | PERSON |
 séraphins auxiliaires planétaires; chef des âmes de paix; proclama la naissance de Jésus (39:5.5)
 
 Vicegerington | (13:1.11-14) | sphères sacrées du Paradis | PLACE |
@@ -168,7 +168,7 @@ sein du Père et du Fils (13:1.11)
 Corps des finalitaires trinitisés conjoints basé sur (31:1.5)
 êtres trinitisés par des créatures gardés en réserve sur (22:7.10) (23:4.3)
 demeure des êtres d'origine dans le Père et le Fils Éternel (13:1.11)
-Les messagers solitaires accompagnent les fils trinitisés par des créatures jusqu'à V. ; ils ne les quittent jamais (23:4.3)
+Les messagers solitaires accompagnent les fils trinitisés par la créature jusqu'à V.; ils ne les quittent jamais (23:4.3)
 la trinitisation est le secret de (13:1.12) (22:7.1)
 
 vices | | mal; satisfaction personnelle; péché | |
@@ -186,7 +186,7 @@ ce qui triomphe du monde, c'est la foi (4:4.9)
 points de vue | | croyance | |
 
 Vilton | | | PERSON |
-enregistreur du système local ; tertiaire Lanonandek #374 (45:3.6)
+enregistreur du système local; tertiaire Lanonandek #374 (45:3.6)
 
 vigne et sarments | | | |
 parabole de (180:2) (193:2.2)
@@ -237,7 +237,7 @@ la vertu suprême est de faire de tout cœur la volonté du Père (16:7.10)
 virus | | bactéries | |
 la plupart sont des champignons parasites renégats (65:2.3)
 
-Vishnu | | | PERSON |
+Vishnou | | | PERSON |
 Bouddha et le Christ sont considérés comme des incarnations de (94:4.9)
 membre du concept trinitaire hindou (104:1.5)
 souvent représenté avec une tête de cheval (85:3.4)
@@ -248,7 +248,7 @@ les êtres célestes dotés d'une vision spirituelle exclusive ne peuvent pas vo
 Les transformateurs d'énergie peuvent permettre aux mortels de voir les êtres célestes (38:2.1) (45:1.2) (47:1.2) (50:2.7) (158:1.8) (189:4.11) (191:3.2)
 vaste gamme de vision morontielle (9:8.13) (24:6.2) (39:4.18) (46:5.10)
 gamme de matériel et de spirituel (44:0.16-18)
-à courte portée ; étendu en lumière et en vie (29:1.1) (55:4.8) (55:6.3)
+à courte portée; étendu en lumière et en vie (29:1.1) (55:4.8) (55:6.3)
 nous serions incapables de voir les temples morontiels s'ils existaient, comme nous le sommes (44:3.9)
 
 visions | | rêves; directions; voix | |
@@ -294,10 +294,10 @@ voix | | directions; visions | |
 Jésus ne se laissait pas aller à écouter des voix religieuses (196:0.10)
 La voix de Jésus était musicale, fascinante, autoritaire (125:5.1) (127:1.2) (154:6.5) (162:6.2) (183:3.5) (190:2.3)
 
-Voix des armées angéliques; La Voix des armées angéliques | | seconaphin | ORDER |
+Voix des Armées Angéliques; La Voix des Armées Angéliques | | seconaphin | ORDER |
 seconaphin primaire (28:4.11)
 
-Voix de l'acteur conjoint; La voix de l'acteur conjoint | | seconaphin | ORDER |
+Voix de l'Acteur Conjoint; La Voix de l'Acteur Conjoint | | seconaphin | ORDER |
 seconaphin primaire (28:4.4)
 
 Voix des Fils Créateurs; Voix des Fils Créateurs; La Voix des Fils Créateurs | | seconaphin | ORDER |
@@ -308,7 +308,7 @@ Voix de la Miséricorde | | séraphins | ORDER |
 les guides de justice peuvent devenir (39:4.5)
 séraphins supérieurs; favoriser les émotions plus saintes des hommes et des anges (39:2.5)
 
-Voix des Sept Maîtres Esprits; La Voix des Sept Maîtres Esprits | | seconaphin | ORDER |
+Voix des Sept Maitres Esprits; La voix des Sept Maitres Esprits | | seconaphin | ORDER |
 seconaphin primaire (28:4.5)
 
 voix du Jardin | | séraphins; Solonia | ORDER |
@@ -316,7 +316,7 @@ aides planétaires, séraphins personnels d'Adam et Eve (39:5.3)
 Solonia a réprimandé Adam et Eve pour leur désobéissance (51:3.5) (73:7.5) (74:8.15) (75:4.2,8) (75:8.8) (76:6.5)
 
 Voix de la Sagesse | | seconaphin | ORDER |
-seconaphins secondaires, associés réfléchis des Perfecteurs de Sagesse ; en liaison avec les bibliothèques vivantes du Paradis (28:5.7-10)
+seconaphins secondaires, associés réfléchis des Perfecteurs de Sagesse; en liaison avec les bibliothèques vivantes du Paradis (28:5.7-10)
 
 volcans | (60:3.16) (61:1.11-12) (61:2.3) (61:3.7) | | |
 âge des volcans de 1,5 à 1 milliard d'années (57:7) (59:3.2,6) (59:5.20) (60:1.3) (60:3.1) (60:3.6) (61:4.1)
@@ -324,7 +324,7 @@ volcans | (60:3.16) (61:1.11-12) (61:2.3) (61:3.7) | | |
 sont devenus des fétiches (88:1.1)
 volcans étendus à la fin de la dérive des continents (60:3.11,15)
 la lave se refroidit et se transforme en granite (58:5.5)
-la lave a diversifié la croûte terrestre ; a isolé la planète des énergies spatiales (57:8.18)
+la lave a diversifié la croûte terrestre; a isolé la planète des énergies spatiales (57:8.18)
 la lave a égalisé la pression thermique interne avec la contraction de la croûte (57:8.2,11,16)
 les coulées de lave ont ramené des métaux lourds à la surface (58:5.2)
 les volcans de l'est du Kentucky étaient parmi les plus grands (59:2,5)
@@ -337,12 +337,12 @@ bénévoles | | | |
 aucun mercenaire n'a été utilisé pour préparer le jardin d'Eden (73:4.4)
 les séraphins servent toujours comme (113:2.3,7)
 
-Volvox | (65:2.5) | | |
+volvox | (65:2.5) | | |
 
 médecins vaudous | | chamans | |
 typique des magiciens d'autrefois (88:6.1)
 
-Fils de Vorondadek | (35:5-6) | La plupart des sommets | ORDER |
+Fils Vorondadeks | (35:5-6) | La plupart des sommets | ORDER |
 1 fonctions sur Urantia en tant qu'observateur Très Haut (109:7.7) (114:3.5) (114:4)
 12 administrent Norlatiadek (35:6.5) (43:5.2-15)
 12 siégeant en banc en tant que haute cour de révision (35:5.7)
@@ -365,7 +365,7 @@ servir comme ambassadeurs et consuls (35:5.5)
 le travail concerne les fonctions législatives (35:5.7)
 a écrit le document 36 (36:3.8)
 
-Mondes de Vorondadek | | | PLACE |
+mondes Vorondadeks | | | PLACE |
 7 mondes entourant Salvington (35:7)
 ascendeurs éduqués dans la législation universelle sur (35:7.1-2)
 
