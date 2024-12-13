@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Océan Pacifique | | | PLACE |
+océan Pacifique | | | PLACE |
 950 millions d'années ; à l'origine non salé (57:8.3-5)
 couvert 9/10 de la surface terrestre (57:8.20)
 géologie des îles de l'océan Pacifique (60:1.12)
@@ -36,13 +36,13 @@ la chaleur soulage (90:4.6)
 La technique de guérison des Porteurs de Vie procure un soulagement (65:4.6)
 aucun au Paradis (27:1.5)
 
-Mont Palatin | | | PLACE |
+mont Palatin | | | PLACE |
 Résidence de l'empereur romain située sur (132:0.2)
 
 palabres | | | |
 rarement utile (70:5.5)
 
-Paléozoïque | | âges géologiques | |
+paléozoïque | | âges géologiques | |
 ère de la vie marine, de 400 à 150 millions d'années (59:0.4) (59:6.11)
 
 Palestine | | Décapole ; Éphraïm ; Galilée ; Israël; Judée ; Pérée ; Samarie | PLACE |
@@ -52,12 +52,12 @@ choisi pour la mission de Jésus (134:0.1-2)
 climat (123:4.5) (124:1.9-10) (163:5.2)
 carrefour de 3 continents (121:2.2)
 jouissait de la prospérité et de la paix à l'époque de Jésus (121:1.9)
-missions de Melchisédek et de Michel quelque peu déterminées par la situation centrale de (93:5.2)
+missions de Melchizédek et de Michel quelque peu déterminées par la situation centrale de (93:5.2)
 le royaume du nord d'Ephraïm a disparu (97:9.21)
 La Terre promise ruisselait de lait et de miel (96:2.2)
 Les Sahraouis ont émigré vers (80:2.2)
 
-Palissades de l'Hudson | (60:1.3) | | PLACE |
+Palissades du fleuve Hudson | (60:1.3) | | PLACE |
 
 Dimanche des Rameaux | (172:3) | | |
 
@@ -68,7 +68,7 @@ Palonia | | | PLACE |
 la première rébellion du système dans Nébadon a eu lieu en (119:2.5-6)
 système 11 de la constellation 37 (119:2.1)
 
-Isthme de Panama | | | PLACE |
+isthme de Panama | | | PLACE |
 a augmenté ou a diminué (61:0,2) (61:1,12)
 
 Pandore | | | PERSON |
@@ -85,10 +85,10 @@ Effacement de 14 miles du règne de Caligastia (46:8.1) (67:3.10)
 de l'histoire planétaire du système, 35 000 milles de circonférence (46:5.23)
 les médians primaires formulent (38:9.12)
 
-Pantaenus | | | PERSON |
+Pantène | | | PERSON |
 a enseigné à Clément; a suivi Nathanaël en Inde (195:3.10)
 
-Panthéisme | | | RELIGION |
+panthéisme | | | RELIGION |
 Mysticisme chrétien philosophiquement apparenté à (195:4.1)
 erreur de corporéité (1:5.11-12)
 erreur d'omniscience (118:6.8)
@@ -255,7 +255,7 @@ valeurs et réalités de (189:1.3) (195:7.4)
 pomme du paradis | | | |
 citron; fruit défendu (162:4.4)
 
-Arrivées au paradis | | mortels ascendants | |
+arrivants au Paradis | | mortels ascendants | |
 mortels ascendants avec statut résidentiel (30:4.31-33)
 étudier la divinité et l'absonité (30:4.31)
 Les émotions d'adoration des arrivées au Paradis étonnent les anges (27:7.6)
@@ -312,7 +312,7 @@ Conseil suprême du destin composé des chefs de chaque corps finalitaire (31:10
 
 Fils Créateurs du Paradis | | Fils Créateurs | ORDER |
 
-Divinités du Paradis | | | ORDER |
+Déités du Paradis; DÉITÉS DU PARADIS | | | ORDER |
 dans le registre de la personnalité (30:2.10-13)
 nommé
 	# Père Universel
@@ -325,20 +325,20 @@ Organisateurs de la force du paradis | | Organisateurs de la force principale | 
 
 Gravité paradisiaque | | gravité:types | |
 
-Système Paradis-Havona | | Havona; Paradis | PLACE |
+système Paradis-Havona | | Havona; Paradis | PLACE |
 noyau éternel du maître univers (12:1.11)
 
-Fils trinitisés par le Paradis-Havona | | trinitisation | ORDER |
+Fils trinitisés par le Paradis-Havona; fils trinitisés par les citoyens du Paradis-Havona | | trinitisation | ORDER |
 créé par les citoyens du paradis et les habitants de Havon (22:7.9-13)
 dans le registre de personnalité d'Uversa (30:2.63)
 peuvent servir d'évangiles de lumière attachés aux compagnies mortelles finalitaires (31:7.2)
 
-Commission d'incarnation du paradis | | | |
+commission paradisiaque d'incarnation | | | |
 déployé autour du tombeau de Jésus (189:1.1,5)
 
 Esprits Maîtres du Paradis | | Esprits Maîtres, Sept | ORDER |
 
-Fils du Paradis de Dieu | (20) (7:6) | Fils Créateurs; Fils Magistraux; Fils Enseignants de la Trinité | ORDER |
+Fils Paradisiaques de Dieu | (20) (7:6) | Fils Créateurs; Fils Magistraux; Fils Enseignants de la Trinité | ORDER |
 tous sont unis dans une association spirituelle quasi absolue (7:6.7)
 toute connaissance du Père vient du Fils Éternel, des Fils du Paradis (7:7.1-4)
 sont
@@ -408,7 +408,7 @@ croyances concernant
 	croissance du concept de la Trinité (104)
 	L'enseignement de Lao-tseu (94:6.3)
 	Philon a ouvert la voie à Paul pour restaurer le concept de (121:6.5)
-	révélé par Caligastia, Adam et Eve, Melchisédek, Jésus (104:1.1-3) (161:1.6)
+	révélé par Caligastia, Adam et Eve, Melchizédek, Jésus (104:1.1-3) (161:1.6)
 l'emblème est constitué de 3 cercles concentriques bleu azur (53:5.4)
 les finalitaires prêtent serment à (27:7.9) (117:7.7)
 fonctions
@@ -549,7 +549,7 @@ effet affaiblissant de la révérence excessive envers (79:6.9)
 
 vie pastorale | | éleveurs | |
 
-Patagoniens | | | RACE |
+Patagons | | | RACE |
 arbres adorés (85:2.4)
 
 brevets | | | |
@@ -589,10 +589,10 @@ nous devons en toutes choses attendre la volonté du Père (137:4.8)
 nous aurons l'occasion de présenter de bonnes idées dans les âges futurs (65:3.7)
 la sagesse du retard (54:5)
 
-Patmos, île de | | | PLACE |
+Patmos, île de; Ile de Patmos | | | PLACE |
 L'apôtre Jean est banni (139:4.13-14)
 
-Patrae | | | PLACE |
+Patras | | | PLACE |
 L'apôtre André crucifié en (139:1.12)
 
 patriarcat | | famille:familles patriarcales | |
@@ -769,10 +769,10 @@ L'Esprit de Vérité a rendu la possession démoniaque impossible après (141:4.
 Les Urantiens peuvent passer directement aux mondes des maisons depuis (52:5.5)
 ce qui s'est passé à (194:1-3)
 
-Penuel | (165:0,1) | | PLACE |
+Pénuel | (165:0,1) | | PLACE |
 Mission Pérée
 
-Pepi | | | PERSON |
+Pépi | | | PERSON |
 roi; référence au culte du soleil (95:2.8)
 
 Pérée | (165) (166) | | PLACE |
@@ -812,7 +812,7 @@ de la maîtrise de soi spirituelle équivaut à une liberté personnelle complè
 la lutte pour la perfection concerne également le niveau physique (116:5.12)
 non dilué sur le Paradis (2:2.4)
 
-Perfections des jours | (18:4) | | ORDER |
+Perfections des Jours | (18:4) | | ORDER |
 3 règles pour chaque secteur majeur (15:10.14) (15:13.2) (18:4.2)
 210 en existence (18:4.1)
 administrer les engagements de groupe aux ascendants (18:4.7)
@@ -821,7 +821,7 @@ dans les registres de personnalité (30:1.11) (30:2.26)
 Personnalités de la Trinité Suprême (15:13.1) (18:0.5)
 Les gardiens trinitisés sont des officiers des tribunaux de (18:4.5)
 
-Perfecteurs de la sagesse | (19:2) | | ORDER |
+Perfecteurs de Sagesse | (19:2) | | ORDER |
 7 milliards existent ; plus personne n'en crée (15:10.11) (19:0.9) (19:2.1)
 sont la sagesse de la Trinité (19:2.3)
 les coordonnées sont Conseillers Divins et Censeurs Universels (19:2.2) (19:3.2)
@@ -856,10 +856,10 @@ Le témoignage contre Jésus est tombé dans ses propres pièges (184:3.8)
 
 citoyens permanents | | corps des citoyens permanents | ORDER |
 
-Permien | | âges géologiques | |
+permienne | | âges géologiques | |
 âge de la tribulation biologique ; de 170 à 150 millions d'années (59:6)
 
-Perpétue | (145:3.5) | | PERSON |
+Perpétua | (145:3.5) | | PERSON |
 épouse capable de Pierre; mari accompagné (139:2.14) (163:7.3)
 cuisinait pour les apôtres ; sa mère s'appelait Amatha (145:2.15)
 donné en pâture aux bêtes sauvages dans l'arène de Rome (139:2.14) (163:7.3)
@@ -884,7 +884,7 @@ persévérance | | persistance | |
 
 Perse | | Iran; Perses | PLACE |
 
-Golfe Persique | | | PLACE |
+golfe Persique | | | PLACE |
 Expédition dravidienne sur (79:3.7)
 île du golfe Persique proposée pour le jardin d'Eden (73:3.1)
 Ur est situé sur (78:8.2)
@@ -906,7 +906,7 @@ parabole des pains (144:2.3)
 parabole du juge injuste (144:2.5)
 valider les prières en possédant l'endurance cosmique (91:9.2)
 
-Aides personnelles de l'Esprit infini | (24:3) | | ORDER |
+Aides Personnels de l'Esprit Infini | (24:3) | | ORDER |
 existe pour exécuter les ordres de l'Esprit Infini (24:3.2)
 dans les registres de personnalité (30:1.74) (30:2.70)
 situé au Paradis ; éclair vers les extrémités de la création (24:0.10-11) (24:3.2)
@@ -1155,10 +1155,10 @@ forêts pétrifiées | (60:1.7) | | |
 culte phallique | | | |
 défense contre le mauvais œil (87:5.5)
 
-Pharisien et publicain | | | |
+Pharisien et publicain; parabole du pharisien et du publicain | | | |
 parabole de (140:5.7) (167:5.1-2)
 
-Pharisiens | | Judaïsme; rabbins; Sanhédrin; scribes | RELIGION |
+pharisiens | | Judaïsme; rabbins; Sanhédrin; scribes | RELIGION |
 3 ont démissionné pendant le procès de Jésus (184:5.8)
 presque tous les sanhédristes qui soutenaient Jésus étaient (184:1.1) (184:3.5)
 a demandé à Jean-Baptiste s'il était Élie (135:9.4)
@@ -1192,7 +1192,7 @@ enseignements
 ils pensent qu'ils font le service de Dieu (155:1.4)
 est allé vers Jean pour le baptême (135:6.7)
 
-Pharos, phare de | | | PLACE |
+Pharos, phare de; phare de Pharos | | | PLACE |
 à Alexandrie (130:3.2)
 
 Phasaélis | (143:1.1) (143:3.8) | | PLACE |
@@ -1333,7 +1333,7 @@ porcs consacrés à (89:1.5)
 photographes | | | |
 enregistreurs morontiels (44:4.12)
 
-Cultes à mystères phrygiens | | | |
+Cultes à mystères phrygiens; culte phrygien; cérémonies phrygiennes | | | |
 imposant mais dégradant (98:4.3,7)
 
 phylums | | | |
@@ -1372,7 +1372,7 @@ pigeons | | | |
 descendant d'énormes reptiles anciens (65:2.9)
 Joseph en offrit 2 pour le sacrifice au temple (122:10.2)
 
-Pikes Peak | (60:4.4) | | PLACE |
+pic Pikes | (60:4.4) | | PLACE |
 
 Pilate, Ponce | | Ponce Pilate | PERSON |
 
@@ -1408,7 +1408,7 @@ nettoyé des mers au temps de Jésus (121:1.7)
 
 Pisidie | (121:8.8) | | PLACE |
 
-Expérience de Pitcairn | | | |
+expérience de Pitcairn | | | |
 mélange de races réussi (82:6.9)
 
 glandes pituitaires | | hormones | |
@@ -1653,7 +1653,7 @@ Platon | | Platonisme | PERSON |
 Grec; enseigne que la vertu est la connaissance; souffrir plutôt que d'être coupable d'injustice (98:2.6)
 pas un enseignant religieux (92:5.12)
 
-Platonisme | | Grèce:religion grecque ; Platon | RELIGION |
+platonisme | | Grèce:religion grecque ; Platon | RELIGION |
 4 grandes philosophies dérivées de (121:4.1)
 Le 4e livre des Maccabées illustre (121:6.3)
 adapté au christianisme (146:1.3)
@@ -1684,10 +1684,10 @@ plaisirs physiques
 se souvenir des expériences passées procure du plaisir (48:4.10,20)
 satisfactions du bonheur (3:5.14)
 
-Pléistocène | | âges géologiques | |
+pléistocène | | âges géologiques | |
 période glaciaire; il y a 2 millions à 100 000 ans (61:5-7)
 
-Pliocène | | âges géologiques | |
+pliocène | | âges géologiques | |
 ère de migration des mammifères ; il y a 10 à 1 millions d'années (61:4)
 
 charrue | | | |
@@ -1851,7 +1851,7 @@ Porshunta | | | PERSON |
 esprit maître de la race orange ; quartier général à Armageddon (45:4.7) (64:6.12)
 l'un des 24 conseillers (45:4.7)
 
-Portail | | | PLACE |
+Portalon | | | PLACE |
 univers voisin de Nébadon (32:2.12)
 
 porteurs | | | |
@@ -2241,7 +2241,7 @@ Personnalisation de l'Esprit-Mère de l'univers local (17:6.7) (34:1.1)
 
 Organisateurs de la Force Maîtresse Primaire Eventuée | | Organisateurs de la Force Maîtresse | ORDER |
 
-Primates | (62:4) | | RACE |
+primates | (62:4) | | RACE |
 Les Andonites ont assimilé de meilleures souches de (65:3.4)
 descendants des mammifères moyens; ancêtres immédiats des humains (61:6.1-2) (62:3.10) (62:4.1-2)
 éteint 5000 ans après l'apparition de l'homme (62:4.7)
@@ -2267,7 +2267,7 @@ Fils d'octroi (52:6.1)
 Jésus (68:3.5) (93:10.7) (136:9.7) (137:8.7)
 Les Juifs croyaient que le Messie régnerait sur eux (97:10.1)
 
-Prince de Salem | | Machiventa Melchisédek | PERSON |
+Prince de Salem | | Machiventa Melchizédek | PERSON |
 Melchizédek qui a vécu sur Urantia (35:4.5)
 
 Prince de ce monde | | Caligastia | PERSON |
@@ -2365,7 +2365,7 @@ valeur de la résolution de problèmes
 	valider les prières en affrontant ses problèmes (91:9.2-3,7)
 	La résolution de problèmes dans l'adoration favorise la croissance spirituelle (100:1.8)
 
-Proclamation d'égalité | | | |
+Proclamation d'Égalité; Proclamation finale d’Égalité | | | |
 Proclamation de Michael sur l'égalité de l'Esprit-Mère (33:3.6)
 
 procrastination | | | |
@@ -2439,7 +2439,7 @@ enregistreurs de pensées, artisans célestes (44:4.7)
 prophéties | | prophètes; spéculations; visions | |
 Les importations du temps sont le secret de la prophétie (28:6.11)
 Jean-Baptiste a prononcé une prophétie (135:11.3)
-Melchisédek a parlé à Abraham de la future occupation de Canaan par sa descendance après l'Égypte (93:6.3)
+Melchizédek a parlé à Abraham de la future occupation de Canaan par sa descendance après l'Égypte (93:6.3)
 Messianique | Messie
 des Livres d'Urantia
 	le grand Gautama pourrait surgir pour diriger l'Inde (79:4.8)
@@ -2513,10 +2513,10 @@ Le fils prodigue a dilapidé ses biens avec des prostituées (169:1.12)
 les esclaves sexuels sont une honte (69:5.10)
 corps de femmes prêché dans les maisons de (150:2.2)
 
-Protérozoïque | | âges géologiques | |
+protérozoïque | | âges géologiques | |
 ère de l'aube de la vie, il y a 550 à 400 millions d'années (58:7.1) (59:0.3)
 
-Réforme protestante | | | |
+Réforme protestante; dislocation de l’unité du christianisme | | | |
 unité brisée du christianisme (92:5.15)
 l'inélasticité de l'église rendait toute croissance future incompatible avec l'unité (92:5.15)
 
@@ -2530,7 +2530,7 @@ protoplasme | | | |
 la cellule est l'unité biologique de la vie matérielle (49:1.2)
 doit être tué pour être analysé (65:6.1)
 
-Protozoaires | (58:7.2) (65:2.4) | | |
+protozoaires | (58:7.2) (65:2.4) | | |
 
 Proverbes | | | |
 philosophie d'Aménémopé (95:4.3-5)
@@ -2669,7 +2669,7 @@ Zachée (171:6.1)
 publicains et pécheurs | | | |
 Les pharisiens appelaient les hommes d'affaires et les collecteurs d'impôts (138:3.4)
 
-Puget Sound | (61:5.8) | | PLACE |
+détroit de Puget | (61:5.8) | | PLACE |
 
 énergie puissante | | énergie; ultimatum | |
 Les organisateurs de force associés et les directeurs de pouvoir de l'univers transmutent une énergie puissante en stade d'énergie gravitationnelle, ultimatons (29:5.5) (42:6.3)

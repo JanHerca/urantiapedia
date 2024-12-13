@@ -46,7 +46,7 @@ madness | | insanity | |
 Madon | (134:7.5) (146:4.6) | | PLACE | 
 Jesus passed
 
-Magadan Park | (156:6.4) (159:0.1) (159:6.1-2) (162:9.6) | | PLACE | 
+Magadan Park; beautiful park | (156:6.4) (159:0.1) (159:6.1-2) (162:9.6) | | PLACE | 
 discussions with Rodan at (160) (161)
 ordination of the 70 at (163:0.1)
 south of Bethsaida-Julias (155:0.1) (157:2.1)
@@ -3200,7 +3200,7 @@ rule in kingdoms of men (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (1
 	rule through reservists (114:7.9)
 	rule through Vorondadek observer (43:5.17)
 
-Most Highs of Norlatiadek | | Most Highs | PERSON |
+Most Highs of Norlatiadek; Most Highs of Edentia | | Most Highs | PERSON |
 actions
 	appearance to Jesus (136:3.5)
 	approved members of Van’s supreme court in advance (66:5.31)
@@ -3274,7 +3274,7 @@ Mother Eves | | Material Sons | |
 mother force of space | | absoluta | | OK
 it is one of the names for absoluta
 
-Mother of God cult | | | RELIGION | 
+Mother of God cult; Mother of God sect; worship of the Great Mother; temples of the Great Mother; Great Mother | | | RELIGION | 
 Great Mother cult absorbed Salem gospel (93:7.3)
 greatest of devastating Roman mystery cults (98:3.5)
 influence on Christianity (98:7.7)
