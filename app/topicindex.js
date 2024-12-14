@@ -713,8 +713,8 @@ class TopicIndex {
 		const validArRefs = book.getArrayOfRefs(validRefs);
 		const notfounded = validArRefs.filter(validArRef => {
 			const par = book.getPar(...validArRef);
-			return (par == null || !testWords(names, 
-				par.par_content.replace(/\*/g, '')));
+			const content = par ? par.par_content.replace(/\*|\$/g, ''): null;
+			return (content == null || !testWords(names, content));
 		}).map(r => `${r[0]}:${r[1]}.${r[2]}`);
 
 		if (notfounded.length === validArRefs.length) {
