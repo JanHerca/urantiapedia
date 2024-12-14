@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Gabriel | (33:4) (189:1.5,10) | Étoiles brillantes et du matin | PERSON | OK
+Gabriel | (33:4) (189:1.5,10) | Radieuse Étoile du Matin | PERSON | OK
 Les étoiles brillantes du soir sont les agents de liaison de Gabriel (37:2.1-3)
 les présidents des cent conseils de sanctions suprêmes composent le cabinet de travail de Gabriel (33:8.4)
 puisque Gabriel ne peut pas être à deux endroits à la fois, les étoiles brillantes du soir compensent cette limitation (37:2.2)
@@ -99,7 +99,7 @@ La galaxie de la Voie Lactée semble être étroitement liée au superunivers d'
 > https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey
 > https://archive.stsci.edu/hlsp/ps1-strm
 
-Galilée | | Palestine; Mer de Galilée | PLACE | OK
+Galilée | | Palestine; mer de Galilée | PLACE | OK
 Les Galiléens n'étaient pas considérés avec la plus grande faveur par les chefs religieux et les enseignants rabbiniques de Jérusalem. La Galilée était plus païenne que juive à la naissance de Jésus. (121:2.12)
 Beaucoup de pêcheurs galiléens portaient de lourdes traces de sang païen en raison de la conversion forcée de la population païenne de Galilée cent ans auparavant. (139:0.2)
 Hérode Antipas, comme son père, était un grand bâtisseur. Il reconstruisit de nombreuses villes de Galilée, y compris l'important centre commercial de Sepphoris. (121:2.11)
@@ -137,7 +137,7 @@ Les peuples partiellement civilisés croient encore aujourd'hui au hasard et man
 L'homme primitif était un joueur né; il voulait toujours obtenir quelque chose gratuitement, et trop souvent, à cette époque reculée, le succès obtenu grâce à une pratique patiente était attribué aux charmes. (69:2.7)
 
 jeux | | | | OK
-à propos des jeux athlétiques, voir le lien vers Sports | sports
+à propos des jeux athlétiques, voir le lien vers Sports | sport
 Les vestiges modernes de cette propension au tirage au sort sont illustrés, non seulement dans les nombreux jeux de hasard, mais aussi dans les célèbres comptines de « décompte ». Autrefois, la personne éliminée devait mourir; aujourd'hui, elle n'est plus que cela dans un jeu enfantin. (90:2.4)
 
 rayons gamma; rayons gamma | | | | OK
@@ -160,7 +160,7 @@ il a mis en pratique les enseignements de son maître lorsqu'à Antioche il a pa
 avec Jésus, il a produit une synthèse traduite des meilleurs textes sur les religions du monde qu'ils ont trouvés dans la bibliothèque d'Alexandrie (131) (130 : 3.5-6)
 il était un digne successeur de son éminent père (133:9.5)
 
-Jardin d'Eden; jardin | | Adam; Jardins d'Eden; deuxième jardin | PLACE | OK
+Jardin d'Eden; jardin | | Adam; Jardin d'Éden; deuxième jardin | PLACE | OK
 Le Jardin d'Eden est le deuxième centre mondial de civilisation à se projeter sur une planète normale, après la ville-siège du Prince Planétaire. Une grande université planétaire de culture destinée à durer éternellement (51:6.1-3)
 Lorsqu'Adam et Ève commencent leur séjour sur un monde évolutionnaire, leur lieu de résidence est souvent appelé le jardin d'Éden car il est caractérisé par la beauté florale et la grandeur botanique d'Édentia, la capitale de la constellation. (39:5.3) (51:3.2) (73:4.1)
 préparation
@@ -184,15 +184,15 @@ la vie dans le jardin
 	aucun animal n'a jamais été abattu dans le jardin d'Eden (73:4.1) (76:2.3)
 	Au début, la race violette reste relativement ségréguée, mais elle reçoit des candidats appropriés des races du monde. (51:6.1)
 	la vie dans le jardin d'Eden était loin d'être utopique (68:1.7)
-Les Édénites
-	Il y avait 1200 Édénites fidèles au moment de la faute d'Adan et d'Ève (75:6.2)
+Les Édenites
+	Il y avait 1200 Édenites fidèles au moment de la faute d'Adan et d'Ève (75:6.2)
 	Les habitants du Jardin avaient été en contact avec les Nodites depuis les premiers jours d'Eden. De ces descendants mixtes des membres défaillants de l'état-major de Caligastia, ils avaient reçu une aide et une coopération très précieuses (75:2.5) (75:3.5) (77:4.1)
 	Les enfants d'Adam, à l'exception de leurs quatre années de fréquentation des écoles occidentales, vivaient et travaillaient à « l'est d'Eden ». Ils étaient formés intellectuellement jusqu'à l'âge de seize ans selon les méthodes des écoles de Jérusem. De seize à vingt ans, ils étaient instruits dans les écoles d'Urantia à l'autre bout du Jardin, et y exerçaient également la fonction d'enseignants dans les classes inférieures. (74:7)
-	Lorsque la nouvelle parvint aux habitants du pays du deuxième jardin que le roi et le grand prêtre du jardin d'Eden marchaient contre eux, ils s'enfuirent en hâte vers les montagnes de l'est et laissèrent le territoire vacant pour les Édénites (76:1).
-	Quand Adam choisit de laisser le premier jardin aux Nodites sans opposition, lui et ses disciples ne purent pas aller vers l'ouest, car les Édénites n'avaient pas de bateaux adaptés à une telle aventure maritime. (76:0.1)
+	Lorsque la nouvelle parvint aux habitants du pays du deuxième jardin que le roi et le grand prêtre du jardin d'Eden marchaient contre eux, ils s'enfuirent en hâte vers les montagnes de l'est et laissèrent le territoire vacant pour les Édenites (76:1).
+	Quand Adam choisit de laisser le premier jardin aux Nodites sans opposition, lui et ses disciples ne purent pas aller vers l'ouest, car les Édenites n'avaient pas de bateaux adaptés à une telle aventure maritime. (76:0.1)
 	L'idéal édénique de la famille était que toute la famille était composée de jardiniers (84:7.8)
 	la langue du jardin d'Eden était le dialecte andonique tel que parlé par Amadon (74:2.2)
-	Les Édénites ont massacré les Nodites voisins après avoir appris la folie d'Ève avec Cano (75:5.3)
+	Les Édenites ont massacré les Nodites voisins après avoir appris la folie d'Ève avec Cano (75:5.3)
 	ils pratiquaient l'enterrement scrupuleux de tous les déchets (73:5.4)
 	Lorsque l'Éden fut perturbé, il y avait plus d'une centaine d'usines de fabrication primitives en activité, et de vastes relations commerciales avec les tribus voisines avaient été établies. (74:5.3)
 destin
@@ -228,7 +228,7 @@ dans la plupart des nations continentales développées, les criminels sont exé
 
 gastéropodes | (59:2.12) (59:3.7) | | | OK
 
-porte belle; Belle Porte | | Jérusalem; Temple de Jérusalem| PLACE | OK
+porte belle; Belle Porte | | Jérusalem; temple de Jérusalem| PLACE | OK
 L'une des portes du temple de Jérusalem, mentionnée par les Actes des Apôtres (162:4.3)
 > https://en.wikipedia.org/wiki/Beautiful_Gate
 
@@ -338,7 +338,7 @@ C'est ici que Jésus et les douze terminèrent leur voyage de retour de Phénici
 gentils | | païen | RACE | OK
 Chaque synagogue juive tolérait une frange de croyants non juifs, des hommes « pieux » ou « craignant Dieu », et c'est parmi cette frange de prosélytes que Paul a fait la majorité de ses premiers convertis au christianisme. Même le temple de Jérusalem possédait sa cour décorée réservée aux non juifs (121:2.5).
 à l'époque de Jésus, les philosophies païennes étaient : (121:4)
-	* L'épicurien (121:4.2) | L'épicurisme
+	* L'épicurien (121:4.2) | Épicurisme
 	* Le stoïcien (121:4.3) | Stoïcisme (religion)
 	* Le cynique (121:4.4) | cynisme (attitude)
 	* Le sceptique (121:4.5) | Scepticisme (religion)
@@ -346,7 +346,7 @@ Chaque synagogue juive tolérait une frange de croyants non juifs, des hommes «
 	* Les cultes païens (121:5.3)
 	* Culte de l'empereur (121:5.4) | culte de l'empereur
 	* Astrologie (121:5.5) | astrologie
-	* Les religions à mystères (121:5.6) | cultes à mystères
+	* Les religions à mystères (121:5.6) | cultes mystérieux
 Juifs
 	regardait les Gentils avec mépris (121:7.1)
 	 En Galilée, les Juifs se mêlaient plus librement aux Gentils que ce n'était leur pratique en Judée. (123:5.7)
@@ -424,9 +424,9 @@ C'est l'une des villes visitées lors de la mission de Pérée, le dernier effor
 Là, Jésus a prononcé un discours mémorable sur « combien seront sauvés » (166:3)
 > https://en.wikipedia.org/wiki/Jerash
 
-Garizim | | Mont Garizim | PLACE | OK
+Garizim | | mont Garizim | PLACE | OK
 
-plasma germinatif | | plasma vital | | OK
+plasma germinatif | | plasma de vie | | OK
 
 Allemagne | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
 Les cultures nordique-danoise et danubienne-andonite se sont rencontrées et mêlées sur le Rhin, comme en témoigne l'existence de deux groupes raciaux en Allemagne aujourd'hui. (80:9.3)
@@ -656,7 +656,7 @@ terme « Dieu »
 	Le mot Dieu ne peut pas être défini et représente le concept infini du Père, mais comme le mot Père peut être partiellement défini, il peut être utilisé pour représenter le concept humain du Père divin (0:2.9) (1:7.1) (169:4.7)
 	Dieu doit être compris comme la réalité des valeurs, la substance des significations et la vie de la vérité (5:4.2)
 	les définitions théologiques de Dieu doivent changer à chaque époque (5:5.12)
-également connu sous le nom | Déité:également connu sous le nom; Père universel:également connu sous le nom
+également connu sous le nom | Déité:également connu sous le nom; Père Universel:également connu sous le nom
 	* Adonaï (96:1.9)
 	* Allah (95:7.6)
 	* Ancien des jours (96:1.9)
@@ -717,7 +717,7 @@ trouver Dieu | foi; croissance spirituelle
 	l'incapacité de l'homme à s'approcher de Dieu est due à notre finitude, et non à une attitude éloignée du Père (5:1)
 	la course pour comprendre Dieu commence par la reconnaissance de la divinité du Fils Créateur (0:8.9)
 	On peut croire en Dieu grâce à l'expérience humaine ou à la révélation de la vérité (101:2.6)
-	pendant longtemps, pour une créature ascendante, il n'est possible de localiser le Père que par la foi (32:3.6) (101:8.1) (102:6.5) | la foi
+	pendant longtemps, pour une créature ascendante, il n'est possible de localiser le Père que par la foi (32:3.6) (101:8.1) (102:6.5) | foi
 	nous serons tous attirés vers le Père par l'impulsion de rebond des Ajusteurs de Pensée (56:4.1)
 	en reconnaissant la vérité, la beauté et la bonté, l'homme doit développer la reconnaissance d'un Dieu d'amour et ensuite progresser vers la réalisation du Suprême (56:6.3)
 	Dieu ne peut être trouvé par la science (1:2.7) (42:1.3) (133:6.7)
@@ -766,7 +766,7 @@ trouver Dieu | foi; croissance spirituelle
 	pour trouver Dieu, l'homme n'a pas besoin d'aller au-delà de sa propre expérience intérieure de lui-même, il suffit de la contemplation de l'âme de la réalité spirituelle intérieure (5:0.1)
 	nous connaissons Dieu parce que nous lui faisons confiance (102:1.5)
 	chaque réalisation dans le progrès évolutif d'un monde ou d'un groupe de mondes s'accompagne d'une croissance dans la réalisation de Dieu jusqu'aux stades de lumière et de vie qui culminent dans la réalisation du Suprême (56:7.1-2,5) (142:2.2-4) (142:3) (159:4)
-La nature de Dieu (2) | beauté; bonté; justice:justice divine; miséricorde; omnipotence; omniscience; vérité
+La nature de Dieu (2) | beauté; bonté; justice:justice divine; miséricorde; toute-puissance; omniscience; vérité
 	toutes choses existent en Dieu (0:3.11) (3:1.7) (3:5.4) (3:6) (9:0.4) (11:8.1) (16:9.14) (42:1.2,6) (56:1.5) (56:9.14) (104:4.46) (131:10.2,4)
 	toutes choses sont possibles à Dieu (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 	tout véritable amour vient de Dieu (117:6.10)
@@ -797,7 +797,7 @@ La nature de Dieu (2) | beauté; bonté; justice:justice divine; miséricorde; o
 	ne respectant aucune personne (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133 :0,3) (137:8,6) (138:8,2) (140:3,16) (143:1,5) (148:6,2) (155:6,2) (156:2,4) (166:4,11) (175:2,1-3) (181:2,14) (192:2,2)
 	Il n'y a pas de bon, sauf Dieu (196:0.9) (196:2.2)
 	rien ne nous sépare de son amour (100:6.6)
-	Dieu est tout-puissant | omnipotence
+	Dieu est tout-puissant | toute-puissance
 	Dieu est omniscient | omniscience
 	Dieu est le seul fait auto-provoqué dans l'univers (102:7.1-3)
 	Bien que Dieu soit plus qu'une personnalité élevée, dans notre expérience, il ne peut pas être moins qu'une personne (102:1.6) (102:7.3) (103:1.6)
@@ -916,7 +916,7 @@ avenir
 	l'unification du maître univers est un acte final de (10:8.2)
 	est ou sera parfois présent à la marge extérieure du 4ème niveau d'espace (12:6.13)
 	une possible union future des Fils Créateurs et des Esprits Créateurs pourrait être révélée (118:9.8)
-	Trinity Ultimate active la présence finale de (106:4.1-4)
+	Ultime Trinité active la présence finale de (106:4.1-4)
 
 Godad | | | PERSON | OK
 Godad était un ermite salémite que Gautama aurait dû écouter afin de faire du bouddhisme une meilleure religion (94:7.4)
@@ -941,7 +941,7 @@ noms
 	dieux nommés dans le Livre d'Urantia :
 	* Agni | Agni
 	* Ahura-Mazda | Ahura-Mazda
-	* Anu | Anu
+	* Anou | Anou
 	* Aphrodite | Aphrodite
 	* Apollon | Apollon
 	* Artémis | Artémis
@@ -954,26 +954,26 @@ noms
 	* Baal | Baal
 	* banshees | banshees
 	* Bel | Bel
-	* Bel-Marduk | Bel-Marduk
+	* Bel-Mardouk | Bel-Mardouk
 	* Brahma | Brahma
 	* Brahman | Brahman
 	* brownies | brownies
 	* Bouddha | Bouddha
 	* centaures | centaures
-	* Chimio | Chimio
+	* Kemoch | Kemoch
 	* Cybèle | Cybèle
 	* Dagon | Dagon
 	* Daphné | Daphné
-	* Dévoreuse | Dévoreuse
+	* Dévoratrice | Dévoratrice
 	* Dionysos | Dionysos
 	* dragon | dragon
 	* nains | nains
 	* Dyaus pitar | Dyaus pitar
-	* Ea | Ea
+	* Éa | Éa
 	* Le | Le
 	* El Shaddaï | El Shaddaï
 	* fées | fées
-	*Destin | Destin
+	* Destin | Destin
 	* destins | destins
 	* Culte de la Grande Mère | Culte de la Grande Mère
 	* Hestia | Hestia
@@ -989,31 +989,31 @@ noms
 	* sirènes | sirènes
 	* Minerve | Minerve
 	* Mithra | Mithra
-	* Nabu | Nabu
+	* Nabou | Nabou
 	* Neptune | Neptune
 	* Néréides | Néréides
-	* Dieu du Nil | Dieu du Nil
+	* Dieu du Nil | dieu du Nil
 	* Nog | Nog
 	* Osiris | Osiris
 	* Pandore | Pandore
 	* Prajapati | Prajapati
 	* Prométhée | Prométhée
 	* Ramman | Ramman
-	* Bouddha Sakyamuni | Bouddha Sakyamuni
+	* Sakyamouni Bouddha | Sakyamouni Bouddha
 	* Ensemble | Ensemble
 	* Shamash | Shamash
 	* Shang-ti | Shang-ti
-	* Péché | Péché (dieu)
-	* Shiva | Shiva
+	* Sin | Sin (dieu)
+	* Siva | Siva
 	* Sol Invictus | Sol Invictus
 	* Soma | Soma
 	* Thor | Thor (dieu)
-	* Thot | Thot
+	* Thoth | Thoth
 	* Trimurti | Trimurti
 	* Vénus | Vénus (dieu)
 	* Vesta | Vesta
-	* Vishnu | Vishnu
-	* Yahvé | Yahvé
+	* Vishnou | Vishnou
+	* Yahweh | Yahweh
 	* Zeus | Zeus
 
 or; Or | | | | OK
@@ -1186,7 +1186,7 @@ L'Évangile expliqué | religion:expliquée
 	La vérité, la beauté, la bonté, l'amour et l'adoration deviennent significatives en tant que communion avec l'homme et filiation avec Dieu. (99:4.4)
 	Les efforts intellectuels peuvent révéler les faits de la vie, mais l'Évangile du royaume dévoile les vérités de l'être. (146:3.1)
 diffusion de l'évangile
-	Jésus a maintenu divers groupes de messagers de l'Évangile : ses apôtres, ses disciples, les soixante-dix évangélistes et le corps des messagers de David Zébédée | apôtres de Jésus; disciples; évangélistes; corps des messagers (David Zébédée)
+	Jésus a maintenu divers groupes de messagers de l'Évangile : ses apôtres, ses disciples, les soixante-dix évangélistes et le corps des messagers de David Zébédée | apôtres de Jésus; disciples; évangélistes; corps de messagers (David Zébédée)
 	Si l'Évangile de Jésus était resté tel qu'il l'a présenté, le seul commentaire étant l'interprétation inspirée offerte par sa vie terrestre, toutes les nations et toutes les religions du monde auraient rapidement adopté cet Évangile du royaume. (149:2.1)
 	Maintenant que nous jouissons aujourd'hui des avantages de l'art de l'imprimerie, nous ne comprenons guère combien il était difficile de perpétuer la vérité à cette époque reculée; combien il était facile de perdre de vue une nouvelle doctrine d'une génération à l'autre. (93:7.4)
 	À mesure que l'Évangile de ce royaume se répandra dans le monde entier avec son message de bonne humeur et de bonne volonté envers tous les hommes, les relations entre les familles de toutes les nations s'amélioreront et deviendront meilleures. (142:2.2) (143:1.4) (176:1.1)
@@ -1270,7 +1270,7 @@ proclamer l'évangile | gouvernement:relation des croyants avec; royaume des cie
 ragots | | | | OK
 Jésus a recommandé : « Ne dites que ce que vous avez entendu de moi, ne remettez pas ce que l'on vous a dit. » (138:8.4)
 
-gouvernement | | civilisation; nation continentale; tribunaux; institutions; législatures; nations; patriotisme; police; réglementation (gouvernementale); souveraineté; fiscalité | | OK
+gouvernement | | civilisation; nation continentale; tribunaux; institutions; législatures; nations; patriotisme; police; règlement (gouvernemental); souveraineté; fiscalité | | OK
 La relation des croyants avec le gouvernement
 	il nous incombe de ne constituer aucune pierre d'achoppement pour les autorités (157:1.2,4)
 	Dans tout ce qui touche aux plans de paix, nous devons nous soumettre au gouvernement. Dans ces domaines, nous devons faire ce qu'il nous ordonne et observer les éléments essentiels de la loi (140:8.9) (175:1.8) (177:3.7)
@@ -1326,7 +1326,7 @@ d'autres mondes
 	Dans cette nation de la planète voisine, les fonctionnaires du gouvernement soutenus par les fonds des impôts sont, pendant la durée de ces services, privés de leurs droits civiques. (72:9.4)
 	dans les mondes qui sont aux stades de lumière et de vie, le gouvernement disparaît progressivement (52:7.5) (55:3.2) (55:5.4)
 	aux époques de lumière et de vie, il y a des chefs exécutifs mortels qui servent comme administrateurs conjoints associés au Souverain Planétaire, libérant ainsi l'Adam et l'Ève de la planète de leurs positions de gouvernement (55:4.15)
-principes de gouvernement (70) (71) (72) | concurrence; tribunaux; droits de l'homme; industrie; justice; loi; armée; profit; fiscalité
+principes de gouvernement (70) (71) (72) | concurrence; tribunaux; droits de l'homme; industrie; justice; loi; militaire; profit; fiscalité
 	Voici les principes qui devraient régir toutes les formes de gouvernement humain :
 	* L'esclavage, le servage et toutes les formes de servitude humaine doivent disparaître. (71:2.10)
 	* Le jugement est la fonction la plus élevée de tout gouvernement, et ceux qui sont chargés de rendre le verdict doivent être choisis parmi les types les plus élevés et les plus nobles des individus les plus expérimentés et les plus compréhensifs. (22:4.3)
@@ -1372,7 +1372,7 @@ principes de gouvernement (70) (71) (72) | concurrence; tribunaux; droits de l'h
 	* La reconnaissance de l'égalité des sexes et le fonctionnement coordonné des hommes et des femmes à la maison, à l'école et à l'église, avec un service spécialisé des femmes dans l'industrie et le gouvernement. (71:8.10)
 	* le gouvernement devrait encourager la science et vaincre la maladie (71:8.9,11)
 	* devrait offrir des opportunités justes et pacifiques à tous (70:9.17)
-	* doit fournir des programmes de protection sociale | organisme de bienfaisance:par le gouvernement
+	* doit fournir des programmes de protection sociale | charité:par le gouvernement
 	Suffrage universel. Le gouvernement représentatif présuppose un électorat intelligent, efficace et universel. (71:2.17)
 	* la consommation finale de la croissance politique est le gouvernement de toute l'humanité, par toute l'humanité et pour toute l'humanité. (134:5)
 les étapes de l'évolution du gouvernement
@@ -1505,7 +1505,7 @@ Jérémie dit : « En ces jours-là, on ne dira plus : Les pères ont mangé des
 herbe | (60:3.19) (61:3.2) | | | OK
 Jésus dit : « Si Dieu habille ainsi l'herbe des champs, qui vit aujourd'hui et qui demain sera coupée et jetée au feu, à combien plus forte raison vous habillera-t-il, vous qui êtes les ambassadeurs du royaume des cieux » (165:5.3).
 
-gratification | | auto-gratification | | OK
+gratification | | autosatisfaction | | OK
 
 gravier | | | | OK
 Les dépôts du début du Carbonifère ont une épaisseur de 150 à 600 mètres et sont constitués de grès, de schiste et de calcaire. Les couches les plus anciennes contiennent des fossiles d'animaux et de plantes terrestres et marins, ainsi que beaucoup de gravier et de sédiments de bassin. (59:5.10)
@@ -1513,7 +1513,7 @@ Les dépôts du début du Carbonifère ont une épaisseur de 150 à 600 mètres 
 tombes | | tombes | | OK
 Les tout premiers titres fonciers accordés par les tribus à des individus étaient des tombes, des cimetières familiaux. (69:9.14)
 
-gravita | | énergie; Directeurs du pouvoir de l'univers | | OK
+gravita | | énergie; Directeurs de Pouvoir d'Univers | | OK
 la gravita est également connue sous le nom de puissance universelle (0:6.7)
 ce sont les organisations matérielles des superunivers et sont de constitution double (11:8.7) (42:5.6)
 La puissance de l'univers comprend toutes les formes d'énergie qui, tout en répondant à la gravité du Paradis, sont directement sensibles à la gravité linéaire. C'est le niveau électronique de l'énergie-matière et de toutes ses évolutions ultérieures. (0:6.7)
@@ -1626,7 +1626,7 @@ types de gravité
 		Le péché et la rébellion peuvent interférer avec le fonctionnement des circuits de l'univers local, mais rien ne peut suspendre la gravité spirituelle du Fils Éternel. (7:1.7)
 		la présence spirituelle du Fils Éternel est le canal de toute communion spirituelle (194:2.12)
 		Le circuit de gravité spirituelle est le canal de base pour transmettre les prières authentiques du cœur humain croyant du niveau de conscience humaine à la conscience réelle de la Déité. (7:3.3)
-	gravité de la personnalité | circuit de la personnalité
+	gravité de la personnalité | circuit de personnalité
 		La gravité de la personnalité n'est pas calculable. Le circuit peut être reconnu, mais les réalités qualitatives ou quantitatives qui lui sont sensibles ne peuvent être mesurées. (12:3.12)
 
 énergie gravitationnelle | | énergie; ultimata | | OK
@@ -1659,7 +1659,7 @@ Grands Lacs | | | PLACE | OK
 Le système nord-américain des Grands Lacs a été créé lors du retrait d'un glacier. Nos géologues ont déduit avec une grande précision les différentes étapes de ce développement et ont supposé à juste titre que ces masses d'eau se sont, à différentes époques, déversées d'abord dans la vallée du Mississippi, puis vers l'est dans la vallée de l'Hudson, et enfin par la route du nord dans le Saint-Laurent. Il y a trente-sept mille ans que le système des Grands Lacs a commencé à se vider par la route actuelle du Niagara. (61:7.10)
 > https://en.wikipedia.org/wiki/Great_Lakes
 
-Culte de la Grande Mère | | Culte de la Mère de Dieu | RELIGION | OK
+Culte de la Grande Mère | | culte de la Mère de Dieu | RELIGION | OK
 
 Grande Pyramide | | pyramides | | OK
 
@@ -1731,7 +1731,7 @@ Religion grecque (98:1-2) | cultes mystérieux; platonisme
 	En Grèce, l'absence presque totale de prêtres et de « livres sacrés » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la pensée. Les Grecs helléniques n'ont jamais développé un système de culte centralisé; le rituel était local; ils n'avaient ni sacerdoce ni « livre sacré » (98:1.5) (98:2.7) (98:6.1).
 	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps; aucune n'a jamais créé un système d'éthique aussi avancé pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain (98:2.11).
 	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
-	mais ils firent un plongeon orgiaque terrible dans les folies des cultes à mystères qui se répandaient alors dans les terres méditerranéennes (98:2.10-11)
+	mais ils firent un plongeon orgiaque terrible dans les folies des cultes mystérieux qui se répandaient alors dans les terres méditerranéennes (98:2.10-11)
 	La religion olympienne ne promettait pas le salut, ni n'étanchait la soif spirituelle de ses croyants; elle était donc vouée à périr. (98:2.1)
 	croyances
 		un groupe de 30 pierres était vénéré en Grèce (85:1.3)
@@ -1785,7 +1785,7 @@ Progrès intellectuel et stagnation
 	L'esprit grec était disposé à emprunter des idées nouvelles et bonnes, même aux Juifs. (195:1.3)
 	En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. En Grèce, l'absence presque totale de prêtres et d'« Écritures sacrées » laissait l'esprit humain libre et sans entraves, ce qui entraînait un développement surprenant de la profondeur de la pensée. Mais la religion en tant qu'expérience personnelle ne parvenait pas à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. En Grèce, la croyance était subordonnée à la pensée; en Palestine, la pensée était considérée comme subordonnée à la croyance. En Palestine, le dogme religieux s'est cristallisé au point de compromettre toute croissance ultérieure; en Grèce, la pensée humaine est devenue si abstraite que le concept de Dieu s'est transformé en une brume de spéculation panthéiste (98:2.7-9).
 	Comme les Grecs n'étaient pas très intéressés par la philosophie de la réalisation de soi et d'une divinité abstraite, ils se tournèrent vers les cultes mystérieux, tels que les mystères d'Éleusis, le culte dionysiaque de la nature et la confrérie orphique (98:2.10).
-	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps; aucune n'a jamais créé un système éthique aussi avancé, pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain; aucune nation n'a jamais plongé aussi rapidement, aussi profondément et aussi violemment dans de telles profondeurs de stagnation intellectuelle, de dépravation morale et de pauvreté spirituelle que ces mêmes peuples grecs lorsqu'ils se précipitèrent dans le tourbillon fou des cultes à mystères. (98:2.111)
+	Aucune nation n'a jamais atteint de tels sommets de philosophie artistique en si peu de temps; aucune n'a jamais créé un système éthique aussi avancé, pratiquement sans Déité et entièrement dépourvu de la promesse du salut humain; aucune nation n'a jamais plongé aussi rapidement, aussi profondément et aussi violemment dans de telles profondeurs de stagnation intellectuelle, de dépravation morale et de pauvreté spirituelle que ces mêmes peuples grecs lorsqu'ils se précipitèrent dans le tourbillon fou des cultes mystérieux. (98:2.111)
 
 race verte | (64:6.17-20) | races | RACE | OK
 La race verte était l'un des groupes d'hommes primitifs les moins capables, et ils furent grandement affaiblis par de vastes migrations dans différentes directions. (64:6.17)
@@ -1823,7 +1823,7 @@ marnes de sable vert | (60:3.9) | | | OK
 Calendrier grégorien; calendrier actuellement utilisé; calendrier du vingtième siècle | | | | OK
 Le calendrier grégorien est celui utilisé dans les Fascicules d'Urantia. Bien que les années exactes soient connues des développeurs, elles n'ont pas été utilisées pour se conformer à ce calendrier. (57:0.1) (126:3.1)
 
-groupes | | coopération; famille; communion de croyants; amitié; individu; parties et le tout | | OK
+groupes | | coopération; famille; communauté de croyants; amitié; individu; parties et le tout | | OK
 Trois personnes constituent un groupe social minimum, mais c'est la moindre des nombreuses raisons de croire à l'inévitabilité de l'Acteur Conjoint. (10:2.3) (39:3.6)
 implication céleste
 	Le Fils Créateur règne en maître sur toutes les questions d'associations éthiques, les relations de toute division de créatures avec toute autre classe de créatures ou de deux ou plusieurs individus au sein d'un groupe donné (32:4.3-4).

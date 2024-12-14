@@ -46,7 +46,7 @@ avertissements
 	les valeurs ne peuvent jamais être statiques (100:3.5)
 	les valeurs ne doivent pas devenir disproportionnées (143:6.3)
 
-Van (lac) | | Lac Van | PLACE |
+Van (lac) | | lac de Van | PLACE |
 
 Van (bâton du prince) | (67:6) | Cent de Caligastia | PERSON |
 1-2-3 le premier supporté (77:9.5)
@@ -94,7 +94,7 @@ essentiel au concept de beauté (56:10.3)
 indispensable à la sélection naturelle (64:6.31)
 est reposant (48:6.37)
 
-Védas | | Rig-Veda | |
+Védas | | Rig-Véda | |
 
 Sacerdoce védique | | Brahmanisme | |
 
@@ -171,7 +171,7 @@ demeure des êtres d'origine dans le Père et le Fils Éternel (13:1.11)
 Les messagers solitaires accompagnent les fils trinitisés par la créature jusqu'à V.; ils ne les quittent jamais (23:4.3)
 la trinitisation est le secret de (13:1.12) (22:7.1)
 
-vices | | mal; satisfaction personnelle; péché | |
+vices | | mal; autosatisfaction; péché | |
 Jésus avait peu de choses à dire à ce sujet (140:8.21)
 la vertu poussée à l'extrême peut devenir un vice (149:4.3)
 
@@ -228,7 +228,7 @@ les vertus cardinales de Socrate étaient la sagesse, le courage, la tempérance
 poussée à l'extrême, la vertu peut devenir un vice (149:4.3)
 c'est la justice; la conformité avec le cosmos (16:7.6-7)
 est volontaire (21:3.14)
-la moralité est vertu (16:7.1) | moralité
+la moralité est vertu (16:7.1) | morale
 pas véritablement acquis jusqu'à ce que les actes en rendent digne (48:7.19)
 proportion requise dans l'exercice de (16:7.7)
 réalisé par un choix constant du bien plutôt que du mal (16:7.6)
@@ -342,7 +342,7 @@ volvox | (65:2.5) | | |
 médecins vaudous | | chamans | |
 typique des magiciens d'autrefois (88:6.1)
 
-Fils Vorondadeks | (35:5-6) | La plupart des sommets | ORDER |
+Fils Vorondadeks | (35:5-6) | Très Hauts | ORDER |
 1 fonctions sur Urantia en tant qu'observateur Très Haut (109:7.7) (114:3.5) (114:4)
 12 administrent Norlatiadek (35:6.5) (43:5.2-15)
 12 siégeant en banc en tant que haute cour de révision (35:5.7)
@@ -371,7 +371,7 @@ ascendeurs éduqués dans la législation universelle sur (35:7.1-2)
 
 Vosges; Vosges | (59:5.12) | | PLACE |
 
-vote | | suffrage | |
+vote | | suffrage universel | |
 
 vœux | | | |
 addiction à rendre les choses stupides (89:6.3)

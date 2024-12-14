@@ -784,9 +784,9 @@ la raison peut conduire à une cause première, mais la foi religieuse est néce
 Première Épitre de Pierre | | | | OK
 Le style vigoureux de l'apôtre Pierre est mieux illustré dans sa lettre connue sous le nom de Première Épître de Pierre; du moins c'était vrai avant qu'elle ne soit ultérieurement modifiée par un disciple de Paul. (139:2.12)
 
-première expérience Trinity | | Trinity Ultimate | PERSON | OK
+première expérience Trinity | | Ultime Trinité | PERSON | OK
 
-premier monde de manoir | | mondes de manoirs:1er | PLACE | OK
+premier monde de manoir | | mondes des manoirs:1er | PLACE | OK
 
 Première Personne de la Déité | | Père Universel | PERSON | OK
 
@@ -818,7 +818,7 @@ Les totems étaient à la fois les symboles du groupe et de leur dieu. Le totem 
 
 flamants roses | (61:2.12) | | | OK
 
-flatterie | | éloge; reconnaissance | | OK
+flatterie | | louange; reconnaissance | | OK
 Jésus a conseillé de ne pas se lasser de faire le bien, et il a mis en garde contre les sentiers glissants de la flatterie et les flèches empoisonnées du ridicule. (174:0.2)
 Influencée par les flatteries, l'enthousiasme et la grande persuasion personnelle de Cano, Ève consentit alors et là à se lancer dans l'entreprise tant discutée, pour ajouter son propre petit projet de salut du monde au plan divin plus vaste et de plus grande portée. (75:3.9)
 
@@ -1020,7 +1020,7 @@ Les formes n'ont aucune valeur lorsque les leçons sont apprises. (48:6.32)
 Fortant | | | PERSON | OK
 Fortant est l'un des sept Lanonandeks qui administrent actuellement Satania, et il est le directeur de la donation; il est le Fils Lanonandek secondaire numéroté 319 847. Il est responsable de toutes les activités qui ont été transférées à Jérusalem à la suite de la donation de Michael (45:3.7)
 
-Fortuné | | jeune fugueur à Corinthe | PERSON | OK
+Fortuné | | garçon en fuite à Corinthe | PERSON | OK
 Fortuné est un jeune homme craintif et abattu que Jésus a rencontré alors qu'il parcourait les montagnes de Crète (130:6)
 est devenu le chef des chrétiens en Crète (130:6.5)
 
@@ -1097,11 +1097,11 @@ Ces « quatrièmes créatures » des ordres angéliques conservent toujours leur
 effectuer des tâches limites indispensables (38:7.6)
 ils sont semblables aux médians (38:7.6)
 
-quatrième créature (Servitaux de Havona) | | Servitaux de Havona | ORDER | OK
+quatrième créature (Servites de Havona) | | Servites de Havona | ORDER | OK
 Il existe certains types d'êtres capables de discerner la réalité des créatures des mondes spirituel et matériel. Appartenant à cette classe se trouvent les créatures dites de la quatrième catégorie, les Servites de Havona (44:0.17).
 Un servital sur quatre est de type plus physique que les autres; c'est-à-dire que sur mille, sept cent cinquante sont apparemment fidèles au type spirituel, mais deux cent cinquante sont de nature semi-physique. (25:1.3) (38:7.6)
 
-quatrième créatures (conciliateurs universels) | | Conciliateurs universels | ORDER | OK
+quatrième créatures (conciliateurs universels) | | Conciliateurs Universels | ORDER | OK
 Il existe certains types d'êtres capables de discerner la réalité des créatures du monde spirituel et du monde matériel. Appartiennent à cette classe les créatures dites de la quatrième catégorie, les conciliateurs. (25:2.8) (38:7.6) (44:0.17)
 Les bourreaux divins, étant des quatrièmes créatures – des êtres quasi matériels – sont presque, mais pas tout à fait, visibles à la vision à courte portée des races mortelles. (25:2.8)
 
@@ -1110,7 +1110,7 @@ Jésus dit : « Mon fils, les renards ont des tanières et les oiseaux du ciel o
 
 peuplades de Foxhall | | | RACE | OK
 Bien que les restes des peuples de Foxhall aient été les derniers à être découverts en Angleterre, ces Andonites furent en réalité les premiers êtres humains à vivre dans ces régions. (64:2.6)
-Durant une longue période de décadence culturelle, les peuples Foxhall d'Angleterre et les tribus Badonan au nord-ouest de l'Inde ont continué à conserver certaines traditions d'Andon et certains vestiges de la culture d'Onagar. (64:2)
+Durant une longue période de décadence culturelle, les peuples Foxhall d'Angleterre et les Tribus Badonan au nord-ouest de l'Inde ont continué à conserver certaines traditions d'Andon et certains vestiges de la culture d'Onagar. (64:2)
 Les peuples de Foxhall étaient les plus à l'ouest et ont réussi à conserver une grande partie de la culture andonique; ils ont également préservé leur connaissance du travail du silex, qu'ils ont transmis à leurs descendants, les anciens ancêtres des Esquimaux. (64:2.5-7)
 
 fragmentation; fragmentations | | | | OK
@@ -1118,14 +1118,14 @@ Les Ajusteurs représentent le mieux les entités fragmentées de la Déité (30
 Il existe d'autres fragmentations en dehors des Ajusteurs de Pensée (42.11.1)
 Le Fils Éternel, en tant qu'être infini et exclusivement personnel, ne peut fragmenter sa nature, ne peut pas distribuer et conférer des portions individualisées de son individualité à d'autres entités ou personnes comme le font le Père Universel et l'Esprit Infini. (6:5.5-6) (7:5.3)
 
-France | (61:3.8) (61:4.2) (61:5.4) | Bretagne; Somme | PLACE | OK
+France | (61:3.8) (61:4.2) (61:5.4) | Bretagne; Rivière Somme | PLACE | OK
 Il y avait des Andonites en France. Ils ont vécu le long de la Somme pendant des dizaines de milliers d'années. Bien que les restes des peuples de Foxhall aient été les derniers à être découverts en Angleterre, ces Andonites furent en réalité les premiers êtres humains à vivre dans ces régions. À cette époque, le pont terrestre reliait encore la France à l'Angleterre (63:5.2-3) (64:1.5-6) (64:2.6)
 Les Néandertaliens étaient d'excellents combattants et ils voyageaient beaucoup. Ils se sont progressivement répandus depuis les hauts plateaux du nord-ouest de l'Inde jusqu'à la France à l'ouest, la Chine à l'est et même jusqu'en Afrique du Nord. (64:4.1)
 Les bastions de l'homme bleu qui ont persisté le plus longtemps se trouvaient dans le sud de la France, mais la dernière grande résistance militaire a été vaincue le long de la Somme. (80:5.5)
 Vers 5000 av. J.-C., les races blanches en évolution dominaient toute l'Europe du Nord, y compris le nord de l'Allemagne, le nord de la France et les îles britanniques. (80:5.8)
 À l'époque du Nouvel Âge de Pierre, en 3000 avant J.C., chevauchant l'âge du Bronze qui approchait. Dans le sud de la France et en Espagne, c'était le Nouvel Âge de Pierre associé au culte du soleil. adorateurs du soleil (80:9.13)
 
-franchise | | suffrage | | OK
+franchise | | suffrage universel | | OK
 
 frandalanks; Frandalanks | | Maitres Contrôleurs Physiques | ORDER | OK
 Il y en a dix sur chaque capitale de constellation (41:1.4)
@@ -1347,7 +1347,7 @@ Fusion des ajusteurs
 Fils fusionné
 	Sur la fusion avec le Fils, voir le lien sur les mortels fusionnés avec le Fils | Mortels fusionnés avec le Fils
 Fusion des esprits |
-	Sur la fusion spirituelle, voir le lien sur les mortels fusionnés spirituellement | Mortels fusionnés spirituellement
+	Sur la fusion spirituelle, voir le lien sur les mortels fusionnés spirituellement | Mortels fusionnés avec l'Esprit
 
 futur | | | | OK
 L'avenir signifie lutte et progrès; il évoque le travail, l'effort et la réussite (48:4.12)

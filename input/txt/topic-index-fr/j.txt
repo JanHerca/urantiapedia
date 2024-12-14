@@ -61,7 +61,7 @@ démissionné de son poste de chef; s'est aligné sur Jésus (154:1.2)
 
 Jacques, Épître de | | Jacques (frère de Jésus):Épître de | |
 
-James Alpheus | | Jumeaux Alpheus | PERSON | OK
+James Alpheus | | Jumeaux Alphée | PERSON | OK
 
 Jacques (frère de Jésus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jésus:famille | PERSON | OK
 né le 2 avril 3 av. J.-C.; deuxième enfant (123:1,5)
@@ -239,7 +239,7 @@ Jéroboam | | | PERSON | OK
 fils de Joas; délivra Israël de ses ennemis (97:9.20)
 > https://en.wikipedia.org/wiki/Jeroboam_II
 
-Jérusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | Temple de Jérusalem | PLACE |
+Jérusalem | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | temple de Jérusalem | PLACE |
 Les apôtres ont lié la destruction de Jérusalem à l'apparition de la Nouvelle Jérusalem (176:1.6)
 assiégée à l'époque de Jérémie (97:6.4)
 la cité de la maison du Père (171:4.7)
@@ -255,13 +255,13 @@ La Pâque de Jésus à (125) (142)
 des millions de Juifs dispersés assistaient à des fêtes religieuses (121:6.9) (162:4.1) (185:1.5) (188:3.1)
 La vision de Paul de la Jérusalem céleste (47:10.3)
 la persécution a dispersé les premiers croyants (143:6.6)
-lieux dans et autour | Palais asmonéen; Porte de Damas; porte de la fontaine; Géhenne; Golgotha; Temple de Jérusalem; Cédron; le mont Oliviert; Ophel; piscine de Bethesda; Siloé (piscine); porte d'eau
+lieux dans et autour | Palais asmonéen; Porte de Damas; porte de la fontaine; Géhenne; Golgotha; temple de Jérusalem; Cédron; mont des Oliviers; Ophel; piscine de Bethesda; Siloé (piscine); porte d'eau
 connu auparavant sous le nom de Jébus; Salem (93:2.4) (97:9.11)
 les prophètes périssent dans (171:4.7)
 situation dans la semaine précédant la crucifixion (175:4)
 temple de Baal à côté du temple de Yahweh (97:9.21)
 
-temple de Jérusalem; temple | (125:1.5) (150:1.3) (172:4) | Jérusalem; gardes du temple de Jérusalem; judaïsme; changeurs de monnaie; Sanhédrin | PLACE |
+temple de Jérusalem; temple | (125:1.5) (150:1.3) (172:4) | Jérusalem; Gardes du temple de Jérusalem; Judaïsme; changeurs de monnaie; sanhédrin | PLACE |
 sacrifice animal (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 profané par le trafic d'animaux, les changeurs d'argent (173:1)
 système bancaire étendu (173:1.3-4)
@@ -315,7 +315,7 @@ soudoyés pour dire que les disciples ont pris le corps de Jésus (189:2.4)
 se moquait de Jésus, il crachait sur lui, il le soufflait (184:4.1)
 ils jetèrent le linge funéraire de Jésus sur une falaise voisine (190:1.2)
 
-Jérusalem | (46) | sphères architecturales; mondes de demeures; Satania | PLACE |
+Jérusalem | (46) | sphères architecturales; mondes des manoirs; Satania | PLACE |
 187 432 811 citoyens ascendants; aucun n'a été perdu dans la rébellion (53:7.12)
 les activités à Jérusalem sont le travail, le progrès et le jeu (46:5.29)
 Adam et Ève sur Jérusem (74 : 1)
@@ -402,7 +402,7 @@ celui qui rejette Jésus rejette le Père (158:8.1) (163:1.4)
 heure sonnante pour la redécouverte de la vraie vie de Jésus (195:9.5) (195:10.1)
 esprits humains et divins de Jésus (154:6.10) (161:2-3) (167:4.2) (168:1.6-7)
 l'esprit humain peut être échangé contre l'esprit de Jésus (48:6.26)(128:1.6)
-Fraternité de Jésus | foi des fils de Dieu; communion des croyants
+Fraternité de Jésus | foi fils de Dieu; communauté de croyants
 que l'esprit en Christ soit aussi en nous (102:4.1)
 élevé, Jésus attirera tous les hommes à lui (157:6.10) (162:5.4) (174:5.13) (188:5.10) (195:10.1)
 vit à nouveau dans la vie du croyant individuel (194:2.6) (194:3.1)
@@ -625,7 +625,7 @@ attitudes envers Jésus
 		aucune apparition aux ennemis (190:2.1)
 		aucune trace de clou sur les mains (191:5.4)
 		ascension (193:5) (196:1.12)
-valeur de la vie de Jésus | Fils de Dieu du Paradis:dons
+valeur de la vie de Jésus | Fils Paradisiaques de Dieu:dons
 	Les apôtres ont mal compris l'enseignement de Jésus mais ont saisi sa vie (140:7.8)
 	compense l'incapacité à saisir le Fils Éternel (6:8.6-7)
 	visualisation humaine la plus élevée du Père, agrandie et amplifiée (97:10.8)
@@ -651,7 +651,7 @@ valeur de la vie de Jésus | Fils de Dieu du Paradis:dons
 	la plus belle expression de la divinité trouvée dans la vie terrestre des Fils d'effusion (116:2.3)
 	voie nouvelle et vivante (101:6.17) (129:4.7) (136:6.11) (180:3.7) (196:2.4)
 	comprendre les enseignements de Jésus par sa vie (140:8.19) (149:2.1)
-Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expliquée; Vérité
+Enseignements de Jésus | évangile:expliqué; royaume des cieux; religion:expliquée; vérité
 	n'ayez pas honte des enseignements de Jésus (150:4.3)
 	ne soyez pas découragé par l'incapacité à saisir pleinement (181:2.25)
 	dénonce l'orgueil, la cruauté, l'oppression, l'hypocrisie (140:8.22)
@@ -760,7 +760,7 @@ Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expli
 		* dix vierges, par Selta (176 : 2.8)
 		* talents (176:3.4)
 		* semence d'être vivant (178:1.15)
-		*laver les pieds des apôtres (179:3)
+		* laver les pieds des apôtres (179:3)
 		* Souper du Souvenir (179:5)
 		* la vigne et les sarments (180:2) (193:2.2)
 	citations
@@ -774,7 +774,7 @@ Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expli
 		* Arrière de moi, Satan (53:8.4)
 		* ne croyez pas que je sois venu apporter la paix (52:6.1) (150:4.3) (160:5.10) (165:6.3) (180:0.2) (180:6.1)
 		* prêcher l'évangile au monde entier (95:7.3) (100:7.6) (140:9.2) (163:4.2) (165:6.3) (182:1.5) (190:3.1) (190:4.1) (191:1.2) (191:4.4) (191:5.3) (191:6.3) (192:2.11-12) (193:0.5) (193:1.2) (193:2.2) (193:3.2) (193:5.2)
-		*que celui qui veut vienne (100:7.6)
+		* que celui qui veut vienne (100:7.6)
 		* Qui d'entre vous me convainc de péché (100:7.16)
 		* soyez de bonne humeur (100:7.9) (153:5.4) (181:1.6)
 		* vous avez reçu gratuitement, donnez gratuitement (100:7.10) (140:9.2) (159:1.5) (163:1.4) (176:3.10) (191:4.4) (193:0.5)
@@ -904,7 +904,7 @@ Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expli
 		* avant qu'Abraham fût, je suis (157:6.11) (161:2.9) (162:7.6)
 		* comme le Père m'a envoyé, moi aussi je vous envoie (157:6.13) (178:3.2) (182:1.5) (191:5.3) (191:6.3) (193:3.2)
 		* celui qui m'a vu a vu le Père (157:6.13) (169:4.2,9-13) (174:5.7) (180:3.9) (181:2.20)
-		*toutes choses sont possibles à celui qui croit (158:5.2)
+		* toutes choses sont possibles à celui qui croit (158:5.2)
 		* n'aie pas honte de moi et de mes paroles (158:7.5)
 		* celui qui s'humilie sera élevé (158:8.1)
 		* celui qui me reçoit reçoit Celui qui m'a envoyé (158:8.1) (162:2.3)
@@ -937,7 +937,7 @@ Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expli
 		* celui qui est fidèle dans les petites choses sera fidèle dans les grandes (169:2.6)
 		* vous ne pouvez pas servir Dieu et Mammon (169:2.7)
 		* combien de fois aurais-je rassemblé tes enfants ? (171:4.7)
-		*tu as toujours des pauvres avec toi (172:1.6)
+		* tu as toujours des pauvres avec toi (172:1.6)
 		* pierre que les bâtisseurs ont rejetée (173:4.4)
 		* ne mettez pas votre confiance dans le bras de la chair (174:0.2)
 		* restez inébranlable lorsque vous ne voyez pas la voie (174:0.2)
@@ -945,7 +945,7 @@ Enseignements de Jésus | Évangile:expliqué; Royaume des cieux; Religion:expli
 		* marcher par la foi et non par la vue (174:0.2)
 		* cesser d'être attiré par des ombres matérielles irréelles (174:0.2)
 		* attention aux chemins glissants de la flatterie (174:0.2)
-		*aime Dieu de tout ton cœur, de toute ton âme, de toute ta pensée et de toute ta force (174:4.2)
+		* aime Dieu de tout ton cœur, de toute ton âme, de toute ta pensée et de toute ta force (174:4.2)
 		* aimer la gloire de Dieu, non celle des hommes (174:5.3)
 		* Je ne suis pas venu pour juger le monde, mais pour offrir le salut (174:5.7)
 		* pas de paix entre la lumière et les ténèbres, la vérité et l'erreur (175:1.2)
@@ -1038,7 +1038,7 @@ famille
 	L'abdication de Jésus comme chef de la famille de Joseph (128:7.13)
 	La formation morale et spirituelle de Jésus obtenue auprès de Joseph et de Marie (123:5.8)
 	Les relations de Jésus avec ses frères et sœurs (124:4.3)
-	membres de la famille de Jésus | Amos (frère de Jésus); Jacques (frère de Jésus); Joseph (frère de Jésus); Joseph (père de Jésus); Jude; Marthe (sœur de Jésus); Marie (mère de Jésus); Miriam (sœur de Jésus); Ruth (sœur de Jésus)
+	membres de la famille de Jésus | Amos (frère de Jésus); Jacques (frère de Jésus); Joseph (frère de Jésus); Joseph (père de Jésus); Jude; Marthe (sœur de Jésus); Marie (mère de Jésus); Miriam (soeur de Jésus); Ruth (sœur de Jésus)
 	La maison de Nazareth décrite (122:5.9) (122:6) (123:2.14) (126:5.11)
 	aucune pénalité pour la violation des enseignements personnels (127:4.5)
 	résidences après la résurrection (190:1.10)
@@ -1185,14 +1185,14 @@ Le beau-père de Moïse (96:5.3)
 
 Bijoux | | ornementation | |
 
-Sacerdoce juif | | Lévites; Sanhédrin | |
+Sacerdoce juif | | lévites; sanhédrin | |
 
 Religion juive | | Judaïsme | |
 
 précepteur juif | | | |
 Jésus connu comme le tuteur juif à Corinthe (129:3.2)
 
-Juifs | | Langue hébraïque; Juifs (anciens Hébreux) | RACE |
+Juifs | | langue hébraïque; Juifs (anciens Hébreux) | RACE |
 Les apocalyptistes du judaïsme enseignaient les souffrances dues aux péchés de la nation (135:5.2)
 attitudes
 	peuple élu
@@ -1646,7 +1646,7 @@ lors de l'établissement d'un univers local dans la lumière et la vie (17:3.11)
 
 Juda | | Judée | PLACE |
 
-Judaïsme; judaïsme | (97:10) (121:6) | Abraham (Ancien Testament); apocryphes; arche de Yahweh; captivité babylonienne; El Elyon; El Shaddaï; Elohim; Esséniens; temple de Jérusalem; Juifs; Juifs (anciens Hébreux); Lévites; Moïse; Nazaréens; Ancien Testament; Pharisiens; prophètes; rabbins; Sadducéens; Sanhédrin; scribes; Shema; Sheol; Yahweh | RACE |
+Judaïsme; judaïsme | (97:10) (121:6) | Abraham (Ancien Testament); apocryphes; arche de Yahweh; Captivité babylonienne; El Elyon; El Shaddaï; Élohim; Esséniens; temple de Jérusalem; Juifs; Juifs (anciens Hébreux); lévites; Moïse; naziréennes; Ancien Testament; pharisiens; prophètes; rabbins; sadducéens; sanhédrin; scribes; Shéma; shéol; Yahweh | RACE |
 religion avancée des temps anciens (92:6.4,14)
 les apôtres ont d'abord imposé le judaïsme aux convertis (194:3.9)
 croyances
@@ -1702,7 +1702,7 @@ fêtes (123:3.5) (125:1.5) (134:9.3)
 		Enduire de sang les montants des portes était une conséquence des sacrifices d'enfants (89:7.2)
 		impôt sur la tête du temple payable à (173:1,3)
 		les femmes y assistaient rarement (125:0,2)
-	Pentecôte (123:3.5) (125:1.5) | Pentecôte (octroi de l'Esprit de Vérité)
+	Pentecôte (123:3.5) (125:1.5) | Pentecôte (confiture de l'Esprit de Vérité)
 		7 semaines après la Pâque; établie par Moïse (125:1.5)
 		fête du baptême (194:1.5)
 	Pourim
@@ -1722,7 +1722,7 @@ influence sur le judaïsme par (96:0.3)
 	Égypte (97:8.2)
 	Ikhnaton (95:5.7-8,14-15)
 	Philon (121:6.3-6) (130:3.9) (146:1.3)
-	Platonisme et stoïcisme (121:6.3)
+	platonisme et stoïcisme (121:6.3)
 	Zoroastrisme (95:6.7) (98:7.6)
 L'antagonisme de Jésus avec le judaïsme est toujours positif (147:6.6)
 Jésus n'a participé à aucun service sacrificiel (179:0.3)
@@ -1816,7 +1816,7 @@ sa fin
 	Après la terrible déception que lui avait fait ressentir le Sanhédrin, Judas se suicida en tentant de se pendre à un arbre dans la vallée de Hinnom. La ceinture qu'il avait utilisée se détacha et il mourut en heurtant les rochers du précipice. (139:12.13) (186:1)
 	Les mondes ont eu du mal à pardonner à Judas, et son nom a été rejeté dans un univers lointain. (139:12.14)
 
-Judas Macchabée | | Maccabées | PERSON |
+Judas Macchabée | | Macchabées | PERSON |
 déception du règne (136:8.8)
 exploits héroïques (121:2.7)
 Les Juifs expulsés de Pérée à l'époque de (165:0.3)

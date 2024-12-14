@@ -12,9 +12,9 @@
 Macad | (165:0.1) | | PLACE |
 Mission Pérée
 
-Maccabée, Judas | | Judas Maccabée | PERSON |
+Maccabée, Judas | | Judas Macchabée | PERSON |
 
-Macchabées | | Judas Maccabée | |
+Macchabées | | Judas Macchabée | |
 ancêtres de Marie, mère de Jésus, identifiés à (122:5.10)
 Palais asmonéen des Maccabées (125:1.5) (128:3.5) (185:4.1)
 Les Esséniens sont nés lors de la révolte de (137:7.8)
@@ -41,7 +41,7 @@ certaines tribus de Madagascar détruisent les enfants nés les jours de malchan
 fou à Fair Havens | | | |
 Jésus a retenu l'assaut en (130:5.4)
 
-folie | | démence | |
+folie | | folie | |
 
 Madon | (134:7.5) (146:4.6) | | PLACE |
 Jésus est décédé
@@ -90,11 +90,11 @@ cérémonies de magie blanche pratiquées par des prêtres ou des chamans (90:2.
 
 Fils Magistraux; Fils secondaires ou Magistraux | (20,2-4) | | ORDER |
 sont
-	Fils d'Avonal, Fils du Paradis de Dieu (20:1.3) (20:2) (20:3.1) (52:4.2)
+	Fils d'Avonal, Fils Paradisiaques de Dieu (20:1.3) (20:2) (20:3.1) (52:4.2)
 	arbitres dispensationnels (20:2.5) (20:3.1) (55:10.5)
 	juges de survie dans les créations du temps et de l'espace (7:6.5) (20:2.1) (20:3.2)
 	personnalisations du Fils Éternel et de l'Esprit Infini (7:6.5) (20:1.11) (20:2.1) (20:10.3)
-missions d'effusion | Fils de Dieu du Paradis:effusions
+missions d'effusion | Fils Paradisiaques de Dieu:effusions
 	accompagné de dons par
 		* 2 étoiles brillantes du soir (20:2.9) (37:2.8)
 		* 12 Melchizédeks (20:2.9) (35:2.6)
@@ -149,7 +149,7 @@ inviter parfois à des banquets (167:1.5)
 
 Maine | (59:3.2) (61:5.8) | | PLACE |
 
-Majeston | (30:1.109) | Esprits réfléchissants | PERSON |
+Majeston | (30:1.109) | Esprits Réflectifs | PERSON |
 50e Esprit Réfléchissant (17:2.1-2)
 actualisé par la Déité Absolue en réponse à l'Être Suprême (0:7.9) (17:2.1-5) (106:8.20)
 créé par Trinity et Seven Master Spirits (17:2.1)
@@ -253,7 +253,7 @@ superstitions du manitou | (91:0.5) | | |
 manne | | | |
 pain de la terre, non du ciel (153:2.8-12)
 Moïse aurait nourri les Israélites avec (136:6.6)
-pratiques des Mélanésiens, tribus Baganda (91:0.5)
+pratiques des Mélanésiens, Tribus Baganda (91:0.5)
 croyance primitive aux merveilles et aux mystères de la nature (103:3.2,5)
 
 Manotia | | | PERSON |
@@ -264,7 +264,7 @@ Mansant | | | PERSON |
 grand enseignant des jours post-Prince Planétaire (45:4.4) (64:6.29)
 l'un des 24 conseillers (45:4.4)
 
-étudiants des mondes des manoirs | | mortels ascendants; mondes des manoirs; progressistes morontiels | ORDER |
+étudiants des mondes des manoirs | | mortels ascendants; mondes des manoirs; progresseurs morontiels | ORDER |
 1 Compagnon Morontiel pour 1000 survivants, initialement (47:3.12)
 capable de voir les esprits inférieurs associés (9:8.13)
 acquérir un corps morontiel nouvellement ajusté pour chaque monde (47:4.4)
@@ -318,7 +318,7 @@ former les enfants dans la crèche probatoire (47:2.1-2)
 travaillent généralement en binôme (48:5.5)
 niveau d'existence morontiel très proche (48:5.5)
 
-mondes des manoirs | (47) | sphères architecturales; Jérusalem; étudiants du monde des manoirs; morontia | PLACE |
+mondes des manoirs | (47) | sphères architecturales; Jérusalem; étudiants des mondes des manoirs; morontia | PLACE |
 7 satellites du monde de transition du système local n°1, la sphère des finalitaires (30:4.16) (45:0.2) (45:1.2) (47:0.1) (48:1.2)
 1er monde de manoir (47:3)
 	10 jours de liberté initiale sur (47:3.6)
@@ -377,7 +377,7 @@ les âmes transférées des sphères établies ne passent pas (55:2.8-10) (55:6.
 maisons | | | PLACE |
 dans la maison du Père il y en a beaucoup (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-mondes de mansonia | | mondes de manoirs | PLACE |
+mondes de mansonia | | mondes des manoirs | PLACE |
 
 Mansurotia | | | PERSON |
 premier assistant Souverain du Système; tertiaire Lanonandek #17,841 (45:3.3)
@@ -406,7 +406,7 @@ Le mélange de l'Atlantique et du Pacifique a marqué le début d'un déclin rap
 le refroidissement des océans il y a 170 millions d'années a détruit la plupart (59:6.9)
 l'ère ancienne était l'âge des trilobites (59:1)
 Le Paléozoïque était l'ère de (59:0,4)
-types nommés | ammonites; amphibiens; anthropodes; balanes; brachiopodes; palourdes; coraux; crabes; crinoïdes; crustacés; seiches; dauphins; échinodermes; poissons; foraminifères; gastéropodes; méduses; homards; mollusques; poulpes; huîtres; nautile perlé; pervenches; marsouins; protozoaires; coquilles Saint-Jacques; concombres de mer; otaries; serpents de mer; ascidies; oursins; vers marins; phoques; requins; crevettes; éponges; calmar; étoiles de mer; esturgeons; trilobites; tortues; couleuvres d'eau; baleines
+types nommés | ammonites; amphibiens; anthropodes; balanes; brachiopodes; palourdes; corail; crabes; crinoïdes; crustacés; seiche; dauphins; échinodermes; poisson; foraminifères; gastéropodes; méduse; homards; mollusques; poulpes; huîtres; nautile nacré; pervenches; marsouins; protozoaires; coquilles Saint-Jacques; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; phoques; requins; crevettes; éponges; calmar; étoile de mer; esturgeon; trilobites; tortues; couleuvre d'eau; baleines
 
 test de culpabilité conjugale | | | |
 de l'Ancien Testament (70:10.6)
@@ -428,7 +428,7 @@ les fétiches montaient la garde tôt (69:4.3)
 premières villes de refuge (69:4.4)
 Les pharisiens recherchaient des salutations flatteuses (166:1.4)
 
-mariage | (82) (83) (84) | mariées; éducation des enfants; enfants; divorce; dot; famille; maison; entremetteurs; romance; sexe:envie; sexes; mariages | |
+mariage | (82) (83) (84) | mariées; éducation des enfants; enfants; divorce; dot; famille; maison; entremetteurs; roman; sexe:envie; sexes; mariages | |
 toujours lié à la propriété et à la religion (82:4.1-2) (82:5.3) (83:0.2) (83:1.1-3)
 parmi les primitifs
 	toujours planifié par les parents (83:2.1)
@@ -671,9 +671,9 @@ Maitre | | Jésus | |
 Les pêcheurs galiléens au sang rouge appelaient Jésus Maître (100:7.17) (141:3.5) (149:2.12)
 Les ouvriers de Zébédée ont d'abord appelé Jésus Maître (129:1.11)
 
-Maîtres architectes | | Architectes de l'univers des maîtres | |
+Maîtres architectes | | Architectes du Maitre Univers | |
 
-Maitres Organisateurs de Force | (29:5) | Directeurs du Pouvoir Universel | ORDER |
+Maitres Organisateurs de Force | (29:5) | Directeurs de Pouvoir d'Univers | ORDER |
 peut affecter les mouvements des systèmes astronomiques (15:3.15)
 peut fonctionner dans l'espace (29:5.7)
 contrôler la création de l'univers (15:8.10)
@@ -684,7 +684,7 @@ initier des changements qui transforment l'absoluta en énergie (42:1.5)
 manipuler les forces spatiales de l'Absolu Non Qualifié (29:5.5)
 manipulateurs de force primordiaux, fonctionnant surtout dans l'espace non organisé (29:5.1) (32:1.1)
 rapport de l'inspecteur par intérim n° 811 307 sur la formation de la nébuleuse d'Andronover (57:1.3-4)
-superviser l'énergie du superunivers avant les jours des Directeurs du Pouvoir Universel (15:4.2) (29:0.10) (32:1.1)
+superviser l'énergie du superunivers avant les jours des Directeurs de Pouvoir d'Univers (15:4.2) (29:0.10) (32:1.1)
 êtres transcendantaux (30:1.97-98) (105:7.8)
 	types d'organisateurs de la force principale
 	# Primaire Eventuated (29:0.2)
@@ -708,7 +708,7 @@ maître frandalanks | | frandalanks | ORDER |
 
 Maitre Mathématicien | (195:6.8) | | |
 
-Maitres Micaëls | | Fils Créateurs; Fils du Paradis de Dieu | ORDER |
+Maitres Micaëls | | Fils Créateurs; Fils Paradisiaques de Dieu | ORDER |
 après la souveraineté suprême, ne peut pas créer des types de créatures entièrement nouveaux (21:5.6) (21:6.2)
 également connus sous le nom de Fils Créateurs septuples (20:1.15)
 capacité pour un service plus que limité (21:6.2-3)
@@ -722,7 +722,7 @@ soumis aux tribunaux du superunivers uniquement pour les questions soumises volo
 suprême dans leurs univers (15:12.2) (21:5)
 destin inconnu avec leurs enfants mortels (21:6) (26:11.5)
 
-Maitres Contrôleurs Physiques | (29:4) (41:2) (116:5.2) | Directeurs du pouvoir de l'univers | ORDER |
+Maitres Contrôleurs Physiques | (29:4) (41:2) (116:5.2) | Directeurs de Pouvoir d'Univers | ORDER |
 500 000 dans Satania (41:2.4)
 réalisé par le Conseil de l'Équilibre (29:4.2)
 événements impliqués dans
@@ -759,13 +759,13 @@ fonctions
 	transmuter le pouvoir des mortels sur des mondes où la respiration est impossible (49:2.24)
 dans les registres de personnalité (30:1.90) (30:2.100)
 L'Esprit Infini exerce son ministère auprès de l'esprit primitif à travers (9:5.3)
-Le Maître Esprit Numéro Cinq est le conseiller de (16:3.10)
+Le Maitre Esprit Numéro Cinq est le conseiller de (16:3.10)
 rendez-vous au quartier général du secteur mineur (15:13.5) (18:5.3) (29:4.15)
 subordonnés mobiles des centres de pouvoir suprême (29:2.19)(29:4.1)
 nature
 	absent des occasions de réjouissance (29:3.5) (47:10.1)
 	dotations antigravitationnelles (9:3.6) (29:3.6) (42:4.4)
-	descendant direct des Centres de Pouvoir Suprêmes (29:4.4)
+	descendant direct des Centres Suprêmes de Pouvoirs (29:4.4)
 	une partie de Dieu le Septuple (116:5.2)
 	tout à fait professionnels dans toutes leurs réactions (48:4.11)
 	traverser l'espace local comme des messagers solitaires (29:4.1)
@@ -817,43 +817,43 @@ types
 	# anges du ministère surhumain
 	#* ministre de la vie surhumaine (114:6.16)
 
-Fils Maîtres | | Maître Michaels | ORDER |
+Fils Maîtres | | Maitres Micaëls | ORDER |
 
-Maitre Esprit Numéro Un; Le Maitre Esprit Numéro Un | | Esprits Maîtres, Sept | PERSON | OK
-Le Maître Esprit Numéro Un représente le Père du Paradis. Il est le proche associé et le conseiller céleste du chef des Moniteurs de Mystère, cet être qui préside le Collège des Ajusteurs Personnalisés de Divinington. Il préside également le premier superunivers. (16:3.2-3)
+Maitre Esprit Numéro Un; Le Maitre Esprit Numéro Un | | Maîtres Esprits, Sept | PERSON | OK
+Le Maitre Esprit Numéro Un représente le Père du Paradis. Il est le proche associé et le conseiller céleste du chef des Moniteurs de Mystère, cet être qui préside le Collège des Ajusteurs Personnalisés de Divinington. Il préside également le premier superunivers. (16:3.2-3)
 
-Maitre Esprit Numéro Deux; Le Maitre Esprit Numéro Deux | | Esprits Maîtres, Sept | PERSON | OK
-Le Maître Esprit Numéro Deux représente le Fils Éternel. Il préside au deuxième superunivers. (16:3.4-5)
+Maitre Esprit Numéro Deux; Le Maitre Esprit Numéro Deux | | Maîtres Esprits, Sept | PERSON | OK
+Le Maitre Esprit Numéro Deux représente le Fils Éternel. Il préside au deuxième superunivers. (16:3.4-5)
 
-Maitre Esprit Numéro Trois; Le Maitre Esprit Numéro Trois | | Esprits Maîtres, Sept | PERSON | OK
-Le Maître Esprit Numéro Trois représente l'Esprit Infini. Il dirige les hautes personnalités de l'Esprit Infini. Il préside au troisième superunivers. (16:3.6-7)
+Maitre Esprit Numéro Trois; Le Maitre Esprit Numéro Trois | | Maîtres Esprits, Sept | PERSON | OK
+Le Maitre Esprit Numéro Trois représente l'Esprit Infini. Il dirige les hautes personnalités de l'Esprit Infini. Il préside au troisième superunivers. (16:3.6-7)
 
 Maitre Esprit Numéro Quatre; Le Maitre Esprit Numéro Quatre | | Maîtres Esprits, Sept | PERSON | OK
-Le Maître Esprit Numéro Quatre représente le Père-Fils. Il préside au quatrième superunivers. (16:3.8-9)
+Le Maitre Esprit Numéro Quatre représente le Père-Fils. Il préside au quatrième superunivers. (16:3.8-9)
 
-Maitre Esprit Numéro Cinq; Le Maitre Esprit Numéro Cinq | | Esprits Maîtres, Sept | PERSON | OK
-Le Maître Esprit Numéro Cinq représente l'Esprit du Père. Il conseille les directeurs de pouvoir et les contrôleurs physiques. Il préside au cinquième superunivers. (16:3.10-11)
+Maitre Esprit Numéro Cinq; Le Maitre Esprit Numéro Cinq | | Maîtres Esprits, Sept | PERSON | OK
+Le Maitre Esprit Numéro Cinq représente l'Esprit du Père. Il conseille les directeurs de pouvoir et les contrôleurs physiques. Il préside au cinquième superunivers. (16:3.10-11)
 
-Maitre Esprit Numéro Six; Le Maitre Esprit Numéro Six | | Esprits Maîtres, Sept | PERSON | OK
-Le Maître Esprit Numéro Six représente le Fils-Esprit. Il préside au sixième superunivers. (16:3.12-13)
+Maitre Esprit Numéro Six; Le Maitre Esprit Numéro Six | | Maîtres Esprits, Sept | PERSON | OK
+Le Maitre Esprit Numéro Six représente le Fils-Esprit. Il préside au sixième superunivers. (16:3.12-13)
 
 Maitre Esprit Numéro Sept; Le Maitre Esprit Numéro Sept; Septième Maitre Esprit | | Maîtres Esprits, Sept | PERSON |
-Le Maître Esprit Numéro Sept représente l'Esprit Père-Fils. Il préside au septième superunivers. (16:3.14)
+Le Maitre Esprit Numéro Sept représente l'Esprit Père-Fils. Il préside au septième superunivers. (16:3.14)
 Il est le conseiller de tous les êtres trinitaires et des pèlerins de Havona (16:3.14,18-19)
 fonctions personnelles pour l'Être suprême (16:1.2) (16:3.15-20) (26:6.3) (116:4.2)
 chef présidant des Sept Maîtres Esprits (16:3.15) (34:2.6)
 parle en confirmation des attitudes de la Trinité (16:3.15-20)
 nous reconnaîtrons MS#7 sur le 7ème circuit Havona (14:5.4)
 
-Maîtres Esprits, Sept; Sept Maîtres Esprits; Maître Esprit; Sept Esprits | (16) | Maître Esprit Numéro Un; Maître Esprit Numéro Deux; Maître Esprit Numéro Trois; Maître Esprit Numéro Quatre; Maître Esprit Numéro Cinq; Maître Esprit Numéro Six; Maître Esprit Numéro Sept | ORDER |
+Maîtres Esprits, Sept; Sept Maîtres Esprits; Maitre Esprit; Sept Esprits | (16) | Maitre Esprit Numéro Un; Maitre Esprit Numéro Deux; Maitre Esprit Numéro Trois; Maitre Esprit Numéro Quatre; Maitre Esprit Numéro Cinq; Maitre Esprit Numéro Six; Maitre Esprit Numéro Sept | ORDER |
 7 architectes du superunivers du Maître Univers associés à (31:9.5)
-toutes les créatures ressemblent au Maître Esprit de la nativité du superunivers (16:5) (26:2.5)
+toutes les créatures ressemblent au Maitre Esprit de la nativité du superunivers (16:5) (26:2.5)
 également connu sous le nom de Sept Esprits; Sept Esprits du Paradis; Sept Superviseurs de Centre (16:4.1) (16:5.2)
 parmi les Créateurs suprêmes (56:5.3) (116:2.4-12)
 l'apparence était une inévitabilité subabsolue (16:1.1)
 sont des inévitabilités de la Trinité (115:7.5)
-les ascendeurs communient avec le Maître Esprit du superunivers à Havona (16:2.1)
-les ascendeurs reconnaissent le Maître Esprit natif sur le 7ème circuit de Havona (26:5.5)
+les ascendeurs communient avec le Maitre Esprit du superunivers à Havona (16:2.1)
+les ascendeurs reconnaissent le Maitre Esprit natif sur le 7ème circuit de Havona (26:5.5)
 attributs et fonctions (16:4)
 	7 grandes approches vers le Père (117:6.15)
 	sont expérientielles (10:2.7)
@@ -869,7 +869,7 @@ attributs et fonctions (16:4)
 	chacun domine et imprègne un superunivers (13:4.6) (15:10.1) (16:0.12) (16:2.4) (16:3) (16:5.1-2) (25:2.3-4) (26:4.10) (29:4.3)
 	chacun éternellement servi par 1 Directeur Suprême du Pouvoir (29:1.2)
 	chacun est distinctement personnel, indéniablement différent des autres (16:0.11) (16:3.1)
-	Le Père est spirituellement présent dans nos cœurs par notre Maître Esprit (32:4.9)
+	Le Père est spirituellement présent dans nos cœurs par notre Maitre Esprit (32:4.9)
 	fonctionne sur tous les niveaux de l'univers sauf l'absolu (16:4.2)
 	harmoniser la divergence énergie-esprit (103:7.12)
 	dans les univers locaux (16:4.8-16)
@@ -896,8 +896,8 @@ créé
 	Esprits Réfléchissants (17:2.1) (17:3.1) (116:4.3-4)
 	supernaphin secondaire (17:8,2) (26:1,12)
 	Directeurs du pouvoir suprême (29:0.10) (29:1.1) (29:3.1)(116:5.10)
-	Conciliateurs universels (25:2.2)
-	Directeurs du pouvoir de l'univers (16:4.2-3) (29:0.10) (29:4.23)
+	Conciliateurs Universels (25:2.2)
+	Directeurs de Pouvoir d'Univers (16:4.2-3) (29:0.10) (29:4.23)
 déterminer la nature des superunivers respectifs (18:3.3)
 ne vous associez pas directement aux 3 Absolus (16:1.4)
 n'envahissez pas directement les esprits matériels (16:5.3)
@@ -906,8 +906,8 @@ se rassembler sur Spiritington (13:1.9)
 dans les registres de personnalité (30:1.4) (30:2.15)
 décrit individuellement (16:3)
 maintenir les centres de pouvoir qui tournent autour de la périphérie du Paradis (11:4.2) (13:4.2) (15:10.1) (16:0.12) (29:1.3)
-Le Maître Esprit Numéro Sept préside à la tête de (16:3.15)
-les mortels expérimentent un contact conscient avec le Maître Esprit de la nativité du superunivers dans la lumière et la vie (55:6.4)
+Le Maitre Esprit Numéro Sept préside à la tête de (16:3.15)
+les mortels expérimentent un contact conscient avec le Maitre Esprit de la nativité du superunivers dans la lumière et la vie (55:6.4)
 non impliqué dans la force provenant du Paradis inférieur, des Ajusteurs de Pensée ou de l'Absolu Non Qualifié (16:4.4,16)
 les contacts personnels avec les gouvernements des superunivers prennent fin (17:0.12)
 dépeindre la divinité septuple (16:0.2-9) (16:1.2) (16:3.1)
@@ -962,12 +962,12 @@ entremetteurs | | | |
 d'abord ils étaient barbiers, puis prêtres (83:2.1)
 mariages négociés pour des personnes décédées (82:3.8)
 
-Filles matérielles | | Fils matériels | ORDER |
+Filles matérielles | | Fils Matériels | ORDER |
 
 énergie matérielle | | énergie; matière | |
 toutes les formes de mouvement, d'action et de potentiel phénoménaux (0:6.3)
 les circuits ont leur origine dans le bas Paradis (11:5.1)
-contrôlé par les Directeurs du Pouvoir Universel (24:1.1)
+contrôlé par les Directeurs de Pouvoir d'Univers (24:1.1)
 dominé par l'Esprit Infini (21:2.4)
 l'énergie-matière est ce qui répond au circuit matière-gravité du Paradis (0:6.1)
 toujours fidèle à la loi universelle (12:8.3) (15:6.16)
@@ -980,7 +980,7 @@ Fils Matériels; Fils et Filles Matériels | (51) (45:5) | Adam; Ève | ORDER |
 comme des fils ascendants (40:2)
 octroi de Michael comme (119:3)
 Les Fils Créateurs s'incarnent dans le groupe possédant le plus d'héritage adamique (21:4.3)
-Fils matériels en défaut
+Fils Matériels en défaut
 	681 227, ou 681 217, perdus dans la rébellion de Satania, 95 % dans la rébellion de Lucifer (51:1.5) (53:7.8)
 	devenir mortel en cas d'échec ou de manquement (51:1.4)
 	défaut sur la planète voisine (72:0.3)
@@ -1232,7 +1232,7 @@ paradoxes de la mesure simultanée (65:6.1)
 la Mecque | | | |
 Fétichisme de la pierre de la Kaaba à (95:7.5)
 
-contrôleurs mécaniques | | Contrôleurs physiques maîtres | ORDER |
+contrôleurs mécaniques | | Maitres Contrôleurs Physiques | ORDER |
 10 sont actuellement stationnés sur Urantia (29:4.19)
 10 stationnés sur la capitale de chaque constellation (41:1.4)
 diriger l'énergie dans des circuits spécialisés; égaliser les pressions des circuits interplanétaires (29:4.20)
@@ -1301,7 +1301,7 @@ la vie religieuse transforme les médiocres en personnes de pouvoir idéaliste (
 cherche la perpétuation dans la standardisation (48:7.29)
 impasse de la domination de (70:12.10)
 
-méditation | | prière; communion spirituelle; adoration | |
+méditation | | prière; communion spirituelle; culte | |
 après la prière, demeurez dans une réceptivité silencieuse (146:2.17)
 toujours réussi même si supraconscient (133:4.10)
 apporte la délivrance des illusions du mal (131:4.7)
@@ -1329,7 +1329,7 @@ Le quartier général d'Onagar (63:6.7)
 protégé par l'isthme de Gibraltar et le pont terrestre sicilien aux premiers jours de la race violette; inondations lors de leur effondrement (80:1.1) (80:2.4-5)
 race de | race blanche:divisions
 
-mer Méditerranée; Méditerranée | | Région méditerranéenne | PLACE |
+mer Méditerranée; Méditerranée | | région méditerranéenne | PLACE |
 La mer Noire était autrefois une extension de (64:4.10)
 effondrement de l'isthme de Gibraltar (80:2.4-5)
 création (58:4.3) (64:6.11)
@@ -1401,7 +1401,7 @@ depuis son incarnation
 	état actuel (93:10)
 	Prince Planétaire Vice-Gérant d'Urantia (45:4.16) (93:10.5) (114:0.11) (114:1.2-4)
 	suivra les mortels d'Urantia jusqu'au Corps de la Finalité (93:10.9)
-Enseignements | Enseignements de Salem
+Enseignements | enseignements de Salem
 	les préceptes cardinaux étaient la confiance et la foi (92:4.7)
 	alliance avec Abraham par laquelle Dieu fait tout et
 	l'homme croit (93:6)
@@ -1450,7 +1450,7 @@ Adam et Ève sélectionnés (74:1.3-4)
 livrés entièrement à leurs propres ressources (93:1.3)
 a averti Adam et Eve des dangers (51:3.4)
 
-Fils Melchizédek | (35:2,4) | Père Melchizédek; Melchizédek, Machiventa; Melchizédek récepteurs | ORDER |
+Fils Melchizédek | (35:2,4) | Père Melchizédek; Melchizédek, Machiventa; administrateurs provisoires Melchizédeks | ORDER |
 tous créés dans le même millénaire (35:1.3)
 sont
 	observateurs naturellement impartiaux (35:2.3)
@@ -1604,7 +1604,7 @@ lorsque la miséricorde est épuisée, la justice prévaut (21:5.7) (28:6.7)
 sirènes | | | |
 objets d'adoration autrefois (85:3.2)
 
-Mésopotamie | (130:0.3) | Fleuve Euphrate; deuxième jardin; Sumériens; Tigre | PLACE |
+Mésopotamie | (130:0.3) | Fleuve Euphrate; deuxième jardin; Sumériens; Fleuve Tigre | PLACE |
 5% des Andites supérieurs ont refusé de partir (78:6.6)
 Les Andites chassés de (78:6.7) (79:1.7)
 apparition des villes (79:1.4)
@@ -1618,7 +1618,7 @@ Les mammifères de l'aube sont originaires de (62:1.3) (62:2.1)
 détériorée par l'afflux des Arabes (80:7.9)
 la sécheresse a poussé les Babyloniens dans (79:1.5)
 émigration précoce presque exclusivement vers l'Europe (80:1,8) (80:5,1) (81:6,1)
-Les Édénites entrent (76:1)
+Les Édenites entrent (76:1)
 émigration vers l'Egypte depuis (80:1.3)
 les agriculteurs élevaient des animaux vers 5000 av. J.-C. (81:2.12)
 période du déluge en 5000 av. J.-C. (78:7) (80:6.2)
@@ -1639,7 +1639,7 @@ deuxième jardin situé en (76.3) (78:0.1-2)
 Un étrange enseignant de Mésopotamie a rêvé de la naissance de Jésus (122:8.6)
 Todan a apporté l'évangile en (146:1.4)
 
-mésotrons | | des atomes; matière | |
+mésotrons | | atomes; matière | |
 180 fois plus lourd que les électrons (42:8,3)
 noyaux atomiques maintenus ensemble par la réciprocité de (42:8.3-7)
 se désintégrer en électrons (42:8.5)
@@ -1680,7 +1680,7 @@ groupe à l'intérieur de Lanonandek Sons
 Armées des Messagers de l'Espace | (25) | | ORDER |
 ordres dans le registre de personnalité d'Uversa (30:2.74)
 	# Servites de Havona
-	# Conciliateurs universels
+	# Conciliateurs Universels
 	# Conseillers techniques
 	# Gardiens des archives
 	# Enregistreurs célestes
@@ -1769,7 +1769,7 @@ Mathusalem; un homme qui vécut | | | PERSON |
 Confusion scripturale concernant la durée de vie (77:2.11)
 
 Mexique | (58:7.4) (59:2.4,7) (60:3.2-6) | | PLACE |
-Culte de la Mère de Dieu (89:9.2)
+culte de la Mère de Dieu (89:9.2)
 race majoritairement rouge mais aussi jaune, orange et bleu (64:7,5) (79:5,8)
 
 Michée | | | PERSON |
@@ -1789,10 +1789,10 @@ scellé par Gabriel (188:3.11) (189:1.9)
 monument commémoratif de Micaël (à Jérusem) | | Michel de Nébadon | PLACE |
 dans les cercles des Fils de Dieu; un personnel de plus d'un million (46:5.19)
 
-Michel de Nébadon; Michel; Notre Fils Créateur; Christ Michel | (119) (33:1-2) | Christ; Fils Créateurs; Jésus; Maître Michel | PERSON | OK
+Michel de Nébadon; Michel; Notre Fils Créateur; Christ Michel | (119) (33:1-2) | Christ; Fils Créateurs; Jésus; Maitres Micaëls | PERSON | OK
 description
 	Michel de Nébadon est le chef de toutes les personnalités de Nébadon et le créateur de Nébadon. Il est en même temps un père, un créateur et un souverain pour tous les habitants de Nébadon. (33:3.2) (37:0.1) (128:1.13)
-	[Michel de Nébadon](/image/Le_Livre_d'Urantia/Célestes/Michel_de_Nébadon_01.jpg) {image-style-align-right}
+	[Michel de Nébadon](/image/The_Urantia_Book/Celestials/Michael_of_Nebadon_01.jpg) {image-style-align-right}
 	Michael est l'être même dont la paternité créatrice dans cet univers a rendu possible la réalité de nos vies (112:7.8)
 	personne ne va au Père sinon par Michel (0:8.11) (180:3.7)
 	il accorde personnellement les lettres de créance aux mortels pour poursuivre leur carrière dans le superunivers (112:7.8)
@@ -1815,7 +1815,7 @@ Histoire de la création de Nébadon
 	Il y a 300 000 000 000 d'années, le bâton de Michael arriva sur Salvington, et le gouvernement d'Uversa d'Orvonton étendit la reconnaissance physique à l'univers local de Nébadon (57:3.9)
 	Il y a 200 000 000 000 d'années, la création de Michael est enregistrée sur Uversa comme un univers habité et où les mortels peuvent progressivement s'élever. Les plus anciennes planètes habitées de Nébadon datent de cette époque. (57:3.10)
 	Et tous les plans de Michael pour cet univers local furent pleinement approuvés par la Trinité du Paradis avant qu'il ne se lance dans l'aventure suprême de l'espace. (32:0.3)
-dons | Fils du Créateur:dons de créatures; Fils du Paradis de Dieu:dons
+dons | Fils Créateurs:dons de créatures; Fils Paradisiaques de Dieu:dons
 	a commencé il y a 1 milliard d'années; s'est produit à des intervalles de 150 millions d'années (119:0,7) (119:8,2)
 	ne pouvait régner en tant que représentant de la Trinité qu'après les 7 dons, acquérant ainsi la souveraineté suprême (21:3) (120:0.4)
 	possibilité créée pour la souveraineté du Suprême dans Nébadon (119:8.5-7)
@@ -1890,7 +1890,7 @@ souveraineté
 	Michael a reçu tout pouvoir et toute autorité après les avoir accordés (20:5.5) (21:3.8) (43:4.7) (179:2.3) (180:4.1) (182:1.3)
 	Après l'effusion finale et réussie de Michael sur Urantia, il fut non seulement accepté par les Anciens des Jours comme dirigeant souverain de Nébadon, mais il fut également reconnu par le Père Universel comme le directeur établi de l'univers local de sa propre création (119:8).
 	C'était un après-midi de la fin de l'été de l'an 25, sur le mont Hermon, au milieu des arbres et du silence de la nature, lorsque Michel de Nébadon gagna la souveraineté incontestée de son univers. (134:8.9) (136:3.1)
-La rébellion de Lucifer | La rébellion de Lucifer
+La rébellion de Lucifer | rébellion de Lucifer
 	A l'époque de la rébellion de Lucifer et des deux qui l'ont précédée, il n'y avait pas d'autorité souveraine absolue et personnelle dans l'univers de Nébadon. Michael gouvernait de droit divin, en tant que vice-gérant du Père Universel, mais pas encore de son propre droit personnel (53:5.2-3) (54:5.6).
 	Michael était au courant de la désaffection de Lucifer 500 ans avant la rébellion (53:2.3)
 	Michel a offert le salut à tous les rebelles. À tous ceux qui montreraient la preuve d'un repentir sincère, il offrirait, une fois qu'il aurait atteint la souveraineté complète de l'univers, le pardon et la réintégration dans une certaine forme de service universel (53:9.1) (54:4.5).
@@ -1902,9 +1902,9 @@ avenir
 	Michael a promis de revenir sur Urantia dans le futur, mais personne ne sait quand (20:4.5) | Jésus:seconde venue
 	Michael servira dans l'espace au cours du prochain âge de l'univers (119:8.7)
 
-Fils de Michael; Fils de Michael | | Fils du Créateur | ORDER |
+Fils de Michael; Fils de Michael | | Fils Créateurs | ORDER |
 
-Michael (l'originel); Micaël originel | | Fils Créateurs; Fils du Paradis de Dieu | PERSON |
+Michael (l'originel); Micaël originel | | Fils Créateurs; Fils Paradisiaques de Dieu | PERSON |
 passé par 7 circuits de Havona (7:5.8-9) (8:4.3) (21:0.4)
 chef présidant les Fils du Paradis primaires (21:0.5)
 
@@ -1961,7 +1961,7 @@ zones entre le Paradis et les superunivers (11:7.1) (14:1.2)
 messagers médians | | médians | ORDER |
 petit groupe de médians qui délivrent des messages (77:8.6)
 
-médians | (77) (38:9) (45:3.20) | médians, primaires; médians, secondaires | ORDER |
+médians | (77) (38:9) (45:3.20) | médians, primaire; médians, secondaires | ORDER |
 Adam et Eve pouvaient voir (76:4.5)
 toujours trouvé sur les planètes décimales (38:9.2)
 classement (38:9.1)
@@ -2022,7 +2022,7 @@ types
 		vie animale directe à Jérusalem (46:7.2)
 		passer par l'expérience de la parentalité en association avec les Fils Matériels (45:6.5)
 		médians traduits (30:1.53) (30:2.52)
-	médians primaires | médians, primaires
+	médians primaires | médians, primaire
 	Médians rebelles (77:7) | possession démoniaque
 		tous maintenant internés (51:3.7) (77:7.8)
 		de nombreux médians perdus sur des mondes rebelles (53:7.8)
@@ -2097,7 +2097,7 @@ fait respecter les droits communément reconnus (81:5.6)
 fait ce qui est et ce qui a été (81:6.15)
 avait raison parmi les anciens (70:11.13) (70:12.2)
 
-Puissants Messagers | (22:2) | Fils Trinitisés de Réussite | ORDER |
+Puissants Messagers | (22:2) | Fils d'Aboutissement Trinitisés | ORDER |
 dotés de tout, les finalitaires atteindront un jour (40:10.12)
 a d'abord inventé Grandfanda (15:10.11)
 pleinement conscient des carrières ascendantes (22:2.9)
@@ -2249,7 +2249,7 @@ types d'esprit
 	ordres non morontiels (42:10.5)
 	niveaux d'esprit non enseignables, esprit pré-adjuvant
 		contacté par l'esprit adjuvat de l'intuition (36:5.6)
-		domaine des Maîtres Contrôleurs Physiques et des Centres de Pouvoir Suprêmes (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
+		domaine des Maîtres Contrôleurs Physiques et des Centres Suprêmes de Pouvoirs (9:5.3) (29:2.9) (36:5.14-15) (41:2.6) (42:10.3) (65:0.6) (65:7.5)
 	Esprit paradisiaque | esprit:types d'esprit
 	esprit du Fils Éternel (6:6)
 
@@ -2366,7 +2366,7 @@ beauté bien équilibrée; noble et spirituelle (127:4.8)
 miroirs | | | |
 Confucius croyait que les véritables modèles de civilisation reflétaient l'ordre céleste éternel (94:6.10)
 la défaite est un véritable miroir dans lequel vous pouvez voir votre vrai moi (156:5.17)
-chaque superunivers reflète le Maître Esprit qui préside (25:2.4)
+chaque superunivers reflète le Maitre Esprit qui préside (25:2.4)
 l'éthique est le miroir extérieur du progrès spirituel intérieur (102:8.4)
 les seconaphins primaires sont des miroirs vivants pour les Anciens des Jours (28:4.1)
 les primitifs considéraient les miroirs avec une crainte superstitieuse (86:5.14)
@@ -2435,7 +2435,7 @@ Jésus lui a parlé
 Prêtre mithriaque à Corinthe; chef sincère du culte mithriaque | (133:4.4) | | PERSON |
 Jésus lui a parlé
 
-mithraïsme; mithriaque | | Mithra; cultes à mystères | RELIGION |
+mithraïsme; mithriaque | | Mithra; cultes mystérieux | RELIGION |
 et le christianisme (98:6) (98:7.7)
 	Les dirigeants chrétiens ont fait un compromis avec le mithraïsme (195:0.9,11)
 	Le mithraïsme est semblable en apparence et en rituel au christianisme primitif (98:6.3)
@@ -2454,7 +2454,7 @@ Sol Invictus était le dieu solaire de (98:5.3)
 Le culte du soleil a donné naissance au mithraïsme en Iran (85:5.2)
 a supplanté les mystères phrygiens et égyptiens (98:5.1)
 
-Mithra | | Mithraïsme | PERSON |
+Mithra | | mithraïsme | PERSON |
 champion du dieu soleil en lutte avec le dieu des ténèbres (98:5.3)
 
 commission mixte de douze | | | |
@@ -2508,7 +2508,7 @@ rendre un tribut à César (174:2.2)
 langage universel du commerce (70:3.5)
 les acariens de la veuve (172:4.2)
 
-changeurs d'argent | | banque; usure | |
+changeurs d'argent | | bancaire; usure | |
 à la cour des Gentils (125:1.1)
 Jésus purifié du temple (173:1)
 autorisé à échanger des devises contre des shekels (173:1.3) (173:2.3)
@@ -2646,8 +2646,8 @@ origine des mœurs toujours inconsciente et non intentionnelle (68:4.2)
 Le bâton du prince n'imposait pas de mœurs aux tribus (66:6.5)
 frein de sécurité contre une progression trop rapide (68:4.5-6)
 
-morontie | (48) | les mondes des maisons; esprit:types d'esprit; progresseurs morontiels; mondes morontiels | |
-l'art est une morontie mortelle (195 : 7.15-16)
+morontia | (48) | mondes des manoirs; esprit:types d'esprit; progresseurs morontiels; mondes morontiels | |
+l'art est une morontia mortelle (195 : 7.15-16)
 Les êtres célestes ont permis aux humains de voir Jésus morontiel (189:4.11)
 les créatures morontielles respirent du gaz morontiel (43 : 1.3)
 défini comme
@@ -2664,18 +2664,18 @@ connu depuis les premiers jours du Prince Planétaire (48:1.1)
 la vie morontielle implique un contact réel avec des énergies réelles (48:6.29)
 la vie morontielle initiée à la conception de l'âme (48:6.2)
 Les mathématiques morontielles articulent les expériences morontielles (112:1.11)
-les étudiants du monde des manoirs mangent de la nourriture morontielle; aucun déchet résiduel (47:4.6)
+les étudiants des mondes des manoirs mangent de la nourriture morontielle; aucun déchet résiduel (47:4.6)
 Les Melchizédeks certifient l'obtention de la sagesse morontielle (45:7.7)
 énergie morontielle
 	circuits distincts des circuits physiques et spirituels (48:2.13)
-	contrôlé par les Directeurs du Pouvoir Universel (24:1.1)
+	contrôlé par les Directeurs de Pouvoir d'Univers (24:1.1)
 mélodie produite par la gestion de l'énergie morontielle (44:1.5)
 doit être reconstitué (44:5.8-10)
 la vie végétale modifiée sur chaque sphère ascendante (48:2.8,22)
 ralenti, devient matériel morontiel (48:2.20)
 substance et esprit créés par les Superviseurs du Pouvoir Morontiel (16:4.5) (42:2.4) (48:1.3) (48:2.18)
 
-chérubins morontiels | | chérubins et sanobim | ORDER |
+chérubins morontiels | | chérubins et sanobins | ORDER |
 
 Compagnons de la Morontia | (25:7) (48:3) | | ORDER |
 presque entièrement autonome (48:3.3)
@@ -2709,9 +2709,9 @@ seront toujours des Compagnons de la Morontia (48:3.16)
 
 conseillers morontiels | (48 :6.27-28) | | ORDER |
 Ministres de transition du 4ème ordre, séraphins (39:6.1)
-enseigner la mota aux progressistes morontiels (48 :6.27-28)
+enseigner la mota aux progresseurs morontiels (48 :6.27-28)
 
-vie morontielle | | la morontie; progresseurs morontiels | |
+vie morontielle | | morontia; progresseurs morontiels | |
 
 esprit morontiel | | esprit:types d'esprit | |
 
@@ -2720,7 +2720,7 @@ mota morontielle | | mota | |
 planificateurs morontiels | | | ORDER |
 bâtisseurs divins, artisans célestes (44:3.7)
 
-Superviseurs de Pouvoir Morontiel | (48:2) | Directeurs du pouvoir de l'univers | ORDER |
+Superviseurs de Pouvoir Morontiel | (48:2) | Directeurs de Pouvoir d'Univers | ORDER |
 absent des occasions de réjouissance (47:10.1)
 servir toujours dans l'univers local natif (48:2.11)
 construire un temple morontiel (55:1.3)
@@ -2750,7 +2750,7 @@ types (30:1.91) (30:2.108) (48:2)
 	# assortisseurs sélectifs
 	# registraires associés
 
-progresseurs morontiels | (48:8) (112:6) | mortels ascendants; étudiants des mondes des maisons; mondes des maisons; morontiel | ORDER |
+progresseurs morontiels | (48:8) (112:6) | mortels ascendants; étudiants des mondes des manoirs; mondes des manoirs; morontia | ORDER |
 l'assurance de la vérité remplace l'assurance de la foi pour (101:5.14)
 ne gardez pas la conscience de soi sans Ajusteur (112:6.7)
 la vie après la mort n'est pas différente, dans ses aspects essentiels, de l'existence mortelle (103:5.7)
@@ -2791,7 +2791,7 @@ enregistreurs de pensées des artisans célestes (44:4.12)
 synthétiseurs morontia | | | ORDER |
 concepteurs et embellisseurs d'artisans célestes (44:6.9)
 
-temple morontiel | | lumière et vie; morontiel | PLACE |
+temple morontiel | | lumière et vie; morontia | PLACE |
 apparaît lorsque la planète entre dans la lumière et la vie (40:3.1) (55:1)
 construit par les superviseurs de puissance de Morontia et les contrôleurs physiques principaux; environ 300 000 places (55 : 1,3-4)
 consacré à des cérémonies spéciales, non pas au culte, au jeu ou à la réception d'émissions (55:1.4)
@@ -2805,7 +2805,7 @@ Les Fils Enseignants de la Trinité inaugurent (55:1.1) (55:7.1)
 monde morontiel | | Jérusalem:mondes culturels de transition | PLACE |
 monde culturel de transition n°2, siège des superviseurs de la vie morontielle (45:1.3-4)
 
-ministres de la transition du monde morontiel | | ministres de la transition | ORDER |
+ministres de la transition du monde morontiel | | ministres de transition | ORDER |
 
 mondes morontiels | | | PLACE |
 Mélange de 3 gaz adaptés à la respiration des êtres morontiels (43:1.3) (46:2.2-3)
@@ -2821,11 +2821,11 @@ Les mondes morontiels de Nébadon sont typiques (48:0.3)
 ordre social fondé sur l'appréciation et le service mutuel (47:6.3)
 les univitatia administrent les mondes morontiels des constellations (43:7.2) (55:9.2)
 
-morontiens | | étudiants du monde des manoirs; progressistes morontiels | ORDER |
+morontiens | | étudiants des mondes des manoirs; progresseurs morontiels | ORDER |
 
 gisements Morrison; gisements dits « Morrison » | (60:2.5) | | |
 
-Corps Mortel de la Finalité | | Corps des Finalitaires Mortels | ORDER |
+Corps Mortel de la Finalité | | Corps de Mortels Finalitaires | ORDER |
 
 esprit mortel | | esprits mentaux adjuvats; idées; directions; logique; esprit; pensée | |
 Ajusteurs
@@ -2936,7 +2936,7 @@ après la mort
 	les étapes de l'existence (30:4) (31:3.4)
 		# mortels planétaires | mortels
 		# survivants endormis
-		# étudiants du monde des manoirs
+		# étudiants des mondes des manoirs
 		# progresseurs morontiels
 		# protections du superunivers
 		# Pèlerins de Havona
@@ -3101,12 +3101,12 @@ mortels primitifs | époques planétaires:ère pré-Prince Planétaire; religion
 	gouvernement entièrement tribal (52:1.3)
 	brûlerait la richesse accumulée pour créer une impression (69:5.13)
 reçu si peu du plasma vital d'Adam (76:4.6)
-rôle des esprits-mentaux adjuvants | esprits-mentaux adjuvants
+rôle des esprits-mentaux adjuvants | esprits mentaux adjuvats
 l'individualité de (112:2)
 certains manquent de capacité pour un culte intelligent de la Déité (113:1.3)
-Mortels fusionnés avec leurs fils | Mortels fusionnés avec leurs fils
+Mortels fusionnés avec le Fils | Mortels fusionnés avec le Fils
 fils de Dieu (2:5.4) (40:6) (99:5.5)
-Mortels fusionnés avec l'esprit | Mortels fusionnés avec l'esprit
+Mortels fusionnés avec l'Esprit | Mortels fusionnés avec l'Esprit
 influences spirituelles empiétant sur | influences spirituelles
 spirituellement égaux devant Dieu (134:4.7)
 ceux qui n'avaient pas la capacité d'être des fils étaient comptés avec les animaux (130:8.4) (133:0.3)
@@ -3132,7 +3132,7 @@ aucun homme n'a autant réussi avec de si grands nombres (92:5.11)
 passage vers les mondes des maisons contestés par Caligastia (52:5.5)
 Pierre croyait avoir vu Moïse lors de la transfiguration (158:1.8)
 réputé avoir apporté de l'eau d'un rocher, la manne dans le désert (136:6.6) (153:2.8,10)
-siège de Moïse | Sanhédrin
+siège de Moïse | sanhédrin
 s'est retiré (136:3.3)
 vol de nuit spectaculaire au départ de l'Egypte (96:3.5)
 enseignements (74:8.8) (96:5)
@@ -3153,7 +3153,7 @@ enseignements (74:8.8) (96:5)
 	Enseigné que la justice était récompensée par la prospérité et le pouvoir (135:5.1)
 il a remis le commandement à Josué (96:5.9)
 
-Très Haut | | Très-Hauts | PERSON |
+Très Haut | | Très Hauts | PERSON |
 celui qui habite dans le lieu secret de (4:1.4)
 Appellation sémitique de la divinité (96:1.9)
 
@@ -3167,17 +3167,17 @@ pas directement attaché aux gouvernements du système ou de la planète (37:4.4
 nombre en millions (37:4.1)
 supervisé par l'Union des Jours (37:4.3)
 
-Très Haut observateur d'Urantia; Très Haut observateur; observateur; Très Haut gardien; Très Haut chef; Très Haut régent; observateur pour les Très Hauts | | Très Hauts observateurs; Très Hauts; Fils de Vorondadek | PERSON |
+Très Haut observateur d'Urantia; Très Haut observateur; observateur; Très Haut gardien; Très Haut chef; Très Haut régent; observateur pour les Très Hauts | | Très Haut observateurs; Très Hauts; Fils Vorondadeks | PERSON |
 a récemment assumé l'autorité d'urgence sur Urantia (109:7.7)
 fiduciaire de la souveraineté d'Urantia (43:5.8,16-17) (114:4)
 
-Très Haut observateurs; Très Haut observateur; régents Très Hauts | | Très Hauts observateurs d'Urantia; Très Hauts; Fils de Vorondadek | ORDER |
+Très Haut observateurs; Très Haut observateur; régents Très Hauts | | Très Haut observateur d'Urantia; Très Hauts; Fils Vorondadeks | ORDER |
 habilité à exercer une autorité absolue et arbitraire sur chaque être céleste de la planète, à prendre le contrôle du gouvernement planétaire en temps de crise (35:5.5-6) (114:4.4)
 instrument du règne du Très-Haut dans les royaumes des hommes (43:5.16-17)
-Fils de Vorondadek (35:5.5-6)
+Fils Vorondadeks (35:5.5-6)
 
-Très Hauts | (35:6) (43:3) | Les plus hauts de Norlatiadek; Fils de Vorondadek | ORDER |
-sont les fils de Vorondadek (15:2.4) (20:1.10) (35:5.1) (35:6.1)(43:3.1-2)
+Très Hauts | (35:6) (43:3) | Très Hauts de Norlatiadek; Fils Vorondadeks | ORDER |
+sont les Fils Vorondadeks (15:2.4) (20:1.10) (35:5.1) (35:6.1)(43:3.1-2)
 au moins 3 règnent sur chaque constellation; chacun sert 150 000 ans; règne pendant 50 000 ans (15:2.4) (35:6.1) (43:3.1-2)
 Pères de la constellation
 	nommer les souverains du système (35:9.2)
@@ -3200,7 +3200,7 @@ règne dans les royaumes des hommes (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11)
 	gouverner par l'intermédiaire des réservistes (114:7.9)
 	gouverner via l'observateur de Vorondadek (43:5.17)
 
-Très Hauts de Norlatiadek; Très Hauts d'Édentia | | Les plus hauts sommets | PERSON |
+Très Hauts de Norlatiadek; Très Hauts d'Édentia | | Très Hauts | PERSON |
 actes
 	apparition à Jésus (136:3.5)
 	membres approuvés à l'avance de la Cour suprême de Van (66:5.31)
@@ -3233,7 +3233,7 @@ Sphère Très Sainte | | Paradis | PLACE |
 zone du Paradis supérieur (11:3.1-2)
 aucune matérialisation physique sur (11:3.2)
 réservé au culte, à la trinitisation et à la haute réalisation spirituelle (11:3.1)
-Les Fils de Dieu trinitisés ont des maisons à proximité (13:2.4)
+Les Fils de Dieu Trinitisés ont des maisons à proximité (13:2.4)
 
 mota | (48:7) | | |
 L'absence de mota empêche l'homme de discerner la bonté, l'amour et la vérité dans le monde matériel (103:6.13)
@@ -3269,7 +3269,7 @@ y compris la crémation des morts dans des huttes en pierre (80:8.5)
 Monde méditerranéen largement dominé par (98:1.3)
 prêtres soumis à la castration (89:3.4)
 
-Mère Eve | | Fils matériels | |
+Mère Eve | | Fils Matériels | |
 
 force mère de l'espace | | absoluta | | OK
 c'est l'un des noms d'absoluta
@@ -3340,7 +3340,7 @@ Jésus et les apôtres campèrent sur (143:6.2-6)
 Les Samaritains adoraient Yahweh le (143:4.2) (143:5.5)
 le culte n'est pas sur le mont Garizim (193:1.2)
 
-mont Guilboa | | Guilboa | PLACE |
+mont Guilboa | | Gilboa | PLACE |
 
 mont Hermon | | | PLACE |
 brillait de neige éternelle (123:5.12) (124:6.5)
@@ -3354,13 +3354,13 @@ visible depuis Césarée de Philippe (157:3.1-2)
 
 mont Hood; Hood | (61:4.2) | | PLACE |
 
-mont Horeb | | Mont Sinaï | PLACE |
+mont Horeb | | mont Sinaï | PLACE |
 
 mont Liban | (155:4.1) | | PLACE |
 
 mont des Oliviers | | Mont des Oliviers | PLACE |
 
-mont de la transfiguration | | Jésus:événements de la vie; Mont Hermon | PLACE |
+mont de la transfiguration | | Jésus:événements de la vie; mont Hermon | PLACE |
 
 mont des Oliviers | (127:3.5) (164:2.3) (171:8.1) (174:0.3) (182:1.2) | | PLACE |
 Gethsémani sur (142:8.4)
@@ -3409,7 +3409,7 @@ la foi enlève (144:2.6)
 formé par un soulèvement à la fin de la dérive des continents (60:3.11)
 emplacements des plus anciens (60:4.3)
 montagnes modernes construites au Crétacé (60:3.3)
-nommé | Adirondacks; Alpes; Andes; Apennins; Appalaches; Forêt-Noire; Col du Brenner; Montagnes calédoniennes; Carpates; Montagnes Catskill; Black Hills du Dakota; Ghâts orientaux; Himalaya; Kopet Dagh; Longs Peak; Moab, collines de; Mont Ararat; Mont Carmel; Mont Gerizim; Mont Hermon; Mont Hood; Mont Liban; Mont Olivet; Mont Olympe; Mont Rainier; Mont Royal; Mont Sartaba; Mont Shasta; Mont Sinaï; Mont Tabor; Pikes Peak; Pyrénées; Montagnes Rocheuses; Collines de Siwalik; Montagnes de l'Oural; Vosges; Ghâts occidentaux
+nommé | Les montagnes Adirondack; Alpes; Cordillère des Andes; Apennins; Montagnes des Appalaches; Forêt Noire; Col du Brenner; Montagnes calédoniennes; Carpates; Monts Catskill; Montagnes Noires du Dakota; Ghâtes orientales; Himalayas; Kopet Dagh; pic Longs; Moab, collines de; mont Ararat; mont Carmel; mont Garizim; mont Hermon; mont Hood; mont Liban; mont des Oliviers; mont Olympe; mont Rainier; mont-Royal; mont Sartaba; mont Shasta; mont Sinaï; mont Thabor; pic Pikes; Pyrénées; montagnes Rocheuses; monts Siwalik; montagnes de l'Oural; Vosges; Ghâtes occidentales
 pas de chaînes de montagnes accidentées à Jérusalem ou à Édentia (43:1.1) (46:2.1)
 résultat de la pluie, de la gravité et de l'érosion (57:8.14)
 adoration des collines (85:1.5)
@@ -3521,7 +3521,7 @@ le secret confère le pouvoir (70:7.7,15)
 tendance à se prosterner devant les mystères (89:4.1)
 il y en aura toujours mille (27:6.1)
 
-cultes mystérieux | (98:4) (121:5) | Mithraisme; paganisme | |
+cultes mystérieux | (98:4) (121:5) | mithraïsme; paganisme | |
 Auguste a essayé de détruire (98:3.6)
 se battait contre le stoïcisme (195:3.3)
 influencé le christianisme (98:7.7)
@@ -3538,7 +3538,7 @@ les rites secrets étaient parfois horribles (121:5.10)
 
 Moniteurs Mystères | | Ajusteurs de Pensée | ORDER |
 
-mysticisme | (100:5) | directives; révélation:révélation personnelle; perspicacité spirituelle | |
+mysticisme | (100:5) | directions; révélation:révélation personnelle; intuition spirituelle | |
 ne soyez pas des mystiques passifs (178:1.14)
 Le mysticisme chrétien confine à l'irréalité; philosophiquement proche du panthéisme (195:4.1)
 facteurs qui induisent un état mystique (100:5.10)

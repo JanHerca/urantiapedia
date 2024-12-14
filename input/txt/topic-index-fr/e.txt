@@ -123,7 +123,7 @@ Enseignements édéniques | | Jardin d'Eden:enseignements | | OK
 c'est le siège des Pères de la Constellation, les Très Hauts de Norlatiadek (43:0.2)
 La construction de Salvington fut immédiatement suivie par la création des cent mondes sièges des constellations projetées, sous le nom d'Édentia. (32:2.3)
 description
-	 Sur Édentia, il y a dix Centres de Pouvoir Suprêmes, dix contrôleurs mécaniques associés et dix frandalanks qui sont en liaison parfaite et constante avec les centres de pouvoir proches. (41:1.4)
+	 Sur Édentia, il y a dix Centres Suprêmes de Pouvoirs, dix contrôleurs mécaniques associés et dix frandalanks qui sont en liaison parfaite et constante avec les centres de pouvoir proches. (41:1.4)
 	Les soixante-dix sphères majeures entourant Édentia ont environ dix fois la taille d'Urantia, tandis que les dix satellites qui tournent autour de chacun de ces soixante-dix mondes ont à peu près la taille d'Urantia. (43:0.2) (43:7.1,3)
 	Toute la vie animale d'Édentia est très intelligente et extrêmement serviable, et toutes les espèces diverses sont étonnamment douces et touchantes. Il n'y a pas de créatures carnivores; il n'y a rien dans tout Édentia qui puisse effrayer un être vivant. (43:6.5)
 	Édentia est cent fois plus grande qu'Urantia (43:0.2)
@@ -582,7 +582,7 @@ Jésus
 	Jésus a enseigné l'appel aux émotions comme technique pour capter et focaliser l'attention intellectuelle. (152:6.3-4)
 	Jésus a connu un flux et un reflux naturel d'émotions dans les heures qui ont précédé sa capture et son exécution. (182:3.7)
 émotions particulières
-	Voir ci-dessous les liens vers différents types d'émotions | aventure; affectation; affection; colère; anxiété; assurance; blâmer; ennui; couvaison; fraternité (attitude); certitude; charité; plaindre; confusion; dispute; courage; courtoisie; lâcheté; curiosité; défaite; dépression; désespoir; déception; découragement; encouragement; enthousiasme; envie; équivoque; honneur; espoirs; hypocrisie; hystérie; immaturité; impatience; indolence; infériorité; insécurité; insubordination; intolérance; isolement; jalousie; joie; longanimité; solitude; amour; fidélité; convoitise; douceur; modération; modestie; paralysie; patience; persistance; pessimisme; piété; équilibre; fierté; procrastination; convenance; insouciance; ressentiment; vengeance; ridiculiser; auto-humiliation; confiance en soi; auto-illusion; abnégation; autosatisfaction; suffisance; apitoiement sur soi-même; respect de soi; égoïsme; honte; tristesse; soupçon; sympathie; tendresse; tolérance; malheur; vanité; zèle
+	Voir ci-dessous les liens vers différents types d'émotions | aventure; affectation; affection; colère; anxiété; assurance; blâmer; ennui; couvaison; fraternité (attitude); certitude; charité; se plaindre; confusion; dispute; courage; courtoisie; lâcheté; curiosité; défaite; dépression; désespoir; déception; découragement; encouragement; enthousiasme; envie; équivoque; honneur; espoirs; hypocrisie; hystérie; immaturité; impatience; indolence; infériorité; insécurité; insubordination; intolérance; isolement; jalousie; joie; longanimité; solitude; amour; fidélité; convoitise; douceur; modération; modestie; paralysie; patience; persistance; pessimisme; piété; équilibre; fierté; procrastination; convenance; insouciance; ressentiment; vengeance; ridiculiser; auto-humiliation; confiance en soi; auto-illusion; abnégation; autosatisfaction; suffisance; apitoiement sur soi-même; respect de soi; égoïsme; honte; tristesse; soupçon; sympathie; tendresse; tolérance; malheur; vanité; zèle
 
 culte de l'empereur | | Empire romain | | OK
 Le culte de l'empereur, cette déification de l'homme comme symbole de l'État, fut très sérieusement ressenti par les Juifs et les premiers chrétiens et conduisit directement aux persécutions amères des deux églises par le gouvernement romain. (121:5.4)
@@ -654,7 +654,7 @@ définition
 	les trois phases originelles de l'énergie divine sont l'énergie physique, mentale et spirituelle (44:5.5)
 	L'énergie est un terme global appliqué dans Le Livre d'Urantia aux royaumes spirituel, mental et matériel. (0:6.2)
 types d'énergie
-	*absoluta
+	* absoluta
 	* force cosmique. Voir absoluta dans les liens | absoluta
 	* énergie électronique. Voir gravita dans les liens | gravita
 	* énergie émergente. Voir ultimata dans les liens | ultimata
@@ -666,19 +666,19 @@ types d'énergie
 	* Énergie Havona. Voir triata dans les liens | triata
 	* énergie matérielle
 	* monotone
-	*énergie morontielle. Voir la morontie dans les liens | morontia:énergie morontielle
+	* énergie morontielle. Voir la morontia dans les liens | morontia:énergie morontielle
 	* force mère de l'espace. Voir absoluta dans les liens | absoluta
 	* Énergie paradisiaque. Voir monota dans les liens | monota
-	*force primordiale. Voir segregata dans les liens | ségrégation
+	* force primordiale. Voir segregata dans les liens | segregata
 	* énergie puissante
-	*énergie pure. Voir segregata dans les liens | ségrégation
+	* énergie pure. Voir segregata dans les liens | segregata
 	* séparé
 	* énergie solaire
 	* énergie spatiale. Voir absoluta dans les liens | absoluta
 	* force spatiale. Voir absoluta dans les liens | absoluta
 	* puissance spatiale. Voir absoluta dans les liens | absoluta
 	* énergie spirituelle. Voir esprit dans les liens | esprit:énergie spirituelle
-	*tranoste
+	* tranoste
 	* énergie transcendantale. Voir tranosta dans les liens | tranosta
 	* triade
 	* ultime
@@ -689,7 +689,7 @@ circuits d'énergie
 	Les grands circuits d'énergie, d'esprit et de pensée ne sont jamais la possession permanente de la personnalité ascendante; ces ministères demeurent à jamais une partie de la Suprématie. (117:5.7-8)
 	Les circuits d'énergie physique administrés par les centres de pouvoir d'Uversa nécessitent un peu plus de 968 millions d'années pour achever l'encerclement du superunivers. (15:8.2)
 	Seuls les soleils qui fonctionnent dans les canaux directs des principaux courants d'énergie de l'univers peuvent briller éternellement. (41:7.14)
-	les soleils transforment et envoient une grande partie de l'énergie de l'espace qui leur parvient dans les circuits spatiaux établis (15:6.9) | Directeurs du pouvoir de l'univers:travail
+	les soleils transforment et envoient une grande partie de l'énergie de l'espace qui leur parvient dans les circuits spatiaux établis (15:6.9) | Directeurs de Pouvoir d'Univers:travail
 	l'un des circuits énergétiques du superunivers sont les circuits énergétiques des centres de pouvoir et des contrôleurs physiques (15:9.10)
 	les séraphins de transport voyagent le long des circuits énergétiques (39:5.14)
 charge énergétique | absoluta
@@ -704,11 +704,11 @@ manipulation de l'énergie par des organismes célestes
 	Les manipulateurs d'énergie sont l'un des artisans célestes (44:5)
 	le vaste courant d'énergie provenant des Présences du Paradis n'a jamais faibli, n'a jamais cessé; il n'y a jamais eu de rupture dans le maintien infini. (42:0.1)
 	Les transformateurs d'énergie modifient la forme physique des énergies de l'espace (29:4.25)
-	Les organisateurs de force transforment la force spatiale en énergie (42:1.5) | Maîtres organisateurs de force
+	Les organisateurs de force transforment la force spatiale en énergie (42:1.5) | Maitres Organisateurs de Force
 	L'Esprit Infini possède des prérogatives uniques de synthèse, une capacité infinie de coordonner toutes les énergies de l'univers existantes, tous les esprits de l'univers réels et tous les intellects de l'univers réel; il peut ralentir l'énergie jusqu'au point de matérialisation (9:0.2) (9:3.4)
 	L'énergie-matière semble évoluer dans les profondeurs de l'espace et est organisée en tant que puissance par les enfants de l'Esprit Infini en conjonction avec les Fils Créateurs de Dieu. (24:1.1) (104:4.13) (106:2.3)
 	La vie a une capacité inhérente à mobiliser et à transmuter l'énergie universelle. (41:2.5)
-	Les directeurs de pouvoir sont eux-mêmes des catalyseurs d'énergie; c'est-à-dire qu'ils font en sorte que l'énergie se segmente, s'organise ou s'assemble en formation d'unités par leur présence. (15:8.4) (42:1.5) (42:2.22) | Directeurs de pouvoir de l'univers
+	Les directeurs de pouvoir sont eux-mêmes des catalyseurs d'énergie; c'est-à-dire qu'ils font en sorte que l'énergie se segmente, s'organise ou s'assemble en formation d'unités par leur présence. (15:8.4) (42:1.5) (42:2.22) | Directeurs de Pouvoir d'Univers
 	les directeurs de puissance maintiennent l'équilibre entre l'énergie et la matière (15:8.4)
 	Les régulateurs d'énergie sont des Organisateurs de Force Maîtres Primaire Eventués, des Organisateurs de Force Maîtres Transcendantaux Associés et des Directeurs de Pouvoir Universel. (29:0.1-4)
 	La quatrième triunité contrôle absolument les unités fondamentales de l'énergie cosmique et les libère de l'emprise de l'Absolu Non Qualifié en proportion directe de l'apparition dans les Déités expérientielles de la capacité subabsolue de contrôler et de stabiliser le cosmos en métamorphose. (104:4.27)
@@ -781,7 +781,7 @@ formes d'énergie inconnues
 	* une influence sans nom qui semble être une réaction de force spatiale de l'Absolu Non Qualifié et qui se trouve dans l'espace interélectronique (42:8.2)
 	* La force paradoxale et puissante qui assure l'intégrité cohésive atomique est une forme d'énergie qui n'a pas encore été découverte sur Urantia. (42:8.6)
 
-contrôleurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de puissance de l'univers | | OK
+contrôleurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | | OK
 
 manipulateurs d'énergie | | artisans célestes | ORDER | OK
 Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils sont divisés en types suivants : (44:5)
@@ -797,7 +797,7 @@ Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils
 
 boucliers énergétiques | | boucliers de friction | | OK
 
-transformateurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de puissance de l'univers | ORDER | OK
+transformateurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
 Le nombre de ces êtres dans un superunivers est incroyable. Il y en a presque un million dans Satania seulement, et le quota habituel est de 100 pour chaque monde habité. (29:4.22)
 événements qu'ils ont permis
 	les contrôleurs physiques ont organisé ce qui était nécessaire pour que les apôtres puissent voir la transfiguration de Jésus sur le mont Hermon (158:1.8)
@@ -824,7 +824,7 @@ nature
 	ils sont semi-matériels et quelque peu personnels (29:4.16-18)
 	ils sont un type de contrôleur physique principal (29:4.7)
 
-transmetteurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de puissance de l'univers | ORDER | OK
+transmetteurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
 fonctions
 	une batterie de mille transmetteurs d'énergie fournit l'élan initial pour le départ séraphique. (29:4.19) (39:5.14)
 	Les Pères de la Constellation ont envoyé une résolution soutenant Van contre la rébellion de Lucifer, mais le verdict n'est pas parvenu à Van parce que l'ordre avait été bloqué dans un transmetteur d'énergie relais en raison de l'isolement d'Urantia. Les transmetteurs d'énergie peuvent recevoir et transmettre des renseignements, mais ils ne peuvent pas initier de communication. (67:2.2) (67:6.9)
@@ -870,9 +870,9 @@ livre d'enoch
 Énos, fils de Seth et petit-fils d'Adam et Eve, fonda un nouvel ordre de culte (76:3.4)
 > https://en.wikipedia.org/wiki/Enos_(biblical_figure)
 
-Ensa | | secteurs mineurs; Uminor le troisième | PLACE | OK
+Ensa | | secteurs mineurs; Uminor la troisième | PLACE | OK
 Ensa est notre secteur mineur, le troisième du secteur majeur de Splandon, qui comprend cent secteurs mineurs (15:14.7) (18:5.5) (29:4.18)
-Uminor le troisième, le siège d'Ensa, est entouré de sept sphères satellites (15:7.8)
+Uminor la troisième, le siège d'Ensa, est entouré de sept sphères satellites (15:7.8)
 Le centre de rotation d'Ensa est situé très loin dans l'énorme et dense nuage d'étoiles du Sagittaire, autour duquel votre univers local et ses créations associées se déplacent tous, et depuis les côtés opposés du vaste système sous-galactique du Sagittaire, vous pouvez observer deux grands courants de nuages d'étoiles émergeant dans des bobines stellaires stupéfiantes. (15:3.5-11)
 
 enseconaphimation | | transport séraphique, sécoraphique et supéraphique | | OK
@@ -1057,7 +1057,7 @@ Esther | (150:3.1) | | PERSON | OK
 En l'honneur de cette femme et de la libération qu'elle a apportée, la fête juive de Pourim a été célébrée. (123:3.5)
 > https://en.wikipedia.org/wiki/Esther
 
-vie éternelle; vie éternelle; vie après la mort | | mort; fusion; paradis; jugement; vie; non-survivants; résurrection; salut; survie (de la mort mortelle) | | OK
+vie éternelle; vie éternelle; vie après la mort | | mort; fusion; paradis; jugement; la vie; non-survivants; résurrection; salut; survie (de la mort mortelle) | | OK
 La présence de l'Ajusteur dans l'esprit de l'homme constitue la promesse de révélation et le gage de foi d'une existence éternelle de progression divine (132:3.9).
 L'immortalité est atteinte par la fusion avec notre Ajusteur. Après la fusion de l'âme morontielle immortelle et de l'Ajusteur associé, toute l'expérience et toutes les valeurs de l'une deviennent finalement la possession de l'autre, de sorte que nous ne sommes en réalité qu'une seule entité. (110:7)
 Les Fils Créateurs dans l'association de la Déité de Dieu le Septuple fournissent le mécanisme par lequel le mortel devient immortel et le fini atteint l'étreinte de l'infini. (0:8.11) (180:3.7)
@@ -1221,7 +1221,7 @@ l'Absolu Non Qualifié n'est pas une influence indifférenciée et omniprésente
 Sensibilisateurs d'éthique; sensibilisateurs d'éthique | | superviseur séraphin | ORDER | OK
 Les sensibilisateurs éthiques sont des séraphins superviseurs dont la mission est de favoriser et de promouvoir la croissance de l'appréciation des créatures de la moralité des relations interpersonnelles, car telle est la semence et le secret de la croissance continue et déterminée de la société et du gouvernement, humain ou surhumain. (39:3.7)
 
-éthique; Éthique; Éthique; éthique | | moralité | | OK
+éthique; Éthique; Éthique; éthique | | morale | | OK
 Toutes les relations et l'application de l'éthique découlent des faits fondamentaux de l'origine. (28:6.2)
 L'éthique statique et la morale traditionnelle sont à peine surhumaines. L'éthique et la morale deviennent véritablement humaines lorsqu'elles sont dynamiques et progressives, vivantes avec la réalité de l'univers. (12:5.10)
 L'éthique humaine et la conscience naturelle du bien et du mal relatif sont nées des concepts d'apaisement des esprits toujours mécontents (86:6.7)
@@ -1364,7 +1364,7 @@ Les évangiles de la destinée proclament la liberté spirituelle et la filiatio
 Les Évanges de Lumière sont des êtres célestes temporairement attachés à des compagnies mortelles finalitaires (31:7.1)
 Toute personnalité céleste assignée au service d'un corps finalitaire est appelée Évange de Lumière. (31:7.2)
 
-Ève | | Adam; Fils matériels | PERSON | OK
+Ève | | Adam; Fils Matériels | PERSON | OK
 Eve est la fille matérielle consort d'Adam qui a accepté la mission d'amener la race violette sur Urantia
 Le complot de Caligastia
 	Caligastia abandonna ses tentatives pour convaincre Adam et décida de tenter une attaque indirecte et astucieuse contre Eve (75:2.3).
@@ -1407,7 +1407,7 @@ Ces êtres extériorisés incluent les ordres suivants :
 Ces transcendantaux ne créent pas d'êtres, et ils n'ont jamais été créés. En parlant de leur origine, afin d'éviter d'utiliser un nouveau terme – une désignation arbitraire et dénuée de sens – nous estimons qu'il est préférable de dire que les transcendantaux sont simplement une manifestation (31:8.3).
 Au Paradis, il existe une tradition selon laquelle, très loin dans l'éternité, on a tenté l'extériorisation du 28 012e Maître Architecte, mais cet être n'a pas réussi à s'absoniser, et a subi une saisie de personnalité par l'Absolu Universel. (31:9.10)
 
-eventuateurs | | Transcendentalers | | OK
+eventuateurs | | Transcendantaux | | OK
 
 omniprésence | | omniprésence | | OK
 
@@ -1502,7 +1502,7 @@ le malin | | Caligastia | | OK
 esprits maléfiques | | possession démoniaque | | OK
 
 évolution; Évolution | | plan divin; progrès | | OK
-évolution biologique | génétique; vie:biologique
+évolution biologique | génétique; la vie:biologique
 	Les médians d'Urantia ont rassemblé plus de 50 000 faits de physique et de chimie qui prouvent que l'évolution n'est pas accidentelle (58:2.3-5).
 	La physique et la chimie seules ne peuvent pas expliquer comment un être humain a évolué à partir d'une algue primitive (65:2.1) (65:6.8)
 	L'évolution biologique et la civilisation culturelle ne sont pas nécessairement corrélées; l'évolution organique peut, à n'importe quelle époque, se poursuivre sans entrave au beau milieu d'une décadence culturelle. (81:5.1)

@@ -55,10 +55,10 @@ devenir des grenouilles en vivant loyalement comme des têtards (100:1.4)
 les jeunes des grenouilles existent d'abord sous forme de petits poissons (59:5.6)
 
 talents | | | |
-argent | livres sterling
+argent | livres
 	parabole de t.; destinée à tous les disciples (171:8.2) (176:3.4)
 	intendant ingrat devait 10 000 talents (159:1.4)
-compétences | réalisation
+compétences | accomplissement
 	se consacre principalement aux pouvoirs de l'esprit et de l'âme (136:6.10)
 	Jésus a refusé de prostituer ses talents pour le prestige politique (136:8.8)
 	le don de l'homme lui fait de la place (133:5.2)
@@ -71,12 +71,12 @@ roi de Gueshur; le roi David a épousé la fille de (97:9.10)
 Tamar | | | PERSON |
 Marie, mère de Jésus, une descendante de (122:1.2)
 
-taoïsme | (92:6.7) | Lao-tseu | RELIGION |
+taoïsme | (92:6.7) | Lao-Tseu | RELIGION |
 Bouddhisme affecté (94:9.3)
 est née en conséquence directe de l'enseignement de Salem (94:5.2-6)
 Le bouddhisme a absorbé le rituel de désintégration de (94:11.1)
 Résumé de Ganid (131:8)
-Lao-tseu a imaginé Dieu dans Tao (92 : 5.12)
+Lao-Tseu a imaginé Dieu dans Tao (92 : 5.12)
 Marchand mongol croyant en (130:2.2)
 
 tapirs | (61:1.9) (61:7.15) | | |
@@ -113,7 +113,7 @@ tatouage | | | |
 ancien insigne d'appartenance tribale (70:7.10)
 évolution artistique des cicatrices grossières antérieures (89:8.3)
 
-collecteurs d'impôts | | publicains; taxation; contribuables | |
+collecteurs d'impôts | | publicains; fiscalité; contribuables | |
 les premiers dirigeants utilisaient des clubs secrets comme (70:7.18)
 n'extorquez pas plus que ce qui est assigné (135:6.8)
 Jésus a vendu une harpe et a donné des Écritures grecques pour éviter la saisie par (126:5.5-6) (127:4.10)
@@ -143,11 +143,11 @@ doit soutenir l'État sans handicaper l'industrie (71:5.2)
 la dîme était une forme primitive d'imposition (70:7.18)
 la dîme dans la lumière et la vie (55:3.2)
 
-contribuables | | collecteurs d'impôts; taxation | |
+contribuables | | collecteurs d'impôts; fiscalité | |
 imprévoyant s'attend à être nourri par (69:9.5)
 recevoir des votes supplémentaires dans la nation continentale (72:9,5)
 
-Fils enseignants | | Fils enseignants de la Trinité | ORDER |
+Fils enseignants | | Fils Instructeurs de la Trinité | ORDER |
 
 enseignants | | éducation | |
 les ascendeurs enseignent à ceux qui sont juste derrière (30:3.9) (30:4.23) (100:2.1)
@@ -249,7 +249,7 @@ premiers lieux fétiches car morts enterrés dans (88:2.3)
 de la communion spirituelle vivante (157:4.5,7)
 des arènes de culte en plein air dans la lumière et la vie (55:5.5)
 emmener les hommes dans le temple avant de leur montrer ses beautés (141:6.4)
-gardes du temple | gardes du temple de Jérusalem
+gardes du temple | Gardes du temple de Jérusalem
 temple de Dieu
 	corps humain (1:4.2) (34:6.7) (143:2.4)
 	Jésus ressusciterait dans 3 jours (173:5.4)
@@ -257,7 +257,7 @@ temple de la philosophie sur la nation continentale (72:3.5)
 prostitution au temple | prostitution
 sommeil au temple | hypnose
 temples sur Urantia
-	à Jérusalem | Temple de Jérusalem
+	à Jérusalem | temple de Jérusalem
 	Temple du Père en Dalamatie (66:3.4-5) (66:4.13)
 	bosquet de Daphné, sanctuaire de la honte (133:8.1)
 	temple morontiel
@@ -322,7 +322,7 @@ peuvent devenir conseillers techniques (25:4.5)
 se retirer de l'univers local lorsque les anges indigènes apparaissent (28:1.3)
 servir en tant que Très Hauts Assistants (37:4.2)
 
-superviseurs tertiaires des circuits | | Superviseurs de circuits universels | ORDER |
+superviseurs tertiaires des circuits | | Superviseurs des Circuits Universels | ORDER |
 ne peut annuler les courants matériels (24:1.12)
 emploient de nombreux êtres, y compris des personnalités spirituelles élevées de contrôle de circuit (24:1.12)
 ordre des Superviseurs du Circuit Universel; 1 fonctions sur chaque capitale d'univers local; de création continue (24:1.6,10-11)
@@ -344,7 +344,7 @@ Thaïlande | | Siam | PLACE |
 Thamna | (143:0,1) | | PLACE |
 Jésus est décédé
 
-action de grâce | | adoration | |
+action de grâce | | culte | |
 
 Thapsacus | (130:0.3) | | PLACE |
 Jésus est décédé
@@ -383,7 +383,7 @@ peut se quereller avec la foi; les faits ne le font pas (195:7.1)
 on ne peut pas se fier à un postulat (102:7.3)
 sauvetage post-mortem de la vérité emprisonnée (180:5.2)
 
-voleurs | | voleurs crucifiés avec Jésus | |
+voleurs | | des voleurs crucifiés avec Jésus | |
 le bon Samaritain a aidé l'homme volé et battu par (164:1.3)
 tué un homme riche avec des granges pleines (165:4.3)
 
@@ -469,7 +469,7 @@ héros fantôme; maître de la foudre (80:5.4) (85:6.4)
 couronne d'épines placée sur la tête de Jésus (185:6.2,4)
 une partie de la semence tomba parmi (151:1.2) (151:2.2)
 
-Élevés en Autorité; Les Élevés en Autorité | (22:3) | Fils trinitisés de réussite | ORDER |
+Élevés en Autorité; Les Élevés en Autorité | (22:3) | Fils d'Aboutissement Trinitisés | ORDER |
 Mortels fusionnés avec un Ajusteur et dotés d'une capacité administrative supérieure (22:3.1)
 dirigeants des Anciens des Jours (15:10.3-12) (22:3.3)
 les finalitaires embrassés par la Trinité (15:10.12)
@@ -485,7 +485,7 @@ Les solennités de confiance accompagnent (28:6.15)
 les seconaphins tertiaires sont attribués à (28:3.1) (28:6.1)
 Fils de Réussite Trinitisés (15:10.12) (15:12.1) (22:3.1) (28:6.1)
 
-Dépourvus de Nom et de Nombre | (22:4) | Fils trinitisés de réalisation | ORDER |
+Dépourvus de Nom et de Nombre | (22:4) | Fils d'Aboutissement Trinitisés | ORDER |
 les finalitaires embrassés par la Trinité (15:10.12)
 avoir une conception transcendante du dessein éternel du Père (22:4.1)
 Les assistants du Fils Supérieur servent de commis pour (22:10.1)
@@ -597,7 +597,7 @@ connu sous le nom de
 	Thought Changers, jusqu'à 20 ans (107:0.7)
 	Contrôleurs de pensée, après 40 ans (107:0.7)
 	les véritables lumières qui éclairent tout homme (40:5.19) (52:1.7) (101:0.3) (113:6.2)
-Le Maître Esprit Numéro Un est un proche associé du chef de (16:3.2)
+Le Maitre Esprit Numéro Un est un proche associé du chef de (16:3.2)
 mission et fonction des Ajusteurs de Pensée
 	Problème de l'expert (111:7)
 	attirer les sujets vers un avenir meilleur (108:4.2)
@@ -804,7 +804,7 @@ types d'Ajusteurs (107:1.3) (107:2)
 	#* éternellement libéré du service du temps (107:1.3) (107:2.1,6)
 	# Ajusteurs fusionnés (109:3.1) | fusion
 	#* sont devenus un avec les créatures ascendantes (107:2.7)
-	# Experts Personnalisés | Experts Personnalisés
+	# Experts Personnalisés | Ajusteurs Personnalisés
 	#* ont servi avec les Fils du Paradis incarnés ou ont obtenu une distinction d'une autre manière (40:4) (107:2.8)
 types d'experts en sinistres, autres classifications
 	Ajusteurs détachés
@@ -852,7 +852,7 @@ Les Thraces croyaient à l'immortalité (92:6.1)
 
 trois | | 3 | |
 
-mortels à trois cerveaux | (49:5.13-18) | cerveaux; mortels :types planétaires | |
+mortels à trois cerveaux | (49:5.13-18) | cerveaux; mortels:types planétaires | |
 
 trois cercles concentriques | | cercles concentriques, trois | |
 
@@ -1103,7 +1103,7 @@ symboles du groupe et de leur dieu (88:3.2)
 
 tour de Babel | | Babel | PLACE |
 
-traditions | | cérémonies; cultes; judaïsme:loi orale; mœurs | |
+traditions | | cérémonies; cultes; Judaïsme:loi orale; mœurs | |
 force irrésistible de (51:6.5)
 la coutume établit des institutions de survie (69:1.3)
 Jésus a ignoré les traditions superstitieuses (149:2.10)
@@ -1121,7 +1121,7 @@ relier sentimentalement le passé au présent (66:6.2)
 
 traîtres | | trahison | |
 
-transe | | | |
+tranosta | | | |
 énergie transcendantale sur le Paradis supérieur (42:2.18)
 
 transcendance | | | |
@@ -1170,7 +1170,7 @@ le service est un sous-produit de la transformation spirituelle (178:1.11)
 
 transformateurs | | transformateurs d'énergie | ORDER |
 
-sommeil de transit | | repos:repos de transition; transport séraphique, sécoraphique et supraphique | |
+sommeil de transit | | repos:repos de transition; transport séraphique, sécoraphique et supéraphique | |
 
 trio de transit | | | |
 assister les pèlerins de Havona (26:9.2)
@@ -1201,7 +1201,7 @@ résidence dans les cercles de Jérusalem (46:5.22)
 
 repos de transition | | repos:repos de transition | |
 
-monde en transition #1 | | monde des finalistes | PLACE |
+monde en transition #1 | | monde des finalitaires | PLACE |
 
 mondes culturels en transition | | Jérusalem | PLACE |
 
@@ -1246,7 +1246,7 @@ manipulateur d'énergie, artisans célestes; conseillers techniques pour le tran
 
 transport séraphin | | transport séraphique, sécoraphique et supéraphique; séraphin | ORDER |
 
-transport supernaphin | | transport séraphique, sécoraphique et supernaphique; supernaphin | ORDER |
+transport supernaphin | | transport séraphique, sécoraphique et supéraphique; supernaphins | ORDER |
 
 transport | | transport séraphique, sécoraphique et supéraphique; voyage | ORDER |
 tous les traverseurs de l'espace ont besoin d'aide pour surmonter la gravité lorsqu'ils quittent une sphère (29:4.1)
@@ -1255,7 +1255,7 @@ sur Jérusalem par des oiseaux, des véhicules (46:2.4)
 les personnalités spirituelles procèdent par liaison avec l'énergie spirituelle (46:2.4)
 les mortels traduits traversent l'espace librement avant d'être revêtus de formes morontielles (49:6.19) (55:2.7)
 
-personnalités du transport | | séconaphins; transport séraphique, sécoraphique et supéraphique | ORDER |
+personnalités du transport | | seconaphin; transport séraphique, sécoraphique et supéraphique | ORDER |
 les seconaphins qui transportent les pèlerins entre les superunivers et Havona (28:4.13)
 
 voyage | | transport | |
@@ -1297,7 +1297,7 @@ arbres | | arbre de vie | |
 Andon enseignait le règlement des conflits par les coups (70:1.3)
 habité par des esprits bienveillants ou trompeurs et cruels (85:2.4)
 connus par leurs fruits (140:3.19) (140:8.22) (142:5.2) (153:4.4)
-nommé | pommier; hêtres; bouleaux; arbres à pain; cédrat; conifères; fougères; figuier; magnolias; érables; chênes; palmiers; pins; séquoias; sycomores; tulipiers; noyers
+nommé | pomme; hêtres; bouleaux; arbres à pain; citron; conifères; fougères; figuier; magnolias; érables; chênes; palmiers; pins; séquoias; sycomores; tulipiers; noix
 ne produisant pas de bons fruits coupés (135:6.7) (166:4.9)
 adoration de (85:2.3-5)
 
@@ -1324,12 +1324,12 @@ tribus | (70:4) | clans; races | RACE |
 souvent subverti la souveraineté de l'État territorial (134:5.8)
 les chefs de guerre ont établi la lignée paternelle (70:4.10)
 à l'origine une confédération lâche de clans (70:4.9)
-tribus et groupes raciaux nommés | aborigènes (australiens); aborigènes (indiens); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-Saxons; Arabes; Aryens; Assyrie; Babyloniens; tribus Badonan; tribus Baganda; Basques; Bédouins; Berbères; Indiens Pieds-Noirs; race bleue; Bornéens; Bretons; race brune; Bushmen; Calebites; Cananéens; Caucasiens; Chaldéens; Cro-Magnons; Cuthites; Cutites; Danubiens; Dravidiens; Dyaks; Édénites; Édomites; Élamites; Esquimaux; Ezréon; Finlandais; Peuples Foxhall; Gad; Gabaonites; Galaadites; Grecs; race verte; Guites; Hamathites; race de Heidelberg; Hittites; Incas; Inde:groupes raciaux; race indigo; Iroquois; Jébuséens; Juifs Kateri; Kéniens; Lévites; Malaisie; Mélanésiens; Mésopotamie; Madianites; Moabites; Mongoloïdes; tribu Moqui; Néandertaliens; Négroïdes; Nérites; Nodites; race orange; Parsis; Patagoniens; Perses; Philistins; Phéniciens; Polynésie; Pygmées; race rouge; Romains; Ruben; Sahariens; Samaritains; Sangiks; Scandinaves; Sémites; Sépharvites; Séthites; Sibérie; Suites; Sumériens; Suntites; Thrace; tribu Toda; Touraniens; Vanites; race blanche; race jaune; Zoulous
+tribus et groupes raciaux nommés | aborigènes (australiens); aborigènes (Indiens); Adamites; Adamsonites; Amadonites; Ammonites; Amorites; Andites; Andonites; Anglo-saxonnes; Arabes; Aryens; Assyrie; Babyloniens; Tribus Badonan; Tribus Baganda; Basques; Bédouins; Berbères; Indiens Pieds-Noirs; race bleue; Bornéens; Bretons; race brune; Boschimans; Calébites; Cananéens; Caucasiens; Chaldéens; Cro-Magnons; Cuthites; Cutites; Danubiens; Dravidiens; Dyaks; Édenites; Édomites; Élamites; Esquimaux; Ezraéon; Finlandais; peuplades de Foxhall; Gad; Gibéonites; Giléadites; Grecs; race verte; Guites; Hamathites; race de Heidelberg; Hittites; Incas; Inde:groupes raciaux; race indigo; Iroquois; Jébusites; Juifs Kateri; Kéniens; Lévites; Malaisie; Mélanésiens; Mésopotamie; Madianites; Moabites; Mongoloïdes; tribu Moqui; Néandertaliens; Négroïdes; Nérites; Nodites; race orange; Parsis; Patagoniens; Perses; Philistins; Phéniciens; Polynésie; Pygmées; race rouge; Romains; Ruben; Sahariens; Samaritains; Sangiks; Scandinaves; Sémites; Sépharvites; Séthites; Sibérie; Suites; Sumériens; Suntites; Thrace; tribu Toda; Touraniens; Vanites; race blanche; race jaune; Zoulous
 
 tribut en argent | | | |
 rendre à César (174:2.2)
 
-bagatelles | | futilités | |
+bagatelles | | trivialités | |
 
 trilobites | (59:1) | | |
 mangeurs de boue; animaux sexués; certains avaient des yeux avortés (59:1.19)
@@ -1341,13 +1341,13 @@ Trinité suprême de l'hindouisme (94:4.4-5)
 Trinités | (0:12) | Trinité du Paradis; Trinité des Trinités | ORDER |
 réalité de la divinité, jamais réalité de la personnalité (106:5.3-4)
 Trinités expérientielles
-	1er | Trinity Ultimate
+	1er | Ultime Trinité
 	2e | Trinité Absolue
 	culminer dans la personnalisation de la Déité Absolue (56:9.5)
 	accepter les contributions des personnalités des créatures (106:3.3)
 faits de la manifestation coordonnée de la Déité (0:12.4)
 
-trinitisation | (22:7) | fils trinitisés par la créature; Fils de Dieu trinitisés | |
+trinitisation | (22:7) | fils trinitisés par la créature; Fils de Dieu Trinitisés | |
 accomplit ce qui autrement serait irréalisable (0:12.8)
 par des créatures
 	Les couples adamiques-finalitaires ont très bien réussi à trinitiser (31:5.3)
@@ -1392,12 +1392,12 @@ ordre le plus élevé des Fils Stationnaires de la Trinité (13:1.2)
 dans les registres de personnalité (30:1.8) (30:2.23)
 Personnalités suprêmes de la Trinité, au nombre de 70 (18:1.1)
 
-Fils d'Aboutissement Trinitisés | | Fils de Dieu trinitisés | ORDER |
+Fils d'Aboutissement Trinitisés | | Fils de Dieu Trinitisés | ORDER |
 affecté au service du superunivers (15:10.12) (22:1.10)
 composé de (15:10.12) (22:1.10) (22:2-4)
 	Puissants messagers
 	Ceux qui ont une haute autorité
-	Ceux sans nom et sans numéro
+	Dépourvus de Nom et de Nombre
 fonctionnent comme coordonnées des Fils Stationnaires de la Trinité (22:4.5)
 dans la classification du Paradis (30:1.25)
 responsable de tous les problèmes découlant de l'origine de l'individu, de la race ou du monde (28:6.2)
@@ -1439,7 +1439,7 @@ types
 	*# Fils trinitisés du Paradis-Havona (22:7.9-13) (23:4.3) (30:2.63)
 	*# fils trinitisés par l'ascendant (22:0.1-5) (22:7.12) (22:8)
 
-Fils de Perfection Trinitisés | (22:1.12) | trinitisation; Fils de Dieu trinitisés | ORDER |
+Fils de Perfection Trinitisés | (22:1.12) | trinitisation; Fils de Dieu Trinitisés | ORDER |
 affectueux, loyal, humble et extrêmement sage quant au concept que chacun personnifie (22:10.6-7)
 capacité d'expérience inhibée (22:9.7)
 composé de (22:9-10)
@@ -1455,7 +1455,7 @@ la retrinitisation peut agir uniquement sur l'idée trinitisée (22:9.5)
 former sous la direction de Sept Cadres Suprêmes et Fils Enseignants de la Trinité (22:9.7)
 Fils trinitisés par la créature embrassée par la Trinité; servent les Anciens des Jours (22:1.12) (22:8.4)
 
-Fils de Sélection Trinitisés | | trinitisation; Fils de Dieu trinitisés | ORDER |
+Fils de Sélection Trinitisés | | trinitisation; Fils de Dieu Trinitisés | ORDER |
 assigné aux tribunaux des Anciens des Jours (22:1.11)
 composé de (22:5-6)
 	Ambassadeurs trinitisés
@@ -1478,9 +1478,9 @@ implique toutes les relations de triunité, aussi bien déifiées que non déifi
 Ambassadeurs de la Trinité; ambassadeur de la Trinité; représentant de la Trinité; observateurs de la Trinité | (33:5) | | ORDER |
 composé de (18:6-7)
 	Fidèles des jours
-	Unions des jours
+	Unions des Jours
 
-Fils trinitaires | | Fils de Dieu trinitisés | ORDER |
+Fils trinitaires | | Fils de Dieu Trinitisés | ORDER |
 
 guides de la Trinité | | | ORDER |
 aider les pèlerins à trouver l'Esprit Infini; chaque pèlerin bénéficie de toute l'attention d'un des guides de la Trinité (26:7.2)
@@ -1495,7 +1495,7 @@ Le Maître Spirituel Numéro Sept aide les ascendeurs à saisir (16:3.18) (26:6.
 Trinité du Paradis travaillant dans un domaine fini (0:8.10) (10:5.4) (106:8.9) (115:5.2)
 L'Être suprême reflète l'attitude de (10:7.3-4)
 
-Trinité des Trinités | (106:8-9) (117:7.11) | Trinité du Paradis; Trinités; Trinité infinie | PERSON |
+Trinité des Trinités | (106:8-9) (117:7.11) | Trinité du Paradis; Trinités; Trinité Infinie | PERSON |
 complète le cycle de la réalité; intégration illimitée de la réalité (106:8.12)
 concevoir l'Absolu Universel comme constituant la présence impersonnelle de (56:9.5)
 l'infini expérientiel atteint l'identité avec l'infini existentiel dans (106:8.1)
@@ -1543,7 +1543,7 @@ Les Fils Magistères accompagnent les Fils Enseignants de la Trinité pour mettr
 Michael était secrétaire privé d'un des Fils Enseignants de la Trinité sur octroi séraphique (119:4.4)
 pas de pouvoir d'attraction spirituelle personnelle (20:7.5)
 pas de formation préalable (20:7,5)
-Fils de Dieu du Paradis; ordre des Daynals (20:1) (20:7.1)
+Fils Paradisiaques de Dieu; ordre des Daynals (20:1) (20:7.1)
 résidence dans les cercles de Jérusalem (46:5.13)
 service
 	administrer les examens pour toutes les phases du service (20:8.3)
@@ -1605,11 +1605,11 @@ triomphe | | victoire | |
 êtres d'origine trinitaire | | | ORDER |
 êtres créés par les 3 divinités du Paradis (30:1.2)
 dans la classification du Paradis (30:1.1-23)
-Le Maître Esprit Numéro Sept est le conseiller de (16:3.14)
+Le Maitre Esprit Numéro Sept est le conseiller de (16:3.14)
 types
 	* A. Esprits suprêmes
-	*# Esprits Maîtres, Sept
-	*# Les sept dirigeants suprêmes
+	*# Maîtres Esprits, Sept
+	*# Sept Maitres Esprits
 	*# Esprits Réfléchissants
 	* B. Fils stationnaires de la Trinité
 	*# Secrets trinitisés de la suprématie
@@ -1659,7 +1659,7 @@ triunités | (104:3-4) | | ORDER |
 	unité infinie (104:4.39-43)
 	les membres sont l'Esprit Infini, l'Absolu Universel et le Père Universel (104:4.39)
 15 existent en tout; 8 ne sont pas révélés (104:4.45)
-cf : actes non trinitaires du Père, du Fils et de l'Esprit dans le Maître Esprit Numéro Sept (16:1.2)
+cf : actes non trinitaires du Père, du Fils et de l'Esprit dans le Maitre Esprit Numéro Sept (16:1.2)
 défini comme
 	associations fonctionnelles des 7 Absolus de l'Infini (105:4.6-9)
 	balancier fonctionnel de l'infini, unification des 7 Absolus (104:4.46) (115:2.1)

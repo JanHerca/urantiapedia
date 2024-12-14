@@ -59,7 +59,7 @@ la fierté des parents dans la réussite de leurs enfants (84:7.10,15)
 les primitifs considéraient les noms comme des entités séparées; ils pouvaient être mis en gage (88:5.5)
 les révélateurs ont eu du mal à traduire de manière significative (18:4.3)
 
-Nanak, Gourou | | Gourou Nanak | PERSON |
+Nanak, Gourou | | gourou Nanak | PERSON |
 
 Naomie | | | PERSON |
 mariée aux noces de Cana (137:3.6)
@@ -249,7 +249,7 @@ personnalités célestes de Nébadon
 	1 Fils Créateur | Michel de Nébadon
 	1 créature à contrôle directionnel | créatures à contrôle directionnel
 	1 Père Melchizédek | Père Melchizédek
-	1 Esprit-Mère de l'univers local | Esprit-Mère de l'univers local de Nébadon
+	1 Esprit-Mère de l'univers local | Esprit-Mère de l'Univers de Nébadon
 	1 Superviseur du Circuit de l'Univers, Tertiaire (24:1.11) (37:8.3)
 	3 millions de surveillants célestes (37:6.1)
 	70 milliards de Compagnons Morontiels (37:8.9)
@@ -261,12 +261,12 @@ personnalités célestes de Nébadon
 	10 000 sentinelles assignées (37:8.5)
 	13 641 étoiles brillantes du soir (37:2.4)
 	800 000 archanges (37:3.1)
-	161 432 840 Fils matériels dans les capitales des systèmes locaux (45:5.4)
+	161 432 840 Fils Matériels dans les capitales des systèmes locaux (45:5.4)
 	chérubins et sanobins
 	Fils Lanonandeks
 	Porteurs de vie
 	Enseignants du monde des manoirs
-	Fils matériels de Dieu
+	Fils Matériels de Dieu
 	Fils Melchizédek
 	les médians
 	Des assistants très hauts, des millions (37:4.1)
@@ -313,7 +313,7 @@ aspects physiques (41)
 	physiquement assemblé à partir d'Andronover et d'autres nébuleuses (41:0,3) (57:1,1) (57:3,8-9)
 	Salvington est au centre de masse énergétique de (32:2.4)
 	les sphères partagent un point commun minimal de mouvement spatial (41:0,3)
-	heure | heure:jours et années
+	heure | temps:jours et années
 	travaux commencés sur Nébadon il y a 400 milliards d'années (57:3.8-9)
 Salvington est la capitale de (15:7.7)
 quelques puissants messagers et ceux qui ont une haute autorité récemment (22:2.4) (22:3.2)
@@ -321,13 +321,13 @@ l'identité de l'âme de Jésus peut être libérée pour la direction des final
 a subi 3 rébellions de la part des souverains du système
 	1er par Lutentia (119:2.1-2)
 	2ème dans le système 87 de la constellation 61 (119:3.1,3)
-	3ème | La rébellion de Lucifer
+	3ème | rébellion de Lucifer
 	a perdu plus de Lanonandeks à cause de la rébellion que n'importe quel univers local d'Orvonton, à l'exception de Henselon (35:9.8)
 Conseil suprême de Salvington (188:3.12)
 Les souverains du système se voient confier des prérogatives personnelles inhabituelles (45:2.1)
 ce qui est imprégné par notre Esprit Mère est Nébadon (41:0.1) (45:1.8) (116:5.13)
 
-Corps de perfectionnement de Nébadon | | Corps de perfection de Nébadon | ORDER |
+Corps de perfectionnement de Nébadon | | Corps de la Perfection de Nébadon | ORDER |
 
 Corps de la Perfection de Nébadon | | | ORDER |
 atteint par les ascendeurs fusionnés avec l'Esprit (37:5.4)
@@ -445,7 +445,7 @@ auteurs
 a changé l'histoire pendant 2000 ans (121:8.11)
 évangiles, livres et épîtres nommés
 	Livre des Actes | Actes, Livre des
-	Livre des Révélations | Révélations, Livre des
+	Livre des Révélations | Apocalypse, Livre de
 	Épître de Jacques | Jacques (frère de Jésus):Épître de
 	Épître aux Hébreux | Hébreux, Livre des
 	Première épître de Jean | Jean Zébédée:Première épître
@@ -557,9 +557,9 @@ dispersion et déclin (77:4.1)
 Les Nodites élamites étaient des défenseurs de la culture et du commerce; les Nodites syriens étaient des mémorialistes nationalistes (77:4.3-4)
 bien supérieur aux Andonites et aux Sangiks (77:2.4)
 Les habitants du jardin ont détruit la colonie nodite voisine après avoir appris la défaillance d'Ève; les Nodites ont riposté; guerre acharnée (75:5.3,9)
-a apporté une précieuse coopération aux Édénites (75:2.5) (75:3.5) (77:4.1)
+a apporté une précieuse coopération aux Édenites (75:2.5) (75:3.5) (77:4.1)
 en Mésopotamie (78:1.4)
-personnes nommées | Annan; Bon; Cano; Dan (le bâton du Prince); Laotta; Lut; Nod (le bâton corporel du Prince); Ratta; Sérapatatie; Tut
+personnes nommées | Annan; Bon; Cano; Dan (le bâton du Prince); Laotta; Lut; Nod (bâton corporel du prince); Ratta; Sérapatatia; Tut
 plus tard, certains rejoignirent Van (73:1.6)
 à longue tête (81:4.2-3)
 Jardin d'Eden occupé après défaut (73:7.1)
@@ -615,7 +615,7 @@ de la réaction égoïste à l'univers (180:5.9)
 ne résistez pas aux atteintes à la dignité personnelle (141:3.8)
 la race violette a conservé les traditions édéniques de paix pendant de nombreux millénaires (78:3.1) (78:4.5)
 
-non-survivants | | mort:mort spirituelle; extinction; jugement; résurrection; appel:de la justice; salut; survie | |
+non-survivants | | mort:mort spirituelle; extinction; jugement; résurrection; appel nominal:de la justice; salut; survie | |
 Les Ajusteurs préservent les réalités nées de l'amour et du service (16:9.3) (47:3.4) (196:3.35)
 se déplacent à contre-courant du courant des événements de l'univers (117:4.11)
 devenir comme s'ils n'avaient jamais existé (47:2.7)
@@ -637,7 +637,7 @@ Une femme syrienne avec sa fille malade (156:1)
 Nordan le Kénite | | | PERSON |
 Le brillant disciple de Melchizédek (93:3.4)
 
-Course nordique | | course blanche:divisions | RACE |
+Course nordique | | race blanche:divisions | RACE |
 
 Norlatiadek | (43) | constellations; Édentia; Très Hauts de Norlatiadek | PLACE |
 10 centres de constellations stationnés dans (41:1.4)
