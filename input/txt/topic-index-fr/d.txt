@@ -39,7 +39,7 @@ L'ordre défini de la vie familiale et la vie d'une famille ensemble dans une r�
 la vie en Dalmatie était loin d'être utopique (68:1.7)
 Bien que les races étaient en guerre, elles vivaient ensemble en harmonie près du siège du Prince (64:6.28)
 la rébellion
-	Au début de la rébellion, la Dalmatie comptait une population résidente de près de 6 000 habitants. (66 : 7.20)
+	Au début de la rébellion, la Dalmatie comptait une population résidente de près de 6 000 habitants. (66:7.20)
 	elle fut attaquée par des hordes de semi-sauvages après la rébellion, qui assiégèrent ses murs et chassèrent ses habitants (67:5.2)
 	Une grande confusion régna en Dalamatie et dans ses environs pendant près de cinquante ans après le déclenchement de la rébellion. (67:5.1)
 	La bibliothèque de Dalamatia, détruite peu après la désaffection de Caligastia, comprenait plus de deux millions de documents distincts et était connue sous le nom de « maison de Fad » (66:5.9).
@@ -51,8 +51,8 @@ enseignements
 	Cent soixante-deux ans après la rébellion, un raz-de-marée s'abattit sur la Dalamatie, et le siège planétaire fut englouti sous les eaux de la mer, et cette terre ne réapparut que lorsque presque tous les vestiges de la noble culture de ces âges splendides eurent été effacés. Néanmoins, il existe des vestiges sous le golfe Persique (67:5.2,4) (77:4.7) (78:7.7)
 
 Daligastia | | Caligastia; Fils Lanonandeks | PERSON | OK
-Daligastia est un fils secondaire de Lanonandek, numéro 319 407 de cet ordre (66 :2.2).
-Dalamatia, la ville du Prince Planétaire sur Urantia, fut nommée ainsi en l'honneur de Daligastia (66 :3.3)
+Daligastia est un fils secondaire de Lanonandek, numéro 319 407 de cet ordre (66:2.2).
+Dalamatia, la ville du Prince Planétaire sur Urantia, fut nommée ainsi en l'honneur de Daligastia (66:3.3)
 il présida les dix conseils de la centaine de Caligastia, la suite des conseillers de Caligastia (66:5.1)
 avant que Caligastia ne se déclare souverain absolu d'Urantia, il exigea que le personnel corporel du Prince démissionne en attendant la redistribution de l'autorité (67:2.1)
 il a proclamé Caligastia comme « Dieu d'Urantia » (53:8.5) (67:2.4)
@@ -214,7 +214,7 @@ travailler comme disciple de Jésus
 	il supervisait le campement de Bethsaïde (148:0.1)
 	il traita durement Kirmet, un prophète qui avait provoqué des troubles dans le camp des disciples de Jésus. Il le plongea plusieurs fois dans le lac, l'exhortant à s'en aller et à créer son propre groupe de disciples (148:8.3)
 	établir un grand camp à Pella (163:5.2-3)
-	fermé le camp de Pella et vendu du matériel (171:1,4) (172:2,3)
+	fermé le camp de Pella et vendu du matériel (171:1.4) (172:2.3)
 	a donné à Judas des fonds provenant de la vente d'équipement (172:2.3)
 gardé Jésus
 	Jésus a décliné l'offre de gardes du corps (177:0.3)
@@ -235,7 +235,7 @@ après la mort de Jésus
 mammifères de l'aube; mammifère-de-l'aube | (62:2) | | RACE | OK
 Il y a un peu plus d'un million d'années, les mammifères de l'aube mésopotamiens, les descendants directs du type de mammifère placentaire lémurien nord-américain, sont soudainement apparus. (61:6.1) (62:2.1)
 ils ont développé une peur extraordinaire qui les a conduits à prendre ces sages mesures de précaution qui ont énormément contribué à leur survie (62:2.4)
-ils ont donné naissance aux mammifères intermédiaires après 70 générations (61:6.1)(62:3.1)
+ils ont donné naissance aux mammifères intermédiaires après 70 générations (61:6.1) (62:3.1)
 Lorsque le nombre de ce nouveau groupe supérieur devint important, la guerre, une guerre implacable, éclata; et lorsque la terrible lutte fut terminée, pas un seul individu de la race préexistante et ancestrale des mammifères de l'aube ne resta en vie. (62:3.4)
 La mère immédiate, semblable à un lémurien, de l'espèce de mammifère de l'aube a échappé à la mort pas moins de cinq fois par une marge d'un cheveu avant de donner naissance au père du nouvel ordre de mammifères supérieur. (62:3.9)
 Ces petits animaux marchaient principalement sur leurs pattes arrières et possédaient un gros cerveau proportionnellement à leur taille et en comparaison avec le cerveau des autres animaux. (61:6.1)
@@ -335,7 +335,7 @@ Jésus a donné deux paraboles sur la dette :
 
 Décapole | | Scythopolis | PLACE | OK
 Amos, le lunatique de Kheresa, ne s'arrêta pas avant d'avoir parcouru toutes les villes de la Décapole, prêchant au sujet de Jésus (151:6.8).
-Jésus, ses douze apôtres et les douze apôtres de Jean prêchèrent à diverses occasions dans les villes gréco-romaines de la Décapole, notamment Scythopolis, Gérasa, Abila, Gadara, Pella, Philadelphie et Heshbon (128 : 3.2) (144 : 7.1) (123:5.12) (124:3.6-9)
+Jésus, ses douze apôtres et les douze apôtres de Jean prêchèrent à diverses occasions dans les villes gréco-romaines de la Décapole, notamment Scythopolis, Gérasa, Abila, Gadara, Pella, Philadelphie et Heshbon (128:3.2) (144:7.1) (123:5.12) (124:3.6-9)
 
 Deccan | | Inde | PLACE | OK
 Vers 15 000 av. J.-C., la pression démographique croissante à travers le Turkestan et l'Iran a provoqué le premier mouvement andite vraiment important vers l'Inde, se déplaçant lentement vers le sud dans le Deccan (79:2.4-5).
@@ -888,7 +888,7 @@ Les Directeurs d'affectation constituent le conseil angélique le plus élevé d
 directeurs de conduite; Directeurs de conduite | (27:4) | | ORDER | OK
 les directeurs de conduite au Paradis sont toujours aux côtés des « étrangers dans les portes » pour les instruire et guider leurs pas de manière à les mettre parfaitement à l'aise et en même temps à permettre aux pèlerins d'éviter la confusion et l'incertitude qui seraient autrement inévitables (27:4.3)
 les directeurs de conduite supraphiques instruisent les nouveaux membres de la société du Paradis dans les usages de la conduite parfaite des êtres supérieurs qui séjournent sur l'Ile centrale de Lumière et de Vie (27:4.1)
-ils constituent le quatrième groupe à l'intérieur des supernaphins primaires (27:0,7)
+ils constituent le quatrième groupe à l'intérieur des supernaphins primaires (27:0.7)
 La satisfaction des anges de service reflète parfaitement l'attitude des directeurs de conduite au Paradis (28:5.17)
 
 déception; déceptions; Déception | | défaite; dépression; découragement; tristesse | | OK
@@ -1247,7 +1247,7 @@ Le divorce facile, lorsqu'il résulte d'un manque de maîtrise de soi ou d'un é
 Lorsque les couples modernes se marient avec l'idée d'un divorce opportun s'ils ne sont pas entièrement satisfaits de leur vie conjugale, ils s'engagent en réalité dans une forme de mariage à l'essai, bien en deçà du statut des aventures honnêtes de leurs ancêtres moins civilisés. (82:3.15)
 la plus grande liberté personnelle et la liberté économique accrue des femmes compliquent encore davantage la situation actuelle avec le divorce (83:7.7) (83:8.9)
 le fait même de la dissolution du mariage indique que la Déité n'est pas partie prenante à de telles unions. (83:8.4)
-dans la nation continentale la plus développée d'une planète voisine, le mariage n'est légal qu'après l'âge de 20 ans et après avoir suivi une formation dans des écoles parentales (72 : 3.8–9)
+dans la nation continentale la plus développée d'une planète voisine, le mariage n'est légal qu'après l'âge de 20 ans et après avoir suivi une formation dans des écoles parentales (72:3.8–9)
 L'éducation prénuptiale réduirait le nombre de cas de divorce (83:7.7-8)
 Jésus et les lois anciennes
 	L'instauration de l'achat d'une épouse et de la dot de l'épouse, en introduisant une pénalité de propriété en cas d'échec du mariage, a beaucoup contribué à réduire les séparations. (83:7.3)
@@ -1311,7 +1311,7 @@ dollars (États-Unis) | | | | OK
 Quelques exemples proposés dans Le Livre d'Urantia sont en dollars : (58:2.1)
 * Si l'éclairage public de l'Amérique du Nord était payé au taux de deux cents par kilowattheure, la facture annuelle d'électricité s'élèverait à plus de 800 quadrillions de dollars.
 * La facture d'ensoleillement de Chicago s'élèverait à plus de 100 millions de dollars par jour.
-* la lumière du soleil serait économique à 1 million de dollars la livre (41:5,2)
+* la lumière du soleil serait économique à 1 million de dollars la livre (41:5.2)
 
 calcaire dolomitique | | calcaire | | OK
 
@@ -1391,14 +1391,14 @@ libellules | | | | OK
 Les premières libellules mesuraient trente pouces de diamètre. (59:5.7)
 
 drame | | | | OK
-Jésus n'a jamais prémédité quoi que ce soit de dramatique (138:6.5)(172:3.11)
+Jésus n'a jamais prémédité quoi que ce soit de dramatique (138:6.5) (172:3.11)
 La religion a imprégné une grande partie de la culture non religieuse en tant que théâtre dans le but de guider l'esprit. (92:3.6)
 
 pêche au filet | (145:1) | | | OK
 
 Dravidiens; Dravidien | (79:3) | | RACE | OK
 les Dravidiens sont des habitants du sud de l'Inde qui ont envahi la péninsule et absorbé les conquérants aryens venus du nord (79:4.2)
-Le mélange des conquérants andites de l'Inde avec la souche indigène a finalement donné naissance à ce peuple mixte que l'on a appelé Dravidien. Ces Andites étaient les conquérants dravidiens et plus tard aryens de l'Inde (78:5.6)(79:3.1).
+Le mélange des conquérants andites de l'Inde avec la souche indigène a finalement donné naissance à ce peuple mixte que l'on a appelé Dravidien. Ces Andites étaient les conquérants dravidiens et plus tard aryens de l'Inde (78:5.6) (79:3.1).
 Les Dravidiens furent parmi les premiers peuples à bâtir des villes et à se lancer dans un vaste commerce d'exportation et d'importation, tant par voie terrestre que maritime. (79:3.7)
 Les centres culturels dravidiens étaient situés dans les vallées fluviales, principalement celles de l'Indus et du Gange, et dans le Deccan, le long des trois grands fleuves qui traversent les Ghâts orientaux jusqu'à la mer. (79:3.6)
 ils ont fondé une civilisation supérieure il y a 12 000 ans (79:3.1,8)
@@ -1426,7 +1426,7 @@ rêves particuliers
 	* Celui qui a réconcilié Joseph au sujet de la naissance de Jésus (122:4.1)
 	* Le jeune Jésus troublé par la révolte des massacres dans le temple de Jérusalem (125:2.4)
 	* Pierre voit Jésus marchant sur la mer de Galilée (152:4)
-	* Claudia Procula, épouse de Pilate, à propos de Jésus (185 : 5.8)
+	* Claudia Procula, épouse de Pilate, à propos de Jésus (185:5.8)
 	* Celui qui a délivré Pierre de la peur des traditions juives concernant l'impureté (153:3.6)
 Les rêves des primitifs
 	L'homme primitif croyait que les rêves étaient aussi réels que l'expérience de la veille (86:5.10)

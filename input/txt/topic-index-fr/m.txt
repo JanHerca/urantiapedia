@@ -405,7 +405,7 @@ est apparu après que les océans ont atteint la salinité requise (58:6.5)
 Le mélange de l'Atlantique et du Pacifique a marqué le début d'un déclin rapide (59:5.3)
 le refroidissement des océans il y a 170 millions d'années a détruit la plupart (59:6.9)
 l'ère ancienne était l'âge des trilobites (59:1)
-Le Paléozoïque était l'ère de (59:0,4)
+Le Paléozoïque était l'ère de (59:0.4)
 types nommés | ammonites; amphibiens; anthropodes; balanes; brachiopodes; palourdes; corail; crabes; crinoïdes; crustacés; seiche; dauphins; échinodermes; poisson; foraminifères; gastéropodes; méduse; homards; mollusques; poulpes; huîtres; nautile nacré; pervenches; marsouins; protozoaires; coquilles Saint-Jacques; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; phoques; requins; crevettes; éponges; calmar; étoile de mer; esturgeon; trilobites; tortues; couleuvre d'eau; baleines
 
 test de culpabilité conjugale | | | |
@@ -474,7 +474,7 @@ institution du mariage
 	maintenant temporairement instable (83:7.4-5)
 	institution de la société, et non département de l'Église (83:1.4)
 	régule les relations sexuelles et l'héritage (83:1.3)
-	répercussion sur l'instinct d'accouplement (82:0,1) (82:1,1) (82:3,1) (83:1)
+	répercussion sur l'instinct d'accouplement (82:0.1) (82:1.1) (82:3.1) (83:1)
 Les mariages juifs étaient célébrés le mercredi; les festivités duraient une semaine (137:4.1) (137:5.1)
 lois concernant le mariage dans les nations continentales (72:3.8-9)
 monogamie (83:6)
@@ -545,7 +545,7 @@ n'a exprimé aucun doute (168:0.6)
 Jésus aimait Marthe d'une affection fervente (127:6.3) (167:4.2)
 Marthe aimait Jésus comme un frère (125:2.7)
 un an de plus que Jésus (127:6.5)
-riche; a hérité de vastes vignobles et d'oliviers (168:0,4) (172:1,7)
+riche; a hérité de vastes vignobles et d'oliviers (168:0.4) (172:1.7)
 
 Marthe (épouse de Justus) | | | PERSON |
 visite de 2 courtisanes (133:3.8-10)
@@ -575,7 +575,7 @@ révéler l'évangile même au prix de la mort (181:2.15)
 
 Marie Madeleine | | | PERSON |
 aux apparitions de Jésus (189:4.10-12) (189:5.4) (190:2.6) (190:3.2) (193:0)
-porte-parole en chef du corps des femmes; enseignant le plus efficace (150:1,1) (150:2,3) (190:0,5)
+porte-parole en chef du corps des femmes; enseignant le plus efficace (150:1.1) (150:2.3) (190:0.5)
 découvert un tombeau vide (188:1.7) (189:4.2-14) (190:2.2)
 ils ont pleuré lorsque les apôtres ont refusé de croire que Jésus était ressuscité (189:5.3-5)
 a été témoin de la crucifixion de Jésus (187:3.2) (187:5.4)
@@ -600,7 +600,7 @@ attitudes
 	s'acquitter fidèlement de ses responsabilités parentales (123:0.2) (124:3.2) (124:4.4)
 	adhérant à la vision hellénique du judaïsme (122:5.11)
 	déception croissante, humiliation, désespoir (138:0.1)
-	surprotecteur après que Jésus soit tombé dans une tempête de sable (123:4.6)(123:6.2)
+	surprotecteur après que Jésus soit tombé dans une tempête de sable (123:4.6) (123:6.2)
 	choqué par les opinions de Jésus sur la Pâque (127:6.7)
 	déchiré entre l'amour et la peur; harcelé par les doutes (126:1.5) (126:3.13) (128:3.9) (128:7.7) (154:6)
 	voulait que Jésus rejoigne les Zélotes (127:3.3)
@@ -622,7 +622,7 @@ caractéristiques personnelles
 	personne moyenne de l'époque et de la génération (119:7.7)
 	yeux bruns presque blonds (122:5.5)
 	décédé l'année suivant la crucifixion (187:2.7)
-	instruit bien au-dessus de la moyenne (122:5,5)
+	instruit bien au-dessus de la moyenne (122:5.5)
 	disposition toujours ensoleillée (122:5.2)
 	tisserand expert, femme au foyer (122:5.7)
 	lignée remarquable mais généalogies non authentiques (122:1.2,3) (122:4.4)
@@ -650,7 +650,7 @@ Jésus et les apôtres sont restés avec (141:9.2)
 Jésus aimait Marie d'une affection fervente (127:6.3) (167:4.2)
 Marie aimait Jésus comme un frère (125:2.7)
 a versé du parfum sur la tête et les pieds de Jésus; Judas était irrité par ce gaspillage (139:12.10) (172:1.5-8)
-riche; a hérité de vastes vignobles et d'oliviers (168:0,4) (172:1,7)
+riche; a hérité de vastes vignobles et d'oliviers (168:0.4) (172:1.7)
 
 Marie (épouse de Clopas) | | | PERSON |
 sœur de Marie, la mère de Jésus (187:3.2)
@@ -692,7 +692,7 @@ superviser l'énergie du superunivers avant les jours des Directeurs de Pouvoir 
 	#* inauguration du tourbillon énergétique d'Andronover puis retrait à droite des anges (57:1)
 	#* modifient l'absoluta en segregata par leur présence passive (42:2.5-10)
 	#* créateurs de nébuleuses (12:4.6) (15:4.4) (29:5.5) (41:1.1) (57:1)
-	#* transmuer la segregata en énergie puissante (29 : 5.5)
+	#* transmuer la segregata en énergie puissante (29:5.5)
 	# Associé Transcendantal (29:0.3)
 	#* comprend le Conseil de l'Équilibre (29:4.2)
 	#* quitter l'univers local lorsque le Fils Créateur arrive (29:5.6)
@@ -700,7 +700,7 @@ superviser l'énergie du superunivers avant les jours des Directeurs de Pouvoir 
 	#* métamorphoser la force cosmique dans l'espace (12:2.4)
 	#* se retirent dès l'apparition d'une réponse gravitationnelle linéaire en faveur des Directeurs de Pouvoir Universel (42:2.12)
 	#* prend le relais des Organisateurs de Force Maîtres Primaire Eventués lorsque l'énergie commence à répondre à la gravité du Paradis (42:2.11)
-	#* transmuter l'énergie puissante en ultimatons et revenir en énergie puissante (42 : 6.3)
+	#* transmuter l'énergie puissante en ultimatons et revenir en énergie puissante (42:6.3)
 	#* transmuter l'énergie puissante en énergie de gravité (29:5.5) (42:2.12)
 résister à des températures et des conditions incroyables (29:5.7)
 
@@ -761,7 +761,7 @@ dans les registres de personnalité (30:1.90) (30:2.100)
 L'Esprit Infini exerce son ministère auprès de l'esprit primitif à travers (9:5.3)
 Le Maitre Esprit Numéro Cinq est le conseiller de (16:3.10)
 rendez-vous au quartier général du secteur mineur (15:13.5) (18:5.3) (29:4.15)
-subordonnés mobiles des centres de pouvoir suprême (29:2.19)(29:4.1)
+subordonnés mobiles des centres de pouvoir suprême (29:2.19) (29:4.1)
 nature
 	absent des occasions de réjouissance (29:3.5) (47:10.1)
 	dotations antigravitationnelles (9:3.6) (29:3.6) (42:4.4)
@@ -894,8 +894,8 @@ créé
 	Servites de Havona avec les Directeurs de Pouvoir Suprêmes (25:1.2)
 	êtres quasi-matériels et spirituels (116:4.5)
 	Esprits Réfléchissants (17:2.1) (17:3.1) (116:4.3-4)
-	supernaphin secondaire (17:8,2) (26:1,12)
-	Directeurs du pouvoir suprême (29:0.10) (29:1.1) (29:3.1)(116:5.10)
+	supernaphin secondaire (17:8.2) (26:1.12)
+	Directeurs du pouvoir suprême (29:0.10) (29:1.1) (29:3.1) (116:5.10)
 	Conciliateurs Universels (25:2.2)
 	Directeurs de Pouvoir d'Univers (16:4.2-3) (29:0.10) (29:4.23)
 déterminer la nature des superunivers respectifs (18:3.3)
@@ -919,10 +919,10 @@ les superunivers ne connaissent les affaires mutuelles que par (15:10.23)
 tradition des Maîtres Esprits à Ur (95:6.2,7)
 
 univers maître | (12) | grand univers; niveaux spatiaux; univers | PLACE |
-6 ellipses concentriques comprennent (12:1,3)
+6 ellipses concentriques comprennent (12:1.3)
 cercles autour du Paradis (3:2.4)
 circulaire et délimité (12:0.2-3) (12:1.1,16) (105:3.7)
-comprend le grand univers plus les univers de l'espace extra-atmosphérique (0:0,6)
+comprend le grand univers plus les univers de l'espace extra-atmosphérique (0:0.6)
 contient autant de soleils que les océans d'Urantia contiennent de verres d'eau (15:6.10)
 achèvement final
 	actualise la Trinité Absolue (106:5.1)
@@ -945,7 +945,7 @@ sur Urantia, chaque homme doit servir deux (109:5.4)
 
 maîtres de la philosophie | (27:6) | | ORDER |
 disponible uniquement sur Paradise (27:6.6)
-supernaphin primaire (27:0,5)
+supernaphin primaire (27:0.5)
 âmes sécoraphiques de la philosophie en synchronie focale avec (28:5.11)
 
 mastodontes | (61:3.4) (61:4.4) (61:5.7) | | |
@@ -1008,10 +1008,10 @@ sur les systèmes locaux
 	Le Fils du matériel original sert au conseil exécutif de Jérusalem (45:3.16)
 	citoyens permanents des capitales du système; influence dominante (37:9.9) (45:5.5) (46:5.14)
 	dépeindre les idéaux du mariage (83:8.5)
-	crèche probatoire encadrée par 1000 couples de (45:6,9)
+	crèche probatoire encadrée par 1000 couples de (45:6.9)
 	gouvernement autonome représentatif parmi (45:5.6)
 	parrainer les survivants après avoir obtenu la citoyenneté de Jérusalem (45:6.2)
-	les survivants sans expérience parentale sont admissibles avec (47:1,4)
+	les survivants sans expérience parentale sont admissibles avec (47:1.4)
 	voyager à 500 miles/heure (46:2.4)
 sur les missions planétaires (51:3) (52:3)
 	100 000 anges accompagnent initialement (51:3.5)
@@ -1125,7 +1125,7 @@ modifications de la matière
 	par les Maîtres Contrôleurs Physiques et les Superviseurs du Pouvoir Morontiel (48:1.3) (48:2.22)
 	conditions qui désintègrent la matière (15:8.5)
 	formule assimilant la matière à l'énergie (42:4.11)
-	l'effet de la gravitation sur la matière est l'inverse du carré de la distance (42:11,5)
+	l'effet de la gravitation sur la matière est l'inverse du carré de la distance (42:11.5)
 	la matière est organisée par la gravité et le froid; perturbée par l'antigravité et la chaleur (15:8.5-10) (42:4.5-9)
 	les directeurs de pouvoir maintiennent l'équilibre entre l'énergie et la matière en créant et en défaisant des unités matérielles plus petites (15:8.4)
 	les associateurs primaires convertissent l'énergie spatiale en matière primitive (29:4.32)
@@ -1140,14 +1140,14 @@ soumis à la gravité absolue du Paradis (21:2.12) (42:4.2) (115:6.1)
 soumis au contrôle cosmique de l'Absolu Non Qualifié (21:2.12)
 les soleils convertissent la matière en énergie (42:4.9)
 les types de matière sont ultimatoniques, subélectroniques, électroniques, subatomiques, atomes brisés, ionisés, atomiques, moléculaires, radioactifs, effondrés (42:3)
-les unités sont stables mais efficacement flexibles (42:9,5)
+les unités sont stables mais efficacement flexibles (42:9.5)
 une grande quantité de matière circule dans l'espace (15:5.9)
 travail que la matière au repos peut accomplir (42:4.11)
 
 matière, esprit et âme | (12:8) | science, philosophie et religion | |
 domaines distincts de la réalité cosmique (65:7.8)
 
-Matthieu Lévi | (139:7)(143:3.5)(144:1.7) | apôtres de Jésus | PERSON |
+Matthieu Lévi | (139:7) (143:3.5) (144:1.7) | apôtres de Jésus | PERSON |
 parmi les 120 à la Pentecôte (194:1.2)
 agent fiscal apostolique, porte-parole publicitaire (138:10.6) (139:7.2) (163:0.2)
 aux apparitions de Jésus (191:2.5) (192:1-4) (193:0,3,5)
@@ -1225,7 +1225,7 @@ nécessitent un démêlage et une corrélation à l'esprit (102:2.5)
 moyens contre fins | | fins contre moyens | |
 
 mesures | | années-lumière; temps:jours et années; poids | |
-les constellations utilisent les mêmes mesures que les univers locaux (43:0,3)
+les constellations utilisent les mêmes mesures que les univers locaux (43:0.3)
 un mile sur Jérusalem équivaut à 7 miles d'Urantia (46:1.2)
 paradoxes de la mesure simultanée (65:6.1)
 
@@ -1268,7 +1268,7 @@ phase d'expression de la Déité éternelle (118:9.6)
 là, mais pas sans réserve (195:6.14)
 l'univers n'est pas simplement un mécanisme (75:8.7)
 
-Médéba | (165:0,1) | | PLACE |
+Médéba | (165:0.1) | | PLACE |
 Mission Pérée
 
 Médie | (134:2.1) | | PLACE |
@@ -1389,7 +1389,7 @@ détails personnels
 	a vécu 94 ans en tant qu'être matériel; soutenu par la nourriture matérielle (93:2.2,5-6)
 	jamais marié, n'aurait pas pu laisser de descendance (93:2.6)
 	parlait le chaldéen et 6 autres langues (93:2.5)
-	portait 3 cercles concentriques (93:2,5)
+	portait 3 cercles concentriques (93:2.5)
 voie préparée pour l'octroi de Michael (96:0.2)
 Prince de Salem (35:4.5) (51:3.9)
 depuis son incarnation
@@ -1450,7 +1450,7 @@ Adam et Ève sélectionnés (74:1.3-4)
 livrés entièrement à leurs propres ressources (93:1.3)
 a averti Adam et Eve des dangers (51:3.4)
 
-Fils Melchizédek | (35:2,4) | Père Melchizédek; Melchizédek, Machiventa; administrateurs provisoires Melchizédeks | ORDER |
+Fils Melchizédek | (35:2.4) | Père Melchizédek; Melchizédek, Machiventa; administrateurs provisoires Melchizédeks | ORDER |
 tous créés dans le même millénaire (35:1.3)
 sont
 	observateurs naturellement impartiaux (35:2.3)
@@ -1504,7 +1504,7 @@ nombre stationnaire; 10 millions dans Nébadon (35:2.9)
 les enseignements n'ont jamais été contredits (55:12.1)
 Assistance des conseillers techniques (25:4.18)
 utiliser le transport séraphique (74:5.2)
-a écrit les articles 38, 39, 43, 45, 49, 53, 56, 66–72, 90, 92–106, 120 (38:9.14) (39:9.4) (43:9.6) (45:7.9) (49:6.22) (53:9.9) (56:10.23) (66:8.8) (67:8.6) (68:6.12) (69:9.19) (70:12.21) (71:8.16) (72:12.6) (90:5.9) (92:7.16) (93:10.12) (94:12.8) (95:7.7) (96:7.9) (97:10.9) (98:7,13) (99:7,6) (100:7,19) (101:10,10) (102:8,8) (103:9,13) (104:5,13) (105:7,19) (106:9,13) (120:0,1)
+a écrit les articles 38, 39, 43, 45, 49, 53, 56, 66–72, 90, 92–106, 120 (38:9.14) (39:9.4) (43:9.6) (45:7.9) (49:6.22) (53:9.9) (56:10.23) (66:8.8) (67:8.6) (68:6.12) (69:9.19) (70:12.21) (71:8.16) (72:12.6) (90:5.9) (92:7.16) (93:10.12) (94:12.8) (95:7.7) (96:7.9) (97:10.9) (98:7.13) (99:7.6) (100:7.19) (101:10.10) (102:8.8) (103:9.13) (104:5.13) (105:7.19) (106:9.13) (120:0.1)
 
 sphère Melchizédek | | | PLACE |
 La première effusion de Michael a eu lieu le (119:1.3)
@@ -1582,7 +1582,7 @@ défini comme
 	la justice tempérée par la sagesse et la perfection de la connaissance (2:3.2) (2:4.1)
 	conduisant à la perfection (140:3.16-17)
 	qualité de la croissance (28:6.8)
-	intervalle de conservation entre le semis et la récolte (54:4,6)
+	intervalle de conservation entre le semis et la récolte (54:4.6)
 	saison de grâce avant la pleine maturité du mal (131:3.5)
 	délivrance spirituelle de la colère, du désir de pouvoir égoïste ou de vengeance (141:3.8)
 Le Fils Éternel est miséricorde (6:3.2,5) (8:4.2)
@@ -1598,7 +1598,7 @@ ne l'impose pas à ceux qui la méprisent; ne jette pas de perles devant les pou
 exige un jugement conforme à la nature de la créature (39:1.8)
 montre de la miséricorde à ceux qui te maltraitent (178:1.17)
 croissance spirituelle favorisée par le refus de présumer de la miséricorde divine (100:1.8)
-délai de miséricorde; sagesse du délai (2:3.5) (54:4,5) (131:3.5)
+délai de miséricorde; sagesse du délai (2:3.5) (54:4.5) (131:3.5)
 lorsque la miséricorde est épuisée, la justice prévaut (21:5.7) (28:6.7)
 
 sirènes | | | |
@@ -1617,7 +1617,7 @@ berceau de la civilisation (78:0.1) (81:1.1)
 Les mammifères de l'aube sont originaires de (62:1.3) (62:2.1)
 détériorée par l'afflux des Arabes (80:7.9)
 la sécheresse a poussé les Babyloniens dans (79:1.5)
-émigration précoce presque exclusivement vers l'Europe (80:1,8) (80:5,1) (81:6,1)
+émigration précoce presque exclusivement vers l'Europe (80:1.8) (80:5.1) (81:6.1)
 Les Édenites entrent (76:1)
 émigration vers l'Egypte depuis (80:1.3)
 les agriculteurs élevaient des animaux vers 5000 av. J.-C. (81:2.12)
@@ -1640,13 +1640,13 @@ Un étrange enseignant de Mésopotamie a rêvé de la naissance de Jésus (122:8
 Todan a apporté l'évangile en (146:1.4)
 
 mésotrons | | atomes; matière | |
-180 fois plus lourd que les électrons (42:8,3)
+180 fois plus lourd que les électrons (42:8.3)
 noyaux atomiques maintenus ensemble par la réciprocité de (42:8.3-7)
 se désintégrer en électrons (42:8.5)
 nombreux dans les rayons de l'espace (42:8.7)
 
 mésozoïque | | âges géologiques | |
-début de la vie terrestre, il y a 150 à 50 millions d'années (59:0,5) (60:4,6)
+début de la vie terrestre, il y a 150 à 50 millions d'années (59:0.5) (60:4.6)
 
 bâton de message | | | |
 écriture ancienne (69:4.7)
@@ -1660,13 +1660,13 @@ Bethléem était le siège de la Judée (159:6.4)
 transportaient des fonds aux apôtres et à leurs familles (157:6.1) (159:6.3)
 a apporté la nouvelle que Jésus serait crucifié (186:3.2-3) (187:6.1)
 réalisé par David Zebedee (149:0.4) (154:2.3) (154:5.1-3) (154:6.7) (183:4.2,8) (190:1.7)
-abandonné après Pella (171:1,5)
-employait 40 à 50 messagers (149:0,4)
+abandonné après Pella (171:1.5)
+employait 40 à 50 messagers (149:0.4)
 suivit Jésus dans la barque (154:7.2)
 a tenu les groupes pleinement informés; grande valeur de (150:6.2) (155:4.1) (159:6.2-4) (167:0.3) (191:0.3)
 a maintenu un centre d'échange à Gethsémané (183:4.2,8-9)
-a maintenu le siège permanent du royaume (149:0,4)
-Nathan de Busiris était héraut à Alexandrie (191 : 6.1)
+a maintenu le siège permanent du royaume (149:0.4)
+Nathan de Busiris était héraut à Alexandrie (191:6.1)
 numéroté plus de 400 (163:1.2)
 fourni du poisson pour le paiement de la taxe du temple (157:1.3)
 a sauvegardé Jésus (154:2.3)
@@ -1706,7 +1706,7 @@ Jésus
 	a dit que le Messie ne s'assiéra pas sur le trône à Jérusalem; il n'est pas fils de David (158:7.3) (174:4.6) (176:2.3)
 Juifs (136:1)
 	croyaient que le Messie le ferait
-	être fils de David (135:5.4,7) (136:1.1,6) (172:3.9)(180:2.3)
+	être fils de David (135:5.4,7) (136:1.1,6) (172:3.9) (180:2.3)
 	délivrer Israël de ses ennemis (135:5.4-7) (136:1.3) (185:5.6)
 	établir les Juifs comme dirigeants du monde (136:9.2)
 	établir la Nouvelle Jérusalem comme capitale mondiale (176:1.6)
@@ -1770,7 +1770,7 @@ Confusion scripturale concernant la durée de vie (77:2.11)
 
 Mexique | (58:7.4) (59:2.4,7) (60:3.2-6) | | PLACE |
 culte de la Mère de Dieu (89:9.2)
-race majoritairement rouge mais aussi jaune, orange et bleu (64:7,5) (79:5,8)
+race majoritairement rouge mais aussi jaune, orange et bleu (64:7.5) (79:5.8)
 
 Michée | | | PERSON |
 a confirmé l'évangile d'Isaïe qui satisfait l'âme; a attaqué sans crainte le système sacrificiel (97:5.4)
@@ -1816,7 +1816,7 @@ Histoire de la création de Nébadon
 	Il y a 200 000 000 000 d'années, la création de Michael est enregistrée sur Uversa comme un univers habité et où les mortels peuvent progressivement s'élever. Les plus anciennes planètes habitées de Nébadon datent de cette époque. (57:3.10)
 	Et tous les plans de Michael pour cet univers local furent pleinement approuvés par la Trinité du Paradis avant qu'il ne se lance dans l'aventure suprême de l'espace. (32:0.3)
 dons | Fils Créateurs:dons de créatures; Fils Paradisiaques de Dieu:dons
-	a commencé il y a 1 milliard d'années; s'est produit à des intervalles de 150 millions d'années (119:0,7) (119:8,2)
+	a commencé il y a 1 milliard d'années; s'est produit à des intervalles de 150 millions d'années (119:0.7) (119:8.2)
 	ne pouvait régner en tant que représentant de la Trinité qu'après les 7 dons, acquérant ainsi la souveraineté suprême (21:3) (120:0.4)
 	possibilité créée pour la souveraineté du Suprême dans Nébadon (119:8.5-7)
 	subordination aux volontés diversement constituées du Père, du Fils et de l'Esprit (119:8.3-4) (120:0.3-4)
@@ -1985,7 +1985,7 @@ nature et attributs
 	citoyens permanents des mondes évolutionnaires (37:9.11) (77:9)
 	semblable aux quatrièmes créatures chérubines (38:7.7)
 	se révèlent parfois aux mortels (77:7.4)
-	la vitesse de pointe est de 372 560 miles par seconde (23:3,2)
+	la vitesse de pointe est de 372 560 miles par seconde (23:3.2)
 	utiliser les énergies contrôlées par les Maîtres Contrôleurs Physiques (29:4.14) (49:2.24-25)
 départ planétaire possible, mais les médians ne partent pas (77:9.4)
 service de types primaires et secondaires
@@ -1995,7 +1995,7 @@ service de types primaires et secondaires
 	élever les corps mortels dans l'atmosphère pour la fusion (55:1.6)
 	ordre essentiel du ministère planétaire (38:9.5) (77:0.1) (77:9.11)
 	service de types primaires et secondaires, suite
-	exécuter les mandats du gouverneur général résident (114:0,2)
+	exécuter les mandats du gouverneur général résident (114:0.2)
 	fonction intermédiaire entre les mortels et les anges (77:0.1)
 	en rapport avec le don de Jésus
 		a annoncé la naissance de Jésus aux prêtres chaldéens (119:7.6)
@@ -2078,7 +2078,7 @@ sur Urantia
 	nommés par ordre alphabétique, comme ABC le Premier (77:6.4) (77:8.2)
 	les membres fidèles sont désormais au nombre de 1 111 (77:8.11)
 	la minorité a fait du mal jusqu'au temps de Jésus (77:6.6)
-	Partie IV écrite par (77:9.9) (121:0.1)(121:8.12-14)(134:3.8)
+	Partie IV écrite par (77:9.9) (121:0.1) (121:8.12-14) (134:3.8)
 	les rebelles pourraient se rendre visibles (77:7.4)
 	servir de gardiens de contact pour les réservistes lorsque les Ajusteurs sont détachés (77:7.5) (77:8.13)
 	Conférences d'Urmia écrites par 3 (134:3.8)
@@ -2106,7 +2106,7 @@ dans le registre de personnalité d'Uversa (30:2.55)
 maintenir une connexion constante grâce à la réflectivité (22:2.7)
 les ascendants mortels qui sont restés loyaux face à la déloyauté de leurs supérieurs (15:10.12) (22:2.1) (44:0.18) (54:6.5)
 ne participant pas à la croissance de l'âge actuel de l'univers (117:2.4)
-numéro 7 trillions (22:2,5)
+numéro 7 trillions (22:2.5)
 de la rébellion du premier système (54:6.11)
 les mortels perfectionnés et mis à l'épreuve par la rébellion qui ont été trinitisés après être devenus finalitaires (15:10.12) (22:2.1-2)
 la sélection est inhérente et automatique (22:4.4)
@@ -2148,7 +2148,7 @@ les uniformes suscitent des émotions féminines (84:3.4)
 lait | | | |
 Miriam, sœur de Jésus, vendue (126:3.12) (128:3.1)
 de vache noire hautement magique (88:5.4)
-L'utilisation du lait de vache et de chèvre a réduit la mortalité infantile (84:3,9)
+L'utilisation du lait de vache et de chèvre a réduit la mortalité infantile (84:3.9)
 
 Voie Lactée | | | PLACE |
 composé d'un grand nombre de nébuleuses (15:4.8)
@@ -2203,9 +2203,9 @@ nature de l'esprit
 	fonctions inférieures dirigées depuis les capitales du système (65:7.1)
 	le mental le plus bas est contrôlé par les Maîtres Contrôleurs Physiques, puis par les esprits-mentaux adjuvats, puis encircuité dans l'Esprit Mère (36:5.15) (42:10.2-5)
 	peut être accordé à une large gamme de vie (9:5.3)
-	ne cesse jamais de progresser; toujours créatif (42:12.1-9)(116:1.5)
+	ne cesse jamais de progresser; toujours créatif (42:12.1-9) (116:1.5)
 	ne répond pas directement au Père (3:2.5)
-	pas entièrement prévisible (7:1,8) (9:6,8,9) (10:7,4) (12:6,5)(14:2,9)
+	pas entièrement prévisible (7:1.8) (9:6,8,9) (10:7.4) (12:6.5) (14:2.9)
 	non inhérent à l'énergie (9:4.2)
 	conscience organisée non entièrement soumise à la gravité; libérée par l'esprit (12:8.11)
 	modèles de l'esprit de l'univers local trouvés dans Havona (14:6.33)
@@ -2214,7 +2214,7 @@ nature de l'esprit
 	sensible à l'énergie (116:5.14) (116:6.4)
 	le péché fait perdre l'équilibre à l'esprit (67:1.3)
 	l'esprit s'efforce de dominer la matière dans la personnalité à travers la méditation de l'esprit (12:8.14)
-	niveaux enseignables activés par les esprits mentaux adjuvats (65:0,6)
+	niveaux enseignables activés par les esprits mentaux adjuvats (65:0.6)
 	technique par laquelle l'esprit devient réel pour les créatures (12:8.8)
 	la totalité de l'esprit domine ses parties (111:2.1)
 	unifié au niveau des Maîtres Esprits avec l'Être Suprême, en tant que mental cosmique subordonné au Mental Absolu (56:3.4)
@@ -2383,7 +2383,7 @@ misère | | difficultés; souffrance | |
 
 malheur | | difficultés | |
 
-Mispeh | (165:0,1) | | PLACE |
+Mispeh | (165:0.1) | | PLACE |
 Mission Pérée
 
 liens manquants | | | |
@@ -2424,7 +2424,7 @@ malentendus | | mal | |
 être expert dans le traitement des problèmes mineurs (178:1.7)
 résultat inévitable de l'ignorance et du pouvoir de choix (25:3.7,12)
 Jésus s'arrêtait rarement pour corriger (141:7.12)
-les révélateurs ont utilisé la terminologie existante même au prix de (0:0,2)
+les révélateurs ont utilisé la terminologie existante même au prix de (0:0.2)
 
 acariens | | | |
 la veuve a contribué à tout (172:4.2)
@@ -2489,7 +2489,7 @@ grand maître religieux; fondateur de l'Islam; protesta contre les étrangers et
 retour recherché dans l'Islam (92:5.6)
 
 mollusques | (59:3.5,11) | céphalopodes | |
-espèces non progressives – huîtres, poulpes, escargots (65:2,5)
+espèces non progressives – huîtres, poulpes, escargots (65:2.5)
 
 ordres monastiques | | | |
 dans les âges sombres (195:4.1)
@@ -2557,7 +2557,7 @@ la désintégration de l'empire mogol a entravé la croissance de (79:1.9)
 Facteurs politiques égyptiens favorisés (95:2.2)
 Les prêtres égyptiens combinaient et mettaient des traits d'union entre leurs dieux (95:5.11)
 a permis à l'homme de voir le Père comme créateur et contrôleur (1:0.1)
-évolution de (96:0,1) (96:1,14) (104:2,1)
+évolution de (96:0.1) (96:1.14) (104:2.1)
 le monothéisme pur réduit Dieu au statut d'Absolu panthéiste (104:2.2)
 
 monotonie | | corvée; variété | |
@@ -2634,7 +2634,7 @@ une société bien ordonnée nourrit (34:7.4)
 mœurs | (68:4) | traditions | |
 l'homme antique était une victime impuissante de (68:4.4)
 cristallisé par la croyance que les morts puniraient ceux qui méprisent les règles selon lesquelles ils ont vécu (68:4.3)
-en fonction du rapport terre-homme (68:5,1) (68:6,1)
+en fonction du rapport terre-homme (68:5.1) (68:6.1)
 est né d'un effort pour éviter la douleur et l'humiliation tout en recherchant le plaisir et le pouvoir (68:4.2)
 ont suffisamment de pouvoir pour contenir les envies sexuelles (82:3.3)
 a aidé l'homme à subordonner le présent au futur (69:5.4)
@@ -2647,9 +2647,9 @@ Le bâton du prince n'imposait pas de mœurs aux tribus (66:6.5)
 frein de sécurité contre une progression trop rapide (68:4.5-6)
 
 morontia | (48) | mondes des manoirs; esprit:types d'esprit; progresseurs morontiels; mondes morontiels | |
-l'art est une morontia mortelle (195 : 7.15-16)
+l'art est une morontia mortelle (195:7.15-16)
 Les êtres célestes ont permis aux humains de voir Jésus morontiel (189:4.11)
-les créatures morontielles respirent du gaz morontiel (43 : 1.3)
+les créatures morontielles respirent du gaz morontiel (43:1.3)
 défini comme
 	combler le fossé entre le matériel et le spirituel (0:5.12) (16:4.5,6) (48:0.2,3) (48:1.1,2) (130:7.8) (133:5.9) (133:6.7)
 	matériau créé en modifiant les révolutions des unités primaires de matière (48:1.3)
@@ -2707,9 +2707,9 @@ types agressifs et réservés (48:3.4)
 très proche parent des humains (48:3.4)
 seront toujours des Compagnons de la Morontia (48:3.16)
 
-conseillers morontiels | (48 :6.27-28) | | ORDER |
+conseillers morontiels | (48:6.27-28) | | ORDER |
 Ministres de transition du 4ème ordre, séraphins (39:6.1)
-enseigner la mota aux progresseurs morontiels (48 :6.27-28)
+enseigner la mota aux progresseurs morontiels (48:6.27-28)
 
 vie morontielle | | morontia; progresseurs morontiels | |
 
@@ -2736,7 +2736,7 @@ les planificateurs morontiels collaborent avec (44:3.7)
 progéniture de l'Esprit-Mère; ne nécessite aucune formation (48:2.2)
 sur Jérusem et Édentia (43:8.1) (46:5.26)
 les manipulateurs d'énergie physique des artisans célestes assistent (44:5.2)
-produire de la substance morontielle et du mental morontiel (16 : 4.5)
+produire de la substance morontielle et du mental morontiel (16:4.5)
 fournir un matériel morontiel indifférencié avec lequel la vie morontielle peut commencer (42:12.11)
 servent rarement sur des planètes habitées (48:2.12)
 autonomie gouvernementale (48:2.11)
@@ -2760,7 +2760,7 @@ L'octroi de Michael en tant que progresseurs morontiels sur Endantum (119:6)
 corps morontiels
 	sont comme des anges (43:9.2)
 	les ascendeurs ont 570 corps morontiels au cours de leur vie morontielle (42:10.5) (48:1.5-6) (48:2.17-22)
-	ne pas avoir de sang circulant ou manger des aliments ordinaires (190:0,3)
+	ne pas avoir de sang circulant ou manger des aliments ordinaires (190:0.3)
 	champ de vision énorme (46:5.10)
 	hautement individuel; varie selon la nature de la personne intérieure (42:12.11) (112:6.3)
 	individualisé par le mental morontiel (42:12.11)
@@ -2773,7 +2773,7 @@ aucun citoyen de Jérusalem n'est tombé dans la rébellion de Lucifer (53:7.10-
 pas de mariage entre (174:3.2)
 possibilité de visiter n'importe quel royaume atteint par l'expérience (48:3.10)
 rester en contact total avec le monde matériel (48:2.26)
-conserver la capacité de reconnaître les êtres des niveaux précédents (44:0,18)
+conserver la capacité de reconnaître les êtres des niveaux précédents (44:0.18)
 entraînement
 	Formation adamique; formation sur Édentia (43:8) (45:6)
 	carrière divisée à parts égales entre travail et loisirs (48:4.1)
@@ -2793,7 +2793,7 @@ concepteurs et embellisseurs d'artisans célestes (44:6.9)
 
 temple morontiel | | lumière et vie; morontia | PLACE |
 apparaît lorsque la planète entre dans la lumière et la vie (40:3.1) (55:1)
-construit par les superviseurs de puissance de Morontia et les contrôleurs physiques principaux; environ 300 000 places (55 : 1,3-4)
+construit par les superviseurs de puissance de Morontia et les contrôleurs physiques principaux; environ 300 000 places (55:1.3-4)
 consacré à des cérémonies spéciales, non pas au culte, au jeu ou à la réception d'émissions (55:1.4)
 finalitaires, souverain planétaire visible uniquement aux mortels spirituels lorsqu'il est en (55:1.2) (55:6.6) (55:7.2)
 les finalitaires participent aux affaires du monde après l'apparition du temple morontiel (55:1.2) (55:4.1-2,14)
@@ -2875,7 +2875,7 @@ nature de l'esprit mortel
 	circuit individualisé de l'esprit cosmique (9:5.4)
 	limites (0:3.20,23) (0:10.1) (2:0.3) (3:2.7,10) (3:3.5) (3:4.5-6) (4:3.6) (5:5.6) (6:8.8) (8:1.10) (11:0.2) (12:7.2) (14:0.1) (14:3.8) (30:1.113) (31:8.2) (56:0.2) (105:0.3) (105:1.2,5) (106:0.12) (106:6.6) (106:8.2) (106:9.2,5-7) (115:3.1-4) (116:2.3)
 	relation vivante entre l'esprit et la pensée personnelle (12:9.6)
-	prêté pour être utilisé pendant la durée de vie du matériel (111:1,5)
+	prêté pour être utilisé pendant la durée de vie du matériel (111:1.5)
 	perd la réponse de gravité proportionnellement à l'identification de l'esprit (12:8.5) (42:11.4)
 	l'esprit le plus bas de tous (42:11.8)
 	l'esprit transmute les valeurs spirituelles en significations intellectuelles (9:4.6)
@@ -2892,7 +2892,7 @@ nature de l'esprit mortel
 	a tendance à imaginer des choses invisibles en termes de choses vues (86:4.2)
 	conscience temporelle de la séquence, du mouvement et de la durée (12:5.7)
 	expérience totale consciente et inconsciente (0:5.8)
-	dépend entièrement de la capacité cérébrale (1:3,7) (58:6,7)
+	dépend entièrement de la capacité cérébrale (1:3.7) (58:6.7)
 ce n'est pas ce que l'esprit mortel comprend, mais ce qu'il désire comprendre, qui assure la survie (111:1.5)
 esprit primitif
 	différait du moderne par son contenu plus que par sa nature (86:2.4)
@@ -2930,7 +2930,7 @@ mortels | | mortels ascendants; corps, humain; enfants; créatures; esprit morte
 Ajusteurs assignés juste avant le 6e anniversaire (108:2.1)
 après la mort
 	les vies après la mort de tous types sont très similaires (49:4.8) (49:5.20) (49:6.1)
-	dénommés « fils ascendants » après la fusion (30:4.1)(40:6.1)
+	dénommés « fils ascendants » après la fusion (30:4.1) (40:6.1)
 	dénommés « fils de la foi » avant la fusion (40:6.1) (40:7.2)
 	ne retournez pas sur la planète de naissance dans la même dispensation (39:4.15) (112:3.7) (146:7.2) (150:3.5)
 	les étapes de l'existence (30:4) (31:3.4)
@@ -2999,7 +2999,7 @@ plus aucune race n'évoluera à partir des animaux (65:2.13-14) (65:3.5-6)
 aucune ascendance survivante entre la grenouille et l'Esquimau (61:2.6) (65:2.7)
 rien d'infaillible que les humains aient touché (159:4.8)
 la seule distinction entre les mortels aux yeux de Dieu est de savoir s'il existe un désir de faire sa volonté (133:0.3)
-passer un test court et intense (14:5.1)(48:7.13)(112:7.4)
+passer un test court et intense (14:5.1) (48:7.13) (112:7.4)
 les personnalités sont en contact ininterrompu avec le Père à travers le circuit de la personnalité (56:4.2)
 époques planétaires-mortelles | époques planétaires
 types planétaires (15:6.16) (49:2-5)
@@ -3062,7 +3062,7 @@ types planétaires (15:6.16) (49:2-5)
 		Les Urantiens ont deux cerveaux (49:5.13-18) (109:3.4)
 mortels primitifs | époques planétaires:ère pré-Prince Planétaire; religion:religion primitive
 	Des ajusteurs prêtés à (40:5.8-10)
-	toujours détérioré dans les forêts tropicales; progressé seulement dans les zones ouvertes, aux latitudes plus élevées (64:1,3) (81:6,7)
+	toujours détérioré dans les forêts tropicales; progressé seulement dans les zones ouvertes, aux latitudes plus élevées (64:1.3) (81:6.7)
 	l'ascendance est celle des lémuriens, des mammifères de l'aube, des mammifères moyens,
 	Primates; l'homme ne descend pas du singe (62:3.11-13) (62:4.7)
 	Andon et Fonta sont apparus il y a 993 419 ans (61:6.2) (62:5) (64:0.1-2)
@@ -3074,7 +3074,7 @@ mortels primitifs | époques planétaires:ère pré-Prince Planétaire; religion
 	vivait constamment sur le fil du rasoir d'une existence précaire et harcelée (86:1.1)
 	vivaient dans des grottes, des falaises et des arbres (52:1.5)
 	vivaient dans des conditions terribles et antisociales (81:5.4)
-	numéroté 500 millions il y a 500 000 ans (66:0,2)
+	numéroté 500 millions il y a 500 000 ans (66:0.2)
 	attitudes personnelles
 		ne pouvait pas saisir le concept de mort naturelle (88:4.7)
 		descendants d'animaux de combat; aimaient se battre; ne pouvaient pas vivre longtemps en paix (63:4.9) (70:1.6)
@@ -3096,8 +3096,8 @@ mortels primitifs | époques planétaires:ère pré-Prince Planétaire; religion
 		ne se dépêchait pas (69:2.4)
 	caractéristiques physiques (62:5.2-3)
 	Le Prince Planétaire arrive généralement au moment du développement de la volonté; tard sur Urantia (65:4.8-9)
-	L'utilisation du lait de vache et de chèvre a réduit la mortalité infantile (84:3,9)
-	oiseaux passagers d'occasion (52:1,5)
+	L'utilisation du lait de vache et de chèvre a réduit la mortalité infantile (84:3.9)
+	oiseaux passagers d'occasion (52:1.5)
 	gouvernement entièrement tribal (52:1.3)
 	brûlerait la richesse accumulée pour créer une impression (69:5.13)
 reçu si peu du plasma vital d'Adam (76:4.6)
@@ -3177,7 +3177,7 @@ instrument du règne du Très-Haut dans les royaumes des hommes (43:5.16-17)
 Fils Vorondadeks (35:5.5-6)
 
 Très Hauts | (35:6) (43:3) | Très Hauts de Norlatiadek; Fils Vorondadeks | ORDER |
-sont les Fils Vorondadeks (15:2.4) (20:1.10) (35:5.1) (35:6.1)(43:3.1-2)
+sont les Fils Vorondadeks (15:2.4) (20:1.10) (35:5.1) (35:6.1) (43:3.1-2)
 au moins 3 règnent sur chaque constellation; chacun sert 150 000 ans; règne pendant 50 000 ans (15:2.4) (35:6.1) (43:3.1-2)
 Pères de la constellation
 	nommer les souverains du système (35:9.2)
@@ -3194,7 +3194,7 @@ intervenir à tout moment dans les affaires des mondes habités (114:4.5)
 s'occupe de groupes et non d'individus (43:3.5) (43:9.4)
 les surcontrôleurs de l'évolution politique (134:5.4)
 la règle favorise le plus grand bien pour le plus grand nombre et pendant la plus longue période (134:5.4)
-règne dans les royaumes des hommes (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.3-4) (136:9.6)(175:1.8)(175:3.2)
+règne dans les royaumes des hommes (3:5.2) (43:3.4) (43:9.4) (50:2.6) (52:3.11) (97:8.5) (134:5.3-4) (136:9.6) (175:1.8) (175:3.2)
 	règne principalement par l'intermédiaire des séraphins (114:0.1-2)
 	gouverner par l'intermédiaire des anges la vie de la nation (114:6.8)
 	gouverner par l'intermédiaire des réservistes (114:7.9)

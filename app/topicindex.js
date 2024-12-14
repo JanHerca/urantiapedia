@@ -792,6 +792,7 @@ class TopicIndex {
 		const err1 = `({0}) '{1}': topic not found`;
 		const err2 = `({0}) '{1}': {2} not equal: {3} != {4}`;
 		const err3 = `({0}) '{1}': {2} not same length: {3} != {4}`;
+		const err4 = `({0}) '{1}': line {2} not equal: {3} != {4}`;
 		const sorting = (a, b) => {
 			if (a.sorting > b.sorting) return 1;
 			if (a.sorting < b.sorting) return -1;
@@ -839,12 +840,31 @@ class TopicIndex {
 						errors.push({desc, fileline});
 					}
 				});
-				//Checks TODO : 
-				//check name exists in any ref, 
-				//altnames exists, 
-				//levels/seeAlso/refs of lines
+				//Check lines
+				topic.lines.forEach((line, i) => {
+					const line2 = topic2.lines[i];
+					if (line.level != line2.level) {
+						desc = strformat(err4, lan2, name, i, line.level, 
+							line2.level);
+						errors.push({desc, fileline: line.fileline});
+					}
+					const lineSA = line.seeAlso ? line.seeAlso : [];
+					const lineSA2 = line2.seeAlso ? line2.seeAlso : [];
+					if (lineSA.length != lineSA2.length) {
+						desc = strformat(err4, lan2, name, i, lineSA, 
+							lineSA2);
+						errors.push({desc, fileline: line.fileline});
+					}
+					const lineRefs = line.refs ? JSON.stringify(line.refs) : '';
+					const lineRefs2 = line2.refs ? JSON.stringify(line2.refs) 
+						: '';
+					if (lineRefs != lineRefs2) {
+						desc = strformat(err4, lan2, name, i, lineRefs, 
+							lineRefs2);
+						errors.push({desc, fileline: line.fileline});
+					}
+				});
 				//refs must be same length and equal
-				//seeAlso must point to an existing location
 			});
 			resolve(null);
 		});

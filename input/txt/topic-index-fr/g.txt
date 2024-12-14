@@ -64,16 +64,16 @@ Gad | | | RACE | OK
 Gad était une tribu réputée d'Israël (128:1.14)
 > https://en.wikipedia.org/wiki/Tribe_of_Gad
 
-Gadara | (138:9,3) (144:7,1) (149:0,1) (159:0,2) (165:0,1) | | PLACE | OK
+Gadara | (138:9.3) (144:7.1) (149:0.1) (159:0.2) (165:0.1) | | PLACE | OK
 Thomas Didyme était un pêcheur de Tarichée mais autrefois charpentier et tailleur de pierre de Gadara (138:2.5)
 Gadara fut l'une des villes visitées lors du premier travail des douze, de la mi-août 26 à la fin de 26 (138:9.3)
 C'était l'un des lieux visités par Jésus, les douze et les douze de Jean lors de la première tournée de prédication de la Décapole, entre novembre et le 27 décembre (144:7.1)
 C'était aussi l'un des lieux visités par Jésus, les douze et les 117 évangélistes lors de la deuxième tournée de prédication en Galilée, entre le 3 octobre 28 et le 30 décembre 28 (149:0.1)
-C'était l'une des villes visitées par les douze, les douze évangélistes et d'autres évangélistes lors du deuxième tour de la Décapole du 18 août au 16 septembre 29 (159:0,2)
+C'était l'une des villes visitées par les douze, les douze évangélistes et d'autres évangélistes lors du deuxième tour de la Décapole du 18 août au 16 septembre 29 (159:0.2)
 C'était l'une des villes visitées lors de la mission de Pérée, du 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Gadara
 
-Gadda | (165:0,1) | | PLACE | OK
+Gadda | (165:0.1) | | PLACE | OK
 C'était l'une des villes visitées lors de la mission de Pérée par Jésus, les douze, les soixante-dix et le corps des femmes, du 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
 Gadiah | | | PERSON | OK
@@ -93,7 +93,7 @@ Matthieu a prêché en Galatie (139:7.10)
 
 galaxies; galaxie | | niveaux spatiaux; univers | PLACE | OK
 Dans Le Livre d'Urantia, le mot galaxie est utilisé de manière interchangeable avec univers, ou est utilisé dans l'expression « univers de galaxies » pour désigner les formations d'étoiles dans l'espace inhabité (11:7.7-9) (12:4.15) (40:10.8) (112:7.16-17)
-Le livre affirme que 375 millions de nouvelles galaxies seront bientôt observées par les astronomes. Aujourd'hui, l'un des plus grands catalogues de galaxies, le Sloan Digital Sky Survey, a pu cataloguer 100 millions d'objets. Le catalogue le plus récent, PS1-STRM, a pu cataloguer 2,9 milliards d'objets (12:2,3).
+Le livre affirme que 375 millions de nouvelles galaxies seront bientôt observées par les astronomes. Aujourd'hui, l'un des plus grands catalogues de galaxies, le Sloan Digital Sky Survey, a pu cataloguer 100 millions d'objets. Le catalogue le plus récent, PS1-STRM, a pu cataloguer 2,9 milliards d'objets (12:2.3).
 La galaxie de la Voie Lactée semble être étroitement liée au superunivers d'Orvonton, ou peut-être que les deux sont équivalents (15:3.4) (15:4.8-9)
 > https://en.wikipedia.org/wiki/Galaxy
 > https://en.wikipedia.org/wiki/Sloan_Digital_Sky_Survey
@@ -123,7 +123,7 @@ C'était la croyance commune des Juifs que la goutte de fiel sur la pointe de l'
 Gamala | | | PLACE | OK
 Gamala fut l'une des villes visitées lors de la deuxième tournée de prédication publique en Galilée qui commença le dimanche 3 octobre 28 après J.C. et dura près de trois mois, se terminant le 30 décembre. Il y avait Jésus, les douze et les 117 évangélistes (149:0.1)
 Au cours de cette tournée, à Gamala, Jésus a enseigné la vérité sur la crainte du Seigneur (149:6.1)
-Gamala est l'une des villes visitées lors du deuxième tour de la Décapole entre le 18 août et le 16 septembre 29 (159:0,2)
+Gamala est l'une des villes visitées lors du deuxième tour de la Décapole entre le 18 août et le 16 septembre 29 (159:0.2)
 Ici eut lieu l'épisode de la rencontre de l'apôtre Jean avec un prédicateur étranger qu'il désavoua (159:2.1)
 > https://en.wikipedia.org/wiki/Gamla
 
@@ -157,7 +157,7 @@ Ganid était un brillant garçon indien qui fut enseigné par Jésus lors d'un v
 la première rencontre avec Jésus a eu lieu pendant la Pâque de l'an 22, à Jérusalem (129:2.9)
 Ganid souffrit d'une grave maladie à Chypre et fut soigné avec amour par Jésus et son père (133:7.3)
 il a mis en pratique les enseignements de son maître lorsqu'à Antioche il a parlé avec un employé de son père qui était insatisfait des tâches qui lui étaient assignées (133:8.3)
-avec Jésus, il a produit une synthèse traduite des meilleurs textes sur les religions du monde qu'ils ont trouvés dans la bibliothèque d'Alexandrie (131) (130 : 3.5-6)
+avec Jésus, il a produit une synthèse traduite des meilleurs textes sur les religions du monde qu'ils ont trouvés dans la bibliothèque d'Alexandrie (131) (130:3.5-6)
 il était un digne successeur de son éminent père (133:9.5)
 
 Jardin d'Eden; jardin | | Adam; Jardin d'Éden; deuxième jardin | PLACE | OK
@@ -177,7 +177,7 @@ description physique (73:5)
 	Cette péninsule méditerranéenne avait un climat salubre et une température uniforme; ce temps stable était dû aux montagnes qui l'entouraient et au fait que cette région était pratiquement une île dans une mer intérieure. (73:3.3-6)
 	Les montagnes entourant le Jardin abondaient en pierres et métaux précieux, bien que ceux-ci aient reçu très peu d'attention. (73:3.5)
 	il y avait une montagne, la montagne inaugurale, d'où Adam parla (74:2.5) (74:3.5) (74:4.4)
-	Le site choisi pour le Jardin était probablement le plus bel endroit de son genre au monde, et le climat était alors idéal. (73:3.6)(73:5.8)(73:7.1)(74:3.4)
+	Le site choisi pour le Jardin était probablement le plus bel endroit de son genre au monde, et le climat était alors idéal. (73:3.6) (73:5.8) (73:7.1) (74:3.4)
 	Les dispositions sanitaires du Jardin étaient bien en avance sur tout ce qui avait été tenté jusque-là sur Urantia. L'eau potable d'Eden était maintenue saine (73:5.3-4).
 la vie dans le jardin
 	Adam a découragé les sacrifices d'animaux dans le jardin (76:2.3)
@@ -364,7 +364,7 @@ La protection de l'Amérique du Nord par les océans a permis un développement 
 
 âges géologiques | (59:0.1-6) | | | OK
 # Archéozoïque, ère pré-vie
-#* Il y a 1 milliard à 550 millions d'années (59:0,2) (78:7,4)
+#* Il y a 1 milliard à 550 millions d'années (59:0.2) (78:7.4)
 # Protérozoïque, ère de l'aube de la vie
 #* Il y a 550 à 400 millions d'années (58:7.1) (59:0.3)
 # Paléozoïque, ère de la vie marine
@@ -382,7 +382,7 @@ La protection de l'Amérique du Nord par les océans a permis un développement 
 #* Permien, âge des graines et tribulations biologiques
 #** Il y a 170 à 150 millions d'années (59:6)
 # Mésozoïque, début de l'ère de la vie terrestre
-#* Il y a 150 à 50 millions d'années (59:0,5) (60:4,6)
+#* Il y a 150 à 50 millions d'années (59:0.5) (60:4.6)
 #* Trias, âge des premiers reptiles
 #** Il y a 150 à 125 millions d'années (60:1)
 #* Jurassique, ère reptilienne tardive
@@ -548,7 +548,7 @@ Judas s'est pendu avec sa ceinture (186:1.7)
 Gischala | | | PLACE | OK
 Lieu près de la mer de Galilée
 Les apôtres y ont prêché lors de leur première tournée de prédication sur le lac entre juin et le 26 juillet (138:9.3)
-C'est l'une des villes visitées lors de la première tournée de prédication en Galilée entre janvier et mars 28 (146:0,1) (146:4,6)
+C'est l'une des villes visitées lors de la première tournée de prédication en Galilée entre janvier et mars 28 (146:0.1) (146:4.6)
 Jésus et les apôtres passèrent à leur retour de Phénicie (156:6.3)
 > https://en.wikipedia.org/wiki/Jish
 
@@ -794,7 +794,7 @@ La nature de Dieu (2) | beauté; bonté; justice:justice divine; miséricorde; t
 	Dieu et l'homme ont besoin l'un de l'autre pour accomplir la destinée divine de l'univers (195:10.3)
 	Dieu ne crée pas le mal et ne permet pas le péché et la rébellion (54:0.2)
 	il n'est jamais vindicatif ou en colère (2:6.7)
-	ne respectant aucune personne (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133 :0,3) (137:8,6) (138:8,2) (140:3,16) (143:1,5) (148:6,2) (155:6,2) (156:2,4) (166:4,11) (175:2,1-3) (181:2,14) (192:2,2)
+	ne respectant aucune personne (1:4.6) (2:3.1) (3:1.12) (12:7.1,8) (40:10.5,13) (64:6.27) (112:0.12) (117:6.22) (133:0,3) (137:8.6) (138:8.2) (140:3.16) (143:1.5) (148:6.2) (155:6.2) (156:2.4) (166:4.11) (175:2.1-3) (181:2.14) (192:2.2)
 	Il n'y a pas de bon, sauf Dieu (196:0.9) (196:2.2)
 	rien ne nous sépare de son amour (100:6.6)
 	Dieu est tout-puissant | toute-puissance
@@ -843,7 +843,7 @@ Dieu d'action | | Esprit Infini | PERSON | OK
 
 Dieu l'Absolu | (0:10.1-2) | | PERSON | OK
 La Déité Absolue fait l'expérience de l'identité avec l'Absolu Non Qualifié dans (0:2.18)
-trinitisation possible de (0:9,4) (0:12,8)
+trinitisation possible de (0:9.4) (0:12.8)
 défini comme
 	inévitabilité divine (0:12.4)
 	réalisation expérientielle de la divinité absolue (0:10.1)
@@ -904,7 +904,7 @@ défini comme
 	pouvoir transcendantal-personnalisation de l'univers tout entier (106:4.2,4)
 	transcendant le temps et l'espace (1:7.7)
 	unification de la Trinité telle que comprise par les êtres absonites (0:9.2) (10:8.2)
-	entièrement expérientiel (0:7,5)
+	entièrement expérientiel (0:7.5)
 relation avec Trinity et autres
 	L'Esprit Infini compense l'incomplétude de (9:1.6)
 	Trinity collabore avec GtU, pas avec les divinités individuellement (10:7.3)
@@ -1068,7 +1068,7 @@ La destruction de Sodome et Gomorrhe était due à des causes naturelles malgré
 
 Gonod | | | PERSON | OK
 Homme d'affaires indien avec qui Jésus a voyagé à Rome (130) (132) (133) (129:2.9)
-3 voyages en Chine (130:0,6)
+3 voyages en Chine (130:0.6)
 
 bien | | bonté | | OK
 
@@ -1150,7 +1150,7 @@ les gens ordinaires écoutent volontiers l'évangile (173:3.2) (174:4.7) (196:1.
 nous ne devrions pas essayer d'adapter le nouvel évangile de Jésus aux anciennes formes de croyance religieuse (138:5.2) (140:6.2) (147:7.2-3)
 L'ancienne religion était motivée par la peur; le nouvel évangile du royaume est dominé par la conviction de vérité, l'esprit de vérité éternelle et universelle. (180:5.12)
 La preuve de la foi en l'Évangile est l'amour manifesté les uns envers les autres (182:1.6)
-L'Évangile libère les hommes des traditions pesantes d'une religion formelle de cérémonies que les anciens enseignants sont déterminés à maintenir à tout prix. (162:2.2)(170:2.1-2)
+L'Évangile libère les hommes des traditions pesantes d'une religion formelle de cérémonies que les anciens enseignants sont déterminés à maintenir à tout prix. (162:2.2) (170:2.1-2)
 celui qui nie sciemment l'évangile devant les hommes sera renié par les anges du ciel (165:3.5)
 l'évangile était caché aux sages et aux pharisaïques (163:6.3)
 il est contagieux dans son pouvoir transformateur (159:3.10)
@@ -1160,7 +1160,7 @@ L'Évangile du royaume est une vérité vivante. De génération en génération
 L'Évangile expliqué | religion:expliquée
 	Jésus a clairement indiqué que ses enseignements s'appliquaient à l'individu et non à l'État. Tous ont compris plus pleinement que l'Évangile du Royaume est un message adressé à l'individu et non à la nation. (140:8.5) (145:2.10)
 	La bonne nouvelle de l'Évangile est que, par la foi, tout mortel peut avoir tous les éléments essentiels du salut. (140:10.9)
-	L'évangile de la bonne nouvelle selon lequel l'homme mortel peut, par la foi, devenir spirituellement conscient qu'il est un fils de Dieu, ne dépend pas de la mort de Jésus. (140:10.4,7)(141:4.2)(142:3.8)(181:2.12,18)(186:5.4)
+	L'évangile de la bonne nouvelle selon lequel l'homme mortel peut, par la foi, devenir spirituellement conscient qu'il est un fils de Dieu, ne dépend pas de la mort de Jésus. (140:10.4,7) (141:4.2) (142:3.8) (181:2.12,18) (186:5.4)
 	Le Maître a mis l'accent sur les cinq points suivants comme représentant les caractéristiques cardinales de l'évangile du royaume : (170:4.8-13)
 		# le caractère sacré de l'individu. Jésus n'a jamais manqué d'exalter le caractère sacré de l'individu par rapport à la communauté. (138:8.9) (140:8.11) (140:10.5) (144:6.3) (170:3.10-11) (170:4.9) (171:7.4) (194:3.7) (195:1.1)
 		# La volonté comme facteur déterminant dans l'expérience humaine. (170:4.10) | consécration du choix; décisions; volonté
@@ -1179,7 +1179,7 @@ L'Évangile expliqué | religion:expliquée
 	L'Évangile du royaume concerne l'amour du Père et le service de ses enfants sur terre. (142:4.2) (178:1.4) (193:0.4)
 	L'évangile de la bonne nouvelle selon lequel l'homme mortel peut, par la foi, devenir spirituellement conscient qu'il est un fils de Dieu, ne dépend pas de la mort ou de la résurrection de Jésus. (138:6.3) (186:5.4) (193:2.2) (194:0.3,7) (194:4.4-5)
 	l'évangile est une révélation de la bonté de Dieu (150:5.5)
-	Jésus a mis l'accent sur ce qu'il a appelé les deux vérités de première importance dans les enseignements du royaume, et ce sont : l'obtention du salut par la foi, et la foi seule, associée à l'enseignement révolutionnaire de l'obtention de la liberté humaine par la reconnaissance sincère de la vérité (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4)(170:2.20-22)
+	Jésus a mis l'accent sur ce qu'il a appelé les deux vérités de première importance dans les enseignements du royaume, et ce sont : l'obtention du salut par la foi, et la foi seule, associée à l'enseignement révolutionnaire de l'obtention de la liberté humaine par la reconnaissance sincère de la vérité (140:10.1) (141:7.6) (150:5.2) (157:2.2) (163:2.4) (170:2.20-22)
 	L'Évangile devrait être : « Cherchez premièrement le royaume et la justice de Dieu; en les trouvant, toutes les autres choses essentielles à la survie éternelle seront assurées. » (140:1.5)
 	Le soi-disant « Sermon sur la montagne » n'est pas l'évangile de Jésus. C'était la mission personnelle du Maître adressée à ceux qui devaient continuer à prêcher l'évangile et à aspirer à le représenter dans le monde (140:4.1).
 	L'Évangile de Jésus, tel qu'il l'a prêché et vécu à son époque, a été un moyen efficace de résoudre les difficultés spirituelles de l'homme à l'époque où il a été proclamé. (194:2.1)
@@ -1765,7 +1765,7 @@ Grecs mentionnés
 	* Alexandre le Grand, roi et conquérant macédonien (133:5.1)
 	* Pindare, poète (98:2.5)
 	* Xénophane, poète et philosophe (98:2.6)
-	* Anaxagoras, philosophe présocratique (98 : 2.6)
+	* Anaxagoras, philosophe présocratique (98:2.6)
 	* Aristote, le grand philosophe (98:2.6) (121:6.3)
 	* Platon, le grand philosophe (92:5.12) (98:2.6)
 	* Rodan d'Alexandrie, philosophe grec inconnu (160:0.1)
@@ -1858,7 +1858,7 @@ valeur des groupes
 	les groupes sont bien plus grands et plus forts que la simple somme de leurs unités individuelles. (10:5.2) (68:1.4-5)
 	deux créatures morales ne doublent pas simplement leur potentiel personnel de réalisation universelle par la technique du partenariat; elles quadruplent même presque leurs possibilités de réalisation et d'accomplissement. (43:8.11)
 	La religion contribue au progrès de tous en favorisant le progrès de chaque individu, et le progrès de chacun est accru par la réussite de tous. (100:0.1)
-	la croissance spirituelle est stimulée par une association intime avec d'autres religieux (100:0,2)
+	la croissance spirituelle est stimulée par une association intime avec d'autres religieux (100:0.2)
 	En ce qui concerne la personnalité humaine, il serait plus proche de la vérité de dire qu'une telle association de personnalités est une somme égale au carré du nombre de personnalités concernées dans l'équation plutôt qu'une simple somme arithmétique. (133:5.6)
 
 croissance | | équilibre; progrès; croissance spirituelle | | OK

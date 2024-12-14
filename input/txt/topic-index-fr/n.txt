@@ -88,7 +88,7 @@ potier (123:5.15) (124:1.3)
 
 Nathanael (Apôtre) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | apôtres de Jésus | PERSON |
 philosophe apostolique, rêveur (139:6.4) (147:4.10) (191:0.7)
-aux apparitions de Jésus (191:2,5) (192:1-4) (193:0,3,5)
+aux apparitions de Jésus (191:2.5) (192:1-4) (193:0,3,5)
 a assisté à la session du Sanhédrin (164:5.3)
 attitude
 	Peut-il sortir quelque chose de bon de Nazareth ? (137:2.6) (139:6.3)
@@ -220,7 +220,7 @@ naziréennes; naziréenne | | | RELIGION |
 Abner, ancien chef de (165:0.1)
 ascétique et excentrique; la majorité a refusé d'accepter Jésus (142:8.1)
 croyait à la venue du Messie (137:7.12)
-Engedi était le quartier général du sud (135:1,1) (165:0,1)
+Engedi était le quartier général du sud (135:1.1) (165:0.1)
 Jean-Baptiste s'est joint (135:1)
 considérés comme des personnalités sanctifiées (135:1.2)
 Coin nazaréen de la cour des femmes dans le temple de Jérusalem (135:2.1)
@@ -257,7 +257,7 @@ personnalités célestes de Nébadon
 	100 centres de pouvoir suprême (32:2.2) (41:1.2)
 	400 millions de Conciliateurs Universels (37:8.6)
 	500 millions de Hauts Commissaires (37:5.6)
-	500 millions de conseillers techniques (37:8,7)
+	500 millions de conseillers techniques (37:8.7)
 	10 000 sentinelles assignées (37:8.5)
 	13 641 étoiles brillantes du soir (37:2.4)
 	800 000 archanges (37:3.1)
@@ -310,9 +310,9 @@ aspects physiques (41)
 	pas dans les circuits établis (15:9.15-18)
 	les plus anciennes planètes habitées ont 200 milliards d'années (57:3.10)
 	une des créations les plus récentes à Orvonton; sur le bord extérieur sud-est (12:1.12-13) (15:1.3-6) (32:2.9-12)
-	physiquement assemblé à partir d'Andronover et d'autres nébuleuses (41:0,3) (57:1,1) (57:3,8-9)
+	physiquement assemblé à partir d'Andronover et d'autres nébuleuses (41:0.3) (57:1.1) (57:3.8-9)
 	Salvington est au centre de masse énergétique de (32:2.4)
-	les sphères partagent un point commun minimal de mouvement spatial (41:0,3)
+	les sphères partagent un point commun minimal de mouvement spatial (41:0.3)
 	heure | temps:jours et années
 	travaux commencés sur Nébadon il y a 400 milliards d'années (57:3.8-9)
 Salvington est la capitale de (15:7.7)
@@ -346,8 +346,8 @@ Roi babylonien qui renversa Necho, détruisit Jérusalem et emmena la population
 Jérémie a conseillé de rendre Jérusalem à (97:6.4)
 
 nébuleuses | (15:4) (57:1-4) | | PLACE |
-étape critique de rupture centrifuge (57:3,5)
-chacun peut produire 100 millions de soleils (15:4,5)
+étape critique de rupture centrifuge (57:3.5)
+chacun peut produire 100 millions de soleils (15:4.5)
 les formes sont des anneaux de contraction concentriques barrés, en spirale, des nuages d'étoiles (15:3) (15:4.4-9) (15:5.3-5)
 initié par les organisateurs de la force du Paradis (12:4.6) (15:4.4) (29:4.3) (41:1.1) (57:1)
 cycle de vie (57:2-4)
@@ -419,7 +419,7 @@ parabole de (151:4.6)
 Paradis inférieur | | Paradis | |
 
 neutrons | | atomes; matière | |
-la stabilité atomique dépend du nombre de neutrons dans le noyau (42:7,6)
+la stabilité atomique dépend du nombre de neutrons dans le noyau (42:7.6)
 maintenus ensemble par un mésotron alternatif (42:8.3)
 
 nouveau commandement | | commandements | |
@@ -494,7 +494,7 @@ craignait d'être vu ouvertement avec Jésus (142:6.1)
 Les disciples de Jésus se réunissaient à la maison de (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 La visite de Jésus à (142:6)
 
-Nicopolis | (130:0,3) | | PLACE |
+Nicopolis | (130:0.3) | | PLACE |
 fondée par Auguste pour commémorer Actium (133:2.5)
 
 police de nuit | | | |
@@ -524,7 +524,7 @@ cf : la religion n'est pas une technique pour atteindre une paix de l'esprit sta
 illumination et félicité, libération du monde matériel (94:8.16)
 
 azote | | | |
-pas d'azote libre dans l'atmosphère primitive (57:7,6)
+pas d'azote libre dans l'atmosphère primitive (57:7.6)
 
 Noé (Habitant du jardin) | | | PERSON |
 fils de l'architecte et constructeur du jardin d'Eden (74:2.5)
@@ -550,7 +550,7 @@ Nodites | (77:2) | races | RACE |
 Adam a imprégné 1 682 Nodites dans le deuxième jardin pour fonder la race andite (76:4.8)
 construit la tour de Babel en mémoire de la grandeur raciale des Nodites (77:3.1-2)
 centres de civilisation (77:4)
-hérédité considérable chez la race blanche (80:0,2)
+hérédité considérable chez la race blanche (80:0.2)
 descendants des rebelles du personnel du Prince (67:4.2) (73:1)
 les descendants s'installèrent en Crète vers 12 000 av. J.-C. (80:7.2)
 dispersion et déclin (77:4.1)
@@ -665,7 +665,7 @@ Le Groenland reliait autrefois l'Amérique du Nord à l'Europe (59:5.20) (61:1.1
 chevaux et chameaux dans les plaines du Miocène (61:3.10)
 les océans offrent une opportunité favorable pour un développement sans entraves (81:6.5)
 race rouge en (79:5.7-8)
-riche en fossiles de vie marine (59:0,9)
+riche en fossiles de vie marine (59:0.9)
 surgit des profondeurs du Pacifique (57:8.21)
 lente dérive vers l'ouest (58:4.3)
 la race jaune a chassé la race rouge d'Asie vers (64:6.4,14) (64:7.4-5)

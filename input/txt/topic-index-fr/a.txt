@@ -33,7 +33,7 @@ ils sont les citoyens permanents des sphères sièges d'Uversa, les mêmes que l
 les abandonneurs sont un groupe d'êtres hautement qualifiés sur le plan artistique et socialement adaptés (43:7.4)
 ils ont été créés par des agents des Anciens des Jours et des Esprits Réfléchissants (37:9.12)
 ils apparaissent dans les registres de personnalité (30:1.44) (30:2.122)
-ils sont supervisés par des mortels fusionnés avec le Fils (37:9.7)
+ils sont supervisés par des mortels fusionnés avec le Fils (37:9.12)
 
 Abel | (76:2) | | PERSON | OK
 il était le premier enfant d'Adam né dans le deuxième jardin. il a choisi d'être berger (76:2.1,4)
@@ -84,7 +84,7 @@ après la mort de Jésus
 	décédé à 89 ans à Philadelphie (166:5.7)
 
 demeures; lieux d'arrêt; lieux de repos | | | | OK
-Jésus a répété à plusieurs reprises à ses disciples qu'il existe de nombreuses autres demeures ou résidences dans l'univers du Père, se référant sans précision à d'autres planètes habitées et à d'autres mondes architecturaux (133:4.9) (178:3.4) (180:3.4)(180:6.3) (181:1.2)
+Jésus a répété à plusieurs reprises à ses disciples qu'il existe de nombreuses autres demeures ou résidences dans l'univers du Père, se référant sans précision à d'autres planètes habitées et à d'autres mondes architecturaux (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
 aborigènes (australiens); indigènes d'Australie; Australiens natifs; Australiens primitifs; tribus australiennes; tribus primitives d'Australie | | | RACE | OK
 Certains de ces aborigènes, nous dit-on, n'ont pas fait beaucoup de progrès depuis les anciens jours de chasse (68:5.4).
@@ -161,7 +161,7 @@ Absalon était l'un des fils du roi David. On nous informe que sa mère était c
 > https://en.wikipedia.org/wiki/Absalom
 
 propriétaire absent (parabole) | | Jésus:les paraboles de Jésus | | OK
-c'est une des paraboles de Jésus, Mc 12,1-12; Mt 21,33-46; Lc 20,9-19 (173,4)
+c'est une des paraboles de Jésus, Mc 12,1-12; Mt 21,33-46; Lc 20,9-19 (173:4)
 > https://en.wikipedia.org/wiki/Parable_of_the_Wicked_Husbandmen
 
 absoluta; force cosmique; force cosmique; puissance spatiale; puissance spatiale; énergie spatiale; énergie spatiale; force mère de l'espace; force spatiale; charge de force de l'espace; charge de force universelle de l'espace; couverture de force; force primordiale; force primordiale; force spatiale; force universelle; charge spatiale de la force universelle; charge de force de l'espace; charge de force; charge de puissance; force cosmique; force primordiale | | | | OK
@@ -424,7 +424,7 @@ arrivée d'Adam et Eve
 	Il a rejeté l'adoration des habitants du jardin (74:3.10) (74:4)
 enfants
 	Adam et Eve ont eu 105 enfants de lignée pure (74:6.2)
-	après défaut, tous les moins de 20 ans se sont retirés vers Édentia, ainsi que les deux tiers des plus de 20 ans qui ont également décidé de partir (75:6,3) (77:5,3)
+	après défaut, tous les moins de 20 ans se sont retirés vers Édentia, ainsi que les deux tiers des plus de 20 ans qui ont également décidé de partir (75:6.3) (77:5.3)
 	Adam et Eve ont établi un tout nouveau système d'éducation (74:6.7) (74:7.1-11)
 	sur Édentia, les fils d'Adam furent privés de leurs pouvoirs procréateurs (55:7.3)
 	on croit qu'un jour ils serviront sur Urantia aux côtés du Souverain Planétaire (55:7.3)
@@ -439,7 +439,7 @@ défaut d'Adam(75)
 	Caligastia a tenu de nombreuses conférences avec Adam (75:2.1) (76:4.5)
 	la dégradation s'est produite après qu'Adam, Eve et ses enfants ont été réduits au statut de mortel (75:7)
 	les races d'Urantia ont été privées d'une nature physique plus conforme aux aspirations spirituelles (34:7.4-5)
-	mais le défaut n'a pas empêché l'évolution biologique (81:0,1)
+	mais le défaut n'a pas empêché l'évolution biologique (81:0.1)
 	Gabriel apparut devant Adam et Eve pour prononcer le verdict de leur jugement (75:7.1)
 	la faute a laissé le jardin d'Eden sans opposition aux Nodites, qui l'ont envahi (75:6.2-4)
 	Adam et Eve n'ont pas été autorisés à emporter l'arbre de vie avec eux après l'échec, et ils sont restés dans le premier jardin (73:6.7)
@@ -538,7 +538,7 @@ dans le jardin
 	les enfants métis pouvaient retourner dans la tribu évolutionnaire de leurs parents pour s'y marier, et ils étaient voués à la monogamie (51:5.5)
 migrations
 	sont partis en tant qu'émissaires il y a 25 000 ans (78:1.12) (78:2.2)
-	en 19 000 av. J.-C., ils étaient une nation de 4,5 millions d'habitants (78:2,5)
+	en 19 000 av. J.-C., ils étaient une nation de 4,5 millions d'habitants (78:2.5)
 	le plan était de fusionner avec les races de couleur lorsqu'elles atteindraient 500 000 ou 1 million (51:5.2) (52:3.5) (73:7.3)
 	la race violette a conservé la tradition de la recherche de la paix; ceci explique le long retard dans les conquêtes territoriales (78:3.1) (78:4.5)
 	les changements climatiques et géologiques ont détourné la migration précoce des Adamites vers l'Europe, les forçant à migrer vers le nord et l'est jusqu'au Turkestan (81:1.1-3)
@@ -570,7 +570,7 @@ a vécu 396 ans (77:5.7)
 les traditions sur Adanson ont survécu en Grèce (98:1.1)
 Adanson et Ratta
 	ils ont eu 67 fils et filles; un enfant sur quatre était souvent invisible (77:5.6) (77:6.3)
-	étaient les grands-parents de près de 2 000 élèves du secondaire intermédiaire (77:5,6) (77:6)
+	étaient les grands-parents de près de 2 000 élèves du secondaire intermédiaire (77:5.6) (77:6)
 	Adanson et Ratta se sont mariés quand Adanson avait 120 ans (77:5)
 	Sato était un descendant direct d'Adanson, et lui et sa ville de gens de grande taille étaient les ancêtres des Grecs (80:7.3)
 
@@ -676,7 +676,7 @@ fonction
 	conduire les races humaines vers des idées et des idéaux plus élevés (34:5.2)
 	L'amour maternel est un don instinctif des esprits adjuvats (84:1.6-7)
 	Les esprits-mères confèrent la vie par l'intermédiaire des sept adjuvants (34:5.2)
-	Les niveaux mécaniques non enseignables de la réponse environnementale de l'organisme sont du ressort des contrôleurs physiques. Ils n'entrent pas en contact avec les ordres purement mécaniques de la réponse environnementale de l'organisme (65:0,6) (65:7,5)
+	Les niveaux mécaniques non enseignables de la réponse environnementale de l'organisme sont du ressort des contrôleurs physiques. Ils n'entrent pas en contact avec les ordres purement mécaniques de la réponse environnementale de l'organisme (65:0.6) (65:7.5)
 	ils sont unifiés sous la direction de l'esprit de sagesse (112:6.9)
 	L'octroi de l'esprit aux adjuvats, bien qu'il ne s'agisse pas d'une évolution physique, dépend entièrement de la capacité cérébrale conférée par des développements purement physiques et évolutifs. (58:6.7)
 
@@ -1027,7 +1027,7 @@ ambassadeurs de l'univers
 	Les Vorondadeks servent d'ambassadeurs auprès d'autres univers (35:5.5)
 
 ambre | | | | OK
-Les pays nordiques ont fait du commerce (80:9,4)
+Les pays nordiques ont fait du commerce (80:9.4)
 
 ambitions; ambition | | objectifs | | OK
 L'abandon par Abraham de ses ambitions personnelles en faveur de Melchizédek est la raison pour laquelle trois êtres célestes lui sont apparus (93:6.7).
@@ -1156,7 +1156,7 @@ en Israël
 en Europe
 	les Grecs et les Romains étaient tous deux favorables au mariage monogame. (83:6.3)
 	Cette coutume a prévalu en Europe pendant environ cinq cents ans après la destruction de la civilisation gréco-romaine. (79:8.3)
-en Chine, au Japon et en Inde (79:8,3) (94:5,7)
+en Chine, au Japon et en Inde (79:8.3) (94:5.7)
 	a provoqué une stagnation en Chine (79:6.9) (79:8.4,7-10)
 	Confucius a établi le respect de la conduite ancestrale (94:6.9)
 	Le bouddhisme s'est rapidement amalgamé aux pratiques rituelles persistantes du culte des ancêtres. (94:11.1)
@@ -1284,7 +1284,7 @@ Andites renommés
 	* Imhotep | Imhotep
 	* Thor, vénéré comme un dieu | Thor (dieu)
 
-Andon et Fonta; Andon | (63) (62,5) (136:4,5) | | PERSON | OK
+Andon et Fonta; Andon | (63) (62,5) (136:4.5) | | PERSON | OK
 Andón et Fonta sont les vrais parents de toute l'humanité (61:6.2) (63:1.1)
 ils vivaient au début de la troisième période glaciaire, dans un environnement difficile et vivifiant (61:6.3)
 Tous deux sont nés dans ce qui est aujourd'hui l'Inde (79:0.1)
@@ -1299,7 +1299,7 @@ leur grande décision
 	reçu des noms définitifs de l'archange qui a annoncé l'état habité d'Urantia (63:0)
 	les noms qu'ils se donnèrent étaient Sonta-an, aimé de la mère, et Sonta-en, aimé du père (63:0.3)
 leurs descendants
-	Andón et Fonta ont eu un total de 19 enfants (63:3,2)
+	Andón et Fonta ont eu un total de 19 enfants (63:3.2)
 	Les Esquimaux sont les seuls survivants de la race qui a formé Andon et Fonta, les Andonites (61:6.3)
 réalisations
 	Andon fut le découvreur du feu (63:2.5-7) (63:6.2) (69:6.4) (81:2.9)
@@ -1339,11 +1339,11 @@ migrations
 	ils furent dispersés dans l'Arctique et l'Asie centrale en 15 000 av. J.-C. (78:3.7)
 	migré vers l'Islande et le Groenland (64:7.18)
 	Les Hittites descendent directement de la souche andonite (80:8.2)
-	Les andonites ont été absorbés dans les races bleues et blanches (80:0,2) (80:3,2) (80:9,2)
+	Les andonites ont été absorbés dans les races bleues et blanches (80:0.2) (80:3.2) (80:9.2)
 caractéristiques physiques (63:4.1)
 	Les Andonites avaient les yeux noirs et un teint basané, un croisement entre le jaune et le rouge.
 	Les Danubiens étaient des Andonites, des agriculteurs et des éleveurs qui étaient entrés en Europe par la péninsule des Balkans et qui se déplaçaient lentement vers le nord par la vallée du Danube. (80:8.4-5)
-	ils avaient 36 dents (65:6,5)
+	ils avaient 36 dents (65:6.5)
 	Les Lapons et les Esquimaux sont les peuples actuels les plus proches du type andonique aborigène (61:6.3) (63:4.1) (65:2.7) (70:1.2) (81:4.9)
 	ils n'étaient pas aussi sensibles à la douleur ni aussi réactifs aux situations désagréables que l'étaient de nombreux mortels évoluant ultérieurement. (63:4.2)
 	ils avaient la peau pâle et la tête large (80:8.2) (81:4.2-4)
@@ -1535,7 +1535,7 @@ L'évolution animale
 	vertébrés
 		les crustacés étaient les ancêtres des premiers vertébrés (59:4.10)
 		les poissons furent les premiers vertébrés (59:4.3,9)
-		les grenouilles étaient les ancêtres des vertébrés terrestres (60:0,2)
+		les grenouilles étaient les ancêtres des vertébrés terrestres (60:0.2)
 Utilisation des animaux par les Andonites
 	Les Andonites subsistaient en grande partie grâce aux animaux (63:6.3)
 	Les Andonites se chauffaient avec des peaux d'animaux (63:2.5) (63:4.1)
@@ -1646,7 +1646,7 @@ empêche la gravité de convertir toute l'énergie en matière. Si l'influence r
 les énergies ultimatoniques présentent parfois un comportement antigravitaire (42:4.10) (42:6.3)
 L'énergie en évolution a une substance; elle a un poids, bien que le poids soit toujours relatif, dépendant de la vitesse de révolution, de la masse et de l'antigravité. (15:8.3)
 êtres dotés d'antigravité
-	* Directeurs du recensement (24:0,10)
+	* Directeurs du recensement (24:0.10)
 	* Esprit Infini (7:1.2) (9:3.2-3)
 	* Esprits-Mères des univers locaux (34:2.2)
 	* Maitres Contrôleurs Physiques (9:3.6) (29:3.6) (29:4.19,35) (42:4.3)
@@ -1819,7 +1819,7 @@ Jésus
 	Jésus croyait à la foi des apôtres (157:4.6)
 	Jésus avait confiance en ses apôtres et les aimait (137:6.5)
 	il a exigé des apôtres qu'ils consacrent tous leurs biens à la cause commune (140:6.11,13) (140:8.16) (161:2.3) (163:2.2-11) (163:3.3) (165:4.5) (165:5.2) (194:3.16)
-	il leur a indiqué que la religion serait une affaire exclusive des apôtres (140: 8.30) (141: 7.4)
+	il leur a indiqué que la religion serait une affaire exclusive des apôtres (140:8.30) (141:7.4)
 	Jésus a veillé à ce que les apôtres aient de bonnes relations avec les apôtres de Jean (141:1.4-5) (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (147:2.4) (162:9)
 	parfois il ne révélait pas ses plans aux apôtres (141:0.1)
 	il les envoyait souvent à l'écart pour prier (155:5.14) (157:4.8) (157:7.2)
@@ -1984,7 +1984,7 @@ Le Livre d'Urantia offre des informations sur certains sites où nous pourrions 
 > https://en.wikipedia.org/wiki/Dilmun
 
 Archéozoïque; archéozoïque | | âges géologiques | | OK
-L'archéozoique est l'ère pré-vie, depuis le moment où la planète a atteint sa taille actuelle jusqu'à l'époque de l'établissement de la vie, il y a 1 milliard à 550 millions d'années (59:0,2)
+L'archéozoique est l'ère pré-vie, depuis le moment où la planète a atteint sa taille actuelle jusqu'à l'époque de l'établissement de la vie, il y a 1 milliard à 550 millions d'années (59:0.2)
 La seule fois où la surface de la terre a été entièrement recouverte d'eau, c'était pendant les âges archéozoïques, avant que la terre ne commence à apparaître. (78:7.4)
 > https://en.wikipedia.org/wiki/Archean
 
@@ -2032,7 +2032,7 @@ Chiffres
 	Dans l'univers local de Nébadon, il y a 647 591 sphères architecturales (37:10.1)
 caractéristiques
 	Les conditions climatiques et autres conditions physiques qui règnent dans les mondes architecturaux rendent les toits totalement inutiles dans les demeures. (48:3.15)
-	Ils sont éclairés, chauffés, arrosés et énergisés de manière indépendante par la coordination du Centre de Pouvoir de Satania et des Maîtres Contrôleurs Physiques. (15:7.1) (41:1.3)(45:0.3) (46:1.3-7)
+	Ils sont éclairés, chauffés, arrosés et énergisés de manière indépendante par la coordination du Centre de Pouvoir de Satania et des Maîtres Contrôleurs Physiques. (15:7.1) (41:1.3) (45:0.3) (46:1.3-7)
 	ils ont juste le double du nombre d'éléments des planètes évoluées. Ils ont cent éléments physiques et exactement cent formes d'une organisation énergétique unique appelée matière morontielle. (48:1.3)
 	la matière des sphères architecturales est organisée par l'action directe des centres de pouvoir et des contrôleurs physiques (15:5.1) (41:1.3)
 	Les mondes architecturaux jouissent de dix formes de vie de l'ordre matériel, trois végétales, trois animales et quatre non antérieures (43:6.4,7) (46:2.5)
@@ -2126,7 +2126,7 @@ L'art prouve que l'homme n'est pas mécaniste, mais il ne prouve pas qu'il soit 
 les anges apprécient nos efforts dans l'art (38:2.1)
 le charme de l'art humain réside dans l'harmonie de son unité (2:7.8)
 La civilisation est en danger lorsque les jeunes négligent de s'intéresser à l'éthique, à la sociologie, à l'eugénisme, à la philosophie, aux beaux-arts, à la religion et à la cosmologie. (111:4.4)
-Les beaux-arts prospèrent mieux dans les villes soutenues par une population agricole et industrielle légèrement inférieure au ratio terre-homme (68:6,5)
+Les beaux-arts prospèrent mieux dans les villes soutenues par une population agricole et industrielle légèrement inférieure au ratio terre-homme (68:6.5)
 la vanité, l'orgueil, l'ambition et l'honneur ont donné naissance aux premières manifestations de tous les arts, car ces émotions ont besoin d'une arène sociale où elles peuvent être exposées (68:2.10)
 La beauté, l'art, est en grande partie une question d'unification des contrastes. (56:10.3-4)
 histoire de l'art
@@ -2195,7 +2195,7 @@ le chemin de l'ascension
 	Au cours des étapes d'ascension, les mortels ascendants doivent passer par différentes demeures :
 	* progression des survivants d'Urantia (14:5.1) (31:10.20)
 	* résidence dans les cercles de Jérusalem des mortels ascendants (46:5.11,27)
-	* la zone résidentielle d'Édentia, située dans la zone médiane du trente-cinquième triangle (43:1,9)
+	* la zone résidentielle d'Édentia, située dans la zone médiane du trente-cinquième triangle (43:1.9)
 	* le secteur mineur de son univers local (18:5.5)
 	* tous les dix secteurs majeurs du superunivers (18:4.9)
 	* se balancer plusieurs fois autour des superunivers (5:1.9)
@@ -2259,7 +2259,7 @@ Jésus en tant que mortel ascendant
 	En une seule vie courte, Jésus a-t-il traversé cette expérience de progression spirituelle religieuse que l'homme commence sur terre et qu'il n'atteint généralement qu'à la fin de son long séjour dans les écoles de formation spirituelle des niveaux successifs de la carrière pré-paradisiaque (196:2.2) ?
 
 pèlerins ascendants; pèlerins du temps | | mortels ascendants | ORDER | OK
-les pèlerins ascendants ou pèlerins du temps sont les mortels ascendants accrédités pour l'ascension au Paradis (7:5.5,8) (8:3.8) (13:1.21) (14:3.4) (14:5.4-5) (15:7.10) (15:11.2) (16:3.14) (19:6.2) (22:2.2,4) (24:6.1) (25:3.13) (26:2.2) (26:3.1-2,8) (26:4.2) (26:5.1,3) (26:6.2) (26:7.1) (26:8.1) (26:10.7) (26:11.1,3,6) (27:0.11) (27:3.2-3) (28:6.20) (30:2,156) (30:3,13) (30:4,1) (31:5,1) (35:7,3) (35:10,1) (35:10,3) (39:1,11) (39:4,18) (48:6,29) (113:7,5) (115:6,5) (117:3,4) (117:6.14)
+les pèlerins ascendants ou pèlerins du temps sont les mortels ascendants accrédités pour l'ascension au Paradis (7:5.5,8) (8:3.8) (13:1.21) (14:3.4) (14:5.4-5) (15:7.10) (15:11.2) (16:3.14) (19:6.2) (22:2.2,4) (24:6.1) (25:3.13) (26:2.2) (26:3.1-2,8) (26:4.2) (26:5.1,3) (26:6.2) (26:7.1) (26:8.1) (26:10.7) (26:11.1,3,6) (27:0.11) (27:3.2-3) (28:6.20) (30:2.156) (30:3.13) (30:4.1) (31:5.1) (35:7.3) (35:10.1) (35:10.3) (39:1.11) (39:4.18) (48:6.29) (113:7.5) (115:6.5) (117:3.4) (117:6.14)
 
 fils ascendants de Dieu | | Fils de Dieu:ordres | ORDER | OK
 
@@ -2534,7 +2534,7 @@ il existe quatre types d'êtres mortels selon l'atmosphère de leur planète : l
 
 atomes; atomique; atome | | électrons; éléments (chimiques); mésotrons; neutrons; protons; ultimatons | | OK
 la formation de toute matière est du même ordre : atomes avec une partie nucléaire et électrons (42:7)
-Chaque atome mesure un peu plus de 1/100 000 000e de pouce de diamètre (42:6,7)
+Chaque atome mesure un peu plus de 1/100 000 000e de pouce de diamètre (42:6.7)
 L'atome est formé comme un système solaire. Autour de ce centre énergétique, tourbillonnent, en profusion infinie mais en circuits fluctuants, des unités énergétiques qui sont vaguement comparables aux planètes entourant un soleil. (42:7.1-2)
 Lorsque les électrons passent d'un niveau d'énergie de révolution orbitale supérieur à un niveau inférieur, des quanta sont toujours émis. (42:5.6)
 Le calcium perd facilement son électron le plus éloigné et déplace le précédent des milliers de fois entre son orbite et celle de l'électron perdu. Grâce à ces jonglages avec les électrons, l'atome est capable de défier partiellement la gravité et de s'enflammer avec les émanations de la lumière du soleil (41:6.3-4).
@@ -2545,7 +2545,7 @@ cohésion atomique
 	la gravité est l'un des nombreux facteurs impliqués dans le maintien d'un atome (42:8.1)
 	Bien que la gravité soit l'un des nombreux facteurs impliqués dans le maintien de la cohésion d'un minuscule système énergétique atomique, il existe également dans et parmi ces unités physiques de base une énergie puissante et inconnue, le secret de leur constitution de base et de leur comportement ultime, une force qui reste à découvrir sur Urantia. (42:8)
 	Les protons chargés et les neutrons non chargés du noyau de l'atome sont maintenus ensemble par la fonction réciproque du mésotron, une particule de matière 180 fois plus lourde que l'électron. (42:8.3-7)
-	la stabilité de l'atome dépend du nombre de neutrons inactifs (42:7,6)
+	la stabilité de l'atome dépend du nombre de neutrons inactifs (42:7.6)
 	Dans Orvonton, il n'a jamais été possible d'assembler naturellement plus de cent électrons orbitaux dans un atome. Avec plus de 100 électrons, la rupture se produit instantanément (42:7.7)
 construction et destruction de l'atome
 	l'annihilation des atomes est la principale source d'énergie solaire (41:7.4)
@@ -2570,7 +2570,7 @@ Jésus ne s'est pas donné pour réconcilier un Dieu en colère (2:5.2) (4:5.6) 
 Dieu ne serait certainement jamais satisfait du projet enfantin consistant à substituer un innocent souffrant à un coupable (188:4.11).
 Le Père n'avait rien à voir avec la torture de Jésus (183:1.1-2) (186:5.2)
 La justice du Père n'est pas influencée par les actes de ses créatures (2:3.1)
-L'amour du Père ne dépend pas des dons d'Avonal et de Michael Sons (20:5.2)(186:5.5-9)
+L'amour du Père ne dépend pas des dons d'Avonal et de Michael Sons (20:5.2) (186:5.5-9)
 Le Père céleste n'est jamais déchiré par des attitudes conflictuelles envers ses enfants de l'univers; Dieu n'est jamais victime d'antagonismes d'attitudes. (2:4.3)
 il n'est jamais nécessaire d'influencer le Père pour qu'il soit miséricordieux (2:4.2) (6:3.4)
 Tout ce concept d'expiation et de salut sacrificiel est enraciné et fondé sur l'égoïsme. La préoccupation principale du croyant ne devrait pas être le désir égoïste de salut personnel, mais plutôt le désir désintéressé d'aimer et, par conséquent, de servir son prochain (188:4.9).
@@ -2616,7 +2616,7 @@ géologie
 	Il y a 280 000 000 d'années, les continents étaient en grande partie émergés. Plusieurs couches s'étendent sur le Canada, certaines parties de l'Amérique du Sud et l'Australie (59:3.9)
 	Les terres de l'Amérique du Nord et du Sud, de l'Europe, de l'Afrique, de l'Asie du Nord et de l'Australie furent brièvement inondées. Après ces submersions, de nombreuses côtes furent considérablement surélevées (59:4.5,7)
 	Il y a 210 000 000 d'années, les mers arctiques aux eaux chaudes couvraient la majeure partie de l'Amérique du Nord et de l'Europe. Les eaux polaires australes inondaient l'Amérique du Sud et l'Australie (59:5.4).
-	Une couche calcaire s'est déposée en Australie (60:1,4)
+	Une couche calcaire s'est déposée en Australie (60:1.4)
 	Il y a 65 000 000 d'années s'est produite l'une des plus grandes coulées de lave de tous les temps et se trouve en Australie (60:3.16)
 faune
 	A l'époque des migrations andoniques, il y avait une voie terrestre continue depuis l'Angleterre à l'ouest, à travers l'Europe et l'Asie, jusqu'à Java à l'est; mais l'Australie était de nouveau isolée, ce qui accentua encore le développement de sa faune particulière. Les ancêtres des kangourous ultérieurs parcouraient l'Australie. (61:1.9) (64:1.5)

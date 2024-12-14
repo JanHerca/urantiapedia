@@ -105,18 +105,18 @@ limites d'imposition foncière dans les nations continentales (72:7.6)
 la guerre est toujours causée par la pénurie (70:1.8)
 
 ponts terrestres | | | |
-Détroit de Béring (60:3,8) (61:0,2) (61:1,12) (61:3,4) (61:4,6) (62:1,2,6,13) (64:6,5) (79:5,6)
+Détroit de Béring (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1,2,6,13) (64:6.5) (79:5.6)
 disparition de certains (59:6.5)
 Chaîne anglaise (64:1.5-6) (64:2.6)
-Isthme de Gibraltar (61:3,8) (80:1,1) (80:2,4)
+Isthme de Gibraltar (61:3.8) (80:1.1) (80:2.4)
 Islande (61:3.9) (61:4.6)
 Java (64:1.6)
 Méditerranée-Océan Indien (64:7.13)
-Isthme de Panama (61:0,2) (61:1,12)
-Sicilien (64:1,5) (64:4,7) (73:7,1) (80:1,1) (80:2,4)
+Isthme de Panama (61:0.2) (61:1.12)
+Sicilien (64:1.5) (64:4.7) (73:7.1) (80:1.1) (80:2.4)
 
 ère de la vie terrestre, début | (60) | | |
-Le Mésozoïque était l'ère de (59:0,5)
+Le Mésozoïque était l'ère de (59:0.5)
 
 langue | | communication; traducteurs; écriture | |
 1000 ans de communication mortelle transmise lors d'une rencontre fortuite au Paradis (44:4.3)
@@ -205,7 +205,7 @@ types
 		numéro 1 055 558 (35:8.6)
 		assistants subalternes (35:8.3)
 
-Lao-Tseu | (94 :6.3-8) | | PERSON |
+Lao-Tseu | (94:6.3-8) | | PERSON |
 a déclaré que Tao était la Cause Première Unique (92:5.12) (94:6.3-8)
 enseignant religieux exceptionnel; déifié (94:6.12) (121:6.4)
 
@@ -295,7 +295,7 @@ décédé à 67 ans (168:5.3)
 le père Simon était le chef des habitants de Béthanie (168:0.4)
 Jésus
 	ordonna à Lazare de fuir (171:1.5) (172:2.4) (174:0.1) (178:2.2) (178:3.3)
-	première rencontre; les garçons étaient du même âge (124:6,9) (127:6,5)
+	première rencontre; les garçons étaient du même âge (124:6.9) (127:6.5)
 	Lazare emmena le jeune Jésus explorer Jérusalem (125:2.5)
 	Lazare rendit visite à Jésus deux fois au Jourdain (141:9.1)
 	aimait Lazare avec une affection fervente (125:2.7) (127:6.3) (167:4.2)
@@ -304,12 +304,12 @@ Jésus
 	pleuré sur le tombeau de Lazare (168:1)
 Marthe et Marie rejoignirent Lazare à Philadelphie (190:1.9)
 persécuté par les pharisiens (171:1.5)
-tombe privée sur place (168:0,4)
+tombe privée sur place (168:0.4)
 Le Sanhédrin a décrété la mort de (168:5.1) (172:1.1,9) (175:3.1)
 les sœurs Marthe et Marie (124:6.9)
 convoqué devant le Sanhédrin (168:3.4)
 trésorier de l'église de Philadelphie; a soutenu Abner (168:5.3)
-riche; a hérité de vastes vignobles et d'oliviers (168:0,4) (172:1,7)
+riche; a hérité de vastes vignobles et d'oliviers (168:0.4) (172:1.7)
 
 Lazare (de la parabole du Nazaréen) | | | |
 parabole de Lazare et Dives (169:3)
@@ -317,7 +317,7 @@ parabole de Lazare et Dives (169:3)
 paresse | | indolence | |
 
 plomb | | | |
-2 poids atomiques (42:4,12)
+2 poids atomiques (42:4.12)
 élevé dans la lave (58:7.6)
 Dépôts siluriens (59:3.4) (59:5.9)
 
@@ -413,7 +413,7 @@ guérison à Iron (146:4.3-5)
 guérison des 10 (166:2)
 
 Route Mineure | | Bouddhisme | |
-le bouddhisme Hinayana; doctrine asociale (94 : 9.4-5)
+le bouddhisme Hinayana; doctrine asociale (94:9.4-5)
 
 Levant | | | PLACE |
 Caucasoïde et négroïde se sont mêlés (81:4.14)
@@ -589,7 +589,7 @@ avant de quitter la planète, les Porteurs de Vie installent le Prince Planétai
 Caligastia avait été conseiller des Porteurs de Vie à Jérusalem (66:1.2)
 le chef sert au conseil exécutif de Jérusalem (45:3.14)
 créé par le Fils Créateur, l'Esprit Mère et 1 Ancien des Jours (20:1.10) (36:1.1)
-réalisé par Gabriel, le Père Melchizédek et Nambia (36 : 1.2)
+réalisé par Gabriel, le Père Melchizédek et Nambia (36:1.2)
 n'interfère pas avec la volonté (36:3.8) (62:5.9) (62:7.4)
 fabriquer de nouveaux corps pour la spornagie (46:7.4,6)
 fonction dans la résurrection des morts (47:3.2)
@@ -605,7 +605,7 @@ manipuler l'environnement de vie avant l'émergence de la volonté (36:3.7-8) (6
 Esprits Maîtres impliqués avec les Porteurs de Vie dans l'initiation à la vie (16:4.9)
 Les Melchizédeks accompagnent toujours (36:1.3)
 Les Melchizédeks servent de porteurs de vie (36:4)
-gamme métamorphique de fonctions de personnalité (93:0,1)
+gamme métamorphique de fonctions de personnalité (93:0.1)
 Fils de la phase intermédiaire (65:1.1)
 il n'est pas permis de manipuler mécaniquement l'évolution (65:3.1-2)
 nombre 100 millions dans Nébadon (36:1.2)
@@ -654,7 +654,7 @@ travailler sur Urantia
 	L'aventure d'Urantia pour (62:6) (65:4)
 	accueillit Adam (74:2.5)
 	travail de 24 gardiens (36:2.16) (36:3.2)
-a écrit les articles 57 à 65 (57 : 8,27) (58 : 7,13) (59 : 6,13) (60 : 4,7) (61 : 7,20) (62 : 7,8) (63 : 7,5) (64 : 7,21) (65 : 8,7)
+a écrit les articles 57 à 65 (57:8,27) (58:7,13) (59:6,13) (60:4,7) (61:7,20) (62:7,8) (63:7,5) (64:7,21) (65:8,7)
 
 ère de l'aube de la vie | (58:4) | | |
 Ère protérozoïque (58:7.1) (59:0.3)
@@ -672,7 +672,7 @@ Plasma de vie andonique transplanté dans Caligastia 100 (66:2.5-6) (66:4.4)
 accordé par les Porteurs de Vie (36:3.3-5)
 unités essentielles de l'énergie vitale (36:2.14)
 métamorphose par action des courants vitaux du système (77:2.2,5)
-modifié par les rayons X (77:2,5)
+modifié par les rayons X (77:2.5)
 doit contenir tout le potentiel pour tout développement futur (36:2.17)
 L'Esprit de Dieu apporte une étincelle vitale (36:6.2-4)
 
@@ -682,9 +682,9 @@ reproducteurs célestes, artisans célestes (44:2.8)
 léger | | | |
 lumière matérielle (0:6.8-9) | énergie; soleil (celui d'Urantia); soleils
 	le calcium chevauche les rayons lumineux (41:6.3)
-	peut pénétrer les océans jusqu'à 600 pieds (58:1,7)
+	peut pénétrer les océans jusqu'à 600 pieds (58:1.7)
 	La queue d'une comète pointée vers l'extérieur prouve que la lumière a un poids (15:6.13)
-	économique à 1 000 000 $/livre (41:5,2)
+	économique à 1 000 000 $/livre (41:5.2)
 	s'échappe des soleils uniquement grâce aux rayons X (41:9.1)
 	explosif lorsqu'il est confiné à haute température (41:5.2)
 	lumière sans chaleur
@@ -750,7 +750,7 @@ planète individuelle ou mortel jamais retardé par le statut d'une unité plus 
 Jésus a atteint la lumière et la vie sur Urantia (55:11.7)
 la vie mortelle dans la lumière et la vie (55:5-6)
 	apogée du développement matériel (55:5)
-	le travail quotidien pour subvenir à ses besoins est de 1 heure (52:4,5) (52:7,6)
+	le travail quotidien pour subvenir à ses besoins est de 1 heure (52:4.5) (52:7.6)
 	la descente du temple morontiel signale l'inauguration de (40:3.1) (55:1)
 	description de la vie sur les planètes dans (118:10.14-18)
 	les divisions de l'humanité sont largement effacées (70:8.1)
@@ -769,7 +769,7 @@ la vie mortelle dans la lumière et la vie (55:5-6)
 	postes occupés conjointement par les hommes et les femmes (55:3.9)
 	semblable au premier monde des maisons, à l'exception des corps matériels (47:3.1)
 	imposition par la dîme (55:3.2-6)
-	champ de vision étendu; médians secondaires visibles (55 : 4,8)
+	champ de vision étendu; médians secondaires visibles (55:4,8)
 survivants mortels des planètes de lumière et de vie
 	exempté d'un ou plusieurs mondes de maisons (47:7.1) (49:6.15-16)
 	retourner en tant qu'enseignants dans les mondes qu'ils ont traversés (49:6.17) (55:2.9) (55:3.11)
@@ -786,7 +786,7 @@ années-lumière | | | |
 250 000, des systèmes les plus éloignés de Nébadon jusqu'au centre d'Orvonton (32:2.11)
 500 000, entre 7 superunivers et le 1er niveau d'espace extra-atmosphérique (12:1.14)
 25 000 000, zone d'énergie croissante au 1er niveau d'espace extérieur (12:1.14)
-50 000 000, distance entre le 1er et le 2e niveau de l'espace extra-atmosphérique (12:1,15)
+50 000 000, distance entre le 1er et le 2e niveau de l'espace extra-atmosphérique (12:1.15)
 mesures astronomiques précises à 1 000 000 al (41:3.10)
 relation avec le décalage vers le rouge (12:4.14)
 Les messagers solitaires peuvent transmettre des messages jusqu'à 100 al (23:3.5)
@@ -813,7 +813,7 @@ têtes enneigées sur racines dans la boue (156:5.1)
 
 calcaire | (59:4.5) | | |
 converti en quartz, schiste et marbre (59:1.16) (59:3.1)
-dépôts (59:1,13) (59:2,3) (59:3,1,9) (59:5,8) (59:5,10) (60:1,4) (60:3,9) (61:1,13)
+dépôts (59:1.13) (59:2.3) (59:3,1,9) (59:5.8) (59:5.10) (60:1.4) (60:3.9) (61:1.13)
 résulte de précipitations chimiques ainsi que de dépôts marins (57:8.13)
 
 lions | | | |
@@ -869,7 +869,7 @@ centres de systèmes locaux | | Centres Suprêmes de Pouvoir; Directeurs de Pouv
 1 fonction dans chaque système local (29:2.18) (41:1.5)
 Centres Suprêmes de Pouvoir du 6e ordre; envoient le pouvoir aux contrôleurs physiques sur les mondes habités (29:2.18) (41:1.5)
 dans le registre de personnalité d'Uversa (30:2.98)
-éclairer, chauffer et dynamiser le siège du système local (45:0,3)
+éclairer, chauffer et dynamiser le siège du système local (45:0.3)
 
 conclave du système local | | | |
 Les souverains planétaires dans la lumière et la vie du système comprennent (55:8.1)
@@ -884,12 +884,12 @@ sphères du siège
 	1 Centre de Pouvoir Suprême du 6ème ordre attribué à chacun (29:2.18) (41:1.5)
 	administration (45)
 	fusion avec l'Ajusteur généralement effectuée en (112:7.3)
-	éclairé, chauffé et alimenté indépendamment (45:0,3)
+	éclairé, chauffé et alimenté indépendamment (45:0.3)
 	lié par réflectivité aux Anciens des Jours (43:0.1)
 	les mondes des maisons sont des satellites ou des sous-satellites (30:4.16) (45:0.2) (47:0.1) (48:1.2)
 	Nébadon a été construit il y a 400 à 5 milliards d'années (57:3.8)
 	particulièrement préoccupé par les problèmes biologiques (33:6.3)
-	physiquement soigné par spornagia (45:0,3)
+	physiquement soigné par spornagia (45:0.3)
 dans la lumière et la vie (55:8)
 circuits de vie des systèmes locaux
 	personnel corporel des Princes Planétaires dépendant des circuits de vie du système (66:2.5) (66:4.6) (67:4.2)
@@ -953,7 +953,7 @@ attributs
 	source de l'intellect de l'univers local (112:6.6)
 	fournir une étincelle de vie vivante par l'intermédiaire des Porteurs de Vie (34:2.5) (36:3.3-5) (36:6.2-4,7)
 création et personnalisation
-	réalisation de la personnalité par la coopération créatrice avec le Fils Créateur (21:3.6) (33:3.1) (34:0,1) (34:2.1)
+	réalisation de la personnalité par la coopération créatrice avec le Fils Créateur (21:3.6) (33:3.1) (34:0.1) (34:2.1)
 	toujours personnel au Fils Créateur associé (33:3.1)
 	devenir l'image personnelle du Maitre Esprit associé (34:1.3) (34:2.3)
 	naissance dans la personne de l'Esprit Infini (9:8.4-5) (17:6.3-7)
@@ -1017,7 +1017,7 @@ univers locaux | (32) (33) | Nébadon | PLACE |
 1 Inspecteur Associé incarne l'autorité des Sept Exécutifs Suprêmes pour chacun (24:4.1-2) (24:5.2) (37:8.5)
 1 superviseur de circuit tertiaire en poste dans chaque (24:1.10)
 10 millions de mondes habitables dans (6:8.3) (15:2.5,21) (35:4.2)
-100 constellations sont des unités autonomes de (15:2,5) (32:0,1) (43:2,1)
+100 constellations sont des unités autonomes de (15:2.5) (32:0.1) (43:2.1)
 100 centres de pouvoir locaux basés au siège de chaque (29:2.16) (32:2.2) (41:1.3)
 les ambassadeurs représentent (33:6.4)
 les anges des univers locaux sont les séraphins, les chérubins et les médians (26:1.14)
@@ -1059,12 +1059,12 @@ personnalités de (37) (38:0.2)
 	100 centres de pouvoir du 4e ordre assignés à chaque univers local (41:1.2)
 	tous sont évolutifs (32:0.2) (32:3.1-2)
 	tous nés de nébuleuses gazeuses circulaires (57:2.1)
-	tous ont la même charge énergétique (15:4,6) (32:1,4) (41:0,2)
+	tous ont la même charge énergétique (15:4.6) (32:1.4) (41:0.2)
 	défini par la présence de l'Esprit Mère de l'univers local (41:0.1) (45:1.8) (116:5.13)
 	Les organisateurs de la force partent lorsque le Fils Créateur arrive (29:5.6)
-	de nombreuses nébuleuses peuvent être englobées dans (15:4.6)(41:0.3)
-	aucune ligne claire de démarcation physique entre (41:0,2)
-	les sphères de chaque voyagent ensemble comme une unité contiguë (41:0,3)
+	de nombreuses nébuleuses peuvent être englobées dans (15:4.6) (41:0.3)
+	aucune ligne claire de démarcation physique entre (41:0.2)
+	les sphères de chaque voyagent ensemble comme une unité contiguë (41:0.3)
 	prennent forme en raison de la présence spatiale de l'Esprit-Mère, des centres de pouvoir et du contrôle matériel du Fils Créateur (34:1.1) (116:5.13)
 conditions d'admission dans la confédération du superunivers (15:9.15-17)
 similitudes des mondes dans le même univers local (15:6.16)
@@ -1085,7 +1085,7 @@ si un événement suivait un autre, le sauvage les considérait comme une cause 
 limites de la logique
 	ne peut jamais valider l'expérience religieuse (1:6.6) (101:10.6)
 	ne peut pas prouver l'existence de Dieu (1:2.7) (42:1.3)
-	erreur d'approche du plus haut depuis le plus bas (19:1,5-12) (40:0,10)
+	erreur d'approche du plus haut depuis le plus bas (19:1.5-12) (40:0.10)
 	largement occulté par l'intérêt personnel (86:2.4)
 	pas infaillible lorsqu'il est appliqué aux problèmes de la vie (133:5.5)
 	sans connaissance on ne peut pas raisonner avec succès (13:2.5)
@@ -1165,9 +1165,9 @@ amour divin (2:5)
 		chasse toute crainte (48:6.8)
 		détruit la haine et le péché, ainsi que toute faiblesse qui en résulte (188:5.2-3)
 		celui qui demeure dans l'amour demeure en Dieu (3:1.5)
-		contagieux; plus contagieux que la haine (100:4.6)(188:5.1-2)
+		contagieux; plus contagieux que la haine (100:4.6) (188:5.1-2)
 		opère directement dans le cœur de l'individu (118:10.11)
-		nous demande d'aimer comme Jésus nous aime (140:5.2,3)(181:2.30)
+		nous demande d'aimer comme Jésus nous aime (140:5.2,3) (181:2.30)
 		sauve le pécheur (2:6.8)
 		triomphe de l'amour dans la rébellion de Lucifer (54:6)
 	l'essence de l'enseignement de Jésus (92:4.8)
@@ -1202,7 +1202,7 @@ amour divin (2:5)
 	volonté volontaire de Dieu (2:6.9)
 la domination par l'amour a amené l'Ajusteur avant l'Esprit de Vérité (108:2.9)
 la colombe était le symbole de (85:3.4)
-s'unifier expérientiellement avec la loi divine (42:11.1) (104:2.3)(111:6.6)
+s'unifier expérientiellement avec la loi divine (42:11.1) (104:2.3) (111:6.6)
 s'exprimer dans un ministère intelligent (157:2.2)
 l'amour paternel transcende l'affection fraternelle (140:5.5)
 donne et désire de l'affection (2:6.5)
@@ -1218,7 +1218,7 @@ apprendre à aimer
 	l'amour humain est réciproque (156:5.11)
 	L'amour ne devient réel que lorsqu'il est accordé aux autres (117:6.10)
 	L'amour ne peut pas être créé, fabriqué ou acheté; il doit grandir (100:3.7)
-	l'amour ne naît que d'une compréhension approfondie des motivations et des sentiments du prochain (2:4.2)(100:4.4-6)(174:1.4-5)
+	l'amour ne naît que d'une compréhension approfondie des motivations et des sentiments du prochain (2:4.2) (100:4.4-6) (174:1.4-5)
 	apprendre à aimer les autres en aimant son Père; s'intéresser au bien-être des autres (155:3.4) (181:2.5)
 	on ne peut pas faire naître l'amour par un acte de volonté (100:4.6)
 	suspicion incompatible avec l'amour (52:6.4)
@@ -1246,7 +1246,7 @@ exige la connaissance des choses humaines; produit la connaissance des choses di
 secret d'une association bénéfique (12:9.2)
 renforce le caractère, crée le bonheur (140:5.6)
 les abstractions philosophiques subjectives sont dépourvues de (16:9.8)
-fournit un terrain propice à la croissance religieuse (100:0,2)
+fournit un terrain propice à la croissance religieuse (100:0.2)
 l'examen écrit ne peut pas prouver (103:8.3)
 
 Loyalatia | | | PERSON |
@@ -1260,7 +1260,7 @@ dévouement au devoir le plus élevé (3:5.12,17)
 fruit de l'appréciation de la fraternité; première étape (39:4.11)
 fruit de l'esprit (193:2.2)
 loyauté humaine
-	les enfants ne sont impressionnés en permanence que par la loyauté de leurs parents (100:1,4)
+	les enfants ne sont impressionnés en permanence que par la loyauté de leurs parents (100:1.4)
 	difficile à changer une fois mobilisé (134:5.8)
 	la loyauté envers la famille est la plus sacrée des confiances humaines (126:3.5) (127:5.3) (140:8.14)
 	L'éducation romaine a engendré des choses inouïes (195:2.3)
@@ -1398,10 +1398,10 @@ Manotia, loyal commandant séraphique (53:6)
 Études de l'école d'urgence Édentia de Melchizédek (43:1.6)
 Le mandat de l'Esprit-Mère est de ne pas réprimer (54:5.11)
 aucun monde perdu depuis l'original 37 (53:7.15) (53:9.5)
-s'est produit il y a 200 000 ans (50:6,5) (53:4,1) (61:7,8)
+s'est produit il y a 200 000 ans (50:6.5) (53:4.1) (61:7.8)
 sur Urantia (67)
 	Amadon était le héros humain exceptionnel de (67:3.8-9)
-	n'a pas sérieusement interféré avec l'évolution organique (67:0,1) (78:1,1) (81:0,1)
+	n'a pas sérieusement interféré avec l'évolution organique (67:0.1) (78:1.1) (81:0.1)
 	les gains effacés de l'administration du Prince (73:1.2)
 	a mis fin à la première révélation historique après 300 000 ans (92:4.5)
 	une confusion horrible, suivie d'obscurité spirituelle (66:7.20)
@@ -1413,7 +1413,7 @@ sur Urantia (67)
 	plan d'amélioration de la course détruit (51:5.4)
 problèmes de (54)
 la quarantaine a forcé la propagande à être menée par un effort personnel (53:7.3)
-les rebelles ont eu libre cours pendant 200 000 ans (53:5.3)(53:7.13-15)
+les rebelles ont eu libre cours pendant 200 000 ans (53:5.3) (53:7.13-15)
 relation avec l'octroi de Michael (53:8)
 Satan informa Caligastia de la rébellion à l'avance (67:1.2)
 s'est propagé à tous les mondes du système (67:3.1)
@@ -1460,7 +1460,7 @@ l'adultère dans le cœur (140:6.5)
 Lut | | Cent de Caligastia | PERSON |
 et tout le conseil fut perdu dans la rébellion (67:4.1)
 gardiens de la santé et de la vie (66:5.17)
-Serapatatia un descendant de (75 : 3.1)
+Serapatatia un descendant de (75:3.1)
 
 Lutentia | | | PERSON |
 Souverain du Système de Palonia, premier rebelle de Nébadon (119:2.1-6)
@@ -1477,7 +1477,7 @@ rivaliser avec les nécessités à l'ère du confort matériel (50:5.6)
 Luz | (155:4.1-2) | | PLACE |
 Jésus est décédé
 
-Lydda | (123:0,6) (127:6,4) (128:3,2) | | PLACE |
+Lydda | (123:0.6) (127:6.4) (128:3.2) | | PLACE |
 Jésus est décédé
 
 mensonge | | fraude; honnêteté; vérité | |

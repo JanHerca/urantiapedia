@@ -69,7 +69,7 @@ la première rébellion du système dans Nébadon a eu lieu en (119:2.5-6)
 système 11 de la constellation 37 (119:2.1)
 
 isthme de Panama | | | PLACE |
-a augmenté ou a diminué (61:0,2) (61:1,12)
+a augmenté ou a diminué (61:0.2) (61:1.12)
 
 Pandore | | | PERSON |
 la légende raconte que la femme a apporté le mal à l'homme (84:4.4)
@@ -107,7 +107,7 @@ le bon Samaritain et le fils prodigue étaient les favoris de Jésus (169:1.16)
 Jésus enseignait rarement les messes, sauf par (151:4.7)
 Parfois, Jésus ne faisait aucun commentaire sur (151:3.16) (167:2.4) (169:3.3) (171:8.8)
 Lazare et Dives, par les Nazaréens (169:3)
-dix vierges, par Selta (176 : 2.8)
+dix vierges, par Selta (176:2.8)
 théorie
 	difficile de cristalliser ou de dogmatiser les enseignements spirituels présentés dans (179:5.4-5)
 	mystères du royaume présentés dans (151:1.4)
@@ -142,7 +142,7 @@ divisions géographiques du Paradis
 		dominé par la présence focalisée de l'Absolu Non Qualifié (11:2.8) (11:5.7-8)
 		la force-charge de l'espace répond à (15:4.1)
 		le grand univers dépend des énergies de (116:7.2)
-		convergence de la gravité matérielle (0:3,13) (3:2,4) (5:6,11) (14:2,6)
+		convergence de la gravité matérielle (0:3.13) (3:2.4) (5:6.11) (14:2.6)
 		toutes les énergies ne viennent pas de (11:5.9)
 		personnalités non présentes sur (11:2.8) (11:5.1) (13:1.1)
 		les circuits d'énergie physique et de force cosmique naissent sur (11:5.1)
@@ -166,7 +166,7 @@ la vie au paradis
 	l'identification de l'ascendeur avec les valeurs spirituelles est complète sur (132:2.8-9)
 	excursions non résidentielles des ascendeurs vers (26:7.4)
 	êtres indigènes du Paradis incapables de s'épuiser (48:4.11)
-	certitude d'un accueil chaleureux à l'arrivée (25:8,5)
+	certitude d'un accueil chaleureux à l'arrivée (25:8.5)
 	une rencontre fortuite au Paradis révèle plus que ce qui pourrait être communiqué en 1000 ans (44:4.3)
 	conduite entièrement spontanée et libre (27:4.3)
 	la confusion n'apparaît jamais (27:4.3)
@@ -217,14 +217,14 @@ nature du Paradis (0:4.11-13)
 	noyau immobile entre l'espace pénétré et l'espace non pénétré (0:4.12) (11:7.2) (105:3.4)
 	sans commencement, sans fin, sans mouvement, sans changement (42:2.3)
 	pas dans l'espace; l'espace existe par rapport à (0:4.12) (11:2.10-11) (11:7) (105:3.4)
-	Île nucléaire de stabilité absolue (14:0,1)
+	Île nucléaire de stabilité absolue (14:0.1)
 	de constitution unique (56:1.1)
 	une partie de Dieu le Septuple (116:5.9)
 	la perfection non diluée sur (2:2.4)
 	puissance et énergie preuve de stabilité de (12:8.3)
 	réalisation-révélation de la force JE SUIS (105:3.4)
 	répond à tous les changements physiques des univers (1:5.16)
-	la forme est ellipsoïdale, 1/6 plus longue du nord au sud qu'est-ouest; essentiellement plate, seulement 1/10 aussi profonde que large (11:1,1) (11:2,2)
+	la forme est ellipsoïdale, 1/6 plus longue du nord au sud qu'est-ouest; essentiellement plate, seulement 1/10 aussi profonde que large (11:1.1) (11:2.2)
 	source et point focal de la gravité matérielle absolue (0:4.12) (9:3.1) (11:8.2) (105:3.4)
 	temps inexistant sur (2:1.5) (14:1.11) (54:5.13) (65:8.1-3)
 	tranosta est le système énergétique activé (42:2.18)
@@ -475,7 +475,7 @@ tous les survivants doivent satisfaire aux exigences de (47:1.4,6)
 
 parents | | éducation des enfants; enfants; famille; pères; mères | |
 Les parents affectueux ne sont jamais appelés à pardonner à leurs enfants (174:1.2)
-les enfants sont tenus d'honorer leurs parents (131:2.12) (153:3.3)(163:2.4)
+les enfants sont tenus d'honorer leurs parents (131:2.12) (153:3.3) (163:2.4)
 révéler aux enfants l'amour du Parent du Paradis (84:7.30)
 l'amour divin est la source de l'amour parental (21:0.2)
 responsabilités parentales hautement éducatives et disciplinaires (126:2.2)
@@ -603,7 +603,7 @@ question difficile pour les dirigeants spirituels (127:2.6)
 Le patriotisme romain formel et sans émotion est voué à l'effondrement (98:3.5)
 Les accès de colère insensés de Jude (128:6.7) (128:7.4)
 la loyauté qui rend possible l'État territorial (134:5.8)
-Simon Zelotes était un ardent patriote (139 : 11.9)
+Simon Zelotes était un ardent patriote (139:11.9)
 
 motif | | | |
 configuration de l'énergie qui a payé toute la dette de gravité; non sensible à la gravité (0:6.10-13) (36:6.6)
@@ -613,7 +613,7 @@ Le Fils Éternel est une personnalité modèle (0:6.13) (6:7) (6:8.5) (115:3.4)
 Havona est un modèle pour les univers locaux (4:0.2) (11:9.6) (14:4.15) (14:6.27-37)
 dans les superunivers, seuls quelques êtres parfaits sont prévus (32:3.12)
 domination de l'esprit (42:12)
-non transmissible (11:9,5)
+non transmissible (11:9.5)
 Le paradis est le modèle maître des univers (0:5.5) (0:6.13) (9:3.8) (11:9.5-6) (42:1.1) (104:5.6) (105:3.4) (115:3.14)
 les modèles spirituels n'occupent pas d'espace (118:3.7)
 
@@ -684,7 +684,7 @@ paix sociale
 	les premiers traités commémoraient la paix par la succion du sang et les offrandes de jeunes filles (70:3.10-11)
 	mesure du progrès de la civilisation (70:1.1)
 	l'homme primitif ne pouvait pas vivre longtemps (63:4.9)
-	garanti uniquement par le système de régulation sociale (70:0,2)
+	garanti uniquement par le système de régulation sociale (70:0.2)
 	chercher à vivre en paix avec tous les hommes (178:1.7) (181:2.5)
 	valeur sociale de la paix pour la race jaune (79:6.8)
 	tendance non naturelle; dérive de la révélation (39:5.5) (68:3.5)
@@ -769,7 +769,7 @@ L'Esprit de Vérité a rendu la possession démoniaque impossible après (141:4.
 Les Urantiens peuvent passer directement aux mondes des maisons depuis (52:5.5)
 ce qui s'est passé à (194:1-3)
 
-Pénuel | (165:0,1) | | PLACE |
+Pénuel | (165:0.1) | | PLACE |
 Mission Pérée
 
 Pépi | | | PERSON |
@@ -930,7 +930,7 @@ caractéristiques (9:8.12)
 	Les ajusteurs augmentent la manifestation qualitative de (16:8.3) (109:4) (132:2.5)
 	toujours joignable (9:8.9) (16:9.13)
 	associé dans l'esprit à la mémoire, à la raison, au jugement, à l'imagination, à l'association d'idées, à la décision (9:8.12)
-	peut être ajouté à l'esprit (112:0,14)
+	peut être ajouté à l'esprit (112:0.14)
 	peut commettre un suicide cosmique (112:5.1) (117:4.4)
 	peut consacrer sa volonté à faire la volonté de Dieu (112:0.10)
 	ne peut pas bien fonctionner de manière isolée (112:1.16) (160:2.6) (193:3.2)
@@ -955,7 +955,7 @@ caractéristiques (9:8.12)
 	intrinsèquement créatif (111:4.5) (112:0.5)
 	tend intrinsèquement à unifier toutes les réalités constitutives (56:4.2) (112:1.17-18)
 	l'iniquité prive la personnalité du véhicule de vie continue (2:3.4)
-	est transmissible (11:9,5)
+	est transmissible (11:9.5)
 	parenté de la spontanéité divine (5:6.9)
 	largement libéré de la causalité antérieure (111:4.8)
 	niveau de réalité déifiée (0:5.1)
@@ -969,7 +969,7 @@ caractéristiques (9:8.12)
 	jamais spontané (0:5.4)
 	aucune limitation à l'évolution de (0:5.2)
 	il n'existe pas de personnalités dotées d'un esprit pur (30:1.113)
-	non additionnable; associable mais non totalisable (112:0,12)
+	non additionnable; associable mais non totalisable (112:0.12)
 	pas une réalisation progressive (5:6.3)
 	pas entièrement prévisible (7:1.8) (9:6.8-9) (10:7.4) (12:6.4-5) (14:2.9)
 	pas nécessairement concomitant à l'esprit (29:4.13)
@@ -981,7 +981,7 @@ caractéristiques (9:8.12)
 	la réalité de la personnalité est proportionnelle aux relations avec la divinité (54:1.4)
 	réalisation de la relation fraternelle avec les autres (16:9.13)
 	conscience créatrice relative et contrôle du libre arbitre (5:6.4,6)
-	répond directement aux autres personnalités (112:0,13)
+	répond directement aux autres personnalités (112:0.13)
 	répond au circuit de personnalité (0:6.1) (9:8.6) (12:3.1) (30:1.113) (112:0.8)
 	conserve son identité, est reconnaissable, face à des changements illimités (0:5.11) (16:8.4) (112:0.9) (112:5.20) (130:4.6) (140:4.7)
 	recherche une autre association de personnalité (16:9.13) (104:3.14)
@@ -992,7 +992,7 @@ caractéristiques (9:8.12)
 	la stagnation se termine par la mort (112:5.20)
 	transcende la séquence matérielle des événements (130:7.4)
 	unifie l'expérience avec la matière, l'esprit et l'âme (56:10.15)
-	unifie l'identité de tout système énergétique vivant (112:0,7)
+	unifie l'identité de tout système énergétique vivant (112:0.7)
 	unique (0:5.10) (12:7.9) (16:8.3-4) (103:1.1) (111:4.6) (112:0.12)
 	les conflits non résolus perturbent (111:4.11) (133:7.12)
 désaccord et malentendu, preuve de fait (75:8.7)
@@ -1229,7 +1229,7 @@ réalisations
 	travailleur personnel très tenace et efficace (139:5.8) (141:3.2)
 parmi les 120 à la Pentecôte (194:1.2)
 et les Grecs curieux (174:5.1)
-aux apparitions de Jésus (191:2,5) (192:1-4) (193:0,3,5)
+aux apparitions de Jésus (191:2.5) (192:1-4) (193:0,3,5)
 partenaire commercial de Nathaniel (139:5.1)
 chassé de la ville samaritaine à coups de pierres (162:0.1)
 choisi comme apôtre (137:2)
@@ -1320,7 +1320,7 @@ luttes pour l'émancipation du dogme et de la tradition (12:9.5)
 l'uniformité n'est pas atteignable dans (103:1.1)
 
 Phéniciens | (133:6.2) | | RACE |
-les apôtres ont gagné des âmes parmi (155:4,6) (156:2.3)
+les apôtres ont gagné des âmes parmi (155:4.6) (156:2.3)
 Beth-Marion (148:8.4)
 Considérés comme des serpents porte-parole des mauvais esprits (88:1.5)
 a utilisé la crucifixion comme punition (187:1.5)
@@ -1354,7 +1354,7 @@ matière physique | | matière | |
 nature physique | | chair | |
 
 médecins | | maladie; blessure; médecine | |
-Elman, supervisé à l'hôpital de Bethsaïde (148:0,1) (148:2)
+Elman, supervisé à l'hôpital de Bethsaïde (148:0.1) (148:2)
 Luc (121:8.8)
 s'abstenir de mépriser les moyens matériels de guérison (164:3.15)
 Véronique a beaucoup souffert de la part de nombreux médecins (152:0.2)
@@ -1474,7 +1474,7 @@ Superviseurs du pouvoir morontiel; accordez des formes morontielles à tous les 
 	illumination spirituelle mondiale (52:4.8)
 5ème – ère post-Fils Donné (52:5-6)
 	La 3ème maison se compare à (47:5.3)
-	la durée de vie moyenne dépasse 300 ans (52:5,9)
+	la durée de vie moyenne dépasse 300 ans (52:5.9)
 	la maladie et la délinquance sont pratiquement éliminées (52:5.9)
 	dure de 10 000 à 100 000 ans (52:5.8)
 	l'homme est d'une race, d'une langue et d'une religion (52:5.10)
@@ -1486,7 +1486,7 @@ Superviseurs du pouvoir morontiel; accordez des formes morontielles à tous les 
 	la conclusion des missions des Fils Enseignants marque l'entrée dans la lumière et la vie (52:7.10,14)
 	le gouvernement disparaît (52:7.5)
 	dure plus de 1000 ans (52:7.2)
-	la durée de vie approche les 500 ans (52:7,5)
+	la durée de vie approche les 500 ans (52:7.5)
 	de nombreux mortels ont été enlevés (52:7.4)
 	Le Prince Planétaire élevé au rang de Souverain Planétaire (52:7.10)
 	Les Fils Enseignants peuvent retourner à plusieurs reprises dans le même monde (52:7.10)
@@ -1515,7 +1515,7 @@ La séquence normale d'Urantia perturbée par l'incarnation de Michael (20:4.4-5
 séraphins auxiliaires planétaires | (39:5) | séraphins | ORDER |
 1/3 perdu dans la rébellion de Lucifer (53:7.7)
 Séraphins du 5ème ordre (51:3.5)
-accompagnent toujours les Adams planétaires; généralement au nombre de 100 000 (39:5) (51:3,5)
+accompagnent toujours les Adams planétaires; généralement au nombre de 100 000 (39:5) (51:3.5)
 la majorité d'Urantia a été supprimée suite à la défaillance d'Adam (39:5.2)
 résidence dans les cercles de Jérusalem (46:5.22)
 Solonia est le chef d'Urantia (39:5) (51:3.5)
@@ -1543,14 +1543,14 @@ administrations (50:2-4)
 arrivée
 	installé par les Porteurs de Vie (49:5.22)
 	arrivée tardive sur Urantia (65:4.8-9) (66:0.1)
-	apparaissent généralement au moment du développement de la volonté (65:4,8) (66:0,1)
+	apparaissent généralement au moment du développement de la volonté (65:4.8) (66:0.1)
 	arrivent généralement 100 000 ans après que l'homme ait marché debout (52:1.8)
 attribué à toutes les planètes habitées par des mortels (32:2.7) (50:0.1)
 appartiennent à l'ordre des Fils Lanonandeks (20:1.10) (50:0.1)
 commandé par les Souverains de Système sur rapport du Porteur de Vie indiquant que la volonté fonctionne (35:9.5) (50:0.1-2) (51:2.1) (52:1.8) (52:3.1)
 les contrôleurs et les transformateurs collaborent pour rendre les Princes Planétaires visibles aux mortels (50:2.7)
 le premier gouvernement est autocratique (50:2.3)
-le personnel initial compte en moyenne environ 1000 personnes (50:2,4)
+le personnel initial compte en moyenne environ 1000 personnes (50:2.4)
 élevé au rang de Souverains Planétaires dans la lumière et la vie (50:5.11) (51:7.2) (52:7.10) (55:1.1) (55:7.1)
 en tant que Fils Matériel d'urgence, Michael a effectué le repentir des Princes Planétaires défaillants (119:3.4)
 invisible aux mortels (45:5.3) (50:4.9)
@@ -1563,7 +1563,7 @@ mission (50:1)
 approche personnelle la plus proche du Fils Éternel en dehors de l'incarnation (50:1.1)
 aucune confiance élevée n'est considérée comme plus sacrée que celle qui repose sur (67:1.3)
 attaché en permanence aux planètes d'affectation initiale (50:5.1)
-Les princes planétaires de la planète voisine ont fait défaut (72:0,3)
+Les princes planétaires de la planète voisine ont fait défaut (72:0.3)
 rébellion des Princes Planétaires dans Nébadon (35:9.6-10) (50:1.3) | rébellion (spirituelle)
 la rébellion des Princes Planétaires isole instantanément la planète (35:9.9)
 les régimes sont identiques (49:5.18)
@@ -1615,7 +1615,7 @@ origines (41:10) (57:5-7)
 	fission solaire (15:5.7)
 séries un, deux et trois | mortels:types planétaires
 aptitude à la vie
-	toutes les planètes sont destinées à être habitées un jour (1:0,2)
+	toutes les planètes sont destinées à être habitées un jour (1:0.2)
 	pas 1 sur 40 n'est apte à l'habitation (15:6.14-16)
 	toutes les planètes ne sont pas adaptées à l'hébergement de la vie mortelle (49:0.4)
 	petites planètes sombres les mieux adaptées aux expériences sur la vie (23:2.20)
@@ -1642,7 +1642,7 @@ nommé | algues, varech; aloès; angiospermes; anis; pomme; bactéries; orge; h�
 vieille superstition selon laquelle les femmes pourraient mieux élever leurs enfants (84:3.6)
 autrefois fétiches, tabous comme nourriture (88:1.3)
 croissance énergétique pure sur les mondes morontiels (43:6.6)
-plantes à spores presque éteintes après le Permien (60:0,2)
+plantes à spores presque éteintes après le Permien (60:0.2)
 adoration de (85:2.1-2)
 
 plasme | | plasma de vie | |
@@ -1737,7 +1737,7 @@ rapports spatiaux reçus à; les transports séraphiques partent de (39:5.13-15)
 
 police | | gouvernement; règlement (gouvernemental) | |
 quelques policiers peuvent contenir une foule (68:1.4)
-sont célibataires dans une nation continentale (72:7,5)
+sont célibataires dans une nation continentale (72:7.5)
 une force de police internationale peut empêcher des guerres mineures (134:5.10)
 les rois ont favorisé la police secrète (70:7.16)
 les règlements garantissent l'absence de violence (70:9.5) (81:5.5)
@@ -1767,7 +1767,7 @@ a permis aux soldats romains d'arrêter Jésus; a posté 10 gardes, a scellé le
 animosité avec Hérode (185:3.8)
 « Voici l'homme ! » (100:7.1) (185:6.3) (186:2.11)
 construit un aqueduc avec les fonds du temple (185:1.5)
-certain Jésus n'est pas digne de mourir (185:1.9) (185:3,8) (185:5.1,7)
+certain Jésus n'est pas digne de mourir (185:1.9) (185:3.8) (185:5.1,7)
 l'accusation de blasphème n'avait aucun poids avec (184:5.1)
 impressionné par le comportement magistral de Jésus (185:2.15-16)
 Le manque de respect des Juifs pour (185:1.3-4) (185:2.1-5)
@@ -1787,7 +1787,7 @@ position politique
 	Les Juifs menacés d'accusation de trahison (185:1.8) (185:7.5)
 	gouverneur raisonnablement bon (185:1.1)
 	réprimandé par César (185:8.2)
-	Procureur romain de Judée, Samarie et Idumée sous le légat de Syrie (185 :0.1)
+	Procureur romain de Judée, Samarie et Idumée sous le légat de Syrie (185:0.1)
 se retira à Lausanne; se suicida (185:1.6)
 les Galiléens massacrés dans le temple (166:4.4) (185:1.5)
 reddition tragique de (185:8)
@@ -1834,7 +1834,7 @@ surpopulation
 	la réduction de la population favorise le meilleur côté de la nature humaine (68:6.4) (79:1.6) (79:8.2)
 	la nation sage sait quand cesser de croître (81:6.11-12) (81:6.12)
 stationnaire dans la lumière et la vie (55:6.3)
-varie en sens inverse du niveau de vie donné (68:6,3)
+varie en sens inverse du niveau de vie donné (68:6.3)
 
 porc | | porcs | |
 
@@ -1888,10 +1888,10 @@ Potentiel | | Absolus:les trois | |
 ce qui devient (115:3.11)
 
 potentiels | | | |
-tous sont supposément expérientiels (0:7,5) (0:12,2)
+tous sont supposément expérientiels (0:7.5) (0:12.2)
 toujours suprême sur les réalités (102:5.1)
 la Trinité Absolue achevée exprimera tout (106:6.3)
-transmutation en réalités (118 : 4.3)
+transmutation en réalités (118:4.3)
 ce qui doit être sont les mandats intentionnels de la Déité (102:5.1)
 
 nids-de-poule | (61:7.1) | | |
@@ -1937,7 +1937,7 @@ stimule toujours les sentiments religieux (92:1.4)
 la connaissance est le pouvoir (81:6.9)
 notre puissance vient du renouvellement de l'Esprit (34:6.5)
 puissance physique | énergie
-	désigne le niveau électronique de la matière sensible à la gravité linéaire (0:6,2)
+	désigne le niveau électronique de la matière sensible à la gravité linéaire (0:6.2)
 	terme désignant les stades post-gravitationnels de l'énergie (29:2.15) (42:2.1)
 	pouvoir de l'univers | gravita
 position
@@ -1995,7 +1995,7 @@ effet et réponse à la prière
 	antidotes à l'introspection nocive (144:4.6)
 	atteint le degré de contact avec l'Ajusteur (91:2.6)
 	change d'attitude envers la vie (118:10.23)
-	conserve les valeurs les plus élevées (91:1,1) (91:2,1)
+	conserve les valeurs les plus élevées (91:1.1) (91:2.1)
 	guérit de nombreux troubles mentaux et émotionnels (91:6.2)
 	la prière quotidienne est le moyen le plus rapide de surmonter les critiques (91:5.3-5)
 	un retard dans la réponse laisse souvent présager une meilleure réponse (168:4.5)
@@ -2146,10 +2146,10 @@ La Pentecôte a mis fin à la discrimination religieuse fondée sur (194:3.14)
 les préjugés inhibent
 	Le travail des ajusteurs (109:5.3)
 	imagination créatrice (111:4.9)
-	croissance (100:1,2)
+	croissance (100:1.2)
 
 ère pré-vie | | âges géologiques | |
-Archéozoïque, de 1 milliard à 550 millions d'années (59:0,2) (78:7,4)
+Archéozoïque, de 1 milliard à 550 millions d'années (59:0.2) (78:7.4)
 
 entités prépersonnelles | | Ajusteurs de Pensée:nature des Ajusteurs | |
 
@@ -2315,7 +2315,7 @@ parmi les primitifs
 essentiel à la vie nationale moderne (70:9.7) (71:1.4,17)
 institution d'auto-entretien (84:8.6)
 l'homme désire ardemment le droit d'utiliser, de contrôler, de vendre et de léguer (71:2.14)
-gouvernement nécessaire (70:0,1) (71:2,14) (81:2,7)
+gouvernement nécessaire (70:0.1) (71:2.14) (81:2.7)
 le droit à la propriété privée n'est pas absolu, mais tout gouvernement, toute liberté et tout bonheur ont grandi autour (69:9.17)
 
 privilège | | | |
@@ -2325,7 +2325,7 @@ crèche probatoire | (47:2) (49:6.11-14) | | PLACE |
 enfants dans
 	absence de choix pour une carrière ascendante, mourir à la fin de la vie; non
 	jugement (47:2.7)
-	Les enfants sans Ajusteur entrent dans une nurserie probatoire après la survie du parent ayant le statut spirituel le plus avancé (47:2.2)(49:6.11-14)
+	Les enfants sans Ajusteur entrent dans une nurserie probatoire après la survie du parent ayant le statut spirituel le plus avancé (47:2.2) (49:6.11-14)
 	Les Ajusteurs habitent (47:2.3) (49:6.13)
 	sont les pupilles des finalitaires (47:2.2)
 	assisté de gardiens séraphiques, spornagia (47:2.6) (49:6.13)
@@ -2369,7 +2369,7 @@ Proclamation d'Égalité; Proclamation finale d’Égalité | | | |
 Proclamation de Michael sur l'égalité de l'Esprit-Mère (33:3.6)
 
 procrastination | | | |
-la carrière morontielle des traits animaux éradique (48 : 5.8)
+la carrière morontielle des traits animaux éradique (48:5.8)
 
 fils prodigue | | | |
 illustre comment un père aimant peut attendre longtemps le repentir de son enfant fautif (54:4.2)
@@ -2472,7 +2472,7 @@ travail des prophètes
 vénéré par les primitifs (85:6.2)
 
 propitiation | | doctrine de l'expiation; sacrifice | |
-tentatives d'acheter le mauvais sort par la corruption (87:6,2) (89:0,2)
+tentatives d'acheter le mauvais sort par la corruption (87:6.2) (89:0.2)
 idée barbare et erronée (4:5.4) (188:4.1)
 incluait des éloges, des flatteries, et même du divertissement (89:4.7)
 la vie rendue misérable par les cérémonies de (87:5.8)
@@ -2712,7 +2712,7 @@ porte-monnaie | | argent | |
 Pygmées | | | RACE |
 les restes misérables des anciens peuples non sociaux (68:1.6)
 pas d'institution matrimoniale (82:2.2)
-aucune réaction religieuse en tant que classe (91:0,5) (92:6,1)
+aucune réaction religieuse en tant que classe (91:0.5) (92:6.1)
 
 pyramides | | | |
 érigé pour la première fois par l'Andite Imhotep (80:6.4)

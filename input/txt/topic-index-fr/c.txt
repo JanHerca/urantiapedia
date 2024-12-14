@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Césarée | (128:3,2) (130:0,2) (134:7,4) (140:7,2) (152:7,3) | | PLACE | OK
+Césarée | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
 Hérode l'Iduméen construisit le port de Césarée, ce qui contribua encore davantage à faire de la Palestine le carrefour du monde civilisé. (121:2.11)
 C'était la capitale romaine de la Judée (130:2.1) (184:3.17)
 Jésus s'arrêta à Césarée en route vers Rome pendant quelques jours, aidant à réparer l'une des rames du navire et rencontrant et influençant plusieurs personnes, en particulier Anaxandeus, un membre éminent de l'Église chrétienne ultérieure. (130:2)
@@ -19,7 +19,7 @@ Paul fut emprisonné à Césarée (130:2.5)
 > https://en.wikipedia.org/wiki/Caesarea_Maritima
 
 Césarée de Philippe; Césarée-Philippe | (157) (134:8.1,10) (155:3) | | PLACE | OK
-Césarée de Philippe, également connue sous le nom de Dan (134 :7.5)
+Césarée de Philippe, également connue sous le nom de Dan (134:7.5)
 c'était la capitale du domaine du tétrarque Philippe (157:3.1)
 Celse, un disciple de Jésus, était originaire de Césarée de Philippe (157:3.7) (157:4.1) (157:6.1) (158:6.1)
 Véronique, la femme fidèle qui fut guérie lorsqu'elle toucha Jésus, était de Césarée de Philippe (152:0.3)
@@ -83,7 +83,7 @@ géologie
 	des gisements riches en fossiles sont situés le long de la côte de Californie (59:4.12)
 	Il y a 190 000 000 d'années, on a assisté à une extension vers l'ouest de la mer carbonifère nord-américaine sur la région actuelle des montagnes Rocheuses, avec un débouché vers l'océan Pacifique à travers le nord de la Californie. (59:5.19)
 	Il y a 180 millions d'années, la période carbonifère s'est terminée. Des volcans étaient actifs en Alaska et en Californie (59:5.20)
-	La côte Pacifique, habituellement émergée lors des submersions continentales, s'est affaissée à l'exception de la partie sud de la Californie (60:1,8)
+	La côte Pacifique, habituellement émergée lors des submersions continentales, s'est affaissée à l'exception de la partie sud de la Californie (60:1.8)
 	De grandes actions volcaniques se sont produites au sud des Alpes et le long de la ligne des montagnes de la côte californienne actuelle. (60:3.3,6)
 	Il y a 25 000 000 d'années, une légère submersion des terres a suivi la longue période d'élévation des terres. La grande faille verticale de quatre milles dans la région de Californie date de cette époque. (61:3.3)
 > https://en.wikipedia.org/wiki/California
@@ -220,7 +220,7 @@ apparence
 	L'Amérique du Nord fut bientôt envahie par les ruminants : cerfs, bœufs, chameaux, bisons et plusieurs espèces de rhinocéros. D'énormes troupeaux de chevaux rejoignirent les chameaux dans les plaines occidentales de l'Amérique du Nord (61:3.5,10).
 	Les chameaux d'Amérique du Nord sont allés en Chine (61:4.3,4)
 	des lamas et des chameaux ressemblant à des girafes se mêlaient aux chevaux dans les plaines de pâturage (61:4.4)
-	Au cours de ces premières époques de l'ère glaciaire, l'Amérique du Nord était envahie de mastodontes, de mammouths laineux, de chevaux, de chameaux et d'autres animaux (61 : 5.7).
+	Au cours de ces premières époques de l'ère glaciaire, l'Amérique du Nord était envahie de mastodontes, de mammouths laineux, de chevaux, de chameaux et d'autres animaux (61:5.7).
 domestication
 	les chameaux ont été domestiqués vers 5000 av. J.-C. (81:2.12)
 Paroles de Jésus
@@ -281,7 +281,7 @@ tué par les habitants du jardin (75:5.3)
 
 Cap Horn; cap Horn | (60:3.2) (60:3.12) | | PLACE | OK
 
-Capharnaüm | (145) (152) (153) (154) (134:7,5) (137:3,5) (138:1,1) (138:9,3) (147:7) | Bethsaïde | PLACE | OK
+Capharnaüm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Bethsaïde | PLACE | OK
 Capharnaüm était une ville de pêcheurs située au nord de la mer de Galilée
 Bethsaïde était le port de pêche de Capharnaüm (139:1.1)
 Capharnaüm était un poste militaire romain fort sur la route de Damas, et le commandant de la garnison était un gentil croyant en Yahweh (129:1.7)
@@ -631,7 +631,7 @@ Une personne crucifiée ne pouvait pas être enterrée dans un cimetière juif; 
 Le fou Kheresa vivait dans les grottes du cimetière (151:6.2)
 
 Cénozoïque; cénozoïque | | âges géologiques | | OK
-Le Cénozoïque était l'ère des mammifères, d'il y a 50 millions d'années à nos jours (59:0,6) (61:0,2) (61:7,19)
+Le Cénozoïque était l'ère des mammifères, d'il y a 50 millions d'années à nos jours (59:0.6) (61:0.2) (61:7.19)
 > https://en.wikipedia.org/wiki/Cenozoic
 
 censure; censeurs | | divulgation | | OK
@@ -656,7 +656,7 @@ ils ont leur siège social dans les capitales des superunivers; leurs réserves 
 ils sont infaillibles dans leur fonction; ils ne font jamais défaut et ne falsifient pas. (24:2.9)
 Ils ne s'intéressent pas aux enregistrements de votre vie et de vos actions; ils n'enregistrent en aucun cas des personnalités. (24:2.7)
 Ils sont créés de manière à pouvoir maintenir une synchronisation parfaite avec la technique de réflectivité des superunivers (24:2.2)
-possèdent une énorme dotation en antigravité (24:0,10)
+possèdent une énorme dotation en antigravité (24:0.10)
 Salsatia est la directrice du recensement de Nébadon et maintient son siège social dans le secteur Gabriel de Salvington. (24:2.7) (37:8.4)
 Les directeurs du recensement sont une création spéciale et achevée de l'Esprit Infini, et ils existent en nombre inconnu de nous. (24:2.2)
 Usatia est le chef du superunivers de tous les directeurs d'Orvonton (24:2.5)
@@ -670,7 +670,7 @@ Centre des Centres | | Père Universel | PERSON | OK
 mille-pattes | (65:2.5) | | | OK
 
 Amérique centrale | | | PLACE | OK
-une race orange-bleue fusionnée a migré vers le Mexique et l'Amérique centrale (64:7,5)
+une race orange-bleue fusionnée a migré vers le Mexique et l'Amérique centrale (64:7.5)
 Au Mexique, en Amérique centrale et dans les montagnes d'Amérique du Sud, les civilisations les plus durables ont été fondées par une race à prédominance rouge mais contenant un mélange considérable de jaune, d'orange et de bleu. (79:5.8)
 > https://en.wikipedia.org/wiki/Central_America
 
@@ -832,7 +832,7 @@ Jésus a fait un dessin au fusain sur le sol de la synagogue, un portrait de son
 
 charité | | altruisme | | OK
 Juifs
-	Les Hébreux furent la première tribu à accorder une importance suprême au travail; ils furent le premier peuple à décréter que « celui qui ne travaille pas ne mangera pas. » (69:2.5)(140:8.2)(153:2.6)
+	Les Hébreux furent la première tribu à accorder une importance suprême au travail; ils furent le premier peuple à décréter que « celui qui ne travaille pas ne mangera pas. » (69:2.5) (140:8.2) (153:2.6)
 	Les Juifs croyaient que l'aumône était méritoire (164:3.5)
 	Les pharisiens riches étaient des aumôniers dévoués et ne fuyaient pas la publicité concernant leur philanthropie. (147:5.2)
 Jésus
@@ -961,7 +961,7 @@ chef des séraphins d'Urantia | | | PERSON | OK
 le chef des séraphins d'Urantia est celui qui a conseillé les administrateurs judiciaires Melchizédek après la rébellion (67:6.5)
 il ne se passe pas un jour sans que ce patron ne soit conscient d'un transfert réflexif, qu'il soit appelé d'Uversa pour une raison quelconque (28:4.11)
 ils se relaient périodiquement; le chef actuel d'Urantia est le deuxième de l'ordre des supernaphins primaires qui est dans ce service (27:0.2)
-a écrit les articles 82–84, 113, 114 (82 : 6.12) (83 : 8.10) (84 : 8.7) (113 : 7.9) (114 : 7.18)
+a écrit les articles 82–84, 113, 114 (82:6.12) (83:8.10) (84:8.7) (113:7.9) (114:7.18)
 
 grands prêtres | | sanhédrin | | OK
 
@@ -976,7 +976,7 @@ ce chef est l'ange modèle originel du Paradis (27:2.1)
 
 chefs de mission | (27:2) | supernaphins | ORDER | OK
 les chefs de mission sont ceux qui dispersent périodiquement les adorateurs au Paradis, afin que, grâce à son enchantement, ils puissent rester dans l'attitude d'adoration pour toujours (27:7.3)
-ce sont des supernaphins primaires (26:8,5) (27:0,2-9) (27:2,1)
+ce sont des supernaphins primaires (26:8.5) (27:0.2-9) (27:2.1)
 ils sont chargés de renvoyer les candidats défaits pour l'aventure de la Déité en tant que pèlerins vers les superunivers (26:8.5) (26:10.4)
 
 éducation des enfants | | enfants; discipline; famille; maison; mariage; parents | | OK
@@ -1030,7 +1030,7 @@ avertissements
 	un parent sage ne prend jamais parti dans les petites querelles de ses propres enfants (128:1.14) (141:3.3)
 	l'excès de complaisance ajoute à la délinquance et à la démoralisation; il entraîne la perte morale (147:5.9) (177:2.2)
 	la surprotection est néfaste; il faut permettre à l'enfant de vivre une expérience originale (177:2.2-4)
-	la surprotection rend l'enfant conscient de lui-même et égocentrique (123:0,2)
+	la surprotection rend l'enfant conscient de lui-même et égocentrique (123:0.2)
 	L'homme n'est ni sauvé ni ennobli par la pression. La croissance spirituelle jaillit de l'intérieur de l'âme en évolution. La pression peut déformer la personnalité, mais elle ne stimule jamais la croissance. (103:5.11)
 	L'amour divin n'est pas cette affection à courte vue qui gâte et gâte les enfants. (118:10.1)
 	Et toute tentative de transférer la responsabilité parentale à l'État ou à l'Église s'avérera suicidaire pour le bien-être et le progrès de la civilisation. (84:7.27)
@@ -1123,8 +1123,8 @@ La Chine est un pays privilégié sur le plan géographique. Elle est protégée
 	Il y a environ 15 000 ans, les Andites, en nombre considérable, traversaient le col de Ti Tao et se répandaient dans la haute vallée du fleuve Jaune parmi les colonies chinoises du Kansu. Les Chinois du nord reçurent juste assez de la souche andite pour stimuler légèrement leurs esprits naturellement doués (79:7).
 	Les Chinois n'ont commencé à construire des villes et à s'engager dans l'industrie qu'après 10 000 av. J.-C. (79:1.4) (79:7.5)
 	La destruction climatique des riches prairies ouvertes de chasse et de pâturage du Turkestan, à partir de 12 000 av. J.-C., a contraint les hommes de ces régions, ainsi que ceux de Chine, à se lancer dans le commerce (81:3.1).
-	Les Chinois ont appris très tôt la valeur de la paix entre eux. Leur paix intérieure a contribué à l'augmentation de la population au point d'assurer la propagation de leur civilisation parmi des millions de personnes. De 25 000 à 5 000 av. J.-C., la plus grande civilisation de masse se trouvait dans le centre et le nord de la Chine. La Chine a été la première à parvenir à une solidarité raciale – une civilisation culturelle, sociale et politique à grande échelle. (79:6,8)
-	Les similitudes entre certaines des premières méthodes chinoises et mésopotamiennes de calcul du temps, d'astronomie et d'administration gouvernementale étaient dues aux relations commerciales entre elles (79 : 7.6).
+	Les Chinois ont appris très tôt la valeur de la paix entre eux. Leur paix intérieure a contribué à l'augmentation de la population au point d'assurer la propagation de leur civilisation parmi des millions de personnes. De 25 000 à 5 000 av. J.-C., la plus grande civilisation de masse se trouvait dans le centre et le nord de la Chine. La Chine a été la première à parvenir à une solidarité raciale – une civilisation culturelle, sociale et politique à grande échelle. (79:6.8)
+	Les similitudes entre certaines des premières méthodes chinoises et mésopotamiennes de calcul du temps, d'astronomie et d'administration gouvernementale étaient dues aux relations commerciales entre elles (79:7.6).
 	Entre 4000 et 500 av. J.-C., la réunification politique de la race jaune fut consommée, mais l'union culturelle des centres du Yangtze et du fleuve Jaune avait déjà été réalisée. (79:8.5)
 évolution politique
 	Le transfert progressif de l'autodétermination des petites organisations politiques vers des organisations de plus en plus grandes s'est généralement poursuivi sans relâche en Chine depuis l'établissement des dynasties Ming et Mogol, ce qui distingue la Chine du reste du monde. (134:5.9)
@@ -1150,7 +1150,7 @@ Les missionnaires bouddhistes ont bravé les dangers des mers de Chine (94:9.2)
 
 Chinois | (79:5) | Chine; race jaune | RACE | OK
 influences raciales
-	la différence entre les races du nord et du sud en Chine est due à plusieurs facteurs : (79:5,6) (79:6,7)
+	la différence entre les races du nord et du sud en Chine est due à plusieurs facteurs : (79:5.6) (79:6.7)
 	* Les Chinois du Nord ont assimilé une grande partie de la souche rouge lorsqu'ils y vivaient
 	* Les Chinois du Nord ont bénéficié d'un afflux considérable de sang andite
 	* Les Chinois du Sud ont absorbé la race verte et se sont affaiblis par la suite avec les peuples inférieurs chassés de l'Inde
@@ -1159,7 +1159,7 @@ influences raciales
 	Les Chinois de l'an 15 000 avant J.-C. étaient des militaristes énergiques, ils comptaient moins de 12 millions, ils parlaient une langue commune et ils avaient bâti une véritable nation (79:6.9)
 	Le chinois était un élève doué dans l'art de la guerre; implacable et agressif (79:5.5)
 	ils manifestèrent très tôt une capacité marquée à vivre en paix avec leurs compatriotes; les Chinois furent les premiers à apprendre que l'union fait la force. (64:6.14,16) (79:5.5) (79:6.8) (79:8.6)
-	Les Chinois se sont très tôt tournés vers l'agriculture, ce qui a contribué à renforcer leurs tendances pacifiques (79 : 8.2,5).
+	Les Chinois se sont très tôt tournés vers l'agriculture, ce qui a contribué à renforcer leurs tendances pacifiques (79:8.2,5).
 	Les tribus chinoises primitives furent les premières à abandonner la chasse, à établir des communautés sédentaires et à développer une vie familiale basée sur l'agriculture. (64:6.14)
 	les premiers établissements fluviaux chinois ont été perturbés par les inondations (79:6.4)
 	Vers 5000 av. J.-C., les agriculteurs mésopotamiens, turkestanais et chinois avaient commencé à élever des animaux (81:2.12).
@@ -1221,7 +1221,7 @@ dangers de la doctrine
 Christ | | Jésus; Michel de Nébadon | PERSON | OK
 Le divin Jésus, appelé Christ, est devenu une religion, le christianisme (196:2.4)
 Jésus de Nazareth ne doit plus être sacrifié, pas même pour le concept splendide du Christ glorifié, mais doit être présenté comme le Jésus vivant, comme l'idéal de la vie religieuse personnelle (196:1.2) (196:2.5)
-Michael de Nébadon est aussi appelé Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6,5) (102:3,14) (119:8,8-9) (120:0,9) (120:4,2-3) (121:1,1) (121:3,1) (136:5,4) (196:1,1)
+Michael de Nébadon est aussi appelé Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 Christ signifie l'oint (98:7.2)
 
 Église chrétienne primitive; première église chrétienne; église chrétienne primitive; christianisme paulinien; premiers dirigeants du christianisme; paganisation du christianisme; christianisme paganisé; christianisme de Paul; église chrétienne de Paul; christianisme primitif; église institutionnalisée de Paul; hellénisation du christianisme; culte chrétien de Paul; culte croissant du christianisme de Paul; culte chrétien primitif | | Christianisme; Église catholique romaine | RELIGION | OK
@@ -1564,7 +1564,7 @@ dépendances de la civilisation (68:2) (71:4.2-14) (81:6)
 	# emploi obligatoire (71:4.8)
 	# loisir pour penser et planifier (50:5.7) (71:4.9) (78:2.4) (81:2.2,14) (81:6.6)
 	# prendre soin des malheureux (71:4.10)
-	# Rénovation biologique des races – élimination sélective des souches humaines inférieures; formation pédagogique; vivification religieuse (70 : 8.14-18) (71 : 4.11) (79 : 2.6-8) | génétique
+	# Rénovation biologique des races – élimination sélective des souches humaines inférieures; formation pédagogique; vivification religieuse (70:8.14-18) (71:4.11) (79:2.6-8) | génétique
 	# promotion de l'art et de la connaissance scientifique (71:4.12) (81:6.8-10)
 	# la corrélation sagace entre la richesse matérielle, la grandeur intellectuelle, la valeur morale, l'intelligence sociale et la perspicacité cosmique (16:9.4,7) (71:4.14) (81:6.38)
 	# la vraie religion; l'idéalisme spirituel; la liberté de religion (71:4.14) (79:4.9) (79:6.10) (70:9.12) (81:6.27)
@@ -1589,7 +1589,7 @@ dépendances de la civilisation (68:2) (71:4.2-14) (81:6)
 	Beaucoup d'hommes intelligents et bien intentionnés, même à l'époque plus éclairée de ces révélations, soutiennent que la civilisation moderne n'aurait pas pu être édifiée sur les enseignements de Jésus. Mais tous ces sceptiques oublient qu'une civilisation bien meilleure aurait pu être édifiée sur ses enseignements. Le secret d'une civilisation meilleure est lié aux enseignements du Maître sur la fraternité humaine, la bonne volonté de l'amour et la confiance mutuelle. (154:4.6) (194:3.12)
 	Les peuples d'Urantia souffrent des conséquences du bouleversement de Caligastia qui a précipité la confusion mondiale et privé toutes les générations suivantes de l'assistance morale qu'une société bien ordonnée aurait fournie. (34:7.4) (102:8.2)
 	Un système social durable sans une morale fondée sur des réalités spirituelles ne peut pas plus être maintenu que le système solaire sans la gravité. (39:3.7) (195:5.9)
-	La civilisation est un acquis racial; elle n'est pas biologiquement inhérente; par conséquent, tous les enfants doivent être élevés dans un environnement culturel (68 : 0.2)
+	La civilisation est un acquis racial; elle n'est pas biologiquement inhérente; par conséquent, tous les enfants doivent être élevés dans un environnement culturel (68:0.2)
 	La laïcité ne peut jamais apporter la paix à l'humanité. Rien ne peut remplacer Dieu dans la société humaine. La révolte laïque a gagné de nombreuses libertés et satisfactions, mais elle a commis l'erreur d'instituer une révolte contre Dieu lui-même (16:9.7) (80:7.8) (94:6.12) (195:8.6)
 	Dans la civilisation, beaucoup, beaucoup, dépend de l'âge, de l'aide des élévateurs biologiques et des missions ultérieures des divers ordres des Fils divins. (49:5.16)
 	Mais la sécurité de la civilisation elle-même repose toujours sur la volonté croissante d'une génération d'investir dans le bien-être des générations suivantes et futures. (84:7.27)
@@ -2420,7 +2420,7 @@ habitants éminents
 	les ascendeurs ont 71 corps morontiels différents au cours de leur ascension dans la constellation (48:1.5)
 	les constellations sont le principal domaine d'activité des artisans célestes (43:7.4) (44:0.1)
 	Des pépinières de probation similaires sont maintenues sur les sphères finalitaires de la constellation et au siège de l'univers pour les enfants sans Ajusteur des ordres modifiés primaires et secondaires des ascendeurs. (49:6.14)
-	les superviseurs séraphins, univitatia, spironga et spornagia sont affectés au service dans les constellations (43:0,4)
+	les superviseurs séraphins, univitatia, spironga et spornagia sont affectés au service dans les constellations (43:0.4)
 	Les âmes transférées des âges florissants des sphères stables ne passent pas par les mondes des maisons. Elles ne séjournent pas non plus, en tant qu'étudiantes, sur les mondes morontiels du système ou de la constellation. (55:2.9-10)
 	Du service dans les systèmes, les conciliateurs sont promus au rang de conciliateurs de constellation, chargés de régler les problèmes d'une constellation (25:3.8).
 fonctions
@@ -2478,7 +2478,7 @@ La transition de la monarchie à une forme de gouvernement représentative s'est
 À l'heure actuelle, ce gouvernement supérieur envisage d'établir des relations d'ambassadeur avec les peuples inférieurs (72:12.2).
 Cette nation est jugée par deux principaux systèmes judiciaires : les tribunaux de droit commun et les tribunaux socio-économiques. (72:2.9-17) (72:5.4) (72:8.3)
 Les méthodes de ce peuple pour traiter le crime, la folie et la dégénérescence, bien que plaisantes à certains égards, s'avéreront sans doute choquantes à d'autres égards pour la plupart des Urantiens. (72:10)
-Le système éducatif de cette nation est obligatoire et mixte dans les écoles pré-universitaires que l'étudiant fréquente entre 5 et 18 ans. Estas escuelas son muy diferentes a las de Urantia. Il n'y a pas lieu d'étudier une seule matière à la fois, et après les trois premières années, tous les anciens élèves sont convertis en professeurs auxiliaires (72 : 4.1)
+Le système éducatif de cette nation est obligatoire et mixte dans les écoles pré-universitaires que l'étudiant fréquente entre 5 et 18 ans. Estas escuelas son muy diferentes a las de Urantia. Il n'y a pas lieu d'étudier une seule matière à la fois, et après les trois premières années, tous les anciens élèves sont convertis en professeurs auxiliaires (72:4.1)
 Les enseignants spirituels sont sous la direction de la Fondation du progrès spirituel et veillent à ce que les parents éduquent correctement leurs enfants. (72:3.6)
 La vie familiale de ce peuple s'est grandement améliorée au cours du siècle dernier. La fréquentation des écoles parentales de culture infantile est obligatoire pour les parents, pères et mères. (72:3)
 La situation industrielle de ce peuple est loin de ses idéaux; le capital et le travail ont encore leurs problèmes. L'abolition de l'esclavage a eu lieu il y a plus de cent ans (72:5)
@@ -2518,7 +2518,7 @@ la cuisine a diminué la dépense d'énergie vitale nécessaire à la digestion 
 
 cuivre | | | | OK
 le cuivre a été remonté dans la lave (58:7.6)
-les seiches oxygénent le sang avec du cuivre (65:6,4)
+les seiches oxygénent le sang avec du cuivre (65:6.4)
 Une grande partie du cuivre présent dans ces couches rocheuses résulte du dépôt d'eau. (58:7.10)
 Les Andites apprirent très tôt à travailler le fer, l'or et le cuivre. Le cuivre fut ensuite utilisé, mais pas de manière extensive, jusqu'à ce qu'il soit mélangé à de l'étain pour fabriquer le bronze plus dur. (81:3.4-5)
 
@@ -2589,7 +2589,7 @@ ils apparaissent dans le registre de personnalité d'Uversa (30:2.132)
 entreprises
 	il y a mille finalitaires dans chaque compagnie de finalitaires (31:1.3) (47:0.2)
 	les compagnies finalitaires sont uniquement soumises aux mandats d'origine du Paradis jusqu'aux temps mouvementés de l'installation des univers locaux dans la lumière et la vie. (117:7.7)
-	les associés ascendants restent ensemble dans les entreprises (31:0,9)
+	les associés ascendants restent ensemble dans les entreprises (31:0.9)
 	ils sont initialement envoyés pour servir dans tous les superunivers autres que celui de leur origine, et peuvent ensuite servir dans leur propre superunivers (31:0.10)
 	Une ou plusieurs compagnies de finalitaires mortels sont constamment en service sur Urantia. (31:0.10-11)
 	en tant que membres de chaque société finaliste nous avons :
@@ -2630,7 +2630,7 @@ Le Corps de la Perfection est un corps d'univers local. C'est la destinée des a
 corps des citoyens permanents | (30:2.116-128) | | ORDER | OK
 toutes les divisions de l'organisation administrative des univers locaux et des superunivers ont leurs populations plus ou moins permanentes, habitants ayant le statut de citoyens. (37:9.12)
 membres
-	# les médians des planètes évolutionnaires (77)(37:9.11)(48:2)
+	# les médians des planètes évolutionnaires (77) (37:9.11) (48:2)
 	# Fils Matériels des systèmes locaux (51) (37:9.9-10) (45:5)
 	# univitatie des constellations (37:9.8) (43:7)
 	# susatia des univers locaux (37:9.7)
@@ -2689,7 +2689,7 @@ définition
 	L'esprit cosmique est l'esprit de l'espace-temps, qui est coordonné dans l'Être suprême par une technique associative inconnue (9:4.4) (16:6.1) (42:10.6) (116:1.4)
 	l'esprit humain est un circuit de l'esprit cosmique (9:5.4) (111:1.2) (180:5.3)
 emplacement
-	cet esprit est distribué dans les superunivers par les sept Maîtres Esprits (0:3.14) (3:1.8) (9:4.4) (9:7.3) (13:4.3)(16:4.2) (16:6) (42:10.6) (56:2.3) (116:4.3)
+	cet esprit est distribué dans les superunivers par les sept Maîtres Esprits (0:3.14) (3:1.8) (9:4.4) (9:7.3) (13:4.3) (16:4.2) (16:6) (42:10.6) (56:2.3) (116:4.3)
 	Le fait de l'existence du mental cosmique explique la parenté des différents types de mentals humains et suprahumains. Non seulement les esprits apparentés sont attirés les uns vers les autres, mais les esprits apparentés sont aussi très fraternels et enclins à coopérer entre eux. (16:6.3) (194:2.12)
 	Les mondes de Havona sont le laboratoire mental des créateurs de l'esprit cosmique et les ministres de l'esprit de chaque créature existante. (14:6.20-21)
 	opère sous la gravité mentale de l'Esprit Infini (9:7.3)
@@ -2934,7 +2934,7 @@ noms
 origine
 	Lorsque la plénitude de l'idéation spirituelle absolue dans le Fils Éternel rencontre la plénitude du concept de personnalité absolue dans le Père Universel, alors surgit l'être à part entière d'un Fils Créateur nouveau et original (21:1)
 	Les Fils Paradisiaques de Dieu ont une triple origine : les Fils Primaires ou Créateurs sont créés par le Père Universel et le Fils Éternel. Ils constituent l'ordre de Michaël (20:1) (21:0.3-5)
-	Les Fils Créateurs sont divinement semblables à leurs parents du Paradis, mais aucun ne ressemble exactement à un autre. C'est pourquoi leurs domaines sont très divers (21:2.10)(32:3.3) | univers locaux
+	Les Fils Créateurs sont divinement semblables à leurs parents du Paradis, mais aucun ne ressemble exactement à un autre. C'est pourquoi leurs domaines sont très divers (21:2.10) (32:3.3) | univers locaux
 	L'observation des Fils Créateurs révèle que certains ressemblent davantage au Père, d'autres au Fils, tandis que d'autres sont un mélange de leurs deux parents infinis. (33:2.1)
 	Chaque fois que le Père Universel et le Fils Éternel projettent conjointement une pensée nouvelle, originale, identique, unique et absolument personnelle, à cet instant même cette idée créatrice est parfaitement et définitivement personnalisée dans l'être et la personnalité d'un Fils Créateur nouveau et original. (7:6.3) (20:1.11) (20:10.3) (21:0.1) (21:1.1-2)
 	Chaque Michel du Paradis est l'absolu des concepts de la double déité de son origine; il incarne ainsi les phases réelles de l'infinité du Père Universel et du Fils Éternel. (21:6.1)
@@ -2961,7 +2961,7 @@ assistants
 		ils dirigent les univers en l'absence de Fils Créateurs (21:2.11)
 dons de créatures (7:4.5) (23:4) | Michel de Nébadon:dons; Fils Paradisiaques de Dieu:dons
 	Un Fils Créateur a en lui-même le pouvoir de se donner à l'image de n'importe lequel de ses fils créés; il a en lui-même le pouvoir d'abandonner sa vie observable et de la reprendre; et il a ce pouvoir en raison du commandement direct du Père du Paradis. L'attribut de don sans réserve est inhérent aux Fils du Paradis du Père Universel. (119:0.2) (189:0.2)
-	De loin les miracles les plus fascinants de l'univers sont les dons incarnés des Fils du Paradis. (119:3.6)(119:7.5)(120:4.5)(124:6.17)
+	De loin les miracles les plus fascinants de l'univers sont les dons incarnés des Fils du Paradis. (119:3.6) (119:7.5) (120:4.5) (124:6.17)
 	Les sept dons d'un Fils Créateur sous la forme de sept types de créatures se rapportent à la révélation des sept expressions primaires de la volonté et de la nature de la Déité. (21:4)
 	Les Fils Créateurs obtiennent la miséricorde pratique, le jugement équitable et la patience née de l'existence en vivant l'expérience des dons (119:0.6)
 	La carrière de sept dons est le but suprême de tous les Fils Créateurs du Paradis. Ces dons sont les dernières étapes de l'éducation et de la formation des Fils Créateurs pour les tâches sublimes qui consistent à gouverner les univers locaux dans la justice divine et par un jugement juste. (20:5.2) (119:0.4-5) (119:8.2)
@@ -3233,9 +3233,9 @@ Il était strictement interdit par la loi de manifester des sentiments amicaux e
 Une personne crucifiée ne pouvait pas être enterrée dans un cimetière juif (188:1.2)
 crucifié principal
 	* Jésus à Jérusalem, sur le Golgotha (187)
-	* André à Patras, en Achaïe (139 : 1.12)
+	* André à Patras, en Achaïe (139:1.12)
 	* Pierre à Rome (139:2.15)
-	* Philippe à Hiérapolis (139 :5.11-12)
+	* Philippe à Hiérapolis (139:5.11-12)
 	* des milliers de juifs lors de la destruction de Jérusalem, juste quarante ans après la crucifixion de Jésus (187:1.5)
 
 cruauté; cruautés; brutalité | | | | OK
@@ -3341,7 +3341,7 @@ Les gardiens de la connaissance aident à faciliter la consultation du vaste tr�
 Les gardiens de la connaissance sont les résumés finaux et vivants du vaste réseau des anges enregistreurs, allant des séraphins et des seconaphins des univers locaux et superunivers jusqu'aux principaux enregistreurs des supernaphins tertiaires à Havona. (27:5.3)
 Les gardiens supraphiques de la connaissance sont les « épîtres vivantes » supérieures connues et lues par tous ceux qui habitent le Paradis. Elles sont les archives divines de la vérité, les livres vivants de la véritable connaissance. Il est également intrinsèquement impossible qu'une contrevérité s'y loge (27:5.1).
 Ce sont en réalité des bibliothèques vivantes et automatiques, parfois appelées la « bibliothèque vivante du Paradis » (25:5.1) (27:5.1).
-ils font partie des supernaphins primaires (27:0,6)
+ils font partie des supernaphins primaires (27:0.6)
 Ces supernaphins primaires qui possèdent intrinsèquement la connaissance de l'univers sont également responsables de son organisation et de sa classification. (27:5.5)
 au Paradis, les chercheurs de connaissance sont confrontés à des êtres qui sont exactement ce qu'ils recherchent (27:5.2-3)
 Les Voix de la Sagesse en liaison perpétuelle avec les Gardiens de la Connaissance (28:5.7)
@@ -3364,7 +3364,7 @@ Après que le premier jardin fut quitté par Adam, il fut occupé de diverses ma
 
 seiche | (60:2.8) | | | OK
 les seiches sont des descendants des céphalopodes (59:2.11)
-les seiches oxygénent le sang avec du cuivre (65:6,4)
+les seiches oxygénent le sang avec du cuivre (65:6.4)
 
 Cybèle | | | PERSON | OK
 Cybèle est la mère d'Attis dans le culte mystérieux phrygien (98:4.2-8) (98:5.5)
