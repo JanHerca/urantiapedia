@@ -15,7 +15,7 @@
 	<body>
 		<main>
 			<!-- Sidebar -->
-			<div class="d-flex flex-column flex-shrink-0 p-3 bg-dark" style="width: 240px;">
+			<div class="d-flex flex-column flex-shrink-0 p-3 bg-dark" id="sidepanel">
 				<a href="" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-decoration-none" id="btnLogo">
 					<img class="btn btn-light p-0" src="uplogo.svg" alt="Urantiapedia Tools">
 					<span class="px-2">Urantiapedia Tools</span>
@@ -61,6 +61,10 @@
 						</a>
 					</li>
 				</ul>
+				<hr>
+				<button class="btn btn-secondary mt-auto" id="toggleButton">
+					<i class="bi bi-arrow-left-right"></i>
+				</button>
 			</div>
 			
 			<div class="tab-content p-3 bg-light" id="tabContent">
@@ -443,6 +447,10 @@
 										<span id="lblTILanguage2" class="input-group-text">Language 2</span>
 									</div>
 									<select id="drpTILanguage2" class="custom-select custom-select-sm"></select>
+									<div class="input-group-prepend">
+										<span id="lblTILanguage3" class="input-group-text">Language 3</span>
+									</div>
+									<select id="drpTILanguage3" class="custom-select custom-select-sm"></select>
 								</div>
 							</div>
 							<div class="p-0 mb-2 flex-grow-1">

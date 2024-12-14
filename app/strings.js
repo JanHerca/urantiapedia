@@ -1447,9 +1447,14 @@ const Strings = {
 		fr: "Langue principale (à modifier)"
 	},
 	"lblTILanguage2": {
-		en: "Secondary Language",
-		es: "Idioma Secundario",
-		fr: "Langue secondaire"
+		en: "Language 2",
+		es: "Idioma 2",
+		fr: "Langue 2"
+	},
+	"lblTILanguage3": {
+		en: "Language 3",
+		es: "Idioma 3",
+		fr: "Langue 3"
 	},
 	"lblTIName": {
 		en: "Name",

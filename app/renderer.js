@@ -58,9 +58,11 @@ const bookSearch2 = new Book();
 //Instances for Topic Editor
 const topicindexEdit = new TopicIndex();
 const topicindexEdit2 = new TopicIndex();
+const topicindexEdit3 = new TopicIndex();
 const topicindexEditEN = new TopicIndex();
 const bookEdit = new Book();
 const bookEdit2 = new Book();
+const bookEdit3 = new Book();
 //Instances for Translate
 const translator = new GoogleTranslate();
 const bookTranslate = new Book();
@@ -72,7 +74,7 @@ const bookAirTable = new Book();
 const controls = {
 	//Main
 	btnLogo: '', lblProccesses: '', lblTopicIndex: '', lblSettings: '',
-		lblSearch: '',
+		lblSearch: '', sidepanel: '', toggleButton: '',
 	//Processes
 	lblHTextbox: '', dirHTextbox: '', dirHButton: '', 
 	lblTTextbox: '', dirTTextbox: '', dirTButton: '', 
@@ -104,7 +106,9 @@ const controls = {
 	//Topic index editor
 	lblTICategories: '', drpTICategories: '', 
 	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
-	lblTILanguage1: '', drpTILanguage1: '', lblTILanguage2: '', drpTILanguage2: '', 
+	lblTILanguage1: '', drpTILanguage1: '', 
+	lblTILanguage2: '', drpTILanguage2: '', 
+	lblTILanguage3: '', drpTILanguage3: '', 
 	lblTIName: '', txtTIName: '', btnTIURL: '',
 	lblTIAliases: '', txtTIAliases: '', btnTIEditAlias: '', 
 	lblTIRevised: '', chkTIRevised: '', 
@@ -146,14 +150,15 @@ const controls = {
 	lblAirTableBaseID: '', txtAirTableBaseID: '', toggleAirTableBaseID: ''
 };
 const controlsToDisable = [
-	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 'btnTISaveChanges', 
-	'btnTIEditAlias', 'btnTIEditRef', 'btnTIEditSeeAlso', 'btnTIEditLink', 
-	'drpTILanguage1', 'drpTILanguage2', 'chkTIRevised', 'drpTICategory'
+	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 
+	'btnTISaveChanges', 'btnTIEditAlias', 'btnTIEditRef', 'btnTIEditSeeAlso', 
+	'btnTIEditLink', 'drpTILanguage1', 'drpTILanguage2', 'drpTILanguage3', 
+	'chkTIRevised', 'drpTICategory'
 ];
 
 const controlsAirTableToDisable = [
-	'igrAirTableConnect', 'igrAirTableSave', 'igrAirTableConnect', 'igrAirTableImport',
-	'btnAirTableNewPerson', 'btnAirTableAltPerson', 
+	'igrAirTableConnect', 'igrAirTableSave', 'igrAirTableConnect', 
+	'igrAirTableImport', 'btnAirTableNewPerson', 'btnAirTableAltPerson', 
 	'btnAirTableNewLocation', 'btnAirTableAltLocation'
 ];
 
@@ -166,8 +171,8 @@ const logInfos = [];
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpLetters'];
 const languageControls = ['drpLanguage', 'drpTILanguage1', 'drpTILanguage2',
-	'drpSearchLan', 'drpSearchSecondLan', 'drpTranslateLanguage1',
-	'drpTranslateLanguage2'];
+	'drpTILanguage3', 'drpSearchLan', 'drpSearchSecondLan', 
+	'drpTranslateLanguage1', 'drpTranslateLanguage2'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
 const copyTypes = ['Copy plain text', 'Copy Markdown', 'Copy HTML'];
@@ -230,6 +235,7 @@ const onLoad = () => {
 	var c = controls;
 	var handlers = [
 		[c.btnLogo, 'click', handle_btnLogoClick],
+		[c.toggleButton, 'click', handle_toggleSidepanel],
 		//Processes
 		[c.dirHButton, 'click', handle_dirButtonClick, c.dirHTextbox],
 		[c.dirTButton, 'click', handle_dirButtonClick, c.dirTTextbox],
@@ -257,6 +263,7 @@ const onLoad = () => {
 		//Topic Index Editor
 		[c.drpTILanguage1, 'change', handle_drpTILanguage1Change],
 		[c.drpTILanguage2, 'change', handle_drpTILanguage2Change],
+		[c.drpTILanguage3, 'change', handle_drpTILanguage3Change],
 		[c.btnTISaveChanges, 'click', handle_btnTISaveChangesClick],
 		[c.igrTILoadTopics, 'click', handle_igrTILoadTopicsClick],
 		[c.btnTIURL, 'click', handle_btnTIURLClick],
@@ -265,10 +272,14 @@ const onLoad = () => {
 		[c.btnTIEditRef, 'click', handle_btnTIEditRefsClick],
 		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
 		//Translate
-		[c.fnTranslateOriginOpen, 'click', handle_dirButtonClick, c.fnTranslateOriginFolder],
-		[c.fnTranslateOriginClear, 'click', handle_fnClearButton, c.fnTranslateOriginFolder],
-		[c.fnTranslateTargetOpen, 'click', handle_dirButtonClick, c.fnTranslateTargetFolder],
-		[c.fnTranslateTargetClear, 'click', handle_fnClearButton, c.fnTranslateTargetFolder],
+		[c.fnTranslateOriginOpen, 'click', handle_dirButtonClick, 
+			c.fnTranslateOriginFolder],
+		[c.fnTranslateOriginClear, 'click', handle_fnClearButton, 
+			c.fnTranslateOriginFolder],
+		[c.fnTranslateTargetOpen, 'click', handle_dirButtonClick, 
+			c.fnTranslateTargetFolder],
+		[c.fnTranslateTargetClear, 'click', handle_fnClearButton, 
+			c.fnTranslateTargetFolder],
 		[c.translateButton, 'click', handle_translateButton],
 		[c.estimateButton, 'click', handle_estimateButton],
 		//AirTable
@@ -343,6 +354,7 @@ const onLoad = () => {
 	setTIDisabledStatus(true);
 	$(c.drpTILanguage1).attr('disabled', null);
 	$(c.drpTILanguage2).attr('disabled', null);
+	$(c.drpTILanguage3).attr('disabled', null);
 };
 
 const fillDropdown = (control, values, descs, currentValue) => {
@@ -355,6 +367,10 @@ const fillDropdown = (control, values, descs, currentValue) => {
 const handle_btnLogoClick = (evt) => {
 	shell.openExternal('https://github.com/JanHerca/urantiapedia');
 	evt.preventDefault();
+};
+
+const handle_toggleSidepanel = (evt) => {
+	controls.sidepanel.classList.toggle('collapsed');
 };
 
 const updateUI = () => {
@@ -1788,14 +1804,21 @@ const handle_drpTILanguage1Change = (evt) => {
 	const lan1 = controls.drpTILanguage1.value;
 	topicindexEdit.setLanguage(lan1);
 	bookEdit.setLanguage(lan1);
-	loadTITopics(true);
+	// loadTITopics(true);
 };
 
 const handle_drpTILanguage2Change = (evt) => {
 	const lan2 = controls.drpTILanguage2.value;
 	topicindexEdit2.setLanguage(lan2);
 	bookEdit2.setLanguage(lan2);
-	loadTITopics(true);
+	// loadTITopics(true);
+};
+
+const handle_drpTILanguage3Change = (evt) => {
+	const lan3 = controls.drpTILanguage3.value;
+	topicindexEdit3.setLanguage(lan3);
+	bookEdit3.setLanguage(lan3);
+	// loadTITopics(true);
 };
 
 const loadTITopics = (forceLoad) => {
@@ -1811,12 +1834,15 @@ const loadTITopics = (forceLoad) => {
 
 	const lan1 = controls.drpTILanguage1.value;
 	const lan2 = controls.drpTILanguage2.value;
+	const lan3 = controls.drpTILanguage3.value;
 	const root = app.getAppPath();
 	const dirTopics1 = path.join(root, 'input', 'txt', `topic-index-${lan1}`);
 	const dirTopics2 = path.join(root, 'input', 'txt', `topic-index-${lan2}`);
+	const dirTopics3 = path.join(root, 'input', 'txt', `topic-index-${lan3}`);
 	const dirTopicsEN = path.join(root, 'input', 'txt', 'topic-index-en');
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
+	const dirBook3 = path.join(root, 'input', 'json', `book-${lan3}-footnotes`);
 	//TODO: use either with or without footnotes, whichever exists
 
 	setTILoading(true);
@@ -1824,14 +1850,17 @@ const loadTITopics = (forceLoad) => {
 	const promises = [
 		topicindexEdit.readFromTXT(dirTopics1, 'ALL'),
 		topicindexEdit2.readFromTXT(dirTopics2, 'ALL'),
+		topicindexEdit3.readFromTXT(dirTopics3, 'ALL'),
 		topicindexEditEN.readFromTXT(dirTopicsEN, 'ALL'),
 		bookEdit.readFromJSON(dirBook1),
-		bookEdit2.readFromJSON(dirBook2)
+		bookEdit2.readFromJSON(dirBook2),
+		bookEdit3.readFromJSON(dirBook3),
 	];
 	Promise.all(promises)
 		.then(() => Promise.all([
 			topicindexEdit.check(bookEdit),
-			topicindexEdit2.check(bookEdit2)
+			topicindexEdit2.check(bookEdit2),
+			topicindexEdit3.check(bookEdit3),
 		]))
 		.then(() => {
 			showTITopics();
@@ -1921,12 +1950,14 @@ const showTITopic = () => {
 	let lan1 = controls.drpTILanguage1.value;
 	const sorting = topic.sorting;
 	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
+	const topic3 = topicindexEdit3.topics.find(t => t.sorting === sorting);
 	const aliases = (topic.altnames ? topic.altnames : []);
 	const refs = (topic.refs ? topic.refs : []);
 	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
 	const links = (topic.externalLinks ? topic.externalLinks : []);
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
+	const lines3 = (topic3.lines ? topic3.lines : []);
 	const topicErrs = (topic.errors ? 
 		topic.errors.filter(er => er.fileline === topic.fileline) : []);
 	const pagename = (topicEN ? topicEN.name.replace(/ /g, '_') : 'not_found');
@@ -1957,23 +1988,29 @@ const showTITopic = () => {
 	extendArray(linesHTML, lines
 		.map((line, i) => {
 			const line2 = lines2[i];
+			const line3 = lines3[i];
 			const errs1 = (topic.errors ? 
 				topic.errors.filter(er => er.fileline === line.fileline): []);
-			const errs2 = (topic.errors ? 
+			const errs2 = (topic2.errors ? 
 				topic2.errors.filter(er => er.fileline === line2.fileline): []);
+			const errs3 = (topic3.errors ? 
+				topic3.errors.filter(er => er.fileline === line3.fileline): []);
 			const errRows = errs1.map(err => {
 				const err2 = errs2.find(er => er.fileline === err.fileline);
+				const err3 = errs3.find(er => er.fileline === err.fileline);
 				return `<div class="row alert alert-danger p-0 mb-0">
-							<div class="col-6">${err.desc}</div>
-							<div class="col-6">${(err2 ? err2.desc: '')}</div>
+							<div class="col-4">${err.desc}</div>
+							<div class="col-4">${(err2 ? err2.desc: '')}</div>
+							<div class="col-4">${(err3 ? err3.desc: '')}</div>
 						</div>`;
 			}).join('');
 			return `<div class="list-group-item btn-sm list-group-item-action 
 						py-0 px-2 flex-column align-items-start">
 						<div class="row">
 							<div class="d-none up-fileline">${line.fileline}</div>
-							<div class="col-6">${line.text}</div>
-							<div class="col-6">${line2.text}</div>
+							<div class="col-4">${line.text}</div>
+							<div class="col-4">${line2.text}</div>
+							<div class="col-4">${line3.text}</div>
 						</div>
 						${errRows}
 						<div class="row">
@@ -2013,18 +2050,26 @@ const showTILinesUB = () => {
 	const topic2 = topicindexEdit2.topics.find(t => {
 		return (t.filename === topic.filename && t.fileline === topic.fileline);
 	});
+	const topic3 = topicindexEdit3.topics.find(t => {
+		return (t.filename === topic.filename && t.fileline === topic.fileline);
+	});
 	const is1EN = (bookEdit.language === 'en');
 	const is2EN = (bookEdit2.language === 'en');
+	const is3EN = (bookEdit3.language === 'en');
 
 	const line1 = topic.lines.find(ln => ln.fileline === filelineEditing);
 	const line2 = topic2.lines.find(ln => ln.fileline === filelineEditing);
+	const line3 = topic3.lines.find(ln => ln.fileline === filelineEditing);
 
 	const names1 = [topic.name.split('(')[0].trim(), ...topic.altnames];
 	const spans1 = names1.map(name => `<span class="text-primary">${name}</span>`);
 	const names2 = (topic2 ? 
 		[topic2.name.split('(')[0].trim(), ...topic2.altnames] : []);
 	const spans2 = names2.map(name => `<span class="text-primary">${name}</span>`);
-	const fnGetPars = (r1, r2) => {
+	const names3 = (topic3 ? 
+		[topic3.name.split('(')[0].trim(), ...topic3.altnames] : []);
+	const spans3 = names3.map(name => `<span class="text-primary">${name}</span>`);
+	const fnGetPars = (r1, r2, r3) => {
 		const errs = [];
 		let similarSen1 = '';
 		let par1 = bookEdit.toParInHTML(r1, errs);
@@ -2036,20 +2081,38 @@ const showTILinesUB = () => {
 		const par2Plain = bookEdit2.toParInPlainText(r2, []);
 		par2 = replaceWords(names2, spans2, par2);
 
+		let similarSen3 = '';
+		let par3 = bookEdit3.toParInHTML(r3, errs);
+		const par3Plain = bookEdit3.toParInPlainText(r3, []);
+		par3 = replaceWords(names3, spans3, par3);
+
 		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
 		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
+		const ref3 = (r3 ? ` [${r3[0]}:${r3[1]}.${r3[2]}]` : '');
 		const linkref1 = getParLink(bookEdit, r1, copyTypes[0]);
 		const linkref2 = getParLink(bookEdit2, r2, copyTypes[0]);
+		const linkref3 = getParLink(bookEdit3, r3, copyTypes[0]);
 
-		//Highlight and show a Copy button in the sentence most similar to current
+		//Highlight and show a Copy button in the sentence most similar 
+		// to current
 		// This is only available when one language is english and the other not
-		// This restriction is due to english is an index created manually and any
-		// other language is created by translations from english
-		const parEN = (is1EN ? par1Plain : is2EN ? par2Plain : null);
-		const parNotEN = (!is1EN ? par1Plain : !is2EN ? par2Plain : null);
-		const lineEN = (is1EN ? line1 : is2EN ? line2 : null);
+		// This restriction is due to english is an index created manually 
+		// and any other language is created by translations from english
+		const parEN = (is1EN 
+			? par1Plain : is2EN 
+				? par2Plain : is3EN 
+					? par3Plain : null);
+		const parNotEN = (!is1EN 
+			? par1Plain : !is2EN 
+				? par2Plain : !is3EN
+					? par3Plain : null);
+		const lineEN = (is1EN 
+			? line1 : is2EN 
+				? line2 : is3EN
+					? line3 : null);
 		if (parEN && parNotEN && lineEN) {
-			const similar = getMostSimilarSentence(parEN, parNotEN, lineEN.text);
+			const similar = getMostSimilarSentence(parEN, parNotEN, 
+				lineEN.text);
 			//TODO: If no similar sentence is found but there is only one ref to
 			// one par then use all par as similar
 			if (similar.length > 0) {
@@ -2058,38 +2121,48 @@ const showTILinesUB = () => {
 				const index = similar[2];
 				similarSen1 = (is1EN ? similarSenEN : similarSenNotEN);
 				similarSen2 = (is2EN ? similarSenEN : similarSenNotEN);
+				similarSen3 = (is3EN ? similarSenEN : similarSenNotEN);
 				
-				//TODO: next lines could fail for some languages with different sentence endings
+				//TODO: next lines could fail for some languages with 
+				// different sentence endings
 				const arSen1 = par1.replace(/([.?!])/g, "$1|").split("|");
 				const arSen2 = par2.replace(/([.?!])/g, "$1|").split("|");
-				if (arSen1.length > index && arSen2.length > index) {
+				const arSen3 = par3.replace(/([.?!])/g, "$1|").split("|");
+				if (
+					arSen1.length > index && 
+					arSen2.length > index && 
+					arSen3.length > index
+				) {
 					arSen1[index] = `<strong>${arSen1[index]}</strong>`;
 					arSen2[index] = `<strong>${arSen2[index]}</strong>`;
+					arSen3[index] = `<strong>${arSen3[index]}</strong>`;
 				}
 				par1 = arSen1.join(' ');
 				par2 = arSen2.join(' ');
+				par3 = arSen3.join(' ');
 			}
 		}
 		
 		return createBookParsFn({
 			rowClass: [],
-			errclass: (r1 == null || r2 == null ? 
+			errclass: (r1 == null || r2 == null || r3 == null ? 
 				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
-			pars: [par1, par2],
-			refs: [ref1, ref2],
-			textToCopy: [similarSen1, similarSen2],
-			linkToCopy: [linkref1, linkref2]
+			pars: [par1, par2, par3],
+			refs: [ref1, ref2, ref3],
+			textToCopy: [similarSen1, similarSen2, similarSen3],
+			linkToCopy: [linkref1, linkref2, linkref3]
 		});
 	};
 	const refs1 = bookEdit.getArrayOfRefs(line1.refs);
 	const refs2 = bookEdit2.getArrayOfRefs(line1.refs);
+	const refs3 = bookEdit3.getArrayOfRefs(line1.refs);
 
 	//Unhandle
 	$(controls.lbxTIUBLines).find('button').off('click');
 
 	//Fill listbox
 	controls.lbxTIUBLines.innerHTML = refs1.map((r, i) => {
-		return fnGetPars(refs1[i], refs2[i]);
+		return fnGetPars(refs1[i], refs2[i], refs3[i]);
 	}).join('');
 
 	//Handle

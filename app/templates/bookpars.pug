@@ -4,18 +4,25 @@
 	
 div(class=classes)
 	div(class=['row'] class=rowclass)
-		div.col-6!= pars[0]
-		div.col-6!= pars[1]
+		div.col-4!= pars[0]
+		div.col-4!= pars[1]
+		div.col-4!= pars[2]
 	div(class=['row'] class=errclass)
-		div.col-6.text-right.py-1
+		div.col-4.text-right.py-1
 			span= refs[0]
 			if linkToCopy[0] != ''
 				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=linkToCopy[0]) Copy link
 			if textToCopy[0] != ''
 				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=textToCopy[0]) Copy text
-		div.col-6.text-right.py-1
+		div.col-4.text-right.py-1
 			span= refs[1]
 			if linkToCopy[1] != ''
 				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=linkToCopy[1]) Copy link
 			if textToCopy[1] != ''
 				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=textToCopy[1]) Copy text
+		div.col-4.text-right.py-1
+			span= refs[2]
+			if linkToCopy[2] != ''
+				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=linkToCopy[2]) Copy link
+			if textToCopy[2] != ''
+				button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1(type='button' data-text=textToCopy[2]) Copy text

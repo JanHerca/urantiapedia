@@ -51,3 +51,12 @@ span.person {
 span.location {
     color: cyan;
 }
+#sidepanel {
+    width: 240px;
+}
+#sidepanel.collapsed {
+    width: 80px;
+}
+#sidepanel.collapsed span {
+    display: none;
+}
