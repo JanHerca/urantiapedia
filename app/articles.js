@@ -389,7 +389,8 @@ class Articles {
 					});
 				} else {
 					lines.forEach((line, i) => {
-						const [title, path, author, tags] = line.split('\t');
+						const [title, path, author, tags] = 
+							line.split('\t').map(n => n.trim());
 						const author2 = (author != '' && 
 							!author.startsWith('-') &&
 							!author.startsWith('is-') ? 
@@ -397,9 +398,10 @@ class Articles {
 						const authorLink = (author ? 
 							`/${lan}/article/${author2}` : '');
 						if (author === 'is-title') {
-							this.index.title = title.trim();
+							this.index.title = title;
 							this.index.link = path != '---' ? path : '';
-							this.index.tags = ['Index', 'Article', tags];
+							this.index.tags = ['Index', 'Article', 
+								...(tags != '---' ? [tags]: [])];
 							this.index.sourceText = 
 								this.tr('articlesSource') + ': ';
 						} else if (this.index.title && author === 'is-volume') {
@@ -440,9 +442,9 @@ class Articles {
 								author: (author != '' && 
 									!author.startsWith('-') ? author : ''),
 								authorLink: authorLink,
-								tags: tags && tags.trim().length > 0 
-									? tags.trim().split(',')
-									.map(t => t.trim()) : []
+								tags: tags && tags.length > 0 
+									? tags.split(',').map(t => t.trim()) 
+									: []
 							};
 							currentIssue.articles.push(currentArticle);
 							this.items.push(currentArticle);
