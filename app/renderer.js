@@ -5,6 +5,7 @@ const Store = require('electron-store');
 const path = require('path');
 const fs = require('fs');
 const pug = require('pug');
+const { OpenAI } = require('openai');
 
 const Book = require('./book');
 const Paramony = require('./paramony');
@@ -32,6 +33,8 @@ const createSummaryFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'summary.pug'));
 const createBookParsFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'bookpars.pug'));
+const createTopicLinesFn = pug.compileFile(
+	path.join(app.getAppPath(), 'app', 'templates', 'topiclines.pug'));
 
 const store = new Store();
 //Instances for Processes
@@ -70,6 +73,7 @@ const bookTranslate2 = new Book();
 //Instances for AirTable
 const airTable = new AirTableConnector();
 const bookAirTable = new Book();
+let openai = null;
 
 const controls = {
 	//Main
@@ -104,8 +108,9 @@ const controls = {
 	lblSearchCopyType: '', drpSearchCopyType: '',
 	lbxSearchResultLan: '',
 	//Topic index editor
-	lblTICategories: '', drpTICategories: '', 
-	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
+	lblTICategories: '', drpTICategories: '', lbxTITopics: '',
+	spinTILoading: '', btnTILoadTopics: '', igrTILoadTopics: '', 
+	spinTIOpenAI: '', btnTIOpenAI: '', igrTIOpenAI: '',
 	lblTILanguage1: '', drpTILanguage1: '', 
 	lblTILanguage2: '', drpTILanguage2: '', 
 	lblTILanguage3: '', drpTILanguage3: '', 
@@ -132,22 +137,28 @@ const controls = {
 	translateButton: '', estimateButton: '',
 	translateProgress: '', logAreaTranslate: '',
 	//AirTable
-	igrAirTableConnect: '', spinAirTableConnectWorking: '', btnAirTableConnect: '',
-	igrAirTableImport: '', spinAirTableImportWorking: '', btnAirTableImport: '',
-	igrAirTableSave: '', spinAirTableSaveWorking: '', btnAirTableSave: '',
+	igrAirTableConnect: '', spinAirTableConnectWorking: '', 
+	btnAirTableConnect: '',
+	igrAirTableImport: '', spinAirTableImportWorking: '', 
+	btnAirTableImport: '',
+	igrAirTableSave: '', spinAirTableSaveWorking: '', 
+	btnAirTableSave: '',
 	lbxAirTableTablesCont: '', lbxAirTableTables: '',
 	lblAirTableData: '', lbxAirTableDataCont: '', lbxAirTableData: '',
-	drpAirTableUBPaper: '', lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
+	drpAirTableUBPaper: '', lblAirTableUB: '', lbxAirTableDataCont: '', 
+	lbxAirTableUB: '',
 	btnAirTableNewPerson: '', btnAirTableAltPerson: '',
 	btnAirTableNewLocation: '', btnAirTableAltLocation: '',
-	btnAirTableCaseTitle: '', btnAirTableCaseUpper: '', btnAirTableCaseLower: '',
+	btnAirTableCaseTitle: '', btnAirTableCaseUpper: '', 
+	btnAirTableCaseLower: '',
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
 	lblTheme: '', drpTheme: '',
 	lblTranslateProjectID: '', txtTranslateProjectID: '', toggleTranslateProjectID: '',
 	lblTranslateAPIKey: '', txtTranslateAPIKey: '', toggleTranslateAPIKey: '',
 	lblAirTableAPIKey: '', txtAirTableAPIKey: '', toggleAirTableAPIKey: '',
-	lblAirTableBaseID: '', txtAirTableBaseID: '', toggleAirTableBaseID: ''
+	lblAirTableBaseID: '', txtAirTableBaseID: '', toggleAirTableBaseID: '',
+	lblOpenAIAPIKey: '', txtOpenAIAPIKey: '', toggleOpenAIAPIKey: ''
 };
 const controlsToDisable = [
 	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 
@@ -266,6 +277,7 @@ const onLoad = () => {
 		[c.drpTILanguage3, 'change', handle_drpTILanguage3Change],
 		[c.btnTISaveChanges, 'click', handle_btnTISaveChangesClick],
 		[c.igrTILoadTopics, 'click', handle_igrTILoadTopicsClick],
+		[c.igrTIOpenAI, 'click', handle_igrTIOpenAIClick],
 		[c.btnTIURL, 'click', handle_btnTIURLClick],
 		[c.btnTIEditAlias, 'click', handle_btnTIEditAliasClick],
 		[c.chkTIRevised, 'change', handle_chkTIRevisedChange],
@@ -299,10 +311,12 @@ const onLoad = () => {
 		[c.txtTranslateAPIKey, 'input', handle_txtTranslateAPIKey],
 		[c.txtAirTableAPIKey, 'input', handle_txtAirTableAPIKey],
 		[c.txtAirTableBaseID, 'input', handle_txtAirTableBaseID],
+		[c.txtOpenAIAPIKey, 'input', handle_txtOpenAIAPIKey],
 		[c.toggleTranslateProjectID, 'click', handle_toggleTranslateProjectID],
 		[c.toggleTranslateAPIKey, 'click', handle_toggleTranslateAPIKey],
 		[c.toggleAirTableAPIKey, 'click', handle_toggleAirTableAPIKey],
-		[c.toggleAirTableBaseID, 'click', handle_toggleAirTableBaseID]
+		[c.toggleAirTableBaseID, 'click', handle_toggleAirTableBaseID],
+		[c.toggleOpenAIAPIKey, 'click', handle_toggleOpenAIAPIKey],
 	];
 
 	handlers.forEach(h => {
@@ -339,6 +353,8 @@ const onLoad = () => {
 		settings.airTableAPIKey);
 	settings.airTableBaseID = store.get('airTableBaseID',
 		settings.airTableBaseID);
+	settings.openAIAPIKey = store.get('openAIAPIKey',
+		settings.openAIAPIKey);
 	fillDropdown(c.drpTheme, themes.map(t => t.toLowerCase()), themes,
 		settings.theme);
 	c.drpUILanguage.value = settings.language;
@@ -347,6 +363,15 @@ const onLoad = () => {
 	c.txtTranslateAPIKey.value = (settings.translateAPIKey || '');
 	c.txtAirTableAPIKey.value = (settings.airTableAPIKey || '');
 	c.txtAirTableBaseID.value = (settings.airTableBaseID || '');
+	c.txtOpenAIAPIKey.value = (settings.openAIAPIKey || '');
+
+	if (c.txtOpenAIAPIKey.value != '') {
+		openai = new OpenAI({
+			apiKey: c.txtOpenAIAPIKey.value,
+			dangerouslyAllowBrowser: true
+		});
+	}
+
 	handle_drpUILanguageChange();
 	handle_drpThemeChange();
 	handle_drpProcessChange();
@@ -1794,6 +1819,26 @@ const handle_igrTILoadTopicsClick = (evt) => {
 	evt.preventDefault();
 };
 
+const handle_igrTIOpenAIClick = async (evt) => {
+	// const text = 'Quiero una frase coherente y con sentido elaborada a partir de este enunciado escueto: "influenciado por el jainismo, el islam, el cristianismo", utilizando este párrafo para obtener la frase: "Con el paso de los siglos, el pueblo de la India volvió hasta cierto punto a los antiguos rituales de los Vedas, tal como éstos habían sido modificados por las enseñanzas de los misioneros de Melquisedek y cristalizados por el clero brahmánico posterior. Esta religión, la más antigua y la más cosmopolita del mundo, ha sufrido cambios adicionales en respuesta al budismo, al jainismo, y a las influencias del mahometismo y el cristianismo que aparecieron después. Pero cuando llegaron las enseñanzas de Jesús, ya estaban tan occidentalizadas que sólo eran una «religión del hombre blanco», por lo tanto extrañas y ajenas para la mente hindú." El resultado sólo debe utilizar lo que aparece en el enunciado, de la forma más breve posible.';
+	const text = 'Quiero una frase coherente, con sentido y lo más breve posible, elaborada utilizando sólo lo que aparece en este enunciado acerca del "hinduismo": "influenciado por el jainismo, el islam, el cristianismo", y utilizando este párrafo para obtener la frase: "Con el paso de los siglos, el pueblo de la India volvió hasta cierto punto a los antiguos rituales de los Vedas, tal como éstos habían sido modificados por las enseñanzas de los misioneros de Melquisedek y cristalizados por el clero brahmánico posterior. Esta religión, la más antigua y la más cosmopolita del mundo, ha sufrido cambios adicionales en respuesta al budismo, al jainismo, y a las influencias del mahometismo y el cristianismo que aparecieron después. Pero cuando llegaron las enseñanzas de Jesús, ya estaban tan occidentalizadas que sólo eran una «religión del hombre blanco», por lo tanto extrañas y ajenas para la mente hindú."';
+	if (openai) {
+		try {
+			const response = await openai.chat.completions.create({
+				model: 'gpt-3.5-turbo',
+				messages: [{
+					role: 'user',
+					content: [{type: 'text', text}]
+				}]
+			});
+			console.log(response.choices[0].message);
+		} catch (error) {
+			console.error("Error:", error);
+		}
+
+	}
+};
+
 const handle_btnTIURLClick = (evt) => {
 	const url = $(controls.btnTIURL).text();
 	shell.openExternal(url);
@@ -1977,6 +2022,8 @@ const showTITopic = () => {
 	$(controls.lbxTILines).find('.list-group-item').off('click');
 
 	//Fill lines listbox
+
+
 	const linesHTML = [];
 	extendArray(linesHTML, topicErrs
 		.map(er => {
@@ -1985,39 +2032,60 @@ const showTITopic = () => {
 						<div class="alert alert-danger py-0 px-2 mb-0">${er.desc}</div>
 					</div>`;
 		}));
-	extendArray(linesHTML, lines
-		.map((line, i) => {
-			const line2 = lines2[i];
-			const line3 = lines3[i];
-			const errs1 = (topic.errors ? 
-				topic.errors.filter(er => er.fileline === line.fileline): []);
-			const errs2 = (topic2.errors ? 
-				topic2.errors.filter(er => er.fileline === line2.fileline): []);
-			const errs3 = (topic3.errors ? 
-				topic3.errors.filter(er => er.fileline === line3.fileline): []);
-			const errRows = errs1.map(err => {
-				const err2 = errs2.find(er => er.fileline === err.fileline);
-				const err3 = errs3.find(er => er.fileline === err.fileline);
-				return `<div class="row alert alert-danger p-0 mb-0">
-							<div class="col-4">${err.desc}</div>
-							<div class="col-4">${(err2 ? err2.desc: '')}</div>
-							<div class="col-4">${(err3 ? err3.desc: '')}</div>
-						</div>`;
-			}).join('');
-			return `<div class="list-group-item btn-sm list-group-item-action 
-						py-0 px-2 flex-column align-items-start">
-						<div class="row">
-							<div class="d-none up-fileline">${line.fileline}</div>
-							<div class="col-4">${line.text}</div>
-							<div class="col-4">${line2.text}</div>
-							<div class="col-4">${line3.text}</div>
-						</div>
-						${errRows}
-						<div class="row">
-							<div class="col-12 text-right">${line.refs.join(', ')}</div>
-						</div>
-					</div>`;
-		}));
+	// extendArray(linesHTML, lines
+	// 	.map((line, i) => {
+	// 		const line2 = lines2[i];
+	// 		const line3 = lines3[i];
+	// 		const errs1 = (topic.errors ? 
+	// 			topic.errors.filter(er => er.fileline === line.fileline): []);
+	// 		const errs2 = (topic2.errors ? 
+	// 			topic2.errors.filter(er => er.fileline === line2.fileline): []);
+	// 		const errs3 = (topic3.errors ? 
+	// 			topic3.errors.filter(er => er.fileline === line3.fileline): []);
+	// 		const errRows = errs1.map(err => {
+	// 			const err2 = errs2.find(er => er.fileline === err.fileline);
+	// 			const err3 = errs3.find(er => er.fileline === err.fileline);
+	// 			return `<div class="row alert alert-danger p-0 mb-0">
+	// 						<div class="col-4">${err.desc}</div>
+	// 						<div class="col-4">${(err2 ? err2.desc: '')}</div>
+	// 						<div class="col-4">${(err3 ? err3.desc: '')}</div>
+	// 					</div>`;
+	// 		}).join('');
+	// 		return `<div class="list-group-item btn-sm list-group-item-action 
+	// 					py-0 px-2 flex-column align-items-start">
+	// 					<div class="row">
+	// 						<div class="d-none up-fileline">${line.fileline}</div>
+	// 						<div class="col-4">${line.text}</div>
+	// 						<div class="col-4">${line2.text}</div>
+	// 						<div class="col-4">${line3.text}</div>
+	// 					</div>
+	// 					${errRows}
+	// 					<div class="row">
+	// 						<div class="col-12 text-right">${line.refs.join(', ')}</div>
+	// 					</div>
+	// 				</div>`;
+	// 	}));
+
+	extendArray(linesHTML, lines.map((line, i) => {
+		const line2 = lines2[i];
+		const line3 = lines3[i];
+		const errs1 = (topic.errors ? 
+			topic.errors.filter(er => er.fileline === line.fileline): []);
+		const errs2 = (topic2.errors ? 
+			topic2.errors.filter(er => er.fileline === line2.fileline): []);
+		const errs3 = (topic3.errors ? 
+			topic3.errors.filter(er => er.fileline === line3.fileline): []);
+		const errors = errs1.map(err => {
+			const err2 = errs2.find(er => er.fileline === err.fileline);
+			const err3 = errs3.find(er => er.fileline === err.fileline);
+			return [err.desc, (err2 ? err2.desc: ''), (err3 ? err3.desc: '')];
+		});
+		return createTopicLinesFn({
+			lines: [line.text, line2.text, line3.text],
+			errors,
+			refs: line.refs.join(', '),
+		})
+	}));
 	controls.lbxTILines.innerHTML = linesHTML.join('');
 
 	//Handle
@@ -2742,60 +2810,58 @@ const handle_drpThemeChange = (evt) => {
 		`../node_modules/bootswatch/dist/${theme}/bootstrap.css`);
 };
 
+const saveSecretValue = (textbox, name) => {
+	const value = controls[textbox].value;
+	settings[name] = value;
+	store.set(name, settings[name]);
+};
+
 const handle_txtTranslateProjectID = (evt) => {
-	const projectID = controls.txtTranslateProjectID.value;
-	settings.translateProjectID = projectID;
-	store.set('translateProjectID', settings.translateProjectID);
+	saveSecretValue('txtTranslateProjectID', 'translateProjectID');
 };
 
 const handle_txtTranslateAPIKey = (evt) => {
-	const apiKey = controls.txtTranslateAPIKey.value;
-	settings.translateAPIKey = apiKey;
-	store.set('translateAPIKey', settings.translateAPIKey);
+	saveSecretValue('txtTranslateAPIKey', 'translateAPIKey');
 };
 
 const handle_txtAirTableAPIKey = (evt) => {
-	const apiKey = controls.txtAirTableAPIKey.value;
-	settings.airTableAPIKey = apiKey;
-	store.set('airTableAPIKey', settings.airTableAPIKey);
+	saveSecretValue('txtAirTableAPIKey', 'airTableAPIKey');
 };
 
 const handle_txtAirTableBaseID = (evt) => {
-	const baseID = controls.txtAirTableBaseID.value;
-	settings.airTableBaseID = baseID;
-	store.set('airTableBaseID', settings.airTableBaseID);
+	saveSecretValue('txtAirTableBaseID', 'airTableBaseID');
+};
+
+const handle_txtOpenAIAPIKey = (evt) => {
+	saveSecretValue('txtOpenAIAPIKey', 'openAIAPIKey');
+};
+
+const toggleSecretValue = (button, textbox) => {
+	$(controls[button]).find('i')
+		.toggleClass('bi-eye-fill bi-eye-slash-fill');
+	const type = $(controls[textbox]).attr('type');
+	$(controls[textbox])
+		.attr('type', type === 'text' ? 'password' : 'text');
 };
 
 const handle_toggleTranslateProjectID = (evt) => {
-	$(controls.toggleAirTableAPIKey).find('i')
-		.toggleClass('bi-eye-fill bi-eye-slash-fill');
-	const type = $(controls.txtTranslateProjectID).attr('type');
-	$(controls.txtTranslateProjectID)
-		.attr('type', type === 'text' ? 'password' : 'text');
+	toggleSecretValue('toggleTranslateProjectID', 'txtTranslateProjectID');
 };
 
 const handle_toggleTranslateAPIKey = (evt) => {
-	$(controls.toggleAirTableAPIKey).find('i')
-		.toggleClass('bi-eye-fill bi-eye-slash-fill');
-	const type = $(controls.txtTranslateAPIKey).attr('type');
-	$(controls.txtTranslateAPIKey)
-		.attr('type', type === 'text' ? 'password' : 'text');
+	toggleSecretValue('toggleTranslateAPIKey', 'txtTranslateAPIKey');
 };
 
 const handle_toggleAirTableAPIKey = (evt) => {
-	$(controls.toggleAirTableAPIKey).find('i')
-		.toggleClass('bi-eye-fill bi-eye-slash-fill');
-	const type = $(controls.txtAirTableAPIKey).attr('type');
-	$(controls.txtAirTableAPIKey)
-		.attr('type', type === 'text' ? 'password' : 'text');
+	toggleSecretValue('toggleAirTableAPIKey', 'txtAirTableAPIKey');
 };
 
 const handle_toggleAirTableBaseID = (evt) => {
-	$(controls.toggleAirTableBaseID).find('i')
-		.toggleClass('bi-eye-fill bi-eye-slash-fill');
-	const type = $(controls.txtAirTableBaseID).attr('type');
-	$(controls.txtAirTableBaseID)
-		.attr('type', type === 'text' ? 'password' : 'text');
+	toggleSecretValue('toggleAirTableBaseID', 'txtAirTableBaseID');
+};
+
+const handle_toggleOpenAIAPIKey = (evt) => {
+	toggleSecretValue('toggleOpenAIAPIKey', 'txtOpenAIAPIKey');
 };
 
 document.addEventListener('DOMContentLoaded', onLoad);

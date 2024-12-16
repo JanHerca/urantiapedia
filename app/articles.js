@@ -24,11 +24,13 @@ class Articles {
 	index = {
 		title: null,
 		link: null,
-		sourceText: "Source: ",
+		sourceText: "",
 		tags: [],
 		issues: [],
 		volumes: [],
-		language: 'en'
+		language: 'en',
+		notes: [],
+		referencesText: 'References'
 	};
 	items = [];
 	articles = [];
@@ -101,6 +103,7 @@ class Articles {
 		this.index.tags.length = 0;
 		this.index.issues.length = 0;
 		this.index.volumes.length = 0;
+		this.index.notes.length = 0;
 		this.items.length = 0;
 	};
 
@@ -249,7 +252,10 @@ class Articles {
 				let currentPar = null;
 				lines.forEach((line, i) => {
 					const tline = line.trim();
-					if (tline.startsWith('---') && tline.indexOf('Page') != -1) {
+					if (
+						tline.startsWith('---') && 
+						tline.indexOf('Page') != -1
+					) {
 						return;
 					}
 					
@@ -337,6 +343,7 @@ class Articles {
 				let currentIssue = null;
 				let currentArticle = null;
 				let issueAnchor = null;
+				let inote = 0;
 				const len = lines[0].split('\t').length;
 				if (len != 2 && len != 4) {
 					reject([this.getError('article_index_missing_data', 1)]);
@@ -350,6 +357,7 @@ class Articles {
 						errIndex + 1)]);
 					return;
 				}
+				this.index.referencesText = this.tr('topic_references');
 				if (len === 2) {
 					lines.forEach((line, i) => {
 						const [title, translation] = line.trim().split('\t');
@@ -359,7 +367,12 @@ class Articles {
 						}
 						const item = this.items.find(t => t.line === i);
 						if (item) {
-							item.title = translation;
+							const [ititle, note] = translation.split('|');
+							item.title = ititle;
+							if (note) {
+								this.index.notes[inote] = note;
+								inote++;
+							}
 						}
 						if (item.articles) {
 							issueAnchor = autoCorrect(translation, correction2)
@@ -385,7 +398,7 @@ class Articles {
 							`/${lan}/article/${author2}` : '');
 						if (author === 'is-title') {
 							this.index.title = title.trim();
-							this.index.link = path;
+							this.index.link = path != '---' ? path : '';
 							this.index.tags = ['Index', 'Article', tags];
 							this.index.sourceText = 
 								this.tr('articlesSource') + ': ';
@@ -404,7 +417,7 @@ class Articles {
 								title: title,
 								line: i,
 								path: indexPath + '#' + issueAnchor,
-								imagePath: path ? path : '',
+								imagePath: path && path != '---' ? path : '',
 								articles: []
 							};
 							if (currentVolume) {
@@ -414,8 +427,14 @@ class Articles {
 							}
 							this.items.push(currentIssue);
 						} else if (currentIssue && title && path) {
+							const [ititle, note] = title.split('|');
+							if (note) {
+								this.index.notes[inote] = note;
+								inote++;
+							}
 							currentArticle = {
-								title: title,
+								title: ititle,
+								note: note ? inote : null,
 								line: i,
 								path: path,
 								author: (author != '' && 
@@ -1285,7 +1304,7 @@ class Articles {
 				const data = [];
 				const issues = [];
 				const [title, publisher] = this.index.title.split('|');
-				const writeReferences = this.index.link != '---';
+				const writeReferences = this.index.link != '';
 				this.index.volumes.forEach(volume => {
 					volume.issues.forEach(issue => issues.push(issue));
 				});

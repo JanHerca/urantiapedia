@@ -469,13 +469,27 @@ It is worth remembering that the articles in all these publications have the quo
 	</div>
 </div>
 
-## Other articles
+## Articles from the readers
 
-Sources: See [References](#references)
+<!-- Articles from readers -->
+<div class="layout row wrap">
+	<!-- Articles from readers -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Readers.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Articles from the readers</div>
+			<div class="urantiapedia-card-text">
+				<div>Articles that are not related to any publication or has not been possible to determine its original newsletter.</div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_other" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
-- [How large is Orvonton, really?](/en/article/How_big_is_Orvonton), Norm Du Val. (Astronomy, Cosmology)
-- [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^, Irwin Ginsburgh. (The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics)
-- [A Letter to Astronomers and Astrophysicists – 2016](/en/article/A_Letter_to_Astronomers_and_Astrophysicists). (Astronomy, Cosmology)
-- [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (The Urantia Book, The Urantia Book—Authorship)
 
-<small>1 - This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2</small>

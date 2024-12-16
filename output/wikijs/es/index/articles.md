@@ -468,13 +468,25 @@ Conviene recordar que los artículos de todas estas publicaciones tienen las cit
 	</div>
 </div>
 
-## Otros artículos
+## Artículos de los lectores
 
-Originales: Ver [Referencias](#referencias)
-
-- [Cómo es de grande Orvonton](/es/article/How_big_is_Orvonton), Norm Du Val. (Astronomy, Cosmology)
-- [Predicciones científicas de _El Libro de Urantia_](/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^, Irwin Ginsburgh. (The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics)
-- [Carta para astrónomos y astrofísicos – 2016](/es/article/A_Letter_to_Astronomers_and_Astrophysicists). (Astronomy, Cosmology)
-- [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (The Urantia Book, The Urantia Book—Authorship)
-
-<small>1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2</small>
+<!-- Articles from readers -->
+<div class="layout row wrap">
+	<!-- Articles from readers -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Readers.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Artículos de los lectores</div>
+			<div class="urantiapedia-card-text">
+				<div>Artículos que no están relacionados con ninguna publicación o que no ha sido posible determinar su edición original.</div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_other" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>índice</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>

@@ -6,8 +6,9 @@
 	'theme--light', 'teal--text']
 	var classes3 = ['decor-outline', 'decor-shadow']
 
-p= sourceText
-	a(href=link)= link
+if link != ''
+	p= sourceText
+		a(href=link)= link
 
 if volumes.length > 0
 	each volume in volumes
@@ -49,6 +50,9 @@ else if issues.length > 0
 					tr
 						td
 							a(href=article.path class="title")= article.title
+							if article.note != null
+								sup.footnote-ref
+									a(href="#fn" + article.note, id="fnref" + article.note)= "[" + article.note + "]"
 							br
 							if article.author != ''
 								a(href=article.authorLink class="mr-2")= article.author
@@ -61,3 +65,11 @@ else if issues.length > 0
 		if issue.imagePath != ''
 			br(style="clear:both;")
 		br
+if notes.length > 0
+	h2= referencesText
+	section.footnotes
+		ol.footnotes-list
+			each note, i in notes
+				li.footnote-item(id="fn" + (i + 1))
+					p= note
+						a.footnote-backref(href="#fnref" + (i + 1))= "↩︎"

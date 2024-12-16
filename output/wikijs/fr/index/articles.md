@@ -474,13 +474,25 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 	</div>
 </div>
 
-## Autres articles
+## Articles des lecteurs
 
-Sources : Voir [Références](#références)
-
-- [Quelle est vraiment la taille d'Orvonton ?](/fr/article/How_big_is_Orvonton), Norm Du Val. (Astronomie, Cosmologie)
-- [Prédictions scientifiques du _Le Livre d'Urantia_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^, Irwin Ginsburgh. (Le Livre d'Urantia, Astronomie, Cosmologie, Biologie et Génétique, Anthropologie, Physique)
-- [Une Lettre aux Astronomes et Astrophysiciens – 2016](/fr/article/A_Letter_to_Astronomers_and_Astrophysicists). (Astronomie, Cosmologie)
-- [Une histoire du Mouvement Urantia](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (Le Livre d'Urantia, Le Livre d'Urantia—Paternité)
-
-<small>1 - Cet article est une mise à jour de 2017 de l'article original publié dans Fellowship Herald, Vol 2. N° 1 et 2</small>
+<!-- Articles from readers -->
+<div class="layout row wrap">
+	<!-- Articles from readers -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Readers.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Articles des lecteurs</div>
+			<div class="urantiapedia-card-text">
+				<div>Articles qui ne sont liés à aucune publication ou dont il n'a pas été possible de déterminer la newsletter d'origine.</div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/index/articles_other" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>

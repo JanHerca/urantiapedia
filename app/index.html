@@ -369,7 +369,7 @@
 				<div class="tab-pane fade" id="topicindex" role="tabpanel" aria-labelledby="topicindex-tab" style="height: 100%;">
 					<div class="d-flex flex-row" style="height: inherit;">
 						<!-- Topic list -->
-						<div class="d-flex flex-column flex-shrink-0 mr-2" style="width: 300px; height: inherit;">
+						<div class="d-flex flex-column flex-shrink-0 mr-2" style="width: 230px; height: inherit;">
 							<div class="p-0 mb-2 flex-grow-1">
 								<div class="input-group input-group-sm">
 									<div class="input-group-prepend">
@@ -411,6 +411,12 @@
 									<button class="btn btn-secondary w-100" type="button">
 										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinTILoading"></span>
 										<span id="btnTILoadTopics">Load topics</span>
+									</button>
+								</div>
+								<div class="input-group input-group-sm" id="igrTIOpenAI">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinTIOpenAI"></span>
+										<span id="btnTIOpenAI">OpenAI</span>
 									</button>
 								</div>
 							</div>
@@ -785,6 +791,19 @@
 							<input id="txtAirTableBaseID" type="password" class="form-control" aria-label="AirTable Base ID">
 							<div class="input-group-append">
 								<button class="btn btn-sm btn-secondary" type="button" id="toggleAirTableBaseID">
+									<i class="bi-eye-fill"></i>
+								</button>
+							</div>
+						</div>
+					</div>
+					<div class="form-group row p-0 mb-2">
+						<div class="input-group input-group-sm col-sm-12">
+							<div class="input-group-prepend">
+								<span id="lblOpenAIAPIKey" class="input-group-text">OpenAI API key:</span>
+							</div>
+							<input id="txtOpenAIAPIKey" type="password" class="form-control" aria-label="OpenAI API key">
+							<div class="input-group-append">
+								<button class="btn btn-sm btn-secondary" type="button" id="toggleOpenAIAPIKey">
 									<i class="bi-eye-fill"></i>
 								</button>
 							</div>
