@@ -1,5 +1,5 @@
 ---
-title: Cómo es de grande Orvonton
+title: "Cómo es de grande Orvonton"
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Norm Du Val** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Norm Du Val<br>© 2021 Jan Herca (traducción)</p>
 
 Mucha gente se ha preguntado y ha especulado con el tamaño real de nuestro superuniverso, el Gran Universo, y el Universo Maestro, etc., especialmente desde que *El Libro de Urantia* y la ciencia no parecen estar en muy buen acuerdo. Así que, ¿cuánto de grande es Orvonton?, y ¿tenemos que cambiar *El Libro de Urantia* para que se ajuste a la ciencia de hoy, o peor, a la ciencia de ayer?
 

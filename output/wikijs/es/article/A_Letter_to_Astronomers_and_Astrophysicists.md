@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: anónimo | Traductor y Editor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">Autor anónimo<br>©2016 Jan Herca, editor</p>
 
 Queridos amigos:
 

@@ -1,5 +1,5 @@
 ---
-title: How large is Orvonton, really?
+title: "How Big is Orvonton, really?"
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Author: **Norm Du Val**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Norm Du Val</p>
 
 Many people have wondered and speculated as to the true size of our Superuniverse, The Grand Universe, and the Master Universe, etc., especially since *The Urantia Book* and science do not seem to be in very good agreement. And it may be as *The Urantia Book* says, -that people are discovering “errors on the face of the associated cosmologies” in *The Urantia Book*. So, how big is Orvonton, and do we have to change *The Urantia Book* in order to make it fit the “science du jour”, or worse, the science of yesterday?
 
