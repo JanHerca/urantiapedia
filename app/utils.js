@@ -1271,35 +1271,25 @@ exports.sentenceSimilarity = (s1, s2) => {
 };
 
 /**
- * Returns the most similar sentence in a paragraph to the given sentence. Returns
- * an array with the values: first the most similar sentence in english, second
- * the most similar sentence in the other language, and third the index of the
- * most similar in the list of sentences in the paragraph. If no sentence is found 
- * similar then returns an empty array. `parEN` and `sEN` params should be in 
- * english to work correctly.
- * @param {string} parEN Paragraph in english.
- * @param {string} par Paragraph in other language.
- * @param {string} sEN Sentence to search (in english).
- * @returns {Array}
+ * Returns the most similar sentence in a paragraph to the given sentence.
+ * @param {string} par Paragraph.
+ * @param {string} sentence Sentence to search.
+ * @returns {(string|null)}
  */
-exports.getMostSimilarSentence = (parEN, par, sEN) => {
-	//Split english parragraph into sentences
-	const arSenEN = parEN.replace(/([.?!])/g, "$1|").split("|");
-	//TODO: next line could fail for some languages with different sentence endings
-	// and in spanish is breaking sentences at long numbers (ex: 2.000.000)
+exports.getMostSimilarSentence = (par, sentence) => {
+	//Split parragraph into sentences
+	//Careful: some languages has points at long numbers (ex: 2.000.000)
+	// const arSen = par.split(/(?<=[.!?;:])\s+/);
 	const arSen = par.replace(/([.?!])/g, "$1|").split("|");
-
-	if (arSenEN.length === 0 || arSen.length === 0) return [];
+	if (arSen.length === 0) return null;
 
 	//Map to arrays of [sentence, similarity]
-	const arSenSimEN = arSenEN.map(sen => [sen, exports.sentenceSimilarity(sen, sEN)]);
+	const arSenSim = arSen
+		.map(sen => [sen, exports.sentenceSimilarity(sen, sentence)]);
 	//Order arrays by similarity
-	arSenSimEN.sort((a,b) => b[1] - a[1]);
+	arSenSim.sort((a,b) => b[1] - a[1]);
 
-	const mostSim = (arSenSimEN[0][1] > 0.5 ? arSenSimEN[0][0] : null);
-	if (!mostSim) return [];
-	const index = arSenEN.indexOf(mostSim);
-	return [mostSim, arSen[index], index];
+	return (arSenSim[0][1] > 0.5 ? arSenSim[0][0] : null);
 };
 
 /**

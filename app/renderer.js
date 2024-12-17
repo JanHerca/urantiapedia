@@ -2007,7 +2007,7 @@ const showTITopic = () => {
 		topic.errors.filter(er => er.fileline === topic.fileline) : []);
 	const pagename = (topicEN ? topicEN.name.replace(/ /g, '_') : 'not_found');
 	lan1 = (lan1 === 'en' ? '' : '/' + lan1);
-	const url = `http://urantiapedia.org${lan1}/topic/${pagename}`
+	const url = `http://urantiapedia.org${lan1}/topic/${pagename}`;
 
 	controls.txtTIName.value = topicEditing;
 	controls.txtTIAliases.value = aliases.join('; ');
@@ -2022,71 +2022,30 @@ const showTITopic = () => {
 	$(controls.lbxTILines).find('.list-group-item').off('click');
 
 	//Fill lines listbox
+	const filterErrors = (objs) => {
+		return [topic, topic2, topic3].map((t, i) => {
+			return (t.errors || [])
+				.filter(er => er.fileline === objs[i].fileline)
+				.map(er => er.desc);
+		});
+	};
 
-
-	const linesHTML = [];
-	extendArray(linesHTML, topicErrs
-		.map(er => {
-			return `<div class="list-group-item btn-sm list-group-item-action 
-						flex-column align-items-start p-0">
-						<div class="alert alert-danger py-0 px-2 mb-0">${er.desc}</div>
-					</div>`;
-		}));
-	// extendArray(linesHTML, lines
-	// 	.map((line, i) => {
-	// 		const line2 = lines2[i];
-	// 		const line3 = lines3[i];
-	// 		const errs1 = (topic.errors ? 
-	// 			topic.errors.filter(er => er.fileline === line.fileline): []);
-	// 		const errs2 = (topic2.errors ? 
-	// 			topic2.errors.filter(er => er.fileline === line2.fileline): []);
-	// 		const errs3 = (topic3.errors ? 
-	// 			topic3.errors.filter(er => er.fileline === line3.fileline): []);
-	// 		const errRows = errs1.map(err => {
-	// 			const err2 = errs2.find(er => er.fileline === err.fileline);
-	// 			const err3 = errs3.find(er => er.fileline === err.fileline);
-	// 			return `<div class="row alert alert-danger p-0 mb-0">
-	// 						<div class="col-4">${err.desc}</div>
-	// 						<div class="col-4">${(err2 ? err2.desc: '')}</div>
-	// 						<div class="col-4">${(err3 ? err3.desc: '')}</div>
-	// 					</div>`;
-	// 		}).join('');
-	// 		return `<div class="list-group-item btn-sm list-group-item-action 
-	// 					py-0 px-2 flex-column align-items-start">
-	// 					<div class="row">
-	// 						<div class="d-none up-fileline">${line.fileline}</div>
-	// 						<div class="col-4">${line.text}</div>
-	// 						<div class="col-4">${line2.text}</div>
-	// 						<div class="col-4">${line3.text}</div>
-	// 					</div>
-	// 					${errRows}
-	// 					<div class="row">
-	// 						<div class="col-12 text-right">${line.refs.join(', ')}</div>
-	// 					</div>
-	// 				</div>`;
-	// 	}));
-
-	extendArray(linesHTML, lines.map((line, i) => {
+	const topicErrors = filterErrors([topic, topic2, topic3]);	
+	const topicLines = lines.map((line, i) => {
 		const line2 = lines2[i];
 		const line3 = lines3[i];
-		const errs1 = (topic.errors ? 
-			topic.errors.filter(er => er.fileline === line.fileline): []);
-		const errs2 = (topic2.errors ? 
-			topic2.errors.filter(er => er.fileline === line2.fileline): []);
-		const errs3 = (topic3.errors ? 
-			topic3.errors.filter(er => er.fileline === line3.fileline): []);
-		const errors = errs1.map(err => {
-			const err2 = errs2.find(er => er.fileline === err.fileline);
-			const err3 = errs3.find(er => er.fileline === err.fileline);
-			return [err.desc, (err2 ? err2.desc: ''), (err3 ? err3.desc: '')];
-		});
-		return createTopicLinesFn({
-			lines: [line.text, line2.text, line3.text],
+		const errors = filterErrors([line, line2, line3]);
+		return {
+			fileline: line.fileline,
+			lines: [line, line2, line3],
 			errors,
 			refs: line.refs.join(', '),
-		})
-	}));
-	controls.lbxTILines.innerHTML = linesHTML.join('');
+		}
+	})
+	controls.lbxTILines.innerHTML = createTopicLinesFn({
+		topicErrors,
+		topicLines,
+	});
 
 	//Handle
 	$(controls.lbxTILines).find('.list-group-item').on('click', function() {
@@ -2121,117 +2080,58 @@ const showTILinesUB = () => {
 	const topic3 = topicindexEdit3.topics.find(t => {
 		return (t.filename === topic.filename && t.fileline === topic.fileline);
 	});
-	const is1EN = (bookEdit.language === 'en');
-	const is2EN = (bookEdit2.language === 'en');
-	const is3EN = (bookEdit3.language === 'en');
 
 	const line1 = topic.lines.find(ln => ln.fileline === filelineEditing);
 	const line2 = topic2.lines.find(ln => ln.fileline === filelineEditing);
 	const line3 = topic3.lines.find(ln => ln.fileline === filelineEditing);
 
-	const names1 = [topic.name.split('(')[0].trim(), ...topic.altnames];
-	const spans1 = names1.map(name => `<span class="text-primary">${name}</span>`);
-	const names2 = (topic2 ? 
-		[topic2.name.split('(')[0].trim(), ...topic2.altnames] : []);
-	const spans2 = names2.map(name => `<span class="text-primary">${name}</span>`);
-	const names3 = (topic3 ? 
-		[topic3.name.split('(')[0].trim(), ...topic3.altnames] : []);
-	const spans3 = names3.map(name => `<span class="text-primary">${name}</span>`);
-	const fnGetPars = (r1, r2, r3) => {
+	const getPar = (t, book, r, errs) => {
+		const names = [t.name.split('(')[0].trim(), ...t.altnames];
+		const spans = names.map(n => `<span class="text-primary">${n}</span>`);
+		let par = book.toParInHTML(r, errs);
+		const parPlain = book.toParInPlainText(r, []);
+		par = replaceWords(names, spans, par);
+		return [parPlain, par];
+	}
+
+	const fnGetPars = (r) => {
 		const errs = [];
-		let similarSen1 = '';
-		let par1 = bookEdit.toParInHTML(r1, errs);
-		const par1Plain = bookEdit.toParInPlainText(r1, []);
-		par1 = replaceWords(names1, spans1, par1);
 
-		let similarSen2 = '';
-		let par2 = bookEdit2.toParInHTML(r2, errs);
-		const par2Plain = bookEdit2.toParInPlainText(r2, []);
-		par2 = replaceWords(names2, spans2, par2);
+		let [par1Plain, par1] = getPar(topic, bookEdit, r, errs);
+		let [par2Plain, par2] = getPar(topic2, bookEdit2, r, errs);
+		let [par3Plain, par3] = getPar(topic3, bookEdit3, r, errs);
 
-		let similarSen3 = '';
-		let par3 = bookEdit3.toParInHTML(r3, errs);
-		const par3Plain = bookEdit3.toParInPlainText(r3, []);
-		par3 = replaceWords(names3, spans3, par3);
+		const ref = (r ? ` [${r[0]}:${r[1]}.${r[2]}]` : '');
+		const linkref1 = getParLink(bookEdit, r, copyTypes[0]);
+		const linkref2 = getParLink(bookEdit2, r, copyTypes[0]);
+		const linkref3 = getParLink(bookEdit3, r, copyTypes[0]);
 
-		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
-		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
-		const ref3 = (r3 ? ` [${r3[0]}:${r3[1]}.${r3[2]}]` : '');
-		const linkref1 = getParLink(bookEdit, r1, copyTypes[0]);
-		const linkref2 = getParLink(bookEdit2, r2, copyTypes[0]);
-		const linkref3 = getParLink(bookEdit3, r3, copyTypes[0]);
+		const sim1 = getMostSimilarSentence(par1Plain, line1.text);
+		const sim2 = getMostSimilarSentence(par2Plain, line2.text);
+		const sim3 = getMostSimilarSentence(par3Plain, line3.text);
 
-		//Highlight and show a Copy button in the sentence most similar 
-		// to current
-		// This is only available when one language is english and the other not
-		// This restriction is due to english is an index created manually 
-		// and any other language is created by translations from english
-		const parEN = (is1EN 
-			? par1Plain : is2EN 
-				? par2Plain : is3EN 
-					? par3Plain : null);
-		const parNotEN = (!is1EN 
-			? par1Plain : !is2EN 
-				? par2Plain : !is3EN
-					? par3Plain : null);
-		const lineEN = (is1EN 
-			? line1 : is2EN 
-				? line2 : is3EN
-					? line3 : null);
-		if (parEN && parNotEN && lineEN) {
-			const similar = getMostSimilarSentence(parEN, parNotEN, 
-				lineEN.text);
-			//TODO: If no similar sentence is found but there is only one ref to
-			// one par then use all par as similar
-			if (similar.length > 0) {
-				const similarSenEN = similar[0];
-				const similarSenNotEN = similar[1];
-				const index = similar[2];
-				similarSen1 = (is1EN ? similarSenEN : similarSenNotEN);
-				similarSen2 = (is2EN ? similarSenEN : similarSenNotEN);
-				similarSen3 = (is3EN ? similarSenEN : similarSenNotEN);
-				
-				//TODO: next lines could fail for some languages with 
-				// different sentence endings
-				const arSen1 = par1.replace(/([.?!])/g, "$1|").split("|");
-				const arSen2 = par2.replace(/([.?!])/g, "$1|").split("|");
-				const arSen3 = par3.replace(/([.?!])/g, "$1|").split("|");
-				if (
-					arSen1.length > index && 
-					arSen2.length > index && 
-					arSen3.length > index
-				) {
-					arSen1[index] = `<strong>${arSen1[index]}</strong>`;
-					arSen2[index] = `<strong>${arSen2[index]}</strong>`;
-					arSen3[index] = `<strong>${arSen3[index]}</strong>`;
-				}
-				par1 = arSen1.join(' ');
-				par2 = arSen2.join(' ');
-				par3 = arSen3.join(' ');
-			}
-		}
+		par1 = sim1 ? par1.replace(sim1, `<strong>${sim1}</strong>`) : par1;
+		par2 = sim2 ? par2.replace(sim2, `<strong>${sim2}</strong>`) : par2;
+		par3 = sim3 ? par3.replace(sim3, `<strong>${sim3}</strong>`) : par3;
 		
 		return createBookParsFn({
 			rowClass: [],
-			errclass: (r1 == null || r2 == null || r3 == null ? 
-				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
+			errclass: r == null
+				? ['alert', 'alert-danger', 'mb-0', 'py-0'] 
+				: [],
 			pars: [par1, par2, par3],
-			refs: [ref1, ref2, ref3],
-			textToCopy: [similarSen1, similarSen2, similarSen3],
+			refs: [ref, ref, ref],
+			textToCopy: [sim1, sim2, sim3],
 			linkToCopy: [linkref1, linkref2, linkref3]
 		});
 	};
-	const refs1 = bookEdit.getArrayOfRefs(line1.refs);
-	const refs2 = bookEdit2.getArrayOfRefs(line1.refs);
-	const refs3 = bookEdit3.getArrayOfRefs(line1.refs);
+	const refs = bookEdit.getArrayOfRefs(line1.refs);
 
 	//Unhandle
 	$(controls.lbxTIUBLines).find('button').off('click');
 
 	//Fill listbox
-	controls.lbxTIUBLines.innerHTML = refs1.map((r, i) => {
-		return fnGetPars(refs1[i], refs2[i], refs3[i]);
-	}).join('');
+	controls.lbxTIUBLines.innerHTML = refs.map(r => fnGetPars(r)).join('');
 
 	//Handle
 	$(controls.lbxTIUBLines).find('button').on('click', function(evt) {

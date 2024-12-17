@@ -1,23 +1,29 @@
 - var classes = ['list-group-item', 'btn-sm', 'list-group-item-action', 'py-0', 'flex-column', 'align-items-start']
-- var colclass = lines.length > 2 ? 'col-4' : 'col-6'
 - var n = 0
 
 div(class=classes)
 	div.py-1.row
-		while n < lines.length
-			div.px-1(class=colclass)
+		while n < 3
+			div.px-1.col-4
 				div.input-group.input-group-sm
 					button.btn.btn-secondary.w-100(type='button')
 						span.spinner-border.spinner-border-sm.d-none(role='status' aria-hidden='true')
 						span Request OpenAI
 			- n++
-	div.row
-		div.d-none.up-fileline fileline
-		each text in lines
-			div.px-1(class=colclass) text
-		each error in errors
-			div.row.alert.alert-danger.p-0.mb-0
-				each desc in error
-					div(class=colclass) desc
+div(class=classes)
+	div.py-1.row
+		each topicError in topicErrors
+			div.px-1.col-4
+				each desc in topicError
+					div.alert.alert-danger.py-0.px-2.mb-0= desc
+each topicLine in topicLines
+	div(class=classes)
 		div.row
-			div.col-12.text-right refs
+			div.d-none.up-fileline= topicLine.fileline
+			each line in topicLine.lines
+				div.px-1.col-4= line.text
+		div.row.alert.alert-danger.p-0.mb-0
+			each desc in topicLine.errors
+				div.col-4= desc
+		div.row
+			div.col-12.text-right= topicLine.refs

@@ -237,7 +237,8 @@ class Book {
 	};
 
 	/**
-	 * Returns an array of arrays with three values [paper_id, section_id, par_id]
+	 * Returns an array of arrays with three values 
+	 * [paper_id, section_id, par_id]
 	 * with all paragraphs included in the references.
 	 * For example '101' returns an array of all paragraphs of paper 101.
 	 * For example '101:2.1,3-4' returns [[101,2,1], [101,2,3], [101,2,4]]
