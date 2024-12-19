@@ -127,7 +127,7 @@ désintégration de l'uranium par émissions de (42:4.12)
 Ragaba | (165:0.1) (166:1) | | PLACE |
 Mission Pérée
 
-rage | | colère | |
+rage | | colère | | OK
 
 pluie | | sécheresse | |
 semble descendre par vagues, mais se présente en fait sous forme de gouttes séparées (41:5.7)
@@ -149,7 +149,7 @@ Mission Pérée
 Ramman | | | PERSON |
 Dieu babylonien de l'air (146:1.1)
 
-doctrine de la rançon | | doctrine de l'expiation | |
+doctrine de la rançon | | doctrine de l'expiation | | OK
 
 Rantowoc | | | PERSON |
 premier mortel à obtenir un gardien personnel de sa destinée (113:2.2)
@@ -360,7 +360,7 @@ les mortels résidents ascendants servent (18:5.2)
 Personnalités de la Trinité Suprême (18:0.6)
 Les gardiens trinitisés sont des officiers des tribunaux de (18:4.5)
 
-récession des galaxies | | décalage vers le rouge | |
+récession des galaxies | | décalage vers le rouge | | OK
 
 reconnaissance | | flatterie; connaissance; louange | |
 accorder une reconnaissance généreuse pour les choses louables (100:1.8) (159:3.3)
@@ -1108,7 +1108,7 @@ gardiens religieux | | maître séraphin de supervision planétaire | ORDER |
 chefs religieux à Rome | | | |
 Jésus a préparé les missionnaires chrétiens suivants (132:0.4-9)
 
-chefs religieux (Jérusalem) | | sanhédrin | |
+chefs religieux (Jérusalem) | | sanhédrin | | OK
 
 Souper du Souvenir; souper du souvenir; Cène du Seigneur; nouveau sacrement du souvenir; souper du souvenir | (179) | | |
 origine ancienne du repas sacré (89:4.10)
@@ -1150,16 +1150,16 @@ reconnaissance de la méchanceté de ses propres voies (131:8.5) (167:5.2)
 retenue née de (131:3.3)
 le voleur sur la croix s'est repenti (187:4)
 
-repersonnalisation | | résurrection | |
+repersonnalisation | | résurrection | | OK
 
-répression | | contrainte | |
+répression | | contrainte | | OK
 
 reptiliens | (60:1-2) (60:3.14) | crocodiles; dinosaures; ptérosaures; serpents de mer; serpents; tortues | |
 oiseaux descendants de (65:2.8-9)
 les serpents, les lézards, les alligators et les tortues survivent (65:2.10)
 est issu des grenouilles (59:6.8) (65:2.8,10)
 
-recherche | | éducation | |
+recherche | | éducation | | OK
 
 ressentiment | | envie | |
 peut transformer l'amour en haine (177:4.11)
@@ -1311,7 +1311,7 @@ les chambres d'assemblage de vie fournissent une relation d'énergie universelle
 rendez-vous pour les gardiens séraphiques, les Ajusteurs, les Porteurs de Vie et les Archanges de la résurrection (47:3.2)
 temple de l'assemblée de la personnalité sur le premier monde des maisons (47:3.2,5)
 
-représailles | | vengeance | |
+représailles | | vengeance | | OK
 
 retraite | | | |
 à 65 ans dans une nation continentale (72:6.1-2) (72:9.4)
@@ -1429,7 +1429,7 @@ vengeance
 	les grèves de la faim suicidaires étaient des modes de représailles anciens (70:10.10)
 Quand l'ennemi te frappe, tends l'autre joue (159:5.9-15)
 
-retour | | loisirs | |
+retour | | loisirs | | OK
 
 directeurs de réversion | (48:4) | | ORDER |
 tous les êtres célestes jouissent (84:8.5)
@@ -1488,7 +1488,7 @@ riz | | | |
 Les Adamites ont mangé (81:1.8)
 jeté sur les jeunes mariés pour assurer la fécondité (83:4.5)
 
-riche | | richesse:personnes possédant des richesses | |
+riche | | richesse:personnes possédant des richesses | | OK
 
 homme riche et mendiant | | | |
 Parabole du Nazaréen (169:3)
@@ -1500,7 +1500,7 @@ Jésus a souvent donné des conseils similaires à ses disciples aisés (163:2.1
 riche veuve de Tyr | | | |
 cherchait à acheter la guérison (149:1.9)
 
-jeune souverain riche | | Matadormus | |
+jeune souverain riche | | Matadormus | | OK
 
 ridiculiser | | | |
 attention aux fléchettes empoisonnées de (174:0.2)
@@ -1569,7 +1569,7 @@ les rabbins ont enseigné que les ignorants ne pouvaient pas profiter (138:8.7)
 reconnu par Dieu (48:7.12)
 nécessite un contraste avec le mal potentiel (3:5.13)
 
-droits | | droits de l'homme | |
+droits | | droits de l'homme | | OK
 
 Rimmon | (146:1) | | PLACE |
 Jésus a prêché
@@ -1578,7 +1578,7 @@ bague | | | |
 femmes mariées mises à part par (82:2.5)
 l'anneau du fils donné au fils prodigue (169:1.9)
 
-rivalité | | concurrence | |
+rivalité | | concurrence | | OK
 
 lit de rivière | | | |
 ce n'est pas la rivière (100:5.1)
@@ -1745,7 +1745,7 @@ la plupart des structures du monde des manoirs sont sans toit (48:3.15)
 chambre d'été dans la maison des parents du jeune Jésus (123:2.14)
 tuiles enlevées pour abaisser le paralytique (148:9.2)
 
-coqs | | volaille | |
+coqs | | volaille | | OK
 
 têtes rondes | | | |
 Les Andonites étaient (80:5.8)
@@ -1765,7 +1765,7 @@ Jésus a aidé Rufus lorsqu'il a été blessé par un char à bœufs (130:6.6)
 règle de vie | | règle d'or | |
 l'ancienne manière est la suppression et la conformité à (143:2.4)
 
-règles | | loi | |
+règles | | loi | | OK
 
 ruminants | | | |
 comprennent les cerfs, les bœufs, les chameaux, les bisons et les rhinocéros (61:3.5)

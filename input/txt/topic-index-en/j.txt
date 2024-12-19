@@ -1183,11 +1183,11 @@ writings
 Jethro | | | PERSON | 
 Moses’ father-in-law (96:5.3)
 
-Jewelry | | ornamentation | | 
+Jewelry | | ornamentation | | OK
 
-Jewish priesthood | | Levites; Sanhedrin | | 
+Jewish priesthood | | Levites; Sanhedrin | | OK
 
-Jewish religion | | Judaism | | 
+Jewish religion | | Judaism | | OK
 
 Jewish tutor | | | | 
 Jesus known as the Jewish tutor at Corinth (129:3.2)
@@ -1409,7 +1409,7 @@ sooner or later a greater John is to arise (170:5.19)
 thundered parable of Lazarus and Dives (169:3)
 viewed as a prophet (135:6.2) (135:12.2) (173:2.4-5)
 
-John the Revelator | | John Zebedee | PERSON | 
+John the Revelator | | John Zebedee | PERSON | OK
 
 John Zebedee | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | apostles of Jesus | PERSON | 
 actions
@@ -1577,7 +1577,7 @@ believer in Melchizedek (93:9.5,8)
 political circumstances facilitated promotion of Salem teachings in Egypt (95:3.5)
 sold into Egyptian slavery at Dothan (126:1.2)
 
-Joshua ben Joseph | | Jesus | PERSON | 
+Joshua ben Joseph | | Jesus | PERSON | OK
 
 Joshua (Jesus) | | Jesus | PERSON | 
 Gabriel instructed Mary to name her son (122:3.1) (122:8.2)
@@ -1644,7 +1644,7 @@ jubilees | | | |
 7 in ascendant career (27:7.8)
 upon settling of a local universe in light and life (17:3.11)
 
-Judah | | Judea | PLACE | 
+Judah | | Judea | PLACE | OK
 
 Judaism | (97:10) (121:6) | Abraham (Old Testament); apocrypha; ark of Yahweh; Babylonian captivity; El Elyon; El Shaddai; Elohim; Essenes; Jerusalem temple; Jews; Jews (ancient Hebrews); Levites; Moses; Nazarites; Old Testament; Pharisees; prophets; rabbis; Sadducees; Sanhedrin; scribes; Shema; Sheol; Yahweh | RACE | 
 advanced religion of ancient times (92:6.4,14)
@@ -1754,7 +1754,7 @@ secret of survival was centralization of worship at Jerusalem (121:2.6)
 tolerated fringe of gentile believers (121:2.5)
 various Deity titles defined (96:1.2-10)
 
-Judas Alpheus | | Alpheus twins | PERSON | 
+Judas Alpheus | | Alpheus twins | PERSON | OK
 
 Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apostles of Jesus | PERSON | OK
 Judas Iscariot was the twelfth apostle. He was chosen by Nathaniel, and later confirmed in this election by Jesus. He was born in Kerioth, a small town in southern Judea. When he was a lad, his parents moved to Jericho, where he lived and had been employed in his father’s various business enterprises until he became interested in the preaching and work of John the Baptist. (139:6.2) (139:12.1-2)

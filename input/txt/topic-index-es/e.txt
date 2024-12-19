@@ -48,7 +48,7 @@ Sucesos notables
 	Jesús aconsejó a sus discípulos a no inquietarse por hambrunas o terremotos (176:1.1)
 > https://es.wikipedia.org/wiki/Terremoto
 
-lombrices de tierra | (65:2.5) | | | OK
+lombrices de tierra | (65:2.5) | | | 
 
 facilidad; vida cómoda; fácil | | ociosidad; indolencia; ocio; relajación | | OK
 Aceptar la guía de un serafín raras veces significa disfrutar de una vida cómoda. (113:4.3)
@@ -64,7 +64,7 @@ Isla de Pascua | | | PLACE | OK
 La Isla de Pascua fue durante mucho tiempo el centro religioso y administrativo de un grupo de polinesios anditas modificados (78:5.7)
 > https://es.wikipedia.org/wiki/Isla_de_Pascua
 
-Ghates orientales | (79:3.6) | | PLACE | OK
+Ghates orientales | (79:3.6) | | PLACE | 
 
 comiendo | | comida | | OK
 
@@ -89,7 +89,7 @@ El pesimismo manifiesto del Eclesiastés fue una sabia reacción mundana contra 
 eclesiástico | | sacerdotes | | OK
 El poder eclesiástico es ahora y siempre incompatible con la fe viviente, el espíritu creciente y la experiencia de primera mano de los compañeros, por la fe, de Jesús en la fraternidad de los hombres, en la asociación espiritual del reino de los cielos. (195:10.8)
 
-equinodermos | (59:3.11) (59:5.8) | | | OK
+equinodermos | (59:3.11) (59:5.8) | | | 
 
 eclipses; eclipse | | | | OK
 Los nórdicos primitivos pensaban que los eclipses eran causados por un lobo que devoraba una parte del Sol o de la Luna. (85:3.4)
@@ -266,7 +266,7 @@ eficiencia; eficacia | | | | OK
 En la eterna economía de la administración del universo nunca se encuentra una repetición de funciones derrochadora e innecesaria; las Deidades no son dadas a duplicar inútilmente su ministerio universal. (6:4.2)
 La salud, la eficacia mental y la felicidad resultan de la unificación de los sistemas físicos, de los sistemas mentales y de los sistemas espirituales. (100:4.3)
 
-efigies | (88:5.3) | | | OK
+efigies | (88:5.3) | | | 
 
 esfuerzo; esfuerzos | | acción | | OK
 los peregrinos ascendentes descubren el significado que tiene el verdadero estudio y el auténtico esfuerzo mental cuando empiezan a discernir la naturaleza del esfuerzo espiritual aún más agotador y mucho más arduo en Havona (26:7.1)
@@ -1653,7 +1653,7 @@ agotamiento | | fatiga; descanso | | OK
 
 realidad existencial | | realidad:niveles de realidad:realidad existencial | | OK
 
-Éxodo (libro) | (145:2.2) | | | OK
+Éxodo (libro) | (145:2.2) | | | 
 
 exogamia | | matrimonio | | OK
 

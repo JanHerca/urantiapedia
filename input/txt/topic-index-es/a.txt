@@ -584,7 +584,7 @@ junto a los adamitas formaron la raza violeta, una de las nueve razas puras que 
 Aden | | | PERSON | OK
 Aden es un predicador extraño del evangelio que fue convertido por Amós de Jeresa, el demente a quien supuestamente Jesús había curado de una posesión. El apóstol Juan le prohibió predicar, pero él hizo caso omiso y consiguió reunir a un grupo considerable de creyentes, continuando su predicación en Mesopotamia (159:2)
 
-montañas de Adirondack | (58:7.4) | | PLACE | OK
+montañas de Adirondack | (58:7.4) | | PLACE | 
 
 adjudicación; ejercicio de la justicia | | juicio | | OK
 El ejercicio de la justicia es la función más elevada de cualquier gobierno, y aquellos a quienes se les ha encomendado pronunciar los veredictos deberían ser escogidos entre los tipos más elevados y nobles de individuos con mayor experiencia y comprensión. (22:4.3)
@@ -1922,7 +1922,6 @@ En los tiempos de Jesús, tres idiomas prevalecían en Palestina: la gente comú
 > https://es.wikipedia.org/wiki/Dialecto_judeo-arameo
 
 Ararat | | monte Ararat | PLACE | OK
-> https://es.wikipedia.org/wiki/Monte_Ararat
 
 Arbela | | | PLACE | OK
 Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
@@ -2562,7 +2561,7 @@ Atón | | | PERSON | OK
 Dios del sol; Akenatón basó su monoteísmo en Atón (95:5.6-7,11)
 > https://es.wikipedia.org/wiki/Atón
 
-fiesta de la expiación | | judaísmo:fiestas | | OK
+expiación, fiesta de la | | judaísmo:fiestas | | OK
 
 doctrina de la expiación | (186:5) | crucifixión; diablo; perdón; Jesús:muerte; redención | | OK
 toda la doctrina de la expiación es una enseñanza errónea (20:6.6-7) (148:4.7-10) (188:4-5)

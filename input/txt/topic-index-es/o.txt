@@ -38,7 +38,7 @@ confirmó el evangelio de Isaías; sistema de sacrificios atacado sin miedo (97:
 Obán | | | PLACE | 
 sede de Onagar en el Mediterráneo (63:6.7)
 
-obligaciones | | deber | | 
+obligaciones | | deber | | OK
 
 observador | | | | 
 no puede ser algo observado (112:2.12)
@@ -151,9 +151,9 @@ prensa de aceitunas | | | |
 discusión de los apóstoles en (183:4)
 cerca de la entrada a Getsemaní (183:0.3,5)
 
-Olivete | | monte de los Olivos | | 
+Olivete | | monte de los Olivos | | OK
 
-Religión olímpica | | Grecia:religión griega | | 
+Religión olímpica | | Grecia:religión griega | | OK
 
 presagios | | | | 
 se cree que revela la voluntad de los espíritus; los cultistas de fantasmas consideraban todo lo fuera de lo común como un presagio (87:5.9-14)
@@ -234,12 +234,12 @@ libertador espiritual del hombre rojo; vivió hace 65.000 años; trajo
 paz universal (45:4.5) (64:6.7-8)
 enseñó la regla unánime del consejo de los siete (70:5.4)
 
-mortales de un solo cerebro | | cerebros; mortales:tipos planetarios | | 
+mortales de un solo cerebro | | cerebros; mortales:tipos planetarios | | OK
 
 El Dios Único | | | | 
 libro de Akenatón (95:5.7)
 
-Un alto en autoridad | | Los Elevados en Autoridad | | 
+Un alto en autoridad | | Los Elevados en Autoridad | | OK
 
 cien consejos de sanción suprema | | | | 
 presidentes de, constituyen el gabinete de trabajo de Gabriel (33:8.4-5)
@@ -247,9 +247,9 @@ presidentes de, constituyen el gabinete de trabajo de Gabriel (33:8.4-5)
 Verdad Única | | | | 
 Singlangtón proclamó a Dios a la raza amarilla como (64:6.15) (79:6.10) (79:8.4)
 
-ÚNICA SIN CAUSA | | YO SOY | PERSON | 
+ÚNICA SIN CAUSA | | YO SOY | PERSON | OK
 
-Uno que no tiene Nombre ni Número | | Los que no tienen Nombre ni Número | PERSON | 
+Uno que no tiene Nombre ni Número | | Los que no tienen Nombre ni Número | PERSON | OK
 
 rezumar | | | | 
 ascenso del hombre desde (65:2.1)
@@ -297,7 +297,7 @@ se cree que revela la voluntad de los espíritus (87:5.9)
 Los griegos creían en (90:2.8)
 Pueblos latinos consultados oráculos en crisis (98:3.4)
 
-ley oral | | judaísmo:ley oral; tradiciones | | 
+ley oral | | judaísmo:ley oral; tradiciones | | OK
 
 raza naranja | (64:6.10-13) | razas | RACE | 
 creía en la transmigración y la reencarnación (86:4.6)
@@ -431,7 +431,7 @@ nutrias | (61:3.13) | | |
 oudah | | | | 
 creencias de los pigmeos (91:0.5)
 
-espacio exterior | | niveles de espacio | | 
+espacio exterior | | niveles de espacio | | OK
 
 peregrinos exteriores | | niveles de espacio | | 
 pueden convertirse en futuros ciudadanos de Havona (19:6.7)
@@ -445,14 +445,14 @@ universal (12:6)
 sobreplanificación | | | | 
 a veces se derrota a sí mismo (160:4.11)
 
-superpoblación | | población | | 
+superpoblación | | población | | OK
 
 sobreprotección | | crianza de los hijos | | 
 Juan Marcos permitió tener una experiencia original; no estaba sobreprotegido (177:2.2-4)
 
-sobrerevelación | | revelación:sobre revelación | | 
+sobrerevelación | | revelación:sobre revelación | | OK
 
-alma suprema de la creación | | El Supremo | PERSON | 
+alma suprema de la creación | | El Supremo | PERSON | OK
 
 sobreespecialización | | carreras; ganarse la vida; labor; talentos:habilidades | | 
 peligro de la monotonía (81:6.36)

@@ -51,7 +51,7 @@ capital of Sumeria (78:8.10)
 
 Lake Superior | (58:7.5) | | PLACE | 
 
-Lake Urmia | | Urmia | PLACE | 
+Lake Urmia | | Urmia | PLACE | OK
 
 Lake Van | | | PLACE | 
 descendants of Adamson listened to Salem gospel at (93:7.2)
@@ -234,7 +234,7 @@ no word for unselfishness (195:3.3)
 Lausanne | | | PLACE | 
 Pilate retired to L., committed suicide at (185:1.6)
 
-lava | | volcanoes | | 
+lava | | volcanoes | | OK
 
 law | | commandments; courts; judgment; justice; lawyers | | 
 at first negative and prohibitive, later directive (70:11.2)
@@ -314,7 +314,7 @@ wealthy; inherited extensive vineyards and olive orchards (168:0.4) (172:1.7)
 Lazarus (of Nazarite parable) | | | | 
 parable of Lazarus and Dives (169:3)
 
-laziness | | indolence | | 
+laziness | | indolence | | OK
 
 lead | | | | 
 2 atomic weights (42:4.12)
@@ -659,7 +659,7 @@ wrote Papers 57–65 (57:8.27) (58:7.13) (59:6.13) (60:4.7) (61:7.20) (62:7.8) (
 life-dawn era | (58:4) | | | 
 Proterozoic era (58:7.1) (59:0.3)
 
-life-experiment planets | | decimal planets | | 
+life-experiment planets | | decimal planets | | OK
 
 life flash | | | | 
 energies released at translation (55:2.3-5)
@@ -849,7 +849,7 @@ art of living.
 Pharisees’ 613 rules of (163:4.8)
 water | water of life
 
-living libraries of Paradise | | custodians of knowledge | | 
+living libraries of Paradise | | custodians of knowledge | | OK
 
 living newspapers of Havona | | | | 
 tertiary supernaphim; intelligence co-ordinators (26:3.8)
@@ -859,7 +859,7 @@ descended from nonprogressive reptiles (65:2.10)
 
 llamas | (61:2.9) (61:4.4) (61:7.15) | | | 
 
-loaves | | bread | | 
+loaves | | bread | | OK
 
 lobsters | (59:1.18) (60:2.9) | crustaceans | | 
 also known as locusts (59:5.7)
@@ -1008,7 +1008,7 @@ pledge eternal subordination to enthroned Master Sons (33:3.6)
 Spirit-fused mortals achieve eternal life through (40:5.10)
 will never return to Paradise (14:6.36)
 
-local universe power centers | | local universe centers | ORDER | 
+local universe power centers | | local universe centers | ORDER | OK
 
 Local Universe Sons of God | (35) | Lanonandek Sons; Life Carriers; Melchizedek Sons; Vorondadek Sons | ORDER | 
 default never adjudicated in local universe (33:7.5)
@@ -1108,7 +1108,7 @@ secondary Sangiks were somewhat (81:4.2)
 superior Saharans were (80:2.2)
 typical early Nordics were (80:9.2)
 
-long-suffering | | patience | | 
+long-suffering | | patience | | OK
 
 Longs Peak | (60:4.4) | | PLACE | 
 
@@ -1120,9 +1120,9 @@ adoption by apostles of John and Jesus (144:6.5)
 Jesus formulated at age 15 (126:3.3-4)
 Jesus recited at baptism (136:2.4)
 
-Lord’s Supper | | Remembrance Supper | | 
+Lord’s Supper | | Remembrance Supper | | OK
 
-losing | | defeat | | 
+losing | | defeat | | OK
 
 lost | | | | 
 Father and Son search for (169:1.4)
@@ -1140,9 +1140,9 @@ Abraham’s nephew; went to Salem (93:5.5-9,12)
 Moses gathered descendants of (96:5.9)
 went to Sodom to engage in trade, animal husbandry (93:5.9)
 
-lotion | | ointment | | 
+lotion | | ointment | | OK
 
-lots, casting | | casting lots | | 
+lots, casting | | casting lots | | OK
 
 Louisville | (59:4.6) | | PLACE | 
 
@@ -1449,7 +1449,7 @@ strong believer in social equality (140:8.16)
 
 Luminous Persons | | Deity | | 
 
-lunatics | | insanity | | 
+lunatics | | insanity | | OK
 
 lungs | | | | 
 arthropods’ swim bladders evolved into (59:5.5)

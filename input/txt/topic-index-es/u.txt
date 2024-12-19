@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-ubicuidad | | omnipresencia | | 
+ubicuidad | | omnipresencia | | OK
 
 fealdad | | | | 
 el materialismo y el ateísmo son maximización de (56:10.4)
@@ -32,11 +32,11 @@ rayos infraultimatónicos y ultimatónicos (42:5.3-4)
 originalmente neutral pero luego exhibe cualidades positivas y negativas (11:8.6)
 energías preelectrónicas que no responden a la gravedad lineal (0:6.6)
 
-Último | | Dios Último | PERSON | 
+Último | | Dios Último | PERSON | OK
 
-Deidad suprema | | Dios Último | PERSON | 
+Deidad suprema | | Dios Último | PERSON | OK
 
-último nivel | | realidad:niveles de realidad | | 
+último nivel | | realidad:niveles de realidad | | OK
 
 ultimatón | (42:6.2-6) | átomo; materia | | 
 100 en un electrón, unidos por atracción mutua (42:3.3) (42:4.6) (42:6.4)
@@ -60,7 +60,7 @@ el calor y la presión solares no pueden convertir ultimatón de vuelta a la ene
 propagarse o agruparse de acuerdo con velocidades axiales revolucionarias; no orbitar (42:6.4,6) (42:7.3,10)
 Los Centros Supremos del Poder se transmutan en electrones (42:4.3)
 
-ultraespecialización | | sobreespecialización | | 
+ultraespecialización | | sobreespecialización | | OK
 
 rayos ultravioleta | (42:5.9) | | | 
 
@@ -74,7 +74,7 @@ fetiche preciado (88:1.8)
 Umenor la tercera | | Ensa; sectores menores | PLACE | 
 sede de Ensa, nuestro sector menor (15:7.8) (15:14.7)
 
-unanimidad | | unidad | | 
+unanimidad | | unidad | | OK
 
 incrédulos | | ateísmo; materialismo; laicismo | | 
 Los rasgos aparentemente religiosos pueden surgir de raíces no religiosas (102:7.4)
@@ -112,7 +112,7 @@ Centros Supremos del Poder; actuar como ruedas de equilibrio en esferas de relac
 tío Josué | | | PERSON | 
 los niños se refirieron a Jesús como (128:6.11)
 
-espíritus inmundos | | posesión demoníaca | | 
+espíritus inmundos | | posesión demoníaca | | OK
 
 pastores ayudantes | | | | 
 Ser los pastores ayudantes del rebaño del Padre (165:2.6)
@@ -173,9 +173,9 @@ fomentar y promover el trabajo en equipo (28:5.14)
 en sincronía con los intérpretes de la ética en el Paraíso (28:5.13)
 Seconafines secundarios, asociados reflexivos de los Perfeccionadores de la Sabiduría (28:5.13-14)
 
-Reino Unido | | Islas Británicas | PLACE | 
+Reino Unido | | Islas Británicas | PLACE | OK
 
-Intermedios unidos de Urantia | | intermedios | PERSON | 
+Intermedios unidos de Urantia | | intermedios | PERSON | OK
 
 Estados Unidos de Norteamérica; Estados Unidos de América del Norte; Estados de la Unión Federal Americana; cuarenta y ocho Estados; Unión Federal Americana | (39:5.8) | | PLACE | 
 potencial creativo (82:6.5)
@@ -478,9 +478,9 @@ quien recibe a Jesús, recibe Padre Universal (158:8.1) (162:2.3)
 palabras y actos de subordinados atribuidos a (51:3.5)
 adorar al Padre Universal, primero porque él es (2:5.7) (16:9.14) (149:6.5)
 
-Inteligencia Universal | | Espíritu Infinito | PERSON | 
+Inteligencia Universal | | Espíritu Infinito | PERSON | OK
 
-Mente universal | | Espíritu Infinito | PERSON | 
+Mente universal | | Espíritu Infinito | PERSON | OK
 
 Madre Universal | | | PERSON | 
 El Hijo Eterno es (6:8.1)
@@ -571,12 +571,12 @@ sujeto a Siete Directores Supremos del Poder (24:1.14)
 Coordinadores del Universo y Consejeros de las Constelaciones | | | ORDER | 
 clasificación de los Hijos Lanonandek (35:8.9)
 
-universo de universos | | universo maestro | PLACE | 
+universo de universos | | universo maestro | PLACE | OK
 
 Orientadores Universales | | Serafines | ORDER | 
 Serafines supremos; Facilitar el paso de los ascendentes de alcanzado a no alcanzado (39:1.10-11)
 
-poder del universo | | gravita | | 
+poder del universo | | gravita | | OK
 
 Directores del Poder Universal | (29) | | ORDER | 
 siempre completamente serio (48:4.11)
@@ -615,9 +615,9 @@ trabajo
 	transmutar energía poderosa en ultimatones y de nuevo en energía poderosa (42:6.3)
 	Supervisores de los Circuitos Universales sujetos a (24:1.14)
 
-Hijos del Universo | | Hijos Creadores | ORDER | 
+Hijos del Universo | | Hijos Creadores | ORDER | OK
 
-Espíritus del Universo | | Espíritus Maternos de los universos locales | ORDER | 
+Espíritus del Universo | | Espíritus Maternos de los universos locales | ORDER | OK
 
 Univitatia; univitatias; univitatia | (43:7) | | ORDER | 
 administrar mundos morontiales de constelaciones (43:7.2) (55:9.2)
@@ -639,7 +639,7 @@ desconocido | | | |
 el hombre tiene miedo (132:3.3)
 Pablo sobre el Dios desconocido (195:1.1)
 
-espacio no ocupado | | espacio:espacio no ocupado | PLACE | 
+espacio no ocupado | | espacio:espacio no ocupado | PLACE | OK
 
 Absoluto Incalificado | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | Absolutos:los tres | PERSON | 
 3 de 10 formas de energía dominadas por (29:3.11)
@@ -680,9 +680,9 @@ ejercer la soberanía de la supremacía en universos asentados en la luz y la vi
 personalización de la supremacía espacio-temporal (55:12.4)
 Las ayudas de imagen reflectante representan (15:10.21)
 
-irrealidad | | ilusiones | | 
+irrealidad | | ilusiones | | OK
 
-ley no escrita | | linchamientos | | 
+ley no escrita | | linchamientos | | OK
 
 Upanishads | | | RELIGION | 
 idea metafísica distante de un Absoluto que todo lo abarca (94:2.6-7)
@@ -842,9 +842,9 @@ el futuro
 	algunas actividades ascendentes se concentrarán en Urantia debido al establecimiento aquí de una división de arcángeles (37:3.4)
 	La voluntad de Dios prevalece al final, no siempre en lo que concierne al individuo, pero invariablemente en lo que se refiere a la totalidad. (3:5.3) (12:7.1,7) (115:3.13)
 
-Consejo asesor de Urantia | | veinticuatro consejeros | PERSON | 
+Consejo asesor de Urantia | | veinticuatro consejeros | PERSON | OK
 
-Intermedios de la Hermandad Unida de Urantia | | intermedios | PERSON | 
+Intermedios de la Hermandad Unida de Urantia | | intermedios | PERSON | OK
 
 Documentos de Urantia; documentos; documento; narraciones; narración; memorando; relato; exposición; resumen; adaptación | | idioma:limitaciones del lenguaje humano; revelación | RELIGION | 
 autores

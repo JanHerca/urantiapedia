@@ -279,7 +279,7 @@ assured Eve people with good motives could do no evil (75:4.5)
 influenced Eve by flattery, enthusiasm, personal persuasion (75:3.9)
 slain by Garden dwellers (75:5.3)
 
-Cape Horn | (60:3.2) (60:3.12) | | PLACE | OK
+Cape Horn | (60:3.2) (60:3.12) | | PLACE | 
 
 Capernaum | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Bethsaida | PLACE | OK
 Capernaum was a fishing town located in the north of the Sea of Galilee
@@ -308,7 +308,7 @@ Well-known inhabitants
 	* Simon Zelotes the apostle was also from Capernaum (139:11.1)
 > https://en.wikipedia.org/wiki/Capernaum
 
-Capetown | (66:5.30) | | PLACE | OK
+Capetown | (66:5.30) | | PLACE | 
 
 capital; Capital | | competition; private property; profit | | OK
 Pastoral living afforded further relief from food slavery; man learned to live on the interest of his capital, the increase in his flocks; and this provided more leisure for culture and progress. (68:5.7)
@@ -350,7 +350,7 @@ Matthew preached in Cappadocia (139:7.10)
 captain | | | | OK
 Mind is your ship, the Adjuster is your pilot, the human will is captain. (111:1.9)
 
-Capua | (130:0.2) (130:8.6) | | PLACE | OK
+Capua | (130:0.2) (130:8.6) | | PLACE | 
 
 caravans | | | | OK
 By 7000 B.C. camel trains were making regular trips to distant Mesopotamia (79:3.7)
@@ -396,10 +396,10 @@ a devoted and determined effort to realize eternal destiny is wholly compatible 
 Jesus deplored all tendency toward overspecialization, toward becoming narrow-minded and circumscribed in life’s activities (149:4.3,6) (155:1.4)
 life not real to one who cannot do one thing expertly (160:4.11)
 
-Caribbean region | (59:1.5) (59:2.2) | | PLACE | OK
+Caribbean region | (59:1.5) (59:2.2) | | PLACE | 
 > https://en.wikipedia.org/wiki/Caribbean
 
-Carpathians | (61:1.12) | | PLACE | OK
+Carpathians | (61:1.12) | | PLACE | 
 > https://en.wikipedia.org/wiki/Carpathian_Mountains
 
 carpenter | | | | OK
@@ -409,7 +409,7 @@ Jesus made use of his first and only parable having to do with his own trade, th
 carpenter shop | | | | OK
 Joseph added carpenter shop to Nazareth home (122:6.3)
 
-Carrara marble | (60:1.4) | | | OK
+Carrara marble | (60:1.4) | | | 
 
 carriage of life | | | | OK
 the carriage of life is a metamorphic state in which a transporter seraphim can become to transport immaterial bodies. The seraphim adopts an elongated form surrounded by a queer amber light, and when it takes off it does so at lightninglike speed. (39:5.14)
@@ -667,7 +667,7 @@ creatures that were regarded as half human and half animal, such as centaurs, we
 
 Center of Centers | | Universal Father | PERSON | OK
 
-centipedes | (65:2.5) | | | OK
+centipedes | (65:2.5) | | | 
 
 Central America | | | PLACE | OK
 an amalgamated orange-blue race migrated to Mexico and Central America (64:7.5)
@@ -678,7 +678,7 @@ central universe | | Havona | PLACE | OK
 
 centurions | | Romans:named | | OK
 
-cephalopods | (59:2.11) (59:3.5, 8) (60:1.13) | mollusks | | OK
+cephalopods | (59:2.11) (59:3.5, 8) (60:1.13) | mollusks | | 
 
 cereals | | | | OK
 cereals were abundant in Cretaceous (60:3.19)
@@ -1715,7 +1715,7 @@ Jesus put clay on Josiah’s eyes, the blind beggar (164:3.8)
 there were sculptures of clay adorning the gardens of Dalamatia (66:5.26)
 Some ancient Sumerian clay tablets found tell of Dilmun, this earthly paradise “where the Gods first blessed mankind with the example of civilized and cultured life”. (77:4.8)
 
-cleansing the temple | (173:1) | | | OK
+cleansing the temple | (173:1) | | | 
 
 Clement | | | PERSON | OK
 Clement was a prominent Christian teacher in Alexandria, a disciple of Pantaenus or Panteno. Clement had Origen as a disciple (195:3.10)
@@ -1816,7 +1816,7 @@ When Jesus instructed his apostles that they should, when one unjustly took away
 
 cock | | poultry | | OK
 
-cockroaches | (59:5.7) | | | OK
+cockroaches | (59:5.7) | | | 
 
 cocoa | | | | OK
 among earliest pharmaceutical discoveries is cocoa (90:4.8)
@@ -1867,9 +1867,9 @@ The practice of sacrifice of first-born sons was replaced by exile; this was the
 color workers | | | | OK
 color workers are the artists among the heavenly reproducers, a group inside celestial artisans (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | OK
+Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
 
-Colorado River | (58:7.5) | | PLACE | OK
+Colorado River | (58:7.5) | | PLACE | 
 
 colored races | | races | RACE | OK
 
@@ -2119,7 +2119,7 @@ After attainment of the Father of spirits and admission to the seraphic service 
 Many fascinating avenues of ministry are open to the completion seraphim, but just as they all craved assignment as destiny guardians in the pre-Paradise days, so in the post-Paradise experience they most desire to serve as bestowal attendants of the incarnated Paradise Sons. (39:9.3)
 often direct seraphic organizations (39:2.1,5)
 
-compossibility and omnipotence | (118:5) | | | OK
+compossibility and omnipotence | (118:5) | | | 
 
 compound manipulators | | | ORDER | OK
 Compound Manipulators are energy manipulator that belong to Celestial Artisans. These are the keen personalities who are in reality seeking to discover the universe presence of God the Supreme (44:5.5)
@@ -2281,7 +2281,7 @@ Conglomerates are matter deposited near the shore lines.
 The coal layers alternate with shale, stone, and conglomerate. (59:5.15)
 Much of the older sandstone and conglomerates represents the sedimentary accumulations of ancient shores. (58:7.9) (59:1.10) (60:1.1)
 
-conifers | (60:2.7) | | | OK
+conifers | (60:2.7) | | | 
 
 conjectures | | speculations | | OK
 
@@ -2502,7 +2502,7 @@ continental drift
 	The great Cretaceous period was drawing to a close, and its termination marks the end of the great sea invasions of the continents. These alternate periods of land and sea dominance have occurred in million-year cycles.  (60:4.1)
 	75 million years ago marks the end of the continental drift. From Alaska to Cape Horn the long Pacific coast mountain ranges were completed, but there were as yet few peaks. (60:3.1-2,11-14)
 
-control and overcontrol | (118:8) | | | OK
+control and overcontrol | (118:8) | | | 
 
 controversies | | arguments | | OK
 
@@ -2751,7 +2751,7 @@ council on food and material welfare | | Caligastia one hundred | PERSON | OK
 
 counsel | | adjutant mind-spirits:5 – Counsel; advice | | OK
 
-counseling the rich man | (132:5) | | | OK
+counseling the rich man | (132:5) | | | 
 
 counselors and advisers | | | ORDER | OK
 counselors and advisers are secondary supernaphim of second Havona circle, and are the instructors of the children of time regarding the career of eternity. (26:10)
@@ -2764,7 +2764,7 @@ counterpart; counterparts | | | | OK
 we should allow Adjusters to show us the spiritual counterpart to material efforts (111:7.3)
 Teacher Sons show spiritual counterpart to material wisdom (20:9.2)
 
-counting the cost | (171:2) | | | OK
+counting the cost | (171:2) | | | 
 
 courage; Courage; brave | | adjutant mind-spirits:3 – Courage; self-confidence | | OK
 definition
@@ -2852,7 +2852,7 @@ Certain North American Indian tribes believed they originated from beavers and c
 Crab nebula | | | PLACE | OK
 The Crab nebula collapsed 900 years ago (41:8.4)
 
-crabs | (59:1.18) (60:2.9) | crustaceans | | OK
+crabs | (59:1.18) (60:2.9) | crustaceans | | 
 
 cradle | | | | OK
 Woman has always been the moral standard-bearer and the spiritual leader of mankind. The hand that rocks the cradle still fraternizes with destiny. (84:6.4)
@@ -3134,7 +3134,7 @@ Jesus and the apostles
 	Thomas preached in Crete (139:8.13)
 > https://en.wikipedia.org/wiki/Crete
 
-crickets | (59:5.7) | | | OK
+crickets | (59:5.7) | | | 
 
 crime; Crime | | criminals; justice; lynch law | | OK
 in the most developed continental nation of a neighboring planet they use methods to deal with crime, madness and degeneracy, which although in some ways would please us, in others we would find them appalling. The most dangerous hardened criminals and the incurably insane are condemned by the courts to die in lethal gas chambers. (72:6.9) (72:10)
@@ -3332,9 +3332,9 @@ Modern man no longer attempts openly to coerce the spirits, though he still evin
 curvature | | | | OK
 Philosophy dare not project its interpretations of reality in the linear fashion of logic; it must never fail to reckon with the elliptic symmetry of reality and with the essential curvature of all relation concepts. (103:6.14)
 
-custodians (Lanonandek) | (35:8.13) | | | OK
+custodians (Lanonandek) | (35:8.13) | | | 
 
-custodians (Life Carrier) | (36:1.3) (36:2.16) | | | OK
+custodians (Life Carrier) | (36:1.3) (36:2.16) | | | 
 
 custodians of knowledge; Custodians of Knowledge | (27:5) | | ORDER | OK
 custodians of knowledge help to facilitate the consult of the vast store of knowledge of Paradise. The custodians are also the exalted teachers of the central universe. Only by indirection and reflectively are the benefits of Paradise knowledge secured in the local universes. (27:5.5)

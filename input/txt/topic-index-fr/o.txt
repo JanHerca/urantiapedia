@@ -38,7 +38,7 @@ a confirmé l'évangile d'Isaïe; a attaqué sans crainte le système sacrificie
 Oban | | | PLACE |
 siège d'Onagar sur la Méditerranée (63:6.7)
 
-obligations | | devoir | |
+obligations | | devoir | | OK
 
 observateur | | | |
 ne peut pas être une chose observée (112:2.12)
@@ -151,9 +151,9 @@ pressoir à olives | | | |
 Discussion des apôtres à (183:4)
 près de l'entrée de Gethsémani (183:0.3,5)
 
-Mont des Oliviers | | Mont des Oliviers | |
+Mont des Oliviers | | Mont des Oliviers | | OK
 
-Religion olympienne | | Grèce:Religion grecque | |
+Religion olympienne | | Grèce:Religion grecque | | OK
 
 présages | | | |
 censé révéler la volonté des esprits; les adeptes du culte des fantômes considéraient tout ce qui sortait de l'ordinaire comme un présage (87:5.9-14)
@@ -234,12 +234,12 @@ libérateur spirituel de l'homme rouge; a vécu il y a 65 000 ans; a apporté
 paix universelle (45:4.5) (64:6.7-8)
 enseigne la règle unanime du conseil des sept (70:5.4)
 
-mortels à un seul cerveau | | cerveaux; mortels:types planétaires | |
+mortels à un seul cerveau | | cerveaux; mortels:types planétaires | | OK
 
 Dieu Unique | | | |
 livre d'Ikhnaton (95:5.7)
 
-Une personne hautement autorisée | | Élevés en Autorité | |
+Une personne hautement autorisée | | Élevés en Autorité | | OK
 
 cent conciles de sanction suprême | | | |
 présidents de, constituent le cabinet de travail de Gabriel (33:8.4-5)
@@ -247,9 +247,9 @@ présidents de, constituent le cabinet de travail de Gabriel (33:8.4-5)
 Vérité Unique | | | |
 Singlangton a proclamé Dieu à la race jaune comme (64:6.15) (79:6.10) (79:8.4)
 
-UN SANS CAUSE | | JE SUIS | PERSON |
+UN SANS CAUSE | | JE SUIS | PERSON | OK
 
-Celui sans nom et sans numéro | | Dépourvus de Nom et de Nombre | PERSON |
+Celui sans nom et sans numéro | | Dépourvus de Nom et de Nombre | PERSON | OK
 
 suinter | | | |
 l'ascension de l'homme depuis (65:2.1)
@@ -297,7 +297,7 @@ censé révéler la volonté des esprits (87:5.9)
 Les Grecs croyaient en (90:2.8)
 Les peuples latins consultés avec optimisme en temps de crise (98:3.4)
 
-loi orale | | Judaïsme:loi orale; traditions | |
+loi orale | | Judaïsme:loi orale; traditions | | OK
 
 course orange | (64:6.10-13) | races | RACE |
 croyait à la transmigration et à la réincarnation (86:4.6)
@@ -431,7 +431,7 @@ loutres | (61:3.13) | | |
 oudah | | | |
 croyances des Pygmées (91:0.5)
 
-espace extra-atmosphérique | | niveaux spatiaux | |
+espace extra-atmosphérique | | niveaux spatiaux | | OK
 
 les extra-terrestres | | niveaux spatiaux | |
 peuvent devenir de futurs citoyens de Havona (19:6.7)
@@ -445,14 +445,14 @@ universel (12:6)
 surplanification | | | |
 se détruit parfois (160:4.11)
 
-surpopulation | | population | |
+surpopulation | | population | | OK
 
 surprotection | | éducation des enfants | |
 Jean Marc a été autorisé à avoir une expérience originale; il n'a pas été surprotégé (177:2.2-4)
 
-surrévélation | | révélation:surrévélation | |
+surrévélation | | révélation:surrévélation | | OK
 
-âme supérieure de la création | | Suprême | PERSON |
+âme supérieure de la création | | Suprême | PERSON | OK
 
 surspécialisation | | carrières; gagner sa vie; travail; talents:compétences | |
 danger de monotonie (81:6.36)

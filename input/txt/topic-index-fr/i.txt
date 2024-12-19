@@ -64,7 +64,7 @@ Migration andonite vers (64:7.16-18) (78:1.5)
 pont terrestre (61:3.9) (61:4.6)
 Les missionnaires de Salem en (93:7.2)
 
-ichtyosaures | | serpents de mer | |
+ichtyosaures | | serpents de mer | | OK
 
 idéalisme | | idéaux | |
 approche du concept du divin (3:5.11)
@@ -186,7 +186,7 @@ seuls les idéaux atteignables résident en Dieu (160:5.5-9)
 la science a détruit les illusions enfantines (195:6.4)
 les imprudents préfèrent les illusions optimistes à la réalité (160:1.7) (160:4.13-14)
 
-Aides à l'image | | Aides-Images Réflectifs | |
+Aides à l'image | | Aides-Images Réflectifs | | OK
 
 image de Dieu | | | |
 homme fait en (1:3.1) (3:4.7) (6:5.7) (7.4.4) (10:3.1) (32:2.8) (92:5.1) (117:3.5)
@@ -254,7 +254,7 @@ refusant de grandir (156:5.18)
 rechercher la satisfaction des désirs présents (160:1.3) (166:3.4)
 le refus de pardonner est une mesure d'immaturité (174:1.5)
 
-immortalité | | vie éternelle; survie (de la mort mortelle) | |
+immortalité | | vie éternelle; survie (de la mort mortelle) | | OK
 
 impatience | | patience | |
 désir de posséder ce que l'on désire ardemment maintenant, au mépris des droits des autres (54:4.4)
@@ -271,7 +271,7 @@ inhérent à la croissance évolutive (105:6.4)
 impersonnel | | | |
 toujours sensible à la volonté et aux actes de la personnalité (107:7.4)
 
-droits d'importation | | fiscalité | |
+droits d'importation | | fiscalité | | OK
 
 Importances du Temps | | | ORDER |
 attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne portent ni nom ni nombre (28:6.1)
@@ -286,7 +286,7 @@ aucun avec Dieu (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2
 imprévoyance | | autosatisfaction | |
 Jésus n'a pas toléré (165:4.7)
 
-inaction | | oisiveté; paresse | |
+inaction | | oisiveté; paresse | | OK
 
 incantations | | | |
 futile (150:3.11)
@@ -306,7 +306,7 @@ gardé le feu dans la bonne humeur (69:6.4)
 inceste | | | |
 origine de l'idée (82:3.11)
 
-revenu | | gagner sa vie; richesse | |
+revenu | | gagner sa vie; richesse | | OK
 
 incomplétude | | | |
 vertu qui rend possible la croissance évolutive (117:2.8)
@@ -486,7 +486,7 @@ attribué à tort à l'injustice sociale (86:7.4)
 aucun dans la lumière et la vie (55:5.2)
 offrir des possibilités d'altruisme (3:5.7)
 
-inertie | | indolence | |
+inertie | | indolence | | OK
 
 inévitabilités | | | |
 inévitabilités absolues
@@ -501,7 +501,7 @@ les membres de la famille récoltent les bénéfices et subissent les conséquen
 les inévitabilités subabsolues sont les Sept Maîtres Esprits (16:1.1) (115:7.5)
 Absolu Universel (0:11.10)
 
-infaillibilité | | certitude; livres sacrés | |
+infaillibilité | | certitude; livres sacrés | | OK
 
 infanticide | | avortement; enfants | |
 Le christianisme a mis fin à (195:3.5)
@@ -533,7 +533,7 @@ la pauvreté ne peut être éliminée si les dégénérés sont librement souten
 les sous-normaux devraient être maintenus sous le contrôle de la société (68:6.11)
 la multiplication effrénée des inférieurs détruit la civilisation (72:9.8) (79:2.7)
 
-infidélité | | adultère | |
+infidélité | | adultère | | OK
 
 Infini | | Dieu; JE SUIS; Père Universel | PERSON | OK
 source de la réalité de l'univers (130:4.2)
@@ -749,7 +749,7 @@ les triunités sont un balancier fonctionnel de (104:4.46)
 L'Infinité | | JE SUIS; L'Un Infini; L'Infinitude | PERSON | OK
 L'Infinité représente un continuum éternel du JE SUIS qui peut entretenir une relation trinitaire avec L'Un Infini et L'Infinitude, ces existences théoriques du JE SUIS qui ont donné naissance à la première volonté et à la première répercussion. (105:2.2)
 
-influences (spirituelles) | | influences spirituelles | |
+influences (spirituelles) | | influences spirituelles | | OK
 
 rayons infrarouges | | | |
 l'activité électronique ralentit à proximité de la chaleur (42:5.11)
@@ -766,7 +766,7 @@ les primitifs considéraient l'hérédité comme une lignée féminine (84:2.1)
 Le fils prodigue a gaspillé son héritage en menant une vie dissolue (169:1.7)
 impôts | fiscalité:impôt sur les successions
 
-l'inique | | Lucifer | |
+l'inique | | Lucifer | | OK
 
 iniquité | | erreur; mal; rébellion (spirituelle); péché | |
 défini comme
@@ -785,7 +785,7 @@ les iniquants n'éprouvent jamais de tristesse et n'acceptent jamais le pardon d
 Jésus considérait la plupart des hommes comme faibles plutôt que comme méchants (196:2.9)
 certains embrassent l'iniquité (133:3.7)
 
-cérémonies d'initiation | | sociétés secrètes | |
+cérémonies d'initiation | | sociétés secrètes | | OK
 
 initiative | | accomplissement; gagner sa vie; originalité | |
 la croyance aux charmes détruite; la tradition étouffe (66:6.2) (88:6.6)
@@ -798,7 +798,7 @@ le surdéveloppement des institutions diminue (69:1.1)
 Le personnel du Prince prêchait l'initiative individuelle (66:6.2)
 sous les sectes fantômes, l'avenir n'est pas le résultat d'efforts ou de talent (87:5.8)
 
-injonctions | | commandements | |
+injonctions | | commandements | | OK
 
 blessure | | maladie; guérison; santé; médecins | |
 produits chimiques de guérison (65:4.3-6)
@@ -957,7 +957,7 @@ investissement judicieux des revenus face à l'adversité future (163:2.11)
 intellectualisme | | | |
 le surdéveloppement intellectuel handicape et embarrasse parfois la religion (102:3.1)
 
-intelligence | | esprit | |
+intelligence | | esprit | | OK
 
 coordinateurs du renseignement (Corps séraphique de complétude) | | | ORDER |
 les diffuseurs des séraphins supérieurs s'associent à (39:2.15)
@@ -970,9 +970,9 @@ supernaphins tertiaires; journaux vivants de Havona (26:3.8)
 corps de renseignement | | | |
 séraphins supérieurs; rapport à Gabriel (39:2.3)
 
-intentions | | motifs | |
+intentions | | motifs | | OK
 
-métissage | | métissage; eugénisme; hybridation | |
+métissage | | métissage; eugénisme; hybridation | | OK
 
 intercesseurs | | | |
 l'illumination devrait délivrer de la dépendance (92:7.11)
@@ -1030,7 +1030,7 @@ Jésus a refusé la drogue lors de la crucifixion (187:2.3) (194:3.4)
 la religion de Jésus n'est pas un opium (194:3.3-4)
 Les Sumériens utilisaient l'opium comme médicament (90:4.9)
 
-introspection | | auto-analyse | |
+introspection | | auto-analyse | | OK
 
 intuition | | esprits mentaux adjuvats:1 – Intuition; directions; intuition spirituelle | |
 
@@ -1110,7 +1110,7 @@ Les Adamites travaillaient le long des rivières de Mésopotamie (78:2.1)
 Caligastia 100 a enseigné (66:5.2)
 Les Sumériens utilisaient des canaux d'irrigation pour la défense militaire (78:8.5)
 
-irritation | | se plaindre | |
+irritation | | se plaindre | | OK
 
 Isaac (prêteur sur gages de Nazareth) | | | PERSON | OK
 proposé de soutenir la famille de Jésus s'il rejoignait les Zélotes (127:2.5)
@@ -1210,7 +1210,7 @@ la religion guérit (101:10.7)
 la société est le résultat de l'aversion de l'homme pour (68:2.1)
 L'Esprit de Vérité détruit le sentiment d'être orphelin (194:2.2)
 
-mondes d'isolement | | mondes carcéraux | PLACE |
+mondes d'isolement | | mondes carcéraux | PLACE | OK
 
 Israël | | Éphraïm; Galilée; Judée; Palestine; Pérée | PLACE |
 les enfants d'Israël ainsi appelés d'après les jours d'Abraham (96:2.3) (136:1.1)

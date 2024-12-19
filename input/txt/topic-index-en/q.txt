@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Qualified Absolute | | Deity Absolute | PERSON | 
+Qualified Absolute | | Deity Absolute | PERSON | OK
 
 Vice-Gérants Qualifiés de l'Ultime | (30:1.106) (106:4.3) (117:7.4) | | ORDER | 
 Reflective Image Aids represent (15:10.21)
@@ -62,7 +62,7 @@ Quebec | (59:3.2) | | PLACE |
 Queensland | | | PLACE | 
 first child killed and devoured in (89:5.4)
 
-questionings | | doubt | | 
+questionings | | doubt | | OK
 
 quickeners of morality | | seraphim | ORDER | 
 administrator seraphim; teach interactions of liberty and loyalty (39:4.10-14)

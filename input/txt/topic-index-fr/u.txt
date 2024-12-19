@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-ubiquité | | omniprésence | |
+ubiquité | | omniprésence | | OK
 
 laideur | | | |
 le matérialisme et l'athéisme sont la maximisation de (56:10.4)
@@ -32,11 +32,11 @@ rayons infrultimatoniques et ultimatoniques (42:5.3-4)
 à l'origine neutre mais présente plus tard des qualités positives et négatives (11:8.6)
 énergies préélectroniques insensibles à la gravité linéaire (0:6.6)
 
-Ultime | | Dieu l'Ultime | PERSON |
+Ultime | | Dieu l'Ultime | PERSON | OK
 
-Divinité ultime | | Dieu l'Ultime | PERSON |
+Divinité ultime | | Dieu l'Ultime | PERSON | OK
 
-niveau ultime | | réalité:niveaux de réalité | |
+niveau ultime | | réalité:niveaux de réalité | | OK
 
 ultimatons | (42:6.2-6) | atomes; matière | |
 100 dans un électron, maintenus ensemble par attraction mutuelle (42:3.3) (42:4.6) (42:6.4)
@@ -60,7 +60,7 @@ la chaleur et la pression solaires ne peuvent pas reconvertir les ultimatons en 
 se propagent ou se regroupent en fonction des vitesses de révolution axiales; ne forment pas d'orbite (42:6.4,6) (42:7.3,10)
 Les centres de pouvoir suprême se transforment en électrons (42:4.3)
 
-ultraspécialisation | | surspécialisation | |
+ultraspécialisation | | surspécialisation | | OK
 
 rayons ultraviolets | (42:5.9) | | |
 
@@ -74,7 +74,7 @@ fétiche prisé (88:1.8)
 Uminor la troisième | | Ensa; secteurs mineurs | PLACE |
 siège de l'Ensa, notre secteur mineur (15:7.8) (15:14.7)
 
-unanimité | | unité | |
+unanimité | | unité | | OK
 
 incroyants | | athéisme; matérialisme; laïcité | |
 Apparemment, des traits religieux peuvent naître de racines non religieuses (102:7.4)
@@ -112,7 +112,7 @@ Centres Suprêmes de Pouvoir; agissent comme des roues d'équilibre sur des sph�
 Oncle Joshua | | | PERSON |
 les enfants appelaient Jésus (128:6.11)
 
-esprits impurs | | possession démoniaque | |
+esprits impurs | | possession démoniaque | | OK
 
 sous-bergers | | | |
 du troupeau du Père (165:2.6)
@@ -173,9 +173,9 @@ favoriser et promouvoir le travail d'équipe (28:5.14)
 en synchronie avec les interprètes de l'éthique au Paradis (28:5.13)
 seconaphins secondaires, associés réfléchis des Perfecteurs de Sagesse (28:5.13-14)
 
-Royaume-Uni | | Iles Britanniques | PLACE |
+Royaume-Uni | | Iles Britanniques | PLACE | OK
 
-Médians Unis d'Urantia | | médians | PERSON |
+Médians Unis d'Urantia | | médians | PERSON | OK
 
 États-Unis d'Amérique du Nord | (39:5.8) | | PLACE |
 potentiel créatif (82:6.5)
@@ -478,9 +478,9 @@ quiconque reçoit Jésus, reçoit le Père Universel (158:8.1) (162:2.3)
 paroles et actes de subordonnés attribués à (51:3.5)
 adorer UF, d'abord parce qu'il est (2:5.7) (16:9.14) (149:6.5)
 
-Intelligence universelle | | Esprit Infini | PERSON |
+Intelligence universelle | | Esprit Infini | PERSON | OK
 
-Esprit Universel | | Esprit Infini | PERSON |
+Esprit Universel | | Esprit Infini | PERSON | OK
 
 Mère Universelle | | | PERSON |
 Le Fils Éternel est (6:8.1)
@@ -571,12 +571,12 @@ soumis aux sept directeurs suprêmes du pouvoir (24:1.14)
 Coordonnateurs de l’univers et conseillers de constellations | | | ORDER |
 classification des Fils Lanonandeks (35:8.9)
 
-univers des univers | | univers maître | PLACE |
+univers des univers | | univers maître | PLACE | OK
 
 orientateurs de l'univers | | séraphins | ORDER |
 séraphins suprêmes; facilitent le passage des ascendeurs du niveau atteint au niveau non atteint (39:1.10-11)
 
-puissance de l'univers | | gravité | |
+puissance de l'univers | | gravité | | OK
 
 Directeurs de Pouvoir d'Univers | (29) | | ORDER |
 toujours très professionnel (48:4.11)
@@ -615,9 +615,9 @@ travail
 	transmuter l'énergie puissante en ultimatons et revenir en énergie puissante (42:6.3)
 	Les superviseurs du circuit de l'univers sont soumis à (24:1.14)
 
-Fils de l'Univers | | Fils Créateurs | ORDER |
+Fils de l'Univers | | Fils Créateurs | ORDER | OK
 
-Esprits de l'univers | | Esprits-Mères des univers locaux | ORDER |
+Esprits de l'univers | | Esprits-Mères des univers locaux | ORDER | OK
 
 univitatie | (43:7) | | ORDER |
 administrer les mondes morontiels des constellations (43:7.2) (55:9.2)
@@ -639,7 +639,7 @@ inconnu | | | |
 l'homme a peur de (132:3.3)
 Paul sur le Dieu inconnu (195:1.1)
 
-espace non envahi | | espace:espace non envahi | PLACE |
+espace non envahi | | espace:espace non envahi | PLACE | OK
 
 Absolu Non Qualifié | (0:4.5) (0:11.7-9) (12:2) (56:9.7) | Absolus:les trois | PERSON |
 3 des 10 formes d'énergie dominées par (29:3.11)
@@ -680,9 +680,9 @@ exercer la souveraineté de la suprématie dans les univers établis dans la lum
 personnalisation de la suprématie de l'espace-temps (55:12.4)
 Les aides à l'image réfléchissante représentent (15:10.21)
 
-irréalité | | illusions | |
+irréalité | | illusions | | OK
 
-loi non écrite | | loi du lynchage | |
+loi non écrite | | loi du lynchage | | OK
 
 Upanishads | | | RELIGION |
 idée métaphysique lointaine d'un Absolu englobant tout (94:2.6-7)
@@ -842,9 +842,9 @@ le futur
 	certaines activités ascendantes seront concentrées sur Urantia en raison de l'établissement ici d'une division d'archanges (37:3.4)
 	La volonté de Dieu prévaut finalement, non pas toujours en ce qui concerne l'individu, mais invariablement en ce qui concerne la totalité. (3:5.3) (12:7.1,7) (115:3.13)
 
-Conseil consultatif d'Urantia | | vingt-quatre conseillers | PERSON |
+Conseil consultatif d'Urantia | | vingt-quatre conseillers | PERSON | OK
 
-Urantia Brotherhood of Urantia Midwayers | | médians | PERSON |
+Urantia Brotherhood of Urantia Midwayers | | médians | PERSON | OK
 
 fascicules d'Urantia; fascicules suivants; présents fascicules; ces fascicules; Ces fascicules; Ce fascicule; fascicules | | langue:limitations du langage humain; révélation | RELIGION |
 auteurs

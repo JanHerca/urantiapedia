@@ -434,7 +434,7 @@ el número es prodigioso; más siendo creado (25:1.3)
 parecerse a los Espíritus Maestros individuales (25:1.7)
 permanecer con el mismo peregrino durante todo su ascenso (26:10.5)
 
-Habitantes de Havona | | Nativos de Havona | ORDER | 
+Habitantes de Havona | | Nativos de Havona | ORDER | OK
 
 cazadores de cabezas | | | | 
 permitió a las mujeres redimir vidas mediante la entrega sexual (89:7.4)
@@ -574,9 +574,9 @@ Tradiciones judías derivadas del zoroastrismo (95:6.6)
 los primitivos no tenían ideas de (86:4.7)
 malvados destruidos por el fuego bajo el mitraísmo (98:5.4)
 
-Helenos | | griegos | RACE | 
+Helenos | | griegos | RACE | OK
 
-Imperio helenístico | | Grecia | | 
+Imperio helenístico | | Grecia | | OK
 
 impotencia | (147:3.5) | | | 
 consecuencia del aislamiento de la personalidad (184:4.6)
@@ -590,13 +590,13 @@ henoteísmo | | | RACE |
 exaltación de un dios sobre muchos (104:2.1)
 Los hebreos pasaron (96:1.2,14)
 
-gallinas | | aves de corral | | 
+gallinas | | aves de corral | | OK
 
 Henselon | | | PLACE | 
 perdió la mayoría de los Lanonandek en rebelión (35:9.8)
 universo vecino a Nebadon (32:2.12)
 
-heraldos de la resurrección | | cuerpo de mensajeros (de David Zebedeo) | | 
+heraldos de la resurrección | | cuerpo de mensajeros (de David Zebedeo) | | OK
 
 pastores | | | | 
 Able era un pastor; Caín era un granjero (76:2.2)
@@ -685,7 +685,7 @@ Herodías | | | PERSON | OK
 Herodías era la esposa ilegal de Herodes Antipas; odiaba intensamente a Juan el Bautista, y orquestó un plan que finalmente fue la causa de la muerte del profeta (135:12.2,5-6)
 > https://es.wikipedia.org/wiki/Herod%C3%ADas
 
-templo de Herodes | | templo de Jerusalén | PLACE | 
+templo de Herodes | | templo de Jerusalén | PLACE | OK
 
 héroes | | | | 
 ayudar a los niños a elegir (140:5.14)
@@ -760,7 +760,7 @@ residencia en los círculos de Jerusem (46:5.21)
 Hildana | | | PERSON | OK
 Hildana es el nombre de anónima mujer que aparece mencionada en el evangelio de Juan sorprendida en adulterio, y a quien se iba a proceder a lapidar; su marido era un degenerado de Nazaret, un hombre conocido de Jesús le había causado dificultades en su juventud (162:3)
 
-colinas | | montañas | | 
+colinas | | montañas | | OK
 
 Himalaya | | | PLACE | 
 geología (59:3.3) (60:1.12) (60:3.15) (61:1.13)
@@ -789,7 +789,7 @@ Nanak incorporó al hinduismo al sijismo (92:5.15) (92:7.2)
 predica devoción (191:5.3)
 religión de la metafísica (5:4.7)
 
-Hindúes | | hinduismo; India | RACE | 
+Hindúes | | hinduismo; India | RACE | OK
 
 valle de Hinom | | | PLACE | 
 Judas se ahorcó en (186:1.7)
@@ -846,7 +846,7 @@ período posglacial; comenzó hace 35.000 años (61:7.18)
 área residencial de 7 zonas (11:3.3-4)
 recuerdos de nuestros días materiales encontrados en (11:3.2)
 
-Ciudad santa | | Jerusalén | PLACE | 
+Ciudad santa | | Jerusalén | PLACE | OK
 
 Madre Sagrada | | culto a la Madre de Dios | RACE | 
 Los tibetanos rezan a una Madre Sagrada (94:10.2)
@@ -968,7 +968,7 @@ la transformación de la fe engendra esperanza (101:10.8)
 horda | | | | 
 la sociedad más primitiva era (70:3.1)
 
-Horeb | | monte Sinaí | PLACE | 
+Horeb | | monte Sinaí | PLACE | OK
 
 hormonas | | | | 
 reacciones químicas resultantes de (65:6.6)
@@ -1010,7 +1010,7 @@ hospitalidad | | amistad | |
 la amistad con los huéspedes era una hospitalidad temporal (70:3.9)
 ministrar como quien recibe a los hijos del Altísimo (133:4.8)
 
-hostilidad | | odio | | 
+hostilidad | | odio | | OK
 
 Anfitriones de los Visitantes Celestiales | | | | 
 Compañeros Morontiales; entretener a grupos sobrehumanos (48:3.10)
@@ -1036,7 +1036,7 @@ encuentro entre la tribu india y el grupo esquimal (64:7.19)
 río Hudson | (59:4.15) (60:1.3) | | PLACE | 
 Grandes Lagos una vez vaciados (61:7.10)
 
-la naturaleza humana | | mortales:naturaleza humana | | 
+la naturaleza humana | | mortales:naturaleza humana | | OK
 
 derechos humanos | (70:9) | gobierno:principios de gobierno | | 
 asociado con deberes sociales (81:5.4,6)
@@ -1047,11 +1047,11 @@ no más que las reglas del juego (70:9.13)
 la sociedad debería administrar justamente (70:9.17)
 la mujer obtuvo derechos cuando llegó el momento (84:5.4)
 
-sacrificio humano | | sacrificio:sacrificio humano | | 
+sacrificio humano | | sacrificio:sacrificio humano | | OK
 
-humanismo | | laicismo | | 
+humanismo | | laicismo | | OK
 
-humanos | | mortales | | 
+humanos | | mortales | | OK
 
 humillación | | | | 
 todas las reacciones tribales surgieron del esfuerzo por evitar (68:4.2)

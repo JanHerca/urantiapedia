@@ -59,7 +59,7 @@ parents’ name pride in children’s success (84:7.10,15)
 primitives regarded names as separate entities; could be pawned (88:5.5)
 revelators found it difficult to translate meaningfully (18:4.3)
 
-Nanak, Guru | | Guru Nanak | PERSON | 
+Nanak, Guru | | Guru Nanak | PERSON | OK
 
 Naomi | | | PERSON | 
 bride at wedding at Cana (137:3.6)
@@ -142,7 +142,7 @@ cannot rub elbows without conflict (134:5.7)
 failure to increase in population prevents full realization (81:6.11)
 Spirit of Truth lessens self-assertiveness (194:3.18)
 
-natural events | | circumstances | | 
+natural events | | circumstances | | OK
 
 natural law | | | | 
 Jesus might accelerate, but would not violate (136:6.2) (136:7) (136:9.9)
@@ -159,7 +159,7 @@ held as social trust in continental nation (72:6.7) (72:7.13)
 largely determine extent of material civilization (78:2.4) (81:6.3)
 share discoveries with largest number of fellows (132:5.16)
 
-natural rights | | human rights | | 
+natural rights | | human rights | | OK
 
 natural selection | | genetics | | 
 variety indispensable to (64:6.31)
@@ -327,7 +327,7 @@ supreme council of Salvington (188:3.12)
 System Sovereigns intrusted with unusual personal prerogatives (45:2.1)
 that which is pervaded by our Mother Spirit is Nebadon (41:0.1) (45:1.8) (116:5.13)
 
-Nebadon Corps of Completion | | Nebadon Corps of Perfection | ORDER | 
+Nebadon Corps of Completion | | Nebadon Corps of Perfection | ORDER | OK
 
 Nebadon Corps of Perfection | | | ORDER | 
 attained by Spirit-fused ascenders (37:5.4)
@@ -336,7 +336,7 @@ members gain authoritative wisdom about Nebadon (40:10.6)
 Nebadon Corps of the Finality | | | ORDER | 
 soul-identity of Jesus may be released for leadership of (188:3.8)
 
-Nebadon Power Centers | | local universe centers | ORDER | 
+Nebadon Power Centers | | local universe centers | ORDER | OK
 
 Nebadon Revelatory Corps | | | ORDER | 
 directed creation of Part II of Urantia Papers (56:10.22-23)
@@ -364,7 +364,7 @@ Necho | | | PERSON |
 Egyptian who wiped out King Josiah (97:9.24)
 overthrown by Nebuchadnezzar (97:9.25)
 
-necklaces | | ornamentation | | 
+necklaces | | ornamentation | | OK
 
 necromancy | | magic | | 
 practitioners of the black art called necromancers (90:2.2)
@@ -416,13 +416,13 @@ final Andite eruption from Caspian region (78:8.11)
 net cast into sea | | | | 
 parable of (151:4.6)
 
-nether Paradise | | Paradise | | 
+nether Paradise | | Paradise | | OK
 
 neutrons | | atoms; matter | | 
 atomic stability depends on number of neutrons in nucleus (42:7.6)
 held together by reciprocating mesotron (42:8.3)
 
-new commandment | | commandments | | 
+new commandment | | commandments | | OK
 
 New Guinea | | | PLACE | 
 group believes itself descended from parrot (74:8.5)
@@ -587,14 +587,14 @@ ghosts supposed to be frightened by (87:6.11)
 nomadism | | | | 
 progressive decline of (68:5.12)
 
-nonbreathers | | mortals:planetary types | | 
+nonbreathers | | mortals:planetary types | | OK
 
 nonconformists | | | | 
 civilization visits heavy penalties on dissenters and (81:5.3)
 
-nonexistence | | nonsurvivors | | 
+nonexistence | | nonsurvivors | | OK
 
-nonreligionists | | unbelievers | | 
+nonreligionists | | unbelievers | | OK
 
 nonresistance | | fighting; self-defense | | 
 accusation that enfeebled specimens would soon perish (143:1.2)
@@ -629,7 +629,7 @@ possibility of cosmic self-destruction unavoidable if personality is to be free 
 wholehearted identification with evil is nonexistence (54:3.2)
 withdrawing from God, man approaches nonreality – cessation of existence (117:4.14)
 
-nonviolence | | nonresistance | | 
+nonviolence | | nonresistance | | OK
 
 Norana | | | PERSON | 
 Syrian woman with afflicted daughter (156:1)
@@ -637,7 +637,7 @@ Syrian woman with afflicted daughter (156:1)
 Nordan the Kenite | | | PERSON | 
 Melchizedek’s brilliant disciple (93:3.4)
 
-Nordic race | | white race:divisions | RACE | 
+Nordic race | | white race:divisions | RACE | OK
 
 Norlatiadek | (43) | constellations; Edentia; Most Highs of Norlatiadek | PLACE | 
 10 Constellation Centers stationed in (41:1.4)
@@ -691,4 +691,4 @@ numerology | | | |
 founded science of mathematics (88:6.5)
 pure unfounded superstition (150:3.8)
 
-nutrition | | food | | 
+nutrition | | food | | OK

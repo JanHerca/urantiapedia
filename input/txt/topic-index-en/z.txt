@@ -32,7 +32,7 @@ adopted Joseph’s ancestor (122:4.3)
 Zaphon | (159:0.2) (165:0.1) | | PLACE | 
 Perea mission
 
-zeal | | enthusiasm | | 
+zeal | | enthusiasm | | OK
 
 Zealots | | | | 
 Jesus refused to join (127:2.1-10) (136:9.7)
@@ -54,13 +54,13 @@ owned fish-drying business (139:1.1)
 purchased Joseph’s equity in a Capernaum property (127:6.10)
 with wife Salome had 3 sons, 4 daughters (129:1.5)
 
-Zebedee, David | | David Zebedee | PERSON | 
+Zebedee, David | | David Zebedee | PERSON | OK
 
-Zebedee, James | | James Zebedee | PERSON | 
+Zebedee, James | | James Zebedee | PERSON | OK
 
-Zebedee, John | |  John Zebedee | PERSON | 
+Zebedee, John | |  John Zebedee | PERSON | OK
 
-Zebedee, Salome | | Salome (wife of Zebedee) | PERSON | 
+Zebedee, Salome | | Salome (wife of Zebedee) | PERSON | OK
 
 Zebulun | (146:3.10) (156:6.2) | | PLACE | 
 

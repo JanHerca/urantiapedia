@@ -434,7 +434,7 @@ le nombre est prodigieux; davantage est créé (25:1.3)
 ressembler à des Maîtres Esprits individuels (25:1.7)
 rester avec le même pèlerin tout au long de son ascension (26:9.5)
 
-Havoners | | natifs de Havona | ORDER |
+Havoners | | natifs de Havona | ORDER | OK
 
 chasseurs de têtes | | | |
 a permis aux femmes de racheter leur vie par l'abandon sexuel (89:7.4)
@@ -574,9 +574,9 @@ Traditions juives dérivées du zoroastrisme (95:6.6)
 les primitifs n'avaient aucune idée de (86:4.7)
 les méchants détruits par le feu sous le mithraïsme (98:5.4)
 
-Hellènes | | Grecs | RACE |
+Hellènes | | Grecs | RACE | OK
 
-Empire hellénistique | | Grèce | |
+Empire hellénistique | | Grèce | | OK
 
 impuissance | (147:3.5) | | |
 conséquence de l'isolement de la personnalité (184:4.6)
@@ -590,13 +590,13 @@ hénothéisme | | | RACE |
 exaltation d'un dieu au-dessus de plusieurs (104:2.1)
 Les Hébreux sont passés par là (96:1.2,14)
 
-poules | | volaille | |
+poules | | volaille | | OK
 
 Henselon | | | PLACE |
 a perdu la plupart des Lanonandeks dans la rébellion (35:9.8)
 univers voisin de Nébadon (32:2.12)
 
-hérauts de la résurrection | | corps de messagers (David Zébédée) | |
+hérauts de la résurrection | | corps de messagers (David Zébédée) | | OK
 
 bergers | | | |
 Abel était un berger; Caïn était un fermier (76:2.2)
@@ -614,7 +614,7 @@ les femmes réduites à l'esclavage social à l'époque pastorale (68:5.8) (69:7
 
 hérédité | | | |
 l'hérédité divine révèle parfois des attributs non discernables chez le Créateur (17:3.3)
-humain h | génétique
+humain hérédité | génétique
 
 ermite | | | |
 Gautama aurait dû écouter l'ermite Godad (94:7.4)
@@ -685,7 +685,7 @@ Hérodiade | | | PERSON | OK
 L'épouse illicite d'Hérode Antipas; elle haïssait Jean-Baptiste (135:12.2,5-6)
 > https://en.wikipedia.org/wiki/Herodias
 
-Temple d'Hérode | | temple de Jérusalem | PLACE |
+Temple d'Hérode | | temple de Jérusalem | PLACE | OK
 
 héros | | | |
 aider les enfants à choisir (140:5.14)
@@ -760,7 +760,7 @@ résidence dans les cercles de Jérusalem (46:5.21)
 Hildana | | | PERSON | OK
 femme adultère; son mari était un dégénéré de Nazareth (162:3)
 
-collines | | montagnes | |
+collines | | montagnes | | OK
 
 Himalayas | | | PLACE |
 géologie (59:3.3) (60:1.12) (60:3.15) (61:1.13)
@@ -789,7 +789,7 @@ Nanak a incorporé l'hindouisme au sikhisme (92:5.15) (92:7.2)
 prêche la dévotion (191:5.3)
 religion de la métaphysique (5:4.7)
 
-Hindous | | hindouisme; Inde | RACE |
+Hindous | | hindouisme; Inde | RACE | OK
 
 Hinnom, vallée du; vallée du Hinnom | | | PLACE |
 Judas s'est pendu (186:1.7)
@@ -846,7 +846,7 @@ zone du Paradis supérieur (11:3.2-4)
 zone résidentielle de 7 zones (11:3.3-4)
 souvenirs de nos journées matérielles retrouvés sur (11:3.2)
 
-Ville Sainte | | Jérusalem | PLACE |
+Ville Sainte | | Jérusalem | PLACE | OK
 
 Sainte Mère | | culte de la Mère de Dieu | RACE |
 Les Tibétains prient (94:10.2)
@@ -968,7 +968,7 @@ la transformation de la foi engendre l'espérance (101:10.8)
 horde | | | |
 la société la plus primitive était (70:3.1)
 
-Horeb | | mont Sinaï | PLACE |
+Horeb | | mont Sinaï | PLACE | OK
 
 hormones | | | |
 réactions chimiques résultant de (65:6.6)
@@ -1010,7 +1010,7 @@ hospitalité | | amitié | |
 L'amitié des invités était une hospitalité temporaire (70:3.9)
 ministre comme celui qui divertit les enfants du Très-Haut (133:4.8)
 
-hostilité | | haine | |
+hostilité | | haine | | OK
 
 hôtes des visiteurs célestes | | | |
 Compagnons Morontiels; divertissent des groupes surhumains (48:3.10)
@@ -1036,7 +1036,7 @@ rencontre entre une tribu indienne et un groupe esquimau (64:7.19)
 Rivière Hudson; vallée de l'Hudson | (59:4.15) (60:1.3) | | PLACE |
 Les Grands Lacs autrefois vidés (61:7.10)
 
-nature humaine | | mortels:nature humaine | |
+nature humaine | | mortels:nature humaine | | OK
 
 droits de l'homme | (70:9) | gouvernement:principes de gouvernement | |
 associé aux devoirs sociaux (81:5.4,6)
@@ -1047,11 +1047,11 @@ rien de plus que les règles du jeu (70:9.13)
 la société devrait administrer équitablement (70:9.17)
 la femme a obtenu des droits quand le moment est venu (84:5.4)
 
-sacrifice humain | | sacrifice:sacrifice humain | |
+sacrifice humain | | sacrifice:sacrifice humain | | OK
 
-humanisme | | laïcité | |
+humanisme | | laïcité | | OK
 
-humains | | mortels | |
+humains | | mortels | | OK
 
 humiliation | | | |
 toutes les réactions tribales sont nées d'un effort pour éviter (68:4.2)

@@ -279,7 +279,7 @@ le aseguró a Eva que las personas con buenos motivos no podrían hacer el mal (
 Influyendo en Eva mediante la adulación, el entusiasmo, y la persuasión personal, ambos cometieron el acto sexual para procrear un descendiente al margen de los planes ya establecidos (75:3.9)
 le mataron los habitantes del Jardín en un ataque enfurecido contra la colonia nodita vecina, en represalia por lo sucedido a Eva (75:5.3)
 
-Cabo de Hornos | (60:3.2) (60:3.12) | | PLACE | OK
+Cabo de Hornos | (60:3.2) (60:3.12) | | PLACE | 
 
 Cafarnaúm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Betsaida | PLACE | OK
 Cafarnaúm era una población pesquera situada en el norte del mar de Galilea
@@ -308,7 +308,7 @@ Habitantes destacados
 	* Simón Zelotes el apóstol era también de Cafarnaúm (139:11.1)
 > https://es.wikipedia.org/wiki/Cafarnaúm
 
-Ciudad del Cabo | (66:5.30) | | PLACE | OK
+Ciudad del Cabo | (66:5.30) | | PLACE | 
 
 capital | | competencia; propiedad privada; lucro | | OK
 La vida pastoril permitió un alivio adicional de la esclavitud de la comida; el hombre aprendió a vivir de los beneficios de su capital, del aumento de sus rebaños, y esto le proporcionó más tiempo libre para la cultura y el progreso. (68:5.7)
@@ -350,7 +350,7 @@ Mateo predicó en Capadocia (139:7.10)
 capitán | | | | OK
 La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. (111:1.9)
 
-Capua | (130:0.2) (130:8.6) | | PLACE | OK
+Capua | (130:0.2) (130:8.6) | | PLACE | 
 
 caravanas | | | | OK
 Hacia el año 7000 a. de J.C., las caravanas de camellos viajaban regularmente hasta la lejana Mesopotamia. (79:3.7)
@@ -396,10 +396,10 @@ un esfuerzo ferviente y determinado por hacer realidad el destino eterno es ente
 Jesús deploró toda tendencia a la especialización excesiva, a volverse estrecho de ideas y limitado en las actividades de la vida (149:4.3,6) (155:1.4)
 la vida no es real para quien no puede hacer una cosa con pericia (160:4.11)
 
-Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | PLACE | OK
+Región del Caribe; región del Caribe | (59:1.5) (59:2.2) | | PLACE | 
 > https://es.wikipedia.org/wiki/Caribe_(región)
 
-Cárpatos | (61:1.12) | | PLACE | OK
+Cárpatos | (61:1.12) | | PLACE | 
 > https://es.wikipedia.org/wiki/Montes_Cárpatos
 
 carpintero | | | | OK
@@ -409,7 +409,7 @@ Jesús utilizó la primera y única parábola relacionada con su propio oficio, 
 carpintería; taller de carpintería | | | | OK
 José añadió un taller de carpintería a la casa de Nazaret (122:6.3)
 
-mármol de Carrara | (60:1.4) | | | OK
+mármol de Carrara | (60:1.4) | | | 
 
 vehículo de vida | | | | OK
 el vehículo de vida es una estado metamórfico en el cual puede convertirse un serafín transportador para trasladar cuerpos inmateriales. El serafín adopta una forma alargado y rodeado de una extraña luz de tonalidad ámbar, y cuando despega lo hace a la velocidad de un relámpago (39:5.14)
@@ -667,7 +667,7 @@ las criaturas que eran consideradas como mitad humanas y mitad animales, tales c
 
 Centro de Centros | | Padre Universal | PERSON | OK
 
-ciempiés | (65:2.5) | | | OK
+ciempiés | (65:2.5) | | | 
 
 Centroamérica; América Central | | | PLACE | OK
 una raza naranja-azul amalgamada migró a Méjico y América Central (64:7.5)
@@ -678,7 +678,7 @@ universo central | | Havona | PLACE | OK
 
 centuriones | | romanos:nombrado | | OK
 
-cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | OK
+cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | 
 
 cereales | | | | OK
 los cereales abundaron en el Cretácico (60:3.19)
@@ -1715,7 +1715,7 @@ Jesús puso arcilla en los ojos de Josías, el mendigo ciego (164:3.8)
 hubo esculturas de arcilla adornando los jardines de Dalamatia (66:5.26)
 algunas antiguas tablillas sumerias de arcilla que se han encontrado hablan de Dilmun, de un paraíso terrenal «donde los dioses bendijeron por primera vez a la humanidad con el ejemplo de una vida civilizada y culta». (77:4.8)
 
-limpiando el templo | (173:1) | | | OK
+limpiando el templo | (173:1) | | | 
 
 Clemente | | | PERSON | OK
 Clemente fue un destacado maestro cristiano en Alejandría, discípulo de Pantaenos o Panteno. Clemente tuvo como discípulo a Orígenes (195:3.10)
@@ -1814,9 +1814,9 @@ deposición (60:2.7) (60:3.9) (61:2.3)
 abrigo | | | | OK
 Cuando Jesús enseñó a sus apóstoles que si alguien les quitaba injustamente el abrigo, ofrecieran su otro vestido, no se refería literalmente a un segundo abrigo, sino más bien a la idea de hacer algo positivo para salvar al malhechor, en lugar de seguir el antiguo consejo de pagar con la misma moneda —«ojo por ojo» y así sucesivamente. (159:5.11)
 
-polla | | aves de corral | | OK
+pollo | | aves de corral | | OK
 
-cucarachas | (59:5.7) | | | OK
+cucarachas | (59:5.7) | | | 
 
 cacao | | | | OK
 entre los primeros descubrimientos farmacéuticos figura el cacao (90:4.8)
@@ -1867,9 +1867,9 @@ La práctica del sacrificio de los hijos primogénitos fue sustituida por el exi
 trabajadores del color | | | | OK
 Los trabajadores del color son los artistas de entre los Reproductores Celestiales, un grupo dentro de los Artesanos Celestiales (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | OK
+Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
 
-río Colorado | (58:7.5) | | PLACE | OK
+río Colorado | (58:7.5) | | PLACE | 
 
 razas de colores | | razas | RACE | OK
 
@@ -2119,7 +2119,7 @@ Después de alcanzar al Padre de los espíritus y de ser admitidos en el servici
 Muchas vías fascinantes están abiertas al ministerio de los serafines consumados, pero al igual que todos ellos anhelaban ser nombrados guardianes del destino antes de llegar al Paraíso, en su experiencia post-paradisiaca lo que más desean es servir como acompañantes durante la donación de los Hijos Paradisiacos encarnados. (39:9.3)
 a menudo dirigen organizaciones seráficas (39:2.1,5)
 
-composibilidad y omnipotencia | (118:5) | | | OK
+composibilidad y omnipotencia | (118:5) | | | 
 
 manipuladores combinados | | | ORDER | OK
 los Manipuladores de la Energía forman parte del grupo de Artesanos Celestiales. Son las personalidades aplicadas que están tratando de descubrir en realidad la presencia universal de Dios Supremo (44:5.5)
@@ -2281,7 +2281,7 @@ Los conglomerados son los materiales depositados cerca de los litorales.
 Las capas de carbón alternaban con el esquisto, la piedra y el conglomerado. (59:5.15)
 Una gran parte de la arenisca y de los conglomerados más viejos representan las acumulaciones sedimentarias de las riberas antiguas. (58:7.9) (59:1.10) (60:1.1)
 
-coníferas | (60:2.7) | | | OK
+coníferas | (60:2.7) | | | 
 
 conjeturas | | especulaciones | | OK
 
@@ -2502,7 +2502,7 @@ deriva continental
 	El gran período cretáceo se acercaba a su fin, y su terminación señala el final de las grandes invasiones marinas de los continentes. Estos períodos en los que la tierra y el mar predominaban alternativamente se produjeron durante ciclos de millones de años.  (60:4.1)
 	La época de hace 75 millones de años señala el final de la deriva continental. Desde Alaska hasta el Cabo de Hornos, las largas cadenas de montañas de la costa del Pacífico estaban concluidas, pero aún había pocos picos. (60:3.1-2,11-14)
 
-control y sobrecontrol | (118:8) | | | OK
+control y sobrecontrol | (118:8) | | | 
 
 controversias | | argumentos | | OK
 
@@ -2751,7 +2751,7 @@ consejo sobre la alimentación y el bienestar material | | cien de Caligastia | 
 
 consejo (espíritu) | | Espíritus Ayudantes de la Mente:5. Consejo; consejo | | OK
 
-aconsejando al rico | (132:5) | | | OK
+aconsejando al rico | (132:5) | | | 
 
 Consejeros y los Asesores; consejeros y los asesores; consejeros y los asesores | | | ORDER | OK
 los Consejeros y los Asesores son unos Supernafines secundarios del segundo círculo de Havona, y son los instructores de los hijos del tiempo en lo relacionado con la carrera de la eternidad. (26:10.1-7)
@@ -2764,7 +2764,7 @@ contrapartida; contrapartidas | | | | OK
 deberíamos permitir que los Ajustadores nos muestren las contrapartidas espirituales de nuestros esfuerzos materiales (111:7.3)
 Los Hijos Instructores muestran la contrapartida espiritual a la sabiduría material (20:9.2)
 
-contando el costo | (171:2) | | | OK
+contando el costo | (171:2) | | | 
 
 valor; coraje; valentía; valiente | | Espíritus Ayudantes de la Mente:número 3 – coraje; autoconfianza | | OK
 definición
@@ -2852,7 +2852,7 @@ Algunas tribus de indios norteamericanos creían que se habían originado en los
 Nebulosa del Cangrejo; nebulosa del Cangrejo | | | PLACE | OK
 La Nebulosa del Cangrejo colapsó hace 900 años (41:8.4)
 
-cangrejos | (59:1.18) (60:2.9) | crustáceos | | OK
+cangrejos | (59:1.18) (60:2.9) | crustáceos | | 
 
 cuna | | | | OK
 la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad. La mano que mece la cuna fraterniza todavía con el destino. (84:6.4)
@@ -3134,7 +3134,7 @@ Jesús y los apóstoles
 	Tomás predicó en Creta (139:8.13)
 > https://es.wikipedia.org/wiki/Creta
 
-grillos | (59:5.7) | | | OK
+grillos | (59:5.7) | | | 
 
 crimen; crímenes | | criminales; justicia; linchamientos | | OK
 en nación continental más desarrolada de un planeta vecino utilizan métodos para enfrentarse con el crimen, la locura y la degeneración, que aunque en algunos aspectos nos agradarían, en otros nos resultarían espantosos. Los criminales empedernidos más peligrosos y los locos incurables son condenados por los tribunales a morir en las cámaras de gas letal. (72:6.9) (72:10)
@@ -3332,9 +3332,9 @@ El hombre moderno ya no intenta coaccionar abiertamente a los espíritus, aunque
 curvatura | | | | OK
 La filosofía no se atreve a proyectar sus interpretaciones de la realidad de manera lineal como lo hace la lógica; nunca debe olvidar tener en cuenta la simetría elíptica de la realidad y la curvatura esencial de todos los conceptos de relación. (103:6.14)
 
-custodios (Lanonandek) | (35:8.13) | | | OK
+custodios (Lanonandek) | (35:8.13) | | | 
 
-custodios (Portador de vida) | (36:1.3) (36:2.16) | | | OK
+custodios (Portador de vida) | (36:1.3) (36:2.16) | | | 
 
 Custodios del Conocimiento; custodios del conocimiento; custodios superáficos del conocimiento | (27:5) | | ORDER | OK
 Los custodios del conocimiento ayudan a que se pueda consultar la reserva de conocimientos del Paraíso. Los custodios son también los elevados educadores del universo central. En los universos locales, los beneficios del conocimiento paradisiaco sólo se pueden conseguir por vía indirecta y por reflectividad. (27:5.5)

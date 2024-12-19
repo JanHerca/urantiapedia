@@ -279,7 +279,7 @@ a assuré à Eve que les personnes ayant de bonnes intentions ne pouvaient pas f
 influencé Eve par la flatterie, l'enthousiasme, la persuasion personnelle (75:3.9)
 tué par les habitants du jardin (75:5.3)
 
-Cap Horn; cap Horn | (60:3.2) (60:3.12) | | PLACE | OK
+Cap Horn; cap Horn | (60:3.2) (60:3.12) | | PLACE | 
 
 Capharnaüm | (145) (152) (153) (154) (134:7.5) (137:3.5) (138:1.1) (138:9.3) (147:7) | Bethsaïde | PLACE | OK
 Capharnaüm était une ville de pêcheurs située au nord de la mer de Galilée
@@ -308,7 +308,7 @@ Habitants connus
 	* L'apôtre Simon le Zélote était également de Capharnaüm (139:11.1)
 > https://en.wikipedia.org/wiki/Capharnaüm
 
-Cap | (66:5.30) | | PLACE | OK
+Cap | (66:5.30) | | PLACE | 
 
 capital; Capital | | concurrence; propriété privée; profit | | OK
 La vie pastorale offrait un soulagement supplémentaire à l'esclavage alimentaire; l'homme apprit à vivre des intérêts de son capital, de l'augmentation de ses troupeaux; et cela lui procurait plus de loisirs pour la culture et le progrès. (68:5.7)
@@ -350,7 +350,7 @@ Matthieu a prêché en Cappadoce (139:7.10)
 capitaine | | | | OK
 L'esprit est votre navire, l'Ajusteur est votre pilote, la volonté humaine est le capitaine. (111:1.9)
 
-Capoue | (130:0.2) (130:8.6) | | PLACE | OK
+Capoue | (130:0.2) (130:8.6) | | PLACE | 
 
 caravanes | | | | OK
 Vers 7000 av. J.-C., des caravanes de chameaux effectuaient des voyages réguliers vers la lointaine Mésopotamie (79:3.7)
@@ -396,10 +396,10 @@ Un effort dévoué et déterminé pour réaliser la destinée éternelle est ent
 Jésus a déploré toute tendance à la surspécialisation, à l'étroitesse d'esprit et à la limitation des activités de la vie (149:4.3,6) (155:1.4)
 la vie n'est pas réelle pour celui qui ne sait pas faire une chose avec brio (160:4.11)
 
-Région des Caraïbes; région des Caraïbes | (59:1.5) (59:2.2) | | PLACE | OK
+Région des Caraïbes; région des Caraïbes | (59:1.5) (59:2.2) | | PLACE | 
 > https://en.wikipedia.org/wiki/Caribbean
 
-Carpates | (61:1.12) | | PLACE | OK
+Carpates | (61:1.12) | | PLACE | 
 > https://en.wikipedia.org/wiki/Carpathian_Mountains
 
 charpentier | | | | OK
@@ -409,7 +409,7 @@ Jésus a utilisé sa première et unique parabole concernant son propre métier,
 atelier de menuiserie | | | | OK
 Joseph ajouta un atelier de menuiserie à la maison de Nazareth (122:6.3)
 
-Marbre de Carrare; marbre de Carrare | (60:1.4) | | | OK
+Marbre de Carrare; marbre de Carrare | (60:1.4) | | | 
 
 transport de vie | | | | OK
 Le transport de la vie est un état métamorphique dans lequel un séraphin transporteur peut devenir capable de transporter des corps immatériels. Le séraphin adopte une forme allongée entourée d'une étrange lumière ambrée, et lorsqu'il décolle, il le fait à la vitesse de l'éclair. (39:5.14)
@@ -667,7 +667,7 @@ Les créatures considérées comme mi-humaines mi-animales, comme les centaures,
 
 Centre des Centres | | Père Universel | PERSON | OK
 
-mille-pattes | (65:2.5) | | | OK
+mille-pattes | (65:2.5) | | | 
 
 Amérique centrale | | | PLACE | OK
 une race orange-bleue fusionnée a migré vers le Mexique et l'Amérique centrale (64:7.5)
@@ -678,7 +678,7 @@ univers central | | Havona | PLACE | OK
 
 centurions | | Romains:nommés | | OK
 
-céphalopodes | (59:2.11) (59:3.5, 8) (60:1.13) | mollusques | | OK
+céphalopodes | (59:2.11) (59:3.5, 8) (60:1.13) | mollusques | | 
 
 céréales | | | | OK
 les céréales étaient abondantes au Crétacé (60:3.19)
@@ -1715,7 +1715,7 @@ Jésus mit de la boue sur les yeux de Josias, le mendiant aveugle (164:3.8)
 il y avait des sculptures d'argile ornant les jardins de Dalamatia (66:5.26)
 D'anciennes tablettes d'argile sumériennes retrouvées parlent de Dilmun, ce paradis terrestre « où les dieux ont béni l'humanité pour la première fois en lui donnant l'exemple d'une vie civilisée et cultivée » (77:4.8).
 
-purification du temple | (173:1) | | | OK
+purification du temple | (173:1) | | | 
 
 Clément | | | PERSON | OK
 Clément était un éminent enseignant chrétien d'Alexandrie, disciple de Pantaenus ou Panteno. Clément avait Origène comme disciple (195:3.10)
@@ -1816,7 +1816,7 @@ Quand Jésus dit à ses apôtres qu'ils devraient, lorsque l'un d'eux enlevait i
 
 coq | | volaille | | OK
 
-cafards | (59:5.7) | | | OK
+cafards | (59:5.7) | | | 
 
 cacao | | | | OK
 parmi les premières découvertes pharmaceutiques se trouve le cacao (90:4.8)
@@ -1867,9 +1867,9 @@ La pratique du sacrifice des fils premiers-nés fut remplacée par l'exil; ce fu
 ouvriers de couleur | | | | OK
 les ouvriers de la couleur sont les artistes parmi les reproducteurs célestes, un groupe au sein des artisans célestes (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | OK
+Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
 
-Rivière Colorado; Colorado | (58:7.5) | | PLACE | OK
+Rivière Colorado; Colorado | (58:7.5) | | PLACE | 
 
 races colorées | | races | RACE | OK
 
@@ -2119,7 +2119,7 @@ Après avoir atteint le Père des esprits et avoir été admis au service sérap
 De nombreuses voies fascinantes de ministère sont ouvertes aux séraphins de l'accomplissement, mais tout comme ils désiraient tous ardemment être affectés comme gardiens de la destinée à l'époque pré-paradisiaque, de même, dans l'expérience post-paradisiaque, ils désirent surtout servir comme assistants d'effusion des Fils du Paradis incarnés. (39:9.3)
 dirigent souvent des organisations séraphiques (39:2.1,5)
 
-compossibilité et toute-puissance | (118:5) | | | OK
+compossibilité et toute-puissance | (118:5) | | | 
 
 manipulateurs composés | | | ORDER | OK
 Les manipulateurs composés sont des manipulateurs d'énergie qui appartiennent aux artisans célestes. Ce sont des personnalités avides qui cherchent en réalité à découvrir la présence universelle de Dieu le Suprême (44:5.5)
@@ -2281,7 +2281,7 @@ Les conglomérats sont des matières déposées près des rivages.
 Les couches de charbon alternent avec du schiste, de la pierre et du conglomérat. (59:5.15)
 Une grande partie des grès et des conglomérats les plus anciens représentent les accumulations sédimentaires des anciens rivages. (58:7.9) (59:1.10) (60:1.1)
 
-conifères | (60:2.7) | | | OK
+conifères | (60:2.7) | | | 
 
 conjectures | | spéculations | | OK
 
@@ -2502,7 +2502,7 @@ dérive des continents
 	La grande période du Crétacé touchait à sa fin, et sa fin marque la fin des grandes invasions maritimes des continents. Ces périodes alternées de domination terrestre et maritime se sont produites selon des cycles de millions d'années. (60:4.1)
 	Il y a 75 millions d'années, la dérive des continents prit fin. De l'Alaska au cap Horn, les longues chaînes de montagnes de la côte Pacifique étaient achevées, mais il y avait encore peu de sommets. (60:3.1-2,11-14)
 
-contrôle et surcontrôle | (118:8) | | | OK
+contrôle et surcontrôle | (118:8) | | | 
 
 controverses | | arguments | | OK
 
@@ -2751,7 +2751,7 @@ conseil sur l'alimentation et le bien-être matériel | | Cent de Caligastia | P
 
 conseil | | esprits mentaux adjuvats:5 – Conseil; conseil | | OK
 
-conseiller l'homme riche | (132:5) | | | OK
+conseiller l'homme riche | (132:5) | | | 
 
 conseillers et conseillères | | | ORDER | OK
 Les conseillers et les conseillers sont des supernaphins secondaires du deuxième cercle de Havona, et sont les instructeurs des enfants du temps concernant la carrière de l'éternité. (26:10)
@@ -2764,7 +2764,7 @@ homologue; homologues | | | | OK
 nous devrions permettre aux Ajusteurs de nous montrer la contrepartie spirituelle des efforts matériels (111:7.3)
 Les fils enseignants montrent la contrepartie spirituelle de la sagesse matérielle (20:9.2)
 
-compter le prix | (171:2) | | | OK
+compter le prix | (171:2) | | | 
 
 courage; courage; brave | | esprits mentaux adjuvats:3 – Courage; confiance en soi | | OK
 définition
@@ -2852,7 +2852,7 @@ Certaines tribus indiennes d'Amérique du Nord croyaient qu'elles descendaient d
 Nébuleuse du Crabe; nébuleuse du Crabe | | | PLACE | OK
 La nébuleuse du Crabe s'est effondrée il y a 900 ans (41:8.4)
 
-crabes | (59:1.18) (60:2.9) | crustacés | | OK
+crabes | (59:1.18) (60:2.9) | crustacés | | 
 
 berceau | | | | OK
 La femme a toujours été le porte-étendard moral et le chef spirituel de l'humanité. La main qui berce le berceau fraternise toujours avec le destin. (84:6.4)
@@ -3134,7 +3134,7 @@ Jésus et les apôtres
 	Thomas a prêché en Crète (139:8.13)
 > https://en.wikipedia.org/wiki/Crete
 
-grillons | (59:5.7) | | | OK
+grillons | (59:5.7) | | | 
 
 crime; Crime | | criminels; justice; loi du lynchage | | OK
 Dans la nation continentale la plus développée d'une planète voisine, on utilise des méthodes pour traiter le crime, la folie et la dégénérescence qui, bien que nous les trouverions réjouissantes à certains égards, nous révolteraient à d'autres égards. Les criminels endurcis les plus dangereux et les fous incurables sont condamnés par les tribunaux à mourir dans des chambres à gaz mortelles. (72:6.9) (72:10)
@@ -3332,9 +3332,9 @@ L'homme moderne ne cherche plus ouvertement à contraindre les esprits, bien qu'
 courbure | | | | OK
 La philosophie n'ose pas projeter ses interprétations de la réalité de manière linéaire, comme le fait la logique; elle ne doit jamais manquer de tenir compte de la symétrie elliptique de la réalité et de la courbure essentielle de tous les concepts de relation. (103:6.14)
 
-gardiens (Lanonandek) | (35:8.13) | | | OK
+gardiens (Lanonandek) | (35:8.13) | | | 
 
-gardiens (Porteur de Vie) | (36:1.3) (36:2.16) | | | OK
+gardiens (Porteur de Vie) | (36:1.3) (36:2.16) | | | 
 
 gardiens de la connaissance; Gardiens de la connaissance | (27:5) | | ORDER | OK
 Les gardiens de la connaissance aident à faciliter la consultation du vaste trésor de connaissances du Paradis. Les gardiens sont aussi les enseignants exaltés de l'univers central. Ce n'est que par une transmission indirecte et réfléchie que les bienfaits de la connaissance du Paradis sont assurés dans les univers locaux. (27:5.5)

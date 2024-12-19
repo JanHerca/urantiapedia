@@ -51,7 +51,7 @@ capital de Sumeria (78:8.10)
 
 lago Superior | (58:7.5) | | PLACE | 
 
-lago Urmia | | Urmia | PLACE | 
+lago Urmia | | Urmia | PLACE | OK
 
 lago Van | | | PLACE | 
 descendientes de Adanson escucharon el evangelio de Salem en (93:7.2)
@@ -234,7 +234,7 @@ no hay palabra para altruismo (195:3.3)
 Lausana | | | PLACE | 
 Pilato se retiró a Lausana, se suicidó en Lausana (185:1.6)
 
-lava | | volcanes | | 
+lava | | volcanes | | OK
 
 ley | | mandamientos; tribunales; juicio; justicia; abogados | | 
 primero negativa y prohibitiva, después directiva (70:11.2)
@@ -314,7 +314,7 @@ rico; heredó extensos viñedos y olivares (168:0.4) (172:1.7)
 Lázaro (de la parábola nazarea) | | | | 
 parábola de Lázaro y Dives (169:3)
 
-pereza | | indolencia | | 
+pereza | | indolencia | | OK
 
 dirigir | | | | 
 2 pesos atómicos (42:4.12)
@@ -659,7 +659,7 @@ escribió los artículos 57-65 (57:8.27) (58:7.13) (59:6.13) (60:4.7) (61:7.20) 
 Era de los albores de la vida; era | (58:4) | | | 
 Era proterozoica (58:7.1) (59:0.3)
 
-planetas en los que se experimenta con la vida | | planetas decimales | | 
+planetas en los que se experimenta con la vida | | planetas decimales | | OK
 
 destello de vida | | | | 
 energías liberadas en el traslado (55:2.3-5)
@@ -849,7 +849,7 @@ arte de vivir
 Las 613 reglas de los fariseos (163:4.8)
 agua | agua de vida
 
-bibliotecas vivientes del Paraíso | | Custodios del Conocimiento | | 
+bibliotecas vivientes del Paraíso | | Custodios del Conocimiento | | OK
 
 periódicos vivientes de Havona | | | | 
 Supernafines terciarios; Coordinadores de la Información (26:3.8)
@@ -859,7 +859,7 @@ descendiente de reptiles no progresivos (65:2.10)
 
 llamas | (61:2.9) (61:4.4) (61:7.15) | | | 
 
-panes | | pan | | 
+panes | | pan | | OK
 
 langostas | (59:1.18) (60:2.9) | crustáceos | | 
 las langostas aparecieron junto al resto de insectos (59:5.7)
@@ -1008,7 +1008,7 @@ prometer la subordinación eterna a los Hijos Mayores entronizados (33:3.6)
 Los mortales fusionados con el Espíritu logran la vida eterna mediante (40:5.10)
 nunca regresará al Paraíso (14:6.36)
 
-Centros de poder de los universos locales | | Centros de los universos locales | ORDER | 
+Centros de poder de los universos locales | | Centros de los universos locales | ORDER | OK
 
 Hijos de Dios de los universos locales; Hijo de Dios del Universo Local | (35) | Hijos Lanonandek; Portadores de Vida; Hijos Melquisedek; Hijos Vorondadek | ORDER | 
 incumplimiento nunca adjudicado en el universo local (33:7.5)
@@ -1108,7 +1108,7 @@ Los sangiks secundarios eran algo (81:4.2)
 los saharauis superiores eran (80:2.2)
 los primeros nórdicos típicos eran (80:9.2)
 
-longanimidad | | paciencia | | 
+longanimidad | | paciencia | | OK
 
 pico Longs | (60:4.4) | | PLACE | 
 
@@ -1120,9 +1120,9 @@ adopción por los apóstoles de Juan y Jesús (144:6.5)
 Jesús formuló a los 15 años (126:3.3-4)
 Jesús recitó en el bautismo (136:2.4)
 
-Cena del Señor | | Cena del Recuerdo | | 
+Cena del Señor | | Cena del Recuerdo | | OK
 
-perder | | derrota | | 
+perder | | derrota | | OK
 
 el perdido | | | | 
 Padre e Hijo buscan (169:1.4)
@@ -1140,9 +1140,9 @@ Sobrino de Abraham; fue a Salem (93:5.5-9,12)
 Moisés reunió descendientes de (96:5.9)
 fue a Sodoma para dedicarse al comercio, la cría de animales (93:5.9)
 
-loción | | ungüento | | 
+loción | | ungüento | | OK
 
-suerte (echar) | | echando suertes | | 
+suerte (echar) | | echando suertes | | OK
 
 Louisville | (59:4.6) | | PLACE | 
 
@@ -1449,7 +1449,7 @@ creyente firme en la igualdad social (140:8.16)
 
 Personas luminosas | | Deidad | | 
 
-lunáticos | | locura | | 
+lunáticos | | locura | | OK
 
 pulmones | | | | 
 Las vejigas natatorias de los artrópodos evolucionaron a (59:5.5)

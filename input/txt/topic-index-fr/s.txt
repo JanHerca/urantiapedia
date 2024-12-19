@@ -199,7 +199,7 @@ Jésus a prêché ici
 sauvegarder | | | |
 la sauvegarde spirituelle la plus sûre est la foi en la présence du Père dans ses Fils (32:3.6)
 
-Sage de Salem | | Melchizédek, Machiventa | PERSON |
+Sage de Salem | | Melchizédek, Machiventa | PERSON | OK
 
 Sagittaire | | | PLACE |
 centre de notre secteur mineur, Ensa (15:3.5-11) (41:0.4)
@@ -352,7 +352,7 @@ situé au centre de masse énergétique de Nébadon (32:2.4)
 autorité judiciaire suprême de l'univers local (43:2.2)
 heure de | temps
 
-Université de Salvington | | Université Melchizédek | PLACE |
+Université de Salvington | | Université Melchizédek | PLACE | OK
 
 Samarie | (143) (123:5.13) (134:7.5) | Palestine; Samaritains | PLACE |
 Au temps des prophètes
@@ -410,7 +410,7 @@ le grès rouge suggère des conditions arides (59:4.7) (60:1.1-4)
 accumulations sédimentaires des rivages anciens (58:7.9)
 transformé en quartz (59:1.16)
 
-tempêtes de sable | | tempêtes | |
+tempêtes de sable | | tempêtes | | OK
 
 famille Sangik | | Sangiks | RACE |
 19 enfants intelligents dont la peau a changé de couleur (64:5.2-3)
@@ -547,7 +547,7 @@ univers voisin de Nébadon (32:2.12)
 Sarah | | | PERSON |
 La brillante épouse d'Abraham (93:5.7) (93:9.3,8)
 
-sarcasme | | ridicule | |
+sarcasme | | ridicule | | OK
 
 Sarepta | (156:3.2) | | PERSON |
 
@@ -564,7 +564,7 @@ a uni toute la Mésopotamie (78:8.8)
 Sarid | | | PLACE |
 La ferme de l'oncle de Jésus à (123:1.7)
 
-Sartaba (mont) | | mont Sartaba | PLACE |
+Sartaba (mont) | | mont Sartaba | PLACE | OK
 
 Sasta | | | PERSON |
 Les disciples de Gautama l'appelèrent (94:8.2)
@@ -653,7 +653,7 @@ les clans du nord se sont ralliés pour résister aux Ammonites (97:9.3-5)
 il fallait 100 prépuces de Philistins comme dot pour Mical (70:1.18)
 s'est suicidé sur le mont Guilboa (124:6.3) (134:9.5)
 
-Saul de Tarse | | Paul | PERSON |
+Saul de Tarse | | Paul | PERSON | OK
 
 sauveur | | | |
 Jésus était (188:4.7) (188:5.2)
@@ -683,7 +683,7 @@ Dieux de la triade (104:0.3)
 évadés | | | |
 le chasseur de têtes a fourni un substitut à sa propre vie (89:0.1)
 
-scolarité | | éducation | |
+scolarité | | éducation | | OK
 
 écoles des sept cercles | | | |
 Les conseillers techniques se forment en (25:4.14)
@@ -767,7 +767,7 @@ Scythopolis | (123:0.6) (144:7.1) (149:0.1) (159:0.2) (162:0.1) | | PLACE |
 principale cité grecque de la Décapole (124:3.6-9)
 Jésus admirait les jeux grecs à Scythopolis (124:3.7-9) (124:6.4)
 
-commerce maritime | | bateaux | |
+commerce maritime | | bateaux | | OK
 
 concombres de mer | (65:2.5) | | |
 
@@ -871,7 +871,7 @@ guider les ascendeurs dans la perplexité, l'incertitude et les urgences (28:7.2
 seconde venue | | Jésus:seconde venue | |
 les groupes attendent toujours le retour des dirigeants (92:5.6)
 
-deuxième Trinité expérientielle | | Trinité Absolue | PERSON |
+deuxième Trinité expérientielle | | Trinité Absolue | PERSON | OK
 
 deuxième jardin | (76) | Adam; Jardin d'Eden | PLACE |
 1 des 3 sélections originales pour Jardin d'Eden (76:1.3)
@@ -890,9 +890,9 @@ vie religieuse difficile à organiser; les Nodites sont aux commandes (76:2.3)
 deuxième mile | | | |
 porter le paquet (159:5.15)
 
-Deuxième Personne de la Déité | | Fils Éternel | PERSON |
+Deuxième Personne de la Déité | | Fils Éternel | PERSON | OK
 
-Seconde Source et Centre | | Fils Éternel | PERSON |
+Seconde Source et Centre | | Fils Éternel | PERSON | OK
 
 Superviseurs secondaires des circuits; superviseurs secondaires des circuits | | | ORDER |
 numéro 84 691 sur Uversa; nombres en augmentation (24:1.9)
@@ -917,7 +917,7 @@ les sociétés secrètes enseignaient à garder des secrets (70:7.16)
 il n'y a pas de secrets arbitraires (18:1.4)
 la divulgation illimitée de l'expression du péché est le remède final le plus rapide (54:5.9-12)
 
-police secrète | | police | |
+police secrète | | police | | OK
 
 sociétés secrètes | (70:7) | | |
 basé sur le rite de boire du sang (89:9.3)
@@ -929,15 +929,15 @@ pouvoir du mystère conféré aux membres (70:7.2-7)
 tests d'initiation de la puberté (70:7.7-15)
 types sociopolitiques et religio-mystiques (70:7.1)
 
-secrets | | mystères; secret | |
+secrets | | mystères; secret | | OK
 
 Secret de Grandeur; Le Secret de Grandeur | | seconaphin | ORDER |
 attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne portent ni nom ni nombre (28:6.1)
 seconaphin tertiaire; associé aux Âmes de Bonté (28:6.20-22)
 
-Les secrets de la suprématie | | Secrets de Suprématie Trinitisés | ORDER |
+Les secrets de la suprématie | | Secrets de Suprématie Trinitisés | ORDER | OK
 
-sectes | | Christianisme; cultes | |
+sectes | | Christianisme; cultes | | OK
 
 laïcité | | matérialisme; mécanisme (théorie) | RELIGION |
 attribue le besoin d'être altruiste à l'esprit matériel (103:5.3)
@@ -971,7 +971,7 @@ plantes portant des graines
 	évolution à partir des spores (65:6.3)
 Parfois, planter une graine nécessite sa mort (48:6.36)
 
-voyants | | prophètes | |
+voyants | | prophètes | | OK
 
 segregata | | énergie; éther | |
 absoluta modifié par les organisateurs de la Force principale primaire (12:2.4) (15:4.2,4) (29:5.4-5) (42:1.5) (42:2.7-9) (56:9.1-2)
@@ -1000,7 +1000,7 @@ révéler les êtres qui fonctionnent le mieux en association temporaire (48:2.2
 dans le registre de personnalité d'Uversa (30:2.114)
 type de superviseur du pouvoir morontiel; certifie les progresseurs morontiels pour un statut avancé (48:2.23)
 
-Séleucides | | Syrie | |
+Séleucides | | Syrie | | OK
 
 soi | (112:2) | identité; individu; mortels; personnalité | |
 ne pas prendre trop au sérieux (48:6.37)
@@ -1029,11 +1029,11 @@ le travail est important, l'égo ne l'est pas (48:6.37)
 auto-humiliation | | | |
 la coopération avec l'Ajusteur n'implique pas un auto-humiliation ostentatoire (110:3.4)
 
-Ajusteurs auto-agissants | | Ajusteurs de Pensée:types d'Ajusteurs | ORDER |
+Ajusteurs auto-agissants | | Ajusteurs de Pensée:types d'Ajusteurs | ORDER | OK
 
-admiration de soi | | suffisance | |
+admiration de soi | | suffisance | | OK
 
-autoglorification | | affirmation de soi | |
+autoglorification | | affirmation de soi | | OK
 
 auto-analyse | | critique | |
 la défaite est un véritable miroir dans lequel on peut voir son vrai soi (156:5.17)
@@ -1059,9 +1059,9 @@ basé sur l'assurance de faire la volonté du Père (181:1.8)
 Pierre est présomptueux (181:2.27)
 L'Esprit de Vérité donne (194:0.1)
 
-conscience de soi | | conscience | |
+conscience de soi | | conscience | | OK
 
-auto-contemplation | | auto-analyse; suffisance | |
+auto-contemplation | | auto-analyse; suffisance | | OK
 
 maîtrise de soi | | abnégation | |
 atteindre la maîtrise de soi
@@ -1094,7 +1094,7 @@ compréhension de soi caractérisée par la maîtrise volontaire de soi (132:3.1
 la vraie liberté est le fruit de (54:1.5-6) (71:3.7)
 la confiance est la véritable mesure de la maîtrise de soi (28:6.13)
 
-autocritique | | auto-analyse | |
+autocritique | | auto-analyse | | OK
 
 auto-illusion | | | |
 la plus grande tromperie envers soi-même est de chercher à priver les autres de leurs libertés naturelles (54:1.6-8)
@@ -1132,22 +1132,22 @@ autodétermination | | | |
 erreur de (35:10.5) (134:6.11)
 Lucifer préconisait que les ascendants devraient jouir de la liberté de (53:3.6)
 
-autodiscipline | | maîtrise de soi | |
+autodiscipline | | maîtrise de soi | | OK
 
-autodistribution | | délégation | |
+autodistribution | | délégation | | OK
 
-auto-exaltation | | suffisance | |
+auto-exaltation | | suffisance | | OK
 
-auto-examen | | auto-analyse | |
+auto-examen | | auto-analyse | | OK
 
-expression de soi | | réalisation de soi | |
+expression de soi | | réalisation de soi | | OK
 
 oubli de soi | | | |
 cessez de penser à vous-même et à vos problèmes (191:1.2)
 Le Père se manifeste dans ceux qui manifestent (196:0.8-9)
 au lieu du sacrifice de soi (180:5.12)
 
-autonomie gouvernementale | | gouvernement; maîtrise de soi | |
+autonomie gouvernementale | | gouvernement; maîtrise de soi | | OK
 
 autosatisfaction | | chair; plaisirs; sexe:envie | |
 atteint par la satisfaction alimentaire, le jeu, l'humour, l'indulgence sexuelle (84:0.2-3) (84:8.2-3)
@@ -1186,7 +1186,7 @@ le premier sera le dernier (163:3.4) (166:3.5)
 les épreuves de la vie doivent d'abord préparer les satisfaits d'eux-mêmes (132:7.2)
 le travail est important, l'égo ne l'est pas (48:6.37)
 
-autojustification | | auto-illusion | |
+autojustification | | auto-illusion | | OK
 
 auto-entretien | | | |
 construit la société (68:2.2,3,11)
@@ -1196,7 +1196,7 @@ est individuel, mais exercé par le groupe (82:3.2)
 la préservation de soi suit toujours (50:5.5)
 la femme est nettement désavantagée par rapport à l'homme en ce qui concerne son entretien (84:5.1)
 
-maîtrise de soi | | maîtrise de soi | |
+maîtrise de soi | | maîtrise de soi | | OK
 
 auto-perpétuation | (82:1.8) | | |
 intérêt de groupe porté par des individus (68:2.3) (69:1.4) (82:3.2)
@@ -1231,9 +1231,9 @@ Jésus
 la perte du respect de soi aboutit à la paralysie de la volonté (159:3.3)
 la société devrait viser à préserver les citoyens (71:3.9)
 
-suffisance | | suffisance | |
+suffisance | | suffisance | | OK
 
-autosatisfaction | | suffisance | |
+autosatisfaction | | suffisance | | OK
 
 auto-torture | | | |
 ancienne forme de deuil (87:2.4)
@@ -1241,7 +1241,7 @@ la coopération avec l'Ajusteur n'implique pas (110:3.4)
 dans les anciennes cérémonies d'initiation (70:7.10)
 idées plus anciennes d'autodiscipline adoptées (89:3.4)
 
-individualité | | soi | |
+individualité | | soi | | OK
 
 égoïsme | | altruisme; suffisance | |
 les actes d'égoïsme résultent de sentiments matériels, d'émotions humaines (102:3.3)
@@ -1269,7 +1269,7 @@ la fatigue est la récompense de (131:1.6)
 celui qui voudra sauver sa vie la perdra (103:5.6) (140:5.19) (158:7.5) (160:5.10)
 les prières entièrement égocentriques ne trouvent pas de place dans le circuit spirituel du Fils (7:3.6)
 
-altruisme | | désintéressement | |
+altruisme | | désintéressement | | OK
 
 Selta | | | PERSON |
 a écrit l'apocalypse juive sur le Messie (176:2.8)
@@ -1320,7 +1320,7 @@ faibles normes morales (125:1.2) (128:2.6) (150:7.2)
 Rebecca, fille d'Esdras, déménagea à (127:5.6)
 Tibériade succéda à Sepphoris comme capitale de la Galilée (129:1.1-2) (135:12.1)
 
-sépulcres | | tombeaux | |
+sépulcres | | tombeaux | | OK
 
 séquentialité | | temps:nature du temps | |
 
@@ -1392,9 +1392,9 @@ conseiller les enseignants humains de la vérité (48:6.8)
 aider les progresseurs morontiels à choisir parmi les itinéraires optionnels vers Havona (48:6.5)
 murmura le Psaume 23 au jeune berger (48:6.8-20)
 
-gardiens séraphiques du destin | | gardiens du destin | ORDER |
+gardiens séraphiques du destin | | gardiens du destin | ORDER | OK
 
-armées séraphiques | | séraphins | ORDER |
+armées séraphiques | | séraphins | ORDER | OK
 
 séraphins | | anges; anges gardiens; gardiens du destin; transport séraphique, sécoraphique et supéraphique | ORDER |
 500 millions de couples sur Urantia en 1934 (114:0.1)
@@ -1597,7 +1597,7 @@ le transport séraphique est un secret de (13:1.20)
 les séraphins atteignent la perfection, la suprématie du service sur (26:4.11)
 les séraphins ne peuvent pas initier le départ pour (39:8.4)
 
-servage | | esclavage | |
+servage | | esclavage | | OK
 
 Sermon sur la montagne | (140:3) | | |
 basé sur la foi et l'amour, et non sur l'éthique et le devoir (140:5.23)
@@ -1701,17 +1701,17 @@ les prêtres ont envahi l'Europe avec les Andonites (80:9.6)
 Sumer gouverné par des descendants apostats de (78:8.7)
 Concept de la Trinité (79:3.4) (104:1.2)
 
-sept | | 7 | |
+sept | | 7 | | OK
 
-Sept Absolus de l'Infini | | Absolus:les sept | PERSON |
+Sept Absolus de l'Infini | | Absolus:les sept | PERSON | OK
 
-Sept superviseurs centraux | | Maîtres Esprits, Sept | PERSON |
+Sept superviseurs centraux | | Maîtres Esprits, Sept | PERSON | OK
 
-sept cercles psychiques | | cercles psychiques | |
+sept cercles psychiques | | cercles psychiques | | OK
 
-sept mondes sacrés du Fils Éternel | | sphères sacrées du Paradis | PLACE |
+sept mondes sacrés du Fils Éternel | | sphères sacrées du Paradis | PLACE | OK
 
-sept sphères secrètes du Père Universel | | sphères sacrées du Paradis | PLACE |
+sept sphères secrètes du Père Universel | | sphères sacrées du Paradis | PLACE | OK
 
 sept esprits de Dieu | | | PERSON |
 Référence biblique aux esprits mentaux adjuvats (34:4.11)
@@ -1731,7 +1731,7 @@ serviteurs des Sept Maîtres Esprits (17:5.1)
 représentation impersonnelle uniforme de l'Esprit Infini et des Sept Maîtres Esprits à Havona (14:1.9) (17:0.11) (17:5.1) (26:2.6)
 travail confiné à Havona (17:5.2)
 
-sept superunivers | | superunivers | PLACE |
+sept superunivers | | superunivers | PLACE | OK
 
 Sept Maitres Esprits; Sept Agents Exécutifs Suprêmes | (17:1) | Exécutif Suprême n° 7 (d'Orvonton) | PERSON |
 7 architectes du superunivers du Maître Univers associés à (31:9.5)
@@ -1772,11 +1772,11 @@ semi-matériau; quasi-physique (29:1)
 stationné sur le Paradis périphérique (11:4.2) (29:1.3)
 avec Sept Maîtres Esprits, a créé tous les Directeurs de Pouvoir de l'Univers et les Serviteurs de Havona (25:1.2) (29:0.10) (29:1.4) (29:2.1) (29:3.1) (29:4.23)
 
-sept groupes d'Esprits suprêmes | | sprits Suprêmes | ORDER |
+sept groupes d'Esprits suprêmes | | sprits Suprêmes | ORDER | OK
 
-sept mondes de l'Esprit Infini | | sphères sacrées du Paradis | PLACE |
+sept mondes de l'Esprit Infini | | sphères sacrées du Paradis | PLACE | OK
 
-Septuple | | Dieu le Septuple | |
+Septuple | | Dieu le Septuple | | OK
 
 contrôleurs septuples | (116:5) | | ORDER |
 membres
@@ -1933,7 +1933,7 @@ avec un partenaire est divin (133:2.2)
 
 requins | (59:4.11) (59:5.8) | | |
 
-Shawnee Tenskwatawa | | Tenskwatawa | PERSON |
+Shawnee Tenskwatawa | | Tenskwatawa | PERSON | OK
 
 Shéchem | (134:7.5) (186:3.2-3) | | PLACE |
 Jésus est décédé
@@ -2013,13 +2013,13 @@ choc | | | |
 les classes inférieures faisaient des exécutions cérémonielles en Grèce (98:1.1)
 certains ont apprécié la crucifixion pour (187:0.4)
 
-étoiles filantes | | météores | |
+étoiles filantes | | météores | | OK
 
 raccourcis | | | |
 jamais aucun gain de (75:8.5)
 Pas de raccourcis vers le paradis (48:5.7)
 
-rayons spatiaux courts | | rayons spatiaux | |
+rayons spatiaux courts | | rayons spatiaux | | OK
 
 pain de proposition | | | |
 Le roi David mangeait du pain de proposition lorsqu'il avait faim (147:6.4)
@@ -2029,9 +2029,9 @@ parabole de (169:2)
 
 crevettes | (59:1.18) | crustacés | |
 
-sanctuaires | | temples | |
+sanctuaires | | temples | | OK
 
-arbuste d'Édentia | | arbre de vie | |
+arbuste d'Édentia | | arbre de vie | | OK
 
 Shunem | (124:6.3) (150:5.1) | | PLACE |
 Jésus a prêché
@@ -2073,7 +2073,7 @@ servir tous (163:1.4) (190:3.1)
 s'abstenir de mépriser les moyens matériels de guérison (164:3.15)
 s'abstenir d'enseigner l'attente de miracles (163:4.3)
 
-Siddharta | | Gautama Siddharta | PERSON |
+Siddharta | | Gautama Siddharta | PERSON | OK
 
 Siddim | | | PLACE |
 La victoire d'Abraham à la bataille de (93:5.14) (93:9.9)
@@ -2536,14 +2536,14 @@ slogans | | | |
 devise des United Midwayers (77:9.3)
 la religion doit être à jour (195:6.10)
 
-paresse | | indolence | |
+paresse | | indolence | | OK
 
 serviteur paresseux | | | |
 parabole de (165:6.2-3)
 
 paresseux | (61:4.3) (61:4.4) (61:5.7) (61:7.15) | | |
 
-forgerons | | forgerons noirs | |
+forgerons | | forgerons noirs | | OK
 
 signaux de fumée | | | |
 système de messages précoces (69:4.7)
@@ -2592,7 +2592,7 @@ socialisme | | communisme; gouvernement | |
 les gouvernements locaux pratiquent le socialisme dans la nation continentale (72:7.1,3)
 enseignements faux (99:5.1)
 
-société | | civilisation | |
+société | | civilisation | | OK
 
 sociologie | | | |
 la civilisation en danger lorsque la jeunesse se laisse aller (111:4.4)
@@ -2614,11 +2614,11 @@ Lot alla à (93:5.9,12)
 Sol Invictus | | | PERSON |
 Dieu solaire mithraïque (98:5.3)
 
-énergie solaire | | soleils | |
+énergie solaire | | soleils | | OK
 
 rayonnement solaire | (41:5) | soleils | |
 
-supergaz solaires | | soleils | |
+supergaz solaires | | soleils | | OK
 
 systèmes solaires | | Monmatia; planètes; soleil (celui d'Urantia); soleils | PLACE |
 
@@ -2766,7 +2766,7 @@ sein du Fils; demeure paradisiaque des Fils de Dieu (13:1.7)
 les finalitaires mortels ont obtenu l'autorisation de (13:2.6)
 mystères de l'incarnation pleinement connus sur (7:5.4) (13:1.8) (13:2.6) (119:1.6) (119:3.6) (119:7.5)
 
-fils d'Anne | | Anne | |
+fils d'Anne | | Anne | | OK
 
 Fils de Dieu | | | ORDER |
 êtres descendants du Père et du Fils (38:2.2)
@@ -3005,9 +3005,9 @@ race majoritairement rouge mais aussi jaune, orange et bleu (79:5.8)
 surgit des profondeurs du Pacifique (57:8.21)
 lente dérive vers l'ouest (58:4.3)
 
-Souverain Michaels | | Maitres Micaëls | ORDER |
+Souverain Michaels | | Maitres Micaëls | ORDER | OK
 
-Fils Souverains | | Maitres Micaëls | ORDER |
+Fils Souverains | | Maitres Micaëls | ORDER | OK
 
 souveraineté | | | |
 parce que les Anciens des Jours n'ont pas mérité le droit de régner, ils seront remplacés par le Suprême (18:3.8-9)
@@ -3249,9 +3249,9 @@ gouvernement représentatif impensable sans (71:2.13)
 sorts | | | |
 Jésus a dénoncé la croyance en (150:3.12)
 
-sphères de l'espace | | corps spatiaux | PLACE |
+sphères de l'espace | | corps spatiaux | PLACE | OK
 
-sphères du Père | | sphères sacrées du Paradis | PLACE |
+sphères du Père | | sphères sacrées du Paradis | PLACE | OK
 
 spicules | | | |
 Primates, les Andonites se sont développés (63:1.2-3) (63:5.6)
@@ -3400,9 +3400,9 @@ Les mortels d'Urantia ne deviendront pas (30:4.9)
 pourquoi certains sont fusionnés avec l'Esprit (40:10)
 les mondes des mortels fusionnés avec l'Esprit évoluent de manière identique à la série de fusion avec l'Ajusteur (55:0.4)
 
-esprits mortels | | mortels ascendants | ORDER |
+esprits mortels | | mortels ascendants | ORDER | OK
 
-Esprit Mère | | Esprit Infini | PERSON |
+Esprit Mère | | Esprit Infini | PERSON | OK
 
 esprit de Dieu | | | PERSON |
 Esprit Infini (8:5.5)
@@ -3482,7 +3482,7 @@ Spiritington | (13:1.9-10) | sphères sacrées du Paradis | PLACE |
 sein de l'Esprit; demeure paradisiaque des êtres supérieurs de l'Esprit Infini (13:1.9)
 le secret est la réflectivité (13:1.10)
 
-spiritisme, dualisme | | spiritisme dualiste | |
+spiritisme, dualisme | | spiritisme dualiste | | OK
 
 esprits | | mortels ascendants; créatures | |
 Les esprits mortels du 6ème stade n'ont pas atteint la finalité du statut (31:3.3-6) (40:10.12) (107:5.6)
@@ -3497,9 +3497,9 @@ Les Esprits des Circuits d'Havona | | Sept Esprits des Circuits d'Havona | ORDER
 esprits de confiance | | séraphins | ORDER |
 séraphins auxiliaires planétaires; inculquer la confiance (39:5.7-9)
 
-assurance spirituelle | | assurance | |
+assurance spirituelle | | assurance | | OK
 
-accomplissement spirituel | | croissance spirituelle | |
+accomplissement spirituel | | croissance spirituelle | | OK
 
 communion spirituelle | (103:4) | Dieu:conscience de Dieu; méditation; prière; croissance spirituelle; culte | |
 effet de la communion spirituelle
@@ -3529,7 +3529,7 @@ Le Souper du Souvenir est une parabole de (179:5)
 éloignez-vous de l'agitation de la vie et renouvelez votre esprit en (156:5.12)
 la vérité n'existe qu'au niveau de (180:5.2)
 
-consécration spirituelle | | consécration du choix | |
+consécration spirituelle | | consécration du choix | | OK
 
 manipulateurs d'énergie spirituelle | | | ORDER |
 manipulateur d'énergie artisans célestes (44:5.4)
@@ -3681,11 +3681,11 @@ le leadership social transformé par (99:4.2)
 transcende et supplante la conscience mentale (9:4.2)
 transforme la défaite en déterminations plus élevées (196:3.29)
 
-paix spirituelle | | paix:paix spirituelle | |
+paix spirituelle | | paix:paix spirituelle | | OK
 
-présence spirituelle | | Dieu:conscience de Dieu | |
+présence spirituelle | | Dieu:conscience de Dieu | | OK
 
-progrès spirituel | | croissance spirituelle | |
+progrès spirituel | | croissance spirituelle | | OK
 
 renaissance spirituelle | (100:5) | consécration du choix; foi; évangile; royaume des cieux; salut; soumission | |
 par la foi vivante (193:0.3)
@@ -3737,7 +3737,7 @@ les morts ne reviennent jamais sur leur planète natale dans la même dispensati
 les médians non impliqués dans le soi-disant spiritualisme (77:8.13)
 les chamanes prétendaient être des médiums (90:1.3) (90:2.5)
 
-spiritualité | | croissance spirituelle | |
+spiritualité | | croissance spirituelle | | OK
 
 spironga | | | ORDER |
 créé par Gabriel et le père Melchizédek; exécuter la routine
@@ -3781,7 +3781,7 @@ la prière peut être une explosion spontanée de conscience de Dieu (91:8.5,10)
 amitié spontanée des fils nés de l'esprit (180:5.12)
 la véritable adoration est spontanée (5:5.3) (27:4.2) (27:7.2) (47:7.5)
 
-plantes à spores | | plantes:plantes à spores | |
+plantes à spores | | plantes:plantes à spores | | OK
 
 spornagie | (46:7) | | ORDER |
 gardiens d'animaux de sphères architecturales (37:10.3) (45:0.3)
@@ -3836,7 +3836,7 @@ se termine par une mort inévitable (39:4.12) (112:5.20)
 enjeu | | | |
 Le bûcher était autrefois monnaie courante pour les délits sexuels (70:10.14)
 
-endurance | | persistance | |
+endurance | | persistance | | OK
 
 heure normale | | temps:jours et années | |
 heure de l'univers local (33:6.9)
@@ -3904,7 +3904,7 @@ vapeur | | | |
 les hommes primitifs n'expérimenteraient pas (66:5.25)
 Le jeune Jésus réfléchissait (124:1.8)
 
-nuages de gaz stellaires | | nuages d'étoiles | PLACE |
+nuages de gaz stellaires | | nuages d'étoiles | PLACE | OK
 
 Étienne | | | PERSON |
 chef compétent des croyants grecs à Jérusalem; premier martyr (128:3.6) (194:4.11-12)
@@ -4004,9 +4004,9 @@ Jacques Zébédée était un bon conteur (139:3.3)
 Jésus était un maître conteur (126:2.6) (130:7.1)
 Nathanaël, le meilleur conteur parmi les apôtres (139:6.4)
 
-tension | | anxiété | |
+tension | | anxiété | | OK
 
-prédicateur étrange | | Aden | PERSON |
+prédicateur étrange | | Aden | PERSON | OK
 
 étrangers | | | |
 il était autrefois coutume de tuer ou d'asservir tout le monde (70:3.6)
@@ -4022,28 +4022,28 @@ force | | | |
 la grandeur ne réside pas dans la possession de la force, mais dans l'utilisation sage et divine de sa force (48:7.27)
 ceux qui s'attendent au Seigneur renouvelleront leur (97:7.8) (131:2.6)
 
-stress | | anxiété | |
+stress | | anxiété | | OK
 
 fort | | | |
 seule la fraternité empêche le fort d'opprimer le faible (71:4.17)
 
-structures | | bâtiments | |
+structures | | bâtiments | | OK
 
-lutte | | effort | |
+lutte | | effort | | OK
 
 visiteurs étudiants | | | ORDER |
 autorisé sur toutes les planètes habitées, même isolées (48:3.10)
 dans le registre de personnalité d'Uversa (30:2.155)
 observateurs, élèves d'échange, étudiants assistants (30:3.11)
 
-étude | | éducation | |
+étude | | éducation | | OK
 
 esturgeon | (60:2.9) | | |
 
 sous-respirateurs | | mortels:types planétaires | |
 type de mortel atmosphérique; 2-1/2% dans Satania; les êtres sur Mars seraient (49:2.12-13)
 
-subconscient | | esprit mortel | |
+subconscient | | esprit mortel | | OK
 
 soumission | (178:3.3) | consécration du choix; foi; évangile; humilité; douceur; renaissance spirituelle; volonté de Dieu | |
 soumission active et vigilante à la volonté du Père (140:8.3) (142:6.8) (181:2.15) (182:2.1-2)
@@ -4074,7 +4074,7 @@ la volonté de Dieu ne submerge pas, mais augmente la personnalité (117:5.2)
 quand il est permis à la religion de posséder véritablement l'homme (102:2.8)
 céder le contrôle des pouvoirs de l'âme à l'esprit intérieur (1:3.7) (5:1.12) (133:7.10) (144:5.95) (146:3.5-7) (181:2.11)
 
-sous-normaux | | inférieurs | |
+sous-normaux | | inférieurs | | OK
 
 Succoth | (165:0.1) | | PLACE |
 Mission Pérée
@@ -4082,7 +4082,7 @@ Mission Pérée
 Sudna | | | PERSON |
 Havona Servital qui est devenu Guide Diplômé (24:7.5)
 
-Soudanisme | | Jaïnisme | RELIGION |
+Soudanisme | | Jaïnisme | RELIGION | OK
 
 région de Suez | (61:3.8) | | PLACE |
 
@@ -4272,7 +4272,7 @@ l'ordre sous-jacent existe dans les bouleversements énergétiques entre (4:1.5)
 Les directeurs de puissance de l'univers utilisent les soleils comme stations intermédiaires pour concentrer et diriger les circuits d'énergie (41:3.1)
 les soleils très chauds aident à empêcher la gravité de convertir toute l'énergie en matière (15:8.5)
 
-taches solaires | | soleils | |
+taches solaires | | soleils | | OK
 
 Suntites | | | RACE |
 Jardin d'Eden occupé après défaut (73:7.1)
@@ -4280,14 +4280,14 @@ Jardin d'Eden occupé après défaut (73:7.1)
 monde des superanges | | Jérusalem:mondes culturels de transition | PLACE |
 monde culturel de transition #4 (45:1.6)
 
-superanges | | Brillantes Étoiles du Soir | ORDER |
+superanges | | Brillantes Étoiles du Soir | ORDER | OK
 
 superrespirateurs | | mortels:types planétaires | |
 type de mortel atmosphérique; 5% dans Satania; les êtres sur Vénus seraient (49:2.12-13)
 
-esprit supraconscient | | esprit mortel | |
+esprit supraconscient | | esprit mortel | | OK
 
-superfantômes | | fantômes | |
+superfantômes | | fantômes | | OK
 
 séraphins supérieurs | | séraphins | ORDER |
 certains trompés par la rébellion de Lucifer (53:7.6)
@@ -4814,12 +4814,12 @@ ne subit aucune formation; créé dans la perfection; aucune évolution dans les
 utiliser de vastes mécanismes matériels (29:3.7)
 avec les Maîtres Contrôleurs Physiques, a construit Salvington en 1 milliard d'années (32:2.3)
 
-Directeurs suprêmes du pouvoir | | sept Directeurs de pouvoir suprêmes | PERSON |
+Directeurs suprêmes du pouvoir | | sept Directeurs de pouvoir suprêmes | PERSON | OK
 
 réaction suprême du complément | | | |
 naissance de l'Esprit-Mère de l'univers local (17:6.3)
 
-Dirigeants suprêmes | | Dieu | |
+Dirigeants suprêmes | | Dieu | | OK
 
 séraphin suprême | | séraphins | ORDER |
 don de Michael comme (39:1.15) (119:4)
@@ -4992,7 +4992,7 @@ ne tombez pas dans des enchevêtrements d'incompréhensions (191:4.3)
 
 rivière Susquehanna | (59:4.16) | | PLACE |
 
-sueur | | transpiration | |
+sueur | | transpiration | | OK
 
 porcs | (61:1.9) (61:2.9) | | |
 sont devenus des animaux fétiches (88:1.5)
@@ -5057,7 +5057,7 @@ Le Sanhédrin n'exerçait aucun contrôle direct sur les synagogues. en dehors d
 à la recherche de sièges importants dans (166:1.4) (175:1.9)
 lorsque les ennemis vous amènent devant les dirigeants de (165:3.7)
 
-syncope | | musique | |
+syncope | | musique | | OK
 
 Syracuse | (130:0.2) | | PLACE |
 La semaine de Jésus à (130:8.2)

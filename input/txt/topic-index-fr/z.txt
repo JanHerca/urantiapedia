@@ -32,7 +32,7 @@ adopté l'ancêtre de Joseph (122:4.3)
 Zaphon | (159:0.2) (165:0.1) | | PLACE |
 Mission Pérée
 
-zèle | | enthousiasme | |
+zèle | | enthousiasme | | OK
 
 Zélotes | | | |
 Jésus a refusé de se joindre à eux (127:2.1-10) (136:9.7)
@@ -54,13 +54,13 @@ entreprise de séchage de poisson détenue (139:1.1)
 a acheté la participation de Joseph dans une propriété de Capharnaüm (127:6.10)
 avec sa femme Salomé il eut 3 fils, 4 filles (129:1.5)
 
-Zébédée, David | | David Zébédée | PERSON |
+Zébédée, David | | David Zébédée | PERSON | OK
 
-Zébédée, Jacques | | Jacques Zébédée | PERSON |
+Zébédée, Jacques | | Jacques Zébédée | PERSON | OK
 
-Zébédée, Jean | | Jean Zébédée | PERSON |
+Zébédée, Jean | | Jean Zébédée | PERSON | OK
 
-Zébédée, Salomé | | Salomé (épouse de Zébédée) | PERSON |
+Zébédée, Salomé | | Salomé (épouse de Zébédée) | PERSON | OK
 
 Zabulon | (146:3.10) (156:6.2) | | PLACE |
 

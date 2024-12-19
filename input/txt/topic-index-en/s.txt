@@ -199,7 +199,7 @@ Jesus preached here
 safeguard | | | | 
 surest spiritual safeguard is faith in Father’s presence in his Sons (32:3.6)
 
-Sage of Salem | | Melchizedek, Machiventa | PERSON | 
+Sage of Salem | | Melchizedek, Machiventa | PERSON | OK
 
 Sagittarius | | | PLACE | 
 center of our minor sector, Ensa (15:3.5-11) (41:0.4)
@@ -352,7 +352,7 @@ situated at energy-mass center of Nebadon (32:2.4)
 supreme local universe judicial authority (43:2.2)
 time of | time
 
-Salvington University | | Melchizedek University | PLACE | 
+Salvington University | | Melchizedek University | PLACE | OK
 
 Samaria | (143) (123:5.13) (134:7.5) | Palestine; Samaritans | PLACE | OK
 In the time of the prophets
@@ -410,7 +410,7 @@ red sandstone suggests arid conditions (59:4.7) (60:1.1-4)
 sedimentary accumulations of ancient shores (58:7.9)
 turned into quartz (59:1.16)
 
-sandstorms | | storms | | 
+sandstorms | | storms | | OK
 
 Sangik family | | Sangiks | RACE | 
 19 intelligent children whose skin turned colors (64:5.2-3)
@@ -547,7 +547,7 @@ neighboring universe to Nebadon (32:2.12)
 Sarah | | | PERSON | 
 Abraham’s brilliant wife (93:5.7) (93:9.3,8)
 
-sarcasm | | ridicule | | 
+sarcasm | | ridicule | | OK
 
 Sarepta | (156:3.2) | | PERSON | 
 
@@ -564,7 +564,7 @@ united all Mesopotamia (78:8.8)
 Sarid | | | PLACE | 
 Jesus’ uncle’s farm at (123:1.7)
 
-Sartaba (mount) | | Mount Sartaba | PLACE | 
+Sartaba (mount) | | Mount Sartaba | PLACE | OK
 
 Sasta | | | PERSON | 
 Gautama’s followers called him (94:8.2)
@@ -653,7 +653,7 @@ rallied northern clans to withstand Ammonites (97:9.3-5)
 required 100 Philistine foreskins as dowry for Michal (70:1.18)
 took his life on Mount Gilboa (124:6.3) (134:9.5)
 
-Saul of Tarsus | | Paul | PERSON | 
+Saul of Tarsus | | Paul | PERSON | OK
 
 savior | | | | 
 Jesus was (188:4.7) (188:5.2)
@@ -683,7 +683,7 @@ triad gods (104:0.3)
 scapemen | | | | 
 headhunter provided substitute for his own life (89:0.1)
 
-schooling | | education | | 
+schooling | | education | | OK
 
 schools of the seven circles | | | | 
 Technical Advisers train in (25:4.14)
@@ -767,7 +767,7 @@ Scythopolis | (123:0.6) (144:7.1) (149:0.1) (159:0.2) (162:0.1) | | PLACE |
 chief Greek city of Decapolis (124:3.6-9)
 Jesus admired Greek games at Scythopolis (124:3.7-9) (124:6.4)
 
-sea commerce | | boats | | 
+sea commerce | | boats | | OK
 
 sea cucumbers | (65:2.5) | | | 
 
@@ -871,7 +871,7 @@ guide ascenders in perplexity, uncertainty, and emergencies (28:7.2-3)
 second coming | | Jesus:second coming | | 
 groups always expect return of leaders (92:5.6)
 
-second experiential Trinity | | Trinity Absolute | PERSON | 
+second experiential Trinity | | Trinity Absolute | PERSON | OK
 
 second garden | (76) | Adam; Garden of Eden | PLACE | 
 1 of 3 original selections for Garden of Eden (76:1.3)
@@ -890,9 +890,9 @@ religious life difficult to organize; Nodites in charge (76:2.3)
 second mile | | | | 
 carrying the pack (159:5.15)
 
-Second Person of Deity | | Eternal Son | PERSON | 
+Second Person of Deity | | Eternal Son | PERSON | OK
 
-Second Source and Center | | Eternal Son | PERSON | 
+Second Source and Center | | Eternal Son | PERSON | OK
 
 Secondary Circuit Supervisors | | | ORDER | 
 number 84,691 on Uversa; numbers increasing (24:1.9)
@@ -917,7 +917,7 @@ secret societies taught keeping secrets (70:7.16)
 there are no arbitrary secrets (18:1.4)
 unlimited disclosure of sin-expression is quickest final cure (54:5.9-12)
 
-secret police | | police | | 
+secret police | | police | | OK
 
 secret societies | (70:7) | | | 
 based on rite of blood-drinking (89:9.3)
@@ -929,15 +929,15 @@ power of mystery conferred on members (70:7.2-7)
 puberty initiation tests (70:7.7-15)
 sociopolitical and religio-mystical types (70:7.1)
 
-secrets | | mysteries; secrecy | | 
+secrets | | mysteries; secrecy | | OK
 
 Secrets of Greatness; The Secret of Greatness; the Secret of Greatness | | seconaphim | ORDER | 
 assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (28:6.1)
 tertiary seconaphim; associated with Souls of Goodness (28:6.20-22)
 
-Secrets of Supremacy | | Trinitized Secrets of Supremacy | ORDER | 
+Secrets of Supremacy | | Trinitized Secrets of Supremacy | ORDER | OK
 
-sects | | Christianity; cults | | 
+sects | | Christianity; cults | | OK
 
 secularism | | materialism; mechanism (theory) | RELIGION | 
 ascribes urge to be unselfish to material mind (103:5.3)
@@ -971,7 +971,7 @@ plants bearing seeds
 	evolution from spores (65:6.3)
 sometimes planting seed necessitates its death (48:6.36)
 
-seers | | prophets | | 
+seers | | prophets | | OK
 
 segregata | | energy; ether | | 
 absoluta modified by Primary Master Force Organizers (12:2.4) (15:4.2,4) (29:5.4-5) (42:1.5) (42:2.7-9) (56:9.1-2)
@@ -1000,7 +1000,7 @@ disclose beings who function best in temporary association (48:2.24)
 in Uversa personality register (30:2.114)
 type of Morontia Power Supervisor; certify morontia progressors for advanced standing (48:2.23)
 
-Seleucids | | Syria | | 
+Seleucids | | Syria | | OK
 
 self | (112:2) | identity; individual; mortals; personality | | 
 do not take too seriously (48:6.37)
@@ -1029,11 +1029,11 @@ work is important, self is not (48:6.37)
 self-abasement | | | | 
 co-operation with Adjuster does not entail ostentatious self-abasement (110:3.4)
 
-self-acting Adjusters | | Thought Adjusters:types of Adjusters | ORDER |
+self-acting Adjusters | | Thought Adjusters:types of Adjusters | ORDER | OK
 
-self-admiration | | self-importance | | 
+self-admiration | | self-importance | | OK
 
-self-aggrandizement | | self-assertion | | 
+self-aggrandizement | | self-assertion | | OK
 
 self-analysis | | criticism | | 
 defeat is true mirror in which to view real self (156:5.17)
@@ -1059,9 +1059,9 @@ not to be deplored (111:6.9)
 Peter’s presumptuous (181:2.27)
 Spirit of Truth gives (194:0.1)
 
-self-consciousness | | consciousness | | 
+self-consciousness | | consciousness | | OK
 
-self-contemplation | | self-analysis; self-importance | | 
+self-contemplation | | self-analysis; self-importance | | OK
 
 self-control | | self-denial | | 
 achieving self-control
@@ -1094,7 +1094,7 @@ self-understanding characterized by voluntary self-mastery (132:3.10)
 true liberty is fruit of (54:1.5-6) (71:3.7)
 trust is true measure of self-mastery (28:6.13)
 
-self-criticism | | self-analysis | | 
+self-criticism | | self-analysis | | OK
 
 self-deception | | | | 
 greatest self-deception is seeking to deprive others of natural liberties (54:1.6-8)
@@ -1132,22 +1132,22 @@ self-determination | | | |
 fallacy of (35:10.5) (134:6.11)
 Lucifer advocated ascenders should enjoy liberty of (53:3.6)
 
-self-discipline | | self-control | | 
+self-discipline | | self-control | | OK
 
-self-distribution | | delegation | | 
+self-distribution | | delegation | | OK
 
-self-exaltation | | self-importance | | 
+self-exaltation | | self-importance | | OK
 
-self-examination | | self-analysis | | 
+self-examination | | self-analysis | | OK
 
-self-expression | | self-realization | | 
+self-expression | | self-realization | | OK
 
 self-forgetfulness | | | | 
 cease thinking about yourself and your troubles (191:1.2)
 Father manifests himself in those who exhibit (196:0.8-9)
 instead of self-sacrifice (180:5.12)
 
-self-government | | government; self-control | | 
+self-government | | government; self-control | | OK
 
 self-gratification | | flesh; pleasures; sex:urge | | 
 attained by food satisfaction, play, humor, sex indulgence (84:0.2-3) (84:8.2-3)
@@ -1186,7 +1186,7 @@ the first shall be last (163:3.4) (166:3.5)
 trials of life must first prepare the self-satisfied (132:7.2)
 work is important, self is not (48:6.37)
 
-self-justification | | self-deception | | 
+self-justification | | self-deception | | OK
 
 self-maintenance | | | | 
 builds society (68:2.2,3,11)
@@ -1196,7 +1196,7 @@ is individual, but carried on by group (82:3.2)
 self-preservation always follows (50:5.5)
 woman at decided disadvantage with man in self-maintenance (84:5.1)
 
-self-mastery | | self-control | | 
+self-mastery | | self-control | | OK
 
 self-perpetuation | (82:1.8) | | | 
 group interest carried on by individuals (68:2.3) (69:1.4) (82:3.2)
@@ -1231,9 +1231,9 @@ Jesus
 loss of self-respect ends in paralysis of will (159:3.3)
 society should aim to preserve citizenry’s (71:3.9)
 
-self-righteousness | | self-importance | | 
+self-righteousness | | self-importance | | OK
 
-self-satisfaction | | self-importance | | 
+self-satisfaction | | self-importance | | OK
 
 self-torture | | | | 
 ancient form of mourning (87:2.4)
@@ -1241,7 +1241,7 @@ co-operation with Adjuster does not entail (110:3.4)
 in ancient initiation ceremonies (70:7.10)
 older ideas of self-discipline embraced (89:3.4)
 
-selfhood | | self | | 
+selfhood | | self | | OK
 
 selfishness | | altruism; self-importance | | 
 acts of selfishness result from material feelings, human emotions (102:3.3)
@@ -1269,7 +1269,7 @@ weariness is reward of (131:1.6)
 whoever would save his life shall lose it (103:5.6) (140:5.19) (158:7.5) (160:5.10)
 wholly self-centered prayers find no lodgment in Son’s spirit circuit (7:3.6)
 
-selflessness | | altruism | | 
+selflessness | | altruism | | OK
 
 Selta | | | PERSON | 
 wrote Jewish apocalyptic about Messiah (176:2.8)
@@ -1320,7 +1320,7 @@ low moral standards (125:1.2) (128:2.6) (150:7.2)
 Rebecca daughter of Ezra moved to (127:5.6)
 Tiberias succeeded Sepphoris as capital of Galilee (129:1.1-2) (135:12.1)
 
-sepulchres | | tombs | | 
+sepulchres | | tombs | | OK
 
 sequentiality | | time:nature of time | | 
 
@@ -1392,9 +1392,9 @@ counsel human teachers of truth (48:6.8)
 help morontia progressors choose among optional routes to Havona (48:6.5)
 whispered 23rd Psalm to shepherd boy (48:6.8-20)
 
-seraphic guardians of destiny | | guardians of destiny | ORDER | 
+seraphic guardians of destiny | | guardians of destiny | ORDER | OK
 
-seraphic hosts | | seraphim | ORDER | 
+seraphic hosts | | seraphim | ORDER | OK
 
 seraphim | | angels; guardian angels; guardians of destiny; seraphic, secoraphic, and superaphic transport | ORDER | 
 500 million pairs on Urantia in 1934 (114:0.1)
@@ -1597,7 +1597,7 @@ seraphic transport is a secret of (13:1.20)
 seraphim achieve perfection, supremacy of service on (26:4.11)
 seraphim cannot initiate departure for (39:8.4)
 
-serfdom | | slavery | | 
+serfdom | | slavery | | OK
 
 Sermon on the Mount | (140:3) | | | 
 based on faith and love, not ethics and duty (140:5.23)
@@ -1701,17 +1701,17 @@ priests invaded Europe with Andonites (80:9.6)
 Sumeria ruled by apostate descendants of (78:8.7)
 Trinity concept of (79:3.4) (104:1.2)
 
-seven | | 7 | | 
+seven | | 7 | | OK
 
-Seven Absolutes of Infinity | | Absolutes:the seven | PERSON | 
+Seven Absolutes of Infinity | | Absolutes:the seven | PERSON | OK
 
-Seven Central Supervisors | | Master Spirits, Seven | PERSON | 
+Seven Central Supervisors | | Master Spirits, Seven | PERSON | OK
 
-seven psychic circles | | psychic circles | | 
+seven psychic circles | | psychic circles | | OK
 
-seven sacred worlds of Eternal Son | | sacred spheres of Paradise | PLACE | 
+seven sacred worlds of Eternal Son | | sacred spheres of Paradise | PLACE | OK
 
-seven secret spheres of Universal Father | | sacred spheres of Paradise | PLACE | 
+seven secret spheres of Universal Father | | sacred spheres of Paradise | PLACE | OK
 
 seven spirits of God | | | PERSON | 
 Bible reference to adjutant mind-spirits (34:4.11)
@@ -1731,7 +1731,7 @@ servants of Seven Master Spirits (17:5.1)
 uniform impersonal representation of Infinite Spirit and Seven Master Spirits to Havona (14:1.9) (17:0.11) (17:5.1) (26:2.6)
 work confined to Havona (17:5.2)
 
-seven superuniverses | | superuniverses | PLACE | 
+seven superuniverses | | superuniverses | PLACE | OK
 
 Seven Supreme Executives | (17:1) | Supreme Executive #7 (of Orvonton) | PERSON | 
 7 superuniverse Architects of Master Universe associate with (31:9.5)
@@ -1772,11 +1772,11 @@ semimaterial; quasi-physical (29:1)
 stationed on peripheral Paradise (11:4.2) (29:1.3)
 with Seven Master Spirits, created all Universe Power Directors and Havona Servitals (25:1.2) (29:0.10) (29:1.4) (29:2.1) (29:3.1) (29:4.23)
 
-seven Supreme Spirit groups | | Supreme Spirits | ORDER | 
+seven Supreme Spirit groups | | Supreme Spirits | ORDER | OK
 
-seven worlds of Infinite Spirit | | sacred spheres of Paradise | PLACE | 
+seven worlds of Infinite Spirit | | sacred spheres of Paradise | PLACE | OK
 
-Sevenfold | | God the Sevenfold | | 
+Sevenfold | | God the Sevenfold | | OK
 
 sevenfold controllers | (116:5) | | ORDER | 
 members
@@ -1933,7 +1933,7 @@ with partner is Godlike (133:2.2)
 
 sharks | (59:4.11) (59:5.8) | | | 
 
-Shawnee Tenskwatawa | | Tenskwatawa | PERSON | 
+Shawnee Tenskwatawa | | Tenskwatawa | PERSON | OK
 
 Shechem | (134:7.5) (186:3.2-3) | | PLACE | 
 Jesus passed
@@ -2013,13 +2013,13 @@ shock | | | |
 lower classes made ceremonial of executions in Greece (98:1.1)
 some enjoyed crucifixion for (187:0.4)
 
-shooting stars | | meteors | | 
+shooting stars | | meteors | | OK
 
 short cuts | | | | 
 never any gain from (75:8.5)
 no short cuts to Paradise (48:5.7)
 
-short space rays | | space rays | | 
+short space rays | | space rays | | OK
 
 showbread | | | | 
 King David ate showbread when hungry (147:6.4)
@@ -2029,9 +2029,9 @@ parable of (169:2)
 
 shrimps | (59:1.18) | crustaceans | | 
 
-shrines | | temples | | 
+shrines | | temples | | OK
 
-shrub of Edentia | | tree of life | | 
+shrub of Edentia | | tree of life | | OK
 
 Shunem | (124:6.3) (150:5.1) | | PLACE | 
 Jesus preached
@@ -2073,7 +2073,7 @@ minister to all (163:1.4) (190:3.1)
 refrain from despising material means of healing (164:3.15)
 refrain from teaching expectation of miracles (163:4.3)
 
-Siddhartha | | Gautama Siddhartha | PERSON | 
+Siddhartha | | Gautama Siddhartha | PERSON | OK
 
 Siddim | | | PLACE | 
 Abraham’s victory at battle of (93:5.14) (93:9.9)
@@ -2536,14 +2536,14 @@ slogans | | | |
 motto of United Midwayers (77:9.3)
 religion must have up-to-date (195:6.10)
 
-sloth | | indolence | | 
+sloth | | indolence | | OK
 
 slothful servant | | | | 
 parable of (165:6.2-3)
 
 sloths | (61:4.3) (61:4.4) (61:5.7) (61:7.15) | | | 
 
-smiths | | black smiths | | 
+smiths | | black smiths | | OK
 
 smoke signals | | | | 
 early message system (69:4.7)
@@ -2592,7 +2592,7 @@ socialism | | communism; government | |
 local governments practice socialism in continental nation (72:7.1,3)
 untrue teachings (99:5.1)
 
-society | | civilization | | 
+society | | civilization | | OK
 
 sociology | | | | 
 civilization in danger when youth neglect (111:4.4)
@@ -2614,11 +2614,11 @@ Lot went to (93:5.9,12)
 Sol Invictus | | | PERSON | 
 Mithraic sun-god (98:5.3)
 
-solar energy | | suns | | 
+solar energy | | suns | | OK
 
 solar radiation | (41:5) | suns | | 
 
-solar supergases | | suns | | 
+solar supergases | | suns | | OK
 
 solar systems | | Monmatia; planets; sun (Urantia’s); suns | PLACE | 
 
@@ -2766,7 +2766,7 @@ bosom of the Son; Paradise home of the Sons of God (13:1.7)
 mortal finaliters granted clearance to (13:2.6)
 mysteries of incarnation bestowal fully known on (7:5.4) (13:1.8) (13:2.6) (119:1.6) (119:3.6) (119:7.5)
 
-sons of Annas | | Annas | | 
+sons of Annas | | Annas | | OK
 
 Sons of God | | | ORDER | 
 beings descending from Father and Son (38:2.2)
@@ -3005,9 +3005,9 @@ predominantly red race but also yellow, orange, and blue (79:5.8)
 rose out of Pacific depths (57:8.21)
 slow westward drift (58:4.3)
 
-Sovereign Michaels | | Master Michaels | ORDER | 
+Sovereign Michaels | | Master Michaels | ORDER | OK
 
-Sovereign Sons | | Master Michaels | ORDER | 
+Sovereign Sons | | Master Michaels | ORDER | OK
 
 sovereignty | | | | 
 because Ancients of Days did not earn right to rule, they will be superseded by Supreme (18:3.8-9)
@@ -3249,9 +3249,9 @@ representative government unthinkable without (71:2.13)
 spells | | | | 
 Jesus denounced belief in (150:3.12)
 
-spheres of space | | space bodies | PLACE | 
+spheres of space | | space bodies | PLACE | OK
 
-spheres of the Father | | sacred spheres of Paradise | PLACE | 
+spheres of the Father | | sacred spheres of Paradise | PLACE | OK
 
 spicules | | | | 
 Primates, Andonites developed (63:1.2-3) (63:5.6)
@@ -3400,9 +3400,9 @@ Urantia mortals will not become (30:4.9)
 why some are Spirit-fused (40:10)
 worlds of Spirit-fused mortals evolve identically with Adjuster-fusion series (55:0.4)
 
-spirit mortals | | ascending mortals | ORDER | 
+spirit mortals | | ascending mortals | ORDER | OK
 
-Spirit Mother | | Infinite Spirit | PERSON | 
+Spirit Mother | | Infinite Spirit | PERSON | OK
 
 spirit of God | | | PERSON | 
 Infinite Spirit (8:5.5)
@@ -3482,7 +3482,7 @@ Spiritington | (13:1.9-10) | sacred spheres of Paradise | PLACE |
 bosom of Spirit; Paradise home of high beings of Infinite Spirit (13:1.9)
 secret is reflectivity (13:1.10)
 
-spiritism, dual | | dual spiritism | | 
+spiritism, dual | | dual spiritism | | OK
 
 spirits | | ascending mortals; creatures | | 
 6th stage spirit mortals have not attained finality of status (31:3.3-6) (40:10.12) (107:5.6)
@@ -3497,9 +3497,9 @@ Spirits of the Havona Circuits | | Seven Spirits of Havona Circuits | ORDER |
 spirits of trust | | seraphim | ORDER | 
 planetary helper seraphim; inculcate trust (39:5.7-9)
 
-spiritual assurance | | assurance | | 
+spiritual assurance | | assurance | | OK
 
-spiritual attainment | | spiritual growth | | 
+spiritual attainment | | spiritual growth | | OK
 
 spiritual communion | (103:4) | God:consciousness of God; meditation; prayer; spiritual growth; worship | | 
 effect of spiritual communion
@@ -3529,7 +3529,7 @@ Remembrance Supper is parable of (179:5)
 step aside from rush of life and renew spirit by (156:5.12)
 truth exists only on level of (180:5.2)
 
-spiritual consecration | | consecration of choice | | 
+spiritual consecration | | consecration of choice | | OK
 
 spiritual-energy manipulators | | | ORDER | 
 energy manipulator celestial artisans (44:5.4)
@@ -3681,11 +3681,11 @@ social leadership transformed by (99:4.2)
 transcends and supervenes mind consciousness (9:4.2)
 turns defeat into higher determinations (196:3.29)
 
-spiritual peace | | peace:spiritual peace | | 
+spiritual peace | | peace:spiritual peace | | OK
 
-spiritual presence | | God:consciousness of God | | 
+spiritual presence | | God:consciousness of God | | OK
 
-spiritual progress | | spiritual growth | | 
+spiritual progress | | spiritual growth | | OK
 
 spiritual rebirth | (100:5) | consecration of choice; faith; gospel; kingdom of heaven; salvation; submission | | 
 by living faith (193:0.3)
@@ -3737,7 +3737,7 @@ dead never return to native planet in same dispensation (39:4.15) (112:3.7) (146
 midwayers not involved in so-called spiritualism (77:8.13)
 shamanesses professed to be mediums (90:1.3) (90:2.5)
 
-spirituality | | spiritual growth | | 
+spirituality | | spiritual growth | | OK
 
 spironga | | | ORDER | 
 created by Gabriel and Father Melchizedek; execute routine
@@ -3781,7 +3781,7 @@ prayer may be a spontaneous outburst of God-consciousness (91:8.5,10) (144:2.2)
 spontaneous friendliness of spirit-born sons (180:5.12)
 true worship is spontaneous (5:5.3) (27:4.2) (27:7.2) (47:7.5)
 
-spore-bearing plants | | plants:spore-bearing plants | | 
+spore-bearing plants | | plants:spore-bearing plants | | OK
 
 spornagia | (46:7) | | ORDER | 
 animal caretakers of architectural spheres (37:10.3) (45:0.3)
@@ -3836,7 +3836,7 @@ terminates in inevitable death (39:4.12) (112:5.20)
 stake | | | | 
 burning at stake once commonplace for sexual offenses (70:10.14)
 
-stamina | | persistence | | 
+stamina | | persistence | | OK
 
 standard time | | time:days and years | | 
 local universe time (33:6.9)
@@ -3904,7 +3904,7 @@ steam | | | |
 primitive men would not experiment with (66:5.25)
 young Jesus pondered (124:1.8)
 
-stellar gas clouds | | star clouds | PLACE | 
+stellar gas clouds | | star clouds | PLACE | OK
 
 Stephen | | | PERSON | 
 able leader of Greek believers in Jerusalem; first martyr (128:3.6) (194:4.11-12)
@@ -4004,9 +4004,9 @@ James Zebedee was a good storyteller (139:3.3)
 Jesus was a master storyteller (126:2.6) (130:7.1)
 Nathaniel best storyteller among apostles (139:6.4)
 
-strain | | anxiety | | 
+strain | | anxiety | | OK
 
-strange preacher | | Aden | PERSON | 
+strange preacher | | Aden | PERSON | OK
 
 strangers | | | | 
 once custom to kill or enslave all (70:3.6)
@@ -4022,28 +4022,28 @@ strength | | | |
 greatness lies not in possessing strength, but in making wise and divine use of one’s strength (48:7.27)
 they who wait upon Lord shall renew their (97:7.8) (131:2.6)
 
-stress | | anxiety | | 
+stress | | anxiety | | OK
 
 strong | | | | 
 only brotherhood prevents the strong from oppressing the weak (71:4.17)
 
-structures | | buildings | | 
+structures | | buildings | | OK
 
-struggle | | effort | | 
+struggle | | effort | | OK
 
 student visitors | | | ORDER | 
 allowed on all inhabited planets, even in isolation (48:3.10)
 in Uversa personality register (30:2.155)
 observers, exchange pupils, student helpers (30:3.11)
 
-study | | education | | 
+study | | education | | OK
 
 sturgeon | (60:2.9) | | | 
 
 subbreathers | | mortals:planetary types | | 
 type of atmospheric mortal; 2-1/2% in Satania; beings on Mars would be (49:2.12-13)
 
-subconscious mind | | mortal mind | | 
+subconscious mind | | mortal mind | | OK
 
 submission | (178:3.3) | consecration of choice; faith; gospel; humility; meekness; spiritual rebirth; will of God | | 
 active and alert submission to Father’s will (140:8.3) (142:6.8) (181:2.15) (182:2.1-2)
@@ -4074,7 +4074,7 @@ to will of God does not submerge, but augments, personality (117:5.2)
 when religion is permitted truly to possess man (102:2.8)
 yielding control of soul powers to indwelling spirit (1:3.7) (5:1.12) (133:7.10) (144:5.95) (146:3.5-7) (181:2.11)
 
-subnormals | | inferiors | | 
+subnormals | | inferiors | | OK
 
 Succoth | (165:0.1) | | PLACE | 
 Perea mission
@@ -4082,7 +4082,7 @@ Perea mission
 Sudna | | | PERSON | 
 Havona Servital who became Graduate Guide (24:7.5)
 
-Suduanism | | Jainism | RELIGION | 
+Suduanism | | Jainism | RELIGION | OK
 
 Suez region | (61:3.8) | | PLACE | 
 
@@ -4272,7 +4272,7 @@ underlying order exists in energy upheavals among (4:1.5)
 Universe Power Directors use suns as way stations to concentrate and direct energy circuits (41:3.1)
 very hot suns help prevent gravity from converting all energy into matter (15:8.5)
 
-sunspots | | suns | | 
+sunspots | | suns | | OK
 
 Suntites | | | RACE | 
 occupied Garden of Eden after default (73:7.1)
@@ -4280,14 +4280,14 @@ occupied Garden of Eden after default (73:7.1)
 superangel world | | Jerusem:transitional culture worlds | PLACE | 
 transitional culture world #4 (45:1.6)
 
-superangels | | Brilliant Evening Stars | ORDER | 
+superangels | | Brilliant Evening Stars | ORDER | OK
 
 superbreathers | | mortals:planetary types | | 
 type of atmospheric mortal; 5% in Satania; beings on Venus would be (49:2.12-13)
 
-superconscious mind | | mortal mind | | 
+superconscious mind | | mortal mind | | OK
 
-superghosts | | ghosts | | 
+superghosts | | ghosts | | OK
 
 superior seraphim | | seraphim | ORDER | 
 some deceived in Lucifer rebellion (53:7.6)
@@ -4814,12 +4814,12 @@ undergo no training; created in perfection; no evolution in ranks (29:3.4)
 utilize vast material mechanisms (29:3.7)
 with Master Physical Controllers, built Salvington in 1 billion years (32:2.3)
 
-Supreme Power Directors | | seven Supreme Power Directors | PERSON | 
+Supreme Power Directors | | seven Supreme Power Directors | PERSON | OK
 
 supreme reaction of complement | | | | 
 birth of local universe Mother Spirit (17:6.3)
 
-Supreme Rulers | | God | | 
+Supreme Rulers | | God | | OK
 
 supreme seraphim | | seraphim | ORDER | 
 bestowal of Michael as (39:1.15) (119:4)
@@ -4992,7 +4992,7 @@ stumble not into misunderstanding entanglements of (191:4.3)
 
 Susquehanna River | (59:4.16) | | PLACE | 
 
-sweat | | perspiration | | 
+sweat | | perspiration | | OK
 
 swine | (61:1.9) (61:2.9) | | | 
 became fetish animals (88:1.5)
@@ -5057,7 +5057,7 @@ Sanhedrin exercised no direct control over synagogues. outside Jerusalem (146:4.
 seeking chief seats in (166:1.4) (175:1.9)
 when enemies bring you before rulers of (165:3.7)
 
-syncopation | | music | | 
+syncopation | | music | | OK
 
 Syracuse | (130:0.2) | | PLACE | 
 Jesus’ week at (130:8.2)

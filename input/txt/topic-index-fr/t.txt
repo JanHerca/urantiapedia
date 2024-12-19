@@ -17,7 +17,7 @@ Remerciements au chef des Ajusteurs d'Urantia (108:3.5-6)
 agondonter du statut de finalitaire (50:7.2)
 finalitaire vétéran; superviseur souverain des planètes décimales de Nébadon (49:5.12) (73:0.3) (108:3.5)
 
-tabernacles, fête de | | Judaïsme:fêtes | |
+tabernacles, fête de | | Judaïsme:fêtes | | OK
 
 tabous | (89:1) | | |
 Les 7 commandements de Dalamatia et d'Eden étaient (89:1.4)
@@ -91,7 +91,7 @@ marchands de poissons de (192:1.9)
 sur la rive ouest de la mer de Galilée, à la sortie du Jourdain (139:8.2)
 Thomas résidait à (139:8.2)
 
-tarifs douaniers | | fiscalité | |
+tarifs douaniers | | fiscalité | | OK
 
 bassin du Tarim | | | PLACE |
 avant-poste oriental de la culture andite; à Sankiang (79:1.2,8)
@@ -147,7 +147,7 @@ contribuables | | collecteurs d'impôts; fiscalité | |
 imprévoyant s'attend à être nourri par (69:9.5)
 recevoir des votes supplémentaires dans la nation continentale (72:9.5)
 
-Fils enseignants | | Fils Instructeurs de la Trinité | ORDER |
+Fils enseignants | | Fils Instructeurs de la Trinité | ORDER | OK
 
 enseignants | | éducation | |
 les ascendeurs enseignent à ceux qui sont juste derrière (30:3.9) (30:4.23) (100:2.1)
@@ -167,7 +167,7 @@ beaucoup étaient des séraphins de transition conseillers morontiels (48:6.28)
 La quatrième effusion de Michael fut comme (39:1.15)
 séraphins suprêmes; secrétaires de tous les enseignants, même des mortels (39:1.13-14)
 
-travail d'équipe | | coopération | |
+travail d'équipe | | coopération | | OK
 
 larmes | | Jésus:événements de la vie | |
 Le tenancier du bordel a oint les pieds de Jésus avec (147:5.3)
@@ -276,7 +276,7 @@ Les grandes tentations de Jésus
 d'Ève (75:3)
 transformer la tentation en redirigeant les énergies vers des canaux supérieurs (34:7.6) (156:5.4)
 
-dix | | 10 | |
+dix | | 10 | | OK
 
 pièce de dix centimes | (173:1.3) | | |
 
@@ -295,7 +295,7 @@ c'est une grande erreur d'enseigner aux garçons qu'il est indigne d'un homme de
 La bonté aveugle est à l'origine de nombreux maux sociaux (140:8.13)
 l'homme mature regarde tous les autres avec (160:1.6)
 
-tension | | anxiété | |
+tension | | anxiété | | OK
 
 Tenskwatawa | | | PERSON |
 éclipse solaire prédite en 1808 (90:2.9)
@@ -339,12 +339,12 @@ La mesure de la religion et de la société par Jésus (126:2.5)
 Thaddée | (179:2.2) | | PERSON |
 Jacques Alphée également appelé (139:10.5)
 
-Thaïlande | | Siam | PLACE |
+Thaïlande | | Siam | PLACE | OK
 
 Thamna | (143:0.1) | | PLACE |
 Jésus est décédé
 
-action de grâce | | culte | |
+action de grâce | | culte | | OK
 
 Thapsacus | (130:0.3) | | PLACE |
 Jésus est décédé
@@ -396,7 +396,7 @@ expédié par les soldats romains (188:0.1)
 on avait souvent entendu Jésus parler (186:4.4-5)
 le vol du pénitent était une protestation patriotique (187:4.5)
 
-chose, sens et valeur | | science, philosophie et religion | |
+chose, sens et valeur | | science, philosophie et religion | | OK
 
 troisième jour | | | |
 après la mort, les Fils d'octroi réapparaissent (20:6.6)
@@ -406,9 +406,9 @@ Jésus ressusciterait le (171:4.2,8) (186:3.4) (188:1.8) (188:2.1,2) (189:5.1) (
 Expression juive signifiant « à présent » (171:4.8)
 Les Juifs croyaient que l'âme ne s'attarderait pas (167:4.3)
 
-Troisième Personne de la Déité | | Esprit Infini | PERSON |
+Troisième Personne de la Déité | | Esprit Infini | PERSON | OK
 
-Troisième Source et Centre | | Esprit Infini | PERSON |
+Troisième Source et Centre | | Esprit Infini | PERSON | OK
 
 personnalités de la Troisième Source | | | ORDER |
 êtres personnels à l'Esprit Infini mais qui ne sont pas dans le circuit de personnalité du Père (9:8.6-12)
@@ -850,11 +850,11 @@ Thrace | | | PLACE |
 Les Juifs ont englobé la mort de Matthieu dans (139:7.10)
 Les Thraces croyaient à l'immortalité (92:6.1)
 
-trois | | 3 | |
+trois | | 3 | | OK
 
 mortels à trois cerveaux | (49:5.13-18) | cerveaux; mortels:types planétaires | |
 
-trois cercles concentriques | | cercles concentriques, trois | |
+trois cercles concentriques | | cercles concentriques, trois | | OK
 
 triple fluctuation | | | |
 lumière de la demeure de la Déité (27:7.7)
@@ -1093,7 +1093,7 @@ torture | | flagellation; lapidations | |
 dans les anciennes cérémonies d'initiation (70:7.10)
 idées anciennes d'autodiscipline adoptées (89:3.4)
 
-Déité totale | | JE SUIS | |
+Déité totale | | JE SUIS | | OK
 
 totalitarisme | (195:8) | communisme; gouvernement | |
 
@@ -1101,7 +1101,7 @@ totems | (88:3) | | |
 animaux d'ascendance supposée (74:8.5)
 symboles du groupe et de leur dieu (88:3.2)
 
-tour de Babel | | Babel | PLACE |
+tour de Babel | | Babel | PLACE | OK
 
 traditions | | cérémonies; cultes; Judaïsme:loi orale; mœurs | |
 force irrésistible de (51:6.5)
@@ -1119,7 +1119,7 @@ le rituel sanctifie la coutume; crée et perpétue les mythes (90:5.2)
 refuge sûr pour les âmes craintives et hésitantes (155:5.11) (191:5.3)
 relier sentimentalement le passé au présent (66:6.2)
 
-traîtres | | trahison | |
+traîtres | | trahison | | OK
 
 tranosta | | | |
 énergie transcendantale sur le Paradis supérieur (42:2.18)
@@ -1131,9 +1131,9 @@ de Dieu (12:7.12)
 transcendantal Tout-Puissant | | | PERSON | OK
 Il s'agit d'une manifestation du Dieu ultime dans les univers du temps qui devrait se produire lorsque le Dieu ultime commencera à fonctionner comme un supercontrôle des univers. À ce moment-là, il exercera un super contrôle sur le super temps et l'espace transcendé sur les fonctions administratives du Tout-Puissant Suprême. (118:2.4)
 
-énergie transcendantale | | tranosta | |
+énergie transcendantale | | tranosta | | OK
 
-niveau transcendantal | | réalité:niveaux de réalité | |
+niveau transcendantal | | réalité:niveaux de réalité | | OK
 
 Archivistes Transcendantaux | | | ORDER |
 franchisseurs de gravité personnels; non disponibles pour les administrateurs de l'univers local (23:3.2)
@@ -1159,18 +1159,18 @@ Relation avec les Messagers Solitaires et les Esprits Inspirés de la Trinité (
 l'architecte principal du Maître Univers est le chef de (31:8.4) (31:9.1)
 soumis à Dieu l'Ultime (31:8.3)
 
-transcription, céleste | | enregistrements | |
+transcription, céleste | | enregistrements | | OK
 
-transfiguration | | Jésus:événements de la vie | |
+transfiguration | | Jésus:événements de la vie | | OK
 
 transformation | | croissance spirituelle; renaissance spirituelle | |
 par l'Esprit de Vérité (143:2.4)
 se produit chez des personnes dominées par la foi et dans l'expectative (148:2.2)
 le service est un sous-produit de la transformation spirituelle (178:1.11)
 
-transformateurs | | transformateurs d'énergie | ORDER |
+transformateurs | | transformateurs d'énergie | ORDER | OK
 
-sommeil de transit | | repos:repos de transition; transport séraphique, sécoraphique et supéraphique | |
+sommeil de transit | | repos:repos de transition; transport séraphique, sécoraphique et supéraphique | | OK
 
 trio de transit | | | |
 assister les pèlerins de Havona (26:9.2)
@@ -1199,11 +1199,11 @@ ordres d'affectation (39:6.1) (48:6.4-37)
 	# réserves ministérielles
 résidence dans les cercles de Jérusalem (46:5.22)
 
-repos de transition | | repos:repos de transition | |
+repos de transition | | repos:repos de transition | | OK
 
-monde en transition #1 | | monde des finalitaires | PLACE |
+monde en transition #1 | | monde des finalitaires | PLACE | OK
 
-mondes culturels en transition | | Jérusalem | PLACE |
+mondes culturels en transition | | Jérusalem | PLACE | OK
 
 traduction | (112:7.3) | fusion:Ajusteur fusion; langue; repos:transition repos | |
 l'archange supervise la translation dans le temple morontiel (55:2.7)
@@ -1244,9 +1244,9 @@ conseillers en transport | | | ORDER |
 70 servent sur Urantia (44:5.6)
 manipulateur d'énergie, artisans célestes; conseillers techniques pour le transport des séraphins; superviseurs du trafic (44:5.6)
 
-transport séraphin | | transport séraphique, sécoraphique et supéraphique; séraphin | ORDER |
+transport séraphin | | transport séraphique, sécoraphique et supéraphique; séraphin | ORDER | OK
 
-transport supernaphin | | transport séraphique, sécoraphique et supéraphique; supernaphins | ORDER |
+transport supernaphin | | transport séraphique, sécoraphique et supéraphique; supernaphins | ORDER | OK
 
 transport | | transport séraphique, sécoraphique et supéraphique; voyage | ORDER |
 tous les traverseurs de l'espace ont besoin d'aide pour surmonter la gravité lorsqu'ils quittent une sphère (29:4.1)
@@ -1329,7 +1329,7 @@ tribus et groupes raciaux nommés | aborigènes (australiens); aborigènes (Indi
 tribut en argent | | | |
 rendre à César (174:2.2)
 
-bagatelles | | trivialités | |
+bagatelles | | trivialités | | OK
 
 trilobites | (59:1) | | |
 mangeurs de boue; animaux sexués; certains avaient des yeux avortés (59:1.19)
@@ -1464,7 +1464,7 @@ dans la classification du Paradis (30:1.26)
 choisi parmi les séraphins ascendants, les créatures médianes, les mortels fusionnés avec l'Esprit et avec le Fils (22:1.11)
 L'étreinte de la Trinité dote les finalitaires de tout ce qu'ils accompliront en tant qu'esprits de la 7e étape (40:10.12)
 
-Trinité | | Trinité du Paradis | PERSON |
+Trinité | | Trinité du Paradis | PERSON | OK
 
 Trinité Absolue | (0:12.7-8) (106:5-6) (117:7.10) | | PERSON |
 2e Trinité expérientielle (0:12.7)
@@ -1480,7 +1480,7 @@ composé de (18:6-7)
 	Fidèles des jours
 	Unions des Jours
 
-Fils trinitaires | | Fils de Dieu Trinitisés | ORDER |
+Fils trinitaires | | Fils de Dieu Trinitisés | ORDER | OK
 
 guides de la Trinité | | | ORDER |
 aider les pèlerins à trouver l'Esprit Infini; chaque pèlerin bénéficie de toute l'attention d'un des guides de la Trinité (26:7.2)
@@ -1600,7 +1600,7 @@ triodités de potentialité | Absolus:les trois
 	composé de l'Absolu de Déité, de l'Absolu Universel, de l'Absolu Non Qualifié (0:11.4-14) (104:5.7) (115:3.8)
 	intègre toute la réalité énergétique latente (104:5.11)
 
-triomphe | | victoire | |
+triomphe | | victoire | | OK
 
 êtres d'origine trinitaire | | | ORDER |
 êtres créés par les 3 divinités du Paradis (30:1.2)
@@ -1702,7 +1702,7 @@ Judas a refusé d'exercer sa confiance (193:3.2)
 placer prématurément la responsabilité devant les tribunaux en cas de catastrophe (28:6.15)
 la fiabilité est la véritable mesure de la maîtrise de soi et du caractère (28:6.13)
 
-fonds fiduciaires | | héritage | |
+fonds fiduciaires | | héritage | | OK
 
 vérité | (132:3) | évangile; honnêteté; mensonge; Esprit de vérité; vérité, beauté et bonté | |
 a toujours l'avantage sur l'erreur (102:6.7)
@@ -1860,9 +1860,9 @@ dirigeait les gouverneurs des relations tribales avancées (66:5.28-30)
 Toutankhamon | | | PERSON |
 gendre d'Ikhnaton; retourna à l'ancien culte (95:5.10)
 
-douze | | 12 | |
+douze | | 12 | | OK
 
-adjuvants dodécaèdres des circuits de Havona | | adjuvants des circuits de Havona | ORDER |
+adjuvants dodécaèdres des circuits de Havona | | adjuvants des circuits de Havona | ORDER | OK
 
 vingtième siècle | | | |
 des temps psychologiquement instables (99:4.6)

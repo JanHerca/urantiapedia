@@ -12,7 +12,7 @@
 Macad | (165:0.1) | | PLACE |
 Mission Pérée
 
-Maccabée, Judas | | Judas Macchabée | PERSON |
+Maccabée, Judas | | Judas Macchabée | PERSON | OK
 
 Macchabées | | Judas Macchabée | |
 ancêtres de Marie, mère de Jésus, identifiés à (122:5.10)
@@ -41,7 +41,7 @@ certaines tribus de Madagascar détruisent les enfants nés les jours de malchan
 fou à Fair Havens | | | |
 Jésus a retenu l'assaut en (130:5.4)
 
-folie | | folie | |
+folie | | folie | | OK
 
 Madon | (134:7.5) (146:4.6) | | PLACE |
 Jésus est décédé
@@ -189,7 +189,7 @@ Malachie | | | PERSON |
 la prophétie concernant Élie a impressionné Jean-Baptiste (135:4.4)
 chef spirituel non-silencieux (97:10.3)
 
-inadaptation | | mésadaptation | |
+inadaptation | | mésadaptation | | OK
 
 paludisme | | | |
 Amatha guérie (145:2.16)
@@ -226,7 +226,7 @@ mammouths | (61:5.7) (61:7.13-14) | | |
 Mamré | | | PLACE |
 des êtres célestes sont apparus à Abraham à (93:6.7)
 
-homme | | mortels | |
+homme | | mortels | | OK
 
 homme de douleur | | | |
 ne dépeignez pas Jésus comme (159:3.10)
@@ -236,7 +236,7 @@ homme qui a attaqué sa femme à Tarente | (133:2.1-2) | | |
 Manassé | | | PERSON |
 jeune roi sous lequel Juda fut détruit (97:9.23)
 
-mandats | | commandements; loi | |
+mandats | | commandements; loi | | OK
 
 mandragores | | | |
 Jésus a dénoncé la croyance en (150:3.12)
@@ -377,12 +377,12 @@ les âmes transférées des sphères établies ne passent pas (55:2.8-10) (55:6.
 maisons | | | PLACE |
 dans la maison du Père il y en a beaucoup (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-mondes de mansonia | | mondes des manoirs | PLACE |
+mondes de mansonia | | mondes des manoirs | PLACE | OK
 
 Mansurotia | | | PERSON |
 premier assistant Souverain du Système; tertiaire Lanonandek #17,841 (45:3.3)
 
-fabrication | | industrie | |
+fabrication | | industrie | | OK
 
 érables | (60:3.19) | | |
 
@@ -411,13 +411,13 @@ types nommés | ammonites; amphibiens; anthropodes; balanes; brachiopodes; palou
 test de culpabilité conjugale | | | |
 de l'Ancien Testament (70:10.6)
 
-Marc, Élie | | Élie Marc | PERSON |
+Marc, Élie | | Élie Marc | PERSON | OK
 
-Marc, Évangile de | | Jean Marc:Évangile de Marc | |
+Marc, Évangile de | | Jean Marc:Évangile de Marc | | OK
 
-Marc, Jean | | Jean Marc | PERSON |
+Marc, Jean | | Jean Marc | PERSON | OK
 
-Marc, Marie | | Marie Marc | PERSON |
+Marc, Marie | | Marie Marc | PERSON | OK
 
 marque de la bête | | | |
 hérédité malheureuse, mauvais environnement (47:9.1) (47:10.2)
@@ -671,7 +671,7 @@ Maitre | | Jésus | |
 Les pêcheurs galiléens au sang rouge appelaient Jésus Maître (100:7.17) (141:3.5) (149:2.12)
 Les ouvriers de Zébédée ont d'abord appelé Jésus Maître (129:1.11)
 
-Maîtres architectes | | Architectes du Maitre Univers | |
+Maîtres architectes | | Architectes du Maitre Univers | | OK
 
 Maitres Organisateurs de Force | (29:5) | Directeurs de Pouvoir d'Univers | ORDER |
 peut affecter les mouvements des systèmes astronomiques (15:3.15)
@@ -817,7 +817,7 @@ types
 	# anges du ministère surhumain
 	#* ministre de la vie surhumaine (114:6.16)
 
-Fils Maîtres | | Maitres Micaëls | ORDER |
+Fils Maîtres | | Maitres Micaëls | ORDER | OK
 
 Maitre Esprit Numéro Un; Le Maitre Esprit Numéro Un | | Maîtres Esprits, Sept | PERSON | OK
 Le Maitre Esprit Numéro Un représente le Père du Paradis. Il est le proche associé et le conseiller céleste du chef des Moniteurs de Mystère, cet être qui préside le Collège des Ajusteurs Personnalisés de Divinington. Il préside également le premier superunivers. (16:3.2-3)
@@ -1079,9 +1079,9 @@ Le jeune Jésus a passé beaucoup de temps sur (123:6.3)
 
 professeur de mathématiques de Damas | (123:6.3) | | |
 
-instinct d'accouplement | | sexe:envie | |
+instinct d'accouplement | | sexe:envie | | OK
 
-matriarcat | | famille:familles matriarcales | |
+matriarcat | | famille:familles matriarcales | | OK
 
 matière | | énergie; énergie matérielle; matière, esprit et âme | |
 100 éléments existent (42:7.4)
@@ -1212,7 +1212,7 @@ perpétue l'ancienne coutume du culte des arbres (85:2.5)
 Maza | | | PLACE |
 branches de saule coupées à (162:4.4)
 
-repas | | nourriture | |
+repas | | nourriture | | OK
 
 significations | | science, philosophie et religion; valeurs | |
 conscience appréciative des valeurs (100:3.4)
@@ -1222,7 +1222,7 @@ de nouvelles significations n'émergent qu'au milieu du conflit (100:4.1)
 la religion découvre de nouvelles significations à des faits déjà bien connus (101:1.4)
 nécessitent un démêlage et une corrélation à l'esprit (102:2.5)
 
-moyens contre fins | | fins contre moyens | |
+moyens contre fins | | fins contre moyens | | OK
 
 mesures | | années-lumière; temps:jours et années; poids | |
 les constellations utilisent les mêmes mesures que les univers locaux (43:0.3)
@@ -1273,7 +1273,7 @@ Mission Pérée
 
 Médie | (134:2.1) | | PLACE |
 
-médiateurs | | intercesseurs | |
+médiateurs | | intercesseurs | | OK
 
 médecine | | maladie; santé; blessure; médecins; malade | |
 parmi les primitifs
@@ -1290,7 +1290,7 @@ s'abstenir de mépriser les moyens matériels de guérison (164:3.15)
 sac à médicaments | | | |
 pochette contenant des articles imprégnés de fantômes (88:3.3)
 
-hommes-médecine | | chamans | |
+hommes-médecine | | chamans | | OK
 
 médiocrité | | | |
 Les dangers de la médiocrité trop conservatrice (149:4.3)
@@ -1341,7 +1341,7 @@ la vie marine a évolué en (59:6.9)
 têtes moyennes | | crânes | |
 Les courses Sangik étaient (81:4.2)
 
-médiumnité | | spiritualisme | |
+médiumnité | | spiritualisme | | OK
 
 douceur | | humilité; soumission | |
 fruit de l'Esprit (34:6.13)
@@ -1366,7 +1366,7 @@ prière préreligieuse; pratiques de mana (91:0.5)
 mélanine | | | |
 pigment cutané andonique original, comme celui des Esquimaux (63:4.1)
 
-Melchizédek, Père | | Père Melchizédek | PERSON |
+Melchizédek, Père | | Père Melchizédek | PERSON | OK
 
 Melchizédek, Machiventa; Machiventa Melchizédek; Machiventa; Melchizédek | (93) | Fils Melchizédek; missionnaires:Missionnaires de Salem | PERSON |
 apparition et départ inopinés (93:8.1) (93:10.2)
@@ -1558,7 +1558,7 @@ menstruation | | | |
 péché grave à détecter; quarantaine complète (84:4.8-9)
 le sang a été suggéré comme créateur de l'enfant (84:2.1)
 
-maladie mentale | | folie | |
+maladie mentale | | folie | | OK
 
 marchand de Damas | | | |
 a demandé à Jésus d'entrer dans son entreprise d'importation (128:3.3)
@@ -1651,7 +1651,7 @@ début de la vie terrestre, il y a 150 à 50 millions d'années (59:0.5) (60:4.6
 bâton de message | | | |
 écriture ancienne (69:4.7)
 
-messages | | communication | |
+messages | | communication | | OK
 
 corps de messagers (David Zébédée) | (157:0.2) (163:5.2-3) | | PERSON |
 25 sentinelles postées près de la maison de Zébédée (154:6.7)
@@ -1902,7 +1902,7 @@ avenir
 	Michael a promis de revenir sur Urantia dans le futur, mais personne ne sait quand (20:4.5) | Jésus:seconde venue
 	Michael servira dans l'espace au cours du prochain âge de l'univers (119:8.7)
 
-Fils de Michael; Fils de Michael | | Fils Créateurs | ORDER |
+Fils de Michael; Fils de Michael | | Fils Créateurs | ORDER | OK
 
 Michael (l'originel); Micaël originel | | Fils Créateurs; Fils Paradisiaques de Dieu | PERSON |
 passé par 7 circuits de Havona (7:5.8-9) (8:4.3) (21:0.4)
@@ -1924,9 +1924,9 @@ tué les mammifères de l'aube (62:3.4)
 soumis leur coin de création (62:3.5)
 apparition soudaine des mammifères de l'aube (61:6.1) (62:3.1)
 
-esprit moyen | | âme | |
+esprit moyen | | âme | | OK
 
-Moyen Âge | | âges sombres | |
+Moyen Âge | | âges sombres | | OK
 
 Madianites | | | RACE |
 Le raid hébreu contre les Madianites illustre la cruauté de la guerre antique (70:1.15)
@@ -2290,9 +2290,9 @@ attaché au chef exécutif mortel dans la lumière et la vie (55:4.15,16)
 
 esprits au service de Dieu | (26:1) | anges; Esprit Infini:famille | ORDER |
 
-ministres | | prêtres | |
+ministres | | prêtres | | OK
 
-ministère | | service | |
+ministère | | service | | OK
 
 Minnesota | (58:7.4) | | PLACE |
 
@@ -2381,7 +2381,7 @@ inhérent à la croissance évolutive (105:6.4)
 misère | | difficultés; souffrance | |
 éviter la simple communion dans (159:3.11)
 
-malheur | | difficultés | |
+malheur | | difficultés | | OK
 
 Mispeh | (165:0.1) | | PLACE |
 Mission Pérée
@@ -2468,7 +2468,7 @@ Moab, collines de; collines rocheuses de Moab | (123:5.12) | | PLACE |
 Moabites | | | RACE |
 Le roi David a imposé un lourd tribut (97:9.14)
 
-foule | | population | |
+foule | | population | | OK
 
 modération | | | |
 se manifeste par le charme (48:7.11)
@@ -2545,7 +2545,7 @@ enregistré il y a 3 milliards d'années (57:6.9)
 tourne autour de l'ancienne nébuleuse d'Andronover (15:3.6-9)
 Le système solaire d'Urantia (57:2.1) (57:5)
 
-monogamie | | mariage | |
+monogamie | | mariage | | OK
 
 monota | | réalité:niveaux de réalité | |
 impossible à distinguer de l'esprit, sauf par le nom (116:6.7)
@@ -2675,7 +2675,7 @@ la vie végétale modifiée sur chaque sphère ascendante (48:2.8,22)
 ralenti, devient matériel morontiel (48:2.20)
 substance et esprit créés par les Superviseurs du Pouvoir Morontiel (16:4.5) (42:2.4) (48:1.3) (48:2.18)
 
-chérubins morontiels | | chérubins et sanobins | ORDER |
+chérubins morontiels | | chérubins et sanobins | ORDER | OK
 
 Compagnons de la Morontia | (25:7) (48:3) | | ORDER |
 presque entièrement autonome (48:3.3)
@@ -2711,11 +2711,11 @@ conseillers morontiels | (48:6.27-28) | | ORDER |
 Ministres de transition du 4ème ordre, séraphins (39:6.1)
 enseigner la mota aux progresseurs morontiels (48:6.27-28)
 
-vie morontielle | | morontia; progresseurs morontiels | |
+vie morontielle | | morontia; progresseurs morontiels | | OK
 
-esprit morontiel | | esprit:types d'esprit | |
+esprit morontiel | | esprit:types d'esprit | | OK
 
-mota morontielle | | mota | |
+mota morontielle | | mota | | OK
 
 planificateurs morontiels | | | ORDER |
 bâtisseurs divins, artisans célestes (44:3.7)
@@ -2821,11 +2821,11 @@ Les mondes morontiels de Nébadon sont typiques (48:0.3)
 ordre social fondé sur l'appréciation et le service mutuel (47:6.3)
 les univitatia administrent les mondes morontiels des constellations (43:7.2) (55:9.2)
 
-morontiens | | étudiants des mondes des manoirs; progresseurs morontiels | ORDER |
+morontiens | | étudiants des mondes des manoirs; progresseurs morontiels | ORDER | OK
 
 gisements Morrison; gisements dits « Morrison » | (60:2.5) | | |
 
-Corps Mortel de la Finalité | | Corps de Mortels Finalitaires | ORDER |
+Corps Mortel de la Finalité | | Corps de Mortels Finalitaires | ORDER | OK
 
 esprit mortel | | esprits mentaux adjuvats; idées; directions; logique; esprit; pensée | |
 Ajusteurs
@@ -3269,7 +3269,7 @@ y compris la crémation des morts dans des huttes en pierre (80:8.5)
 Monde méditerranéen largement dominé par (98:1.3)
 prêtres soumis à la castration (89:3.4)
 
-Mère Eve | | Fils Matériels | |
+Mère Eve | | Fils Matériels | | OK
 
 force mère de l'espace | | absoluta | | OK
 c'est l'un des noms d'absoluta
@@ -3283,9 +3283,9 @@ Rituel de la Grande Mère Mithraique pour les femmes (98:5.5)
 sacrement des gâteaux et du vin (89:9.2)
 Les Tibétains prient la Sainte Mère (94:10.2)
 
-Mère-Fils | | Fils Éternel | PERSON |
+Mère-Fils | | Fils Éternel | PERSON | OK
 
-Esprits Mères | | Esprits-Mères des univers locaux | ORDER |
+Esprits Mères | | Esprits-Mères des univers locaux | ORDER | OK
 
 mères | | éducation des enfants; enfants; maison; mariage; femmes | |
 les croyants doivent aimer l'évangile plus que (150:4.3) (163:3.4) (171:2.2)
@@ -3305,7 +3305,7 @@ L'Esprit Infini est l'ancêtre apparent de (9:1.1)
 opinions concernant l'origine de (12:4.2-6)
 progrès possible grâce au mouvement inhérent (28:6.18)
 
-motivation | | motifs | |
+motivation | | motifs | | OK
 
 motifs | | préjugé; sincérité | |
 Caligastia et Lucifer jugeaient leurs conseillers comme étant motivés par leurs propres pensées répréhensibles (66:8.2)
@@ -3321,11 +3321,12 @@ comprendre les autres, sonder leur (100:4.4-5)
 Les censeurs universels statuent sur les motifs (28:5.9)
 ce que l'on croit, et non ce que l'on sait, détermine la conduite (99:4.5)
 
-devises | | slogans | |
+devises | | slogans | | OK
 
 mont Ararat | | | PLACE |
 cf: Mont Sinaï (77:4.11-12)
 montagne sacrée de Vanité dans le nord de la Mésopotamie (77:4.11-12)
+> https://en.wikipedia.org/wiki/Mount_Ararat
 
 Mont de l'Assemblée | | | PLACE |
 demeure des fidèles des jours (43:4)
@@ -3354,11 +3355,11 @@ visible depuis Césarée de Philippe (157:3.1-2)
 
 mont Hood; Hood | (61:4.2) | | PLACE |
 
-mont Horeb | | mont Sinaï | PLACE |
+mont Horeb | | mont Sinaï | PLACE | OK
 
 mont Liban | (155:4.1) | | PLACE |
 
-mont des Oliviers | | Mont des Oliviers | PLACE |
+mont des Oliviers | | Mont des Oliviers | PLACE | OK
 
 mont de la transfiguration | | Jésus:événements de la vie; mont Hermon | PLACE |
 
@@ -3428,7 +3429,7 @@ bouche | | | |
 parle avec abondance de cœur (153:4.4)
 ce qui sort de la bouche souille spirituellement (153:3.5)
 
-multilinguisme | | langue:langue commune | |
+multilinguisme | | langue:langue commune | | OK
 
 multitude | | population | |
 
@@ -3536,7 +3537,7 @@ a plongé la Grèce dans la stagnation intellectuelle, la dépravation morale et
 voie préparée pour Jésus, christianisme (121:5.6,12)
 les rites secrets étaient parfois horribles (121:5.10)
 
-Moniteurs Mystères | | Ajusteurs de Pensée | ORDER |
+Moniteurs Mystères | | Ajusteurs de Pensée | ORDER | OK
 
 mysticisme | (100:5) | directions; révélation:révélation personnelle; intuition spirituelle | |
 ne soyez pas des mystiques passifs (178:1.14)

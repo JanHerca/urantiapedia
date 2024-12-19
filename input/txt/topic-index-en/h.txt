@@ -434,7 +434,7 @@ number is prodigious; more being created (25:1.3)
 resemble individual Master Spirits (25:1.7)
 stay with same pilgrim throughout his ascent (26:9.5)
 
-Havoners | | Havona natives | ORDER | 
+Havoners | | Havona natives | ORDER | OK
 
 head-hunters | | | | 
 allowed women to redeem lives by sexual surrender (89:7.4)
@@ -574,9 +574,9 @@ Jewish traditions derived from Zoroastrianism (95:6.6)
 primitives entertained no ideas of (86:4.7)
 wicked destroyed by fire under Mithraism (98:5.4)
 
-Hellenes | | Greeks | RACE | 
+Hellenes | | Greeks | RACE | OK
 
-Hellenistic Empire | | Greece | | 
+Hellenistic Empire | | Greece | | OK
 
 helplessness | (147:3.5) | | | 
 consequence of personality isolation (184:4.6)
@@ -590,13 +590,13 @@ henotheism | | | RACE |
 exaltation of one god above the many (104:2.1)
 Hebrews passed through (96:1.2,14)
 
-hens | | poultry | | 
+hens | | poultry | | OK
 
 Henselon | | | PLACE | 
 lost most Lanonandeks in rebellion (35:9.8)
 neighboring universe to Nebadon (32:2.12)
 
-heralds of the resurrection | | messenger corps (David Zebedee’s) | | 
+heralds of the resurrection | | messenger corps (David Zebedee’s) | | OK
 
 herders | | | | 
 Able was a herder; Cain was a farmer (76:2.2)
@@ -614,7 +614,7 @@ women reduced to social slavery in pastoral era (68:5.8) (69:7.5)
 
 heredity | | | | 
 divine heredity sometimes discloses attributes not discernible in the Creator (17:3.3)
-human h | genetics
+human heredity | genetics
 
 hermit | | | | 
 Gautama should have listened to the hermit Godad (94:7.4)
@@ -685,7 +685,7 @@ Herodias | | | PERSON | OK
 Herod Antipas’s unlawful wife; hated John the Baptist (135:12.2,5-6)
 > https://en.wikipedia.org/wiki/Herodias
 
-Herod’s temple | | Jerusalem temple | PLACE | 
+Herod’s temple | | Jerusalem temple | PLACE | OK
 
 heroes | | | | 
 help children choose (140:5.14)
@@ -760,7 +760,7 @@ residence in Jerusem circles (46:5.21)
 Hildana | | | PERSON | OK
 woman taken in adultery; husband was Nazareth degenerate (162:3)
 
-hills | | mountains | | 
+hills | | mountains | | OK
 
 Himalayas | | | PLACE | 
 geology (59:3.3) (60:1.12) (60:3.15) (61:1.13)
@@ -789,7 +789,7 @@ Nanak incorporated Hinduism into Sikhism (92:5.15) (92:7.2)
 preaches devotion (191:5.3)
 religion of metaphysics (5:4.7)
 
-Hindus | | Hinduism; India | RACE | 
+Hindus | | Hinduism; India | RACE | OK
 
 Hinnom, valley of; valley of Hinnom | | | PLACE | 
 Judas hanged himself in (186:1.7)
@@ -846,7 +846,7 @@ area on upper Paradise (11:3.2-4)
 residential area of 7 zones (11:3.3-4)
 souvenirs of our material days found on (11:3.2)
 
-Holy City | | Jerusalem | PLACE | 
+Holy City | | Jerusalem | PLACE | OK
 
 Holy Mother | | Mother of God cult | RACE | 
 Tibetans pray to (94:10.2)
@@ -968,7 +968,7 @@ transformation of faith engenders hope (101:10.8)
 horde | | | | 
 most primitive society was (70:3.1)
 
-Horeb | | Mount Sinai | PLACE | 
+Horeb | | Mount Sinai | PLACE | OK
 
 hormones | | | | 
 chemical reactions resulting from (65:6.6)
@@ -1010,7 +1010,7 @@ hospitality | | friendship | |
 guest friendship was temporary hospitality (70:3.9)
 minister as one entertaining children of Most High (133:4.8)
 
-hostility | | hatred | | 
+hostility | | hatred | | OK
 
 hosts to celestial visitors | | | | 
 Morontia Companions; entertain superhuman groups (48:3.10)
@@ -1036,7 +1036,7 @@ meeting between Indian tribe and Eskimo group (64:7.19)
 Hudson River; Hudson valley | (59:4.15) (60:1.3) | | PLACE | 
 Great Lakes once emptied through (61:7.10)
 
-human nature | | mortals: human nature | | 
+human nature | | mortals: human nature | | OK
 
 human rights | (70:9) | government: principles of government | | 
 associated with social duties (81:5.4,6)
@@ -1047,11 +1047,11 @@ no more than rules of the game (70:9.13)
 society should fairly administer (70:9.17)
 woman got rights when time came (84:5.4)
 
-human sacrifice | | sacrifice: human sacrifice | | 
+human sacrifice | | sacrifice: human sacrifice | | OK
 
-humanism | | secularism | | 
+humanism | | secularism | | OK
 
-humans | | mortals | | 
+humans | | mortals | | OK
 
 humiliation | | | | 
 all tribal reactions grew out of effort to avoid (68:4.2)

@@ -46,7 +46,7 @@ warnings
 	values can never be static (100:3.5)
 	values must not become disproportionate (143:6.3)
 
-Van (lake) | | Lake Van | PLACE | 
+Van (lake) | | Lake Van | PLACE | OK
 
 Van (Prince’s staff) | (67:6) | Caligastia one hundred | PERSON | 
 1-2-3 the first supported (77:9.5)
@@ -94,11 +94,11 @@ essential to concept of beauty (56:10.3)
 indispensable for natural selection (64:6.31)
 is restful (48:6.37)
 
-Vedas | | Rig-Veda | | 
+Vedas | | Rig-Veda | | OK
 
-Vedic priesthood | | Brahmanism | | 
+Vedic priesthood | | Brahmanism | | OK
 
-vegetables | | plants | | 
+vegetables | | plants | | OK
 
 vegetarianism | | | | 
 Adam and Eve and their first generation children practiced (74:6.3) (76:3.7) (76:4.4)
@@ -150,7 +150,7 @@ Vergil | (195:2.6) | | PERSON |
 Veronica of Caesarea Philippi; Veronica | | | PERSON | 
 touched hem of Jesus’ garment (152:0.2-3) (171:7.8)
 
-vertebrates | | animals | | 
+vertebrates | | animals | | OK
 
 Vesta | | | PERSON | 
 Roman goddess of the home; Hestia in Greece (98:3.3)
@@ -175,7 +175,7 @@ vices | | evil; self-gratification; sin | |
 Jesus had little to say about (140:8.21)
 virtue carried to extremes may become vice (149:4.3)
 
-vicissitudes | | accidents | | 
+vicissitudes | | accidents | | OK
 
 victory | | | | 
 certain victory crowns efforts of all who run race of faith (32:5.8)
@@ -183,7 +183,7 @@ conquest by sacrifice of pride and selfishness (141:3.8)
 faith maintains trust in ultimate victory regardless (101:3.10)
 which overcomes world is faith (4:4.9)
 
-viewpoints | | belief | | 
+viewpoints | | belief | | OK
 
 Vilton | | | PERSON | 
 local system recorder; tertiary Lanonandek #374 (45:3.6)
@@ -371,7 +371,7 @@ ascenders educated in universe legislation on (35:7.1-2)
 
 Vosges mountains; Vosges | (59:5.12) | | PLACE | 
 
-voting | | suffrage | | 
+voting | | suffrage | | OK
 
 vows | | | | 
 addiction to making foolish (89:6.3)

@@ -15,7 +15,7 @@ couvert 9/10 de la surface terrestre (57:8.20)
 géologie des îles de l'océan Pacifique (60:1.12)
 peuples insulaires améliorés par les Andites (79:1.6)
 
-pacifisme | | non-résistance | |
+pacifisme | | non-résistance | | OK
 
 emballer | | | |
 porter le sac sur le deuxième mile (159:5.15)
@@ -310,7 +310,7 @@ Les sept corps finalitaires représentent la réponse divine du grand univers au
 supervisé par l'architecte principal du Master Universe (31:10.1)
 Conseil suprême du destin composé des chefs de chaque corps finalitaire (31:10.9)
 
-Fils Créateurs du Paradis | | Fils Créateurs | ORDER |
+Fils Créateurs du Paradis | | Fils Créateurs | ORDER | OK
 
 Déités du Paradis; DÉITÉS DU PARADIS | | | ORDER |
 dans le registre de la personnalité (30:2.10-13)
@@ -319,11 +319,11 @@ nommé
 	# Fils Éternel
 	# Esprit Infini
 
-Énergie du paradis | | monota | |
+Énergie du paradis | | monota | | OK
 
-Organisateurs de la force du paradis | | Maitres Organisateurs de Force | ORDER |
+Organisateurs de la force du paradis | | Maitres Organisateurs de Force | ORDER | OK
 
-Gravité paradisiaque | | gravité:types | |
+Gravité paradisiaque | | gravité:types | | OK
 
 système Paradis-Havona | | Havona; Paradis | PLACE |
 noyau éternel du maître univers (12:1.11)
@@ -336,7 +336,7 @@ peuvent servir d'évangiles de lumière attachés aux compagnies mortelles final
 commission paradisiaque d'incarnation | | | |
 déployé autour du tombeau de Jésus (189:1.1,5)
 
-Esprits Maîtres du Paradis | | Maîtres Esprits, Sept | ORDER |
+Esprits Maîtres du Paradis | | Maîtres Esprits, Sept | ORDER | OK
 
 Fils Paradisiaques de Dieu | (20) (7:6) | Fils Créateurs; Fils Magistraux; Fils Instructeurs de la Trinité | ORDER |
 tous sont unis dans une association spirituelle quasi absolue (7:6.7)
@@ -399,7 +399,7 @@ types
 	Fils enseignants de la Trinité
 l'œuvre de chacun est comme s'il était le premier et unique Fils de Dieu; identique en qualité (20:1.11) (20:10.1)
 
-Source et Centre du Paradis | | Père Universel | PERSON |
+Source et Centre du Paradis | | Père Universel | PERSON | OK
 
 Trinité du Paradis | (10) (104) (0:12.1-5) | | PERSON |
 croyances concernant
@@ -755,7 +755,7 @@ forme négative du rituel de renonciation (89:3.3)
 
 Pennsylvanie | (58:7.4) (59:5.17) (61:7.2,9) | | PLACE |
 
-pensions | | retraite | |
+pensions | | retraite | | OK
 
 Pentecôte (confiture de l'Esprit de Vérité) | | Judaïsme:fêtes; Esprit de vérité | |
 acte d'abandon intelligent de soi, de consécration (194:3.16)
@@ -854,7 +854,7 @@ parjures | | mensonge | |
 soldats et gardes soudoyés pour dire que les disciples ont pris le corps de Jésus (189:2.4)
 Le témoignage contre Jésus est tombé dans ses propres pièges (184:3.8)
 
-citoyens permanents | | corps des citoyens permanents | ORDER |
+citoyens permanents | | corps des citoyens permanents | ORDER | OK
 
 permienne | | âges géologiques | |
 âge de la tribulation biologique; de 170 à 150 millions d'années (59:6)
@@ -880,9 +880,9 @@ pouvoir dont sont morts les premiers chrétiens (195:3.4)
 progrès toujours la récolte finale de (140:5.21)
 Le monde ne traitera pas les croyants mieux qu'il ne l'a fait avec Jésus (157:6.8)
 
-persévérance | | persistance | |
+persévérance | | persistance | | OK
 
-Perse | | Iran; Perses | PLACE |
+Perse | | Iran; Perses | PLACE | OK
 
 golfe Persique | | | PLACE |
 Expédition dravidienne sur (79:3.7)
@@ -1136,7 +1136,7 @@ employer la persuasion pour changer les mentalités, et non la contrainte (178:1
 Pérou | | | PLACE |
 des traces de sang andite ont été atteintes (79:5.9)
 
-espace envahi | | espace:espace envahi | |
+espace envahi | | espace:espace envahi | | OK
 
 pessimisme | | optimisme | |
 prouve que l'univers n'est pas entièrement matériel (195:7.8)
@@ -1145,7 +1145,7 @@ la poursuite de la simple connaissance conduit à (195:6.3)
 animal de compagnie maléfique | | | |
 presque tous les êtres humains ont un (163:2.7)
 
-Pierre | | Simon Pierre | PERSON |
+Pierre | | Simon Pierre | PERSON | OK
 
 pétition | | | |
 privilège de pétition inhérent à la libre citoyenneté (71:2.15-16)
@@ -1342,16 +1342,16 @@ seulement 14 sont apparus (65:2.11)
 phylactères | | | |
 rendre large (175:1.9)
 
-contrôleurs physiques | | Maitres Contrôleurs Physiques | |
+contrôleurs physiques | | Maitres Contrôleurs Physiques | | OK
 
-énergie physique | | énergie matérielle | |
+énergie physique | | énergie matérielle | | OK
 
 manipulateurs physico-énergétiques | | | |
 manipulateur d'énergie artisans célestes; assister les superviseurs du pouvoir morontiel (44:5.2)
 
-matière physique | | matière | |
+matière physique | | matière | | OK
 
-nature physique | | chair | |
+nature physique | | chair | | OK
 
 médecins | | maladie; blessure; médecine | |
 Elman, supervisé à l'hôpital de Bethsaïde (148:0.1) (148:2)
@@ -1374,7 +1374,7 @@ Joseph en offrit 2 pour le sacrifice au temple (122:10.2)
 
 pic Pikes | (60:4.4) | | PLACE |
 
-Pilate, Ponce | | Ponce Pilate | PERSON |
+Pilate, Ponce | | Ponce Pilate | PERSON | OK
 
 gardiens pèlerins | | | ORDER |
 Compagnons morontiels; coordinateurs de tous les ministres morontiels (48:3.7)
@@ -1414,17 +1414,17 @@ mélange de races réussi (82:6.9)
 glandes pituitaires | | hormones | |
 imagination et réceptivité spirituelle influencées par (49:5.19)
 
-pitié | | sympathie | |
+pitié | | sympathie | | OK
 
 apaisement | | | |
 des fantômes précédés par la coercition, la supplication, la conciliation et la propitiation (87:2.1) (89:4.4) (90:0.1)
 
-Adams planétaires | | Adam; Fils Matériels | ORDER |
+Adams planétaires | | Adam; Fils Matériels | ORDER | OK
 
 commission planétaire des soixante-dix | | | |
 Groupe Édentia approuvant les plans d'initiation à la vie planétaire (57:8.9)
 
-conseil planétaire sur l'art et la science | | Cent de Caligastia | PERSON |
+conseil planétaire sur l'art et la science | | Cent de Caligastia | PERSON | OK
 
 gardiens planétaires | | | ORDER |
 70 responsables de chaque sphère morontielle (48:2.18)
@@ -1528,7 +1528,7 @@ types
 	# enregistreurs (39:5.16)
 	# réserves (39:5.17)
 
-types physiques planétaires | | mortels:types planétaires | |
+types physiques planétaires | | mortels:types planétaires | | OK
 
 Prince Planétaire d'Urantia | | Princes Planétaires | PERSON |
 Caligastia l'était; déposé (66) (179:2.3) (189:3.3)
@@ -1645,7 +1645,7 @@ croissance énergétique pure sur les mondes morontiels (43:6.6)
 plantes à spores presque éteintes après le Permien (60:0.2)
 adoration de (85:2.1-2)
 
-plasme | | plasma de vie | |
+plasme | | plasma de vie | | OK
 
 platine | (63:5.6) | | |
 
@@ -1663,9 +1663,9 @@ Commentaires de Jésus sur (130:4.1) (133:5.2)
 le naturel est une ombre irréelle des réalités spirituelles (151:3.3) (170:5.2)
 croyance tolérée en la réincarnation (164:3.4)
 
-jouer | | loisirs | |
+jouer | | loisirs | | OK
 
-jouer aux constructeurs | | | |
+jouer aux constructeurs | | | | 
 bâtisseurs divins, artisans célestes (44:3.4)
 
 plaisirs | | loisirs; autosatisfaction | |
@@ -1727,7 +1727,7 @@ relations complémentaires des esprits au service du Seigneur (26:1.16)
 Étoile polaire | | | |
 entrée en pente de la grande pyramide pointée vers (95:2.7)
 
-pôles magnétiques | | magnétisme | |
+pôles magnétiques | | magnétisme | | OK
 
 pôles de communication spatiale | | | PLACE |
 Les Anciens des Jours occupent le point de polarité spirituelle sur Uversa (18:3.6)
@@ -1745,13 +1745,13 @@ la religion a été la force de police morale de tous les temps (92:3.9)
 les sociétés secrètes fonctionnaient comme des sociétés secrètes (70:7.15-16)
 les chamans étaient les premiers officiers de la loi (70:10.5)
 
-politique | | gouvernement | |
+politique | | gouvernement | | OK
 
-polyandrie | | mariage:entre primitifs | |
+polyandrie | | mariage:entre primitifs | | OK
 
-polygamie | | mariage:chez les primitifs | |
+polygamie | | mariage:chez les primitifs | | OK
 
-polygamie | | mariage:chez les primitifs | |
+polygamie | | mariage:chez les primitifs | | OK
 
 Polynésie | | | PLACE |
 Marins andites biologiquement modifiés (78:5.7)
@@ -1806,7 +1806,7 @@ un plus grand nombre reçoit l'évangile (143:1.5) (166:4.3)
 Jésus a béni les pauvres parce qu'ils étaient généralement sincères et pieux (196:2.8)
 servir, partager avec les pauvres (147:8.3) (167:1.5) (192:2.2)
 
-pauvre en esprit | | humilité | |
+pauvre en esprit | | humilité | | OK
 
 pauvre homme faussement accusé | (132:4.8) | | |
 
@@ -1836,7 +1836,7 @@ surpopulation
 stationnaire dans la lumière et la vie (55:6.3)
 varie en sens inverse du niveau de vie donné (68:6.3)
 
-porc | | porcs | |
+porc | | porcs | | OK
 
 Porogia | | | PLACE |
 système immédiatement voisin de Satania (41:2.1)
@@ -1857,13 +1857,13 @@ univers voisin de Nébadon (32:2.12)
 porteurs | | | |
 le souverain de la race bleue en avait autrefois 100 000 (81:2.12)
 
-position | | statut | |
+position | | statut | | OK
 
 positif | | optimisme | |
 a toujours l'avantage sur le négatif (102:6.7)
 La religion de Jésus était (159:5)
 
-possession | | possession démoniaque | |
+possession | | possession démoniaque | | OK
 
 possessions | | propriété privée; richesse | |
 les disciples étaient tenus de consacrer tout ce qu'ils avaient (171:2.4)
@@ -1872,17 +1872,17 @@ la vie de l'homme ne consiste pas dans l'abondance (165:4.1)
 de nombreux anciens considéraient les possessions comme un handicap spirituel (89:3.2)
 Quand l'homme donne à Dieu tout ce qu'il a, Dieu le rend plus que ce qu'il est (117:4.14)
 
-ère post-adamique | | époques planétaires | |
+ère post-adamique | | époques planétaires | | OK
 
-ère post-Fils Donnant | | époques planétaires | |
+ère post-Fils Donnant | | époques planétaires | | OK
 
-ère post-Fils Magistral | | époques planétaires | |
+ère post-Fils Magistral | | époques planétaires | | OK
 
-ère post-Prince Planétaire | | époques planétaires | |
+ère post-Prince Planétaire | | époques planétaires | | OK
 
-ère post-Fils du Maître | | époques planétaires | |
+ère post-Fils du Maître | | époques planétaires | | OK
 
-postulats | | théories | |
+postulats | | théories | | OK
 
 Potentiel | | Absolus:les trois | |
 ce qui devient (115:3.11)
@@ -1951,13 +1951,13 @@ tendance à s'incliner devant le pouvoir (89:4.1)
 il n'y a pas de pouvoir qui ne vienne de Dieu (3:2.1)
 ceux qui s'attendent à l'Éternel renouvelleront leur force (97:7.8) (131:2.6)
 
-centres de pouvoir | | Centres Suprêmes de Pouvoir | ORDER |
+centres de pouvoir | | Centres Suprêmes de Pouvoir | ORDER | OK
 
-superviseurs de puissance | | Superviseurs de Pouvoir Morontiel | ORDER |
+superviseurs de puissance | | Superviseurs de Pouvoir Morontiel | ORDER | OK
 
-transformateurs de puissance | | transformateurs d'énergie | ORDER |
+transformateurs de puissance | | transformateurs d'énergie | ORDER | OK
 
-Pouvoirs du Paradis | | Déité | ORDER |
+Pouvoirs du Paradis | | Déité | ORDER | OK
 
 modalités pratiques | | circonstances | |
 de la vie quotidienne gérée par les agences de l'Esprit Infini (5:3.5)
@@ -2104,7 +2104,7 @@ prière primitive
 prière d'identification | | | |
 différencie l'univers local Esprit Mère (17:6.5)
 
-pré-Sumériens | | Sumériens | RACE |
+pré-Sumériens | | Sumériens | RACE | OK
 
 principes de prédication | | évangile:proclamation | |
 
@@ -2158,19 +2158,19 @@ circuits de présence | | circuits | |
 embellisseurs de présence | | | |
 concepteurs et embellisseurs d'artisans célestes; dramatisent la signification de la relation (44:6.7)
 
-présence de Dieu | | Dieu:conscience de Dieu | |
+présence de Dieu | | Dieu:conscience de Dieu | | OK
 
 présent | | perspective | |
 interpréter à la lumière du passé et du futur corrélés (19:1.11)
 trivial lorsqu'il est séparé du passé et du futur (160:2.9)
 
-pressentiments | | directions | |
+pressentiments | | directions | | OK
 
 pression | | contrainte | |
 ne sauve pas, n'ennoblit pas et ne stimule pas la croissance (103:5.11)
 devrait développer la stabilité et la certitude (48:6.35)
 
-prestige | | honneur | |
+prestige | | honneur | | OK
 
 présomption | | | |
 Le courage et la foi peuvent conduire des hommes irréfléchis à l'imprudence (149:4.4)
@@ -2179,7 +2179,7 @@ La foi de Jésus est totalement libre de (196:0.14)
 La présomption de Pierre a causé des ennuis (139:2.3) (181:2.27)
 l'insouciance d'une présomption aveugle (100:7.15)
 
-prétention | | affectation | |
+prétention | | affectation | | OK
 
 détention préventive | | | |
 dans la nation continentale (72:10.2)
@@ -2253,14 +2253,14 @@ des squelettes très semblables à ceux des humains primitifs (62:4.4)
 jetaient des pierres; utilisaient des massues, des spicules de silex, des os (63:1.2)
 marchait debout, abandonnait largement la vie arboricole; langage développé (62:4.1-4)
 
-mortels primitifs | | mortels:mortels primitifs | RACE |
+mortels primitifs | | mortels:mortels primitifs | RACE | OK
 
-force primordiale | | segregata | |
+force primordiale | | segregata | | OK
 
 prince des ténèbres | | | PERSON |
 Caligastia (179:2.3)
 
-prince des diables | | diable | PERSON |
+prince des diables | | diable | PERSON | OK
 
 Prince de la Paix | | | PERSON |
 Fils d'octroi (52:6.1)
@@ -2270,7 +2270,7 @@ Les Juifs croyaient que le Messie régnerait sur eux (97:10.1)
 Prince de Salem | | Machiventa Melchizédek | PERSON |
 Melchizédek qui a vécu sur Urantia (35:4.5)
 
-Prince de ce monde | | Caligastia | PERSON |
+Prince de ce monde | | Caligastia | PERSON | OK
 
 Bâton corporel du Prince | | Cent de Caligastia; bâtons corporels des Princes Planétaires | PERSON |
 
@@ -2422,12 +2422,12 @@ anges du progrès | | maître séraphin de supervision planétaire | ORDER |
 aides au progrès | | | ORDER |
 Les médians spirituels qui assistent les séraphins planétaires (77:8.9)
 
-prolétariat | | population | |
+prolétariat | | population | | OK
 
 Prométhée | | | PERSON |
 a volé le feu du ciel (81:2.9)
 
-Terre promise | | Palestine | |
+Terre promise | | Palestine | | OK
 
 promesses | | devoir; serments; résolutions | |
 Les anciens se méfiaient des promesses concernant le mariage; ils recherchaient une garantie tangible (83:3.1)
@@ -2478,7 +2478,7 @@ incluait des éloges, des flatteries, et même du divertissement (89:4.7)
 la vie rendue misérable par les cérémonies de (87:5.8)
 rites sacrificiels remplacés d'évitement, d'apaisement et d'exorcisme (89:0.2) (89:4.4) (90:0.1)
 
-proportions | | comparaisons | |
+proportions | | comparaisons | | OK
 
 convenance | | | |
 Le sens extraordinaire de Jésus (100:7.3)
@@ -2695,7 +2695,7 @@ Pendjab | | Inde | PLACE |
 Infiltration andite dans (79:1.1)
 infiltration des Aryens dans (79:4.3)
 
-énergie pure | | segregata | |
+énergie pure | | segregata | | OK
 
 pur de cœur | | | |
 verra Dieu (140:3.6) (140:5.12)
@@ -2705,9 +2705,9 @@ traitement médical ancien (90:4.8)
 
 cérémonies de purification | | cérémonies:cérémonies de purification | |
 
-Pourim | | Judaïsme:fêtes | |
+Pourim | | Judaïsme:fêtes | | OK
 
-porte-monnaie | | argent | |
+porte-monnaie | | argent | | OK
 
 Pygmées | | | RACE |
 les restes misérables des anciens peuples non sociaux (68:1.6)

@@ -127,7 +127,7 @@ Desintegración de uranio por emisiones de (42:4.12)
 Ragaba | (165:0.1) (166:1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-rabia | | ira | | 
+rabia | | ira | | OK
 
 lluvia | | sequía | | 
 parece descender en oleadas, pero en realidad es en gotas separadas (41:5.7)
@@ -149,7 +149,7 @@ Una de las poblaciones recorridas en la misisón de Perea
 Ramán | | | PERSON | 
 Dios babilónico del aire (146:1.1)
 
-doctrina de rescate | | doctrina de la expiación | | 
+doctrina de rescate | | doctrina de la expiación | | OK
 
 Rantowoc | | | PERSON | 
 primer mortal en asegurar el guardián personal del destino (113:2.2)
@@ -360,7 +360,7 @@ los mortales ascendentes residentes sirven (18:5.2)
 Personalidades Trinitarias Supremas (18:0.6)
 Los Custodios Trinidizados son funcionarios de tribunales de (18:4.5)
 
-recesión de las galaxias | | corrimiento al rojo | | 
+recesión de las galaxias | | corrimiento al rojo | | OK
 
 reconocimiento | | adulación; conocimiento; alabanza | | 
 acuerdo generoso reconocimiento por cosas dignas de alabanza (100:1.8) (159:3.3)
@@ -1108,7 +1108,7 @@ guardianes religiosos | | Serafines maestros de la supervisión planetaria | ORD
 líderes religiosos en Roma | | | | 
 Jesús se preparó para los subsiguientes misioneros cristianos (132:0.4-9)
 
-líderes religiosos (Jerusalén) | | sanedrín | | 
+líderes religiosos (Jerusalén) | | sanedrín | | OK
 
 Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor | (179) | | | 
 origen antiguo de la comida sagrada (89:4.10)
@@ -1150,16 +1150,16 @@ reconocimiento del mal de los caminos de uno (131:8.5) (167:5.2)
 restricción nacida de (131:3.3)
 ladrón en la cruz arrepentido (187:4)
 
-repersonalización | | resurrección | | 
+repersonalización | | resurrección | | OK
 
-represión | | compulsión | | 
+represión | | compulsión | | OK
 
 reptiles | (60:1-2) (60:3.14) | cocodrilos; dinosaurios; pterosaurios; serpientes marinas; serpientes; tortugas | | 
 pájaros descendientes de (65:2.8-9)
 sobreviven serpientes, lagartos, caimanes y tortugas (65:2.10)
 surgió de las ranas (59:6.8) (65:2.8,10)
 
-investigación | | educación | | 
+investigación | | educación | | OK
 
 resentimiento | | envidia | | 
 puede convertir el amor en odio (177:4.11)
@@ -1311,7 +1311,7 @@ las cámaras de ensamblaje de vida proporcionan una relación de energía univer
 encuentro de guardianes seráficos, Ajustadores, Portadores de Vida y Arcángeles de la resurrección (47:3.2)
 asamblea del templo de la personalidad en el primer mundo de las mansiones (47:3.2,5)
 
-represalias | | venganza | | 
+represalias | | venganza | | OK
 
 jubilación | | | | 
 a los 65 años en la nación continental (72:6.1-2) (72:9.4)
@@ -1429,7 +1429,7 @@ venganza
 	Las huelgas de hambre suicidas eran formas antiguas de represalia (70:10.10)
 cuando el enemigo te golpea, pon la otra mejilla (159:5.9-15)
 
-reversión | | recreación | | 
+reversión | | recreación | | OK
 
 Directores de la reversión; directores de la reversión | (48:4) | | ORDER | 
 todos los seres celestiales disfrutan (84:8.5)
@@ -1488,7 +1488,7 @@ arroz | | | |
 Los adanitas comieron (81:1.8)
 arrojado a los recién casados para asegurar la fecundidad (83:4.5)
 
-el rico | | riqueza:personas que poseen riqueza | | 
+el rico | | riqueza:personas que poseen riqueza | | OK
 
 rico y mendigo | | | | 
 Parábola nazarea (169:3)
@@ -1500,7 +1500,7 @@ Jesús a menudo aconsejaba de manera similar a los discípulos acomodados (163:2
 rica viuda de Tiro | | | | 
 buscó comprar curación (149:1.9)
 
-gobernante joven rico | | Matadormo | | 
+gobernante joven rico | | Matadormo | | OK
 
 ridículo | | | | 
 cuidado con los dardos venenosos de (174:0.2)
@@ -1569,7 +1569,7 @@ los rabinos enseñaron que los ignorantes no podían disfrutar (138:8.7)
 reconocido por Dios (48:7.12)
 requiere el contraste del mal potencial (3:5.13)
 
-derechos | | derechos humanos | | 
+derechos | | derechos humanos | | OK
 
 Rimón | (146:1) | | PLACE | 
 Jesús predicó en este lugar
@@ -1578,7 +1578,7 @@ anillo | | | |
 mujeres casadas apartadas por (82:2.5)
 el anillo del hijo dado al hijo pródigo (169:1.9)
 
-rivalidad | | competencia | | 
+rivalidad | | competencia | | OK
 
 lecho del río | | | | 
 no es el río (100:5.1)
@@ -1745,7 +1745,7 @@ la mayoría de las estructuras del mundo de las mansiones sin techo (48:3.15)
 dormitorio de verano en la casa de los padres para el joven Jesús (123:2.14)
 tejas quitadas al paralítico inferior (148:9.2)
 
-gallos | | aves de corral | | 
+gallos | | aves de corral | | OK
 
 cabezas redondas | | | | 
 Los andonitas eran (80:5.8)
@@ -1765,7 +1765,7 @@ Jesús ayudó a Rufo cuando fue herido por una carreta (130:6.6)
 regla de vida | | regla de oro | | 
 La vieja manera es la supresión y conformidad con (143:2.4)
 
-reglas | | ley | | 
+reglas | | ley | | OK
 
 rumiantes | | | | 
 incluyen ciervos, bueyes, camellos, bisontes, rinocerontes (61:3.5)

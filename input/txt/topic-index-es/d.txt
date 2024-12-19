@@ -407,7 +407,7 @@ deducción | | lógica | | OK
 ciervo; ciervos | (61:3.5) (61:5.7) | | | OK
 Hace 800.000 años, la caza era abundante. Los ciervos eran cazados por los neandertales (64:4.2)
 
-defecto | | traición; pecado | | OK
+falta | | traición; pecado | | OK
 
 derrota; derrotas; fracasos; fracaso, fracasara; rechazado | | depresión; decepción; desastre; miedo; dolor | | OK
 Cuando un hombre se enfrenta con sus propios fracasos, ¡cuánta tendencia tiene a inculpar a los demás, con mucha frecuencia a quienes menos se lo merecen! (176:3.9) (193:4.7)
@@ -766,13 +766,13 @@ devoción | | lealtad | | OK
 Devoradora | | | PERSON | OK
 La religión egipcia consignó a las almas deficientes a la Devoradora, el infierno (95:2.9)
 
-punto de rocío | (46:2.2) | | | OK
+punto de rocío | (46:2.2) | | | 
 
 dialectos; dialecto | | idioma | | OK
 Las razas primitivas atrasadas y desconfiadas, hablaban un dialecto diferente cada 60 u 80 kilómetros,  (68:1.6)
 Un ejemplo del origen de los dialectos es la condescendencia a «hablar como los niños» dentro de un grupo familiar. (81:6.17-18)
 
-diamantes | (63:5.6) | | | OK
+diamantes | (63:5.6) | | | 
 
 dictado | | registros | | OK
 
@@ -1088,7 +1088,7 @@ tolerancia a la diversidad
 Dives | | | | OK
 Dives es el hombre rico de la parábola nazarea de Lázaro y Dives, una advertencia a todos los que aman las riquezas y codician los bienes fraudulentos (169:3)
 
-dividiendo la herencia | (165:4) | | | OK
+dividiendo la herencia | (165:4) | | | 
 
 adivinación; varilla adivinatoria | | | | OK
 La adivinación era simplemente un intento por evitar las dificultades. (87:5.14)
@@ -1437,7 +1437,7 @@ los sueños de los primitivos
 vagabundos | | indolencia | | OK
 no debemos ser unos vagabundos que confían pasivamente en una Providencia ficticia (178:1.14)
 
-perforadores (gasterópodos) | (59:2.12) | | | OK
+perforadores (gasterópodos) | (59:2.12) | | | 
 
 impulsos innatos | | instintos | | OK
 
@@ -1460,7 +1460,7 @@ La religión ennoblece el pesado trabajo común de la vida diaria. Deberíamos h
 
 Drogas | | intoxicación | | OK
 
-drumlins | (61:7.1) | | | OK
+drumlins | (61:7.1) | | | 
 
 embriaguez | | intoxicación | | OK
 

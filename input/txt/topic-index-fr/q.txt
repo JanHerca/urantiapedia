@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Absolu qualifié | | Déité Absolue | PERSON |
+Absolu qualifié | | Déité Absolue | PERSON | OK
 
 Vice-Gérants Qualifiés de l'Ultime | (30:1.106) (106:4.3) (117:7.4) | | ORDER |
 Les aides à l'image réfléchissante représentent (15:10.21)
@@ -62,7 +62,7 @@ Québec | (59:3.2) | | PLACE |
 Queensland | | | PLACE |
 premier enfant tué et dévoré en (89:5.4)
 
-questionnements | | doute | |
+questionnements | | doute | | OK
 
 stimulants de la moralité | | séraphins | ORDER |
 administrateur séraphin; enseigne les interactions de liberté et de loyauté (39:4.10-14)

@@ -146,7 +146,7 @@ Jésus est décédé
 couleuvre d'eau | | | |
 si votre enfant demande un (144:2.4)
 
-phénomènes ondulatoires | | énergie:types d'énergie | |
+phénomènes ondulatoires | | énergie:types d'énergie | | OK
 
 collage de panneaux de cire | | | |
 dettes enregistrées sur (169:2.4)
@@ -350,11 +350,11 @@ le développement social le plus avancé sur Urantia (68:0.3)
 curiosité exploratoire et insatiable due à l'héritage andite (79:7.3)
 le facteur unificateur est l'héritage andite (81:4.11)
 
-forgerons blancs | | forgerons; magie; sorcellerie | |
+forgerons blancs | | forgerons; magie; sorcellerie | | OK
 
-tout | | parties et le tout | |
+tout | | parties et le tout | | OK
 
-méchanceté | | iniquité; péché; pécheurs | |
+méchanceté | | iniquité; péché; pécheurs | | OK
 
 veuves | | | |
 elles se suicidaient habituellement sur la tombe de leur mari (87:2.7)
@@ -368,7 +368,7 @@ les acariens de la veuve (172:4.2)
 désert de Judée | | | PLACE |
 Jean-Baptiste gardait les moutons (135:2.3)
 
-volonté | | libre arbitre | |
+volonté | | libre arbitre | | OK
 
 volonté de Dieu | | plan divin; soumission | |
 soumission active à (2:5.5) (5:1.12) (110:3.2) (117:5.2) (128:1.6,12) (130:2.2) (131:2.8) (133:7.10) (135:11.3) (136:4.4) (136:6.4) (138:7.1) (140:8.3) (142:6.8) (144:5.95) (146:3.5-7) (149:5.3) (168:0.11) (171:4.7) (171:8.14) (178:3.3) (180:2.2) (181:2.11,15) (182:2.1-2) (186:2.3)
@@ -629,7 +629,7 @@ prêché dans les bordels (150:2.2)
 a pris en charge le ministère auprès des malades (165:0.2)
 formé 50 femmes (163:7.3)
 
-galerie des femmes | | temple de Jérusalem | |
+galerie des femmes | | temple de Jérusalem | | OK
 
 bois | | | |
 commerce précoce en (79:1.4)
@@ -650,7 +650,7 @@ Jésus était | Jésus:personnalité et nature
 Paul n'imaginait pas que ses lettres seraient considérées comme (98:7.9)
 rejeter les écritures traditionnelles considérées comme (155:6.2)
 
-mots | | langue | |
+mots | | langue | | OK
 
 fabrication | | | |
 Jésus ne perdait pas de temps à des bagatelles (134:9.7)
@@ -659,7 +659,7 @@ Jésus ne perdait pas de temps à des bagatelles (134:9.7)
 ne peut pas acheter la faveur de Dieu (167:5.1)
 le salut n'est pas obtenu par (143:2.5)
 
-monde (terre) | | Urantia | |
+monde (terre) | | Urantia | | OK
 
 gouvernement mondial | | gouvernement:gouvernement mondial | |
 
@@ -768,7 +768,7 @@ bâtisseurs divins, artisans célestes (44:3.5)
 blessures | | | |
 traité avec de l'huile et du vin (90:4.9) (164:1.3)
 
-colère | | colère | |
+colère | | colère | | OK
 
 écriture | | communication; langue; bâton de message; impression; enregistrements; signaux de fumée; ceintures wampum | |
 alphabets

@@ -59,7 +59,7 @@ la fierté des parents dans la réussite de leurs enfants (84:7.10,15)
 les primitifs considéraient les noms comme des entités séparées; ils pouvaient être mis en gage (88:5.5)
 les révélateurs ont eu du mal à traduire de manière significative (18:4.3)
 
-Nanak, Gourou | | gourou Nanak | PERSON |
+Nanak, Gourou | | gourou Nanak | PERSON | OK
 
 Naomie | | | PERSON |
 mariée aux noces de Cana (137:3.6)
@@ -142,7 +142,7 @@ ne peut pas se frotter les coudes sans conflit (134:5.7)
 l'absence d'augmentation de la population empêche la pleine réalisation (81:6.11)
 L'Esprit de Vérité diminue l'affirmation de soi (194:3.18)
 
-événements naturels | | circonstances | |
+événements naturels | | circonstances | | OK
 
 loi naturelle | | | |
 Jésus pourrait accélérer, mais ne violerait pas (136:6.2) (136:7) (136:9.9)
@@ -159,7 +159,7 @@ considéré comme une fiducie sociale dans la nation continentale (72:6.7) (72:7
 déterminent en grande partie l'étendue de la civilisation matérielle (78:2.4) (81:6.3)
 partager les découvertes avec le plus grand nombre de collègues (132:5.16)
 
-droits naturels | | droits de l'homme | |
+droits naturels | | droits de l'homme | | OK
 
 sélection naturelle | | génétique | |
 variété indispensable à (64:6.31)
@@ -327,7 +327,7 @@ Conseil suprême de Salvington (188:3.12)
 Les souverains du système se voient confier des prérogatives personnelles inhabituelles (45:2.1)
 ce qui est imprégné par notre Esprit Mère est Nébadon (41:0.1) (45:1.8) (116:5.13)
 
-Corps de perfectionnement de Nébadon | | Corps de la Perfection de Nébadon | ORDER |
+Corps de perfectionnement de Nébadon | | Corps de la Perfection de Nébadon | ORDER | OK
 
 Corps de la Perfection de Nébadon | | | ORDER |
 atteint par les ascendeurs fusionnés avec l'Esprit (37:5.4)
@@ -336,7 +336,7 @@ les membres acquièrent une sagesse faisant autorité sur Nébadon (40:10.6)
 Corps de la Finalité de Nébadon | | | ORDER |
 l'identité de l'âme de Jésus peut être libérée pour la direction de (188:3.8)
 
-Centres de pouvoir de Nébadon | | centres d'univers locaux | ORDER |
+Centres de pouvoir de Nébadon | | centres d'univers locaux | ORDER | OK
 
 Corps Révélateur de Nébadon | | | ORDER |
 création dirigée de la deuxième partie des Fascicules d'Urantia (56:10.22-23)
@@ -364,7 +364,7 @@ Nécho | | | PERSON |
 L'Égyptien qui a anéanti le roi Josias (97:9.24)
 renversé par Nébucadnetsar (97:9.25)
 
-colliers | | ornementation | |
+colliers | | ornementation | | OK
 
 nécromancie | | magie | |
 praticiens de l'art noir appelés nécromanciens (90:2.2)
@@ -416,13 +416,13 @@ dernière éruption andite de la région caspienne (78:8.11)
 filet jeté à la mer | | | |
 parabole de (151:4.6)
 
-Paradis inférieur | | Paradis | |
+Paradis inférieur | | Paradis | | OK
 
 neutrons | | atomes; matière | |
 la stabilité atomique dépend du nombre de neutrons dans le noyau (42:7.6)
 maintenus ensemble par un mésotron alternatif (42:8.3)
 
-nouveau commandement | | commandements | |
+nouveau commandement | | commandements | | OK
 
 Nouvelle-Guinée | | | PLACE |
 le groupe se croit descendant du perroquet (74:8.5)
@@ -587,14 +587,14 @@ fantômes censés être effrayés par (87:6.11)
 nomadisme | | | |
 déclin progressif de (68:5.12)
 
-non-respirateurs | | mortels:types planétaires | |
+non-respirateurs | | mortels:types planétaires | | OK
 
 non-conformistes | | | |
 la civilisation inflige de lourdes sanctions aux dissidents et (81:5.3)
 
-non-existence | | non-survivants | |
+non-existence | | non-survivants | | OK
 
-non-religionnaires | | incroyants | |
+non-religionnaires | | incroyants | | OK
 
 non-résistance | | combat; légitime défense | |
 accusation selon laquelle les spécimens affaiblis périraient bientôt (143:1.2)
@@ -629,7 +629,7 @@ possibilité d'autodestruction cosmique inévitable si la personnalité doit êt
 l'identification totale avec le mal est une non-existence (54:3.2)
 en se retirant de Dieu, l'homme s'approche de la non-réalité – la cessation de l'existence (117:4.14)
 
-non-violence | | non-résistance | |
+non-violence | | non-résistance | | OK
 
 Norana | | | PERSON |
 Une femme syrienne avec sa fille malade (156:1)
@@ -637,7 +637,7 @@ Une femme syrienne avec sa fille malade (156:1)
 Nordan le Kénite | | | PERSON |
 Le brillant disciple de Melchizédek (93:3.4)
 
-Course nordique | | race blanche:divisions | RACE |
+Course nordique | | race blanche:divisions | RACE | OK
 
 Norlatiadek | (43) | constellations; Édentia; Très Hauts de Norlatiadek | PLACE |
 10 centres de constellations stationnés dans (41:1.4)
@@ -691,4 +691,4 @@ numérologie | | | |
 science fondée des mathématiques (88:6.5)
 pure superstition sans fondement (150:3.8)
 
-nutrition | | nourriture | |
+nutrition | | nourriture | | OK

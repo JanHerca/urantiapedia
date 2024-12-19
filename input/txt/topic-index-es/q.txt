@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Absoluto Cualificado | | Absoluto de la Deidad | PERSON | 
+Absoluto Cualificado | | Absoluto de la Deidad | PERSON | OK
 
 Vicegerentes Calificados del Último | (30:1.106) (106:4.3) (117:7.4) | | ORDER | 
 Las ayudas de imagen reflectante representan (15:10.21)
@@ -62,7 +62,7 @@ Quebec | (59:3.2) | | PLACE |
 Queensland | | | PLACE | 
 primer niño asesinado y devorado (89:5.4)
 
-cuestionamientos | | duda | | 
+cuestionamientos | | duda | | OK
 
 Estimuladores de la Moralidad | | Serafines | ORDER | 
 Serafines administradores; enseñar interacciones de libertad y lealtad (39:4.10-14)

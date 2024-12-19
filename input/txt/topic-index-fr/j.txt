@@ -1183,11 +1183,11 @@ réalisations spirituelles
 Jéthro | | | PERSON |
 Le beau-père de Moïse (96:5.3)
 
-Bijoux | | ornementation | |
+Bijoux | | ornementation | | OK
 
-Sacerdoce juif | | lévites; sanhédrin | |
+Sacerdoce juif | | lévites; sanhédrin | | OK
 
-Religion juive | | Judaïsme | |
+Religion juive | | Judaïsme | | OK
 
 précepteur juif | | | |
 Jésus connu comme le tuteur juif à Corinthe (129:3.2)
@@ -1409,7 +1409,7 @@ tôt ou tard, un plus grand Jean surgira (170:5.19)
 Parabole tonitruante de Lazare et Dives (169:3)
 considéré comme un prophète (135:6.2) (135:12.2) (173:2.4-5)
 
-Jean le Révélateur | | Jean Zébédée | PERSON |
+Jean le Révélateur | | Jean Zébédée | PERSON | OK
 
 Jean Zébédée | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | apôtres de Jésus | PERSON |
 actes
@@ -1577,7 +1577,7 @@ croyant en Melchizédek (93:9.5,8)
 les circonstances politiques ont facilité la promotion des enseignements de Salem en Égypte (95:3.5)
 vendu comme esclave égyptien à Dothan (126:1.2)
 
-Josué ben Joseph | | Jésus | PERSON |
+Josué ben Joseph | | Jésus | PERSON | OK
 
 Joshua (Jésus) | | Jésus | PERSON |
 Gabriel a demandé à Marie de donner un nom à son fils (122:3.1) (122:8.2)
@@ -1644,7 +1644,7 @@ jubilés | | | |
 7 en carrière ascendante (27:7.8)
 lors de l'établissement d'un univers local dans la lumière et la vie (17:3.11)
 
-Juda | | Judée | PLACE |
+Juda | | Judée | PLACE | OK
 
 Judaïsme; judaïsme | (97:10) (121:6) | Abraham (Ancien Testament); apocryphes; arche de Yahweh; Captivité babylonienne; El Elyon; El Shaddaï; Élohim; Esséniens; temple de Jérusalem; Juifs; Juifs (anciens Hébreux); lévites; Moïse; naziréennes; Ancien Testament; pharisiens; prophètes; rabbins; sadducéens; sanhédrin; scribes; Shéma; shéol; Yahweh | RACE |
 religion avancée des temps anciens (92:6.4,14)
@@ -1754,7 +1754,7 @@ le secret de la survie était la centralisation du culte à Jérusalem (121:2.6)
 frange tolérée de croyants gentils (121:2.5)
 divers titres de divinité définis (96:1.2-10)
 
-Judas Alphée | | Jumeaux Alphée | PERSON |
+Judas Alphée | | Jumeaux Alphée | PERSON | OK
 
 Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apôtres de Jésus | PERSON | OK
 Judas Iscariot était le douzième apôtre. Il fut choisi par Nathanaël, et plus tard confirmé dans cette élection par Jésus. Il naquit à Kerioth, une petite ville du sud de la Judée. Lorsqu'il était jeune, ses parents s'installèrent à Jéricho, où il vécut et travailla dans les diverses entreprises commerciales de son père jusqu'à ce qu'il s'intéresse à la prédication et à l'œuvre de Jean-Baptiste. (139:6.2) (139:12.1-2)

@@ -51,7 +51,7 @@ capitale de Sumer (78:8.10)
 
 Lac Supérieur; lac Supérieur | (58:7.5) | | PLACE |
 
-Lac d'Ourmia | | Urmia | PLACE |
+Lac d'Ourmia | | Urmia | PLACE | OK
 
 lac de Van | | | PLACE |
 les descendants d'Adamson ont écouté l'évangile de Salem à (93:7.2)
@@ -234,7 +234,7 @@ il n'y a pas de mot pour désigner l'altruisme (195:3.3)
 Lausanne | | | PLACE |
 Pilate se retira à L., se suicida à (185:1.6)
 
-lave | | volcans | |
+lave | | volcans | | OK
 
 loi | | commandements; tribunaux; jugement; justice; avocats | |
 d'abord négatif et prohibitif, puis directif (70:11.2)
@@ -314,7 +314,7 @@ riche; a hérité de vastes vignobles et d'oliviers (168:0.4) (172:1.7)
 Lazare (de la parabole du Nazaréen) | | | |
 parabole de Lazare et Dives (169:3)
 
-paresse | | indolence | |
+paresse | | indolence | | OK
 
 plomb | | | |
 2 poids atomiques (42:4.12)
@@ -659,7 +659,7 @@ a écrit les articles 57 à 65 (57:8,27) (58:7,13) (59:6,13) (60:4,7) (61:7,20) 
 ère de l'aube de la vie | (58:4) | | |
 Ère protérozoïque (58:7.1) (59:0.3)
 
-planètes expérimentales | | planètes décimales | |
+planètes expérimentales | | planètes décimales | | OK
 
 flash de vie | | | |
 énergies libérées lors de la translation (55:2.3-5)
@@ -849,7 +849,7 @@ art de vivre.
 Les 613 règles des pharisiens (163:4.8)
 eau | eau de la vie
 
-bibliothèques vivantes du Paradis | | gardiens de la connaissance | |
+bibliothèques vivantes du Paradis | | gardiens de la connaissance | | OK
 
 journaux vivants de Havona | | | |
 supernaphins tertiaires; coordinateurs du renseignement (26:3.8)
@@ -859,7 +859,7 @@ descendant de reptiles non progressifs (65:2.10)
 
 lamas | (61:2.9) (61:4.4) (61:7.15) | | |
 
-pains | | pain | |
+pains | | pain | | OK
 
 homards | (59:1.18) (60:2.9) | crustacés | |
 également connu sous le nom de sauterelles (59:5.7)
@@ -1008,7 +1008,7 @@ s'engager à une soumission éternelle aux Fils Maîtres intronisés (33:3.6)
 Les mortels fusionnés avec l'Esprit obtiennent la vie éternelle grâce à (40:5.10)
 ne reviendra jamais au Paradis (14:6.36)
 
-centres de pouvoir de l'univers local | | centres de pouvoir de l'univers local | ORDER |
+centres de pouvoir de l'univers local | | centres de pouvoir de l'univers local | ORDER | OK
 
 Fils de Dieu de l’Univers Local | (35) | Fils Lanonandeks; Porteurs de vie; Fils Melchizédek; Fils Vorondadeks | ORDER |
 défaut jamais jugé dans l'univers local (33:7.5)
@@ -1108,7 +1108,7 @@ Les Sangiks secondaires étaient quelque peu (81:4.2)
 les Sahariens supérieurs étaient (80:2.2)
 les premiers Nordiques typiques étaient (80:9.2)
 
-longanimité | | patience | |
+longanimité | | patience | | OK
 
 pic Longs | (60:4.4) | | PLACE |
 
@@ -1120,9 +1120,9 @@ adoption par les apôtres de Jean et de Jésus (144:6.5)
 Jésus a formulé cela à l'âge de 15 ans (126:3.3-4)
 Jésus a récité au baptême (136:2.4)
 
-Sainte Cène | | Souper du Souvenir | |
+Sainte Cène | | Souper du Souvenir | | OK
 
-perdre | | défaite | |
+perdre | | défaite | | OK
 
 perdu | | | |
 Le Père et le Fils recherchent (169:1.4)
@@ -1140,9 +1140,9 @@ Neveu d'Abraham; il est allé à Salem (93:5.5-9,12)
 Moïse a rassemblé les descendants de (96:5.9)
 se rendit à Sodome pour faire du commerce et de l'élevage (93:5.9)
 
-lotion | | pommade | |
+lotion | | pommade | | OK
 
-tirage au sort | | tirage au sort | |
+tirage au sort | | tirage au sort | | OK
 
 Louisville | (59:4.6) | | PLACE |
 
@@ -1449,7 +1449,7 @@ fervent partisan de l'égalité sociale (140:8.16)
 
 Personnes lumineuses | | Déité | |
 
-lunatiques | | folie | |
+lunatiques | | folie | | OK
 
 poumons | | | |
 les vessies natatoires des arthropodes ont évolué en (59:5.5)

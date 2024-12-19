@@ -1183,11 +1183,11 @@ escrituras
 Jetro | | | PERSON | 
 Suegro de Moisés (96:5.3)
 
-Joyería | | ornamentación | | 
+Joyería | | ornamentación | | OK
 
-Sacerdocio judío | | levitas; sanedrín | | 
+Sacerdocio judío | | levitas; sanedrín | | OK
 
-Religión judía | | judaísmo | | 
+Religión judía | | judaísmo | | OK
 
 preceptor judío | | | | 
 Jesús fue conocido como el preceptor judío en Corinto (129:3.2)
@@ -1409,7 +1409,7 @@ Tarde o temprano surgirá una Juan el Bautista mayor (170:5.19)
 parábola atronadora de Lázaro y Dives (169:3)
 visto como un profeta (135:6.2) (135:12.2) (173:2.4-5)
 
-Juan el revelador | | Juan Zebedeo | PERSON | 
+Juan el revelador | | Juan Zebedeo | PERSON | OK
 
 Juan Zebedeo | (129:1.12) (139:4) (141:7.14) (143:3.5) (143:5.12) (144:1.7) (178:2.6-8) (192:1.3) (192:4.7) | apóstoles de Jesús | PERSON | 
 comportamiento
@@ -1577,7 +1577,7 @@ creyente en Melquisedek (93:9.5,8)
 las circunstancias políticas facilitaron la promoción de las enseñanzas de Salem en Egipto (95:3.5)
 vendido como esclavo egipcio en Dotán (126:1.2)
 
-Josué ben José | | Jesús | PERSON | 
+Josué ben José | | Jesús | PERSON | OK
 
 Josué (Jesús) | | Jesús | PERSON | 
 Gabriel le indicó a María que nombrara a su hijo (122:3.1) (122:8.2)
@@ -1644,7 +1644,7 @@ jubileos | | | |
 7 en carrera ascendente (27:7.8)
 al establecerse un universo local en luz y vida (17:3.11)
 
-Judá | | Judea | PLACE | 
+Judá | | Judea | PLACE | OK
 
 judaísmo | (97:10) (121:6) | Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | 
 religión avanzada de la antigüedad (92:6.4,14)
@@ -1754,7 +1754,7 @@ El secreto de la supervivencia era la centralización del culto en Jerusalén (1
 margen tolerado de creyentes gentiles (121:2.5)
 varios títulos de Deidad definidos (96:1.2-10)
 
-Judas Alfeo | | gemelos Alfeo | PERSON | 
+Judas Alfeo | | gemelos Alfeo | PERSON | OK
 
 Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apóstoles de Jesús | PERSON | OK
 Judas Iscariote fue el duodécimo apóstol. Fue elegido por Natanael y posteriormente confirmado en esta elección por Jesús. Había nacido en Queriot, una pequeña ciudad del sur de Judea. Cuando era un muchacho, sus padres se mudaron a Jericó, donde vivió y estuvo trabajando en las diversas empresas comerciales de su padre, hasta que se interesó por la predicación y la obra de Juan el Bautista. (139:6.2) (139:12.1-2)

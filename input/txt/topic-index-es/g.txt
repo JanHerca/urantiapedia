@@ -226,7 +226,7 @@ La mitad de Edentia está dividida en setenta secciones triangulares cuyos lími
 cámaras de gas | | | | OK
 en la nación continental más desarrollada de un planeta vecino los criminales ejecutados en cámaras de gas (72:10.1)
 
-gasterópodos | (59:2.12) (59:3.7) | | | OK
+gasterópodos | (59:2.12) (59:3.7) | | | 
 
 puerta hermosa; hermosa puerta | | Jerusalén; templo de Jerusalén | PLACE | OK
 Una de las puertas en el templo de Jerusalén, que aparece mencionada en los Hechos de los Apóstoles (162:4.3)
@@ -539,7 +539,7 @@ los galaaditas fueron una tribu bíblica de renombre (128:1.14)
 La pretenciosa historia de los hebreos empieza con Saúl cuando reunió a los clanes del norte para resistir un ataque de los ammonitas contra los miembros de una tribu hermana —los galaaditas— al este del Jordán. Con un ejército de poco más de tres mil hombres derrotó al enemigo, y esta hazaña fue la que condujo a las tribus de las colinas a hacerlo rey. (97:9.3)
 > https://es.wikipedia.org/wiki/Galaad
 
-jirafas | (61:4.4) | | | OK
+jirafas | (61:4.4) | | | 
 
 cinturón | | | | OK
 Jesús usaba cinturón (187:2.8)
@@ -1132,7 +1132,7 @@ naturaleza de la bondad
 	La bondad, la rectitud y la justicia están filosóficamente interrelacionados y espiritualmente unidos a la verdad viviente y a la belleza divina. (44:7.2-4)
 	La bondad impone siempre el respeto, pero cuando está desprovista de agrado, a menudo repele el afecto. (171:7.2)
 
-topos | (61:2.7) | | | OK
+topos | (61:2.7) | | | 
 
 Gofna | | | PLACE | OK
 Jesús predicó a gente de este lugar a finales de junio de 27 (143:0.1)
@@ -1464,7 +1464,7 @@ grano; granos | | | | OK
 los apóstoles recogieron y restregaron grano en sus manos un día sábado, lo que provocó la indignación de un grupo de espías del Sanedrín (147:6.4)
 Muchos pueblos del Cercano Oriente tenían la costumbre de arrojar granos sobre los recién casados; era un rito mágico que se suponía que aseguraba la fecundidad. (83:4.5)
 
-Gran Cañón | (58:7.5) | | PLACE | OK
+Gran Cañón | (58:7.5) | | PLACE | 
 
 Gran Lama | | | | OK
 El Gran Lama es el líder religioso tibetano (94:10.2)
@@ -1653,7 +1653,7 @@ Desde Obán, Onagar envió educadores a las poblaciones lejanas para difundir su
 
 Gran Bretaña | | Islas Británicas | PLACE | OK
 
-gran mandamiento | (174:4) | mandamientos | | OK
+gran mandamiento | (174:4) | mandamientos | | 
 
 Grandes Lagos | | | PLACE | OK
 El sistema norteamericano de los Grandes Lagos se produjo durante el retroceso de un glaciar. Nuestros geólogos han deducido con mucha exactitud las diversas etapas de esta evolución y han conjeturado correctamente que estas masas de agua desembocaron, en épocas diferentes, primero en el valle del Misisipí, luego hacia el este en el valle del Hudson, y finalmente, a través de una ruta septentrional, en el San Lorenzo. Hace treinta y siete mil años que el sistema comunicante de los Grandes Lagos empezó a verter sus aguas en la vía actual del Niágara. (61:7.10)
@@ -1818,7 +1818,7 @@ geología
 	Groenlandia estaba cubierta de hielo e Islandia completamente sepultada bajo un flujo helado. (61:5.4)
 	Hace 1.500.000 años, el primer gran glaciar se estaba retirando hacia el norte. Mientras tanto, enormes cantidades de nieve habían caído sobre Groenlandia y la parte nordeste de América del Norte (61:5.6)
 
-marga de arenisca verde | (60:3.9) | | | OK
+marga de arenisca verde | (60:3.9) | | | 
 
 Calendario Gregoriano; calendario bisiesto; calendario del siglo veinte | | | | OK
 El calendario gregoriano es el utilizado en los documentos de Urantia. Aunque los reveladores conocen los años exactos, no se han utilizado para ajustarse a este calendario (57:0.1) (126:3.1)

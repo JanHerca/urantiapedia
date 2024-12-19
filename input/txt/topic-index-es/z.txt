@@ -32,7 +32,7 @@ adoptó al antepasado de José (122:4.3)
 Zafón | (159:0.2) (165:0.1) | | PLACE | 
 Una de las poblaciones recorridas en la misisón de Perea
 
-celo | | entusiasmo | | 
+celo | | entusiasmo | | OK
 
 zelotes | | | | 
 Jesús se negó a unirse (127:2.1-10) (136:9.7)
@@ -54,13 +54,13 @@ negocio propio de secado de pescado (139:1.1)
 compró el capital de José en una propiedad de Cafarnaúm (127:6.10)
 con su esposa Salomé tuvo 3 hijos, 4 hijas (129:1.5)
 
-Zebedeo (David) | | David Zebedeo | PERSON | 
+Zebedeo (David) | | David Zebedeo | PERSON | OK
 
-Zebedeo (Santiago) | | Santiago Zebedeo | PERSON | 
+Zebedeo (Santiago) | | Santiago Zebedeo | PERSON | OK
 
-Zebede (Juan) | | Juan Zebedeo | PERSON | 
+Zebede (Juan) | | Juan Zebedeo | PERSON | OK
 
-Zebedeo (Salomé) | | Salomé (esposa de Zebedeo) | PERSON | 
+Zebedeo (Salomé) | | Salomé (esposa de Zebedeo) | PERSON | OK
 
 Zabulón | (146:3.10) (156:6.2) | | PLACE | 
 

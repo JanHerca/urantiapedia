@@ -64,7 +64,7 @@ Andonite migration to (64:7.16-18) (78:1.5)
 land bridge (61:3.9) (61:4.6)
 Salem missionaries in (93:7.2)
 
-ichthyosaurs | | sea serpents | | 
+ichthyosaurs | | sea serpents | | OK
 
 idealism | | ideals | | 
 approaching concept of the divine (3:5.11)
@@ -186,7 +186,7 @@ only attainable ideals reside in God (160:5.5-9)
 science has destroyed childlike illusions (195:6.4)
 the unwise prefer optimistic illusions to reality (160:1.7) (160:4.13-14)
 
-Image Aids | | Reflective Image Aids | | 
+Image Aids | | Reflective Image Aids | | OK
 
 image of God | | | | 
 man made in (1:3.1) (3:4.7) (6:5.7) (7.4.4) (10:3.1) (32:2.8) (92:5.1) (117:3.5)
@@ -254,7 +254,7 @@ refusing to grow up (156:5.18)
 seeking satisfaction of present desires (160:1.3) (166:3.4)
 unwillingness to forgive is measure of immaturity (174:1.5)
 
-immortality | | eternal life; survival (of mortal death) | | 
+immortality | | eternal life; survival (of mortal death) | | OK
 
 impatience | | patience | | 
 desire to possess what one craves now, in defiance of others’ rights (54:4.4)
@@ -271,7 +271,7 @@ inherent in evolutionary growth (105:6.4)
 impersonal | | | | 
 ever responsive to will and acts of personality (107:7.4)
 
-import duties | | taxation | | 
+import duties | | taxation | | OK
 
 Imports of Time | | | ORDER | 
 assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (28:6.1)
@@ -286,7 +286,7 @@ none with God (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.2)
 improvidence | | self-gratification | | 
 Jesus did not countenance (165:4.7)
 
-inaction | | idleness; indolence | | 
+inaction | | idleness; indolence | | OK
 
 incantations | | | | 
 futile (150:3.11)
@@ -306,7 +306,7 @@ kept fire in good humor (69:6.4)
 incest | | | | 
 origin of idea (82:3.11)
 
-income | | earning a living; wealth | | 
+income | | earning a living; wealth | | OK
 
 incompleteness | | | | 
 virtue that it makes possible evolutionary growth (117:2.8)
@@ -486,7 +486,7 @@ mistakenly attributed to social injustice (86:7.4)
 none in light and life (55:5.2)
 provide opportunity for altruism (3:5.7)
 
-inertia | | indolence | | 
+inertia | | indolence | | OK
 
 inevitabilitiess | | | | 
 absolute inevitabilities
@@ -501,7 +501,7 @@ family members reap benefits and suffer consequences of others’ actions (54:6.
 subabsolute inevitabilitiess is Seven Master Spirits (16:1.1) (115:7.5)
 Universal Absolute (0:11.10)
 
-infallibility | | certainty; sacred books | | 
+infallibility | | certainty; sacred books | | OK
 
 infanticide | | abortion; children | | 
 Christianity put end to (195:3.5)
@@ -533,7 +533,7 @@ poverty cannot be eliminated if degenerates are freely supported and reproduce w
 subnormals should be kept under society’s control (68:6.11)
 unrestrained multiplication of inferiors destroys civilization (72:9.8) (79:2.7)
 
-infidelity | | adultery | | 
+infidelity | | adultery | | OK
 
 Infinite | | God; I AM; Universal Father | PERSON | OK
 source of universe reality (130:4.2)
@@ -749,7 +749,7 @@ triunities are functional balance wheel of (104:4.46)
 Infinity (The); The Infinity | | I AM; The Infinite One; The Infinitude | PERSON | OK
 The Infinity represents an eternal continuum of the I AM that can maintain a triune relationship with The Infinite One and The Infinitude, those theoretical existences of the I AM that gave rise to the first volition and the first repercussion. (105:2.2)
 
-influences (spiritual) | | spiritual influences | | 
+influences (spiritual) | | spiritual influences | | OK
 
 infrared rays | | | | 
 electronic activity slowed down near to heat (42:5.11)
@@ -766,7 +766,7 @@ primitives reckoned inheritance in female line (84:2.1)
 prodigal son wasted inheritance in riotous living (169:1.7)
 taxes | taxation:inheritance tax
 
-iniquitous one | | Lucifer | | 
+iniquitous one | | Lucifer | | OK
 
 iniquity | | error; evil; rebellion (spiritual); sin | | 
 defined as
@@ -785,7 +785,7 @@ iniquiters never experience sorrow or accept forgiveness for misdeeds (67:1.6)
 Jesus saw most men as weak rather than wicked (196:2.9)
 some embrace iniquity (133:3.7)
 
-initiation ceremonies | | secret societies | | 
+initiation ceremonies | | secret societies | | OK
 
 initiative | | achievement; earning a living; originality | | 
 belief in charms destroyed; tradition stifles (66:6.2) (88:6.6)
@@ -798,7 +798,7 @@ overdevelopment of institutions diminishes (69:1.1)
 Prince’s staff preached individual initiative (66:6.2)
 under ghost cults, future not result of effort or talent (87:5.8)
 
-injunctions | | commandments | | 
+injunctions | | commandments | | OK
 
 injury | | disease; healing; health; physicians | | 
 healing chemicals (65:4.3-6)
@@ -957,7 +957,7 @@ wise investment of earnings against future adversity (163:2.11)
 intellectualism | | | | 
 intellectual overdevelopment sometimes handicaps and embarrasses religion (102:3.1)
 
-intelligence | | mind | | 
+intelligence | | mind | | OK
 
 intelligence co-ordinators (Seraphic Corps of Completion) | | | ORDER | 
 broadcasters of superior seraphim associate with (39:2.15)
@@ -970,9 +970,9 @@ tertiary supernaphim; living newspapers of Havona (26:3.8)
 intelligence corps | | | | 
 superior seraphim; report to Gabriel (39:2.3)
 
-intentions | | motives | | 
+intentions | | motives | | OK
 
-interbreeding | | crossbreeding; eugenics; hybridization | | 
+interbreeding | | crossbreeding; eugenics; hybridization | | OK
 
 intercessors | | | | 
 enlightenment should deliver from dependence on (92:7.11)
@@ -1030,7 +1030,7 @@ Jesus refused drugs at crucifixion (187:2.3) (194:3.4)
 religion of Jesus not an opiate (194:3.3-4)
 Sumerians used opium as medicine (90:4.9)
 
-introspection | | self-analysis | | 
+introspection | | self-analysis | | OK
 
 intuition | | adjutant mind-spirits:1 – Intuition; leadings; spiritual insight | | 
 
@@ -1110,7 +1110,7 @@ Adamites labored along rivers of Mesopotamia on (78:2.1)
 Caligastia 100 taught (66:5.2)
 Sumerians used irrigation canals for military defense (78:8.5)
 
-irritation | | complaining | | 
+irritation | | complaining | | OK
 
 Isaac (Nazareth moneylender) | | | PERSON | OK
 offered to support Jesus’ family if he joined Zealots (127:2.5)
@@ -1210,7 +1210,7 @@ religion cures (101:10.7)
 society is result of man’s dislike of (68:2.1)
 Spirit of Truth destroys feelings of orphanhood (194:2.2)
 
-isolation worlds | | prison worlds | PLACE | 
+isolation worlds | | prison worlds | PLACE | OK
 
 Israel | | Ephraim; Galilee; Judea; Palestine; Perea | PLACE | 
 children of Israel so called after days of Abraham (96:2.3) (136:1.1)

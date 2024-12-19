@@ -584,7 +584,7 @@ Together with the Adamites they formed the violet race, one of the nine pure rac
 Aden | | | PERSON | OK
 Aden is a strange preacher of the gospel who was converted by Amos of Jeresa, the madman whom Jesus had supposedly cured of a possession. The apostle John forbade him to preach, but he ignored it and managed to gather a considerable group of believers, continuing his preaching in Mesopotamia (159:2)
 
-Adirondack Mountains | (58:7.4) | | PLACE | OK
+Adirondack Mountains | (58:7.4) | | PLACE | 
 
 adjudication; Adjudication | | judgment | | OK
 Adjudication is the highest function of any government, and those who are intrusted with verdict rendering should be chosen from the highest and most noble types of the most experienced and understanding individuals. (22:4.3)
@@ -1922,7 +1922,6 @@ In the days of Jesus three languages prevailed in Palestine: The common people s
 > https://en.wikipedia.org/wiki/Judeo-Aramaic_languages
 
 Ararat | | Mount Ararat | PLACE | OK
-> https://en.wikipedia.org/wiki/Mount_Ararat
 
 Arbela | | | PLACE | OK
 One of the towns visited by Jesus, the twelve and the seventy, during the Perea mission between January 3, 30 until the death of Jesus (165:0.1)

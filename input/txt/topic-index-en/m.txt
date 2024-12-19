@@ -12,7 +12,7 @@
 Macad | (165:0.1) | | PLACE | 
 Perea mission
 
-Maccabee, Judas | | Judas Maccabee | PERSON | 
+Maccabee, Judas | | Judas Maccabee | PERSON | OK
 
 Maccabees | | Judas Maccabee | | 
 ancestors of Mary mother of Jesus identified with (122:5.10)
@@ -41,7 +41,7 @@ some tribes of Madagascar destroy children born on unlucky days (68:6.10)
 madman at Fair Havens | | | | 
 Jesus restrained assault by (130:5.4)
 
-madness | | insanity | | 
+madness | | insanity | | OK
 
 Madon | (134:7.5) (146:4.6) | | PLACE | 
 Jesus passed
@@ -189,7 +189,7 @@ Malachi | | | PERSON |
 prophecy regarding Elijah impressed John the Baptist (135:4.4)
 unsilenced spiritual leader (97:10.3)
 
-maladjustment | | misadaptation | | 
+maladjustment | | misadaptation | | OK
 
 malaria | | | | 
 Amatha healed of (145:2.16)
@@ -226,7 +226,7 @@ mammoths | (61:5.7) (61:7.13-14) | | |
 Mamre | | | PLACE | 
 celestial beings appeared to Abraham at (93:6.7)
 
-man | |  mortals | | 
+man | |  mortals | | OK
 
 man of sorrows | | | | 
 do not portray Jesus as (159:3.10)
@@ -236,7 +236,7 @@ man who attacked wife at Tarentum | (133:2.1-2) | | |
 Manasseh | | | PERSON | 
 boy king under whom Judah was undone (97:9.23)
 
-mandates | | commandments; law | | 
+mandates | | commandments; law | | OK
 
 mandrakes | | | | 
 Jesus denounced belief in (150:3.12)
@@ -377,12 +377,12 @@ translated souls from settled spheres do not pass through (55:2.8-10) (55:6.8)
 mansions | | | PLACE | 
 in Father’s house are many (47:0.1) (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-mansonia worlds | | mansion worlds | PLACE | 
+mansonia worlds | | mansion worlds | PLACE | OK
 
 Mansurotia | | | PERSON | 
 first assistant System Sovereign; tertiary Lanonandek #17,841 (45:3.3)
 
-manufacturing | | industry | | 
+manufacturing | | industry | | OK
 
 maples | (60:3.19) | | | 
 
@@ -411,13 +411,13 @@ types named | ammonites; amphibians; anthropods; barnacles; brachiopods; clams; 
 marital guilt test | | | | 
 from Old Testament (70:10.6)
 
-Mark, Elijah | | Elijah Mark | PERSON | 
+Mark, Elijah | | Elijah Mark | PERSON | OK
 
-Mark, Gospel of | | John Mark:Gospel of Mark | | 
+Mark, Gospel of | | John Mark:Gospel of Mark | | OK
 
-Mark, John | | John Mark | PERSON | 
+Mark, John | | John Mark | PERSON | OK
 
-Mark, Mary | | Mary Mark | PERSON | 
+Mark, Mary | | Mary Mark | PERSON | OK
 
 mark of the beast | | | | 
 unfortunate heredity, bad environment (47:9.1) (47:10.2)
@@ -671,7 +671,7 @@ Master | | Jesus | |
 red-blooded Galilean fishermen called Jesus Master (100:7.17) (141:3.5) (149:2.12)
 Zebedee’s workers first called Jesus Master (129:1.11)
 
-Master Architects | | Architects of the Master Universe | | 
+Master Architects | | Architects of the Master Universe | | OK
 
 Master Force Organizers | (29:5) | Universe Power Directors | ORDER | 
 can affect motions of astronomic systems (15:3.15)
@@ -817,7 +817,7 @@ types
 	# angels of superhuman ministry
 	#* minister to superhuman life (114:6.16)
 
-Master Sons | | Master Michaels | ORDER | 
+Master Sons | | Master Michaels | ORDER | OK
 
 Master Spirit Number One | | Master Spirits, Seven | PERSON | OK
 Master Spirit Number One represents the Paradise Father. He is the close associate and supernal adviser of the chief of Mystery Monitors, that being who presides over the College of Personalized Adjusters on Divinington. He also presides over the first superuniverse. (16:3.2-3)
@@ -1079,9 +1079,9 @@ young Jesus spent much time on (123:6.3)
 
 mathematics teacher of Damascus | (123:6.3) | | | 
 
-mating instinct | | sex:urge | | 
+mating instinct | | sex:urge | | OK
 
-matriarchy | | family:matriarchal families | | 
+matriarchy | | family:matriarchal families | | OK
 
 matter | | energy; material energy; matter, mind, and spirit | | 
 100 elements exist (42:7.4)
@@ -1212,7 +1212,7 @@ perpetuates ancient custom of tree worship (85:2.5)
 Maza | | | PLACE | 
 willow branches cut at (162:4.4)
 
-meals | | food | | 
+meals | | food | | OK
 
 meanings | | science, philosophy, and religion; values | | 
 appreciative consciousness of values (100:3.4)
@@ -1222,7 +1222,7 @@ new meanings only emerge amid conflict (100:4.1)
 religion discovers new meanings in facts already well known (101:1.4)
 require unraveling and correlation in mind (102:2.5)
 
-means versus ends | | ends versus means | | 
+means versus ends | | ends versus means | | OK
 
 measures | | light-years; time:days and years; weights | | 
 constellations use same measures as local universes (43:0.3)
@@ -1273,7 +1273,7 @@ Perea mission
 
 Media | (134:2.1) | | PLACE | 
 
-mediators | | intercessors | | 
+mediators | | intercessors | | OK
 
 medicine | | disease; health; injury; physicians; sick | | 
 among primitives
@@ -1290,7 +1290,7 @@ refrain from despising material means of healing (164:3.15)
 medicine bag | | | | 
 pouch containing ghost-impregnated articles (88:3.3)
 
-medicine men | | shamans | | 
+medicine men | | shamans | | OK
 
 mediocrity | | | | 
 dangers of overconservative mediocrity (149:4.3)
@@ -1341,7 +1341,7 @@ marine life evolved in (59:6.9)
 medium-heads | | skulls | | 
 Sangik races were (81:4.2)
 
-mediumship | | spiritualism | | 
+mediumship | | spiritualism | | OK
 
 meekness | | humility; submission | | 
 fruit of the Spirit (34:6.13)
@@ -1366,7 +1366,7 @@ prereligious prayer; mana practices (91:0.5)
 melanin | | | | 
 original Andonic skin pigment, like that of Eskimos (63:4.1)
 
-Melchizedek, Father | | Father Melchizedek | PERSON | 
+Melchizedek, Father | | Father Melchizedek | PERSON | OK
 
 Melchizedek, Machiventa; Machiventa Melchizedek; Melchizedek | (93) | Melchizedek Sons; missionaries:Salem missionaries | PERSON | 
 appearance and departure unannounced (93:8.1) (93:10.2)
@@ -1558,7 +1558,7 @@ menstruation | | | |
 grievous sin to be detected in; complete quarantine (84:4.8-9)
 suggested blood as creator of child (84:2.1)
 
-mental illness | | insanity | | 
+mental illness | | insanity | | OK
 
 merchant of Damascus | | | | 
 asked Jesus to enter his import business (128:3.3)
@@ -1651,7 +1651,7 @@ early land-life era, from 150 to 50 million years ago (59:0.5) (60:4.6)
 message stick | | | | 
 early writing (69:4.7)
 
-messages | | communication | | 
+messages | | communication | | OK
 
 messenger corps (David Zebedee’s) | (157:0.2) (163:5.2-3) | | PERSON | 
 25 sentinels posted about Zebedee house (154:6.7)
@@ -1902,7 +1902,7 @@ future
 	Michael promised to return to Urantia in the future, but nobody knows when (20:4.5) | Jesus:second coming
 	Michael will serve in outer space in next universe age (119:8.7)
 
-Michael Sons; Michael Son | | Creator Sons | ORDER | 
+Michael Sons; Michael Son | | Creator Sons | ORDER | OK
 
 Michael (the original) | | Creator Sons; Paradise Sons of God | PERSON | 
 passed through 7 circuits of Havona (7:5.8-9) (8:4.3) (21:0.4)
@@ -1924,9 +1924,9 @@ killed off dawn mammals (62:3.4)
 subdued their corner of creation (62:3.5)
 sudden appearance from dawn mammals (61:6.1) (62:3.1)
 
-mid-mind | | soul | | 
+mid-mind | | soul | | OK
 
-Middle Ages | | dark ages | | 
+Middle Ages | | dark ages | | OK
 
 Midianites | | | RACE | 
 Hebrew raid on Midianites illustrates cruelty of ancient war (70:1.15)
@@ -2290,9 +2290,9 @@ attached to mortal chief executive in light and life (55:4.15,16)
 
 ministering spirits | (26:1) | angels; Infinite Spirit:family | ORDER | 
 
-ministers | | priests | | 
+ministers | | priests | | OK
 
-ministry | | service | | 
+ministry | | service | | OK
 
 Minnesota | (58:7.4) | | PLACE | 
 
@@ -2381,7 +2381,7 @@ inherent in evolutionary growth (105:6.4)
 misery | | difficulties; suffering | | 
 avoid mere fellowship in (159:3.11)
 
-misfortune | | difficulties | | 
+misfortune | | difficulties | | OK
 
 Mispeh | (165:0.1) | | PLACE | 
 Perea mission
@@ -2468,7 +2468,7 @@ Moab, hills of; hills of Moab | (123:5.12) | | PLACE |
 Moabites | | | RACE | 
 King David laid heavy tribute on (97:9.14)
 
-mob | | populace | | 
+mob | | populace | | OK
 
 moderation | | | | 
 eventuates in charm (48:7.11)
@@ -2545,7 +2545,7 @@ registered 3 billion years ago (57:6.9)
 revolves around former Andronover nebula (15:3.6-9)
 Urantia’s solar system (57:2.1) (57:5)
 
-monogamy | | marriage | | 
+monogamy | | marriage | | OK
 
 monota | | reality:levels of reality | | 
 indistinguishable from spirit except by name (116:6.7)
@@ -2675,7 +2675,7 @@ plant life modified on each ascending sphere (48:2.8,22)
 slowed down, becomes morontia material (48:2.20)
 substance and mind created by Morontia Power Supervisors (16:4.5) (42:2.4) (48:1.3) (48:2.18)
 
-morontia cherubim | | cherubim and sanobim | ORDER | 
+morontia cherubim | | cherubim and sanobim | ORDER | OK
 
 Morontia Companions | (25:7) (48:3) | | ORDER | 
 almost wholly self-governing (48:3.3)
@@ -2711,11 +2711,11 @@ morontia counselors | (48:6.27-28) | | ORDER |
 4th order transition minister seraphim (39:6.1)
 teach mota to morontia progressors (48:6.27-28)
 
-morontia life | | morontia; morontia progressors | | 
+morontia life | | morontia; morontia progressors | | OK
 
-morontia mind | | mind:types of mind | | 
+morontia mind | | mind:types of mind | | OK
 
-morontia mota | | mota | | 
+morontia mota | | mota | | OK
 
 morontia planners | | | ORDER | 
 divine builders, celestial artisans (44:3.7)
@@ -2821,11 +2821,11 @@ necessary economy, division of labor (44:3.3)
 social order based on appreciation and mutual service (47:6.3)
 univitatia administer constellation morontia worlds (43:7.2) (55:9.2)
 
-morontians | | mansion world students; morontia progressors | ORDER | 
+morontians | | mansion world students; morontia progressors | ORDER | OK
 
 Morrison beds | (60:2.5) | | | 
 
-Mortal Corps of the Finality | | Corps of Mortal Finaliters | ORDER | 
+Mortal Corps of the Finality | | Corps of Mortal Finaliters | ORDER | OK
 
 mortal mind | | adjutant mind-spirits; ideas; leadings; logic; mind; thought | | 
 Adjusters
@@ -3269,7 +3269,7 @@ included cremating dead in stone huts (80:8.5)
 Mediterranean world largely dominated by (98:1.3)
 priests submitted to castration (89:3.4)
 
-Mother Eves | | Material Sons | | 
+Mother Eves | | Material Sons | | OK
 
 mother force of space | | absoluta | | OK
 it is one of the names for absoluta
@@ -3283,9 +3283,9 @@ Mithraic Great Mother ritual for women (98:5.5)
 sacrament of cakes and wine (89:9.2)
 Tibetans pray to Holy Mother (94:10.2)
 
-Mother-Son | | Eternal Son | PERSON | 
+Mother-Son | | Eternal Son | PERSON | OK
 
-Mother Spirits | | local universe Mother Spirits | ORDER | 
+Mother Spirits | | local universe Mother Spirits | ORDER | OK
 
 mothers | | child-rearing; children; home; marriage; women | | 
 believers must love gospel more than (150:4.3) (163:3.4) (171:2.2)
@@ -3305,7 +3305,7 @@ Infinite Spirit is apparent ancestor of (9:1.1)
 opinions concerning origin of (12:4.2-6)
 progress possible because of inherent motion (28:6.18)
 
-motivation | | motives | | 
+motivation | | motives | | OK
 
 motives | | prejudice; sincerity | | 
 Caligastia and Lucifer judged their advisers as being actuated by their own reprehensible (66:8.2)
@@ -3321,11 +3321,12 @@ to understand others, fathom their (100:4.4-5)
 Universal Censors rule as to motives (28:5.9)
 what one believes, not what one knows, determines conduct (99:4.5)
 
-mottos | | slogans | | 
+mottos | | slogans | | OK
 
 Mount Ararat | | | PLACE | 
 cf: Mount Sinai (77:4.11-12)
 sacred Vanite mountain in northern Mesopotamia (77:4.11-12)
+> https://en.wikipedia.org/wiki/Mount_Ararat
 
 Mount Assembly | | | PLACE | 
 dwelling place of Faithful of Days (43:4)
@@ -3354,11 +3355,11 @@ visible from Caesarea Philippi (157:3.1-2)
 
 Mount Hood; Hood | (61:4.2) | | PLACE | 
 
-Mount Horeb | | Mount Sinai | PLACE | 
+Mount Horeb | | Mount Sinai | PLACE | OK
 
 Mount Lebanon | (155:4.1) | | PLACE | 
 
-Mount of Olives | | Mount Olivet | PLACE | 
+Mount of Olives | | Mount Olivet | PLACE | OK
 
 mount of transfiguration | | Jesus:events in life; Mount Hermon | PLACE | 
 
@@ -3428,7 +3429,7 @@ mouth | | | |
 speaks from abundance of heart (153:4.4)
 what proceeds out of mouth spiritually defiles (153:3.5)
 
-multilingualism | | language:common language | | 
+multilingualism | | language:common language | | OK
 
 multitude | | populace | | 
 
@@ -3536,7 +3537,7 @@ plunged Greece into intellectual stagnation, moral depravity, spiritual poverty 
 prepared way for Jesus, Christianity (121:5.6,12)
 secret rites were sometimes gruesome (121:5.10)
 
-Mystery Monitors | | Thought Adjusters | ORDER | 
+Mystery Monitors | | Thought Adjusters | ORDER | OK
 
 mysticism | (100:5) | leadings; revelation:personal revelation; spiritual insight | | 
 be not passive mystics (178:1.14)

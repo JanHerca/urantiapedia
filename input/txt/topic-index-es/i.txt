@@ -64,7 +64,7 @@ Migración de andonita a (64:7.16-18) (78:1.5)
 puente de tierra (61:3.9) (61:4.6)
 Misioneros de Salem en (93:7.2)
 
-ictiosaurios | | serpientes marinas | | 
+ictiosaurios | | serpientes marinas | | OK
 
 idealismo | | ideales | | 
 se acerca el concepto de lo divino (3:5.11)
@@ -186,7 +186,7 @@ solo los ideales alcanzables residen en Dios (160:5.5-9)
 la ciencia ha destruido las ilusiones de los niños (195:6.4)
 los imprudentes prefieren optimistas ilusiones a la realidad (160:1.7) (160:4.13-14)
 
-Ayudantes de Imágenes | | Ayudantes Reflectantes de Imágenes | | 
+Ayudantes de Imágenes | | Ayudantes Reflectantes de Imágenes | | OK
 
 imagen de dios | | | | 
 hecho por el hombre en (1:3.1) (3:4.7) (6:5.7) (7.4.4) (10:3.1) (32:2.8) (92:5.1) (117:3.5)
@@ -254,7 +254,7 @@ negarse a crecer (156:5.18)
 buscar la satisfacción de los deseos presentes (160:1.3) (166:3.4)
 la falta de voluntad para perdonar es una medida de la inmadurez (174:1.5)
 
-inmortalidad | | vida eterna; supervivencia (de la muerte mortal) | | 
+inmortalidad | | vida eterna; supervivencia (de la muerte mortal) | | OK
 
 impaciencia | | paciencia | | 
 deseo de poseer lo que uno anhela ahora, desafiando los derechos de los demás (54:4.4)
@@ -271,7 +271,7 @@ inherente al crecimiento evolutivo (105:6.4)
 lo impersonal | | | | 
 siempre receptivo a la voluntad y los actos de la personalidad (107:7.4)
 
-derechos de entrada | | impuestos | | 
+derechos de entrada | | impuestos | | OK
 
 Importancias del Tiempo | | | ORDER | 
 asignado a Mensajeros Poderosos, Los Elevados en Autoridad y Los que no tienen Nombre ni Número (28:6.1)
@@ -286,7 +286,7 @@ ninguno con Dios (2:1.2) (3:2.2) (26:5.3) (107:4.7) (131:10.2) (163:3.2) (182:3.
 imprevisión | | autogratificación | | 
 Jesús no tocó (165:4.7)
 
-inacción | | ociosidad; indolencia | | 
+inacción | | ociosidad; indolencia | | OK
 
 encantamientos | | | | 
 inútil (150:3.11)
@@ -306,7 +306,7 @@ mantuvo el fuego de buen humor (69:6.4)
 incesto | | | | 
 origen de la idea (82:3.11)
 
-ingresos | | ganarse la vida; riqueza | | 
+ingresos | | ganarse la vida; riqueza | | OK
 
 incompletitud | | | | 
 virtud de que hace posible el crecimiento evolutivo (117:2.8)
@@ -486,7 +486,7 @@ atribuido erróneamente a la injusticia social (86:7.4)
 ninguno en luz y vida (55:5.2)
 brindar oportunidades para el altruismo (3:5.7)
 
-inercia | | indolencia | | 
+inercia | | indolencia | | OK
 
 inevitabilidades | | | | 
 inevitabilidades absolutas
@@ -501,7 +501,7 @@ los miembros de la familia obtienen beneficios y sufren las consecuencias de las
 subabsoluta inevitabilidad es Siete Espíritus Rectores (16:1.1) (115:7.5)
 Absoluto universal (0:11.10)
 
-infalibilidad | | certeza; libros sagrados | | 
+infalibilidad | | certeza; libros sagrados | | OK
 
 infanticidio | | aborto; niños | | 
 El cristianismo puso fin a (195:3.5)
@@ -533,7 +533,7 @@ la pobreza no puede eliminarse si los degenerados son sostenidos libremente y se
 los subnormales deben mantenerse bajo el control de la sociedad (68:6.11)
 multiplicación desenfrenada de inferiores destruye la civilización (72:9.8) (79:2.7)
 
-infidelidad | | adulterio | | 
+infidelidad | | adulterio | | OK
 
 El Infinito; Infinito; El Uno Infinito | | Dios; YO SOY; Padre Universal | PERSON | OK
 El Infinito es la fuente de la realidad universal (130:4.2)
@@ -749,7 +749,7 @@ las triunidades son el volante funcional de (104:4.46)
 La Infinidad | | YO SOY; El Uno Infinito; La Infinitud | PERSON | OK
 La Infinidad representa un continuum eterno del YO SOY que puede mantener una relación trina con El Uno Infinito y La Infinitud, esas existencias teóricas del YO SOY que dieron lugar a la primera volición y la primera repercusión (105:2.2)
 
-influencias (espiritual) | | influencias espirituales | | 
+influencias (espiritual) | | influencias espirituales | | OK
 
 rayos infrarrojos | | | | 
 la actividad electrónica se ralentizó cerca del calor (42:5.11)
@@ -766,7 +766,7 @@ primitivos contados herencia en línea femenina (84:2.1)
 hijo pródigo perdió la herencia en una vida desenfrenada (169:1.7)
 impuestos | impuestos:impuesto sobre sucesiones
 
-inicuo | | Lucifer | | 
+inicuo | | Lucifer | | OK
 
 iniquidad | | error; maldad; rebelión (espiritual); pecado | | 
 definido como
@@ -785,7 +785,7 @@ los iniquistas nunca experimentan dolor ni aceptan el perdón por sus fechorías
 Jesús vio a la mayoría de los hombres más débiles que malvados (196:2.9)
 algunos abrazan la iniquidad (133:3.7)
 
-ceremonias de iniciación | | sociedades secretas | | 
+ceremonias de iniciación | | sociedades secretas | | OK
 
 iniciativa | | logro; ganarse la vida; originalidad | | 
 la creencia en los encantos destruida; la tradición sofoca (66:6.2) (88:6.6)
@@ -798,7 +798,7 @@ Disminuye el sobredesarrollo de las instituciones (69:1.1)
 El personal del Príncipe predicó la iniciativa individual (66:6.2)
 bajo cultos fantasmas, el futuro no es el resultado del esfuerzo o el talento (87:5.8)
 
-mandatos judiciales | | mandamientos | | 
+mandatos judiciales | | mandamientos | | OK
 
 lesión | | enfermedad; curación; salud; médicos | | 
 productos químicos curativos (65:4.3-6)
@@ -957,7 +957,7 @@ inversión inteligente de ganancias contra adversidades futuras (163:2.11)
 intelectualismo | | | | 
 El sobredesarrollo intelectual a veces obstaculiza y avergüenza a la religión (102:3.1)
 
-inteligencia | | mente | | 
+inteligencia | | mente | | OK
 
 Coordinadores de la Información (Cuerpo Seráfico de Finalización); coordinadores glorificados de la información del Cuerpo Seráfico de la Finalización | | | ORDER | 
 los transmisores de Serafines superiores se asocian con (39:2.15)
@@ -970,9 +970,9 @@ Supernafines terciarios; periódicos vivientes de Havona (26:3.8)
 Cuerpo de Información | | | | 
 Serafines superiores; informar a Gabriel (39:2.3)
 
-intenciones | | motivos | | 
+intenciones | | motivos | | OK
 
-mestizaje | | cruce; eugenesia; hibridación | | 
+mestizaje | | cruce; eugenesia; hibridación | | OK
 
 intercesores | | | | 
 la iluminación debe librar de la dependencia de (92:7.11)
@@ -1030,7 +1030,7 @@ Jesús rechazó las drogas en la crucifixión (187:2.3) (194:3.4)
 La religión de Jesús no es un opiáceo (194:3.3-4)
 Los sumerios usaban opio como medicina (90:4.9)
 
-introspección | | autoanálisis | | 
+introspección | | autoanálisis | | OK
 
 intuición | | Espíritus Ayudantes de la Mente:Espíritu 1. Intuición; liderazgos; percepción espiritual | | 
 
@@ -1110,7 +1110,7 @@ Los adanitas trabajaron a lo largo de los ríos de Mesopotamia en (78:2.1)
 Caligastia 100 enseñado (66:5.2)
 Los sumerios usaban canales de riego para la defensa militar (78:8.5)
 
-irritación | | quejumbroso | | 
+irritación | | quejumbroso | | OK
 
 Isaac (prestamista de Nazaret) | | | PERSON | OK
 Isaac era un judío rico, prestamista de los gentiles, que se ofreció a apoyar económicamente a la familia de Jesús si se decidía a dirigir a los patriotas nacionalistas de Nazaret (127:2.5)
@@ -1210,7 +1210,7 @@ la religión cura (101:10.7)
 la sociedad es el resultado de la aversión del hombre por (68:2.1)
 El Espíritu de la Verdad destruye los sentimientos de orfandad (194:2.2)
 
-mundos de aislamiento | | mundos carcelarios | PLACE | 
+mundos de aislamiento | | mundos carcelarios | PLACE | OK
 
 Israel | | Efraín; Galilea; Judea; Palestina; Perea | PLACE | 
 hijos de Israel, así llamados después de los días de Abraham (96:2.3) (136:1.1)
