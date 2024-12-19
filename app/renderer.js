@@ -1911,7 +1911,6 @@ const loadTITopics = (forceLoad) => {
 };
 
 const showTITopics = () => {
-	const uilan = settings.language;
 	const category = controls.drpTICategories.value;
 	const letter = controls.drpTILetters.value;
 	const notrevised = controls.chkTIFilterRevised.checked;
@@ -2100,6 +2099,7 @@ const setTITopicLineAsSelected = (htmlElement) => {
 
 const requestOpenAI = async (evt) => {
 	//TODO: Show Requesting and block controls
+	//TODO: Syntax colorizer for Topic Index files
 	if (openai) {
 		const n = $(evt.currentTarget)
 			.closest('.input-group').attr('data-topic');

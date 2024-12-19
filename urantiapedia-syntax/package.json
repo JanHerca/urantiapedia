@@ -1,0 +1,25 @@
+{
+  "name": "urantiapedia-syntax",
+  "displayName": "Urantiapedia Syntax",
+  "description": "Syntax grammar for Urantiapedia files",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "urantiapedia",
+      "aliases": ["Urantiapedia", "urantiapedia"],
+      "extensions": [".txt"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "urantiapedia",
+      "scopeName": "source.urantiapedia",
+      "path": "./syntaxes/urantiapedia.tmLanguage.json"
+    }]
+  }
+}

@@ -1,0 +1,43 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "Urantiapedia",
+	"patterns": [
+		{
+			"include": "#comments"
+		},
+		{
+			"include": "#keywords"
+		},
+		{
+			"include": "#strings"
+		}
+	],
+	"repository": {
+		"comments": {
+			"patterns": [
+				{
+				"name": "comment.line.urantiapedia",
+				"match": "^<.*$"
+				}
+			]
+		},
+		"keywords": {
+			"patterns": [{
+				"name": "keyword.control.urantiapedia",
+				"match": "\\b(OK|PERSON|PLACE|ORDER|RELIGION)\\b"
+			}]
+		},
+		"strings": {
+			"name": "string.quoted.double.urantiapedia",
+			"begin": "\"",
+			"end": "\"",
+			"patterns": [
+				{
+					"name": "constant.character.escape.urantiapedia",
+					"match": "\\\\."
+				}
+			]
+		}
+	},
+	"scopeName": "source.urantiapedia"
+}
