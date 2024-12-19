@@ -1124,6 +1124,11 @@ const Strings = {
 		sv: "Index över religioner, kulter, övertygelser",
 		tr: "Dinler, kültler, inançlar endeksi"
 	},
+	"topicRedirect": {
+		en: "This page is a placeholder for a name. For the page with all the content use the link below.",
+		es: "Esta página es un contenedor para un nombre. Para ver la página con todo el contenido usa el enlace de abajo.",
+		fr: "Cette page est un espace réservé pour un nom. Pour accéder à la page avec tout le contenu, utilisez le lien ci-dessous."
+	},
 	"indexAll": {
 		bg: "Списък на всички индекси",
 		cs: "Seznam všech indexů",
@@ -1505,6 +1510,31 @@ const Strings = {
 		en: "Topic letters",
 		es: "Letras de términos",
 		fr: "Lettres thématiques"
+	},
+	"lblTILinesLength": {
+		en: "Lines length",
+		es: "Número de líneas",
+		fr: "Nombre de lignes"
+	},
+	"drpTILinesLength": {
+		en: "all,below,equal,above",
+		es: "todas,por debajo,igual,por encima",
+		fr: "tous,en dessous,égal,au dessus"
+	},
+	"lblTIFilterRedirects": {
+		en: "Redirects",
+		es: "Redirecciones",
+		fr: "Redirections"
+	},
+	"lblTIFilterLength": {
+		en: "Topics filtered:",
+		es: "Términos filtrados:",
+		fr: "Sujets filtrés:"
+	},
+	"drpTIFilterRedirects": {
+		en: "Include redirects,Only redirects,Ignore redirects",
+		es: "Incluye redirecciones,Sólo redirecciones,Ignora redirecciones",
+		fr: "Inclure les redirections,Redirections uniquement,Ignorer redirections"
 	},
 	"btnTILoadTopics": {
 		en: "Load topics",

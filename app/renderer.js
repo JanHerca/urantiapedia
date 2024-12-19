@@ -126,8 +126,11 @@ const controls = {
 	btnTIAddTopic: '', btnTIRemoveTopic: '', btnTIRenameTopic: '', 
 	btnTISaveChanges: '', btnTISaving: '',
 	lblTILetters: '', drpTILetters: '', 
-	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
-	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
+	lblTIFilterRevised: '', chkTIFilterRevised: '', 
+	lblTIFilterErrors: '', chkTIFilterErrors: '', 
+	lblTILinesLength: '', drpTILinesLength: '', txtTILinesLength: '',
+	lblTIFilterRedirects: '', drpTIFilterRedirects: '',
+	lblTIFilterLength: '', lblTIFilterLengthValue: '',
 	//Translate
 	lblTranslateLanguage1: '', drpTranslateLanguage1: '',
 	lblTranslateLanguage2: '', drpTranslateLanguage2: '',
@@ -406,23 +409,35 @@ const updateUI = () => {
 		const p = Processes[key];
 		return {key: key, desc: p.desc[uilan], active: p.active};
 	}).filter(p => p.active === true);
+	const procsVals = procs.map(p => p.key);
+	const procsDescs = procs.map(p => p.desc);
 	const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
 	const lettersVals = ['ALL', '_', ...letters];
 	const lettersDescs = ['ALL', 'NUMBER', ...letters.map(l => l.toUpperCase())];
+	const redirectsVals = Strings['drpTIFilterRedirects'].en.split(',');
+	const redirectsDescs = Strings['drpTIFilterRedirects'][uilan]
+		? Strings['drpTIFilterRedirects'][uilan].split(',')
+		: redirectsVals;
+	const compareVals = Strings['drpTILinesLength'].en.split(',');
+	const compareDescs = Strings['drpTILinesLength'][uilan]
+		? Strings['drpTILinesLength'][uilan].split(',')
+		: compareVals;
 
-	const data = {
-		drpProcess: {values: procs.map(p => p.key), descs: procs.map(p => p.desc)},
+	const dprValues = {
+		drpProcess: {values: procsVals, descs: procsDescs},
 		drpCategories: {values: topicFilters, descs: topicFilters},
 		drpLetters: {values: lettersVals, descs: lettersDescs},
 		drpTICategories: {values: topicFilters, descs: topicFilters},
 		drpTICategory: {values: topicTypes, descs: topicTypes},
 		drpTILetters: {values: lettersVals, descs: lettersDescs},
-		drpSearchCopyType: {values: copyTypes, descs: copyTypes}
+		drpSearchCopyType: {values: copyTypes, descs: copyTypes},
+		drpTIFilterRedirects: {values: redirectsVals, descs: redirectsDescs},
+		drpTILinesLength: {values: compareVals, descs: compareDescs},
 	};
 	
-	Object.keys(data).forEach(key => {
-		fillDropdown(controls[key], data[key].values, data[key].descs, 
-			controls[key].value);
+	Object.keys(dprValues).forEach(key => {
+		fillDropdown(controls[key], dprValues[key].values, 
+			dprValues[key].descs, controls[key].value);
 	});
 
 	Object.keys(controls).forEach(key => {
@@ -1831,21 +1846,18 @@ const handle_drpTILanguage1Change = (evt) => {
 	const lan1 = controls.drpTILanguage1.value;
 	topicindexEdit.setLanguage(lan1);
 	bookEdit.setLanguage(lan1);
-	// loadTITopics(true);
 };
 
 const handle_drpTILanguage2Change = (evt) => {
 	const lan2 = controls.drpTILanguage2.value;
 	topicindexEdit2.setLanguage(lan2);
 	bookEdit2.setLanguage(lan2);
-	// loadTITopics(true);
 };
 
 const handle_drpTILanguage3Change = (evt) => {
 	const lan3 = controls.drpTILanguage3.value;
 	topicindexEdit3.setLanguage(lan3);
 	bookEdit3.setLanguage(lan3);
-	// loadTITopics(true);
 };
 
 const loadTITopics = (forceLoad) => {
@@ -1870,7 +1882,6 @@ const loadTITopics = (forceLoad) => {
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}-footnotes`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}-footnotes`);
 	const dirBook3 = path.join(root, 'input', 'json', `book-${lan3}-footnotes`);
-	//TODO: use either with or without footnotes, whichever exists
 
 	setTILoading(true);
 	
@@ -1900,10 +1911,14 @@ const loadTITopics = (forceLoad) => {
 };
 
 const showTITopics = () => {
+	const uilan = settings.language;
 	const category = controls.drpTICategories.value;
 	const letter = controls.drpTILetters.value;
-	const notrevised = controls.chkTopicFilterRevised.checked;
-	const witherrs = controls.chkTopicFilterErrors.checked;
+	const notrevised = controls.chkTIFilterRevised.checked;
+	const witherrs = controls.chkTIFilterErrors.checked;
+	const compare = controls.drpTILinesLength.value;
+	const redirects = controls.drpTIFilterRedirects.value;
+	const lineslength = controls.txtTILinesLength.value;
 
 	//Unhandle
 	$(controls.lbxTITopics).find('.list-group-item').off('click');
@@ -1911,16 +1926,31 @@ const showTITopics = () => {
 	//Fill topic list
 	const topics = topicindexEdit.topics
 		.filter(t => {
-			return ((t.type === category || category === 'ALL') &&
+			const isRedirect = (t.lines.length === 0 && t.seeAlso.length > 0);
+			return (
+				(t.type === category || category === 'ALL') &&
 				(t.filename.startsWith(letter) || letter === 'ALL') &&
 				(t.revised != notrevised || !notrevised) &&
-				((t.errors && t.errors.length > 0) === witherrs || !witherrs));
+				((t.errors && t.errors.length > 0) === witherrs || !witherrs) &&
+				(
+					(compare === 'below' && t.lines.length < lineslength) ||
+					(compare === 'equal' && t.lines.length === lineslength) ||
+					(compare === 'above' && t.lines.length > lineslength) ||
+					(compare === 'all')
+				) &&
+				(
+					(redirects === 'Include redirects') ||
+					(redirects === 'Only redirects' && isRedirect) ||
+					(redirects === 'Ignore redirects' && !isRedirect)
+				)
+			);
 		})
 		.sort((a, b) => {
 			if (a.sorting > b.sorting) return 1;
 			if (a.sorting < b.sorting) return -1;
 			return 0;
 		});
+	controls.lblTIFilterLengthValue.innerHTML = topics.length;
 	const activeFound = topics.find(t => t.name === topicEditing) != undefined;
 
 	controls.lbxTITopics.innerHTML = createTopicsFn({
@@ -2070,7 +2100,6 @@ const setTITopicLineAsSelected = (htmlElement) => {
 
 const requestOpenAI = async (evt) => {
 	//TODO: Show Requesting and block controls
-	//TODO: Add a filter in topics up to a number of lines
 	if (openai) {
 		const n = $(evt.currentTarget)
 			.closest('.input-group').attr('data-topic');

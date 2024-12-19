@@ -393,7 +393,7 @@
 									</div>
 									<div class="input-group-prepend">
 										<div class="input-group-text px-2 py-1">
-											<input id="chkTopicFilterRevised" type="checkbox" aria-label="Is topic revised or not">
+											<input id="chkTIFilterRevised" type="checkbox" aria-label="Is topic revised or not">
 										</div>
 									</div>
 									<div class="input-group-prepend">
@@ -401,9 +401,31 @@
 									</div>
 									<div class="input-group-append">
 										<div class="input-group-text px-2 py-1">
-											<input id="chkTopicFilterErrors" type="checkbox" aria-label="Is topic with errors or not">
+											<input id="chkTIFilterErrors" type="checkbox" aria-label="Is topic with errors or not">
 										</div>
 									</div>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblTIFilterRedirects" class="input-group-text">Redirects</span>
+									</div>
+									<select id="drpTIFilterRedirects" class="custom-select"></select>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblTILinesLength" class="input-group-text">Lines length</span>
+									</div>
+									<select id="drpTILinesLength" class="custom-select">
+										<option value="all" selected>all</option>
+										<option value="below">below</option>
+										<option value="equal">equal</option>
+										<option value="equal">above</option>
+									</select>
+									<input id="txtTILinesLength" type="number" class="form-control" aria-label="Lines length" value="15">
 								</div>
 							</div>
 							<div class="p-0 mb-2 flex-grow-1">
@@ -413,6 +435,10 @@
 										<span id="btnTILoadTopics">Load topics</span>
 									</button>
 								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<span id="lblTIFilterLength" class="font-italic pr-2">Topics filtered:</span>
+								<span id="lblTIFilterLengthValue" class="font-italic">0</span>
 							</div>
 							<div class="p-0 mb-2 flex-grow-1" style="height: inherit; overflow: auto;" id="lbxTITopicsCont">
 								<div class="list-group" id="lbxTITopics" style="height: inherit;"></div>
