@@ -33,6 +33,8 @@ const createSummaryFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'summary.pug'));
 const createBookParsFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'bookpars.pug'));
+const createTopicsFn = pug.compileFile(
+	path.join(app.getAppPath(), 'app', 'templates', 'topics.pug'));
 const createTopicLinesFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'topiclines.pug'));
 
@@ -109,8 +111,7 @@ const controls = {
 	lbxSearchResultLan: '',
 	//Topic index editor
 	lblTICategories: '', drpTICategories: '', lbxTITopics: '',
-	spinTILoading: '', btnTILoadTopics: '', igrTILoadTopics: '', 
-	spinTIOpenAI: '', btnTIOpenAI: '', igrTIOpenAI: '',
+	spinTILoading: '', btnTILoadTopics: '', igrTILoadTopics: '',
 	lblTILanguage1: '', drpTILanguage1: '', 
 	lblTILanguage2: '', drpTILanguage2: '', 
 	lblTILanguage3: '', drpTILanguage3: '', 
@@ -277,7 +278,6 @@ const onLoad = () => {
 		[c.drpTILanguage3, 'change', handle_drpTILanguage3Change],
 		[c.btnTISaveChanges, 'click', handle_btnTISaveChangesClick],
 		[c.igrTILoadTopics, 'click', handle_igrTILoadTopicsClick],
-		[c.igrTIOpenAI, 'click', handle_igrTIOpenAIClick],
 		[c.btnTIURL, 'click', handle_btnTIURLClick],
 		[c.btnTIEditAlias, 'click', handle_btnTIEditAliasClick],
 		[c.chkTIRevised, 'change', handle_chkTIRevisedChange],
@@ -379,7 +379,9 @@ const onLoad = () => {
 	setTIDisabledStatus(true);
 	$(c.drpTILanguage1).attr('disabled', null);
 	$(c.drpTILanguage2).attr('disabled', null);
+	c.drpTILanguage2.value = 'es';
 	$(c.drpTILanguage3).attr('disabled', null);
+	c.drpTILanguage3.value = 'fr';
 };
 
 const fillDropdown = (control, values, descs, currentValue) => {
@@ -1616,8 +1618,8 @@ const getSearchParsForLine = (line) => {
 	rrefs[lanIndex] = obj.refs.join('; ') + 
 		(obj.refs.length > 0 ? '; ' : '') + refs.join(';');
 	const lineText = createBookParsFn({
-		rowclass: classes,
-		errclass: classes,
+		rowClass: classes,
+		errClass: classes,
 		pars: pars,
 		refs: rrefs,
 		textToCopy: ['', ''],
@@ -1712,7 +1714,7 @@ const getSearchPars = (r1, r2, r, old) => {
 	
 	return createBookParsFn({
 		rowClass: [],
-		errclass: (r1 == null || r2 == null ? 
+		errClass: (r1 == null || r2 == null ? 
 			['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
 		pars: [par1, par2],
 		refs: [ref1, ref2],
@@ -1739,7 +1741,7 @@ const getSearchParsMulti = (refs1, refs2, r) => {
 
 	return createBookParsFn({
 		rowClass: [],
-		errclass: [],
+		errClass: [],
 		pars: [],
 		refs: [ref, ref],
 		textToCopy: [pars1Plain, pars2Plain],
@@ -1817,26 +1819,6 @@ const setSearchAdding = (adding) => {
 const handle_igrTILoadTopicsClick = (evt) => {
 	loadTITopics(false);
 	evt.preventDefault();
-};
-
-const handle_igrTIOpenAIClick = async (evt) => {
-	// const text = 'Quiero una frase coherente y con sentido elaborada a partir de este enunciado escueto: "influenciado por el jainismo, el islam, el cristianismo", utilizando este párrafo para obtener la frase: "Con el paso de los siglos, el pueblo de la India volvió hasta cierto punto a los antiguos rituales de los Vedas, tal como éstos habían sido modificados por las enseñanzas de los misioneros de Melquisedek y cristalizados por el clero brahmánico posterior. Esta religión, la más antigua y la más cosmopolita del mundo, ha sufrido cambios adicionales en respuesta al budismo, al jainismo, y a las influencias del mahometismo y el cristianismo que aparecieron después. Pero cuando llegaron las enseñanzas de Jesús, ya estaban tan occidentalizadas que sólo eran una «religión del hombre blanco», por lo tanto extrañas y ajenas para la mente hindú." El resultado sólo debe utilizar lo que aparece en el enunciado, de la forma más breve posible.';
-	const text = 'Quiero una frase coherente, con sentido y lo más breve posible, elaborada utilizando sólo lo que aparece en este enunciado acerca del "hinduismo": "influenciado por el jainismo, el islam, el cristianismo", y utilizando este párrafo para obtener la frase: "Con el paso de los siglos, el pueblo de la India volvió hasta cierto punto a los antiguos rituales de los Vedas, tal como éstos habían sido modificados por las enseñanzas de los misioneros de Melquisedek y cristalizados por el clero brahmánico posterior. Esta religión, la más antigua y la más cosmopolita del mundo, ha sufrido cambios adicionales en respuesta al budismo, al jainismo, y a las influencias del mahometismo y el cristianismo que aparecieron después. Pero cuando llegaron las enseñanzas de Jesús, ya estaban tan occidentalizadas que sólo eran una «religión del hombre blanco», por lo tanto extrañas y ajenas para la mente hindú."';
-	if (openai) {
-		try {
-			const response = await openai.chat.completions.create({
-				model: 'gpt-3.5-turbo',
-				messages: [{
-					role: 'user',
-					content: [{type: 'text', text}]
-				}]
-			});
-			console.log(response.choices[0].message);
-		} catch (error) {
-			console.error("Error:", error);
-		}
-
-	}
 };
 
 const handle_btnTIURLClick = (evt) => {
@@ -1939,25 +1921,12 @@ const showTITopics = () => {
 			if (a.sorting < b.sorting) return -1;
 			return 0;
 		});
-	let activeFound = false;
-	controls.lbxTITopics.innerHTML = topics
-		.map(t => {
-			const n = t.name;
-			const len = t.errors ? t.errors.length : 0;
-			const active = (n === topicEditing ? ' active' : '');
-			if (active != '') activeFound = true;
-			const errcls = len > 0 ? ' alert alert-danger ' : ' ';
-			const badge = len > 0 ? 
-				`<span class="badge badge-pill badge-danger mr-1">${len}</span>` : '';
-			return `<div class="list-group-item btn-sm list-group-item-action 
-						flex-column p-0 align-items-start${active}">
-						<div class="d-flex w-100 justify-content-between${errcls}px-2 py-1 mb-0">
-							<div>${n}</div>
-							<div>${badge}${t.type}</div>
-						</div>
-					</div>`;
-		})
-		.join('');
+	const activeFound = topics.find(t => t.name === topicEditing) != undefined;
+
+	controls.lbxTITopics.innerHTML = createTopicsFn({
+		topics,
+		topicEditing,
+	});
 	
 	//Handle
 	$(controls.lbxTITopics).find('.list-group-item').on('click', function() {
@@ -1977,15 +1946,19 @@ const setTITopicAsSelected = (htmlElement) => {
 	showTITopic();
 };
 
-const getTITopicSelected = () => {
-	if (!topicEditing) return null;
+const getTITopicSelected = (onlyFirst) => {
+	if (!topicEditing) return onlyFirst ? null : [null, null, null];
 	const topic = topicindexEdit.topics.find(t => t.name === topicEditing);
-	return topic;
+	if (onlyFirst) return topic;
+	const sorting = topic.sorting;
+	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
+	const topic3 = topicindexEdit3.topics.find(t => t.sorting === sorting);
+	return [topic, topic2, topic3];
 };
 
 const showTITopic = () => {
 	//TODO: //https://jsfiddle.net/KyleMit/LczLqsoa/
-	const topic = getTITopicSelected();
+	const [topic, topic2, topic3] = getTITopicSelected();
 	if (!topic) return;
 
 	const topicEN = topicindexEditEN.topics.find(t => {
@@ -1993,9 +1966,6 @@ const showTITopic = () => {
 			t.fileline === topic.fileline);
 	});
 	let lan1 = controls.drpTILanguage1.value;
-	const sorting = topic.sorting;
-	const topic2 = topicindexEdit2.topics.find(t => t.sorting === sorting);
-	const topic3 = topicindexEdit3.topics.find(t => t.sorting === sorting);
 	const aliases = (topic.altnames ? topic.altnames : []);
 	const refs = (topic.refs ? topic.refs : []);
 	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
@@ -2003,8 +1973,6 @@ const showTITopic = () => {
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
 	const lines3 = (topic3.lines ? topic3.lines : []);
-	const topicErrs = (topic.errors ? 
-		topic.errors.filter(er => er.fileline === topic.fileline) : []);
 	const pagename = (topicEN ? topicEN.name.replace(/ /g, '_') : 'not_found');
 	lan1 = (lan1 === 'en' ? '' : '/' + lan1);
 	const url = `http://urantiapedia.org${lan1}/topic/${pagename}`;
@@ -2019,7 +1987,9 @@ const showTITopic = () => {
 	$(controls.btnTIURL).html(url);
 
 	//Unhandle
-	$(controls.lbxTILines).find('.list-group-item').off('click');
+	$(controls.lbxTILines).find('.topic-line.list-group-item').off('click');
+	$(controls.lbxTILines).find('.input-group').off('click');
+	$(controls.lbxTILines).find('.copy-openai').off('click');
 
 	//Fill lines listbox
 	const filterErrors = (objs) => {
@@ -2030,7 +2000,7 @@ const showTITopic = () => {
 		});
 	};
 
-	const topicErrors = filterErrors([topic, topic2, topic3]);	
+	const topicErrors = filterErrors([topic, topic2, topic3]);
 	const topicLines = lines.map((line, i) => {
 		const line2 = lines2[i];
 		const line3 = lines3[i];
@@ -2040,22 +2010,49 @@ const showTITopic = () => {
 			lines: [line, line2, line3],
 			errors,
 			refs: line.refs.join(', '),
+			active: line.fileline === filelineEditing
 		}
-	})
+	});
+	const topicOpenAI = [topic, topic2, topic3].map(t => {
+		if (!t.lines.some(line=> line.openAI && line.openAI.value)) {
+			return null;
+		}
+		return t.lines.map(line => {
+			const tabs = '\t'.repeat(line.level);
+			const text = line.openAPI && line.openAPI.value
+				? line.openAI.value
+				: line.text;
+			const refs = line.refs.length > 0
+				? ' ' + line.refs.map(r => `(${r})`).join(' ')
+				: '';
+			const seeAlso = line.seeAlso.length > 0
+				? ' | ' + line.seeAlso.join('; ')
+				: '';
+			return `${tabs}${text}${refs}${seeAlso}`;
+		}).join('\r\n');
+	});
 	controls.lbxTILines.innerHTML = createTopicLinesFn({
 		topicErrors,
 		topicLines,
+		topicOpenAI,
 	});
 
 	//Handle
-	$(controls.lbxTILines).find('.list-group-item').on('click', function() {
-		setTITopicLineAsSelected(this);
-	});
-
+	$(controls.lbxTILines).find('.topic-line.list-group-item')
+		.on('click', (evt) => setTITopicLineAsSelected(evt.currentTarget));
+	$(controls.lbxTILines).find('.input-group')
+		.on('click', (evt) => requestOpenAI(evt));
+	$(controls.lbxTILines).find('.copy-openai')
+		.on('click', (evt) => {
+			const text = $(evt.currentTarget).attr('data-text');
+			clipboard.writeText(text);
+			evt.stopPropagation();
+		});
+	
 	//Select first line by default
 	if (lines.length > 0) {
 		setTITopicLineAsSelected($(controls.lbxTILines)
-			.find(`.list-group-item:nth-child(${topicErrs.length + 1})`)[0]);
+			.find(`.topic-line.list-group-item:nth-child(1)`)[0]);
 	} else {
 		controls.lbxTIUBLines.innerHTML = '';
 	}
@@ -2071,15 +2068,56 @@ const setTITopicLineAsSelected = (htmlElement) => {
 	showTILinesUB();
 };
 
+const requestOpenAI = async (evt) => {
+	//TODO: Show Requesting and block controls
+	//TODO: Add a filter in topics up to a number of lines
+	if (openai) {
+		const n = $(evt.currentTarget)
+			.closest('.input-group').attr('data-topic');
+		const topics = getTITopicSelected();
+		if (!topics[0]) return;
+		const topicToRequest = topics[n];
+		const name = topicToRequest.name;
+		const lans = [1,2,3].map(i=> controls[`drpTILanguage${i}`].value);
+		const lan = lans[n];
+		const books = [bookEdit, bookEdit2, bookEdit3];
+		const book = books[n];
+		const message = Strings['btnTIRequestOpenAIMessage'][lan];
+		const promises = topicToRequest.lines.map(async line => {
+			if (!Array.isArray(line.refs) || line.refs.length === 0) {
+				return {value: null};
+			}
+			const lineText = line.text;
+			const refs = book.getArrayOfRefs(line.refs).filter(r => r != null);
+			const pars = refs.map(r => book.toParInPlainText(r, []));
+			const par = pars.join(' ');
+			const text = strformat(message, name, lineText, par);
+			try {
+				const response = await openai.chat.completions.create({
+					model: 'gpt-3.5-turbo',
+					messages: [{
+						role: 'user',
+						content: [{type: 'text', text}]
+					}]
+				});
+				return {value: response.choices[0].message.content};
+				// if (line.fileline === 359) return {error: "This is an error."};
+				// return {value: "This is a fake sentence generated by OpenAI for '" + lineText + "'"};
+			} catch (error) {
+				return {error: error.message};
+			}
+		});
+		const results = await Promise.all(promises);
+		topicToRequest.lines.forEach((line, i) => {
+			line.openAI = {...results[i]};
+		});
+		showTITopic();
+	}
+};
+
 const showTILinesUB = () => {
-	const topic = getTITopicSelected();
+	const [topic, topic2, topic3] = getTITopicSelected();
 	if (!topic) return;
-	const topic2 = topicindexEdit2.topics.find(t => {
-		return (t.filename === topic.filename && t.fileline === topic.fileline);
-	});
-	const topic3 = topicindexEdit3.topics.find(t => {
-		return (t.filename === topic.filename && t.fileline === topic.fileline);
-	});
 
 	const line1 = topic.lines.find(ln => ln.fileline === filelineEditing);
 	const line2 = topic2.lines.find(ln => ln.fileline === filelineEditing);
@@ -2116,7 +2154,7 @@ const showTILinesUB = () => {
 		
 		return createBookParsFn({
 			rowClass: [],
-			errclass: r == null
+			errClass: r == null
 				? ['alert', 'alert-danger', 'mb-0', 'py-0'] 
 				: [],
 			pars: [par1, par2, par3],
@@ -2176,14 +2214,14 @@ const handle_btnTISaveChangesClick = () => {
 };
 
 const handle_btnTIEditAliasClick = (evt) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	editAliasDialog.updateLists(topic, bookEdit);
 	editAliasDialog.showModal();
 };
 
 const handle_editAliasDialogOK = (data) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	//Check changes
 	const altnames = data.altnames.slice();;
@@ -2198,7 +2236,7 @@ const handle_editAliasDialogOK = (data) => {
 };
 
 const handle_chkTIRevisedChange = (evt) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	changed = true;
 	topic.revised = controls.chkTIRevised.checked;
@@ -2206,14 +2244,14 @@ const handle_chkTIRevisedChange = (evt) => {
 };
 
 const handle_btnTIEditRefsClick = (evt) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	editRefsDialog.updateLists(topic, bookEdit);
 	editRefsDialog.showModal();
 };
 
 const handle_editRefsDialogOK = (data) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	//Check changes
 	const refs = data.refs.slice();;
@@ -2228,7 +2266,7 @@ const handle_editRefsDialogOK = (data) => {
 };
 
 const handle_btnTIEditSeeAlsoClick = (evt) => {
-	const topic = getTITopicSelected();
+	const topic = getTITopicSelected(true);
 	if (!topic) return;
 	editSeeAlsosDialog.updateLists(topic, bookEdit);
 	editSeeAlsosDialog.showModal();

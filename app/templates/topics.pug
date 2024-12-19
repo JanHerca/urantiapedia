@@ -1,0 +1,16 @@
+- var classes = ['list-group-item', 'btn-sm', 'list-group-item-action', 'p-0', 'flex-column', 'align-items-start']
+
+each topic in topics
+	- var errLen = topic.errors ? topic.errors.length : 0
+	- var errCls = errLen > 0 ? ['alert', 'alert-danger'] : []
+	div(class=classes class={active: topicEditing === topic.name})
+		div.d-flex.w-100.justify-content-between.px-2.py-1.mb-0(class=errCls)
+			div
+				if topic.revised
+					span.badge.badge-pill.badge-success.mr-1.text-white
+						i.bi.bi-check
+				span= topic.name
+			div
+				if errLen > 0
+					span.badge.badge-pill.badge-danger.mr-1= errLen
+				span= topic.type

@@ -1,11 +1,13 @@
 - var classes = ['list-group-item', 'btn-sm', 'list-group-item-action', 'py-0', 'flex-column', 'align-items-start']
+- var errClasses = ['px-2', 'py-1', 'mb-0', 'alert', 'alert-danger']
+- var infClasses = ['px-2', 'py-1', 'mb-0', 'alert', 'alert-info']
 - var n = 0
 
 div(class=classes)
 	div.py-1.row
 		while n < 3
 			div.px-1.col-4
-				div.input-group.input-group-sm
+				div.input-group.input-group-sm(data-topic=n)
 					button.btn.btn-secondary.w-100(type='button')
 						span.spinner-border.spinner-border-sm.d-none(role='status' aria-hidden='true')
 						span Request OpenAI
@@ -15,15 +17,29 @@ div(class=classes)
 		each topicError in topicErrors
 			div.px-1.col-4
 				each desc in topicError
-					div.alert.alert-danger.py-0.px-2.mb-0= desc
+					div(class=errClasses)= desc
 each topicLine in topicLines
-	div(class=classes)
+	div.topic-line(class={active: topicLine.active} class=classes)
+		div.row.d-none.up-fileline= topicLine.fileline
 		div.row
-			div.d-none.up-fileline= topicLine.fileline
 			each line in topicLine.lines
-				div.px-1.col-4= line.text
-		div.row.alert.alert-danger.p-0.mb-0
-			each desc in topicLine.errors
-				div.col-4= desc
+				div.px-1.col-4
+					div= line.text
+					if line.openAI != null
+						if line.openAI.value != null
+							div(class=infClasses)!= "<em>" + line.openAI.value + "</em>"
+						else if line.openAI.error != null
+							div(class=errClasses)!= "<em>" + line.openAI.error + "</em>"
+		div.row
+			each topicLineError in topicLine.errors
+				div.col-4
+					each desc in topicLineError
+						div(class=errClasses)= desc
 		div.row
 			div.col-12.text-right= topicLine.refs
+div(class=classes)
+	div.py-1.row
+		each text in topicOpenAI
+			div.px-1.py-1.col-4.text-right
+				if text != null
+					button.btn.btn-sm.btn-secondary.py-0.px-1.ml-1.copy-openai(type='button' data-text=text) Copy text

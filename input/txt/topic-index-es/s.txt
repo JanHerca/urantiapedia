@@ -355,10 +355,12 @@ tiempo de | tiempo
 Universidad de Salvington | | Universidad Melquisedek | PLACE | 
 
 Samaria | (143) (123:5.13) (134:7.5) | Palestina; samaritanos | PLACE | 
-gángster-nobleza controlada (97:9.20)
-décimo séptima aparición de Jesús en Sicar (193:1)
-Poncio Pilato fue procurador de (185:0.1)
-avivamiento en (143:6)
+en tiempos de los profetas
+	gángster-nobleza controlada (97:9.20)
+en tiempos de Jesús
+	Poncio Pilato fue procurador de (185:0.1)
+	décimo séptima aparición de Jesús en Sicar (193:1)
+	avivamiento en (143:6)
 
 samaritanos | | Samaria | PLACE | 
 ejércitos asistidos de Alejandro; trabajó para evitar la reconstrucción de Jerusalén (143:4.2)

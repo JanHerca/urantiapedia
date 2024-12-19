@@ -1526,6 +1526,11 @@ const Strings = {
 		es: "Con errores",
 		fr: "Avec des erreurs"
 	},
+	"btnTIRequestOpenAIMessage": {
+		en: "I want a coherent, meaningful, and as short a sentence as possible, constructed using only what appears in this statement about \"{0}\": \"{1}\", and using this paragraph to obtain the sentence: \"{2}\"",
+		es: "Quiero una frase coherente, con sentido y lo más breve posible, elaborada utilizando sólo lo que aparece en este enunciado acerca del \"{0}\": \"{1}\", y utilizando este párrafo para obtener la frase: \"{2}\"",
+		fr: "Je veux une phrase cohérente, significative et la plus courte possible, faite en utilisant uniquement ce qui apparaît dans cette déclaration à propos de \"{0}\": \"{1}\", et en utilisant ce paragraphe pour obtenir la phrase : \"{2}\""
+	},
 	"btnSearch": {
 		en: "Search",
 		es: "Buscar",

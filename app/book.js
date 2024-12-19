@@ -1505,6 +1505,7 @@ class Book {
 			extendArray(errs, errs2);
 			return;
 		}
+		//Replace italics
 		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
 		return result;
 	};
@@ -1529,7 +1530,7 @@ class Book {
 		//Remove the references to footnotes
 		result = par.par_content
 			.replace(/{(\d+)}/g, function(match, number) {return '';});
-		//Replace italic and smallcaps tags with HTML
+		//Replace smallcaps tags with HTML
 		result = replaceTags(result, '$', '$', 
 			'<span style="font-variant: small-caps;">', '</span>', errs);
 		return result;
