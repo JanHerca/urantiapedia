@@ -47,6 +47,12 @@
           }
         },
         {
+          "scope": "link.line.urantiapedia",
+          "settings": {
+            "foreground": "#2488DB" // Active color
+          }
+        },
+        {
           "scope": "entity.name.item1.urantiapedia",
           "settings": {
             "foreground": "#9CDCFE" // Light blue

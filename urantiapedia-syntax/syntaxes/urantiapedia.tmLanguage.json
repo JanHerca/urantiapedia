@@ -6,6 +6,9 @@
 			"include": "#comments"
 		},
 		{
+			"include": "#links"
+		},
+		{
 			"include": "#entries"
 		}
 	],
@@ -18,10 +21,18 @@
 				}
 			]
 		},
+		"links": {
+			"patterns": [
+				{
+					"name": "link.line.urantiapedia",
+					"match": "^>.*$"
+				}
+			]
+		},
 		"entries": {
 			"patterns": [
 				{
-					"begin": "^(?=\\S)",
+					"begin": "^(?=\\s*\\S)",
 					"end": "$",
 					"patterns": [
 						{
@@ -30,19 +41,20 @@
 						},
 						{
 							"name": "entity.name.item2.urantiapedia",
-							"match": "(?<=\\|)[^|]+(?=\\|)"
+							"match": "\\(\\d+[:.,\\d-]*\\)(?:\\s+\\(\\d+[:.,\\d-]*\\))*"
 						},
 						{
 							"name": "entity.name.item3.urantiapedia",
-							"match": "(?<=\\|)[^|]+(?=\\|)"
+							"match": "(?<=\\|)\\s*(?!\\b(PERSON|PLACE|ORDER|RELIGION)\\b)[^|()\\s][^|()]*[^|()\\s]\\s*(?=\\|)"
 						},
 						{
 							"name": "entity.name.item4.urantiapedia",
-							"match": "(?<=\\|)[^|]+(?=\\|)"
+							"match": "(?<=\\|)\\s*\\b(PERSON|PLACE|ORDER|RELIGION)\\b\\s*(?=\\|)"
 						},
 						{
 							"name": "entity.name.item5.urantiapedia",
 							"match": "(?<=\\|)[^|]+$"
+
 						}
 					]
 				}
