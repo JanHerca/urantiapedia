@@ -6,35 +6,45 @@
 			"include": "#comments"
 		},
 		{
-			"include": "#keywords"
-		},
-		{
-			"include": "#strings"
+			"include": "#entries"
 		}
 	],
 	"repository": {
 		"comments": {
 			"patterns": [
 				{
-				"name": "comment.line.urantiapedia",
-				"match": "^<.*$"
+					"name": "comment.line.urantiapedia",
+					"match": "^<.*$"
 				}
 			]
 		},
-		"keywords": {
-			"patterns": [{
-				"name": "keyword.control.urantiapedia",
-				"match": "\\b(OK|PERSON|PLACE|ORDER|RELIGION)\\b"
-			}]
-		},
-		"strings": {
-			"name": "string.quoted.double.urantiapedia",
-			"begin": "\"",
-			"end": "\"",
+		"entries": {
 			"patterns": [
 				{
-					"name": "constant.character.escape.urantiapedia",
-					"match": "\\\\."
+					"begin": "^(?=\\S)",
+					"end": "$",
+					"patterns": [
+						{
+							"name": "entity.name.item1.urantiapedia",
+							"match": "^[^|]+(?=\\|)"
+						},
+						{
+							"name": "entity.name.item2.urantiapedia",
+							"match": "(?<=\\|)[^|]+(?=\\|)"
+						},
+						{
+							"name": "entity.name.item3.urantiapedia",
+							"match": "(?<=\\|)[^|]+(?=\\|)"
+						},
+						{
+							"name": "entity.name.item4.urantiapedia",
+							"match": "(?<=\\|)[^|]+(?=\\|)"
+						},
+						{
+							"name": "entity.name.item5.urantiapedia",
+							"match": "(?<=\\|)[^|]+$"
+						}
+					]
 				}
 			]
 		}

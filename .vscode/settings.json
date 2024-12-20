@@ -1,78 +1,113 @@
 {
-  "git.ignoreLimitWarning": true,
-  "editor.wordWrap": "wordWrapColumn",
-  "editor.wrappingIndent": "indent",
-  "editor.snippetSuggestions": "top",
-  "[markdown]":  {
+  "[markdown]": {
     "editor.quickSuggestions": {
       "comments": "on",
-      "strings": "on",
-      "other": "on"
+      "other": "on",
+      "strings": "on"
     },
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "wordWrapColumn"
   },
-  "markdown.suggest.paths.enabled": false,
+  "editor.fontSize": 12,
+  "editor.snippetSuggestions": "top",
+  "editor.tokenColorCustomizations": {
+    "[Default Dark Modern]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "punctuation.definition.string.begin.html",
+            "punctuation.definition.string.end.html"
+          ],
+          "settings": {
+            "fontStyle": "",
+            "foreground": "#ffd866"
+          }
+        },
+        {
+          "scope": [
+            "heading.2.markdown entity.name.section.markdown",
+            "heading.2.markdown punctuation.definition.heading.markdown"
+          ],
+          "settings": {
+            "foreground": "#29dada"
+          }
+        },
+        {
+          "scope": [
+            "markup.italic.markdown"
+          ],
+          "settings": {
+            "foreground": "#9ce3ff"
+          }
+        },
+        {
+          "scope": "markup.bold.markdown markup.italic.markdown",
+          "settings": {
+            "fontStyle": "italic bold",
+            "foreground": "#569CD6"
+          }
+        },
+        {
+          "scope": "entity.name.item1.urantiapedia",
+          "settings": {
+            "foreground": "#9CDCFE" // Light blue
+          }
+        },
+        {
+          "scope": "entity.name.item2.urantiapedia",
+          "settings": {
+            "foreground": "#CE9178" // Light brown
+          }
+        },
+        {
+          "scope": "entity.name.item3.urantiapedia",
+          "settings": {
+            "foreground": "#DCDCAA" // Light yellow
+          }
+        },
+        {
+          "scope": "entity.name.item4.urantiapedia",
+          "settings": {
+            "foreground": "#C586C0" // Light purple
+          }
+        },
+        {
+          "scope": "entity.name.item5.urantiapedia",
+          "settings": {
+            "foreground": "#4EC9B0" // Light green
+          }
+        }
+      ]
+    },
+  },
+  "editor.wordWrap": "wordWrapColumn",
   "editor.wordWrapColumn": 80,
-  "prettier.proseWrap": "always",
-  "svg.preview.background": "editor",
+  "editor.wrappingIndent": "indent",
+  "files.associations": {
+    "input/topic-index-*/**/*.txt": "urantiapedia"
+  },
+  "git.ignoreLimitWarning": true,
+  "highlight.regexes": {
+    "([“|”|«|»|‘|’|\\.|\\!|\\?|;|:])": {
+      "decorations": [
+        {
+          "color": "#ffd866"
+        }
+      ],
+      "filterLanguageRegex": "markdown"
+    }
+  },
+  "markdown.preview.fontSize": 14,
+  "markdown.preview.lineHeight": 1.4,
   "markdown.styles": [
     "css\\markdown.css",
     "css\\markdown_theme.css",
     "css\\markdown_app.css"
   ],
-  "editor.fontSize": 12,
-  "markdown.preview.fontSize": 14,
-  "markdown.preview.lineHeight": 1.4,
+  "markdown.suggest.paths.enabled": false,
+  "prettier.proseWrap": "always",
+  "spellright.documentTypes": [],
   "spellright.language": [
     "es"
   ],
-  "spellright.documentTypes": [],
-  "editor.tokenColorCustomizations": {
-    "[Default Dark Modern]": {
-        "textMateRules": [
-          {
-              "scope": [
-                "punctuation.definition.string.begin.html", 
-                "punctuation.definition.string.end.html"
-              ],
-              "settings": {
-                  "foreground": "#ffd866",
-                  "fontStyle": ""
-              }
-          },
-          {
-            "scope": [
-              "heading.2.markdown entity.name.section.markdown", 
-              "heading.2.markdown punctuation.definition.heading.markdown",
-            ],
-            "settings": {
-                "foreground": "#29dada",
-            }
-          },
-          {
-            "scope": [
-              "markup.italic.markdown"
-            ],
-            "settings": {
-                "foreground": "#9ce3ff",
-            }
-          },
-          {
-            "scope": "markup.bold.markdown markup.italic.markdown",
-            "settings": {
-                "foreground": "#569CD6",
-                "fontStyle": "italic bold",
-            }
-           },
-        ]
-    }
-  },
-  "highlight.regexes": {
-    "([“|”|«|»|‘|’|\\.|\\!|\\?|;|:])": {
-      "filterLanguageRegex": "markdown",
-      "decorations": [
-        { "color": "#ffd866" }
-      ],
-    }
-  },
+  "svg.preview.background": "editor"
 }

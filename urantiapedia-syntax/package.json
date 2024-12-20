@@ -9,6 +9,11 @@
   "categories": [
     "Programming Languages"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanHerca/urantiapedia.git",
+    "directory": "urantiapedia-syntax"
+  },
   "contributes": {
     "languages": [{
       "id": "urantiapedia",
