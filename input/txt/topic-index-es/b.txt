@@ -118,7 +118,7 @@ las razas sangik nacieron a partir de los badonitas (64:5.2-3)
 tribus Baganda; tribus baganda | | | RACE | OK
 las tribus baganda de África han salido en tiempos recientes del nivel de oración mana (91:0.5)
 
-equilibrar; desequilibrio; equilibradas | | simetría | | OK
+equilibrio; equilibrar; desequilibrio; equilibradas | | compostura; simetría | | OK
 En Palestina, el pensamiento humano estaba tan controlado por los sacerdotes y tan dirigido por las escrituras, que la filosofía y la estética estaban totalmente sumergidas en la religión y la moralidad. (97:10.5) (98:2.7-9)
 Pero la moral, la ética y la filosofía griegas avanzaron enseguida mucho más allá del concepto teísta, y este desequilibrio entre el crecimiento intelectual y el desarrollo espiritual fue tan peligroso para Grecia como lo había sido para la India. (98:1.6)
 La religión de Grecia, como experiencia personal, no logró seguir el mismo ritmo que la investigación intelectual de la naturaleza y de la realidad del cosmos. (98:2.7-9)
@@ -752,7 +752,7 @@ Los antiguos siempre veneraban los huesos de sus dirigentes, y muchas personas c
 Los huesos de los muertos se creían muy mágicos. (88:5.2)
 los latinos preservaron los huesos de los héroes, y más tarde, los de los santos cristianos (98:3.4)
 
-Libros | | | | OK
+libros | | | | OK
 Libros mencionados en El Libro de Urantia:
 * Génesis (74:8) | Génesis
 * Deuteronomio (97:8.3) (150:8.8) (153:2.1) | Deuteronomio
@@ -761,7 +761,7 @@ Libros mencionados en El Libro de Urantia:
 * Eclesiastés (97:8.2) | Eclesiastés
 * El Libro de la Sabiduría (95:4.3,5) | Eclesiastés
 * El Libro de los Proverbios (95:4.3,5) | Proverbios (libro)
-* El Libro de Job (96:7.1) | Job
+* El Libro de Job (96:7.1) | Job (libro)
 * Hechos de los Apóstoles (121:8.8) | Hechos de los Apóstoles
 * El Libro de Enoc (126:3.6,8) (136:1.6) | Enoc:Libro
 * El Libro de los Hebreos (93:9.11) (196:2.1) | Hebreos
@@ -988,7 +988,7 @@ funciones y acciones
 	describen enseñanzas filosóficas a los finalitarios que éstos ofrecen a los mortales en las épocas de luz y vida (55:4.18)
 	representan a Gabriel en los cónclaves de Salvington (37:2.2)
 	representan a los Hijos Instructores Trinitarios en misiones planetarias (20:9.3) (37:2.2,9)
-	Algunos documentos de El Libro de Urantia han sido dictados, patrocinados o presentados por Brillantes Estrellas Vespertinas: 37, 47, 85-89, 119 (37:10.7) (47:10.8) (85:7.4) (86:7.7) (87:7.11) (88:6.9) (89:10.7) (119:8.9 )
+	Algunos documentos de El Libro de Urantia han sido dictados, patrocinados o presentados por Brillantes Estrellas Vespertinas: 37, 47, 85-89, 119 (37:10.7) (47:10.8) (85:7.4) (86:7.7) (87:7.11) (88:6.9) (89:10.7) (119:8.9)
 	Las Brillantes Estrellas Vespertinas, y sus coordinados innominados, sirven con frecuencia como instructores en las diversas empresas educativas del universo (45:7.2)
 naturaleza
 	se cuentan en el grupo Ayudantes del Universo (37:1.3)
@@ -1040,8 +1040,8 @@ directores de las transmisiones | | | ORDER | OK
 Los directores de las transmisiones son conservadores del pensamiento, y forman parte del grupo de los Artesanos Celestiales (44:4.9)
 
 receptores de las transmisiones; Receptores de las Transmisiones | | | ORDER | OK
-los receptores de las transmisiones son seconafines primarios, y sirven a los Ancianos de los Días con una clase especial de mensajes (28:4.12)
 los transmisores de energía son invaluables para los receptores de las transmisiones (29:4.29)
+los receptores de las transmisiones son seconafines primarios, y sirven a los Ancianos de los Días con una clase especial de mensajes (28:4.12)
 
 transmisores (Serafines superiores); Transmisores  | | transmisiones (celestiales) | ORDER | OK
 los Transmisores, dentro de los Serafines superiores, son una clase de registradores seráficos, y se ocupan de enviar los registros y de diseminar la información esencial. Pueden transmitir simultáneamente 144.000 mensajes (39:2.15)

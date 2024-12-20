@@ -613,7 +613,7 @@ Esprit #1 – Intuition
 	ministres à l'esprit sous-humain (42:10.4)
 	au début, la vie animale primordiale n'avait que la fonction de l'esprit d'intuition dans le comportement instinctif et réflexe (62:6.3-6)
 Esprit #2 – Compréhension
-	c'est le phénomène du raisonnement rapide, du jugement rapide et de la décision rapide (36:5.7) (65:7.6)
+	c'est le phénomène du raisonnement rapide, du jugement rapide et de la décision rapide (34:4.10) (36:5.7) (65:7.6)
 	le don d'association spontanée d'idées (36:5.7) (62:6.3-6)
 	ministres à l'esprit sous-humain (42:10.4)
 Esprit #3 – Le courage
@@ -695,12 +695,12 @@ le dirigeant actuel d'Urantia est assisté par un millier d'entre eux (39:4.3)
 ils forment le quatrième ordre des Séraphins et sont affectés aux tâches administratives des systèmes locaux. Ils sont originaires des capitales des systèmes mais on les trouve aussi dans les sphères architecturales et les mondes habités (39:4.1)
 Beaucoup de membres de cet ordre furent perdus dans la rébellion de Lucifer. C'était l'ordre le plus endommagé. Manotia était un ange loyal qui réussit à sauver les deux tiers d'entre eux, mais un tiers fut perdu. Sur Urantia, la situation fut plus désastreuse car environ la moitié des administrateurs Séraphins soutenaient la cause de Lucifer. (53:6.2,4) (53:7.6) (67:3.2)
 Leur résidence se situe dans les cercles de Jérusalem, plus précisément dans le quatrième cercle, et ils constituent un groupe très important (46:5.22).
-types (39:4)
+types (39:4.2)
 	Ils sont organisés pour le service de cette manière :
-	# assistants administratifs
-	# guides de justice
-	# interprètes de la citoyenneté cosmique
-	# stimulants de la moralité
+	# assistants administratifs (39:4.2-3)
+	# guides de justice (39:4.4-6)
+	# interprètes de la citoyenneté cosmique (39:4.7-9)
+	# stimulants de la moralité (39:4.10-14)
 	# transporteurs (39:4.15)
 	# enregistreurs (39:4.16)
 	# réserves (39:4.17-18)
@@ -738,7 +738,7 @@ L'amour de l'aventure suggère qu'avec la mort commence la découverte éternell
 Les personnalités spirituelles élevées ne s'adonnent pas à la satisfaction d'une curiosité sans but, ni à des aventures purement inutiles. (13:3.3)
 L'aventure suprême est celle de l'homme qui cherche et trouve Dieu (1:0.6) (155:5.10)
 
-conseil; conseiller; conseil | | | | OK
+avis; consultant; conseil; conseils | | | | OK
 les êtres célestes ne donnent jamais de conseils à moins qu'on leur demande (33:5.2) (43:4.2) (55:4.16)
 il est dit dans la mota morontielle qu'il faut donner des conseils seulement lorsqu'on le demande (48:7.16)
 Dans Le Livre d'Urantia, on trouve le conseil de Jésus à un homme riche lorsqu'il lui demanda ce qu'il ferait de sa richesse (132:5)
@@ -913,10 +913,10 @@ Alpha et Omega; le premier; le dernier | | | | OK
 Dieu est le premier et le dernier (10:7.1)
 Jésus est l'Alpha et l'Oméga, le commencement et la fin, le premier et le dernier (128:1.10)
 
-Alphée | | Jumeaux Alphée | PERSON | OK
+Alphée | | jumeaux Alphée | PERSON | OK
 Alphée est le père des apôtres Jacques et Judas Alphée (138:4.1)
 
-Jumeaux Alphée | (143:3.5) | apôtres de Jésus | PERSON | OK
+jumeaux Alphée | (143:3.5) | apôtres de Jésus | PERSON | OK
 Jacques et Judas Alphée, également appelés les jumeaux Alphée, étaient deux des apôtres de Jésus
 sa mère s'appelait Marie et son père Alphée (138:4.1) (189:4.4) (190:3.1)
 Jacques ou Jacob Alphée ou Thaddée
@@ -1245,7 +1245,7 @@ migrations des Andites (79) (80) (78:5-6)
 		ils ont migré vers l'Occident (80)
 		ils le font aussi en Orient (79)
 		Le Turkestan fut le premier destin avant de se tourner vers l'Europe et l'Orient (79:1)
-		Les Andites se déversèrent en Europe et dans la région méditerranéenne en un flot constant; il y eut sept invasions majeures, les derniers arrivants venant à cheval en trois grandes vagues (80:4,5,7,9) (80:9.9)
+		Les Andites se déversèrent en Europe et dans la région méditerranéenne en un flot constant; il y eut sept invasions majeures, les derniers arrivants venant à cheval en trois grandes vagues (80:4) (80:5) (80:7) (80:9.9)
 		Pendant trois mille ans, le quartier général militaire des Andites du Nord se trouvait au Danemark. (80:5.2)
 		Les Andites étaient les ancêtres des races dites nordiques, les ancêtres des peuples scandinaves, allemands et anglo-saxons. (80:4.5) (80:9.2)
 		Les Andites n'ont pas seulement migré vers l'Europe, mais aussi vers le nord de la Chine et l'Inde, tandis que de nombreux groupes ont pénétré jusqu'aux extrémités de la terre en tant que missionnaires, enseignants et commerçants. (78:5.5)
@@ -1567,7 +1567,7 @@ Relation avec Jésus
 	Jésus demanda à Joseph, son père, pourquoi notre Père céleste exigeait le massacre de tant d'animaux innocents et sans défense lors de sacrifices rituels. (124:6.14)
 	Dans la maison de Jésus, il y avait 3 vaches, 4 moutons, des poulets, un âne, des colombes et un chien (126:5.11)
 Animaux mentionnés
-	il y a un assez grand nombre d'espèces animales mentionnées dans Le Livre d'Urantia. Voir les références ci-dessous | alligators; ammonites; amphibiens; fourmiliers; antilopes; tatous; arthropodes; babouins; balanes; chauves-souris; ours; castors; oiseaux; bisons; brachiopodes; taureaux; papillons; buses; chameaux; pigeons voyageurs; chenilles; chats; bétail; mille-pattes; chimpanzés; palourdes; cafards; corail; coyotes; crabes; grillons; crinoïdes; crocodiles; crustacés; seiche; mammifères de l'aube; cerf; dinosaures; chiens; dauphins; ânes; colombes; libellules; exercices; canards; aigles; vers de terre; échinodermes; éléphants; faucons; poisson; flamants roses; foraminifères; renards; grenouilles; gastéropodes; gibbons; girafes; moucherons; chèvres; gaufres; gorilles; mouettes; hérons; hippopotames; chevaux; hyènes; méduse; kangourous; agneaux; sangsues; lémuriens; lions; lézards; lamas; homards; mammifères; mammouths; vie marine; martres; souris; mammifères moyens; mollusques; singes; bœuf musqué; poulpes; autruches; hiboux; bœufs; huîtres; panthères; perroquets; oiseaux voyageurs; nautile nacré; pécaris; pervenches; pigeons; marsouins; volaille; primates; protozoaires; ptérosaures; lapins; ratons laveurs; corbeaux; renne; reptiliens; rhinocéros; rongeurs; ruminants; tigres à dents de sabre; salamandres; coquilles Saint-Jacques; scorpions; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; joints; requins; mouton; crevettes; simiens; paresseux; escargots; serpents; moineaux; araignées; éponges; calmar; écureuils; étoile de mer; esturgeon; porcs; têtards; tapirs; tigres; trilobites; tortues; vipères; cochons d'eau; belettes; baleines; loups; yaks
+	il y a un assez grand nombre d'espèces animales mentionnées dans Le Livre d'Urantia. Voir les références ci-dessous | alligators; ammonites; amphibiens; fourmiliers; antilopes; tatous; arthropodes; babouins; balanes; chauves-souris; ours; castors; oiseaux; bisons; brachiopodes; taureaux; papillons; buses; chameaux; pigeons voyageurs; chenilles; chats; bétail; mille-pattes; chimpanzés; palourdes; cafards; corail; coyotes; crabes; grillons; crinoïdes; crocodiles; crustacés; seiche; mammifères de l'aube; cerf; dinosaures; chiens; dauphins; ânes; colombes; libellules; exercices; canards; aigles; vers de terre; échinodermes; éléphants; faucons; poisson; flamants roses; foraminifères; renards; grenouilles; gastéropodes; gibbons; girafes; moucherons; chèvres; gaufres; gorilles; mouettes; hérons; hippopotames; chevaux; hyènes; méduse; kangourous; agneaux; sangsues; lémuriens; lions; lézards; lamas; homards; mammifères; mammouths; vie marine; martres; mastodontes; souris; mammifères moyens; mollusques; singes; bœuf musqué; poulpes; opossums; autruches; hiboux; bœufs; huîtres; panthères; perroquets; oiseaux voyageurs; nautile nacré; pécaris; pervenches; pigeons; marsouins; volaille; primates; protozoaires; ptérosaures; lapins; ratons laveurs; corbeaux; renne; reptiliens; rhinocéros; rongeurs; ruminants; tigres à dents de sabre; salamandres; coquilles Saint-Jacques; scorpions; concombres de mer; lions de mer; serpents de mer; ascidies; oursins; vers marins; joints; requins; mouton; crevettes; simiens; paresseux; escargots; serpents; moineaux; araignées; éponges; calmar; écureuils; étoile de mer; esturgeon; porcs; têtards; tapirs; tigres; trilobites; tortues; vipères; cochons d'eau; belettes; baleines; loups; yaks
 
 animisme | | | | OK
 à l'époque de Jésus, on croyait que chaque rocher et chaque arbre étaient possédés par des esprits (121:7.12)
@@ -1746,7 +1746,7 @@ leurs noms:
 * Nathanael | Nathanael (Apôtre)
 * Matthieu Lévi | Matthieu Lévi
 * Thomas Didyme | Thomas Didyme
-* James Alphée | Jumeaux Alphée
+* James Alphée | jumeaux Alphée
 * Judas Alphée
 * Simon Zélotès | Simon Zélotès
 * Judas Iscariot | Judas Iscariot
@@ -1973,7 +1973,7 @@ Voir Hérode Archélaüs
 
 archéologie | | | | OK
 Le Livre d'Urantia offre des informations sur certains sites où nous pourrions faire d'importantes découvertes archéologiques non encore découvertes :
-* le premier Eden se trouve submergé sous l'extrémité orientale de la Méditerranée (73:7.1-2) (78:77)
+* le premier Eden se trouve submergé sous l'extrémité orientale de la Méditerranée (73:7.1-2) (78:7.7)
 * Vases et ustensiles ultérieurs de qualité inférieure à ceux des produits similaires des peuples andites (81:2.20)
 * nous pouvons trouver des vestiges de la deuxième civilisation du jardin dans les régions de la Mésopotamie et au nord-est et au nord-ouest (78:7.7)
 * À l'est des peuples Badonan, dans les collines Siwalik du nord de l'Inde, on peut trouver des fossiles qui se rapprochent davantage des types de transition entre l'homme et les divers groupes préhumains que n'importe quel autre sur terre. (64:3.4)
@@ -2474,13 +2474,13 @@ Les objets astronomiques nommés dans Le Livre d'Urantia sont :
 * Jupiter | Jupiter (planète)
 * Nuage de Magellan | Nuage de Magellan
 * Mars | Mars (planète)
-* Mercure | Mercure (planète)
+* Mercure | Mercure
 * La Voie Lactée | Voie Lactée
 * Monmatia | Monmatia
 * la lune (d'Urantia) | lune (d'Urantia)
 * Étoile polaire | Étoile polaire
 * Sagittaire | Sagittaire
-* Saturne | Saturne (planète)
+* Saturne | Saturne
 * le soleil | soleil (celui d'Urantia)
 * Umajor le cinquième | Umajor la cinquième
 * Uminor la troisième | Uminor la troisième
@@ -2603,7 +2603,7 @@ a essayé de détruire les mystères et de faire revivre la plus ancienne religi
 créa une nouvelle religion d'État romaine et, se proclamant lui-même dieu, n'hésita pas à encourager le culte de sa personne (98:3.7-8)
 > https://en.wikipedia.org/wiki/Augustus
 
-aurores boréales | | | | OK
+manifestations aurorales; aurores | | aurores boréales | | OK
 La hauteur de l'atmosphère terrestre est indiquée par les plus hautes aurores boréales, à environ quatre cents milles. Les phénomènes auroraux sont directement liés aux taches solaires (58:2.6-8)
 
 Australie | | aborigènes (australiens) | PLACE | OK

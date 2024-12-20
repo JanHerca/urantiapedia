@@ -88,7 +88,7 @@ potter (123:5.15) (124:1.3)
 
 Nathaniel (Apostle) | (139:6) (143:3.5) (144:1.7) (151:2.3) (164:0.1) (192:4.7) | apostles of Jesus | PERSON | 
 apostolic philosopher, dreamer (139:6.4) (147:4.10) (191:0.7)
-at Jesus’ appearances (191:2,5) (192:1-4) (193:0,3,5)
+at Jesus’ appearances (191:2.5) (192:1-4) (193:0.3,5)
 attended session of Sanhedrin (164:5.3)
 attitude
 	can any good come out of Nazareth? (137:2.6) (139:6.3)
@@ -676,7 +676,7 @@ vast ice sheets began to form 100,000 years ago (61:7.11)
 North Sea | | | PLACE | 
 waters once warm (63:5.2)
 
-northern lights | | | | 
+northern lights | | auroral displays | | 
 Urantia upper air belts concerned with (46:1.6)
 
 Norway | (61:5.8) | Scandinavians | PLACE | 

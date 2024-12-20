@@ -587,8 +587,8 @@ Les Fils Enseignants de la Trinité sont ceux qui assignent des Gardiens Célest
 
 influences célestes | | influences spirituelles | | OK
 
-musiciens célestes | (44:1.1-15) | artisans célestes | ORDER | OK
-les musiciens célestes sont un sous-type d'artisans célestes (44:1)
+musiciens célestes | | artisans célestes | ORDER | OK
+les musiciens célestes sont un sous-type d'artisans célestes (44:1.1-15)
 
 Surveillants Célestes | (37:6) | | ORDER | OK
 Les Surveillants Célestes font partie du groupe Universe Aids (37:1.7)
@@ -809,8 +809,8 @@ acquisition
 	Le mariage, avec ses relations multiples, est le mieux conçu pour susciter ces impulsions précieuses et ces motivations supérieures qui sont indispensables au développement d'un caractère fort. (160:2.6)
 	le caractère peut être perfectionné en partenariat avec Dieu (186:2.9)
 	Les caractères forts ne naissent pas du fait de ne pas faire le mal, mais plutôt du fait de faire le bien. (140:4.6)
-	l'hérédité est à la base de tout caractère; mais un héritage idéal n'est pas tout, l'influence d'un environnement inférieur a pratiquement neutralisé ce magnifique héritage (76:2.6)
 	La démonstration d'une compétence spécialisée ne signifie pas que l'on possède des capacités spirituelles. L'intelligence ne remplace pas le véritable caractère. (48:7.3)
+	l'hérédité est à la base de tout caractère; mais un héritage idéal n'est pas tout, l'influence d'un environnement inférieur a pratiquement neutralisé ce magnifique héritage (76:2.6)
 	La théorie morte des doctrines religieuses les plus élevées est impuissante à transformer le caractère humain. Ce dont le monde d'aujourd'hui a besoin, c'est de la vérité : « Non seulement en paroles, mais aussi en puissance et en Saint-Esprit. » (34:6.6)
 	Le fait de passer par la mort ne confère pas en soi un caractère noble. La vraie religion ne doit pas favoriser l'indolence morale et la paresse spirituelle en encourageant ce vain espoir (103:5.7)
 effets
@@ -885,7 +885,7 @@ fromage | | | | OK
 le fromage était un article courant à l'époque du personnel du Prince (66:5.5)
 Jésus a appris à traire la vache familiale et à faire du fromage (123:5.15)
 
-chimie | | chimie | | OK
+chimisme; chimie | | chimie | | OK
 
 chimie | | éléments (chimiques) | | OK
 faits chimiques
@@ -955,7 +955,7 @@ chef des Voix de Nébadon | | | PERSON | OK
 Le chef des Voix de Nébadon fait partie de l'ordre des seconaphins primaires; il est capable de refléter la voix de Michael aux Anciens des Jours sans que Michael ait besoin d'être présent (28:4.6-7)
 
 chef des chérubins d'Urantia | | | PERSON | OK
-conseillé aux receveurs de Melchizédek après la rébellion 67:6.5
+conseillé aux receveurs de Melchizédek après la rébellion (67:6.5)
 
 chef des séraphins d'Urantia | | | PERSON | OK
 le chef des séraphins d'Urantia est celui qui a conseillé les administrateurs judiciaires Melchizédek après la rébellion (67:6.5)
@@ -1057,11 +1057,11 @@ parmi les primitifs
 	Les adorateurs des ancêtres considèrent le fait de ne pas avoir de fils comme la calamité suprême pour tous les temps et l'éternité. (84:7.19)
 	au stade primitif des mariages pluriels, les enfants appartenaient à la mère (83:5.1) (83:7.1)
 	Les anciens ont toujours sacrifié les intérêts de la mère au bien-être de l'enfant; une mère esquimaude lèche même encore son bébé au lieu de le laver. (84:7.10)
-	C'était autrefois une pratique courante pour les mères primitives de tuer et de manger leurs propres enfants afin de renouveler la force perdue lors de la maternité (89:5.4).
 	les hommes primitifs désiraient beaucoup d'enfants non par affection mais comme travailleurs et comme assurance de vieillesse, ou pour les vendre contre d'autres avantages (84:7.11-19)
 infanticide
 	Les bébés filles étaient fréquemment tuées avant l'époque de l'achat des épouses. (68:6.8)
 	Il fut longtemps coutume pour une jeune fille de tuer sa progéniture, mais parmi les groupes plus civilisés, ces enfants illégitimes devenaient les pupilles de la mère de la jeune fille. (68:6.9)
+	C'était autrefois une pratique courante pour les mères primitives de tuer et de manger leurs propres enfants afin de renouveler la force perdue lors de la maternité (89:5.4).
 	à une certaine époque de l'histoire, il était de coutume de sacrifier les premiers-nés (89:6.6,8) (89:7.1,3)
 	Toutes les tribus primitives tuaient les enfants difformes et malades. Les enfants étaient parfois étranglés à la naissance (68:6.8) (84:1.4)
 	L'enseignement concernant l'amour du Christ pour les enfants a rapidement mis fin à la pratique répandue qui consistait à exposer les enfants à la mort lorsqu'ils n'étaient pas désirés, en particulier les bébés filles. (195:3.5)
@@ -1099,7 +1099,7 @@ fils de Dieu | foi fils de Dieu; filiation avec Dieu
 les parents sont les partenaires des Créateurs dans la création des enfants (167:5.7)
 Les enfants ne sont durablement impressionnés que par la loyauté de leurs associés adultes; les préceptes ou même l'exemple n'ont pas d'influence durable. (100:1.4)
 Lorsque les enfants sont jeunes et irréfléchis, ils doivent nécessairement être avertis d'honorer leurs parents (66:7.15) (93:4.13) (131:2.12) (149:6.6) (153:3.3) (163:2.4)
-pour entrer dans le royaume, il faut devenir aussi petit qu'un enfant, c'est-à-dire qu'il faut adopter l'attitude mentale et la réaction spirituelle essentielles pour accéder aux réalités spirituelles(181:2.20) (196:0.12)
+pour entrer dans le royaume, il faut devenir aussi petit qu'un enfant, c'est-à-dire qu'il faut adopter l'attitude mentale et la réaction spirituelle essentielles pour accéder aux réalités spirituelles (137:8.8) (140:10.4) (144:4.3) (149:6.11) (155:6.12) (170:2.21) (170:3.2) (181:2.20) (196:0.12)
 concernant les enfants qui décèdent avant l'âge du choix spirituel, voir crèche probatoire | crèche probatoire
 un enfant dépend entièrement de ses parents et de la vie familiale qui y est associée pour tous ses premiers concepts intellectuels, sociaux, moraux et même spirituels (177:2.5)
 Le travail de la femme découlait de la présence sélective de l'enfant; les femmes aiment naturellement les bébés plus que les hommes. (69:3.2)
@@ -1299,7 +1299,7 @@ influences
 	* Paul (5:4.14) (92:6.18) (98:7.9) (121:5.13-16) (170:5.3-6) (196:2.1)
 	* Philon (5:4.14) (92:6.18) (170:5.3)
 	* Le culte de la Grande Mère phrygienne, qui dérive du culte de Marie, la mère terrestre de Jésus (98:7.7)
-	* Platon, Grecs (5:4.12) (92:6.18) (98:0.1) (98:2.8) (98:7.10) (121:7.6-9) (146:1.3) (149:2.2) (170:5.2) (195:0-1) (195:3.6)
+	* Platon, Grecs (5:4.12) (92:6.18) (98:0.1) (98:2.8) (98:7.10) (121:7.6-9) (146:1.3) (149:2.2) (170:5.2) (195:0) (195:1) (195:3.6)
 	* Peuple romain (121:7.6) (195:2)
 	* Enseignements de Salem par Machiventa Melchizédek (98:0.1) (98:7.4)
 	* Simon Pierre (92:6.18)
@@ -2130,7 +2130,7 @@ le caractère de survie d'une âme n'est pas favorisé par la tentative d'obteni
 Jésus
 	Jésus s'est conformé aux souhaits de ses parents même s'il n'était pas d'accord avec eux (123:3.6) (123:4.3) (124:1.4-5,13) (124:4.9) (125:6.11-12)
 	il a décidé de ne pas recourir au compromis dans la poursuite de sa mission sur terre (136:8.4)
-	Jésus n'a répondu que partiellement aux attentes placées en lui, ce qu'il a choisi de faire lorsqu'il a vu qu'il ne serait jamais pleinement accepté dans son rôle de Fils de l'homme. (157:5.2) (157:6.6 ) (158:2.4)
+	Jésus n'a répondu que partiellement aux attentes placées en lui, ce qu'il a choisi de faire lorsqu'il a vu qu'il ne serait jamais pleinement accepté dans son rôle de Fils de l'homme. (157:5.2) (157:6.6) (158:2.4)
 	Jésus s'est conformé aux conditions préférées des Juifs pour obtenir une révélation : accomplir une œuvre puissante (167:4.5)
 	il n'a jamais esquivé la responsabilité de faire les ajustements quotidiens nécessaires entre ces domaines de loyauté envers ses convictions personnelles et de devoir envers sa famille (124:4.9) (124:6.18) (125:6.12) (127:6.12)
 	Jésus de Nazareth a refusé de faire des compromis avec le mal, et encore moins de s'associer au péché. (134:8.8) (136:8.8)
@@ -2558,8 +2558,8 @@ descendance
 	De ces unions naissent deux classes d'êtres : le type primaire des créatures médianes et certains types élevés d'êtres matériels qui restent attachés au bâton du prince après que leurs parents ont été retirés de la planète au moment de l'arrivée d'Adam et Eve. (50:3.5)
 	la progéniture finit comme administrateurs de la planète dans les ères de lumière et de vie (55:3.15)
 travailler sur les planètes
-	Les mortels primitifs accueillent généralement le Prince Planétaire et son personnel visible; en fait, ils les regardent souvent avec crainte et révérence, presque avec adoration, s'ils ne sont pas retenus. (52:1.8)
 	Une grande partie du travail physique lié à l'établissement de la ville siège est effectuée par le personnel corporel. (50:4.2)
+	Les mortels primitifs accueillent généralement le Prince Planétaire et son personnel visible; en fait, ils les regardent souvent avec crainte et révérence, presque avec adoration, s'ils ne sont pas retenus. (52:1.8)
 	Le bâton corporel du prince est généralement retiré de la planète à l'occasion du jugement suivant, au moment de l'arrivée du deuxième Fils sur la sphère. (50:3.4-6)
 
 erreur de corporéité | | | | OK
@@ -2749,12 +2749,12 @@ le conseil des soixante-dix était un conseil de soixante-dix membres choisis pa
 
 conseil sur l'alimentation et le bien-être matériel | | Cent de Caligastia | PERSON | OK
 
-conseil | | esprits mentaux adjuvats:5 – Conseil; conseil | | OK
+conseil | | esprits mentaux adjuvats:5 – Conseil; avis | | OK
 
 conseiller l'homme riche | (132:5) | | | 
 
 conseillers et conseillères | | | ORDER | OK
-Les conseillers et les conseillers sont des supernaphins secondaires du deuxième cercle de Havona, et sont les instructeurs des enfants du temps concernant la carrière de l'éternité. (26:10)
+Les conseillers et les conseillers sont des supernaphins secondaires du deuxième cercle de Havona, et sont les instructeurs des enfants du temps concernant la carrière de l'éternité. (26:10.1-7)
 Il existe une liaison spéciale entre les conseillers et les conseillers du deuxième cercle de Havona et ces anges réflecteurs. (28:5.19)
 
 contre-irritants | | | | OK
@@ -3121,7 +3121,7 @@ Pendant plusieurs milliers d'années, la crémation des morts était presque uni
 La crémation est une invention ultérieure destinée à prévenir les ennuis causés par les fantômes. (87:6.8)
 
 Crétacé; période crétacée; crétacées; ère, appelée crétacée | | âges géologiques | | OK
-Le Crétacé était l'ère des oiseaux et des plantes à fleurs, il y a 100 à 50 millions d'années (60:3-4)
+Le Crétacé était l'ère des oiseaux et des plantes à fleurs, il y a 100 à 50 millions d'années (60:3.1-22) (60:4.1-6)
 > https://en.wikipedia.org/wiki/Cretaceous
 
 Crète | (130:0.2) | | PLACE | OK
@@ -3207,7 +3207,7 @@ la croix
 	Simon de Cyrène porte la traverse à Jésus depuis les portes jusqu'au Golgotha (187:1.9-10)
 la signification de la croix
 	Le fait de la croix est devenu le centre même du christianisme ultérieur; mais ce n'est pas la vérité centrale de la religion qui peut être déduite de la vie et des enseignements de Jésus de Nazareth. (143:6.3)
-	Bien que Jésus ne soit pas mort sur la croix pour expier la culpabilité raciale de l'homme mortel, ni pour fournir une sorte d'approche efficace à un Dieu autrement offensé et impitoyable, bien que ces idées d'expiation et de propitiation soient erronées, il n'en demeure pas moins qu'Urantia est devenue connue parmi les autres planètes habitées voisines comme le « Monde de la Croix ». Jésus a vécu et est mort pour tout un univers, pas seulement pour les races de ce monde. (188:4-5)
+	Bien que Jésus ne soit pas mort sur la croix pour expier la culpabilité raciale de l'homme mortel, ni pour fournir une sorte d'approche efficace à un Dieu autrement offensé et impitoyable, bien que ces idées d'expiation et de propitiation soient erronées, il n'en demeure pas moins qu'Urantia est devenue connue parmi les autres planètes habitées voisines comme le « Monde de la Croix ». Jésus a vécu et est mort pour tout un univers, pas seulement pour les races de ce monde. (188:4)
 	La croix de Jésus illustre la pleine mesure du dévouement suprême du vrai berger, même pour les membres indignes de son troupeau. La mort de Jésus sur la croix illustre un amour suffisamment fort et divin pour pardonner le péché et engloutir toute mauvaise action. (188:5.1-7)
 	Sur d'autres mondes, ainsi que sur Urantia, ce spectacle sublime de la mort de l'homme Jésus sur la croix du Golgotha a suscité l'émotion des mortels, tandis qu'il a suscité la plus haute dévotion des anges. (188:5.8-12)
 	Nous savons que la mort sur la croix n'avait pas pour but de réconcilier l'homme avec Dieu, mais de stimuler l'homme à prendre conscience de l'amour éternel du Père et de la miséricorde infinie de son Fils, et de diffuser ces vérités universelles à l'univers entier. (188:5.13)

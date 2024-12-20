@@ -166,7 +166,7 @@ class TopicIndex {
 				let current = null;
 				let topicline = null;
 				lines.forEach((line, i) => {
-					let data, texts, refs, seeAlso, level, groups, img;
+					let data, text, refs, seeAlso, level, groups, img;
 					const tline = line.trim();
 					const err = this.getError('topic_err', baseName, i+1, tline);
 					if (line.startsWith('<')) {
@@ -238,30 +238,22 @@ class TopicIndex {
 						if (data.length === 0) {
 							errors.push(err);
 						} else if (data.length === 1) {
-							texts = tline.split(/\([^)]*\)/g)
-								.filter(i => i.trim() != '')
-								.map(i => i.trim());
-								// .map(i => i.trim().replace(/^\.|\.$/g, '').trim());
-							refs = this.extractRefs(tline);
+							[ text, refs ] = this.extractTextRefs(data[0]);
 							
-							if (texts.length === 0) {
+							if (text === "") {
 								errors.push(err);
 							} else {
-								topicline.text = texts[0];
+								topicline.text = text;
 								topicline.seeAlso = [];
 								topicline.refs = refs;
 							}
 							current.lines.push(topicline);
 						} else if (data.length === 2) {
-							texts = data[0].split(/\([^)]*\)/g)
-								.filter(i => i.trim() != '')
-								.map(i => i.trim());
-								// .map(i => i.trim().replace(/^\.|\.$/g, '').trim());
-							refs = this.extractRefs(data[0]);
-							if (texts.length === 0) {
+							[ text, refs ] = this.extractTextRefs(data[0]);
+							if (text === "") {
 								errors.push(err);
 							} else {
-								topicline.text = texts[0];
+								topicline.text = text;
 								topicline.seeAlso = data[1].split(';')
 									.filter(i => i.trim() != '')
 									.map(s => s.trim());
@@ -579,14 +571,18 @@ class TopicIndex {
 	};
 
 	/**
-	 * Extracts references from a text.
+	 * Extracts content and references from a text.
 	 * @param {string} text Text.
 	 * @return {Array.<string>}
 	 */
-	extractRefs = (text) => {
-		return text.replace(/[^()](?=([^()]*\([^()]*\))*[^()]*$)/g, '')
-			.split(/[()]/g)
-			.filter(i => i.trim() != '');
+	extractTextRefs = (text) => {
+		const refRegEx = /\(\d+[:.,\d-]*\)(?:\s+\(\d+[:.,\d-]*\))*/g;
+		const arr = [...text.matchAll(refRegEx)];
+		const refs = arr.length === 0 
+			? [] 
+			: arr[0][0].split(/[()]/g).filter(i => i.trim() != '');
+		const content = text.replace(refRegEx, '').trim();
+		return [content, refs];
 	};
 
 	/**

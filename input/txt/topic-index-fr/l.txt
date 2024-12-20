@@ -105,7 +105,7 @@ limites d'imposition foncière dans les nations continentales (72:7.6)
 la guerre est toujours causée par la pénurie (70:1.8)
 
 ponts terrestres | | | |
-Détroit de Béring (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1,2,6,13) (64:6.5) (79:5.6)
+Détroit de Béring (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1.2,6,13) (64:6.5) (79:5.6)
 disparition de certains (59:6.5)
 Chaîne anglaise (64:1.5-6) (64:2.6)
 Isthme de Gibraltar (61:3.8) (80:1.1) (80:2.4)
@@ -369,7 +369,7 @@ mettre le levain de la nouvelle vérité dans les vieilles croyances (178:1.16)
 Liban, maison de; maison du Liban | | | PLACE |
 Salomon a construit (97:9.16)
 
-Lébbée | | Jumeaux Alphée | PERSON |
+Lébbée | | jumeaux Alphée | PERSON |
 Judas Alphée également appelé (139:10.5)
 
 Lébona | (134:7.5) | | PLACE |
@@ -654,7 +654,7 @@ travailler sur Urantia
 	L'aventure d'Urantia pour (62:6) (65:4)
 	accueillit Adam (74:2.5)
 	travail de 24 gardiens (36:2.16) (36:3.2)
-a écrit les articles 57 à 65 (57:8,27) (58:7,13) (59:6,13) (60:4,7) (61:7,20) (62:7,8) (63:7,5) (64:7,21) (65:8,7)
+a écrit les articles 57 à 65 (57:8.27) (58:7.13) (59:6.13) (60:4.7) (61:7.20) (62:7.8) (63:7.5) (64:7.21) (65:8.7)
 
 ère de l'aube de la vie | (58:4) | | |
 Ère protérozoïque (58:7.1) (59:0.3)
@@ -769,7 +769,7 @@ la vie mortelle dans la lumière et la vie (55:5-6)
 	postes occupés conjointement par les hommes et les femmes (55:3.9)
 	semblable au premier monde des maisons, à l'exception des corps matériels (47:3.1)
 	imposition par la dîme (55:3.2-6)
-	champ de vision étendu; médians secondaires visibles (55:4,8)
+	champ de vision étendu; médians secondaires visibles (55:4.8)
 survivants mortels des planètes de lumière et de vie
 	exempté d'un ou plusieurs mondes de maisons (47:7.1) (49:6.15-16)
 	retourner en tant qu'enseignants dans les mondes qu'ils ont traversés (49:6.17) (55:2.9) (55:3.11)
@@ -813,7 +813,7 @@ têtes enneigées sur racines dans la boue (156:5.1)
 
 calcaire | (59:4.5) | | |
 converti en quartz, schiste et marbre (59:1.16) (59:3.1)
-dépôts (59:1.13) (59:2.3) (59:3,1,9) (59:5.8) (59:5.10) (60:1.4) (60:3.9) (61:1.13)
+dépôts (59:1.13) (59:2.3) (59:3.1,9) (59:5.8) (59:5.10) (60:1.4) (60:3.9) (61:1.13)
 résulte de précipitations chimiques ainsi que de dépôts marins (57:8.13)
 
 lions | | | |
@@ -1142,7 +1142,7 @@ se rendit à Sodome pour faire du commerce et de l'élevage (93:5.9)
 
 lotion | | pommade | | OK
 
-tirage au sort | | tirage au sort | | OK
+sort, tirage au | | tirage au sort | | OK
 
 Louisville | (59:4.6) | | PLACE |
 

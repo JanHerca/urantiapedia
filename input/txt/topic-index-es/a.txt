@@ -961,7 +961,7 @@ alter ego; álter ego | (91:3) | | | OK
 los niños cuando aprenden el lenguaje tienden a relacionarse con un alter ego ficiticio (91:3.1)
 una técnica de oración eficaz es volver al concepto del alter ego y reconocer que esta idea del alter ego ha evolucionado desde la ficción hasta la verdad de que Dios reside en nosotros mediante el Ajustador (91:3.7)
 
-altruismo; idealismo altruista; altruistas; impulsos altruistas; servicio altruista; altruista; desinterés | | caridad; egoísmo | | OK
+altruismo; idealismo altruista; altruistas; impulsos altruistas; servicio altruista; altruista | | caridad; egoísmo | | OK
 El Ajustador da origen al interés desinteresado en el bienestar de los demás; conduce a la felicidad (103:1.1) (103:2.7) (103:5.1,3)
 las diferencias en de categoría entre las razas y los grupos son esenciales para el desarrollo de la tolerancia y el altruismo (64:6.34)
 Todo ser humano experimenta muy pronto algún tipo de conflicto entre sus impulsos egoístas y sus impulsos altruistas (103:2.4,7-10)
@@ -1567,7 +1567,7 @@ Relación con Jesús
 	Jesús le preguntó a José su padre por qué el Padre celestial requería la carnicería de tantos animales inocentes e indefensos en los rituales de sacrificios. (124:6.14)
 	En la casa de Jesús tuvieron tres vacas, cuatro ovejas, gallinas, un burro, palomas y un perro (126:5.11)
 Animales mencionados
-	hay un buen número de especies animales mencionados en El Libro de Urantia. Véase las referencias abajo | caimanes; amonitas; anfibios; osos hormigueros; antílopes; simios; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; mapaches; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; sepias; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; langostas; mamíferos; mamuts; vida marina; martas; mastodontes; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; protozoos; pterosaurios; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; leones marinos; serpientes marinas; chorros de mar; erizos de mar; gusanos de mar; focas; tiburones; ovejas; camarones; simios; perezosos; caracoles; serpientes; gorriones; arañas; esponjas; calamares; ardillas; estrella de mar; esturión; cerdos; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; serpientes de agua; comadrejas; ballenas; lobos; yaks
+	hay un buen número de especies animales mencionados en El Libro de Urantia. Véase las referencias abajo | caimanes; amonitas; anfibios; osos hormigueros; antílopes; armadillos; artrópodos; babuinos; percebes; murciélagos; osos; castores; aves; bisonte; braquiópodos; toros; mariposas; buitres; camellos; palomas mensajeras; orugas; gatos; vacas; ciempiés; chimpancés; almejas; cucarachas; coral; coyotes; cangrejos; grillos; crinoideos; cocodrilos; crustáceos; sepias; mamíferos precursores; ciervo; dinosaurios; perros; delfines; burros; palomas; libélulas; perforadores (gasterópodos); patos; águilas; lombrices de tierra; equinodermos; elefantes; halcones; pez; flamencos; foraminíferos; zorros; ranas; gasterópodos; gibones; jirafas; mosquitos; cabras; topos; gorilas; gaviotas; garzas; hipopótamos; caballos; hienas; medusas; canguros; corderos; sanguijuelas; lémures; leones; lagartos; llamas; langostas; mamíferos; mamuts; vida marina; martas; mastodontes; ratones; mamíferos intermedios; moluscos; monos; bueyes almizcleros; pulpos; zarigüeyas; avestruces; búhos; bueyes; ostras; panteras; loros; aves pasajeras; nautilo; pecaríes; bígaros; palomas; marsopas; aves de corral; Primates; protozoos; pterosaurios; conejos; mapaches; cuervos; reno; reptiles; rinocerontes; roedores; rumiantes; tigres de dientes de sable; salamandras; vieiras; escorpiones; pepinos de mar; leones marinos; serpientes marinas; ascidias; erizos de mar; gusanos de mar; focas; tiburones; ovejas; camarones; simios; perezosos; caracoles; serpientes; gorriones; arañas; esponjas; calamares; ardillas; estrella de mar; esturión; cerdos; renacuajos; tapires; tigres; trilobites; tortugas; víboras; cerdos de agua; comadrejas; ballenas; lobos; yaks
 
 animismo | | | | OK
 en el tiempo de Jesús, cada roca y árbol que se creía que estaba poseído por los espíritus (121:7.12)
@@ -1855,7 +1855,7 @@ eran un grupo de 12 líderes designados como apóstoles por Juan (144:6.1)
 estos apóstoles recibieron primero su instrucción de Juan (135:6.8)
 la política y las preferencia egoístas provocaron muchas discusiones entre los discípulos de Juan (135:9.5)
 ungían a los enfermos con aceite, rito que se negaron a adoptar los apóstoles de Jesús (150:0.2)
-Jesús procuró que sus apóstoles mantuvieran buenas relaciones con los apóstoles de Juan (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (146:0.1) (146:3.9) (147:2.4 )
+Jesús procuró que sus apóstoles mantuvieran buenas relaciones con los apóstoles de Juan (141:3.3) (141:6.5) (143:3.1,5,7) (144:0.2) (144:6-7) (146:0.1) (146:3.9) (147:2.4)
 Jesús se negó a participar en las conferencias conjuntas en las que discutían con sus apóstoles (141:3.3)
 fueron finalmente ganados para la causa de Jesús (144:7.2) (162:9.1-5)
 nunca supieron por qué Jesús no evitó la muerte de Juan (141:1.4)
@@ -2603,7 +2603,7 @@ trató de destruir misterios y revivir la religión política más antigua (98:3
 creó una nueva religión estatal romana y proclamándose dios, no dudó en alentar la adoración a su persona (98:3.7-8)
 > https://es.wikipedia.org/wiki/Augusto
 
-auroras | | | | OK
+fenómenos aurorales; auroras | | auroras boreales | | OK
 Las fajas de luz más altas de las auroras —a unos seiscientos cuarenta kilómetros— indican el punto culminante de la atmósfera de la Tierra. Los fenómenos de las auroras están directamente relacionados con las manchas del Sol (58:2.6-8)
 
 Australia | | aborígenes (australianos) | PLACE | OK

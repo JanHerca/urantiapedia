@@ -61,7 +61,7 @@ démissionné de son poste de chef; s'est aligné sur Jésus (154:1.2)
 
 Jacques, Épître de | | Jacques (frère de Jésus):Épître de | |
 
-James Alpheus | | Jumeaux Alphée | PERSON | OK
+James Alpheus | | jumeaux Alphée | PERSON | OK
 
 Jacques (frère de Jésus) | (126:3.12) (126:4.9) (126:5.8) (127:2.11) (137:6.1,4) (154:5.1) | Jésus:famille | PERSON | OK
 né le 2 avril 3 av. J.-C.; deuxième enfant (123:1.5)
@@ -118,7 +118,7 @@ apôtre
 	Salomé a demandé la préférence pour (139:3.8) (171:0.4-7) (181:2.15)
 	raconte comment Jésus a interdit les hommes armés d'épée (183:4.2)
 	endormi à Gethsémané (182:3.1-4)
-	aux apparitions de Jésus (191:2.5) (192:1-4) (193:0,3,5)
+	aux apparitions de Jésus (191:2.5) (192:1-4) (193:0.3,5)
 	parmi 120 à la Pentecôte (194:0.1) (194:1.2)
 Enseignements de Jésus
 	Les avertissements de Jésus à (140:8.1) (174:0.2) (181:2.15) (192:2.8)
@@ -305,14 +305,14 @@ lieux du temple de Jérusalem
 le secret de la survie du judaïsme était la centralisation du culte à (121:2.6)
 le trésor pourrait contenir 10 millions de dollars (173:1.4)
 
-Gardes du temple de Jérusalem; gardes du temple; gardes juifs; gardes | | | PERSON | OK
+Gardes du temple de Jérusalem; gardes du temple; gardes juifs; gardes | | | PERSON | 
 type de soldats du temple
 en conférence avec Judas (182:2.13) (183:2.1)
 dispute avec les soldats romains sur l'endroit où emmener Jésus (183:5.1)
+se moquait de Jésus, il crachait sur lui, il le soufflait (184:4.1)
 devant le tombeau de Jésus (188:2.3)
 s'est enfui lorsque la pierre a été roulée loin du tombeau de Jésus (189:2.4)
 soudoyés pour dire que les disciples ont pris le corps de Jésus (189:2.4)
-se moquait de Jésus, il crachait sur lui, il le soufflait (184:4.1)
 ils jetèrent le linge funéraire de Jésus sur une falaise voisine (190:1.2)
 
 Jérusalem | (46) | sphères architecturales; mondes des manoirs; Satania | PLACE |
@@ -367,7 +367,7 @@ réception des émissions (46:3)
 vu dans des visions par Jean, Paul (34:4.11) (47:10.2-3)
 système n°24 de la constellation Norlatiadek (15:14.6)
 mondes culturels en transition
-	7 mondes 10 fois plus grands qu'Urantia qui tournent autour de J., chacun avec 7 satellites, nommés (15:7.5) (45:0-1)
+	7 mondes 10 fois plus grands qu'Urantia qui tournent autour de J., chacun avec 7 satellites, nommés (15:7.5) (45:1.1)
 		# monde des finalistes
 		# monde morontiel
 		# monde angélique
@@ -386,7 +386,7 @@ les apôtres croyaient que Jésus était le Fils éternel (157:5.1) (161:2.10)
 croyants destinés à atteindre la perfection en (142:7.15)
 Texte d'anniversaire d'Isaïe (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
 peut donner la vie éternelle (182:1.3)
-communiait seul avec Dieu (136:4.10) (144:1.8) (145:5.1-2) (147:0.1) (148:3) (151:0.1) (151:5.1) (152:4.1) (152:5.5,12) (153:5.2) (158:1.6) (160:1.10-12) (160:3.1) (163:6.1)
+communiait seul avec Dieu (136:4.10) (144:1.8) (145:5.1-2) (147:0.1) (148:3) (151:0.1) (151:5.1) (152:4.1) (152:5.5) (153:5.2) (158:1.6) (160:1.10-12) (160:3.1) (163:6.1)
 pourrait auto-limiter la conscience divine (161:3.2-3)
 la nature divine de Jésus est le fondement du royaume (157:4.5,7) (157:5.1) (191:5.3)
 ne dépeignez pas Jésus comme un homme de douleur (159:3.10)
@@ -477,7 +477,7 @@ attitudes de Jésus
 		tirer un avantage déloyal des adversaires (125:5.8)
 		renvoyer quelqu'un (149:2.6) (153:2.8) (166:3.3)
 attitudes envers Jésus
-	90 % des adeptes ont déserté après l'épisode de création du roi (152:5,2) (152:6,2)
+	90 % des adeptes ont déserté après l'épisode de création du roi (152:5.2) (152:6.2)
 	voici l'homme! (100:7.1) (186:2.11)
 	les gens ordinaires ont entendu avec joie (173:3.2) (174:4.7) (196:1.4)
 	les ennemis craignaient sa présence (100:7.4)
@@ -615,7 +615,7 @@ attitudes envers Jésus
 		# dans la cour de Nicodème (193:0.1)
 		# à Sychar (193:1)
 		# à Tyr (193:2)
-		# à Jérusalem (193:3.5)
+		# à Jérusalem (193:3.1)
 		apparut à travers des portes closes, dans le tableau (190:4.1) (191:2.1) (191:5.2)
 		il rompit le pain et le donna à Jean Marc (192:1.8)
 		Cléopas et Jacob ne savent pas que Jésus n'est pas un mortel (190:5)
@@ -722,7 +722,7 @@ Enseignements de Jésus | évangile:expliqué; royaume des cieux; religion:expli
 		* jeûne dans la chambre nuptiale (147:7.2)
 		* du vin nouveau dans des outres neuves (147:7.2) (176:1.7)
 		* coudre du tissu non rétréci sur un vieux vêtement (147:7.2)
-		* Travail (148:6)
+		* Travail (148:6.1-12)
 		* La lampe sous le boisseau (151:3.1)
 		* blé et mauvaises herbes (151:4.1)
 		* levain (151:4.3) (178:1.15)
@@ -778,8 +778,8 @@ Enseignements de Jésus | évangile:expliqué; royaume des cieux; religion:expli
 		* Qui d'entre vous me convainc de péché (100:7.16)
 		* soyez de bonne humeur (100:7.9) (153:5.4) (181:1.6)
 		* vous avez reçu gratuitement, donnez gratuitement (100:7.10) (140:9.2) (159:1.5) (163:1.4) (176:3.10) (191:4.4) (193:0.5)
-		* cherchez et vous trouverez (100:7.10) (144:2.3)
 		* N'ayez pas peur (100:7.15) (140:8.20) (165:3.3) (166:3.5)
+		* cherchez et vous trouverez (100:7.10) (144:2.3)
 		* aimez vos ennemis (103:5.2) (140:3.15) (140:8.6) (174:0.2)
 		* celui qui voudra sauver sa vie la perdra (103:5.6) (140:5.19) (158:7.5) (160:5.10) (174:5.8)
 		* si je suis élevé, j'attirerai tous les hommes à moi (108:4.1) (157:6.10) (174:5.13) (195:10.1)
@@ -855,18 +855,18 @@ Enseignements de Jésus | évangile:expliqué; royaume des cieux; religion:expli
 		* rendez à César ce qui est à César (140:8.9) (156:5.16) (174:2.2) (178:1.3) (181:2.10)
 		* Ne jugez pas, afin que vous ne soyez pas jugés (140:8.12) (145:2.6)
 		* soyez prudents comme les serpents et simples comme les colombes (140:8.13) (140:9.3) (163:1.3) (178:1.7)
-		* l'ouvrier mérite son salaire (140:9.3) (163:1.3)
 		* que te servirait-il de gagner le monde, si tu perdais ton âme ? (140:8.17) (158:7.5) (165:4.9)
+		* l'ouvrier mérite son salaire (140:9.3) (163:1.3)
 		* ne vous inquiétez pas de ce que vous devriez dire (140:9.3) (165:3.7) (176:1.1)
 		* J'irai devant toi (140:9.3) (181:2.24,26) (193:2.2)
 		* devenir comme de petits enfants pour entrer dans le royaume (140:10.4)
 		* mon joug est facile et mon fardeau léger (141:3.7) (159:3.7)
 		* Ne résistez pas au mal (141:3.8)
-		* Ne vous disputez pas avec les hommes – soyez toujours patient (141:6.4)
 		* Quand ai-je enseigné que vous devriez tous voir de la même manière ? (141:5.1)
+		* Ne vous disputez pas avec les hommes – soyez toujours patient (141:6.4)
 		* ce n'est pas votre royaume; vous n'êtes que des ambassadeurs (141:6.4)
-		* L'Esprit témoigne à votre esprit que vous êtes enfants de Dieu (142:5.3)
 		* la vérité vous rendra libre (141:7.6) (162:7.2)
+		* L'Esprit témoigne à votre esprit que vous êtes enfants de Dieu (142:5.3)
 		* mon esprit marchera devant toi (142:7.17) (178:1.7)
 		* à moins que vous ne soyez né de nouveau, vous n'entrerez pas dans le royaume (142:6.4-5) (166:3.7)
 		* celui qui se gouverne lui-même est plus grand que celui qui prend une ville (143:2.3)
@@ -1117,7 +1117,7 @@ personnalité et nature (100:7)
 	lentille spirituelle qui rend visible Celui qui est invisible (169:4.13)
 	enseignant, pas prédicateur (141:7.10)
 	pensez à la justice plutôt qu'à l'absence de péché (5:4.15)
-	traits (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4,6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:10.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) ( 181:1.8-9) (184:3.19) (184:4.5-6) (186:2) (186:4.3) (187:2.3-4) (194:3.3)
+	traits (196) (124:2.4-5) (126:2.7) (127:3.7) (127:4.4) (127:6.12-16) (129:1.9) (129:3.8) (129:4) (136:0.1) (137:4.2,4) (137:7.2) (138:8.9) (139:1.11) (139:2.5) (139:3.6) (139:4.6,9) (139:5.6) (139:6.8) (139:7.4) (139:8.7) (139:10.6-7) (139:11.5) (140:8.30) (141:3.4-6) (141:7.10-14) (142:7.15) (143:2.1) (149:2.6-14) (149:4.5) (151:0.2) (161:2) (171:7) (173:1.6) ( 181:1.8-9) (184:3.19) (184:4.5-6) (186:2) (186:4.3) (187:2.3-4) (194:3.3)
 	traits hérités de Joseph et Marie (122:5.3-4)
 	consacré sans réserve aux affaires du Père (100:7.12)
 	Parole faite chair | parole de Dieu
@@ -1334,7 +1334,7 @@ Temple détruit sur le mont Garizim (143:4.2)
 Jean Marc | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON |
 s'est approché de Jésus avec un petit panier (177:0.4)
 associé à Pierre; plus tard, à Paul (121:8.3)
-aux apparitions de Jésus (192:1,2,4)
+aux apparitions de Jésus (192:1.2,4)
 garçon de toutes les corvées (152:2.5)
 mort du père (192:4.5)
 le désir du cœur n'est pas nié (176:1.2-3)
@@ -1461,7 +1461,7 @@ présent
 	endormi à Gethsémané (182:3.1-4)
 	à la crucifixion, seul apôtre (139:4.10) (183:4.5) (187:2.7) (187:3.2) (187:5.1,4)
 	au tombeau vide (189:5)
-	aux apparitions de Jésus (191:2.5) (192:1-4) (193:0,3,5)
+	aux apparitions de Jésus (191:2.5) (192:1-4) (193:0.3,5)
 	lors de l'interrogatoire de Jésus par Pilate (185:3.1)
 	à la transfiguration (158:0.2) (158:2.5)
 	dans la pièce voisine pendant l'humiliation de Jésus (184:4.2)
@@ -1754,7 +1754,7 @@ le secret de la survie était la centralisation du culte à Jérusalem (121:2.6)
 frange tolérée de croyants gentils (121:2.5)
 divers titres de divinité définis (96:1.2-10)
 
-Judas Alphée | | Jumeaux Alphée | PERSON | OK
+Judas Alphée | | jumeaux Alphée | PERSON | OK
 
 Judas Iscariot | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apôtres de Jésus | PERSON | OK
 Judas Iscariot était le douzième apôtre. Il fut choisi par Nathanaël, et plus tard confirmé dans cette élection par Jésus. Il naquit à Kerioth, une petite ville du sud de la Judée. Lorsqu'il était jeune, ses parents s'installèrent à Jéricho, où il vécut et travailla dans les diverses entreprises commerciales de son père jusqu'à ce qu'il s'intéresse à la prédication et à l'œuvre de Jean-Baptiste. (139:6.2) (139:12.1-2)

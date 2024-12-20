@@ -118,7 +118,7 @@ Sangik races born into existence thanks to Badonites (64:5.2-3)
 Baganda tribes | | | RACE | OK
 The Baganda tribes of Africa have only recently emerged from the mana level of prayer. (91:0.5)
 
-balance; imbalance; balanced | | symmetry | | OK
+balance; imbalance; balanced | | poise; symmetry | | OK
 In Palestine, human thought was so priest-controlled and scripture-directed that philosophy and aesthetics were entirely submerged in religion and morality. (97:10.5) (98:2.7-9)
 But Greek morals, ethics, and philosophy presently advanced far beyond the god concept, and this imbalance between intellectual and spiritual growth was as hazardous to Greece as it had proved to be in India. (98:1.6)
 the religionin Greece as a personal experience failed to keep pace with the intellectual probings into the nature and reality of the cosmos. (98:2.7-9)
@@ -144,7 +144,7 @@ bank (moral); moral bank | | | | OK
 Scientists have unintentionally precipitated mankind into a materialistic panic; they have started an unthinking run on the moral bank of the ages, but this bank of human experience has vast spiritual resources; it can stand the demands being made upon it. (195:6.1)
 
 banking; interés de los préstamos; banker | | money-changers; usury | | OK
-ancient interest rate was 100% a year, which was another way of enslavement (69:5.6)
+ancient interest rate was 100% a year, which was another way of enslavement (69:5.8)
 early creditors controlled body after death (69:5.8)
 The early banker was the valorous man of the tribe. (69:5.2)
 It was among these enlightened groups educated in the Dalamatia schools that the first commercial credit was practiced. (66:5.12)
@@ -439,7 +439,7 @@ Bethabara | | Bethany beyond Jordan | PLACE | OK
 Bethany beyond Jordan; Bethany beyond the Jordan; Bethany ford of the Jordan; Bethany in Perea; Bethany ford; Bethany ford of the Jordan | | | PLACE | OK
 Called Bethany ford of river Jordan, Bethany in Perea, and also Bethabara, it was a ford in Jordan river (171:2.1)
 John preached four months at Bethany ford before starting north up the Jordan. He returned a year later to preach there again. (135:6.5) (135:10.2)
-Jesus and the apostles preached in this place for the first time in February 27, in the same place where John preached (141:7)
+Jesus and the apostles preached in this place for the first time in February 27, in the same place where John preached (141:7.1-2)
 The disciples of John remained at Bethany beyond the Jordan, teaching and baptizing the multitudes. (141:9.2)
 > https://en.wikipedia.org/wiki/Al-Maghtas
 
@@ -752,7 +752,7 @@ The ancients always revered the bones of their leaders, and the skeletal remains
 The bones of the dead were believed to be very magical. (88:5.2)
 Latins preserved the bones of heroes and later on those of the Christian saints. (98:3.4)
 
-Books | | | | OK
+books | | | | OK
 Books mentioned in The Urantia Book:
 * Genesis (74:8) | Genesis, Book of
 * Deuteronomy (97:8.3) (150:8.8) (153:2.1) | Deuteronomy
@@ -761,10 +761,10 @@ Books mentioned in The Urantia Book:
 * Ecclesiastes (97:8.2) | Ecclesiastes
 * The Book of Wisdom (95:4.3,5) | Ecclesiastes
 * The Book of Proverbs (95:4.3,5) | Proverbs
-* The Book of Job (96:7.1) | Job
+* The Book of Job (96:7.1) | Job (book)
 * Acts of the Apostles (121:8.8) | Acts, Book of
 * The Book of Enoch (126:3.6,8) (136:1.6) | Enoch:Book of
-* The Book of Hebrews | Hebrews, Book of
+* The Book of Hebrews (93:9.11) (196:2.1) | Hebrews, Book of
 * Revelations (139:4.14) | Revelations, Book of
 * The Book of the Dead (95:2.5) | Dead, Book of the
 * The Book of Life. The Custodians of knowledge are that living books (27:5.1)

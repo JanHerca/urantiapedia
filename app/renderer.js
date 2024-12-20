@@ -2099,7 +2099,6 @@ const setTITopicLineAsSelected = (htmlElement) => {
 
 const requestOpenAI = async (evt) => {
 	//TODO: Show Requesting and block controls
-	//TODO: Syntax colorizer for Topic Index files
 	if (openai) {
 		const n = $(evt.currentTarget)
 			.closest('.input-group').attr('data-topic');

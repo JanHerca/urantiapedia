@@ -587,7 +587,7 @@ Los Hijos Instructores Trinitarios son quienes asignan a los Guardianes Celestia
 
 influencias celestiales | | influencias espirituales | | OK
 
-Músicos Celestiales; músicos celestiales | (44:1.1-15) | Artesanos Celestiales | ORDER | OK
+Músicos Celestiales; músicos celestiales | | Artesanos Celestiales | ORDER | OK
 Los Músicos Celestiales son un subtipo de los Artesanos Celestiales (44:1.1-15)
 
 Supervisores Celestiales | (37:6) | | ORDER | OK
@@ -885,7 +885,7 @@ queso | | | | OK
 el queso fue un producto común en los días del personal del Príncipe (66:5.5)
 Jesús aprendió a ordeñar la vaca familiar y a hacer queso (123:5.15)
 
-quimio | | química | | OK
+quimismo; química | | química | | OK
 
 química | | elementos (químicos) | | OK
 hechos químicos
@@ -1056,11 +1056,11 @@ entre primitivos
 	En la sociedad más primitiva, la horda lo es todo; incluso los niños son su propiedad común. (70:3.1)
 	Los practicantes del culto a los antepasados consideran el no tener hijos como la calamidad suprema de todos los tiempos y de la eternidad. (84:7.19)
 	en la etapa primitiva de los matrimonios plurales los niños pertenecían a la madre (83:5.1) (83:7.1)
-	Las solteras tuvieron durante mucho tiempo la costumbre de matar a sus hijos, pero entre los grupos más civilizados estos hijos ilegítimos se ponían bajo la tutela de la madre de la joven. (68:6.9)
 	Los antiguos sacrificaban siempre los intereses de la madre a favor del bienestar del hijo; las madres esquimales lamen todavía a sus bebés en lugar de lavarlos. (84:7.10)
 	los hombres primitivos deseaban muchos hijos no por afecto sin como trabajadores y como seguro de vejez, o para venderlos y obtener otros beneficios (84:7.11-19)
 infanticio
 	Antes de la época en que se compraban a las esposas, a las recién nacidas las mataban con frecuencia. (68:6.8)
+	Las solteras tuvieron durante mucho tiempo la costumbre de matar a sus hijos, pero entre los grupos más civilizados estos hijos ilegítimos se ponían bajo la tutela de la madre de la joven. (68:6.9)
 	Las madres primitivas tuvieron en otro tiempo la costumbre general de matar y comerse a sus propios hijos a fin de renovar las fuerzas que habían perdido en el parto (89:5.4)
 	en cierto momento fue costumbre habitual sacrificar a los primogénitos (89:6.6,8) (89:7.1,3)
 	todas las tribus primitivas mataban a los niños deformes o enfermizos. A los niños los estrangulaban a veces al nacer (68:6.8) (84:1.4)
@@ -1299,7 +1299,7 @@ influencias
 	* Pablo (5:4.14) (92:6.18) (98:7.9) (121:5.13-16) (170:5.3-6) (196:2.1)
 	* Filón (5:4.14) (92:6.18) (170:5.3)
 	* El culto de la Gran Madre frigia, que derivó en el culto a María, la madre terrenal de Jesús (98:7.7)
-	* Platón, griegos (5:4.12) (92:6.18) (98:0.1) (98:2.8) (98:7.10) (121:7.6-9) (146:1.3) (149:2.2) (170:5.2) (195:0-1 s) (195:3.6)
+	* Platón, griegos (5:4.12) (92:6.18) (98:0.1) (98:2.8) (98:7.10) (121:7.6-9) (146:1.3) (149:2.2) (170:5.2) (195:0) (195:1) (195:3.6)
 	* El pueblo romano (121:7.6) (195:2)
 	* Las enseñanzas de Salem hechas por Maquiventa Melquisedec (98:0.1) (98:7.4)
 	* Simón Pedro (92:6.18)
@@ -1622,7 +1622,7 @@ la sociedad primitiva
 	La sociedad primitiva estaba reglamentada sobre la teoría de que los miembros de un grupo debían interesarse por la conducta de cada individuo, y tener cierto grado de control sobre ella. (70:10.4)
 	El factor principal de la civilización primitiva era la fuerza que ejercían los sabios jefes sociales (81:6.14)
 	Los chinos fueron el primero que logró una solidaridad racial —el primero que alcanzó una civilización cultural, social y política a gran escala. (79:6.8)
-	Durante cerca de treinta y cinco mil años después de la época de Adán, la cuna de la civilización estuvo en el suroeste de Asia, extendiéndose desde el valle del Nilo hacia el este y ligeramente hacia el norte a través del norte de Arabia, por toda Mesopotamia y continuando hasta el Turquestán. (81:1)
+	Durante cerca de treinta y cinco mil años después de la época de Adán, la cuna de la civilización estuvo en el suroeste de Asia, extendiéndose desde el valle del Nilo hacia el este y ligeramente hacia el norte a través del norte de Arabia, por toda Mesopotamia y continuando hasta el Turquestán. (81:1.1)
 	Los primeros grandes avances fueron el fuego, la domesticación de animales, la esclavitud y la propiedad privada (69:6-9) (81:2.7)
 	La civilización de Urantia se forjó literalmente entre el yunque de la necesidad y los martillos del miedo. (66:5.13)
 	La sociedad primitiva se fundó así sobre las necesidades recíprocas y sobre el aumento de la seguridad que proporcionaba la asociación. (68:1.3)
@@ -2012,9 +2012,9 @@ El conocimiento y la sabiduría se vuelven acumulativos debido a la capacidad de
 comunicación celestial
 	los Transmisores, unos Serafines superiores, utilizan una técnica ideográfica capaz de transmitir simultáneamente 144.000 mensajes (39:2.15)
 	el jefe de las Brillantes Estrellas Vespertinas está encargado de la custodia y el envío de todos los mensajes personales (39:2.17)
-	Un universo local está plenamente provisto de los medios de intercomunicación adecuados, pero a veces se requieren mensajeros personales (39:2.17)
-	el «arpa de Dios», un aparato morontial, permite recibir las comunicaciones perfeccionadas del espacio (47:10.2)
 	los Manipuladores de la Energía mental son los expertos en las comunicaciones entre los seres morontiales y otros tipos de seres inteligentes. (44:5.3)
+	el «arpa de Dios», un aparato morontial, permite recibir las comunicaciones perfeccionadas del espacio (47:10.2)
+	Un universo local está plenamente provisto de los medios de intercomunicación adecuados, pero a veces se requieren mensajeros personales (39:2.17)
 	la comunicación es una de las materias de estudio en la Universidad Melquisedek (35:3.20)
 	los métodos de comunicación del Paraíso sobrepasan la capacidad de comprensión de la mente humana: una hora de instrucción en el Paraíso equivale a diez mil años de métodos de memorización de Urantia. (27:6.4)
 comunicaciones planetarias
@@ -2551,8 +2551,8 @@ Los Portadores de Vida les proporcionaron a estos voluntarios unos nuevos cuerpo
 Los cien, aunque están exentos de las enfermedades, están sometidos, al igual que los cuerpos morontiales iniciales, a los accidentes. (50:3.3)
 su inmortalidad era sostenida por el árbol de la vida (73:6.4)
 origen
-Estos asistentes voluntarios son ciudadanos de la capital de un sistema, y ninguno de ellos ha fusionado con su Ajustador interior. (50:3.2)
-Aunque este grupo disfrutaba de la ciudadanía provisional de Jerusem, sus miembros aún no habían fusionado con sus Ajustadores del Pensamiento; cuando se ofrecieron como voluntarios y fueron aceptados para el servicio planetario en unión con las órdenes descendentes de filiación, sus Ajustadores se separaron de ellos. (50:3.2,6) (66:4.9) (67:4.5)
+	Estos asistentes voluntarios son ciudadanos de la capital de un sistema, y ninguno de ellos ha fusionado con su Ajustador interior. (50:3.2)
+	Aunque este grupo disfrutaba de la ciudadanía provisional de Jerusem, sus miembros aún no habían fusionado con sus Ajustadores del Pensamiento; cuando se ofrecieron como voluntarios y fueron aceptados para el servicio planetario en unión con las órdenes descendentes de filiación, sus Ajustadores se separaron de ellos. (50:3.2,6) (66:4.9) (67:4.5)
 descendencia
 	Estos asistentes del Príncipe Planetario raras veces se emparejan con las razas del mundo, pero siempre se emparejan entre ellos. (50:3.4-5)
 	Estas uniones producen dos clases de seres: el tipo primario de criaturas intermedias y ciertos tipos elevados de seres materiales que permanecen vinculados al estado mayor del príncipe después de que sus padres han sido retirados del planeta en el momento de la llegada de Adán y Eva. (50:3.5)
@@ -2611,7 +2611,7 @@ compañías
 destino
 	El destino actualmente conocido de los mortales sobrevivientes es el Cuerpo Paradisiaco de la Finalidad (112:7.15)
 	los niños que han sido privados de la valiosa y esencial experiencia evolutiva en los mundos donde nacen los mortales, y que pasan por las guarderías probatorias, no son enrolados en el Cuerpo de la Finalidad. (47:2.8)
-	se especula que el destino de los finalitarios mortales estará en el espacio exterior, en los universos que se están organizando actualmente en el espacio exterior (12:2.6) (30:4.33) (31:0.8) (31:3.2-8) (31:7.4-5) (31:10.13-19) (48:8.4) (112:7.16- 18)
+	se especula que el destino de los finalitarios mortales estará en el espacio exterior, en los universos que se están organizando actualmente en el espacio exterior (12:2.6) (30:4.33) (31:0.8) (31:3.2-8) (31:7.4-5) (31:10.13-19) (48:8.4) (112:7.16-18)
 	hay quienes sostienen que la identidad del alma de Jesús descansa ahora en el «seno del Padre», y que posteriormente será liberada para dirigir el Cuerpo de la Finalidad de Nebadon hacia su destino no revelado relacionado con los universos del espacio exterior. (188:3.8)
 admisión mortal al cuerpos finalitarios
 	en el séptimo jubileo los finalitarios se convierten en espíritus de sexto grado al prestar el juramento que los enrola para siempre en la tarea para la eternidad del Cuerpo de la Finalidad de los Mortales. (31:3.4) (27:7.8)
@@ -2905,7 +2905,7 @@ los planes de los Hijos Creadores para organizar, hacer evolucionar, disciplinar
 los Hijos Creadores Soberanos se acercan a las criaturas de sus mundos habitados y «atraen a todos los hombres hacia ellos» (1:4.2)
 su número actual es de más de 700.000, y es constantemente creciente. No hay límite al número de ellos que puede haber (21:1.4) (33:4.2)
 los Hijos Creadores aspiran a copiar en el tiempo y a reproducir en el espacio el universo modelo, Havona, en su propio universo local (14:0.2) (14:6.27-31) (54:2.1)
-el que ha visto a un Hijo Creador ha visto al Padre (1:5.5-6) (6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9 ) (182:1.9)
+el que ha visto a un Hijo Creador ha visto al Padre (1:5.5-6) (6:2.2) (20:5.1) (20:6.5) (32:3.6) (107:0.4) (157:6.13) (180:3.9) (182:1.9)
 la carrera de descubrimiento experiencial para comprender a Dios empieza por el reconocimiento de la divinidad del Hijo Creador del universo local (0:8.9)
 aparecen en los registros de personalidades (30:1.31) (30:2.39)
 Quiénes son
@@ -2934,9 +2934,9 @@ denominaciones
 origen
 	Cuando la plenitud de una ideación espiritual absoluta en el Hijo Eterno se encuentra con la plenitud de un concepto absoluto de personalidad en el Padre Universal un nuevo Hijo Creador original en plena posesión de sus capacidades surge como un relámpago a la existencia (21:1)
 	Los Hijos Paradisiacos de Dios tienen un origen triple: los Hijos Creadores o primarios son traídos a la existencia por el Padre Universal y el Hijo Eterno. Constituyen la orden de Miguel (20:1) (21:0.3-5)
-	Cada vez que el Padre Universal y el Hijo Eterno proyectan conjuntamente un pensamiento personal nuevo, original, idéntico, único y absoluto, en ese mismo instante esta idea creativa se personaliza de manera perfecta y final en el ser y la personalidad de un Hijo Creador nuevo y original. (7:6.3) (20:1.11) (20:10.3) (21:0.1) (21:1.1-2)
 	los Hijos Creadores son divinamente semejantes a sus padres Paradisiacos, pero ninguno se parece exactamente a otro. Por eso sus dominios son muy diversos (21:2.10) (32:3.3) | universos locales
 	El observar a los Hijos Creadores revela que algunos se parecen más al Padre, otros al Hijo, mientras que otros son una mezcla de sus dos padres infinitos. (33:2.1)
+	Cada vez que el Padre Universal y el Hijo Eterno proyectan conjuntamente un pensamiento personal nuevo, original, idéntico, único y absoluto, en ese mismo instante esta idea creativa se personaliza de manera perfecta y final en el ser y la personalidad de un Hijo Creador nuevo y original. (7:6.3) (20:1.11) (20:10.3) (21:0.1) (21:1.1-2)
 	cada Miguel Paradisiaco es el absoluto de los dobles conceptos divinos que le dieron origen; personifica por tanto unas fases reales de la infinidad del Padre Universal y del Hijo Eterno. (21:6.1)
 	Un Hijo Creador pasa un largo período de entrenamiento preliminar (17:6.4) (21:2.1) (28:1.1) (28:4.6)
 	A un Hijo Creador se le permite elegir el lugar espacial de su futura actividad cósmica, pero antes de que pueda empezar siquiera la organización física de su universo, debe pasar por un largo período de observación dedicado al estudio (21:2.1)
