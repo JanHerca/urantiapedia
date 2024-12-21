@@ -482,7 +482,7 @@ Lieja | | | |
 asentamiento danubiano más al norte (80:8.4)
 
 vida | | vida eterna; vivir | | 
-biológico
+biológica
 	Diez órdenes de vida en esferas arquitectónicas (43:6.4,7)
 	abundante evidencia de planificación inteligente (65:4.3)
 	mundos de acreción en relación adecuada con el sol mejor para (15:6.14)
@@ -861,9 +861,7 @@ llamas | (61:2.9) (61:4.4) (61:7.15) | | |
 
 panes | | pan | | OK
 
-langostas | (59:1.18) (60:2.9) | crustáceos | | 
-las langostas aparecieron junto al resto de insectos (59:5.7)
-Juan el Bautista comió langostas (135:3.1)
+langostas (crustáceos) | (59:1.18) (60:2.9) | crustáceos | | 
 
 Centros de los sistemas locales; Centros de los sistemas | | Centros Supremos del Poder; Directores del Poder Universal | ORDER | 
 1 funciones en cada sistema local (29:2.18) (41:1.5)
@@ -1076,6 +1074,10 @@ trabajo de las comisiones conciliadoras para (25:3.9-10)
 
 ubicación | | | | 
 imposible determinar simultáneamente la ubicación exacta y la velocidad del objeto en movimiento (65:6.1)
+
+langostas (insectos) | | insectos | | 
+las langostas aparecieron junto al resto de insectos (59:5.7)
+Juan el Bautista comió langostas (135:3.1)
 
 lógica | | argumentos; mente mortal | | 
 La ausencia de pensamiento razonado en presencia de perplejidad explica grandes inconsistencias (86:5.3)

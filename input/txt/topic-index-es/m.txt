@@ -1323,7 +1323,7 @@ región mediterránea | | puertos; mar Mediterráneo | PLACE |
 Los anditas se trasladaron a las islas de (78:6.8) (80:7)
 área de razas altamente mezcladas (78:1.11)
 civilización interrumpida por las inundaciones en el año 15.000 a.C. (78:3.7)
-geología (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1.1) (64:7.1) (80:2.4 -5)
+geología (59:3.6) (60:1.12) (60:2.7) (61:1.12) (61:3.8) (61:4.2) (62:1.2) (64:1.1) (64:7.1) (80:2.4-5)
 comercio de tierras casi suspendido durante las invasiones nómadas hacia el 2500 a.C.; comercio marítimo en pleno apogeo (80:9.9)
 Sede de Onagar (63:6.7)
 protegido por el istmo de Gibraltar y el puente terrestre de Sicilia en los primeros días de la raza violeta; inundaciones tras su colapso (80:1.1) (80:2.4-5)

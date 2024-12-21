@@ -1744,7 +1744,7 @@ Dans une parabole, Jésus utilise l'idée de discerner le temps qu'il fait : « 
 Cloa | | | PERSON | OK
 Marie, la mère de Jésus, était une descendante de Cloé (122:1.2)
 
-manteau | | | | OK
+manteau; manteaux | | | | OK
 Jésus portait le manteau, un vêtement juif typique (187:2.8)
 Quand Jésus dit à ses apôtres qu'ils devraient, lorsque l'un d'eux enlevait injustement la tunique, offrir le vêtement de l'autre, il ne faisait pas tellement allusion à un second manteau littéral, mais plutôt à l'idée de faire quelque chose de positif pour sauver le malfaiteur, à la place du vieux conseil « œil pour œil » (159:5.11).
 
@@ -1811,8 +1811,7 @@ déposition (60:2.7) (60:3.9) (61:2.3)
 	Le Carbonifère était l'ère du charbon (59:5)
 	Il y a 200 millions d'années, les phases réellement actives de la période carbonifère commencèrent. Pendant vingt millions d'années avant cette époque, les premiers gisements de charbon se déposaient (59:5.13)
 
-manteau | | | | OK
-Quand Jésus dit à ses apôtres qu'ils devraient, lorsque l'un d'eux enlevait injustement la tunique, offrir le vêtement de l'autre, il ne faisait pas tellement allusion à un second manteau littéral, mais plutôt à l'idée de faire quelque chose de positif pour sauver le malfaiteur, au lieu du vieux conseil de se venger – « œil pour œil » et ainsi de suite. (159:5.11)
+cape; vêtement | | manteau | | OK
 
 coq | | volaille | | OK
 
@@ -2232,7 +2231,7 @@ rituel ancien
 	Au temps de Melchizédek, ils pensaient que si quelqu'un disait : « J'ai péché et j'ai perverti ce qui est juste, et cela ne m'a servi à rien », Dieu délivrerait son âme de la fosse, et il verrait la lumière. (96:7.7) (130:8.2)
 	Pour les pharisiens, la dévotion était un moyen d'induire une inactivité pharisaïque et l'assurance d'une fausse sécurité spirituelle; la dévotion devrait être un moyen d'inciter l'âme à prendre conscience de la nécessité de la repentance, de la confession et de l'acceptation, par la foi, du pardon miséricordieux. (167:5.2)
 
-confiance | | confiance en soi | | OK
+confidence | | confiance en soi; confiance | | OK
 
 se confier | | partage | | OK
 

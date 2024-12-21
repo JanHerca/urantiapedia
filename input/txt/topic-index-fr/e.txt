@@ -413,11 +413,11 @@ au-dessus de 90, les électrons peuvent s'échapper plus ou moins librement du c
 les sphères architecturales contiennent 100 éléments chimiques, comme les planètes évoluées, plus 100 éléments chimiques de matière morontielle (48:1.3)
 Tous les mondes architecturaux abondent en cristaux et en métaux dits précieux. (46:5.31)
 Les atomes les plus lourds ne se trouvent pas à la surface de nombreux mondes. (42:7.5)
-nommé
 Le monde atomique présente une certaine caractérisation périodique qui revient par groupes de sept – une marque de naissance portée par ce monde matériel indiquant son origine spirituelle très lointaine. (42:9.2-3)
 les éléments radioactifs sont apportés par les météores (57:7.3)
 la transmutation des éléments est la source de l'énergie solaire (41:7.5) (41:8.1)
-Éléments chimiques qui apparaissent nommés dans Le Livre d'Urantia :
+nommé
+	Éléments chimiques qui apparaissent nommés dans Le Livre d'Urantia :
 	* calcium| calcium
 	* carbone | carbone
 	* chlore | chlore
@@ -502,7 +502,7 @@ Jean Baptiste
 
 Élisabeth (mère de Jean-Baptiste); Élisabeth | (135:0-4) | | PERSON | OK
 Élisabeth était une cousine éloignée de Marie, la mère de Jésus (122:2.1,6)
-elle était une descendante des filles d'Aaron (135:0.4) | Les filles d'Aaron
+elle était une descendante des filles d'Aaron (135:0.4) | filles d'Aaron
 Gabriel apparaît pour la première fois à Élisabeth pour lui annoncer sa grossesse (122:2)
 Marie lui rendit visite alors qu'elle était enceinte (122:2.6)
 Élisabeth croyait que Jésus deviendrait le Messie (122:8.4)
@@ -582,7 +582,7 @@ Jésus
 	Jésus a enseigné l'appel aux émotions comme technique pour capter et focaliser l'attention intellectuelle. (152:6.3-4)
 	Jésus a connu un flux et un reflux naturel d'émotions dans les heures qui ont précédé sa capture et son exécution. (182:3.7)
 émotions particulières
-	Voir ci-dessous les liens vers différents types d'émotions | aventure; affectation; affection; colère; anxiété; assurance; blâmer; ennui; couvaison; fraternité (attitude); certitude; charité; se plaindre; confusion; dispute; courage; courtoisie; lâcheté; curiosité; défaite; dépression; désespoir; déception; découragement; encouragement; enthousiasme; envie; équivoque; honneur; espoirs; hypocrisie; hystérie; immaturité; impatience; indolence; infériorité; insécurité; insubordination; intolérance; isolement; jalousie; joie; longanimité; solitude; amour; fidélité; convoitise; douceur; modération; modestie; paralysie; patience; persistance; pessimisme; piété; équilibre; fierté; procrastination; convenance; insouciance; ressentiment; vengeance; ridiculiser; auto-humiliation; confiance en soi; auto-illusion; abnégation; autosatisfaction; suffisance; apitoiement sur soi-même; respect de soi; égoïsme; honte; tristesse; soupçon; sympathie; tendresse; tolérance; malheur; vanité; zèle
+	Voir ci-dessous les liens vers différents types d'émotions | aventure; affectation; affection; colère; anxiété; assurance; blâmer; ennui; couvaison; fraternité (attitude); certitude; charité; se plaindre; confusion; dispute; courage; courtoisie; lâcheté; curiosité; défaite; dépression; désespoir; déception; découragement; encouragement; enthousiasme; envie; équivoque; honneur; espoirs; hypocrisie; hystérie; immaturité; impatience; indolence; infériorité; insécurité; insubordination; intolérance; isolement; jalousie; joie; longanimité; solitude; amour; fidélité; convoitise; douceur; modération; modestie; paralysie; patience; persistance; pessimisme; piété; équilibre; fierté; procrastination; convenance; témérité; ressentiment; vengeance; ridiculiser; auto-humiliation; confiance en soi; auto-illusion; abnégation; autosatisfaction; suffisance; apitoiement sur soi-même; respect de soi; égoïsme; honte; tristesse; soupçon; sympathie; tendresse; tolérance; malheur; vanité; zèle
 
 culte de l'empereur | | Empire romain | | OK
 Le culte de l'empereur, cette déification de l'homme comme symbole de l'État, fut très sérieusement ressenti par les Juifs et les premiers chrétiens et conduisit directement aux persécutions amères des deux églises par le gouvernement romain. (121:5.4)
@@ -731,7 +731,7 @@ Source d'énergie paradisiaque
 	les collisions de géants morts de l'espace convertissent la matière en la forme d'énergie la plus rare (15:8.6)
 	dans tous les univers physiques du temps et de l'espace, il existe une manifestation universelle de la constitution décimale de l'énergie (42:9.1-2)
 	L'énergie est la base de toute existence, et l'énergie pure est contrôlée par le Père Universel. (42:0.1) (42:1.1)
-	 La force-énergie est impérissable, indestructible; ces manifestations de l'Infini peuvent être soumises à une transmutation illimitée, à une transformation sans fin et à une métamorphose éternelle; mais en aucun sens ni à aucun degré, pas même dans la plus petite mesure imaginable, elles ne pourraient ni ne devront jamais souffrir d'extinction. (42:1.6-8) (42:4sec.)
+	 La force-énergie est impérissable, indestructible; ces manifestations de l'Infini peuvent être soumises à une transmutation illimitée, à une transformation sans fin et à une métamorphose éternelle; mais en aucun sens ni à aucun degré, pas même dans la plus petite mesure imaginable, elles ne pourraient ni ne devront jamais souffrir d'extinction. (42:1.6-8) (42:4)
 	Chaque univers local embrasse exactement un cent millième de la charge énergétique totale d'un superunivers, indépendamment de la relation nébulaire, car l'énergie n'est pas organisée par nébuleuses – elle est distribuée universellement. (15:4.6)
 	Tout ce qui répond au circuit de gravité matérielle centré dans le Paradis inférieur, nous l'appelons matière – matière-énergie dans tous ses états métamorphiques. (0:6.1)
 	La puissance et l'énergie sont les preuves universelles de la stabilité, de la constance et de l'éternité de l'île centrale du Paradis. (12:8.3)
@@ -784,7 +784,7 @@ formes d'énergie inconnues
 contrôleurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | | OK
 
 manipulateurs d'énergie | | artisans célestes | ORDER | OK
-Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils sont divisés en types suivants : (44:5)
+Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils sont divisés en types suivants : (44:5.1-10)
 # manipulateurs d'énergie physique
 # manipulateurs d'énergie mentale
 #manipulateurs d'énergie spirituelle
@@ -819,7 +819,7 @@ fonctions
 		ils ont participé au miracle de Jésus d'une guérison massive au coucher du soleil (145:3.8)
 		Les transformateurs de puissance, les médians et toutes les autres personnalités requises ont transformé l'eau en vin dans le miracle involontaire de Jésus (137:4.12)
 nature
-	Les transformateurs d'énergie sont la création conjointe des Sept Directeurs Suprêmes du Pouvoir et des Sept Superviseurs du Centre(0). (29:4.23)
+	Les transformateurs d'énergie sont la création conjointe des Sept Directeurs Suprêmes du Pouvoir et des Sept Superviseurs du Centre. (29:4.23)
 	ils apparaissent dans le registre de personnalité d'Uversa (30:2.103)
 	ils sont semi-matériels et quelque peu personnels (29:4.16-18)
 	ils sont un type de contrôleur physique principal (29:4.7)
@@ -852,7 +852,7 @@ L'Angleterre, l'Écosse et le Pays de Galles se sont toujours battus jusqu'à ce
 Pont terrestre de la Manche; voie terrestre depuis l'Angleterre; pont terrestre | (64:1.5-6) (64:2.6) | | PLACE | 
 
 Langue anglaise; langue anglaise; mots anglais | | | | OK
-les révélateurs des révélations d'Urantia ont reçu pour instruction d'utiliser la langue anglaise (0:0.1-3) (31:10.22) (56:10.23)
+les révélateurs des révélations d'Urantia ont reçu pour instruction d'utiliser la langue anglaise (0:0.1-3) (31:10.23) (56:10.23)
 
 inimitié | | haine | | OK
 
@@ -1551,9 +1551,9 @@ esprits maléfiques | | possession démoniaque | | OK
 		Les fils matériels sont envoyés lorsque l'évolution biologique humaine atteint le plus haut niveau (39:5.3) (49:5.24)
 		seuls les organismes atteignant l'unité cosmique persistent (58:6.8)
 		les organismes s'adaptent à des fluctuations incessantes (58:6.6) (65:6.7)
-		L'évolution est sujette à des changements soudains. D'une époque à l'autre, de nouvelles espèces animales apparaissent de façon radicale. L'apparition soudaine de nouvelles espèces et d'ordres diversifiés d'organismes vivants est entièrement biologique, strictement naturelle. Il n'y a rien de surnaturel lié à ces mutations génétiques. Des apparitions soudaines ont été : (58:6.2-4)
+		L'évolution est sujette à des changements soudains. D'une époque à l'autre, de nouvelles espèces animales apparaissent de façon radicale. L'apparition soudaine de nouvelles espèces et d'ordres diversifiés d'organismes vivants est entièrement biologique, strictement naturelle. Il n'y a rien de surnaturel lié à ces mutations génétiques. Des apparitions soudaines ont été : (58:6.2-4) (65:8.6)
 		# l'amibe (65:2.4)
-		# premiers animaux multicellulaires (59:1.4) (65:8.6)
+		# premiers animaux multicellulaires (59:1.4)
 		# trilobites et scorpions (59:3.5,11)
 		# poissons et fougères (59:4.3,10,13)
 		# premiers amphibiens et grenouilles (59:5.5,23)
@@ -1693,7 +1693,7 @@ Toute expérience humaine est en réalité subjective, à l'exception de la réa
 expérientiels; expérientiel | | réalité:niveaux de réalité | | OK
 C'est un pouvoir gagné, un pouvoir démontré, un pouvoir expérientiel; il contraste avec le pouvoir éternel, le pouvoir insondable, le pouvoir existentiel des Déités du Paradis. (106:2.3)
 
-experts en communication | | Manipulateurs d'énergie; Artisans célestes | ORDER | OK
+experts en communication | | manipulateurs d'énergie; artisans célestes | ORDER | OK
 Les experts en communication font partie du groupe des Manipulateurs d'Énergie des Artisans Célestes. Ce sont les techniciens de la communication interplanétaire. Douze d'entre eux servent sur Urantia (44:5.7)
 
 exploitation | | | | OK

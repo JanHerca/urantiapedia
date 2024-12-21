@@ -795,7 +795,7 @@ historia (57) (114) (121) | edades geológicas; épocas planetarias
 	Aunque los planes ideales para mejorar vuestras razas nativas fracasaron, sin embargo la misión de Adán no tuvo lugar en vano; Urantia se ha beneficiado inconmensurablemente del don de Adán y Eva, y entre sus compañeros y en los consejos de las alturas su trabajo no es considerado como una pérdida total. (51:0.3) (76:4.6)
 	en el siglo VI a.C., gracias a una coordinación excepcional de influencias espirituales no bien comprendida Urantia fue testigo de una presentación sumamente inhabitual de una verdad religiosa variada. (94:6.1)
 mortales de Urantia | mortales
-	Las condiciones atmosféricas actuales de Urantia son casi ideales para mantener al tipo de hombre respirador; estamos clasificados como respiradores medios (49:2)
+	Las condiciones atmosféricas actuales de Urantia son casi ideales para mantener al tipo de hombre respirador; estamos clasificados como respiradores medios (49:2) | vida:biológica
 	nosotros somos un planeta con razas de dos cerebros. Los hay con un cerebro y tres (40:5.17) (49:5.13) (109:3.5)
 	En Urantia los habitantes tenemos un destino de fusión con el Ajustador, pero en otros el destino es la fusión con el Hijo o el Espíritu (30:4.9)
 	Un mortal no regresa nunca a su planeta natal durante la dispensación de su existencia temporal, y si sucede que regresa durante una dispensación posterior, estaría acompañado por un serafín transportador (39:4.15) (112:3.7) (146:7.2) (150:3.5)
@@ -848,7 +848,7 @@ Intermedios de la Hermandad Unida de Urantia | | intermedios | PERSON | OK
 
 Documentos de Urantia; documentos; documento; narraciones; narración; memorando; relato; exposición; resumen; adaptación | | idioma:limitaciones del lenguaje humano; revelación | RELIGION | 
 autores
-	reconocimientos por (0:12.13-14) (56:10.22,23) (121:0.1) (121:8.12-14)
+	reconocimientos por (0:12.13-14) (56:10.22-23) (121:0.1) (121:8.12-14)
 	El libro es una presentación compuesta por muchos seres (92:4.9)
 	no podía percibir el edificio en el que los Documentos de Urantia fueron traducidos y registrados (44:0.16-18)
 	desacuerdo con respecto a las conferencias de Urmia (134:3.8)

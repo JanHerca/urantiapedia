@@ -413,11 +413,11 @@ above 90, electrons may escape more or less freely from the control of the mothe
 architectural spheres have 100 chemical elements, like evolved planets, plus 100 chemical elements of morontia material (48:1.3)
 All the architectural worlds abound in crystals and the so-called precious metals. (46:5.31)
 The heavier atoms are not found on the surface of many worlds. (42:7.5)
-named
 the atomic world does display a certain periodic characterization which recurs in groups of seven—a birthmark carried by this material world indicative of its far-distant spiritual origin. (42:9.2-3)
 radioactive elements are brought in by meteors (57:7.3)
 transmutation of elements is the source of solar energy (41:7.5) (41:8.1)
-Chemical elements that appear named in The Urantia Book:
+named
+	Chemical elements that appear named in The Urantia Book:
 	* calcium| calcium
 	* carbon | carbon
 	* chlorine | chlorine
@@ -731,7 +731,7 @@ physical energy
 	collisions of dead giants of space convert matter into rarest form of energy (15:8.6)
 	in all the physical universes of time and space there is a universal manifestation of the decimal constitution of energy (42:9.1-2)
 	energy is the basis of all existence, and pure energy is controlled by the Universal Father. (42:0.1) (42:1.1)
-	 Force-energy is imperishable, indestructible; these manifestations of the Infinite may be subject to unlimited transmutation, endless transformation, and eternal metamorphosis; but in no sense or degree, not even to the slightest imaginable extent, could they or ever shall they suffer extinction. (42:1.6-8) (42:4sec.)
+	Force-energy is imperishable, indestructible; these manifestations of the Infinite may be subject to unlimited transmutation, endless transformation, and eternal metamorphosis; but in no sense or degree, not even to the slightest imaginable extent, could they or ever shall they suffer extinction. (42:1.6-8) (42:4)
 	Each local universe embraces exactly one one-hundred-thousandth part of the total energy charge of a superuniverse irrespective of nebular relationship, for energy is not organized by nebulae—it is universally distributed. (15:4.6)
 	Any and all that responds to the material-gravity circuit centering in nether Paradise, we call matter—energy-matter in all its metamorphic states. (0:6.1)
 	Power and energy are the universal evidences of the stability, constancy, and eternity of the central Isle of Paradise. (12:8.3)
@@ -784,7 +784,7 @@ unknown forms of energy
 energy controllers | | Master Physical Controllers; Universe Power Directors | | OK
 
 energy manipulators | | celestial artisans | ORDER | OK
-energy manipulators are the fifth group of celestial artisans. They are divided in following types: (44:5)
+energy manipulators are the fifth group of celestial artisans. They are divided in following types: (44:5.1-10)
 # physical-energy manipulators
 # mind-energy manipulators
 # spiritual-energy manipulators
@@ -819,7 +819,7 @@ functions
 		they participated in the Jesus miracle of a massive healing at sundown (145:3.8)
 		power transformers, midwayers, and all other required personalities turned water into wine in the unintended miracle from Jesus (137:4.12)
 nature
-	The energy transformers are the conjoint creation of the Seven Supreme Power Directors and the Seven Centre(0) Supervisors. (29:4.23)
+	The energy transformers are the conjoint creation of the Seven Supreme Power Directors and the Seven Centre Supervisors. (29:4.23)
 	they appear in Uversa personality register (30:2.103)
 	they are semimaterial and somewhat personal (29:4.16-18)
 	they are one type of Master Physical Controller (29:4.7)
@@ -852,7 +852,7 @@ England, Scotland, and Wales were always fighting each other until they gave up 
 English Channel land bridge; land path from England; land bridge | (64:1.5-6) (64:2.6) | | PLACE | 
 
 English language; English tongue; English words | | | | OK
-revelators of Urantia revelations were instructed to use the Englush language (0:0.1-3) (31:10.22) (56:10.23)
+revelators of Urantia revelations were instructed to use the English language (0:0.1-3) (31:10.23) (56:10.23)
 
 enmity | | hatred | | OK
 
@@ -1486,7 +1486,7 @@ result of evil
 	escaping duty, we go under control of evil (130:1.2)
 	While it is all too true that good cannot come of evil to the one who contemplates and performs evil, it is equally true that all things, including evil, potential and manifest, work together for good to all beings who know God, love to do his will, and are ascending Paradiseward according to his eternal plan and divine purpose. (54:4.7)
 	Pain and sorrow follow in the path of evil as the dust follows the wind. (131:3.3)
-	Even the evildoer enjoys a season of grace before the time of the full ripening of his evil deeds, but inevitably there must come the full harvest of evil-doing. (2:3.5) (54:4,5) (131:3.5)
+	Even the evildoer enjoys a season of grace before the time of the full ripening of his evil deeds, but inevitably there must come the full harvest of evil-doing. (2:3.5) (54:4.5) (131:3.5)
 
 evil eye | | | | OK
 Although Christianized for over 1,500 years, these Bretons still retain charms of the New Stone Age for warding off the evil eye. (80:9.14)
@@ -1551,9 +1551,9 @@ biologic evolution | genetics; life:biological
 		Material Sons are dispatched when human biologic evolution attains highest level (39:5.3) (49:5.24)
 		only organisms attaining cosmic unity persist (58:6.8)
 		organisms accommodate themselves to never-ending fluctuations (58:6.6) (65:6.7)
-		evolution is subject to sudden changes. From era to era radically new species of animal life arise. The sudden appearance of new species and diversified orders of living organisms is wholly biologic, strictly natural. There is nothing supernatural connected with these genetic mutations. Sudden appearances have been: (58:6.2-4) 
+		evolution is subject to sudden changes. From era to era radically new species of animal life arise. The sudden appearance of new species and diversified orders of living organisms is wholly biologic, strictly natural. There is nothing supernatural connected with these genetic mutations. Sudden appearances have been: (58:6.2-4) (65:8.6)
 		# the ameba (65:2.4) 
-		# first multicellular animals (59:1.4) (65:8.6)
+		# first multicellular animals (59:1.4)
 		# trilobites and scorpions (59:3.5,11)
 		# fishes and ferns (59:4.3,10,13)
 		# first amphibians and frogs (59:5.5,23)
@@ -1693,7 +1693,7 @@ all human experience is really subjective except that intuitive realization of v
 experientials; experiential | | reality:levels of reality | | OK
 This is earned power, demonstrated power, experiential power; it stands in contrast to the eternity power, the unfathomable power, the existential power of the Paradise Deities. (106:2.3)
 
-experts of communication | | Energy Manipulators; Celestial Artisans | ORDER | OK
+experts of communication | | energy manipulators; celestial artisans | ORDER | OK
 experts of communication are part of the Energy Manipulator group of Celestial Artisans. Thhey are the technicians of interplanetary communication. Twelve serve on Urantia (44:5.7)
 
 exploitation | | | | OK

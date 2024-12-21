@@ -1811,8 +1811,7 @@ deposition (60:2.7) (60:3.9) (61:2.3)
 	Carboniferous was the era of coal (59:5)
 	200 millions years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down (59:5.13)
 
-coat | | | | OK
-When Jesus instructed his apostles that they should, when one unjustly took away the coat, offer the other garment, he referred not so much to a literal second coat as to the idea of doing something positive to save the wrongdoer in the place of the olden advice to retaliate—“an eye for an eye” and so on. (159:5.11)
+coat | | cloak | | OK
 
 cock | | poultry | | OK
 
@@ -2232,7 +2231,7 @@ ancient ritual
 	In the times of Melchisedek they have the idea that if any said ‘I have sinned and perverted that which was right, and it profited me not,’ God would deliver his soul from going into the pit, and he would see the light. (96:7.7) (130:8.2)
 	Devotion, to Pharisees, was a means of inducing self-righteous inactivity and the assurance of false spiritual security; devotion should be a means of stirring up the soul to the realization of the need for repentance, confession, and the acceptance, by faith, of merciful forgiveness. (167:5.2)
 
-confidence | | self-confidence | | OK
+confidence | | self-confidence; trust | | OK
 
 confiding | | sharing | | OK
 

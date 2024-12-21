@@ -862,8 +862,6 @@ lamas | (61:2.9) (61:4.4) (61:7.15) | | |
 pains | | pain | | OK
 
 homards | (59:1.18) (60:2.9) | crustacés | |
-également connu sous le nom de sauterelles (59:5.7)
-Jean-Baptiste a mangé (135:3.1)
 
 centres de systèmes locaux | | Centres Suprêmes de Pouvoir; Directeurs de Pouvoir d'Univers | ORDER |
 1 fonction dans chaque système local (29:2.18) (41:1.5)
@@ -1076,6 +1074,10 @@ travail des commissions de conciliation pour les univers locaux (25:3.9-10)
 
 localisation | | | |
 impossible de déterminer simultanément l'emplacement exact et la vitesse de l'objet en mouvement (65:6.1)
+
+sauterelles | | insectes | | 
+les homards sont apparus avec le reste des insectes (59:5.7)
+Jean-Baptiste a mangé (135:3.1)
 
 logique | | arguments; esprit mortel | |
 l'absence de pensée raisonnée en présence de perplexité explique les incohérences flagrantes (86:5.3)

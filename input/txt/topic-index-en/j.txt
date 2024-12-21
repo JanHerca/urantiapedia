@@ -118,7 +118,7 @@ apostle
 	Salome asked preference for (139:3.8) (171:0.4-7) (181:2.15)
 	related how Jesus forbade swordsmen (183:4.2)
 	asleep in Gethsemane (182:3.1-4)
-	at Jesus’ appearances (191:2.5) (192:1-4) (193:0.3,5)
+	at Jesus’ appearances (191:2) (192:1-4) (193:0.3,5)
 	among 120 at Pentecost (194:0.1) (194:1.2)
 Jesus teachings
 	Jesus’ admonitions to (140:8.1) (174:0.2) (181:2.15) (192:2.8)
@@ -250,7 +250,7 @@ feast of dedication at (164:2)
 invested by Titus in A.D. 70; destroyed by Roman armies (121:8.7) (170:2.25) (176:4.2) (187:1.5)
 Isaiah said Jerusalem would never fall; Jeremiah proclaimed J.’s downfall (97:9.22)
 Jesus foretold destruction of Jerusalem (172:3.10) (176:0.1) (176:1) (176:2.6) (178:3.3-4) (187:1.5-7)
-Jesus’ 19th appearance in (193:3.5)
+Jesus’ 19th appearance in (193:3.2)
 Jesus’ Passover at (125) (142)
 millions of dispersed Jews attended religious feasts (121:6.9) (162:4.1) (185:1.5) (188:3.1)
 Paul’s vision of the heavenly Jerusalem (47:10.3)
@@ -261,7 +261,7 @@ prophets perish in (171:4.7)
 situation in week before crucifixion (175:4)
 temple of Baal alongside temple of Yahweh (97:9.21)
 
-Jerusalem temple; temple | (125:1.5) (150:1.3) (172:4) | Jerusalem; Jerusalem temple guards; Judaism; moneychangers; Sanhedrin | PLACE | 
+Jerusalem temple; temple | (125:1.5) (150:1.3) (172:4) | Jerusalem; Jerusalem temple guards; Judaism; money-changers; Sanhedrin | PLACE | 
 animal sacrifice (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
 desecrated by traffic in animals, money-changers (173:1)
 extensive banking system (173:1.3-4)
@@ -821,7 +821,7 @@ Jesus teachings | gospel:explained; kingdom of heaven; religion:explained; truth
 		* God is no respecter of persons (137:8.6)
 		* kingdom is not of this world (137:8.7) (138:7.1) (138:8.7,9) (157:6.12) (158:6.2) (171:8.3) (172:3.6) (176:2.3) (185:3.3) (190:5.4)
 		* unless you become as little children you cannot enter the kingdom (137:8.8) (196:0.12)
-		* be you perfect as Father is perfect (137:8.13) (140:2.16) (140:5.3,15) (140:8.32) (140:10.1) (142:7.13) (161:1.10) (181:2.25)
+		* be you perfect as Father is perfect (137:8.13) (140:3.16) (140:5.3,15) (140:8.32) (140:10.1) (142:7.13) (161:1.10) (181:2.25)
 		* kingdom is worth whatever it costs to enter (137:8.14)
 		* I have come to call sinners, the lost (137:8.16) (138:3.6) (157:6.9)
 		* seek sinners, find downtrodden, comfort anxious (138:6.4)
@@ -867,8 +867,8 @@ Jesus teachings | gospel:explained; kingdom of heaven; religion:explained; truth
 		* it is not your kingdom; you are only ambassadors (141:6.4)
 		* truth shall make you free (141:7.6) (162:7.2)
 		* Spirit witnesses with your spirits that you are children of God (142:5.3)
-		* my spirit shall go before you (142:7.17) (178:1.7)
 		* unless you are born again, you shall not enter kingdom (142:6.4-5) (166:3.7)
+		* my spirit shall go before you (142:7.17) (178:1.7)
 		* he who rules his self is greater than he who captures city (143:2.3)
 		* old things pass away; all things become new (143:2.3)
 		* by the new way you are first transformed by Spirit of Truth (143:2.4)
@@ -954,7 +954,7 @@ Jesus teachings | gospel:explained; kingdom of heaven; religion:explained; truth
 		* seek not self-glorification but glory of God (175:1.10)
 		* take heed no man deceive you (176:1.1)
 		* false teachers will arise and lead many astray (176:1.4)
-		* I will return | Jesus:second coming (176:2.3)
+		* I will return (176:2.3) | Jesus:second coming
 		* you cannot stand still in affairs of kingdom (176:3.5)
 		* in faithfulness do what is intrusted to you (176:3.6)
 		* love one another even as I have loved you (178:1.17) (180:1) (180:6.1) (181:2.26,30) (182:1.6) (193:3.2)
@@ -1461,7 +1461,7 @@ present
 	asleep in Gethsemane (182:3.1-4)
 	at crucifixion, only apostle (139:4.10) (183:4.5) (187:2.7) (187:3.2) (187:5.1,4)
 	at empty tomb (189:5)
-	at Jesus’ appearances (191:2.5) (192:1-4) (193:0.3,5)
+	at Jesus’ appearances (191:2) (192:1-4) (193:0.3,5)
 	at Jesus’ examination by Pilate (185:3.1)
 	at transfiguration (158:0.2) (158:2.5)
 	in adjoining room during Jesus’ humiliation (184:4.2)
@@ -1599,7 +1599,7 @@ before the Sanhedrin (164:4)
 cast out of synagogue (164:4.11) (164:5.4-5)
 healed by Jesus (164:3)
 neither dumb nor lacking in humor (164:4.9)
-parents were poor, fear-ridden souls (164:5.5-7)
+parents were poor, fear-ridden souls (164:4.7)
 
 Josiah (disciple of Abner) | | | PERSON | 
 baptized Pharisee (174:4.4)
@@ -1787,7 +1787,7 @@ his relationship with Jesus
 	Jesus warned the apostles of an impending betrayal, without indicating that it was Judas (153:5.4) (177:5.2) (179:3.6) (179:4) (180:6.1)
 the betrayal
 	Judas was always financially loyal to his Master and his fellow apostles. Money could never have been the motive for his betrayal of the Master. It was not for money that Judas went to the home of Caiaphas to arrange for the betrayal of Jesus. (139:12.5) (172:5.12) (177:4.4)
-	The day that Mary, Lazarus' sister, broke an expensive jar of incense at the feet of Jesus seemed to Judas such a waste that when Jesus so sweepingly disallowed his public protest, it was too much for him, and this event determined the mobilization of all the accumulated hate, hurt, malice, prejudice, jealousy, and revenge of a lifetime, and decided Judas to take revenge (139:12.10-13) (153:1.5) (172:1.5-7) (172:5.12)
+	The day that Mary, Lazarus' sister, broke an expensive jar of incense at the feet of Jesus seemed to Judas such a waste that when Jesus so sweepingly disallowed his public protest, it was too much for him, and this event determined the mobilization of all the accumulated hate, hurt, malice, prejudice, jealousy, and revenge of a lifetime, and decided Judas to take revenge (139:12.10-13) (153:1.5)
 	Some relatives and Sadducees led Judas to believe that he would forthwith receive high honors from the Sanhedrin if he withdrew from the movement of Jesus and his “Galilean” followers. (177:4.2)
 	in various situations that bothered Judas is when he began to seriously think about how to break with Jesus the apostles (172:5.12-13) (173:0.2) (175:4.1) (177:4.2)
 	David Zebedee knew about Judas's plot to kill Jesus and so he tried to let the Master know, but he asked him to keep quiet. (178:2.3)
@@ -1822,7 +1822,7 @@ heroic exploits (121:2.7)
 Jews removed from Perea in times of (165:0.3)
 restoration of Mosaic services by (123:3.5)
 
-Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesusfamily | PERSON | 
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesus:family | PERSON | 
 active with Zealots; clashed with civil authorities (128:6.4-7)
 at Jesus’ 4th appearance (190:2.6)
 attitude
@@ -1958,8 +1958,7 @@ of Sidon, daughter of Bernice (156:2.2) (156:3.2)
 justice | (2:3) (133:1) | courts; crime; death penalty; karma; law | | 
 conceived by man, means getting one’s rights (70:10.2)
 concept constitutive in spirit-endowed mind (70:10.2)
-divine justice | conciliating commissions; judgment:
-divine judgment
+divine justice | conciliating commissions; judgment:divine judgment
 	collective thought of righteousness (10:6.18)
 	Creators provide for judicial systems to settle honest differences (25:3.7)
 	demands adjudication of every default and misstep (39:1.8)

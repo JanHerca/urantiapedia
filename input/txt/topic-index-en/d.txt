@@ -643,7 +643,7 @@ observation of the Milky Way reveals a higher density of stars when Orvonton is 
 The Dark Islands of Space are bodies with an incredible density (15:6.11)
 Some of the reddish, faintly glimmering stars have acquired a density at the centre of their enormous masses which would be expressed by saying that 1 cm3 of such a star, if on Urantia, would weigh 166 kg. (41:3.6) | sun (Urantia’s); suns
 The mass of your sun is slightly greater than the estimate of your physicists, who have reckoned it as about 2×10^30 kg. It now exists about halfway between the most dense and the most diffuse stars, having about 1.5 times the density of water. (41:4.1)
-nonsolid suns can attain a density equal to iron — about the same as Urantia. Most of the suns, however, are not so dense. One of our nearer neighbours has a density equal to that of our atmosphere, and Veluntia, one of the largest in Orvonton, has a density only 0.001 that of Urantia’s atmosphere. (41:4.3-6)
+nonsolid suns can attain a density equal to iron — about the same as Urantia. Most of the suns, however, are not so dense. One of our nearer neighbours has a density equal to that of our atmosphere, and Veluntia, one of the largest in Orvonton, has a density only 0.001 that of Urantia’s atmosphere. (41:4.3)
 The lava layers of the earth’s crust, when cooled, form granite. The average density of Urantia is a little more than 5.5 times that of water; the density of granite is less than 3 times that of water. The earth’s core is 12 times as dense as water. (58:5.5)
 
 denunciations | | | | OK
@@ -659,7 +659,7 @@ depravity | | iniquity; original sin doctrine | | OK
 depression | | defeat; disappointment; sorrow | | OK
 Believers are immune to the depression consequent upon purely material upheavals (156:5.13)
 we must shake off depression and go forth to proclaim the gospel with great energy, never forgetting that Jesus was with us throughout our season of discouragement, and will continue with us to the end. (181:2.11)
-the words to Fortune, the young downcast, were: “My friend, arise! Stand up like a man! Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat”. (130:6) (130:6)
+the words to Fortune, the young downcast, were: “My friend, arise! Stand up like a man! Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat”. (130:6)
 Thomas the apostle was afflicted by depression. When he was most depressed, unfortunately he always tried to avoid coming in direct contact with Jesus. (139:8.10-11)
 
 descending Sons of God | | Sons of God:orders | ORDER | OK
@@ -758,7 +758,7 @@ Sanhedrin attributed Jesus’ works to power of devil, and that he was a child o
 Jesus said: “Once and for all be delivered from the superstition that God afflicts man at the behest of the evil one”. (148:6.11)
 
 Devonian | | geologic ages | | OK
-Devonian is the age of fishes, between 270-220 million years ago (59:4)
+Devonian is the age of fishes, between 270-220 million years ago (59:4.5-8)
 > https://en.wikipedia.org/wiki/Devonian
 
 devotion | | loyalty | | OK
@@ -980,7 +980,7 @@ Do not become discouraged by the discovery that you are human. (156:5.8)
 Confusion, being puzzled, even sometimes discouraged and distracted, does not necessarily signify resistance to the leadings of the indwelling Adjuster. (110:3.5)
 Discouragement, worry, and indolence are positive evidence of moral immaturity. (160:1.6)
 Jesus was with Simon Zelotes through all his discouragement (181:2.11)
-Jesus' words to Fortune, the young downcast, were: “My friend, arise! Stand up like a man! Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat”. (130:6) (130:6)
+Jesus' words to Fortune, the young downcast, were: “My friend, arise! Stand up like a man! Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat”. (130:6)
 
 discoveries; discovery | | | | OK
 Commerce, linked with adventure, led to exploration and discovery. (69:4.8)
@@ -1120,7 +1120,7 @@ when a Divine Counselor speaks about the Eternal Son, he knows whereof he speaks
 Hearts of Counsel, Joys of Existence, and Satisfactions of Service are reflective associates of Divine Counselors (19:3.2-4) (28:3.1) (28:5.4,15-18)
 High Son Assistants serve as clerks for Divine Counselors (22:10.1)
 they appear in personality registers (30:1.16) (30:2.32)
-Many things happen in the universes that the Divine Counselors do not fully understand. They are constantly confronted with cosmic reactions that they cannot fully understand, forces that come from the Absolutes (4:1.7–8)
+Many things happen in the universes that the Divine Counselors do not fully understand. They are constantly confronted with cosmic reactions that they cannot fully understand, forces that come from the Absolutes (4:1.7-8)
 they preside over some superuniverse courts (15:12.1)
 when they pronounce verdicts the Divine Counselors represent the “I will be” of the judgment, and always pronounce verdicts in liaison with a Perfector of Wisdom, the “I was,” and a Universal Censor, the “I am”. (19:4.4)
 they have residence in the fourth circle in Jerusem (46:5.15)
@@ -1128,7 +1128,7 @@ service
 	they serve as Most High Assistants (37:4.2)
 	they harmonize versions of wisdom. If confusion arises regarding the harmonization of these two versions of wisdom, immediate appeal is made to the Divine Counselors, who forthwith rule as to the proper combination of procedures. (28:5.9)
 	they work attached to governments on major sectors (18:4.4)
-	they serve in superuniverse governments and courts (15:10.3–12)
+	they serve in superuniverse governments and courts (15:10.3-12)
 	they are in charge of the formation of the Celestial Recorders in Uversa. The university located there is conducted by them (25:6.1)
 	they are the authors of a good number of papers of The Urantia Book: the prologue and papers 1 to 9, 17 to 19, 23, 24, and 31 (0:12.14) (1:7.9) (2:7.13) (3:6.9) (4:5.8) (5:6.14) (6:8.9) (7:7.7) (8:6.8) (9:8.26) (17:8.10) (18:7.6) (19:7.6) (23:4.7) (24:7.10) (31:10.22)
 testimonies
@@ -1177,7 +1177,7 @@ The realms of the finite exist by virtue of the eternal purpose of God. (115:1.4
 Representative government is the divine ideal of self-government among nonperfect beings. (45:7.3)
 There is no favoritism, nothing arbitrary, in the selective operation of the divine plan of mortal survival. (40:10.5)
 It was the divine plan that the mortal races of Urantia should have had physical natures more naturally spirit responsive. (34:7.5)
-that some divine Sons lapsed from integrity does not indicate a fault in creatorship (35:9.7–8)
+that some divine Sons lapsed from integrity does not indicate a fault in creatorship (35:9.7-8)
 Those without Name and Number have transcendent concept of the eternal purpose of the Universal Father (22:4.1)
 mortal participation in divine plan
 	the evil appears when we try to add our own little scheme to the larger and more far-reaching divine plan (75:3.9) (75:4)
@@ -1247,7 +1247,7 @@ Easy divorce, when the result of lack of self-control or failure of normal perso
 When modern couples marry with the thought of convenient divorce in the background of their minds if they are not wholly pleased with their married life, they are in reality entering upon a form of trial marriage and one that is far beneath the status of the honest adventures of their less civilized ancestors. (82:3.15)
 woman’s greater personal freedom and increased economic liberty further complicates the current situation with divorce (83:7.7) (83:8.9)
 the very fact of marriage dissolution itself indicates that Deity is not a conjoining party to such unions. (83:8.4)
-in the most developed continental nation of a neighboring planet, marriage is only legal after the age of 20 and after passing an instruction in parenting schools (72:3.8–9)
+in the most developed continental nation of a neighboring planet, marriage is only legal after the age of 20 and after passing an instruction in parenting schools (72:3.8-9)
 premarital education would reduce the number of divorce cases (83:7.7-8)
 Jesus and ancient laws
 	The inauguration of wife purchase and wife dowry, by introducing a property penalty for marriage failure, did much to lessen separation. (83:7.3)
