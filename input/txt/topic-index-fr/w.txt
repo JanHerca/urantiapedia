@@ -45,7 +45,7 @@ causes de la guerre (70:1)
 	la première guerre menée pour des gisements minéraux (69:4.6)
 	les premières administrations n'ont changé que par la guerre civile (70:7.17)
 	pour le gain ou la gloire (69:1.3,5)
-	surpopulation (88:6.12)
+	surpopulation (81:6.12)
 	persiste parce que l'homme a évolué à partir des animaux combattants (63:4.9) (70:1.2,7)
 	laïcité (195:8.5)
 	affirmation de soi (194:3.18)
@@ -397,7 +397,7 @@ de plus en plus perceptible dans la vie des personnes guidées par l'Esprit à m
 est la vérité divine, l'amour vivant (3:6.2)
 est saint, juste, grand, vrai, beau, bon; idéal de la vie des créatures (136:4.8) (196:0.2)
 est potentialisé dans 3 Absolus, personnalisé dans le Fils, conjoint pour l'action dans l'Esprit et éternisé dans les modèles du Paradis (117:0.1)
-c'est que tous les êtres atteignent la perfection (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:2.16) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
+c'est que tous les êtres atteignent la perfection (1:0.3-6) (7:4.7) (7:5.1) (9:5.6) (13:2.8) (26:4.12) (40:7.4) (56:0.1) (94:3.1) (99:5.3) (107:0.3) (131:9.4) (137:8.13) (140:3.16) (140:4.11) (140:5.3) (140:5.15) (140:8.32) (140:10.1) (143:2.6) (161:1.10) (181:2.25)
 Jésus
 	discours sur la volonté de Dieu (141:2)
 	la guérison au coucher du soleil n'est pas incompatible avec (145:3.9-11)
@@ -652,7 +652,7 @@ rejeter les écritures traditionnelles considérées comme (155:6.2)
 
 mots | | langue | | OK
 
-fabrication | | | |
+qualité de fabrication; ouvrier méticuleux; ouvrier ordinaire | | | |
 Jésus ne perdait pas de temps à des bagatelles (134:9.7)
 
 œuvres | | action; salut | |
@@ -686,7 +686,7 @@ mondes | | sphères architecturales; planètes; sphères sacrées du Paradis; co
 ver de poussière | | | |
 l'homme est, par nature, mais il est divin dans sa destinée (149:6.9)
 
-culte | (85) (5:3) (27:7) | esprits mentaux adjuvats :6 - Culte; églises; méditation; prière; communion spirituelle; temple | |
+culte | (85) (5:3) (27:7) | esprits mentaux adjuvats:Esprit #6 – Adoration; églises; méditation; prière; communion spirituelle; temple | |
 Adam a refusé d'accepter (74:4.4-5)
 L'adoration de la beauté abstraite, l'exaltation de la nature n'est pas une adoration (5:5.4)
 en alternance avec le service (143:7.3)
@@ -770,7 +770,7 @@ traité avec de l'huile et du vin (90:4.9) (164:1.3)
 
 rogne | | colère | | OK
 
-écriture | | communication; langue; bâton de message; impression; enregistrements; signaux de fumée; ceintures wampum | |
+écriture | | communication; langue; bâton de message; impression; archives; signaux de fumée; ceintures wampum | |
 alphabets
 	48 symboles dans l'alphabet de Nébadon (44:4.4)
 	70 symboles dans l'alphabet d'Uversa; 1 milliard de symboles conceptuels (44:4.4)

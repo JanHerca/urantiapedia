@@ -1822,7 +1822,7 @@ exploits héroïques (121:2.7)
 Les Juifs expulsés de Pérée à l'époque de (165:0.3)
 restauration des services mosaïques par (123:3.5)
 
-Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesusfamily | PERSON |
+Jude | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jésus:famille | PERSON |
 actif avec les Zélotes; en conflit avec les autorités civiles (128:6.4-7)
 à la 4ème apparition de Jésus (190:2.6)
 attitude

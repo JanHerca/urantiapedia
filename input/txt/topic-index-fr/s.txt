@@ -793,7 +793,7 @@ oursins | (60:2.9) (60:4.5) (65:2.5) | | |
 
 vers marins | (59:2.11) | | |
 
-joints | | | |
+phoques | | | |
 mammifère placentaire; retourné à la mer (49:2.17) (61:2.11) (65:2.12)
 
 séances | | | |
@@ -847,7 +847,7 @@ A. séconaphin primaire (28:3.1) (28:4)
 		# personnalités du transport (28:4.12)
 		# corps de réserve (28:4.14)
 B. seconaphin secondaire (28:5)
-assigné aux conseillers divins, aux perfectionneurs de sagesse et aux censeurs universels (28:3.1) (28:5.2-6)
+	assigné aux conseillers divins, aux perfectionneurs de sagesse et aux censeurs universels (28:3.1) (28:5.2-6)
 	types
 		#Voix de la Sagesse
 		# Les âmes de la philosophie
@@ -857,8 +857,8 @@ assigné aux conseillers divins, aux perfectionneurs de sagesse et aux censeurs 
 		# Satisfaction du service
 		# Discerneurs d'esprits
 C. seconaphin tertiaire (28:6)
-attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne sont ni nommés ni comptés (22:5.5) (28:3.1) (28:6)
-guider les ascendeurs dans la perplexité, l'incertitude et les urgences (28:7.2-3)
+	attribué aux puissants messagers, à ceux qui ont une autorité élevée et à ceux qui ne sont ni nommés ni comptés (22:5.5) (28:3.1) (28:6)
+	guider les ascendeurs dans la perplexité, l'incertitude et les urgences (28:7.2-3)
 	types
 		# Importance des origines
 		# Souvenirs de miséricorde
@@ -1059,7 +1059,7 @@ basé sur l'assurance de faire la volonté du Père (181:1.8)
 Pierre est présomptueux (181:2.27)
 L'Esprit de Vérité donne (194:0.1)
 
-conscience de soi | | conscience | | OK
+conscience de soi | | état de conscience | | OK
 
 auto-contemplation | | auto-analyse; suffisance | | OK
 
@@ -4209,7 +4209,7 @@ le soleil est honoré par le nom du premier jour de la semaine (85:5.2)
 lever de soleil | | | |
 les tribus arriérées se lamentent sur chaque nouveau (86:2.2)
 
-soleils | (15:5) (15:6.8-10) (41:3-9) | corps spatiaux; soleil (d'Urantia) | PLACE |
+soleils | (15:5) (15:6.8-10) (41:3-9) | corps spatiaux; soleil (celui d'Urantia) | PLACE |
 10 000 milliards à Orvonton (15:6.10)
 un espace abondant pour accueillir tous (41:3.2)
 le diamètre moyen est d'un million de miles (41:3.2)
@@ -4470,7 +4470,7 @@ la charge électrique est composée de 3 phases de 10 séparations chacune (29:2
 les limites radiales des superunivers convergent vers le siège paradisiaque du Maitre Esprit superviseur (16:0.12)
 registres conservés depuis l'arrivée des Anciens des Jours (25:6.6)
 relations entre les superunivers
-	le différentiel d'énergie empêche la communication directe entre (1 5:10.23) (28:4.2) (29:4.3) (39:2.4)
+	le différentiel d'énergie empêche la communication directe entre (15:10.23) (28:4.2) (29:4.3) (39:2.4)
 	aucune représentation d'ambassadeur parmi (15:10.23)
 	seuls les Messagers Solitaires et les Esprits Inspirés de la Trinité peuvent passer directement de l'un à l'autre (23:2.15)
 	les voyages entre les superunivers se font par l'intermédiaire de Havona, les mondes des Maîtres Esprits (23:2.15)
@@ -4761,7 +4761,7 @@ Rapport des omniaphim d'Uversa à (28:2.2)
 Les dirigeants suprêmes | | Sept Maitres Esprits | PERSON |
 
 Conseils suprêmes Lanonandek; conseil suprême | | | PERSON |
-sélectionnez Souverains de Système (35:9.3)
+sélectionnez Souverains de Système (35:9.3-4)
 
 Mental Suprême | (116:1) | esprit; Suprême | PERSON |
 tient compte de la réflectivité (9:7.4)
@@ -4841,7 +4841,7 @@ seul diplôme accordé dans le temple morontiel (55:3.8,19)
 sprits Suprêmes | (17) (9:8.15) | Esprit Infini:famille | ORDER |
 directeurs administratifs du grand univers (17:0.1-12) (17:8.3)
 tous les esprits au service de Dieu proviennent de (17:8.2)
-groupes comprenant, dans les registres de personnalité (30:1.3,56) (30:2.14)
+groupes comprenant, dans les registres de personnalité (30:1.56) (30:2.14)
 	# Les Sept Esprits Maîtres
 	# Sept Maitres Esprits
 	# Esprits Réfléchissants

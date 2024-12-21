@@ -1117,9 +1117,7 @@ class TopicIndex {
 
 			html2 += getWikijsHeader(title, tags, description);
 			html2 += '\r\n';
-			// html += `<h1>${title}</h1>\r\n`;
 
-			// const end = '\r\n\r\n';
 			// const refs = this.sortUniqueRefs(topic);
 			// let refsUsed = refs.map(ru => false);
 			const seeAlsoErr = [];

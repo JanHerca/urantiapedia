@@ -354,7 +354,7 @@ time of | time
 
 Salvington University | | Melchizedek University | PLACE | OK
 
-Samaria | (143) (123:5.13) (134:7.5) | Palestine; Samaritans | PLACE | OK
+Samaria | (143) (123:5.13) (134:7.5) | Palestine; Samaritans | PLACE | 
 In the time of the prophets
 	The gangster-nobility of Samaria ruled with tyranny as prophets began to oppose their suppression of freedom of speech, sparking the creation of the Jewish and Christian Bibles. (97:9.20)
 In the time of Jesus
@@ -847,7 +847,7 @@ A. primary seconaphim (28:3.1) (28:4)
 		# transport personalities (28:4.12)
 		# reserve corps (28:4.14)
 B. secondary seconaphim (28:5)
-assigned to Divine Counselors, Perfectors of Wisdom, and Universal Censors (28:3.1) (28:5.2-6)
+	assigned to Divine Counselors, Perfectors of Wisdom, and Universal Censors (28:3.1) (28:5.2-6)
 	types
 		# Voices of Wisdom
 		# Souls of Philosophy
@@ -857,8 +857,8 @@ assigned to Divine Counselors, Perfectors of Wisdom, and Universal Censors (28:3
 		# Satisfactions of Service
 		# Discerners of Spirits
 C. tertiary seconaphim (28:6)
-assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (22:5.5) (28:3.1) (28:6)
-guide ascenders in perplexity, uncertainty, and emergencies (28:7.2-3)
+	assigned to Mighty Messengers, Those High in Authority, and Those without Name and Number (22:5.5) (28:3.1) (28:6)
+	guide ascenders in perplexity, uncertainty, and emergencies (28:7.2-3)
 	types
 		# Significances of Origins
 		# Memories of Mercy
@@ -4761,7 +4761,7 @@ Uversa omniaphim report to (28:2.2)
 Supreme Executives | | Seven Supreme Executives | PERSON | 
 
 Supreme Lanonandek councils; supreme council | | | PERSON | 
-select System Sovereigns (35:9.3)
+select System Sovereigns (35:9.3-4)
 
 Supreme Mind | (116:1) | mind; Supreme | PERSON | 
 accounts for reflectivity (9:7.4)
@@ -4841,7 +4841,7 @@ only degree granted in morontia temple (55:3.8,19)
 Supreme Spirits | (17) (9:8.15) | Infinite Spirit:family | ORDER | 
 administrative directors of grand universe (17:0.1-12) (17:8.3)
 all ministering spirits spring from (17:8.2)
-groups comprising, in personality registers (30:1.3,56) (30:2.14)
+groups comprising, in personality registers (30:1.56) (30:2.14)
 	# Seven Master Spirits
 	# Seven Supreme Executives
 	# Reflective Spirits
