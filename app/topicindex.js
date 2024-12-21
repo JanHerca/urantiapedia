@@ -1082,10 +1082,14 @@ class TopicIndex {
 			const redirectText = isRedirect ? this.tr('topicRedirect') : null;
 			const redirectsThis = this.topics
 				.filter(t => {
-					return (t.seeAlso.includes(topic.name) && t.revised);
+					return (
+						t.seeAlso.find(i => i.split(':')[0] === topic.name) && 
+						t.name != topic.name &&
+						t.revised
+					);
 				}).map(t => {
-					const tEN = topicEN.find(i => i.sorting = t.sorting);
-					return {name: t.name, nameEN: tEN.name};
+					const ti = tiNames.find(i => i.name === t.name);
+					return {name: t.name, nameEN: ti.nameEN};
 				});
 			const tags = ['topic', ...(topic.type && topic.type != 'OTHER' ? 
 				[topic.type.toLowerCase()] : [])];
