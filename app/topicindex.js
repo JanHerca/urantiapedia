@@ -1069,7 +1069,24 @@ class TopicIndex {
 				`/${this.language}/topic`);
 			const title = topic.name.substring(0, 1).toUpperCase() +
 						topic.name.substring(1);
+			const description = this.language === 'en' 
+				? undefined 
+				: this.tr('topicOriginalName') + ': ' + topicEN.name;
 			const seeAlsoTxt = this.tr('topic_see_also');
+			const isRedirect = (
+				topic.lines.length === 0 && 
+				topic.refs.length === 0 &&
+				topic.seeAlso.length > 0 &&
+				topic.revised
+			);
+			const redirectText = isRedirect ? this.tr('topicRedirect') : null;
+			const redirectsThis = this.topics
+				.filter(t => {
+					return (t.seeAlso.includes(topic.name) && t.revised);
+				}).map(t => {
+					const tEN = topicEN.find(i => i.sorting = t.sorting);
+					return {name: t.name, nameEN: tEN.name};
+				});
 			const tags = ['topic', ...(topic.type && topic.type != 'OTHER' ? 
 				[topic.type.toLowerCase()] : [])];
 			const lineRefs = [];
@@ -1094,7 +1111,7 @@ class TopicIndex {
 			};
 			
 
-			html2 += getWikijsHeader(title, tags);
+			html2 += getWikijsHeader(title, tags, description);
 			html2 += '\r\n';
 			// html += `<h1>${title}</h1>\r\n`;
 
@@ -1109,6 +1126,10 @@ class TopicIndex {
 			// 	reject(new Error(seeAlsoErr.map(e => e.message).join(', ')));
 			// 	return;
 			// }
+			//If topic is a redirect
+			if (isRedirect) {
+				html += `<p><em>${redirectText}</em></p>\r\n`;
+			}
 
 			//Add line content with headings and references
 			topic.lines.forEach((line, i, lines) => {
@@ -1232,6 +1253,22 @@ class TopicIndex {
 				}
 			});
 
+			//Add redirects to this
+			if (redirectsThis.length > 0) {
+				html+= `<h2>${this.tr('topicRedirectsThis')}</h2>\r\n`;
+				html += '<div>\r\n<ul>\r\n';
+				redirectsThis.forEach(redir => {
+					const redirName = redir.name;
+					const redirNameEN = redir.nameEN;
+					const redirLink = redirNameEN.replace(/ /g, '_');
+					// const redirText = 
+					// 	redirName.substring(0, 1).toUpperCase() + 
+					// 	redirName.substring(1);
+					html += `<li><a href="${tpath}/${redirLink}">${redirName}</a></li>\r\n`;
+				});
+				html += '</ul>\r\n</div>\r\n';
+			}
+
 			//Add Links
 			if (seeAlsoObjs && seeAlsoObjs.length > 0) {
 				html += `<h2>${this.tr('topic_links')}</h2>\r\n`;
@@ -1240,9 +1277,10 @@ class TopicIndex {
 					const alsoName = alsoObj.seeAlso;
 					const alsoNameEN = alsoObj.seeAlsoEN;
 					const alsoLink = alsoNameEN.replace(/ /g, '_').replace(/:/, '#');
-					const alsoText = alsoName.substring(0, 1).toUpperCase() + 
-						alsoName.substring(1);
-					html += `<li><a href="${tpath}/${alsoLink}">${alsoText}</a></li>\r\n`;
+					// const alsoText = 
+					// 	alsoName.substring(0, 1).toUpperCase() + 
+					// 	alsoName.substring(1);
+					html += `<li><a href="${tpath}/${alsoLink}">${alsoName}</a></li>\r\n`;
 				});
 				html += '</ul>\r\n</div>\r\n';
 			}

@@ -1125,9 +1125,19 @@ const Strings = {
 		tr: "Dinler, kültler, inançlar endeksi"
 	},
 	"topicRedirect": {
-		en: "This page is a placeholder for a name. For the page with all the content use the link below.",
-		es: "Esta página es un contenedor para un nombre. Para ver la página con todo el contenido usa el enlace de abajo.",
-		fr: "Cette page est un espace réservé pour un nom. Pour accéder à la page avec tout le contenu, utilisez le lien ci-dessous."
+		en: "This page is a placeholder for a name. For the page with all the content use the links below.",
+		es: "Esta página es un contenedor para un nombre. Para ver la página con todo el contenido usa los enlaces de abajo.",
+		fr: "Cette page est un espace réservé pour un nom. Pour accéder à la page avec tout le contenu, utilisez le liens ci-dessous."
+	},
+	"topicRedirectsThis": {
+		en: "Redirects to this topic",
+		es: "Redirige a este tema",
+		fr: "Redirige vers ce sujet"
+	},
+	"topicOriginalName": {
+		en: "original in English",
+		es: "original en inglés",
+		fr: "original en anglais"
 	},
 	"indexAll": {
 		bg: "Списък на всички индекси",
