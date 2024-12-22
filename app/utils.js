@@ -855,11 +855,13 @@ exports.getWikijsBookSectionTitles = (papers, section_index) => {
  * @param {string} language Language code.
  * @param {?string} color Optional color.
  * @param {?number} year Optional year.
+ * @param {?boolean} hide_ref Optional, if hide reference.
  * @returns {string}
  */
 exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
 	color = color || 'blue';
 	year = (year != null ? year : 1955);
+	hide_ref = hide_ref || false;
 	let html = '';
 	if (multi) {
 		html += `<sup class="white--text ${color} rounded px-1">` +
@@ -869,8 +871,9 @@ exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
 	const suffix = (multi && language != 'en' ? '_Multiple' : '');
 	const path = `/${language}/The_Urantia_Book${suffix}/` +
 		`${vals[0]}#p${vals[1]}_${vals[2]}`;
-	const link = `<a href="${path}">${ref}</a>`
-	html += `<sup><small>${link}</small></sup>  `;
+	const link = `<a href="${path}">${ref}</a>`;
+	const hidden = (hide_ref ? ' class="d-none' : '');
+	html += `<sup${hidden}><small>${link}</small></sup$>  `;
 	return html;
 };
 

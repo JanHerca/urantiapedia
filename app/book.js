@@ -1769,8 +1769,11 @@ class Book {
 						let pcontent = p.par_content;
 						let used, topics;
 						const topicNames = [];
+						const center = p.hide_ref ? ' class="text-center"' : '';
 
-						parHtml += (multi ? '<p>' : `<p id="p${si}_${pi}">`);
+						parHtml += (multi 
+							? `<p${center}>`
+							: `<p${center} id="p${si}_${pi}">`);
 						parHtml += getWikijsBookParRef(multi, p.par_ref, 
 							this.language, colors[ppi], 
 							(multi ? papers[ppi].year : null));
@@ -1816,7 +1819,7 @@ class Book {
 							//Remove footnote marks (they are in master)
 							pcontent = pcontent.replace(/\{(\d+)\}/g, '');
 						}
-						parHtml += `${pcontent}</p>\r\n`;
+						parHtml += `${pcontent}</p$>\r\n`;
 						return parHtml;
 					});
 

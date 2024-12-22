@@ -383,8 +383,12 @@ const onLoad = () => {
 	$(c.drpTILanguage1).attr('disabled', null);
 	$(c.drpTILanguage2).attr('disabled', null);
 	c.drpTILanguage2.value = 'es';
+	topicindexEdit2.setLanguage('es');
+	bookEdit2.setLanguage('es');
 	$(c.drpTILanguage3).attr('disabled', null);
 	c.drpTILanguage3.value = 'fr';
+	topicindexEdit3.setLanguage('fr');
+	bookEdit3.setLanguage('fr');
 };
 
 const fillDropdown = (control, values, descs, currentValue) => {
@@ -1832,7 +1836,7 @@ const setSearchAdding = (adding) => {
 // -----------------------------------------------------------------------------
 
 const handle_igrTILoadTopicsClick = (evt) => {
-	loadTITopics(false);
+	loadTITopics();
 	evt.preventDefault();
 };
 
@@ -1860,7 +1864,17 @@ const handle_drpTILanguage3Change = (evt) => {
 	bookEdit3.setLanguage(lan3);
 };
 
-const loadTITopics = (forceLoad) => {
+const loadTITopics = () => {
+	const category = controls.drpTICategories.value;
+	const letter = controls.drpTILetters.value;
+	const notrevised = controls.chkTIFilterRevised.checked;
+	const witherrs = controls.chkTIFilterErrors.checked;
+	const compare = controls.drpTILinesLength.value;
+	const redirects = controls.drpTIFilterRedirects.value;
+	//Force a load when no filters are applied
+	const forceLoad = (category === 'ALL' && letter === 'ALL' &&
+		!notrevised && !witherrs && compare === 'all' &&
+		redirects === 'Include redirects');
 	//If previously read then show filtered topics and exit
 	if (topicindexEdit.topics.length > 0 && !forceLoad) {
 		setTILoading(true);

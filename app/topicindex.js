@@ -653,12 +653,13 @@ class TopicIndex {
 		//Checking refs
 		this.checkRefs(topic, book);
 
-		//Checking own names in the paragraphs
-		const firstLetter = topic.name.substring(0, 1);
-		const isUpperCase = (firstLetter === firstLetter.toUpperCase());
-		if (isUpperCase) {
-			this.checkNamesInPars(topic, book);
-		}
+		//Checking names in paragraphs
+		// const firstLetter = topic.name.substring(0, 1);
+		// const isUpperCase = (firstLetter === firstLetter.toUpperCase());
+		// if (isUpperCase) {
+		// 	this.checkNamesInPars(topic, book);
+		// }
+		this.checkNamesInPars(topic, book);
 
 		//Checking links to other topics
 		this.checkSeeAlso(topic, undefined, topicIndexEN);
@@ -691,10 +692,10 @@ class TopicIndex {
 	};
 
 	/**
-	 * Checks if own names are found in any paragraph of Urantia Book. If
-	 * any name is not found in any paragraph or number founded is less than
-	 * a 20% adds an error in an array of error objects (with desc and fileline).
-	 * This function requires a previous call to checkRefs.
+	 * Checks if names are found in any paragraph of Urantia Book and adds an 
+	 * error in an array of error objects (with desc and fileline). This 
+	 * function requires a previous call to checkRefs to remove invalid refs
+	 * from the check.
 	 * @param {Object} topic Topic.
 	 * @param {Book} book The Urantia Book object.
 	 */
@@ -719,13 +720,7 @@ class TopicIndex {
 					topic.name, notfounded.join('; ')),
 				fileline: topic.fileline
 			});
-		} /*else if (notfounded.length / validArRefs.length > 0.8) {
-			topic.errors.push({
-				desc: strformat(this.tr('topic_in_less_20%'), 
-					topic.name, notfounded.join('; ')),
-				fileline: topic.fileline
-			});
-		}*/
+		}
 	};
 
 	/**
