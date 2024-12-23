@@ -1119,7 +1119,8 @@ was stoned to death (97:4.4)
 Amosad | | | PERSON | OK
 Amosad was a leader who around 15,000 B.C. brought about a regeneration of the decadent Sethite clergy, a rebirth that sustained the survival of that faith longer than any other (78:5.1) (92:5.9)
 
-amphibians | (59:5.5) | | | OK
+amphibians | | | | OK
+During the Devonian period, amphibians emerged as the first land animals, evolving from arthropods whose swim bladders had developed into lungs. They could live both on land and in water. (59:5.5)
 
 amphitheater | | | | OK
 It is a typical public place of the Roman Empire where shows and games were offered. Some amphitheaters mentioned in The Urantia Book are:
@@ -1132,7 +1133,7 @@ in architectural spheres there are constructions of the same type:
 * on Jerusem, the amphiteater encircling the broadcast-receiving station, with seats for five billion (46:3.1-3) (46:5.30) (53:5.6)
 > https://en.wikipedia.org/wiki/Amphitheatre
 
-anarchy; Anarchy | | | | OK
+anarchy; Anarchy; a realm of order | | | | OK
 anarchy augments misery (70:0.3)
 Jesus declared that in the universe, where two or more creatures act in co-operation, there is always provided the authority of leadership (181:2.16)
 
@@ -1146,7 +1147,7 @@ he became quartermaster of the Roman centurion named Cornelius, who was made a b
 converted to Christianity by the Apostle Philip (130:2.5)
 he accidentally perished while helping wounded in the massacre of 20,000 Jews, which occurred in Caesarea in 66 AD. (130:2.5)
 
-ancestor worship; veneration of ancestry; ancestors | (87:3) | religion | | OK
+ancestor worship; veneration of ancestry; ancestors; ancestor veneration; Ancestor worshipers; Ancestor worship; respect for ancestral | (87:3) | religion | | OK
 The advancing ghost cult made ancestor worship inevitable (87:3.1)
 The great weakness of ancestor veneration is that it promotes a backward-looking philosophy. (79:8.8)
 ancestor worship is based on the belief that the dead punished those who did not follow the rules that they had followed when they they were in the flesh (68:4.3)
@@ -1229,9 +1230,10 @@ Ancients and Lucifer's rebellion
 	they would have decreed the instant extinction of the rebels if their rebellion had occurred during Michael’s bestowal (54:4.5) (120:0.8) (120:1.5-6)
 	There are still some matters of the Lucifer rebellion to be evaluated before the Ancients of Days of Uversa decide to issue a verdict (46:8.1) (67:4.7)
 
-Andes mountains; Andes; Andes Mountains | (59:5.18) (60:2.6) (60:3.4) | | PLACE | OK
+Andes mountains; Andes; Andes Mountains | | | PLACE | OK
+During the Mesozoic era, the Andes Mountains began to rise, marking their emergence while most of South America was submerged under the polar sea. This uplift shaped the continent's geology and prevented complete inundation. (59:5.18) (60:2.6) (60:3.4)
 
-Andites; Andite | (78) (80) | Aryans; races | RACE | OK
+Andites; Andite; post-Andite | (78) (80) | Aryans; races | RACE | OK
 The Andites were the best all-round human stock to appear on Urantia since the days of Adamites; most skillful and sagacious militarists ever to live on Urantia (78:4.3-6) (80:4.3)
 The Andites were a great people, but the crucial factor in determining the course of their civilization was the increasing aridity of Iran, Turkestan, and Sinkiang, which forced them to invent and adopt new and advanced methods of wresting a livelihood from their decreasingly fertile lands. (81:6.4)
 they drove Andonites out of Europe (80:9.6-7)
@@ -1319,7 +1321,7 @@ death and current status
 	they have never returned to Urantia, although they have tried to send greetings to all Urantians at the time of writing The Urantia Book (63:7.1-3)
 	now they are in charge of welcoming pilgrims from Urantia on the first mansion world (63:7.3)
 
-Andonites; Andonite | (63:4) | mortals:primitive mortals | RACE | OK
+Andonites; Andonite; Andon races; Andonic; Andon tribes; Andonic; Andonic clans | (63:4) | mortals:primitive mortals | RACE | OK
 Andonites are the descendants of Andon and Fonta, the parents of humankind, and therefore the first race on Earth
 The appearance of the earlier Andonites on Urantia was also something new in Satania. On no other world in the local system has such a race of will creatures evolved in advance of the evolutionary races of color. (64:6.2)
 migrations
@@ -1464,7 +1466,7 @@ Angelic World; third transition sphere | | Jerusem:transitional culture worlds |
 this world is the third transitional cultural world of Jerusem, the capital of Satania (45:1.5)
 upon reaching the third mansonia, the third satellite of transition world number one, permission is granted to visit the world of angels (47:5.2)
 
-angels | (26:1) | Infinite Spirit:family of | ORDER | OK
+angels; Angels; brilliant creatures of light | (26:1) | Infinite Spirit:family of | ORDER | OK
 all groups of angels have own transport corps (39:2.8)
 in The Urantia Book the term angel is restricted to seraphim serving mortals (38:3.1)
 chief supernaphim is original pattern angel (27:2.1)
@@ -1499,7 +1501,8 @@ the wrath of God
 	Jesus refused to accept the teaching in the wrath of God or the anger of the Almighty (125:0.6-7)
 	Jesus had a talk with Jacob of Crete regarding the idea of wrath of God (142:2)
 
-angiosperms | (61:2.2) (60:3.7,19) | | | OK
+angiosperms | | | | OK
+During the Cretaceous period, angiosperms emerged and quickly spread across the continents, dominating plant life. They provided a primary food source for evolving mammals and included many modern trees, such as oak, walnut, and maple, as well as fruits, grasses, and cereals. (61:2.2) (60:3.7,19)
 
 Anglo-Saxons; Anglo-Saxon | | | RACE | OK
 Anglo-Saxons are a people descendants of Andite and blue races (80:4.5)
@@ -1608,13 +1611,13 @@ interrogation and judgement of Jesus
 > https://en.wikipedia.org/wiki/Annas
 
 Annon | | | PERSON | OK
-Mary, the mother of Jesus, was a descendant of Annon, an unknown woman whose name does not appear in the Bible (122:1.2)
+Mary, the mother of Jesus, was a descendant of Annon, an illustrious and unknown woman whose name does not appear in the Bible (122:1.2)
 
 Anova | | | PLACE | OK
 The oldest inhabited world of Satania, world number one, is Anova, one of the forty-four satellites revolving around an enormous dark planet but exposed to the differential light of three neighboring suns. Anova is in an advanced stage of progressive civilization. (49:0.5)
 
 Ansie | | | PERSON | OK
-Mary, the mother of Jesus, was descended from Ansie, an unknown woman whose name does not appear in the Bible (122:1.2)
+Mary, the mother of Jesus, was descended from Ansie, an illustrious and unknown woman whose name does not appear in the Bible (122:1.2)
 
 Antarctica | (61:2.3) (61:5.3) | | PLACE | OK
 Antarctica, Australia, and the land indicated by the islands of the Pacific broke away on the south and east and have drifted far away since that day. (58:4.3)
@@ -1626,9 +1629,11 @@ Antares | | | PLACE | OK
 Antares is the largest star in local universe of Nebadon, and is four hundred and fifty times the diameter of your sun and is sixty million times its volume (41:3.2)
 > https://es.wikipedia.org/wiki/Antares
 
-anteaters | (61:4.4) | | | OK
+anteaters | | | | OK
+Ten million years ago, anteaters evolved in South America alongside sloths, armadillos, and primitive South American monkeys, contributing to the continent's unique fauna. (61:4.4)
 
-antelopes | (61:4.3) | | | OK
+antelopes | | | | OK
+Ten million years ago, antelopes migrated from Asia to North America during a period of global land connection, playing a role in the exchange of animal species between continents. (61:4.3)
 
 anthracite; Anthracite | | | | OK
 Anthracite has been subjected to more pressure and heat than other coal. (59:5.16)
@@ -1675,7 +1680,8 @@ Early christians and Antioch
 	Within a short time after the destruction of Jerusalem, Antioch became the headquarters of Pauline Christianity, while Philadelphia remained the center of the Abnerian kingdom of heaven. (171:1.6)
 > https://en.wikipedia.org/wiki/Antioch
 
-Antipatris | (127:6.4) (143:0.1) | | PLACE | OK
+Antipatris | | | PLACE | OK
+During the time of Jesus, Antipatris was a site where people traveled to hear his teachings. In A.D. 27, residents of Antipatris were among those who came to listen as Jesus and his apostles preached the good news of the kingdom in the surrounding regions. (127:6.4) (143:0.1)
 > https://en.wikipedia.org/wiki/Antipatris
 
 antithesis | | | | OK
@@ -1691,7 +1697,7 @@ Anu | | | PERSON | OK
 Mesopotamian god of sky (95:1.4)
 > https://en.wikipedia.org/wiki/Anu
 
-anxiety; anxious; anxieties | | conflict; confusion; doubt | | OK
+anxiety; anxious; anxieties; Anxiety | | conflict; confusion; doubt | | OK
 During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world’s history they need the consolation and stabilization of sound religion. (99:4.6)
 anxiety can induce mystic state confused with Thought Adjuster communion, but it is not the case (100:5.10)
 many times we are demoralized by thoughtless panic of dread and anxiety (113:2.5)
@@ -1714,7 +1720,8 @@ Humor, the cure for anxiety
 	When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. (86:2.1)
 > https://en.wikipedia.org/wiki/Anxiety
 
-Apennines | (61:1.12) | | PLACE | OK
+Apennines | | | PLACE | OK
+Forty million years ago, the Apennines were highlands rising above the water as islands, while much of Europe was submerged under lakes and bays, connected to the expanded Mediterranean Sea. (61:1.12)
 > https://en.wikipedia.org/wiki/Apennine_Mountains
 
 Aphrodite | | | PERSON | OK
@@ -1738,7 +1745,7 @@ Apollo | | | PERSON | OK
 Apollo, the god of music and the arts, had a temple located on the Palatine Hill in Rome (132:0.2)
 > https://en.wikipedia.org/wiki/Apollo
 
-apostles of Jesus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostleship | PERSON | OK
+apostles of Jesus; Jesus' apostles; apostles; apostle; ambassadors of the kingdom; apostolic teachers; the twelve; unlearned Galileans | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostleship | PERSON | OK
 The apostles were the group of twelve followers with whom Jesus began his preaching
 their names:
 * Andrew | Andrew
@@ -1853,7 +1860,7 @@ after Pentescost
 	turned the Roman Empire upside down (195:6.9)
 > https://en.wikipedia.org/wiki/Apostles_in_Christianity
 
-apostles of John the Baptist | (135:9.1) | | PERSON | OK
+apostles of John the Baptist; John's disciples; disciples of John; John's twelve apostles; apostles of John | (135:9.1) | | PERSON | OK
 they were a group of 12 leaders appointed as apostles by John (144:6.1)
 these apostles first received their instruction from John (135:6.8)
 politics and selfish preferences provoked many arguments among John's disciples (135:9.5)
@@ -1886,7 +1893,8 @@ Appalachian almost completely worn down in Cretaceous (60:3.5)
 many plants and animals have been found high upon the Appalachians and other mountains because they were left stranded by the last ice invasion (61:7.16)
 > https://en.wikipedia.org/wiki/Appalachian_Mountains
 
-Appian Way | (130:0.2) (130:8.6) (133:0.2) | | PLACE | OK
+Appian Way | | | PLACE | OK
+In the time of Jesus, the Appian Way was a vital route for travel to Rome. Travelers like Gonod and Ganid used it to walk leisurely across Italy, encountering diverse people, including Roman citizens, Greek colonists, and descendants of slaves, while pack animals carried their belongings. (130:0.2) (130:8.6) (133:0.2)
 > https://en.wikipedia.org/wiki/Appian_Way
 
 apple | | | | OK
@@ -1929,7 +1937,7 @@ Ararat | | Mount Ararat | PLACE | OK
 Arbela | | | PLACE | OK
 One of the towns visited by Jesus, the twelve and the seventy, during the Perea mission between January 3, 30 until the death of Jesus (165:0.1)
 
-archangels; Archangels | (37:3) | archangels’ circuit; chief of Nebadon archangels | ORDER | OK
+archangels; Archangels; archangel; Archangel; Archangel of Nebadon | (37:3) | archangels’ circuit; chief of Nebadon archangels | ORDER | OK
 they are the angels of the resurrection (47:3.2) (74:2.8) (189:2.1)
 Archangels are one of the few groups of local universe personalities who are not normally under the jurisdiction of Gabriel. (37:3.2)
 The archangel corps of Nebadon is directed by the first-born of this order. (37:3.3)
@@ -1972,9 +1980,8 @@ Jesus and the apostles preached in this Greek city during their journey through 
 > https://en.wikipedia.org/wiki/Archelais
 
 Archelaus | | Herod Archelaus | PERSON | OK
-See Herod Archelaus
 
-archeology | | | | OK
+archeology; archaeologists; still older vestiges; later vases and implements; vestiges of what was onetime | | | | OK
 The Urantia Book offers information on some sites where we could make important archaeological finds not yet discovered:
 * the first Eden lies submeerged under eastern end of Mediterranean (73:7.1-2) (78:7.7)
 * Later vases and implements of poorer quality than similar products from Anditepeoples (81:2.20)
@@ -1993,7 +2000,7 @@ The only time the surface of the earth was completely covered by water was durin
 Architects of Being | | | ORDER | OK
 the Architects of Being are an order of unrevealed beings of which we are only told that they are the ones who formulate the plans for life on the planets (36:0.1)
 
-Architects of the Master Universe; Master Architects; Master Architect | (31:9) | Transcendentalers | ORDER | OK
+Architects of the Master Universe; Master Architects; Master Architect; the senior or first-eventuated Architect; senior Master Architect | (31:9) | Transcendentalers | ORDER | OK
 The Architects of the Master Universe are the governing corps of the Paradise Transcendentalers. This governing corps numbers 28,011 personalities possessing master minds, superb spirits, and supernal absonites and they are organized in seven levels or groups (31:9.1-10)
 there is a tradition on Paradise that tells that the 28,012th Master Architect failed to absonitize, perhaps because the limit of absonity was reached (31:9.10)
 There is a very close association between the Master Architects and the Paradise Creator Sons (31:9.14)
@@ -2026,7 +2033,7 @@ senior Architect
 	he is chief of Transcendentalers (31:8.4) (31:9.1)
 	he oversees the seven finaliter corps (31:10.1)
 
-architectural spheres; architectural sphere; architectural worlds; Architectural spheres | (15:7) | | PLACE | OK
+architectural spheres; architectural sphere; architectural worlds; Architectural spheres; Architectural Worlds | (15:7) | | PLACE | OK
 The architectural spheres are worlds like our planets but they have not arisen by planetary evolution, but have been made to order (41:1.3)
 These are the worlds which are built according to plans and specifications for some special purpose (15:5.13) (15:7.1) (48:1.3)
 Figures
@@ -2073,7 +2080,7 @@ It was at the Areopagus council in Athens that Paul memorably spoke about “the
 Areopolis | | | PLACE | OK
 One of the towns visited by Jesus, the twelve and the seventy, during the Perea mission between January 3, 30 until the death of Jesus (165:0.1)
 
-arguments; disputes: to debate | | contention | | OK
+arguments; disputes; to debate; argumentative; contention; Do not strive; to win an argument; to debate | | contention | | OK
 The argumentative defense of any proposition is inversely proportional to the truth contained. (48:7.30)
 Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. (159:3.2)
 Andon taught his children to settle disputes by each beating a tree with a stick, meanwhile cursing the tree; the one whose stick broke first was the victor. (70:1.3)
@@ -2112,7 +2119,8 @@ in each synagoge there is a chest containing sacred writings called the ark or H
 > https://en.wikipedia.org/wiki/Torah_ark
 > https://en.wikipedia.org/wiki/Ark_of_the_Covenant
 
-armadillos | (61:4.3-4) (61:7.15) | | | OK
+armadillos | | | | OK
+Ten million years ago, armadillos migrated from South America to North America during the last great worldwide animal migration, as continents were temporarily connected. Along with sloths, anteaters, and other animals, they spread across the region before the continents became isolated. (61:4.3-4) (61:7.15)
 
 Armageddon | | | PLACE | OK
 Armageddon was the lost seat of the orange race 400,000 years ago, when they were educated by the wise Porshunta (64:6.12)
@@ -2152,7 +2160,7 @@ value
 	Art is only religious when it becomes diffused with purpose which has been derived from high spiritual motivation. (101:9.4)
 	But spirit communion is not promoted by mere massive ornateness and overmuch embellishment with man’s elaborate and ostentatious art. (167:6.6)
 
-art of living | | | | OK
+art of living; the art of the mastery | | | | OK
 Successful living is nothing more or less than the art of the mastery of dependable techniques for solving common problems. (160:1.7)
 Rodan of Alexandria showed in his philosophy a great interest in reaching higher levels of the art of living (160:2)
 
@@ -2183,7 +2191,7 @@ In India
 
 ascender-trinitized sons | | creature-trinitized sons; trinitization | | OK
 
-ascending mortals; ascenders; ascending mortal; ascendant career | | fusion:Adjuster fusion; mortals | ORDER | OK
+ascending mortals; ascenders; ascending mortal; ascendant career; ascendant mortals; ascending; ascendant mortal; Ascending Career; Ascending; ascending Adjuster-fused mortals; ascendant; ascendant careers; ascending careers; Ascendant Adjuster-fused mortals | | fusion:Adjuster fusion; mortals | ORDER | OK
 the path of ascension
 	six stages of spiritual existence are provided for ascending mortals; and the existence of a seventh stage is postulated (31:3.3-6) (106:2.8) (117:5.3)
 	the seven stages of the ascending universe career are: (30:4) (31:3.4)
@@ -2274,7 +2282,7 @@ Ascendington is projected as the Paradise home world of time creatures of asecen
 We mortals will spend most of our Havona “vacations” on Ascendington. (13:1.21)
 Fusion is the secret of the sacred sphere of Ascendington, and no creature, save those who have experienced fusion with the spirit of Deity, can comprehend the true meaning of the actual values which are conjoined when the identity of a creature of time becomes eternally one with the spirit of Paradise Deity. (13:1.22) (112:7.2)
 
-ascension plan | | divine plan; education; perfection | | OK
+ascension plan; Paradise plan for the progressive ascension; ascension scheme; progressive perfection plan; ascension scheme; present ascension scheme | | divine plan; education; perfection | | OK
 After the life in the flesh, time is no longer available as a technique of dodging situations or of circumventing disagreeable obligations. (48:5.8)
 all spirits are devoted to ascension plan (77:9.12)
 ascesion plan has been described as:
@@ -2301,7 +2309,7 @@ wisdom of ascension plan is revealed in:
 * by performance of Amadon (67:8.5)
 * in that no fused mortals fell in Lucifer rebellion (53:7.10,12)
 
-asceticism; asceticized; ascetics | | | | OK
+asceticism; asceticized; ascetics; ascetic | | | | OK
 We should not be passive mystics or colorless ascetics (178:1.14)
 Ancient asceticism
 	faraway ascetics teach reverence (191:5.3)
@@ -2335,7 +2343,7 @@ Ashurbanipal | | | PERSON | OK
 Ashurbanipal was a king of Assyria, who sent colonists to Samaria to live there (143:4.1)
 > https://en.wikipedia.org/wiki/Ashurbanipal
 
-Asia | | Burma; China; India; Indo-China; Iran; Japan; Kashmir; Malaysia; Mesopotamia; Mongolia; Nepal; Parthia; Russia; Siam; Siberia; Turkestan | PLACE | OK
+Asia; Asiatic land mass; ancient Asiatic continent; Asian regions | | Burma; China; India; Indo-China; Iran; Japan; Kashmir; Malaysia; Mesopotamia; Mongolia; Nepal; Parthia; Russia; Siam; Siberia; Turkestan | PLACE | OK
 geology
 	The backbone of the Asiatic land mass reached a height of almost nine miles at the time of the maximum land emergence. (57:8.22)
 	A wealth of data on geological processes in Asia is offered in The Urantia Book. (59:1.8) (59:2.1) (59:2.3) (59:3.3) (59:4.5,15) (59:5.4,20) (59:6.8) (60:1.6,12) (60:3.11,15) (60:4.3) (61:1.12-13) (61:3.7) (61:4.3) (61:5.3,7) (61:7.3)
@@ -2354,14 +2362,14 @@ Asia Minor | | Turkestan | PLACE | OK
 
 Asmonean dynasty | | Maccabees | | OK
 
-Asmonean palace | | | PLACE | OK
+Asmonean palace; Maccabean palace | | | PLACE | OK
 residence of Herod the Great in Jerusalem (125:1.5) (128:3.5) (185:4.1)
 
 Asoka | | | PERSON | OK
 low-caste monarch who embraced Buddhism; sent 17,000 Buddhist missionaries to the world (94:9.1)
 > https://en.wikipedia.org/wiki/Ashoka
 
-assassination; murder | | death penalty | | OK
+assassination; murder; homicide | | death penalty | | OK
 it is only fair to record that many an ancient rich man distributed much of his fortune because of the fear of being killed by those who coveted his treasures. (69:5.14)
 the most despotic tyrants were subject to some restrictions; they were at least restrained by the ever-present fear of assassination. (70:6.6)
 Cain slew Abel, one the the most famous assasinations (76:2.5)
@@ -2399,7 +2407,7 @@ assistant teachers | | seraphim | ORDER |vOK
 The assistant teachers are the helpers and associates of their fellow seraphim, the teaching counselors. (39:2.7)
 A marvelous corps of this order of seraphim functions on Urantia for the purpose of fostering and furthering the cause of truth and righteousness. (39:2.7)
 
-Associate Circuit Supervisors | | | ORDER | OK
+Associate Circuit Supervisors; associate circuit supervisors | | | ORDER | OK
 they are part of order of Universe Circuit Supervisors; they direct superuniverse circuits (24:1.2-8)
 
 Associate Inspectors | (24:4) | | ORDER | OK
@@ -2456,7 +2464,7 @@ asteroids | | | | OK
 asteroids are made from solar matter (57:5.8)
 > https://en.wikipedia.org/wiki/Asteroid_belt
 
-astrology; Astrology | | stars | | OK
+astrology; Astrology; astrologers | | stars | | OK
 Belief in astrology led to the development of astronomy (81:2.9) (88:6.5)
 In connection with a revival of the worship of Ishtar in Mesopotamia, the Babylonian priests again turned to stargazing and astrology experienced its last great revival. (95:1.7)
 spirit messages were interpreted by astrology (87:5.9)
@@ -2477,13 +2485,13 @@ astronomical objects named in The Urantia Book are:
 * Jupiter | Jupiter (planet)
 * Magellanic Cloud | Magellanic Cloud
 * Mars | Mars (planet)
-* Mercury | Mercury (planet)
+* Mercury | Mercury
 * Milky Way galaxy | Milky Way galaxy
 * Monmatia | Monmatia
 * the moon (Urantia’s)| moon (Urantia’s)
 * Pole Star | Pole Star
 * Sagittarius | Sagittarius
-* Saturn | Saturn (planet)
+* Saturn | Saturn
 * the sun | sun (Urantia’s)
 * Umajor the fifth | Umajor the fifth
 * Uminor the third | Uminor the third
@@ -2534,7 +2542,7 @@ atmospehere in morontia spheres
 atmospheric mortals; atmospheric types | | mortals:planetary types | | OK
 there are four types of mortal beings according to the atmospehere of their planet: nonbreathers, subbreathers, mid-breathers, and superbreathers (49:2.10-14)
 
-atoms; atomic; atom | | electrons; elements (chemical); mesotrons; neutrons; protons; ultimatons | | OK
+atoms; atomic; atom; Atoms | | electrons; elements (chemical); mesotrons; neutrons; protons; ultimatons | | OK
 the formation of all matter is on the same order: atoms with a nuclear portion and electrons (42:7)
 Each atom is a trifle over 1/100,000,000th of an inch in diameter (42:6.7)
 the atom is formed like solar system. Surrounding this energy center there whirl, in endless profusion but in fluctuating circuits, the energy units which are faintly comparable to the planets encircling a sun. (42:7.1-2)
@@ -2566,7 +2574,7 @@ God of the sun; Ikhnaton based his monotheism on Aten (95:5.6-7,11)
 
 atonement, feast of | | Judaism:feasts | | OK
 
-atonement doctrine | (186:5) | crucifixion; devil; forgiveness; Jesus:death; redemption | | OK
+atonement doctrine; atonement; doctrine of atonement; doctrines of redemption | (186:5) | crucifixion; devil; forgiveness; Jesus:death; redemption | | OK
 all atonement doctrine is an erroneous teaching (20:6.6-7) (148:4.7-10) (188:4-5)
 Jesus did not bestow himself to reconcile an angry God (2:5.2) (4:5.6) (98:7.1) (188:4.7)
 God certainly would never be satisfied with the childish scheme of substituting an innocent sufferer for a guilty offender (188:4.11)
@@ -2606,7 +2614,7 @@ tried to destroy mysteries and revive the oldest political religion (98:3.6-8)
 created a new Roman state religion and proclaiming himself god, did not hesitate to encourage the worship of his person (98:3.7-8)
 > https://en.wikipedia.org/wiki/Augustus
 
-auroral displays | | northern lights | | OK
+auroral displays; Auroral | | northern lights | | OK
 The height of the earth’s atmosphere is indicated by the highest auroral streamers—about four hundred miles. Auroral phenomena are directly related to sunspots (58:2.6-8)
 
 Australia | | aborigines (Australian) | PLACE | OK

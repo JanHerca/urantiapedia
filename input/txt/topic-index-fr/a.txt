@@ -1087,11 +1087,11 @@ Saül vainquit les Ammonites lorsqu'ils voulurent attaquer les Giléadites. Cett
 ammonites | | | | OK
 Pendant l'ère Mésozoïque, les ammonites étaient une espèce marine dominante, avec plus de mille espèces se développant sur la côte pacifique californienne et des fossiles retrouvés dans le monde entier. Leur taille variait de trois à quatre pouces, certaines atteignant huit pieds de diamètre, mais leur influence a décliné vers la fin de la période. (60:1.12-13) (60:2.8) (60:4.5)
 
-amibe; Amibes; amibe | | | | OK
+amibe; amibes | | | | OK
 Les amibes sont des survivantes typiques du stade initial de la vie animale (59:1.1)
 L'amibe est apparue mais a peu changé depuis les temps anciens (65:2.4)
 
-Amorites; Confédération amorrite | | | RACE | OK
+Amorites; confédération des Amorites | | | RACE | OK
 Ils étaient une confédération de clans sémitiques, mais ils étaient loin derrière et se suicidaient en tant que nation à cause de leurs pratiques insensées. Melchizédek conseilla à Abraham de ne pas les combattre car il lui révéla qu'à l'avenir ils seraient un peuple faible et facile à vaincre par ses descendants (93:6.2).
 Quemos était le dieu des Amorites, et les Hébreux ont également cru pendant un temps en son existence, bien qu'il fût subordonné à Yahweh (96:1.14)
 
@@ -1119,7 +1119,8 @@ a été lapidé à mort (97:4.4)
 Amosad | | | PERSON | OK
 Amosad était un dirigeant qui, vers 15 000 av. J.-C., a provoqué une régénération du clergé décadent des Séthites, une renaissance qui a soutenu la survie de cette foi plus longtemps que toute autre (78:5.1) (92:5.9)
 
-amphibiens | (59:5.5) | | | OK
+amphibiens | | | | OK
+Pendant la période dévonienne, les amphibiens ont émergé comme les premiers animaux terrestres, évoluant à partir d'arthropodes dont les vessies natatoires s'étaient transformées en poumons. Ils pouvaient vivre à la fois sur terre et dans l'eau. (59:5.5)
 
 amphithéâtre | | | | OK
 Il s'agit d'un lieu public typique de l'Empire romain où étaient proposés des spectacles et des jeux. Parmi les amphithéâtres mentionnés dans Le Livre d'Urantia, on trouve :
@@ -1132,7 +1133,7 @@ dans les sphères architecturales, il existe des constructions du même type :
 * à Jérusalem, l'amphithéâtre entourant la station de réception de radiodiffusion, avec des sièges pour cinq milliards (46:3.1-3) (46:5.30) (53:5.6)
 > https://en.wikipedia.org/wiki/Amphitheatre
 
-anarchie; Anarchie | | | | OK
+anarchie; Anarchie; un domaine ordonné | | | | OK
 l'anarchie augmente la misère (70:0.3)
 Jésus a déclaré que dans l'univers, là où deux ou plusieurs créatures agissent en coopération, l'autorité du leadership est toujours assurée (181:2.16).
 
@@ -1229,9 +1230,10 @@ Les Anciens et la rébellion de Lucifer
 	ils auraient décrété l'extinction immédiate des rebelles si leur rébellion avait eu lieu pendant l'effusion de Michel (54:4.5) (120:0.8) (120:1.5-6)
 	Il reste encore quelques questions concernant la rébellion de Lucifer à évaluer avant que les Anciens des Jours d'Uversa ne décident de rendre un verdict (46:8.1) (67:4.7)
 
-Cordillère des Andes; Andes | (59:5.18) (60:2.6) (60:3.4) | | PLACE | OK
+Cordillère des Andes; Andes | | | PLACE | OK
+Pendant l'ère Mésozoïque, les Andes ont commencé à s'élever, marquant leur apparition tandis que la majeure partie de l'Amérique du Sud était submergée sous la mer polaire. Ce soulèvement a façonné la géologie du continent et empêché une submersion complète. (59:5.18) (60:2.6) (60:3.4)
 
-Andites; Andite | (78) (80) | Aryens; races | RACE | OK
+Andites; Andite; andites; andite | (78) (80) | Aryens; races | RACE | OK
 Les Andites étaient la meilleure race humaine à apparaître sur Urantia depuis l'époque des Adamites; les militaristes les plus habiles et les plus sagaces qui aient jamais vécu sur Urantia (78:4.3-6) (80:4.3)
 Les Andites étaient un grand peuple, mais le facteur crucial qui détermina le cours de leur civilisation fut l'aridité croissante de l'Iran, du Turkestan et du Sinkiang, qui les força à inventer et à adopter des méthodes nouvelles et avancées pour tirer un moyen de subsistance de leurs terres de moins en moins fertiles. (81:6.4)
 ils ont chassé les Andonites d'Europe (80:9.6-7)
@@ -1319,7 +1321,7 @@ décès et statut actuel
 	ils ne sont jamais retournés sur Urantia, bien qu'ils aient essayé d'envoyer leurs salutations à tous les Urantiens au moment de la rédaction du Livre d'Urantia (63:7.1-3)
 	ils sont maintenant chargés d'accueillir les pèlerins d'Urantia sur le premier monde des maisons (63:7.3)
 
-Andonites; Andonite | (63:4) | mortels:mortels primitifs | RACE | OK
+Andonites; Andonite; andonites; andonite; races issues d'Andon; tribus andoniques; aborigènes andonites; clans andoniques | (63:4) | mortels:mortels primitifs | RACE | OK
 Les Andonites sont les descendants d'Andon et de Fonta, les parents de l'humanité, et donc la première race sur Terre
 L'apparition des premiers Andonites sur Urantia était également une nouveauté pour Satania. Sur aucun autre monde du système local une telle race de créatures douées de volonté n'a évolué avant les races évolutionnaires de couleur. (64:6.2)
 migrations
@@ -1391,7 +1393,7 @@ Andonites renommés
 	* la première famille Sangik | famille Sangik
 	* Sontad | Sontad
 
-Andovontia; Superviseur du circuit tertiaire | | Superviseurs des Circuits Universels | PERSON | OK
+Andovontia; superviseur de circuit tertiaire | | Superviseurs des Circuits Universels | PERSON | OK
 Il est le superviseur du circuit tertiaire des circuits universels en poste dans notre univers local. C'est lui qui a mis Urantia en quarantaine après la trahison de Caligastia (37:8.3).
 Andovontia est le nom du superviseur du circuit tertiaire des Circuits, portant le numéro 572 842 pour Nébadon, et sa mission est éternelle. Il est membre du personnel personnel de Michael de Nébadon (24:1.11).
 
@@ -1452,7 +1454,7 @@ la famille stellaire d'Andronover et ses amas associés tournent autour du centr
 > https://www.nationalgeographic.com/science/article/120117-sun-solar-system-born-stars-m67-space-science
 > https://arxiv.org/pdf/1004.4284.pdf
 
-Le | | Cent de Caligastia | PERSON | OK
+Ang | | Cent de Caligastia | PERSON | OK
 Ang était l'un des membres corporels du personnel du Prince Planétaire, qui présidait le conseil de l'alimentation et du bien-être matériel, et qui enseignait l'irrigation, les fourreurs et le tissage aux hommes primitifs (66:5.2).
 Ang et trois membres de son conseil sont restés loyaux et n'ont pas rejoint la rébellion (67:4.1)
 
@@ -1460,11 +1462,11 @@ Angamon | | | PERSON | OK
 Angamon était le chef de l'église des stoïques à Rome. Jésus eut avec lui une conversation dont nous trouvons un résumé dans Le Livre d'Urantia. Il était un grand ami de Paul de Tarse et un fervent adepte de l'église chrétienne de Rome (132:1).
 Angamon présenta Jésus à un homme riche de Rome qui fut grandement influencé par ses enseignements (132:5.1).
 
-Monde angélique; troisième sphère de transition | | Jérusalem: mondes culturels de transition | PLACE | OK
+monde angélique; troisième sphère de transition | | Jérusalem: mondes culturels de transition | PLACE | OK
 ce monde est le troisième monde culturel de transition de Jérusalem, la capitale de Satania (45:1.5)
 en atteignant la troisième maisonnia, le troisième satellite du monde de transition numéro un, la permission est accordée de visiter le monde des anges (47:5.2)
 
-anges | (26:1) | Esprit Infini:famille de | ORDER | OK
+anges; brillantes créatures de lumière | (26:1) | Esprit Infini:famille de | ORDER | OK
 tous les groupes d'anges ont leur propre corps de transport (39:2.8)
 Dans Le Livre d'Urantia, le terme ange est limité aux séraphins au service des mortels (38:3.1)
 le chef supernaphin est l'ange modèle original (27:2.1)
@@ -1482,7 +1484,7 @@ ordres (26:1.2) (30:2.82-89)
 	# Chérubins et Sanobim
 	# médians
 
-colère; en colère; rage; courroux; colère | | peur; haine; vengeance | | OK
+colère; en colère; rage; courroux; colère; fureur; colères | | peur; haine; vengeance | | OK
 la colère doit être vaincue par la miséricorde (131:4.6) (141:3.8)
 quiconque se met en colère contre son frère est en danger de condamnation (140:6.4)
 la colère est un sentiment mesquin et méprisable (4:3.2)
@@ -1499,7 +1501,8 @@ la colère de Dieu
 	Jésus a refusé d'accepter l'enseignement de la colère de Dieu ou de la fureur du Tout-Puissant (125:0.6-7)
 	Jésus a eu une conversation avec Jacob de Crète concernant l'idée de la colère de Dieu (142:2)
 
-angiospermes | (61:2.2) (60:3.7,19) | | | OK
+angiospermes | | | | OK
+Pendant la période Crétacée, les angiospermes ont émergé et se sont rapidement répandues sur les continents, dominant la vie végétale. Elles constituaient une source alimentaire majeure pour les mammifères en évolution et comprenaient de nombreux arbres modernes, tels que le chêne, le noyer et l'érable, ainsi que des fruits, des herbes et des céréales. (61:2.2) (60:3.7,19)
 
 Anglo-saxonnes; anglo-saxonnes | | | RACE | OK
 Les anglo-saxonnes sont un peuple descendant des races Andite et bleue (80:4.5)
@@ -1508,7 +1511,7 @@ Angona | | | PLACE | OK
 Angona est le nom d'un système solaire massif composé d'une géante sombre venue de l'espace, peut-être un trou noir, qui, il y a 4,5 milliards d'années, s'est approché de notre système solaire et a donné naissance à douze planètes et à un nuage de météores en libérant de la matière du soleil (41:10.1) (57:5.4-14)
 il est possible qu'Angona fasse partie d'une grande nébuleuse voisine d'Andronover dont l'approche a déformé Andronover car on nous dit que cette distorsion s'est produite au moment de la naissance de notre système solaire (15:3.6)
 
-animaux; animal; Animaux | | insectes; mammifères; vie marine | | OK
+animaux; animal; Animaux; animale; bêtes; animales | | insectes; mammifères; vie marine | | OK
 différences par rapport à l'homme
 	ne peut pas connaître Dieu, développer le langage (130:2.8)
 	Les animaux communiquent entre eux de façon rudimentaire, mais il y a peu ou pas de personnalité dans ce contact primitif. (109:4.2) (160:2.1)
@@ -1608,13 +1611,13 @@ interrogatoire et jugement de Jésus
 > https://en.wikipedia.org/wiki/Annas
 
 Annon | | | PERSON | OK
-Marie, la mère de Jésus, était une descendante d'Annon, une femme inconnue dont le nom n'apparaît pas dans la Bible (122:1.2)
+Marie, la mère de Jésus, était une descendante d'Annon, une femme illustre inconnue dont le nom n'apparaît pas dans la Bible (122:1.2)
 
 Anova | | | PLACE | OK
 Le monde habité le plus ancien de Satania, le monde numéro un, est Anova, l'un des quarante-quatre satellites tournant autour d'une énorme planète sombre mais exposé à la lumière différentielle de trois soleils voisins. Anova est à un stade avancé de civilisation progressive. (49:0.5)
 
 Ansie | | | PERSON | OK
-Marie, la mère de Jésus, descendait d'Ansie, une femme inconnue dont le nom n'apparaît pas dans la Bible (122:1.2)
+Marie, la mère de Jésus, descendait d'Ansie, une femme illustre inconnue dont le nom n'apparaît pas dans la Bible (122:1.2)
 
 Antarctique | (61:2.3) (61:5.3) | | PLACE | OK
 L'Antarctique, l'Australie et les terres indiquées par les îles du Pacifique se sont séparées au sud et à l'est et ont dérivé très loin depuis ce jour. (58:4.3)
@@ -1626,9 +1629,11 @@ Antarès | | | PLACE | OK
 Antarès est la plus grande étoile de l'univers local de Nébadon, et mesure quatre cent cinquante fois le diamètre de votre soleil et soixante millions de fois son volume (41:3.2)
 > https://es.wikipedia.org/wiki/Antares
 
-fourmiliers | (61:4.4) | | | OK
+fourmiliers | | | | OK
+Il y a dix millions d'années, les fourmiliers ont évolué en Amérique du Sud aux côtés des paresseux, des tatous et des singes primitifs sud-américains, enrichissant la faune unique du continent. (61:4.4)
 
-antilopes | (61:4.3) | | | OK
+antilopes | | | | OK
+Il y a dix millions d'années, les antilopes ont migré d'Asie vers l'Amérique du Nord pendant une période de connexion terrestre mondiale, contribuant à l'échange d'espèces animales entre les continents. (61:4.3)
 
 anthracite; Anthracite | | | | OK
 L'anthracite a été soumis à plus de pression et de chaleur que les autres charbons. (59:5.16)
@@ -1639,7 +1644,7 @@ Un anthropomorphisme exalté est le niveau de réalisation le plus élevé d'une
 > https://en.wikipedia.org/wiki/Anthropomorphism
 > https://en.wikipedia.org/wiki/Euhemerism
 
-antigravité; Antigravité; forces antigravité | | gravité | | OK
+antigravité; Antigravité; forces antigravité; influence antigravitationnelle; influences antigravitationnelles; antigravitationnel; antigravitationnelles | | gravité | | OK
 le flux alternatif des niveaux spatiaux exerce une influence antigravitationnelle (11:7.9)
 L'antigravité peut annuler la gravité dans un référentiel local; elle le fait par l'exercice d'une présence de force égale. (9:3.3)
 L'antigravité est également utilisée à Havona dans l'organisation des fonctions matérielles et des activités spirituelles de ces mondes énormes. (14:3.6)
@@ -1675,7 +1680,8 @@ Les premiers chrétiens et Antioche
 	Peu de temps après la destruction de Jérusalem, Antioche devint le siège du christianisme paulinien, tandis que Philadelphie restait le centre du royaume céleste abnérien. (171:1.6)
 > https://en.wikipedia.org/wiki/Antioche
 
-Antipatris | (127:6.4) (143:0.1) | | PLACE | OK
+Antipatris | | | PLACE | OK
+À l'époque de Jésus, Antipatris était un lieu d'où les gens voyageaient pour écouter ses enseignements. En l'an 27 apr. J.-C., les habitants d'Antipatris faisaient partie de ceux qui venaient entendre Jésus et ses apôtres prêcher la bonne nouvelle du royaume dans les régions avoisinantes. (127:6.4) (143:0.1)
 > https://en.wikipedia.org/wiki/Antipatris
 
 antithèse | | | | OK
@@ -1691,7 +1697,7 @@ Anou | | | PERSON | OK
 Dieu mésopotamien du ciel (95:1.4)
 > https://en.wikipedia.org/wiki/Anu
 
-anxiété; anxieux; angoisses | | conflit; confusion; doute | | OK
+anxiété; anxieux; angoisses; anxiétés; craignez | | conflit; confusion; doute | | OK
 Durant les temps psychologiquement instables du vingtième siècle, au milieu des bouleversements économiques, des courants moraux contraires et des courants sociologiques des transitions cycloniques d'une ère scientifique, des milliers et des milliers d'hommes et de femmes sont devenus humainement disloqués; ils sont anxieux, agités, craintifs, incertains et instables; comme jamais auparavant dans l'histoire du monde, ils ont besoin de la consolation et de la stabilisation d'une religion saine. (99:4.6)
 l'anxiété peut induire un état mystique confondu avec la communion avec l'Ajusteur de Pensée, mais ce n'est pas le cas (100:5.10)
 nous sommes souvent démoralisés par une panique irréfléchie, par la peur et l'anxiété (113:2.5)
@@ -1714,7 +1720,8 @@ L'humour, remède contre l'anxiété
 	Lorsque les hommes et les femmes deviennent victimes d'une anxiété excessive, ils reviennent simplement à l'état naturel de leurs lointains ancêtres; et lorsque l'anxiété devient réellement douloureuse, elle inhibe l'activité et instaure immanquablement des changements évolutifs et des adaptations biologiques. (86:2.1)
 > https://en.wikipedia.org/wiki/Anxiety
 
-Apennins | (61:1.12) | | PLACE | OK
+Apennins | | | PLACE | OK
+Il y a quarante millions d'années, les Apennins étaient des hautes terres s'élevant au-dessus de l'eau sous forme d'îles, tandis qu'une grande partie de l'Europe était submergée sous des lacs et des baies, reliée à la Méditerranée élargie. (61:1.12)
 > https://en.wikipedia.org/wiki/Apennine_Mountains
 
 Aphrodite | | | PERSON | OK
@@ -1727,9 +1734,9 @@ apocalyptistes | | | | OK
 Environ cent ans avant l'époque de Jésus et de Jean, une nouvelle école de maîtres religieux, les apocalyptistes, apparut en Palestine. Ces nouveaux maîtres élaborèrent un système de croyances qui expliquait les souffrances et l'humiliation des Juifs en affirmant qu'ils payaient la pénalité pour les péchés de la nation. (135:5.2)
 > https://en.wikipedia.org/wiki/Apocalyptic_literature
 
-apocryphes; Livre d'Enoch; Livre de la Sagesse | | | | OK
+apocryphes; Livre d'Énoch; livre dit d'Énoch; Livre de la Sagesse | | | | OK
 Le Livre d'Urantia mentionne deux livres bibliques apocryphes, qui ne sont pas canoniques :
-	* Livre d'Hénoch (126:3.6-8) (136:1.6)
+	* Livre d'Énoch (126:3.6-8) (136:1.6)
 	* Livre de la Sagesse (95:4.3) (96:1.5)
 > https://en.wikipedia.org/wiki/Book_of_Enoch
 > https://en.wikipedia.org/wiki/Book_of_Wisdom
@@ -1738,7 +1745,7 @@ Apollon | | | PERSON | OK
 Apollon, le dieu de la musique et des arts, avait un temple situé sur la colline du Palatin à Rome (132:0.2)
 > https://en.wikipedia.org/wiki/Apollo
 
-apôtres de Jésus | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostolat | PERSON | OK
+apôtres de Jésus; apôtres; apôtre; instructeur apostolique; les douze; Galiléens sans instruction | (138) (145:4.1) (150:4) (158:0.2) (158:2.5) (172:5) (173:5.6) (184:2.2) (193:3.2) | apostolat | PERSON | OK
 Les apôtres étaient le groupe de douze disciples avec lesquels Jésus a commencé sa prédication
 leurs noms:
 * André | André
@@ -1853,7 +1860,7 @@ après la Pentecôte
 	a bouleversé l'Empire romain (195:6.9)
 > https://en.wikipedia.org/wiki/Apostles_in_Christianity
 
-apôtres de Jean-Baptiste | (135:9.1) | | PERSON | OK
+apôtres de Jean le Baptiste; disciples de Jean; apôtres de Jean | (135:9.1) | | PERSON | OK
 ils étaient un groupe de 12 dirigeants nommés comme apôtres par Jean (144:6.1)
 ces apôtres ont d'abord reçu leur instruction de Jean (135:6.8)
 la politique et les préférences égoïstes ont provoqué de nombreuses disputes parmi les disciples de Jean (135:9.5)
@@ -1886,7 +1893,8 @@ Les Appalaches sont presque entièrement détruites au Crétacé (60:3.5)
 de nombreuses plantes et animaux ont été retrouvés dans les hautes montagnes des Appalaches et d'autres montagnes parce qu'ils ont été abandonnés par la dernière invasion glaciaire (61:7.16)
 > https://en.wikipedia.org/wiki/Appalachian_Mountains
 
-Voie Appienne | (130:0.2) (130:8.6) (133:0.2) | | PLACE | OK
+Voie Appienne | | | PLACE | OK
+À l'époque de Jésus, la Voie Appienne était une route essentielle pour se rendre à Rome. Des voyageurs comme Gonod et Ganid l'empruntaient pour traverser l'Italie à pied, rencontrant diverses personnes, notamment des citoyens romains, des colons grecs et des descendants d'esclaves, tandis que leurs bagages étaient transportés par des animaux de charge. (130:0.2) (130:8.6) (133:0.2)
 > https://en.wikipedia.org/wiki/Appian_Way
 
 pomme | | | | OK
@@ -1908,7 +1916,7 @@ Mer d'Arabie; mer d'Arabie | | | PLACE | OK
 vers 7000 av. J.-C., la navigation dravidienne progressait le long des côtes de la mer d'Arabie jusqu'aux villes sumériennes du golfe Persique et s'aventurait sur les eaux de la baie du Bengale jusqu'aux Indes orientales. (79:3.7)
 > https://en.wikipedia.org/wiki/Arabian_Sea
 
-Arabes; Arabe | | Arabie; Bédouins | RACE | OK
+Arabes; Arabe; arabes | | Arabie; Bédouins | RACE | OK
 Les Arabes utilisaient pour la cérémonie d'adoption le serment prêté tandis que la main du candidat reposait sur l'organe génital du natif de la tribu. (70:3.8)
 Les tribus nomades basanées des Arabes modernes sont les descendants d'un mélange de race bleue installée dans l'ancienne péninsule perse, d'une partie de la race jaune et d'une partie des races adamites (64:7.11)
 Les Arabes et les indigènes d'Afrique comptent parmi les peuples pastoraux les plus récents. (68:5.6)
@@ -1929,7 +1937,7 @@ Ararat | | mont Ararat | PLACE | OK
 Arbéla | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
-archanges; Archanges | (37:3) | circuit des archanges; chef des archanges de Nébadon | ORDER | OK
+archanges; Archanges; archange; Archange; Archange de Nébadon | (37:3) | circuit des archanges; chef des archanges de Nébadon | ORDER | OK
 ce sont les anges de la résurrection (47:3.2) (74:2.8) (189:2.1)
 Les archanges sont l'un des rares groupes de personnalités de l'univers local qui ne sont normalement pas sous la juridiction de Gabriel. (37:3.2)
 Le corps des archanges de Nébadon est dirigé par le premier-né de cet ordre. (37:3.3)
@@ -1972,9 +1980,8 @@ Jésus et les apôtres ont prêché dans cette ville grecque lors de leur voyage
 > https://en.wikipedia.org/wiki/Archelais
 
 Archélaos | | Hérode Archélaüs | PERSON | OK
-Voir Hérode Archélaüs
 
-archéologie | | | | OK
+archéologie; archéologues; vestiges encore antérieurs; vases et outils des époques plus tardives; vestiges de ce qui fut | | | | OK
 Le Livre d'Urantia offre des informations sur certains sites où nous pourrions faire d'importantes découvertes archéologiques non encore découvertes :
 * le premier Eden se trouve submergé sous l'extrémité orientale de la Méditerranée (73:7.1-2) (78:7.7)
 * Vases et ustensiles ultérieurs de qualité inférieure à ceux des produits similaires des peuples andites (81:2.20)
@@ -1985,7 +1992,7 @@ Le Livre d'Urantia offre des informations sur certains sites où nous pourrions 
 * des vestiges très anciens de l'époque de Dalamatia existent sous les eaux du golfe Persique (78:7.7)
 > https://en.wikipedia.org/wiki/Dilmun
 
-Archéozoïque; archéozoïque | | âges géologiques | | OK
+Archéozoïque; archéozoïque; âges archéozoïques | | âges géologiques | | OK
 L'archéozoique est l'ère pré-vie, depuis le moment où la planète a atteint sa taille actuelle jusqu'à l'époque de l'établissement de la vie, il y a 1 milliard à 550 millions d'années (59:0.2)
 La seule fois où la surface de la terre a été entièrement recouverte d'eau, c'était pendant les âges archéozoïques, avant que la terre ne commence à apparaître. (78:7.4)
 > https://en.wikipedia.org/wiki/Archean
@@ -1993,7 +2000,7 @@ La seule fois où la surface de la terre a été entièrement recouverte d'eau, 
 Architectes de l'Être | | | ORDER | OK
 les Architectes de l'Être sont un ordre d'êtres non révélés dont on nous dit seulement qu'ils sont ceux qui formulent les plans de la vie sur les planètes (36:0.1)
 
-Architectes du Maitre Univers; Maîtres Architectes; Maître Architecte | (31:9) | Transcendantaux | ORDER | OK
+Architectes du Maitre Univers; Maîtres Architectes; Maître Architecte; Maitres Architectes; Architectes absonites du Maitre Univers; Architectes paradisiaques du Maitre Univers; le doyen, le premier Architecte extériorisé; doyen des Maitres Architectes | (31:9) | Transcendantaux | ORDER | OK
 Les Architectes du Maître Univers sont le corps dirigeant des Transcendantaux du Paradis. Ce corps dirigeant compte 28 011 personnalités possédant des esprits supérieurs, des esprits superbes et des absonites célestes et ils sont organisés en sept niveaux ou groupes (31:9.1-10).
 il y a une tradition sur le Paradis qui raconte que le 28 012ème Maître Architecte n'a pas réussi à absoniser, peut-être parce que la limite de l'absonité a été atteinte (31:9.10)
 Il existe une association très étroite entre les Maîtres Architectes et les Fils Créateurs du Paradis (31:9.14)
@@ -2063,7 +2070,7 @@ il y avait des Andonites dans les régions arctiques vers 15 000 av. J.-C. (78:3
 Ardnon | | | PERSON | OK
 Ardnon est un prêtre chaldéen qui dirigeait les prêtres qui rendaient visite à Jésus dans la crèche. L'arrivée de Jésus fut annoncée à Ardnon et à ces prêtres et cette annonce fut le seul événement surnaturel lié à la naissance de Jésus (119:7.6)
 
-gardiens de zone et d'immeuble; Gardiens de zone et d'immeuble | | | ORDER | OK
+Conservateurs des terrains et bâtiments | | | ORDER | OK
 Les Compagnons Morontiels de Jérusalem sont-ils responsables des structures matérielles et morontielles qui servent de demeures (48:3.15)
 
 Aréopage; aréopage | | | PLACE | OK
@@ -2073,7 +2080,7 @@ C'est au concile de l'Aréopage à Athènes que Paul a prononcé un discours mé
 Aréopolis | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
-arguments; disputes:débattre | | dispute | | OK
+arguments; disputes; débattre; argumentation; litiges; en litige; Ne luttez; gagner une discussion; discussions | | dispute | | OK
 La défense argumentative de toute proposition est inversement proportionnelle à la vérité contenue. (48:7.30)
 Les arguments accablants et la supériorité mentale ne doivent pas être employés pour contraindre les hommes et les femmes à entrer dans le royaume. (159:3.2)
 Andon enseigna à ses enfants à régler les conflits en frappant chacun un arbre avec un bâton, tout en maudissant l'arbre; celui dont le bâton se brisait en premier était le vainqueur. (70:1.3)
@@ -2094,7 +2101,7 @@ Les chamans s'habillaient bien et avaient généralement plusieurs épouses; ils
 Il s'est formé très tôt une noblesse commerciale, dont l'admission dépendait de l'accomplissement d'un service spécial à la royauté ou était accordée franchement contre le paiement d'une somme d'argent. (69:5.7)
 l'aristocratie a exercé une influence restrictive sur les premiers rois (70:6.6)
 
-Aristote; Aristotélicien | | | PERSON | OK
+Aristote; aristotélicienne | | | PERSON | OK
 Philosophe grec qui enseignait que la vertu est la connaissance (98:2.6)
 sa philosophie était vénérée par les Juifs hellénisés (121:6.3)
 > https://en.wikipedia.org/wiki/Aristote
@@ -2112,7 +2119,8 @@ dans chaque synagoge il y a un coffre contenant des écrits sacrés appelé l'ar
 > https://en.wikipedia.org/wiki/Torah_ark
 > https://en.wikipedia.org/wiki/Ark_of_the_Covenant
 
-tatous | (61:4.3-4) (61:7.15) | | | OK
+tatous | | | | OK
+Il y a dix millions d'années, les tatous ont migré de l'Amérique du Sud vers l'Amérique du Nord lors de la dernière grande migration mondiale des animaux, lorsque les continents étaient temporairement connectés. Avec des paresseux, des fourmiliers et d'autres animaux, ils se sont répandus dans la région avant que les continents ne soient isolés. (61:4.3-4) (61:7.15)
 
 Armageddon | | | PLACE | OK
 Armageddon était le siège perdu de la race orange il y a 400 000 ans, lorsqu'ils furent éduqués par le sage Porshunta (64:6.12)
@@ -2152,7 +2160,7 @@ valeur
 	L'art n'est religieux que lorsqu'il est diffusé avec un objectif qui découle d'une haute motivation spirituelle. (101:9.4)
 	Mais la communion spirituelle n'est pas favorisée par une simple ornementation massive et par un embellissement excessif avec l'art élaboré et ostentatoire de l'homme. (167:6.6)
 
-art de vivre | | | | OK
+art de vivre; art de maitriser | | | | OK
 Une vie réussie n'est ni plus ni moins que l'art de maîtriser des techniques fiables pour résoudre des problèmes courants. (160:1.7)
 Rodan d'Alexandrie a montré dans sa philosophie un grand intérêt pour atteindre des niveaux plus élevés de l'art de vivre (160:2)
 
@@ -2167,7 +2175,7 @@ artificialité | | insincérité | | OK
 artistes de l'odorat | | designers et embellisseurs; artisans célestes | ORDER | OK
 Les artistes de l'odorat font partie du groupe des concepteurs et des embellisseurs, le sixième corps des artisans célestes (44:6.6)
 
-Aryens; Aryen | | Andites | RACE | OK
+Aryens; Aryen; aryens; aryenne; aryennes | | Andites | RACE | OK
 Les Aryens sont les conquérants védiques andites qui ont pénétré en Inde vers 2500 av. J.-C. en provenance du Turkestan (78:5.6) (79:4) (94:1.1)
 Les Aryens furent aussi les envahisseurs helléniques de la Grèce, et ils apportèrent avec eux des concepts anthropomorphiques de Dieu semblables à ceux que leurs compatriotes aryens avaient apportés en Inde. L'influence initiale des enseignants de Salem fut presque détruite par cette prétendue invasion aryenne venue du sud de l'Europe et de l'Est. (98:1.2)
 Les premiers Andites n'étaient pas aryens; ils étaient pré-aryens. (78:4.4)
@@ -2183,7 +2191,7 @@ En Inde
 
 fils trinitisés par l'ascendeur | | fils trinitisés par la créature; trinitisation | | OK
 
-mortels ascendants; ascendeurs; mortel ascendant; carrière ascendante | | fusion:Fusion Ajusteur; mortels | ORDER | OK
+mortels ascendants; ascendeurs; mortel ascendant; carrière ascendante; ascendants; ascendantes; ascendeur mortel; ascendeur; carrière d'ascension; ascendant; ascendante | | fusion:Fusion Ajusteur; mortels | ORDER | OK
 le chemin de l'ascension
 	six stades d'existence spirituelle sont prévus pour les mortels ascendants; et l'existence d'un septième stade est postulée (31:3.3-6) (106:2.8) (117:5.3)
 	les sept étapes de la carrière ascendante de l'univers sont : (30:4) (31:3.4)
@@ -2274,7 +2282,7 @@ Ascendington est projeté comme le monde paradisiaque des créatures temporelles
 Nous, les mortels, passerons la plupart de nos « vacances » à Havona à Ascendington. (13:1.21)
 La fusion est le secret de la sphère sacrée d'Ascendington, et aucune créature, à l'exception de celles qui ont fait l'expérience de la fusion avec l'esprit de la Déité, ne peut comprendre la véritable signification des valeurs réelles qui sont unies lorsque l'identité d'une créature du temps devient éternellement une avec l'esprit de la Déité du Paradis. (13:1.22) (112:7.2)
 
-plan d'ascension | | plan divin; éducation; perfection | | OK
+plan d'ascension; plan du Paradis pour l'ascension; plan de perfection graduelle; présent plan de l'ascension | | plan divin; éducation; perfection | | OK
 Après la vie dans la chair, le temps n'est plus disponible comme technique pour esquiver les situations ou pour contourner les obligations désagréables. (48:5.8)
 tous les esprits sont dévoués au plan d'ascension (77:9.12)
 Le plan d'ascension a été décrit comme :
@@ -2301,7 +2309,7 @@ la sagesse du plan d'ascension est révélée dans :
 * par la performance d'Amadon (67:8.5)
 * en ce qu'aucun mortel fusionné n'est tombé dans la rébellion de Lucifer (53:7.10,12)
 
-ascétisme; ascétisé; ascètes | | | | OK
+ascétisme; ascétisé; ascètes; ascétique | | | | OK
 Nous ne devons pas être des mystiques passifs ou des ascètes incolores (178:1.14)
 L'ascétisme antique
 	les ascètes lointains enseignent la révérence (191:5.3)
@@ -2335,7 +2343,7 @@ Assurbanipal | | | PERSON | OK
 Assurbanipal était un roi d'Assyrie qui envoya des colons à Samarie pour y vivre (143:4.1)
 > https://en.wikipedia.org/wiki/Ashurbanipal
 
-Asie | | Birmanie; Chine; Inde; Indochine; Iran; Japon; Cachemire; Malaisie; Mésopotamie; Mongolie; Népal; Parthie; Russie; Siam; Sibérie; Turkestan | PLACE | OK
+Asie; masse continentale asiatique; ancien continent asiatique; asiatiques | | Birmanie; Chine; Inde; Indochine; Iran; Japon; Cachemire; Malaisie; Mésopotamie; Mongolie; Népal; Parthie; Russie; Siam; Sibérie; Turkestan | PLACE | OK
 géologie
 	L'épine dorsale de la masse continentale asiatique a atteint une hauteur de près de neuf milles au moment de l'émergence maximale des terres. (57:8.22)
 	Une richesse de données sur les processus géologiques en Asie est offerte dans Le Livre d'Urantia. (59:1.8) (59:2.1) (59:2.3) (59:3.3) (59:4.5,15) (59:5.4,20) (59:6.8) (60:1.6,12) (60:3.11,15) (60:4.3) (61:1.12-13) (61:3.7) (61:4.3) (61:5.3,7) (61:7.3)
@@ -2354,14 +2362,14 @@ Asie Mineure | | Turkestan | PLACE | OK
 
 Dynastie asmonéenne | | Macchabées | | OK
 
-Palais asmonéen; palais d'Asmonée | | | PLACE | OK
+Palais asmonéen; palais d'Asmonée; palais macchabéen | | | PLACE | OK
 résidence d'Hérode le Grand à Jérusalem (125:1.5) (128:3.5) (185:4.1)
 
 Açoka | | | PERSON | OK
 monarque de basse caste qui a embrassé le bouddhisme; a envoyé 17 000 missionnaires bouddhistes dans le monde (94:9.1)
 > https://en.wikipedia.org/wiki/Ashoka
 
-assassinat; meurtre | | peine de mort | | OK
+assassinat; meurtre; assassinés; homicides | | peine de mort | | OK
 il est juste de noter que de nombreux hommes riches de l'Antiquité ont distribué une grande partie de leur fortune par crainte d'être tués par ceux qui convoitaient ses trésors. (69:5.14)
 Les tyrans les plus despotiques étaient soumis à certaines restrictions; ils étaient au moins limités par la peur omniprésente de l'assassinat. (70:6.6)
 Caïn tua Abel, l'un des assassinats les plus célèbres (76:2.5)
@@ -2395,7 +2403,7 @@ ils apparaissent dans les registres de personnalité (30:1.76) (30:2.72)
 les omniaphins sont les représentants personnels des Sentinelles assignées aux planètes de lumière et de vie (55:4.16)
 Les inspecteurs associés reçoivent des rapports et des recommandations uniquement de leurs subordonnés, les sentinelles assignées (24:4.3) (24:5.2)
 
-professeurs assistants | | séraphins | ORDER |vOK
+maitres assistants | | séraphins | ORDER |vOK
 Les assistants enseignants sont les aides et les associés de leurs collègues séraphins, les conseillers enseignants. (39:2.7)
 Un corps merveilleux de cet ordre de séraphins fonctionne sur Urantia dans le but de favoriser et de faire progresser la cause de la vérité et de la droiture. (39:2.7)
 
@@ -2409,14 +2417,14 @@ l'un d'eux incarne l'autorité des Exécutifs suprêmes de chaque univers local 
 ils reçoivent des rapports des Sentinelles assignées (24:4.3) (24:5.2)
 ils apparaissent dans les registres de personnalité (30:1.75) (30:2.71)
 
-directeurs de puissance associés; directeurs de puissance associés | | Maitres Contrôleurs Physiques | ORDER | OK
+directeurs de pouvoir adjoints; Directeurs de pouvoir adjoints; directeurs de puissance associés | | Maitres Contrôleurs Physiques | ORDER | OK
 Ces êtres merveilleusement efficaces sont chargés de l'attribution et de la répartition de tous les ordres des Maîtres Contrôleurs Physiques, conformément aux besoins toujours changeants du statut énergétique en constante évolution des royaumes. (29:4.4,15)
 Au moins un inspecteur en exercice est toujours présent dans chaque système local, ayant son siège social sur sa sphère capitale. (29:4.17)
 il y en a 3 milliards dans chaque superunivers (29:4.16)
 ils servent d'instructeurs à tous ceux qui étudient les sciences des techniques de contrôle intelligent de l'énergie et de transmutation sur les secteurs mineurs (29:4.16)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.101)
 
-registraires associés; Registraires associés | | | ORDER | OK
+archivistes associés; Archivistes associés; Registraires associés | | | ORDER | OK
 ils font partie des Superviseurs du Pouvoir Morontiel; ils sont les archivistes du monde morontiel (48:2.25)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.115)
 
@@ -2425,7 +2433,7 @@ Organisateurs de force maîtres transcendantaux associés | | Maitres Organisate
 Assuntia | | | PLACE | OK
 Assuntia est un système local immédiatement voisin de Satania (41:2.1)
 
-assurance; caution; certain; sécurité | | certitude | | OK
+assurance; caution; certain; sécurité; certaine | | certitude | | OK
 Jésus a décrit la profonde certitude du mortel qui connaît Dieu lorsqu'il a dit : « Pour un croyant qui connaît le royaume de Dieu, qu'importe que toutes les choses terrestres s'écroulent ? » (100:2.7)
 De Dieu, la plus incontournable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis et la plus divine de toutes les valeurs, nous avons le droit d'être les plus certains de toutes les expériences de l'univers. (102:7)
 Jésus a prononcé un grand discours sur la sécurité dans le temple de Jérusalem pendant la semaine de la Pâque de l'année 27 (142:5)
@@ -2456,7 +2464,7 @@ astéroïdes | | | | OK
 les astéroïdes sont constitués de matière solaire (57:5.8)
 > https://en.wikipedia.org/wiki/Asteroid_belt
 
-astrologie; Astrologie | | étoiles | | OK
+astrologie; Astrologie; astrologues | | étoiles | | OK
 La croyance en l'astrologie a conduit au développement de l'astronomie (81:2.9) (88:6.5)
 En relation avec la renaissance du culte d'Ishtar en Mésopotamie, les prêtres babyloniens se tournèrent à nouveau vers l'observation des étoiles et l'astrologie connut son dernier grand renouveau. (95:1.7)
 les messages spirituels ont été interprétés par l'astrologie (87:5.9)
@@ -2531,10 +2539,10 @@ atmosphère sur d'autres planètes
 atmosphère dans les sphères morontielles
 	l'atmosphère des sphères morontielles est composée d'oxygène, d'azote et d'un gaz morontiel adapté à la respiration des créatures morontielles (43:1.3)
 
-mortels atmosphériques; types atmosphériques | | mortels:types planétaires | | OK
+mortels atmosphériques; types atmosphériques; types de planètes atmosphériques | | mortels:types planétaires | | OK
 il existe quatre types d'êtres mortels selon l'atmosphère de leur planète : les non-respirateurs, les sous-respirateurs, les respirateurs moyens et les super-respirateurs (49:2.10-14)
 
-atomes; atomique; atome | | électrons; éléments (chimiques); mésotrons; neutrons; protons; ultimatons | | OK
+atomes; atomique; atome; atomiques | | électrons; éléments (chimiques); mésotrons; neutrons; protons; ultimatons | | OK
 la formation de toute matière est du même ordre : atomes avec une partie nucléaire et électrons (42:7)
 Chaque atome mesure un peu plus de 1/100 000 000e de pouce de diamètre (42:6.7)
 L'atome est formé comme un système solaire. Autour de ce centre énergétique, tourbillonnent, en profusion infinie mais en circuits fluctuants, des unités énergétiques qui sont vaguement comparables aux planètes entourant un soleil. (42:7.1-2)
@@ -2566,7 +2574,7 @@ Dieu du soleil; Ikhnaton a basé son monothéisme sur Aton (95:5.6-7,11)
 
 expiation, fête de | | Judaïsme:fêtes | | OK
 
-doctrine de l'expiation | (186:5) | crucifixion; diable; pardon; Jésus:mort; rédemption | | OK
+doctrine de l'expiation; doctrine du rachat; doctrines de rédemption; expiation; rachat | (186:5) | crucifixion; diable; pardon; Jésus:mort; rédemption | | OK
 toute doctrine de l'expiation est un enseignement erroné (20:6.6-7) (148:4.7-10) (188:4-5)
 Jésus ne s'est pas donné pour réconcilier un Dieu en colère (2:5.2) (4:5.6) (98:7.1) (188:4.7)
 Dieu ne serait certainement jamais satisfait du projet enfantin consistant à substituer un innocent souffrant à un coupable (188:4.11).
@@ -2648,7 +2656,7 @@ rituels d'évitement fusionnés avec l'exorcisme, la coercition et la propitiati
 
 Avonals, ordre des | | Fils Magistraux | ORDER | OK
 
-axes; hache | | | | OK
+axes; hache; haches; cognée | | | | OK
 Les Néandertaliens fabriquaient des haches avec du silex (64:4.3)
 Dans une phrase apocalyptique de Jean-Baptiste : « Et maintenant même la cognée est mise aux racines des arbres. Tout arbre qui ne produit pas de bons fruits est destiné à être coupé et jeté au feu. » (135:6.7)
 

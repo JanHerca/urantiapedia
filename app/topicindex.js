@@ -365,8 +365,10 @@ class TopicIndex {
 		const name = topic.name.split('(')[0].trim();
 		const names = [name];
 		extendArray(names, topic.altnames);
-		if (this.language === "fr") {
+		if (this.language === "en" ||this.language === "fr") {
 			extendArray(names, names.map(i => i.replace(/'/g, '’')));
+		}
+		if (this.language === "fr") {
 			extendArray(names, names
 				.map(i => ['L','l','D','d','qu'].map(j => `${j}’${i}`))
 				.flat()
