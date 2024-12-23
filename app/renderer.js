@@ -2165,8 +2165,12 @@ const showTILinesUB = () => {
 	const line2 = topic2.lines.find(ln => ln.fileline === filelineEditing);
 	const line3 = topic3.lines.find(ln => ln.fileline === filelineEditing);
 
-	const getPar = (t, book, r, errs) => {
-		const names = [t.name.split('(')[0].trim(), ...t.altnames];
+	const names1 = topicindexEdit.getNames(topic);
+	const names2 = topicindexEdit2.getNames(topic2);
+	const names3 = topicindexEdit3.getNames(topic3);
+
+	const getPar = (names, book, r, errs) => {
+		names.sort((a, b) => b.length - a.length);
 		const spans = names.map(n => `<span class="text-primary">${n}</span>`);
 		let par = book.toParInHTML(r, errs);
 		const parPlain = book.toParInPlainText(r, []);
@@ -2177,9 +2181,9 @@ const showTILinesUB = () => {
 	const fnGetPars = (r) => {
 		const errs = [];
 
-		let [par1Plain, par1] = getPar(topic, bookEdit, r, errs);
-		let [par2Plain, par2] = getPar(topic2, bookEdit2, r, errs);
-		let [par3Plain, par3] = getPar(topic3, bookEdit3, r, errs);
+		let [par1Plain, par1] = getPar(names1, bookEdit, r, errs);
+		let [par2Plain, par2] = getPar(names2, bookEdit2, r, errs);
+		let [par3Plain, par3] = getPar(names3, bookEdit3, r, errs);
 
 		const ref = (r ? ` [${r[0]}:${r[1]}.${r[2]}]` : '');
 		const linkref1 = getParLink(bookEdit, r, copyTypes[0]);

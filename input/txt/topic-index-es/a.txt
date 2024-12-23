@@ -148,7 +148,7 @@ menciones de Jesús y Juan a Abraham
 	Juan el Bautista decía a sus contemporáneos que «Dios puede levantar a los hijos de Abraham de las piedras», advitiéndoles contra creerse justificados ante Dios por su mera ascendencia (135:6.7)
 > https://es.wikipedia.org/wiki/Abraham
 
-Abraham el fariseo | | | PERSON | OK
+Abraham el fariseo; Abraham | | | PERSON | OK
 Abraham fue bautizado por Abner (148:8.1)
 entregó todos los bienes mundanos al tesoro apostólico (148:8.5)
 Fue un sanedrita influyente, pero abrazó las enseñanzas de Jesús (148:8.1)
@@ -160,7 +160,7 @@ Absalón | | | PERSON | OK
 Absalón fue uno de los hijos del rey David. Se nos informa de que su madre era cananea y que hoy sería calificado de demagogo. Absalón fue aspirante al trono que finalmente ocupó Salomón (97:9.15)
 > https://es.wikipedia.org/wiki/Absalón
 
-propietario ausente (parábola) | | Jesús:parábolas de Jesús | | OK
+propietario ausente (parábola); parábola | | Jesús:parábolas de Jesús | | OK
 es una de las parábolas de Jesús, Mc 12:1-12; Mt 21:33-46; Lc 20:9-19 (173:4)
 > https://es.wikipedia.org/wiki/Parábola_de_los_viñadores_homicidas
 
@@ -213,7 +213,7 @@ Mente Absoluta (persona) | | Espíritu Infinito | PERSON | OK
 
 Persona absoluta | | Hijo Eterno | PERSON | OK
 
-Absolutos | | El Absoluto | ORDER | OK
+Absolutos; tres actuales absolutos | | El Absoluto | ORDER | OK
 de actualidad
 	están compuestos del Hijo, el Espíritu y el Paraíso (104:5.2) (115:3.14)
 	todo lo que existe en el cosmos tiene su centro en los Absolutos de actualidad, o absolutos manifestados (115:3.14)
@@ -260,7 +260,7 @@ absonitos | | Trascendentales | ORDER | OK
 
 absonitas | | realidad:niveles de la realidad | | OK
 
-absonidad; absonitizado; absonitizados | | realidad:niveles de la realidad | | OK
+absonidad; absonitizado; absonitizados; absonitidad | | realidad:niveles de la realidad | | OK
 los seres absonitizados transcienden el tiempo y el espacio (30:1.114) (31:2.1)
 Dios Último puede dotar a los midsonitas con el espíritu trascendental y eterno de la absonidad (36:4.8)
 se alcanzó el límite de la absonidad con el Arquitecto Maestro número 28.011 (31:9.10)
@@ -298,7 +298,7 @@ Andrés el apóstol fue crucificado en Acaya (139:1.12)
 Corinto era la capital de Acaya. Por aquí pasó Jesús durante su viaje por el Mediterráneo (133:2.5)
 Lucas escribió su evangelio en Acaya (121:8.8)
 
-logro; logros | | acción; ganarse la vida; grandeza; iniciativa; progreso; servicio; riqueza | | OK
+logro; logros; éxito; haberlo logrado; para alcanzar; consecución | | acción; ganarse la vida; grandeza; iniciativa; progreso; servicio; riqueza | | OK
 todos los seres buscan nuevos logros; siempre hay tiempo para nuevos logros (25:7.2) (38:7.5)
 la ambición, el juicio y la sabiduría son elementos esenciales del logro (156:5.7)
 el logro artístico se efectúa por esfuerzos personales (44:8.3)
@@ -347,7 +347,7 @@ bajo esta colina el apóstol Pablo predicó sobre el «Dios Desconocido» (195:1
 acto de Dios; Acto de Dios | | | | OK
 los hijos del Espíritu son verdaderamente el «Acto de Dios» (10:3.3)
 
-acción; acto; actos; acciones | | logro; esfuerzo; etiqueta; ociosidad; trabajos | | OK
+acción; acto; actos; acciones; actuar; actúa; actividad | | logro; esfuerzo; etiqueta; ociosidad; trabajos | | OK
 definida como
 	la consumación de la decisión (110:6.17) (117:5.13)
 	esencial para la conciencia de Supremo (110:6.17)
@@ -393,11 +393,11 @@ libro escrito por Lucas que dejó sin terminar al fallecer en el 90 d.C. (121:8.
 actos de Dios | | | | OK
 las cosas inexplicables a veces eran denominadas «actos de Dios» (85:0.4)
 
-actual | | | | OK
+actual; actualidad | | | | OK
 en las fases de la realidad se encuentra lo actual, lo potencial, y las no reveladas (0:4.7)
 
-Manifestado, lo | | Absolutos:de actualidad | PERSON | OK
-Lo Manifestado es la triodad de actualidad, la unión del Hijo, el Espíritu y el Paraíso
+Manifestado, lo; Lo Manifestado; Manifestado; Actual | | Absolutos:de actualidad | PERSON | OK
+Lo Manifestado es la triodad de actualidad, la unión del Hijo, el Espíritu y el Paraíso (104:5.2) (115:3.7-11) (115:3.16) (115:7.4)
 
 Adán | (74) (75) (165:0.1) | Eva; Jardín del Edén; Hijos Materiales de Dios | PERSON | OK
 Adán, junto a su consorte, Eva, son los Hijos Materiales de Jerusem encargados de actuar como los iniciadores de la raza adamita en Urantia, siguiendo con un plan que se efectúa así en todos los planetas habitados
@@ -507,7 +507,7 @@ Dispensación adánica | | épocas planetarias | | OK
 
 Hijos Adánicos | | Hijos Materiales de Dios | ORDER | OK
 
-adamitas; pueblos adámicos; raza violeta; raza de hombres violetas; pueblos violetas; hijos adámicos | | razas | RACE | OK
+adamitas; pueblos adámicos; raza violeta; raza de hombres violetas; pueblos violetas; hijos adámicos; hijos de Adán | | razas | RACE | OK
 la raza violeta
 	Los adamitas, también conocida como raza violeta, es la novena raza humana que ha aparecido en la Tierra (76:4)
 	los hijos de Adán tenían generalmente un Ajustador interior (76:4.6)
@@ -574,7 +574,7 @@ Adanson y Ratta
 	Adanson y Ratta se casaron cuando Adanson tenía 120 años (77:5)
 	Sato era un descendiente directo de Adanson, y él y su pueblo de gente de alta estatura fueron los antepasados de los griegos (80:7.3)
 
-adansonitas | | | RACE | OK
+adansonitas; adansonita | | | RACE | OK
 los adansonitas fueron los descubridores del bronce (81:3.5)
 la sede adansonita se encontraba al este de la costa meridional del Mar Caspio, cerca de los montes Kopet (78:1.3)
 los adansonitas, liderados por Sato, un descendiente directo de Adansón y Ratta, se instalaron en Grecia en el 10.000 a.C., y formaron los antepasados de los griegos (80:7.3-4)
@@ -584,7 +584,8 @@ junto a los adamitas formaron la raza violeta, una de las nueve razas puras que 
 Aden | | | PERSON | OK
 Aden es un predicador extraño del evangelio que fue convertido por Amós de Jeresa, el demente a quien supuestamente Jesús había curado de una posesión. El apóstol Juan le prohibió predicar, pero él hizo caso omiso y consiguió reunir a un grupo considerable de creyentes, continuando su predicación en Mesopotamia (159:2)
 
-montañas de Adirondack | (58:7.4) | | PLACE | 
+Montañas Adirondacks | | | PLACE | OK
+Los Montes Adirondack forman parte de una antigua cordillera de roca con fósiles que se extiende desde Pensilvania hasta Michigan, Wisconsin y Minnesota. (58:7.4)
 
 adjudicación; ejercicio de la justicia | | juicio | | OK
 El ejercicio de la justicia es la función más elevada de cualquier gobierno, y aquellos a quienes se les ha encomendado pronunciar los veredictos deberían ser escogidos entre los tipos más elevados y nobles de individuos con mayor experiencia y comprensión. (22:4.3)
@@ -595,7 +596,7 @@ Mortales fusionados con el Ajustador | | mortales ascendentes | ORDER | OK
 
 Fusión con el Ajustador | | fusión:Fusión con el Ajustador | | OK
 
-Espíritus Ayudantes de la Mente; espíritus ayudantes de la mente; espíritus ayudantes; espíritu de intuición; espíritu de la intuición; espíritu de comprensión; espíritu de la comprensión; espíritu de valentía; espíritu de la valentía; espíritu de conocimiento; espíritu del conocimiento; espíritu de consejo; espíritu de adoración; espíritu de sabiduría; espíritu de la sabiduría; ayudante de la intuición; ayudantes; ayudantes de los universos locales | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
+Espíritus Ayudantes de la Mente; espíritus ayudantes de la mente; espíritus ayudantes; espíritu de intuición; espíritu de la intuición; espíritu de comprensión; espíritu de la comprensión; espíritu de valentía; espíritu de la valentía; espíritu de conocimiento; espíritu del conocimiento; espíritu de consejo; espíritu de adoración; espíritu de sabiduría; espíritu de la sabiduría; ayudante de la intuición; ayudantes; ayudantes de los universos locales; ayudante de la adoración | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
 se definen como
 	se parecen más a unos circuitos, no son entidades (36:5.4) (65:7.3)
 	no funcionan como personalidades separadas de la Ministra Divina, son un nivel de conciencia del Espíritu Materno (36:5.3-4) (117:5.10) (194:2.12,18)
@@ -845,7 +846,8 @@ el ataque a Hai, la ciudad que Josué aniquiló por completo con todos sus habit
 Accad | | | PLACE | OK
 se trata de una de las ciudades estado de Mesopotamia que tuvo en algún momento la soberanía de la región (78:8.9-10)
 
-Alabama | (58:7.4) (59:5.17) | | PLACE | OK
+Alabama | | | PLACE | OK
+En Alabama, las capas de carbón muestran una historia de hundimientos y levantamientos de tierra, con treinta y cinco capas distintas, más que en Illinois y Pensilvania, pero menos que en Canadá. (58:7.4) (59:5.17)
 
 Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | PLACE | OK
 se nos dice que la raza roja llegó hasta Alaska (64:7.18)
@@ -961,7 +963,7 @@ alter ego; álter ego | (91:3) | | | OK
 los niños cuando aprenden el lenguaje tienden a relacionarse con un alter ego ficiticio (91:3.1)
 una técnica de oración eficaz es volver al concepto del alter ego y reconocer que esta idea del alter ego ha evolucionado desde la ficción hasta la verdad de que Dios reside en nosotros mediante el Ajustador (91:3.7)
 
-altruismo; idealismo altruista; altruistas; impulsos altruistas; servicio altruista; altruista | | caridad; egoísmo | | OK
+altruismo; idealismo altruista; altruistas; impulsos altruistas; servicio altruista; altruista; interés generoso; desinterés | | caridad; egoísmo | | OK
 El Ajustador da origen al interés desinteresado en el bienestar de los demás; conduce a la felicidad (103:1.1) (103:2.7) (103:5.1,3)
 las diferencias en de categoría entre las razas y los grupos son esenciales para el desarrollo de la tolerancia y el altruismo (64:6.34)
 Todo ser humano experimenta muy pronto algún tipo de conflicto entre sus impulsos egoístas y sus impulsos altruistas (103:2.4,7-10)
@@ -1082,7 +1084,8 @@ ammonitas | | | RACE | OK
 El rey David impuso un gran tributo a este pueblo (97:9.14)
 Saúl derrotó a los ammonitas cuando éstos quisieron atacar a los galaaditas. La victoria fue luego ensalzada y dio lugar a la pretenciosa historia hebrea (97:9.3-5)
 
-amonitas | (60:1.12-13) (60:2.8) (60:4.5) | | | OK
+amonites | | | | OK
+Durante la era Mesozoica, los amonites fueron una especie marina dominante, con más de mil especies desarrollándose en la costa del Pacífico en California y restos fósiles encontrados en todo el mundo. Variaban en tamaño entre tres y cuatro pulgadas, aunque algunas alcanzaron un diámetro de ocho pies, pero su influencia disminuyó al final del período. (60:1.12-13) (60:2.8) (60:4.5)
 
 ameba; amebas | | | | OK
 las amebas son las supervivientes simbólicas actuales de la vida animal inicial (59:1.1)

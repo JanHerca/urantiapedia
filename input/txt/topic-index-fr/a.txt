@@ -83,10 +83,10 @@ après la mort de Jésus
 	c'était un homme intransigeant (195:1.11)
 	décédé à 89 ans à Philadelphie (166:5.7)
 
-demeures; lieux d'arrêt; lieux de repos | | | | OK
+demeures; points d'arrêt | | | | OK
 Jésus a répété à plusieurs reprises à ses disciples qu'il existe de nombreuses autres demeures ou résidences dans l'univers du Père, se référant sans précision à d'autres planètes habitées et à d'autres mondes architecturaux (133:4.9) (178:3.4) (180:3.4) (180:6.3) (181:1.2)
 
-aborigènes (australiens); indigènes d'Australie; Australiens natifs; Australiens primitifs; tribus australiennes; tribus primitives d'Australie | | | RACE | OK
+aborigènes (australiens); aborigènes australiens; indigènes australiens; indigènes d'Australie; tribus d'Australie; tribus primitives d'Australie | | | RACE | OK
 Certains de ces aborigènes, nous dit-on, n'ont pas fait beaucoup de progrès depuis les anciens jours de chasse (68:5.4).
 Ces aborigènes australiens d'aujourd'hui perpétuent la peur des fantômes, la peur du noir et la vénération des ancêtres, avec une religion centrée sur le clan (92:6.1) (103:3.1)
 On peut y voir aujourd'hui les vestiges d'anciens peuples antisociaux (68:1.6)
@@ -148,7 +148,7 @@ Nommé par Jésus et Jean
 	Jean-Baptiste a dit à ses contemporains que « Dieu peut susciter des enfants d'Abraham à partir des pierres », les mettant en garde contre le fait de se croire justifiés devant Dieu par leur simple descendance (135:6.7).
 > https://en.wikipedia.org/wiki/Abraham
 
-Abraham le pharisien | | | PERSON | OK
+Abraham le pharisien; Abraham | | | PERSON | OK
 Abraham a été baptisé par Abner (148:8.1)
 il a donné tous les biens du monde au trésor apostolique (148:8.5)
 il était un sanhédriste influent; mais il adoptait les enseignements de Jésus (148:8.1)
@@ -160,11 +160,11 @@ Absalon | | | PERSON | OK
 Absalon était l'un des fils du roi David. On nous informe que sa mère était cananéenne et qu'on le qualifierait aujourd'hui de démagogue. Absalon était un aspirant au trône que Salomon occupa finalement (97:9.15).
 > https://en.wikipedia.org/wiki/Absalom
 
-propriétaire absent (parabole) | | Jésus:les paraboles de Jésus | | OK
+propriétaire absent (parabole); parabole | | Jésus:les paraboles de Jésus | | OK
 c'est une des paraboles de Jésus, Mc 12,1-12; Mt 21,33-46; Lc 20,9-19 (173:4)
 > https://en.wikipedia.org/wiki/Parable_of_the_Wicked_Husbandmen
 
-absoluta; force cosmique; force cosmique; puissance spatiale; puissance spatiale; énergie spatiale; énergie spatiale; force mère de l'espace; force spatiale; charge de force de l'espace; charge de force universelle de l'espace; couverture de force; force primordiale; force primordiale; force spatiale; force universelle; charge spatiale de la force universelle; charge de force de l'espace; charge de force; charge de puissance; force cosmique; force primordiale | | | | OK
+absoluta; force cosmique; force cosmique; puissance spatiale; énergie spatiale; force mère de l'espace; espace-force; charge de force de l'espace; charge-force universelle de l'espace; manteau de force; force primordiale; force primordiale; force universelle; charge spatiale de la force universelle; charge-force de l'espace; charge de force; charge de pouvoir; force cosmique; force primordiale; force d'espace; puissance d'espace; Puissance d'espace | | | | OK
 également connu sous le nom de force cosmique; puissance spatiale; force spatiale; énergie spatiale; force mère de l'espace; force-charge universelle de l'espace (0:6.5) (11:5.8) (11:8.5) (15:4.1) (42:2.1-6) (42:4.5) (42:5.14-16) (42:8.2) (42:10.1)
 définitions
 	il a été défini comme un superultime (4:1.9)
@@ -213,7 +213,7 @@ Esprit absolu (personne) | | Esprit Infini | PERSON | OK
 
 Personne absolue | | Fils Éternel | PERSON | OK
 
-Absolus | | Absolu | ORDER | OK
+Absolus; trois actuels absolus | | Absolu | ORDER | OK
 de l'actualité
 	il est composé du Fils, de l'Esprit et du Paradis (104:5.2) (115:3.14)
 	Les existants du cosmos ont leur centre dans les Absolus d'actualité (115:3.14)
@@ -260,7 +260,7 @@ absoniters | | Transcendantaux | ORDER | OK
 
 absonites | | réalité:niveaux de réalité | | OK
 
-absonité; absonitisé | | réalité:niveaux de réalité | | OK
+absonité; absonitisé; absonitisés | | réalité:niveaux de réalité | | OK
 les êtres absonisés transcendent le temps et l'espace (30:1.114) (31:2.1)
 Dieu l'Ultime peut doter les midsoniters de l'esprit transcendantal et éternel de l'absonité (36:4.8)
 la limite de l'absonité a été atteinte avec le 28 012ème Maître Architecte (31:9.10)
@@ -298,7 +298,7 @@ L'apôtre André a été crucifié en Achaïe (139:1.12)
 Corinthe était la capitale de l'Achaïe. C'est ici que Jésus est passé lors de son voyage à travers la Méditerranée (133:2.5)
 Luc écrit son évangile en Achaïe (121:8.8)
 
-accomplissement | | action; gagner sa vie; grandeur; initiative; progrès; service; richesse | | OK
+accomplissement; accomplissements; réussite; réussites; actes; aboutissement; pour atteindre | | action; gagner sa vie; grandeur; initiative; progrès; service; richesse | | OK
 tous les êtres recherchent de nouvelles réalisations; il y a toujours du temps pour de nouvelles réalisations (25:7.2) (38:7.5)
 L'ambition, le jugement et la sagesse sont essentiels à la réussite (156:5.7)
 la réalisation artistique est le résultat des efforts personnels (44:8.3)
@@ -347,7 +347,7 @@ sous cette colline, l'apôtre Paul a prêché sur « le Dieu inconnu » (195:1.1
 Actes de Dieu | | | | OK
 Les enfants de l'Esprit sont véritablement « l'acte de Dieu » (10:3.3)
 
-action; action; acte, actes; performances | | accomplissement; effort; étiquette; oisiveté; œuvres | | OK
+action; action; actions; acte; actes; réalisations; agir; agit | | accomplissement; effort; étiquette; oisiveté; œuvres | | OK
 défini comme
 	la consommation de la décision (110:6.17) (117:5.13)
 	essentiel à la conscience du Suprême (110:6.17)
@@ -384,7 +384,7 @@ nous devons agir correctement
 Actium | | | PLACE | OK
 Actium est le théâtre d'une victoire éclatante de l'empereur Auguste dans sa bataille contre Marc Antoine. Pour commémorer ce fait, Auguste fonda Nicopolis, qui signifie « ville de la victoire » (133:2.5).
 
-acteurs | | | | OK
+acteurs; interprètes | | | | OK
 les reproducteurs célestes et les artisans célestes sont des acteurs scéniques (44:2.6-10)
 
 Actes, Livre des; Actes des Apôtres | | | | OK
@@ -393,11 +393,11 @@ livre écrit par Luc qu'il a laissé inachevé car il est mort en 90 après J.C.
 actes de Dieu | | | | OK
 des choses inexplicables parfois appelées « actes de Dieu » (85:0.4)
 
-actuel | | | | OK
+actuel; actualité | | | | OK
 dans les phases de la réalité, nous avons du réel, du potentiel et du non divulgué (0:4.7)
 
-Actuel, le | | Absolus:de l'actualité | PERSON | OK
-L'Actuel est la triodité de l'actualité, l'union du Fils, de l'Esprit et du Paradis
+Actuel, le; Actuel; Actuelle | | Absolus:de l'actualité | PERSON | OK
+L'Actuel est la triodité de l'actualité, l'union du Fils, de l'Esprit et du Paradis (104:5.2) (115:3.7-11) (115:3.16) (115:7.4)
 
 Adam | (74) (75) (165:0.1) | Ève; Jardin d'Éden; Fils Matériels | PERSON | OK
 Adam et sa consort, Ève, sont les Fils Matériels de Jérusem chargés d'agir comme initiateurs de la race adamique sur Urantia, suivant un plan qui est ainsi exécuté sur toutes les planètes habitées.
@@ -507,7 +507,7 @@ Dispensation adamique | | époques planétaires | | OK
 
 Fils Adamiques | | Fils Matériels | ORDER | OK
 
-Adamites; peuples adamiques; race violette; peuples violets; enfants adamiques | | races | RACE | OK
+Adamites; peuples adamiques; race violette; peuples violets; enfants adamiques; hommes violets | | races | RACE | OK
 la race violette
 	Les Adamites, également connus sous le nom de race violette, sont la neuvième race humaine apparue sur Terre (76:4)
 	les enfants d'Adam étaient généralement habités par un Ajusteur (76:4.6)
@@ -574,7 +574,7 @@ Adanson et Ratta
 	Adanson et Ratta se sont mariés quand Adanson avait 120 ans (77:5)
 	Sato était un descendant direct d'Adanson, et lui et sa ville de gens de grande taille étaient les ancêtres des Grecs (80:7.3)
 
-Adamsonites | | | RACE | OK
+Adamsonites; Adamsonite | | | RACE | OK
 les Adansonites furent les découvreurs du bronze (81:3.5)
 le siège adansonite était à l'est de la rive sud de la mer Caspienne, près des montagnes Kopet (78:1.3)
 les Adansonites, dirigés par Sato, un descendant direct d'Adamson et de Ratta, se sont installés en Grèce en 10 000 av. J.-C. et ont formé les ancêtres des Grecs (80:7.3-4)
@@ -584,9 +584,10 @@ Avec les Adamites, ils formèrent la race violette, l'une des neuf races pures a
 Aden | | | PERSON | OK
 Aden est un étrange prédicateur de l'évangile qui fut converti par Amos de Jérèse, le fou que Jésus aurait soi-disant guéri d'une possession. L'apôtre Jean lui interdit de prêcher, mais il l'ignora et réussit à rassembler un groupe considérable de croyants, continuant sa prédication en Mésopotamie (159:2).
 
-Les montagnes Adirondack; montagnes anciennes de l'Adirondack | (58:7.4) | | PLACE | 
+Les montagnes Adirondack; montagnes anciennes de l'Adirondack | | | PLACE | OK
+Les montagnes Adirondack font partie d'une ancienne crête rocheuse contenant des fossiles qui s'étend de la Pennsylvanie au Michigan, au Wisconsin et au Minnesota. (58:7.4)
 
-adjudication; Adjudication | | jugement | | OK
+adjudication; jugement | | jugement | | OK
 Le jugement est la fonction la plus élevée de tout gouvernement, et ceux qui sont chargés de rendre le verdict doivent être choisis parmi les types les plus élevés et les plus nobles des individus les plus expérimentés et les plus compréhensifs. (22:4.3)
 
 Expression de l'Ajusteur | | Ajusteurs de Pensée | | OK
@@ -595,7 +596,7 @@ Mortels fusionnés avec les Ajusteurs | | mortels ascendants | ORDER | OK
 
 Fusion de l'ajusteur | | fusion:Fusion de l'ajusteur | | OK
 
-esprits mentaux adjuvats; esprits adjuvats; esprit d'intuition; esprit de compréhension; esprit de courage; esprit de connaissance; esprit de conseil; esprit d'adoration; esprit de sagesse; adjuvat d'intuition; adjuvat d'adoration; adjuvats des univers locaux | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
+esprits mentaux adjuvats; esprits-mentaux adjuvats; esprits adjuvats; esprit d'intuition; esprit de compréhension; esprit de courage; esprit de connaissance; esprit de conseil; esprit d'adoration; esprit de sagesse; adjuvat d'intuition; adjuvat d'adoration; adjuvats des univers locaux; adjuvat d'adoration; esprit d'intuition; adjuvat de l'intuition; adjuvats; adjuvats de l'univers local | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
 défini comme
 	ils ressemblent davantage à des circuits qu'à des entités (36:5.4) (65:7.3)
 	ils ne fonctionnent pas comme des personnalités en dehors du Ministre Divin, ils sont un niveau de conscience de l'Esprit Mère (36:5.3-4) (117:5.10) (194:2.12,18)
@@ -680,17 +681,17 @@ fonction
 	ils sont unifiés sous la direction de l'esprit de sagesse (112:6.9)
 	L'octroi de l'esprit aux adjuvats, bien qu'il ne s'agisse pas d'une évolution physique, dépend entièrement de la capacité cérébrale conférée par des développements purement physiques et évolutifs. (58:6.7)
 
-adjuvants des circuits de Havona; douze adjuvants; Douze adjuvants des circuits de Havona | | | ORDER | OK
+adjuvants des circuits de Havona; douze adjuvats; adjuvats dodécuples des circuits de Havona | | | ORDER | OK
 Chaque Esprit de Circuit a douze de ces aides. Nous, mortels d'Urantia, serons un jour amenés devant le septième Esprit de Circuit, celui d'Orvonton, et devant lui ses douze adjuvants de circuits. Là, nous devrons prouver notre conformité aux exigences pour avancer vers Havona (26:5.5).
 Dans la classification des êtres, on les retrouve parmi les soi-disant Esprits Suprêmes qui font partie des êtres d'une seule origine, descendants d'une seule Déité (30:1.59)
 
-assistants administratifs; administrateurs séraphiques; assistants administratifs | | séraphins | ORDER | OK
+assistants administratifs; administrateurs séraphiques; Assistants administratifs | | séraphins | ORDER | OK
 Ils font partie du quatrième ordre de Séraphins, les Séraphins administrateurs, qui sont destinés aux tâches administratives des systèmes locaux. Ils servent les Souverains des Systèmes et les Princes Planétaires. Actuellement, un millier d'entre eux servent sur Urantia (39:4.2-3).
 
-les législateurs administratifs | | | ORDER | OK
+interprètes de l'administration | | | ORDER | OK
 Ils font partie des sept groupes d'êtres appelés les Reproducteurs Célestes, qui se consacrent à la reproduction des choses de valeur suprême au niveau morontiel. Les acteurs administratifs sont ceux qui décrivent l'importance de la philosophie gouvernementale et de la technique administrative, les dramaturges célestes de la souveraineté. (44:2.9)
 
-séraphins administrateurs; administrateurs séraphiques; quatrième ordre de séraphins; anges administrateurs | (39:4) | séraphins | ORDER | OK
+séraphins administrateurs; administrateurs séraphiques; séraphins du quatrième ordre; anges administrateurs; séraphins administratifs | (39:4) | séraphins | ORDER | OK
 le dirigeant actuel d'Urantia est assisté par un millier d'entre eux (39:4.3)
 ils forment le quatrième ordre des Séraphins et sont affectés aux tâches administratives des systèmes locaux. Ils sont originaires des capitales des systèmes mais on les trouve aussi dans les sphères architecturales et les mondes habités (39:4.1)
 Beaucoup de membres de cet ordre furent perdus dans la rébellion de Lucifer. C'était l'ordre le plus endommagé. Manotia était un ange loyal qui réussit à sauver les deux tiers d'entre eux, mais un tiers fut perdu. Sur Urantia, la situation fut plus désastreuse car environ la moitié des administrateurs Séraphins soutenaient la cause de Lucifer. (53:6.2,4) (53:7.6) (67:3.2)
@@ -712,7 +713,7 @@ C'était l'une des appellations par lesquelles les Sémites évitaient d'utilise
 Adonia | | | PLACE | OK
 C'était la métropole commerciale de l'Asie centrale, près d'Ashkhabad. Ce commerce était encouragé par les tribus andites, qui préféraient l'industrie à l'élevage (79:1.4).
 
-adoption; adopter des enfants; petits adoptés; adopté | | | | OK
+adoption; adopter des enfants; petits adoptés; adopté; enfants adoptés | | | | OK
 dans l'antiquité, il était de coutume de tuer tous les étrangers; pour gagner l'amitié, il fallait obtenir l'adoption dans le clan (70:3.6)
 les anciennes cérémonies d'adoption impliquent la consommation de sang ou l'échange de salive (70:3.6-8)
 cette coutume garantissait que quelqu'un soit disponible après la mort pour faire des offrandes (87:3.3)
@@ -730,7 +731,7 @@ Autrefois, on croyait qu'une femme qui mourait en couches, surtout dans le cas d
 Dans l'évangile de Jean, on trouve l'histoire d'une femme adultère amenée à Jésus par des scribes et des pharisiens. Les érudits se demandent si cet événement a réellement eu lieu et Le Livre d'Urantia affirme que cela s'est réellement produit, en détaillant le nom de la femme adultère, Hildana (162:3)
 > https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery
 
-aventure; aventureux | | | | OK
+aventure; aventureux; aventures | | | | OK
 Les Andites ont contribué à ce trait de caractère; ils étaient aventureux; ils ne s'arrêtaient jamais avant d'avoir fait le tour du globe (78:4.6) (78:5.8)
 nous devons être patients et ne pas être tentés par des aventures bon marché et sordides (195:5.10)
 Dieu s'est lancé dans une aventure éternelle avec l'homme (5:1.12)
@@ -809,10 +810,10 @@ Agni, le dieu du feu, était une ancienne divinité aryenne qui était souvent e
 J.-C., l'Inde fut presque conquise par l'idée de la Trinité, mais cinq mille ans plus tard, elle dégénéra en un symbole trinitaire du dieu du feu, Agni. Au début du deuxième millénaire av. J.-C., les dieux aryens s'organisèrent sous la direction de Dyaus pitar, du ciel, d'Indra, de l'air, et d'Agni, du feu. Agni, le dieu du feu à trois têtes, fut longtemps l'un des rares vestiges des idées sur la Trinité qu'Adam et Eve, puis Melchizédek, commencèrent à répandre dans les temps anciens (79:3.4) (94:1.3) (104:1.2).
 > https://en.wikipedia.org/wiki/Agni
 
-agondonters; agondonter | | | ORDER | OK
+agondontaires | | | ORDER | OK
 Les êtres ascendants, comme les humains, vivant dans l'isolement planétaire sont connus sous le nom d'agondonteurs, ce qui signifie créatures volitives évolutionnaires qui peuvent croire sans voir et persévérer lorsqu'elles sont isolées. C'est le cas de nous, les habitants d'Urantia. Avec les autres mondes isolés, nous avons notre propre secteur résidentiel sur Jérusem et nous sommes bientôt chargés de tâches spéciales impliquant une grande confiance. Tabamantia est un agondontaire avec le statut de finalitaire qui a survécu dans l'une des sphères en quarantaine impliquées dans la première rébellion qui ait jamais eu lieu. (50:7.2)
 
-agriculture; élevage; agriculteurs; Agriculture | | plantes | | OK
+agriculture; fermage; agriculteurs; Agriculture | | plantes | | OK
 les peuples anciens, notamment les Chinois, découvrent l'agriculture par accident (81:1.6)
 Les Andites étaient des agriculteurs experts (78:5.8)
 l'agriculture est apparue à l'âge du Prince Planétaire (52:2.8) (68:5.9)
@@ -845,7 +846,8 @@ L'attaque d'Aï, la ville que Josué anéantit complètement avec tous ses habit
 Akkad | | | PLACE | OK
 C'est l'une des cités-États de Mésopotamie qui avait autrefois la souveraineté sur la région (78:8.9-10)
 
-Alabama | (58:7.4) (59:5.17) | | PLACE | OK
+Alabama | | | PLACE | OK
+En Alabama, les couches de charbon révèlent une histoire d'affaissements et de soulèvements terrestres, avec trente-cinq couches distinctes, plus qu'en Illinois et en Pennsylvanie, mais moins qu'au Canada. (58:7.4) (59:5.17)
 
 Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | PLACE | OK
 on nous dit que la race rouge est arrivée en Alaska (64:7.18)
@@ -885,7 +887,7 @@ Le christianisme et Alexandrie
 	Au début de l'ère chrétienne, les conditions n'étaient pas si mauvaises à Alexandrie, où l'on conservait une grande partie des enseignements de Jésus (195:3.10)
 	Simon Zélote prêcha à Alexandrie dans sa mission de prédication (139:11.11)
 
-algues, varech; algues marines | (59:1.18) | | | OK
+algues, varech; algues; algues marines; algue marine | (59:1.18) | | | OK
 les algues sont les ancêtres des coraux (59:2.11)
 il y a des fossiles d'algues (58:7.2)
 une grande partie du calcaire a été déposée par des algues sécrétant du calcaire (59:2.3,11)
@@ -961,7 +963,7 @@ alter ego | (91:3) | | | OK
 les enfants apprennent la langue et entrent en relation avec un alter ego fictif (91:3.1)
 une technique de prière efficace consiste à revenir au concept d'alter ego et à reconnaître ensuite que l'idée de cet alter ego a évolué d'une fiction à la vérité de Dieu qui habite en nous dans l'Ajusteur (91:3.7)
 
-altruisme; altruiste; impulsions altruistes; service altruiste; altruisme; altruisme | | charité; égoïsme | | OK
+altruisme; altruiste; impulsions altruistes; service altruiste; altruisme; altruisme; désintéressement; altruistes | | charité; égoïsme | | OK
 L'Ajusteur donne naissance à un intérêt désintéressé pour le bien-être des autres; conduit au bonheur (103:1.1) (103:2.7) (103:5.1,3)
 les différences de statut des races et des groupes sont essentielles au développement de la tolérance et de l'altruisme (64:6.34)
 Tout être humain éprouve très tôt un conflit entre son égoïsme et ses pulsions altruistes (103:2.4,7-10).
@@ -1053,7 +1055,7 @@ Les dangers de l'ambition
 Amdon | | | PERSON | OK
 Il s'agit du berger chaldéen d'origine sumérienne qui fut le premier témoin à voir Melchizédek lorsqu'il s'est incarné sur Terre (93:2.1-3)
 
-amende honorable | | confession | | OK
+amende; réparer; corriger; Répare | | confession | | OK
 Lorsque nous nous trouvons en tort, n'hésitons pas à confesser notre erreur et à nous racheter rapidement. (131:9.3)
 Par nos efforts pour réparer nos péchés passés, nous acquérons la force de résister aux tendances futures à y parvenir. (131:3.3)
 toutes les richesses obtenues frauduleusement devraient être restituées (132:5.18,22)
@@ -1082,7 +1084,8 @@ Ammonites | | | RACE | OK
 Le roi David imposa un lourd tribut à ce peuple (97:9.14)
 Saül vainquit les Ammonites lorsqu'ils voulurent attaquer les Giléadites. Cette victoire fut plus tard célébrée et donna lieu à l'histoire hébraïque prétentieuse (97:9.3-5)
 
-ammonites | (60:1.12-13) (60:2.8) (60:4.5) | | | OK
+ammonites | | | | OK
+Pendant l'ère Mésozoïque, les ammonites étaient une espèce marine dominante, avec plus de mille espèces se développant sur la côte pacifique californienne et des fossiles retrouvés dans le monde entier. Leur taille variait de trois à quatre pouces, certaines atteignant huit pieds de diamètre, mais leur influence a décliné vers la fin de la période. (60:1.12-13) (60:2.8) (60:4.5)
 
 amibe; Amibes; amibe | | | | OK
 Les amibes sont des survivantes typiques du stade initial de la vie animale (59:1.1)

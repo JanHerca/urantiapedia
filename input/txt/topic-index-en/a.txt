@@ -148,7 +148,7 @@ Named by Jesus and John
 	John the Baptist told his contemporaries that “God can raise up children of Abraham from the stones,” warning them against believing themselves justified before God by their mere descent. (135:6.7)
 > https://en.wikipedia.org/wiki/Abraham
 
-Abraham the Pharisee | | | PERSON | OK
+Abraham the Pharisee; Abraham | | | PERSON | OK
 Abraham was baptized by Abner (148:8.1)
 he gave all worldly goods to apostolic treasury (148:8.5)
 he was an influential Sanhedrist; but espoused teachings of Jesus (148:8.1)
@@ -160,7 +160,7 @@ Absalom | | | PERSON | OK
 Absalom was one of the sons of King David. We are informed that his mother was Canaanite and that he would today be called a demagogue. Absalom was an aspirant to the throne that Solomon finally occupied (97:9.15)
 > https://en.wikipedia.org/wiki/Absalom
 
-absent landlord (parable) | | Jesus:parables of Jesus | | OK
+absent landlord (parable); parable | | Jesus:parables of Jesus | | OK
 this is one of the parables of Jesus, Mk 12:1-12; Mt 21:33-46; Lk 20:9-19 (173:4)
 > https://en.wikipedia.org/wiki/Parable_of_the_Wicked_Husbandmen
 
@@ -213,7 +213,7 @@ Absolute Mind (person) | | Infinite Spirit | PERSON | OK
 
 Absolute Person | | Eternal Son | PERSON | OK
 
-Absolutes | | Absolute | ORDER | OK
+Absolutes; three absolute actuals | | Absolute | ORDER | OK
 of actuality
 	it is comprised of Son, Spirit, and Paradise (104:5.2) (115:3.14)
 	eh existents of the cosmos have their center in the Absolutes of actuality (115:3.14)
@@ -298,7 +298,7 @@ Andrew the apostle was crucified in Achaia (139:1.12)
 Corinth was the capital of Achaia. Here Jesus passed during his travel through the Mediterranean (133:2.5)
 Luke write his gospel in Achaia (121:8.8)
 
-achievement | | action; earning a living; greatness; initiative; progress; service; wealth | | OK
+achievement; achievements; attainment | | action; earning a living; greatness; initiative; progress; service; wealth | | OK
 all beings seek new achievement; there is always time for new achievements (25:7.2) (38:7.5)
 ambition, judgment, and wisdom are essentials of achievement (156:5.7)
 artistic achievement is effected by personal efforts (44:8.3)
@@ -347,7 +347,7 @@ under this hill the apostle Paul preached about “the Unknown God.” (195:1.1)
 Act of God | | | | OK
 children of Spirit are truly the “Act of God.” (10:3.3)
 
-action; Action; act, acts; performances | | achievement; effort; etiquette; idleness; works | | OK
+action; Action; act; acts; performances; deeds; doings | | achievement; effort; etiquette; idleness; works | | OK
 defined as
 	the consummation of decision (110:6.17) (117:5.13)
 	essential to consciousness of Supreme (110:6.17)
@@ -384,7 +384,7 @@ we must act correctly
 Actium | | | PLACE | OK
 Actium is the scene of a resounding victory for Emperor Augustus in his battle against Marco Antonio. To commemorate this fact, Augustus founded Nicopolis, which means "city of victory." (133:2.5)
 
-actors | | | | OK
+actors; enactors | | | | OK
 heavenly reproducers and celestial artisans are scenic actors (44:2.6-10)
 
 Acts, Book of; Acts of the Apostles | | | | OK
@@ -393,11 +393,11 @@ book written by Luke that he left unfinished because he died in A.D. 90 (121:8.8
 acts of God | | | | OK
 inexplicable things sometimes termed as “acts of God” (85:0.4)
 
-actual | | | | OK
+actual; actuality | | | | OK
 in phases of reality we have actual, potential, and undisclosed (0:4.7)
 
-Actual, the | | Absolutes:of actuality | PERSON | OK
-The Actual is the triodity of actuality, the union of Son, Spirit and Paradise
+Actual, the; Actual; The Actual | | Absolutes:of actuality | PERSON | OK
+The Actual is the triodity of actuality, the union of Son, Spirit and Paradise (104:5.2) (115:3.7-11) (115:3.16) (115:7.4)
 
 Adam | (74) (75) (165:0.1) | Eve; Garden of Eden; Material Sons | PERSON | OK
 Adam, along with his consort, Eve, are the Material Sons of Jerusem in charge of acting as the initiators of the adamic race on Urantia, following a plan that is thus carried out on all inhabited planets.
@@ -584,7 +584,8 @@ Together with the Adamites they formed the violet race, one of the nine pure rac
 Aden | | | PERSON | OK
 Aden is a strange preacher of the gospel who was converted by Amos of Jeresa, the madman whom Jesus had supposedly cured of a possession. The apostle John forbade him to preach, but he ignored it and managed to gather a considerable group of believers, continuing his preaching in Mesopotamia (159:2)
 
-Adirondack Mountains | (58:7.4) | | PLACE | 
+Adirondack Mountains | | | PLACE | OK
+The Adirondack Mountains are part of an ancient east-west ridge of fossil-bearing rock that stretches from Pennsylvania through Michigan, Wisconsin, and Minnesota. (58:7.4)
 
 adjudication; Adjudication | | judgment | | OK
 Adjudication is the highest function of any government, and those who are intrusted with verdict rendering should be chosen from the highest and most noble types of the most experienced and understanding individuals. (22:4.3)
@@ -595,7 +596,7 @@ Adjuster-fused mortals | | ascending mortals | ORDER | OK
 
 Adjuster fusion | | fusion:Adjuster fusion | | OK
 
-adjutant mind-spirits; adjutant spirits; spirit of intuition; spirit of understanding; spirit of courage; spirit of knowledge; spirit of counsel; spirit of worship; spirit of wisdom; adjutant of intuition; adjutant of worship; adjutants of the local universes | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
+adjutant mind-spirits; adjutant spirits; spirit of intuition; spirit of understanding; spirit of courage; spirit of knowledge; spirit of counsel; spirit of worship; spirit of wisdom; adjutant of intuition; adjutant of worship; adjutants of the local universes; Adjutant Mind-Spirits; adjutants; adjutant spirit | (34:4.10) (36:5) (42:10.4) (65:7) | | ORDER | OK
 defined as
 	they are more like circuits, not entities (36:5.4) (65:7.3)
 	they do not function as personalities apart from Divine Minister, they are a level of consciousness of Mother Spirit (36:5.3-4) (117:5.10) (194:2.12,18)
@@ -845,7 +846,8 @@ The attack on Ai, the city that Joshua completely annihilated with all its inhab
 Akkad | | | PLACE | OK
 It is one of the city-states of Mesopotamia that once had sovereignty over the region (78:8.9-10)
 
-Alabama | (58:7.4) (59:5.17) | | PLACE | OK
+Alabama | | | PLACE | OK
+In Alabama, coal layers reveal a history of land subsidence and uplift, with thirty-five distinct layers, more than Illinois and Pennsylvania but fewer than Canada. (58:7.4) (59:5.17)
 
 Alaska | (58:7.4) (59:5.20) (60:3.2,12) | | PLACE | OK
 we are told that red race arrived to Alaska (64:7.18)
@@ -885,7 +887,7 @@ christianism and Alexandria
 	in early Christian era conditions were not so bad at Alexandria, holding much of Jesus’ teachings (195:3.10)
 	Simon Zelotes preached at Alexandria in his mission for preaching (139:11.11)
 
-algae, seaweed; algae; seaweeds | (59:1.18) | | | OK
+algae, seaweed; algae; seaweed; seaweeds | (59:1.18) | | | OK
 algae are the ancestors of corals (59:2.11)
 there are fossils of algae (58:7.2)
 a big part of limestone was laid down by lime-secreting algae (59:2.3,11)
@@ -899,7 +901,7 @@ Allah is the one and only Deity of Islam, a clear and well-defined concept in wh
 allegories | | | | OK
 Jesus advised against use of allegories when using his parables (149:3.1) (151:2.1,7) (151:3.3)
 
-alligators | | | | OK
+alligators; allegory | | | | OK
 alligators are descended from nonprogressive reptiles (65:2.10)
 
 Almighty | | Supreme | PERSON | OK
@@ -961,7 +963,7 @@ alter ego | (91:3) | | | OK
 childs when learn language etnd to relate with a fictitious alter ego (91:3.1)
 an effective prayer technique is to return to alter ego concept and then recognize that the idea of this alter ego has evolved from a fiction to the truth of God’s indwelling us in the Adjuster (91:3.7)
 
-altruism; altruistic; altruistic impulses; altruistic service; altruistic; Unselfishness; unselfishness | | charity; selfishness | | OK
+altruism; altruistic; altruistic impulses; altruistic service; altruistic; Unselfishness; unselfishness; unselfish interest; Selflessness | | charity; selfishness | | OK
 Adjuster gives origin to unselfish interest in welfare of others; leads to happiness (103:1.1) (103:2.7) (103:5.1,3)
 differences in status of races and groups are essential to development of tolerance and altruismo (64:6.34)
 Every human being very early experiences something of a conflict between his self-seeking and his altruistic impulses (103:2.4,7-10)
@@ -1029,7 +1031,7 @@ universe ambassadors
 amber | | | | OK
 Nordics traded in (80:9.4)
 
-ambitions; ambition | | goals | | OK
+ambitions; ambition; Ambition | | goals | | OK
 Abraham’s surrender of personal ambitions in behalf of Melchizedek is why three celestial beings appeared to him (93:6.7)
 man many times bows down before the idols of his selfish ambitions (4:3.1)
 thousands of men allow ambition to enslave them to debt (69:8.10)
@@ -1082,7 +1084,8 @@ Ammonites | | | RACE | OK
 King David imposed a great tribute on this people (97:9.14)
 Saul defeated the Ammonites when they wanted to attack the Gileadites. The victory was later extolled and gave rise to the pretentious Hebrew history (97:9.3-5)
 
-ammonites | (60:1.12-13) (60:2.8) (60:4.5) | | | OK
+ammonites | | | | OK
+During the Mesozoic era, ammonites were a dominant marine species, with over a thousand species developing on the Californian Pacific coast and fossil remains found globally. They ranged in size from three to four inches, with some reaching eight feet in diameter, but their influence declined by the end of the period. (60:1.12-13) (60:2.8) (60:4.5)
 
 amoeba; Amebas; ameba | | | | OK
 Amebas are typical survivors of the initial stage of animal life (59:1.1)

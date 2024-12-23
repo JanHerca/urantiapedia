@@ -556,16 +556,16 @@ exports.testWords = function(arItems, text) {
  * @param {string} text Text to modify.
  * @param {?boolean} ignoreCase Optional ignore case. By default is false.
  * @param {?boolean} replaceAll Optional replace all occurrences. By default is
- * false.
+ * false, replacing only the first occurrence.
  * @param {?boolean} useExisting Optional replace with existing case. If case
  * existing is different with what is sent, use existing. By default is false.
  * @return {string} Modified text.
  */
-exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, replaceAll,
-	useExisting) {
+exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, 
+	replaceAll,	useExisting) {
 	let result = text, ini = 0, fin = 0, j, item, testIni, testFin, p1, p2,
 		ip1, ip2, existing, ireplace, index;
-	const regex = /[a-z0-9áéíóúüñ'-]/i;
+	const regex = /[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]/i;
 	const len = text.length;
 	const replaces = [];
 	ignoreCase = ignoreCase || false;
@@ -575,6 +575,9 @@ exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, replaceAl
 	for (j = 0; j < arItems.length; j++) {
 		item = (ignoreCase ? arItems[j].toLowerCase() : arItems[j]);
 		ini = 0;
+		if (replaces.length > 0 && !replaceAll) {
+			break;
+		}
 		while (ini != -1) {
 			ini = iresult.indexOf(item, ini);
 			fin = ini + item.length - 1;

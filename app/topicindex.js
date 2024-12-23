@@ -1937,7 +1937,7 @@ class TopicIndex {
 		//How to separate words in all languages??
 		const words = text
 			.match(/[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]+(?:'[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]+)*/gi);
-		
+		//TODO: Instead of a loop through all topics, a loop through words
 		return this.topics.filter(t => {
 			if (used.includes(t.name)) {
 				return false;

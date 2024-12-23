@@ -1562,11 +1562,12 @@ class Book {
 	};
 
 	/**
-	 * Writes `The Urantia Book` (mutiple versions mode) in HTML format that can 
-	 * be imported in Wiki.js, each paper a file.
+	 * Writes `The Urantia Book` (mutiple versions mode) in HTML format that 
+	 * can be imported in Wiki.js, each paper a file.
 	 * @param {string} dirPath Folder path.
-	 * @param {Book[]} books Array of Book objects with the book in several versions. 
-	 * The first one must be the master version, which will have links to footnotes.
+	 * @param {Book[]} books Array of Book objects with the book in several 
+	 * versions. The first one must be the master version, which will have 
+	 * links to footnotes.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * previous param is english then this is not required. If it is not english
