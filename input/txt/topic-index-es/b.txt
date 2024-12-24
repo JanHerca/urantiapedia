@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-ba y ka | | ka y ba | | OK
+ba y ka; el ka y el ba; el ka | | ka y ba | | OK
 Enseñanza egipcia y africana del alma y el espíritu (111:0.4-6)
 
 Baal | | baalitas | PERSON | OK
@@ -64,7 +64,7 @@ En Babilonia, el dios Marduc era una perpetuación de la leyenda de Adán, la id
 Pedro el apóstol viajó mucho visitando todas las iglesias desde Babilonia hasta Corinto (139:2.11)
 > https://es.wikipedia.org/wiki/Babilonia_(ciudad)
 
-cautiverio babilónico; cautividad en Babilonia | | | | OK
+cautiverio babilónico; cautividad en Babilonia; cautividad; cautivos; exilio | | | | OK
 los judíos estuvieron sometidos durante quinientos años a la soberanía de los gobernantes babilónicos (97:8.3)
 El fin de Judá sobrevino repentinamente. La ciudad fue destruida y la población llevada a Babilonia. La lucha entre Yahvé y Baal terminó en la cautividad. Y la conmoción de la cautividad llevó al resto de Israel al monoteísmo. (97:9.26)
 Sargón, rey de Asiria, aplastó una revuelta en Palestina central y se llevó como cautivos a más de veinticinco mil judíos del reino septentrional de Israel, instalando en su lugar a un número casi igual de descendientes de los cutitas, sefarvitas y amatitas (143:4.1-2)
@@ -90,12 +90,12 @@ El Libro de Urantia menciona como curiosidad que en un planeta cercana, en la pr
 de vuelta a la naturaleza; regreso a la naturaleza | | | | OK
 La expresión moderna «regreso a la naturaleza» es una ilusión de la ignorancia, una creencia en la realidad de una antigua «edad de oro» ficticia. (68:1.7)
 
-reincidencia; vuelve atrás | | | | OK
+reincidencia; vuelve atrás; sucumbieron | | | | OK
 Andón y Fonta, nuestros primeros padres, sucumbieron a sus miedos por un tiempo (63:2.1)
 El hombre mortal puede acercarse a Dios y alejarse repetidas veces de la voluntad divina durante tanto tiempo como conserve su poder de elección. (5:1.11)
 Jijo Jesús: «Ningún hombre que ha puesto la mano en el arado, y se vuelve atrás, es digno de convertirse en un mensajero del reino». (163:2.3)
 
-bacterias | | hongos | | OK
+bacterias; enemigos microscópicos | | hongos | | OK
 muchos helechos pequeños fueron destruidos por bacterias en el Devónico (59:4.13)
 los Portadores de Vida quedaron muy decepcionados por el retroceso de ciertas plantas primitivas hasta los niveles preclorofílicos de las bacterias parasitarias, que se produjera a una escala grande e inesperada, y ha causado muchas enfermedades desoladoras en los seres humanos (65:5.2)
 Las bacterias, unos simples organismos vegetales de naturaleza muy primitiva, han cambiado muy poco desde los primeros albores de la vida; incluso muestran cierto grado de retroceso en su comportamiento parasitario. (65:2.3)
@@ -118,7 +118,7 @@ las razas sangik nacieron a partir de los badonitas (64:5.2-3)
 tribus Baganda; tribus baganda | | | RACE | OK
 las tribus baganda de África han salido en tiempos recientes del nivel de oración mana (91:0.5)
 
-equilibrio; equilibrar; desequilibrio; equilibradas | | compostura; simetría | | OK
+equilibrio; equilibrar; desequilibrio; equilibradas; seguir el mismo ritmo; soldadas en una unidad; sentido de la proporción; unificarse y coordinarse | | compostura; simetría | | OK
 En Palestina, el pensamiento humano estaba tan controlado por los sacerdotes y tan dirigido por las escrituras, que la filosofía y la estética estaban totalmente sumergidas en la religión y la moralidad. (97:10.5) (98:2.7-9)
 Pero la moral, la ética y la filosofía griegas avanzaron enseguida mucho más allá del concepto teísta, y este desequilibrio entre el crecimiento intelectual y el desarrollo espiritual fue tan peligroso para Grecia como lo había sido para la India. (98:1.6)
 La religión de Grecia, como experiencia personal, no logró seguir el mismo ritmo que la investigación intelectual de la naturaleza y de la realidad del cosmos. (98:2.7-9)
@@ -143,7 +143,7 @@ Baluchistán fue una ruta de invasión de los anditas hacia la India (79:1.1) (7
 banco (moral); banco moral | | | | OK
 Los científicos han precipitado involuntariamente a la humanidad hacia un pánico materialista; han desencadenado un asedio irreflexivo al banco moral de los siglos, pero este banco de la experiencia humana tiene enormes recursos espirituales; puede soportar las demandas que se le hagan. (195:6.1)
 
-bancario; loan rate; banquero | | cambistas; usura | | OK
+bancario; loan rate; banquero; crédito comercial; tipos legales de interés; banco; interés equitativo | | cambistas; usura | | OK
 la tasa de interés en la antigüedad era del cien por cien al año, lo cual era un medio de esclavizar (69:5.8)
 los primeros acreedores controlaron el cuerpo después de la muerte (69:5.8)
 El banquero primitivo era el hombre más valiente de la tribu. (69:5.2)
@@ -159,7 +159,7 @@ Jesús y los préstamos
 
 estandarte de Miguel | | círculos concéntricos, tres | | OK
 
-banquetes; banquete | | | | OK
+banquetes; banquete; festín | | | | OK
 en la antigüedad
 	La propiedad se volvió tan apreciada que bastaba dar un festín presuntuoso para borrar el deshonor de un nombre. (69:5.12)
 en tiempos de Jesús 
@@ -170,7 +170,7 @@ en tiempos de Jesús
 hadas malignas | | | | OK
 Los monoteístas conservan a sus dioses subordinados como espíritus, demonios, Parcas, Nereidas, hadas, duendes, enanos, hadas malignas y el mal de ojo. (96:1.14)
 
-bautismo | | | | OK
+bautismo; bautizando | | | | OK
 el bautismo en la antigüedad
 	El agua se consideraba como la mejor protección contra los fantasmas. Los romanos daban tres vueltas con agua alrededor de un cadáver; en el siglo veinte, los cadáveres se rocían con agua bendita, y los judíos conservan todavía el ritual de lavarse las manos en el cementerio. El bautismo fue una característica del ritual posterior del agua. Los baños primitivos eran una ceremonia religiosa. El baño sólo se ha convertido en una práctica higiénica en los tiempos recientes. (87:6.12)
 	El bautismo se volvió un ceremonial religioso en Babilonia, y los griegos practicaban el baño ritual anual. (85:4.1)
@@ -208,28 +208,29 @@ Durante miles de años, los descendientes de Adán cultivaron el trigo y la ceba
 Bernabé | | | PERSON | OK
 Bernabé fue un creyente griego muy hábil, discípulo de Rodán de Alejandría, y amigo de Esteban, que ambos fueron a Jerusalén a predicar; allí Esteban sufriría el ser apedreado (194:4.11)
 
-percebes | (59:4.3) | | | OK
+percebes | | | | OK
+Durante el período Silúrico, los percebes hicieron su primera aparición, marcando un importante desarrollo en la vida marina mientras las especies comenzaban a diversificarse y mezclarse. (59:4.3)
 
-el rico tonto que derriba sus graneros (parábola) | | | | OK
-la parábola del rico tonto a quien derribaron sus graneros fue la historia que Jesúys contó para ejemplificar que la codicia era un serio impedimento para entrar en el reino (165:4.2-7)
+el rico tonto que derriba sus graneros (parábola); graneros | | | | OK
+la parábola del rico tonto a quien derribaron sus graneros fue la historia que Jesús contó para ejemplificar que la codicia era un serio impedimento para entrar en el reino (165:4.2-7)
 
 esterilidad; estériles | | fertilidad | | OK
 entre los antiguos, la esterilidad se atribuía a maquinaciones espirituales (83:4.4)
 los antiguos siempre culparon de la esterilidad a la esposa (83:7.2)
 Las muñecas fueron empleadas al principio como talismanes mágicos por las esposas estériles. (88:6.4)
 
-permuta; trueque | | | | OK
+permuta; trueque; trueques | | | | OK
 el comercio de trueque siguió a las incautaciones de los ataques por sorpresa. Pero transcurrió un largo período de piratería entre las primeras prácticas del trueque silencioso y el comercio posterior realizado con métodos de intercambio modernos. Se utilizaba un fetiche para montar la guardia en los depósitos de mercancías destinados al trueque silencioso. Estos lugares de mercado estaban protegidos contra el robo; no se podía retirar nada, a menos que se hiciera mediante la permuta o la compra; con un fetiche de guardia, las mercancías siempre estaban a salvo. (69:4.1-4)
 el trueque de esclavos por motivos sexuales nunca ha hecho progresar a la sociedad; este tráfico era y es una vergüenza racial, porque obstaculizó el desarrollo de la vida familiar y, al mismo tiempo, contaminó la aptitud biológica de los pueblos superiores. (69:5.10)
 
-Bartolomé | | | PERSON | OK
-Bartolomé es el padre de Natanael el apóstol, y vivía con su mujer en Caná de Galilea. Falleció poco después de Pentecostés. Seguramente su fallecimiento propició que Natanael se dispusiera a viajar al extranjero a predicar, pues hasta ese momento él había sido el único sostén de sus padres (139:6.2,9)
+Bartolom; padres ancianos y enfermos | | | PERSON | OK
+Bartolomé es el padre de Natanael el apóstol, y vivía con su mujer en Caná de Galilea. Ambos eran ancianos y padecían alguna enfermedad. Falleció poco después de Pentecostés. Seguramente su fallecimiento propició que Natanael se dispusiera a viajar al extranjero a predicar, pues hasta ese momento él había sido el único sostén de sus padres (139:6.2,9)
 
 Bartimeo | | | PERSON | OK
 Bartimeo es el ciego a quien Jesús restauró la vista (171:5)
 > https://es.wikipedia.org/wiki/Bartimeo_(ciego)
 
-basalto | | | | OK
+basalto; basálticas | | | | OK
 la corteza terrestre estaba sostenida por un mar de basalto fundido (58:5.3-4)
 el basalto de los fondos marinos es una forma de lava más pesada que el granito, y eso hace al fondo marino más pesado que las masas terrestres, y por eso hundido (58:5.6)
 Los Acantilados del Río Hudson fueron formados por la extrusión de lavas basálticas entre estos estratos triásicos. (60:1.3)
@@ -238,17 +239,18 @@ Basan | | | PLACE | OK
 El ataque por sorpresa de los hebreos a Og, el rey de Basan, fue brutal e impresionante. Los hebreos «destruían por completo» a sus enemigos, y se apoderaban de todos sus bienes como botín. (69:8.3)
 > https://en.wikipedia.org/wiki/Bashan
 
-cestería; cestos | | | | OK
+cestería; cestos; cesto | | | | OK
 La idea de trenzar todo tipo de cestos se originó independientemente a partir de las cabañas primitivas. (81:2.17-18)
 
 vascos | | raza blanca:divisiones:sur | RACE | OK
 Los vascos y los bereberes representan la supervivencia de dos ramas de la raza azul, pero incluso estos pueblos se han mezclado por completo con los saharianos. (80:9.11)
 > https://es.wikipedia.org/wiki/Origen_de_los_vascos
 
-Batanea | (138:2.4) (154:7.4) (155:0.1) | | PLACE | OK
-región al norte de Galilea
+Batanea | | | PLACE | OK
+En tiempos de Jesús, Batanea era una región frecuentemente recorrida por él y sus seguidores durante sus viajes. Mateo Leví, un recaudador de impuestos en Cafarnaúm, tenía su oficina de recaudación cerca de los límites de Batanea, al este de la ciudad. Esta área adquirió importancia durante una de las escapadas de Jesús de los fariseos, quienes lo buscaban en los alrededores de Cafarnaúm tras su partida. Mientras los fariseos pasaron casi una semana buscando sin éxito a Jesús, él y su grupo viajaron hacia el norte a través de Batanea. (138:2.4) (154:7.4)
+En un domingo memorable, Jesús y sus veinticuatro discípulos desembarcaron cerca de Kheresa y se dirigieron al norte para acampar esa noche en un parque conocido al sur de Betsaida-Julias. Este lugar, utilizado con frecuencia por el grupo en viajes anteriores, ofreció un refugio tranquilo. Esa noche, Jesús reunió a sus seguidores para delinear los planes de su próxima gira, que los llevaría a través de Batanea y el norte de Galilea antes de llegar a la costa fenicia. (155:0.1)
 
-baños | | | | OK
+baños; baño ritual anual | | | | OK
 Los bebés deformes o prematuros eran considerados como las crías de unos animales que habían encontrado la manera de entrar en el cuerpo de una mujer a consecuencia de un baño imprudente o debido a la actividad malévola de un espíritu. (84:1.4)
 Antes de la llegada del Príncipe, los baños habían sido un ceremonial exclusivamente religioso. (66:5.21) (87:6.12)
 Los griegos practicaban el baño ritual anual (85:4.1)
@@ -274,7 +276,8 @@ viga | | | | OK
 una parábola desconocida de Jesús es la del tonto carpintero que pasó tiempo cuadrando una viga de madera podrida (156:5.2)
 Jesús mencionó también la madera al decir: No cometáis el error de intentar quitar una mota del ojo de vuestro hermano, cuando hay una viga en el vuestro. (140:3.17)
 
-osos | (61:4.3) (61:7.13) (62:5.2) | | | OK
+osos; oso | | | | OK
+Hace 10 millones de años, durante la última gran migración global, los osos de Asia ingresaron a América del Norte a través de puentes terrestres, mientras otras especies se desplazaban entre continentes. Más tarde, durante el período glacial hace 100,000 años, los osos demostraron una notable capacidad de adaptación al seguir los avances y retrocesos de los glaciares. Junto a especies como los renos y los mamuts, soportaron condiciones extremas, consolidándose como uno de los mamíferos más resistentes de la época. (61:4.3) (61:7.13) (62:5.2)
 
 bienaventuranzas; beatitudes | | | | OK
 La fe y el amor de estas bienaventuranzas fortalecen el carácter moral y crean la felicidad. El Libro de Urantia da una detallada descripción y análisis de las bienaventuranzas (140:5.6-24)
@@ -314,7 +317,8 @@ Algunas tribus de indios norteamericanos creían que se habían originado en los
 beduinos | | árabes | RACE | OK
 Los antiguos beduinos creían que un espíritu de la naturaleza producía los remolinos de arena (85:4.2)
 
-hayas | (60:3.19) | | | OK
+hayas | | | | OK
+Hace 65 millones de años, durante un período de gran evolución vegetal, surgieron por primera vez las hayas (árboles que forman los hayedos), como parte del dominio de las angiospermas. Estos árboles, junto con abedules, robles y otros, marcaron una era transformadora en la historia de las plantas. Los árboles con semillas, como las hayas, fueron cruciales para el mundo vegetal, comparables en importancia al papel evolutivo de los primeros ancestros humanos en el reino animal. La haya, como parte de esta expansión global de plantas con flores, se convirtió en una de las especies clave de los bosques modernos. (60:3.19)
 
 Belcebú | | | PERSON | OK
 Belcebú era el líder de los intermedios secundarios apóstatas (53:1.5) (77:7.4)
@@ -329,7 +333,7 @@ Beerseba | | | PLACE | OK
 Población por la que pasó Jesús durante su viaje por Palestina en el año 25 (134:7.4) (190:1.8)
 > https://es.wikipedia.org/wiki/Beerseba
 
-mendigo de Nápoles | | | | OK
+mendigo de Nápoles; un mendigo | | | | OK
 A su paso por Nápoles Jesús dio una limosna a un mendigo del que dijo que no tenía una mente normal y por tanto que carecía de la facultad para responder a la guía del espíritu del Padre (130:8.4)
 
 mendicidad | | | | OK
@@ -365,7 +369,7 @@ Bélgica | (61:4.2) | | PLACE | OK
 La colonia más septentrional de los danubianos se encontraba en Lieja, en Bélgica. (80:8.4)
 > https://es.wikipedia.org/wiki/Bélgica
 
-creencia | | fe | | OK
+creencia; lo que uno cree | | fe | | OK
 La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. (101:8.1)
 La creencia limita y ata siempre; la fe expande y desata. La creencia fija, la fe libera. (101:8.2)
 Se puede llegar a convicciones sobre Dios a través de un sabio razonamiento, pero el individuo sólo llega a conocer a Dios por medio de la fe, a través de la experiencia personal (102:6)
@@ -389,7 +393,7 @@ Benarés | | | PLACE | OK
 Gautama fundó la escuela en Benarés (94:7.5)
 > https://es.wikipedia.org/wiki/Benarés
 
-bendición | | | | OK
+bendición; te guíe, te sostenga y esté contigo; Mi amor os cubre | | | | OK
 La bendición de Emmanuel para Miguel
 	«Y ahora, que tu Padre y mi Padre, que siempre nos ha sostenido en todas las actividades pasadas, te guíe, te sostenga y esté contigo desde el momento en que nos dejes y lleves a cabo el abandono de la conciencia de tu personalidad, durante tu reconocimiento gradual de tu identidad divina encarnada en una forma humana, y luego durante toda tu experiencia de donación en Urantia, hasta tu liberación de la carne y tu ascensión a la derecha de la soberanía de nuestro Padre. Cuando vuelva a verte en Salvington, te acogeremos a tu regreso como soberano supremo e incondicional de este universo que tú mismo has creado, servido y comprendido por completo». (120:3.10)
 La bendición de Jesús a los apóstoles
@@ -402,7 +406,7 @@ En Bengala, mucha gente adora un meteoro que cayó en la Tierra en el año 1880 
 bereberes | | raza blanca:divisiones | RACE | OK
 Los bereberes actuales son un pueblo muy mezclado con los saharianos, pero descienden de uno de los restos más puros de la raza azul (80:9.11)
 
-puente terrestre de Bering; puente terrestre del norte; Estrecho de Bering | | | PLACE | OK
+puente terrestre de Bering; puente terrestre del norte; Estrecho de Bering; istmo terrestre de Bering; istmo de Bering | | | PLACE | OK
 los lémures y las tortugas migraron a Norteamérica por el puente terrestre de Bering (62:1.2) (60:2.13)
 la raza roja emigró a Norteamérica por el puente terrestre entre 100.000 - 85.000 a.C. (64:6.5) (79:5.6)
 el Estrecho de Bering emergió y se sumergió varias veces (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
@@ -412,7 +416,7 @@ Berenice era la madre de Justa, en cuya casa Jesús se alojó cuando estuvo en S
 
 donación | | Hijos Creadores:donaciones de criaturas; Hijos Paradisíacos de Dios:donaciones | | OK
 
-Asistentes de las Donaciones | | Serafines supremos | | OK
+Asistentes de las Donaciones; asistentes de las donaciones | | Serafines supremos | | OK
 Cuando realizan una misión donadora, los Avonales del Paraíso, pero no los Hijos Creadores, siempre van acompañados de un cuerpo de 144 Serafines supremos que les asisten en sus misiones avonales (39:1.4-6)
 
 Bet-Marión | | | PERSON | OK
@@ -506,7 +510,7 @@ al sur de la ciudad de Betsaida-Julias, en el parque Magadan, es donde tuvo luga
 Jesús tuvo palabras muy duras hacia los habitantes de esta ciudad: ¡ay de los habitantes que rechazan la luz en Corazín, Betsaida-Julias y Cafarnaúm, esas ciudades que no han recibido bien a estos mensajeros! (163:6.5)
 > https://es.wikipedia.org/wiki/Betsaida
 
-traición; traiciones | | deserción | | OK
+traición; traiciones; traidor | | deserción | | OK
 La traición —el hecho de «vender» o traicionar a los miembros de la tribu— fue el primer crimen capital. (70:10.15)
 De todas las penas de un hombre confiado, ninguna es más terrible que la de ser ‘herido en la casa de un amigo en quien confía’. (149:6.12)
 La ley judía prohibía el testimonio de traidores (184:3.6)
@@ -535,9 +539,10 @@ Bildad era uno de los amigos de Job que ante la desdicha de éste le ofreció un
 bípedos | | | | OK
 Hay grandes diferencias entre los mortales de los distintos mundos, incluso entre aquellos que pertenecen a los mismos tipos intelectuales y físicos, pero todos los mortales con dignidad volitiva son animales erguidos, bípedos. (49:4.1)
 
-abedules | (60:3.19) | | | OK
+abedules | | | | OK
+Hace 65 millones de años, durante un período de gran evolución vegetal, surgieron por primera vez los abedules (árboles que forman abedulares), como parte del ascenso de las angiospermas. Estos árboles, junto con hayas, robles y otros, marcaron una era transformadora en la historia de las plantas. Los árboles con semillas, como los abedules, desempeñaron un papel vital en el mundo vegetal, comparable en importancia al impacto evolutivo de los primeros ancestros humanos en el reino animal. El abedul, como parte del dominio extendido de las plantas con flores, se convirtió en una de las especies clave que dieron forma a los bosques modernos. (60:3.19)
 
-aves; pájaros | | | | OK
+aves; pájaros; pre-aves | | | | OK
 evolución de la aves
 	el Cretácico fue la era de las aves (60:3)
 	Las ranas dieron nacimiento a los reptiles, una gran familia animal prácticamente extinguida, pero que antes de desaparecer dio origen a toda la familia de las aves y a las numerosas clases de mamíferos.  Los tipos de aves actuales —águilas, patos, palomas y avestruces— descienden todos de los enormes reptiles de los tiempos prehistóricos. El reino de los reptiles, descendiente de la familia de las ranas, está representado actualmente por cuatro divisiones supervivientes: dos no progresivas, las serpientes y los lagartos, junto con sus primos los cocodrilos y las tortugas; una parcialmente progresiva, la familia de las aves; y la cuarta representa a los antepasados de los mamíferos y a la línea que desciende directamente hasta la especie humana. (65:2.8-10)
@@ -576,12 +581,14 @@ texto de cumpleaños | | Jesús:texto de cumpleaños de Isaías | | OK
 marcas de nacimiento; marcas prenatales | | | | OK
 El mal de ojo dio origen a las primeras supersticiones sobre las marcas prenatales de los niños, las señales maternas, y este culto fue en cierto momento casi universal. (87:5.5)
 
-bisonte | (61:3.5) (61:5.7) (61:7.13-14) (69:7.2) | | | OK
+bisonte; bisontes | | | | OK
+El bisonte, una especie icónica de América del Norte, desempeñó un papel crucial en el ecosistema del continente durante la era glaciar. A medida que los rumiantes se extendían por la región, los bisontes prosperaron junto a ciervos, bueyes, camellos y otras especies. Sin embargo, los glaciares avanzantes y retrocedentes de la edad de hielo pusieron a prueba su supervivencia, obligándolos a migrar constantemente. Estos animales se adaptaron a las duras condiciones, siguiendo el hielo de un lado a otro. Mientras muchas especies, como los mamuts y los mastodontes, sucumbieron a la extinción, los bisontes sobrevivieron, convirtiéndose en parte fundamental de la vida de los pueblos indígenas. Los primeros humanos cazaban bisontes rodeando sus manadas, una práctica que anticipó la domesticación de animales. (61:3.5) (61:5.7) (61:7.13-14) (69:7.2)
 
 Bitinia | | | PLACE | OK
 El apóstol Mateo predicó en Bitinia (139:7.10)
 
-montañas de la Selva Negra | (59:5.12) | | PLACE | OK
+montañas de la Selva Negra; Selva Negra | | | PLACE | OK
+Hace 210 millones de años comenzaron a formarse las montañas de la Selva Negra, junto con los Vosgos y los Urales. Restos de montañas más antiguas se encuentran en Gran Bretaña y Europa. (59:5.12)
 
 Viernes Negro | | | | OK
 El día más sagrado era el Viernes Negro, el «día de la sangre», que conmemoraba la muerte voluntaria de Atis. (98:4.7)
@@ -593,7 +600,7 @@ Los andonitas entraron en Europa a través de la región del mar Negro (80:9.6)
 los anditas mesopotámicos trabajaron los minerales de hierro extraídos en las regiones del mar Negro (80:6.3)
 el mar Negro una vez fue una extensión del Mediterráneo (64:4.10)
 
-herreros negros | | | | OK
+herreros negros; fabricantes de espadas | | | | OK
 los herreros negros, forjadores, fueron los primeros trabajadores del metal y magos (69:3.5)
 fueron los primeros especialistas; fueron el primer grupo no religioso que disfrutó de privilegios especiales. Pero debido a los grandes abusos que hicieron de estos privilegios, los herreros fueron odiados universalmente (69:3.6,9)
 
@@ -605,21 +612,21 @@ Judas nunca adquirió una técnica filosófica para enfrentarse con las decepcio
 Cuando un hombre se enfrenta con sus propios fracasos, ¡cuánta tendencia tiene a inculpar a los demás, con mucha frecuencia a quienes menos se lo merecen! (176:3.9)
 Jesús pidió abstenerse de condenar: invocaréis al Señor y él os responderá; gritaréis con fuerza y él dirá: Aquí estoy. Hará todo esto si dejáis de oprimir, de condenar y de mostrar vanidad (147:8.4)
 
-blasfemia | | | | OK
+blasfemia; blasfemar; blasfemias | | | | OK
 Jesús fue acusado de blasfemia (148:9.3) (153:3.6) (164:5.3) (169:0.5) (184:5.7) (186:2.7)
 Sobre esto dijo Jesús: «Decid lo que queráis sobre el Hijo del Hombre, que eso os será perdonado; pero el que se atreva a blasfemar contra Dios, difícilmente encontrará perdón. Cuando los hombres llegan hasta el extremo de atribuir a sabiendas los actos de Dios a las fuerzas del mal, esos rebeldes deliberados difícilmente buscarán el perdón de sus pecados» (153:4.3) (165:3.6)
 
-imperfecciones | | | | OK
+imperfecciones; defectos; defecto | | | | OK
 La venta de animales en el templo de Jerusalén prosperó porque cuando un fiel compraba un animal, aunque el precio fuera un poco alto, ya no tenía que pagar ningún tributo más, y podía estar seguro de que el sacrificio propuesto no sería rechazado con el pretexto de que el animal tenía defectos reales o imaginarios. (173:1.1-2)
 
-ciego | | | | OK
+ciego; ciegos | | | | OK
 Dijo Jesús: Habéis oído decir que: ‘Si el ciego conduce al ciego, los dos se caerán al precipicio’. (140:3.18) (153:3.5) (175:1.15)
 Jesús le devolvió la vista a Bartimeo, un anciano ciego de Jericó (171:5)
 Jesús le devolvió la vista a Josías, un mendigo ciego que pedía limosna junto al templo, e hizo esto en sábado (164:3)
 Los rabinos enseñaban que todos estos casos de ceguera de nacimiento estaban causados por el pecado. (164:3.3)
 Decía Jesús: Cuando ofrezcáis un banquete, invitad de vez en cuando a los pobres, a los mutilados y a los ciegos. De esa manera os sentiréis dichosos en vuestro corazón, porque sabéis muy bien que los cojos y los lisiados no pueden devolveros vuestra ayuda amorosa (167:1.5)
 
-sangre | | doctrina de la expiación; beber sangre | | OK
+sangre; dinero compensatorio; sanguínea | | doctrina de la expiación; beber sangre | | OK
 creencias antiguas
 	La hemorragia periódica de la mujer y su pérdida de sangre adicional en el momento del parto pronto hicieron creer en la antigüedad que la sangre era la creadora del hijo (84:2.1)
 	algunos antiguos creían que el alma residía en la sangre (86:5.15)
@@ -639,7 +646,7 @@ aspectos científicos de la sangre
 	Uno de los episodios más útiles y complejos de la evolución de los tipos superiores de animales consistió en el desarrollo de la capacidad del hierro, dentro de los glóbulos que circulan en la sangre, para efectuar la doble tarea de transportar el oxígeno y eliminar el dióxido de carbono. Sin embargo, se pueden utilizar otros metales para conseguir el mismo fin. La jibia emplea el cobre para esta función, y la ascidia utiliza el vanadio. (65:6.4)
 	la sangre retiene la salinidad del entorno oceánico ancestral en el que surgió la vida (58:1.3-4)
 
-beber sangre; beber la sangre; Beber sangre | | | | OK
+beber sangre; beber la sangre; Beber sangre; pérdida de sangre; bebían su sangre | | | | OK
 Las antiguas fraternidades sociales estaban basadas en el rito de beber sangre; la fraternidad judía primitiva era un sacrificio de sangre. (89:9.3)
 La creencia de que la sangre era el asiento del alma dio origen a la práctica de beber sangre (84:2.1)
 La decadencia de los lazos consanguíneos a favor de los lazos territoriales hizo posible el Estado embrionario, y en general las conquistas cimentaban firmemente estas federaciones tribales. (71:1.23)
@@ -651,7 +658,7 @@ beber la sangre era un sello de amistad personal y símbolo de lealtad al grupo 
 camino sangriento; maldito camino | | | | OK
 Nombre dado al camino de Jerusalén a Jericó (182:2.11)
 
-raza azul; hombre azul; razas azules; hombres azules | (64:6.21-24) | cromañones; razas | RACE | OK
+raza azul; hombre azul; razas azules; hombres azules; azules | (64:6.21-24) | cromañones; razas | RACE | OK
 la raza azul es lo que se denomina hoy Cro-mañones (80:3)
 Los primeros hombres azules fueron sensibles a las persuasiones de los instructores del estado mayor del Príncipe Caligastia, y cayeron en una gran confusión cuando estos jefes traidores desvirtuaron posteriormente sus propias enseñanzas. (64:6.22)
 El hombre azul se benefició más que los demás de las enseñanzas de Dalamatia, el hombre rojo hasta cierto punto, y el hombre negro menos que los demás. (68:0.3)
@@ -693,7 +700,7 @@ consejo de la domesticación y utilización de los animales | | cien de Caligast
 
 cuerpo de los veinticuatro supervisores planetarios | | veinticuatro consejeros | | OK
 
-barcos | | | | OK
+barcos; barco; barcas; barca | | | | OK
 pueblos marineros
 	Los hombres azules eran cazadores, pescadores, colectores de alimento y expertos constructores de barcos. (80:3.6)
 	Cuando Adán eligió dejar el primer jardín a los noditas sin oponer resistencia, no podía ir con sus seguidores hacia el oeste, porque los edenitas no disponían de barcos adecuados para esa aventura marina. (76:0.1)
@@ -717,7 +724,7 @@ los apóstoles
 	muchas de las barcas utilizadas por los apóstoles fueron construidas por Jesús con sus propias manos (138:7.5) (145:1.1)
 	La visión nocturna de Pedro en el mar de Galilea: mientras los otros apóstoles luchaban en la barca contra el viento y las olas, Pedro tuvo un sueño, una visión de Jesús que venía hacia ellos caminando por el mar. (152:4)
 
-cuerpo humano; cuerpo; cuerpo físico; cuerpos combustibles; cuerpos materiales; tabernáculo físico; cuerpo material; cuerpos físicos | | sangre; cerebros; eugenesia; ojos; carne; genética; mortales; personalidad:formas de personalidad; estructuras esqueléticas | | OK
+cuerpo humano; cuerpo; cuerpo físico; cuerpos combustibles; cuerpos materiales; tabernáculo físico; cuerpo material; cuerpos físicos; cuerpos | | sangre; cerebros; eugenesia; ojos; carne; genética; mortales; personalidad:formas de personalidad; estructuras esqueléticas | | OK
 el cuerpo es el mecanismo electroquímico viviente de naturaleza y origen animal (0:5.7)
 características físicas
 	el cuerpo humano es alimentado y vigorizado por la distribución circulatoria de los productos energéticos asimilables de la comida (116:7.1)
@@ -746,7 +753,7 @@ Bon era miembro de los cien asistentes de Caligastia en Urantia; presidió el co
 siervos esclavos; criados hipotecados | | | | OK
 Los criados hipotecados se encontraron entre las primeras formas de propiedad que se acumularon, y en la antigüedad, la esclavitud ocasionada por las deudas se extendía incluso hasta tener autoridad sobre el cuerpo después de la muerte. (69:5.8)
 
-huesos | | | | OK
+huesos; hueso | | | | OK
 los primates, los padres de esta primera pareja humana, utilizaban puntas afiladas de piedra, de sílex y de hueso (63:1.2)
 Los antiguos siempre veneraban los huesos de sus dirigentes, y muchas personas contemplan todavía los restos óseos de los santos y los héroes con un temor supersticioso. Incluso hoy en día se hacen peregrinajes a la tumba de los grandes hombres. (88:2.1)
 Los huesos de los muertos se creían muy mágicos. (88:5.2)
@@ -801,13 +808,15 @@ los cantos rodados son un producto glacial (61:7.1)
 arco y flecha; el arco y la flecha | | | | OK
 el arco y la flecha fueron inventados por la raza roja en fecha temprana (64:6.4)
 
-braquiópodos | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | OK
+braquiópodos | | | | OK
+Los braquiópodos, organismos marinos con conchas protectoras, alcanzaron su apogeo durante el período Silúrico, con 3,000 variedades, aunque solo 200 sobreviven hoy. Vivieron de manera similar a la actual, con conchas articuladas y dentadas para su defensa. Coexistieron con gasterópodos, moluscos y formadores de arrecifes de coral, contribuyendo a la formación de calizas por sus restos calcificados. (59:1.18) (59:2.12)
+A medida que los mares silúricos avanzaban y retrocedían, los ecosistemas marinos evolucionaron. Los fósiles muestran que los braquiópodos prosperaron incluso cerca de los polos, donde mares cálidos bañaban las costas. Hacia el final de la época, los braquiópodos disminuyeron, siendo reemplazados por artrópodos y cefalópodos, marcando un cambio en la dominancia oceánica. (59:3) (59:4.3)
 
 Brahma | | Brahmán; brahmánismo; hinduismo | PERSON | OK
 Brahma el el primer miembro de la trinidad hindú Trimurti; creado a partir de la infinidad, el Brahmán; se le identifica con el destino (94:4.4) (104:1.5)
 se le considera el principio védico de la deidad-padre (94:1.4)
 
-Brahmán | | Brahma; brahmánismo; hinduismo | PERSON | OK
+Brahmán; Brahmán-Narayana | | Brahma; brahmánismo; hinduismo | PERSON | OK
 Al Brahmán-Narayana se le concibió como el Absoluto, el infinito ELLO ES, la fuerza creativa primordial del cosmos potencial, el Yo Universal que existe en el estado estático y potencial durante toda la eternidad (94:3.3-4)
 fue una idea distante de Absoluto que todo lo abarca pero de tipo impersonal (94:2.6-7)
 se consideraba el principio de energía-divinidad que activa el panteón védico (94:1.4)
@@ -819,7 +828,7 @@ la superalma védica de toda la creación (94:2.4)
 Brahmánas; Brahmanas | | brahmánismo; hinduismo | | OK
 Los Brahmanas y los Upanishads son las escrituras más recientes de la fe hindú (94:2.6)
 
-brahmánismo; brahmanismo; sacerdotes brahmánicos | (94:2) (94:3) | Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | OK
+brahmánismo; brahmanismo; sacerdotes brahmánicos; filosofía brahmánica; filósofos brahmánicos; casta brahmánica; brahmanes; sacerdotes brahmanes; clero brahmánico | (94:2) (94:3) | Brahma; Brahmán; Brahmánas; hinduismo; India | RELIGION | OK
 origen en los setitas arios
 	Los arios llevaron el brahmánismo a la India (94:1.1)
 	Muchos dioses antiguos de los arios, tales como Agni, Indra y Soma, han sobrevivido como dioses de menor importancia que los tres miembros de la Trimurti. (94:4.6)
@@ -839,7 +848,7 @@ sacerdocio
 	Los sacerdotes brahmánicos no quisieron aceptar nunca la enseñanza de Salem sobre la salvación a través de la fe, el favor de Dios sin prácticas ritualistas ni ceremoniales sacrificatorios. (94:1.5)
 	El inmenso clero védico mismo tropezó y se hundió en la tenebrosa inundación de inercia y pesimismo que su propia presunción egoísta e insensata había provocado en toda la India. (94:2.2)
 
-cerebros; cerebro | | | | OK
+cerebros; cerebro; cerebrales; cerebral | | | | OK
 el cerebro es el mecanismo material para la respuesta inteligente a estímulos internos y externos (65:0.1) (65:6.10)
 Aunque la mente no proviene de la evolución física, depende por completo de la capacidad cerebral proporcionada por los desarrollos puramente físicos y evolutivos. (58:6.7)
 La detención de la vida destruye las estructuras cerebrales físicas necesarias para la dotación mental, y el deterioro de la mente pone fin a la conciencia mortal. (112:5.14)
@@ -888,7 +897,8 @@ el pan de vida
 pan de recuerdo
 	durante la última cena con sus apóstoles Jesús llamó al pan de la cena el pan del recuerdo, el símbolo de la palabra viviente de la verdad encarnada en la similitud de la carne mortal (179:5.3)
 
-árboles de pan | (60:3.7) | | | 
+árboles del pan | | | | OK
+Hace aproximadamente 90 millones de años, los árboles del pan surgieron junto con las angiospermas durante el período Cretácico temprano. Estos árboles, junto con las higueras y las palmas, se expandieron rápidamente por Europa y las llanuras occidentales de América del Norte, destacándose en el paisaje vegetal en evolución. Su aparición marcó una importante expansión de la flora terrestre, aunque no surgieron nuevos animales terrestres en ese tiempo. (60:3.7)
 
 amamantamiento | | destete | | OK
 

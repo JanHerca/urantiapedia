@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-ba et ka | | ka et ba | | OK
+ba et ka; le ka et le ba; le ka | | ka et ba | | OK
 Enseignement égyptien et africain sur l'âme et l'esprit (111:0.4-6)
 
 Baal | | Baalites | PERSON | OK
@@ -25,7 +25,7 @@ C'est le nom d'une ville du roi David, qui lui a donné ce nom parce qu'une bonn
 
 Baalim | | Baalites | | OK
 
-Baalites; Baalim | | Baal | RACE | OK
+Baalites; Baalim; baalites | | Baal | RACE | OK
 En général, les Baalites possédaient des maisons, des terres et des esclaves. Ils étaient des propriétaires terriens aristocratiques et vivaient dans les villes. (97:3.4)
 Élie, l'un des plus grands prophètes, commença son enseignement en tant que défenseur des anciennes mœurs foncières contre l'attitude des Baals qui vendaient les terres et contre la tentative des villes de dominer le pays. (97:9.19)
 Les Cananéens du nord, plus sédentaires, les Baalites, achetaient, vendaient et hypothéquaient librement leurs terres. (97:3.3)
@@ -53,10 +53,10 @@ babouins; babouin | | | | OK
 les babouins sont les descendants de la branche des mammifères intermédiaires qui a donné naissance aux singes moins avancés, comme le sont les singes, les chimpanzés et les gorilles, contrairement à l'espèce humaine qui descend d'une branche supérieure de mammifères intermédiaires (62:3.12)
 > https://en.wikipedia.org/wiki/Baboon
 
-langage bébé | | | | OK
+parler bébé | | | | OK
 L'origine des dialectes est illustrée par l'usage du « langage bébé » au sein d'un groupe familial. (81:6.17)
 
-Babylone; Babylonien | (130:0.3) (134:1.1) | Babyloniens | PLACE | OK
+Babylone; Babylonien; babyloniens | (130:0.3) (134:1.1) | Babyloniens | PLACE | OK
 le baptême était une cérémonie religieuse dans (85:4.1)
 En raison d'une sécheresse, les Andites du sud et de l'est de la mer Caspienne ont migré vers le sud, et leur cavalerie de Babylone a pénétré en Mésopotamie (79:1.5)
 La théologie juive a survécu telle qu'elle était interprétée et pratiquée à Jérusalem, bien qu'elle ait été plusieurs fois sauvée de l'oubli par l'intervention opportune de certains enseignants babyloniens. (121:6.8)
@@ -64,7 +64,7 @@ La théologie juive a survécu telle qu'elle était interprétée et pratiquée 
 L'apôtre Pierre a beaucoup voyagé, visitant toutes les églises depuis Babylone jusqu'à Corinthe (139:2.11)
 > https://en.wikipedia.org/wiki/Babylon
 
-Captivité babylonienne; captivité à Babylone | | | | OK
+Captivité babylonienne; captivité à Babylone; captivité; exil | | | | OK
 Les Juifs ont été pendant cinq cents ans sous la domination des dirigeants babyloniens (97:8.3)
 La fin de Juda arriva soudainement. La ville fut détruite et le peuple fut emmené en captivité à Babylone. La lutte entre Yahweh et Baal prit fin avec la captivité. Et la captivité secoua le reste d'Israël et le conduisit au monothéisme. (97:9.26)
 Sargon, roi d'Assyrie, en réprimant une révolte dans le centre de la Palestine, emmena en captivité plus de vingt-cinq mille Juifs du royaume du nord d'Israël et installa à leur place un nombre presque égal de descendants des Cuthites, des Sépharvites et des Hamathites. (143:4.1-2)
@@ -90,12 +90,12 @@ Le Livre d'Urantia mentionne comme curiosité que sur une planète voisine, dans
 retour à la nature | | | | OK
 L'expression moderne « retour à la nature » est une illusion d'ignorance, une croyance en la réalité de l'ancien « âge d'or » fictif. (68:1.7)
 
-rétrograder; succomber; revenir en arrière | | | | OK
+rétrograder; succomber; revient en arrière | | | | OK
 Andon et Fonta, nos premiers parents, ont succombé à leurs peurs pendant un temps (63:2.1)
 L'homme mortel peut s'approcher de Dieu et peut abandonner à plusieurs reprises la volonté divine tant que le pouvoir de choix demeure. (5:1.11)
 Jésus a dit : « Quiconque a mis la main à la charrue, et s'il retourne en arrière, n'est pas digne de devenir ange du royaume. » (163:2.3)
 
-bactéries | | champignons | | OK
+bactéries; ennemis microscopiques | | champignons | | OK
 les bactéries ont détruit de nombreuses petites fougères au Dévonien (59:4.13)
 Les porteurs de vie sont grandement déçus par le retour de certaines formes de vie végétale primitive aux niveaux préchlorophylliens des bactéries parasites à une échelle si vaste et inattendue qui a causé de nombreuses maladies pénibles chez l'espèce humaine (65:5.2)
 Les bactéries, simples organismes végétaux de nature très primitive, ont très peu changé depuis l'aube de la vie; elles présentent même un certain degré de régression dans leur comportement parasitaire. (65:2.3)
@@ -106,7 +106,7 @@ Badonan | | | PERSON | OK
 Badonan était un arrière-arrière-petit-fils d'Andon et de Fonta, les premiers parents de la race humaine (64:3.1)
 il a fondé un centre culturel dans ce qui est aujourd'hui l'Afghanistan (67:6.1) (79:0.1)
 
-Tribus Badonan; les enfants de Badonan; tribus de Badonan; Badonites; Peuples badoniens | | Andonites | RACE | OK
+Tribus Badonan; enfants de Badonan; tribus de Badonan; Badonites; Peuples badoniens; peuples de Badonan; tribus supérieures de Badonan; tribus badonites | | Andonites | RACE | OK
 Les enfants de Badonan développèrent une croyance en deux âmes, le souffle et l'ombre. (86:5.17)
 c'était un peuple qui avait peur de la glace et de l'eau (64:3.3)
 ils n'ont jamais pratiqué de sacrifices humains, mais les autres Andonites le faisaient (64:3.1)
@@ -118,7 +118,7 @@ Les races Sangik naissent grâce aux Badonites (64:5.2-3)
 tribus Baganda | | | RACE | OK
 Les Tribus Baganda d'Afrique ne sont sorties que récemment du niveau de mana de la prière. (91:0.5)
 
-équilibre; déséquilibre; équilibré | | prestance; symétrie | | OK
+équilibre; déséquilibre; équilibré; pas à suivre; soudées en une unité; sens des proportions; unifiés et coordonnés | | prestance; symétrie | | OK
 En Palestine, la pensée humaine était tellement contrôlée par les prêtres et dirigée par les Écritures que la philosophie et l'esthétique étaient entièrement submergées par la religion et la morale. (97:10.5) (98:2.7-9)
 Mais la morale, l'éthique et la philosophie grecques dépassèrent alors largement le concept de Dieu, et ce déséquilibre entre la croissance intellectuelle et spirituelle fut aussi dangereux pour la Grèce qu'il l'avait été pour l'Inde. (98:1.6)
 En Grèce, la religion, en tant qu'expérience personnelle, n'a pas réussi à suivre le rythme des recherches intellectuelles sur la nature et la réalité du cosmos. (98:2.7-9)
@@ -127,7 +127,7 @@ Le sens des proportions est également en jeu dans l'exercice de la vertu, car l
 il y a une plus grande croissance spirituelle lorsque les pouvoirs physiques, mentaux et spirituels sont en équilibre (110:6.4)
 la logique mathématique, l'esprit-raison et l'esprit-foi peuvent être unifiés et coordonnés dans le développement de la personnalité (16:6.10)
 
-équilibres des pouvoirs | | | | OK
+équilibres de puissances | | | | OK
 La paix mondiale ne peut être maintenue par des traités, la diplomatie, des politiques étrangères, des alliances, des équilibres de pouvoir ou tout autre type de manœuvre improvisée avec la souveraineté du nationalisme. La loi mondiale doit être établie et appliquée par un gouvernement mondial, la souveraineté de toute l'humanité. (134:6.9)
 
 Balkans | | | PLACE | OK
@@ -143,7 +143,7 @@ Le Béloutchistan était une voie d'invasion andite vers l'Inde (79:1.1) (79:2.4
 banque (morale); banque morale | | | | OK
 Les scientifiques ont involontairement précipité l'humanité dans une panique matérialiste; ils ont déclenché une ruée irréfléchie vers la banque morale des âges, mais cette banque de l'expérience humaine possède de vastes ressources spirituelles; elle peut résister aux exigences qui lui sont imposées. (195:6.1)
 
-bancaire; intérêts des préstamos; banquier | | changeurs d'argent; usure | | OK
+bancaire; intérêts des préstamos; banquier; crédit commercial; taux légal d'intérêt; banque; intérêt équitable | | changeurs d'argent; usure | | OK
 l'ancien taux d'intérêt était de 100% par an, ce qui était une autre forme d'asservissement (69:5.8)
 les premiers créanciers contrôlaient le corps après le décès (69:5.8)
 Le premier banquier était l'homme valeureux de la tribu. (69:5.2)
@@ -159,7 +159,7 @@ Jésus et le prêt
 
 bannière de Michael | | cercles concentriques, trois | | OK
 
-banquets; banquet | | | | OK
+banquets; banquet; festin | | | | OK
 dans les temps anciens
 	La propriété est devenue si précieuse qu'offrir un festin prétentieux suffisait à effacer un déshonneur de son nom. (69:5.12)
 Au temps de Jésus
@@ -196,7 +196,7 @@ le voleur sur la croix avait considéré Barabbas comme un héros (187:4.5)
 Barac | | | PERSON | OK
 Barac était un général israélite qui, sous la direction de la prophétesse Débora, a vaincu le chef cananéen Sisera à Taanaj (126:1.2)
 
-coiffeurs | | | | OK
+barbiers | | | | OK
 les premiers marieurs étaient des barbiers; plus tard, ce furent les prêtres (83:2.1)
 
 écorce; écorces d'arbres | | | | OK
@@ -208,28 +208,29 @@ Pendant des milliers d'années, les descendants d'Adam cultivèrent du blé et d
 Barnabas | | | PERSON | OK
 Barnabas était un croyant grec très intelligent, un disciple de Rodan d'Alexandrie et un ami d'Etienne, qui allèrent tous deux à Jérusalem pour prêcher; là, Esteban souffrirait d'être lapidé (194:4.11)
 
-balanes | (59:4.3) | | | OK
+bernacles | | | | OK
+Au cours de la période silurienne, les bernacles apparurent pour la première fois, marquant un développement important de la vie marine alors que les espèces commençaient à se diversifier et à se mélanger. (59:4.3)
 
 granges (parabole) | | | | OK
 la parabole du riche insensé dont les greniers furent démolis était l'histoire que Jésus a racontée pour illustrer que la cupidité était un sérieux obstacle à l'entrée dans le royaume (165:4.2-7)
 
-stérilité; stérile | | fertilité | | OK
+stérilité; stérile; stériles | | fertilité | | OK
 chez les anciens, la stérilité était attribuée aux machinations des esprits (83:4.4)
 Les anciens ont toujours imputé la stérilité à leur femme (83:7.2)
 La poupée fut d'abord utilisée comme talisman magique par l'épouse stérile. (88:6.4)
 
-troc | | | | OK
+troc; trocs | | | | OK
 Le commerce par troc était suivi de saisies par des raids. Mais une longue période de piraterie s'est interposée entre les premières pratiques de troc silencieux et le commerce ultérieur par les méthodes d'échange modernes. Un fétiche était utilisé pour surveiller les dépôts de marchandises pour le troc silencieux. Ces marchés étaient protégés contre le vol; rien n'était emporté sauf par troc ou achat; avec un fétiche surveillant les marchandises étaient toujours en sécurité. (69:4.1-4)
 Jamais le troc des esclaves sexuels n'a fait progresser la société; un tel trafic était et est une honte raciale, car en même temps il entravait le développement de la vie familiale et polluait l'aptitude biologique des peuples supérieurs. (69:5.10)
 
-Bartholomé | | | PERSON | OK
-Bartholomé est le père de l'apôtre Nathanaël, et il vivait avec sa femme à Cana en Galilée. Il mourut peu après la Pentecôte. Sa mort a certainement poussé Nathanaël à se préparer à partir à l'étranger pour prêcher, car jusqu'à ce moment-là, il avait été le seul soutien de ses parents. (139:6.2,9)
+Bartholomé; parents âgés et infirmes | | | PERSON | OK
+Bartholomé est le père de l'apôtre Nathanaël, et il vivait avec sa femme à Cana en Galilée. Tous deux étaient âgés et souffraient d’une maladie. Il mourut peu après la Pentecôte. Sa mort a certainement poussé Nathanaël à se préparer à partir à l'étranger pour prêcher, car jusqu'à ce moment-là, il avait été le seul soutien de ses parents. (139:6.2,9)
 
 Bartimée | | | PERSON | OK
 Bartimée est l'aveugle à qui Jésus a rendu la vue (171:5)
 > https://en.wikipedia.org/wiki/Healing_the_blind_near_Jericho
 
-basalte | | | | OK
+basalte; basaltiques | | | | OK
 la croûte terrestre reposait directement sur une mer de basalte en fusion (58:5.3-4)
 Le basalte des fonds marins est une forme de lave plus lourde que le granite, ce qui rend le fond marin plus lourd que les masses terrestres, et donc coulé (58:5.6)
 Les palissades de la rivière Hudson ont été formées par l'extrusion de lave basaltique entre ces strates triasiques. (60:1.3)
@@ -238,17 +239,18 @@ Basan | | | PLACE | OK
 L'attaque des Hébreux contre Og, le roi de Basan, fut brutale et efficace. Les Hébreux « détruisirent entièrement » leurs ennemis, emportant tous leurs biens comme butin. (69:8.3)
 > https://en.wikipedia.org/wiki/Bashan
 
-tissage de paniers | | | | OK
+tissage de paniers; panier; paniers | | | | OK
 C'est à partir des premières huttes que l'idée ultérieure de toutes sortes de tissage de paniers est née de manière indépendante. (81:2.17-18)
 
 Basques | | race blanche:divisions:sud | RACE | OK
 Les Basques et les Berbères représentent la survivance de deux branches de la race bleue, mais même ces peuples ont été profondément mélangés aux Sahariens. (80:9.11)
 > https://en.wikipedia.org/wiki/Origin_of_the_Basques
 
-Batanée | (138:2.4) (154:7.4) (155:0.1) | | PLACE | OK
-région de la Galilée du Nord
+Batanée | | | PLACE | OK
+À l'époque de Jésus, la Batanée était une région souvent traversée par lui et ses disciples au cours de leurs voyages. Matthieu Lévi, un collecteur d'impôts à Capharnaüm, avait son bureau de collecte près des frontières de la Batanée, juste à l'est de la ville. Cette région prit une importance particulière lors de l'une des échappées de Jésus, alors que les pharisiens le recherchaient dans les environs de Capharnaüm après son départ. Pendant que les pharisiens passaient près d'une semaine à chercher Jésus sans succès, lui et son groupe voyageaient vers le nord à travers la Batanée. (138:2.4) (154:7.4)
+Un dimanche mémorable, Jésus et ses vingt-quatre disciples débarquèrent près de Kheresa et se dirigèrent vers le nord pour passer la nuit dans un parc familier au sud de Bethsaïde-Julias. Cet endroit, souvent utilisé par le groupe lors de voyages précédents, offrait un refuge paisible. Ce soir-là, Jésus rassembla ses disciples pour exposer les plans de leur prochaine tournée, qui les mènerait à travers la Batanée et le nord de la Galilée avant d’atteindre la côte phénicienne. (155:0.1)
 
-baignade; bains | | | | OK
+baignade; bains; baignades; bain rituel annuel | | | | OK
 Les bébés difformes ou prématurés étaient considérés comme les petits d'animaux qui s'étaient introduits dans le corps d'une femme à la suite d'un bain imprudent ou d'une activité spirituelle malveillante. (84:1.4)
 Avant l'arrivée du Prince, le bain était une cérémonie exclusivement religieuse. (66:5.21) (87:6.12)
 Les Grecs pratiquaient le bain rituel annuel (85:4.1)
@@ -258,7 +260,7 @@ Bethsabée | | | PERSON | OK
 Bethsabée était la femme d'Urie le Hittite. Le roi David tomba amoureux d'elle et après avoir fait tuer Urie, il l'épousa. Bethsabée était la mère de Salomon, le successeur de David (97:9.10,15)
 Marie, la mère de Jésus, était une descendante de Bethsabée (122:1.2)
 
-chauves-souris; famille des chauves-souris | | | | OK
+chauvesouris | | | | OK
 c'est le seul mammifère de petite taille qui soit un navigateur aérien (49:2.17) (65:2.12)
 
 Bautan | | | PERSON | OK
@@ -270,16 +272,17 @@ La navigation dravidienne s'étendait le long de la côte de la mer d'Arabie jus
 collier | | | | OK
 Les premiers fétiches étaient des cailloux aux motifs particulièrement marqués, et les « pierres sacrées » ont toujours été recherchées par l'homme; un collier de perles était autrefois une collection de pierres sacrées, une batterie de charmes. (88:1.2)
 
-faisceau | | | | OK
+poutre | | | | OK
 l'une des paraboles inconnues de Jésus était celle d'un charpentier insensé qui passait du temps à équarrir un bois pourri (156:5.2)
 Jésus mentionne également le bois et les poutres en disant : Ne commets pas l'erreur d'essayer d'arracher une paille de l'œil de ton frère, alors que tu as une poutre dans ton œil. (140:3.17)
 
-ours | (61:4.3) (61:7.13) (62:5.2) | | | OK
+ours | | | | OK
+Il y a 10 millions d'années, lors de la dernière grande migration mondiale, les ours d'Asie ont rejoint l'Amérique du Nord par des ponts terrestres, tandis que d'autres espèces migraient entre les continents. Plus tard, pendant la période glaciaire il y a 100 000 ans, les ours ont montré une remarquable capacité d'adaptation en suivant les glaciers dans leurs avancées et retraits. Aux côtés d'espèces comme les rennes et les mammouths, ils ont survécu à des conditions extrêmes, s’imposant comme l’un des mammifères les plus résilients de l’époque. (61:4.3) (61:7.13) (62:5.2)
 
 béatitudes | | | | OK
 La foi et l'amour de ces béatitudes renforcent le caractère moral et créent le bonheur. Le Livre d'Urantia donne une description et une analyse détaillées des béatitudes (140:5.6-24).
 
-belle porte (Jérusalem); Belle Porte | | | | OK
+belle porte (Jérusalem); Belle Porte; magnifique porte | | | | OK
 l'une des portes de l'enceinte intérieure du temple de Jérusalem, qui s'ouvrait sur la cour des Gentils (162:4.3)
 
 beauté; Beauté | | art; vérité, beauté et bonté | | OK
@@ -314,7 +317,8 @@ Certaines tribus indiennes d'Amérique du Nord croyaient qu'elles descendaient d
 Bédouins | | Arabes | RACE | OK
 Les anciens Bédouins croyaient qu'un esprit de la nature produisait les tourbillons de sable (85:4.2)
 
-hêtres | (60:3.19) | | | OK
+hêtres | | | | OK
+Il y a 65 millions d'années, pendant une période de grande évolution végétale, les hêtres (arbres qui forment les hêtraies) sont apparus pour la première fois dans le cadre de la domination des angiospermes. Ces arbres, ainsi que les bouleaux, chênes et autres, ont marqué une ère transformative dans l’histoire des plantes. Les arbres à graines, comme les hêtres, étaient essentiels au monde végétal, comparables en importance au rôle évolutif des premiers ancêtres humains dans le règne animal. Le hêtre, en tant que partie de cette propagation mondiale des plantes à fleurs, est devenu l'une des espèces emblématiques des forêts modernes. (60:3.19)
 
 Belzébuth | | | PERSON | OK
 Belzébuth était le chef des Médians Secondaires apostats (53:1.5) (77:7.4)
@@ -329,7 +333,7 @@ Béershéba | | | PLACE | OK
 Population traversée par Jésus lors de son voyage en Palestine en l'an 25 (134:7.4) (190:1.8)
 > https://en.wikipedia.org/wiki/Beersheba
 
-mendiant de Naples | | | | OK
+mendiant de Naples; un mendiant | | | | OK
 Lorsque Jésus était à Naples, il a donné une pièce de monnaie à un mendiant qui, selon lui, n'avait pas l'esprit normal et qui manquait donc de la capacité de répondre à la direction de l'Esprit (130:8.4).
 
 mendicité | | | | OK
@@ -365,7 +369,7 @@ Belgique | (61:4.2) | | PLACE | OK
 La colonie la plus septentrionale des Danubiens se trouvait à Liège, en Belgique. (80:8.4)
 > https://en.wikipedia.org/wiki/Belgique
 
-croyance | | foi | | OK
+croyance; croyances; ce que l'on croit | | foi | | OK
 La croyance atteint le niveau de la foi lorsqu'elle motive la vie et façonne le mode de vie. L'acceptation d'un enseignement comme étant vrai n'est pas la foi; c'est une simple croyance. (101:8.1)
 La croyance est toujours limitative et contraignante; la foi est expansionniste et libératrice. La croyance fixe, la foi libère. (101:8.2)
 Les convictions concernant Dieu peuvent être obtenues par un raisonnement sage, mais l'individu ne devient connaisseur de Dieu que par la foi, à travers l'expérience personnelle. (102:6)
@@ -389,7 +393,7 @@ Bénarès | | | PLACE | OK
 Gautama fonde une école à Bénarès (94:7.5)
 > https://en.wikipedia.org/wiki/Varanasi
 
-bénédiction | | | | OK
+bénédiction; te guider, te soutenir et être présent; Mon amour vous couvre | | | | OK
 La bénédiction d'Emmanuel pour Michael
 	« Et maintenant, que votre Père et mon Père, qui nous a toujours soutenus dans toutes nos actions passées, vous guident, vous soutiennent et soient avec vous à partir du moment où vous nous quitterez et parviendrez à l'abandon de votre conscience de personnalité, tout au long de votre retour progressif à la reconnaissance de votre identité divine incarnée sous forme humaine, puis tout au long de votre expérience d'effusion sur Urantia jusqu'à votre délivrance de la chair et votre ascension à la droite de souveraineté de notre Père. Lorsque je vous reverrai sur Salvington, nous accueillerons avec plaisir votre retour parmi nous en tant que souverain suprême et inconditionnel de cet univers que vous avez créé, servi et que vous avez parfaitement compris. » (120:3.10)
 La bénédiction de Jésus aux apôtres
@@ -402,7 +406,7 @@ Au Bengale, beaucoup vénèrent un météore tombé sur terre en A. (85:1.2)
 Berbères | | race blanche:divisions | RACE | OK
 Les Berbères actuels sont un peuple très mêlé aux Sahariens, mais ils descendent d'un des restes les plus purs de la race bleue (80:9.11)
 
-Pont terrestre du détroit de Béring; pont terrestre de Béring; pont terrestre du nord | | | PLACE | OK
+Pont terrestre du détroit de Béring; pont terrestre de Béring; pont terrestre du nord; isthme du Nord; isthme de Béring; isthme du détroit de Béring; détroit de Béring | | | PLACE | OK
 les lémuriens et les tortues ont migré vers l'Amérique du Nord via le pont terrestre de Béring (62:1.2) (60:2.13)
 la race rouge a migré vers l'Amérique du Nord par un pont terrestre entre 100 000 et 85 000 av. J.-C. (64:6.5) (79:5.6)
 Le pont terrestre du détroit de Béring émerge et s'immerge plusieurs fois (60:1.6,13) (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6)
@@ -412,7 +416,7 @@ Bérénice était la mère de Justa, dans la maison de laquelle Jésus demeura l
 
 don | | Fils Créateurs:dons de créatures; Fils Paradisiaques de Dieu:dons | | OK
 
-assistants de dons; assistants de dons | | séraphin suprême | | OK
+assistants de dons; assistants de dons; Assistants d'effusion; assistants d'effusion | | séraphin suprême | | OK
 Les Avonals du Paradis, mais pas les Fils Créateurs, lorsqu'ils sont en mission d'effusion, sont toujours accompagnés d'un corps de 144 séraphins suprêmes qui les assistent alors dans les missions Avonales (39:1.4-6)
 
 Beth-Marion | | | PERSON | OK
@@ -506,7 +510,7 @@ au sud de la ville de Bethsaïde-Julias, dans le parc de Magadan, c'est là qu'e
 Jésus eut des paroles très dures envers les habitants de cette ville : Malheur aux habitants de Chorazin, de Bethsaïde-Julias et de Capharnaüm qui rejetaient la lumière, les villes qui n'ont pas bien reçu ces messagers (163:6.5).
 > https://en.wikipedia.org/wiki/Bethsaida
 
-trahison | | désertion | | OK
+trahison; traitre; trahisons; à trahir | | désertion | | OK
 La trahison – le fait de « vendre » ou de trahir ses associés tribaux – était le premier crime capital. (70:10.15)
 De toutes les souffrances d'un homme confiant, aucune n'est aussi terrible que d'être « blessé dans la maison d'un ami fidèle ». (149:6.12)
 La loi juive interdisait le témoignage des traîtres (184:3.6)
@@ -522,7 +526,7 @@ traître | | Judas Iscariot | | OK
 
 fiançailles | | mariage | | OK
 
-envoûtant | | | | OK
+ensorcèlements | | | | OK
 Jésus a dénoncé la croyance en l'envoûtement (150:3.12)
 
 Bible | | Nouveau Testament; Ancien Testament; livres sacrés | | OK
@@ -535,9 +539,10 @@ Bildad était l'un des amis de Job qui, face au malheur de Job, lui a donné une
 bipèdes | | | | OK
 Il y a de grandes différences entre les mortels des différents mondes, même parmi ceux appartenant aux mêmes types intellectuels et physiques, mais tous les mortels dotés de la dignité de volonté sont des animaux dressés, des bipèdes. (49:4.1)
 
-bouleaux | (60:3.19) | | | OK
+bouleaux | | | | OK
+Il y a 65 millions d'années, pendant une période de grande évolution végétale, les bouleaux (arbres qui forment les bouleaux) sont apparus pour la première fois dans le cadre de l'essor des angiospermes. Ces arbres, ainsi que les hêtres, chênes et autres, ont inauguré une ère transformative dans l’histoire des plantes. Les arbres à graines, comme les bouleaux, ont joué un rôle vital dans le monde végétal, comparable en importance à l’impact évolutif des premiers ancêtres humains dans le règne animal. Le bouleau, en tant que partie de la domination étendue des plantes à fleurs, est devenu l'une des espèces clés des forêts modernes. (60:3.19)
 
-oiseaux; vie des oiseaux; volailles | | | | OK
+oiseaux; vie des oiseaux; volailles; préoiseaux | | | | OK
 évolution des oiseaux
 	Le Crétacé était l'ère des oiseaux (60:3)
 	Les grenouilles ont donné naissance aux Reptilia, une grande famille animale qui est pratiquement éteinte, mais qui, avant de disparaître, a donné naissance à toute la famille des oiseaux et à de nombreux ordres de mammifères. Les types d'oiseaux d'aujourd'hui – aigles, canards, pigeons et autruches – descendent tous des énormes reptiles d'il y a très, très longtemps. Le règne des reptiles, descendant de la famille des grenouilles, est aujourd'hui représenté par quatre divisions survivantes : deux non progressives, les serpents et les lézards, ainsi que leurs cousins, les alligators et les tortues; une partiellement progressive, la famille des oiseaux, et la quatrième, les ancêtres des mammifères et la ligne directe de descendance de l'espèce humaine. (65:2.8-10)
@@ -552,7 +557,7 @@ oiseaux dans le ciel
 	les oiseaux sont utilisés pour le transport à Jérusalem (46:2.4)
 types nommés
 	Types d'oiseaux nommés dans Le Livre d'Urantia :
-	* chauves-souris | chauves-souris
+	* chauvesouris | chauvesouris
 	* buses | buses
 	* pigeons voyageurs | pigeons voyageurs
 	* colombes | colombes
@@ -573,15 +578,17 @@ types nommés
 
 texte d'anniversaire | | Jésus: texte d'anniversaire d'Isaïe | | OK
 
-taches de naissance; marquage prénatal | | | | OK
+taches de naissance; marques prénatales | | | | OK
 Le mauvais œil a donné naissance aux premières superstitions concernant le marquage prénatal des enfants, les impressions maternelles, et le culte était à une époque presque universel. (87:5.5)
 
-bisons | (61:3.5) (61:5.7) (61:7.13-14) (69:7.2) | | | OK
+bisons; bison | | | | OK
+Le bison, une espèce emblématique de l’Amérique du Nord, a joué un rôle essentiel dans l’écosystème du continent durant l’âge glaciaire. Alors que les ruminants se répandaient sur le territoire, les bisons prospéraient aux côtés des cerfs, bœufs, chameaux et autres espèces. Cependant, les glaciers en mouvement constant de l’âge de glace ont mis leur survie à rude épreuve, les forçant à migrer sans cesse. Ces animaux se sont adaptés aux conditions rigoureuses, suivant la progression et le retrait des glaces. Tandis que de nombreuses espèces, comme les mammouths et les mastodontes, s’éteignaient, les bisons ont perduré, devenant essentiels à la vie des peuples autochtones. Les premiers humains chassaient les bisons en encerclant leurs troupeaux, une pratique qui préfigurait la domestication des animaux. (61:3.5) (61:5.7) (61:7.13-14) (69:7.2)
 
 Bithynie | | | PLACE | OK
 L'apôtre Matthieu a prêché en Bithynie (139:7.10)
 
-Forêt Noire | (59:5.12) | | PLACE | OK
+Forêt Noire | | | PLACE | OK
+Il y a 210 millions d'années, les montagnes de la Forêt-Noire commencèrent à se former, ainsi que les Vosges et les monts Oural. Des vestiges de montagnes plus anciennes se trouvent en Grande-Bretagne et en Europe. (59:5.12)
 
 Vendredi Noir | | | | OK
 Le jour le plus saint était le Vendredi noir, le « jour du sang », commémorant la mort auto-infligée d'Attis. (98:4.7)
@@ -593,33 +600,33 @@ Les Andonites sont entrés en Europe via la région de la mer Noire (80:9.6)
 les Andites mésopotamiens exploitaient les minerais de fer extraits dans les régions de la mer Noire (80:6.3)
 la mer Noire était autrefois une extension de la mer Méditerranée (64:4.10)
 
-forgerons noirs | | | | OK
+forgerons noirs; fabricants de sabres | | | | OK
 les forgerons étaient les premiers ouvriers du métal et magiciens (69:3.5)
 ils furent les premiers spécialistes et le premier groupe non religieux à bénéficier de privilèges spéciaux. Mais à cause de l'abus flagrant de ces privilèges, les forgerons devinrent universellement haïs (69:3.6,9)
 
 Indiens Pieds-Noirs | | | RACE | OK
 Les Indiens Pieds-Noirs sont les descendants d'Onamonalonton (64:6.7)
 
-blâmer; blâmer | | | | OK
+blâmer; blâmer; condamner | | | | OK
 Judas n'a jamais acquis de technique philosophique pour faire face à la déception. Au lieu d'accepter les déceptions comme une caractéristique normale et courante de l'existence humaine, il recourait invariablement à la pratique consistant à blâmer quelqu'un en particulier, ou ses associés en tant que groupe, pour toutes ses difficultés et déceptions personnelles. (193:4.7)
 Combien l'homme est-il enclin, lorsqu'il est confronté à ses propres échecs, à rejeter la faute sur les autres, souvent sur ceux qui le méritent le moins ! (176:3.9)
 Jésus a demandé de s'abstenir de toute condamnation : Si vous invoquez le Seigneur, il vous répondra; si vous criez, il vous dira : Me voici. Et il fera tout cela, si vous vous abstenez de l'oppression, de la condamnation et de la vanité (147:8.4)
 
-blasphème | | | | OK
+blasphème; blasphémer; blasphèmes | | | | OK
 Jésus a été accusé de blasphème (148:9.3) (153:3.6) (164:5.3) (169:0.5) (184:5.7) (186:2.7)
 Jésus dit à ce sujet : « Dites ce que vous voudrez du Fils de l'homme, et il vous sera pardonné; mais celui qui aura la présomption de blasphémer contre Dieu trouvera difficilement le pardon. Lorsque les hommes vont jusqu'à attribuer sciemment les actions de Dieu aux forces du mal, de tels rebelles délibérés ne chercheront guère le pardon de leurs péchés. » (153:4.3) (165:3.6)
 
-imperfections | | | | OK
+imperfections; taré; tare | | | | OK
 La vente d'animaux dans le temple de Jérusalem prospérait parce que, lorsque l'adorateur achetait un tel animal, même si le prix pouvait être quelque peu élevé, il n'avait pas à payer de frais supplémentaires, et il pouvait être sûr que le sacrifice prévu ne serait pas rejeté au motif qu'il présenterait des défauts réels ou techniques. (173:1.1-2)
 
-aveugle | | | | OK
+aveugle; aveugles | | | | OK
 Jésus dit : Vous avez entendu qu'il a été dit : Si un aveugle conduit un aveugle, ils tomberont tous deux dans la fosse. (140:3.18) (153:3.5) (175:1.15)
 Jésus a rendu la vue à Bartimée, un vieil homme aveugle de Jéricho (171:5)
 Jésus rendit la vue à Josias, un mendiant aveugle qui demandait l'aumône près du temple, et cela le jour du sabbat (164:3)
 Les rabbins enseignaient que tous ces cas de cécité de naissance étaient causés par le péché. (164:3.3)
 Jésus dit : « Quand vous donnez un festin, invitez parfois les pauvres, les estropiés et les aveugles. De cette façon, vous serez bénis dans votre cœur, car vous savez bien que les boiteux et les boiteux ne peuvent pas vous récompenser pour votre ministère d'amour » (167:1.5).
 
-sang | | doctrine de l'expiation; boire du sang | | OK
+sang; argent du sang; sanguin | | doctrine de l'expiation; boire du sang | | OK
 croyances anciennes
 	Dans l'Antiquité, l'hémorragie périodique de la femme et sa perte de sang supplémentaire lors de l'accouchement suggéraient très tôt que le sang était le créateur de l'enfant (84:2.1).
 	certains anciens croyaient que l'âme résidait dans le sang (86:5.15)
@@ -639,7 +646,7 @@ aspects scientifiques du sang
 	L'un des épisodes les plus utiles et les plus complexes de l'évolution des types supérieurs d'animaux a consisté en la capacité du fer des cellules sanguines à jouer le double rôle de transporteur d'oxygène et d'éliminateur de dioxyde de carbone. Mais d'autres métaux peuvent être utilisés pour remplir la même fonction. La seiche utilise le cuivre pour cette fonction, et l'ascidie utilise le vanadium. (65:6.4)
 	le sang conserve la salinité de l'environnement océanique des ancêtres dans lequel la vie a commencé (58:1.3-4)
 
-boire du sang; boire du sang | | | | OK
+boire du sang; boire du sang; pertes de sang; buvaient leur sang | | | | OK
 Les anciennes confréries sociales étaient fondées sur le rite de la consommation de sang; la première fraternité juive était une affaire de sacrifice de sang. (89:9.3)
 la croyance que le sang était le siège de l'âme a donné naissance à la pratique de boire du sang (84:2.1)
 L'état embryonnaire fut rendu possible par le déclin du lien du sang au profit du lien territorial, et de telles fédérations tribales furent généralement fermement cimentées par la conquête. (71:1.23)
@@ -648,10 +655,10 @@ Les adeptes du culte de Mithra adoraient dans des grottes et d'autres lieux secr
 Boire du sang devint courant, et il était de coutume de mélanger les parties « comestibles » du corps avec des médicaments. (89:5.11)
 boire du sang comme signe d'amitié personnelle et comme signe de loyauté envers le groupe (66:5.22) (70:3.7)
 
-chemin sanglant | | | | OK
+chemin sanglant; chemin dangereux | | | | OK
 Nom donné à la route de Jérusalem à Jéricho (182:2.11)
 
-race bleue; homme bleu; races bleues; hommes bleus | (64:6.21-24) | Cro-Magnons; races | RACE | OK
+race bleue; homme bleu; races bleues; hommes bleus; bleus | (64:6.21-24) | Cro-Magnons; races | RACE | OK
 la race bleue est ce qu'on appelle aujourd'hui les Cro-Magnoïdes (80:3)
 Les premiers hommes bleus étaient réceptifs aux persuasions des enseignants du personnel du prince Caligastia et furent jetés dans une grande confusion par les enseignements pervertis ultérieurs de ces dirigeants traîtres. (64:6.22)
 L'homme bleu a le plus profité des enseignements de Dalamatia, l'homme rouge dans une certaine mesure, et l'homme noir le moins. (68:0.3)
@@ -693,7 +700,7 @@ conseil de domestication animale | | Cent de Caligastia | | OK
 
 conseil des superviseurs planétaires | | vingt-quatre conseillers | | OK
 
-bateaux | | | | OK
+bateaux; bateau | | | | OK
 les marins
 	Les hommes bleus étaient des chasseurs, des pêcheurs et des cueilleurs de nourriture; ils étaient des experts en construction de bateaux. (80:3.6)
 	Quand Adam choisit de laisser le premier jardin aux Nodites sans opposition, lui et ses disciples ne purent pas aller vers l'ouest, car les Édenites n'avaient pas de bateaux adaptés à une telle aventure maritime. (76:0.1)
@@ -743,10 +750,10 @@ Bon | | Cent de Caligastia | PERSON | OK
 Bon était membre de la centaine de participants de Caligastia sur Urantia; il présidait le conseil pour la domestication et l'utilisation des animaux (66:5.4).
 lui et tout son conseil de dix membres furent perdus dans la rébellion de Lucifer, rejoignant sa cause (67:4.1)
 
-serviteurs asservis | | | | OK
+serviteurs esclaves | | | | OK
 Les esclaves étaient parmi les premières formes de propriété à être accumulées, et autrefois l'esclavage pour dettes s'étendait même au contrôle du corps après la mort. (69:5.8)
 
-os | | | | OK
+os; ossements | | | | OK
 Les primates, les parents de ce premier couple humain, utilisaient des spicules acérés de pierre, de silex et d'os. (63:1.2)
 Les anciens vénéraient toujours les os de leurs dirigeants, et les restes squelettiques des saints et des héros suscitent encore chez beaucoup une crainte superstitieuse. Aujourd'hui encore, des pèlerinages sont organisés sur les tombes des grands hommes. (88:2.1)
 On croyait que les os des morts avaient des propriétés très magiques. (88:5.2)
@@ -795,19 +802,21 @@ Spiritington. Ce monde est le « sein de l'Esprit », la demeure paradisiaque de
 Bosora | | | PLACE | OK
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
-rochers | | | | OK
-les rochers sont un produit glaciaire (61:7.1)
+gros cailloux | | | | OK
+les gros cailloux sont un produit glaciaire (61:7.1)
 
-arc et flèche | | | | OK
+arc et flèche; arc et de la flèche | | | | OK
 l'arc et la flèche ont été inventés par la race rouge à une date très ancienne (64:6.4)
 
-brachiopodes | (59:1.18) (59:2.12) (59:3) (59:4.3) | | | OK
+brachiopodes | | | | OK
+Les brachiopodes, organismes marins à coquilles protectrices, ont prospéré pendant la période silurienne, avec 3 000 variétés apparues, bien que seulement 200 subsistent aujourd’hui. Ils vivaient de manière semblable à aujourd’hui, avec des coquilles articulées et dentelées pour leur défense. Ils coexistaient avec les gastéropodes, mollusques et bâtisseurs de récifs coralliens, contribuant aux formations calcaires grâce à leurs restes calcifiés. (59:1.18) (59:2.12)
+Avec l’avancée et le recul des mers siluriennes, les écosystèmes marins ont évolué. Les fossiles montrent que les brachiopodes prospéraient jusque dans les régions polaires, où des mers chaudes baignaient les rivages. Vers la fin de l’époque, les brachiopodes ont décliné, remplacés par les arthropodes et céphalopodes, signalant un changement dans la dominance des océans. (59:3) (59:4.3)
 
 Brahma | | Brahman; Brahmanisme; hindouisme | PERSON | OK
 Brahma est le premier membre de la trinité hindoue Trimurti; créé à partir de l'infini, le Brahman; il est identifié au destin (94:4.4) (104:1.5)
 il est considéré comme le principe védique du père-déité (94:1.4)
 
-Brahman | | Brahma; Brahmanisme; hindouisme | PERSON | OK
+Brahman; Brahman Narayana | | Brahma; Brahmanisme; hindouisme | PERSON | OK
 Brahman-Narayana a été conçu comme l'Absolu, l'infini IL EST, la puissance créatrice primordiale du cosmos potentiel, le Soi Universel existant statiquement et potentiellement à travers toute l'éternité. (94:3.3-4)
 c'était une idée lointaine de l'Absolu englobant tout, mais d'un genre impersonnel (94:2.6-7)
 était considéré comme le principe d'énergie divine qui active le panthéon védique (94:1.4)
@@ -819,7 +828,7 @@ l'âme suprême védique de toute la création (94:2.4)
 Brahmanas | | Brahmanisme; hindouisme | | OK
 les Brahmanas et les Upanishads sont les écritures ultérieures de la foi hindoue (94:2.6)
 
-Brahmanisme; prêtres brahmanes | (94:2) (94:3) | Brahma; Brahman; Brahmanas; hindouisme; Inde | RELIGION | OK
+Brahmanisme; prêtres brahmanes; philosophie brahmanique; philosophes brahmaniques; brahmanisme; caste des brahmanes; brahmanes; prêtrise brahmanique | (94:2) (94:3) | Brahma; Brahman; Brahmanas; hindouisme; Inde | RELIGION | OK
 origine chez les Aryens Séthites
 	Les Aryens ont apporté le brahmanisme en Inde (94:1.1)
 	Plusieurs des anciens dieux des Aryens, tels qu'Agni, Indra et Soma, ont persisté comme dieux secondaires par rapport aux trois membres de la Trimurti. (94:4.6)
@@ -839,7 +848,7 @@ prêtrise
 	Jamais les prêtres brahmanes n'accepteraient l'enseignement de Salem du salut par la foi, la faveur de Dieu en dehors des observances rituelles et des cérémonies sacrificielles. (94:1.5)
 	Le vaste sacerdoce védique lui-même s'est effondré et a coulé sous le flot noir de l'inertie et du pessimisme que leur propre présomption égoïste et insensée avait apporté sur toute l'Inde. (94:2.2)
 
-cerveaux; à deux cerveaux; à trois cerveaux; cerveau | | | | OK
+cerveaux; à deux cerveaux; à trois cerveaux; cerveau; cérébral; tricérébral; cérébrale | | | | OK
 le cerveau est le mécanisme matériel de réponse intelligente aux stimuli internes et externes (65:0.1) (65:6.10)
 L'esprit, bien qu'il ne s'agisse pas d'une évolution physique, dépend entièrement de la capacité cérébrale conférée par des développements purement physiques et évolutifs. (58:6.7)
 L'arrêt de la vie détruit les structures cérébrales physiques qui permettent la dotation de l'esprit, et la perturbation de l'esprit met fin à la conscience mortelle. (112:5.14)
@@ -860,12 +869,12 @@ cerveau animal
 	les mammifères moyens avaient de gros cerveaux (62:3.3)
 	L'utilisation accrue des mains chez les primates a contribué à développer une puissance cérébrale inhérente (62:4.4)
 
-branches | | | | OK
+branches; sarments | | | | OK
 Le sarment mourra s'il est séparé du cep. Tout sarment qui sort de moi et qui ne porte pas de fruit, le Père l'ôtera. Tout sarment qui porte du fruit, le Père le purifiera, afin qu'il porte encore plus de fruit. (180:2.1)
 
 bravoure | | courage | | OK
 
-pain | | | | OK
+pain; pains; miche | | | | OK
 utilisation du pain par Maquiventa
 	Melchizédek a remplacé le sacrement du pain et du vin par le sacrifice de chair et de sang (93:4.14)
 utilisation du pain par Jésus
@@ -888,14 +897,15 @@ pain de vie
 pain du souvenir
 	Lors du dernier repas avec les apôtres, Jésus a appelé le pain le pain du souvenir, le symbole de la parole vivante de la vérité incarnée dans la similitude de la chair mortelle (179:5.3)
 
-arbres à pain | (60:3.7) | | | 
+arbres à pain | | | | OK
+Il y a environ 90 millions d'années, les arbres à pain apparurent avec les angiospermes pendant le début du Crétacé. Ces arbres, avec les figuiers et les palmiers, se propagèrent rapidement en Europe et sur les plaines occidentales de l'Amérique du Nord, jouant un rôle majeur dans l'évolution du paysage végétal. Leur émergence marqua une grande expansion de la flore terrestre, bien qu’aucun nouvel animal terrestre n’ait vu le jour à cette époque. (60:3.7)
 
 allaitement | | sevrage | | OK
 
 souffle | | respiration | | OK
 les hommes primitifs pensaient que les qualités de l'âme étaient transmises par le souffle (86:5.13)
 
-Donneur de Souffle | | | | OK
+Donneur de Souffle; Celui qui donne le Souffle | | | | OK
 Onagar ordonna aux Andonites d'adorer « Celui qui donne le souffle », « Celui qui donne le souffle aux hommes et aux animaux ». (45:4.3) (63:6.1) (64:1.7)
 
 souffle de vie | (28:5.21) | la vie; plasma de vie | | OK
@@ -916,20 +926,20 @@ quiconque fait la volonté du Père est frère de Jésus (154:6.5)
 Bretons | | | RACE | OK
 Les Bretons sont les survivants des premiers habitants andonites de l'Europe occidentale, mélangés à la souche méditerranéenne. (80:9.14)
 
-corruption; pot-de-vin | | | | OK
+corruption; pot-de-vin; soudoyés | | | | OK
 Les soldats et les gardes romains furent soudoyés pour dire que les disciples avaient pris le corps de Jésus (189:2.5)
 
-brique; brique-conduit | | | | OK
+brique; brique-conduit; briques | | | | OK
 La Dalamatie était construite en brique (66:3.6)
 Le jardin d'Eden avait un mur de 27 miles à travers le cou de la péninsule d'Eden qui était construit en briques (73:4.2-3)
 les bâtiments et les égouts d'Eden étaient également construits en briques (73:5.2,4)
 la brique était un des premiers matériaux de construction (81:2.15-16)
 
-marié | | | | OK
+marié; époux | | | | OK
 l'époux des noces de Cana s'appelait Johab (137:4)
 Jésus a utilisé le terme « époux » dans ses enseignements : « Les époux jeûnent-ils tant que l'époux est avec eux ? Aussi longtemps que l'époux est avec eux, il leur est difficile de jeûner » (147:7.2).
 
-mariées; mariée | | mariage; mariages | | OK
+mariées; mariée; femmes à marier; filles à marier | | mariage; mariages | | OK
 Le port du voile nuptial est un vestige de l'époque où l'on considérait nécessaire de déguiser la mariée afin que les fantômes ne la reconnaissent pas et aussi pour cacher sa beauté au regard des esprits jaloux et envieux. (83:4.7)
 Le fait de porter la mariée sur le seuil rappelle un certain nombre de pratiques anciennes, entre autres, celles de l'époque où les épouses étaient volées. (83:2.3)
 salons de mariage
