@@ -471,7 +471,7 @@ Los sacerdotes del culto a la madre eran especialmente activos enseñando la vir
 
 cataclismos | | accidentes; desastre | | OK
 
-ataques catalépticos | | | | OK
+ataques catalépticos; ataque cataléptico | | | | OK
 Las mujeres que eran capaces de caer en trance o en un ataque cataléptico se volvieron poderosas chamanesas; más tarde, estas mujeres fueron profetisas y médiums espiritistas. (90:1.3)
 
 catalizador | | | | OK
@@ -479,10 +479,10 @@ En aquellos soles que están integrados en los canales de la energía espacial, 
 
 catástrofes | | accidentes; crisis; derrota; desastre | | OK
 
-orugas | | | | OK
+orugas; oruga | | | | OK
 La filosofía del universo no se puede basar en las observaciones de la llamada ciencia. Un científico tendería a negar la posibilidad de que una mariposa se desarrolle a partir de una oruga si no pudiera ver dicha metamorfosis. (42:9.4)
 
-gatos | | panteras; tigres de dientes de sable | | OK
+gatos; felina; felinos | | panteras; tigres de dientes de sable | | OK
 evolución
 	Varios grupos de mamíferos tuvieron su origen en un animal único, hoy extinto. Esta criatura carnívora era una especie de cruce entre el gato y la foca; podía vivir en la tierra o en el agua y era extremadamente inteligente y muy activa. (61:2.7)
 	La época de hace 20.000.000 muchos grupos de animales emigraron desde Asia hasta América del Norte, incluyendo la familia de los felinos. La tribu felina estuvo representada por las panteras y los grandes tigres con dientes de sable; estos últimos aparecieron por primera vez en América del Norte (61:3.4,10,13) 
@@ -491,10 +491,11 @@ evolución
 supersticiones
 	los gatos negros se consideraron mágicos (88:5.4)
 
-montañas Catskill | (59:4.15) | | PLACE | OK
+montañas Catskill; Montañas Catskil | | | PLACE | OK
+Hace aproximadamente 240 millones de años, durante un período de hundimiento de tierras, se formaron las montañas Catskill, uno de los mayores monumentos geológicos de esta época en América del Norte. Estas montañas, situadas en la ribera oeste del río Hudson, evidencian las inundaciones devónicas que avanzaron y retrocedieron lentamente. (59:4.15)
 > https://es.wikipedia.org/wiki/Montañas_de_Catskill
 
-vacas; vaca; ganado | | | | OK
+vacas; vaca; ganado; ternero engordado | | | | OK
 Cuando los animales se volvieron fetiches, surgieron los tabúes sobre la consumición de la carne de dichos animales. La vaca fue un fetiche en cierta época, y su leche era tabú mientras que sus excrementos eran muy apreciados. (88:1.5)
 uso antiguo
 	fue un tipo de ganado cazado por los neandertales (64:4.2)
@@ -513,7 +514,7 @@ caucásicos; caucasoide | | razas; raza blanca | RACE | OK
 La herencia andita es la que confiere a la mezcla políglota de las llamadas razas blancas esa homogeneidad generalizada que ha sido denominada caucasoide. (78:4.4)
 La raza caucasoide es la la mezcla andita de los linajes noditas y adamitas, modificada además por la unión con los sangiks primarios y una parte de los secundarios y por un cruce considerable con los andonitas. Las razas blancas occidentales, junto con algunos pueblos hindúes y turanianos, están incluidas en este grupo. (81:4.11)
 
-causalidad; la causa; impregnados de causalidad | | | | OK
+causalidad; la causa; impregnados de causalidad; causas | | | | OK
 la causalidad es la respuesta de la mente cósmica en el dominio de la realidad de los sentidos físicos (16:6.6)
 La mente cósmica responde infaliblemente, reconoce la respuesta, en tres niveles de la realidad universal. (16:6.5)
 evolución en el pensamiento sobre la causalidad
@@ -674,7 +675,8 @@ las criaturas que eran consideradas como mitad humanas y mitad animales, tales c
 
 Centro de Centros | | Padre Universal | PERSON | OK
 
-ciempiés | (65:2.5) | | | 
+ciempiés | | | | OK
+Los ciempiés surgieron temprano en la evolución de la vida multicelular, desarrollándose junto a organismos como estrellas de mar, erizos de mar, insectos y crustáceos. Estas criaturas representan uno de los grupos que sobrevivieron a la larga lucha evolutiva, aunque muchas otras especies perecieron. Los ciempiés, junto con otros animales primitivos como lombrices y moluscos, son considerados ramas estacionarias en el árbol evolutivo, reflejando formas de vida que dejaron de progresar significativamente con el tiempo. (65:2.5)
 
 Centroamérica; América Central | | | PLACE | OK
 una raza naranja-azul amalgamada migró a Méjico y América Central (64:7.5)
@@ -685,12 +687,13 @@ universo central | | Havona | PLACE | OK
 
 centuriones | | romanos:nombrado | | OK
 
-cefalópodos | (59:2.11) (59:3.5, 8) (60:1.13) | moluscos | | 
+cefalópodos | | moluscos | | OK
+Los cefalópodos, ancestros de los actuales nautilos, pulpos, calamares y sepias, estaban bien desarrollados y se convirtieron en los principales depredadores marinos tras el declive de los trilobites. Algunos alcanzaron tamaños impresionantes, de hasta quince pies de largo. En esta era, más de mil especies de amonites evolucionaron en la costa del Pacífico de California, destacando la diversidad y los avances evolutivos de los cefalópodos. Estas criaturas dominaron los mares durante importantes periodos de transición en la historia de la Tierra. (59:2.11) (59:3.5,8) (60:1.13)
 
 cereales | | | | OK
 los cereales abundaron en el Cretácico (60:3.19)
 
-ceremonias; ceremonia; formalidad; ceremoniales  | | cultos; religión; tradiciones | | OK
+ceremonias; ceremonia; formalidad; ceremoniales; prácticas religiosas; ceremonial | | cultos; religión; tradiciones | | OK
 la evolución de las prácticas religiosas progresó desde el apaciguamiento, la evitación, el exorcismo, la coacción, la conciliación y la propiciación hasta el sacrificio, la expiación y la redención (90:0.1)
 La oración es la técnica por la cual toda religión se convierte tarde o temprano en una institución. Y con el tiempo, la oración se asocia a cosas perjudiciales como las ceremonias (91:5.6)
 lo antiguo es sagrado
@@ -761,9 +764,11 @@ Las tribus caldeas reconocían el derecho que tenía una esposa de imponer a su 
 fueron adeptos al culto a las estrellas, y pensaban que eran hijos del padre cielo y de la madre Tierra. Los caldeos colocaban al Sol en el centro de «los siete círculos del universo». También estimaban que las estrellas eran la causa del sufrimiento (85:5.1-2) (90:3.8)
 > https://es.wikipedia.org/wiki/Caldea
 
-tiza | (60:3-4) (61:1.13) | | | OK
+creta | | | | OK
+Durante el período Cretáceo, las formaciones de creta, derivadas de depósitos de foraminíferos, fueron predominantes y dieron nombre a la época. Estos depósitos, que incluyen también margas verdes, lutitas, areniscas y pequeñas cantidades de caliza, alcanzaron espesores de entre 200 y 10,000 pies en diversas regiones, como las estribaciones de las Montañas Rocosas y Europa. Estas capas porosas almacenan agua, lo que las hace fundamentales para abastecer regiones áridas actuales. Además, los movimientos tectónicos y la actividad volcánica asociada contribuyeron a deformaciones importantes de la corteza terrestre, afectando las áreas costeras del Pacífico y regiones montañosas como los Andes. (60:3)
+El período Cretácico marcó el fin de las grandes invasiones marinas, especialmente en América del Norte, donde 24 extensas inundaciones moldearon el terreno. Las formaciones de creta de este tiempo, derivadas de depósitos marinos, siguen siendo prominentes hoy en día. Entre ellas, destaca la piedra caliza, ahora elevada a 3,000 metros en los Alpes, 5,000 metros en el Himalaya y 6,000 metros en el Tíbet. También se encuentran depósitos de creta a lo largo de las costas de África y Australia, la costa oeste de América del Sur y en los alrededores del Caribe. (60:4) (61:1.13)
 
-desafíos; desafío | | conflicto; dificultades; oportunidades; perspectiva; resolución de problemas; sufrimiento | | OK
+desafíos; desafío; desafiar | | conflicto; dificultades; oportunidades; perspectiva; resolución de problemas; sufrimiento | | OK
 debemos aceptar los desafíos sin quejarnos y a enfrentarnos con las dificultades y las incertidumbres sin temor (48:6.35)
 los cinco meses de prueba de los apóstoles en que pescaron y trabajaron como predicadores resultó ser agotadora pero provocó un amor y fidelidad a Jesús por encima de todo (138:9)
 la vida mortal es una prueba corta e intensa, pero hay muchas otras etapas de prueba en la existencia futura (14:5.1)
@@ -773,11 +778,11 @@ el gran desafío
 	El desafío religioso de la época actual es que hombres y mujeres con visión de futuro y perspicacia espiritual construyan una nueva y atrayente filosofía de la vida (2:7.10)
 	El gran desafío que ha sido lanzado a los hombres mortales es el siguiente: ¿Decidiréis personalizar en vuestra propia individualidad evolutiva los significados válidos del cosmos o permitiréis que sean otros los que hagan una contribución personal al Supremo? (117:4.10)
 
-cámara de las piedras labradas (Jerusalén); cámara de piedras labradas | | | | OK
+cámara de las piedras labradas (Jerusalén); cámara de piedras labradas; una sala | | | | OK
 la cámara de las piedras labradas era el lugar de reunión del sanedrín (173:1.5) (184:3.2) (186:1.1)
 > https://en.wikipedia.org/wiki/Hall_of_Hewn_Stones
 
-azar; casualidad | (86:1) | juegos de azar; suerte | | OK
+azar; casualidad; fortuita | (86:1) | juegos de azar; suerte | | OK
 existen 50.000 hechos que prueban que la evolución es incompatible con el azar (58:2.3-4)
 Los chamanes creían profundamente en la misión de la casualidad como reveladora de la voluntad de los espíritus; con frecuencia lo echaban a suertes para llegar a una decisión. (90:2.4)
 El salvaje se esfuerza por personalizar todo lo que es intangible y abstracto, y así es como la naturaleza y la casualidad fueron personalizadas como fantasmas —espíritus— y más tarde como dioses. (86:2)
@@ -786,7 +791,7 @@ continuar atribuyendo las cosas difíciles de comprender a las causas sobrenatur
 Chang | | | PERSON | OK
 Chang fue un comerciante chino con el que Jesús tuvo una conversación en Corinto (133:4.9)
 
-cambio; cambios | | progreso; transición | | OK
+cambio; cambios; reajustes | | progreso; transición | | OK
 No se debería intentar ningún gran cambio social o económico de manera repentina. (71:1.22) (81:6.40)
 La vida humana es un cambio sin fin de los factores de la vida, unificados por la estabilidad de la personalidad invariable. (99:1.1) (112:5.20)
 los líderes de una civilización deben seguir el ritmo de los avances científicos o si no corre el riesgo de sufrir retrasos (81:6.39)
@@ -797,7 +802,7 @@ Los valores nunca pueden ser estáticos; la realidad significa cambio, crecimien
 cantos | | | | OK
 en los pueblos primitivos la enfermedad se trataba por medio de cantos, gritos, imposiciones de manos, soplando sobre el paciente y otras muchas técnicas. (90:4.4)
 
-carácter | | crecimiento espiritual | | OK
+carácter; caracteres | | crecimiento espiritual | | OK
 definido como
 	El cárcter es la acumulación capital de las decisiones personales iluminadas por la adoración sincera y el amor, y consumadas en el servicio fraternal (117:5.13)
 	un carácter justo está constituido por la coordinación de ideas-decisiones, de losideales y de la verdad divina (101:6.7)
@@ -834,10 +839,10 @@ Charax | (130:0.1,3) | | PLACE | OK
 Jesús dejó a Ganid y Gonod en Charax, emprendiendo el regreso a Palestina (133:9.4) (134:1.1)
 > https://es.wikipedia.org/wiki/Alejandría_de_Susiana
 
-imagen de carbón | | | | OK
+imagen de carbón; al carbón, un retrato | | | | OK
 Jesús hizo un dibujo al carbón en el suelo de la sinagoga, un retrato de su maestro, lo cual provocó un enorme alboroto en Nazaret (124:1.4-5)
 
-caridad | | altruismo | | OK
+caridad; dar limosnas | | altruismo | | OK
 los judíos
 	Los hebreos fueron la primera tribu que dio un valor supremo a la industria; fueron el primer pueblo que decretó que «el que no trabaje no comerá». (69:2.5) (140:8.2) (153:2.6)
 	Los judíos creían que dar limosnas era algo meritorio (164:3.5)
@@ -869,11 +874,11 @@ Los amuletos mágicos se preparaban mezclando una gran variedad de cosas: carne 
 Los efectos personales de tipo ornamental tuvieron su origen en el uso de los amuletos. (69:9.10)
 los hombres primitivos se frotaban amuletos sobre las infecciones y luego los arrojaban suponiendo que así se producía la curación (90:4.5)
 
-castidad | | culto a la continencia; vírgenes | | OK
+castidad | | culto de la continencia; vírgenes | | OK
 La castidad de las muchachas era un gran obstáculo para casarse; dar a luz a un hijo antes del matrimonio incrementaba considerablemente el atractivo de una joven como esposa, puesto que el hombre estaba seguro de tener una compañera fértil. (82:3.8,13)
 el tabú de la castidad tuvo su origen como una fase de las costumbres relacionadas con la propiedad (82:4.5)
 
-chazán de la sinagoga de Nazaret | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSON | OK
+chazán de la sinagoga de Nazaret; chazan; chazán | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSON | OK
 el chazán o chazan era un empleado de la sinagoga que se encargaba de enseñar a los niños. El Libro de Urantia nos habla repetidas veces del chazán de Nazaret que conoció Jesús, pero sin darnos su nombre (123:5.3)
 este chazán es a quien Jesús dibujó al carboncillo, acto que le causó al joven Jesús un serio problema (124:1.4)
 siempre estuvo interesado en el progreso de Jesús (123:5.9) (124:2.2) (124:3.5) (126:5.3)
@@ -892,9 +897,9 @@ queso | | | | OK
 el queso fue un producto común en los días del personal del Príncipe (66:5.5)
 Jesús aprendió a ordeñar la vaca familiar y a hacer queso (123:5.15)
 
-quimismo; química | | química | | OK
+quimismo | | química | | OK
 
-química | | elementos (químicos) | | OK
+química; químico; químicos | | elementos (químicos) | | OK
 hechos químicos
 	la química tiene su antiguo origen en la alquimia (81:2.9)
 	El comportamiento químico depende enteramente de la actividad de los electrones que giran libremente. (42:7.6)
@@ -909,7 +914,7 @@ más allá de la química
 Quemos | | | PERSON | OK
 Quemos era el dios de los amorreos o amoritas, similar al Yahvé hebreo (96:1.14)
 
-Querubines y Sanobines; querubines y sanobines; los querubines y los sanobines; querubines; sanobines | (38:7-8) | ángeles; cuartas criaturas (Querubines) | ORDER | OK
+Querubines y Sanobines; querubines y sanobines; los querubines y los sanobines; querubines; sanobines; querubines y los sanobines; Querubines y los Sanobines; Querubines; Querubines y los Sanobines; querubín | (38:7-8) | ángeles; cuartas criaturas (Querubines) | ORDER | OK
 Los querubines y los sanobines son los ayudantes fieles y eficaces de los ministros seráficos (38:7.3)
 los Artesanos Celestiales enseñan a los querubines y los sanobines a ingerir energía eficientemente (44:5.10)
 los jefes de los querubines y los sanobines formaron parte del consejo asesor de los síndicos Melquisedek después de la rebelión (67:6.5)
@@ -943,7 +948,7 @@ tipos
 	Los querubines y los sanobines están caracterizados por ser «cuartas criaturas» como los Servitales de Havona y las comisiones conciliadoras. Cada cuarto querubín y cada cuarto sanobín son casi materiales, pareciéndose muy claramente al nivel morontial de existencia. (38:7.6-7) (38:8.4)
 	no tienen una diferencia de sexo pero los querubines tienen una diferencia denominada positiva o dinámica, y negativa o reservada (84:6.5)
 
-Chicago | | | PLACE | OK
+Chicago; la ciudad donde efectuamos esta visita | | | PLACE | OK
 Chicago es la ciudad de la visitación de los reveladores de El Libro de Urantia (113:2.7)
 Chicago es mencionado para establecer una comparación de la energía proporcionada por el sol. Si la ciudad tuviera que pagar la luz del sol a dos centavos de dólar por kilovatio-hora la factura sería de más 100 millones de dólares diarios (58:2.1)
 > https://es.wikipedia.org/wiki/Chicago
@@ -954,17 +959,17 @@ Las formas no tienen valor cuando las lecciones se han aprendido. No se puede ob
 jefe de los Monitores de Misterio | | | PERSON | OK
 El jefe de los Monitores de Misterio es el ser que preside el Colegio de los Ajustadores Personalizados en Divininton, y está asociado íntamente con el el Espíritu Maestro número 1 como consejero (16:3.2)
 
-jefe de los arcángeles de Nebadon; Jefe de los Arcángeles de Nebadon | | | PERSON | OK
+jefe de los arcángeles de Nebadon; Jefe de los Arcángeles de Nebadon; Jefe de los Arcángeles | | | PERSON | OK
 Este arcángel es quien consideró diferentes técnicas para la restauración del cuerpo fallecido de Jesús, llegando a la conclusión de que nada podían hacer (189:0.1)
 también es quien escribió los documento 33 y 35 (33:8.7) (35:10.6)
 
-jefe de las Voces de Nebadon | | | PERSON | OK
+jefe de las Voces de Nebadon; Jefe de las Voces de Nebadon | | | PERSON | OK
 El jefe de las Voces de Nebadon forma parte de la orden de seconafines primarios; es capaz de reflejar la voz de Miguel a los Ancianos de los Días sin necesidad de que Miguel esté presente (28:4.6-7)
 
-jefe de los Querubines de Urantia | | | PERSON | OK
+jefe de los Querubines de Urantia; y los querubines | | | PERSON | OK
 aconsejó a los síndicos Melquisedek después de la rebelión (67:6.5)
 
-jefe de los Serafines de Urantia | | | PERSON | OK
+jefe de los Serafines de Urantia; jefes de los serafines; jefe de los serafines de Urantia; jefe de los serafines; Jefe de los Serafines estacionado en Urantia; Jefe de Serafines estacionado en Urantia; Jefe de los Serafines estacionados en Urantia | | | PERSON | OK
 El jefe de Serafines de Urantia es quien aconsejó a los síndicos Melquisedek después de la rebelión (67:6.5)
 no pasa un día sin que este jefe esté consciente de una transferencia reflectante, de que se recurre a él desde Uversa por alguna razón (28:4.11)
 se turnan periódicamente; el jefe actual de Urantia es el segundo de la orden de los supernafines primarios que está en este servicio (27:0.2)

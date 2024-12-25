@@ -471,7 +471,7 @@ The priests of the mother cult were especially active in teaching the virtue of 
 
 cataclysms | | accidents; disaster | | OK
 
-cataleptic fits | | | | OK
+cataleptic fits; cataleptic fit | | | | OK
 Women who were able to throw themselves into a trance or a cataleptic fit became powerful shamanesses; later, such women became prophets and spirit mediums. (90:1.3)
 
 catalyst | | | | OK
@@ -479,10 +479,10 @@ In those suns which are encircuited in the space-energy channels, solar energy i
 
 catastrophes | | accidents; crisis; defeat; disaster | | OK
 
-caterpillars | | | | OK
+caterpillars; caterpillar | | | | OK
 The philosophy of the universe cannot be predicated on the observations of so-called science. If such a metamorphosis could not be seen, a scientist would be inclined to deny the possibility of developing a butterfly out of a caterpillar. (42:9.4)
 
-cats | | panthers; saber-toothed tigers | | OK
+cats; cat | | panthers; saber-toothed tigers | | OK
 evolution
 	Various groups of mammals had their origin in a unique animal now extinct. This carnivorous creature was something of a cross between a cat and a seal; it could live on land or in water and was highly intelligent and very active. (61:2.7)
 	20,000,000 years ago many groups of animals migrated to North America from Asia, including many varieties of the cat family. The cat tribe was represented by panthers and large saber-toothed tigers, the latter first evolving in North America (61:3.4,10,13) 
@@ -491,10 +491,11 @@ evolution
 superstition
 	black cats were considered magical (88:5.4)
 
-Catskill Mountains | (59:4.15) | | PLACE | OK
+Catskill Mountains | | | PLACE | OK
+Around 240 million years ago, during a period of widespread land subsidence, the Catskill Mountains formed as one of North America's largest geological monuments from this era. These mountains, located along the west bank of the Hudson River, bear evidence of the Devonian floods that slowly advanced and retreated. (59:4.15)
 > https://en.wikipedia.org/wiki/Catskill_Mountains
 
-cattle; cows; cow | | | | OK
+cattle; cows; cow; Cattle; fatted calf | | | | OK
 When animals became fetishes, there ensued the taboos on eating the flesh of the fetish animal. At one time the cow was a fetish, the milk being taboo while the excreta were highly esteemed. (88:1.5)
 ancient use
 	cattle was hunted by Neanderthalers (64:4.2)
@@ -513,7 +514,7 @@ Caucasians; Caucasoid | | races; white race | RACE | OK
 it is Andite inheritance that gives to the polyglot mixture of the so-called white races that generalized homogeneity which has been called Caucasoid. (78:4.4)
 The Caucasoid race is the Andite blend of the Nodite and Adamic stocks, further modified by primary and some secondary Sangik admixture and by considerable Andonic crossing. The Occidental white races, together with some Indian and Turanian peoples, are included in this group. (81:4.11)
 
-causation; causality; the cause; Causation; causative-impregnated | | | | OK
+causation; causality; the cause; Causation; causative-impregnated; causes | | | | OK
 causation is the cosmic mind response in reality domain of physical senses (16:6.6)
 The cosmic mind unfailingly responds, recognizes response, on three levels of universe reality. (16:6.5)
 evolution in thinking about causality
@@ -544,7 +545,7 @@ The southern Cro-Magnons generally lived in caves and grottoes. (80:3.6) (80:9.4
 Cedes | | | PERSON | OK
 Cedes made a record of Jesus’ life in A.D. 78 (121:8.9)
 
-celestial artisans | (44) (30:3.6) | | ORDER | OK
+celestial artisans; Celestial Artisans | (44) (30:3.6) | | ORDER | OK
 These beings are the master artists and artisans of the morontia and lower spirit realms. (44:0.1)
 The celestial artisans are not created as such; they are a selected and recruited. The original teaching corps of these artisans was 7000 Havona instructors assigned by Infinite Spirit (44:0.3,13)
 all Ascending sons of God are eligible to become celestial artisans, but no one may enlist for less than one superuniveral millennium (44:0.4)
@@ -616,7 +617,7 @@ Celestial Recorders sponsor superuniverse seraphic record-keeping (27:5.4)
 they are trained by Divine Counselors and Perfectors of Wisdom (25:6.1)
 they appear in Uversa personality register (30:2.79)
 
-celibate orders | | castration | | OK
+celibate orders; celibate | | castration | | OK
 celibate was created and maintained by individuals lacking normal sex urges (82:3.9)
 Among the reasons cited in support of a celibate priesthood, the chief was the baseness of woman. (84:4.4)
 
@@ -674,7 +675,8 @@ creatures that were regarded as half human and half animal, such as centaurs, we
 
 Center of Centers | | Universal Father | PERSON | OK
 
-centipedes | (65:2.5) | | | 
+centipedes | | | | OK
+Centipedes emerged early in the evolution of multicellular life, developing alongside other organisms such as starfish, sea urchins, insects, and crustaceans. These creatures represent one of the groups that survived the long evolutionary struggle, although many other species perished. Centipedes, along with other early animals like earthworms and mollusks, are considered stationary branches in the evolutionary tree, reflecting life forms that ceased to progress significantly over time. (65:2.5)
 
 Central America | | | PLACE | OK
 an amalgamated orange-blue race migrated to Mexico and Central America (64:7.5)
@@ -685,12 +687,13 @@ central universe | | Havona | PLACE | OK
 
 centurions | | Romans:named | | OK
 
-cephalopods | (59:2.11) (59:3.5, 8) (60:1.13) | mollusks | | 
+cephalopods | | mollusks | | OK
+Cephalopods, ancestors of modern nautiluses, octopuses, squids, and cuttlefish, were well-developed and became dominant marine predators after the decline of trilobites. Some cephalopods grew to impressive sizes, up to fifteen feet long. During this era, over a thousand species of ammonites evolved on the Pacific coast of California, showcasing the diversity and evolutionary advancements of cephalopods. These creatures thrived as masters of the seas during significant transitional periods in Earth's history. (59:2.11) (59:3.5,8) (60:1.13)
 
 cereals | | | | OK
 cereals were abundant in Cretaceous (60:3.19)
 
-ceremonies; ceremony; ceremonials; formalities; ceremonial | | cults; religion; traditions | | OK
+ceremonies; ceremony; ceremonials; formalities; ceremonial; religious observances | | cults; religion; traditions | | OK
 The evolution of religious observances progressed from placation, avoidance, exorcism, coercion, conciliation, and propitiation to sacrifice, atonement, and redemption. (90:0.1)
 Prayer is the technique whereby, sooner or later, every religion becomes institutionalized. And in time prayer becomes associated with deleterious agencies as ceremonials (91:5.6)
 ancient is sacred
@@ -761,7 +764,9 @@ The Chaldean tribes recognized the right of a wife to impose a premarital pledge
 they were star cultists and considered themselves to be the children of the sky father and the earth mother. The Chaldeans put the sun in the center of “the seven circles of the universe.” Also looked upon the stars as the cause of suffering (85:5.1-2) (90:3.8)
 > https://en.wikipedia.org/wiki/Chaldea
 
-chalk | (60:3-4) (61:1.13) | | | OK
+chalk; chalk-making | | | | OK
+During the Cretaceous period, chalk formations, derived from deposits of foraminifers, predominated and gave the epoch its name. These deposits, which also include greensand marl, shale, sandstone, and small amounts of limestone, reached thicknesses of 200 to 10,000 feet in regions such as the foothills of the Rocky Mountains and Europe. These porous layers store water, making them crucial for supplying arid regions today. Additionally, tectonic movements and associated volcanic activity contributed to significant crustal deformations, impacting Pacific coastal areas and mountain regions like the Andes. (60:3)
+The Cretaceous period marked the end of major marine invasions, especially in North America, where 24 extensive inundations had shaped the land. Chalk formations from this time, derived from marine deposits, remain prominent today. These include limestone now uplifted to 10,000 feet in the Alps, 16,000 feet in the Himalayas, and 20,000 feet in Tibet. Chalk deposits are also found along the coasts of Africa and Australia, the west coast of South America, and around the West Indies. (60:4) (61:1.13)
 
 challenges; challenge | | conflict; difficulties; opportunities; perspective; problem solving; suffering | | OK
 we must accept challenges without complaint and to face difficulties and uncertainties without fear (48:6.35)
@@ -773,11 +778,11 @@ the great challenge
 	The religious challenge of this age is to that forward-looking men and women with spiritual insight construct a new and appealing philosophy of living. (2:7.10)
 	The great challenge that has been given to mortal man is this: Will you decide to personalize the experiencible value meanings of the cosmos into your own evolving selfhood or will let others to make personal contributions to Supreme? (117:4.10)
 
-chamber of hewn stone | | | | OK
+chamber of hewn stone; a chamber | | | | OK
 the chamber of hewn stone was the Sanhedrin meeting place (173:1.5) (184:3.2) (186:1.1)
 > https://en.wikipedia.org/wiki/Hall_of_Hewn_Stones
 
-chance | (86:1) | gambling; luck | | OK
+chance; fortuitous | (86:1) | gambling; luck | | OK
 there are 50,000 facts prove evolution incompatible with chance (58:2.3-4)
 The shamans were great believers in the mission of chance as revelatory of the will of the spirits; they frequently cast lots to arrive at decisions. (90:2.4)
 The savage strives to personalize everything intangible and abstract, and thus both nature and chance become personalized as ghosts—spirits—and later on as gods. (86:2)
@@ -786,7 +791,7 @@ to continue to ascribe things difficult of comprehension to supernatural causes 
 Chang | | | PERSON | OK
 Chang was a Chinese merchant with whom Jesus had a conversation in Corinth (133:4.9)
 
-change; changes | | progress; transition | | OK
+change; changes; readjustments | | progress; transition | | OK
 do not attempt great social or economic change suddenly (71:1.22) (81:6.40)
 Human life is an endless change of the factors of life unified by the stability of the unchanging personality. (99:1.1) (112:5.20)
 the leaders of a civilization must keep pace with scientific advances to avoid taking the risk of being delayed (81:6.39)
@@ -797,7 +802,7 @@ Values can never be static; reality signifies change, growth. Change without gro
 chanting | | | | OK
 primitive people disease was treated by chanting, howling, laying on of hands, breathing on the patient, and many other techniques.  (90:4.4)
 
-character | | spiritual growth | | OK
+character; characters | | spiritual growth | | OK
 defined as
 	Character is the capital accumulation of personal decisions illuminated by sincere worship and love, and consummated in brotherly service (117:5.13)
 	a righteous character is constituted by the co-ordination of idea-decisions, ideals, and divine truth (101:6.7)
@@ -837,7 +842,7 @@ Jesus left Ganid and Gonod at Charax, heading back to Palestine (133:9.4) (134:1
 charcoal picture | | | | OK
 Jesus made a charcoal drawing on the floor of the synagogue, a portrait of his teacher, causing a huge uproar in Nazareth (124:1.4-5)
 
-charity | | altruism | | OK
+charity; give alms; giving of alms | | altruism | | OK
 Jews
 	The Hebrews were the first tribe to put a supreme premium on industry; they were the first people to decree that “he who does not work shall not eat. (69:2.5) (140:8.2) (153:2.6)
 	Jews believed almsgiving was meritorious (164:3.5)
@@ -869,11 +874,11 @@ Magical charms were concocted from a great variety of things: human flesh, tiger
 The ornamental type of personal effects originated in the wearing of charms. (69:9.10)
 primitives rubbed charms on infections, then discarded them and supposedly experience a cure (90:4.5)
 
-chastity | | continence cult; virgins | | OK
+chastity; Chastity | | continence cult; virgins | | OK
 Chastity in girls was a great hindrance to marriage; the bearing of a child before marriage greatly increased a girl’s desirability as a wife since the man was sure of having a fertile companion. (82:3.8,13)
 the chastity taboo had its origin as a phase of the property mores (82:4.5)
 
-chazan of Nazareth synagogue | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSON | OK
+chazan of the Nazareth synagogue; chazan | (123:5.9) (124:1.4) (124:2.2) (124:3.5) (127:2.7-8) | | PERSON | OK
 the chazan or chazan was an officer of the synagogue who was in charge of teaching the children. The Urantia Book repeatedly tells us about the chazan of Nazareth that Jesus knew, but without giving us his name (123:5.3)
 this chazan is whom Jesus drew in charcoal, an action that caused the young Jesus a serious problem (124:1.4)
 he was always interested inJesus’ progress (123:5.9) (124:2.2) (124:3.5) (126:5.3)
@@ -894,7 +899,7 @@ Jesus learned to milk the family cow and make cheese (123:5.15)
 
 chemism | | chemistry | | OK
 
-chemistry | | elements (chemical) | | OK
+chemistry; Chemical; chemical | | elements (chemical) | | OK
 chemical facts
 	chemistry has its ancient origin in alchemy (81:2.9)
 	Chemical behavior is wholly dependent on the activity of the freely revolving electrons. (42:7.6)
@@ -909,7 +914,7 @@ beyond chemistry
 Chemosh | | | PERSON | OK
 Quemos was the god of the Amorites or Amorites, similar to the Hebrew Yahweh (96:1.14)
 
-cherubim and sanobim; cherubim; sanobim; Cherubim | (38:7-8) | angels; fourth creatures (cherubim) | ORDER | OK
+cherubim and sanobim; cherubim; sanobim; Cherubim; Cherubim and sanobim; cherubim, and sanobim; Cherubim and Sanobim | (38:7-8) | angels; fourth creatures (cherubim) | ORDER | OK
 Cherubim and sanobim are the faithful and efficient aids of the seraphic ministers (38:7.3)
 celestial artisans teach efficient energy intake to cherubim and sanobim (44:5.10)
 chief of cherubim and sanobim took part in the council of Melchizedek receivers after rebellion (67:6.5)
@@ -943,7 +948,7 @@ types
 	Cherubim and sanobim are “fourth creatures” as Havona Servitals and conciliating commissions. Every fourth cherubim and every fourth sanobim are quasi-material, very definitely resembling the morontia level of existence. (38:7.6-7) (38:8.4)
 	they do not have a difference in sex but cherubim have a difference called positive or aggressive and negative or retiring (84:6.5)
 
-Chicago | | | PLACE | OK
+Chicago; the city of this visitation | | | PLACE | OK
 Chicago was the city of the visitation of the Urantia Book's revelators (113:2.7)
 Chicago is mentioned to establish a comparison of the energy provided by the sun. If the city had to pay for sunlight at two cents per kilowatt-hour, the bill would be more than 100 million dollars a day. (58:2.1)
 > https://en.wikipedia.org/wiki/Chicago
@@ -954,17 +959,17 @@ Forms are valueless when lessons are learned. No chick may be had without the sh
 chief of Mystery Monitors | | | PERSON | OK
 The head of the Mystery Monitors is the being who presides over the College of Personalized Adjusters on Divininton, and is closely associated with Master Spirit number 1 as a counselor. (16:3.2)
 
-chief of Nebadon archangels | | | PERSON | OK
+chief of the archangels of Nebadon; Chief of the Archangels of Nebadon; Chief of Archangels | | | PERSON | OK
 This archangel is the one who considered different techniques for the restoration of the deceased body of Jesus, reaching the conclusion that they could do nothing (189:0.1)
 he is also the one who wrote papers 33 and 35 (33:8.7) (35:10.6)
 
-chief of Nebadon Voices | | | PERSON | OK
+chief of Nebadon Voices; Chief of Nebadon Voices | | | PERSON | OK
 The chief of Nebadon Voices is part of the order of primary seconaphim; he is able to reflect Michael's voice to the Ancients of Days without the need for Michael to be present (28:4.6-7)
 
-chief of Urantia cherubim | | | PERSON | OK
+chief of Urantia cherubim; and cherubim | | | PERSON | OK
 advised Melchizedek receivers after rebellion (67:6.5)
 
-chief of Urantia seraphim | | | PERSON | OK
+chief of Urantia seraphim; chiefs of seraphim; chief of seraphim on Urantia; chief of seraphim; Chief of Seraphim stationed on Urantia | | | PERSON | OK
 chief of Urantia seraphim is who advised Melchizedek receivers after rebellion (67:6.5)
 not a day goes by that this boss is not aware of a reflective transference, that he is called upon from Uversa for some reason (28:4.11)
 they take turns periodically; the current head of Urantia is the second of the order of the primary supernaphim who is in this service (27:0.2)
