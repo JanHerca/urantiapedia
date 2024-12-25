@@ -957,7 +957,7 @@ noms
 	* Bel-Mardouk | Bel-Mardouk
 	* Brahma | Brahma
 	* Brahman | Brahman
-	* brownies | brownies
+	* gnomes | gnomes
 	* Bouddha | Bouddha
 	* centaures | centaures
 	* Kemoch | Kemoch

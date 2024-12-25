@@ -839,7 +839,7 @@ types
 	# enregistreurs de concept
 	# enregistreurs d'idéogrammes
 	# promoteurs de l'art oratoire
-	# directeurs de diffusion
+	# directeurs de télédiffusion
 	# enregistreurs de rythme
 	# enregistreurs morontiels
 
@@ -1232,7 +1232,7 @@ traduction sommeil | | repos:repos de transition | |
 les progresseurs morontiels entrent dans un sommeil de translation entre les mondes des maisons (47:3.10)
 
 traducteurs | | | ORDER |
-les directeurs de diffusion traduisent les émissions des Anciens des Jours pour les univers locaux (44:4.9)
+les directeurs de télédiffusion traduisent les émissions des Anciens des Jours pour les univers locaux (44:4.9)
 Interprètes et traducteurs Morontia Companion toujours disponibles (48:3.12-13)
 nécessaire pour les gens de différents superunivers (44:4.3)
 
