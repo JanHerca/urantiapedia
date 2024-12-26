@@ -991,7 +991,7 @@ los Jefes de la Asignación son los encargados de dispersar a los adoradores en 
 son supernafines primarios (26:8.5) (27:0.2-9) (27:2.1)
 se encargar de enviar a los peregrinos que han fracasado en la aventura de la Deidad a los superuniversos (26:8.5) (26:10.4)
 
-crianza de los hijos | | niños; disciplina; familia; hogar; matrimonio; padres | | OK
+crianza de los hijos; educación de los niños; cultura de sus hijos | | niños; disciplina; familia; hogar; matrimonio; padres | | OK
 No es conveniente que haya demasiada diferencia de edad entre los hijos de una familia. (55:3.10)
 Ayudad a los niños a escoger juiciosamente a sus héroes y a seleccionar el trabajo de su vida. (140:5.14)
 El niño debería ser iniciado a la adoración en el mundo de la naturaleza, y después acompañar a sus padres a los edificios públicos de las asambleas religiosas, que posean al menos tanto atractivo material y belleza artística como el hogar donde vive cada día. (167:6.6)
@@ -1056,7 +1056,7 @@ En verdad, una mujer está angustiada a la hora del parto, pero una vez que ha d
 El parto no fue una prueba dolorosa o angustiosa para Fonta, la primera mujer humana, ni para su progenie inmediata. (63:4.2)
 existía un mandato mosaico que ordenaba que después de haber pasado cierto tiempo, una madre tenía que presentarse en el templo para purificarse (122:9.1) (122:10.2)
 
-niños; infantil; hijos | | crianza de los hijos; familia; hogar | | OK
+niños; infantil; hijos; hijo; niño; bebés; descendientes | | crianza de los hijos; familia; hogar | | OK
 para los hijos de Adán la edad para elegir su camino era los veinte años (75:6.3)
 Un niño adquiere su identidad física en el momento de nacer como mortal, pero en materia de supervivencia, todos los niños sin Ajustador se considera que están vinculados todavía a sus padres. (49:6.12)
 En verdad es dudoso que unos padres inteligentes y afectuosos se vean nunca en la necesidad de perdonar a un hijo normal y corriente. (174:1.2)
@@ -1160,7 +1160,7 @@ geología
 mares de China | | | PLACE | OK
 Los misioneros budistas desafiaron los peligros de los mares de China (94:9.2)
 
-chinos | (79:5) | China; raza amarilla | RACE | OK
+chinos; pueblo chino | (79:5) | China; raza amarilla | RACE | OK
 influencias raciales
 	las diferencias entre las razas del norte y del sur de China se deben a varios factores: (79:5.6) (79:6.7)
 	* los chinos del norte asimilaron una gran parte del linaje rojo cuando éstos estuvieron allí
@@ -1201,9 +1201,10 @@ creencias religiosas
 Contacto de Jesús con los chinos
 	Durante sus viajes Jesús tuvo numerosos encuentros con un mercader chino llamado Chang (133:4.9)
 
-cloro | (57:8.3) | | | OK
+cloro | | | | OK
+Los océanos primitivos de la Tierra eran inicialmente de agua dulce, ya que la mayor parte del cloro estaba unido a metales, dejando solo una pequeña cantidad combinada con hidrógeno, lo que hacía el agua ligeramente ácida. (57:8.3)
 
-fabricación de clorofila | | | | OK
+fabricación de clorofila; fabricar la clorofila | | | | OK
 La etapa más importante de la evolución vegetal fue el desarrollo de la capacidad para fabricar la clorofila, y el segundo avance en importancia fue la transformación evolutiva de la espora en una semilla compleja. (65:6.3)
 
 elección | | libre albedrío | | OK
@@ -1213,7 +1214,7 @@ En ningún lugar donde Jesús había enseñado había encontrado un rechazo tan 
 De ahí las palabras de Jesús: «¡Ay de los habitantes que rechazan la luz en Corazín, Betsaida-Julias y Cafarnaúm, esas ciudades que no han recibido bien a estos mensajeros!» (163:6.5) 
 > https://es.wikipedia.org/wiki/Corozaín
 
-pueblo elegido | | | | OK
+pueblo elegido; mi pueblo | | | | OK
 No existe ningún tipo de «pueblo elegido». (134:5.4)
 los judíos
 	Moisés proclamó que Yahvé era el Señor Dios de Israel, que había escogido a los hebreos como su pueblo elegido; estaba construyendo una nueva nación, y nacionalizó sabiamente sus enseñanzas religiosas diciendo a sus seguidores que Yahvé era muy estricto y exigente, un «Dios celoso». (96:4.6)
@@ -1236,7 +1237,7 @@ Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido con
 Miguel de Nebadon es llamado también Cristo Miguel (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 Cristo significa el ungido (98:7.2)
 
-Iglesia cristiana inicial; primera iglesia cristiana; iglesia cristiana primitiva; cristianismo paulino; primeros dirigentes del cristianismo; cristianismo de Pablo; iglesia cristiana de Pablo; cristianismo primitivo; iglesia institucionalizada de Pablo; cristianismo helenizado; cristianismo paganizado; helenización del cristianismo; paganización del cristianismo; culto cristiano de Pablo; culto creciente del cristianismo según Pablo; culto cristiano primitivo | | cristianismo; Iglesia católica romana | RELIGION | OK
+Iglesia cristiana inicial; iglesia cristiana; primera iglesia cristiana; iglesia cristiana primitiva; cristianismo paulino; primeros dirigentes del cristianismo; cristianismo de Pablo; iglesia cristiana de Pablo; cristianismo primitivo; iglesia institucionalizada de Pablo; cristianismo helenizado; cristianismo paganizado; helenización del cristianismo; paganización del cristianismo; culto cristiano de Pablo; culto creciente del cristianismo según Pablo; culto cristiano primitivo | | cristianismo; Iglesia católica romana | RELIGION | OK
 Los resultados de la predicación de Pedro el día de Pentecostés tuvieron tales efectos que decidieron los esfuerzos por proclamar el evangelio del reino. Pedro fue el verdadero fundador de la iglesia cristiana; Pablo llevó el mensaje cristiano a los gentiles, y los creyentes griegos lo propagaron por todo el imperio romano. (195)
 durante algún tiempo, los creyentes en Jesús fueron una secta dentro del judaísmo (194:1.5) (194:4.10)
 el rápido triunfo
@@ -1426,7 +1427,8 @@ Cicerón | | | PERSON | OK
 El famoso escritor y orador romano es puesto como ejemplo de la madurez para poder recibir el cristianismo (195:2.6)
 > https://es.wikipedia.org/wiki/Cicerón
 
-Isla de Cincinnati | (59:4.8) | | PLACE | OK
+Isla de Cincinnati | | | PLACE | OK
+Hace 260 millones de años, la región al sureste de la isla de Cincinnati permaneció elevada sobre el agua, mientras que gran parte de Europa occidental, incluidas las Islas Británicas, estaba sumergida bajo los mares. (59:4.8)
 
 círculos | | círculos psíquicos; círculos concéntricos, tres; Jerusem | | OK
 en Jerusem las áreas residenciales no nativas se llaman los círculos. Cada uno consiste en siete círculos concéntricos sucesivamente elevados. Son los siguientes: (46:4.2)
@@ -1439,7 +1441,7 @@ en Jerusem las áreas residenciales no nativas se llaman los círculos. Cada uno
 # los círculos de los finalitarios, con el incomparable templo vacío y silencioso con el sello de Miguel (46:5.32)
 # Otros círculos residenciales adicionales (46:5.33)
 
-Reguladores de los Circuitos | | | ORDER | OK
+Reguladores de los Circuitos; reguladores de los circuitos | | | ORDER | OK
 Los Reguladores de los Circuitos son los seres sin igual que coordinan la energía física y espiritual y regulan su flujo. Se necesitan millones de reguladores de este tipo para energizar incluso un sistema de mundos de las mansiones como el de Satania (48:2.13)
 Estos Supervisores del Poder Morontial actúan como dínamos que transforman en todas partes las energías del espacio (48:2.13-14)
 aparecen en el registro de personalidades de Uversa (30:2.109)
@@ -1473,7 +1475,7 @@ Además de los circuitos universales del Paraíso funcionan dos divisiones de ci
 *# El circuito de las Ministras Divinas
 *# El circuito de los espíritus ayudantes de la mente
 
-circuncisión | | | | OK
+circuncisión; circuncidado | | | | OK
 Rito antiguo
 	El antiguo y casi universal rito de la circuncisión fue una consecuencia del culto del sacrificio parcial; era simplemente sacrificatorio y no se le atribuía ninguna finalidad higiénica. Luego se volvió un procedimiento higiénico. (89:8.2) (92:1.1)
 	La circuncisión se practicó al principio como un rito de iniciación en una de estas cofradías secretas. (70:7.10)
@@ -1487,7 +1489,7 @@ En tiempos de Jesús
 
 circunspección | | propiedad | | OK
 
-circunstancias; tribulaciones | | ambiente; discapacidades; providencia | | OK
+circunstancias; tribulaciones | | entorno; discapacidades; providencia | | OK
 «Sabemos que todas las cosas trabajan unidas por el bien de aquellos que aman a Dios». Los acontecimientos físicos catastróficos siempre se resuelven para el bienestar y el progreso de los universos. Puede ser que el Supremo y la Trinidad entremezclen todas las circunstancias inexplicables de la existencia en una configuración significativa de alto valor. (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 los serafines pueden manipular las condiciones planetarias y asociar las circunstancias de tal manera, y de hecho lo hacen, que pueden influir favorablemente sobre las esferas de la actividad humana a las que están vinculados (113:3.5) (113:4.4) (114:6.18)
 Jesús
@@ -1532,7 +1534,7 @@ Ciudad de David | | Belén (Judea) | PLACE | OK
 Ciudad de Judá | | | PLACE | OK
 Ciudad de Judá era un pequeño pueblo a 7 km al oeste de Jerusalén. Allí estaba el hogar de Isabel y Zacarías, los padres de Juan el Bautista (122:2.6-7) (135:0.2)
 
-funcionarios | | | | OK
+funcionarios; servidor civil | | | | OK
 Si a un no creyente se le puede calificar de servidor civil superior, deberíamos examinar seriamente la conciencia de la filiación con Dios está verdaderamente vivificando nuestra vida de servicio (178:1.13)
 
 civilización; civilizaciones | | evolución:evolución social; gobierno; clases sociales; estándares de vida | | OK
@@ -1688,7 +1690,8 @@ Calidad de las civilizaciones
 	Las civilizaciones son inestables porque no son cósmicas; no son innatas en los individuos de las razas. (16:9.4-5) (68:0.2)
 	La presencia en cualquier sociedad de una gran cantidad de personas no casadas indica la crisis temporal o la transición de las costumbres. (83:7.5)
 
-almejas | (59:2.12) | | | OK
+almejas | | | | OK
+Hace 310 millones de años, diversos animales con concha prosperaban en los mares antiguos, utilizando menos sus conchas como defensa en comparación con épocas posteriores. Los gasterópodos, como los caracoles perforadores, bígaros y caracoles, eran comunes, mientras que los gasterópodos bivalvos, como mejillones, almejas, ostras y vieiras, han perdurado prácticamente sin cambios. Los braquiópodos, con sus conchas articuladas y con muescas, también abundaban, pareciéndose a sus formas actuales. (59:2.12)
 
 clanes; clan | (70:4) | tribus | | OK
 Las lealtades de los andonitas se limitaban a su clan inmediato (63:4.3)
@@ -1705,7 +1708,7 @@ Los Estados territoriales más grandes sostuvieron una larga lucha encarnizada c
 
 clases, sociales | | clases sociales | | OK
 
-Claudia Prócula | | | PERSON | OK
+Claudia Prócula; su mujer | | | PERSON | OK
 Claudia Prócula fue la esposa de Poncio Pilato; se identificó de manera prominente con el evangelio (185:1.7) (185:2.6)
 le pidió a Pilato que no arrestara a Jesús (183:2.3)
 envió un mensaje a Pilato sobre Jesús (185:5.7-8)
@@ -1720,14 +1723,15 @@ Claudo fue un joven desanimado a quien Jesús habló en la isla de Malta (130:8.
 garras | | | | OK
 Los amuletos mágicos se preparaban mezclando una gran variedad de cosas, como garras de tigre (88:5.2)
 
-arcilla | (60:3.5) | | | OK
+arcilla; barro | (60:3.5) | | | OK
 La creencia de que el hombre había sido creado del barro era casi universal en el hemisferio oriental; esta tradición se puede encontrar en todas partes, desde las Islas Filipinas hasta África. (74:8.4,7)
 Los pueblos primitivos utilizaban como material para escribir, entre otras cosas, tablillas de arcilla (66:5.9)
 Jesús puso arcilla en los ojos de Josías, el mendigo ciego (164:3.8)
 hubo esculturas de arcilla adornando los jardines de Dalamatia (66:5.26)
 algunas antiguas tablillas sumerias de arcilla que se han encontrado hablan de Dilmun, de un paraíso terrenal «donde los dioses bendijeron por primera vez a la humanidad con el ejemplo de una vida civilizada y culta». (77:4.8)
 
-limpiando el templo | (173:1) | | | 
+depuración del templo | | | | OK
+Traduce al inglés y francés:La limpieza del templo por Jesús fue un acto contundente contra la comercialización de la adoración y la explotación de los pobres. El templo se había convertido en un centro de lucro mediante la venta de animales para sacrificios y el cambio de monedas, beneficiando a las familias sacerdotales. Ante el ruido y el caos del comercio, Jesús expulsó a los animales, citando: “Mi casa será llamada casa de oración, pero vosotros la habéis hecho cueva de ladrones”. Su acción inspiró la admiración de sus oyentes, que siguiendo su ejemplo, volcaron las mesas de los cambistas, pero alarmó profundamente a las autoridades del templo. (173:1)
 
 Clemente | | | PERSON | OK
 Clemente fue un destacado maestro cristiano en Alejandría, discípulo de Pantaenos o Panteno. Clemente tuvo como discípulo a Orígenes (195:3.10)
@@ -1736,11 +1740,11 @@ Clemente fue un destacado maestro cristiano en Alejandría, discípulo de Pantae
 Cleofás de Emaús; Cleofás | | | PERSON | OK
 Cleofás es uno de los dos hermanos de Emaús que fueron testigos de la séptima aparición de Jesús (190:5)
 
-astucia | | | | OK
+ingenio | | | | OK
 No se deben emplear los argumentos abrumadores ni la superioridad mental para coaccionar a los hombres y a las mujeres para que entren en el reino. (159:3.2)
 El ingenio no sustituye al verdadero carácter. (48:7.3)
 
-clima | | sequía | | OK
+clima; cambios climáticos; cambio de los vientos; modificaciones climáticas; fluctuaciones climáticas; evolución climática; necesidades climáticas | | sequía | | OK
 Los ocho o diez primeros kilómetros de la atmósfera terrestre constituyen la troposfera; esta es la región de los vientos y de las corrientes de aire que producen los fenómenos meteorológicos. (58:2.6)
 los cambios en el clima provocaron cambios en la civilización:
 * Entre los años 2500 y 2000 a. de J.C. los cambios climáticos consiguieron realizar aquello que los bárbaros no lograron hacer: llevar a cabo la ruina de Mesopotamia. (78:8.11)
@@ -1756,7 +1760,7 @@ Jesús en una parábola utilizó la idea de discernir el clima: «¿Cómo puede 
 Cloa | | | PERSON | OK
 María, la madre de Jesús, era descendiente de Cloa (122:1.2)
 
-manto | | | | OK
+manto; abrigo | | | | OK
 Jesús usaba el manto, una típica vestimenta judía (187:2.8)
 Cuando Jesús enseñó a sus apóstoles que si alguien les quitaba injustamente el abrigo, ofrecieran su otro vestido, no se refería literalmente a un segundo abrigo, sino más bien a la idea de hacer algo positivo para salvar al malhechor, en lugar de seguir el antiguo consejo del «ojo por ojo». (159:5.11)
 
@@ -1782,10 +1786,10 @@ las nubes cósmicas pueden afectar el clima (57:8.22)
 Las nubes, la lluvia y el granizo han sido todos temidos y adorados por numerosas tribus primitivas y en muchos cultos iniciales de la naturaleza. (85:4.3)
 Los neandertales tenían un miedo mortal de las nubes, y principalmente de las brumas y las nieblas. (64:4.12)
 
-clubs | | sociedades secretas | | OK
+clubs; sociedad | | sociedades secretas | | OK
 Jesús fue miembro eminente de un club de tertulia de discusiones filosóficas para jóvenes; éstos se reunían en la casa de los diversos miembros y a menudo en la del chazan. (124:1.13) (127:3.9)
 
-cooperación; cooperar; trabajar en equipo | | grupos; liderazgo | | OK
+cooperación; cooperar; trabajar en equipo; trabajo en equipo | | grupos; liderazgo | | OK
 Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. (28:5.14)
 etapas de aprendizaje
 	El personal del Príncipe enseñó el trabajo en equipo (66:7.6)
@@ -1827,7 +1831,8 @@ abrigo | | manto | | OK
 
 pollo | | aves de corral | | OK
 
-cucarachas | (59:5.7) | | | 
+cucarachas | (59:5.7) | | | OK
+Alrededor de los 210 millones de años aparecieron los insectos por primera vez, incluyendo a las cucarachas. Se desarrollaron mil especies de cucarachas, y algunas llegaron a medir diez centímetros de largo. (59:5.7)
 
 cacao | | | | OK
 entre los primeros descubrimientos farmacéuticos figura el cacao (90:4.8)
@@ -1840,17 +1845,17 @@ El hombre primitivo creía que había que hacer algo especial para ganarse el fa
 acuñar moneda | | | | OK
 una orden bien conocida del sanedrín, emitida para orientar a los judíos dispersos por las naciones gentiles, precisaba que el «derecho de acuñar moneda comportaba el derecho de exigir impuestos». (174:2.5)
 
-monedas | | denarios; libras; siclos; talentos; pieza de diez centavos | | OK
+monedas | | denarios; talentos; siclos; talentos; pieza de diez centavos | | OK
 Incluso en los tiempos modernos, las personas supersticiosas hacen un agujero en las monedas. (85:1.4)
 
 frío | | calor; temperaturas | | OK
 El frío y el hambre que reinan en las tierras al descubierto estimulan la actividad, la invención y el ingenio. (64:1.3)
 La gravedad y la ausencia de calor, el frío, organizan y mantienen unida a la materia; el calor y la antigravedad desorganizan la materia y disipan la energía. El frío significa simplemente ausencia de calor —reposo relativo de la energía— el estado de la carga-fuerza universal del espacio. La presencia y la acción de la gravedad son las que impiden la aparición del cero teórico absoluto, pues el espacio interestelar no está a la temperatura del cero absoluto. (15:8.10) (42:4.5-9)
 
-colapso | | | | OK
+colapso; derrumbamiento | | | | OK
 Si Dios se retirara como sostén actual de toda la creación, se produciría inmediatamente un derrumbamiento universal. (4:1.6)
 
-facultad de ética, derecho y supremacía | | | | OK
+facultad de ética, derecho y supremacía; facultad de la ética de la ley y de la técnica de la Supremacía | | | | OK
 una de las etapas en la formación de los Asesores Técnicos es la «facultad de la ética de la ley y de la técnica de la Supremacía», la universidad educativa paradisiaca para perfeccionar a los Asesores Técnicos. (25:4.14)
 
 Facultad de Ética Superior | | | | OK
@@ -1878,9 +1883,13 @@ La práctica del sacrificio de los hijos primogénitos fue sustituida por el exi
 trabajadores del color | | | | OK
 Los trabajadores del color son los artistas de entre los Reproductores Celestiales, un grupo dentro de los Artesanos Celestiales (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
+Colorado | | | PLACE | OK
+Los lechos de Morrison en Colorado, Montana y Wyoming contienen abundantes fósiles de agua dulce. (60:2.5)
+Pikes Peak y Longs Peak son ejemplos de montañas que fueron re-elevadas después de la erosión. (60:4.4)
+Los lechos fósiles de Florissant en Colorado pertenecen a los últimos años de estos tiempos lejanos. (61:2.4)
 
-río Colorado | (58:7.5) | | PLACE | 
+río Colorado; Río Colorado | | | PLACE | OK
+Las rocas fosilíferas alrededor del Gran Cañón del Río Colorado dan testimonio de los levantamientos y fluctuaciones superficiales antiguos. (58:7.5)
 
 razas de colores | | razas | RACE | OK
 
@@ -1888,7 +1897,7 @@ colores | | | | OK
 hay siete colores en el espectro natural. (42:9.3)
 los Músicos Celestiales hacen sinfonías de color, que figuran entre los logros más elevados de los músicos celestiales. (44:1.6)
 
-coma | | | | OK
+coma; sueño profundo | | | | OK
 Los antiguos creían que el alma podía abandonar el cuerpo de diversas maneras, tales como el coma (86:5.4-8)
 Los judíos tenían la costumbre de enterrar a sus muertos el día de su fallecimiento; era una práctica necesaria en un clima tan caluroso. A menudo sucedía que metían en la tumba a alguien que estaba simplemente en coma, de manera que al segundo, o incluso al tercer día, aquella persona salía de la tumba (167:4.3)
 La hija de Jairo de Cafarnaúm, que se creyó que Jesús resucitó, en realidad estaba en coma después de una fiebre prolongada (152:1.2)
@@ -1907,7 +1916,7 @@ La cola de un cometa se dirige en sentido contrario al cuerpo o al sol que lo at
 
 Consolador | | Espíritu de la Verdad | PERSON | OK
 
-mandamientos; mandamiento; mandato; mandatos | (110:3.6-10) | regla de oro | | OK
+mandamientos; mandamiento; mandato; mandatos; Mandamientos | (110:3.6-10) | regla de oro | | OK
 Dalamatia
 	Entre las primeras prohibiciones se encontraron las restricciones sobre la apropiación de las mujeres y otros bienes. (89:1.3)
 	En Dalamatia Hap proporcionó a los dalamatianos los siete cánticos del culto y también les dio la frase de alabanza diaria; luego les enseñó finalmente «la oración del Padre» (66:5.14-15)
@@ -1991,7 +2000,7 @@ Mandamientos para los ángeles
 
 elogio | | alabanza | | OK
 
-comercio | | industria | | OK
+comercio; comerciales | | industria | | OK
 evolución del comercio
 	La primera forma de comercio entre los hombres fue el intercambio de mujeres; éste comenzó mucho tiempo antes que el comercio de los caballos. (69:5.10).
 	el comercio de trueque siguió a las incautaciones de los ataques por sorpresa. (69:4.1)
@@ -2064,7 +2073,7 @@ brújula | | dirección | | OK
 Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebadon. (34:4.13)
 la aguja de la brújula es sensible a la influencia solar, ya que se inclina ligeramente hacia el este cuando sale el Sol, y un poco hacia el oeste cuando el Sol está a punto de ponerse. (58:2.9)
 
-compensaciones | | | | OK
+compensaciones; compensación; manera compensatoria; compensarán; compensar; compensará | | | | OK
 El Ajustador es para nosotros aquello que nivela de manera compensatoria la enorme tensión universal creada por la distancia que separa al hombre de Dios. (107:0.5)
 Existen muchas compensaciones para las rebeliones como la de Lucifer: una es el mejoramiento de las carreras de aquellos ascendentes mortales, ciudadanos de Jerusem, que por resistirse a los sofismas del pecado se colocaron en la vía de convertirse en futuros Mensajeros Poderosos (50:7.1) (54:6.5)
 Aunque el Padre Universal está personalmente presente en el universo residencial, no habita en la mente de los seres que tienen su origen en ese universo (32:3.4)
@@ -2083,7 +2092,7 @@ El Supremo en evolución compensará finalmente a las criaturas finitas por su i
 aquellas personalidades que se encuentran más lejos de Dios, y que pueden experimentar así el mayor grado de ascensión espiritual en el universo (116:4.11)
 el universo aplica infaliblemente técnicas igualadoras destinadas a asegurar que ningún ascendente sea privado de nada esencial para su experiencia de ascensión (55:2.12)
 
-competencia; espíritu competitivo; competición; competitividad; rivalidad  | | capital; propiedad privada; lucro | | OK
+competencia; espíritu competitivo; competición; competitividad; rivalidad; competidores | | capital; propiedad privada; lucro | | OK
 los ángeles hacen un uso eficaz del espíritu competitivo para promover una rivalidad sana e inspirar una calidad del servicio (28:5.18)
 En las civilizaciones avanzadas, la cooperación es más eficaz que la competencia. (71:5.3)
 Unas herramientas mejores, unas máquinas ingeniosas y eficaces, determinan la supervivencia de los grupos competidores en el marco de la civilización que progresa. (81:6.20)
@@ -2130,12 +2139,13 @@ Después de alcanzar al Padre de los espíritus y de ser admitidos en el servici
 Muchas vías fascinantes están abiertas al ministerio de los serafines consumados, pero al igual que todos ellos anhelaban ser nombrados guardianes del destino antes de llegar al Paraíso, en su experiencia post-paradisiaca lo que más desean es servir como acompañantes durante la donación de los Hijos Paradisiacos encarnados. (39:9.3)
 a menudo dirigen organizaciones seráficas (39:2.1,5)
 
-composibilidad y omnipotencia | (118:5) | | | 
+compatibilidad y omnipotencia; compatibilidad | | | | OK
+La omnipotencia de la Deidad no implica que cualquier cosa, incluso una sin sentido para la Deidad, exista. La compatibilidad es innata en el poder divino. La omnipotencia es el origen no solo de la natureleza sino de la naturaleza de las cosas, del modelo original que despúes todo lo creado está destinado a seguir. (118:5.1-3)
 
 manipuladores combinados | | | ORDER | OK
 los Manipuladores de la Energía forman parte del grupo de Artesanos Celestiales. Son las personalidades aplicadas que están tratando de descubrir en realidad la presencia universal de Dios Supremo (44:5.5)
 
-compromiso; transigir; transigiendo | | | | OK
+compromiso; transigir; transigiendo; compromisos | | | | OK
 el hombre debe volverse experto en el arte de practicar un compromiso humano continuo y temporal, concediendo al mismo tiempo su lealtad espiritual a un solo señor (109:5.4)
 el carácter de supervivencia de un alma no se favorece intentando asegurarse la paz mental a cualquier precio, mediante el abandono de las nobles aspiraciones o transigiendo con los ideales espirituales. (133:7.12)
 Jesús
@@ -2292,7 +2302,8 @@ Los conglomerados son los materiales depositados cerca de los litorales.
 Las capas de carbón alternaban con el esquisto, la piedra y el conglomerado. (59:5.15)
 Una gran parte de la arenisca y de los conglomerados más viejos representan las acumulaciones sedimentarias de las riberas antiguas. (58:7.9) (59:1.10) (60:1.1)
 
-coníferas | (60:2.7) | | | 
+coníferas | | | | OK
+Hace 120 millones de años las coníferas se parecían cada vez más a las variedades modernas. (60:2.7)
 
 conjeturas | | especulaciones | | OK
 
@@ -2303,11 +2314,12 @@ Creador Conjunto | | Espíritu Infinito | PERSON | OK
 prestidigitadores | | | | OK
 a los practicantes de artes negras eran llamdos prestidigitadores (90:2.2)
 
-Connecticut | (60:1.7) | | PLACE | OK
+Connecticut | | | PLACE | OK
+Hace 150 millones de años, la gran falla del este de Connecticut apareció, con un lado hundiéndose eventualmente dos millas. (60:1.7)
 
 conquista | | militar; victoria; guerra | | OK
 
-conciencia | | moralidad | | OK
+conciencia; conciencia del pensamiento | | moralidad | | OK
 No debemos confundir ni mezclar la misión y la influencia del Ajustador con lo que se llama habitualmente la conciencia moral. La conciencia moral os exhorta, con razón, a obrar bien; pero el Ajustador se esfuerza además por deciros cuál es realmente el bien; es decir, en el momento y la medida en que sois capaces de percibir la guía del Monitor. (110:5.1)
 es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana. (110:5.5)
 El crecimiento está basado en el descubrimiento del yo, acompañado de autocrítica —de conciencia— pues la conciencia es realmente la crítica de uno mismo por nuestra propia escala de valores, los ideales personales. (92:2.6) (100:1.5)

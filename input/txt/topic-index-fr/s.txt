@@ -4327,7 +4327,7 @@ ordres
 			# gardiens du savoir
 			# directeurs de conduite
 			# interprètes de l'éthique
-			# chefs de mission
+			# chefs d'affectation
 			# instigateurs du repos
 		les types fonctionnent de manière interchangeable (27:0.1)
 	B. supernaphin secondaire (26:4)
@@ -4581,7 +4581,7 @@ Tout-Puissant Suprême (116)
 	pouvoir d'unification des grands créateurs de l'univers (22:7.11) (116:4)
 	Être suprême fonctionnant en dehors de Havona (116:0.5)
 Doctrine brahmanique très proche de (94:3.4-7)
-manipulateurs composés d'artisans célestes dédiés à la découverte (44:5.5)
+manipulateurs composites d'artisans célestes dédiés à la découverte (44:5.5)
 relation des finalitaires avec le Suprême
 	les entreprises servent initialement dans des superunivers autres que ceux d'origine pour en apprendre davantage (31:0.10)
 	expérimenter la réalisation de soi en révélant le Suprême (112:2.18)

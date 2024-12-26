@@ -977,21 +977,21 @@ a écrit les articles 82–84, 113, 114 (82:6.12) (83:8.10) (84:8.7) (113:7.9) (
 
 grands prêtres | | sanhédrin | | OK
 
-chefs des enregistreurs | | | | OK
-les archivistes principaux font partie des supernaphins tertiaires de Havona (26:3.5)
+chefs archivistes | | | | OK
+les chefs archivistes font partie des supernaphins tertiaires de Havona (26:3.5)
 
-siège principal | | | | OK
+place d'honneur | | | | OK
 Jésus dit : « Mes frères, lorsque vous êtes invités à un festin de noces, ne vous asseyez pas à la première place, de peur qu'un homme plus honoré que vous ne soit invité, et que l'hôte ne vienne vous demander de céder votre place à cet autre invité honoré. » (167:1.5) (179:1.3-5)
 
-chef supernaphin | | | PERSON | OK
+chef des supernaphins | | | PERSON | OK
 ce chef est l'ange modèle originel du Paradis (27:2.1)
 
-chefs de mission | (27:2) | supernaphins | ORDER | OK
-les chefs de mission sont ceux qui dispersent périodiquement les adorateurs au Paradis, afin que, grâce à son enchantement, ils puissent rester dans l'attitude d'adoration pour toujours (27:7.3)
+chefs d'affectation; chefs d'affectations | (27:2) | supernaphins | ORDER | OK
+les chefs d'affectation sont ceux qui dispersent périodiquement les adorateurs au Paradis, afin que, grâce à son enchantement, ils puissent rester dans l'attitude d'adoration pour toujours (27:7.3)
 ce sont des supernaphins primaires (26:8.5) (27:0.2-9) (27:2.1)
 ils sont chargés de renvoyer les candidats défaits pour l'aventure de la Déité en tant que pèlerins vers les superunivers (26:8.5) (26:10.4)
 
-éducation des enfants | | enfants; discipline; famille; maison; mariage; parents | | OK
+éducation des enfants; formation des enfants | | enfants; discipline; famille; maison; mariage; parents | | OK
 Il n'est pas bon d'intervenir pendant trop d'années entre les âges d'une famille d'enfants. (55:3.10)
 Aidez judicieusement vos enfants à choisir leurs héros et à sélectionner leur travail de vie. (140:5.14)
 L'enfant devrait être initié au culte en plein air et, plus tard, accompagner ses parents dans les lieux publics de rassemblement religieux qui sont au moins aussi attrayants matériellement et aussi beaux artistiquement que la maison dans laquelle il réside quotidiennement. (167:6.6)
@@ -1048,7 +1048,7 @@ avertissements
 	Et toute tentative de transférer la responsabilité parentale à l'État ou à l'Église s'avérera suicidaire pour le bien-être et le progrès de la civilisation. (84:7.27)
 	Donnez à chaque enfant en développement la chance de développer sa propre expérience religieuse; ne lui imposez pas une expérience adulte toute faite. (100:1.3)
 
-accouchement; couches; travail violent | | avortement; sevrage | | OK
+accouchement; couches; travail violent; accouchait; enfantement; parturition | | avortement; sevrage | | OK
 On considérait autrefois généralement que la maternité rendait une femme dangereuse et impure. (84:4.6)
 Un enfant existe depuis environ neuf mois avant de naître. (103:2.1)
 Parmi les tribus non mixtes, l'accouchement était relativement facile, ne prenant que deux ou trois heures; il est rarement aussi facile parmi les races mixtes. (76:4.2) (84:4.7)
@@ -1056,7 +1056,7 @@ Une femme est certes triste à l'heure de l'accouchement, mais lorsqu'elle donne
 L'accouchement n'était pas une épreuve douloureuse ou pénible pour Fonta, la première femme humaine, et sa progéniture immédiate. (63:4.2)
 Il y avait une ordonnance mosaïque qui ordonnait qu'une mère, après un certain temps, devait se présenter au temple pour se purifier (122:9.1) (122:10.2).
 
-enfants; enfants; enfant | | éducation des enfants; famille; maison | | OK
+enfants; enfant; fils; enfantine | | éducation des enfants; famille; maison | | OK
 pour les enfants d'Adam, l'âge du choix était de vingt ans (75:6.3)
 Un enfant acquiert une entité physique à sa naissance mortelle, mais en matière de survie, tous les enfants sans Ajusteur sont considérés comme toujours attachés à leurs parents. (49:6.12)
 Il est en effet douteux que des parents intelligents et affectueux soient jamais appelés à pardonner à un enfant moyen et normal. (174:1.2)
@@ -1160,7 +1160,7 @@ géologie
 Mers de Chine; mers de Chine | | | PLACE | OK
 Les missionnaires bouddhistes ont bravé les dangers des mers de Chine (94:9.2)
 
-Chinois | (79:5) | Chine; race jaune | RACE | OK
+Chinois; peuple chinois | (79:5) | Chine; race jaune | RACE | OK
 influences raciales
 	la différence entre les races du nord et du sud en Chine est due à plusieurs facteurs : (79:5.6) (79:6.7)
 	* Les Chinois du Nord ont assimilé une grande partie de la souche rouge lorsqu'ils y vivaient
@@ -1201,9 +1201,10 @@ croyances religieuses
 Jésus en contact avec les Chinois
 	Au cours de ses voyages, Jésus rendit de nombreuses visites à un marchand chinois appelé Chang (133:4.9).
 
-chlore | (57:8.3) | | | OK
+chlore | | | | OK
+Les océans primitifs de la Terre étaient initialement constitués d'eau douce, car la majeure partie du chlore était liée à des métaux, ne laissant qu'une petite quantité combinée à l'hydrogène, rendant l'eau légèrement acide. (57:8.3)
 
-fabrication de chlorophylle | | | | OK
+fabrication de chlorophylle; produire de la chlorophylle | | | | OK
 L'étape la plus importante de l'évolution des plantes a été le développement de la capacité de production de chlorophylle, et la deuxième plus grande avancée a été l'évolution de la spore en graine complexe. (65:6.3)
 
 choix | | libre arbitre | | OK
@@ -1213,7 +1214,7 @@ Nulle part ailleurs où Jésus avait enseigné, il n'avait rencontré un rejet a
 C'est pourquoi les paroles de Jésus furent : « Malheur aux habitants de Chorazin, de Bethsaïde-Julias et de Capharnaüm, qui rejetèrent la lumière et qui n'accueillirent pas favorablement ces messagers » (163:6.5).
 > https://en.wikipedia.org/wiki/Chorazin
 
-peuple élu | | | | OK
+peuple élu; Peuple élu; mon peuple | | | | OK
 Il n'existe pas de « peuple élu » (134:5.4).
 Juifs
 	Moïse proclama que Yahweh était le Seigneur Dieu d'Israël, qui avait choisi les Hébreux comme son peuple élu; il construisait une nouvelle nation, et il nationalisa judicieusement ses enseignements religieux, disant à ses disciples que Yahweh était un maître dur, un « Dieu jaloux » (96:4.6).
@@ -1228,7 +1229,7 @@ Juifs
 dangers de la doctrine
 	l'un des dangers de la religion institutionnelle est la création de l'attitude aristocratique du « peuple élu » (99:6.3)
 	La religion est corrompue par cette erreur qui cause constamment des dommages, l'illusion du peuple élu (92:3.2)
-	facteur primordial dans la construction d'une nation (71:3.2)
+	La doctrine du peuple élu a été un facteur primordial dans l’unification des tribus et la construction des nations jusqu’aux temps modernes. (71:3.2)
 
 Christ | | Jésus; Michel de Nébadon | PERSON | OK
 Le divin Jésus, appelé Christ, est devenu une religion, le christianisme (196:2.4)
@@ -1236,7 +1237,7 @@ Jésus de Nazareth ne doit plus être sacrifié, pas même pour le concept splen
 Michael de Nébadon est aussi appelé Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 Christ signifie l'oint (98:7.2)
 
-Église chrétienne primitive; première église chrétienne; église chrétienne primitive; christianisme paulinien; premiers dirigeants du christianisme; paganisation du christianisme; christianisme paganisé; christianisme de Paul; église chrétienne de Paul; christianisme primitif; église institutionnalisée de Paul; hellénisation du christianisme; culte chrétien de Paul; culte croissant du christianisme de Paul; culte chrétien primitif | | Christianisme; Église catholique romaine | RELIGION | OK
+Église chrétienne primitive; Église chrétienne; première église chrétienne; église chrétienne primitive; christianisme paulinien; premiers dirigeants du christianisme; paganisation du christianisme; christianisme paganisé; christianisme de Paul; église chrétienne de Paul; christianisme primitif; église institutionnalisée de Paul; hellénisation du christianisme; culte chrétien de Paul; culte croissant du christianisme selon Paul; culte chrétien primitif; christianisme hellénisé; Église chrétienne de Paul; Église de Paul; première Église chrétienne | | Christianisme; Église catholique romaine | RELIGION | OK
 Les résultats de la prédication de Pierre le jour de la Pentecôte furent tels qu'ils décidèrent des efforts pour proclamer l'Évangile du Royaume. Pierre fut le véritable fondateur de l'Église chrétienne; Paul porta le message chrétien aux Gentils, et les croyants grecs le répandirent dans tout l'Empire romain. (195)
 Pendant un certain temps, les croyants en Jésus constituaient une secte au sein du judaïsme. (194:1.5) (194:4.10)
 le triomphe rapide
@@ -1406,7 +1407,7 @@ Le temps des systèmes est diffusé par les maîtres chronoldeks. (46:1.2)
 ils sont répertoriés entre les Maitres Contrôleurs Physiques (29:4.11)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.107)
 
-églises; église | | Église chrétienne primitive; Christianisme; communauté de croyants; Église catholique romaine; temple; culte | RELIGION | OK
+églises; église; Église; Églises | | Église chrétienne primitive; Christianisme; communauté de croyants; Église catholique romaine; temple; culte | RELIGION | OK
 l'autorité de l'église a été établie parce que les paroles des livres sacrés étaient considérées comme inspirées (88:2.10)
 L'évolution de la philosophie religieuse parmi les peuples helléniques et hébreux offre une illustration contrastée de la fonction de l'Église en tant qu'institution dans le façonnement du progrès culturel. (98:2.7)
 Les sociétés secrètes sont devenues les précurseurs des églises. (70:7.19)
@@ -1426,7 +1427,8 @@ Cicéron | | | PERSON | OK
 Le célèbre écrivain et orateur romain est présenté comme un exemple de maturité pour recevoir le christianisme (195:2.6)
 > https://en.wikipedia.org/wiki/Cicéron
 
-Île de Cincinnati; ile de Cincinnati | (59:4.8) | | PLACE | OK
+Île de Cincinnati; ile de Cincinnati | | | PLACE | OK
+Il y a 260 millions d'années, la région au sud-est de l'île de Cincinnati restait élevée au-dessus de l'eau, tandis qu'une grande partie de l'Europe occidentale, y compris les îles britanniques, était submergée sous les mers. (59:4.8)
 
 cercles | | cercles psychiques; cercles concentriques, trois; Jérusalem | | OK
 A Jérusalem, les zones résidentielles des non-indigènes sont appelées les cercles. Chacune d'elles est constituée de sept cercles concentriques et successivement surélevés. Ces cercles sont les suivants : (46:4.2)
@@ -1439,14 +1441,14 @@ A Jérusalem, les zones résidentielles des non-indigènes sont appelées les ce
 # les cercles des finalitaires, avec le temple incomparable, vide et silencieux, portant le sceau de Michel (46:5.32)
 # Autres cercles résidentiels supplémentaires (46:5.33)
 
-régulateurs de circuit; Régulateurs de circuit | | | ORDER | OK
+régulateurs de circuits; Régulateurs de circuits | | | ORDER | OK
 Les régulateurs de circuit sont des êtres uniques qui coordonnent l'énergie physique et spirituelle et régulent son flux. Il faut des millions de ces régulateurs pour dynamiser même un système de mondes des maisons comme celui de Satania. (48:2.13)
 Ces superviseurs du pouvoir morontiel sont comme des dynamos qui transforment partout les énergies de l'espace (48:2.13-14)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.109)
 
 Superviseurs de circuits | | Superviseurs des Circuits Universels | ORDER | OK
 
-circuits; Circuits; circuit | (34:4) | énergie:circuits; Havona:circuits; univers locaux:circuits; superunivers:circuits; gravité:types; personnalité:circuit de personnalité | | OK
+circuits; Circuits; circuit; maitres-circuits | (34:4) | énergie:circuits; Havona:circuits; univers locaux:circuits; superunivers:circuits; gravité:types; personnalité:circuit de personnalité | | OK
 En suivant n'importe quel circuit, qu'il s'agisse de la personnalité, de la gravité matérielle, de la force cosmique, de la gravité spirituelle ou des circuits mentaux, tout cela ramène à la présence du Père au Paradis, sa demeure centrale. (11:1.4)
 les anges sont soutenus directement par l'apport de l'énergie spirituelle des circuits primaires de l'univers (26:1.17)
 Dans les univers locaux, il y a cent centres de pouvoir qui modifient les sept circuits de pouvoir qui émanent du siège du superunivers. Les centres fournissent des voies ou des lignes d'énergie intensifiée qui sont très utilisées par les Fils Créateurs. (29:2.16) | systèmes locaux:circuits de vie
@@ -1473,7 +1475,7 @@ En plus des circuits universels du Paradis, il existe deux divisions de circuits
 *# Le circuit des Ministres Divins
 *# Le circuit des esprits-mentaux adjuvants
 
-circoncision | | | | OK
+circoncision; circoncis | | | | OK
 Rite ancien
 	Le rite antique presque universel de la circoncision était une conséquence du culte du sacrifice partiel; il était purement sacrificiel, aucune considération d'hygiène n'y étant attachée. Plus tard, il devint une procédure hygiénique. (89:8.2) (92:1.1)
 	La circoncision fut d'abord pratiquée comme un rite d'initiation dans l'une de ces fraternités secrètes. (70:7.10)
@@ -1487,7 +1489,7 @@ Au temps de Jésus
 
 circonspection | | convenance | | OK
 
-circonstances | | environnement; handicaps; providence | | OK
+circonstances; tribulations | | environnement; handicaps; providence | | OK
 « Nous savons que toutes choses concourent au bien de ceux qui aiment Dieu. » Les événements physiques catastrophiques contribuent toujours au bien-être et au progrès des univers. Il se peut que les circonstances inexplicables de l'existence soient toutes entrelacées dans un modèle significatif de grande valeur par le Suprême et la Trinité. (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 Les séraphins peuvent manipuler les conditions planétaires et associent ainsi les circonstances de manière à influencer favorablement les sphères d'activité humaine auxquelles ils sont attachés. (113:3.5) (113:4.4) (114:6.18)
 Jésus
@@ -1499,7 +1501,7 @@ Jésus
 citadelle de l'esprit | | | | OK
 Il y a un bastion intérieur, la citadelle de l'esprit, qui est absolument inattaquable; du moins cela est vrai pour tout être humain qui a consacré la garde de son âme à l'esprit intérieur du Dieu éternel. (100:2.7)
 
-villes; Villes; ville | | | | OK
+villes; Villes; ville; cités | | | | OK
 Dictons
 	* une ville ne peut résister à un siège à moins d'être unie (153:4.3)
 	* la culture prospère mieux en c.; multiplie le pouvoir pour le bien ou pour le mal (68:6.5)
@@ -1521,15 +1523,15 @@ Gestion
 citoyenneté | | citoyenneté cosmique | | OK
 L'initiation religieuse des jeunes Romains était l'occasion de leur consécration solennelle au service de l'État. Les serments et les admissions à la citoyenneté étaient en réalité des cérémonies religieuses. (98:3.4)
 
-officiers de l'état civil | | | ORDER | OK
-De temps à autre, les citoyens de Jérusalem se présentent aux examinateurs de Melchizédek, aux Étoiles brillantes du soir et aux vingt-quatre conseillers, qui certifient leurs réalisations morontielles, spirituelles et sociales, puis se rendent chez les officiers de l'état civil, qui leur accordent un statut de mota et de suffrage. (45:7.7)
+archivistes de citoyenneté | | | ORDER | OK
+De temps à autre, les citoyens de Jérusalem se présentent aux examinateurs de Melchizédek, aux Étoiles brillantes du soir et aux vingt-quatre conseillers, qui certifient leurs réalisations morontielles, spirituelles et sociales, puis se rendent chez les archivistes de citoyenneté, qui leur accordent un statut de mota et de suffrage. (45:7.7)
 
-citron | | | | OK
+cédrat | | | | OK
 Les Juifs considéraient la pomme du paradis, le cédrat, comme le « fruit défendu » (162:4.4).
 
 Cité de David | | Bethléem (Judée) | PLACE | OK
 
-Cité de Juda; cité de Juda | | | PLACE | OK
+Cité de Juda; cité de Juda; ville de Juda | | | PLACE | OK
 La cité de Juda était un petit village situé à 6,5 kilomètres à l'ouest de Jérusalem. C'était la maison d'Élisabeth et de Zacharie, les parents de Jean-Baptiste (122:2.6-7) (135:0.2)
 
 fonctionnaires | | | | OK
@@ -1688,7 +1690,8 @@ Statut des civilisations
 	Les civilisations sont instables parce qu'elles ne sont pas cosmiques; elles ne sont pas innées chez les individus des races. (16:9.4-5) (68:0.2)
 	La présence d'un grand nombre de personnes célibataires dans une société indique une rupture temporaire ou une transition des mœurs. (83:7.5)
 
-palourdes | (59:2.12) | | | OK
+palourdes | | | | OK
+Il y a 310 millions d'années, divers animaux à coquille peuplaient les mers anciennes, utilisant leurs coquilles moins pour se défendre que dans les âges ultérieurs. Les gastéropodes, tels que les perceurs, bigorneaux et escargots, étaient courants, tandis que les gastéropodes bivalves, comme les moules, palourdes, huîtres et coquilles Saint-Jacques, ont peu changé. Les brachiopodes, avec leurs coquilles articulées et dentelées, prospéraient également, ressemblant à leurs formes modernes. (59:2.12)
 
 clans; clan | (70:4) | tribus | | OK
 La loyauté des Andonites était limitée au clan immédiat (63:4.3)
@@ -1705,7 +1708,7 @@ Les États territoriaux les plus grands ont mené une lutte longue et amère con
 
 classes, sociales | | classes sociales | | OK
 
-Claudia Procula | | | PERSON | OK
+Claudia Procula; sa femme | | | PERSON | OK
 Claudia Procula était l'épouse de Ponce Pilate; elle est devenue étroitement associée à l'Évangile (185:1.7) (185:2.6)
 elle a demandé à Pilate de ne pas arrêter Jésus (183:2.3)
 elle a envoyé un message à Pilate au sujet de Jésus (185:5.7-8)
@@ -1720,14 +1723,15 @@ Claudo était un jeune homme découragé à qui Jésus a parlé sur l'île de Ma
 griffes | | | | OK
 Des charmes magiques ont été fabriqués à partir d'une grande variété de choses, comme des griffes de tigre (88:5.2).
 
-argile | (60:3.5) | | | OK
+argile; argiles | (60:3.5) | | | OK
 La croyance selon laquelle l'homme a été créé à partir d'argile était presque universelle dans l'hémisphère oriental; cette tradition remonte aux îles Philippines, dans le monde entier, jusqu'en Afrique. (74:8.4,7)
 Pour écrire, les premiers peuples utilisaient, entre autres, des tablettes d'argile (66:5.9).
 Jésus mit de la boue sur les yeux de Josias, le mendiant aveugle (164:3.8)
 il y avait des sculptures d'argile ornant les jardins de Dalamatia (66:5.26)
 D'anciennes tablettes d'argile sumériennes retrouvées parlent de Dilmun, ce paradis terrestre « où les dieux ont béni l'humanité pour la première fois en lui donnant l'exemple d'une vie civilisée et cultivée » (77:4.8).
 
-purification du temple | (173:1) | | | 
+épuration du temple | | | | OK
+Le nettoyage du temple par Jésus fut un acte décisif contre la commercialisation du culte et l’exploitation des pauvres. Le temple était devenu un centre de profit grâce à la vente d’animaux sacrificiels et au change de monnaie, au bénéfice des familles sacerdotales. Face au bruit et au chaos du commerce, Jésus chassa les animaux en déclarant : « Ma maison sera appelée une maison de prière, mais vous en avez fait une caverne de voleurs. » Son action inspira l’admiration de ses auditeurs, qui, suivant son exemple, renversèrent les tables des changeurs, mais alarma profondément les autorités du temple. (173:1)
 
 Clément | | | PERSON | OK
 Clément était un éminent enseignant chrétien d'Alexandrie, disciple de Pantaenus ou Panteno. Clément avait Origène comme disciple (195:3.10)
@@ -1740,7 +1744,7 @@ ingéniosité | | | | OK
 Les arguments accablants et la supériorité mentale ne doivent pas être employés pour contraindre les hommes et les femmes à entrer dans le royaume. (159:3.2)
 L'intelligence ne remplace pas le vrai caractère. (48:7.3)
 
-climat | | sécheresse | | OK
+climat; changement d'orientation des vents; changements climatiques; modifications de climat; fluctuations climatiques; évolution climatique | | sécheresse | | OK
 Les cinq ou six milles inférieurs de l'atmosphère terrestre constituent la troposphère; c'est la région des vents et des courants d'air qui sont à l'origine des phénomènes météorologiques. (58:2.6)
 les changements climatiques ont provoqué des changements dans la civilisation :
 * De 2500 à 2000 av. J.-C., les changements climatiques ont réussi à faire ce que les barbares n'ont pas réussi à faire : provoquer la ruine de la Mésopotamie. (78:8.11)
@@ -1766,11 +1770,11 @@ L'horloge au radium est votre instrument de mesure le plus fiable pour faire des
 Clopas | | | PERSON | OK
 Clopas était l'époux de Marie, sœur de la mère de Jésus (187:3.2)
 
-appels rapprochés; appel le plus proche | | | | OK
+dernière extrémité | | | | OK
 Andon et Fonta ont failli perdre la vie (62:5.6)
 Nos ancêtres préhumains ont été plusieurs fois au bord de l'extinction. La grenouille ancestrale, la mère des mammifères de l'aube et la mère des jumeaux primates, qui ont subi le choc le plus proche causé par la foudre, ont failli mourir plusieurs fois (62:3.9)
 
-vêtements; vêtements; tissu | | | | OK
+vêtements; vêtements; tissu; habit | | | | OK
 Utilisation des peaux d'animaux par Andon et Fonta pour se réchauffer (63:2.5)
 Cent de Caligastia enseigna le traitement des peaux pour les utiliser comme vêtements, et le tissage fut plus tard introduit par les professeurs d'art et de science. (66:5.2)
 les soixante-dix évangélistes furent envoyés sans vêtements supplémentaires (163:1.3)
@@ -1782,10 +1786,10 @@ les nuages cosmiques peuvent affecter le climat (57:8.22)
 Les nuages, la pluie et la grêle ont tous été craints et adorés par de nombreuses tribus primitives et par de nombreux cultes de la nature primitifs. (85:4.3)
 Les Néandertaliens avaient une peur bleue des nuages, plus particulièrement des brumes et des brouillards. (64:4.12)
 
-clubs | | sociétés secrètes | | OK
+clubs; société | | sociétés secrètes | | OK
 Jésus était membre d'un club de jeunes gens pour des discussions philosophiques qui se réunissaient dans les maisons de différents membres et souvent dans sa propre maison. (124:1.13) (127:3.9)
 
-coopération; coopérer; travail d'équipe | | groupes; leadership | | OK
+coopération; coopérer; travail d'équipe; travailler en équipe | | groupes; leadership | | OK
 L'une des leçons les plus importantes à apprendre au cours de votre carrière mortelle est le travail d'équipe. (28:5.14)
 étapes d'apprentissage
 	Le personnel du Prince enseignait le travail d'équipe (66:7.6)
@@ -1808,7 +1812,7 @@ Filles du ministère de coordination | | Esprits-Mères des univers locaux | ORD
 
 Êtres d'origine trinitaire coordonnés | | Êtres d'origine trinitaire | ORDER | OK
 
-coordonnateurs et directeurs de liaison | | | ORDER | OK
+coordonnateurs et directeurs de liaison; Coordonnateurs et directeurs de liaisons | | | ORDER | OK
 Les coordinateurs et les directeurs de liaison sont des compagnons morontiels. Ils sont les instructeurs de la conduite sociale et du progrès morontiel, parrainant des cours et d'autres activités de groupe parmi les mortels ascendants. (48:3.11)
 
 niveau coabsolu | | réalité:niveaux de réalité | | OK
@@ -1827,7 +1831,8 @@ cape; vêtement | | manteau | | OK
 
 coq | | volaille | | OK
 
-cafards | (59:5.7) | | | 
+cancrelats | | | | OK
+Il y a environ 210 millions d’années, des insectes sont apparus pour la première fois, notamment des cancrelats. Un millier d’espèces de cancrelats se sont développées, et certaines ont atteint quatre pouces de long. (59:5.7)
 
 cacao | | | | OK
 parmi les premières découvertes pharmaceutiques se trouve le cacao (90:4.8)
@@ -1837,7 +1842,7 @@ La domination de l'Esprit n'est jamais entachée par la coercition ni compromise
 L'évolution des pratiques religieuses est passée de l'apaisement, de l'évitement, de l'exorcisme, de la coercition, de la conciliation et de la propitiation au sacrifice, à l'expiation et à la rédemption. (90:0.1)
 L'homme primitif croyait qu'il fallait faire quelque chose de spécial pour gagner la faveur des dieux. Les rituels d'évitement, d'exorcisme, de coercition et de propitiation se fondent tous les uns dans les autres. (89:0.2)
 
-frappe de monnaie | | | | OK
+battre monnaie | | | | OK
 une décision bien connue du Sanhédrin, prise pour guider les Juifs dispersés parmi les nations païennes, selon laquelle « le droit de battre monnaie impliquait le droit de lever des impôts » (174:2.5).
 
 pièces de monnaie | | deniers; livres; sicles; talents; pièce de dix centimes | | OK
@@ -1856,13 +1861,13 @@ l'une des étapes de la formation des Conseillers Techniques est l'entrée dans 
 Collège d'Éthique Supérieure | | | | OK
 Le cours le plus élevé de formation en administration de l'univers est donné par les Melchizédeks sur leur planète natale. Ce Collège de Haute Éthique est présidé par le Père originel Melchizédek. (35:3.22)
 
-collège de planification de la vie | | | | OK
-le collège de planification de la vie est situé au numéro un mondial à Jérusalem, le monde des Porteurs de Vie (36:2.10)
+collège des projets de vie | | | | OK
+le collège des projets de vie est situé au numéro un mondial à Jérusalem, le monde des Porteurs de Vie (36:2.10)
 
 collège de religion révélée | | Cent de Caligastia | | OK
 
-collège d'auto-évaluation | | | | OK
-Les Fils Melchizédek dirigent plus de trente centres éducatifs différents à Jérusalem. Ces écoles de formation commencent par le collège d'auto-évaluation et se terminent par les écoles de citoyenneté de Jérusalem (45:7.3).
+collège où l’on s’évalue soi-même | | | | OK
+Les Fils Melchizédek dirigent plus de trente centres éducatifs différents à Jérusalem. Ces écoles de formation commencent par le collège où l’on s’évalue soi-même et se terminent par les écoles de citoyenneté de Jérusalem (45:7.3).
 
 Collège de la Sagesse; Collège supérieur de Sagesse | | | | OK
 Les Fils Instructeurs dirigent un cours de formation de longue durée, allant des cours planétaires jusqu'au haut Collège de Sagesse situé à Salvington. (20:8.3)
@@ -1875,12 +1880,16 @@ Les collisions entre les géants de l'espace sont certes rares, mais les explosi
 colonisation | | | | OK
 La pratique du sacrifice des fils premiers-nés fut remplacée par l'exil; ce fut l'origine de la colonisation. Les Romains adhérèrent à cette coutume dans leur plan de colonisation. (89:7.3)
 
-ouvriers de couleur | | | | OK
+coloristes | | | | OK
 les ouvriers de la couleur sont les artistes parmi les reproducteurs célestes, un groupe au sein des artisans célestes (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
+Colorado | | | PLACE | OK
+Les couches de Morrison au Colorado, Montana et Wyoming contiennent de nombreux fossiles d'eau douce. (60:2.5)
+Pikes Peak et Longs Peak sont des exemples de montagnes qui ont été réélevées après l'érosion. (60:4.4)
+Les lits fossiles de Florissant au Colorado appartiennent aux dernières années de ces temps lointains. (61:2.4)
 
-Rivière Colorado; Colorado | (58:7.5) | | PLACE | 
+Rivière Colorado; Colorado | (58:7.5) | | PLACE | OK
+Les roches fossilifères autour du Grand Canyon du fleuve Colorado témoignent des soulèvements et des fluctuations de surface anciens.
 
 races colorées | | races | RACE | OK
 
@@ -1888,13 +1897,13 @@ couleurs | | | | OK
 Il y a sept couleurs dans le spectre naturel. (42:9.3)
 Les musiciens célestes créent des symphonies de couleurs, qui comptent parmi les plus grandes réalisations des musiciens célestes. (44:1.6)
 
-coma | | | | D'accord
+coma; profond sommeil | | | | D'accord
 Les anciens croyaient que l'âme pouvait quitter le corps de diverses manières, comme dans le coma (86:5.4-8)
 Les Juifs avaient l'habitude d'enterrer leurs morts le jour de leur décès; c'était une pratique nécessaire dans un climat aussi chaud. Il arrivait souvent qu'ils enterrent quelqu'un qui était simplement dans le coma, de sorte que le deuxième ou même le troisième jour, cette personne ressorte du tombeau (167:4.3).
 La fille de Jaïrus de Capharnaüm, qui était censée avoir ressuscité Jésus, était en fait dans le coma après une fièvre prolongée (152:1.2)
 le fils de la veuve de Naïn était un autre cas de prétendue guérison de Jésus dans lequel l'enfant n'était pas réellement mort, mais dans le coma (146:6.2-3)
 
-contrôleurs combinés; Contrôleurs combinés | | | ORDER | OK
+contrôleurs conjugués; Contrôleurs Conjugués | | | ORDER | OK
 Les Contrôleurs Combinés sont des Superviseurs du Pouvoir Morontiel hautement mécaniques; l'un d'eux est stationné sur chaque monde morontiel (48:2.19)
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.112)
 
@@ -1907,7 +1916,7 @@ La queue d'une comète pointe dans la direction opposée au corps qui l'attire o
 
 Consolateur | | Esprit de vérité | PERSON | OK
 
-commandements; commandement; mandat; injonction; injonctions; mandats | (110:3.6-10) | règle d'or | | OK
+commandements; commandement; mandat; injonction; injonctions; mandats; Commandements | (110:3.6-10) | règle d'or | | OK
 Dalmatie
 	Parmi les premières interdictions figuraient des restrictions sur l'appropriation des femmes et d'autres biens. (89:1.3)
 	Ata Dalamatia Hap a fourni aux Dalamatiens les sept chants d'adoration et leur a également donné la phrase de louange quotidienne et leur a finalement enseigné « la prière du Père », qui était : (66:5.14-15)
@@ -2017,7 +2026,7 @@ commission de l'industrie et du commerce | | Cent de Caligastia | | OK
 bon sens | | | | OK
 tous les plans de Jésus étaient caractérisés par un bon sens sanctifié (100:7.3)
 
-communication; intercommunication | | télédiffusions (célestes); gravité:types:gravité mentale; langue; écriture | | OK
+communication; intercommunication; communications | | télédiffusions (célestes); gravité:types:gravité mentale; langue; écriture | | OK
 Les formes supérieures d'intercommunication intelligente entre les êtres humains sont grandement facilitées par les Ajusteurs intérieurs. (109:4.1-3)
 La connaissance et la sagesse deviennent cumulatives en raison de la capacité de l'homme à communiquer ces possessions aux générations suivantes. (81:6.23,25) (160:2.3)
 communication céleste
@@ -2054,17 +2063,17 @@ faiblesses du communisme
 	Toute tentative de transférer la responsabilité parentale à l'État ou à l'Église s'est avérée suicidaire pour le bien-être et le progrès de la civilisation. (84:7.27)
 	C'était la faiblesse suicidaire du communisme : les imprévoyants vivaient habituellement aux crochets des économes. (69:9.5-6)
 
-comparaisons | | | | OK
+comparaisons; comparaison | | | | OK
 Il y a la même distance relative, par rapport à la taille réelle, entre le noyau atomique et le circuit électronique interne que celle qui existe entre la planète intérieure, Mercure, et votre soleil. (42:7.2)
 Si la masse d'un électron était de 2,8 grammes, le volume de cet électron serait aussi grand que celui de la Terre. Si le volume d'un proton était comme la tête d'une épingle, la tête d'une épingle aurait un diamètre égal à celui de l'orbite de la Terre autour du Soleil. (42:6.8)
 les étoiles ont autant de marge de manœuvre dans l'espace qu'une douzaine d'oranges si elles circulaient à travers l'intérieur d'Urantia, et si la planète était un globe creux. (41:3.2)
 Certaines des étoiles rougeâtres ont acquis une densité en leur centre telle qu'un pouce cube d'une telle étoile, si elle se trouvait sur Urantia, pèserait six mille livres. (41:3.6)
 
-boussole | | direction | | OK
+boussole; cardinaux | | direction | | OK
 Les quatre points cardinaux sont universels et inhérents à la vie de Nébadon. (34:4.13)
 L'aiguille de la boussole est sensible à l'influence solaire puisqu'elle tourne légèrement vers l'est lorsque le soleil se lève et légèrement vers l'ouest lorsque le soleil se couche. (58:2.9)
 
-compensations; compensation | | | | OK
+compensations; compensation; contrepoids pour compenser; compenseront; compenser; compensera | | | | OK
 L'Ajusteur est notre égalisation compensatoire de l'énorme tension de l'univers qui est créée par l'éloignement de l'homme de Dieu. (107:0.5)
 il y a de nombreuses compensations pour les rébellions comme celle de Lucifer : l'une d'elles est l'amélioration des carrières de ces ascendants mortels, les citoyens de Jérusalem, qui, en résistant aux sophismes du péché, se sont placés en position de devenir de futurs Puissants Messagers (50:7.1) (54:6.5)
 Bien que le Père Universel soit personnellement présent dans l'univers résidentiel, il n'habite pas l'esprit des êtres originaires de cet univers (32:3.4).
@@ -2083,7 +2092,7 @@ Le Suprême en évolution compensera finalement les créatures finies pour leur 
 ces personnalités qui sont les plus éloignées de Dieu et qui peuvent donc connaître le plus grand degré d'ascension spirituelle dans l'univers (116:4.11)
 L'univers applique infailliblement des techniques d'égalisation conçues pour garantir qu'aucun ascendeur ne soit privé de quoi que ce soit qui soit essentiel à son expérience d'ascension. (55:2.12)
 
-concurrence; esprit de compétition; concurrence; rivalité | | capital; propriété privée; profit | | OK
+concurrence; esprit de compétition; concurrence; rivalité; compétition; rivaux; émulation | | capital; propriété privée; profit | | OK
 les anges font un usage efficace de l'esprit de compétition pour promouvoir une rivalité saine et inspirer un service de qualité (28:5.18)
 Dans les civilisations avancées, la coopération est plus efficace que la compétition. (71:5.3)
 Des outils améliorés, des machines ingénieuses et efficaces déterminent la survie des groupes en compétition dans l'arène de la civilisation en progrès. (81:6.20)
@@ -2097,7 +2106,7 @@ avantages et inconvénients de la compétition
 	La compétition et la gravité entraînent toujours l'homme vers le niveau de la bête; la pauvreté est son état naturel et tyrannique. (69:2.2)
 	La concurrence impitoyable fondée sur l'intérêt personnel étroit finit par détruire même les choses qu'elle cherche à maintenir. (71:6.1)
 
-se plaindre; se plaindre; plaintes; se plaindre; déplorer | | | | OK
+se plaindre; se plaindre; plaintes; se plaindre; déplorer; plaindre; lamenterait-il; mécontents; plainte; plaignirent | | | | OK
 nous devons apprendre à accepter les défis sans nous plaindre et à faire face aux difficultés et aux incertitudes sans crainte (48:6.35)
 l'homme ne devrait pas se lamenter sur sa basse origine lorsque les Fils Créateurs passent par la même expérience pour être considérés dignes et compétents pour régner sur leur univers (21:4.6)
 L'homme ne devrait pas blâmer Dieu pour les afflictions qui sont le résultat naturel de la vie qu'il choisit de vivre; il ne devrait pas non plus se plaindre des expériences qui font partie de la vie telle qu'elle est vécue sur ce monde. (148:5.3)
@@ -2110,7 +2119,7 @@ Jésus et les plaintes
 	Lorsque des hommes et des femmes réfléchis contempleront Jésus offrant sa vie sur la croix, ils ne se permettront plus jamais de se plaindre des difficultés les plus graves de la vie, et encore moins des harcèlements insignifiants et de leurs nombreux griefs purement fictifs. (188:5.10)
 	Jésus dit : « Supporter le mal sans se plaindre et sans résister, la méthode purement négative, ne suffit pas. Il faut rendre le bien pour le mal » (159:5.13-14).
 
-complément de l'être; compléments de l'être | | | | OK
+complément de l'être; compléments de l'être; complément originel; complément d'être | | | | OK
 le complément de l'être est un ange de type opposé qui est associé à chaque ange (38:4.3)
 Les sanobins sont le complément de l'être aux chérubins. Ils peuvent travailler seuls mais accomplissent généralement leurs tâches en binôme. (38:7.2)
 Lorsqu'un couple séraphique accepte la mission de gardien, il sert pendant le reste de la vie de cet être humain. Le complément d'être, l'un des deux anges, devient le secrétaire de l'entreprise. (113:2.9)
@@ -2124,18 +2133,19 @@ compléments de repos; complément de repos | | | ORDER | OK
 les majestueux Compléments du Repos entrent dans le repos d'accomplissement avec les pèlerins ascendants (26:11.7)
 Les compléments supraphiques du repos ne s'intéressent pas tant à la formation qu'à la promotion de la compréhension et de l'association avec divers groupes à Havona. (26:11.1-3)
 
-achèvement séraphin | (39:9) | Corps Séraphique de Parachèvement; séraphins | | OK
+séraphins parachevés; séraphins de parachèvement | (39:9) | Corps Séraphique de Parachèvement; séraphins | | OK
 Grimper aux hauteurs célestes de la filiation finalitaire avec Dieu est un accomplissement magistral pour un ange, un accomplissement qui transcende de loin votre accomplissement de la survie éternelle (40:1.2).
 Après avoir atteint le Père des esprits et avoir été admis au service séraphique de parachèvement, les anges sont parfois affectés au ministère des mondes établis dans la lumière et la vie. Un grand nombre de séraphins de parachèvement retournent dans leurs univers d'origine, pour y compléter le ministère de dotation divine par le ministère de perfectionnement expérientiel. (39:9.1-2)
 De nombreuses voies fascinantes de ministère sont ouvertes aux séraphins de l'accomplissement, mais tout comme ils désiraient tous ardemment être affectés comme gardiens de la destinée à l'époque pré-paradisiaque, de même, dans l'expérience post-paradisiaque, ils désirent surtout servir comme assistants d'effusion des Fils du Paradis incarnés. (39:9.3)
 dirigent souvent des organisations séraphiques (39:2.1,5)
 
-compossibilité et toute-puissance | (118:5) | | | 
+compossibilité et toute-puissance; compossibilité | | | | OK
+La toute-puissance de la Divinité n’implique pas que quelque chose, même dénué de sens pour la Divinité, existe. La compatibilité est innée dans le pouvoir divin. La toute-puissance est l'origine non seulement de la nature mais de la nature des choses, du modèle originel que tout ce qui est créé est destiné à suivre. (118:5.1-3)
 
-manipulateurs composés | | | ORDER | OK
-Les manipulateurs composés sont des manipulateurs d'énergie qui appartiennent aux artisans célestes. Ce sont des personnalités avides qui cherchent en réalité à découvrir la présence universelle de Dieu le Suprême (44:5.5)
+manipulateurs composites | | | ORDER | OK
+Les manipulateurs composites sont des manipulateurs d'énergie qui appartiennent aux artisans célestes. Ce sont des personnalités avides qui cherchent en réalité à découvrir la présence universelle de Dieu le Suprême (44:5.5)
 
-compromis | | | | OK
+compromis; transiger | | | | OK
 l'homme doit devenir expert dans l'art d'un compromis temporel humain continu tout en soumettant son allégeance spirituelle à un seul maître (109:5.4)
 le caractère de survie d'une âme n'est pas favorisé par la tentative d'obtenir la paix de l'esprit à n'importe quel prix, par l'abandon de nobles aspirations et par le compromis des idéaux spirituels (133:7.12)
 Jésus
@@ -2160,7 +2170,7 @@ Jésus
 	Jésus exprima l'opinion selon laquelle la société organisée avait parfaitement le droit d'employer la force dans l'exécution de ses justes mandats. (71:4.7-8) (72:6.4,6) (133:1.5) (133:4.12) (140:8.4) (178:1.2)
 	L'arbre qui ne porte pas de fruit est « coupé et jeté au feu ». La valeur morale ne peut pas provenir d'une simple répression – obéissant à l'injonction « Tu ne feras rien » (140:4.7).
 
-concentration; se concentrer | | | | OK
+concentration; se concentrer; concentrer | | | | OK
 Jésus enseigne : Les païens ne sont pas sans excuse lorsqu'ils se déchaînent contre nous. Parce que leur vision est étroite et mesquine, ils sont capables de concentrer leurs énergies avec enthousiasme. (155:1.3)
 Jésus possédait la capacité de mobiliser efficacement toutes les forces de son esprit, de son âme et de son corps pour la tâche qui l'attendait. Il pouvait concentrer son esprit profond sur le seul problème qu'il souhaitait résoudre, et cela, associé à sa patience infatigable, lui permettait de supporter sereinement les épreuves (127:3.15).
 
@@ -2227,12 +2237,12 @@ condamnation | | blâmer | | OK
 
 conduite | | action | | OK
 
-conducteurs du culte; Conducteurs du culte | (27:7) | | ORDER | OK
-C'est la tâche des conducteurs du culte d'enseigner aux créatures ascendantes comment adorer (27:7.4)
+conducteurs d'adoration; Conducteurs du culte; conducteurs d'adoration | (27:7) | | ORDER | OK
+C'est la tâche des conducteurs d'adoration d'enseigner aux créatures ascendantes comment adorer (27:7.4)
 Les conducteurs de culte sont le premier ordre à l'intérieur des supernaphins primaires (27:0.4)
 Depuis l'époque de Grandfanda, les supernaphins n'ont jamais été capables d'intégrer pleinement l'esprit d'adoration au Paradis. Il y a toujours un excès d'adoration (27:7.6-7)
 
-confession; confesser; Confession | | amende honorable; pardon; repentir; péché | | OK
+confession; confesser; Confession; confesse; vous confessez | | amende; pardon; repentir; péché | | OK
 La confession du péché est un rejet viril de la déloyauté, mais elle n'atténue en rien les conséquences d'une telle déloyauté dans le temps et dans l'espace. Mais la confession – la reconnaissance sincère de la nature du péché – est essentielle à la croissance religieuse et au progrès spirituel. (89:10.5)
 Lorsque nous nous trouvons dans une situation difficile, nous ne devons pas hésiter à confesser notre erreur et à nous rattraper rapidement. (131:9.3)
 La confession, le repentir et la prière ont conduit des individus, des villes, des nations et des races entières à de puissants efforts de réforme et à des actes courageux de réalisations vaillantes. (91:5.2)
@@ -2292,7 +2302,8 @@ Les conglomérats sont des matières déposées près des rivages.
 Les couches de charbon alternent avec du schiste, de la pierre et du conglomérat. (59:5.15)
 Une grande partie des grès et des conglomérats les plus anciens représentent les accumulations sédimentaires des anciens rivages. (58:7.9) (59:1.10) (60:1.1)
 
-conifères | (60:2.7) | | | 
+conifères | | | | OK
+Il y a 120 millions d’années, les conifères ressemblaient de plus en plus aux variétés modernes. (60:2.7)
 
 conjectures | | spéculations | | OK
 
@@ -2300,14 +2311,15 @@ Acteur conjoint | | Esprit Infini | PERSON | OK
 
 Créateur conjoint | | Esprit Infini | PERSON | OK
 
-conjurateurs | | | | OK
-les praticiens des arts noirs étaient appelés conjurateurs (90:2.2)
+conjurateurs; exorcistes | | | | OK
+les praticiens des arts noirs étaient appelés exorcistes (90:2.2)
 
-Connecticut; est du Connecticut | (60:1.7) | | PLACE | OK
+Connecticut; est du Connecticut | | | PLACE | OK
+Il y a 150 millions d'années, la grande faille de l'est du Connecticut est apparue, avec un côté s'enfonçant finalement de deux miles. (60:1.7)
 
 conquête | | militaire; victoire; guerre | | OK
 
-conscience | | morale | | OK
+conscience; autoconscience | | morale | | OK
 Il ne faut pas confondre la mission et l'influence de l'Ajusteur avec ce qu'on appelle communément la conscience. La conscience vous exhorte à faire le bien, mais l'Ajusteur s'efforce en outre de vous dire ce qui est vraiment juste, c'est-à-dire quand et comme vous êtes capables de percevoir la direction du Moniteur. (110:5.1)
 il est hasardeux de tenter de différencier le registre des concepts des Ajusteurs de la réception plus ou moins continue et consciente des dictées de la conscience mortelle. (110:5.5)
 La croissance est fondée sur la découverte de l'individualité accompagnée d'une autocritique – la conscience, car la conscience est en réalité la critique de soi-même à partir de ses propres habitudes de valeurs, de ses idéaux personnels. (92:2.6) (100:1.5)
@@ -2654,7 +2666,7 @@ membres
 	# Citoyens du Paradis (19:7)
 	# Citoyens mortels du Paradis fusionnés avec les Ajusteurs (47:2.8)
 
-Corps Séraphique de Parachèvement; Corps Séraphique du Parachèvement | (39:8.10) (39:9) | achèvement séraphin; séraphins; Séraphington | ORDER | OK
+Corps Séraphique de Parachèvement; Corps Séraphique du Parachèvement | (39:8.10) (39:9) | séraphins parachevés; séraphins; Séraphington | ORDER | OK
 Grimper aux hauteurs célestes de la filiation finalitaire avec Dieu est un accomplissement magistral pour un ange, un accomplissement qui transcende de loin votre accomplissement de la survie éternelle grâce au plan du Fils Éternel et à l'aide toujours présente de l'Ajusteur intérieur; mais les séraphins gardiens, et parfois d'autres, effectuent effectivement de telles ascensions. (40:1.2)
 Les assistants à l'effusion sont des séraphins de l'accomplissement; ils ont tous traversé les cercles de Séraphington et ont atteint le Corps Séraphique de l'Accomplissement. Ces séraphins ont tous atteint le Paradis et l'étreinte personnelle de la Seconde Source-Centre, le Fils Éternel. (39:1.5)
 De nombreux diplômés de Séraphington, membres du Corps Séraphique de Complément qui sont associés à ces séraphins, s'engagent dans l'enseignement dans les écoles de Salvington qui s'occupent de la préparation des créatures de Nébadon pour le prochain âge de l'univers. (39:1.12) (113:7.5)

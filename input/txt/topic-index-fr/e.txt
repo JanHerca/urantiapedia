@@ -788,7 +788,7 @@ Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils
 # manipulateurs d'énergie physique
 # manipulateurs d'énergie mentale
 #manipulateurs d'énergie spirituelle
-# manipulateurs composés
+# manipulateurs composites
 # conseillers en transport
 # experts en communication
 # enseignants du repos

@@ -977,7 +977,7 @@ wrote Papers 82–84, 113, 114 (82:6.12) (83:8.10) (84:8.7) (113:7.9) (114:7.18)
 
 chief priests | | Sanhedrin | | OK
 
-chief recorders | | | | OK
+chief recorders; Chief Recorders | | | | OK
 chief recorders are part of tertiary supernaphim of Havona (26:3.5)
 
 chief seat | | | | OK
@@ -991,7 +991,7 @@ chiefs of assignment are who periodically disperse worshippers on Paradise, that
 they are primary supernaphim (26:8.5) (27:0.2-9) (27:2.1)
 they are in charge of remand defeated candidates for the Deity adventure as pilgrims to superuniverses (26:8.5) (26:10.4)
 
-child-rearing | | children; discipline; family; home; marriage; parents | | OK
+child-rearing; child culture | | children; discipline; family; home; marriage; parents | | OK
 It is not best for too many years to intervene between the ages of a family of children. (55:3.10)
 help wisely your childs to choose their heroes and select their lifework. (140:5.14)
 The child should be introduced to worship in nature’s outdoors and later accompany his parents to public houses of religious assembly which are at least as materially attractive and artistically beautiful as the home in which he is daily domiciled. (167:6.6)
@@ -1048,7 +1048,7 @@ warnings
 	And any attempt to shift parental responsibility to state or church will prove suicidal to the welfare and advancement of civilization. (84:7.27)
 	Give every developing child a chance to grow his own religious experience; do not force a ready-made adult experience upon him. (100:1.3)
 
-childbirth; lying-in; stormy labor | | abortion; weaning | | OK
+childbirth; lying-in; stormy labor; her travail; Childbirth | | abortion; weaning | | OK
 Childbearing was once generally looked upon as rendering a woman dangerous and unclean. (84:4.6)
 A child has been in existence about nine months before it experiences birth. (103:2.1)
 Among the unmixed tribes, childbirth was comparatively easy, occupying only two or three hours; it is seldom so easy among the mixed races. (76:4.2) (84:4.7)
@@ -1056,7 +1056,7 @@ A woman is indeed sorrowful in the hour of her travail, but when she is once del
 Childbirth was not a painful or distressing ordeal to Fonta, the first human woman, and her immediate progeny. (63:4.2)
 There was a Mosaic ordinance which directed that a mother, after the passing of a certain period of time, should present herself at the temple for purification (122:9.1) (122:10.2)
 
-children; Children; child | | child-rearing; family; home | | OK
+children; Children; child; sons; Sons; babies; offspring; childish | | child-rearing; family; home | | OK
 for children of Adam the age of choice was the twenty years (75:6.3)
 A child acquires physical entity at mortal birth, but in the matter of survival all Adjusterless children are reckoned as still attached to their parents. (49:6.12)
 It is indeed doubtful whether intelligent and affectionate parents are ever called upon to forgive an average and normal child. (174:1.2)
@@ -1201,9 +1201,10 @@ religious beliefs
 Jesus contact with Chinese
 	During his voyages Jesus had many visits with a Chinese merchant called Chang (133:4.9)
 
-chlorine | (57:8.3) | | | OK
+chlorine | | | | OK
+The early Earth's oceans were initially fresh water, as most of the chlorine was bound with metals, leaving only a small amount combined with hydrogen to make the water slightly acidic. (57:8.3)
 
-chlorophyll making | | | | OK
+chlorophyll-making | | | | OK
 The most important step in plant evolution was the development of chlorophyll-making ability, and the second greatest advance was the evolution of the spore into the complex seed. (65:6.3)
 
 choice | | free will | | OK
@@ -1213,7 +1214,7 @@ In no place where Jesus had taught had he met with such a general rejection of h
 Due to that the words of Jesus were: “Woe upon the light-rejecting inhabitants of Chorazin, Bethsaida-Julias, and Capernaum, the cities which did not well receive these messengers”. (163:6.5)
 > https://en.wikipedia.org/wiki/Chorazin
 
-chosen people | | | | OK
+chosen people; chosen-people; my people | | | | OK
 There is no such thing as a “chosen people. (134:5.4)
 Jews
 	Moses proclaimed that Yahweh was the Lord God of Israel, who had singled out the Hebrews as his chosen people; he was building a new nation, and he wisely nationalized his religious teachings, telling his followers that Yahweh was a hard taskmaster, a “jealous God. (96:4.6)
@@ -1228,7 +1229,7 @@ Jews
 dangers of the doctrine
 	one of the dangers of institutional religion is the creation of the aristocratic “chosen-people” attitude (99:6.3)
 	Religion become tainted with that persistently mischief-making error, the chosen-people delusion (92:3.2)
-	prime factor in nation building (71:3.2)
+	The doctrine of the chosen people has been a primary factor in uniting tribes and building nations until modern times. (71:3.2)
 
 Christ | | Jesus; Michael of Nebadon | PERSON | OK
 The divine Jesus, who was called Christ, became a religion, Christianity (196:2.4)
@@ -1236,7 +1237,7 @@ Jesus of Nazareth must no longer be sacrificed, not even for the splendid concep
 Michael of Nebadon is also referred to as Christ Michael (0:5.3) (20:4.4) (21:0.3) (21:6.4) (27:0.2) (30:4.11) (33:1.1) (33:2.3) (37:2.6) (37:5.1) (40:6.5) (40:7.2) (45:4.1) (50:6.5) (51:3.9) (52:5.5) (52:6.1) (53:0.2) (53:5.3) (75:2.2) (77:6.6) (77:7.5) (83:8.3) (92:4.8) (93:9.11) (93:10.5-8) (94:6.1) (98:7.2) (101:6.5) (102:3.14) (119:8.8-9) (120:0.9) (120:4.2-3) (121:1.1) (121:3.1) (136:5.4) (196:1.1)
 Christ means the anointed one (98:7.2)
 
-Christian church, early; first Christian church; early Christian church; Pauline Christianity; early leaders of Christianity; paganization of Christianity; paganized Christianity; Paul’s Christianity; Paul’s Christian church; early Christianity; Paul’s institutionalized church; Hellenization of Christianity; Paul’s Christian cult; Paul’s rising cult of Christianity; early Christian cult | | Christianity; Roman Catholic Church | RELIGION | OK
+Christian church, early; Christian church; first Christian church; early Christian church; Pauline Christianity; early leaders of Christianity; paganization of Christianity; paganized Christianity; Paul’s Christianity; Paul’s Christian church; early Christianity; Paul’s institutionalized church; Hellenization of Christianity; Paul’s Christian cult; Paul’s rising cult of Christianity; early Christian cult; Hellenized Christianity; Paul’s cult of Christianity; Early Christianity | | Christianity; Roman Catholic Church | RELIGION | OK
 The results of Peter’s preaching on the day of Pentecost were such as to decide the efforts to proclaim the gospel of the kingdom. Peter was the real founder of the Christian church; Paul carried the Christian message to the gentiles, and the Greek believers carried it to the whole Roman Empire. (195)
 For some time the believers in Jesus were a sect within Judaism. (194:1.5) (194:4.10)
 the fast triumph
@@ -1426,7 +1427,8 @@ Cicero | | | PERSON | OK
 The famous Roman writer and orator is held up as an example of the maturity to receive Christianity (195:2.6)
 > https://en.wikipedia.org/wiki/Cicero
 
-Cincinnati Island | (59:4.8) | | PLACE | OK
+Cincinnati Island | | | PLACE | OK
+260 million years ago, the region southeast of the Cincinnati Island stayed elevated above water, while much of western Europe, including the British Isles, was submerged under seas. (59:4.8)
 
 circles | | psychic circles; concentric circles, three; Jerusem | | OK
 on Jerusem the nonnative residential areas are called the circles. Each consists of seven concentric and successively elevated circles. They are as follows: (46:4.2)
@@ -1473,7 +1475,7 @@ In addition to the universal Paradise circuits there function two energy-circuit
 *# The circuit of the Divine Ministers
 *# The circuit of the adjutant mind-spirits
 
-circumcision | | | | OK
+circumcision; Circumcision; circumcised | | | | OK
 Ancient rite
 	The well-nigh universal ancient rite of circumcision was an outgrowth of the cult of partial sacrifice; it was purely sacrificial, no thought of hygiene being attached thereto. Later on became a hygienic procedure. (89:8.2) (92:1.1)
 	Circumcision was first practiced as a rite of initiation into one of these secret fraternities. (70:7.10)
@@ -1487,7 +1489,7 @@ In Jesus times
 
 circumspection | | propriety | | OK
 
-circumstances | | environment; handicaps; providence | | OK
+circumstances; tribulation | | environment; handicaps; providence | | OK
 “We know that all things work together for good to those who love God”. Catastrophic physical events always work out for the welfare and progress of the universes. It may be that the inexplicable circumstances of existence are all interwoven into a meaningful pattern of high value by the Supreme and the Trinity. (4:1.4,11) (10:7.5-6) (48:4.7) (54:4.7) (67:7.8) (67:8.4) (94:6.4) (118:10.18) (182:2.1)
 seraphim can and do so manipulate planetary conditions and so associate circumstances as favorably to influence the spheres of human activity to which they are attached. (113:3.5) (113:4.4) (114:6.18)
 Jesus
@@ -1532,7 +1534,7 @@ City of David | | Bethlehem (Judea) | PLACE | OK
 City of Judah | | | PLACE | OK
 City of Judah was a small village 4 miles west of Jerusalem. There was the home of Elizabeth and Zacharias, John the Baptist's parents (122:2.6-7) (135:0.2)
 
-civil servants | | | | OK
+civil servants; civil servant | | | | OK
 If the unbeliever can qualify as a superior civil servant, we should seriously question if the consciousness  of the sonship with God is truly enlivening our life of service. (178:1.13)
 
 civilization; civilizations | | evolution:social evolution; government; social classes; standards of living | | OK
@@ -1688,7 +1690,8 @@ Status of civilizations
 	Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. (16:9.4-5) (68:0.2)
 	The presence of large numbers of unmarried persons in any society indicates the temporary breakdown or the transition of the mores. (83:7.5)
 
-clams | (59:2.12) | | | OK
+clams | | | | OK
+310 million years ago, various shell animals thrived in ancient seas, with less reliance on shells for defense than in later ages. Gastropods, including drills, periwinkles, and snails, were common, while bivalve gastropods like mussels, clams, oysters, and scallops have persisted largely unchanged. Brachiopods, with their hinged and notched valve shells, also flourished, resembling their modern forms. (59:2.12)
 
 clans; clan | (70:4) | tribes | | OK
 Andonites’ loyalties were limited to the inmmediate clan (63:4.3)
@@ -1705,7 +1708,7 @@ The larger territorial states had a long and bitter struggle with the smaller co
 
 classes, social | | social classes | | OK
 
-Claudia Procula | | | PERSON | OK
+Claudia Procula; his wife | | | PERSON | OK
 Claudia Procula was the wife of Pontius Pilate; became prominently identified with gospel (185:1.7) (185:2.6)
 she asked Pilate not to arrest Jesus (183:2.3)
 she sent a message to Pilate regarding Jesus (185:5.7-8)
@@ -1727,7 +1730,8 @@ Jesus put clay on Josiah’s eyes, the blind beggar (164:3.8)
 there were sculptures of clay adorning the gardens of Dalamatia (66:5.26)
 Some ancient Sumerian clay tablets found tell of Dilmun, this earthly paradise “where the Gods first blessed mankind with the example of civilized and cultured life”. (77:4.8)
 
-cleansing the temple | (173:1) | | | 
+cleansing of the temple | | | | OK
+Jesus’ cleansing of the temple was a decisive act against the commercialization of worship and the exploitation of the poor. The temple had become a center of profit through the sale of sacrificial animals and currency exchange, benefiting the priestly families. Amid the noise and chaos of commerce, Jesus drove out the animals, declaring, “My house shall be called a house of prayer, but you have made it a den of robbers.” His action inspired the admiration of his listeners, who, following his example, overturned the tables of the money-changers, but it deeply alarmed the temple authorities. (173:1)
 
 Clement | | | PERSON | OK
 Clement was a prominent Christian teacher in Alexandria, a disciple of Pantaenus or Panteno. Clement had Origen as a disciple (195:3.10)
@@ -1736,11 +1740,11 @@ Clement was a prominent Christian teacher in Alexandria, a disciple of Pantaenus
 Cleopas of Emmaus; Cleopas | | | PERSON | OK
 at Jesus’ 7th appearance (190:5)
 
-cleverness | | | | OK
+cleverness; Cleverness | | | | OK
 Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. (159:3.2)
 Cleverness is not a substitute for true character. (48:7.3)
 
-climate | | drought | | OK
+climate; Climate; climatic changes; shifting water-laden winds; climatic; climatic modifications; climatic fluctuation; Climatic evolution; climatic necessity; climatic change | | drought | | OK
 The lower five or six miles of the earth’s atmosphere is the troposphere; this is the region of winds and air currents which provide weather phenomena. (58:2.6)
 changes in climate have caused changes in civilization:
 * From 2500 to 2000 B.C. climatic changes managed to do what the barbarians failed to do: bring about the ruin of Mesopotamia. (78:8.11)
@@ -1756,7 +1760,7 @@ Jesus in a parable used the idea of discerning the weather: “How is it that yo
 Cloa | | | PERSON | OK
 Mary, the mother of Jesus, was a descendant of Cloa (122:1.2)
 
-cloak | | | | OK
+cloak; coat | | | | OK
 Jesus wore the cloak, a typical Jewish clothing (187:2.8)
 When Jesus instructed his apostles that they should, when one unjustly took away the coat, offer the other garment, he referred not so much to a literal second coat as to the idea of doing something positive to save the wrongdoer in the place of the olden advice “an eye for an eye”. (159:5.11)
 
@@ -1782,7 +1786,7 @@ cosmic clouds can affect climate (57:8.22)
 Clouds, rain, and hail have all been feared and worshiped by numerous primitive tribes and by many of the early nature cults. (85:4.3)
 Neanderthalers were deathly afraid of clouds, more especially of mists and fogs. (64:4.12)
 
-clubs | | secret societies | | OK
+clubs; society | | secret societies | | OK
 Jesus was member of young men’s club for philosophic discussion which met at the homes of different members and often at his own home. (124:1.13) (127:3.9)
 
 co-operation; co-operate; teamwork | | groups; leadership | | OK
@@ -1808,7 +1812,7 @@ Co-ordinate Ministering Daughters | | local universe Mother Spirits | ORDER | OK
 
 Co-ordinate Trinity-origin Beings | | Trinity-origin beings | ORDER | OK
 
-co-ordinators and liaison directors | | | ORDER | OK
+co-ordinators and liaison directors; Co-ordinators and Liaison Directors | | | ORDER | OK
 Co-ordinators and Liaison Directors are Morontia Companions. They are the instructors of social conduct and morontia progress, sponsoring classes and other group activities among the ascending mortals. (48:3.11)
 
 coabsolute level | | reality:levels of reality | | OK
@@ -1827,7 +1831,8 @@ coat | | cloak | | OK
 
 cock | | poultry | | OK
 
-cockroaches | (59:5.7) | | | 
+cockroaches | | | | OK
+Around 210 million years ago insects first appeared, including cockroaches. A thousand species of cockroaches developed, some reaching lengths of ten centimeters. (59:5.7)
 
 cocoa | | | | OK
 among earliest pharmaceutical discoveries is cocoa (90:4.8)
@@ -1850,7 +1855,7 @@ Gravity and absence of heat (cold) organize and hold matter together; heat and a
 collapse | | | | OK
 If God should retire as the present upholder of all creation, there would immediately occur a universal collapse. (4:1.6)
 
-college of ethics, law, and Supremacy | | | | OK
+college of ethics, law, and Supremacy; college of the ethics of law and the technique of Supremacy | | | | OK
 one of the steps in Technical Advisers training is into the “college of the ethics of law and the technique of Supremacy,” the Paradise training school for the perfecting of Technical Advisers. (25:4.14)
 
 College of High Ethics | | | | OK
@@ -1878,9 +1883,13 @@ The practice of sacrifice of first-born sons was replaced by exile; this was the
 color workers | | | | OK
 color workers are the artists among the heavenly reproducers, a group inside celestial artisans (44:2.4)
 
-Colorado | (60:2.5) (60:4.4) (61:2.4) | | PLACE | 
+Colorado | | | PLACE | OK
+The Morrison beds of Colorado, Montana, and Wyoming contain abundant fresh-water fossils. (60:2.5)
+Pikes Peak and Longs Peak are examples of mountains that were re-elevated after erosion. (60:4.4)
+The Florissant fossil beds of Colorado belong to the later years of these far-distant times. (61:2.4)
 
-Colorado River | (58:7.5) | | PLACE | 
+Colorado River | | | PLACE | OK
+The fossiliferous rocks around the Grand Canyon of the Colorado River testify to ancient uplifts and surface fluctuations. (58:7.5)
 
 colored races | | races | RACE | OK
 
@@ -1888,7 +1897,7 @@ colors | | | | OK
 there are seven colors in the natural spectrum. (42:9.3)
 celestial musicians make symphonies of color, that ranks among the highest accomplishments of the celestial musicians. (44:1.6)
 
-coma | | | | OK
+coma; Coma; comatose; deep sleep | | | | OK
 The ancients believed that the soul could leave the body in various ways, as in coma (86:5.4-8)
 The Jews were in the habit of burying their dead on the day of their demise; this was a necessary practice in such a warm climate. It often happened that they put in the tomb one who was merely comatose, so that on the second or even the third day, such a one would come forth from the tomb (167:4.3)
 The daughter of Jairus of Capernaum, who was believed to have resurrected Jesus, was actually in a coma after a prolonged fever (152:1.2)
@@ -1907,7 +1916,7 @@ A comet’s tail points away from the attracting body or sun because of the elec
 
 Comforter | | Spirit of Truth | PERSON | OK
 
-commandments; commandment; mandate; injunction; injuctions; mandates | (110:3.6-10) | golden rule | | OK
+commandments; commandment; mandate; injunction; injuctions; mandates; commands; command; orders | (110:3.6-10) | golden rule | | OK
 Dalamatia
 	Among the earliest prohibitions were restrictions on the appropriation of women and other property. (89:1.3)
 	Ata Dalamatia Hap provided the Dalamatians with the seven chants of worship and also gave them the daily praise-phrase and eventually taught them “the Father’s prayer,” which was: (66:5.14-15)
@@ -1991,7 +2000,7 @@ Commandments for angels
 
 commendation | | praise | | OK
 
-commerce; trade | | industry | | OK
+commerce; trade; trading; Commerce | | industry | | OK
 evolution of commerce
 	Man’s first form of trading was woman exchange; it long preceded horse trading. (69:5.10)
 	trade by barter followed seizure by raids. (69:4.1)
@@ -2054,7 +2063,7 @@ weaknesses of communism
 	any attempt to shift parental responsibility to state or church has proven suicidal to the welfare and advancement of civilization. (84:7.27)
 	This was the suicidal weakness of communism: The improvident habitually lived off the thrifty. (69:9.5-6)
 
-comparisons | | | | OK
+comparisons; comparison; comparative | | | | OK
 There is the same relative distance, in comparison with actual size, between the atomic nucleus and the inner electronic circuit as exists between the inner planet, Mercury, and your sun. (42:7.2)
 If the mass of an electron were 2.8 grams, the volume of that electron would be as large as that of the Earth. If the volume of a proton were like the head of a pin, the head of a pin would have a diameter equal to that of the Earth's orbit around the Sun. (42:6.8)
 stars have just as much comparative elbow room in space as one dozen oranges would have if they were circulating about throughout the interior of Urantia, and were the planet a hollow globe. (41:3.2)
@@ -2064,7 +2073,7 @@ compass | | direction | | OK
 The four points of the compass are universal and inherent in the life of Nebadon. (34:4.13)
 the compass needle is responsive to solar influence since it turns slightly to the east as the sun rises and slightly to the west as the sun nears setting. (58:2.9)
 
-compensations; compensation | | | | OK
+compensations; compensation; compensatory equalization; compensate | | | | OK
 The Adjuster is our compensatory equalization of the enormous universe tension which is created by the distance of man’s removal from God. (107:0.5)
 there are many compensations for rebellions as Lucifer's: one is enhanced careers of those mortal ascenders, the Jerusem citizens, who, by withstanding the sophistries of sin, placed themselves in line for becoming future Mighty Messengers (50:7.1) (54:6.5)
 Although the Universal Father is personally present in the residential universe, he does not indwell the minds of the beings originating in that universe (32:3.4)
@@ -2083,7 +2092,7 @@ The evolving Supreme will eventually compensate finite creatures for their inabi
 those personalities who are farthest from God, and who can therefore experience the greatest degree of spiritual ascent in the universe (116:4.11)
 universe unfailingly applies equalizing techniques designed to insure that no ascender shall be deprived of aught which is essential to his ascension experience. (55:2.12)
 
-competition; competitive spirit; Competition; rivalry  | | capital; private property; profit | | OK
+competition; competitive spirit; Competition; rivalry; contending; Competition-gravity | | capital; private property; profit | | OK
 angels make effective use of competitive spirit to promote a wholesome rivalry and inspire a quality of service (28:5.18)
 In advanced civilizations co-operation is more efficient than competition. (71:5.3)
 Improved tools, ingenious and efficient machines, determine the survival of contending groups in the arena of advancing civilization. (81:6.20)
@@ -2097,7 +2106,7 @@ benefits and downsides of competition
 	Competition-gravity ever pulls man down toward the beast level; poverty is his natural and tyrannical estate. (69:2.2)
 	Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. (71:6.1)
 
-complaining; complain; complaints; complaint; bemoan | | | | OK
+complaining; complain; complaints; complaint; bemoan; complained | | | | OK
 we must learn to accept challenges without complaint and to face difficulties and uncertainties without fear (48:6.35)
 man should not bemoan his lowly origin when Creator Sons pass through same experience to be considered worthy and competent to rule over their universe (21:4.6)
 Man should not blame God for those afflictions which are the natural result of the life which he chooses to live; neither should man complain of those experiences which are a part of life as it is lived on this world. (148:5.3)
@@ -2130,7 +2139,8 @@ After attainment of the Father of spirits and admission to the seraphic service 
 Many fascinating avenues of ministry are open to the completion seraphim, but just as they all craved assignment as destiny guardians in the pre-Paradise days, so in the post-Paradise experience they most desire to serve as bestowal attendants of the incarnated Paradise Sons. (39:9.3)
 often direct seraphic organizations (39:2.1,5)
 
-compossibility and omnipotence | (118:5) | | | 
+compossibility and omnipotence; Compossibility | (118:5) | | | OK
+The omnipotence of the Deity does not imply that anything, even meaningless to the Deity, exists. Compatibility is innate in divine power. Omnipotence is the origin not only of nature but of the nature of things, of the original pattern which everything created is then destined to follow. (118:5.1-3)
 
 compound manipulators | | | ORDER | OK
 Compound Manipulators are energy manipulator that belong to Celestial Artisans. These are the keen personalities who are in reality seeking to discover the universe presence of God the Supreme (44:5.5)
@@ -2149,7 +2159,7 @@ the disciples
 	The apostles of Jesus and the disciples of John learned to compromise in socialization of religion (144:6.11)
 	Having taken the first step along the path of compromise and least resistance, there was nothing apparent to Peter but to go on with the course of conduct decided upon. (184:2.12)
 
-compulsion; coerce; employ force; repression; by force | | might; pressure | | OK
+compulsion; coerce; employ force; repression; by force; employ physical force | | might; pressure | | OK
 the purpose of the true believer is always to act but never to coerce. (94:6.6)
 The chief factor in early civilization was the force exerted by wise social masters (81:6.14)
 The domination of the Spirit is never tainted with coercion nor compromised by compulsion. (34:6.11)
@@ -2164,7 +2174,7 @@ concentration; concentrate  | | | | OK
 Jesus teach: The heathen are not without excuse when they rage at us. Because their outlook is small and narrow, they are able to concentrate their energies enthusiastically.  (155:1.3)
 Jesus possessed the ability effectively to mobilize all his powers of mind, soul, and body on the task immediately in hand. He could concentrate his deep-thinking mind on the one problem which he wished to solve, and this, in connection with his untiring patience, enabled him serenely to endure the trials (127:3.15)
 
-concentric circles, three; three azure blue concentric circles; three circles | | | | OK
+concentric circles, three; three azure blue concentric circles; three circles; three concentric circles | | | | OK
 the banner of Michael, the material emblem of the Trinity government of all creation, is the three azure blue concentric circles on a white background. (53:5.4) (93:2.5)
 the three circles are emblematic of the infinity, eternity, and universality of the Paradise Trinity (93:3.3)
 Melchizedek wore it on his chest as an emblem (93:2.5) (104:1.3)
@@ -2232,7 +2242,7 @@ It is the task of the conductors of worship so to teach the ascendant creatures 
 Conductors of Worship are the first order inside primary Supernaphim (27:0.4)
 Never since the times of Grandfanda have the supernaphim been able fully to accommodate the spirit of worship on Paradise. Always is there an excess of worshipfulness (27:7.6-7)
 
-confession; confess; Confession | | amends; forgiveness; repentance; sin | | OK
+confession; confess; Confession; unconfessed | | amends; forgiveness; repentance; sin | | OK
 The confession of sin is a manful repudiation of disloyalty, but it in no wise mitigates the time-space consequences of such disloyalty. But confession—sincere recognition of the nature of sin—is essential to religious growth and spiritual progress. (89:10.5)
 When we find ourselves in the wrong, we should not hesitate to confess our error and be quick to make amends. (131:9.3)
 Confession, repentance, and prayer have led individuals, cities, nations, and whole races to mighty efforts of reform and courageous deeds of valorous achievement. (91:5.2)
@@ -2292,7 +2302,8 @@ Conglomerates are matter deposited near the shore lines.
 The coal layers alternate with shale, stone, and conglomerate. (59:5.15)
 Much of the older sandstone and conglomerates represents the sedimentary accumulations of ancient shores. (58:7.9) (59:1.10) (60:1.1)
 
-conifers | (60:2.7) | | | 
+conifers | | | | OK
+120 million years ago, conifers increasingly resembled modern varieties. (60:2.7)
 
 conjectures | | speculations | | OK
 
@@ -2303,11 +2314,12 @@ Conjoint Creator | | Infinite Spirit | PERSON | OK
 conjurers | | | | OK
 practitioners of black arts were called conjurers (90:2.2)
 
-Connecticut; eastern-Connecticut | (60:1.7) | | PLACE | OK
+Connecticut; eastern-Connecticut | | | PLACE | OK
+150 million years ago, the great eastern-Connecticut fault appeared, with one side eventually sinking two miles. (60:1.7)
 
 conquest | | military; victory; war | | OK
 
-conscience | | morality | | OK
+conscience; Conscience | | morality | | OK
 We should not confuse and confound the mission and influence of the Adjuster with what is commonly called conscience. Conscience, rightly, admonishes you to do right; but the Adjuster, in addition, endeavors to tell you what truly is right; that is, when and as you are able to perceive the Monitor’s leading. (110:5.1)
 it is hazardous to attempt the differentiation of the Adjusters’ concept registry from the more or less continuous and conscious reception of the dictations of mortal conscience. (110:5.5)
 Growth is predicated on the discovery of selfhood accompanied by self-criticism—conscience, for conscience is really the criticism of oneself by one’s own value-habits, personal ideals. (92:2.6) (100:1.5)
