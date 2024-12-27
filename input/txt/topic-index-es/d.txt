@@ -120,15 +120,15 @@ Los griegos importaban danubianos como esclavos (80:7.6)
 La colonia más septentrional de los danubianos se encontraba en Lieja, en Bélgica. (80:8.4)
 Los danubianos se convirtieron en adoradores de la madre a consecuencia de la labor de los misioneros de Creta. (80:8.5)
 
-Dafne | (133:8.1) | bosquecillo de Dafne | PERSON | OK
-Dafne era un personaje mítico griego, una ninfa, hija del dios río Ladón
+Dafne | | bosquecillo de Dafne | PERSON | OK
+Dafne era un personaje mítico griego, una ninfa, hija del dios río Ladón (133:8.1)
 > https://es.wikipedia.org/wiki/Dafne
 
 bosquecillo de Dafne | | | PLACE | OK
 el bosquecillo de Dafne era un notorio santuario lleno de indecencia en Antioquía. Jesús se negó a visitarlo cuando estuvo en la ciudad (133:8.1)
 > https://es.wikipedia.org/wiki/Antioquía_del_Orontes
 
-edades de tinieblas; edad de las tinieblas; siglos de tinieblas | | | | OK
+edades de tinieblas; edad de las tinieblas; siglos de tinieblas; edades de las tinieblas | | | | OK
 cuando la cultura avanza demasiado deprisa y los logros materiales van más rápidos que la sabiduría y la sociedad desciende desde los niveles elevados pero prematuros a las «edades de las tinieblas» del interregno de la sabiduría (118:8.6)
 en China
 	Confucio y Lao-Tse fueron finalmente deificados por sus seguidores durante las edades de tinieblas espirituales que envolvieron a China entre la decadencia y la perversión de la fe taoísta, y la llegada de los misioneros budistas procedentes de la India. (94:6.12)
@@ -203,7 +203,7 @@ historias sobre David
 	Según Jesús el Mesías no era hijo de David (174:4.6)
 	Según los judíos el Mesías sería el sucesor de David (135:5.4,7) (136:1.1,6)
 
-David Zebedeo | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | cuerpo de mensajeros (de David Zebedeo) | PERSON | OK
+David Zebedeo; David | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | cuerpo de mensajeros (de David Zebedeo) | PERSON | OK
 fue conocido como el confiable David Zebedeo. Era el hermano de Juan y Santiago Zebedeo (186:3)
 Respetaba a Jesús como artesano, pero tomaba poco en cuenta sus puntos de vista religiosos (129:1.12)
 el padre Zebedeo se fue a vivir con su hijo David (138:5.4)
@@ -273,7 +273,7 @@ reino de los muertos | | | | OK
 Antiguamente se pensaba que el deseo más grande de un fantasma consistía en ser «conjurado» rápidamente a fin de poder dirigirse tranquilamente hacia el reino de los muertos. (87:2.2).
 Se pensaba que el ayuno y otras formas de abnegación agradaban a los fantasmas, que disfrutaban con la aflicción de los vivos durante el período de transición en que rondaban por los alrededores antes de su partida real hacia el reino de los muertos. (87:1.1) (87:2.4,8) (87:4.2)
 
-muerte; morir | | los muertos; pena de muerte; vida eterna; juicio; asesinato | | OK
+muerte; morir; quitarle la vida | | los muertos; pena de muerte; vida eterna; juicio; asesinato | | OK
 en el hombre primitivo
 	La muerte natural sólo se volvió lógica para la mente primitiva gracias al concepto del pecado. El pecado era la transgresión del tabú, y la muerte era el castigo del pecado. (89:2.2)
 	Se tenía miedo a la muerte porque la muerte significaba que otro fantasma se había liberado de su cuerpo físico. (86:5.2) (87:1.1)
@@ -347,7 +347,7 @@ La cultura dravidiana ha sobrevivido en el Decán hasta nuestros días (79:3.6,8
 25 de Diciembre; veinticinco de diciembre | | | | OK
 el 25 de Diciembre era el festival anual de Mitra celebrado, la celebración más esmerada de todas las de este culto (98:5.4)
 
-planetas decimales; planetas donde se experimenta | (40:5.18) | | | OK
+planetas decimales; planetas donde se experimenta; mundos donde se ha modificado la vida; planeta decimal | (40:5.18) | | | OK
 los siete Espíritus Ayudantes de la Mente están relativamente aislados en  los planetas donde se experimenta con la vida (65:7.3)
 los seres intermedios siempre aparecen en los planetas decimales (38:9.2)
 Los Portadores de Vida experimentan con nuestros patrones en los planetas decimales, nuevos modelos de movilización mecánica, química y eléctrica en el momento de su llegada posterior con el mandato de transplantar e implantar la vida. (57:8.7-9) (58:0.1)
@@ -409,7 +409,7 @@ Hace 800.000 años, la caza era abundante. Los ciervos eran cazados por los nean
 
 falta | | traición; pecado | | OK
 
-derrota; derrotas; fracasos; fracaso, fracasara; rechazado | | depresión; decepción; desastre; miedo; dolor | | OK
+derrota; derrotas; fracasos; fracaso; fracasara; rechazado; fracasáis | | depresión; decepción; desastre; miedo; dolor | | OK
 Cuando un hombre se enfrenta con sus propios fracasos, ¡cuánta tendencia tiene a inculpar a los demás, con mucha frecuencia a quienes menos se lo merecen! (176:3.9) (193:4.7)
 si un mortal ascendente llegara solo al universo central y fracasara en alguna fase de la aventura de la Deidad mientras atraviesa Havona, se enviaría al peregrino de Havona a los universos con el guardián seráfico o el Compañero del Paraíso (25:8.9-11) (26:3.9)
 la prudencia y la discreción, llevadas demasiado lejos, conducen a la cobardía y al fracaso. (149:4.4)
@@ -435,7 +435,7 @@ Jesús y Judas
 
 defectuosos | | inferiores | | OK
 
-contaminación | | ceremonias:ceremonias de purificación | | OK
+contaminación; impureza | | ceremonias:ceremonias de purificación | | OK
 para los judíos se podía contraer contaminación:
 * por contacto con los muertos, como en el caso de los votos nazareos, lo cual requería una purificación (135:1.1) (135:2.1)
 * entrando en un edificio gentil antes de la Pascua (185:0.3-4)
@@ -448,7 +448,7 @@ El gran obstáculo que se le presenta a Urantia en el asunto de alcanzar el elev
 
 degenerados | | inferiores | | OK
 
-Deidad | | Hijo Eterno; Dios; Espíritu Infinito; Padre Universal; dioses y diosas | | OK
+Deidad; Deidades | | Hijo Eterno; Dios; Espíritu Infinito; Padre Universal; dioses y diosas | | OK
 La Deidad desempeña sus funciones en los niveles personales, prepersonales y superpersonales. La Deidad Total está actuando en los siete niveles siguientes: (0:1.3-10,14)
 # Estático
 # Potencial
@@ -550,7 +550,7 @@ los Hijos trinitizados por la Deidad son un grupo de los Hijos de Dios Trinitiza
 
 Deidad de la Ultimidad | | Dios Último | PERSON | OK
 
-retrasar; retrasos; retraso; posponer; demoras | | paciencia | | OK
+retrasar; retrasos; retraso; posponer; demoras; demora | | paciencia | | OK
 La mente humana, corta de miras y atada al tiempo, debería ser lenta en criticar las demoras temporales concedidas por los administradores clarividentes y omnisapientes de los asuntos del universo. (54:6.8)
 En el Paraíso, una decepción nunca se considera como una derrota; un aplazamiento nunca se contempla como una desgracia; los fracasos aparentes del tiempo nunca se confunden con los retrasos significativos de la eternidad. (26:8.3-4)
 La vida en las mansonias enseña muy pronto a los jóvenes alumnos morontiales que posponer no significa en ningún sentido evitar. (48:5.8)
@@ -569,7 +569,7 @@ la sabiduría de la demora
 	# si se intentan métodos de represión arbitrarios o sumarios, al menos un número tres veces mayor de seres se descarriarán
 	# El tiempo, incluso en un universo temporal, es relativo. A veces el tiempo es más corto de lo que nos parece
 
-delegación; trata de dar | | compartir | | OK
+delegación; trata de dar; darse a todas | | compartir | | OK
 el Padre
 	Dios no es ni egocéntrico ni autosuficiente; no deja nunca de darse a todas las criaturas conscientes de sí mismas en el inmenso universo de universos. (2:2.5) (7:0.2)
 	el Padre Universal solamente se reserva el ejercicio de aquellos poderes y de aquella autoridad que al parecer le resulta imposible delegar o conceder. (5:0.2) (8:3.2) (10:1) (10:3.6) (32:4.1-2,10-12)
@@ -589,7 +589,7 @@ Personas que lo reconocieron
 	Jesús reconoció a Nalda la samaritana que él era el Libertador (143:5.7-8)
 	Pedro también reconoció que Jesús era el Libertador (157:3.5)
 
-desmaterialización; desmaterializaciones | | transporte seráfico, secoráfico y superáfico | | OK
+desmaterialización; desmaterializaciones; rematerialización | | transporte seráfico, secoráfico y superáfico | | OK
 en Jerusem hay una serie de laboratorios donde los serafines transportadores transforman a los seres materiales en un estado totalmente semejante al de la orden morontial de existencia. (46:5.26)
 Aunque existe esta técnica de desmaterialización para preparar a los Adanes a fin de ser transportados desde Jerusem hasta los mundos evolutivos, no existe un método equivalente para sacarlos de dichos mundos a menos que se vacíe todo el planeta, en cuyo caso se instala de urgencia la técnica de la desmaterialización para toda la población salvable. (51:2.3)
 Adán y Eva se desmaterializaron en Jerusem, siendo despedidos por sus hijos, quedándose dormidos y despertando cuando fueron rematerializados en Urantia, a los diez días de su llegada (74:0.1) (74:1.5)
@@ -601,7 +601,7 @@ los semidioses eran entidades en la teología hindú (94:4.7)
 
 democracia | | gobierno:democracia | | OK
 
-posesión demoníaca; posesión por los espíritus; influencia de los diablos | (138:4.3) | intermedios | | OK
+posesión demoníaca; posesión por los espíritus; influencia de los diablos; poseído por un espíritu; poseído por uno; poseer a los débiles mentales | (138:4.3) | intermedios | | OK
 los espíritus discordantes sólo existieron después de la rebelión de Caligastia (87:4.7)
 Las tradiciones judías sobre el cielo y el infierno y la doctrina sobre los demonios procedían principalmente de los zoroastrianos durante la época en que los judíos estuvieron bajo el dominio político y cultural de los persas. (95:6.6)
 en los tiempos antiguos cualquier cosa anormal era atribuida a la posesión por los espíritus, cualquier anormalidad mental o física notable constituía una aptitud para ser curandero. (90:1.2)
@@ -621,10 +621,10 @@ confusión tras Pentecostés
 	Cuando se supone, en general, que los mortales débiles y disolutos se encuentran bajo la influencia de los diablos y los demonios, están simplemente dominados por sus propias tendencias inherentes y degradadas, se dejan llevar por sus propias inclinaciones naturales. (53:8.9)
 	Los intermedios rebeldes ahora se encuentran encarcelados (51:3.7) (77:7.8)
 
-demonios; denario | | posesión demoníaca | | OK
+demonios | | posesión demoníaca | | OK
 Los monoteístas conservan a sus dioses subordinados como espíritus, demonios, Parcas, Nereidas, hadas, duendes, enanos, hadas malignas y el mal de ojo. (96:1.14)
 
-denarios | | dinero | | OK
+denarios; denario; dinero | | dinero | | OK
 en tiempos de Jesús con 200 denarios no se podía comprar pan para 5000 personas (152:2.6)
 La imagen de César figura en los denarios, la moneda del tributo judío (174:2.2)
 en la parábola de Jesús los obreros de la viña recibió cada uno un denario por el trabajo de un día (163:3.6)
@@ -646,7 +646,7 @@ La masa de vuestro Sol es ligeramente mayor de lo que estiman vuestros físicos,
 los soles no sólidos pueden alcanzar una densidad equivalente a la del hierro — casi la misma que tiene Urantia. Sin embargo, la mayor parte de los soles no son tan densos. Uno de vuestros vecinos más cercanos posee una densidad como la de nuestra atmósfera, y Veluntia, uno de los más grandes de Orvonton, posee una densidad que sólo es una milésima parte la de la atmósfera de Urantia (41:4.3)
 Las capas de lava de la corteza terrestre, una vez enfriadas, forman el granito. La densidad media de Urantia es un poco superior a cinco veces y media la del agua; la densidad del granito es casi tres veces superior a la del agua, y el núcleo de la Tierra es doce veces más denso que el agua. (58:5.5)
 
-denuncias | | | | OK
+denuncias; denunciaba | | | | OK
 Jesús denunció a los escribas, los fariseos y los hipócritas (163:6.5) (166:1.4-5) (175:1) (175:4.2)
 Jesús pasó poco tiempo haciendo denuncias negativas. El antagonismo de Jesús hacia las tradiciones judías y los ceremoniales serviles era siempre positivo. (147:6.6)
 Juan el Bautista denunció a Herodes Antipas y a los líderes religiosos (135:10.2)
@@ -670,7 +670,7 @@ después del episodio en el que la muchedumbre trató de proclamar a Jesús como
 Si la lealtad es deseable entonces el hombre debe caminar entre las posibilidades de traición y de deserción. (3:5.12)
 
 Diseñadores y los Embellecedores; artesanos | | Artesanos Celestiales | ORDER | OK
-Los Diseñadores y los Embellecedores son un grupo perteneciente a los Artesanos Celestiales que se organizan en los siguientes cuerpos:
+Los Diseñadores y los Embellecedores son un grupo perteneciente a los Artesanos Celestiales que se organizan en los siguientes cuerpos: (44:6.1-2)
 # Los artesanos de color (44:6.3)
 # Los diseñadores de los sonido (44:6.4)
 # Los diseñadores de las emociones (44:6.5)
@@ -679,7 +679,7 @@ Los Diseñadores y los Embellecedores son un grupo perteneciente a los Artesanos
 # Los diseñadores del gusto (44:6.8)
 # Los sintetizadores morontiales (44:6.9)
 
-deseo de todas las edades | | | | OK
+deseo de todas las edades; deseo de todos los tiempos | | | | OK
 Jesús es el deseo de todas las edades (182:1.13)
 
 deseos | | metas | | OK
@@ -688,7 +688,7 @@ desesperación | | ansiedad; derrota; depresión; miedo; dolor | | OK
 Una desesperación sin nombre es la única recompensa que recibe el hombre por vivir y trabajar sin descanso bajo el sol temporal de la existencia mortal. (102:0.1-2)
 Las palabras de Jesús a Fortunato, el joven abatido, fueron: «Amigo mío, ¡levántate!. ¡Ponte de pie como un hombre!. Tu mente debería ser tu valiente aliada en la resolución de los problemas de tu vida, en lugar de ser tú, como lo has sido, su abyecto esclavo atemorizado y el siervo de la depresión y de la derrota». (130:6)
 
-destino | (40:10) | metas; providencia | | OK
+destino; destinos | (40:10) | metas; providencia | | OK
 La historia por sí sola no consigue revelar adecuadamente el desarrollo futuro, el destino. (19:1.11)
 destino mortal
 	a medida que ganamos sintonización mental con el Ajustador, éste se encuentra cada vez más capacitado para registrar sus imágenes del destino en nuestra conciencia evolutiva (110:6.5) (111:7.2)
@@ -766,13 +766,15 @@ devoción | | lealtad | | OK
 Devoradora | | | PERSON | OK
 La religión egipcia consignó a las almas deficientes a la Devoradora, el infierno (95:2.9)
 
-punto de rocío | (46:2.2) | | | 
+punto de rocío; grado de rocío | | | | OK
+El grado de rocío es más elevado en un mundo con tres gases como los mundos arquitectónicos que nos esperan tras la muerte que en un planeta con dos gases como Urantia (46:2.2)
 
 dialectos; dialecto | | idioma | | OK
 Las razas primitivas atrasadas y desconfiadas, hablaban un dialecto diferente cada 60 u 80 kilómetros,  (68:1.6)
 Un ejemplo del origen de los dialectos es la condescendencia a «hablar como los niños» dentro de un grupo familiar. (81:6.17-18)
 
-diamantes | (63:5.6) | | | 
+diamantes | | | | OK
+Para los andonitas el sílex tenía tanto valor como los diamantes para los hombres modernos (63:5.6)
 
 dictado | | registros | | OK
 
@@ -784,7 +786,7 @@ Mientras que los jefes de los gobiernos terrestres intenten ejercer la autoridad
 dieta | | comida | | OK
 en la antigüedad el ayuno, la dieta y los revulsivos se utilizaban a menudo como medidas curativas. (90:4.8)
 
-dificultades; difícil | (4:1.7-9) | desafíos; compensaciones; conflicto; confusión; mala adaptación; oportunidades; perspectiva; resolución de problemas; sufrimiento | | OK
+dificultades; difícil; difíciles | (4:1.7-9) | desafíos; compensaciones; conflicto; confusión; mala adaptación; oportunidades; perspectiva; resolución de problemas; sufrimiento | | OK
 De todos los problemas que surgen en el universo y que requieren el ejercicio de la sabiduría consumada de la experiencia y de la adaptabilidad, ninguno es más importante que aquellos que surgen en las relaciones y en las asociaciones de los seres inteligentes. (28:5.13)
 hay que utilizar el poder moral y la energía espiritual para resolver las dificultades (166:3.8)
 cuando las nubes se acumulan en lo alto, deberíamos mirar más allá de las brumas de la incertidumbre mortal (108:6.8)
@@ -849,7 +851,7 @@ Dilmun | | | PLACE | OK
 Después de la sumersión de Dalamatia, los noditas se dirigieron hacia el norte y el este y fundaron enseguida la nueva ciudad de Dilmun como su centro racial y cultural. Bablot, el constructor de la torre de Babel, deseaba que el monumento se erigiera en Dilmun, pero finalmente se buscó otro emplazamiento (77:3.1-2)
 Los egipcios llamaban Dilmat a esta ciudad de antigua gloria, mientras que los sumerios adamizados posteriores confundieron la primera y la segunda ciudad noditas con Dalamatia, y llamaron Dilmun a las tres. (77:4.8-9)
 
-dinosaurios | | | | OK
+dinosaurios; dinosaurio | | | | OK
 los dinosaurios ponían huevos y se distinguían de todos los demás animales por tener un cerebro pequeño, que pesaba menos de medio kilo y tenía que controlar un cuerpo que más adelante llegó a pesar 40 toneladas. (60:1.10)
 Estos dinosaurios reptiles que evolucionaban con rapidez se convirtieron pronto en los reyes de esta época. Aparecieron has 120 millones de años. Los dinosaurios más grandes tuvieron su origen en el oeste de América del Norte. La vida animal terrestre alcanzó su máximo desarrollo en lo que se refiere al tamaño, y prácticamente había desaparecido de la faz de la Tierra al finalizar esta época. (60:1.10) (60:2.1-6,10)
 los dinosaurios más grandes vivieron en las montañas Rocosas (60:2.2)
@@ -879,7 +881,7 @@ Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebad
 Las diferencias en las dimensiones del Paraíso, unidas a su estado estacionario y a una mayor presión exterior de la energía-fuerza en el extremo norte de la Isla, permiten establecer direcciones absolutas en el universo maestro. (11:2.3)
 La observación de la llamada Vía Láctea revela que la densidad estelar de Orvonton aumenta comparativamente cuando se mira el cielo en una dirección, mientras que la densidad disminuye a cada lado de dicha dirección; el número de estrellas y de otras esferas decrece al alejarnos del plano principal de nuestro superuniverso material. (15:3.3)
 
-criaturas del control direccional | | | | OK
+criaturas del control direccional; criaturas del universo local encargadas del control direccional | | | | OK
 En Salvington existen unas criaturas del universo local encargadas del control direccional, las brújulas vivientes del mundo sede. (34:4.12-13)
 
 Directores de la Asignación | | Serafines | ORDER | OK
@@ -946,7 +948,7 @@ discípulos contra apóstoles: (140:6.9-13)
 * los requisitos del apostolado son más duros que el camino menos riguroso de los discípulos
 somos discípulos de Jesús si hacemos la voluntad del Padre, y nos amamos unos a otros (102:6.7) (162:7.2) (180:1.1) (180:2.1) (191:4.3)
 
-disciplina; disciplinaria; disciplináis; disciplinar | | crianza de los hijos; castigo | | OK
+disciplina; disciplinaria; disciplináis; disciplinar; disciplinado | | crianza de los hijos; castigo | | OK
 la guerra primitiva imponía disciplina y forzaba a la cooperación (70:2.4)
 Un Melquisedek que ha errado en su juicio es purificado con un reposo correccional (35:2.8)
 Todos formamos parte de la familia de Dios, y por eso a veces tenemos que participar en la disciplina de familia. (3:2.9)
@@ -971,10 +973,10 @@ Jesús
 	Jesús amaba tanto a los hombres y de manera tan sabia, que nunca dudaba en ser severo con ellos cuando las circunstancias requerían dicha disciplina. (171:7.7)
 	Jesús dijo: «Cuando tus hijos son muy jóvenes e inmaduros, y has de castigarlos, pueden pensar que su padre está enojado y lleno de ira resentida. Su inmadurez no les permite penetrar más allá del castigo para discernir el afecto previsor y correctivo del padre». (142:2.4)
 
-divulgación | | secreto; censura | | OK
+divulgación; revelarse | | secreto; censura | | OK
 Trabajar para que la expresión del pecado tenga la oportunidad ilimitada de revelarse plenamente es la técnica más rápida para conseguir la curación perfecta y final de la plaga del mal y del pecado (54:5.9-12)
 
-desánimo; desaniméis | | decepción | | OK
+desánimo; desaniméis; desconcertado; desaliento | | decepción | | OK
 No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. (196:3.33)
 No os desaniméis por el descubrimiento de que sois humanos. (156:5.8)
 La confusión, el sentirse desconcertado e incluso a veces desalentado y perturbado, no significa necesariamente resistencia a las directrices del Ajustador interior. (110:3.5)
@@ -1054,7 +1056,7 @@ disolución | | extinción | | OK
 
 distancias (astronómicas) | | años luz | | OK
 
-distracciones; perturbado; desviar | | | | OK
+distracciones; perturbado; desviar; detalles que distraían; pequeñeces | | | | OK
 Jesús recomendaba a sus discípulos evitar perder el tiempo mediante un exceso de visitas sociales y otras trivialidades, que podrían disminuir la consagración entusiasta a la predicación del evangelio. (163:4.5)
 La confusión, el sentirse desconcertado e incluso a veces desalentado y perturbado, no significa necesariamente resistencia a las directrices del Ajustador interior. (110:3.5)
 todos tenemos una vida que vivir de acuerdo con la voluntad de Dios. Cada vez que tratamos de esquivar el deber de la vida diaria para ir en busca de tentaciones lejanas, nos ponemos inmediatamente bajo el dominio de influencias que no están dirigidas por los poderes de la verdad ni por las fuerzas de la rectitud. (130:1.2)
@@ -1068,7 +1070,7 @@ angustia | | dolor | | OK
 Dium | | | PLACE | OK
 Jesús, los doce apóstoles, los doce evangelistas y un grupo adicional de evangelistas, predicaron en esta ciudad durante su segunda gira por la Decápolis, entre el 18 de agosto y el 16 de septiembre del año 29 (159:0.2)
 
-diversidad; DIVERSIDAD; divergencias | | unidad espiritual; tolerancia | | OK
+diversidad; DIVERSIDAD; divergencias; diversificación; variedad | | unidad espiritual; tolerancia | | OK
 Las diferencias de naturaleza, reacción, puntos de vista y pensamientos entre los hombres y las mujeres, en lugar de producir inquietud, deberían ser consideradas como altamente beneficiosas para la humanidad, tanto individual como colectivamente. Estas asociaciones duales multiplican enormemente la diversidad de talentos y vencen las limitaciones inherentes (84:6.5-6)
 La diversidad de las relaciones absolutas no tiene ninguna posibilidad de aparecer sin unas existencias coordinadas, y los factores diferenciales, variables, modificadores, atenuadores, limitadores o reductores no tienen ninguna probabilidad de funcionar. (104:3.4)
 Aunque la infinidad es por una parte una UNIDAD, por otra es una DIVERSIDAD sin fin ni límites. (115:3.4)
@@ -1088,7 +1090,8 @@ tolerancia a la diversidad
 Dives | | | | OK
 Dives es el hombre rico de la parábola nazarea de Lázaro y Dives, una advertencia a todos los que aman las riquezas y codician los bienes fraudulentos (169:3)
 
-dividiendo la herencia | (165:4) | | | 
+dividiendo la herencia; comparta esta herencia | | | | OK
+Mientras los apóstoles bautizaban a los creyentes, Jesús habló con los que permanecían. Un joven le pidió a Jesús que interviniera en una disputa sobre una herencia con su hermano. Jesús aprovechó esta oportunidad para enseñar sobre los peligros de la codicia y la importancia de la riqueza espiritual. Contó la parábola de un hombre rico que acumuló riquezas terrenales pero descuidó su vida espiritual, solo para perderlo todo cuando murió repentinamente. Jesús enfatizó que la riqueza en sí misma no es un pecado, pero el amor a la riqueza puede cegar a uno ante las realidades espirituales. Concluyó afirmando que la riqueza debe ser utilizada de manera responsable y generosa, y que el verdadero tesoro de uno debe estar en el cielo. (165:4)
 
 adivinación; varilla adivinatoria | | | | OK
 La adivinación era simplemente un intento por evitar las dificultades. (87:5.14)

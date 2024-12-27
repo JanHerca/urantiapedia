@@ -20,7 +20,7 @@ Dakota Black Hills | | | PLACE | OK
 Pacific ocean extended at one time eastward to the Dakota Black Hills region. (60:2.4)
 > https://en.wikipedia.org/wiki/Black_Hills
 
-Dalamatia; dalamatiens | | Caligastia; Caligastia one hundred | PLACE | OK
+Dalamatia; dalamatiens; Dalamatian | | Caligastia; Caligastia one hundred | PLACE | OK
 Dalamatia was the city that was built in the distant past to house the headquarters of the Planetary Prince. It was located in the Persian Gulf region, in the area corresponding to later Mesopotamia. (66:3)
 This world center of culture was named Dalamatia in honor of Daligastia. (66:3.3)
 it was a very simple but beautiful city, enclosed within a wall 40 feet high. (66:3.3) (66:4.10)
@@ -120,8 +120,8 @@ Greeks imported Danubians as slaves (80:7.6)
 The most northerly settlement of the Danubians was at Liege in Belgium. (80:8.4)
 The Danubians became mother worshipers as the result of the work of the missionaries from Crete. (80:8.5)
 
-Daphne | (133:8.1) | Daphne, grove of | PERSON | OK
-Daphne was a Greek mythical character, a naiad, daughter of the river god Ladon
+Daphne | | Daphne, grove of | PERSON | OK
+Daphne was a Greek mythical character, a naiad, daughter of the river god Ladon (133:8.1)
 > https://en.wikipedia.org/wiki/Daphne
 
 Daphne, grove of; grove of Daphne | | | PLACE | OK
@@ -203,7 +203,7 @@ stories about david
 	According to Jesus the Messiah was not the son of David (174:4.6)
 	According to the Jews the Messiah would be the successor of David (135:5.4,7) (136:1.1,6)
 
-David Zebedee | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | messenger corps (David Zebedee’s) | PERSON | OK
+David Zebedee; David | (156:6.3-4) (157:6.1) (158:8.1) (176:2.9) (177:5.1,3) (182:2.5) (187:6.1) (188:3.3) | messenger corps (David Zebedee’s) | PERSON | OK
 he was known as the dependable David Zebedee. He was the brother of John and James Zebedee (186:3)
 He respected Jesus as mechanic, but took little stock in his religious views (129:1.12)
 Zebedee's father went to live with his son David (138:5.4)
@@ -347,7 +347,7 @@ Dravidian culture has survived in Deccan to modern times (79:3.6,8)
 December 25th; December twenty-fifth | | | | OK
 December 25th was the annual festival of Mithras celebrated, the most elaborate observance of all in that cult (98:5.4)
 
-decimal planets; life-experiment planets | (40:5.18) | | | OK
+decimal planets; life-experiment planets; life-modification worlds; decimal planet | (40:5.18) | | | OK
 the seven adjutant mind-spirits are relatively isolated on life-experiment planets (65:7.3)
 midwayers always appear in decimal or life-experiment planets (38:9.2)
 Life Carriers experiment with new patterns on decimal planets, new patterns of mechanical, chemical, and electrical mobilization at the time of their subsequent arrival with life transplantation and implantation mandates. (57:8.7-9) (58:0.1)
@@ -359,7 +359,7 @@ Urantia is sixtieth decimal planet in Satania. In all Satania there are only six
 * the simultaneous appearance of the Sangik mutants in a single family
 * Another outstanding variation of procedure was the late arrival of the Planetary Prince. 
 
-decisions; decision | | consecration of choice; problem solving; spiritual rebirth; will | | OK
+decisions; decision; decision-actions; decided | | consecration of choice; problem solving; spiritual rebirth; will | | OK
 When man decides, and when he consummates this decision in action, man experiences (101:7.1) (117:5.13)
 Effort and decision are an essential part of the acquirement of survival values. (50:6.3)
 Man’s choosing between good and evil is influenced, not only by the keenness of his moral nature, but also by such influences as ignorance, immaturity, and delusion. (16:7.7)
@@ -409,8 +409,8 @@ deer | (61:3.5) (61:5.7) | | | OK
 
 default | | betrayal; sin | | OK
 
-defeat; Defeat; failures; failure; fail | | depression; disappointment; disaster; fear; sorrow | | OK
-blaming others for our own (176:3.9) (193:4.7)
+defeat; Defeat; failures; failure; fail; defeated | | depression; disappointment; disaster; fear; sorrow | | OK
+When a man is faced with his own failures, how much he tends to blame others, very often those who least deserve it! (176:3.9) (193:4.7)
 If an ascending mortal should reach the central universe alone and, while traversing Havona, should fail in some phase of the Deity adventure, the pilgrim would be remanded to universes with seraphic guardian or Paradise Companion (25:8.9-11) (26:3.9)
 prudence and discretion, when carried too far, lead to cowardice and failure. (149:4.4)
 do not be troubled with doubts of failure or by perplexing confusion (34:7.8)
@@ -435,7 +435,7 @@ Jesus and Judas
 
 defectives | | inferiors | | OK
 
-defilement | | ceremonies:purification ceremonies | | OK
+defilement; contamination; uncleanness | | ceremonies:purification ceremonies | | OK
 for the Jews one could incur defilement:
 * by contact with the dead, as in the case of Nazirite vows, which required purification (135:1.1) (135:2.1)
 * entering a Gentile building before Passover (185:0.3-4)
@@ -448,7 +448,7 @@ The great handicap confronting Urantia in the matter of attaining the high plane
 
 degenerates | | inferiors | | OK
 
-Deity | | Eternal Son; God; Infinite Spirit; Universal Father; gods and goddesses | | OK
+Deity; Deities | | Eternal Son; God; Infinite Spirit; Universal Father; gods and goddesses | | OK
 Deity functions on personal, prepersonal, and superpersonal levels. Total Deity is functional on the following seven levels: (0:1.3-10,14)
 # Static
 # Potential
@@ -589,7 +589,7 @@ Personas who acknowledged
 	Jesus acknowledged to Nalda the samaritan that he was the Deliverer (143:5.7-8)
 	Peter also acknowledged Jesus to be the Deliverer (157:3.5)
 
-dematerialization; dematerializing | | seraphic, secoraphic, and superaphic transport | | OK
+dematerialization; dematerializing; rematerializing | | seraphic, secoraphic, and superaphic transport | | OK
 on Jerusem there is a series of laboratories wherein the transport seraphim transform material beings into a state quite like that of the morontia order of existence. (46:5.26)
 While there is this dematerializing technique for preparing the Adams for transit from Jerusem to the evolutionary worlds, there is no equivalent method for taking them away from such worlds unless the entire planet is to be emptied, in which event emergency installation of the dematerialization technique is made for the entire salvable population. (51:2.3)
 Adam and Eve dematerialized on Jerusem, being seen off by their children, falling asleep and waking up when they were rematerialized on Urantia, ten days after their arrival (74:0.1) (74:1.5)
@@ -601,7 +601,7 @@ demigods were entities in Hindu theology (94:4.7)
 
 democracy | | government:democracy | | OK
 
-demon possession; spirit possession; influence of devils; demoniac possession; demoniacal possession | (138:4.3) | midwayers | | OK
+demon possession; spirit possession; influence of devils; demoniac possession; demoniacal possession; possessed by one; possess the feeble- and evil-minded | (138:4.3) | midwayers | | OK
 disharmonious spirits only existed after Caligastic rebellion (87:4.7)
 The Jewish traditions of heaven and hell and the doctrine of devils were principally derived from the Zoroastrians during the times when the Jews were under the political and cultural dominance of the Persians. (95:6.6)
 in olden times anything abnormal was ascribed to spirit possession, any striking mental or physical abnormality constituted qualification for being a medicine man. (90:1.2)
@@ -646,7 +646,7 @@ The mass of your sun is slightly greater than the estimate of your physicists, w
 nonsolid suns can attain a density equal to iron — about the same as Urantia. Most of the suns, however, are not so dense. One of our nearer neighbours has a density equal to that of our atmosphere, and Veluntia, one of the largest in Orvonton, has a density only 0.001 that of Urantia’s atmosphere. (41:4.3)
 The lava layers of the earth’s crust, when cooled, form granite. The average density of Urantia is a little more than 5.5 times that of water; the density of granite is less than 3 times that of water. The earth’s core is 12 times as dense as water. (58:5.5)
 
-denunciations | | | | OK
+denunciations; denounced | | | | OK
 Jesus denounced scribes, Pharisees, and hypocrites (163:6.5) (166:1.4-5) (175:1) (175:4.2)
 Jesus spent little time in negative denunciations. Jesus’ antagonism to the Jewish traditions and slavish ceremonials was always positive. (147:6.6)
 John the Baptist denounced Herod Antipas and the religious leaders (135:10.2)
@@ -669,8 +669,8 @@ Van had to face many desertion in the workers who prepared the Garden of Eden (7
 after the episode in which the crowd tried to proclaim Jesus as king, the disappointment caused by Jesus was so great that many of the followers turned back and followed him no more from that day (152:3)
 If loyalty is desirable then must man carry on amid the possibilities of betrayal and desertion. (3:5.12)
 
-designers and embellishers | | celestial artisans | ORDER | OK
-The Designers and Embellishers are a group belonging to the Celestial Artisans who are organized into the following corps:
+designers and embellishers; artisans | | celestial artisans | ORDER | OK
+The Designers and Embellishers are a group belonging to the Celestial Artisans who are organized into the following corps: (44:6.1-2)
 # craftworkers of color (44:6.3)
 # sound designers (44:6.4)
 # emotion designers (44:6.5)
@@ -766,17 +766,19 @@ devotion | | loyalty | | OK
 Devouress | | | PERSON | OK
 Egyptian religion consigned deficient souls to the Devourer, hell (95:2.9)
 
-dew point | (46:2.2) | | | 
+dew point | | | | OK
+The dew point is higher on a three-gas world like the architectural worlds that await us after death than on a two-gas planet like Urantia. (46:2.2)
 
 dialects; dialect | | language | | OK
 Primitve and suspicious races that speak a different dialect every 40 or 50 miles (68:1.6)
 The origin of dialects is illustrated by the indulgence in “baby talk” in a family group. (81:6.17-18)
 
-diamonds | (63:5.6) | | | 
+diamonds | | | | OK
+For the Andonites, flint was as valuable as diamonds are for modern men. (63:5.6)
 
 dictation | | records | | OK
 
-dictators | | government:believers’ relation to | | OK
+dictators; dictator | | government:believers’ relation to | | OK
 In the long struggle in ancient times between division of authority and unity of command, the dictator won. (70:12.2)
 men should prevent control by ambitious and clever would-be dictators (70:12.12)
 So long as the rulers of earthly governments seek to exercise the authority of religious dictators, believers of the gospel can expect only trouble, persecution, and even death. (178:1.9)
@@ -849,7 +851,7 @@ Dilmun | | | PLACE | OK
 After the submergence of Dalamatia the Nodites moved north and east, presently founding the new city of Dilmun as their racial and cultural headquarters. Bablot, the builder of the tower of Babel, wanted the monument to be erected in Dilmun, but another site was eventually found. (77:3.1-2)
 The Egyptians called this city of ancient glory Dilmat, while the later Adamized Sumerians confused both the first and second Nodite cities with Dalamatia and called all three Dilmun. (77:4.8-9)
 
-dinosaurs | | | | OK
+dinosaurs; dinosaur | | | | OK
 dinosaurs were egg layers and are distinguished from all animals by their small brains, having brains weighing less than one pound to control bodies later weighing as much as 40 tons. (60:1.10)
 rapidly evolving reptilian dinosaurs soon became the monarchs of this age. They appear 120 million years ago. The largest of the dinosaurs originated in western North America. Land-animal life reached its greatest development, in point of size, and had virtually perished from the face of the earth by the end of this age. (60:1.10) (60:2.1-6,10)
 largest dinosaurs lived in Rocky Mountains (60:2.2)
@@ -882,7 +884,7 @@ Observation of the so-called Milky Way discloses the comparative increase in Orv
 directional control creatures | | | | OK
 In Salvigton there are directional control creatures of the local universe, the living compasses of the headquarters world. (34:4.12-13)
 
-directors of assignment | | seraphim | ORDER | OK
+directors of assignment; Directors of Assignment | | seraphim | ORDER | OK
 Directors of Assignment is the highest angelic council on any sphere, a body of 144 supreme seraphim, and it co-ordinates the self-directed phases of seraphic service and assignment. (39:1.16)
 
 directors of conduct; Directors of Conduct | (27:4) | | ORDER | OK
@@ -931,7 +933,7 @@ this secoraphic discerners reflect knowledge of Mother Spirit (28:5.22)
 The discerners can and do reflect the presence of the Adjusters (and the Censors pronounce them divine), but they cannot decipher the content of the mindedness of the Mystery Monitors. (28:5.22)
 They are the only seconaphim attached to the Universal Censors but are probably the most uniquely specialized of all their fellows. (28:5.19-22)
 
-disciples; disciple | | apostleship; faith sons of God | | OK
+disciples; disciple; discipleship | | apostleship; faith sons of God | | OK
 Jesus requires the life of his disciples, even a life of loving service (191:5.3)
 Jesus subjected disciples to repeated rehearsals in disappointment and provided them with frequent and testing opportunities for choosing between the right and the wrong way of meeting spiritual trials (153:1.3)
 disciples may return home to minister to loved ones, but it is not so with the messengers of the gospel. The latter han forsaken all to follow Jesus and proclaim the kingdom (163:2.2)
@@ -946,7 +948,7 @@ disciples versus apostles: (140:6.9-13)
 * the requirements of apostleship are harder than the less rigorous pathway of discipleship
 we are Jesus’ disciples if we do Father’s will, love one another (102:6.7) (162:7.2) (180:1.1) (180:2.1) (191:4.3)
 
-discipline; Discipline | | child-rearing; punishment | | OK
+discipline; Discipline; disciplined | | child-rearing; punishment | | OK
 early war imposed discipline and enforced co-operation. (70:2.4)
 errant Melchizedeks are purged with a correctional rest (35:2.8)
 We are all a part of the family of God, and we must therefore sometimes share in the family discipline. (3:2.9)
@@ -974,7 +976,7 @@ Jesus
 disclosure | | secrecy; censorship | | OK
 Working for full disclosure and unlimited opportunity for sin-expression is the quickest technique of achieving the perfect and final cure of the plague of evil and sin. (54:5.9-12)
 
-discouragement; discouraged | | disappointment | | OK
+discouragement; discouraged; Discouragement | | disappointment | | OK
 Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. (196:3.33)
 Do not become discouraged by the discovery that you are human. (156:5.8)
 Confusion, being puzzled, even sometimes discouraged and distracted, does not necessarily signify resistance to the leadings of the indwelling Adjuster. (110:3.5)
@@ -993,7 +995,7 @@ true wisdom embraces discretion as well as courage (181:2.15,21,27)
 
 discrimination | | intolerance | | OK
 
-disease; diseases; disease-causing; Disease; sickness; physical disorder | | healing; health; injury; medicine; sick | | OK
+disease; diseases; disease-causing; Disease; sickness; physical disorder; illnesses; disease-producing | | healing; health; injury; medicine; sick | | OK
 The Father works to improve our earthly state. If we could all be healed of our diseases, we would indeed marvel, but it is even greater to be cleansed of all spiritual disease and be healed of all moral infirmities. (147:3.3)
 painful illnesses and world-wide scourges, as time passes, always work out for the welfare and progress of the universes (10:7.5-6)
 pain is an inevitability in a world that seeks attain the satisfaction of hapiness (3:5.14)
@@ -1054,7 +1056,7 @@ dissolution | | extinction | | OK
 
 distances (astronomic) | | light-years | | OK
 
-distractions; diverted | | | | OK
+distractions; diverted; distracted; distracting details; trifles | | | | OK
 Jesus recommended his disciples to avoid loss of time through overmuch social visiting and other trivialities which might detract from wholehearted devotion to preaching the gospel. (163:4.5)
 Confusion, being puzzled, even sometimes discouraged and distracted, does not necessarily signify resistance to the leadings of the indwelling Adjuster. (110:3.5)
 we all have lives to live in accordance with the will of God, and at all times when we seek to escape the present duty of living by running away to far-off enticements, we thereby put ourselves in the immediate control of those influences which are not directed by the powers of truth and the forces of righteousness. (130:1.2)
@@ -1068,7 +1070,7 @@ distress | | sorrow | | OK
 Dium | | | PLACE | OK
 Jesus, the twelve apostles, the twelve evangelists and an additional group of evangelists, preached in this city during his second tour of the Decapolis, between August 18 and September 16 of the year 29 (159:0.2)
 
-diversity; versatility; DIVERSITY; divergencies | | spiritual unity; tolerance | | OK
+diversity; versatility; DIVERSITY; divergencies; diversification; Variety | | spiritual unity; tolerance | | OK
 The differences of nature, reaction, viewpoint, and thinking between men and women, far from occasioning concern, should be regarded as highly beneficial to mankind, both individually and collectively. Such dual associations greatly multiply versatility and overcome inherent limitations (84:6.5-6)
 Without co-ordinate existences there is no possibility for the appearance of diversity of absolute relationships, no chance for the operation of differentials, variables, modifiers, attenuators, qualifiers, or diminishers. (104:3.4)
 While infinity is on the one hand UNITY, on the other it is DIVERSITY without end or limit. (115:3.4)
@@ -1088,7 +1090,8 @@ tolerance of diversity
 Dives | | | | OK
 Dives is the wealth man in Nazarite parable of Lazarus and Dives, a warning to those who love riches and covet dishonest wealth (169:3)
 
-dividing the inheritance | (165:4) | | | 
+dividing the inheritance; divide this inheritance | | | | OK
+While the apostles were baptizing believers, Jesus spoke to those who remained. A young man asked Jesus to intervene in a dispute over inheritance with his brother. Jesus used this opportunity to teach about the dangers of greed and the importance of spiritual wealth. He told the parable of a rich man who stored up earthly wealth but neglected his spiritual life, only to lose everything when he died suddenly. Jesus emphasized that wealth itself is not a sin, but the love of wealth can blind one to spiritual realities. He concluded by stating that wealth should be used responsibly and generously, and that one's true treasure should be in heaven. (165:4)
 
 divination; Divination; divining rod | | | | OK
 Divination was simply an attempt to avoid trouble. (87:5.14)
