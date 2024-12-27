@@ -45,11 +45,11 @@
 						},
 						{
 							"name": "entity.name.item3.urantiapedia",
-							"match": "(?<=\\|)\\s*(?!\\b(PERSON|PLACE|ORDER|RELIGION)\\b)[^|()\\s][^|()]*[^|()\\s](?:\\s*\\([a-zA-Z'\\s]+\\))?\\s*(?=\\|)"
+							"match": "(?<=\\|)\\s*(?!\\b(PERSON|PLACE|ORDER|RACE|RELIGION)\\b)[^|()\\s][^|()]*[^|()\\s](?:\\s*\\([a-zA-Z'\\s]+\\))?\\s*(?=\\|)"
 						},
 						{
 							"name": "entity.name.item4.urantiapedia",
-							"match": "(?<=\\|)\\s*\\b(PERSON|PLACE|ORDER|RELIGION)\\b\\s*(?=\\|)"
+							"match": "(?<=\\|)\\s*\\b(PERSON|PLACE|ORDER|RACE|RELIGION)\\b\\s*(?=\\|)"
 						},
 						{
 							"name": "entity.name.item5.urantiapedia",
