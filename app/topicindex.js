@@ -370,7 +370,7 @@ class TopicIndex {
 		}
 		if (this.language === "fr") {
 			extendArray(names, names
-				.map(i => ['L','l','D','d','qu'].map(j => `${j}’${i}`))
+				.map(i => ['L','l','D','d','qu','s'].map(j => `${j}’${i}`))
 				.flat()
 			);
 		}

@@ -16,7 +16,7 @@ eagles | (61:2.12) | | | OK
 eagles descended from enormous ancient reptiles (65:2.9)
 Quoted in Salem teachings: “Those who wait upon the Lord shall renew their strength; they shall mount up with wings as eagles” (97:7.8)
 
-earning a living | | achievement; careers; initiative; labor; overspecialization; poverty; unemployment; wealth | | OK
+earning a living; making a living; making a temporal living; Economic necessities; economic necessity; necessities of life | | achievement; careers; initiative; labor; overspecialization; poverty; unemployment; wealth | | OK
 Economic necessities tie man up with reality, and personal religious experience brings this same man face to face with the eternal realities of an ever-expanding and progressing cosmic citizenship. (99:7.5)
 men and women become confused in their efforts to understand themselves and to grapple with the manifold difficulties of making a living in a world so largely dominated by selfishness and sin. (133:3.7)
 personal earnings may be used as one sees fit (132:5.12,24)
@@ -36,7 +36,7 @@ Jesus
 
 earth | | Urantia | | OK
 
-earthquakes | (59:3.6) | | | OK
+earthquakes; earthquake | (59:3.6) | | | OK
 the age of earthquakes happened from 1 billion to 650 million years ago (57:8.1-5,15-25)
 During the earlier ages of a new world, earthquakes are frequent, and they are all characterized by great physical disturbances; especially is this true of the gas-contraction spheres, the worlds born of the immense nebular rings which are left behind in the wake of the early condensation and contraction of certain individual suns. (41:10.4)
 the isthmus of Gibraltar, protecting the western basin of the Mediterranean, gave way as the result of an earthquake, quickly raising this inland lake to the level of the Atlantic Ocean.  (80:2.4)
@@ -48,7 +48,8 @@ Remarkable events
 	Jesus advised his disciples not to worry about famines or earthquakes (176:1.1)
 > https://en.wikipedia.org/wiki/Earthquake
 
-earthworms | (65:2.5) | | | 
+earthworms | | | | OK
+Worms and leeches, closely related groups, appeared by evolution along with other primitive animals like starfish, sea urchins, and crustaceans. (65:2.5)
 
 ease | | idleness; indolence; leisure; relaxation | | OK
 To accept the guidance of a seraphim rarely means attaining a life of ease. (113:4.3)
@@ -64,7 +65,9 @@ Easter Island | | | PLACE | OK
 Easter Island was long a religious and administrative center of one group of Andite-modified Polynesians (78:5.7)
 > https://en.wikipedia.org/wiki/Easter_Island
 
-Eastern Ghats | (79:3.6) | | PLACE | 
+Eastern Ghats | | | PLACE | OK
+ The Eastern Ghats are home to three major rivers that flow through them towards the sea, supporting Dravidian cultural centers in the Deccan. (79:3.6)
+> https://en.wikipedia.org/wiki/Eastern_Ghats
 
 eating | | food | | OK
 
@@ -86,10 +89,11 @@ as other Wisdom Books like Wisdom of Salomon, exemplifies Platonism and Stoicism
 The frank pessimism of Ecclesiastes was a worldly wise reaction to these overoptimistic beliefs in Providence. (97:8.2)
 > https://en.wikipedia.org/wiki/Ecclesiastes
 
-ecclesiasticism | | priests | | OK
+ecclesiasticism; Ecclesiasticism | | priests | | OK
 Ecclesiasticism is at once and forever incompatible with that living faith, growing spirit, and firsthand experience of the faith-comrades of Jesus in the brotherhood of man in the spiritual association of the kingdom of heaven. (195:10.8)
 
-echinoderms | (59:3.11) (59:5.8) | | | 
+echinoderms | | | | OK
+Towards the end of the last Silurian submergence, echinoderms, particularly sea lilies, increased significantly, as evidenced by crinoid limestone deposits. Two groups of echinoderms developed particularly well and are considered guide fossils of this era. (59:3.11) (59:5.8)
 
 eclipses; eclipse | | | | OK
 The early Nordics thought that eclipses were caused by a wolf that devoured a portion of the sun or moon. (85:3.4)
@@ -162,7 +166,7 @@ At Edrei, where apostle Thomas and his associates preached, Jesus spent a day an
 One of the towns visited by Jesus, the twelve and the seventy, during the Perea mission between January 3, 30 until the death of Jesus (165:0.1)
 > https://en.wikipedia.org/wiki/Daraa
 
-education; educational growth | (71:7) | ignorance; knowledge; teachers | | OK
+education; educational growth; educated; Education; educational poverty; enlightenment; training; schooling; travel-training; educational | (71:7) | ignorance; knowledge; teachers | | OK
 Real educational growth is indicated by enhancement of ideals, increased appreciation of values, new meanings of values, and augmented loyalty to supreme values. (100:1.3)
 The mortal career, the soul’s evolution, is not so much a probation as an education. (111:3.5)
 Unless a free people are educated—taught to think intelligently and plan wisely—freedom usually does more harm than good. (71:2.11)
@@ -266,9 +270,10 @@ efficiency | | | | OK
 In the eternal economy of universe administration, wasteful and needless repetition of function is never encountered; the Deities are not given to useless duplication of universe ministry. (6:4.2)
 Health, mental efficiency, and happiness arise from the unification of physical systems, mind systems, and spirit systems. (100:4.3)
 
-effigies | (88:5.3) | | | 
+effigies; Effigies | | | | OK
+Effigies were believed to be effective in magic. They were made and treated well or poorly to affect the real person they represented. (88:5.3)
 
-effort; Effort | | action | | OK
+effort; Effort; efforts; effortlessly | | action | | OK
 the ascending pilgrims discover what true study and real mental effort mean as they begin to discern the nature of the still-more-taxing and far-more-arduous spiritual exertion in Havona (26:7.1)
 Effort and decision are an essential part of the acquirement of survival values. (50:6.3)
 Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. (100:4.2)
@@ -281,7 +286,7 @@ Self-importance, not work-importance, exhausts immature creatures; it is the sel
 
 ego | | self | | OK
 
-egocentricity; egocentric | | selfishness | | OK
+egocentricity; egocentric; ego | | selfishness | | OK
 While your religion is a matter of personal experience, it is most important that you should be exposed to the knowledge of a vast number of other religious experiences to the end that you may prevent your religious life from becoming egocentric—circumscribed, selfish, and unsocial. (103:1.3)
 Jesus was free of egocentricity. In a religious genius, strong spiritual faith so many times leads directly to disastrous fanaticism, to exaggeration of the religious ego, but it was not so with Jesus. (196:0.6)
 
@@ -375,13 +380,13 @@ One of the towns visited by Jesus, the twelve and the seventy, during the Perea 
 
 elections | | government; suffrage | | OK
 
-electricity | | | | OK
+electricity; electric; electrical | | | | OK
 The electronic charge creates an electric field; movement gives rise to an electric current; the current produces a magnetic field. (42:5.8)
 light and electricity are not the basic energies of space; they are secondary and subsidiary manifestations. (41:1.2)
 Light, heat, electricity, magnetism, chemism, energy, and matter are—in origin, nature, and destiny—one and the same thing, together with other material realities as yet undiscovered on Urantia. (42:4.1-2)
 Scientists may some day measure the energy, or force manifestations, of gravitation, light, and electricity, but these same scientists can never scientifically tell you what these universe phenomena are. (133:5.4)
 
-electrons; electron | (42:3.5) | atoms; matter; gravita | | OK
+electrons; electron; electronic | (42:3.5) | atoms; matter; gravita | | OK
 Mutual attraction holds one hundred ultimatons together in the constitution of the electron; and there are never more nor less than one hundred ultimatons in a typical electron. (42:3.3) (42:4.6) (42:6.4-5)
 there are ten modified forms of the electron caused by losses of ultimatons (42:6.5)
 35,000,000°F of heat, in association with certain gravity pressures, as the electronic boiling point. (41:7.4,12,13)
@@ -464,7 +469,7 @@ Elihu | | | PERSON | OK
 Eliju was an extraordinary prophet of Ur and Salemite priest; he preached a hopeful message of salvation such as had not been heard in the Levantine world (96:7.7)
 > https://en.wikipedia.org/wiki/Elihu_(Job)
 
-Elijah Mark | | | PERSON | OK
+Elijah Mark; Elijah | | | PERSON | OK
 Elijah Mark was the father of John Mark, the famous follower of Jesus; he was the husband of Mary Mark (182:0.1)
 his home in Jerusalem was a regular meeting place for believers (187:6.2) (188:3.2) (189:4.1,13)
 The last supper of Jesus and his apostles took place in an upper room of the house of Elijah Mark (179:1.2)
@@ -502,7 +507,7 @@ Elisha was a faithful collaborator of the prophet Elijah (97:2.2)
 
 Elizabeth (mother of John the Baptist); Elizabeth | (135:0-4) | | PERSON | OK
 Elizabeth was a distant cousin of Mary, the mother of Jesus (122:2.1,6)
-she was a descendant of Aaron's daughters (135:0.4) | Aaron's daughters
+she was a descendant of Aaron's daughters (135:0.4) | daughters of Aaron
 Gabriel first appeared to Elizabeth to announce her pregnancy (122:2)
 Mary visited her while pregnant (122:2.6)
 Elizabeth believed that Jesus would become the Messiah (122:8.4)
@@ -584,14 +589,14 @@ Jesus
 particular emotions
 	See below links to different types of emotions | adventure; affectation; affection; anger; anxiety; assurance; blame; boredom; brooding; brotherhood (attitude); certainty; charity; complaining; confusion; contention; courage; courtesy; cowardice; curiosity; defeat; depression; despair; disappointment; discouragement; encouragement; enthusiasm; envy; equivocation; honor; hopes; hypocrisy; hysteria; immaturity; impatience; indolence; inferiority; insecurity; insubordination; intolerance; isolation; jealousy; joy; long-suffering; loneliness; love; loyalty; lust; meekness; moderation; modesty; paralysis; patience; persistence; pessimism; piety; poise; pride; procrastination; propriety; recklessness; resentment; revenge; ridicule; self-abasement; self-confidence; self-deception; self-denial; self-gratification; self-importance; self-pity; self-respect; selfishness; shame; sorrow; suspicion; sympathy; tenderness; tolerance; unhappiness; vanity; zeal
 
-emperor worship | | Roman Empire | | OK
+emperor worship; Emperor worship | | Roman Empire | | OK
 emperor worship, that deification of man as the symbol of the state, was very seriously resented by the Jews and the early Christians and led directly to the bitter persecutions of both churches by the Roman government. (121:5.4)
 The “national religions” are nothing more than a reversion to the early Roman emperor worship and to Shinto—worship of the state in the imperial family. (92:6.20)
 Pilate tried to regain this lost prestige an put on the walls the shields of the emperor, such as were commonly used in Caesar worship (185:1.3-4)
 
 employment | | labor | | OK
 
-emptiness; empty | | | | OK
+emptiness; empty; Emptiness | | | | OK
 Throughout all organized space there are gravity-responding energy currents, power circuits, and ultimatonic activities, as well as organizing electronic energies. Practically speaking, space is not empty. Emptiest space has 100 ultimatons per cubic inch (42:4.6)
 Emptiness does have its virtue, for it may become experientially filled. (117:2.8)
 
@@ -604,11 +609,11 @@ enchanters | | shamans | | OK
 encouragement | | | | OK
 The divine Spirit is the source of continual ministry and encouragement to the children of men. (34:6.5)
 
-end | | | | OK
+end; unending | | | | OK
 In the realms of knowledge, omniscience, we cannot distinguish between the First and Second Sources; like the Father, the Son knows all; he is never surprised by any universe event; he comprehends the end from the beginning. (6:4.7)
 From a circumscribed view there are, indeed, many ends, many terminations of activities, but from a larger viewpoint on a higher universe level, there are no endings, merely transitions from one phase of development to another. (115:3.17-18)
 
-end of the world; end of the age | | | | OK
+end of the world; end of the age; age ends | | | | OK
 taught the Jewish apocalyptists, Israel should take heart; the days of their affliction were almost over; the discipline of God’s chosen people was about finished; God’s patience with the gentile foreigners was about exhausted. The end of Roman rule was synonymous with the end of the age and, in a certain sense, with the end of the world. (135:5.2-5)
 For two and a half years John the Baptist lived at Engedi, and he persuaded most of the brotherhood that “the end of the age was at hand”; that “the kingdom of heaven was about to appear. (135:4.3)
 many followers of Jesus interpreted his predictions concerning the destruction of the temple in Jerusalem as the "end of the world", the reappearing of the Messiah and the establishment of the New Jerusalem (176:1.6) (176:4.2)
@@ -625,11 +630,11 @@ Joseph father of Jesus worked at Endor (123:3.8)
 King Saul used the services of a witch from Endor to allegedly communicate with the spirit of the late prophet Samuel (146:7.1)
 > https://en.wikipedia.org/wiki/Endor_(village)
 
-endowments; endowed | | inheritance | | OK
+endowments; endowed; endowment | | inheritance | | OK
 Spirit of Truth endows us with the power of the certain and joyous performance of the gracious, acceptable, and perfect will of God (143:2.4)
 Time is the one universal endowment of all will creatures; it is the “one talent” intrusted to all intelligent beings. (28:6.9)
 
-ends versus means; end; ends | | | | OK
+ends versus means; end; ends; means to an end; means of attaining indiscriminate ends; means and ends; means to an end | | | | OK
 Everything nonspiritual in human experience, excepting personality, is a means to an end. (112:2.8) (112:5.22)
 Intelligence alone can discriminate as to the best means of attaining indiscriminate ends, but a moral being possesses an insight which enables him to discriminate between ends as well as between means. (16:7.4-10) (160:4.11)
 Jesus never did he resort to ignoble tactics in meeting the continuous pressure of his enemies, who did not hesitate to employ every sort of false, unfair, and unrighteous mode of attack upon him. (149:4.5) (173:2.7)
@@ -645,10 +650,10 @@ Prayer may be an angry cry for vengeance or a merciful intercession for one’s 
 Said Jesus: “When an enemy smites you on one cheek, do not stand there dumb and passive but in positive attitude turn the other; that is, do the best thing possible actively to lead your brother in error away from the evil paths into the better ways of righteous living.”  (159:5.9)
 The wise man is a noble soul who is friendly in the midst of his enemies, tranquil among the turbulent, and generous among the grasping. (131:3.6)
 
-enemy | | Caligastia; devil; Lucifer | PERSON | OK
+enemy; the enemy of the kingdom | | Caligastia; devil; Lucifer | PERSON | OK
 This is an appellation once used by Jesus for Caligastia; he warned the apostles that he would try to separate them from each other (138:7.3)
 
-energy; Energy-matter | (42:2) | light; material energy; matter | | OK
+energy; Energy-matter; force-energy | (42:2) | light; material energy; matter | | OK
 definition
 	In The Urantia Book the word energy is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the postgravity, stages of energy. (42:2.1)
 	the three original phases of divine energy are the physical, the mindal, and the spiritual energy (44:5.5)
@@ -783,7 +788,7 @@ unknown forms of energy
 
 energy controllers | | Master Physical Controllers; Universe Power Directors | | OK
 
-energy manipulators | | celestial artisans | ORDER | OK
+energy manipulators; Physical-energy manipulators; Mind-energy manipulators; Spiritual-energy manipulators | | celestial artisans | ORDER | OK
 energy manipulators are the fifth group of celestial artisans. They are divided in following types: (44:5.1-10)
 # physical-energy manipulators
 # mind-energy manipulators
@@ -797,7 +802,7 @@ energy-matter | | energy; material energy; physical energy | | OK
 
 energy shields | | friction shields | | OK
 
-energy transformers | | Master Physical Controllers; Universe Power Directors | ORDER | OK
+energy transformers; Energy Transformers | | Master Physical Controllers; Universe Power Directors | ORDER | OK
 The number of these beings in a superuniverse is unbelievable. There are almost 1,000,000 in Satania alone, and the usual quota is 100 for each inhabited world. (29:4.22)
 events they enabled
 	the physical controllers arranged what was necessary so that the apostles could see the transfiguration of Jesus on Mount Hermon (158:1.8)
@@ -824,7 +829,7 @@ nature
 	they are semimaterial and somewhat personal (29:4.16-18)
 	they are one type of Master Physical Controller (29:4.7)
 
-energy transmitters | | Master Physical Controllers; Universe Power Directors | ORDER | OK
+energy transmitters; Energy transmitters; Energy Transmitters | | Master Physical Controllers; Universe Power Directors | ORDER | OK
 functions
 	a battery of one thousand energy transmitters provides the initial momentum for the seraphic departure. (29:4.19) (39:5.14)
 	the Constellation Fathers dispached a resolution supporting Van against Lucifer's rebellion but the verdict failed to reach Van because the order had been blocked in a relay energy transmitter due to Urantia's isolation. Energy transmitters can receive and transmit intelligence, but they cannot initiate communication. (67:2.2) (67:6.9)
@@ -849,10 +854,11 @@ Engedi waas the southern headquarters of Nazarites and other ascetic herdsmen (1
 England | | British Isles | PLACE | OK
 England, Scotland, and Wales were always fighting each other until they gave up their respective sovereignties, reposing them in the United Kingdom. (134:6.3)
 
-English Channel land bridge; land path from England; land bridge | (64:1.5-6) (64:2.6) | | PLACE | 
+English Channel land bridge; land path from England; land bridge | | | PLACE | OK
+During most of the glacial period, England was connected by land to France, forming a land bridge across the English Channel. (64:1.5-6) (64:2.6)
 
 English language; English tongue; English words | | | | OK
-revelators of Urantia revelations were instructed to use the English language (0:0.1-3) (31:10.23) (56:10.23)
+revelators of Urantia revelations were instructed to use the English language (0:0.1-3) (31:10.22) (56:10.23)
 
 enmity | | hatred | | OK
 
@@ -875,7 +881,7 @@ Ensa is our minor sector, the third in major sector of Splandon, that is compris
 Uminor the third, the headquarters of Ensa, is surrounded by seven spheres satellites (15:7.8)
 The rotational center of Ensa is situated far away in the enormous and dense star cloud of Sagittarius, around which your local universe and its associated creations all move, and from opposite sides of the vast Sagittarius subgalactic system you may observe two great streams of star clouds emerging in stupendous stellar coils. (15:3.5-11)
 
-enseconaphimation | | seraphic, secoraphic, and superaphic transport | | OK
+enseconaphimation; enseconaphim | | seraphic, secoraphic, and superaphic transport | | OK
 enseconaphimation is the process by which an ascending pilgrim is encased in a seconaphim for the long flight to Havona (112:7.5)
 
 enseraphimation | | seraphic, secoraphic, and superaphic transport | | OK
@@ -902,7 +908,7 @@ seraphim, Master Physical Controllers, and midwayers manipulate terrestial envir
 The mortals may differ greatly in innate abilities and intellectual endowment, they may enjoy environments exceptionally favorable to social advancement and moral progress, or they may suffer from the lack of almost every human aid to culture and advancement in the arts of civilization (5:1.4)
 But spiritual progress is opened to all regardless of environment (5:1.4-7)
 
-envy; Envy; covetousness | | jealousy; resentment | | OK
+envy; Envy; covetousness; envious | | jealousy; resentment | | OK
 when the acknowledgment of our difficulties entails the reduction of our long-cherished conceit, the admission of envy, or the abandonment of deep-seated prejudices, the average person prefers to cling to the old illusions of safety and to the long-cherished false feelings of security. (160:1.7)
 Envy is a deep-seated human trait; therefore did primitive man ascribe it to his early gods. (87:5.6)
 Only a moral conscience can condemn the evils of national envy and racial jealousy. (52:6.5)
@@ -942,7 +948,7 @@ This school of thought was dedicated to the pursuit of happiness. It did effectu
 Occidental religion thus languished until the days of the Skeptics, Cynics, Epicureans, and Stoics, but most important of all, until the times of the great contest between Mithraism and Paul’s new religion of Christianity. (98:6.2)
 > https://en.wikipedia.org/wiki/Epicureanism
 
-epileptics; epilepsy | | | | OK
+epileptics; epilepsy; epileptic | | | | OK
 epilepsy was confused in old times with demon possession (145:2.13)
 Jesus healed epileptics in Capernaum (145:2.12-14)
 Jesus healed James of Safed’s son, who was both epileptic and possessed by a real demon (158:4.2) (158:5)
@@ -956,8 +962,9 @@ The Epistle known as “First John” was written by John himself as a covering 
 
 epochal angels | | seraphim:types | ORDER | OK
 
-epochal revelations; epochal revelation | (92:4) (176:2.3) (189:3.3) | revelation | | OK
-There have been many events of religious revelation but only five of epochal significance. These were as follows:
+epochal revelations; epochal revelation; epochal significance | (92:4) (176:2.3) (189:3.3) | revelation | | OK
+Only two influences can modify and uplift the dogmas of natural religion: the pressure of the slowly advancing mores and the periodic illumination of epochal revelation. (92:3.5)
+There have been many events of religious revelation but only five of epochal significance. These were as follows: (92:4.4)
 # The first was Dalamatia teachings, performed by the 100 corporeal members of Prince Caligastia’s staff (92:4.5)
 # The second was Edenic teachings, by Adam and Eve and their descendants (92:4.6)
 # The third was the one from Melchizedek of Salem (92:4.7)
@@ -986,7 +993,7 @@ equalizations | | compensations | | OK
 equation | | | | OK
 We cannot pray to a chemical formula, supplicate a mathematical equation, worship a hypothesis, confide in a postulate, commune with a process, serve an abstraction, or hold loving fellowship with a law. Religious experience implies god, and such a God of personal experience must be a person. (102:7.3)
 
-equivocation | | | | OK
+equivocation; mistaken; misled | | | | OK
 One of the purposes of the morontia career is to effect the permanent eradication from the mortal survivors of such animal vestigial traits as procrastination, equivocation, insincerity, problem avoidance, unfairness, and ease seeking. (48:5.8)
 
 Erech | | | PLACE | OK
@@ -1057,7 +1064,7 @@ Esther | (150:3.1) | | PERSON | OK
 In honor of this woman and the liberation she brought, the Jewish festival of Purim was celebrated. (123:3.5)
 > https://en.wikipedia.org/wiki/Esther
 
-eternal life; Eternal life; life after death | | death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival (of mortal death) | | OK
+eternal life; Eternal life; life after death; eternal existence | | death; fusion; heaven; judgment; life; nonsurvivors; resurrection; salvation; survival (of mortal death) | | OK
 The presence of the Adjuster in the mind of man constitutes the revelation promise and the faith pledge of an eternal existence of divine progression (132:3.9)
 the attainment of immortality is achieved with the fusion with our Adjuster. After the fusion of the immortal morontia soul and the associated Adjuster, all of the experience and all of the values of the one eventually become the possession of the other, so that we two are actually one entity. (110:7)
 The Creator Sons in the Deity association of God the Sevenfold provide the mechanism whereby the mortal becomes immortal and the finite attains the embrace of the infinite. (0:8.11) (180:3.7)
@@ -1234,8 +1241,8 @@ Secrecy, insincerity, and hypocrisy may obscure sex problems, but they do not pr
 Man’s acquirement of ethical judgment, moral will, is usually coincident with the appearance of early language. (52:1.6)
 defined as
 	Ethic sensitivity is the sense of the eternal fitness of Deity relations with all beings (56:10.8)
-	external social mirror of internal spiritual developments (102:8.4)
-	Ethics is the external social or racial mirror which faithfully reflects the otherwise unobservable progress of internal spiritual and religious developments. (170:3.6)
+	Ethics is the eternal social or racial mirror that faithfully reflects the otherwise unobservable progress of internal spiritual and religious developments. (102:8.4)
+	To love one's neighbor as oneself is the highest ethics. (170:3.6)
 	Ethical obligations are innate, divine, and universal. (54:4.4)
 	the ethics of Paradise relationships are neither meaningless formalities nor the dictations of artificial castes but rather the inherent proprieties (27:4.1)
 	Ethical awareness is simply the recognition by any individual of the rights inherent in the existence of any and all other individuals. (27:3.1) (92:7.5)
@@ -1250,7 +1257,8 @@ Jesus and ethics
 	Jesus never concerned with ethics as such. He was wholly concerned with that inward and spiritual fellowship with God the Father which so certainly and directly manifests itself as outward and loving service for man. (170:3.8-9)
 	Greek philosophy, coupled with Paul’s theology, still forms the basis of European ethics. (98:7.10)
 
-etiquette | | | | OK
+etiquette; social conduct | | | | OK
+Methods of eating soon became taboo, and so originated ancient and modern table etiquette. (89:1.6)
 Morontia Companions are instructors of social conduct in tarrying worlds (48:3.11)
 Technical Advisors teach best and right way to do things (25:4.17)
 
@@ -1342,7 +1350,7 @@ The observer cannot be the thing observed; evaluation demands some degree of tra
 
 evangelism | | gospel:proclaiming | | OK
 
-evangelists | | disciples | PERSON | OK
+evangelists; evangelistic | | disciples | PERSON | OK
 they are a group of preachers ordained by Jesus and formed mainly from the original group of evangelists
 the selection committee for the original evangelists was composed of Peter, James, and Andrew; the method of the school of evangelists was to learn and practice (148:1.1)
 the period of preparation of the original evangelists took place in Bethsaida (148)
@@ -1396,7 +1404,7 @@ Events is the name Miguel adopted when he made his first donation as an ascendin
 
 eventuated transcendental beings | | Transcendentalers | ORDER | OK
 
-eventuation; eventuate | | reality:levels of reality:absonite reality; Transcendentalers | | OK
+eventuation; eventuate; eventuated  | | reality:levels of reality:absonite reality; Transcendentalers | | OK
 eventuation is the process by which transcendental beings are brought into existence. These “eventuators” are neither finite nor infinite—they are absonite; and absonity is neither infinity nor absoluteness. (30:1.92-99)
 These eventuated beings include the following orders:
 # The Architects of the Master Universe.
@@ -1634,7 +1642,7 @@ Children are permanently impressed only by the loyalties of their adult associat
 
 excitement | | emotions | | OK
 
-excommunication | | | | OK
+excommunication; excommunicated | | | | OK
 not only Jesus was denied entrance into all synagogues, but that all who believed in his teaching were likewise cast out of the synagogue, excommunicated from the congregation of Israel; and this meant denial of all rights and privileges of every sort throughout all Jewry except the right to buy the necessaries of life. (164:4.6)
 Josiah the blind was casted out of the synagogue (164:4.11) (164:5.4-5)
 Caiaphas called a meeting of the Sanhedrin to convene that action was taken to throw out of the synagogues any person who made mention of Jesus’ resurrection. (190:3.3)
@@ -1644,7 +1652,7 @@ excreta | | sanitation | | OK
 Secrecy attendant upon body elimination grew up out of fear that an enemy might get possession of something derived from the body and employ it in detrimental magic; all excreta of the body were therefore carefully buried. (88:5.1)
 Both food and water are fully utilized in the morontia body; there is no residual waste. (47:4.6)
 
-excursion and reversion supervisors | | | ORDER | OK
+excursion and reversion supervisors; Excursion and Reversion Supervisors | | | ORDER | OK
 The Morontia Companions are simply gracious hosts to those who are just beginning the long inward ascent. Excursion and Reversion Supervisors will accompany us on the longer trips to the headquarters sphere and to the surrounding worlds of transition culture. They plan, conduct, and supervise all such individual and group tours about the system worlds of training and culture. (25:7.1) (47:3.12) (48:3.14)
 
 executioners of Ancients of Days | | divine executioners | ORDER | OK
@@ -1653,7 +1661,8 @@ exhaustion | | fatigue; rest | | OK
 
 existential reality | | reality:levels of reality:existential reality | | OK
 
-Exodus | (145:2.2) | | | 
+Exodus | | | | OK
+The Book of Exodus is cited as one of the books that Jesus used in the book. (145:2.2)
 
 exogamy | | marriage | | OK
 
@@ -1706,7 +1715,7 @@ Andites never stopped until they had circumnavigated the globe and discovered th
 Commerce, linked with adventure, led to exploration and discovery. (69:4.8)
 On an average world the post-Adamic dispensation is an age of great invention, energy control, and mechanical development. This is the era of the appearance of multiform manufacture and the control of natural forces; it is the golden age of exploration and the final subduing of the planet.  (52:3.6)
 
-extension-school instructors | | | ORDER | OK
+extension-school instructors; Extension-school Instructors; Extension-School Instructors | | | ORDER | OK
 they appear in Uversa personality register (30:2.153)
 Extension-School Instructors are the teachers on the world just below, a sort of preparatory school for the progressing residents of that sphere; this is a phase of the ascendant scheme for advancing the pilgrims of time. These schools, their methods of instruction and examinations, are wholly unlike anything we do on Urantia. (30:3.8)
 

@@ -16,7 +16,7 @@ Dios mesopotámico del mar (95:1.4)
 Las águilas son descendientes de enormes reptiles antiguos (65:2.9)
 Citadas en una enseñanza de Salem : «Aquellos que esperan en el Señor renovarán su vigor; se elevarán con alas como las águilas» (97:7.8)
 
-ganarse la vida | | logro; carreras; iniciativa; labor; sobreespecialización; pobreza; desempleo; riqueza | | OK
+ganarse la vida; necesidades económicas; necesidades de la vida | | logro; carreras; iniciativa; labor; sobreespecialización; pobreza; desempleo; riqueza | | OK
 Las necesidades económicas atan al hombre a la realidad, y la experiencia religiosa personal conduce a este mismo hombre a enfrentarse con las realidades eternas de una ciudadanía cósmica en constante expansión y progreso. (99:7.5)
 los hombres y las mujeres se desconciertan muchas veces al esforzarse por comprenderse a sí mismos y luchar con las múltiples dificultades que encuentran para ganarse la vida en un mundo tan ampliamente dominado por el egoísmo y el pecado. (133:3.7)
 las ganancias personales pueden usarse como se crea conveniente (132:5.12,24)
@@ -36,7 +36,7 @@ Jesús
 
 La Tierra; la Tierra | | Urantia | | OK
 
-terremotos | (59:3.6) | | | OK
+terremotos; terremoto | (59:3.6) | | | OK
 la edad de terremotos ocurrió entre los 1.000 a 650 millones de años atrás (57:8.1-5,15-25)
 Durante los primeros tiempos de un mundo nuevo, los terremotos son frecuentes, y todos están caracterizados por grandes perturbaciones físicas; esto es especialmente así en las esferas surgidas de las contracciones gaseosas, los mundos nacidos de los inmensos anillos nebulares que son dejados atrás después de las primeras condensaciones y contracciones de ciertos soles individuales. (41:10.4)
 el istmo de Gibraltar, que protegía la cuenca occidental del Mediterráneo, se hundió a consecuencia de un terremoto, elevando rápidamente este lago interior hasta el nivel del Océano Atlántico. (80:2.4)
@@ -48,7 +48,8 @@ Sucesos notables
 	Jesús aconsejó a sus discípulos a no inquietarse por hambrunas o terremotos (176:1.1)
 > https://es.wikipedia.org/wiki/Terremoto
 
-lombrices de tierra | (65:2.5) | | | 
+gusanos | | | | OK
+Los gusanos y las sanguijuelas, grupos estrechamente emparentados, aparecieron por evolución junto con otros animales primitivos como las estrellas de mar, los erizos de mar y los crustáceos. (65:2.5)
 
 facilidad; vida cómoda; fácil | | ociosidad; indolencia; ocio; relajación | | OK
 Aceptar la guía de un serafín raras veces significa disfrutar de una vida cómoda. (113:4.3)
@@ -64,7 +65,9 @@ Isla de Pascua | | | PLACE | OK
 La Isla de Pascua fue durante mucho tiempo el centro religioso y administrativo de un grupo de polinesios anditas modificados (78:5.7)
 > https://es.wikipedia.org/wiki/Isla_de_Pascua
 
-Ghates orientales | (79:3.6) | | PLACE | 
+Ghates orientales | | | PLACE | OK
+Los Ghates orientales albergan tres grandes ríos que fluyen a través de ellos hacia el mar, apoyando los centros culturales dravidianos en el Decán. (79:3.6)
+> https://es.wikipedia.org/wiki/Ghats_orientales
 
 comiendo | | comida | | OK
 
@@ -76,7 +79,7 @@ Eber | | | PERSON | OK
 Eber era un oficial del sanedrín que fue enviado para arrestar a Jesús, negándose finalmente a hacerlo (162:2.6-9)
 se reunió con Jesús en la casa de Nicodemo (164:2.1)
 
-excentricidad; excéntrica | | | | OK
+excentricidad; excéntrica; excéntrico | | | | OK
 Jesús estaba libre de toda tendencia extravagante, errática y excéntrica. (100:7.3-4)
 Jesús exhortó a sus oyentes a que se esforzaran por ser originales, pero evitando toda tendencia a la excentricidad. Abogó por una simpatía desprovista de sentimentalismo, y por una piedad sin beatería. Enseñó un respeto libre del miedo y de la superstición. (149:4.4)
 
@@ -89,7 +92,8 @@ El pesimismo manifiesto del Eclesiastés fue una sabia reacción mundana contra 
 eclesiástico | | sacerdotes | | OK
 El poder eclesiástico es ahora y siempre incompatible con la fe viviente, el espíritu creciente y la experiencia de primera mano de los compañeros, por la fe, de Jesús en la fraternidad de los hombres, en la asociación espiritual del reino de los cielos. (195:10.8)
 
-equinodermos | (59:3.11) (59:5.8) | | | 
+equinodermos | | | | OK
+Hacia el final de la última inmersión silúrica, los equinodermos, particularmente los lirios de mar, aumentaron significativamente, como lo demuestran los depósitos de piedra caliza crinoidea. Dos grupos de equinodermos se desarrollaron particularmente bien y se consideran fósiles guía de esta era. (59:3.11) (59:5.8)
 
 eclipses; eclipse | | | | OK
 Los nórdicos primitivos pensaban que los eclipses eran causados por un lobo que devoraba una parte del Sol o de la Luna. (85:3.4)
@@ -162,7 +166,7 @@ En Edrei, donde predicaron el apóstol Tomás y sus compañeros, Jesús pasó un
 Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 > https://es.wikipedia.org/wiki/Daraa
 
-educación; desarrollo educativo | (71:7) | ignorancia; conocimiento; profesores | | OK
+educación; desarrollo educativo; educado; deficiencias intelectuales; instrucción; educativos; aprendido; educar; educativa | (71:7) | ignorancia; conocimiento; instructores | | OK
 El verdadero desarrollo educativo está indicado por el realce de los ideales, la apreciación creciente de los valores, los nuevos significados de los valores y una lealtad mayor a los valores supremos. (100:1.3)
 La carrera mortal, la evolución del alma, es no tanto un período de prueba como un período de educación. (111:3.5)
 A menos que un pueblo libre esté educado —que le hayan enseñado a pensar con inteligencia y a hacer proyectos con sabiduría— la libertad hace generalmente más daño que bien. (71:2.11)
@@ -266,7 +270,8 @@ eficiencia; eficacia | | | | OK
 En la eterna economía de la administración del universo nunca se encuentra una repetición de funciones derrochadora e innecesaria; las Deidades no son dadas a duplicar inútilmente su ministerio universal. (6:4.2)
 La salud, la eficacia mental y la felicidad resultan de la unificación de los sistemas físicos, de los sistemas mentales y de los sistemas espirituales. (100:4.3)
 
-efigies | (88:5.3) | | | 
+efigies | | | | OK
+Se creía que las efigies eran eficaces en la magia. Se hacían y se trataban bien o mal para afectar a la persona real que representaban. (88:5.3)
 
 esfuerzo; esfuerzos | | acción | | OK
 los peregrinos ascendentes descubren el significado que tiene el verdadero estudio y el auténtico esfuerzo mental cuando empiezan a discernir la naturaleza del esfuerzo espiritual aún más agotador y mucho más arduo en Havona (26:7.1)
@@ -281,7 +286,7 @@ El engreimiento, no la importancia del trabajo, agota a las criaturas inmaduras;
 
 ego | | el yo | | OK
 
-egocentrismo; egocéntrica  | | egoísmo | | OK
+egocentrismo; egocéntrica; ego | | egoísmo | | OK
 Aunque vuestra religión es un asunto de experiencia personal, es sumamente importante que lleguéis a conocer una gran cantidad de otras experiencias religiosas a fin de que podáis impedir que vuestra vida religiosa se vuelva egocéntrica — circunscrita, egoísta e insociable. (103:1.3)
 Jesús estuvo libre de egocentrismo. En un genio religioso, una poderosa fe espiritual conduce muchas veces directamente a un fanatismo desastroso, a la exageración del ego religioso, pero esto no le sucedió a Jesús. (196:0.6)
 
@@ -375,7 +380,7 @@ Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la 
 
 elecciones | | gobierno; sufragio | | OK
 
-electricidad | | | | OK
+electricidad; eléctrica | | | | OK
 La carga electrónica crea un campo eléctrico; el movimiento da nacimiento a una corriente eléctrica; la corriente produce un campo magnético. (42:5.8)
 la luz y la electricidad no son las energías fundamentales del espacio; son manifestaciones secundarias y subsidiarias. (41:1.2)
 La luz, el calor, la electricidad, el magnetismo, la química, la energía y la materia son —en su origen, su naturaleza y su destino— una sola y misma cosa, junto con otras realidades materiales aún no descubiertas en Urantia. (42:4.1-2)
@@ -464,7 +469,7 @@ Eliju | | | PERSON | OK
 Eliju fue un extraordinario profeta de Ur y sacerdote salemita; predicó un esperanzador mensaje de salvación como no se había oído en el mundo levantino (96:7.7)
 > https://en.wikipedia.org/wiki/Elihu_(Job)
 
-Elías Marcos | | | PERSON | OK
+Elías Marcos; Elías | | | PERSON | OK
 Elías Marcos era el padre de Juan Marcos, el famoso seguidor de Jesús; era esposo de María Marcos (182:0.1)
 su casa en Jerusalén fue un lugar habitual de reunión de creyentes (187:6.2) (188:3.2) (189:4.1,13)
 La última cena de Jesús y sus apóstoles tuvo lugar en un aposento elevado de la casa de Elías Marcos (179:1.2)
@@ -561,7 +566,7 @@ Emaús es una población a unos 11 km al oeste de Jerusalén. Allí vivían Cleo
 diseñadores de las emociones | | | ORDER | OK
 los diseñadores de las emociones forman parte del grupo de los Diseñadores y los Embellecedores dentro de los Artesanos Celestiales (44:6.5)
 
-emociones; emoción; excitación emocional | | sentimiento | | OK
+emociones; emoción; excitación emocional; emotivas | | sentimiento | | OK
 Cuando no es posible adorar a Dios en los tabernáculos de la naturaleza, los hombres deberían hacer todo lo posible por tener unas casas llenas de belleza, unos santuarios con una sencillez atrayente y una decoración artística, para que puedan despertarse las emociones humanas más elevadas en asociación con un acercamiento intelectual a la comunión espiritual con Dios. (167:6.6)
 Aunque la emoción, como factor en las decisiones humanas, no se puede eliminar por completo, los que quieran hacer progresar la causa del reino no deberían recurrir directamente a la emoción en sus enseñanzas. (152:6.3) (159:3.2) (160:3.1)
 Los absurdos de la vida onírica no demuestran solamente la presión de las emociones no expresadas, sino que también atestiguan que las representaciones de los conceptos espirituales presentados por los Ajustadores son horriblemente deformadas. (110:5.4)
@@ -582,9 +587,9 @@ Jesús
 	Jesús enseñó el recurso a las emociones como técnica para detener y concentrar la atención intelectual. (152:6.3-4)
 	Jesús experimentó un flujo y reflujo natural de emociones en las horas previas a su captura y ejecución (182:3.7)
 emociones particulares 
-	Ver más abajo enlaces a distintos tipos de emociones | aventura; afectación; afecto; enfado; ansiedad; seguridad; culpa; aburrimiento; cavilaciones; hermandad (actitud); certeza; caridad; quejumbroso; confusión; controversia; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; equívoco; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; compostura; orgullo; dilación; propiedad; temeridad; resentimiento; venganza; ridículo; auto-humillación; autoconfianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto por uno mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
+	Ver más abajo enlaces a distintos tipos de emociones | aventura; afectación; afecto; enfado; ansiedad; seguridad; culpa; aburrimiento; cavilaciones; hermandad (actitud); certeza; caridad; quejas; confusión; controversia; valor; cortesía; cobardía; curiosidad; derrota; depresión; desesperación; decepción; desánimo; ánimo; entusiasmo; envidia; ambigüedad; honor; esperanzas; hipocresía; histeria; inmadurez; impaciencia; indolencia; inferioridad; inseguridad; insubordinación; intolerancia; aislamiento; celos; alegría; longanimidad; soledad; amor; lealtad; lujuria; mansedumbre; moderación; modestia; parálisis; paciencia; persistencia; pesimismo; piedad; compostura; orgullo; dilación; propiedad; temeridad; resentimiento; venganza; ridículo; auto-humillación; autoconfianza; autoengaño; abnegación; autogratificación; importancia personal; autocompasión; respeto por uno mismo; egoísmo; vergüenza; dolor; sospecha; simpatía; sensibilidad; tolerancia; infelicidad; vanidad; celo
 
-adoración al emperador; adoración primitiva romana de los emperadores | | Imperio Romano | | OK
+adoración al emperador; adoración primitiva romana de los emperadores; adoración del emperador | | Imperio Romano | | OK
 la adoración al emperador, esa deificación del hombre como símbolo del Estado, indignaba profundamente a los judíos y a los primeros cristianos, y condujo directamente a las amargas persecuciones de las dos iglesias por parte del gobierno romano. (121:5.4)
 Las «religiones nacionales» no son más que una reversión a la adoración primitiva romana de los emperadores, y al sintoísmo —la adoración del Estado en la familia imperial. (92:6.20)
 Pilatos trató de recuperar su prestigio perdido colocando los escudos del emperador, como los que se empleaban generalmente para adorar al César (185:1.3-4)
@@ -604,11 +609,11 @@ encantadores | | chamanes | | OK
 ánimo; estímulo | | | | OK
 El Espíritu divino es la fuente de un ministerio y de un estímulo continuos para los hijos de los hombres. (34:6.5)
 
-final; el fin | | | | OK
+final; el fin; interminable | | | | OK
 En los dominios del conocimiento, de la omnisciencia, no podemos distinguir entre las Fuentes Primera y Segunda; al igual que el Padre, el Hijo lo sabe todo; ningún acontecimiento del universo le coge nunca por sorpresa; comprende el fin desde el principio. (6:4.7)
 Desde una visión circunscrita, existen en realidad muchas finalizaciones, muchas terminaciones de actividad, pero desde el punto de vista más amplio de un nivel superior del universo, no hay nada que termine, sino simplemente transiciones entre una fase de desarrollo y la siguiente. (115:3.17-18)
 
-fin del mundo; fin de la era | | | | OK
+fin del mundo; fin de la era; termine la era | | | | OK
 según enseñaban los apocalípticos judíos Israel debía recobrar el ánimo; los días de su aflicción casi habían terminado; el castigo disciplinario del pueblo elegido de Dios estaba llegando a su fin; la paciencia de Dios con los extranjeros gentiles se estaba agotando. El final del poder de Roma era sinónimo del final de la era y, en cierto sentido, del fin del mundo. (135:5.2-5)
 Juan el Bautista vivió en En-Gedi durante dos años y medio, y persuadió a la mayoría de la hermandad de que «se acercaba el fin de la era», de que «el reino de los cielos estaba a punto de aparecer». (135:4.3)
 muchos seguidores de Jesús interpretaron sus predicciones relativos a la destrucción del templo de Jerusalén con el «fin del mundo», la reaparición del Mesías y el establecimiento de la Nueva Jerusalén (176:1.6) (176:4.2)
@@ -629,7 +634,7 @@ dotaciones; dotados; dotación | | herencia | | OK
 El Espíritu de la Verdad nos dota con el poder de ejecutar, con certeza y alegría, la voluntad misericordiosa, aceptable y perfecta de Dios (143:2.4)
 El tiempo es la única dotación universal común para todas las criaturas volitivas; es el «talento» que ha sido confiado a todos los seres inteligentes. (28:6.9)
 
-fines versus medios; fin; fines | | | | OK
+fines versus medios; fin; fines; medio para conseguir un fin; medios de conseguir unos fines; los medios y los fines; medio para conseguir un fin | | | | OK
 Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. (112:2.8) (112:5.22)
 La inteligencia por sí sola puede discernir los mejores medios de conseguir unos fines indistintos, pero un ser moral posee una perspicacia que le permite distinguir entre los fines así como entre los medios. (16:7.4-10) (160:4.11)
 Jesús nunca recurrió a tácticas indignas para enfrentarse a la continua presión de sus enemigos, que no dudaban en emplear todo tipo de mentiras, de injusticias y de iniquidades en sus ataques contra él. (149:4.5) (173:2.7)
@@ -645,10 +650,10 @@ La oración puede ser un grito airado de venganza, o una intercesión misericord
 Dijo Jesús: «Si un enemigo te golpea en una mejilla, no te quedes allí mudo y pasivo, sino que adopta una actitud positiva y ofrécele la otra; es decir, haz activamente todo lo posible por sacar del mal camino a tu hermano equivocado, y llevarlo hacia los mejores senderos de una vida recta». (159:5.9)
 El hombre sabio es un alma noble que sabe ser amistosa en medio de sus enemigos, tranquila entre los turbulentos y generosa entre los avariciosos. (131:3.6)
 
-el Enemigo | | Caligastia; diablo; Lucifer | PERSON | OK
+el Enemigo; el enemigo del reino | | Caligastia; diablo; Lucifer | PERSON | OK
 Esta es una denominación que alguna vez usó Jesús para Caligastia; advirtió a los apóstoles que intentaría separarlos entre sí (138:7.3)
 
-energía; energéticos; energía-materia | (42:2) | luz; energía material; materia | | OK
+energía; energéticos; energía-materia; energía-fuerza | (42:2) | luz; energía material; materia | | OK
 definición
 	en El Libro de Urantia la palabra energía se utiliza para designar todas las fases y formas del movimiento, la acción y el potencial fenoménicos, mientras que fuerza se aplica a las fases de la energía anteriores a la gravedad, y poder a las fases de la energía posteriores a la gravedad. (42:2.1)
 	Las tres fases originales de la energía divina son la energía física, la mental y la espiritual (44:5.5)
@@ -797,7 +802,7 @@ energía-materia | | energía; energía material; energía física | | OK
 
 escudos de energía | | escudos de fricción | | OK
 
-transformadores de energía; transformadores de la energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
+transformadores de energía; transformadores de la energía; Transformadores de la Energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
 La cantidad que hay de estos seres en un superuniverso es increíble. Sólo en Satania hay casi un millón, y el contingente habitual es de cien transformadores por cada mundo habitado. (29:4.22)
 Acontecimientos que han permitido
 	los controladores físicos dispusieron lo necesario para que los apóstoles pudieran ver la transfiguración de Jesús en el monte Hermón (158:1.8)
@@ -824,7 +829,7 @@ naturaleza
 	son seres semimateriales y hasta cierto punto personales (29:4.16-18)
 	son uno de los tipos de Controladores Físicos Maestros (29:4.7)
 
-transmisores de energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
+transmisores de energía; transmisores vivientes de energía; transmisores de la energía; Transmisores de la Energía | | Controladores Físicos Maestros; Directores del Poder Universal | ORDER | OK
 funciones
 	un grupo de mil transmisores de energía proporcionan el impulso inicial para la partida seráfica. (29:4.19) (39:5.14)
 	los Padres de la Constelación enviaron una resolución apoyando a Van en contra de la rebelión de Lucifer pero el veredicto no logró llegar porque la orden había quedado bloqueada en un transmisor repetidor de energía a causa del aislamiento de Urantia. Los transmisores de energía pueden recibir y transmitir la información, pero no pueden iniciar las comunicaciones. (67:2.2) (67:6.9)
@@ -849,10 +854,11 @@ En-Gedi era la sede en el sur de la hermandad nazarea y otros pastores ascético
 Inglaterra | | Islas Británicas | PLACE | OK
 Inglaterra, Escocia y Gales siempre estuvieron luchando entre sí hasta que renunciaron a sus respectivas soberanías y las confiaron al Reino Unido. (134:6.3)
 
-Puente terrestre del Canal de la Mancha; puente terrestre | (64:1.5-6) (64:2.6) | | PLACE | 
+Puente terrestre del Canal de la Mancha; puente terrestre | | | PLACE | OK
+Durante la mayor parte del período glacial, Inglaterra estaba conectada por tierra con Francia, formando un puente terrestre a través del Canal de la Mancha. (64:1.5-6) (64:2.6)
 
 idioma inglés; lengua inglesa; palabras inglesas | | | | OK
-los reveladores de las revelaciones de Urantia fueron instruidos para usar la lengua inglesa (0:0.1-3) (31:10.23) (56:10.23)
+los reveladores de las revelaciones de Urantia fueron instruidos para usar la lengua inglesa (0:0.1-3) (31:10.22) (56:10.23)
 
 enemistad | | odio | | OK
 
@@ -875,7 +881,7 @@ Ensa es nuestro sector menor, el tercero en el sector mayor de Splandon, que est
 Umenor la tercera, la sede de Ensa está rodeada por siete esferas satélites (15:7.8)
 El centro de rotación de Ensa está situado muy lejos en la enorme y densa nube estelar de Sagitario, alrededor de la cual se desplazan nuestro universo local y sus creaciones asociadas, y a los lados opuestos del inmenso sistema subgaláctico de Sagitario se pueden observar dos grandes corrientes de nubes de estrellas que surgen como prodigiosas espirales estelares. (15:3.5-11)
 
-enseconafinación | | transporte seráfico, secoráfico y superáfico | | OK
+enseconafinación; un seconafín envolverá | | transporte seráfico, secoráfico y superáfico | | OK
 la enseconafinación es el proceso por el que un peregrino ascendente es envuelto por un seconafín para el largo vuelo a Havona (112:7.5)
 
 enserafinación | | transporte seráfico, secoráfico y superáfico | | OK
@@ -942,7 +948,7 @@ Esta escuela de pensamiento se dedicaba a la búsqueda de la felicidad. Combati�
 La religión occidental languideció así hasta la época de los escépticos, los cínicos, los epicúreos y los estoicos, pero muy en particular hasta los tiempos de la gran controversia entre el mitracismo y la nueva religión cristiana de Pablo. (98:6.2)
 > https://es.wikipedia.org/wiki/Epicureísmo
 
-epilépticos; epilepsia | | | | OK
+epilépticos; epilepsia; epiléptico | | | | OK
 la epilepsia fue confundida antaño con la posesión demoníaca (145:2.13)
 Jesús sanó a un epiléptico en Cafarnaúm (145:2.12-14)
 Jesús sanó al hijo de Santiago de Safed, que a la vez era epiléptico y estaba poseído por un demonio de verdad (158:4.2) (158:5)
@@ -956,8 +962,9 @@ La epístola que se conoce como «La primera de Juan», fue escrita por el mismo
 
 ángeles de la época | | Serafines:tipos | ORDER | OK
 
-revelaciones de época; revelación de época | (92:4) (176:2.3) (189:3.3) | revelación | | OK
-Se han producido muchos casos de revelaciones religiosas, pero sólo cinco han tenido una importancia que ha hecho época. Y fueron las siguientes:
+revelaciones de época; revelación de época; importancia que ha hecho época | (92:4) (176:2.3) (189:3.3) | revelación | | OK
+Únicamente dos influencias pueden modificar y elevar los dogmas de la religión natural: la presión de las costumbres que progresan lentamente y la iluminación periódica de las revelaciones de época. (92:3.5)
+Se han producido muchos casos de revelaciones religiosas, pero sólo cinco han tenido una importancia que ha hecho época. Y fueron las siguientes: (92:4.4)
 # La primera fueron las enseñanzas de Dalamatia, realizada por los cien miembros corpóreos del estado mayor del Príncipe Caligastia (92:4.5)
 # La segunda fueron las enseñanzas edénicas de Adán y Eva y sus descendientes (92:4.6)
 # La tercera fue la de Melquisedek de Salem (92:4.7)
@@ -967,7 +974,7 @@ Se han producido muchos casos de revelaciones religiosas, pero sólo cinco han t
 
 épocas | | épocas planetarias | | OK
 
-igualdad; iguales | | desigualdades | | OK
+igualdad; iguales; mismos | | desigualdades | | OK
 la creencia de que todos los hombres nacen iguales es una creencia errónea, al igual que era un error la creencia medieval de que todos los hombres pertenecen a otro. Los seres humanos pueden diferir enormemente en sus capacidades innatas y en sus dones intelectuales (5:1.4) (69:3.8) (70:8.1) (70:9.15)
 pero en espíritu todos los hombres son iguales (92:7.4)
 Los débiles y los inferiores siempre han luchado por tener los mismos derechos que los demás; siempre han insistido para que el Estado obligue a los fuertes y superiores a satisfacer sus necesidades y a compensar de otras maneras aquellas carencias que son muy a menudo el resultado natural de su propia indiferencia e indolencia. (70:9.16)
@@ -986,7 +993,7 @@ ecualizaciones | | compensaciones | | OK
 ecuación | | | | OK
 No podemos orar a una fórmula química, suplicar a una ecuación matemática, adorar a una hipótesis, confiar en un postulado, comulgar con un proceso, servir a una abstracción o mantener una camaradería afectuosa con una ley. La experiencia religiosa implica un Dios, y ese Dios de la experiencia personal debe ser una persona. (102:7.3)
 
-ambigüedad | | | | OK
+ambigüedad; equivocado | | | | OK
 Uno de los objetivos de la carrera morontial consiste en erradicar de manera permanente en los supervivientes mortales aquellas características rudimentarias animales tales como la postergación, la ambigüedad, la falta de sinceridad, el eludir los problemas, la injusticia y la búsqueda de la facilidad. (48:5.8)
 
 Erec | | | PLACE | OK
@@ -1057,7 +1064,7 @@ Esther | (150:3.1) | | PERSON | OK
 En honor de esta mujer y la liberación que ella trajo se celebraba la fiesta judía de Purim (123:3.5)
 > https://es.wikipedia.org/wiki/Ester_(Biblia)
 
-vida eterna; vida después de la muerte | | muerte; fusión; cielo; juicio; vida; no supervivientes; resurrección; salvación; supervivencia (de la muerte mortal) | | OK
+vida eterna; vida después de la muerte; existencia eterna | | muerte; fusión; cielo; juicio; vida; no supervivientes; resurrección; salvación; supervivencia (de la muerte mortal) | | OK
 La presencia del Ajustador en la mente del hombre constituye la promesa de la revelación y la garantía de la fe de una existencia eterna de progresión divina (132:3.9)
 el logro de la inmortalidad se consigue al fusionarnos con el Ajustador. Después de la fusión del alma morontial inmortal con el Ajustador asociado, toda la experiencia y todos los valores de uno se vuelven finalmente propiedad del otro, de manera que los dos formamos realmente una sola entidad. (110:7)
 En la asociación de Deidades de Dios Séptuple, los Hijos Creadores proporcionan el mecanismo por el cual lo mortal se vuelve inmortal y lo finito alcanza el abrazo de lo infinito. (0:8.11) (180:3.7)
@@ -1090,7 +1097,7 @@ según las diferentes religiones
 	* Taoísmo: Cuando el hombre muere, el espíritu empieza a desplegar su largo vuelo en el gran viaje de regreso al hogar (131:8.6)
 	* Zoroastrismo: Señor, enséñanos a vivir esta vida en la carne mientras nos preparamos para la próxima vida del espíritu.  (131:5.2-5)
 
-Hijo Eterno | (6) (7) (10:1.4) | gravedad:gravedad espiritual | PERSON | OK
+Hijo Eterno; Hijo espiritual y Eterno | (6) (7) (10:1.4) | gravedad:gravedad espiritual | PERSON | OK
 la personalidad del Hijo Eterno es el arquetipo para toda personalidad (0:6.13) (6:7) (6:8.5) (115:3.14)
 en los siete mundos sagrados del Hijo Eterno se irradian las energías impersonales de la luminosidad espiritual (13:0.4) (13:3)
 la estimación de la gravedad espiritual activa total del Hijo Eterno es la misma en el gran universo que en la totalidad existente (12:3.9)
@@ -1250,7 +1257,8 @@ Jesús y la ética
 	Jesús nunca se preocupó por la ética como tal. Se ocupó completamente de esa comunión interior y espiritual con Dios Padre que se manifiesta exteriormente de manera tan cierta y directa en el servicio amoroso a los hombres. (170:3.8-9)
 	La filosofía griega, unida a la teología de Pablo, forma todavía la base de la ética europea. (98:7.10)
 
-etiqueta | | | | OK
+etiqueta; conducta social; protocolo | | | | OK
+Las maneras de comer pronto se volvieron tabúes, y así es como se originó el protocolo antiguo y moderno en la mesa (89:1.6)
 Los Compañeros Morontiales son los instructores de conducta social en los mundos de estancia (48:3.11)
 Los Asesores Técnicos enseñan la mejor y más correcta manera de hacer las cosas (25:4.17)
 
@@ -1342,7 +1350,7 @@ El observador no puede ser la cosa observada; la evaluación necesita que se tra
 
 evangelización | | evangelio:proclamar | | OK
 
-setenta evangelistas | | discípulos | PERSON | OK
+evangelistas; evangélica; evangelista | | discípulos | PERSON | OK
 son un grupo de predicadores ordenados por Jesús y formado sobre todo a partir del grupo original de evangelistas
 el comité de selección de los evangelistas originales estuvo compuesto de Pedro, Santiago y Andrés; el método de la escuela de evangelistas consistía en aprender y practicar (148:1.1)
 el período de preparación de los evangelistas originales tuvo lugar en Betsaida (148)
@@ -1396,7 +1404,7 @@ Eventod es el nombre que adoptó Miguel cuando realizó su primera donación com
 
 Seres trascendentales existenciados | | Trascendentales | ORDER | OK
 
-existenciación; se existencian | | realidad:niveles de realidad:realidad absonita; Trascendentales | | OK
+existenciación; existencian; existenciados | | realidad:niveles de realidad:realidad absonita; Trascendentales | | OK
 la existenciación es el proceso por el que se traen a la existencia a los seres trascendentales. Estos «existenciados» no son ni finitos ni infinitos —son absonitos; y la absonitidad no es ni la infinidad ni la absolutidad. (30:1.92-99)
 Estos seres existenciados incluyen a las órdenes siguientes:
 # Los Arquitectos del Universo Maestro.
@@ -1414,7 +1422,7 @@ en todas partes | | omnipresencia | | OK
 Evason | | | PERSON | OK
 Evason es el segundo hijo de Adán; se convirtió en un líder magistral. Falleció antes que Adán (74:6.2) (76:3.3)
 
-evidencia; las pruebas | | certeza | | OK
+evidencia; pruebas | | certeza | | OK
 Las pruebas, la base de la equidad, la justicia en armonía con la misericordia, son proporcionadas por las personalidades de la Fuente-Centro Tercera, el representante conjunto del Padre y del Hijo en todos los universos y para la mente de los seres inteligentes de toda la creación. (10:6.3)
 El juicio, la aplicación final de la justicia de acuerdo con las pruebas presentadas por las personalidades del Espíritu Infinito, es la tarea de los Hijos Estacionarios de la Trinidad, unos seres que comparten la naturaleza trinitaria del Padre, el Hijo y el Espíritu unidos. (10:6.3-4)
 
@@ -1617,7 +1625,7 @@ razas evolutivas | | razas | | OK
 
 exaltación del yo | | importancia personal | | OK
 
-exámenes; examinadores; examen; examinador | | | | OK
+exámenes; examinadores; examen; examinador; examinar | | | | OK
 los Clasificadores Selectivos nos examinan cada vez que reflejamos un logro espiritual para certificarlo (48:2.23)
 Los ciudadanos de Jerusem se presentan de vez en cuando ante los examinadores Melquisedeks, los cuales certifican sus logros en sabiduría morontial. Luego se presentan ante el cuerpo examinador de las Brillantes Estrellas Vespertinas o sus delegados, que comprueban su grado de perspicacia espiritual. A continuación aparecen en presencia de los veinticuatro consejeros y sus asociados, que juzgan el nivel de sus logros experienciales en vida social. (45:7.7)
 Un hombre bueno y noble puede estar totalmente enamorado de su esposa, pero ser completamente incapaz de pasar satisfactoriamente un examen escrito sobre la psicología del amor conyugal. La incapacidad para aprobar el examen escrito no prueba incapacidad de vivir la realidad (103:8.3)
@@ -1634,7 +1642,7 @@ A los niños sólo les impresiona de manera permanente la lealtad de sus compañ
 
 emoción | | emociones | | OK
 
-excomunión | | | | OK
+excomunión; excomulgados | | | | OK
 no sólo se prohibió la entrada a Jesús en todas las sinagogas, sino que todos los que creían en su enseñanza también eran expulsados de la sinagoga, excomulgados de la congregación de Israel; esto significaba que se les privaba de todo tipo de derechos y de privilegios en todo el mundo judío, excepto del derecho a comprar lo necesario para vivir. (164:4.6)
 Josías el ciego fue expulsado de la sinagoga (164:4.11) (164:5.4-5)
 Caifás convocó una reunión del sanedrín en la que se tomó la decisión de echar de las sinagogas a toda persona que mencionara la resurrección de Jesús.(190:3.3)
@@ -1653,7 +1661,8 @@ agotamiento | | fatiga; descanso | | OK
 
 realidad existencial | | realidad:niveles de realidad:realidad existencial | | OK
 
-Éxodo (libro) | (145:2.2) | | | 
+Éxodo (libro) | | | | OK
+El Libro del Éxodo es citado como uno de los libros que Jesús usó en la sinagoga. (145:2.2)
 
 exogamia | | matrimonio | | OK
 

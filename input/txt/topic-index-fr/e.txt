@@ -16,7 +16,7 @@ aigles | (61:2.12) | | | OK
 les aigles descendent d'énormes reptiles anciens (65:2.9)
 Cité dans les enseignements de Salem : « Ceux qui s'attendent au Seigneur renouvelleront leur force; ils s'élèveront avec des ailes comme des aigles » (97:7.8)
 
-gagner sa vie | | accomplissement; carrières; initiative; travail; surspécialisation; pauvreté; chômage; richesse | | OK
+gagner sa vie; gagner leur vie; nécessités économiques; nécessités de la vie | | accomplissement; carrières; initiative; travail; surspécialisation; pauvreté; chômage; richesse | | OK
 Les nécessités économiques lient l'homme à la réalité, et l'expérience religieuse personnelle place ce même homme face aux réalités éternelles d'une citoyenneté cosmique en constante expansion et progression. (99:7.5)
 Les hommes et les femmes se perdent dans leurs efforts pour se comprendre eux-mêmes et pour faire face aux multiples difficultés qu'implique le fait de gagner sa vie dans un monde si largement dominé par l'égoïsme et le péché. (133:3.7)
 les revenus personnels peuvent être utilisés comme bon leur semble (132:5.12,24)
@@ -36,7 +36,7 @@ Jésus
 
 La Terre; la Terre; la terre | | Urantia | | OK
 
-tremblements de terre | (59:3.6) | | | OK
+tremblements de terre; tremblement de terre | (59:3.6) | | | OK
 l'ère des tremblements de terre s'est produite il y a entre 1 milliard et 650 millions d'années (57:8.1-5,15-25)
 Au cours des premiers âges d'un nouveau monde, les tremblements de terre sont fréquents et ils sont tous caractérisés par de grandes perturbations physiques; cela est particulièrement vrai pour les sphères de contraction de gaz, les mondes nés des immenses anneaux nébuleux qui sont laissés derrière eux dans le sillage de la condensation et de la contraction précoces de certains soleils individuels. (41:10.4)
 l'isthme de Gibraltar, qui protégeait le bassin occidental de la Méditerranée, céda à la suite d'un tremblement de terre, élevant rapidement ce lac intérieur au niveau de l'océan Atlantique. (80:2.4)
@@ -48,9 +48,10 @@ Des événements marquants
 	Jésus a conseillé à ses disciples de ne pas s'inquiéter des famines ou des tremblements de terre (176:1.1)
 > https://en.wikipedia.org/wiki/Earthquake
 
-vers de terre | (65:2.5) | | | 
+lombrics | | | | OK
+Les lombrics et les sangsues, groupes étroitement apparentés, sont apparus par évolution avec d'autres animaux primitifs comme les étoiles de mer, les oursins et les crustacés. (65:2.5)
 
-facilité | | oisiveté; indolence; loisir; détente | | OK
+facilité; facile | | oisiveté; indolence; loisir; détente | | OK
 Accepter la direction d'un séraphin signifie rarement parvenir à une vie facile. (113:4.3)
 La nature animale et les formes inférieures de créatures douées de volonté ne progressent pas favorablement dans le confort de l'environnement. (154:2.5)
 L'un des objectifs de la carrière morontielle est d'éliminer définitivement chez les survivants mortels des traits vestigiaux animaux tels que la procrastination, l'équivoque, l'insincérité, l'évitement des problèmes, l'injustice et la recherche de la facilité. (48:5.8)
@@ -64,7 +65,9 @@ J.-C., la navigation dravidienne andite progressait le long des côtes de la mer
 L'île de Pâques a longtemps été un centre religieux et administratif d'un groupe de Polynésiens modifiés par les Andites (78:5.7)
 > https://en.wikipedia.org/wiki/Easter_Island
 
-Ghâtes orientales | (79:3.6) | | PLACE | 
+Ghâtes orientales | | | PLACE | OK
+Les Ghats orientaux abritent trois grands fleuves qui les traversent vers la mer, soutenant les centres culturels dravidiens dans le Deccan. (79:3.6)
+> https://fr.wikipedia.org/wiki/Ghats_orientaux
 
 manger | | nourriture | | OK
 
@@ -72,8 +75,8 @@ manger | | nourriture | | OK
 Le mont Ébal est une montagne visible depuis Nazareth (126:1.2)
 > https://en.wikipedia.org/wiki/Mount_Ebal
 
-Eber | | | PERSON | OK
-Eber était un fonctionnaire du Sanhédrin qui fut envoyé pour arrêter Jésus, refusant finalement de le faire (162:2.6-9)
+Éber; Eber | | | PERSON | OK
+Éber était un fonctionnaire du Sanhédrin qui fut envoyé pour arrêter Jésus, refusant finalement de le faire (162:2.6-9)
 il a rencontré Jésus dans la maison de Nicodème (164:2.1)
 
 excentricité; excentrique | | | | OK
@@ -89,7 +92,8 @@ Le pessimisme franc de l'Écclésiaste était une réaction sage et mondaine à 
 ecclésiastique | | prêtres | | OK
 L'ecclésiastique est immédiatement et pour toujours incompatible avec cette foi vivante, cet esprit croissant et cette expérience de première main des compagnons de foi de Jésus dans la fraternité de l'homme dans l'association spirituelle du royaume des cieux. (195:10.8)
 
-échinodermes | (59:3.11) (59:5.8) | | | 
+échinodermes | | | | OK
+Vers la fin de la dernière submersion silurienne, les échinodermes, en particulier les lys de mer, ont considérablement augmenté, comme en témoignent les dépôts de calcaire crinoïde. Deux groupes d'échinodermes se sont particulièrement bien développés et sont considérés comme des fossiles guides de cette époque. (59:3.11) (59:5.8)
 
 éclipses; éclipse | | | | OK
 Les premiers Nordiques pensaient que les éclipses étaient causées par un loup qui dévorait une partie du soleil ou de la lune. (85:3.4)
@@ -152,17 +156,17 @@ Ascendeurs mortels
 	là nous vivons avec les univitatia, le peuple natif d'Édentia (39:3.7)
 	nous apprenons à mieux socialiser avec les univitatia (43:8.4-12)
 
-Édomites | | | RACE | OK
+Édomites; édomites | | | RACE | OK
 Le roi David imposa un lourd tribut aux tribus voisines, parmi lesquelles les Édomites (97:9.14)
 ils se révoltèrent contre le roi Amatsia et furent vaincus dans une victoire éclatante (97:9.22)
 
-Édréi | | | PLACE | OK
+Édréi; Édrei | | | PLACE | OK
 Édréi est l'une des villes visitées par Jésus, les douze apôtres, les douze évangélistes et d'autres évangélistes au cours du deuxième tour de la Décapole, entre le 18 août et le 16 septembre 29 après J.-C. (159:0.2)
 À Édréi, où l'apôtre Thomas et ses associés prêchaient, Jésus passa un jour et une nuit et, au cours de la discussion du soir, exprima les principes qui devraient guider ceux qui prêchent la vérité et qui devraient motiver tous ceux qui enseignent l'Évangile du royaume. (159:3.1)
 L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 > https://en.wikipedia.org/wiki/Daraa
 
-éducation; croissance éducative | (71:7) | ignorance; connaissance; enseignants | | OK
+éducation; croissance éducative; développement éducatif; éduquée; éducation handicapent; instruction; formation | (71:7) | ignorance; connaissance; enseignants | | OK
 La véritable croissance éducative se manifeste par l'amélioration des idéaux, une plus grande appréciation des valeurs, de nouvelles significations des valeurs et une plus grande loyauté envers les valeurs suprêmes. (100:1.3)
 La carrière mortelle, l'évolution de l'âme, n'est pas tant une probation qu'une éducation. (111:3.5)
 Si un peuple libre n'est pas éduqué, si on ne lui apprend pas à penser intelligemment et à planifier avec sagesse, la liberté fait généralement plus de mal que de bien. (71:2.11)
@@ -257,8 +261,8 @@ avertissements
 	ce que nous ne parvenons pas à apprendre ici, nous devons l'apprendre plus tard (48:5.7)
 	sans e., la liberté fait généralement plus de mal que de bien (71:2.11)
 
-bâtisseurs d'éducation | | | | OK
-Les bâtisseurs d'éducation sont l'un des groupes au sein des bâtisseurs divins, qui font partie des artisans célestes (44:3.6)
+bâtisseurs d'écoles | | | | OK
+Les bâtisseurs d'écoles sont l'un des groupes au sein des bâtisseurs divins, qui font partie des artisans célestes (44:3.6)
 
 effets | | causalité | | OK
 
@@ -266,9 +270,10 @@ efficacité | | | | OK
 Dans l'économie éternelle de l'administration de l'univers, on ne rencontre jamais de répétition inutile et inutile de fonctions; les Déités ne se livrent pas à une duplication inutile du ministère de l'univers. (6:4.2)
 La santé, l'efficacité mentale et le bonheur naissent de l'unification des systèmes physiques, des systèmes mentaux et des systèmes spirituels. (100:4.3)
 
-effigies | (88:5.3) | | | 
+effigies | | | | OK
+On croyait que les effigies étaient efficaces en magie. Elles étaient fabriquées et traitées bien ou mal pour affecter la personne réelle qu'elles représentaient. (88:5.3)
 
-effort; Effort | | action | | OK
+effort; Effort; efforts | | action | | OK
 les pèlerins ascendants découvrent ce que signifient la véritable étude et le véritable effort mental lorsqu'ils commencent à discerner la nature de l'effort spirituel encore plus éprouvant et bien plus ardu à Havona (26:7.1)
 L'effort et la décision sont une partie essentielle de l'acquisition des valeurs de survie. (50:6.3)
 La loyauté ne s'exerce pas en faveur des grands, des bons, des vrais et des nobles sans lutte. (100:4.2)
@@ -281,11 +286,11 @@ C'est l'importance de soi, et non l'importance du travail, qui épuise les créa
 
 égo | | soi | | OK
 
-égocentrisme; égocentrique | | égoïsme | | OK
+égocentrisme; égocentrique; égo | | égoïsme | | OK
 Bien que votre religion soit une question d'expérience personnelle, il est très important que vous soyez exposé à la connaissance d'un grand nombre d'autres expériences religieuses afin d'empêcher que votre vie religieuse ne devienne égocentrique, circonscrite, égoïste et asociale. (103:1.3)
 Jésus était exempt d'égocentrisme. Chez un génie religieux, une foi spirituelle forte conduit souvent directement au fanatisme désastreux, à l'exagération de l'égo religieux, mais il n'en fut pas ainsi de Jésus. (196:0.6)
 
-égoïsme | | égoïsme | | OK
+égotisme | | égoïsme | | OK
 
 Égypte | | Alexandrie; Louxor; vallée du Nil; Thèbes | PLACE | OK
 histoire
@@ -375,7 +380,7 @@ L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la
 
 élections | | gouvernement; suffrage universel | | OK
 
-électricité | | | | OK
+électricité; électrique | | | | OK
 La charge électronique crée un champ électrique; le mouvement donne naissance à un courant électrique; le courant produit un champ magnétique. (42:5.8)
 La lumière et l'électricité ne sont pas les énergies fondamentales de l'espace; ce sont des manifestations secondaires et subsidiaires. (41:1.2)
 La lumière, la chaleur, l'électricité, le magnétisme, le chimie, l'énergie et la matière sont – par leur origine, leur nature et leur destinée – une seule et même chose, tout comme d'autres réalités matérielles encore inconnues sur Urantia. (42:4.1-2)
@@ -464,7 +469,7 @@ Les mystères d'Éleusis se sont développés au sein du panthéon olympien, une
 Élihu était un prophète extraordinaire d'Ur et un prêtre salémite; il prêchait un message d'espoir de salut tel qu'il n'en avait pas été entendu dans le monde levantin (96:7.7)
 > https://en.wikipedia.org/wiki/Elihu_(Job)
 
-Élie Marc | | | PERSON | OK
+Élie Marc; Élie | | | PERSON | OK
 Élie Marc était le père de Jean Marc, le célèbre disciple de Jésus; il était le mari de Marie Marc (182:0.1)
 sa maison à Jérusalem était un lieu de rencontre régulier pour les croyants (187:6.2) (188:3.2) (189:4.1,13)
 Le dernier repas de Jésus et de ses apôtres eut lieu dans une chambre haute de la maison d'Élie Marc (179:1.2)
@@ -519,7 +524,7 @@ elle était présente à la seizième apparition de Jésus (193:0)
 Éllanora | | | PERSON | OK
 Éllanora est la jeune mortelle qui a pris la tête de Panoptia dans la rébellion de Lucifer, empêchant le Prince Planétaire de mener ce monde vers la rébellion. (53:7.1)
 
-ellipse; ellipsoïde | | | | OK
+ellipse; ellipsoïde; elliptique | | | | OK
 Chaque forme connue de réalité cosmique a la courbure des âges, la tendance du cercle, l'oscillation de la grande ellipse. (11:8.2) (12:1.1)
 Par sa forme, le Paradis diffère des corps habités de l'espace : il n'est pas sphérique, mais bel et bien ellipsoïdal (11:2.2).
 Dans les cieux, on a découvert depuis longtemps que les sept superunivers parcourent une grande ellipse, un cercle gigantesque et allongé. (15:1.2) (41:9.2)
@@ -541,15 +546,15 @@ Elohim est le concept de la Trinité de Dieu basé sur les enseignements de Sale
 sous Élie, Yahweh devint Elohim (97:3.6)
 > https://en.wikipedia.org/wiki/Elohim
 
-fugue | | | | OK
+fugue; pseudo-enlèvements; enlèvement | | | | OK
 De même que les raids précédaient le commerce, le mariage par capture précédait le mariage par contrat. Certaines femmes complotaient pour se faire capturer. Cette pseudo-fuite constituait l'étape de transition entre la capture par la force et la cour ultérieure par le charme. (83:2.2-4)
 
-embaumement | | | | OK
+embaumement; embaumer | | | | OK
 Au fil du temps, les Égyptiens ont observé que les corps des morts placés dans des tombes sans briques étaient conservés – embaumés – par l'action du sable imprégné de soude. Ces observations ont conduit à la pratique ultérieure de l'embaumement des morts. (95:2.4-5)
 
 urgences | | crise | | OK
 
-conseil d'urgence d'Édentia | | | PERSON | OK
+conseil d'urgence sur Édentia | | | PERSON | OK
 ce conseil est composé de toutes les personnalités qui ont été assignées à Norlatiadek en raison du soulèvement de Satania, et est dirigé par le directeur Très-Haut (43:5.14)
 
 énergie émergente | | ultime | | OK
@@ -558,14 +563,14 @@ Emmaüs | | | PLACE | OK
 Emmaüs est une ville située à environ 11 kilomètres à l'ouest de Jérusalem. C'est là que vivaient Cléopas et Jacob, deux disciples bergers à qui Jésus apparaît lors de sa septième apparition morontielle (190:5.1).
 > https://en.wikipedia.org/wiki/Emmaüs
 
-designers d'émotions | | | ORDER | OK
-les concepteurs d'émotions sont un groupe de concepteurs et d'embellisseurs au sein des artisans célestes (44:6.5)
+modèlistes d'émotions | | | ORDER | OK
+les modèlistes d'émotions sont un groupe de concepteurs et d'embellisseurs au sein des artisans célestes (44:6.5)
 
-émotions; émotion; excitation émotionnelle | | sentiment | | OK
+émotions; émotion; excitation émotive; sentiments; émotives | | sentiment | | OK
 Lorsqu'il n'est pas possible d'adorer Dieu dans les tabernacles de la nature, les hommes devraient faire de leur mieux pour fournir des maisons de beauté, des sanctuaires d'une simplicité attrayante et d'embellissements artistiques, afin que les émotions humaines les plus élevées puissent être suscitées en association avec l'approche intellectuelle de la communion spirituelle avec Dieu. (167:6.6)
 Bien que l'émotion ne puisse être totalement éliminée en tant que facteur dans les décisions humaines, elle ne devrait pas être directement invoquée dans les enseignements de ceux qui veulent faire avancer la cause du royaume. (152:6.3) (159:3.2) (160:3.1)
 Les absurdités de la vie de rêve témoignent non seulement de la pression des émotions inexprimées, mais témoignent également de l'horrible distorsion des représentations des concepts spirituels présentés par les Ajusteurs. (110:5.4)
-L'excitation émotionnelle n'est pas le stimulus spirituel idéal. Elle n'augmente pas l'énergie; elle épuise plutôt les pouvoirs de l'esprit et du corps. (160:3.1)
+L'excitation émotive n'est pas le stimulus spirituel idéal. Elle n'augmente pas l'énergie; elle épuise plutôt les pouvoirs de l'esprit et du corps. (160:3.1)
 Un jour, les enfants du royaume se rendront compte que de forts sentiments émotionnels ne sont pas équivalents aux directives de l'esprit divin. (159:3.6)
 De nombreuses réactions humaines sont de nature mécanique; une grande partie de la vie est mécanique. (118:8.2)
 évolution
@@ -584,7 +589,7 @@ Jésus
 émotions particulières
 	Voir ci-dessous les liens vers différents types d'émotions | aventure; affectation; affection; colère; anxiété; assurance; blâmer; ennui; couvaison; fraternité (attitude); certitude; charité; se plaindre; confusion; dispute; courage; courtoisie; lâcheté; curiosité; défaite; dépression; désespoir; déception; découragement; encouragement; enthousiasme; envie; équivoque; honneur; espoirs; hypocrisie; hystérie; immaturité; impatience; indolence; infériorité; insécurité; insubordination; intolérance; isolement; jalousie; joie; longanimité; solitude; amour; fidélité; convoitise; douceur; modération; modestie; paralysie; patience; persistance; pessimisme; piété; équilibre; fierté; procrastination; convenance; témérité; ressentiment; vengeance; ridiculiser; auto-humiliation; confiance en soi; auto-illusion; abnégation; autosatisfaction; suffisance; apitoiement sur soi-même; respect de soi; égoïsme; honte; tristesse; soupçon; sympathie; tendresse; tolérance; malheur; vanité; zèle
 
-culte de l'empereur | | Empire romain | | OK
+culte de l'empereur; adoration de l'empereur; adoration primitive de l'empereur | | Empire romain | | OK
 Le culte de l'empereur, cette déification de l'homme comme symbole de l'État, fut très sérieusement ressenti par les Juifs et les premiers chrétiens et conduisit directement aux persécutions amères des deux églises par le gouvernement romain. (121:5.4)
 Les « religions nationales » ne sont rien d'autre qu'un retour au culte de l'empereur romain primitif et au shintoïsme, c'est-à-dire au culte de l'État dans la famille impériale. (92:6.20)
 Pilate essaya de regagner ce prestige perdu et plaça sur les murs les boucliers de l'empereur, tels qu'ils étaient couramment utilisés dans le culte de César (185:1.3-4).
@@ -608,7 +613,7 @@ fin | | | | OK
 Dans les domaines de la connaissance, de l'omniscience, nous ne pouvons pas faire de distinction entre la Première et la Seconde Source; comme le Père, le Fils sait tout; il n'est jamais surpris par aucun événement de l'univers; il comprend la fin dès le commencement. (6:4.7)
 D'un point de vue circonscrit, il y a en effet de nombreuses fins, de nombreuses terminaisons d'activités, mais d'un point de vue plus large, à un niveau supérieur de l'univers, il n'y a pas de fins, simplement des transitions d'une phase de développement à une autre. (115:3.17-18)
 
-fin du monde; fin des temps | | | | OK
+fin du monde; fin des temps; fin de l'âge; âge prenne fin | | | | OK
 Les apocalyptistes juifs enseignaient qu'Israël devait prendre courage; les jours de son affliction étaient presque terminés; la discipline du peuple élu de Dieu était presque terminée; la patience de Dieu envers les étrangers païens était presque épuisée. La fin de la domination romaine était synonyme de la fin des temps et, dans un certain sens, de la fin du monde. (135:5.2-5)
 Jean-Baptiste vécut à Engaddi pendant deux ans et demi, et il persuada la plupart des frères que « la fin des temps était proche »; que « le royaume des cieux était sur le point d'apparaître. » (135:4.3)
 de nombreux disciples de Jésus ont interprété ses prédictions concernant la destruction du temple de Jérusalem comme la « fin du monde », la réapparition du Messie et l'établissement de la Nouvelle Jérusalem (176:1.6) (176:4.2)
@@ -625,11 +630,11 @@ Joseph, père de Jésus, travaillait à Endor (123:3.8)
 Le roi Saül a eu recours aux services d'une sorcière d'Endor pour prétendument communiquer avec l'esprit du défunt prophète Samuel (146:7.1)
 > https://en.wikipedia.org/wiki/Endor_(village)
 
-dotations; doté | | héritage | | OK
+dotations; doté; dotés; dotation | | héritage | | OK
 L'Esprit de Vérité nous confère le pouvoir d'accomplir avec certitude et joie la volonté gracieuse, acceptable et parfaite de Dieu (143:2.4)
 Le temps est le don universel de toutes les créatures douées de volonté; c'est le « talent unique » confié à tous les êtres intelligents. (28:6.9)
 
-fins contre moyens; fin; fins | | | | OK
+fins contre moyens; fin; fins; moyen en vue d’une fin; moyens d'atteindre des fins; les moyens et les fins; moyen en vue d’une fin | | | | OK
 Tout ce qui n'est pas spirituel dans l'expérience humaine, à l'exception de la personnalité, est un moyen pour parvenir à une fin. (112:2.8) (112:5.22)
 L'intelligence seule peut déterminer les meilleurs moyens d'atteindre des fins indifférenciées, mais un être moral possède une perspicacité qui lui permet de distinguer entre les fins aussi bien qu'entre les moyens. (16:7.4-10) (160:4.11)
 Jésus n'a jamais eu recours à des tactiques ignobles pour faire face à la pression continuelle de ses ennemis, qui n'ont pas hésité à employer contre lui toutes sortes de moyens d'attaque faux, injustes et iniques. (149:4.5) (173:2.7)
@@ -645,10 +650,10 @@ La prière peut être un cri de colère demandant vengeance ou une intercession 
 Jésus a dit : « Lorsqu'un ennemi te frappe sur une joue, ne reste pas là, muet et passif, mais tends l'autre joue dans une attitude positive; c'est-à-dire fais activement la meilleure chose possible pour conduire ton frère dans l'erreur loin des mauvais chemins vers les meilleures voies de la vie juste. » (159:5.9)
 L'homme sage est une âme noble qui est amicale au milieu de ses ennemis, tranquille au milieu des turbulents et généreux au milieu des cupides. (131:3.6)
 
-ennemi | | Caligastia; diable; Lucifer | PERSON | OK
+ennemi; ennemi du royaume | | Caligastia; diable; Lucifer | PERSON | OK
 Il s'agit d'une appellation autrefois utilisée par Jésus pour Caligastia; il avertit les apôtres qu'il essaierait de les séparer les uns des autres (138:7.3).
 
-énergie; énergie-matière | (42:2) | léger; énergie matérielle; matière | | OK
+énergie; énergie-matière; énergie-force | (42:2) | léger; énergie matérielle; matière | | OK
 définition
 	Dans Le Livre d'Urantia, le mot énergie est utilisé pour désigner toutes les phases et formes de mouvement, d'action et de potentiel phénoménaux, tandis que la force est appliquée aux stades d'énergie prégravitaires et la puissance aux stades postgravitaires de l'énergie. (42:2.1)
 	les trois phases originelles de l'énergie divine sont l'énergie physique, mentale et spirituelle (44:5.5)
@@ -783,21 +788,21 @@ formes d'énergie inconnues
 
 contrôleurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | | OK
 
-manipulateurs d'énergie | | artisans célestes | ORDER | OK
+manipulateurs d'énergie; manipulateurs d'énergies | | artisans célestes | ORDER | OK
 Les manipulateurs d'énergie sont le cinquième groupe d'artisans célestes. Ils sont divisés en types suivants : (44:5.1-10)
 # manipulateurs d'énergie physique
 # manipulateurs d'énergie mentale
 #manipulateurs d'énergie spirituelle
 # manipulateurs composites
 # conseillers en transport
-# experts en communication
+# spécialistes des communications
 # enseignants du repos
 
 énergie-matière | | énergie; énergie matérielle; énergie physique | | OK
 
 boucliers énergétiques | | boucliers de friction | | OK
 
-transformateurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
+transformateurs d'énergie; Transformateurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
 Le nombre de ces êtres dans un superunivers est incroyable. Il y en a presque un million dans Satania seulement, et le quota habituel est de 100 pour chaque monde habité. (29:4.22)
 événements qu'ils ont permis
 	les contrôleurs physiques ont organisé ce qui était nécessaire pour que les apôtres puissent voir la transfiguration de Jésus sur le mont Hermon (158:1.8)
@@ -824,7 +829,7 @@ nature
 	ils sont semi-matériels et quelque peu personnels (29:4.16-18)
 	ils sont un type de contrôleur physique principal (29:4.7)
 
-transmetteurs d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
+transmetteurs d'énergie; transmetteurs vivants d'énergie | | Maitres Contrôleurs Physiques; Directeurs de Pouvoir d'Univers | ORDER | OK
 fonctions
 	une batterie de mille transmetteurs d'énergie fournit l'élan initial pour le départ séraphique. (29:4.19) (39:5.14)
 	Les Pères de la Constellation ont envoyé une résolution soutenant Van contre la rébellion de Lucifer, mais le verdict n'est pas parvenu à Van parce que l'ordre avait été bloqué dans un transmetteur d'énergie relais en raison de l'isolement d'Urantia. Les transmetteurs d'énergie peuvent recevoir et transmettre des renseignements, mais ils ne peuvent pas initier de communication. (67:2.2) (67:6.9)
@@ -849,10 +854,11 @@ Engaddi était le quartier général sud des Nazaréens et autres bergers ascét
 Angleterre | | Iles Britanniques | PLACE | OK
 L'Angleterre, l'Écosse et le Pays de Galles se sont toujours battus jusqu'à ce qu'ils abandonnent leurs souverainetés respectives, les plaçant au sein du Royaume-Uni. (134:6.3)
 
-Pont terrestre de la Manche; voie terrestre depuis l'Angleterre; pont terrestre | (64:1.5-6) (64:2.6) | | PLACE | 
+Pont terrestre de la Manche; voie terrestre depuis l'Angleterre; pont terrestre | | | PLACE | OK
+Pendant la majeure partie de la période glaciaire, l'Angleterre était reliée par la terre à la France, formant un pont terrestre à travers la Manche. (64:1.5-6) (64:2.6)
 
-Langue anglaise; langue anglaise; mots anglais | | | | OK
-les révélateurs des révélations d'Urantia ont reçu pour instruction d'utiliser la langue anglaise (0:0.1-3) (31:10.23) (56:10.23)
+Langue anglaise; langue anglaise; mots anglais; nombreux mots | | | | OK
+les révélateurs des révélations d'Urantia ont reçu pour instruction d'utiliser la langue anglaise (0:0.1-3) (31:10.22) (56:10.23)
 
 inimitié | | haine | | OK
 
@@ -875,7 +881,7 @@ Ensa est notre secteur mineur, le troisième du secteur majeur de Splandon, qui 
 Uminor la troisième, le siège d'Ensa, est entouré de sept sphères satellites (15:7.8)
 Le centre de rotation d'Ensa est situé très loin dans l'énorme et dense nuage d'étoiles du Sagittaire, autour duquel votre univers local et ses créations associées se déplacent tous, et depuis les côtés opposés du vaste système sous-galactique du Sagittaire, vous pouvez observer deux grands courants de nuages d'étoiles émergeant dans des bobines stellaires stupéfiantes. (15:3.5-11)
 
-enseconaphimation | | transport séraphique, sécoraphique et supéraphique | | OK
+enseconaphimation; seconaphin enveloppera | | transport séraphique, sécoraphique et supéraphique | | OK
 L'enseconaphimation est le processus par lequel un pèlerin ascendant est enfermé dans un seconaphin pour le long vol vers Havona (112:7.5)
 
 enséraphimation | | transport séraphique, sécoraphique et supéraphique | | OK
@@ -892,7 +898,7 @@ Ganid, l'étudiant hindou de Jésus, a cité un jour un proverbe hébreu, dont l
 Le zèle sans amour est toujours nuisible à la religion, tandis que la persécution détourne les activités de la religion vers la réalisation de quelque objectif sociologique ou théologique. (99:3.8)
 L'enthousiasme religieux avec lequel les réformes sociales sont parfois propagées a la grande faiblesse d'être incapable de tirer profit de la critique religieuse ouverte et d'atteindre ainsi des niveaux profitables d'autocorrection (99:3.6-7)
 
-environnement; environnemental; environnements | | circonstances; handicaps | | OK
+environnement; environnemental; environnements; milieu | | circonstances; handicaps | | OK
 Les limitations environnementales, même sur un monde isolé, ne peuvent pas non plus contrecarrer l'accomplissement personnel de l'individu mortel; Jésus de Nazareth, en tant qu'homme parmi les hommes, a personnellement atteint le statut de lumière et de vie il y a plus de mille neuf cents ans sur Urantia. (55:11.7)
 De telles âmes divinement arrosées sont pratiquement indépendantes de l'environnement matériel en ce qui concerne les joies de la vie et les satisfactions de l'existence terrestre. (34:6.8)
 Les Porteurs de Vie ont manipulé l'environnement pour éliminer les souches préhumaines inférieures (65:2.14-15)
@@ -902,7 +908,7 @@ Les séraphins, les Maîtres Contrôleurs Physiques et les médians manipulent l
 Les mortels peuvent différer grandement en termes de capacités innées et de dons intellectuels, ils peuvent bénéficier d'environnements exceptionnellement favorables au progrès social et moral, ou ils peuvent souffrir du manque de presque toutes les aides humaines à la culture et au progrès dans les arts de la civilisation (5:1.4).
 Mais le progrès spirituel est ouvert à tous, quel que soit l'environnement (5:1.4-7)
 
-envie; envie; convoitise | | jalousie; ressentiment | | OK
+envie; envie; convoitise; envieux; cupidité; covetous | | jalousie; ressentiment | | OK
 Lorsque la reconnaissance de nos difficultés entraîne la réduction de notre vanité longtemps entretenue, l'admission de l'envie ou l'abandon de préjugés profondément ancrés, la personne moyenne préfère s'accrocher aux vieilles illusions de sécurité et aux faux sentiments de sécurité longtemps entretenus. (160:1.7)
 L'envie est un trait humain profondément ancré; c'est pourquoi l'homme primitif l'a attribué à ses premiers dieux. (87:5.6)
 Seule une conscience morale peut condamner les maux de l'envie nationale et de la jalousie raciale. (52:6.5)
@@ -956,8 +962,9 @@ L'épître connue sous le nom de « Première de Jean » a été écrite par Jea
 
 anges d'époque | | séraphins:types | ORDER | OK
 
-révélations d'époque; révélation d'époque | (92:4) (176:2.3) (189:3.3) | révélation | | OK
-Il y a eu de nombreux événements de révélation religieuse, mais seulement cinq d'entre eux ont eu une importance historique. Les voici :
+révélations d'époque; révélation d'époque; signification d'époque | (92:4) (176:2.3) (189:3.3) | révélation | | OK
+Seules deux influences peuvent modifier et élever les dogmes de la religion naturelle : la pression des mœurs en lent progrès et l’illumination périodique des révélations d’époque. (92:3.5)
+Il y a eu de nombreux événements de révélation religieuse, mais seulement cinq d'entre eux ont eu une importance historique. Les voici : (92:4.4)
 # Le premier était l'enseignement de Dalamatia, dispensé par les 100 membres corporels du personnel du prince Caligastia (92:4.5)
 # Le deuxième était les enseignements édéniques, d'Adam et Eve et de leurs descendants (92:4.6)
 # Le troisième était celui de Melchizédek de Salem (92:4.7)
@@ -967,12 +974,12 @@ Sera-ce le sixième en 1000 ans ? On ne le sait pas, bien que certains indices d
 
 époques | | époques planétaires | | OK
 
-égalité; égal | | inégalités | | OK
+égalité; égal; égales; égaux | | inégalités | | OK
 La croyance selon laquelle tous les hommes naissent égaux est une croyance erronée, de la même manière que l'on a eu tort au Moyen-Âge européen de croire que chaque homme appartenait à quelqu'un d'autre. Les êtres humains peuvent différer considérablement en termes de capacités innées et de dons intellectuels (5:1.4) (69:3.8) (70:8.1) (70:9.15)
 mais en esprit tous les hommes sont égaux (92:7.4)
 Les faibles et les inférieurs ont toujours lutté pour l'égalité des droits; ils ont toujours insisté pour que l'État oblige les forts et les supérieurs à subvenir à leurs besoins et à combler les déficiences qui sont trop souvent le résultat naturel de leur propre indifférence et de leur paresse. (70:9.16)
 Le concept d'égalité n'apporte jamais la paix, sauf dans la reconnaissance mutuelle d'une influence surcontrôleuse de supersouveraineté. (134:4.9-10)
-L'affirmation de soi était le cri de guerre de la rébellion de Lucifer. L'un de ses principaux arguments était que, si l'autonomie était bonne et juste pour les Melchizédeks et d'autres groupes, elle était également bonne pour tous les ordres d'intelligence. Il défendait avec audace et persévérance « l'égalité d'esprit » et « la fraternité d'intelligence » (53:4.2).
+L'affirmation de soi était le cri de guerre de la rébellion de Lucifer. L'un de ses principaux arguments était que, si l'autonomie était bonne et juste pour les Melchizédeks et d'autres groupes, elle était également bonne pour tous les ordres d'intelligence. Il défendait avec audace et persévérance « l'égalité de mental » et « la fraternité d'intelligence » (53:4.2).
 Jésus et l'égalité des hommes et des femmes
 	Jésus était profondément irrité par la différence qui existait à son époque entre l'éducation religieuse des hommes et celle des femmes (125:0.4) (125:5.4) (127:1.5)
 	Le trait le plus étonnant et le plus révolutionnaire de la mission de Michel sur terre fut son attitude envers les femmes. En une génération, Jésus a sorti les femmes de l'oubli irrespectueux et de la corvée servile des siècles. (149:2.8-9)
@@ -986,7 +993,7 @@ Jésus et l'égalité des hommes et des femmes
 équation | | | | OK
 Nous ne pouvons pas prier une formule chimique, implorer une équation mathématique, adorer une hypothèse, nous fier à un postulat, communier avec un processus, servir une abstraction ou entretenir une relation d'amour avec une loi. L'expérience religieuse implique Dieu, et un tel Dieu d'expérience personnelle doit être une personne. (102:7.3)
 
-équivoque | | | | OK
+équivoque; équivoques; fourvoyés | | | | OK
 L'un des objectifs de la carrière morontielle est d'éliminer définitivement chez les survivants mortels des traits vestigiaux animaux tels que la procrastination, l'équivoque, l'insincérité, l'évitement des problèmes, l'injustice et la recherche de la facilité. (48:5.8)
 
 Érech | | | PLACE | OK
@@ -1057,7 +1064,7 @@ Esther | (150:3.1) | | PERSON | OK
 En l'honneur de cette femme et de la libération qu'elle a apportée, la fête juive de Pourim a été célébrée. (123:3.5)
 > https://en.wikipedia.org/wiki/Esther
 
-vie éternelle; vie éternelle; vie après la mort | | mort; fusion; paradis; jugement; la vie; non-survivants; résurrection; salut; survie (de la mort mortelle) | | OK
+vie éternelle; vie éternelle; vie après la mort; existence éternelle | | mort; fusion; paradis; jugement; la vie; non-survivants; résurrection; salut; survie (de la mort mortelle) | | OK
 La présence de l'Ajusteur dans l'esprit de l'homme constitue la promesse de révélation et le gage de foi d'une existence éternelle de progression divine (132:3.9).
 L'immortalité est atteinte par la fusion avec notre Ajusteur. Après la fusion de l'âme morontielle immortelle et de l'Ajusteur associé, toute l'expérience et toutes les valeurs de l'une deviennent finalement la possession de l'autre, de sorte que nous ne sommes en réalité qu'une seule entité. (110:7)
 Les Fils Créateurs dans l'association de la Déité de Dieu le Septuple fournissent le mécanisme par lequel le mortel devient immortel et le fini atteint l'étreinte de l'infini. (0:8.11) (180:3.7)
@@ -1221,7 +1228,7 @@ l'Absolu Non Qualifié n'est pas une influence indifférenciée et omniprésente
 Sensibilisateurs d'éthique; sensibilisateurs d'éthique | | superviseur séraphin | ORDER | OK
 Les sensibilisateurs éthiques sont des séraphins superviseurs dont la mission est de favoriser et de promouvoir la croissance de l'appréciation des créatures de la moralité des relations interpersonnelles, car telle est la semence et le secret de la croissance continue et déterminée de la société et du gouvernement, humain ou surhumain. (39:3.7)
 
-éthique; Éthique; Éthique; éthique | | morale | | OK
+éthique; Éthique; Éthique; éthique; éthiques | | morale | | OK
 Toutes les relations et l'application de l'éthique découlent des faits fondamentaux de l'origine. (28:6.2)
 L'éthique statique et la morale traditionnelle sont à peine surhumaines. L'éthique et la morale deviennent véritablement humaines lorsqu'elles sont dynamiques et progressives, vivantes avec la réalité de l'univers. (12:5.10)
 L'éthique humaine et la conscience naturelle du bien et du mal relatif sont nées des concepts d'apaisement des esprits toujours mécontents (86:6.7)
@@ -1234,8 +1241,8 @@ Le secret, le manque de sincérité et l'hypocrisie peuvent occulter les problè
 L'acquisition par l'homme du jugement éthique et de la volonté morale coïncide généralement avec l'apparition du langage primitif. (52:1.6)
 défini comme
 	La sensibilité éthique est le sens de l'adéquation éternelle des relations de la Déité avec tous les êtres (56:10.8)
-	miroir social externe des développements spirituels internes (102:8.4)
-	L'éthique est le miroir social ou racial extérieur qui reflète fidèlement les progrès, autrement inobservables, des développements spirituels et religieux internes. (170:3.6)
+	L’éthique est le miroir social ou racial éternel qui reflète fidèlement les progrès autrement inobservables des développements spirituels et religieux internes. (102:8.4)
+	Aimer son prochain comme soi-même est la plus haute éthique. (170:3.6)
 	Les obligations éthiques sont innées, divines et universelles. (54:4.4)
 	les éthiques des relations au Paradis ne sont ni des formalités dénuées de sens ni les dictats de castes artificielles mais plutôt les convenances inhérentes (27:4.1)
 	La conscience éthique est simplement la reconnaissance par tout individu des droits inhérents à l'existence de tous les autres individus. (27:3.1) (92:7.5)
@@ -1250,7 +1257,8 @@ Jésus et l'éthique
 	Jésus ne s'est jamais préoccupé d'éthique en tant que telle. Il était entièrement préoccupé de cette communion intérieure et spirituelle avec Dieu le Père qui se manifeste si certainement et si directement par un service extérieur et aimant envers l'homme. (170:3.8-9)
 	La philosophie grecque, associée à la théologie de Paul, constitue toujours la base de l'éthique européenne. (98:7.10)
 
-étiquette | | | | OK
+étiquette; conduite sociale | | | | OK
+Les manières de manger devinrent taboues de bonne heure, d’où l’étiquette de table ancienne et moderne (89:1.6)
 Les Compagnons Morontiels sont des instructeurs de conduite sociale dans les mondes temporaires (48:3.11)
 Les conseillers techniques enseignent la meilleure et la bonne façon de faire les choses (25:4.17)
 
@@ -1297,7 +1305,7 @@ le deuxième jardin a été construit au milieu des fleuves Euphrate et Tigre, a
 Un petit groupe de Nodites, à l'embouchure du Tigre et de l'Euphrate, conserva une plus grande partie de son intégrité raciale. Ils étaient les ascendants des Sumériens. (77:4.6) (78:8)
 > https://en.wikipedia.org/wiki/Euphrate
 
-Europe; Européen | | Iles Britanniques; Angleterre; France; Allemagne; Irlande; Italie; Norvège; Écosse; Espagne; Pays de Galles | PLACE | OK
+Europe; Européen; européen; européenne | | Iles Britanniques; Angleterre; France; Allemagne; Irlande; Italie; Norvège; Écosse; Espagne; Pays de Galles | PLACE | OK
 géologie
 	L'Europe et l'Afrique ont commencé à sortir des profondeurs du Pacifique (57:8.21)
 	Il y a 360 millions d'années, l'Europe occidentale et les îles britanniques étaient en train d'émerger, à l'exception de certaines parties du Pays de Galles, qui étaient profondément submergées. (59:1.17)
@@ -1357,7 +1365,7 @@ le 19 novembre 29 après J.C., Jésus procéda à l'ordination des soixante-dix 
 le 30 décembre 29 après J.C., les soixante-dix retournèrent à Pella (163:6)
 Jésus a assuré qu'il y avait des messagers invisibles aux côtés des évangélistes (175:1.8)
 
-évangiles du destin | | | ORDER | OK
+évanges de destinée | | | ORDER | OK
 Les évangiles de la destinée proclament la liberté spirituelle et la filiation divine même dans les mondes les plus reculés de l'univers (35:3.21)
 
 Évanges de Lumière | | | ORDER | OK
@@ -1396,7 +1404,7 @@ après la faute
 
 êtres transcendantaux exaucés | | Transcendantaux | ORDER | OK
 
-éventuation; eventuer | | réalité:niveaux de réalité:réalité absonite; Transcendantaux | | OK
+éventuation; eventuer; extériorisent; extériorisés; extérioriser | | réalité:niveaux de réalité:réalité absonite; Transcendantaux | | OK
 L'extériorisation est le processus par lequel des êtres transcendantaux sont amenés à l'existence. Ces « extériorisateurs » ne sont ni finis ni infinis – ils sont absonites; et l'absonité n'est ni infinité ni absolue. (30:1.92-99)
 Ces êtres extériorisés incluent les ordres suivants :
 # Les Architectes du Maître Univers.
@@ -1409,12 +1417,12 @@ Au Paradis, il existe une tradition selon laquelle, très loin dans l'éternité
 
 eventuateurs | | Transcendantaux | | OK
 
-omniprésence | | omniprésence | | OK
+en tout lieu | | omniprésence | | OK
 
 Èveson | | | PERSON | OK
 Èveson est le deuxième fils d'Adam; il est devenu un chef magistral. Il est décédé avant Adam (74:6.2) (76:3.3)
 
-preuve; Preuve | | certitude | | OK
+preuve; Preuve; Témoignage; témoignages | | certitude | | OK
 La preuve, la base de l'équité, de la justice en harmonie avec la miséricorde, est fournie par les personnalités de la Troisième Source-Centre, le représentant conjoint du Père et du Fils dans tous les royaumes et dans l'esprit des êtres intelligents de toute la création. (10:6.3)
 Le jugement, l'application finale de la justice en accord avec les preuves présentées par les personnalités de l'Esprit Infini, est l'œuvre des Fils Stationnaires de la Trinité, êtres participant de la nature trinitaire du Père, du Fils et de l'Esprit unis. (10:6.3-4)
 
@@ -1523,7 +1531,7 @@ esprits maléfiques | | possession démoniaque | | OK
 		Les amibes et les protozoaires sont un mouvement rétrograde dans l'évolution animale (65:2.4)
 		les étapes les plus importantes concernant les plantes étaient la fabrication de la chlorophylle et des graines (65:6.3)
 	évolution animale
-		Bientôt, les premiers types d'animaux unicellulaires se sont regroupés en communautés, d'abord sur le modèle du Volvox, puis sur celui de l'Hydre et des méduses. Plus tard encore, sont apparus les étoiles de mer, les lis de pierre, les oursins, les concombres de mer, les myriapodes, les insectes, les araignées, les crustacés et les groupes étroitement apparentés des vers de terre et des sangsues, bientôt suivis par les mollusques (65:2.5).
+		Bientôt, les premiers types d'animaux unicellulaires se sont regroupés en communautés, d'abord sur le modèle du Volvox, puis sur celui de l'Hydre et des méduses. Plus tard encore, sont apparus les étoiles de mer, les lis de pierre, les oursins, les concombres de mer, les myriapodes, les insectes, les araignées, les crustacés et les groupes étroitement apparentés des lombrics et des sangsues, bientôt suivis par les mollusques (65:2.5).
 		Le décor était donc planté pour l'apparition des premiers animaux à colonne vertébrale, les poissons. La grenouille est l'un des premiers ancêtres survivants de la race humaine (65:2.6-7).
 		Les grenouilles ont donné naissance aux Reptiles, une grande famille animale aujourd'hui pratiquement éteinte, mais qui, avant de disparaître, a donné naissance à toute la famille des oiseaux et à de nombreux ordres de mammifères. Le plus grand bond en avant de toute l'évolution préhumaine a probablement été accompli lorsque le reptile est devenu un oiseau. (65:2.8-9)
 		Les premiers dinosaures herbivores ont développé une armure protectrice. Au fil du temps, l'intelligence et l'agilité ont remplacé l'armure et la taille dans la progression de la survie animale. (60:1.10) (60:2.11,14) (60:3.21) (61:2.5)
@@ -1617,7 +1625,7 @@ races évolutives | | races | | OK
 
 exaltation, soi | | suffisance | | OK
 
-examens; examinateurs; examen | | | | OK
+examens; examinateurs; examen; examiner | | | | OK
 Les trieurs sélectifs nous examinent dès que nous enregistrons une réalisation spirituelle adéquate pour la certifier (48:2.23)
 De temps à autre, les citoyens de Jérusalem se présentent devant les examinateurs de Melchizédek, qui certifient qu'ils ont atteint la sagesse morontielle. Ils se présentent ensuite devant le corps des examinateurs des Brillantes Étoiles du Soir ou leurs représentants désignés, qui vérifient leur degré de perspicacité spirituelle. Ils comparaissent ensuite en présence des vingt-quatre conseillers et de leurs associés, qui se prononcent sur leur statut d'accomplissement expérientiel de la socialisation. (45:7.7)
 Un homme bon et noble peut être profondément amoureux de sa femme, mais tout à fait incapable de passer un examen écrit satisfaisant sur la psychologie de l'amour conjugal. L'incapacité à passer des examens écrits ne prouve pas qu'il est inapte à vivre la réalité (103:8.3).
@@ -1634,17 +1642,17 @@ Les enfants ne sont impressionnés de façon durable que par la loyauté de leur
 
 excitation | | émotions | | OK
 
-excommunication | | | | OK
+excommunication; excommuniés | | | | OK
 Non seulement Jésus se vit refuser l'entrée dans toutes les synagogues, mais tous ceux qui croyaient en son enseignement furent également chassés de la synagogue, excommuniés de la congrégation d'Israël; et cela signifiait le déni de tous les droits et privilèges de toute sorte dans toute la communauté juive, à l'exception du droit d'acheter les choses nécessaires à la vie. (164:4.6)
 Josias l'aveugle fut chassé de la synagogue (164:4.11) (164:5.4-5)
 Caïphe convoqua le Sanhédrin pour décider que des mesures seraient prises afin de chasser des synagogues toute personne qui ferait mention de la résurrection de Jésus. (190:3.3)
 Cléopas, le frère aîné des disciples d'Emmaüs, avait été chassé de la synagogue (190:5.1)
 
-excréments | | assainissement | | OK
+excréments; excrément | | assainissement | | OK
 Le secret entourant l'élimination du corps est né de la crainte qu'un ennemi puisse prendre possession de quelque chose provenant du corps et l'utiliser dans une magie nuisible; tous les excréments du corps étaient donc soigneusement enterrés. (88:5.1)
 La nourriture et l'eau sont toutes deux pleinement utilisées dans le corps morontiel; il n'y a aucun déchet résiduel. (47:4.6)
 
-superviseurs d'excursion et de retour | | | ORDER | OK
+superviseurs d'excursion et de retour; Superviseurs d’excursions et de rétrospection | | | ORDER | OK
 Les Compagnons Morontiels sont tout simplement des hôtes bienveillants pour ceux qui commencent juste leur longue ascension intérieure. Les superviseurs d'excursions et de retours nous accompagneront lors des voyages les plus longs vers la sphère du siège et vers les mondes environnants de culture de transition. Ils planifient, dirigent et supervisent toutes ces visites individuelles et de groupe dans les mondes systémiques de formation et de culture. (25:7.1) (47:3.12) (48:3.14)
 
 bourreaux des Anciens des Jours | | exécuteurs divins | ORDER | OK
@@ -1653,7 +1661,8 @@ bourreaux des Anciens des Jours | | exécuteurs divins | ORDER | OK
 
 réalité existentielle | | réalité:niveaux de réalité:réalité existentielle | | OK
 
-Exode | (145:2.2) | | | 
+Exode | | | | OK
+Le Livre de l'Exode est cité comme l'un des livres que Jésus a utilisés dans la sinagoga. (145:2.2)
 
 exogamie | | mariage | | OK
 
@@ -1693,10 +1702,10 @@ Toute expérience humaine est en réalité subjective, à l'exception de la réa
 expérientiels; expérientiel | | réalité:niveaux de réalité | | OK
 C'est un pouvoir gagné, un pouvoir démontré, un pouvoir expérientiel; il contraste avec le pouvoir éternel, le pouvoir insondable, le pouvoir existentiel des Déités du Paradis. (106:2.3)
 
-experts en communication | | manipulateurs d'énergie; artisans célestes | ORDER | OK
-Les experts en communication font partie du groupe des Manipulateurs d'Énergie des Artisans Célestes. Ce sont les techniciens de la communication interplanétaire. Douze d'entre eux servent sur Urantia (44:5.7)
+spécialistes des communications | | manipulateurs d'énergie; artisans célestes | ORDER | OK
+Les spécialistes des communications font partie du groupe des Manipulateurs d'Énergie des Artisans Célestes. Ce sont les techniciens de la communication interplanétaire. Douze d'entre eux servent sur Urantia (44:5.7)
 
-exploitation | | | | OK
+exploitation; exploiter | | | | OK
 Le conseil de Jésus sur la richesse : Aucun mortel qui connaît Dieu et cherche à faire la volonté divine ne peut s'abaisser à se livrer aux oppressions de la richesse. Aucun homme noble ne s'efforcera d'accumuler des richesses et d'amasser le pouvoir de la richesse en asservissant ou en exploitant injustement ses frères dans la chair. (132:5.6,18)
 Jésus détestait profiter des faibles, des ignorants ou des moins fortunés (140:8.21) (147:8.4) (163:2.11) (173:1.11)
 La maîtrise de soi conduit au service altruiste; l'admiration de soi tend à l'exploitation des autres pour l'agrandissement égoïste d'un individu égaré qui est prêt à sacrifier la réalisation de la justice pour posséder un pouvoir injuste sur ses semblables. (54:1.6)
@@ -1706,7 +1715,7 @@ Les Andites ne s'arrêtèrent jamais avant d'avoir fait le tour du globe et déc
 Le commerce, lié à l'aventure, a conduit à l'exploration et à la découverte. (69:4.8)
 Dans un monde moyen, la période post-adamique est une époque de grande invention, de contrôle de l'énergie et de développement mécanique. C'est l'ère de l'apparition de la fabrication multiforme et du contrôle des forces naturelles; c'est l'âge d'or de l'exploration et de la soumission finale de la planète. (52:3.6)
 
-instructeurs de l'école d'extension | | | ORDER | OK
+instructeurs de l'école d'extension; instructeurs des écoles complémentaires | | | ORDER | OK
 ils apparaissent dans le registre de personnalité d'Uversa (30:2.153)
 Les instructeurs des écoles d'extension sont les enseignants du monde juste en dessous, une sorte d'école préparatoire pour les résidents en progression de cette sphère; c'est une phase du plan ascendant pour faire progresser les pèlerins du temps. Ces écoles, leurs méthodes d'instruction et d'examens, sont tout à fait différentes de tout ce que nous faisons sur Urantia. (30:3.8)
 
