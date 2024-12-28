@@ -1129,6 +1129,11 @@ const Strings = {
 		es: "Esta página es un contenedor para un nombre. Para ver la página con todo el contenido usa los enlaces de abajo.",
 		fr: "Cette page est un espace réservé pour un nom. Pour accéder à la page avec tout le contenu, utilisez le liens ci-dessous."
 	},
+	"topicNotRevised": {
+		en: "This page has not been revised yet and it is not completed in a first version. It is only a summarized placeholder for the final version.",
+		es: "Esta página aún no ha sido revisada y no está completa en una primera versión. Es solo un contenedor resumido para la versión final.",
+		fr: "Cette page n'a pas encore été révisée et n'est pas complète dans une première version. Ce n'est qu'un espace réservé résumé pour la version finale."
+	},
 	"topicRedirectsThis": {
 		en: "Redirects to this topic",
 		es: "Redirige a este tema",

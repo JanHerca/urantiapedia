@@ -1077,6 +1077,9 @@ class TopicIndex {
 				topic.revised
 			);
 			const redirectText = isRedirect ? this.tr('topicRedirect') : null;
+			const notRevisedText = !topic.revised 
+				? this.tr('topicNotRevised') 
+				: null;
 			const redirectsThis = this.topics
 				.filter(t => {
 					return (
@@ -1127,7 +1130,11 @@ class TopicIndex {
 			// }
 			//If topic is a redirect
 			if (isRedirect) {
-				html += `<p><em>${redirectText}</em></p>\r\n`;
+				html += `<blockquote class="is-info"><em>${redirectText}</em></blockquote>\r\n`;
+			}
+			//If topic is not revised
+			if (!topic.revised) {
+				html += `<blockquote class="is-warning"><p><img draggable="false" alt="🚧" src="/_assets/svg/twemoji/1f6a7.svg" class="emoji"> <em>${notRevisedText}</em></p></blockquote>\r\n`;
 			}
 
 			//Add line content with headings and references
@@ -1347,8 +1354,6 @@ class TopicIndex {
 	writeIndexToWikijs = (dirPath, category, topicIndexEN) => {
 		let filename = null;
 		const baseName = path.basename(dirPath);
-		const emojiDone = '<img draggable="false" alt="☑️" src="/_assets/svg/twemoji/2611.svg" class="emoji">';
-		const emojiTodo = '<img draggable="false" alt="🔳" src="/_assets/svg/twemoji/1f533.svg" class="emoji">';
 		if (category === 'ALL') {
 			filename = 'topics.html';
 		} else if (category === 'PERSON') {
@@ -1398,6 +1403,37 @@ class TopicIndex {
 					return 0;
 				});
 			
+			const letters = [];
+			
+			topics.forEach(topic => {
+				const filenameLetter = topic.filename.substring(0, 1);
+				if (filenameLetter != '_' && 
+					!letters.includes(filenameLetter)) 
+				{
+					letters.push(filenameLetter);
+				}
+			});
+
+			html += 
+				'<div class="d-flex layout row wrap justify-start" ' +
+					'style="gap: 10px;">\r\n' +
+				letters.map(l => {
+					return '<div class="d-flex mx-1 my-1" ' +
+						'style="flex-basis: auto;">\r\n' +
+						`<a href="#${l}" class="mx-0 v-btn v-btn--depressed ` +
+							'v-btn--flat v-btn--outlined v-btn--router ' +
+							'theme--light v-size--small indigo--text ' +
+							'is-internal-link is-valid-page">' +
+							'<span class="v-btn__content">' +
+								'<div class="caption">' +
+									`<strong>${l.toUpperCase()}</strong>` +
+								'</div>' +
+							'</span>' +
+						'</a>\r\n'+
+					'</div>';
+				}).join('\r\n') +
+				'</div>\r\n';
+
 			const topicErr = [];
 			topics.forEach((topic, i) => {
 				const topicEN = (this.language === 'en' ? topic :
@@ -1429,11 +1465,9 @@ class TopicIndex {
 					}
 				}
 				const pagename = topicEN.name.replace(/ /g, '_');
-				// const revised = (topic.revised ? '  &diams;' : '');
-				const revised = (topic.revised ? emojiDone : emojiTodo);
 				const lan = (this.language === 'en' ? '' : '/' + this.language);
 				const href = `${lan}/topic/${pagename}`;
-				html += `\t<div>${revised} <a href="${href}">${topic.name}</a></div>\r\n`;
+				html += `\t<div><a href="${href}">${topic.name}</a></div>\r\n`;
 				if (i === topics.length - 1) {
 					html += '</div>\r\n';
 				}
