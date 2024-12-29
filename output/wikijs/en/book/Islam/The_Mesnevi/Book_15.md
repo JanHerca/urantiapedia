@@ -36,8 +36,6 @@ dateCreated: 2024-11-16T19:16:5Z
 
 ## XV.
 
-![Zeyd's Inspiration.](img/m25400.jpg)
-
 THE Prophet asked one morn of Zeyd, in tender tone,[^375]
 “How art thou, dear disciple, faithful to the bone?”
 “I'm pious;—a believer,” Zeyd replied; and he

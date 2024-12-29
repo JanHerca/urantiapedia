@@ -13,7 +13,7 @@ dateCreated: 2024-11-18T23:1:26Z
     <tbody>
       <tr>
         <td>
-        <a href="Life_of_Jami">
+        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life of Jámi</span>
         </a>
         </td>
@@ -23,7 +23,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="Appendix">
+        <a href="/en/book/Islam/Salaman_and_Absal/Appendix">
           <span class="pr-2">Appendix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -1617,14 +1617,14 @@ Till all its ancient Secret be enlarged.
 Enough—The written Summary I close,
 And set my Seal:
 
-     The Truth God only Knows.
+&nbsp;&nbsp;&nbsp;The Truth God only Knows.
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="Life_of_Jami">
+        <a href="/en/book/Islam/Salaman_and_Absal/Life_of_Jami">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life of Jámi</span>
         </a>
         </td>
@@ -1634,7 +1634,7 @@ And set my Seal:
         </a>
         </td>
         <td>
-        <a href="Appendix">
+        <a href="/en/book/Islam/Salaman_and_Absal/Appendix">
           <span class="pr-2">Appendix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

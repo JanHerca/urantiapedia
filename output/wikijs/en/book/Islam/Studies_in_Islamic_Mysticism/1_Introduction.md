@@ -80,3 +80,7 @@ For the sake of clearness, I have divided the following study into three section
 ## Footnotes
 
 [^2]: 2:1 _Asrár_, 4, 16-6, 5.
+
+[^3]: 3:1 In referring to these two works I shall use the abbreviations H = _Ḥálát_ and A =_Asrár_. Since A includes almost the whole of H, I have usually given references to the former only.
+
+[^4]: 3:2 The oldest notice of Abú Sa‘íd occurs in the _Kashf al-Malḥjúb_ of his contemporary, Hujwírí, who mentions him frequently in the course of that work. See especially pp. 164-6 of the translation.

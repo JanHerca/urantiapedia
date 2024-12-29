@@ -119,7 +119,7 @@ Kabir tried to find common ground between Hindus and Muslims. Kabir's mystical a
 - [LXIX](/en/book/Islam/Songs_of_Kabir/61_70#lxix)
 - [LXX](/en/book/Islam/Songs_of_Kabir/61_70#lxx)
 - [LXXI](/en/book/Islam/Songs_of_Kabir/71_80)
-- [LXXII](/en/book/Islam/Songs_of_Kabir/71_80lxxii)
+- [LXXII](/en/book/Islam/Songs_of_Kabir/71_80#lxxii)
 - [LXXIII](/en/book/Islam/Songs_of_Kabir/71_80#lxxiii)
 - [LXXIV](/en/book/Islam/Songs_of_Kabir/71_80#lxxiv)
 - [LXXV](/en/book/Islam/Songs_of_Kabir/71_80#lxxv)

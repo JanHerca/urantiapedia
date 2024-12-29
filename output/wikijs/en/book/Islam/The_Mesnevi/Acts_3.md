@@ -1284,6 +1284,8 @@ The prince told him of Bahā Veled, now Sheykh of the city, and the peerless sai
 
 [^9]: 18:1 The truly eminent author of the Mesnevī.
 
+[^10:] (no content)
+
 [^11]: 20:1 From the city of Sarakhs in Khurāsān.
 
 [^12]: 23:1 Had Dr. Tanner, the forty days’ faster at New York, heard of these performances?

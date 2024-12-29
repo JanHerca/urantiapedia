@@ -40,7 +40,7 @@ Man, is not he Creation's last appeal,
 The light of Wisdom's eye? Behold the wheel
 Of universal life as ’twere a ring,
 But Man the superscription and the seal.
-                                      Omar Khayyam.
+&nbsp;&nbsp;&nbsp;Omar Khayyam.
 
 Οὕτως, φησίν, ἐστι πάνυ βαθεῖα καὶ δυσκατάληπτος ἡ τοῦ τελείου ἀνθρώπου γνῶσις. Ἀρχὴ γάρ, φησίν, τελειώσεως γνῶσις ἀνθρώπου· θεοῦ δὲ γνῶσις ἀπηρτισμένη τελείωσις· Hippolytus.
 
@@ -160,11 +160,10 @@ I trust that the following analysis and exposition is full enough to bring out t
 [^224]: 80:2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Contrast this with the monistic expression of the same thought by Jílí (K I. 51, 1): “We are the spirit of One, though we dwell by turns in two bodies.” So, too, Jalálu’ddín Rúmí (Divāni Shamsi Tabrīz, p. 153):
-
-“Happy the moment when we are seated in the palace, thou and I,
- With two forms and with two figures, but with one soul, thou and I.”
-
-Cf. K II. 121, 11 foll.: “Essential love is love in Oneness, so that each of the lovers appears in the form of the other and represents the other. Inasmuch as the love of the body and the soul is essential, the soul is pained by the body's pain in this world, while the body is pained by the soul's pain in the other world: then each of them appears in the other's form.”
+  “Happy the moment when we are seated in the palace, thou and I,
+  With two forms and with two figures, but with one soul, thou and I.”
+  
+  Cf. K II. 121, 11 foll.: “Essential love is love in Oneness, so that each of the lovers appears in the form of the other and represents the other. Inasmuch as the love of the body and the soul is essential, the soul is pained by the body's pain in this world, while the body is pained by the soul's pain in the other world: then each of them appears in the other's form.”
 
 [^226]: 81:1 I do not know on what authority Dr Goldziher in his article on Jílí in the _Encycl. of Islam_ (vol. I, p. 46) connects the _nisba_ with Jíl, a village in the district of Baghdád. Jílí calls himself ![](/image/book/Islam/Studies_in_Islamic_Mysticism/08100.jpg) (Loth, Cat. of Arabic MSS. in the India Office Library, p. 182, col. I, l. 7 from foot). He traced his descent to a _sibṭ_ of ‘Abdu ’l-Qádir, _i.e._, to a son of the Shaykh's daughter.
 

@@ -34,7 +34,7 @@ dateCreated: 2024-11-22T20:3:38Z
 
 <span id="p143">[<sup><small>p. 143</small></sup>]</span>
 
-Mention has been made ([p. 99](2_3#p99), note [2](2_3#fn288) _supra_) of Jílí's ode entitled al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. In the _Insánu ’l-Kámil_ he cites 36 of its 534 verses (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; and 76, 15) and describes it as a magnificent and unique composition, too sublime to be fully understood. It is, however, little more than a versified summary of matter set forth in the _Insánu ’l-Kámil_, though in some instances the author expresses himself with a freedom and boldness which would hardly be tolerated in a prose treatise. As a poem, apart from its ungraceful style, it suffers from expounding a theory of mystical philosophy and cannot bear comparison with Ibnu ’l-Fáriḍ's _Tá’iyya_—the poetry of pure mysticism. The extracts given below have been copied from a manuscript in the British Museum (Or. 3684; Rieu's Suppl. to the Catalogue of Arabic MSS. No. 245) containing the text together with a commentary by ‘Abdu ’l-Ghaní al-Nábulusí.
+Mention has been made ([p. 99](./2_3#p99), note [2](./2_3#fn288) _supra_) of Jílí's ode entitled al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. In the _Insánu ’l-Kámil_ he cites 36 of its 534 verses (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; and 76, 15) and describes it as a magnificent and unique composition, too sublime to be fully understood. It is, however, little more than a versified summary of matter set forth in the _Insánu ’l-Kámil_, though in some instances the author expresses himself with a freedom and boldness which would hardly be tolerated in a prose treatise. As a poem, apart from its ungraceful style, it suffers from expounding a theory of mystical philosophy and cannot bear comparison with Ibnu ’l-Fáriḍ's _Tá’iyya_—the poetry of pure mysticism. The extracts given below have been copied from a manuscript in the British Museum (Or. 3684; Rieu's Suppl. to the Catalogue of Arabic MSS. No. 245) containing the text together with a commentary by ‘Abdu ’l-Ghaní al-Nábulusí.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14300.jpg">
@@ -72,7 +72,7 @@ _v_. ٢٠. The rhyme in this poem is _muqayyad_. Even Jílí could not have writ
 
 _v_. ١, ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14601.jpg) variant ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14602.jpg).
 
-_v_. ٦. MS. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14603.jpg). Cf. [p. 123](2_5#p123) _supra_.
+_v_. ٦. MS. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14603.jpg). Cf. [p. 123](./2_5#p123) _supra_.
 
 _v_. ٨ foll. The terms “ascent” and “descent” are improperly applied to the spirit, which has its being in God ( ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14604.jpg) in _v_. ١. means ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14605.jpg)). In order to distinguish it from God, we say that it is particularised and individualised, _i.e._ created; and we give the name of “spirit” to this individualisation, by means of which God displays Himself as in a mirror.
 
@@ -90,9 +90,9 @@ _v_. ١٤. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14606.jpg) is a co
 
 _v_. ٢١ MS. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14702.jpg).
 
-_v_. ٢ foll. Cf. [p. 151](2_Appendix2#p151) _infra_.
+_v_. ٢ foll. Cf. [p. 151](./2_Appendix2#p151) _infra_.
 
-_v_. ١٢ foll. Cf. [p. 126](2_6#p126) _supra_.
+_v_. ١٢ foll. Cf. [p. 126](./2_6#p126) _supra_.
 
 <span id="p148">[<sup><small>p. 148</small></sup>]</span>
 

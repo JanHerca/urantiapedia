@@ -196,7 +196,6 @@ Hafiz is rather the forerunner than the founder of this school of poets. It is e
 [^13]: Sayyed Ahmed of Isfahan.
 
 [^14]: Listen to the advice of an Afghan singer who wrote his _Ars Poetica_ in the mountains south of Peshawar about the middle of the seventeenth century:—
-
   “The arrow needs an archer, and poetry a magician.
   “He must hold ever in the hand of his mind the weighing scales of metre, rejecting the verse which is too short and that which is too long.
   “His mistress, Truth, shall mount her black steed, the veil of allegory drawn across her brow.
@@ -204,7 +203,6 @@ Hafiz is rather the forerunner than the founder of this school of poets. It is e
   “Let the poet place upon her fingers the jewels of the art of many hues, adorn her with the sandal-wood and the saffron of metaphor;
   “The bells of alliteration like bangles upon her feet, and on her bosom the necklace of a mysterious rhythm.
   Add to these the hidden meaning, like eyes half seen through their lashes, that her whole body may be a perfect mystery.“_Translation of the Kilidi Afghani_,” by T. C. Plowden.
-
   I fear the outcome of these directions is too often “amphora coepit institui, currente rota cur urceus exit,” and perhaps the advice of Horace may be the better of the two “denique sit quod vis, simplex dumtaxat et unum.”
 
 [^15]: _Cantique des Cantiques_.

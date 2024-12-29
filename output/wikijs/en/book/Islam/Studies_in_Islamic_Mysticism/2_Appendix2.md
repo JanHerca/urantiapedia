@@ -118,122 +118,122 @@ The child affects the father's disposition, so that he descends from his authori
 
 ## Footnotes
 
-[^463]: 149:1 The edition used is that published at Cairo in a.h. 1321.
+[^461]: 149:1 The edition used is that published at Cairo in a.h. 1321.
 
-[^464]: 149:2 See p. 88.
+[^462]: 149:2 See p. 88.
 
-[^465]: 150:1 _Fuṣúṣ_, 74.
+[^463]: 150:1 _Fuṣúṣ_, 74.
 
-[^466]: 150:2 This mode of thought leads Ibnu ’l-‘Arabí to indulge in daring paradoxes, _e.g._, “He praises me (by manifesting my perfections and creating me in His form), and I praise Him (by manifesting His perfections and obeying Him). How can He be independent when I help and aid Him? (because the Divine attributes derive the possibility of manifestation from their correlates). For that cause God brought me into existence, and I know Him and bring Him into existence (in my knowledge and contemplation of Him).” _Fuṣúṣ_, 78.
+[^464]: 150:2 This mode of thought leads Ibnu ’l-‘Arabí to indulge in daring paradoxes, _e.g._, “He praises me (by manifesting my perfections and creating me in His form), and I praise Him (by manifesting His perfections and obeying Him). How can He be independent when I help and aid Him? (because the Divine attributes derive the possibility of manifestation from their correlates). For that cause God brought me into existence, and I know Him and bring Him into existence (in my knowledge and contemplation of Him).” _Fuṣúṣ_, 78.
 
-[^467]: 150:3 God is the _‘ayn_ (identity) of the attributes, in the sense that they are not superadded to His Essence but are relations of the Essence as subject to itself as object (_Fuṣúṣ_, 226). The universe is the objectified sum of these relations.
+[^465]: 150:3 God is the _‘ayn_ (identity) of the attributes, in the sense that they are not superadded to His Essence but are relations of the Essence as subject to itself as object (_Fuṣúṣ_, 226). The universe is the objectified sum of these relations.
 
-[^468]: 151:1 _Fuṣúṣ_, 16 fol.
+[^466]: 151:1 _Fuṣúṣ_, 16 fol.
 
-[^469]: 151:2 _Ibid_. 142.
+[^467]: 151:2 _Ibid_. 142.
 
-[^470]: 151:3 _Mújad_ (the thing brought into existence) implies _mújid_ (one who brings it into existence).
+[^468]: 151:3 _Mújad_ (the thing brought into existence) implies _mújid_ (one who brings it into existence).
 
-[^471]: 151:4 _Fuṣúṣ_, 139 foll.
+[^469]: 151:4 _Fuṣúṣ_, 139 foll.
 
-[^472]: 151:5 _Ibid_. 76.
+[^470]: 151:5 _Ibid_. 76.
 
-[^473]: 151:6 _Ibid_. 77. The determining “self” is really an individualisation (_ḥaqíqa_) of God.
+[^471]: 151:6 _Ibid_. 77. The determining “self” is really an individualisation (_ḥaqíqa_) of God.
 
-[^474]: 151:7 _Ibid_. 75-6.
+[^472]: 151:7 _Ibid_. 75-6.
 
-[^475]: 152:1 Abú Sa‘íd al-Kharráz (_ob_. a.d. 890) was a well-known Ṣúfí of Baghdád. See _Kashf al-Maḥjúb_, translation, [p. 241](3_vv_400_499#p241) foll.
+[^473]: 152:1 Abú Sa‘íd al-Kharráz (_ob_. a.d. 890) was a well-known Ṣúfí of Baghdád. See _Kashf al-Maḥjúb_, translation, [p. 241](./3_vv_400_499#p241) foll.
 
-[^476]: 152:2 The mystic cannot know God unless he is illuminated by all the Divine attributes, so that he becomes a _ḥaqq_. See [p. 128](2_6#p128).
+[^474]: 152:2 The mystic cannot know God unless he is illuminated by all the Divine attributes, so that he becomes a _ḥaqq_. See [p. 128](./2_6#p128).
 
-[^477]: 152:3 Every individual is conscious of having different faculties and qualities.
+[^475]: 152:3 Every individual is conscious of having different faculties and qualities.
 
-[^478]: 152:4 One in the first degree is one, in the second ten, in the third a hundred, in the fourth a thousand, and each of these degrees comprises simple and complex numbers, just as species comprise individuals and genera species.
+[^476]: 152:4 One in the first degree is one, in the second ten, in the third a hundred, in the fourth a thousand, and each of these degrees comprises simple and complex numbers, just as species comprise individuals and genera species.
 
-[^479]: 153:1 Real Being, when limited by a universal individualisation, is Nature, from which are manifested secondary and tertiary individualisations, _viz_., natural bodies of various kinds.
+[^477]: 153:1 Real Being, when limited by a universal individualisation, is Nature, from which are manifested secondary and tertiary individualisations, _viz_., natural bodies of various kinds.
 
-[^480]: 153:2 Nature may be regarded either as all the particular forms in which Reality reveals itself or as the universal form of Reality revealing itself in all particular forms.
+[^478]: 153:2 Nature may be regarded either as all the particular forms in which Reality reveals itself or as the universal form of Reality revealing itself in all particular forms.
 
-[^481]: 153:3 _Fuṣúṣ_, 63 foll.
+[^479]: 153:3 _Fuṣúṣ_, 63 foll.
 
-[^482]: 153:4 See p. 94.
+[^480]: 153:4 See p. 94.
 
-[^483]: 153:5 _Fuṣúṣ_, 72 fol.
+[^481]: 153:5 _Fuṣúṣ_, 72 fol.
 
-[^484]: 153:6 _Ibid_. 230 fol.
+[^482]: 153:6 _Ibid_. 230 fol.
 
-[^485]: 153:7 _Ibid_. 113 foll.
+[^483]: 153:7 _Ibid_. 113 foll.
 
-[^486]: 153:8 _Ibid_. 182.
+[^484]: 153:8 _Ibid_. 182.
 
-[^487]: 154:1 But there is no moment of not-being between the successive acts of creation (_Fuṣúṣ_, 196 fol.). The author compares this with the Ash‘arite _tajdídu ’l-a‘ráḍ_
+[^485]: 154:1 But there is no moment of not-being between the successive acts of creation (_Fuṣúṣ_, 196 fol.). The author compares this with the Ash‘arite _tajdídu ’l-a‘ráḍ_
 
-[^488]: 154:2 _Fuṣúṣ_, 553 foll., 239. Cf. Macdonald, _Development of Muslim Theology_, p. 201 foll.
+[^486]: 154:2 _Fuṣúṣ_, 553 foll., 239. Cf. Macdonald, _Development of Muslim Theology_, p. 201 foll.
 
-[^489]: 154:3 _Fuṣúṣ_, 46, 132. The attributes are really latent in the Essence and identical with it. Cf. [p. 90](2_1#p90) _supra_.
+[^487]: 154:3 _Fuṣúṣ_, 46, 132. The attributes are really latent in the Essence and identical with it. Cf. [p. 90](./2_1#p90) _supra_.
 
-[^490]: 154:4 _I.e._, relative existence, wherein Absolute Being is reflected.
+[^488]: 154:4 _I.e._, relative existence, wherein Absolute Being is reflected.
 
-[^491]: 155:1 The world of things was brought into existence before the creation of Man, in so far as every Divine attribute (universal) logically implies the existence of its corresponding particular, which is the Essence individualised by that relation, whereas Man alone is the Essence individualised by all relations together. Since the universe could not manifest the unity of Being until Man appeared in it, it was like an unpolished mirror or a body without a soul.
+[^489]: 155:1 The world of things was brought into existence before the creation of Man, in so far as every Divine attribute (universal) logically implies the existence of its corresponding particular, which is the Essence individualised by that relation, whereas Man alone is the Essence individualised by all relations together. Since the universe could not manifest the unity of Being until Man appeared in it, it was like an unpolished mirror or a body without a soul.
 
-[^492]: 155:2 The “most holy emanation” (_al fayḍu ’l-aqdas_) is the eternal manifestation of the Essence to itself. This emanation is received by the essences of things (_al-a‘yánu ’l-thábita_) in the plane of unity-in-plurality (_wáḥidiyya_), _i.e._, in the Divine knowledge where no distinctions exist. From one point of view, God is never revealed except to Himself; from another, He is revealed to “recipient” modes of Himself, to each in accordance with its “capacity.”
+[^490]: 155:2 The “most holy emanation” (_al fayḍu ’l-aqdas_) is the eternal manifestation of the Essence to itself. This emanation is received by the essences of things (_al-a‘yánu ’l-thábita_) in the plane of unity-in-plurality (_wáḥidiyya_), _i.e._, in the Divine knowledge where no distinctions exist. From one point of view, God is never revealed except to Himself; from another, He is revealed to “recipient” modes of Himself, to each in accordance with its “capacity.”
 
-[^493]: 155:3 I have omitted a few lines here, to the effect that Man unites all aspects of God—the oneness of the Essence, the plurality of the Divine attributes, and the world of Nature. This truth, the author adds, cannot be apprehended save by mystical perception.
+[^491]: 155:3 I have omitted a few lines here, to the effect that Man unites all aspects of God—the oneness of the Essence, the plurality of the Divine attributes, and the world of Nature. This truth, the author adds, cannot be apprehended save by mystical perception.
 
-[^494]: 156:1 _I.e._, the etymological explanation of the name _insán_ is that Man _yu’nis_ or _yu’ánis_ (knows or is familiar with) all things: the three Arabic words are derived from the same root.
+[^492]: 156:1 _I.e._, the etymological explanation of the name _insán_ is that Man _yu’nis_ or _yu’ánis_ (knows or is familiar with) all things: the three Arabic words are derived from the same root.
 
-[^495]: 156:2 By bringing them into existence. Cf. [p. 98](2_3#p98) _supra_.
+[^493]: 156:2 By bringing them into existence. Cf. [p. 98](./2_3#p98) _supra_.
 
-[^496]: 156:3 Man's heart (_qalb_) bears the impression of the Greatest Name of God (_i.e._, the Essence) together with all the other Divine Names.
+[^494]: 156:3 Man's heart (_qalb_) bears the impression of the Greatest Name of God (_i.e._, the Essence) together with all the other Divine Names.
 
-[^497]: 156:4 _Fuṣúṣ_, 8 foll.
+[^495]: 156:4 _Fuṣúṣ_, 8 foll.
 
-[^498]: 157:1 Man is Absolute Being limited by individualisation (_ta‘ayyun_). This limitation, however, is negative and unreal: it consists in failure to receive all individualisations, to be endowed with all attributes, to be named with all names. In so far as Man is a reality (_ḥaqq_) he is not a human creature (_khalq_).
+[^496]: 157:1 Man is Absolute Being limited by individualisation (_ta‘ayyun_). This limitation, however, is negative and unreal: it consists in failure to receive all individualisations, to be endowed with all attributes, to be named with all names. In so far as Man is a reality (_ḥaqq_) he is not a human creature (_khalq_).
 
-[^499]: 157:2 _Fuṣúṣ_, 39 fol.
+[^497]: 157:2 _Fuṣúṣ_, 39 fol.
 
-[^500]: 157:3 “Single” is equivalent to “threefold.” Cf. [p. 151](#p151) _supra_.
+[^498]: 157:3 “Single” is equivalent to “threefold.” Cf. [p. 151](#p151) _supra_.
 
-[^501]: 157:4 _Fuṣúṣ_, 267.
+[^499]: 157:4 _Fuṣúṣ_, 267.
 
-[^502]: 157:5 P. 130 foll.
+[^500]: 157:5 P. 130 foll.
 
-[^503]: 157:6 See [p. 151](#p151) _supra_.
+[^501]: 157:6 See [p. 151](#p151) _supra_.
 
-[^504]: 157:7 _Fuṣúṣ_, 161.
+[^502]: 157:7 _Fuṣúṣ_, 161.
 
-[^505]: 157:8 Jílí denies this. See [p. 102](2_3#p102).
+[^503]: 157:8 Jílí denies this. See [p. 102](./2_3#p102).
 
-[^506]: 158:1 _Fuṣúṣ_, 159.
+[^504]: 158:1 _Fuṣúṣ_, 159.
 
-[^507]: 158:2 _Ibid_. 77.
+[^505]: 158:2 _Ibid_. 77.
 
-[^508]: 158:3 See [p. 54](1_2#p54), note [5](1_2#fn159).
+[^506]: 158:3 See [p. 54](./1_2#p54), note [5](./1_2#fn159).
 
-[^509]: 158:4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
+[^507]: 158:4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
 
-[^510]: 158:5 _Ibid_. 105-6. Job's prayer that God might relieve his pain is justified on the ground that in praying God to remove it he really removed it from God, inasmuch as man is the outward form of God. Such prayer does not evince a want of submission to the Divine decree (_qaḍá_), but dissatisfaction with the thing decreed (_al-maqdí bihi_), which—as explained above—is decreed by means of the individual soul, _i.e._, a particular mode of God, not the absolute God (_ibid_. 218-9). All particular modes, together with the effects attached to them, are (as such) relations devoid of reality. “Effect (_athar_) belongs to the non-existent” (_ibid_. 224). This distinction appears in p. 159 a verse by Jalálu’ddin Rúmi, which has puzzled Mr Whinfield: ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) “I said to him, 'Infidelity is the thing decreed, not the decree'” (_Masnavi-i Ma‘naví_, tr. and abridged by E. H. Whinfield, 2nd ed., p. 125).
+[^508]: 158:5 _Ibid_. 105-6. Job's prayer that God might relieve his pain is justified on the ground that in praying God to remove it he really removed it from God, inasmuch as man is the outward form of God. Such prayer does not evince a want of submission to the Divine decree (_qaḍá_), but dissatisfaction with the thing decreed (_al-maqdí bihi_), which—as explained above—is decreed by means of the individual soul, _i.e._, a particular mode of God, not the absolute God (_ibid_. 218-9). All particular modes, together with the effects attached to them, are (as such) relations devoid of reality. “Effect (_athar_) belongs to the non-existent” (_ibid_. 224). This distinction appears in p. 159 a verse by Jalálu’ddin Rúmi, which has puzzled Mr Whinfield: ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) “I said to him, 'Infidelity is the thing decreed, not the decree'” (_Masnavi-i Ma‘naví_, tr. and abridged by E. H. Whinfield, 2nd ed., p. 125).
 
-[^511]: 159:1 _I.e._, God is revealed in different forms of belief according to the capacity of the believer. The mystic alone sees that He is One in all forms, for the mystic's heart (_qalb_) is all-receptive: it assumes whatever form God reveals Himself in, as wax takes the impression of the seal (_Fuṣúṣ_, 145).
+[^509]: 159:1 _I.e._, God is revealed in different forms of belief according to the capacity of the believer. The mystic alone sees that He is One in all forms, for the mystic's heart (_qalb_) is all-receptive: it assumes whatever form God reveals Himself in, as wax takes the impression of the seal (_Fuṣúṣ_, 145).
 
-[^512]: 159:2 _Fuṣúṣ_, 282. Cf. 135.
+[^510]: 159:2 _Fuṣúṣ_, 282. Cf. 135.
 
-[^513]: 159:3 _Ibid_. 205.
+[^511]: 159:3 _Ibid_. 205.
 
-[^514]: 160:1 Cf. p. 98 fol.
+[^512]: 160:1 Cf. p. 98 fol.
 
-[^515]: 160:2 _I.e._, the finite Lord (_rabb_) who stands in a special and different relation to every object of lordship (_marbúb_). Cf. _Fuṣúṣ_, 95.
+[^513]: 160:2 _I.e._, the finite Lord (_rabb_) who stands in a special and different relation to every object of lordship (_marbúb_). Cf. _Fuṣúṣ_, 95.
 
-[^516]: 160:3 _I.e._, the true mystic prays that he may be “illumined” with the Divine attribute of Mercy so as to become a _ráḥim_ (ἐλεῶν), which necessarily involves a _marḥúm_ (ἐλεούμενος), and to know himself as a mode of the absolute God who is in reality both the _ráḥim_ and the _marḥúm_.
+[^514]: 160:3 _I.e._, the true mystic prays that he may be “illumined” with the Divine attribute of Mercy so as to become a _ráḥim_ (ἐλεῶν), which necessarily involves a _marḥúm_ (ἐλεούμενος), and to know himself as a mode of the absolute God who is in reality both the _ráḥim_ and the _marḥúm_.
 
-[^517]: 160:4 _Fuṣúṣ_, 225.
+[^515]: 160:4 _Fuṣúṣ_, 225.
 
-[^518]: 160:5 _Ibid_. 212. Cf. 100. They may experience a positive pleasure like that of the inhabitants of Paradise (_ibid_. 137).
+[^516]: 160:5 _Ibid_. 212. Cf. 100. They may experience a positive pleasure like that of the inhabitants of Paradise (_ibid_. 137).
 
-[^519]: 161:1 _Ibid_. 209 fol.
+[^517]: 161:1 _Ibid_. 209 fol.
 
-[^520]: 161:2 _Ibid_. 245. Elsewhere (272) he remarks that God is never seen immaterially and that the vision of Him in women is the most perfect of all.
+[^518]: 161:2 _Ibid_. 245. Elsewhere (272) he remarks that God is never seen immaterially and that the vision of Him in women is the most perfect of all.
 
-[^521]: 161:3 “Heaven lies about us in our infancy.”
+[^519]: 161:3 “Heaven lies about us in our infancy.”
 
-[^522]: 161:4 _Fuṣúṣ_, 250.
+[^520]: 161:4 _Fuṣúṣ_, 250.

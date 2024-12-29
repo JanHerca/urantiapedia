@@ -100,6 +100,6 @@ He declares that he is not to be blamed for having revealed the mysteries impart
 
 [^616]: 195:1 K. on _v_. 501. Cf. _Kashf al-Maḥjúb_, transl., p. 214. Concerning the _Quṭb_ and the subordinate members of the Ṣúfí hierarchy see Blochet, _Études sur l’ésotérisme musulman_ in the _Journal asiatique_, vol. 20 (1902), p. 49 foll.; Haneberg, _Ali Abulhasan Schadeli_ in _ZDMG_., vol. 7, p. 21 foll.; Flügel, _Scha‘rânî und sein Werk über die muhammadanische Glaubenslehre_, _ibid_. vol. 20, p. 37 foll.
 
-[^617]: 195:2 Cf. pp. [87](2_Introduction#p87) and [103](2_3#p103) foll.
+[^617]: 195:2 Cf. pp. [87](./2_Introduction#p87) and [103](./2_3#p103) foll.
 
 [^618]: 195:3 574 verses out of a total of 761. The following verses have not been translated: 111-114, 117-119, 122-125, 141-143, 164-167, 175-193, 195-196, 265-276, 334-393, 503-505, 515-520, 549-574, 580-588, 602-613, 622-626, 632-636, 750-758.

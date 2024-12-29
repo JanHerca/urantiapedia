@@ -23,7 +23,7 @@ dateCreated: 2024-11-18T23:1:26Z
         </a>
         </td>
         <td>
-        <a href="Notes">
+        <a href="/en/book/Islam/Salaman_and_Absal/Notes">
           <span class="pr-2">Notes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -119,7 +119,7 @@ Bondman-Jámi from Night Ringlet you.
         </a>
         </td>
         <td>
-        <a href="Notes">
+        <a href="/en/book/Islam/Salaman_and_Absal/Notes">
           <span class="pr-2">Notes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
