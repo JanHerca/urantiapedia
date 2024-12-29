@@ -42,7 +42,7 @@ Venta = Traducción de Sale del Corán, con notas (varias ediciones; una barata 
 
 Stein. = Diccionario persa-inglés de Steingass.
 
-B.Q. =_El Burhân-i Qâti\`_ (un diccionario persa, en persa).
+B.Q. =_El Burhân-i Qâti'_ (un diccionario persa, en persa).
 
 El esquema de transliteración adoptado es el que actualmente está sancionado por la Sociedad Asiática de Bengala.
 

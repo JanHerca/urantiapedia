@@ -1085,12 +1085,11 @@ COLEGIO DE SAN JUAN, CAMBRIDGE,
 [^10]: lvi:1 Geschichte des Qorâns, p. 43.
 
 [^11]: lvi:2 Es posible que Mahoma haya repudiado la acusación de ser poeta, pues sólo se le atribuye un verso, y éste es involuntario:
-
-Ana 'nnabîyu lâ KaDHib;  
-Ana 'bnu' Abd el Mu_t__t_alib.
-
-Yo soy el profeta que no miente;
-Yo soy el hijo de Abd el Mu_t__t_alib.
+  Ana 'nnabîyu lâ KaDHib;  
+  Ana 'bnu' Abd el Mu_t__t_alib.
+  
+  Yo soy el profeta que no miente;
+  Yo soy el hijo de Abd el Mu_t__t_alib.
 
 [^12]: lxii:1 Consulte la Parte II, pág. 13, nota 1.
 

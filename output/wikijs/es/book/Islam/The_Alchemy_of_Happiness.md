@@ -26,7 +26,7 @@ dateCreated: 2024-11-19T21:9:57Z
 <span class="text-h5">POR AL GHAZZALI</span><br>
 <br>
 TRADUCIDO DEL HINDUSTANI POR CLAUD FIELD<br>
-«El conocimiento de una parte es mejor que la ignorancia del todo» (Abu`l Feda)<br>
+«El conocimiento de una parte es mejor que la ignorancia del todo» (Abu'l Feda)<br>
 Londres, J. Murray<br>
 [1909]<br>
 {Escaneado en sacred-texts.com, noviembre de 2001}<br><br>

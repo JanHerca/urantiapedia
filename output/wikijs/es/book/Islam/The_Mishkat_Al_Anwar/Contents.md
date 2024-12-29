@@ -34,7 +34,7 @@ dateCreated: 2024-11-23T12:49:50Z
 
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-\[Se han completado las secciones y los títulos de Ghazzâlî. Las referencias de páginas encerradas entre corchetes en la Introducción, la Traducción y las notas a pie de página son referencias a las páginas del texto árabe (Cairo A.H. 1922, Matba\`at como Sidq), cuyos números se encontrarán en el texto de la Traducción, encerrados entre corchetes.\]
+\[Se han completado las secciones y los títulos de Ghazzâlî. Las referencias de páginas encerradas entre corchetes en la Introducción, la Traducción y las notas a pie de página son referencias a las páginas del texto árabe (Cairo A.H. 1922, Matba'at como Sidq), cuyos números se encontrarán en el texto de la Traducción, encerrados entre corchetes.\]
 
 ## TRADUCCIÓN INTRODUCCIÓN
 

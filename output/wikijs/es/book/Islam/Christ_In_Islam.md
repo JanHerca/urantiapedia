@@ -33,7 +33,7 @@ Este pequeño libro es una colección de dichos y relatos tradicionales atribuid
 
 El libro se presenta aquí como un archivo grande (196K), aunque hay extensos anclajes para hacerlo navegable.
 
-Notas sobre la transcripción de hipertexto: \` y ´ representan apóstrofes izquierda y derecha (_\`ayn_ y _hamza_) en palabras árabes, los circunflejos representan macrones y los subrayados representan puntos debajo. He cambiado la palabra Pentateuco utilizada por Robson a Torá, que es la palabra utilizada en los originales árabes y que también es de uso estándar en inglés. Como las referencias a la Torá en las obras árabes casi siempre están dirigidas a los judíos, tiene más sentido referirse a ella por su nombre hebreo en lugar de su nombre griego. Había una nota a pie de página en todo el libro, en la página 105. La inserté en el texto dentro de un corchete con las iniciales «JR».
+Notas sobre la transcripción de hipertexto: ' y ´ representan apóstrofes izquierda y derecha (_'ayn_ y _hamza_) en palabras árabes, los circunflejos representan macrones y los subrayados representan puntos debajo. He cambiado la palabra Pentateuco utilizada por Robson a Torá, que es la palabra utilizada en los originales árabes y que también es de uso estándar en inglés. Como las referencias a la Torá en las obras árabes casi siempre están dirigidas a los judíos, tiene más sentido referirse a ella por su nombre hebreo en lugar de su nombre griego. Había una nota a pie de página en todo el libro, en la página 105. La inserté en el texto dentro de un corchete con las iniciales «JR».
 
 ## Índice
 
