@@ -42,7 +42,7 @@ Sale = Sale's Translation of the Qur'ân, with notes (several editions; a cheap 
 
 Stein. =Steingass's Persian-English Dictionary.
 
-B.Q. =_The Burhân-i Qâti\`_ (a Persian Dictionary, in Persian).
+B.Q. =_The Burhân-i Qâti'_ (a Persian Dictionary, in Persian).
 
 The scheme of transliteration adopted is that at present sanctioned by the Asiatic Society of Bengal.
 

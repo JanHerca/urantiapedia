@@ -33,7 +33,7 @@ This small book is a collection of traditional sayings and stories attributed to
 
 The book is presented here as one large (196K) file, although there are extensive anchors to make it navigable.
 
-Notes on the hypertext transcription: \` and ´ represent left and right apostrophes (_\`ayn_ and _hamza_) in Arabic words, circumflexes represent macrons, and underlines represent dot-unders. I have changed the word Pentateuch used by Robson to Torah, which is the word used in the Arabic originals and which is also standard usage in English. As references to Torah in Arabic works are almost always directed at Jews, it makes more sense to refer to it by its Hebrew rather that its Greek name. There was one footnote in the entire book, on page 105. I embedded it in the text inside square bracket with the initials 'JR'.
+Notes on the hypertext transcription: ' and ´ represent left and right apostrophes (_'ayn_ and _hamza_) in Arabic words, circumflexes represent macrons, and underlines represent dot-unders. I have changed the word Pentateuch used by Robson to Torah, which is the word used in the Arabic originals and which is also standard usage in English. As references to Torah in Arabic works are almost always directed at Jews, it makes more sense to refer to it by its Hebrew rather that its Greek name. There was one footnote in the entire book, on page 105. I embedded it in the text inside square bracket with the initials 'JR'.
 
 
 ## Index

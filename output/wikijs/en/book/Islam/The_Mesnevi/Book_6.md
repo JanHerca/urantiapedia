@@ -492,52 +492,52 @@ Within religion's path the gravest bond is this.
 
 ## Footnotes
 
-[^178]: m101:1 Qur’ān ii. 22, and lxvi. 6, say “mankind and rocks.”
+[^177]: m101:1 Qur’ān ii. 22, and lxvi. 6, say “mankind and rocks.”
 
-[^179]: m101:2 Another word coined to meet the requirements of the original. “_Ubiquity_” is the converse of “_nubiquity_.” _Nulliquity_ might be used.
+[^178]: m101:2 Another word coined to meet the requirements of the original. “_Ubiquity_” is the converse of “_nubiquity_.” _Nulliquity_ might be used.
 
-[^180]: m101:3 Qur’ān ii. 111, and seven other places.
+[^179]: m101:3 Qur’ān ii. 111, and seven other places.
 
-[^181]: m102:1 “_Cæsar_” is the Rory, n Emperor, the Qaysari-Rūm. Other Qaysar there is not.
+[^180]: m102:1 “_Cæsar_” is the Rory, n Emperor, the Qaysari-Rūm. Other Qaysar there is not.
 
-[^182]: m102:2 To write this name Omar is incorrect.
+[^181]: m102:2 To write this name Omar is incorrect.
 
-[^183]: m102:3 Medina is the usual incorrect spelling of this name.
+[^182]: m102:3 Medina is the usual incorrect spelling of this name.
 
-[^184]: m102:4 The Arabian title is Khalīfa; of which Caliph is a corruption.
+[^183]: m102:4 The Arabian title is Khalīfa; of which Caliph is a corruption.
 
-[^185]: m102:5 “_Commander of the Believers_” is his usual title. “Rome” is the Lower Empire.
+[^184]: m102:5 “_Commander of the Believers_” is his usual title. “Rome” is the Lower Empire.
 
-[^186]: m103:1 Mohammed's heart is believed to have been cleansed by an angel.
+[^185]: m103:1 Mohammed's heart is believed to have been cleansed by an angel.
 
-[^187]: m103:2 “God's countenance” means also, in Arabic, _God's cause_.
+[^186]: m103:2 “God's countenance” means also, in Arabic, _God's cause_.
 
-[^188]: m103:3 God is this “sun;” the “motes” are all created objects.
+[^187]: m103:3 God is this “sun;” the “motes” are all created objects.
 
-[^189]: m103:4 The “Friend” is God, the Gnostic's “_darling_.”
+[^188]: m103:4 The “Friend” is God, the Gnostic's “_darling_.”
 
-[^190]: m103:5 “Rome” in Asia means the Lower Empire and Asia Minor; or, for the last few centuries, the Ottoman Empire.
+[^189]: m103:5 “Rome” in Asia means the Lower Empire and Asia Minor; or, for the last few centuries, the Ottoman Empire.
 
-[^191]: m104:1 “Shadow of God on earth” is an Eastern title of royalty.
+[^190]: m104:1 “Shadow of God on earth” is an Eastern title of royalty.
 
-[^192]: m105:1 These two propositions give the pith of the doctrine held and inculcated by the mystics and spiritualists of Islām: “_He's bridegroom; God is bride_.”
+[^191]: m105:1 These two propositions give the pith of the doctrine held and inculcated by the mystics and spiritualists of Islām: “_He's bridegroom; God is bride_.”
 
-[^193]: m107:1 This First Book of the Mesnevī was written before the Būstān of Sa‘dī. The myth of the dewdrop and pearl is much more ancient.
+[^192]: m107:1 This First Book of the Mesnevī was written before the Būstān of Sa‘dī. The myth of the dewdrop and pearl is much more ancient.
 
-[^194]: m108:1 The date of the poem will be recollected; who disbelieved alchemy then?
+[^193]: m108:1 The date of the poem will be recollected; who disbelieved alchemy then?
 
-[^195]: m108:2 Here is a beautiful and true application of the idea of “_transubstantiation_.”
+[^194]: m108:2 Here is a beautiful and true application of the idea of “_transubstantiation_.”
 
-[^196]: m108:3 The original mentions Ferhād, a kind of Persian Dædalus, by his title of “_Mountain-Excavator_.” (See Tale vii. dist. 365.)
+[^195]: m108:3 The original mentions Ferhād, a kind of Persian Dædalus, by his title of “_Mountain-Excavator_.” (See Tale vii. dist. 365.)
 
-[^197]: m108:4 Qur’ān liv. 1.
+[^196]: m108:4 Qur’ān liv. 1.
 
-[^198]: m109:1 Qur’ān vii. 15, and xv. 39. At the fall, Satan accused God of tempting him; whereas Adam confessed his sin, and did not accuse Satan.
+[^197]: m109:1 Qur’ān vii. 15, and xv. 39. At the fall, Satan accused God of tempting him; whereas Adam confessed his sin, and did not accuse Satan.
 
-[^199]: m109:2 Qur’ān vii. 22.
+[^198]: m109:2 Qur’ān vii. 22.
 
-[^200]: m109:3 Qur’ān xxiv. 26.
+[^299]: m109:3 Qur’ān xxiv. 26.
 
-[^201]: m110:1 ’Bū is often used as a contraction for Abū. Abū-Jahl (_Father of Ignorance_) was a nickname (see Tale iv. dist. 48, note) given by Muhammed to ’Amr, son of Hishām, a chief of the Quraysh, his bitter enemy, formerly entitled Abū-’l-Hakem (_Father of the Arbitrator_). He was killed, a pagan, in the battle of Bedr, in the second year of the Hijra, a.d. 624.
+[^200]: m110:1 ’Bū is often used as a contraction for Abū. Abū-Jahl (_Father of Ignorance_) was a nickname (see Tale iv. dist. 48, note) given by Muhammed to ’Amr, son of Hishām, a chief of the Quraysh, his bitter enemy, formerly entitled Abū-’l-Hakem (_Father of the Arbitrator_). He was killed, a pagan, in the battle of Bedr, in the second year of the Hijra, a.d. 624.
 
-[^202]: m111:1 The word rendered by “explanation” here, means also _information_, and _use_, _advantage_, _profit_, _benefit_, &c.
+[^201]: m111:1 The word rendered by “explanation” here, means also _information_, and _use_, _advantage_, _profit_, _benefit_, &c.

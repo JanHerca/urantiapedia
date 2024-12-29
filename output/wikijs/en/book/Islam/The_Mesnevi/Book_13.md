@@ -532,38 +532,38 @@ Alas! Such fancy's false! Earth cannot heaven be;
 
 ## Footnotes
 
-[^351]: m234:1 I have failed to discover the name and history of the individual here used to point a moral by our great poet. Ibnu-Hishām and Nawawī do not mention him.—_Translator_.
+[^350]: m234:1 I have failed to discover the name and history of the individual here used to point a moral by our great poet. Ibnu-Hishām and Nawawī do not mention him.—_Translator_.
 
-[^352]: m234:2 Osmān.
+[^351]: m234:2 Osmān.
 
-[^353]: m235:1 Qur’ān xxxvi. 7.
+[^352]: m235:1 Qur’ān xxxvi. 7.
 
-[^354]: m235:2 Qur’ān xxxvi. 8.
+[^353]: m235:2 Qur’ān xxxvi. 8.
 
-[^355]: m237:1 Qur’ān xcix. 1.
+[^354]: m237:1 Qur’ān xcix. 1.
 
-[^356]: m237:2 In allusion to the Brahminical marks used in India.
+[^355]: m237:2 In allusion to the Brahminical marks used in India.
 
-[^357]: m238:1 The heterodox sects of Islām are commonly said to be seventy-two.
+[^356]: m238:1 The heterodox sects of Islām are commonly said to be seventy-two.
 
-[^358]: m238:2 “_The Veiler_,” _i.e._, of sin, is one of “the most comely names” of God, but is not found in the Qur’ān. “_Yà Sattār!_”
+[^357]: m238:2 “_The Veiler_,” _i.e._, of sin, is one of “the most comely names” of God, but is not found in the Qur’ān. “_Yà Sattār!_”
 
-[^359]: m239:1 Some of the commentators hold that Qur’ān vii. 174, alludes to the opposition of Balaam to Moses and the Israelites.
+[^358]: m239:1 Some of the commentators hold that Qur’ān vii. 174, alludes to the opposition of Balaam to Moses and the Israelites.
 
-[^360]: m239:2 See Tale iv. dist. 121; and xi. 112.
+[^359]: m239:2 See Tale iv. dist. 121; and xi. 112.
 
-[^361]: m239:3 See Tale ix. 266.
+[^360]: m239:3 See Tale ix. 266.
 
-[^362]: m240:1 Qur’ān ii. 96.
+[^361]: m240:1 Qur’ān ii. 96.
 
-[^363]: m241:1 See Tale iv. dist. 121.
+[^362]: m241:1 See Tale iv. dist. 121.
 
-[^364]: m245:1 Qur’ān i. 5.
+[^363]: m245:1 Qur’ān i. 5.
 
-[^365]: m245:2 ‘Ikrima, son of Abū-Jahl, embraced Islām at sea, as he fled from Mekka at its capture by Muhammed. He returned and was pardoned.
+[^364]: m245:2 ‘Ikrima, son of Abū-Jahl, embraced Islām at sea, as he fled from Mekka at its capture by Muhammed. He returned and was pardoned.
 
-[^366]: m245:3 Qur’ān xi. 44, 45.
+[^365]: m245:3 Qur’ān xi. 44, 45.
 
-[^367]: m246:1 This is a canon of Islam. If a worshipper has no means of knowing the direction of “God's House” at Mekka, he may face in any direction he judges most probable, and so perform his worship.
+[^366]: m246:1 This is a canon of Islam. If a worshipper has no means of knowing the direction of “God's House” at Mekka, he may face in any direction he judges most probable, and so perform his worship.
 
-[^368]: m246:2 The Prophet.
+[^367]: m246:2 The Prophet.

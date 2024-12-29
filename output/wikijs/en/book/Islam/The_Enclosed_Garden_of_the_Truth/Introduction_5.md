@@ -40,7 +40,7 @@ The two hemistichs of each verse rhyme; and the effect may therefore roughly be 
 
 The chapter,; of which the _Hadîqa_ consists treat, according to a few lines of verse at the end of the table of contents in the Lucknow edition, of the following subjects; the First, on the Praise of God, and especially on His Unity; the Second, in praise of Muhammad; the Third, on the Understanding; the Fourth, on Knowledge; the Fifth, on Love, the Lover, and the Beloved; the Sixth, on Heedlessness; <span id="pxxvi">[<sup><small>p. xxvi</small></sup>]</span> the Seventh, on Friends and Enemies, the Eighth, on the Revolution of the Heavens; the Ninth, in praise of the Emperor Shâhjahân; the Tenth, on the characters or qualities of the whole work. This, however, is not the actual arrangement of the work as presented in the volume itself; the first five chapters are as already given, but the Sixth concerns the Universal Soul; the Seventh is on Heedlessness; the Eighth on the Stars; the Ninth on Friends and Enemies; the Tenth on many matters, including the praise of the Emperor. Prof. Browne (Lit. Hist. Persia, vol. ii., p. 318) gives still another order, apparently that of an edition lithographed at Bombay in A.H. 1275 (A.D. 1859).
 
-Sanâ'î's fame has always rested on his _Hadîqa_; it is the best known and in the East by far the most esteemed of his works; it is in virtue of this work that he forms one of the great trio of _S_ûfî teachers,—Sanâ'î, \`A_tt_âr, Jalâlu'd-Dîn Rûmî. It will be of interest to compare some of the estimates that have been formed of him and of the present work in particular.
+Sanâ'î's fame has always rested on his _Hadîqa_; it is the best known and in the East by far the most esteemed of his works; it is in virtue of this work that he forms one of the great trio of _S_ûfî teachers,—Sanâ'î, 'A_tt_âr, Jalâlu'd-Dîn Rûmî. It will be of interest to compare some of the estimates that have been formed of him and of the present work in particular.
 
 In time he was the first of the three, and perhaps the most cordial acknowledgment of his merits conies from his successor Jalâlu'd-Dîn Rûmî. He says:—
 
@@ -49,10 +49,10 @@ Hear the full account from the Sage of Ghazna.”
 
 And again—
 
-“\`A_tt_âr was the Spirit, Sanâ'î the two eyes:
-We walk in the wake of Sanâ'î and \`A_tt_âr.”
+“'A_tt_âr was the Spirit, Sanâ'î the two eyes:
+We walk in the wake of Sanâ'î and 'A_tt_âr.”
 
-\`Abdu'l-Latîf, in his preface called the _Mirâtu'l-Hadâ'iq_, enters into a somewhat lengthy comparison between Sanâ'î and Rûmî, in which he is hard put to it to avoid giving any preference to one or other. It is interesting to observe how he endeavours to keep the scales even. He begins by adverting to the greater length of the _Mathnawî_ as compared with the _Hadîqa_, and compares the _Hadîqa_ to an abridgement, the _Mathnawî_ to a fully detailed account. Sanâ'î's work is the more compressed; he expresses in two or three verses what the _Mathnawî_ expresses in twenty or thirty, \`Abdu'l-Latîf therefore, as it would seem reluctantly, and merely on the ground of his greater prolixity, gives the palm for eloquence to Jalâlu'd-Dîn.
+'Abdu'l-Latîf, in his preface called the _Mirâtu'l-Hadâ'iq_, enters into a somewhat lengthy comparison between Sanâ'î and Rûmî, in which he is hard put to it to avoid giving any preference to one or other. It is interesting to observe how he endeavours to keep the scales even. He begins by adverting to the greater length of the _Mathnawî_ as compared with the _Hadîqa_, and compares the _Hadîqa_ to an abridgement, the _Mathnawî_ to a fully detailed account. Sanâ'î's work is the more compressed; he expresses in two or three verses what the _Mathnawî_ expresses in twenty or thirty, 'Abdu'l-Latîf therefore, as it would seem reluctantly, and merely on the ground of his greater prolixity, gives the palm for eloquence to Jalâlu'd-Dîn.
 
 <span id="pxxvii">[<sup><small>p. xxvii</small></sup>]</span>
 
@@ -63,7 +63,7 @@ With regard to style, some suppose that the verse of the _Hadîqa_ is more eleva
 “I have spoken a saying which is a whole work;
 I have uttered a sentence which is a (complete) dîwân,”
 
-is true of the _Hadîqa_. But if the sense and style of the Maulavî be considered, there is no room for discrimination and distinction; and, since “_Thou shalt not make a distinction between any of His prophets_,” to distinguish between the positions of these two masters, who may unquestionably be called prophets of religion, has infidelity and error as its fruit. Who possesses the power of dividing and discriminating between milk and sugar intermingled in one vessel? \`Abdu'l-Latîf sums up thus “in fine, thus much one may say, that in sobriety the Hakîm is pre-eminent, and in intoxication our lord the Maulavî is superior; and that sobriety is in truth the essence of intoxication, and this intoxication the essence of sobriety.”
+is true of the _Hadîqa_. But if the sense and style of the Maulavî be considered, there is no room for discrimination and distinction; and, since “_Thou shalt not make a distinction between any of His prophets_,” to distinguish between the positions of these two masters, who may unquestionably be called prophets of religion, has infidelity and error as its fruit. Who possesses the power of dividing and discriminating between milk and sugar intermingled in one vessel? 'Abdu'l-Latîf sums up thus “in fine, thus much one may say, that in sobriety the Hakîm is pre-eminent, and in intoxication our lord the Maulavî is superior; and that sobriety is in truth the essence of intoxication, and this intoxication the essence of sobriety.”
 
 Prof. Browne, however, places the _Hadîqa_ on a far lower level than the Eastern authors quoted above. He says [^1]:—“The poem is written in a halting and unattractive metre, and is in my opinion one of the dullest books in Persian, seldom rising to the level of Martin Tupper's _Proverbial Philosophy_, filled with fatuous truisms and pointless anecdotes, and as far inferior to the _Mathnawî_ of Jalâlu'd-Dîn Rûmî as is Robert Montgomery's _Satan_ to Milton's _Paradise Lost_.”
 

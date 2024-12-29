@@ -34,7 +34,7 @@ dateCreated: 2024-11-23T12:49:50Z
 
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-\[Ghazzâlî's sections and titles have been supplemented. The page-references enclosed within square brackets in the Introduction, Translation, and foot-notes are references to the pages of the Arabic text,(Cairo A.H. 1922, Matba\`at as Sidq), the numbers of which will be found in the text of the Translation, enclosed in square brackets.\]
+\[Ghazzâlî's sections and titles have been supplemented. The page-references enclosed within square brackets in the Introduction, Translation, and foot-notes are references to the pages of the Arabic text,(Cairo A.H. 1922, Matba'at as Sidq), the numbers of which will be found in the text of the Translation, enclosed in square brackets.\]
 
 ## TRANSLATOR'S INTRODUCTION
 

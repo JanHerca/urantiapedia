@@ -26,7 +26,7 @@ dateCreated: 2024-11-19T21:9:57Z
 <span class="text-h5">BY AL GHAZZALI</span><br>
 <br>
 TRANSLATED FROM THE HINDUSTANI BY CLAUD FIELD<br>
-Knowledge of a part is better than ignorance of the whole" (Abu`l Feda)<br>
+Knowledge of a part is better than ignorance of the whole" (Abu'l Feda)<br>
 London, J. Murray<br>
 [1909]<br>
 {Scanned at sacred-texts.com, November, 2001}<br><br>

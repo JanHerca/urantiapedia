@@ -126,4 +126,4 @@ Soon after his birth, or when only a few months old, the Emīr ‘Ārif, at the 
 
 ## Footnotes
 
-[^33]: 122:1 The Beauty of the Truth and of the Religion (of Islām).
+[^32]: 122:1 The Beauty of the Truth and of the Religion (of Islām).

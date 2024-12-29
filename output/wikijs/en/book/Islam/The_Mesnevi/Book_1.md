@@ -583,26 +583,26 @@ Men judge of what they see by what they think.
 
 ## Footnotes
 
-[^58]: m4:1 In Islām a free person cannot legally be bought and sold.
+[^57]: m4:1 In Islām a free person cannot legally be bought and sold.
 
-[^59]: m5:1 By way of hyperbole, a clever physician is always compared to Jesus, in his miraculous healing powers, by Muslims.
+[^58]: m5:1 By way of hyperbole, a clever physician is always compared to Jesus, in his miraculous healing powers, by Muslims.
 
-[^60]: m5:2 Qur’ān xviii. 23, teaches: “Say not, ‘I will do so and so,’ unless (thou add): ‘God willing.’”
+[^59]: m5:2 Qur’ān xviii. 23, teaches: “Say not, ‘I will do so and so,’ unless (thou add): ‘God willing.’”
 
-[^61]: m5:3 Divine service in Islam is entirely worship and praise. It is erroneous to talk of Muslims saying their prayers. Praise, laud, and glory is what they are bound to offer. Prayer is voluntary; and is prohibited, unless in some duly authorised form as a collect.
+[^60]: m5:3 Divine service in Islam is entirely worship and praise. It is erroneous to talk of Muslims saying their prayers. Praise, laud, and glory is what they are bound to offer. Prayer is voluntary; and is prohibited, unless in some duly authorised form as a collect.
 
-[^62]: m7:1 Qur’ān ii. 58.
+[^61]: m7:1 Qur’ān ii. 58.
 
-[^63]: m7:2 Qur’ān ii. 114.
+[^62]: m7:2 Qur’ān ii. 114.
 
-[^64]: m10:1 The word “sūfī,” used in the original, is probably the Greek σοφόι but is explained as meaning, literally; “_clad in woollen_,” from “sūf,” _wool_. Metaphorically, in common use, it means: _a pious man_.
+[^63]: m10:1 The word “sūfī,” used in the original, is probably the Greek σοφόι but is explained as meaning, literally; “_clad in woollen_,” from “sūf,” _wool_. Metaphorically, in common use, it means: _a pious man_.
 
-[^65]: m11:1 The holy Sheykh Shemsu-’d-Dīn, of Tebrīz, is meant; who was a friend of the author for many years, visiting Qonya at intervals, where he was put to death (in a.d. 1262?). See the “Anecdotes,” Chap. iv.; especially No. 17.
+[^64]: m11:1 The holy Sheykh Shemsu-’d-Dīn, of Tebrīz, is meant; who was a friend of the author for many years, visiting Qonya at intervals, where he was put to death (in a.d. 1262?). See the “Anecdotes,” Chap. iv.; especially No. 17.
 
-[^66]: m13:1 It was generally believed in bygone days that gems and metals grew and ripened in their mines.
+[^65]: m13:1 It was generally believed in bygone days that gems and metals grew and ripened in their mines.
 
-[^67]: m16:1 The story is in Qur’ān xviii. 73. The angel was disguised as a servant to Moses. The passage says: “And they two proceeded until they met a boy; and he slew him.”
+[^66]: m16:1 The story is in Qur’ān xviii. 73. The angel was disguised as a servant to Moses. The passage says: “And they two proceeded until they met a boy; and he slew him.”
 
-[^68]: m16:2 With Muslims, Ishmaël was to have been sacrificed; not Isaac. The Qur’ān xxxvii. 98-111, relates the story, but gives no name to the “boy.” Commentators supply it, by tradition.
+[^67]: m16:2 With Muslims, Ishmaël was to have been sacrificed; not Isaac. The Qur’ān xxxvii. 98-111, relates the story, but gives no name to the “boy.” Commentators supply it, by tradition.
 
-[^69]: m17:1 A continuation of the story from Qur’ān xviii. 70. Some commentators make Elias the servant of Moses on the occasion. There is a tale in one of the essayists of last century,—the “Spectator,” if I rightly remember,—that gives these two adventures and others; the angel at last explaining to his companion the secret causes of all his actions.
+[^68]: m17:1 A continuation of the story from Qur’ān xviii. 70. Some commentators make Elias the servant of Moses on the occasion. There is a tale in one of the essayists of last century,—the “Spectator,” if I rightly remember,—that gives these two adventures and others; the angel at last explaining to his companion the secret causes of all his actions.

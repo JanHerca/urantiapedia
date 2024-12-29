@@ -1085,12 +1085,11 @@ ST. JOHN's COLLEGE, CAMBRIDGE,
 [^10]: lvi:1 Geschichte des Qorâns, p. 43.
 
 [^11]: lvi:2 Mohammed may well have repudiated the charge of being a poet, for he is only credited with one verse, and that an involuntary one:
+  Ana ’nnabîyu lâ KaDHib;  
+  Ana ’bnu ‘Abd el Mu_t__t_alib.
 
-Ana ’nnabîyu lâ KaDHib;  
-Ana ’bnu ‘Abd el Mu_t__t_alib.
-
-I am the prophet who lies not;  
-I am the son of Abd el Mu_t__t_alib.’
+  I am the prophet who lies not;  
+  I am the son of Abd el Mu_t__t_alib.’
 
 [^12]: lxii:1 See Part II, p. 13, note 1.
 

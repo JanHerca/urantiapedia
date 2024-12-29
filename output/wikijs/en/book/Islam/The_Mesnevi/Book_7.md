@@ -935,94 +935,92 @@ For years thou a stone ’st been; lay this well to heart.
 
 ## Footnotes
 
-[^203]: m114:1 Literally, “your morning cup,” drunk at dawn ere leaving a house.
+[^202]: m114:1 Literally, “your morning cup,” drunk at dawn ere leaving a house.
 
-[^204]: m115:1 Asiatics drink “to the love” of a friend; not “to his health.”
+[^203]: m115:1 Asiatics drink “to the love” of a friend; not “to his health.”
 
-[^205]: m115:2 The parrot is known by the title “Sugar-eating.”
+[^204]: m115:2 The parrot is known by the title “Sugar-eating.”
 
-[^206]: m116:1 A shade of an explanation to this very hazardous saying of the Sūfī Gnostics is found in Qur’ān xvi. 108 “Whoever denieth God after he hath believed, except him who shall be compelled against his will, and whose heart continueth steadfast in the faith, shall be severely chastised.”
+[^205]: m116:1 A shade of an explanation to this very hazardous saying of the Sūfī Gnostics is found in Qur’ān xvi. 108 “Whoever denieth God after he hath believed, except him who shall be compelled against his will, and whose heart continueth steadfast in the faith, shall be severely chastised.”
 
-[^207]: m116:2 The dervish orders call their peculiar cap a “mitre” or “crown” (_tāj_).
+[^206]: m116:2 The dervish orders call their peculiar cap a “mitre” or “crown” (_tāj_).
 
-[^208]: m116:3 The “four rivers” of Paradise, of water, milk, wine, and honey. Qur’ān xlvii. 16.
+[^207]: m116:3 The “four rivers” of Paradise, of water, milk, wine, and honey. Qur’ān xlvii. 16.
 
-[^209]: m116:4 Qur’ān iii. 31; and numerous other places.
+[^208]: m116:4 Qur’ān iii. 31; and numerous other places.
 
-[^210]: m117:1 This section purports to have been suggested by the following couplet from ‘Attar:—
-
+[^209]: m117:1 This section purports to have been suggested by the following couplet from ‘Attar:—
   “O heedless child of lust, weep thou tears of blood.
   If a saint eat poison, honey-like ’tis food.”
-
+  
   The original expression for “saint,” here, is: “a man of heart.”
 
-[^211]: m118:1 Canonical “responsibility” falls on all of sane mind and adult age.
+[^210]: m118:1 Canonical “responsibility” falls on all of sane mind and adult age.
 
-[^212]: m118:2 See note to dist. No. 33 of the present poem.
+[^211]: m118:2 See note to dist. No. 33 of the present poem.
 
-[^213]: m118:3 Qur’ān vii. 112, &c.
+[^212]: m118:3 Qur’ān vii. 112, &c.
 
-[^214]: m119:1 By a “_perfect man_” a saint is intended; as by “imperfect,” hero and before, an ordinary mortal is depicted.
+[^213]: m119:1 By a “_perfect man_” a saint is intended; as by “imperfect,” hero and before, an ordinary mortal is depicted.
 
-[^215]: m119:2 Qur’ān vii. 203; xlvi. 28. By “ear” and “tongue” a learner and a teacher are symbolised.
+[^214]: m119:2 Qur’ān vii. 203; xlvi. 28. By “ear” and “tongue” a learner and a teacher are symbolised.
 
-[^216]: m122:1 A hazardous assertion. See Anecdotes, Chap. iii., Nos. 2, 5, 7, &c.
+[^215]: m122:1 A hazardous assertion. See Anecdotes, Chap. iii., Nos. 2, 5, 7, &c.
 
-[^217]: m122:2 A proverbial expression, like: “All's well that ends well.”
+[^216]: m122:2 A proverbial expression, like: “All's well that ends well.”
 
-[^218]: m122:3 Qur’ān ii. 100.
+[^217]: m122:3 Qur’ān ii. 100.
 
-[^219]: m122:4 Qur’ān xxiii. 112.
+[^218]: m122:4 Qur’ān xxiii. 112.
 
-[^220]: m122:5 Also Qur’ān xxiii. 112.
+[^219]: m122:5 Also Qur’ān xxiii. 112.
 
-[^221]: m122:6 The “_pupil_” of the eye; in Persian called “_the manikin;_” in Arabic, “_the man_.” These both allude to the small image of ourselves seen reflected in the pupil.
+[^220]: m122:6 The “_pupil_” of the eye; in Persian called “_the manikin;_” in Arabic, “_the man_.” These both allude to the small image of ourselves seen reflected in the pupil.
 
-[^222]: m124:1 This rhapsody is mystical, like the Song of Solomon. A “tongue” is a teacher, informant; a prophet; and, apparently, even God himself.
+[^221]: m124:1 This rhapsody is mystical, like the Song of Solomon. A “tongue” is a teacher, informant; a prophet; and, apparently, even God himself.
 
-[^223]: m124:2 Qur’ān xc. 1-4.
+[^222]: m124:2 Qur’ān xc. 1-4.
 
-[^224]: m125:1 “Other,” as opposed to self; also opposed to “we two” in the case of lovers; it is a term much used in Eastern poetry and philosophy.
+[^223]: m125:1 “Other,” as opposed to self; also opposed to “we two” in the case of lovers; it is a term much used in Eastern poetry and philosophy.
 
-[^225]: m126:1 The poet's “_beloved_” appears, here, to be God.
+[^224]: m126:1 The poet's “_beloved_” appears, here, to be God.
 
-[^226]: m126:2 Allusion appears to be made to Qur’ān xxi. 107.
+[^225]: m126:2 Allusion appears to be made to Qur’ān xxi. 107.
 
-[^227]: m128:1 This section is stated to be a gloss upon the following apostolic tradition: “Verily, Sa‘d is really jealous; but I am more jealous than he, and God than I. Out of His jealousy hath He made all excesses sinful; whether of outer or of the inner man.” This Sa‘d, son of ‘Ubūda, was a disciple of Muhammed, and the most munificent man in Madīna. He embraced the faith before the Hijra. See An-Nawāwī, p. 274, l. 5.
+[^226]: m128:1 This section is stated to be a gloss upon the following apostolic tradition: “Verily, Sa‘d is really jealous; but I am more jealous than he, and God than I. Out of His jealousy hath He made all excesses sinful; whether of outer or of the inner man.” This Sa‘d, son of ‘Ubūda, was a disciple of Muhammed, and the most munificent man in Madīna. He embraced the faith before the Hijra. See An-Nawāwī, p. 274, l. 5.
 
-[^228]: m128:2 The “two worlds,” spiritual and material, future and present.
+[^227]: m128:2 The “two worlds,” spiritual and material, future and present.
 
-[^229]: m129:1 The poet's “love,” is still God. This section purports to be an excursus on the following distich of the poet Sanā’ī, who died a.h. 576 (a.d. 1180):—
-
+[^228]: m129:1 The poet's “love,” is still God. This section purports to be an excursus on the following distich of the poet Sanā’ī, who died a.h. 576 (a.d. 1180):—
   “Why leavest thou thy guild, its rules or faith or sin?
   Why quittest thou thy mistress, be she plump or thin?”
 
-[^230]: m129:2 Reflections on God's unity, and the plurality of created being.
+[^229]: m129:2 Reflections on God's unity, and the plurality of created being.
 
-[^231]: m131:1 Qur’ān xix. 41, &c.
+[^230]: m131:1 Qur’ān xix. 41, &c.
 
-[^232]: m131:2 Anecdotes, Chap. vi.
+[^231]: m131:2 Anecdotes, Chap. vi.
 
-[^233]: m131:3 “Life” and “coral,” in Persian “An” and “merjān.”
+[^232]: m131:3 “Life” and “coral,” in Persian “An” and “merjān.”
 
-[^234]: m131:4 Men from moral, dawn from material light.
+[^233]: m131:4 Men from moral, dawn from material light.
 
-[^235]: m132:1 Qur’ān lv. 29.
+[^234]: m132:1 Qur’ān lv. 29.
 
-[^236]: m135:1 This section purports to be a dissertation on the dictum: “What God wills, is.”
+[^235]: m135:1 This section purports to be a dissertation on the dictum: “What God wills, is.”
 
-[^237]: m135:2 Man's “record” is the register of his thoughts, words, and deeds, kept by angels, to be produced in the last judgment.
+[^236]: m135:2 Man's “record” is the register of his thoughts, words, and deeds, kept by angels, to be produced in the last judgment.
 
-[^238]: m137:1 The same word in Persian, _bū_, signifies “odour” and “hope.” The thing hoped for becomes a distant, odoriferous flower.
+[^237]: m137:1 The same word in Persian, _bū_, signifies “odour” and “hope.” The thing hoped for becomes a distant, odoriferous flower.
 
-[^239]: m137:2 Qur’ān ii. 23, and forty places in all.
+[^238]: m137:2 Qur’ān ii. 23, and forty places in all.
 
-[^240]: m137:3 Jacob is said to have wept himself blind on losing Joseph; the smell of his son's coat, when refound, later, restored him.
+[^239]: m137:3 Jacob is said to have wept himself blind on losing Joseph; the smell of his son's coat, when refound, later, restored him.
 
-[^241]: m137:4 Ferhād was Shīrīn's lover. (See Tale 6, distich 107, note).
+[^240]: m137:4 Ferhād was Shīrīn's lover. (See Tale 6, distich 107, note).
 
-[^242]: m137:5 Majnūn, in story, went mad for love of Laylà.
+[^241]: m137:5 Majnūn, in story, went mad for love of Laylà.
 
-[^243]: m137:6 The “Sage of Gazna” is the poet Sanā‘ī, already mentioned in the notes to the present tale, distich 230.
+[^242]: m137:6 The “Sage of Gazna” is the poet Sanā‘ī, already mentioned in the notes to the present tale, distich 230.
 
-[^244]: m137:7 Joseph is held to have been most superlatively beautiful.
+[^243]: m137:7 Joseph is held to have been most superlatively beautiful.

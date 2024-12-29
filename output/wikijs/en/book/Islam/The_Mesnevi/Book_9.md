@@ -1700,84 +1700,84 @@ So drugs, to prove a solace to the sufferer's ache,
 
 ## Footnotes
 
-[^283]: m165:1 Qur’ān xx. 97, makes the wandering Jew, Sāmirī, who produced the golden calf, to shun every one, saying, “Touch me not!”
+[^282]: m165:1 Qur’ān xx. 97, makes the wandering Jew, Sāmirī, who produced the golden calf, to shun every one, saying, “Touch me not!”
 
-[^284]: m167:1 Vicar of God is one of the Caliph's titles. This “pretender” must have been some particular adversary of the poet's. The satire is bitter.
+[^283]: m167:1 Vicar of God is one of the Caliph's titles. This “pretender” must have been some particular adversary of the poet's. The satire is bitter.
 
-[^285]: m167:2 Bāyezīd of Bestām, in Persia, an early Gnostic saint; died a.d. 874 (a.h. 261).
+[^284]: m167:2 Bāyezīd of Bestām, in Persia, an early Gnostic saint; died a.d. 874 (a.h. 261).
 
-[^286]: m167:3 Yezīd, second Caliph of Damascus, persecutor of Husayn, son of the fourth Caliph ‘Alī.
+[^285]: m167:3 Yezīd, second Caliph of Damascus, persecutor of Husayn, son of the fourth Caliph ‘Alī.
 
-[^287]: m167:4 The original naturally mentions the “qibla'' of Islām; not the ”east,” as used in Christian churches.
+[^286]: m167:4 The original naturally mentions the “qibla'' of Islām; not the ”east,” as used in Christian churches.
 
-[^288]: m171:1 “My poverty's my pride” is a saying traditionally attributed to Mohammed.
+[^287]: m171:1 “My poverty's my pride” is a saying traditionally attributed to Mohammed.
 
-[^289]: m177:1 Qur’ān iii. 12, mentions several things “made goodly to man.”
+[^288]: m177:1 Qur’ān iii. 12, mentions several things “made goodly to man.”
 
-[^290]: m177:2 Qur’ān vii. 189, relates the creation of a helpmate for Adam.
+[^289]: m177:2 Qur’ān vii. 189, relates the creation of a helpmate for Adam.
 
-[^291]: m177:3 Muhammed.
+[^290]: m177:3 Muhammed.
 
-[^292]: m177:4 For Humayrā, see a note in No. 8, dist. 69.
+[^291]: m177:4 For Humayrā, see a note in No. 8, dist. 69.
 
-[^293]: m177:5 Yet Europe still pretends to believe that Islām has denied the possession of a soul by woman!
+[^292]: m177:5 Yet Europe still pretends to believe that Islām has denied the possession of a soul by woman!
 
-[^294]: m179:1 Qur’ān lxxix. 24. So Pharaoh is there said to have styled himself.
+[^293]: m179:1 Qur’ān lxxix. 24. So Pharaoh is there said to have styled himself.
 
-[^295]: m179:2 Qur’ān ii. 3, &c.
+[^294]: m179:2 Qur’ān ii. 3, &c.
 
-[^296]: m180:1 Not Easterns only have a superstition about treasures hid in ruins.
+[^295]: m180:1 Not Easterns only have a superstition about treasures hid in ruins.
 
-[^297]: m181:1 Qur’ān xxii. ix.
+[^296]: m181:1 Qur’ān xxii. ix.
 
-[^298]: m182:1 Man has a triple nature, vegetative, bestial, and human.
+[^297]: m182:1 Man has a triple nature, vegetative, bestial, and human.
 
-[^299]: m182:2 Qur’ān xxxix. 54.
+[^298]: m182:2 Qur’ān xxxix. 54.
 
-[^300]: m182:3 Qur’ān vii. 142, &c.
+[^299]: m182:3 Qur’ān vii. 142, &c.
 
-[^301]: m183:1 Qur’ān xxxiv. 42.
+[^300]: m183:1 Qur’ān xxxiv. 42.
 
-[^302]: m183:2 Qur’ān vii. 75; xi. 65-70; xxvi. 142-158. Sālih was sent to the tribe of Thamūd, troglodytes who dwelt in the valleys about half-way between Medīna and the Gulf of Akaba.
+[^301]: m183:2 Qur’ān vii. 75; xi. 65-70; xxvi. 142-158. Sālih was sent to the tribe of Thamūd, troglodytes who dwelt in the valleys about half-way between Medīna and the Gulf of Akaba.
 
-[^303]: m183:3 Qur’ān xci. 13.
+[^302]: m183:3 Qur’ān xci. 13.
 
-[^304]: m185:1 Qur’ān vii. 76, 89; xi. 70, 97; xxix. 36.
+[^303]: m185:1 Qur’ān vii. 76, 89; xi. 70, 97; xxix. 36.
 
-[^305]: m186:1 Qur’ān vii. 91.
+[^304]: m186:1 Qur’ān vii. 91.
 
-[^306]: m187:1 Qur’ān lv. 20.
+[^305]: m187:1 Qur’ān lv. 20.
 
-[^307]: m189:1 Qur’ān vi. 2, 60.
+[^306]: m189:1 Qur’ān vi. 2, 60.
 
-[^308]: m189:2 Qur’ān xxxviii. 34.
+[^307]: m189:2 Qur’ān xxxviii. 34.
 
-[^309]: m192:1 Not textually from the Qur’ān.
+[^308]: m192:1 Not textually from the Qur’ān.
 
-[^310]: 193:1 Not textually from the Qur’ān.
+[^309]: 193:1 Not textually from the Qur’ān.
 
-[^311]: m196:1 Qur’ān xxiv. 30.
+[^310]: m196:1 Qur’ān xxiv. 30.
 
-[^312]: m197:1 Qur’ān ii. 23, &c.
+[^311]: m197:1 Qur’ān ii. 23, &c.
 
-[^313]: m197:2 Rich Muslims everywhere break their fast in Ramazān with water from the well of Zemzem, in Mekka, if possible.
+[^312]: m197:2 Rich Muslims everywhere break their fast in Ramazān with water from the well of Zemzem, in Mekka, if possible.
 
-[^314]: m198:1 A pearl is believed to be a special dewdrop, caught by a special oyster, and thence brought to perfection by a special providence. (See Sa‘di's ode at the end of translator's preface.)
+[^313]: m198:1 A pearl is believed to be a special dewdrop, caught by a special oyster, and thence brought to perfection by a special providence. (See Sa‘di's ode at the end of translator's preface.)
 
-[^315]: m199:1 Qur’ān xciii. 1.
+[^314]: m199:1 Qur’ān xciii. 1.
 
-[^316]: m199:2 Qur’ān xciii. 10.
+[^315]: m199:2 Qur’ān xciii. 10.
 
-[^317]: m199:3 Qur’ān cxii. 3.
+[^316]: m199:3 Qur’ān cxii. 3.
 
-[^318]: m200:1 The world.
+[^317]: m200:1 The world.
 
-[^319]: m202:1 The belief is that Jesus was not crucified, but was caught up to the fourth heaven, that of the sun, where he will live until he comes again in glory.
+[^318]: m202:1 The belief is that Jesus was not crucified, but was caught up to the fourth heaven, that of the sun, where he will live until he comes again in glory.
 
-[^320]: m202:2 The belief is that Adam plucked an ear of corn, the forbidden fruit, in paradise.
+[^319]: m202:2 The belief is that Adam plucked an ear of corn, the forbidden fruit, in paradise.
 
-[^321]: m202:3 Abbās, Muhammed's uncle, ancestor of the Abbāsī Caliphs.
+[^320]: m202:3 Abbās, Muhammed's uncle, ancestor of the Abbāsī Caliphs.
 
-[^322]: m209:1 Qur’ān li. 9.
+[^321]: m209:1 Qur’ān li. 9.
 
-[^323]: m210:1 Von Hammer, in his History of the Ottoman Empire, so entirely misunderstood this beautiful Arabian proverb, “_Es sabru miftāhu ’l faraj_,” as to read “_farj_” (pudendum), for “_faraj_” (success); and cloaked his blunder by the remark: “Too pungent for literal translation.”
+[^322]: m210:1 Von Hammer, in his History of the Ottoman Empire, so entirely misunderstood this beautiful Arabian proverb, “_Es sabru miftāhu ’l faraj_,” as to read “_farj_” (pudendum), for “_faraj_” (success); and cloaked his blunder by the remark: “Too pungent for literal translation.”

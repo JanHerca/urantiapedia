@@ -712,52 +712,52 @@ Its words more efficacious than an army's wheel.
 
 ## Footnotes
 
-[^408]: m271:1 Qur’ān ii. 58.
+[^407]: m271:1 Qur’ān ii. 58.
 
-[^409]: m271:2 Qur’ān ix. 230, &c.
+[^408]: m271:2 Qur’ān ix. 230, &c.
 
-[^410]: m271:3 Qur’ān lxv. 2.
+[^409]: m271:3 Qur’ān lxv. 2.
 
-[^411]: m272:1 ‘Alīyyu-’l-Murtadzā—“_in whom_ (God) _is well pleased_”—is the chiefest of the titles of ‘Alī, Prince of Princes, Captain-General of Saints.
+[^410]: m272:1 ‘Alīyyu-’l-Murtadzā—“_in whom_ (God) _is well pleased_”—is the chiefest of the titles of ‘Alī, Prince of Princes, Captain-General of Saints.
 
-[^412]: m273:1 Mohammed is reported to have declared: “I am the City of Science, and ‘Alī is the Portal thereof;” alluding to the heavenly secrets he had intrusted to the latter, for communication to the worthy. See Anecdotes, chap. iii., No. 79.
+[^411]: m273:1 Mohammed is reported to have declared: “I am the City of Science, and ‘Alī is the Portal thereof;” alluding to the heavenly secrets he had intrusted to the latter, for communication to the worthy. See Anecdotes, chap. iii., No. 79.
 
-[^413]: m273:2 Qur’ān cxii. 4.
+[^412]: m273:2 Qur’ān cxii. 4.
 
-[^414]: m273:3 “Commander of the Faithful;” but “Commander of the Believers” would be more correct.
+[^413]: m273:3 “Commander of the Faithful;” but “Commander of the Believers” would be more correct.
 
-[^415]: m275:1 Qur’ān viii. 17.
+[^414]: m275:1 Qur’ān viii. 17.
 
-[^416]: m277:1 ‘Umer swore he would kill Muhammed, and went to execute his design. Arrived at the house of his own sister, who was already a secret Muslim, he heard chanted the twentieth chapter of the Qur’ān, and was immediately converted. He then went to Mohammed, and publicly professed the faith.
+[^415]: m277:1 ‘Umer swore he would kill Muhammed, and went to execute his design. Arrived at the house of his own sister, who was already a secret Muslim, he heard chanted the twentieth chapter of the Qur’ān, and was immediately converted. He then went to Mohammed, and publicly professed the faith.
 
-[^417]: m278:1 The shooting stars.
+[^416]: m278:1 The shooting stars.
 
-[^418]: m278:2 Shanfarà says: “The most excellent is he who confers a favour.”
+[^417]: m278:2 Shanfarà says: “The most excellent is he who confers a favour.”
 
-[^419]: m279:1 Qur’ān ii. 100.
+[^418]: m279:1 Qur’ān ii. 100.
 
-[^420]: m279:2 Idem.
+[^419]: m279:2 Idem.
 
-[^421]: m280:1 Qur’ān iii. 163, 164.
+[^420]: m280:1 Qur’ān iii. 163, 164.
 
-[^422]: m281:1 Qur’ān ii. 175.
+[^421]: m281:1 Qur’ān ii. 175.
 
-[^423]: m282:1 Qur’ān iii. 6.
+[^422]: m282:1 Qur’ān iii. 6.
 
-[^424]: m282:2 Qur’ān xxv. 66.
+[^423]: m282:2 Qur’ān xxv. 66.
 
-[^425]: m284:1 Qur’ān ii. 191.
+[^424]: m284:1 Qur’ān ii. 191.
 
-[^426]: m284:2 Qur’ān ii. 149.
+[^425]: m284:2 Qur’ān ii. 149.
 
-[^427]: m284:3 Qur’ān ii. 151.
+[^426]: m284:3 Qur’ān ii. 151.
 
-[^428]: m285:1 All Muslim poets speak of wounds as “flowers.”
+[^427]: m285:1 All Muslim poets speak of wounds as “flowers.”
 
-[^429]: m286:1 Qur’ān liii. 17. There is a pun here. The Arabic for “swerved” and the Persian for “a crow,” are identical in orthography,—_zāg_. Muhammed has been called by other Persian poets: “The nightingale of the garden of _mà zāg;_” which really means “swerved not,” but may be rendered: “we, the crows.”
+[^428]: m286:1 Qur’ān liii. 17. There is a pun here. The Arabic for “swerved” and the Persian for “a crow,” are identical in orthography,—_zāg_. Muhammed has been called by other Persian poets: “The nightingale of the garden of _mà zāg;_” which really means “swerved not,” but may be rendered: “we, the crows.”
 
-[^430]: m286:2 The “Limner” is, here, God, of course. He was intoxicated with love, not wine.
+[^429]: m286:2 The “Limner” is, here, God, of course. He was intoxicated with love, not wine.
 
-[^431]: m287:1 Qur’ān ii. 88.
+[^430]: m287:1 Qur’ān ii. 88.
 
-[^432]: m287:2 These were the Christian Arabs of Nejrān. They sent an embassy to Muhammed at Medīna. He proposed to them a trial by invocation of God's curse on the liars, their wives, and children. He uttered it; they shrank, and accepted submission to him, on condition of paying tribute.
+[^431]: m287:2 These were the Christian Arabs of Nejrān. They sent an embassy to Muhammed at Medīna. He proposed to them a trial by invocation of God's curse on the liars, their wives, and children. He uttered it; they shrank, and accepted submission to him, on condition of paying tribute.

@@ -591,66 +591,66 @@ You've spent your stuff upon your cherished kindred sole,
 
 ## Footnotes
 
-[^376]: m254:1 Zeyd, son of Hāritha and father of Usāma, the freedman and adopted son of Muhammed, one of his most devoted disciples.
+[^375]: m254:1 Zeyd, son of Hāritha and father of Usāma, the freedman and adopted son of Muhammed, one of his most devoted disciples.
 
-[^377]: m254:2 For the eight paradises, see Tale xiv. dist. 74, p. [253](/en/book/Islam/The_Mesnevi/Book_14#p253).
+[^376]: m254:2 For the eight paradises, see Tale xiv. dist. 74, p. [253](/en/book/Islam/The_Mesnevi/Book_14#p253).
 
-[^378]: m254:3 The seven hells are:—1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa‘īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. All these names for Hell occur in the Qur’ān.
+[^377]: m254:3 The seven hells are:—1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa‘īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. All these names for Hell occur in the Qur’ān.
 
-[^379]: m255:1 This is predestination indeed. But does not our “vessels of wrath” come to about the same thing, at least in some opinions?
+[^378]: m255:1 This is predestination indeed. But does not our “vessels of wrath” come to about the same thing, at least in some opinions?
 
-[^380]: m256:1 Qur’ān iii. 102.
+[^379]: m256:1 Qur’ān iii. 102.
 
-[^381]: m256:2 “Turk and Hindū” is synonymous with “_fair and dark_.”
+[^380]: m256:2 “Turk and Hindū” is synonymous with “_fair and dark_.”
 
-[^382]: m256:3 “They of the left hand,” Qur’ān lix. 8; xc. 18.
+[^381]: m256:3 “They of the left hand,” Qur’ān lix. 8; xc. 18.
 
-[^383]: m256:4 “ The seven pits of hell” are named respectively: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya, and Saqar, as above mentioned, p. [254](#pm254), note [^377].
+[^382]: m256:4 “ The seven pits of hell” are named respectively: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya, and Saqar, as above mentioned, p. [254](#pm254), note [^377].
 
-[^384]: m256:5 “Al-Kawthar,” Qur’ān cviii. 1, is variously explained, but probably means: _the great multitude_, scil., _of mankind;_ not “a fountain.”
+[^383]: m256:5 “Al-Kawthar,” Qur’ān cviii. 1, is variously explained, but probably means: _the great multitude_, scil., _of mankind;_ not “a fountain.”
 
-[^385]: m257:1 Qur’ān ii. 24.
+[^384]: m257:1 Qur’ān ii. 24.
 
-[^386]: m257:2 Qur’ān ii. 231; and, indirectly, in many texts.
+[^385]: m257:2 Qur’ān ii. 231; and, indirectly, in many texts.
 
-[^387]: m258:1 Qur’ān xvi. 4; xl. 23.
+[^386]: m258:1 Qur’ān xvi. 4; xl. 23.
 
-[^388]: m258:2 Qur’ān lxxvi. 17, 18.
+[^387]: m258:2 Qur’ān lxxvi. 17, 18.
 
-[^389]: m258:3 Michael is mentioned in Qur’ān ii. 92; Gabriel is also there mentioned, and in two other places; but no other angels by name.
+[^388]: m258:3 Michael is mentioned in Qur’ān ii. 92; Gabriel is also there mentioned, and in two other places; but no other angels by name.
 
-[^390]: m259:1 Solomon was robbed of his seal by a genie, and temporarily deprived of his kingdom.
+[^389]: m259:1 Solomon was robbed of his seal by a genie, and temporarily deprived of his kingdom.
 
-[^391]: m259:2 Qur’ān xxxi. 12. _Lokman_, the commonly received orthography, is doubly erroneous; the first vowel of the name is _u_, the Italian _u_, the French _ou_, the _oo_ of our words p. 260 _foot_, _good_, _wood;_ not of _coot_, _moot_, _root_. Our _q_ is, historically, the only true representative of the Phenician letter that equally gave rise to the Hebrew ק, to the old Greek Q, to the Latin Q, and to the Arabic ق as may be seen by comparing the letters in the last element of the Arabian numeral alphabet, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), with the Hebrew _Koph_, _Resh_, _Schin_, _Tau;_ with the Greek Q = 90, Ρ = 100, Σ = 200, Τ = 300; and with the Latin Q, R, S, T. The proof is still more conclusive by comparing, in order, the whole alphabets, as to positions, names, shapes, values in sound, and numeral values.
+[^390]: m259:2 Qur’ān xxxi. 12. _Lokman_, the commonly received orthography, is doubly erroneous; the first vowel of the name is _u_, the Italian _u_, the French _ou_, the _oo_ of our words p. 260 _foot_, _good_, _wood;_ not of _coot_, _moot_, _root_. Our _q_ is, historically, the only true representative of the Phenician letter that equally gave rise to the Hebrew ק, to the old Greek Q, to the Latin Q, and to the Arabic ق as may be seen by comparing the letters in the last element of the Arabian numeral alphabet, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), with the Hebrew _Koph_, _Resh_, _Schin_, _Tau;_ with the Greek Q = 90, Ρ = 100, Σ = 200, Τ = 300; and with the Latin Q, R, S, T. The proof is still more conclusive by comparing, in order, the whole alphabets, as to positions, names, shapes, values in sound, and numeral values.
 
-[^392]: m262:1 Solomon, when deprived of his kingdom, became a fisherman.
+[^391]: m262:1 Solomon, when deprived of his kingdom, became a fisherman.
 
-[^393]: m263:1 Qur’ān ii. 2. Our: “_Credo, quia impossibile_.”
+[^392]: m263:1 Qur’ān ii. 2. Our: “_Credo, quia impossibile_.”
 
-[^394]: m263:2 Qur’ān lxvii. 3.
+[^393]: m263:2 Qur’ān lxvii. 3.
 
-[^395]: m263:3 Muhammed is reported to have said: “The prince of a people is their servant.” This may be compared with Matt. xi. 26 and 27.
+[^394]: m263:3 Muhammed is reported to have said: “The prince of a people is their servant.” This may be compared with Matt. xi. 26 and 27.
 
-[^396]: m264:1 Qur’ān iii. 16.
+[^395]: m264:1 Qur’ān iii. 16.
 
-[^397]: m264:2 Qur’ān ii. 256.
+[^396]: m264:2 Qur’ān ii. 256.
 
-[^398]: m264:3 Qur’ān xxxv. 4.
+[^397]: m264:3 Qur’ān xxxv. 4.
 
-[^399]: m265:1 Qur’ān xxi. 108.
+[^398]: m265:1 Qur’ān xxi. 108.
 
-[^400]: m265:2 Qur’ān xx. 4.
+[^499]: m265:2 Qur’ān xx. 4.
 
-[^401]: m266:1 Qur’ān xxxvi. 53.
+[^400]: m266:1 Qur’ān xxxvi. 53.
 
-[^402]: m266:2 Qur’ān xi. 59.
+[^401]: m266:2 Qur’ān xi. 59.
 
-[^403]: m266:3 Qur’ān xxxiv. 12.
+[^402]: m266:3 Qur’ān xxxiv. 12.
 
-[^404]: m267:1 See the Translator's “Turkish Poetry” (p. 32 or 45), 1879; published by Trübner & Co., Ludgate fill, London, e.c.
+[^403]: m267:1 See the Translator's “Turkish Poetry” (p. 32 or 45), 1879; published by Trübner & Co., Ludgate fill, London, e.c.
 
-[^405]: m268:1 Qur’ān ix. 32; lxi. 8. The expression “ polytheist,” generally used by translators to render the meaning of the Arabic “_mushrik_,” is not correct; to attribute one “partner” to God is as much “_shirk_” as to attribute many. See note in [p. 36](/en/book/Islam/The_Mesnevi/Acts_3#p36), Tale iii.
+[^404]: m268:1 Qur’ān ix. 32; lxi. 8. The expression “ polytheist,” generally used by translators to render the meaning of the Arabic “_mushrik_,” is not correct; to attribute one “partner” to God is as much “_shirk_” as to attribute many. See note in [p. 36](/en/book/Islam/The_Mesnevi/Acts_3#p36), Tale iii.
 
-[^406]: m268:2 Qur’ān xxi. 68, 69, alludes to this.
+[^405]: m268:2 Qur’ān xxi. 68, 69, alludes to this.
 
-[^407]: m268:3 Qur’ān ii. 22; lxvi. 6.
+[^406]: m268:3 Qur’ān ii. 22; lxvi. 6.

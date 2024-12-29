@@ -1259,86 +1259,86 @@ Cast thou the carcase vile of earthly pomp to dogs.
 
 ## Footnotes
 
-[^136]: m67:1 Kalīla and Dimna is the Arabic version of Pīlpāy's fables.
+[^135]: m67:1 Kalīla and Dimna is the Arabic version of Pīlpāy's fables.
 
-[^137]: m67:2 This proverb is given in Freytag's “_Proverbia Arabica_,” ii. p. 488, n. 278, as an answer from Muhammed to a foe twice made prisoner.
+[^136]: m67:2 This proverb is given in Freytag's “_Proverbia Arabica_,” ii. p. 488, n. 278, as an answer from Muhammed to a foe twice made prisoner.
 
-[^138]: m68:1 Equivalent to tethering a horse, “Keep your powder dry.”
+[^137]: m68:1 Equivalent to tethering a horse, “Keep your powder dry.”
 
-[^139]: m68:2 The original says: “_The earner is God's friend_.”
+[^138]: m68:2 The original says: “_The earner is God's friend_.”
 
-[^140]: m68:3 The original has: “_Flees the snake, and meets a dragon_.”
+[^139]: m68:3 The original has: “_Flees the snake, and meets a dragon_.”
 
-[^141]: m69:1 The words as given in the original, in Arabic, are not in the Qur’ān.
+[^140]: m69:1 The words as given in the original, in Arabic, are not in the Qur’ān.
 
-[^142]: m70:1 A cock that crows out of season, in the night.
+[^141]: m70:1 A cock that crows out of season, in the night.
 
-[^143]: m70:2 Qur’ān xiv. 47.
+[^142]: m70:2 Qur’ān xiv. 47.
 
-[^144]: m71:1 Azrā’īl, the angel of death, who takes men's souls.
+[^143]: m71:1 Azrā’īl, the angel of death, who takes men's souls.
 
-[^145]: m71:2 Solomon is related in the Qur’ān xxi. 81, and xxxiv. 11, to have possessed power over the wind.
+[^144]: m71:2 Solomon is related in the Qur’ān xxi. 81, and xxxiv. 11, to have possessed power over the wind.
 
-[^146]: m72:1 In Qur’ān iii. 47, and viii. 30, God is styled “_the best of stratagem-makers_.”
+[^145]: m72:1 In Qur’ān iii. 47, and viii. 30, God is styled “_the best of stratagem-makers_.”
 
-[^147]: m72:2 I do not find this proverb in Freytag's “_Proverbia_.”
+[^146]: m72:2 I do not find this proverb in Freytag's “_Proverbia_.”
 
-[^148]: m73:1 Qur’ān ii. 15.
+[^147]: m73:1 Qur’ān ii. 15.
 
-[^149]: m73:2 See Qur’ān xlviii. 29; lix. 8; and lxxiii. 20.
+[^148]: m73:2 See Qur’ān xlviii. 29; lix. 8; and lxxiii. 20.
 
-[^150]: m75:1 In Qur’ān ii. 29, the account of this is given. Compare Gen. ii. 19.
+[^149]: m75:1 In Qur’ān ii. 29, the account of this is given. Compare Gen. ii. 19.
 
-[^151]: m75:2; Was Satan this very old hermit? His successful temptation was the muzzle. The original says “_calf_,” where I have said “_babe;_”—meaning Adam, when first created. Instructed by God, he named all things, which the angels were unable to do, and so were silenced.
+[^150]: m75:2; Was Satan this very old hermit? His successful temptation was the muzzle. The original says “_calf_,” where I have said “_babe;_”—meaning Adam, when first created. Instructed by God, he named all things, which the angels were unable to do, and so were silenced.
 
-[^152]: m75:3 The story of the dog of the Sleepers is told in Qur’ān xviii. 27-21.
+[^151]: m75:3 The story of the dog of the Sleepers is told in Qur’ān xviii. 27-21.
 
-[^153]: m76:1 The Persian name for the hare is “_ass-ear;_” hence the pun.
+[^152]: m76:1 The Persian name for the hare is “_ass-ear;_” hence the pun.
 
-[^154]: m79:1 The “hidden tablet” of God's decrees; mentioned in Qur’ān lxxxv. 22.
+[^153]: m79:1 The “hidden tablet” of God's decrees; mentioned in Qur’ān lxxxv. 22.
 
-[^155]: m79:2 At the “extreme lote-tree” in the highest heaven, on the night of the ascension. Gabriel could go no further. Muhammed went on, to God's presence.
+[^154]: m79:2 At the “extreme lote-tree” in the highest heaven, on the night of the ascension. Gabriel could go no further. Muhammed went on, to God's presence.
 
-[^156]: m79:3 The word that signifies “compulsion” also means “reduction” in a surgical sense, and “algebra” mathematically.
+[^155]: m79:3 The word that signifies “compulsion” also means “reduction” in a surgical sense, and “algebra” mathematically.
 
-[^157]: m79:4 “Burāq” is the name of the angelic steed on which Muhammed mounted to heaven in his night journey. Not found in the Qur’ān.
+[^156]: m79:4 “Burāq” is the name of the angelic steed on which Muhammed mounted to heaven in his night journey. Not found in the Qur’ān.
 
-[^158]: m80:1 “The moon clave” in twain as a sign of the near approach of the day of judgment. Qur’ān liv. 1.
+[^157]: m80:1 “The moon clave” in twain as a sign of the near approach of the day of judgment. Qur’ān liv. 1.
 
-[^159]: m82:1 Muhammed's name is put on most Muslim coins.
+[^158]: m82:1 Muhammed's name is put on most Muslim coins.
 
-[^160]: m82:2 Muhammed is held to be the supplement of all the prophets.
+[^159]: m82:2 Muhammed is held to be the supplement of all the prophets.
 
-[^161]: m84:1 Qur’ān ii. 151.
+[^160]: m84:1 Qur’ān ii. 151.
 
-[^162]: m84:2 Not in Freytag's “_Proverbia_.”
+[^161]: m84:2 Not in Freytag's “_Proverbia_.”
 
-[^163]: m85:1 See note in the Author's Preface, and Chapter vi. in the Anecdotes.
+[^162]: m85:1 See note in the Author's Preface, and Chapter vi. in the Anecdotes.
 
-[^164]: m87:1 The commentators on Qur’ān xxi. 69, mention Nimrod's gnat.
+[^163]: m87:1 The commentators on Qur’ān xxi. 69, mention Nimrod's gnat.
 
-[^165]: m87:2 Qur’ān xxviii. 5, mentions Haman with Pharaoh.
+[^164]: m87:2 Qur’ān xxviii. 5, mentions Haman with Pharaoh.
 
-[^166]: m87:3 He is said to have believed Satan rather than Abraham.
+[^165]: m87:3 He is said to have believed Satan rather than Abraham.
 
-[^167]: m88:1 The translator has ventured to coin the expressions “_synglottism_,” “_synglottist_,” and “_syncardism_” as specimens of a whole class used in Persian.
+[^166]: m88:1 The translator has ventured to coin the expressions “_synglottism_,” “_synglottist_,” and “_syncardism_” as specimens of a whole class used in Persian.
 
-[^168]: m90:1 A title designating Adam,—who named all things.
+[^167]: m90:1 A title designating Adam,—who named all things.
 
-[^169]: m91:1 Qur’ān ii. 29.
+[^168]: m91:1 Qur’ān ii. 29.
 
-[^170]: m91:2 Omar.
+[^169]: m91:2 Omar.
 
-[^171]: m91:3 A very doubtful clause; it may be rendered: “_Thou art with me_.”
+[^170]: m91:3 A very doubtful clause; it may be rendered: “_Thou art with me_.”
 
-[^172]: m91:4 Adam, in most languages, has come to signify _man_.
+[^171]: m91:4 Adam, in most languages, has come to signify _man_.
 
-[^173]: m92:1 Qur’ān ii. 33, mentions merely a “_caulescent plant;_” “wheat ”is one of several glosses by commentators, like our “apple.”
+[^172]: m92:1 Qur’ān ii. 33, mentions merely a “_caulescent plant;_” “wheat ”is one of several glosses by commentators, like our “apple.”
 
-[^174]: m92:2 Qur’ān vii. 22, makes Adam confess sin with contrition, together with Eve, thereby meriting God's eventual pardon.
+[^173]: m92:2 Qur’ān vii. 22, makes Adam confess sin with contrition, together with Eve, thereby meriting God's eventual pardon.
 
-[^175]: m96:1 Qur’ān cx. 1.
+[^174]: m96:1 Qur’ān cx. 1.
 
-[^176]: m98:1 Evidently the name of a rival.
+[^175]: m98:1 Evidently the name of a rival.
 
-[^177]: m99:1 These are sainted spiritualists, true and pious dervishes.
+[^176]: m99:1 These are sainted spiritualists, true and pious dervishes.

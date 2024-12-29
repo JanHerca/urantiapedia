@@ -156,4 +156,4 @@ He was buried on the 25th, where he had himself indicated, by the side of his gr
 
 ## Footnotes
 
-[^34]: 126:1 Europeanised Armenians have made this into _Zohrab_, as their own family name.
+[^33]: 126:1 Europeanised Armenians have made this into _Zohrab_, as their own family name.

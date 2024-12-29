@@ -248,16 +248,16 @@ They're more exalted than the heavens and what's beyond;
 
 ## Footnotes
 
-[^369]: m248:1 Qur’ān vi. 32; xxix. 64; xxx. 6; xlvii. 38; lvii. 19.
+[^368]: m248:1 Qur’ān vi. 32; xxix. 64; xxx. 6; xlvii. 38; lvii. 19.
 
-[^370]: m249:1 Qur’ān lxx. 4.
+[^369]: m249:1 Qur’ān lxx. 4.
 
-[^371]: m249:2 Qur’ān x. 37.
+[^370]: m249:2 Qur’ān x. 37.
 
-[^372]: m249:3 Qur’ān lxii. 5.
+[^371]: m249:3 Qur’ān lxii. 5.
 
-[^373]: m251:1 See, in the author's own preface, his eulogistic mention of Sheykh Husāmu-’d-Dīn, p. [iii](/en/book/Islam/The_Mesnevi/Book_Preface#piii)., where this saying is also given.
+[^372]: m251:1 See, in the author's own preface, his eulogistic mention of Sheykh Husāmu-’d-Dīn, p. [iii](/en/book/Islam/The_Mesnevi/Book_Preface#piii)., where this saying is also given.
 
-[^374]: m251:2 By “ Roman,” in the East, is meant what Europeans incorrectly name “Greek.” Since Alexander of Macedon's time, no “Greeks” have existed. Their very memory is lost in Asia, and Alexander himself is styled there “_the Roman_.”
+[^373]: m251:2 By “ Roman,” in the East, is meant what Europeans incorrectly name “Greek.” Since Alexander of Macedon's time, no “Greeks” have existed. Their very memory is lost in Asia, and Alexander himself is styled there “_the Roman_.”
 
-[^375]: m253:1 Commonly, in Islām, eight paradises, or, properly, eight mansions of Paradise, are reported, mentioned, and believed. Baydhāvī, in Qur’ān ii. 23, gives only seven, and one of those is wrong. Guided by him, however, I have corrected this, and verified the others, besides finding the eighth. Their names, then, are as follows:—1. _Jennatu-’l-Khuld_, the Paradise (garden) of Eternal Duration; 2. _Jennatu ‘Aden_, the Garden of Eden; 3. _Jennatu-’l-Firdaws_, the Garden of Paradise; 4. _Jennatu-’l-Me’và_, the Garden of the Abode; 5. _Jennatu-’n-Na‘īm_, the Paradise of the Pleasantness; 6. _Dāru-’s-Selām_, the Home of Security; 7. _Dāru-’l-Maqāma_, the House of Sojourn; 8. _‘Illiyūn_, the Sublime Heights. Baydhāvī has _Dāru-’l-Khuld_ for _Jennatu-’l-Khuld;_ but that is one of the names of Hell, as occurring in Qur’ān xli. 28. There is also a _Dāru-’l-Qarār_, Home of Permanence, mentioned in Qur’ān xl. 42; but it applies to Hell and Heaven, as does the _Dāru-’l-Baqā_, Home of Duration, commonly used, but not found in the Qur’ān.
+[^374]: m253:1 Commonly, in Islām, eight paradises, or, properly, eight mansions of Paradise, are reported, mentioned, and believed. Baydhāvī, in Qur’ān ii. 23, gives only seven, and one of those is wrong. Guided by him, however, I have corrected this, and verified the others, besides finding the eighth. Their names, then, are as follows:—1. _Jennatu-’l-Khuld_, the Paradise (garden) of Eternal Duration; 2. _Jennatu ‘Aden_, the Garden of Eden; 3. _Jennatu-’l-Firdaws_, the Garden of Paradise; 4. _Jennatu-’l-Me’và_, the Garden of the Abode; 5. _Jennatu-’n-Na‘īm_, the Paradise of the Pleasantness; 6. _Dāru-’s-Selām_, the Home of Security; 7. _Dāru-’l-Maqāma_, the House of Sojourn; 8. _‘Illiyūn_, the Sublime Heights. Baydhāvī has _Dāru-’l-Khuld_ for _Jennatu-’l-Khuld;_ but that is one of the names of Hell, as occurring in Qur’ān xli. 28. There is also a _Dāru-’l-Qarār_, Home of Permanence, mentioned in Qur’ān xl. 42; but it applies to Hell and Heaven, as does the _Dāru-’l-Baqā_, Home of Duration, commonly used, but not found in the Qur’ān.

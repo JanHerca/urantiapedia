@@ -251,26 +251,26 @@ O man, whose back is galled, accept his salve with thanks.
 
 ## Footnotes
 
-[^339]: m229:1 In Semitic and Muslim lore the moon is “he,” the sun “she.”
+[^338]: m229:1 In Semitic and Muslim lore the moon is “he,” the sun “she.”
 
-[^340]: m229:2 Qur’ān xlviii. 29.
+[^339]: m229:2 Qur’ān xlviii. 29.
 
-[^341]: m229:3 Qur’ān vi. 94.
+[^340]: m229:3 Qur’ān vi. 94.
 
-[^342]: m230:1 Qur’ān li. 17.
+[^341]: m230:1 Qur’ān li. 17.
 
-[^343]: m230:2 Qur’ān li. 18.
+[^342]: m230:2 Qur’ān li. 18.
 
-[^344]: m230:3 Qur’ān iv. 99.
+[^343]: m230:3 Qur’ān iv. 99.
 
-[^345]: m230:4 Qur’ān xviii. 8-21.
+[^344]: m230:4 Qur’ān xviii. 8-21.
 
-[^346]: m231:1 Qur’ān lxix. 19.
+[^345]: m231:1 Qur’ān lxix. 19.
 
-[^347]: m231:2 Qur’ān lxix. 25.
+[^346]: m231:2 Qur’ān lxix. 25.
 
-[^348]: m231:3 The Persian equivalent of our “_carrying coats to Newcastle_.”
+[^347]: m231:3 The Persian equivalent of our “_carrying coats to Newcastle_.”
 
-[^349]: m231:4 A metallic mirror, formerly much used.
+[^348]: m231:4 A metallic mirror, formerly much used.
 
-[^350]: m232:1 Qur’ān vii. 11.
+[^349]: m232:1 Qur’ān vii. 11.

@@ -937,78 +937,78 @@ A Fount of Life was he, a very sea of gift.
 
 ## Footnotes
 
-[^245]: m139:1 Isrāfīl is the angel who will blow the last trump, twice. At the first, all living will die; at the second, all the dead will rise to be judged. His voice is the most musical among all those of the angels.
+[^244]: m139:1 Isrāfīl is the angel who will blow the last trump, twice. At the first, all living will die; at the second, all the dead will rise to be judged. His voice is the most musical among all those of the angels.
 
-[^246]: m140:1 Our word “fairy” is connected with the Persian “_perī_,” used here by the poet instead of the Arabic “_jinn_,” whence our “genie.”
+[^245]: m140:1 Our word “fairy” is connected with the Persian “_perī_,” used here by the poet instead of the Arabic “_jinn_,” whence our “genie.”
 
-[^247]: m140:2 Qur’ān lv. 33.
+[^246]: m140:2 Qur’ān lv. 33.
 
-[^248]: m140:3 That is, it would appear: _Individuals created out of nothing_.
+[^247]: m140:3 That is, it would appear: _Individuals created out of nothing_.
 
-[^249]: m141:1 That is: The Lord is with him who strives on the Lord's side.
+[^248]: m141:1 That is: The Lord is with him who strives on the Lord's side.
 
-[^250]: m141:2 A dried gourd, a calabash, is commonly used as a wine-decanter.
+[^249]: m141:2 A dried gourd, a calabash, is commonly used as a wine-decanter.
 
-[^251]: m141:3 An apostolic tradition.
+[^250]: m141:3 An apostolic tradition.
 
-[^252]: m142:1 Also an apostolic tradition.
+[^251]: m142:1 Also an apostolic tradition.
 
-[^253]: m142:2 Another apostolic tradition.
+[^252]: m142:2 Another apostolic tradition.
 
-[^254]: m142:3 The traditionary saying of Mohammed, of which this section is an amplification, is the following:—“Verily your Lord hath, in your time, sundry breathings; lo, then, turn ye towards them.”
+[^253]: m142:3 The traditionary saying of Mohammed, of which this section is an amplification, is the following:—“Verily your Lord hath, in your time, sundry breathings; lo, then, turn ye towards them.”
 
-[^255]: m143:1 Qur’ān xxxiii. 72. When all things had declined responsibility, Adam voluntarily accepted it; was tempted; and fell. Had they not shrunk, man would not have been the sinner or the saint that he is.
+[^254]: m143:1 Qur’ān xxxiii. 72. When all things had declined responsibility, Adam voluntarily accepted it; was tempted; and fell. Had they not shrunk, man would not have been the sinner or the saint that he is.
 
-[^256]: m143:2 Luqmān's story may be read in D’Herbelot, _voce_ “Locman.”
+[^255]: m143:2 Luqmān's story may be read in D’Herbelot, _voce_ “Locman.”
 
-[^257]: m144:1 Arabian poets sing of women; often imaginary. In Persia, this is considered very immodest. In Persian poetry, a boy, imaginary also, is always assumed to be the beloved object. Muhammed so addressed his youthful wife, ‘Ā’isha. Humayrā means Rosina,—_little rosy-cheeks_. See also No. 9, distich 184.
+[^256]: m144:1 Arabian poets sing of women; often imaginary. In Persia, this is considered very immodest. In Persian poetry, a boy, imaginary also, is always assumed to be the beloved object. Muhammed so addressed his youthful wife, ‘Ā’isha. Humayrā means Rosina,—_little rosy-cheeks_. See also No. 9, distich 184.
 
-[^258]: m144:2 A horse-shoe, as a charm, with an absent one's name on it, placed in the fire, is supposed to exercise a magical influence over him, and make him come there in all speed, even though his feet bleed from his haste.
+[^257]: m144:2 A horse-shoe, as a charm, with an absent one's name on it, placed in the fire, is supposed to exercise a magical influence over him, and make him come there in all speed, even though his feet bleed from his haste.
 
-[^259]: m144:3 That “Soul” is God, the “_animus mundi_.”
+[^258]: m144:3 That “Soul” is God, the “_animus mundi_.”
 
-[^260]: m145:1 Through humility.
+[^259]: m145:1 Through humility.
 
-[^261]: m145:2 The “call” of God is the call to divine service, the _‘Adhān_ (_ezān_).
+[^260]: m145:2 The “call” of God is the call to divine service, the _‘Adhān_ (_ezān_).
 
-[^262]: m145:3 Bilāl, a negro, was the first caller to divine service. He was an early convert, a slave, then ‘Abū-Bekr's freedman; then Mu’edhdhin.
+[^261]: m145:3 Bilāl, a negro, was the first caller to divine service. He was an early convert, a slave, then ‘Abū-Bekr's freedman; then Mu’edhdhin.
 
-[^263]: m145:4 Mustafà, _Chosen_, _Elect_, is one of Muhammed's titles.
+[^262]: m145:4 Mustafà, _Chosen_, _Elect_, is one of Muhammed's titles.
 
-[^264]: m145:5 The night of his marriage with Safiyya, after the capture of Khaybar, in the seventh year of the Hijra, as he was returning to Medīna. That night has a special name, based on this circumstance: _the night of the early morning halt_ (laylatu ’t-ta‘rīs).
+[^263]: m145:5 The night of his marriage with Safiyya, after the capture of Khaybar, in the seventh year of the Hijra, as he was returning to Medīna. That night has a special name, based on this circumstance: _the night of the early morning halt_ (laylatu ’t-ta‘rīs).
 
-[^265]: m146:1 An explanation of this wild expression were much to be desired. Doubtless there is one.
+[^264]: m146:1 An explanation of this wild expression were much to be desired. Doubtless there is one.
 
-[^266]: m146:2 There are seven different Persian games of backgammon. The second of the seven, the one mentioned by the poet, is called “Plus” (_Ziyād_). At each throw of the dice, one is added, arbitrarily, to each number shown on the two, ace becoming deuce, &c. The poet likens the body to this supposititious number, the soul alone being real.
+[^265]: m146:2 There are seven different Persian games of backgammon. The second of the seven, the one mentioned by the poet, is called “Plus” (_Ziyād_). At each throw of the dice, one is added, arbitrarily, to each number shown on the two, ace becoming deuce, &c. The poet likens the body to this supposititious number, the soul alone being real.
 
-[^267]: m148:1 In performing her devotions, a Muslimess has to veil herself, even at home, as though she were abroad in public.
+[^266]: m148:1 In performing her devotions, a Muslimess has to veil herself, even at home, as though she were abroad in public.
 
-[^268]: m148:2 These four lines are quoted from Sanā'ī, for comment.
+[^267]: m148:2 These four lines are quoted from Sanā'ī, for comment.
 
-[^269]: m149:1 This section and the next two form a comment on Sanā’ī.
+[^268]: m149:1 This section and the next two form a comment on Sanā’ī.
 
-[^270]: m149:2 Qur’ān l. 14. The “new creation” is the resurrection.
+[^269]: m149:2 Qur’ān l. 14. The “new creation” is the resurrection.
 
-[^271]: m149:3 The tradition, in prose, is as follows, quoted by the poet: “Take ye advantage of the coolness of spring; it invigorates your bodies, as it acts on plants. Avoid ye also the cold of autumn; it acts on your frames as it acts on vegetation.”
+[^270]: m149:3 The tradition, in prose, is as follows, quoted by the poet: “Take ye advantage of the coolness of spring; it invigorates your bodies, as it acts on plants. Avoid ye also the cold of autumn; it acts on your frames as it acts on vegetation.”
 
-[^272]: m150:1 Prisoners and fugitive slaves have iron rings or a kind of wooden pillory fastened round their necks to prevent flight or insubordination.
+[^271]: m150:1 Prisoners and fugitive slaves have iron rings or a kind of wooden pillory fastened round their necks to prevent flight or insubordination.
 
-[^273]: m152:1 Venus, the musician, who inhabits the planet. See Tale iii., dist. 223.
+[^272]: m152:1 Venus, the musician, who inhabits the planet. See Tale iii., dist. 223.
 
-[^274]: m152:2 Muhammed.
+[^273]: m152:2 Muhammed.
 
-[^275]: m152:3 The original name of Medīna,—_Jatrippa_.
+[^274]: m152:3 The original name of Medīna,—_Jatrippa_.
 
-[^276]: m153:1 Qur’ān xlvii. 17.
+[^275]: m153:1 Qur’ān xlvii. 17.
 
-[^277]: m154:1 Qur’ān vii. 171.
+[^276]: m154:1 Qur’ān vii. 171.
 
-[^278]: m155:1 Tradition relates that at first, Muhammed used to pronounce his sermon seated on the floor in the midst of his congregation, with his back against a certain wooden pillar. The congregation increasing, he was obliged to adopt the use of a raised platform, a kind of pulpit, so as to be seen and heard of all. The deserted pillar is the one spoken of.
+[^277]: m155:1 Tradition relates that at first, Muhammed used to pronounce his sermon seated on the floor in the midst of his congregation, with his back against a certain wooden pillar. The congregation increasing, he was obliged to adopt the use of a raised platform, a kind of pulpit, so as to be seen and heard of all. The deserted pillar is the one spoken of.
 
-[^279]: m157:1 This is a traditionary legend.
+[^278]: m157:1 This is a traditionary legend.
 
-[^280]: m161:1 The circumambulation of the “House of God” at Mekka, is one of the ceremonies of a pilgrimage, &c.
+[^279]: m161:1 The circumambulation of the “House of God” at Mekka, is one of the ceremonies of a pilgrimage, &c.
 
-[^281]: m163:1 Qur’ān i. 5.
+[^280]: m163:1 Qur’ān i. 5.
 
-[^282]: m164:1 Hātim Tāyī is the proverbial prince of Arabian generosity. Many anecdotes are current respecting him. His full name was Hātim, son of ‘Abdu-’llāh, son of Sa‘d, of the tribe of Tayyi’. For instances of his generosity, as handed down by tradition from a time shortly prior to the promulgation of Islām, see Mr. Clouston's “_Arabian Poetry for English Readers_,” p. 406; London, 1881; Trübner & Co., Ludgate Hill. But Hātim lived and died before the Caliphs ruled. He, too, was a poet.
+[^281]: m164:1 Hātim Tāyī is the proverbial prince of Arabian generosity. Many anecdotes are current respecting him. His full name was Hātim, son of ‘Abdu-’llāh, son of Sa‘d, of the tribe of Tayyi’. For instances of his generosity, as handed down by tradition from a time shortly prior to the promulgation of Islām, see Mr. Clouston's “_Arabian Poetry for English Readers_,” p. 406; London, 1881; Trübner & Co., Ludgate Hill. But Hātim lived and died before the Caliphs ruled. He, too, was a poet.

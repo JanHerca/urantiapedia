@@ -110,6 +110,6 @@ Sheykh Ferīdūn died on New Year's Day, a.h. 657 (28th December, a.d. 1258).
 
 ## Footnotes
 
-[^26]: 110:1 Saladin of European writings. The words mean: _the Fitness of the Religion_ (of Islām).
+[^25]: 110:1 Saladin of European writings. The words mean: _the Fitness of the Religion_ (of Islām).
 
-[^27]: 110:2 The Muslim world knows but one _Qaysar_ (Cæsar), the Emperor of Rome (Old or New), which title is now borne by the Emperor of Austria.
+[^26]: 110:2 The Muslim world knows but one _Qaysar_ (Cæsar), the Emperor of Rome (Old or New), which title is now borne by the Emperor of Austria.

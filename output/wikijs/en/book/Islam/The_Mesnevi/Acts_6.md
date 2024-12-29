@@ -212,12 +212,12 @@ These monies were always expended by Husām, as he saw fit, in relieving the nec
 
 ## Footnotes
 
-[^28]: 113:1 I have not met with any notice of Akhī-Turk.
+[^27]: 113:1 I have not met with any notice of Akhī-Turk.
 
-[^29]: 113:2 _The Honoured Elder;_ by which Abū-Bekr is probably intended; but see a note to the Preface of the Mesnevī.
+[^28]: 113:2 _The Honoured Elder;_ by which Abū-Bekr is probably intended; but see a note to the Preface of the Mesnevī.
 
-[^30]: 113:3 Juneyd and Bāyezīd of Bestām were two great doctors of mysticism; the latter died in a.h. 234 or 261 (a.d. 848 or 874), and the former in a.h. 297-8 (a.d. 909-10).
+[^29]: 113:3 Juneyd and Bāyezīd of Bestām were two great doctors of mysticism; the latter died in a.h. 234 or 261 (a.d. 848 or 874), and the former in a.h. 297-8 (a.d. 909-10).
 
-[^31]: 117:1 These are two of the four orthodox schools of Islām; they differ in certain details. There are reputed to be seventy-two schismatic or heretical sects.
+[^30]: 117:1 These are two of the four orthodox schools of Islām; they differ in certain details. There are reputed to be seventy-two schismatic or heretical sects.
 
-[^32]: 120:1 This anecdote directly contradicts the foolish idea, so common in Europe, that, in the religious system of Islām, women are held to have no souls, and no hope of paradise.
+[^31]: 120:1 This anecdote directly contradicts the foolish idea, so common in Europe, that, in the religious system of Islām, women are held to have no souls, and no hope of paradise.

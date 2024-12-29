@@ -78,38 +78,38 @@ Thus saith the feeble servant, in need of the mercy of God, whose name be extoll
 
 ## Footnotes
 
-[^37]: mi:1 Qur’ān xxiv. 35.
+[^36]: mi:1 Qur’ān xxiv. 35.
 
-[^38]: mi:2 Qur’ān lxxvi. 18.
+[^37]: mi:2 Qur’ān lxxvi. 18.
 
-[^39]: mi:3 Qur’ān xix. 94.
+[^38]: mi:3 Qur’ān xix. 94.
 
-[^40]: mi:4 Qur’ān xxv. 26.
+[^39]: mi:4 Qur’ān xxv. 26.
 
-[^41]: mi:5 Qur’ān ii. 24.
+[^40]: mi:5 Qur’ān ii. 24.
 
-[^42]: mii:1 Qur’ān lxxx. 15.
+[^41]: mii:1 Qur’ān lxxx. 15.
 
-[^43]: mii:2 Qur’ān lvi. 78.
+[^42]: mii:2 Qur’ān lvi. 78.
 
-[^44]: mii:3 Qur’ān lvi. 79.
+[^43]: mii:3 Qur’ān lvi. 79.
 
-[^45]: mii:4 Qur’ān xli. 42.
+[^44]: mii:4 Qur’ān xli. 42.
 
-[^46]: mii:5 Qur’ān xii. 64.
+[^45]: mii:5 Qur’ān xii. 64.
 
-[^47]: mii:6 Qur’ān vii. 150
+[^46]: mii:6 Qur’ān vii. 150
 
-[^48]: mii:7 Balkh, to the south of the west part of the Upper Oxus, is in latitude 36°, 48´ N., longitude 67°, 4´ E. from Greenwich. It represents the ancient _Bactra_, otherwise called _Zariaspa_.
+[^47]: mii:7 Balkh, to the south of the west part of the Upper Oxus, is in latitude 36°, 48´ N., longitude 67°, 4´ E. from Greenwich. It represents the ancient _Bactra_, otherwise called _Zariaspa_.
 
-[^49]: miii:1 Husāmu-’l-Haqqi-wa-’d-Dīn, his full title of honour. (See Anecdotes, chap. vi.)
+[^48]: miii:1 Husāmu-’l-Haqqi-wa-’d-Dīn, his full title of honour. (See Anecdotes, chap. vi.)
 
-[^50]: miii:2 Bāyezīd or Abū-Yazīd, of Bestām, in Khurāsān, Persia, latitude 36°, 25´ N., longitude 55°, 0´ E., a celebrated teacher and saint among the mystics of Islām, died a.h. 265, a.d. 874 (though a.h. 234, a.d. 848, has also been mentioned by some). His name was Tayfūr, son of ‘Isà, son of Ādam, son of Surūshān, a Zoroastrian who embraced Islām.
+[^49]: miii:2 Bāyezīd or Abū-Yazīd, of Bestām, in Khurāsān, Persia, latitude 36°, 25´ N., longitude 55°, 0´ E., a celebrated teacher and saint among the mystics of Islām, died a.h. 265, a.d. 874 (though a.h. 234, a.d. 848, has also been mentioned by some). His name was Tayfūr, son of ‘Isà, son of Ādam, son of Surūshān, a Zoroastrian who embraced Islām.
 
-[^51]: miii:3 Juneyd, surname of Abū-’l-Qāsim Sa‘īd son of ‘Ubayd, entitled Sultan of the Sūfī Community, a saint who died at Bagdad in a.h. 287 (a.d. 900).
+[^50]: miii:3 Juneyd, surname of Abū-’l-Qāsim Sa‘īd son of ‘Ubayd, entitled Sultan of the Sūfī Community, a saint who died at Bagdad in a.h. 287 (a.d. 900).
 
-[^52]: miii:4 Urmiyya, on the lake of that name, south-west from Tebrīz, the capital city of Azerbāyjān, the northwest province of Persia.
+[^51]: miii:4 Urmiyya, on the lake of that name, south-west from Tebrīz, the capital city of Azerbāyjān, the northwest province of Persia.
 
-[^53]: miii:5 The expression of: “_The venerated Sheykh_,” might, perhaps, at first, be thought to indicate the Caliph Abū-Bekr, the Sheykh par excellence, as he and his successor ‘Umer (Omar) were designated “_the two Sheykhs_,” from each being a father-in-law to Muhammed, whereas the third and fourth caliphs, ‘Uthmān (Osmān) and ‘Alī, were his sons-in-law. If this supposition were correct, Jelāl and Husām would have been descended from the same remote ancestor. The commentators, however. I am informed, name a certain “Seyyid Abū-’l-Wefā, the Kurd,” as being intended. Particulars as to his individuality and history have not, unfortunately, reached me.
+[^52]: miii:5 The expression of: “_The venerated Sheykh_,” might, perhaps, at first, be thought to indicate the Caliph Abū-Bekr, the Sheykh par excellence, as he and his successor ‘Umer (Omar) were designated “_the two Sheykhs_,” from each being a father-in-law to Muhammed, whereas the third and fourth caliphs, ‘Uthmān (Osmān) and ‘Alī, were his sons-in-law. If this supposition were correct, Jelāl and Husām would have been descended from the same remote ancestor. The commentators, however. I am informed, name a certain “Seyyid Abū-’l-Wefā, the Kurd,” as being intended. Particulars as to his individuality and history have not, unfortunately, reached me.
 
-[^54]: miii:6 I have not met with an explanation of this expression, which is again introduced in Tale xiv., distich 40.
+[^53]: miii:6 I have not met with an explanation of this expression, which is again introduced in Tale xiv., distich 40.

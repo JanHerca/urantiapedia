@@ -148,8 +148,8 @@ Such is my case; sung all too well.
 
 ## Footnotes
 
-[^55]: m1:1 The reed-flute is the sacred musical instrument of the Mevlevī dervishes, commonly known as the Dancing Dervishes, from their peculiar religious waltz to the sound of the reed-flute, &c., with outstretched arms and inclined head, in their special public services of commemoration. They love the reed-flute as the symbol of a sighing absent lover.
+[^54]: m1:1 The reed-flute is the sacred musical instrument of the Mevlevī dervishes, commonly known as the Dancing Dervishes, from their peculiar religious waltz to the sound of the reed-flute, &c., with outstretched arms and inclined head, in their special public services of commemoration. They love the reed-flute as the symbol of a sighing absent lover.
 
-[^56]: m2:1 There is a poetical Eastern notion by dewdrops or raindrops falling into that pearls are formed in the oysters them at a certain season.
+[^55]: m2:1 There is a poetical Eastern notion by dewdrops or raindrops falling into that pearls are formed in the oysters them at a certain season.
 
-[^57]: m3:1 Qur’ān vii. 139, where the words are: “_And Moses fell down, swooning_.”
+[^56]: m3:1 Qur’ān vii. 139, where the words are: “_And Moses fell down, swooning_.”

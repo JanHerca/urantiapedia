@@ -1083,84 +1083,84 @@ How fatal the disasters pictured here above,
 
 ## Footnotes
 
-[^80]: m25:1 Who are intended by this Jewish squint-eyed king, and his self-sacrificing, treacherous Vazīr?
+[^79]: m25:1 Who are intended by this Jewish squint-eyed king, and his self-sacrificing, treacherous Vazīr?
 
-[^81]: m25:2 It is a common belief in the East that squint-eyed people see double.
+[^80]: m25:2 It is a common belief in the East that squint-eyed people see double.
 
-[^82]: m27:1 Needles, or pins, are hidden in bread that is given to a dog or other beast in order to destroy it.
+[^81]: m27:1 Needles, or pins, are hidden in bread that is given to a dog or other beast in order to destroy it.
 
-[^83]: m27:2 The rope worn by monks, like the Brahmin's sacred thread, is supposed by Muslims to be worn by all Christians.
+[^82]: m27:2 The rope worn by monks, like the Brahmin's sacred thread, is supposed by Muslims to be worn by all Christians.
 
-[^84]: m29:1 Mohammed.
+[^83]: m29:1 Mohammed.
 
-[^85]: m29:2 In time of immediate danger during war the “Service of Fear” is enjoined instead of the usual form of worship.
+[^84]: m29:2 In time of immediate danger during war the “Service of Fear” is enjoined instead of the usual form of worship.
 
-[^86]: m29:3 In visions.
+[^85]: m29:3 In visions.
 
-[^87]: m30:1 The original word, _conversant_, like our “Adept” and “_Illuminato_,” is applied by the mystics to themselves. It is a trace of the old Gnosticism.
+[^86]: m30:1 The original word, _conversant_, like our “Adept” and “_Illuminato_,” is applied by the mystics to themselves. It is a trace of the old Gnosticism.
 
-[^88]: m30:2 Being given in Persian, I cannot quote chapter and verse for the original Arabic.
+[^87]: m30:2 Being given in Persian, I cannot quote chapter and verse for the original Arabic.
 
-[^89]: m30:3 Like lunatics, they are supposed to be heedless of all things around them.
+[^88]: m30:3 Like lunatics, they are supposed to be heedless of all things around them.
 
-[^90]: m30:4 _Sleep is Death's brother_ is an ancient Arabian proverb.
+[^89]: m30:4 _Sleep is Death's brother_ is an ancient Arabian proverb.
 
-[^91]: m31:1 The Seven Sleepers; mentioned in Qur’ān xviii. 8-25.
+[^90]: m31:1 The Seven Sleepers; mentioned in Qur’ān xviii. 8-25.
 
-[^92]: m31:2 Mohammed's “Cave-Mate” was Abū-Bekr, who was his sole companion on quitting Mekka at the Emigration or “Flight.” They concealed themselves in a cave; and Mohammed remarked: “God is the third in our little party.” Hence the title of “Cave-Mate,” applied to Abū-Bekr.
+[^91]: m31:2 Mohammed's “Cave-Mate” was Abū-Bekr, who was his sole companion on quitting Mekka at the Emigration or “Flight.” They concealed themselves in a cave; and Mohammed remarked: “God is the third in our little party.” Hence the title of “Cave-Mate,” applied to Abū-Bekr.
 
-[^93]: m31:3 A species of nightmare in the form of a lascivious dream.
+[^92]: m31:3 A species of nightmare in the form of a lascivious dream.
 
-[^94]: m32:1 Qur’ān xxv. 47.
+[^93]: m32:1 Qur’ān xxv. 47.
 
-[^95]: m32:2 Qur’ān vi. 76.
+[^94]: m32:2 Qur’ān vi. 76.
 
-[^96]: m32:3 See “Anecdotes,” Chap. iv.
+[^95]: m32:3 See “Anecdotes,” Chap. iv.
 
-[^97]: m32:4 See his name as an honorific title in a note to the author's preface; and in the “Anecdotes,” Chap, vi.
+[^96]: m32:4 See his name as an honorific title in a note to the author's preface; and in the “Anecdotes,” Chap, vi.
 
-[^98]: m33:1 Qur’ān ii. 119.
+[^97]: m33:1 Qur’ān ii. 119.
 
-[^99]: m34:1 “_The Lion of God_,” so called from his courage and strength. Shīr-Ali, Hayder-Ali, are among the forms of the title.
+[^98]: m34:1 “_The Lion of God_,” so called from his courage and strength. Shīr-Ali, Hayder-Ali, are among the forms of the title.
 
-[^100]: m34:2 One of the sayings attributed to him and become proverbial.
+[^99]: m34:2 One of the sayings attributed to him and become proverbial.
 
-[^101]: m34:3 Persian, empty promises and boastings are also called “wind.” Hence, the poet suggests ablution to cleanse from such;—mental ablution.
+[^100]: m34:3 Persian, empty promises and boastings are also called “wind.” Hence, the poet suggests ablution to cleanse from such;—mental ablution.
 
-[^102]: m36:1 “_Syntheism_” is the correct rendering of the “_shirk_” of Islām. “_Polytheism_” is very incorrect. Dualists (Magians) and Trinitarians (Christians) are _Syntheists_, but they are not polytheists in a correct sense.
+[^101]: m36:1 “_Syntheism_” is the correct rendering of the “_shirk_” of Islām. “_Polytheism_” is very incorrect. Dualists (Magians) and Trinitarians (Christians) are _Syntheists_, but they are not polytheists in a correct sense.
 
-[^103]: m38:1 An allusion to the idea that a pearl is a raindrop caught and nourished by an oyster.
+[^102]: m38:1 An allusion to the idea that a pearl is a raindrop caught and nourished by an oyster.
 
-[^104]: m40:1 “The Illiterate Prophet,” or, rather, “the Gentile Prophet,” reputed barbarous and illiterate by the Jews and Christians, is one of Muhammed's highest titles.
+[^103]: m40:1 “The Illiterate Prophet,” or, rather, “the Gentile Prophet,” reputed barbarous and illiterate by the Jews and Christians, is one of Muhammed's highest titles.
 
-[^105]: m40:2 The original here uses the simile of a certain “_cunning bird_,” known, also as the “_Truth-calling bird_,” that hangs by a claw and calls all night: _haqq! haqq!_ (Truth! Truth!).
+[^104]: m40:2 The original here uses the simile of a certain “_cunning bird_,” known, also as the “_Truth-calling bird_,” that hangs by a claw and calls all night: _haqq! haqq!_ (Truth! Truth!).
 
-[^106]: m40:3 Such is an eastern myth. Poets call the planet Venus the “_Harpist of the Spheres_.”
+[^105]: m40:3 Such is an eastern myth. Poets call the planet Venus the “_Harpist of the Spheres_.”
 
-[^107]: m41:1 In Qur’ān ii. 32, God commands the angels to fall down in adoration to Adam, when first created. Iblīs, Satan, alone refused, through pride and envy.
+[^106]: m41:1 In Qur’ān ii. 32, God commands the angels to fall down in adoration to Adam, when first created. Iblīs, Satan, alone refused, through pride and envy.
 
-[^108]: m41:2 In Qur’ān iv. 124, Abraham is called the _Chosen Friend_ of God; and in xxi. 69, the story is mentioned of his being saved from the fire into which he was cast by Nimrod.
+[^107]: m41:2 In Qur’ān iv. 124, Abraham is called the _Chosen Friend_ of God; and in xxi. 69, the story is mentioned of his being saved from the fire into which he was cast by Nimrod.
 
-[^109]: m43:1 The _Fountain of Life_, or _Water of Life_, is imagined to take its rise in a [land](errata.htm#2) of darkness beyond the limits of the inhabited earth.
+[^108]: m43:1 The _Fountain of Life_, or _Water of Life_, is imagined to take its rise in a [land](errata.htm#2) of darkness beyond the limits of the inhabited earth.
 
-[^110]: m46:1 In the original I have not found it possible to feel sure where the break should be made from the remonstrance to the poet's reflections. Much of what precedes seems addressed to God; but Eastern hyperbole is wide.
+[^109]: m46:1 In the original I have not found it possible to feel sure where the break should be made from the remonstrance to the poet's reflections. Much of what precedes seems addressed to God; but Eastern hyperbole is wide.
 
-[^111]: m46:2 Qur’ān viii. 17. Muhammed cast sand at the foe in two battles, Badr and Hunayn.
+[^110]: m46:2 Qur’ān viii. 17. Muhammed cast sand at the foe in two battles, Badr and Hunayn.
 
-[^112]: m49:1 This account of the Vazīr's various forged books is an allusion to the various Gospels and Epistles, canonical and spurious, that sprang up in the early Christian Church.
+[^111]: m49:1 This account of the Vazīr's various forged books is an allusion to the various Gospels and Epistles, canonical and spurious, that sprang up in the early Christian Church.
 
-[^113]: m49:2 The Roman conquest of Greece, Asia Minor, and Syria completely effaced from the Eastern mind all recollection of previous actors on those scenes. Even “Alexander the Great” is to them “_Alexander the Roman_,” like our Jelūlu-’d-Dīn, “_Er-Rūmī_.”
+[^112]: m49:2 The Roman conquest of Greece, Asia Minor, and Syria completely effaced from the Eastern mind all recollection of previous actors on those scenes. Even “Alexander the Great” is to them “_Alexander the Roman_,” like our Jelūlu-’d-Dīn, “_Er-Rūmī_.”
 
-[^114]: m51:1 An allusion to the contests of the bishops of Rome, Constantinople, Alexandria, Antioch, Jerusalem, &c., &c.
+[^113]: m51:1 An allusion to the contests of the bishops of Rome, Constantinople, Alexandria, Antioch, Jerusalem, &c., &c.
 
-[^115]: m52:1 The mystics of Islam call God and the spirit _the sense_, of which material existences are the outward expression; as we say: “_The letter and the spirit_.” The constant play of the original on these words is lost in the version.
+[^114]: m52:1 The mystics of Islam call God and the spirit _the sense_, of which material existences are the outward expression; as we say: “_The letter and the spirit_.” The constant play of the original on these words is lost in the version.
 
-[^116]: m52:2 An allusion to Qur’ān xviii. 12; not a verbal quotation.
+[^115]: m52:2 An allusion to Qur’ān xviii. 12; not a verbal quotation.
 
-[^117]: m53:1 A grammatical variant of Qur’ān xxi. 107. Muhammed is meant.
+[^116]: m53:1 A grammatical variant of Qur’ān xxi. 107. Muhammed is meant.
 
-[^118]: m53:2 An allusion to Qur’ān xlix. 3; not a quotation.
+[^117]: m53:2 An allusion to Qur’ān xlix. 3; not a quotation.
 
-[^119]: m54:1 In Qur’ān lxi. 6, is the assertion that Jesus, in the Gospel, foretold the advent of Muhammed by the name of Ahmed. This is generally explained as a translation of περικλιτός, misread for παράκλητος in John xiv. 26. The two words have very much the same meaning: _much-praised, most laudable, laudatissimus_. Muhammed is mentioned by many names, forty, fifty, sixty; some say a thousand.
+[^118]: m54:1 In Qur’ān lxi. 6, is the assertion that Jesus, in the Gospel, foretold the advent of Muhammed by the name of Ahmed. This is generally explained as a translation of περικλιτός, misread for παράκλητος in John xiv. 26. The two words have very much the same meaning: _much-praised, most laudable, laudatissimus_. Muhammed is mentioned by many names, forty, fifty, sixty; some say a thousand.
 
-[^120]: m54:2 Muhammed gained the name of Trusty, El-Emīn (Al-Amīn), long before he declared himself commissioned to call his countrymen to acknowledge the unity of God, the resurrection, judgment, and future life.
+[^119]: m54:2 Muhammed gained the name of Trusty, El-Emīn (Al-Amīn), long before he declared himself commissioned to call his countrymen to acknowledge the unity of God, the resurrection, judgment, and future life.

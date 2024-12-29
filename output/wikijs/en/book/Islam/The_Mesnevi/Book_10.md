@@ -255,18 +255,18 @@ Quit “I” and “We,” which o’er thy heart exert control.
 
 ## Footnotes
 
-[^324]: m213:1 Qur’ān iii. 153.
+[^323]: m213:1 Qur’ān iii. 153.
 
-[^325]: m214:1 ‘Alī's title is “ The victorious Lion of God.”
+[^324]: m214:1 ‘Alī's title is “ The victorious Lion of God.”
 
-[^326]: m214:2 This journey is recounted in Qur’ān xviii. 64-82.
+[^325]: m214:2 This journey is recounted in Qur’ān xviii. 64-82.
 
-[^327]: m214:3 Qur’ān xviii. 69.
+[^326]: m214:3 Qur’ān xviii. 69.
 
-[^328]: m214:4 Qur’ān xviii. 70.
+[^327]: m214:4 Qur’ān xviii. 70.
 
-[^329]: m214:5 Qur’ān xviii. 73.
+[^328]: m214:5 Qur’ān xviii. 73.
 
-[^330]: m215:1 Qur’ān xlviii. 10.
+[^329]: m215:1 Qur’ān xlviii. 10.
 
-[^331]: m217:1 Qur’ān xviii. 16.
+[^330]: m217:1 Qur’ān xviii. 16.

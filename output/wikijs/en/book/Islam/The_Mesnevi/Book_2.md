@@ -260,22 +260,22 @@ The wine of God's love was the food of his soul.
 
 ## Footnotes
 
-[^70]: m21:1 In its true sense, the word “miscreant” signifies _one who holds an erroneous belief_. We corruptly say now: _an infidel_.
+[^69]: m21:1 In its true sense, the word “miscreant” signifies _one who holds an erroneous belief_. We corruptly say now: _an infidel_.
 
-[^71]: m21:2 “Hypocrites,” in Islām, form a faction. They profess the faith openly, but inwardly they hate or despise it.
+[^70]: m21:2 “Hypocrites,” in Islām, form a faction. They profess the faith openly, but inwardly they hate or despise it.
 
-[^72]: m21:3 The Muslims “worship” God in their appointed devotions. If they “pray” also, subsequently, this is a voluntary act.
+[^71]: m21:3 The Muslims “worship” God in their appointed devotions. If they “pray” also, subsequently, this is a voluntary act.
 
-[^73]: m22:1 “worship, fasting, alms, and pilgrimage” are the four acts by which a Muslim outwardly attests his faith. “'Worship,” five times daily; “fasting,” one month yearly; “pilgrimage,” at Mekka, once, as a duty, in a lifetime; “alms,” whenever property of a certain amount is possessed.
+[^72]: m22:1 “worship, fasting, alms, and pilgrimage” are the four acts by which a Muslim outwardly attests his faith. “'Worship,” five times daily; “fasting,” one month yearly; “pilgrimage,” at Mekka, once, as a duty, in a lifetime; “alms,” whenever property of a certain amount is possessed.
 
-[^74]: m22:2 “Mervites and Rāzites,” citizens of Merv and Rey (Rhages), two great Persian cities in former days, now in ruins. Merv is at present a Turkman camping-ground, aimed at by Russia as a halting place on the road to Herāt and India. Rey, the Rhages of the book of Tobit, not far from Tihrān, the Shāh's present capital of Persia. The two parties were like Ireland's Orangemen and Ribbonmen of our time.
+[^73]: m22:2 “Mervites and Rāzites,” citizens of Merv and Rey (Rhages), two great Persian cities in former days, now in ruins. Merv is at present a Turkman camping-ground, aimed at by Russia as a halting place on the road to Herāt and India. Rey, the Rhages of the book of Tobit, not far from Tihrān, the Shāh's present capital of Persia. The two parties were like Ireland's Orangemen and Ribbonmen of our time.
 
-[^75]: m22:3 Heaven and Hell; the “sheep” and the “goats.”
+[^74]: m22:3 Heaven and Hell; the “sheep” and the “goats.”
 
-[^76]: m23:1 The original has “the Darling;” the highest title given to Mohammed by Muslims is _God's Darling;_ which is not found in the Qur’ān.
+[^75]: m23:1 The original has “the Darling;” the highest title given to Mohammed by Muslims is _God's Darling;_ which is not found in the Qur’ān.
 
-[^77]: m23:2 The original has “its dear one;” God is _the dear one_ of mystics.
+[^76]: m23:2 The original has “its dear one;” God is _the dear one_ of mystics.
 
-[^78]: m24:1 A _woollen lion_ is a toy made and sold or exhibited by mendicants.
+[^77]: m24:1 A _woollen lion_ is a toy made and sold or exhibited by mendicants.
 
-[^79]: m24:2 Musaylama was a prince of Naja, who gave himself out as a prophet, and wrote to Muhammed, proposing that they should divide Arabia between them. His epistle began: “Musaylama, the Apostle of God, to Mohammed, the Apostle of God.” Mohammed's answer commenced with: “Muhammed, the Apostle of God, to Musaylama the liar.” He was eventually defeated and slain in battle, in the eleventh year of the Hijra after Mohammed's decease; when all Arabia submitted to Islām. He was killed by Wahshi, the Ethiopian slave who, in the battle of ’Uhud, had formerly driven the self-same javelin through the body of Hamza, Mohammed's uncle. Wahshi lived long after these events, in Syria. He used to say that, as a pagan, he had slain one of the best of men, and, as a Muslim, one of the worst. When Mekka was taken, he was proscribed; but he got away safely. Not long afterwards, he made his submission, and Muhammed forgave him, as he did others in analogous circumstances.
+[^78]: m24:2 Musaylama was a prince of Naja, who gave himself out as a prophet, and wrote to Muhammed, proposing that they should divide Arabia between them. His epistle began: “Musaylama, the Apostle of God, to Mohammed, the Apostle of God.” Mohammed's answer commenced with: “Muhammed, the Apostle of God, to Musaylama the liar.” He was eventually defeated and slain in battle, in the eleventh year of the Hijra after Mohammed's decease; when all Arabia submitted to Islām. He was killed by Wahshi, the Ethiopian slave who, in the battle of ’Uhud, had formerly driven the self-same javelin through the body of Hamza, Mohammed's uncle. Wahshi lived long after these events, in Syria. He used to say that, as a pagan, he had slain one of the best of men, and, as a Muslim, one of the worst. When Mekka was taken, he was proscribed; but he got away safely. Not long afterwards, he made his submission, and Muhammed forgave him, as he did others in analogous circumstances.

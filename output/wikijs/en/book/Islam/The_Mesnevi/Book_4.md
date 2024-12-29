@@ -470,32 +470,32 @@ Delusion will thee plunge headlong into hell's pit.
 
 ## Footnotes
 
-[^121]: m55:1 Qur’ān, chap. lxxxv., the name of which literally means “_the Towers_,” but is also applied to the _Signs of the Zodiac_. These Christians were the people of Nejrān in south-western Arabia; their persecutor Dhū-Nuwās, a Jew, king of Yaman, some time before Muhammad.
+[^120]: m55:1 Qur’ān, chap. lxxxv., the name of which literally means “_the Towers_,” but is also applied to the _Signs of the Zodiac_. These Christians were the people of Nejrān in south-western Arabia; their persecutor Dhū-Nuwās, a Jew, king of Yaman, some time before Muhammad.
 
-[^122]: m55:2 “Gardens beneath which rivers flow” is a frequently recurring expression in the Qur’ān. Some have special names.
+[^121]: m55:2 “Gardens beneath which rivers flow” is a frequently recurring expression in the Qur’ān. Some have special names.
 
-[^123]: m55:3 See Qur’ān xxxv. 29: “Then we caused” thee “to inherit the Scripture.”
+[^122]: m55:3 See Qur’ān xxxv. 29: “Then we caused” thee “to inherit the Scripture.”
 
-[^124]: m57:1 In Qur’ān ii. 132, Islām is termed “_God's Baptism_.” In ii. 156, and again in vii. 42, and xi. 21, “God's curse” is invoked on sinners.
+[^123]: m57:1 In Qur’ān ii. 132, Islām is termed “_God's Baptism_.” In ii. 156, and again in vii. 42, and xi. 21, “God's curse” is invoked on sinners.
 
-[^125]: m57:2 This is the story alluded to in Qur’ān lxxxv., quoted above. In traditions, Dhū-Nuwās was the name of the Jewish king of Yaman, who burnt the Christians of Nejrān in a fiery trench on their refusing to forsake their faith. The idol is imaginary; from Nebuchadnezzar.
+[^124]: m57:2 This is the story alluded to in Qur’ān lxxxv., quoted above. In traditions, Dhū-Nuwās was the name of the Jewish king of Yaman, who burnt the Christians of Nejrān in a fiery trench on their refusing to forsake their faith. The idol is imaginary; from Nebuchadnezzar.
 
-[^126]: m58:1 Qur’ān xvi. 45; xxxvii. 72; xl. 76; speaks of the “Gates of Hell;” and a commentary to she last says they are held to be seven.
+[^125]: m58:1 Qur’ān xvi. 45; xxxvii. 72; xl. 76; speaks of the “Gates of Hell;” and a commentary to she last says they are held to be seven.
 
-[^127]: m58:2 Abū-Jahl was a surname given by Muhammed to one of his most inveterate enemies of the Quraysh, killed at Badr. The word means: “_Father of Ignorance_,” and here indicates _fleshly pride_. He had formerly borne the surname of Abū-’l-Hakem, which means: _Father of the Arbitrator_.
+[^126]: m58:2 Abū-Jahl was a surname given by Muhammed to one of his most inveterate enemies of the Quraysh, killed at Badr. The word means: “_Father of Ignorance_,” and here indicates _fleshly pride_. He had formerly borne the surname of Abū-’l-Hakem, which means: _Father of the Arbitrator_.
 
-[^128]: m59:1 In Qur’ān xxi. 69, is related the miracle by which Abraham was saved from the fire into which he was cast by Nimrod for his refusal to worship an image.
+[^127]: m59:1 In Qur’ān xxi. 69, is related the miracle by which Abraham was saved from the fire into which he was cast by Nimrod for his refusal to worship an image.
 
-[^129]: m60:1 The word “_Muslim_,” whence the corruption _Moslem_, means, in Arabic, “_one who acquiesces in the truth and will of God_.” As such, Muslims have existed under every dispensation.
+[^128]: m60:1 The word “_Muslim_,” whence the corruption _Moslem_, means, in Arabic, “_one who acquiesces in the truth and will of God_.” As such, Muslims have existed under every dispensation.
 
-[^130]: m61:1 The creaking, leaky water-wheel, the Persian wheel, is well known in the East.
+[^129]: m61:1 The creaking, leaky water-wheel, the Persian wheel, is well known in the East.
 
-[^131]: m61:2 “Eye-binding” is a name for sorcery. The spectator is supposed to have his sight spell-bound, so as not to see what is really done.
+[^130]: m61:2 “Eye-binding” is a name for sorcery. The spectator is supposed to have his sight spell-bound, so as not to see what is really done.
 
-[^132]: m63:1 ‘Ad, a pre-Semitic, perhaps Turanian, people in south-eastern Arabia, often mentioned in the Qur’ān. They refused to believe the prophet Hūd (supposed to be _Heber_), and were destroyed, lxix. 6-7, by an eight days’ tempest.
+[^131]: m63:1 ‘Ad, a pre-Semitic, perhaps Turanian, people in south-eastern Arabia, often mentioned in the Qur’ān. They refused to believe the prophet Hūd (supposed to be _Heber_), and were destroyed, lxix. 6-7, by an eight days’ tempest.
 
-[^133]: m64:1 Qur’ān xxiii. 76, &c.
+[^132]: m64:1 Qur’ān xxiii. 76, &c.
 
-[^134]: m64:2 Qur’ān iii. 43.
+[^133]: m64:2 Qur’ān iii. 43.
 
-[^135]: m64:3 Qur’ān vii. 139.
+[^134]: m64:3 Qur’ān vii. 139.
