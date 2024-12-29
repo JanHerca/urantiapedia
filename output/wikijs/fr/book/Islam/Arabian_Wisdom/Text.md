@@ -36,7 +36,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 ## Le premier chapitre du Coran
 
-Au nom de Dieu, qui est abondant en miséricorde et en compassion ! Louange à Dieu, le Seigneur de l'univers, le plus miséricordieux et le plus compatissant, le Souverain du jour du jugement. C'est Toi seul que nous adorons, et c'est de Toi seul que nous implorons secours. Guide-nous vers le droit chemin, le chemin de ceux envers qui Tu as été gracieux, non de ceux contre qui Tu es en colère, ni de ceux qui se sont égarés. Amen. [1](arw05.htm#fn_3)
+Au nom de Dieu, qui est abondant en miséricorde et en compassion ! Louange à Dieu, le Seigneur de l'univers, le plus miséricordieux et le plus compatissant, le Souverain du jour du jugement. C'est Toi seul que nous adorons, et c'est de Toi seul que nous implorons secours. Guide-nous vers le droit chemin, le chemin de ceux envers qui Tu as été gracieux, non de ceux contre qui Tu es en colère, ni de ceux qui se sont égarés. Amen. [1](./arw05.htm#fn_3)
 
 ## Repentance et miséricorde de Dieu
 

@@ -31,7 +31,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p468">[<sup><small>p. 468</small></sup>]</span>
 
-\[En comparant la traduction suivante du célèbre poème d'Et-Tugrā'ī, que M. Redhouse a eu la gentillesse de faire pour ce volume, avec la traduction du Dr Carlyle (pp. [153](Shorter_Pieces#p153)\-[161](Shorter_Pieces#p161)), on remarquera que, dans quelques cas, le véritable sens de l'original est perdu dans la version métrique. Certains détails concernant l'auteur, etc., sont donnés aux pp. [433](Appendix_14#p433)\-[435](Appendix_14#p435).\]
+\[En comparant la traduction suivante du célèbre poème d'Et-Tugrā'ī, que M. Redhouse a eu la gentillesse de faire pour ce volume, avec la traduction du Dr Carlyle (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), on remarquera que, dans quelques cas, le véritable sens de l'original est perdu dans la version métrique. Certains détails concernant l'auteur, etc., sont donnés aux pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
 L'enracinement ferme de la vue m'a protégé de la précipitation, et l'ornement de l'excellence m'a embelli lorsque j'étais vide de bibelots.
 

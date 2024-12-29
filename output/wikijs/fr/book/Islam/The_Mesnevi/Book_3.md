@@ -1141,7 +1141,7 @@ Comme il était lui-même fidèle,[^119] même si ses ennemis pouvaient s'irrite
 
 [^107]: m41:2 Dans le Coran iv. 124, Abraham est appelé l'Ami choisi de Dieu, et dans le xxi. 69, il est fait mention de l'histoire de son salut du feu dans lequel il fut jeté par Nimrod.
 
-[^108]: m43:1 La _Fontaine de Vie_, ou _Eau de Vie_, est imaginée prendre sa source dans une [terre](errata.htm#2) d'obscurité au-delà des limites de la terre habitée.
+[^108]: m43:1 La _Fontaine de Vie_, ou _Eau de Vie_, est imaginée prendre sa source dans une [terre](./errata.htm#2) d'obscurité au-delà des limites de la terre habitée.
 
 [^109]: m46:1 Dans l'original, je n'ai pas trouvé possible de me rendre compte avec certitude où doit se situer la coupure entre la remontrance et les réflexions du poète. Une grande partie de ce qui précède semble s'adresser à Dieu, mais l'hyperbole orientale est trop large.
 

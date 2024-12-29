@@ -34,33 +34,33 @@ dateCreated: 2024-11-25T21:24:44Z
 
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-Page [13](Introducton_3#p13), note , _pour_ Lyden _lire_ Leyde.
+Page [13](./Introducton_3#p13), note , _pour_ Lyden _lire_ Leyde.
 
-” [14](Introducton_3#p14), ligne 15 ” … ” ….
+” [14](./Introducton_3#p14), ligne 15 ” … ” ….
 
-» [26](1#p26), notez « ḥamúthá. » Hanuthá.
+» [26](./1#p26), notez « ḥamúthá. » Hanuthá.
 
-” [30](1#p30) ” 5 ” illusion ” allusion.
+” [30](./1#p30) ” 5 ” illusion ” allusion.
 
-” [33](3#p33) ” 4 ” … ” ….
+” [33](./3#p33) ” 4 ” … ” ….
 
-” [47](7#p47) ” 2 ” a rapporté ” a rétorqué.
+” [47](./7#p47) ” 2 ” a rapporté ” a rétorqué.
 
 ” ” ” 3 ” satire ” satiriser.
 
-” [48](7#p48), ligne 9 ” de ” désactivé.
+” [48](./7#p48), ligne 9 ” de ” désactivé.
 
-” [51](8#p51) ” 19 ” … ” ….
+” [51](./8#p51) ” 19 ” … ” ….
 
-” [52](8#p52), notez l'allusion à ” illusion ”.
+” [52](./8#p52), notez l'allusion à ” illusion ”.
 
-” [82](19#p82), ligne 7 ” cours ” grossier.
+” [82](./19#p82), ligne 7 ” cours ” grossier.
 
-” [90](22#p90), notez ” … ” ….
+” [90](./22#p90), notez ” … ” ….
 
-” [131](32#p131), ligne 14 ” choisi ” choisis.
+” [131](./32#p131), ligne 14 ” choisi ” choisis.
 
-” [137](34#p137), notez ” dates ” fig.
+” [137](./34#p137), notez ” dates ” fig.
 
 <figure class="table chapter-navigator">
   <table>

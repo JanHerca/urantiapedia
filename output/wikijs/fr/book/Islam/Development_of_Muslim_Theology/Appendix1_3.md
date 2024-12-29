@@ -71,7 +71,7 @@ Nous croyons à l’apparition de l’Antéchrist (_ad-Dajjal_) selon la traditi
 
 [^0]: 296:1 Pour l'eschatologie musulmane, on peut encore se référer à l'introduction de Sale au Coran, § 4. La punition de la tombe est ce qui, dans le cas des incroyants, suit l'inquisition des deux anges _Munkar_ et _Nakir_ ; voir sur eux _Modern Egyptians_ de Lane, chap. xxviii ; sur l'ensemble du sujet, voir les traductions de Gautier et Wolff et le traité de Rüling (Bibliographie, p. 367)
 
-[^1]: 298:1 Cette question, l’une des plus controversées entre sunnites et chiites, relève de la théologie aussi bien que du droit. Voir [p. 314](Appendix1_5#p314) et Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
+[^1]: 298:1 Cette question, l’une des plus controversées entre sunnites et chiites, relève de la théologie aussi bien que du droit. Voir [p. 314](./Appendix1_5#p314) et Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
 
 [^2]: 298:2 Les Mu'tazilites soutenaient que les aliments de nature interdite, tels que le porc ou le vin, ne pouvaient pas être appelés _rizq_ dans ce sens technique ; que Dieu ne pouvait pas les utiliser ainsi. Les orthodoxes rétorquèrent p. 299 qu'un homme pouvait vivre sa vie de choses interdites ; avait-il alors été indépendant de Dieu quant à sa nourriture ? Les Mu'tazilites définissaient _rizq_ comme « une possession que son possesseur mange » et comme « ce dont on n'est pas empêché de profiter » ; les orthodoxes, comme un nom pour ce que Dieu envoie à l'homme et aux autres animaux et ils le mangent et en profitent.
 

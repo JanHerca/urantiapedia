@@ -77,12 +77,11 @@ Il est désormais prouvé de la manière la plus claire que les vestiges de la p
 ## Notes de bas de page
 
 [^17]: lxiv :\* Au verset 57 de son Mu'allaqa, Imra'u-'l-Qays, selon la traduction de Sir W. Jones, fait allusion aux rites idolâtres : « des vierges, en robes noires traînantes, qui danser autour de \[l'idole\] Dewaar » ; mais ce rendu semble erroné. L'original
-
-_fa 'anna la nà sirbun, ka-anna ni'āja hu_
-_'adhārà dawārin fi melā'in mudhayyali_
-
-est ainsi traduit par MJ W. Redhouse :
-
-« Alors nous apparut un troupeau de bœufs sauvages dont les génisses, d'après leurs queues, étaient comme des jeunes filles de Dawār portant de longs manteaux. »
+  _fa 'anna la nà sirbun, ka-anna ni'āja hu_
+  _'adhārà dawārin fi melā'in mudhayyali_
+  
+  est ainsi traduit par MJ W. Redhouse :
+  
+  « Alors nous apparut un troupeau de bœufs sauvages dont les génisses, d'après leurs queues, étaient comme des jeunes filles de Dawār portant de longs manteaux. »
 
 [^18]: lxv :\* Dans les notes intéressantes et précieuses de sa traduction du Mu'allaqa de Zuhayr : _Journal_ de la Bengal Asiatic Society, 1877.

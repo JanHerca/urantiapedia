@@ -59,7 +59,7 @@ v. 29. Guerre, _el-Harb_, est féminin en arabe.
 
 v. 31. La comparaison de la guerre avec un moulin et des morts avec du grain moulu est courante dans la poésie ancienne. \[Voir vv. 31, 32, Poème d'Amru, et _Note_.\]
 
-v. 32. \[« Déformé comme le chameau brun d'Aad : » voir les notes sur les vv. 11 et 22 du « Lai des Himyarites », pp. [351](Appendix_2#p351)\-[354](Appendix_2#p354) du présent volume. Certains généalogistes disent que la Thaïlande était une cousine d'Ad, et après la destruction de l'ancienne race d'Ad, le peuple de Thamûd hérita de ses possessions et fut appelé « ce dernier ‘Ad », ce qui expliquerait pourquoi Zuhayr disait « chameau d'Ad » au lieu de « chameau de Thamûd ».\]
+v. 32. \[« Déformé comme le chameau brun d'Aad : » voir les notes sur les vv. 11 et 22 du « Lai des Himyarites », pp. [351](./Appendix_2#p351)\-[354](./Appendix_2#p354) du présent volume. Certains généalogistes disent que la Thaïlande était une cousine d'Ad, et après la destruction de l'ancienne race d'Ad, le peuple de Thamûd hérita de ses possessions et fut appelé « ce dernier ‘Ad », ce qui expliquerait pourquoi Zuhayr disait « chameau d'Ad » au lieu de « chameau de Thamûd ».\]
 
 v. 36. Ce verset semble se référer à la reprise des conflits qui suivit l'acte de Hoseyn. Les chameaux sont les guerriers et les étangs les étangs de la mort. L'image semble destinée à représenter l'absurdité du conflit et son manque d'objet et de but.
 

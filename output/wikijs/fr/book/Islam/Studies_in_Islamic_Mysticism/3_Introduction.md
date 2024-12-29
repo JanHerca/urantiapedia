@@ -666,18 +666,12 @@ Ma traduction couvre les trois quarts du poème [3](./3_Argument#fn616). Les pas
 ## Notes de bas de page
 
 [^521]: 162:1 J'ai utilisé les éditions et commentaires suivants :
-
-(_a_) _Díwán_ d'Ibnu 'l-Fáriḍ, éd. par Rushayyid b. Ghálib al-Daḥdáḥ (Marseille, 1853). Celui-ci contient les poèmes mineurs, avec un commentaire grammatical de Ḥasan al-Búríní ainsi que des extraits du commentaire mystique de 'Abdu 'l-Ghaní al-Nábulusí.
-
-(_b_) Le _Tá'iyyatu 'l-kubrá_, avec le commentaire de 'Abdu 'l-Razzáq al-Káshání portant le titre _Kashfu 'l-wujúhi 'l-ghurr li-ma'ání naẓmi 'l-durr_ (Le Caire, a.h. 1319).
-
-(_c_) Le _Tá'iyyatu 'l-kubrá_, avec le commentaire d'al-Nábulusi intitulé _Kashfu 'l-sirri 'l-ghámiḍ fi sharḥi Díwán Ibni 'l-Fáriḍ_ (Ms. au British Museum, Add. 7564-5 Riche.). Le commentaire du _Tá’iyya_ commence à f. 176 du premier tome.
-
-(_d_) Le _Tá'iyyatu 'l-kubrá_, éd. avec une traduction en vers allemand de Hammer-Purgstall (Vienne, 1854).
-
-Concernant la traduction italienne du _Tá'iyyatu 'l-kubrá_ par Sac. Ignazio Di Matteo (Rome, 1917) et la précieuse notice du professeur Nallino parue dans Rivista degli studi orientali, vol. VIII (Rome, 1919), quelques remarques seront trouvées dans la préface de ce volume.
-
-Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_) et (_c_).
+  (_a_) _Díwán_ d'Ibnu 'l-Fáriḍ, éd. par Rushayyid b. Ghálib al-Daḥdáḥ (Marseille, 1853). Celui-ci contient les poèmes mineurs, avec un commentaire grammatical de Ḥasan al-Búríní ainsi que des extraits du commentaire mystique de 'Abdu 'l-Ghaní al-Nábulusí.
+  (_b_) Le _Tá'iyyatu 'l-kubrá_, avec le commentaire de 'Abdu 'l-Razzáq al-Káshání portant le titre _Kashfu 'l-wujúhi 'l-ghurr li-ma'ání naẓmi 'l-durr_ (Le Caire, a.h. 1319).
+  (_c_) Le _Tá'iyyatu 'l-kubrá_, avec le commentaire d'al-Nábulusi intitulé _Kashfu 'l-sirri 'l-ghámiḍ fi sharḥi Díwán Ibni 'l-Fáriḍ_ (Ms. au British Museum, Add. 7564-5 Riche.). Le commentaire du _Tá’iyya_ commence à f. 176 du premier tome.
+  (_d_) Le _Tá'iyyatu 'l-kubrá_, éd. avec une traduction en vers allemand de Hammer-Purgstall (Vienne, 1854).
+  Concernant la traduction italienne du _Tá'iyyatu 'l-kubrá_ par Sac. Ignazio Di Matteo (Rome, 1917) et la précieuse notice du professeur Nallino parue dans Rivista degli studi orientali, vol. VIII (Rome, 1919), quelques remarques seront trouvées dans la préface de ce volume.
+  Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_) et (_c_).
 
 [^522]: 163:1 Le zoroastrisme lui-même n'exclut pas le principe moniste. Il semble incertain si Ormuzd et Ahriman étaient en antagonisme direct et égal l'un envers l'autre, ou si Anra Mainyu (Ahriman), l'esprit mauvais, et Spenta Mainyu, le bon esprit, étaient conçus comme des émanations opposées d'Un (Ormuzd) qui est au-dessus d'eux deux. En tout cas, la lutte entre Ormuzd et Ahriman se termine par la destruction complète de ce dernier.
 

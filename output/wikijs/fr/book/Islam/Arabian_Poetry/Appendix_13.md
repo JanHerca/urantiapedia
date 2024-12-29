@@ -108,9 +108,9 @@ v. 64. « La vapeur étouffante de midi augmentait leur magnitude » : c'est-à-
 
 v. 77. « Une saison printanière de bienfaisance dans chaque année stérile » : voir v. 88, Lebīd's Mo'all. et _Note_.
 
-V. 79. Amrio’l Kais était le nom de plusieurs des princes de Hira, qui étaient sous la protection des rois de Perse, dont ils étaient les lieutenants auprès des Arabes d’Irâk. Il ne ressort pas de la liste du Dr Pocock de laquelle il s’agit ici. Le royaume de Hira fut fondé par Malek, descendant de Cahlan, fils du célèbre Abd-Shems, surnommé Saba, prince d’El-Yémen : voir note sur le v. 14 du « Lai des Himyarites », [p. 352](Appendix_3#p352).
+V. 79. Amrio’l Kais était le nom de plusieurs des princes de Hira, qui étaient sous la protection des rois de Perse, dont ils étaient les lieutenants auprès des Arabes d’Irâk. Il ne ressort pas de la liste du Dr Pocock de laquelle il s’agit ici. Le royaume de Hira fut fondé par Malek, descendant de Cahlan, fils du célèbre Abd-Shems, surnommé Saba, prince d’El-Yémen : voir note sur le v. 14 du « Lai des Himyarites », [p. 352](./Appendix_3#p352).
 
-v. 80. Mondir, roi de Ghassan. Le royaume de Ghassan, comme celui de Hîra, doit son origine à l'inondation d'El-Arem, voir note, v. 14, [p. 352](Appendix_3#p352). El-Mondar, ou Mundhir, était le nom général des princes de ce royaume, ainsi que de ceux de Hira. Les rois de Ghassan étaient les lieutenants des empereurs romains sur les Arabes de Syrie. Peut-être le 27e du catalogue du Dr Pocock est-il le prince mentionné ici.
+v. 80. Mondir, roi de Ghassan. Le royaume de Ghassan, comme celui de Hîra, doit son origine à l'inondation d'El-Arem, voir note, v. 14, [p. 352](./Appendix_3#p352). El-Mondar, ou Mundhir, était le nom général des princes de ce royaume, ainsi que de ceux de Hira. Les rois de Ghassan étaient les lieutenants des empereurs romains sur les Arabes de Syrie. Peut-être le 27e du catalogue du Dr Pocock est-il le prince mentionné ici.
 
 v. 82. Les fils d’Aus : une tribu descendant de Cahlan, fils d’Abd-Shems du Yémen.
 

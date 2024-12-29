@@ -66,7 +66,7 @@ Il leur dit alors que, tandis qu'il leur parlait encore, une troupe de formes vi
 
 Un autre témoin, un disciple du père de Jelāl, a raconté que Bahā Veled affirmait souvent publiquement que son Seigneur, Jelāl, était de descendance exaltée, étant de la lignée d'un roi, et aussi d'un saint héréditaire.
 
-Sa grand-mère maternelle était une fille du grand imam Es-Sarakhsī[^10](mort à Damas en 571 a.H., 1175 ap.J.-C.), qui était de la lignée du Prophète. La mère d'Es-Sarakhsī était une descendante du calife 'Alī, et la grand-mère paternelle de Jelāl était une fille du roi de Kh'ārezm, qui résidait à Balkh.
+Sa grand-mère maternelle était une fille du grand imam Es-Sarakhsī[^10](./mort à Damas en 571 a.H., 1175 ap.J.-C.), qui était de la lignée du Prophète. La mère d'Es-Sarakhsī était une descendante du calife 'Alī, et la grand-mère paternelle de Jelāl était une fille du roi de Kh'ārezm, qui résidait à Balkh.
 
 L'arrière-arrière-grand-mère paternelle de Jelāl, également mère d'Ahmed El-Khatībī, grand-père du père de Jelāl, était la fille d'un roi de Balkh. Ces détails établissent que Jelāl était bien né des deux côtés, au sens profane et au sens spirituel. Le proverbe bien connu :
 
@@ -1296,7 +1296,7 @@ Le prince lui parla de Baha Veled, désormais cheikh de la ville et saint incomp
 
 [^15]: 60:1 Le mont où les victimes sont massacrées par les pèlerins.
 
-[^16]: 64:1 Le grand poète persan Khāqānī, [né](errata.htm#1) à Shirwān, est mort et a été enterré à Tebrīz a.h. 582 (ad.d. 1186).
+[^16]: 64:1 Le grand poète persan Khāqānī, [né](./errata.htm#1) à Shirwān, est mort et a été enterré à Tebrīz a.h. 582 (ad.d. 1186).
 
 [^17]: 64:2 Sanā’ī, de Gazna en Afghanistan, surnommé « le Sage » ou « le Philosophe », mourut et fut enterré à l’endroit de sa naissance, en 576 ah. (1180 ap. J.-C.).
 

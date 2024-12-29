@@ -86,7 +86,7 @@ Comme des dattes en grappes à l’ombre des palmiers.—R. R.
 
 <span id="p375">[<sup><small>p. 375</small></sup>]</span>
 
-v. 33. « Ses cheveux, comme des grappes de dattes groupées sur le palmier » — une comparaison favorite des anciens poètes d'Arabie ; également celle des tresses d'une jolie fille avec les branches de la vigne : voir les vers du Roman d'Antar, [p. 191](Antar_3#p191) du présent volume.
+v. 33. « Ses cheveux, comme des grappes de dattes groupées sur le palmier » — une comparaison favorite des anciens poètes d'Arabie ; également celle des tresses d'une jolie fille avec les branches de la vigne : voir les vers du Roman d'Antar, [p. 191](./Antar_3#p191) du présent volume.
 
 v. 56. « Comme du henné sur des boucles grises flottantes » — voir v. 15 du Poème du Manteau d'El-Būsīrī, où le poète dit que s'il avait su que ses cheveux gris lui feraient des reproches, il les aurait teints avec du pastel. — Les feuilles de l'arbre à henné (_Lawsonia inermis_, aussi appelé troène égyptien) sont utilisées par les femmes du Caire pour teindre certaines parties des mains et des pieds. — _Lane_.
 

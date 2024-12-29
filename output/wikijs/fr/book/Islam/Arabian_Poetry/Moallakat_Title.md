@@ -47,9 +47,9 @@ QUI ONT ÉTÉ SUSPENDUS LE<br>
 <br>
 LE TEMPLE DE LA MECQUE.<br>
 <br>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+<hr><br>
 <br>
-_TRADUIT, AVEC ARGUMENTS_,<br>
+<em>TRADUIT, AVEC ARGUMENTS</em>,<br>
 <br>
 PAR<br>
 <br>

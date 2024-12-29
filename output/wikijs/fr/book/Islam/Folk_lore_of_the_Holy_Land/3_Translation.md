@@ -144,7 +144,7 @@ Dans un bon signe.
 
 Shaddaï.
 
-Adjuration solennelle du mauvais œil. (Comme celle-ci, bien qu'abrégée, est presque identique à l'Amulette traduite à [p. 318](3_Notes#p318) et suivantes, il n'est pas nécessaire de la reproduire ici.)
+Adjuration solennelle du mauvais œil. (Comme celle-ci, bien qu'abrégée, est presque identique à l'Amulette traduite à [p. 318](./3_Notes#p318) et suivantes, il n'est pas nécessaire de la reproduire ici.)
 
 Image d'une main, au dos de laquelle est écrit « Shaddai » (Tout-Puissant) et « Adonai » (Seigneur) avec des permutations de lettres formant des noms d'anges, etc.
 

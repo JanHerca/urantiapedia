@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 \*\*\* Le savant Von Hammer-Purgstall dit que le Mo'allaqah d'Antara est contenu deux fois dans les copies complètes du Roman d'Antar : une fois en fragments, comme le héros les livre impromptu à diverses occasions dans l'ardeur du moment, à la louange de sa chérie Abla, de son cheval incomparable, de son épée et de sa lance irrésistibles, etc. ; et une autre fois à l'occasion du concours poétique devant l'assemblée des tribus à Okātz, lorsque le poète réunit les perles jusqu'alors dispersées de son génie par un fil d'or et les suspendit au Ka'beh.
 
-vv. 1, 2. La traduction par Hamilton des premiers vers du Mo'allaqah d'Antara est donnée à la page [264](Antar_32#p264) du présent volume. Voici comment le professeur E. H. Palmer a transformé ces vers en vers anglais, dans sa traduction intitulée, « An Ancient Arabic Prize Poem » :
+vv. 1, 2. La traduction par Hamilton des premiers vers du Mo'allaqah d'Antara est donnée à la page [264](./Antar_32#p264) du présent volume. Voici comment le professeur E. H. Palmer a transformé ces vers en vers anglais, dans sa traduction intitulée, « An Ancient Arabic Prize Poem » :
 
 Les poètes auraient-ils alors laissé un thème non chanté ?
 Reconnais-tu donc la demeure de ton amour ?
@@ -100,7 +100,7 @@ Et celui qui le veut, cet agneau sera à lui.
 Son cou est plus joli que celui du faon gracieux,
 Sa forme est plus belle que celle de la jeune gazelle !
 
-Selon la traduction de Sir William Jones, la jeune fille informe simplement Antara qu’elle a trouvé « les gardes hostiles négligents de leur surveillance » et que la dame pourrait donc être facilement visitée ; et nous devons supposer qu’Antara, apprenant ainsi que « la voie était libre », pour ainsi dire, se rendit immédiatement chez la dame, qui, en le voyant, « se tourna vers lui avec le cou d’un jeune chevreuil ». — M. Redhouse pense que « les positions variables qu’occupent ces vers dans différentes éditions rendent presque impossible de juger si sa bien-aimée se tourna vers Antara ou vers la jeune fille envoyée. Les mots se lisent comme si la jeune fille se tournait vers Antara ; mais ce n’est pas le sens probable ». — Le fat bédouin Amarah, dans le roman d’Antar, envoie une esclave dans une mission similaire – pour lui rendre compte des charmes personnels d’Abla : voir page [209](Antar_13#p209) du présent volume.
+Selon la traduction de Sir William Jones, la jeune fille informe simplement Antara qu’elle a trouvé « les gardes hostiles négligents de leur surveillance » et que la dame pourrait donc être facilement visitée ; et nous devons supposer qu’Antara, apprenant ainsi que « la voie était libre », pour ainsi dire, se rendit immédiatement chez la dame, qui, en le voyant, « se tourna vers lui avec le cou d’un jeune chevreuil ». — M. Redhouse pense que « les positions variables qu’occupent ces vers dans différentes éditions rendent presque impossible de juger si sa bien-aimée se tourna vers Antara ou vers la jeune fille envoyée. Les mots se lisent comme si la jeune fille se tournait vers Antara ; mais ce n’est pas le sens probable ». — Le fat bédouin Amarah, dans le roman d’Antar, envoie une esclave dans une mission similaire – pour lui rendre compte des charmes personnels d’Abla : voir page [209](./Antar_13#p209) du présent volume.
 
 <span id="p395">[<sup><small>p. 395</small></sup>]</span>
 

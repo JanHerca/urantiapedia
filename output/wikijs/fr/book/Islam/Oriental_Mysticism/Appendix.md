@@ -367,7 +367,7 @@ A. _hawá_. Désir. Un désir ardent de la vie future allumé par Dieu dans le c
 
 ## Notes de bas de page
 
-[^1]: 74 : 1 Tholuck dans son SUFISMUS (Berolini, MDCCCXXI), p. 105, explique cela comme suit : « _Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota. » Ceci, cependant, est l'interprétation de _zulf_ (tresses), et non de _khan i zulf_. Le verset cité ci-dessus, à la page [41](omy15.htm#p41),
+[^1]: 74 : 1 Tholuck dans son SUFISMUS (Berolini, MDCCCXXI), p. 105, explique cela comme suit : « _Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota. » Ceci, cependant, est l'interprétation de _zulf_ (tresses), et non de _khan i zulf_. Le verset cité ci-dessus, à la page [41](./omy15.htm#p41),
 
 « Je leur ai donné un aperçu de mon visage glorieux, »
 

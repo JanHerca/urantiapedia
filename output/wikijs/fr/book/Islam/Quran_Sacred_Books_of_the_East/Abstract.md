@@ -559,18 +559,18 @@ Le prophète cherche refuge auprès de Dieu contre le diable et ses suggestions 
 
 [^30]: lxxxvii:2 Comme Allâh, et non Allât, le nom d&#39;une déesse. Voir p. 160, note 1.
 
-[^31]: lxxxviii:1 Voir Introduction, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^31]: lxxxviii:1 Voir Introduction, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^32]: xciii:1 Utilisé ici pour les Écritures en général.
 
-[^33]: xcix:1 Une allusion à la tradition de la reconnaissance par Mahomet des déesses Allât, Al &#39;Huzzâ et Manât. Voir Introduction, pp. [xxvi](sbe0602.htm#pxxvi) et [xxvii](sbe0602.htm#pxxvii).
+[^33]: xcix:1 Une allusion à la tradition de la reconnaissance par Mahomet des déesses Allât, Al &#39;Huzzâ et Manât. Voir Introduction, pp. [xxvi](./sbe0602.htm#pxxvi) et [xxvii](./sbe0602.htm#pxxvii).
 
-[^34]: civ:1 Voir Introduction, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^34]: civ:1 Voir Introduction, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^35]: cxi:1 Voir la note sur le passage dans la traduction.
 
-[^36]: cxi:2 Voir Introduction, [p. xl](sbe0602.htm#pxl).
+[^36]: cxi:2 Voir Introduction, [p. xl](./sbe0602.htm#pxl).
 
 [^37]: cxii:1 Voir Introduction, pp. xxvi, xxvii.
 
-[^38]: cxiv:1 Cette partie de la sourate est la deuxième révélation après l&#39;apparition de l&#39;archange Gabriel sur le mont Hirâ ; voir Introduction, [p. xx](sbe0602.htm#pxx).
+[^38]: cxiv:1 Cette partie de la sourate est la deuxième révélation après l&#39;apparition de l&#39;archange Gabriel sur le mont Hirâ ; voir Introduction, [p. xx](./sbe0602.htm#pxx).

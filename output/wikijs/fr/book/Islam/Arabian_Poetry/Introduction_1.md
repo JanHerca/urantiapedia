@@ -128,4 +128,4 @@ Telles furent, en bref, quelques-unes des caractéristiques de ces peuples ancie
 
 [^3]: xxviii:\* La _Treuga Dei_, ou Trêve de Dieu, fut adoptée vers l'an 1032, à la suite d'une prétendue révélation d'un évêque d'Aquitaine. Elle fut publiée au temps d'une calamité générale, et elle fit une si profonde impression sur les esprits, qu'une cessation générale des hostilités privées fut observée, nous dit-on, pendant sept ans, et qu'une résolution fut prise, que personne ne devrait à l'avenir molester son adversaire du jeudi soir au lundi matin. La _Pax Regis_, ou Trêve royale, était une ordonnance de Louis VIII, roi de France, après J.-C. 1245, par laquelle les amis ou les vassaux d'une personne assassinée ou blessée étaient interdits de commencer les hostilités jusqu'à quarante jours après la commission du délit.—_Richardson_.
 
-[^4]: xxviii:† Voir Epitome of the Romance of Antar, dans le présent volume—pp. [244](Antar_24#p244) et [249](Antar_24#p249).
+[^4]: xxviii:† Voir Epitome of the Romance of Antar, dans le présent volume—pp. [244](./Antar_24#p244) et [249](./Antar_24#p249).
