@@ -42,7 +42,7 @@ Vente = Traduction du Coran par Sale, avec notes (plusieurs éditions ; une édi
 
 Stein. = Dictionnaire persan-anglais de Steingass.
 
-B.Q. =_Le Burhân-i Qâti\`_ (un dictionnaire persan, en persan).
+B.Q. =_Le Burhân-i Qâti'_ (un dictionnaire persan, en persan).
 
 Le système de translittération adopté est celui actuellement approuvé par la Société asiatique du Bengale.
 

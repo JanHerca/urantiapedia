@@ -40,7 +40,7 @@ Les deux hémistiches de chaque vers riment, et l'effet peut donc être comparé
 
 Le chapitre qui compose la _Hadîqa_ traite, selon quelques lignes de vers à la fin de la table des matières de l'édition de Lucknow, des sujets suivants : le premier, de la louange de Dieu, et spécialement de son unité ; le deuxième, à la louange de Mahomet ; le troisième, de l'entendement ; le quatrième, de la connaissance ; le cinquième, de l'amour, de l'amant et du bien-aimé <span id="pxxvi">[<sup><small>p. xxvi</small></sup>]</span> ; le sixième, de l'insouciance ; le septième, des amis et des ennemis, le huitième, de la révolution des cieux ; le neuvième, à la louange de l'empereur Shâhjahân ; le dixième, des caractères ou des qualités de l'ouvrage tout entier. Ce n'est cependant pas la disposition réelle de l'ouvrage telle qu'elle est présentée dans le volume lui-même ; les cinq premiers chapitres sont tels que déjà donnés, mais le sixième concerne l'âme universelle ; le septième est sur l'insouciance ; le huitième sur les étoiles ; le neuvième sur les amis et les ennemis ; le dixième sur plusieurs sujets, y compris l'éloge de l'empereur. Le professeur Browne (Lit. Hist. Persia, vol. ii., p. 318) donne encore une autre commande, apparemment celle d'une édition lithographiée à Bombay en 1275 A.H. (1859 A.D.).
 
-La renommée de Sanâ'î a toujours reposé sur sa _Hadîqa_, c'est la plus connue et de loin la plus estimée de ses œuvres en Orient, c'est en vertu de cette œuvre qu'il fait partie du grand trio des maîtres de la Sûfî, Sanâ'î, \`A_tt_âr, Jalâlu'd-Dîn Rûmî. Il sera intéressant de comparer quelques-unes des appréciations qui ont été faites de lui et de l'ouvrage présent en particulier.
+La renommée de Sanâ'î a toujours reposé sur sa _Hadîqa_, c'est la plus connue et de loin la plus estimée de ses œuvres en Orient, c'est en vertu de cette œuvre qu'il fait partie du grand trio des maîtres de la Sûfî, Sanâ'î, 'A_tt_âr, Jalâlu'd-Dîn Rûmî. Il sera intéressant de comparer quelques-unes des appréciations qui ont été faites de lui et de l'ouvrage présent en particulier.
 
 Avec le temps, il fut le premier des trois, et c'est peut-être de son successeur Jalâlu'd-Dîn Rûmî que lui fut adressée la reconnaissance la plus cordiale de ses mérites. Il dit :
 
@@ -50,7 +50,7 @@ J'ai arrêté de faire bouillir alors qu'il était encore à moitié cuit ;
 Et encore une fois—
 
 « A_tt_âr était l'Esprit, Sanâ'î les deux yeux :
-Nous marchons dans le sillage de Sanâ'î et de \`A_tt_âr.”
+Nous marchons dans le sillage de Sanâ'î et de 'A_tt_âr.”
 
 Abdu'l-Latîf, dans sa préface intitulée le _Mirâtu'l-Hadâ'iq_, se livre à une comparaison assez longue entre Sanâ'î et Rûmî, dans laquelle il a du mal à ne pas donner la préférence à l'un ou à l'autre. Il est intéressant d'observer comment il s'efforce de maintenir la balance égale. Il commence par signaler la plus grande longueur du _Mathnawî_ par rapport au _Hadîqa_, et compare le _Hadîqa_ à un abrégé, le _Mathnawî_ à un récit pleinement détaillé. L'ouvrage de Sanâ'î est le plus condensé ; il exprime en deux ou trois vers ce que le Mathnawî exprime en vingt ou trente. Abdu'l-Latîf, donc, semble-t-il à contrecœur, et simplement en raison de sa plus grande prolixité, donne la palme de l'éloquence à Jalâlu'd-Dîn.
 

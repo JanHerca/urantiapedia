@@ -34,7 +34,7 @@ dateCreated: 2024-11-23T12:49:50Z
 
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-\[Les sections et les titres de Ghazzâlî ont été complétés. Les références de pages entre crochets dans l'introduction, la traduction et les notes de bas de page sont des références aux pages du texte arabe (Le Caire AH 1922, Matba\`at as Sidq), dont les numéros se trouvent dans le texte de la traduction, entre crochets.\]
+\[Les sections et les titres de Ghazzâlî ont été complétés. Les références de pages entre crochets dans l'introduction, la traduction et les notes de bas de page sont des références aux pages du texte arabe (Le Caire AH 1922, Matba'at as Sidq), dont les numéros se trouvent dans le texte de la traduction, entre crochets.\]
 
 ## INTRODUCTION DU TRADUCTEUR
 

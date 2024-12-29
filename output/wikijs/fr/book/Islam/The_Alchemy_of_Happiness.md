@@ -26,7 +26,7 @@ dateCreated: 2024-11-19T21:9:57Z
 <span class="text-h5">PAR AL GHAZZALI</span><br>
 <br>
 TRADUIT DE L'HINDUSTANI PAR CLAUD FIELD<br>
-« La connaissance d'une partie est meilleure que l'ignorance de l'ensemble » (Abu`l Feda)<br>
+« La connaissance d'une partie est meilleure que l'ignorance de l'ensemble » (Abu'l Feda)<br>
 Londres, J. Murray<br>
 [1909]<br>
 {Scanné sur sacred-texts.com, novembre 2001}<br><br>

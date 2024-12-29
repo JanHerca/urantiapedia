@@ -1085,12 +1085,11 @@ Mars 1880.
 [^10]: lvi:1 Geschichte des Qorâns, p. 43.
 
 [^11]: lvi:2 Mahomet a peut-être bien répudié l'accusation d'être un poète, car on ne lui attribue qu'un seul vers, et celui-ci est involontaire :
-
-Ana ’nnabîyu lâ KaDHib ;  
-Ana 'bnu 'Abd el Mu_t__t_alib.
-
-Je suis le prophète qui ne ment pas;
-Je suis le fils d’Abd el Mu_t__t_alib.’
+  Ana ’nnabîyu lâ KaDHib ;  
+  Ana 'bnu 'Abd el Mu_t__t_alib.
+  
+  Je suis le prophète qui ne ment pas;
+  Je suis le fils d’Abd el Mu_t__t_alib.’
 
 [^12]: lxii:1 Voir Partie II, p. 13, note 1.
 

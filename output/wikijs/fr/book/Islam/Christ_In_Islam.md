@@ -34,7 +34,7 @@ Ce petit livre est un recueil de dictons et d'histoires traditionnelles attribu�
 
 Le livre est présenté ici sous la forme d'un seul gros fichier (196 Ko), bien qu'il soit doté d'ancres étendues pour le rendre navigable.
 
-Notes sur la transcription hypertexte : \` et ´ représentent les apostrophes gauche et droite (_\`ayn_ et _hamza_) dans les mots arabes, les circonflexes représentent les macrons et les soulignements représentent les points-dessous. J'ai remplacé le mot Pentateuque utilisé par Robson par Torah, qui est le mot utilisé dans les originaux arabes et qui est également d'usage courant en anglais. Comme les références à la Torah dans les ouvrages arabes sont presque toujours dirigées vers les Juifs, il est plus logique de s'y référer par son nom hébreu plutôt que par son nom grec. Il y avait une note de bas de page dans tout le livre, à la page 105. Je l'ai intégrée dans le texte entre crochets avec les initiales « JR ».
+Notes sur la transcription hypertexte : ' et ´ représentent les apostrophes gauche et droite (_'ayn_ et _hamza_) dans les mots arabes, les circonflexes représentent les macrons et les soulignements représentent les points-dessous. J'ai remplacé le mot Pentateuque utilisé par Robson par Torah, qui est le mot utilisé dans les originaux arabes et qui est également d'usage courant en anglais. Comme les références à la Torah dans les ouvrages arabes sont presque toujours dirigées vers les Juifs, il est plus logique de s'y référer par son nom hébreu plutôt que par son nom grec. Il y avait une note de bas de page dans tout le livre, à la page 105. Je l'ai intégrée dans le texte entre crochets avec les initiales « JR ».
 
 
 ## Table des Matières

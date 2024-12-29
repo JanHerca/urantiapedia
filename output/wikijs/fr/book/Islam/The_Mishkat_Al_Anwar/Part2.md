@@ -139,7 +139,7 @@ Vous connaissez maintenant les cinq esprits humains. Nous poursuivons donc : ils
 
 [^1]: Ou Idée = dans le sens pratiquement platonicien.
 
-[^2]: (Par Ghazzâlî.) Dans ce verset lumineux, dans la lecture d'Ibn Mas'ûd, les mots « dans le cœur du croyant » suivent les mots « de Sa lumière ». Et Ubayy b. Ka\`b au lieu de « la similitude de Sa lumière » a « la similitude de la lumière du cœur de celui qui croit est semblable ». etc.
+[^2]: (Par Ghazzâlî.) Dans ce verset lumineux, dans la lecture d'Ibn Mas'ûd, les mots « dans le cœur du croyant » suivent les mots « de Sa lumière ». Et Ubayy b. Ka'b au lieu de « la similitude de Sa lumière » a « la similitude de la lumière du cœur de celui qui croit est semblable ». etc.
 
 [^3]: article 67, 22.
 
