@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-THE beautiful elegiac verses with which this masterpiece of ancient Arabic poetry opens have been compared, by Dr. Carlyle, to Goldsmith's _Deserted Village_. “But the Arab,” <span id="p383">[<sup><small>p. 383</small></sup>]</span> remarks Burton, “with equal simplicity and pathos, has a fire, a force of language, and a depth of feeling, which the Irishman, admirable as his verse is, could never rival.” ([_Pilgrimage_](errata.htm#2), vol. iii., p. 54.) Carlyle's translation, as follows, of these verses, however inadequately it may represent the beauties of the original, can hardly fail of pleasing the English reader, from the grace and smoothness of the rhythm:
+THE beautiful elegiac verses with which this masterpiece of ancient Arabic poetry opens have been compared, by Dr. Carlyle, to Goldsmith's _Deserted Village_. “But the Arab,” <span id="p383">[<sup><small>p. 383</small></sup>]</span> remarks Burton, “with equal simplicity and pathos, has a fire, a force of language, and a depth of feeling, which the Irishman, admirable as his verse is, could never rival.” ([_Pilgrimage_](./errata.htm#2), vol. iii., p. 54.) Carlyle's translation, as follows, of these verses, however inadequately it may represent the beauties of the original, can hardly fail of pleasing the English reader, from the grace and smoothness of the rhythm:
 
 THOSE dear abodes which once contained the fair
 &nbsp;&nbsp;Amidst Mitata's wilds I seek in vain;

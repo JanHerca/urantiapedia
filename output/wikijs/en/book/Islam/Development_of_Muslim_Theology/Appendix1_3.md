@@ -71,7 +71,7 @@ We believe in the appearance of anti-Christ (_ad-Dajjal_) according to the tradi
 
 [^0]: 296:1 For Muslim eschatology reference may still he made to Sale's introduction to the Qur’an, § 4. The punishment of the grave is what, in the case of unbelievers, follows the inquisition by the two angels _Munkar_ and _Nakir_; see on them Lane's _Modern Egyptians_, chap. xxviii; on the whole subject, see translations by Gautier and Wolff and tractate by Rüling (Bibliography, p. 367)
 
-[^1]: 298:1 This, one of the dividing questions between Sunnites and Shi’ites, belongs to theology as well as law. See [p. 314](Appendix1_5#p314) and Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
+[^1]: 298:1 This, one of the dividing questions between Sunnites and Shi’ites, belongs to theology as well as law. See [p. 314](./Appendix1_5#p314) and Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
 
 [^2]: 298:2 The Mu‘tazilites held that articles of sustenance of a forbidden nature, such as pork or wine, could not be called _rizq_ in this technical sense; that God could not so use them. The orthodox retorted p. 299 that a man might live his life out on forbidden things; had he then been independent of God as to his sustenance? The Mu‘tazilites defined _rizq_ as “a possession which its possessor eats” and as “that from which one is not hindered from profiting”; the orthodox, as a name for that which God sends to man and the other animals and they eat it and profit by it.
 

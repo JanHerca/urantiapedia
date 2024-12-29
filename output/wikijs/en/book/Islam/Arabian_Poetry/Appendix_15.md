@@ -38,7 +38,7 @@ Von Hammer's statement that the recitation of the Romance of Antar fills the cof
 
 The hero himself—Antara the son of Sheddād—is always the central figure,: his blackness of complexion, his homeliness, even ugliness, of feature, are forgotten in admiration of his prodigious strength of arm and his invincible courage; his lofty and impassioned verses; his greatness of soul and his tenderness of heart. A true knight, _sans peur et sans reproche_, is Antara: bold as a lion when face to face with his foes; magnanimous towards an inferior antagonist; soft and gentle when he thinks of his fair cousin Abla, still more so when he is in her presence. Abla, the beauteous Abla, whose dark flowing tresses at first ensnared the heart of the hero, and whose bright eyes completed <span id="p438">[<sup><small>438</small></sup>]</span> the capture—a true Bedouin damsel: like Desdemona with the Moor, she saw Antara's beauty in his mind. And Antara—spite of his black complexion—spite of his base birth—“loved her with the love of a noble-born hero!” When the enemy approaches the tents of the tribe—when the time has come for sword-blows and spear-thrusts—his base origin is forgotten: his sword is then his father, and the spear in his right hand is his noble kinsman.
 
-The other characters are of course subordinated to the hero and his achievements; yet each has an individuality which is strongly marked. Zuhayr, king of the tribes of ‘Abs and ‘Adnan, Fazarah and Ghiftan, &c.—a prince possessing all the virtues, and not a few of the failings, of his age and race: chivalrous himself, he was not slow to recognise in the youthful slave-son of Sheddād the future hero. Prince Sha‘s, naturally ill-tempered, proud and tyrannical, yet not without his good points, after adversity had tamed his spirit. Prince Mālek, the brave but gentle son of Zuhayr, Antara's first friend and protector against the malice of his enemies: ever ready to plead eloquently in his favour, or to draw his sword when the hero was overwhelmed with numbers. Sheddād, the father of Antara: a bold fellow—“of a heavy-handed kin: a good smiter when help is needed”—proud of his pure blood as ever was hidalgo, yet yearning towards his brave son when his deeds were noised abroad, and bitterly lamenting his reported death. But his simple-minded slave-mother—like mothers of great men in general—does not appreciate her son's heroic achievements—thinks he had much better stay at home and help her to tend the flocks. Malek, the father of Abla—crafty, calculating, sordid, perfidious, malicious, time-serving; withal, a great stickler for the honour of his family. Amara, the Bedouin exquisite—proud, boastful, at heart a coward. Shibūb, the half-brother of Antara, and his trusty squire—fleet of foot, and hence surnamed Father of the Wind (not Son of the Wind, as stated in page [214](Antar_16#p214)); a dexterous archer; ready with admirable expedients for every emergency—never had brave knight a more useful auxiliary.
+The other characters are of course subordinated to the hero and his achievements; yet each has an individuality which is strongly marked. Zuhayr, king of the tribes of ‘Abs and ‘Adnan, Fazarah and Ghiftan, &c.—a prince possessing all the virtues, and not a few of the failings, of his age and race: chivalrous himself, he was not slow to recognise in the youthful slave-son of Sheddād the future hero. Prince Sha‘s, naturally ill-tempered, proud and tyrannical, yet not without his good points, after adversity had tamed his spirit. Prince Mālek, the brave but gentle son of Zuhayr, Antara's first friend and protector against the malice of his enemies: ever ready to plead eloquently in his favour, or to draw his sword when the hero was overwhelmed with numbers. Sheddād, the father of Antara: a bold fellow—“of a heavy-handed kin: a good smiter when help is needed”—proud of his pure blood as ever was hidalgo, yet yearning towards his brave son when his deeds were noised abroad, and bitterly lamenting his reported death. But his simple-minded slave-mother—like mothers of great men in general—does not appreciate her son's heroic achievements—thinks he had much better stay at home and help her to tend the flocks. Malek, the father of Abla—crafty, calculating, sordid, perfidious, malicious, time-serving; withal, a great stickler for the honour of his family. Amara, the Bedouin exquisite—proud, boastful, at heart a coward. Shibūb, the half-brother of Antara, and his trusty squire—fleet of foot, and hence surnamed Father of the Wind (not Son of the Wind, as stated in page [214](./Antar_16#p214)); a dexterous archer; ready with admirable expedients for every emergency—never had brave knight a more useful auxiliary.
 
 <span id="p439">[<sup><small>p. 439</small></sup>]</span>
 
@@ -46,15 +46,15 @@ With the noble lyric of the hero's death the curtain is appropriately dropped on
 
 ---
 
-## THE HERO'S BIRTH AND EARLY YEARS—[p. 183](Antar_1#p183).
+## THE HERO'S BIRTH AND EARLY YEARS—[p. 183](./Antar_1#p183).
 
 The circumstance of Antara's birth bears some resemblance to that of Ishmael the son of Abraham, by his bondwoman Hagar. Intercourse with a captured slave was allowed in the ages before el-Islām, as a third and lowest form of marriage, but it was strictly prohibited by the Prophet.—The incident of the insolent slave who abused the poor people at the well presents a striking parallel to the story of Moses driving away the shepherds who would not allow Jethro's daughters to water their flocks.
 
-## THE MAIDENS' FESTIVAL—[p. 189](Antar_2#p189).
+## THE MAIDENS' FESTIVAL—[p. 189](./Antar_2#p189).
 
 A curious illustration of the unchangeableness of Eastern manners is furnished in this description of a merrymaking among the women of ‘Abs, which, in its circumstance,—the damsels playing on cymbals and dancing,—though not in its object, finds an exact parallel in the festival of the daughters of Shiloh, as recorded in the last chapter of the book of Judges, at which the party were also surprised and carried away captive.
 
-The first of the songs at this festival ([p. 190](Antar_3#p190)), describing the charms of nature in the early springtide, and the sentiment contained in the three last verses—that the fleeting moments ought to be enjoyed—recall the beautiful ode on spring by the celebrated Turkish poet Mesīhī (who died in 1512), of which Sir W. Jones’ imitation in English verse has been much admired: it is, however, only an imitation, and therefore must fail of conveying to the general reader an adequate notion of the beauties of the original. Mr. E. J. W. Gibb, a young Turkish scholar (who is at present rendering into English the great work of Sa‘du-’d-Dīn, <span id="p440">[<sup><small>440</small></sup>]</span> the historian of the Ottoman Empire, _Tāju-’t-Tevārīkh_, or “The Diadem of Histories”), has made the following almost literal translation of Mesīhī's ode, reproducing, as closely as possible, the original metre and rhyme (Remel-ī Maqsūr):
+The first of the songs at this festival ([p. 190](./Antar_3#p190)), describing the charms of nature in the early springtide, and the sentiment contained in the three last verses—that the fleeting moments ought to be enjoyed—recall the beautiful ode on spring by the celebrated Turkish poet Mesīhī (who died in 1512), of which Sir W. Jones’ imitation in English verse has been much admired: it is, however, only an imitation, and therefore must fail of conveying to the general reader an adequate notion of the beauties of the original. Mr. E. J. W. Gibb, a young Turkish scholar (who is at present rendering into English the great work of Sa‘du-’d-Dīn, <span id="p440">[<sup><small>440</small></sup>]</span> the historian of the Ottoman Empire, _Tāju-’t-Tevārīkh_, or “The Diadem of Histories”), has made the following almost literal translation of Mesīhī's ode, reproducing, as closely as possible, the original metre and rhyme (Remel-ī Maqsūr):
 
 ## _MESIHI'S ODE ON SPRING._
 
@@ -157,7 +157,7 @@ _(f)_ “May the worthy ”, _i.e._, may those who appreciate these verses, &c.�
 
 Mr. J. W. Redhouse has already done somewhat to disabuse the popular mind of the utterly erroneous notion that the Ottomans have produced no men of undoubted genius—no poets worthy of the name—by his excellent little treatise on the “History, System, and Varieties of Turkish Poetry; with illustrations in the original and in English paraphrase,” published by Messrs. Trübner & Co., London. And it is to be hoped that the above pleasing translation may indicate that Mr. Gibb intends <span id="p443">[<sup><small>443</small></sup>]</span> following the example of that eminent Orientalist, by giving his unlearned countrymen further specimens of the Ottoman muse.
 
-A variant of the other song at the maidens’ festival (pp. [190](Antar_3#p190), [191](Antar_3#p191)) occurs in the “Thousand and One Nights,” and has been translated by Mr. Payne, who reproduces the original metre and rhyme, as follows:
+A variant of the other song at the maidens’ festival (pp. [190](./Antar_3#p190), [191](./Antar_3#p191)) occurs in the “Thousand and One Nights,” and has been translated by Mr. Payne, who reproduces the original metre and rhyme, as follows:
 
 The meadow glitters with the troops of lovely ones that wander there;
 Its grace and beauty doubled are by these that are so passing fair:
@@ -166,15 +166,15 @@ Upon whose necks, like trails of grapes, stream down the tresses of their hair;
 Proudly they walk, with eyes that dart the shafts and arrows of despair:
 And all the champions of the world are slain by their seductive snare.
 
-## ‘ADITE HELMETS—[p. 191](Antar_3#p191).
+## ‘ADITE HELMETS—[p. 191](./Antar_3#p191).
 
-Casques were perhaps so called to denote their antiquity and durability—“old as the time of ’Ad” being a proverb among the Arabs. (See notes on vv. 11 and 22 of the “Lay of the Himyarites,” pp. [351](Appendix_3#p351), [352](Appendix_3#p352).)
+Casques were perhaps so called to denote their antiquity and durability—“old as the time of ’Ad” being a proverb among the Arabs. (See notes on vv. 11 and 22 of the “Lay of the Himyarites,” pp. [351](./Appendix_3#p351), [352](./Appendix_3#p352).)
 
-## THE SWORD DHAMI—[p. 204](Antar_10#p204).
+## THE SWORD DHAMI—[p. 204](./Antar_10#p204).
 
 This marvellous weapon (the word _Dhamī_ signifies “subduing”) is worthy of a place beside the famous Excalibar of King Arthur, and the Durindana of Orlando. There is a grim humour in the account given of the old chief Teba's mode of proving himself qualified to wield the Dhamī, by striking off the head of the unfortunate smith who forged it. The incident calls to mind a story of Muley Ismael, emperor of Morocco, who died in the year 1714, after a long reign. An English shipmaster once presented this monarch with a curious hatchet, which he received <span id="p444">[<sup><small>444</small></sup>]</span> very graciously, and then, asking him whether it had a good edge, he tried it upon the donor, who, adroitly stepping aside, escaped with the loss only of his right ear.—It is possible, however, that the Arab chief was not actuated by mere wantonness in thus slaying the clever artizan: his object may have been to prevent the smith from ever making a still more formidable weapon for some hostile warrior. Instances are not wanting in European tradition of ingenious men being put to death from a similar motive, after having constructed some wonderful building or piece of complicated mechanism. At all events, the man who made the Dhami having been killed immediately after he had finished his task, the weapon was necessarily unique: there could not be another Dhami in the world.
 
-## COMBAT OF ANTARA AND THE SATRAP—[p. 220](Antar_17#p220).
+## COMBAT OF ANTARA AND THE SATRAP—[p. 220](./Antar_17#p220).
 
 It seems to have been a practice of remote antiquity for two contending armies to agree to abide by the result of a single combat between their chosen champions; though very often such a combat was followed by a general engagement. The historical books of the Bible furnish several instances of combats of this kind: that between David and Goliath (1 Sam. xvii. 38-51) is a remarkable example; and another is the battle between the men of Abner and the men of Joab (2 Sam. ii. 15, 16). In the Romance of Antar single combats are of frequent occurrence. The haughty manner in which the warriors address each other before engaging in deadly conflict was common to the heroes of antiquity. “Come to me,” said Goliath to David, “and I will give thy flesh to the fowls of the air, and to the beasts of the field.” In like manner exclaims a hero of the _Sháhnáma_ (Book of Kings, or Heroes) of Firdausī, the Homer of Persia:
 
@@ -182,11 +182,11 @@ It seems to have been a practice of remote antiquity for two contending armies t
 The valiant champion, come to conquer thee,
 And to lop off that towering head of thine.
 
-From the minute descriptions of the arms and armour of the combatants, as well of their mode of attack, it would appear <span id="p445">[<sup><small>445</small></sup>]</span> that chivalry, in all its essential particulars, was an institution in the East long before it was regularly established in Europe. The satrap whom Antara encounters and kills ([p. 221](Antar_18#p221)) is encased in a complete suit of mail “of Davidean workmanship” (see Mr. Redhouse's note on v. 51 of Ka‘b's Mantle Poem) and plumed helmet, and armed with sword, mace, shield, &c.—precisely like the European knights.
+From the minute descriptions of the arms and armour of the combatants, as well of their mode of attack, it would appear <span id="p445">[<sup><small>445</small></sup>]</span> that chivalry, in all its essential particulars, was an institution in the East long before it was regularly established in Europe. The satrap whom Antara encounters and kills ([p. 221](./Antar_18#p221)) is encased in a complete suit of mail “of Davidean workmanship” (see Mr. Redhouse's note on v. 51 of Ka‘b's Mantle Poem) and plumed helmet, and armed with sword, mace, shield, &c.—precisely like the European knights.
 
 Nor was knight-errantry unknown to Asiatic chivalry. Mention is made by Oriental historians of a Persian knight who was surnamed _Rezm Khah_—_i.e._, “one who goes in quest of adventures;” and of two famous Arabian knights-errant: one named Abū Mohammed el-Batal, who wandered everywhere in search of adventures and redressing grievances, and who was killed a.h. 121 (a.d. 738); the other was a great grandson of the Khalif Abu Bekr, named Ja‘far es-Sādik—eminent for his piety and extensive knowledge as well as for his feats of arms—who died in the reign of Almansor, a.h. 147 (a.d. 764).
 
-## ANTARA AT THE PERSIAN COURT—[p. 222](Antar_18#p222).
+## ANTARA AT THE PERSIAN COURT—[p. 222](./Antar_18#p222).
 
 Khusrau, Chosroe, or Chosroes, was the general title of the Sassanides, or third dynasty of Persia: as Cæsar was that of the Roman emperors; Pharaoh, of the Egyptian kings; and Tobba‘, of the princes of el-Yemen.—The Chosroe who occupied the Persian throne at this time was the celebrated Nushirvan the Just. Sa’dī, in his _Bústán_, records the dying injunctions of this wise and good king to his son and successor:
 
@@ -194,11 +194,11 @@ Khusrau, Chosroe, or Chosroes, was the general title of the Sassanides, or third
 
 <span id="p446">[<sup><small>p. 446</small></sup>]</span>
 
-## ANTARA AND THE WRESTLER—[p. 230](Antar_19#p230).
+## ANTARA AND THE WRESTLER—[p. 230](./Antar_19#p230).
 
 Wrestling, says Atkinson, “is a favourite sport in the East. From Homer down to Statius, the Greek and Roman poets have introduced wrestling in their epic poems. Wrestlers, like gladiators at Rome, are exhibited in India on a variety of occasions. Prize wrestlers were formerly common in almost every European country.”—Sa’dī, in the first book of his _Gûlistân_, tells a story of a professor (_ustád_) of wrestling who had taught a certain pupil every trick of his art except one, and who was enabled by this reservation to overcome the presumptuous young man, when, confiding in his youth and superior strength, he had insultingly challenged his master to contend before the King. “He lifted him,” says Sa‘dī, “above his head, and dashed him down. Loud plaudits ascended from the people. The king bestowed an honourable present on the master, and upbraided the youth, who said: ‘O my sovereign! one little portion of the wrestling art yet remained, which he withheld from me.’—The master replied: 'For such an occasion as this, I reserved it; because the philosophers have thus advised: Give not your friend so much power that should he become your enemy, he may be able to hurt you.”
 
-## JAIDA, THE FEMALE WARRIOR—[p. 261](Antar_30#p261).
+## JAIDA, THE FEMALE WARRIOR—[p. 261](./Antar_30#p261).
 
 The Romance of Delhama furnishes a counterpart to the renowned Jaida, in a damsel named El-Gunduba, who, from her warlike exploits, was styled _Kattálet-esh-Shug’án_, or Slayer of Heroes. And we read of another female warrior, named Gurd-afríd, in the _Sháhnáma:_
 
@@ -215,11 +215,11 @@ However piercing, could her sex descry.
 
 It is, however, contended by a learned French Orientalist, that before the time of el-Islām Arabian women did not engage in warfare.
 
-## DEATH OF KING ZOHEIR—[p. 285](Antar_41#p285).
+## DEATH OF KING ZOHEIR—[p. 285](./Antar_41#p285).
 
 It is a historical fact that Zoheir son of Jazīma was slain by Khalid, who was murdered by Hareth in the private tents of King Numan; and this was the cause of many wars. It is also stated that Hareth in vain sought the protection of other tribes to secure him from Numan's vengeance.—_Note by Translator_.
 
-## A HORSE RACE, ETC.—[p. 287](Antar_43#p287).
+## A HORSE RACE, ETC.—[p. 287](./Antar_43#p287).
 
 THE race between King Cais’ \[Qeys\] horse Dahis and Hadifah's mare Ghabra is historically true; in consequence of which a war was kindled between the two tribes that lasted forty years; and it became a proverb amongst the Arabs, so that whenever a very serious dispute arose they would say, “the battle of Dahis and Ghabra is arisen.”—Another account states that Cais was the owner of both Dahis and Ghabra, and that Hadifah was possessed of two mares which he ran against them. That Hadifah injured Dahis is also confirmed by good authorities, and that Ghabra won the race; but Hadifah, being dissatisfied, raised troubles and dissensions which lasted forty years.—_Note by Translator_.
 
@@ -334,7 +334,7 @@ The Afghan poet Ashrāf Khān, Khattāk, compares the dark ringlets of the belov
 When she disposeth her flowing tresses in curls about her face,
 To the Ethiop army she accordeth permission devastation to make.
 
-Abla's eyes are like those of the fawn: see note on v. 31 of the Poem of Amriolkais, [p. 374](Appendix_7#p374). In Sanskrit poetry this is a very common similitude; for example: in the drama of _Málatí and Mádhava_—“her eye the deer displays;” in the _Uttara Rama Cheritra_, the wife of Rama is styled, “fawn-eyed Sitá;” in the _Mégha Dúta_—“fawn-like eyes that tremble as they <span id="p451">[<sup><small>451</small></sup>]</span> glow;” in the _Naishadha_ of Shrí Harsha—“her eyes were like the stately deer;” and in the Sakoontála of Kalidása:
+Abla's eyes are like those of the fawn: see note on v. 31 of the Poem of Amriolkais, [p. 374](./Appendix_7#p374). In Sanskrit poetry this is a very common similitude; for example: in the drama of _Málatí and Mádhava_—“her eye the deer displays;” in the _Uttara Rama Cheritra_, the wife of Rama is styled, “fawn-eyed Sitá;” in the _Mégha Dúta_—“fawn-like eyes that tremble as they <span id="p451">[<sup><small>451</small></sup>]</span> glow;” in the _Naishadha_ of Shrí Harsha—“her eyes were like the stately deer;” and in the Sakoontála of Kalidása:
 
 &nbsp;&nbsp;  These her cherished fawns,
 Whose eyes, in lustre vying with her own,
@@ -368,7 +368,7 @@ and Belīg, another Ottoman poet:
 
 The eye of that wanton disturber bares its sword.
 
-(See also “Serenade to his Sleeping Mistress,” [p. 146](Shorter_Pieces#p146), and Note on the same, pp. [430](Appendix_14#p430), [431](Appendix_14#p431).)
+(See also “Serenade to his Sleeping Mistress,” [p. 146](./Shorter_Pieces#p146), and Note on the same, pp. [430](./Appendix_14#p430), [431](./Appendix_14#p431).)
 
 <span id="p452">[<sup><small>p. 452</small></sup>]</span>
 
@@ -379,7 +379,7 @@ Th’ adorning thee with too much art
 ’Tis like the poisoning of the dart—
 &nbsp;&nbsp;Too apt before to kill!
 
-The same thought is expressed in the following passage from a Sanskrit writer: “Thine eyes have completely eclipsed those of the deer; then why add _kajala?_ Is it not enough that thou destroy thy victims unless thou do it with poisoned arrows?” (_Kajala_—the Egyptian _kohl_—is a pigment used to darken the lower eyelid: see note on vv. 8, 9, Poem of Tarafa, [p. 376](Appendix_8#p376).) In his Mo‘allaqah, v. 42, Antara speaks of certain ladies “whose beauty required no ornaments”—thus anticipating our English poet of the Seasons, in his oft-quoted lines:
+The same thought is expressed in the following passage from a Sanskrit writer: “Thine eyes have completely eclipsed those of the deer; then why add _kajala?_ Is it not enough that thou destroy thy victims unless thou do it with poisoned arrows?” (_Kajala_—the Egyptian _kohl_—is a pigment used to darken the lower eyelid: see note on vv. 8, 9, Poem of Tarafa, [p. 376](./Appendix_8#p376).) In his Mo‘allaqah, v. 42, Antara speaks of certain ladies “whose beauty required no ornaments”—thus anticipating our English poet of the Seasons, in his oft-quoted lines:
 
 &nbsp;&nbsp;Loveliness
 Needs not the foreign aid of ornament;
@@ -403,7 +403,7 @@ Their well-known outline faintly marked in front,
 More deeply towards the heel, betokening
 The graceful undulation of her gait.”
 
-The learned Professor explains that the idea of the original is, that the weight of her haunches caused the peculiar appearance observable in her footprints. (See note on v. 17, Poem of Amru, [p. 397](Appendix_12#p397), and note on v. 97, same poem, [p. 399](Appendix_12#p399).)
+The learned Professor explains that the idea of the original is, that the weight of her haunches caused the peculiar appearance observable in her footprints. (See note on v. 17, Poem of Amru, [p. 397](./Appendix_12#p397), and note on v. 97, same poem, [p. 399](./Appendix_12#p399).)
 
 <span id="p454">[<sup><small>p. 454</small></sup>]</span>
 

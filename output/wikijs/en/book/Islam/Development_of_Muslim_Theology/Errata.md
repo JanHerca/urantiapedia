@@ -32,23 +32,23 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-Page [30](1_1#p30), line 5, for al-Mukanna read al-Muqanna.
+Page [30](./1_1#p30), line 5, for al-Mukanna read al-Muqanna.
 
-“ [86](2_1#p86), l. 19, for first Khalifa read second Khalifa.
+“ [86](./2_1#p86), l. 19, for first Khalifa read second Khalifa.
 
-“ [201](3_3#p201), 1. 26, for _tasalsal_ read _tasalsal_.
+“ [201](./3_3#p201), 1. 26, for _tasalsal_ read _tasalsal_.
 
-“ [237](3_4#p237), for Mansell read Mansel.
+“ [237](./3_4#p237), for Mansell read Mansel.
 
-“ [267](3_6#p267), l. 30, for Haqqari read Hakkari.
+“ [267](./3_6#p267), l. 30, for Haqqari read Hakkari.
 
-“ [299](Appendix1_3#p299), l. 10, for _Mushriqs_ read _Mushriks_.
+“ [299](./Appendix1_3#p299), l. 10, for _Mushriqs_ read _Mushriks_.
 
-“ [300](Appendix1_4#p300), l. 4, for kalimatan ash-shahada read kalimata-sh-shahada.
+“ [300](./Appendix1_4#p300), l. 4, for kalimatan ash-shahada read kalimata-sh-shahada.
 
-“ [325](Appendix1_6#p325), l. 23, for _wihdaniya_ read _wahdaniya_.
+“ [325](./Appendix1_6#p325), l. 23, for _wihdaniya_ read _wahdaniya_.
 
-“ [339](Appendix1_6#p339), I. 11, for _ihtiyaz_ read _ihtiyaj_.
+“ [339](./Appendix1_6#p339), I. 11, for _ihtiyaz_ read _ihtiyaj_.
 
 <figure class="table chapter-navigator">
   <table>

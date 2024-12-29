@@ -34,11 +34,11 @@ dateCreated: 2024-11-25T9:7:31Z
 
 <span id="pxiv">[<sup><small>p. xiv</small></sup>]</span>
 
-Page [5](hpi05.htm#p5); 3rd last line: As last word, read _and_.
+Page [5](./hpi05.htm#p5); 3rd last line: As last word, read _and_.
 
-» [144](hpi17.htm#p144); 8th » »: For _abone_, read _above_.
+» [144](./hpi17.htm#p144); 8th » »: For _abone_, read _above_.
 
-» [186](hpi23.htm#p186); 2nd » »: » _bestows_ » _pays_.
+» [186](./hpi23.htm#p186); 2nd » »: » _bestows_ » _pays_.
 
 <figure class="table chapter-navigator">
   <table>

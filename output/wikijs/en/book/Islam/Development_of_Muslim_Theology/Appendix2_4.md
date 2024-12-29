@@ -60,7 +60,7 @@ G. FLÜGEL: _Al-Kindi genannt “der Philosoph der Araber.” Ein Vorbild seiner
 
 SIR WILLIAM MUIR: _The Apology of al-Kindy, written at the court of al-Mâmûn_. London, 1882.
 
-E. SELL: _The Faith of Islam_. London, 1896. II [edition](errata.htm#9). A valuable book, but from the point of view of an Indian missionary. Hence the tone is polemic and the technicalities are Persian rather than Arabic.
+E. SELL: _The Faith of Islam_. London, 1896. II [edition](./errata.htm#9). A valuable book, but from the point of view of an Indian missionary. Hence the tone is polemic and the technicalities are Persian rather than Arabic.
 
 WALTER M. PATTEN: _Ahmad ibn Hanbal and the Mihna_. Leyden, 1897. There is a valuable review by Goldziher in ZDMG. lii, pp. 155 ff. It traces connection of Hanbalites with Ibn Taymiya and Wahhabites.
 

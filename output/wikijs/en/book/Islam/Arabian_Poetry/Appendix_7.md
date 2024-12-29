@@ -86,7 +86,7 @@ Like clustering dates amid the palm-trees’ shade.—R. R.
 
 <span id="p375">[<sup><small>p. 375</small></sup>]</span>
 
-v. 33. “Her hair, like bunches of dates clustering on the palm-tree”—a favourite [comparison](errata.htm#1) of the old poets of Arabia; also that of a pretty girl's tresses to the branches of the vine: see verses from the Romance of Antar, [p. 191](Antar_3#p191) of the present volume.
+v. 33. “Her hair, like bunches of dates clustering on the palm-tree”—a favourite [comparison](./errata.htm#1) of the old poets of Arabia; also that of a pretty girl's tresses to the branches of the vine: see verses from the Romance of Antar, [p. 191](./Antar_3#p191) of the present volume.
 
 v. 56. “Like hennà on gray flowing locks”—see v. 15 of El-Būsīrī's Poem of the Mantle, where the poet says that had he known that his gray hairs would reproach him he would have dyed them with woad.—The leaves of the hennà-tree (_Lawsonia inermis_, also called the Egyptian privet) are used by the women of Cairo to stain certain parts of the hands and feet.—_Lane_.
 

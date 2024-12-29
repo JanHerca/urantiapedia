@@ -144,7 +144,7 @@ In a good sign.
 
 Shaddai.
 
-Solemn Adjuration of the Evil Eye. (As this, though abbreviated, is almost identical with the Amulet translated on [p. 318](3_Notes#p318) ff, there is no need to reproduce it here.)
+Solemn Adjuration of the Evil Eye. (As this, though abbreviated, is almost identical with the Amulet translated on [p. 318](./3_Notes#p318) ff, there is no need to reproduce it here.)
 
 Picture of a hand, on the back of which is written “Shaddai” (Almighty) and “Adonai ” (Lord)) with permutations of letters forming names of angels, etc.
 

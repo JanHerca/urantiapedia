@@ -103,4 +103,4 @@ EDINBURGH AND LONDON.
 
 ## Footnotes
 
-[^432]: m289:1 The “[_cauda_](errata.htm#3) _draconis_” was the “descending node,” one of the ecliptical points. The “forbidden fruit,” in Islām, is held to have been wheat.
+[^432]: m289:1 The “[_cauda_](./errata.htm#3) _draconis_” was the “descending node,” one of the ecliptical points. The “forbidden fruit,” in Islām, is held to have been wheat.

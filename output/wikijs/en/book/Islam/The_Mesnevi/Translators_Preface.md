@@ -77,7 +77,7 @@ Eflākī informs us that he undertook the compilation of his work at the express
 4\. Acts of Shemsu-’d-Dīn, Tebrīzī | 23 „
 5\. Acts of Sheykh Salāhu-’d-Dīn, Zer-Kūb | 11 „
 6\. Acts of Husāmu-’d-Dīn, Khalīfa of God | 14 „
-7\. Acts of Mevlānā [Bahā’u-’d-Dīn](errata.htm#0), Sultan Veled | 13 „
+7\. Acts of Mevlānā [Bahā’u-’d-Dīn](./errata.htm#0), Sultan Veled | 13 „
 8\. Acts of Chelebī Emīr ‘Ārif | 45 „
 9\. Acts of Chelebī Emīr ‘Ābīd, &c. | 6 „
 10\. Genealogical | 2 „

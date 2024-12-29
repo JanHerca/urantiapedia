@@ -36,7 +36,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 ## The First Chapter of the Koran
 
-In the name of God, who is abundant in mercy and compassion! Praise be to God, the Lord of the universe, the most merciful and compassionate, the Sovereign of the day of judgment. Thee alone we worship, and from Thee alone we seek help. Guide us to the right path—the path of them to whom Thou hast been gracious—not of them with whom Thou art angry, nor of them who have gone astray. Amen. [1](arw05.htm#fn_3)
+In the name of God, who is abundant in mercy and compassion! Praise be to God, the Lord of the universe, the most merciful and compassionate, the Sovereign of the day of judgment. Thee alone we worship, and from Thee alone we seek help. Guide us to the right path—the path of them to whom Thou hast been gracious—not of them with whom Thou art angry, nor of them who have gone astray. Amen. [1](./arw05.htm#fn_3)
 
 ## Repentance, and God's Forgiving Mercy
 

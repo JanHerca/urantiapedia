@@ -559,18 +559,18 @@ The prophet seeks refuge in God from the devil and his evil suggestions.
 
 [^30]: lxxxvii:2 As Allâh, not Allât, the name of a goddess. See p. 160, note 1.
 
-[^31]: lxxxviii:1 See Introduction, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^31]: lxxxviii:1 See Introduction, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^32]: xciii:1 Here used for the Scriptures generally.
 
-[^33]: xcix:1 An allusion to the tradition of Mohammed's acknowledgment of the goddesses Allât, Al ’Huzzâ, and Manât. See Introduction, pp. [xxvi](sbe0602.htm#pxxvi) and [xxvii](sbe0602.htm#pxxvii).
+[^33]: xcix:1 An allusion to the tradition of Mohammed's acknowledgment of the goddesses Allât, Al ’Huzzâ, and Manât. See Introduction, pp. [xxvi](./sbe0602.htm#pxxvi) and [xxvii](./sbe0602.htm#pxxvii).
 
-[^34]: civ:1 See Introduction, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^34]: civ:1 See Introduction, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^35]: cxi:1 See note to the passage in the translation.
 
-[^36]: cxi:2 See Introduction, [p. xl](sbe0602.htm#pxl).
+[^36]: cxi:2 See Introduction, [p. xl](./sbe0602.htm#pxl).
 
 [^37]: cxii:1 See Introduction, pp. xxvi, xxvii.
 
-[^38]: cxiv:1 This part of the sûrah is the second revelation after the appearance of the archangel Gabriel on Mount Hirâ; see Introduction, [p. xx](sbe0602.htm#pxx).
+[^38]: cxiv:1 This part of the sûrah is the second revelation after the appearance of the archangel Gabriel on Mount Hirâ; see Introduction, [p. xx](./sbe0602.htm#pxx).

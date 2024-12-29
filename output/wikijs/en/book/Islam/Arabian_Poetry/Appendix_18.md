@@ -31,7 +31,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p468">[<sup><small>p. 468</small></sup>]</span>
 
-\[On comparing the following translation of the famous poem of Et-Tugrā‘ī, which Mr. Redhouse has obligingly made for this volume, with Dr. Carlyle's rendering (pp. [153](Shorter_Pieces#p153)\-[161](Shorter_Pieces#p161)), it will be observed that, in a few instances, the true meaning of the original is lost in the metrical version. Some particulars regarding the author, &c., are given in pp. [433](Appendix_14#p433)\-[435](Appendix_14#p435).\]
+\[On comparing the following translation of the famous poem of Et-Tugrā‘ī, which Mr. Redhouse has obligingly made for this volume, with Dr. Carlyle's rendering (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), it will be observed that, in a few instances, the true meaning of the original is lost in the metrical version. Some particulars regarding the author, &c., are given in pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
 FIRM-ROOTEDNESS of view has protected me from precipitancy; and the ornament of excellence has embellished me when void of trinkets.
 

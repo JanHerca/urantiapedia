@@ -77,12 +77,11 @@ That the remains of Ancient Arabic Poetry have been tampered with—altered and 
 ## Footnotes
 
 [^17]: lxiv:\* In verse 57 of his Mu‘allaqa, Imra’u-’l-Qays, according to Sir W. Jones’ translation, alludes to idolatrous rites: “virgins, in black trailing robes, who dance round \[the idol\] Dewaar”; but this rendering seems to be erroneous. The original
-
-_fa ‘anna la nà sirbun, ka-anna ni‘āja hu_
-_‘adhārà dawārin fi melā‘in mudhayyali_
-
-is thus translated by Mr. J. W. Redhouse:
-
-“Then there appeared unto us a herd \[of wild oxen\], the heifers whereof \[from their tails\] were, as it were, maidens of Dawār in long-trained mantles.”
+  _fa ‘anna la nà sirbun, ka-anna ni‘āja hu_
+  _‘adhārà dawārin fi melā‘in mudhayyali_
+  
+  is thus translated by Mr. J. W. Redhouse:
+  
+  “Then there appeared unto us a herd \[of wild oxen\], the heifers whereof \[from their tails\] were, as it were, maidens of Dawār in long-trained mantles.”
 
 [^18]: lxv:\* In the interesting and valuable Notes to his translation of Zuhayr's Mu‘allaqa: _Journal_ of the Bengal Asiatic Society, 1877.

@@ -47,9 +47,9 @@ WHICH WERE SUSPENDED ON<br>
 <br>
 THE TEMPLE AT MECCA.<br>
 <br>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+<hr>><br>
 <br>
-_TRANSLATED, WITH ARGUMENTS_,<br>
+<em>TRANSLATED, WITH ARGUMENTS</em>,<br>
 <br>
 BY<br>
 <br>

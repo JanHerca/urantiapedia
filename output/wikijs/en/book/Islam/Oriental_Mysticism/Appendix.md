@@ -367,7 +367,7 @@ A. _hawá_. Desire. A yearning after the future life kindled by God in the heart
 
 ## Footnotes
 
-[^1]: 74:1 Tholuck in his SUFISMUS (Berolini, MDCCCXXI), p. 105, explains this as follows: “_Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota.” This, however, is the interpretation of _zulf_ (tresses), not _khan i zulf_. The verse quoted above, in page [41](omy15.htm#p41),
+[^1]: 74:1 Tholuck in his SUFISMUS (Berolini, MDCCCXXI), p. 105, explains this as follows: “_Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota.” This, however, is the interpretation of _zulf_ (tresses), not _khan i zulf_. The verse quoted above, in page [41](./omy15.htm#p41),
 
 “One glimpse I gave them of my glorious face,”
 

@@ -1141,7 +1141,7 @@ How fatal the disasters pictured here above,
 
 [^107]: m41:2 In Qur’ān iv. 124, Abraham is called the _Chosen Friend_ of God; and in xxi. 69, the story is mentioned of his being saved from the fire into which he was cast by Nimrod.
 
-[^108]: m43:1 The _Fountain of Life_, or _Water of Life_, is imagined to take its rise in a [land](errata.htm#2) of darkness beyond the limits of the inhabited earth.
+[^108]: m43:1 The _Fountain of Life_, or _Water of Life_, is imagined to take its rise in a [land](./errata.htm#2) of darkness beyond the limits of the inhabited earth.
 
 [^109]: m46:1 In the original I have not found it possible to feel sure where the break should be made from the remonstrance to the poet's reflections. Much of what precedes seems addressed to God; but Eastern hyperbole is wide.
 

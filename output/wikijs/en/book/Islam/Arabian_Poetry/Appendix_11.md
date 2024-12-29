@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 \*\*\* The learned Von Hammer-Purgstall says that Antara's Mo‘allaqah is contained twice in the complete copies of the Romance of Antar: once in fragments, as the hero delivers them extempore on divers occasions in the ardour of the moment, in praise of his darling Abla, of his matchless horse, of his irresistible sword and spear, &c.; and again on the occasion of the poetic contest before the assembly of the tribes at Okātz, when the poet united the hitherto scattered pearls of his genius by a golden thread and suspended them on the Ka‘beh.
 
-vv. 1, 2. Hamilton's rendering of the opening verses of Antara's Mo‘allaqah are given on page [264](Antar_32#p264) of the present volume. This is how Professor E. H. Palmer has turned the same into English verse, in his translation entitled, “An Ancient Arabic Prize Poem”:
+vv. 1, 2. Hamilton's rendering of the opening verses of Antara's Mo‘allaqah are given on page [264](./Antar_32#p264) of the present volume. This is how Professor E. H. Palmer has turned the same into English verse, in his translation entitled, “An Ancient Arabic Prize Poem”:
 
 Have then the Poets left a theme unsung?
 Dost thou, then, recognise thy love's abode?
@@ -100,7 +100,7 @@ And whoso wills it his that lamb shall be.
 Her neck is comelier than the graceful fawn's,
 Her form is fairer than the young gazelle's!
 
-According to Sir William Jones’ rendering, the girl simply informs Antara that she found “the hostile guards negligent of their watch,” and that the lady might therefore be easily visited; and we are to suppose that Antara, on thus learning that “the coast was clear,” so to say, at once proceeded to visit the lady, who, on seeing him, “turned towards him with the neck of a young roe.”—Mr Redhouse thinks that “the variant positions which these verses occupy in different editions make it almost impossible to judge whether his sweetheart turned to Antara, or to the maiden sent. The words read as though the maid turned to Antara; but that is not the probable sense.”—The Bedouin coxcomb Amarah, in the Romance of Antar, sends a female slave on a similar errand—to bring him an account of Abla's personal charms: see page [209](Antar_13#p209) of the present volume.
+According to Sir William Jones’ rendering, the girl simply informs Antara that she found “the hostile guards negligent of their watch,” and that the lady might therefore be easily visited; and we are to suppose that Antara, on thus learning that “the coast was clear,” so to say, at once proceeded to visit the lady, who, on seeing him, “turned towards him with the neck of a young roe.”—Mr Redhouse thinks that “the variant positions which these verses occupy in different editions make it almost impossible to judge whether his sweetheart turned to Antara, or to the maiden sent. The words read as though the maid turned to Antara; but that is not the probable sense.”—The Bedouin coxcomb Amarah, in the Romance of Antar, sends a female slave on a similar errand—to bring him an account of Abla's personal charms: see page [209](./Antar_13#p209) of the present volume.
 
 <span id="p395">[<sup><small>p. 395</small></sup>]</span>
 

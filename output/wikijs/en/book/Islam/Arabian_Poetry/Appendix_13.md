@@ -108,9 +108,9 @@ v. 64. “The sultry vapour of noon increased their magnitude”: _i.e._, the mi
 
 v. 77. “A vernal season of beneficence in every barren year”: see v. 88, Lebīd's Mo‘all. and _Note_.
 
-V. 79. Amrio’l Kais was the name of several of the princes of Hīra, who were under the protection of the Kings of Persia, whose lieutenants they were over the Arabs of ’Irāk. It does not appear from Dr. Pocock's list which is the one here referred to. The kingdom of Hira was founded by Malek, a descendant of Cahlan, son of the famous ’Abd-Shems, surnamed Saba, prince of El-Yemen: see note on v. 14 of the “Lay of the Himyarites,” [p. 352](Appendix_3#p352).
+V. 79. Amrio’l Kais was the name of several of the princes of Hīra, who were under the protection of the Kings of Persia, whose lieutenants they were over the Arabs of ’Irāk. It does not appear from Dr. Pocock's list which is the one here referred to. The kingdom of Hira was founded by Malek, a descendant of Cahlan, son of the famous ’Abd-Shems, surnamed Saba, prince of El-Yemen: see note on v. 14 of the “Lay of the Himyarites,” [p. 352](./Appendix_3#p352).
 
-v. 80. Mondir, King of Ghassan. The kingdom of Ghassan, like that of Hīra, owed its origin to the inundation of El-Arem see note, v. 14, [p. 352](Appendix_3#p352). El-Mondar, or Mundhir, was the general name of the princes of this kingdom, also of those of Hira. The Kings of Ghassan were the lieutenants of the Roman Emperors over the Arabs of Syria. Perhaps the 27th of Dr. Pocock's catalogue is the prince here mentioned.
+v. 80. Mondir, King of Ghassan. The kingdom of Ghassan, like that of Hīra, owed its origin to the inundation of El-Arem see note, v. 14, [p. 352](./Appendix_3#p352). El-Mondar, or Mundhir, was the general name of the princes of this kingdom, also of those of Hira. The Kings of Ghassan were the lieutenants of the Roman Emperors over the Arabs of Syria. Perhaps the 27th of Dr. Pocock's catalogue is the prince here mentioned.
 
 v. 82. The sons of Aus: a tribe descended from Cahlan, son of ’Abd-Shems of Yemen.
 

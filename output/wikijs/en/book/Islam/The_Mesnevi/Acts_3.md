@@ -1296,7 +1296,7 @@ The prince told him of Bahā Veled, now Sheykh of the city, and the peerless sai
 
 [^15]: 60:1 The mount where the victims are slaughtered by the pilgrims.
 
-[^16]: 64:1 The great Persian poet Khāqānī, [born](errata.htm#1) at Shirwān, died and was buried at Tebrīz a.h. 582 (a.d. 1186).
+[^16]: 64:1 The great Persian poet Khāqānī, [born](./errata.htm#1) at Shirwān, died and was buried at Tebrīz a.h. 582 (a.d. 1186).
 
 [^17]: 64:2 Sanā’ī, of Gazna in Afgānistān, surnamed “the Wise,” or “the Philosopher,” died and was buried at the place of his birth, a.h. 576 (a.d. 1180).
 

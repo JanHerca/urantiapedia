@@ -59,7 +59,7 @@ v. 29. War, _el-Harb_, is feminine in Arabic.
 
 v. 31. The comparison of War to a mill and the slain to ground grain is common in the old poetry. \[See vv. 31, 32, Poem of Amru, and _Note_.\]
 
-v. 32. \[“Deformed as the dun camel of Aad: ”see notes on vv. 11 and 22 of the “Lay of the Himyarites,” pp. [351](Appendix_2#p351)\-[354](Appendix_2#p354) of the present volume. Some of the genealogists say that Thailand was a cousin of ‘Ad, and after the destruction of the ancient race of ‘Ad, the people of Thamûd inherited their possessions and were called “the latter ‘Ad,” which would account for Zuhayr's saying “camel of ‘Ad” instead of “camel of Thamûd.”\]
+v. 32. \[“Deformed as the dun camel of Aad: ”see notes on vv. 11 and 22 of the “Lay of the Himyarites,” pp. [351](./Appendix_2#p351)\-[354](./Appendix_2#p354) of the present volume. Some of the genealogists say that Thailand was a cousin of ‘Ad, and after the destruction of the ancient race of ‘Ad, the people of Thamûd inherited their possessions and were called “the latter ‘Ad,” which would account for Zuhayr's saying “camel of ‘Ad” instead of “camel of Thamûd.”\]
 
 v. 36. This verse appears to refer to the breaking out again of strife which followed the deed of Hoseyn. The camels are the warriors, and the pools the pools of death. The image seems intended to figure the senselessness of the strife and its want of object and aim.
 

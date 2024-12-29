@@ -128,4 +128,4 @@ Such, in brief, were some of the characteristics of those ancient people, who, u
 
 [^3]: xxviii:\* The _Treuga Dei_, or Truce of God, was adopted about the year 1032, in consequence of a pretended revelation of a bishop of Aquitaine. It was published in the time of a general calamity; and it made so deep an impression on the minds of men, that a general cessation of private hostilities was observed, we are told, for seven years; and a resolution formed, that no man should in time to come molest his adversary from Thursday evening till Monday morning. The _Pax Regis_, or Royal Truce, was an ordinance of Louis VIII., King of France, a.d. 1245; by which the friends or vassals of a murdered or injured person were prohibited from commencing hostilities till forty days after the commission of the offence.—_Richardson_.
 
-[^4]: xxviii:† See Epitome of the Romance of Antar, in the present volume—pp. [244](Antar_24#p244) and [249](Antar_24#p249).
+[^4]: xxviii:† See Epitome of the Romance of Antar, in the present volume—pp. [244](./Antar_24#p244) and [249](./Antar_24#p249).
