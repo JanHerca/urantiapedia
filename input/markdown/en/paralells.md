@@ -3,6 +3,7 @@
 | title | code | author | year | edition | path |
 | --- | --- | --- | --- | --- | --- |
 | Man’s Vision of God and the Logic of Theism | Hartshorne1 | Charles Hartshorne | 1941 | Willett, Clark & Company, Chicago, New York, 1941 | Charles_Hartshorne/Mans_Vision_of_God |
+| Qur'an | quran | --- | --- | Government Central Press, 1938 | Islam/Quran |
 
 
 # Paralells
