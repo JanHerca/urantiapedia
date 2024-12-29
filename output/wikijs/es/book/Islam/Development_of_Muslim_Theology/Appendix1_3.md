@@ -71,7 +71,7 @@ Creemos en la aparición del Anticristo (_ad-Dajjal_) según la tradición trans
 
 [^0]: 296:1 Para la escatología musulmana, todavía se puede hacer referencia a la introducción de Sale al Corán, § 4. El castigo de la tumba es lo que, en el caso de los incrédulos, sigue a la inquisición de los dos ángeles _Munkar_ y _Nakir_; véase sobre ellos _Modern Egyptians_ de Lane, cap. xxviii; sobre todo el tema, véanse las traducciones de Gautier y Wolff y el tratado de Rüling (Bibliografía, p. 367)
 
-[^1]: 298:1 Esta, una de las cuestiones que dividen a los sunitas y chiítas, pertenece tanto a la teología como a la ley. Véase [p. 314](Apéndice 1_5#p314) y Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
+[^1]: 298:1 Esta, una de las cuestiones que dividen a los sunitas y chiítas, pertenece tanto a la teología como a la ley. Véase [p. 314](./Apéndice 1_5#p314) y Goldziher, _Zur Literaturgeschichte der Si‘a_, p. 87.
 
 [^2]: 298:2 Los mutazilíes sostenían que los artículos de sustento de naturaleza prohibida, como el cerdo o el vino, no podían llamarse _rizq_ en este sentido técnico; que Dios no podía usarlos así. Los ortodoxos replicaban p. 299 que un hombre podía vivir su vida con cosas prohibidas; ¿había sido entonces independiente de Dios en cuanto a su sustento? Los mutazilíes definían _rizq_ como «una posesión que su poseedor come» y como «aquello de lo que uno no tiene impedimentos para aprovecharse»; los ortodoxos, como un nombre para aquello que Dios envía al hombre y a los demás animales y ellos lo comen y se benefician de ello.
 

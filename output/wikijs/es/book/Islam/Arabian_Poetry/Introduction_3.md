@@ -77,12 +77,11 @@ Sin embargo, ahora se ha demostrado con mayor claridad que los restos de la poes
 ## Notas al pie
 
 [^17]: lxiv:\* En el versículo 57 de su Mu'allaqa, Imra'u-'l-Qays, según la traducción de Sir W. Jones, alude a ritos idólatras: «vírgenes, vestidas con túnicas negras, que baila alrededor de \[el ídolo\] Dewaar»; pero esta interpretación parece ser errónea. el original
-
-_fa 'anna la nà sirbun, ka-anna ni'āja hu_
-_'adhārà dawārin fi melā'in mudhayyali_
-
-Así lo traduce el Sr. J. W. Redhouse:
-
-«Entonces se nos apareció una manada de bueyes salvajes, cuyas novillas eran, por así decirlo, doncellas de Dawār con mantos largos.»
+  _fa 'anna la nà sirbun, ka-anna ni'āja hu_
+  _'adhārà dawārin fi melā'in mudhayyali_
+  
+  Así lo traduce el Sr. J. W. Redhouse:
+  
+  «Entonces se nos apareció una manada de bueyes salvajes, cuyas novillas eran, por así decirlo, doncellas de Dawār con mantos largos.»
 
 [^18]: lxv:\* En las interesantes y valiosas Notas a su traducción de Mu‘allaqa de Zuhayr: _Journal_ of the Bengal Asiatic Society, 1877.

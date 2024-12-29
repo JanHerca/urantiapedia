@@ -559,18 +559,18 @@ El profeta busca refugio en Dios del diablo y sus malas sugerencias.
 
 [^30]: lxxxvii:2 Como Allah, no Allât, el nombre de una diosa. Véase pág. 160, nota 1.
 
-[^31]: lxxxviii:1 Consulte la Introducción, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^31]: lxxxviii:1 Consulte la Introducción, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^32]: xciii:1 Aquí se usa para las Escrituras en general.
 
-[^33]: xcix:1 Alusión a la tradición del reconocimiento de Mahoma de las diosas Allât, Al &#39;Huzzâ y Manât. Véase Introducción, págs. [xxvi](sbe0602.htm#pxxvi) y [xxvii](sbe0602.htm#pxxvii).
+[^33]: xcix:1 Alusión a la tradición del reconocimiento de Mahoma de las diosas Allât, Al &#39;Huzzâ y Manât. Véase Introducción, págs. [xxvi](./sbe0602.htm#pxxvi) y [xxvii](./sbe0602.htm#pxxvii).
 
-[^34]: civ:1 Véase Introducción, [p. xxxiv](sbe0602.htm#pxxxiv).
+[^34]: civ:1 Véase Introducción, [p. xxxiv](./sbe0602.htm#pxxxiv).
 
 [^35]: cxi:1 Véase la nota del pasaje en la traducción.
 
-[^36]: cxi:2 Véase Introducción, [p. xl](sbe0602.htm#pxl).
+[^36]: cxi:2 Véase Introducción, [p. xl](./sbe0602.htm#pxl).
 
 [^37]: cxii:1 Véase Introducción, págs. xxvi, xxvii.
 
-[^38]: cxiv:1 Esta parte de la sura es la segunda revelación después de la aparición del arcángel Gabriel en el monte Hirâ; véase Introducción, [p. xx](sbe0602.htm#pxx).
+[^38]: cxiv:1 Esta parte de la sura es la segunda revelación después de la aparición del arcángel Gabriel en el monte Hirâ; véase Introducción, [p. xx](./sbe0602.htm#pxx).

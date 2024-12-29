@@ -367,7 +367,7 @@ A. _hawá_. Deseo. Un anhelo por la vida futura encendido por Dios en el corazó
 
 ## Notas al pie
 
-[^1]: 74:1 Tholuck en su SUFISMUS (Berolini, MDCCCXXI), p. 105, lo explica así: «_Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota». Ésta, sin embargo, es la interpretación de _zulf_ (trenzas), no de _khan i zulf_. El versículo citado anteriormente, en la página [41](omy15.htm#page_41),
+[^1]: 74:1 Tholuck en su SUFISMUS (Berolini, MDCCCXXI), p. 105, lo explica así: «_Cincinnorum circuli_, Sic divina dicunt mysteria, nemini præter Deum ipsum nota». Ésta, sin embargo, es la interpretación de _zulf_ (trenzas), no de _khan i zulf_. El versículo citado anteriormente, en la página [41](./omy15.htm#page_41),
 
 «Un vistazo Les di de mi glorioso rostro»
 

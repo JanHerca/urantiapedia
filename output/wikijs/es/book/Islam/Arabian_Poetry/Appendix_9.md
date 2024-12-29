@@ -59,7 +59,7 @@ v. 29. Guerra, _el-Harb_, es femenino en árabe.
 
 v. 31. La comparación de la guerra con un molino y de los muertos con el grano molido es común en la poesía antigua. \[Véase vv. 31, 32, Poema de Amru, y _Nota_.\]
 
-v. 32. \[«Deformado como el camello pardo de Aad»: véanse las notas sobre los vv. 11 y 22 del «Lay of the Himyarites», pp. [351](Apéndice_2#p351)\-[354](Apéndice_2#p354) del presente volumen. Algunos de los genealogistas dicen que Tailandia era prima de ‘Ad, y después de la destrucción de la antigua raza de ‘Ad, el pueblo de Thamûd heredó sus posesiones y fueron llamados «el último ‘Ad», lo que explicaría por qué Zuhayr dijo «camello de ‘Ad» en lugar de «camello de Thamûd».\]
+v. 32. \[«Deformado como el camello pardo de Aad»: véanse las notas sobre los vv. 11 y 22 del «Lay of the Himyarites», pp. [351](./Apéndice_2#p351)\-[354](./Apéndice_2#p354) del presente volumen. Algunos de los genealogistas dicen que Tailandia era prima de ‘Ad, y después de la destrucción de la antigua raza de ‘Ad, el pueblo de Thamûd heredó sus posesiones y fueron llamados «el último ‘Ad», lo que explicaría por qué Zuhayr dijo «camello de ‘Ad» en lugar de «camello de Thamûd».\]
 
 v. 36. Este versículo parece referirse al estallido de la contienda que siguió a la acción de Oseas. Los camellos son los guerreros, y los estanques, los estanques de la muerte. La imagen parece tener la intención de representar la insensatez de la contienda y su falta de objeto y objetivo.
 

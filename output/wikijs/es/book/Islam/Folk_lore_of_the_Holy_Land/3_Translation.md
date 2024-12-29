@@ -144,7 +144,7 @@ En una buena señal
 
 Shaddai.
 
-Conjuro solemne del mal de ojo. (Como esto, aunque abreviado, es casi idéntico al amuleto traducido en [p. 318](3_Notes#p318) ff, no hay necesidad de reproducirlo aquí.)
+Conjuro solemne del mal de ojo. (Como esto, aunque abreviado, es casi idéntico al amuleto traducido en [p. 318](./3_Notes#p318) ff, no hay necesidad de reproducirlo aquí.)
 
 Imagen de una mano, en cuyo dorso está escrito «Shaddai» (Todopoderoso) y «Adonai» (Señor)) con permutaciones de letras que forman nombres de ángeles, etc.
 

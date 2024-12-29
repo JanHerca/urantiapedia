@@ -38,7 +38,7 @@ La afirmación de Von Hammer de que la recitación del Romance de Antar llena lo
 
 El héroe mismo —Antara, el hijo de Sheddād— es siempre la figura central: su tez oscura, su fealdad, incluso su fealdad, se olvidan en la admiración por la prodigiosa fuerza de su brazo y su invencible coraje; sus versos elevados y apasionados; su grandeza de alma y su ternura de corazón. Un verdadero caballero, sin peur et sans reproche, es Antara: valiente como un león cuando se enfrenta cara a cara con sus enemigos; magnánimo con un antagonista inferior; suave y gentil cuando piensa en su bella prima Abla, y más aún cuando está en su presencia. Abla, la bella Abla, cuyas oscuras y sueltas trenzas atraparon al principio el corazón del héroe, y cuyos brillantes ojos completaron <span id="p438">[<sup><small>438</small></sup>]</span> la captura, una verdadera doncella beduina: como Desdémona con el moro, vio la belleza de Antara en su mente. Y Antara—a pesar de su tez negra—a pesar de su nacimiento vil—«la amó con el amor de un héroe de noble cuna». Cuando el enemigo se acerca a las tiendas de la tribu—cuando ha llegado el momento de los golpes de espada y las estocadas de lanza—su origen vil se olvida: su espada es entonces su padre, y la lanza en su mano derecha es su noble pariente.
 
-Los demás personajes están, por supuesto, subordinados al héroe y a sus hazañas; sin embargo, cada uno tiene una individualidad muy marcada. Zuhayr, rey de las tribus de ‘Abs y ‘Adnan, Fazarah y Ghiftan, etc., un príncipe que posee todas las virtudes y no pocos defectos de su edad y raza; caballeroso, no tardó en reconocer en el joven hijo esclavo de Sheddād al futuro héroe. El príncipe Sha's, de carácter naturalmente malhumorado, orgulloso y tiránico, pero no carente de virtudes, después de que la adversidad hubiera domado su espíritu. El príncipe Mālek, el valiente pero gentil hijo de Zuhayr, el primer amigo de Antara y protector contra la malicia de sus enemigos; siempre dispuesto a abogar elocuentemente en su favor o a desenvainar su espada cuando el héroe se veía abrumado por los números. Sheddād, el padre de Antara: un tipo valiente, «de una familia de mano dura: un buen golpeador cuando se necesita ayuda», orgulloso de su sangre pura como siempre lo fue un hidalgo, pero añorando a su valiente hijo cuando sus hazañas se hicieron públicas y lamentando amargamente su supuesta muerte. Pero su madre esclava de mente simple, como las madres de los grandes hombres en general, no aprecia los logros heroicos de su hijo; piensa que sería mejor que se quedara en casa y la ayudara a cuidar los rebaños. Malek, el padre de Abla: astuto, calculador, sórdido, pérfido, malicioso, oportunista; además, un gran defensor del honor de su familia. Amara, el beduino exquisito: orgulloso, jactancioso, en el fondo un cobarde. Shibūb, el medio hermano de Antara, y su fiel escudero, veloz de a pie, y por eso apodado Padre del Viento (no Hijo del Viento, como se indica en la página [214](Antar_16#p214)); un arquero diestro; listo con admirables recursos para cada emergencia; nunca un valiente caballero tuvo un auxiliar más útil.
+Los demás personajes están, por supuesto, subordinados al héroe y a sus hazañas; sin embargo, cada uno tiene una individualidad muy marcada. Zuhayr, rey de las tribus de ‘Abs y ‘Adnan, Fazarah y Ghiftan, etc., un príncipe que posee todas las virtudes y no pocos defectos de su edad y raza; caballeroso, no tardó en reconocer en el joven hijo esclavo de Sheddād al futuro héroe. El príncipe Sha's, de carácter naturalmente malhumorado, orgulloso y tiránico, pero no carente de virtudes, después de que la adversidad hubiera domado su espíritu. El príncipe Mālek, el valiente pero gentil hijo de Zuhayr, el primer amigo de Antara y protector contra la malicia de sus enemigos; siempre dispuesto a abogar elocuentemente en su favor o a desenvainar su espada cuando el héroe se veía abrumado por los números. Sheddād, el padre de Antara: un tipo valiente, «de una familia de mano dura: un buen golpeador cuando se necesita ayuda», orgulloso de su sangre pura como siempre lo fue un hidalgo, pero añorando a su valiente hijo cuando sus hazañas se hicieron públicas y lamentando amargamente su supuesta muerte. Pero su madre esclava de mente simple, como las madres de los grandes hombres en general, no aprecia los logros heroicos de su hijo; piensa que sería mejor que se quedara en casa y la ayudara a cuidar los rebaños. Malek, el padre de Abla: astuto, calculador, sórdido, pérfido, malicioso, oportunista; además, un gran defensor del honor de su familia. Amara, el beduino exquisito: orgulloso, jactancioso, en el fondo un cobarde. Shibūb, el medio hermano de Antara, y su fiel escudero, veloz de a pie, y por eso apodado Padre del Viento (no Hijo del Viento, como se indica en la página [214](./Antar_16#p214)); un arquero diestro; listo con admirables recursos para cada emergencia; nunca un valiente caballero tuvo un auxiliar más útil.
 
 <span id="p439">[<sup><small>p. 439</small></sup>]</span>
 
@@ -46,15 +46,15 @@ Con la noble lírica de la muerte del héroe, el telón cae apropiadamente sobre
 
 ---
 
-## EL NACIMIENTO DEL HÉROE Y SUS PRIMEROS AÑOS—[p. 183](Antar_1#p183).
+## EL NACIMIENTO DEL HÉROE Y SUS PRIMEROS AÑOS—[p. 183](./Antar_1#p183).
 
 La circunstancia del nacimiento de Antara guarda cierta semejanza con la de Ismael, hijo de Abraham, con su esclava Agar. Las relaciones sexuales con una esclava capturada estaban permitidas en las épocas anteriores al Islam, como una tercera y más baja forma de matrimonio, pero el Profeta las prohibió estrictamente. El incidente del esclavo insolente que maltrató a los pobres junto al pozo presenta un sorprendente paralelo con la historia de Moisés expulsando a los pastores que no permitían que las hijas de Jetro abrevaran sus rebaños.
 
-## LA FIESTA DE LAS DONCELLAS—[p. 189](Antar_2#p189).
+## LA FIESTA DE LAS DONCELLAS—[p. 189](./Antar_2#p189).
 
 Una curiosa ilustración de la inmutabilidad de las costumbres orientales se proporciona en esta descripción de una fiesta entre las mujeres de Abs, que, en sus circunstancias (las doncellas tocando címbalos y bailando), aunque no en su objeto, encuentra un paralelo exacto en la fiesta de las hijas de Silo, como se registra en el último capítulo del libro de los Jueces, en el que el grupo también fue sorprendido y llevado cautivo.
 
-La primera de las canciones de este festival ([p. 190](Antar_3#p190)), que describe los encantos de la naturaleza en los primeros días de la primavera, y el sentimiento contenido en los tres últimos versos —que los momentos fugaces deben disfrutarse— recuerdan la hermosa oda a la primavera del célebre poeta turco Mesīhī (que murió en 1512), de la que Sir W. Jones ha sido muy admirada: es, sin embargo, sólo una imitación y, por lo tanto, no puede transmitir al lector general una noción adecuada de las bellezas del original. El señor E. J. W. Gibb, un joven erudito turco (que actualmente está traduciendo al inglés la gran obra de Sa‘du-’d-Dīn, <span id="p440">[<sup><small>440</small></sup>]</span> el historiador del Imperio Otomano, _Tāju-’t-Tevārīkh_, o «La diadema de las historias»), ha hecho la siguiente traducción casi literal de la oda de Mesīhī, reproduciendo, lo más fielmente posible, el metro y la rima originales (Remel-ī Maqsūr):
+La primera de las canciones de este festival ([p. 190](./Antar_3#p190)), que describe los encantos de la naturaleza en los primeros días de la primavera, y el sentimiento contenido en los tres últimos versos —que los momentos fugaces deben disfrutarse— recuerdan la hermosa oda a la primavera del célebre poeta turco Mesīhī (que murió en 1512), de la que Sir W. Jones ha sido muy admirada: es, sin embargo, sólo una imitación y, por lo tanto, no puede transmitir al lector general una noción adecuada de las bellezas del original. El señor E. J. W. Gibb, un joven erudito turco (que actualmente está traduciendo al inglés la gran obra de Sa‘du-’d-Dīn, <span id="p440">[<sup><small>440</small></sup>]</span> el historiador del Imperio Otomano, _Tāju-’t-Tevārīkh_, o «La diadema de las historias»), ha hecho la siguiente traducción casi literal de la oda de Mesīhī, reproduciendo, lo más fielmente posible, el metro y la rima originales (Remel-ī Maqsūr):
 
 ## _LA ODA DE MESIHI A LA PRIMAVERA._
 
@@ -157,7 +157,7 @@ _(f)_ «Que los dignos», es decir, que aquellos que aprecian estos versos, etc.
 
 El señor J. W. Redhouse ya ha hecho algo para desengañar a la opinión popular de la noción completamente errónea de que los otomanos no han producido hombres de indudable genio, ningún poeta digno de ese nombre, mediante su excelente pequeño tratado sobre la «Historia, sistema y variedades de la poesía turca; con ilustraciones en el original y en paráfrasis en inglés», publicado por los señores Trübner & Co., Londres. Y es de esperar que la agradable traducción anterior pueda indicar que el señor Gibb pretende <span id="p443">[<sup><small>443</small></sup>]</span> seguir el ejemplo de ese eminente orientalista, dando a sus compatriotas ignorantes más ejemplos de la musa otomana.
 
-Una variante de la otra canción en el festival de las doncellas (pp. [190](Antar_3#p190), [191](Antar_3#p191)) aparece en «Las mil y una noches», y ha sido traducida por el Sr. Payne, quien reproduce el metro y la rima originales, de la siguiente manera:
+Una variante de la otra canción en el festival de las doncellas (pp. [190](./Antar_3#p190), [191](./Antar_3#p191)) aparece en «Las mil y una noches», y ha sido traducida por el Sr. Payne, quien reproduce el metro y la rima originales, de la siguiente manera:
 
 El prado brilla con las tropas de hermosas que deambulan por allí;
 Su gracia y belleza se duplican con estos que son tan hermosos:
@@ -166,15 +166,15 @@ Sobre cuyos cuellos, como racimos de uvas, caen las trenzas de sus cabellos;
 Orgullosamente caminan, con ojos que lanzan dardos y flechas de desesperación:
 Y todos los campeones del mundo son asesinados por su trampa seductora.
 
-## 'CASCOS ADITE—[p. 191](Antar_3#p191).
+## 'CASCOS ADITE—[p. 191](./Antar_3#p191).
 
-Los cascos fueron llamados tal vez así para denotar su antigüedad y durabilidad, siendo «antiguo como el tiempo de ’Ad» un proverbio entre los árabes. (Véase las notas sobre los vv. 11 y 22 de la «Canción de los himyaritas», págs. [351](Apéndice_3#p351), [352](Apéndice_3#p352).)
+Los cascos fueron llamados tal vez así para denotar su antigüedad y durabilidad, siendo «antiguo como el tiempo de ’Ad» un proverbio entre los árabes. (Véase las notas sobre los vv. 11 y 22 de la «Canción de los himyaritas», págs. [351](./Apéndice_3#p351), [352](./Apéndice_3#p352).)
 
-## LA ESPADA DHAMI—[p. 204](Antar_10#p204).
+## LA ESPADA DHAMI—[p. 204](./Antar_10#p204).
 
 Esta maravillosa arma (la palabra Dhamī significa «someter») es digna de un lugar junto a la famosa Excalibar del Rey Arturo y la Durindana de Orlando. Hay un humor sombrío en el relato que se da sobre el modo en que el viejo jefe Teba demostró que estaba calificado para manejar la Dhamī, cortando la cabeza del desafortunado herrero que la forjó. El incidente recuerda una historia de Muley Ismael, emperador de Marruecos, que murió en el año 1714, después de un largo reinado. Un capitán de barco inglés le regaló una vez a este monarca un hacha curiosa, que recibió <span id="p444">[<sup><small>444</small></sup>]</span> muy amablemente y luego, preguntándole si tenía buen filo, la probó con el donante, quien, haciéndose a un lado hábilmente, escapó con la pérdida sólo de su oreja derecha. Sin embargo, es posible que el jefe árabe no estuviera impulsado por mera insensatez al matar así al hábil artesano: su objetivo puede haber sido evitar que el herrero fabricara un arma aún más formidable para algún guerrero hostil. No faltan ejemplos en la tradición europea de hombres ingeniosos ejecutados por un motivo similar, después de haber construido algún edificio maravilloso o pieza de mecanismo complicado. En todo caso, el hombre que hizo el Dhami fue asesinado inmediatamente después de haber terminado su tarea, el arma era necesariamente única: no podía haber otro Dhami en el mundo.
 
-## COMBATE DE ANTARA Y EL SÁTRAPA—[p. 220](Antar_17#p220).
+## COMBATE DE ANTARA Y EL SÁTRAPA—[p. 220](./Antar_17#p220).
 
 Parece que desde la antigüedad era una práctica común que dos ejércitos contendientes se pusieran de acuerdo en atenerse al resultado de un combate singular entre sus campeones elegidos, aunque muy a menudo ese combate era seguido por un enfrentamiento general. Los libros históricos de la Biblia proporcionan varios ejemplos de combates de este tipo: el de David y Goliat (1 Sam. 17:38-51) es un ejemplo notable; y otro es la batalla entre los hombres de Abner y los hombres de Joab (2 Sam. 2:15, 16). En el Romance de Antar los combates singulares son frecuentes. La manera altiva en que los guerreros se dirigen entre sí antes de entablar un conflicto mortal era común entre los héroes de la antigüedad. «Ven a mí», dijo Goliat a David, «y daré tu carne a las aves del cielo y a las bestias del campo». De la misma manera exclama un héroe del _Sháhnáma_ (Libro de los Reyes o Héroes) de Firdausī, el Homero de Persia:
 
@@ -182,11 +182,11 @@ Parece que desde la antigüedad era una práctica común que dos ejércitos cont
 El valiente campeón, ven a conquistarte,
 Y cortar esa cabeza imponente tuya.
 
-De las minuciosas descripciones de las armas y armaduras de los combatientes, así como de su modo de ataque, parecería <span id="p445">[<sup><small>445</small></sup>]</span> que la caballería, en todos sus detalles esenciales, era una institución en Oriente mucho antes de que se estableciera regularmente en Europa. El sátrapa a quien Antara encuentra y mata ([p. 221](Antar_18#p221)) está envuelto en una armadura completa «de hechura davidiana» (ver la nota del Sr. Redhouse sobre el v. 51 del Poema del Manto de Ka‘b) y casco emplumado, y armado con espada, maza, escudo, etc., exactamente como los caballeros europeos.
+De las minuciosas descripciones de las armas y armaduras de los combatientes, así como de su modo de ataque, parecería <span id="p445">[<sup><small>445</small></sup>]</span> que la caballería, en todos sus detalles esenciales, era una institución en Oriente mucho antes de que se estableciera regularmente en Europa. El sátrapa a quien Antara encuentra y mata ([p. 221](./Antar_18#p221)) está envuelto en una armadura completa «de hechura davidiana» (ver la nota del Sr. Redhouse sobre el v. 51 del Poema del Manto de Ka‘b) y casco emplumado, y armado con espada, maza, escudo, etc., exactamente como los caballeros europeos.
 
 La caballería andante tampoco era desconocida para la caballería asiática. Los historiadores orientales mencionan a un caballero persa que se llamaba _Rezm Khah_, es decir, «el que va en busca de aventuras»; y a dos famosos caballeros andantes árabes: uno llamado Abū Mohammed el-Batal, que vagaba por todas partes en busca de aventuras y reparación de agravios, y que fue asesinado en el año 121 de la hégira (738 d. C.); el otro era un bisnieto del califa Abu Bekr, llamado Ja‘far es-Sādik, eminente por su piedad y amplio conocimiento, así como por sus hazañas de armas, que murió en el reinado de Almansor, en el año 147 de la hégira (764 d. C.).
 
-## ANTARA EN LA CORTE PERSA—[p. 222](Antar_18#p222).
+## ANTARA EN LA CORTE PERSA—[p. 222](./Antar_18#p222).
 
 Khusrau, Chosroe o Chosroes, era el título general de los sasánidas, o tercera dinastía de Persia: como César era el de los emperadores romanos; Faraón, el de los reyes egipcios; y Tobba‘, el de los príncipes de el-Yemen. El Chosroe que ocupaba el trono persa en ese momento era el célebre Nushirvan el Justo. Sa’dī, en su _Bústán_, registra los mandatos moribundos de este sabio y buen rey a su hijo y sucesor:
 
@@ -194,11 +194,11 @@ Khusrau, Chosroe o Chosroes, era el título general de los sasánidas, o tercera
 
 <span id="p446">[<sup><small>p. 446</small></sup>]</span>
 
-## ANTARA Y EL LUCHADOR—[p. 230](Antar_19#p230).
+## ANTARA Y EL LUCHADOR—[p. 230](./Antar_19#p230).
 
 La lucha, dice Atkinson, «es un deporte favorito en Oriente. Desde Homero hasta Estacio, los poetas griegos y romanos han introducido la lucha en sus poemas épicos. Los luchadores, como los gladiadores en Roma, se exhiben en la India en una variedad de ocasiones. Los luchadores de premios eran antes comunes en casi todos los países europeos». Sa’dī, en el primer libro de su Gûlistân, cuenta la historia de un profesor (ustád) de lucha que había enseñado a un cierto alumno todos los trucos de su arte excepto uno, y que fue capaz de vencer al joven presuntuoso, cuando, confiando en su juventud y fuerza superior, había desafiado insultantemente a su maestro a luchar ante el Rey. «Lo levantó», dice Sa‘dī, «por encima de su cabeza y lo arrojó al suelo. Fuertes aplausos ascendieron del pueblo. El rey hizo un regalo honorable al maestro y reprendió al joven, quien dijo: «¡Oh mi soberano! Aún me quedaba una pequeña parte del arte de la lucha, que me retuvo». El maestro respondió: «Para una ocasión como ésta, la reservé; porque los filósofos han aconsejado así: No le des a tu amigo tanto poder que, si se convierte en tu enemigo, pueda hacerte daño».
 
-## JAIDA, LA GUERRERA—[p. 261](Antar_30#p261).
+## JAIDA, LA GUERRERA—[p. 261](./Antar_30#p261).
 
 El Romance de Delhama ofrece una contraparte de la famosa Jaida, en una damisela llamada El-Gunduba, quien, por sus hazañas guerreras, fue llamada _Kattálet-esh-Shug’án_, o Matadora de Héroes. Y leemos sobre otra guerrera, llamada Gurd-afríd, en el _Sháhnáma:_
 
@@ -215,11 +215,11 @@ Sin embargo penetrante, podría su sexo divisar.
 
 Sin embargo, un erudito orientalista francés sostiene que antes de la época del Islam, las mujeres árabes no participaban en la guerra.
 
-## MUERTE DEL REY ZOHEIR—[p. 285](Antar_41#p285).
+## MUERTE DEL REY ZOHEIR—[p. 285](./Antar_41#p285).
 
 Es un hecho histórico que Zoheir hijo de Jazīma fue asesinado por Khalid, quien fue asesinado por Hareth en las tiendas privadas del rey Numan; y esto fue la causa de muchas guerras. También se afirma que Hareth buscó en vano la protección de otras tribus para protegerse de la venganza de Numan.—Nota del traductor.
 
-## UNA CARRERA DE CABALLOS, ETC.—[p. 287](Antar_43#p287).
+## UNA CARRERA DE CABALLOS, ETC.—[p. 287](./Antar_43#p287).
 
 La carrera entre el caballo del rey Cais, Dahis, y la yegua de Hadifah, Ghabra, es históricamente cierta; a consecuencia de lo cual se encendió una guerra entre las dos tribus que duró cuarenta años; y se convirtió en un proverbio entre los árabes, de modo que siempre que surgía una disputa muy seria decían: «ha surgido la batalla de Dahis y Ghabra». Otro relato afirma que Cais era el dueño de Dahis y Ghabra, y que Hadifah poseía dos yeguas con las que corrió contra ellas. Que Hadifah hirió a Dahis también está confirmado por buenas autoridades, y que Ghabra ganó la carrera; pero Hadifah, al estar insatisfecho, provocó problemas y disensiones que duraron cuarenta años. —Nota del traductor_.
 
@@ -334,7 +334,7 @@ El poeta afgano Ashrāf Khān, Khattāk, compara los oscuros rizos de la amada c
 Cuando ella coloca sus cabellos sueltos en rizos alrededor de su rostro,
 Al ejército etíope ella concede permiso para hacer devastación.
 
-Los ojos de Abla son como los del cervatillo: véase la nota sobre el v. 31 del Poema de Amriolkais, [p. 374](Apéndice_7#p374). En la poesía sánscrita esta es una similitud muy común; por ejemplo: en el drama de _Málatí y Mádhava_—«su ojo muestra el ciervo»; en el _Uttara Rama Cheritra_, la esposa de Rama es llamada «Sitá de ojos de cervatillo»; en el _Mégha Dúta_—«ojos como de cervatillo que tiemblan mientras brillan <span id="p451">[<sup><small>451</small></sup>]</span>»; en el _Naishadha_ de Shrí Harsha—«sus ojos eran como los del majestuoso ciervo»; y en el Sakoontála de Kalidása:
+Los ojos de Abla son como los del cervatillo: véase la nota sobre el v. 31 del Poema de Amriolkais, [p. 374](./Apéndice_7#p374). En la poesía sánscrita esta es una similitud muy común; por ejemplo: en el drama de _Málatí y Mádhava_—«su ojo muestra el ciervo»; en el _Uttara Rama Cheritra_, la esposa de Rama es llamada «Sitá de ojos de cervatillo»; en el _Mégha Dúta_—«ojos como de cervatillo que tiemblan mientras brillan <span id="p451">[<sup><small>451</small></sup>]</span>»; en el _Naishadha_ de Shrí Harsha—«sus ojos eran como los del majestuoso ciervo»; y en el Sakoontála de Kalidása:
 
 &nbsp;&nbsp; Estos sus queridos cervatillos,
 Cuyos ojos, en brillo compitiendo con los suyos,
@@ -368,7 +368,7 @@ y Belīg, otro poeta otomano:
 
 El ojo de ese perturbador libertino descubre su espada.
 
-(Véase también «Serenata a su amante durmiente», [p. 146](Shorter_Pieces#p146), y Nota sobre el mismo, págs. [430](Apéndice_14#p430), [431](Apéndice_14#p431).)
+(Véase también «Serenata a su amante durmiente», [p. 146](./Shorter_Pieces#p146), y Nota sobre el mismo, págs. [430](./Apéndice_14#p430), [431](./Apéndice_14#p431).)
 
 <span id="p452">[<sup><small>p. 452</small></sup>]</span>
 
@@ -379,7 +379,7 @@ El adornarte con demasiado arte
 Es como el envenenamiento del dardo—
 &nbsp;&nbsp;¡Demasiado apto antes de matar!
 
-El mismo pensamiento se expresa en el siguiente pasaje de un escritor sánscrito: «Tus ojos han eclipsado por completo a los del ciervo; entonces, ¿por qué añadir _kajala_? ¿No es suficiente que destruyas a tus víctimas a menos que lo hagas con flechas envenenadas?» (_Kajala_—el _kohl_ egipcio—es un pigmento utilizado para oscurecer el párpado inferior: ver nota sobre los vv. 8, 9, Poema de Tarafa, [p. 376](Apéndice_8#p376).) En su Mo‘allaqah, v. 42, Antara habla de ciertas damas «cuya belleza no requería adornos», anticipándose así a nuestro poeta inglés de las Estaciones, en sus versos frecuentemente citados:
+El mismo pensamiento se expresa en el siguiente pasaje de un escritor sánscrito: «Tus ojos han eclipsado por completo a los del ciervo; entonces, ¿por qué añadir _kajala_? ¿No es suficiente que destruyas a tus víctimas a menos que lo hagas con flechas envenenadas?» (_Kajala_—el _kohl_ egipcio—es un pigmento utilizado para oscurecer el párpado inferior: ver nota sobre los vv. 8, 9, Poema de Tarafa, [p. 376](./Apéndice_8#p376).) En su Mo‘allaqah, v. 42, Antara habla de ciertas damas «cuya belleza no requería adornos», anticipándose así a nuestro poeta inglés de las Estaciones, en sus versos frecuentemente citados:
 
 &nbsp;&nbsp;Belleza
 No necesita la ayuda extranjera del ornamento;
@@ -403,7 +403,7 @@ Su contorno conocido débilmente marcado en el frente,
 Más profundamente hacia el talón, presagiando
 La graciosa ondulación de su andar.”
 
-El erudito profesor explica que la idea del original es que el peso de sus ancas causó la apariencia peculiar observable en sus huellas. (Véase la nota sobre el v. 17, Poema de Amru, [p. 397](Apéndice_12#p397), y la nota sobre el v. 97, mismo poema, [p. 399](Apéndice_12#p399).)
+El erudito profesor explica que la idea del original es que el peso de sus ancas causó la apariencia peculiar observable en sus huellas. (Véase la nota sobre el v. 17, Poema de Amru, [p. 397](./Apéndice_12#p397), y la nota sobre el v. 97, mismo poema, [p. 399](./Apéndice_12#p399).)
 
 <span id="p454">[<sup><small>p. 454</small></sup>]</span>
 

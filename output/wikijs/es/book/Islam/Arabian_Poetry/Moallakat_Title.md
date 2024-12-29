@@ -47,9 +47,9 @@ QUE FUERON SUSPENDIDOS EN<br>
 <br>
 EL TEMPLO EN LA MECA.<br>
 <br>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+<hr>><br>
 <br>
-_TRADUCIDO, CON ARGUMENTOS_,<br>
+<em>>TRADUCIDO, CON ARGUMENTOS</em>,<br>
 <br>
 POR<br>
 <br>

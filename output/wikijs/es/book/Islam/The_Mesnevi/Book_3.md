@@ -1141,7 +1141,7 @@ Qué fatales son los desastres representados aquí arriba,
 
 [^107]: m41:2 En el Corán iv. 124, Abraham es llamado el _Amigo Elegido_ de Dios; y en xxi. 69, se menciona la historia de su salvación del fuego al que fue arrojado por Nimrod.
 
-[^108]: m43:1 Se imagina que la _Fuente de Vida_, o _Agua de Vida_, surge en una [tierra](errata.htm#2) de oscuridad más allá de los límites de la tierra habitada.
+[^108]: m43:1 Se imagina que la _Fuente de Vida_, o _Agua de Vida_, surge en una [tierra](./errata.htm#2) de oscuridad más allá de los límites de la tierra habitada.
 
 [^109]: m46:1 En el original no he encontrado posible sentirme seguro de dónde debe hacerse la ruptura con la amonestación a las reflexiones del poeta. Gran parte de lo que precede parece dirigido a Dios; pero la hipérbole oriental es amplia.
 

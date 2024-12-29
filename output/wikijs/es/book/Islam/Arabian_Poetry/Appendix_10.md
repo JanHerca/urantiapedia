@@ -32,7 +32,7 @@ dateCreated: 2024-11-24T18:21:59Z
   </table>
 </figure>
 
-Los hermosos versos elegíacos con los que se abre esta obra maestra de la poesía árabe antigua han sido comparados por el Dr. Carlyle con _Deserted Village_ de Goldsmith. «Pero el árabe», comenta Burton, «con igual sencillez y patetismo, tiene un fuego, una fuerza de lenguaje y una profundidad de sentimiento que el irlandés, por admirable que sea su verso, nunca podría rivalizar». ([_Pilgrimage_](errata.htm#2), vol. iii., pág. 54.) La traducción de Carlyle de estos versos, por muy inadecuada que pueda representar las bellezas del original, difícilmente puede dejar de complacer al lector inglés por la gracia y suavidad del ritmo:
+Los hermosos versos elegíacos con los que se abre esta obra maestra de la poesía árabe antigua han sido comparados por el Dr. Carlyle con _Deserted Village_ de Goldsmith. «Pero el árabe», comenta Burton, «con igual sencillez y patetismo, tiene un fuego, una fuerza de lenguaje y una profundidad de sentimiento que el irlandés, por admirable que sea su verso, nunca podría rivalizar». ([_Pilgrimage_](./errata.htm#2), vol. iii., pág. 54.) La traducción de Carlyle de estos versos, por muy inadecuada que pueda representar las bellezas del original, difícilmente puede dejar de complacer al lector inglés por la gracia y suavidad del ritmo:
 
 AQUELLAS queridas moradas que una vez contenían la feria
 &nbsp;&nbsp;En medio de las tierras salvajes de Mitata busco en vano;

@@ -36,7 +36,7 @@ dateCreated: 2024-11-25T21:10:31Z
 
 ## El primer capítulo del Corán
 
-En el nombre de Dios, que es abundante en misericordia y compasión. Alabado sea Dios, el Señor del universo, el más misericordioso y compasivo, el Soberano del día del juicio. Solo a Ti adoramos, y solo de Ti pedimos ayuda. Guíanos por el camino correcto, el camino de aquellos con quienes has sido clemente, no de aquellos con quienes estás enojado, ni de aquellos que se han extraviado. Amén. [1](arw05.htm#fn_3)
+En el nombre de Dios, que es abundante en misericordia y compasión. Alabado sea Dios, el Señor del universo, el más misericordioso y compasivo, el Soberano del día del juicio. Solo a Ti adoramos, y solo de Ti pedimos ayuda. Guíanos por el camino correcto, el camino de aquellos con quienes has sido clemente, no de aquellos con quienes estás enojado, ni de aquellos que se han extraviado. Amén. [1](./arw05.htm#fn_3)
 
 ## Arrepentimiento y la Misericordia Perdonadora de Dios
 

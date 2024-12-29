@@ -128,4 +128,4 @@ Tales, en resumen, fueron algunas de las características de aquellos pueblos an
 
 [^3]: xxviii:\* La _Treuga Dei_, o Tregua de Dios, fue adoptada alrededor del año 1032, como consecuencia de una supuesta revelación de un obispo de Aquitania. Fue publicada en tiempos de una calamidad general; y causó una impresión tan profunda en las mentes de los hombres, que se observó un cese general de las hostilidades privadas, según se nos dice, durante siete años; y se tomó una resolución de que en el futuro nadie molestaría a su adversario desde el jueves por la tarde hasta el lunes por la mañana. La _Pax Regis_, o Tregua Real, fue una ordenanza de Luis VIII, Rey de Francia, en el año 1245 d. C.; por la cual se prohibía a los amigos o vasallos de una persona asesinada o herida comenzar hostilidades hasta cuarenta días después de la comisión de la ofensa.—_Richardson_.
 
-[^4]: xxviii:† Véase Epítome del romance de Antar, en el presente volumen—pp. [244](Antar_24#p244) y [249](Antar_24#p249).
+[^4]: xxviii:† Véase Epítome del romance de Antar, en el presente volumen—pp. [244](./Antar_24#p244) y [249](./Antar_24#p249).

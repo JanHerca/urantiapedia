@@ -86,7 +86,7 @@ Como dátiles agrupados entre la sombra de las palmeras.—R. R.
 
 <span id="p375">[<sup><small>p. 375</small></sup>]</span>
 
-v. 33. «Su cabello, como racimos de dátiles agrupados en la palmera»—una comparación favorita de los antiguos poetas de Arabia; también la de las trenzas de una linda muchacha con las ramas de la vid: véanse los versos del Romance de Antar, [p. 191](Antar_3#p191) del presente volumen.
+v. 33. «Su cabello, como racimos de dátiles agrupados en la palmera»—una comparación favorita de los antiguos poetas de Arabia; también la de las trenzas de una linda muchacha con las ramas de la vid: véanse los versos del Romance de Antar, [p. 191](./Antar_3#p191) del presente volumen.
 
 v. 56. «Como la alheña sobre los cabellos grises y sueltos»—véase v. 15 del Poema del manto de El-Būsīrī, donde el poeta dice que si hubiera sabido que sus cabellos grises le reprocharían, los habría teñido con pastel.—Las hojas del árbol de la alheña (Lawsonia inermis, también llamado aligustre egipcio) son utilizadas por las mujeres de El Cairo para teñir ciertas partes de las manos y los pies.—Lane_.
 

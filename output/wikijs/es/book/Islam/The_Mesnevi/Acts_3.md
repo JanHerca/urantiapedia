@@ -1296,7 +1296,7 @@ El príncipe le habló de Bahā Veled, ahora jeque de la ciudad y santo incompar
 
 [^15]: 60:1 El monte donde las víctimas son sacrificadas por los peregrinos.
 
-[^16]: 64:1 El gran poeta persa Khāqānī, [nacido](errata.htm#1) en Shirwān, murió y fue enterrado en Tebrīz a.h. 582 (d.C. 1186).
+[^16]: 64:1 El gran poeta persa Khāqānī, [nacido](./errata.htm#1) en Shirwān, murió y fue enterrado en Tebrīz a.h. 582 (d.C. 1186).
 
 [^17]: 64:2 Sanā’ī, de Gazna en Afganistán, apodado «el Sabio» o «el Filósofo», murió y fue enterrado en el lugar de su nacimiento, en el año 576 a.h. (1180 d.c.).
 

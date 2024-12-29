@@ -108,9 +108,9 @@ v. 64. «El vapor sofocante del mediodía aumentó su magnitud»: _es decir_, el
 
 v. 77. «Una estación primaveral de beneficencia en cada año estéril»: véase v. 88, Mo‘all de Lebīd. y _Nota_.
 
-V. 79. Amrio’l Kais era el nombre de varios de los príncipes de Hīra, que estaban bajo la protección de los reyes de Persia, cuyos lugartenientes eran sobre los árabes de ’Irāk. No aparece de la lista del Dr. Pocock cuál es el que se menciona aquí. El reino de Hira fue fundado por Malek, un descendiente de Cahlan, hijo del famoso ’Abd-Shems, de sobrenombre Saba, príncipe de El-Yemen: véase la nota sobre el v. 14 del «Lay of the Himyarites», [p. 352](Apéndice_3#p352).
+V. 79. Amrio’l Kais era el nombre de varios de los príncipes de Hīra, que estaban bajo la protección de los reyes de Persia, cuyos lugartenientes eran sobre los árabes de ’Irāk. No aparece de la lista del Dr. Pocock cuál es el que se menciona aquí. El reino de Hira fue fundado por Malek, un descendiente de Cahlan, hijo del famoso ’Abd-Shems, de sobrenombre Saba, príncipe de El-Yemen: véase la nota sobre el v. 14 del «Lay of the Himyarites», [p. 352](./Apéndice_3#p352).
 
-v. 80. Mondir, rey de Ghassan. El reino de Ghassan, como el de Hīra, debe su origen a la inundación de El-Arem (véase nota, v. 14, [p. 352](Apéndice_3#p352). El-Mondar, o Mundhir, era el nombre general de los príncipes de este reino, también de los de Hira. Los reyes de Ghassan eran los lugartenientes de los emperadores romanos sobre los árabes de Siria. Quizás el príncipe mencionado aquí sea el número 27 del catálogo del Dr. Pocock.
+v. 80. Mondir, rey de Ghassan. El reino de Ghassan, como el de Hīra, debe su origen a la inundación de El-Arem (véase nota, v. 14, [p. 352](./Apéndice_3#p352). El-Mondar, o Mundhir, era el nombre general de los príncipes de este reino, también de los de Hira. Los reyes de Ghassan eran los lugartenientes de los emperadores romanos sobre los árabes de Siria. Quizás el príncipe mencionado aquí sea el número 27 del catálogo del Dr. Pocock.
 
 v. 82. Los hijos de Aus: una tribu descendiente de Cahlan, hijo de 'Abd-Shems de Yemen.
 

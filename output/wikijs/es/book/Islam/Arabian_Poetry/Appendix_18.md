@@ -31,7 +31,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 <span id="p468">[<sup><small>p. 468</small></sup>]</span>
 
-\[Al comparar la siguiente traducción del famoso poema de Et-Tugrā‘ī, que el Sr. Redhouse amablemente hizo para este volumen, con la versión del Dr. Carlyle (pp. [153](Shorter_Pieces#p153)\-[161](Shorter_Pieces#p161)), se observará que, en algunos casos, el verdadero significado del original se pierde en la versión métrica. Algunos detalles sobre el autor, etc., se dan en las pp. [433](Appendix_14#p433)\-[435](Appendix_14#p435).\]
+\[Al comparar la siguiente traducción del famoso poema de Et-Tugrā‘ī, que el Sr. Redhouse amablemente hizo para este volumen, con la versión del Dr. Carlyle (pp. [153](./Shorter_Pieces#p153)\-[161](./Shorter_Pieces#p161)), se observará que, en algunos casos, el verdadero significado del original se pierde en la versión métrica. Algunos detalles sobre el autor, etc., se dan en las pp. [433](./Appendix_14#p433)\-[435](./Appendix_14#p435).\]
 
 La firmeza de la visión me ha protegido de la precipitación; y el adorno de la excelencia me ha embellecido cuando carecía de baratijas.
 

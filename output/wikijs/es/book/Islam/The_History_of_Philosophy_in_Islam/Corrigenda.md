@@ -34,11 +34,11 @@ dateCreated: 2024-11-25T9:7:31Z
 
 <span id="pxiv">[<sup><small>p. xiv</small></sup>]</span>
 
-Página [5](hpi05.htm#p5); 3ra última línea: Como última palabra, lea _y_.
+Página [5](./hpi05.htm#p5); 3ra última línea: Como última palabra, lea _y_.
 
-» [144](hpi17.htm#p144); 8º » »: Para _abone_, lea _arriba_.
+» [144](./hpi17.htm#p144); 8º » »: Para _abone_, lea _arriba_.
 
-» [186](hpi23.htm#p186); 2do » »: » _otorga_ » _paga_.
+» [186](./hpi23.htm#p186); 2do » »: » _otorga_ » _paga_.
 
 <figure class="table chapter-navigator">
   <table>

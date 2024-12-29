@@ -103,4 +103,4 @@ EDIMBURGO Y LONDRES.
 
 ## Notas al pie
 
-[^432]: m289:1 La «[_cauda_](errata.htm#3) _draconis_» era el «nodo descendente», uno de los puntos de la eclíptica. Se considera que el «fruto prohibido» en el Islam era el trigo.
+[^432]: m289:1 La «[_cauda_](./errata.htm#3) _draconis_» era el «nodo descendente», uno de los puntos de la eclíptica. Se considera que el «fruto prohibido» en el Islam era el trigo.

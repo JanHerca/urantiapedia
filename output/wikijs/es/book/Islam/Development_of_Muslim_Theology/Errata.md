@@ -32,23 +32,23 @@ dateCreated: 2024-11-26T20:22:12Z
   </table>
 </figure>
 
-Página [30](1_1#p30), línea 5, para al-Mukanna lea al-Muqanna.
+Página [30](./1_1#p30), línea 5, para al-Mukanna lea al-Muqanna.
 
-“[86](2_1#p86), l. 19, en lugar de primer Califa léase segundo Califa.
+“[86](./2_1#p86), l. 19, en lugar de primer Califa léase segundo Califa.
 
-“ [201](3_3#p201), 1. 26, para _tasalsal_ léase _tasalsal_.
+“ [201](./3_3#p201), 1. 26, para _tasalsal_ léase _tasalsal_.
 
-“[237](3_4#p237), para Mansell léase Mansel.
+“[237](./3_4#p237), para Mansell léase Mansel.
 
-“ [267](3_6#p267), l. 30, para Haqqari léase Hakkari.
+“ [267](./3_6#p267), l. 30, para Haqqari léase Hakkari.
 
-“ [299](Appendix1_3#p299), l. 10, en lugar de _Mushriqs_ léase _Mushriks_.
+“ [299](./Appendix1_3#p299), l. 10, en lugar de _Mushriqs_ léase _Mushriks_.
 
-“ [300](Appendix1_4#p300), l. 4, para kalimatan ash-shahada léase kalimata-sh-shahada.
+“ [300](./Appendix1_4#p300), l. 4, para kalimatan ash-shahada léase kalimata-sh-shahada.
 
-“ [325](Appendix1_6#p325), l. 23, en lugar de _wihdaniya_ léase _wahdaniya_.
+“ [325](./Appendix1_6#p325), l. 23, en lugar de _wihdaniya_ léase _wahdaniya_.
 
-“ [339](Appendix1_6#p339), I. 11, para _ihtiyaz_ léase _ihtiyaj_.
+“ [339](./Appendix1_6#p339), I. 11, para _ihtiyaz_ léase _ihtiyaj_.
 
 <figure class="table chapter-navigator">
   <table>

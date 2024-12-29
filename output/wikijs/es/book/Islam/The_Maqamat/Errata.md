@@ -34,33 +34,33 @@ dateCreated: 2024-11-25T21:24:44Z
 
 <span id="pix">[<sup><small>p. ix</small></sup>]</span>
 
-Página [13](Introducton_3#p13), nota, _para_ Lyden _léase_ Leyden.
+Página [13](./Introducton_3#p13), nota, _para_ Lyden _léase_ Leyden.
 
-” [14](Introducton_3#p14), línea 15 ” … ” ….
+” [14](./Introducton_3#p14), línea 15 ” … ” ….
 
-” [26](1#p26), nota ” ḥamúthá. ” hánúthá.
+” [26](./1#p26), nota ” ḥamúthá. ” hánúthá.
 
-” [30](1#p30) ” 5 ” ilusión ” alusión.
+” [30](./1#p30) ” 5 ” ilusión ” alusión.
 
-” [33](3#p33) ” 4 ” … ” ….
+” [33](./3#p33) ” 4 ” … ” ….
 
-” [47](7#p47) ” 2 ” informó ” replicó.
+” [47](./7#p47) ” 2 ” informó ” replicó.
 
 ” ” ” 3 ” sátira ” satirizar.
 
-” [48](7#p48), línea 9 ” de ” apagado.
+” [48](./7#p48), línea 9 ” de ” apagado.
 
-” [51](8#p51) ” 19 ” … ” ….
+” [51](./8#p51) ” 19 ” … ” ….
 
-” [52](8#p52), nota «ilusión» alusión.
+” [52](./8#p52), nota «ilusión» alusión.
 
-” [82](19#p82), línea 7 ” curso ” grueso.
+” [82](./19#p82), línea 7 ” curso ” grueso.
 
-” [90](22#p90), nota ” … ” ….
+” [90](./22#p90), nota ” … ” ….
 
-” [131](32#p131), línea 14 ” eligió ” elegir.
+” [131](./32#p131), línea 14 ” eligió ” elegir.
 
-” [137](34#p137), nota ” fechas ” figs.
+” [137](./34#p137), nota ” fechas ” figs.
 
 <figure class="table chapter-navigator">
   <table>

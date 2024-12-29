@@ -34,7 +34,7 @@ dateCreated: 2024-11-24T18:21:59Z
 
 \*\*\* El erudito Von Hammer-Purgstall dice que la Mo‘allaqah de Antara está contenida dos veces en las copias completas del Romance de Antar: una vez en fragmentos, cuando el héroe los recita improvisadamente en diversas ocasiones en el ardor del momento, en alabanza de su amada Abla, de su caballo incomparable, de su irresistible espada y lanza, etc.; y otra vez con ocasión del concurso poético ante la asamblea de las tribus en Okātz, cuando el poeta unió las perlas hasta entonces dispersas de su genio con un hilo de oro y las suspendió en el Ka‘beh.
 
-vv. 1, 2. La versión de Hamilton de los versos iniciales del Mo‘allaqah de Antara se da en la página [264](Antar_32#p264) del presente volumen. Así es como el Profesor E. H. Palmer los ha convertido en verso inglés, en su traducción titulada «Un antiguo poema árabe premiado»:
+vv. 1, 2. La versión de Hamilton de los versos iniciales del Mo‘allaqah de Antara se da en la página [264](./Antar_32#p264) del presente volumen. Así es como el Profesor E. H. Palmer los ha convertido en verso inglés, en su traducción titulada «Un antiguo poema árabe premiado»:
 
 ¿Tienen entonces los poetas? ¿Dejó un tema sin cantar?
 ¿Reconoces entonces la morada de tu amor?
@@ -100,7 +100,7 @@ Y quien lo quiera, su cordero será.
 Su cuello es más hermoso que el del gracioso cervatillo,
 Su forma es más hermosa que la de la joven gacela!
 
-Según la interpretación de Sir William Jones, la muchacha simplemente informa a Antara que encontró «a los guardias hostiles negligentes en su vigilancia», y que por lo tanto la dama podría ser visitada fácilmente; y debemos suponer que Antara, al enterarse de que «la costa estaba despejada», por así decirlo, procedió de inmediato a visitar a la dama, quien, al verlo, «se volvió hacia él con el cuello de un corzo joven». El Sr. Redhouse piensa que «las posiciones variantes que ocupan estos versos en diferentes ediciones hacen casi imposible juzgar si su novia se volvió hacia Antara o hacia la doncella enviada. Las palabras se leen como si la doncella se volviera hacia Antara; pero ese no es el sentido probable». El petimetre beduino Amarah, en el Romance de Antar, envía a una esclava en un recado similar: traerle un relato de los encantos personales de Abla: véase la página [209](Antar_13#p209) del presente volumen.
+Según la interpretación de Sir William Jones, la muchacha simplemente informa a Antara que encontró «a los guardias hostiles negligentes en su vigilancia», y que por lo tanto la dama podría ser visitada fácilmente; y debemos suponer que Antara, al enterarse de que «la costa estaba despejada», por así decirlo, procedió de inmediato a visitar a la dama, quien, al verlo, «se volvió hacia él con el cuello de un corzo joven». El Sr. Redhouse piensa que «las posiciones variantes que ocupan estos versos en diferentes ediciones hacen casi imposible juzgar si su novia se volvió hacia Antara o hacia la doncella enviada. Las palabras se leen como si la doncella se volviera hacia Antara; pero ese no es el sentido probable». El petimetre beduino Amarah, en el Romance de Antar, envía a una esclava en un recado similar: traerle un relato de los encantos personales de Abla: véase la página [209](./Antar_13#p209) del presente volumen.
 
 <span id="p395">[<sup><small>p. 395</small></sup>]</span>
 

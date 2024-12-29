@@ -60,7 +60,7 @@ G. FLÜGEL: _Al-Kindi genannt «der Philosoph der Araber». Ein Vorbild cerquero
 
 SIR WILLIAM MUIR: La Apología de al-Kindy, escrita en la corte de al-Mâmûn. Londres, 1882.
 
-E. SELL: _La fe del Islam_. Londres, 1896. II [edición](errata.htm#9). Un libro valioso, pero desde el punto de vista de un misionero indio. De ahí que el tono sea polémico y los tecnicismos sean persas más que árabes.
+E. SELL: _La fe del Islam_. Londres, 1896. II [edición](./errata.htm#9). Un libro valioso, pero desde el punto de vista de un misionero indio. De ahí que el tono sea polémico y los tecnicismos sean persas más que árabes.
 
 WALTER M. PATTEN: _Ahmad ibn Hanbal y los Mihna_. Leyden, 1897. Hay una valiosa reseña de Goldziher en ZDMG. lii, pp. 155 y siguientes. En ella se traza la conexión de los hanbalitas con Ibn Taymiya y los wahabitas.
 
