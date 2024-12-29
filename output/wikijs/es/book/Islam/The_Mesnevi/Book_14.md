@@ -248,16 +248,16 @@ Son más exaltados que los cielos y lo que está más allá;
 
 ## Notas al pie
 
-[^369]: m248:1 Corán vi. 32; xxxx. 64; xxx. 6; xlvii. 38; lvii. 19.
+[^368]: m248:1 Corán vi. 32; xxxx. 64; xxx. 6; xlvii. 38; lvii. 19.
 
-[^370]: m249:1 Corán lxx. 4.
+[^369]: m249:1 Corán lxx. 4.
 
-[^371]: m249:2 Corán x. 37.
+[^370]: m249:2 Corán x. 37.
 
-[^372]: m249:3 Corán lxii. 5.
+[^371]: m249:3 Corán lxii. 5.
 
-[^373]: m251:1 Véase, en el propio prefacio del autor, su mención elogiosa de Sheykh Husāmu-’d-Dīn, p. [iii](/es/book/Islam/The_Mesnevi/Book_Preface#piii)., donde también se da este dicho.
+[^372]: m251:1 Véase, en el propio prefacio del autor, su mención elogiosa de Sheykh Husāmu-’d-Dīn, p. [iii](/es/book/Islam/The_Mesnevi/Book_Preface#piii)., donde también se da este dicho.
 
-[^374]: m251:2 Por «romano», en Oriente, se entiende lo que los europeos llaman incorrectamente «griego». Desde la época de Alejandro de Macedonia, no han existido «griegos». Su recuerdo se ha perdido en Asia, y al propio Alejandro se le llama allí «_el romano_».
+[^373]: m251:2 Por «romano», en Oriente, se entiende lo que los europeos llaman incorrectamente «griego». Desde la época de Alejandro de Macedonia, no han existido «griegos». Su recuerdo se ha perdido en Asia, y al propio Alejandro se le llama allí «_el romano_».
 
-[^375]: m253:1 Comúnmente, en el Islam, se informa, menciona y cree en ocho paraísos, o, propiamente, ocho mansiones del Paraíso. Baydhāvī, en el Corán ii. 23, da solo siete, y uno de ellos es incorrecto. Guiado por él, sin embargo, he corregido esto y verificado los otros, además de encontrar el octavo. Sus nombres, entonces, son los siguientes: 1. Jennatu-’l-Khuld_, el Paraíso (jardín) de Duración Eterna; 2. Jennatu ‘Aden_, el Jardín del Edén; 3. Jennatu-’l-Firdaws_, el Jardín del Paraíso; 4. Jennatu-’l-Me’và_, el Jardín de la Morada; 5. Jennatu-’n-Na‘īm_, el Paraíso de la Agradabilidad; 6. _Dāru-’s-Selām_, el Hogar de la Seguridad; 7. _Dāru-’l-Maqāma_, la Casa de la Estancia; 8. _‘Illiyūn_, las Sublimes Alturas. Baydhāvī tiene _Dāru-’l-Khuld_ en lugar de _Jennatu-’l-Khuld;_ pero ese es uno de los nombres del Infierno, como aparece en el Corán xli. 28. También hay un _Dāru-’l-Qarār_, Hogar de la Permanencia, mencionado en el Corán xli. 42; pero se aplica al Infierno y al Cielo, al igual que el _Dāru-’l-Baqā_, Hogar de la Duración, de uso común, pero que no se encuentra en el Corán.
+[^374]: m253:1 Comúnmente, en el Islam, se informa, menciona y cree en ocho paraísos, o, propiamente, ocho mansiones del Paraíso. Baydhāvī, en el Corán ii. 23, da solo siete, y uno de ellos es incorrecto. Guiado por él, sin embargo, he corregido esto y verificado los otros, además de encontrar el octavo. Sus nombres, entonces, son los siguientes: 1. Jennatu-’l-Khuld_, el Paraíso (jardín) de Duración Eterna; 2. Jennatu ‘Aden_, el Jardín del Edén; 3. Jennatu-’l-Firdaws_, el Jardín del Paraíso; 4. Jennatu-’l-Me’và_, el Jardín de la Morada; 5. Jennatu-’n-Na‘īm_, el Paraíso de la Agradabilidad; 6. _Dāru-’s-Selām_, el Hogar de la Seguridad; 7. _Dāru-’l-Maqāma_, la Casa de la Estancia; 8. _‘Illiyūn_, las Sublimes Alturas. Baydhāvī tiene _Dāru-’l-Khuld_ en lugar de _Jennatu-’l-Khuld;_ pero ese es uno de los nombres del Infierno, como aparece en el Corán xli. 28. También hay un _Dāru-’l-Qarār_, Hogar de la Permanencia, mencionado en el Corán xli. 42; pero se aplica al Infierno y al Cielo, al igual que el _Dāru-’l-Baqā_, Hogar de la Duración, de uso común, pero que no se encuentra en el Corán.

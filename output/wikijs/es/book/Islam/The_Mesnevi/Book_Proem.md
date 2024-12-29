@@ -148,8 +148,8 @@ Tal es mi caso; cantado demasiado bien.
 
 ## Notas al pie
 
-[^55]: m1:1 La flauta de caña es el instrumento musical sagrado de los derviches Mevlevī, comúnmente conocidos como los derviches danzantes, por su peculiar vals religioso al son de la flauta de caña, etc., con los brazos extendidos y la cabeza inclinada, en sus servicios públicos especiales de conmemoración. Aman la flauta de caña como símbolo de un amante ausente que suspira.
+[^54]: m1:1 La flauta de caña es el instrumento musical sagrado de los derviches Mevlevī, comúnmente conocidos como los derviches danzantes, por su peculiar vals religioso al son de la flauta de caña, etc., con los brazos extendidos y la cabeza inclinada, en sus servicios públicos especiales de conmemoración. Aman la flauta de caña como símbolo de un amante ausente que suspira.
 
-[^56]: m2:1 Existe una noción poética oriental según la cual las gotas de rocío o de lluvia que caen en las ostras forman perlas en una determinada estación.
+[^55]: m2:1 Existe una noción poética oriental según la cual las gotas de rocío o de lluvia que caen en las ostras forman perlas en una determinada estación.
 
-[^57]: m3:1 Corán vii. 139, donde están las palabras: «Y Moisés cayó, desmayado».
+[^56]: m3:1 Corán vii. 139, donde están las palabras: «Y Moisés cayó, desmayado».

@@ -1617,7 +1617,7 @@ Hasta que todo su antiguo secreto se amplíe.
 Suficiente—El resumen escrito cierro,
 Y pongo mi sello:
 
-     La Verdad Sólo Dios la Sabe.
+&nbsp;&nbsp;&nbsp;La Verdad Sólo Dios la Sabe.
 
 <figure class="table chapter-navigator">
   <table>

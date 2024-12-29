@@ -492,52 +492,52 @@ Te enseñaré muchas lecciones que pueden mejorar tu moral.
 
 ## Notas al pie
 
-[^178]: m101:1 El Corán ii. 22 y lxvi. 6, dicen «la humanidad y las rocas».
+[^177]: m101:1 El Corán ii. 22 y lxvi. 6, dicen «la humanidad y las rocas».
 
-[^179]: m101:2 Otra palabra acuñada para cumplir con los requisitos del original. «_Ubiquity_» es el inverso de «_nubiquity_». Se podría utilizar _Nulliquity_.
+[^178]: m101:2 Otra palabra acuñada para cumplir con los requisitos del original. «_Ubiquity_» es el inverso de «_nubiquity_». Se podría utilizar _Nulliquity_.
 
-[^180]: m101:3 Corán ii. 111, y siete otros lugares.
+[^179]: m101:3 Corán ii. 111, y siete otros lugares.
 
-[^181]: m102:1 «_César_» es el Rory, n Emperador, el Qaysari-Rūm. No hay otro Qaysar.
+[^180]: m102:1 «_César_» es el Rory, n Emperador, el Qaysari-Rūm. No hay otro Qaysar.
 
-[^182]: m102:2 Escribir este nombre Omar es incorrecto.
+[^181]: m102:2 Escribir este nombre Omar es incorrecto.
 
-[^183]: m102:3 Medina es la ortografía incorrecta habitual de este nombre.
+[^182]: m102:3 Medina es la ortografía incorrecta habitual de este nombre.
 
-[^184]: m102:4 El título árabe es Khalīfa; del cual Califa es una corrupción.
+[^183]: m102:4 El título árabe es Khalīfa; del cual Califa es una corrupción.
 
-[^185]: m102:5 «_Comandante de los Creyentes_» es su título habitual. «Roma» es el Bajo Imperio.
+[^184]: m102:5 «_Comandante de los Creyentes_» es su título habitual. «Roma» es el Bajo Imperio.
 
-[^186]: m103:1 Se cree que el corazón de Mahoma fue limpiado por un ángel.
+[^185]: m103:1 Se cree que el corazón de Mahoma fue limpiado por un ángel.
 
-[^187]: m103:2 «El rostro de Dios» significa también, en árabe, _la causa de Dios_.
+[^186]: m103:2 «El rostro de Dios» significa también, en árabe, _la causa de Dios_.
 
-[^188]: m103:3 Dios es este «sol»; las «motas» son todos objetos creados.
+[^187]: m103:3 Dios es este «sol»; las «motas» son todos objetos creados.
 
-[^189]: m103:4 El «Amigo» es Dios, el «_querido_» del gnóstico.
+[^188]: m103:4 El «Amigo» es Dios, el «_querido_» del gnóstico.
 
-[^190]: m103:5 «Roma» en Asia significa el Bajo Imperio y Asia Menor; o, durante los últimos siglos, el Imperio Otomano.
+[^189]: m103:5 «Roma» en Asia significa el Bajo Imperio y Asia Menor; o, durante los últimos siglos, el Imperio Otomano.
 
-[^191]: m104:1 «Sombra de Dios en la tierra» es un título oriental de realeza.
+[^190]: m104:1 «Sombra de Dios en la tierra» es un título oriental de realeza.
 
-[^192]: m105:1 Estas dos proposiciones dan la esencia de la doctrina sostenida e inculcada por los místicos y espiritualistas del Islam: «_Él es el novio; Dios es la novia_».
+[^191]: m105:1 Estas dos proposiciones dan la esencia de la doctrina sostenida e inculcada por los místicos y espiritualistas del Islam: «_Él es el novio; Dios es la novia_».
 
-[^193]: m107:1 Este Primer Libro del Mesnevī fue escrito antes del Būstān de Sa‘dī. El mito de la gota de rocío y la perla es mucho más antiguo.
+[^192]: m107:1 Este Primer Libro del Mesnevī fue escrito antes del Būstān de Sa‘dī. El mito de la gota de rocío y la perla es mucho más antiguo.
 
-[^194]: m108:1 La fecha del poema será recordada; ¿Quién desconfió de la alquimia entonces?
+[^193]: m108:1 La fecha del poema será recordada; ¿Quién desconfió de la alquimia entonces?
 
-[^195]: m108:2 Aquí hay una hermosa y verdadera aplicación de la idea de «_transubstanciación_».
+[^194]: m108:2 Aquí hay una hermosa y verdadera aplicación de la idea de «_transubstanciación_».
 
-[^196]: m108:3 El original menciona a Ferhād, una especie de Dédalo persa, por su título de «Excavador de Montañas». (Véase Cuento vii. dist. 365.)
+[^195]: m108:3 El original menciona a Ferhād, una especie de Dédalo persa, por su título de «Excavador de Montañas». (Véase Cuento vii. dist. 365.)
 
-[^197]: m108:4 Corán liv. 1.
+[^196]: m108:4 Corán liv. 1.
 
-[^198]: m109:1 Corán vii. 15, y xv. 39. En la caída, Satanás acusó a Dios de tentarlo; mientras que Adán confesó su pecado y no acusó a Satanás.
+[^197]: m109:1 Corán vii. 15, y xv. 39. En la caída, Satanás acusó a Dios de tentarlo; mientras que Adán confesó su pecado y no acusó a Satanás.
 
-[^199]: m109:2 Corán vii. 22.
+[^198]: m109:2 Corán vii. 22.
 
-[^200]: m109:3 Corán xxiv. 26.
+[^199]: m109:3 Corán xxiv. 26.
 
-[^201]: m110:1 ’Bū se utiliza a menudo como una contracción de Abū. Abū-Jahl (_Padre de la Ignorancia_) era un apodo (véase Tale iv. dist. 48, nota) dado por Mahoma a ’Amr, hijo de Hishām, un jefe de los Quraysh, su acérrimo enemigo, anteriormente llamado Abū-’l-Hakem (_Padre del Arbitrador_). Fue asesinado, pagano, en la batalla de Bedr, en el segundo año de la Hégira, 624 d.C.
+[^200]: m110:1 ’Bū se utiliza a menudo como una contracción de Abū. Abū-Jahl (_Padre de la Ignorancia_) era un apodo (véase Tale iv. dist. 48, nota) dado por Mahoma a ’Amr, hijo de Hishām, un jefe de los Quraysh, su acérrimo enemigo, anteriormente llamado Abū-’l-Hakem (_Padre del Arbitrador_). Fue asesinado, pagano, en la batalla de Bedr, en el segundo año de la Hégira, 624 d.C.
 
-[^202]: m111:1 La palabra traducida aquí como «explicación» significa también _información_, y _uso_, _ventaja_, _beneficio_, _utilidad_, etc.
+[^201]: m111:1 La palabra traducida aquí como «explicación» significa también _información_, y _uso_, _ventaja_, _beneficio_, _utilidad_, etc.

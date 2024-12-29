@@ -583,26 +583,26 @@ Los hombres juzgan lo que ven por lo que piensan.
 
 ## Notas al pie
 
-[^58]: m4:1 En el Islam una persona libre no puede ser comprada ni vendida legalmente.
+[^57]: m4:1 En el Islam una persona libre no puede ser comprada ni vendida legalmente.
 
-[^59]: m5:1 A modo de hipérbole, un médico inteligente siempre es comparado con Jesús, en sus poderes curativos milagrosos, por los musulmanes.
+[^58]: m5:1 A modo de hipérbole, un médico inteligente siempre es comparado con Jesús, en sus poderes curativos milagrosos, por los musulmanes.
 
-[^60]: m5:2 El Corán xviii. 23 enseña: «No digas: ‘Haré esto y aquello’, a menos que (añadas): ‘Si Dios quiere’».
+[^59]: m5:2 El Corán xviii. 23 enseña: «No digas: ‘Haré esto y aquello’, a menos que (añadas): ‘Si Dios quiere’».
 
-[^61]: m5:3 El servicio divino en el Islam es enteramente adoración y alabanza. Es erróneo hablar de los musulmanes diciendo sus oraciones. La alabanza, elogio y gloria es lo que están obligados a ofrecer. La oración es voluntaria; y está prohibida, a menos que sea en alguna forma debidamente autorizada como una colecta.
+[^60]: m5:3 El servicio divino en el Islam es enteramente adoración y alabanza. Es erróneo hablar de los musulmanes diciendo sus oraciones. La alabanza, elogio y gloria es lo que están obligados a ofrecer. La oración es voluntaria; y está prohibida, a menos que sea en alguna forma debidamente autorizada como una colecta.
 
-[^62]: m7:1 Corán ii. 58.
+[^61]: m7:1 Corán ii. 58.
 
-[^63]: m7:2 Corán ii. 114.
+[^62]: m7:2 Corán ii. 114.
 
-[^64]: m10:1 La palabra «sūfī», usada en el original, es probablemente la griega σοφόι pero se explica como que significa, literalmente; «_vestido de lana_», de «sūf», _lana_. Metafóricamente, en el uso común, significa: _un hombre piadoso_.
+[^63]: m10:1 La palabra «sūfī», usada en el original, es probablemente la griega σοφόι pero se explica como que significa, literalmente; «_vestido de lana_», de «sūf», _lana_. Metafóricamente, en el uso común, significa: _un hombre piadoso_.
 
-[^65]: m11:1 Se refiere al santo jeque Shemsu-’d-Dīn, de Tebrīz, que fue amigo del autor durante muchos años, visitando Qonya a intervalos, donde fue condenado a muerte (¿en el año 1262 d. C.?). Véase las «Anécdotas», cap. iv; especialmente el n.° 17.
+[^64]: m11:1 Se refiere al santo jeque Shemsu-’d-Dīn, de Tebrīz, que fue amigo del autor durante muchos años, visitando Qonya a intervalos, donde fue condenado a muerte (¿en el año 1262 d. C.?). Véase las «Anécdotas», cap. iv; especialmente el n.° 17.
 
-[^66]: m13:1 En tiempos pasados se creía generalmente que las gemas y los metales crecían y maduraban en sus minas.
+[^65]: m13:1 En tiempos pasados se creía generalmente que las gemas y los metales crecían y maduraban en sus minas.
 
-[^67]: m16:1 La historia está en el Corán xviii. 73. El ángel estaba disfrazado de sirviente de Moisés. El pasaje dice: «Y los dos prosiguieron hasta que encontraron a un muchacho; y él lo mató».
+[^66]: m16:1 La historia está en el Corán xviii. 73. El ángel estaba disfrazado de sirviente de Moisés. El pasaje dice: «Y los dos prosiguieron hasta que encontraron a un muchacho; y él lo mató».
 
-[^68]: m16:2 Entre los musulmanes, Ismael debía haber sido sacrificado; no Isaac. El Corán xxxvii. 98-111, relata la historia, pero no le da nombre al «niño». Los comentaristas lo proporcionan, por tradición.
+[^67]: m16:2 Entre los musulmanes, Ismael debía haber sido sacrificado; no Isaac. El Corán xxxvii. 98-111, relata la historia, pero no le da nombre al «niño». Los comentaristas lo proporcionan, por tradición.
 
-[^69]: m17:1 Continuación de la historia del Corán xviii. 70. Algunos comentaristas hacen de Elías el sirviente de Moisés en esa ocasión. Hay un relato en uno de los ensayistas del siglo pasado, el «Spectator», si mal no recuerdo, que narra estas dos aventuras y otras; el ángel finalmente explica a su compañero las causas secretas de todas sus acciones.
+[^68]: m17:1 Continuación de la historia del Corán xviii. 70. Algunos comentaristas hacen de Elías el sirviente de Moisés en esa ocasión. Hay un relato en uno de los ensayistas del siglo pasado, el «Spectator», si mal no recuerdo, que narra estas dos aventuras y otras; el ángel finalmente explica a su compañero las causas secretas de todas sus acciones.

@@ -1083,84 +1083,84 @@ Qué fatales son los desastres representados aquí arriba,
 
 ## Notas al pie
 
-[^80]: m25:1 ¿A quiénes se refiere este judío bizco? ¿rey y su abnegado y traidor Vazīr?
+[^79]: m25:1 ¿A quiénes se refiere este judío bizco? ¿rey y su abnegado y traidor Vazīr?
 
-[^81]: m25:2 Es una creencia común en Oriente que las personas bizcas ven doble.
+[^80]: m25:2 Es una creencia común en Oriente que las personas bizcas ven doble.
 
-[^82]: m27:1 Se esconden agujas o alfileres en el pan que se le da a un perro u otra bestia para destruirlo.
+[^81]: m27:1 Se esconden agujas o alfileres en el pan que se le da a un perro u otra bestia para destruirlo.
 
-[^83]: m27:2 La cuerda que usan los monjes, como el cordón sagrado de los brahmanes, se supone que los musulmanes deben usarla todos los cristianos.
+[^82]: m27:2 La cuerda que usan los monjes, como el cordón sagrado de los brahmanes, se supone que los musulmanes deben usarla todos los cristianos.
 
-[^84]: m29:1 Mahoma.
+[^83]: m29:1 Mahoma.
 
-[^85]: m29:2 En tiempos de peligro inmediato durante la guerra, se ordena el «Servicio del Miedo» en lugar de la forma habitual de adoración.
+[^84]: m29:2 En tiempos de peligro inmediato durante la guerra, se ordena el «Servicio del Miedo» en lugar de la forma habitual de adoración.
 
-[^86]: m29:3 En visiones.
+[^85]: m29:3 En visiones.
 
-[^87]: m30:1 La palabra original, _conversant_, como nuestro «Adept» e «_Illuminato_», es aplicada por los místicos a sí mismos. Es un rastro del antiguo gnosticismo.
+[^86]: m30:1 La palabra original, _conversant_, como nuestro «Adept» e «_Illuminato_», es aplicada por los místicos a sí mismos. Es un rastro del antiguo gnosticismo.
 
-[^88]: m30:2 Al estar dado en persa, no puedo citar capítulo y versículo del original árabe.
+[^87]: m30:2 Al estar dado en persa, no puedo citar capítulo y versículo del original árabe.
 
-[^89]: m30:3 Como los lunáticos, se supone que no prestan atención a todo lo que los rodea.
+[^88]: m30:3 Como los lunáticos, se supone que no prestan atención a todo lo que los rodea.
 
-[^90]: m30:4 _El sueño es hermano de la muerte_ es un antiguo proverbio árabe.
+[^89]: m30:4 _El sueño es hermano de la muerte_ es un antiguo proverbio árabe.
 
-[^91]: m31:1 Los Siete Durmientes; mencionado en el Corán xviii. 8-25.
+[^90]: m31:1 Los Siete Durmientes; mencionado en el Corán xviii. 8-25.
 
-[^92]: m31:2 El «compañero de cueva» de Mahoma fue Abū-Bekr, quien fue su único compañero al abandonar La Meca en la Emigración o «Huida». Se ocultaron en una cueva; y Mahoma comentó: «Dios es el tercero en nuestro pequeño grupo». De ahí el título de «compañero de cueva», aplicado a Abū-Bekr.
+[^91]: m31:2 El «compañero de cueva» de Mahoma fue Abū-Bekr, quien fue su único compañero al abandonar La Meca en la Emigración o «Huida». Se ocultaron en una cueva; y Mahoma comentó: «Dios es el tercero en nuestro pequeño grupo». De ahí el título de «compañero de cueva», aplicado a Abū-Bekr.
 
-[^93]: m31:3 Una especie de pesadilla en forma de sueño lascivo.
+[^92]: m31:3 Una especie de pesadilla en forma de sueño lascivo.
 
-[^94]: m32:1 Corán xxv. 47.
+[^93]: m32:1 Corán xxv. 47.
 
-[^95]: m32:2 Corán vi. 76.
+[^94]: m32:2 Corán vi. 76.
 
-[^96]: m32:3 Véase «Anécdotas», cap. iv.
+[^95]: m32:3 Véase «Anécdotas», cap. iv.
 
-[^97]: m32:4 Véase su nombre como título honorífico en una nota al prefacio del autor; y en las «Anécdotas», cap. vi.
+[^96]: m32:4 Véase su nombre como título honorífico en una nota al prefacio del autor; y en las «Anécdotas», cap. vi.
 
-[^98]: m33:1 Corán ii. 119.
+[^97]: m33:1 Corán ii. 119.
 
-[^99]: m34:1 «_El León de Dios_», llamado así por su coraje y fuerza. Shīr-Ali, Hayder-Ali, se encuentran entre las formas del título.
+[^98]: m34:1 «_El León de Dios_», llamado así por su coraje y fuerza. Shīr-Ali, Hayder-Ali, se encuentran entre las formas del título.
 
-[^100]: m34:2 Uno de los dichos que se le atribuyen y que se han vuelto proverbiales.
+[^99]: m34:2 Uno de los dichos que se le atribuyen y que se han vuelto proverbiales.
 
-[^101]: m34:3 En persa, las promesas vacías y las jactancias también se llaman «viento». Por lo tanto, el poeta sugiere la ablución para limpiarse de tales cosas; ablución mental.
+[^100]: m34:3 En persa, las promesas vacías y las jactancias también se llaman «viento». Por lo tanto, el poeta sugiere la ablución para limpiarse de tales cosas; ablución mental.
 
-[^102]: m36:1 «_Sintetismo_» es la traducción correcta del «_shirk_» del Islam. «_Politeísmo_» es muy incorrecto. Los dualistas (magos) y los trinitarios (cristianos) son _sintetistas_, pero no son politeístas en un sentido correcto.
+[^101]: m36:1 «_Sintetismo_» es la traducción correcta del «_shirk_» del Islam. «_Politeísmo_» es muy incorrecto. Los dualistas (magos) y los trinitarios (cristianos) son _sintetistas_, pero no son politeístas en un sentido correcto.
 
-[^103]: m38:1 Una alusión a la idea de que una perla es una gota de lluvia atrapada y nutrida por una ostra.
+[^102]: m38:1 Una alusión a la idea de que una perla es una gota de lluvia atrapada y nutrida por una ostra.
 
-[^104]: m40:1 «El Profeta Analfabeto», o, más bien, «el Profeta Gentil», considerado bárbaro y analfabeto por los judíos y los cristianos, es uno de los títulos más altos de Mahoma.
+[^103]: m40:1 «El Profeta Analfabeto», o, más bien, «el Profeta Gentil», considerado bárbaro y analfabeto por los judíos y los cristianos, es uno de los títulos más altos de Mahoma.
 
-[^105]: m40:2 El original aquí utiliza el símil de un cierto «pájaro astuto», conocido también como el «pájaro que llama a la verdad», que cuelga de una garra y llama toda la noche: ¡haqq! ¡haqq! (¡Verdad! ¡Verdad!).
+[^104]: m40:2 El original aquí utiliza el símil de un cierto «pájaro astuto», conocido también como el «pájaro que llama a la verdad», que cuelga de una garra y llama toda la noche: ¡haqq! ¡haqq! (¡Verdad! ¡Verdad!).
 
-[^106]: m40:3 Tal es un mito oriental. Los poetas llaman al planeta Venus el «Arpista de las Esferas».
+[^105]: m40:3 Tal es un mito oriental. Los poetas llaman al planeta Venus el «Arpista de las Esferas».
 
-[^107]: m41:1 En el Corán ii. 32, Dios ordena a los ángeles que se postren en adoración ante Adán, cuando fue creado. Iblīs, Satanás, fue el único que se negó, por orgullo y envidia.
+[^106]: m41:1 En el Corán ii. 32, Dios ordena a los ángeles que se postren en adoración ante Adán, cuando fue creado. Iblīs, Satanás, fue el único que se negó, por orgullo y envidia.
 
-[^108]: m41:2 En el Corán iv. 124, Abraham es llamado el _Amigo Elegido_ de Dios; y en xxi. 69, se menciona la historia de su salvación del fuego al que fue arrojado por Nimrod.
+[^107]: m41:2 En el Corán iv. 124, Abraham es llamado el _Amigo Elegido_ de Dios; y en xxi. 69, se menciona la historia de su salvación del fuego al que fue arrojado por Nimrod.
 
-[^109]: m43:1 Se imagina que la _Fuente de Vida_, o _Agua de Vida_, surge en una [tierra](errata.htm#2) de oscuridad más allá de los límites de la tierra habitada.
+[^108]: m43:1 Se imagina que la _Fuente de Vida_, o _Agua de Vida_, surge en una [tierra](errata.htm#2) de oscuridad más allá de los límites de la tierra habitada.
 
-[^110]: m46:1 En el original no he encontrado posible sentirme seguro de dónde debe hacerse la ruptura con la amonestación a las reflexiones del poeta. Gran parte de lo que precede parece dirigido a Dios; pero la hipérbole oriental es amplia.
+[^109]: m46:1 En el original no he encontrado posible sentirme seguro de dónde debe hacerse la ruptura con la amonestación a las reflexiones del poeta. Gran parte de lo que precede parece dirigido a Dios; pero la hipérbole oriental es amplia.
 
-[^111]: m46:2 Corán viii. 17. Mahoma arrojó arena al enemigo en dos batallas, Badr y Hunayn.
+[^110]: m46:2 Corán viii. 17. Mahoma arrojó arena al enemigo en dos batallas, Badr y Hunayn.
 
-[^112]: m49:1 Este relato de los diversos libros falsificados de Vazīr es una alusión a los diversos Evangelios y Epístolas, canónicos y espurios, que surgieron en la Iglesia Cristiana primitiva.
+[^111]: m49:1 Este relato de los diversos libros falsificados de Vazīr es una alusión a los diversos Evangelios y Epístolas, canónicos y espurios, que surgieron en la Iglesia Cristiana primitiva.
 
-[^113]: m49:2 La conquista romana de Grecia, Asia Menor y Siria borró por completo de la mente oriental todo recuerdo de actores anteriores en esas escenas. Incluso «Alejandro Magno» es para ellos «Alejandro el Romano», como nuestro Jelūlu-’d-Dīn, «Er-Rūmī_».
+[^112]: m49:2 La conquista romana de Grecia, Asia Menor y Siria borró por completo de la mente oriental todo recuerdo de actores anteriores en esas escenas. Incluso «Alejandro Magno» es para ellos «Alejandro el Romano», como nuestro Jelūlu-’d-Dīn, «Er-Rūmī_».
 
-[^114]: m51:1 Una alusión a las contiendas de los obispos de Roma, Constantinopla, Alejandría, Antioquía, Jerusalén, etc., etc.
+[^113]: m51:1 Una alusión a las contiendas de los obispos de Roma, Constantinopla, Alejandría, Antioquía, Jerusalén, etc., etc.
 
-[^115]: m52:1 Los místicos del Islam llaman a Dios y al espíritu _el sentido_, del cual las existencias materiales son la expresión externa; como decimos: «_La letra y el espíritu_». El juego constante del original sobre estas palabras se pierde en la versión.
+[^114]: m52:1 Los místicos del Islam llaman a Dios y al espíritu _el sentido_, del cual las existencias materiales son la expresión externa; como decimos: «_La letra y el espíritu_». El juego constante del original sobre estas palabras se pierde en la versión.
 
-[^116]: m52:2 Una alusión al Corán xviii. 12; no una cita verbal.
+[^115]: m52:2 Una alusión al Corán xviii. 12; no una cita verbal.
 
-[^117]: m53:1 Una variante gramatical del Corán xxi. 107. Se refiere a Mahoma.
+[^116]: m53:1 Una variante gramatical del Corán xxi. 107. Se refiere a Mahoma.
 
-[^118]: m53:2 Una alusión al Corán xlix. 3; no una cita.
+[^117]: m53:2 Una alusión al Corán xlix. 3; no una cita.
 
-[^119]: m54:1 En el Corán lxi. 6, se afirma que Jesús, en el Evangelio, predijo el advenimiento de Mahoma con el nombre de Ahmed. Esto se explica generalmente como una traducción de περικλιτός, malinterpretado como παράκλητος en Juan xiv. 26. Las dos palabras tienen un significado muy parecido: _muy alabado, muy loable, laudatissimus_. Mahoma es mencionado con muchos nombres, cuarenta, cincuenta, sesenta; algunos dicen mil.
+[^118]: m54:1 En el Corán lxi. 6, se afirma que Jesús, en el Evangelio, predijo el advenimiento de Mahoma con el nombre de Ahmed. Esto se explica generalmente como una traducción de περικλιτός, malinterpretado como παράκλητος en Juan xiv. 26. Las dos palabras tienen un significado muy parecido: _muy alabado, muy loable, laudatissimus_. Mahoma es mencionado con muchos nombres, cuarenta, cincuenta, sesenta; algunos dicen mil.
 
-[^120]: m54:2 Muhammad obtuvo el nombre de Confiable, El-Emīn (Al-Amīn), mucho antes de declararse encargado de llamar a sus compatriotas a reconocer la unidad de Dios, la resurrección, el juicio y la vida futura.
+[^119]: m54:2 Muhammad obtuvo el nombre de Confiable, El-Emīn (Al-Amīn), mucho antes de declararse encargado de llamar a sus compatriotas a reconocer la unidad de Dios, la resurrección, el juicio y la vida futura.

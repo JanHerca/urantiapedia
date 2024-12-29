@@ -937,78 +937,78 @@ Una fuente de vida era él, un verdadero mar de don.
 
 ## Notas al pie
 
-[^245]: m139:1 Isrāfīl es el ángel que tocará la última trompeta, dos veces. En la primera, todos los vivos morirán; en la segunda, todos los muertos resucitarán para ser juzgados. Su voz es la más musical entre todas las de los ángeles.
+[^244]: m139:1 Isrāfīl es el ángel que tocará la última trompeta, dos veces. En la primera, todos los vivos morirán; en la segunda, todos los muertos resucitarán para ser juzgados. Su voz es la más musical entre todas las de los ángeles.
 
-[^246]: m140:1 Nuestra palabra «hada» está relacionada con el persa «_perī_», usado aquí por el poeta en lugar del árabe «_jinn_», de donde proviene nuestro «genio».
+[^245]: m140:1 Nuestra palabra «hada» está relacionada con el persa «_perī_», usado aquí por el poeta en lugar del árabe «_jinn_», de donde proviene nuestro «genio».
 
-[^247]: m140:2 Corán lv. 33.
+[^246]: m140:2 Corán lv. 33.
 
-[^248]: m140:3 Es decir, parecería: _Individuos creados de la nada_.
+[^247]: m140:3 Es decir, parecería: _Individuos creados de la nada_.
 
-[^249]: m141:1 Es decir: El Señor está con el que lucha del lado del Señor.
+[^248]: m141:1 Es decir: El Señor está con el que lucha del lado del Señor.
 
-[^250]: m141:2 Una calabaza seca, una calabaza, se usa comúnmente como decantador de vino.
+[^249]: m141:2 Una calabaza seca, una calabaza, se usa comúnmente como decantador de vino.
 
-[^251]: m141:3 Una tradición apostólica.
+[^250]: m141:3 Una tradición apostólica.
 
-[^252]: m142:1 También una tradición apostólica.
+[^251]: m142:1 También una tradición apostólica.
 
-[^253]: m142:2 Otra tradición apostólica.
+[^252]: m142:2 Otra tradición apostólica.
 
-[^254]: m142:3 El dicho tradicional de Mahoma, del cual esta sección es una ampliación, es el siguiente: «En verdad, tu Señor tiene, en tu tiempo, diversos alientos; he aquí, entonces, volveos hacia ellos».
+[^253]: m142:3 El dicho tradicional de Mahoma, del cual esta sección es una ampliación, es el siguiente: «En verdad, tu Señor tiene, en tu tiempo, diversos alientos; he aquí, entonces, volveos hacia ellos».
 
-[^255]: m143:1 Corán xxxiii. 72. Cuando todas las cosas habían declinado su responsabilidad, Adán la aceptó voluntariamente; fue tentado; y cayó. Si no hubieran retrocedido, el hombre no habría sido el pecador ni el santo que es.
+[^254]: m143:1 Corán xxxiii. 72. Cuando todas las cosas habían declinado su responsabilidad, Adán la aceptó voluntariamente; fue tentado; y cayó. Si no hubieran retrocedido, el hombre no habría sido el pecador ni el santo que es.
 
-[^256]: m143:2 La historia de Luqmān se puede leer en D’Herbelot, _voce_ «Locman».
+[^255]: m143:2 La historia de Luqmān se puede leer en D’Herbelot, _voce_ «Locman».
 
-[^257]: m144:1 Los poetas árabes cantan sobre mujeres; a menudo imaginarias. En Persia, esto se considera muy inmodesto. En la poesía persa, siempre se supone que un niño, también imaginario, es el objeto amado. Mahoma se dirigía así a su joven esposa, ‘Ā’isha. Humayrā significa Rosina, _pequeña de mejillas sonrosadas_. Véase también el n.° 9, dístico 184.
+[^256]: m144:1 Los poetas árabes cantan sobre mujeres; a menudo imaginarias. En Persia, esto se considera muy inmodesto. En la poesía persa, siempre se supone que un niño, también imaginario, es el objeto amado. Mahoma se dirigía así a su joven esposa, ‘Ā’isha. Humayrā significa Rosina, _pequeña de mejillas sonrosadas_. Véase también el n.° 9, dístico 184.
 
-[^258]: m144:2 Se supone que una herradura, como amuleto, con el nombre de un ausente en ella, colocada en el fuego, ejerce una influencia mágica sobre él, y lo hace llegar allí a toda velocidad, aunque sus pies sangren por la prisa.
+[^257]: m144:2 Se supone que una herradura, como amuleto, con el nombre de un ausente en ella, colocada en el fuego, ejerce una influencia mágica sobre él, y lo hace llegar allí a toda velocidad, aunque sus pies sangren por la prisa.
 
-[^259]: m144:3 Esa «Alma» es Dios, el «_animus mundi_».
+[^258]: m144:3 Esa «Alma» es Dios, el «_animus mundi_».
 
-[^260]: m145:1 Por la humildad.
+[^259]: m145:1 Por la humildad.
 
-[^261]: m145:2 El «llamado» de Dios es el llamado al servicio divino, el _‘Adhān_ (_ezān_).
+[^260]: m145:2 El «llamado» de Dios es el llamado al servicio divino, el _‘Adhān_ (_ezān_).
 
-[^262]: m145:3 Bilāl, un negro, fue el primero en llamar al servicio divino. Fue uno de los primeros conversos, un esclavo, luego liberto de ‘Abū-Bekr; luego Mu’edhdhin.
+[^261]: m145:3 Bilāl, un negro, fue el primero en llamar al servicio divino. Fue uno de los primeros conversos, un esclavo, luego liberto de ‘Abū-Bekr; luego Mu’edhdhin.
 
-[^263]: m145:4 Mustafà, _Elegido_, _Elegido_, es uno de los títulos de Mahoma.
+[^262]: m145:4 Mustafà, _Elegido_, _Elegido_, es uno de los títulos de Mahoma.
 
-[^264]: m145:5 La noche de su matrimonio con Safiyya, después de la captura de Khaybar, en el séptimo año de la Hégira, mientras regresaba a Medina. Esa noche tiene un nombre especial, basado en esta circunstancia: _la noche de la parada de la madrugada_ (laylatu ’t-ta‘rīs).
+[^263]: m145:5 La noche de su matrimonio con Safiyya, después de la captura de Khaybar, en el séptimo año de la Hégira, mientras regresaba a Medina. Esa noche tiene un nombre especial, basado en esta circunstancia: _la noche de la parada de la madrugada_ (laylatu ’t-ta‘rīs).
 
-[^265]: m146:1 Sería muy deseable una explicación de esta expresión tan descabellada. Sin duda, hay una.
+[^264]: m146:1 Sería muy deseable una explicación de esta expresión tan descabellada. Sin duda, hay una.
 
-[^266]: m146:2 Hay siete juegos persas diferentes de backgammon. El segundo de los siete, el mencionado por el poeta, se llama «Plus» (_Ziyād_). En cada lanzamiento de dados, se agrega uno, arbitrariamente, a cada número que aparece en el dos, el as se convierte en dos, etc. El poeta compara el cuerpo con este número supuesto, siendo real solo el alma.
+[^265]: m146:2 Hay siete juegos persas diferentes de backgammon. El segundo de los siete, el mencionado por el poeta, se llama «Plus» (_Ziyād_). En cada lanzamiento de dados, se agrega uno, arbitrariamente, a cada número que aparece en el dos, el as se convierte en dos, etc. El poeta compara el cuerpo con este número supuesto, siendo real solo el alma.
 
-[^267]: m148:1 Al realizar sus devociones, una musulmana debe cubrirse con un velo, incluso en casa, como si estuviera en público.
+[^266]: m148:1 Al realizar sus devociones, una musulmana debe cubrirse con un velo, incluso en casa, como si estuviera en público.
 
-[^268]: m148:2 Estas cuatro líneas se citan de Sanā'ī, para comentario.
+[^267]: m148:2 Estas cuatro líneas se citan de Sanā'ī, para comentario.
 
-[^269]: m149:1 Esta sección y las dos siguientes forman un comentario sobre Sanā’ī.
+[^268]: m149:1 Esta sección y las dos siguientes forman un comentario sobre Sanā’ī.
 
-[^270]: m149:2 Corán l. 14. La «nueva creación» es la resurrección.
+[^269]: m149:2 Corán l. 14. La «nueva creación» es la resurrección.
 
-[^271]: m149:3 La tradición, en prosa, es la siguiente, citada por el poeta: «Aprovechad el frescor de la primavera; vigoriza vuestros cuerpos, como actúa sobre las plantas. Evitad también el frío del otoño; actúa sobre vuestros cuerpos como actúa sobre la vegetación».
+[^270]: m149:3 La tradición, en prosa, es la siguiente, citada por el poeta: «Aprovechad el frescor de la primavera; vigoriza vuestros cuerpos, como actúa sobre las plantas. Evitad también el frío del otoño; actúa sobre vuestros cuerpos como actúa sobre la vegetación».
 
-[^272]: m150:1 Los prisioneros y los esclavos fugitivos tienen anillos de hierro o una especie de picota de madera atada alrededor de sus cuellos para evitar la huida o la insubordinación.
+[^271]: m150:1 Los prisioneros y los esclavos fugitivos tienen anillos de hierro o una especie de picota de madera atada alrededor de sus cuellos para evitar la huida o la insubordinación.
 
-[^273]: m152:1 Venus, la música, que habita el planeta. Véase Cuento iii., dist. 223.
+[^272]: m152:1 Venus, la música, que habita el planeta. Véase Cuento iii., dist. 223.
 
-[^274]: m152:2 Mahoma.
+[^273]: m152:2 Mahoma.
 
-[^275]: m152:3 El nombre original de Medīna,—_Jatrippa_.
+[^274]: m152:3 El nombre original de Medīna,—_Jatrippa_.
 
-[^276]: m153:1 Corán xlvii. 17.
+[^275]: m153:1 Corán xlvii. 17.
 
-[^277]: m154:1 Corán vii. 171.
+[^276]: m154:1 Corán vii. 171.
 
-[^278]: m155:1 La tradición relata que al principio, Mahoma solía pronunciar su sermón sentado en el suelo en medio de su congregación, con la espalda apoyada en un determinado pilar de madera. Al aumentar la congregación, se vio obligado a adoptar el uso de una plataforma elevada, una especie de púlpito, para poder ser visto y oído por todos. El pilar abandonado es del que se habla.
+[^277]: m155:1 La tradición relata que al principio, Mahoma solía pronunciar su sermón sentado en el suelo en medio de su congregación, con la espalda apoyada en un determinado pilar de madera. Al aumentar la congregación, se vio obligado a adoptar el uso de una plataforma elevada, una especie de púlpito, para poder ser visto y oído por todos. El pilar abandonado es del que se habla.
 
-[^279]: m157:1 Esta es una leyenda tradicional.
+[^278]: m157:1 Esta es una leyenda tradicional.
 
-[^280]: m161:1 La circunvalación de la «Casa de Dios» en La Meca, es una de las ceremonias de una peregrinación, etc.
+[^279]: m161:1 La circunvalación de la «Casa de Dios» en La Meca, es una de las ceremonias de una peregrinación, etc.
 
-[^281]: m163:1 Corán i. 5.
+[^280]: m163:1 Corán i. 5.
 
-[^282]: m164:1 Hātim Tāyī es el proverbial príncipe de la generosidad árabe. Hay muchas anécdotas sobre él. Su nombre completo era Hātim, hijo de ‘Abdu-’llāh, hijo de Sa‘d, de la tribu de Tayyi’. Para ejemplos de su generosidad, tal como se transmiten por tradición desde una época poco antes de la promulgación del Islam, véase «_Arabian Poetry for English Readers_» de Mr. Clouston, pág. 406; Londres, 1881; Trübner & Co., Ludgate Hill. Pero Hātim vivió y murió antes de que gobernaran los califas. Él también era un poeta.
+[^281]: m164:1 Hātim Tāyī es el proverbial príncipe de la generosidad árabe. Hay muchas anécdotas sobre él. Su nombre completo era Hātim, hijo de ‘Abdu-’llāh, hijo de Sa‘d, de la tribu de Tayyi’. Para ejemplos de su generosidad, tal como se transmiten por tradición desde una época poco antes de la promulgación del Islam, véase «_Arabian Poetry for English Readers_» de Mr. Clouston, pág. 406; Londres, 1881; Trübner & Co., Ludgate Hill. Pero Hātim vivió y murió antes de que gobernaran los califas. Él también era un poeta.

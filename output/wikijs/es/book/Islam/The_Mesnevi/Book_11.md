@@ -397,16 +397,16 @@ Nuestros talentos siendo probados por Su habilidad omnisciente,
 
 ## Notas al pie
 
-[^332]: m218:1 Corán iii. 153.
+[^331]: m218:1 Corán iii. 153.
 
-[^333]: m219:1 Corán xlviii. 6.
+[^332]: m219:1 Corán xlviii. 6.
 
-[^334]: m220:1 Corán xxviii. 88.
+[^333]: m220:1 Corán xxviii. 88.
 
-[^335]: m222:1 Corán lv. 29.
+[^334]: m222:1 Corán lv. 29.
 
-[^336]: m224:1 Corán vii. 132.
+[^335]: m224:1 Corán vii. 132.
 
-[^337]: m226:1 Véase Cuento iv., dist. 121.
+[^336]: m226:1 Véase Cuento iv., dist. 121.
 
-[^338]: m226:2 Corán vii. 132. Véase nota \[[^335]\], pág. 224.
+[^337]: m226:2 Corán vii. 132. Véase nota \[[^335]\], pág. 224.

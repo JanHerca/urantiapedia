@@ -935,94 +935,94 @@ Durante años fuiste una piedra; pon esto bien en tu corazón.
 
 ## Notas al pie
 
-[^203]: m114:1 Literalmente, «tu taza de la mañana», bebida al amanecer antes de salir de casa.
+[^202]: m114:1 Literalmente, «tu taza de la mañana», bebida al amanecer antes de salir de casa.
 
-[^204]: m115:1 Los asiáticos beben «por el amor» de un amigo; no «por su salud».
+[^203]: m115:1 Los asiáticos beben «por el amor» de un amigo; no «por su salud».
 
-[^205]: m115:2 El loro es conocido con el título de «Come azúcar».
+[^204]: m115:2 El loro es conocido con el título de «Come azúcar».
 
-[^206]: m116:1 Una explicación sutil de este dicho tan arriesgado de los gnósticos sufíes se encuentra en el Corán xvi. 108 «Quienquiera que niegue a Dios después de haber creído, excepto aquel a quien se le obligue contra su voluntad y cuyo corazón permanezca firme en la fe, será severamente castigado».
+[^205]: m116:1 Una explicación sutil de este dicho tan arriesgado de los gnósticos sufíes se encuentra en el Corán xvi. 108 «Quienquiera que niegue a Dios después de haber creído, excepto aquel a quien se le obligue contra su voluntad y cuyo corazón permanezca firme en la fe, será severamente castigado».
 
-[^207]: m116:2 Las órdenes derviches llaman a su peculiar gorro «mitra» o «corona» (_tāj_).
+[^206]: m116:2 Las órdenes derviches llaman a su peculiar gorro «mitra» o «corona» (_tāj_).
 
-[^208]: m116:3 Los «cuatro ríos» del Paraíso, de agua, leche, vino y miel. Corán xlvii. 16.
+[^207]: m116:3 Los «cuatro ríos» del Paraíso, de agua, leche, vino y miel. Corán xlvii. 16.
 
-[^209]: m116:4 Corán iii. 31; y numerosos otros lugares.
+[^208]: m116:4 Corán iii. 31; y numerosos otros lugares.
 
-[^210]: m117:1 Esta sección pretende haber sido sugerida por el siguiente pareado de ‘Attar:—
+[^209]: m117:1 Esta sección pretende haber sido sugerida por el siguiente pareado de ‘Attar:—
 
   “Oh, hijo descuidado de la lujuria, llora lágrimas de sangre.
   Si un santo come veneno, es como la miel. Es comida”.
 
   La expresión original para «santo», aquí, es: «un hombre de corazón».
 
-[^211]: m118:1 La «responsabilidad» canónica recae sobre todos aquellos que tienen mente sana y edad adulta.
+[^210]: m118:1 La «responsabilidad» canónica recae sobre todos aquellos que tienen mente sana y edad adulta.
 
-[^212]: m118:2 Véase nota al dist. No. 33 del presente poema.
+[^211]: m118:2 Véase nota al dist. No. 33 del presente poema.
 
-[^213]: m118:3 Corán vii. 112, etc.
+[^212]: m118:3 Corán vii. 112, etc.
 
-[^214]: m119:1 Por «_hombre perfecto_» se entiende un santo; como por «imperfecto», se representa a un héroe y antes, a un mortal común y corriente.
+[^213]: m119:1 Por «_hombre perfecto_» se entiende un santo; como por «imperfecto», se representa a un héroe y antes, a un mortal común y corriente.
 
-[^215]: m119:2 Corán vii. 203; xlvi. 28. Por «oído» y «lengua» se simbolizan un aprendiz y un maestro.
+[^214]: m119:2 Corán vii. 203; xlvi. 28. Por «oído» y «lengua» se simbolizan un aprendiz y un maestro.
 
-[^216]: m122:1 Una afirmación arriesgada. Véase Anécdotas, Cap. iii., Núms. 2, 5, 7, etc.
+[^215]: m122:1 Una afirmación arriesgada. Véase Anécdotas, Cap. iii., Núms. 2, 5, 7, etc.
 
-[^217]: m122:2 Una expresión proverbial, como: «Todo está bien si termina bien».
+[^216]: m122:2 Una expresión proverbial, como: «Todo está bien si termina bien».
 
-[^218]: m122:3 Corán ii. 100.
+[^217]: m122:3 Corán ii. 100.
 
-[^219]: m122:4 Corán xxiii. 112.
+[^218]: m122:4 Corán xxiii. 112.
 
-[^220]: m122:5 También Corán xxiii. 112.
+[^219]: m122:5 También Corán xxiii. 112.
 
-[^221]: m122:6 La «_pupila_» del ojo; en persa llamado «_el maniquí_»; en árabe, «_el hombre_». Ambos aluden a la pequeña imagen de nosotros mismos que se ve reflejada en la pupila.
+[^220]: m122:6 La «_pupila_» del ojo; en persa llamado «_el maniquí_»; en árabe, «_el hombre_». Ambos aluden a la pequeña imagen de nosotros mismos que se ve reflejada en la pupila.
 
-[^222]: m124:1 Esta rapsodia es mística, como el Cantar de los Cantares. Una «lengua» es un maestro, un informante; un profeta; y, aparentemente, incluso Dios mismo.
+[^221]: m124:1 Esta rapsodia es mística, como el Cantar de los Cantares. Una «lengua» es un maestro, un informante; un profeta; y, aparentemente, incluso Dios mismo.
 
-[^223]: m124:2 Corán xc. 1-4.
+[^222]: m124:2 Corán xc. 1-4.
 
-[^224]: m125:1 «Otro», en oposición a uno mismo; también opuesto a «nosotros dos» en el caso de los amantes; es un término muy utilizado en la poesía y la filosofía orientales.
+[^223]: m125:1 «Otro», en oposición a uno mismo; también opuesto a «nosotros dos» en el caso de los amantes; es un término muy utilizado en la poesía y la filosofía orientales.
 
-[^225]: m126:1 El «amado» del poeta aparece, aquí, ser Dios.
+[^224]: m126:1 El «amado» del poeta aparece, aquí, ser Dios.
 
-[^226]: m126:2 Parece que se hace alusión al Corán xxi. 107.
+[^225]: m126:2 Parece que se hace alusión al Corán xxi. 107.
 
-[^227]: m128:1 Se afirma que esta sección es una glosa sobre la siguiente tradición apostólica: «En verdad, Sa‘d es realmente celoso; pero yo soy más celoso que él, y Dios que yo. Por sus celos ha hecho que todos los excesos sean pecaminosos; ya sean del hombre exterior o del interior». Este Sa‘d, hijo de ‘Ubūda, fue un discípulo de Mahoma y el hombre más munífico de Medina. Abrazó la fe antes de la Hégira. Véase An-Nawāwī, pág. 274, l. 5.
+[^226]: m128:1 Se afirma que esta sección es una glosa sobre la siguiente tradición apostólica: «En verdad, Sa‘d es realmente celoso; pero yo soy más celoso que él, y Dios que yo. Por sus celos ha hecho que todos los excesos sean pecaminosos; ya sean del hombre exterior o del interior». Este Sa‘d, hijo de ‘Ubūda, fue un discípulo de Mahoma y el hombre más munífico de Medina. Abrazó la fe antes de la Hégira. Véase An-Nawāwī, pág. 274, l. 5.
 
-[^228]: m128:2 Los «dos mundos», espiritual y material, futuro y presente.
+[^227]: m128:2 Los «dos mundos», espiritual y material, futuro y presente.
 
-[^229]: m129:1 El «amor» del poeta sigue siendo Dios. Esta sección pretende ser un excurso sobre el siguiente dístico del poeta Sanā’ī, que murió en el año 576 d. H. (1180 d. C.):
+[^228]: m129:1 El «amor» del poeta sigue siendo Dios. Esta sección pretende ser un excurso sobre el siguiente dístico del poeta Sanā’ī, que murió en el año 576 d. H. (1180 d. C.):
 
   “¿Por qué abandonas tu gremio, sus reglas o ¿La fe o el pecado?
   ¿Por qué abandonas a tu señora, sea regordeta o delgada?”
 
-[^230]: m129:2 Reflexiones sobre la unidad de Dios y la pluralidad de los seres creados.
+[^229]: m129:2 Reflexiones sobre la unidad de Dios y la pluralidad de los seres creados.
 
-[^231]: m131:1 Corán xix. 41, etc.
+[^230]: m131:1 Corán xix. 41, etc.
 
-[^232]: m131:2 Anécdotas, Cap. vi.
+[^231]: m131:2 Anécdotas, Cap. vi.
 
-[^233]: m131:3 «Vida» y «coral», en persa «An» y «merjān».
+[^232]: m131:3 «Vida» y «coral», en persa «An» y «merjān».
 
-[^234]: m131:4 Los hombres de la moral, amanecer de la luz material.
+[^233]: m131:4 Los hombres de la moral, amanecer de la luz material.
 
-[^235]: m132:1 Corán lv. 29.
+[^234]: m132:1 Corán lv. 29.
 
-[^236]: m135:1 Esta sección pretende ser una disertación sobre el dicho: «Lo que Dios quiere, es».
+[^235]: m135:1 Esta sección pretende ser una disertación sobre el dicho: «Lo que Dios quiere, es».
 
-[^237]: m135:2 El «registro» del hombre es el registro de sus pensamientos, palabras y acciones, guardado por ángeles, para ser presentado en el juicio final.
+[^236]: m135:2 El «registro» del hombre es el registro de sus pensamientos, palabras y acciones, guardado por ángeles, para ser presentado en el juicio final.
 
-[^238]: m137:1 La misma palabra en persa, _bū_, significa «olor» y «esperanza». Lo esperado se convierte en una flor distante y olorosa.
+[^237]: m137:1 La misma palabra en persa, _bū_, significa «olor» y «esperanza». Lo esperado se convierte en una flor distante y olorosa.
 
-[^239]: m137:2 Corán ii. 23, y cuarenta lugares en total.
+[^238]: m137:2 Corán ii. 23, y cuarenta lugares en total.
 
-[^240]: m137:3 Se dice que Jacob lloró hasta quedar ciego al perder a José; el olor del manto de su hijo, cuando se encontró de nuevo, lo restauró.
+[^239]: m137:3 Se dice que Jacob lloró hasta quedar ciego al perder a José; el olor del manto de su hijo, cuando se encontró de nuevo, lo restauró.
 
-[^241]: m137:4 Ferhād era el amante de Shīrīn. (Véase el Cuento 6, dístico 107, nota).
+[^240]: m137:4 Ferhād era el amante de Shīrīn. (Véase el Cuento 6, dístico 107, nota).
 
-[^242]: m137:5 Majnūn, en la historia, se volvió loco por amor de Laylà.
+[^241]: m137:5 Majnūn, en la historia, se volvió loco por amor de Laylà.
 
-[^243]: m137:6 El «Sabio de Gazna» es el poeta Sanā‘ī, ya mencionado en las notas del presente relato, dístico 230.
+[^242]: m137:6 El «Sabio de Gazna» es el poeta Sanā‘ī, ya mencionado en las notas del presente relato, dístico 230.
 
-[^244]: m137:7 Se considera que José era sumamente bello.
+[^243]: m137:7 Se considera que José era sumamente bello.

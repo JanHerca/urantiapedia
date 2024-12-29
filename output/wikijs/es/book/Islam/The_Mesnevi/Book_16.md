@@ -712,52 +712,52 @@ Sus palabras son más eficaces que la rueda de un ejército.
 
 ## Notas al pie
 
-[^408]: m271:1 Corán ii. 58.
+[^407]: m271:1 Corán ii. 58.
 
-[^409]: m271:2 Corán ix. 230, etc.
+[^408]: m271:2 Corán ix. 230, etc.
 
-[^410]: m271:3 Corán lxv. 2.
+[^409]: m271:3 Corán lxv. 2.
 
-[^411]: m272:1 ‘Alīyyu-’l-Murtadzā—«_en quien_ (Dios) _está bien complacido_»—es el principal de los títulos de ‘Alī, Príncipe de Príncipes, Capitán General de los Santos.
+[^410]: m272:1 ‘Alīyyu-’l-Murtadzā—«_en quien_ (Dios) _está bien complacido_»—es el principal de los títulos de ‘Alī, Príncipe de Príncipes, Capitán General de los Santos.
 
-[^412]: m273:1 Se dice que Mahoma declaró: «Yo soy la Ciudad de la Ciencia, y ‘Alī es el Portal de la misma», aludiendo a los secretos celestiales que le había confiado a esta última, para que los comunicara a los dignos. Véase Anécdotas, cap. iii., n.º 79.
+[^411]: m273:1 Se dice que Mahoma declaró: «Yo soy la Ciudad de la Ciencia, y ‘Alī es el Portal de la misma», aludiendo a los secretos celestiales que le había confiado a esta última, para que los comunicara a los dignos. Véase Anécdotas, cap. iii., n.º 79.
 
-[^413]: m273:2 Corán cxii. 4.
+[^412]: m273:2 Corán cxii. 4.
 
-[^414]: m273:3 «Comandante de los fieles»; pero «Comandante de los creyentes» sería más correcto.
+[^413]: m273:3 «Comandante de los fieles»; pero «Comandante de los creyentes» sería más correcto.
 
-[^415]: m275:1 Corán viii. 17.
+[^414]: m275:1 Corán viii. 17.
 
-[^416]: m277:1 ‘Umer juró que mataría a Mahoma y fue a ejecutar su plan. Llegó a la casa de su propia hermana, que ya era musulmana en secreto, escuchó cantar el capítulo veinte del Corán y se convirtió de inmediato. Luego fue a Mahoma y profesó públicamente la fe.
+[^415]: m277:1 ‘Umer juró que mataría a Mahoma y fue a ejecutar su plan. Llegó a la casa de su propia hermana, que ya era musulmana en secreto, escuchó cantar el capítulo veinte del Corán y se convirtió de inmediato. Luego fue a Mahoma y profesó públicamente la fe.
 
-[^417]: m278:1 Las estrellas fugaces.
+[^416]: m278:1 Las estrellas fugaces.
 
-[^418]: m278:2 Shanfarà dice: «El más excelente es aquel que concede un favor».
+[^417]: m278:2 Shanfarà dice: «El más excelente es aquel que concede un favor».
 
-[^419]: m279:1 Corán ii. 100.
+[^418]: m279:1 Corán ii. 100.
 
-[^420]: m279:2 Ídem.
+[^419]: m279:2 Ídem.
 
-[^421]: m280:1 Corán iii. 163, 164.
+[^420]: m280:1 Corán iii. 163, 164.
 
-[^422]: m281:1 Corán ii. 175.
+[^421]: m281:1 Corán ii. 175.
 
-[^423]: m282:1 Corán iii. 6.
+[^422]: m282:1 Corán iii. 6.
 
-[^424]: m282:2 Corán xxv. 66.
+[^423]: m282:2 Corán xxv. 66.
 
-[^425]: m284:1 Corán ii. 191.
+[^424]: m284:1 Corán ii. 191.
 
-[^426]: m284:2 Corán ii. 149.
+[^425]: m284:2 Corán ii. 149.
 
-[^427]: m284:3 Corán ii. 151.
+[^426]: m284:3 Corán ii. 151.
 
-[^428]: m285:1 Todos los poetas musulmanes hablan de las heridas como «flores».
+[^427]: m285:1 Todos los poetas musulmanes hablan de las heridas como «flores».
 
-[^429]: m286:1 Qur’ān liii. 17. Aquí hay un juego de palabras. La palabra árabe para «desviado» y la palabra persa para «un cuervo» son idénticas en ortografía, _zāg_. Otros poetas persas han llamado a Mahoma: «El ruiseñor del jardín de _mà zāg;_», que en realidad significa «no se desvió», pero puede traducirse: «nosotros, los cuervos».
+[^428]: m286:1 Qur’ān liii. 17. Aquí hay un juego de palabras. La palabra árabe para «desviado» y la palabra persa para «un cuervo» son idénticas en ortografía, _zāg_. Otros poetas persas han llamado a Mahoma: «El ruiseñor del jardín de _mà zāg;_», que en realidad significa «no se desvió», pero puede traducirse: «nosotros, los cuervos».
 
-[^430]: m286:2 El «Limner» es, aquí, Dios, por supuesto. Estaba intoxicado con amor, no con vino.
+[^429]: m286:2 El «Limner» es, aquí, Dios, por supuesto. Estaba intoxicado con amor, no con vino.
 
-[^431]: m287:1 Corán ii. 88.
+[^430]: m287:1 Corán ii. 88.
 
-[^432]: m287:2 Éstos eran los árabes cristianos de Nejrān. Enviaron una embajada a Mahoma en Medina. Él les propuso una prueba mediante la invocación de la maldición de Dios sobre los mentirosos, sus esposas e hijos. Él la pronunció; ellos se acobardaron y aceptaron someterse a él, con la condición de pagar tributo.
+[^431]: m287:2 Éstos eran los árabes cristianos de Nejrān. Enviaron una embajada a Mahoma en Medina. Él les propuso una prueba mediante la invocación de la maldición de Dios sobre los mentirosos, sus esposas e hijos. Él la pronunció; ellos se acobardaron y aceptaron someterse a él, con la condición de pagar tributo.

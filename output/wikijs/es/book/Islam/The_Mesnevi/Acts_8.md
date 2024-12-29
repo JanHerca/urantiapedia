@@ -156,4 +156,4 @@ Fue enterrado el día 25, donde él mismo había indicado, al lado de su abuelo.
 
 ## Notas al pie
 
-[^34]: 126:1 Los armenios europeizados han convertido este nombre en _Zohrab_, como su propio apellido.
+[^33]: 126:1 Los armenios europeizados han convertido este nombre en _Zohrab_, como su propio apellido.

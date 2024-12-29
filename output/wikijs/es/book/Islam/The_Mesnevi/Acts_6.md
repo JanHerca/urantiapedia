@@ -212,12 +212,12 @@ Estos dineros fueron siempre gastados por Husām, como le parecía conveniente, 
 
 ## Notas al pie
 
-[^28]: 113:1 No he encontrado ninguna noticia de Akhī-Turk.
+[^27]: 113:1 No he encontrado ninguna noticia de Akhī-Turk.
 
-[^29]: 113:2 _El Honorable Anciano;_ por el cual probablemente se hace referencia a Abū-Bekr; pero véase una nota al Prefacio del Mesnevī.
+[^28]: 113:2 _El Honorable Anciano;_ por el cual probablemente se hace referencia a Abū-Bekr; pero véase una nota al Prefacio del Mesnevī.
 
-[^30]: 113:3 Juneyd y Bāyezīd de Bestām fueron dos grandes doctores del misticismo; el último murió en el año 234 o 261 d. H. (848 o 874 d. C.), y el primero en el año 297-8 d. H. (909-10 d. C.).
+[^29]: 113:3 Juneyd y Bāyezīd de Bestām fueron dos grandes doctores del misticismo; el último murió en el año 234 o 261 d. H. (848 o 874 d. C.), y el primero en el año 297-8 d. H. (909-10 d. C.).
 
-[^31]: 117:1 Éstas son dos de las cuatro escuelas ortodoxas del Islam; difieren en ciertos detalles. Se dice que hay setenta y dos sectas cismáticas o heréticas.
+[^30]: 117:1 Éstas son dos de las cuatro escuelas ortodoxas del Islam; difieren en ciertos detalles. Se dice que hay setenta y dos sectas cismáticas o heréticas.
 
-[^32]: 120:1 Esta anécdota contradice directamente la idea tonta, tan común en Europa, de que, en el sistema religioso del Islam, se considera que las mujeres no tienen alma ni esperanza de paraíso.
+[^31]: 120:1 Esta anécdota contradice directamente la idea tonta, tan común en Europa, de que, en el sistema religioso del Islam, se considera que las mujeres no tienen alma ni esperanza de paraíso.

@@ -251,26 +251,26 @@ Oh hombre, cuya espalda está herida, acepta su ungüento con agradecimiento.
 
 ## Notas al pie
 
-[^339]: m229:1 En la tradición semítica y musulmana la luna es «él», el sol «ella».
+[^338]: m229:1 En la tradición semítica y musulmana la luna es «él», el sol «ella».
 
-[^340]: m229:2 Corán xlviii. 29.
+[^339]: m229:2 Corán xlviii. 29.
 
-[^341]: m229:3 Corán vi. 94.
+[^340]: m229:3 Corán vi. 94.
 
-[^342]: m230:1 Corán li. 17.
+[^341]: m230:1 Corán li. 17.
 
-[^343]: m230:2 Corán li. 18.
+[^342]: m230:2 Corán li. 18.
 
-[^344]: m230:3 Corán iv. 99.
+[^343]: m230:3 Corán iv. 99.
 
-[^345]: m230:4 Corán xviii. 8-21.
+[^344]: m230:4 Corán xviii. 8-21.
 
-[^346]: m231:1 Corán lxix. 19.
+[^345]: m231:1 Corán lxix. 19.
 
-[^347]: m231:2 Corán lxix. 25.
+[^346]: m231:2 Corán lxix. 25.
 
-[^348]: m231:3 El equivalente persa de nuestro «_llevar abrigos a Newcastle_».
+[^347]: m231:3 El equivalente persa de nuestro «_llevar abrigos a Newcastle_».
 
-[^349]: m231:4 Un espejo metálico, antiguamente muy utilizado.
+[^348]: m231:4 Un espejo metálico, antiguamente muy utilizado.
 
-[^350]: m232:1 Corán vii. 11.
+[^349]: m232:1 Corán vii. 11.

@@ -34,7 +34,7 @@ dateCreated: 2024-11-22T20:3:38Z
 
 <span id="p143">[<sup><small>p. 143</small></sup>]</span>
 
-Se ha hecho mención ([p. 99](2_3#p99), nota [2](2_3#fn288) _supra_) de la oda de Jílí titulada al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. En el _Insánu ’l-Kámil_ cita 36 de sus 534 versos (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; y 76, 15) y la describe como una composición magnífica y única, demasiado sublime para ser entendida completamente. Sin embargo, es poco más que un resumen en verso de la materia expuesta en el _Insánu ’l-Kámil_, aunque en algunos casos el autor se expresa con una libertad y una audacia que difícilmente se tolerarían en un tratado en prosa. Como poema, aparte de su estilo poco elegante, adolece de exponer una teoría de filosofía mística y no puede compararse con _Tá’iyya_ de Ibnu ’l-Fáriḍ, la poesía del misticismo puro. Los extractos que se dan a continuación han sido copiados de un manuscrito del Museo Británico (Or. 3684; Supl. de Rieu al Catálogo de Manuscritos Árabes No. 245) que contiene el texto junto con un comentario de ‘Abdu ’l-Ghaní al-Nábulusí.
+Se ha hecho mención ([p. 99](./2_3#p99), nota [2](./2_3#fn288) _supra_) de la oda de Jílí titulada al-Nawádiru ’l-‘ ayniyya fi ’l-bawádiri ’l-ghaybiyya. En el _Insánu ’l-Kámil_ cita 36 de sus 534 versos (I. 30, 3; 39, 6 fr. foot; 52, 17; 66, 19; y 76, 15) y la describe como una composición magnífica y única, demasiado sublime para ser entendida completamente. Sin embargo, es poco más que un resumen en verso de la materia expuesta en el _Insánu ’l-Kámil_, aunque en algunos casos el autor se expresa con una libertad y una audacia que difícilmente se tolerarían en un tratado en prosa. Como poema, aparte de su estilo poco elegante, adolece de exponer una teoría de filosofía mística y no puede compararse con _Tá’iyya_ de Ibnu ’l-Fáriḍ, la poesía del misticismo puro. Los extractos que se dan a continuación han sido copiados de un manuscrito del Museo Británico (Or. 3684; Supl. de Rieu al Catálogo de Manuscritos Árabes No. 245) que contiene el texto junto con un comentario de ‘Abdu ’l-Ghaní al-Nábulusí.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/book/Islam/Studies_in_Islamic_Mysticism/14300.jpg">
@@ -72,7 +72,7 @@ _v_. ٢٠. La rima en este poema es _muqayyad_. Ni siquiera Jílí podría haber
 
 _v_. ١, ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14601.jpg) variante ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14602.jpg).
 
-_v_. ٦. MS. ![](/image/book/Islam/Estudios_sobre_misticismo_islámico/14603.jpg). Cf. [p. 123](2_5#p123) _supra_.
+_v_. ٦. MS. ![](/image/book/Islam/Estudios_sobre_misticismo_islámico/14603.jpg). Cf. [p. 123](./2_5#p123) _supra_.
 
 _v_. ٨ ss. Los términos «ascenso» y «descenso» se aplican incorrectamente al espíritu, que tiene su ser en Dios ( ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14604.jpg) en _v_. ١. significa ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14605.jpg)). Para distinguirlo de Dios, decimos que está particularizado e individualizado, es decir, creado; y damos el nombre de «espíritu» a esta individualización, por medio de la cual Dios se muestra como en un espejo.
 
@@ -90,9 +90,9 @@ _v_. ١٤. ![](/image/book/Islam/Studies_in_Islamic_Mysticism/14606.jpg) es una 
 
 _v_. ٢١ MS. ![](/image/book/Islam/Estudios_sobre_misticismo_islámico/14702.jpg).
 
-_v_. ٢ ss. Cf. [p. 151](2_Apéndice2#p151) _infra_.
+_v_. ٢ ss. Cf. [p. 151](./2_Apéndice2#p151) _infra_.
 
-_v_. ١٢ ss. Cf. [p. 126](2_6#p126) _supra_.
+_v_. ١٢ ss. Cf. [p. 126](./2_6#p126) _supra_.
 
 <span id="p148">[<sup><small>p. 148</small></sup>]</span>
 

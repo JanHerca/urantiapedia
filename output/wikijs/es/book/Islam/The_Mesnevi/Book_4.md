@@ -470,32 +470,32 @@ El engaño te hará sumergirte de cabeza en el pozo del infierno.
 
 ## Notas al pie
 
-[^121]: m55:1 Corán, cap. lxxxv., cuyo nombre significa literalmente «las Torres», pero también se aplica a los Signos del Zodíaco. Estos cristianos eran el pueblo de Nejrān en el suroeste de Arabia; su perseguidor Dhū-Nuwās, un judío, rey de Yaman, algún tiempo antes de Mahoma.
+[^120]: m55:1 Corán, cap. lxxxv., cuyo nombre significa literalmente «las Torres», pero también se aplica a los Signos del Zodíaco. Estos cristianos eran el pueblo de Nejrān en el suroeste de Arabia; su perseguidor Dhū-Nuwās, un judío, rey de Yaman, algún tiempo antes de Mahoma.
 
-[^122]: m55:2 «Jardines por debajo de los cuales corren ríos» es una expresión que se repite con frecuencia en el Corán. Algunos tienen nombres especiales.
+[^121]: m55:2 «Jardines por debajo de los cuales corren ríos» es una expresión que se repite con frecuencia en el Corán. Algunos tienen nombres especiales.
 
-[^123]: m55:3 Véase Corán xxxv. 29: «Entonces te hicimos heredar la Escritura».
+[^122]: m55:3 Véase Corán xxxv. 29: «Entonces te hicimos heredar la Escritura».
 
-[^124]: m57:1 En el Corán ii. 132, el Islam se denomina «el bautismo de Dios». En ii. 156, y nuevamente en vii. 42, y xi. 21, se invoca la «maldición de Dios» sobre los pecadores.
+[^123]: m57:1 En el Corán ii. 132, el Islam se denomina «el bautismo de Dios». En ii. 156, y nuevamente en vii. 42, y xi. 21, se invoca la «maldición de Dios» sobre los pecadores.
 
-[^125]: m57:2 Esta es la historia a la que se alude en el Corán lxxxv., citado anteriormente. En las tradiciones, Dhū-Nuwās era el nombre del rey judío de Yaman, que quemó a los cristianos de Nejrān en una trinchera de fuego por negarse a abandonar su fe. El ídolo es imaginario; de Nabucodonosor.
+[^124]: m57:2 Esta es la historia a la que se alude en el Corán lxxxv., citado anteriormente. En las tradiciones, Dhū-Nuwās era el nombre del rey judío de Yaman, que quemó a los cristianos de Nejrān en una trinchera de fuego por negarse a abandonar su fe. El ídolo es imaginario; de Nabucodonosor.
 
-[^126]: m58:1 El Corán xvi. 45; xxxvii. 72; xl. 76; habla de las «Puertas del Infierno»; y un comentario al último dice que se considera que son siete.
+[^125]: m58:1 El Corán xvi. 45; xxxvii. 72; xl. 76; habla de las «Puertas del Infierno»; y un comentario al último dice que se considera que son siete.
 
-[^127]: m58:2 Abu-Yahl era un sobrenombre dado por Mahoma a uno de sus enemigos más inveterados de los Quraysh, asesinado en Badr. La palabra significa: «Padre de la Ignorancia», y aquí indica «orgullo carnal». Anteriormente había llevado el sobrenombre de Abu-’l-Hakem, que significa: Padre del Arbitrador.
+[^126]: m58:2 Abu-Yahl era un sobrenombre dado por Mahoma a uno de sus enemigos más inveterados de los Quraysh, asesinado en Badr. La palabra significa: «Padre de la Ignorancia», y aquí indica «orgullo carnal». Anteriormente había llevado el sobrenombre de Abu-’l-Hakem, que significa: Padre del Arbitrador.
 
-[^128]: m59:1 En el Corán xxi. 69, se relata el milagro por el cual Abraham fue salvado del fuego al que fue arrojado por Nimrod por su negativa a adorar una imagen.
+[^127]: m59:1 En el Corán xxi. 69, se relata el milagro por el cual Abraham fue salvado del fuego al que fue arrojado por Nimrod por su negativa a adorar una imagen.
 
-[^129]: m60:1 La palabra «_Musulmán_», de donde proviene la corrupción _Musulmán_, significa, en árabe, «_alguien que se somete a la verdad y la voluntad de Dios_». Como tal, los musulmanes han existido bajo todas las dispensaciones.
+[^128]: m60:1 La palabra «_Musulmán_», de donde proviene la corrupción _Musulmán_, significa, en árabe, «_alguien que se somete a la verdad y la voluntad de Dios_». Como tal, los musulmanes han existido bajo todas las dispensaciones.
 
-[^130]: m61:1 La rueda hidráulica chirriante y con fugas, la rueda persa, es bien conocida en Oriente.
+[^129]: m61:1 La rueda hidráulica chirriante y con fugas, la rueda persa, es bien conocida en Oriente.
 
-[^131]: m61:2 «Venda los ojos» es un nombre para la brujería. Se supone que el espectador tiene la vista hechizada, para que no vea lo que realmente se hace.
+[^130]: m61:2 «Venda los ojos» es un nombre para la brujería. Se supone que el espectador tiene la vista hechizada, para que no vea lo que realmente se hace.
 
-[^132]: m63:1 ‘Ad, un pueblo presemita, quizás turaniano, del sudeste de Arabia, a menudo mencionado en el Corán. Se negaron a creer al profeta Hūd (que se supone que era _Heber_), y fueron destruidos, lxix. 6-7, por una tempestad de ocho días.
+[^131]: m63:1 ‘Ad, un pueblo presemita, quizás turaniano, del sudeste de Arabia, a menudo mencionado en el Corán. Se negaron a creer al profeta Hūd (que se supone que era _Heber_), y fueron destruidos, lxix. 6-7, por una tempestad de ocho días.
 
-[^133]: m64:1 Corán xxiii. 76, etc.
+[^132]: m64:1 Corán xxiii. 76, etc.
 
-[^134]: m64:2 Corán iii. 43.
+[^133]: m64:2 Corán iii. 43.
 
-[^135]: m64:3 Corán vii. 139.
+[^134]: m64:3 Corán vii. 139.

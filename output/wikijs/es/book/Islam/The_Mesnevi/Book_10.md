@@ -255,18 +255,18 @@ Deja el «yo» y el «nosotros», que ejercen control sobre tu corazón.
 
 ## Notas al pie
 
-[^324]: m213:1 Corán iii. 153.
+[^323]: m213:1 Corán iii. 153.
 
-[^325]: m214:1 El título de ‘Alī es «El León victorioso de Dios».
+[^324]: m214:1 El título de ‘Alī es «El León victorioso de Dios».
 
-[^326]: m214:2 Este viaje se relata en el Corán xviii. 64-82.
+[^325]: m214:2 Este viaje se relata en el Corán xviii. 64-82.
 
-[^327]: m214:3 Corán xviii. 69.
+[^326]: m214:3 Corán xviii. 69.
 
-[^328]: m214:4 Corán xviii. 70.
+[^327]: m214:4 Corán xviii. 70.
 
-[^329]: m214:5 Corán xviii. 73.
+[^328]: m214:5 Corán xviii. 73.
 
-[^330]: m215:1 Corán xlviii. 10.
+[^329]: m215:1 Corán xlviii. 10.
 
-[^331]: m217:1 Corán xviii. 16.
+[^330]: m217:1 Corán xviii. 16.

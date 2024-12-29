@@ -100,6 +100,6 @@ Declara que no se le debe culpar por haber revelado los misterios que le fueron 
 
 [^616]: 195:1 K. en _v_. 501. Cfr. _Kashf al-Maḥjúb_, trad., pág. 214. Respecto del _Quṭb_ y los miembros subordinados de la jerarquía Ṣúfí, véase Blochet, _Études sur l'ésotérisme musulman_ en el _Journal asiatique_, vol. 20 (1902), pág. 49 sig.; Haneberg, _Ali Abulhasan Schadeli_ en _ZDMG_., vol. 7, pág. 21 sig.; Flügel, _Scha'rânî und sein Werk über die muhammadanische Glaubenslehre_, _ibid_. vol. 20, pág. 37 sig.
 
-[^617]: 195:2 Cf. pp. [87](2_Introducción#p87) y [103](2_3#p103) sig.
+[^617]: 195:2 Cf. pp. [87](./2_Introducción#p87) y [103](./2_3#p103) sig.
 
 [^618]: 195:3 574 versículos de un total de 761. Los siguientes versículos no han sido traducidos: 111-114, 117-119, 122-125, 141-143, 164-167, 175-193, 195-196, 265-276, 334-393, 503-505, 515-520, 549-574, 580-588, 602-613, 622-626, 632-636, 750-758.

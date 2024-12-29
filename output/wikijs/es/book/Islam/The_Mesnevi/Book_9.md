@@ -1700,84 +1700,84 @@ Así que las drogas, para probar un consuelo al dolor del paciente,
 
 ## Notas al pie
 
-[^283]: m165:1 El Corán xx. 97, hace que el judío errante, Sāmirī, que produjo el becerro de oro, evite a todos, diciendo: «¡No me toquen!»
+[^282]: m165:1 El Corán xx. 97, hace que el judío errante, Sāmirī, que produjo el becerro de oro, evite a todos, diciendo: «¡No me toquen!»
 
-[^284]: m167:1 Vicario de Dios es uno de los títulos del Califa. Este «pretendiente» debe haber sido algún adversario particular del poeta. La sátira es amarga.
+[^283]: m167:1 Vicario de Dios es uno de los títulos del Califa. Este «pretendiente» debe haber sido algún adversario particular del poeta. La sátira es amarga.
 
-[^285]: m167:2 Bāyezīd de Bestām, en Persia, un santo gnóstico temprano; murió en el año 874 d. C. (261 h.).
+[^284]: m167:2 Bāyezīd de Bestām, en Persia, un santo gnóstico temprano; murió en el año 874 d. C. (261 h.).
 
-[^286]: m167:3 Yezīd, segundo califa de Damasco, perseguidor de Husayn, hijo del cuarto califa ‘Alī.
+[^285]: m167:3 Yezīd, segundo califa de Damasco, perseguidor de Husayn, hijo del cuarto califa ‘Alī.
 
-[^287]: m167:4 El original menciona naturalmente la «qibla» del Islam; no el «este», como se usa en las iglesias cristianas.
+[^286]: m167:4 El original menciona naturalmente la «qibla» del Islam; no el «este», como se usa en las iglesias cristianas.
 
-[^288]: m171:1 «Mi pobreza es mi orgullo» es un dicho tradicionalmente atribuido a Mahoma.
+[^287]: m171:1 «Mi pobreza es mi orgullo» es un dicho tradicionalmente atribuido a Mahoma.
 
-[^289]: m177:1 El Corán iii. 12 menciona varias cosas «hechas buenas para el hombre».
+[^288]: m177:1 El Corán iii. 12 menciona varias cosas «hechas buenas para el hombre».
 
-[^290]: m177:2 El Corán vii. 189, relata la creación de una ayuda idónea para Adán.
+[^289]: m177:2 El Corán vii. 189, relata la creación de una ayuda idónea para Adán.
 
-[^291]: m177:3 Mahoma.
+[^290]: m177:3 Mahoma.
 
-[^292]: m177:4 Para Humayrā, véase una nota en el n.° 8, dist. 69.
+[^291]: m177:4 Para Humayrā, véase una nota en el n.° 8, dist. 69.
 
-[^293]: m177:5 Sin embargo, Europa todavía pretende creer que el Islam ha negado la posesión de un alma por parte de la mujer!
+[^292]: m177:5 Sin embargo, Europa todavía pretende creer que el Islam ha negado la posesión de un alma por parte de la mujer!
 
-[^294]: m179:1 Corán lxxix. 24. Así se dice allí que el Faraón se autodenominaba.
+[^293]: m179:1 Corán lxxix. 24. Así se dice allí que el Faraón se autodenominaba.
 
-[^295]: m179:2 Corán ii. 3, etc.
+[^294]: m179:2 Corán ii. 3, etc.
 
-[^296]: m180:1 No sólo los orientales tienen una superstición sobre los tesoros escondidos en ruinas.
+[^295]: m180:1 No sólo los orientales tienen una superstición sobre los tesoros escondidos en ruinas.
 
-[^297]: m181:1 Corán xxii. IX.
+[^296]: m181:1 Corán xxii. IX.
 
-[^298]: m182:1 El hombre tiene una triple naturaleza, vegetativa, bestial y humana.
+[^297]: m182:1 El hombre tiene una triple naturaleza, vegetativa, bestial y humana.
 
-[^299]: m182:2 Corán xxxix. 54.
+[^298]: m182:2 Corán xxxix. 54.
 
-[^300]: m182:3 Corán vii. 142, etc.
+[^299]: m182:3 Corán vii. 142, etc.
 
-[^301]: m183:1 Corán xxxiv. 42.
+[^300]: m183:1 Corán xxxiv. 42.
 
-[^302]: m183:2 Corán vii. 75; xi. 65-70; xxvi. 142-158. Sālih fue enviado a la tribu de Thamūd, trogloditas que habitaban en los valles a mitad de camino entre Medina y el Golfo de Akaba.
+[^301]: m183:2 Corán vii. 75; xi. 65-70; xxvi. 142-158. Sālih fue enviado a la tribu de Thamūd, trogloditas que habitaban en los valles a mitad de camino entre Medina y el Golfo de Akaba.
 
-[^303]: m183:3 Corán xci. 13.
+[^302]: m183:3 Corán xci. 13.
 
-[^304]: m185:1 Corán vii. 76, 89; xi. 70, 97; xxxx. 36.
+[^303]: m185:1 Corán vii. 76, 89; xi. 70, 97; xxxx. 36.
 
-[^305]: m186:1 Corán vii. 91.
+[^304]: m186:1 Corán vii. 91.
 
-[^306]: m187:1 Corán lv. 20.
+[^305]: m187:1 Corán lv. 20.
 
-[^307]: m189:1 Corán vi. 2, 60.
+[^306]: m189:1 Corán vi. 2, 60.
 
-[^308]: m189:2 Corán xxxviii. 34.
+[^307]: m189:2 Corán xxxviii. 34.
 
-[^309]: m192:1 No textualmente del Corán.
+[^308]: m192:1 No textualmente del Corán.
 
-[^310]: 193:1 No textualmente del Corán.
+[^309]: 193:1 No textualmente del Corán.
 
-[^311]: m196:1 Corán xxiv. 30.
+[^310]: m196:1 Corán xxiv. 30.
 
-[^312]: m197:1 Corán ii. 23, etc.
+[^311]: m197:1 Corán ii. 23, etc.
 
-[^313]: m197:2 Los musulmanes ricos de todas partes rompen su ayuno en Ramadán con agua del pozo de Zemzem, en La Meca, si es posible.
+[^312]: m197:2 Los musulmanes ricos de todas partes rompen su ayuno en Ramadán con agua del pozo de Zemzem, en La Meca, si es posible.
 
-[^314]: m198:1 Se cree que una perla es una gota de rocío especial, atrapada por una ostra especial, y luego llevada a la perfección por una providencia especial. (Véase la oda de Sa‘di al final del prefacio del traductor.)
+[^313]: m198:1 Se cree que una perla es una gota de rocío especial, atrapada por una ostra especial, y luego llevada a la perfección por una providencia especial. (Véase la oda de Sa‘di al final del prefacio del traductor.)
 
-[^315]: m199:1 Corán xciii. 1.
+[^314]: m199:1 Corán xciii. 1.
 
-[^316]: m199:2 Corán xciii. 10.
+[^315]: m199:2 Corán xciii. 10.
 
-[^317]: m199:3 Corán cxii. 3.
+[^316]: m199:3 Corán cxii. 3.
 
-[^318]: m200:1 El mundo.
+[^317]: m200:1 El mundo.
 
-[^319]: m202:1 La creencia es que Jesús no fue crucificado, sino que fue arrebatado hasta el cuarto cielo, el del sol, donde vivirá hasta que vuelva en gloria.
+[^318]: m202:1 La creencia es que Jesús no fue crucificado, sino que fue arrebatado hasta el cuarto cielo, el del sol, donde vivirá hasta que vuelva en gloria.
 
-[^320]: m202:2 La creencia es que Adán arrancó una mazorca de maíz, el fruto prohibido, en el paraíso.
+[^319]: m202:2 La creencia es que Adán arrancó una mazorca de maíz, el fruto prohibido, en el paraíso.
 
-[^321]: m202:3 Abbās, tío de Mahoma, antepasado de los califas abbāsī.
+[^320]: m202:3 Abbās, tío de Mahoma, antepasado de los califas abbāsī.
 
-[^322]: m209:1 Corán li. 9.
+[^321]: m209:1 Corán li. 9.
 
-[^323]: m210:1 Von Hammer, en su Historia del Imperio Otomano, entendió tan mal este hermoso proverbio árabe, «_Es sabru miftāhu ’l faraj_,» que leyó «_farj_» (pudendum), en lugar de «_faraj_» (éxito); y disimuló su error con la observación: «Demasiado picante para una traducción literal».
+[^322]: m210:1 Von Hammer, en su Historia del Imperio Otomano, entendió tan mal este hermoso proverbio árabe, «_Es sabru miftāhu ’l faraj_,» que leyó «_farj_» (pudendum), en lugar de «_faraj_» (éxito); y disimuló su error con la observación: «Demasiado picante para una traducción literal».

@@ -196,7 +196,6 @@ Hafiz es más bien el precursor que el fundador de esta escuela de poetas. Es ig
 [^13]: Sayyed Ahmed de Isfahán.
 
 [^14]: Escuche el consejo de un cantante afgano que escribió su _Ars Poetica_ en las montañas al sur de Peshawar aproximadamente a mediados del siglo XVII:
-
   “La flecha necesita un arquero, y la poesía un mago.
   “Debe tener siempre en la mano de su mente la balanza del metro, rechazando el verso que es demasiado corto y el que es demasiado largo.
   “Su amante, la Verdad, montará su corcel negro, con el velo de la alegoría dibujado sobre su frente.
@@ -204,7 +203,6 @@ Hafiz es más bien el precursor que el fundador de esta escuela de poetas. Es ig
   “Que el poeta coloque sobre sus dedos las joyas del arte de muchos matices, la adorne con el sándalo y el azafrán de la metáfora;
   “Las campanas de la aliteración como brazaletes en sus pies, y en su pecho el collar de un ritmo misterioso.
   Añade a estos el significado oculto, como ojos medio vistos a través de sus pestañas, para que todo su cuerpo sea un misterio perfecto. «_Traducción del Kilidi Afghani_», por T. C. Plowden.
-
   Me temo que el resultado de estas instrucciones es con demasiada frecuencia «amphora coepit institui, currente rota cur urceus exit», y tal vez el consejo de Horacio sea el mejor de los dos «denique sit quod vis, simplex dumtaxat et unum».
 
 [^15]: _Cantique des Cantiques_.

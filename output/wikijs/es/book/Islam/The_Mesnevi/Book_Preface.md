@@ -78,38 +78,38 @@ Así dice el débil siervo, necesitado de la misericordia de Dios, cuyo nombre s
 
 ## Notas al pie
 
-[^37]: mi:1 Corán xxiv. 35.
+[^36]: mi:1 Corán xxiv. 35.
 
-[^38]: mi:2 Corán lxxvi. 18.
+[^37]: mi:2 Corán lxxvi. 18.
 
-[^39]: mi:3 Corán xix. 94.
+[^38]: mi:3 Corán xix. 94.
 
-[^40]: mi:4 Corán xxv. 26.
+[^39]: mi:4 Corán xxv. 26.
 
-[^41]: mi:5 Corán ii. 24.
+[^40]: mi:5 Corán ii. 24.
 
-[^42]: mii:1 Corán lxxx. 15.
+[^41]: mii:1 Corán lxxx. 15.
 
-[^43]: mii:2 Corán lvi. 78.
+[^42]: mii:2 Corán lvi. 78.
 
-[^44]: mii:3 Corán lvi. 79.
+[^43]: mii:3 Corán lvi. 79.
 
-[^45]: mii:4 Corán xli. 42.
+[^44]: mii:4 Corán xli. 42.
 
-[^46]: mii:5 Corán xii. 64.
+[^45]: mii:5 Corán xii. 64.
 
-[^47]: mii:6 Corán vii. 150
+[^46]: mii:6 Corán vii. 150
 
-[^48]: mii:7 Balkh, al sur de la parte occidental del Alto Oxus, está en latitud 36°, 48´ N., longitud 67°, 4´ E. desde Greenwich. Representa la antigua _Bactra_, también llamada _Zariaspa_.
+[^47]: mii:7 Balkh, al sur de la parte occidental del Alto Oxus, está en latitud 36°, 48´ N., longitud 67°, 4´ E. desde Greenwich. Representa la antigua _Bactra_, también llamada _Zariaspa_.
 
-[^49]: miii:1 Husāmu-’l-Haqqi-wa-’d-Dīn, su título de honor completo. (Ver Anécdotas, cap. vi.)
+[^48]: miii:1 Husāmu-’l-Haqqi-wa-’d-Dīn, su título de honor completo. (Ver Anécdotas, cap. vi.)
 
-[^50]: miii:2 Bāyezīd o Abū-Yazīd, de Bestām, en Khurāsān, Persia, latitud 36°, 25´ N., longitud 55°, 0´ E., un célebre maestro y santo entre los místicos del Islam, murió en el año 265 a.h., 874 d.c. (aunque algunos también han mencionado el año 234 a.h., 848 d.c.). Su nombre era Tayfūr, hijo de ‘Isà, hijo de Ādam, hijo de Surūshān, un zoroastriano que abrazó el Islam.
+[^49]: miii:2 Bāyezīd o Abū-Yazīd, de Bestām, en Khurāsān, Persia, latitud 36°, 25´ N., longitud 55°, 0´ E., un célebre maestro y santo entre los místicos del Islam, murió en el año 265 a.h., 874 d.c. (aunque algunos también han mencionado el año 234 a.h., 848 d.c.). Su nombre era Tayfūr, hijo de ‘Isà, hijo de Ādam, hijo de Surūshān, un zoroastriano que abrazó el Islam.
 
-[^51]: miii:3 Juneyd, apellido de Abū-’l-Qāsim Sa‘īd hijo de ‘Ubayd, titulado Sultán de la Comunidad Sufí, un santo que murió en Bagdad en el año 287 d. H. (900 d. C.).
+[^50]: miii:3 Juneyd, apellido de Abū-’l-Qāsim Sa‘īd hijo de ‘Ubayd, titulado Sultán de la Comunidad Sufí, un santo que murió en Bagdad en el año 287 d. H. (900 d. C.).
 
-[^52]: miii:4 Urmiyya, en el lago de ese nombre, al suroeste de Tebrīz, la ciudad capital de Azerbaiyán, provincia del noroeste de Persia.
+[^51]: miii:4 Urmiyya, en el lago de ese nombre, al suroeste de Tebrīz, la ciudad capital de Azerbaiyán, provincia del noroeste de Persia.
 
-[^53]: miii:5 La expresión de: «_El venerado Sheykh_», podría, tal vez, en un primer momento, pensarse que indica al Califa Abū-Bekr, el Sheykh por excelencia, ya que él y su sucesor ‘Umer (Omar) fueron designados «_los dos Sheykhs_», por ser cada uno suegro de Mahoma, mientras que el tercer y cuarto califas, ‘Uthmān (Osmān) y ‘Alī, eran sus yernos. Si esta suposición fuera correcta, Jelāl y Husām habrían descendido del mismo antepasado remoto. Sin embargo, los comentaristas, según me han informado, nombran a un tal «Seyyid Abū-’l-Wefā, el kurdo», como si se tratara de un personaje. Desafortunadamente, no he recibido detalles sobre su individualidad e historia.
+[^52]: miii:5 La expresión de: «_El venerado Sheykh_», podría, tal vez, en un primer momento, pensarse que indica al Califa Abū-Bekr, el Sheykh por excelencia, ya que él y su sucesor ‘Umer (Omar) fueron designados «_los dos Sheykhs_», por ser cada uno suegro de Mahoma, mientras que el tercer y cuarto califas, ‘Uthmān (Osmān) y ‘Alī, eran sus yernos. Si esta suposición fuera correcta, Jelāl y Husām habrían descendido del mismo antepasado remoto. Sin embargo, los comentaristas, según me han informado, nombran a un tal «Seyyid Abū-’l-Wefā, el kurdo», como si se tratara de un personaje. Desafortunadamente, no he recibido detalles sobre su individualidad e historia.
 
-[^54]: miii:6 No he encontrado una explicación de esta expresión, que se introduce de nuevo en el Cuento XIV, dístico 40.
+[^53]: miii:6 No he encontrado una explicación de esta expresión, que se introduce de nuevo en el Cuento XIV, dístico 40.

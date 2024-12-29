@@ -532,38 +532,38 @@ Y llena el mundo de alegría, seguridad, paz y alegría”.
 
 ## Notas al pie
 
-[^351]: m234:1 No he podido descubrir el nombre y la historia del individuo utilizado aquí para señalar una moraleja por nuestro gran poeta. Ibnu-Hishām y Nawawī no lo mencionan.—_Traductor_.
+[^350]: m234:1 No he podido descubrir el nombre y la historia del individuo utilizado aquí para señalar una moraleja por nuestro gran poeta. Ibnu-Hishām y Nawawī no lo mencionan.—_Traductor_.
 
-[^352]: m234:2 Osmán.
+[^351]: m234:2 Osmán.
 
-[^353]: m235:1 Corán xxxvi. 7.
+[^352]: m235:1 Corán xxxvi. 7.
 
-[^354]: m235:2 Corán xxxvi. 8.
+[^353]: m235:2 Corán xxxvi. 8.
 
-[^355]: m237:1 Corán xcix. 1.
+[^354]: m237:1 Corán xcix. 1.
 
-[^356]: m237:2 En alusión a las marcas brahmánicas utilizadas en la India.
+[^355]: m237:2 En alusión a las marcas brahmánicas utilizadas en la India.
 
-[^357]: m238:1 Se dice comúnmente que las sectas heterodoxas del Islam son setenta y dos.
+[^356]: m238:1 Se dice comúnmente que las sectas heterodoxas del Islam son setenta y dos.
 
-[^358]: m238:2 «_El Encubridor_», es decir, del pecado, es uno de los «nombres más hermosos» de Dios, pero no se encuentra en el Corán. «_Yà Sattār!_»
+[^357]: m238:2 «_El Encubridor_», es decir, del pecado, es uno de los «nombres más hermosos» de Dios, pero no se encuentra en el Corán. «_Yà Sattār!_»
 
-[^359]: m239:1 Algunos de los comentaristas sostienen que el Corán vii. 174, alude a la oposición de Balaam a Moisés y los israelitas.
+[^358]: m239:1 Algunos de los comentaristas sostienen que el Corán vii. 174, alude a la oposición de Balaam a Moisés y los israelitas.
 
-[^360]: m239:2 Véase Tale iv. dist. 121; y xi. 112.
+[^359]: m239:2 Véase Tale iv. dist. 121; y xi. 112.
 
-[^361]: m239:3 Véase Cuento ix. 266.
+[^360]: m239:3 Véase Cuento ix. 266.
 
-[^362]: m240:1 Corán ii. 96.
+[^361]: m240:1 Corán ii. 96.
 
-[^363]: m241:1 Véase Cuento iv. dist. 121.
+[^362]: m241:1 Véase Cuento iv. dist. 121.
 
-[^364]: m245:1 Corán i. 5.
+[^363]: m245:1 Corán i. 5.
 
-[^365]: m245:2 ‘Ikrima, hijo de Abu-Yahl, abrazó el Islam en el mar, mientras huía de La Meca tras su captura por Mahoma. Regresó y fue perdonado.
+[^364]: m245:2 ‘Ikrima, hijo de Abu-Yahl, abrazó el Islam en el mar, mientras huía de La Meca tras su captura por Mahoma. Regresó y fue perdonado.
 
-[^366]: m245:3 Corán xi. 44, 45.
+[^365]: m245:3 Corán xi. 44, 45.
 
-[^367]: m246:1 Este es un canon del Islam. Si un adorador no tiene medios para saber la dirección de la «Casa de Dios» en La Meca, puede orientarse en cualquier dirección que considere más probable y así realizar su adoración.
+[^366]: m246:1 Este es un canon del Islam. Si un adorador no tiene medios para saber la dirección de la «Casa de Dios» en La Meca, puede orientarse en cualquier dirección que considere más probable y así realizar su adoración.
 
-[^368]: m246:2 El Profeta.
+[^367]: m246:2 El Profeta.

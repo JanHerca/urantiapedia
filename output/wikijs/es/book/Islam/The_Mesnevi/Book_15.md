@@ -36,8 +36,6 @@ dateCreated: 2024-11-16T19:16:5Z
 
 ## XV.
 
-![La inspiración de Zeyd.](img/m25400.jpg)
-
 El Profeta preguntó una mañana a Zeyd, en tono tierno,[^375]
 «¿Cómo eres, querido discípulo, fiel hasta los huesos?»
 «Soy piadoso; un creyente», respondió Zeyd; y él
@@ -591,66 +589,66 @@ Has gastado tus cosas en tu querido pariente único,
 
 ## Notas al pie
 
-[^376]: m254:1 Zeyd, hijo de Hāritha y padre de Usāma, el liberto e hijo adoptivo de Mahoma, uno de sus discípulos más devotos.
+[^375]: m254:1 Zeyd, hijo de Hāritha y padre de Usāma, el liberto e hijo adoptivo de Mahoma, uno de sus discípulos más devotos.
 
-[^377]: m254:2 Para los ocho paraísos, véase Tale xiv. dist. 74, pág. [253](/es/book/Islam/The_Mesnevi/Book_14#p253).
+[^376]: m254:2 Para los ocho paraísos, véase Tale xiv. dist. 74, pág. [253](/es/book/Islam/The_Mesnevi/Book_14#p253).
 
-[^378]: m254:3 Los siete infiernos son: 1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa‘īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. Todos estos nombres para el Infierno aparecen en el Corán.
+[^377]: m254:3 Los siete infiernos son: 1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa‘īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. Todos estos nombres para el Infierno aparecen en el Corán.
 
-[^379]: m255:1 Esto es predestinación en verdad. Pero ¿no vienen a ser nuestros «vasos de ira» más o menos lo mismo, al menos en algunas opiniones?
+[^378]: m255:1 Esto es predestinación en verdad. Pero ¿no vienen a ser nuestros «vasos de ira» más o menos lo mismo, al menos en algunas opiniones?
 
-[^380]: m256:1 Corán iii. 102.
+[^379]: m256:1 Corán iii. 102.
 
-[^381]: m256:2 «Turco e hindú» es sinónimo de «_bello y oscuro_».
+[^380]: m256:2 «Turco e hindú» es sinónimo de «_bello y oscuro_».
 
-[^382]: m256:3 «Los de la mano izquierda», Corán lix. 8; xc. 18.
+[^381]: m256:3 «Los de la mano izquierda», Corán lix. 8; xc. 18.
 
-[^383]: m256:4 «Los siete pozos del infierno» se nombran respectivamente: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya y Saqar, como se mencionó anteriormente, p. [254](#pm254), nota [^377].
+[^382]: m256:4 «Los siete pozos del infierno» se nombran respectivamente: Jahannam, Latzā, Hutama, Sa‘īr, Jahīm, Hāwiya y Saqar, como se mencionó anteriormente, p. [254](#pm254), nota [^377].
 
-[^384]: m256:5 «Al-Kawthar», Qur’ān cviii. 1, se explica de diversas maneras, pero probablemente significa: _la gran multitud_, scil., _de la humanidad;_ no «una fuente».
+[^383]: m256:5 «Al-Kawthar», Qur’ān cviii. 1, se explica de diversas maneras, pero probablemente significa: _la gran multitud_, scil., _de la humanidad;_ no «una fuente».
 
-[^385]: m257:1 Corán ii. 24.
+[^384]: m257:1 Corán ii. 24.
 
-[^386]: m257:2 Corán ii. 231; y, indirectamente, en muchos textos.
+[^385]: m257:2 Corán ii. 231; y, indirectamente, en muchos textos.
 
-[^387]: m258:1 Corán xvi. 4; xl. 23.
+[^386]: m258:1 Corán xvi. 4; xl. 23.
 
-[^388]: m258:2 Corán lxxvi. 17, 18.
+[^387]: m258:2 Corán lxxvi. 17, 18.
 
-[^389]: m258:3 Miguel es mencionado en el Corán ii. 92; Gabriel también es mencionado allí, y en otros dos lugares; pero ningún otro ángel por su nombre.
+[^388]: m258:3 Miguel es mencionado en el Corán ii. 92; Gabriel también es mencionado allí, y en otros dos lugares; pero ningún otro ángel por su nombre.
 
-[^390]: m259:1 Salomón fue despojado de su sello por un genio, y privado temporalmente de su reino.
+[^389]: m259:1 Salomón fue despojado de su sello por un genio, y privado temporalmente de su reino.
 
-[^391]: m259:2 Corán xxxi. 12. _Lokman_, la ortografía comúnmente aceptada, es doblemente errónea; la primera vocal del nombre es _u_, la _u_ italiana, la _ou_ francesa, la _oo_ de nuestras palabras p. 260 _foot_, _good_, _wood;_ no de _coot_, _moot_, _root_. Nuestra _q_ es, históricamente, el único representante verdadero de la letra fenicia que igualmente dio origen a la ק hebrea, a la antigua Q griega, a la Q latina y a la ق árabe, como se puede ver comparando las letras del último elemento del alfabeto numérico árabe, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), con las hebreas _Koph_, _Resh_, _Schin_, _Tau; con las griegas Q = 90, Ρ = 100, Σ = 200, Τ = 300; y con las latinas Q, R, S, T. La prueba es aún más concluyente al comparar, en orden, todos los alfabetos, en cuanto a posiciones, nombres, formas, valores en sonido y valores numéricos.
+[^390]: m259:2 Corán xxxi. 12. _Lokman_, la ortografía comúnmente aceptada, es doblemente errónea; la primera vocal del nombre es _u_, la _u_ italiana, la _ou_ francesa, la _oo_ de nuestras palabras p. 260 _foot_, _good_, _wood;_ no de _coot_, _moot_, _root_. Nuestra _q_ es, históricamente, el único representante verdadero de la letra fenicia que igualmente dio origen a la ק hebrea, a la antigua Q griega, a la Q latina y a la ق árabe, como se puede ver comparando las letras del último elemento del alfabeto numérico árabe, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), con las hebreas _Koph_, _Resh_, _Schin_, _Tau; con las griegas Q = 90, Ρ = 100, Σ = 200, Τ = 300; y con las latinas Q, R, S, T. La prueba es aún más concluyente al comparar, en orden, todos los alfabetos, en cuanto a posiciones, nombres, formas, valores en sonido y valores numéricos.
 
-[^392]: m262:1 Salomón, cuando fue privado de su reino, se convirtió en pescador.
+[^391]: m262:1 Salomón, cuando fue privado de su reino, se convirtió en pescador.
 
-[^393]: m263:1 Corán ii. 2. Nuestro: «_Credo, quia impossibile_».
+[^392]: m263:1 Corán ii. 2. Nuestro: «_Credo, quia impossibile_».
 
-[^394]: m263:2 Corán lxvii. 3.
+[^393]: m263:2 Corán lxvii. 3.
 
-[^395]: m263:3 Se informa que Mahoma dijo: «El príncipe de un pueblo es su siervo». Esto puede compararse con Mateo xi. 26 y 27.
+[^394]: m263:3 Se informa que Mahoma dijo: «El príncipe de un pueblo es su siervo». Esto puede compararse con Mateo xi. 26 y 27.
 
-[^396]: m264:1 Corán iii. 16.
+[^395]: m264:1 Corán iii. 16.
 
-[^397]: m264:2 Corán ii. 256.
+[^396]: m264:2 Corán ii. 256.
 
-[^398]: m264:3 Corán xxxv. 4.
+[^397]: m264:3 Corán xxxv. 4.
 
-[^399]: m265:1 Corán xxi. 108.
+[^398]: m265:1 Corán xxi. 108.
 
-[^400]: m265:2 Corán xx. 4.
+[^399]: m265:2 Corán xx. 4.
 
-[^401]: m266:1 Corán xxxvi. 53.
+[^400]: m266:1 Corán xxxvi. 53.
 
-[^402]: m266:2 Corán xi. 59.
+[^401]: m266:2 Corán xi. 59.
 
-[^403]: m266:3 Corán xxxiv. 12.
+[^402]: m266:3 Corán xxxiv. 12.
 
-[^404]: m267:1 Véase «Poesía turca» del traductor (pág. 32 o 45), 1879; publicado por Trübner & Co., Ludgate fill, Londres, e.c.
+[^403]: m267:1 Véase «Poesía turca» del traductor (pág. 32 o 45), 1879; publicado por Trübner & Co., Ludgate fill, Londres, e.c.
 
-[^405]: m268:1 Corán ix. 32; lxi. 8. La expresión «politeísta», generalmente utilizada por los traductores para traducir el significado del árabe «_mushrik_», no es correcta; atribuir un «socio» a Dios es tanto «_shirk_» como atribuir muchos. Véase la nota en [p. 36](/es/book/Islam/The_Mesnevi/Acts_3#p36), Tale iii.
+[^404]: m268:1 Corán ix. 32; lxi. 8. La expresión «politeísta», generalmente utilizada por los traductores para traducir el significado del árabe «_mushrik_», no es correcta; atribuir un «socio» a Dios es tanto «_shirk_» como atribuir muchos. Véase la nota en [p. 36](/es/book/Islam/The_Mesnevi/Acts_3#p36), Tale iii.
 
-[^406]: m268:2 Corán xxi. 68, 69, alude a esto.
+[^405]: m268:2 Corán xxi. 68, 69, alude a esto.
 
-[^407]: m268:3 Corán ii. 22; lxvi. 6.
+[^406]: m268:3 Corán ii. 22; lxvi. 6.

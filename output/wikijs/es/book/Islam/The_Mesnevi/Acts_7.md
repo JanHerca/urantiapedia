@@ -126,4 +126,4 @@ Poco después de su nacimiento, o cuando sólo tenía unos pocos meses, el Emir 
 
 ## Notas al pie
 
-[^33]: 122:1 La belleza de la Verdad y de la religión (del Islam).
+[^32]: 122:1 La belleza de la Verdad y de la religión (del Islam).

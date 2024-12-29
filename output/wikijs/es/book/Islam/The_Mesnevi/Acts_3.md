@@ -359,7 +359,7 @@ El anciano siguió inmediatamente el consejo de Jelāl y pidió perdón a Dios. 
 
 Jelāl estaba un día dando una conferencia, cuando un joven distinguido entró, se abrió paso y tomó un asiento más alto que un anciano, uno de los miembros del público.
 
-Jelāl inmediatamente comentó: “En los días de antaño era el mandato de Dios que, si un joven tomaba precedencia sobre un anciano, la tierra lo tragaría de inmediato; tal era el castigo divino por esa ofensa. Ahora, sin embargo, veo que los jóvenes, apenas salidos de la cuerda floja, no muestran respeto por la edad, sino que pisotean a los mayores. No tienen miedo de que la tierra los trague, ni temor de ser transformados en monos. [12] Sin embargo, sucedió que una mañana el León Victorioso de Dios, ‘Alī, hijo de Abū-Tālib, se apresuraba desde su casa para realizar sus devociones al amanecer en la mezquita del Profeta. En su camino, alcanzó a un anciano, un judío, que iba en la misma dirección. El futuro Califa, por nobleza innata y cortesía de naturaleza, tenía respeto por la edad del judío, y no lo pasó, aunque el paso del judío era lento. Cuando ‘Alī llegó a la mezquita, el Profeta ya estaba inclinado en sus devociones; y estaba a punto de cantar el ‘Gloria;’ pero, por orden de Dios, Gabriel descendió, puso su mano sobre el hombro del Profeta y lo detuvo, para que ‘Alī no perdiera el <span id="p41">[<sup><small>p. 41</small></sup>]</span> el mérito que le corresponde por estar presente en la apertura del servicio del amanecer; porque es más meritorio realizar ese servicio temprano una vez, que cumplir las devociones de cien años a otras horas del día. El Profeta ha dicho: ‘El primer acto de reverencia en el culto del amanecer es de más valor que el mundo y todo lo que hay en él.’
+Jelāl inmediatamente comentó: “En los días de antaño era el mandato de Dios que, si un joven tomaba precedencia sobre un anciano, la tierra lo tragaría de inmediato; tal era el castigo divino por esa ofensa. Ahora, sin embargo, veo que los jóvenes, apenas salidos de la cuerda floja, no muestran respeto por la edad, sino que pisotean a los mayores. No tienen miedo de que la tierra los trague, ni temor de ser transformados en monos. [^12] Sin embargo, sucedió que una mañana el León Victorioso de Dios, ‘Alī, hijo de Abū-Tālib, se apresuraba desde su casa para realizar sus devociones al amanecer en la mezquita del Profeta. En su camino, alcanzó a un anciano, un judío, que iba en la misma dirección. El futuro Califa, por nobleza innata y cortesía de naturaleza, tenía respeto por la edad del judío, y no lo pasó, aunque el paso del judío era lento. Cuando ‘Alī llegó a la mezquita, el Profeta ya estaba inclinado en sus devociones; y estaba a punto de cantar el ‘Gloria;’ pero, por orden de Dios, Gabriel descendió, puso su mano sobre el hombro del Profeta y lo detuvo, para que ‘Alī no perdiera el <span id="p41">[<sup><small>p. 41</small></sup>]</span> el mérito que le corresponde por estar presente en la apertura del servicio del amanecer; porque es más meritorio realizar ese servicio temprano una vez, que cumplir las devociones de cien años a otras horas del día. El Profeta ha dicho: ‘El primer acto de reverencia en el culto del amanecer es de más valor que el mundo y todo lo que hay en él.’
 
 “Cuando el Apóstol de Dios hubo concluido su _adoración_, ofreció sus _oraciones habituales_ y recitó sus _lecciones_ habituales del Corán, se volvió y le preguntó a Gabriel la causa oculta de su interrupción en ese momento. Gabriel respondió que Dios no había considerado apropiado que 'Alī fuera privado del mérito asociado a la realización de la primera parte de la adoración del amanecer, por el respeto que había mostrado al viejo judío que había alcanzado, pero a quien no quiso pasar.
 
@@ -1284,6 +1284,8 @@ El príncipe le habló de Bahā Veled, ahora jeque de la ciudad y santo incompar
 
 [^9]: 18:1 El autor verdaderamente eminente del Mesnevī.
 
+[^10:] (no content)
+
 [^11]: 20:1 De la ciudad de Sarakhs en Khurāsān.
 
 [^12]: 23:1 ¿Había oído hablar el Dr. Tanner, el ayuno de cuarenta días en Nueva York, de estas actuaciones?
@@ -1300,7 +1302,7 @@ El príncipe le habló de Bahā Veled, ahora jeque de la ciudad y santo incompar
 
 [^18]: 70:1 «_Satanás, el Lapidado_», es el título principal del maldito. Los musulmanes creen que las «estrellas fugaces» son misiles lanzados por ángeles a los demonios que intentan acercarse al cielo con el propósito de espiar.
 
-[^19]: 80:1 No he encontrado una explicación de esta palabra en ningún diccionario persa. Literalmente significa _colgado de azúcar_. Solo en el Bahāri-‘Ajem se menciona, con un dístico de Hāfiz; pero queda sin explicación.
+[^18]: 80:1 No he encontrado una explicación de esta palabra en ningún diccionario persa. Literalmente significa _colgado de azúcar_. Solo en el Bahāri-‘Ajem se menciona, con un dístico de Hāfiz; pero queda sin explicación.
 
 [^20]: 82:1 Aparentemente se pretende un «_merman_».
 

@@ -40,7 +40,7 @@ El hombre, ¿no es él? El último llamado de la Creación,
 ¿La luz del ojo de la Sabiduría? He aquí la rueda
 De la vida universal como si fuera un anillo,
 Pero el hombre la inscripción y el sello.
-                                      Omar Khayyam.
+&nbsp;&nbsp;&nbsp;Omar Khayyam.
 
 Οὕτως, φησίν, ἐστι πάνυ βαθεῖα καὶ δυσκατάληπτος ἡ τοῦ τελείου ἀνθρώπου γνῶσις. Ἀρχὴ γάρ, φησίν, τελειώσεως γνῶσις ἀνθρώπου· θεοῦ δὲ γνῶσις ἀπηρτισμένη τελείωσις· Hipólito.
 
@@ -160,11 +160,10 @@ Confío en que el análisis y la exposición que siguen sean lo suficientemente 
 [^224]: 80:2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Contraste esto con la expresión monista del mismo pensamiento por Jílí (K I. 51, 1): «Somos el espíritu del Uno, aunque moramos por turnos en dos cuerpos». Así también, Jalálu’ddín Rúmí (Divāni Shamsi Tabrīz, p. 153):
-
-“Feliz el momento en que estamos sentados en el palacio, tú y yo,
-Con dos formas y con dos figuras, pero con una sola alma, tú y yo.”
-
-Cf. K II. 121, 11 ss.: «El amor esencial es el amor en la Unidad, de modo que cada uno de los amantes aparece en la forma del otro y representa al otro. En cuanto el amor del cuerpo y del alma es esencial, el alma sufre por el dolor del cuerpo en este mundo, mientras que el cuerpo sufre por el dolor del alma en el otro mundo: entonces cada uno de ellos aparece en la forma del otro».
+  “Feliz el momento en que estamos sentados en el palacio, tú y yo,
+  Con dos formas y con dos figuras, pero con una sola alma, tú y yo.”
+  
+  Cf. K II. 121, 11 ss.: «El amor esencial es el amor en la Unidad, de modo que cada uno de los amantes aparece en la forma del otro y representa al otro. En cuanto el amor del cuerpo y del alma es esencial, el alma sufre por el dolor del cuerpo en este mundo, mientras que el cuerpo sufre por el dolor del alma en el otro mundo: entonces cada uno de ellos aparece en la forma del otro».
 
 [^226]: 81:1 No sé con qué autoridad el Dr. Goldziher en su artículo sobre Jílí en la _Encycl. of Islam_ (vol. I, p. 46) conecta la _nisba_ con Jíl, un pueblo en el distrito de Bagdad. Jílí se llama a sí mismo ![](/image/book/Islam/Studies_in_Islamic_Mysticism/08100.jpg) (Loth, Cat. de manuscritos árabes en la Biblioteca de la Oficina de la India, p. 182, col. I, l. 7 desde el pie). Él trazó su descendencia a un _sibṭ_ de ‘Abdu ’l-Qádir, _es decir_, a un hijo de la hija del Shaykh.
 

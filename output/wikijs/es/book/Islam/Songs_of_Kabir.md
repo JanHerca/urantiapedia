@@ -119,7 +119,7 @@ Kabir intentó encontrar puntos en común entre hindúes y musulmanes. La poesí
 - [LXIX](/es/book/Islam/Songs_of_Kabir/61_70#lxix)
 - [LXX](/es/book/Islam/Songs_of_Kabir/61_70#lxx)
 - [LXXI](/es/book/Islam/Songs_of_Kabir/71_80)
-- [LXXII](/es/book/Islam/Songs_of_Kabir/71_80lxxii)
+- [LXXII](/es/book/Islam/Songs_of_Kabir/71_80#lxxii)
 - [LXXIII](/es/book/Islam/Songs_of_Kabir/71_80#lxxiii)
 - [LXXIV](/es/book/Islam/Songs_of_Kabir/71_80#lxxiv)
 - [LXXV](/es/book/Islam/Songs_of_Kabir/71_80#lxxv)

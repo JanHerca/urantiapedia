@@ -142,9 +142,9 @@ El hijo afecta la disposición del padre, de modo que desciende de su autoridad 
 
 [^474]: 151:7 _Ibíd_. 75-6.
 
-[^475]: 152:1 Abú Sa‘íd al-Kharráz (_ob_. d.C. 890) era un conocido Ṣúfí de Bagdad. Véase _Kashf al-Maḥjúb_, traducción, [p. 241](3_vv_400_499#p241) sig.
+[^475]: 152:1 Abú Sa‘íd al-Kharráz (_ob_. d.C. 890) era un conocido Ṣúfí de Bagdad. Véase _Kashf al-Maḥjúb_, traducción, [p. 241](./3_vv_400_499#p241) sig.
 
-[^476]: 152:2 El místico no puede conocer a Dios a menos que esté iluminado por todos los atributos Divinos, de modo que se convierta en un _ḥaqq_. Véase [p. 128](2_6#p128).
+[^476]: 152:2 El místico no puede conocer a Dios a menos que esté iluminado por todos los atributos Divinos, de modo que se convierta en un _ḥaqq_. Véase [p. 128](./2_6#p128).
 
 [^477]: 152:3 Cada individuo es consciente de tener diferentes facultades y cualidades.
 
@@ -170,7 +170,7 @@ El hijo afecta la disposición del padre, de modo que desciende de su autoridad 
 
 [^488]: 154:2 _Fuṣúṣ_, 553 y sig., 239. Cf. Macdonald, _Desarrollo de la teología musulmana_, pág. 201 y sig.
 
-[^489]: 154:3 _Fuṣúṣ_, 46, 132. Los atributos están realmente latentes en la Esencia y son idénticos a ella. Cf. [p. 90](2_1#p90) _supra_.
+[^489]: 154:3 _Fuṣúṣ_, 46, 132. Los atributos están realmente latentes en la Esencia y son idénticos a ella. Cf. [p. 90](./2_1#p90) _supra_.
 
 [^490]: 154:4 _Es decir_, existencia relativa, en donde el Ser Absoluto se refleja.
 
@@ -182,7 +182,7 @@ El hijo afecta la disposición del padre, de modo que desciende de su autoridad 
 
 [^494]: 156:1 _Es decir_, la explicación etimológica del nombre _insán_ es que el hombre _yu’nis_ o _yu’ánis_ (sabe o está familiarizado con) todas las cosas: las tres palabras árabes se derivan de la misma raíz.
 
-[^495]: 156:2 Al traerlos a la existencia. Cf. [p. 98](2_3#p98) _supra_.
+[^495]: 156:2 Al traerlos a la existencia. Cf. [p. 98](./2_3#p98) _supra_.
 
 [^496]: 156:3 El corazón del hombre (_qalb_) lleva la impresión del Más Grande Nombre de Dios (_es decir, la Esencia) junto con todos los demás Nombres Divinos.
 
@@ -202,13 +202,13 @@ El hijo afecta la disposición del padre, de modo que desciende de su autoridad 
 
 [^504]: 157:7 _Fuṣúṣ_, 161.
 
-[^505]: 157:8 Jílí lo niega. Véase [p. 102](2_3#p102).
+[^505]: 157:8 Jílí lo niega. Véase [p. 102](./2_3#p102).
 
 [^506]: 158:1 _Fuṣúṣ_, 159.
 
 [^507]: 158:2 _Ibíd_. 77.
 
-[^508]: 158:3 Véase [p. 54](1_2#p54), nota [5](1_2#fn159).
+[^508]: 158:3 Véase [p. 54](./1_2#p54), nota [5](./1_2#fn159).
 
 [^509]: 158:4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
 

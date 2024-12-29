@@ -110,6 +110,6 @@ Sheykh Ferīdūn murió el día de Año Nuevo, 657 a.h. (28 de diciembre, d.C. 1
 
 ## Notas al pie
 
-[^26]: 110:1 Saladino de los escritos europeos. Las palabras significan: _la idoneidad de la religión_ (del Islam).
+[^25]: 110:1 Saladino de los escritos europeos. Las palabras significan: _la idoneidad de la religión_ (del Islam).
 
-[^27]: 110:2 El mundo musulmán sólo conoce a un _Qaysar_ (César), el Emperador de Roma (Antigua o Nueva), título que ahora ostenta el Emperador de Austria.
+[^26]: 110:2 El mundo musulmán sólo conoce a un _Qaysar_ (César), el Emperador de Roma (Antigua o Nueva), título que ahora ostenta el Emperador de Austria.

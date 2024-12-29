@@ -1259,86 +1259,86 @@ Arroja tú el cadáver vil de la pompa terrenal a los perros.
 
 ## Notas al pie
 
-[^136]: m67:1 Kalīla y Dimna es la versión árabe de las fábulas de Pīlpāy.
+[^135]: m67:1 Kalīla y Dimna es la versión árabe de las fábulas de Pīlpāy.
 
-[^137]: m67:2 Este proverbio se da en «_Proverbia Arabica_» de Freytag, ii. p. 488, n. 278, como respuesta de Mahoma a un enemigo hecho prisionero dos veces.
+[^136]: m67:2 Este proverbio se da en «_Proverbia Arabica_» de Freytag, ii. p. 488, n. 278, como respuesta de Mahoma a un enemigo hecho prisionero dos veces.
 
-[^138]: m68:1 Equivale a atar un caballo, «Mantén tu pólvora seca».
+[^137]: m68:1 Equivale a atar un caballo, «Mantén tu pólvora seca».
 
-[^139]: m68:2 El original dice: «_El que gana es amigo de Dios_.»
+[^138]: m68:2 El original dice: «_El que gana es amigo de Dios_.»
 
-[^140]: m68:3 El original dice: «_Huye de la serpiente y se encuentra con un dragón_.»
+[^139]: m68:3 El original dice: «_Huye de la serpiente y se encuentra con un dragón_.»
 
-[^141]: m69:1 Las palabras tal como aparecen en el original, en árabe, no están en el Corán.
+[^140]: m69:1 Las palabras tal como aparecen en el original, en árabe, no están en el Corán.
 
-[^142]: m70:1 Un gallo que canta fuera de temporada, en la noche.
+[^141]: m70:1 Un gallo que canta fuera de temporada, en la noche.
 
-[^143]: m70:2 Corán xiv. 47.
+[^142]: m70:2 Corán xiv. 47.
 
-[^144]: m71:1 Azrā’īl, el ángel de la muerte, que toma las almas de los hombres.
+[^143]: m71:1 Azrā’īl, el ángel de la muerte, que toma las almas de los hombres.
 
-[^145]: m71:2 Se relata en el Corán, en xxi. 81 y xxxiv. 11, que Salomón poseía poder sobre el viento.
+[^144]: m71:2 Se relata en el Corán, en xxi. 81 y xxxiv. 11, que Salomón poseía poder sobre el viento.
 
-[^146]: m72:1 En el Corán iii. 47 y viii. 30, Dios es llamado «el mejor de los estratagemas».
+[^145]: m72:1 En el Corán iii. 47 y viii. 30, Dios es llamado «el mejor de los estratagemas».
 
-[^147]: m72:2 No encuentro este proverbio en «_Proverbia_» de Freytag.
+[^146]: m72:2 No encuentro este proverbio en «_Proverbia_» de Freytag.
 
-[^148]: m73:1 Corán ii. 15.
+[^147]: m73:1 Corán ii. 15.
 
-[^149]: m73:2 Véase Corán xlviii. 29; lix. 8; y lxxiii. 20.
+[^148]: m73:2 Véase Corán xlviii. 29; lix. 8; y lxxiii. 20.
 
-[^150]: m75:1 En el Corán ii. 29, se da el relato de esto. Compárese con Génesis ii. 19.
+[^149]: m75:1 En el Corán ii. 29, se da el relato de esto. Compárese con Génesis ii. 19.
 
-[^151]: m75:2; ¿Era Satanás este ermitaño muy viejo? Su tentación exitosa fue el bozal. El original dice «_becerro_», donde he dicho «_niño;_»—es decir, Adán, cuando fue creado por primera vez. Instruido por Dios, nombró todas las cosas, lo que los ángeles no pudieron hacer, y por eso fueron silenciados.
+[^150]: m75:2; ¿Era Satanás este ermitaño muy viejo? Su tentación exitosa fue el bozal. El original dice «_becerro_», donde he dicho «_niño;_»—es decir, Adán, cuando fue creado por primera vez. Instruido por Dios, nombró todas las cosas, lo que los ángeles no pudieron hacer, y por eso fueron silenciados.
 
-[^152]: m75:3 La historia del perro de los Durmientes se cuenta en el Corán xviii. 27-21.
+[^151]: m75:3 La historia del perro de los Durmientes se cuenta en el Corán xviii. 27-21.
 
-[^153]: m76:1 El nombre persa para la liebre es «_oreja de asno;_» de ahí el juego de palabras.
+[^152]: m76:1 El nombre persa para la liebre es «_oreja de asno;_» de ahí el juego de palabras.
 
-[^154]: m79:1 La «tabla oculta» de los decretos de Dios; mencionado en el Corán lxxxv. 22.
+[^153]: m79:1 La «tabla oculta» de los decretos de Dios; mencionado en el Corán lxxxv. 22.
 
-[^155]: m79:2 En el «árbol de loto extremo» en el cielo más alto, en la noche de la ascensión. Gabriel no pudo ir más allá. Mahoma continuó, hacia la presencia de Dios.
+[^154]: m79:2 En el «árbol de loto extremo» en el cielo más alto, en la noche de la ascensión. Gabriel no pudo ir más allá. Mahoma continuó, hacia la presencia de Dios.
 
-[^156]: m79:3 La palabra que significa «compulsión» también significa «reducción» en sentido quirúrgico, y «álgebra» matemáticamente.
+[^155]: m79:3 La palabra que significa «compulsión» también significa «reducción» en sentido quirúrgico, y «álgebra» matemáticamente.
 
-[^157]: m79:4 «Burāq» es el nombre del corcel angelical en el que Mahoma subió al cielo en su viaje nocturno. No se encuentra en el Corán.
+[^156]: m79:4 «Burāq» es el nombre del corcel angelical en el que Mahoma subió al cielo en su viaje nocturno. No se encuentra en el Corán.
 
-[^158]: m80:1 «La luna se partió» en dos como señal de la proximidad del día del juicio. Corán liv. 1.
+[^157]: m80:1 «La luna se partió» en dos como señal de la proximidad del día del juicio. Corán liv. 1.
 
-[^159]: m82:1 El nombre de Mahoma aparece en la mayoría de las monedas musulmanas.
+[^158]: m82:1 El nombre de Mahoma aparece en la mayoría de las monedas musulmanas.
 
-[^160]: m82:2 Se considera que Mahoma es el complemento de todos los profetas.
+[^159]: m82:2 Se considera que Mahoma es el complemento de todos los profetas.
 
-[^161]: m84:1 Corán ii. 151.
+[^160]: m84:1 Corán ii. 151.
 
-[^162]: m84:2 No en «_Proverbia_» de Freytag.
+[^161]: m84:2 No en «_Proverbia_» de Freytag.
 
-[^163]: m85:1 Véase nota en el Prefacio del Autor y Capítulo vi. en las Anécdotas.
+[^162]: m85:1 Véase nota en el Prefacio del Autor y Capítulo vi. en las Anécdotas.
 
-[^164]: m87:1 Los comentaristas del Corán xxi. 69, mencionan el mosquito de Nimrod.
+[^163]: m87:1 Los comentaristas del Corán xxi. 69, mencionan el mosquito de Nimrod.
 
-[^165]: m87:2 Corán xxviii. 5, menciona a Amán con el Faraón.
+[^164]: m87:2 Corán xxviii. 5, menciona a Amán con el Faraón.
 
-[^166]: m87:3 Se dice que creyó a Satanás en lugar de a Abraham.
+[^165]: m87:3 Se dice que creyó a Satanás en lugar de a Abraham.
 
-[^167]: m88:1 El traductor se ha aventurado a acuñar las expresiones «_singlottismo_», «_synglottista_» y «_sincardismo_» como ejemplos de toda una clase utilizada en persa.
+[^166]: m88:1 El traductor se ha aventurado a acuñar las expresiones «_singlottismo_», «_synglottista_» y «_sincardismo_» como ejemplos de toda una clase utilizada en persa.
 
-[^168]: m90:1 Un título que designa a Adán, quien nombró todas las cosas.
+[^167]: m90:1 Un título que designa a Adán, quien nombró todas las cosas.
 
-[^169]: m91:1 Corán ii. 29.
+[^168]: m91:1 Corán ii. 29.
 
-[^170]: m91:2 Omar.
+[^169]: m91:2 Omar.
 
-[^171]: m91:3 Una cláusula muy dudosa; puede traducirse: «_Tú estás conmigo_».
+[^170]: m91:3 Una cláusula muy dudosa; puede traducirse: «_Tú estás conmigo_».
 
-[^172]: m91:4 Adán, en la mayoría de los idiomas, ha llegado a significar _hombre_.
+[^171]: m91:4 Adán, en la mayoría de los idiomas, ha llegado a significar _hombre_.
 
-[^173]: m92:1 El Corán ii. 33, menciona simplemente una «planta caulescente»; «trigo» es una de varias glosas de los comentaristas, como nuestra «manzana».
+[^172]: m92:1 El Corán ii. 33, menciona simplemente una «planta caulescente»; «trigo» es una de varias glosas de los comentaristas, como nuestra «manzana».
 
-[^174]: m92:2 El Corán vii. 22, hace que Adán confiese el pecado con contrición, junto con Eva, mereciendo así el perdón final de Dios.
+[^173]: m92:2 El Corán vii. 22, hace que Adán confiese el pecado con contrición, junto con Eva, mereciendo así el perdón final de Dios.
 
-[^175]: m96:1 Corán cx. 1.
+[^174]: m96:1 Corán cx. 1.
 
-[^176]: m98:1 Evidentemente el nombre de un rival.
+[^175]: m98:1 Evidentemente el nombre de un rival.
 
-[^177]: m99:1 Éstos son espiritualistas santos, derviches verdaderos y piadosos.
+[^176]: m99:1 Éstos son espiritualistas santos, derviches verdaderos y piadosos.

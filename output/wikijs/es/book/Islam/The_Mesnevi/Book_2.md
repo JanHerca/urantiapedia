@@ -260,22 +260,22 @@ El vino del amor de Dios era el alimento de su alma.
 
 ## Notas al pie
 
-[^70]: m21:1 En su verdadero sentido, la palabra «malhechor» significa _alguien que sostiene una creencia errónea_. Decimos corruptamente ahora: _un infiel_.
+[^69]: m21:1 En su verdadero sentido, la palabra «malhechor» significa _alguien que sostiene una creencia errónea_. Decimos corruptamente ahora: _un infiel_.
 
-[^71]: m21:2 Los «hipócritas», en el Islam, forman una facción. Profesan la fe abiertamente, pero interiormente la odian o la desprecian.
+[^70]: m21:2 Los «hipócritas», en el Islam, forman una facción. Profesan la fe abiertamente, pero interiormente la odian o la desprecian.
 
-[^72]: m21:3 Los musulmanes «adoran» a Dios en sus devociones designadas. Si «rezan» también, posteriormente, esto es un acto voluntario.
+[^71]: m21:3 Los musulmanes «adoran» a Dios en sus devociones designadas. Si «rezan» también, posteriormente, esto es un acto voluntario.
 
-[^73]: m22:1 «adoración, ayuno, limosna y peregrinación» son los cuatro actos por los cuales un musulmán testifica externamente su fe. «Adoración», cinco veces al día; «ayuno», un mes al año; «peregrinación», a La Meca, una vez, como deber, en la vida; «limosna», siempre que se posea una cierta cantidad de bienes.
+[^72]: m22:1 «adoración, ayuno, limosna y peregrinación» son los cuatro actos por los cuales un musulmán testifica externamente su fe. «Adoración», cinco veces al día; «ayuno», un mes al año; «peregrinación», a La Meca, una vez, como deber, en la vida; «limosna», siempre que se posea una cierta cantidad de bienes.
 
-[^74]: m22:2 «Mervitas y Razitas», ciudadanos de Merv y Rey (Rhages), dos grandes ciudades persas en tiempos pasados, ahora en ruinas. Merv es en la actualidad un campamento turcomano, considerado por Rusia como un lugar de parada en el camino a Herāt y la India. Rey, el Rhages del libro de Tobías, no lejos de Teherán, la actual capital del Shāh en Persia. Los dos partidos eran como los Orangemen y Ribbonmen de Irlanda de nuestro tiempo.
+[^73]: m22:2 «Mervitas y Razitas», ciudadanos de Merv y Rey (Rhages), dos grandes ciudades persas en tiempos pasados, ahora en ruinas. Merv es en la actualidad un campamento turcomano, considerado por Rusia como un lugar de parada en el camino a Herāt y la India. Rey, el Rhages del libro de Tobías, no lejos de Teherán, la actual capital del Shāh en Persia. Los dos partidos eran como los Orangemen y Ribbonmen de Irlanda de nuestro tiempo.
 
-[^75]: m22:3 El cielo y el infierno; las «ovejas» y las «cabras».
+[^74]: m22:3 El cielo y el infierno; las «ovejas» y las «cabras».
 
-[^76]: m23:1 El original tiene «el Amado»; el título más alto dado a Mahoma por los musulmanes es _El Amado de Dios_; que no se encuentra en el Corán.
+[^75]: m23:1 El original tiene «el Amado»; el título más alto dado a Mahoma por los musulmanes es _El Amado de Dios_; que no se encuentra en el Corán.
 
-[^77]: m23:2 El original tiene «su amado»; Dios es _el amado_ de los místicos.
+[^76]: m23:2 El original tiene «su amado»; Dios es _el amado_ de los místicos.
 
-[^78]: m24:1 Un _león de lana_ es un juguete fabricado y vendido o exhibido por mendigos.
+[^77]: m24:1 Un _león de lana_ es un juguete fabricado y vendido o exhibido por mendigos.
 
-[^79]: m24:2 Musaylama era un príncipe de Naja, que se presentó como profeta y escribió a Mahoma proponiéndole que se dividieran Arabia. Su epístola comenzaba así: «Musaylama, el Apóstol de Dios, a Mahoma, el Apóstol de Dios». La respuesta de Mahoma comenzaba así: «Musaylama, el Apóstol de Dios, a Musaylama el mentiroso». Finalmente fue derrotado y muerto en batalla, en el undécimo año de la Hégira después de la muerte de Mahoma; cuando toda Arabia se sometió al Islam. Fue asesinado por Wahshi, el esclavo etíope que, en la batalla de ’Uhud, había atravesado con la misma jabalina el cuerpo de Hamza, el tío de Mahoma. Wahshi vivió mucho tiempo después de estos acontecimientos, en Siria. Solía decir que, como pagano, había matado a uno de los mejores hombres, y, como musulmán, a uno de los peores. Cuando tomaron Meca, lo proscribieron, pero logró escapar sano y salvo. Poco después se sometió y Mahoma lo perdonó, como hizo con otros en circunstancias análogas.
+[^78]: m24:2 Musaylama era un príncipe de Naja, que se presentó como profeta y escribió a Mahoma proponiéndole que se dividieran Arabia. Su epístola comenzaba así: «Musaylama, el Apóstol de Dios, a Mahoma, el Apóstol de Dios». La respuesta de Mahoma comenzaba así: «Musaylama, el Apóstol de Dios, a Musaylama el mentiroso». Finalmente fue derrotado y muerto en batalla, en el undécimo año de la Hégira después de la muerte de Mahoma; cuando toda Arabia se sometió al Islam. Fue asesinado por Wahshi, el esclavo etíope que, en la batalla de ’Uhud, había atravesado con la misma jabalina el cuerpo de Hamza, el tío de Mahoma. Wahshi vivió mucho tiempo después de estos acontecimientos, en Siria. Solía decir que, como pagano, había matado a uno de los mejores hombres, y, como musulmán, a uno de los peores. Cuando tomaron Meca, lo proscribieron, pero logró escapar sano y salvo. Poco después se sometió y Mahoma lo perdonó, como hizo con otros en circunstancias análogas.
