@@ -118,122 +118,122 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 ## Notes de bas de page
 
-[^463]: 149:1 L'édition utilisée est celle publiée au Caire en 1321 a.H.
+[^461]: 149:1 L'édition utilisée est celle publiée au Caire en 1321 a.H.
 
-[^464]: 149:2 Voir p. 88.
+[^462]: 149:2 Voir p. 88.
 
-[^465]: 150 : 1 _Fusúṣ_, 74.
+[^463]: 150 : 1 _Fusúṣ_, 74.
 
-[^466]: 150:2 Ce mode de pensée conduit Ibnu 'l-'Arabí à se livrer à des paradoxes audacieux, par exemple, « Il me loue (en manifestant mes perfections et en me créant sous Sa forme), et je Le loue (en manifestant Ses perfections et en Lui obéissant). Comment peut-Il être indépendant lorsque je L'aide et L'assiste ? (parce que les attributs divins dérivent la possibilité de manifestation de leurs corrélats). C'est pour cette raison que Dieu m'a fait exister, et je Le connais et Le fais exister (dans ma connaissance et ma contemplation de Lui). » _Fuṣúṣ_, 78.
+[^464]: 150:2 Ce mode de pensée conduit Ibnu 'l-'Arabí à se livrer à des paradoxes audacieux, par exemple, « Il me loue (en manifestant mes perfections et en me créant sous Sa forme), et je Le loue (en manifestant Ses perfections et en Lui obéissant). Comment peut-Il être indépendant lorsque je L'aide et L'assiste ? (parce que les attributs divins dérivent la possibilité de manifestation de leurs corrélats). C'est pour cette raison que Dieu m'a fait exister, et je Le connais et Le fais exister (dans ma connaissance et ma contemplation de Lui). » _Fuṣúṣ_, 78.
 
-[^467]: 150:3 Dieu est l'identité des attributs, en ce sens qu'ils ne se surajoutent pas à Son Essence mais sont des relations de l'Essence en tant que sujet à elle-même en tant qu'objet (_Fuṣúṣ_, 226). L'univers est la somme objectivée de ces relations.
+[^465]: 150:3 Dieu est l'identité des attributs, en ce sens qu'ils ne se surajoutent pas à Son Essence mais sont des relations de l'Essence en tant que sujet à elle-même en tant qu'objet (_Fuṣúṣ_, 226). L'univers est la somme objectivée de ces relations.
 
-[^468]: 151 : 1 _Fuṣúṣ_, 16 fol.
+[^466]: 151 : 1 _Fuṣúṣ_, 16 fol.
 
-[^469]: 151:2 _Ibid_. 142.
+[^467]: 151:2 _Ibid_. 142.
 
-[^470]: 151:3 _Mújad_ (la chose amenée à l'existence) implique _mújid_ (celui qui l'amène à l'existence).
+[^468]: 151:3 _Mújad_ (la chose amenée à l'existence) implique _mújid_ (celui qui l'amène à l'existence).
 
-[^471]: 151 : 4 _Fuṣúṣ_, 139 suiv.
+[^469]: 151 : 4 _Fuṣúṣ_, 139 suiv.
 
-[^472]: 151:5 _Ibid_. 76.
+[^470]: 151:5 _Ibid_. 76.
 
-[^473]: 151:6 _Ibid_. 77. Le « soi » déterminant est en réalité une individualisation (_ḥaqíqa_) de Dieu.
+[^471]: 151:6 _Ibid_. 77. Le « soi » déterminant est en réalité une individualisation (_ḥaqíqa_) de Dieu.
 
-[^474]: 151:7 _Ibid_. 75-6.
+[^472]: 151:7 _Ibid_. 75-6.
 
-[^475]: 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](./3_vv_400_499#p241) suit.
+[^473]: 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](./3_vv_400_499#p241) suit.
 
-[^476]: 152:2 Le mystique ne peut connaître Dieu que s'il est illuminé par tous les attributs divins, de sorte qu'il devienne un _ḥaqq_. Voir [p. 128](./2_6#p128).
+[^474]: 152:2 Le mystique ne peut connaître Dieu que s'il est illuminé par tous les attributs divins, de sorte qu'il devienne un _ḥaqq_. Voir [p. 128](./2_6#p128).
 
-[^477]: 152:3 Chaque individu est conscient d'avoir des facultés et des qualités différentes.
+[^475]: 152:3 Chaque individu est conscient d'avoir des facultés et des qualités différentes.
 
-[^478]: 152:4 Un au premier degré est un, au second dix, au troisième cent, au quatrième mille, et chacun de ces degrés comprend des nombres simples et complexes, de même que les espèces comprennent les individus et les genres les espèces.
+[^476]: 152:4 Un au premier degré est un, au second dix, au troisième cent, au quatrième mille, et chacun de ces degrés comprend des nombres simples et complexes, de même que les espèces comprennent les individus et les genres les espèces.
 
-[^479]: 153:1 L'Être réel, lorsqu'il est limité par une individualisation universelle, est la Nature, à partir de laquelle se manifestent des individualisations secondaires et tertiaires, à savoir des corps naturels de diverses sortes.
+[^477]: 153:1 L'Être réel, lorsqu'il est limité par une individualisation universelle, est la Nature, à partir de laquelle se manifestent des individualisations secondaires et tertiaires, à savoir des corps naturels de diverses sortes.
 
-[^480]: 153:2 La nature peut être considérée soit comme l'ensemble des formes particulières dans lesquelles la Réalité se révèle, soit comme la forme universelle de la Réalité se révélant dans toutes les formes particulières.
+[^478]: 153:2 La nature peut être considérée soit comme l'ensemble des formes particulières dans lesquelles la Réalité se révèle, soit comme la forme universelle de la Réalité se révélant dans toutes les formes particulières.
 
-[^481]: 153 : 3 _Fuṣúṣ_, 63 suiv.
+[^479]: 153 : 3 _Fuṣúṣ_, 63 suiv.
 
-[^482]: 153:4 Voir p. 94.
+[^480]: 153:4 Voir p. 94.
 
-[^483]: 153 : 5 _Fuṣúṣ_, 72 fol.
+[^481]: 153 : 5 _Fuṣúṣ_, 72 fol.
 
-[^484]: 153:6 _Ibid_. 230 fol.
+[^482]: 153:6 _Ibid_. 230 fol.
 
-[^485]: 153:7 _Ibid_. 113 suiv.
+[^483]: 153:7 _Ibid_. 113 suiv.
 
-[^486]: 153:8 _Ibid_. 182.
+[^484]: 153:8 _Ibid_. 182.
 
-[^487]: 154:1 Mais il n’y a pas de moment de non-être entre les actes successifs de la création (_Fuṣúṣ_, 196 fol.). L’auteur compare cela avec le _tajdídu ’l-a‘ráḍ_ ash‘arite
+[^485]: 154:1 Mais il n’y a pas de moment de non-être entre les actes successifs de la création (_Fuṣúṣ_, 196 fol.). L’auteur compare cela avec le _tajdídu ’l-a‘ráḍ_ ash‘arite
 
-[^488]: 154:2 _Fuṣúṣ_, 553 s., 239. Cf. Macdonald, _Développement de la théologie musulmane_, p. 201 s.
+[^486]: 154:2 _Fuṣúṣ_, 553 s., 239. Cf. Macdonald, _Développement de la théologie musulmane_, p. 201 s.
 
-[^489]: 154:3 _Fuṣúṣ_, 46, 132. Les attributs sont réellement latents dans l'Essence et identiques à elle. Cf. [p. 90](./2_1#p90) _supra_.
+[^487]: 154:3 _Fuṣúṣ_, 46, 132. Les attributs sont réellement latents dans l'Essence et identiques à elle. Cf. [p. 90](./2_1#p90) _supra_.
 
-[^490]: 154:4 _C'est-à-dire_, existence relative, dans laquelle l'Être Absolu est reflété.
+[^488]: 154:4 _C'est-à-dire_, existence relative, dans laquelle l'Être Absolu est reflété.
 
-[^491]: 155:1 Le monde des choses a été créé avant la création de l'homme, dans la mesure où tout attribut divin (universel) implique logiquement l'existence de son particulier correspondant, qui est l'Essence individualisée par cette relation, tandis que l'Homme seul est l'Essence individualisée par toutes les relations ensemble. Puisque l'univers ne pouvait manifester l'unité de l'Etre avant que l'Homme n'apparaisse en lui, il était comme un miroir non poli ou un corps sans âme.
+[^489]: 155:1 Le monde des choses a été créé avant la création de l'homme, dans la mesure où tout attribut divin (universel) implique logiquement l'existence de son particulier correspondant, qui est l'Essence individualisée par cette relation, tandis que l'Homme seul est l'Essence individualisée par toutes les relations ensemble. Puisque l'univers ne pouvait manifester l'unité de l'Etre avant que l'Homme n'apparaisse en lui, il était comme un miroir non poli ou un corps sans âme.
 
-[^492]: 155:2 L'émanation la plus sainte (_al fayḍu 'l-aqdas_) est la manifestation éternelle de l'Essence à elle-même. Cette émanation est reçue par les essences des choses (_al-a'yánu 'l-thábita_) dans le plan de l'unité-dans-la-pluralité (_wáḥidiyya_), c'est-à-dire dans la connaissance divine où il n'existe aucune distinction. D'un point de vue, Dieu ne se révèle jamais qu'à Lui-même ; d'un autre, Il se révèle aux modes « récepteurs » de Lui-même, à chacun selon sa « capacité ».
+[^490]: 155:2 L'émanation la plus sainte (_al fayḍu 'l-aqdas_) est la manifestation éternelle de l'Essence à elle-même. Cette émanation est reçue par les essences des choses (_al-a'yánu 'l-thábita_) dans le plan de l'unité-dans-la-pluralité (_wáḥidiyya_), c'est-à-dire dans la connaissance divine où il n'existe aucune distinction. D'un point de vue, Dieu ne se révèle jamais qu'à Lui-même ; d'un autre, Il se révèle aux modes « récepteurs » de Lui-même, à chacun selon sa « capacité ».
 
-[^493]: 155:3 J'ai omis ici quelques lignes, à savoir que l'Homme réunit tous les aspects de Dieu : l'unité de l'Essence, la pluralité des attributs divins et le monde de la Nature. Cette vérité, ajoute l'auteur, ne peut être appréhendée que par la perception mystique.
+[^491]: 155:3 J'ai omis ici quelques lignes, à savoir que l'Homme réunit tous les aspects de Dieu : l'unité de l'Essence, la pluralité des attributs divins et le monde de la Nature. Cette vérité, ajoute l'auteur, ne peut être appréhendée que par la perception mystique.
 
-[^494]: 156:1 _C'est-à-dire_, l'explication étymologique du nom _insán_ est que l'Homme _yu’nis_ ou _yu’ánis_ (connaît ou est familier avec) toutes choses : les trois mots arabes sont dérivés de la même racine.
+[^492]: 156:1 _C'est-à-dire_, l'explication étymologique du nom _insán_ est que l'Homme _yu’nis_ ou _yu’ánis_ (connaît ou est familier avec) toutes choses : les trois mots arabes sont dérivés de la même racine.
 
-[^495]: 156:2 En les faisant exister. Cf. [p. 98](./2_3#p98) _supra_.
+[^493]: 156:2 En les faisant exister. Cf. [p. 98](./2_3#p98) _supra_.
 
-[^496]: 156:3 Le cœur de l'homme (_qalb_) porte l'empreinte du Plus Grand Nom de Dieu (_c'est-à-dire_, l'Essence) avec tous les autres Noms Divins.
+[^494]: 156:3 Le cœur de l'homme (_qalb_) porte l'empreinte du Plus Grand Nom de Dieu (_c'est-à-dire_, l'Essence) avec tous les autres Noms Divins.
 
-[^497]: 156 :4 _Fuṣúṣ_, 8 suiv.
+[^495]: 156 :4 _Fuṣúṣ_, 8 suiv.
 
-[^498]: 157:1 L'homme est un être absolu limité par l'individualisation (_ta'ayyun_). Cette limitation est cependant négative et irréelle : elle consiste à ne pas recevoir toutes les individualisations, à être doté de tous les attributs, à être nommé de tous les noms. Dans la mesure où l'homme est une réalité (_ḥaqq_), il n'est pas une créature humaine (_khalq_).
+[^496]: 157:1 L'homme est un être absolu limité par l'individualisation (_ta'ayyun_). Cette limitation est cependant négative et irréelle : elle consiste à ne pas recevoir toutes les individualisations, à être doté de tous les attributs, à être nommé de tous les noms. Dans la mesure où l'homme est une réalité (_ḥaqq_), il n'est pas une créature humaine (_khalq_).
 
-[^499]: 157 :2 _Fuṣúṣ_, 39 fol.
+[^497]: 157 :2 _Fuṣúṣ_, 39 fol.
 
-[^500]: 157:3 « Unique » équivaut à « triple ». Cf. [p. 151](#p151) _supra_.
+[^498]: 157:3 « Unique » équivaut à « triple ». Cf. [p. 151](#p151) _supra_.
 
-[^501]: 157 : 4 _Fusúṣ_, 267.
+[^499]: 157 : 4 _Fusúṣ_, 267.
 
-[^502]: 157:5 P. 130 suiv.
+[^500]: 157:5 P. 130 suiv.
 
-[^503]: 157:6 Voir [p. 151](#p151) _supra_.
+[^501]: 157:6 Voir [p. 151](#p151) _supra_.
 
-[^504]: 157 : 7 _Fusúṣ_, 161.
+[^502]: 157 : 7 _Fusúṣ_, 161.
 
-[^505]: 157:8 Jílí nie cela. Voir [p. 102](./2_3#p102).
+[^503]: 157:8 Jílí nie cela. Voir [p. 102](./2_3#p102).
 
-[^506]: 158 : 1 _Fusúṣ_, 159.
+[^504]: 158 : 1 _Fusúṣ_, 159.
 
-[^507]: 158:2 _Ibid_. 77.
+[^505]: 158:2 _Ibid_. 77.
 
-[^508]: 158:3 Voir [p. 54](./1_2#p54), note [5](./1_2#fn159).
+[^506]: 158:3 Voir [p. 54](./1_2#p54), note [5](./1_2#fn159).
 
-[^509]: 158 : 4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
+[^507]: 158 : 4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
 
-[^510]: 158:5 _Ibid_. 105-6. La prière de Job pour que Dieu soulage sa douleur est justifiée par le fait qu'en priant Dieu de l'enlever, il l'a en réalité enlevée à Dieu, dans la mesure où l'homme est la forme extérieure de Dieu. Une telle prière ne manifeste pas un manque de soumission au décret divin (_qaḍá_), mais une insatisfaction à l'égard de la chose décrétée (_al-maqdí bihi_), qui — comme expliqué ci-dessus — est décrété au moyen de l'âme individuelle, c'est-à-dire un mode particulier de Dieu, non le Dieu absolu (_ibid_. 218-9). Tous les modes particuliers, ainsi que les effets qui leur sont attachés, sont (en tant que tels) des relations dépourvues de réalité. « L'effet (_athar_) appartient à l'inexistant » (_ibid_. 224). Cette distinction apparaît à la p. 159 un vers de Jalálu’ddin Rúmi, qui a intrigué M. Whinfield : ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) « Je lui ai dit : « L’infidélité est la chose décrétée, pas le décret » » (_Masnavi-i Ma‘naví_, tr. et abrégé par E. H. Whinfield, 2e éd., p. 125).
+[^508]: 158:5 _Ibid_. 105-6. La prière de Job pour que Dieu soulage sa douleur est justifiée par le fait qu'en priant Dieu de l'enlever, il l'a en réalité enlevée à Dieu, dans la mesure où l'homme est la forme extérieure de Dieu. Une telle prière ne manifeste pas un manque de soumission au décret divin (_qaḍá_), mais une insatisfaction à l'égard de la chose décrétée (_al-maqdí bihi_), qui — comme expliqué ci-dessus — est décrété au moyen de l'âme individuelle, c'est-à-dire un mode particulier de Dieu, non le Dieu absolu (_ibid_. 218-9). Tous les modes particuliers, ainsi que les effets qui leur sont attachés, sont (en tant que tels) des relations dépourvues de réalité. « L'effet (_athar_) appartient à l'inexistant » (_ibid_. 224). Cette distinction apparaît à la p. 159 un vers de Jalálu’ddin Rúmi, qui a intrigué M. Whinfield : ![](/image/book/Islam/Studies_in_Islamic_Mysticism/15900.jpg) « Je lui ai dit : « L’infidélité est la chose décrétée, pas le décret » » (_Masnavi-i Ma‘naví_, tr. et abrégé par E. H. Whinfield, 2e éd., p. 125).
 
-[^511]: 159:1 _C'est-à-dire_, Dieu est révélé sous différentes formes de croyance selon la capacité du croyant. Seul le mystique voit qu'Il est Un dans toutes les formes, car le cœur du mystique (_qalb_) est tout-réceptif : il assume toute forme dans laquelle Dieu se révèle, comme la cire prend l'empreinte du sceau (_Fuṣúṣ_, 145).
+[^509]: 159:1 _C'est-à-dire_, Dieu est révélé sous différentes formes de croyance selon la capacité du croyant. Seul le mystique voit qu'Il est Un dans toutes les formes, car le cœur du mystique (_qalb_) est tout-réceptif : il assume toute forme dans laquelle Dieu se révèle, comme la cire prend l'empreinte du sceau (_Fuṣúṣ_, 145).
 
-[^512]: 159:2 _Fuṣúṣ_, 282. Cf. 135.
+[^510]: 159:2 _Fuṣúṣ_, 282. Cf. 135.
 
-[^513]: 159:3 _Ibid_. 205.
+[^511]: 159:3 _Ibid_. 205.
 
-[^514]: 160:1 Cf. p. 98 fol.
+[^512]: 160:1 Cf. p. 98 fol.
 
-[^515]: 160:2 _C'est-à-dire_, le Seigneur fini (_rabb_) qui se tient dans une relation spéciale et différente avec chaque objet de seigneurie (_marbúb_). Cf. _Fuṣúṣ_, 95.
+[^513]: 160:2 _C'est-à-dire_, le Seigneur fini (_rabb_) qui se tient dans une relation spéciale et différente avec chaque objet de seigneurie (_marbúb_). Cf. _Fuṣúṣ_, 95.
 
-[^516]: 160:3 _C'est-à-dire_, le vrai mystique prie pour qu'il soit « illuminé » par l'attribut divin de Miséricorde afin de devenir un _ráḥim_ (ἐλεῶν), ce qui implique nécessairement un _marḥúm_ (ἐλεούμενος), et de se connaître comme un mode du Dieu absolu qui est en réalité à la fois le _ráḥim_ et le _marḥúm_.
+[^514]: 160:3 _C'est-à-dire_, le vrai mystique prie pour qu'il soit « illuminé » par l'attribut divin de Miséricorde afin de devenir un _ráḥim_ (ἐλεῶν), ce qui implique nécessairement un _marḥúm_ (ἐλεούμενος), et de se connaître comme un mode du Dieu absolu qui est en réalité à la fois le _ráḥim_ et le _marḥúm_.
 
-[^517]: 160 : 4 _Fusúṣ_, 225.
+[^515]: 160 : 4 _Fusúṣ_, 225.
 
-[^518]: 160:5 _Ibid_. 212. Cf. 100. Ils peuvent éprouver un plaisir positif comme celui des habitants du Paradis (_ibid_. 137).
+[^516]: 160:5 _Ibid_. 212. Cf. 100. Ils peuvent éprouver un plaisir positif comme celui des habitants du Paradis (_ibid_. 137).
 
-[^519]: 161:1 _Ibid_. 209 fol.
+[^517]: 161:1 _Ibid_. 209 fol.
 
-[^520]: 161:2 _Ibid_. 245. Ailleurs (272) il remarque que Dieu n'est jamais vu immatériellement et que la vision de Lui dans les femmes est la plus parfaite de toutes.
+[^518]: 161:2 _Ibid_. 245. Ailleurs (272) il remarque que Dieu n'est jamais vu immatériellement et que la vision de Lui dans les femmes est la plus parfaite de toutes.
 
-[^521]: 161:3 « Le ciel se trouve autour de nous dans notre enfance. »
+[^519]: 161:3 « Le ciel se trouve autour de nous dans notre enfance. »
 
-[^522]: 161 : 4 _Fusúṣ_, 250.
+[^520]: 161 : 4 _Fusúṣ_, 250.

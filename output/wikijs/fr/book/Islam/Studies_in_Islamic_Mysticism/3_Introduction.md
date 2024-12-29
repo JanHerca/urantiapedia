@@ -665,7 +665,7 @@ Ma traduction couvre les trois quarts du poème [3](./3_Argument#fn616). Les pas
 
 ## Notes de bas de page
 
-[^523]: 162:1 J'ai utilisé les éditions et commentaires suivants :
+[^521]: 162:1 J'ai utilisé les éditions et commentaires suivants :
 
 (_a_) _Díwán_ d'Ibnu 'l-Fáriḍ, éd. par Rushayyid b. Ghálib al-Daḥdáḥ (Marseille, 1853). Celui-ci contient les poèmes mineurs, avec un commentaire grammatical de Ḥasan al-Búríní ainsi que des extraits du commentaire mystique de 'Abdu 'l-Ghaní al-Nábulusí.
 
@@ -679,75 +679,75 @@ Concernant la traduction italienne du _Tá'iyyatu 'l-kubrá_ par Sac. Ignazio Di
 
 Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_) et (_c_).
 
-[^524]: 163:1 Le zoroastrisme lui-même n'exclut pas le principe moniste. Il semble incertain si Ormuzd et Ahriman étaient en antagonisme direct et égal l'un envers l'autre, ou si Anra Mainyu (Ahriman), l'esprit mauvais, et Spenta Mainyu, le bon esprit, étaient conçus comme des émanations opposées d'Un (Ormuzd) qui est au-dessus d'eux deux. En tout cas, la lutte entre Ormuzd et Ahriman se termine par la destruction complète de ce dernier.
+[^522]: 163:1 Le zoroastrisme lui-même n'exclut pas le principe moniste. Il semble incertain si Ormuzd et Ahriman étaient en antagonisme direct et égal l'un envers l'autre, ou si Anra Mainyu (Ahriman), l'esprit mauvais, et Spenta Mainyu, le bon esprit, étaient conçus comme des émanations opposées d'Un (Ormuzd) qui est au-dessus d'eux deux. En tout cas, la lutte entre Ormuzd et Ahriman se termine par la destruction complète de ce dernier.
 
-[^525]: 163:2 Nöldeke, _Esquisses de l'histoire orientale_, traduit par J. S. Black, p. 20.
+[^523]: 163:2 Nöldeke, _Esquisses de l'histoire orientale_, traduit par J. S. Black, p. 20.
 
-[^526]: 163:3 Sir Charles Lyall, _Ancienne poésie arabe_, p. xix.
+[^524]: 163:3 Sir Charles Lyall, _Ancienne poésie arabe_, p. xix.
 
-[^527]: 164:1 L’auteur actuel a édité et traduit un recueil d’odes mystiques d’Ibnu ’l-‘Arabí, intitulé _Tarjumán al-Ashwáq_, dans l’Oriental Translation Fund, New Series, vol. xx (Londres, 1911).
+[^525]: 164:1 L’auteur actuel a édité et traduit un recueil d’odes mystiques d’Ibnu ’l-‘Arabí, intitulé _Tarjumán al-Ashwáq_, dans l’Oriental Translation Fund, New Series, vol. xx (Londres, 1911).
 
-[^528]: 164:2 La date de sa naissance est habituellement donnée comme étant 1181 après J.-C., mais voir Nallino, op. cit., p. I, note 3.
+[^526]: 164:2 La date de sa naissance est habituellement donnée comme étant 1181 après J.-C., mais voir Nallino, op. cit., p. I, note 3.
 
-[^529]: 164:3 _Díwán_, p. 4, 1. 13 s. et p. 75, 1. I s.
+[^527]: 164:3 _Díwán_, p. 4, 1. 13 s. et p. 75, 1. I s.
 
-[^530]: 164:4 La Vie d'Ibnu 'l-Fáriḍ par son petit-fils a été imprimée comme introduction au _Díwán_ (pp. 3-24). Une notice plus courte, extraite de mon manuscrit du _Shadharátu 'l-dhahab_, a été publiée dans le _JRAS_. pour 1906, pp. 800-806. Voir aussi Ibn Khallikán, No. 511 (traduction de De Slane, vol. n, p. 388 s.).
+[^528]: 164:4 La Vie d'Ibnu 'l-Fáriḍ par son petit-fils a été imprimée comme introduction au _Díwán_ (pp. 3-24). Une notice plus courte, extraite de mon manuscrit du _Shadharátu 'l-dhahab_, a été publiée dans le _JRAS_. pour 1906, pp. 800-806. Voir aussi Ibn Khallikán, No. 511 (traduction de De Slane, vol. n, p. 388 s.).
 
-[^531]: 165:1 Voir p. 22 _supra_.
+[^529]: 165:1 Voir p. 22 _supra_.
 
-[^532]: 165:2 _C'est-à-dire_ la Grande Ode rimant en _t_. Elle est ainsi nommée afin de la distinguer de la _Tá’iyyatu ’l-ṣughrá_, _c'est-à-dire_ la Petite Ode rimant en _t_ (_Díwán_, [p. 142](./2_7#p142) fol.).
+[^530]: 165:2 _C'est-à-dire_ la Grande Ode rimant en _t_. Elle est ainsi nommée afin de la distinguer de la _Tá’iyyatu ’l-ṣughrá_, _c'est-à-dire_ la Petite Ode rimant en _t_ (_Díwán_, [p. 142](./2_7#p142) fol.).
 
-[^533]: 165:3 Voir l'Histoire littéraire de la Perse du professeur Browne, vol. 11, p. 504, mon Histoire littéraire des Arabes, p. 397 fol., et Le Don et le Derviche, pp. 105-9. Une version latine d'une ode entière (Díwán, p. 306 fol.) est donnée par Sir William Jones dans ses Poeseos Asiaticae commentarii (Œuvres, éd. par Lord Teignmouth, vol. VI, p. 74).
+[^531]: 165:3 Voir l'Histoire littéraire de la Perse du professeur Browne, vol. 11, p. 504, mon Histoire littéraire des Arabes, p. 397 fol., et Le Don et le Derviche, pp. 105-9. Une version latine d'une ode entière (Díwán, p. 306 fol.) est donnée par Sir William Jones dans ses Poeseos Asiaticae commentarii (Œuvres, éd. par Lord Teignmouth, vol. VI, p. 74).
 
-[^534]: 166:1 Grangeret de Lagrange, _Anthologie arabe_, p. 128.
+[^532]: 166:1 Grangeret de Lagrange, _Anthologie arabe_, p. 128.
 
-[^535]: 167:1 J. W. Mackail, _Épigrammes choisis de l'anthologie grecque_, p. 34.
+[^533]: 167:1 J. W. Mackail, _Épigrammes choisis de l'anthologie grecque_, p. 34.
 
-[^536]: 167:2 Préface du _Díwán_, p. II, 1. 20.
+[^534]: 167:2 Préface du _Díwán_, p. II, 1. 20.
 
-[^537]: 167:3 Evelyn Underhill, _Mysticisme_, p. 352.
+[^535]: 167:3 Evelyn Underhill, _Mysticisme_, p. 352.
 
-[^538]: 167 : 4 Introd. à _Poèmes sélectionnés du Dīvāni Shamsi Tabriz_, p. XL.
+[^536]: 167 : 4 Introd. à _Poèmes sélectionnés du Dīvāni Shamsi Tabriz_, p. XL.
 
-[^539]: 168:1 Bien entendu, ces remarques ne s’appliquent pas à de nombreux passages du _Tá’iyyatu ’l-kubrá_, qui, en ce qui concerne son but didactique, a le même rapport aux odes mineures que le _Masnaví_ de Jalálu’ddín Rúmí à son _Díwán_.
+[^537]: 168:1 Bien entendu, ces remarques ne s’appliquent pas à de nombreux passages du _Tá’iyyatu ’l-kubrá_, qui, en ce qui concerne son but didactique, a le même rapport aux odes mineures que le _Masnaví_ de Jalálu’ddín Rúmí à son _Díwán_.
 
-[^540]: 168:2 Le professeur Nallino (_op. cit._ p. 17) souligne qu'à une époque ultérieure les Odes étaient souvent chantées dans les concerts musicaux des Ṣúfís et suggère qu'elles ont été composées dans ce but.
+[^538]: 168:2 Le professeur Nallino (_op. cit._ p. 17) souligne qu'à une époque ultérieure les Odes étaient souvent chantées dans les concerts musicaux des Ṣúfís et suggère qu'elles ont été composées dans ce but.
 
-[^541]: 168:3 _Díwán_, p. 52, l. 8 fol. Búríní (_ibid_. p. 202, 12 fol.) affirme que la poésie d'Ibnu 'l-Fáriḍ n'est pas toujours mystique. Les deux vers qu'il cite pourraient avoir un sens allégorique aussi facilement que beaucoup d'autres du même genre dans le Cantique des Cantiques ; et, en tout cas, ils sont extraits de _rubá'í_s. Le fait qu'Ibnu 'l-Fáriḍ soit connu pour avoir écrit une épigramme amoureuse (_Díwán_, p. 549, 9 fol. Ibn Khallikán, traduction de De Slane, vol. II, p. 389), et qu'il en ait peut-être écrit d'autres, ne prouve rien contre ceux qui trouvent du mysticisme dans chaque ligne des Odes.
+[^539]: 168:3 _Díwán_, p. 52, l. 8 fol. Búríní (_ibid_. p. 202, 12 fol.) affirme que la poésie d'Ibnu 'l-Fáriḍ n'est pas toujours mystique. Les deux vers qu'il cite pourraient avoir un sens allégorique aussi facilement que beaucoup d'autres du même genre dans le Cantique des Cantiques ; et, en tout cas, ils sont extraits de _rubá'í_s. Le fait qu'Ibnu 'l-Fáriḍ soit connu pour avoir écrit une épigramme amoureuse (_Díwán_, p. 549, 9 fol. Ibn Khallikán, traduction de De Slane, vol. II, p. 389), et qu'il en ait peut-être écrit d'autres, ne prouve rien contre ceux qui trouvent du mysticisme dans chaque ligne des Odes.
 
-[^542]: 169:1 Préface du _Díwán_, p. 11, l. 1 suiv.
+[^540]: 169:1 Préface du _Díwán_, p. 11, l. 1 suiv.
 
-[^543]: 170:1 _Díwán_, p. 263 et suivantes. Le professeur Browne a donné une traduction de cette ode dans son _Literary History of Persia_, vol. ii, p. 504.
+[^541]: 170:1 _Díwán_, p. 263 et suivantes. Le professeur Browne a donné une traduction de cette ode dans son _Literary History of Persia_, vol. ii, p. 504.
 
-[^544]: 170:2 Une vallée avec des fontaines et des palmiers dattiers dans les environs de Médine.
+[^542]: 170:2 Une vallée avec des fontaines et des palmiers dattiers dans les environs de Médine.
 
-[^545]: 170:3 La forme de rêve (_khayál_) du Bien-Aimé dans l'imagination du poète (_khayál_).
+[^543]: 170:3 La forme de rêve (_khayál_) du Bien-Aimé dans l'imagination du poète (_khayál_).
 
-[^546]: 171:1 _Díwán_, p. 230 suiv.
+[^544]: 171:1 _Díwán_, p. 230 suiv.
 
-[^547]: 172:1 Littéralement, « si ton éternité (_baqá_) exige mon décès (_faná_). »
+[^545]: 172:1 Littéralement, « si ton éternité (_baqá_) exige mon décès (_faná_). »
 
-[^548]: 172:2 Selon N. les mots « ceux qui t'ont vu » se réfèrent à la Lumière de Mahomet, qui émanait de la Lumière de Dieu.
+[^546]: 172:2 Selon N. les mots « ceux qui t'ont vu » se réfèrent à la Lumière de Mahomet, qui émanait de la Lumière de Dieu.
 
-[^549]: 173:1 Un voile couvrant la partie inférieure du visage.
+[^547]: 173:1 Un voile couvrant la partie inférieure du visage.
 
-[^550]: 173:2 « Dans tes frontières » : littéralement « dans ta réserve (_ḥimá_). » L'Essence Divine est préservée (rendue inaccessible) par les formes spirituelles et sensibles dans lesquelles elle se voile. Comme le poète bédouin se vante de lui-même afin d'affirmer la dignité de sa tribu, ainsi lorsque les saints musulmans se vantent des dons uniques que Dieu leur a accordés, ce n'est pas de l'autoglorification, mais un remerciement à Celui « de qui découlent toutes les bénédictions ».
+[^548]: 173:2 « Dans tes frontières » : littéralement « dans ta réserve (_ḥimá_). » L'Essence Divine est préservée (rendue inaccessible) par les formes spirituelles et sensibles dans lesquelles elle se voile. Comme le poète bédouin se vante de lui-même afin d'affirmer la dignité de sa tribu, ainsi lorsque les saints musulmans se vantent des dons uniques que Dieu leur a accordés, ce n'est pas de l'autoglorification, mais un remerciement à Celui « de qui découlent toutes les bénédictions ».
 
-[^551]: 173:3 L'Être réel se manifeste dans les phénomènes, tout comme la lumière du soleil est réfléchie par la lune.
+[^549]: 173:3 L'Être réel se manifeste dans les phénomènes, tout comme la lumière du soleil est réfléchie par la lune.
 
-[^552]: 173:4 Voir Cor. 6, 76 et suiv. « Et quand la nuit l'enveloppa, il vit une étoile et dit : C'est mon Seigneur ; mais quand elle se coucha, il dit : Je n'aime pas les dieux qui se couchent. Et quand il vit la lune se lever, il dit : C'est mon Seigneur ; mais quand il la vit se coucher, il dit : En vérité, si mon Seigneur ne me dirige pas, je serai du nombre des égarés » (traduction de Sale).
+[^550]: 173:4 Voir Cor. 6, 76 et suiv. « Et quand la nuit l'enveloppa, il vit une étoile et dit : C'est mon Seigneur ; mais quand elle se coucha, il dit : Je n'aime pas les dieux qui se couchent. Et quand il vit la lune se lever, il dit : C'est mon Seigneur ; mais quand il la vit se coucher, il dit : En vérité, si mon Seigneur ne me dirige pas, je serai du nombre des égarés » (traduction de Sale).
 
-[^553]: 174:1 Dans ce verset, il y a un jeu intraduisible sur le double sens de Badr, qui signifie (I) un lieu entre La Mecque et Médine où le Prophète remporta sa mémorable victoire sur les idolâtres mecquois en 624 après J.-C. ; (2) une pleine lune. Ainsi, les _ahlu_ _Badr_ sont pour les musulmans plus que ce que les οἱ μαραθωνομάχαι étaient pour les Grecs du temps de Platon, tandis que l'expression suggère également l'illumination parfaite réservée aux adeptes du mysticisme. La politique irlandaise d'il y a quarante ans fournirait un parallèle exact, si les Moonlighters étaient considérés comme des héros nationaux et des saints. Le poète dit que les hommes de Badr, c'est-à-dire la noble compagnie des mystiques, ne voyagent pas tant dans la lumière que les phénomènes dérivent de la Réalité que dans la lumière de la Réalité elle-même.
+[^551]: 174:1 Dans ce verset, il y a un jeu intraduisible sur le double sens de Badr, qui signifie (I) un lieu entre La Mecque et Médine où le Prophète remporta sa mémorable victoire sur les idolâtres mecquois en 624 après J.-C. ; (2) une pleine lune. Ainsi, les _ahlu_ _Badr_ sont pour les musulmans plus que ce que les οἱ μαραθωνομάχαι étaient pour les Grecs du temps de Platon, tandis que l'expression suggère également l'illumination parfaite réservée aux adeptes du mysticisme. La politique irlandaise d'il y a quarante ans fournirait un parallèle exact, si les Moonlighters étaient considérés comme des héros nationaux et des saints. Le poète dit que les hommes de Badr, c'est-à-dire la noble compagnie des mystiques, ne voyagent pas tant dans la lumière que les phénomènes dérivent de la Réalité que dans la lumière de la Réalité elle-même.
 
-[^554]: 174:2 La beauté matérielle n'est pas digne d'être aimée sauf dans la mesure où elle est l'une des idées (attributs et manifestations) de la Beauté Absolue.
+[^552]: 174:2 La beauté matérielle n'est pas digne d'être aimée sauf dans la mesure où elle est l'une des idées (attributs et manifestations) de la Beauté Absolue.
 
-[^555]: 174:3 Quand Dieu se retire (de l'œil intérieur du mystique), Il impose encore Ses commandements à l'âme, afin qu'elle accomplisse ses œuvres bonnes et mauvaises prédestinées.
+[^553]: 174:3 Quand Dieu se retire (de l'œil intérieur du mystique), Il impose encore Ses commandements à l'âme, afin qu'elle accomplisse ses œuvres bonnes et mauvaises prédestinées.
 
-[^556]: 174:4 L'Amour Divin balaie les normes conventionnelles de vérité, de droit et d'honneur.
+[^554]: 174:4 L'Amour Divin balaie les normes conventionnelles de vérité, de droit et d'honneur.
 
-[^557]: 176:1 _Díwán_, p. 331 suiv.
+[^555]: 176:1 _Díwán_, p. 331 suiv.
 
-[^558]: 176:2 _Ibid_. p. 347, 1. 6 suiv. Cf. Shelley, _Epipsychidion_:
+[^556]: 176:2 _Ibid_. p. 347, 1. 6 suiv. Cf. Shelley, _Epipsychidion_:
 	&nbsp;&nbsp;&nbsp;Dans les solitudes
 	Sa voix m'est parvenue à travers les murmures des bois,
 	Et des fontaines, et des odeurs profondes
@@ -757,116 +757,116 @@ Les abréviations Díwán, K. et N. se réfèrent respectivement à (_a_), (_b_)
 	Et du chant des oiseaux d'été,
 	Et de tous les sons, tout silence.
 
-[^559]: 177:1 _Ibid_. p. 173. Il est vrai, comme l'a observé le professeur Nallino (_op. cit._ p. 16), que certaines odes sont moins artificielles dans leur style que d'autres.
+[^557]: 177:1 _Ibid_. p. 173. Il est vrai, comme l'a observé le professeur Nallino (_op. cit._ p. 16), que certaines odes sont moins artificielles dans leur style que d'autres.
 
-[^560]: 177:2 _Ibid_.p. 467.
+[^558]: 177:2 _Ibid_.p. 467.
 
-[^561]: 177:3 _Ibid_.p. 165.
+[^559]: 177:3 _Ibid_.p. 165.
 
-[^562]: 177:4 _Ibid_. p. 108.
+[^560]: 177:4 _Ibid_. p. 108.
 
-[^563]: 177:5 _Ibid_. p. 278.
+[^561]: 177:5 _Ibid_. p. 278.
 
-[^564]: 178 : 1 _Díwán_, p. 410.
+[^562]: 178 : 1 _Díwán_, p. 410.
 
-[^565]: 178:2 _Ibid_. p. 384.
+[^563]: 178:2 _Ibid_. p. 384.
 
-[^566]: 178:3 _Ibid_. p. 391 suiv.
+[^564]: 178:3 _Ibid_. p. 391 suiv.
 
-[^567]: 178:4 « Patience sans toi », c'est-à-dire en supportant ta séparation d'avec moi ; « patience avec toi », c'est-à-dire en supportant la douleur que tu me fais souffrir, en tant qu'objet de mon amour.
+[^565]: 178:4 « Patience sans toi », c'est-à-dire en supportant ta séparation d'avec moi ; « patience avec toi », c'est-à-dire en supportant la douleur que tu me fais souffrir, en tant qu'objet de mon amour.
 
-[^568]: 178 : 5 _Díwán_, p. 402.
+[^566]: 178 : 5 _Díwán_, p. 402.
 
-[^569]: 179:1 Le poète était absorbé dans la contemplation du Bien-Aimé et ne pouvait échanger quelques mots avec son critique.
+[^567]: 179:1 Le poète était absorbé dans la contemplation du Bien-Aimé et ne pouvait échanger quelques mots avec son critique.
 
-[^570]: 179:2 _C'est-à-dire_ en convainquant mon « blâmeur » de l'erreur de ses voies j'ai acquis autant de mérite religieux qu'en faisant le pèlerinage à la Mecque. Il est méritoire de combiner le grand pèlerinage (_ḥajj_) avec le petit pèlerinage (_'umra_).
+[^568]: 179:2 _C'est-à-dire_ en convainquant mon « blâmeur » de l'erreur de ses voies j'ai acquis autant de mérite religieux qu'en faisant le pèlerinage à la Mecque. Il est méritoire de combiner le grand pèlerinage (_ḥajj_) avec le petit pèlerinage (_'umra_).
 
-[^571]: 179:3 Rajab est le septième et al-Muḥarram le premier mois de l'année musulmane.
+[^569]: 179:3 Rajab est le septième et al-Muḥarram le premier mois de l'année musulmane.
 
-[^572]: 179:4 _C'est-à-dire_ l'inconstance.
+[^570]: 179:4 _C'est-à-dire_ l'inconstance.
 
-[^573]: 179:5 _Díwán_, p. 179 s. Le dernier verset fait allusion à la manne et aux cailles qui tombèrent du ciel sur les Israélites (Cor. 2, 54). Dans l'original il y a un double jeu de mots : _mann_ (séparation), _mann_ (manne), _salwat_ (oubli), _salwá_ (cailles).
+[^571]: 179:5 _Díwán_, p. 179 s. Le dernier verset fait allusion à la manne et aux cailles qui tombèrent du ciel sur les Israélites (Cor. 2, 54). Dans l'original il y a un double jeu de mots : _mann_ (séparation), _mann_ (manne), _salwat_ (oubli), _salwá_ (cailles).
 
-[^574]: 180:1 _Díwán_, p. 443 suiv.
+[^572]: 180:1 _Díwán_, p. 443 suiv.
 
-[^575]: 180:2 _C'est-à-dire_ l'image ou la vision du Bien-Aimé qui apparaît lorsque son nom est prononcé par le « blâmateur ».
+[^573]: 180:2 _C'est-à-dire_ l'image ou la vision du Bien-Aimé qui apparaît lorsque son nom est prononcé par le « blâmateur ».
 
-[^576]: 180:3 Comme les chameaux amènent l'aimé aux yeux de l'amant, ainsi la réprimande l'amène à l'oreille de l'amant.
+[^574]: 180:3 Comme les chameaux amènent l'aimé aux yeux de l'amant, ainsi la réprimande l'amène à l'oreille de l'amant.
 
-[^577]: 180 : 4 _Díwán_, p. 275 suiv. Cf. p. 346, ch. 5, et p. 429, l. 27—p. 420, l. 6.
+[^575]: 180 : 4 _Díwán_, p. 275 suiv. Cf. p. 346, ch. 5, et p. 429, l. 27—p. 420, l. 6.
 
-[^578]: 181:1 _Ibid_. p. 370, 1. 22.
+[^576]: 181:1 _Ibid_. p. 370, 1. 22.
 
-[^579]: 181:2 Le mot arabe pour rochers (_ṣafá_) est aussi le nom d'un pic près de la Mecque, et c'est peut-être sa signification ici.
+[^577]: 181:2 Le mot arabe pour rochers (_ṣafá_) est aussi le nom d'un pic près de la Mecque, et c'est peut-être sa signification ici.
 
-[^580]: 182:1 Lecture avec le commentateur _ḥayá_ au lieu de _ḥibá_.
+[^578]: 182:1 Lecture avec le commentateur _ḥayá_ au lieu de _ḥibá_.
 
-[^581]: 182:2 _Díwán_, p. 297 suiv.
+[^579]: 182:2 _Díwán_, p. 297 suiv.
 
-[^582]: 182:3 Ceci est bien sûr assez différent du traitement pictural de la vie et du paysage du désert que nous trouvons dans les odes préislamiques.
+[^580]: 182:3 Ceci est bien sûr assez différent du traitement pictural de la vie et du paysage du désert que nous trouvons dans les odes préislamiques.
 
-[^583]: 182:4 Lecture ![](/image/book/Islam/Studies_in_Islamic_Mysticism/18200.jpg).
+[^581]: 182:4 Lecture ![](/image/book/Islam/Studies_in_Islamic_Mysticism/18200.jpg).
 
-[^584]: 183 : 1 _Díwán_, pp.
+[^582]: 183 : 1 _Díwán_, pp.
 
-[^585]: 183:2 _Ibid_. p. 6.
+[^583]: 183:2 _Ibid_. p. 6.
 
-[^586]: 183:3 _Ibid_. p. 70. « Les deux plus petites parties » sont le cœur et la langue.
+[^584]: 183:3 _Ibid_. p. 70. « Les deux plus petites parties » sont le cœur et la langue.
 
-[^587]: 183:4 _Ibid_. p. 160, l. 24 suiv.
+[^585]: 183:4 _Ibid_. p. 160, l. 24 suiv.
 
-[^588]: 184:1 _Díwán_, p. 472 suiv.
+[^586]: 184:1 _Díwán_, p. 472 suiv.
 
-[^589]: 184:2. L'âme était enivrée du vin de l'Amour Divin (c'est-à-dire qu'elle était ravie dans la contemplation de Dieu) pendant sa préexistence dans la connaissance éternelle de Dieu avant la création du corps.
+[^587]: 184:2. L'âme était enivrée du vin de l'Amour Divin (c'est-à-dire qu'elle était ravie dans la contemplation de Dieu) pendant sa préexistence dans la connaissance éternelle de Dieu avant la création du corps.
 
-[^590]: 184:3 La pleine lune est l'Homme Parfait, c'est-à-dire le gnostique ou le saint en qui Dieu se révèle complètement et qui est, pour ainsi dire, rempli d'Amour Divin. La nouvelle lune est le gnostique voilé par son individualité, de sorte qu'il ne manifeste qu'une partie de la Lumière Divine, non la totalité ; il fait circuler le vin de l'Amour, c'est-à-dire qu'il expose et fait connaître aux autres les Noms et les Attributs de Dieu. Lorsque le vin est arrosé, c'est-à-dire lorsque la pure contemplation est mêlée à l'élément de la religion, le chercheur de Dieu obtient une direction spirituelle et est comme un voyageur guidé par les étoiles dans son voyage nocturne.
+[^588]: 184:3 La pleine lune est l'Homme Parfait, c'est-à-dire le gnostique ou le saint en qui Dieu se révèle complètement et qui est, pour ainsi dire, rempli d'Amour Divin. La nouvelle lune est le gnostique voilé par son individualité, de sorte qu'il ne manifeste qu'une partie de la Lumière Divine, non la totalité ; il fait circuler le vin de l'Amour, c'est-à-dire qu'il expose et fait connaître aux autres les Noms et les Attributs de Dieu. Lorsque le vin est arrosé, c'est-à-dire lorsque la pure contemplation est mêlée à l'élément de la religion, le chercheur de Dieu obtient une direction spirituelle et est comme un voyageur guidé par les étoiles dans son voyage nocturne.
 
-[^591]: 184:4 Le commentaire de N. sur ce verset est typiquement abscons. Il interprète « son parfum » comme la sphère de l'Intelligence primordiale, d'où émanent toutes les choses créées ; « ses tavernes » comme les Noms et Attributs Divins ; « sa splendeur » comme l'intellect humain, qui est un éclair de l'Intelligence primordiale. L'Amour Divin, étant de l'essence de Dieu, n'a de forme que dans l'imagination.
+[^589]: 184:4 Le commentaire de N. sur ce verset est typiquement abscons. Il interprète « son parfum » comme la sphère de l'Intelligence primordiale, d'où émanent toutes les choses créées ; « ses tavernes » comme les Noms et Attributs Divins ; « sa splendeur » comme l'intellect humain, qui est un éclair de l'Intelligence primordiale. L'Amour Divin, étant de l'essence de Dieu, n'a de forme que dans l'imagination.
 
-[^592]: 185:1 « Le temps », c'est-à-dire le monde du changement. Le deuxième hémistiche peut être rendu littéralement : « c'est comme si son occultation était une dissimulation dans les poitrines des esprits (humains) ».
+[^590]: 185:1 « Le temps », c'est-à-dire le monde du changement. Le deuxième hémistiche peut être rendu littéralement : « c'est comme si son occultation était une dissimulation dans les poitrines des esprits (humains) ».
 
-[^593]: 185:2 « Les hommes de la tribu », c'est-à-dire les mystiques capables de recevoir l'illumination.
+[^591]: 185:2 « Les hommes de la tribu », c'est-à-dire les mystiques capables de recevoir l'illumination.
 
-[^594]: 185:3 Ce verset décrit la disparition progressive de l'extase du cœur du mystique.
+[^592]: 185:3 Ce verset décrit la disparition progressive de l'extase du cœur du mystique.
 
-[^595]: 185:4 Je n'ai pas besoin d'embêter mes lecteurs avec l'analyse allégorique détaillée à laquelle le commentateur soumet ce verset et les neuf suivants. Ils s'expliquent d'eux-mêmes, s'ils sont pris comme une description fantaisiste des miracles accomplis par l'Amour Divin.
+[^593]: 185:4 Je n'ai pas besoin d'embêter mes lecteurs avec l'analyse allégorique détaillée à laquelle le commentateur soumet ce verset et les neuf suivants. Ils s'expliquent d'eux-mêmes, s'ils sont pris comme une description fantaisiste des miracles accomplis par l'Amour Divin.
 
-[^596]: 186:1 Le _fidám_ est une passoire placée sur le goulot de la bouteille, afin que le vin puisse s'écouler clair.
+[^594]: 186:1 Le _fidám_ est une passoire placée sur le goulot de la bouteille, afin que le vin puisse s'écouler clair.
 
-[^597]: 186:2 Les versets 23-30 manquent dans le commentaire de Búríní et ont peut-être été insérés dans le poème par un copiste. Voir Nallino, op. cit. p. 31, note I. L'Amour divin, en tant que source éternelle de toutes les choses créées, leur est logiquement antérieur, bien qu'il ne les précède pas dans le temps, qui lui-même est créé.
+[^595]: 186:2 Les versets 23-30 manquent dans le commentaire de Búríní et ont peut-être été insérés dans le poème par un copiste. Voir Nallino, op. cit. p. 31, note I. L'Amour divin, en tant que source éternelle de toutes les choses créées, leur est logiquement antérieur, bien qu'il ne les précède pas dans le temps, qui lui-même est créé.
 
-[^598]: 186:3 Dans la mesure où l'être réel appartient à Dieu seul, l'union mystique ne peut être comparée à la pénétration d'un corps par un autre, comme lorsque l'eau est absorbée par une éponge.
+[^596]: 186:3 Dans la mesure où l'être réel appartient à Dieu seul, l'union mystique ne peut être comparée à la pénétration d'un corps par un autre, comme lorsque l'eau est absorbée par une éponge.
 
-[^599]: 186:4 Ce verset énigmatique se réfère à l'Etre sous ses deux aspects. Le vin signifie l'être pur, l'être phénoménal de la vigne. Dans la mesure où l'homme est en relation avec l'Esprit divin (ici identifié à Adam, que Dieu « créa à sa propre image »), il est pure réalité ; mais dans la mesure où il appartient à la Nature, il est irréel. « Sa mère » est la mère du vin, c'est-à-dire la vigne, qui est un symbole du monde matériel.
+[^597]: 186:4 Ce verset énigmatique se réfère à l'Etre sous ses deux aspects. Le vin signifie l'être pur, l'être phénoménal de la vigne. Dans la mesure où l'homme est en relation avec l'Esprit divin (ici identifié à Adam, que Dieu « créa à sa propre image »), il est pure réalité ; mais dans la mesure où il appartient à la Nature, il est irréel. « Sa mère » est la mère du vin, c'est-à-dire la vigne, qui est un symbole du monde matériel.
 
-[^600]: 187:1 Les « vaisseaux » sont les formes phénoménales par lesquelles l'être réel se manifeste. Elles sont « subtiles », c'est-à-dire spirituelles, car chacune de ces formes est le voile d'une réalité. Ces réalités « augmentent », c'est-à-dire apparaissent comme le Multiple, au moyen des formes que nos sens perçoivent.
+[^598]: 187:1 Les « vaisseaux » sont les formes phénoménales par lesquelles l'être réel se manifeste. Elles sont « subtiles », c'est-à-dire spirituelles, car chacune de ces formes est le voile d'une réalité. Ces réalités « augmentent », c'est-à-dire apparaissent comme le Multiple, au moyen des formes que nos sens perçoivent.
 
-[^601]: 187:2 L'Être Absolu ou Dieu ou l'Amour Divin — tous ces termes sont les mêmes en essence — n'est pas conditionné par le temps.
+[^599]: 187:2 L'Être Absolu ou Dieu ou l'Amour Divin — tous ces termes sont les mêmes en essence — n'est pas conditionné par le temps.
 
-[^602]: 187:3 _C'est-à-dire_ qu'il était orphelin avant le début de la paternité. Ceci, je pense, n'est qu'un paradoxe indiquant la nature intemporelle de la réalité. Le mot « orphelinat » (_yutm_) peut faire allusion à Mahomet (cf. note sur la _Tá'iyya_, _vv_. 288-9). Dans ce cas, le sens sera que Mahomet (en tant que Logos) existait avant la création d'Adam. Selon N., l'Être Absolu est rendu « orphelin » par la disparition (_faná_) de l'esprit dans l'homme. L'Esprit Universel ou Raison, la première émanation, peut être dit « mourir » lorsque son essence (l'esprit humain) est mystiquement réunie à l'Absolu ; et sa « mort » laisse l'Absolu, c'est-à-dire le monde phénoménal considéré comme l'autre soi de l'Absolu, « orphelin au sein de sa mère Nature ».
+[^600]: 187:3 _C'est-à-dire_ qu'il était orphelin avant le début de la paternité. Ceci, je pense, n'est qu'un paradoxe indiquant la nature intemporelle de la réalité. Le mot « orphelinat » (_yutm_) peut faire allusion à Mahomet (cf. note sur la _Tá'iyya_, _vv_. 288-9). Dans ce cas, le sens sera que Mahomet (en tant que Logos) existait avant la création d'Adam. Selon N., l'Être Absolu est rendu « orphelin » par la disparition (_faná_) de l'esprit dans l'homme. L'Esprit Universel ou Raison, la première émanation, peut être dit « mourir » lorsque son essence (l'esprit humain) est mystiquement réunie à l'Absolu ; et sa « mort » laisse l'Absolu, c'est-à-dire le monde phénoménal considéré comme l'autre soi de l'Absolu, « orphelin au sein de sa mère Nature ».
 
-[^603]: 187:4 Les musulmans associent au christianisme la boisson interdite par leur propre religion. Quand leurs poètes décrivent une fête arrosée de vin, la scène se situe souvent dans le voisinage d'un monastère chrétien (_dayr_). Ibnu 'l-Fárid dit que les chrétiens s'enivraient sans avoir bu, c'est-à-dire que leur doctrine selon laquelle Dieu se révèle dans le Christ n'est qu'un aperçu de la vérité, p. 188, qui est pleinement réalisée par les saints musulmans, que Dieu se révèle dans chaque atome de l'existence. Cf. la _Tá'iyya_, _v_. 730 s. et [p. 140](./2_7#p140) _supra_.
+[^601]: 187:4 Les musulmans associent au christianisme la boisson interdite par leur propre religion. Quand leurs poètes décrivent une fête arrosée de vin, la scène se situe souvent dans le voisinage d'un monastère chrétien (_dayr_). Ibnu 'l-Fárid dit que les chrétiens s'enivraient sans avoir bu, c'est-à-dire que leur doctrine selon laquelle Dieu se révèle dans le Christ n'est qu'un aperçu de la vérité, p. 188, qui est pleinement réalisée par les saints musulmans, que Dieu se révèle dans chaque atome de l'existence. Cf. la _Tá'iyya_, _v_. 730 s. et [p. 140](./2_7#p140) _supra_.
 
-[^604]: 188:1 _C'est-à-dire_ cherchez à contempler l'Essence Divine seule, ou si vous devez chercher autre chose, que ce soit la première et la plus haute manifestation de cette Essence, à savoir, l'Esprit ou la Lumière de Mahomet, qui est appelé figurativement « l'eau des dents du Bien-Aimé ».
+[^602]: 188:1 _C'est-à-dire_ cherchez à contempler l'Essence Divine seule, ou si vous devez chercher autre chose, que ce soit la première et la plus haute manifestation de cette Essence, à savoir, l'Esprit ou la Lumière de Mahomet, qui est appelé figurativement « l'eau des dents du Bien-Aimé ».
 
-[^605]: 188:2 Les Ṣúfís ont toujours connu la valeur de la musique comme moyen d'induire l'extase. Cf. Les _Mystiques de l'Islam_, p. 63 s.; DB Macdonald, _La religion émotionnelle dans l'Islam telle qu'elle est affectée par la musique et le chant_ dans le _Journal de la Royal Asiatic Society_, 1901, pp. 195 s. et 748 s., et 1902, p. 1 s.
+[^603]: 188:2 Les Ṣúfís ont toujours connu la valeur de la musique comme moyen d'induire l'extase. Cf. Les _Mystiques de l'Islam_, p. 63 s.; DB Macdonald, _La religion émotionnelle dans l'Islam telle qu'elle est affectée par la musique et le chant_ dans le _Journal de la Royal Asiatic Society_, 1901, pp. 195 s. et 748 s., et 1902, p. 1 s.
 
-[^606]: 188:3 P. [165](#p165), note [^530].
+[^604]: 188:3 P. [165](#p165), note [^530].
 
-[^607]: 189:1 Voir _v_. 679 de la traduction en prose _infra_.
+[^605]: 189:1 Voir _v_. 679 de la traduction en prose _infra_.
 
-[^608]: 190:1 « Les formes des choses », c'est-à-dire les marionnettes, représentent des phénomènes qui en eux-mêmes sont sans vie et passifs : toute leur vie et leur activité sont l'effet de la manifestation en eux des actions et des attributs de la Réalité.
+[^606]: 190:1 « Les formes des choses », c'est-à-dire les marionnettes, représentent des phénomènes qui en eux-mêmes sont sans vie et passifs : toute leur vie et leur activité sont l'effet de la manifestation en eux des actions et des attributs de la Réalité.
 
-[^609]: 190:2 Le feu grégeois auquel Von Hammer trouve ici une allusion est, je pense, un _ignis fatuus_.
+[^607]: 190:2 Le feu grégeois auquel Von Hammer trouve ici une allusion est, je pense, un _ignis fatuus_.
 
-[^610]: 190:3 Les génies (_Jinn_) sont décrits comme des créatures éthérées, dotées de la parole, transparentes (de sorte qu'elles sont normalement invisibles), et capables de prendre diverses formes.
+[^608]: 190:3 Les génies (_Jinn_) sont décrits comme des créatures éthérées, dotées de la parole, transparentes (de sorte qu'elles sont normalement invisibles), et capables de prendre diverses formes.
 
-[^611]: 191:1 _Tá’iyya_, _vv_. 680-706.
+[^609]: 191:1 _Tá’iyya_, _vv_. 680-706.
 
-[^612]: 192:1 W. Y. Sellar, _The Roman poets of the Republic_, p. 403. Je donne la traduction de Munro: « De nouveau, lorsque de puissantes légions remplissent de leurs mouvements toutes les parties des plaines, faisant semblant de faire la guerre, l'éclat s'élève alors vers le ciel, et toute la terre autour brille d'airain, et sous un bruit est élevé par le puissant piétinement des hommes, et les montagnes frappées par les cris font écho aux voix des étoiles du ciel, et les cavaliers volent de tous côtés et soudain, en tournant, parcourent le milieu des plaines, les secouant avec la véhémence de leur charge. Et pourtant il y a un endroit sur les hautes collines, d'où ils semblent s'arrêter et se reposer sur les plaines comme un point lumineux. »
+[^610]: 192:1 W. Y. Sellar, _The Roman poets of the Republic_, p. 403. Je donne la traduction de Munro: « De nouveau, lorsque de puissantes légions remplissent de leurs mouvements toutes les parties des plaines, faisant semblant de faire la guerre, l'éclat s'élève alors vers le ciel, et toute la terre autour brille d'airain, et sous un bruit est élevé par le puissant piétinement des hommes, et les montagnes frappées par les cris font écho aux voix des étoiles du ciel, et les cavaliers volent de tous côtés et soudain, en tournant, parcourent le milieu des plaines, les secouant avec la véhémence de leur charge. Et pourtant il y a un endroit sur les hautes collines, d'où ils semblent s'arrêter et se reposer sur les plaines comme un point lumineux. »
 
-[^613]: 192 : 2 _Tá’iyya_, _v_. 489.
+[^611]: 192 : 2 _Tá’iyya_, _v_. 489.
 
-[^614]: 193:1 _Tá’iyya_, _vv_. 395-6.
+[^612]: 193:1 _Tá’iyya_, _vv_. 395-6.
 
-[^615]: 193:2 _Par exemple_ l'émanation (_fayḍ_) dans _vv_. 403-5. Les mondes spirituel et sensible tirent leur vie de l'Esprit Universel et de l'Ame Universelle (_v_. 405 ; cf. _v_. 492). Dans _v_. 455, les termes Ḥallájian, _láhút_ (divinité) et _násút_ (humanité) sont utilisés de la même manière que par Ibnu 'l-'Arabí, pour désigner les aspects intérieurs et extérieurs de l'Être avec lequel le mystique « unifié » ne fait qu'un (cf. Massignon, _Kitáb al-Ṭawásín_, p. 139). Des allusions à la préexistence de l'âme apparaissent dans _vv_. 41, 257-8, 428, 670 et 759. Contrairement à Jílí, Ibnu ’l-Fáriḍ ne montre aucun signe de connaissance de la terminologie philosophique d’Ibnu ’l-‘Arabí ou, autant que je l’ai observé, d’avoir été directement influencé par lui à un degré considérable.
+[^613]: 193:2 _Par exemple_ l'émanation (_fayḍ_) dans _vv_. 403-5. Les mondes spirituel et sensible tirent leur vie de l'Esprit Universel et de l'Ame Universelle (_v_. 405 ; cf. _v_. 492). Dans _v_. 455, les termes Ḥallájian, _láhút_ (divinité) et _násút_ (humanité) sont utilisés de la même manière que par Ibnu 'l-'Arabí, pour désigner les aspects intérieurs et extérieurs de l'Être avec lequel le mystique « unifié » ne fait qu'un (cf. Massignon, _Kitáb al-Ṭawásín_, p. 139). Des allusions à la préexistence de l'âme apparaissent dans _vv_. 41, 257-8, 428, 670 et 759. Contrairement à Jílí, Ibnu ’l-Fáriḍ ne montre aucun signe de connaissance de la terminologie philosophique d’Ibnu ’l-‘Arabí ou, autant que je l’ai observé, d’avoir été directement influencé par lui à un degré considérable.
