@@ -297,6 +297,17 @@ exports.readFile = (filePath) => {
 	});
 };
 
+exports.readFromAndExecute = (dirPath, format, executeFn) => {
+	return exports.readFrom(dirPath, format, () => {}, 
+		file => {
+			return exports.readFile(file)
+				.then(lines => {
+					const newLines = executeFn(lines);
+					return exports.writeFile(file, newLines.join('\n'));
+				});
+		}, null);
+};
+
 /**
  * Copies a file.
  * @param {string} sourcePath Source path.
@@ -1336,4 +1347,38 @@ exports.containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
 		}
 	}
 	return false;
+};
+
+/**
+ * Fixes an array of lines with some Markdown content ensuring that footnotes
+ * numbers match the order of appearance.
+ * @param {string[]} lines Array of lines.
+ * @return {string[]} The lines fixed.
+ */
+exports.fixMarkdownFootnotes = (lines) => {
+	const footnotePattern = /\[\^(\d+)\]/g;
+	const matches = [];
+	lines.forEach(line => {
+		let match;
+		while ((match = footnotePattern.exec(line)) !== null) {
+			matches.push(match[0]);
+		}
+	});
+	const uniqueSortedMatches = [
+		...new Set(matches.map(match => parseInt(match.match(/\d+/)[0])))
+	].sort((a, b) => a - b);
+	let currentIndex = 0;
+	const footnotePattern2 = /^\[\^(\d+)\]: /g;
+	const updatedLines = lines.map(line => {
+		return line.replace(footnotePattern2, (match, number) => {
+			const expectedNumber = uniqueSortedMatches[currentIndex];
+			currentIndex++;
+			if (parseInt(number) === expectedNumber) {
+				return match;
+			} else {
+				return `[^${expectedNumber}]: `;
+			}
+		});
+	});
+	return updatedLines;
 };

@@ -485,6 +485,15 @@ const Processes = {
 		paths: [['tests', 'book', 'bookinfo.md'],
 			['tests', 'book_translated']]
 	},
+	"FIX_MARKDOWN_FOOTNOTES": {
+		active: true,
+		desc: {
+			en: "MARKDOWN: Fix footnotes in Markdown files",
+			es: "MARKDOWN: Corregir notas al pie en archivos Markdown"
+		},
+		controls: ['dirHTextbox'],
+		paths: [['output', 'wikijs', '{0}', 'book']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

@@ -21,8 +21,9 @@ const Processes = require('./processes');
 const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
-	getWikijsHeader, writeHTMLToWikijs, getError, createFolders,
-	readFile, writeFile, readBooksFromJSON, getFiles} = require('./utils');
+	getWikijsHeader, writeHTMLToWikijs, getError, createFolders, readFile, 
+	readFromAndExecute, writeFile, readBooksFromJSON, getFiles,
+	fixMarkdownFootnotes} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -1209,6 +1210,11 @@ const handle_exeButtonClick = () => {
 		//Creates blank files
 		library.readFileFromMarkdown(htmlFile)
 			.then(() => library.createBlankFiles(htmlDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'FIX_MARKDOWN_FOOTNOTES') {
+		// Reads a folder with Markdown files
+		readFromAndExecute(htmlDir, '.md', fixMarkdownFootnotes)
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
