@@ -532,38 +532,38 @@ Hélas, cette imagination est fausse, la terre ne peut être le ciel.
 
 ## Notes de bas de page
 
-[^351]: m234:1 Je n'ai pas réussi à découvrir le nom et l'histoire de l'individu ici utilisé pour souligner une morale de notre grand poète. Ibnu-Hishām et Nawawī ne le mentionnent pas.—_Traducteur_.
+[^350]: m234:1 Je n'ai pas réussi à découvrir le nom et l'histoire de l'individu ici utilisé pour souligner une morale de notre grand poète. Ibnu-Hishām et Nawawī ne le mentionnent pas.—_Traducteur_.
 
-[^352]: m234:2 Osman.
+[^351]: m234:2 Osman.
 
-[^353]: m235:1 Coran xxxvi. 7.
+[^352]: m235:1 Coran xxxvi. 7.
 
-[^354]: m235:2 Coran xxxvi. 8.
+[^353]: m235:2 Coran xxxvi. 8.
 
-[^355]: m237:1 Coran xcix. 1.
+[^354]: m237:1 Coran xcix. 1.
 
-[^356]: m237:2 En allusion aux marques brahmaniques utilisées en Inde.
+[^355]: m237:2 En allusion aux marques brahmaniques utilisées en Inde.
 
-[^357]: m238:1 On dit communément que les sectes hétérodoxes de l'Islam sont au nombre de soixante-douze.
+[^356]: m238:1 On dit communément que les sectes hétérodoxes de l'Islam sont au nombre de soixante-douze.
 
-[^358]: m238:2 « _Celui qui Voile_ », c’est-à-dire, du péché, est l’un des « noms les plus beaux » de Dieu, mais ne se trouve pas dans le Coran. « _Yà Sattār !_ »
+[^357]: m238:2 « _Celui qui Voile_ », c’est-à-dire, du péché, est l’un des « noms les plus beaux » de Dieu, mais ne se trouve pas dans le Coran. « _Yà Sattār !_ »
 
-[^359]: m239:1 Certains commentateurs soutiennent que le Coran vii. 174, fait allusion à l’opposition de Balaam à Moïse et aux Israélites.
+[^358]: m239:1 Certains commentateurs soutiennent que le Coran vii. 174, fait allusion à l’opposition de Balaam à Moïse et aux Israélites.
 
-[^360]: m239:2 Voir Conte iv. dist. 121 et xi. 112.
+[^359]: m239:2 Voir Conte iv. dist. 121 et xi. 112.
 
-[^361]: m239:3 Voir Conte ix. 266.
+[^360]: m239:3 Voir Conte ix. 266.
 
-[^362]: m240:1 Coran ii. 96.
+[^361]: m240:1 Coran ii. 96.
 
-[^363]: m241:1 Voir Conte iv. dist. 121.
+[^362]: m241:1 Voir Conte iv. dist. 121.
 
-[^364]: m245:1 Coran i. 5.
+[^363]: m245:1 Coran i. 5.
 
-[^365]: m245:2 ‘Ikrima, fils d’Abū-Jahl, embrassa l’Islam en mer, alors qu’il fuyait la Mecque après sa prise par Mahomet. Il revint et fut pardonné.
+[^364]: m245:2 ‘Ikrima, fils d’Abū-Jahl, embrassa l’Islam en mer, alors qu’il fuyait la Mecque après sa prise par Mahomet. Il revint et fut pardonné.
 
-[^366]: m245:3 Coran xi. 44, 45.
+[^365]: m245:3 Coran xi. 44, 45.
 
-[^367]: m246:1 Ceci est un canon de l'Islam. Si un fidèle n'a aucun moyen de connaître la direction de la « Maison de Dieu » à la Mecque, il peut se tourner dans la direction qu'il juge la plus probable et ainsi accomplir son adoration.
+[^366]: m246:1 Ceci est un canon de l'Islam. Si un fidèle n'a aucun moyen de connaître la direction de la « Maison de Dieu » à la Mecque, il peut se tourner dans la direction qu'il juge la plus probable et ainsi accomplir son adoration.
 
-[^368]: m246:2 Le Prophète.
+[^367]: m246:2 Le Prophète.

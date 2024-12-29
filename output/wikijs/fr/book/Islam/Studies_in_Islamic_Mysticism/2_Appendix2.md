@@ -142,9 +142,9 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^474]: 151:7 _Ibid_. 75-6.
 
-[^475]: 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](3_vv_400_499#p241) suit.
+[^475]: 152 : 1 Abú Sa'íd al-Kharráz (_ob_. a.d. 890) était un Ṣúfí bien connu de Bagdád. Voir _Kashf al-Maḥjúb_, traduction, [p. 241](./3_vv_400_499#p241) suit.
 
-[^476]: 152:2 Le mystique ne peut connaître Dieu que s'il est illuminé par tous les attributs divins, de sorte qu'il devienne un _ḥaqq_. Voir [p. 128](2_6#p128).
+[^476]: 152:2 Le mystique ne peut connaître Dieu que s'il est illuminé par tous les attributs divins, de sorte qu'il devienne un _ḥaqq_. Voir [p. 128](./2_6#p128).
 
 [^477]: 152:3 Chaque individu est conscient d'avoir des facultés et des qualités différentes.
 
@@ -170,7 +170,7 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^488]: 154:2 _Fuṣúṣ_, 553 s., 239. Cf. Macdonald, _Développement de la théologie musulmane_, p. 201 s.
 
-[^489]: 154:3 _Fuṣúṣ_, 46, 132. Les attributs sont réellement latents dans l'Essence et identiques à elle. Cf. [p. 90](2_1#p90) _supra_.
+[^489]: 154:3 _Fuṣúṣ_, 46, 132. Les attributs sont réellement latents dans l'Essence et identiques à elle. Cf. [p. 90](./2_1#p90) _supra_.
 
 [^490]: 154:4 _C'est-à-dire_, existence relative, dans laquelle l'Être Absolu est reflété.
 
@@ -182,7 +182,7 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^494]: 156:1 _C'est-à-dire_, l'explication étymologique du nom _insán_ est que l'Homme _yu’nis_ ou _yu’ánis_ (connaît ou est familier avec) toutes choses : les trois mots arabes sont dérivés de la même racine.
 
-[^495]: 156:2 En les faisant exister. Cf. [p. 98](2_3#p98) _supra_.
+[^495]: 156:2 En les faisant exister. Cf. [p. 98](./2_3#p98) _supra_.
 
 [^496]: 156:3 Le cœur de l'homme (_qalb_) porte l'empreinte du Plus Grand Nom de Dieu (_c'est-à-dire_, l'Essence) avec tous les autres Noms Divins.
 
@@ -202,13 +202,13 @@ L'enfant affecte la disposition du père, de sorte qu'il descend de son autorit�
 
 [^504]: 157 : 7 _Fusúṣ_, 161.
 
-[^505]: 157:8 Jílí nie cela. Voir [p. 102](2_3#p102).
+[^505]: 157:8 Jílí nie cela. Voir [p. 102](./2_3#p102).
 
 [^506]: 158 : 1 _Fusúṣ_, 159.
 
 [^507]: 158:2 _Ibid_. 77.
 
-[^508]: 158:3 Voir [p. 54](1_2#p54), note [5](1_2#fn159).
+[^508]: 158:3 Voir [p. 54](./1_2#p54), note [5](./1_2#fn159).
 
 [^509]: 158 : 4 _Fuṣúṣ_, 206 fol. Cf. 108-9.
 

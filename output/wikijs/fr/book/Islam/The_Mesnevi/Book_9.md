@@ -1700,84 +1700,84 @@ Ainsi, les médicaments, pour apporter un soulagement à la douleur du malade,
 
 ## Notes de bas de page
 
-[^283]: m165:1 Le Coran xx. 97 fait que le Juif errant, Sāmirī, qui a fabriqué le veau d'or, évite tout le monde, en disant : « Ne me touchez pas !
+[^282]: m165:1 Le Coran xx. 97 fait que le Juif errant, Sāmirī, qui a fabriqué le veau d'or, évite tout le monde, en disant : « Ne me touchez pas !
 
-[^284]: m167:1 Vicaire de Dieu est l'un des titres du calife. Ce « prétendant » devait être un adversaire particulier du poète. La satire est amère.
+[^283]: m167:1 Vicaire de Dieu est l'un des titres du calife. Ce « prétendant » devait être un adversaire particulier du poète. La satire est amère.
 
-[^285]: m167:2 Bāyezīd de Bestām, en Perse, un des premiers saints gnostiques ; mort en 874 après J.-C. (261 AH).
+[^284]: m167:2 Bāyezīd de Bestām, en Perse, un des premiers saints gnostiques ; mort en 874 après J.-C. (261 AH).
 
-[^286]: m167:3 Yezīd, deuxième calife de Damas, persécuteur de Husayn, fils du quatrième calife 'Alī.
+[^285]: m167:3 Yezīd, deuxième calife de Damas, persécuteur de Husayn, fils du quatrième calife 'Alī.
 
-[^287]: m167:4 L'original mentionne naturellement la « qibla » de l'Islam ; et non l'« est », comme utilisé dans les églises chrétiennes.
+[^286]: m167:4 L'original mentionne naturellement la « qibla » de l'Islam ; et non l'« est », comme utilisé dans les églises chrétiennes.
 
-[^288]: m171:1 « Ma pauvreté est ma fierté » est un dicton traditionnellement attribué à Mahomet.
+[^287]: m171:1 « Ma pauvreté est ma fierté » est un dicton traditionnellement attribué à Mahomet.
 
-[^289]: m177:1 Le Coran iii. 12 mentionne plusieurs choses « faites pour l’homme ».
+[^288]: m177:1 Le Coran iii. 12 mentionne plusieurs choses « faites pour l’homme ».
 
-[^290]: m177:2 Le Coran vii. 189, relate la création d'une aide pour Adam.
+[^289]: m177:2 Le Coran vii. 189, relate la création d'une aide pour Adam.
 
-[^291]: m177:3 Mahomet.
+[^290]: m177:3 Mahomet.
 
-[^292]: m177:4 Pour Humayrā, voir une note dans le n° 8, dist. 69.
+[^291]: m177:4 Pour Humayrā, voir une note dans le n° 8, dist. 69.
 
-[^293]: m177:5 Pourtant l’Europe prétend toujours croire que l’Islam a nié la possession d’une âme par la femme !
+[^292]: m177:5 Pourtant l’Europe prétend toujours croire que l’Islam a nié la possession d’une âme par la femme !
 
-[^294]: m179:1 Coran lxxix. 24. Il est donc dit que Pharaon s'est donné lui-même le titre.
+[^293]: m179:1 Coran lxxix. 24. Il est donc dit que Pharaon s'est donné lui-même le titre.
 
-[^295]: m179:2 Coran ii. 3, &c.
+[^294]: m179:2 Coran ii. 3, &c.
 
-[^296]: m180:1 Les Orientaux ne sont pas les seuls à avoir une superstition à propos des trésors cachés dans les ruines.
+[^295]: m180:1 Les Orientaux ne sont pas les seuls à avoir une superstition à propos des trésors cachés dans les ruines.
 
-[^297]: m181:1 Coran xxii. ix.
+[^296]: m181:1 Coran xxii. ix.
 
-[^298]: m182:1 L’homme a une triple nature, végétative, bestiale et humaine.
+[^297]: m182:1 L’homme a une triple nature, végétative, bestiale et humaine.
 
-[^299]: m182:2 Coran xxxix. 54.
+[^298]: m182:2 Coran xxxix. 54.
 
-[^300]: m182:3 Coran vii. 142, etc.
+[^299]: m182:3 Coran vii. 142, etc.
 
-[^301]: m183:1 Coran xxxiv. 42.
+[^300]: m183:1 Coran xxxiv. 42.
 
-[^302]: m183:2 Coran vii. 75; xi. 65-70; xxvi. 142-158. Sālih fut envoyé à la tribu des Thamūd, des troglodytes qui habitaient dans les vallées à mi-chemin entre Médine et le golfe d'Akaba.
+[^301]: m183:2 Coran vii. 75; xi. 65-70; xxvi. 142-158. Sālih fut envoyé à la tribu des Thamūd, des troglodytes qui habitaient dans les vallées à mi-chemin entre Médine et le golfe d'Akaba.
 
-[^303]: m183:3 Coran xci. 13.
+[^302]: m183:3 Coran xci. 13.
 
-[^304]: m185:1 Coran vii. 76, 89 ; XI. 70, 97 ; XXIX. 36.
+[^303]: m185:1 Coran vii. 76, 89 ; XI. 70, 97 ; XXIX. 36.
 
-[^305]: m186:1 Coran vii. 91.
+[^304]: m186:1 Coran vii. 91.
 
-[^306]: m187:1 Coran lv. 20.
+[^305]: m187:1 Coran lv. 20.
 
-[^307]: m189 : 1 Coran vi. 2, 60.
+[^306]: m189 : 1 Coran vi. 2, 60.
 
-[^308]: m189 : 2 Coran xxxviii. 34.
+[^307]: m189 : 2 Coran xxxviii. 34.
 
-[^309]: m192:1 Pas textuellement du Coran.
+[^308]: m192:1 Pas textuellement du Coran.
 
-[^310]: 193:1 Pas textuellement du Coran.
+[^309]: 193:1 Pas textuellement du Coran.
 
-[^311]: m196:1 Coran xxiv. 30.
+[^310]: m196:1 Coran xxiv. 30.
 
-[^312]: m197:1 Coran ii. 23, &c.
+[^311]: m197:1 Coran ii. 23, &c.
 
-[^313]: m197:2 Les musulmans riches partout dans le monde rompent leur jeûne du Ramadan avec de l'eau du puits de Zemzem, à la Mecque, si possible.
+[^312]: m197:2 Les musulmans riches partout dans le monde rompent leur jeûne du Ramadan avec de l'eau du puits de Zemzem, à la Mecque, si possible.
 
-[^314]: m198:1 On croit qu'une perle est une goutte de rosée spéciale, capturée par une huître spéciale, et ainsi amenée à la perfection par une providence spéciale. (Voir l'ode de Sa'di à la fin de la préface du traducteur.)
+[^313]: m198:1 On croit qu'une perle est une goutte de rosée spéciale, capturée par une huître spéciale, et ainsi amenée à la perfection par une providence spéciale. (Voir l'ode de Sa'di à la fin de la préface du traducteur.)
 
-[^315]: m199 : 1 Coran xciiii. 1.
+[^314]: m199 : 1 Coran xciiii. 1.
 
-[^316]: m199 : 2 Coran xciiii. 10.
+[^315]: m199 : 2 Coran xciiii. 10.
 
-[^317]: m199 : 3 Coran cxii. 3.
+[^316]: m199 : 3 Coran cxii. 3.
 
-[^318]: m200:1 Le monde.
+[^317]: m200:1 Le monde.
 
-[^319]: m202:1 La croyance est que Jésus n'a pas été crucifié, mais qu'il a été enlevé jusqu'au quatrième ciel, celui du soleil, où il vivra jusqu'à ce qu'il revienne dans la gloire.
+[^318]: m202:1 La croyance est que Jésus n'a pas été crucifié, mais qu'il a été enlevé jusqu'au quatrième ciel, celui du soleil, où il vivra jusqu'à ce qu'il revienne dans la gloire.
 
-[^320]: m202:2 La croyance est qu'Adam a cueilli un épi de maïs, le fruit défendu, au paradis.
+[^319]: m202:2 La croyance est qu'Adam a cueilli un épi de maïs, le fruit défendu, au paradis.
 
-[^321]: m202:3 Abbās, oncle de Mahomet, ancêtre des califes abbassites.
+[^320]: m202:3 Abbās, oncle de Mahomet, ancêtre des califes abbassites.
 
-[^322]: m209:1 Coran li. 9.
+[^321]: m209:1 Coran li. 9.
 
-[^323]: m210:1 Von Hammer, dans son Histoire de l'Empire ottoman, a si mal compris ce beau proverbe arabe, « _Es sabru miftāhu 'l faraj_ », qu'il a lu « _farj_ » (pudendum), au lieu de « _faraj_ » (succès) ; et il a masqué son erreur par la remarque : « Trop piquant pour une traduction littérale. »
+[^322]: m210:1 Von Hammer, dans son Histoire de l'Empire ottoman, a si mal compris ce beau proverbe arabe, « _Es sabru miftāhu 'l faraj_ », qu'il a lu « _farj_ » (pudendum), au lieu de « _faraj_ » (succès) ; et il a masqué son erreur par la remarque : « Trop piquant pour une traduction littérale. »

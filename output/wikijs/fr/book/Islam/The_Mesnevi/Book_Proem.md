@@ -148,8 +148,8 @@ Tel est mon cas, trop bien chanté.
 
 ## Notes de bas de page
 
-[^55]: m1:1 La flûte de roseau est l'instrument de musique sacré des derviches Mevlevī, communément appelés les derviches danseurs, à cause de leur valse religieuse particulière au son de la flûte de roseau, etc., avec les bras étendus et la tête inclinée, dans leurs services publics spéciaux de commémoration. Ils aiment la flûte de roseau comme symbole d'un amant absent et soupirant.
+[^54]: m1:1 La flûte de roseau est l'instrument de musique sacré des derviches Mevlevī, communément appelés les derviches danseurs, à cause de leur valse religieuse particulière au son de la flûte de roseau, etc., avec les bras étendus et la tête inclinée, dans leurs services publics spéciaux de commémoration. Ils aiment la flûte de roseau comme symbole d'un amant absent et soupirant.
 
-[^56]: m2:1 Il existe une notion poétique orientale selon laquelle les perles se forment dans les huîtres à une certaine saison à partir des gouttes de rosée ou de pluie qui tombent dans celles-ci.
+[^55]: m2:1 Il existe une notion poétique orientale selon laquelle les perles se forment dans les huîtres à une certaine saison à partir des gouttes de rosée ou de pluie qui tombent dans celles-ci.
 
-[^57]: m3:1 Coran vii. 139, où les mots sont : « _Et Moïse tomba, évanoui_. »
+[^56]: m3:1 Coran vii. 139, où les mots sont : « _Et Moïse tomba, évanoui_. »

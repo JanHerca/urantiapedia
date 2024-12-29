@@ -78,38 +78,38 @@ Ainsi parle le faible serviteur, qui a besoin de la miséricorde de Dieu, dont l
 
 ## Notes de bas de page
 
-[^37]: mi:1 Coran xxiv. 35.
+[^36]: mi:1 Coran xxiv. 35.
 
-[^38]: mi:2 Coran lxxvi. 18.
+[^37]: mi:2 Coran lxxvi. 18.
 
-[^39]: mi:3 Coran xix. 94.
+[^38]: mi:3 Coran xix. 94.
 
-[^40]: mi:4 Coran xxv. 26.
+[^39]: mi:4 Coran xxv. 26.
 
-[^41]: mi:5 Coran ii. 24.
+[^40]: mi:5 Coran ii. 24.
 
-[^42]: mii:1 Coran lxxx. 15.
+[^41]: mii:1 Coran lxxx. 15.
 
-[^43]: mii:2 Coran lvi. 78.
+[^42]: mii:2 Coran lvi. 78.
 
-[^44]: mii:3 Coran lvi. 79.
+[^43]: mii:3 Coran lvi. 79.
 
-[^45]: mii:4 Coran xli. 42.
+[^44]: mii:4 Coran xli. 42.
 
-[^46]: mii:5 Coran xii. 64.
+[^45]: mii:5 Coran xii. 64.
 
-[^47]: mii:6 Coran vii. 150
+[^46]: mii:6 Coran vii. 150
 
-[^48]: mii:7 Balkh, au sud de la partie occidentale de l'Oxus supérieur, est à 36°, 48' de latitude nord, 67°, 4' de longitude est de Greenwich. Il représente l'ancienne _Bactra_, autrement appelée _Zariaspa_.
+[^47]: mii:7 Balkh, au sud de la partie occidentale de l'Oxus supérieur, est à 36°, 48' de latitude nord, 67°, 4' de longitude est de Greenwich. Il représente l'ancienne _Bactra_, autrement appelée _Zariaspa_.
 
-[^49]: miii:1 Husāmu-'l-Haqqi-wa-'d-Dīn, son titre d'honneur complet. (Voir Anecdotes, chap. vi.)
+[^48]: miii:1 Husāmu-'l-Haqqi-wa-'d-Dīn, son titre d'honneur complet. (Voir Anecdotes, chap. vi.)
 
-[^50]: miii:2 Bāyezīd ou Abū-Yazīd, de Bestām, dans le Khurāsān, en Perse, latitude 36°, 25´ N., longitude 55°, 0´ E., un célèbre professeur et saint parmi les mystiques de l'Islam, mort en 265 a.h., 874 a.d. (bien que l'année 234 a.h., 848 a.d. ait aussi été mentionnée par certains). Son nom était Tayfūr, fils de 'Isà, fils d'Ādam, fils de Surūshān, un zoroastrien qui embrassa l'Islam.
+[^49]: miii:2 Bāyezīd ou Abū-Yazīd, de Bestām, dans le Khurāsān, en Perse, latitude 36°, 25´ N., longitude 55°, 0´ E., un célèbre professeur et saint parmi les mystiques de l'Islam, mort en 265 a.h., 874 a.d. (bien que l'année 234 a.h., 848 a.d. ait aussi été mentionnée par certains). Son nom était Tayfūr, fils de 'Isà, fils d'Ādam, fils de Surūshān, un zoroastrien qui embrassa l'Islam.
 
-[^51]: miii:3 Juneyd, nom de famille d’Abū-’l-Qāsim Sa‘īd fils de ‘Ubayd, intitulé Sultan de la communauté soufie, un saint décédé à Bagdad en 287 a.H. (900 ap. J.-C.).
+[^50]: miii:3 Juneyd, nom de famille d’Abū-’l-Qāsim Sa‘īd fils de ‘Ubayd, intitulé Sultan de la communauté soufie, un saint décédé à Bagdad en 287 a.H. (900 ap. J.-C.).
 
-[^52]: miii:4 Urmiyya, sur le lac de ce nom, au sud-ouest de Tebrīz, la capitale de l'Azerbaïdjan, la province du nord-ouest de la Perse.
+[^51]: miii:4 Urmiyya, sur le lac de ce nom, au sud-ouest de Tebrīz, la capitale de l'Azerbaïdjan, la province du nord-ouest de la Perse.
 
-[^53]: miii:5 L'expression : « Le vénéré Cheikh » pourrait peut-être, à première vue, être considérée comme désignant le calife Abū-Bekr, le Cheikh par excellence, car lui et son successeur 'Umer (Omar) étaient désignés comme « les deux Cheikhs » parce qu'ils étaient chacun le beau-père de Mahomet, tandis que les troisième et quatrième califes, 'Uthmān (Osmān) et 'Alī, étaient ses gendres. Si cette supposition était correcte, Jelāl et Husām descendraient du même ancêtre lointain. Les commentateurs, cependant, m'a-t-on dit, désignent comme tel un certain « Seyyid Abū-'l-Wefā, le Kurde ». Les détails sur son individualité et son histoire ne m'ont malheureusement pas été communiqués.
+[^52]: miii:5 L'expression : « Le vénéré Cheikh » pourrait peut-être, à première vue, être considérée comme désignant le calife Abū-Bekr, le Cheikh par excellence, car lui et son successeur 'Umer (Omar) étaient désignés comme « les deux Cheikhs » parce qu'ils étaient chacun le beau-père de Mahomet, tandis que les troisième et quatrième califes, 'Uthmān (Osmān) et 'Alī, étaient ses gendres. Si cette supposition était correcte, Jelāl et Husām descendraient du même ancêtre lointain. Les commentateurs, cependant, m'a-t-on dit, désignent comme tel un certain « Seyyid Abū-'l-Wefā, le Kurde ». Les détails sur son individualité et son histoire ne m'ont malheureusement pas été communiqués.
 
-[^54]: miii:6 Je n'ai pas rencontré d'explication de cette expression, qui est de nouveau introduite dans le conte XIV, distique 40.
+[^53]: miii:6 Je n'ai pas rencontré d'explication de cette expression, qui est de nouveau introduite dans le conte XIV, distique 40.

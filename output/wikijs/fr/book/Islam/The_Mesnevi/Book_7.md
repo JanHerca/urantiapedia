@@ -935,94 +935,94 @@ Pendant des années tu as été une pierre, prends ce puits à cœur.
 
 ## Notes de bas de page
 
-[^203]: m114:1 Littéralement, « votre tasse du matin », bue à l'aube avant de quitter une maison.
+[^202]: m114:1 Littéralement, « votre tasse du matin », bue à l'aube avant de quitter une maison.
 
-[^204]: m115:1 Les Asiatiques boivent « pour l'amour » d'un ami, et non « pour sa santé ».
+[^203]: m115:1 Les Asiatiques boivent « pour l'amour » d'un ami, et non « pour sa santé ».
 
-[^205]: m115:2 Le perroquet est connu sous le titre de « mangeur de sucre ».
+[^204]: m115:2 Le perroquet est connu sous le titre de « mangeur de sucre ».
 
-[^206]: m116:1 On trouve une nuance d’explication à cette parole très hasardeuse des gnostiques soufis dans le Coran XVI. 108 « Quiconque nie Dieu après avoir cru, sauf celui qui y est contraint contre sa volonté et dont le cœur demeure ferme dans la foi, sera sévèrement châtié. »
+[^205]: m116:1 On trouve une nuance d’explication à cette parole très hasardeuse des gnostiques soufis dans le Coran XVI. 108 « Quiconque nie Dieu après avoir cru, sauf celui qui y est contraint contre sa volonté et dont le cœur demeure ferme dans la foi, sera sévèrement châtié. »
 
-[^207]: m116:2 Les ordres de derviches appellent leur bonnet particulier une « mitre » ou « couronne » (_tāj_).
+[^206]: m116:2 Les ordres de derviches appellent leur bonnet particulier une « mitre » ou « couronne » (_tāj_).
 
-[^208]: m116:3 Les « quatre rivières » du Paradis, d’eau, de lait, de vin et de miel. Coran xlvii. 16.
+[^207]: m116:3 Les « quatre rivières » du Paradis, d’eau, de lait, de vin et de miel. Coran xlvii. 16.
 
-[^209]: m116:4 Coran iii. 31; et de nombreux autres endroits.
+[^208]: m116:4 Coran iii. 31; et de nombreux autres endroits.
 
-[^210]: m117:1 Cette section semble avoir été suggérée par le distique suivant de ‘Attar :
+[^209]: m117:1 Cette section semble avoir été suggérée par le distique suivant de ‘Attar :
 
   « Ô enfant insouciant de la luxure, pleure des larmes de sang.
   Si un saint mange du poison, c'est de la nourriture semblable au miel.
 
   L'expression originale pour « saint », ici, est : « un homme de cœur ».
 
-[^211]: m118:1 La « responsabilité » canonique incombe à tous ceux qui sont sains d'esprit et d'âge adulte.
+[^210]: m118:1 La « responsabilité » canonique incombe à tous ceux qui sont sains d'esprit et d'âge adulte.
 
-[^212]: m118:2 Voir note au numéro 33 du présent poème.
+[^211]: m118:2 Voir note au numéro 33 du présent poème.
 
-[^213]: m118:3 Coran vii. 112, etc.
+[^212]: m118:3 Coran vii. 112, etc.
 
-[^214]: m119:1 Par « homme parfait » on entend un saint, tandis que par « imparfait » on désigne un héros et avant, un mortel ordinaire.
+[^213]: m119:1 Par « homme parfait » on entend un saint, tandis que par « imparfait » on désigne un héros et avant, un mortel ordinaire.
 
-[^215]: m119:2 Coran VII. 203;XLVI. 28. Par « oreille » et « langue » sont symbolisés un apprenant et un enseignant.
+[^214]: m119:2 Coran VII. 203;XLVI. 28. Par « oreille » et « langue » sont symbolisés un apprenant et un enseignant.
 
-[^216]: m122:1 Une affirmation hasardeuse. Voir Anecdotes, chap. iii., n° 2, 5, 7, etc.
+[^215]: m122:1 Une affirmation hasardeuse. Voir Anecdotes, chap. iii., n° 2, 5, 7, etc.
 
-[^217]: m122:2 Une expression proverbiale, comme : « Tout est bien qui finit bien. »
+[^216]: m122:2 Une expression proverbiale, comme : « Tout est bien qui finit bien. »
 
-[^218]: m122:3 Coran ii. 100.
+[^217]: m122:3 Coran ii. 100.
 
-[^219]: m122:4 Coran xxiii. 112.
+[^218]: m122:4 Coran xxiii. 112.
 
-[^220]: m122:5 Également Coran xxiii. 112.
+[^219]: m122:5 Également Coran xxiii. 112.
 
-[^221]: m122:6 La « pupille » de l'œil ; en persan appelée « le mannequin » ; en arabe, « l'homme ». Ces deux termes font allusion à la petite image de nous-mêmes vue reflétée dans la pupille.
+[^220]: m122:6 La « pupille » de l'œil ; en persan appelée « le mannequin » ; en arabe, « l'homme ». Ces deux termes font allusion à la petite image de nous-mêmes vue reflétée dans la pupille.
 
-[^222]: m124:1 Cette rhapsodie est mystique, comme le Cantique des Cantiques. Une « langue » est un enseignant, un informateur, un prophète et, apparemment, même Dieu lui-même.
+[^221]: m124:1 Cette rhapsodie est mystique, comme le Cantique des Cantiques. Une « langue » est un enseignant, un informateur, un prophète et, apparemment, même Dieu lui-même.
 
-[^223]: m124:2 Coran xc. 1-4.
+[^222]: m124:2 Coran xc. 1-4.
 
-[^224]: m125:1 « Autre », par opposition à soi-même ; également opposé à « nous deux » dans le cas des amoureux ; c'est un terme très utilisé dans la poésie et la philosophie orientales.
+[^223]: m125:1 « Autre », par opposition à soi-même ; également opposé à « nous deux » dans le cas des amoureux ; c'est un terme très utilisé dans la poésie et la philosophie orientales.
 
-[^225]: m126:1 Le « bien-aimé » du poète semble ici être Dieu.
+[^224]: m126:1 Le « bien-aimé » du poète semble ici être Dieu.
 
-[^226]: m126:2 Une allusion semble être faite au Coran xxi. 107.
+[^225]: m126:2 Une allusion semble être faite au Coran xxi. 107.
 
-[^227]: m128:1 Cette section est censée être une glose sur la tradition apostolique suivante: «En vérité, Sa'd est vraiment jaloux; mais je suis plus jaloux que lui, et Dieu plus que moi. Par jalousie, Il a rendu tous les excès pécheurs, qu'ils soient de l'homme extérieur ou intérieur.» Ce Sa'd, fils de 'Ubūda, était un disciple de Mahomet et l'homme le plus généreux de Médine. Il a embrassé la foi avant l'Hégire. Voir An-Nawāwī, p. 274, l. 5.
+[^226]: m128:1 Cette section est censée être une glose sur la tradition apostolique suivante: «En vérité, Sa'd est vraiment jaloux; mais je suis plus jaloux que lui, et Dieu plus que moi. Par jalousie, Il a rendu tous les excès pécheurs, qu'ils soient de l'homme extérieur ou intérieur.» Ce Sa'd, fils de 'Ubūda, était un disciple de Mahomet et l'homme le plus généreux de Médine. Il a embrassé la foi avant l'Hégire. Voir An-Nawāwī, p. 274, l. 5.
 
-[^228]: m128:2 Les « deux mondes », spirituel et matériel, futur et présent.
+[^227]: m128:2 Les « deux mondes », spirituel et matériel, futur et présent.
 
-[^229]: m129:1 L'« amour » du poète est toujours Dieu. Cette section se veut un excursus sur le distique suivant du poète Sanā’ī, décédé en 576 de l'hégire (1180 apr. J.-C.) :
+[^228]: m129:1 L'« amour » du poète est toujours Dieu. Cette section se veut un excursus sur le distique suivant du poète Sanā’ī, décédé en 576 de l'hégire (1180 apr. J.-C.) :
 
   « Pourquoi abandonnes-tu ta guilde, ses règles, sa foi ou son péché ?
   Pourquoi quittes-tu ta maîtresse, qu'elle soit grassouillette ou maigre ?
 
-[^230]: m129:2 Réflexions sur l'unité de Dieu et la pluralité de l'être créé.
+[^229]: m129:2 Réflexions sur l'unité de Dieu et la pluralité de l'être créé.
 
-[^231]: m131:1 Coran xix. 41, &c.
+[^230]: m131:1 Coran xix. 41, &c.
 
-[^232]: m131:2 Anecdotes, chap.vi.
+[^231]: m131:2 Anecdotes, chap.vi.
 
-[^233]: m131:3 « Vie » et « corail », en persan « An » et « merjān ».
+[^232]: m131:3 « Vie » et « corail », en persan « An » et « merjān ».
 
-[^234]: m131:4 Les hommes de la morale, l'aube de la lumière matérielle.
+[^233]: m131:4 Les hommes de la morale, l'aube de la lumière matérielle.
 
-[^235]: m132:1 Coran lv. 29.
+[^234]: m132:1 Coran lv. 29.
 
-[^236]: m135:1 Cette section prétend être une dissertation sur le dicton : « Ce que Dieu veut, arrive. »
+[^235]: m135:1 Cette section prétend être une dissertation sur le dicton : « Ce que Dieu veut, arrive. »
 
-[^237]: m135:2 Le « registre » de l'homme est le registre de ses pensées, de ses paroles et de ses actes, conservé par les anges, pour être produit lors du jugement dernier.
+[^236]: m135:2 Le « registre » de l'homme est le registre de ses pensées, de ses paroles et de ses actes, conservé par les anges, pour être produit lors du jugement dernier.
 
-[^238]: m137:1 Le même mot en persan, _bū_, signifie « odeur » et « espoir ». La chose espérée devient une fleur lointaine et odorante.
+[^237]: m137:1 Le même mot en persan, _bū_, signifie « odeur » et « espoir ». La chose espérée devient une fleur lointaine et odorante.
 
-[^239]: m137:2 Coran ii. 23, et quarante endroits en tout.
+[^238]: m137:2 Coran ii. 23, et quarante endroits en tout.
 
-[^240]: m137:3 Jacob aurait pleuré jusqu'à en perdre aveuglément en perdant Joseph; l'odeur du manteau de son fils, retrouvée plus tard, l'a rétabli.
+[^239]: m137:3 Jacob aurait pleuré jusqu'à en perdre aveuglément en perdant Joseph; l'odeur du manteau de son fils, retrouvée plus tard, l'a rétabli.
 
-[^241]: m137:4 Ferhād était l'amant de Shīrīn. (Voir Conte 6, distique 107, note).
+[^240]: m137:4 Ferhād était l'amant de Shīrīn. (Voir Conte 6, distique 107, note).
 
-[^242]: m137:5 Majnūn, dans l'histoire, est devenu fou par amour pour Laylà.
+[^241]: m137:5 Majnūn, dans l'histoire, est devenu fou par amour pour Laylà.
 
-[^243]: m137:6 Le « Sage de Gazna » est le poète Sanā‘ī, déjà mentionné dans les notes du présent conte, distique 230.
+[^242]: m137:6 Le « Sage de Gazna » est le poète Sanā‘ī, déjà mentionné dans les notes du présent conte, distique 230.
 
-[^244]: m137:7 Joseph est considéré comme étant d'une beauté incomparable.
+[^243]: m137:7 Joseph est considéré comme étant d'une beauté incomparable.

@@ -248,16 +248,16 @@ Ils sont plus élevés que les cieux et ce qui est au-delà ;
 
 ## Notes de bas de page
 
-[^369]: m248:1 Coran vi. 32 ; XXIX. 64 ; xxx. 6 ; xlvii. 38 ; lvii. 19.
+[^368]: m248:1 Coran vi. 32 ; XXIX. 64 ; xxx. 6 ; xlvii. 38 ; lvii. 19.
 
-[^370]: m249:1 Coran lxx. 4.
+[^369]: m249:1 Coran lxx. 4.
 
-[^371]: m249:2 Coran x. 37.
+[^370]: m249:2 Coran x. 37.
 
-[^372]: m249:3 Coran lxii. 5.
+[^371]: m249:3 Coran lxii. 5.
 
-[^373]: m251:1 Voir, dans la préface de l’auteur lui-même, sa mention élogieuse de Sheykh Husāmu-’d-Dīn, p. [iii](/fr/book/Islam/The_Mesnevi/Book_Preface#piii)., où cette parole est également citée.
+[^372]: m251:1 Voir, dans la préface de l’auteur lui-même, sa mention élogieuse de Sheykh Husāmu-’d-Dīn, p. [iii](/fr/book/Islam/The_Mesnevi/Book_Preface#piii)., où cette parole est également citée.
 
-[^374]: m251:2 Par « Romain », en Orient, on entend ce que les Européens appellent improprement « Grec ». Depuis Alexandre de Macédoine, il n'y a plus eu de « Grecs », leur mémoire même s'est perdue en Asie, et Alexandre lui-même y est appelé « le Romain ».
+[^373]: m251:2 Par « Romain », en Orient, on entend ce que les Européens appellent improprement « Grec ». Depuis Alexandre de Macédoine, il n'y a plus eu de « Grecs », leur mémoire même s'est perdue en Asie, et Alexandre lui-même y est appelé « le Romain ».
 
-[^375]: m253:1 Généralement, en Islam, huit paradis, ou, plus exactement, huit demeures du Paradis, sont rapportés, mentionnés et crus. Baydhāvī, dans Coran ii. 23, n'en donne que sept, et l'une d'entre elles est fausse. Guidé par lui, cependant, j'ai corrigé celui-ci et vérifié les autres, en plus de trouver le huitième. Leurs noms sont donc les suivants : 1. _Jennatu-'l-Khuld_, le Paradis (jardin) de la Durée Éternelle ; 2. _Jennatu 'Aden_, le Jardin d'Éden ; 3. _Jennatu-'l-Firdaws_, le Jardin du Paradis ; 4. _Jennatu-'l-Me'và_, le Jardin de la Demeure ; 5. _Jennatu-'n-Na'īm_, le Paradis du Plaisir ; 6. _Dāru-’s-Selām_, la Demeure de Sécurité ; 7. _Dāru-’l-Maqāma_, la Maison du Séjour ; 8. _‘Illiyūn_, les Hauteurs Sublimes. Baydhāvī a _Dāru-’l-Khuld_ pour _Jennatu-’l-Khuld ;_ mais c’est l’un des noms de l’Enfer, tel qu’il apparaît dans le Coran XLI. 28. Il y a aussi un _Dāru-’l-Qarār_, Demeure de Permanence, mentionné dans le Coran XL. 42 ; mais il s’applique à l’Enfer et au Paradis, comme le fait le _Dāru-’l-Baqā_, Demeure de Durée, couramment utilisé, mais non trouvé dans le Coran.
+[^374]: m253:1 Généralement, en Islam, huit paradis, ou, plus exactement, huit demeures du Paradis, sont rapportés, mentionnés et crus. Baydhāvī, dans Coran ii. 23, n'en donne que sept, et l'une d'entre elles est fausse. Guidé par lui, cependant, j'ai corrigé celui-ci et vérifié les autres, en plus de trouver le huitième. Leurs noms sont donc les suivants : 1. _Jennatu-'l-Khuld_, le Paradis (jardin) de la Durée Éternelle ; 2. _Jennatu 'Aden_, le Jardin d'Éden ; 3. _Jennatu-'l-Firdaws_, le Jardin du Paradis ; 4. _Jennatu-'l-Me'và_, le Jardin de la Demeure ; 5. _Jennatu-'n-Na'īm_, le Paradis du Plaisir ; 6. _Dāru-’s-Selām_, la Demeure de Sécurité ; 7. _Dāru-’l-Maqāma_, la Maison du Séjour ; 8. _‘Illiyūn_, les Hauteurs Sublimes. Baydhāvī a _Dāru-’l-Khuld_ pour _Jennatu-’l-Khuld ;_ mais c’est l’un des noms de l’Enfer, tel qu’il apparaît dans le Coran XLI. 28. Il y a aussi un _Dāru-’l-Qarār_, Demeure de Permanence, mentionné dans le Coran XL. 42 ; mais il s’applique à l’Enfer et au Paradis, comme le fait le _Dāru-’l-Baqā_, Demeure de Durée, couramment utilisé, mais non trouvé dans le Coran.

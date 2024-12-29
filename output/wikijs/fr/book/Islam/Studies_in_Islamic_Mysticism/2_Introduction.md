@@ -40,7 +40,7 @@ L'homme n'est-il pas le dernier appel de la Création,
 La lumière de l'œil de la Sagesse ? Voici la roue
 De la vie universelle comme un anneau,
 Mais l'homme la suscription et le sceau.
-                                      Omar Khayyam.
+&nbsp;&nbsp;&nbsp;Omar Khayyam.
 
 Οὕτως, φησίν, ἐστι πάνυ βαθεῖα καὶ δυσκατάληπτος ἡ τοῦ τελείου ἀνθρώπου γνῶσις. Ἀρχὴ γάρ, φησίν, τελειώσεως γνῶσις ἀνθρώπου· θεοῦ δὲ γνῶσις ἀπηρτισμένη τελείωσις· Hippolyte.
 
@@ -160,11 +160,10 @@ J'espère que l'analyse et l'exposé qui suivent sont suffisamment complets pour
 [^224]: 80 : 2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Comparez ceci avec l’expression moniste de la même pensée par Jílí (K I. 51, 1) : « Nous sommes l’esprit de l’Un, bien que nous habitions tour à tour dans deux corps. » De même, Jalálu’ddín Rúmí (Divāni Shamsi Tabriz, p. 153) :
-
-« Heureux le moment où nous sommes assis dans le palais, toi et moi,
-Avec deux formes et avec deux figures, mais avec une seule âme, toi et moi.
-
-Cf. K II. 121, 11 ss. : « L'amour essentiel est l'amour dans l'Unité, de sorte que chacun des amants apparaît sous la forme de l'autre et représente l'autre. Dans la mesure où l'amour du corps et de l'âme est essentiel, l'âme souffre de la douleur du corps dans ce monde, tandis que le corps souffre de la douleur de l'âme dans l'autre monde : alors chacun d'eux apparaît sous la forme de l'autre. »
+  « Heureux le moment où nous sommes assis dans le palais, toi et moi,
+  Avec deux formes et avec deux figures, mais avec une seule âme, toi et moi.
+  
+  Cf. K II. 121, 11 ss. : « L'amour essentiel est l'amour dans l'Unité, de sorte que chacun des amants apparaît sous la forme de l'autre et représente l'autre. Dans la mesure où l'amour du corps et de l'âme est essentiel, l'âme souffre de la douleur du corps dans ce monde, tandis que le corps souffre de la douleur de l'âme dans l'autre monde : alors chacun d'eux apparaît sous la forme de l'autre. »
 
 [^226]: 81:1 Je ne sais pas sur quelle autorité le Dr Goldziher dans son article sur Jílí dans l'_Encycl. of Islam_ (vol. I, p. 46) relie la _nisba_ à Jíl, un village dans le district de Baghdád. Jílí s'appelle lui-même ![](/image/book/Islam/Studies_in_Islamic_Mysticism/08100.jpg) (Loth, Cat. de manuscrits arabes dans la bibliothèque de l'India Office, p. 182, col. I, l. 7 à partir du pied). Il a fait remonter sa descendance à un _sibṭ_ de 'Abdu 'l-Qádir, _c'est-à-dire à un fils de la fille du Shaykh.
 

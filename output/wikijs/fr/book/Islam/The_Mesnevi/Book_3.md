@@ -1083,84 +1083,84 @@ Comme il était lui-même fidèle,[^119] même si ses ennemis pouvaient s'irrite
 
 ## Notes de bas de page
 
-[^80]: m25:1 Qui sont visés par ce roi juif aux yeux louches et par son vazīr altruiste et traître ?
+[^79]: m25:1 Qui sont visés par ce roi juif aux yeux louches et par son vazīr altruiste et traître ?
 
-[^81]: m25:2 C'est une croyance commune en Orient que les personnes qui louchent voient double.
+[^80]: m25:2 C'est une croyance commune en Orient que les personnes qui louchent voient double.
 
-[^82]: m27:1 Des aiguilles, ou des épingles, sont cachées dans le pain qui est donné à un chien ou à une autre bête afin de le détruire.
+[^81]: m27:1 Des aiguilles, ou des épingles, sont cachées dans le pain qui est donné à un chien ou à une autre bête afin de le détruire.
 
-[^83]: m27:2 La corde portée par les moines, comme le fil sacré du brahmane, est supposée par les musulmans être portée par tous les chrétiens.
+[^82]: m27:2 La corde portée par les moines, comme le fil sacré du brahmane, est supposée par les musulmans être portée par tous les chrétiens.
 
-[^84]: m29:1 Mahomet.
+[^83]: m29:1 Mahomet.
 
-[^85]: m29:2 En cas de danger immédiat pendant la guerre, le « Service de la Peur » est recommandé à la place de la forme habituelle de culte.
+[^84]: m29:2 En cas de danger immédiat pendant la guerre, le « Service de la Peur » est recommandé à la place de la forme habituelle de culte.
 
-[^86]: m29:3 Dans les visions.
+[^85]: m29:3 Dans les visions.
 
-[^87]: m30:1 Le mot originel, _conversant_, comme notre « Adepte » et « _Illuminato_ », est appliqué par les mystiques à eux-mêmes. C'est une trace de l'ancien gnosticisme.
+[^86]: m30:1 Le mot originel, _conversant_, comme notre « Adepte » et « _Illuminato_ », est appliqué par les mystiques à eux-mêmes. C'est une trace de l'ancien gnosticisme.
 
-[^88]: m30:2 Étant donné en persan, je ne peux pas citer le chapitre et le verset de l'original arabe.
+[^87]: m30:2 Étant donné en persan, je ne peux pas citer le chapitre et le verset de l'original arabe.
 
-[^89]: m30:3 Comme des lunatiques, ils sont censés être insouciants de tout ce qui les entoure.
+[^88]: m30:3 Comme des lunatiques, ils sont censés être insouciants de tout ce qui les entoure.
 
-[^90]: m30:4 _Le sommeil est le frère de la mort_ est un ancien proverbe arabe.
+[^89]: m30:4 _Le sommeil est le frère de la mort_ est un ancien proverbe arabe.
 
-[^91]: m31:1 Les Sept Dormants; mentionné dans le Coran xviii. 8-25.
+[^90]: m31:1 Les Sept Dormants; mentionné dans le Coran xviii. 8-25.
 
-[^92]: m31:2 Le « compagnon de caverne » de Mahomet était Abū-Bekr, qui était son seul compagnon lorsqu'il quitta la Mecque lors de l'émigration ou de la « fuite ». Ils se cachèrent dans une caverne et Mahomet remarqua : « Dieu est le troisième de notre petit groupe. » D'où le titre de « compagnon de caverne » appliqué à Abū-Bekr.
+[^91]: m31:2 Le « compagnon de caverne » de Mahomet était Abū-Bekr, qui était son seul compagnon lorsqu'il quitta la Mecque lors de l'émigration ou de la « fuite ». Ils se cachèrent dans une caverne et Mahomet remarqua : « Dieu est le troisième de notre petit groupe. » D'où le titre de « compagnon de caverne » appliqué à Abū-Bekr.
 
-[^93]: m31:3 Une espèce de cauchemar sous la forme d'un rêve lascif.
+[^92]: m31:3 Une espèce de cauchemar sous la forme d'un rêve lascif.
 
-[^94]: m32:1 Coran xxv. 47.
+[^93]: m32:1 Coran xxv. 47.
 
-[^95]: m32:2 Coran vi. 76.
+[^94]: m32:2 Coran vi. 76.
 
-[^96]: m32:3 Voir « Anecdotes », chap. iv.
+[^95]: m32:3 Voir « Anecdotes », chap. iv.
 
-[^97]: m32:4 Voir son nom comme titre honorifique dans une note de la préface de l'auteur ; et dans les « Anecdotes », chap. vi.
+[^96]: m32:4 Voir son nom comme titre honorifique dans une note de la préface de l'auteur ; et dans les « Anecdotes », chap. vi.
 
-[^98]: m33:1 Coran ii. 119.
+[^97]: m33:1 Coran ii. 119.
 
-[^99]: m34:1 « _Le Lion de Dieu_ », ainsi appelé en raison de son courage et de sa force. Shīr-Ali, Hayder-Ali, sont parmi les formes du titre.
+[^98]: m34:1 « _Le Lion de Dieu_ », ainsi appelé en raison de son courage et de sa force. Shīr-Ali, Hayder-Ali, sont parmi les formes du titre.
 
-[^100]: m34:2 Une des paroles qui lui sont attribuées et devenues proverbiales.
+[^99]: m34:2 Une des paroles qui lui sont attribuées et devenues proverbiales.
 
-[^101]: m34:3 En persan, les promesses et les vantardises vides sont aussi appelées « vent ». Par conséquent, le poète suggère l'ablution pour se purifier de cela ; l'ablution mentale.
+[^100]: m34:3 En persan, les promesses et les vantardises vides sont aussi appelées « vent ». Par conséquent, le poète suggère l'ablution pour se purifier de cela ; l'ablution mentale.
 
-[^102]: m36:1 Le « synthéisme » est la traduction correcte du « shirk » de l'islam. Le « polythéisme » est très incorrect. Les dualistes (mages) et les trinitaires (chrétiens) sont des synthéistes, mais ils ne sont pas des polythéistes au sens correct.
+[^101]: m36:1 Le « synthéisme » est la traduction correcte du « shirk » de l'islam. Le « polythéisme » est très incorrect. Les dualistes (mages) et les trinitaires (chrétiens) sont des synthéistes, mais ils ne sont pas des polythéistes au sens correct.
 
-[^103]: m38:1 Une allusion à l'idée qu'une perle est une goutte de pluie capturée et nourrie par une huître.
+[^102]: m38:1 Une allusion à l'idée qu'une perle est une goutte de pluie capturée et nourrie par une huître.
 
-[^104]: m40:1 « Le Prophète illettré », ou plutôt « le Prophète Gentil », réputé barbare et illettré par les Juifs et les Chrétiens, est l'un des titres les plus élevés de Mahomet.
+[^103]: m40:1 « Le Prophète illettré », ou plutôt « le Prophète Gentil », réputé barbare et illettré par les Juifs et les Chrétiens, est l'un des titres les plus élevés de Mahomet.
 
-[^105]: m40:2 L'original utilise ici la comparaison d'un certain « oiseau rusé », connu également sous le nom d'« oiseau appelant la vérité », qui se suspend par une griffe et appelle toute la nuit : _haqq! haqq!_ (Vérité ! Vérité !).
+[^104]: m40:2 L'original utilise ici la comparaison d'un certain « oiseau rusé », connu également sous le nom d'« oiseau appelant la vérité », qui se suspend par une griffe et appelle toute la nuit : _haqq! haqq!_ (Vérité ! Vérité !).
 
-[^106]: m40:3 Tel est un mythe oriental. Les poètes appellent la planète Vénus la « Harpiste des Sphères ».
+[^105]: m40:3 Tel est un mythe oriental. Les poètes appellent la planète Vénus la « Harpiste des Sphères ».
 
-[^107]: m41:1 Dans le Coran ii. 32, Dieu ordonne aux anges de se prosterner devant Adam, lors de sa création. Seul Iblīs, Satan, refusa, par orgueil et envie.
+[^106]: m41:1 Dans le Coran ii. 32, Dieu ordonne aux anges de se prosterner devant Adam, lors de sa création. Seul Iblīs, Satan, refusa, par orgueil et envie.
 
-[^108]: m41:2 Dans le Coran iv. 124, Abraham est appelé l'Ami choisi de Dieu, et dans le xxi. 69, il est fait mention de l'histoire de son salut du feu dans lequel il fut jeté par Nimrod.
+[^107]: m41:2 Dans le Coran iv. 124, Abraham est appelé l'Ami choisi de Dieu, et dans le xxi. 69, il est fait mention de l'histoire de son salut du feu dans lequel il fut jeté par Nimrod.
 
-[^109]: m43:1 La _Fontaine de Vie_, ou _Eau de Vie_, est imaginée prendre sa source dans une [terre](errata.htm#2) d'obscurité au-delà des limites de la terre habitée.
+[^108]: m43:1 La _Fontaine de Vie_, ou _Eau de Vie_, est imaginée prendre sa source dans une [terre](errata.htm#2) d'obscurité au-delà des limites de la terre habitée.
 
-[^110]: m46:1 Dans l'original, je n'ai pas trouvé possible de me rendre compte avec certitude où doit se situer la coupure entre la remontrance et les réflexions du poète. Une grande partie de ce qui précède semble s'adresser à Dieu, mais l'hyperbole orientale est trop large.
+[^109]: m46:1 Dans l'original, je n'ai pas trouvé possible de me rendre compte avec certitude où doit se situer la coupure entre la remontrance et les réflexions du poète. Une grande partie de ce qui précède semble s'adresser à Dieu, mais l'hyperbole orientale est trop large.
 
-[^111]: m46:2 Coran viii. 17. Mahomet a jeté du sable sur l’ennemi dans deux batailles, Badr et Hunayn.
+[^110]: m46:2 Coran viii. 17. Mahomet a jeté du sable sur l’ennemi dans deux batailles, Badr et Hunayn.
 
-[^112]: m49:1 Ce récit des divers livres falsifiés du Vazīr est une allusion aux divers Évangiles et Épîtres, canoniques et apocryphes, qui ont surgi dans l'Église chrétienne primitive.
+[^111]: m49:1 Ce récit des divers livres falsifiés du Vazīr est une allusion aux divers Évangiles et Épîtres, canoniques et apocryphes, qui ont surgi dans l'Église chrétienne primitive.
 
-[^113]: m49:2 La conquête romaine de la Grèce, de l’Asie Mineure et de la Syrie effaça complètement de l’esprit oriental tout souvenir des acteurs précédents de ces scènes. Même « Alexandre le Grand » est pour eux « Alexandre le Romain », comme notre Jelūlu-’d-Dīn, « Er-Rūmī_ ».
+[^112]: m49:2 La conquête romaine de la Grèce, de l’Asie Mineure et de la Syrie effaça complètement de l’esprit oriental tout souvenir des acteurs précédents de ces scènes. Même « Alexandre le Grand » est pour eux « Alexandre le Romain », comme notre Jelūlu-’d-Dīn, « Er-Rūmī_ ».
 
-[^114]: m51:1 Une allusion aux luttes des évêques de Rome, Constantinople, Alexandrie, Antioche, Jérusalem, etc., etc.
+[^113]: m51:1 Une allusion aux luttes des évêques de Rome, Constantinople, Alexandrie, Antioche, Jérusalem, etc., etc.
 
-[^115]: m52:1 Les mystiques de l'Islam appellent Dieu et l'esprit _le sens_, dont les existences matérielles sont l'expression extérieure ; comme nous disons : « _La lettre et l'esprit_. » Le jeu constant de l'original sur ces mots se perd dans la version.
+[^114]: m52:1 Les mystiques de l'Islam appellent Dieu et l'esprit _le sens_, dont les existences matérielles sont l'expression extérieure ; comme nous disons : « _La lettre et l'esprit_. » Le jeu constant de l'original sur ces mots se perd dans la version.
 
-[^116]: m52:2 Une allusion au Coran xviii. 12 ; pas une citation verbale.
+[^115]: m52:2 Une allusion au Coran xviii. 12 ; pas une citation verbale.
 
-[^117]: m53:1 Une variante grammaticale du Coran xxi. 107. Il s’agit de Mahomet.
+[^116]: m53:1 Une variante grammaticale du Coran xxi. 107. Il s’agit de Mahomet.
 
-[^118]: m53:2 Une allusion au Coran XLIX. 3 ; pas une citation.
+[^117]: m53:2 Une allusion au Coran XLIX. 3 ; pas une citation.
 
-[^119]: m54:1 Dans le Coran lxi. 6, on affirme que Jésus, dans l'Évangile, a prédit la venue de Mahomet sous le nom d'Ahmed. On explique généralement cela comme une traduction de περικλιτός, mal interprété pour παράκλητος dans Jean xiv. 26. Les deux mots ont à peu près la même signification : _très loué, très louable, laudatissimus_. Mahomet est mentionné sous de nombreux noms, quarante, cinquante, soixante ; certains disent mille.
+[^118]: m54:1 Dans le Coran lxi. 6, on affirme que Jésus, dans l'Évangile, a prédit la venue de Mahomet sous le nom d'Ahmed. On explique généralement cela comme une traduction de περικλιτός, mal interprété pour παράκλητος dans Jean xiv. 26. Les deux mots ont à peu près la même signification : _très loué, très louable, laudatissimus_. Mahomet est mentionné sous de nombreux noms, quarante, cinquante, soixante ; certains disent mille.
 
-[^120]: m54:2 Mahomet a gagné le nom de Trusty, El-Emīn (Al-Amīn), bien avant de se déclarer chargé d'appeler ses compatriotes à reconnaître l'unité de Dieu, la résurrection, le jugement et la vie future.
+[^119]: m54:2 Mahomet a gagné le nom de Trusty, El-Emīn (Al-Amīn), bien avant de se déclarer chargé d'appeler ses compatriotes à reconnaître l'unité de Dieu, la résurrection, le jugement et la vie future.

@@ -397,16 +397,16 @@ Nos talents étant mis à l'épreuve par Son habileté omnisciente,
 
 ## Notes de bas de page
 
-[^332]: m218:1 Coran iii. 153.
+[^331]: m218:1 Coran iii. 153.
 
-[^333]: m219:1 Coran xlviii. 6.
+[^332]: m219:1 Coran xlviii. 6.
 
-[^334]: m220:1 Coran xxviii. 88.
+[^333]: m220:1 Coran xxviii. 88.
 
-[^335]: m222:1 Coran lv. 29.
+[^334]: m222:1 Coran lv. 29.
 
-[^336]: m224:1 Coran vii. 132.
+[^335]: m224:1 Coran vii. 132.
 
-[^337]: m226:1 Voir Conte iv., dist. 121.
+[^336]: m226:1 Voir Conte iv., dist. 121.
 
-[^338]: m226:2 Coran vii. 132. Voir note \[[^335]\], p. 224.
+[^337]: m226:2 Coran vii. 132. Voir note \[[^335]\], p. 224.

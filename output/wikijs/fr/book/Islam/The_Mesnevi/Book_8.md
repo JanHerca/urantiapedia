@@ -937,78 +937,78 @@ Il était une source de vie, une véritable mer de don.
 
 ## Notes de bas de page
 
-[^245]: m139:1 Isrāfīl est l'ange qui sonnera la dernière trompette, deux fois. A la première, tous les vivants mourront, à la seconde, tous les morts ressusciteront pour être jugés. Sa voix est la plus musicale de toutes celles des anges.
+[^244]: m139:1 Isrāfīl est l'ange qui sonnera la dernière trompette, deux fois. A la première, tous les vivants mourront, à la seconde, tous les morts ressusciteront pour être jugés. Sa voix est la plus musicale de toutes celles des anges.
 
-[^246]: m140:1 Notre mot « fée » est lié au persan « _perī_ », utilisé ici par le poète à la place de l'arabe « _jinn_ », d'où notre « génie ».
+[^245]: m140:1 Notre mot « fée » est lié au persan « _perī_ », utilisé ici par le poète à la place de l'arabe « _jinn_ », d'où notre « génie ».
 
-[^247]: m140:2 Coran lv. 33.
+[^246]: m140:2 Coran lv. 33.
 
-[^248]: m140:3 C'est-à-dire, il semblerait : _Individu créé à partir de rien_.
+[^247]: m140:3 C'est-à-dire, il semblerait : _Individu créé à partir de rien_.
 
-[^249]: m141:1 C'est-à-dire : Le Seigneur est avec celui qui combat pour le Seigneur.
+[^248]: m141:1 C'est-à-dire : Le Seigneur est avec celui qui combat pour le Seigneur.
 
-[^250]: m141:2 Une courge séchée, une calebasse, est couramment utilisée comme carafe à vin.
+[^249]: m141:2 Une courge séchée, une calebasse, est couramment utilisée comme carafe à vin.
 
-[^251]: m141:3 Une tradition apostolique.
+[^250]: m141:3 Une tradition apostolique.
 
-[^252]: m142:1 Également une tradition apostolique.
+[^251]: m142:1 Également une tradition apostolique.
 
-[^253]: m142:2 Une autre tradition apostolique.
+[^252]: m142:2 Une autre tradition apostolique.
 
-[^254]: m142:3 Le dicton traditionnel de Mahomet, dont cette section est une amplification, est le suivant : « En vérité, votre Seigneur a, dans votre temps, des souffles divers ; alors, tournez-vous vers eux. »
+[^253]: m142:3 Le dicton traditionnel de Mahomet, dont cette section est une amplification, est le suivant : « En vérité, votre Seigneur a, dans votre temps, des souffles divers ; alors, tournez-vous vers eux. »
 
-[^255]: m143:1 Coran xxxiii. 72. Quand toutes choses eurent décliné leur responsabilité, Adam l'accepta volontairement, fut tenté et tomba. S'ils n'avaient pas reculé, l'homme n'aurait pas été le pécheur ou le saint qu'il est.
+[^254]: m143:1 Coran xxxiii. 72. Quand toutes choses eurent décliné leur responsabilité, Adam l'accepta volontairement, fut tenté et tomba. S'ils n'avaient pas reculé, l'homme n'aurait pas été le pécheur ou le saint qu'il est.
 
-[^256]: m143:2 L’histoire de Luqmān peut être lue dans D’Herbelot, _voce_ « Locman ».
+[^255]: m143:2 L’histoire de Luqmān peut être lue dans D’Herbelot, _voce_ « Locman ».
 
-[^257]: m144:1 Les poètes arabes chantent des femmes, souvent imaginaires. En Perse, cela est considéré comme très immodeste. Dans la poésie persane, un garçon, imaginaire aussi, est toujours supposé être l'objet aimé. Mahomet s'adressait ainsi à sa jeune épouse, 'Ā'isha. Humayrā signifie Rosina, _petites joues roses_. Voir aussi le n° 9, distique 184.
+[^256]: m144:1 Les poètes arabes chantent des femmes, souvent imaginaires. En Perse, cela est considéré comme très immodeste. Dans la poésie persane, un garçon, imaginaire aussi, est toujours supposé être l'objet aimé. Mahomet s'adressait ainsi à sa jeune épouse, 'Ā'isha. Humayrā signifie Rosina, _petites joues roses_. Voir aussi le n° 9, distique 184.
 
-[^258]: m144:2 Un fer à cheval, comme un charme, avec le nom d'un absent dessus, placé dans le feu, est censé exercer une influence magique sur lui, et le faire venir là en toute hâte, même si ses pieds saignent de sa hâte.
+[^257]: m144:2 Un fer à cheval, comme un charme, avec le nom d'un absent dessus, placé dans le feu, est censé exercer une influence magique sur lui, et le faire venir là en toute hâte, même si ses pieds saignent de sa hâte.
 
-[^259]: m144:3 Cette « Âme » est Dieu, le « _animus mundi_ ».
+[^258]: m144:3 Cette « Âme » est Dieu, le « _animus mundi_ ».
 
-[^260]: m145:1 Par l'humilité.
+[^259]: m145:1 Par l'humilité.
 
-[^261]: m145:2 L’« appel » de Dieu est l’appel au service divin, le _‘Adhān_ (_ezān_).
+[^260]: m145:2 L’« appel » de Dieu est l’appel au service divin, le _‘Adhān_ (_ezān_).
 
-[^262]: m145:3 Bilāl, un nègre, fut le premier à appeler au service divin. Il fut un des premiers convertis, esclave, puis affranchi de ‘Abū-Bekr, puis Mu’edhdhin.
+[^261]: m145:3 Bilāl, un nègre, fut le premier à appeler au service divin. Il fut un des premiers convertis, esclave, puis affranchi de ‘Abū-Bekr, puis Mu’edhdhin.
 
-[^263]: m145:4 Mustafà, _Élu_, _Élu_, est l'un des titres de Mahomet.
+[^262]: m145:4 Mustafà, _Élu_, _Élu_, est l'un des titres de Mahomet.
 
-[^264]: m145:5 La nuit de son mariage avec Safiyya, après la prise de Khaybar, dans la septième année de l’Hégire, alors qu’il retournait à Médine. Cette nuit porte un nom spécial, basé sur cette circonstance : _la nuit de la halte matinale_ (laylatu ’t-ta‘rīs).
+[^263]: m145:5 La nuit de son mariage avec Safiyya, après la prise de Khaybar, dans la septième année de l’Hégire, alors qu’il retournait à Médine. Cette nuit porte un nom spécial, basé sur cette circonstance : _la nuit de la halte matinale_ (laylatu ’t-ta‘rīs).
 
-[^265]: m146:1 Une explication de cette expression farfelue serait bien désirable. Il y en a sans doute une.
+[^264]: m146:1 Une explication de cette expression farfelue serait bien désirable. Il y en a sans doute une.
 
-[^266]: m146:2 Il existe sept jeux de trictrac persans différents. Le second des sept, celui mentionné par le poète, s'appelle « Plus » (_Ziyād_). A chaque coup de dés, on ajoute arbitrairement un à chaque nombre indiqué sur le deux, l'as devenant deux, etc. Le poète assimile le corps à ce nombre supposé, l'âme seule étant réelle.
+[^265]: m146:2 Il existe sept jeux de trictrac persans différents. Le second des sept, celui mentionné par le poète, s'appelle « Plus » (_Ziyād_). A chaque coup de dés, on ajoute arbitrairement un à chaque nombre indiqué sur le deux, l'as devenant deux, etc. Le poète assimile le corps à ce nombre supposé, l'âme seule étant réelle.
 
-[^267]: m148:1 En accomplissant ses dévotions, une musulmane doit se voiler, même à la maison, comme si elle était à l'extérieur en public.
+[^266]: m148:1 En accomplissant ses dévotions, une musulmane doit se voiler, même à la maison, comme si elle était à l'extérieur en public.
 
-[^268]: m148:2 Ces quatre lignes sont citées de Sanā'ī, pour commentaire.
+[^267]: m148:2 Ces quatre lignes sont citées de Sanā'ī, pour commentaire.
 
-[^269]: m149:1 Cette section et les deux suivantes forment un commentaire sur Sanā’ī.
+[^268]: m149:1 Cette section et les deux suivantes forment un commentaire sur Sanā’ī.
 
-[^270]: m149:2 Coran l. 14. La « nouvelle création » est la résurrection.
+[^269]: m149:2 Coran l. 14. La « nouvelle création » est la résurrection.
 
-[^271]: m149:3 La tradition, en prose, est la suivante, citée par le poète : « Profitez de la fraîcheur du printemps ; elle tonifie vos corps, comme elle agit sur les plantes. Évitez aussi le froid de l'automne ; il agit sur vos corps comme il agit sur la végétation. »
+[^270]: m149:3 La tradition, en prose, est la suivante, citée par le poète : « Profitez de la fraîcheur du printemps ; elle tonifie vos corps, comme elle agit sur les plantes. Évitez aussi le froid de l'automne ; il agit sur vos corps comme il agit sur la végétation. »
 
-[^272]: m150:1 Les prisonniers et les esclaves fugitifs ont des anneaux de fer ou une sorte de pilori en bois attachés autour de leur cou pour empêcher la fuite ou l'insubordination.
+[^271]: m150:1 Les prisonniers et les esclaves fugitifs ont des anneaux de fer ou une sorte de pilori en bois attachés autour de leur cou pour empêcher la fuite ou l'insubordination.
 
-[^273]: m152:1 Vénus, la musicienne, qui habite la planète. Voir Conte iii., dist. 223.
+[^272]: m152:1 Vénus, la musicienne, qui habite la planète. Voir Conte iii., dist. 223.
 
-[^274]: m152:2 Mahomet.
+[^273]: m152:2 Mahomet.
 
-[^275]: m152:3 Le nom original de Médine, — _Jatrippa_.
+[^274]: m152:3 Le nom original de Médine, — _Jatrippa_.
 
-[^276]: m153:1 Coran xlvii. 17.
+[^275]: m153:1 Coran xlvii. 17.
 
-[^277]: m154:1 Coran vii. 171.
+[^276]: m154:1 Coran vii. 171.
 
-[^278]: m155:1 La tradition rapporte qu'au début Mahomet prononçait son sermon assis par terre au milieu de son auditoire, le dos appuyé contre un certain pilier de bois. L'assistance augmentant, il fut obligé d'adopter l'usage d'une estrade surélevée, une sorte de chaire, pour être vu et entendu de tous. C'est du pilier déserté dont il est question.
+[^277]: m155:1 La tradition rapporte qu'au début Mahomet prononçait son sermon assis par terre au milieu de son auditoire, le dos appuyé contre un certain pilier de bois. L'assistance augmentant, il fut obligé d'adopter l'usage d'une estrade surélevée, une sorte de chaire, pour être vu et entendu de tous. C'est du pilier déserté dont il est question.
 
-[^279]: m157:1 C'est une légende traditionnelle.
+[^278]: m157:1 C'est une légende traditionnelle.
 
-[^280]: m161:1 La circumambulation de la « Maison de Dieu » à la Mecque, est l'une des cérémonies d'un pèlerinage, etc.
+[^279]: m161:1 La circumambulation de la « Maison de Dieu » à la Mecque, est l'une des cérémonies d'un pèlerinage, etc.
 
-[^281]: m163:1 Coran i. 5.
+[^280]: m163:1 Coran i. 5.
 
-[^282]: m164 : 1 Hātim Tāyī est le prince proverbial de la générosité arabe. De nombreuses anecdotes circulent à son sujet. Son nom complet était Hātim, fils de ‘Abdu-’llāh, fils de Sa‘d, de la tribu de Tayyi’. Pour des exemples de sa générosité, tels que transmis par la tradition d’une époque peu antérieure à la promulgation de l’Islam, voir M. Clouston « _Arabian Poetry for English Readers_ », p. 406 ; Londres, 1881 ; Trübner & Co., Ludgate Hill. Mais Hātim a vécu et est mort avant que les califes ne règnent. Lui aussi était poète.
+[^281]: m164 : 1 Hātim Tāyī est le prince proverbial de la générosité arabe. De nombreuses anecdotes circulent à son sujet. Son nom complet était Hātim, fils de ‘Abdu-’llāh, fils de Sa‘d, de la tribu de Tayyi’. Pour des exemples de sa générosité, tels que transmis par la tradition d’une époque peu antérieure à la promulgation de l’Islam, voir M. Clouston « _Arabian Poetry for English Readers_ », p. 406 ; Londres, 1881 ; Trübner & Co., Ludgate Hill. Mais Hātim a vécu et est mort avant que les califes ne règnent. Lui aussi était poète.

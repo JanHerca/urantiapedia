@@ -103,4 +103,4 @@ IMPRIMÉ PAR BALLANTYNE, HANSON ET CIE.
 
 ## Notes de bas de page
 
-[^433]: m289:1 La « [_cauda_](errata.htm#3) _draconis_ » était le « nœud descendant », l’un des points de l’écliptique. Le « fruit défendu », dans l’Islam, est censé avoir été le blé.
+[^432]: m289:1 La « [_cauda_](errata.htm#3) _draconis_ » était le « nœud descendant », l’un des points de l’écliptique. Le « fruit défendu », dans l’Islam, est censé avoir été le blé.

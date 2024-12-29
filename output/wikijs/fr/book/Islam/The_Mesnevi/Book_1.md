@@ -583,26 +583,26 @@ Les hommes jugent de ce qu'ils voient par ce qu'ils pensent.
 
 ## Notes de bas de page
 
-[^58]: m4:1 Dans l'Islam, une personne libre ne peut légalement être achetée ou vendue.
+[^57]: m4:1 Dans l'Islam, une personne libre ne peut légalement être achetée ou vendue.
 
-[^59]: m5:1 Par hyperbole, un médecin intelligent est toujours comparé à Jésus, dans ses pouvoirs de guérison miraculeux, par les musulmans.
+[^58]: m5:1 Par hyperbole, un médecin intelligent est toujours comparé à Jésus, dans ses pouvoirs de guérison miraculeux, par les musulmans.
 
-[^60]: m5:2 Coran xviii. 23, enseigne : « Ne dis pas : « Je ferai ceci et cela », à moins que (tu n’ajoutes) : « Si Dieu le veut. »
+[^59]: m5:2 Coran xviii. 23, enseigne : « Ne dis pas : « Je ferai ceci et cela », à moins que (tu n’ajoutes) : « Si Dieu le veut. »
 
-[^61]: m5:3 Le service divin en Islam est entièrement une adoration et des louanges. Il est erroné de dire que les musulmans font leurs prières. Louanges, louanges et gloire sont ce qu'ils sont tenus d'offrir. La prière est volontaire et interdite, sauf sous une forme dûment autorisée comme une collecte.
+[^60]: m5:3 Le service divin en Islam est entièrement une adoration et des louanges. Il est erroné de dire que les musulmans font leurs prières. Louanges, louanges et gloire sont ce qu'ils sont tenus d'offrir. La prière est volontaire et interdite, sauf sous une forme dûment autorisée comme une collecte.
 
-[^62]: m7:1 Coran ii. 58.
+[^61]: m7:1 Coran ii. 58.
 
-[^63]: m7:2 Coran ii. 114.
+[^62]: m7:2 Coran ii. 114.
 
-[^64]: m10:1 Le mot « sūfī », utilisé dans l'original, est probablement le grec σοφόι mais il est expliqué comme signifiant littéralement : « vêtu de laine », de « sūf », laine. Métaphoriquement, dans l'usage courant, il signifie : « un homme pieux ».
+[^63]: m10:1 Le mot « sūfī », utilisé dans l'original, est probablement le grec σοφόι mais il est expliqué comme signifiant littéralement : « vêtu de laine », de « sūf », laine. Métaphoriquement, dans l'usage courant, il signifie : « un homme pieux ».
 
-[^65]: m11:1 Il s'agit du saint Sheykh Shemsu-'d-Dīn, de Tebrīz, qui fut un ami de l'auteur pendant de nombreuses années, visitant Qonya à intervalles réguliers, où il fut mis à mort (en 1262 après J.-C. ?). Voir les « Anecdotes », chap. iv. ; en particulier le n° 17.
+[^64]: m11:1 Il s'agit du saint Sheykh Shemsu-'d-Dīn, de Tebrīz, qui fut un ami de l'auteur pendant de nombreuses années, visitant Qonya à intervalles réguliers, où il fut mis à mort (en 1262 après J.-C. ?). Voir les « Anecdotes », chap. iv. ; en particulier le n° 17.
 
-[^66]: m13:1 On croyait généralement autrefois que les pierres précieuses et les métaux poussaient et mûrissaient dans leurs mines.
+[^65]: m13:1 On croyait généralement autrefois que les pierres précieuses et les métaux poussaient et mûrissaient dans leurs mines.
 
-[^67]: m16:1 L'histoire se trouve dans le Coran xviii. 73. L'ange était déguisé en serviteur de Moïse. Le passage dit : « Et ils poursuivirent leur route jusqu'à ce qu'ils rencontrent un garçon ; et il le tua. »
+[^66]: m16:1 L'histoire se trouve dans le Coran xviii. 73. L'ange était déguisé en serviteur de Moïse. Le passage dit : « Et ils poursuivirent leur route jusqu'à ce qu'ils rencontrent un garçon ; et il le tua. »
 
-[^68]: m16:2 Chez les musulmans, c'est Ishmaël qui devait être sacrifié, et non Isaac. Le Coran xxxvii. 98-111, relate l'histoire, mais ne donne pas de nom au « garçon ». Les commentateurs le fournissent, par tradition.
+[^67]: m16:2 Chez les musulmans, c'est Ishmaël qui devait être sacrifié, et non Isaac. Le Coran xxxvii. 98-111, relate l'histoire, mais ne donne pas de nom au « garçon ». Les commentateurs le fournissent, par tradition.
 
-[^69]: m17:1 Suite de l’histoire du Coran XVIII. 70. Certains commentateurs font d’Élie le serviteur de Moïse à cette occasion. Il y a un récit dans un des essayistes du siècle dernier – le « Spectator », si je me souviens bien – qui raconte ces deux aventures et d’autres ; l’ange expliquant enfin à son compagnon les causes secrètes de toutes ses actions.
+[^68]: m17:1 Suite de l’histoire du Coran XVIII. 70. Certains commentateurs font d’Élie le serviteur de Moïse à cette occasion. Il y a un récit dans un des essayistes du siècle dernier – le « Spectator », si je me souviens bien – qui raconte ces deux aventures et d’autres ; l’ange expliquant enfin à son compagnon les causes secrètes de toutes ses actions.

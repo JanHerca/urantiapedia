@@ -156,4 +156,4 @@ Il fut enterré le 25, à l'endroit qu'il s'était fait indiquer, à côté de s
 
 ## Notes de bas de page
 
-[^34]: 126:1 Les Arméniens européanisés en ont fait _Zohrab_, leur propre nom de famille.
+[^33]: 126:1 Les Arméniens européanisés en ont fait _Zohrab_, leur propre nom de famille.

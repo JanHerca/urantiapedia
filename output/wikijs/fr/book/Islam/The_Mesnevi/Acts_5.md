@@ -110,6 +110,6 @@ Cheikh Ferīdūn est décédé le jour du Nouvel An, 657 H (28 décembre, 1258 a
 
 ## Notes de bas de page
 
-[^26]: 110:1 Saladin des écrits européens. Les mots signifient : _la pertinence de la religion_ (de l'Islam).
+[^25]: 110:1 Saladin des écrits européens. Les mots signifient : _la pertinence de la religion_ (de l'Islam).
 
-[^27]: 110:2 Le monde musulman ne connaît qu'un seul _Qaysar_ (César), l'empereur de Rome (ancienne ou nouvelle), titre qui est aujourd'hui porté par l'empereur d'Autriche.
+[^26]: 110:2 Le monde musulman ne connaît qu'un seul _Qaysar_ (César), l'empereur de Rome (ancienne ou nouvelle), titre qui est aujourd'hui porté par l'empereur d'Autriche.

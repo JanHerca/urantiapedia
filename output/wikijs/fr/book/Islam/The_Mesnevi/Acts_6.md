@@ -212,12 +212,12 @@ Ces sommes étaient toujours dépensées par Husām, comme il le jugeait bon, po
 
 ## Notes de bas de page
 
-[^28]: 113:1 Je n'ai rencontré aucune mention d'Akhī-Turk.
+[^27]: 113:1 Je n'ai rencontré aucune mention d'Akhī-Turk.
 
-[^29]: 113:2 _L'Ancien Honoré;_ par lequel Abū-Bekr est probablement visé; mais voir une note à la Préface du Mesnevī.
+[^28]: 113:2 _L'Ancien Honoré;_ par lequel Abū-Bekr est probablement visé; mais voir une note à la Préface du Mesnevī.
 
-[^30]: 113:3 Juneyd et Bāyezīd de Bestām étaient deux grands docteurs en mysticisme ; le dernier mourut en 234 ou 261 a.H. (848 ou 874 a.d.), et le premier en 297-8 a.h. (909-10 a.d.).
+[^29]: 113:3 Juneyd et Bāyezīd de Bestām étaient deux grands docteurs en mysticisme ; le dernier mourut en 234 ou 261 a.H. (848 ou 874 a.d.), et le premier en 297-8 a.h. (909-10 a.d.).
 
-[^31]: 117:1 Ce sont deux des quatre écoles orthodoxes de l'Islam, elles diffèrent sur certains détails. On estime qu'il y a soixante-douze sectes schismatiques ou hérétiques.
+[^30]: 117:1 Ce sont deux des quatre écoles orthodoxes de l'Islam, elles diffèrent sur certains détails. On estime qu'il y a soixante-douze sectes schismatiques ou hérétiques.
 
-[^32]: 120:1 Cette anecdote contredit directement l'idée stupide, si courante en Europe, selon laquelle, dans le système religieux de l'Islam, les femmes sont considérées comme n'ayant pas d'âme et n'ayant aucun espoir de paradis.
+[^31]: 120:1 Cette anecdote contredit directement l'idée stupide, si courante en Europe, selon laquelle, dans le système religieux de l'Islam, les femmes sont considérées comme n'ayant pas d'âme et n'ayant aucun espoir de paradis.

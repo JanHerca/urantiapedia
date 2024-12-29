@@ -100,6 +100,6 @@ Il déclare qu'il n'est pas à blâmer pour avoir révélé les mystères qui lu
 
 [^616]: 195:1 K. sur _v_. 501. Cf. _Kashf al-Maḥjúb_, trad., p. 214. Concernant les _Quṭb_ et les membres subordonnés de la hiérarchie Ṣúfí voir Blochet, _Études sur l'ésotérisme musulman_ dans le _Journal asiatique_, vol. 20 (1902), p. 49 suiv.; Haneberg, _Ali Abulhasan Schadeli_ dans _ZDMG_., vol. 7, p. 21 suiv.; Flügel, _Scha'rânî und sein Werk über die muhammadanische Glaubenslehre_, _ibid_. vol. 20, p. 37 suiv.
 
-[^617]: 195:2 Cf. pp. [87](2_Introduction#p87) et [103](2_3#p103) suiv.
+[^617]: 195:2 Cf. pp. [87](./2_Introduction#p87) et [103](./2_3#p103) suiv.
 
 [^618]: 195:3 574 versets sur un total de 761. Les versets suivants n'ont pas été traduits: 111-114, 117-119, 122-125, 141-143, 164-167, 175-193, 195-196, 265-276, 334-393, 503-505, 515-520, 549-574, 580-588, 602-613, 622-626, 632-636, 750-758.

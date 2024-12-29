@@ -1259,86 +1259,86 @@ Jette aux chiens le cadavre vil de la pompe terrestre.
 
 ## Notes de bas de page
 
-[^136]: m67:1 Kalīla et Dimna est la version arabe des fables de Pīlpāy.
+[^135]: m67:1 Kalīla et Dimna est la version arabe des fables de Pīlpāy.
 
-[^137]: m67:2 Ce proverbe est cité dans « _Proverbia Arabica_ » de Freytag, ii. p. 488, n. 278, comme réponse de Mahomet à un ennemi fait prisonnier deux fois.
+[^136]: m67:2 Ce proverbe est cité dans « _Proverbia Arabica_ » de Freytag, ii. p. 488, n. 278, comme réponse de Mahomet à un ennemi fait prisonnier deux fois.
 
-[^138]: m68:1 Équivalent à attacher un cheval, « Gardez votre poudre au sec. »
+[^137]: m68:1 Équivalent à attacher un cheval, « Gardez votre poudre au sec. »
 
-[^139]: m68:2 L'original dit : « _Celui qui gagne est l'ami de Dieu_.
+[^138]: m68:2 L'original dit : « _Celui qui gagne est l'ami de Dieu_.
 
-[^140]: m68:3 L'original dit : « _Fuit le serpent et rencontre un dragon_. »
+[^139]: m68:3 L'original dit : « _Fuit le serpent et rencontre un dragon_. »
 
-[^141]: m69:1 Les mots tels que donnés dans l'original, en arabe, ne sont pas dans le Coran.
+[^140]: m69:1 Les mots tels que donnés dans l'original, en arabe, ne sont pas dans le Coran.
 
-[^142]: m70:1 Un coq qui chante hors saison, dans la nuit.
+[^141]: m70:1 Un coq qui chante hors saison, dans la nuit.
 
-[^143]: m70:2 Coran xiv. 47.
+[^142]: m70:2 Coran xiv. 47.
 
-[^144]: m71:1 Azrā'īl, l'ange de la mort, qui prend les âmes des hommes.
+[^143]: m71:1 Azrā'īl, l'ange de la mort, qui prend les âmes des hommes.
 
-[^145]: m71:2 Salomon est mentionné dans le Coran xxi. 81 et xxxiv. 11 comme ayant possédé le pouvoir sur le vent.
+[^144]: m71:2 Salomon est mentionné dans le Coran xxi. 81 et xxxiv. 11 comme ayant possédé le pouvoir sur le vent.
 
-[^146]: m72:1 Dans le Coran iii. 47 et viii. 30, Dieu est qualifié de « _le meilleur des stratagèmes_ ».
+[^145]: m72:1 Dans le Coran iii. 47 et viii. 30, Dieu est qualifié de « _le meilleur des stratagèmes_ ».
 
-[^147]: m72:2 Je ne trouve pas ce proverbe dans les « _Proverbia_ » de Freytag.
+[^146]: m72:2 Je ne trouve pas ce proverbe dans les « _Proverbia_ » de Freytag.
 
-[^148]: m73:1 Coran ii. 15.
+[^147]: m73:1 Coran ii. 15.
 
-[^149]: m73:2 Voir Coran xlviii. 29 ; lix. 8 ; et lxxiii. 20.
+[^148]: m73:2 Voir Coran xlviii. 29 ; lix. 8 ; et lxxiii. 20.
 
-[^150]: m75:1 Le Coran ii. 29 en donne le récit. Comparez avec Gen. ii. 19.
+[^149]: m75:1 Le Coran ii. 29 en donne le récit. Comparez avec Gen. ii. 19.
 
-[^151]: m75:2 ; Satan était-il ce vieil ermite ? Sa tentation réussie fut la muselière. L’original dit « veau », là où j’ai dit « bébé » ; c’est-à-dire Adam, lorsqu’il fut créé. Instruit par Dieu, il nomma toutes choses, ce que les anges étaient incapables de faire, et furent donc réduits au silence.
+[^150]: m75:2 ; Satan était-il ce vieil ermite ? Sa tentation réussie fut la muselière. L’original dit « veau », là où j’ai dit « bébé » ; c’est-à-dire Adam, lorsqu’il fut créé. Instruit par Dieu, il nomma toutes choses, ce que les anges étaient incapables de faire, et furent donc réduits au silence.
 
-[^152]: m75:3 L'histoire du chien des Dormeurs est racontée dans le Coran xviii. 27-21.
+[^151]: m75:3 L'histoire du chien des Dormeurs est racontée dans le Coran xviii. 27-21.
 
-[^153]: m76:1 Le nom persan du lièvre est « oreille d’âne » ; d’où le jeu de mots.
+[^152]: m76:1 Le nom persan du lièvre est « oreille d’âne » ; d’où le jeu de mots.
 
-[^154]: m79:1 La «tablette cachée» des décrets de Dieu; mentionnée dans le Coran lxxxv. 22.
+[^153]: m79:1 La «tablette cachée» des décrets de Dieu; mentionnée dans le Coran lxxxv. 22.
 
-[^155]: m79:2 Au « lotus extrême » dans le ciel le plus élevé, la nuit de l'ascension. Gabriel ne pouvait pas aller plus loin. Mahomet poursuivit sa route, vers la présence de Dieu.
+[^154]: m79:2 Au « lotus extrême » dans le ciel le plus élevé, la nuit de l'ascension. Gabriel ne pouvait pas aller plus loin. Mahomet poursuivit sa route, vers la présence de Dieu.
 
-[^156]: m79:3 Le mot qui signifie « contrainte » signifie également « réduction » au sens chirurgical, et « algèbre » au sens mathématique.
+[^155]: m79:3 Le mot qui signifie « contrainte » signifie également « réduction » au sens chirurgical, et « algèbre » au sens mathématique.
 
-[^157]: m79:4 « Burāq » est le nom du cheval angélique sur lequel Mahomet monta au ciel lors de son voyage nocturne. Ne se trouve pas dans le Coran.
+[^156]: m79:4 « Burāq » est le nom du cheval angélique sur lequel Mahomet monta au ciel lors de son voyage nocturne. Ne se trouve pas dans le Coran.
 
-[^158]: m80:1 « La lune se fendit » en deux comme signe de l’approche proche du jour du jugement. Coran liv. 1.
+[^157]: m80:1 « La lune se fendit » en deux comme signe de l’approche proche du jour du jugement. Coran liv. 1.
 
-[^159]: m82:1 Le nom de Mahomet est inscrit sur la plupart des pièces de monnaie musulmanes.
+[^158]: m82:1 Le nom de Mahomet est inscrit sur la plupart des pièces de monnaie musulmanes.
 
-[^160]: m82:2 Mahomet est considéré comme le complément de tous les prophètes.
+[^159]: m82:2 Mahomet est considéré comme le complément de tous les prophètes.
 
-[^161]: m84:1 Coran ii. 151.
+[^160]: m84:1 Coran ii. 151.
 
-[^162]: m84:2 Pas dans « _Proverbia_ » de Freytag.
+[^161]: m84:2 Pas dans « _Proverbia_ » de Freytag.
 
-[^163]: m85:1 Voir note dans la Préface de l'Auteur, et Chapitre vi. dans les Anecdotes.
+[^162]: m85:1 Voir note dans la Préface de l'Auteur, et Chapitre vi. dans les Anecdotes.
 
-[^164]: m87:1 Les commentateurs du Coran xxi. 69, mentionnent le moucheron de Nimrod.
+[^163]: m87:1 Les commentateurs du Coran xxi. 69, mentionnent le moucheron de Nimrod.
 
-[^165]: m87:2 Coran xxviii. 5, mentionne Haman avec Pharaon.
+[^164]: m87:2 Coran xxviii. 5, mentionne Haman avec Pharaon.
 
-[^166]: m87:3 On dit qu'il crut Satan plutôt qu'Abraham.
+[^165]: m87:3 On dit qu'il crut Satan plutôt qu'Abraham.
 
-[^167]: m88:1 Le traducteur s’est aventuré à inventer les expressions « _synglottisme_ », « _synglottiste_ » et « _syncardisme_ » comme exemples d’une classe entière utilisée en persan.
+[^166]: m88:1 Le traducteur s’est aventuré à inventer les expressions « _synglottisme_ », « _synglottiste_ » et « _syncardisme_ » comme exemples d’une classe entière utilisée en persan.
 
-[^168]: m90:1 Titre désignant Adam, qui a nommé toutes choses.
+[^167]: m90:1 Titre désignant Adam, qui a nommé toutes choses.
 
-[^169]: m91:1 Coran ii. 29.
+[^168]: m91:1 Coran ii. 29.
 
-[^170]: m91:2 Omar.
+[^169]: m91:2 Omar.
 
-[^171]: m91:3 Une clause très douteuse ; elle peut être rendue ainsi : « _Tu es avec moi_. »
+[^170]: m91:3 Une clause très douteuse ; elle peut être rendue ainsi : « _Tu es avec moi_. »
 
-[^172]: m91:4 Adam, dans la plupart des langues, en est venu à signifier _homme_.
+[^171]: m91:4 Adam, dans la plupart des langues, en est venu à signifier _homme_.
 
-[^173]: m92:1 Le Coran ii. 33, mentionne simplement une « plante caulescente » ; « blé » est l’une des nombreuses gloses des commentateurs, comme notre « pomme ».
+[^172]: m92:1 Le Coran ii. 33, mentionne simplement une « plante caulescente » ; « blé » est l’une des nombreuses gloses des commentateurs, comme notre « pomme ».
 
-[^174]: m92:2 Le Coran vii. 22, fait confesser à Adam son péché avec contrition, avec Ève, méritant ainsi le pardon éventuel de Dieu.
+[^173]: m92:2 Le Coran vii. 22, fait confesser à Adam son péché avec contrition, avec Ève, méritant ainsi le pardon éventuel de Dieu.
 
-[^175]: m96:1 Coran cx. 1.
+[^174]: m96:1 Coran cx. 1.
 
-[^176]: m98:1 Évidemment le nom d'un rival.
+[^175]: m98:1 Évidemment le nom d'un rival.
 
-[^177]: m99:1 Ce sont des spiritualistes saints, de vrais et pieux derviches.
+[^176]: m99:1 Ce sont des spiritualistes saints, de vrais et pieux derviches.

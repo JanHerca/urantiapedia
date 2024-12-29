@@ -126,4 +126,4 @@ Peu après sa naissance, ou alors qu'il n'avait que quelques mois, l'émir 'Āri
 
 ## Notes de bas de page
 
-[^33]: 122:1 La Beauté de la Vérité et de la Religion (de l'Islām).
+[^32]: 122:1 La Beauté de la Vérité et de la Religion (de l'Islām).

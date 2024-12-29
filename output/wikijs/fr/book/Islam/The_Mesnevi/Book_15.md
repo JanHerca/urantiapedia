@@ -36,8 +36,6 @@ dateCreated: 2024-11-16T19:16:5Z
 
 ## XV.
 
-![L'inspiration de Zeyd.](img/m25400.jpg)
-
 Le Prophète demanda un matin à Zeyd, d'un ton tendre,[^375]
 « Comment es-tu, cher disciple, fidèle jusqu'à l'os ? »
 « Je suis pieux, un croyant », répondit Zeyd ; et il
@@ -591,66 +589,66 @@ Tu as dépensé tes affaires pour ton cher cousin,
 
 ## Notes de bas de page
 
-[^376]: m254:1 Zeyd, fils de Hāritha et père d'Usāma, l'affranchi et fils adoptif de Mahomet, l'un de ses disciples les plus dévoués.
+[^375]: m254:1 Zeyd, fils de Hāritha et père d'Usāma, l'affranchi et fils adoptif de Mahomet, l'un de ses disciples les plus dévoués.
 
-[^377]: m254:2 Pour les huit paradis, voir Conte xiv. dist. 74, p. [253](/fr/book/Islam/The_Mesnevi/Book_14#p253).
+[^376]: m254:2 Pour les huit paradis, voir Conte xiv. dist. 74, p. [253](/fr/book/Islam/The_Mesnevi/Book_14#p253).
 
-[^378]: m254:3 Les sept enfers sont: 1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa'īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. Tous ces noms pour l'enfer apparaissent dans le Coran.
+[^377]: m254:3 Les sept enfers sont: 1. Jahannam; 2. Latzā; 3. Hutama; 4. Sa'īr; 5. Jahīm; 6. Hāwiya; 7. Saqar. Tous ces noms pour l'enfer apparaissent dans le Coran.
 
-[^379]: m255:1 C'est bien là la prédestination, mais nos « vases de colère » ne reviennent-ils pas à peu près au même, du moins dans certaines opinions ?
+[^378]: m255:1 C'est bien là la prédestination, mais nos « vases de colère » ne reviennent-ils pas à peu près au même, du moins dans certaines opinions ?
 
-[^380]: m256:1 Coran iii. 102.
+[^379]: m256:1 Coran iii. 102.
 
-[^381]: m256:2 « Turc et hindou » est synonyme de « _blond et brun_ ».
+[^380]: m256:2 « Turc et hindou » est synonyme de « _blond et brun_ ».
 
-[^382]: m256:3 « Ceux de la main gauche », Coran lix. 8; xc. 18.
+[^381]: m256:3 « Ceux de la main gauche », Coran lix. 8; xc. 18.
 
-[^383]: m256:4 « Les sept fosses de l'enfer » sont nommées respectivement : Jahannam, Latzā, Hutama, Sa'īr, Jahīm, Hāwiya et Saqar, comme mentionné ci-dessus, p. [254](#pm254), note [^377].
+[^382]: m256:4 « Les sept fosses de l'enfer » sont nommées respectivement : Jahannam, Latzā, Hutama, Sa'īr, Jahīm, Hāwiya et Saqar, comme mentionné ci-dessus, p. [254](#pm254), note [^377].
 
-[^384]: m256:5 « Al-Kawthar », Coran cviii. 1, est expliqué de diverses manières, mais signifie probablement : _la grande multitude_, scil., _de l’humanité ;_ et non pas « une fontaine ».
+[^383]: m256:5 « Al-Kawthar », Coran cviii. 1, est expliqué de diverses manières, mais signifie probablement : _la grande multitude_, scil., _de l’humanité ;_ et non pas « une fontaine ».
 
-[^385]: m257:1 Coran ii. 24.
+[^384]: m257:1 Coran ii. 24.
 
-[^386]: m257:2 Coran ii. 231; et, indirectement, dans de nombreux textes.
+[^385]: m257:2 Coran ii. 231; et, indirectement, dans de nombreux textes.
 
-[^387]: m258:1 Coran XVI. 4; xl. 23.
+[^386]: m258:1 Coran XVI. 4; xl. 23.
 
-[^388]: m258:2 Coran lxxvi. 17, 18.
+[^387]: m258:2 Coran lxxvi. 17, 18.
 
-[^389]: m258:3 Michael est mentionné dans le Coran ii. 92; Gabriel y est également mentionné, et dans deux autres endroits; mais aucun autre ange n'est nommément cité.
+[^388]: m258:3 Michael est mentionné dans le Coran ii. 92; Gabriel y est également mentionné, et dans deux autres endroits; mais aucun autre ange n'est nommément cité.
 
-[^390]: m259:1 Salomon fut dépouillé de son sceau par un génie, et temporairement privé de son royaume.
+[^389]: m259:1 Salomon fut dépouillé de son sceau par un génie, et temporairement privé de son royaume.
 
-[^391]: m259:2 Coran xxxi. 12. _Lokman_, l’orthographe communément reçue, est doublement erronée ; la première voyelle du nom est _u_, l’italien _u_, le français _ou_, le _oo_ de nos mots p. 260 _pied_, _bon_, _bois_ ;_ et non de _coot_, _moot_, _root_. Notre _q_ est, historiquement, le seul véritable représentant de la lettre phénicienne qui a donné naissance également à l'hébreu ק, à l'ancien grec Q, au latin Q et à l'arabe ق comme on peut le voir en comparant les lettres du dernier élément de l'alphabet numérique arabe, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), avec l'hébreu _Koph_, _Resh_, _Schin_, _Tau ;_ avec le grec Q = 90, Ρ = 100, Σ = 200, Τ = 300 ; et avec le latin Q, R, S, T. La preuve est encore plus concluante en comparant, dans l'ordre, les alphabets entiers, quant aux positions, noms, formes, valeurs dans le son et valeurs numériques.
+[^390]: m259:2 Coran xxxi. 12. _Lokman_, l’orthographe communément reçue, est doublement erronée ; la première voyelle du nom est _u_, l’italien _u_, le français _ou_, le _oo_ de nos mots p. 260 _pied_, _bon_, _bois_ ;_ et non de _coot_, _moot_, _root_. Notre _q_ est, historiquement, le seul véritable représentant de la lettre phénicienne qui a donné naissance également à l'hébreu ק, à l'ancien grec Q, au latin Q et à l'arabe ق comme on peut le voir en comparant les lettres du dernier élément de l'alphabet numérique arabe, ![](/image/book/Islam/The_Mesnevi/m25901.jpg), avec l'hébreu _Koph_, _Resh_, _Schin_, _Tau ;_ avec le grec Q = 90, Ρ = 100, Σ = 200, Τ = 300 ; et avec le latin Q, R, S, T. La preuve est encore plus concluante en comparant, dans l'ordre, les alphabets entiers, quant aux positions, noms, formes, valeurs dans le son et valeurs numériques.
 
-[^392]: m262:1 Salomon, privé de son royaume, devint pêcheur.
+[^391]: m262:1 Salomon, privé de son royaume, devint pêcheur.
 
-[^393]: m263 : 1 Coran ii. 2. Notre : « _Credo, quia impossible_. »
+[^392]: m263 : 1 Coran ii. 2. Notre : « _Credo, quia impossible_. »
 
-[^394]: m263:2 Coran lxvii. 3.
+[^393]: m263:2 Coran lxvii. 3.
 
-[^395]: m263:3 On rapporte que Mahomet aurait dit : « Le prince d'un peuple est son serviteur. » Ceci peut être comparé à Matthieu xi, 26 et 27.
+[^394]: m263:3 On rapporte que Mahomet aurait dit : « Le prince d'un peuple est son serviteur. » Ceci peut être comparé à Matthieu xi, 26 et 27.
 
-[^396]: m264:1 Coran iii. 16.
+[^395]: m264:1 Coran iii. 16.
 
-[^397]: m264:2 Coran ii. 256.
+[^396]: m264:2 Coran ii. 256.
 
-[^398]: m264:3 Coran xxxv. 4.
+[^397]: m264:3 Coran xxxv. 4.
 
-[^399]: m265:1 Coran xxi. 108.
+[^398]: m265:1 Coran xxi. 108.
 
-[^400]: m265:2 Coran xx. 4.
+[^399]: m265:2 Coran xx. 4.
 
-[^401]: m266:1 Coran xxxvi. 53.
+[^400]: m266:1 Coran xxxvi. 53.
 
-[^402]: m266:2 Coran xi. 59.
+[^401]: m266:2 Coran xi. 59.
 
-[^403]: m266:3 Coran xxxiv. 12.
+[^402]: m266:3 Coran xxxiv. 12.
 
-[^404]: m267:1 Voir « Turkish Poetry » du traducteur (p. 32 ou 45), 1879 ; publié par Trübner & Co., Ludgate fill, Londres, etc.
+[^403]: m267:1 Voir « Turkish Poetry » du traducteur (p. 32 ou 45), 1879 ; publié par Trübner & Co., Ludgate fill, Londres, etc.
 
-[^405]: m268:1 Coran ix. 32; lxi. 8. L'expression « polythéiste », généralement utilisée par les traducteurs pour rendre le sens de l'arabe « _mushrik_ », n'est pas correcte ; attribuer un « partenaire » à Dieu est autant « _shirk_ » que d'en attribuer plusieurs. Voir note dans [p. 36](/fr/book/Islam/The_Mesnevi/Acts_3#p36), Conte iii.
+[^404]: m268:1 Coran ix. 32; lxi. 8. L'expression « polythéiste », généralement utilisée par les traducteurs pour rendre le sens de l'arabe « _mushrik_ », n'est pas correcte ; attribuer un « partenaire » à Dieu est autant « _shirk_ » que d'en attribuer plusieurs. Voir note dans [p. 36](/fr/book/Islam/The_Mesnevi/Acts_3#p36), Conte iii.
 
-[^406]: m268:2 Le Coran xxi. 68, 69, fait allusion à cela.
+[^405]: m268:2 Le Coran xxi. 68, 69, fait allusion à cela.
 
-[^407]: m268:3 Coran ii. 22 ; lxvi. 6.
+[^406]: m268:3 Coran ii. 22 ; lxvi. 6.

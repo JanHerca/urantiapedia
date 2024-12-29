@@ -470,32 +470,32 @@ L'illusion te fera plonger tête baissée dans les profondeurs de l'enfer.
 
 ## Notes de bas de page
 
-[^121]: m55:1 Coran, chap. lxxxv., dont le nom signifie littéralement « les Tours », mais s'applique aussi aux signes du zodiaque. Ces chrétiens étaient les habitants de Nejrān, dans le sud-ouest de l'Arabie, leur persécuteur étant Dhū-Nuwās, un Juif, roi du Yémen, quelque temps avant Mahomet.
+[^120]: m55:1 Coran, chap. lxxxv., dont le nom signifie littéralement « les Tours », mais s'applique aussi aux signes du zodiaque. Ces chrétiens étaient les habitants de Nejrān, dans le sud-ouest de l'Arabie, leur persécuteur étant Dhū-Nuwās, un Juif, roi du Yémen, quelque temps avant Mahomet.
 
-[^122]: m55:2 « Jardins sous lesquels coulent les rivières » est une expression qui revient fréquemment dans le Coran. Certains ont des noms particuliers.
+[^121]: m55:2 « Jardins sous lesquels coulent les rivières » est une expression qui revient fréquemment dans le Coran. Certains ont des noms particuliers.
 
-[^123]: m55:3 Voir Coran xxxv. 29: « Alors nous t’avons fait hériter du Livre. »
+[^122]: m55:3 Voir Coran xxxv. 29: « Alors nous t’avons fait hériter du Livre. »
 
-[^124]: m57:1 Dans le Coran ii. 132, l'Islam est appelé « _baptême de Dieu_ ». Dans ii. 156, et encore dans vii. 42, et xi. 21, « la malédiction de Dieu » est invoquée sur les pécheurs.
+[^123]: m57:1 Dans le Coran ii. 132, l'Islam est appelé « _baptême de Dieu_ ». Dans ii. 156, et encore dans vii. 42, et xi. 21, « la malédiction de Dieu » est invoquée sur les pécheurs.
 
-[^125]: m57:2 C'est l'histoire à laquelle fait allusion le Coran lxxxv., cité ci-dessus. Dans les traditions, Dhū-Nuwās était le nom du roi juif du Yémen, qui brûla les chrétiens de Nejrān dans un fossé enflammé parce qu'ils refusaient d'abandonner leur foi. L'idole est imaginaire; de Nebucadnetsar.
+[^124]: m57:2 C'est l'histoire à laquelle fait allusion le Coran lxxxv., cité ci-dessus. Dans les traditions, Dhū-Nuwās était le nom du roi juif du Yémen, qui brûla les chrétiens de Nejrān dans un fossé enflammé parce qu'ils refusaient d'abandonner leur foi. L'idole est imaginaire; de Nebucadnetsar.
 
-[^126]: m58:1 Le Coran XVI. 45; XXXVII. 72; XL. 76; parle des « Portes de l’Enfer »; et un commentaire à ce dernier dit qu’elles sont considérées comme sept.
+[^125]: m58:1 Le Coran XVI. 45; XXXVII. 72; XL. 76; parle des « Portes de l’Enfer »; et un commentaire à ce dernier dit qu’elles sont considérées comme sept.
 
-[^127]: m58:2 Abū-Jahl était un surnom donné par Mahomet à l'un de ses ennemis les plus acharnés des Qurayshites, tué à Badr. Le mot signifie : « Père de l'ignorance », et indique ici l'orgueil charnel. Il avait autrefois porté le surnom d'Abū-'l-Hakem, qui signifie : « Père de l'Arbitre ».
+[^126]: m58:2 Abū-Jahl était un surnom donné par Mahomet à l'un de ses ennemis les plus acharnés des Qurayshites, tué à Badr. Le mot signifie : « Père de l'ignorance », et indique ici l'orgueil charnel. Il avait autrefois porté le surnom d'Abū-'l-Hakem, qui signifie : « Père de l'Arbitre ».
 
-[^128]: m59:1 Dans le Coran xxi. 69, est relaté le miracle par lequel Abraham fut sauvé du feu dans lequel il avait été jeté par Nimrod pour son refus d’adorer une image.
+[^127]: m59:1 Dans le Coran xxi. 69, est relaté le miracle par lequel Abraham fut sauvé du feu dans lequel il avait été jeté par Nimrod pour son refus d’adorer une image.
 
-[^129]: m60:1 Le mot « musulman », d'où vient la corruption « musulman », signifie, en arabe, « celui qui acquiesce à la vérité et à la volonté de Dieu ». En tant que tels, les musulmans ont existé sous toutes les dispensations.
+[^128]: m60:1 Le mot « musulman », d'où vient la corruption « musulman », signifie, en arabe, « celui qui acquiesce à la vérité et à la volonté de Dieu ». En tant que tels, les musulmans ont existé sous toutes les dispensations.
 
-[^130]: m61:1 La roue à eau grinçante et percée, la roue persane, est bien connue en Orient.
+[^129]: m61:1 La roue à eau grinçante et percée, la roue persane, est bien connue en Orient.
 
-[^131]: m61:2 « Bander les yeux » est un nom pour la sorcellerie. Le spectateur est censé avoir la vue bandée, pour ne pas voir ce qui se passe réellement.
+[^130]: m61:2 « Bander les yeux » est un nom pour la sorcellerie. Le spectateur est censé avoir la vue bandée, pour ne pas voir ce qui se passe réellement.
 
-[^132]: m63:1 ‘Ad, peuple présémitique, peut-être touranien, du sud-est de l’Arabie, souvent mentionné dans le Coran. Ils refusèrent de croire au prophète Hūd (supposé être _Heber_), et furent détruits, lxix. 6-7, par une tempête de huit jours.
+[^131]: m63:1 ‘Ad, peuple présémitique, peut-être touranien, du sud-est de l’Arabie, souvent mentionné dans le Coran. Ils refusèrent de croire au prophète Hūd (supposé être _Heber_), et furent détruits, lxix. 6-7, par une tempête de huit jours.
 
-[^133]: m64:1 Coran xxiii. 76, etc.
+[^132]: m64:1 Coran xxiii. 76, etc.
 
-[^134]: m64:2 Coran iii. 43.
+[^133]: m64:2 Coran iii. 43.
 
-[^135]: m64:3 Coran vii. 139.
+[^134]: m64:3 Coran vii. 139.

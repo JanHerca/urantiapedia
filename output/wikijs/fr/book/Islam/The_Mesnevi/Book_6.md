@@ -492,52 +492,52 @@ Cela t'apprendra de nombreuses leçons et pourra améliorer ta moralité.
 
 ## Notes de bas de page
 
-[^178]: m101:1 Le Coran ii. 22 et lxvi. 6 disent « l’humanité et les rochers ».
+[^177]: m101:1 Le Coran ii. 22 et lxvi. 6 disent « l’humanité et les rochers ».
 
-[^179]: m101:2 Un autre mot inventé pour répondre aux exigences de l'original. « _Ubiquité_ » est l'inverse de « _nubiquité_ ». _Nulliquité_ pourrait être utilisé.
+[^178]: m101:2 Un autre mot inventé pour répondre aux exigences de l'original. « _Ubiquité_ » est l'inverse de « _nubiquité_ ». _Nulliquité_ pourrait être utilisé.
 
-[^180]: m101:3 Coran ii. 111, et sept autres endroits.
+[^179]: m101:3 Coran ii. 111, et sept autres endroits.
 
-[^181]: m102:1 “_César_” est le Rory, l’Empereur, le Qaysari-Rūm. Il n’y a pas d’autre Qaysar.
+[^180]: m102:1 “_César_” est le Rory, l’Empereur, le Qaysari-Rūm. Il n’y a pas d’autre Qaysar.
 
-[^182]: m102:2 Écrire ce nom Omar est incorrect.
+[^181]: m102:2 Écrire ce nom Omar est incorrect.
 
-[^183]: m102:3 Medina est l'orthographe incorrecte habituelle de ce nom.
+[^182]: m102:3 Medina est l'orthographe incorrecte habituelle de ce nom.
 
-[^184]: m102:4 Le titre arabe est Khalīfa; dont Calife est une corruption.
+[^183]: m102:4 Le titre arabe est Khalīfa; dont Calife est une corruption.
 
-[^185]: m102:5 « _Commandeur des croyants_ » est son titre habituel. « Rome » est le Bas-Empire.
+[^184]: m102:5 « _Commandeur des croyants_ » est son titre habituel. « Rome » est le Bas-Empire.
 
-[^186]: m103:1 On croit que le cœur de Mahomet a été purifié par un ange.
+[^185]: m103:1 On croit que le cœur de Mahomet a été purifié par un ange.
 
-[^187]: m103:2 « La face de Dieu » signifie également, en arabe, _la cause de Dieu_.
+[^186]: m103:2 « La face de Dieu » signifie également, en arabe, _la cause de Dieu_.
 
-[^188]: m103:3 Dieu est ce « soleil » ; les « grains » sont tous des objets créés.
+[^187]: m103:3 Dieu est ce « soleil » ; les « grains » sont tous des objets créés.
 
-[^189]: m103:4 L'« Ami » est Dieu, le « chéri » du gnostique.
+[^188]: m103:4 L'« Ami » est Dieu, le « chéri » du gnostique.
 
-[^190]: m103:5 « Rome » en Asie désigne le Bas-Empire et l’Asie Mineure ; ou, depuis quelques siècles, l’Empire ottoman.
+[^189]: m103:5 « Rome » en Asie désigne le Bas-Empire et l’Asie Mineure ; ou, depuis quelques siècles, l’Empire ottoman.
 
-[^191]: m104:1 « Ombre de Dieu sur terre » est un titre de royauté oriental.
+[^190]: m104:1 « Ombre de Dieu sur terre » est un titre de royauté oriental.
 
-[^192]: m105:1 Ces deux propositions donnent l’essentiel de la doctrine soutenue et inculquée par les mystiques et les spiritualistes de l’Islam : « _Il est l’époux ; Dieu est l’épouse_. »
+[^191]: m105:1 Ces deux propositions donnent l’essentiel de la doctrine soutenue et inculquée par les mystiques et les spiritualistes de l’Islam : « _Il est l’époux ; Dieu est l’épouse_. »
 
-[^193]: m107:1 Ce premier livre de la Mesnevī a été écrit avant le Būstān de Sa'dī. Le mythe de la goutte de rosée et de la perle est beaucoup plus ancien.
+[^192]: m107:1 Ce premier livre de la Mesnevī a été écrit avant le Būstān de Sa'dī. Le mythe de la goutte de rosée et de la perle est beaucoup plus ancien.
 
-[^194]: m108:1 La date du poème sera rappelée ; qui n'a pas cru à l'alchimie alors ?
+[^193]: m108:1 La date du poème sera rappelée ; qui n'a pas cru à l'alchimie alors ?
 
-[^195]: m108:2 Voici une belle et vraie application de l’idée de « _transsubstantiation_ ».
+[^194]: m108:2 Voici une belle et vraie application de l’idée de « _transsubstantiation_ ».
 
-[^196]: m108:3 L'original mentionne Ferhād, une sorte de Dédale persan, sous son titre de « _Excavateur de montagnes_ ». (Voir Conte vii. dist. 365.)
+[^195]: m108:3 L'original mentionne Ferhād, une sorte de Dédale persan, sous son titre de « _Excavateur de montagnes_ ». (Voir Conte vii. dist. 365.)
 
-[^197]: m108:4 Coran liv. 1.
+[^196]: m108:4 Coran liv. 1.
 
-[^198]: m109:1 Coran vii. 15, et xv. 39. À la chute, Satan a accusé Dieu de l'avoir tenté ; alors qu'Adam a confessé son péché et n'a pas accusé Satan.
+[^197]: m109:1 Coran vii. 15, et xv. 39. À la chute, Satan a accusé Dieu de l'avoir tenté ; alors qu'Adam a confessé son péché et n'a pas accusé Satan.
 
-[^199]: m109:2 Coran vii. 22.
+[^198]: m109:2 Coran vii. 22.
 
-[^200]: m109:3 Coran xxiv. 26.
+[^199]: m109:3 Coran xxiv. 26.
 
-[^201]: m110:1 'Bū est souvent utilisé comme contraction pour Abū. Abū-Jahl (_Père de l'Ignorance_) était un surnom (voir Tale iv. dist. 48, note) donné par Mahomet à 'Amr, fils de Hishām, un chef des Quraysh, son ennemi juré, autrefois intitulé Abū-'l-Hakem (_Père de l'Arbitre_). Il fut tué, païen, à la bataille de Bedr, dans la deuxième année de l'Hégire, en 624 apr. J.-C.
+[^200]: m110:1 'Bū est souvent utilisé comme contraction pour Abū. Abū-Jahl (_Père de l'Ignorance_) était un surnom (voir Tale iv. dist. 48, note) donné par Mahomet à 'Amr, fils de Hishām, un chef des Quraysh, son ennemi juré, autrefois intitulé Abū-'l-Hakem (_Père de l'Arbitre_). Il fut tué, païen, à la bataille de Bedr, dans la deuxième année de l'Hégire, en 624 apr. J.-C.
 
-[^202]: m111:1 Le mot rendu ici par « explication » signifie également _information_, et _utilisation_, _avantage_, _profit_, _bénéfice_, etc.
+[^201]: m111:1 Le mot rendu ici par « explication » signifie également _information_, et _utilisation_, _avantage_, _profit_, _bénéfice_, etc.

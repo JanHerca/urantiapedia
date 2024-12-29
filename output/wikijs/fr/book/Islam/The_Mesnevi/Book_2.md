@@ -260,22 +260,22 @@ Le vin de l'amour de Dieu était la nourriture de son âme.
 
 ## Notes de bas de page
 
-[^70]: m21:1 Dans son vrai sens, le mot « mécréant » signifie _celui qui a une croyance erronée_. Nous disons maintenant de manière corrompue : _un infidèle_.
+[^69]: m21:1 Dans son vrai sens, le mot « mécréant » signifie _celui qui a une croyance erronée_. Nous disons maintenant de manière corrompue : _un infidèle_.
 
-[^71]: m21:2 « Les hypocrites », dans l'Islam, forment une faction. Ils professent ouvertement la foi, mais intérieurement ils la haïssent ou la méprisent.
+[^70]: m21:2 « Les hypocrites », dans l'Islam, forment une faction. Ils professent ouvertement la foi, mais intérieurement ils la haïssent ou la méprisent.
 
-[^72]: m21:3 Les musulmans « adorent » Dieu dans leurs dévotions prescrites. S'ils « prient » aussi, par la suite, c'est un acte volontaire.
+[^71]: m21:3 Les musulmans « adorent » Dieu dans leurs dévotions prescrites. S'ils « prient » aussi, par la suite, c'est un acte volontaire.
 
-[^73]: m22:1 « adoration, jeûne, aumône et pèlerinage » sont les quatre actes par lesquels un musulman atteste extérieurement sa foi. « 'Adoration », cinq fois par jour ; « jeûne », un mois par an ; « pèlerinage », à la Mecque, une fois, comme un devoir, dans une vie ; « aumône », chaque fois que l'on possède des biens d'un certain montant.
+[^72]: m22:1 « adoration, jeûne, aumône et pèlerinage » sont les quatre actes par lesquels un musulman atteste extérieurement sa foi. « 'Adoration », cinq fois par jour ; « jeûne », un mois par an ; « pèlerinage », à la Mecque, une fois, comme un devoir, dans une vie ; « aumône », chaque fois que l'on possède des biens d'un certain montant.
 
-[^74]: m22:2 « Mervites et Rāzites », citoyens de Merv et Rey (Rhages), deux grandes cités persanes autrefois, aujourd'hui en ruines. Merv est actuellement un campement turkmène, que la Russie envisage comme étape sur la route de Herāt et de l'Inde. Rey, les Rhages du livre de Tobit, non loin de Tihrān, l'actuelle capitale du Shah en Perse. Les deux partis étaient comme les orangistes et les rubaniers d'Irlande de notre temps.
+[^73]: m22:2 « Mervites et Rāzites », citoyens de Merv et Rey (Rhages), deux grandes cités persanes autrefois, aujourd'hui en ruines. Merv est actuellement un campement turkmène, que la Russie envisage comme étape sur la route de Herāt et de l'Inde. Rey, les Rhages du livre de Tobit, non loin de Tihrān, l'actuelle capitale du Shah en Perse. Les deux partis étaient comme les orangistes et les rubaniers d'Irlande de notre temps.
 
-[^75]: m22:3 Le Ciel et l'Enfer ; les « moutons » et les « chèvres ».
+[^74]: m22:3 Le Ciel et l'Enfer ; les « moutons » et les « chèvres ».
 
-[^76]: m23:1 L'original dit « le chéri » ; le titre le plus élevé donné à Mahomet par les musulmans est _le chéri de Dieu_ ; ce qui ne se trouve pas dans le Coran.
+[^75]: m23:1 L'original dit « le chéri » ; le titre le plus élevé donné à Mahomet par les musulmans est _le chéri de Dieu_ ; ce qui ne se trouve pas dans le Coran.
 
-[^77]: m23:2 L'original contient « son bien-aimé » ; Dieu est _le bien-aimé_ des mystiques.
+[^76]: m23:2 L'original contient « son bien-aimé » ; Dieu est _le bien-aimé_ des mystiques.
 
-[^78]: m24:1 Un _lion en laine_ est un jouet fabriqué et vendu ou exposé par les mendiants.
+[^77]: m24:1 Un _lion en laine_ est un jouet fabriqué et vendu ou exposé par les mendiants.
 
-[^79]: m24:2 Musaylama était un prince de Naja, qui se présenta comme prophète, et écrivit à Mahomet, proposant qu'ils se partagent l'Arabie. Son épître commençait ainsi : « Musaylama, l'apôtre de Dieu, à Mahomet, l'apôtre de Dieu. » La réponse de Mahomet commençait ainsi : « Mahomet, l'apôtre de Dieu, à Musaylama le menteur. » Il fut finalement vaincu et tué au combat, la onzième année de l'Hégire après le décès de Mahomet ; alors que toute l'Arabie se soumit à l'Islam. Il fut tué par Wahshi, l'esclave éthiopien qui, dans la bataille d'Uhud, avait autrefois lancé le même javelot dans le corps de Hamza, l'oncle de Mahomet. Wahshi vécut longtemps après ces événements, en Syrie. Il avait l'habitude de dire qu'en tant que païen, il avait tué l'un des meilleurs hommes, et, en tant que musulman, l'un des pires. Lorsque la Mecque fut prise, il fut proscrit, mais il s'en sortit sain et sauf. Peu de temps après, il se soumit et Mahomet lui pardonna, comme il le fit à d'autres dans des circonstances analogues.
+[^78]: m24:2 Musaylama était un prince de Naja, qui se présenta comme prophète, et écrivit à Mahomet, proposant qu'ils se partagent l'Arabie. Son épître commençait ainsi : « Musaylama, l'apôtre de Dieu, à Mahomet, l'apôtre de Dieu. » La réponse de Mahomet commençait ainsi : « Mahomet, l'apôtre de Dieu, à Musaylama le menteur. » Il fut finalement vaincu et tué au combat, la onzième année de l'Hégire après le décès de Mahomet ; alors que toute l'Arabie se soumit à l'Islam. Il fut tué par Wahshi, l'esclave éthiopien qui, dans la bataille d'Uhud, avait autrefois lancé le même javelot dans le corps de Hamza, l'oncle de Mahomet. Wahshi vécut longtemps après ces événements, en Syrie. Il avait l'habitude de dire qu'en tant que païen, il avait tué l'un des meilleurs hommes, et, en tant que musulman, l'un des pires. Lorsque la Mecque fut prise, il fut proscrit, mais il s'en sortit sain et sauf. Peu de temps après, il se soumit et Mahomet lui pardonna, comme il le fit à d'autres dans des circonstances analogues.

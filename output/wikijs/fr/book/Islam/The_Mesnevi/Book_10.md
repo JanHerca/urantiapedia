@@ -255,18 +255,18 @@ Abandonne le « je » et le « nous » qui exercent un contrôle sur ton cœur.
 
 ## Notes de bas de page
 
-[^324]: m213:1 Coran iii. 153.
+[^323]: m213:1 Coran iii. 153.
 
-[^325]: m214:1 Le titre de ‘Alī est « Le Lion victorieux de Dieu ».
+[^324]: m214:1 Le titre de ‘Alī est « Le Lion victorieux de Dieu ».
 
-[^326]: m214:2 Ce voyage est relaté dans le Coran xviii. 64-82.
+[^325]: m214:2 Ce voyage est relaté dans le Coran xviii. 64-82.
 
-[^327]: m214:3 Coran xviii. 69.
+[^326]: m214:3 Coran xviii. 69.
 
-[^328]: m214:4 Coran xviii. 70.
+[^327]: m214:4 Coran xviii. 70.
 
-[^329]: m214:5 Coran xviii. 73.
+[^328]: m214:5 Coran xviii. 73.
 
-[^330]: m215:1 Coran xlviii. 10.
+[^329]: m215:1 Coran xlviii. 10.
 
-[^331]: m217:1 Coran XVIII. 16.
+[^330]: m217:1 Coran XVIII. 16.

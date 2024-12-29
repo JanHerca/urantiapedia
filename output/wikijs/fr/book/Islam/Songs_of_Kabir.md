@@ -119,7 +119,7 @@ Kabir a essayé de trouver un terrain d'entente entre hindous et musulmans. La p
 - [LXIX](/fr/book/Islam/Songs_of_Kabir/61_70#lxix)
 - [LXX](/fr/book/Islam/Songs_of_Kabir/61_70#lxx)
 - [LXXI](/fr/book/Islam/Songs_of_Kabir/71_80)
-- [LXXII](/fr/book/Islam/Songs_of_Kabir/71_80lxxii)
+- [LXXII](/fr/book/Islam/Songs_of_Kabir/71_80#lxxii)
 - [LXXIII](/fr/book/Islam/Songs_of_Kabir/71_80#lxxiii)
 - [LXXIV](/fr/book/Islam/Songs_of_Kabir/71_80#lxxiv)
 - [LXXV](/fr/book/Islam/Songs_of_Kabir/71_80#lxxv)

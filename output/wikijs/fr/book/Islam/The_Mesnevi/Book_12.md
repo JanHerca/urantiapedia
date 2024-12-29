@@ -251,26 +251,26 @@ L'effet est celui de la ruse utilisée, qui consiste à jeter du baume.
 
 ## Notes de bas de page
 
-[^339]: m229:1 Dans la tradition sémitique et musulmane, la lune est « il », le soleil « elle ».
+[^338]: m229:1 Dans la tradition sémitique et musulmane, la lune est « il », le soleil « elle ».
 
-[^340]: m229:2 Coran xlviii. 29.
+[^339]: m229:2 Coran xlviii. 29.
 
-[^341]: m229:3 Coran vi. 94.
+[^340]: m229:3 Coran vi. 94.
 
-[^342]: m230:1 Coran li. 17.
+[^341]: m230:1 Coran li. 17.
 
-[^343]: m230:2 Coran li. 18.
+[^342]: m230:2 Coran li. 18.
 
-[^344]: m230:3 Coran iv. 99.
+[^343]: m230:3 Coran iv. 99.
 
-[^345]: m230:4 Coran XVIII. 8-21.
+[^344]: m230:4 Coran XVIII. 8-21.
 
-[^346]: m231:1 Coran lxix. 19.
+[^345]: m231:1 Coran lxix. 19.
 
-[^347]: m231:2 Coran lxix. 25.
+[^346]: m231:2 Coran lxix. 25.
 
-[^348]: m231:3 L'équivalent persan de notre « _porter des manteaux à Newcastle_ ».
+[^347]: m231:3 L'équivalent persan de notre « _porter des manteaux à Newcastle_ ».
 
-[^349]: m231:4 Un miroir métallique, autrefois très utilisé.
+[^348]: m231:4 Un miroir métallique, autrefois très utilisé.
 
-[^350]: m232:1 Coran vii. 11.
+[^349]: m232:1 Coran vii. 11.

@@ -196,7 +196,6 @@ Hafiz est plutôt le précurseur que le fondateur de cette école de poètes. Il
 [^13]: Sayyed Ahmed d'Ispahan.
 
 [^14]: Écoutez le conseil d'un chanteur afghan qui a écrit son _Ars Poetica_ dans les montagnes au sud de Peshawar vers le milieu du XVIIe siècle :
-
   « La flèche a besoin d'un archer, et la poésie d'un magicien.
   « Il doit toujours tenir dans la main de son esprit la balance du mètre, rejetant le vers qui est trop court et celui qui est trop long.
   « Sa maîtresse, la Vérité, montera son destrier noir, le voile de l'allégorie tiré sur son front.
@@ -204,7 +203,6 @@ Hafiz est plutôt le précurseur que le fondateur de cette école de poètes. Il
   « Que le poète place sur ses doigts les joyaux de l'art aux multiples nuances, l'orne du bois de santal et du safran de la métaphore ;
   « Les cloches de l'allitération comme des bracelets à ses pieds, et sur sa poitrine le collier d'un rythme mystérieux.
   Ajoutez à cela le sens caché, comme des yeux à moitié vus à travers leurs cils, que tout son corps peut être un mystère parfait. « _Traduction du Kilidi Afghani_, » par T. C. Plowden.
-
   Je crains que le résultat de ces instructions ne soit trop souvent « amphora coepit institui, currente rota cur urceus exit », et peut-être que le conseil d’Horace soit le meilleur des deux « denique sit quod vis, simplex dumtaxat et unum ».
 
 [^15]: _Cantique des Cantiques_.

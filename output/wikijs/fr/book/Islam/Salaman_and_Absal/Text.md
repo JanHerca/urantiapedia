@@ -1617,7 +1617,7 @@ Jusqu'à ce que tout son ancien secret soit élargi.
 Assez — Le résumé écrit Je termine,
 Et j'ai mis mon sceau :
 
-La vérité, Dieu seul la connaît.
+&nbsp;&nbsp;&nbsp;La vérité, Dieu seul la connaît.
 
 <figure class="table chapter-navigator">
   <table>
