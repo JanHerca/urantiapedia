@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2017 Georges Michelson-Dupont<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Superpoblación planetaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="pr-2">Décima Conferencia Internacional de la Asociación UAI — Amsterdam Países Bajos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Un poco de historia
@@ -69,3 +93,28 @@ lo que permite a cada uno examinar este proceso y sacar sus propias conclusiones
 
 _Georges Michelson-Dupont_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Superpoblación planetaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="pr-2">Décima Conferencia Internacional de la Asociación UAI — Amsterdam Países Bajos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

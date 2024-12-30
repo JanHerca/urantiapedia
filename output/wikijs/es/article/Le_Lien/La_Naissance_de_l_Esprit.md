@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Electrones-Neutrones-Protones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-83-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 83 — Septiembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">Noticias de Camerún</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cómo, en tus propias palabras, harías la analogía entre el nacimiento de un ser humano y el nacimiento de la religión en la mente del hombre y, en última instancia, el nacimiento del espíritu?
@@ -124,3 +148,28 @@ Más allá del nacimiento del espíritu y como resultado de esta actividad, a tr
 
 Es la creciente sensibilidad al Espíritu de Verdad del Hijo la que constituye entonces nuestra fuente diaria de inspiración.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Electrones-Neutrones-Protones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-83-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 83 — Septiembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">Noticias de Camerún</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

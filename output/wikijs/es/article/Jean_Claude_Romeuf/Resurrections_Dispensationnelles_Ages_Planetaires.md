@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la necesaria fertilización de nuestro pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean Claude Romeuf — 14 de julio de 2023
@@ -119,3 +140,25 @@ La migración de las razas de color fue posible cuando los continentes que conoc
 Hoy en día, las luchas tienen lugar entre naciones y grupos de naciones. Las guerras sólo podrán terminar cuando los pueblos de la tierra unan sus fuerzas en un solo gobierno mundial. Esto es lo que enseña el Libro de Urantia.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la necesaria fertilización de nuestro pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

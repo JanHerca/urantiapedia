@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia de la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 https://fr.wikipedia.org/wiki/Division_cellulaire
@@ -31,3 +55,28 @@ Las alteraciones en la división celular pueden provocar tumores y cánceres. La
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia de la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

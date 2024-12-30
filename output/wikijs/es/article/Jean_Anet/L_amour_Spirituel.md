@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Jean Anet<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evaluación y renuncia a la ABFU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="pr-2">Adiós Bernhard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los días 6, 7 y 8 de mayo tuvo lugar en la Bélgica francófona un nuevo curso llamado: 'Amor espiritual'.
@@ -62,3 +86,28 @@ Jean-Annet
 <figcaption>en recuadro: Isabelle - 21 de agosto de 2013 Grupo de estudio en casa de Jean Anet - en recuadro: Jean</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evaluación y renuncia a la ABFU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="pr-2">Adiós Bernhard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Dominique Ronfet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/056">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El vínculo uraniano – Número 56 – Otoño de 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="pr-2">Chicago, Paul y lo eterno femenino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Del 13 al 17 de julio se celebró en Chicago un encuentro internacional de dirigentes de asociaciones afiliadas a la UAI. Participan de la AFLLU: **Ivan Stol**, **Jean Duveau**, **Anne-Marie Ronfet** y yo, así como por la asociación belga nuestros amigos **Jean-Annet y su esposa Isabelle** como Director General y Tesorero.
@@ -39,3 +63,28 @@ Y si trabajamos para un futuro lejano en el que esta revelación encuentre una a
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/056">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El vínculo uraniano – Número 56 – Otoño de 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="pr-2">Chicago, Paul y lo eterno femenino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

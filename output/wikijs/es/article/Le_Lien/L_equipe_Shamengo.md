@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Mouvement_Colibris">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El movimiento del colibrí</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_20_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°19 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Shamengo** es una fantástica aventura colectiva en la que cada día participan nuevos talentos. Algunos han estado ahí desde el principio. Otros se unen a nosotros en misiones puntuales según sus deseos y nuestros medios. Todos tenemos en común el deseo de hacer crecer este trabajo significativo que va más allá de nosotros y del que estamos orgullosos. Esta apuesta de futuro fue iniciada por Catherine Berthillier, reportera principal de los principales informativos de la televisión francesa: _Envoyé Spécial (Francia 2) Des Racines et des Ailes (Francia 3) Zone Interdite (M6) Reportages (TF1) ) Arte Reportage ( Arte)..._ así como numerosos documentales para France 3 y France 5 en coproducción internacional.
@@ -28,3 +52,28 @@ Después de denunciar durante 15 años en sus investigaciones a quienes están d
 
 *** Comprométete con los demás ***. La segunda edición del evento Shamengo 2014 tuvo lugar el 19 de septiembre de 2014. Una victoria de la innovación verde y social que no olvidaremos pronto. ¡Innovaciones en abundancia, talleres de cocreación fructíferos, discursos evocadores que traen esperanza y un concierto de apoyo excepcional! .. El evento Shamengo 2014 es un poco de todo eso. Nada menos que 500 personas unidas en torno a una misma causa,... Los debates fueron animados y eficaces, ya que se encontraron numerosas soluciones para poner en práctica las innovaciones de nuestros pioneros en Francia y en todo el mundo... Nuevos de nuestros pioneros presentaron sus innovaciones, en compañía de sus patrocinadores. Otro gran partidario, **Nicolas Hulot**, que destacó el papel esencial de la comunidad Shamengo para mover el mundo... www.shamengo.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Mouvement_Colibris">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El movimiento del colibrí</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_20_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°19 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

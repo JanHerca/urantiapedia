@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Ivan Stol<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuenta de resultados AFLLU 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">África subsahariana, tierras fértiles para las enseñanzas del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Desenzano del Garda**
@@ -44,3 +68,28 @@ Y gracias a todos los que hicieron posible este evento. Ah, sí, el agua del lag
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuenta de resultados AFLLU 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">África subsahariana, tierras fértiles para las enseñanzas del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

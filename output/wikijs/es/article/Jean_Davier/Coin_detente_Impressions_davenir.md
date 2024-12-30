@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jean Davier<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Verite_et_mensonge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y mentiras o Hechos y falsedades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_ange">
+          <span class="pr-2">El angel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -112,3 +136,28 @@ En Tu camino, entre los fuegos de las estrellas, Hacia las perfecciones de Havon
 R. y J. Davier
 Grupo Aix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Verite_et_mensonge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y mentiras o Hechos y falsedades</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_ange">
+          <span class="pr-2">El angel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

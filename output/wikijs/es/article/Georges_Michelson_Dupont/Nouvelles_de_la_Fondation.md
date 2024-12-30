@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="pr-2">3er Congreso Europeo Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 10 DE AGOSTO DE 2022
@@ -109,3 +133,28 @@ Contacto: Joanne Strobel joanne@urantia.org — 1-773-525-3319 urantia.org
 
 **2.2. OBJETOS CONCORDANTES**: Los objetos concordantes para los cuales se crea la Fundación son la preservación perpetua e inviolable del texto de EL LIBRO DE URANTIA y la difusión de los principios, enseñanzas y doctrinas de EL LIBRO DE URANTIA.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="pr-2">3er Congreso Europeo Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

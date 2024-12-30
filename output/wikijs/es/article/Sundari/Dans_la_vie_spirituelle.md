@@ -1,5 +1,5 @@
 ---
-title: "en la vida espiritual"
+title: "En la vida espiritual"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Sundari<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otras ovejas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La mejor y más segura manera de avanzar en el camino espiritual es emprenderlo sin fanatismo, sin exaltación... No se debe emprender el camino espiritual con prisa, queriendo recorrer largas distancias en poco tiempo: Al correr así, nos quedamos sin aliento, pisoteamos el lugar y, muy a menudo, retrocedemos.
@@ -39,3 +60,25 @@ La mayor felicidad que deseo para todos mis hermanos es acceder a los caminos di
 
 Sundari
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otras ovejas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

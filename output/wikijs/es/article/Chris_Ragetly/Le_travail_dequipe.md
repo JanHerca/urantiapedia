@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Chris Ragetly<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Porteurs_de_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Portadores de vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Saisons">
+          <span class="pr-2">Estaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Libro de Urantia nos recomienda encarecidamente trabajar en equipo y nos advierte que en el futuro tendremos pocas oportunidades de trabajar solos. “Una de las lecciones más importantes que debes aprender durante tu carrera mortal es la del trabajo en equipo. Quienes han dominado este arte de trabajar con otros seres pueblan las esferas de la perfección. Hay pocas tareas en el universo para sirvientes aislados. Cuanto más alto asciendes, más aislado te vuelves cuando estás temporalmente privado de la compañía de tus compañeros. ([LU 28:5.14](/es/The_Urantia_Book/28#p5_14))
@@ -33,3 +57,28 @@ Así podremos dedicarnos a trabajar en grupo, en grupo de trabajo o de lectura, 
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Porteurs_de_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Portadores de vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Saisons">
+          <span class="pr-2">Estaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

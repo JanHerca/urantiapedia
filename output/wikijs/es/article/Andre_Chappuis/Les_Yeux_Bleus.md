@@ -1,5 +1,5 @@
 ---
-title: "ojos azules"
+title: "Ojos azules"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 André Chappuis<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Degoumois/Fais_toi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/A_vos_Calculettes">
+          <span class="pr-2">En tus calculadoras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **La aparición de ojos azules humanos en Urantia**
@@ -44,3 +68,28 @@ _Ver también:_ [enlace](http://www.linternaute.com/science/biologie/pourquoi/06
 
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Degoumois/Fais_toi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/A_vos_Calculettes">
+          <span class="pr-2">En tus calculadoras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

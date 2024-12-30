@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Claude Castel<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="pr-2">Algunos pensamientos y preguntas sobre mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Estudio del Libro de URANTIA \* por Claude Castel
@@ -129,3 +153,28 @@ En un planeta vecino, su gobierno ya ha tomado una serie de medidas que podrían
 
 &Copiar; 1955 Se funda URANTIA. &Copiar; 1994 para la edición francesa revisada y corregida. Reservados todos los derechos. Los materiales dibujados se utilizan con permiso. Las opiniones expresadas son las del autor y no necesariamente representan las de la Fundación Urantia o sus empresas afiliadas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="pr-2">Algunos pensamientos y preguntas sobre mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Max Masotti<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">De la palabra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Tolerancia***: Del latín tolerare, soportar. Disposición a aceptar en los demás formas de pensar, de actuar, sentimientos diferentes a los nuestros. En la vida social, la virtud más útil es la tolerancia. 
@@ -82,3 +106,28 @@ Lo importante en LU no es tanto el descubrimiento de los valores que podemos lee
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">De la palabra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

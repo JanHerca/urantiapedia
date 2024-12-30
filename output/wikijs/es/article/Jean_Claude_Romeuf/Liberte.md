@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jean Claude Romeuf<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Joie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alegría</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="pr-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Página [LU 39:4.11](/es/The_Urantia_Book/39#p4_11) “_No podemos tomar mucho sin dar nada. A medida que asciendes en la escala de la personalidad, aprendes <ins>primero a ser leal, luego a amar, luego a ser filial</ins>, y luego podrás ser libre.
@@ -51,3 +75,28 @@ Si este himno a la libertad es también un himno al amor, que penetre en vuestro
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Joie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alegría</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="pr-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

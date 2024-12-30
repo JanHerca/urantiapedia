@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_pouvoir_de_choisir">
+          <span class="pr-2">El poder de elegir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _El mundo habitado más antiguo de Satania, el mundo número uno, es Anova, uno de los cuarenta y cuatro satélites que giran alrededor de un enorme planeta oscuro, pero que está expuesto a la luz diferencial de tres soles vecinos. Anova se encuentra en un estado avanzado de civilización progresiva._ ([LU 49:0.5](/es/The_Urantia_Book/49#p0_5))
@@ -55,3 +79,28 @@ Así, Anova habría alcanzado la primera etapa de luz y vida hace al menos 30 mi
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_pouvoir_de_choisir">
+          <span class="pr-2">El poder de elegir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

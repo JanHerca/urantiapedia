@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_33">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="pr-2">En el teatro del tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Claude Flibotte - Santa Julia
@@ -45,3 +69,28 @@ Ahora la pregunta que me viene a la mente es esta: es bueno poder moverme así, 
 
 Los reveladores nos dicen que los serafines que transportan personalidades deben usar escudos antifricción, esos mismos que los humanos han confundido con un par de alas. Estos famosos escudos son aislantes de energía ([LU 39:5.12](/es/The_Urantia_Book/39#p5_12)). Aíslan la personalidad de las fuertes corrientes de energía que encontró el serafín en su viaje. ¿Por qué utilizar estos escudos, te preguntarás? Los serafines son espíritus, en principio no les serían necesarios escudos. ¡A menos que sean hijos del Divino Ministro de un universo local ([LU 26:1.14](/es/The_Urantia_Book/26#p1_14)), no satisfacen todos los criterios necesarios para prescindir de ellos! Pero ¿qué pasa con los pasajeros? Un ser material no puede ser transportado así ([LU 51:2.2](/es/The_Urantia_Book/51#p2_2)). No hay compatibilidad entre las dos naturalezas. Lo que los serafines pueden transportar son seres morontiales en todas las etapas y seres espirituales que aún no han alcanzado el estatus de ciudadanía paradisíaca plena. ¡Así que todos estos tipos de seres necesitan protección para no agotarse en el camino! En resumen, ¡te dejaré pensar en todo esto!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_33">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="pr-2">En el teatro del tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

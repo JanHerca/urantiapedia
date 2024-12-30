@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1999 Georges Michelson-Dupont<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="pr-2">¿Quién era Jesús? (FIN)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Historia de un viaje a Dakar**
@@ -50,3 +74,28 @@ Al preguntarle a Fatou, estudiante de Moussa, qué le había aportado el Libro d
 Los invito a meditar sobre esta respuesta.
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="pr-2">¿Quién era Jesús? (FIN)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

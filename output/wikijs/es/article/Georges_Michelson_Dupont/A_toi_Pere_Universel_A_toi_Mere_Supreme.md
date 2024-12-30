@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi mente es lamentable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Conceptos originales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Michelson-Dupont
@@ -44,3 +68,28 @@ Dejemos pasar un minuto de silencio y recemos por él; para recordar los buenos 
 
 Padre Universal y Madre Suprema, te agradecemos tu apoyo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi mente es lamentable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Conceptos originales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

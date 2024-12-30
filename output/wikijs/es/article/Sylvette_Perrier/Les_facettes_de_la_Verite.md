@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Sylvette Perrier<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="pr-2">Reunión de lectores de LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La verdad es comparable a una inmensa joya, formada por varias piedras preciosas de diversos colores, cada una tan brillante como la anterior, cortadas en multitud de facetas relucientes. Los humanos a veces ven un lado, a veces otro, dependiendo de dónde y cuándo se encuentren. Pueden distorsionar la imagen de lo que han visto debido a los efectos brillantes y a la visión específica del observador. Pero la verdad aún brilla, y un día, tal vez no hasta dentro de 200 mil millones de años, tendremos la vista panorámica completa de una gran parte de esta montaña de Diamante que, por el momento, se eleva muy por encima de nuestras personalidades en el suelo urantiano. .
@@ -39,3 +63,28 @@ Llama la atención la comparación con los siete mundos de las casas, luego el v
 
 Sylvette Perrier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="pr-2">Reunión de lectores de LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

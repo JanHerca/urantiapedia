@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Ivan Stol<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adiós Bernhard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="pr-2">Informe de la Asamblea General de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Tema: Influencias espirituales.**
@@ -33,3 +57,28 @@ La próxima vez, espero que abordemos las influencias del Espíritu de Verdad de
 Con muchas ganas de volvernos a ver
 **Iván**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johan_Vanderalle/Au_Revoir_Bernhard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adiós Bernhard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="pr-2">Informe de la Asamblea General de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

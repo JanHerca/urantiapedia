@@ -1,5 +1,5 @@
 ---
-title: "autoestima yo"
+title: "Autoestima yo"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Rosette Poletti y Barbara Dobbs<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aliento de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empatía y Liderazgo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Declaración de autoestima
@@ -109,3 +133,28 @@ El primer paso consiste en tomar conciencia de esta situación y luego identific
 
 Rosette Poletti y Barbara Dobbs
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El aliento de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empatía y Liderazgo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jean Davier<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melquisedec o la 2da Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/What_Would_Jesus_do">
+          <span class="pr-2">“¿Qué haría Jesús?”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Muchos seres humanos experimentan indiferencia o escepticismo respecto de los problemas de la existencia espiritual y la supervivencia eterna. ¿Nos atormentamos en un abismo irremediablemente cerrado, sin otra salida que la muerte, de la que nadie regresa según el viejo refrán?
@@ -63,3 +87,28 @@ A todos, Jesús dijo: “VENID Y VERÉS”.
 
 Juan David
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Melquisedec o la 2da Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/What_Would_Jesus_do">
+          <span class="pr-2">“¿Qué haría Jesús?”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de crear razas desiguales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="pr-2">Personalidad humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **LA EXPERIENCIA DE SU VIDA**
@@ -61,3 +85,28 @@ Con el tiempo aprendí a considerar las dificultades, las «inevitabilidades», 
 
 Concluiría con la siguiente cita: “No hay mayor aflicción que nunca ser afligido”.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de crear razas desiguales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_3">
+          <span class="pr-2">Personalidad humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

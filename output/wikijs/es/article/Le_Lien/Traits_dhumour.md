@@ -1,5 +1,5 @@
 ---
-title: "rasgos del humor"
+title: "Rasgos del humor"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">Estas teorías absurdas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _¡El humor es la señora de la limpieza de la mente!_
@@ -39,3 +63,28 @@ _¡La distancia más corta de una persona a otra es la risa!_ Víctor Borge
 
 _¡Estoy convencido de que los seres humanos triunfan donde se divierten!_ Greg Norman
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">Estas teorías absurdas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

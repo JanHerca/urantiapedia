@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que el libro de Urantia significa para mí</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Reimpresión del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simón Orsini.
@@ -73,3 +97,28 @@ Si consideramos que la velocidad de ciertos electrones alrededor del núcleo de 
 
 Podemos controlar los electrones como negativos o positivos, pero en determinados momentos también debemos decir que es la posición la que determina lo positivo o lo negativo como nos lo demuestra el circuito de protones y neutrones. El caso es que en el caso de superposición de dos partículas ya no podemos saber cuál es la positiva o la negativa. Si el primer electrón es positivo, el segundo es negativo, pero esto es sólo una hipótesis. La asociación ordenada y segura de diversas energías constituye la materia. Las civilizaciones surgen y desaparecen, pero la ciencia, la moral y la religión siempre sobreviven al colapso.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que el libro de Urantia significa para mí</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Reimpresión del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

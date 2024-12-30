@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Jean-Claude Romeuf<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La resurrección de Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">La pequeña voz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Puede parecer que la traducción al francés de “Trascendentes, este nivel superfinito (antecedentemente) sigue una progresión finita” por “Este nivel suprafinito sigue la progresión finita (anticipándola)”, podría resultar confusa. Debe entenderse que los planes para la creación del Universo Maestro dependen de los Arquitectos del Universo Maestro. Hubo planes para la génesis de lo finito que, por lo tanto, son anteriores a lo finito y en este momento hay planes para la formación de los espacios exteriores que serán habitados después de la Era del Supremo. El nivel Trascendental, por tanto, no sigue la progresión de lo finito al mismo tiempo que la anticipa. Este nivel precedió al terminado y prepara su secuela. Se prepara para la Era del Último y sigue su dirección espacial. Decir que sigue la progresión del acabado al mismo tiempo que lo anticipa me parece un error. Esto iría en contra de la lógica de la creación: ¡un cuadrado no puede ser redondo!
@@ -23,3 +47,28 @@ La Deidad encontrada en el nivel absoluto, siendo distributiva de sí misma, ten
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La resurrección de Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">La pequeña voz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

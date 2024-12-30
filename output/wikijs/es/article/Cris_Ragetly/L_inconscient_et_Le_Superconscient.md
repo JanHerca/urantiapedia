@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Cris Ragetly<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea General Extraordinaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ADVERTENCIA: Reproducimos un texto de Chis Ragetly, un asiduo estudioso de la revelación, de origen anglosajón que vivió gran parte de su vida en el sur de Francia. Murió en los primeros días de mayo de 2010. Las citas del _Libro de Urantia_ están en cursiva y los enriquecimientos del texto son del autor.
@@ -58,3 +82,28 @@ Cris M. Ragetly
 <figcaption><b>La Trinidad</b><br>Trinidad Triándrica, Leccionario de la Santa Capilla de Bourges, París entre 1404 y 1416, BM de Bourges.<br>Cada Persona divina porta una tiara con triple corona y los Tres bendicen y mantienen unido el globo del universo.<br><em>Edad Media en la luz</em>, Fayard. 2002.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea General Extraordinaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

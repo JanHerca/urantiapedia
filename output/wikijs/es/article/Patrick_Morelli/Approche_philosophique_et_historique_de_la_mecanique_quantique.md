@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Patrick Morelli<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">La traducción china del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Patricio Morelli
@@ -184,3 +208,28 @@ Toda la información relativa a la mecánica cuántica ha sido recogida en los s
 - Ondas cerebrales y energías en la física cuántica _Paul Millemann_
 - El Hombre Cuántico _E Ransford O Chambon T Atam_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">La traducción china del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

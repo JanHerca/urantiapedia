@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luc_Lachance/Apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Despues de la muerte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/La_Personnalite">
+          <span class="pr-2">Personalidad (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > 2. *Las revelaciones como personalidad de la Fuente-Centro Segunda*. Las presencias mentales del Actor Conjunto unifican el espíritu de la divinidad con el arquetipo de la energía. Las encarnaciones donadoras del Hijo Eterno y de sus Hijos Paradisíacos unifican, fusionan realmente, la naturaleza divina de un Creador con la naturaleza evolutiva de una criatura. El Supremo es a la vez criatura y creador, y la posibilidad de ser ambas cosas se revela en los actos donadores del Hijo Eterno y de sus Hijos coordinados y subordinados. Las órdenes de filiación que se donan, los Migueles y los Avonales, acrecientan realmente su naturaleza divina con la auténtica naturaleza de las criaturas, la cual se vuelve suya viviendo la vida real de las criaturas en los mundos evolutivos. Cuando la divinidad se vuelve semejante a la humanidad, esta relación contiene la posibilidad inherente de que la humanidad pueda volverse divina. ([LU 116:3.3](/es/The_Urantia_Book/116#p3_3))
@@ -65,3 +89,28 @@ El grupo de Aviñón
 
 > _La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión. La realidad es finita en el nivel humano, y es infinita y eterna en los niveles superiores y divinos._ ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luc_Lachance/Apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Despues de la muerte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/La_Personnalite">
+          <span class="pr-2">Personalidad (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cyril_Cosette/L_amitie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amistad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="pr-2">Proyección mundial de la difusión del Libro de Urantia 2015-2100</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **ENCUENTRO DE TRADUCTORES EN GONESSE (FRANCIA) EN 1996**
@@ -62,3 +86,28 @@ La segunda columna es el año de publicación, la tercera columna muestra el nú
 | japonés | 2025 | 125.000.000 | 126.000.000 | 1,70% |
 | POBLACIÓN TOTAL | 2025 | 2.872.780.000 | 603.780.000 | 48,68% |
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cyril_Cosette/L_amitie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amistad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="pr-2">Proyección mundial de la difusión del Libro de Urantia 2015-2100</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

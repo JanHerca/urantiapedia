@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Samuel Heine<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunicación de Johana 21 de agosto de 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Correspondencia de Samuel Heine
@@ -60,3 +81,25 @@ Nueva Caledonia es un territorio francés formado por decenas de islas en el Pac
 <img src="/image/article/Le_Lien/images_03/009.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunicación de Johana 21 de agosto de 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

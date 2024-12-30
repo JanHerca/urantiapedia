@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Guy Stéphane Nyasse<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencia y fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nuestros imperativos educativos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de Urantia_ me lo regalaron en 2012 y lo leí por mi cuenta durante 3 años. Fue una elección personal; No quería dejarme influenciar por nadie más. Quería formar mi propia perspectiva sobre estas maravillosas enseñanzas. Convencido del valor de esta revelación, comencé a buscar lectores. Es muy curioso que nunca he visto la escuela UBIS porque está ahí desde hace varios años en el sitio web de la Fundación. Descubrí la UBIS en 2015 cuando leí el libro por primera vez en versión papel porque en la primera página del libro estaba. Es una mención del enlace de Internet de la escuela UBIS.
@@ -49,3 +73,28 @@ Un poco más tarde conocí a un viejo lector camerunés, de aproximadamente la m
 Guy Stéphane NYASSE
 Duala, Camerún
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencia y fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nuestros imperativos educativos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

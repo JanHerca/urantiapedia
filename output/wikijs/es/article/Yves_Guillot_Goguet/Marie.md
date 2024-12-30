@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Yves Guillot-Goguet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pablo y el Eterno Femenino (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_08_Les_questions">
+          <span class="pr-2">Maxien Quiz n°8 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _¡Qué maravilloso testimonio nos deja como esposa y como madre! ¡Qué coraje haber podido afrontar y superar tantas dificultades! En esto María merece nuestra admiración. María no era un ser especial, dotado desde su nacimiento de facultades más allá de lo común de los mortales; ella era parte de los humanos con todas sus debilidades, pero también con todas sus fortalezas._
@@ -73,3 +97,28 @@ Según las instrucciones de Jesús en la cruz, María debía terminar su vida co
 
 Yves Guillot-Goguet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pablo y el Eterno Femenino (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_08_Les_questions">
+          <span class="pr-2">Maxien Quiz n°8 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

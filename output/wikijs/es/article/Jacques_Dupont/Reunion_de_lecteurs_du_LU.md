@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jacques Dupont<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Les_facettes_de_la_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facetas de la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="pr-2">La contracción del espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si estamos todos reunidos aquí, es impulsado por el interés que cada uno de nosotros tiene en el _Libro de Urantia_.
@@ -65,3 +89,28 @@ El alto significado de esta conmemoración impide que sea un ritual porque requi
 
 Jacques Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Les_facettes_de_la_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Facetas de la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="pr-2">La contracción del espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Meredith J. Sprunger<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exoplanetas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="pr-2">Génesis- Zizi - Computadora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 1. La Esencia de la Realidad: El Padre Universal y la Trinidad del Paraíso
@@ -71,3 +95,28 @@ Una psicología espiritual equilibrada debe tener en cuenta los aspectos físico
 
 Meredith J. Sprunger
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exoplanetas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="pr-2">Génesis- Zizi - Computadora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

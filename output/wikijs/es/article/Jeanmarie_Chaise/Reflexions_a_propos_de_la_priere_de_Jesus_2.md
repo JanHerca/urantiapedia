@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Asociación Francófona de Lectores del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/La_nature_duelle_de_la_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza dual de la supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-14-verano-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 14 — Verano 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mystere_des_Maries">
+          <span class="pr-2">El misterio de las Marías</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el número 130 de “Reflectividad” se dieron varias respuestas a la pregunta planteada en el número 129. Personalmente agradezco de todo corazón a sus autores. La pregunta formulada se refería a la oración de Jesús para salvar a Judas, exhortándolo a no cansarse de hacer el bien, y diciéndole:
@@ -39,3 +63,28 @@ Por lo tanto, cuando Jesús le dice a Judas que oró para llegar a amar a sus he
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/La_nature_duelle_de_la_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza dual de la supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-14-verano-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 14 — Verano 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mystere_des_Maries">
+          <span class="pr-2">El misterio de las Marías</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

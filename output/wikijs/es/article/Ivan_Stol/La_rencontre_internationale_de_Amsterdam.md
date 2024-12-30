@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Ivan Stol<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cuentagotas, la cuchara y la pala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/IV_Congres_en_Italie">
+          <span class="pr-2">IV Congreso en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Esta reunión INTERNACIONAL reunió a 180 personas en PAÍSES BAJOS, un poco lejos de Amsterdam, en un ambiente de charla un tanto específico. La organización estuvo bien pensada, con discursos que no fueron demasiado largos, estudios de grupo eficaces y bien preparados y mucho tiempo para debates. Como de costumbre, hubo algunos “contratiempos” y el precio ciertamente disuadió a algunos de venir desde muy lejos. Los franceses estaban presentes (10 u 11) entre aproximadamente 25 francófonos. 
@@ -42,3 +66,28 @@ Este encuentro finalizó con el anuncio oficial del próximo encuentro internaci
 Amistades
 Iván
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cuentagotas, la cuchara y la pala</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/IV_Congres_en_Italie">
+          <span class="pr-2">IV Congreso en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

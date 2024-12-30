@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Jean Royer<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fotos del 21.10.2010 C° Eliane</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Mon_jardin">
+          <span class="pr-2">Mi jardin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La cuestión de la reencarnación en LU, a excepción de las espornagias (cfr [LU 46:7.5](/es/The_Urantia_Book/46#p7_5)): la palabra aparece 8 veces en singular y 1 vez en plural (cfr [LU 46:7.4](/es/The_Urantia_Book/46#p7_4); [LU 86:4.6](/es/The_Urantia_Book/86#p4_6); % %3%%; [LU 94:2.3](/es/The_Urantia_Book/94#p2_3); [LU 164:3.4](/es/The_Urantia_Book/164#p3_4) y [LU 94:2.6](/es/The_Urantia_Book/94#p2_6)), la noción se describe como absurda y debilitante. Si los Cien de Caligastia están de alguna manera reencarnados, ninguno de ellos proviene de Urantia y son, además, superhombres que abandonaron a su Ajustador en Jerusem. También podríamos decir que Adán y Eva, Hijos e Hijas Materiales, reencarnaron, pero ellos también vinieron de Jerusem y no tuvieron Ajustador, al menos hasta después del fracaso. (cf [LU 76:5.2](/es/The_Urantia_Book/76#p5_2))
@@ -27,3 +51,28 @@ La única excepción que tenemos es la del Ajustador de Maquiventa Melquisedec q
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fotos del 21.10.2010 C° Eliane</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Mon_jardin">
+          <span class="pr-2">Mi jardin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

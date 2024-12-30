@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Anne-Marie Ronfet<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Breve_reflexion_sur_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Breve reflexión sobre la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Verite_et_mensonge">
+          <span class="pr-2">Verdad y mentiras o Hechos y falsedades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al leer los artículos, rápidamente nos damos cuenta de que no somos los únicos que experimentamos emociones, ya sea en los superuniversos, sino también en el universo central. Aunque vivimos en un modo mixto e inestable entre nuestros instintos de origen animal y nuestras aspiraciones espirituales, otros seres parecen experimentar sentimientos más puros, sentimientos que tienen su origen sólo en la bondad. Un deseo ardiente parece recorrer el vasto universo, de llegar a Dios, de parecerse a él y de servirle.
@@ -77,3 +101,28 @@ En cualquier caso, los folletos y nuestro trabajo personal nos permiten superar 
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Breve_reflexion_sur_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Breve reflexión sobre la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Verite_et_mensonge">
+          <span class="pr-2">Verdad y mentiras o Hechos y falsedades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

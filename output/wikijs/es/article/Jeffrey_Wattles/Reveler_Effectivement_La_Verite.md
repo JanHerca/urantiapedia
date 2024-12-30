@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Jeffrey Wattles<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="pr-2">Día y período</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El otorgamiento de Jesús, nuestro Hijo Creador, y su Evangelio dan esperanza para vivir una religión personal ideal ahora. Para ello, las personas deben tener una comprensión clara de sus relaciones con Dios para poder vivir plenamente su fe y compartirla.
@@ -120,3 +144,28 @@ Nos esperan las alegrías del trabajo en equipo y agradables sorpresas si revela
 
 (Traducido del inglés por Jean Royer-Mai 2016)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="pr-2">Día y período</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Marlène y Georges Michelson-Dupont<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual en Notre Dame des Lumières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos amigos,
@@ -59,3 +80,25 @@ Segunda parte en el siguiente enlace.
 
 Marlene \& Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual en Notre Dame des Lumières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

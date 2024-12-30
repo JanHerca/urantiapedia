@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Max Masotti<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué tan grande es el paraíso?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="pr-2">La parábola de la ostra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En psicoanálisis, el Yo es una de las instancias de la personalidad, precisamente aquella que quisiera representar a toda la persona como unida. En términos generales, la representación de uno mismo se llama ego. ¿Quién soy yo entonces como sujeto consciente? En la actitud natural, no tenemos dudas sobre la identidad. Decimos “¡pero soy yo!”. Señalamos nuestro cuerpo con el dedo y decimos “yo”. Pero ¿qué es el Sí mismo? Entonces estamos listos para sacar nuestros documentos de identidad y enumerar un catálogo de cualidades: soy Max, nací en Marsella, jubilado, etc. ¿No es esta enumeración una respuesta bastante vaga?
@@ -41,3 +65,28 @@ No hay nada más banal que decir yo o yo y el uso cotidiano de estos pronombres 
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué tan grande es el paraíso?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="pr-2">La parábola de la ostra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

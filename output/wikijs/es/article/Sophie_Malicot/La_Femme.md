@@ -1,5 +1,5 @@
 ---
-title: "la mujer"
+title: "La mujer"
 description: 
 published: true
 date: 2024-11-7T14:46:54Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Sophie Malicot<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="pr-2">Detrás del “YO SOY” ¿qué hay?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sofía MALICOT Julio 2024
@@ -118,3 +142,28 @@ Una certeza: cuando se experimenta “Mujer”, la personalidad lo sabe aunque n
 
 _Documento 143 capítulo 5_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="pr-2">Detrás del “YO SOY” ¿qué hay?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

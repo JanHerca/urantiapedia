@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo: tercera serie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">Cursos escolares de la UBIS para el semestre de abril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Acerca de la UBIS
@@ -58,3 +82,28 @@ Durante el tercer período de una semana, el participante deberá escribir un br
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo: tercera serie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">Cursos escolares de la UBIS para el semestre de abril</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

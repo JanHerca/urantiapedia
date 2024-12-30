@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Max Masotti<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Casado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Exoplanetas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverso**
@@ -41,3 +65,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 18. En el campamento de Magadán, en el año 29, un joven rico, parte del Sanedrín, deseaba ser mensajero de Jesús; nunca llegó a serlo. ¿Quién era él?
 19. La esposa de Pedro fue alimentada a los leones en Roma. ¿Recuerdas su nombre?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Casado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Exoplanetas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

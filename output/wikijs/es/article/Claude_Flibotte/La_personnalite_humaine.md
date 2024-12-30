@@ -1,5 +1,5 @@
 ---
-title: "la personalidad humana"
+title: "La personalidad humana"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

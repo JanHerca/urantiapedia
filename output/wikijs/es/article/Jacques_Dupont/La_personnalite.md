@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Jacques Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepción artística del Universo Maestro (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Bruno_Bettelheim_et_notre_epoque_angoissee">
+          <span class="pr-2">Bruno Bettelheim y nuestros tiempos de ansiedad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Libro deja claro que difícilmente sería deseable una revelación completa. Es mejor que los hombres no reciban revelaciones excesivas; sofoca la imaginación y privaría a los pensadores del próximo milenio de especulación creativa. (Ver [UB 0:1.2](/es/The_Urantia_Book/0#p1_2))
@@ -149,3 +173,28 @@ Agradezco de antemano a quienes estén dispuestos a compartir su punto de vista 
 21 de enero de 1996
 Jacques Dupont — Recierra
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepción artística del Universo Maestro (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Bruno_Bettelheim_et_notre_epoque_angoissee">
+          <span class="pr-2">Bruno Bettelheim y nuestros tiempos de ansiedad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

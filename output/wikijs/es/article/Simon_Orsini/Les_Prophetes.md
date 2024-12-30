@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“El viajero intergaláctico”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">¿Cuál es el tamaño del paraíso?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simon Orsini (Córcega – La isla de la belleza)
@@ -45,3 +69,28 @@ Jesús había formado a Pedro para ser maestro, había creado una escuela de pro
 
 El alma es la función del hombre que refleja su identidad, que discierne la verdad, que recibe el espíritu. Eleva perpetuamente al ser humano por encima del mundo animal. Todo individuo moralmente consciente conoce la existencia de su alma.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“El viajero intergaláctico”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">¿Cuál es el tamaño del paraíso?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Mamadou Doudou Diagne<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De la incompletitud divina a la aventura humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por
@@ -76,3 +100,28 @@ Voy a concluir. Dios nos crea y nos da vida, una mente y una personalidad de ord
 
 Gracias por su atención.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De la incompletitud divina a la aventura humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

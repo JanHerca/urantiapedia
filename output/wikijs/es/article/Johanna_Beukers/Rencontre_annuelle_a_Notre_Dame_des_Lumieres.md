@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Johanna Beukers<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recuerdos Recuerdos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_01">
+          <span class="pr-2">Reflexiones de Georges y Marlene</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Después de pasar 3 días en Goult, una estancia llena de amistad, dinamismo y reencuentros, tengo el inmenso placer de contaros a todos, queridos miembros y lectores del Libro de Urantia, el gran éxito de este encuentro nacional que tuvo lugar del 10 de mayo al 13.
@@ -71,3 +95,28 @@ El domingo por la mañana tomaron la palabra los 4 ponentes que compartieron con
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recuerdos Recuerdos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_01">
+          <span class="pr-2">Reflexiones de Georges y Marlene</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

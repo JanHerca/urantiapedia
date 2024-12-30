@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Henry Begemann<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-44-otoño-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 44 — Otoño 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="pr-2">Palabras de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Wassenaar, Países Bajos, «The URANTIAN Journal», «The URANTIA Brotherhood», verano de 1988 Buscando entre las diferentes religiones en los Países Bajos, Henry Begemann encontró El libro de Urantia cuando se retiraba de su carrera en seguros. Al darse cuenta de su importancia, inmediatamente comenzó a traducir el libro al holandés. Su dedicación lo inspiró a facilitar la organización de grupos de estudio como representante europeo de la Fundación Urantia. Formó parte del Consejo General de la Hermandad antes de su muerte en 1990._
@@ -105,3 +129,28 @@ De esta y muchas otras maneras podríamos prepararnos para la “próxima era”
 
 CRM
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-44-otoño-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 44 — Otoño 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="pr-2">Palabras de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

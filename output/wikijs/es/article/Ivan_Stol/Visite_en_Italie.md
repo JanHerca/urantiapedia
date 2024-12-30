@@ -1,5 +1,5 @@
 ---
-title: "visita a italia"
+title: "Visita a Italia"
 description: 
 published: true
 date: 2024-10-31T13:15:44Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Ivan Stol<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visita a inglaterra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="pr-2">Todos estos viajes a Europa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Este año también nos reunimos con los italianos, pero si nuestra dinámica Danielle LA Scala participó en la organización de este encuentro y volvió a desempeñar un papel vital como intérprete, intervinimos mucho menos en el desarrollo de los intercambios y los italianos adquirieron un cierto dominio en esta área.
@@ -39,3 +63,28 @@ Seguimos atentos y disponibles para responder a cualquier solicitud.
 
 Iván
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visita a inglaterra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="pr-2">Todos estos viajes a Europa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

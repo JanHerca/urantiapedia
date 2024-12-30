@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Havona_et_le_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Havona y el paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="pr-2">Estudio sobre ángeles guardianes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Michelson-Dupont
@@ -225,3 +249,28 @@ Para concluir, vemos que Dios ha provisto todo lo necesario para que el ser huma
 
 > «Los dones de Dios —sus donaciones de la realidad— no son separaciones de sí mismo; él no aparta a la creación de sí mismo, pero ha establecido tensiones en las creaciones que rodean al Paraíso. Dios es el primero que ama al hombre y le confiere el potencial de la inmortalidad —la realidad eterna. A medida que el hombre ama a Dios, el hombre se vuelve eterno en manifestación. Y he aquí un misterio: cuanto más estrechamente se acerca el hombre a Dios a través del amor, mayor es la realidad —la manifestación— de ese hombre. Cuanto más se aleja el hombre de Dios, más cerca se aproxima a la no realidad —al cese de la existencia. Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que *tiene*, entonces Dios hace que ese hombre sea más de lo que es{5}.» ([LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Havona_et_le_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Havona y el paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="pr-2">Estudio sobre ángeles guardianes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Yolanda Silva Solano<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Qué hermosa has hecho la tierra!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-44-otoño-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 44 — Otoño 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hoy, mientras todos se quejan de todo, las cejas se fruncen y la moral está en su punto más bajo porque las habilidades que se nos exigen en todos los ámbitos de la vida son demasiado altas, nosotros que tenemos el privilegio de conocer las enseñanzas de Jesús y nos esforzamos por vivirlas, debemos ser apóstoles modernos, con nuestra alegría de vivir, con nuestra sonrisa espontánea y sincera, sembremos por todas partes las semillas del amor, porque "cuando el hombre desea modificar la realidad física, ya sea él mismo o su entorno, lo consigue en la medida en que que ha descubierto los modos y medios de controlar la materia y dirigir la energía. Sin ayuda, la mente es incapaz de influir en cualquier cosa material excepto en su propio mecanismo físico al que está ineludiblemente ligada. Pero, mediante el uso inteligente del mecanismo corporal, la mente puede crear otros mecanismos, incluso relaciones energéticas y relaciones vivas, mediante los cuales esta mente puede controlar cada vez mejor e incluso dominar su nivel físico en el universo. “La ciencia es la fuente de los hechos y la mente no puede funcionar sin ellos. En la construcción de la sabiduría, los hechos son los pilares que se mantienen unidos por el cemento de la experiencia de vida” [LU 111:6.6](/es/The_Urantia_Book/111#p6_6).
@@ -49,3 +70,25 @@ Vale la pena detenerse y preguntarnos conscientemente: ¿qué papel estoy jugand
 
 Yolanda Silva Solano- Chile
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Qué hermosa has hecho la tierra!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-44-otoño-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 44 — Otoño 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

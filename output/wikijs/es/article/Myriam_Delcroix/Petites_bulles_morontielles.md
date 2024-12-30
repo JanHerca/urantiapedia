@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Myriam Delcroix<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Anniversaire_de_Micael_du_21_aout_2007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cumpleaños de Micaël el 21 de agosto de 2007.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Desurvive/Groupe_dEtude_du_LU_Juin_1979_Lettre_2">
+          <span class="pr-2">Grupo de Estudio del Libro de Urantia, junio de 1979 — Carta nº 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Estaba esperando el autobús y de repente en medio de toda esa gente que se revolvía a mi alrededor, que se empujaba, que reía, que caminaba indiferente, comencé a pensar que todos estos seres que me rodeaban, como yo, habían una chispa de absoluto proveniente de lo divino y que todos teníamos el mismo Padre. Entonces, una oleada de Hermandad y amor me invade como una descarga de adrenalina. De repente me sentí tan cerca de toda esta gente que no conocía, que ya no había en mí ninguna ira, ninguna duda, ninguna decepción. Por un momento, me encontré en una dimensión superior. Llegó el autobús, caí a la tierra, pero durante todo el día la felicidad me acompañó.
@@ -23,3 +47,28 @@ Han pasado cinco años desde que te conocí... Había mucha gente en el metro. M
 
 Myriam Del Croix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Anniversaire_de_Micael_du_21_aout_2007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cumpleaños de Micaël el 21 de agosto de 2007.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Desurvive/Groupe_dEtude_du_LU_Juin_1979_Lettre_2">
+          <span class="pr-2">Grupo de Estudio del Libro de Urantia, junio de 1979 — Carta nº 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

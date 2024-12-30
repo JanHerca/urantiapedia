@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Sophie Malicot<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una búsqueda espiritual: Dios en cuestión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sofía Malicot
@@ -87,3 +111,28 @@ Esta nueva concepción abre la liberación del ser humano de un yugo que pesa mu
 
 “Paz en la tierra y buena voluntad entre los hombres”, esa buena voluntad que hace avanzar a la humanidad en la justicia y la verdad. Y la tierra está llena de gente de buena voluntad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una búsqueda espiritual: Dios en cuestión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

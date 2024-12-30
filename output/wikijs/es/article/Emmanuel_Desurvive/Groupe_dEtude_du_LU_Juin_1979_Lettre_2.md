@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Emmanuel Desurvive<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pequeñas burbujas morontiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Centro de Estudio y Reflexión
@@ -173,3 +194,25 @@ Sólo a través de este largo proceso de maduración el hombre puede llegar a es
 
 Emmanuel De Survive
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pequeñas burbujas morontiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

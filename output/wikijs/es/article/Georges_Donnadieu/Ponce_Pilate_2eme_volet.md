@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Georges Donnadieu<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="pr-2">Nacido del espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Este segundo artículo reforzará algunos datos tomados de la “LEYENDA DE ORO”, sobre Poncio Pilato —y dados en ENLACE nº 62— con información similar tomada del Libro de Urantia por un lado y de la enciclopedia Larousse (1979) con las palabras * **PILAT*** y ***PILATO***. Para muchos de sus lectores, el Libro de Urantia (LU) proporciona información al “nivel superior” de lo que actualmente se puede revelar a los urantianos, de acuerdo con la realidad divina. Recordemos que la LEYENDA DE ORO (LD) fue escrita en Italia, en el siglo XIII, por Jacques de Voragine, nacido en 1230 en VARAGGIO cerca de GÉNOVA, obispo de GENNES en 1292 y fallecido en 1298._
@@ -65,3 +89,28 @@ _PD. Incluso los 881 metros de altitud del fatídico monte Gerizim tienen que ve
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="pr-2">Nacido del espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

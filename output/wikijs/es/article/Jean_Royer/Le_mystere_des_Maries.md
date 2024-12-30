@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jean Royer<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la Oración de Jesús (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-14-verano-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 14 — Verano 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Marie: es el inglés “Mary” pero también es el hebreo _Miriam_, o _Miryam_ o Myriam. Este nombre está muy extendido y puede plantear problemas de identificación. El Libro de Urantia distingue claramente a Miriam, la hermana de Jesús, de María su madre (lo que no debería haber sido el caso en hebreo o arameo, a menos que supongamos que siempre es posible una hipocorística).
@@ -37,3 +58,25 @@ Sin embargo, sabemos que María, madre de Jesús, tenía sólo dos hermanas, una
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la Oración de Jesús (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-14-verano-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 14 — Verano 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

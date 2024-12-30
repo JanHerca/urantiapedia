@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/L_equipe_Shamengo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El equipo de Shamengo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_26">
+          <span class="pr-2">El rincón del hermano Dom ¡El más joven!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Jesús**
@@ -51,3 +75,28 @@ Max Masotti
 <figcaption>“...¡Ah, el privilegio de ser il-LU-minado! »</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/L_equipe_Shamengo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El equipo de Shamengo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_26">
+          <span class="pr-2">El rincón del hermano Dom ¡El más joven!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

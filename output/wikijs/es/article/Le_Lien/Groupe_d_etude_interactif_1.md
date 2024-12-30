@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El inconsciente y el superconsciente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Publications_autour_du_LU">
+          <span class="pr-2">Publicaciones sobre el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > En la nueva edición de _Link_, te invitamos a explorar algunos conceptos del _Libro de Urantia_ con más profundidad de una manera interactiva, un poco como un grupo de estudio. Se formularán preguntas sobre un tema determinado con una lista de lecturas sugeridas para responderlas.
@@ -87,3 +111,28 @@ _En su opinión, ¿cuáles son los aspectos más inspiradores de la vida religio
 
 El segundo periodo será publicado en el Enlace Nº 72 de enero de 2016
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El inconsciente y el superconsciente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Publications_autour_du_LU">
+          <span class="pr-2">Publicaciones sobre el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

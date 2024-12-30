@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Robert Lamock<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tener trigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Haz la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hoy pretendo expresar todo mi agradecimiento simplemente con la palabra “gracias”. Es espontáneo y puede tener repercusiones a nivel mental y espiritual más allá de lo que uno podría imaginar.
@@ -56,3 +80,28 @@ Para concluir, el Libro es un regalo de Dios, a nosotros nos corresponde demostr
 
 Robert Lamock
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tener trigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Haz la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

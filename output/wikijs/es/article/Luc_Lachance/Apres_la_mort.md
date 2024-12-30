@@ -1,5 +1,5 @@
 ---
-title: "despues de la muerte"
+title: "Despues de la muerte"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1997 Luc Lachance<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justicia estadounidense falla en apelación a favor de los derechos de autor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Deidad y divinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -45,3 +69,28 @@ Luc Lachance
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La justicia estadounidense falla en apelación a favor de los derechos de autor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Deidad y divinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

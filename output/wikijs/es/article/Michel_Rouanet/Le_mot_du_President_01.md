@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Michel Rouanet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/037">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 37 - Otoño de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Connaissance_et_verite">
+          <span class="pr-2">Conocimiento y verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos miembros de la Asociación Francófona de Lectores del Libro de URANTIA, al asumir mi nuevo cargo como presidente de la AFLLU, me gustaría agradecerles la confianza que depositan en mí. En efecto, con motivo de la Asamblea General que se celebró el sábado 24 de junio de 2006, usted me confió la pesada y honorable responsabilidad de la gestión de nuestra asociación fraterna.
@@ -30,3 +54,28 @@ Saludos cordiales a todos ustedes, en relación con nuestro Padre Universal.
 Presidente de la A.F.L.L.U.
 michel r.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/037">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 37 - Otoño de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Connaissance_et_verite">
+          <span class="pr-2">Conocimiento y verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

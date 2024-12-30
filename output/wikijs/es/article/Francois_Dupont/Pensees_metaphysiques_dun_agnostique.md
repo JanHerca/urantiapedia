@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 François Dupont<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del 21 de septiembre de 1997 en Villebon-Sur-Yvette</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="pr-2">¿Coherencia o principio de evanescencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 [^1]
@@ -72,6 +96,31 @@ Qué alegría saber que todo contribuye a revelar lo inaudible, lo invisible y l
 Francois Dupont
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión del 21 de septiembre de 1997 en Villebon-Sur-Yvette</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="pr-2">¿Coherencia o principio de evanescencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Comentarios
 

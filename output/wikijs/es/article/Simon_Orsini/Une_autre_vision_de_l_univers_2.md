@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Simon Orsini<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día y período</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril_Cosette/L_amitie">
+          <span class="pr-2">Amistad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -147,3 +171,28 @@ Ajaccio (Córcega del Sur)
 <figcaption>Simon Orsini a la guitarra con Max Masotti en el sur de Córcega.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día y período</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril_Cosette/L_amitie">
+          <span class="pr-2">Amistad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "correo de los lectores"
+title: "Correo de los lectores"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia Cósmica y Percepción Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Gracias por enviarnos el periódico “**Le Lien**”! Lo leí con gran interés, esperando que todos los lectores de habla francesa de todo el mundo se tomen el tiempo de leer nuestras publicaciones (El Vínculo, Reflectividad, etc.) que amplían el estudio del _Libro de Urantia_ trayendo nuestras reflexiones humanas sobre los significados. Tengo tres observaciones que hacer a los autores de este número 103:
@@ -25,3 +46,25 @@ Georges, ¡te deseo mucha suerte en todos tus proyectos!
 
 Claude Flibotte
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia Cósmica y Percepción Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

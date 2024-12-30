@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El libro de Urantia y la teoría de la gran conspiración?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="pr-2">¿Para qué sirve la escuela UBIS?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A pesar de la pandemia, se ha logrado mucho en la Fundación Urantia. Aquí encontrará algunas novedades e información práctica.
@@ -130,3 +154,28 @@ ESTADÍSTICAS CONSOLIDADAS DEL TRIMESTRE DE SEPTIEMBRE 2020
 
 El trimestre de septiembre de 2020 registró una fuerte participación en general. El número total de participantes fue 264, todos los idiomas combinados, procedentes de más de 50 países diferentes. Completaron su carrera 170 estudiantes, un porcentaje del 64%, un poco menor que los otros trimestres que rondaron el 75%. El número de alumnos por clase es de 15, la tasa de ocupación es del 103%.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El libro de Urantia y la teoría de la gran conspiración?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="pr-2">¿Para qué sirve la escuela UBIS?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

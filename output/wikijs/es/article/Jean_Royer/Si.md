@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">La providencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _[Advertencia: Esta reflexión no puede considerarse como un ataque a la Fundación, sino más bien como un lamento histórico en línea con la observación hecha en 1942 por la comisión de revelación a la comisión de contacto que decía: No habéis hecho lo suficiente para proteger tu nombre...] Jean Royer_
@@ -21,3 +45,28 @@ Pero no estamos rehaciendo la historia, ¿verdad?
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">La providencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

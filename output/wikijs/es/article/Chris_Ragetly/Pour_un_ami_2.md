@@ -1,5 +1,5 @@
 ---
-title: "para un amigo"
+title: "Para un amigo"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la materia al espíritu a través de la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Ramond_Jung/Serenite">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué me acosan dudas e incertidumbres?
@@ -41,3 +65,28 @@ Tengo que abrirselo.
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la materia al espíritu a través de la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Ramond_Jung/Serenite">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

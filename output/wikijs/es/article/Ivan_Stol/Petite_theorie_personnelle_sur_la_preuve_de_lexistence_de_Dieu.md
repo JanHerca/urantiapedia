@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Ivan Stol<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo material – tiempo morontial – tiempo espiritual – “la importancia del tiempo según el Libro de Urantia”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_et_Thierry_Lepage/Premiere_reunion_Recit_dune_visite">
+          <span class="pr-2">Primera reunión. Historia de una visita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay una pequeña teoría personal sobre la prueba de la existencia de Dios que me gustaría compartir.
@@ -37,3 +61,28 @@ Si todavía hay escépticos DIOS se encargará de ello
 
 Iván Stol
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo material – tiempo morontial – tiempo espiritual – “la importancia del tiempo según el Libro de Urantia”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_et_Thierry_Lepage/Premiere_reunion_Recit_dune_visite">
+          <span class="pr-2">Primera reunión. Historia de una visita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

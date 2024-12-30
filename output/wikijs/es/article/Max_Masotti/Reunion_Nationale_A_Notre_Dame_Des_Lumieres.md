@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Max Masotti<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gran confusión sobre la raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Nuestra Señora de las Luces_
@@ -31,3 +52,25 @@ Máx.
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gran confusión sobre la raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

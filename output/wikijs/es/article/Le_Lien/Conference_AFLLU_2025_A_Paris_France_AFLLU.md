@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubriendo el paraíso y el espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Encuentro europeo para lectores del libro de Urantia**
@@ -45,3 +66,25 @@ Se dejará un gran espacio para el intercambio y la fraternidad social de los pa
 
 Ya estamos pidiendo buena voluntad para la organización en las siguientes áreas: recepción de participantes, traducciones, actividades. Póngase en contacto con Georges: georges.michelsondupont777@gmail.com o Ivan: ivan.stol.is@gmail.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubriendo el paraíso y el espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

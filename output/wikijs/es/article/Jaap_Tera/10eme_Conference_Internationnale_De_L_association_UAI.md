@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Jaap Tera<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia: Correcciones al texto de 1955</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marta_Elders/Le_Cerveau_Spirituel">
+          <span class="pr-2">El cerebro espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***12 al 15 de abril de 2018***
@@ -42,3 +66,28 @@ Presidente de la Asociación Urantia de Países Bajos (UAISUN)
 Correo electrónico: Info@urantia.nl
 Teléfono: +31 (0) 6-25468368
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia: Correcciones al texto de 1955</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marta_Elders/Le_Cerveau_Spirituel">
+          <span class="pr-2">El cerebro espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

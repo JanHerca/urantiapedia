@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Ivan Stol<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/089">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 89 – Marzo de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="pr-2">El cristianismo como oportunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos lectores urantianos,
@@ -31,3 +55,28 @@ Amistades fraternales.
 
 Iván.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/089">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 89 – Marzo de 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="pr-2">El cristianismo como oportunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

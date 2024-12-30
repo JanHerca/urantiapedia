@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patricia_Brambilla/Elisabeth_Sombart_la_pianniste_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Elisabeth Sombart, la pianista de Les Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_03_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°3 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _1. La personalidad es esa cualidad, dentro de la realidad, que es otorgada por el mismo Padre Universal, o por el Actor Conjunto actuando en nombre del Padre._ ([LU 112:0.3](/es/The_Urantia_Book/112#p0_3))
@@ -116,3 +140,28 @@ Después de la muerte, los serafines son imprescindibles para reconstituir la pe
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patricia_Brambilla/Elisabeth_Sombart_la_pianniste_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Elisabeth Sombart, la pianista de Les Anges</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_03_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°3 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

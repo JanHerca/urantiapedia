@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/L_art_de_benir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de bendecir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="pr-2">Tras las huellas de Jesús (ficción)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Pensamos que la evolución física habrá alcanzado su pleno desarrollo al final de la quinta época de la era de luz y de vida. Observamos que los límites superiores del desarrollo espiritual, asociado a la mente humana en evolución, están determinados por el nivel de fusión con el Ajustador de los valores morontiales y de los significados cósmicos conjuntos. Pero en lo que se refiere a la sabiduría, aunque no lo sabemos realmente, suponemos que nunca podrá haber un límite a la evolución intelectual y a la adquisición de la sabiduría. En un mundo en la séptima etapa, la sabiduría puede agotar los potenciales materiales, empezar a captar la mota, e incluso saborear finalmente la grandiosidad absonita._ ([LU 55:6.5](/es/The_Urantia_Book/55#p6_5))
@@ -35,3 +59,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/L_art_de_benir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de bendecir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="pr-2">Tras las huellas de Jesús (ficción)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Le_livre_dUrantia_en_Afrique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en África</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Faits_significations_et_valeurs">
+          <span class="pr-2">Hechos, significados y valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando los Hijos Miguel emergen del Paraíso para emprender la creación y organización de un universo, hacen un juramento solemne de no asumir la plena soberanía de la nueva creación hasta que siete otorgamientos en forma de criatura hayan sido completados con éxito y confirmados por los Ancianos de los Días. jurisdicción sobre el superuniverso en cuestión. ([LU 119:0.3](/es/The_Urantia_Book/119#p0_3))
@@ -45,3 +69,28 @@ Pero hay un misterio más que le preocupa, aquí está [LU 48:6.26](/es/The_Uran
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Le_livre_dUrantia_en_Afrique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en África</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Faits_significations_et_valeurs">
+          <span class="pr-2">Hechos, significados y valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

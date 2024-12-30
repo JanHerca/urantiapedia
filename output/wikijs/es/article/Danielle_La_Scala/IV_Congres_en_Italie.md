@@ -9,6 +9,27 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Danielle La Scala<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El encuentro internacional en Amsterdam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _5 al 7 de octubre de 2018 en Lazise (Lago de Garda)_
@@ -40,3 +61,25 @@ Mi nuevo teléfono móvil suizo:
 Mi móvil francés
 0633843440 finalizará a finales de junio de 2018
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El encuentro internacional en Amsterdam</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Dominique Ronfet<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raymonde_et_Jean_Davier/A_propos_de_lapotre_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Acerca” del apóstol Pablo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-12-invierno-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 12 — Invierno 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philippe_DAmore/Mon_Ajusteur_et_moi">
+          <span class="pr-2">Mi Ajustador y yo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La idea de este estudio surgió a raíz de una intervención de nuestro amigo Jean Royer en el foro de discusión electrónico. Señaló que ciertas cifras dadas en el Libro de Urantia eran muy sorprendentes. Por ejemplo, el número aproximado de 187 millones de ascendientes presentes en Jerusem ([LU 53:7.12](/es/The_Urantia_Book/53#p7_12)) en el momento de la rebelión. Tomando como proporción 619 mundos habitados y el número de personas que murieron en la Tierra en 1990, es decir 90 millones (fuente: Quid 1990), el número de 187 millones puede parecer realmente insignificante. Mi punto no es generar un debate innecesario sobre la ubicación y el porcentaje de supervivientes durante su ascensión, así como sobre la tasa de éxito de la fusión.
@@ -151,3 +175,28 @@ Dominique Ronfet
 	- _Buscador de la verdad_ Ediciones Albin Michel
 	- _Sufismo_, camino hacia la unidad Ediciones Charles Antoni; el Original (recopilación de varios autores)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raymonde_et_Jean_Davier/A_propos_de_lapotre_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Acerca” del apóstol Pablo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-12-invierno-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 12 — Invierno 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philippe_DAmore/Mon_Ajusteur_et_moi">
+          <span class="pr-2">Mi Ajustador y yo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

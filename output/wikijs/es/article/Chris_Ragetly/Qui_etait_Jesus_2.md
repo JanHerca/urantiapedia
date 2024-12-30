@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución del fetichismo y los ídolos “libros sagrados”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="pr-2">Reflexiones sobre la oración de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Además de los apóstoles, hay otras personalidades humanas que conocieron a Jesús y dieron su opinión sobre su carácter y su personalidad: citemos a Rebeca: “...esperad la hora en que él (Jesús), que era para ella el hombre más grande que jamás vivido, comenzaría su carrera como maestro, enseñando la verdad viva... Para ella, así como para innumerables mundos superiores, él era: "el único enteramente digno de ser amado y el más grande entre diez mil »» (% %0%%) Ciertamente, Rebeca estaba enamorada de Jesús y su juicio fue inevitablemente parcial, al menos al principio, pero lo siguió durante todo su ministerio público y estuvo presente cuando Jesús colgó en la cruz. Creo que Rebecca debe tener un estatus muy especial en su carrera morontial en este momento.
@@ -33,3 +57,28 @@ Fin de la segunda parte
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La evolución del fetichismo y los ídolos “libros sagrados”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexions_a_propos_de_la_priere_de_Jesus">
+          <span class="pr-2">Reflexiones sobre la oración de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

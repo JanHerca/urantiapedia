@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Simon Orsini<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Medecin_de_guerre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Médico de guerra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_mort_n_existe_pas">
+          <span class="pr-2">La muerte no existe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Rayos gamma
@@ -85,3 +109,28 @@ Simón Orsini
 <img src="/image/article/Le_Lien/images_01/185.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Medecin_de_guerre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Médico de guerra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_mort_n_existe_pas">
+          <span class="pr-2">La muerte no existe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

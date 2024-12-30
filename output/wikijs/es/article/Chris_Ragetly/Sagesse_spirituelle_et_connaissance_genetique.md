@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Chris Ragetly<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por qué utilizar... _la técnica de acercarse al hombre y sus problemas planetarios, emprendiendo el viaje a través del espacio-tiempo desde el infinito, eterno y divino Paraíso Fuente-Centro de toda realidad de la personalidad y de toda existencia cósmica._
@@ -47,3 +71,28 @@ Chris Ragetly
 
 (Las citas de El libro de Urantia están en cursiva. Todas están en la página 215. Las palabras en negrita son mías).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

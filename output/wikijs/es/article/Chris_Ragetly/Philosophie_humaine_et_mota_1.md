@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitado: Asociación Urantia de Chile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Reunión del 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La dificultad que tenéis para conseguir una coordinación más armoniosa entre la ciencia y la religión se debe a vuestra ignorancia total sobre el ámbito intermedio del mundo morontial de cosas y de seres. El universo local consta de tres grados, o estados, de manifestación de la realidad: la materia, la morontia y el espíritu. El ángulo de aproximación morontial borra toda divergencia entre los hallazgos de las ciencias físicas y el funcionamiento del espíritu de la religión. La razón es la técnica de comprensión de las ciencias; la fe es la técnica de perspicacia de la religión; la mota es la técnica del nivel morontial. La mota es una sensibilidad supermaterial a la realidad, que empieza a compensar el crecimiento incompleto; tiene por sustancia el conocimiento-razón y por esencia la fe-perspicacia. La mota es una reconciliación superfilosófica de las percepciones divergentes de la realidad, y las personalidades materiales no la pueden alcanzar; está basada en parte en la experiencia de haber sobrevivido a la vida material en la carne. Pero muchos mortales han reconocido la conveniencia de poseer algún método que reconcilie la interacción entre los campos ampliamente separados de la ciencia y la religión; y la metafísica es el resultado del intento infructuoso del hombre por tender un puente sobre este abismo bien reconocido. Pero la metafísica humana ha resultado ser más desconcertante que iluminadora. La metafísica representa el esfuerzo bien intencionado, pero inútil, del hombre por compensar la ausencia de la mota morontial. ([LU 103:6.7](/es/The_Urantia_Book/103#p6_7))
@@ -99,3 +123,28 @@ Experiencia es la palabra clave de nuestra vida, y experiencia finita es el nive
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitado: Asociación Urantia de Chile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Reunión del 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Dominique Ronfet<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalo de amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
@@ -27,3 +48,25 @@ Así que abramos nuestros ojos, estas ventanas del alma, y prestemos atención a
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalo de amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

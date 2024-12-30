@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Hommage_a_Jean_Royer">
+          <span class="pr-2">Homenaje a Jean Royer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Georges Michelson-Dupont
@@ -56,3 +80,28 @@ Gracias, Jean, por ser un hermano tan cariñoso e inspirador. ***Nos vemos pront
 <figcaption>Jean y Guiseppe Zechinato<br>el traductor de El libro de Urantia al italiano: El libro de Urantia Conferencia de traductores 1990 en Montvillargène (Francia)</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Hommage_a_Jean_Royer">
+          <span class="pr-2">Homenaje a Jean Royer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

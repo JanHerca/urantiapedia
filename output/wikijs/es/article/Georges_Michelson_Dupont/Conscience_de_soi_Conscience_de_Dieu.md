@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro Internacional de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="pr-2">Visita a Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las definiciones de “conciencia” que se encuentran en los diccionarios clásicos o filosóficos difieren según provengan de la filosofía, la psicología, la psiquiatría o el sentido general, pero todas son más o menos vagas o incompletas, algunas confunden la mente con el espíritu, otras no. diferencia entre conciencia y autoconciencia. El Libro de Urantia tiene el mérito de aclarar estas nociones tan importantes para comprender el origen de lo que llamamos “conciencia”, el mecanismo evolutivo que permite comprender los tres dominios de la realidad material, intelectual y espiritual, y el propósito trascendente de estos. dotes que es conocer a Dios, amarlo y procurar hacer su voluntad.
@@ -155,3 +179,28 @@ Desde el otorgamiento de nuestro Hijo Creador, todos los urantianos con mentes n
 
 _Georges Michelson-Dupont. Recerrado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro Internacional de Quebec</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="pr-2">Visita a Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

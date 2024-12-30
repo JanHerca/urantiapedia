@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Cosmogonie_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cosmogonía de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="pr-2">Vida en espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Claude Flibotte Quebec
@@ -84,3 +108,28 @@ La historia contada por los reveladores es contada por las mismas personas que l
 
 ¡Tengo una analogía para ti! La historia de la humanidad se asemeja a un gran rompecabezas de mil piezas. Los desarrolladores tienen una descripción general de este rompecabezas. Incluso ven el futuro de su expansión. Los científicos están trabajando en el mismo rompecabezas, pero sólo tienen unas pocas docenas de piezas con las que intentan reconstruir el panorama completo. ¿Por qué no miran la imagen en la tapa de la caja (El Libro de Urantia) y luego intentan, a partir de las piezas que tienen, reconstruir correcta y tangiblemente nuestra gran historia? ¡Descubriríamos una misma gran familia, la familia cósmica urantiana!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Cosmogonie_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cosmogonía de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="pr-2">Vida en espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

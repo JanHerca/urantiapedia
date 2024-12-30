@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Simon Orsini<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/La_Verite_personnelLement_decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad personal descubierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="pr-2">El niño Jesús y los doctores de la Ley</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simón Orsini
@@ -122,3 +146,28 @@ Alguien que piensa, alguien que ve, alguien que oye, alguien que tiene concienci
 
 Dios no puede crecer en conocimiento y sabiduría. El Padre Universal participa en la lucha personal de todas las almas imperfectas del universo, ni las matemáticas, ni la lógica, ni la filosofía, pueden captar la realidad última del universo. Sólo una experiencia por la fe puede producir la concepción clara, real y espiritual de la personalidad de Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/La_Verite_personnelLement_decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad personal descubierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="pr-2">El niño Jesús y los doctores de la Ley</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

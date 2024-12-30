@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proyección mundial de la difusión del Libro de Urantia 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Congreso Italo-Franco-Suizo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > En la nueva edición de _Link_, te invitamos a explorar algunos conceptos del _Libro de Urantia_ con más profundidad de una manera interactiva, un poco como un grupo de estudio. Se formularán preguntas sobre un tema determinado con una lista de lecturas sugeridas para responderlas.
@@ -61,3 +85,28 @@ En la sección 2 del Documento 194 El Libro de Urantia se revela que "Entonces, 
 
 Excepto por nuestro Ajustador del Pensamiento y el Espíritu de la Verdad que vimos antes, ¿cuáles son las contribuciones de otras influencias espirituales y cómo cooperan con nosotros?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proyección mundial de la difusión del Libro de Urantia 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Congreso Italo-Franco-Suizo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

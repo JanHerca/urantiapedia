@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Anne-Marie Ronfet<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Haldi/Brins_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hilos de vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="pr-2">Otras ovejas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “Aquí está el hombre”
@@ -141,3 +165,28 @@ Informe del día del sábado 22 de noviembre de 2008 en Suresnes.
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Haldi/Brins_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hilos de vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="pr-2">Otras ovejas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

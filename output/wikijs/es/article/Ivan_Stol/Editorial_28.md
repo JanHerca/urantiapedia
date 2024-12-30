@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Ivan Stol<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/099">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 99 – Septiembre de 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="pr-2">La sabiduría de crear razas desiguales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hola Queridos lectores de LU, Mucha gente tiene dudas sobre el tiempo (cuando no se trata de meteorología) y me gustaría presentarles algunas de sus particularidades.
@@ -31,3 +55,28 @@ Así que no demores en leer este Deep Link.
 
 Tu devoto Iván.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/099">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 99 – Septiembre de 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="pr-2">La sabiduría de crear razas desiguales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

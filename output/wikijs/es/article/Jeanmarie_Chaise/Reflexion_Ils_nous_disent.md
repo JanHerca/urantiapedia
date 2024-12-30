@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1996 Jeanmarie Chaise<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brújula cósmica infalible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="pr-2">El Ajustador según C.G. Jung</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los editores de El libro de Urantia nos dicen que no son capaces de definir la personalidad. Por lo tanto, no es esta meta la que nos daremos, al menos no hasta que estemos mucho más avanzados en nuestra evolución espiritual. También nos dicen que incluso cuando lleguemos a Sonarington seguirá siendo un enigma para nosotros. Sin embargo, no dejan de hablarnos de ello, y es leyéndolos y releyéndolos como poco a poco nos iremos haciendo una idea cada vez más cercana de lo que es una realidad, nuestra realidad, el verdadero misterio de nuestra existencia.
@@ -27,3 +51,28 @@ Confío bastante en mi razonamiento, pero si alguien encuentra un defecto en él
 
 jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brújula cósmica infalible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="pr-2">El Ajustador según C.G. Jung</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Max Masotti<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Sur_l_Amour_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el amor III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="pr-2">Las Siete Realidades Fundamentales VII</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverso**
@@ -49,3 +73,28 @@ Max Masotti
 <img src="/image/article/Le_Lien/images_01/178.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Sur_l_Amour_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el amor III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="pr-2">Las Siete Realidades Fundamentales VII</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

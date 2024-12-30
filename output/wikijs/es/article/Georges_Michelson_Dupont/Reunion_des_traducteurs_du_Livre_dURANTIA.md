@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 George Michelson-Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">La Consagración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos sabemos que sólo se producirá una difusión planetaria de la Quinta Revelación si el texto original _El Libro de URANTIA_ es traducido a los idiomas de las razas y pueblos de Urantia. Esta obligación está incluida en la “Declaración de Fideicomiso” que rige la Fundación Urantia y es por eso que, dada la importancia de la tarea, parecía necesario reunir en un solo lugar, no sólo a los Patronos de la Fundación (subrayando así el interés que tenido en esta misión) sino también toda la buena voluntad que, directa o indirectamente, han estado o están involucrados en un proceso de traducción.
@@ -60,3 +84,28 @@ Y en la cena de despedida dio la siguiente exhortación:
 
 Resumen preparado por G. Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">La Consagración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

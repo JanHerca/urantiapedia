@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Chistine Baussain<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus y las mujeres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Simposio de Chicago 2011 - Fotos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Qué representación de la mujer nunca ha sufrido una transformación tan terrible como la de la bruja? Del iniciado a la sabiduría antigua, íntima de los secretos de la curación y de las prácticas adivinatorias, de la mujer sabia a la sacerdotisa de tiempos anteriores a la dictadura del varón, en el imaginario colectivo sólo queda la espantosa y malvada puta que asusta a los niños pequeños.
@@ -31,3 +55,28 @@ Ya era hora. Bienvenida por fin, divina bruja.
 
 Chistine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus y las mujeres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Simposio de Chicago 2011 - Fotos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

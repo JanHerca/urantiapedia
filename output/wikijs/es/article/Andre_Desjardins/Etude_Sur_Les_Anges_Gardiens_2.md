@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 André Desjardins<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Croissance_dans_le_Royaume_des_Cieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento en el Reino de los Cielos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_De_L_assemblee_Generale_Ordinaire_AFLLU">
+          <span class="pr-2">Acta de la Asamblea General Ordinaria de la AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -49,3 +73,28 @@ En conclusión de este estudio; aunque nuestra alma morontial es una co-creació
 
 _St-Alexis-des-Monts — Quebec_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Croissance_dans_le_Royaume_des_Cieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento en el Reino de los Cielos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_De_L_assemblee_Generale_Ordinaire_AFLLU">
+          <span class="pr-2">Acta de la Asamblea General Ordinaria de la AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

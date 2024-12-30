@@ -1,5 +1,5 @@
 ---
-title: "amigo de dios"
+title: "Amigo de dios"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Proposition_dune_methode_de_lecture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Propuesta de método de lectura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/La_recherche_de_Dieu">
+          <span class="pr-2">La búsqueda de Dios es la búsqueda de sus tres valores: verdad, belleza y bondad.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_A pesar de que Dios es un poder eterno, una presencia majestuosa, un ideal trascendente y un espíritu glorioso, aunque es todo esto e infinitamente más, sin embargo es verdadera y eternamente una personalidad perfecta de Creador, una persona que puede «conocer y ser conocida»{42}, que puede «amar y ser amada»{43}, alguien que puede manifestarnos amistad; y a vosotros se os puede conocer, como a otros humanos les ha sucedido, como amigos de Dios{44}. Él es un espíritu real y una realidad espiritual._» ([LU 1:5.8](/es/The_Urantia_Book/1#p5_8))
@@ -21,3 +45,28 @@ En estas condiciones, cada uno de nosotros puede ser conocido “…como amigo d
 
 CM Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Proposition_dune_methode_de_lecture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Propuesta de método de lectura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/La_recherche_de_Dieu">
+          <span class="pr-2">La búsqueda de Dios es la búsqueda de sus tres valores: verdad, belleza y bondad.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

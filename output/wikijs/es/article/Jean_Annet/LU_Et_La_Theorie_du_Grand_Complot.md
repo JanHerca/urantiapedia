@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Jean Annet<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La oración no era una</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Noticias de la Fundación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La situación completamente excepcional que atravesamos actualmente a causa del COVID 19 ha dado lugar a esta reflexión en relación al Libro de Urantia: ¿tiene esto algo que ver con el libro? ¿La teoría de la conspiración que muy a menudo alimenta pensamientos sobre el origen del virus es totalmente ajena a las enseñanzas del libro?
@@ -52,3 +76,28 @@ Jean Annet (Bélgica – enero de 2021)
 > 
 > ¡La meta de la eternidad está por delante! ¡La aventura de alcanzar la divinidad aparece ante ti! ¡La carrera por la perfección ha comenzado! Cualquiera que quiera puede participar en ella, y una victoria segura coronará los esfuerzos de todo ser humano que desee correr la carrera de la fe y la confianza, apoyándose en cada paso en las directivas del Ajustador Interior y en la guía del buen espíritu de el Hijo del Universo, que tan generosamente ha sido derramado sobre toda carne. ([LU 32:5.7-8](/es/The_Urantia_Book/32#p5_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La oración no era una</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Noticias de la Fundación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

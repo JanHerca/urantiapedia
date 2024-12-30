@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Anne-Marie Ronfet<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio: Agondoncia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Presentación sobre la personalidad — Reunión de Dinard, mayo de 2008
@@ -85,3 +106,25 @@ Al igual que el universo que nos rodea, unimos nuestra personalidad con su entor
 </figure>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Etude_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio: Agondoncia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

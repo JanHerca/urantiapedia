@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Robert Gallo<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siguiendo el fenómeno Personalidad-Poder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En _El Libro de Urantia_ podemos leer: “Es la presencia de los siete espíritus mentales ayudantes en los mundos primitivos lo que condiciona el curso de la evolución orgánica; esto explica por qué la evolución es **premeditada y no accidental**” ( [LU 36:5.1](/es/The_Urantia_Book/36#p5_1) ).
@@ -40,3 +64,28 @@ Sin embargo, esta experiencia revela una consecuencia prodigiosa: gracias a los 
 
 ***Roberto Gallo***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siguiendo el fenómeno Personalidad-Poder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

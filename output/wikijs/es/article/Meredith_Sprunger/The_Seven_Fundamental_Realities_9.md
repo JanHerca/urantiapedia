@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Meredith J. Sprunger<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_17_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°17 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="pr-2">Sabias palabras (Khalil Gibran)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 6. Métodos de crecimiento: transformación y adaptación
@@ -44,3 +68,28 @@ Meredith J. Sprunger
 <img src="/image/article/Le_Lien/images_01/189.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_17_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°17 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="pr-2">Sabias palabras (Khalil Gibran)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

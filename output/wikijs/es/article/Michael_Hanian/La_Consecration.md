@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1996 Michael Hanian<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de traductores del Libro de URANTIA organizada por la Fundación UrANTIA en PARÍS en abril de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -71,3 +92,25 @@ Nos hemos interesado, durante los últimos veinte minutos, en la consagración. 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de traductores del Libro de URANTIA organizada por la Fundación UrANTIA en PARÍS en abril de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

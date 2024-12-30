@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Samuel Heine<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Papeles Rodán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hola a todos, compañeros estudiantes lectores del Libro de Urantia y a todos aquellos vivamente consagrados a Dios. Quería hacer este pequeño intercambio para expresar hasta qué punto la naturaleza del medio ambiente, que incluye minerales, plantas y animales, es de capital importancia para la supervivencia humana.
@@ -43,3 +67,28 @@ Como decía un amante de la naturaleza: Feliz aquel que, al anochecer, tumbado e
 
 Samuel Heine
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Papeles Rodán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

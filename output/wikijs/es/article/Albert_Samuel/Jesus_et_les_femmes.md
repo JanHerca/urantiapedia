@@ -1,5 +1,5 @@
 ---
-title: "jesus y las mujeres"
+title: "Jesus y las mujeres"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Albert Samuel<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Eloge_de_la_femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alabanza de la mujer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="pr-2">El regreso de la diosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En cuanto a la actitud de Jesús hacia las mujeres, es tan insólita, tan sorprendente e incluso escandalosa, que los discípulos se quedaron asombrados: “¿Cómo”, se decían, “puede hablar con una mujer?” o “¿Cómo puede dejarse tocar por un pecador?”
@@ -25,3 +49,28 @@ En “Mujeres y religiones”, Les éditions de l’Atelier,
 
 Alberto Samuel
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Eloge_de_la_femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alabanza de la mujer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="pr-2">El regreso de la diosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

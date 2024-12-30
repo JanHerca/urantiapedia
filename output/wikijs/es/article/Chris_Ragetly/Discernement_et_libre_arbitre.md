@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Conscience_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia Cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="pr-2">Puentes, pasarelas y escaleras de cuerda.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cuántas veces no hemos escuchado esta reflexión: "Estoy muy decepcionado, hablo del _Libro de Urantia_, de mis experiencias espirituales, doy _Los libros de Urantia_, y todo esto es un completo desperdicio, toda esta gente simplemente no está interesada. » Ésta es la queja que se escucha una y otra vez de los nuevos lectores de El libro de Urantia. ¿Quién de nosotros no lo ha experimentado? ¿Quién no quería desafiar al mundo entero?
@@ -23,3 +47,28 @@ Después del nacimiento del alma, que tiene lugar simultáneamente con la llegad
 
 Chris M. Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Conscience_cosmique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia Cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="pr-2">Puentes, pasarelas y escaleras de cuerda.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

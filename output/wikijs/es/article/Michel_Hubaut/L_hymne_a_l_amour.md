@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Michel Hubaut<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una asamblea maravillosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">El Universo y la Naturaleza, un mecanismo de leyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es evidente que, en sus Cartas, **Pablo** demuestra una preocupación constante por la calidad de las relaciones fraternas dentro de cada comunidad. Siguiendo el ejemplo del mismo Cristo, que pone en el centro de su enseñanza el “amor a Dios y a los demás”, Pablo repite a menudo que el amor, vivido concretamente, resume y contiene todos los demás preceptos de la vida cristiana. Porque toda la ley encuentra su cumplimiento en esta única palabra: “Amarás a tu prójimo como a ti mismo” ([Ga 5,14](/es/Bible/Galatians/5#v14)). _No tengáis deudas con nadie excepto la del amor mutuo Porque el que ama a los demás ha cumplido plenamente la Ley. El amor no hace daño al prójimo. El amor es, pues, el cumplimiento pleno de la Ley_ ([Rm 13,8-10](/es/Bible/Romans/1#v8)).
@@ -49,3 +73,28 @@ _Según “Tras las huellas de San Pablo”, Guía histórica y espiritual c/Des
 
 Michel Hubaut
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una asamblea maravillosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">El Universo y la Naturaleza, un mecanismo de leyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

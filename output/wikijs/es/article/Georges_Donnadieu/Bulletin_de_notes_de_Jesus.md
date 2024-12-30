@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Georges Donnadieu<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="pr-2">En la luz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jesús, interno en el colegio Saint Philippe, regresa a Nazaret con su boleta de calificaciones del segundo trimestre.
@@ -41,3 +65,28 @@ José dice que esto realmente no puede durar: “¡Bueno, Jesús mío, puedes re
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="pr-2">En la luz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">¿Qué pasa después de la muerte?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El lado maravilloso de la vida que se nos ofrece es que somos libres tanto de unir como de desunir, y de darnos cuenta siempre que, en definitiva, por ser piramidal la organización cósmica de Dios, todo lo que es unión tiende hacia el Creador, hacia el Padre, hacia la cumbre, mientras que todo lo que es desunión implica la necesidad de nuevos esfuerzos futuros para volver a unirnos o despojarnos definitivamente del proyecto divino. De hecho, parece que nunca podremos progresar espiritualmente si dejamos atrás enemistades fundamentales de las que no podemos regresar. Jesús nos invitó a amar incluso a nuestros enemigos, no teniendo, en verdad, ningún mérito amar sólo a quienes nos aman. El ejemplo magistral de esto nos lo da el Libro de Urantia.
@@ -31,3 +55,28 @@ Este es el surgimiento primordial en el que Jesús nos invitó a todos a partici
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">¿Qué pasa después de la muerte?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

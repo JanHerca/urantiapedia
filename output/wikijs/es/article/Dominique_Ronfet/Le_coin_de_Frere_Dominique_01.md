@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Dominique Ronfet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabiduría espiritual y conocimiento genético.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Genese">
+          <span class="pr-2">Génesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Un rincón, como un espacio íntimo, un lugar de encuentro con amigos, un espacio de testimonio.***
@@ -43,3 +67,28 @@ Eso es todo por hoy.
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabiduría espiritual y conocimiento genético.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Genese">
+          <span class="pr-2">Génesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

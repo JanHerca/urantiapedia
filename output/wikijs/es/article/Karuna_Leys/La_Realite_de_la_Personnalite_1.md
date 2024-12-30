@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Karuna Leys<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nacido del espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="pr-2">Las causas, los efectos.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción
@@ -68,3 +92,28 @@ Por lo tanto, gracias a que hemos recibido la razón, captamos la abstracción d
 
 Karuna Leys
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nacido del espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="pr-2">Las causas, los efectos.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

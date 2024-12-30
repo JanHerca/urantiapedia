@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François y el caballito de mar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Pronombres indefinidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La mayoría de los participantes llegaron el jueves por la tarde, donde una excelente comida confirmó directamente la acogida seria y cálida que estábamos acostumbrados a experimentar en reuniones anteriores.
@@ -51,3 +75,28 @@ Fraternalmente.
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François y el caballito de mar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Pronombres indefinidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

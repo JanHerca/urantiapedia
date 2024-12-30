@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Cyril Cosette<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="pr-2">Traducción de El libro de Urantia: situación actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ##JULLOUVILLE 1977
@@ -121,3 +145,28 @@ Los lectores del Libro de Urantia guardaron unos minutos de silencio antes de em
 
 ***Cirilo Cosette***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="pr-2">Traducción de El libro de Urantia: situación actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "belleza"
+title: "Belleza"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Le_grand_defi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gran desafío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-30-verano-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 30 — Verano 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="pr-2">De la materia al Espíritu vía la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _La belleza suprema, cúspide del arte acabado, es la unificación épica de la inmensidad de los extremos cósmicos, Creador y criatura._
@@ -33,3 +57,28 @@ Un rayo de luz viene de la tierra; Atravesando la bóveda celeste, traza el cami
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Le_grand_defi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El gran desafío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-30-verano-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 30 — Verano 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="pr-2">De la materia al Espíritu vía la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

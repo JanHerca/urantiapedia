@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2020 Patrice Monsigny<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Etudier_La_Revelation_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estudiar el Apocalipsis para saber qué hacer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="pr-2">Un universo sin big bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aquí hay una pregunta interesante de nuestro amigo Patrice Monsigny publicada en el foro AFLLU que entregamos a la sagacidad de los lectores: Sus comentarios o respuestas razonadas son bienvenidos a la redacción, podrían publicarse en su próximo ENLACE.
@@ -49,3 +73,28 @@ amistad fraternal
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Etudier_La_Revelation_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estudiar el Apocalipsis para saber qué hacer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="pr-2">Un universo sin big bang</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

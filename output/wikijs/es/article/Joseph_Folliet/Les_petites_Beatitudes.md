@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Joseph Folliet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago, Paul y lo eterno femenino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="pr-2">Simposio de Chicago 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **“Para el humor de Dios”**
@@ -40,3 +64,28 @@ Bienaventurados especialmente vosotros que sabéis reconocer al Señor en todos 
 
 jose folliet 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Chicago_Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago, Paul y lo eterno femenino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="pr-2">Simposio de Chicago 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Meredith J. Sprunger<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°18 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite_2">
+          <span class="pr-2">La deidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 7. Acciones fundamentales: Amor fraternal, trabajo creativo y realización en el servicio
@@ -43,3 +67,28 @@ La ayuda y el servicio de apoyo son los principales objetivos de la psicología 
 
 Meredith J. Sprunger
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°18 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite_2">
+          <span class="pr-2">La deidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

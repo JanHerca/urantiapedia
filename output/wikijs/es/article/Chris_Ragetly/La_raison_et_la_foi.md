@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Devenir_ce_que_JE_SUIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conviértete en lo que SOY</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Jugement_hatif">
+          <span class="pr-2">Juicio apresurado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La razón, el razonamiento, proviene de la mente. La fe puede manifestarse tanto a nivel mental como espiritual. “_...La razón crea la probabilidad de que la fe pueda transformarse en certeza moral, e incluso en experiencia espiritual..._” ([LU 102:6.6](/es/The_Urantia_Book/102#p6_6)). Esta función o deberíamos decir esta posibilidad de transformar una probabilidad (siempre que sea compatible con el razonamiento divino del Ajustador) en certeza moral o incluso en experiencia espiritual, es uno de los canales que permite que nuestra experiencia evolutiva espiritual progrese.
@@ -25,3 +49,28 @@ Pero no nos engañemos, los esfuerzos que Dios nos pedirá hacer siempre estará
 
 Cris. Sr. Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Devenir_ce_que_JE_SUIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conviértete en lo que SOY</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Jugement_hatif">
+          <span class="pr-2">Juicio apresurado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

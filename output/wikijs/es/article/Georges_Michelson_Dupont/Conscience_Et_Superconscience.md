@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Terre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Muy a menudo leemos que nuestro Ajustador del Pensamiento trabaja para espiritualizarnos sin que seamos conscientes de ello.
@@ -61,3 +82,25 @@ En los mundos educativos de los superuniversos y en Havona, se manifiesta, por t
 
 > «Puedo contar otro hecho interesante: Cuando un Mensajero Solitario se encuentra en un planeta cuyos habitantes han recibido Ajustadores del Pensamiento, como sucede en Urantia, es consciente de una excitación cualitativa en su sensibilidad detectora de presencias espirituales. En estos casos no se produce una excitación cuantitativa, sino sólo una agitación cualitativa. Cuando se encuentra en un planeta donde no vienen los Ajustadores, su contacto con los nativos no produce este tipo de reacción. Esto sugiere que los Ajustadores del Pensamiento están conectados o relacionados de alguna manera con los Espíritus Inspirados de la Trinidad del Paraíso. Es posible que estén asociados de alguna forma en ciertas fases de su trabajo, pero no lo sabemos realmente. Los dos tienen su origen cerca del centro y la fuente de todas las cosas, pero no pertenecen a la misma orden de seres. Los Ajustadores del Pensamiento surgen del Padre exclusivamente; los Espíritus Inspirados son los descendientes de la Trinidad del Paraíso.» ([LU 19:5.6](/es/The_Urantia_Book/19#p5_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Terre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

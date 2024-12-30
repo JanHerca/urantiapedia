@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Dominique Ronfet<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Progreso a través de la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="pr-2">Una visión global</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dominique Ronfet
@@ -90,3 +114,28 @@ Prométemelo<br>
 
 > «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión. La realidad es finita en el nivel humano, y es infinita y eterna en los niveles superiores y divinos.» ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Progreso a través de la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="pr-2">Una visión global</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

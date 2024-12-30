@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué son los “agujeros negros”?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Pensamientos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Pero todos aquellos que lo reciban serán iluminados, purificados y consolados._
@@ -69,3 +93,28 @@ Es muy difícil para un ser humano hablar de bondad, porque sólo puede hacerlo 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué son los “agujeros negros”?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Pensamientos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la incompletitud divina a la aventura humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="pr-2">La Fundación Comunica: El futuro de Urantia: Elementos para la reflexión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Claude Flibotte
@@ -84,3 +108,28 @@ Nuestro planeta ya se ha beneficiado de más de una intervención fuera de las n
 
 **¡Te dejaré reflexionar sobre esta pregunta!**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la incompletitud divina a la aventura humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="pr-2">La Fundación Comunica: El futuro de Urantia: Elementos para la reflexión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

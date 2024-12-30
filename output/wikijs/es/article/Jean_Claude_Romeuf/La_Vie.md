@@ -1,5 +1,5 @@
 ---
-title: "la vida"
+title: "La vida"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_32">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean-Claude Romeuf
@@ -153,3 +177,28 @@ En agradecimiento a la naturaleza:
 ***Como una flor llevada por el viento, Ella zigzaguea hacia Dios.***
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_32">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

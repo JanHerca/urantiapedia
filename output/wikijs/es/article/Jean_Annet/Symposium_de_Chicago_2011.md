@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Jean Annet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas bienaventuranzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Maxien Quiz n°7 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En julio pasado, Isabelle y yo fuimos al Simposio de Liderazgo en Chicago. Además del Simposio en sí, hubo un «antes» y un «después» que no quisiera pasar en silencio, por ser muy ricos y fructíferos.
@@ -29,3 +53,28 @@ Creo que este primer Simposio será un hito en la historia de la IUA. Llamará a
 
 Jean-Annet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas bienaventuranzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Maxien Quiz n°7 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

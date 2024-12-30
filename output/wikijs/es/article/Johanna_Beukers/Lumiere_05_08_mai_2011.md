@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Johanna Beukers<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tras los pasos de Pablo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°6 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al llegar temprano el jueves a la abadía de **Notre Dame de Lumières** en Goult para aprovechar al máximo este hermoso sitio, encontramos al mismo jefe amable y acogedor que antes. Por la tarde llegaron dos tercios de los participantes de distintas regiones de Francia y Suiza. 22 lectores se reunieron después de la comida para conocerse, ya que algunos lectores nuevos se unieron a esta reunión.
@@ -43,3 +67,28 @@ Agradecemos a los organizadores que se dedicaron a hacer de este encuentro un é
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tras los pasos de Pablo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°6 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

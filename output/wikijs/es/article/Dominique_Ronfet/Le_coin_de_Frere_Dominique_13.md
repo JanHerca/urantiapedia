@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Dominique Ronfet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°6 Las respuestas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - ¿Sabías que un compositor de música del siglo XIX, Gustav MAHLER, dividió su octava sinfonía en 2 partes? Tomando como textos cantados por un lado el Veni Creator Spiritus, himno religioso latino del siglo IX y extracto de la escena final del Fausto de Goethe con su Eterno Femenino.
@@ -48,3 +69,25 @@ Nos atrae hacia arriba. »<br>
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°6 Las respuestas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Joseph Le Dain y Séverin Desbuisson<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Surgimiento y propósito de la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -67,3 +88,25 @@ Estos dos encuentros nos parecieron beneficiosos tanto por la riqueza de los dis
 
 José y Severin.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Surgimiento y propósito de la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

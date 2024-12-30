@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reencarnación, ¿verdad o superstición?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Doute">
+          <span class="pr-2">Duda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos nos hemos enfrentado a la duda. ¿Qué papel juega la duda en el Libro de Urantia? La palabra se encuentra 110 veces en singular y 43 veces en plural y hay alrededor de treinta apariciones de palabras derivadas.
@@ -88,3 +112,28 @@ El segundo es más general:
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reencarnación, ¿verdad o superstición?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Doute">
+          <span class="pr-2">Duda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

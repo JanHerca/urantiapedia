@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Chris Ragetly<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="pr-2">Maxien Quiz n°19 Preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para los mortales, existen varios tipos de resurrecciones y técnicas de escape terrestre, esto es lo que dice el Libro de Urantia:
@@ -66,3 +90,28 @@ Chris Ragetly
 <figcaption>Fig. 3. — cadena</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="pr-2">Maxien Quiz n°19 Preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Jean Royer<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Comprendre_son_prochain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entendiendo a tu prójimo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="pr-2">De la materia al espíritu a través de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción :
@@ -453,3 +477,28 @@ El 99% de este ensayo es una recopilación del _Libro de Urantia_, poco más he 
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Comprendre_son_prochain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entendiendo a tu prójimo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/De_la_matiere_a_l_esprit_en_passant_par_le_mental">
+          <span class="pr-2">De la materia al espíritu a través de la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Karuna Leys<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Despertado a la plenitud de la vida.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La capacidad de abstraer (razonar) también nos permite imaginar cosas en el **futuro**, ¡en un tiempo que aún no existe! Por eso los hombres podemos preocuparnos por el destino de las generaciones que vivirán después de nosotros y podemos emprender cosas cuyos resultados se realizarán en un tiempo lejano. Los animales no pueden hacer eso. Sólo un ser al que se le da razón puede reflexionar sobre algo que va a suceder mucho antes de que suceda. Puede imaginar diferentes escenarios y pensar en diferentes medios para lograr su objetivo. También puede reflexionar sobre el valor de este objetivo. ¿El objetivo realmente tiene valor? ¿Vale la pena? Por tanto, puede reflexionar sobre la utilidad. ¿Será esto de alguna utilidad? Cuando un hombre no reflexiona sobre el propósito y la utilidad de sus esfuerzos, vive al nivel de los animales.
@@ -33,3 +57,28 @@ Cuando nuestro hijo comienza a ejercitar y experimentar su libre albedrío, de h
 
 Karuna Leys
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Despertado a la plenitud de la vida.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

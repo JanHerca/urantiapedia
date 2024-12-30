@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los viajes de Jesús antes de su ministerio público</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Les_Apparitions_De_Jesus">
+          <span class="pr-2">Las apariciones de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -250,3 +274,28 @@ Un corredor de Betania llega a Filadelfia con el mensaje de que Lázaro está al
 - Jueves 7:30 a.m. En el Monte de los Olivos, Jesús inicia el ascenso a la derecha de su Padre. Ha hecho diecinueve apariciones en cuarenta días y forma parte de la experiencia personal de casi mil seres humanos: pero ni uno solo entre sus enemigos.
 - 13:00 horas El Espíritu de la Verdad, el Consolador, es otorgado al mundo en Pentecostés.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los viajes de Jesús antes de su ministerio público</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Les_Apparitions_De_Jesus">
+          <span class="pr-2">Las apariciones de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

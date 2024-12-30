@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Myriam Delcroix<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio: Bodas de Diamante o la filosofía sonriente de octogenarios serenos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p estilo=«text-align:centro»>
@@ -39,3 +60,25 @@ Llego a casa, ya no tengo frío, el silencio me habló.</p>
 
 Myriam Del Croix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio: Bodas de Diamante o la filosofía sonriente de octogenarios serenos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabias palabras (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">El proyecto de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La versión española de **Wikipedia**, en el artículo **El Libro de Urantia** da una docena de puntos científicos que, según afirma, la ciencia ha demostrado que son falsos.
@@ -45,3 +69,28 @@ A esta información falsa añadiría otra leyenda que sigue floreciendo en Inter
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabias palabras (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">El proyecto de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

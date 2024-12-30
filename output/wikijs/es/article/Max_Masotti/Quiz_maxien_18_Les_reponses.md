@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Causas, efectos V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_24">
+          <span class="pr-2">El rincón del hermano pequeño Dom ¡La pregunta!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Urantia**
@@ -81,3 +105,28 @@ dateCreated: 2024-10-19T15:5:2Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Causas, efectos V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_24">
+          <span class="pr-2">El rincón del hermano pequeño Dom ¡La pregunta!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

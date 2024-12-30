@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Ivan Stol<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Lumieres_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luces 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="pr-2">Conferencia de Urantia en Uganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_19" class="image urantiapedia">
@@ -96,3 +120,28 @@ _Compartiendo el pensamiento de Ivan Stol, en toda Fraternidad_
 > Religiones: La religión principal en Uganda es el cristianismo, principalmente católicos y anglicanos, con una minoría musulmana.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Lumieres_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luces 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="pr-2">Conferencia de Urantia en Uganda 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor, Gratitud y Luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="pr-2">Maxien Quiz n°15 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 6\. ... Desde hace un siglo hemos sufrido, sin realmente darnos cuenta, una notable transformación en el orden intelectual. Descubrir, conocer, siempre había sido una tendencia profunda de nuestra naturaleza. ¿No lo reconocemos ya en El Cavernícola? Pero no fue hasta ayer que esta necesidad esencial de saber se hizo explícita y se transformó en una función vital autónoma, tomando precedencia en nuestras vidas sobre la preocupación por comer y beber. Pues bien, si no me equivoco, este fenómeno de individualización de nuestras funciones psicológicas superiores, no sólo está lejos de haber alcanzado sus límites en el campo del pensamiento puro, sino que también tiende a extenderse a un dominio vecino, que permanece prácticamente informe e inexplorado. : la “terra ignota” de los poderes afectivos y del amor.
@@ -70,3 +94,28 @@ Teilhard de Chardin
 <figcaption>¡Dedica todo tu tiempo a darte cuenta de que Luz, todo es luz y vuelve a ser luz!</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor, Gratitud y Luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="pr-2">Maxien Quiz n°15 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

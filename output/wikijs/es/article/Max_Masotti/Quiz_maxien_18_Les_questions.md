@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios de la filosofía hindú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="pr-2">Las siete realidades fundamentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Urantia**
@@ -44,3 +68,28 @@ Max Masotti
 <figcaption>¡Solo acepto ideas de abundancia, armonía y plenitud!</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principios de la filosofía hindú</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="pr-2">Las siete realidades fundamentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

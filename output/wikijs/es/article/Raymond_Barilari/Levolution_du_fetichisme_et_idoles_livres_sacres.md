@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Raymond Barilari<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Le_processus_didentification">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proceso de identificación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="pr-2">¿Quién era Jesús? (2da parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Folleto 88.2**
@@ -91,3 +115,28 @@ EL EDITOR DE LA CITA. Transmitir la era del hombre
 
 Raymond Barilari
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Le_processus_didentification">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proceso de identificación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="pr-2">¿Quién era Jesús? (2da parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

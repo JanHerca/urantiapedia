@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Meredith J. Sprunger<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_11_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°11 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="pr-2">San Felipe Neri</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 6. Realidades temporales personales: nuestro cuerpo material y nuestro cerebro-mente material
@@ -67,3 +91,28 @@ Meredith J. Sprunger
 <figcaption>“Déjate llevar…” Jean-Claude Marot</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_11_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°11 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="pr-2">San Felipe Neri</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

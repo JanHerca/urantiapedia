@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Thierry Lepage<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Volver a dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">A ti Padre Universal, A ti Madre Suprema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Thierry Lepage
@@ -61,3 +85,28 @@ Me dedico a amar y servir a mis hermanos.
 
 Estoy dedicado a establecer el Reino de los Cielos en la tierra.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Volver a dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">A ti Padre Universal, A ti Madre Suprema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

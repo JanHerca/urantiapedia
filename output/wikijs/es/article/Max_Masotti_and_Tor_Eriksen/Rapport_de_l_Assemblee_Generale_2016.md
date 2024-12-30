@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Max Masotti y Tor Eriksen<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro Nacional de Chalès</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">Simposio Científico 2016 en Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## INTRODUCCIÓN
@@ -182,3 +206,28 @@ Realmente no sé qué hay que hacer para aumentar el tráfico a nuestros sitios 
 > Debido a los días festivos de julio y agosto, la cuenta operativa y el balance de la asociación aún no habían sido formateados a la fecha de publicación de este ENLACE. Estarán disponibles en el próximo número.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro Nacional de Chalès</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">Simposio Científico 2016 en Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

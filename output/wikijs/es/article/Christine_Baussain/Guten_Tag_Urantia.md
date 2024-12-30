@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Christine Baussain<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ego y el yo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Tú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los días 8 y 9 de noviembre de 2008, en Frankfurt am Main, Alemania, tuvo lugar el segundo encuentro de lectores alemanes del _Libro de Urantia_.
@@ -35,3 +59,28 @@ Para los germanistas interesados en participar en el próximo encuentro, éste t
 
 Cristina Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ego y el yo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Tú</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

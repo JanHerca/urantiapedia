@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 David Elders<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">En busca del más allá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 David Ancianos
@@ -119,3 +143,28 @@ En tal contexto, la escuela de la UBIS fue diseñada para utilizar la pedagogía
 
 Durante sus 20 años de existencia, más de 30 TF de la UBIS capacitados han presentado cursos en zoológicos en inglés y otros 70 cursos más recientemente en francés, español y portugués. La UBIS utiliza Moodle, una plataforma digital en línea utilizada por millones de estudiantes universitarios en todo el mundo, para presentar sus cursos a lo largo de tres semestres.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">En busca del más allá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

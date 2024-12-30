@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-83-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 83 — Septiembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="pr-2">Oración en forma de poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El contenido del _Libro de Urantia_ es totalmente diferente a cualquier otra enseñanza, es _intelectual_ por el suministro de nueva información, olvidada o faltante en nuestro planeta, _moroncial_ por la presentación de nuevos conceptos sobre la Deidad y organización del universo, y _espiritual_ por una Presentación renovada de la verdad a lo largo del libro y de la vida y enseñanzas de Jesús. Los autores han reunido en un libro de más de 2.100 páginas una colección de 197 fascículos organizados lógicamente de lo trascendente a lo inmanente, presentados como cursos que tratan cada vez de temas independientes pero vinculados que forman un gigantesco rompecabezas.
@@ -258,3 +282,28 @@ Este proceso de “lectura-preguntas-compartición”, hábilmente organizado en
 
 Al final del grupo de estudio, se dedica media hora a la autoevaluación durante la cual los participantes comparten su experiencia de la sesión, hablan de sus avances y expresan su gratitud por la asistencia espiritual recibida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Reunion_Annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-83-septiembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 83 — Septiembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="pr-2">Oración en forma de poema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

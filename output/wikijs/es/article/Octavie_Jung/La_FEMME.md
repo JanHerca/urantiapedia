@@ -1,5 +1,5 @@
 ---
-title: "la MUJER"
+title: "La MUJER"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Octavie Jung<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro azul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="pr-2">El año 1955, el Libro de Urantia….y el poeta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Origen, camino, desenlace....
@@ -160,3 +184,28 @@ Reunirlos por su honor y su felicidad...
 
 Octavia Jung
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro azul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="pr-2">El año 1955, el Libro de Urantia….y el poeta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Dominique Ronfet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intentos de explicar el concepto de verdad viva.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="pr-2">¿Adorar a Dios? una invitación a viajar fuera del espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El capítulo “La oración y el alter ego” (Fasc. 91 Cap. 3) nos abre algunas puertas sobre los modos de funcionamiento de la psicología humana.
@@ -74,6 +98,31 @@ No hay duda de que este camino de intercambio/revelación continuará mucho desp
 Dominique Ronfet
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intentos de explicar el concepto de verdad viva.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="pr-2">¿Adorar a Dios? una invitación a viajar fuera del espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Comentarios
 

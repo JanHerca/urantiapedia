@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Notre_Aventure_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra Aventura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -46,3 +67,25 @@ Esperando para muchos de vosotros este encuentro fraternal vinculado a las ense�
 
 Los organizadores Max e Ivan.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Notre_Aventure_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra Aventura</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

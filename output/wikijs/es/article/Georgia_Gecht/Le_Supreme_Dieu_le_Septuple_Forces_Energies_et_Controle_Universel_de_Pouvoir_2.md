@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Georgia Gecht<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Están los años urantianos y...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/Art_et_temoignages">
+          <span class="pr-2">Arte y testimonios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Siguiendo el Enlace 19, aquí están las 30 preguntas restantes:
@@ -113,3 +137,28 @@ Por Georgia Gecht
 Santa Mónica, California, 1968
 Traducción de Chris y Nicole Ragetly, agosto de 2001.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Il_y_a_les_annees_urantiennes_et">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Están los años urantianos y...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/Art_et_temoignages">
+          <span class="pr-2">Arte y testimonios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

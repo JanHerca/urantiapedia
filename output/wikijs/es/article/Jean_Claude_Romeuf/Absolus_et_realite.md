@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1998 Jean-Claude Romeuf<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué pasa después de la muerte?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una de las grandes tragedias intelectuales de la aventura humana es no saber cuál de las gallinas o cuál de los huevos apareció primero. Ésta es la pregunta que intentaremos responder. Para ello son posibles varios caminos de pensamiento y aunque parezcan opuestos, no son contradictorios.
@@ -65,3 +86,25 @@ La Gran Causa Primera es amada y respetada en toda la inmensa creación como Pad
 
 Al final de estos vagabundeos intelectuales, ahora todos pueden tener una idea de la primera aparición del huevo o de la gallina. Por mi parte, mi opinión está formada desde hace mucho tiempo. Como siempre he tenido una preferencia emocional mucho más pronunciada por las gallinas que por los huevos, prefiero creer que fue la gallina la que hizo primero el huevo y no al revés.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué pasa después de la muerte?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

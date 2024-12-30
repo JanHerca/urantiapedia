@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Patrick Morelli<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/L_univers_Est_La_Le_Hasard_Ny_Est_Pour_Rien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo está ahí, el azar no tiene nada que ver con él.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="pr-2">Preguntas sobre Dios Séptuple y otras definiciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El término tensión en singular y plural se utiliza en 25 párrafos, además de significados como tensión nerviosa, psicológica o de otro tipo.
@@ -73,3 +97,28 @@ El retorno a la fuente creativa de toda realidad proyectada a lo largo del espac
 
 Patricio Morelli
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/L_univers_Est_La_Le_Hasard_Ny_Est_Pour_Rien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo está ahí, el azar no tiene nada que ver con él.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="pr-2">Preguntas sobre Dios Séptuple y otras definiciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

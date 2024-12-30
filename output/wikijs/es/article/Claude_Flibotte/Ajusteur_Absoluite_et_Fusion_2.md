@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Temoignages">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="pr-2">La casa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Claude Flibotte — Sainte-Julie (Québec)
@@ -60,3 +84,28 @@ En la definición del nivel absoluto relatada en 0:1.13, está escrito que el ni
 
 Por lo tanto, ¡tanto las Deidades derivadas que son el Ser Supremo, Dios Último y Dios Absoluto ([LU 0:12.3](/es/The_Urantia_Book/0#p12_3)) como las criaturas son ganadores a través de este proceso!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Temoignages">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="pr-2">La casa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

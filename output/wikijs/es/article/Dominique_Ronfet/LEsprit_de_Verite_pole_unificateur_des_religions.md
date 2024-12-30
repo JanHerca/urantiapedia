@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 Dominique Ronfet<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Coherencia o principio de evanescencia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personalidad, Identidad, Divinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La búsqueda de la verdad, la búsqueda del propio despertar, sólo puede realizarse por etapas.
@@ -62,3 +86,28 @@ _La criatura no sabe nada de la divinidad. Los caminos del intelecto ordinario n
 Dominique Ronfet
 dominique.ronfet@hol.fr
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Coherencia o principio de evanescencia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personalidad, Identidad, Divinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

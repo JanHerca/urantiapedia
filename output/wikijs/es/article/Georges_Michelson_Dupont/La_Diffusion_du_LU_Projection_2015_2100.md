@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción de El libro de Urantia: situación actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El interés de los franceses en la difusión de las Enseñanzas del Libro de Urantia en todo el mundo.
@@ -102,3 +126,28 @@ Todos estos acontecimientos muestran que existe un plan general y una organizaci
 
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción de El libro de Urantia: situación actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

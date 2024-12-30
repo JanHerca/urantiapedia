@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 René Haldi<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suresnes 21-23 noviembre 08</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Une_journee_a_Suresnes">
+          <span class="pr-2">Un día en Suresnes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ### Un tiempo para todo
@@ -79,3 +103,28 @@ Mi alma se llenará de bendiciones.<br>
 
 René Haldi
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Suresnes 21-23 noviembre 08</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Une_journee_a_Suresnes">
+          <span class="pr-2">Un día en Suresnes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

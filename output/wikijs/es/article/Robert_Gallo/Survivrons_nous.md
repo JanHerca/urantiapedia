@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Robert Gallo<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Conte_des_trois_penseurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuento de los tres pensadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Duvau/Repersonnalisation">
+          <span class="pr-2">Repersonalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Por Robert Gallo)
@@ -55,3 +79,28 @@ Ya sea que seamos bendecidos o malditos, iremos...
 
 > «En la experiencia interior del hombre, la mente está unida a la materia. Estas mentes vinculadas a la materia no pueden sobrevivir a la muerte física. La técnica de la supervivencia está incluida en aquellos ajustes de la voluntad humana y en aquellas transformaciones en la mente mortal mediante los cuales ese intelecto consciente de Dios se deja enseñar gradualmente por el espíritu y se deja conducir finalmente por él. Esta evolución de la mente humana desde la asociación con la materia hasta la unión con el espíritu tiene como resultado la transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal. La mente mortal subordinada a la materia está destinada a volverse cada vez más material y, en consecuencia, a sufrir la extinción final de la personalidad; la mente sometida al espíritu está destinada a volverse cada vez más espiritual y a alcanzar finalmente la unidad con el espíritu divino que sobrevive y la guía, consiguiendo de esta manera la supervivencia y la existencia eterna de la personalidad.» ([[LU 1:3.7](/es/The_Urantia_Book/1#p3_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Conte_des_trois_penseurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuento de los tres pensadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Duvau/Repersonnalisation">
+          <span class="pr-2">Repersonalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

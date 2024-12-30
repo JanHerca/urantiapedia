@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las siete realidades fundamentales IX</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="pr-2">LU y la ciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El pensamiento es un pájaro del espacio que en la jaula de las palabras sabrá quizás extender sus alas, pero no volar.
@@ -69,3 +93,28 @@ Las flores de la primavera son los sueños del invierno contados por la mañana 
 
 Khalil Gibrán
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las siete realidades fundamentales IX</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="pr-2">LU y la ciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

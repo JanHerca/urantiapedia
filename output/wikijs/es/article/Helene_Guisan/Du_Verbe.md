@@ -1,5 +1,5 @@
 ---
-title: "de la palabra"
+title: "De la palabra"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Hélène Guisan<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Liswen_Delval/Amour">
+          <span class="pr-2">Amar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “Oh alegría incontenible que quiere brotar y extenderse como una risa bienaventurada, estallido de savia, exaltación de un río, clamor de aleluya:
@@ -31,3 +55,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Hélène Guisan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Tolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Liswen_Delval/Amour">
+          <span class="pr-2">Amar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

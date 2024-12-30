@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz 4-06 de mayo de 2011 (01)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="pr-2">Revisión teosófica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al Creador le tomó seis largos días de trabajo ininterrumpido crear a la mujer. Durante sus labores, se le apareció un ángel y le dijo: “¿Por qué dedicas tanto tiempo a esto, Dios mío?”
@@ -43,3 +67,28 @@ Y entonces el Creador vio que era bueno.
 
 Autor desconocido
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz 4-06 de mayo de 2011 (01)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marie_Agnes_Lambert/Revue_Theosophique">
+          <span class="pr-2">Revisión teosófica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

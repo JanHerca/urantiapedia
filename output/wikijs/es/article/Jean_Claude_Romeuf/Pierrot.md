@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Jean-Claude Romeuf<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los circuitos de los espíritus mentales ayudantes.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">Historia del movimiento francófono en Europa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Antes de contar esta historia me viene a la mente la melodía y letra de una magnífica canción sevillana llamada El Amigo. Cada vez que un amigo fallece deja mucha tristeza y vacío. Entonces, cuando estemos cerca de él en sus últimas horas, nos gustaría retenerlo un poco más, solo un ratito. La canción dice en español: «No te vayas todavía, espera a que mi guitarra llore diciendo adiós».
@@ -41,3 +65,28 @@ Bonabo 6 de febrero de 2016
 
 ***Jean-Claude Romeuf***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los circuitos de los espíritus mentales ayudantes.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">Historia del movimiento francófono en Europa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

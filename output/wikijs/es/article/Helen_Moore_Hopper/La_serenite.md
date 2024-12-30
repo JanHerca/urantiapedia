@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Helen Moore Hopper<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Felicidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Amor y respeto por la vida.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay un estado de ánimo que sin duda nos ayudará a recibir la respuesta a nuestras oraciones. Cualquiera que sea el problema que se nos presente, por muy grande que sea nuestra necesidad, por urgente, por apremiante, por desesperada que parezca la situación, la serenidad será una ayuda inmediata para nosotros. La serenidad es silencio y calma escuchando la voz de Dios, con exclusión de todos los demás. La serenidad no es un estado mental estático e inactivo. Es un estado de tranquilidad basado en la fe absoluta en Dios, en Dios que está dentro de nosotros.
@@ -33,3 +57,28 @@ Recordemos que Dios es nuestra VIDA. En serenidad. Escuchemos Su Voz para seguir
 
 Helen Moore Hopper 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Felicidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Amor y respeto por la vida.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

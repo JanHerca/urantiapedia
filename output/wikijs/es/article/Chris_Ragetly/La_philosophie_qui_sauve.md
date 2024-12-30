@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°2 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francoise_Burniat/L_attitude_de_Jesus_envers_les_femmes">
+          <span class="pr-2">La actitud de Jesús hacia las mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _El Padre desea que todas sus criaturas estén en comunión personal con él. Tiene un lugar en el Paraíso para recibir a todos aquellos cuyo estado de supervivencia y cuya naturaleza espiritual hagan posible esta consecución. Por lo tanto, inscribid en vuestra filosofía, ahora y para siempre, que: para cada uno de vosotros y para todos nosotros, Dios es accesible, el Padre es alcanzable, el camino está abierto; las fuerzas del amor divino y los medios de la administración divina están todos entrelazados en un esfuerzo por facilitar el progreso de todas las inteligencias dignas de todos los universos hasta la presencia del Padre Universal en el Paraíso._ ([LU 5:1.8](/es/The_Urantia_Book/5#p1_8))
@@ -27,3 +51,28 @@ Tener la oportunidad de comulgar ahora con el espíritu de otorgamiento del Padr
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_02_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°2 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francoise_Burniat/L_attitude_de_Jesus_envers_les_femmes">
+          <span class="pr-2">La actitud de Jesús hacia las mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

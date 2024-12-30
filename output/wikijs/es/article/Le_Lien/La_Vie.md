@@ -1,5 +1,5 @@
 ---
-title: "la vida"
+title: "La vida"
 description: 
 published: true
 date: 2024-10-17T22:23:59Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/La_Puissance_de_l_Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Temple_du_Lotus">
+          <span class="pr-2">El templo del loto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Que la dulzura de la amistad esté hecha de risas y placeres compartidos.
@@ -53,3 +77,28 @@ Tu amigo es la respuesta a tus deseos.
 
 Khalil Gibrán
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/La_Puissance_de_l_Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Temple_du_Lotus">
+          <span class="pr-2">El templo del loto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

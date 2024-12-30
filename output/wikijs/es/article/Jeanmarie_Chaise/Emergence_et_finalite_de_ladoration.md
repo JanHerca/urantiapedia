@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y los niños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">Informe de las conferencias de la IUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Qué es la fusión personal con el Ajustador)
@@ -45,3 +69,28 @@ El significado de la adoración debe entenderse como la meta, como la finalidad 
 
 Silla Jean-Marie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y los niños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">Informe de las conferencias de la IUA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

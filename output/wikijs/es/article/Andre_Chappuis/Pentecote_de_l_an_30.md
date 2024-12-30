@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 André Chappuis<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_l_absolu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios el absoluto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Limpossible_dialogue_avec_des_fondamentalistes">
+          <span class="pr-2">El diálogo imposible con los fundamentalistas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Respuesta a la pregunta de Jeanmarie Chaise publicada en Lien Nº 11[^1], y a la segunda parte de “Juicio apresurado” de Jean Royer de Lien Nº 32.
@@ -61,3 +85,28 @@ En cuanto a la primera parte del artículo del Sr. Royer, 5000 años es un error
 
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_l_absolu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios el absoluto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Limpossible_dialogue_avec_des_fondamentalistes">
+          <span class="pr-2">El diálogo imposible con los fundamentalistas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

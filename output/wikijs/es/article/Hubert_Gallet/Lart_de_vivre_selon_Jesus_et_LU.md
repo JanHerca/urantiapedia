@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Hubert Gallet<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Carolyn_Kendall_parle_dhistoire_le_facteur_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carolyn Kendall habla de historia The Time Postman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="pr-2">El Factor 100 o los 757.575 años que nos separan (quizás) del Paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Este texto es un resumen del discurso presentado el 9 de agosto de 2003 en el Congreso Urantia de Canadá, e intenta dar, basándose en la Vida de Jesús del Libro de Urantia, **un manual de instrucciones para la vida**, conciliador de nuestra sed. para lo espiritual con nuestras limitaciones materiales.
@@ -83,3 +107,28 @@ Y podríamos decir, en resumen, que la aplicación de su enseñanza al nivel de 
 
 Hubert Gallet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Carolyn_Kendall_parle_dhistoire_le_facteur_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carolyn Kendall habla de historia The Time Postman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="pr-2">El Factor 100 o los 757.575 años que nos separan (quizás) del Paraíso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

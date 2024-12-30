@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 André Desjardins<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escape terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Y_a_t_il_un_Archetype_pour_Relation_Homme_Femme">
+          <span class="pr-2">¿Existe un arquetipo, un modelo ideal de relación hombre-mujer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 André Desjardins
@@ -58,3 +82,28 @@ Para contribuir al crecimiento de nuestra alma, debemos recurrir a la Revelació
 De este modo, podemos contribuir mejor al crecimiento de nuestra alma aquí mismo en nuestro planeta Urantia produciendo frutos del espíritu como se menciona en el Libro de Urantia: [34: 6.13, 381.7] “porque los frutos del espíritu son amor, alegría, paz”. , paciencia, bondad, bondad, fe, mansedumbre y templanza. » Estos hábitos
 Practicar nuestra forma de vivir y comportarnos con los demás en nuestra vida diaria promueve el crecimiento de nuestra alma y al mismo tiempo nos permite convertirnos en mejores ciudadanos del universo en respuesta al mandamiento supremo del Padre Universal «ser perfectos como Él mismo lastre». El propósito espiritual de nuestra vida nos lleva a vivir un ideal de vida aquí mismo en nuestro planeta Urantia y este ideal está subrayado en un extracto del _Libro de Urantia_: [LU 111:1.5](/es/The_Urantia_Book/111#p1_5) “Lo que eres hoy no es tan importante como lo que eres”. te conviertes día a día y en la eternidad. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escape terrestre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Y_a_t_il_un_Archetype_pour_Relation_Homme_Femme">
+          <span class="pr-2">¿Existe un arquetipo, un modelo ideal de relación hombre-mujer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

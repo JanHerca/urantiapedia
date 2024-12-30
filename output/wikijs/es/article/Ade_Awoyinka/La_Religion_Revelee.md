@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Ade Awoyinka<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">El libro de Urantia en Camerún</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando me convertí en un cristiano recién nacido en la década de 1970 en África, me criaron para temer dos cosas: ir al infierno y perderme la parusía. Hubo otros temores en el camino, como contaminarme con diversas actividades con las que no te aburriré, y también la opresión demoníaca. Me niego a temer el supuesto poder de la brujería porque realmente no entiendo el mecanismo, pero sí entiendo los efectos secundarios del miedo en la mente de una persona.
@@ -62,3 +86,28 @@ Mortalidad infantil de niños menores de 5 años en: 2016: 18%
 
 Tasa de alfabetización: 57% en 2005.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro con Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">El libro de Urantia en Camerún</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

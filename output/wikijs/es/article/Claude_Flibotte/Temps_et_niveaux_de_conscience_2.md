@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Claude Flibotte<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_26">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="pr-2">Cómo hacer la voluntad del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -66,3 +90,28 @@ Sainte-Julie (Québec) Canadá
 > 
 > La paciencia la practican los mortales cuyas unidades de tiempo son cortas. La verdadera madurez trasciende la paciencia con una paciencia nacida de una comprensión real. [LU 118:1.4](/es/The_Urantia_Book/118#p1_4)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_26">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Antequera/Comment_Faire_La_Volonte_Du_Pere">
+          <span class="pr-2">Cómo hacer la voluntad del padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

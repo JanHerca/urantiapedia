@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Jean-Claude Romeuf<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christian_Boucher/Pages_Lyriques">
+          <span class="pr-2">Páginas de letras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Acabo de navegar por algunos foros de Internet en los que detractores del Libro de Urantia, que sin preocuparse por su mensaje real y su contenido, lo critican principalmente por dos cosas:_
@@ -41,3 +65,28 @@ Para hablar de eugenesia, palabra que apenas nos atrevemos a pronunciar en nuest
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christian_Boucher/Pages_Lyriques">
+          <span class="pr-2">Páginas de letras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "en la luz"
+title: "En la luz"
 description: 
 published: true
 date: 2024-10-17T22:23:59Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Anatole France<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boletín de calificaciones de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="pr-2">Los agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Poesía: A la luz
@@ -73,3 +97,28 @@ _Formará mis destinos futuros,_
 _Vuelve a bañarte, vuelve a nutrir tus puras olas_
 _Mis nuevas metamorfosis. (1844-1924)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Bulletin_de_notes_de_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boletín de calificaciones de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="pr-2">Los agondontaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

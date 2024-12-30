@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Myriam Delcroix<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La versión oculta de la cuarta parte del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Doute_et_doutes">
+          <span class="pr-2">Dudas y dudas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Entre todas las creencias corruptoras que probablemente estaban asociadas a lo que podría haber sido un monoteísmo emergente, ninguna era más debilitante que la creencia en la transmigración, en la doctrina de la reencarnación del alma, que provenía del DRAVIDIAN DECCANO [[LU 94:2.3-7](/es/The_Urantia_Book/94#p2_3)] .
@@ -90,3 +114,28 @@ P.D. No puedo dejar de fumar: ¿los cromosomas de mi memoria recuerdan a un ante
 
 Myriam Del Croix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La versión oculta de la cuarta parte del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Doute_et_doutes">
+          <span class="pr-2">Dudas y dudas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

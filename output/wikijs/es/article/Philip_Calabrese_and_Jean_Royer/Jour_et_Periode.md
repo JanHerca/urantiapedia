@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Philip Calabrese y Jean Royer<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelar eficazmente la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="pr-2">Otra visión del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***en relación con la resurrección en el tercer día o tercer período***
@@ -207,3 +231,28 @@ En conclusión, nos vemos en Maisonnia NN1 dentro de... vamos, unos veinte años
 
 _Jean Royer, Thor 2009_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelar eficazmente la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers_2">
+          <span class="pr-2">Otra visión del universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

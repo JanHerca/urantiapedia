@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 Jean-Claude Romeuf<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cualquier religión monoteísta que se refiera a un Dios infinito admite la omnipotencia de Dios.
@@ -68,3 +89,25 @@ Por otra parte, en las mismas páginas y en los párrafos siguientes, los dos re
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

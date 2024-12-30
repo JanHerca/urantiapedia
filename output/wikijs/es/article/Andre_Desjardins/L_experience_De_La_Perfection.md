@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2021 André Desjardins<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfumes de mujer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="pr-2">Para genetistas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestro nacimiento no es perfecto desde el punto de vista espiritual, nacemos en un mundo considerado vivencial e imperfecto en ciertos aspectos pero tenemos la capacidad y el privilegio de desarrollar nuestras habilidades mentales y nuestras capacidades físicas ya sean materiales o espirituales. Cada humano puede aprender a desarrollar sus talentos o habilidades con el fin de alcanzar un nivel de experiencia de superación material o espiritual acorde a sus metas deseadas. Por su naturaleza, el hombre siempre ha buscado superarse por evolución, por necesidad o encontrando medios técnicos para mejorar la condición humana utilizando el menor esfuerzo físico posible. “Estos esfuerzos interminables de todos los seres vivientes prueban en ellos la existencia de una búsqueda innata de la perfección. » Ref.: [[LU 65:6.2](/es/The_Urantia_Book/65#p6_2)]
@@ -79,3 +103,28 @@ St-Alexis-des-Monts (Québec-Canadá)
 > 
 > JOËLLE LAURENCIN
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfumes de mujer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="pr-2">Para genetistas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">Para un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1767, Georges Louis Leclerc se propuso fechar la edad de la Tierra y de los planetas. Con la ayuda de experimentos de laboratorio sobre el enfriamiento de globos incandescentes y con la ayuda de las matemáticas, este hombre genial, pero lleno de bufonadas (sin o), concluye a una edad de diez millones de años. _Algunas personas concluyen más rápidamente que es una cuestión de sentimientos y de medios._
@@ -56,3 +80,28 @@ Habría muchas otras cosas que decir, pero serían, hablando con orgullo, ¡sól
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">Para un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

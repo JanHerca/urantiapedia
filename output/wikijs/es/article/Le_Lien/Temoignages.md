@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="pr-2">Ajustador, Absolución y Fusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -87,3 +111,28 @@ Caligrafía de Sophie Malicot
 <img src="/image/article/Le_Lien/images_03/141.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="pr-2">Ajustador, Absolución y Fusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

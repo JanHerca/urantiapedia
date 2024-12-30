@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Ralph Zehr<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la oración primitiva a la oración ética: mi experiencia personal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La oración en grupo o asamblea es muy eficaz, en el sentido de que sus repercusiones aumentan mucho la sociabilidad. Cuando una comunidad se dedica a la oración común por la elevación moral y espiritual, estas devociones reaccionan sobre los individuos que componen el grupo; su participación los hace a todos mejores. Incluso una ciudad o nación entera puede recibir ayuda de estas oraciones devocionales. La confesión, el arrepentimiento y la oración han llevado a individuos, ciudades, naciones y razas enteras a realizar poderosos esfuerzos de reforma y a realizar actos valientes y valientemente realizados. ([LU 91:5.2](/es/The_Urantia_Book/91#p5_2))
@@ -47,3 +68,25 @@ Ofrecemos esta acción de gracias y lo pedimos con confianza en el nombre de Jes
 
 Amén.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la oración primitiva a la oración ética: mi experiencia personal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

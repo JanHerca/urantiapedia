@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Agnès Lazar<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo, energía y materia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">El Simposio Cultural Mundial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Agnès Lazar-Bélgica
@@ -83,3 +107,28 @@ Nos enfrentamos constantemente a la novedad. Damos la bienvenida a sus estados d
 <figcaption>Agnès, Aurore y Guy dirigen grupos de debate y apoyo con presos voluntarios dos veces por semana. <em>Aquí está el testimonio de un prisionero.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo, energía y materia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">El Simposio Cultural Mundial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

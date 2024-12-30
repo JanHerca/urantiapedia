@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Moustapha NDiaye<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Breves reflexiones sobre el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las recientes masacres cometidas en América del Norte, Europa y también en Oriente Medio están provocando una ola de incomprensión e indignación en todo el mundo. Esta violencia islamista ligada al yihadismo es reivindicada y justificada en nombre de un Islam riguroso por quienes cometen estas masacres masivas.
@@ -66,3 +90,28 @@ Desde entonces, a través de mis numerosas oportunidades de viajar al extranjero
 
 Casado y padre de dos niños y una niña, todos criados, tanto en la tradición religiosa de su país, como en la apertura a la aldea global en la que se ha convertido Urantia, intento encontrar este significado que alguna vez busqué en vano. en los libros, en una relación viva con el Padre a través de todas las oportunidades de la vida familiar, social o internacional, que él habrá suscitado como Ajustador en mi mente o como Dios Supremo en mi destino.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Breves reflexiones sobre el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El movimiento urantiano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">¿Quién soy yo? —¿De dónde venimos? — ¿Adónde vamos? ¿Cuál es el propósito de la vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En varios lugares de los artículos, los autores de El libro de Urantia lamentan que el cristianismo primitivo encontrara sus fundamentos en la vida y las enseñanzas de Jesús y no en la revelación que él estaba ansioso de compartir con los hombres. El error, según ellos, fue no insistir en que la religión enseñada por Jesús se basaba en la paternidad de Dios y la fraternidad universal de los hombres. “Amaos unos a otros, como el Padre os ama” se ha transformado a menudo en disputas religiosas, cada religión, orgullosa de su credo e intransigente sobre la verdad que sostenía o creía tener, siempre ha buscado afirmar la supremacía de sus ideales sobre aquellos. de otros.
@@ -38,3 +62,28 @@ Cuando los hombres viven por amor es porque vivirán según los principios que J
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El movimiento urantiano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">¿Quién soy yo? —¿De dónde venimos? — ¿Adónde vamos? ¿Cuál es el propósito de la vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

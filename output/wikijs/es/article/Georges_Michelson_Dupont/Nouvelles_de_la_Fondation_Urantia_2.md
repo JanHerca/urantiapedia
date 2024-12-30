@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Avortement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aborto provocado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="pr-2">Aproximación filosófica e histórica a la mecánica cuántica.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La traducción de _El Libro de Urantia_ a los idiomas Urantia forma parte de la misión planetaria de la Fundación Urantia, que se describe en la «Declaración de Confianza», el documento por el que se estableció la Fundación en 1950 y disponible en: [urantia.org/es/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV](urantia.org/fr/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV)
@@ -25,3 +49,28 @@ Así, cerca del 75% de la población mundial podrá tener acceso a estas enseña
 
 Recientemente nos contactaron lectores de Kenia, Uganda y Tanzania. En colaboración con la Fundación formarán un pequeño equipo con el objetivo de traducir la revelación al kiswahili. Les brindaremos todo nuestro apoyo logístico y financiero y los ayudaremos en esta tarea tan exigente pero muy gratificante.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Avortement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aborto provocado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="pr-2">Aproximación filosófica e histórica a la mecánica cuántica.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

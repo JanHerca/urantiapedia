@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los fines de siglo, los fines de milenio y más aún los fines de la civilización, siempre han suscitado reacciones de miedo, de angustia, ante lo que iba a suceder. Es como si cada transición secular milenaria sólo pudiera traer una agitación profunda y duradera. Quizás lo que más temíamos de este cambio de estado de las cosas era el hecho de no poder adaptarnos a él, o la idea de que inevitablemente surgieran nuevas catástrofes detrás de los amenazadores horizontes de este fin de período.
@@ -45,3 +66,25 @@ Pero tal vez me equivoque. ¿No serían más complejas las predicciones y los pr
 
 François Dupont — Bruselas
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

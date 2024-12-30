@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2021 Georges Michelson Dupont<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_24">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="pr-2">Ciencia o revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Sexagésimo cumpleaños_
@@ -87,3 +111,28 @@ Jacques, te debemos mucho. Gracias de nuevo por tu trabajo. Hasta la fecha, se h
 <figcaption>IMPRESIÓN COMPLETA EL 28 DE NOVIEMBRE DE 196<br>>EN LAS IMPRIMAS DE IMPRIMERIE TOURNON 20, RUE DELAMBRE, PARÍS-XIVe<br>EN NOMBRE DE EDICIONES URANTIA<br>Depósito legal n° 1055, 4º trimestre 1961</ leyenda>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_24">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="pr-2">Ciencia o revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

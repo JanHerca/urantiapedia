@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Santísima Trinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Soberanía espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Estamos comprometidos en un movimiento y no en una Iglesia. El movimiento está relacionado con el latín 'movere' que significa moverse. ¡Así que las cosas tienen que moverse!
@@ -49,3 +73,28 @@ Hay que dejar de lado la ansiedad. Las decepciones más difíciles de soportar s
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Santísima Trinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Soberanía espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

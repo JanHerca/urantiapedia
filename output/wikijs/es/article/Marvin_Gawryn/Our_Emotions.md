@@ -1,5 +1,5 @@
 ---
-title: "nuestras emociones"
+title: "Nuestras emociones"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Marvin Gawryn<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Apóstoles – El León</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Regalo de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las emociones son reacciones de los sentimientos a la realidad que tienen un impacto en todas las partes de la personalidad. Ciertas emociones inician una reacción psicológica instintiva en nuestro cuerpo. Cuando experimentamos emociones positivas como el amor o la alegría, nuestro cuerpo se vigoriza, nuestra mente se purifica y nuestra alma se llena. Por otro lado, las emociones negativas como la ira o el miedo degradan nuestro cuerpo, envenenan nuestra mente, disminuyen nuestra alma y obstruyen cualquier aporte espiritual. En la personalidad madura, la voluntad y la mente marcan el camino, mientras que las emociones se canalizan hacia metas superiores.
@@ -41,3 +65,28 @@ Sin embargo, si asumimos la responsabilidad de nosotros mismos y abrimos nuestra
 
 Marvin Gawryn
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Apóstoles – El León</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Regalo de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

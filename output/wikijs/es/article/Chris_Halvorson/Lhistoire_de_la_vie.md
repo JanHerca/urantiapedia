@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Chris Halvorson<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El tulipán</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="pr-2">Recuerdos Recuerdos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El _Libro de Urantia_ proporciona una visión general de la historia geológica de nuestro planeta, Urantia (véanse los documentos 57 a 61). Cualquier presentación sistemática de la historia geológica se construye dentro del marco de una escala de tiempo geológico, una división de todo el lapso de tiempo geológico en un conjunto de divisiones jerárquicas vinculadas a una secuencia de fechas absolutas. La escala de tiempo geológica implícita en la descripción general de El libro de Urantia se muestra en la tabla de la página siguiente.
@@ -62,3 +86,28 @@ Chris Halvorson
 
 (Traducción: Jean Royer)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Tulipe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El tulipán</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Souvenirs_Souvenirs_01">
+          <span class="pr-2">Recuerdos Recuerdos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

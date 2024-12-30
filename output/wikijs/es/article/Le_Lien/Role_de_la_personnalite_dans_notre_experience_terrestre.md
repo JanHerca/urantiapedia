@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia del movimiento francófono en Europa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Dugas/Lumen">
+          <span class="pr-2">Lúmenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _¿Cuándo es funcional la personalidad?_
@@ -228,3 +252,28 @@ Esta es en verdad la personalidad tal como está incluida en el plan de resultad
 
 > «_1. *El plan de consecución progresiva.* Es el plan del Padre Universal para la ascensión por evolución, un programa aceptado sin reservas por el Hijo Eterno cuando estuvo de acuerdo con la propuesta del Padre: «Hagamos a las criaturas mortales a nuestra propia imagen»{4}. Esta disposición para elevar a las criaturas del tiempo implica que el Padre concede los Ajustadores del Pensamiento y dota a las criaturas materiales de las prerrogativas de la personalidad._» ([LU 7:4.4](/es/The_Urantia_Book/7#p4_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia del movimiento francófono en Europa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Dugas/Lumen">
+          <span class="pr-2">Lúmenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la escuela UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ESCUELA DE INTERNET DEL LIBRO DE URANTIA (UBIS) — Período de abril de 2016 — Corazones en francés
@@ -57,3 +78,25 @@ Este curso es un estudio temático sobre la vida interior. Juntos profundizaremo
 
 Guy Perron es de Montreal, Canadá. Cuando se sumergió de lleno en las incomparables enseñanzas de El Libro de Urantia en el año 2000, inmediatamente sintió que había sido bendecido y tenía en sus manos un regalo increíble, una gran y poderosa obra de arte sobre el amor de nuestro Padre...verdadero. alimento morontial para nuestras almas, para su alma.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la escuela UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-73-marzo-2016le-lien-urantien-número-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 73 — Marzo 2016Le Lien Urantien — Número 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

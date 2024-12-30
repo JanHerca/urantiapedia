@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Richard Zhu<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traducción china del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 RICHARD ZHU
@@ -32,3 +53,25 @@ Una simple traducción automática no producirá resultados aceptables, ya que e
 
 De hecho, incluso en un documento donde los caracteres tradicionales se han convertido perfectamente a partir de los caracteres simplificados, un hablante nativo de Taiwán o Hong Kong podrá darse cuenta de que el documento simplemente se convirtió y no se tradujo correctamente. Por el contrario, una versión traducida al chino simplificado que intente incorporar buenos aspectos del idioma chino tradicional también será reconocida por los traductores profesionales de chino simplificado como incomprensible y de mala calidad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traducción china del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

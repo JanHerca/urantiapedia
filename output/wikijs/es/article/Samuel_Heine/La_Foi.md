@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Samuel Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La semántica general y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/MOI">
+          <span class="pr-2">¡A MÍ!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La fe de Jesús alcanzó la pureza de la confianza de un niño. ([LU 196:0.12](/es/The_Urantia_Book/196#p0_12))
@@ -49,3 +73,28 @@ Dios no abandona a los suyos.
 
 Samuel Heine
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_semantique_generale_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La semántica general y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/MOI">
+          <span class="pr-2">¡A MÍ!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

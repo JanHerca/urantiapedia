@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Myriam Delcroix<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_de_Pailloussas/Missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="pr-2">Directores del Censo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## ENFOQUE PERSONAL
@@ -98,3 +122,28 @@ Esta era será la antesala, si esta humanidad así lo desea, de la armonía y el
 
 Myriam Del Croix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_de_Pailloussas/Missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="pr-2">Directores del Censo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

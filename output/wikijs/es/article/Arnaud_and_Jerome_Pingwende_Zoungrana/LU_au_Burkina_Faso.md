@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Arnaud y Jérôme Pingwende Zoungrana<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en Camerún</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Testimonio de Costa de Marfil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Testimonio de Arnaud y Jérôme Pingwende Zoungrana_
@@ -75,3 +99,28 @@ Muchas iglesias y sectas están bien establecidas. Cautivan a los fieles prometi
 
 Difundir las enseñanzas del Libro de Urantia sería muy liberador para todas estas almas hambrientas. La complejidad del libro exige la formación de facilitadores africanos y la creación de grupos de estudio en los que compartir sea más fácil y fraterno constituye la solución.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en Camerún</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Testimonio de Costa de Marfil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

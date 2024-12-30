@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samantha_Nior/Linvitee_Association_Urantia_Neerlandaise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitado: Asociación Urantia Holandesa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="pr-2">Crecimiento Personal - Arrival Worlds Houses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 606 Urantia — Satania 24 Jerusem — Norlatiadek 70 Edentia — Nebadon 84 Salvington U Menor Tercera 3 Ensa — U Mayor Quinta 5 Splandon — Orvonton 7 Uversa
@@ -67,3 +91,28 @@ Es gracias a la técnica de trinitización y algunas otras relaciones entre los 
 
 Sabemos que los máximos terciarios son, en lo que a nosotros respecta, realidades finitas que se unifican perfectamente en el Ser Supremo. Es en cierto modo la aparición del **perfecto experiencial coordinado** que precede (para nosotros) a los máximos primarios perfectos y a la interpretación perfecta, los máximos secundarios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samantha_Nior/Linvitee_Association_Urantia_Neerlandaise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invitado: Asociación Urantia Holandesa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="pr-2">Crecimiento Personal - Arrival Worlds Houses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

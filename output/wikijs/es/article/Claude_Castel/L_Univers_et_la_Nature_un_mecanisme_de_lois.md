@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Claude Castel<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El himno al amor.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Femme">
+          <span class="pr-2">La mujer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuál es la Fuente Primer Centro de todas las cosas y seres, ya sea que lo llamemos Dios Único o Padre Universal, o con cualquier otro nombre. Esta fuente es el Espíritu que crea la Naturaleza material y que está en el origen del Universo viviente. ([LU 1:0.1](/es/The_Urantia_Book/1#p0_1)). Este Espíritu es una personalidad infinita y creativa. No se limita a una sola forma. Es lo infinitamente sutil (o lo Absoluto), omnipresente, omnisciente y todopoderoso lo que controla su cuerpo: el Universo, la Naturaleza material (o lo Relativo). Cada criatura, ya sea mineral, vegetal, animal o humana, es parte de este todo divino.
@@ -65,3 +89,28 @@ Este texto debería permitir a todos comprender que, aunque la vida a veces sea 
 
 Claude Castel
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Hubaut/L_hymne_a_l_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El himno al amor.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Femme">
+          <span class="pr-2">La mujer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

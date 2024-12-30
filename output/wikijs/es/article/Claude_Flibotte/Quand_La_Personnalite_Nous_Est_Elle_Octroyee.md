@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Claude Flibotte<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Antequera/Sur_Les_Premiers_Instants_De_La_Survie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los primeros momentos de supervivencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">¿Cuándo se nos concede la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Esta pregunta surgió a menudo en las discusiones de nuestros grupos de estudio. Sabemos que es un regalo de nuestro Padre Celestial (%%0%), una afirmación que se repite a menudo en el Libro de Urantia. Pero, ¿cuándo nos da el Padre este maravilloso regalo?
@@ -53,3 +77,28 @@ Claude Flibotte - Santa Julia
 > Dedica algo de tiempo a utilizar los motores de búsqueda y cuéntanos lo que piensas. Si encuentra algún error, háganoslo saber para que podamos corregirlo. Puedes enviar un correo electrónico a Ashley a: ashleyt@urantia.org.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Antequera/Sur_Les_Premiers_Instants_De_La_Survie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los primeros momentos de supervivencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">¿Cuándo se nos concede la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

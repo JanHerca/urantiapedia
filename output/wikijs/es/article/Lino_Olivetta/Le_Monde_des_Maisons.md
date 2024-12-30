@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Lino Olivetta<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Somos embajadores?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_04_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°4 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **1er Mundo: desmontaje y mota**
@@ -47,3 +71,28 @@ Es el logro supremo de la carrera que sigue inmediatamente a la muerte. Lo más 
 
 Lino Olivetta
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Somos embajadores?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_04_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°4 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

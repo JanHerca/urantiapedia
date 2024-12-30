@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 François Dupont<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deidad y divinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Supremacía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La siguiente reflexión pretende arrojar luz sobre el funcionamiento de la personalidad a nivel de las diferentes realidades cósmicas, universales y divinas. El artículo de Jacques Dupont nos ofrece una amplia visión de las características de la personalidad.
@@ -121,6 +145,31 @@ En cualquier caso, cuanto más nos sumergimos en la maraña de este tema, más p
 Francois Dupont
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deidad y divinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Supremacía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Comentarios
 

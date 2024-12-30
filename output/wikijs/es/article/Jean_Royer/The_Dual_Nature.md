@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Jean Royer<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalo de amor (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_01_Les_reponses">
+          <span class="pr-2">Maxien cuestionario n°1 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando emprende su viaje por el Mediterráneo, Josué sabe que tiene la doble misión de dar a conocer a Dios a los hombres y de hacer conocer al hombre a Dios, pero no sabe quién es él mismo. Sólo gradualmente toma conciencia de su doble naturaleza, culminando en su bautismo, donde se ve a sí mismo en la gloria.
@@ -40,3 +64,28 @@ P.D. “_Levántate_” parece ser una frase favorita de Jesús ya que se encuen
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Regalo de amor (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_01_Les_reponses">
+          <span class="pr-2">Maxien cuestionario n°1 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

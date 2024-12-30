@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1999 Jeanmarie Chaise<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (2da parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/La_mort_de_Joseph_et_le_destin">
+          <span class="pr-2">La muerte y el destino de José.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el número 130 de “Reflectividad” se dieron varias respuestas a la pregunta planteada en el número 129. Personalmente agradezco de todo corazón a sus autores. La pregunta formulada se refería a la oración de Jesús para salvar a Judas, exhortándolo a no cansarse de hacer el bien, y diciéndole: "***Te he amado y he orado para que ames a tus hermanos. Os advierto que os guardéis de quienes llevan a los hombres por caminos de adulación y los envenenan con las flechas del ridículo.*** »
@@ -33,3 +57,28 @@ Por lo tanto, cuando Jesús le dice a Judas que oró para llegar a amar a sus he
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (2da parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-10-verano-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 10 — Verano 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/La_mort_de_Joseph_et_le_destin">
+          <span class="pr-2">La muerte y el destino de José.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

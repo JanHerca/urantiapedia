@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Chris Ragetly<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Cooperation_avec_lAjusteur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperación con el Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="pr-2">Las tres grandes experiencias del ser humano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Este artículo tiene tres partes)_
@@ -69,3 +93,28 @@ _(Fin de la primera parte)_
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Cooperation_avec_lAjusteur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperación con el Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Les_trois_grandes_experiences_de_letre_humain">
+          <span class="pr-2">Las tres grandes experiencias del ser humano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

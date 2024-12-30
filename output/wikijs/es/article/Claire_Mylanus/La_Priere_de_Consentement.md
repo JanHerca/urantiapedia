@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Claire Mylanus<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo llega a su tiempo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">La primera frase del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Seminario de agosto en Bretaña**
@@ -56,3 +80,28 @@ Esta semana fue muy apreciada por todos, compartimos nuestra alma, nuestra herma
 
 Claire Mylanus
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo llega a su tiempo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">La primera frase del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

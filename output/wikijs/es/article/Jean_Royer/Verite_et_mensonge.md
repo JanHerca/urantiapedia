@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel de las emociones en la búsqueda espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="pr-2">Rincón de relajación: impresiones del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La ley es la vida misma, y no las reglas de su conducta. El mal es una transgresión de la ley, no una violación de las reglas de conducta relacionadas con la vida, que *es* la ley. La falsedad no es una cuestión de técnica narrativa, sino algo premeditado para desnaturalizar la verdad. La creación de nuevas imágenes basadas en hechos antiguos, la repetición de la vida de los padres en la vida de los hijos —éstos son los triunfos artísticos de la verdad. La sombra del desvío de un cabello, premeditado con una finalidad desleal, la más mínima deformación o perversión de aquello que es un principio —estas cosas constituyen la falsedad. Pero el fetiche de la verdad convertida en un hecho, de la verdad fosilizada, la cadena de hierro de la llamada verdad invariable, os mantiene ciegamente en un círculo cerrado de hechos muertos. Uno puede llevar técnicamente razón en cuanto a los hechos, y estar eternamente equivocado en cuanto a la verdad._ ([LU 48:6.33](/es/The_Urantia_Book/48#p6_33))
@@ -27,3 +51,28 @@ ENTONCES ? ¿Deberíamos concluir que El Libro de Urantia practica la falsedad? 
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel de las emociones en la búsqueda espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="pr-2">Rincón de relajación: impresiones del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

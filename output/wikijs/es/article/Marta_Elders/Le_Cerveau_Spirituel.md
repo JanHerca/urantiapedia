@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Marta Elders<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décima Conferencia Internacional de la Asociación UAI — Amsterdam Países Bajos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Marta A. Ancianos
@@ -547,3 +568,25 @@ Es realmente nuestra propia elección. Podemos conscientemente, en nuestra propi
 
 **Tomaino, C. A. (2012)**. _Despertar el Cerebro_: La neuropsicología de la gracia. (_Despertando el cerebro_: La neuropsicología de la gracia.) Nueva York: Atria.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décima Conferencia Internacional de la Asociación UAI — Amsterdam Países Bajos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

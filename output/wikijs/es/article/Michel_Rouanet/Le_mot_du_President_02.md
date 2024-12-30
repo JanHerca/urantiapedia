@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Michel Rouanet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/038">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 38 - Invierno de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="pr-2">Intentos de explicar el concepto de verdad viva.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos miembros de la Asociación francófona de lectores del Libro de URANTIA, En este número, la presencia del artículo de François Dupont de la ABFU y del mensaje al Consejo de Representantes de Gaétan Charland, presidente de la IUA en Quebec, nos muestra , por un lado, que la influencia de la francofonía urantiana va más allá del simple marco territorial francés, en la Francia continental y en ultramar, y por otro, que la AFLLU está totalmente integrada en un tejido asociativo francófono. Además de las relaciones fraternales que mantenemos con la asociación de Quebec, la asociación belga y la asociación senegalesa, seguimos dando la bienvenida a miembros suizos y recibimos esporádicamente solicitudes de diferentes países francófonos de África (Costa de Marfil, Congo, Ruanda, Camerún, Togo, Benin, Madagascar, etc.).
@@ -38,3 +62,28 @@ Por tanto, buena conversión de miradas, buena poesía en la vida y paz para tod
 Presidente de la A.F.L.L.U.
 michel r.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/038">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 38 - Invierno de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Essais_dexplication_du_concept_de_la_verite_vivante">
+          <span class="pr-2">Intentos de explicar el concepto de verdad viva.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

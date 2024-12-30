@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">Médico de guerra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -31,3 +55,28 @@ Diseñada como una flor de loto apenas entreabierta, la obra incluye 27 pétalos
 
 Desde su inauguración en diciembre de 1986, el Templo del Loto ha recibido numerosos visitantes, indios y extranjeros, turistas y peregrinos, hombres y mujeres de diferentes creencias y religiones. Recibe una media de cuatro millones de visitantes al año, especialmente durante la temporada de festivales hindúes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">Médico de guerra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

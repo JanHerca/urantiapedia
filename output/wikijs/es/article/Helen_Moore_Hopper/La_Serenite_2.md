@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Helen Moore Hopper<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La deidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="pr-2">Filosofía Budista Mindfulness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay un estado de ánimo que sin duda nos ayudará a recibir la respuesta a nuestras oraciones. Cualquiera que sea el problema que se nos presente, por muy grande que sea nuestra necesidad, por urgente, por apremiante, por desesperada que parezca la situación, la serenidad será una ayuda inmediata para nosotros.
@@ -46,3 +70,28 @@ Helen Moore Hopper
 <figcaption>¡Un paso a la vez, confío en mi guía que me lleva hacia mi casa!</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La deidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Philosophie_bouddhiste_La_pleine_conscience">
+          <span class="pr-2">Filosofía Budista Mindfulness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

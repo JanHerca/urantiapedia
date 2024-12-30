@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Patrick Morelli<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Jean_Royer_nous_a_quitte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean Royer nos ha dejado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Cher_Jean">
+          <span class="pr-2">Querido Jean</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
@@ -31,3 +55,28 @@ Cuando un amigo nos deja siempre tendemos a sacarle más provecho de lo que real
 <img src="/image/article/Le_Lien/images_02/121.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Jean_Royer_nous_a_quitte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean Royer nos ha dejado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Cher_Jean">
+          <span class="pr-2">Querido Jean</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

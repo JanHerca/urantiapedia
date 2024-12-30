@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Max Masotti<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tener razón o ser feliz.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Universo Central**
@@ -49,3 +70,25 @@ Jesús pudo así observar su propio espíritu divino anterior descendiendo hacia
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tener razón o ser feliz.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 André Chappuis<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS El marco de estudio — Pedagogía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">El libro de Urantia: Correcciones al texto de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -59,3 +83,28 @@ Teniendo en cuenta lo anterior, sólo podemos señalar que se está volviendo ur
 27 de marzo de 2017
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS El marco de estudio — Pedagogía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">El libro de Urantia: Correcciones al texto de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

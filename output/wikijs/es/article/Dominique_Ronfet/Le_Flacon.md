@@ -1,5 +1,5 @@
 ---
-title: "la botella"
+title: "La botella"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Dominique Ronfet<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En el teatro del tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="pr-2">Voluntad, personalidad, elección moral.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -32,3 +56,28 @@ dateCreated: 2024-11-6T12:40:15Z
 dominical<br>
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En el teatro del tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="pr-2">Voluntad, personalidad, elección moral.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

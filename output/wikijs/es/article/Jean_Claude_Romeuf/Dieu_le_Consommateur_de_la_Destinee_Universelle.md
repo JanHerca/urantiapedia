@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Incertitude_et_securite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Incertidumbre y seguridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="pr-2">Los Apóstoles – El León</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Consumidor del Destino del Universo es una de las Órdenes de Personalidades del Gran Universo no clasificadas y no reveladas. El nombre que se le da en los artículos del Libro de Urantia, sin embargo, parece recordar las funciones que desempeña en el Universo.
@@ -41,3 +65,28 @@ Este es el segundo circuito de Havona. El peregrino que llega a esta etapa ha ac
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Incertitude_et_securite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Incertidumbre y seguridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="pr-2">Los Apóstoles – El León</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

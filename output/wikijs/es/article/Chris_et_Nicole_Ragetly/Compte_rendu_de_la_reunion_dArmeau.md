@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Chris y Nicole Ragetly<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humor, risas y sonrisas en el Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="pr-2">Zona de relajación: Ya no tengo miedo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Llegó a Armeau alrededor de las 15:30 horas. El hotel está situado a orillas del Yonne, un río muy tranquilo, ¡ideal para una meditación profunda! Mención especial merece la alimentación; Las comidas fueron aún más agradables porque estuvieron acompañadas de platos especialmente bien cocinados, entre ellos un suculento bæuf bourguignon. Después de un rápido descubrimiento del lugar, parece que los treinta participantes en la reunión estarán todos a gusto. Los encuentros entre viejos conocidos y nuevos son para nosotros uno de los principales motivos para asistir a este tipo de reuniones. En efecto, la comunión entre personalidades es un valor cósmico de suma importancia, y no desaparece con el tiempo, sino al contrario, reaparece con cada nueva vida, ya sea en los mundos de las casas, donde, por primera vez, tenemos la oportunidad de poner a prueba esta verdad que nos enseña _El Libro de Urantia_, o más adelante otros mundos del universo local, el superuniverso, Havona y el Paraíso. Incluso más allá de nuestra experiencia en la isla central, cuando seamos finalitarios o tengamos otro estatus, siempre será agradable para nosotros reencontrarnos con personas que conocimos en Urantia.
@@ -23,3 +47,28 @@ Lo que surge de estos encuentros, en dosis más o menos fuertes, es una impresi�
 
 Chris y Nicole Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humor, risas y sonrisas en el Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="pr-2">Zona de relajación: Ya no tengo miedo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

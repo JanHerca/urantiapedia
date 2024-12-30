@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje fantástico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 años de Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -63,3 +87,28 @@ Para concluir, es importante decir que la salvación para todos consiste en espi
 
 Simón Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje fantástico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 años de Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

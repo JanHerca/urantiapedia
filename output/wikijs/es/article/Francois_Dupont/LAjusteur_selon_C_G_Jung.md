@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión: Nos dicen...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="pr-2">Cuando un poco de paz desciende sobre nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Realizados en paralelo con el L.U., los lectores de los escritos de las grandes mentes de nuestro siglo y de siglos anteriores, resultan ser fuentes de asombrosa riqueza, revelando aspectos desconocidos o complementarios de nuestro Monitor Divino.
@@ -49,3 +73,28 @@ pag. 291: “_...Es sólo en el nivel del Yo que el hombre puede relacionarse co
 
 Francois Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión: Nos dicen...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Quand_un_peu_de_paix_descend_sur_nous">
+          <span class="pr-2">Cuando un poco de paz desciende sobre nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

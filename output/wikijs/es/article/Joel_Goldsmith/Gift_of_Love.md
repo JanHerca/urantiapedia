@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Joël Goldsmith<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Our_Emotions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestras emociones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_08">
+          <span class="pr-2">El pequeño rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el estado de iluminación reconocemos únicamente la autoridad de Cristo; No nos doblegamos ni a ritos ni a reglas, sólo al amor impersonal y universal de Dios. Sólo adoramos la llama interior que arde para siempre en el santuario del Espíritu. De esta unión nace la libertad propia de la fraternidad espiritual. Somos uno en un universo ilimitado; servimos a Dios fuera de ceremonias y credos. Aquellos que tienen la luz del Espíritu caminan sin miedo en sus vidas: por gracia.
@@ -87,3 +111,28 @@ Tengamos la seguridad de que Cristo está tocando la puerta de la mente de esa p
 
 joel orfebre
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Our_Emotions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestras emociones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_08">
+          <span class="pr-2">El pequeño rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

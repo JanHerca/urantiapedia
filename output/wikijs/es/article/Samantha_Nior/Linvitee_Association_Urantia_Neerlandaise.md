@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Samantha Nior<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Niveles de logro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Asociación Urantia Holandesa fue fundada en los Países Bajos en febrero de 2007 por Karen **Huigsloot**, John **van den Hout** y Samantha **Nior**. A diferencia de otras asociaciones (nosotros tenemos la forma de una fundación), hemos elegido la forma de una organización sin miembros registrados. En los Países Bajos, una organización con miembros está obligada a organizar muchas actividades con su participación. Preferimos utilizar el tiempo que nos llevaría dedicarnos a nuestros objetivos. Como resultado, dependemos de donaciones y donaciones.
@@ -34,3 +58,28 @@ _Traducido amablemente por Claire Mylanus_
 
 Samantha Nior
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Niveles de logro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

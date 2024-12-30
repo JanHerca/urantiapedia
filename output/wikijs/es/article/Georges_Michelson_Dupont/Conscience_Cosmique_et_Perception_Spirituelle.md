@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflectividad del historial de registros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Coeurrier_des_lecteurs_02">
+          <span class="pr-2">Correo de los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 George Michelson Dupont
@@ -131,3 +155,28 @@ Por lo tanto, necesitamos entender a la Deidad para amar mejor a Dios y hacer Su
 
 “LOS MORTALES DE URANTIA están atravesando una gran era de expansión de horizontes y ampliación de conceptos; la evolución de su filosofía cósmica debe acelerarse para seguir el ritmo de la expansión del campo intelectual del pensamiento humano. A medida que su conciencia cósmica se expande, los mortales perciben las interrelaciones de todo lo que encuentran en su ciencia material, su filosofía intelectual y su clarividencia espiritual. Sin embargo, al mismo tiempo que toda esta creencia en la unidad del cosmos, vuestros hombres perciben la diversidad de todas las existencias. A pesar de todos los conceptos relacionados con la invariancia de la Deidad, los hombres se dan cuenta de que viven en un universo de cambio constante y crecimiento experiencial. Independientemente de la realización de la supervivencia de los valores espirituales, los hombres siempre deben contar con las matemáticas y prematemáticas de la fuerza, la energía y el poder. » [LU 104:3.2](/es/The_Urantia_Book/104#p3_2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflectividad del historial de registros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Coeurrier_des_lecteurs_02">
+          <span class="pr-2">Correo de los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

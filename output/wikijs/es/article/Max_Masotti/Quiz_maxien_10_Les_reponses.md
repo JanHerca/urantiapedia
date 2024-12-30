@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Max Masotti<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Empatía y Liderazgo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_16">
+          <span class="pr-2">El pequeño rincón del hermano Dom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverso**
@@ -67,3 +91,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Empatía y Liderazgo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_16">
+          <span class="pr-2">El pequeño rincón del hermano Dom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

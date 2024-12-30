@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Artisans_de_Paix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pacificadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Initiatives_de_Paix">
+          <span class="pr-2">Iniciativas de paz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > En cualquier controversia universal entre los niveles manifestados de la realidad, la personalidad del nivel superior terminará por triunfar sobre la personalidad del nivel inferior. Este resultado inevitable de las controversias en el universo es inherente al hecho de que la calidad divina es igual al grado de realidad o de manifestación de cualquier criatura volitiva. El mal no diluido, el error completo, el pecado deliberado y la iniquidad rematada son inherente y automáticamente autodestructivos. Tales actitudes de irrealidad cósmica sólo pueden sobrevivir en el universo debido a una tolerancia misericordiosa transitoria, en espera de la acción de los mecanismos de los tribunales universales de juicio en rectitud, los cuales determinan la justicia y descubren lo que es equitativo. ([LU 2:3.5](/es/The_Urantia_Book/2#p3_5))
@@ -45,3 +69,28 @@ Varias veces estuvo a punto de estallar una guerra nuclear y esta espada de Damo
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Artisans_de_Paix">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pacificadores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Initiatives_de_Paix">
+          <span class="pr-2">Iniciativas de paz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

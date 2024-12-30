@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Le_6eme_esprit_mental_adjuvat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sexto espíritu mental ayudante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="pr-2">Directores de Poder y Trascendentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -29,3 +53,28 @@ Su sitio web: www.Delvalle.fr
 
 Christophe Delvallée
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Le_6eme_esprit_mental_adjuvat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sexto espíritu mental ayudante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="pr-2">Directores de Poder y Trascendentales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

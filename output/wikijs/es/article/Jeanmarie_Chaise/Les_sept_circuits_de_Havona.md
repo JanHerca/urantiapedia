@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1999 Jeanmarie Chaise<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una de las particularidades destacables, cuando leemos EL LIBRO DE URANTIA, es la referencia casi constante que allí encontramos en el establecimiento de su organización según el ordenamiento matemático de sus componentes esenciales. Muy pronto se hace evidente para el lector que los números desempeñan un papel protagonista, y en particular la década y especialmente la heptada que, respectivamente, organizan algo más que el espacio y la conformación de las cosas. Y esta observación proporciona una confirmación adicional del orden en el que la Deidad quería unificar y coordinar toda Su creación.
@@ -54,3 +75,25 @@ La proporcionalidad entre cada circuito es, por tanto, del orden de un vigésimo
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

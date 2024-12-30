@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Moustapha NDiaye<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre el pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Moustapha K. NDIAYE
@@ -141,3 +162,25 @@ Así, “Y, como en cada una de las etapas anteriores de tu ascensión hacia Dio
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre el pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

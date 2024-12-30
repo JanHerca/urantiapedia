@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Danielle La Scala<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_De_L_assemblee_Generale_Ordinaire_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acta de la Asamblea General Ordinaria de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="pr-2">Comunicación de Johana 21 de agosto de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
@@ -46,3 +70,28 @@ Danielle La Scala
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Compte_Rendu_De_L_assemblee_Generale_Ordinaire_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acta de la Asamblea General Ordinaria de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johana_Beukers/Communication_De_Johana_21_Aout_2019">
+          <span class="pr-2">Comunicación de Johana 21 de agosto de 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

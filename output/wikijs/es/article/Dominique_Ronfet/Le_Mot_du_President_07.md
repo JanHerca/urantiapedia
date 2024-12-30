@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Dominique Ronfet<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/043">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano de 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_01">
+          <span class="pr-2">Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante nuestra asamblea general del 24 de mayo, que tuvo lugar en Dinard, Bretaña, una votación votó a su servidor para el cargo de Presidente de la AFLLU. Esta renovación, ligada a la duración de este mandato pero sobre todo deseada por nuestro anterior Presidente, Michel, debería permitirle centrar sus energías en imperativos más personales. Pero no te preocupes, nunca estará lejos, en el corazón de nuestra pequeña comunidad.
@@ -38,3 +62,28 @@ En espíritu contigo.
 
 **Dominique Ronfet**, director general de **AFLLU**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/043">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano de 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_01">
+          <span class="pr-2">Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

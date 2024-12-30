@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Carolyn Kendall<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/028">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 28 - Invierno de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="pr-2">El arte de vivir: según Jesús y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **El factor tiempo: el tiempo lo es todo.**
@@ -115,3 +139,28 @@ Carolyn Kendall, Nueva York
 
 _Traducción de Chris y Nicole Ragetly de un artículo publicado en Newsflash en septiembre de 2003 (la segunda parte aparecerá en el próximo número de Newsflash)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/028">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 28 - Invierno de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="pr-2">El arte de vivir: según Jesús y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

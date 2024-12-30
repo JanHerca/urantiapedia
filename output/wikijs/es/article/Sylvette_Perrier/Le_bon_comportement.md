@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Sylvette Perrier<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir la voluntad de nuestro Padre: una experiencia diaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Rincón de relajación: El albañil y el gran arquitecto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aquel que cree en la Quinta Revelación, que finalmente ha tenido la gracia de conocer El Libro de Urantia, de leerlo regularmente, de hacer todo lo posible para asegurar su supervivencia, de ir en la dirección del Plan Divino, Quien quiere en todas las cosas de su vida haga la Voluntad del Padre, ore y confíe en la guía de su Ajustador. Pero si, aparentemente y a menudo, en las situaciones de la vida cotidiana, no siempre ve la línea a seguir (a pesar de sus oraciones y de su buena voluntad), debe tener en mente «ir en dirección a la Verdad, a la Belleza y al Bien». ¡Es fácil decirlo, pero no siempre hacerlo!
@@ -29,3 +53,28 @@ Tengo mi opinión sobre todos estos ejemplos arquetípicos, pero creo que, por s
 
 Sylvette Perrier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir la voluntad de nuestro Padre: una experiencia diaria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Rincón de relajación: El albañil y el gran arquitecto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Asociación Francófona de Lectores del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Existe Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “¿Qué haría Jesús?” es el título de un libro superventas escrito por Charles M. Sheldon, que responde a la pregunta vital “¿Qué significa realmente ser cristiano?” y que se encuentra en casi todas partes de los Estados Unidos. Naturalmente, aquí esta pequeña pero primordial cuestión debe ser considerada para nosotros a la luz de nuestra querida Revelación y no según los conceptos que se han vuelto tradicionales en nuestras culturas occidentales actuales.
@@ -69,3 +90,25 @@ Esto es lo que tuve que decir en respuesta a la sugerencia de Christine Baussain
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Existe Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

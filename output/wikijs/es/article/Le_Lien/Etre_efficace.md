@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Señor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">La deidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La eficiencia es la capacidad de producir algo, de lograr los resultados deseados manteniendo al máximo nivel lo que permite esa producción. Para ser eficaz se necesitan dos elementos: lo que se produce y lo que tiene capacidad de producir. El que no se centra en el objetivo y descuida los medios no llegará lejos. De ahí la necesidad de adoptar buenos hábitos.
@@ -62,3 +86,28 @@ Decidamos amar nuestro trabajo. Así se convertirá en un placer. Quizás no ten
 
 Extractos Marvin Gawryn and Co.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Señor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">La deidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

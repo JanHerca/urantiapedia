@@ -1,5 +1,5 @@
 ---
-title: "la mente animal"
+title: "La mente animal"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Chris Ragetly<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 15 - Otoño de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="pr-2">Botella pequeña llena</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Aquella tarde, Jesús y Ganid habían disfrutado jugando con un perro pastor muy inteligente, y Ganid quiso saber si el perro tenía alma, si tenía voluntad. En respuesta a sus preguntas, Jesús dijo: «El perro tiene una mente que puede conocer al hombre material, su dueño, pero no puede conocer a Dios, que es espíritu. Así pues, el perro no posee una naturaleza espiritual y no puede disfrutar de una experiencia espiritual. El perro puede tener una voluntad derivada de la naturaleza y acrecentada por el adiestramiento, pero este poder de la mente no es una fuerza espiritual, ni tampoco es comparable con la voluntad humana, porque no es *reflexiva —* no es el resultado de la discriminación de los significados superiores y morales, o de la elección de los valores espirituales y eternos. La posesión de estos poderes de discriminación espiritual y de elección de la verdad es lo que convierte al hombre mortal en un ser moral, en una criatura dotada de los atributos de la responsabilidad espiritual y del potencial de la supervivencia eterna». Jesús siguió explicando que la ausencia de estos poderes mentales en los animales es lo que hace imposible para siempre que el mundo animal pueda desarrollar un lenguaje en el tiempo, o experimentar algo equivalente a la supervivencia de la personalidad en la eternidad. Como consecuencia de la lección de este día, Ganid no creyó nunca más en la transmigración de las almas humanas a los cuerpos de los animales. ([LU 130:2.8](/es/The_Urantia_Book/130#p2_8))
@@ -89,3 +113,28 @@ Nota: Lo físico, lo mental y lo espiritual están, en el hombre, mucho más ín
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 15 - Otoño de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="pr-2">Botella pequeña llena</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

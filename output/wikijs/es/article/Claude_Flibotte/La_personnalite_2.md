@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Claude Flibotte<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en esperanto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Peut_On_Encore_Chasser_Le_Dinosaure_Dans_Satania">
+          <span class="pr-2">¿Podemos todavía cazar dinosaurios en Satania?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos estamos bendecidos con el inmenso don de la personalidad. Aunque todos los individuos de este planeta están dotados de ella, ¿cuánto sabemos realmente sobre la personalidad? Para dar un paso más en su comprensión, les sugiero que emprendan conmigo una relectura del comienzo del fascículo 112. Este fascículo está realmente muy lleno de información y para aquellos que sepan detenerse en él seriamente, un nueva luz surgirá ante uno mismo de manera espectacular. Tras un estudio cuidadoso de cada párrafo, intenta visualizar lo que el Mensajero Solitario estuvo dispuesto a revelarnos sobre qué es la personalidad. He subrayado las palabras importantes de la oración para usted. No leas mi interpretación de inmediato, pero primero toma tu propia decisión. Entonces podrás unir tus descubrimientos a los míos y así dar un paso más hacia la consciencia cósmica de cuál es tu personalidad y sus posibilidades. Ahí lo tienes, estás listo... ¡Feliz descubrimiento!
@@ -168,3 +192,28 @@ Siendo el Padre UNO, su personalidad de infinidad unifica todo tipo de realidade
 Claude Flibotte
 Sainte-Julie (Québec)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en esperanto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Peut_On_Encore_Chasser_Le_Dinosaure_Dans_Satania">
+          <span class="pr-2">¿Podemos todavía cazar dinosaurios en Satania?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

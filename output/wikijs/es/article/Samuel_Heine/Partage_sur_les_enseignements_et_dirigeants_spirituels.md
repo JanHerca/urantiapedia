@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Samuel Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio sobre el encuentro de Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Informe de la reunión de Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un educador espiritual comparte su experiencia vivida individualmente en su progresión hacia Dios y esto en relación al nivel en el que se encuentra. Las almas sedientas de verdad toman por elección propia y según afinidad mutua lo que necesitan para crecer espiritualmente.
@@ -39,3 +63,28 @@ Unidos en servicio compartido en asociación con usted y en asociación con la j
 
 Samuel Heine
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio sobre el encuentro de Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Informe de la reunión de Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tríptico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">¿Deberíamos hacer malabarismos con los números?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Fue leyendo en “Mighty Messenger” del verano de 2003, el artículo titulado “La incertidumbre en la seguridad es la esencia de la aventura del Paraíso…” ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1)), que me vinieron estos pocos pensamientos:_
@@ -21,3 +45,28 @@ Es cuestionable si conocemos todas las razones por las que los autores de El lib
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tríptico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">¿Deberíamos hacer malabarismos con los números?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Robert Mondange<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en Burkina Faso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="pr-2">Cómo vivir con una mente abierta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Robert Mondange_
@@ -56,3 +80,28 @@ Fraternalmente.
 <figcaption>Canciones religiosas en el servicio</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia en Burkina Faso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="pr-2">Cómo vivir con una mente abierta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

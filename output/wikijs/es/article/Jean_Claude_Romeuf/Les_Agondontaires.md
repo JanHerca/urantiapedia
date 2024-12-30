@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amor: El Corazón de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qué afortunados sois vosotros, los agondontarios, porque “desde el principio se os confiarán muchas tareas especiales en empresas cósmicas donde la fe incuestionable y la confianza sublime son esenciales para el éxito”.
@@ -39,3 +63,28 @@ Tengo la esperanza de que la palabra “agondontario” se aplique a todos aquel
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amor: El Corazón de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

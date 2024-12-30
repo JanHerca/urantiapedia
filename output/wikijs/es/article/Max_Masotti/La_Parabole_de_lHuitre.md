@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Max Masotti<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El yo y el ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 noviembre 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sin aburrimiento, tomándoselo con calma, una ostra bailaba un vals en medio de las olas.
@@ -56,3 +80,28 @@ Gilles Bertrand 1 de abril de 2003
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El yo y el ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 noviembre 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

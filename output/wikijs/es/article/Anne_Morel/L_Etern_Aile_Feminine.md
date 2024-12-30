@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Anne Morel<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">El bosón de Higgs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Nota del editor: Hay seres notables con los que entramos en contacto sin ser plenamente conscientes de ellos hasta el día en que su presencia irrumpe en toda la luz de la amistad (de la redacción). Este es el caso de Anne, una joven tan elegante como brillante, cuya vivacidad irradia sencillez. Su punto fuerte: ¡el entusiasmo en el sentido más noble de la palabra! Totalmente femenina y tan cercana al Eterno que su testimonio cierra maravillosamente el tema del Eterno Femenino, tema que retoma a su manera._
@@ -36,3 +60,28 @@ Ana Morel
 <figcaption>“El Creador en sus obras”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">El bosón de Higgs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

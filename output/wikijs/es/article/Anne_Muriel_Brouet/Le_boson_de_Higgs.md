@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Anne-Muriel Brouet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ala eterna femenina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">Las vidas de los maestros (extractos)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El bosón de Higgs lleva el nombre del físico británico Peter Higgs. Muchas partículas elementales son bosones, como el fotón, la partícula de luz postulada por Einstein. La teoría de Higgs es una piedra angular de la teoría que describe el Universo, conocida como Modelo Estándar (SM). En MS, el bosón de Higgs (abreviado Higgs) explica por qué las partículas fundamentales tienen masa. En el verano de 1964, Peter Higgs y otros físicos postularon que existía un campo que llenaba todo el espacio. Cada partícula adquiere su propia masa al interactuar con este “campo de Higgs”. Los que interactúan fuertemente con este campo tienen mayor masa que los que interactúan débilmente, del mismo modo que un coche de carreras aerodinámico penetra el aire con mayor facilidad que un autobús. Una partícula virtual, el bosón de Higgs, está asociada a este mecanismo. Pero todo esto sigue siendo condicional, porque por el momento, el bosón de Higgs sólo existe en el papel.
@@ -43,3 +67,28 @@ Exista o no, el descubrimiento será importante y bien merecedor de un Premio No
 
 Anne-Muriel Brouet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ala eterna femenina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">Las vidas de los maestros (extractos)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

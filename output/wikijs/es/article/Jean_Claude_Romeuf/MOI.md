@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Cuando pasó</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Fueron necesarios millones y millones de años de evolución para obtener una criatura tan hermosa como yo! No soy perfecto, lo sé, ¡pero estoy trabajando en ello! Dado que los Portadores de Vida prometieron no interferir más con el curso de la evolución orgánica de mi planeta, yo soy responsable de mi destino. ¡A principios de siglo $XXI^º$ me parece que me estoy dando cuenta de que mi destino y el de toda la humanidad están en mis manos!
@@ -48,3 +72,28 @@ Admira y protege al mismo tiempo, al pequeño ser que soy, luchando en las incer
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Cuando pasó</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

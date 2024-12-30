@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Jean-Claude Romeuf<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (FIN)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poema…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Para la ciencia, Dios es una causa; para la filosofía, una idea; para la religión, una persona e incluso el Padre amoroso y celestial. Para los científicos, Dios es una fuerza primordial; para los filósofos, una hipótesis de unidad; para las personas religiosas, una experiencia espiritual viviente. El concepto inadecuado del hombre sobre la personalidad del Padre Universal sólo puede mejorar mediante el progreso espiritual del hombre en el universo, y sólo se volverá verdaderamente adecuado cuando los peregrinos del tiempo y del espacio alcancen finalmente el abrazo divino del Dios viviente en el Paraíso._» ([LU 1:6.2](/es/The_Urantia_Book/1#p6_2))
@@ -51,3 +75,28 @@ También hay valores adquiridos que no son otros que los significados espiritual
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (FIN)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poema…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Meredith J. Sprunger<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°15 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karuna_Leys/La_Realite_de_la_Personnalite_2">
+          <span class="pr-2">La realidad de la personalidad II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 3. Determinantes humanos: dominio de la voluntad y la mente
@@ -63,3 +87,28 @@ El coraje es la actitud personal-espiritual que afirma y proclama los hechos y v
 
 Meredith J. Sprunger
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_15_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°15 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-64-otoño-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 64 — Otoño 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karuna_Leys/La_Realite_de_la_Personnalite_2">
+          <span class="pr-2">La realidad de la personalidad II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

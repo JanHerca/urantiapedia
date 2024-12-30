@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado: el extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">El osteoclasto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (siguiente)
@@ -69,3 +93,28 @@ _Un ensayo de Matthew Block titulado: “Morontia Mota: una nueva perspectiva”
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado: el extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">El osteoclasto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

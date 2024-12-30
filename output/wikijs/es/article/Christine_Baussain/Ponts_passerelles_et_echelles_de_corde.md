@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Christine Baussain<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernimiento y libre albedrío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Nostalgie">
+          <span class="pr-2">Nostalgia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una animada discusión durante una reunión reciente entre lectores me animó a poner este pequeño testimonio por escrito, y agradezco de todo corazón a quienes me obligaron a aclarar mis pensamientos.
@@ -36,3 +60,28 @@ Además, el efecto de este conocimiento en la mente, en el sentido de una mejor 
 
 Cristina Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernimiento y libre albedrío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Nostalgie">
+          <span class="pr-2">Nostalgia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

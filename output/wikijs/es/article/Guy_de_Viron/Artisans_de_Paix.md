@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Guy de Viron<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del Presidente: Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Suicidio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La temporada de verano obliga, aquí tenéis una edición simplificada del Link con la reanudación de dos textos de Chris Ragetly, especialmente a petición de nuestro amigo Lucas. El primero aborda el tema del suicidio mientras que el segundo es más bien una serie de breves reflexiones.
@@ -34,3 +58,28 @@ El editor en jefe
 
 Guy de Virón
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del Presidente: Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Suicidio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

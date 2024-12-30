@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Anne-Marie Ronfet<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amigo de dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestra concepción de la verdad, la belleza y la bondad no deja de crecer, desde nuestra vida hasta nuestra llegada ante el Padre. Dios se revela a nosotros como verdad absoluta, belleza absoluta, bondad absoluta. No podemos formarnos otra idea. Este es nuestro mejor concepto de Dios. Imaginamos el Paraíso como un lugar de impresionante belleza. Imaginamos a los seres que rodean al Padre como verdaderas inteligencias vivientes y al Padre mismo como una bondad ilimitada.
@@ -57,3 +81,28 @@ Finalmente, se dejan “olvidar” en una especie de llamado a la unidad de toda
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amigo de dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

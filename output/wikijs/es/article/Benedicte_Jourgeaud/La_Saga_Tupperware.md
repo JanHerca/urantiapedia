@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Bénédicte Jourgeaud<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Simposio de Chicago 2011 - Fotos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°7 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La historia de Tupperware ilustra a la perfección el sueño americano: el famoso estilo de vida americano. Su fundador, Earl Tupper, es una personalidad de origen modesto que, gracias a una “buena” idea (el recipiente hermético), construirá un imperio con la idea de que **¡todos pueden triunfar por pura fuerza de voluntad**! Su sueño es ahorrar tiempo a las mujeres, es siempre una cuestión central para ellas. En la década de 1940, ahorrar tiempo dependía de una buena organización. Los “Merveilleux Bowls” y otros recipientes Tupperware te permiten conservar los alimentos, pero también organizarte mejor en la cocina. Hablamos de “optimizar” nuestro tiempo. Se trata de la elección de los alimentos, su conservación, su almacenamiento. Tupperware también es **Brownie Wise** quien, en los Estados Unidos de la década de 1950, es la prueba de que una mujer puede triunfar. En 1954, fue la primera mujer en aparecer en la portada de Business Week, que la declaró “empresaria del año”. Un gran éxito para esta madre divorciada que empezó a vender Tupperware para pagar las facturas médicas de su hijo enfermo...
@@ -31,3 +55,28 @@ _Según “Tupperware, la saga francesa”, Le Cherche Midi_
 
 Bénédicte Jourgeaud
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Simposio de Chicago 2011 - Fotos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°7 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

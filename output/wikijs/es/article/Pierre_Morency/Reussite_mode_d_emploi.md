@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Pierre Morency<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Páginas de letras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Maxien cuestionario n°3 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “_Ah, si tan solo tuviera esto, si fuera así, mi vida sería más placentera._” Trabaja duro, ahorra toda tu vida para beneficiarte más adelante. Una actitud demencial a los ojos de Pierre Morency, un físico quebequense que escribe best sellers en psicología. Su leitmotiv: pedir para recibir. También le puso el título de un libro, en el que anima no sólo a pedir, sino a pedir mucho, basándose en el principio de que cuanto más pides, más recibes.
@@ -55,3 +79,28 @@ Pierre Morency: “Pide y recibirás. Conozca los principios del éxito para una
 
 Pierre Morency
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Páginas de letras</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Maxien cuestionario n°3 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

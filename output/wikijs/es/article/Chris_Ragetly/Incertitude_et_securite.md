@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pronombres indefinidos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="pr-2">Dios, Consumidor del Destino Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La incertidumbre en la seguridad{4} es la esencia de la aventura hacia el Paraíso —incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraíso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso._ ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1))
@@ -81,3 +105,28 @@ Cuando hablamos del corazón humano y sus emociones y sentimientos, es por supue
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pronombres indefinidos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="pr-2">Dios, Consumidor del Destino Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

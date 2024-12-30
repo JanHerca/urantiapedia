@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Michel Hubaut<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génesis- Zizi - Computadora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Voyage_des_Peres">
+          <span class="pr-2">El viaje de los padres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “_El amor todo lo cree._” Debemos cultivar más bien la confianza que la desconfianza, así como Dios está más atento a nuestro futuro que a nuestro pasado.
@@ -51,3 +75,28 @@ _Según “Tras las huellas de San Pablo”, guía histórica y espiritual, Desc
 
 Michel Hubaut
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Genese_Zizi_Ordinateur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Génesis- Zizi - Computadora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Voyage_des_Peres">
+          <span class="pr-2">El viaje de los padres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

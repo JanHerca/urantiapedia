@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Yves Guillot-Goguet<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El número de junio de 2001 del “Journal de l'IUA” me agradó especialmente por la posición equilibrada y tolerante de Andrés Rodríguez “La virginidad de María”; el punto de vista está bien argumentado y evita cualquier exceso en un sentido u otro. Pero es sobre todo el artículo de Seppo Kanerva “¿Acerca de la religión deberíamos fundar una nueva iglesia? lo que me lleva a escribirte.
@@ -102,3 +126,28 @@ Yves Guillot-Goguet
 
 > _La conciencia intelectual puede descubrir la belleza de la verdad, su calidad espiritual, no sólo por la coherencia filosófica de sus conceptos, sino con más certeza y seguridad por la respuesta infalible del Espíritu de la Verdad siempre presente. La felicidad es el resultado del reconocimiento de la verdad porque ésta puede *exteriorizarse;* puede vivirse. La decepción y la tristeza acompañan al error porque, como éste no es una realidad, no se puede llevar a cabo en la experiencia. La verdad divina se conoce mejor por su *sabor espiritual*{65}._ ([LU 2:7.6](/es/The_Urantia_Book/2#p7_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

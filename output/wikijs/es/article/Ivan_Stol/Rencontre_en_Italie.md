@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preguntas sobre Dios Séptuple y otras definiciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="pr-2">Encuentro europeo en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -59,3 +83,28 @@ Qué más puedo decir, salvo que supongo que os podéis imaginar el ambiente que
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Questionnement_sur_Dieu_le_Septuple_et_autres_definitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preguntas sobre Dios Séptuple y otras definiciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="pr-2">Encuentro europeo en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Chris Halvorson<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete espíritus maestros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Division_Cellulaire_Wikipedia">
+          <span class="pr-2">La división celular (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por
@@ -99,3 +123,27 @@ Como resultado de la aclaración que hace el Libro de Urantia de las fechas abso
 [^4]: La meiosis (del griego μείωσις, meiōsis, “pequeño”, “reducción”, “reducción” 1), es un proceso de doble división celular descubierto por Edouard Van Beneden (1846-1910) y que tiene lugar en las células (diploides) de la línea germinal para formar los gametos (haploides), y no genéticamente idénticas.
 
 [^5]: Mitosis, del griego mitos que significa «filamento» (referencia a la apariencia de los cromosomas en microscopía), designa los eventos cromosómicos de la división celular en eucariotas. Esta es una duplicación no sexual/asexual (a diferencia de la meiosis). Es la división de una célula madre en dos células hijas estrictamente genéticamente idénticas.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete espíritus maestros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/La_Division_Cellulaire_Wikipedia">
+          <span class="pr-2">La división celular (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

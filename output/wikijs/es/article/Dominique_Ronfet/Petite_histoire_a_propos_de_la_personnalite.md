@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Dominique Ronfet<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/001">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="pr-2">Brújula cósmica infalible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestro héroe, cansado, acababa de regresar a casa. Por tanto, terminaba una jornada de trabajo (“ordinaria”, pensaba). Música, un baño...quizás un 'aperitivo'. Se lo merecía.
@@ -43,3 +67,28 @@ Así fue como nuestro héroe se fue a la cama con sabias resoluciones y el _sent
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/001">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="pr-2">Brújula cósmica infalible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

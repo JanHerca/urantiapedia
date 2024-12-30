@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Jean Royer<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celebra la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Homenaje a François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos conocemos, entre los lectores del Libro de Urantia, a personas impacientes que inmediatamente quieren ir más allá del Paraíso, para saber cómo será después de alcanzar la etapa post-final. A ellos nos gustaría recordarles algunos datos y observaciones sobre las etapas anteriores.
@@ -43,3 +67,28 @@ Sabemos lo que la impaciencia hizo hacer a nuestra madre Eva.
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celebra la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Homenaje a François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

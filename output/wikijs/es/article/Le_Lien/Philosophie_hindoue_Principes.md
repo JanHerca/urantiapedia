@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del universo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="pr-2">Maxien Quiz n°18 Preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1. _El primer principio:_ “**Quien conozcas es la persona adecuada**”. _Significa que nadie llega a nuestra vida por casualidad. Todos los que nos rodean, todas las personas con las que interactuamos, representan algo, ya sea enseñándonos algo o ayudándonos a mejorar una situación actual._
@@ -22,3 +46,28 @@ _Que el amor esté en todo tu ser._
 
 _Sé siempre feliz._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Une_autre_vision_de_l_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del universo.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_18_Les_questions">
+          <span class="pr-2">Maxien Quiz n°18 Preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

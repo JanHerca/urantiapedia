@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Robert Gallo<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Emergence_Pro_Machiventa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergencia - Pro Maquiventa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="pr-2">El ala eterna femenina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Organizado por lectores de la región parisina junto con los de Turena, este encuentro tuvo lugar los días 14 y 15 de noviembre en el dominio de Châles en Sologne, al sur de Orleans. Reunió a 11 participantes regionales a los que se sumaron Isabelle y Jean Annet de Bélgica para formar un grupo de 13 seminaristas que intercambiaron sus opiniones, en perfecta armonía, en el suntuoso marco del castillo que nos ha reservado y bajo la luz de un suave paisaje otoñal. sol.
@@ -27,3 +51,28 @@ Somos como Dios porque lo que nos caracteriza (Personalidad, Mente, Ajustador) e
 
 Roberto Gallo
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Emergence_Pro_Machiventa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergencia - Pro Maquiventa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-57-invierno-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 57 — Invierno 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="pr-2">El ala eterna femenina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

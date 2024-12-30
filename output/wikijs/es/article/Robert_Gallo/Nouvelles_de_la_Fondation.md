@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Robert Gallo<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Pause_Philosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ruptura filosófica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Vive_La_Difference">
+          <span class="pr-2">¡Viva la diferencia!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La última edición de El libro de Urantia (2021) estará disponible:
@@ -35,3 +59,28 @@ Lea en el sitio web de la fundación en la siguiente dirección:
 
 	Finalmente, durante el evento estará disponible una nueva versión para Android de El Libro de Urantia y sus traducciones (con motor de búsqueda, comparación entre dos idiomas, copiar y pegar, y otras características interesantes) que incorpora las últimas revisiones de las traducciones al español y al ruso. primer trimestre de 2022.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Pause_Philosophique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ruptura filosófica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Vive_La_Difference">
+          <span class="pr-2">¡Viva la diferencia!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

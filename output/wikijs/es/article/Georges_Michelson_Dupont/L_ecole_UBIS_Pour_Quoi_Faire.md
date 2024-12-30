@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2021 Georges Michelson-Dupont<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="pr-2">Un viaje fantástico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todo el mundo está de acuerdo en que leer y luego estudiar el libro únicamente es intelectualmente arduo, lo que distrae a muchos lectores potenciales del beneficio que podrían obtener de la revelación para ellos y quienes los rodean. No estamos aquí para juzgar sino para intentar encontrar soluciones.
@@ -93,3 +117,28 @@ Nugroho Widi, (Indonesia) Corazones: el UNO infinito. (septiembre de 2020)
 
 > La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor. ([LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="pr-2">Un viaje fantástico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

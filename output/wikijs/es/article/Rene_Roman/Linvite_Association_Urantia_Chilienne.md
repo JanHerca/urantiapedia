@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 René Roman<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Filosofía humana y mota.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos amigos y compañeros lectores del _Libro de Urantia_:
@@ -45,3 +69,28 @@ Construir un grupo de estudio es un esfuerzo que puede tener resultados signific
 
 René Román
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Filosofía humana y mota.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

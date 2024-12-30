@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">El estudio de Bill Sadler sobre síntesis y coordinación funcional.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El 12 de octubre de 1955, la Fundación Urantia publicó El Libro de Urantia en los Estados Unidos en 10.000 ejemplares. La historia revela que esta fue la culminación de un largo trabajo preparatorio de contacto realizado en el año 1911 entre seres supracelestes y un pequeño grupo de personas en la ciudad de Chicago. El proceso de contacto y transmisión dio como resultado la materialización de los Documentos de Urantia en cuatro partes, la primera y la segunda en 1934, la tercera en 1935 y la última, la vida de Jesús en 1937. En la jerarquía de las revelaciones urantianas, esta es la quinto.
@@ -91,3 +115,28 @@ Finalmente, estudiar las enseñanzas de El Libro de Urantia puede resultar difí
 
 _Georges Michelson-Dupont. Recerrado_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">El estudio de Bill Sadler sobre síntesis y coordinación funcional.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Pastor Louis Pernot<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne'mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°1 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La primera pregunta es qué hacer con él. ¿Es una oración para recitar, para repetir regularmente como un texto fijo? Nada es menos seguro y, en cualquier caso, no se trata de rezar el Padre Nuestro. En el Evangelio de Mateo, Cristo condena con razón a los paganos y sus vanas repeticiones. Repetir mecánicamente un texto, incluso el más bello, no es rezar. [...]
@@ -81,3 +105,28 @@ Una vez más, existe el riesgo de una interpretación pasiva. De hecho, podemos 
 
 Pastor Luis Pernot
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne'mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Maxien cuestionario n°1 Las preguntas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

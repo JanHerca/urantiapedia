@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Jean Davier<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Petite_histoire_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña historia sobre la personalidad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="pr-2">Reflexión: Nos dicen...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Leímos y apreciamos el artículo de Jacques Tétrault en el número 100 de “Reflectivity” y titulado “prioridad”. Este texto es fundamental, se revela más que un estudio aislado sobre un tema que a menudo se olvida rápidamente o pasa a ser secundario.
@@ -33,3 +57,28 @@ Nuestra vida alterna entre siembra y cosecha; trabajemos intensamente en nuestro
 
 J. David
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Petite_histoire_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña historia sobre la personalidad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Reflexion_Ils_nous_disent">
+          <span class="pr-2">Reflexión: Nos dicen...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

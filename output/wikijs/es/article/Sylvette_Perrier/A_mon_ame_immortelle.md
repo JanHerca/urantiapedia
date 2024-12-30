@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Sylvette Perrier<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_texte_du_Tresor_explique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El texto del “Tesoro” explicado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="pr-2">Sección del boletín: En la empresa matriz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 nostalgia inconmensurable,
@@ -45,3 +69,28 @@ Oh mi gota de Luz.
 
 Poema escrito en 1963 por Sylvette Perrier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_texte_du_Tresor_explique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El texto del “Tesoro” explicado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="pr-2">Sección del boletín: En la empresa matriz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

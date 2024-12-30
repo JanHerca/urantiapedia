@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/071">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 71 – Otoño de 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="pr-2">Carta editorial del Enlace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 QUERIDOS lectores, buscadores de la verdad, Queridos miembros de la AFLLU,
@@ -27,3 +51,28 @@ Para el equipo editorial y el editor jefe:
 
 _Georges Michelson-Dupont_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/071">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 71 – Otoño de 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="pr-2">Carta editorial del Enlace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Jean Royer<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ojos azules</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Auto_Guerison">
+          <span class="pr-2">Autosanación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Libro de Urantia está lleno de indicaciones numéricas que pueden hacer creer al investigador que podrá calcular todo tipo de cosas, pero en realidad a estas indicaciones frecuentemente les siguen otras tan imprecisas que sólo permiten acceder a un orden de magnitud y no a cálculos precisos. Tomemos algunos ejemplos:
@@ -35,3 +59,28 @@ _NB: Me gustaría ver otros cálculos realizados por los lectores_
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ojos azules</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Auto_Guerison">
+          <span class="pr-2">Autosanación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

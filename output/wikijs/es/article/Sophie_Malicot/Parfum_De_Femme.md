@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Sophie Malicot<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">La experiencia de la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando **de repente** la mirada se abre, los ojos del alma ven y los oídos del alma oyen.
@@ -63,3 +87,28 @@ Sofía MALICOT
 
 Muchos términos de esta historia han sido tomados prestados de los siguientes folletos: [LU 189:4](/es/The_Urantia_Book/189#p4) // [LU 189:5](/es/The_Urantia_Book/189#p5) // [LU 190:0](/es/The_Urantia_Book/190) // [LU 190:2.5](/es/The_Urantia_Book/190#p2_5) // [LU 193:3.1](/es/The_Urantia_Book/193#p3_1) // [LU 196:3.34](/es/The_Urantia_Book/196#p3_34) // [LU 142:2.4](/es/The_Urantia_Book/142#p2_4)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">La experiencia de la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

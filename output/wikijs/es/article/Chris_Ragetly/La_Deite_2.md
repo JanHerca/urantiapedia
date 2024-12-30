@@ -1,5 +1,5 @@
 ---
-title: "la deidad"
+title: "La deidad"
 description: 
 published: true
 date: 2024-10-19T15:5:2Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Chris Ragetly<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las siete realidades fundamentales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En El Libro de Urantia, el término «Deidad» se asigna a varias personalidades divinas, ya sean solas, asociadas existenciales o asociadas experienciales, pero el término también puede referirse a personalidades no divinas. En la introducción, un Asesor Divino nos dice varios niveles en los que funciona la Deidad total.
@@ -61,3 +85,28 @@ De este modo habremos tenido la oportunidad de ascender los diferentes niveles d
 
 Chris Ragelty
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las siete realidades fundamentales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

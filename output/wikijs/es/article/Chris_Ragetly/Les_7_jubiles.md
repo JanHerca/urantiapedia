@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña reflexión sobre el poder de amar (parte 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="pr-2">El Libro y sus fuentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 606 Urantia — Satania 24 Jerusem — Norlatiadek
@@ -123,3 +147,28 @@ Y ahora el servicio eterno se abre ante el nuevo finalista y, cuando un finalist
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña reflexión sobre el poder de amar (parte 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="pr-2">El Libro y sus fuentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

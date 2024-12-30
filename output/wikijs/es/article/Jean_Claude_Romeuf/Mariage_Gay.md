@@ -1,5 +1,5 @@
 ---
-title: "matrimonio homosexual"
+title: "Matrimonio homosexual"
 description: 
 published: true
 date: 2024-10-17T22:23:59Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reglas para ser humano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°13 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay noches en las que estamos un poco cansados, por el trabajo, por el cansancio de estar solos en casa y por la sensación de que el mundo entero está parado, que las ideas esbozadas por los amigos no se parecen en nada. a los ideales que uno quisiera ver surgir repentinamente de sus labios. Así que preparamos una buena comida y nos sentamos tristemente a beber dos o tres copas de buen vino.
@@ -25,3 +49,28 @@ Si no fuera así, Dios no me dejaría solo para realizar esta tarea hacia Él po
 
 Jean-Claude Romeuf 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reglas para ser humano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°13 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

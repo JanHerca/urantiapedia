@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapa de conciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">El equipo de Shamengo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El **Movimiento Colibrí** toma su nombre de una leyenda nativa americana: Un día, dice la leyenda, hubo un gran incendio forestal. Todos los animales aterrorizados y consternados observaron impotentes cómo se desarrollaba el desastre. Sólo el pequeño colibrí estaba activo, cogiendo con el pico unas gotas para arrojar al fuego. Al cabo de un momento, el armadillo, molesto por aquella ridícula agitación, le dijo: “¡Colibrí! ¿No estás loco? ¡No es con estas gotas de agua que vas a apagar el fuego! »
@@ -63,3 +87,28 @@ La Tierra necesita tiempo para renovar los recursos que tomamos y absorber los d
 <figcaption>Fig. 6. - cadena</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mapa de conciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-69-invierno-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 69 — Invierno 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">El equipo de Shamengo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

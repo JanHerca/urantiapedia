@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia de la vida.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Reunión anual en Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -99,3 +123,28 @@ Y como, por supuesto, conviene empezar por utilizar lo que ya es interesante, es
 - por esta primera y obvia razón de que a nivel estrictamente etimológico abarca una realidad diferente a la que queremos poner allí
 - pero también para éste, mucho más serio y profundo, que en un mundo que quiere clasificar incansablemente. etiqueta; En un mundo donde tanto fanatismo emerge tan fácilmente, donde tantas tendencias permanecen mal controladas, donde se observan con tanta frecuencia verdaderas precipitaciones hacia un activismo estéril, la vocación de unificadores que tenemos la ambición de vivir a la luz de las enseñanzas de la El Libro de Urantia no funcionaría muy bien con cualquier otra etiqueta que no fuera la de creyentes, Hijos de Dios y hermanos por la Fe.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La historia de la vida.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Reunión anual en Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

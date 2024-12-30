@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Cyril Causette<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Investigación de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="pr-2">De la oración primitiva a la oración ética: mi experiencia personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Podemos comparar el camino del crecimiento espiritual con el de estos cinco hijos con edad suficiente para dejar el hogar familiar y querer construir su casa.
@@ -28,3 +52,28 @@ El cuarto construyó una casa de buena calidad pero muy pequeña. Después no qu
 
 **Cyril Causette**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Investigación de la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/De_La_Priere_Primitive_A_La_Priere_Ethique">
+          <span class="pr-2">De la oración primitiva a la oración ética: mi experiencia personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

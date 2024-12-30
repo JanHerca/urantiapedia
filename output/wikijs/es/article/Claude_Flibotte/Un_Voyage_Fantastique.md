@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Para qué sirve la escuela UBIS?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/De_L_energie_A_La_Matiere">
+          <span class="pr-2">De la energía a la materia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia">
@@ -39,3 +63,28 @@ Finalmente, después de una inmersión fenomenal, me encontré en mi cuerpo mate
 Claude Flibotte
 Sainte-Julie (Québec) Canadá
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Para qué sirve la escuela UBIS?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/De_L_energie_A_La_Matiere">
+          <span class="pr-2">De la energía a la materia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

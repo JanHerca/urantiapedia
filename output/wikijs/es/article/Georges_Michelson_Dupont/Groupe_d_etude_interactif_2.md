@@ -9,6 +9,27 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visita a Italia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > En la nueva edición del Enlace, os invitamos a profundizar algunos conceptos del _Libro de Urantia_ de forma interactiva, un poco como un grupo de estudio. Se formularán preguntas sobre un tema determinado con una lista de lecturas sugeridas para responderlas.
@@ -79,3 +100,25 @@ _¿Por qué este mandato inevitable es “nuestro primer deber y nuestra mayor a
 
 El tercer periodo será publicado en el Enlace Nº 73 de marzo de 2016
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Visite_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visita a Italia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

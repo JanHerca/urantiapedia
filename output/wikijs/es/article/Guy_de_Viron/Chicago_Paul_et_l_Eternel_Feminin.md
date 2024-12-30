@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Mots_de_Voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palabras de viaje</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="pr-2">Las pequeñas bienaventuranzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Simposio de Chicago es, en sí mismo, un acontecimiento tan deslumbrante que bastaría para llenar esta edición del Link. ¡Disfruta entonces de los testimonios de Jean y Dominique! ¡Con gratitud por haber sido “nuestros ojos” y nuestros portavoces a nivel global!
@@ -34,3 +58,28 @@ El editor en jefe
 
 Guy de Virón
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Mots_de_Voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Palabras de viaje</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="pr-2">Las pequeñas bienaventuranzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

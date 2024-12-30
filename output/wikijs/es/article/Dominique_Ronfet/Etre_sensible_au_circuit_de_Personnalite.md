@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Dominique Ronfet<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El niño Jesús y los doctores de la Ley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dominique R.
@@ -82,3 +106,28 @@ Bueno, esa es mi opinión.
 
 —Me asustas un poco. Y no entiendo nada de lo que dices.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_enfant_Jesus_et_les_docteurs_de_la_Loi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El niño Jesús y los doctores de la Ley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="pr-2">El cuentagotas, la cuchara y la pala</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

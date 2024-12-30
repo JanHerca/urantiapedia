@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Georges Michelson Dupont<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los peligros de un planeta decimal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Terre_2">
+          <span class="pr-2">Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Del 17 al 19 de junio se celebrará por videoconferencia el Simposio Científico 2022 organizado por la Fundación Urantia.
@@ -186,6 +210,31 @@ Estos ángeles son responsables de la revelación durante los primeros 100 años
 Estos ángeles son responsables de la revelación durante 500 años, del 2055 al 2555.
 
 A partir de 2055, podemos esperar una nueva dinámica en la evolución espiritual y social de la humanidad que parece corresponder bien al fin de la actual lucha ideológica que menciona el “Mandato de Publicación”.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los peligros de un planeta decimal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Terre_2">
+          <span class="pr-2">Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## En conclusión.
 

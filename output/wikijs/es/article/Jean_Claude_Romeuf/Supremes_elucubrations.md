@@ -1,5 +1,5 @@
 ---
-title: "desvaríos supremos"
+title: "Desvaríos supremos"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jean-Claude Romeuf<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Botella pequeña llena</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="pr-2">2002 Encuentro Internacional Avance No. 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En la introducción a El Libro de Urantia se puede observar que el Ser Supremo es un componente trinitario de la primera Trinidad experiencial mientras que es Dios Supremo quien participa en el advenimiento de la Trinidad Absoluta.
@@ -23,3 +47,28 @@ Podríamos, por tanto, esperar que el advenimiento del Ser Supremo (ciertamente 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Botella pequeña llena</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="pr-2">2002 Encuentro Internacional Avance No. 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean Royer<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Jugement_hatif">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Juicio apresurado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="pr-2">Testimonio: Bodas de Diamante o la filosofía sonriente de octogenarios serenos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La ciencia termina su investigación, por medio de la razón, en la hipótesis de una Causa Primera. La religión no se detiene en su trayectoria de fe hasta estar segura de la existencia de un Dios de salvación. Los estudios discriminatorios de la ciencia sugieren lógicamente la realidad y la existencia de un Absoluto. La religión cree sin reservas en la existencia y en la realidad de un Dios que fomenta la supervivencia de la personalidad. Aquello que la metafísica no logra hacer de ninguna manera, y aquello que incluso la filosofía sólo logra hacer parcialmente, la revelación lo consigue: es decir, afirmar que esta Causa Primera de la ciencia y que el Dios de salvación de la religión son *una sola y misma Deidad*._ ([LU 101:2.7](/es/The_Urantia_Book/101#p2_7))
@@ -77,3 +101,28 @@ Jean-Royer
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Jugement_hatif">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Juicio apresurado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="pr-2">Testimonio: Bodas de Diamante o la filosofía sonriente de octogenarios serenos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

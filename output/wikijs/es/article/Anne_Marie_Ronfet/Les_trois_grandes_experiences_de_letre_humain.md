@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Anne-Marie Ronfet<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente artículo está inspirado en la lectura del “Centro del Ser” de K. G. DURCKHEIM [^1], un psicoterapeuta alemán que vivió mucho tiempo en Japón. Discípulo de Jung, intentó conciliar la espiritualidad occidental y oriental y sólo trató a personas con problemas psicológicos debido a una búsqueda espiritual. De hecho, estaba interesado en lo que es común a todas las religiones: un método para ayudar al hombre a acceder a la “Trascendencia”._
@@ -51,3 +75,28 @@ Dürckheim: “Una objeción común es que la Trascendencia es externa al hombre
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

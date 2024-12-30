@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Max Masotti<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Resurrections_des_mortels_apres_la_mort_physique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resurrecciones de los mortales después de la muerte física.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_11">
+          <span class="pr-2">Las Siete Realidades Fundamentales XI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Jesús**
@@ -41,3 +65,28 @@ Max Masotti
 <figcaption>“¡Me estoy renovando continuamente!”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Resurrections_des_mortels_apres_la_mort_physique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resurrecciones de los mortales después de la muerte física.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_11">
+          <span class="pr-2">Las Siete Realidades Fundamentales XI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Françoise Burniat<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La filosofía que salva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Jung/Leger_leger">
+          <span class="pr-2">¡Luz, luz!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En los 7 otorgamientos que hizo en los mundos que él mismo había creado, Miguel de Nebadón demostró ser un soberano comprensivo y compasivo. Los Melquisedec, por ejemplo, dijeron de él: “_Nos amó, nos entendió, sirvió con nosotros y seremos para siempre sus leales y devotos compañeros._” ([LU 119:1.5](/es/The_Urantia_Book/119#p1_5))
@@ -83,3 +107,28 @@ Se convirtió en la educadora del evangelio más eficaz entre las doce mujeres e
 
 Françoise Burniat
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_philosophie_qui_sauve">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La filosofía que salva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-51-verano-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 51 — Verano 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Jung/Leger_leger">
+          <span class="pr-2">¡Luz, luz!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

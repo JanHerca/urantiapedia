@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Anne-Marie Ronfet<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ajustador según C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “Ama a tu prójimo como a ti mismo”.
@@ -31,3 +55,28 @@ Entonces, cuando finalmente entendemos que la paz se nos ofrece como un refugio 
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Ajustador según C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia en Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

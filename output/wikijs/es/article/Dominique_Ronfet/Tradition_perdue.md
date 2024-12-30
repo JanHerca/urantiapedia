@@ -1,5 +1,5 @@
 ---
-title: "tradición perdida"
+title: "Tradición perdida"
 description: 
 published: true
 date: 2024-11-7T14:46:54Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Dominique Ronfet<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detrás del “YO SOY” ¿qué hay?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">YO SOY y el Principio de Causalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dominique Ronfet
@@ -89,3 +113,28 @@ El sufismo nunca se practica solo: quien aspira a él, el mourid, debe ser atend
 
 Los sufíes creen que el nombre de Mahoma es santo y sagrado. La devoción a Mahoma es la práctica más fuerte del sufismo. Los sufíes siempre han reverenciado a Mahoma como la principal personalidad de grandeza espiritual.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detrás del “YO SOY” ¿qué hay?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">YO SOY y el Principio de Causalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

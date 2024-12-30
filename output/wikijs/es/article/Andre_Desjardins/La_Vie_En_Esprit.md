@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2021 André Desjardins<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia o revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="pr-2">Lo que el libro de Urantia significa para mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 André Desjardins
@@ -118,3 +142,27 @@ Finalmente, quiero rendir homenaje a los autores de los 196 fascículos del _Lib
 [^1]: Vivir en espíritu significa trascender el tiempo y el espacio al considerarse mentalmente presente en un lugar sin la obligación de estar físicamente presente allí.
 
 [^2]: Diseño personal
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia o revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="pr-2">Lo que el libro de Urantia significa para mí</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

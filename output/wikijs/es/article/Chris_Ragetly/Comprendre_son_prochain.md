@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/035">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 35 - Otoño/Invierno de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="pr-2">Ciencia, filosofía, religión y revelación.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Dios es inherentemente bondadoso, compasivo por naturaleza y perpetuamente misericordioso. Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora. Puesto que Dios lo sabe todo acerca de sus hijos, le resulta fácil perdonar. Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo._ ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
@@ -19,3 +43,28 @@ CM Ragetly
 
 _(Las citas de El libro de Urantia están en cursiva)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/035">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 35 - Otoño/Invierno de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="pr-2">Ciencia, filosofía, religión y revelación.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

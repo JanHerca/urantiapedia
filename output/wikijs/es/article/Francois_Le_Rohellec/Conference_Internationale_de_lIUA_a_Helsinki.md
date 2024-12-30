@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1997 François Le Rohellec<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/005">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="pr-2">Reunión del 21 de septiembre de 1997 en Villebon-Sur-Yvette</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La próxima conferencia internacional de la I.U.A tendrá lugar en Helsinki, Finlandia. (Asociación Urantia Internacional), el primero que tuvo lugar en otro lugar que no sea suelo americano. Éste, por tanto, está organizado por la Asociación Urantia de Finlandia, que desea hacer todo lo posible para que cada uno de los participantes, sea cual sea su nacionalidad, pueda alegrarse de un encuentro de este tipo que reúne a tantos lectores diferentes del Libro de Urantia.
@@ -64,3 +88,28 @@ Asociación Urantia Finlandesa — Reneberginkatu 54a A 5 — 00260 Helsinki —
 Correo electrónico: urantia@pp.kolumbus.fi
 Web: http://koti.kolumbus.fi/urantia
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/005">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="pr-2">Reunión del 21 de septiembre de 1997 en Villebon-Sur-Yvette</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

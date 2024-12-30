@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2000 Jean Davier<br>© 200 Asociación Francófona de Lectores del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un incendio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">¿Existe Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El término Melquisedec designa un orden de hijos divinos a medio camino en la jerarquía espiritual entre Dios y los hombres. También se les llama cables de emergencia. Después de la rebelión del príncipe planetario Caligastia y el fracaso de los hijos materiales Adán y Eva, doce Melquisedec asumieron jurisdicción supramaterial sobre nuestro planeta. Pueden hacerse visibles a las criaturas materiales e incluso encarnar como fue el caso de Maquiventa Melquisedec en nuestra tierra. Es interesante consultar las crónicas testamentarias y neotestamentarias que tratan este tema:
@@ -48,3 +72,28 @@ La historia nos revela que no existe una “tarde de los mundos”, sino que los
 
 Juan David
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un incendio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">¿Existe Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

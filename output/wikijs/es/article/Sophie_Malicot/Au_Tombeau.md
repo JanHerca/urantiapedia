@@ -1,5 +1,5 @@
 ---
-title: "en la tumba"
+title: "En la tumba"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Sophie Malicot<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaciones entre materia, mente y espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="pr-2">Revelación de la Edad Media</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sofía Malicot
@@ -84,3 +108,28 @@ En agradecimiento infinito, sus lágrimas inundadas de luz solar fluyen y se mez
 <figcaption>Pintura de David Guzmán</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaciones entre materia, mente y espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="pr-2">Revelación de la Edad Media</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

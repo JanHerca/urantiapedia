@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Meredith J. Sprunger<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°19 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/La_nouvelle_Jerusalem">
+          <span class="pr-2">La nueva Jerusalén</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## C. LAS TRES CARACTERÍSTICAS DE REFERENCIA DE LA VIDA ESPIRITUAL (Los resultados)
@@ -89,3 +113,28 @@ Sobre todo, vivan con alegría en su corazón y encuentren alegría en su servic
 
 Meredith J. Sprunger
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_19_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien Quiz n°19 Preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/La_nouvelle_Jerusalem">
+          <span class="pr-2">La nueva Jerusalén</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

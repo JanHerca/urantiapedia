@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Guy Bourhis<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">¿Quién era Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es muy difícil darnos cuenta del trabajo que el Ajustador está haciendo en nuestra mente, sobre todo cuando sabemos que, la mayoría de las veces, esta “adhesión” por nuestra parte a su misión no es un proceso <ins >consciente</ins> (% %0%%).
@@ -46,3 +70,28 @@ Esto demuestra claramente que la L.U., 5ta^ Revelación hecha a los hombres del 
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera de 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">¿Quién era Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

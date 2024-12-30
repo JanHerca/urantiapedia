@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Jean Royer<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Faut_Il_Avoir_Peur_de_L_islam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Deberías tener miedo del Islam?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="pr-2">Evaluación y renuncia a la ABFU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El hombre siempre ha buscado el elixir de la larga vida; sin embargo, el _Libro de Urantia_ nos dice: _los seres humanos nacen, viven y mueren relativamente en un instante_. ([LU 112:5.4](/es/The_Urantia_Book/112#p5_4))
@@ -70,3 +94,28 @@ Jean Royer — julio de 2016
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Faut_Il_Avoir_Peur_de_L_islam">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Deberías tener miedo del Islam?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Anet/Bilan_et_Demission_de_L_ABFU">
+          <span class="pr-2">Evaluación y renuncia a la ABFU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

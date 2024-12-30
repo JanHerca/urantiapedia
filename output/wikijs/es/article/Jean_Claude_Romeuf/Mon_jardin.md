@@ -1,5 +1,5 @@
 ---
-title: "mi jardin"
+title: "Mi jardin"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Jean-Claude Romeuf<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reencarnación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Pages_Lyriques">
+          <span class="pr-2">Páginas de letras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mi jardín es un mar profundo.
@@ -60,3 +84,28 @@ Y que poco a poco se vuelve tan manso como mis gallinas.
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reencarnación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Pages_Lyriques">
+          <span class="pr-2">Páginas de letras</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

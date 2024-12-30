@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Jean Claude Romeuf<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Hommage_a_Jean_Royer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Homenaje a Jean Royer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="pr-2">Volver a dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Podría haberte dicho: “Espera un poco, espera que mi guitarra llore cuando te diga adiós. »
@@ -37,3 +61,28 @@ _Jean-Claude — 6 de febrero de 2018_
 <img src="/image/article/Le_Lien/images_02/122.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Hommage_a_Jean_Royer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Homenaje a Jean Royer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="pr-2">Volver a dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

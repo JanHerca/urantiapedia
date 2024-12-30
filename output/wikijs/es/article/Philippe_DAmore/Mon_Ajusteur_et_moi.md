@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Philippe D'Amore<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El centro de decisiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-12-invierno-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 12 — Invierno 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como todos los lectores del Libro de Urantia, intento sin pretensiones acercarme a mi ajustador del pensamiento, ponerme en contacto con él, para ello tengo mi método, no sé si lo conseguiré pero quiero creerlo.
@@ -44,3 +65,25 @@ Para leer: El orden del silencio de Gurdjieff a Melquisedec por Robert Pages Edi
 
 Philippe D'Amore
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El centro de decisiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-12-invierno-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 12 — Invierno 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

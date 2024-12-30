@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Joseph Servant<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano de 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Porteurs_de_vie">
+          <span class="pr-2">Portadores de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde toda la eternidad existe el “YO SOY”, el Dios infinito que creó el universo de universos y lo administra continuamente. ([LU 195:7.18](/es/The_Urantia_Book/195#p7_18)); Él se nos revela como el Padre Universal, un Padre amigo. El centro del universo de universos es el universo central, universo perfecto compuesto por el Paraíso, rodeado por 10 circuitos elípticos concéntricos, que comprenden más de mil millones de esferas habitadas por una infinidad de personas creadas perfectas. Este universo central no tuvo principio, siempre ha existido, es existencial. Alrededor de este universo existencial, en sucesivos circuitos elípticos, se construyó experiencial, evolutivamente, el Gran Universo, a partir de la energía primordial que se condensa en nebulosas de las que se expulsan soles, que expulsan planetas como el NUESTRO.
@@ -37,3 +61,28 @@ André Malraux dijo que “el siglo XXI será espiritual o no lo será. » Lo es
 
 José sirviente
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano de 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Porteurs_de_vie">
+          <span class="pr-2">Portadores de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

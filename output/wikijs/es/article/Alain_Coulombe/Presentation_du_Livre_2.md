@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Alain Coulombe<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">Una pequeña reflexión sobre el poder de amar (parte 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sólo durante sus años de inocencia o si ha logrado, por decisión personal, purificarse y espiritualizarse un poco, a veces a costa de alguna dura prueba, el ser humano puede conceder, parcialmente y casi siempre sin su conocimiento, el paso. a la exhortación divina entregada en su espíritu por el fragmento del Padre universal. Por limitados e imperfectos que sean, estos contactos entre la criatura y el creador enriquecen inmensamente el pensamiento humano al permitirle forjar, día tras día, lo que quedará de él después de la muerte, su alma, esta entidad preespiritual y altruista. y fraternos, libres de la gravedad animal y vigorizados por el espíritu de confianza y el de la verdad. Adormecida desde el momento de la muerte física y transportada por personalidades espirituales a mundos construidos al efecto, el alma puede resultar capaz de animar un cuerpo supramaterial y luego emprender, con la ayuda afectuosa y a salvo de guías pacientes y devotos, el largo y devoto camino. fascinante viaje que la llevará a la eternidad. Y cuando finalmente haya conquistado el tiempo y el espacio, traspasado los misterios y dominado los mecanismos del pensamiento cósmico y conocido a Dios en las tres infinitas personas de su trinidad, se le propondrán otras realizaciones, aún más prodigiosas.
@@ -33,3 +57,28 @@ Las criaturas humanas no deben esperar que Dios les demuestre su poder mediante 
 
 A pesar de la extrema discreción de Dios, a veces sucede que, por una razón u otra y más frecuentemente cuando una emergencia planetaria lo requiere, la breve y limitada intervención de personalidades supramateriales influye fuertemente en ciertas criaturas humanas, creando así algunas raras pero espectaculares interferencias de lo espiritual en la materia. También es común que el mensaje transmitido en estas circunstancias sea parcialmente malinterpretado y transformado por la mente humana que lo recibe, pero no siempre es así. En general, debe considerarse corrupto cualquier mensaje que contenga proposiciones contrarias a la exhortación esencial de Dios, que nos ordena elevarnos hacia él amando, ayudando y respetando a las demás criaturas humanas. Hace algunas décadas apareció en este planeta un largo mensaje escrito que proporciona al ser humano una historia actualizada de las relaciones entre Dios y sus criaturas y que, sin duda, proporcionará a las generaciones futuras una abundante fuente de reflexión.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">Una pequeña reflexión sobre el poder de amar (parte 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

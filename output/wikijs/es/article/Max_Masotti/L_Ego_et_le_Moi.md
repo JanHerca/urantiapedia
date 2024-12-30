@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Max Masotti<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento Personal - Arrival Worlds Houses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="pr-2">¡Guten Tag Urantia!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 EGO es un sustantivo tomado del pronombre personal latino “ego” que significa “yo”. Generalmente se refiere a la representación y conciencia que uno tiene de sí mismo. A veces se considera como el fundamento de la personalidad (en psicología), a veces se considera como un obstáculo para nuestro desarrollo personal (en espiritualidad).
@@ -85,3 +109,28 @@ Ya no quiero hablar de YO ni de EGO. Es una estupidez, no tenía nada más que d
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Personal_Growth_Arrival_Mansion_Worlds">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento Personal - Arrival Worlds Houses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="pr-2">¡Guten Tag Urantia!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

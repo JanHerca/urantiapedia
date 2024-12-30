@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Servant/Synthese_de_la_realite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen de la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_travail_dequipe">
+          <span class="pr-2">Trabajo en equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ustedes los humanos tienen lo que nosotros, los Portadores de Vida, llamamos “juicio corto”. La mayoría de ustedes no ven mucho más allá de la duración de su vida. En esta escala las cosas parecen no progresar, el mal y la desgracia parecen ser la parte dominante de la historia. Vemos la evolución de manera diferente. Quizás un poco de contexto histórico pueda resultarle útil.
@@ -31,3 +55,28 @@ Fui testigo del florecimiento del pensamiento reflexivo y a veces de la regresi�
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Servant/Synthese_de_la_realite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen de la realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-22-verano-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 22 — Verano 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_travail_dequipe">
+          <span class="pr-2">Trabajo en equipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

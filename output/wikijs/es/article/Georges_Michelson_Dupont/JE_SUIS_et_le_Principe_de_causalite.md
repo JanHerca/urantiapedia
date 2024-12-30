@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tradición perdida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_petite_graine">
+          <span class="pr-2">La pequeña semilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 George Michelson Dupont
@@ -150,3 +174,28 @@ Para dar un ejemplo de función, tomemos nuevamente el ejemplo de la empresa. Ne
 
 Fue útil revisar la preparación en la eternidad del marco cósmico en el que se materializarán los universos y se establecerá el destino. En el siguiente ENLACE veremos cómo la Trinidad del Paraíso, los Absolutos de Potencialidad, las Deidades experienciales, las triunidades así como los agentes del Espíritu Infinito y los Arquitectos del universo Maestro combinan sus esfuerzos para traer los universos a la existencia. Una vez más, tengamos presente que la creación material finita, absonita e incluso absoluta es sólo un soporte material para la manifestación del Amor de Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Tradition_perdue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tradición perdida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_petite_graine">
+          <span class="pr-2">La pequeña semilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

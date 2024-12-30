@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jean Royer<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="pr-2">Vivir la voluntad de nuestro Padre: una experiencia diaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 No hay un solo punto de vista en El Libro de Urantia con respecto a la democracia. Por un lado, se nos dice: _Ni la democracia ni ninguna otra panacea política reemplazarán el progreso espiritual._ ([LU 195:6.10](/es/The_Urantia_Book/195#p6_10)) _Las elecciones populares no siempre deciden. lo correcto, pero son la forma correcta de cometer incluso un error._ ([LU 71:2.8](/es/The_Urantia_Book/71#p2_8))
@@ -33,3 +57,28 @@ Pregunta: ¿Hasta qué punto estamos dispuestos a aceptar decisiones democrátic
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/017">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera de 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="pr-2">Vivir la voluntad de nuestro Padre: una experiencia diaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Priere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="pr-2">Mandela, Gandhi, M.L. King... ¿Y Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introducción
@@ -125,3 +149,28 @@ Un día el hombre deberá aprender a disfrutar de la libertad sin licencia, de l
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Priere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-68-otoño-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 68 — Otoño 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Benoit/Mandela_Gandhi_King_Et_Jesus">
+          <span class="pr-2">Mandela, Gandhi, M.L. King... ¿Y Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

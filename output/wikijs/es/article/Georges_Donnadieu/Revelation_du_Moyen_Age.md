@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Georges Donnadieu<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_Tombeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la tumba</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="pr-2">Nuestra experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Donnadieu
@@ -139,3 +163,28 @@ Vuestros nombres aparecerán en el prólogo de la segunda etapa del camino mostr
 
 > Las matemáticas, la lógica o la filosofía no pueden captar la realidad última del universo, sólo puede hacerlo la experiencia personal que se conforma progresivamente a la voluntad divina de un Dios personal. Ni la ciencia, ni la filosofía ni la teología pueden validar la personalidad de Dios. Sólo la experiencia personal de los hijos por la fe del Padre celestial puede llevar a cabo la verdadera comprensión espiritual de la personalidad de Dios. ([[LU 1:7.5](/es/The_Urantia_Book/1#p7_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Au_Tombeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la tumba</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="pr-2">Nuestra experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Max Masotti<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Notre_civilisation_chretienne_est_en_danger">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra civilización cristiana está en peligro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_19">
+          <span class="pr-2">El pequeño rincón del hermano Dom: la parte del sueño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverso**
@@ -66,3 +90,28 @@ dateCreated: 2024-10-17T22:23:59Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Notre_civilisation_chretienne_est_en_danger">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra civilización cristiana está en peligro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_19">
+          <span class="pr-2">El pequeño rincón del hermano Dom: la parte del sueño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

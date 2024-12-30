@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Gard Jameson<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agua: Verdad, Belleza y Bondad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Reunion_Nationale_A_Notre_Dame_Des_Lumieres">
+          <span class="pr-2">Encuentro Nacional en Notre Dame Des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Gard Jameson_
@@ -83,3 +107,28 @@ Desafío a todos a descubrir en nuestra aventura personal cómo podemos llevar l
 
 Traducción G. Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agua: Verdad, Belleza y Bondad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-89-marzo-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 89 — Marzo 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Reunion_Nationale_A_Notre_Dame_Des_Lumieres">
+          <span class="pr-2">Encuentro Nacional en Notre Dame Des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 André Chappuis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Anova_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anova (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="pr-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El artículo de M Royer sobre Anova en el Link N¹9 es interesante porque permite darnos cuenta de la antigüedad de la presencia del ser humano en nuestra región cósmica.
@@ -36,3 +60,28 @@ Al ser parte de un sistema triple, Anova es quizás el planeta con el año más 
 
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Anova_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Anova (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="pr-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

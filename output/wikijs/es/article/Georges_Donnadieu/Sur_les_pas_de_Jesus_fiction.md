@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Georges Donnadieu<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunos pasajes del LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_2">
+          <span class="pr-2">Autoestima II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hola amigos, les ofrezco un breve texto sobre los pasos de Jesús. La ficción es también una forma de conectar con el espíritu de la verdad, como lo hicieron Juan Benítez y Joseph Servant.
@@ -29,3 +53,28 @@ Este discurso contribuyó mucho a fortalecer a los apóstoles y discípulos fren
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Quelques_passages_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algunos pasajes del LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_2">
+          <span class="pr-2">Autoestima II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

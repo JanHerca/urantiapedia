@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del más allá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Sea sensible al circuito de la Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Michelson-Dupont
@@ -138,3 +162,28 @@ Y muchos otros aspectos que este breve estudio podría haber puesto de manifiest
 
 Invito a los lectores a meditar sobre estas realidades de hoy y a apreciar la suerte que tenemos de tener acceso a la revelación y a la vida actualizada de Jesús.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del más allá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Sea sensible al circuito de la Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

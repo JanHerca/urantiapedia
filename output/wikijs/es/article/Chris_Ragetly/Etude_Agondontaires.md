@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro nacional del 22 al 25 de mayo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Sur_le_sentiment_dexister">
+          <span class="pr-2">Sobre el sentimiento de existir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 606 Urantia — Satania 24 Jerusem — Norlatiadek 70 Edentia — Nebadon 84 Salvington U Menor Tercera 3 Ensa — U Mayor Quinta 5 Splandon — Orvonton 7 Uversa
@@ -61,3 +85,28 @@ Todo esto demuestra que las posibilidades de actuar en consecuencia ante una o m
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro nacional del 22 al 25 de mayo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anne_Marie_Ronfet/Sur_le_sentiment_dexister">
+          <span class="pr-2">Sobre el sentimiento de existir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

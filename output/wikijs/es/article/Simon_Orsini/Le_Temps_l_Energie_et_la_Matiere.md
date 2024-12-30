@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Energía y Alimentos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="pr-2">Una historia de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -142,3 +166,28 @@ Los científicos harían bien en devolver a Dios lo que le pertenece, su creaci�
 
 **Simón Orsini**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Energía y Alimentos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="pr-2">Una historia de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

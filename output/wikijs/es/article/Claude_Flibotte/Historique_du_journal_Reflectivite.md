@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Claude Flibotte<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voluntad, personalidad, elección moral.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="pr-2">Conciencia Cósmica y Percepción Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El primer número de Réflectivité apareció en 1982 bajo la dirección, inicialmente, de Guy Hévey. Su misión era conectar a los lectores quebequenses del Libro de Urantia. Incluía noticias de los lectores, actividades y artículos sobre diversos temas. Había adoptado el formato 8 &half; x 11 pulg. Apareció así hasta 1984, con tres publicaciones por año.
@@ -31,3 +55,28 @@ https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Chronologieuranti
 
 Claude Flibotte, redactor jefe de Réflectivité
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voluntad, personalidad, elección moral.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_Cosmique_et_Perception_Spirituelle">
+          <span class="pr-2">Conciencia Cósmica y Percepción Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

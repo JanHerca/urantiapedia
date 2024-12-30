@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Asamblea General de 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ralph_Zehr/Organisme_Unicellulaire_L_explosion_Cambrienne_Nanomachines">
+          <span class="pr-2">Organismo unicelular La explosión del Cámbrico — Nanomáquinas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Chicago — 2 al 6 de junio de 2016_
@@ -42,3 +66,28 @@ I\. Organismos unicelulares, la explosión cámbrica, nanomáquinas, tantas piez
 6\. El cerebro espiritual: comprensión evolutiva e iluminación reveladora. — por Marta A Elders [El cerebro espiritual: comprensión evolutiva e iluminación reveladora. — por Marta A. Elders ]
 7\. ¿Tiene la naturaleza un diseño? — por Neal Kendal [¿Existe diseño en la naturaleza? — por Neal Kendal]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti_and_Tor_Eriksen/Rapport_de_l_Assemblee_Generale_2016">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Asamblea General de 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ralph_Zehr/Organisme_Unicellulaire_L_explosion_Cambrienne_Nanomachines">
+          <span class="pr-2">Organismo unicelular La explosión del Cámbrico — Nanomáquinas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Las entidades, seres y personalidades del libro de Urantia
@@ -91,3 +112,25 @@ Correo electrónico: afllu@urantia.fr
 
 ***Los precios mostrados para este listado son “envío no incluido”.***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

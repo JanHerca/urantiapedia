@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Promets_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prométeme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Pause_Philosophique">
+          <span class="pr-2">Ruptura filosófica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## EL ORIGEN DE ESTA VISIÓN GLOBAL
@@ -108,6 +132,31 @@ gráfico TD;
 > Las luchas espirituales del tiempo y del espacio tienen que ver con la evolución del dominio del espíritu sobre la materia por mediación de la mente (personal); la evolución física (no personal) de los universos tiene que ver con poner la energía cósmica en armonía con los conceptos mentales equilibrados sometidos al supercontrol del espíritu. La evolución total de todo el gran universo es un asunto de unificación, por medio de la personalidad, de la mente que controla la energía con el intelecto coordinado con el espíritu; esta unificación se revelará en la plena aparición del poder todopoderoso del Supremo. ([LU 116:5.15](/es/The_Urantia_Book/116#p5_15))
 
 > La energía-materia domina en los superuniversos evolutivos, salvo en la personalidad, donde el espíritu lucha, por mediación de la mente, para conseguir la superioridad. La meta de los universos evolutivos es someter la energía-materia a la acción de la mente, coordinar la mente con el espíritu, y conseguir todo ello en virtud de la presencia creativa y unificadora de la personalidad. Así pues, en relación con la personalidad, los sistemas físicos se vuelven subordinados, los sistemas mentales, coordinados, y los sistemas espirituales, directivos. ([LU 116:6.1](/es/The_Urantia_Book/116#p6_1))
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Promets_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prométeme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Pause_Philosophique">
+          <span class="pr-2">Ruptura filosófica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Controladores físicos maestros
 

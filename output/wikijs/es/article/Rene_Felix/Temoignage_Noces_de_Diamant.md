@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 René Felix<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Donde la metafísica falla totalmente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Ausencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Qué mantiene unidas a las parejas...?
@@ -66,3 +90,28 @@ Esta es una manera de ver el futuro a través de la huella de un pasado.
 
 René Félix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Donde la metafísica falla totalmente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Ausencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

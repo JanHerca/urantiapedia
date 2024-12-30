@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Ivan Stol<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro europeo en España</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hola a todos. También realicé un stand de presentación de LU en Toulon.
@@ -33,3 +54,25 @@ Saludos cordiales, Iván.
 <img src="/image/article/Le_Lien/images_02/116.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Europeenne_en_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentro europeo en España</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

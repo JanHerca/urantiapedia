@@ -1,5 +1,5 @@
 ---
-title: "más allá de lo humano (comprensión, imaginación, entendimiento, etc.)"
+title: "Más allá de lo humano (comprensión, imaginación, entendimiento, etc.)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

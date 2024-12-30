@@ -1,5 +1,5 @@
 ---
-title: "despertar repentino"
+title: "Despertar repentino"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Dominique Ronfet<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La providencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **No pensé que mi muerte sucedería así. Finalmente, sería más exacto decir que no vi mi nueva vida comenzar así. Me dirás: fue la primera vez. Por tanto, mi sorpresa quedó completamente justificada.
@@ -103,3 +124,25 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La providencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

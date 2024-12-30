@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">Un cumpleaños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comité del Congreso Europeo
@@ -44,3 +68,28 @@ El objetivo de los talleres es fundamentalmente práctico, por lo que al princip
 Para registrarse, diríjase al sitio de registro en la siguiente dirección: www.urantiaevents.com
 donde encontrarás una selección de 5 idiomas diferentes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">Un cumpleaños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

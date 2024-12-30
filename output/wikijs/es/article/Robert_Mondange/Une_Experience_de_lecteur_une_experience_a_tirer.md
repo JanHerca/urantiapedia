@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Robert Mondange<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adorar a Dios? una invitación a viajar fuera del espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Testimonio sobre el encuentro de Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Encontré el Libro de Urantia en Provenza, hace mucho tiempo, fue en la época de los folletos fotocopiados. Los viejos lectores sabrán lo que eso significa. Encontré el libro porque tenía muchas ganas de leer y buscaba leer algo más que novelas y quizás también porque estaba en una búsqueda espiritual. Unos amigos me hablaron de un libro que explicaba la organización del universo y el lugar de Dios en todo eso. Las primeras lecturas fueron difíciles y si no hubiera habido un grupo de estudio, con lectores “confirmados”, seguramente habría desistido.
@@ -27,3 +51,28 @@ En conclusión, creo que necesitamos lectores que conozcan el libro por dentro y
 
 Robert Mondange
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adorar a Dios? una invitación a viajar fuera del espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Testimonio sobre el encuentro de Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

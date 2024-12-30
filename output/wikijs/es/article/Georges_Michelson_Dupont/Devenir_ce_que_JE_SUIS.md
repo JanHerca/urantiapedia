@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Georges Michelson-Dupont<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/032">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno de 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_raison_et_la_foi">
+          <span class="pr-2">Razón y fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los organizadores de la conferencia internacional de la I.U.A, que se celebró en Chicago del 28 de julio al 1 de agosto de 2004, me pidieron en marzo pasado que dirigiera un taller y elegí el tema «convertirse en lo que YO SOY».
@@ -101,3 +125,28 @@ Cuando Dios y el hombre se asocian, no se puede poner límite a esta asociación
 
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/032">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno de 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-32-invierno-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 32 — Invierno 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_raison_et_la_foi">
+          <span class="pr-2">Razón y fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

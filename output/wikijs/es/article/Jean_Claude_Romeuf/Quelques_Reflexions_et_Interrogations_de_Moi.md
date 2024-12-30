@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mejora biológica de la humanidad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Apres_la_mort_de_son_compagnon_de_vie">
+          <span class="pr-2">Tras la muerte de su compañero de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_La conciencia de sí mismo consiste en darse cuenta intelectualmente de la realidad de la personalidad; incluye la aptitud para reconocer la realidad de otras personalidades. Indica la capacidad para llevar a cabo experiencias individualizadas en y con las realidades cósmicas, lo que equivale a alcanzar el estado de identidad en las relaciones entre personalidades en el universo. La conciencia de sí mismo conlleva el reconocimiento de la realidad del ministerio mental y el darse cuenta de la independencia relativa del libre albedrío creativo y determinante._» ([LU 16:8.6](/es/The_Urantia_Book/16#p8_6))
@@ -45,3 +69,28 @@ Jean-Claude Romeuf
 
 15 de julio de 2007
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mejora biológica de la humanidad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Apres_la_mort_de_son_compagnon_de_vie">
+          <span class="pr-2">Tras la muerte de su compañero de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 François Le Rohellec<br>© 200 Asociación Francófona de Lectores del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desvaríos supremos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain/Compte_rendu_de_la_reunion_du_CNP_New_York_2000">
+          <span class="pr-2">Acta de la reunión del CNP en Nueva York el 2 de agosto de 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos amigos,
@@ -120,3 +144,28 @@ Atentamente,
 
 François Le Rohellec Presidente de la A.F.L.L.U.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desvaríos supremos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain/Compte_rendu_de_la_reunion_du_CNP_New_York_2000">
+          <span class="pr-2">Acta de la reunión del CNP en Nueva York el 2 de agosto de 2000</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

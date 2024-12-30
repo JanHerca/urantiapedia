@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Guy Antequera<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_17">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">¿Cuándo se nos concede la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por Guy Antequera.
@@ -228,3 +252,28 @@ Finalmente, oremos por todos los seres allí presentes para que puedan progresar
 
 (Se autoriza la distribución y traducción de este artículo siempre que se respete su totalidad: puntuación y texto.)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_17">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="pr-2">¿Cuándo se nos concede la personalidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

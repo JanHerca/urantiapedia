@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Ivan Stol<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las causas, los efectos.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="pr-2">Reglas para ser humano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Definiciones primero (sentimiento personal):
@@ -41,3 +65,28 @@ Básicamente, así es como veo estas cosas, luego hay que comprender cada servic
 
 Iván Stol
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las causas, los efectos.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="pr-2">Reglas para ser humano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

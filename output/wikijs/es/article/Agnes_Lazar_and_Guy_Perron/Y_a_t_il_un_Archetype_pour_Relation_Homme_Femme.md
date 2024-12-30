@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Agnès Lazarre y Guy Perron<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El alma dentro de sí misma.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## 3ª Cumbre de Dakar
@@ -98,3 +119,25 @@ Hijas de Dios que van al espacio para intentar copiar en el tiempo el universo c
 <figcaption>Presentes: Doudou Diagne, Assane Diagne, Кhatabe Ndiaye, Moustapha K. Ndiaye, Assane Ndiaye, Сheikh Ndiaye, Aurore Hennebert, Guy Perron, Agnès Lazar</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El alma dentro de sí misma.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

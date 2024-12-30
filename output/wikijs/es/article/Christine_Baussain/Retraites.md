@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Christine Baussain<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, la ciudad de los cientos de Caligastia, Dilmun, la ciudad de los noditas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poema para Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El campo es gris bajo el cielo completamente blanco. Hasta donde alcanza la vista, los campos arados se ofrecen a la lluvia ligera e insistente del final del invierno. ¡Hace mucho tiempo que los setos y los caminos hundidos perdieron la batalla contra la concentración parcelaria! En las afueras del pueblo, muy discreto detrás del alto muro del jardín, el silencioso ashram parece desierto. Pero él me reconoce y me recibe, como siempre, con un gran estallido de alegría y amor en lo más profundo de su pecho.
@@ -82,3 +106,28 @@ Es tan hermoso, es tan simple, estoy sonriendo al cielo.
 
 Cristina Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, la ciudad de los cientos de Caligastia, Dilmun, la ciudad de los noditas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poema para Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Dolfo-Guzman<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Investigación de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jesús es, sin duda, el personaje más importante que jamás haya aparecido en la historia. Malik Charles (1) dijo:
@@ -135,3 +159,28 @@ RADIO LUCIS TUAE. (un rayo de tu luz)
 3. poeta libanés 
 4. Reformador de la iglesia escocesa Las citas provienen de El libro de Urantia
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Investigación de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

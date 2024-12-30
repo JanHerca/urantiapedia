@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chris y Nicole Raguetly<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_23">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="pr-2">Perfumes de mujer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chris y Nicole Raguetly
@@ -20,6 +44,31 @@ Por mi parte, me preguntaba qué tendrían en común los oyentes y apuesto por u
 Por lo tanto, diré lo que hace, en mi opinión, desde mi experiencia personal, que el Libro de Urantia valga la pena leer atentamente. Sin embargo, lo que hará o no que esta conferencia sea un éxito es menos lo que les voy a decir que las preguntas que les harán a los organizadores de este día y a mí. Muchas veces aprendemos más de las preguntas que de las respuestas.
 
 A modo de introducción, y para todos aquellos que no conocen en absoluto el Libro de Urantia, me gustaría leerles lo que dos de nosotros habíamos previsto para los lectores no franceses.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_23">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="pr-2">Perfumes de mujer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## I. Presentación del Libro de Urantia
 

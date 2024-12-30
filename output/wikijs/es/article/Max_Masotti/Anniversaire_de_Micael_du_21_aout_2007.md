@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Max Masotti<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón del hermano Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Pequeñas burbujas morontiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Con motivo del cumpleaños de Micaël, Éliane Grivet tuvo la amabilidad de recibirnos, por segunda vez, en su casa de Pontet, cerca de Aviñón.
@@ -27,3 +51,28 @@ Otro gran agradecimiento a Éliane que no escatimó esfuerzos para ofrecernos es
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón del hermano Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-40-otoño-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 40 — Otoño 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Pequeñas burbujas morontiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

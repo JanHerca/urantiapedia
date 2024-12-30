@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directores del Censo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Retraites">
+          <span class="pr-2">Jubilaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Poco después de la rebelión, todo el estado mayor de la sedición estaba defendiendo enérgicamente la ciudad contra las hordas de semisalvajes que asediaban sus murallas a consecuencia de las doctrinas de libertad que se les habían enseñado prematuramente. Unos años antes de que la hermosa sede se sumergiera bajo las aguas del sur, las tribus equivocadas y mal instruidas de las tierras interiores de Dalamatia ya se habían precipitado en un asalto semisalvaje sobre la espléndida ciudad, arrojando hacia el norte al estado mayor secesionista y sus asociados._ ([LU 67:5.2](/es/The_Urantia_Book/67#p5_2))
@@ -31,3 +55,28 @@ A esto nosotros, los lectores de El libro de Urantia, tenemos la respuesta. Pero
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Directeurs_du_Recensement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directores del Censo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christine_Baussain/Retraites">
+          <span class="pr-2">Jubilaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

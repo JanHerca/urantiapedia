@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Samuel Heine<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">Para Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Respecto a mí mismo y en retrospectiva de los años, pude «para mi caso personal» determinar algunas condiciones favorables a este tipo de experiencias espontáneas, «difíciles de explicar» a los demás, salvo en raras ocasiones con hombres o mujeres que han tenido personalmente este tipo de experiencia.
@@ -35,3 +59,28 @@ Amistades.
 
 Samuel. h
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">Para Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

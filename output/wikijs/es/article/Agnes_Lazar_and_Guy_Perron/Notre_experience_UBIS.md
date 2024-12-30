@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Agnès Lazar y Guy Perron<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación de la Edad Media</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -38,3 +62,28 @@ En enero de 2023 se ofreció la segunda parte de la trilogía. A lo largo de est
 <figcaption>Pintura de David Guzmán</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación de la Edad Media</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

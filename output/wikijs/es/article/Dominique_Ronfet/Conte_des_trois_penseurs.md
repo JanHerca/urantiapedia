@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Dominique Ronfet<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda parte: La revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Survivrons_nous">
+          <span class="pr-2">¿Sobreviviremos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el corazón del espeso bosque de **Mentaleum**, tres compañeros estaban de pie alrededor de un fuego crepitante, con los rostros iluminados por las llamas danzantes. **Perceval**, el intuitivo, miró más allá de los árboles, como si pudiera leer los secretos del universo en sus susurros.
@@ -45,3 +69,28 @@ Y así, en el bosque de Mentaleum, los tres compañeros aprendieron que el senti
 > “Los innumerables sistemas planetarios fueron creados para ser habitados en última instancia por muchos tipos diferentes de criaturas inteligentes, seres que pueden conocer a Dios, recibir afecto divino y amar a Dios a cambio. . .
 > Todos los mundos iluminados reconocen y adoran al Padre Universal, el autor eterno y sustentador infinito de toda la creación. En los innumerables universos, criaturas voluntarias han emprendido el larguísimo viaje hacia el Paraíso, la fascinante lucha de la eterna aventura para llegar a Dios Padre. La meta trascendente de los hijos del tiempo es encontrar al Dios eterno, comprender la naturaleza divina, reconocer al Padre Universal. Las criaturas que conocen a Dios tienen sólo una ambición suprema, un deseo ardiente, y es ser similares en su propia esfera a lo que Él es en su perfección celestial de personalidad y en su esfera universal de supremacía justa. Del Padre Universal que habita la eternidad viene el mandamiento supremo: “Sed perfectos como yo soy perfecto. » En amor y misericordia, los mensajeros del Paraíso han transmitido esta divina exhortación a través de las edades y universos, incluso a criaturas de origen animal tan humildes como las razas humanas de Urantia. » [[LU 1:0.2-3](/es/The_Urantia_Book/1#p0_2)]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Segunda parte: La revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Survivrons_nous">
+          <span class="pr-2">¿Sobreviviremos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

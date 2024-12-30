@@ -1,5 +1,5 @@
 ---
-title: "el viento de invierno"
+title: "El viento de invierno"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Jean-Claude Romeuf<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro y sus fuentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">Lo esencial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El viento de invierno es frío.
@@ -58,3 +82,28 @@ Conoceré tu camino y te amaré de nuevo.
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro y sus fuentes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">Lo esencial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

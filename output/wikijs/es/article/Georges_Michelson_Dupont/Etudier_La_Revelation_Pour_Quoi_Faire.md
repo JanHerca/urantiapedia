@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Georges Michelson-Dupont<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_21">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="pr-2">Ciencia y revelaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > La expansión de los conocimientos materiales permite una mayor apreciación intelectual de los significados de las ideas y de los valores de los ideales. Un ser humano puede encontrar la verdad en su experiencia interior, pero necesita un claro conocimiento de los hechos para aplicar su descubrimiento personal de la verdad a las exigencias implacablemente prácticas de la vida diaria. ([LU 111:6.7](/es/The_Urantia_Book/111#p6_7))
@@ -142,3 +166,27 @@ Se cierra octubre de 2020
 [^2]: El Collège de Juilly es un establecimiento educativo, bajo la supervisión del Oratoire de France, que funcionó casi sin interrupción desde 1638 hasta 2012. [Wikipedia](https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_Juilly)
 
 [^3]: La antroposofía es un movimiento esotérico creado por el ocultista austriaco Rudolf Steiner a principios del siglo XX. Esta corriente está vinculada por un lado a la teosofía de Helena Blavatsky y por otro lado a las corrientes del rosacrucismo moderno. [Wikipedia](https://fr.wikipedia.org/wiki/Anthroposophie)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_21">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="pr-2">Ciencia y revelaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

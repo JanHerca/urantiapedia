@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Nostalgie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nostalgia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para aquellos que saben ver, escuchar y oír, es en primavera cuando el río deja fluir más su magia. Todo lo que pasa por banalidad es, en realidad, una mezcla, a la vez simple y compleja, de los milagros de la vida.
@@ -33,3 +54,25 @@ Jean-Claude Romeuf
 
 _“toda realidad de la personalidad es proporcional a su relación con la divinidad”_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Beaupre/Nostalgie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nostalgia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

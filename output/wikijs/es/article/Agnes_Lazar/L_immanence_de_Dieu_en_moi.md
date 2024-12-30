@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Agnès Lazar<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°6 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">El libro azul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde que comencé a leer el Libro de Urantia, un texto me ha llamado extrañamente la atención: Discapacidades materiales en la estancia de los Ajustadores. Me volví intelectualmente consciente de lo que podría estar frenando mi progreso espiritual y quise encontrar una manera de entrar en la experiencia de liberar gradualmente mi espacio mental, permitiendo a mi Ajustador más libertad de acción. Que él fuera el piloto de mi barco era una necesidad en mi vida. Se dice que los hechos educan al hombre. Entonces analicé aquellos que han marcado mi existencia.
@@ -29,3 +53,28 @@ Pido a Dios diariamente que me muestre claramente mis dones y cómo puedo usarlo
 
 Agnes Lazar
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxien cuestionario n°6 Las preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">El libro azul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

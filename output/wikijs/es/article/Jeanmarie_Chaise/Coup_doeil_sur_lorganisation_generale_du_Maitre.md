@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jeanmarie Chaise<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libertad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="pr-2">¿Deberíamos fundar una nueva iglesia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Con la ayuda de las revelaciones del _Libro de Urantia_ y los detalles numéricos que nos brinda, sin duda podemos comprender mejor cómo está organizada la creación cósmica de la Deidad. La referencia principal resulta, naturalmente, ser el Paraíso, que se presenta como el arquetipo de la manifestación cualificada de Dios. Por eso es la organización funcional del Paraíso la que primero debemos examinar y sólo la organización del Paraíso Superior y del Paraíso Periférico (Páginas [LU 11:2.9](/es/The_Urantia_Book/11#p2_9) y [LU 11:3.4](/es/The_Urantia_Book/11#p3_4))
@@ -80,3 +104,28 @@ En cuanto a nosotros, podemos deducir de todo esto que toda la creación está s
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Liberte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Libertad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="pr-2">¿Deberíamos fundar una nueva iglesia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

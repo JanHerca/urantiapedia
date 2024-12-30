@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Johanna Beukers<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_sexe_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sexo de los ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Impatients">
+          <span class="pr-2">Los impacientes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “Conviértete en el cambio que quieres ver en el mundo”, dice **Gandhi**.
@@ -29,3 +53,28 @@ Del 16 al 18 de marzo de 2012 se celebrará en Sanary-surMer un curso sobre “E
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_sexe_des_Anges">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sexo de los ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Les_Impatients">
+          <span class="pr-2">Los impacientes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

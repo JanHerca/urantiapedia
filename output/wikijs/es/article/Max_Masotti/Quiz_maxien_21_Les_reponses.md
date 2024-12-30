@@ -9,6 +9,27 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Max Masotti<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Reflexions_sur_l_art_de_fusionner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre el arte de fusionar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-70-primavera-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 70 — Primavera 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Jesús**
@@ -119,3 +140,25 @@ Pero estas nubes no son del tipo que se disipan rápidamente.
 
 ***Fin de las pruebas***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Reflexions_sur_l_art_de_fusionner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre el arte de fusionar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-70-primavera-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 70 — Primavera 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

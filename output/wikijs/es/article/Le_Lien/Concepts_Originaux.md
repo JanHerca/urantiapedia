@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A ti Padre Universal, A ti Madre Suprema</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">Muerte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ***Nota de Urantiapedia***: Este artículo de William Sadler también se publica como artículo en [Fellowship Herald Volumen 15, Número 1, 2015](/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts).
@@ -88,3 +112,28 @@ Dr. William Sadler
 
 > «En nuestro esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual, nos resulta extremadamente difícil presentar unos conceptos más amplios y una verdad avanzada cuando estamos limitados por la utilización del lenguaje restringido de un planeta. Pero las instrucciones que hemos recibido nos recomiendan que realicemos todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. Se nos ha ordenado que sólo introduzcamos términos nuevos cuando el concepto a describir no encuentre en inglés ninguna terminología que se pueda emplear para expresar ese nuevo concepto, ya sea parcialmente o incluso distorsionando más o menos su significado.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A ti Padre Universal, A ti Madre Suprema</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">Muerte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

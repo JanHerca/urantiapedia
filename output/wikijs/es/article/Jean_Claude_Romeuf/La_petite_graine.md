@@ -1,5 +1,5 @@
 ---
-title: "la pequeña semilla"
+title: "La pequeña semilla"
 description: 
 published: true
 date: 2024-11-7T14:46:54Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Jean-Claude Romeuf<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">YO SOY y el Principio de Causalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">Encuentro Europeo 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -94,3 +118,28 @@ Entonces le dejé la mochilla a la dueña del restaurante, para que se la diera,
 
 Aunque no sé si las semillas que sembré en la Alameda crecieron, lo que sí sé es que una pequeña semilla de Dios, cuando germina en el corazón de alguien, primero rápidamente se convierte en flor, luego sube al Paraíso para inúndalo con su perfume.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">YO SOY y el Principio de Causalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">Encuentro Europeo 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Jean Royer<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El elogio del cansancio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">La resurrección de Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He navegado por varios blogs y otros foros en Internet que tratan sobre El Libro de Urantia. Es sorprendente que pocas personas comprendan lo que leen. La mayoría se contenta con ver lo que quieren (o pueden) encontrar allí. Entonces recordé que los apóstoles de Jesús no entendieron la mitad de lo que decía, pero es cierto que, hablando con ellos, en realidad estaba hablando a todo un universo. Y pensé: si estos seres cercanos no lo entendieron, ¿qué diremos de los simples discípulos? Parece que esto no molestó demasiado a Jesús y que pensó que la fe era suficiente.
@@ -29,3 +53,28 @@ El Libro de Urantia no es un libro sencillo ni complicado, pero sí un libro com
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El elogio del cansancio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-54-primavera-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 54 — Primavera 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">La resurrección de Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Robert Gallo<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de vivir: según Jesús y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="pr-2">Humor, risas y sonrisas en el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La numerología del _Libro de Urantia_ es fiel y constante respecto de ciertos números que incontestablemente sirven de base al edificio cósmico tanto en el plano material como en el espiritual. Todo parece construido en torno a los números 3, 7, 10 (7+3) y sus múltiplos.
@@ -42,3 +66,28 @@ Quería entregar esta teoría a la sagacidad de todos y cada uno...
 
 Roberto Gallo
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte de vivir: según Jesús y el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Lhumour_le_rire_et_le_sourire_dans_LU">
+          <span class="pr-2">Humor, risas y sonrisas en el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

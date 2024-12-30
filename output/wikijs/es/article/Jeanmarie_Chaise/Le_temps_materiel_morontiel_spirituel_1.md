@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Jeanmarie Chaise<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/026">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="pr-2">Una pequeña teoría personal sobre la prueba de la existencia de Dios.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿ACORTAR EL TIEMPO?
@@ -51,3 +75,28 @@ El tiempo es, por lo tanto, relativo a las duraciones de existencia de las perso
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/026">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="pr-2">Una pequeña teoría personal sobre la prueba de la existencia de Dios.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

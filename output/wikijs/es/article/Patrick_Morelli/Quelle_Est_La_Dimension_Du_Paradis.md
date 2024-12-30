@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Patrick Morelli<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los profetas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Escape terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Patrick Morelli (Francia)_
@@ -63,3 +87,28 @@ Si utilizamos una velocidad más baja: 1/100 de la velocidad de la luz vespertin
 
 En conclusión, siguiendo la lógica de este planteamiento, podemos estimar que la longitud del eje mayor del Paraíso estaría entre 0,05 y 0,5 años luz.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los profetas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Escape terrestre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

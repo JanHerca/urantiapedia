@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Moustapha NDiaye<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasía sobre un tema importante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="pr-2">Ministerio en Filipinas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Moustapha K. NDIAYE (por GSDP)
@@ -58,3 +82,28 @@ El resumen de las actividades del GSDP, disponible en el informe de actividades 
 <figcaption>Reunión Plenaria Zoom del 15 de enero de 2023 de mujeres y jóvenes.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasía sobre un tema importante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="pr-2">Ministerio en Filipinas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

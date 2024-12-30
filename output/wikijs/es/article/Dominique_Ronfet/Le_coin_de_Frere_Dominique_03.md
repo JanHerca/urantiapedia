@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Dominique Ronfet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinidad de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Reflexiones de Georges y Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Buen día,
@@ -49,3 +73,28 @@ Entonces, ¿no seríamos verdaderos pensadores combinando disciplina e imaginaci
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinidad de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Reflexiones de Georges y Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

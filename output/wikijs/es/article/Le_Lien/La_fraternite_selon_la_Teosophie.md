@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidos en torno a un LIBRO</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">¿Somos embajadores?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El primer objetivo de la Sociedad Teosófica se refiere a la formación de un núcleo de la Hermandad Universal de la Humanidad sin distinción de raza, religión, sexo, casta o color. Sin embargo, el principio de fraternidad también es aceptado por otros movimientos y asociaciones, y la solidaridad humana es cada vez más reconocida y practicada a escala internacional en muchos aspectos, aunque la mayoría de las veces se basa en intereses mutuos. Sin embargo, la noción de hermandad, tal como se entiende en la enseñanza teosófica, tiene raíces mucho más profundas.
@@ -41,3 +65,28 @@ Podemos relacionar con esta cita las siguientes palabras de un Maestro: La meta 
 
 Extracto de una publicación teosófica
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidos en torno a un LIBRO</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">¿Somos embajadores?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

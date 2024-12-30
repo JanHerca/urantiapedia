@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: ¡Está escrito!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">El invitado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Citas de El libro de Urantia en cursiva; algunos pasajes importantes están en negrita.)
@@ -50,3 +74,28 @@ Las tres etapas de progreso de Mystery Monitors son:
 
 > _*Los secretos de Ascendington* incluyen el misterio de la construcción gradual y segura, en la mente mortal y material, de una contrapartida espiritual y potencialmente inmortal del carácter y de la identidad. Este fenómeno constituye uno de los misterios más desconcertantes de los universos —la evolución de un alma inmortal en la mente de una criatura mortal y material._ ([LU 13:1.22](/es/The_Urantia_Book/13#p1_22))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: ¡Está escrito!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">El invitado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

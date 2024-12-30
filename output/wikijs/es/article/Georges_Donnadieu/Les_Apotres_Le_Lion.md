@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Georges Donnadieu<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios, Consumidor del Destino Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Our_Emotions">
+          <span class="pr-2">Nuestras emociones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _“En memoria del encuentro nacional de Lectores de Habla Francesa del Libro de Urantia, Notre Dame de Lumières del 8 al 11 de octubre de 2009.”_
@@ -63,3 +87,28 @@ Permítanos finalmente rendir homenaje, con la ayuda de Pitágoras, al maravillo
 
 Georges Donnadieu alias el jabalí de arar 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Dieu_le_Consommateur_de_la_Destinee_Universelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios, Consumidor del Destino Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Our_Emotions">
+          <span class="pr-2">Nuestras emociones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

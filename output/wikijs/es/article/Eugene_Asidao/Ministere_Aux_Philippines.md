@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Eugene Asidao<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actividades del grupo Dakar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="pr-2">Escuela UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 por Eugene Asidao 14/11/22
@@ -100,3 +124,28 @@ Así descubrí que el libro tenía mucho más que ofrecer, siendo para mí el m�
 <figcaption>Pintura de David Guzmán</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actividades del grupo Dakar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="pr-2">Escuela UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "el invitado"
+title: "El invitado"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2008 Olga López<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Appellations_du_Moniteur_de_Mystere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nombres del Monitor Misterioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="pr-2">¿Qué tan grande es el paraíso?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos amigos y lectores del Link,
@@ -29,3 +53,28 @@ Desde que leí el Libro de Urantia, he tenido muy claro que haré todo lo posibl
 
 _Info: Hay seis grupos de estudio en España: dos en Sevilla, dos en Palma de Mallorca, uno en Madrid y otro en Barcelona. Los socios de la asociación española son poco más de 50 socios de pleno derecho y cerca de 17 socios asociados (creciendo de forma lenta, estable y cualitativa)._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Appellations_du_Moniteur_de_Mystere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nombres del Monitor Misterioso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/How_big_is_Paradise">
+          <span class="pr-2">¿Qué tan grande es el paraíso?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

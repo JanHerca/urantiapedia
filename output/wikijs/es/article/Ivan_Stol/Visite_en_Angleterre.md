@@ -1,5 +1,5 @@
 ---
-title: "visita a inglaterra"
+title: "Visita a inglaterra"
 description: 
 published: true
 date: 2024-10-31T13:15:44Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Ivan Stol<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ella se estremece al borde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Visite_en_Italie">
+          <span class="pr-2">Visita a Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde la conferencia de ÁMSTERDAM, me pidieron que participara en la reunión nacional de lectores británicos del Libro de Urantia. Entonces, ayudado por la asociación, decidí responder y Gary Rawlings, presidente y organizador, se encargó amablemente de los trámites de la estancia en este Charney Manor un poco al sur de Oxford del 07 al 10 de septiembre de 2018.
@@ -97,3 +121,28 @@ Iván
 
 <br estilo=«claro:ambos;»/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ella se estremece al borde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Visite_en_Italie">
+          <span class="pr-2">Visita a Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

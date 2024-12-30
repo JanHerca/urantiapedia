@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Ivan Stol<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Morceaux_choisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Piezas seleccionadas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Dulask/La_Confiance">
+          <span class="pr-2">Confianza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -55,3 +79,28 @@ Iván Stol
 <img src="/image/article/Le_Lien/images_01/152.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Morceaux_choisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Piezas seleccionadas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-59-verano-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 59 — Verano 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Dulask/La_Confiance">
+          <span class="pr-2">Confianza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

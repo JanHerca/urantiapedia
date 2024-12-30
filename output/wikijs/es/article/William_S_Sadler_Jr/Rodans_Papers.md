@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 William S. Sadler Jr.<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor y respeto por la vida.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_Voilier">
+          <span class="pr-2">El velero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Traducción de Nicole y Chris Ragetly de una grabación en casete realizada por Bill Sadler para un grupo de estudio._
@@ -51,3 +75,28 @@ Me gusta mucho este: “_Se necesita inteligencia para asegurar..._” Ahora no 
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor y respeto por la vida.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_Voilier">
+          <span class="pr-2">El velero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

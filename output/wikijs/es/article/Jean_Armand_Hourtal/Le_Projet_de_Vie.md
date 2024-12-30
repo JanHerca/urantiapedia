@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Jean-Armand Hourtal<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">LU y la ciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="pr-2">Valores olímpicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 No existe un sistema “llave en mano” infalible para proyectos exitosos. Para compensar esta carencia, aquí te presentamos algunos principios en forma de receta de cocina para tener éxito en tus proyectos (en general) y en tu proyecto de vida (en particular).
@@ -97,3 +121,28 @@ _Según Jean-Armand Hourtal, Doctor en Ciencias Humanas y licenciado en ética m
 
 Jean-Armand Hourtal
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_LU_et_la_science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">LU y la ciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="pr-2">Valores olímpicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

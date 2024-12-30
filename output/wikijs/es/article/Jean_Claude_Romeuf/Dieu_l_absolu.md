@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explicación teórica de la creación.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="pr-2">Pentecostés del año 30: ¿cuarenta o cincuenta días después de Pascua?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hemos elegido hablar de Dios Absoluto porque la comprensión relativa que podemos hacer de él apela a los conceptos mentales más difíciles del _Libro de Urantia_. Somos conscientes de que la mente humana es limitada y finita, pero ¿no es el objetivo evolutivo alcanzar los límites superiores de la perfección? ¿No es precisamente esta meta que nos hemos fijado la que nos permite experimentar y actualizar en el Supremo nuestra divinidad potencial e imperfecta?
@@ -59,3 +83,28 @@ En este caso, asistiríamos a un cataclismo dentro de los Absolutos de Potencial
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explicación teórica de la creación.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="pr-2">Pentecostés del año 30: ¿cuarenta o cincuenta días después de Pascua?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

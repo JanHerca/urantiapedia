@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aproximación a algunos aspectos científicos del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="pr-2">Historia de una visita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Estamos seguros como escribió Shakespeare de que Donde la ignorancia es dicha es una locura ser sabio, es decir, Donde la ignorancia es dicha es una locura ser sabio? Curiosamente, uno de los aspectos más simpáticos del _Libro de Urantia_ es la afirmación. de la ignorancia de los reveladores; Desconocimiento temporal o desconocimiento definitivo. Así, noté 9 apariciones de la expresión “no sé” (hay otras pero que se relacionan con el lenguaje humano cotidiano).
@@ -59,3 +83,28 @@ Jean-Royer
 
 _(bien ayudado, es cierto, por un Divino Consejero y Perfeccionador de la Sabiduría)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aproximación a algunos aspectos científicos del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="pr-2">Historia de una visita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

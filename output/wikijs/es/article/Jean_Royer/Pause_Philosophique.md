@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Jean Royer<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Noticias de la Fundación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -80,3 +104,28 @@ Entonces el viejo maestro les dijo: “¿Cuáles son las grandes piedras de vues
 
 Si damos prioridad a los pecadillos (grava, arena), llenaremos nuestra vida de pecadillos y ya no tendremos suficiente tiempo precioso para dedicar a los elementos importantes de nuestra vida.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión global</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Noticias de la Fundación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

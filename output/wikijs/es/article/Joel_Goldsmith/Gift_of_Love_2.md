@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Joël Goldsmith<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/The_Dual_Nature">
+          <span class="pr-2">La doble naturaleza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Apoyando a aquellos que nos importan
@@ -97,3 +121,28 @@ Al elegir regularmente el amor sobre el miedo, podemos experimentar una transfor
 
 joel orfebre
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/The_Dual_Nature">
+          <span class="pr-2">La doble naturaleza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

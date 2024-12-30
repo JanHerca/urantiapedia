@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia y revelaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">El libro de Urantia en esperanto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Cómo se creó nuestro universo? Cuestión importante de la astrofísica, pero no de los creyentes.
@@ -80,3 +104,28 @@ https://www.futura-sciences.com/sciences/
 <img src="/image/article/Le_Lien/images_03/045.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia y revelaciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">El libro de Urantia en esperanto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

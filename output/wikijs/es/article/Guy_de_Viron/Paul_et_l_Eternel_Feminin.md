@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/055">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El vínculo uraniano — Número 55 — Verano de 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="pr-2">El funeral celestial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1\. ¿Por qué este repentino deseo de rehabilitar a Pablo? ¡Simplemente por intuición o más bien por picazón en el cerebro! Una necesidad visceral de comprender, reconocer y apreciar un personaje extraordinario, un monumento de la personalidad humana, un faro espiritual en el oscurantismo religioso de una época... Con esta pregunta molesta y un poco furtiva: ¿Fue la supuesta misoginia paulina un obstáculo para la ¿Expresión espiritual de la mujer?
@@ -34,3 +58,28 @@ El editor en jefe
 
 Guy de Virón
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/055">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El vínculo uraniano — Número 55 — Verano de 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="pr-2">El funeral celestial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

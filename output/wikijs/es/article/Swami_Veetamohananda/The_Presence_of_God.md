@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Swami Veetamohananda<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio de oraciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="pr-2">Regalo de amor (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Cómo practicar la presencia de Dios en la vida cotidiana**
@@ -44,3 +68,28 @@ _(1) Nicolas Herman, nacido en 1614 en Lorena. A los 18 años se unió al ejérc
 
 Swami Veetamohananda
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Study_of_Prayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio de oraciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-50-primavera-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 50 — Primavera 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joel_Goldsmith/Gift_of_Love_2">
+          <span class="pr-2">Regalo de amor (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

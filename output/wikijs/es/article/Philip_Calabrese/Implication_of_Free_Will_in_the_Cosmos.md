@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Philip Calabrese<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir con una mente abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Philip G. Calabrese_
@@ -170,6 +191,28 @@ A pesar de la tendencia determinista de la neurociencia actual, el reconocimient
 Nuevamente, al votar a favor de la practicidad, Baumeister, Clark y Luguri dicen: «... Nos inclinamos a pensar que la inevitabilidad determinista es inútil como base para la teoría psicológica». El proyecto psicológico de explicar el pensamiento, las emociones y, en particular, la acción humana requiere en la práctica la suposición de que son posibles múltiples resultados futuros. » [^15]
 
 Lo que hay que abandonar es la hipótesis del determinismo absoluto en el cosmos. ¡Simplemente no pertenece a la experiencia personal de nadie! El determinismo absoluto es contrario a las experiencias psicológicas humanas comunes.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir con una mente abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## 5. Implicaciones del libre albedrío.
 

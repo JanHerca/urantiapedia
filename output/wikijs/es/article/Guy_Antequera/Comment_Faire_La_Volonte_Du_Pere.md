@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Guy Antequera<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo y niveles de conciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="pr-2">Los siete espíritus maestros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Guy ANTEQUERA
@@ -72,3 +96,28 @@ amistades fraternales
 
 > Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro{13} en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ¿Temen los cristianos declarados que se ponga al descubierto a una hermandad autosuficiente y no consagrada, que tiene respetabilidad social y una inadaptación económica egoísta? ¿Teme el cristianismo institucional que la autoridad eclesiástica tradicional esté posiblemente en peligro, o incluso sea derrocada, si el Jesús de Galilea es reinstalado en la mente y el alma de los hombres mortales como el ideal de la vida religiosa personal? En verdad, los reajustes sociales, las transformaciones económicas, los rejuvenecimientos morales y las revisiones religiosas de la civilización cristiana serían drásticas y revolucionarias si la religión viviente de Jesús sustituyera repentinamente a la religión teológica acerca de Jesús. ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo y niveles de conciencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-97-marzo-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 97 — Marzo 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Les_Sept_Maitres_Esprits">
+          <span class="pr-2">Los siete espíritus maestros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atracción espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">El movimiento urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los primeros cristianos hicieron pocos intentos por dilucidar las relaciones entre el Padre, el Hijo y el Espíritu. Tertuliano (150-225) fue quizás el primero en utilizar el término Trinidad. “Dios es una sustancia en tres personas coherentes e inseparables. »
@@ -39,3 +63,28 @@ Sólo nos queda examinar las relaciones del Padre, el Hijo y el Espíritu en la 
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atracción espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">El movimiento urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

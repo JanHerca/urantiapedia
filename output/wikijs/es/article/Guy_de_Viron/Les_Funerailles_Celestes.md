@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pablo y el Eterno Femenino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="pr-2">Tras los pasos de Pablo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -37,3 +61,28 @@ Si no recuerdo mal el LU nos dice que las diferencias entre géneros aumentarán
 
 Guy de Virón
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pablo y el Eterno Femenino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Hubaut/Sur_les_traces_de_Paul">
+          <span class="pr-2">Tras los pasos de Pablo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

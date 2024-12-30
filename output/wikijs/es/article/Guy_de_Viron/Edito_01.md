@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preludio: Unas palabras del Presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">El punto: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recién nombrado editor (en jefe) de la revista trimestral AFFLU, actualmente Le Lien, mi nueva tarea consistirá esencialmente en dinamizarla un poco y darle los colores que los alutistas esperan de ella. ¿Cómo se hará esto? Bueno, gracias a todos los que lo leeréis, lo comentaréis, lo alimentaréis...; ¡Porque solo es misión imposible!
@@ -29,3 +53,28 @@ A todos ustedes, feliz lectura, lo mejor de sus respectivos descubrimientos y de
 
 chico
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Preludio: Unas palabras del Presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-43-verano-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 43 — Verano 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">El punto: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

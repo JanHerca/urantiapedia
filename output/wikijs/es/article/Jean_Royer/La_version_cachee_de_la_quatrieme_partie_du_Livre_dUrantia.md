@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Jean Royer<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo material - tiempo morontial - tiempo espiritual - la importancia del tiempo según el Libro de Urantia (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Reencarnación, ¿verdad o superstición?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Existe alguna versión del _Libro de Urantia_ que no conocemos? Cierto número de puntos nos llevan a pensar que sí.
@@ -38,3 +62,28 @@ Pero para los que tenemos un poco de curiosidad, ya es hora de iniciarnos en est
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo material - tiempo morontial - tiempo espiritual - la importancia del tiempo según el Libro de Urantia (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Reencarnación, ¿verdad o superstición?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

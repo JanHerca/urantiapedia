@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 George Michelson-Dupont<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/004">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luc_Lachance/Apres_la_mort">
+          <span class="pr-2">Despues de la muerte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mediante sentencia dictada en apelación a principios de junio de 1997, la Fundación URANTIA ganó la apelación en el juicio que se oponía a la Sra. MAAHERA y FELLOWSHIP. Esta decisión tan esperada fortalece los derechos de autor que posee la Fundación URANTIA sobre _El Libro de URANTIA_ y sus traducciones hasta 2035.
@@ -59,3 +83,28 @@ Continuará...
 Georges Michelson-Dupont
 Patrono de la Fundación URANTIA.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/004">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano de 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-4-verano-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 4 — Verano 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luc_Lachance/Apres_la_mort">
+          <span class="pr-2">Despues de la muerte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

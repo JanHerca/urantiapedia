@@ -1,5 +1,5 @@
 ---
-title: "el osteoclasto"
+title: "El osteoclasto"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Filosofía humana y mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Felicidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 No puedo prescindir del osteoclasto. Lo sé por experiencia. Siempre que el hueso sufre un traumatismo, los osteoclastos, que son células pequeñas, se movilizan hacia el sitio lesionado. Su objetivo es digerir la parte ósea que se ha vuelto inútil. Esta destrucción, permitida por Shiva, produce una multitud de células jóvenes que secretan hueso nuevo. En este caso y seguramente en la mayoría de los casos, la regeneración se produce necesariamente después de la destrucción.
@@ -31,3 +55,28 @@ Decir que amo a este Dios que no me ha sido revelado y sobre el cual, sin embarg
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Filosofía humana y mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Felicidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

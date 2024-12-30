@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Simposio Cultural Mundial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Viaje a través de las eras del universo maestro***
@@ -97,3 +118,25 @@ Las 7 relaciones primordiales dentro del YO SOY
 
 > Al igual que las triunidades se ocupan sobre todo de unificar funcionalmente la infinidad, las triodidades están implicadas en la aparición cósmica de las Deidades experienciales. Las triunidades se ocupan indirectamente de las Deidades experienciales —Suprema, Última y Absoluta— pero las triodidades se ocupan directamente de ellas. Aparecen en la síntesis emergente compuesta por el poder y la personalidad del Ser Supremo. Para las criaturas temporales del espacio, el Ser Supremo es una revelación de la unidad del YO SOY. ([LU 104:5.12](/es/The_Urantia_Book/104#p5_12))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Simposio Cultural Mundial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

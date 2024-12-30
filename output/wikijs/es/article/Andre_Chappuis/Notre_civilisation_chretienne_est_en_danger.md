@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 André Chappuis<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Priere_du_Matin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración de la mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_13_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°13 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente texto fue redactado para ser leído en una asamblea donde se reunirán los feligreses de la Iglesia Evangélica Reformada Vaudoise tras la adopción por parte de su Consejo sinodal y su Sínodo del principio de preparar un rito de bendición para las parejas del mismo sexo._
@@ -49,3 +73,28 @@ Una civilización que se muestra incapaz de resolver los problemas que surgen de
 
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Priere_du_Matin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración de la mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_13_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°13 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

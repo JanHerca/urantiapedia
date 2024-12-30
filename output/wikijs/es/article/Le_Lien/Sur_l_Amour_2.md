@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abundancia de artículos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">Dios le dio al Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La primera de estas reglas es que el amor, de acuerdo con las leyes generales de la unión creativa, sirve a la diferenciación espiritual de los dos seres que reúne. Por lo tanto, ninguno debería absorber al otro; ni, menos aún, ambos deberían perderse en los placeres de una posesión corporal que significaría una caída en el plural y un retorno a la nada. Ésta es una experiencia común. Pero esto sólo puede entenderse bien desde la perspectiva de Espíritu-Materia. El amor es una conquista aventurera. Sólo se mantiene y se desarrolla, como el propio Universo, mediante el descubrimiento perpetuo. Por lo tanto, sólo se aman legítimamente aquellos cuya pasión conduce a ambos, uno a través del otro, a una posesión superior de su ser. Así, la gravedad de las faltas contra el amor no es ofender algún pudor o alguna virtud. Consiste en desperdiciar, por negligencia o voluptuosidad, las reservas de personalización del Universo. Es esta pérdida la que explica los trastornos de la “impureza”. Y es esto lo que, en mayor grado en el desarrollo de la unión, constituye el material para una alteración más sutil del amor: me refiero al egoísmo de dos.
@@ -63,3 +87,28 @@ Cuanto más hombre se haga hombre, más será presa de la necesidad y de una nec
 
 Teilhard de Chardin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abundancia de artículos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">Dios le dio al Ajustador</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

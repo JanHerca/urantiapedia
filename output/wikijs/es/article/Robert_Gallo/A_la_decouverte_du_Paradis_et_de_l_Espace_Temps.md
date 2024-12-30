@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Robert Gallo<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Duvau/Repersonnalisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Repersonalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Conference_AFLLU_2025_A_Paris_France_AFLLU">
+          <span class="pr-2">Conferencia AFLLU 2025 en París (Francia) AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lo que sigue es un intento muy relativo de comprender este vasto dominio que es el Paraíso. Seguramente se seguirá un enfoque idéntico e igualmente relativo, gracias a la información que nos han dado los reveladores, tanto sobre Havona como sobre las personalidades que residen en este universo central Paraíso-Havona. Ciertamente hay en las definiciones e información dada por los reveladores sobre este tema, ciertas analogías con nuestras vidas como mortales en los planetas de un sistema local como el nuestro.
@@ -140,3 +164,28 @@ Estos dos párrafos posiblemente podrían llevarnos a pensar que:
 
 > «La fe ha conquistado para el peregrino ascendente una perfección de propósito que deja entrar a los hijos del tiempo por las puertas de la eternidad. Ahora los ayudantes de los peregrinos deben empezar el trabajo de desarrollar esa perfección de entendimiento y esa técnica de comprensión que son tan indispensables para la perfección paradisiaca de la personalidad.» ([[LU 26:4.14](/es/The_Urantia_Book/26#p4_14))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Duvau/Repersonnalisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Repersonalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Conference_AFLLU_2025_A_Paris_France_AFLLU">
+          <span class="pr-2">Conferencia AFLLU 2025 en París (Francia) AFLLU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

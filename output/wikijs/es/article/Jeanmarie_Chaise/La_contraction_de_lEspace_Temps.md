@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jeanmarie Chaise<br>© 200 Asociación Francófona de Lectores del Libro de Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de lectores de LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Propositions_et_reflexions_sur_la_reunion_de_2002">
+          <span class="pr-2">Propuestas y reflexiones sobre la reunión de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Puede suceder que el hombre tenga la impresión de ser esclavo de las contingencias materiales de su entorno. Esto es en gran medida correcto mientras no haya captado realmente todos los datos que le permitirían inicialmente abstraerse de ello, para luego distanciarse cada vez más de él y pronto dar los pasos que van de la conciencia de un ser material a la conciencia de un ser material. un ser espiritual. La personalidad humana no es juguete de los acontecimientos en el tiempo y el espacio o, al menos,
@@ -87,3 +111,28 @@ La contracción del tiempo, y por tanto del espacio recorrido, (o viceversa) es 
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Reunion_de_lecteurs_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de lectores de LU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Propositions_et_reflexions_sur_la_reunion_de_2002">
+          <span class="pr-2">Propuestas y reflexiones sobre la reunión de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Charles Roth<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi actitud</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">La oración de consentimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hay un momento en el que nos decimos: «La preocupación no conduce a nada... dejemos que las cosas sucedan». Y, casi milagrosamente, increíblemente, todo sale bien y sucede de forma tranquila y armoniosa. Sucedió que aplicamos el principio de “Todo sucede a su tiempo”.
@@ -39,3 +63,28 @@ _De la ESCUELA DE CRISTIANISMO UNITY, Unity Village, Missouri, EE. UU._
 
 Carlos Roth
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi actitud</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-58-primavera-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 58 — Primavera 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">La oración de consentimiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

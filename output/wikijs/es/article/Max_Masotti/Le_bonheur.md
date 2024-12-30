@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Max Masotti<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El osteoclasto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Según el diccionario, la felicidad es un estado de perfecta satisfacción interior. Definir la felicidad no es fácil. ¿Se trata de “pequeñas alegrías cotidianas” o de un estado mental sostenible?
@@ -53,3 +77,28 @@ Ver el [LU 103:5.5](/es/The_Urantia_Book/103#p5_5) — [LU 111:4.7](/es/The_Uran
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El osteoclasto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">Serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

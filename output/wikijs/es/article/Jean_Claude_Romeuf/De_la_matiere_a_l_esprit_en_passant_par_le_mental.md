@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia, filosofía, religión y revelación.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">Para un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vida no es una coincidencia. Es intencional, nunca accidental. La mente unida al Espíritu es creativa y produce vida.
@@ -102,3 +126,28 @@ Con la autorización póstuma de Georges Brassens, diremos finalmente que quien 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia, filosofía, religión y revelación.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-35-otoñoinvierno-$2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 35 — Otoño/Invierno $2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">Para un amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

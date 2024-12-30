@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Michel Bezier<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zona de relajación: Ya no tengo miedo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El espíritu que nos anima con su amor ilimitado, nos empuja a trazar conscientemente nuestro camino en la vida.
@@ -53,3 +74,25 @@ Sabiduría Eterna te saludamos con deferencia y nos colocamos con absoluta confi
 
 Michel Bézier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zona de relajación: Ya no tengo miedo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

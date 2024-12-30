@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2001 Nicole Ragetly<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace unos días quería hablaros de un concierto al que Chris y yo asistimos el verano pasado, gracias a una pareja de amigos suizos (él es violinista en un grupo de música de cámara, ella es profesora de canto). Esta pareja, por tanto, se conoció. un personaje bastante extraordinario. Compró una finca enorme muy cerca de nuestra casa. Mientras caminaba por su terreno, formado principalmente por matorral, descubrió una especie de gran sótano al aire libre al que logró descender y donde encontró restos de columnas de piedra esculpidas. Muy intrigado y muy interesado, investigó en profundidad y descubrió que, en el lugar de esta bodega, había una capilla llamada “la capilla de Pisa”. Sus investigaciones le permitieron reconstruir los planos de la capilla y decidió reconstruirla en su sitio original.
@@ -33,3 +54,25 @@ Fue una especie de inauguración, ya que fue el primer concierto que se dio en l
 
 Nicole Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-20-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 20 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Claude Flibotte<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Puede el término “tensión” iluminarnos sobre la Trinidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_en_Italie">
+          <span class="pr-2">Reunión en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Siguiendo las preguntas de mi amigo Éric Tarissan y las planteadas por Guy Perron sobre Dios Séptuplo, he aquí mi entendimiento a día de hoy. A pesar de que llevo varios años estudiando este tema y muchos otros dentro de otro grupo de estudio, no me considero una autoridad en el tema. ¡Me siento y me veo mucho más como un perpetuo estudiante frente a las misteriosas bellezas que me esperan en el futuro eterno!
@@ -139,3 +163,28 @@ Claude Flibotte
 Santa Julia
 26/03/2017
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Puede el término “tensión” iluminarnos sobre la Trinidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_en_Italie">
+          <span class="pr-2">Reunión en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

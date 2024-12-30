@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Chris Ragetly<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Savoir_et_Conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Conocimiento y Conciencia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-61-invierno-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 61 — Invierno 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lucienne_Leker/Quand_je_pourrai_dire">
+          <span class="pr-2">Cuando puedo decir...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El libre albedrío es una característica común a las deidades, las personalidades sobrehumanas y los mortales evolutivos. Ningún otro ser, fuerza, creador o agente en el vasto universo de universos puede interferir en ningún grado con la soberanía absoluta del libre albedrío humano que opera en los reinos de opción relacionados con el destino eterno de la personalidad mortal que elige. 71.3. Esta observación es válida para todas las personalidades existentes del universo central y los superuniversos, es probable que sea la misma para las criaturas de los niveles futuros últimos y coabsolutos. También es probable que algunas criaturas que operan de forma más o menos automática en niveles terminados no tengan este atributo. Algunos Maestros Controladores Físicos, como los Frandalanks y Chronoldeks, no parecen tener libre albedrío, son seres inteligentes, pero más o menos similares a máquinas vivientes.
@@ -40,3 +64,28 @@ _Lo que determina el diferencial de presencia espiritual existe en tu propio cor
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Savoir_et_Conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Conocimiento y Conciencia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-61-invierno-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 61 — Invierno 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lucienne_Leker/Quand_je_pourrai_dire">
+          <span class="pr-2">Cuando puedo decir...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

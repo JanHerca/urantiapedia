@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola de la ostra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Hilos de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lo menos que podemos decir sobre este fin de semana que nos reunió en Suresnes es que todos estábamos “decepcionados en el buen sentido” y que nuestras expectativas espirituales se cumplieron en gran medida. De hecho, los treinta miembros lectores que éramos estaban literalmente llenos de energía y energía. ¡Inspirados por el Espíritu de la Verdad a lo largo de este compartir fraterno!
@@ -29,3 +53,28 @@ Hoy, Jesús todavía nos desafía a seguirlo y practicar resueltamente sus ense�
 
 \* _Los textos pueden solicitarse a sus respectivos autores o a Max._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parábola de la ostra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Hilos de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

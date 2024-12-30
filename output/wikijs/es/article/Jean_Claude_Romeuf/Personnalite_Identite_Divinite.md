@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 Jean-Claude Romeuf<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Espíritu de la Verdad: ¿polo unificador de las religiones?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quienes experimentan una irresistible atracción por el misterio pueden entusiasmarse con el milagro permanente y cotidiano del don de la personalidad.
@@ -59,3 +80,25 @@ La Divinidad es el futuro de la personalidad. Sin él, no hay crecimiento posibl
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Espíritu de la Verdad: ¿polo unificador de las religiones?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

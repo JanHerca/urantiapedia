@@ -1,5 +1,5 @@
 ---
-title: "la casa"
+title: "La casa"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajustador, Absolución y Fusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Correo de los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean-Claude Romeuf
@@ -131,3 +155,28 @@ manos; sin medida con infinita confianza, porque Tú eres mi Padre.
 
 Carlos de Foucauld.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajustador, Absolución y Fusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Correo de los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

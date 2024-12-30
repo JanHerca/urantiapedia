@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 François Dupont<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Factor 100 o los 757.575 años que nos separan (quizás) del Paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="pr-2">Informe de la reunión de Armeau: noviembre de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Algunas notas sobre el seminario del 21/23 de noviembre) en Neuville sur Loin (Armeau)_
@@ -73,3 +97,28 @@ He aquí una triple afirmación según los modelos de la L.U. que puede servir d
 
 Francois Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Factor 100 o los 757.575 años que nos separan (quizás) del Paraíso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="pr-2">Informe de la reunión de Armeau: noviembre de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

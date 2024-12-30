@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jean-François Drouet<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La contracción del espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Básicamente, es muy simple; sólo tenemos una obligación: conformar toda nuestra voluntad a la de Dios ([LU 111:5.2](/es/The_Urantia_Book/111#p5_2)), lo que equivale a seguir el plan divino ([LU 4:1.2](/es/The_Urantia_Book/4#p1_2)).
@@ -69,3 +90,25 @@ El razonamiento evolucionista general se acepta más fácilmente que una revelac
 
 Jean-François Drouet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/La_contraction_de_lEspace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La contracción del espacio-tiempo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-16-invierno-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 16 — Invierno 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

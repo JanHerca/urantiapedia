@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Samuel y Adélaïde Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soberanía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todo individuo que es consciente de estar consciente y dotado de un mecanismo equilibrado se plantea en algún momento de su existencia las siguientes preguntas fundamentales:
@@ -60,3 +81,25 @@ Tus servidores en colaboración con el Supremo.
 Samuel y Adelaida Heine
 (Isla de la Reunión)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soberanía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

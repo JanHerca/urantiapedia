@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Dominique Ronfet<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra experiencia UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="pr-2">Actividades del grupo Dakar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dominique Ronfet
@@ -104,3 +128,28 @@ Lo cual muy bien podemos lograr a la ligera.<br>
 <figcaption>Fig. 7. — cadena</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar_and_Guy_Perron/Notre_experience_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra experiencia UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Activites_Groupe_De_Dakar">
+          <span class="pr-2">Actividades del grupo Dakar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

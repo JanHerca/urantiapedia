@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La botella</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">Reflectividad del historial de registros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean-Claude Romeuf —1 de noviembre de 2023
@@ -137,3 +161,28 @@ He conocido a personas extraordinarias en mi vida. Pero el más grande, a menudo
 
 ¡No importa! Si no siempre soy capaz de seguir el camino que Dios tenía planeado para mí, trazaré el mío propio; lo importante es seguir adelante. Lástima que no vaya recto y en zigzag como las sinuosas carreteras de las Cevenas. Dios todavía logrará seguirme. Y si me adelanta, no intentaré alcanzarlo, ¡él me esperará en la última curva!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La botella</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-104-dieciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 104 — Dieciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">Reflectividad del historial de registros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

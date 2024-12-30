@@ -1,5 +1,5 @@
 ---
-title: "la mujer"
+title: "La mujer"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Universo y la Naturaleza, un mecanismo de leyes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers_et_Max_Masotti/Anniversaire_de_Micael">
+          <span class="pr-2">El cumpleaños de miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -54,3 +78,28 @@ poeta nicaragüense
 
 Gioconda Belli
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Universo y la Naturaleza, un mecanismo de leyes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-56-otoño-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 56 — Otoño 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers_et_Max_Masotti/Anniversaire_de_Micael">
+          <span class="pr-2">El cumpleaños de miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

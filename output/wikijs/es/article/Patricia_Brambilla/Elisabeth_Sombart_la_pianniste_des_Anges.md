@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Patricia Brambilla<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_personnalite">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una tunecina blanca, corpulenta, y un chal inmaculado echado sobre su hombro izquierdo. Una cruz brillante alrededor del cuello y dos vírgenes en las orejas. Aparece Isabel Sombart. Como una visión, surgida de la nada, de repente está ahí. Tiene el halo de un ángel, pero cuando habla, su voz es profunda. Palabras extraídas de las octavas inferiores que revelan una inmensa fuerza interior.
@@ -45,3 +69,28 @@ Elizabeth compara la música con la cocina, “ese arte que transforma la materi
 
 Patricia Brambilla
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Humor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_personnalite">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Patrick Morelli<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dolfo_Guzman/Jesus_L_homme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús el hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="pr-2">Parábola “En el camino de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Condiciones para la obtención de Personalidad
@@ -293,3 +317,28 @@ La personalidad del hombre sólo se desarrolla o se manifiesta a través del int
 
 **Patricio Morelli**.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dolfo_Guzman/Jesus_L_homme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús el hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-77-marzo-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 77 — Marzo 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cyril_Causette/Parabole_A_la_facon_de_Jesus">
+          <span class="pr-2">Parábola “En el camino de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

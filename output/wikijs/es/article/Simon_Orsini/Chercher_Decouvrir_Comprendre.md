@@ -9,6 +9,27 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alguna información sobre la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vivid lealmente hoy —creced— y mañana será otro día. La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo._ ([LU 100:1.4](/es/The_Urantia_Book/100#p1_4))
@@ -61,3 +82,25 @@ Al observar las incesantes luchas de las criaturas por alcanzar la perfección, 
 
 **Simón Orsini**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alguna información sobre la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

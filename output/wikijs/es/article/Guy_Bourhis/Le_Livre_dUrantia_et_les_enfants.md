@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1998 Guy Bourhis<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Surgimiento y propósito de la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Texto de una conferencia pronunciada por Guy Bourhis en París en 1984. Este texto es una especie de introducción a un estudio mucho más extenso sobre el mismo tema. Este estudio titulado “Viaje al corazón de un niño” estará disponible próximamente._
@@ -60,3 +84,28 @@ Una palabra más: Laurent y Virginie han emulado su época: Tanguy que, desde ha
 
 Él también tenía 6 o 7 años cuando se acercó al Libro de Urantia. En su opinión común, los niños de su edad, en 1984, se ríen y se burlan de la mención del papel del Ajustador. ellos mismos sacan la conclusión: a los 11 o 12 años, **ya es demasiado tarde...**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-7-otoño-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 7 — Otoño 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Surgimiento y propósito de la adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Patrick Morelli<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ya tengo 60 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">Encuentro Internacional de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En su estudio Bill nos da más que una pista para intentar comprender el “Desafío de la síntesis Personalidad-Poder”.
@@ -38,3 +62,28 @@ Todo esto posiblemente puede imaginarse a través de un diferencial permanente q
 
 _Patricio Morelli._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ya tengo 60 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">Encuentro Internacional de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

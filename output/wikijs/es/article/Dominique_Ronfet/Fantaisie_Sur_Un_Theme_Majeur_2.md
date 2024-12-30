@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Dominique Ronfet<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Comentario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Encontrarán a continuación una Fantasía sobre un tema importante, escrita en los últimos días pero que resulta de una meditación constante sobre una forma de “impermanencia” de la existencia.
@@ -99,3 +123,28 @@ dominical<br>
 
 > «La verdad divina es una realidad viviente que es percibida por el espíritu. La verdad sólo existe en los niveles espirituales superiores de la comprensión de la divinidad y de la conciencia de la comunión con Dios. Podéis conocer la verdad, y podéis vivir la verdad; podéis experimentar el crecimiento de la verdad en el alma, y gozar de la libertad que su luz aporta a la mente, pero no podéis aprisionar la verdad en unas fórmulas, códigos, credos o modelos intelectuales de conducta humana. Cuando intentáis formular humanamente la verdad divina, ésta muere rápidamente. Incluso en el mejor de los casos, el salvamento póstumo de la verdad aprisionada sólo puede terminar en la realización de una forma particular de sabiduría intelectual glorificada. La verdad estática es una verdad muerta, y sólo la verdad muerta puede ser formulada en una teoría. La verdad viviente es dinámica y sólo puede gozar de una existencia experiencial en la mente humana.» ([LU 180:5.2](/es/The_Urantia_Book/180#p5_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Comentario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

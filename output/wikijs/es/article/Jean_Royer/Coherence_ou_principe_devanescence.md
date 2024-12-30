@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1997 Jean Royer<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos metafísicos de un agnóstico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="pr-2">El Espíritu de la Verdad: ¿polo unificador de las religiones?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestros amigos australianos que publican la excelente revista “Interface International” tienen una sección que debería interesar a muchos francófonos, se llama “consistencia” y examina el Libro de Urantia en su lógica o sin contradicciones. A primera vista, una de las cosas que parece haber más impresionado a muchos lectores es la lógica del libro, pero ¿es tan sólida como queremos creer? ¿No hay contradicciones, verdaderas o aparentes, en estas 2097 páginas? La versión electrónica nos permite verificar lo que de otro modo sería casi imposible o al menos muy aleatorio. Para mí es una prueba, siempre que recordemos dos cosas:
@@ -26,3 +50,28 @@ Jean-Royer
 
 NB: los subrayados, negritas y paréntesis son míos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos metafísicos de un agnóstico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="pr-2">El Espíritu de la Verdad: ¿polo unificador de las religiones?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

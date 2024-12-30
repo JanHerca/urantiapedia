@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Guy Bourhis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Buen comportamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quedé muy impresionado al leer el discurso pronunciado por Nicholas W. SCALZO (Estados Unidos) en la conferencia internacional de la IUA en agosto de 2000 y reproducido en el último número de la revista de esta asociación, página 3 (septiembre de 2000, volumen 7, nº3).
@@ -29,3 +53,28 @@ Vivamos la voluntad de nuestro Padre en nuestra experiencia diaria (en la oficin
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Buen comportamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

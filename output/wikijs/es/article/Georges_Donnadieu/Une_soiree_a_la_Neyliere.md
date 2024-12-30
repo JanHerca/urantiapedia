@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Georges Donnadieu<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Felipe Neri</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/L_art_de_benir">
+          <span class="pr-2">El arte de bendecir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El encuentro nacional de lectores francófonos del Libro de Urantia de 2012 tuvo lugar en Pentecostés en la finca La Neylière. Algunos participantes pudieron escuchar, durante la velada recreativa del sábado 26 de mayo, la canción Suzanne interpretada por Alain Bashung (álbum “Bleu Pétrole” 2008). La letra de la segunda estrofa y el estribillo es la siguiente: letra original en inglés de Leonard Cohen y adaptación francesa de Graeme Allwright, cantante folk australiano.
@@ -59,3 +83,28 @@ En alas de la poesía, nuestra imaginación se vuelve fértil y nos lleva a cada
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Benjamin_Boisson/Saint_Philippe_Neri">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">San Felipe Neri</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-60-otoño-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 60 — Otoño 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/L_art_de_benir">
+          <span class="pr-2">El arte de bendecir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

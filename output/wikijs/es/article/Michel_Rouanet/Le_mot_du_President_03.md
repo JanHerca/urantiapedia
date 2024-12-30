@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Michel Rouanet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/039">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano de 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="pr-2">Sabiduría espiritual y conocimiento genético.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una revelación es una comunicación, un mensaje, una enseñanza. Para quien lo recibe, es un descubrimiento de la verdad, un conocimiento, una nueva experiencia para vivir y manifestar en su ser. Rara vez colectiva (cinco veces en la historia), puede ser más frecuentemente individual. El ciclo de revelaciones es permanente. ¿Cómo podría ser de otra manera? Humanos y deidades coexisten, aquí y ahora. ¿Cómo no podrían comunicarse juntos? ¿Cómo podrían el hombre y la mujer no manifestar lo divino?
@@ -37,3 +61,28 @@ Gracias a todos.
 
 michel r.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/039">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano de 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Sagesse_spirituelle_et_connaissance_genetique">
+          <span class="pr-2">Sabiduría espiritual y conocimiento genético.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

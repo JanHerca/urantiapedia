@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2017 Georges Michelson-Dupont<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parte hace avanzar el todo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Superpoblación planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Esta presentación se centra en la importancia de estudiar El Libro de Urantia con otras personas en un entorno estimulante, con un método dinámico y progresivo. Tomar en serio el hecho de que estamos expuestos a las enseñanzas de El Libro de Urantia nos brinda la inmensa oportunidad de convertirnos en mejores personas desarrollando nuestra conciencia cósmica y mejorando nuestra percepción espiritual, es decir, comprender mejor y vivir la voluntad del Cielo. Padre.
@@ -137,3 +161,28 @@ Director de la escuela UBIS
 > ubis.urantia.org
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parte hace avanzar el todo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Superpoblación planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "correo de los lectores"
+title: "Correo de los lectores"
 description: 
 published: true
 date: 2024-11-6T12:40:15Z
@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La casa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hola a todos,
@@ -60,3 +81,25 @@ Fraternalmente.
 
 Alain Coulombe
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_Maison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La casa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-102-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 102 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

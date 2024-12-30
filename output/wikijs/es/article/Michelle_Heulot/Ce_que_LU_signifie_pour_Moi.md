@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Michelle Heulot<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vida en espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dios, el tiempo, el universo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 michelle heulot
@@ -51,3 +75,28 @@ Un vuelo hacia la libertad espiritual y un compromiso total con el amor universa
 
 “Dedica tu vida a demostrar que el amor es lo más grande del mundo”. [LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vida en espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dios, el tiempo, el universo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

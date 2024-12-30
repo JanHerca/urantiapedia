@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Dominique Ronfet<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Lessentiel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo esencial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Enseñar o no enseñar?... ésta podría ser la pregunta que se haría un lector después de mucha lectura y frecuente asistencia a grupos de estudio. Imbuido de conocimiento, tiene derecho a llamarse portador y luego quiere dar lo que cree haber recibido.
@@ -45,3 +66,25 @@ Pero esa es otra historia...
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Lessentiel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo esencial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

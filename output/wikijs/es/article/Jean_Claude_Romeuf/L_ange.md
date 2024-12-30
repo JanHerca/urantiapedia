@@ -1,5 +1,5 @@
 ---
-title: "el angel"
+title: "El angel"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jean-Claude Romeuf<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de relajación: impresiones del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">Después de la reunión de mayo de 2001 en N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Flora estaba jugando en la playa, una playa como todas las playas: con el mar de frente, azul o gris como prefieras, eso no importa. Lo que importa es imaginar a la niña jugando sola en la arena, junto al mar.
@@ -27,3 +51,28 @@ Un ángel descansaba cerca de ella. Ella sabía de la existencia de los ángeles
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de relajación: impresiones del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-18-verano-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 18 — Verano 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">Después de la reunión de mayo de 2001 en N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

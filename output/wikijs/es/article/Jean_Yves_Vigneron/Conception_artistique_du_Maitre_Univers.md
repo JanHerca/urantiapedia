@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1996 Jean Yves Vigneron<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="pr-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dibujos realizados por _Jean Yves Vigneron_ utilizando el software “Paint” de Windows&reg; (Textos extraídos del _Libro Urantia_)
@@ -116,3 +140,28 @@ Véanse también los demás párrafos del folleto 11 que tratan de la respiraci�
 
 - [Próximo artículo de esta serie](/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers_2)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="pr-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

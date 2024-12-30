@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Guy de Viron<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Cuento: El granero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El amor es considerado el bien supremo, la suma de todas las virtudes ordinarias (paciencia, bondad, generosidad, humildad, cortesía, desinterés, gentileza, sencillez, sinceridad...). Es el regalo más envidiable porque es el único bien duradero. Dios, el Señor es amor. Por tanto, debemos desear este don eterno. Antepongamos el amor a todo lo demás.
@@ -39,3 +63,28 @@ No nos quejemos de la mano que quiere perfeccionar en nosotros el trazo aún imp
 
 Guy De Virón
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Cuento: El granero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

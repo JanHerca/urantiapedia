@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Dominique Ronfet<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia de una visita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Palabras de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Dedico este texto a la memoria de Jacques Dupont que nos dejó._
@@ -67,3 +91,28 @@ Luego, algunos se aventuraron hacia el templo y compartieron sus impresiones con
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia de una visita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Palabras de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

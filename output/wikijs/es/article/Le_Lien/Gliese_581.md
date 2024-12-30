@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directores de Poder y Trascendentales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Belgium_08_21_2010">
+          <span class="pr-2">Bélgica el 21/08/2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Algo nuevo alrededor de la estrella Gliese 581!
@@ -39,3 +63,28 @@ Aún así, si existe vida en Gliese 581 d, las condiciones deben ser duras y, po
 
 Laurent Sacco, Ciencias Futura
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Directeurs_de_Pouvoir_et_transcendantaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directores de Poder y Trascendentales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Belgium_08_21_2010">
+          <span class="pr-2">Bélgica el 21/08/2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

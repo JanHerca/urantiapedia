@@ -1,5 +1,5 @@
 ---
-title: "en este asunto"
+title: "En este asunto"
 description: 
 published: true
 date: 2024-11-2T13:5:38Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Sophie Malicot<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="pr-2">Ensayos de definición de espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (febrero de 2020)
@@ -45,3 +69,28 @@ Esta noche, afuera se avecina tormenta. El viento se lo lleva todo en sus violen
 
 Sofía MALICOT
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="pr-2">Ensayos de definición de espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Michel Bezier<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para un amigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">Una vida debe morir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > «_Apenas habían terminado los once sus comentarios sobre el discurso de la vid y los sarmientos, el Maestro les indicó que deseaba continuar hablándoles, pues sabía que le quedaba poco tiempo, y dijo: «Cuando os haya dejado, no os desaniméis por la enemistad del mundo. No os sintáis abatidos ni siquiera cuando los creyentes pusilánimes se vuelvan contra vosotros y se alíen con los enemigos del reino. Si el mundo os odia{24}, recordad que me ha odiado antes que a vosotros. Si fuerais de este mundo, entonces el mundo amaría lo que es suyo, pero como no lo sois, el mundo se niega a amaros. Estáis en este mundo, pero no debéis vivir a su manera. Os he elegido y apartado del mundo para que representéis el espíritu de otro mundo en este mismo mundo en el que habéis sido elegidos. Pero recordad siempre las palabras que os he dicho: El servidor no es más grande que su señor. Si se atreven a perseguirme, también os perseguirán a vosotros. Si mis palabras ofenden a los incrédulos, vuestras palabras también ofenderán a los impíos. Y os harán todo esto porque no creen en mí ni en Aquel que me ha enviado; por eso sufriréis muchas cosas a causa de mi evangelio; pero cuando estéis soportando esas tribulaciones, deberíais recordar que yo también he sufrido antes que vosotros a causa de este evangelio del reino celestial»._» ([LU 180:3.1](/es/The_Urantia_Book/180#p3_1))
@@ -107,3 +131,28 @@ Hoy estoy esperando el anochecer. Camino en una ciudad que cada día se estrangu
 
 Michel Bézier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para un amigo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-29-primavera-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 29 — Primavera 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">Una vida debe morir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

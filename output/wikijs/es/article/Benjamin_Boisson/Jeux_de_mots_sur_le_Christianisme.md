@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2012 Benjamin Boisson<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales parte V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-61-invierno-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 61 — Invierno 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Jour_Ou">
+          <span class="pr-2">El día en que</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _¡Se nos pide que no golpeemos al apóstol!_ (**Alphonse Allais**)
@@ -55,3 +79,28 @@ _La teología es simple como Dios y Dios hacen tres._ (**Jacques Prévert**)
 
 bebida benjamin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Siete Realidades Fundamentales parte V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-61-invierno-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 61 — Invierno 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Le_Jour_Ou">
+          <span class="pr-2">El día en que</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

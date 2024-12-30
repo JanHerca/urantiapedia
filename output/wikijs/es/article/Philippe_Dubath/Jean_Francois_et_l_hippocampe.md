@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Philippe Dubath<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_nationale_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Encuentro nacional en Notre Dame de Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **...O cómo afrontar la epilepsia**
@@ -37,3 +61,28 @@ Información en el sitio web www.epi-eclipse.ch
 
 Philippe Dubath
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_nationale_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Encuentro nacional en Notre Dame de Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

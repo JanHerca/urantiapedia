@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Coulombe/Presentation_du_Livre_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="pr-2">Los 7 jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Amor, ¿para qué sirve?***
@@ -31,3 +55,28 @@ Guy De Virón
 
 (dijo el suizo)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alain_Coulombe/Presentation_du_Livre_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentación del libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="pr-2">Los 7 jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

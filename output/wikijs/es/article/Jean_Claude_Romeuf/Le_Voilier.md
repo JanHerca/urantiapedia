@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Papeles Rodán</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">Cuando el viento sopla por la noche...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Su barco se llamaba Edentia._ Dar la vuelta al mundo, ese fue su último sueño. Navega de este a oeste y busca una isla rodeada de acantilados. “Es en una isla bordeada de acantilados donde encontrarás un pájaro”, le había dicho un día la joven rubia vestida de blanco. “Este pájaro es tuyo y gracias a él podrás volar. hasta «Antes de hacer verdaderamente tu descubrimiento, primero tendrás que escalar siete acantilados». Él no entendía el significado de estas palabras, pero tenía la sensación de que la dificultad sería tan grande como recoger una estrella caída en el mar. . Sin embargo, sabía que la joven no mentía.
@@ -45,3 +69,28 @@ No siempre fue capaz de captar el significado de las palabras del hada, pero man
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Papeles Rodán</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">Cuando el viento sopla por la noche...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Durante mucho tiempo quise participar en un curso en el marco de la U.B.I.S., esta escuela del _Libro Urantia_ en Internet. Su pedagogía, basada en la mayéutica tan querida por Sócrates y su principio de funcionamiento durante un ciclo de 10 semanas que alterna preguntas y respuestas seguidas de intercambio, fue una fórmula que me convenía perfectamente, pudiendo participar cuando tenía tiempo durante el curso en cuestión. .
@@ -30,3 +51,25 @@ También es la fuente de todo tipo de tiempo y de todas las formas de espacio pa
 
 > Una de las conferencias nocturnas más extraordinarias de Amatus fue la sesión en la que se discutió sobre la unidad espiritual. Santiago Zebedeo había preguntado: «Maestro, ¿cómo podemos aprender a tener el mismo punto de vista, y a disfrutar así de una mayor armonía entre nosotros?»{13} Cuando Jesús escuchó esta pregunta, su espíritu se alteró de tal manera que replicó: «Santiago, Santiago, ¿cuándo te he enseñado que todos debéis tener el mismo punto de vista? He venido al mundo para proclamar la libertad espiritual, con el fin de que los mortales puedan tener la facultad de vivir una vida individual original y libre ante Dios. No deseo que la armonía social y la paz fraternal se adquieran a costa del sacrificio de la personalidad libre y de la originalidad espiritual. Lo que yo os pido, a mis apóstoles, es la *unidad espiritual* —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para *ser iguales* espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino»{14}. ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-96-dieciembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 96 — Dieciembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

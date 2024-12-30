@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Myriam Delcroix<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la reunión de Armeau: noviembre de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Testimonio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ya no tengo miedo de estos caminos lejanos,
@@ -57,3 +81,28 @@ De mi alma que ya no tiene miedo de esperar.
 
 Myriam Del Croix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la reunión de Armeau: noviembre de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-28-invierno-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 28 — Invierno 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Testimonio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

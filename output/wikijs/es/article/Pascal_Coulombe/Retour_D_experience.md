@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2023 Pascal Coulombe<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasía sobre un tema importante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Algunos comentarios sobre las dificultades de difusión de la quinta revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pascal Coulombé
@@ -67,3 +91,28 @@ Queridos hermanos, seamos fuertes y constantes en cualquier prueba, porque estam
 Fraternalmente,<br>
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasía sobre un tema importante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Algunos comentarios sobre las dificultades de difusión de la quinta revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

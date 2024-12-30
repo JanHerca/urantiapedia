@@ -9,6 +9,27 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 JeanMarie Chaise<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudien el Libro de Urantia. ¿Para qué hacer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Silla JeanMarie
@@ -57,3 +78,25 @@ Vea en la página 1694 las diferentes parábolas que Jesús usó para describir 
 
 > _Jesús contó a las multitudes otras muchas parábolas{18}. De hecho, a partir de esta época, rara vez empleó otro método para enseñar a las masas. Después de hablar en parábolas a un auditorio público, explicaba sus enseñanzas a los apóstoles y a los evangelistas con más plenitud y claridad durante las clases vespertinas._ ([LU 151:4.7](/es/The_Urantia_Book/151#p4_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudien el Libro de Urantia. ¿Para qué hacer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-84-dieciembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 84 — Dieciembre 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

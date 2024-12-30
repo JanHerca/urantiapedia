@@ -1,5 +1,5 @@
 ---
-title: "la muerte no existe"
+title: "La muerte no existe"
 description: 
 published: true
 date: 2024-10-17T22:23:59Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Causas, efectos III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_16_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°16 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _“La muerte me ha limpiado de todo miedo. No tengas miedo: la vida nunca se detiene. »_
@@ -69,3 +93,28 @@ La experiencia de Jean-Paul Duc no es única. Miles de personas en todo el mundo
 
 _Entrevista a Pablo Dávila Cooperación 30.10.2013_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Les_causes_les_effets_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Causas, efectos III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-65-invierno-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 65 — Invierno 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Quiz_maxien_16_Les_reponses">
+          <span class="pr-2">Maxien Quiz n°16 Las respuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

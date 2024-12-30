@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Nicole Ragetly<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Si...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Despertar repentino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Muchos urantianos han entendido mal la Providencia de Dios. De hecho, existe un plan divino providencial para nuestro planeta. La providencia de Dios se traduce en las acciones combinadas de seres celestiales y espíritus divinos, quienes, en armonía con la ley cósmica, trabajan incesantemente por el honor de Dios y el progreso espiritual de sus hijos del universo.
@@ -61,3 +85,28 @@ Cuando oramos pidiendo una intervención providencial, la respuesta a esa oraci�
 
 Nicole Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Si...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-24-invierno-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 24 — Invierno 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Despertar repentino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

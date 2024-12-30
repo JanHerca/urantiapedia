@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1996 Jean Yves Vigneron<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/003">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/La_personnalite">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dibujos realizados por _Jean Yves Vigneron_ utilizando el software “Paint” de Windows&reg; — (Textos tomados del Libro de URANTIA) (Continuación del artículo publicado en Le Lien Nº 2)
@@ -114,3 +138,28 @@ _(continuación «Le Lien» No. 4 – los siete superuniversos)_
 
 - [Anterior en esta serie](/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/003">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-3-invierno-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 3 — Invierno 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/La_personnalite">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

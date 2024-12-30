@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Jean Royer<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pentecostés del año 30: ¿cuarenta o cincuenta días después de Pascua?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El fundamentalista cristiano:
@@ -47,3 +68,25 @@ Querer discutir con un fundamentalista es querer discutir con un muro.
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Chappuis/Pentecote_de_l_an_30">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pentecostés del año 30: ¿cuarenta o cincuenta días después de Pascua?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

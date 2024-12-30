@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Joseph Le Dain y Séverin Desbuisson<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Despertar repentino (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace unas semanas recibimos malas noticias: Jacques estaba muy enfermo. Muchas veces, al acercarnos a la partida definitiva de un ser querido, sentimos remordimiento por no haberlo visitado, por no haber confraternizado suficientemente con él, por no haber hecho todo lo que debíamos haber hecho, en definitiva, por no haber hecho lo que Jesús hubiera hecho. ...
@@ -91,3 +115,28 @@ _De este intercambio sólo conservamos las experiencias y anécdotas propias del
 
 Joseph Le Dain y Séverin Desbuisson
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Despertar repentino (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

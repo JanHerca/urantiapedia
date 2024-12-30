@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Anne y Thierry Lepage<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña teoría personal sobre la prueba de la existencia de Dios.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">“La voluntad de Dios”: ¡¿despotricar o Dios, mi mejor amigo?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Llegamos esta mañana del 26 de abril a Notre Dame des Lumières, que acoge una reunión nacional de lectores del _Libro de Urantia_ organizada por la AFLLU. El lugar, de nombre inspirador, es magnífico: la presencia de un claustro, una capilla y estatuas religiosas confieren al lugar un ambiente sereno. Además, su ubicación en un entorno natural muy tranquilo invita a la meditación.
@@ -29,3 +53,28 @@ Fraternalmente.
 
 Anne y Thierry Lepage
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña teoría personal sobre la prueba de la existencia de Dios.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-26-verano-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 26 — Verano 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">“La voluntad de Dios”: ¡¿despotricar o Dios, mi mejor amigo?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuánto falta para el cielo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Reunión Anual de la AFLLU en Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Viaje a través de las edades del universo maestro_
@@ -441,3 +465,28 @@ La sexta triunidad es el esfuerzo de la Deidad por realizarse en trascendencia e
 
 Desde el punto de vista temporal, todo esto sucede en la eternidad pasada, incluso antes de la llegada del tiempo y el espacio. Este es realmente el comienzo de la aventura. Los invito a continuar nuestra exploración de la eternidad pasada en el próximo ENLACE No. 86 inspeccionando las triodidades, estas asociaciones que ya no incluyen al Padre Universal.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuánto falta para el cielo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Reunión Anual de la AFLLU en Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

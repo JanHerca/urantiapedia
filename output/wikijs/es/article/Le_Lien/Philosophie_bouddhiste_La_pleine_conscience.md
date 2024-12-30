@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="pr-2">La consagración de la elección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Atención plena** (a veces también llamada atención plena, samma sati en sánscrito) es un término derivado de las enseñanzas de Siddhartha Gautama y que designa la conciencia vigilante de los propios pensamientos, acciones y motivaciones. Juega un papel primordial en el budismo donde se afirma que la conciencia plena es un factor esencial para la liberación (bodhi o despertar espiritual). Es el séptimo miembro del noble óctuple sendero.
@@ -23,3 +47,28 @@ El Buda aconseja observar la sensación internamente (_en la mente_) y extername
 
 La atención plena se encuentra más allá de la primera forma de sabiduría: la devoción, y más allá de la segunda forma: la lógica del intelecto. Es la tercera forma de sabiduría, llamada bhavana-maya panna, la visión directa de la realidad última en todas las cosas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-67-verano-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 67 — Verano 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="pr-2">La consagración de la elección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

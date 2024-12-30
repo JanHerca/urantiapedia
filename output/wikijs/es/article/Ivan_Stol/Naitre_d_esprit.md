@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Ivan Stol<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poncio Pilato (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karuna_Leys/La_Realite_de_la_Personnalite_1">
+          <span class="pr-2">La realidad de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Puede parecer difícil para nosotros, pobres mortales que vivimos en este contexto puramente físico, renacer en espíritu cuando nuestra mente funciona en un nivel tan material.
@@ -43,3 +67,28 @@ _(Estudio del grupo TOULON, FRANCIA)_
 <img src="/image/article/Le_Lien/images_01/174.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poncio Pilato (segunda parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-63-verano-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 63 — Verano 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karuna_Leys/La_Realite_de_la_Personnalite_1">
+          <span class="pr-2">La realidad de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

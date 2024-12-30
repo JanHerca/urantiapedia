@@ -1,5 +1,5 @@
 ---
-title: "un incendio"
+title: "Un incendio"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Jean-Claude Romeuf<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melquisedec o la 2da Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El invierno ya está aquí, frío, plateado y mágico. Nada se mueve bajo el hielo. Sólo las hadas bailan en la gelatina. No entra ni un sonido en la casa. Vamos a cambiar de año, de siglo, de milenio. ¡Qué importa! Es un número formado por un dos con tres ceros. Tendrás que acostumbrarte a escribirlo, ¡es todo! “_Pasan los días, yo me quedo_”, dice el poeta.
@@ -29,3 +53,28 @@ A ciento cincuenta años luz de distancia, encenderemos el fuego de nuestro amor
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera de 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-13-primavera-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 13 — Primavera 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melquisedec o la 2da Revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

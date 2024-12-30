@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Khatukhira Bernard<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaciones entre material, mente y espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">Acta de la Asamblea General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 EL NACIMIENTO DE LA ENSEÑANZA DEL LIBRO DE URANTIA EN UGANDA
@@ -75,3 +99,28 @@ En verdad, los ugandeses tienen sed y hambre de la verdad y de Dios. Es un suelo
 
 ***Ciudadanos cósmicos en Uganda***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaciones entre material, mente y espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">Acta de la Asamblea General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

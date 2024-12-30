@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Jeanmarie Chaise<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Anova_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ánova (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="pr-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _El hombre mortal puede acercarse a Dios y alejarse repetidas veces de la voluntad divina durante tanto tiempo como conserve su poder de elección. El destino final del hombre no se decide hasta que ha perdido el poder de elegir la voluntad del Padre. El Padre no cierra nunca su corazón a las necesidades y a las súplicas de sus hijos. Es su progenitura la que cierra su corazón para siempre al poder de atracción del Padre cuando pierde final y definitivamente el deseo de hacer su voluntad divina —la de conocerle y ser semejante a él. El destino eterno del hombre está igualmente asegurado cuando su fusión con el Ajustador proclama al universo que este ascendente ha hecho la elección final e irrevocable de vivir la voluntad del Padre._ ([LU 5:1.11](/es/The_Urantia_Book/5#p1_11))
@@ -29,3 +53,28 @@ Si ha llegado nuestro momento, si es nuestro momento de elegir, elijamos. De lo 
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Anova_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ánova (primera parte)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="pr-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "tener trigo"
+title: "Tener trigo"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">Muchas gracias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace bastante tiempo, me dijo, un reconocido periodista, especialista en música fonética, hizo admitir a Télémusicvision de su país que era impensable que una palabra cargada de tanta riqueza, pudiera ser tan fea. Todos asintieron. El rey tuvo que ceder ante la opinión pública y proclamó que a partir de ahora cualquiera que pronunciara la palabra «Fe» sería inmediatamente encarcelado y torturado en caso de reincidencia, porque la pena de muerte acababa de ser abolida. ¡Durante décadas, la palabra “Fe” fue olvidada! Lo que el rey y sus ministros no previeron es que la espiritualidad se deterioraría progresivamente, porque aunque todavía era posible compartir algunas creencias y devociones obsoletas, la Fe sin nombre no podía existir con normalidad en el corazón de todos. Siempre se necesita una palabra para comprender un hecho o transmitir un significado. El Dios de este país se sintió aislado porque ya nadie conversaba con él. Tenía la sensación de ser un inútil, ya no le pedían que hiciera llover cuando la hierba tenía sed, ni que enviara el sol para que maduraran las frutas o verduras. Privada de espiritualidad, la gente comenzó a volverse malvada, confiando sólo en el azar o la malevolencia de los demás. Otros eran los únicos responsables de su mala suerte, ¡la venganza y el resentimiento abundaban!
@@ -31,3 +55,28 @@ Su reemplazo levantó el tabú. Parece que en este planeta, el Trigo es ahora si
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">Muchas gracias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

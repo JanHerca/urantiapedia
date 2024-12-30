@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Ivan Stol<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de Urantia en Uganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 29-10-2022
@@ -130,3 +151,25 @@ Total: 2770,00 euros A donar a la Fundación
 - Para ser donado a la AUI: Donaciones 2021: 40,00 + 124,00 (10 \% contribución AFLLU) = + 164,00
 Total: 1921,00 euros A donar a la AUI (el 23/05/2022 se donaron 1926,69 euros incluyendo gastos bancarios)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Khatukhira_Bernard/Conference_Urantia_En_Ouganda_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de Urantia en Uganda 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-100-dieciembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 100 — Dieciembre 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

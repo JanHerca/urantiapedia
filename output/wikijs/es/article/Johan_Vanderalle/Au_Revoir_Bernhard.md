@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Johan Vanderalle<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Anet/L_amour_Spirituel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="pr-2">Encuentro Nacional de Chalès</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Testimonio de Johan Vanderalle (Bélgica)_
@@ -51,3 +75,28 @@ El Libro de Urantia siempre nos ha inspirado, termino con un texto del Libro LU 
 
 > «El hombre está habitado espiritualmente por un Ajustador del Pensamiento que sobrevive. Si esa mente humana está sincera y espiritualmente motivada, si ese alma humana desea conocer a Dios y volverse semejante a él, si quiere hacer honradamente la voluntad del Padre, no existe ninguna influencia negativa de privaciones mortales ni ningún auténtico poder de interferencia posible que pueda impedir a ese alma divinamente motivada ascender con toda seguridad hasta las puertas del Paraíso.» ([LU 5:1.7](/es/The_Urantia_Book/5#p1_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Anet/L_amour_Spirituel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amor espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="pr-2">Encuentro Nacional de Chalès</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

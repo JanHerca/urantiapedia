@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Jean-Marie Chaise<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="pr-2">Energía y Alimentos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > **Advertencia**: Este trabajo está dirigido principalmente a personas que ya tienen un conocimiento confirmado del contenido del _Libro de Urantia_, conocimiento sin el cual numerosas acusaciones presentadas aquí correrían el riesgo de quedarse en letra muerta para ellos.
@@ -117,3 +141,28 @@ Hago la pregunta: ¿Se contentaron los reveladores con comunicarnos únicamente 
 **Silla Jean-Marie** Francia
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="pr-2">Energía y Alimentos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

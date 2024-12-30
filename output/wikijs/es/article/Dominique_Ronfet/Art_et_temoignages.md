@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Dominique Ronfet<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Dugas/Coin_detente_Poeme">
+          <span class="pr-2">Poema rincón de relajación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una nueva sección para invitarte a compartir música, un libro, un cuadro, etc. con todo el mundo. en fin, cualquier experiencia de tipo “artístico” que ilumine de manera no intelectual un aspecto del ideal de cada persona, un momento de su camino, de su búsqueda de Dios, de sí mismo.
@@ -55,3 +79,28 @@ Pero ahora es tu turno.
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Supremo, Dios Séptuplo, Fuerzas, Energías y Control Universal del Poder: 100 Preguntas y Respuestas (1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-19-otoño-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 19 — Otoño 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bernard_Dugas/Coin_detente_Poeme">
+          <span class="pr-2">Poema rincón de relajación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

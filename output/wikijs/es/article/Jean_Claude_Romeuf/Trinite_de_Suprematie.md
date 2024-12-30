@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre la infidelidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _*La capacidad de comprender es el pasaporte de los mortales para el Paraíso.* La buena voluntad para creer es la clave para Havona. La aceptación de la filiación, la cooperación con el Ajustador interior, es el precio de la supervivencia evolutiva._ ([LU 26:4.15](/es/The_Urantia_Book/26#p4_15))
@@ -62,3 +86,28 @@ Amar a Dios no significa necesariamente decir “te amo” sin más. Como todo s
 Jean-Claude Romeuf
 1 de enero de 2008
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre la infidelidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

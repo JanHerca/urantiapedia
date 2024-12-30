@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Jeanmarie Chaise<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/027">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="pr-2">La versión oculta de la cuarta parte del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## TIEMPO ESPIRITUAL
@@ -41,3 +65,28 @@ Desde tal enfoque intelectual, es posible describir la manifestación experienci
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/027">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño de 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-27-otoño-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 27 — Otoño 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_version_cachee_de_la_quatrieme_partie_du_Livre_dUrantia">
+          <span class="pr-2">La versión oculta de la cuarta parte del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

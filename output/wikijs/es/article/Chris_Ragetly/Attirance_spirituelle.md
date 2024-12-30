@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Chris Ragetly<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/036">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Trinite">
+          <span class="pr-2">La Santísima Trinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La atracción de la gravedad espiritual, y la respuesta a la misma, funcionan como un todo no solamente en el universo, sino también entre los individuos y los grupos de individuos. Existe una cohesión espiritual entre las personalidades espirituales y espiritualizadas de cualquier mundo, raza, nación o grupo de creyentes. Existe una atracción directa de naturaleza espiritual entre las personas con mentalidad espiritual que tienen gustos y anhelos semejantes. El término *almas gemelas* no es enteramente una figura retórica._ ([LU 7:1.6](/es/The_Urantia_Book/7#p1_6))
@@ -23,3 +47,28 @@ Así, al describir nuestras experiencias espirituales a personas con los mismos 
 
 CM Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/036">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera de 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/La_Trinite">
+          <span class="pr-2">La Santísima Trinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

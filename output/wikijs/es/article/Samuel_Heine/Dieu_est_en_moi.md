@@ -1,5 +1,5 @@
 ---
-title: "dios esta en mi"
+title: "Dios esta en mi"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z

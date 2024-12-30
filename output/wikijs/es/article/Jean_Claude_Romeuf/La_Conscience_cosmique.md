@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/031">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 31 - Otoño de 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="pr-2">Discernimiento y libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde el punto de vista mental, el desarrollo de la conciencia cósmica no consiste tanto en descubrir y comprender las leyes de rotación de los planetas, soles y galaxias, como en sentir e intelectualizar la benevolencia del universo.
@@ -31,3 +55,28 @@ Su nombre, como el nuestro, está eternamente inscrito en el estandarte simbóli
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/031">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 31 - Otoño de 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-31-otoño-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 31 — Otoño 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="pr-2">Discernimiento y libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

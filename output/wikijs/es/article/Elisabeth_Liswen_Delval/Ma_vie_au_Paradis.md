@@ -1,5 +1,5 @@
 ---
-title: "mi vida en el paraiso"
+title: "Mi vida en el paraiso"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Elisabeth Liswen Delval<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerrado nuevamente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">CV de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos urantianos, después de nuestro encuentro en Chalès, quería llamar vuestra atención sobre un bonito libro “Mi vida en el paraíso” que relata los testimonios de Mons. Robert Hugh Benson, arzobispo de Canterbury, fallecido en 1914, que dictó en espíritu a Antonio Borgia. , medio, los primeros días y las primeras impresiones de su llegada a la otra vida.
@@ -75,3 +99,28 @@ Antonio Borgia: MI VIDA EN EL PARAÍSO publicado por Editions de Roseau/o Editio
 
 Elisabeth Liswen Delval
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerrado nuevamente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">CV de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

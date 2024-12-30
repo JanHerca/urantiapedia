@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia de la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_Et_L_univers">
+          <span class="pr-2">Dios, el tiempo y el universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_8" class="image urantiapedia">
@@ -96,3 +120,28 @@ En cuanto a los hombres de ciencia, mientras no quieran considerar nada más que
 
 Claude Flibotte
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia de la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-94-junio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 94 — Junio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_Et_L_univers">
+          <span class="pr-2">Dios, el tiempo y el universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

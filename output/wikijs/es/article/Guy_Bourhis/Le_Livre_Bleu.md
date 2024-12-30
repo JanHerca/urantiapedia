@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Guy Bourhis<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/L_immanence_de_Dieu_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La inmanencia de Dios en mí.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Jung/La_FEMME">
+          <span class="pr-2">La MUJER</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En un período donde el lado espiritual de nuestra personalidad tiende a tomar el control, podemos sentirnos tentados a hacer una búsqueda interior fuera de todo dogmatismo para ver hacia qué lado nos inclinamos.
@@ -38,3 +62,28 @@ No revelaré aquí el nombre real de este libro porque una búsqueda sigue siend
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/L_immanence_de_Dieu_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La inmanencia de Dios en mí.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Octavie_Jung/La_FEMME">
+          <span class="pr-2">La MUJER</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

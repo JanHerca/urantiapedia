@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Jean Duvau<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Survivrons_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Sobreviviremos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="pr-2">Descubriendo el paraíso y el espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tiempo adicional o Ampliación del período de prueba.
@@ -97,3 +121,28 @@ Vista desde ([LU 47:3.1](/es/The_Urantia_Book/47#p3_1)) a ([LU 47:3.9](/es/The_U
 
 Fraternalmente suyo
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Survivrons_nous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Sobreviviremos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-106-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 106 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="pr-2">Descubriendo el paraíso y el espacio-tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

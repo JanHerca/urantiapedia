@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Jean Duvau<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Informe de la reunión en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Debido a los días festivos de julio y agosto, no pudimos presentar a tiempo la cuenta operativa de la asociación para el año 2015.
@@ -47,3 +71,28 @@ CUENTA DE RESULTADOS — Año 2015 (En euros)
 <img src="/image/article/Le_Lien/images_02/067.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la Conferencia de Budapest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Informe de la reunión en Italia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

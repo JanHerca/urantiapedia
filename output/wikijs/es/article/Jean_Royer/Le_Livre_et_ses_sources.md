@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 Jean Royer<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los 7 jubileos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="pr-2">El viento de invierno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Aquí hay un extracto de texto sobre las fuentes del LU compilado y analizado por Matthew Block. El texto está originalmente en dos columnas, aquí en cuatro para tener el original y la traducción al mismo tiempo. La traducción del texto de Bundy es mía. Intenté respetar las negritas y el subrayado sin conseguirlo del todo._
@@ -35,3 +59,28 @@ A pesar de que la traducción dificulta el paralelo, parece indudable que Matthe
 <img src="/image/article/Le_Lien/images_01/039.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Les_7_jubiles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los 7 jubileos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-42-primavera-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 42 — Primavera 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Le_vent_dhiver">
+          <span class="pr-2">El viento de invierno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Simon Orsini<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">La experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Creer es el primer paso de la fe. Este análisis depende enteramente de las revelaciones y no deja lugar a la improvisación.
@@ -51,3 +75,28 @@ Cada vez que construyo un texto, lo considero una tarea. (Para tomar en ambos se
 
 _Simón Orsini_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">La experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

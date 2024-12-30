@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 François Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepción artística del Universo Maestro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Reunión de traductores del Libro de URANTIA organizada por la Fundación UrANTIA en PARÍS en abril de 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -56,3 +80,28 @@ Francois Dupont
 1 de septiembre de 1996 — BRUSELAS
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepción artística del Universo Maestro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Reunión de traductores del Libro de URANTIA organizada por la Fundación UrANTIA en PARÍS en abril de 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de la AFLLU — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **LA JUNTA GENERAL** tuvo lugar en Neylières el 28/06/2024.
@@ -130,3 +151,25 @@ Gasto: - 14371,27
 - Para donar a la AUI: Donaciones para la AUI 2023: 30,00 + 154,00 € (10% contribución AFLLU)
 - Total para AUI: 352,00 €
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión de la AFLLU — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Claude Flibotte<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuál es el tamaño del paraíso?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="pr-2">El alma dentro de sí misma.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Claude Flibotte (Sainte-Julie (Québec))
@@ -63,3 +87,28 @@ Recuerdo que cuando era un niño criado como católico, mis maestros me enseñar
 
 ¡Entonces! Espero que este texto te haya sido útil para comprender lo que nos enseñan los reveladores sobre lo que nos espera para el resto de las cosas después de nuestra muerte. A todos nos gustaría ser parte del orden de ascensión primario modificado, es decir, aquellos que se fusionan con su Ajustador durante Esta vida de humo. Esto está totalmente bajo nuestro control ya que depende de nuestros propios esfuerzos para cruzar los círculos psíquicos. Recuerda, no estamos solos, multitud de ayuda celestial nos trae Su ministerio para hacer realidad este deseo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuál es el tamaño del paraíso?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-91-septiembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 91 — Septiembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/L_ame_En_Soi">
+          <span class="pr-2">El alma dentro de sí misma.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

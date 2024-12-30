@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña reflexión sobre el poder de amar (parte 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">Reunión de otoño de la AFLLU en AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Los hechos_. Debajo corría un río. Él, que se había bañado muchas veces bajo las cascadas, lo sabía bien. Sus gours estaban llenos de peces exóticos, los mismos peces multicolores que pueblan los atolones de las islas tropicales. Muchas veces se había sorprendido al poder respirar bajo el agua.
@@ -60,3 +84,28 @@ Si el Paraíso no tuviera el poder de encontrar el espacio, si estuviera tan dis
 Jean-Claude Romeuf
 2 de diciembre de 2007
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una pequeña reflexión sobre el poder de amar (parte 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">Reunión de otoño de la AFLLU en AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

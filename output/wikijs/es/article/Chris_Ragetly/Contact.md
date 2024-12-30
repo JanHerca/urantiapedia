@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Chris Ragetly<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/034">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="pr-2">Explicación teórica de la creación.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Dios es eterna e infinitamente perfecto, no puede conocer personalmente la imperfección como experiencia propia, pero sí comparte la conciencia de toda la experiencia con la imperfección que tienen todas las criaturas que luchan en los universos evolutivos de todos los Hijos Creadores Paradisiacos. El toque personal y liberador del Dios de la perfección cubre con su sombra el corazón, y pone en su circuito la naturaleza, de todas aquellas criaturas mortales que se han elevado hasta el nivel universal del discernimiento moral. De esta manera, así como a través de los contactos de la presencia divina, el Padre Universal participa realmente en la experiencia *con* la inmadurez y la imperfección en la carrera evolutiva de todos los seres morales del universo entero._ ([LU 2:2.6](/es/The_Urantia_Book/2#p2_6))
@@ -23,3 +47,28 @@ Debemos discernir lo que significa: “_...y pone en circuito su naturaleza..._�
 
 CM Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/034">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano de 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-34-verano-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 34 — Verano 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Explication_theorique_de_la_creation">
+          <span class="pr-2">Explicación teórica de la creación.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

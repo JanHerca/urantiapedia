@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Jean Royer<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Necesita el hombre a Dios para vivir? ¿Es debilidad creer en Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="pr-2">Dalamatia, la ciudad de los cientos de Caligastia, Dilmun, la ciudad de los noditas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos hemos leído el capítulo 2 de las páginas 266 y 267, pero ¿qué aprendimos de él? En general, en primera lectura, no mucho. Sin embargo, este capítulo está lleno de indicaciones interesantes siempre que puedan correlacionarse. Veámoslo un poco más de cerca.
@@ -31,3 +55,28 @@ Terminemos esta breve reseña de este capítulo con una pregunta: ¿Por qué ent
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Myriam_Delcroix/Lhomme_a_t_il_besoin_de_Dieu_pour_Vivre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Necesita el hombre a Dios para vivir? ¿Es debilidad creer en Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-23-otoño-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 23 — Otoño 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="pr-2">Dalamatia, la ciudad de los cientos de Caligastia, Dilmun, la ciudad de los noditas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

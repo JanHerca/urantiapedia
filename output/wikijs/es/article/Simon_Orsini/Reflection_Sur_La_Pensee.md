@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Simon Orsini<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ensayos de definición de espacio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Qui_Suis_Je">
+          <span class="pr-2">¿Quién soy yo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El cerebro físico y el sistema nervioso, combinados, tienen una sensibilidad innata al ministerio del pensamiento, así como el pensamiento en evolución tiene capacidad de receptividad espiritual.
@@ -38,3 +62,28 @@ Cuando escribo estas pocas líneas, me imagino en una escuela donde me piden que
 
 Simón Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Essais_De_Definition_De_L_espace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ensayos de definición de espacio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Moustapha_NDiaye/Qui_Suis_Je">
+          <span class="pr-2">¿Quién soy yo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

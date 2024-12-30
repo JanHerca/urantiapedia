@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Patrick Morelli<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Dans_Cette_Affaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En este asunto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="pr-2">Reflexión sobre el pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En este intento de definir el espacio, se excluye la Isla Central del Paraíso, porque no tiene ubicación en este espacio, y además es totalmente atemporal, aunque:
@@ -205,3 +229,28 @@ Para concluir, se desprende del cuadernillo 118 que el espacio es de todas las c
 
 Patricio Morelli.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sophie_Malicot/Dans_Cette_Affaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En este asunto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-90-junio-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 90 — Junio 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Reflection_Sur_La_Pensee">
+          <span class="pr-2">Reflexión sobre el pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

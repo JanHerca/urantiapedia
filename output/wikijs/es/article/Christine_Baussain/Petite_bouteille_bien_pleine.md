@@ -1,5 +1,5 @@
 ---
-title: "botella pequeña llena"
+title: "Botella pequeña llena"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Christine Baussain<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Desvaríos supremos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Gracias a todos por sus respuestas sobre una práctica común basada en el _Libro de Urantia_. La reflexión se estaba gestando visiblemente, por lo que se abrió, aunque un poco retrasada, un poco “apagada”, ya que todo, por así decirlo, sucedió por teléfono.
@@ -43,3 +67,28 @@ Buen tema para reflexionar, ¿no? Mientras tanto, si lo deseas, este debate apen
 
 Cristina Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Desvaríos supremos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
