@@ -1177,10 +1177,13 @@ class TopicIndex {
 							html += (marks[marks.length - 1] === '#' ? '<ol>': 
 								'<ul>') + '\r\n';
 						}
-					} else if (i === 0 || 
+					} else if (
+						i === 0 || 
 						(prevline && level != prevlevel) ||
-						(prevline && level === prevlevel /*&& marks.length === 0*/ && prevMarks.length > 0) ||
-						large) {
+						(prevline && level === prevlevel 
+							&& prevMarks.length > 0) ||
+						large
+					) {
 						//Add start of paragraph
 						html += '<p>';
 					}
@@ -1192,15 +1195,28 @@ class TopicIndex {
 						.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
 					tiNames.forEach(nn => {
 						if (nn.name === topic.name) return;
+						const ln = nn.nameEN.replace(/\s/g, '_');
+						const path = `${tpath}/${ln}`;
+						const ipath = html.indexOf(path);
+						//If topic used very close skip
+						if (
+							ipath != -1 && 
+							html.length - ipath - path.length < 1000
+						) {
+							return;
+						}
 						nn.names.forEach(n => {
 							if (!(this.isLinkableName(n, subcontent))) return;
-							if (subcontent.indexOf(n) != -1 && nn.nameEN &&
-								words.find(w => n.startsWith(w))) {
-								const ln = nn.nameEN.replace(/\s/g, '_');
-								if (nameslinks.find(i=>i.name === n) == undefined)  {
+							if (
+								subcontent.indexOf(n) != -1 && 
+								nn.nameEN &&
+								words.find(w => n.startsWith(w))
+							) {
+								const link = `<a href="${path}">${n}</a>`;
+								if (!nameslinks.find(i=>i.name === n)) {
 									nameslinks.push({
 										name: n,
-										link: `<a href="${tpath}/${ln}">${n}</a>`
+										link
 									});
 								}
 							}
