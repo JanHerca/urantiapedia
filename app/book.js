@@ -1775,9 +1775,14 @@ class Book {
 						parHtml += (multi 
 							? `<p${center}>`
 							: `<p${center} id="p${si}_${pi}">`);
-						parHtml += getWikijsBookParRef(multi, p.par_ref, 
-							this.language, colors[ppi], 
-							(multi ? papers[ppi].year : null));
+						parHtml += getWikijsBookParRef(
+							multi, 
+							p.par_ref, 
+							this.language, 
+							colors[ppi], 
+							(multi ? papers[ppi].year : null),
+							p.hide_ref
+						);
 						// Urantia Book has pars with `*  *  *` so check here
 						pcontent = (pcontent === '*  *  *' ? pcontent :
 							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
@@ -1803,8 +1808,11 @@ class Book {
 									}
 									return (b.name.length - a.name.length);
 								});
-								pcontent = replaceWords(topicNames.map(i=>i.name),
-									topicNames.map(i=>i.link), pcontent);
+								pcontent = replaceWords(
+									topicNames.map(i=>i.name),
+									topicNames.map(i=>i.link), 
+									pcontent
+								);
 							}
 						}
 
@@ -1820,7 +1828,7 @@ class Book {
 							//Remove footnote marks (they are in master)
 							pcontent = pcontent.replace(/\{(\d+)\}/g, '');
 						}
-						parHtml += `${pcontent}</p$>\r\n`;
+						parHtml += `${pcontent}</p>\r\n`;
 						return parHtml;
 					});
 

@@ -1209,8 +1209,11 @@ class TopicIndex {
 					if (nameslinks.length > 0) {
 						//Order using longest topic names before
 						nameslinks.sort((a,b) => b.name.length - a.name.length);
-						subcontent = replaceWords(nameslinks.map(i=>i.name),
-						nameslinks.map(i=>i.link), subcontent);
+						subcontent = replaceWords(
+							nameslinks.map(i=>i.name),
+							nameslinks.map(i=>i.link), 
+							subcontent
+						);
 					}
 
 					//Add start list item

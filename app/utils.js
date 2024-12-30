@@ -566,14 +566,16 @@ exports.testWords = function(arItems, text) {
  * @param {Array.<string>} arReplaces Array of components to replace.
  * @param {string} text Text to modify.
  * @param {?boolean} ignoreCase Optional ignore case. By default is false.
- * @param {?boolean} replaceAll Optional replace all occurrences. By default is
- * false, replacing only the first occurrence.
+ * @param {?boolean} replaceAll Optional replace all occurrences of each item.
+ *  By default is false, only first occurence of each item is replaced.
  * @param {?boolean} useExisting Optional replace with existing case. If case
  * existing is different with what is sent, use existing. By default is false.
+ * @param {?boolean} useFirst Optional use first of items passed. By default
+ * is false and all items are used.
  * @return {string} Modified text.
  */
 exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, 
-	replaceAll,	useExisting) {
+	replaceAll,	useExisting, useFirst) {
 	let result = text, ini = 0, fin = 0, j, item, testIni, testFin, p1, p2,
 		ip1, ip2, existing, ireplace, index;
 	const regex = /[a-z0-9áéíóúäëïöüàèìòùâêîôûñ'-]/i;
@@ -582,11 +584,12 @@ exports.replaceWords = function(arItems, arReplaces, text, ignoreCase,
 	ignoreCase = ignoreCase || false;
 	replaceAll = replaceAll || false;
 	useExisting = useExisting || false;
+	useFirst = useFirst || false;
 	let iresult = (ignoreCase ? result.toLowerCase() : result);
 	for (j = 0; j < arItems.length; j++) {
 		item = (ignoreCase ? arItems[j].toLowerCase() : arItems[j]);
 		ini = 0;
-		if (replaces.length > 0 && !replaceAll) {
+		if (replaces.length > 0 && useFirst) {
 			break;
 		}
 		while (ini != -1) {
@@ -595,8 +598,10 @@ exports.replaceWords = function(arItems, arReplaces, text, ignoreCase,
 			testIni = !regex.test(iresult.substring(ini - 1, ini));
 			testFin = !regex.test(iresult.substring(fin + 1, fin + 2));
 			if (ini != -1) {
-				if ((ini === 0 || (ini > 0 && testIni)) && 
-					(fin === len - 1 || (fin < len - 1 && testFin))) {
+				if (
+					(ini === 0 || (ini > 0 && testIni)) && 
+					(fin === len - 1 || (fin < len - 1 && testFin))
+				) {
 					p1 = result.substring(0, ini);
 					p2 = result.substring(ini);
 					existing = p2.substring(0, item.length);
@@ -872,7 +877,7 @@ exports.getWikijsBookSectionTitles = (papers, section_index) => {
  * @param {?boolean} hide_ref Optional, if hide reference.
  * @returns {string}
  */
-exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
+exports.getWikijsBookParRef = (multi, ref, language, color, year, hide_ref) => {
 	color = color || 'blue';
 	year = (year != null ? year : 1955);
 	hide_ref = hide_ref || false;
@@ -887,7 +892,7 @@ exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
 		`${vals[0]}#p${vals[1]}_${vals[2]}`;
 	const link = `<a href="${path}">${ref}</a>`;
 	const hidden = (hide_ref ? ' class="d-none' : '');
-	html += `<sup${hidden}><small>${link}</small></sup$>  `;
+	html += `<sup${hidden}><small>${link}</small></sup>  `;
 	return html;
 };
 

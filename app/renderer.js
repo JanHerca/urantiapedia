@@ -2721,8 +2721,8 @@ const showBookPaperForAirTable = () => {
 			const link = `<a href="${href}" target="_blank">${par.par_ref}</a>`;
 			const refHtml = `<sup><small>${link}</small></sup>`;
 			const parHtml = bookAirTable.toParInHTML(ref, errs);
-			const parHtml2 = replaceWords(searches, replaces, parHtml, true, true, 
-				true);
+			const parHtml2 = replaceWords(searches, replaces, parHtml, true, 
+				true, true, true);
 
 			html.push(`${refHtml}   ${parHtml2}`);
 		});
