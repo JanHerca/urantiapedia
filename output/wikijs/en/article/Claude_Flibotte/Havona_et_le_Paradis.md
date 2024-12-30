@@ -20,7 +20,7 @@ dateCreated: 2024-11-1T18:24:19Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-87-septembre-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — Septembre 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — September 2019</span>
         </a>
         </td>
         <td>
@@ -102,7 +102,7 @@ Sainte-Julie; Quebec
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-87-septembre-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — Septembre 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — September 2019</span>
         </a>
         </td>
         <td>

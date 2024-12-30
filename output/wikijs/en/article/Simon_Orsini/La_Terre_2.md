@@ -20,7 +20,7 @@ dateCreated: 2024-11-4T22:59:3Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — June 2022</span>
         </a>
         </td>
         <td>
@@ -96,7 +96,7 @@ Any religion that thinks it is supreme should take as its example the life of Je
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — June 2022</span>
         </a>
         </td>
         <td>

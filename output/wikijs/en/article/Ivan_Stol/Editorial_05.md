@@ -15,12 +15,12 @@ dateCreated: 2024-10-27T10:7:29Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/076">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 76 — December 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — December 2016</span>
         </a>
         </td>
         <td>
@@ -58,12 +58,12 @@ My regards, Ivan
       <tr>
         <td>
         <a href="/en/article/Le_Lien/076">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 76 — December 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — December 2016</span>
         </a>
         </td>
         <td>

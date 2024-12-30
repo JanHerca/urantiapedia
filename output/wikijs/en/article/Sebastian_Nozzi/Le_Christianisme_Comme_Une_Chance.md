@@ -20,7 +20,7 @@ dateCreated: 2024-11-2T13:5:38Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — March 2020</span>
         </a>
         </td>
         <td>
@@ -293,7 +293,7 @@ THANKS.
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — March 2020</span>
         </a>
         </td>
         <td>

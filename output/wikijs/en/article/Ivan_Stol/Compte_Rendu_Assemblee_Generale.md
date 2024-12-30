@@ -20,7 +20,7 @@ dateCreated: 2024-11-4T22:59:3Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — December 2022</span>
         </a>
         </td>
         <td>
@@ -164,7 +164,7 @@ Total: 1921.00 euros To be paid to the AUI (on 05/23/2022 1926.69 euros were pai
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — December 2022</span>
         </a>
         </td>
         <td>

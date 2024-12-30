@@ -20,7 +20,7 @@ dateCreated: 2024-11-4T22:59:3Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-97-mars-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — Mars 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — March 2022</span>
         </a>
         </td>
         <td>
@@ -61,7 +61,7 @@ https://fr.wikipedia.org/wiki/Geological_time_scale\#Aeons
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-97-mars-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — Mars 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — March 2022</span>
         </a>
         </td>
         <td>

@@ -20,7 +20,7 @@ dateCreated: 2024-11-4T22:59:3Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022</span>
         </a>
         </td>
         <td>
@@ -153,7 +153,7 @@ While this explanation may not satisfy the desire for a more factual answer to t
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022</span>
         </a>
         </td>
         <td>

@@ -15,12 +15,12 @@ dateCreated: 2024-10-30T16:26:51Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/078">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — June 2017 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — June 2017</span>
         </a>
         </td>
         <td>
@@ -54,12 +54,12 @@ Ivan
       <tr>
         <td>
         <a href="/en/article/Le_Lien/078">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — June 2017 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — June 2017</span>
         </a>
         </td>
         <td>

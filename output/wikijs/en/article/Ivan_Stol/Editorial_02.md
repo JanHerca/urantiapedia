@@ -15,12 +15,12 @@ dateCreated: 2024-10-27T10:7:29Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/073">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 73 — March 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — March 2016</span>
         </a>
         </td>
         <td>
@@ -59,12 +59,12 @@ Don't forget to send us your articles and essays to the following address: georg
       <tr>
         <td>
         <a href="/en/article/Le_Lien/073">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 73 — March 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — March 2016</span>
         </a>
         </td>
         <td>

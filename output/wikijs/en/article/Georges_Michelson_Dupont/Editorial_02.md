@@ -15,12 +15,12 @@ dateCreated: 2024-11-7T14:46:54Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/106">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — June 2024 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — June 2024</span>
         </a>
         </td>
         <td>
@@ -57,12 +57,12 @@ The LIEN team wishes you a good read of this issue and a good holiday.
       <tr>
         <td>
         <a href="/en/article/Le_Lien/106">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — June 2024 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — June 2024</span>
         </a>
         </td>
         <td>

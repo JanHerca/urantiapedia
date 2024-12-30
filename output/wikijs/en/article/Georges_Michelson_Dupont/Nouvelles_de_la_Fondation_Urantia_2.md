@@ -20,7 +20,7 @@ dateCreated: 2024-11-7T14:46:54Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — March 2024</span>
         </a>
         </td>
         <td>
@@ -62,7 +62,7 @@ We have recently been contacted by readers from Kenya, Uganda and Tanzania. In p
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — March 2024</span>
         </a>
         </td>
         <td>

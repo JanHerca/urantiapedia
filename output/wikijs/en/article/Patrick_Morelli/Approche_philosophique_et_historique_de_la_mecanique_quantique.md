@@ -20,7 +20,7 @@ dateCreated: 2024-11-7T14:46:54Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — March 2024</span>
         </a>
         </td>
         <td>
@@ -221,7 +221,7 @@ All information concerning quantum mechanics has been collected in the following
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — March 2024</span>
         </a>
         </td>
         <td>

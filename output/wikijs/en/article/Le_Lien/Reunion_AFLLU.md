@@ -20,7 +20,7 @@ dateCreated: 2024-11-6T12:40:15Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — June 2023</span>
         </a>
         </td>
         <td>
@@ -107,7 +107,7 @@ There were 15 of us at this meeting which took place over 3 and a half days, inc
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — June 2023</span>
         </a>
         </td>
         <td>

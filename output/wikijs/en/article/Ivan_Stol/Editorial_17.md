@@ -15,12 +15,12 @@ dateCreated: 2024-11-1T18:24:19Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/088">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 88 — December 2019 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — December 2019</span>
         </a>
         </td>
         <td>
@@ -51,12 +51,12 @@ We will still have time to talk about it. In the meantime, there are still reade
       <tr>
         <td>
         <a href="/en/article/Le_Lien/088">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 88 — December 2019 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — December 2019</span>
         </a>
         </td>
         <td>

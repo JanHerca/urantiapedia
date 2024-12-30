@@ -15,12 +15,12 @@ dateCreated: 2024-11-2T13:5:38Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/090">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — June 2020 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — June 2020</span>
         </a>
         </td>
         <td>
@@ -51,12 +51,12 @@ Friendships — Ivan.
       <tr>
         <td>
         <a href="/en/article/Le_Lien/090">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — June 2020 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — June 2020</span>
         </a>
         </td>
         <td>

@@ -20,7 +20,7 @@ dateCreated: 2024-10-31T13:15:44Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — June 2018</span>
         </a>
         </td>
         <td>
@@ -156,7 +156,7 @@ During its 20 years of existence, more than 30 trained UBIS TFs have presented m
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — June 2018</span>
         </a>
         </td>
         <td>

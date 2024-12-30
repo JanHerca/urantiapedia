@@ -20,7 +20,7 @@ dateCreated: 2024-10-30T16:26:51Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — December 2017</span>
         </a>
         </td>
         <td>
@@ -110,7 +110,7 @@ Patrick Morelli
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — December 2017</span>
         </a>
         </td>
         <td>

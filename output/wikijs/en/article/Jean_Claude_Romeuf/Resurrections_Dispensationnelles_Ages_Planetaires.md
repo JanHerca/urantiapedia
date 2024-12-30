@@ -20,7 +20,7 @@ dateCreated: 2024-11-6T12:40:15Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — September 2023</span>
         </a>
         </td>
         <td>
@@ -153,7 +153,7 @@ Today, the struggles are between nations and groups of nations. The wars can onl
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — September 2023</span>
         </a>
         </td>
         <td>

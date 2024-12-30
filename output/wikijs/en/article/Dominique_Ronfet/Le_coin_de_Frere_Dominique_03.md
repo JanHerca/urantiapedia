@@ -20,7 +20,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007</span>
         </a>
         </td>
         <td>
@@ -86,7 +86,7 @@ Dominique Ronfet
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007</span>
         </a>
         </td>
         <td>

@@ -15,12 +15,12 @@ dateCreated: 2024-09-29T14:02:03.086Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/041">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007</span>
         </a>
         </td>
         <td>
@@ -100,12 +100,12 @@ Michael R.
       <tr>
         <td>
         <a href="/en/article/Le_Lien/041">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Winter 2007</span>
         </a>
         </td>
         <td>

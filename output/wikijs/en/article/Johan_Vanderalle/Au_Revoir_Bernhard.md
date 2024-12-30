@@ -20,7 +20,7 @@ dateCreated: 2024-10-27T10:7:29Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — September 2016</span>
         </a>
         </td>
         <td>
@@ -88,7 +88,7 @@ The Urantia Book has always inspired us, I end with a text from the Book UB 5:1.
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — September 2016</span>
         </a>
         </td>
         <td>

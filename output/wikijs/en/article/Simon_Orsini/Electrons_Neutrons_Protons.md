@@ -20,7 +20,7 @@ dateCreated: 2024-10-31T13:15:44Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — September 2018</span>
         </a>
         </td>
         <td>
@@ -196,7 +196,7 @@ Carticasi, Corsica
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — September 2018</span>
         </a>
         </td>
         <td>

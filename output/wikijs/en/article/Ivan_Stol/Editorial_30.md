@@ -15,12 +15,12 @@ dateCreated: 2024-11-6T12:40:15Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/101">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023</span>
         </a>
         </td>
         <td>
@@ -53,12 +53,12 @@ Happy reading. Brotherly friendships Ivan
       <tr>
         <td>
         <a href="/en/article/Le_Lien/101">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023</span>
         </a>
         </td>
         <td>

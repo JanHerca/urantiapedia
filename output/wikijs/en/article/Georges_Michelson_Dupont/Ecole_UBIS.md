@@ -20,7 +20,7 @@ dateCreated: 2024-11-6T12:40:15Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023</span>
         </a>
         </td>
         <td>
@@ -84,7 +84,7 @@ This is possibly the question most asked by students of the 5th revelation.
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — March 2023</span>
         </a>
         </td>
         <td>

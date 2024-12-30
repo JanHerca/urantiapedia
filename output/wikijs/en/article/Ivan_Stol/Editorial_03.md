@@ -15,12 +15,12 @@ dateCreated: 2024-10-27T10:7:29Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/074">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016</span>
         </a>
         </td>
         <td>
@@ -53,12 +53,12 @@ Brotherly friendships Ivan Stol
       <tr>
         <td>
         <a href="/en/article/Le_Lien/074">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016</span>
         </a>
         </td>
         <td>

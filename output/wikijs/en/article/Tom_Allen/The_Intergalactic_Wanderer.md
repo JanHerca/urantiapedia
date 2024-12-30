@@ -20,7 +20,7 @@ dateCreated: 2024-11-2T13:5:38Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — September 2020</span>
         </a>
         </td>
         <td>
@@ -229,7 +229,7 @@ Thank you, Father and Mother. And thank you to all the ministers and administrat
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — September 2020</span>
         </a>
         </td>
         <td>

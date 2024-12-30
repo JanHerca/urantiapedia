@@ -20,7 +20,7 @@ dateCreated: 2024-11-3T19:50:31Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — March 2021</span>
         </a>
         </td>
         <td>
@@ -287,7 +287,7 @@ A runner from Bethany arrives in Philadelphia bearing a message that Lazarus is 
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — March 2021</span>
         </a>
         </td>
         <td>

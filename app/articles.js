@@ -957,10 +957,12 @@ class Articles {
 						}
 					});
 					if (!title) {
-						throw new Error(`No title found in ${filePath}`);
+						// throw new Error(`No title found in ${filePath}`);
+						return `No title found in ${filePath}`;
 					}
 					return title;
-				});
+				})
+				.catch(err => `No file found in ${filePath}`);
 		});
 		return Promise.all(promises);
 	};

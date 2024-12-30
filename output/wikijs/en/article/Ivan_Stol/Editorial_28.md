@@ -15,12 +15,12 @@ dateCreated: 2024-11-4T22:59:3Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/099">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022</span>
         </a>
         </td>
         <td>
@@ -63,12 +63,12 @@ Yours faithfully, Ivan.
       <tr>
         <td>
         <a href="/en/article/Le_Lien/099">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — September 2022</span>
         </a>
         </td>
         <td>

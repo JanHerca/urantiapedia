@@ -15,12 +15,12 @@ dateCreated: 2024-10-31T13:15:44Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/084">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — December 2018 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — December 2018</span>
         </a>
         </td>
         <td>
@@ -61,12 +61,12 @@ On that note, I wish you a good read. Ivan
       <tr>
         <td>
         <a href="/en/article/Le_Lien/084">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — December 2018 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — December 2018</span>
         </a>
         </td>
         <td>

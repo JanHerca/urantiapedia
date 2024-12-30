@@ -20,7 +20,7 @@ dateCreated: 2024-11-7T14:46:54Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024</span>
         </a>
         </td>
         <td>
@@ -187,7 +187,7 @@ It was useful to review the preparation in eternity of the cosmic framework in w
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024</span>
         </a>
         </td>
         <td>

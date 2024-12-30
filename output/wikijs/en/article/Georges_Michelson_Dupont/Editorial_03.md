@@ -15,12 +15,12 @@ dateCreated: 2024-11-7T14:46:54Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/107">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024</span>
         </a>
         </td>
         <td>
@@ -59,12 +59,12 @@ dateCreated: 2024-11-7T14:46:54Z
       <tr>
         <td>
         <a href="/en/article/Le_Lien/107">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024 — Contents</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024 — Contents</span>
         </a>
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — September 2024</span>
         </a>
         </td>
         <td>

@@ -20,7 +20,7 @@ dateCreated: 2024-10-27T10:7:29Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016</span>
         </a>
         </td>
         <td>
@@ -158,7 +158,7 @@ The readers of The Urantia Book were silent for a few minutes before beginning t
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — June 2016</span>
         </a>
         </td>
         <td>

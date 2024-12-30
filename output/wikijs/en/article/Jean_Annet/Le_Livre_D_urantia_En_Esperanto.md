@@ -20,7 +20,7 @@ dateCreated: 2024-11-2T13:5:38Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — December 2020</span>
         </a>
         </td>
         <td>
@@ -126,7 +126,7 @@ The number of Esperanto speakers is difficult to estimate. Estimates vary betwee
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — December 2020</span>
         </a>
         </td>
         <td>

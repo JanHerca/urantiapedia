@@ -20,7 +20,7 @@ dateCreated: 2024-11-4T22:59:3Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — December 2022</span>
         </a>
         </td>
         <td>
@@ -112,7 +112,7 @@ Truly, Ugandans are thirsty and hungry for truth and God. This is a fertile soil
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — December 2022</span>
         </a>
         </td>
         <td>

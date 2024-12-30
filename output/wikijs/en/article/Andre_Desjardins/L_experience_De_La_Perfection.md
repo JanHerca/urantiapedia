@@ -20,7 +20,7 @@ dateCreated: 2024-11-3T19:50:31Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — June 2021</span>
         </a>
         </td>
         <td>
@@ -116,7 +116,7 @@ St-Alexis-des-Monts (Quebec-Canada)
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — June 2021</span>
         </a>
         </td>
         <td>

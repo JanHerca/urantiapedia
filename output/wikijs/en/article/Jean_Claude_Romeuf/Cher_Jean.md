@@ -20,7 +20,7 @@ dateCreated: 2024-10-31T13:15:44Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — March 2018</span>
         </a>
         </td>
         <td>
@@ -74,7 +74,7 @@ _Jean-Claude — February 6, 2018_
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — March 2018</span>
         </a>
         </td>
         <td>

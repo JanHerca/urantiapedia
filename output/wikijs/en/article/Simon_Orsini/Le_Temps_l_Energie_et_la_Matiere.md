@@ -20,7 +20,7 @@ dateCreated: 2024-11-1T18:24:19Z
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — June 2019</span>
         </a>
         </td>
         <td>
@@ -179,7 +179,7 @@ Scientists would do well to give back to God what belongs to Him, His creation.
         </td>
         <td>
         <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — June 2019</span>
         </a>
         </td>
         <td>
