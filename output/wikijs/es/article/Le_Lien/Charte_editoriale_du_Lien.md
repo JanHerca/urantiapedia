@@ -95,7 +95,7 @@ Recordemos aquí que la AFLLU es una asociación apolítica y aconfesional de le
 - Relatar un evento relacionado con el _Libro de Urantia_.
 - Ser un poema u obra artística de inspiración urantiana.
 
-Respecto a las referencias tomadas del _Libro de Urantia_ deben seguir la regla internacionalmente aceptada: Folleto: Apartado. Párrafo enmarcado por paréntesis de apertura y cierre, por ejemplo ([LU 110:3.5](/es/The_Urantia_Book/110#p3_5)) con dos puntos después del número de edición, un punto después del número de sección. No se aceptarán estudios, artículos u obras relacionadas con obras o temas ajenos al _Libro de Urantia_. Sin embargo, en el contexto de un estudio comparativo con ideas o conceptos del _Libro de Urantia_ (por ejemplo un estudio comparativo de la naturaleza de Dios descrita en la Biblia y en el _Libro de Urantia_) serán aceptados siempre que se mantengan estrictamente dentro de este marco. .
+Respecto a las referencias tomadas del _Libro de Urantia_ deben seguir la regla internacionalmente aceptada: Folleto: Apartado. Párrafo enmarcado por paréntesis de apertura y cierre, por ejemplo (<a id="a97_196"></a>[LU 110:3.5](/es/The_Urantia_Book/110#p3_5)) con dos puntos después del número de edición, un punto después del número de sección. No se aceptarán estudios, artículos u obras relacionadas con obras o temas ajenos al _Libro de Urantia_. Sin embargo, en el contexto de un estudio comparativo con ideas o conceptos del _Libro de Urantia_ (por ejemplo un estudio comparativo de la naturaleza de Dios descrita en la Biblia y en el _Libro de Urantia_) serán aceptados siempre que se mantengan estrictamente dentro de este marco. .
 
 ## El estilo:
 

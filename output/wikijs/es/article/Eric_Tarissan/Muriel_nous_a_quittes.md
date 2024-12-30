@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Éric Tarissan<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Au_sujet_du_pouvoir_de_chasser_les_demons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el poder de expulsar demonios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_origine_fonction_et_destinee">
+          <span class="pr-2">Personalidad, origen, función y destino!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -101,3 +125,28 @@ Durante los primeros días de luto, al final, recibí estas lágrimas como caric
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Au_sujet_du_pouvoir_de_chasser_les_demons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el poder de expulsar demonios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_origine_fonction_et_destinee">
+          <span class="pr-2">Personalidad, origen, función y destino!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

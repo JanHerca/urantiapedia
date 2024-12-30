@@ -51,11 +51,11 @@ Para crear un documento que refleje el enfoque de revelaciones anteriores en nue
 
 Aquí hay dos citas que nos guiaron en nuestro trabajo:
 
-> «Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. La moralidad social no está determinada por la religión, es decir, por la religión evolutiva; la moralidad racial es más bien la que dicta las formas de la religión.» ([LU 92:2.4](/es/The_Urantia_Book/92#p2_4))
+> «Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. La moralidad social no está determinada por la religión, es decir, por la religión evolutiva; la moralidad racial es más bien la que dicta las formas de la religión.» (<a id="a53_631"></a>[LU 92:2.4](/es/The_Urantia_Book/92#p2_4))
 
 Y el segundo:
 
-> «2. *La fecundación intelectual cruzada*. La fraternidad es imposible en un mundo cuyos habitantes son tan primitivos que no logran reconocer la locura del egoísmo sin freno. Debe producirse un intercambio de literatura nacional y racial. Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. La ignorancia engendra la desconfianza, y la desconfianza es incompatible con la actitud esencial de simpatía y de amor.» ([LU 52:6.4](/es/The_Urantia_Book/52#p6_4))
+> «2. *La fecundación intelectual cruzada*. La fraternidad es imposible en un mundo cuyos habitantes son tan primitivos que no logran reconocer la locura del egoísmo sin freno. Debe producirse un intercambio de literatura nacional y racial. Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. La ignorancia engendra la desconfianza, y la desconfianza es incompatible con la actitud esencial de simpatía y de amor.» (<a id="a57_498"></a>[LU 52:6.4](/es/The_Urantia_Book/52#p6_4))
 
 Para crear nuestro documento, recopilamos citas sobre:
 

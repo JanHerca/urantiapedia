@@ -41,12 +41,12 @@ Sin embargo, demasiada modestia a veces nos impide alcanzar nuestros objetivos. 
 
 Por supuesto, el objetivo es entusiasmarse con el juego para que la gente quiera estudiar dentro de los grupos. Así que sólo daré ideas y enlaces y tendré en cuenta que lo que diga puede estar mal.
 
-En primer lugar, el Ajustador es DIOS en su sentido más primordial, precedente de todo y fuente de todo, parece que su estado de existencia es similar al Centro Fuente, lo que lo hace muy difícil de abordar para nuestra pequeña consciencia.([LU fasc :107 ch 1 entier page:1178](/es/The_Urantia_Book/107#p1_7))
+En primer lugar, el Ajustador es DIOS en su sentido más primordial, precedente de todo y fuente de todo, parece que su estado de existencia es similar al Centro Fuente, lo que lo hace muy difícil de abordar para nuestra pequeña consciencia.(<a id="a43_241"></a>[LU fasc :107 ch 1 entier page:1178](/es/The_Urantia_Book/107#p1_7))
 
 Luego, debemos analizar su acción sobre nuestro ser:
 
-- En nuestra mente actúa según 3 fases ([LU fasc:107 introduction](/es/The_Urantia_Book/107#p0_1)) a lo largo de nuestra vida.
-- Desarrolla nuestra alma y, por cierto, es con esta alma con la que se fusiona. Esto es importante porque resuelve el problema de la realidad de esta alma y nuestra relación con ella ([LU fasc :1 ch 3 \$7](/es/The_Urantia_Book/1#p3_7)).
+- En nuestra mente actúa según 3 fases (<a id="a47_40"></a>[LU fasc:107 introduction](/es/The_Urantia_Book/107#p0_1)) a lo largo de nuestra vida.
+- Desarrolla nuestra alma y, por cierto, es con esta alma con la que se fusiona. Esto es importante porque resuelve el problema de la realidad de esta alma y nuestra relación con ella (<a id="a48_185"></a>[LU fasc :1 ch 3 \$7](/es/The_Urantia_Book/1#p3_7)).
 
 Este último capítulo revela la realidad de nuestra mente y su evolución.
 
@@ -62,7 +62,7 @@ Es el cruce de círculos psíquicos.
 
 Por supuesto, nuestro entorno material nos desafía y perturba nuestra mente, pero nuestro control a través de nuestra personalidad se vuelve más efectivo con el tiempo.
 
-Por lo tanto, es a través del alma que percibimos a nuestro Ajustador ([LU fasc :5 introduction 1](/es/The_Urantia_Book/5#p0_1)). Este folleto afirma que la evolución espiritual es independiente del ser y su entorno pero depende únicamente de sus motivos. En particular, el capítulo 2.5 muestra claramente que es la conciencia de esta alma que crece en el hombre la que hace posible discernir las actividades espirituales superiores del Ajustador.
+Por lo tanto, es a través del alma que percibimos a nuestro Ajustador (<a id="a64_71"></a>[LU fasc :5 introduction 1](/es/The_Urantia_Book/5#p0_1)). Este folleto afirma que la evolución espiritual es independiente del ser y su entorno pero depende únicamente de sus motivos. En particular, el capítulo 2.5 muestra claramente que es la conciencia de esta alma que crece en el hombre la que hace posible discernir las actividades espirituales superiores del Ajustador.
 
 Veamos ahora el problema de las ayudas a la espiritualización.
 
@@ -70,10 +70,10 @@ Ante todo, esta espiritualización es un acto consciente y voluntario de la pers
 
 Dicho esto, en respuesta a nuestros esfuerzos, ciertas influencias pueden entrar en acción:
 
-- El Espíritu Santo del Divino Ministro ([LU fasc :35](/es/The_Urantia_Book/35#p0_1) y [LU fasc:65 ch:7 7](/es/The_Urantia_Book/65#p7_7)). Entra en funcionamiento cuando el individuo entra en contacto con los dos últimos ayudantes.
+- El Espíritu Santo del Divino Ministro (<a id="a72_41"></a>[LU fasc :35](/es/The_Urantia_Book/35#p0_1) y <a id="a72_87"></a>[LU fasc:65 ch:7 7](/es/The_Urantia_Book/65#p7_7)). Entra en funcionamiento cuando el individuo entra en contacto con los dos últimos ayudantes.
 - El Espíritu de Verdad de nuestro Jesús predilecto. Confirma que estamos en el camino correcto.
-- Ángeles ([LU LU fasc :39 ch:5 et 6](/es/The_Urantia_Book/39#p5_1)) que a través de su ministerio tienen una influencia innegable en el ámbito espiritual. La naturaleza de su acción sigue siendo bastante vaga.
-- Los guardianes personales del destino, ángeles más cercanos a nosotros, con al menos un querubín por individuo ([LU fasc :113 en entier page:1241](/es/The_Urantia_Book/113#p0_1)).
+- Ángeles (<a id="a74_11"></a>[LU LU fasc :39 ch:5 et 6](/es/The_Urantia_Book/39#p5_1)) que a través de su ministerio tienen una influencia innegable en el ámbito espiritual. La naturaleza de su acción sigue siendo bastante vaga.
+- Los guardianes personales del destino, ángeles más cercanos a nosotros, con al menos un querubín por individuo (<a id="a75_114"></a>[LU fasc :113 en entier page:1241](/es/The_Urantia_Book/113#p0_1)).
 
 Pero todo esto, una vez más, sólo se logra a través de nuestros descubrimientos experienciales, acciones sociales y servicios prestados.
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francine Fortin<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rex_Merrett/Votre_heure_est_elle_venue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Ha llegado tu hora?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Vivre_aujourdhui_avec_la_connaissance_du_passe">
+          <span class="pr-2">Vivir hoy con conocimiento del pasado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -33,7 +57,7 @@ Por eso me inspira esta enseñanza de nuestro Maestro:
 <img src="/image/article/Reflectivite/2024_07/020.jpg">
 </figure>
 
-> Trataba más bien de liberar el alma renacida del hombre para que emprendiera el vuelo con las alas gozosas de una libertad espiritual nueva y viviente. ([LU 179:5.4](/es/The_Urantia_Book/179#p5_4))
+> Trataba más bien de liberar el alma renacida del hombre para que emprendiera el vuelo con las alas gozosas de una libertad espiritual nueva y viviente. (<a id="a59_155"></a>[LU 179:5.4](/es/The_Urantia_Book/179#p5_4))
 
 Desgraciadamente en Quebec, donde la religión católica ha causado daños irreparables, me resulta extremadamente difícil hablar de Dios o de Jesús.
 
@@ -67,3 +91,28 @@ Al experimentar verdaderamente el Amor de Dios en todos los aspectos de mi vida,
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rex_Merrett/Votre_heure_est_elle_venue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Ha llegado tu hora?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Vivre_aujourdhui_avec_la_connaissance_du_passe">
+          <span class="pr-2">Vivir hoy con conocimiento del pasado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

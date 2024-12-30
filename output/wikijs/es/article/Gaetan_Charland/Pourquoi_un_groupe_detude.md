@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_temps_du_monde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La hora mundial!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="pr-2">Comparación entre Jesús de Nazaret y Donald Trump</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -50,7 +74,7 @@ La asociación con otros lectores en el contexto de un grupo de estudio nos prot
 
 En la introducción de _El libro de Urantia_, los reveladores nos informan del estado de nuestra mente. Esto es lo que nos dice un Divino Consejero sobre este tema:
 
-> «EN LA MENTE de los mortales de Urantia —éste es el nombre de vuestro mundo— existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» ([LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
+> «EN LA MENTE de los mortales de Urantia —éste es el nombre de vuestro mundo— existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» (<a id="a76_348"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1))
 
 ¿Quién de nosotros no ha tenido dificultades para comprender lo que este Divino Consejero nos dijo en la Introducción al _Libro de Urantia_? ¿Quién de nosotros, después de varias lecturas, no experimenta todavía ciertas dificultades para comprender intelectualmente ciertos conceptos, por no hablar de la apropiación de verdades espirituales?
 
@@ -106,3 +130,28 @@ Existen inmensos beneficios al iniciar un grupo de estudio o participar en uno, 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_temps_du_monde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La hora mundial!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="pr-2">Comparación entre Jesús de Nazaret y Donald Trump</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/Laventure_du_groupe_detude_Decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La aventura del grupo de estudio «Découverte» («Descubrimiento»)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Passer_au_suivant">
+          <span class="pr-2">Pasando al siguiente...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -52,7 +76,7 @@ Y, por supuesto, tenemos la historia del gran Van y su asociado mortal Amadón, 
 
 Parece que hay algo que podemos hacer. Al igual que Gabriel, podemos adoptar una postura para contrarrestar las falacias rebeldes. El método de Gabriel se explica en el documento 53. Dice:
 
-> _«...En los primeros días de la lucha, Lucifer pronunció continuos discursos en el anfiteatro planetario. Gabriel dirigió una exposición incesante de los sofismas rebeldes desde su sede situada en las cercanías. Las diversas personalidades presentes en la esfera que tenían dudas sobre la actitud a tomar iban de acá para allá entre estas discusiones hasta que llegaron a una decisión final._ ([LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
+> _«...En los primeros días de la lucha, Lucifer pronunció continuos discursos en el anfiteatro planetario. Gabriel dirigió una exposición incesante de los sofismas rebeldes desde su sede situada en las cercanías. Las diversas personalidades presentes en la esfera que tenían dudas sobre la actitud a tomar iban de acá para allá entre estas discusiones hasta que llegaron a una decisión final._ (<a id="a78_396"></a>[LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2023_03/014.jpg">
@@ -69,11 +93,11 @@ Luego está la cuestión de la justicia. Cuando pensamos en el enorme daño caus
 
 Esta pregunta surge por lo que dice el fascículo 54:
 
-> _...Y los Ancianos de los Días se niegan a aniquilar a un ser hasta que todos los valores morales y todas las realidades espirituales no se hayan extinguido tanto en el malhechor ***como en todos sus partidarios relacionados y en sus posibles simpatizantes***._ ([LU 54:3.3](/es/The_Urantia_Book/54#p3_3))
+> _...Y los Ancianos de los Días se niegan a aniquilar a un ser hasta que todos los valores morales y todas las realidades espirituales no se hayan extinguido tanto en el malhechor ***como en todos sus partidarios relacionados y en sus posibles simpatizantes***._ (<a id="a95_265"></a>[LU 54:3.3](/es/The_Urantia_Book/54#p3_3))
 
 Considere también lo que se dice sobre Satanás en el Documento 43:
 
-> _Desde el triunfo de Cristo, toda Norlatiadek está siendo purificada de pecado y de rebeldes. Poco antes de la muerte de Miguel en la carne, Satán, el asociado caído de Lucifer, intentó asistir a un cónclave en Edentia, pero la solidificación de los sentimientos contra los archirrebeldes había alcanzado el punto en que las puertas de la simpatía estaban tan casi universalmente cerradas que los adversarios de Satania no encontraron ningún sitio donde poder estar. ***Cuando no hay ninguna puerta abierta para recibir al mal, no existe ninguna oportunidad para albergar el pecado.*** Las puertas de los corazones de toda Edentia se cerraron para Satán; fue unánimemente rechazado por los Soberanos Sistémicos reunidos, y fue en ese momento cuando el Hijo del Hombre «vio caer a Satán como un relámpago desde el cielo»._ ([LU 43:4.9](/es/The_Urantia_Book/43#p4_9))
+> _Desde el triunfo de Cristo, toda Norlatiadek está siendo purificada de pecado y de rebeldes. Poco antes de la muerte de Miguel en la carne, Satán, el asociado caído de Lucifer, intentó asistir a un cónclave en Edentia, pero la solidificación de los sentimientos contra los archirrebeldes había alcanzado el punto en que las puertas de la simpatía estaban tan casi universalmente cerradas que los adversarios de Satania no encontraron ningún sitio donde poder estar. ***Cuando no hay ninguna puerta abierta para recibir al mal, no existe ninguna oportunidad para albergar el pecado.*** Las puertas de los corazones de toda Edentia se cerraron para Satán; fue unánimemente rechazado por los Soberanos Sistémicos reunidos, y fue en ese momento cuando el Hijo del Hombre «vio caer a Satán como un relámpago desde el cielo»._ (<a id="a99_825"></a>[LU 43:4.9](/es/The_Urantia_Book/43#p4_9))
 
 Podemos concluir que hasta que los conceptos luciferinos sean completamente rechazados en nuestro mundo, los Ancianos de los Días pueden abstenerse de aniquilar a los rebeldes. Por lo tanto, una demora en exponer las venenosas proclamas de Lucifer puede prolongar nuestra agonía planetaria.
 
@@ -98,3 +122,28 @@ Mientras tanto, que el Espíritu de la Verdad os acompañe.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/Laventure_du_groupe_detude_Decouverte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La aventura del grupo de estudio «Découverte» («Descubrimiento»)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Passer_au_suivant">
+          <span class="pr-2">Pasando al siguiente...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

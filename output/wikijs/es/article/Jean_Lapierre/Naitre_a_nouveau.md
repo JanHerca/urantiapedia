@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jean Lapierre<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Pour_quelle_raison_Jesus_devait_il_mourir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué Jesús tuvo que morir para enviarnos su Espíritu de Verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -30,3 +51,25 @@ Jesús le dijo a Nicodemo que hay que nacer de nuevo y que sin este nuevo nacimi
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-avril-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Pour_quelle_raison_Jesus_devait_il_mourir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué Jesús tuvo que morir para enviarnos su Espíritu de Verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

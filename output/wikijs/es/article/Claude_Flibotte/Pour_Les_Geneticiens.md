@@ -92,9 +92,9 @@ Un gato es un gato, no es un perro, porque evidentemente no son de la misma raza
 
 Dado que el hombre no estaba presente antes de la existencia del primer hombre, necesariamente debemos confiar en los reveladores para aprender nuestra propia historia de la humanidad. Hace casi un millón de años aparecieron los dos primeros humanos en Urantia.
 
-El nacimiento de los dos primeros seres humanos tiene lugar exactamente 993419 años antes del año 1934 de la era cristiana [LU 62:5.1](/es/The_Urantia_Book/62#p5_1).
+El nacimiento de los dos primeros seres humanos tiene lugar exactamente 993419 años antes del año 1934 de la era cristiana <a id="a94_123"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1).
 
-De hecho, no se convirtieron en verdaderos humanos hasta once años después, después de que el ayudante de adoración entró en contacto con ellos alrededor de los diez años y el ayudante de sabiduría posteriormente ([LU 62:6.5](/es/The_Urantia_Book/62#p6_5)).
+De hecho, no se convirtieron en verdaderos humanos hasta once años después, después de que el ayudante de adoración entró en contacto con ellos alrededor de los diez años y el ayudante de sabiduría posteriormente (<a id="a96_214"></a>[LU 62:6.5](/es/The_Urantia_Book/62#p6_5)).
 
 URANTIA fue registrado como un mundo habitado cuando los dos primeros seres humanos—los gemelos—tenían once años... 63:0.1 (711.1).
 
@@ -102,7 +102,7 @@ Aquí tenemos a nuestros dos primeros seres humanos que se reprodujeron y se ext
 
 ## El origen de las “razas” de colores
 
-Hace 500.000 años, una pareja badonita del noroeste de la India, necesariamente descendiente de los dos primeros humanos, dio a luz a diecinueve niños diferentes, dotados de una inteligencia superior y un color de piel particular. Cinco eran rojos, dos eran naranjas, cuatro eran amarillos, dos eran verdes, cuatro eran azules y dos eran índigo [LU 64:5.3](/es/The_Urantia_Book/64#p5_3)
+Hace 500.000 años, una pareja badonita del noroeste de la India, necesariamente descendiente de los dos primeros humanos, dio a luz a diecinueve niños diferentes, dotados de una inteligencia superior y un color de piel particular. Cinco eran rojos, dos eran naranjas, cuatro eran amarillos, dos eran verdes, cuatro eran azules y dos eran índigo <a id="a104_345"></a>[LU 64:5.3](/es/The_Urantia_Book/64#p5_3)
 
 Estos diecinueve humanos procrearon con miembros de su tribu, quienes adoptaron el color de piel característico de su ascendencia coloreada, dando lugar así a las seis “razas” de colores.
 
@@ -114,7 +114,7 @@ Si hacemos un inventario de los humanos de hace 500.000 años, tenemos a los hum
 
 ## CONCLUSIÓN
 
-Entonces, para responder a la pregunta de Patrice Monsigny, no importa qué palabra se utilice para designar las distintas variantes del ser humano, todos venimos, e incluso en dos ocasiones, de la misma familia humana. El primero fue Andon y Fonta, los andonitas, el segundo fue la pareja badonita responsable de los diecinueve niños de diferentes colores, la familia Sangik [LU 64:5.2](/es/The_Urantia_Book/64#p5_2). En conclusión, todos somos humanos, hermanos y hermanas de una misma gran familia. ¡Razón de más para ayudarnos unos a otros y amarnos unos a otros como nos demostró nuestro mayor hermano, Jesús, a través de su vida humana hace más de dos mil años!
+Entonces, para responder a la pregunta de Patrice Monsigny, no importa qué palabra se utilice para designar las distintas variantes del ser humano, todos venimos, e incluso en dos ocasiones, de la misma familia humana. El primero fue Andon y Fonta, los andonitas, el segundo fue la pareja badonita responsable de los diecinueve niños de diferentes colores, la familia Sangik <a id="a116_375"></a>[LU 64:5.2](/es/The_Urantia_Book/64#p5_2). En conclusión, todos somos humanos, hermanos y hermanas de una misma gran familia. ¡Razón de más para ayudarnos unos a otros y amarnos unos a otros como nos demostró nuestro mayor hermano, Jesús, a través de su vida humana hace más de dos mil años!
 
 En cuanto a los hombres de ciencia, mientras no quieran considerar nada más que lo que pueden ver y manipular en sus manos, la verdad de la realidad siempre se les escapará. ¡El universo no es sólo material!
 

@@ -67,45 +67,45 @@ Esta afirmación plantea tres preguntas:
 
 ¿Qué es la perfección? La perfección a lo largo del tiempo es relativa y muestra diferentes niveles de realización progresiva.
 
-¿Tiene Dios un plan que haría posible el logro de la perfección? “Y toda la disposición de las existencias vivientes en los mundos del espacio se centra en el propósito divino de elevar a todas las criaturas dotadas de voluntad a un destino elevado, la experiencia de compartir la perfección celestial del Padre. » ([LU 2:2.5](/es/The_Urantia_Book/2#p2_5)) responde el Divino Consejero.
+¿Tiene Dios un plan que haría posible el logro de la perfección? “Y toda la disposición de las existencias vivientes en los mundos del espacio se centra en el propósito divino de elevar a todas las criaturas dotadas de voluntad a un destino elevado, la experiencia de compartir la perfección celestial del Padre. » (<a id="a69_316"></a>[LU 2:2.5](/es/The_Urantia_Book/2#p2_5)) responde el Divino Consejero.
 
 ¿Cómo podemos saber su voluntad? Siendo criaturas finitas no podemos conocerlo a menos que Él mismo nos lo revele por revelación de época o personal.
 
 Los autores del _Libro de Urantia_, al brindar respuestas concretas a estas preguntas fundamentales, nos brindan soluciones prácticas que pueden usarse en nuestra vida diaria mientras expanden los campos de nuestra conciencia cósmica.
 
-***Pregunta 1***: _Lea las siguientes secciones_: [LU 1:0](/es/The_Urantia_Book/1#p0); [LU 26:4-11](/es/The_Urantia_Book/26#p4).
+***Pregunta 1***: _Lea las siguientes secciones_: <a id="a75_50"></a>[LU 1:0](/es/The_Urantia_Book/1#p0); <a id="a75_87"></a>[LU 26:4-11](/es/The_Urantia_Book/26#p4).
 
-La perfección, nos dice el Divino Consejero, puede ser absoluta, relativa o imperfecta en siete tipos concebibles. ([LU 0:1.17](/es/The_Urantia_Book/0#p1_17)). La meta actual establecida por Dios para nosotros, criaturas ascendentes, es la perfección en el nivel finito de la existencia. Se actualiza gradualmente marcando etapas, resultados intermedios de perfección. Por ejemplo, la fusión con nuestro Ajustador del Pensamiento denota que hemos elegido eterna e irrevocablemente hacer la voluntad del Padre ([LU 111:3.1](/es/The_Urantia_Book/111#p3_1)) lo que constituye un resultado experiencial de relativa perfección de nuestra voluntad en relación con esta meta.
+La perfección, nos dice el Divino Consejero, puede ser absoluta, relativa o imperfecta en siete tipos concebibles. (<a id="a77_116"></a>[LU 0:1.17](/es/The_Urantia_Book/0#p1_17)). La meta actual establecida por Dios para nosotros, criaturas ascendentes, es la perfección en el nivel finito de la existencia. Se actualiza gradualmente marcando etapas, resultados intermedios de perfección. Por ejemplo, la fusión con nuestro Ajustador del Pensamiento denota que hemos elegido eterna e irrevocablemente hacer la voluntad del Padre (<a id="a77_510"></a>[LU 111:3.1](/es/The_Urantia_Book/111#p3_1)) lo que constituye un resultado experiencial de relativa perfección de nuestra voluntad en relación con esta meta.
 
-_¿Cuáles son los otros resultados de relativa perfección que actualizaremos durante nuestra aventura ascendente? Usando la lista de niveles de perfección que se encuentra en la Introducción_ ([LU 0:1.18-24](/es/The_Urantia_Book/0#p1_18)) _¿puedes clasificarlos?_
+_¿Cuáles son los otros resultados de relativa perfección que actualizaremos durante nuestra aventura ascendente? Usando la lista de niveles de perfección que se encuentra en la Introducción_ (<a id="a79_192"></a>[LU 0:1.18-24](/es/The_Urantia_Book/0#p1_18)) _¿puedes clasificarlos?_
 
-***Pregunta 2***: Lea las siguientes secciones: [LU 7:4](/es/The_Urantia_Book/7#p4); [LU 107:0](/es/The_Urantia_Book/107#p0); [LU 194:2](/es/The_Urantia_Book/194#p2)
+***Pregunta 2***: Lea las siguientes secciones: <a id="a81_48"></a>[LU 7:4](/es/The_Urantia_Book/7#p4); <a id="a81_85"></a>[LU 107:0](/es/The_Urantia_Book/107#p0); <a id="a81_126"></a>[LU 194:2](/es/The_Urantia_Book/194#p2)
 
-_El Libro de Urantia_ nos revela que «Hay en la mente de Dios un plan que incluye a todas las criaturas de sus inmensos dominios, y este plan es un diseño eterno de ilimitadas oportunidades favorables, de progreso ilimitado y de vida sin límite». ¡Y los infinitos tesoros de esta incomparable carrera recompensan tus esfuerzos! »([LU 32:5.7](/es/The_Urantia_Book/32#p5_7)).
+_El Libro de Urantia_ nos revela que «Hay en la mente de Dios un plan que incluye a todas las criaturas de sus inmensos dominios, y este plan es un diseño eterno de ilimitadas oportunidades favorables, de progreso ilimitado y de vida sin límite». ¡Y los infinitos tesoros de esta incomparable carrera recompensan tus esfuerzos! »(<a id="a83_330"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)).
 
-Sí, nuestro Padre es infinito creador, controlador y sustentador ([LU 1:0.1](/es/The_Urantia_Book/1#p0_1)). Es infinitamente coherente y fiel a sí mismo y brinda toda la ayuda y el apoyo necesarios a sus criaturas. Qué reconfortante es saber que efectivamente existe un plan de ascensión para cada uno de nosotros que da sentido y dirección a nuestra vida, los que luchamos en medio de las vicisitudes diarias.
+Sí, nuestro Padre es infinito creador, controlador y sustentador (<a id="a85_66"></a>[LU 1:0.1](/es/The_Urantia_Book/1#p0_1)). Es infinitamente coherente y fiel a sí mismo y brinda toda la ayuda y el apoyo necesarios a sus criaturas. Qué reconfortante es saber que efectivamente existe un plan de ascensión para cada uno de nosotros que da sentido y dirección a nuestra vida, los que luchamos en medio de las vicisitudes diarias.
 
 _Muchos de nuestros familiares y amigos desconocen cómo Dios puede ayudarlos en su vida diaria. ¿Cómo les describirías este plan en pocas palabras?_
 
-***Pregunta 3***: _Lea las siguientes secciones_: [LU 115:3](/es/The_Urantia_Book/115#p3) Lograr el plan de perfección progresiva requiere desarrollar un modus operandi y una tensión entre los potenciales para crear impulso. _El Libro de Urantia_ describe sus mecanismos producidos por las tres Deidades existenciales del Paraíso como Supremacía y Ultimidad, crecimiento a través de la experiencia.
+***Pregunta 3***: _Lea las siguientes secciones_: <a id="a89_50"></a>[LU 115:3](/es/The_Urantia_Book/115#p3) Lograr el plan de perfección progresiva requiere desarrollar un modus operandi y una tensión entre los potenciales para crear impulso. _El Libro de Urantia_ describe sus mecanismos producidos por las tres Deidades existenciales del Paraíso como Supremacía y Ultimidad, crecimiento a través de la experiencia.
 
 _¿Cómo operan sus mecanismos en nosotros? ¿Puedes dar un ejemplo de tu propia experiencia?_
 
-***Pregunta 4***: _Lea las siguientes secciones_: [LU 0:0](/es/The_Urantia_Book/0#p0); [LU 101:2,4,5](/es/The_Urantia_Book/101#p2); [LU 102:3](/es/The_Urantia_Book/102#p3).
+***Pregunta 4***: _Lea las siguientes secciones_: <a id="a93_50"></a>[LU 0:0](/es/The_Urantia_Book/0#p0); <a id="a93_87"></a>[LU 101:2,4,5](/es/The_Urantia_Book/101#p2); <a id="a93_132"></a>[LU 102:3](/es/The_Urantia_Book/102#p3).
 
-“Dios siempre debe encontrar primero al hombre para que luego el hombre pueda encontrar a Dios. Un Padre universal es siempre necesario antes de que pueda existir la filiación universal y la fraternidad universal que sigue. » ([LU 118:5.3](/es/The_Urantia_Book/118#p5_3))
+“Dios siempre debe encontrar primero al hombre para que luego el hombre pueda encontrar a Dios. Un Padre universal es siempre necesario antes de que pueda existir la filiación universal y la fraternidad universal que sigue. » (<a id="a95_227"></a>[LU 118:5.3](/es/The_Urantia_Book/118#p5_3))
 
 Lo finito no puede comprender lo infinito a menos que el infinito se revele a lo finito. Para las criaturas finitas y ascendentes que somos, Dios se revela a través de revelaciones personales y de época. _El Libro de Urantia_ es la quinta y más reciente de las revelaciones de época.
 
 _¿Cuáles son, según usted, los objetivos que persiguen los autores de esta quinta revelación?_
 
-***Pregunta 5***: _Lea las siguientes secciones_: [LU 1:2](/es/The_Urantia_Book/1#p2); [LU 1:3.6](/es/The_Urantia_Book/1#p3_6). [LU 2:2.6](/es/The_Urantia_Book/2#p2_6); [LU 5:2](/es/The_Urantia_Book/5#p2); [LU 107:0](/es/The_Urantia_Book/107#p0); [LU 108:0](/es/The_Urantia_Book/108#p0); [LU 109:0](/es/The_Urantia_Book/109#p0)
+***Pregunta 5***: _Lea las siguientes secciones_: <a id="a101_50"></a>[LU 1:2](/es/The_Urantia_Book/1#p2); <a id="a101_87"></a>[LU 1:3.6](/es/The_Urantia_Book/1#p3_6). <a id="a101_128"></a>[LU 2:2.6](/es/The_Urantia_Book/2#p2_6); <a id="a101_169"></a>[LU 5:2](/es/The_Urantia_Book/5#p2); <a id="a101_206"></a>[LU 107:0](/es/The_Urantia_Book/107#p0); <a id="a101_247"></a>[LU 108:0](/es/The_Urantia_Book/108#p0); <a id="a101_288"></a>[LU 109:0](/es/The_Urantia_Book/109#p0)
 
 El Padre Universal también se revela a sí mismo a través de revelaciones personales a través de una entidad fragmentada de sí mismo que otorga a sus criaturas como Ajustador del Pensamiento.
 
 _Al otorgar este fragmento de sí mismo a sus criaturas, ¿cuál es el objetivo que busca Dios?_
 
-***Pregunta 6***: _Lea las siguientes secciones_: ([LU 9:2.5](/es/The_Urantia_Book/9#p2_5)) Los autores del _Libro de Urantia_ nos dicen que la revelación espiritual más edificante e inspiradora de la naturaleza de Dios se descubre en la vida religiosa de Jesús como lo experimentó en Urantia.
+***Pregunta 6***: _Lea las siguientes secciones_: (<a id="a107_51"></a>[LU 9:2.5](/es/The_Urantia_Book/9#p2_5)) Los autores del _Libro de Urantia_ nos dicen que la revelación espiritual más edificante e inspiradora de la naturaleza de Dios se descubre en la vida religiosa de Jesús como lo experimentó en Urantia.
 
 _En su opinión, ¿cuáles son los aspectos más inspiradores de la vida religiosa de Jesús?_
 

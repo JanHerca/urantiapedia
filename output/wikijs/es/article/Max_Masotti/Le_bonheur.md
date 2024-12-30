@@ -73,7 +73,7 @@ La felicidad es la alegría de existir plenamente, la alegría de estar aquí y 
 
 La felicidad no es un destino, es una trayectoria. Sólo hace falta muy poco para ser feliz. Sólo tienes que valorar cada pequeño momento y celebrarlo como uno de los mejores momentos de tu vida. Si la felicidad es el acuerdo entre nuestros deseos y el orden del mundo, entonces es mejor modificar nuestros deseos. (Descartes)
 
-Ver el [LU 103:5.5](/es/The_Urantia_Book/103#p5_5) — [LU 111:4.7](/es/The_Urantia_Book/111#p4_7) — [LU 131:3.7](/es/The_Urantia_Book/131#p3_7) — [LU 136:6.10](/es/The_Urantia_Book/136#p6_10) — [LU 140:4.10](/es/The_Urantia_Book/140#p4_10) — [LU 140:5.6](/es/The_Urantia_Book/140#p5_6) — [LU 159:3.10](/es/The_Urantia_Book/159#p3_10) — [LU 159:3.12](/es/The_Urantia_Book/159#p3_12) — [LU 171:7.9](/es/The_Urantia_Book/171#p7_9)
+Ver el <a id="a75_7"></a>[LU 103:5.5](/es/The_Urantia_Book/103#p5_5) — <a id="a75_53"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7) — <a id="a75_99"></a>[LU 131:3.7](/es/The_Urantia_Book/131#p3_7) — <a id="a75_145"></a>[LU 136:6.10](/es/The_Urantia_Book/136#p6_10) — <a id="a75_193"></a>[LU 140:4.10](/es/The_Urantia_Book/140#p4_10) — <a id="a75_241"></a>[LU 140:5.6](/es/The_Urantia_Book/140#p5_6) — <a id="a75_287"></a>[LU 159:3.10](/es/The_Urantia_Book/159#p3_10) — <a id="a75_335"></a>[LU 159:3.12](/es/The_Urantia_Book/159#p3_12) — <a id="a75_383"></a>[LU 171:7.9](/es/The_Urantia_Book/171#p7_9)
 
 Max Masotti
 

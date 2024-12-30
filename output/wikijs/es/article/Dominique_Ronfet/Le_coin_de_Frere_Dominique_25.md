@@ -32,7 +32,7 @@ dateCreated: 2024-10-19T15:5:2Z
 
 
 
-> «_Al lado de la satisfacción suprema de la adoración se encuentra el regocijo de la filosofía. Nunca subiréis tan alto ni avanzaréis tan lejos como para que no queden mil misterios que necesitarán el empleo de la filosofía para intentar solucionarlos._» ([LU 27:6.1](/es/The_Urantia_Book/27#p6_1))
+> «_Al lado de la satisfacción suprema de la adoración se encuentra el regocijo de la filosofía. Nunca subiréis tan alto ni avanzaréis tan lejos como para que no queden mil misterios que necesitarán el empleo de la filosofía para intentar solucionarlos._» (<a id="a34_257"></a>[LU 27:6.1](/es/The_Urantia_Book/27#p6_1))
 
 - Su libro contiene pasajes extraños.
 - Sí, la búsqueda de la Verdad parece una búsqueda eterna.

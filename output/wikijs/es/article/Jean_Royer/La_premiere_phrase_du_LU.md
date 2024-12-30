@@ -67,7 +67,7 @@ Nótese que esta es la tercera vez que encontramos la palabra experiencia y que 
 
 **Existe una gran confusión**, se refiere a todas las civilizaciones de nuestro planeta, ya sea en el espacio o en el tiempo.
 
-**Dios**: El capítulo II de [pages 3 et 4](/es/The_Urantia_Book/0#p2_11) está dedicado a explicar qué quieren decir los reveladores con esta palabra. Y en su mayor parte, es de hecho una cuestión de revelación.
+**Dios**: El capítulo II de <a id="a69_28"></a>[pages 3 et 4](/es/The_Urantia_Book/0#p2_11) está dedicado a explicar qué quieren decir los reveladores con esta palabra. Y en su mayor parte, es de hecho una cuestión de revelación.
 
 **La Divinidad y la Deidad** se tratan en el capítulo I en las páginas 2 y 3.
 

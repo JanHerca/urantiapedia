@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 365 — Marzo de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Instruction_preliminaire_et_recommandations">
+          <span class="pr-2">Investigación preliminar y recomendaciones.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -56,7 +80,7 @@ Todos somos maestros, lo aceptemos o no. ¿Cómo vivimos nuestras vidas y nos ex
 Los dejo para que mediten sobre esta cita.
 <br style="clear:both;"/>
 
-> _La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. La certidumbre y la convicción tampoco son la fe. Un estado mental sólo alcanza los niveles de la fe cuando domina realmente la manera de vivir. La fe es un atributo viviente de la experiencia religiosa personal auténtica._ ([LU 101:8.1](/es/The_Urantia_Book/101#p8_1))
+> _La creencia alcanza el nivel de la fe cuando motiva la vida y modela la manera de vivir. La aceptación de una enseñanza como verdadera no es la fe; es una simple creencia. La certidumbre y la convicción tampoco son la fe. Un estado mental sólo alcanza los niveles de la fe cuando domina realmente la manera de vivir. La fe es un atributo viviente de la experiencia religiosa personal auténtica._ (<a id="a82_400"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1))
 
 Amar es servir.
 
@@ -65,3 +89,28 @@ Amar es servir.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 365 — Marzo de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Instruction_preliminaire_et_recommandations">
+          <span class="pr-2">Investigación preliminar y recomendaciones.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

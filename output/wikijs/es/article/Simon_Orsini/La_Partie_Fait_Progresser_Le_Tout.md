@@ -43,7 +43,7 @@ Es importante avanzar el potencial de manera positiva, dándole a lo negativo s�
 
 Toda reflexión debe estar motivada por un sentido colectivo de valores, no hay nada fácil en la lucha por la vida, son los fracasos de cada individuo, y los avances de los que nos hacen progresar, los que reflejan la línea rectora en la que nos orientamos.
 
-> LA EXPERIENCIA de una vida religiosa dinámica transforma a un individuo mediocre en una personalidad con un poder idealista. La religión contribuye al progreso de todos fomentando el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos. ([LU 100:0.1](/es/The_Urantia_Book/100#p0_1))
+> LA EXPERIENCIA de una vida religiosa dinámica transforma a un individuo mediocre en una personalidad con un poder idealista. La religión contribuye al progreso de todos fomentando el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos. (<a id="a45_271"></a>[LU 100:0.1](/es/The_Urantia_Book/100#p0_1))
 
 Los contactos entre humanos son a veces difíciles, por lo que debemos dejar en manos de aquellos que tienen más talento el conducir la naturaleza humana hacia una armonía superior.
 

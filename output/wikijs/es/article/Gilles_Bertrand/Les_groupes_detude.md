@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gilles Bertrand<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_12_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del Presidente — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-374-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 374 — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/La_justice_et_le_jugement">
+          <span class="pr-2">Justicia y juicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -53,3 +77,28 @@ fidoquebec@gmail.com
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_12_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mensaje del Presidente — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-374-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 374 — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/La_justice_et_le_jugement">
+          <span class="pr-2">Justicia y juicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

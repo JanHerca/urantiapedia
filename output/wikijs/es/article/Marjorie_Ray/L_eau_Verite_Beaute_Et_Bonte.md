@@ -52,7 +52,7 @@ _Al jubilarse, ha vuelto a tener un interés de larga data por la filosofía, es
 <figcaption>Marjorie Ray frente a la audiencia de la Fundación Urantia el 1 de noviembre de 2019</figcaption>
 </figure>
 
-Toda la ciencia de las matemáticas, todo el campo de la filosofía, la física y la química más avanzadas no podían predecir ni saber que la unión de dos átomos de hidrógeno gaseoso con un átomo de oxígeno gaseoso produciría un agua líquida nueva y cualitativamente superada. La sola observación de este fenómeno fisicoquímico debería haber impedido el desarrollo de la filosofía materialista y la cosmología mecánica. ([LU 12:9.3](/es/The_Urantia_Book/12#p9_3))
+Toda la ciencia de las matemáticas, todo el campo de la filosofía, la física y la química más avanzadas no podían predecir ni saber que la unión de dos átomos de hidrógeno gaseoso con un átomo de oxígeno gaseoso produciría un agua líquida nueva y cualitativamente superada. La sola observación de este fenómeno fisicoquímico debería haber impedido el desarrollo de la filosofía materialista y la cosmología mecánica. (<a id="a54_418"></a>[LU 12:9.3](/es/The_Urantia_Book/12#p9_3))
 
 Esta cita es intrigante porque resalta la debilidad de nuestros sistemas epistemológicos derivados de la mente humana para comprender una sustancia que es la base de la vida en este planeta. Examinar los adjetivos utilizados y el fenómeno mencionado quizás ayude a comprender lo que los autores intentaban transmitir.
 

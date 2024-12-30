@@ -62,7 +62,7 @@ LA MUERTE ES SIMPLEMENTE LA TÉCNICA QUE USAMOS PARA ESCAPAR DE LAS LIMITACIONES
 
 La muerte es al mismo tiempo una conclusión y una liberación, es el acontecimiento más maravilloso de esta parte de la vida.
 
-> «El amor de la aventura, la curiosidad y el horror a la monotonía —esas características inherentes a la naturaleza humana en evolución— no han sido puestos ahí simplemente para exasperaros y enojaros durante vuestra breve estancia en la Tierra, sino más bien para sugeriros que la muerte sólo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos.» ([LU 14:5.10](/es/The_Urantia_Book/14#p5_10))
+> «El amor de la aventura, la curiosidad y el horror a la monotonía —esas características inherentes a la naturaleza humana en evolución— no han sido puestos ahí simplemente para exasperaros y enojaros durante vuestra breve estancia en la Tierra, sino más bien para sugeriros que la muerte sólo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos.» (<a id="a64_428"></a>[LU 14:5.10](/es/The_Urantia_Book/14#p5_10))
 
 Realmente nos preguntamos qué hacen estos demonios cornudos y estos espectros andrajosos en esta transición hacia la luz, así como las ceremonias de lamentación. Una comprensión personal del significado gozoso de la muerte es esencial para extirpar de nuestra mente profunda estas imágenes absurdas y supersticiones que con demasiada frecuencia todavía nos influyen. Cuando con calma nos esforzamos por comprender el significado de la muerte, descubrimos que nuestra vida terrena ha adquirido un nuevo valor y que nuestro comportamiento armoniza naturalmente con las circunstancias difíciles.
 

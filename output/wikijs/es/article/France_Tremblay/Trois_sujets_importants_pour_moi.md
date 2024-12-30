@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 France Tremblay<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El plan de supervivencia (continuación)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-372-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -32,7 +53,7 @@ Para mi gran sorpresa, esta petición no logró superar el número de 500 firman
 
 Para todos aquellos que piensan que cada nuevo movimiento termina dividiendo o que no se sienten preocupados por estas luchas internas... recuerden que al contrario, todos tienen el poder de influir en el curso de las cosas, debemos atrevernos a actuar.
 
-> Según sea el progreso del todo, así será el progreso de la parte. ([LU 12:7.11](/es/The_Urantia_Book/12#p7_11))
+> Según sea el progreso del todo, así será el progreso de la parte. (<a id="a55_69"></a>[LU 12:7.11](/es/The_Urantia_Book/12#p7_11))
 
 <ins>Segundo</ins>: Asistí a una reunión de Zoom del Center for Unity, donde estaban presentando un nuevo proyecto destinado a arrojar nueva luz sobre la vida y las enseñanzas de Jesús. Para ello utilizan nuevas tecnologías que seguro gustarán a todos, pero especialmente a los jóvenes.
 
@@ -70,3 +91,25 @@ Nuevamente... ¿nos atreveremos a cambiar o dejaremos que el miedo, este defecto
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-octobre-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El plan de supervivencia (continuación)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-372-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

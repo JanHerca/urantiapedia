@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Conrad Lavallée<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gilles_Bertrand/Paternite_divine_Mondes_des_maisons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paternidad Divina/Mundos Mansión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-372-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_2">
+          <span class="pr-2">El plan de supervivencia (continuación)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -30,7 +54,7 @@ _(Nota del editor. Aquí está el texto completo de la conferencia de Conrad Lav
 
 La noción de personalidad: la personalidad de Nuestro Padre Universal.
 
-Características únicas del concepto de personalidad en ***El libro de Urantia*** [LU 112:0.2](/es/The_Urantia_Book/112#p0_2) — [LU 112:0.16](/es/The_Urantia_Book/112#p0_16).
+Características únicas del concepto de personalidad en ***El libro de Urantia*** <a id="a56_81"></a>[LU 112:0.2](/es/The_Urantia_Book/112#p0_2) — <a id="a56_127"></a>[LU 112:0.16](/es/The_Urantia_Book/112#p0_16).
 
 Ella no es nuestro cuerpo físico.
 
@@ -65,7 +89,7 @@ Nadie sabe la ubicación de nuestras personalidades entre el momento de nuestra 
 
 ## La naturaleza insondable del circuito de personalidad de nuestro Padre Universal
 
-— [LU 12:3.2](/es/The_Urantia_Book/12#p3_2), también [LU 115:5.1](/es/The_Urantia_Book/115#p5_1).
+— <a id="a91_2"></a>[LU 12:3.2](/es/The_Urantia_Book/12#p3_2), también <a id="a91_53"></a>[LU 115:5.1](/es/The_Urantia_Book/115#p5_1).
 
 ¡Una personalidad absoluta y absolutamente perfecta!
 
@@ -99,7 +123,7 @@ Mientras que los seres humanos (hombres y mujeres) son considerados hijos de Dio
 
 Padre nuestro como fuente de todas las personalidades.
 
-Establecimiento de una relación «personal», real y auténtica con nuestro Padre Universal — [LU 1:6.4](/es/The_Urantia_Book/1#p6_4) — [LU 1:6.5](/es/The_Urantia_Book/1#p6_5)
+Establecimiento de una relación «personal», real y auténtica con nuestro Padre Universal — <a id="a125_91"></a>[LU 1:6.4](/es/The_Urantia_Book/1#p6_4) — <a id="a125_133"></a>[LU 1:6.5](/es/The_Urantia_Book/1#p6_5)
 
 La única prueba posible de la realidad de nuestro Padre Universal es que una persona humana puede comunicarla a otra.
 
@@ -276,7 +300,7 @@ Lo mismo ocurre con nuestra manera de relacionarnos con Dios, nuestra manera de 
 
 La razón por la que habitamos el cuerpo material que proviene de nuestros padres, que somos nosotros quienes lo habitamos personalmente en lugar de otra persona, es que nuestro Padre Universal ha transmitido directamente la prerrogativa del estatus personal a nuestro organismo vivo. Esto significa que Él es verdaderamente el Padre eterno de cada una de nuestras personalidades y que nos deja libres para nutrir o no nuestra relación con Él.
 
-## Para Nuestro Padre, hay dos tipos de personas en el universo [LU 133:0.3](/es/The_Urantia_Book/133#p0_3)
+## Para Nuestro Padre, hay dos tipos de personas en el universo <a id="a302_64"></a>[LU 133:0.3](/es/The_Urantia_Book/133#p0_3)
 
 Jesús nos dice que para el Padre, hay dos tipos de personas en el universo, los que quieren hacer Su voluntad y los que no quieren hacer Su voluntad. Nos deja completamente libres para nutrir esta relación Padre/hijo con Él. En otras palabras, nos deja completamente libres para aceptar y acoger, con fe viva, la realidad de su paternidad. Y cuando aceptamos y reconocemos la realidad y el hecho simplemente sublime y maravilloso de Su Paternidad, a través de la fe viva, inmediatamente sucede algo fantástico. Entramos plena e inmediatamente en la realidad viva del Reino de los Cielos, de la familia eterna, de su buena y divina voluntad. Somos admitidos instantáneamente, inmediata y de todo corazón, en el circuito interminable de la vida eterna. Experimentamos la salvación eterna.
 
@@ -346,15 +370,15 @@ _Sin órganos reproductivos_
 
 Como ya no somos seres reproductivos, este nuevo cuerpo carece de órganos reproductivos.
 
-_Sin órganos de excreción_ [LU 43:6.6](/es/The_Urantia_Book/43#p6_6).
+_Sin órganos de excreción_ <a id="a372_27"></a>[LU 43:6.6](/es/The_Urantia_Book/43#p6_6).
 
 Los alimentos morontiales se absorben al 100%, lo que significa que tampoco tenemos órganos excretores.
 
-_Agudeza sensorial muy superior_ [LU 46:5.10](/es/The_Urantia_Book/46#p5_10).
+_Agudeza sensorial muy superior_ <a id="a376_33"></a>[LU 46:5.10](/es/The_Urantia_Book/46#p5_10).
 
 Nuestros sentidos son considerablemente más refinados y desarrollados que nuestros sentidos humanos terrenales.
 
-_Equipo psíquico muy superior_ [LU 103:6.7](/es/The_Urantia_Book/103#p6_7), [LU 101:3.13](/es/The_Urantia_Book/101#p3_13), [LU 46:6.2](/es/The_Urantia_Book/46#p6_2).
+_Equipo psíquico muy superior_ <a id="a380_31"></a>[LU 103:6.7](/es/The_Urantia_Book/103#p6_7), <a id="a380_76"></a>[LU 101:3.13](/es/The_Urantia_Book/101#p3_13), <a id="a380_123"></a>[LU 46:6.2](/es/The_Urantia_Book/46#p6_2).
 
 Estaremos dotados de pensamiento morontial, es decir, de un tipo de cerebro considerablemente más avanzado que nuestro cerebro material.
 
@@ -465,3 +489,28 @@ También tendremos tremendas formaciones musicales, alcanzaremos la cima de la m
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-octobre-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gilles_Bertrand/Paternite_divine_Mondes_des_maisons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paternidad Divina/Mundos Mansión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-372-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 372 — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_2">
+          <span class="pr-2">El plan de supervivencia (continuación)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

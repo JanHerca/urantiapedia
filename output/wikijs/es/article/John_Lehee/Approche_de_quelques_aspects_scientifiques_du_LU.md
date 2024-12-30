@@ -45,7 +45,7 @@ Respecto a estos acontecimientos, los Reveladores nos dicen:
 
 > Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella.
 >
-> Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella. ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1))
+> Puesto que vuestro mundo ignora generalmente el origen de las cosas, incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en cuando conocimientos de cosmología. Esto siempre ha causado problemas para el futuro. Las leyes de la revelación nos obstaculizan enormemente porque prohíben comunicar conocimientos inmerecidos o prematuros. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo. Por consiguiente, los estudiosos futuros de esa revelación se sienten tentados a desechar cualquier elemento de verdad religiosa auténtica que pueda contener, porque descubren errores a primera vista en las cosmologías asociadas que se presentan en ella. (<a id="a47_723"></a>[LU 101:4.1](/es/The_Urantia_Book/101#p4_1))
 
 Se podría pensar que no deberíamos tomar literalmente las explicaciones científicas de los Autores celestiales y que deberíamos evitar, por ejemplo, hacer como los cristianos fundamentalistas que leen literalmente el libro bíblico del Génesis.
 
@@ -55,7 +55,7 @@ No, sinceramente no lo creo.
 
 Los Reveladores fueron muy limitados en su trabajo y por eso no revelaron todo porque el Hombre debe descubrir por sí mismo los mecanismos del Universo.
 
-Y me cuesta creer que los Reveladores hayan revelado voluntariamente errores con el pretexto de disuadirnos de hacer del libro un fetiche, como a veces sugieren algunos, o de atenernos a los logros de la ciencia de principios de siglo. Podría ilustrar este último caso poniendo el ejemplo de los cromosomas (que será tema de un párrafo) donde no creo que los Reveladores nos dijeran que nuestras células contenían 48 con el pretexto de que la ciencia de la época veía 48. [LU 36:2.11](/es/The_Urantia_Book/36#p2_11), los autores celestes no nos hablan de cromosomas sino de unidades de control arquetípicas.
+Y me cuesta creer que los Reveladores hayan revelado voluntariamente errores con el pretexto de disuadirnos de hacer del libro un fetiche, como a veces sugieren algunos, o de atenernos a los logros de la ciencia de principios de siglo. Podría ilustrar este último caso poniendo el ejemplo de los cromosomas (que será tema de un párrafo) donde no creo que los Reveladores nos dijeran que nuestras células contenían 48 con el pretexto de que la ciencia de la época veía 48. <a id="a57_472"></a>[LU 36:2.11](/es/The_Urantia_Book/36#p2_11), los autores celestes no nos hablan de cromosomas sino de unidades de control arquetípicas.
 
 Primero, si hay ciertas cosas que no concuerdan con la ciencia, probablemente sea porque dicha ciencia no es infalible.
 
@@ -75,7 +75,7 @@ En la primera parte discutiré elementos químicos artificiales con más de cien
 
 _[Aviso: En esta parte sólo haré una interpretación del texto de 42:7.7 y una comparación con los pocos datos que he podido recopilar sobre estos fenómenos físicos. Es necesario un conocimiento profundo por parte de un especialista en este tema si queremos avanzar en la comprensión de este párrafo. Abordé este tema después de leer algunos comentarios de lectores estadounidenses que vieron contradicciones con la ciencia, aunque me parece que este párrafo puede estar completamente de acuerdo con los conocimientos actuales.]_
 
-> En Orvonton nunca ha sido posible reunir de forma natural más de cien electrones orbitales en un solo sistema atómico. Cuando ciento un electrones se han introducido artificialmente en un campo orbital, el resultado siempre ha sido la desorganización casi instantánea del protón central y la dispersión desordenada de los electrones y de otras energías liberadas. ([LU 42:7.7](/es/The_Urantia_Book/42#p7_7))
+> En Orvonton nunca ha sido posible reunir de forma natural más de cien electrones orbitales en un solo sistema atómico. Cuando ciento un electrones se han introducido artificialmente en un campo orbital, el resultado siempre ha sido la desorganización casi instantánea del protón central y la dispersión desordenada de los electrones y de otras energías liberadas. (<a id="a77_367"></a>[LU 42:7.7](/es/The_Urantia_Book/42#p7_7))
 
 **TIENE. Una dislocación casi instantánea.**
 
@@ -84,7 +84,7 @@ El término “instantáneo” significa “que precede o sigue sin intermediari
 La versión de 1955 hablaba de “una dislocación instantánea” del protón central. El término «cuasi» se añadió a la segunda edición con la explicación de que nada es «instantáneo» en el universo físico. Siempre habría un período de tiempo independientemente del proceso físico.
 Por lo tanto, durante la impresión, el término podría haberse olvidado.
 
-Y es cierto que en otras dos ocasiones El Libro de Urantia habla de “casi instantaneidad” cuando habla de la disolución del cuerpo físico de Jesús, cuyo proceso se produjo casi sin intermediarios (cf. [LU 189:2.4](/es/The_Urantia_Book/189#p2_4)).
+Y es cierto que en otras dos ocasiones El Libro de Urantia habla de “casi instantaneidad” cuando habla de la disolución del cuerpo físico de Jesús, cuyo proceso se produjo casi sin intermediarios (cf. <a id="a86_201"></a>[LU 189:2.4](/es/The_Urantia_Book/189#p2_4)).
 
 **B. El protón central y el momento de su dislocación.**
 
@@ -95,7 +95,7 @@ Y, de hecho, podemos plantearnos una serie de preguntas sobre este pasaje:
 - _¿Significa el texto que la dislocación del protón central se produce inmediatamente después de la adición del electrón 101^?_ (Parecería entonces haber una contradicción con los experimentos científicos)
 - _¿El texto habla de una dislocación abrupta del protón central después de un cierto período de tiempo tras la adición del electrón 101^?_ (Lo cual parecería estar de acuerdo con la ciencia)
 
-El texto nos habla de la dislocación del protón central y no del núcleo del átomo (recordemos que el protón es una de las partículas del núcleo atómico). De hecho, el texto utiliza claramente las dos expresiones como descripción de dos cuerpos diferentes (cf. [LU 42:7.2-4](/es/The_Urantia_Book/42#p7_2)).
+El texto nos habla de la dislocación del protón central y no del núcleo del átomo (recordemos que el protón es una de las partículas del núcleo atómico). De hecho, el texto utiliza claramente las dos expresiones como descripción de dos cuerpos diferentes (cf. <a id="a97_260"></a>[LU 42:7.2-4](/es/The_Urantia_Book/42#p7_2)).
 
 Y sea lo uno o lo otro, esta dislocación conduce a una descomposición de todo el átomo ya que el texto especifica “**... y una loca dispersión de electrones y otras energías liberadas.* *”. A menos que esta liberación de energía se produzca después de un cierto período de tiempo.
 
@@ -116,7 +116,7 @@ Un átomo puede estar, por ejemplo, en diferentes estados al mismo tiempo.
 
 Usando la siguiente analogía, es como si, en nuestro mundo cotidiano, una puerta pudiera estar abierta y cerrada. Este comportamiento confuso de los átomos también se menciona en 42:7.10:
 
-> Los primeros veintisiete átomos, aquellos que contienen de uno a veintisiete electrones orbitales, son más fáciles de comprender que los demás. Del veintiocho en adelante nos encontramos cada vez más con la imprevisibilidad de la supuesta presencia del Absoluto Incalificado. Pero una parte de esta imprevisibilidad electrónica se debe a las diferentes velocidades de rotación axial de los ultimatones y a su tendencia inexplicable a «apiñarse». Otras influencias —físicas, eléctricas, magnéticas y gravitatorias— también actúan para producir un comportamiento electrónico variable. Los átomos son pues similares a las personas en cuanto a su previsibilidad. Los estadísticos pueden anunciar las leyes que gobiernan a un gran número de átomos o de personas, pero éstas no sirven para un solo átomo o una sola persona. ([LU 42:7.10](/es/The_Urantia_Book/42#p7_10))
+> Los primeros veintisiete átomos, aquellos que contienen de uno a veintisiete electrones orbitales, son más fáciles de comprender que los demás. Del veintiocho en adelante nos encontramos cada vez más con la imprevisibilidad de la supuesta presencia del Absoluto Incalificado. Pero una parte de esta imprevisibilidad electrónica se debe a las diferentes velocidades de rotación axial de los ultimatones y a su tendencia inexplicable a «apiñarse». Otras influencias —físicas, eléctricas, magnéticas y gravitatorias— también actúan para producir un comportamiento electrónico variable. Los átomos son pues similares a las personas en cuanto a su previsibilidad. Los estadísticos pueden anunciar las leyes que gobiernan a un gran número de átomos o de personas, pero éstas no sirven para un solo átomo o una sola persona. (<a id="a118_821"></a>[LU 42:7.10](/es/The_Urantia_Book/42#p7_10))
 
 **La ciencia también se pregunta cómo el mundo clásico en el que vivimos puede coexistir con el extraño mundo microscópico. Y una teoría fue desarrollada en 1980 por Wojciech Zurech y Murray Gell-Mann (ver ***Science & Vie*** nº 977, p.39). Esta es la “teoría de la decoherencia” que explica que los átomos interactúan entre sí para confundir los fenómenos cuánticos y permitir que nuestro mundo sea lo que es con las leyes que conocemos y que tanto contrastan con las de lo infinitamente pequeño.**
 
@@ -130,7 +130,7 @@ Me llamó la atención un artículo de la revista “_Sciences et Avenir_”, _n
 
 Recuerde que los cromosomas son elementos en forma de bastón del núcleo de nuestras células, que contienen genes, los soportes materiales de la herencia.
 
-Cabe señalar que _El Libro de Urantia_ utiliza el término cromosoma sólo una vez (ver [LU 77:2.5](/es/The_Urantia_Book/77#p2_5)). De lo contrario, habla de “**unidades de control arquetípico: los determinantes de las características**” (cf. [LU 36:2.11](/es/The_Urantia_Book/36#p2_11)). Nuestras celdas contienen 48 de estas unidades. Pero la ciencia habla de 46 cromosomas. Habría por tanto 2 unidades que no conoceríamos.
+Cabe señalar que _El Libro de Urantia_ utiliza el término cromosoma sólo una vez (ver <a id="a132_86"></a>[LU 77:2.5](/es/The_Urantia_Book/77#p2_5)). De lo contrario, habla de “**unidades de control arquetípico: los determinantes de las características**” (cf. <a id="a132_241"></a>[LU 36:2.11](/es/The_Urantia_Book/36#p2_11)). Nuestras celdas contienen 48 de estas unidades. Pero la ciencia habla de 46 cromosomas. Habría por tanto 2 unidades que no conoceríamos.
 
 El artículo de la citada revista explica el papel de una molécula llamada «**histona**» que sería (se trata de una hipótesis) «un segundo código biológico, contenido en proteínas, que transforma el ADN en cromosomas». “Las histonas son pequeñas proteínas responsables de empaquetar el ADN. ".
 
@@ -144,7 +144,7 @@ Y por tanto tendríamos 46 cromosomas pero 48 unidades de control arquetípicas 
 
 ## Los efectos de las influencias gravitacionales sobre los cuerpos espaciales.
 
-> Los planetas más cercanos al Sol fueron los primeros que aminoraron su rotación debido a la fricción mareomotriz. Estas influencias gravitatorias contribuyen también a la estabilización de las órbitas planetarias, ya que actúan como un freno sobre la velocidad de rotación axial del planeta; esto hace que un planeta gire cada vez más lentamente hasta que se detiene su rotación axial, quedando un hemisferio del planeta siempre vuelto hacia el Sol o el cuerpo más grande, tal como lo demuestran el planeta Mercurio y la Luna, la cual siempre presenta la misma cara a Urantia. ([LU 57:6.2](/es/The_Urantia_Book/57#p6_2))
+> Los planetas más cercanos al Sol fueron los primeros que aminoraron su rotación debido a la fricción mareomotriz. Estas influencias gravitatorias contribuyen también a la estabilización de las órbitas planetarias, ya que actúan como un freno sobre la velocidad de rotación axial del planeta; esto hace que un planeta gire cada vez más lentamente hasta que se detiene su rotación axial, quedando un hemisferio del planeta siempre vuelto hacia el Sol o el cuerpo más grande, tal como lo demuestran el planeta Mercurio y la Luna, la cual siempre presenta la misma cara a Urantia. (<a id="a146_580"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2))
 
 **TIENE. La rotación axial de la Luna y Mercurio.**
 
@@ -182,7 +182,7 @@ Un artículo en una revista titulada “_Ciel et Espace_”, _nº 389, octubre d
 
 Además, los nuevos mapas cosmológicos sobre las faltas de homogeneidad de la luz fría (esta luz constituiría el 99,9% de toda la luz existente), publicados en abril de 2001 y mayo de 2002, confirman la planitud del Universo.
 
-Este tópico, _ya predicho por El Libro de Urantia en [LU 15:1.2](/es/The_Urantia_Book/15#p1_2)_, fue recientemente, una vez más, resaltado por el envío de un globo a 30 km de altitud para medir el fondo cosmológico (la radiación primordial que sería emitida durante la Big Bang) para medir la densidad del Universo (cf. _Science & Vie, número especial, nº 221, diciembre de 2002, p. 158_). Esta medida confirmaría la expansión del Universo, que se ralentizaría pero sólo se detendría en un tiempo infinito.
+Este tópico, _ya predicho por El Libro de Urantia en <a id="a184_53"></a>[LU 15:1.2](/es/The_Urantia_Book/15#p1_2)_, fue recientemente, una vez más, resaltado por el envío de un globo a 30 km de altitud para medir el fondo cosmológico (la radiación primordial que sería emitida durante la Big Bang) para medir la densidad del Universo (cf. _Science & Vie, número especial, nº 221, diciembre de 2002, p. 158_). Esta medida confirmaría la expansión del Universo, que se ralentizaría pero sólo se detendría en un tiempo infinito.
 
 Según el artículo, ahora debemos tener en cuenta 3 elementos que gobiernan el Universo:
 - Expansión (_El Libro de Urantia_ habla de una respiración cíclica del Universo).

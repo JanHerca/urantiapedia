@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="pr-2">Consejo dado a Miguel de Nebadon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -20,12 +44,12 @@ Sainte-Julie
 
 ¡Hola queridos lectores de su revista Réflectivité!
 
-En este artículo vislumbraremos la grandeza y magnificencia de los inmensos agregados de materia ubicados en los niveles del espacio exterior, al menos en el primer nivel. Ahora se nos revela «_que al menos setenta mil agregados de materia, cada uno de los cuales es más grande que cualquier superuniverso del tiempo presente_» [LU 31:10.19](/es/The_Urantia_Book/31#p10_19) están en preparación para las próximas edades del universo. Todos tenemos un gran interés en conocer estas inmensidades estelares, porque seremos llamados, como miembros del Cuerpo de Finalidad, a algún servicio futuro en estos universos del espacio exterior.
+En este artículo vislumbraremos la grandeza y magnificencia de los inmensos agregados de materia ubicados en los niveles del espacio exterior, al menos en el primer nivel. Ahora se nos revela «_que al menos setenta mil agregados de materia, cada uno de los cuales es más grande que cualquier superuniverso del tiempo presente_» <a id="a46_328"></a>[LU 31:10.19](/es/The_Urantia_Book/31#p10_19) están en preparación para las próximas edades del universo. Todos tenemos un gran interés en conocer estas inmensidades estelares, porque seremos llamados, como miembros del Cuerpo de Finalidad, a algún servicio futuro en estos universos del espacio exterior.
 
-Para situarnos en este inmenso cosmos, sabemos, por los reveladores, que partiendo «_desde el sistema más distante de mundos habitados hasta el centro del superuniverso, hay poco menos de doscientos cincuenta mil años luz_» ( [LU 32:2.11](/es/The_Urantia_Book/32#p2_11)). Lo que nos da un diámetro de quinientos mil años luz para Orvonton. Está escrito que entre los superuniversos y el primer nivel del espacio exterior existe una zona tranquila cuyo ancho es en promedio de cuatrocientos mil años luz ([LU 12:1.14](/es/The_Urantia_Book/12#p1_14)). Luego, «_cerca de medio millón de años-luz más allá de la periferia del gran universo actual, observamos los comienzos de una zona de actividades energéticas increíbles cuyo volumen e intensidad aumentan durante más de veinticinco millones de años-luz_». Lógicamente, podemos deducir que si esta zona aumenta en intensidad a lo largo de veinticinco millones de años luz, disminuye en una distancia igualmente grande. Entonces el espesor total sería de cincuenta millones de años luz. Siendo esta la región del primer nivel del espacio exterior.
+Para situarnos en este inmenso cosmos, sabemos, por los reveladores, que partiendo «_desde el sistema más distante de mundos habitados hasta el centro del superuniverso, hay poco menos de doscientos cincuenta mil años luz_» ( <a id="a48_226"></a>[LU 32:2.11](/es/The_Urantia_Book/32#p2_11)). Lo que nos da un diámetro de quinientos mil años luz para Orvonton. Está escrito que entre los superuniversos y el primer nivel del espacio exterior existe una zona tranquila cuyo ancho es en promedio de cuatrocientos mil años luz (<a id="a48_504"></a>[LU 12:1.14](/es/The_Urantia_Book/12#p1_14)). Luego, «_cerca de medio millón de años-luz más allá de la periferia del gran universo actual, observamos los comienzos de una zona de actividades energéticas increíbles cuyo volumen e intensidad aumentan durante más de veinticinco millones de años-luz_». Lógicamente, podemos deducir que si esta zona aumenta en intensidad a lo largo de veinticinco millones de años luz, disminuye en una distancia igualmente grande. Entonces el espesor total sería de cincuenta millones de años luz. Siendo esta la región del primer nivel del espacio exterior.
 <br style="clear:both;"/>
 
-También se nos revela que a más de «_cincuenta millones de años-luz más allá de las zonas más exteriores de los fenómenos del primer nivel del espacio exterior_», los físicos de Uversa han detectado señales de alerta de demostraciones de fuerza ([LU 12:1.15](/es/The_Urantia_Book/12#p1_15)). Esta sería la organización de las creaciones materiales del segundo nivel del espacio exterior. ¡Te dejaré imaginar y deducir las colosales dimensiones del tercer y cuarto nivel del espacio exterior! William S. Sadler Jr. ha hecho un estudio detallado de esto en su Apéndice XVI que se puede leer en el sitio web de la Fundación Urantia.
+También se nos revela que a más de «_cincuenta millones de años-luz más allá de las zonas más exteriores de los fenómenos del primer nivel del espacio exterior_», los físicos de Uversa han detectado señales de alerta de demostraciones de fuerza (<a id="a51_246"></a>[LU 12:1.15](/es/The_Urantia_Book/12#p1_15)). Esta sería la organización de las creaciones materiales del segundo nivel del espacio exterior. ¡Te dejaré imaginar y deducir las colosales dimensiones del tercer y cuarto nivel del espacio exterior! William S. Sadler Jr. ha hecho un estudio detallado de esto en su Apéndice XVI que se puede leer en el sitio web de la Fundación Urantia.
 
 Entonces, ¡dejemos nuestro sistema solar y emprendamos el descubrimiento de estos inmensos agregados encontrados hasta ahora por nuestros astrónomos urantianos! Dependiendo de la dirección a la que apunten los telescopios, los cúmulos enumerados en la siguiente lista se encuentran en el nivel del superuniverso, en el primer nivel del espacio exterior o incluso en el segundo nivel. Me gustaría señalar que todas las ilustraciones son del sitio web _Simply Space_. Cada uno de los cúmulos descritos en esta lista contiene miles de millones de galaxias, nebulosas, quásares, estrellas, etc.
 
@@ -198,3 +222,28 @@ Entonces ! ¡Espero que esta incursión en el reino del espacio exterior haya si
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="pr-2">Consejo dado a Miguel de Nebadon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

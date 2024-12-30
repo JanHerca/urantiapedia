@@ -37,11 +37,11 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 **Folleto 88.2**
 
-> «Las palabras se volvieron finalmente fetiches, en particular aquellas que se consideraban como las palabras de Dios; los libros sagrados de muchas religiones se han convertido de esta manera en prisiones fetichistas que encarcelan la imaginación espiritual de los hombres. El esfuerzo mismo de Moisés contra los fetiches se convirtió en un supremo fetiche; su mandamiento fue utilizado más tarde para aniquilar el arte y retrasar el disfrute y la adoración de lo hermoso.» ([LU 88:2.6](/es/The_Urantia_Book/88#p2_6))
+> «Las palabras se volvieron finalmente fetiches, en particular aquellas que se consideraban como las palabras de Dios; los libros sagrados de muchas religiones se han convertido de esta manera en prisiones fetichistas que encarcelan la imaginación espiritual de los hombres. El esfuerzo mismo de Moisés contra los fetiches se convirtió en un supremo fetiche; su mandamiento fue utilizado más tarde para aniquilar el arte y retrasar el disfrute y la adoración de lo hermoso.» (<a id="a39_477"></a>[LU 88:2.6](/es/The_Urantia_Book/88#p2_6))
 
-> «En los tiempos antiguos, la palabra de autoridad fetiche era una *doctrina* que inspiraba temor, el más terrible de todos los tiranos que esclavizan al hombre. Un fetiche doctrinal conducirá al hombre mortal a echarse en las garras de la mojigatería, el fanatismo, la superstición, la intolerancia y las crueldades bárbaras más atroces. El respeto moderno por la sabiduría y la verdad no es más que una huida reciente de la tendencia a crear fetiches hacia unos niveles más elevados de pensamiento y razonamiento. En lo que concierne a los escritos fetiches acumulados que diversos practicantes de la religión consideran como *libros sagrados*{7}, no solamente creen que lo que figura en el libro es verdad, sino que el libro contiene toda la verdad. Si uno de estos libros sagrados dice por casualidad que la Tierra es plana, entonces, durante largas generaciones, los hombres y las mujeres por otra parte sensatos se negarán a aceptar las pruebas positivas de que el planeta es redondo.» ([LU 88:2.7](/es/The_Urantia_Book/88#p2_7))
+> «En los tiempos antiguos, la palabra de autoridad fetiche era una *doctrina* que inspiraba temor, el más terrible de todos los tiranos que esclavizan al hombre. Un fetiche doctrinal conducirá al hombre mortal a echarse en las garras de la mojigatería, el fanatismo, la superstición, la intolerancia y las crueldades bárbaras más atroces. El respeto moderno por la sabiduría y la verdad no es más que una huida reciente de la tendencia a crear fetiches hacia unos niveles más elevados de pensamiento y razonamiento. En lo que concierne a los escritos fetiches acumulados que diversos practicantes de la religión consideran como *libros sagrados*{7}, no solamente creen que lo que figura en el libro es verdad, sino que el libro contiene toda la verdad. Si uno de estos libros sagrados dice por casualidad que la Tierra es plana, entonces, durante largas generaciones, los hombres y las mujeres por otra parte sensatos se negarán a aceptar las pruebas positivas de que el planeta es redondo.» (<a id="a41_994"></a>[LU 88:2.7](/es/The_Urantia_Book/88#p2_7))
 
-> «Para volverse fetiches, las palabras tenían que ser consideradas como inspiradas, y la invocación de unos escritos supuestamente inspirados por la divinidad condujo directamente al establecimiento de la *autoridad* de la iglesia, mientras que la evolución de las formas civiles condujo a la instauración de la *autoridad* del Estado.» ([LU 88:2.10](/es/The_Urantia_Book/88#p2_10))
+> «Para volverse fetiches, las palabras tenían que ser consideradas como inspiradas, y la invocación de unos escritos supuestamente inspirados por la divinidad condujo directamente al establecimiento de la *autoridad* de la iglesia, mientras que la evolución de las formas civiles condujo a la instauración de la *autoridad* del Estado.» (<a id="a43_339"></a>[LU 88:2.10](/es/The_Urantia_Book/88#p2_10))
 
 A menudo veo:
 El Libro de Urantia decía...
@@ -61,9 +61,9 @@ A) El tema de Ajustadores del Pensamiento se desarrolla en 6 fascículos, del 10
 
 Sin embargo, saltemos a la vida de Jesús, que es fuente de inspiración.
 
-> «A través de todos estos años, aunque no parecía dedicarse a muchos períodos de comunión formal con su Padre celestial, perfeccionó unos métodos cada vez más eficaces para comunicarse personalmente con la presencia espiritual interior del Padre Paradisiaco. Vivió una vida real, una vida plena y una verdadera vida en la carne, normal, natural y corriente. Conoce por experiencia personal lo equivalente a la realidad de todo lo esencial de la vida que viven los seres humanos en los mundos materiales del tiempo y del espacio.» ([LU 129:4.3](/es/The_Urantia_Book/129#p4_3))
+> «A través de todos estos años, aunque no parecía dedicarse a muchos períodos de comunión formal con su Padre celestial, perfeccionó unos métodos cada vez más eficaces para comunicarse personalmente con la presencia espiritual interior del Padre Paradisiaco. Vivió una vida real, una vida plena y una verdadera vida en la carne, normal, natural y corriente. Conoce por experiencia personal lo equivalente a la realidad de todo lo esencial de la vida que viven los seres humanos en los mundos materiales del tiempo y del espacio.» (<a id="a63_532"></a>[LU 129:4.3](/es/The_Urantia_Book/129#p4_3))
 
-Volvamos a [LU 109:5.3](/es/The_Urantia_Book/109#p5_3): INCAPACIDADES MATERIALES EN LA ESTANCIA DEL AJUSTADOR.
+Volvamos a <a id="a65_11"></a>[LU 109:5.3](/es/The_Urantia_Book/109#p5_3): INCAPACIDADES MATERIALES EN LA ESTANCIA DEL AJUSTADOR.
 
 Se culpa a los humanos: “***pero vuestras actitudes mentales inestables y a menudo cambiantes tienen con frecuencia el efecto de frustrar los planes de los Ajustadores e interrumpir su trabajo***”
 
@@ -75,7 +75,7 @@ Lo sabemos, pero no te lo diremos, ocúpate de ello.
 
 Entonces, para obtener una respuesta, los invito a continuar una búsqueda que hice:
 
-> «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores.» ([LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
+> «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores.» (<a id="a77_786"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
 
 Por mi parte, he identificado otros dos Libros como obra del Ajustador o del Padre.
 
@@ -91,7 +91,7 @@ LA PEQUEÑA VOZ de Eileen CADDY, Meditación diaria, en la página del 29 de ene
 
 En la página del 23 de junio “_...¿Déjame guiarte a través de estas aguas turbulentas? Te guiaré a través de cada dificultad hacia aguas tranquilas y tranquilas..._”
 
-Jesús [LU 155:5.11](/es/The_Urantia_Book/155#p5_11), toma el mismo ejemplo:
+Jesús <a id="a93_6"></a>[LU 155:5.11](/es/The_Urantia_Book/155#p5_11), toma el mismo ejemplo:
 
 > “***Hombres de fe que viajan por alta mar, por los océanos de la verdad inexplorada en busca de las lejanas costas de las verdades espirituales.***”
 

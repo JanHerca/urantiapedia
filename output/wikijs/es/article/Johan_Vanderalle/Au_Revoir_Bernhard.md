@@ -73,7 +73,7 @@ De hecho, ¡somos tan complementarios!
 
 El Libro de Urantia siempre nos ha inspirado, termino con un texto del Libro LU 5:1.7:
 
-> «El hombre está habitado espiritualmente por un Ajustador del Pensamiento que sobrevive. Si esa mente humana está sincera y espiritualmente motivada, si ese alma humana desea conocer a Dios y volverse semejante a él, si quiere hacer honradamente la voluntad del Padre, no existe ninguna influencia negativa de privaciones mortales ni ningún auténtico poder de interferencia posible que pueda impedir a ese alma divinamente motivada ascender con toda seguridad hasta las puertas del Paraíso.» ([LU 5:1.7](/es/The_Urantia_Book/5#p1_7))
+> «El hombre está habitado espiritualmente por un Ajustador del Pensamiento que sobrevive. Si esa mente humana está sincera y espiritualmente motivada, si ese alma humana desea conocer a Dios y volverse semejante a él, si quiere hacer honradamente la voluntad del Padre, no existe ninguna influencia negativa de privaciones mortales ni ningún auténtico poder de interferencia posible que pueda impedir a ese alma divinamente motivada ascender con toda seguridad hasta las puertas del Paraíso.» (<a id="a75_495"></a>[LU 5:1.7](/es/The_Urantia_Book/5#p1_7))
 
 
 

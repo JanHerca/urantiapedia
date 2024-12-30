@@ -349,6 +349,6 @@ El científico agnóstico tuerto se equivoca cuando insiste en que el determinis
 
 [^15]: “Creencia y realidad del libre albedrío” R. Baumeister, C. Clark \& J. Luguri, cap. 4 p 51 en [1] 
 
-[^16]: _El libro de Urantia_, (El libro de Urantia) Fundación Urantia, RR Donnelly \& Sons, Chicago 1955, p. 1431. ([LU 130:2.10](/es/The_Urantia_Book/130#p2_10))
+[^16]: _El libro de Urantia_, (El libro de Urantia) Fundación Urantia, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a351_116"></a>[LU 130:2.10](/es/The_Urantia_Book/130#p2_10))
 
 [^17]: “Creencia y realidad del libre albedrío” R. Baumeister, C. Clark \& J. Luguri, Capítulo 4 p65 en [1]

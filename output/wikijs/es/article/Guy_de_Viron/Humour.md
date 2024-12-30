@@ -47,7 +47,7 @@ La religión debería tener el humor como contrapeso. (P.1616 — §5) Dado que 
 
 El humor debe funcionar como una válvula de seguridad automática para evitar la acumulación de presiones excesivas debido a la monotonía de la autocontemplación seria y continua asociada a la lucha por desarrollarse gradualmente y alcanzar noblemente.
 
-El humor también actúa para reducir el impacto inesperado de los hechos y la verdad. Los hechos son rígidos e inflexibles: la verdad es flexible y siempre viva. La personalidad mortal nunca está segura de lo que le sucederá. A través del humor, capta rápidamente (ve de qué se trata y se vuelve perspicaz) la naturaleza inesperada de la situación, ya sea un hecho o la verdad. ([LU 48:4.18](/es/The_Urantia_Book/48#p4_18))
+El humor también actúa para reducir el impacto inesperado de los hechos y la verdad. Los hechos son rígidos e inflexibles: la verdad es flexible y siempre viva. La personalidad mortal nunca está segura de lo que le sucederá. A través del humor, capta rápidamente (ve de qué se trata y se vuelve perspicaz) la naturaleza inesperada de la situación, ya sea un hecho o la verdad. (<a id="a49_378"></a>[LU 48:4.18](/es/The_Urantia_Book/48#p4_18))
 
 A través del presente enlace, no pretendo publicar una obra maestra de verdadero humor de calidad superior. Sólo un pequeño momento de relajación espiritual con textos muy ligeros y no agresivos.
 

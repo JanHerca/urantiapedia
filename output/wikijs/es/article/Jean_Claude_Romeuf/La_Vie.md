@@ -70,7 +70,7 @@ La Vida del hombre toma tres aspectos:
 
 Cuando un planeta ha sido elegido por un Hijo Creador y una Madre Divina, el objetivo de la Vida es hacer aparecer allí por evolución seres capaces de buscar y encontrar a Dios. ¡El único ser que verdaderamente puede cambiar de envoltura, transformarse, es el Hombre!
 
-Partiendo prácticamente de la nada, a partir de unas pocas células vegetales colocadas en un caldo de cultivo, el juego, que durará cientos de millones de años, consistirá inicialmente en preparar el jardín que albergará en el futuro a una pareja de seres humanos capaces de elegir. Los dados están en manos de los Portadores de Vida que inicialmente operarán en “el nivel físico de la electroquímica” [LU 65:1.3](/es/The_Urantia_Book/65#p1_3)
+Partiendo prácticamente de la nada, a partir de unas pocas células vegetales colocadas en un caldo de cultivo, el juego, que durará cientos de millones de años, consistirá inicialmente en preparar el jardín que albergará en el futuro a una pareja de seres humanos capaces de elegir. Los dados están en manos de los Portadores de Vida que inicialmente operarán en “el nivel físico de la electroquímica” <a id="a72_402"></a>[LU 65:1.3](/es/The_Urantia_Book/65#p1_3)
 
 La vida material o física se diferenció en los albores del tiempo planetario:
 
@@ -84,7 +84,7 @@ Aquí en Urantia, el aliento de vida es divinamente redistribuido por la Divina 
 
 Son los Portadores de Vida quienes organizaron el establecimiento de la Vida y programaron el desarrollo de diferentes organismos vivos.
 
-Bajo la jurisdicción de los Líderes Supremos del Paraíso que tienen la desafortunada costumbre de no tener nunca prisa porque en el Paraíso el tiempo no existe, han elegido el modelo de vida, que en Urantia, es un modelo de cloruro de sodio. Antes de establecer la Vida, hubo que esperar hasta que las aguas estuvieran suficientemente saladas, es decir hubo que esperar entre trescientos y cuatrocientos millones de años después de que el océano primordial cubriera la corteza terrestre, en condiciones físicas favorables. Los Portadores de Vida podrían completar la evolución completa en mucho menos de un millón de años. ([LU 65:8](/es/The_Urantia_Book/65#p8))
+Bajo la jurisdicción de los Líderes Supremos del Paraíso que tienen la desafortunada costumbre de no tener nunca prisa porque en el Paraíso el tiempo no existe, han elegido el modelo de vida, que en Urantia, es un modelo de cloruro de sodio. Antes de establecer la Vida, hubo que esperar hasta que las aguas estuvieran suficientemente saladas, es decir hubo que esperar entre trescientos y cuatrocientos millones de años después de que el océano primordial cubriera la corteza terrestre, en condiciones físicas favorables. Los Portadores de Vida podrían completar la evolución completa en mucho menos de un millón de años. (<a id="a86_624"></a>[LU 65:8](/es/The_Urantia_Book/65#p8))
 
 Cuando el nivel de salinidad fue adecuado, establecieron vida en tres de los mares interiores poco profundos del planeta. La razón es obvia porque antes de que aparecieran los animales, la luz tenía que poder permitir el desarrollo de las plantas para asegurar la fotosíntesis y la producción de oxígeno.
 
@@ -136,17 +136,17 @@ Las plantas sometidas a la mente mecánica eran sensibles al entorno que las rod
 
 Han surgido muchos seres vivos intermedios de los cuales la esponja es el principal superviviente. Estos seres vivos no eran ni plantas ni animales. Sin duda, un número increíble de individuos de este tipo debió sufrir una modificación del genoma celular, para que la mente inteligente apareciera y se extendiera por espacios muy amplios.
 
-No creo que un paramecio, que es una célula animal, pueda ser considerado como un animal, sino que se parece a la ameba, que es el tipo mismo del organismo animal unicelular que se ha perpetuado casi sin modificaciones desde la noche del tiempo. ([LU 65:2.4](/es/The_Urantia_Book/65#p2_4)) Al reaccionar al tropismo de la luz, el paramecio no demuestra una percepción rápida por el don de un instinto reflejo primitivo que es específico del ayudante de la _intuición_.
+No creo que un paramecio, que es una célula animal, pueda ser considerado como un animal, sino que se parece a la ameba, que es el tipo mismo del organismo animal unicelular que se ha perpetuado casi sin modificaciones desde la noche del tiempo. (<a id="a138_247"></a>[LU 65:2.4](/es/The_Urantia_Book/65#p2_4)) Al reaccionar al tropismo de la luz, el paramecio no demuestra una percepción rápida por el don de un instinto reflejo primitivo que es específico del ayudante de la _intuición_.
 
 Sin embargo, fueron los organismos animales unicelulares parecidos a la ameba y sus primos los que de repente estuvieron en el origen de la llegada de los siete espíritus mentales ayudantes.
 
 Estos organismos animales primordiales, que fueron las primeras células animales, cuando se agruparon en colonias, formaron rudimentarios animales multicelulares que, sin mencionarlos a todos, eran comparables a la hidra y a la medusa. Luego les llegó el turno a las ostras, los erizos de mar, los insectos, los crustáceos y las lombrices de tierra y asumieron su papel.
 
-El hecho de que seas el primero no significa que seas necesariamente el más inteligente. No en vano el Libro de Urantia hace una lista de estos _animales primitivos e inferiores, ramas del árbol de la vida que no lograron progresar_. ([LU 65:2.5](/es/The_Urantia_Book/65#p2_5))
+El hecho de que seas el primero no significa que seas necesariamente el más inteligente. No en vano el Libro de Urantia hace una lista de estos _animales primitivos e inferiores, ramas del árbol de la vida que no lograron progresar_. (<a id="a144_235"></a>[LU 65:2.5](/es/The_Urantia_Book/65#p2_5))
 
 Se puede decir con seguridad que el ayudante que domina su mente inteligente es el espíritu de la intuición, responsable de la percepción rápida y de los instintos reflejos primitivos, la facultad de orientación y el instinto de autoconservación (un cangrejo huye hacia el mar y se protege pellizcando el agresor).
 
-El ayudante de la intuición es el único que puede establecer contacto con los niveles inenseñables de la mente no-máquina ([LU 36:5.5](/es/The_Urantia_Book/36#p5_5)). No podemos saber si al hundirse bajo tierra cuando se intenta sacarla, una lombriz obedece al espíritu de la intuición o a la mente mecánica.
+El ayudante de la intuición es el único que puede establecer contacto con los niveles inenseñables de la mente no-máquina (<a id="a148_123"></a>[LU 36:5.5](/es/The_Urantia_Book/36#p5_5)). No podemos saber si al hundirse bajo tierra cuando se intenta sacarla, una lombriz obedece al espíritu de la intuición o a la mente mecánica.
 
 Los siete espíritus mentales que forman la mente no mecánica llegan uno tras otro. Pueden estar presentes al mismo tiempo en diferentes formas de vida, pero su intensidad cualitativa puede variar de una especie a otra e incluso de un individuo a otro. Todo depende del grado de receptividad. Lo explico tomando como ejemplo que no todos los hombres tienen la misma sensibilidad hacia los espíritus mentales ayudantes de la adoración y la sabiduría.
 
@@ -160,7 +160,7 @@ Este órgano permitirá una mejor transmisión nerviosa de los reflejos gracias 
 
 Lo mismo ocurrirá con los reptiles en los que sin duda se inauguró el espíritu de valentía.
 
-Ya que el Libro nos dice: “_Después de la aparición de los mamíferos, vimos <ins>el espíritu de conocimiento</ins> manifestarse en mayor medida. Luego la evolución de los mamíferos superiores permitió el funcionamiento del <ins>espíritu de consejo</ins>._ ([LU 62:6.4](/es/The_Urantia_Book/62#p6_4))", por lo que podemos deducir que las aves que fueron engendradas por los dinosaurios poseían como ellos el ayudante de coraje. Sin duda, sus mentes han sido sensibilizadas por el ayudante del conocimiento, pero en un grado muy débil.
+Ya que el Libro nos dice: “_Después de la aparición de los mamíferos, vimos <ins>el espíritu de conocimiento</ins> manifestarse en mayor medida. Luego la evolución de los mamíferos superiores permitió el funcionamiento del <ins>espíritu de consejo</ins>._ (<a id="a162_257"></a>[LU 62:6.4](/es/The_Urantia_Book/62#p6_4))", por lo que podemos deducir que las aves que fueron engendradas por los dinosaurios poseían como ellos el ayudante de coraje. Sin duda, sus mentes han sido sensibilizadas por el ayudante del conocimiento, pero en un grado muy débil.
 
 Los reptiles no han tenido un descenso evolutivo progresivo dentro de su especie: los cocodrilos, las tortugas, las serpientes y los lagartos son prácticamente los mismos que en la prehistoria, no han mejorado.
 

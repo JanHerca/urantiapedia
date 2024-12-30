@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-> «20. Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria.» ([LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
+> «20. Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria.» (<a id="a37_99"></a>[LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
 
 12 de octubre de 1955: publicación en Chicago del _Libro de Urantia_. El año 1955 es una cosecha excepcional para las lecturas pasadas, presentes y futuras del _Libro de Urantia_.
 
@@ -83,7 +83,7 @@ _Nota 1_: Pierre Delanoë escribió varios éxitos de Gilbert Bécaud — de los
 
 _Nota 2_: Las Navidades... y los diluvios: Noé, del hebreo nuah (descansar), nombre que parece más o menos una traducción o adaptación del nombre del héroe del diluvio sumerio Ziusudra (vida de jornadas largas).
 
-El [LU 78:7.2](/es/The_Urantia_Book/78#p7_2) “_Las inundaciones de Mesopotamia_” habla precisamente de esta inundación sumeria y de Noé, viticultor de Aram. En las leyendas hawaianas, el héroe del diluvio se llama Nuu y en las leyendas chinas se le llama Nuwa.
+El <a id="a85_3"></a>[LU 78:7.2](/es/The_Urantia_Book/78#p7_2) “_Las inundaciones de Mesopotamia_” habla precisamente de esta inundación sumeria y de Noé, viticultor de Aram. En las leyendas hawaianas, el héroe del diluvio se llama Nuu y en las leyendas chinas se le llama Nuwa.
 
 En este artículo, el poeta Pierre Delanoë evoca a Bertrand Delanoë, actual alcalde de París, ciudad cuyo lema “_Fluctuat nec mergitur_” es todo un programa, en caso de inundación.
 

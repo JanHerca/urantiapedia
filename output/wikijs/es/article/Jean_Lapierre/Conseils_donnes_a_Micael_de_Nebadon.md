@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Lapierre<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agregados de materia en niveles espaciales.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Charte_canadienne_des_droits_et_libertes">
+          <span class="pr-2">Carta Canadiense de Derechos y Libertades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -22,12 +46,12 @@ Hola Gaetan,
 
 Gracias nuevamente por su sólida conferencia sobre el pensamiento luciferino del 19 de marzo de 2023. Nos hace darnos cuenta de que muy a menudo él está detrás de eventos dañinos que incluso actualmente están sucediendo en nuestro planeta. Me gustaría llamar su atención sobre la lógica de los siguientes hechos:
 
-Cuando Emmanuel dio sus recomendaciones a Micaël antes de emprender su séptima y última efusión para convertirse en Hijo Maestro de su universo, le dijo en particular: [LU 120:2.3](/es/The_Urantia_Book/120#p2_3) «... _Cuando hayas logrado poner fin a la secesión en Urantia, cosa que harás indudablemente, te aconsejo que aceptes que Gabriel te confiera el título de ‘Príncipe Planetario de Urantia’ como reconocimiento eterno de tu universo por tu experiencia final de donación, y que además hagas todo lo posible, que sea consecuente con el significado de tu donación, por reparar la aflicción y la confusión causadas en Urantia por la traición de Caligastia y la falta adámica posterior_».
+Cuando Emmanuel dio sus recomendaciones a Micaël antes de emprender su séptima y última efusión para convertirse en Hijo Maestro de su universo, le dijo en particular: <a id="a48_168"></a>[LU 120:2.3](/es/The_Urantia_Book/120#p2_3) «... _Cuando hayas logrado poner fin a la secesión en Urantia, cosa que harás indudablemente, te aconsejo que aceptes que Gabriel te confiera el título de ‘Príncipe Planetario de Urantia’ como reconocimiento eterno de tu universo por tu experiencia final de donación, y que además hagas todo lo posible, que sea consecuente con el significado de tu donación, por reparar la aflicción y la confusión causadas en Urantia por la traición de Caligastia y la falta adámica posterior_».
 <br style="clear:both;"/>
 
 Los elementos importantes son estos: 1) El Hijo del Hombre pone fin a la secesión de Urantia; 2) Lo logra; 3) Miguel se convierte en nuestro Príncipe Planetario; 4) Miguel tomará medidas para compensar la aflicción causada por la rebelión y el pecado de Adán. Muchas veces me he preguntado cuál podría ser esta compensación. No podría ser el Espíritu de la Verdad y la llegada general de los Ajustadores del Pensamiento porque con el otorgamiento de un hijo Avonal estos dos dones siempre acompañan esta operación. He llegado a la conclusión de que esta compensación es **El Libro de Urantia**. De hecho, incluso si las revelaciones contenidas en este libro son la quinta revelación de época, esta revelación no puede considerarse como una revelación que amplía principalmente las de la cuarta revelación de época porque la cuarta aún no había llegado a su plena madurez (una revelación de época normalmente expande la revelación de época). revelaciones del anterior cuando el último ha alcanzado un cierto nivel).
 
-Las revelaciones del _Libro de Urantia_ son y serán una palanca muy poderosa para posiblemente reducir la importante brecha actual entre el desarrollo científico y el de la espiritualidad. Cito dos extractos sobre lo que puede pasar si no se corrige esta brecha actual: [LU 118:8.6](/es/The_Urantia_Book/118#p8_6). La lentitud de la evolución, del progreso cultural humano, da testimonio de la eficacia de ese freno –la inercia material– que actúa tan poderosamente para frenar las peligrosas velocidades del progreso. Así, el tiempo mismo amortigua y distribuye las consecuencias (de otro modo fatales) de escapar prematuramente de las sucesivas barreras que limitan la actividad humana. Porque, cuando la cultura progresa demasiado rápido, cuando los logros materiales exceden la evolución del culto a la sabiduría, entonces la civilización contiene en sí misma las semillas de la recesión. A menos que esta civilización esté apuntalada por un rápido aumento de la sabiduría experiencial, tales sociedades humanas descenderán de los altos pero prematuros niveles que han alcanzado, y las «edades oscuras» del interregno de la sabiduría serán testigos, entonces, del inexorable resurgimiento de la desequilibrio entre la libertad del yo y el control del yo [LU 118:8.7](/es/The_Urantia_Book/118#p8_7). La iniquidad de Caligastia consistió en cortocircuitar el regulador temporal de la progresiva liberación humana. Destruyó arbitrariamente las barreras restrictivas sobre las cuales la mente de los mortales de esa época aún no había triunfado mediante la experiencia.
+Las revelaciones del _Libro de Urantia_ son y serán una palanca muy poderosa para posiblemente reducir la importante brecha actual entre el desarrollo científico y el de la espiritualidad. Cito dos extractos sobre lo que puede pasar si no se corrige esta brecha actual: <a id="a53_270"></a>[LU 118:8.6](/es/The_Urantia_Book/118#p8_6). La lentitud de la evolución, del progreso cultural humano, da testimonio de la eficacia de ese freno –la inercia material– que actúa tan poderosamente para frenar las peligrosas velocidades del progreso. Así, el tiempo mismo amortigua y distribuye las consecuencias (de otro modo fatales) de escapar prematuramente de las sucesivas barreras que limitan la actividad humana. Porque, cuando la cultura progresa demasiado rápido, cuando los logros materiales exceden la evolución del culto a la sabiduría, entonces la civilización contiene en sí misma las semillas de la recesión. A menos que esta civilización esté apuntalada por un rápido aumento de la sabiduría experiencial, tales sociedades humanas descenderán de los altos pero prematuros niveles que han alcanzado, y las «edades oscuras» del interregno de la sabiduría serán testigos, entonces, del inexorable resurgimiento de la desequilibrio entre la libertad del yo y el control del yo <a id="a53_1258"></a>[LU 118:8.7](/es/The_Urantia_Book/118#p8_7). La iniquidad de Caligastia consistió en cortocircuitar el regulador temporal de la progresiva liberación humana. Destruyó arbitrariamente las barreras restrictivas sobre las cuales la mente de los mortales de esa época aún no había triunfado mediante la experiencia.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/025.jpg">
@@ -51,7 +75,7 @@ Sainte-Sophie
 
 Hola Jean,
 
-¡Muchas gracias por tus apreciados comentarios! También estoy de acuerdo en que ***El Libro de Urantia*** es una compensación por el calvario que está pasando nuestro planeta a causa de la rebelión de Lucifer. También creo que la venida de Maquiventa Melquisedec como Hijo de ayuda ([LU 93:1.3](/es/The_Urantia_Book/93#p1_3)) así como la de Miguel como Hijo de Otorgamiento antes de la venida de un Hijo Magistral también es parte de la compensación por nuestra difícil situación. Estoy seguro de que si buscáramos otras compensaciones encontraríamos varias como tener el estatus de agondontaire.
+¡Muchas gracias por tus apreciados comentarios! También estoy de acuerdo en que ***El Libro de Urantia*** es una compensación por el calvario que está pasando nuestro planeta a causa de la rebelión de Lucifer. También creo que la venida de Maquiventa Melquisedec como Hijo de ayuda (<a id="a77_283"></a>[LU 93:1.3](/es/The_Urantia_Book/93#p1_3)) así como la de Miguel como Hijo de Otorgamiento antes de la venida de un Hijo Magistral también es parte de la compensación por nuestra difícil situación. Estoy seguro de que si buscáramos otras compensaciones encontraríamos varias como tener el estatus de agondontaire.
 
 Si me lo permite, me gustaría que sus comentarios se publicaran en Réflectivité para estimular el pensamiento y la conciencia de los lectores sobre este interesante e importante tema.
 
@@ -86,11 +110,11 @@ La conferencia de Gaétan sobre «El pensamiento luciferino, la revelación y no
 Es al pensar en esto y leer los comentarios de Jean Lapierre y su conclusión que ***El Libro de Urantia*** nos fue entregado con la aprobación de Miguel para instruirnos espiritualmente en compensación por la aflicción de nuestra falta de recursos espirituales. que me dije a mí mismo que es también una _revelación de urgencia_ para estimularnos y hacer surgir en nuestra mente humana el reconocimiento de la emergencia para nosotros los humanos de Urantia (como bien dijo Jean) de progresar espiritualmente para equilibrar «la situación actual». brecha significativa entre el desarrollo científico y el de la espiritualidad».
 <br style="clear:both;"/>
 
-> De todos los confusos problemas derivados de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. ([LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
+> De todos los confusos problemas derivados de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. (<a id="a112_223"></a>[LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
 
-> La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es el engaño sutil del error del tiempo y del mal del espacio. La libertad duradera está basada en la realidad de la justicia —la inteligencia, la madurez, la fraternidad y la equidad. ([LU 54:1.2](/es/The_Urantia_Book/54#p1_2))
+> La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es el engaño sutil del error del tiempo y del mal del espacio. La libertad duradera está basada en la realidad de la justicia —la inteligencia, la madurez, la fraternidad y la equidad. (<a id="a114_297"></a>[LU 54:1.2](/es/The_Urantia_Book/54#p1_2))
 
-> Algún día, el hombre deberá aprender a disfrutar de la libertad sin licencia, de la alimentación sin glotonería, y del placer sin libertinaje. Para regular el comportamiento personal, el dominio de sí mismo es una política humana mucho mejor que la abnegación extrema. Jesús tampoco enseñó nunca estas ideas desrazonables a sus seguidores. ([LU 89:3.7](/es/The_Urantia_Book/89#p3_7))
+> Algún día, el hombre deberá aprender a disfrutar de la libertad sin licencia, de la alimentación sin glotonería, y del placer sin libertinaje. Para regular el comportamiento personal, el dominio de sí mismo es una política humana mucho mejor que la abnegación extrema. Jesús tampoco enseñó nunca estas ideas desrazonables a sus seguidores. (<a id="a116_343"></a>[LU 89:3.7](/es/The_Urantia_Book/89#p3_7))
 
 _Información adicional: introducción al documento 114_
 
@@ -102,5 +126,30 @@ Urantia no carece de una supervisión adecuada y eficaz por parte de los goberna
 4. Las irregularidades que surgen del hecho de que Urantia fue uno de los mundos de otorgamiento del Gobernante del Universo. Miguel de Nebadón es el Príncipe Planetario de Urantia.
 5. La función especial de los veinticuatro directores planetarios.
 6. La instalación en el planeta de un circuito de arcángeles.
-7. La designación más reciente, como Príncipe Planetario Vicegerente, de Maquiventa Melquisedec, anteriormente encarnado en Urantia [LU 114:0](/es/The_Urantia_Book/114#p0).
+7. La designación más reciente, como Príncipe Planetario Vicegerente, de Maquiventa Melquisedec, anteriormente encarnado en Urantia <a id="a128_132"></a>[LU 114:0](/es/The_Urantia_Book/114#p0).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_agregats_de_matiere_sur_les_niveaux_despace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agregados de materia en niveles espaciales.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Charte_canadienne_des_droits_et_libertes">
+          <span class="pr-2">Carta Canadiense de Derechos y Libertades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

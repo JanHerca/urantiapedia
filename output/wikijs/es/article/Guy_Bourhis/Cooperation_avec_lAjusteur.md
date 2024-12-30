@@ -50,7 +50,7 @@ Estas actitudes y decisiones se recuerdan en el fascículo 110, página 1206:5. 
 - <ins>amor</ins> y <ins>servicio</ins> de todo otro hermano humano;
 - aceptación serena de la <ins>ciudadanía cósmica</ins> y de las <ins>obligaciones</ins> progresivas que conlleva.
 
-Finalmente, recordemos que sólo la resistencia <ins>consciente</ins> a la “dirección” que el Ajustador intenta dar puede impedir la supervivencia del alma inmortal en evolución (ibid:[LU 110:3.6](/es/The_Urantia_Book/110#p3_6)).
+Finalmente, recordemos que sólo la resistencia <ins>consciente</ins> a la “dirección” que el Ajustador intenta dar puede impedir la supervivencia del alma inmortal en evolución (ibid:<a id="a52_183"></a>[LU 110:3.6](/es/The_Urantia_Book/110#p3_6)).
 
 Entre la armonía que constituye un paso seguro para el mundo de las casas y el rechazo que cierra definitivamente el circuito, existe, por tanto, el lugar adecuado para todos los acercamientos posibles entre el hombre evolutivo y la Deidad en evolución.
 

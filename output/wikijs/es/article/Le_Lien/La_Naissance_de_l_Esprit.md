@@ -92,7 +92,7 @@ La religión del espíritu es un trabajo que requiere determinación y un estado
 
 Por mi parte, después de una gestación bastante larga donde la religión se desarrolló conscientemente en mí, experimenté una crisis de identidad religiosa y un cuestionamiento de mis creencias. Lo cual desencadenó los dolores del parto y un nuevo nacimiento: el nacimiento del espíritu, bajo el impulso de mi divino monitor quien con paciencia y amor, me guió hacia un nuevo estado de despertar religioso.
 
-Entonces comprendí, percibí y sentí que este nacimiento era el preludio de conmociones y transformaciones interiores que acepté con humildad, confianza y alegría. “La perplejidad es inevitable en la religión; no puede haber crecimiento sin conflictos psíquicos y agitación espiritual. La organización de un nivel de vida filosófico provoca una considerable agitación en el dominio filosófico de la mente. No es sin lucha que uno ejerza su lealtad hacia lo que es grande, bueno, verdadero y noble. » [[LU 100:4](/es/The_Urantia_Book/100#p4)]
+Entonces comprendí, percibí y sentí que este nacimiento era el preludio de conmociones y transformaciones interiores que acepté con humildad, confianza y alegría. “La perplejidad es inevitable en la religión; no puede haber crecimiento sin conflictos psíquicos y agitación espiritual. La organización de un nivel de vida filosófico provoca una considerable agitación en el dominio filosófico de la mente. No es sin lucha que uno ejerza su lealtad hacia lo que es grande, bueno, verdadero y noble. » <a id="a94_499"></a>[[LU 100:4](/es/The_Urantia_Book/100#p4)]
 
 ##MOANA
 

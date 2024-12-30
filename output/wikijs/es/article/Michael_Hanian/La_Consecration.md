@@ -45,7 +45,7 @@ Con todas sus compensaciones y peligros, es a través de la curiosidad (nuestro 
 
 Descubrir cosas es un método primitivo de referirse al conocimiento. En primer lugar tenemos curiosidad por aprender, y para poder extraer conocimientos aprendemos a leer. Comenzamos con los cuentos de hadas y avanzamos hacia la filosofía; Empezamos con cómics y terminamos con volúmenes de 700 páginas. O, si tenemos suerte, por el libro de 2196 páginas.
 
-> 8. Puede hacer un regalo a Dios —dedicar su libre albedrío a hacer la voluntad de Dios. ([LU 112:0.10](/es/The_Urantia_Book/112#p0_10))
+> 8. Puede hacer un regalo a Dios —dedicar su libre albedrío a hacer la voluntad de Dios. (<a id="a47_91"></a>[LU 112:0.10](/es/The_Urantia_Book/112#p0_10))
 
 Contamos con estar entre los afortunados que descubrieron este libro de 2196 páginas, el Libro de URANTIA. Lo encontramos a través de nuestra curiosidad. Pero la curiosidad en sí misma no es suficiente: nos llevó hasta el libro, pero no podría habernos mantenido allí. De hecho, la curiosidad es ese diablillo inquieto que siempre nos dice: vale, ya has tenido suficiente, ahora toca seguir adelante. Y lo escuchamos, como lo hacemos en la mayoría de los casos. Pero no esta vez.
 
@@ -88,7 +88,7 @@ Repito: una vez que profundizamos en el libro, entendemos que difiere del resto 
 Nos hemos interesado, durante los últimos veinte minutos, en la consagración. La consagración es el primer paso hacia nuestra transformación interior. Hemos tratado de resolver algunos de sus misterios, con poco o ningún éxito en este sentido; Hemos subrayado varios vínculos: entre dedicación y curiosidad, entre dedicación y voluntad, entre dedicación y confianza. Todo lo que tengo que agregar es que la dedicación al Libro de URANTIA es deseable —e inevitable a largo plazo— para todos los que están sinceramente interesados en el mensaje de la Revelación de la Quinta Época.
 
 
-> «La religión primitiva era sobre todo una conciencia de los valores materiales, pero la civilización eleva los valores religiosos, porque la verdadera religión es la dedicación del yo al servicio de los valores significativos y supremos. A medida que evoluciona la religión, la ética se convierte en la filosofía de la moral, y la moralidad se vuelve la disciplina del yo gracias a los criterios de los significados superiores y de los valores supremos —de los ideales divinos y espirituales. La religión se convierte así en una devoción espontánea y delicada, en la experiencia viviente de la fidelidad del amor.» ([LU 92:7.5](/es/The_Urantia_Book/92#p7_5))
+> «La religión primitiva era sobre todo una conciencia de los valores materiales, pero la civilización eleva los valores religiosos, porque la verdadera religión es la dedicación del yo al servicio de los valores significativos y supremos. A medida que evoluciona la religión, la ética se convierte en la filosofía de la moral, y la moralidad se vuelve la disciplina del yo gracias a los criterios de los significados superiores y de los valores supremos —de los ideales divinos y espirituales. La religión se convierte así en una devoción espontánea y delicada, en la experiencia viviente de la fidelidad del amor.» (<a id="a90_618"></a>[LU 92:7.5](/es/The_Urantia_Book/92#p7_5))
 
 
 

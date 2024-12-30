@@ -54,7 +54,7 @@ El párrafo en la parte superior de la página 481, que comienza con «Puedes in
 
 Retomando la idea inicial de poder comparar fácilmente una traducción con el texto original, desarrollamos una aplicación en la web de la fundación www.urantia.org que pone frente a frente cualquiera de las traducciones con otra.
 
-En el futuro se aconseja utilizar el sistema de referencia internacional que es: Fascículo: sección. párrafo. Ejemplo: [LU 99:6.3](/es/The_Urantia_Book/99#p6_3). Tenga en cuenta que después del número de edición colocamos un “:” y después del número de párrafo un punto “. Quienes nos envíen sus textos para publicación, respeten estos códigos tipográficos que facilitan la maquetación de su publicación trimestral.
+En el futuro se aconseja utilizar el sistema de referencia internacional que es: Fascículo: sección. párrafo. Ejemplo: <a id="a56_119"></a>[LU 99:6.3](/es/The_Urantia_Book/99#p6_3). Tenga en cuenta que después del número de edición colocamos un “:” y después del número de párrafo un punto “. Quienes nos envíen sus textos para publicación, respeten estos códigos tipográficos que facilitan la maquetación de su publicación trimestral.
 
 Amistades.
 

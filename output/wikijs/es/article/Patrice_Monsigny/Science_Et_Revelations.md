@@ -67,7 +67,7 @@ Después de haber abolido la noción de raza, ¿cómo podemos reconocer que hace
 
 ¿Cómo podemos admitir que el Cristo glorificado no es la segunda persona de la trinidad, sino Cristo Miguel de Nebadón con los siete autootorgamientos?
 
-.... Ni la ciencia ni la religión por sí solas pueden esperar llegar, por sí mismas, a una comprensión adecuada de las verdades y relaciones universales sin ser guiadas por la filosofía humana e iluminadas por la revelación divina. [LU 103:6.5](/es/The_Urantia_Book/103#p6_5)
+.... Ni la ciencia ni la religión por sí solas pueden esperar llegar, por sí mismas, a una comprensión adecuada de las verdades y relaciones universales sin ser guiadas por la filosofía humana e iluminadas por la revelación divina. <a id="a69_232"></a>[LU 103:6.5](/es/The_Urantia_Book/103#p6_5)
 
 amistad fraternal
 

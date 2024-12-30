@@ -41,7 +41,7 @@ De hecho, nuestro héroe no quedó muy satisfecho con este día.
 
 Ahora que se encontraba solo, poco a poco la calma volvió a él... así como una frase sorprendente que había leído unos días antes y lo había dejado escéptico:
 
-> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» ([LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
+> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» (<a id="a43_447"></a>[LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
 
 Recordó algunos hechos de las últimas horas y se preguntó quién los había vivido así.
 

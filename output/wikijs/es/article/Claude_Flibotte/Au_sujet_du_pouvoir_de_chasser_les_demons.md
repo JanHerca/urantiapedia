@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Mes_reflexions_au_lordination_des_apotres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mis pensamientos sobre la ordenación de los Apóstoles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Muriel_nous_a_quittes">
+          <span class="pr-2">¡Muriel nos ha dejado!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -21,38 +45,38 @@ Sainte-Julie
 En una reunión reciente del grupo de estudio «Descubrimiento» dirigido por Line StPierre y Gaétan Charland, discutimos el poder que tenía Jesús para expulsar demonios de las mentes inestables de ciertos individuos. Esta discusión surgió al leer la siguiente cita donde se dice que incluso los setenta mensajeros entrenados por Jesús habían logrado hacer lo mismo durante su primera gira de predicación desde Magadán.
 <br style="clear:both;"/>
 
-> Cuando los setenta contaron que «hasta los demonios se sometían» a ellos, se referían a las curas maravillosas que habían realizado en los casos de víctimas con trastornos nerviosos. Sin embargo, estos ministros habían aliviado algunos casos de verdadera posesión por los espíritus, y refiriéndose a ellos, Jesús dijo: «No es de extrañar que esos espíritus menores desobedientes se sometan a vosotros, puesto que he visto a Satanás caer del cielo como un rayo. Pero no os regocijéis tanto por eso, porque os declaro que, en cuanto regrese al lado de mi Padre, enviaremos nuestros espíritus al interior de la mente misma de los hombres para que esos pocos espíritus perdidos ya no puedan penetrar en la mente de los mortales desafortunados.». ([LU 163:6.2](/es/The_Urantia_Book/163#p6_2))
+> Cuando los setenta contaron que «hasta los demonios se sometían» a ellos, se referían a las curas maravillosas que habían realizado en los casos de víctimas con trastornos nerviosos. Sin embargo, estos ministros habían aliviado algunos casos de verdadera posesión por los espíritus, y refiriéndose a ellos, Jesús dijo: «No es de extrañar que esos espíritus menores desobedientes se sometan a vosotros, puesto que he visto a Satanás caer del cielo como un rayo. Pero no os regocijéis tanto por eso, porque os declaro que, en cuanto regrese al lado de mi Padre, enviaremos nuestros espíritus al interior de la mente misma de los hombres para que esos pocos espíritus perdidos ya no puedan penetrar en la mente de los mortales desafortunados.». (<a id="a47_745"></a>[LU 163:6.2](/es/The_Urantia_Book/163#p6_2))
 
 Al leer este texto, el primer pensamiento que nos viene a la mente es decir que ¡nosotros también podríamos tener este poder para expulsar demonios si eso todavía fuera posible hoy! Porque sabemos que desde el derramamiento del Espíritu de la Verdad y la retirada de los espíritus rebeldes de nuestro planeta, estos acontecimientos ya no son posibles excepto en los casos relativos a Caligastia y su acólito Daligastia todavía presentes en Urantia. Sin embargo, creo que esta primera impresión necesita una mayor reflexión para poner en contexto la secuencia de acontecimientos y encontrar una explicación válida.
 
 ## ¡Jesús tiene este poder por su naturaleza y su función!
 
-Es evidente que Jesús, Hijo divino creador, posee por su naturaleza y función en su propio universo ciertos poderes y autoridad indiscutible heredados de sus padres divinos, el Padre Universal y el Hijo Eterno. Los seres calificados como demonios cuya presencia expulsó en ciertos individuos eran, podríamos decir, sus propios hijos ya que los seres indígenas del universo de Nebadón provenían de la creación de este Hijo Creador y de la Hija Creativa. Cuando Jesús les habló, estos seres malignos obviamente reconocieron en él la autoridad de su propio creador. Este es sin duda el caso del niño al que expulsó un demonio como lo relata la cita [LU 153:4.1](/es/The_Urantia_Book/153#p4_1).
+Es evidente que Jesús, Hijo divino creador, posee por su naturaleza y función en su propio universo ciertos poderes y autoridad indiscutible heredados de sus padres divinos, el Padre Universal y el Hijo Eterno. Los seres calificados como demonios cuya presencia expulsó en ciertos individuos eran, podríamos decir, sus propios hijos ya que los seres indígenas del universo de Nebadón provenían de la creación de este Hijo Creador y de la Hija Creativa. Cuando Jesús les habló, estos seres malignos obviamente reconocieron en él la autoridad de su propio creador. Este es sin duda el caso del niño al que expulsó un demonio como lo relata la cita <a id="a53_646"></a>[LU 153:4.1](/es/The_Urantia_Book/153#p4_1).
 
 «Tú sabes quién soy; sal de él; Encargo a uno de tus leales compañeros que se asegure de que no regreses.»
 
 ## ¡Los apóstoles fracasan en su intento!
 
-Sabemos por la historia que nos cuenta en el documento [LU 158:4.6-7](/es/The_Urantia_Book/158#p4_6) que los apóstoles Simón los Zelotes, Judas Iscariote y Andrés fracasaron en su intento de expulsar un demonio del hijo de Santiago de Safed. ¿Cómo es que Jesús pudo expulsar demonios y sus apóstoles fracasaron estrepitosamente? La respuesta se encuentra en el discurso que les dirigió esa misma tarde en el jardín de Celso:
+Sabemos por la historia que nos cuenta en el documento <a id="a59_55"></a>[LU 158:4.6-7](/es/The_Urantia_Book/158#p4_6) que los apóstoles Simón los Zelotes, Judas Iscariote y Andrés fracasaron en su intento de expulsar un demonio del hijo de Santiago de Safed. ¿Cómo es que Jesús pudo expulsar demonios y sus apóstoles fracasaron estrepitosamente? La respuesta se encuentra en el discurso que les dirigió esa misma tarde en el jardín de Celso:
 
-> «...Tampoco podéis realizar una obra espiritual en ausencia de poder espiritual. Y no podéis hacer ninguna de estas cosas, aunque su potencial esté presente, sin la existencia de un tercer factor humano esencial, la experiencia personal de poseer una fe viviente. ...» ([LU 158:6.4](/es/The_Urantia_Book/158#p6_4))
+> «...Tampoco podéis realizar una obra espiritual en ausencia de poder espiritual. Y no podéis hacer ninguna de estas cosas, aunque su potencial esté presente, sin la existencia de un tercer factor humano esencial, la experiencia personal de poseer una fe viviente. ...» (<a id="a61_272"></a>[LU 158:6.4](/es/The_Urantia_Book/158#p6_4))
 
 Las palabras en negrita son mías y son de capital importancia para comprender las habilidades necesarias para el cumplimiento de esta misión y las razones del fracaso de los apóstoles. Incluso es obvio que Simón, Judas y Andrés no son Hijos creadores divinos como Jesús. Por otra parte, su maestro les dice que en el hombre reside cierto poder espiritual potencial que podría haber realizado esta obra. Sin embargo, hay una condición sumamente difícil de lograr, se debe tener una fe viva, una fe motivada por un corazón puro y sin segundas intenciones de gloria personal totalmente dedicada a hacer la voluntad del Padre que está en el cielo. Evidentemente, estos pobres apóstoles no tenían las condiciones necesarias para realizar tal milagro y el resultado sólo pudo ser un estrepitoso fracaso.
 
 ## ¡Un evento que hay que tener en cuenta!
 
-Para comprender cómo ciertos mensajeros lograron expulsar a los demonios, debemos retroceder en el tiempo para comprender la pieza que falta en este rompecabezas. Sabemos que Jesús derrotó a Caligastia en el Monte Hermón durante su estadía de cuarenta días justo antes de su bautismo por Juan el Bautista ([LU 134:8.6](/es/The_Urantia_Book/134#p8_6)). Esto significa que nuestro Príncipe Planetario, líder de la rebelión en nuestro planeta, prácticamente había perdido su condición de Príncipe de este mundo. Fue con estas palabras que Jesús le habló a Caligastia para informarle de la secuencia de los acontecimientos y las consecuencias que tendrán. resultado de esto:
+Para comprender cómo ciertos mensajeros lograron expulsar a los demonios, debemos retroceder en el tiempo para comprender la pieza que falta en este rompecabezas. Sabemos que Jesús derrotó a Caligastia en el Monte Hermón durante su estadía de cuarenta días justo antes de su bautismo por Juan el Bautista (<a id="a67_306"></a>[LU 134:8.6](/es/The_Urantia_Book/134#p8_6)). Esto significa que nuestro Príncipe Planetario, líder de la rebelión en nuestro planeta, prácticamente había perdido su condición de Príncipe de este mundo. Fue con estas palabras que Jesús le habló a Caligastia para informarle de la secuencia de los acontecimientos y las consecuencias que tendrán. resultado de esto:
 
-> «Que prevalezca la voluntad de mi Padre Paradisiaco, y a ti, mi hijo rebelde, que los Ancianos de los Días te juzguen divinamente. Soy tu Creador-padre; difícilmente puedo juzgarte con justicia, y ya has despreciado mi misericordia. Te confío a la decisión de los Jueces de un universo más grande.» ([LU 134:8.7](/es/The_Urantia_Book/134#p8_7))
+> «Que prevalezca la voluntad de mi Padre Paradisiaco, y a ti, mi hijo rebelde, que los Ancianos de los Días te juzguen divinamente. Soy tu Creador-padre; difícilmente puedo juzgarte con justicia, y ya has despreciado mi misericordia. Te confío a la decisión de los Jueces de un universo más grande.» (<a id="a69_302"></a>[LU 134:8.7](/es/The_Urantia_Book/134#p8_7))
 
-Esto es precisamente lo que sucedió en las altas esferas, porque está escrito que Satanás, el asociado de Lucifer, poco antes de la muerte de Jesús, intentó participar en un cónclave en Edentia y no encontró lugar donde estar [LU 43:4.9](/es/The_Urantia_Book/43#p4_9)... Fue rechazado unánimemente por los Soberanos del Sistema reunidos, y fue entonces cuando el Hijo del Hombre vio a Satanás caer del cielo como un rayo.
+Esto es precisamente lo que sucedió en las altas esferas, porque está escrito que Satanás, el asociado de Lucifer, poco antes de la muerte de Jesús, intentó participar en un cónclave en Edentia y no encontró lugar donde estar <a id="a71_226"></a>[LU 43:4.9](/es/The_Urantia_Book/43#p4_9)... Fue rechazado unánimemente por los Soberanos del Sistema reunidos, y fue entonces cuando el Hijo del Hombre vio a Satanás caer del cielo como un rayo.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_06/010.jpg">
 <figcaption>Jesús expulsando demonios. San Martín de Zillis.</figcaption>
 </figure>
 
-Otras dos citas relatan esta caída de Satanás así como, sin duda, la desgracia de Caligastia y Lucifer ver [LU 53:8.3](/es/The_Urantia_Book/53#p8_3) y [LU 163:6.2](/es/The_Urantia_Book/163#p6_2)
+Otras dos citas relatan esta caída de Satanás así como, sin duda, la desgracia de Caligastia y Lucifer ver <a id="a78_107"></a>[LU 53:8.3](/es/The_Urantia_Book/53#p8_3) y <a id="a78_151"></a>[LU 163:6.2](/es/The_Urantia_Book/163#p6_2)
 
 ## Entonces, ¿cómo tuvieron éxito los mensajeros donde fracasaron los apóstoles?
 
@@ -69,3 +93,28 @@ Para responder a esta pregunta, ¡debemos tomar en consideración los tres requi
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Mes_reflexions_au_lordination_des_apotres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mis pensamientos sobre la ordenación de los Apóstoles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Muriel_nous_a_quittes">
+          <span class="pr-2">¡Muriel nos ha dejado!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

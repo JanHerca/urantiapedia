@@ -41,9 +41,9 @@ Las sucesivas experiencias de nuestra vida nos permiten descubrirnos a nosotros 
 
 Podemos leer que el Espíritu de la Verdad, el nuevo maestro, fue dado como apoyo al alma de todo buscador sincero desde la partida de Jesús para que podamos liberarnos de las viejas ataduras.
 
-> «Pentecostés estaba destinado a disminuir la presunción de las personas, los grupos, las naciones y las razas. La tensión de este espíritu de presunción es la que se acrecienta tanto que periódicamente se desata en guerras destructivas. La humanidad sólo puede unificarse mediante el acercamiento espiritual, y el Espíritu de la Verdad es una influencia mundial común para todos.» ([LU 194:3.18](/es/The_Urantia_Book/194#p3_18))
+> «Pentecostés estaba destinado a disminuir la presunción de las personas, los grupos, las naciones y las razas. La tensión de este espíritu de presunción es la que se acrecienta tanto que periódicamente se desata en guerras destructivas. La humanidad sólo puede unificarse mediante el acercamiento espiritual, y el Espíritu de la Verdad es una influencia mundial común para todos.» (<a id="a43_384"></a>[LU 194:3.18](/es/The_Urantia_Book/194#p3_18))
 
-> «No paséis por alto el hecho de que el Espíritu de la Verdad fue otorgado a todos los creyentes sinceros; este don del espíritu no vino solamente a los apóstoles. Los ciento veinte hombres y mujeres congregados en la habitación de arriba recibieron todos el nuevo instructor, así como todos los honrados de corazón del mundo entero{19}. Este nuevo instructor fue otorgado a la humanidad, y cada alma lo recibió según su amor por la verdad y su capacidad para captar y comprender las realidades espirituales. Por fin, la verdadera religión se libera de la custodia de los sacerdotes y de todas las clases sagradas, y encuentra su manifestación real en el alma individual de los hombres.» ([LU 194:3.6](/es/The_Urantia_Book/194#p3_6))
+> «No paséis por alto el hecho de que el Espíritu de la Verdad fue otorgado a todos los creyentes sinceros; este don del espíritu no vino solamente a los apóstoles. Los ciento veinte hombres y mujeres congregados en la habitación de arriba recibieron todos el nuevo instructor, así como todos los honrados de corazón del mundo entero{19}. Este nuevo instructor fue otorgado a la humanidad, y cada alma lo recibió según su amor por la verdad y su capacidad para captar y comprender las realidades espirituales. Por fin, la verdadera religión se libera de la custodia de los sacerdotes y de todas las clases sagradas, y encuentra su manifestación real en el alma individual de los hombres.» (<a id="a45_690"></a>[LU 194:3.6](/es/The_Urantia_Book/194#p3_6))
 
 Pero ¿hemos progresado a lo largo de la historia en nuestra investigación colectiva? ¿Se han acercado las religiones? No, porque lo que divide ha sido más fuerte que lo que podría unirnos. Sin embargo, ¿nunca ha habido hombres que amaran la verdad y la supieran? Sí, claro. Y esto <ins>cualquiera que sea su cultura y religión, no nos quede duda</ins>.
 
@@ -63,7 +63,7 @@ Pero ¿qué es esta sabiduría tan exigente?
 
 Quizás la verdadera fe en acción.
 
-“***La clarividencia divina o espiritual es un don, pero la sabiduría humana debe evolucionar***” [LU 101:4.2](/es/The_Urantia_Book/101#p4_2). (Este extracto de un capítulo sobre las limitaciones de la revelación se refiere en última instancia... a nuestras propias limitaciones).
+“***La clarividencia divina o espiritual es un don, pero la sabiduría humana debe evolucionar***” <a id="a65_98"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2). (Este extracto de un capítulo sobre las limitaciones de la revelación se refiere en última instancia... a nuestras propias limitaciones).
 
 Para terminar e ilustrar de forma amena este defecto humano que nos lleva a tomar una parte por el todo, y así hacernos perder la verdad que buscamos, extraeré una pequeña historia-enseñanza de un libro de Idries SHAH “ Dervish Tales”, autor cuya lectura recomiendo ampliamente.
 

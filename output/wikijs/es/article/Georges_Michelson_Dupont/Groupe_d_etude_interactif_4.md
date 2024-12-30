@@ -47,7 +47,7 @@ Al leer la vida épica de Jesús, uno se da cuenta de las dificultades materiale
 
 Para hacer la voluntad de nuestro Padre; Para crecer en sabiduría y crecer en espiritualidad, nosotros también debemos vivir experiencias educativas que nos exijan encontrar soluciones con la ayuda de nuestro Ajustador del Pensamiento y muchas otras asistencias espirituales puestas a nuestra disposición.
 
-> «Es necesario enfrentarse con las dificultades del universo y tropezar con los obstáculos planetarios, como parte de la educación experiencial proporcionada para el crecimiento y el desarrollo, para la perfección progresiva, del alma evolutiva de las criaturas mortales. La espiritualización del alma humana requiere una experiencia íntima con el proceso educativo de resolver una amplia gama de problemas universales reales. La naturaleza animal y las formas inferiores de criaturas volitivas no progresan favorablemente en un ambiente fácil. Las situaciones problemáticas, asociadas con los estímulos para ponerse en acción, se confabulan para producir esas actividades de la mente, del alma y del espíritu que contribuyen poderosamente a la obtención de los objetivos meritorios de la progresión mortal, y a la consecución de los niveles superiores de destino espiritual.» ([LU 154:2.5](/es/The_Urantia_Book/154#p2_5))
+> «Es necesario enfrentarse con las dificultades del universo y tropezar con los obstáculos planetarios, como parte de la educación experiencial proporcionada para el crecimiento y el desarrollo, para la perfección progresiva, del alma evolutiva de las criaturas mortales. La espiritualización del alma humana requiere una experiencia íntima con el proceso educativo de resolver una amplia gama de problemas universales reales. La naturaleza animal y las formas inferiores de criaturas volitivas no progresan favorablemente en un ambiente fácil. Las situaciones problemáticas, asociadas con los estímulos para ponerse en acción, se confabulan para producir esas actividades de la mente, del alma y del espíritu que contribuyen poderosamente a la obtención de los objetivos meritorios de la progresión mortal, y a la consecución de los niveles superiores de destino espiritual.» (<a id="a49_879"></a>[LU 154:2.5](/es/The_Urantia_Book/154#p2_5))
 
 Este último período estará dedicado a mostrar que el universo entero es una vasta escuela dirigida por padres y educadores amorosos y atentos a nuestro bienestar espiritual y que lo que los humanos consideramos sufrimientos, castigos o desastres, son en realidad oportunidades de progreso. Finalmente, veremos a los ayudantes espirituales que complementan el ministerio personal de nuestro Ajustador del Pensamiento.
 
@@ -63,13 +63,13 @@ En la primera cita de la introducción al último período, se trata de “espir
 
 ***Pregunta 3***: Lea las siguientes secciones:
 
-Nuestro Ajustador del Pensamiento se comunica continuamente con nosotros de tal manera que “el Espíritu nunca limita, sólo guía. Si eres estudiante de buena voluntad, si quieres alcanzar los niveles del espíritu y las alturas divinas, si deseas sinceramente llegar a la meta eterna, entonces el Espíritu divino te guiará dulce y amorosamente por el camino de la filiación. y de progreso espiritual. » ([LU 34:6.11](/es/The_Urantia_Book/34#p6_11)).
+Nuestro Ajustador del Pensamiento se comunica continuamente con nosotros de tal manera que “el Espíritu nunca limita, sólo guía. Si eres estudiante de buena voluntad, si quieres alcanzar los niveles del espíritu y las alturas divinas, si deseas sinceramente llegar a la meta eterna, entonces el Espíritu divino te guiará dulce y amorosamente por el camino de la filiación. y de progreso espiritual. » (<a id="a65_402"></a>[LU 34:6.11](/es/The_Urantia_Book/34#p6_11)).
 
 **¿Cuál es la naturaleza de esta comunicación? ¿Por qué el Espíritu nunca “constriñe” y cómo nos “guia”?**
 
 ***Pregunta 4***: Lea las siguientes secciones:
 
-Un Mensajero Solitario revela que “La cooperación con tu Ajustador no debe verse como un proceso particularmente consciente, porque no lo es. Son vuestros motivos y vuestras decisiones, vuestras fieles determinaciones y vuestros deseos supremos, los que constituyen una cooperación real y eficaz. » ([LU 110:3.6](/es/The_Urantia_Book/110#p3_6))
+Un Mensajero Solitario revela que “La cooperación con tu Ajustador no debe verse como un proceso particularmente consciente, porque no lo es. Son vuestros motivos y vuestras decisiones, vuestras fieles determinaciones y vuestros deseos supremos, los que constituyen una cooperación real y eficaz. » (<a id="a71_300"></a>[LU 110:3.6](/es/The_Urantia_Book/110#p3_6))
 
 **¿Por qué nuestras decisiones, nuestras fieles determinaciones y nuestros deseos supremos constituyen una cooperación real y efectiva?**
 
@@ -81,7 +81,7 @@ Además de los regalos que hemos recibido de nuestros Creadores, muchas otras in
 
 ***Pregunta 6***: Lea las siguientes secciones:
 
-En la sección 2 del Documento 194 El Libro de Urantia se revela que "Entonces, a medida que el hombre progresa hacia arriba en la escala de inteligencia y percepción espiritual, siete influencias superiores del espíritu finalmente llegan a flotar sobre él y morar en él. » ([LU 194:2.12](/es/The_Urantia_Book/194#p2_12))
+En la sección 2 del Documento 194 El Libro de Urantia se revela que "Entonces, a medida que el hombre progresa hacia arriba en la escala de inteligencia y percepción espiritual, siete influencias superiores del espíritu finalmente llegan a flotar sobre él y morar en él. » (<a id="a83_274"></a>[LU 194:2.12](/es/The_Urantia_Book/194#p2_12))
 
 Excepto por nuestro Ajustador del Pensamiento y el Espíritu de la Verdad que vimos antes, ¿cuáles son las contribuciones de otras influencias espirituales y cómo cooperan con nosotros?
 

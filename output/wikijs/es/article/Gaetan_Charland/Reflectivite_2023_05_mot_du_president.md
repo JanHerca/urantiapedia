@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 367 — Mayo de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Mes_reflexions_des_niveaux_despace_exterieur">
+          <span class="pr-2">Mis pensamientos sobre los niveles del espacio exterior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -20,7 +44,7 @@ presidente@urantiaqc.org
 
 Hola miembros y amigos de la asociación,
 
-Sospecho que cada uno de nosotros está familiarizado con la famosa cita de Jesús que dijo durante la ordenación de los setenta: «Ciertamente la mies es mucha, pero los obreros pocos_» [LU 161:1.3](/es/The_Urantia_Book/161#p1_3). De hecho, no es mi costumbre utilizar citas para resaltar un punto o situación específica, lo hago hoy para enfatizar que próximamente durante la Asamblea General Anual, la asociación realizará la elección para los cargos de presidente y tesorero.
+Sospecho que cada uno de nosotros está familiarizado con la famosa cita de Jesús que dijo durante la ordenación de los setenta: «Ciertamente la mies es mucha, pero los obreros pocos_» <a id="a46_184"></a>[LU 161:1.3](/es/The_Urantia_Book/161#p1_3). De hecho, no es mi costumbre utilizar citas para resaltar un punto o situación específica, lo hago hoy para enfatizar que próximamente durante la Asamblea General Anual, la asociación realizará la elección para los cargos de presidente y tesorero.
 
 Como cada año, dos puestos en la junta directiva de la asociación están sujetos a elección, y siempre me entristece constatar los poquísimos candidatos que se proponen durante estas elecciones. Entiendo que a la mayoría de los miembros de la asociación no les gusta asumir las responsabilidades de un cargo administrativo, pero deben comprender que sin esta organización que es su asociación, la revelación no podría progresar eficazmente en su misión aquí en Quebec.
 <br style="clear:both;"/>
@@ -38,7 +62,7 @@ El servicio es parte de nuestra evolución espiritual; servir es querer hacer el
 
 Un día estaremos todos reunidos en algún lugar de uno de los mundos de estancia o en Jerusem y contemplaremos juntos nuestra vida anterior en Urantia, y nuestros ayudantes celestiales nos señalarán las muchas experiencias de crecimiento que hemos tenido y que nos han hecho crecer. y los que dejamos pasar. Hagamos un esfuerzo sincero por acumular tantas experiencias de crecimiento como sea posible antes de dejar este mundo, dejemos un poco más de lo que hemos recibido, participemos en la segunda liga, esto es lo que Jesús nos pide.
 
-> «_Para ganar almas para el Maestro, no es la primera legua recorrida por coacción, deber o convencionalismo la que transformará al hombre y a su mundo, sino que es más bien la *segunda* legua de servicio libre y de devoción amante de la libertad la que revela que el discípulo de Jesús ha alargado la mano para coger a su hermano con amor y llevarlo, bajo la guía espiritual, hacia la meta superior y divina de la existencia mortal._» ([LU 195:10.5](/es/The_Urantia_Book/195#p10_5))
+> «_Para ganar almas para el Maestro, no es la primera legua recorrida por coacción, deber o convencionalismo la que transformará al hombre y a su mundo, sino que es más bien la *segunda* legua de servicio libre y de devoción amante de la libertad la que revela que el discípulo de Jesús ha alargado la mano para coger a su hermano con amor y llevarlo, bajo la guía espiritual, hacia la meta superior y divina de la existencia mortal._» (<a id="a64_438"></a>[LU 195:10.5](/es/The_Urantia_Book/195#p10_5))
 
 Amar es servir
 
@@ -47,3 +71,28 @@ Amar es servir
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 367 — Mayo de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Mes_reflexions_des_niveaux_despace_exterieur">
+          <span class="pr-2">Mis pensamientos sobre los niveles del espacio exterior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

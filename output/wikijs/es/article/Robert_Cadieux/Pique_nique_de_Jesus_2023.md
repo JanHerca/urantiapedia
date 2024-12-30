@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Robert Cadieux<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Jesus_etait_ce_quil_disait">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús era lo que decía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-371-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 371 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_1">
+          <span class="pr-2">El plan de supervivencia (parte 1/2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -25,15 +49,15 @@ Montréal
 
 El picnic anual de la AUQ para celebrar el aniversario del nacimiento de Jesús hace 2029 años, el 21 de agosto, tuvo lugar en un magnífico día cálido y soleado y, como de costumbre, en el Parque de Mont-Royal de Montreal, el domingo 20 de agosto. La ubicación es ideal, bajo los grandes árboles y muy cerca de Beaver Lake.
 
-Cómo me gustaría que allí se reunieran 30 – 40 – 50 personas para vernos en persona, para confraternizar y discutir sobre el espíritu que nos habita y la revelación que nos une y hace vibrar nuestro corazón. Tenemos este sentimiento de ser un núcleo de hermanos y hermanas humanos que estamos experimentando el inicio de la próxima gran aventura religiosa de la humanidad, precursora de lo que será el futuro religioso de nuestro mundo en el camino hacia el amanecer de la gran aventura de las eras de la luz y la vida. Para lograrlo, la humanidad debe esforzarse hacia la unidad trina, es decir: un gobierno mundial, un lenguaje común y una religión personal adoptada por todos, la religión que Jesús vino a enseñarnos, la religión de la experiencia personal espiritual [[LU 155:6.8](/es/The_Urantia_Book/155#p6_8)] Jesús vino a revelarnos al Padre y conducirnos al Padre [[LU 165:3.8](/es/The_Urantia_Book/165#p3_8)].
+Cómo me gustaría que allí se reunieran 30 – 40 – 50 personas para vernos en persona, para confraternizar y discutir sobre el espíritu que nos habita y la revelación que nos une y hace vibrar nuestro corazón. Tenemos este sentimiento de ser un núcleo de hermanos y hermanas humanos que estamos experimentando el inicio de la próxima gran aventura religiosa de la humanidad, precursora de lo que será el futuro religioso de nuestro mundo en el camino hacia el amanecer de la gran aventura de las eras de la luz y la vida. Para lograrlo, la humanidad debe esforzarse hacia la unidad trina, es decir: un gobierno mundial, un lenguaje común y una religión personal adoptada por todos, la religión que Jesús vino a enseñarnos, la religión de la experiencia personal espiritual <a id="a51_771"></a>[[LU 155:6.8](/es/The_Urantia_Book/155#p6_8)] Jesús vino a revelarnos al Padre y conducirnos al Padre <a id="a51_873"></a>[[LU 165:3.8](/es/The_Urantia_Book/165#p3_8)].
 
-Depende de nosotros que hemos recibido esta última revelación de nuestro tiempo reavivar la llama de la verdadera religión universal, aquella que tiene el poder de renacer a la humanidad a través de la presencia interior de nuestro Ajustador del Pensamiento, con quien podemos nacer de la mente. [[LU 142:6.5](/es/The_Urantia_Book/142#p6_5)].
+Depende de nosotros que hemos recibido esta última revelación de nuestro tiempo reavivar la llama de la verdadera religión universal, aquella que tiene el poder de renacer a la humanidad a través de la presencia interior de nuestro Ajustador del Pensamiento, con quien podemos nacer de la mente. <a id="a53_296"></a>[[LU 142:6.5](/es/The_Urantia_Book/142#p6_5)].
 
 Este pequeño núcleo, este año en el picnic de Jesús, estaba formado por 16 personas (ver foto) procedentes de los cuatro puntos cardinales de Montreal, de la costa sur, de las Laurentinas y hasta Abitibi. Sin embargo, hubo comida y pastel para muchos más, y cada uno trajo un poco.
 
 Os invito, a partir del próximo año, a venir a hacer de este evento un mayor encuentro de personas nacidas del espíritu y conscientes de compartir el entusiasmo de la estimulación espiritual en grupo y orientadas hacia el futuro religiosamente unificado de nuestro planeta.
 
-Cada año, nuestros amigos Bertin Perron y Julien Audet llegan temprano, preparan nuestro lugar de encuentro y el ambiente con carteles con círculos concéntricos (símbolo de la Trinidad del Paraíso [[LU 93:2.5](/es/The_Urantia_Book/93#p2_5)]) para guiar a quienes llegan desde el estacionamiento hasta nuestro lugar de encuentro habitual.
+Cada año, nuestros amigos Bertin Perron y Julien Audet llegan temprano, preparan nuestro lugar de encuentro y el ambiente con carteles con círculos concéntricos (símbolo de la Trinidad del Paraíso <a id="a59_197"></a>[[LU 93:2.5](/es/The_Urantia_Book/93#p2_5)]) para guiar a quienes llegan desde el estacionamiento hasta nuestro lugar de encuentro habitual.
 
 Nos vemos el año que viene. Estamos invitados, así que vamos.
 <br style="clear:both;"/>
@@ -47,3 +71,28 @@ Nos vemos el año que viene. Estamos invitados, así que vamos.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-septembre-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/Jesus_etait_ce_quil_disait">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús era lo que decía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-371-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 371 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_plan_de_survie_1">
+          <span class="pr-2">El plan de supervivencia (parte 1/2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

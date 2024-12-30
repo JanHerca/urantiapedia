@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Alain Tremblay<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Appel_aux_anciens_etudiants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convocatoria a antiguos estudiantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_absoluite_et_fusion">
+          <span class="pr-2">¡Ajustador, absolutidad y fusión!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -31,7 +55,7 @@ El pasado jueves 6 de abril, durante la Cena del Recuerdo, tuve el placer de con
 
 «¡Recordemos toda la vida y enseñanzas de Jesús, imitemos su fe, produzcamos los frutos del Espíritu, amémonos unos a otros como él nos amó!»
 
-Y finalmente, de _El libro de Urantia_: «El impulso hacia el progreso espiritual es la fuerza motriz más poderosa del mundo. Los creyentes que aprenden la verdad son las únicas almas progresistas y dinámicas en la tierra.» Folleto [LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
+Y finalmente, de _El libro de Urantia_: «El impulso hacia el progreso espiritual es la fuerza motriz más poderosa del mundo. Los creyentes que aprenden la verdad son las únicas almas progresistas y dinámicas en la tierra.» Folleto <a id="a57_231"></a>[LU 194:3.4](/es/The_Urantia_Book/194#p3_4)
 
 En definitiva, citas inspiradoras que, a través de nuestros debates, elevaron el nivel de nuestros intercambios y de nuestra comunión. Personalmente me hizo mucho bien. Me sentí crecido, confirmado en mi fe al darme cuenta de mi pertenencia a una fraternidad dinámica y viva, que incluso me atrevería a calificar... de eterna. Regresé a casa con la clara impresión de haber vivido un acontecimiento singular, muy bello y significativo. ¡Esta conexión espiritual que se desarrolle será para mí y para nuestra hermandad «como un puente tendido a través del espacio y el tiempo»! Un momento que marcará la continuidad de un linaje que seguirá creciendo y perdurará durante mucho tiempo.
 
@@ -43,3 +67,28 @@ Gracias de todo corazón a nuestros generosos anfitriones que nos recibieron en 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Appel_aux_anciens_etudiants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convocatoria a antiguos estudiantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Ajusteur_absoluite_et_fusion">
+          <span class="pr-2">¡Ajustador, absolutidad y fusión!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

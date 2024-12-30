@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 — ¿Qué es la **humildad**?
 — Quizás una técnica...
-—¿Qué quieres decir con eso? Nuestro Maestro “recomendaba a los hombres que se humillaran sólo para poder ser verdaderamente grandes; la meta que realmente perseguía era la verdadera humildad hacia Dios. » ([LU 140:8.20](/es/The_Urantia_Book/140#p8_20)).
+—¿Qué quieres decir con eso? Nuestro Maestro “recomendaba a los hombres que se humillaran sólo para poder ser verdaderamente grandes; la meta que realmente perseguía era la verdadera humildad hacia Dios. » (<a id="a36_207"></a>[LU 140:8.20](/es/The_Urantia_Book/140#p8_20)).
 
 — Sí, ahora tenemos que entenderlo. Por qué “para ser grandes debemos “humillarnos” si no es para permitir que nuestra verdadera Personalidad prevalezca sobre la idea que tenemos de nosotros mismos, y que proyectamos con tanto orgullo: nuestra **individualidad**.
 — A medida que avanzas. ¿No soy de naturaleza absoluta?

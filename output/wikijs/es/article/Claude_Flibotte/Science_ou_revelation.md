@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Reflexions_sur_les_grandes_questions_existentielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre las grandes cuestiones existenciales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="pr-2">Tiempo y niveles de conciencia.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Claude Flibotte_
@@ -43,13 +67,13 @@ Entonces, si sumo lo que mi cuerpo heredó de mis antepasados, estaría compuest
 
 ## Comparemos su estudio con la revelación del Libro de Urantia.
 
-Según los reveladores, la historia de la humanidad comienza en la costa occidental de la península mesopotámica (ahora sumergida) con el nacimiento de los dos primeros humanos, Andón y Fonta, hace 993419 años antes del año 1934 de la era cristiana ([LU 62:4.3](/es/The_Urantia_Book/62#p4_3), [LU 62:5.1](/es/The_Urantia_Book/62#p5_1)). Provienen de un largo linaje que se describe a continuación: una evolución repentina de los descendientes de los _antiguos lémures norteamericanos_ generó los _mamíferos precursores_ del hombre cuyos descendientes fueron los _mamíferos intermedios_ dando más tarde el linaje de los _primates_, y finalmente el _verdadero hombre.
+Según los reveladores, la historia de la humanidad comienza en la costa occidental de la península mesopotámica (ahora sumergida) con el nacimiento de los dos primeros humanos, Andón y Fonta, hace 993419 años antes del año 1934 de la era cristiana (<a id="a69_249"></a>[LU 62:4.3](/es/The_Urantia_Book/62#p4_3), <a id="a69_292"></a>[LU 62:5.1](/es/The_Urantia_Book/62#p5_1)). Provienen de un largo linaje que se describe a continuación: una evolución repentina de los descendientes de los _antiguos lémures norteamericanos_ generó los _mamíferos precursores_ del hombre cuyos descendientes fueron los _mamíferos intermedios_ dando más tarde el linaje de los _primates_, y finalmente el _verdadero hombre.
 
-Cabe señalar que los reveladores, en su descripción evolutiva de la ascendencia humana, enfatizan sólo el linaje que condujo a la aparición del hombre. Tras la aparición de Andón y Fonta evolucionaron nada menos que siete mil linajes favorables que pudieron alcanzar determinados tipos de desarrollo humano, algunos de los cuales fueron posteriormente asimilados a las diferentes ramas de la especie humana ([LU 65:3.4](/es/The_Urantia_Book/65#p3_4)).
+Cabe señalar que los reveladores, en su descripción evolutiva de la ascendencia humana, enfatizan sólo el linaje que condujo a la aparición del hombre. Tras la aparición de Andón y Fonta evolucionaron nada menos que siete mil linajes favorables que pudieron alcanzar determinados tipos de desarrollo humano, algunos de los cuales fueron posteriormente asimilados a las diferentes ramas de la especie humana (<a id="a71_408"></a>[LU 65:3.4](/es/The_Urantia_Book/65#p3_4)).
 
-En resumen, estos _andonitas_ continuaron hasta su vigésima séptima generación donde no se dispersaron muy lejos en Asia y África, pero especialmente en Europa hacia Francia y las Islas Británicas ([LU 63:5.1](/es/The_Urantia_Book/63#p5_1)-2).
+En resumen, estos _andonitas_ continuaron hasta su vigésima séptima generación donde no se dispersaron muy lejos en Asia y África, pero especialmente en Europa hacia Francia y las Islas Británicas (<a id="a73_198"></a>[LU 63:5.1](/es/The_Urantia_Book/63#p5_1)-2).
 
-Hace 950.000 años, durante la tercera glaciación, se asentaron en Inglaterra en el oeste y llegaron a Java en el este e incluso a Tasmania. Esta migración tuvo la lamentable consecuencia de que una parte de estos andonitas, especialmente los que iban hacia el este, degeneraron al mezclarse con las razas simiescas del sur ([LU 64:2.1](/es/The_Urantia_Book/64#p2_1)).
+Hace 950.000 años, durante la tercera glaciación, se asentaron en Inglaterra en el oeste y llegaron a Java en el este e incluso a Tasmania. Esta migración tuvo la lamentable consecuencia de que una parte de estos andonitas, especialmente los que iban hacia el este, degeneraron al mezclarse con las razas simiescas del sur (<a id="a75_324"></a>[LU 64:2.1](/es/The_Urantia_Book/64#p2_1)).
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2022_07/005.jpg">
@@ -61,15 +85,15 @@ Hace 950.000 años, durante la tercera glaciación, se asentaron en Inglaterra e
 <figcaption>Hombre de Neandertal. (larousse.fr)</figcaption>
 </figure>
 
-Hace unos 900.000 años, individuos degenerados llegaron desde el sur de Francia a Inglaterra, degradando a los andonitas en el camino. Les siguió en toda Europa una raza prolífica y algo superior a ellos: la raza de Heidelberg. Dos centros de andonitas persistieron en las tradiciones de Andon y la cultura de Onagar, un antiguo sabio andonita. El primero, el pueblo de Foxhall en Inglaterra, emigró al oeste y se convirtió en los antepasados de los esquimales. El segundo hogar, las _tribus de Badonan_, tataranieto de Andon, estaba ubicado en el noroeste de la India ([LU 64:2.4](/es/The_Urantia_Book/64#p2_4)).
+Hace unos 900.000 años, individuos degenerados llegaron desde el sur de Francia a Inglaterra, degradando a los andonitas en el camino. Les siguió en toda Europa una raza prolífica y algo superior a ellos: la raza de Heidelberg. Dos centros de andonitas persistieron en las tradiciones de Andon y la cultura de Onagar, un antiguo sabio andonita. El primero, el pueblo de Foxhall en Inglaterra, emigró al oeste y se convirtió en los antepasados de los esquimales. El segundo hogar, las _tribus de Badonan_, tataranieto de Andon, estaba ubicado en el noroeste de la India (<a id="a87_570"></a>[LU 64:2.4](/es/The_Urantia_Book/64#p2_4)).
 
-En resumen, estos tributos badonanos fueron a la guerra contra los individuos degenerados de su región hace 850.000 años. Esta campaña supuso una ligera mejora de las tribus montañesas y la mezcla de estos badonitas se convirtió en la _raza neandertal_ ([LU 64:3.5](/es/The_Urantia_Book/64#p3_5)). Fueron grandes viajeros, partieron de sus tierras en el noroeste de la India, se extendieron al este hasta China y al oeste hasta Francia e incluso el norte de África ([LU 64:4.1](/es/The_Urantia_Book/64#p4_1)). Durante casi un millón de años prosperaron, pero lograron poco progreso cultural y espiritual.
+En resumen, estos tributos badonanos fueron a la guerra contra los individuos degenerados de su región hace 850.000 años. Esta campaña supuso una ligera mejora de las tribus montañesas y la mezcla de estos badonitas se convirtió en la _raza neandertal_ (<a id="a89_254"></a>[LU 64:3.5](/es/The_Urantia_Book/64#p3_5)). Fueron grandes viajeros, partieron de sus tierras en el noroeste de la India, se extendieron al este hasta China y al oeste hasta Francia e incluso el norte de África (<a id="a89_466"></a>[LU 64:4.1](/es/The_Urantia_Book/64#p4_1)). Durante casi un millón de años prosperaron, pero lograron poco progreso cultural y espiritual.
 
-Hace 500.000 años estalló otra guerra racial de los tributos badonitas de las tierras altas del noroeste de la India, a raíz de la cual, más de cien años después, solo quedaron unas cien familias, las más inteligentes ([LU 64:5.1](/es/The_Urantia_Book/64#p5_1) ). De repente, una pareja de una de estas familias dio a luz a diecinueve niños excepcionalmente inteligentes. Esta era la _familia Sangik_, los antepasados de las seis razas de colores de Urantia ([LU 64:5.2](/es/The_Urantia_Book/64#p5_2)). Cinco eran rojos, dos naranjas, cuatro amarillos, dos verdes, cuatro azules y dos añiles. A través de uniones con miembros de su tribu, sus descendientes tendieron a tomar el color de piel de su antepasado Sangik ([LU 64:5.3](/es/The_Urantia_Book/64#p5_3)). También fue en este momento cuando llegaron nuestro Príncipe Planetario y su personal.
+Hace 500.000 años estalló otra guerra racial de los tributos badonitas de las tierras altas del noroeste de la India, a raíz de la cual, más de cien años después, solo quedaron unas cien familias, las más inteligentes (<a id="a91_219"></a>[LU 64:5.1](/es/The_Urantia_Book/64#p5_1) ). De repente, una pareja de una de estas familias dio a luz a diecinueve niños excepcionalmente inteligentes. Esta era la _familia Sangik_, los antepasados de las seis razas de colores de Urantia (<a id="a91_459"></a>[LU 64:5.2](/es/The_Urantia_Book/64#p5_2)). Cinco eran rojos, dos naranjas, cuatro amarillos, dos verdes, cuatro azules y dos añiles. A través de uniones con miembros de su tribu, sus descendientes tendieron a tomar el color de piel de su antepasado Sangik (<a id="a91_717"></a>[LU 64:5.3](/es/The_Urantia_Book/64#p5_3)). También fue en este momento cuando llegaron nuestro Príncipe Planetario y su personal.
 
 Estas seis razas de colores se dispersaron por todo el planeta y su aventura se os cuenta en el documento 64:7. Básicamente, el Hombre Rojo se dirigió hacia el este, hacia Asia, y luego cruzó el estrecho de Bering hacia América. El hombre amarillo siguió al hombre rojo que lo perseguía desde Asia y se instaló allí. Una mezcla de rojo y amarillo, el hombre moreno se dirigió hacia el sur, hacia las islas. El Hombre Azul emigró hacia el oeste, hacia Europa. El hombre naranja siguió la costa mediterránea hacia África donde fue exterminado por el hombre verde que lo seguía. El hombre verde fue parcialmente absorbido y eliminado por el hombre índigo que se apoderó de África y permaneció allí.
 
-A la raza andónica y a las seis razas de colores hay que incluir a los noditas y a los adamitas, razas todas ellas que constituyen una feliz mezcla que se distingue hoy por tres grandes subdivisiones, los caucasoides, los mongoloides y los negroides ([LU 81:4.11-13](/es/The_Urantia_Book/81#p4_11)) .
+A la raza andónica y a las seis razas de colores hay que incluir a los noditas y a los adamitas, razas todas ellas que constituyen una feliz mezcla que se distingue hoy por tres grandes subdivisiones, los caucasoides, los mongoloides y los negroides (<a id="a95_251"></a>[LU 81:4.11-13](/es/The_Urantia_Book/81#p4_11)) .
 
 ## Conclusión
 
@@ -88,3 +112,28 @@ La historia contada por los reveladores es contada por las mismas personas que l
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Reflexions_sur_les_grandes_questions_existentielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre las grandes cuestiones existenciales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="pr-2">Tiempo y niveles de conciencia.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

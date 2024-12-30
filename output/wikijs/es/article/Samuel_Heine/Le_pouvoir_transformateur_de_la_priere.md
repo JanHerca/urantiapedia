@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Samuel Heïne<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conscience_du_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia del Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marc_Belleau/Bonne_annee">
+          <span class="pr-2">¡Felíz año!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -37,7 +61,7 @@ Es la religiosidad viva, íntima y personal entre uno mismo y Dios. Con el tiemp
 Esto es algo que no podemos hacer en lugar de otro, a lo sumo podemos ser ejemplos vivos y contagiosos de ello.
 <br style="clear:both;"/>
 
-> La presencia del Espíritu divino, el agua de la vida, es la que impide la sed devoradora del descontento de los mortales y el hambre indescriptible de la mente humana no espiritualizada. Los seres motivados por el espíritu «nunca tienen sed, pues este agua espiritual será en ellos una fuente de satisfacción que mana hasta la vida eterna». Estas almas divinamente regadas son casi independientes del entorno material en lo que se refiere a las alegrías de la vida y a las satisfacciones de la existencia terrenal. Están iluminadas y refrescadas espiritualmente, fortalecidas y dotadas moralmente. ([LU 34:6.8](/es/The_Urantia_Book/34#p6_8))
+> La presencia del Espíritu divino, el agua de la vida, es la que impide la sed devoradora del descontento de los mortales y el hambre indescriptible de la mente humana no espiritualizada. Los seres motivados por el espíritu «nunca tienen sed, pues este agua espiritual será en ellos una fuente de satisfacción que mana hasta la vida eterna». Estas almas divinamente regadas son casi independientes del entorno material en lo que se refiere a las alegrías de la vida y a las satisfacciones de la existencia terrenal. Están iluminadas y refrescadas espiritualmente, fortalecidas y dotadas moralmente. (<a id="a63_601"></a>[LU 34:6.8](/es/The_Urantia_Book/34#p6_8))
 
 ## Fe simple
 
@@ -66,10 +90,35 @@ Es un estado de ánimo.
 «La forma más rápida de contraer una úlcera es intentar ser algo que no eres. " (sonrisa)
 <br style="clear:both;"/>
 
-> «A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vivid lealmente hoy —creced— y mañana será otro día. La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo.» ([LU 100:1.4](/es/The_Urantia_Book/100#p1_4))
+> «A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vivid lealmente hoy —creced— y mañana será otro día. La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo.» (<a id="a92_457"></a>[LU 100:1.4](/es/The_Urantia_Book/100#p1_4))
 
 ## Referencias
 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conscience_du_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia del Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marc_Belleau/Bonne_annee">
+          <span class="pr-2">¡Felíz año!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

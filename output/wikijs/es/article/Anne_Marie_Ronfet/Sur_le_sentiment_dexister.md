@@ -50,7 +50,7 @@ Estos ejemplos nos muestran que el sentimiento de existir o no existir es subjet
 - Conocemos nuestros límites y tratamos de superarlos.
 - Podemos crear experiencias y darles sentido.
 
-_El Libro de Urantia nos dice [LU 112:1.13](/es/The_Urantia_Book/112#p1_13) La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores de identidad y significados de continuidad a esta asociación de un organismo y un entorno..._
+_El Libro de Urantia nos dice <a id="a52_30"></a>[LU 112:1.13](/es/The_Urantia_Book/112#p1_13) La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores de identidad y significados de continuidad a esta asociación de un organismo y un entorno..._
 
 Así que tenemos una identidad y un entorno, a veces un buen entorno, a veces un entorno más difícil. En los casos que acabo de citar, el ambiente es extremadamente duro.
 
@@ -60,13 +60,13 @@ La personalidad unifica todos los factores de la realidad, el cuerpo, las reacci
 
 La personalidad coordina, toma decisiones y dirige al individuo en una dirección u otra... Garantiza que el individuo no sea una máquina, una simple herramienta para reaccionar ante estímulos, sino un factor de elección teniendo en cuenta toda la situación... Y todo sucede en la mente. Es la mente la gran intérprete, el terreno donde tienen lugar los intercambios, donde nacen los significados. Y la fuerza impulsora detrás de estos intercambios es la personalidad;
 
-> _El yo y el entorno establecen un contacto significativo por mediación de la mente. La capacidad y la buena disposición del organismo para efectuar estos contactos significativos con el entorno (para reaccionar a los estímulos) representa la *actitud* de toda la personalidad._ ([LU 112:1.15](/es/The_Urantia_Book/112#p1_15))
+> _El yo y el entorno establecen un contacto significativo por mediación de la mente. La capacidad y la buena disposición del organismo para efectuar estos contactos significativos con el entorno (para reaccionar a los estímulos) representa la *actitud* de toda la personalidad._ (<a id="a62_281"></a>[LU 112:1.15](/es/The_Urantia_Book/112#p1_15))
 
 ## I. Profundiza tus experiencias
 
 Comprender las propias experiencias desde un punto de vista psicológico, sacar conclusiones de ellas y añadir a ellas elementos espiritualizadores permite dar grandes pasos.
 
-> _En todos los conceptos sobre la individualidad se debería reconocer que el hecho de la vida viene en primer lugar, y que su evaluación o interpretación viene después. El niño humano primero *vive*, y posteriormente *reflexiona* sobre su vida. En la economía cósmica, la perspicacia precede a la previsión._ ([LU 112:2.6](/es/The_Urantia_Book/112#p2_6))
+> _En todos los conceptos sobre la individualidad se debería reconocer que el hecho de la vida viene en primer lugar, y que su evaluación o interpretación viene después. El niño humano primero *vive*, y posteriormente *reflexiona* sobre su vida. En la economía cósmica, la perspicacia precede a la previsión._ (<a id="a68_311"></a>[LU 112:2.6](/es/The_Urantia_Book/112#p2_6))
 
 Empezamos viviendo, sacamos conclusiones, reflexionamos, adquirimos cierta sabiduría y dominio de nuestro entorno. Pero podemos ir más allá añadiendo valor espiritual. ¿Qué significa agregar valor espiritual a las experiencias de uno?
 
@@ -86,7 +86,7 @@ Por otro lado, estos valores son parte del surgimiento del Supremo. Los valores 
 
 Si volvemos a los ejemplos desafortunados de las personas citadas anteriormente y que no son raros, encontramos en cada caso una gran soledad.
 
-Los folletos también nos dicen [LU 112:1.16](/es/The_Urantia_Book/112#p1_16) _La personalidad actúa con dificultad de forma aislada. El hombre es, por nacimiento, una criatura sociable; está dominado por un ardiente deseo de pertenecer. Es literalmente cierto que “nadie vive para sí mismo”.
+Los folletos también nos dicen <a id="a88_31"></a>[LU 112:1.16](/es/The_Urantia_Book/112#p1_16) _La personalidad actúa con dificultad de forma aislada. El hombre es, por nacimiento, una criatura sociable; está dominado por un ardiente deseo de pertenecer. Es literalmente cierto que “nadie vive para sí mismo”.
 
 Entendemos mejor la angustia que experimenta la mujer cuya historia se cita más arriba o el hombre a la deriva...
 

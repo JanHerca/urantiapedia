@@ -40,7 +40,7 @@ Parece que “el Espíritu sopla donde quiere y cuando quiere”. Parece.
 
 Jesús dijo: “Cuando sopla el viento, oís el susurro de las hojas, pero no veis el viento, ni de dónde viene ni adónde va, y así ocurre con todo aquel que nace del espíritu.
 
-_Con los ojos de la carne podemos percibir las manifestaciones del espíritu, pero en realidad no podemos discernir el espíritu_”. [LU 142:6.5](/es/The_Urantia_Book/142#p6_5)
+_Con los ojos de la carne podemos percibir las manifestaciones del espíritu, pero en realidad no podemos discernir el espíritu_”. <a id="a42_130"></a>[LU 142:6.5](/es/The_Urantia_Book/142#p6_5)
 
 Así que abramos nuestros ojos, estas ventanas del alma, y prestemos atención a las corrientes de aire.
 

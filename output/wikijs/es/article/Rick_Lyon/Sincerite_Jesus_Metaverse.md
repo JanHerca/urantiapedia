@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_mental_ce_grand_meconnu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La mente, esa gran desconocida!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-364-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 364 — Febrero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/ChatGPT_et_LU">
+          <span class="pr-2">ChatGPT y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -88,7 +112,7 @@ La realidad virtual y la gamificación para el estudio de determinadas materias 
 
 Como jefe de recaudación de fondos del Center for Unity, a menudo me preguntan cuándo es el mejor momento para dar este gran paso adelante. Tengo un dicho favorito que dice que el mejor momento para hacer algo es ahora. Algunos de nosotros, la vieja guardia, como se nos ha llamado, venimos de una época en la que un gran debate sobre cómo hacer avanzar la revelación era una parte importante de las cuestiones que dividieron a la comunidad Urantia a principios de los años noventa. El propio Libro de Urantia, con la historia de Adán y Eva, advierte contra la impaciencia y el movimiento demasiado rápido. No fue ir rápido lo que causó su problema, sino ir en contra del plan de Dios. _El Libro de Urantia_ también nos advierte contra ir demasiado despacio:
 
-Jesús continuó enseñando a los veinticuatro, diciendo: «Los gentiles no carecen de excusa cuando se enojan contra nosotros. Debido a que su perspectiva es limitada y estrecha, **pueden concentrar sus energías con entusiasmo**. Su objetivo está cerca de ellos y más o menos visible; por eso **hacen esfuerzos valientes y son eficientes en la ejecución**. Tú, que has proclamado tu entrada en el reino de los cielos, eres **absolutamente demasiado vacilante e impreciso en la conducción de tu enseñanza**. Los paganos dan golpes directos para lograr sus objetivos. Eres **culpable de tener demasiados deseos latentes**. Si quieres entrar en el reino, ¿por qué no **capturarlo mediante un asalto espiritual**, como los paganos toman una ciudad y la asedian? Difícilmente eres digno del reino cuando tu servicio consiste en gran medida en lamentar el pasado, lamentar el presente y expresar vanas esperanzas para el futuro. ¿Por qué están enojados los paganos? Porque no saben la verdad. ¿Por qué languideces en deseos inútiles? Porque no obedeces la verdad. **Pon fin a tus deseos inútiles y ve con valentía** a hacer lo que concierne al establecimiento del reino. » ([LU 155:1.3](/es/The_Urantia_Book/155#p1_3) [1725.4] (se agregaron caracteres en negrita))
+Jesús continuó enseñando a los veinticuatro, diciendo: «Los gentiles no carecen de excusa cuando se enojan contra nosotros. Debido a que su perspectiva es limitada y estrecha, **pueden concentrar sus energías con entusiasmo**. Su objetivo está cerca de ellos y más o menos visible; por eso **hacen esfuerzos valientes y son eficientes en la ejecución**. Tú, que has proclamado tu entrada en el reino de los cielos, eres **absolutamente demasiado vacilante e impreciso en la conducción de tu enseñanza**. Los paganos dan golpes directos para lograr sus objetivos. Eres **culpable de tener demasiados deseos latentes**. Si quieres entrar en el reino, ¿por qué no **capturarlo mediante un asalto espiritual**, como los paganos toman una ciudad y la asedian? Difícilmente eres digno del reino cuando tu servicio consiste en gran medida en lamentar el pasado, lamentar el presente y expresar vanas esperanzas para el futuro. ¿Por qué están enojados los paganos? Porque no saben la verdad. ¿Por qué languideces en deseos inútiles? Porque no obedeces la verdad. **Pon fin a tus deseos inútiles y ve con valentía** a hacer lo que concierne al establecimiento del reino. » (<a id="a114_1165"></a>[LU 155:1.3](/es/The_Urantia_Book/155#p1_3) [1725.4] (se agregaron caracteres en negrita))
 
 El _Centro para la Unidad_ es sólo un medio en la batalla por la libertad humana. Sugiero que todos los proyectos Urantia busquen la victoria en esta guerra para hacer que el mundo vuelva a ser seguro para la religión de Jesús. Necesitamos mantenernos actualizados con los tiempos y las tecnologías actuales.
 
@@ -98,7 +122,7 @@ El _Centro para la Unidad_ es sólo un medio en la batalla por la libertad human
 
 La creación de la nueva imprenta de Johann Gutenberg provocó una revolución en la sociedad y la iglesia. Hubo entusiasmo y entusiasmo cuando la imprenta puso la Biblia en manos de las masas de gente común por primera vez. Estoy seguro de que mucha gente pensó que era un error. Pero ¡oh, cómo ha cambiado el mundo y nos ha sacado de las edades oscuras de la religión! No sé si Jesus Metaverse, Cinematic Jesus, Jesus Experience y Jesus Museum cambiarán dramáticamente el mundo, pero tal vez estos proyectos, si cuentan con el apoyo de la comunidad Urantia, serán el siguiente nivel de avance en la evolución de lo organizado. religiones sobre Jesús a la religión personal de Jesús, un alejamiento de las verdades estancadas del pasado hacia la nueva revelación de Dios y Jesús. Leemos en ***El Libro de Urantia***:
 
-Este período de espera y de enseñanza fue especialmente duro para Simón Pedro. Intentó repetidas veces persuadir a Jesús para que emprendiera la predicación del reino en Galilea mientras Juan continuaba predicando en Judea. Pero Jesús siempre respondía a Pedro: «Ten paciencia, Simón. Haz progresos. No estaremos de ningún modo demasiado preparados cuando el Padre nos llame». ([LU 137:7.3](/es/The_Urantia_Book/137#p7_3))
+Este período de espera y de enseñanza fue especialmente duro para Simón Pedro. Intentó repetidas veces persuadir a Jesús para que emprendiera la predicación del reino en Galilea mientras Juan continuaba predicando en Judea. Pero Jesús siempre respondía a Pedro: «Ten paciencia, Simón. Haz progresos. No estaremos de ningún modo demasiado preparados cuando el Padre nos llame». (<a id="a124_378"></a>[LU 137:7.3](/es/The_Urantia_Book/137#p7_3))
 
 Incluso en aquel entonces, el debate de «ir rápido o lento» era un problema para aquellos a quienes se les había confiado una nueva revelación. La verdad es que cualquier negocio sólo puede progresar tan rápido o exitosamente como Dios lo permita. Creo que hemos visto, a través de las coincidencias de nuestro progreso en este proyecto, que Dios está presente dentro del Center for Unity, al igual que los ángeles y los intermedios que forman parte de nuestro equipo. Creo tanto en esto que personalmente dedico mis esfuerzos a los ángeles y a los seres intermedios de este mundo que han soportado tanto con fidelidad y firmeza.
 
@@ -120,7 +144,7 @@ El truco está en que cada uno de nosotros haga lo que quiera sin criticarnos ni
 
 Desde el principio, el _Centro para la Unidad_ atrajo a líderes de las organizaciones Urantia más grandes. Los miembros de cada una de estas organizaciones sirven juntos en un servicio amoroso que representa el trabajo en equipo y la unidad que debería ejemplificar a toda la comunidad Urantia. El _Center for Unity_ nunca reemplazará la importante misión de las organizaciones, pero creo que es el único lugar, la única organización, donde todos podemos trabajar juntos en paz y armonía, con amor y amistad, que hará que nuestra luz sea para todos. ver.
 
-La religión de Jesús es la influencia unificadora más poderosa que el mundo jamás haya conocido. ([LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
+La religión de Jesús es la influencia unificadora más poderosa que el mundo jamás haya conocido. (<a id="a146_98"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17))
 
 Para mí, comencé respondiendo la siguiente pregunta: ¿por qué estoy participando en el _Center for Unity_ y sus proyectos? Nuestra misión es educar, iluminar, inspirar y transformar al individuo para transformar las naciones, incluso el mundo. Mediante el uso de tecnología moderna que atraiga a las generaciones más jóvenes, todas las diferentes formas en que la gente aprende, y a través de películas inspiradoras y exhibiciones de museo interactivas e inmersivas, llevaremos la religión de Jesús, sacada directamente del _Libro de Urantia_, a todo el mundo. ; y al hacerlo, podemos cambiar el mundo.
 
@@ -140,7 +164,7 @@ Creo que el _Centro para la Unidad_ es el proyecto más importante que se ha rea
 
 Creo que esto es lo que la comunidad urantiana estaba esperando. Recién estamos comenzando. Y finalmente, considere este pasaje de El Libro de Urantia:
 
-¡Qué avivamiento experimentaría el mundo si pudiera ver a Jesús tal como vivió en la Tierra y conocer de primera mano sus enseñanzas vivificantes! Las palabras que describen cosas hermosas no pueden emocionar tanto como la vista de estas cosas. ([LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
+¡Qué avivamiento experimentaría el mundo si pudiera ver a Jesús tal como vivió en la Tierra y conocer de primera mano sus enseñanzas vivificantes! Las palabras que describen cosas hermosas no pueden emocionar tanto como la vista de estas cosas. (<a id="a166_246"></a>[LU 195:9.8](/es/The_Urantia_Book/195#p9_8))
 
 Tengo una verdadera bendición de ser parte de toda esta historia, de la comunidad Urantia, con el equipo de maestros y líderes del _Centro para la Unidad_.
 
@@ -151,3 +175,28 @@ Siempre podrás elegir entre «ir rápido o lento», pero hazlo. Personalmente, 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-fevrier-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Le_mental_ce_grand_meconnu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La mente, esa gran desconocida!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-364-febrero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 364 — Febrero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/ChatGPT_et_LU">
+          <span class="pr-2">ChatGPT y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

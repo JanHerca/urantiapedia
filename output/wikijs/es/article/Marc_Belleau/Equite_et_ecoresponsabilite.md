@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Marc Belleau<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gilles_Bertrand/Au_diapason_de_la_revelation">
+          <span class="pr-2">En sintonía con la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,3 +67,28 @@ Artículo del CBC: https://www.cbc.ca/news/business/canadabanks-fossil-fuels-rep
 
 Lista de 50 empresas eco-responsables en 2022 (inglés): https://www.corporateknights.com/rankings/best-50-rankings/2022-best-50-rankings/canadas-best-50-corporate-citizens-of-2022-continue-to-conquer-the-markets/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_01_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gilles_Bertrand/Au_diapason_de_la_revelation">
+          <span class="pr-2">En sintonía con la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

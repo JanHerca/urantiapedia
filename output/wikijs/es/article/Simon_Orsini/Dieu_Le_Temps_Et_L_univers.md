@@ -40,7 +40,7 @@ Para un creyente, el tiempo no depende de la causalidad en relación con las per
 
 Jesús nos explicó que el tiempo era el fluir de los acontecimientos percibidos por la conciencia humana, es porque el tiempo pasa, que podemos separarlos, comprenderlos, experimentarlos. El tiempo es la imagen en movimiento de la eternidad. La primera visión del tiempo es lineal, la visión experimentada se vuelve global porque las ideas comienzan a desarrollarse dentro de un marco universal.
 
-> Aquellos mortales cuyas unidades de tiempo son cortas practican la paciencia; la verdadera madurez trasciende la paciencia mediante una tolerancia nacida de una verdadera comprensión. ([LU 118:1.6](/es/The_Urantia_Book/118#p1_6))
+> Aquellos mortales cuyas unidades de tiempo son cortas practican la paciencia; la verdadera madurez trasciende la paciencia mediante una tolerancia nacida de una verdadera comprensión. (<a id="a42_187"></a>[LU 118:1.6](/es/The_Urantia_Book/118#p1_6))
 
 
 Lo único libre del tiempo es la imaginación creativa humana. La creación es un fenómeno del espíritu, que va más allá del pensamiento material.
@@ -81,7 +81,7 @@ El hecho de que los astrofísicos descubran una organización diferente, una int
 
 El espacio interelectrónico está animado por manifestaciones ondulatorias perfectamente sincronizadas con la velocidad de los electrones; esta fuerza no está enteramente dominada por las leyes reconocidas de atracción positiva y negativa. Por eso a veces se comporta de forma impredecible.
 
-> El tiempo y el espacio son un mecanismo conjunto del universo maestro. Son los dispositivos que permiten a las criaturas finitas coexistir con el Infinito en el cosmos. Las criaturas finitas están eficazmente aisladas de los niveles absolutos por el tiempo y el espacio. Pero estos medios de aislamiento, sin los cuales ningún mortal podría existir, funcionan directamente para limitar el campo de la acción finita. Sin ellos ninguna criatura podría actuar, pero a causa de ellos, los actos de cada criatura están claramente limitados. ([LU 118:9.1](/es/The_Urantia_Book/118#p9_1))
+> El tiempo y el espacio son un mecanismo conjunto del universo maestro. Son los dispositivos que permiten a las criaturas finitas coexistir con el Infinito en el cosmos. Las criaturas finitas están eficazmente aisladas de los niveles absolutos por el tiempo y el espacio. Pero estos medios de aislamiento, sin los cuales ningún mortal podría existir, funcionan directamente para limitar el campo de la acción finita. Sin ellos ninguna criatura podría actuar, pero a causa de ellos, los actos de cada criatura están claramente limitados. (<a id="a83_539"></a>[LU 118:9.1](/es/The_Urantia_Book/118#p9_1))
 
 La anchura de los espacios entre las partículas de materia, así como la velocidad inicial de los rayos de energía, provocan la apariencia ondulatoria de muchas formas de energía de la materia. Las partículas que se mueven rápidamente provocan la excitación del contenido del espacio y producen una reacción ondulatoria.
 
@@ -91,9 +91,9 @@ Si consideramos que la velocidad de ciertos electrones alrededor del núcleo del
 
 Podemos controlar los electrones como negativos o positivos, pero en determinados momentos también debemos decir que es la posición la que determina lo positivo o lo negativo como nos lo demuestra el circuito de protones y neutrones. El caso es que en el caso de superposición de dos partículas ya no podemos saber cuál es la positiva o la negativa. Si el primer electrón es positivo, el segundo es negativo, pero esto es sólo una hipótesis. La asociación ordenada y segura de diversas energías constituye la materia. Las civilizaciones surgen y desaparecen, pero la ciencia, la moral y la religión siempre sobreviven al colapso.
 
-> Al igual que el espacio, el tiempo es un don del Paraíso, pero no en el mismo sentido, sino sólo indirectamente. El tiempo surge en virtud del movimiento y porque la mente es inherentemente consciente de las secuencias. Desde un punto de vista práctico, el movimiento es esencial para el tiempo, pero no existe ninguna unidad de tiempo universal basada en el movimiento, salvo en la medida en que el día oficial del Paraíso-Havona es reconocido arbitrariamente como tal unidad. La totalidad de la respiración del espacio destruye su valor local como fuente del tiempo. ([LU 12:5.1](/es/The_Urantia_Book/12#p5_1))
+> Al igual que el espacio, el tiempo es un don del Paraíso, pero no en el mismo sentido, sino sólo indirectamente. El tiempo surge en virtud del movimiento y porque la mente es inherentemente consciente de las secuencias. Desde un punto de vista práctico, el movimiento es esencial para el tiempo, pero no existe ninguna unidad de tiempo universal basada en el movimiento, salvo en la medida en que el día oficial del Paraíso-Havona es reconocido arbitrariamente como tal unidad. La totalidad de la respiración del espacio destruye su valor local como fuente del tiempo. (<a id="a93_572"></a>[LU 12:5.1](/es/The_Urantia_Book/12#p5_1))
 
-> El tiempo y el espacio sólo son inseparables en las creaciones del espacio-tiempo, en los siete superuniversos. El espacio intemporal (el espacio sin tiempo) existe teóricamente, pero el único lugar verdaderamente intemporal es el *área* del Paraíso. El tiempo no espacial (el tiempo sin espacio) existe en la mente del nivel funcional del Paraíso. ([LU 12:5.3](/es/The_Urantia_Book/12#p5_3))
+> El tiempo y el espacio sólo son inseparables en las creaciones del espacio-tiempo, en los siete superuniversos. El espacio intemporal (el espacio sin tiempo) existe teóricamente, pero el único lugar verdaderamente intemporal es el *área* del Paraíso. El tiempo no espacial (el tiempo sin espacio) existe en la mente del nivel funcional del Paraíso. (<a id="a95_352"></a>[LU 12:5.3](/es/The_Urantia_Book/12#p5_3))
 
 
 

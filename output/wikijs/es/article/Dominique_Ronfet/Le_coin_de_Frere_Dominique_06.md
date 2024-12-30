@@ -44,7 +44,7 @@ Estar lleno sería estar completo, fijo, sin aspiraciones, satisfecho, simplemen
 Afortunadamente existe nuestro vacío.
 Afortunadamente.
 
-> _Así pues, el estado incompleto del Supremo puede ser considerado como una ventaja, puesto que hace posible el crecimiento evolutivo de las criaturas creadas de los universos actuales. El vacío tiene en verdad sus ventajas, pues puede ser llenado con la experiencia._ ([LU 117:2.8](/es/The_Urantia_Book/117#p2_8))
+> _Así pues, el estado incompleto del Supremo puede ser considerado como una ventaja, puesto que hace posible el crecimiento evolutivo de las criaturas creadas de los universos actuales. El vacío tiene en verdad sus ventajas, pues puede ser llenado con la experiencia._ (<a id="a46_271"></a>[LU 117:2.8](/es/The_Urantia_Book/117#p2_8))
 
 Dominique Ronfet
 

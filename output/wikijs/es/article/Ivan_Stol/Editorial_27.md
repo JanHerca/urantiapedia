@@ -40,7 +40,7 @@ Queridos lectores,
 Preguntas:
 - Dios ha dado mucho al hombre: ¿qué hacemos con ello?
 - La sabiduría y la adoración son lo esencial de una personalidad: ¿qué hace con ellas?
-- Todas nuestras células luchan por la evolución (<a id="a41_48"></a>[LU 65:6.2](/es/The_Urantia_Book/65#p6_2)): ¿las estamos ayudando?
+- Todas nuestras células luchan por la evolución (<a id="a42_50"></a>[LU 65:6.2](/es/The_Urantia_Book/65#p6_2)): ¿las estamos ayudando?
 
 Los jóvenes buscan trabajo, pero cuando lo encuentran, lo abandonan a los pocos meses. Los patrones no lo entienden. Somos incapaces de ofrecer a estos jóvenes la nueva sociedad cuya llegada les hemos prometido. Tenemos el potencial de concienciarlos sobre el fin de una era, ¡ayudémoslos a innovar!
 

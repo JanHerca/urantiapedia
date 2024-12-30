@@ -67,7 +67,7 @@ _“En todo lo que vive encontrarás:_
 2. _la ley que se manifiesta en todo lo que vive en un impulso hacia su realización, su forma. Este es el orden del devenir._
 3. _cada ser vivo demuestra una unidad con lo que va más allá de él. Todo lo que vive vive en un todo que lo engloba. » Durckheim_
 
-> «La criatura personal dotada de la mente cósmica y habitada por un Ajustador posee la capacidad innata de reconocer y comprender la realidad de la energía, la realidad de la mente y la realidad del espíritu. La criatura volitiva está equipada así para discernir el hecho de Dios, la ley de Dios y el amor de Dios. Aparte de estos tres elementos inalienables de la conciencia humana, toda experiencia humana es realmente subjetiva, excepto esta comprensión intuitiva de lo que es válido vinculada a la *unificación* de estas tres respuestas del reconocimiento cósmico a la realidad universal.» ([LU 16:9.1](/es/The_Urantia_Book/16#p9_1))
+> «La criatura personal dotada de la mente cósmica y habitada por un Ajustador posee la capacidad innata de reconocer y comprender la realidad de la energía, la realidad de la mente y la realidad del espíritu. La criatura volitiva está equipada así para discernir el hecho de Dios, la ley de Dios y el amor de Dios. Aparte de estos tres elementos inalienables de la conciencia humana, toda experiencia humana es realmente subjetiva, excepto esta comprensión intuitiva de lo que es válido vinculada a la *unificación* de estas tres respuestas del reconocimiento cósmico a la realidad universal.» (<a id="a69_596"></a>[LU 16:9.1](/es/The_Urantia_Book/16#p9_1))
 
 _Para terminar :_
 

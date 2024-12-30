@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Robert Cadieux<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2024_06_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Limportance_de_lunite_organisationnelle">
+          <span class="pr-2">La importancia de la unidad organizacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -28,7 +52,7 @@ Conocí la asociación Urantia de Quebec en 2012, este fue el comienzo de un int
 
 Dios habita en nosotros a través de su presencia divina, nuestro Ajustador del Pensamiento y ésta es, en mi opinión, una, si no la mayor, revelación del _Libro de Urantia_ que nos trae iluminación y frescura espiritual.
 
-Aunque ***El Libro de Urantia*** fue publicado hace casi 69 años, el 12 de octubre de 1955, se nos dice en: «El nacimiento de una revelación» que los primeros 60 a 75 años del libro sirvieron para solidificar su base y asegurar la solidez de su presencia reveladora. Nosotros, los lectores canosos y quienes nos siguen, somos la vanguardia, un grupo innovador en el ámbito espiritual del movimiento que ha tomado forma y se está expandiendo audazmente a escala global para promover la nueva religión de la humanidad, la religión de Jesús, la religión de la experiencia espiritual personal [[LU 155:6.8](/es/The_Urantia_Book/155#p6_8)].
+Aunque ***El Libro de Urantia*** fue publicado hace casi 69 años, el 12 de octubre de 1955, se nos dice en: «El nacimiento de una revelación» que los primeros 60 a 75 años del libro sirvieron para solidificar su base y asegurar la solidez de su presencia reveladora. Nosotros, los lectores canosos y quienes nos siguen, somos la vanguardia, un grupo innovador en el ámbito espiritual del movimiento que ha tomado forma y se está expandiendo audazmente a escala global para promover la nueva religión de la humanidad, la religión de Jesús, la religión de la experiencia espiritual personal <a id="a54_589"></a>[[LU 155:6.8](/es/The_Urantia_Book/155#p6_8)].
 
 El Libro, esta nueva revelación, nos fue dada mucho antes de la época en que será más fácil establecer un orden superior de relaciones humanas en la tierra. Se ha adelantado su publicación para que ahora pueda utilizarse para formar a cocineros e instructores. Nosotros, que sabemos esto, debemos ser los portadores de la antorcha, iluminando e instruyendo a quienes buscan sinceramente la verdad.
 
@@ -53,3 +77,28 @@ Juntos estamos comprometidos a responder al llamado de Jesús y su Padre, nuestr
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2024_06_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Limportance_de_lunite_organisationnelle">
+          <span class="pr-2">La importancia de la unidad organizacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

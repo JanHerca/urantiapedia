@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Passer_au_suivant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasando al siguiente...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Une_fete_Bahaie">
+          <span class="pr-2">Una celebración bahá'í</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -18,7 +42,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 _Claude Flibotte_
 Sainte-Julie
 
-«_Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia._» ([LU 49:3.6](/es/The_Urantia_Book/49#p3_6)).
+«_Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia._» (<a id="a44_168"></a>[LU 49:3.6](/es/The_Urantia_Book/49#p3_6)).
 
 He aquí una cita de El Libro de Urantia que sin duda despierta vuestra curiosidad, ¡al menos la mía! Anteriormente había leído un artículo de un autor que trataba este tema, del que lamentablemente no pude encontrar rastro, que ubicaba su planeta dentro de nuestro sistema solar. Obviamente, para Melquisedec de la escuela de administración planetaria de Jerusem, «muy cerca de Urantia» puede significar dentro de nuestro sistema solar así como a años luz de distancia.
 <br style="clear:both;"/>
@@ -40,7 +64,7 @@ Según las últimas informaciones recogidas, Próxima Centauri podría tener una
 
 ## ¿Qué sabemos sobre el planeta Próxima Centauri B?
 
-Proxima Centauri B es un planeta que orbita a 7 millones de kilómetros de su estrella. Realiza su recorrido en lo que según nuestros astrónomos se llama la zona habitable, o zona donde es posible la existencia de agua líquida. Su descubrimiento fue realizado en agosto de 2016 por el Observatorio Europeo Austral. Tendría una masa de 1,3 en comparación con nuestra Tierra. Sería un planeta rocoso. Suponiendo que no tenga atmósfera, lo que concuerda con lo que dice _El Libro de Urantia_ para un mundo que no respira, este estado de cosas le daría una temperatura de -40 °C a la sombra. Hace demasiado frío para mí, pero ¿es cómodo para quienes no respiran? Pero, como se menciona en [LU 49:3.4](/es/The_Urantia_Book/49#p3_4) para los no respiradores «_las reacciones del sistema nervioso, el mecanismo regulador de la temperatura y el metabolismo de estos pueblos especializados son radicalmente diferentes a estas mismas funciones en los mortales de Urantia_». Por lo tanto, una persona sin respirador probablemente no tendría dificultades para vivir a una temperatura tan baja a menos que evitara pasar largos períodos de tiempo a la sombra.
+Proxima Centauri B es un planeta que orbita a 7 millones de kilómetros de su estrella. Realiza su recorrido en lo que según nuestros astrónomos se llama la zona habitable, o zona donde es posible la existencia de agua líquida. Su descubrimiento fue realizado en agosto de 2016 por el Observatorio Europeo Austral. Tendría una masa de 1,3 en comparación con nuestra Tierra. Sería un planeta rocoso. Suponiendo que no tenga atmósfera, lo que concuerda con lo que dice _El Libro de Urantia_ para un mundo que no respira, este estado de cosas le daría una temperatura de -40 °C a la sombra. Hace demasiado frío para mí, pero ¿es cómodo para quienes no respiran? Pero, como se menciona en <a id="a66_684"></a>[LU 49:3.4](/es/The_Urantia_Book/49#p3_4) para los no respiradores «_las reacciones del sistema nervioso, el mecanismo regulador de la temperatura y el metabolismo de estos pueblos especializados son radicalmente diferentes a estas mismas funciones en los mortales de Urantia_». Por lo tanto, una persona sin respirador probablemente no tendría dificultades para vivir a una temperatura tan baja a menos que evitara pasar largos períodos de tiempo a la sombra.
 
 ## Distribución de planetas habitados por tipos humanoides que no respiran.
 
@@ -70,9 +94,9 @@ Otra particularidad de estos no respiradores reside en la comunicación. ¿Cómo
 <figcaption>Ilustración artística del planeta Próxima B Centauri. Fuente: <a href="https://bit.ly/3AsSx7u">Youtube</a></figcaption>
 </figure>
 
-Otra característica interesante se menciona en [LU 40:5.15](/es/The_Urantia_Book/40#p5_15) donde el Poderoso Mensajero nos informa que los no respiradores necesitan medios especiales para comunicarse con nosotros en los mundos morontiales. Esto presupone que nuestros cuerpos morontiales son similares a los de nuestros cuerpos mortales. También según la hipótesis de Richard, deberían equiparse con dispositivos que conviertan sus ondas de radio en ondas sonoras y viceversa para nosotros.
+Otra característica interesante se menciona en <a id="a96_47"></a>[LU 40:5.15](/es/The_Urantia_Book/40#p5_15) donde el Poderoso Mensajero nos informa que los no respiradores necesitan medios especiales para comunicarse con nosotros en los mundos morontiales. Esto presupone que nuestros cuerpos morontiales son similares a los de nuestros cuerpos mortales. También según la hipótesis de Richard, deberían equiparse con dispositivos que conviertan sus ondas de radio en ondas sonoras y viceversa para nosotros.
 
-Finalmente, Richard concluye su artículo mencionando que los no respiradores son idénticos a nosotros en la manifestación del espíritu y la personalidad. Tiene la impresión de que la oración en [LU 144:5.6](/es/The_Urantia_Book/144#p5_6) que dice: «_danos hoy las fuerzas vivificantes de la luz_» habría sido escrita por alguien que no respira.
+Finalmente, Richard concluye su artículo mencionando que los no respiradores son idénticos a nosotros en la manifestación del espíritu y la personalidad. Tiene la impresión de que la oración en <a id="a98_194"></a>[LU 144:5.6](/es/The_Urantia_Book/144#p5_6) que dice: «_danos hoy las fuerzas vivificantes de la luz_» habría sido escrita por alguien que no respira.
 
 ## Un destino en una supervivencia diferente.
 
@@ -85,3 +109,28 @@ Fuente de información sobre la estrella: La enciclopedia Wikipedia.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Passer_au_suivant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasando al siguiente...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Une_fete_Bahaie">
+          <span class="pr-2">Una celebración bahá'í</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

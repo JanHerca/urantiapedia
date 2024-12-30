@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Claude Flibotte<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Pourquoi_un_groupe_detude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué un grupo de estudio?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rex_Merrett/Votre_heure_est_elle_venue">
+          <span class="pr-2">¿Ha llegado tu hora?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -67,9 +91,9 @@ De hecho, a los líderes del Sanedrín les dio vergüenza revelar las verdaderas
 <figcaption>Foto La Presse+. <a href="https://www.lapresse.ca/">https://www.lapresse.ca/</a></figcaption>
 </figure>
 
-Inicialmente, el tribunal del Sanedrín quería condenar a muerte a Jesús por violar la ley, blasfemar y burlarse de las tradiciones de los padres de Israel ([LU 184:3.1](/es/The_Urantia_Book/184#p3_1)). Esta comparecencia se produjo de forma ilegal y con total imparcialidad. Como último recurso, los sanedristas acordaron tres cargos: 1- Engañó peligrosamente a la gente común. Que les enseñó cosas imposibles y los engañó de otras maneras; 2- Que era un revolucionario fanático, en el sentido de que recomendaba la violencia contra el templo sagrado, porque ¿de qué otra manera podría destruirlo? 3- ¡Que enseñó magia, en el sentido de que prometió construir un nuevo templo sin ayuda de manos ([LU 184:3.10-12](/es/The_Urantia_Book/184#p3_10))!
+Inicialmente, el tribunal del Sanedrín quería condenar a muerte a Jesús por violar la ley, blasfemar y burlarse de las tradiciones de los padres de Israel (<a id="a93_156"></a>[LU 184:3.1](/es/The_Urantia_Book/184#p3_1)). Esta comparecencia se produjo de forma ilegal y con total imparcialidad. Como último recurso, los sanedristas acordaron tres cargos: 1- Engañó peligrosamente a la gente común. Que les enseñó cosas imposibles y los engañó de otras maneras; 2- Que era un revolucionario fanático, en el sentido de que recomendaba la violencia contra el templo sagrado, porque ¿de qué otra manera podría destruirlo? 3- ¡Que enseñó magia, en el sentido de que prometió construir un nuevo templo sin ayuda de manos (<a id="a93_696"></a>[LU 184:3.10-12](/es/The_Urantia_Book/184#p3_10))!
 
-Finalmente, como sus acusaciones no se sostenían ante Pilato, los líderes del Sanedrín le proporcionaron a Pilato el texto de una acusación diferente basada en tres cargos que seguían siendo igual de ridículos. Lo acusó de ser un malhechor y un perturbador de su nación al provocar que el pueblo se rebelara; al prohibir pagar tributo a César y luego llamarse rey de los judíos y enseñar la fundación de un nuevo reino ([LU 185:2.10-13](/es/The_Urantia_Book/185#p2_10)). Según las leyes de la época, Jesús no fue juzgado adecuadamente ni condenado legalmente por ninguno de estos cargos ([LU 185:2.14](/es/The_Urantia_Book/185#p2_14)).
+Finalmente, como sus acusaciones no se sostenían ante Pilato, los líderes del Sanedrín le proporcionaron a Pilato el texto de una acusación diferente basada en tres cargos que seguían siendo igual de ridículos. Lo acusó de ser un malhechor y un perturbador de su nación al provocar que el pueblo se rebelara; al prohibir pagar tributo a César y luego llamarse rey de los judíos y enseñar la fundación de un nuevo reino (<a id="a95_420"></a>[LU 185:2.10-13](/es/The_Urantia_Book/185#p2_10)). Según las leyes de la época, Jesús no fue juzgado adecuadamente ni condenado legalmente por ninguno de estos cargos (<a id="a95_588"></a>[LU 185:2.14](/es/The_Urantia_Book/185#p2_14)).
 
 ## Razones y acusaciones que llevaron a Trump ante la justicia
 
@@ -127,3 +151,28 @@ Es de lamentar que hoy en día abundan en este planeta dictadores de su calibre 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Pourquoi_un_groupe_detude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué un grupo de estudio?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rex_Merrett/Votre_heure_est_elle_venue">
+          <span class="pr-2">¿Ha llegado tu hora?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

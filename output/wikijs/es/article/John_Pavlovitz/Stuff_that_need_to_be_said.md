@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 John Pavlovitz<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Belleau/Le_parlement_des_religions_du_monde_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Parlamento de las Religiones del Mundo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-373-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 373 — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Guerres_et_paix">
+          <span class="pr-2">¡Guerras y paz!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Juan Pavlovitz_
@@ -84,3 +108,28 @@ Quedémonos con ella y luchemos como el infierno por ella.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-novembre-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Belleau/Le_parlement_des_religions_du_monde_2023">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Parlamento de las Religiones del Mundo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-373-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 373 — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Guerres_et_paix">
+          <span class="pr-2">¡Guerras y paz!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Robert Cadieux<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francine_Fortin/Retrospective_su_le_Congres_international_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retrospectiva del Congreso Internacional de la AUI 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="pr-2">Una hipótesis sobre la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -65,7 +89,7 @@ La diferencia entre una persona que tiene una vida interior que conoce a Dios y 
 
 Jesús nos dio una primera definición del alma:
 
-> «El alma es la parte del hombre que refleja su yo, discierne la verdad y percibe el espíritu, y que eleva para siempre al ser humano por encima del nivel del mundo animal.» ([LU 133:6.5](/es/The_Urantia_Book/133#p6_5))
+> «El alma es la parte del hombre que refleja su yo, discierne la verdad y percibe el espíritu, y que eleva para siempre al ser humano por encima del nivel del mundo animal.» (<a id="a91_176"></a>[LU 133:6.5](/es/The_Urantia_Book/133#p6_5))
 
 El alma tiene su propia existencia y, si bien debemos participar en su crecimiento a través de nuestras acciones espirituales dinámicas, es decir produciendo los frutos del espíritu, ella a cambio nos nutre a través de la conciencia que tenemos de ella que estimula. nuestra imaginación espiritual iluminada por nuestro Ajustador y el Espíritu de la Verdad.
 
@@ -73,7 +97,7 @@ El alma tiene su propia existencia y, si bien debemos participar en su crecimien
 <img src="/image/article/Reflectivite/2024_05/007.jpg">
 </figure>
 
-Jesús dijo: [LU 140:3.13](/es/The_Urantia_Book/140#p3_13)... «Vosotros sois la luz del mundo...»
+Jesús dijo: <a id="a99_12"></a>[LU 140:3.13](/es/The_Urantia_Book/140#p3_13)... «Vosotros sois la luz del mundo...»
 
 Debemos ser sus apóstoles e iluminar el camino de las personas que aún no ven la luz que sin embargo está en todos aquellos que se preparan a nacer del Espíritu.
 
@@ -85,19 +109,19 @@ Hay esta frase que me viene a la mente y dice:
 
 Una actitud vivaz y positiva, la expresión de nuestro rostro, una sonrisa amable se convierten en la puerta de entrada para tomar contacto con el alma de las personas que encontramos en nuestro camino. Me inspira la forma en que Jesús habló a la gente.
 
-> ...Jesús hablaba directamente al alma de los hombres. Instruía al espíritu del hombre, pero a través de la mente. Vivía con los hombres. ([LU 141:7.10](/es/The_Urantia_Book/141#p7_10))
+> ...Jesús hablaba directamente al alma de los hombres. Instruía al espíritu del hombre, pero a través de la mente. Vivía con los hombres. (<a id="a111_140"></a>[LU 141:7.10](/es/The_Urantia_Book/141#p7_10))
 
 Y también:
 
 > ...Por regla general, era a aquellos a quienes más enseñaba a quienes menos les decía. Los que más se beneficiaron de su ministerio personal fueron personas sobrecargadas de trabajo, ansiosas y deprimidas, a quienes la oportunidad de derramar sus almas ante un oyente comprensivo y comprensivo les supuso un gran alivio; Jesús fue ese oyente, y más.
 
-> Jesús nunca tenía prisa. Tenía tiempo para confortar a sus semejantes «mientras pasaba». Siempre procuraba que sus amigos se sintieran a gusto. Era un oyente encantador. ([LU 171:7.5](/es/The_Urantia_Book/171#p7_5))
+> Jesús nunca tenía prisa. Tenía tiempo para confortar a sus semejantes «mientras pasaba». Siempre procuraba que sus amigos se sintieran a gusto. Era un oyente encantador. (<a id="a117_173"></a>[LU 171:7.5](/es/The_Urantia_Book/171#p7_5))
 
-> ...Inspiraba una profunda confianza en uno mismo y una sólida valentía a todos los que disfrutaban de su compañía. Cuando le sonreía a un hombre, ese mortal experimentaba una mayor capacidad para resolver sus múltiples problemas. ([LU 171:7.6](/es/The_Urantia_Book/171#p7_6))
+> ...Inspiraba una profunda confianza en uno mismo y una sólida valentía a todos los que disfrutaban de su compañía. Cuando le sonreía a un hombre, ese mortal experimentaba una mayor capacidad para resolver sus múltiples problemas. (<a id="a119_233"></a>[LU 171:7.6](/es/The_Urantia_Book/171#p7_6))
 
 Lo que Jesús hizo, nosotros podemos hacerlo; conectarnos con nuestros hermanos y hermanas humanos, inspirarnos dejando que nuestras almas entren en contacto con las de ellos. Tenemos las claves de la instrucción, ***El Libro de Urantia*** nos las reveló y los intermedios nos enseñaron que:
 
-> ...El impulso espiritual hacia adelante es la fuerza motriz más poderosa que existe en este mundo; el creyente que aprende la verdad es la única alma progresiva y dinámica de la Tierra. ([LU 194:3.4](/es/The_Urantia_Book/194#p3_4))
+> ...El impulso espiritual hacia adelante es la fuerza motriz más poderosa que existe en este mundo; el creyente que aprende la verdad es la única alma progresiva y dinámica de la Tierra. (<a id="a123_189"></a>[LU 194:3.4](/es/The_Urantia_Book/194#p3_4))
 
 Este es el impulso que siento con el estímulo de mi alma viviente.
 
@@ -114,3 +138,28 @@ Nos vemos en Brasil en 2027.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francine_Fortin/Retrospective_su_le_Congres_international_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Retrospectiva del Congreso Internacional de la AUI 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="pr-2">Una hipótesis sobre la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

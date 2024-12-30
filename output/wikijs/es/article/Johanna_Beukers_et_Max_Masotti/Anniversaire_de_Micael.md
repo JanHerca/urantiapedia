@@ -39,13 +39,13 @@ Este año decidimos celebrar el cumpleaños de Micaël en nuestra casa de Sollie
 
 Este tema de la transfiguración es más complejo de lo que parece ya que ciertas preguntas quedan sin respuesta, como por ejemplo: “¿Por qué Jesús y sus apóstoles tuvieron que quedarse dos días para prepararse espiritualmente? » ¿Cómo podemos prepararnos también espiritualmente?
 
-La LU nos informa que los tres apóstoles elegidos por Jesús no pudieron alcanzar los niveles espirituales que hubieran justificado el riesgo de ponerlos de lleno en presencia de los seres celestiales cuya aparición en la tierra era inminente. [LU 158:0.2](/es/The_Urantia_Book/158#p0_2)
+La LU nos informa que los tres apóstoles elegidos por Jesús no pudieron alcanzar los niveles espirituales que hubieran justificado el riesgo de ponerlos de lleno en presencia de los seres celestiales cuya aparición en la tierra era inminente. <a id="a41_243"></a>[LU 158:0.2](/es/The_Urantia_Book/158#p0_2)
 
 ¿Cuál era también el riesgo de ponerlos de lleno en presencia de seres celestiales? (cita de LU)
 
 En la mañana del lunes 15 de agosto, Jesús y los tres apóstoles iniciaron el ascenso al monte Hermón y llegaron a su destino, a mitad del camino de la cumbre, poco antes del mediodía. Siguiendo las instrucciones de Jean, «A mitad de camino». El monte Hermón tiene 2.814 m de altura, es decir, unos 1.400 m”.
 
-El LU también nos dice “_A Jesús se le había pedido que subiera solo a la montaña para resolver ciertos asuntos importantes relacionados con el progreso de su autootorgamiento encarnado_”.([LU 158:1.2](/es/The_Urantia_Book/158#p1_2))
+El LU también nos dice “_A Jesús se le había pedido que subiera solo a la montaña para resolver ciertos asuntos importantes relacionados con el progreso de su autootorgamiento encarnado_”.(<a id="a47_189"></a>[LU 158:1.2](/es/The_Urantia_Book/158#p1_2))
 
 ¿Quién le pidió a Jesús que subiera solo a la montaña?
 

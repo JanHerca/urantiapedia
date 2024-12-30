@@ -39,7 +39,7 @@ Por qué utilizar... _la técnica de acercarse al hombre y sus problemas planeta
 
 Muchos lectores o futuros lectores de El libro de Urantia prefieren comenzar su lectura con la vida de Jesús o con otra parte del libro, sin empezar por el principio. _El Libro de Urantia_ nos da muy buenas razones para empezar por el principio. Éstos son algunos de ellos:
 
-> _Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ ([LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
+> _Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ (<a id="a41_516"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
 
 Siguiendo los consejos del autor (un Consejero Divino), nuestra mente humana inconscientemente se pone en sintonía con la mente cósmica, o al menos intenta hacerlo, lo cual ya no está tan mal, es el primer paso hacia la sabiduría espiritual. .
 

@@ -272,9 +272,9 @@ La asamblea nombra sustituto a Gilles Mauroy.
 
 No hay más discusiones en la agenda. La reunión finaliza a las 11:30 horas.
 
-> CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. (<a id="a274_194"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
-> Todo el proyecto de la creación y de la evolución universales, en todos los niveles experienciales, es aparentemente una cuestión de conversión de las potencialidades en manifestaciones; y esta transmutación concierne por igual a los dominios de la potencia espacial, de la potencia mental y de la potencia espiritual. ([LU 115:2.3](/es/The_Urantia_Book/115#p2_3))
+> Todo el proyecto de la creación y de la evolución universales, en todos los niveles experienciales, es aparentemente una cuestión de conversión de las potencialidades en manifestaciones; y esta transmutación concierne por igual a los dominios de la potencia espacial, de la potencia mental y de la potencia espiritual. (<a id="a276_322"></a>[LU 115:2.3](/es/The_Urantia_Book/115#p2_3))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/005.jpg">

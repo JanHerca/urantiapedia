@@ -49,7 +49,7 @@ Para algunos, es la nueva Biblia, el estandarte de una misión planetaria. Para 
 
 En cuanto a Chris, su pregunta es más directa: “¿Somos embajadores de esta quinta revelación?”
 
-Entonces, ¿qué lugar le damos al Libro de Urantia en nuestra vida diaria? ¿Cómo hacer florecer este “talento” de valor incalculable o cómo transmitir su luz en estos tiempos convulsos... que también podrían durar un milenio, al parecer ([LU 99:1.1](/es/The_Urantia_Book/99#p1_1))? Sin embargo, ¡solo estamos en la tercera generación de lectores!
+Entonces, ¿qué lugar le damos al Libro de Urantia en nuestra vida diaria? ¿Cómo hacer florecer este “talento” de valor incalculable o cómo transmitir su luz en estos tiempos convulsos... que también podrían durar un milenio, al parecer (<a id="a51_237"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1))? Sin embargo, ¡solo estamos en la tercera generación de lectores!
 
 Viendo las reacciones de urticaria provocadas por ciertos mensajes en el foro $A F F L U$, todavía tenemos que revisar nuestros rangos de paciencia y modestia... y esperar centrar la atención de los lectores más jóvenes y tal vez -ser más eficientes.
 

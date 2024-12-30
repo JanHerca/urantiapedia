@@ -50,7 +50,7 @@ Interesante imagen. ¿Pero podemos hablar de espacio sin hablar de tiempo?
 - Me vas a hablar de construir tu alma, te veo venir.
 - Estaba pensando de pasada:
 
-> _Aquellos mortales cuyas unidades de tiempo son cortas practican la paciencia; la verdadera madurez trasciende la paciencia mediante una tolerancia nacida de una verdadera comprensión._ ([LU 118:1.6](/es/The_Urantia_Book/118#p1_6))
+> _Aquellos mortales cuyas unidades de tiempo son cortas practican la paciencia; la verdadera madurez trasciende la paciencia mediante una tolerancia nacida de una verdadera comprensión._ (<a id="a52_189"></a>[LU 118:1.6](/es/The_Urantia_Book/118#p1_6))
 
 - Piensa lejos y sal sólo con el equipaje necesario.
 - Equipaje, muebles, si la gente nos escuchara podríamos pasar por felices transportistas.

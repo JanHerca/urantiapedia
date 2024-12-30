@@ -49,7 +49,7 @@ Tenga en cuenta que, como el número de habitaciones es limitado, las reservas s
 
 El equipo organizador.
 
-> Por esta época, Ganid empezó a darse cuenta de que su tutor empleaba sus ratos libres en este ministerio personal poco común hacia sus semejantes, y el joven indio decidió descubrir el motivo de estas actividades incesantes. Preguntó: «¿Por qué te ocupas continuamente en hablar con extraños?» Y Jesús respondió: «Ganid, ningún hombre es un extraño para el que conoce a Dios. En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». ([[LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
+> Por esta época, Ganid empezó a darse cuenta de que su tutor empleaba sus ratos libres en este ministerio personal poco común hacia sus semejantes, y el joven indio decidió descubrir el motivo de estas actividades incesantes. Preguntó: «¿Por qué te ocupas continuamente en hablar con extraños?» Y Jesús respondió: «Ganid, ningún hombre es un extraño para el que conoce a Dios. En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». (<a id="a51_709"></a>[[LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
 
 
 

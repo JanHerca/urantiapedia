@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Lapierre<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pascal_Coulombe/Reflexions_poetiques_et_spirituelles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones poéticas y espirituales.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -54,7 +75,7 @@ Aquí lo tienes:
 > 
 > A medida que el hombre se deshace de las trabas del miedo, a medida que recorre los continentes y los océanos con sus máquinas, y las generaciones y los siglos con sus escritos, debe sustituir cada restricción trascendida por una restricción nueva voluntariamente asumida de acuerdo con los dictados morales de la sabiduría humana en expansión. Estas restricciones autoimpuestas son a la vez los más poderosos y los más sutiles de todos los factores de la civilización humana —los conceptos de la justicia y los ideales de la fraternidad. El hombre se capacita incluso para llevar las vestimentas restrictivas de la misericordia cuando se atreve a amar a sus semejantes, mientras que alcanza los principios de la fraternidad espiritual cuando escoge tratarlos como le gustaría ser tratado, e incluso tratarlos como imagina que Dios los trataría.
 > 
-> Una reacción universal automática es estable y, de alguna forma, tiene una continuidad en el cosmos. Una personalidad que conoce a Dios y que desea hacer su voluntad, que tiene perspicacia espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en la transición de su mente mortal entre la estabilidad de la estática mecánica y la divinidad de la dinámica espiritual, y esta transformación la consigue mediante la fuerza y la constancia de las decisiones de su propia personalidad, declarando en cada situación de la vida: «Es mi voluntad que se haga tu voluntad». ([LU 118:8.1-11](/es/The_Urantia_Book/118#p8_1))
+> Una reacción universal automática es estable y, de alguna forma, tiene una continuidad en el cosmos. Una personalidad que conoce a Dios y que desea hacer su voluntad, que tiene perspicacia espiritual, es divinamente estable y existe eternamente. La gran aventura universal del hombre consiste en la transición de su mente mortal entre la estabilidad de la estática mecánica y la divinidad de la dinámica espiritual, y esta transformación la consigue mediante la fuerza y la constancia de las decisiones de su propia personalidad, declarando en cada situación de la vida: «Es mi voluntad que se haga tu voluntad». (<a id="a77_616"></a>[LU 118:8.1-11](/es/The_Urantia_Book/118#p8_1))
 
 Este extracto llega casi al final de lo que estaba previsto que fuera la quinta revelación, es decir sin la cuarta parte que trata sobre la vida y las enseñanzas de Jesús. Me gustaría saber su opinión sobre su comprensión de esta sección 8, que en mi opinión es extremadamente importante.
 
@@ -109,7 +130,7 @@ Ahora te envío de nuevo extractos que ya te había enviado:
 > 
 > El evangelio de Jesús presentaba muchos aspectos diferentes, y precisamente por eso, en el transcurso de unos pocos siglos, los estudiosos de los relatos de sus enseñanzas se dividieron en tantos cultos y sectas. Esta lamentable subdivisión de los creyentes cristianos se debe a que no han sido capaces de discernir, en las múltiples enseñanzas del Maestro, la divina unidad de su vida incomparable. Pero algún día, los verdaderos creyentes en Jesús no estarán divididos espiritualmente de esta manera en su actitud ante los no creyentes. Siempre podemos tener diferencias de comprensión y de interpretación intelectuales, e incluso diversos grados de socialización, pero la falta de fraternidad espiritual es a la vez inexcusable y reprensible.
 > 
-> ¡No os engañéis! Existe en las enseñanzas de Jesús una naturaleza eterna que no les permitirá permanecer estériles para siempre en el corazón de los hombres inteligentes. El reino, tal como Jesús lo concebía, ha fracasado en gran parte en la Tierra; por ahora, una iglesia exterior ha tomado su lugar. Pero deberíais comprender que esta iglesia es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. ([LU 170:5.19](/es/The_Urantia_Book/170#p5_19))
+> ¡No os engañéis! Existe en las enseñanzas de Jesús una naturaleza eterna que no les permitirá permanecer estériles para siempre en el corazón de los hombres inteligentes. El reino, tal como Jesús lo concebía, ha fracasado en gran parte en la Tierra; por ahora, una iglesia exterior ha tomado su lugar. Pero deberíais comprender que esta iglesia es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. (<a id="a132_987"></a>[LU 170:5.19](/es/The_Urantia_Book/170#p5_19))
 
 ---
 
@@ -119,8 +140,8 @@ En este correo electrónico encontrará las razones que justifican mi respuesta 
 
 Primero, doy a continuación algunos extractos de la LU en los que me basé (mis comentarios personales están entre paréntesis):
 
-1. [LU 120:2.3](/es/The_Urantia_Book/120#p2_3) «3. Cuando hayas logrado poner fin a la secesión en Urantia, cosa que harás indudablemente, te aconsejo que aceptes que Gabriel te confiera el título de ‘Príncipe Planetario de Urantia’ como reconocimiento eterno de tu universo por tu experiencia final de donación, **y que además hagas todo lo posible, que sea consecuente con el significado de tu donación, por <ins>reparar la aflicción y la confusión</ins> causadas en Urantia por la traición de Caligastia y la falta adámica posterior.** (Emmanuel recomienda que Michael tome medidas para compensar lo que pasó en Urantia. Creo que estas compensaciones fueron las enseñanzas del Libro de Urantia)
-2. [LU 176:2.3](/es/The_Urantia_Book/176#p2_3) En su contestación adicional a la pregunta de Pedro, Jesús dijo: «¿Por qué continuáis creyendo que el Hijo del Hombre se sentará en el trono de David, y esperáis que se cumplan los sueños materiales de los judíos? ¿No os he dicho todos estos años que mi reino no es de este mundo? **Las cosas que ahora contempláis a vuestros pies están llegando a su fin, pero éste será un nuevo comienzo, a partir del cual <ins>el evangelio del reino se extenderá por todo el mundo, y esta salvación se difundirá a todos los pueblos. Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad y con una demostración realzada de la rectitud, tal como ya ha otorgado a este mundo a aquel que se convirtió en el príncipe de las tinieblas, y luego a Adán, que fue seguido por Melquisedek, y en nuestros días, al Hijo del Hombre</ins>. Mi Padre continuará así manifestando su misericordia y mostrando su amor, incluso a este mundo oscuro y malvado. Después de que mi Padre me haya investido con todo el poder y la autoridad, yo también continuaré siguiendo vuestra suerte y guiándoos en los asuntos del reino mediante la presencia de mi espíritu, que pronto será derramado sobre todo el género humano.** Aunque así estaré presente con vosotros en espíritu, también prometo que regresaré algún día a este mundo donde he vivido esta vida en la carne y he logrado la experiencia simultánea de revelar a Dios a los hombres y de conducir los hombres hacia Dios. Tengo que dejaros muy pronto y reemprender el trabajo que el Padre me ha confiado, pero tened buen ánimo, porque volveré algún día. Mientras tanto, mi Espíritu de la Verdad de un universo os confortará y os guiará». (En este extracto veo varios puntos importantes: 1) Las enseñanzas de Jesús se difundirán por todo el mundo y para todas las personas; 2) Cuando estas enseñanzas hayan alcanzado su plena madurez, el padre Universal no dejará de traer una nueva revelación; 3) Esta nueva revelación a la que aquí se hace referencia no puede ser ***El Libro de Urantia*** porque las enseñanzas de la cuarta revelación aún no han alcanzado su plena madurez; 4) Por eso creo que ***El Libro de Urantia*** es esta compensación y nos ha sido entregado durante un milenio; 5) ***El Libro de Urantia***, aunque califica como una revelación de época, no es el que Jesús mencionó en este extracto 2; 6) Por eso también doy tanta importancia a la venida de un nuevo Juan Bautista que será el catalizador del despliegue de las enseñanzas de Jesús.
+1. <a id="a142_3"></a>[LU 120:2.3](/es/The_Urantia_Book/120#p2_3) «3. Cuando hayas logrado poner fin a la secesión en Urantia, cosa que harás indudablemente, te aconsejo que aceptes que Gabriel te confiera el título de ‘Príncipe Planetario de Urantia’ como reconocimiento eterno de tu universo por tu experiencia final de donación, **y que además hagas todo lo posible, que sea consecuente con el significado de tu donación, por <ins>reparar la aflicción y la confusión</ins> causadas en Urantia por la traición de Caligastia y la falta adámica posterior.** (Emmanuel recomienda que Michael tome medidas para compensar lo que pasó en Urantia. Creo que estas compensaciones fueron las enseñanzas del Libro de Urantia)
+2. <a id="a143_3"></a>[LU 176:2.3](/es/The_Urantia_Book/176#p2_3) En su contestación adicional a la pregunta de Pedro, Jesús dijo: «¿Por qué continuáis creyendo que el Hijo del Hombre se sentará en el trono de David, y esperáis que se cumplan los sueños materiales de los judíos? ¿No os he dicho todos estos años que mi reino no es de este mundo? **Las cosas que ahora contempláis a vuestros pies están llegando a su fin, pero éste será un nuevo comienzo, a partir del cual <ins>el evangelio del reino se extenderá por todo el mundo, y esta salvación se difundirá a todos los pueblos. Cuando el reino haya llegado a su plena madurez, estad seguros de que el Padre que está en los cielos no dejará de visitaros con una revelación ampliada de la verdad y con una demostración realzada de la rectitud, tal como ya ha otorgado a este mundo a aquel que se convirtió en el príncipe de las tinieblas, y luego a Adán, que fue seguido por Melquisedek, y en nuestros días, al Hijo del Hombre</ins>. Mi Padre continuará así manifestando su misericordia y mostrando su amor, incluso a este mundo oscuro y malvado. Después de que mi Padre me haya investido con todo el poder y la autoridad, yo también continuaré siguiendo vuestra suerte y guiándoos en los asuntos del reino mediante la presencia de mi espíritu, que pronto será derramado sobre todo el género humano.** Aunque así estaré presente con vosotros en espíritu, también prometo que regresaré algún día a este mundo donde he vivido esta vida en la carne y he logrado la experiencia simultánea de revelar a Dios a los hombres y de conducir los hombres hacia Dios. Tengo que dejaros muy pronto y reemprender el trabajo que el Padre me ha confiado, pero tened buen ánimo, porque volveré algún día. Mientras tanto, mi Espíritu de la Verdad de un universo os confortará y os guiará». (En este extracto veo varios puntos importantes: 1) Las enseñanzas de Jesús se difundirán por todo el mundo y para todas las personas; 2) Cuando estas enseñanzas hayan alcanzado su plena madurez, el padre Universal no dejará de traer una nueva revelación; 3) Esta nueva revelación a la que aquí se hace referencia no puede ser ***El Libro de Urantia*** porque las enseñanzas de la cuarta revelación aún no han alcanzado su plena madurez; 4) Por eso creo que ***El Libro de Urantia*** es esta compensación y nos ha sido entregado durante un milenio; 5) ***El Libro de Urantia***, aunque califica como una revelación de época, no es el que Jesús mencionó en este extracto 2; 6) Por eso también doy tanta importancia a la venida de un nuevo Juan Bautista que será el catalizador del despliegue de las enseñanzas de Jesús.
 
 ---
 
@@ -135,3 +156,25 @@ Claude Flibotte
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pascal_Coulombe/Reflexions_poetiques_et_spirituelles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones poéticas y espirituales.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-368-junio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 368 — Junio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

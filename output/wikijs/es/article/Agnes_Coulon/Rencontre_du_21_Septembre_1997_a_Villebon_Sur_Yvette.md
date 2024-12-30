@@ -54,7 +54,7 @@ Con los Frutos del Espíritu, es respeto por los demás:
 - sea modesto y nunca se imponga ni se imponga.
 
 
-Los Frutos del Espíritu ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+Los Frutos del Espíritu (<a id="a56_25"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 | &nbsp; | &nbsp; | &nbsp;
 | --- | --- | ---

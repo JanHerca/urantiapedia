@@ -75,7 +75,7 @@ Es difícil para todos determinar su número de seguidores. Hay quienes están a
 
 También podría decir que este proyecto de traducir _El Libro de Urantia_ al Esperanto va en la dirección de Luz y Vida.
 
-Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa de anclaje en la luz sin haberse unido a un solo lenguaje, una sola religión, una sola filosofía. [LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
+Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa de anclaje en la luz sin haberse unido a un solo lenguaje, una sola religión, una sola filosofía. <a id="a77_174"></a>[LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
 
 _El Libro de Urantia_ en esperanto es la religión universal en el idioma universal.
 

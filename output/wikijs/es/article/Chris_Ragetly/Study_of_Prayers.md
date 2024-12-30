@@ -49,7 +49,7 @@ _Los comentarios personales son por definición subjetivos, muchos lectores perc
 > _Y no dejes que nos desviemos por las sendas perversas de nuestra imaginación,_
 > _Porque tuya es la gloriosa presencia interior, el poder eterno,_
 > _Y para nosotros, el don eterno del amor infinito de tu Hijo._
-> _Así sea, y es eternamente verdad._ ([LU 144:5.2-10](/es/The_Urantia_Book/144#p5_2))
+> _Así sea, y es eternamente verdad._ (<a id="a51_39"></a>[LU 144:5.2-10](/es/The_Urantia_Book/144#p5_2))
 
 En (1), “_los reinos del universo_” indica claramente que es una oración proveniente de un planeta que es consciente de las múltiples esferas evolutivas que pueblan los universos. El término “Padre Nuestro” es una indicación común a la mayoría de los planetas evolutivos de Nebadon.
 
@@ -77,7 +77,7 @@ En (9), “_...la verdad eterna_” Que la verdad eterna sea revelada, admitida,
 > _(8) Sois patient avec nous, De même que nous témoignons une bienveillance affectueuse à notre prochain._
 > _(9) (10)Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,_
 > _(11) Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles._
-> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ <a id="a78_70"></a>[LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
+> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ [LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
 
 En (1), hay primero una indicación bastante inusual de filiación en “Padre Creador”, luego una sugerencia de la posición del Padre en el centro de todas las cosas, esto sin duda denota un conocimiento de la “geografía” física y mental. aspecto espiritual del universo.
 
@@ -102,7 +102,7 @@ En (7), (8), (9), (10), (11) y (12), encontramos un parecido con una de nuestras
 > _Guíanos siempre hacia arriba por el sendero de la luz;_
 > _Justifícanos plenamente el día del gran juicio._
 > _Haznos semejantes a ti en gloria eterna_
-> _Y recíbenos a tu servicio perpetuo en el cielo._ ([LU 144:5.26-37](/es/The_Urantia_Book/144#p5_26))
+> _Y recíbenos a tu servicio perpetuo en el cielo._ (<a id="a104_53"></a>[LU 144:5.26-37](/es/The_Urantia_Book/144#p5_26))
 
 En (1), los términos “perfecto” y “justo” denotan un conocimiento particular del Padre. En (2), “nuestro viaje” implica conocimiento cósmico en el sentido “geográfico” físico y espiritual de la carrera ascendente de un mortal hacia el Paraíso.
 
@@ -140,13 +140,13 @@ En (12), el exaltado servicio en la eternidad, es la actividad presente y potenc
 > _Complácete en hacernos cada vez más semejantes a ti._
 > _Al final, por el amor del Hijo divino,_
 > _Recíbenos en los brazos eternos._
-> _Así sea, que se haga tu voluntad y no la nuestra._ ([LU 144:5.39-53](/es/The_Urantia_Book/144#p5_39))
+> _Así sea, que se haga tu voluntad y no la nuestra._ (<a id="a142_55"></a>[LU 144:5.39-53](/es/The_Urantia_Book/144#p5_39))
 
-En (1), forma inusual de designación, la palabra misterio denota un concepto diferente al nuestro, que implica un conocimiento del Padre que revela un avance que no hace más que confirmar el misterio que rodea al Padre y que se vuelve cada vez más denso a medida que avanzamos hacia él. A él. Esta noción está bien explicada en El Libro de Urantia. (Ver [[LU 8:2.5](/es/The_Urantia_Book/8#p2_5)], [[LU 12:7.12](/es/The_Urantia_Book/12#p7_12)] y [[LU 1:4.1](/es/The_Urantia_Book/1#p4_1)])
+En (1), forma inusual de designación, la palabra misterio denota un concepto diferente al nuestro, que implica un conocimiento del Padre que revela un avance que no hace más que confirmar el misterio que rodea al Padre y que se vuelve cada vez más denso a medida que avanzamos hacia él. A él. Esta noción está bien explicada en El Libro de Urantia. (Ver <a id="a144_354"></a>[[LU 8:2.5](/es/The_Urantia_Book/8#p2_5)], <a id="a144_397"></a>[[LU 12:7.12](/es/The_Urantia_Book/12#p7_12)] y <a id="a144_445"></a>[[LU 1:4.1](/es/The_Urantia_Book/1#p4_1)])
 
 En (2), esta petición de revelar su carácter santo puede parecernos un poco atrevida, pero no debemos olvidar que es Jesús mismo quien nos ofrece esta oración, nos revela este aspecto de la filiación con el Padre y nos da esta enorme ventaja de poder preguntarle cualquier cosa.
 
-En (3 y 4), que el Padre nos dé la capacidad de discernir el camino (el camino evolutivo que pasa por los Hijos Creadores, Jesús dijo: “_Yo soy el camino_”.) Acerque esta luz a la siguiente frase del Libro de Urantia: [[LU 3:1.3](/es/The_Urantia_Book/3#p1_3)] La presencia del Padre viaja continuamente por el universo maestro. “_Viene de los confines de los cielos y circula hasta sus confines, y no hay nada oculto a su luz._”
+En (3 y 4), que el Padre nos dé la capacidad de discernir el camino (el camino evolutivo que pasa por los Hijos Creadores, Jesús dijo: “_Yo soy el camino_”.) Acerque esta luz a la siguiente frase del Libro de Urantia: <a id="a148_218"></a>[[LU 3:1.3](/es/The_Urantia_Book/3#p1_3)] La presencia del Padre viaja continuamente por el universo maestro. “_Viene de los confines de los cielos y circula hasta sus confines, y no hay nada oculto a su luz._”
 
 En (5 y 6), “_el camino del progreso eterno_” sin duda tiene el mismo significado que el de “_camino_”, pero debe añadir un elemento de decisión y atención.
 
@@ -179,7 +179,7 @@ En (15), encontramos una fórmula que nos resulta familiar y nos muestra clarame
 > _Y cuando termine nuestra carrera, haz de ella un honor para tu nombre,_
 > _Un placer para tu buen espíritu, y una satisfacción para los que ayudan a nuestra alma._
 > _Que el bien eterno de tus hijos mortales no sea el que nosotros anhelamos, afectuoso Padre nuestro, sino el que tú deseas._
-> _Que así sea._ ([LU 144:5.55-72](/es/The_Urantia_Book/144#p5_55))
+> _Que así sea._ (<a id="a181_18"></a>[LU 144:5.55-72](/es/The_Urantia_Book/144#p5_55))
 
 En (1) y (2), la asociación Padre Madre alude al Padre Universal y al Espíritu Infinito o a nuestro Hijo Creador, Miguel de Nebadon, y nuestro Divino Ministro, unificados en una sola Deidad. Esto no cambia mucho la efectividad de la oración, pero demuestra que quien ora está muy consciente de los asuntos del universo y su jerarquía. Ser fiel a la naturaleza divina de esta Deidad unificada es algo completamente distinto; no estoy seguro de que entendamos completamente su verdadero significado. Esto probablemente se refiere al Mystery Monitor.
 
@@ -213,7 +213,7 @@ En (3 y 4), creemos que el derramamiento del espíritu divino alude al Monitor M
 > _Recíbenos contigo y envíanos a la eternidad._
 > _Corónanos con las diademas celestiales del servicio fructífero,_
 > _Y glorificaremos al Padre, al Hijo y a la Santa Influencia._
-> _Que así sea, en todo un universo sin fin._ ([LU 144:5.74-86](/es/The_Urantia_Book/144#p5_74))
+> _Que así sea, en todo un universo sin fin._ (<a id="a215_47"></a>[LU 144:5.74-86](/es/The_Urantia_Book/144#p5_74))
 
 (1) y (2): esta es la Primera Fuente-Centro, el Padre Universal que es la fuente de todas las cosas. El Hijo misericordioso es aquí la Fuente del Segundo Centro, la personalidad y espiritualidad absolutas. absoluto (Obviamente esta oración la hace una persona que conoce bien los roles de los diferentes Centros Fuente.)
 
@@ -250,11 +250,11 @@ En (3 y 4), creemos que el derramamiento del espíritu divino alude al Monitor M
 > _Haznos siempre cada vez más semejantes a ti mismo_
 > _Y cuando llegue nuestro fin, recíbenos en el abrazo eterno del Paraíso._
 > _Que así sea, en nombre del Hijo donador_
-> _Para el honor y la gloria del Padre Supremo._ ([LU 144:5.88-107](/es/The_Urantia_Book/144#p5_88))
+> _Para el honor y la gloria del Padre Supremo._ (<a id="a252_50"></a>[LU 144:5.88-107](/es/The_Urantia_Book/144#p5_88))
 
 (1) Las habitaciones del Padre son todos los universos, así como la morada central del Paraíso. Nuestro Suponemos que se trata de una fórmula figurada.
 
-(2) “Que tu nombre sea honrado” es una frase conocida en Urantia. Simplemente significa que el nombre del Padre no sólo sea respetado, sino amado y adorado. “Tu venerada misericordia” nos señala un conocimiento del significado de la misericordia tal como se revela en El Libro de Urantia ([LU 2:4.1](/es/The_Urantia_Book/2#p4_1) La misericordia es simplemente justicia templada por ese tipo de sabiduría que resulta del conocimiento perfecto y el reconocimiento completo de la debilidad natural de criaturas finitas y las desventajas debidas a su entorno.) “Su respetado juicio” es el reconocimiento del juicio divino, sin ninguna otra forma de recriminación, porque reconocemos en lo más profundo de nosotros mismos los juicios tales. que son decretados por el Padre.
+(2) “Que tu nombre sea honrado” es una frase conocida en Urantia. Simplemente significa que el nombre del Padre no sólo sea respetado, sino amado y adorado. “Tu venerada misericordia” nos señala un conocimiento del significado de la misericordia tal como se revela en El Libro de Urantia (<a id="a256_289"></a>[LU 2:4.1](/es/The_Urantia_Book/2#p4_1) La misericordia es simplemente justicia templada por ese tipo de sabiduría que resulta del conocimiento perfecto y el reconocimiento completo de la debilidad natural de criaturas finitas y las desventajas debidas a su entorno.) “Su respetado juicio” es el reconocimiento del juicio divino, sin ninguna otra forma de recriminación, porque reconocemos en lo más profundo de nosotros mismos los juicios tales. que son decretados por el Padre.
 
 (3) y (4) Oramos para que el Padre guíe nuestros pasos no sólo cuando pensamos en Él, sino también cuando no pensamos en Él, es decir de manera inconsciente. (5) y (6) Que no nos extraviemos por caminos que nos parezcan más adecuados y rápidos, sino que sigamos tus consejos sin quejarnos. Pero que tu presencia en nosotros se sienta cuando las pruebas sean difíciles de soportar.
 
@@ -276,7 +276,7 @@ En (3 y 4), creemos que el derramamiento del espíritu divino alude al Monitor M
 
 (20) Esta acción de gracias es el reconocimiento de la inevitable victoria del Padre sobre todas nuestras faltas.
 
-> Todos estos ángeles forman parte de la cadena de registradores que se extiende desde los guardianes más humildes hasta los guardianes más elevados de los hechos del tiempo y de las verdades de la eternidad. Algún día os enseñarán a buscar la verdad así como los hechos, a desarrollar vuestra alma así como vuestra mente. Incluso ahora deberíais aprender a regar el jardín de vuestro corazón así como a buscar las áridas arenas del conocimiento. Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia. Cuando los niños tienen sus ideales, no los suprimáis; dejadlos crecer. Y mientras aprendéis a pensar como hombres, también deberíais aprender a rezar como niños. ([LU 48:6.32](/es/The_Urantia_Book/48#p6_32))
+> Todos estos ángeles forman parte de la cadena de registradores que se extiende desde los guardianes más humildes hasta los guardianes más elevados de los hechos del tiempo y de las verdades de la eternidad. Algún día os enseñarán a buscar la verdad así como los hechos, a desarrollar vuestra alma así como vuestra mente. Incluso ahora deberíais aprender a regar el jardín de vuestro corazón así como a buscar las áridas arenas del conocimiento. Las formas no tienen valor cuando las lecciones se han aprendido. No se puede obtener un polluelo sin un cascarón, y ningún cascarón vale nada después de que ha salido el polluelo. Pero a veces el error es tan grande, que rectificarlo por medio de la revelación podría ser fatal para aquellas verdades que emergen lentamente y que son esenciales para destruir el error por medio de la experiencia. Cuando los niños tienen sus ideales, no los suprimáis; dejadlos crecer. Y mientras aprendéis a pensar como hombres, también deberíais aprender a rezar como niños. (<a id="a278_1009"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32))
 
 RMC
 

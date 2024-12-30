@@ -110,9 +110,9 @@ Lamento personalmente que los suizos sólo hayan estado representados por un ún
 
 ¿Se habrían quedado dormidos en la suavidad de la sombra de sus montañas en eterna meditación? Sólo Dios lo sabe, y quizás también lo sepan los Siete Agentes Ejecutivos Supremos.
 
-(Para quienes tengan dudas, favor de consultar a la LU en [LU 17:1.3](/es/The_Urantia_Book/17#p1_3)).
+(Para quienes tengan dudas, favor de consultar a la LU en <a id="a112_58"></a>[LU 17:1.3](/es/The_Urantia_Book/17#p1_3)).
 
-A lo largo del estudio pudimos darnos cuenta de que la aplicación del Espíritu de la Verdad en nuestras acciones diarias era una presencia divina y activa que debía ser escuchada seriamente y puesta en práctica con la mayor frecuencia posible, aunque todos sabemos que este Espíritu es limitada en sus funciones y su poder por la receptividad personal de los hombres ([LU 34:5.5](/es/The_Urantia_Book/34#p5_5)).
+A lo largo del estudio pudimos darnos cuenta de que la aplicación del Espíritu de la Verdad en nuestras acciones diarias era una presencia divina y activa que debía ser escuchada seriamente y puesta en práctica con la mayor frecuencia posible, aunque todos sabemos que este Espíritu es limitada en sus funciones y su poder por la receptividad personal de los hombres (<a id="a114_368"></a>[LU 34:5.5](/es/The_Urantia_Book/34#p5_5)).
 
 Es justo señalar que de estos encuentros surge una ósmosis y una fraternidad que, estoy convencido, se debe seguramente a nuestros amigos angelicales celestiales y ciertamente también a este Espíritu de Verdad otorgado por nuestro Hijo Creador.
 
@@ -128,7 +128,7 @@ Con el corazón llorando, el grupo de Aviñón fue el primero en escabullirse, o
 
 Una pequeña cita de LU para consolarnos:
 
-> _Después de emprender el camino de la vida eterna, después de aceptar vuestra tarea y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»{33}._ ([LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
+> _Después de emprender el camino de la vida eterna, después de aceptar vuestra tarea y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino»{33}._ (<a id="a130_553"></a>[LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
 
 Max Masotti.
 

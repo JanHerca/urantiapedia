@@ -43,25 +43,25 @@ Este ensayo propone estudiar la personalidad sólo en sus vínculos con otras re
 
 **1) Realidad deificada**
 
-> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» ([LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
+> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» (<a id="a45_447"></a>[LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
 
-> «3. *La realidad interasociada.* Se supone que la realidad del universo es deificada o no deificada, pero para los seres subdeificados, existe un inmenso campo de realidad interasociada, potencial y en vías de actualización, que resulta difícil de identificar. Una gran parte de esta realidad coordinada está incluida en los ámbitos del Absoluto Universal.» ([LU 0:4.4](/es/The_Urantia_Book/0#p4_4))
+> «3. *La realidad interasociada.* Se supone que la realidad del universo es deificada o no deificada, pero para los seres subdeificados, existe un inmenso campo de realidad interasociada, potencial y en vías de actualización, que resulta difícil de identificar. Una gran parte de esta realidad coordinada está incluida en los ámbitos del Absoluto Universal.» (<a id="a47_361"></a>[LU 0:4.4](/es/The_Urantia_Book/0#p4_4))
 
 La personalidad es, por tanto, una realidad invariable cuyo contenido potencial comenzará a manifestarse tan pronto como sea asignado a un ascendente, para alcanzar su completa actualización (?) al final del viaje cósmico. Debido a sus potenciales, esta realidad en proceso de deificación es capaz de funcionar en y dentro de todos los niveles de las realidades cósmicas, universales y divinas.
 
 **2) Realidad cósmica**
 
-> «Con el objeto de facilitar la comprensión humana del universo de universos, los diversos niveles de la realidad cósmica han sido denominados finito, absonito y absoluto. De todos ellos, sólo el nivel absoluto es incondicionalmente eterno, realmente existencial. Los absonitos y los finitos son derivados, modificaciones, limitaciones y atenuaciones de la realidad absoluta, original y primordial, de la infinidad.» ([LU 115:1.3](/es/The_Urantia_Book/115#p1_3))
+> «Con el objeto de facilitar la comprensión humana del universo de universos, los diversos niveles de la realidad cósmica han sido denominados finito, absonito y absoluto. De todos ellos, sólo el nivel absoluto es incondicionalmente eterno, realmente existencial. Los absonitos y los finitos son derivados, modificaciones, limitaciones y atenuaciones de la realidad absoluta, original y primordial, de la infinidad.» (<a id="a53_419"></a>[LU 115:1.3](/es/The_Urantia_Book/115#p1_3))
 
 **3) Realidad universal**
 
-> Hay exactamente tres elementos en la realidad universal: los hechos, las ideas y las relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofía y verdad. La filosofía se siente inclinada a considerar estas actividades como razón, sabiduría y fe —la realidad física, la realidad intelectual y la realidad espiritual. Nosotros tenemos la costumbre de distinguir estas realidades como cosas, significados y valores. ([LU 196:3.2](/es/The_Urantia_Book/196#p3_2))
+> Hay exactamente tres elementos en la realidad universal: los hechos, las ideas y las relaciones. La conciencia religiosa identifica estas realidades como ciencia, filosofía y verdad. La filosofía se siente inclinada a considerar estas actividades como razón, sabiduría y fe —la realidad física, la realidad intelectual y la realidad espiritual. Nosotros tenemos la costumbre de distinguir estas realidades como cosas, significados y valores. (<a id="a57_445"></a>[LU 196:3.2](/es/The_Urantia_Book/196#p3_2))
 
 **4) Realidad divina**
 
-> «Los valores paradisiacos de eternidad e infinidad, de verdad, belleza y bondad, están escondidos dentro de los hechos de los fenómenos de los universos del tiempo y del espacio. Pero es necesario el ojo de la fe de un mortal nacido del espíritu para detectar y discernir estos valores espirituales.» ([LU 195:7.4](/es/The_Urantia_Book/195#p7_4))
+> «Los valores paradisiacos de eternidad e infinidad, de verdad, belleza y bondad, están escondidos dentro de los hechos de los fenómenos de los universos del tiempo y del espacio. Pero es necesario el ojo de la fe de un mortal nacido del espíritu para detectar y discernir estos valores espirituales.» (<a id="a61_304"></a>[LU 195:7.4](/es/The_Urantia_Book/195#p7_4))
 
-### II — La personalidad y su triple estatus universal ([LU 112:1.1](/es/The_Urantia_Book/112#p1_1))
+### II — La personalidad y su triple estatus universal (<a id="a63_56"></a>[LU 112:1.1](/es/The_Urantia_Book/112#p1_1))
 
 La personalidad se identifica por su triple estatus:
 
@@ -81,7 +81,7 @@ A través de otra capacidad de nuestra mente - la que critica, evalúa, calibra 
 
 Volvamos al hilo de nuestro razonamiento.
 
-**1) Estado de la posición ([LU 112:1.1](/es/The_Urantia_Book/112#p1_1))**
+**1) Estado de la posición (<a id="a83_28"></a>[LU 112:1.1](/es/The_Urantia_Book/112#p1_1))**
 
 Por estatus posicional, la personalidad funciona con igual eficacia en el universo local, en el superuniverso y en el universo central. ¿Por qué no en el Paraíso, el nivel absoluto?
 
@@ -103,7 +103,7 @@ Aquí no encontramos la misma dificultad que con el estatus de posición, ya que
 
 Este estatus permite a la personalidad experimentar los valores deducidos de los significados en los dominios progresivos de lo material, lo morontial y lo espiritual.
 
-### III — La personalidad y sus 7 dimensiones cósmicas ([LU 112:1.5](/es/The_Urantia_Book/112#p1_5))
+### III — La personalidad y sus 7 dimensiones cósmicas (<a id="a105_56"></a>[LU 112:1.5](/es/The_Urantia_Book/112#p1_5))
 
 El campo de acción de la personalidad tiene tres dimensiones cósmicas en lo finito, tres en lo absonito y una en lo absoluto. Esto demuestra una vez más el vasto potencial y alcance de acción que incluye la personalidad.
 

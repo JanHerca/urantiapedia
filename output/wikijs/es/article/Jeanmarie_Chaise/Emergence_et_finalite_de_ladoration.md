@@ -47,17 +47,17 @@ Por lo tanto, se debe establecer un paralelo entre, por un lado, la adoración y
 - La adoración es el asistente mental en el que debe confiar la Personalidad para abrirse a la voz interior del Ajustador que es Dios dentro de ella.
 - La Sabiduría es el asistente mental en el que confía el Ajustador para ofrecer a la Personalidad una apertura a la eternidad.
 
-Porque, "el Ajustador del Pensamiento es la ventana cósmica a través de la cual una criatura finita puede, mediante la adoración sincera y la creencia leal en el evangelio del reino, obtener una visión de los aspectos ciertos y divinos de la Deidad ilimitada, el Padre Universal._ » ( [LU 103:0.1](/es/The_Urantia_Book/103#p0_1))
+Porque, "el Ajustador del Pensamiento es la ventana cósmica a través de la cual una criatura finita puede, mediante la adoración sincera y la creencia leal en el evangelio del reino, obtener una visión de los aspectos ciertos y divinos de la Deidad ilimitada, el Padre Universal._ » ( <a id="a49_285"></a>[LU 103:0.1](/es/The_Urantia_Book/103#p0_1))
 
 Reflexionemos pues por un momento sobre el lugar de culto, por tanto sobre su significado y su valor, según lo consideremos antes o después de la fusión con el Ajustador. De hecho, un Mensajero Solitario de Orvontón nos describe estas dos facetas de la adoración, primero como un modo de surgimiento y luego como un modo de finalidad. Dice primero que nada:
 
-> «_En el tiempo, el pensamiento conduce a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración conduce a la sabiduría, y la sabiduría conduce a la finalidad del pensamiento._» ([LU 112:2.13](/es/The_Urantia_Book/112#p2_13))
+> «_En el tiempo, el pensamiento conduce a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración conduce a la sabiduría, y la sabiduría conduce a la finalidad del pensamiento._» (<a id="a53_207"></a>[LU 112:2.13](/es/The_Urantia_Book/112#p2_13))
 
 Este es, de hecho, el proceso que utilizamos cuando dirigimos nuestros esfuerzos de pensamiento hacia la existencia del Eterno. No nos parece que podamos acceder a la Revelación del Padre más que a través de una tensión persistente hacia la sabiduría, y acabamos de ver que la sabiduría parece ser prerrogativa del Ajustador en nosotros. También acabamos de ver que una vez que escuchamos la voz de la sabiduría, nos resulta mucho más fácil entregarnos por completo a la adoración. Por tanto, esta primera proposición es bien asimilada por el pensamiento. En estas condiciones, ¿qué es la adoración sino la expresión consumada de nuestros motivos sinceros y de nuestras decisiones, de nuestras determinaciones y de nuestros deseos supremos orientados hacia la voluntad del Padre y que constituyen una cooperación real y eficaz con el Ajustador?
 
 El Mensajero Solitario de Orvontón dijo entonces:
 
-> «_En el tiempo, el pensamiento conduce a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración conduce a la sabiduría, y la sabiduría conduce a la finalidad del pensamiento._» ([LU 112:2.13](/es/The_Urantia_Book/112#p2_13))
+> «_En el tiempo, el pensamiento conduce a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración conduce a la sabiduría, y la sabiduría conduce a la finalidad del pensamiento._» (<a id="a59_207"></a>[LU 112:2.13](/es/The_Urantia_Book/112#p2_13))
 
 ¿Qué significa esta nueva afirmación? ¿No podemos ver que ésta es sólo la primera proposición cuyos términos ahora están invertidos? ¡Si! ¡Lo vemos claro! Y esto constituye un enigma tal como lo encontramos aquí y allá en el Libro de Urantia, un enigma destinado a agudizar nuestro sentido de lo divino dentro de nosotros, nuestro sentido de las realidades futuras, nuestro sentido de las realidades que nos esperan en la eternidad.
 

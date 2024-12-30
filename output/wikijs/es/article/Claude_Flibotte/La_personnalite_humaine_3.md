@@ -39,11 +39,11 @@ Claude Flibotte
 
 Muchas discusiones sobre la UBIS giran en torno a la comprensión correcta de la personalidad. ¡Me gustaría compartir con vosotros mi visión muy personal del tema!
 
-> «La personalidad humana es la sombra-imagen espacio-temporal proyectada por la personalidad divina del Creador. Y ninguna realidad se puede comprender nunca de manera adecuada mediante el examen de su sombra. Las sombras deben interpretarse en función de la verdadera sustancia.» ([LU 1:6.1](/es/The_Urantia_Book/1#p6_1))
+> «La personalidad humana es la sombra-imagen espacio-temporal proyectada por la personalidad divina del Creador. Y ninguna realidad se puede comprender nunca de manera adecuada mediante el examen de su sombra. Las sombras deben interpretarse en función de la verdadera sustancia.» (<a id="a41_283"></a>[LU 1:6.1](/es/The_Urantia_Book/1#p6_1))
 
 Esto quizás explique por qué nos resulta tan difícil tener una idea clara de qué es la personalidad. Si, de entrada, nos preguntamos ¿qué caracteriza específicamente a la personalidad y cuál es su función?
 
-> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» ([LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
+> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» (<a id="a45_447"></a>[LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
 
 Así, a imagen del Padre infinito que restablece la unificación de la Deidad por la Trinidad del Paraíso tras la trinitización del Hijo Eterno y del Espíritu Infinito, la personalidad humana, don del Padre, crea la unificación de los múltiples constituyentes del individualidad humana (física, hereditaria, mental y conductual). Para entender un poco más este fenómeno, observemos lo que sucede en el reino animal.
 
@@ -51,7 +51,7 @@ Todos estamos de acuerdo en que los animales no tienen personalidad. Tomemos com
 
 Ahora bien, ¿cómo funciona esto para los humanos? Los reveladores nos dicen que la personalidad humana nos es dada antes de la llegada del Ajustador del Pensamiento.
 
-> «La personalidad es un don único de naturaleza original cuya existencia es independiente de, y anterior a, la concesión del Ajustador del Pensamiento. Sin embargo, la presencia del Ajustador aumenta de hecho la manifestación cualitativa de la personalidad. Cuando los Ajustadores del Pensamiento surgen del Padre, son idénticos en naturaleza, pero la personalidad es variada, original y exclusiva; y la manifestación de la personalidad está condicionada y limitada además por la naturaleza y las cualidades de las energías asociadas de naturaleza material, mental y espiritual que constituyen el vehículo orgánico que sirve para la manifestación de la personalidad.» ([LU 16:8.3](/es/The_Urantia_Book/16#p8_3))
+> «La personalidad es un don único de naturaleza original cuya existencia es independiente de, y anterior a, la concesión del Ajustador del Pensamiento. Sin embargo, la presencia del Ajustador aumenta de hecho la manifestación cualitativa de la personalidad. Cuando los Ajustadores del Pensamiento surgen del Padre, son idénticos en naturaleza, pero la personalidad es variada, original y exclusiva; y la manifestación de la personalidad está condicionada y limitada además por la naturaleza y las cualidades de las energías asociadas de naturaleza material, mental y espiritual que constituyen el vehículo orgánico que sirve para la manifestación de la personalidad.» (<a id="a53_670"></a>[LU 16:8.3](/es/The_Urantia_Book/16#p8_3))
 
 Los reveladores también describen nuestro tipo de personalidad así:
 
@@ -59,7 +59,7 @@ Los reveladores también describen nuestro tipo de personalidad así:
 > 
 > _1. El reconocimiento matemático o lógico de la uniformidad de la causalidad física._
 > _2. El reconocimiento razonado de la obligación de tener una conducta moral._
-> _3. La comprensión por la fe de la adoración con comunión de la Deidad, asociada al servicio amoroso a la humanidad._ ([LU 16:8.15-18](/es/The_Urantia_Book/16#p8_15))
+> _3. La comprensión por la fe de la adoración con comunión de la Deidad, asociada al servicio amoroso a la humanidad._ (<a id="a61_121"></a>[LU 16:8.15-18](/es/The_Urantia_Book/16#p8_15))
 
 Me preguntaba, ya que el Padre me da personalidad y el Ajustador del Pensamiento por qué no lo hace al mismo tiempo. Después de una cuidadosa consideración, llegué a la conclusión de que era absolutamente necesario que me conociera lo suficiente y unificara los diferentes componentes de mi individualidad a través de mi personalidad para permitir que el Ajustador viniera y habitara mi mente. Es decir, la personalidad me permite no sólo ser consciente, como lo es Fido, sino también ser consciente de que soy consciente. Esta adición de conciencia me da la capacidad de conocerme a mí mismo, reconocer otras personalidades, elegir moralmente el bien, volverme creativo, conocer a mi Creador y buscar llegar a ser como Él.
 
@@ -77,7 +77,7 @@ Me preguntaba, ya que el Padre me da personalidad y el Ajustador del Pensamiento
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a78_133"></a>[LU 16:8.5-14](/fr/The_Urantia_Book/16#p8_5)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.5-14](/fr/The_Urantia_Book/16#p8_5)
 
 A través de esta información adicional, nos damos cuenta de que la autoconciencia, también llamada ego, está vinculada a la mente y a la suma cualitativa de la personalidad.
 

@@ -43,7 +43,7 @@ Para aquellos que se hacen preguntas un poco más sensatas, si se me permite dec
 
 Comenzaremos la historia a su llegada allí arriba.
 
-“Tan pronto como pude mirar a mi alrededor y apreciar mi nuevo estado, se me unió uno de mis antiguos colegas, un sacerdote que había muerto unos años antes” [LU 47:3.6](/es/The_Urantia_Book/47#p3_6)
+“Tan pronto como pude mirar a mi alrededor y apreciar mi nuevo estado, se me unió uno de mis antiguos colegas, un sacerdote que había muerto unos años antes” <a id="a45_158"></a>[LU 47:3.6](/es/The_Urantia_Book/47#p3_6)
 
 Tenéis tiempo para satisfacer vuestro deseo de consultar el libro de registro y de visitar a vuestros seres queridos y a otros amigos terrenales que os han precedido en este mundo.
 
@@ -77,7 +77,7 @@ La vista era sencillamente magnífica. Nunca hubiera esperado contemplar un mar 
 
 “Los edificios magníficos ofrecen la imagen de permanencia eterna. Los materiales con los que están construidos son imperecederos. Las superficies están tan limpias y frescas como el primer día. Nada los contamina. Los materiales con los que están construidos son los del mundo espiritual, por lo que su belleza es divina. 
 
-[LU 48:1.3](/es/The_Urantia_Book/48#p1_3) Los Maestros Controladores Físicos y los Supervisores del Poder Morontial pueden modificar la rotación de unidades primarias de materia y al mismo tiempo transformar estas asociaciones de energía de tal manera que se cree esta nueva sustancia.
+<a id="a79_0"></a>[LU 48:1.3](/es/The_Urantia_Book/48#p1_3) Los Maestros Controladores Físicos y los Supervisores del Poder Morontial pueden modificar la rotación de unidades primarias de materia y al mismo tiempo transformar estas asociaciones de energía de tal manera que se cree esta nueva sustancia.
 
 “Una casa de reposo: servía a aquellos que habían llegado al mundo espiritual después de una larga enfermedad, o que habían muerto de muerte violenta... Inmediatamente encima del edificio, una gran cúpula de luz azul lo envolvía en su influencia. Era un fluido revitalizante, un gran resplandor sanador enviado a aquellos que aún no habían despertado espiritualmente. »
 

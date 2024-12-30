@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Samuel Heïne<br>© 2021 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Implantation_de_la_vie_sur_une_planete">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Establecimiento de la vida en un planeta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_sur_les_anges_gardiens">
+          <span class="pr-2">Estudio sobre los ángeles guardianes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-left">
@@ -48,3 +72,28 @@ Gracias, Dios, por permitirnos sentir nuestra alma desplegarse y así tocar ya l
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-Special-ete-2021.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Implantation_de_la_vie_sur_une_planete">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Establecimiento de la vida en un planeta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_sur_les_anges_gardiens">
+          <span class="pr-2">Estudio sobre los ángeles guardianes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

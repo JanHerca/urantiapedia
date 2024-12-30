@@ -89,7 +89,7 @@ Imaginemos por un momento nuestra vida guiada únicamente por el sentimiento de 
 
 — Pero el amor no se puede mandar, es el amor el que te manda.
 
-Porque “la experiencia de amar es en gran medida una respuesta directa a la experiencia de ser amado”. ([LU 2:5.8](/es/The_Urantia_Book/2#p5_8))
+Porque “la experiencia de amar es en gran medida una respuesta directa a la experiencia de ser amado”. (<a id="a91_104"></a>[LU 2:5.8](/es/The_Urantia_Book/2#p5_8))
 
 El Padre, a través de este don excepcional y generoso, nos muestra que no estamos aislados en un universo hostil, sino que, por el contrario, pertenecemos ya a la gran familia del amor universal. Depende de nosotros captar el mensaje invisible, este acento de atemporalidad mesurada.
 
@@ -156,13 +156,13 @@ Cada uno tiene el deber, según sus fuerzas y su propia voluntad, de encontrar, 
 Mejor afirmo hoy: ¡No hay nada más importante en este mundo!
 Además, ¿no termina el libro así?
 
-> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe._» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe._» (<a id="a158_799"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 ¡Qué más puedo decir!
 
 No existe ningún método secreto. Depende de nosotros ahora.
 
-> ««Vuestra filiación está fundada en la fe, y debéis permanecer impasibles ante el miedo. Vuestra alegría nace de la confianza en la palabra divina, y por consiguiente, no pondréis en duda la realidad del amor y de la misericordia del Padre. La bondad misma de Dios es la que conduce a los hombres a un arrepentimiento sincero y auténtico. Vuestro secreto para dominar el yo está ligado a vuestra fe en el espíritu interno, que siempre actúa por amor. Incluso esta fe salvadora no la tenéis por vosotros mismos; es también un regalo de Dios. Si sois los hijos de esta fe viviente, ya no sois los esclavos del yo, sino más bien los dueños triunfantes de vosotros mismos, los hijos liberados de Dios»{8}.» ([LU 143:2.7](/es/The_Urantia_Book/143#p2_7))
+> ««Vuestra filiación está fundada en la fe, y debéis permanecer impasibles ante el miedo. Vuestra alegría nace de la confianza en la palabra divina, y por consiguiente, no pondréis en duda la realidad del amor y de la misericordia del Padre. La bondad misma de Dios es la que conduce a los hombres a un arrepentimiento sincero y auténtico. Vuestro secreto para dominar el yo está ligado a vuestra fe en el espíritu interno, que siempre actúa por amor. Incluso esta fe salvadora no la tenéis por vosotros mismos; es también un regalo de Dios. Si sois los hijos de esta fe viviente, ya no sois los esclavos del yo, sino más bien los dueños triunfantes de vosotros mismos, los hijos liberados de Dios»{8}.» (<a id="a164_706"></a>[LU 143:2.7](/es/The_Urantia_Book/143#p2_7))
 
 Patrick Beaupré
 

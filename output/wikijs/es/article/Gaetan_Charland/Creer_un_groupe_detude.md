@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2024_08_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-382-agosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 382 — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Articles_en_francais_sur_Urantiapedia">
+          <span class="pr-2">Artículos en francés en Urantiapedia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -65,7 +89,7 @@ Haber participado ya en uno o más grupos de estudio es una ventaja importante, 
 
 Conocer bien ***El Libro de Urantia*** y decidir cómo facilitar un grupo es crucial, siempre que la humildad guíe esta facilitación. Como dice ***El Libro de Urantia***:
 
-> «...El orgullo de la erudición no espiritualizada es una trampa en la experiencia humana. El verdadero maestro mantiene su integridad intelectual permaneciendo siempre como un alumno.» ([LU 130:3.7](/es/The_Urantia_Book/130#p3_7))
+> «...El orgullo de la erudición no espiritualizada es una trampa en la experiencia humana. El verdadero maestro mantiene su integridad intelectual permaneciendo siempre como un alumno.» (<a id="a91_188"></a>[LU 130:3.7](/es/The_Urantia_Book/130#p3_7))
 
 ## Frecuencia de las reuniones
 
@@ -108,3 +132,28 @@ Al llevar a cabo este proyecto, encontrará varios desafíos. Acércate a ellos 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2024_08_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-382-agosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 382 — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Articles_en_francais_sur_Urantiapedia">
+          <span class="pr-2">Artículos en francés en Urantiapedia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

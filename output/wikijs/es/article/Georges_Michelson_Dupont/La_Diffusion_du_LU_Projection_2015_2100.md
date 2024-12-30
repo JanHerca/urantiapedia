@@ -122,7 +122,7 @@ El personal del gobierno planetario a cargo del proyecto El Libro de Urantia ant
 
 Todos estos acontecimientos muestran que existe un plan general y una organización precisa establecidos por nuestros amigos invisibles y por el gobierno planetario de los serafines para hacer evolucionar la espiritualidad de Urantia. Más concretamente y en lo que respecta al mundo francófono, la explosión demográfica en África es un gran desafío futuro y debemos prepararnos para ello. Las claves se encuentran ciertamente en el “mandato de publicación” y los cinco puntos mencionados anteriormente están en su lugar: nos corresponde a nosotros participar según nuestras posibilidades.
 
-> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» (<a id="a124_196"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
 

@@ -42,7 +42,7 @@ Por tanto, la tradición cristiana ve claramente una María que sería hermana d
 
 ¿Qué pasa con El libro de Urantia?
 
-En [LU 187:3.2](/es/The_Urantia_Book/187#p3_2) podemos leer: “_Entre las personas que estuvieron cerca de la cruz en un momento u otro durante la crucifixión, estaban María, Rut, Judas, Juan, Salomé (madre de Juan) y un grupo de sinceros y convencidos creyentes entre ellos María (esposa de Clopas y hermana de la madre de Jesús), María Magdalena y Rebeca,..._ »
+En <a id="a44_3"></a>[LU 187:3.2](/es/The_Urantia_Book/187#p3_2) podemos leer: “_Entre las personas que estuvieron cerca de la cruz en un momento u otro durante la crucifixión, estaban María, Rut, Judas, Juan, Salomé (madre de Juan) y un grupo de sinceros y convencidos creyentes entre ellos María (esposa de Clopas y hermana de la madre de Jesús), María Magdalena y Rebeca,..._ »
 
 ¿Podemos justificar que dos hermanas tengan el mismo nombre?
 
@@ -50,11 +50,11 @@ Aparentemente, podríamos eliminar esta incongruencia agregando una coma despué
 
 De esto deberíamos deducir que esta mujer de Clopas se llama Salomé (ver más abajo), pero luego quedaría en la incógnita, ¿quién es esta Marie?
 
-Una segunda solución consistiría en agregar un artículo antes de _sour de Jesús_, entonces tendríamos: ...comprendiendo a María, esposa de Clopas (1) y la (o una) hermana de la madre de Jesús (2), esta hermana posiblemente siendo Marta o Salomé. Pero luego nos topamos con [LU 188:1.7](/es/The_Urantia_Book/188#p1_7) que nos dice: “_Aquí están los nombres de las mujeres que se quedaron así cerca de la tumba este viernes por la noche: María Magdalena, María la esposa de Clopas, Marta (otra hermana del madre de Jesús) y Rebeca..._ »
+Una segunda solución consistiría en agregar un artículo antes de _sour de Jesús_, entonces tendríamos: ...comprendiendo a María, esposa de Clopas (1) y la (o una) hermana de la madre de Jesús (2), esta hermana posiblemente siendo Marta o Salomé. Pero luego nos topamos con <a id="a52_273"></a>[LU 188:1.7](/es/The_Urantia_Book/188#p1_7) que nos dice: “_Aquí están los nombres de las mujeres que se quedaron así cerca de la tumba este viernes por la noche: María Magdalena, María la esposa de Clopas, Marta (otra hermana del madre de Jesús) y Rebeca..._ »
 
 Esta frase también parece implicar que María, esposa de Clopas, es una de las hermanas de María, siendo Marta otra.
 
-Sin embargo, sabemos que María, madre de Jesús, tenía sólo dos hermanas, una de las cuales era Salomé cf. [LU 122:3.3](/es/The_Urantia_Book/122#p3_3), si la otra se llamaba Marta, ¿cómo puede María, esposa de Clopas, ser hermana de María madre de Jesús? Misterio. (continuará)
+Sin embargo, sabemos que María, madre de Jesús, tenía sólo dos hermanas, una de las cuales era Salomé cf. <a id="a56_106"></a>[LU 122:3.3](/es/The_Urantia_Book/122#p3_3), si la otra se llamaba Marta, ¿cómo puede María, esposa de Clopas, ser hermana de María madre de Jesús? Misterio. (continuará)
 
 Jean-Royer
 

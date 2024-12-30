@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 376 — Febrero de 2024 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-376-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Comment_nous_est_parvenue_LU">
+          <span class="pr-2">¿Cómo llegó hasta nosotros El Libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -22,7 +46,7 @@ Queridos lectores y miembros de la asociación,
 
 A principios de este año, quizás hayas sentido el llamado o la inspiración para profundizar una vez más en la lectura y el estudio de las enseñanzas de _El Libro de Urantia_. Es posible que algunos de ustedes hayan decidido unirse a un grupo de estudio o tomar uno de los muchos cursos que ofrecen la UBIS, la UUI, Sabiduría Divina Progresiva o la Escuela de Embajadores. Estas múltiples actividades a menudo son necesarias para nutrir y mantener la llama espiritual que arde dentro de nosotros.
 
-> ... Los Creadores saben muy bien que «no es bueno que el hombre esté solo» y, en consecuencia, toman sus disposiciones para que esté acompañado, incluso en el Paraíso. ([LU 25:8.4](/es/The_Urantia_Book/25#p8_4))
+> ... Los Creadores saben muy bien que «no es bueno que el hombre esté solo» y, en consecuencia, toman sus disposiciones para que esté acompañado, incluso en el Paraíso. (<a id="a48_171"></a>[LU 25:8.4](/es/The_Urantia_Book/25#p8_4))
 
 Incluso en nuestra avanzada progresión espiritual, la necesidad de tener compañeros con quienes tener comunión sigue siendo crucial. Por lo tanto, necesitamos compañeros en este planeta con quienes podamos compartir nuestros intereses e inquietudes espirituales. Pocos de nosotros podemos simplemente discutir estos temas con nuestros seres queridos. En el movimiento Urantia, sólo conozco a unos pocos. Por eso es esencial que nos unamos para cultivar el coraje necesario para continuar nuestro progreso espiritual.
 
@@ -43,7 +67,7 @@ Es importante recordar que la rebelión de Lucifer tenía como objetivo privarno
 
 Concluyo este mensaje invitándote a meditar sobre este pasaje:
 
-> «Pero en la tarea que nos aguarda de inmediato, y en la que quedará para vosotros después ... pasaréis por pruebas muy penosas. Todos tendréis que estar alertas contra el miedo y las dudas. Que cada uno de vosotros se prepare mentalmente para la lucha y mantenga su lámpara encendida.» ([LU 165:5.5](/es/The_Urantia_Book/165#p5_5))
+> «Pero en la tarea que nos aguarda de inmediato, y en la que quedará para vosotros después ... pasaréis por pruebas muy penosas. Todos tendréis que estar alertas contra el miedo y las dudas. Que cada uno de vosotros se prepare mentalmente para la lucha y mantenga su lámpara encendida.» (<a id="a69_289"></a>[LU 165:5.5](/es/The_Urantia_Book/165#p5_5))
 
 Amar es servir
 
@@ -52,3 +76,28 @@ Amar es servir
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite-fevrier-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 376 — Febrero de 2024 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-376-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Comment_nous_est_parvenue_LU">
+          <span class="pr-2">¿Cómo llegó hasta nosotros El Libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

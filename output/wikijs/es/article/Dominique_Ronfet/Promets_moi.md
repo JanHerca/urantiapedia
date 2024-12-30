@@ -98,13 +98,13 @@ Prométemelo<br>
 
 **La verdad**
 
-> «La falsa ciencia del materialismo condenaría al hombre mortal a convertirse en un proscrito en el universo. Un conocimiento así de parcial es potencialmente malo; es un conocimiento compuesto a la vez de bien y de mal. La verdad es hermosa porque es a la vez completa y simétrica. Cuando el hombre busca la verdad, persigue aquello que es divinamente real.» ([LU 2:7.4](/es/The_Urantia_Book/2#p7_4))
+> «La falsa ciencia del materialismo condenaría al hombre mortal a convertirse en un proscrito en el universo. Un conocimiento así de parcial es potencialmente malo; es un conocimiento compuesto a la vez de bien y de mal. La verdad es hermosa porque es a la vez completa y simétrica. Cuando el hombre busca la verdad, persigue aquello que es divinamente real.» (<a id="a100_362"></a>[LU 2:7.4](/es/The_Urantia_Book/2#p7_4))
 
-> «5. *El amor a la verdad* —y la buena disposición a seguirla dondequiera que conduzca— ¿es deseable? Entonces el hombre debe crecer en un mundo donde el error esté presente y la falsedad sea siempre posible.» ([LU 3:5.10](/es/The_Urantia_Book/3#p5_10))
+> «5. *El amor a la verdad* —y la buena disposición a seguirla dondequiera que conduzca— ¿es deseable? Entonces el hombre debe crecer en un mundo donde el error esté presente y la falsedad sea siempre posible.» (<a id="a102_212"></a>[LU 3:5.10](/es/The_Urantia_Book/3#p5_10))
 
 **Bondad**
 
-> «La belleza divina la podemos ver en el universo físico, la verdad eterna podemos discernirla en el mundo intelectual, pero la bondad de Dios se encuentra solamente en el mundo espiritual de la experiencia religiosa personal. La religión es, en su verdadera esencia, una fe mezclada de confianza en la bondad de Dios. En la filosofía, Dios podría ser grande y absoluto, e incluso de algún modo inteligente y personal; pero en la religión Dios ha de ser también moral; debe ser bueno. El hombre podría temer a un gran Dios, pero sólo ama y tiene confianza en un Dios bueno. Esta bondad de Dios forma parte de la personalidad de Dios, y su plena revelación sólo aparece en la experiencia religiosa personal de los hijos creyentes de Dios.» ([LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
+> «La belleza divina la podemos ver en el universo físico, la verdad eterna podemos discernirla en el mundo intelectual, pero la bondad de Dios se encuentra solamente en el mundo espiritual de la experiencia religiosa personal. La religión es, en su verdadera esencia, una fe mezclada de confianza en la bondad de Dios. En la filosofía, Dios podría ser grande y absoluto, e incluso de algún modo inteligente y personal; pero en la religión Dios ha de ser también moral; debe ser bueno. El hombre podría temer a un gran Dios, pero sólo ama y tiene confianza en un Dios bueno. Esta bondad de Dios forma parte de la personalidad de Dios, y su plena revelación sólo aparece en la experiencia religiosa personal de los hijos creyentes de Dios.» (<a id="a106_741"></a>[LU 2:6.1](/es/The_Urantia_Book/2#p6_1))
 
 **Belleza**
 
@@ -112,7 +112,7 @@ Prométemelo<br>
 
 **Verdad, Belleza y Bondad Combinadas**
 
-> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión. La realidad es finita en el nivel humano, y es infinita y eterna en los niveles superiores y divinos.» ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
+> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión. La realidad es finita en el nivel humano, y es infinita y eterna en los niveles superiores y divinos.» (<a id="a114_573"></a>[LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
 
 

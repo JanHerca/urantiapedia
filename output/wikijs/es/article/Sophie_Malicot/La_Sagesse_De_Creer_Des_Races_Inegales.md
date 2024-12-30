@@ -43,7 +43,7 @@ Jesús enseñó que la fe, la simple creencia infantil, es la llave de la puerta
 > 1. El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes{37}.
 > 2. El hombre no perdona de verdad a sus semejantes a menos que los ame como a sí mismo.
 > 3. Amar así al prójimo como a sí mismo{38} *es* la ética más elevada.
-> 4. La conducta moral, la verdadera rectitud, se convierte entonces en el resultado natural de ese amor. ([UB 170:3.3-7](/es/The_Urantia_Book/170#p3_3))
+> 4. La conducta moral, la verdadera rectitud, se convierte entonces en el resultado natural de ese amor. (<a id="a45_107"></a>[UB 170:3.3-7](/es/The_Urantia_Book/170#p3_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/092.jpg">
@@ -74,7 +74,7 @@ Así, el perdón no es un proceso para hacernos sentir culpables, sino exactamen
 
 La gracia del perdón no ocurre ni en la rigidez ni en la rigidez. Se experimenta en el corazón de la profunda vulnerabilidad del ser, donde todos los mecanismos de defensa son eliminados. Cuando los resentimientos, las amarguras, los insultos y los juicios se agotan, dejando atrás sólo el vaciamiento del ser, y cuando, a pesar de ellos, ninguna reparación es efectiva, entonces, de repente, puede surgir una apertura hacia el HACER similar. Más allá de todo; y todo lo que hizo. Si el camino para alcanzar el perdón es largo, el perdón es instantáneo. Surge –inesperadamente– incluso si lo esperábamos; De repente, incluso brutalmente, empuja y derriba al ser de un solo suspiro. La mirada cambia irremediablemente, atraviesa incluso la luz, devolviendo la honorabilidad del prójimo, así como se restablece la propia honorabilidad. Porque son hermanas siamesas; se hunden o regresan al mismo yugo. Además, el perdón suele ser bilateral.
 
-> «Dios es inherentemente bondadoso, compasivo por naturaleza y perpetuamente misericordioso. Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora. Puesto que Dios lo sabe todo acerca de sus hijos, le resulta fácil perdonar. Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
+> «Dios es inherentemente bondadoso, compasivo por naturaleza y perpetuamente misericordioso. Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora. Puesto que Dios lo sabe todo acerca de sus hijos, le resulta fácil perdonar. Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» (<a id="a76_504"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
 
 Así que este nuevo look sólo puede ser amado. Ama a los demás, divinamente. Pasa de enemigo a alma hermano-hermana, en una dimensión gloriosa de cumplimiento del Reino, trascendiendo el tiempo actual. Mirada de prefiguración del ser cósmico. Las fronteras están abolidas; el perdón no tiene fronteras, raza, color o religión. Tampoco tiene edad. ¿De dónde surge? ¿De qué fuente? Ser ? Dios ? La simultaneidad respondería a ambas cosas. El camino para acceder a él invita a la integración de un nivel de relaciones donde los valores divinos son la sustancia.
 

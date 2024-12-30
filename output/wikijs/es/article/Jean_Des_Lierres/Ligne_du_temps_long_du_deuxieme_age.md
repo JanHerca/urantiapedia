@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Des Lierres<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lucha ideológica: los peligros del Manifiesto de Lucifer (Parte 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="pr-2">Libertad verdadera y falsa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -23,7 +47,7 @@ Es una pintura cuya función es la de cualquier pintura: ayudarnos a ver, compre
 Sin un marco, no podemos nutrirnos mentalmente. Marcos conceptuales, marcos de referencia, marcos de pintores, obviamente...; Necesitamos marcos todo el tiempo.
 <br style="clear:both;"/>
 
-> «...Aunque estos marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, todos son erróneos en mayor o menor grado, sin ninguna excepción.» ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+> «...Aunque estos marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, todos son erróneos en mayor o menor grado, sin ninguna excepción.» (<a id="a49_209"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/006.jpg">
@@ -35,9 +59,9 @@ En realidad, mientras lo trazaba pensé que el cuadro hablaba por sí solo. Pero
 
 Entonces, lector, te recomiendo que comiences con las dos citas de la tabla. Presentan el desafío del TIEMPO de la manera más hermosa. Este desafío es realizar EXPERIENCIAS significativas para contribuir a la gran obra del Supremo —la Madre Divina— para esta segunda era del Universo.
 
-La primera cita ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3)) nos advierte que las dificultades no disminuirán en el futuro. Para aquellos que dicen sí al plan divino, deben saber que enfrentaremos dificultades... cada vez más difíciles. Entonces, si buscábamos sabiduría y conocimiento para blindarnos ante acontecimientos desafortunados o difíciles (una especie de Florida para el invierno), parece que no sucederá pronto.
+La primera cita (<a id="a61_17"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)) nos advierte que las dificultades no disminuirán en el futuro. Para aquellos que dicen sí al plan divino, deben saber que enfrentaremos dificultades... cada vez más difíciles. Entonces, si buscábamos sabiduría y conocimiento para blindarnos ante acontecimientos desafortunados o difíciles (una especie de Florida para el invierno), parece que no sucederá pronto.
 
-Ahora mire la otra cita ([LU 118:1.8](/es/The_Urantia_Book/118#p1_8)). Es tan estimulante como el anterior. Por lo tanto, separar los tres componentes del tiempo (el pasado, el presente y el futuro) nos impide comprender plenamente los acontecimientos y nos coloca a la espera de la madurez espiritual. ¡Viva, pues, la integración y la conjugación en la continuidad de todos los tiempos! Lo que es mejor, integrar los tres aspectos del tiempo –pasado, presente y futuro– nos permitirá comprender el significado de la eternidad, de la que el tiempo no es más que fragmentos.
+Ahora mire la otra cita (<a id="a63_25"></a>[LU 118:1.8](/es/The_Urantia_Book/118#p1_8)). Es tan estimulante como el anterior. Por lo tanto, separar los tres componentes del tiempo (el pasado, el presente y el futuro) nos impide comprender plenamente los acontecimientos y nos coloca a la espera de la madurez espiritual. ¡Viva, pues, la integración y la conjugación en la continuidad de todos los tiempos! Lo que es mejor, integrar los tres aspectos del tiempo –pasado, presente y futuro– nos permitirá comprender el significado de la eternidad, de la que el tiempo no es más que fragmentos.
 
 Feliz lectura y disfrute.
 
@@ -45,5 +69,30 @@ Feliz lectura y disfrute.
 
 Estamos en el TIEMPO simplemente para aportar nuestras experiencias significativas a la divina aventura del Supremo, la Divina Madre. ¡Ah! ¡Mi veneración por esta Madre debería haberme llevado a nombrarla más en mi cuadro! Que Ella no me lo tenga en cuenta... Le dejo la última palabra: ¡Divina Madre del universo, te venero! Todo este documento sobre la segunda edad del universo habla de Ti hasta la conclusión.
 
-**Conclusión**: De ahora en adelante, lea esta cita que abarca el todo y cierra la brecha entre el Supremo y nuestra experiencia: «_El Supremo en evolución compensará finalmente a las criaturas finitas por su incapacidad para conseguir algo más que un contacto experiencial limitado con el universo de universos. Las criaturas pueden alcanzar al Padre Paradisiaco, pero como sus mentes evolutivas son finitas, son incapaces de comprender realmente al Padre infinito y absoluto. Pero, puesto que todas las experiencias de las criaturas se registran en el Supremo y forman parte de él, cuando todas las criaturas alcancen el nivel final de la existencia finita, y después de que el desarrollo total del universo les permita alcanzar a Dios Supremo como presencia manifestada de la divinidad, entonces, el hecho de este contacto llevará implícito el ponerse en contacto con la totalidad de la experiencia. Lo finito del tiempo contiene en sí mismo las semillas de la eternidad; y nos han enseñado que cuando la plenitud de la evolución agote la capacidad para el crecimiento cósmico, la totalidad de lo finito se embarcará en las fases absonitas de la carrera eterna en busca del Padre como Último._» [LU 117:5.14](/es/The_Urantia_Book/117#p5_14)
+**Conclusión**: De ahora en adelante, lea esta cita que abarca el todo y cierra la brecha entre el Supremo y nuestra experiencia: «_El Supremo en evolución compensará finalmente a las criaturas finitas por su incapacidad para conseguir algo más que un contacto experiencial limitado con el universo de universos. Las criaturas pueden alcanzar al Padre Paradisiaco, pero como sus mentes evolutivas son finitas, son incapaces de comprender realmente al Padre infinito y absoluto. Pero, puesto que todas las experiencias de las criaturas se registran en el Supremo y forman parte de él, cuando todas las criaturas alcancen el nivel final de la existencia finita, y después de que el desarrollo total del universo les permita alcanzar a Dios Supremo como presencia manifestada de la divinidad, entonces, el hecho de este contacto llevará implícito el ponerse en contacto con la totalidad de la experiencia. Lo finito del tiempo contiene en sí mismo las semillas de la eternidad; y nos han enseñado que cuando la plenitud de la evolución agote la capacidad para el crecimiento cósmico, la totalidad de lo finito se embarcará en las fases absonitas de la carrera eterna en busca del Padre como Último._» <a id="a71_1198"></a>[LU 117:5.14](/es/The_Urantia_Book/117#p5_14)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Zshonette_Reed/La_lutte_ideologique_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La lucha ideológica: los peligros del Manifiesto de Lucifer (Parte 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/La_vraie_et_la_fausse_liberte">
+          <span class="pr-2">Libertad verdadera y falsa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

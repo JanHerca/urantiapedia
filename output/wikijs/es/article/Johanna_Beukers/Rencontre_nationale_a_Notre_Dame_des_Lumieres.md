@@ -45,7 +45,7 @@ El Presidente nos contó una ficción que pretendía confrontarnos con una nueva
 
 El viernes por la mañana, **Guy Antéquéra**, un lector muy anciano, abrió un primer debate con su presentación sobre los primeros momentos de nuestra supervivencia, acompañada de documentos en vídeo. Desde hace varios años, con algunos participantes de su grupo, se interesó en profundizar su investigación sobre el despertar post-mortem, un área que nos concierne a todos. Los Reveladores nos hablan de ello de cierta manera pero nos dejan buscar por nosotros mismos ciertas coherencias entre los diversos textos del LU, sabiendo bien que estos últimos están sujetos “_por restricciones impuestas por las autoridades celestiales que gobiernan Urantia_” %%0% %. La conferencia de Guy concluyó que según sus tesis, algunos mortales fallecidos despertarían en el tercer período, mientras que otros estarían dormidos y esperando una próxima dispensa.
 
-Después de lo cual Guy añade el hecho de aquellos a quienes «se les puede impedir salir hasta que se haya completado el juicio de sus asuntos...». [LU 112:5.10](/es/The_Urantia_Book/112#p5_10). Y nos hicimos esta pregunta: ¿Dónde están estos mortales?
+Después de lo cual Guy añade el hecho de aquellos a quienes «se les puede impedir salir hasta que se haya completado el juicio de sus asuntos...». <a id="a47_147"></a>[LU 112:5.10](/es/The_Urantia_Book/112#p5_10). Y nos hicimos esta pregunta: ¿Dónde están estos mortales?
 
 Guy nos mantuvo en vilo al presentar varias sugerencias relacionadas con este tema. Los debates seguirán abiertos para seguir filosofando entre nosotros sobre este enigma que no es nada mediocre. La conferencia de Guy está disponible para todos nuestros miembros, simplemente solicítela a la secretaria para obtenerla.
 

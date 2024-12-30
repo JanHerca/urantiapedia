@@ -45,7 +45,7 @@ Dominique R.
 
 Respecto a este don de la Personalidad, se nos ofrecen varios enfoques. Comenzaré con la definición de personalidad tal como se nos presenta en este breve pasaje de la introducción:
 
-> La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo. ([LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
+> La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo. (<a id="a47_445"></a>[LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
 
 — Mmmmm… ¿y qué? »
 
@@ -81,7 +81,7 @@ Estamos como dormidos sobre nosotros mismos, y la herramienta mental que utiliza
 
 Son completamente naturales e incluso imprescindibles. El humor y el sentido del juego que es la vida pueden ayudarnos a soportar esta tensión entre lo que somos y lo que se espera de nosotros, lo que estamos llamados a ser.
 
-Desde nuestro punto de vista me parece que nuestra Personalidad puede ser considerada como un motor que busca actualizarnos (realizarnos) a través de su trabajo de unificación sobre los “otros factores de nuestra individualidad” ([LU 5:6.6](/es/The_Urantia_Book/5#p6_6)).
+Desde nuestro punto de vista me parece que nuestra Personalidad puede ser considerada como un motor que busca actualizarnos (realizarnos) a través de su trabajo de unificación sobre los “otros factores de nuestra individualidad” (<a id="a83_230"></a>[LU 5:6.6](/es/The_Urantia_Book/5#p6_6)).
 
 Y entonces somos como equilibristas en la creación... de nosotros mismos.
 
@@ -94,7 +94,7 @@ Nada nuevo bajo el sol, encontramos en los folletos una explicación de lo que o
 
 — Debemos escuchar además de actuar.
 
-Si no desarrollamos nuestra capacidad de escuchar lo que nos es ajeno, nuestra curiosidad intelectual y artística y así mantenemos nuestro deseo de buscarnos a nosotros mismos, no podremos estar abiertos a este circuito de la Personalidad. Y así pensar... por nosotros mismos. Sólo repetiremos una y otra vez las mismas frases “mágicas”, los mismos modos de pensamiento, de forma hipnótica, que es lo que le encanta a nuestra mente primitiva. ¡Seamos creativos con nosotros mismos, aprendamos a ser conscientes de nosotros mismos! ([LU 16:6.9](/es/The_Urantia_Book/16#p6_9)).
+Si no desarrollamos nuestra capacidad de escuchar lo que nos es ajeno, nuestra curiosidad intelectual y artística y así mantenemos nuestro deseo de buscarnos a nosotros mismos, no podremos estar abiertos a este circuito de la Personalidad. Y así pensar... por nosotros mismos. Sólo repetiremos una y otra vez las mismas frases “mágicas”, los mismos modos de pensamiento, de forma hipnótica, que es lo que le encanta a nuestra mente primitiva. ¡Seamos creativos con nosotros mismos, aprendamos a ser conscientes de nosotros mismos! (<a id="a96_532"></a>[LU 16:6.9](/es/The_Urantia_Book/16#p6_9)).
 
 Ésta es la única manera de acercarnos a nuestro Creador.
 

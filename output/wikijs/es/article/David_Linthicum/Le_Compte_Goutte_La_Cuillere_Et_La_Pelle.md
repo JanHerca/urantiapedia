@@ -49,7 +49,7 @@ Las enseñanzas de Jesús cambiaron el mundo. Sus enseñanzas finalmente llevaro
 
 Jesús logró cambiar la percepción de Dios de Moisés, que representaba un Dios enojado y vengativo, a un Dios de Amor, un Padre amoroso que adora a sus hijos terrenales. Jesús nos enseñó sobre el Reino de los Cielos y la Hermandad del Hombre, que los hombres y las mujeres son “salvados” sólo por su fe.
 
-> _No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._ ([[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> _No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._ (<a id="a51_133"></a>[[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 Estos sencillos mensajes de amor, fe y familia sirvieron para cambiar la percepción que las personas tenían de Dios y su relación con Él. Dios se volvió una persona más amable, más comprensiva y compasiva con nuestras luchas terrenas.
 

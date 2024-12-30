@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_simplification_de_lavant_propos_du_LU_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una simplificación del prólogo del Libro de Urantia (continuación)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/France_Tremblay/Le_monde_est_vibrations">
+          <span class="pr-2">El mundo son vibraciones.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -50,3 +74,28 @@ Estas comparaciones resaltan la naturaleza única y notable de los escritos que 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-avril-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_simplification_de_lavant_propos_du_LU_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una simplificación del prólogo del Libro de Urantia (continuación)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/France_Tremblay/Le_monde_est_vibrations">
+          <span class="pr-2">El mundo son vibraciones.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

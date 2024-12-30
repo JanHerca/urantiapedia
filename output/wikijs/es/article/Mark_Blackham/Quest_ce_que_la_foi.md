@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Mark Blackham<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Limportance_de_lunite_organisationnelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de la unidad organizacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudette_Gonthier/Commentaires_sur_lassemblee_generale_annuelle_de_lAUQ">
+          <span class="pr-2">Comentarios sobre la Asamblea General Anual de la Asociación Urantia de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -28,7 +52,7 @@ Pero cuando la fe se define (o limita) de esta manera, no es espiritualmente pro
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
 </figure>
 
-A la religión moderna le resulta difícil ajustar su actitud a los rápidos cambios sociales sólo porque se ha entregado a esa tradicionalización, dogmatización e institucionalización. [LU 99:2.6](/es/The_Urantia_Book/99#p2_6)
+A la religión moderna le resulta difícil ajustar su actitud a los rápidos cambios sociales sólo porque se ha entregado a esa tradicionalización, dogmatización e institucionalización. <a id="a54_183"></a>[LU 99:2.6](/es/The_Urantia_Book/99#p2_6)
 
 La fe se define mejor como simplemente tener total confianza en alguien o algo. Es una creencia firme en algo de lo que no existe evidencia empírica u objetiva. Por ejemplo, es posible que tengas una fe resuelta en el triunfo de la ciencia o una fe persistente en la victoria de tu equipo deportivo. No puedes probar que un evento sucederá o que una fuerza espiritual actuará a tu favor, pero tienes una fe inequívoca en que sucederá.
 
@@ -92,7 +116,7 @@ La razón por la que la fe en la bondad y la sabiduría de un Creador infinito y
 La fe es esencial porque tus pensamientos e ideales espirituales no pueden elevarse más alto de lo que puedas imaginar. Esas imaginaciones fieles se convierten en tu brújula espiritual, la inspiración que invariablemente te señala en la dirección correcta, llevándote siempre a lograr mucho más en la vida. Qué tragedia confinar tus esperanzas y sueños a los oscuros confines del materialismo frío, vacío e impío. No es de extrañar que tanta gente imagine el futuro como una distopía sombría y sin esperanza.
 <br style="clear:both;"/>
 
-> «Cuando sabéis que es la fe la que os salva, tenéis una verdadera paz con Dios». ([LU 143:2.6](/es/The_Urantia_Book/143#p2_6))
+> «Cuando sabéis que es la fe la que os salva, tenéis una verdadera paz con Dios». (<a id="a118_84"></a>[LU 143:2.6](/es/The_Urantia_Book/143#p2_6))
 
 Una fe humilde y positiva es una herramienta de conciencia; una actitud espiritual necesaria y poderosa porque es un estado mental que abre la puerta a la Presencia Divina dentro de ti. Esto, a su vez, permite al Espíritu liberar sus beneficiosas y poderosas actividades sobrehumanas en tu conciencia. En resumen, una actitud mental positiva permite que Dios te transforme espiritualmente.
 
@@ -119,7 +143,7 @@ Es lo que crees, más que lo que sabes, lo que determina lo que puedes lograr en
 Así como existen leyes naturales de la ciencia, existen leyes sobrenaturales del Espíritu. Una de estas leyes inmutables es que ni Dios ni ninguno de Sus ayudantes celestiales intentarán cambiarte o recrearte sin tu consentimiento explícito. El Creador de un universo quiere que vengas a Él, pero sólo si quieres venir por tu propia voluntad.
 <br style="clear:both;"/>
 
-> El Creador se niega a coaccionar el libre albedrío espiritual de sus criaturas materiales o forzarlas a que se sometan. ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
+> El Creador se niega a coaccionar el libre albedrío espiritual de sus criaturas materiales o forzarlas a que se sometan. (<a id="a145_123"></a>[LU 1:1.2](/es/The_Urantia_Book/1#p1_2))
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -138,7 +162,7 @@ Es imposible lograr la armonía espiritual y la unidad divina sólo a través de
 
 Vivir tu fe valida tu creencia de que eres una verdadera hija o hijo de un Dios Padre-Madre amoroso y compasivo. Fortalecidos por la misma fe, tus convicciones e ideales se convierten en realidades en tu vida. Esto, a su vez, abre la puerta a un potencial aún mayor para la conciencia espiritual y la vida espiritual, que se enriquece aún más cada vez que ayudas a los demás.
 
-> Se puede llegar a convicciones sobre Dios a través de un sabio razonamiento, pero el individuo sólo llega a conocer a Dios por medio de la fe, a través de la experiencia personal. ([LU 102:6.5](/es/The_Urantia_Book/102#p6_5))
+> Se puede llegar a convicciones sobre Dios a través de un sabio razonamiento, pero el individuo sólo llega a conocer a Dios por medio de la fe, a través de la experiencia personal. (<a id="a164_183"></a>[LU 102:6.5](/es/The_Urantia_Book/102#p6_5))
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -147,12 +171,37 @@ Vivir tu fe valida tu creencia de que eres una verdadera hija o hijo de un Dios 
 Vivir tu fe es un privilegio divino. Es una empresa feliz realizada con entusiasmo y amor; significa afrontar los desafíos diarios con vigor e inspiración; es permanecer valiente ante todas las decepciones y fracasos; y es cultivar un espíritu indomable que persevera a pesar de las dificultades y luchas de la vida.
 <br style="clear:both;"/>
 
-> 4\. *La fe* —la afirmación suprema del pensamiento humano— ¿es deseable? Entonces la mente del hombre ha de encontrarse en esa situación incómoda en la que siempre sabe menos de lo que puede creer. ([LU 3:5.9](/es/The_Urantia_Book/3#p5_9))
+> 4\. *La fe* —la afirmación suprema del pensamiento humano— ¿es deseable? Entonces la mente del hombre ha de encontrarse en esa situación incómoda en la que siempre sabe menos de lo que puede creer. (<a id="a173_201"></a>[LU 3:5.9](/es/The_Urantia_Book/3#p5_9))
 
-> La conciencia de llevar una vida humana victoriosa en la Tierra nace de esa fe de la criatura que, cuando se enfrenta con el terrible espectáculo de las limitaciones humanas, se atreve a desafiar cada episodio recurrente de la existencia, declarando infaliblemente: Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará, una parte del Absoluto-Padre del universo de universos. Ésta es «la victoria que triunfa sobre el mundo, vuestra fe misma». ([LU 4:4.9](/es/The_Urantia_Book/4#p4_9))
+> La conciencia de llevar una vida humana victoriosa en la Tierra nace de esa fe de la criatura que, cuando se enfrenta con el terrible espectáculo de las limitaciones humanas, se atreve a desafiar cada episodio recurrente de la existencia, declarando infaliblemente: Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará, una parte del Absoluto-Padre del universo de universos. Ésta es «la victoria que triunfa sobre el mundo, vuestra fe misma». (<a id="a175_472"></a>[LU 4:4.9](/es/The_Urantia_Book/4#p4_9))
 
 ## Referencias
 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Limportance_de_lunite_organisationnelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de la unidad organizacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudette_Gonthier/Commentaires_sur_lassemblee_generale_annuelle_de_lAUQ">
+          <span class="pr-2">Comentarios sobre la Asamblea General Anual de la Asociación Urantia de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

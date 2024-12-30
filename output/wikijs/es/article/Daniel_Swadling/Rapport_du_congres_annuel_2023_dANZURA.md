@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Daniel Swadling<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Qui_est_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién es Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/La_priere_vs_ladoration">
+          <span class="pr-2">Oración versus adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Informe de la Conferencia Anual de ANZURA 2023 (Australia y Nueva Zelanda) Habla sobre una revelación
@@ -75,7 +99,7 @@ Gracias a todos los que presentaron y contribuyeron a esta excelente conferencia
 Esperamos verlo nuevamente y unirnos a la multitud en Melbourne en la conferencia del próximo año. ¡Les dejo estas palabras reconfortantes que nos animan a todos a mantener viva esta conexión espiritual con Jesús, nuestro amigo, nuestro hermano y nuestro maestro:
 <br style="clear:both;"/>
 
-> Luego, Jesús se levantó de nuevo y continuó enseñando a sus apóstoles: «Yo soy la verdadera vid, y mi Padre el viñador. Yo soy la vid, y vosotros los sarmientos. El Padre sólo me pide que produzcáis muchos frutos. La vid solamente se poda para aumentar la fecundidad de sus sarmientos. Todo sarmiento estéril que sale de mí, el Padre lo cortará. Todo sarmiento que produzca fruto, el Padre lo limpiará para que pueda producir más frutos. Vosotros ya estáis limpios por la palabra que he pronunciado, pero debéis continuar estando limpios. Tenéis que permanecer en mí, y yo en vosotros; el sarmiento muere si se le separa de la vid. Así como el sarmiento no puede producir frutos a menos que permanezca en la vid, vosotros tampoco podéis producir los frutos del servicio amoroso a menos que permanezcáis en mí. Recordad: Yo soy la verdadera vid, y vosotros los sarmientos vivientes. El que vive en mí, y yo en él, producirá muchos frutos del espíritu y experimentará la alegría suprema de dar esta cosecha espiritual. Si mantenéis esta unión espiritual viviente conmigo, produciréis un fruto abundante. Si permanecéis en mí y mis palabras viven en vosotros, podréis comulgar libremente conmigo, y entonces mi espíritu viviente se infiltrará en vosotros de tal manera que podréis pedir todo lo que mi espíritu quiere, y hacer todo esto con la seguridad de que el Padre nos concederá nuestra petición. El Padre es glorificado en esto: que la vid tenga muchos sarmientos vivientes, y que cada sarmiento produzca muchos frutos. Y cuando el mundo vea estos sarmientos fructíferos —mis amigos que se aman los unos a los otros como yo los he amado— todos los hombres sabrán que sois realmente mis discípulos». ([LU 180:2.1](/es/The_Urantia_Book/180#p2_1))
+> Luego, Jesús se levantó de nuevo y continuó enseñando a sus apóstoles: «Yo soy la verdadera vid, y mi Padre el viñador. Yo soy la vid, y vosotros los sarmientos. El Padre sólo me pide que produzcáis muchos frutos. La vid solamente se poda para aumentar la fecundidad de sus sarmientos. Todo sarmiento estéril que sale de mí, el Padre lo cortará. Todo sarmiento que produzca fruto, el Padre lo limpiará para que pueda producir más frutos. Vosotros ya estáis limpios por la palabra que he pronunciado, pero debéis continuar estando limpios. Tenéis que permanecer en mí, y yo en vosotros; el sarmiento muere si se le separa de la vid. Así como el sarmiento no puede producir frutos a menos que permanezca en la vid, vosotros tampoco podéis producir los frutos del servicio amoroso a menos que permanezcáis en mí. Recordad: Yo soy la verdadera vid, y vosotros los sarmientos vivientes. El que vive en mí, y yo en él, producirá muchos frutos del espíritu y experimentará la alegría suprema de dar esta cosecha espiritual. Si mantenéis esta unión espiritual viviente conmigo, produciréis un fruto abundante. Si permanecéis en mí y mis palabras viven en vosotros, podréis comulgar libremente conmigo, y entonces mi espíritu viviente se infiltrará en vosotros de tal manera que podréis pedir todo lo que mi espíritu quiere, y hacer todo esto con la seguridad de que el Padre nos concederá nuestra petición. El Padre es glorificado en esto: que la vid tenga muchos sarmientos vivientes, y que cada sarmiento produzca muchos frutos. Y cuando el mundo vea estos sarmientos fructíferos —mis amigos que se aman los unos a los otros como yo los he amado— todos los hombres sabrán que sois realmente mis discípulos». (<a id="a101_1705"></a>[LU 180:2.1](/es/The_Urantia_Book/180#p2_1))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2024_06/020.jpg">
@@ -87,3 +111,28 @@ Esperamos verlo nuevamente y unirnos a la multitud en Melbourne en la conferenci
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juin-2024.pdf)
 - [Este artículo en IUA Tidings](/es/article/Daniel_Swadling/2023_anzura_annual_conference_report)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eric_Tarissan/Qui_est_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién es Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-380-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 380 — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/La_priere_vs_ladoration">
+          <span class="pr-2">Oración versus adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Line St-Pierre<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_esprits_mentaux_adjuvats_chez_les_animaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los espíritus mentales ayudantes en los animales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Zshonette_Reed/La_lutte_ideologique_1">
+          <span class="pr-2">La lucha ideológica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -45,11 +69,11 @@ Hace más de 2 años comenzamos nuevamente el estudio de los papeles de la Vida 
 
 En el librito 160, Rodán de Alejandría, el arte de vivir que hoy estudiamos se nos dice esto:
 
-> _Ahora bien, es posible, mediante la asociación de las personalidades, unificar estos puntos de vista sobre la existencia temporal y las perspectivas eternas. Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro. De esta manera, los hombres enriquecen su alma poniendo en común sus posesiones espirituales respectivas._ ([LU 160:2.7](/es/The_Urantia_Book/160#p2_7))
+> _Ahora bien, es posible, mediante la asociación de las personalidades, unificar estos puntos de vista sobre la existencia temporal y las perspectivas eternas. Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro. De esta manera, los hombres enriquecen su alma poniendo en común sus posesiones espirituales respectivas._ (<a id="a71_381"></a>[LU 160:2.7](/es/The_Urantia_Book/160#p2_7))
 
 Convertirse en anfitrión de un grupo de estudio es una responsabilidad muy importante que requiere un fuerte compromiso. Han pasado veinticuatro años y seguimos fieles al encuentro de los lunes por la tarde, para deleite del grupo.
 
-> Existe un gran poder espiritual inherente a la conciencia de estar consagrado de todo corazón a una causa común, de ser mutuamente leales a una Deidad cósmica. ([LU 160:2.8](/es/The_Urantia_Book/160#p2_8))
+> Existe un gran poder espiritual inherente a la conciencia de estar consagrado de todo corazón a una causa común, de ser mutuamente leales a una Deidad cósmica. (<a id="a75_163"></a>[LU 160:2.8](/es/The_Urantia_Book/160#p2_8))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_03/012.jpg">
@@ -60,3 +84,28 @@ Convertirse en anfitrión de un grupo de estudio es una responsabilidad muy impo
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_esprits_mentaux_adjuvats_chez_les_animaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los espíritus mentales ayudantes en los animales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-365-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 365 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Zshonette_Reed/La_lutte_ideologique_1">
+          <span class="pr-2">La lucha ideológica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

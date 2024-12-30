@@ -54,7 +54,7 @@ Por eso ha dotado a sus criaturas de todo lo necesario para poder cumplir su des
 
 La noción misma de progreso implica la idea de tiempo y espacio. Por eso, para nosotros, las criaturas, necesitamos un comienzo en el tiempo, un nacimiento en un lugar en el espacio. Este es el comienzo de nuestra vida.
 
-El Libro de Urantia define la vida de la siguiente manera: “La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores identitarios y significados de continuidad a esta asociación de un organismo y un entorno._» ([LU 112:1.13](/es/The_Urantia_Book/112#p1_13))
+El Libro de Urantia define la vida de la siguiente manera: “La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores identitarios y significados de continuidad a esta asociación de un organismo y un entorno._» (<a id="a56_290"></a>[LU 112:1.13](/es/The_Urantia_Book/112#p1_13))
 
 Desde su concepción, y a lo largo de la vida humana, el hombre construye, en su mente y mediante un proceso consciente e inconsciente de asociación de ideas, un conjunto de reacciones (podríamos hablar de condicionamiento) al entorno para formar lo que comúnmente se llama carácter. Por ejemplo, si acostumbramos a un niño desde muy pequeño a compartir con su hermano, esta asociación de ideas le servirá como respuesta preferente al entorno en situaciones similares. Así, el libre albedrío del que está dotada nuestra personalidad tenderá a responder de manera recurrente a situaciones similares.
 

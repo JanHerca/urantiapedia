@@ -35,7 +35,7 @@ dateCreated: 2024-10-27T10:7:29Z
 
 
 
-En _El Libro de Urantia_ podemos leer: “Es la presencia de los siete espíritus mentales ayudantes en los mundos primitivos lo que condiciona el curso de la evolución orgánica; esto explica por qué la evolución es **premeditada y no accidental**” ( [LU 36:5.1](/es/The_Urantia_Book/36#p5_1) ).
+En _El Libro de Urantia_ podemos leer: “Es la presencia de los siete espíritus mentales ayudantes en los mundos primitivos lo que condiciona el curso de la evolución orgánica; esto explica por qué la evolución es **premeditada y no accidental**” ( <a id="a37_248"></a>[LU 36:5.1](/es/The_Urantia_Book/36#p5_1) ).
 
 Dicho todo esto, los seres vivos están conectados a una especie de “nube” que los guía y condiciona. Desde trilobites hasta mamíferos, el programa fue escrito...
 

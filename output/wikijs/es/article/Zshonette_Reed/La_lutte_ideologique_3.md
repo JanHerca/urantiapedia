@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_etres_des_niveaux_despace_exterieur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seres de niveles del espacio exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Appel_aux_anciens_etudiants">
+          <span class="pr-2">Convocatoria a antiguos estudiantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -23,7 +47,7 @@ Como se mencionó en artículos anteriores, creemos que la lucha ideológica que
 El documento 54 de _El Libro de Urantia_ dice esto sobre la libertad y la licencia:
 <br style="clear:both;"/>
 
-> De todos los confusos problemas derivados de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. ([LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
+> De todos los confusos problemas derivados de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros para distinguir entre la verdadera y la falsa libertad. (<a id="a49_223"></a>[LU 54:1.1](/es/The_Urantia_Book/54#p1_1))
 
 Está claro que si queremos estar en el lado correcto de la lucha ideológica, debemos ser capaces de marcar la diferencia nosotros mismos. Recuerde que muchas figuras celestiales de larga data no supieron distinguir la diferencia y fueron arrastradas a la rebelión de Lucifer. Por lo que puede que no sea tan fácil como podría pensar.
 
@@ -33,7 +57,7 @@ Tomémonos el tiempo ahora para agudizar nuestra capacidad de discernimiento par
 
 El Poderoso Mensajero que presentó el Documento 54 enumeró las diferencias yuxtaponiendo la libertad verdadera y la falsa. Aquí está el primero:
 
-> La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es el engaño sutil del error del tiempo y del mal del espacio. La libertad duradera está basada en la realidad de la justicia —la inteligencia, la madurez, la fraternidad y la equidad. ([LU 54:1.2](/es/The_Urantia_Book/54#p1_2))
+> La verdadera libertad es la búsqueda de los siglos y la recompensa del progreso evolutivo. La falsa libertad es el engaño sutil del error del tiempo y del mal del espacio. La libertad duradera está basada en la realidad de la justicia —la inteligencia, la madurez, la fraternidad y la equidad. (<a id="a59_297"></a>[LU 54:1.2](/es/The_Urantia_Book/54#p1_2))
 
 Aquí el Poderoso Mensajero compara el tiempo y el espacio. El tiempo, tal como se utiliza aquí, es el desarrollo natural de los acontecimientos, el proceso natural de evolución. El espacio se refiere a nuestro lugar, estatus o dónde nos encontramos en el universo.
 
@@ -59,11 +83,11 @@ Todos estos elementos son manifestaciones de la noción de licencia. Y hay mucho
 
 El siguiente punto es:
 
-> La libertad es una técnica autodestructora de la existencia cósmica cuando su motivación es poco inteligente, incondicional e incontrolada. ([LU 54:1.3](/es/The_Urantia_Book/54#p1_3))
+> La libertad es una técnica autodestructora de la existencia cósmica cuando su motivación es poco inteligente, incondicional e incontrolada. (<a id="a85_143"></a>[LU 54:1.3](/es/The_Urantia_Book/54#p1_3))
 
 La verdadera libertad se conecta gradualmente con la realidad y permanece siempre llena de consideración por la equidad social, la equidad cósmica, la fraternidad universal y las obligaciones divinas.
 
-> La libertad es suicida cuando está divorciada de la justicia material, de la equidad intelectual, de la paciencia social, del deber moral y de los valores espirituales. ([LU 54:1.4](/es/The_Urantia_Book/54#p1_4))
+> La libertad es suicida cuando está divorciada de la justicia material, de la equidad intelectual, de la paciencia social, del deber moral y de los valores espirituales. (<a id="a89_172"></a>[LU 54:1.4](/es/The_Urantia_Book/54#p1_4))
 
 ¿Ejemplos? ¿Qué dices sobre estos?
 
@@ -86,7 +110,7 @@ El Poderoso Mensajero luego nos dice que:
 
 La voluntad autónoma desenfrenada y la autoexpresión incontrolada equivalen a un egoísmo absoluto, el colmo de la impiedad.
 
-> ...La libertad, sin una conquista asociada y cada vez mayor del yo, es un producto de la imaginación humana egoísta. ([LU 54:1.5](/es/The_Urantia_Book/54#p1_5))
+> ...La libertad, sin una conquista asociada y cada vez mayor del yo, es un producto de la imaginación humana egoísta. (<a id="a112_120"></a>[LU 54:1.5](/es/The_Urantia_Book/54#p1_5))
 
 Aquí nos dice que las ideas que promueven la autoexpresión sin considerar los sentimientos o las consecuencias para los demás son ejemplos de egoísmo, impiedad y desilusión. Un ejemplo de tal ideología es la expresión luciferina:
 
@@ -94,7 +118,7 @@ Aquí nos dice que las ideas que promueven la autoexpresión sin considerar los 
 
 Esta frase se ha hecho popular por muchos artistas de rock y música contemporánea. Puede parecer trivial, pero nació de una objeción a las palabras de Jesús:
 
-> « ‘hacer por los demás lo que deseáis que ellos hagan por vosotros’:»» ([LU 147:4.3](/es/The_Urantia_Book/147#p4_3))
+> « ‘hacer por los demás lo que deseáis que ellos hagan por vosotros’:»» (<a id="a120_74"></a>[LU 147:4.3](/es/The_Urantia_Book/147#p4_3))
 
 La frase luciferina –haz lo que quieras– se utiliza en toda la sociedad moderna y es promovida por un infame luciferino del siglo XX. Muchos no lo saben. Sin embargo, quienes abrazan esta ideología pueden muy bien encontrarse en el lado equivocado de la lucha ideológica.
 
@@ -102,13 +126,13 @@ La frase luciferina –haz lo que quieras– se utiliza en toda la sociedad mode
 
 El Poderoso Mensajero también explicó el contraste entre libertad y licencia de la siguiente manera:
 
-> La verdadera libertad es la asociada de la auténtica autoestima; la falsa libertad es la consorte de la admiración de sí mismo. La verdadera libertad es el fruto del autocontrol; la falsa libertad es la pretensión de la reafirmación personal. ([LU 54:1.6](/es/The_Urantia_Book/54#p1_6))
+> La verdadera libertad es la asociada de la auténtica autoestima; la falsa libertad es la consorte de la admiración de sí mismo. La verdadera libertad es el fruto del autocontrol; la falsa libertad es la pretensión de la reafirmación personal. (<a id="a128_246"></a>[LU 54:1.6](/es/The_Urantia_Book/54#p1_6))
 
 A veces resulta difícil ver el contraste en la sociedad moderna. Por lo tanto, podría ser útil recordar lo que ocurrió en los comienzos de la historia del hombre en Urantia, cuando se enseñaba el libertinaje, en contraposición a la libertad. En el documento 67 podemos leer esto:
 
-> Poco después de la rebelión, todo el estado mayor de la sedición estaba defendiendo enérgicamente la ciudad contra las hordas de semisalvajes que asediaban sus murallas a consecuencia de las doctrinas de libertad que se les habían enseñado prematuramente. Unos años antes de que la hermosa sede se sumergiera bajo las aguas del sur, las tribus equivocadas y mal instruidas de las tierras interiores de Dalamatia ya se habían precipitado en un asalto semisalvaje sobre la espléndida ciudad, arrojando hacia el norte al estado mayor secesionista y sus asociados. ([LU 67:5.2](/es/The_Urantia_Book/67#p5_2))
+> Poco después de la rebelión, todo el estado mayor de la sedición estaba defendiendo enérgicamente la ciudad contra las hordas de semisalvajes que asediaban sus murallas a consecuencia de las doctrinas de libertad que se les habían enseñado prematuramente. Unos años antes de que la hermosa sede se sumergiera bajo las aguas del sur, las tribus equivocadas y mal instruidas de las tierras interiores de Dalamatia ya se habían precipitado en un asalto semisalvaje sobre la espléndida ciudad, arrojando hacia el norte al estado mayor secesionista y sus asociados. (<a id="a132_564"></a>[LU 67:5.2](/es/The_Urantia_Book/67#p5_2))
 
-> El proyecto de Caligastia de reconstruir inmediatamente la sociedad humana de acuerdo con sus ideas sobre las libertades individuales y colectivas resultó ser un fracaso inmediato y más o menos total. La sociedad volvió a hundirse rápidamente en su antiguo nivel biológico, y la lucha por el progreso empezó en todas partes partiendo de un punto no mucho más avanzado del que se encontraba al principio del régimen de Caligastia, ya que este levantamiento había dejado al mundo en la peor de las confusiones. ([LU 67:5.3](/es/The_Urantia_Book/67#p5_3))
+> El proyecto de Caligastia de reconstruir inmediatamente la sociedad humana de acuerdo con sus ideas sobre las libertades individuales y colectivas resultó ser un fracaso inmediato y más o menos total. La sociedad volvió a hundirse rápidamente en su antiguo nivel biológico, y la lucha por el progreso empezó en todas partes partiendo de un punto no mucho más avanzado del que se encontraba al principio del régimen de Caligastia, ya que este levantamiento había dejado al mundo en la peor de las confusiones. (<a id="a134_512"></a>[LU 67:5.3](/es/The_Urantia_Book/67#p5_3))
 
 Jugar con la falsa libertad ha tenido y seguirá teniendo un efecto devastador en nuestro mundo. Por lo tanto, hay motivos para estar alerta y ejercitar el discernimiento, no sea que nos encontremos en el lado equivocado de la lucha.
 
@@ -137,3 +161,28 @@ Mientras tanto, que el Espíritu de la Verdad os acompañe.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_etres_des_niveaux_despace_exterieur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seres de niveles del espacio exterior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-367-mayo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 367 — Mayo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Appel_aux_anciens_etudiants">
+          <span class="pr-2">Convocatoria a antiguos estudiantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

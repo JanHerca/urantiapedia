@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Éric Tarissan<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consejo dado a Miguel de Nebadon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Mes_reflexions_sur_vraie_et_fausse_liberte">
+          <span class="pr-2">Mis pensamientos sobre la libertad real y falsa en el mundo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -101,11 +125,11 @@ Saint-Alexis-des-Monts
 
 Para mí, todas nuestras acciones y comportamientos son inherentes a nuestra mente que se manifiesta en acciones reales. Nuestras elecciones personales nos son dadas con el don de la personalidad considerada absoluta por el Padre Celestial. Andón y Fonta fueron sin duda los primeros en beneficiarse de la libertad de acción huyendo de su tribu primitiva. Lucifer y sus rebeldes tuvieron el privilegio de valerse del libre albedrío de la personalidad como lo hicieron los Hijos Adámicos. Asimismo, toda personalidad que vive hoy en el planeta goza de la libertad de pensar según sus convicciones personales; ya sea en la realidad o en la no realidad.
 
-Para mí, el pensamiento luciferino es una elección personal y no exclusiva de Lucifer. Ella existió mucho antes que Lucifer si nos fijamos en el privilegio de la personalidad, ya sea de origen humano o de origen divino. «..._El don de la personalidad proviene del Padre y comunica, al sistema viviente, prerrogativas únicas de elección. Ahora bien, si la personalidad tiene la prerrogativa de ejercer la elección volitiva de identificarse con la realidad, y si esta elección es sincera y libre, entonces la personalidad en evolución debe tener también la posible elección de desorientarse, dislocarse y destruirse. La posibilidad de la autodestrucción cósmica no puede evitarse si la personalidad en evolución ha de ser verdaderamente libre en el ejercicio de su voluntad finita._» [LU 118:7.7](/es/The_Urantia_Book/118#p7_7) (1301.4)
+Para mí, el pensamiento luciferino es una elección personal y no exclusiva de Lucifer. Ella existió mucho antes que Lucifer si nos fijamos en el privilegio de la personalidad, ya sea de origen humano o de origen divino. «..._El don de la personalidad proviene del Padre y comunica, al sistema viviente, prerrogativas únicas de elección. Ahora bien, si la personalidad tiene la prerrogativa de ejercer la elección volitiva de identificarse con la realidad, y si esta elección es sincera y libre, entonces la personalidad en evolución debe tener también la posible elección de desorientarse, dislocarse y destruirse. La posibilidad de la autodestrucción cósmica no puede evitarse si la personalidad en evolución ha de ser verdaderamente libre en el ejercicio de su voluntad finita._» <a id="a127_782"></a>[LU 118:7.7](/es/The_Urantia_Book/118#p7_7) (1301.4)
 
 Considero que el pensamiento luciferino es un beneficio para los urantianos. Si no existiera, ¿cómo podríamos percibir la Verdad si el error no está presente? No importa lo que hagamos o haremos, tenemos y siempre tendremos la opción de hacer el bien o el mal según nuestras convicciones personales, pero podemos resistir la rebelión sometiéndonos a la voluntad del Padre Celestial y guiados por nuestro Ajustador interior.
 
-El autootorgamiento de Miguel encarnado en la carne de Jesús puso fin a la rebelión en Satania excepto en los planetas de los Príncipes Planetarios rebeldes. Michael se sometió a la voluntad de su Padre Celestial, prohibiéndole ejercer cualquier coerción hacia cualquier personalidad, o obligar o ejercer cualquier forma de control o forzarlos a someterse contra el libre albedrío absoluto de la personalidad. Desde el día de Pentecostés: "... _Caligastia tu Príncipe Planetario apóstata, todavía es libre de perseguir sus nefastos designios en Urantia, pero no tiene absolutamente ningún poder para penetrar en las mentes de los hombres ni para acercarse a sus almas para tentarlos o corromperlos, a menos que los hombres realmente deseen ser maldecidos por su maligna presencia._» [LU 53:8.6](/es/The_Urantia_Book/53#p8_6) (610.2)
+El autootorgamiento de Miguel encarnado en la carne de Jesús puso fin a la rebelión en Satania excepto en los planetas de los Príncipes Planetarios rebeldes. Michael se sometió a la voluntad de su Padre Celestial, prohibiéndole ejercer cualquier coerción hacia cualquier personalidad, o obligar o ejercer cualquier forma de control o forzarlos a someterse contra el libre albedrío absoluto de la personalidad. Desde el día de Pentecostés: "... _Caligastia tu Príncipe Planetario apóstata, todavía es libre de perseguir sus nefastos designios en Urantia, pero no tiene absolutamente ningún poder para penetrar en las mentes de los hombres ni para acercarse a sus almas para tentarlos o corromperlos, a menos que los hombres realmente deseen ser maldecidos por su maligna presencia._» <a id="a131_783"></a>[LU 53:8.6](/es/The_Urantia_Book/53#p8_6) (610.2)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -126,3 +150,28 @@ Aquí está el retrato que recordaba de Jesús, este modelo excepcional. .
 <img src="/image/article/Reflectivite/2023_04/028.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conseils_donnes_a_Micael_de_Nebadon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consejo dado a Miguel de Nebadon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Mes_reflexions_sur_vraie_et_fausse_liberte">
+          <span class="pr-2">Mis pensamientos sobre la libertad real y falsa en el mundo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

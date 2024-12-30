@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Sólo un poeta puede discernir la poesía en la prosa banal de la vida... ([LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
+Sólo un poeta puede discernir la poesía en la prosa banal de la vida... (<a id="a37_73"></a>[LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
 
 Silencio !...
 Se hace tarde, la noche llega rápidamente.

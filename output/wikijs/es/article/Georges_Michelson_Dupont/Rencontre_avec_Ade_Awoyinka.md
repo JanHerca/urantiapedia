@@ -47,7 +47,7 @@ Sentí por esta hermosa persona un poderoso sentimiento de hermandad junto con a
 
 Su relato también es una prueba de que la expansión de la conciencia cósmica y la mejora de la percepción espiritual están presentes en las enseñanzas del Libro de Urantia y permiten que el Espíritu de la Verdad y los Ajustadores del Pensamiento trabajen más eficazmente en la espiritualización de la mente humana.
 
-> «La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva.» ([LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
+> «La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva.» (<a id="a49_412"></a>[LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
 
 Georges Michelson-Dupont
 
@@ -57,7 +57,7 @@ Otros testimonios edificantes y similares muestran que las enseñanzas de El lib
 
 Guy Stéphane imparte un curso sobre el folleto 83: “La religión primitiva” y presentamos, con su permiso y después de los testimonios de Ade, Arnaud y Guy Stépahane sobre sus respectivos países, algunas preguntas y respuestas que ilustran aún más este temor sobre los africanos. mente, sino también las supersticiones que todavía están vigentes en nuestro mundo occidental.
 
-> «2. Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.» ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
+> «2. Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.» (<a id="a59_171"></a>[LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
 
 
 

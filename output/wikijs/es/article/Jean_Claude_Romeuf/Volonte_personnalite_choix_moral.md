@@ -53,7 +53,7 @@ _1. La voluntad humana opera en el nivel de la personalidad de la realidad unive
 
 es decir:
 
-_lo no personal, lo subpersonal y lo prepersonal — siempre responde a la voluntad y las acciones de la <ins>personalidad</ins> existente._ [[LU 107:7.4](/es/The_Urantia_Book/107#p7_4)]
+_lo no personal, lo subpersonal y lo prepersonal — siempre responde a la voluntad y las acciones de la <ins>personalidad</ins> existente._ <a id="a55_139"></a>[[LU 107:7.4](/es/The_Urantia_Book/107#p7_4)]
 
 Pero decir que lo impersonal no puede disfrutar o al menos depender de una voluntad particularmente adaptada a su naturaleza y funcionamiento en diferentes niveles, sería cometer un error lamentable.
 
@@ -65,19 +65,19 @@ No hace falta ser científico para entender por qué la Tierra y todos los plane
 
 En El Libro de Urantia, ¿no hay seres que se dice que son materiales, vivos e inteligentes al mismo tiempo, pero que, sin embargo, son incapaces de elegir y, por tanto, de ejercer su voluntad personal? ¿Alguien pensaría y elegiría por ellos?
 
-Recordemos a los Maestros Organizadores Físicos, estos personajes difíciles de imaginar mentalmente. _Los últimos cuatro grupos apenas son personas en una definición aceptable de esa palabra_ ([LU 29:4.26](/es/The_Urantia_Book/29#p4_26)). El término “personas” se escapó de boca del Censor Universal. Tuvo que pensar mientras lo escribía. Así que, por el momento, sigamos con la duda.
+Recordemos a los Maestros Organizadores Físicos, estos personajes difíciles de imaginar mentalmente. _Los últimos cuatro grupos apenas son personas en una definición aceptable de esa palabra_ (<a id="a67_193"></a>[LU 29:4.26](/es/The_Urantia_Book/29#p4_26)). El término “personas” se escapó de boca del Censor Universal. Tuvo que pensar mientras lo escribía. Así que, por el momento, sigamos con la duda.
 
 Entre estos cuatro grupos, los Frandalanks son los más numerosos y los encontramos en el universo central, los superuniversos, pero también en los espacios exteriores donde, al parecer, no hay ninguna personalidad presente, ya que estos espacios están deshabitados y siguen siendo un dominio que los No Calificados Absoluto no comparte con los otros dos Ab solus de Potencialidad. ¡Su existencia más allá de las fronteras de los siete superuniversos es, por lo tanto, una prueba de que estos seres no poseen una personalidad en sí mismos y por esta razón no son personas! Sin embargo, los Frandalanks viven y actúan inteligentemente permaneciendo apegados a las órdenes y, por tanto, a la voluntad de los controladores físicos. Pueden recibir mensajes, pero no pueden responderlos.
 
 Afortunadamente para él, el Censor Universal se pone al día un poco más; de lo contrario, ¡habríamos tenido derecho a remitirlo a los Ancianos de los Días! Ante la amenaza del Tribunal Imperial, admite su culpa:
 
-> _Reconozco que los frandalanks son inteligentes, pero no los puedo clasificar de otro modo que como máquinas vivientes. Casi la única manera en que puedo ayudaros a comprender estos mecanismos vivientes es compararlos con vuestros propios aparatos mecánicos que funcionan con una precisión y una exactitud casi semejantes a la inteligencia. Así pues, si deseáis concebir a estos seres, utilizad vuestra imaginación hasta el punto de reconocer que en el gran universo tenemos realmente unos mecanismos (entidades) inteligentes y *vivientes* que pueden realizar tareas más complicadas, las cuales requieren unos cálculos más prodigiosos, con una delicadeza de exactitud aún más grande e incluso con una precisión última._ ([LU 29:4.38](/es/The_Urantia_Book/29#p4_38))
+> _Reconozco que los frandalanks son inteligentes, pero no los puedo clasificar de otro modo que como máquinas vivientes. Casi la única manera en que puedo ayudaros a comprender estos mecanismos vivientes es compararlos con vuestros propios aparatos mecánicos que funcionan con una precisión y una exactitud casi semejantes a la inteligencia. Así pues, si deseáis concebir a estos seres, utilizad vuestra imaginación hasta el punto de reconocer que en el gran universo tenemos realmente unos mecanismos (entidades) inteligentes y *vivientes* que pueden realizar tareas más complicadas, las cuales requieren unos cálculos más prodigiosos, con una delicadeza de exactitud aún más grande e incluso con una precisión última._ (<a id="a73_723"></a>[LU 29:4.38](/es/The_Urantia_Book/29#p4_38))
 
 ¿Cuál sería hoy la explicación del autor del cuadernillo 29, si nos referimos a nuestros robots y ordenadores modernos?
 
 En este capítulo vale la pena citar otra frase, porque se refiere a todo lo no personal, pero ¡cuidado, no se refiere a los dos capítulos siguientes en los que también se trata lo impersonal!
 
-> _En todo el universo de los seres creados y de las energías no personales, no observamos que la voluntad, la volición, la elección y el amor se manifiesten con independencia de la personalidad. No vemos que estos atributos de la personalidad funcionen en asociación con las realidades impersonales, salvo en los Ajustadores y en otras entidades similares. No sería correcto indicar que un Ajustador es subpersonal, ni tampoco sería apropiado aludir a esta entidad como superpersonal, pero sería totalmente lícito calificar a este ser de prepersonal._ ([LU 107:7.5](/es/The_Urantia_Book/107#p7_5))
+> _En todo el universo de los seres creados y de las energías no personales, no observamos que la voluntad, la volición, la elección y el amor se manifiesten con independencia de la personalidad. No vemos que estos atributos de la personalidad funcionen en asociación con las realidades impersonales, salvo en los Ajustadores y en otras entidades similares. No sería correcto indicar que un Ajustador es subpersonal, ni tampoco sería apropiado aludir a esta entidad como superpersonal, pero sería totalmente lícito calificar a este ser de prepersonal._ (<a id="a79_554"></a>[LU 107:7.5](/es/The_Urantia_Book/107#p7_5))
 
 ##II. EL SUBPERSONAL
 
@@ -99,11 +99,11 @@ Cada hombre o mujer se volverá Uno con Él. Él se beneficiará por toda la ete
 
 Puesto que es él quien nos eligió, ya no es necesario demostrar que el Ajustador tiene voluntad. ¿Sería entonces capaz de oponerse a nuestra voluntad? Decir que el libre albedrío de una personalidad es soberano y que debe ser respetado es justo pero incompleto. Se puede confiar en la opinión del Mensajero Solitario en la página 1183, 6:
 
-> _Si los Ajustadores del Pensamiento poseen una volición, ¿por qué están sometidos entonces a la voluntad de los mortales? Creemos que esto se debe a que la naturaleza de la volición del Ajustador es absoluta, pero su manifestación es prepersonal. La voluntad humana ejerce su actividad en el nivel de personalidad de la realidad universal y, en todo el cosmos, lo impersonal —lo no personal, lo subpersonal y lo prepersonal— siempre es sensible a la voluntad y a los actos de la personalidad existente._ ([[LU 107:7.4](/es/The_Urantia_Book/107#p7_4))
+> _Si los Ajustadores del Pensamiento poseen una volición, ¿por qué están sometidos entonces a la voluntad de los mortales? Creemos que esto se debe a que la naturaleza de la volición del Ajustador es absoluta, pero su manifestación es prepersonal. La voluntad humana ejerce su actividad en el nivel de personalidad de la realidad universal y, en todo el cosmos, lo impersonal —lo no personal, lo subpersonal y lo prepersonal— siempre es sensible a la voluntad y a los actos de la personalidad existente._ (<a id="a101_507"></a>[[LU 107:7.4](/es/The_Urantia_Book/107#p7_4))
 
 Por lo tanto, sería porque son prepersonales que no pueden oponerse a una personalidad. Pero el resultado es el mismo, porque las personalidades celestiales no están acostumbradas ni quieren oponerse al libre albedrío humano.
 
-> _En todo el universo de los seres creados y de las energías no personales, no observamos que la voluntad, la volición, la elección y el amor se manifiesten con independencia de la personalidad. No vemos que estos atributos de la personalidad funcionen en asociación con las realidades impersonales, salvo en los Ajustadores y en otras entidades similares. No sería correcto indicar que un Ajustador es subpersonal, ni tampoco sería apropiado aludir a esta entidad como superpersonal, pero sería totalmente lícito calificar a este ser de prepersonal._ ([LU 107:7.5](/es/The_Urantia_Book/107#p7_5))
+> _En todo el universo de los seres creados y de las energías no personales, no observamos que la voluntad, la volición, la elección y el amor se manifiesten con independencia de la personalidad. No vemos que estos atributos de la personalidad funcionen en asociación con las realidades impersonales, salvo en los Ajustadores y en otras entidades similares. No sería correcto indicar que un Ajustador es subpersonal, ni tampoco sería apropiado aludir a esta entidad como superpersonal, pero sería totalmente lícito calificar a este ser de prepersonal._ (<a id="a105_554"></a>[LU 107:7.5](/es/The_Urantia_Book/107#p7_5))
 
 Además, no existe ninguna superpersonalidad en el circuito de personalidad del Padre Universal. Sin embargo, encontramos este término para designar a los Hijos del Paraíso que representan al Hijo Eterno en los universos locales.
 
@@ -127,7 +127,7 @@ Por tanto, respondo afirmativamente a la pregunta de Smilblick que Pierre Dac me
 > 4. La cooperación intencional, la lealtad al grupo.
 > 5. La perspicacia cósmica, la captación de los significados universales.
 > 6. La dedicación de la personalidad, la consagración incondicional a hacer la voluntad del Padre.
-> 7. La adoración, la búsqueda sincera de los valores divinos y el amor de todo corazón al divino Dador de los Valores. ([[LU 16:8.7-14](/es/The_Urantia_Book/16#p8_7))
+> 7. La adoración, la búsqueda sincera de los valores divinos y el amor de todo corazón al divino Dador de los Valores. (<a id="a129_121"></a>[[LU 16:8.7-14](/es/The_Urantia_Book/16#p8_7))
 
 El espíritu de intuición, luego el espíritu de sabiduría, permitirán a la mente hacer su primera elección moral que desencadenará la venida del Ajustador. Entonces, no les digo nada, los deseos de las tendencias animales entrarán en conflicto con los ideales de las tendencias divinas. Nos hemos convertido en seres morales, lo que significa que tenemos la capacidad de diferenciar entre el bien y el mal. Hacer el bien requiere fuerza y coraje. Quizás sea en este sentido que se produce el ajuste y cambio de nuestra mente por parte del espíritu.
 

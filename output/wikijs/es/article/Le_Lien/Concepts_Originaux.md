@@ -110,7 +110,7 @@ Dr. William Sadler
 
 **El concepto de mediación de la mente**: La mente como mediadora entre la energía y el Espíritu en niveles subabsolutos.
 
-> «En nuestro esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual, nos resulta extremadamente difícil presentar unos conceptos más amplios y una verdad avanzada cuando estamos limitados por la utilización del lenguaje restringido de un planeta. Pero las instrucciones que hemos recibido nos recomiendan que realicemos todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. Se nos ha ordenado que sólo introduzcamos términos nuevos cuando el concepto a describir no encuentre en inglés ninguna terminología que se pueda emplear para expresar ese nuevo concepto, ya sea parcialmente o incluso distorsionando más o menos su significado.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
+> «En nuestro esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual, nos resulta extremadamente difícil presentar unos conceptos más amplios y una verdad avanzada cuando estamos limitados por la utilización del lenguaje restringido de un planeta. Pero las instrucciones que hemos recibido nos recomiendan que realicemos todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. Se nos ha ordenado que sólo introduzcamos términos nuevos cuando el concepto a describir no encuentre en inglés ninguna terminología que se pueda emplear para expresar ese nuevo concepto, ya sea parcialmente o incluso distorsionando más o menos su significado.» (<a id="a112_729"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 
 

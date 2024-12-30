@@ -119,9 +119,9 @@ No siempre somos bailarines brillantes.
 
 —Está bien, ve a Leonington.
 
-\*[LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
+\*<a id="a121_2"></a>[LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
 
-\*\* [LU 111:2.4](/es/The_Urantia_Book/111#p2_4)
+\*\* <a id="a123_5"></a>[LU 111:2.4](/es/The_Urantia_Book/111#p2_4)
 
 dominical
 

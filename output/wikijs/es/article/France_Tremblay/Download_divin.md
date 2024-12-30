@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 France Tremblay<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Hypothese_sur_la_constitution_de_notre_ame">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hipótesis sobre la constitución de nuestra alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-369-julio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 369 — Julio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Discours_a_la_synagogue_de_Capharnaum">
+          <span class="pr-2">Explicación del discurso de Jesús en la sinagoga de Cafarnaúm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -36,7 +60,7 @@ Además te invito a ver este vídeo tan interesante y no dudes en comentarlo des
 
 Esto es lo que es para mí la «descarga» divina... simplemente una comunicación, un mensaje que puede venir de diferentes Celestiales pero que siempre ha sido aprobado y transmitido por el Ajustador del Pensamiento... mi Guía divino... Él por lo tanto controla todo lo que llega a mis correos electrónicos...este poderoso ordenador que recibe estos correos electrónicos es obviamente mi mente...y no cualquier mente...lo cambié hace mucho tiempo por el modelo de lujo del mismo tipo que el que Jesús usó.... está «totalmente equipado»... no es necesario «descargar» ni borrar programas viejos y obsoletos... todo se hace automáticamente... en cualquier caso no tengo la previsión de saber dónde encontrar estos nuevos programas o cuáles son los mejores... Confío en los Celestiales... ¡Son competentes y directivos en el sentido de que saben hacia dónde van!
 
-El único comando del cual soy responsable es el botón «ELIMINAR»... esto se usa para hacer una limpieza de primavera importante en esta computadora... no en los programas como expliqué anteriormente... sino en los virus informáticos que pueden interferir enormemente con el correcto funcionamiento de mi computadora... lo has adivinado... estos son los venenos de la mente, el principal de los cuales es el miedo... maestro fraude intelectual practicado en el alma en evolución... Ejemplo de filosofía humana no . 2 ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4)) qué valiosos son estos ejemplos para captar el significado de la mota... ¡gracias Celestiales!
+El único comando del cual soy responsable es el botón «ELIMINAR»... esto se usa para hacer una limpieza de primavera importante en esta computadora... no en los programas como expliqué anteriormente... sino en los virus informáticos que pueden interferir enormemente con el correcto funcionamiento de mi computadora... lo has adivinado... estos son los venenos de la mente, el principal de los cuales es el miedo... maestro fraude intelectual practicado en el alma en evolución... Ejemplo de filosofía humana no . 2 (<a id="a62_517"></a>[LU 48:7.4](/es/The_Urantia_Book/48#p7_4)) qué valiosos son estos ejemplos para captar el significado de la mota... ¡gracias Celestiales!
 
 Mi computadora obviamente me sirve en todos los asuntos cotidianos de la vida cotidiana pero la uso principalmente para la vida cotidiana pero recibo mis correos electrónicos divinos y presiono el botón «ADELANTE» cuando mi Ajustador me pide que reenvíe este mensaje... lo hago ¡Con entusiasmo y con total confianza sabiendo que el Plan de Dios es siempre perfecto! Ha sucedido que algunos de mis contactos ya no quieren recibir los mensajes que «reenvío»... cuestionando su origen... a estos les respondo que el libre albedrío es sagrado... y le pido a mi Ajustador para que esto ¡El mensaje se les entrega de manera diferente!
 
@@ -53,7 +77,7 @@ Se me olvidaba decirles que esta herramienta fue descrita en estas palabras por 
 > 
 > _Aquí hay una advertencia para todos nosotros de un Mensajero Solitario de Orvonton:_
 > 
-> Pero un ser humano haría mejor en equivocarse, rechazando la expresión de un Ajustador por creer que se trata de una experiencia puramente humana, que cometer el error de elevar una reacción de la mente mortal a la esfera de dignidad divina. ([LU 110:5.5](/es/The_Urantia_Book/110#p5_5))
+> Pero un ser humano haría mejor en equivocarse, rechazando la expresión de un Ajustador por creer que se trata de una experiencia puramente humana, que cometer el error de elevar una reacción de la mente mortal a la esfera de dignidad divina. (<a id="a79_245"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5))
 {.is-info}
 
 ## Referencias
@@ -61,3 +85,28 @@ Se me olvidaba decirles que esta herramienta fue descrita en estas palabras por 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Hypothese_sur_la_constitution_de_notre_ame">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hipótesis sobre la constitución de nuestra alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-369-julio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 369 — Julio 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Discours_a_la_synagogue_de_Capharnaum">
+          <span class="pr-2">Explicación del discurso de Jesús en la sinagoga de Cafarnaúm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

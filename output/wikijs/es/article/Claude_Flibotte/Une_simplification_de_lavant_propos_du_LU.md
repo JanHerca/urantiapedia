@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Claude Flibotte<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eric_Martel/Ma_decouverte_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi descubrimiento de la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-377-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -232,3 +253,25 @@ _(Nota del editor, el resto de este texto continuará en el próximo número de 
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mars-2024.pdf)
 - [Otra versión de esta ayuda de estudio de Bill Sadler en francés en Urantiapedia](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eric_Martel/Ma_decouverte_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi descubrimiento de la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-377-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 377 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

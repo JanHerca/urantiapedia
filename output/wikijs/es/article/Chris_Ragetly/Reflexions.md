@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-_Fue leyendo en “Mighty Messenger” del verano de 2003, el artículo titulado “La incertidumbre en la seguridad es la esencia de la aventura del Paraíso…” ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1)), que me vinieron estos pocos pensamientos:_
+_Fue leyendo en “Mighty Messenger” del verano de 2003, el artículo titulado “La incertidumbre en la seguridad es la esencia de la aventura del Paraíso…” (<a id="a37_154"></a>[LU 111:7.1](/es/The_Urantia_Book/111#p7_1)), que me vinieron estos pocos pensamientos:_
 
 Durante la sesión de verano de 2003 de la Comunidad, los participantes estudiaron el siguiente tema: «La Revelación y el Creyente» y así tuvieron la oportunidad de profundizar en el misterio del uso de fuentes humanas en _El Libro de Urantia_. Matthew Block, pionero en la investigación sobre este tema, compartió con franqueza sus experiencias personales al explorar docenas de estas fuentes humanas. Otros oradores compartieron sus conclusiones sobre esta investigación, y fue una oportunidad para investigar verdaderamente toda la gama de reacciones intelectuales y emocionales ocasionadas por las discusiones, talleres y otras conferencias, un viaje del alma así como una expedición intelectual.
 

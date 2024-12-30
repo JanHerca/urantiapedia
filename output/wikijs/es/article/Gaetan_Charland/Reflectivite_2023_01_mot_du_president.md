@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan G. Charland<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 363 — Enero de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="pr-2">Equidad y ecorresponsabilidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -25,7 +49,7 @@ Al final del año, algunos hacen balance de lo que han realizado para evaluar lo
 El documento 196 nos dice esto:
 <br style="clear:both;"/>
 
-> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe._» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe._» (<a id="a51_799"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2023_01/001.jpg">
@@ -64,3 +88,28 @@ Amar es servir.
 <br style="clear:both;"/>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 363 — Enero de 2023 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="pr-2">Equidad y ecorresponsabilidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -102,7 +102,7 @@ Pero el hombre es un ser a la vez personal y colectivo. La influencia del Espír
 
 **<ins>4. Hablando de amor</ins>**
 
-Durante el período embrionario, que dura de unos pocos días a algunos meses, cada individuo, ya sea animal o humano, recorre el ciclo evolutivo de millones de años que ha dado las características de su especie. Las capas embrionarias se desarrollan y se especializan cada vez más mediante la multiplicación celular. El Libro de Urantia nos dice [LU 55:6.4](/es/The_Urantia_Book/55#p6_4) que durante la vida intrauterina, los espíritus mentales ayudantes están operativos.
+Durante el período embrionario, que dura de unos pocos días a algunos meses, cada individuo, ya sea animal o humano, recorre el ciclo evolutivo de millones de años que ha dado las características de su especie. Las capas embrionarias se desarrollan y se especializan cada vez más mediante la multiplicación celular. El Libro de Urantia nos dice <a id="a104_345"></a>[LU 55:6.4](/es/The_Urantia_Book/55#p6_4) que durante la vida intrauterina, los espíritus mentales ayudantes están operativos.
 
 El bebé humano que llega al mundo con el cerebro más desarrollado del reino animal, podemos pensar que ya, los primeros cinco ayudantes han comenzado a moldear su mente para que se vuelva sensible, durante su infancia, a los espíritus de adoración y sabiduría. caracterizando la mente material del ser humano. Esto hace del joven un ser volitivo, capaz de elecciones morales y capaz de aprender a descubrir al Dios que ahora lo habita.
 

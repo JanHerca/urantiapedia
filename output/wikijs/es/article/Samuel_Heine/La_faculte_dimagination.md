@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Samuel Heïne<br>© 2021 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Precisions_sur_les_mots">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detalles sobre palabras y sus definiciones.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine">
+          <span class="pr-2">la personalidad humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-left">
@@ -31,7 +55,7 @@ Las intuiciones o iluminaciones que podamos tener son prueba indiscutible de que
 Puede que lo que está escrito le resulte inútil o incomprensible, pero en realidad es un estímulo (Sonrisa).
 <br style="clear:both;"/>
 
-> «El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe.» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina. Esta experiencia constituye la conciencia de Dios, una experiencia que confirma poderosamente la verdad preexistente de la experiencia religiosa de conocer a Dios. Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios. De otro modo, la seguridad de la filiación es la experiencia de la fe.» (<a id="a57_797"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 https://bigbluebook.org%%0%%
 
@@ -46,10 +70,35 @@ Esto es un toma y daca en el juego eterno (una transacción en la que cada parte
 
 Esto me hace pensar en la reflexión de Jean François Drouet en el zoom del encuentro internacional; NO $=$ Oración, Adoración, Servicio.
 
-> _Este abandono de las formas más solemnes y reverentes de comunicación con la Deidad era un poco desconcertante para sus padres, especialmente para su madre, pero no podían persuadirlo para que cambiara; recitaba sus oraciones tal como le habían enseñado, después de lo cual insistía en tener «una pequeña charla con mi Padre que está en los cielos»._ ([LU 123:3.6](/es/The_Urantia_Book/123#p3_6))
+> _Este abandono de las formas más solemnes y reverentes de comunicación con la Deidad era un poco desconcertante para sus padres, especialmente para su madre, pero no podían persuadirlo para que cambiara; recitaba sus oraciones tal como le habían enseñado, después de lo cual insistía en tener «una pequeña charla con mi Padre que está en los cielos»._ (<a id="a72_355"></a>[LU 123:3.6](/es/The_Urantia_Book/123#p3_6))
 
 ## Referencias
 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-Special-ete-2021.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Precisions_sur_les_mots">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detalles sobre palabras y sus definiciones.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine">
+          <span class="pr-2">la personalidad humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

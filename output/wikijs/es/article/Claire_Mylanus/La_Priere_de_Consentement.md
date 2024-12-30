@@ -45,7 +45,7 @@ La Oración de Consentimiento es como la adoración. Dios existe por encima de l
 
 “_Estad quietos y sabed que yo soy Dios_” [Salmo 46:10](/es/Bible/Psalms/46#v10)
 
-“_Jesús enseñó a sus discípulos que después de haber orado al Padre, debían permanecer por algún tiempo en un estado de receptividad silenciosa para darle al espíritu interior la mejor oportunidad de hablar al alma atenta. Es en el momento en que la mente humana está en actitud de sincera adoración cuando el espíritu del Padre habla mejor a los hombres. [LU 146:2.17](/es/The_Urantia_Book/146#p2_17)
+“_Jesús enseñó a sus discípulos que después de haber orado al Padre, debían permanecer por algún tiempo en un estado de receptividad silenciosa para darle al espíritu interior la mejor oportunidad de hablar al alma atenta. Es en el momento en que la mente humana está en actitud de sincera adoración cuando el espíritu del Padre habla mejor a los hombres. <a id="a47_356"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)
 
 El primer día estuvo dedicado al descubrimiento de la Oración de Consentimiento y a la explicación de su práctica por parte de Gard Jameson.
 

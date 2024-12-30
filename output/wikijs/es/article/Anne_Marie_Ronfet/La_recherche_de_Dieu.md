@@ -41,13 +41,13 @@ Porque Dios se manifiesta a nosotros de esta manera.
 
 Nuestra mente piensa en Dios como verdad, belleza y bondad.
 
-> _La divinidad es comprensible para las criaturas como verdad, belleza y bondad; está correlacionada en la personalidad como amor, misericordia y ministerio; y se revela en los niveles impersonales como justicia, poder y soberanía._ ([LU 0:1.17](/es/The_Urantia_Book/0#p1_17))
+> _La divinidad es comprensible para las criaturas como verdad, belleza y bondad; está correlacionada en la personalidad como amor, misericordia y ministerio; y se revela en los niveles impersonales como justicia, poder y soberanía._ (<a id="a43_235"></a>[LU 0:1.17](/es/The_Urantia_Book/0#p1_17))
 
 E incluso podemos ir más allá. Sólo entendemos a Dios en la medida en que somos sensibles a estos tres valores. Cuanto más elevada sea nuestra idea de la verdad, más armoniosa y ética sea nuestra idea de la belleza, más lugar tendrá nuestro sentido de bondad en nuestra vida y más cerca estaremos de Dios. Por tanto, es fundamental tener una idea clara de estos tres valores y darles un lugar destacado en nuestra experiencia diaria.
 
 Dios se manifiesta a nosotros en la medida en que podemos comprenderlo y sólo lo entendemos a través de estos tres valores.
 
-> El misterio divino consiste en la diferencia inherente que existe entre lo finito y lo infinito, lo temporal y lo eterno, la criatura espacio-temporal y el Creador Universal, lo material y lo espiritual, la imperfección del hombre y la perfección de la Deidad del Paraíso. El Dios del amor universal se manifiesta infaliblemente a cada una de sus criaturas hasta la plenitud de la capacidad de esa criatura para captar espiritualmente las cualidades de la verdad, la belleza y la bondad divinas. ([LU 1:4.5](/es/The_Urantia_Book/1#p4_5))
+> El misterio divino consiste en la diferencia inherente que existe entre lo finito y lo infinito, lo temporal y lo eterno, la criatura espacio-temporal y el Creador Universal, lo material y lo espiritual, la imperfección del hombre y la perfección de la Deidad del Paraíso. El Dios del amor universal se manifiesta infaliblemente a cada una de sus criaturas hasta la plenitud de la capacidad de esa criatura para captar espiritualmente las cualidades de la verdad, la belleza y la bondad divinas. (<a id="a49_499"></a>[LU 1:4.5](/es/The_Urantia_Book/1#p4_5))
 
 Es en la experiencia espiritual donde se unifican estos tres valores. No pueden operar separadamente unos de otros sin crear desequilibrios.
 

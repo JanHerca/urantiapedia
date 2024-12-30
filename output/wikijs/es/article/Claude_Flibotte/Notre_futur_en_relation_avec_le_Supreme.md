@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Claude Flibotte<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/France_Tremblay/Inertie_materielle_et_croissance_en_sagesse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inercia material y crecimiento en sabiduría</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-369-julio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 369 — Julio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -20,7 +41,7 @@ Sainte-Julie
 
 ¿Nos damos cuenta de lo que representa para nosotros nuestra participación en la actualización de esta nueva deidad que es el Supremo? Cuando nos hayamos convertido, en el Paraíso, en perfectos finalitarios, a través de una técnica de experimentar la trascendencia finalitaria, entonces seremos conectados al circuito de gravedad espiritual del Hijo Eterno, nos convertiremos en personalidades experienciales de Dios Supremo (%%0% %) .
 
-Actualmente, nuestra mente creatural finita nos impide conocer al Padre como infinito y absoluto, sin embargo, en relación con el Supremo, esto compensará nuestra incapacidad para establecer un contacto limitado con el universo de universos. Los reveladores sospechan que, al fusionarse con nuestro Ajustador del Pensamiento, nos revelará, al alcanzar la séptima etapa del espíritu, la divinidad y naturaleza de Dios Supremo, el equivalente a la revelación del Infinito para un ser absoluto ([LU 117:6.18](/es/The_Urantia_Book/117#p6_18)).
+Actualmente, nuestra mente creatural finita nos impide conocer al Padre como infinito y absoluto, sin embargo, en relación con el Supremo, esto compensará nuestra incapacidad para establecer un contacto limitado con el universo de universos. Los reveladores sospechan que, al fusionarse con nuestro Ajustador del Pensamiento, nos revelará, al alcanzar la séptima etapa del espíritu, la divinidad y naturaleza de Dios Supremo, el equivalente a la revelación del Infinito para un ser absoluto (<a id="a43_492"></a>[LU 117:6.18](/es/The_Urantia_Book/117#p6_18)).
 
 Dado que todas las experiencias de las criaturas están registradas en el Supremo, y todas las criaturas habrán alcanzado el nivel experiencial final de la divinidad en el Supremo al final de la segunda era del universo, tendremos contacto efectivo con la totalidad de esta experiencia (%%0% %).
 
@@ -38,3 +59,25 @@ Imagine la suma de esta experiencia comparando la mente del Supremo con la nube 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2023.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/France_Tremblay/Inertie_materielle_et_croissance_en_sagesse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inercia material y crecimiento en sabiduría</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-369-julio-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 369 — Julio 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

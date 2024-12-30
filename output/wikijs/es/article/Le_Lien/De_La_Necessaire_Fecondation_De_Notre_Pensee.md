@@ -38,7 +38,7 @@ dateCreated: 2024-11-6T12:40:15Z
 > «La creación evolutiva de esta alma inmortal resulta de tres factores, no de dos. Estos tres antecedentes del alma morontial humana son:
 > «1. La mente humana y todas las influencias cósmicas que la preceden y que actúan sobre ella.
 > «2. El espíritu divino que habita en esta mente humana y todos los potenciales inherentes a tal fragmento de espiritualidad absoluta, así como todas las influencias y factores espirituales asociados con él en la vida humana.
-> «3. La relación entre la mente material y el espíritu divino, que denota un valor y conlleva un significado que no se encuentra en ninguno de los dos factores de esta asociación. La realidad de esta relación única no es ni material ni espiritual, sino morontial. Es el alma.» <a id="a39_286"></a>[LU 111:2.4-7](/es/The_Urantia_Book/111#p2_4)
+> «3. La relación entre la mente material y el espíritu divino, que denota un valor y conlleva un significado que no se encuentra en ninguno de los dos factores de esta asociación. La realidad de esta relación única no es ni material ni espiritual, sino morontial. Es el alma.» <a id="a40_278"></a>[LU 111:2.4-7](/es/The_Urantia_Book/111#p2_4)
 
 Para ilustrar esta idea de que nuestro desarrollo interior depende de un aporte superior a nuestra mente y a nuestra relación con ella, les ofrezco este cuento popular:
 

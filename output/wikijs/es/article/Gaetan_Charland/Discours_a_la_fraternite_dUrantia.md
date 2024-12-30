@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una hipótesis sobre la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Les_gravites_et_influences_mentales">
+          <span class="pr-2">Gravitaciones e influencias mentales.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -42,9 +66,9 @@ _27 de enero de 1963_
 <figcaption>Mary Lou Hales, Emma Christensen (Christy) y William S. Sadler, Jr.</figcaption>
 </figure>
 
-> La religión puede impregnar los cuatro niveles de la comprensión de los valores y del disfrute de la fraternidad universal: el nivel físico o material de la preservación de sí mismo; el nivel social o emocional de la fraternidad; el nivel moral de la razón o del deber; y el nivel espiritual de la conciencia de la fraternidad universal mediante la adoración divina. ([LU 5:5.2](/es/The_Urantia_Book/5#p5_2))
+> La religión puede impregnar los cuatro niveles de la comprensión de los valores y del disfrute de la fraternidad universal: el nivel físico o material de la preservación de sí mismo; el nivel social o emocional de la fraternidad; el nivel moral de la razón o del deber; y el nivel espiritual de la conciencia de la fraternidad universal mediante la adoración divina. (<a id="a68_370"></a>[LU 5:5.2](/es/The_Urantia_Book/5#p5_2))
 
-> Y como esta fraternidad es universal, es una relación de totalidad. Cuando la fraternidad es universal, no revela la relación con *cadauno,* sino la relación con *todos.* ([LU 12:7.10](/es/The_Urantia_Book/12#p7_10))
+> Y como esta fraternidad es universal, es una relación de totalidad. Cuando la fraternidad es universal, no revela la relación con *cadauno,* sino la relación con *todos.* (<a id="a70_174"></a>[LU 12:7.10](/es/The_Urantia_Book/12#p7_10))
 
 
 ## Referencias
@@ -52,3 +76,28 @@ _27 de enero de 1963_
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Une_hypothese_a_propos_de_la_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una hipótesis sobre la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Les_gravites_et_influences_mentales">
+          <span class="pr-2">Gravitaciones e influencias mentales.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

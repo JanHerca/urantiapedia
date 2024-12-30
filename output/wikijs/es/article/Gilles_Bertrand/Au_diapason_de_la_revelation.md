@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gilles Bertrand<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Equidad y ecorresponsabilidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="pr-2">¡La mentalidad judía, Jesús y nosotros en el siglo XXI!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -60,3 +84,28 @@ En esta historia, los personajes no son ficticios y la historia es real. Espero 
 En ese momento, recuerdo haber pensado: «$j$' necesito descansar un poco antes de mi próximo turno, que comienza en unas horas». Espero que llueva esta noche, eso seguramente hará bajar la temperatura».
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marc_Belleau/Equite_et_ecoresponsabilite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Equidad y ecorresponsabilidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-363-enero-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 363 — Enero 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_mentalite_juive_Jesus_et_nous_au_21e_siecle">
+          <span class="pr-2">¡La mentalidad judía, Jesús y nosotros en el siglo XXI!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

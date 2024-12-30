@@ -44,13 +44,13 @@ Para tener una idea de este tiempo restante, necesitaríamos tener una indicaci�
 
 Mientras sepamos observar y deducir, el Libro de Urantia da una respuesta...
 
-Sabemos ([LU 62:7.7](/es/The_Urantia_Book/62#p7_7)) que nuestro mundo ha sido considerado un “mundo calificado” desde 993408 años antes de 1934; y como tal Urantia se convirtió en el pequeño mundo habitado de Satania.
+Sabemos (<a id="a46_9"></a>[LU 62:7.7](/es/The_Urantia_Book/62#p7_7)) que nuestro mundo ha sido considerado un “mundo calificado” desde 993408 años antes de 1934; y como tal Urantia se convirtió en el pequeño mundo habitado de Satania.
 
 También sabemos que en 1934 había 619 mundos habitados en Satania, un aumento de 13 en 993.408 años.
 
 Podemos deducir por tanto que sobre esta secuencia de 13 numeraciones, el tiempo medio entre dos numeraciones es de 76416 años (993408/13); el quizás menos si la última numeración (619) es anterior a 1934.
 
-Este tiempo medio entre dos apariciones planetarias de seres humanos es lo suficientemente importante como para ser un acontecimiento raro y suscitar cada vez una gran alegría en Jerusem, en Edentia e incluso en Salvington ([LU 62:7.3](/es/The_Urantia_Book/62#p7_3)).
+Este tiempo medio entre dos apariciones planetarias de seres humanos es lo suficientemente importante como para ser un acontecimiento raro y suscitar cada vez una gran alegría en Jerusem, en Edentia e incluso en Salvington (<a id="a52_224"></a>[LU 62:7.3](/es/The_Urantia_Book/62#p7_3)).
 
 Si esta información sobre el tiempo promedio de espera hasta el surgimiento del próximo mundo habitado es un reflejo del promedio general en Satania para el futuro; entonces podemos conjeturar que el mundo número 1000 de Satania podría surgir en aproximadamente 29 millones de años (76000 x 381).
 
@@ -58,7 +58,7 @@ Por lo tanto, el mundo más atrasado de Salania (el último en ser registrado) e
 
 Para hacernos una idea de cómo era este mundo, veamos cómo era el nuestro hace 29 millones de años.
 
-> «Hace *30.000.000* de años empezaron a hacer su aparición los tipos de mamíferos modernos. La mayoría de los mamíferos había vivido anteriormente en los montes, pues eran del tipo montaraz; *repentinamente* empezó la evolución del tipo ungulado o de las llanuras, las especies que pastan, diferenciándose de los carnívoros con garras. Estos animales que pastaban descendían de un antepasado no diferenciado que tenía cinco dedos en las patas y cuarenta y cuatro dientes, el cual desapareció antes del final de esta época. A lo largo de todo este período, la evolución de los ungulados no progresó más allá de la etapa de los tres dedos.» ([LU 61:2.8](/es/The_Urantia_Book/61#p2_8))
+> «Hace *30.000.000* de años empezaron a hacer su aparición los tipos de mamíferos modernos. La mayoría de los mamíferos había vivido anteriormente en los montes, pues eran del tipo montaraz; *repentinamente* empezó la evolución del tipo ungulado o de las llanuras, las especies que pastan, diferenciándose de los carnívoros con garras. Estos animales que pastaban descendían de un antepasado no diferenciado que tenía cinco dedos en las patas y cuarenta y cuatro dientes, el cual desapareció antes del final de esta época. A lo largo de todo este período, la evolución de los ungulados no progresó más allá de la etapa de los tres dedos.» (<a id="a60_641"></a>[LU 61:2.8](/es/The_Urantia_Book/61#p2_8))
 
 Vemos que en esta época antigua, la era de los dinosaurios era un pasado lejano y nuestro mundo ya estaba entrando en la era de los animales superiores.
 

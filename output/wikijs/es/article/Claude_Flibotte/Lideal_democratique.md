@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claude Flibotte<br>© 2022 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia de la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-left">
@@ -46,7 +67,7 @@ El desarme de las grandes naciones emprendido tímidamente desde hace varios añ
 
 ## ¡El coraje de alcanzar la utopía!
 
-Soy consciente de que en la situación actual de muchas de las llamadas naciones soberanas, un gobierno global de la humanidad parece una utopía. Sin embargo, representa la única solución real para que la humanidad sea verdaderamente soberana, exenta del riesgo de guerra, basada en un entendimiento fraternal real, duradero y de buena fe. Esta forma de ver el futuro no les quitará nada a los países actuales. Los asuntos locales serán manejados por los gobiernos locales. Los asuntos nacionales serán hechos por los gobiernos nacionales y los asuntos internacionales serán hechos por el gobierno planetario ([LU 134:6.8](/es/The_Urantia_Book/134#p6_8)).
+Soy consciente de que en la situación actual de muchas de las llamadas naciones soberanas, un gobierno global de la humanidad parece una utopía. Sin embargo, representa la única solución real para que la humanidad sea verdaderamente soberana, exenta del riesgo de guerra, basada en un entendimiento fraternal real, duradero y de buena fe. Esta forma de ver el futuro no les quitará nada a los países actuales. Los asuntos locales serán manejados por los gobiernos locales. Los asuntos nacionales serán hechos por los gobiernos nacionales y los asuntos internacionales serán hechos por el gobierno planetario (<a id="a69_609"></a>[LU 134:6.8](/es/The_Urantia_Book/134#p6_8)).
 
 Todos los tratados, diplomacias, políticas exteriores, alianzas o equilibrios de poder de todo tipo nunca lograrán establecer la paz mundial mientras prevalezca la idea de soberanía nacional.
 
@@ -58,3 +79,25 @@ Aunque la democracia representativa es un ideal, debemos tener cuidado con ciert
 
 ¡Espero que esta reflexión personal les traiga la esperanza de días mejores y un mayor entendimiento entre nosotros en este mundo que realmente lo necesita!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La experiencia de la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

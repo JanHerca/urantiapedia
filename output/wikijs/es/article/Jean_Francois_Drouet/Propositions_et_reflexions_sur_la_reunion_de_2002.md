@@ -32,11 +32,11 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Básicamente, es muy simple; sólo tenemos una obligación: conformar toda nuestra voluntad a la de Dios ([LU 111:5.2](/es/The_Urantia_Book/111#p5_2)), lo que equivale a seguir el plan divino ([LU 4:1.2](/es/The_Urantia_Book/4#p1_2)).
+Básicamente, es muy simple; sólo tenemos una obligación: conformar toda nuestra voluntad a la de Dios (<a id="a34_103"></a>[LU 111:5.2](/es/The_Urantia_Book/111#p5_2)), lo que equivale a seguir el plan divino (<a id="a34_190"></a>[LU 4:1.2](/es/The_Urantia_Book/4#p1_2)).
 
 Para ello son necesarios tres niveles de conocimiento, por orden:
 
-1. Conocer la ley divina ([LU 111:6.6](/es/The_Urantia_Book/111#p6_6)), la ley cósmica ([LU 12:6.12](/es/The_Urantia_Book/12#p6_12)).
+1. Conocer la ley divina (<a id="a38_26"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)), la ley cósmica (<a id="a38_88"></a>[LU 12:6.12](/es/The_Urantia_Book/12#p6_12)).
 2. Conocer el plan Divino como Miguel quiso aplicarlo a nuestro tiempo
 3. Reconocer su aplicación tanto en nuestra propia vida como en el desarrollo colectivo y compartir este conocimiento.
 
@@ -46,13 +46,13 @@ Desde la llegada de Miguel y la publicación del Libro de Urantia, la adquisici�
 
 Para cualquier construcción, es necesario conocer las reglas de uso de los materiales utilizados. Las construcciones morontiales y espirituales no son una excepción a esta regla. Este conocimiento es tanto más esencial cuanto que las leyes que gobiernan estos niveles son menos inmediatamente comprensibles que las, más aparentes, de nuestro entorno físico.
 
-La tarea es difícil, pero como el creador es único y su ley es inmutable ([LU 4:2.1](/es/The_Urantia_Book/4#p2_1)), podemos esperar encontrar los principios comunes incluso a realizaciones múltiples y diferenciadas.
+La tarea es difícil, pero como el creador es único y su ley es inmutable (<a id="a48_74"></a>[LU 4:2.1](/es/The_Urantia_Book/4#p2_1)), podemos esperar encontrar los principios comunes incluso a realizaciones múltiples y diferenciadas.
 
 ## 2) El plan divino de Michael
 
-Micaël diseñó un plan de “puesta al día” para Urantia, hace unos 37.800 años y desde su anuncio ([LU 119:7.2](/es/The_Urantia_Book/119#p7_2)), nuestro universo ha seguido atentamente su progreso.
+Micaël diseñó un plan de “puesta al día” para Urantia, hace unos 37.800 años y desde su anuncio (<a id="a52_97"></a>[LU 119:7.2](/es/The_Urantia_Book/119#p7_2)), nuestro universo ha seguido atentamente su progreso.
 
-Y ciertos eventos, inesperados y sin precedentes, como el nacimiento de intermedios secundarios, son parte de este plan ([LU 77:6.2](/es/The_Urantia_Book/77#p6_2)). A él le debemos la transmisión del _Libro de Urantia_ ([LU 77:8.8](/es/The_Urantia_Book/77#p8_8)). Entre otras cosas, porque si conocemos una de las acciones de una mediana secundaria, no hay duda de que las otras 1110 medianas han estado y están activas.
+Y ciertos eventos, inesperados y sin precedentes, como el nacimiento de intermedios secundarios, son parte de este plan (<a id="a54_121"></a>[LU 77:6.2](/es/The_Urantia_Book/77#p6_2)). A él le debemos la transmisión del _Libro de Urantia_ (<a id="a54_220"></a>[LU 77:8.8](/es/The_Urantia_Book/77#p8_8)). Entre otras cosas, porque si conocemos una de las acciones de una mediana secundaria, no hay duda de que las otras 1110 medianas han estado y están activas.
 
 En la medida en que deseemos trabajar para el Reino, nuestros asociados invisibles pueden tener una acción comparable a una especie de GPS o GMS (Gobernanza Mediana y Seráfica, en forma de descubrimientos (por ejemplo, el del Libro de Urantia), d acontecimientos aparentemente fortuitos, reuniones, etc. o incluso intuiciones.
 
@@ -60,15 +60,15 @@ Pero este gobierno de ninguna manera afecta nuestra libertad. Seguimos siendo co
 
 La revelación y la guía nos permiten tomar conciencia del camino a seguir. Más que un importante paso adelante, esto conduce a un retroceso y a una ampliación de la perspectiva.
 
-El hombre primitivo intentó conocer y controlar su entorno mediante la magia ([LU 88:4.3](/es/The_Urantia_Book/88#p4_3)). El hombre moderno todavía procede por experiencia en un enfoque que él describe como científico. A través del análisis y el razonamiento cartesiano intenta encontrar explicaciones a los fenómenos que observa. Pero él todavía está avanzando a tientas.
+El hombre primitivo intentó conocer y controlar su entorno mediante la magia (<a id="a62_78"></a>[LU 88:4.3](/es/The_Urantia_Book/88#p4_3)). El hombre moderno todavía procede por experiencia en un enfoque que él describe como científico. A través del análisis y el razonamiento cartesiano intenta encontrar explicaciones a los fenómenos que observa. Pero él todavía está avanzando a tientas.
 
 Por otro lado, si logra esta conciencia, adquiere una visión global, una conciencia cósmica. Su camino estará entonces en plena luz, lo que le permitirá avanzar mucho más rápidamente, con confianza y en paz.
 
-Esto le permite encontrar su unidad, con felices consecuencias para la salud ([LU 100:4.3](/es/The_Urantia_Book/100#p4_3)), la calidad del sueño, la longevidad (¡hasta 500 años en esferas evolucionadas! ([LU 49:4.6](/es/The_Urantia_Book/49#p4_6)). En este caso, También se puede pensar que el suministro de plasma violeta, incluso insuficiente, puede llevar a beneficiarse de energía positiva. Ejemplos extremos se podrían explicar de esta manera, como los de Thérèse Neumannn, Marthe Robin o Jasmuheen (ver libro: Vivir con). Luz en la que habla de 5000 casos similares).
+Esto le permite encontrar su unidad, con felices consecuencias para la salud (<a id="a66_78"></a>[LU 100:4.3](/es/The_Urantia_Book/100#p4_3)), la calidad del sueño, la longevidad (¡hasta 500 años en esferas evolucionadas! (<a id="a66_204"></a>[LU 49:4.6](/es/The_Urantia_Book/49#p4_6)). En este caso, También se puede pensar que el suministro de plasma violeta, incluso insuficiente, puede llevar a beneficiarse de energía positiva. Ejemplos extremos se podrían explicar de esta manera, como los de Thérèse Neumannn, Marthe Robin o Jasmuheen (ver libro: Vivir con). Luz en la que habla de 5000 casos similares).
 
-Aunque tengamos discapacidades en Urantia, no debemos creer que esto causa una limitación a nuestro desarrollo evolutivo o a nuestro progreso espiritual individual ([LU 55:6.7](/es/The_Urantia_Book/55#p6_7)) y [LU 55:11.6](/es/The_Urantia_Book/55#p11_6)).
+Aunque tengamos discapacidades en Urantia, no debemos creer que esto causa una limitación a nuestro desarrollo evolutivo o a nuestro progreso espiritual individual (<a id="a68_165"></a>[LU 55:6.7](/es/The_Urantia_Book/55#p6_7)) y <a id="a68_210"></a>[LU 55:11.6](/es/The_Urantia_Book/55#p11_6)).
 
-Por el contrario, no seguir el plan constituye un mal que tiene el efecto cierto de retrasar su realización individual y colectiva (el ejemplo es el de la culpa de Eva ([LU 75:4.3-6](/es/The_Urantia_Book/75#p4_3) y [LU 148:2.5](/es/The_Urantia_Book/148#p2_5) ). Y este mal, por la disyunción causa, está plagado de consecuencias (cf. [LU 75:4.7](/es/The_Urantia_Book/75#p4_7) a [LU 75:8.2](/es/The_Urantia_Book/75#p8_2)).
+Por el contrario, no seguir el plan constituye un mal que tiene el efecto cierto de retrasar su realización individual y colectiva (el ejemplo es el de la culpa de Eva (<a id="a70_169"></a>[LU 75:4.3-6](/es/The_Urantia_Book/75#p4_3) y <a id="a70_215"></a>[LU 148:2.5](/es/The_Urantia_Book/148#p2_5) ). Y este mal, por la disyunción causa, está plagado de consecuencias (cf. <a id="a70_334"></a>[LU 75:4.7](/es/The_Urantia_Book/75#p4_7) a <a id="a70_378"></a>[LU 75:8.2](/es/The_Urantia_Book/75#p8_2)).
 
 Pero si Miguel concibió su plan precisamente por culpa de Eva, es porque pretende paliar estas consecuencias nocivas. Debe ir aún más lejos, y si el universo sigue atentamente su progreso es porque debe servir de modelo.
 

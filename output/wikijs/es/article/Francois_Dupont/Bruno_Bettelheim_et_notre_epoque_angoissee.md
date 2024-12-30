@@ -42,9 +42,9 @@ Esto es lo que piensa el famoso psicólogo Bruno Bettelheim:
 
 Bruno Bettelheim, página 128 — “_Una vez más, si la sociedad se ha vuelto más poderosa, es en detrimento del ciudadano. Como la sociedad es más poderosa que nunca y el individuo está más ansioso que nunca en el pasado, debe confiar, para su supervivencia, en quienes dirigen esta sociedad. La distancia física que separa al individuo de quienes lo dirigen le impide verificar si su confianza en su buena voluntad está justificada, proceso que podría ser desastroso para su sensación de seguridad económica y social.
 
-> 1. *La valentía* —la fuerza de carácter— ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones. ([LU 3:5.6](/es/The_Urantia_Book/3#p5_6))
+> 1. *La valentía* —la fuerza de carácter— ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones. (<a id="a44_191"></a>[LU 3:5.6](/es/The_Urantia_Book/3#p5_6))
 
-> 3. *La esperanza* —la grandeza de la confianza— ¿es deseable? Entonces la existencia humana debe enfrentarse continuamente con inseguridades e incertidumbres recurrentes. ([LU 3:5.8](/es/The_Urantia_Book/3#p5_8))
+> 3. *La esperanza* —la grandeza de la confianza— ¿es deseable? Entonces la existencia humana debe enfrentarse continuamente con inseguridades e incertidumbres recurrentes. (<a id="a46_174"></a>[LU 3:5.8](/es/The_Urantia_Book/3#p5_8))
 
 Este discurso bastante pesimista se ve matizado por lo que dice un poco más adelante:
 
@@ -52,11 +52,11 @@ Bruno Bettelheim, página 145 — “_Una era que anima al hombre a dejar que la
 
 Pero, por su parte, el _Libro de Urantia_ nos da la seguridad de que nuestras tribulaciones son un mal necesario:
 
-> «_La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva._» ([LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
+> «_La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva._» (<a id="a54_414"></a>[LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
 
 Incluso nos dice lo que debemos corregir en nuestra actitud ante estos sufrimientos mentales:
 
-> «_La Fuente-Centro Tercera, la inteligencia universal, es personalmente consciente de cada *mente*{3}, de cada intelecto, en toda la creación, y mantiene un contacto personal y perfecto con todas estas criaturas físicas, morontiales y espirituales dotadas de mente en los extensos universos. Todas estas actividades mentales están incluidas en el circuito absoluto de la gravedad mental que se encuentra focalizado en la Fuente-Centro Tercera y que forma parte de la conciencia personal del Espíritu Infinito._» ([LU 9:6.1](/es/The_Urantia_Book/9#p6_1))
+> «_La Fuente-Centro Tercera, la inteligencia universal, es personalmente consciente de cada *mente*{3}, de cada intelecto, en toda la creación, y mantiene un contacto personal y perfecto con todas estas criaturas físicas, morontiales y espirituales dotadas de mente en los extensos universos. Todas estas actividades mentales están incluidas en el circuito absoluto de la gravedad mental que se encuentra focalizado en la Fuente-Centro Tercera y que forma parte de la conciencia personal del Espíritu Infinito._» (<a id="a58_515"></a>[LU 9:6.1](/es/The_Urantia_Book/9#p6_1))
 
 Personalmente pienso que, entre los lectores diligentes y estudiantes perseverantes del Libro de URANTIA, no hay ni puede haber personas verdaderamente ansiosas, temerosas de un futuro, en definitiva, bastante cercano, temblando por sus hijos, vacilantes a la hora de implicarse en cualquier cosa.
 

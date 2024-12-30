@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Zshonette Reed<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_04_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mensaje del presidente — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="pr-2">Larga cronología de la segunda edad.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -58,7 +82,7 @@ Hay divinidad en la filiación de Dios. Hay un poder de unidad con el universo. 
 
 El librito 111 habla del peligro de ceder a la tentación de divinizarse, como es el caso de quienes adhieren a esta verdad a medias de la divinidad, de la que aquí un extracto:
 
-> _La valentía que se necesita para llevar a cabo la conquista de la naturaleza y para trascenderse a sí mismo es una valentía que puede sucumbir a las tentaciones del orgullo. El mortal que puede trascender su yo podría ceder a la tentación de deificar su propia conciencia de sí mismo. El dilema mortal consiste en el doble hecho de que el hombre está esclavizado a la naturaleza, mientras que al mismo tiempo posee una libertad única —la libertad de elegir y de actuar espiritualmente. En los niveles materiales, el hombre se encuentra subordinado a la naturaleza, mientras que en los niveles espirituales triunfa sobre la naturaleza y sobre todas las cosas temporales y finitas. Esta paradoja es inseparable de las tentaciones, del mal potencial, de los errores de decisión, y cuando el yo se vuelve orgulloso y arrogante, el pecado puede aparecer._ ([LU 111:6.2](/es/The_Urantia_Book/111#p6_2))
+> _La valentía que se necesita para llevar a cabo la conquista de la naturaleza y para trascenderse a sí mismo es una valentía que puede sucumbir a las tentaciones del orgullo. El mortal que puede trascender su yo podría ceder a la tentación de deificar su propia conciencia de sí mismo. El dilema mortal consiste en el doble hecho de que el hombre está esclavizado a la naturaleza, mientras que al mismo tiempo posee una libertad única —la libertad de elegir y de actuar espiritualmente. En los niveles materiales, el hombre se encuentra subordinado a la naturaleza, mientras que en los niveles espirituales triunfa sobre la naturaleza y sobre todas las cosas temporales y finitas. Esta paradoja es inseparable de las tentaciones, del mal potencial, de los errores de decisión, y cuando el yo se vuelve orgulloso y arrogante, el pecado puede aparecer._ (<a id="a84_855"></a>[LU 111:6.2](/es/The_Urantia_Book/111#p6_2))
 
 Esto nos dice que trascender nuestras debilidades mortales y desafíos temporales requiere verdadero coraje. Pero aquellos que son capaces de trascenderlos enfrentan un nuevo problema: la tentación de volverse orgullosos y arrogantes, lo que puede conducir al pecado. Esto no quiere decir que esa persona DEBE volverse orgullosa y arrogante. Esto significa que esa persona inevitablemente tendrá la oportunidad de demostrar quién es realmente. ¿Es esta persona un valiente hijo espiritual de Dios, o se ha engañado a sí misma al creer que ES Dios? Éste es el peligro de las verdades a medias.
 
@@ -74,7 +98,7 @@ Hay otra razón por la que esta verdad a medias en particular es tan peligrosa. 
 > 
 > _En resumen, Lucifer habría quitado a los hombres y a los ángeles aquello que Dios les había dado, es decir ***el privilegio divino de participar en la creación de sus propios destinos y del destino de este sistema local*** de mundos habitados._
 > 
-> _Ningún ser en todo el universo tiene la legítima libertad de privar a otro ser de ***la verdadera libertad, del derecho de amar y de ser amado, del privilegio de adorar a Dios y de servir a sus semejantes***._ (LU <a id="a99_203"></a>[LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3))
+> _Ningún ser en todo el universo tiene la legítima libertad de privar a otro ser de ***la verdadera libertad, del derecho de amar y de ser amado, del privilegio de adorar a Dios y de servir a sus semejantes***._ (LU [LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3))
 
 Estos pasajes revelan el peligro de las filosofías que excluyen a Dios de la ecuación. Así que no es sólo una cuestión de si Dios existe o no existe. Se trata de si NOSOTROS existimos como criaturas con libre albedrío y si permitiremos que otra criatura cierre la puerta a las oportunidades y posibilidades. Estas medias verdades no son sólo ateas. Son luciferinos.
 
@@ -92,3 +116,28 @@ Mientras tanto, que el Espíritu de la Verdad os acompañe.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_04_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mensaje del presidente — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="pr-2">Larga cronología de la segunda edad.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

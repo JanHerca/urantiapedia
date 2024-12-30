@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Rex Merrett<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparación entre Jesús de Nazaret y Donald Trump</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/Dieu_Jesus_et_lAmour">
+          <span class="pr-2">Dios, Jesús y el Amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,7 +67,7 @@ Al final de su adolescencia y en sus primeros años de vida, viajó mucho con un
 
 Durante el viaje por el Mediterráneo, Jesús había estudiado cuidadosamente a las personas que conoció y los países por los que pasó, y fue aproximadamente en ese momento cuando tomó su decisión final sobre el resto de su vida en la tierra. 134:0 (1483,1)
 
-Regresó a Galilea para esperar el comienzo de la obra de su vida como maestro público de la verdad. Estaba trabajando nuevamente en barcos en el taller de Zebedeo en Cafarnaum cuando una mañana dejó sus herramientas y declaró: «Ha llegado mi hora» ([LU 134:9.8](/es/The_Urantia_Book/134#p9_8)).
+Regresó a Galilea para esperar el comienzo de la obra de su vida como maestro público de la verdad. Estaba trabajando nuevamente en barcos en el taller de Zebedeo en Cafarnaum cuando una mañana dejó sus herramientas y declaró: «Ha llegado mi hora» (<a id="a69_249"></a>[LU 134:9.8](/es/The_Urantia_Book/134#p9_8)).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2024_07/018.jpg">
@@ -57,9 +81,9 @@ Creo que la lección que podemos aprender de esto es que primero debemos volvern
 
 El llamado «Sermón de la Montaña» no es el evangelio de Jesús, sino la ordenación de los 12 apóstoles. Este es el mandato personal dado por el Maestro a quienes deben continuar predicando el Evangelio y aspirar a representarlo en el mundo de los hombres, así como él representó tan elocuente y perfectamente a su Padre.
 
-Si bien los impulsos heredados no se pueden cambiar fundamentalmente, las reacciones emocionales a esos impulsos se pueden cambiar; por tanto, la naturaleza moral puede modificarse, el carácter puede mejorarse. En un carácter fuerte, las respuestas emocionales se integran y coordinan, produciendo una personalidad unificada. La unificación deficiente debilita la naturaleza moral y genera infelicidad. [LU 140:4.8](/es/The_Urantia_Book/140#p4_8)
+Si bien los impulsos heredados no se pueden cambiar fundamentalmente, las reacciones emocionales a esos impulsos se pueden cambiar; por tanto, la naturaleza moral puede modificarse, el carácter puede mejorarse. En un carácter fuerte, las respuestas emocionales se integran y coordinan, produciendo una personalidad unificada. La unificación deficiente debilita la naturaleza moral y genera infelicidad. <a id="a83_403"></a>[LU 140:4.8](/es/The_Urantia_Book/140#p4_8)
 
-Sin un propósito digno de ese nombre, la vida se vuelve sin objetivo ni provecho, y el resultado es mucha infelicidad. Jesús instó a sus discípulos a ejercer una fe experimental. Les aconsejó que no dependieran del simple consentimiento intelectual, la credulidad y la autoridad establecida. [LU 140:4.9](/es/The_Urantia_Book/140#p4_9)
+Sin un propósito digno de ese nombre, la vida se vuelve sin objetivo ni provecho, y el resultado es mucha infelicidad. Jesús instó a sus discípulos a ejercer una fe experimental. Les aconsejó que no dependieran del simple consentimiento intelectual, la credulidad y la autoridad establecida. <a id="a85_292"></a>[LU 140:4.9](/es/The_Urantia_Book/140#p4_9)
 
 ## Moana
 
@@ -70,7 +94,7 @@ Durante nuestro viaje a Tasmania visitamos el Moana (Museo de Arte Antiguo y Nue
 <figcaption>Una de las obras del Museo Moana, foto de Magda Szyperska. </figcaption>
 </figure>
 
-La educación debe ser una técnica para aprender (descubrir) los mejores métodos para satisfacer nuestras necesidades naturales y hereditarias, y la felicidad es el resultado total de estas técnicas mejoradas de satisfacción emocional. [LU 140:4.10](/es/The_Urantia_Book/140#p4_10).
+La educación debe ser una técnica para aprender (descubrir) los mejores métodos para satisfacer nuestras necesidades naturales y hereditarias, y la felicidad es el resultado total de estas técnicas mejoradas de satisfacción emocional. <a id="a96_235"></a>[LU 140:4.10](/es/The_Urantia_Book/140#p4_10).
 
 ## Diferentes realidades
 
@@ -99,3 +123,28 @@ Te lo agradecemos.
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-juillet-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Comparaison_entre_Jesus_de_Nazareth_et_Donald_Trump">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparación entre Jesús de Nazaret y Donald Trump</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-381-julio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 381 — Julio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francine_Fortin/Dieu_Jesus_et_lAmour">
+          <span class="pr-2">Dios, Jesús y el Amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

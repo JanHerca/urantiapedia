@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Samuel Heïne<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_09_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-371-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 371 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Cadieux/Pique_nique_de_Jesus_2023">
+          <span class="pr-2">Picnic del día de Jesús 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -28,9 +52,9 @@ Creo que existen principalmente dos obstáculos que nos impiden asumir el único
 De cualquier manera, nuestro ajustador sigue señalándonos en la dirección correcta.
 <br style="clear:both;"/>
 
-> «Advertid a todos los creyentes acerca de la zona de conflicto que tendrán que atravesar todos aquellos que pasan de la vida que se vive en la carne a la vida superior que se vive en el espíritu. Para los que viven plenamente en uno de los dos reinos, existe poco conflicto o confusión, pero todos están destinados a experimentar un mayor o menor grado de incertidumbre durante el período de transición entre los dos niveles de vida. Cuando entráis en el reino, no podéis eludir sus responsabilidades ni evitar sus obligaciones, pero recordad que el yugo del evangelio es cómodo y que el peso de la verdad es ligero.» ([LU 159:3.7](/es/The_Urantia_Book/159#p3_7))
+> «Advertid a todos los creyentes acerca de la zona de conflicto que tendrán que atravesar todos aquellos que pasan de la vida que se vive en la carne a la vida superior que se vive en el espíritu. Para los que viven plenamente en uno de los dos reinos, existe poco conflicto o confusión, pero todos están destinados a experimentar un mayor o menor grado de incertidumbre durante el período de transición entre los dos niveles de vida. Cuando entráis en el reino, no podéis eludir sus responsabilidades ni evitar sus obligaciones, pero recordad que el yugo del evangelio es cómodo y que el peso de la verdad es ligero.» (<a id="a54_621"></a>[LU 159:3.7](/es/The_Urantia_Book/159#p3_7))
 
-> La religión de Jesús no consistía simplemente en *creer*, sino en *hacer* realmente las cosas que exigía el evangelio. No enseñó que la esencia de su religión consistiera en el servicio social, sino más bien que el servicio social era uno de los efectos seguros de la posesión del espíritu de la verdadera religión. ([LU 159:5.8](/es/The_Urantia_Book/159#p5_8))
+> La religión de Jesús no consistía simplemente en *creer*, sino en *hacer* realmente las cosas que exigía el evangelio. No enseñó que la esencia de su religión consistiera en el servicio social, sino más bien que el servicio social era uno de los efectos seguros de la posesión del espíritu de la verdadera religión. (<a id="a56_319"></a>[LU 159:5.8](/es/The_Urantia_Book/159#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/004.jpg">
@@ -43,3 +67,28 @@ De cualquier manera, nuestro ajustador sigue señalándonos en la dirección cor
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-septembre-2023.pdf)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Reflectivite_2023_09_mot_du_president">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje del presidente — septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-371-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 371 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Cadieux/Pique_nique_de_Jesus_2023">
+          <span class="pr-2">Picnic del día de Jesús 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

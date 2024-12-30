@@ -45,7 +45,7 @@ Lea en el sitio web de la fundación en la siguiente dirección:
 
 -https://www.urantia.org%%0%%
 
-	N.B. Esta nueva versión se ha presentado sin la obligación de respetar la paginación del original inglés de 1955. Tiene, por tanto, 70 páginas más. Para ubicar un párrafo en esta nueva versión, se debe utilizar el método [Folleto: Sección. Párrafo.] ([LU 42:4.7](/es/The_Urantia_Book/42#p4_7)) y no [Página:Párrafo] (1345.7)
+	N.B. Esta nueva versión se ha presentado sin la obligación de respetar la paginación del original inglés de 1955. Tiene, por tanto, 70 páginas más. Para ubicar un párrafo en esta nueva versión, se debe utilizar el método [Folleto: Sección. Párrafo.] (<a id="a47_252"></a>[LU 42:4.7](/es/The_Urantia_Book/42#p4_7)) y no [Página:Párrafo] (1345.7)
 
 	La antigua versión de audio sigue estando disponible para su descarga en archivos MP3 (voz humana y no electrónica) en la dirección:
 

@@ -37,7 +37,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 La adoración es el impulso religioso que produce satisfacción en la adoración, siempre de acuerdo con nuestro propio curso de acción, dirigido por (1) nuestra intuición, asociado con (2) nuestro entendimiento, apoyado por (3) nuestro coraje, aprobado por (4) nuestro conocimiento. , orientado (5) en el consejo, a llegar a un estado de adoración satisfaciendo las necesidades de la intuición.
 
-Ejemplo #20 de “Morontielle Mota” es: “Sólo un poeta puede discernir la poesía en la vida cotidiana” ([LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
+Ejemplo #20 de “Morontielle Mota” es: “Sólo un poeta puede discernir la poesía en la vida cotidiana” (<a id="a39_102"></a>[LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
 
 Ilustraré este aforismo con dos poemas de adoración de dos poetas del siglo XIX, nacidos en dos continentes ribereños del Atlántico. Ambos poemas se dirigen al Creador de nuestro universo local de Nebadón y a las huestes celestiales, incluso en nuestro sistema local y en nuestro planeta Urantia.
 

@@ -37,7 +37,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 ¿Por qué y cómo adorar a Dios? A veces puede parecer difícil responder simplemente a la pregunta de por qué y especialmente cómo adorar al Padre Universal.
 
-> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ ([[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
+> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ (<a id="a39_593"></a>[[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
 
 Al responder aparentemente a la pregunta del por qué, esta explicación parece ofrecernos una técnica de adoración, un cómo: el de un triple movimiento del alma en relación a Dios.
 
@@ -71,7 +71,7 @@ El Ser de nuestros seres, NOSOTROS somos YO.
 
 Tercer movimiento del alma.
 
-> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ ([[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
+> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ (<a id="a73_593"></a>[[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
 
 Una frase de ruta sencilla extraída de multitud de otras frases que constituyen un corpus de 2097 páginas. Una breve hoja de ruta.
 

@@ -41,7 +41,7 @@ ESTE ENCUENTRO SE ENFOCÓ EN CÓMO VIVIÓ JESÚS SU VIDA CADA DÍA, QUÉ RASGOS 
 
 Tomamos como base el capítulo 7 del folleto 100 “El clímax de la vida religiosa” y una presentación hecha por nuestro amigo Chris sobre “Jesús, el hombre”.
 
-> _Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada. La presentación más eficaz de Jesús consiste en seguir el ejemplo de aquel que dijo, mientras hacía un gesto hacia el Maestro que permanecía de pie delante de sus acusadores: «¡He aquí al hombre!»{4}_ ([LU 100:7.1](/es/The_Urantia_Book/100#p7_1))
+> _Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada. La presentación más eficaz de Jesús consiste en seguir el ejemplo de aquel que dijo, mientras hacía un gesto hacia el Maestro que permanecía de pie delante de sus acusadores: «¡He aquí al hombre!»{4}_ (<a id="a43_662"></a>[LU 100:7.1](/es/The_Urantia_Book/100#p7_1))
 
 **Pregunta**: ¿Jesús se benefició de sus efusiones anteriores para vivir? Jesús tuvo una vida de hombre real. Tenía que experimentar verdaderamente el ser humano. Por eso no debe recordar sus experiencias anteriores.
 
@@ -57,7 +57,7 @@ La fe de un niño en Jesús es una confianza, una apertura y no una fe intelectu
 
 Un ser humano adulto enfermo o herido que debe volver a aprender a caminar normalmente lleva mucho tiempo, meses o incluso años. Mientras que un niño pequeño se lanza con confianza, con naturalidad hacia adelante, sin hacer preguntas, siendo SINCERO, sin dudas y sin afectación.
 
-**Apoyo a la reflexión**: el apogeo de la vida religiosa [LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
+**Apoyo a la reflexión**: el apogeo de la vida religiosa <a id="a59_57"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
 
 Discusión de los términos **maestría y armonía**:
 
@@ -77,7 +77,7 @@ Papel de la **emoción** en la vida: en muchas tradiciones espirituales tendemos
 
 Hablamos de la universalidad de la música de BACH que transmitía emoción sin desbordar...
 
-Respecto a la **unificación de Jesús** como modelo [LU 100:7.2](/es/The_Urantia_Book/100#p7_2) y [LU 100:7.4](/es/The_Urantia_Book/100#p7_4):
+Respecto a la **unificación de Jesús** como modelo <a id="a79_51"></a>[LU 100:7.2](/es/The_Urantia_Book/100#p7_2) y <a id="a79_97"></a>[LU 100:7.4](/es/The_Urantia_Book/100#p7_4):
 
 Las personas equilibradas atraen. En el equilibrio surge la serenidad. Es atractivo un equilibrio manifestado en los 3 niveles, físico, mental y espiritual.
 
@@ -95,7 +95,7 @@ Cuando habla del Padre, Jesús habla con absoluta autoridad porque tomó concien
 
 Jesús está listo para la aventura. No tiene miedo. Está listo para seguir adelante. Es un pionero. Permitió a otros deshacerse de conceptos erróneos y asfixiantes sin revolución. Eliminó hábitos inútiles.
 
-> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ <a id="a96_117"></a>[LU 100:7.6-7](/fr/The_Urantia_Book/100#p7_6)
+> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ [LU 100:7.6-7](/fr/The_Urantia_Book/100#p7_6)
 
 Fue inmune a las decepciones, por su fe liberadora, por su maestría y superación de su ego. Está dirigido a todos sin prejuicios.
 
@@ -111,7 +111,7 @@ Estaba **feliz y optimista**. Hablamos del significado de la festividad: alegrí
 
 Su vida es una **exhortación a la valentía y a vivir las propias convicciones**.
 
-> _El Maestro siempre fue generoso. Nunca se cansó de decir: «Es más bienaventurado dar que recibir»{10}. Y también: «Habéis recibido gratuitamente, dad gratuitamente»{11}. Y sin embargo, a pesar de su generosidad ilimitada, nunca fue derrochador ni extravagante. Enseñó que tenéis que creer para recibir la salvación. «Pues todo aquel que busca, recibirá»{12}._ ([LU 100:7.10](/es/The_Urantia_Book/100#p7_10))
+> _El Maestro siempre fue generoso. Nunca se cansó de decir: «Es más bienaventurado dar que recibir»{10}. Y también: «Habéis recibido gratuitamente, dad gratuitamente»{11}. Y sin embargo, a pesar de su generosidad ilimitada, nunca fue derrochador ni extravagante. Enseñó que tenéis que creer para recibir la salvación. «Pues todo aquel que busca, recibirá»{12}._ (<a id="a113_364"></a>[LU 100:7.10](/es/The_Urantia_Book/100#p7_10))
 
 Luego hablamos del desperdicio, el arte de hacer mucho con poco. Controlar los residuos es cuestión de control y esto nos cuestiona al más alto grado como hombre moderno. El desperdicio planetario ocurre a nivel de energías, dinero y fuerzas espirituales. Debemos aprender ECONOMÍA CÓSMICA.
 
@@ -123,7 +123,7 @@ Jesús ama al pecador y odia el pecado. Dificultad para nosotros para discernir 
 
 **Volver al texto de Chris**
 
-> _La devoción de Jesús a la voluntad del Padre y al servicio del hombre era mucho más que una decisión como mortal y que una determinación humana; era una consagración total de sí mismo a esta donación ilimitada de amor. Por muy grande que sea el hecho de la soberanía de Miguel, no debéis apartar de los hombres al Jesús humano. El Maestro subió a los cielos no sólo como hombre, sino también como Dios; él pertenece a los hombres, y los hombres le pertenecen. ¡Es muy lamentable que la religión misma sea tan mal interpretada, que aparte al Jesús humano de los mortales que luchan! Que las discusiones sobre la humanidad o la divinidad de Cristo no oscurezcan la verdad salvadora de que Jesús de Nazaret fue un hombre religioso que consiguió, por la fe, conocer y hacer la voluntad de Dios; fue realmente el hombre más religioso que haya vivido jamás en Urantia._ ([LU 196:1.1](/es/The_Urantia_Book/196#p1_1))
+> _La devoción de Jesús a la voluntad del Padre y al servicio del hombre era mucho más que una decisión como mortal y que una determinación humana; era una consagración total de sí mismo a esta donación ilimitada de amor. Por muy grande que sea el hecho de la soberanía de Miguel, no debéis apartar de los hombres al Jesús humano. El Maestro subió a los cielos no sólo como hombre, sino también como Dios; él pertenece a los hombres, y los hombres le pertenecen. ¡Es muy lamentable que la religión misma sea tan mal interpretada, que aparte al Jesús humano de los mortales que luchan! Que las discusiones sobre la humanidad o la divinidad de Cristo no oscurezcan la verdad salvadora de que Jesús de Nazaret fue un hombre religioso que consiguió, por la fe, conocer y hacer la voluntad de Dios; fue realmente el hombre más religioso que haya vivido jamás en Urantia._ (<a id="a125_868"></a>[LU 196:1.1](/es/The_Urantia_Book/196#p1_1))
 
 Iremos a Salvavington para presentarnos ante él. Él validará nuestro paso. Chris nos hace la pregunta sobre cómo imaginamos este momento. ¿Tendremos una mayor responsabilidad tras el paso de Miguel sobre Urantia y la 5ª Revelación?
 
@@ -151,7 +151,7 @@ Jesús solía aislarse para recargar pilas. Sus decisiones no son inmediatas sin
 
 La **elección del humano** por Jesús:
 
-> _El gran problema siguiente con el que tuvo que luchar este hombre-Dios y que pronto resolvió de acuerdo con la voluntad del Padre celestial consistía en saber si debía o no emplear algunos de sus poderes sobrehumanos para atraer la atención y conseguir la adhesión de sus semejantes. ¿Debía emplear, de alguna manera, sus poderes universales para satisfacer la inclinación de los judíos por lo espectacular y lo maravilloso?. Decidió que no haría nada semejante. Se ratificó en una línea de conducta que eliminaba todas estas prácticas como método para llevar su misión al conocimiento de los hombres. Y vivió constantemente de acuerdo con esta gran decisión. Incluso en los numerosos casos en que permitió manifestaciones de misericordia que comportaron un acortamiento del tiempo{34}, casi invariablemente recomendó a los que recibieron su ministerio curativo que no contaran a nadie los beneficios que habían recibido. Siempre rechazó el desafío sarcástico de sus enemigos cuando le pedían «muéstranos un signo»{35} como prueba y demostración de su divinidad._ ([LU 136:8.1](/es/The_Urantia_Book/136#p8_1))
+> _El gran problema siguiente con el que tuvo que luchar este hombre-Dios y que pronto resolvió de acuerdo con la voluntad del Padre celestial consistía en saber si debía o no emplear algunos de sus poderes sobrehumanos para atraer la atención y conseguir la adhesión de sus semejantes. ¿Debía emplear, de alguna manera, sus poderes universales para satisfacer la inclinación de los judíos por lo espectacular y lo maravilloso?. Decidió que no haría nada semejante. Se ratificó en una línea de conducta que eliminaba todas estas prácticas como método para llevar su misión al conocimiento de los hombres. Y vivió constantemente de acuerdo con esta gran decisión. Incluso en los numerosos casos en que permitió manifestaciones de misericordia que comportaron un acortamiento del tiempo{34}, casi invariablemente recomendó a los que recibieron su ministerio curativo que no contaran a nadie los beneficios que habían recibido. Siempre rechazó el desafío sarcástico de sus enemigos cuando le pedían «muéstranos un signo»{35} como prueba y demostración de su divinidad._ (<a id="a153_1068"></a>[LU 136:8.1](/es/The_Urantia_Book/136#p8_1))
 
 Para llevar su misión al conocimiento de los hombres, Jesús fijó su elección en un método que eliminara todas estas prácticas, y vivió constantemente según esta gran decisión. Jesús quería permanecer dentro de los límites naturales de la humanidad. No podía permitirse el lujo de transgredir las leyes naturales del modo que había creado. La lección de esto para nosotros es no buscar el acontecimiento excepcional sino la lenta, verdadera y profunda evolución espiritual interior.
 
@@ -159,7 +159,7 @@ La exigencia de los fascículos devuelve al hombre el sentido de su destino, sin
 
 La espiritualidad sana a través de la energía amorosa.
 
-> _3. Al mismo tiempo que la fe de la criatura y la vida del Creador, también hay que señalar que este Dios-hombre era la expresión personificada de la voluntad del Padre. Si en el contacto entre la necesidad humana y el poder divino capaz de satisfacerla, el Padre no deseaba lo contrario, los dos se convertían en uno solo, y la curación se producía sin que el Jesús humano fuera consciente de ello, pero era inmediatamente reconocida por su naturaleza divina. Así pues, la explicación de muchos de estos casos de curación se encuentra en una gran ley que conocemos desde hace mucho tiempo, a saber: Aquello que el Hijo Creador desea y el Padre eterno lo quiere, EXISTE._ ([LU 149:1.7](/es/The_Urantia_Book/149#p1_7))
+> _3. Al mismo tiempo que la fe de la criatura y la vida del Creador, también hay que señalar que este Dios-hombre era la expresión personificada de la voluntad del Padre. Si en el contacto entre la necesidad humana y el poder divino capaz de satisfacerla, el Padre no deseaba lo contrario, los dos se convertían en uno solo, y la curación se producía sin que el Jesús humano fuera consciente de ello, pero era inmediatamente reconocida por su naturaleza divina. Así pues, la explicación de muchos de estos casos de curación se encuentra en una gran ley que conocemos desde hace mucho tiempo, a saber: Aquello que el Hijo Creador desea y el Padre eterno lo quiere, EXISTE._ (<a id="a161_675"></a>[LU 149:1.7](/es/The_Urantia_Book/149#p1_7))
 
 Informe del día del sábado 22 de noviembre de 2008 en Suresnes.
 

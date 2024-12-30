@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Hara Davis<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/A_propos_des_sept_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los siete círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-382-agosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 382 — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Mon_point_de_vue_sur_lAjusteur_de_Pensee">
+          <span class="pr-2">Mi opinión sobre el Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -36,7 +60,7 @@ Exploramos los orígenes evolutivos de la institución familiar comenzando con c
 ***El Libro de Urantia*** indica la importancia de la educación y la formación y estamos estudiando cómo nuestro sistema educativo podría cambiar para desarrollar más sabiduría en los niños. Examinamos las tendencias y desarrollos futuros para la familia durante este difícil momento de transición para el planeta a medida que la sociedad se vuelve cada vez más compleja. La verdadera religión y la vida familiar pueden ayudar a promover una sociedad mejor de muchas maneras. Así podremos aprender de estos planetas establecidos en la luz y la vida a la que aspiramos. El amor, la confianza mutua y la fe se unen en la vida familiar para que podamos expresar nuestro máximo potencial y experimentar las alegrías del amor y el compañerismo. Casi todo lo que tiene valor en la sociedad tiene sus raíces en la familia.
 <br style="clear:both;"/>
 
-> El matrimonio es la madre de todas las instituciones humanas, pues conduce directamente a la fundación y al mantenimiento del hogar, que es la base estructural de la sociedad. La familia está unida vitalmente al mecanismo de la preservación de sí mismo; constituye la única esperanza de perpetuar la raza bajo las costumbres de la civilización, mientras que al mismo tiempo proporciona de manera muy eficaz ciertas formas altamente satisfactorias de placer personal. La familia es la realización puramente humana más importante del hombre, pues combina, tal como lo hace, la evolución de las relaciones biológicas entre el varón y la hembra con las relaciones sociales entre el marido y la mujer. ([LU 84:6.8](/es/The_Urantia_Book/84#p6_8))
+> El matrimonio es la madre de todas las instituciones humanas, pues conduce directamente a la fundación y al mantenimiento del hogar, que es la base estructural de la sociedad. La familia está unida vitalmente al mecanismo de la preservación de sí mismo; constituye la única esperanza de perpetuar la raza bajo las costumbres de la civilización, mientras que al mismo tiempo proporciona de manera muy eficaz ciertas formas altamente satisfactorias de placer personal. La familia es la realización puramente humana más importante del hombre, pues combina, tal como lo hace, la evolución de las relaciones biológicas entre el varón y la hembra con las relaciones sociales entre el marido y la mujer. (<a id="a62_700"></a>[LU 84:6.8](/es/The_Urantia_Book/84#p6_8))
 
 Este estudio no reemplaza a ***El Libro de Urantia***. La mayor parte del texto está tomado de El libro de Urantia, pero algunas páginas son el resultado de mi propia investigación, lo que proporciona información adicional sobre los conceptos. 
 
@@ -45,3 +69,28 @@ Este estudio no reemplaza a ***El Libro de Urantia***. La mayor parte del texto 
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/A_propos_des_sept_cercles_psychiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los siete círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-382-agosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 382 — Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Mon_point_de_vue_sur_lAjusteur_de_Pensee">
+          <span class="pr-2">Mi opinión sobre el Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -49,7 +49,7 @@ Llama la atención la comparación con los siete mundos de las casas, luego el v
 
 2\. ¡Los “purgatorios” de las religiones cristianas (y paracristianas o pericristianas) son una imagen dura del mundo educativo de los hogares!
 
-> «Los reinos morontiales son las esferas del universo local que enlazan los niveles materiales y los niveles espirituales de existencia de las criaturas. Esta vida morontial se ha conocido en Urantia desde los primeros tiempos del Príncipe Planetario. Este estado de transición se ha enseñado de vez en cuando a los mortales, y el concepto ha encontrado su sitio de manera desvirtuada en las religiones de hoy en día.» ([LU 48:1.1](/es/The_Urantia_Book/48#p1_1))
+> «Los reinos morontiales son las esferas del universo local que enlazan los niveles materiales y los niveles espirituales de existencia de las criaturas. Esta vida morontial se ha conocido en Urantia desde los primeros tiempos del Príncipe Planetario. Este estado de transición se ha enseñado de vez en cuando a los mortales, y el concepto ha encontrado su sitio de manera desvirtuada en las religiones de hoy en día.» (<a id="a51_421"></a>[LU 48:1.1](/es/The_Urantia_Book/48#p1_1))
 
 3\. Según un dogma celta: las almas de los muertos vuelan hacia Occidente (al nacer procedían de Oriente). De ahí, más o menos culto solar - Sorprendente paralelo con la orientación geográfica de las Revelaciones que, en principio, en el Pasado, llegaron al Este de Urantia; ¡pero el último de los cuales (el quinto) llegó bien al Oeste, a Chicago!
 

@@ -50,7 +50,7 @@ Así, pasamos del nivel del Infinito al nivel absoluto y luego al nivel último 
 
 ## El principio de CAUSalidad
 
-> «La conciencia cósmica implica el reconocimiento de una Causa Primera, la sola y única realidad sin causa. Dios, el Padre Universal, actúa en tres niveles de personalidad de la Deidad, que tienen un valor subinfinito y expresan de manera relativa la divinidad:» ([ [LU 0:2.2](/es/The_Urantia_Book/0#p2_2))
+> «La conciencia cósmica implica el reconocimiento de una Causa Primera, la sola y única realidad sin causa. Dios, el Padre Universal, actúa en tres niveles de personalidad de la Deidad, que tienen un valor subinfinito y expresan de manera relativa la divinidad:» (<a id="a52_265"></a>[ [LU 0:2.2](/es/The_Urantia_Book/0#p2_2))
 
 > “La causalidad es la relación que se establece entre una causa y su efecto, el vínculo que los une. La causa es lo que produce algo, lo que está en su origen. El efecto es cuál es la consecuencia”.
 
@@ -62,7 +62,7 @@ Descartes basó su metafísica en un primer principio: Dios. Afirmó que este pr
 
 Además de la definición de Causa Primera, el _Libro de Urantia_ introduce la idea de varias causas primeras y causas secundarias, cuya definición es la siguiente:
 
-> «La distinción vital entre las causas primeras y las causas segundas reside en el hecho de que las causas primeras producen unos efectos originales que están libres de la herencia de cualquier factor derivado de toda causalidad anterior. Las causas secundarias producen unos efectos que muestran invariablemente la herencia de otra causalidad precedente.» ([[LU 118:4.2](/es/The_Urantia_Book/118#p4_2))
+> «La distinción vital entre las causas primeras y las causas segundas reside en el hecho de que las causas primeras producen unos efectos originales que están libres de la herencia de cualquier factor derivado de toda causalidad anterior. Las causas secundarias producen unos efectos que muestran invariablemente la herencia de otra causalidad precedente.» (<a id="a64_359"></a>[[LU 118:4.2](/es/The_Urantia_Book/118#p4_2))
 
 Esta afirmación de “una multitud de primeras causas” desafía la razón filosófica y la lógica científica y parece contradecir lo que afirma el Divino Consejero “_el reconocimiento de una Primera Causa, la única realidad sin causa”.
 
@@ -103,13 +103,13 @@ Al separar lo deificado de lo no deificado, lo potencial de lo real y a través 
 
 Veamos cómo funciona el principio de causalidad desde el nivel de los Absolutos hasta el nivel de los seres finitos, es decir, cómo se crean los universos y sus habitantes.
 
-Para ello, revisemos la naturaleza y los atributos del Absoluto de la Deidad, el Absoluto Incalificado y el Absoluto Universal porque son ellos los que contienen los potenciales causales y las capacidades actualizables del YO SOY y es sobre ellos que la Trinidad del Paraíso en la forma de la Trinidad de la Ultimidad en el nivel absonito y la Trinidad de la Supremacía en los niveles finitos los activa. [[LU 106:8.9](/es/The_Urantia_Book/106#p8_9)] Esta es la razón por la cual la revelación de la realidad actualizada debe ser siempre parcial y menor que su potencialidad porque los Absolutos son ilimitados, eternos e infinitos, nada puede agotarlos.
+Para ello, revisemos la naturaleza y los atributos del Absoluto de la Deidad, el Absoluto Incalificado y el Absoluto Universal porque son ellos los que contienen los potenciales causales y las capacidades actualizables del YO SOY y es sobre ellos que la Trinidad del Paraíso en la forma de la Trinidad de la Ultimidad en el nivel absonito y la Trinidad de la Supremacía en los niveles finitos los activa. <a id="a105_405"></a>[[LU 106:8.9](/es/The_Urantia_Book/106#p8_9)] Esta es la razón por la cual la revelación de la realidad actualizada debe ser siempre parcial y menor que su potencialidad porque los Absolutos son ilimitados, eternos e infinitos, nada puede agotarlos.
 
 Pero, antes de continuar, recordemos que: «Dios es amor», su actitud personal única hacia los asuntos del universo es, por tanto, siempre una reacción del afecto divino. » De esta afirmación se desprende que las acciones, las causas y los efectos están, en última instancia, motivados por el amor, el deseo de hacer el bien; la causalidad resultante está imbuida de ello.
 
 ## Los Absolutos de Potencialidad
 
-> Cuando el pensamiento combinado del Padre Universal y del Hijo Eterno, actuando a través del Dios de Acción, estableció la creación del universo central y divino, el Padre llevó a cabo la expresión de su pensamiento por medio de la palabra de su Hijo y la acción de su Ejecutivo Conjunto, diferenciando su presencia en Havona de los potenciales de la infinidad. Estos potenciales infinitos no revelados permanecen espacialmente ocultos en el Absoluto Incalificado y divinamente disimulados en el Absoluto de la Deidad, mientras que estos dos últimos actúan como uno solo a través del Absoluto Universal, la unidad-infinidad no revelada del Padre Paradisiaco. ([[LU 0:11.1](/es/The_Urantia_Book/0#p11_1))
+> Cuando el pensamiento combinado del Padre Universal y del Hijo Eterno, actuando a través del Dios de Acción, estableció la creación del universo central y divino, el Padre llevó a cabo la expresión de su pensamiento por medio de la palabra de su Hijo y la acción de su Ejecutivo Conjunto, diferenciando su presencia en Havona de los potenciales de la infinidad. Estos potenciales infinitos no revelados permanecen espacialmente ocultos en el Absoluto Incalificado y divinamente disimulados en el Absoluto de la Deidad, mientras que estos dos últimos actúan como uno solo a través del Absoluto Universal, la unidad-infinidad no revelada del Padre Paradisiaco. (<a id="a111_662"></a>[[LU 0:11.1](/es/The_Urantia_Book/0#p11_1))
 
 Los Absolutos de Potencialidad son existenciales en la actualidad pero experienciales en la manifestación.
 
@@ -122,14 +122,14 @@ Los Absolutos de Potencialidad son existenciales en la actualidad pero experienc
 
 **El Absoluto Incalificado.**
 
-1. El Absoluto Incalificado es la revelación potencial de la energía YO SOY, el depósito que contiene la infinidad no revelada de todos los potenciales no deidad y no personales que han sido separados del YO SOY total por la volición de la Primera Causa. Está desprovisto de personalidad, divinidad y cualquier prerrogativa creativa. [[LU 0:11.7](/es/The_Urantia_Book/0#p11_7)]
-2. El Absoluto Incalificado es estático; por eso el poder del espacio [[LU 11:7.4](/es/The_Urantia_Book/11#p7_4)] que contiene no está sujeto a la atracción gravitacional del Paraíso. [[LU 11:8.8](/es/The_Urantia_Book/11#p8_8)]
+1. El Absoluto Incalificado es la revelación potencial de la energía YO SOY, el depósito que contiene la infinidad no revelada de todos los potenciales no deidad y no personales que han sido separados del YO SOY total por la volición de la Primera Causa. Está desprovisto de personalidad, divinidad y cualquier prerrogativa creativa. <a id="a124_334"></a>[[LU 0:11.7](/es/The_Urantia_Book/0#p11_7)]
+2. El Absoluto Incalificado es estático; por eso el poder del espacio <a id="a125_70"></a>[[LU 11:7.4](/es/The_Urantia_Book/11#p7_4)] que contiene no está sujeto a la atracción gravitacional del Paraíso. <a id="a125_184"></a>[[LU 11:8.8](/es/The_Urantia_Book/11#p8_8)]
 3. Es reactivo y expectante: Las causalidades emergentes, finitas, absonitas y absolutas del Absoluto de la Deidad desencadenan efectos correspondientes en el Absoluto Incalificado que se vuelve reactivo. Por tanto, está condicionado por la Deidad.
 4. El espacio limita la función de lo No Calificado, pero la presencia de lo No Calificado es ilimitada, es infinita. A medida que tiene lugar la formación de los universos, el poder del espacio manipulado por los agentes del Espíritu Infinito da paso a las energías del Paraíso sensibles a la gravedad y, en consecuencia, la presencia del Absoluto Incalificado se retira.
 
 **El Absoluto Universal.**
 
-> «Lo finito sólo puede coexistir en el cosmos con lo Infinito a causa de la presencia asociativa del Absoluto Universal, que iguala tan perfectamente las tensiones entre el tiempo y la eternidad, la finitud y la infinidad, el potencial de la realidad y la actualidad de la realidad, el Paraíso y el espacio, el hombre y Dios. Asociativamente, el Absoluto Universal constituye la identificación de la zona de realidad evolutiva en progreso que existe en los universos del espacio-tiempo y del espacio-tiempo trascendido, donde se manifiesta la Deidad subinfinita.» ([[LU 0:11.13](/es/The_Urantia_Book/0#p11_13))
+> «Lo finito sólo puede coexistir en el cosmos con lo Infinito a causa de la presencia asociativa del Absoluto Universal, que iguala tan perfectamente las tensiones entre el tiempo y la eternidad, la finitud y la infinidad, el potencial de la realidad y la actualidad de la realidad, el Paraíso y el espacio, el hombre y Dios. Asociativamente, el Absoluto Universal constituye la identificación de la zona de realidad evolutiva en progreso que existe en los universos del espacio-tiempo y del espacio-tiempo trascendido, donde se manifiesta la Deidad subinfinita.» (<a id="a131_566"></a>[[LU 0:11.13](/es/The_Urantia_Book/0#p11_13))
 
 1. El Absoluto Universal es el unificador de lo deificado y lo no deificado; el correlador de lo absoluto y lo relativo.
 2. El Absoluto Universal es el mecanismo que coordina, unifica y compensa la tensión entre lo existencial y lo experiencial.

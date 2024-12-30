@@ -69,7 +69,7 @@ Hay decenas de acciones posibles fuera de este marco, acciones en la sociedad ci
 
 Un último ejemplo. ¿No sería bueno y fácil, en estos tiempos llamados sombríos, presentar algunas de las citas del capítulo sobre la mota morontial, aunque sólo sea la siguiente?
 
-Hay que dejar de lado la ansiedad. Las decepciones más difíciles de soportar son las que nunca suceden ([LU 48:7.21](/es/The_Urantia_Book/48#p7_21)) Pero hay muchas otras.
+Hay que dejar de lado la ansiedad. Las decepciones más difíciles de soportar son las que nunca suceden (<a id="a71_104"></a>[LU 48:7.21](/es/The_Urantia_Book/48#p7_21)) Pero hay muchas otras.
 
 Jean-Royer
 

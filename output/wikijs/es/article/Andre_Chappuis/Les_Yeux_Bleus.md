@@ -54,7 +54,7 @@ Los ojos azules han resistido la prueba del tiempo y se han extendido por mileni
 
 _Pasajes relevantes del Libro de Urantia:_
 
-> _Adán y Eva fueron los fundadores de la raza de hombres violetas, la novena raza humana que apareció en Urantia. Adán y sus descendientes tenían los ojos azules, y los pueblos violetas se caracterizaban por tener la tez clara y el cabello rubio —amarillo, rojo y castaño._ ([LU 76:4.1](/es/The_Urantia_Book/76#p4_1))
+> _Adán y Eva fueron los fundadores de la raza de hombres violetas, la novena raza humana que apareció en Urantia. Adán y sus descendientes tenían los ojos azules, y los pueblos violetas se caracterizaban por tener la tez clara y el cabello rubio —amarillo, rojo y castaño._ (<a id="a56_276"></a>[LU 76:4.1](/es/The_Urantia_Book/76#p4_1))
 
 La asociación de ojos y azules no aparece en ninguna otra parte del Libro de Urantia. Por tanto, parece que Adán y Eva fueron los primeros seres humanos de nuestro planeta en tener ojos azules. En este caso no se trata de una mutación, como se dijo anteriormente, sino de una característica de la raza púrpura fundada por Adán y Eva.
 

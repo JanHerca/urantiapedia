@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francine Fortin<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Correspondance_de_Jacques_Weiss_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondencia de Jacques Weiss</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Cadieux/Propos_et_sentiments_lors_du_congres_2024">
+          <span class="pr-2">Comentarios y sentimientos durante la conferencia de 2024 de la Asociación Urantia Internacional. La naturaleza y cultura del alma. Baltimore, Maryland, 28 al 31 de marzo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -25,7 +49,7 @@ Un magnífico centro confortable con piscina cubierta, equipado con 232 habitaci
 El nombre Maritime, haciendo referencia a todo lo relacionado con la marina, ha inspirado a más de un lector la siguiente cita de El libro de Urantia:
 <br style="clear:both;"/>
 
-> «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores.» ([LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
+> «La mente es vuestro buque, el Ajustador es vuestro piloto, la voluntad humana es el capitán. El dueño del navío mortal debería tener la sabiduría de confiar en el piloto divino para que guíe su alma ascendente hacia los puertos morontiales de la supervivencia eterna. La voluntad del hombre sólo puede rechazar la guía de un piloto tan amoroso por egoísmo, pereza y maldad, y hacer naufragar finalmente su carrera como mortal en los nefastos bancos de arena del rechazo de la misericordia y en los arrecifes del abrazo del pecado. Con vuestro consentimiento, este piloto fiel os llevará de manera segura a través de las barreras del tiempo y de los obstáculos del espacio, hasta la fuente misma de la mente divina e incluso más allá, hasta el Padre Paradisiaco de los Ajustadores.» (<a id="a51_786"></a>[LU 111:1.9](/es/The_Urantia_Book/111#p1_9))
 
 Los dos días estuvieron ocupados por un programa muy bien orquestado.
 
@@ -99,3 +123,28 @@ Espero haberles dado el deseo de participar en el próximo congreso de la UAI qu
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-mai-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Correspondance_de_Jacques_Weiss_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondencia de Jacques Weiss</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-378-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 378 — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Cadieux/Propos_et_sentiments_lors_du_congres_2024">
+          <span class="pr-2">Comentarios y sentimientos durante la conferencia de 2024 de la Asociación Urantia Internacional. La naturaleza y cultura del alma. Baltimore, Maryland, 28 al 31 de marzo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

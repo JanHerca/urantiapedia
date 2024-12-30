@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Gaétan G. Charland<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 375 — Enero de 2024 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Depart_dun_grand_homme">
+          <span class="pr-2">¡Partida de un gran hombre!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -41,9 +65,9 @@ Se fue, ciertamente feliz ante la idea de encontrar a quienes lo precedieron en 
 
 Me gustaría referirme también a un artículo publicado en la prensa el 18 de diciembre, titulado «Y si nos ofreciéramos un estallido de sabiduría». Este artículo menciona un libro escrito por Amin Maalouf, un escritor notable. Lo que me llamó la atención es la perspicacia y sabiduría de este escritor, particularmente en su obra «El Laberinto de los Perdidos», donde subraya: «_La humanidad vive hoy uno de los períodos más peligrosos de su historia._» En conclusión de su libro, cita a Shakespeare: «_Lo que ha sucedido es sólo un prólogo. Lo que está por venir depende de ti y de mí._»
 
-Recuerde esta cita de _El Libro de Urantia_ sobre nuestros tiempos cruciales: «Urantia tiembla ahora al borde mismo de una de sus épocas más asombrosas y emocionantes de adaptación social, estimulación moral e iluminación espiritual» ([LU 195:9.2](/es/The_Urantia_Book/195#p9_2)). Estos períodos, a pesar de sus desafíos, son momentos de grandiosas revelaciones ([LU 195:9.3](/es/The_Urantia_Book/195#p9_3)).
+Recuerde esta cita de _El Libro de Urantia_ sobre nuestros tiempos cruciales: «Urantia tiembla ahora al borde mismo de una de sus épocas más asombrosas y emocionantes de adaptación social, estimulación moral e iluminación espiritual» (<a id="a67_235"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)). Estos períodos, a pesar de sus desafíos, son momentos de grandiosas revelaciones (<a id="a67_363"></a>[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)).
 
-Entonces, ¿qué podemos hacer para ayudar a nuestro mundo a superar este momento difícil y emerger más fuertes? Cada uno de nosotros puede contribuir significativamente a la mejora de nuestra sociedad. Hay múltiples maneras de servir y enseñar simultáneamente, compartiendo estas enseñanzas de manera simple y efectiva. Todo comienza con vivir estas enseñanzas, integrándolas no sólo en nuestro intelecto, sino también en nuestro corazón. Como señala __El Libro de Urantia__, «La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y sus incomparables enseñanzas» ([LU 195:9.4](/es/The_Urantia_Book/195#p9_4)).
+Entonces, ¿qué podemos hacer para ayudar a nuestro mundo a superar este momento difícil y emerger más fuertes? Cada uno de nosotros puede contribuir significativamente a la mejora de nuestra sociedad. Hay múltiples maneras de servir y enseñar simultáneamente, compartiendo estas enseñanzas de manera simple y efectiva. Todo comienza con vivir estas enseñanzas, integrándolas no sólo en nuestro intelecto, sino también en nuestro corazón. Como señala __El Libro de Urantia__, «La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y sus incomparables enseñanzas» (<a id="a69_623"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)).
 
 ¿Estamos preparados para asumir este desafío? Siempre he afirmado, y lo reitero, que todos tenemos la oportunidad de compartir nuestro pensamiento en los periódicos, expresando opiniones informadas que podrían ser publicadas y ayudar a sensibilizar a quienes los leen. Aunque estas opiniones no encuentren su lugar en las columnas, al menos serán leídas por el editor de la sección. Incluso puedes escribirle al periodista que escribió el artículo que te interesó.
 
@@ -56,3 +80,28 @@ Concluiré citando una vez más a Amin Maalouf: «_Debemos animar a las personas
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reflectivite/2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflectivité — Número 375 — Enero de 2024 — Contenido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Depart_dun_grand_homme">
+          <span class="pr-2">¡Partida de un gran hombre!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

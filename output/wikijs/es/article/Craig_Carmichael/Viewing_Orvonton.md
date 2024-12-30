@@ -42,13 +42,13 @@ Mirando hacia el sur desde Casiopea y hacia Cygnus y más allá, los principales
 <img src="/image/article/Craig_Carmichael/MilkeWae-3b.jpg"> 
 </figure> 
 
-He marcado con un círculo lo que identifico provisionalmente como sectores mayores, pero los dos círculos que se muestran en la parte inferior derecha probablemente sean parte de nuestro propio sector mayor, Splandon. Aunque no puedo distinguir las constelaciones, ellas y la delgada línea curva de características que parecen extenderse hacia el centro de la elipse principal pueden ser partes de las «dos grandes corrientes de nubes de estrellas» [LU 15:3.5](/es/The_Urantia_Book/15#p3_5) de nuestro sector menor en la constelación de Sagitario.
+He marcado con un círculo lo que identifico provisionalmente como sectores mayores, pero los dos círculos que se muestran en la parte inferior derecha probablemente sean parte de nuestro propio sector mayor, Splandon. Aunque no puedo distinguir las constelaciones, ellas y la delgada línea curva de características que parecen extenderse hacia el centro de la elipse principal pueden ser partes de las «dos grandes corrientes de nubes de estrellas» <a id="a44_449"></a>[LU 15:3.5](/es/The_Urantia_Book/15#p3_5) de nuestro sector menor en la constelación de Sagitario.
 
 No afirmo que lo haya resuelto todo, pero como esquema general parece coincidir con la descripción del LU de Orvonton mucho mejor que cualquier cosa que haya visto hasta ahora. 
 
 
 ## Referencias 
 
-[^1]: «... forma una agrupación circular y alargada parecida a un reloj, que ocupa alrededor de una séptima parte de los universos evolutivos habitados.» «...cuya anchura es mucho más grande que el espesor, y cuya longitud es mucho mayor que la anchura.» «El número de estrellas y de otras esferas decrece al alejarnos del plano principal de nuestro superuniverso material.» [LU 15:3.1-3](/es/The_Urantia_Book/15#p3_1) 
+[^1]: «... forma una agrupación circular y alargada parecida a un reloj, que ocupa alrededor de una séptima parte de los universos evolutivos habitados.» «...cuya anchura es mucho más grande que el espesor, y cuya longitud es mucho mayor que la anchura.» «El número de estrellas y de otras esferas decrece al alejarnos del plano principal de nuestro superuniverso material.» <a id="a51_375"></a>[LU 15:3.1-3](/es/The_Urantia_Book/15#p3_1) 
 
-[^2]: «De las diez divisiones mayores de Orvonton, los astrónomos urantianos han identificado más o menos ocho.» [LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
+[^2]: «De las diez divisiones mayores de Orvonton, los astrónomos urantianos han identificado más o menos ocho.» <a id="a53_113"></a>[LU 15:3.4](/es/The_Urantia_Book/15#p3_4)

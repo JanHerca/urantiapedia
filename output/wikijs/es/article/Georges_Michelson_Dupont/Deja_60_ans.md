@@ -64,7 +64,7 @@ Finalmente, encontré en el servicio desinteresado un sentido útil para mi vida
 
 ## ¿Mediante qué técnica se transmitió esta revelación?
 
-Muchos lectores hacen esta pregunta legítima, pero quizás nunca encuentren una respuesta completa. Sin embargo, el propio Libro de Urantia proporciona algunos detalles sobre el modus operandi de transmisión y el lector atento habrá notado los siguientes párrafos: [LU 110:5.7](/es/The_Urantia_Book/110#p5_7); [LU 113:2.6](/es/The_Urantia_Book/113#p2_6); [LU 113:2.7](/es/The_Urantia_Book/113#p2_7); [LU 114:7.9](/es/The_Urantia_Book/114#p7_9).
+Muchos lectores hacen esta pregunta legítima, pero quizás nunca encuentren una respuesta completa. Sin embargo, el propio Libro de Urantia proporciona algunos detalles sobre el modus operandi de transmisión y el lector atento habrá notado los siguientes párrafos: <a id="a66_264"></a>[LU 110:5.7](/es/The_Urantia_Book/110#p5_7); <a id="a66_309"></a>[LU 113:2.6](/es/The_Urantia_Book/113#p2_6); <a id="a66_354"></a>[LU 113:2.7](/es/The_Urantia_Book/113#p2_7); <a id="a66_399"></a>[LU 114:7.9](/es/The_Urantia_Book/114#p7_9).
 
 En su apéndice de The Mind at Mischief, [Funk & Wagnalls Company 1929], el doctor William S. Sadler testifica lo que observó en estos términos:
 
@@ -89,7 +89,7 @@ Desde 1955 se ha recorrido un largo camino; Se han realizado y publicado unas qu
 
 La religión es una experiencia personal que tiene lugar en nuestra vida interior en la presencia de Dios. Al hacer ajustes en nuestra voluntad y transformaciones en nuestra mente, necesariamente debe conducirnos al servicio del prójimo y producir frutos sociales.
 
-> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» ([[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» (<a id="a91_196"></a>[[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
 Así como Jesús dio su consejo final a los apóstoles para la continuación de la misión de la cuarta revelación, los reveladores nos han dado consejos que se pueden encontrar en el [Mandato de Publicación](/es/article/The_Publication_Mandate) en el siguiente enlace:
 
@@ -111,7 +111,7 @@ Los maestros del _Libro de Urantia_ deben estudiar cuidadosamente las enseñanza
 
 Finalmente, estudiar las enseñanzas de El Libro de Urantia puede resultar difícil para algunos; los grupos de estudio son la respuesta adecuada. La antigua orden religiosa se reúne en iglesias, mezquitas, templos y sinagogas para escuchar la buena palabra. Los lectores de El libro de Urantia se reúnen en grupos de estudio dirigidos por un maestro, un experto, para estudiar juntos, compartir su vida espiritual y crear la dinámica de la verdadera hermandad.
 
-> «Al principio, el Padre lo hace todo, pero a medida que se despliega el panorama de la eternidad en respuesta a la voluntad y a los mandatos del Infinito, se hace cada vez más evidente que las criaturas, e incluso los hombres, han de convertirse en los asociados de Dios para llevar a cabo la finalidad del destino. Y esto es cierto incluso en la vida en la carne; cuando el hombre y Dios forman una asociación, no se puede poner ninguna limitación a las posibilidades futuras de esa asociación. Cuando el hombre se da cuenta de que el Padre Universal es su asociado en la progresión eterna, cuando fusiona con la presencia interior del Padre, ha roto en espíritu las cadenas del tiempo y ya ha entrado en las progresiones de la eternidad en busca del Padre Universal.» ([[LU 118:5.2](/es/The_Urantia_Book/118#p5_2))
+> «Al principio, el Padre lo hace todo, pero a medida que se despliega el panorama de la eternidad en respuesta a la voluntad y a los mandatos del Infinito, se hace cada vez más evidente que las criaturas, e incluso los hombres, han de convertirse en los asociados de Dios para llevar a cabo la finalidad del destino. Y esto es cierto incluso en la vida en la carne; cuando el hombre y Dios forman una asociación, no se puede poner ninguna limitación a las posibilidades futuras de esa asociación. Cuando el hombre se da cuenta de que el Padre Universal es su asociado en la progresión eterna, cuando fusiona con la presencia interior del Padre, ha roto en espíritu las cadenas del tiempo y ya ha entrado en las progresiones de la eternidad en busca del Padre Universal.» (<a id="a113_773"></a>[[LU 118:5.2](/es/The_Urantia_Book/118#p5_2))
 
 _Georges Michelson-Dupont. Recerrado_
 

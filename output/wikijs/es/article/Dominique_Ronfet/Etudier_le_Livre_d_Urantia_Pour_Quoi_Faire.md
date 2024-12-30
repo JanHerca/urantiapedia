@@ -146,7 +146,7 @@ Pero encuentro que aún nos falta madurar para encarnar un poco más al investig
 
 \- Está bien. Terminaré simplemente con este extraño pasaje que nos recuerda que el alma debe tomar el testigo, cuando el intelecto ha llegado al límite de sus posibilidades.
 
-> «_La mente conoce la cantidad, la realidad, los significados. Pero la calidad —los valores— se *siente*. Aquello que siente es la creación conjunta de la mente que conoce y del espíritu asociado que lo convierte en una realidad._» ([[LU 111:3.6](/es/The_Urantia_Book/111#p3_6))
+> «_La mente conoce la cantidad, la realidad, los significados. Pero la calidad —los valores— se *siente*. Aquello que siente es la creación conjunta de la mente que conoce y del espíritu asociado que lo convierte en una realidad._» (<a id="a148_234"></a>[[LU 111:3.6](/es/The_Urantia_Book/111#p3_6))
 
 
 

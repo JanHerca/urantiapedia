@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Gaétan Charland<br>© 2023 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Larga cronología de la segunda edad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="pr-2">Los Círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -28,11 +52,11 @@ Más cerca de nosotros, las noticias están llenas de ejemplos en los que la aut
 
 Aún necesitamos entender qué significa esta regla para no interpretarla de manera egoísta y libertaria. Aquí hay tres citas que resaltan la regla de oro.
 
-> «_La aparición de la auténtica fraternidad significa que ha llegado un orden social en el que todos los hombres se complacen en llevar las cargas de los demás; desean practicar realmente la regla de oro._» ([LU 71:4.16](/es/The_Urantia_Book/71#p4_16))
+> «_La aparición de la auténtica fraternidad significa que ha llegado un orden social en el que todos los hombres se complacen en llevar las cargas de los demás; desean practicar realmente la regla de oro._» (<a id="a54_209"></a>[LU 71:4.16](/es/The_Urantia_Book/71#p4_16))
 
-> «_...la religión revelada hace cada vez más hincapié en el amor, en la regla de oro._» ([LU 101:5.11](/es/The_Urantia_Book/101#p5_11))
+> «_...la religión revelada hace cada vez más hincapié en el amor, en la regla de oro._» (<a id="a56_90"></a>[LU 101:5.11](/es/The_Urantia_Book/101#p5_11))
 
-> «_...Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._» ([LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
+> «_...Cuando esos mortales conducidos por el espíritu se dan cuenta del verdadero significado de esta regla de oro, se llenan a rebosar con la certeza de ser ciudadanos de un universo amistoso, y sus ideales de realidad espiritual sólo se satisfacen cuando aman a sus semejantes como Jesús nos amó a todos. Ésta es la realidad de la comprensión del amor de Dios._» (<a id="a58_367"></a>[LU 180:5.8](/es/The_Urantia_Book/180#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/007.jpg">
@@ -43,9 +67,9 @@ Si volvemos a esta idea de la verdadera libertad, seguramente será necesario ha
 
 El pensamiento luciferino en su expresión de libertad sin licencia continúa creando sufrimiento en nuestro mundo y cesará el día en que cada hombre y mujer asuma su condición de hijos e hijas de Dios. El mensaje liberador de Jesús sobre la paternidad de Dios y la hermandad del hombre es aún más necesario en nuestro tiempo y para muchas generaciones venideras.
 
-> «_...La meta última del logro más avanzado de la sociedad nunca puede esperar trascender la fraternidad de los hombres enseñada por Jesús, basada en el reconocimiento de la paternidad de Dios. El ideal de todo logro social sólo se puede realizar con la llegada de este reino divino._» ([LU 196:2.11](/es/The_Urantia_Book/196#p2_11))
+> «_...La meta última del logro más avanzado de la sociedad nunca puede esperar trascender la fraternidad de los hombres enseñada por Jesús, basada en el reconocimiento de la paternidad de Dios. El ideal de todo logro social sólo se puede realizar con la llegada de este reino divino._» (<a id="a69_288"></a>[LU 196:2.11](/es/The_Urantia_Book/196#p2_11))
 
-Este es un mensaje simple que cada uno de nosotros puede transmitir, pero debe ser reformulado y presentado en términos que expresen las relaciones familiares como bien dice Jesús en el documento [LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
+Este es un mensaje simple que cada uno de nosotros puede transmitir, pero debe ser reformulado y presentado en términos que expresen las relaciones familiares como bien dice Jesús en el documento <a id="a71_196"></a>[LU 142:7.4](/es/The_Urantia_Book/142#p7_4)
 
 Los invito a discutir entre amigos o en el seno de su grupo de estudio este tema tan presente hoy en nuestra sociedad y a darse cuenta de hasta qué punto vivimos en una época llena de oportunidades de todo tipo para hacer germinar los significados de la verdadera libertad. Con demasiada frecuencia pensamos que nuestra única misión es dar a conocer ***El Libro de Urantia***, no olvidemos que son las enseñanzas que contiene las que tienen un valor supremo cuando cobran vida a través de nuestro servicio a los demás.
 
@@ -61,3 +85,28 @@ Recordemos lo que Jesús decía muchas veces: por sus frutos los conoceréis.
 
 Amar es servir
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Des_Lierres/Ligne_du_temps_long_du_deuxieme_age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Larga cronología de la segunda edad.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-366-abril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 366 — Abril 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Les_cercles_psychiques">
+          <span class="pr-2">Los Círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

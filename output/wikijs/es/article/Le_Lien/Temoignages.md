@@ -59,7 +59,7 @@ Se lanza la convocatoria: ¡prepárense para la reunión europea de 2025!
 
 <br estilo=«claro:ambos;»/>
 
-> Todas las miríadas de sistemas planetarios fueron hechos para ser finalmente habitados por numerosos tipos diferentes de criaturas inteligentes, de seres que pudieran conocer a Dios, recibir el afecto divino y amarle a cambio. El universo de universos es la obra de Dios y el lugar donde residen sus diversas criaturas. «Dios creó los cielos y formó la Tierra; estableció el universo y no creó este mundo en vano; lo formó para que fuera habitado»{1}. ([LU 1:0.2](/es/The_Urantia_Book/1#p0_2))
+> Todas las miríadas de sistemas planetarios fueron hechos para ser finalmente habitados por numerosos tipos diferentes de criaturas inteligentes, de seres que pudieran conocer a Dios, recibir el afecto divino y amarle a cambio. El universo de universos es la obra de Dios y el lugar donde residen sus diversas criaturas. «Dios creó los cielos y formó la Tierra; estableció el universo y no creó este mundo en vano; lo formó para que fuera habitado»{1}. (<a id="a61_455"></a>[LU 1:0.2](/es/The_Urantia_Book/1#p0_2))
 
 ## Cómo (re)me volví “adicto” a la Fraternidad Urantiana en La Neylière.
 

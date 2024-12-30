@@ -40,7 +40,7 @@ Para no perder el hilo de la demostración, siempre debemos tener presente que e
 
 **<ins>Párrafo en el que el huevo hace la gallina</ins>**
 
-Las páginas 6 y 7 del Libro de Urantia sugieren que la Realidad se actualiza a partir de los tres Absolutos. Estos últimos son por definición del pensamiento combinado de las Deidades Trinitarias ([LU 0:11.1](/es/The_Urantia_Book/0#p11_1)) y son el potencial de la Realidad. Son de alguna manera la Pre-realidad absoluta.
+Las páginas 6 y 7 del Libro de Urantia sugieren que la Realidad se actualiza a partir de los tres Absolutos. Estos últimos son por definición del pensamiento combinado de las Deidades Trinitarias (<a id="a42_197"></a>[LU 0:11.1](/es/The_Urantia_Book/0#p11_1)) y son el potencial de la Realidad. Son de alguna manera la Pre-realidad absoluta.
 
 1º El Absoluto Incalificado traerá a la existencia la _realidad no divinizada_ que también podríamos llamar realidad no personalizable. Nunca ni en ninguna parte del universo maestro la personalidad y la deidad serán fruto del Absoluto Incalificado. Ésta sólo se ocupa de lo que se convertirá en sustancia o forma.
 

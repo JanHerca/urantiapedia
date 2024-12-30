@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Claude Flibotte<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Precisions_sur_letude_des_textes_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Detalles sobre el estudio de los textos de Urantia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-376-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Statistiques_sur_les_groupes_detude">
+          <span class="pr-2">Estadísticas de los grupos de estudio del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -83,7 +107,7 @@ Excelente respuesta! Los diferentes términos para describir la energía se encu
 
 Es interesante aquí que la IA me sugiere que los intermedios primarios están hechos de _energía poderosa_. Esto sería una revelación para mí, porque no había diseñado tal constitución para los intermedios primarios. ¡Cuestiono esta afirmación aquí, porque el nivel de realidad de la energía poderosa me parece demasiado alto para constituir la naturaleza de los medianos primarios! . Sin embargo, ¡puede que me equivoque! Veamos qué nos revela ***El Libro de Urantia*** sobre la energía poderosa:
 
-> <span style="color:SteelBlue;">a. *La energía potente*. Es la energía poderosamente orientable, movida por la masa, con una tensión muy fuerte y una reacción enérgica —los gigantescos sistemas de energía puestos en movimiento por las actividades de los organizadores primarios de la fuerza. Esta energía primaria o potente no es al principio claramente sensible a la atracción gravitatoria del Paraíso, aunque la masa de su conjunto o su orientación espacial producen probablemente una reacción ante el grupo colectivo de influencias absolutas que operan en la parte inferior del Paraíso. Cuando la energía emerge hasta el nivel de reaccionar inicialmente a la atracción gravitatoria circular y absoluta del Paraíso, los organizadores primarios de la fuerza ceden el paso a la actividad de sus asociados secundarios.</span> ([LU 42:2.11](/es/The_Urantia_Book/42#p2_11))
+> <span style="color:SteelBlue;">a. *La energía potente*. Es la energía poderosamente orientable, movida por la masa, con una tensión muy fuerte y una reacción enérgica —los gigantescos sistemas de energía puestos en movimiento por las actividades de los organizadores primarios de la fuerza. Esta energía primaria o potente no es al principio claramente sensible a la atracción gravitatoria del Paraíso, aunque la masa de su conjunto o su orientación espacial producen probablemente una reacción ante el grupo colectivo de influencias absolutas que operan en la parte inferior del Paraíso. Cuando la energía emerge hasta el nivel de reaccionar inicialmente a la atracción gravitatoria circular y absoluta del Paraíso, los organizadores primarios de la fuerza ceden el paso a la actividad de sus asociados secundarios.</span> (<a id="a109_827"></a>[LU 42:2.11](/es/The_Urantia_Book/42#p2_11))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2024_02/012.jpg">
@@ -96,11 +120,11 @@ Es interesante aquí que la IA me sugiere que los intermedios primarios están h
 ¿Sería posible que los cien de Caligastia, después de su estancia en los siete mundos mansión, los siete satélites de Jerusem y en la capital de nuestro sistema, pudieran tener el conocimiento y la habilidad para manipular esta fuerza primordial? Lo dudo, porque son los Organizadores Primarios de la Fuerza Maestra Exteriorizada del Paraíso quienes transmutan el poder del espacio para producir la energía emergente en dos aspectos, la energía poderosa y la energía gravitacional.
 <br style="clear:both;"/>
 
-> <span style="color:SteelBlue;">2. *La fuerza primordial*. Representa el primer cambio fundamental en la potencia espacial y puede tratarse de una de las funciones del Absoluto Incalificado en el bajo Paraíso. Sabemos que la presencia espacial que sale del bajo Paraíso es modificada de alguna manera por aquella que entra. Pero sin tener en cuenta estas posibles relaciones, la transmutación abiertamente reconocida de la potencia espacial en fuerza primordial es la función diferenciadora primaria de la presencia-tensión de los organizadores de la fuerza vivientes del Paraíso.</span> ([LU 42:2.7](/es/The_Urantia_Book/42#p2_7))
+> <span style="color:SteelBlue;">2. *La fuerza primordial*. Representa el primer cambio fundamental en la potencia espacial y puede tratarse de una de las funciones del Absoluto Incalificado en el bajo Paraíso. Sabemos que la presencia espacial que sale del bajo Paraíso es modificada de alguna manera por aquella que entra. Pero sin tener en cuenta estas posibles relaciones, la transmutación abiertamente reconocida de la potencia espacial en fuerza primordial es la función diferenciadora primaria de la presencia-tensión de los organizadores de la fuerza vivientes del Paraíso.</span> (<a id="a122_590"></a>[LU 42:2.7](/es/The_Urantia_Book/42#p2_7))
 
-> <span style="color:SteelBlue;">La fuerza pasiva y potencial se vuelve activa y primordial en respuesta a la resistencia ofrecida por la presencia espacial de los Organizadores Maestros de la Fuerza Existenciados Primarios. La fuerza emerge entonces del dominio exclusivo del Absoluto Incalificado hacia los reinos de la reacción múltiple —de la reacción a ciertos movimientos primordiales iniciados por el Dios de Acción y luego a ciertos movimientos compensatorios que proceden del Absoluto Universal. La fuerza primordial parece reaccionar a la causalidad trascendental en proporción a la absolutidad.</span> ([LU 42:2.8](/es/The_Urantia_Book/42#p2_8))
+> <span style="color:SteelBlue;">La fuerza pasiva y potencial se vuelve activa y primordial en respuesta a la resistencia ofrecida por la presencia espacial de los Organizadores Maestros de la Fuerza Existenciados Primarios. La fuerza emerge entonces del dominio exclusivo del Absoluto Incalificado hacia los reinos de la reacción múltiple —de la reacción a ciertos movimientos primordiales iniciados por el Dios de Acción y luego a ciertos movimientos compensatorios que proceden del Absoluto Universal. La fuerza primordial parece reaccionar a la causalidad trascendental en proporción a la absolutidad.</span> (<a id="a124_614"></a>[LU 42:2.8](/es/The_Urantia_Book/42#p2_8))
 
-> <span style="color:SteelBlue;">La fuerza primordial se denomina a veces *energía pura*; en Uversa nos referimos a ella con el nombre de segregata.</span> ([LU 42:2.9](/es/The_Urantia_Book/42#p2_9))
+> <span style="color:SteelBlue;">La fuerza primordial se denomina a veces *energía pura*; en Uversa nos referimos a ella con el nombre de segregata.</span> (<a id="a126_157"></a>[LU 42:2.9](/es/The_Urantia_Book/42#p2_9))
 
 **¿Cómo podemos explicar que los cien de Caligastia conocieran la manipulación de energía poderosa para crear a los intermedios primarios?**
 
@@ -108,7 +132,7 @@ Es interesante aquí que la IA me sugiere que los intermedios primarios están h
 
 Dado que los Cien Caligastia vinieron de diferentes planetas con culturas y tecnologías posiblemente anteriores a las nuestras, y tenían conocimiento de los mundos morontiales, es obvio que sabían sobre la manipulación de la energía. Sin embargo, no olvidemos que vivieron en Urantia hace aproximadamente quinientos mil años y que la tecnología de la época era sin duda muy primitiva. El conocimiento no siempre proporciona los medios para lograr los propios fines. Una relectura del apartado 5 del fascículo 66, sobre las diez divisiones de las escuelas del Príncipe, nos ofrece un retrato.
 
-> <span style="color:SteelBlue;">Los cien de Caligastia —diplomados de los mundos de las mansiones de Satania— conocían muy bien las artes y la cultura de Jerusem, pero estos conocimientos casi no tienen valor en un planeta bárbaro poblado por unos humanos primitivos. Estos seres sabios sabían que no debían emprender la transformación *repentina*, o la elevación en masa, de las razas primitivas de aquella época. Comprendían muy bien la lenta evolución de la especie humana, y se abstuvieron prudentemente de cualquier intento radical por modificar la manera de vivir de los hombres en la Tierra.</span> ([LU 66:6.3](/es/The_Urantia_Book/66#p6_3))
+> <span style="color:SteelBlue;">Los cien de Caligastia —diplomados de los mundos de las mansiones de Satania— conocían muy bien las artes y la cultura de Jerusem, pero estos conocimientos casi no tienen valor en un planeta bárbaro poblado por unos humanos primitivos. Estos seres sabios sabían que no debían emprender la transformación *repentina*, o la elevación en masa, de las razas primitivas de aquella época. Comprendían muy bien la lenta evolución de la especie humana, y se abstuvieron prudentemente de cualquier intento radical por modificar la manera de vivir de los hombres en la Tierra.</span> (<a id="a134_608"></a>[LU 66:6.3](/es/The_Urantia_Book/66#p6_3))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2024_02/013.jpg">
@@ -121,9 +145,9 @@ Dado que los Cien Caligastia vinieron de diferentes planetas con culturas y tecn
 No sé si los intermedios primarios realmente pueden controlar los tipos de energías mencionadas; sin embargo, según mi comprensión de los Controladores Físicos Maestros, creo que es parte de sus funciones transformar ciertas energías para hacerlas disponibles en el nivel material.
 <br style="clear:both;"/>
 
-> <span style="color:SteelBlue;">Los mundos individuales están a cargo de los Controladores Físicos Maestros y reciben las líneas del poder incorporadas en circuitos enviadas por el centro del poder de su sistema.</span> ([LU 29:2.19](/es/The_Urantia_Book/29#p2_19))
+> <span style="color:SteelBlue;">Los mundos individuales están a cargo de los Controladores Físicos Maestros y reciben las líneas del poder incorporadas en circuitos enviadas por el centro del poder de su sistema.</span> (<a id="a147_222"></a>[LU 29:2.19](/es/The_Urantia_Book/29#p2_19))
 
-> <span style="color:SteelBlue;">Los Controladores Físicos Maestros ejercen a menudo su actividad en grupos de cientos, de miles, e incluso de millones y, variando sus posiciones y sus formaciones, son capaces de controlar la energía de forma colectiva así como individual.</span> ([LU 29:4.21](/es/The_Urantia_Book/29#p4_21))
+> <span style="color:SteelBlue;">Los Controladores Físicos Maestros ejercen a menudo su actividad en grupos de cientos, de miles, e incluso de millones y, variando sus posiciones y sus formaciones, son capaces de controlar la energía de forma colectiva así como individual.</span> (<a id="a149_282"></a>[LU 29:4.21](/es/The_Urantia_Book/29#p4_21))
 
 **¿Los intermedios secundarios utilizan diferentes formas de energía que los intermedios primarios?**
 
@@ -131,17 +155,17 @@ No sé si los intermedios primarios realmente pueden controlar los tipos de ener
 
 Esta explicación de las habilidades de las dos categorías de seres intermedios proviene claramente de la siguiente cita. Lo que me hace pensar que no son los intermedios primarios quienes controlan las energías, sino a través de su relación con los controladores de energía morontial y espiritual quienes tienen esta función de capacidad. ¡A menos que estos controladores de energía sean el equivalente de máquinas vivientes sin poder de toma de decisiones utilizables por cualquiera que tenga el poder!
 
-> <span style="color:SteelBlue;">Los intermedios primarios se parecen más a los ángeles que a los mortales; las órdenes secundarias se parecen mucho más a los seres humanos. Cada una de ellas aporta una ayuda inapreciable a la otra en la ejecución de sus múltiples tareas planetarias. Los ministros primarios pueden conseguir cooperar en enlace tanto con los controladores de la energía morontial y espiritual como con los que tienen que ver con el circuito mental. El grupo secundario sólo puede establecer relaciones de trabajo con los controladores físicos y los manipuladores de los circuitos materiales. Pero, puesto que cada orden de intermedios puede establecer un perfecto sincronismo de contacto con la otra, cada grupo es capaz de utilizar en la práctica toda la gama de energías que se extienden desde el poder físico bruto de los mundos materiales, pasando por las fases de transición de las energías universales, hasta las fuerzas superiores de la realidad espiritual de los reinos celestiales.</span> ([LU 38:9.8](/es/The_Urantia_Book/38#p9_8))
+> <span style="color:SteelBlue;">Los intermedios primarios se parecen más a los ángeles que a los mortales; las órdenes secundarias se parecen mucho más a los seres humanos. Cada una de ellas aporta una ayuda inapreciable a la otra en la ejecución de sus múltiples tareas planetarias. Los ministros primarios pueden conseguir cooperar en enlace tanto con los controladores de la energía morontial y espiritual como con los que tienen que ver con el circuito mental. El grupo secundario sólo puede establecer relaciones de trabajo con los controladores físicos y los manipuladores de los circuitos materiales. Pero, puesto que cada orden de intermedios puede establecer un perfecto sincronismo de contacto con la otra, cada grupo es capaz de utilizar en la práctica toda la gama de energías que se extienden desde el poder físico bruto de los mundos materiales, pasando por las fases de transición de las energías universales, hasta las fuerzas superiores de la realidad espiritual de los reinos celestiales.</span> (<a id="a157_1016"></a>[LU 38:9.8](/es/The_Urantia_Book/38#p9_8))
 
 **¿La creación de seres intermedios primarios en Urantia tiene que ver con la energía mental?**
 
 <span style="color:green;">Sí, la creación de los intermedios primarios en Urantia está vinculada a la energía mental. Estas brillantes criaturas de luz se sustentan directamente mediante la absorción de energía espiritual de los circuitos primarios del universo. Sin embargo, los mortales de Urantia deben obtener energía luminosa a través de la encarnación vegetativa. Los intermedios primarios son capaces de contactar y asimilar energías vitales de una manera similar a la absorción de las enseñanzas circulantes de los Hijos Docentes de la Trinidad. Su trabajo principal es ayudar a los hombres y mujeres que constituyen el cuerpo de reserva planetaria del destino. Sin embargo, no están involucrados en los fenómenos del «espiritualismo» y generalmente no permiten que los humanos sean testigos de sus actividades físicas o de sus contactos con el mundo material.</span>
 
-Supongo aquí que los _Hijos Docentes de la Trinidad_ designan, después de la traducción del inglés al francés, los Hijos Docentes de la Trinidad. En [LU 39:9.2](/es/The_Urantia_Book/39#p9_2), se menciona que _los intermedios primarios reciben su energía intelectual y espiritual a través de técnicas angelicales, y su estado intelectual es uniforme_. ¿Significa esto que los intermedios primarios que _son capaces de contactar y asimilar las energías de la vida_ absorben directamente la Monota, esta energía viva y no espiritual del Paraíso ([LU 42:2.19](/es/The_Urantia_Book/42#p2_19))?
+Supongo aquí que los _Hijos Docentes de la Trinidad_ designan, después de la traducción del inglés al francés, los Hijos Docentes de la Trinidad. En <a id="a163_149"></a>[LU 39:9.2](/es/The_Urantia_Book/39#p9_2), se menciona que _los intermedios primarios reciben su energía intelectual y espiritual a través de técnicas angelicales, y su estado intelectual es uniforme_. ¿Significa esto que los intermedios primarios que _son capaces de contactar y asimilar las energías de la vida_ absorben directamente la Monota, esta energía viva y no espiritual del Paraíso (<a id="a163_543"></a>[LU 42:2.19](/es/The_Urantia_Book/42#p2_19))?
 
-> <span style="color:SteelBlue;">Sabemos que los Hijos Instructores Trinitarios están dedicados a la iluminación *consciente* de las criaturas del universo. He llegado a la firme conclusión de que, mediante unas técnicas *superconscientes,* los Espíritus Inspirados Trinitarios también actúan como instructores de los reinos.</span> ([LU 19:5.9](/es/The_Urantia_Book/19#p5_9))
+> <span style="color:SteelBlue;">Sabemos que los Hijos Instructores Trinitarios están dedicados a la iluminación *consciente* de las criaturas del universo. He llegado a la firme conclusión de que, mediante unas técnicas *superconscientes,* los Espíritus Inspirados Trinitarios también actúan como instructores de los reinos.</span> (<a id="a165_334"></a>[LU 19:5.9](/es/The_Urantia_Book/19#p5_9))
 
-> <span style="color:SteelBlue;">Estos seres forman el único grupo de Hijos de Dios que os ha sido revelado cuyo origen se encuentra en la Trinidad del Paraíso. Recorren el universo central y los superuniversos, y un cuerpo muy numeroso está asignado a cada universo local. Sirven también en los distintos planetas tal como lo hacen los otros Hijos Paradisiacos de Dios.</span> ([LU 19:1.3](/es/The_Urantia_Book/19#p1_3))
+> <span style="color:SteelBlue;">Estos seres forman el único grupo de Hijos de Dios que os ha sido revelado cuyo origen se encuentra en la Trinidad del Paraíso. Recorren el universo central y los superuniversos, y un cuerpo muy numeroso está asignado a cada universo local. Sirven también en los distintos planetas tal como lo hacen los otros Hijos Paradisiacos de Dios.</span> (<a id="a167_379"></a>[LU 19:1.3](/es/The_Urantia_Book/19#p1_3))
 
 **¿Puedes explicarme mediante qué técnica los miembros del personal de Caligastia pudieron crear los puntos medios primarios?**
 
@@ -190,7 +214,7 @@ Um... ¡en realidad no! ¡Me hubiera gustado una información un poco más espec
 
 En otras palabras, la inteligencia morontial nos permite percibir el mundo y el universo de forma cósmica en el sentido de una percepción más justa y realista gracias a las mayores capacidades de la mente cósmica.
 
-> <span style="color:SteelBlue;">En nuestro esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual, ...</span> ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
+> <span style="color:SteelBlue;">En nuestro esfuerzo por aumentar la conciencia cósmica y elevar la percepción espiritual, ...</span> (<a id="a216_135"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2024_02/015.jpg">
@@ -208,7 +232,7 @@ En otras palabras, la inteligencia morontial nos permite percibir el mundo y el 
 
 Sería útil aquí establecer la conexión entre la inteligencia morontial y el cruce de los siete círculos psíquicos.
 
-> <span style="color:SteelBlue;">Estos círculos psíquicos de progresión mortal quizás deberían denominarse mejor *niveles cósmicos* —unos niveles donde se captan realmente los significados y se comprenden los valores del acercamiento progresivo a la conciencia morontial de la relación inicial entre el alma evolutiva y el Ser Supremo emergente. Esta misma relación es la que hace imposible para siempre explicar plenamente el significado de los círculos cósmicos a la mente material. La conquista de estos círculos sólo tiene una relación relativa con la conciencia de Dios. Una persona que se encuentra en el séptimo o sexto círculo puede conocer a Dios —ser consciente de su filiación— casi tan bien como aquella que esté en el segundo o el primer círculo, pero estos seres de los círculos inferiores son mucho menos conscientes de su relación experiencial con el Ser Supremo, de su ciudadanía universal. La conquista de estos círculos cósmicos formará parte de la experiencia de los ascendentes en los mundos de las mansiones, si no han logrado alcanzarlos antes de la muerte natural.</span> ([LU 110:6.16](/es/The_Urantia_Book/110#p6_16))
+> <span style="color:SteelBlue;">Estos círculos psíquicos de progresión mortal quizás deberían denominarse mejor *niveles cósmicos* —unos niveles donde se captan realmente los significados y se comprenden los valores del acercamiento progresivo a la conciencia morontial de la relación inicial entre el alma evolutiva y el Ser Supremo emergente. Esta misma relación es la que hace imposible para siempre explicar plenamente el significado de los círculos cósmicos a la mente material. La conquista de estos círculos sólo tiene una relación relativa con la conciencia de Dios. Una persona que se encuentra en el séptimo o sexto círculo puede conocer a Dios —ser consciente de su filiación— casi tan bien como aquella que esté en el segundo o el primer círculo, pero estos seres de los círculos inferiores son mucho menos conscientes de su relación experiencial con el Ser Supremo, de su ciudadanía universal. La conquista de estos círculos cósmicos formará parte de la experiencia de los ascendentes en los mundos de las mansiones, si no han logrado alcanzarlos antes de la muerte natural.</span> (<a id="a234_1097"></a>[LU 110:6.16](/es/The_Urantia_Book/110#p6_16))
 
 **¿Qué puedo hacer para desarrollar aún más mi inteligencia morontial?**
 
@@ -231,3 +255,28 @@ No hace falta decir que la IA no puede revelar información que no esté ya cont
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite-fevrier-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Precisions_sur_letude_des_textes_dUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Detalles sobre el estudio de los textos de Urantia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-376-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 376 — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gaetan_Charland/Statistiques_sur_les_groupes_detude">
+          <span class="pr-2">Estadísticas de los grupos de estudio del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

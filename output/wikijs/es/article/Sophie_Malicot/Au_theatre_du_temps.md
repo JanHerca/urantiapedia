@@ -48,7 +48,7 @@ El tiempo es a la vez una realidad cotidiana y un concepto difícil de entender,
 > «Existen tres niveles diferentes de conocimiento del tiempo:»
 > 1. El tiempo percibido por la mente —la conciencia de las secuencias, del movimiento y un sentido de la duración.
 > 2. El tiempo percibido por el espíritu —la percepción del movimiento hacia Dios y la conciencia del movimiento ascendente hacia niveles de divinidad creciente.
-> 3. La personalidad *crea* un sentido único del tiempo mediante su percepción de la Realidad, más una conciencia de la presencia y un conocimiento de la duración. ([LU 12:5.6-9](/es/The_Urantia_Book/12#p5_6))
+> 3. La personalidad *crea* un sentido único del tiempo mediante su percepción de la Realidad, más una conciencia de la presencia y un conocimiento de la duración. (<a id="a50_165"></a>[LU 12:5.6-9](/es/The_Urantia_Book/12#p5_6))
 
 **1\. Tiempo percibido mentalmente**: conciencia de secuencia, movimiento y sentido de duración.
 

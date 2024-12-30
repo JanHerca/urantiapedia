@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jean Lapierre<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/L_etat_ideal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡El estado ideal!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Le_pouvoir_transformateur_de_la_priere">
+          <span class="pr-2">No subestimemos el poder transformador de la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -23,7 +47,7 @@ Durante nuestro grupo de estudio, nos dimos cuenta de que no era necesaria ningu
 Esto se debe a que en las revelaciones de Urantia podemos deducir varias razones para justificar las revelaciones de época:
 <br style="clear:both;"/>
 
-1\. Para expandir nuestra conciencia cósmica y mejorar nuestra percepción espiritual [LU 0:0.2](/es/The_Urantia_Book/0#p0_2).
+1\. Para expandir nuestra conciencia cósmica y mejorar nuestra percepción espiritual <a id="a49_85"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2).
 2\. Las religiones institucionales actualmente en nuestro planeta poseen muy pocas de las características deseables descritas en el Documento 99.
 3\.
 
@@ -32,7 +56,7 @@ Esto se debe a que en las revelaciones de Urantia podemos deducir varias razones
 > 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
 > 3. El restablecimiento de importantes fragmentos de conocimientos perdidos relacionados con acontecimientos históricos del pasado lejano.
 > 4. El suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras.
-> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. ([LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5))
+> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. (<a id="a58_144"></a>[LU 101:4.5-10](/es/The_Urantia_Book/101#p4_5))
 
 4\. La gran brecha que existe en nuestras sociedades entre el progreso material y científico respecto al progreso espiritual, que aún es embrionario, se debe principalmente a la rebelión de Lucifer y a la culpa adámica.
 
@@ -43,3 +67,28 @@ Esto se debe a que en las revelaciones de Urantia podemos deducir varias razones
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/L_etat_ideal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡El estado ideal!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/Le_pouvoir_transformateur_de_la_priere">
+          <span class="pr-2">No subestimemos el poder transformador de la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

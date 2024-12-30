@@ -37,7 +37,7 @@ dateCreated: 2024-10-17T22:23:59Z
 - ¿Por qué la búsqueda de la libertad parece ser un deseo siempre insatisfecho?
 - Parece que tenemos dificultades para identificarnos en este espacio de libertad.
 
-Como se dice: “La libertad no existe fuera de la realidad cósmica…” [LU 54:1.4](/es/The_Urantia_Book/54#p1_4)
+Como se dice: “La libertad no existe fuera de la realidad cósmica…” <a id="a39_68"></a>[LU 54:1.4](/es/The_Urantia_Book/54#p1_4)
 
 - En definitiva, siempre hay un problema de integración de una “personalidad”, del “¿Quién soy yo?” » en una “realidad” (espacio) cuyas reglas descubrimos todos los días.
 - ¿Un poco como el patio de una escuela?

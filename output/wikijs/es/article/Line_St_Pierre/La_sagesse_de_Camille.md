@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Line St-Pierre<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Audet/Le_median_de_lapotre_Andre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ser intermedio del apóstol Andrés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/L_etat_ideal">
+          <span class="pr-2">¡El estado ideal!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -50,3 +74,28 @@ Este libro está dirigido a un público de todas las edades, desde el buscador d
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Audet/Le_median_de_lapotre_Andre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ser intermedio del apóstol Andrés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/L_etat_ideal">
+          <span class="pr-2">¡El estado ideal!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

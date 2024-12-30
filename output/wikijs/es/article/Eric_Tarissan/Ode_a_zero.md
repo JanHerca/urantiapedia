@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Éric Tarissan<br>© 2022 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo y niveles de conciencia.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="pr-2">La experiencia de la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
@@ -70,3 +94,28 @@ Fue en este día lejano e inolvidable, todos unidos, que dieron origen a la cien
 :zero:
 <br style="clear:both;"/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Temps_et_niveaux_de_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo y niveles de conciencia.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-357-julio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 357 — Julio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Lexperience_de_la_perfection">
+          <span class="pr-2">La experiencia de la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

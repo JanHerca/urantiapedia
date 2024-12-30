@@ -38,7 +38,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 - Hmmm...tal vez sea por el clima.
 - ¿¿Tiempo??
 - Sí, podemos preguntarnos, como Bergson, si la “duración” no añade una dimensión que interfiere con nuestra capacidad de comprender la realidad.
-- ¿Como no poder “determinar de manera precisa y simultánea la posición exacta y la velocidad de un objeto en movimiento, cualquier intento de medir una conduce inevitablemente a una modificación de la otra” [LU 65:6.1](/es/The_Urantia_Book/65#p6_1)?
+- ¿Como no poder “determinar de manera precisa y simultánea la posición exacta y la velocidad de un objeto en movimiento, cualquier intento de medir una conduce inevitablemente a una modificación de la otra” <a id="a40_208"></a>[LU 65:6.1](/es/The_Urantia_Book/65#p6_1)?
 - Bien hecho, veo que el señor conoce sus clásicos.
 - Gracias, gracias...pero entonces ¿cómo lo sabemos?
 - Hmmm...tal vez por intuición. Pero escuchemos a nuestro querido Bergson: "Aquí llamamos intuición a la simpatía mediante la cual nos transportamos dentro de un objeto para coincidir con lo que en él es inexpresable... Hay al menos una realidad que todos podemos captar mediante la intuición. Es nuestra propia persona en su fluir a través del tiempo. Es nuestro yo el que perdura. »1

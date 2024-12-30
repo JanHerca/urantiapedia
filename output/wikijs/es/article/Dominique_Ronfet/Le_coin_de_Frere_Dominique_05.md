@@ -38,7 +38,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 (¿En qué sentido vivir?)
 
-> 3. El anhelo de la personalidad por parecerse a Dios —el deseo sincero de hacer la voluntad del Padre{16}. ([LU 1:2.6](/es/The_Urantia_Book/1#p2_6))
+> 3. El anhelo de la personalidad por parecerse a Dios —el deseo sincero de hacer la voluntad del Padre{16}. (<a id="a40_110"></a>[LU 1:2.6](/es/The_Urantia_Book/1#p2_6))
 
 ¿Entonces el deseo precede a la voluntad?
 Quien se conoce a sí mismo, conoce su deseo.

@@ -51,7 +51,7 @@ condujo a descubrimientos sorprendentes, revelando al mismo tiempo una dimensió
 
 Otra observación extraña es que este ministro francés de Cultura (1959-1969) predijo claramente el declive del materialismo y de las religiones institucionales y dogmáticas a partir del siglo XXI. Y esto, sin embargo, no sin haber previsto, según él, una transición lamentable, es decir, el surgimiento de fundamentalismos religiosos tardíos.
 
-Correlacionemos esto con esta afirmación de [LU 195:9.3](/es/The_Urantia_Book/195#p9_3): «_Urantia se encuentra actualmente al borde de una de sus épocas más asombrosas y emocionantes de adaptación social, estimulación moral e iluminación espiritual».
+Correlacionemos esto con esta afirmación de <a id="a53_44"></a>[LU 195:9.3](/es/The_Urantia_Book/195#p9_3): «_Urantia se encuentra actualmente al borde de una de sus épocas más asombrosas y emocionantes de adaptación social, estimulación moral e iluminación espiritual».
 
 Las dos particularidades de la vida mental de este ilustre hombre nos animaron a profundizar en sus ideas sobre el Más Allá.
 

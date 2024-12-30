@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Página [LU 39:4.11](/es/The_Urantia_Book/39#p4_11) “_No podemos tomar mucho sin dar nada. A medida que asciendes en la escala de la personalidad, aprendes <ins>primero a ser leal, luego a amar, luego a ser filial</ins>, y luego podrás ser libre.
+Página <a id="a37_7"></a>[LU 39:4.11](/es/The_Urantia_Book/39#p4_11) “_No podemos tomar mucho sin dar nada. A medida que asciendes en la escala de la personalidad, aprendes <ins>primero a ser leal, luego a amar, luego a ser filial</ins>, y luego podrás ser libre.
 
 1— <ins>primero sé leal</ins>. La lealtad es fruto de una apreciación inteligente de la hermandad del hombre. Pero ser leal a tus hermanos pasa primero por una fase de lealtad a ti mismo. La lealtad es inconcebible sin sinceridad y rectitud. Estas dos características personales son los primeros escalones a escalar en nuestra búsqueda de la “Libertad”.
 
@@ -49,7 +49,7 @@ Sí, verdaderamente, reclamar la libertad es sólo una ilusión porque la verdad
 
 A través de la relación personal que se mantiene entre el ser humano y la chispa divina que habita en su mente se encuentra la “Verdadera Libertad”. Esta relación sólo puede resultar en amor, porque Dios es “Amor”. Sólo podemos ejercer eficazmente nuestro libre albedrío en la medida en que nuestras elecciones sean libres, libres de conceptos erróneos y miedos. Cualquier relación entre personalidades humanas o divinas sólo puede realizarse con sinceridad, rectitud, fidelidad, lealtad, confianza y valentía. Por eso se nos dice:
 
-> _Las llaves del reino{1} de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan —elevan su estado espiritual— mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste —en cualquier esfera, y en todas ellas— en elegir hacer la voluntad de Dios. Si el hombre elige hacerla, *es* grande, aunque sea el ciudadano más humilde de Jerusem o incluso el mortal más insignificante de Urantia._ ([LU 39:4.14](/es/The_Urantia_Book/39#p4_14))
+> _Las llaves del reino{1} de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan —elevan su estado espiritual— mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste —en cualquier esfera, y en todas ellas— en elegir hacer la voluntad de Dios. Si el hombre elige hacerla, *es* grande, aunque sea el ciudadano más humilde de Jerusem o incluso el mortal más insignificante de Urantia._ (<a id="a51_574"></a>[LU 39:4.14](/es/The_Urantia_Book/39#p4_14))
 
 2— <ins>luego amar</ins>. ¿Quién soy yo para hablar de amor? ¡Yo tan pequeña por mi condición humana y animal!... ¡Pero tan grande por el amor que se consume en mí y que se desarrolla hasta el infinito! El amor es mi meta, mi destino, porque sólo el amor puede hacer eterno. Estoy en la tierra para aprender a amar.
 
@@ -61,7 +61,7 @@ El amor no tiene límites, es absoluto. Proviene de Dios Absoluto y regresa a Di
 
 Lo que podemos decir del amor, también lo podemos decir de la libertad. El amor es la puerta a la libertad. Sólo una mente liberada de sus miedos y regida por el amor que libera, es capaz de elecciones decisivas y eternas. Es el amor el que salva: “¡si no tengo amor no soy nada!” ". El amor comienza con uno mismo, luego con el otro, luego se vuelve social, luego se vuelve fraternal y finalmente paternal. Sólo el amor permite que nuestro libre albedrío sea eficaz en sus decisiones, en su manera de descubrir la voluntad divina dentro de nosotros y aceptar hacer esa voluntad. Dar nuestro amor a los demás, sin miedo y sin sacrificio, es hacer lo que Dios quiere para nosotros y para los demás. ¡Amar es servir en y con el Supremo! ¡Amar es darlo todo a los demás con felicidad!
 
-3— <ins>ser filial entonces</ins>. [LU 115:0.1](/es/The_Urantia_Book/115#p0_1) “Con Dios Padre, la gran relación es la filiación.” La paternidad de Dios no es real sin filiación. ¡Para cumplir su papel de padre, Dios necesita que seamos sus hijos!
+3— <ins>ser filial entonces</ins>. <a id="a63_35"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1) “Con Dios Padre, la gran relación es la filiación.” La paternidad de Dios no es real sin filiación. ¡Para cumplir su papel de padre, Dios necesita que seamos sus hijos!
 
 Somos hijos de Dios por la fe. ¿Cómo no ser libre cuando eres “hijo de Dios” y has puesto tu destino en manos de un padre benevolente y todopoderoso? “Hágase tu voluntad” adquiere un nuevo significado; se trata de pensar ahora: “que mi voluntad sea unificada con la tuya” o “que mi voluntad sea hacer tu voluntad”. Cuando somos capaces de expresar y sentir esto en lo más profundo de nuestra alma con sinceridad, habremos hecho la elección suprema. Y, si nuestra mente nos falla, porque no siempre es lúcida con precisión y justicia, podemos entonces, de mutuo acuerdo con el Padre, utilizar la mente de Jesús, hijo del hombre. Nuestro libre albedrío ya no nos importa porque está confiado al cuidado de quien ya amamos en la eternidad. Está conferido a alguien más grande que nos espera y nos libera.
 

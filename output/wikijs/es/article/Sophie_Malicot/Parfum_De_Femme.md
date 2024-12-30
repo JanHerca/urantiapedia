@@ -85,7 +85,7 @@ La resurrección es en primavera. En el nido, el pajarito ha crecido. Es hora de
 
 Sofía MALICOT
 
-Muchos términos de esta historia han sido tomados prestados de los siguientes folletos: [LU 189:4](/es/The_Urantia_Book/189#p4) // [LU 189:5](/es/The_Urantia_Book/189#p5) // [LU 190:0](/es/The_Urantia_Book/190) // [LU 190:2.5](/es/The_Urantia_Book/190#p2_5) // [LU 193:3.1](/es/The_Urantia_Book/193#p3_1) // [LU 196:3.34](/es/The_Urantia_Book/196#p3_34) // [LU 142:2.4](/es/The_Urantia_Book/142#p2_4)
+Muchos términos de esta historia han sido tomados prestados de los siguientes folletos: <a id="a87_88"></a>[LU 189:4](/es/The_Urantia_Book/189#p4) // <a id="a87_131"></a>[LU 189:5](/es/The_Urantia_Book/189#p5) // [LU 190:0](/es/The_Urantia_Book/190) // <a id="a87_214"></a>[LU 190:2.5](/es/The_Urantia_Book/190#p2_5) // <a id="a87_261"></a>[LU 193:3.1](/es/The_Urantia_Book/193#p3_1) // <a id="a87_308"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34) // <a id="a87_357"></a>[LU 142:2.4](/es/The_Urantia_Book/142#p2_4)
 
 
 

@@ -59,7 +59,7 @@ Tengo la esperanza de que la palabra “agondontario” se aplique a todos aquel
 
 ¡Qué lástima quizás para la carrera de Mensajero Poderoso! Pero en cualquier caso, ¡es seguro que haré lo que pueda para ser abrazado por la Trinidad del Paraíso! ¿Qué elegirías tú en mi lugar? ¿Criado con autoridad o sin nombre ni número?
 
-> «_Vosotros, los mortales que leéis este mensaje, podéis ascender hasta el Paraíso, conseguir el abrazo de la Trinidad, ser destinados en las épocas lejanas futuras al servicio de los Ancianos de los Días en uno de los siete superuniversos, y recibir alguna vez la misión de ampliar la revelación de la verdad en algún planeta habitado en evolución, tal como yo lo hago actualmente en Urantia._» ([LU 22:4.7](/es/The_Urantia_Book/22#p4_7))
+> «_Vosotros, los mortales que leéis este mensaje, podéis ascender hasta el Paraíso, conseguir el abrazo de la Trinidad, ser destinados en las épocas lejanas futuras al servicio de los Ancianos de los Días en uno de los siete superuniversos, y recibir alguna vez la misión de ampliar la revelación de la verdad en algún planeta habitado en evolución, tal como yo lo hago actualmente en Urantia._» (<a id="a61_398"></a>[LU 22:4.7](/es/The_Urantia_Book/22#p4_7))
 
 Jean-Claude Romeuf
 

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Claude Flibotte<br>© 2021 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">la personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Claude Flibotte_
@@ -40,3 +61,25 @@ Toda nuestra aventura, desde nuestro planeta de origen hasta el Paraíso, se alo
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-Special-ete-2021.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_humaine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">la personalidad humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-346-julio-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 346 — Julio 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Claude Flibotte<br>© 2024 Asociación Urantia de Quebec</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/La_sagesse_de_Camille">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de Camille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conscience_du_Supreme">
+          <span class="pr-2">Conciencia del Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -44,7 +68,7 @@ La democracia es un sistema abierto y sólido protegido por la ley (separación 
 
 ¿Qué nos enseña Melquisedec, autor del documento 71, sobre los orígenes de la formación del Estado?
 
-> ... el Estado no tiene una génesis divina; ni siquiera ha sido causado por una acción humana volitivamente inteligente; es una institución puramente evolutiva y tuvo un origen totalmente automático. ([LU 71:0.2](/es/The_Urantia_Book/71#p0_2))
+> ... el Estado no tiene una génesis divina; ni siquiera ha sido causado por una acción humana volitivamente inteligente; es una institución puramente evolutiva y tuvo un origen totalmente automático. (<a id="a70_202"></a>[LU 71:0.2](/es/The_Urantia_Book/71#p0_2))
 
 Les dejo a ustedes la lectura o relectura de este documento donde la primera sección nos cuenta más sobre la formación embrionaria del Estado, sus debilidades y sus fortalezas.
 
@@ -52,15 +76,15 @@ Les dejo a ustedes la lectura o relectura de este documento donde la primera sec
 
 Aunque la democracia es un ideal, es producto de la civilización y no de la evolución. Melquisedec nos advierte de los peligros de la democracia en la siguiente enumeración:
 
-> 1\. La glorificación de la mediocridad. ([LU 71:2.2](/es/The_Urantia_Book/71#p2_2))
+> 1\. La glorificación de la mediocridad. (<a id="a78_43"></a>[LU 71:2.2](/es/The_Urantia_Book/71#p2_2))
 
 Un líder debe estar motivado en su deber para con el pueblo por los ideales más elevados y no por un deseo de reconocimiento, poder, bienes materiales u orgullo. La competencia de un líder debe ser la razón principal de su posición de autoridad, por encima de cualquier otra consideración.
 
-> 2\. La elección de unos gobernantes viles e ignorantes. ([LU 71:2.3](/es/The_Urantia_Book/71#p2_3))
+> 2\. La elección de unos gobernantes viles e ignorantes. (<a id="a82_59"></a>[LU 71:2.3](/es/The_Urantia_Book/71#p2_3))
 
 ¡No tiene sentido que les ponga el ejemplo de un ex presidente de los Estados Unidos!
 
-> 3\. La incapacidad para reconocer los hechos fundamentales de la evolución social. ([LU 71:2.4](/es/The_Urantia_Book/71#p2_4))
+> 3\. La incapacidad para reconocer los hechos fundamentales de la evolución social. (<a id="a86_86"></a>[LU 71:2.4](/es/The_Urantia_Book/71#p2_4))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_01/023.jpg">
@@ -69,11 +93,11 @@ Un líder debe estar motivado en su deber para con el pueblo por los ideales má
 La sociedad cambia según los individuos que idealmente evolucionan en el reconocimiento de la paternidad de Dios y la fraternidad de los hombres. El Estado debe tener en cuenta esta evolución, ajustarla y gestionarla en consecuencia.
 <br style="clear:both;"/>
 
-> 4\. El peligro de un sufragio universal en manos de unas mayorías incultas e indolentes. ([LU 71:2.5](/es/The_Urantia_Book/71#p2_5))
+> 4\. El peligro de un sufragio universal en manos de unas mayorías incultas e indolentes. (<a id="a95_92"></a>[LU 71:2.5](/es/The_Urantia_Book/71#p2_5))
 
 De ahí la importancia de brindar a todos una educación completa de lo que debe ser una civilización progresiva y altruista hacia una meta de perfección material, social, fraterna y espiritual.
 
-> 5\. La esclavitud a la opinión pública; la mayoría no siempre tiene razón. ([LU 71:2.6](/es/The_Urantia_Book/71#p2_6))
+> 5\. La esclavitud a la opinión pública; la mayoría no siempre tiene razón. (<a id="a99_78"></a>[LU 71:2.6](/es/The_Urantia_Book/71#p2_6))
 
 La multitud no siempre tiene razón si está mal informada,
 habitados por prejuicios de todo tipo o preocupados sólo por su bienestar egoísta. Una vez leí en alguna parte que la edad mental de una multitud equivale a la de un niño de cinco años.
@@ -103,7 +127,7 @@ Asimismo, nuestro querido Melquisedec nos recuerda la forma práctica, eficaz y 
 > 
 > 9. *El control de los funcionarios públicos*. Ningún gobierno civil será útil y eficaz a menos que los ciudadanos posean y utilicen unas técnicas acertadas para guiar y controlar a los titulares de los cargos públicos y a los funcionarios.
 > 
-> 10. *Unos representantes inteligentes y cualificados*. La supervivencia de la democracia depende del éxito del gobierno representativo, y este éxito está condicionado por la práctica de elegir únicamente para los cargos públicos a aquellas personas que estén técnicamente cualificadas, y sean intelectualmente competentes, socialmente leales y moralmente idóneas. El gobierno del pueblo, por el pueblo y para el pueblo sólo se puede conservar mediante estas disposiciones. ([LU 71:2.10-19](/es/The_Urantia_Book/71#p2_10))
+> 10. *Unos representantes inteligentes y cualificados*. La supervivencia de la democracia depende del éxito del gobierno representativo, y este éxito está condicionado por la práctica de elegir únicamente para los cargos públicos a aquellas personas que estén técnicamente cualificadas, y sean intelectualmente competentes, socialmente leales y moralmente idóneas. El gobierno del pueblo, por el pueblo y para el pueblo sólo se puede conservar mediante estas disposiciones. (<a id="a129_476"></a>[LU 71:2.10-19](/es/The_Urantia_Book/71#p2_10))
 
 ## Los ideales del Estado.
 
@@ -115,15 +139,15 @@ Si bien el nacionalismo ha sido beneficioso para unir a un pueblo de una misma c
 > 
 > 2. Un patriotismo inteligente basado en unos ideales sabios.
 > 
-> 3. Una perspicacia cósmica interpretada en función de los hechos, las necesidades y las metas planetarias. ([LU 71:3.3-6](/es/The_Urantia_Book/71#p3_3))
+> 3. Una perspicacia cósmica interpretada en función de los hechos, las necesidades y las metas planetarias. (<a id="a141_110"></a>[LU 71:3.3-6](/es/The_Urantia_Book/71#p3_3))
 
 Actualmente, la sociedad humana está colapsando ante el aumento de personas pobres y sin hogar que invaden las ciudades. ¡Es anormal dejar a todas estas personas con necesidades tan básicas en una carencia tan esencial como comida, un alojamiento confortable y una razón para vivir!
 
-> Una sociedad moral debe aspirar a mantener la autoestima de sus ciudadanos, y proporcionar a todo individuo normal unas oportunidades adecuadas para autorrealizarse. Un proyecto así de realización social produciría una sociedad cultural del tipo más elevado. La evolución social debe ser estimulada por una supervisión gubernamental que ejerza un mínimo de control regulador. El mejor Estado es aquel que coordina más y gobierna menos. ([LU 71:3.9](/es/The_Urantia_Book/71#p3_9))
+> Una sociedad moral debe aspirar a mantener la autoestima de sus ciudadanos, y proporcionar a todo individuo normal unas oportunidades adecuadas para autorrealizarse. Un proyecto así de realización social produciría una sociedad cultural del tipo más elevado. La evolución social debe ser estimulada por una supervisión gubernamental que ejerza un mínimo de control regulador. El mejor Estado es aquel que coordina más y gobierna menos. (<a id="a145_439"></a>[LU 71:3.9](/es/The_Urantia_Book/71#p3_9))
 
 Si el sistema educativo funciona con normalidad, tanto en las instituciones educativas como en la familia de cada cabaña, cada individuo debe ser consciente de la responsabilidad que le incumbe ante la sociedad y actuar en consecuencia para su propio bien y el de todos. La ociosidad es un mal que poco a poco va carcomiendo cualquier sociedad entregada a placeres centrados únicamente en uno mismo. Esta forma responsable de ver el deber hacia la sociedad hará que todos los ciudadanos estén unidos y orientados democráticamente hacia una sociedad que busque lo mejor para todos. Que cada individuo esté motivado y laborioso en la búsqueda del bien común.
 
-> En un Estado auténtico de bien público, los expertos dirigen la tarea de gobernar las ciudades y las provincias, y éstas son administradas de la misma manera que todas las otras formas de asociaciones económicas y comerciales entre personas. ([LU 71:3.11](/es/The_Urantia_Book/71#p3_11))
+> En un Estado auténtico de bien público, los expertos dirigen la tarea de gobernar las ciudades y las provincias, y éstas son administradas de la misma manera que todas las otras formas de asociaciones económicas y comerciales entre personas. (<a id="a149_245"></a>[LU 71:3.11](/es/The_Urantia_Book/71#p3_11))
 
 ## Una civilización progresista.
 
@@ -151,7 +175,7 @@ El Revelador nos enseña que toda civilización sigue siendo progresiva observan
 > 
 > 11. El fomento de la filosofía —la sabiduría.
 > 
-> 12. El aumento de la perspicacia cósmica —la espiritualidad. ([LU 71:4.3-14](/es/The_Urantia_Book/71#p4_3))
+> 12. El aumento de la perspicacia cósmica —la espiritualidad. (<a id="a177_64"></a>[LU 71:4.3-14](/es/The_Urantia_Book/71#p4_3))
 
 Si tuviéramos la sabiduría y el coraje de observar estas doce recomendaciones como sociedad, todos nos beneficiaríamos de una mayor felicidad, de una paz social garantizada, de un verdadero sentimiento universal de hermandad y de una libertad de pensamiento centrada en la búsqueda de la verdad en el descubrimiento de la verdad. belleza de este mundo dentro de un cosmos benévolo.
 
@@ -159,7 +183,7 @@ Si tuviéramos la sabiduría y el coraje de observar estas doce recomendaciones 
 
 Sobre este tema, esto es lo que nos dice Melquisedec:
 
-> Un Estado duradero está basado en la cultura, dominado por los ideales y motivado por el servicio. La finalidad de la educación debería consistir en adquirir habilidad, buscar la sabiduría, desarrollar la individualidad y alcanzar los valores espirituales. ([LU 71:7.1](/es/The_Urantia_Book/71#p7_1))
+> Un Estado duradero está basado en la cultura, dominado por los ideales y motivado por el servicio. La finalidad de la educación debería consistir en adquirir habilidad, buscar la sabiduría, desarrollar la individualidad y alcanzar los valores espirituales. (<a id="a185_260"></a>[LU 71:7.1](/es/The_Urantia_Book/71#p7_1))
 
 ¿Cómo podemos esperar construir un orden mundial saludable si cada individuo que lo integra ignora sus propias capacidades en diversas áreas, la naturaleza y los ideales de comportamiento dentro de la civilización, su responsabilidad para con sus contemporáneos y las generaciones futuras, en resumen, la búsqueda? ¡Por la más alta sabiduría!
 
@@ -182,7 +206,7 @@ Una vez más, Melquisedec nos anima a hacer retroceder aún más nuestra pereza 
 > 6. El amor al servicio —el carácter.
 > 7. La perspicacia cósmica —el discernimiento espiritual.
 > 
-> Luego, gracias a estos logros, muchas personas se elevarán hasta el nivel último que la mente humana puede alcanzar: la conciencia de Dios. ([LU 71:7.5-13](/es/The_Urantia_Book/71#p7_5))
+> Luego, gracias a estos logros, muchas personas se elevarán hasta el nivel último que la mente humana puede alcanzar: la conciencia de Dios. (<a id="a208_143"></a>[LU 71:7.5-13](/es/The_Urantia_Book/71#p7_5))
 
 ## El carácter del Estado.
 
@@ -199,7 +223,7 @@ Al igual que los dominios administrativos del modelo democrático en los mundos 
 > 9. La eliminación de la esclavitud del trabajo duro mediante la invención de máquinas y el dominio posterior de la época mecánica.
 > 10. La victoria sobre los dialectos —el triunfo de una lengua universal.
 > 11. El fin de las guerras —las sentencias internacionales sobre las discrepancias nacionales y raciales serán emitidas por los tribunales continentales de naciones, presididos por un tribunal supremo planetario reclutado automáticamente entre los presidentes de los tribunales continentales que se jubilan periódicamente. Los tribunales continentales tienen autoridad; el tribunal mundial es consultivo —moral.
-> 12. La tendencia mundial a buscar la sabiduría —la exaltación de la filosofía. La evolución de una religión mundial, que presagiará la entrada del planeta en las fases iniciales del establecimiento en la luz y la vida. ([LU 71:8.3-14](/es/The_Urantia_Book/71#p8_3))
+> 12. La tendencia mundial a buscar la sabiduría —la exaltación de la filosofía. La evolución de una religión mundial, que presagiará la entrada del planeta en las fases iniciales del establecimiento en la luz y la vida. (<a id="a225_222"></a>[LU 71:8.3-14](/es/The_Urantia_Book/71#p8_3))
 
 ## La intervención de los seres celestiales en los asuntos humanos.
 
@@ -207,9 +231,9 @@ Al igual que los dominios administrativos del modelo democrático en los mundos 
 <img src="/image/article/Reflectivite/2024_01/026.jpg">
 </figure>
 
-Está escrito que los Altísimos reinan en el dominio de los hombres ([LU 3:5.2](/es/The_Urantia_Book/3#p5_2)). También está escrito en el documento titulado «_Reconstrucciones de elementos sobre los orígenes del Libro de Urantia_» de Mark Kulieke que los intermedios y serafines que participaron en la transmisión de esta quinta revelación de época tenían mucho humor y que repudiaron el Tratado de Versalles. de 1919 (un tratado firmado entre Alemania y los Aliados con el objetivo de frenar el poder militar y económico de Alemania para garantizar la paz), y no pudo evitar tomar partido en el conflicto de la Segunda Guerra Mundial (1939-1945). El mismo texto se encuentra en el sitio web de la AUQ en el documento titulado «_El nacimiento de una revelación_» del mismo autor y traducido por Léonard Glen. Ya leí en un documento que no pude encontrar que los Melquisedec habían declarado una vez la guerra al comunismo, ¡porque esta ideología era contraria al movimiento evolutivo progresivo de la humanidad si mal no recuerdo!
+Está escrito que los Altísimos reinan en el dominio de los hombres (<a id="a233_68"></a>[LU 3:5.2](/es/The_Urantia_Book/3#p5_2)). También está escrito en el documento titulado «_Reconstrucciones de elementos sobre los orígenes del Libro de Urantia_» de Mark Kulieke que los intermedios y serafines que participaron en la transmisión de esta quinta revelación de época tenían mucho humor y que repudiaron el Tratado de Versalles. de 1919 (un tratado firmado entre Alemania y los Aliados con el objetivo de frenar el poder militar y económico de Alemania para garantizar la paz), y no pudo evitar tomar partido en el conflicto de la Segunda Guerra Mundial (1939-1945). El mismo texto se encuentra en el sitio web de la AUQ en el documento titulado «_El nacimiento de una revelación_» del mismo autor y traducido por Léonard Glen. Ya leí en un documento que no pude encontrar que los Melquisedec habían declarado una vez la guerra al comunismo, ¡porque esta ideología era contraria al movimiento evolutivo progresivo de la humanidad si mal no recuerdo!
 
-No podría decir si los seres celestiales están trabajando juntos para preservar la democracia en todo el planeta, pero considerando este sistema político representativo como el mejor modelo para todos, creo que es nuestra responsabilidad asegurar, no sólo que sobreviva, sino que busque constantemente mejorar. Debemos estar absolutamente atentos, porque los peligros son grandes para favorecer un claro descenso de la democracia en el mundo. Como nos dijo Jesús: «Sean cuidadosos como serpientes, pero sencillos como palomas» ([LU 163:1.3](/es/The_Urantia_Book/163#p1_3)).
+No podría decir si los seres celestiales están trabajando juntos para preservar la democracia en todo el planeta, pero considerando este sistema político representativo como el mejor modelo para todos, creo que es nuestra responsabilidad asegurar, no sólo que sobreviva, sino que busque constantemente mejorar. Debemos estar absolutamente atentos, porque los peligros son grandes para favorecer un claro descenso de la democracia en el mundo. Como nos dijo Jesús: «Sean cuidadosos como serpientes, pero sencillos como palomas» (<a id="a235_528"></a>[LU 163:1.3](/es/The_Urantia_Book/163#p1_3)).
 <br style="clear:both;"/>
 
 ## Referencias
@@ -217,3 +241,28 @@ No podría decir si los seres celestiales están trabajando juntos para preserva
 - [Boletín Réflectivité](https://www.urantia-quebec.ca/publications/reflectivite)
 - [Este número (PDF)](https://urantia-quebec.s3.ca-central-1.amazonaws.com/documents/Reflectivite/Reflectivite-aout-2024.pdf)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Line_St_Pierre/La_sagesse_de_Camille">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de Camille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_reflectivite#réflectivité-número-375-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Réflectivité — Número 375 — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Lapierre/Conscience_du_Supreme">
+          <span class="pr-2">Conciencia del Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
