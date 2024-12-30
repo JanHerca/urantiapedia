@@ -42,13 +42,13 @@ En regardant vers le sud depuis Cassiopée et vers Cygnus et au-delà, les princ
 <img src="/image/article/Craig_Carmichael/MilkeWae-3b.jpg">
 </figure>
 
-J'ai entouré ce que j'identifie provisoirement comme des secteurs majeurs, mais les deux cercles représentés en bas à droite font probablement tous deux partie de notre propre secteur majeur, Splandon. Bien que je ne puisse pas distinguer les constellations, elles et la fine ligne courbe de caractéristiques semblant s'étendre jusqu'au centre de l'ellipse principale peuvent faire partie des « deux bobines stellaires stupéfiantes » [LU 15:3.5](/fr/The_Urantia_Book/15#p3_5) de notre secteur mineur dans la constellation du Sagittaire.
+J'ai entouré ce que j'identifie provisoirement comme des secteurs majeurs, mais les deux cercles représentés en bas à droite font probablement tous deux partie de notre propre secteur majeur, Splandon. Bien que je ne puisse pas distinguer les constellations, elles et la fine ligne courbe de caractéristiques semblant s'étendre jusqu'au centre de l'ellipse principale peuvent faire partie des « deux bobines stellaires stupéfiantes » <a id="a44_434"></a>[LU 15:3.5](/fr/The_Urantia_Book/15#p3_5) de notre secteur mineur dans la constellation du Sagittaire.
 
 Je ne prétends pas avoir tout compris, mais dans les grandes lignes, cela semble correspondre à la description de LU d'Orvonton bien mieux que tout ce que j'ai vu jusqu'à présent.
 
 
 ## Références
 
-[^1]: « … forme un groupement ovale allongé à profil de montre englobant environ un septième des univers évolutionnaires habités. » « … la largeur est beaucoup plus grande que l’épaisseur et la longueur beaucoup plus grande que la largeur. » « Le nombre d’étoiles et d’autres sphères décroit quand on s’écarte du plan principal de notre superunivers matériel. » [LU 15:3.1-3](/fr/The_Urantia_Book/15#p3_1)
+[^1]: « … forme un groupement ovale allongé à profil de montre englobant environ un septième des univers évolutionnaires habités. » « … la largeur est beaucoup plus grande que l’épaisseur et la longueur beaucoup plus grande que la largeur. » « Le nombre d’étoiles et d’autres sphères décroit quand on s’écarte du plan principal de notre superunivers matériel. » <a id="a51_362"></a>[LU 15:3.1-3](/fr/The_Urantia_Book/15#p3_1)
 
-[^2]: « Parmi les dix secteurs majeurs d’Orvonton, huit ont été à peu près identifiés par les astronomes urantiens. » [LU 15:3.4](/fr/The_Urantia_Book/15#p3_4)
+[^2]: « Parmi les dix secteurs majeurs d’Orvonton, huit ont été à peu près identifiés par les astronomes urantiens. » <a id="a53_118"></a>[LU 15:3.4](/fr/The_Urantia_Book/15#p3_4)
