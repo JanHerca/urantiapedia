@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Parable of the Oyster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Strands of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The least we can say about this weekend which brought us together in Suresnes is that we were all “disappointed in a good way” and that our spiritual expectations were largely fulfilled! Indeed, the thirty or so readers that we were were literally energized and inspired by the Spirit of Truth throughout this fraternal sharing!
@@ -29,3 +53,28 @@ Today, Jesus still challenges us to follow him and resolutely practice his teach
 
 \* _The texts can be requested from their respective authors or from Max._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/La_Parabole_de_lHuitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Parable of the Oyster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rene_Haldi/Brins_de_Vie">
+          <span class="pr-2">Strands of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

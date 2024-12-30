@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Max Masotti<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Osteoclast</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">Serenity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 According to the dictionary, happiness is a state of perfect inner satisfaction. Defining happiness is not easy. Is it about “small, everyday joys” or a sustainable state of mind?
@@ -49,7 +73,32 @@ Happiness is the joy of existing fully and completely, the joy of being here and
 
 Happiness is not a destination, it is a trajectory. It takes so little to be happy. You just have to appreciate each little moment and sanctify it as one of the best moments of your life. If happiness is the agreement between our desires and the order of the world, then it is better to modify our desires. (Descartes)
 
-See [UB 103:5.5](/en/The_Urantia_Book/103#p5_5) — [UB 111:4.7](/en/The_Urantia_Book/111#p4_7) — [UB 131:3.7](/en/The_Urantia_Book/131#p3_7) — [UB 136:6.10](/en/The_Urantia_Book/136#p6_10) — [UB 140:4.10](/en/The_Urantia_Book/140#p4_10) — [UB 140:5.6](/en/The_Urantia_Book/140#p5_6) — [UB 159:3.10](/en/The_Urantia_Book/159#p3_10) — [UB 159:3.12](/en/The_Urantia_Book/159#p3_12) — [UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
+See <a id="a75_4"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5) — <a id="a75_50"></a>[UB 111:4.7](/en/The_Urantia_Book/111#p4_7) — <a id="a75_96"></a>[UB 131:3.7](/en/The_Urantia_Book/131#p3_7) — <a id="a75_142"></a>[UB 136:6.10](/en/The_Urantia_Book/136#p6_10) — <a id="a75_190"></a>[UB 140:4.10](/en/The_Urantia_Book/140#p4_10) — <a id="a75_238"></a>[UB 140:5.6](/en/The_Urantia_Book/140#p5_6) — <a id="a75_284"></a>[UB 159:3.10](/en/The_Urantia_Book/159#p3_10) — <a id="a75_332"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12) — <a id="a75_380"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Osteoclast</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_serenite">
+          <span class="pr-2">Serenity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

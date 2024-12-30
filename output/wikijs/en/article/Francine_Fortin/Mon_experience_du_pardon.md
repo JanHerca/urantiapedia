@@ -50,7 +50,7 @@ _To your brothers and sisters who find themselves on your path._
 
 _May God bless your steps, at every moment of this new Year 2024 and every day of your Life._ ”
 
-> “Your inability or unwillingness to forgive your fellows is the measure of your immaturity, your failure to attain adult sympathy, understanding, and love. You hold grudges and nurse vengefulness in direct proportion to your ignorance of the inner nature and true longings of your children and your fellow beings. Love is the outworking of the divine and inner urge of life. It is founded on understanding, nurtured by unselfish service, and perfected in wisdom.” ([UB 174:1.5](/en/The_Urantia_Book/174#p1_5))
+> “Your inability or unwillingness to forgive your fellows is the measure of your immaturity, your failure to attain adult sympathy, understanding, and love. You hold grudges and nurse vengefulness in direct proportion to your ignorance of the inner nature and true longings of your children and your fellow beings. Love is the outworking of the divine and inner urge of life. It is founded on understanding, nurtured by unselfish service, and perfected in wisdom.” (<a id="a52_467"></a>[UB 174:1.5](/en/The_Urantia_Book/174#p1_5))
 
 Peace on Earth to women and men of good will.
 

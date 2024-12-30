@@ -44,7 +44,7 @@ Democracy is an open and solid system protected by law (separation of powers, fr
 
 What does Melchizedek, author of booklet 71, teach us about the origin of the formation of the State?
 
-> The modern state is the institution which survived in the long struggle for group power. Superior power eventually prevailed, and it produced a creature of fact—the state—together with the moral myth of the absolute obligation of the citizen to live and die for the state. But the state is not of divine genesis; it was not even produced by volitionally intelligent human action; it is purely an evolutionary institution and was wholly automatic in origin. ([UB 71:0.2](/en/The_Urantia_Book/71#p0_2))
+> The modern state is the institution which survived in the long struggle for group power. Superior power eventually prevailed, and it produced a creature of fact—the state—together with the moral myth of the absolute obligation of the citizen to live and die for the state. But the state is not of divine genesis; it was not even produced by volitionally intelligent human action; it is purely an evolutionary institution and was wholly automatic in origin. (<a id="a46_460"></a>[UB 71:0.2](/en/The_Urantia_Book/71#p0_2))
 
 I leave it to you to read or reread this booklet where the first section teaches us more about the embryonic formation of the State, its weaknesses and its strengths.
 
@@ -52,15 +52,15 @@ I leave it to you to read or reread this booklet where the first section teaches
 
 Although democracy is an ideal, it is a product of civilization and not of evolution. Melchizedek warns us of the dangers of democracy in the following enumeration:
 
-> 1. Glorification of mediocrity. ([UB 71:2.2](/en/The_Urantia_Book/71#p2_2))
+> 1. Glorification of mediocrity. (<a id="a54_35"></a>[UB 71:2.2](/en/The_Urantia_Book/71#p2_2))
 
 A leader should be motivated in his duty to the people by the highest ideals and not by concern for recognition, power, material possessions or pride. A leader's competence should be the primary reason for his position of authority before all other considerations.
 
-> 2. Choice of base and ignorant rulers. ([UB 71:2.3](/en/The_Urantia_Book/71#p2_3))
+> 2. Choice of base and ignorant rulers. (<a id="a58_42"></a>[UB 71:2.3](/en/The_Urantia_Book/71#p2_3))
 
 There is no point in me giving you the example of a former President of the United States here!
 
-> 3. Failure to recognize the basic facts of social evolution. ([UB 71:2.4](/en/The_Urantia_Book/71#p2_4))
+> 3. Failure to recognize the basic facts of social evolution. (<a id="a62_64"></a>[UB 71:2.4](/en/The_Urantia_Book/71#p2_4))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_01/023.jpg">
@@ -69,11 +69,11 @@ There is no point in me giving you the example of a former President of the Unit
 Society changes according to individuals who ideally evolve in the recognition of the fatherhood of God and the brotherhood of men. The State must take this evolution into account, adjust and manage accordingly.
 <br style="clear:both;"/>
 
-> 4. Danger of universal suffrage in the hands of uneducated and indolent majorities. ([UB 71:2.5](/en/The_Urantia_Book/71#p2_5))
+> 4. Danger of universal suffrage in the hands of uneducated and indolent majorities. (<a id="a71_87"></a>[UB 71:2.5](/en/The_Urantia_Book/71#p2_5))
 
 From there, the importance of providing everyone with a complete education of what a progressive altruistic civilization should be towards a goal of material, social, fraternal and spiritual perfection.
 
-> 5. Slavery to public opinion; the majority is not always right. ([UB 71:2.6](/en/The_Urantia_Book/71#p2_6))
+> 5. Slavery to public opinion; the majority is not always right. (<a id="a75_67"></a>[UB 71:2.6](/en/The_Urantia_Book/71#p2_6))
 
 The crowd is not always right if it is poorly informed,
 inhabited by prejudices of all kinds or concerned only with their own selfish well-being. I once read somewhere that the mental age of a crowd is equivalent to that of a five-year-old child.
@@ -103,7 +103,7 @@ Also, our dear Melchizedek reminds us of the practical, efficient and wise form 
 > 
 > 9. *Control of public servants.* No civil government will be serviceable and effective unless the citizenry possess and use wise techniques of guiding and controlling officeholders and public servants.
 > 
-> 10. *Intelligent and trained representation.* The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit. Only by such provisions can government of the people, by the people, and for the people be preserved. ([UB 71:2.10-19](/en/The_Urantia_Book/71#p2_10))
+> 10. *Intelligent and trained representation.* The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit. Only by such provisions can government of the people, by the people, and for the people be preserved. (<a id="a105_414"></a>[UB 71:2.10-19](/en/The_Urantia_Book/71#p2_10))
 
 ## The ideals of the State.
 
@@ -115,15 +115,15 @@ Although nationalism has been beneficial in uniting people of the same culture, 
 > 
 > 2. Intelligent patriotism based on wise ideals.
 > 
-> 3. Cosmic insight interpreted in terms of planetary facts, needs, and goals. ([UB 71:3.3-6](/en/The_Urantia_Book/71#p3_3))
+> 3. Cosmic insight interpreted in terms of planetary facts, needs, and goals. (<a id="a117_80"></a>[UB 71:3.3-6](/en/The_Urantia_Book/71#p3_3))
 
 Currently, human society is collapsing under the increase of poor people and homeless people invading the cities. It is abnormal to leave all these people in such basic need in a lack as essential as food, comfortable shelter and a reason to live!
 
-> A moral society should aim to preserve the self-respect of its citizenry and afford every normal individual adequate opportunity for self-realization. Such a plan of social achievement would yield a cultural society of the highest order. Social evolution should be encouraged by governmental supervision which exercises a minimum of regulative control. That state is best which co-ordinates most while governing least. ([UB 71:3.9](/en/The_Urantia_Book/71#p3_9))
+> A moral society should aim to preserve the self-respect of its citizenry and afford every normal individual adequate opportunity for self-realization. Such a plan of social achievement would yield a cultural society of the highest order. Social evolution should be encouraged by governmental supervision which exercises a minimum of regulative control. That state is best which co-ordinates most while governing least. (<a id="a121_422"></a>[UB 71:3.9](/en/The_Urantia_Book/71#p3_9))
 
 If the educational system functions normally, both in educational institutions and in the family in each cottage, each individual should be aware of the responsibility incumbent on them towards society and act accordingly for their own good and the good of all. Idleness is an evil that gradually eats away at any society given over to pleasures centered solely on oneself. This responsible way of seeing one's duty towards society will make all citizens united and democratically oriented towards a society seeking the best for all. Each individual being motivated and industrious in the search for the common good.
 
-> In a real commonwealth the business of governing cities and provinces is conducted by experts and is managed just as are all other forms of economic and commercial associations of people. ([UB 71:3.11](/en/The_Urantia_Book/71#p3_11))
+> In a real commonwealth the business of governing cities and provinces is conducted by experts and is managed just as are all other forms of economic and commercial associations of people. (<a id="a125_191"></a>[UB 71:3.11](/en/The_Urantia_Book/71#p3_11))
 
 ## A progressive civilization.
 
@@ -151,7 +151,7 @@ The revealer teaches us that all civilization remains progressive by observing t
 > 
 > 11. Promotion of philosophy—wisdom.
 > 
-> 12. Augmentation of cosmic insight—spirituality. ([UB 71:4.3-14](/en/The_Urantia_Book/71#p4_3))
+> 12. Augmentation of cosmic insight—spirituality. (<a id="a153_52"></a>[UB 71:4.3-14](/en/The_Urantia_Book/71#p4_3))
 
 If only we had the wisdom and courage to observe these twelve recommendations as a society, we would all benefit from increased happiness, guaranteed social peace, a true feeling of universal brotherhood and a freedom of thought focused on the search for truth in the discovery of the beauty of this world within a benevolent cosmos.
 
@@ -159,7 +159,7 @@ If only we had the wisdom and courage to observe these twelve recommendations as
 
 On this subject, this is what the Melchizedek tells us:
 
-> The enduring state is founded on culture, dominated by ideals, and motivated by service. The purpose of education should be acquirement of skill, pursuit of wisdom, realization of selfhood, and attainment of spiritual values. ([UB 71:7.1](/en/The_Urantia_Book/71#p7_1))
+> The enduring state is founded on culture, dominated by ideals, and motivated by service. The purpose of education should be acquirement of skill, pursuit of wisdom, realization of selfhood, and attainment of spiritual values. (<a id="a161_229"></a>[UB 71:7.1](/en/The_Urantia_Book/71#p7_1))
 
 How could we hope to build a healthy world order if each individual who composes it is ignorant of his own capacities in various fields, of the nature and behavioral ideals within civilization, of his responsibility towards his contemporaries and future generations, in short, of the search for the highest wisdom!
 
@@ -182,7 +182,7 @@ Once again, the Melchizedek encourages us to push our mental laziness ever furth
 > 6. The love of service—character.
 > 7. Cosmic insight—spiritual discernment.
 > 
-> And then, by means of these achievements, many will ascend to the mortal ultimate of mind attainment, God-consciousness. ([UB 71:7.5-13](/en/The_Urantia_Book/71#p7_5))
+> And then, by means of these achievements, many will ascend to the mortal ultimate of mind attainment, God-consciousness. (<a id="a184_124"></a>[UB 71:7.5-13](/en/The_Urantia_Book/71#p7_5))
 
 ## The character of the state.
 
@@ -199,7 +199,7 @@ Like the administrative domains of the democratic model on the celestial worlds 
 > 9. The elimination of toiling slavery by machine invention and the subsequent mastery of the machine age.
 > 10. The conquest of dialects—the triumph of a universal language.
 > 11. The ending of war—international adjudication of national and racial differences by continental courts of nations presided over by a supreme planetary tribunal automatically recruited from the periodically retiring heads of the continental courts. The continental courts are authoritative; the world court is advisory—moral.
-> 12. The world-wide vogue of the pursuit of wisdom—the exaltation of philosophy. The evolution of a world religion, which will presage the entrance of the planet upon the earlier phases of settlement in light and life. ([UB 71:8.3-14](/en/The_Urantia_Book/71#p8_3))
+> 12. The world-wide vogue of the pursuit of wisdom—the exaltation of philosophy. The evolution of a world religion, which will presage the entrance of the planet upon the earlier phases of settlement in light and life. (<a id="a201_221"></a>[UB 71:8.3-14](/en/The_Urantia_Book/71#p8_3))
 
 ## The intervention of celestial beings in human affairs.
 
@@ -207,9 +207,9 @@ Like the administrative domains of the democratic model on the celestial worlds 
 <img src="/image/article/Reflectivite/2024_01/026.jpg">
 </figure>
 
-It is written that the Most Highs reign in the realm of men ([UB 3:5.2](/en/The_Urantia_Book/3#p5_2)). It is also written in the document entitled “_Reconstructions of elements on the origins of The Urantia Book_” by Mark Kulieke that the midwayers and seraphim participating in the transmission of this fifth epochal revelation had a great sense of humor and that they disavowed the Treaty of Versailles of 1919 (a treaty signed between Germany and the Allies with the ambition of curbing the military and economic power of Germany in order to ensure peace), and could not help but take sides in the conflict of World War II (1939-1945). The same text can be found on the AUQ website in the document entitled “_Birth of a Revelation_” by the same author and translated by Leonard Glen. I have already read in a document which I have not been able to find that the Melchizedeks had once declared war on communism, because this ideology was contrary to the progressive evolutionary movement of humanity if I remember correctly!
+It is written that the Most Highs reign in the realm of men (<a id="a209_61"></a>[UB 3:5.2](/en/The_Urantia_Book/3#p5_2)). It is also written in the document entitled “_Reconstructions of elements on the origins of The Urantia Book_” by Mark Kulieke that the midwayers and seraphim participating in the transmission of this fifth epochal revelation had a great sense of humor and that they disavowed the Treaty of Versailles of 1919 (a treaty signed between Germany and the Allies with the ambition of curbing the military and economic power of Germany in order to ensure peace), and could not help but take sides in the conflict of World War II (1939-1945). The same text can be found on the AUQ website in the document entitled “_Birth of a Revelation_” by the same author and translated by Leonard Glen. I have already read in a document which I have not been able to find that the Melchizedeks had once declared war on communism, because this ideology was contrary to the progressive evolutionary movement of humanity if I remember correctly!
 
-I could not say whether the celestial beings are working together to preserve democracy throughout the planet, but considering this representative political system as the best model for all, I think it is our responsibility to ensure that it not only survives, but also constantly seeks to improve. We must be absolutely vigilant, because the dangers are great in order to promote a clear decline in democracy in the world. As Jesus told us: “Be therefore wise as serpents, yet harmless as doves” ([UB 163:1.3](/en/The_Urantia_Book/163#p1_3)).
+I could not say whether the celestial beings are working together to preserve democracy throughout the planet, but considering this representative political system as the best model for all, I think it is our responsibility to ensure that it not only survives, but also constantly seeks to improve. We must be absolutely vigilant, because the dangers are great in order to promote a clear decline in democracy in the world. As Jesus told us: “Be therefore wise as serpents, yet harmless as doves” (<a id="a211_498"></a>[UB 163:1.3](/en/The_Urantia_Book/163#p1_3)).
 <br style="clear:both;"/>
 
 ## References

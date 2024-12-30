@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Georges Michelson-Dupont<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-11-autumn-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="pr-2">Who Was Jesus? (end)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Story of a trip to Dakar**
@@ -39,14 +63,39 @@ The Islamic world represents 700 million individuals on Urantia. Some Muslim cou
 
 Musa's technique is universal. It is that of Jesus. It can be adapted by each of us, according to circumstances, religious, cultural and social realities, but it invariably involves two phases: first, the intelligent, loving and non-invasive preparation of the human mind to receive the truths contained in these teachings and second, their subsequent presentation. The Indwelling Adjuster, the Spirit of Truth, and the associated angels will do the rest.
 
-> “We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness.” ([UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
+> “We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness.” (<a id="a65_815"></a>[UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
 
 Proof is thus given to us that provided they are presented intelligently, with respect and love, the teachings of this book can be accepted by any religion, in any part of the globe, and free darkened souls, captive to the slavery of traditions and beliefs.
 
-> “Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are: the attainment of salvation by faith, and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth, “You shall know the truth, and the truth shall make you free.” Jesus was the truth made manifest in the flesh, and he promised to send his Spirit of Truth into the hearts of all his children after his return to the Father in heaven.” ([UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
+> “Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are: the attainment of salvation by faith, and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth, “You shall know the truth, and the truth shall make you free.” Jesus was the truth made manifest in the flesh, and he promised to send his Spirit of Truth into the hearts of all his children after his return to the Father in heaven.” (<a id="a69_537"></a>[UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
 
 When asking Fatou, a student of Moussa, what The Urantia Book had brought her, she answered: “I have become a better Muslim.”
 
 I invite you to meditate on this answer.
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-11-autumn-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="pr-2">Who Was Jesus? (end)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

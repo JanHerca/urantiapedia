@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foundation News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 For a long time I wanted to participate in a course within the framework of the U.B.I.S., this school of the _URANTIA Book_ on the internet. Its pedagogy, based on the maieutics so dear to Socrates and its principle of operation on a 10-week cycle alternating questions and answers followed by sharing was a formula that suited me perfectly, being able to participate when I had time in the course in question.
@@ -28,5 +49,27 @@ It is also the source of potentials allowing their actualization through the ten
 She is also the source of all kinds of time and all forms of space past, present and future. (G.M-D)
 
 
-> One of the most eventful of all the evening conferences at Amathus was the session having to do with the discussion of spiritual unity. James Zebedee had asked, “Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?” When Jesus heard this question, he was stirred within his spirit, so much so that he replied: “James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and freedom before God. I do not desire that social harmony and fraternal peace shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is *spirit unity—*and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to *be alike.* Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
+> One of the most eventful of all the evening conferences at Amathus was the session having to do with the discussion of spiritual unity. James Zebedee had asked, “Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?” When Jesus heard this question, he was stirred within his spirit, so much so that he replied: “James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and freedom before God. I do not desire that social harmony and fraternal peace shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is *spirit unity—*and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to *be alike.* Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny. (<a id="a51_1276"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foundation News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Jean Annet<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer Was Not One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The very exceptional situation that we are currently going through because of COVID 19 has given me this thought about The Urantia Book: does it have anything to do with the book? Is the conspiracy theory that very often fuels thoughts about the origin of the virus totally foreign to the teaching of the book?
@@ -25,7 +49,7 @@ Finally, one could even say that during the birth of the 5th revelation, our Ura
 
 Until the last world war, one could say that the great struggle that took place on our planet was at the religious level. The truth was held by the Church and the religious powers and the counter-power by the atheists who formed themselves into Masonic lodges and other groups, or even for some into groups directly dedicated against the Church and against God. All this happened behind the scenes and was not always visible in everyday life. Exactly as in a play, the decisions on the script and the staging were taken in the lodges, and the game was played on the stage. Are we not also talking about the political scene, the international scene? But the big issue remained this: do we work for the freedom of human beings, for their liberation from all constraints, physical, psychological and spiritual, for their spiritual elevation and their knowledge of God or on the contrary do we keep them in fear, in materiality, in a precarious and poor quality environment, in ignorance of God? Do we take them upwards or do we keep them downwards?
 
-> “The spiritually blind individual who logically follows scientific dictation, social usage, and religious dogma stands in grave danger of sacrificing his moral freedom and losing his spiritual liberty. Such a soul is destined to become an intellectual parrot, a social automaton, and a slave to religious authority.” ([UB 132:2.4](/en/The_Urantia_Book/132#p2_4))
+> “The spiritually blind individual who logically follows scientific dictation, social usage, and religious dogma stands in grave danger of sacrificing his moral freedom and losing his spiritual liberty. Such a soul is destined to become an intellectual parrot, a social automaton, and a slave to religious authority.” (<a id="a51_320"></a>[UB 132:2.4](/en/The_Urantia_Book/132#p2_4))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/050.jpg">
@@ -38,7 +62,7 @@ But the struggle between good and evil remains the same. It is no longer religio
 
 What we are currently experiencing must be highlighted with this understanding of the world. Caligastia is always at work. He is always trying to thwart God's plan and relies on the powers that be, especially when they almost openly pledge allegiance to him.
 
-> “My brother, good and evil are merely words symbolizing relative levels of human comprehension of the observable universe. If you are ethically lazy and socially indifferent, you can take as your standard of good the current social usages. If you are spiritually indolent and morally unprogressive, you may take as your standards of good the religious practices and traditions of your contemporaries. But the soul that survives time and emerges into eternity must make a living and personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the standard of personality survival.” ([UB 132:2.2](/en/The_Urantia_Book/132#p2_2))
+> “My brother, good and evil are merely words symbolizing relative levels of human comprehension of the observable universe. If you are ethically lazy and socially indifferent, you can take as your standard of good the current social usages. If you are spiritually indolent and morally unprogressive, you may take as your standards of good the religious practices and traditions of your contemporaries. But the soul that survives time and emerges into eternity must make a living and personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the standard of personality survival.” (<a id="a64_760"></a>[UB 132:2.2](/en/The_Urantia_Book/132#p2_2))
 
 So let us ask ourselves the question: are we on the path to human perfection or, on the contrary, are we pushed towards withdrawal into ourselves, fear, doubt, egocentrism, etc.?
 
@@ -50,5 +74,30 @@ Jean Annet (Belgium - January 2021)
 
 > There is in the mind of God a plan including all the creatures of his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of this incomparable career reward your efforts!
 > 
-> The goal of eternity lies ahead! The adventure of divinity attainment lies before you! The race for perfection is on! All who will may participate, and certain victory will crown the efforts of every human being who desires to run the race of faith and trust, relying at every step upon the leadings of the indwelling Adjuster and upon the guidance of the good spirit of the Universe Son, who has been so liberally poured out upon all flesh. ([UB 32:5.7-8](/en/The_Urantia_Book/32#p5_7))
+> The goal of eternity lies ahead! The adventure of divinity attainment lies before you! The race for perfection is on! All who will may participate, and certain victory will crown the efforts of every human being who desires to run the race of faith and trust, relying at every step upon the leadings of the indwelling Adjuster and upon the guidance of the good spirit of the Universe Son, who has been so liberally poured out upon all flesh. (<a id="a76_445"></a>[UB 32:5.7-8](/en/The_Urantia_Book/32#p5_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/La_Priere_N_en_Etait_Pas_Une">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer Was Not One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Nouvelles_De_La_Fondation">
+          <span class="pr-2">Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

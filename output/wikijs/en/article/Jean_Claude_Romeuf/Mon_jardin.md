@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean-Claude Romeuf<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Pages_Lyriques">
+          <span class="pr-2">Lyrical Pages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 My garden is a deep sea.
@@ -60,3 +84,28 @@ And who is gradually becoming as tame as my chickens.
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Pages_Lyriques">
+          <span class="pr-2">Lyrical Pages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

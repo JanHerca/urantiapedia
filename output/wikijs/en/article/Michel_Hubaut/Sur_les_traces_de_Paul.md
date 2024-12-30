@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Michel Hubaut<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Heavenly Funerals</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Lumiere_05_08_mai_2011">
+          <span class="pr-2">Light 05-08 May 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Childhood and education of Saul of Tarsus
@@ -125,3 +149,28 @@ _According to “In the footsteps of Saint Paul”, Historical and spiritual gui
 
 Michel Hubaut
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Heavenly Funerals</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Lumiere_05_08_mai_2011">
+          <span class="pr-2">Light 05-08 May 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/A_vos_Calculettes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Get Your Calculators</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_05">
+          <span class="pr-2">Brother Dominique's Little Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Self-healing through spiritual means
@@ -41,3 +65,28 @@ Fraternally
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/A_vos_Calculettes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Get Your Calculators</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_05">
+          <span class="pr-2">Brother Dominique's Little Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

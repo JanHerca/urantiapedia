@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Trinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Spiritual Sovereignty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We are involved in a movement and not in a Church. Movement is related to the Latin 'movere' which means to move. So it has to move!
@@ -45,7 +69,32 @@ There are dozens of possible actions outside this framework, actions in civil so
 
 One last example. Would it not be good and easy, in these so-called gloomy times, to present some of the quotes from the chapter on morontia mota, even if it is only the following one?
 
-We must abandon anxiety. The most difficult disappointments to bear are those that never happen ([UB 48:7.21](/en/The_Urantia_Book/48#p7_21)) But there are many others.
+We must abandon anxiety. The most difficult disappointments to bear are those that never happen (<a id="a71_97"></a>[UB 48:7.21](/en/The_Urantia_Book/48#p7_21)) But there are many others.
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_Trinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Trinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="pr-2">Spiritual Sovereignty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

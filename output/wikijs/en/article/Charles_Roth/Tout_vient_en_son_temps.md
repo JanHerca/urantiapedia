@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Charles Roth<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Attitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">The Prayer of Consent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There comes a time when we say to ourselves: “Worrying doesn't lead to anything...let's just let things happen.” And, almost miraculously, incredibly, everything works out and happens in a calm and harmonious way. It happened that we applied the principle of “Everything happens in its time.”
@@ -39,3 +63,28 @@ _From UNITY SCHOOL OF CHRISTIANITY, Unity Village, Missouri USA_
 
 Charles Roth
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Mon_attitude">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Attitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="pr-2">The Prayer of Consent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

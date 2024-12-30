@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Christine Baussain<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sylvette_Perrier/A_mon_ame_immortelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To My Immortal Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/La_petite_bouteille_se_remplit_encore">
+          <span class="pr-2">The Little Bottle Is Still Filling Up</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It was as head of the Urantia office in Paris (Urantia France SA) that I had the chance, at the end of January, to spend a week at the Foundation's headquarters in Chicago. I then had the joy of meeting personally - finally each of the members of the team, in a human and professional rapprochement that breathed new life into our collaboration. Richard and Colette, from the Quebec office, who had come at the same time to take advantage of the opportunity, added their energy and good humor to the ambient emulation.
@@ -39,3 +63,28 @@ During this week I had the great pleasure of being able to work with each one in
 
 Christine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sylvette_Perrier/A_mon_ame_immortelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To My Immortal Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/La_petite_bouteille_se_remplit_encore">
+          <span class="pr-2">The Little Bottle Is Still Filling Up</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

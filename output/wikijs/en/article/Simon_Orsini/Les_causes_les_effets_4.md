@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Simon Orsini<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Olympic Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-66-spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 66 — Spring 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_17_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°17 ​​The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **PARADISE**
@@ -79,3 +103,28 @@ The form, the aspect of the personality of a human being is that of an archetype
 
 (to be continued)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Rogge/Les_Valeurs_Olympiques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Olympic Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-66-spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 66 — Spring 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_17_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°17 ​​The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

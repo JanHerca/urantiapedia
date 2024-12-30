@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Max Masotti<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Sur_l_Amour_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Love III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="pr-2">The Seven Fundamental Realities VII</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverse**
@@ -49,3 +73,28 @@ Max Masotti
 <img src="/image/article/Le_Lien/images_01/178.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Sur_l_Amour_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Love III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="pr-2">The Seven Fundamental Realities VII</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

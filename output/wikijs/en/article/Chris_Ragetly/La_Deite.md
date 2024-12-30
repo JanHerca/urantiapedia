@@ -9,15 +9,39 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Chris Ragetly<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Etre_efficace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Effective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Semi_2">
+          <span class="pr-2">Semi 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In The Urantia Book, the term “Deity” is applied to various divine personalities, whether single, existential associate, or experiential associate, but the term can also refer to non-divine personalities. In the introduction, a Divine Counselor points out several levels on which total Deity functions.
 
-> _The term God always denotes *personality.* Deity may, or may not, refer to divinity personalities._ ([UB 0:2.10](/en/The_Urantia_Book/0#p2_10))
+> _The term God always denotes *personality.* Deity may, or may not, refer to divinity personalities._ (<a id="a39_104"></a>[UB 0:2.10](/en/The_Urantia_Book/0#p2_10))
 
-> _DEITY is personalizable as God, is prepersonal and superpersonal in ways not altogether comprehensible by man. Deity is characterized by the quality of unity—actual or potential—on all supermaterial levels of reality; and this unifying quality is best comprehended by creatures as divinity._ ([UB 0:1.2](/en/The_Urantia_Book/0#p1_2))
+> _DEITY is personalizable as God, is prepersonal and superpersonal in ways not altogether comprehensible by man. Deity is characterized by the quality of unity—actual or potential—on all supermaterial levels of reality; and this unifying quality is best comprehended by creatures as divinity._ (<a id="a41_296"></a>[UB 0:1.2](/en/The_Urantia_Book/0#p1_2))
 
-_Deity functions on the personal, prepersonal and superpersonal levels_ [UB 0:1.3](/en/The_Urantia_Book/0#p1_3). The personal level is understandable to us, God is a person. The prepersonal level is that of the Mystery Monitors. The superpersonal level is undoubtedly linked to certain realities other than personal and prepersonal that our finite mind has great difficulty in grasping. Note that we are talking about total functional Deity.
+_Deity functions on the personal, prepersonal and superpersonal levels_ <a id="a43_72"></a>[UB 0:1.3](/en/The_Urantia_Book/0#p1_3). The personal level is understandable to us, God is a person. The prepersonal level is that of the Mystery Monitors. The superpersonal level is undoubtedly linked to certain realities other than personal and prepersonal that our finite mind has great difficulty in grasping. Note that we are talking about total functional Deity.
 
 _The Total Deity is functional on the following seven levels:_
 
@@ -27,9 +51,9 @@ _The Total Deity is functional on the following seven levels:_
 4. _Creative — Self-distributive and divinely revealed Deity._ God the Universal Father creates his various Sons, including the Creator Sons, bestows personality on a multitude of creatures, and is capable of fragmenting himself by bestowing his Mystery Monitors on mortal creatures. He delegates much of his functions to other deities such as the Eternal Son, the Infinite Spirit, the Creator Sons, etc. He reveals himself through the ministry of his Eternal Son, the Infinite Spirit, and his many other divine Sons.
 5. _Evolutionary—Self-expansive and creature-identified Deity._ Such as God the Supreme.
 6. _Supreme — Self-experiential Deity and unifying the creature with the Creator. Deity functioning on the first level of identification with the creature as the supercontroller of grand universe space-time and sometimes referred to as the Deity Supremacy._ Such as the Supreme Being.
-7. _Ultimate — A self-projecting, space-time transcending Deity. Omnipotent, omniscient, and omnipresent Deity. Deity functioning on the second level of expression of unifying divinity as the effective supercontroller and absonite sustainer of the master universe. Compared to the ministry of the Deities to the grand universe, this absonite function in the master universe is equivalent to the universal supercontrol and supersustainer sometimes referred to as the Ultimacy of Deity._ God the Ultimate is the only example. [UB 0:1.3-10](/en/The_Urantia_Book/0#p1_3)
+7. _Ultimate — A self-projecting, space-time transcending Deity. Omnipotent, omniscient, and omnipresent Deity. Deity functioning on the second level of expression of unifying divinity as the effective supercontroller and absonite sustainer of the master universe. Compared to the ministry of the Deities to the grand universe, this absonite function in the master universe is equivalent to the universal supercontrol and supersustainer sometimes referred to as the Ultimacy of Deity._ God the Ultimate is the only example. <a id="a53_524"></a>[UB 0:1.3-10](/en/The_Urantia_Book/0#p1_3)
 
-There is a level of personalization of Deity which is called _God the Sevenfold_, this associative Deity functions on the levels of space-time. _This sevenfold Deity which, for the creatures of finite space-time, personalizing in its time the power in the Supreme Being, is the functional Deity of the evolutionary mortal creatures of the Paradise ascension career_ [UB 0:8.9](/en/The_Urantia_Book/0#p8_9). _To compensate for the finite character of the creatures' status and to overcome their limitations of concept, the Universal Father has established for the evolutionary creatures a sevenfold approach to Deity._
+There is a level of personalization of Deity which is called _God the Sevenfold_, this associative Deity functions on the levels of space-time. _This sevenfold Deity which, for the creatures of finite space-time, personalizing in its time the power in the Supreme Being, is the functional Deity of the evolutionary mortal creatures of the Paradise ascension career_ <a id="a55_366"></a>[UB 0:8.9](/en/The_Urantia_Book/0#p8_9). _To compensate for the finite character of the creatures' status and to overcome their limitations of concept, the Universal Father has established for the evolutionary creatures a sevenfold approach to Deity._
 
 Here is the composition of this Deity:
 
@@ -56,3 +80,28 @@ We will thus have had the chance to climb the different stages of this sevenfold
 Chris Ragetly
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Etre_efficace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Effective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Semi_2">
+          <span class="pr-2">Semi 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Nicole Ragetly<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme, God the Sevenfold, Forces, Energies and Universal Power Control: 100 Questions and Answers (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-20-winter-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 20 — Winter 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A few days ago, I wanted to tell you about a concert that Chris and I attended last summer, thanks to a Swiss couple who are friends (he is a violinist in a chamber music group, she is a singing teacher). This couple, therefore, met a rather extraordinary character. He bought a huge estate very close to our home. While walking on his land, mainly made up of scrubland, he discovered a sort of large open-air cellar into which he managed to descend and where he found the remains of sculpted stone columns. Highly intrigued and very interested, he did some in-depth research and discovered that, on the site of this cellar, there had been a chapel called “the chapel of Pisa”. His research allowed him to reconstruct the plans of the chapel, and he decided to rebuild it on its original site.
@@ -33,3 +54,25 @@ It was a sort of housewarming party, since it was the first concert given in the
 
 Nicole Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georgia_Gecht/Le_Supreme_Dieu_le_Septuple_Forces_Energies_et_Controle_Universel_de_Pouvoir_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme, God the Sevenfold, Forces, Energies and Universal Power Control: 100 Questions and Answers (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-20-winter-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 20 — Winter 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

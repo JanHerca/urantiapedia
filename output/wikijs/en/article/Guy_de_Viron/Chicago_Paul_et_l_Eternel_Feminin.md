@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Mots_de_Voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travel Words</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="pr-2">The Little Beatitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The Chicago Symposium is, in itself, such a dazzling event that it would be enough to fill this edition of the Link. So, enjoy the testimonies of Jean and Dominique! With gratitude for having been “our eyes” and our spokespersons on a global level!
@@ -34,3 +58,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Mots_de_Voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Travel Words</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="pr-2">The Little Beatitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

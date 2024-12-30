@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The return of the goddess</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Benedicte_Jourgeaud/La_Saga_Tupperware">
+          <span class="pr-2">The Tupperware Saga</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -23,3 +47,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 <img src="/image/article/Le_Lien/images_01/133.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The return of the goddess</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Benedicte_Jourgeaud/La_Saga_Tupperware">
+          <span class="pr-2">The Tupperware Saga</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

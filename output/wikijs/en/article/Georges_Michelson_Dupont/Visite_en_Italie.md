@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consciousness — Self-Consciousness & God-Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Interactive Study Group: Second Series</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 THE very first meeting of Italian readers of _The Urantia Book_ took place in Verona, the beautiful and historic city of Romeo and Juliet from Friday August 28 to Sunday August 30. This event was undertaken and organized by my long-time friend Danielle La Scala, an Italo-Swiss.
@@ -34,7 +58,7 @@ A quick tour of the old town of Verona had been organized, followed by an excell
 
 The spiritualization of the mind had been discussed the day before and we devoted Sunday morning to clarifying this process described in paragraph 7 of section 3 of the first booklet: The Universal Father:
 
-> “In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence.” ([UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
+> “In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence.” (<a id="a60_902"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
 
 A fascinating two-hour shared discussion ensued on the meaning of “. . . the adjustments of the human will and the transformations in the mortal mind by which . . . must be made” and their implications for daily life, which clarified many vague ideas.
 
@@ -42,7 +66,7 @@ Around 11 o'clock everyone went to their room to prepare their luggage and we we
 
 The results of this meeting are very positive and promising. Two of the three Italian participants are devoted readers and sincerely wish to get involved in forming study groups, organizing other meetings and arousing interest among Italians in reading _Il Libro di Urantia_. Memo Zago. no longer wishes to assume the role of contact person and Danielle has spontaneously offered to replace him.
 
-We must thank Danielle for her initiative. She deserves a lot of credit because the organization was excellent and there is no doubt that the fruits will be numerous. “The act is ours, the consequences are God's.” ([UB 117:5.6](/en/The_Urantia_Book/117#p5_6))
+We must thank Danielle for her initiative. She deserves a lot of credit because the organization was excellent and there is no doubt that the fruits will be numerous. “The act is ours, the consequences are God's.” (<a id="a68_215"></a>[UB 117:5.6](/en/The_Urantia_Book/117#p5_6))
 
 _Georges Michelson-Dupont_
 
@@ -52,3 +76,28 @@ _Georges Michelson-Dupont_
 <figcaption><em>At the back from left to right: Memo Zago, the Italian translator, Danielle La Scala, Nicol Covaliu, Antonio Shefer representative of the IUA, Nirvana Covaliu and Alberto Dujela. Back from left to right, Guy de Viron, Johana Boekers and Georges Donadieu. We can see our President's legs on the left.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consciousness — Self-Consciousness & God-Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Interactive Study Group: Second Series</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

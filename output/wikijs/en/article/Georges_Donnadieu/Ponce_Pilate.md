@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Georges Donnadieu<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love: The Heart of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/LA_GRATITUDE">
+          <span class="pr-2">GRATITUDE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 PONTIUS PILATE, fifth Roman procurator of Judea from 26 to 36 CE.
@@ -60,3 +84,28 @@ _On the other hand, Eusebius and Bede in their chronicle do not speak of his exi
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love: The Heart of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/LA_GRATITUDE">
+          <span class="pr-2">GRATITUDE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

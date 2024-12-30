@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Max Masotti<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brother Dominique's Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Little Morontia Bubbles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On the occasion of Micaël's birthday, Éliane Grivet was kind enough to welcome us, for the second time, to her home in Pontet, near Avignon.
@@ -27,3 +51,28 @@ Another big thank you to Éliane who spared no effort to offer us this good meal
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brother Dominique's Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="pr-2">Little Morontia Bubbles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

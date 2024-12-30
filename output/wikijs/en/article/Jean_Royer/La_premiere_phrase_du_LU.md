@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jean Royer<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Prayer of Consent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_09_Les_reponses">
+          <span class="pr-2">Maxien Quiz No. 9 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _In the mortal minds of Urantia—that being the name of your world—there exists great confusion as to the meaning of such terms as God, divinity, and deity._
@@ -43,7 +67,7 @@ It should be noted that this is the third time that we find the word experience 
 
 **There is great confusion**, refers to all the civilizations on our planet, whether in space or in time.
 
-**God**: Chapter II of [pages 3 et 4](/en/The_Urantia_Book/0#p2_11) is devoted to explaining what the revelators mean by this word. And for a good part, it is indeed revelation.
+**God**: Chapter II of <a id="a69_23"></a>[pages 3 et 4](/en/The_Urantia_Book/0#p2_11) is devoted to explaining what the revelators mean by this word. And for a good part, it is indeed revelation.
 
 **Divinity and Deity** are covered in Chapter I on pages 2 and 3.
 
@@ -51,3 +75,28 @@ This first sentence of the _Urantia Book_ gives us ample food for thought, even 
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claire_Mylanus/La_Priere_de_Consentement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Prayer of Consent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_09_Les_reponses">
+          <span class="pr-2">Maxien Quiz No. 9 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

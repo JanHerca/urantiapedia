@@ -9,29 +9,53 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guest: Chilean Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Meeting of 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> Your difficulty in arriving at a more harmonious co-ordination between science and religion is due to your utter ignorance of the intervening domain of the morontia world of things and beings. The local universe consists of three degrees, or stages, of reality manifestation: matter, morontia, and spirit. The morontia angle of approach erases all divergence between the findings of the physical sciences and the functioning of the spirit of religion. Reason is the understanding technique of the sciences; faith is the insight technique of religion; mota is the technique of the morontia level. Mota is a supermaterial reality sensitivity which is beginning to compensate incomplete growth, having for its substance knowledge-reason and for its essence faith-insight. Mota is a superphilosophical reconciliation of divergent reality perception which is nonattainable by material personalities; it is predicated, in part, on the experience of having survived the material life of the flesh. But many mortals have recognized the desirability of having some method of reconciling the interplay between the widely separated domains of science and religion; and metaphysics is the result of man’s unavailing attempt to span this well-recognized chasm. But human metaphysics has proved more confusing than illuminating. Metaphysics stands for man’s well-meant but futile effort to compensate for the absence of the mota of morontia. ([UB 103:6.7](/en/The_Urantia_Book/103#p6_7))
+
+> Your difficulty in arriving at a more harmonious co-ordination between science and religion is due to your utter ignorance of the intervening domain of the morontia world of things and beings. The local universe consists of three degrees, or stages, of reality manifestation: matter, morontia, and spirit. The morontia angle of approach erases all divergence between the findings of the physical sciences and the functioning of the spirit of religion. Reason is the understanding technique of the sciences; faith is the insight technique of religion; mota is the technique of the morontia level. Mota is a supermaterial reality sensitivity which is beginning to compensate incomplete growth, having for its substance knowledge-reason and for its essence faith-insight. Mota is a superphilosophical reconciliation of divergent reality perception which is nonattainable by material personalities; it is predicated, in part, on the experience of having survived the material life of the flesh. But many mortals have recognized the desirability of having some method of reconciling the interplay between the widely separated domains of science and religion; and metaphysics is the result of man’s unavailing attempt to span this well-recognized chasm. But human metaphysics has proved more confusing than illuminating. Metaphysics stands for man’s well-meant but futile effort to compensate for the absence of the mota of morontia. (<a id="a37_1431"></a>[UB 103:6.7](/en/The_Urantia_Book/103#p6_7))
 
 We can infer that the morontia mota is expressed on the morontia and spiritual levels, as we can understand them, and which translates on the morontia levels by a sensitivity to supramaterial reality, by a knowledge-reason nature and a faith-clairvoyance essence.
 
 The supermaterial reality undoubtedly concerns all living things (plants and animals) which live on the morontia plane, like the morontia plant food which we will use for our nutrition on the morontia worlds of our local system.
 
-Mota is morontia wisdom. ([UB 45:7.6](/en/The_Urantia_Book/45#p7_6)) On this level it is knowledge-reason. We can imagine quite well the meaning of the word “knowledge-reason”, because even here on Urantia, fully understanding the significance of our kinship with the Universal Father brings us closer to this level. The soul is the only morontia reality of man on Urantia, it functions independently of our human consciousness, but it is directed by our Mystery Monitor, who has in a way the guardianship of it. We can deduce from this that our soul functions by the technique of mota. Depending on the level of evolution of our soul, we will have more or less ease in familiarizing ourselves with this technique when we find ourselves on the shores of the first mansion world.
+Mota is morontia wisdom. (<a id="a43_26"></a>[UB 45:7.6](/en/The_Urantia_Book/45#p7_6)) On this level it is knowledge-reason. We can imagine quite well the meaning of the word “knowledge-reason”, because even here on Urantia, fully understanding the significance of our kinship with the Universal Father brings us closer to this level. The soul is the only morontia reality of man on Urantia, it functions independently of our human consciousness, but it is directed by our Mystery Monitor, who has in a way the guardianship of it. We can deduce from this that our soul functions by the technique of mota. Depending on the level of evolution of our soul, we will have more or less ease in familiarizing ourselves with this technique when we find ourselves on the shores of the first mansion world.
 
 Faith-clairvoyance is that reality comprehended by man, both by his mind and by the unconscious functioning of his morontia soul. But understanding or attempting to understand does not mean that man knows all its ramifications. Our minds know, through revelation, the existence of mota and its various approaches to the levels existing on the morontia worlds of our local universe. The faith-clairvoyance level is doubtless revealed to us from time to time by our Mystery Monitor, during our time devoted to worship, by sudden and magnificent spiritual flashes, the brilliance of which we can only regret. On such occasions we can only reflect on the time when we shall be able to communicate with our Monitor when we have passed through the first psychic circle, but this will not be an activity of mota, merely a spiritual action of our minds as they become familiar with cosmic clairvoyance. (mota and cosmic clairvoyance are two separate and different things which are acquired separately).
 
-> The lower planes of morontia mota join directly with the higher levels of human philosophy. On the first mansion world it is the practice to teach the less advanced students by the parallel technique; that is, in one column are presented the more simple concepts of mota meanings, and in the opposite column citation is made of analogous statements of mortal philosophy. ([UB 48:7.1](/en/The_Urantia_Book/48#p7_1))
+> The lower planes of morontia mota join directly with the higher levels of human philosophy. On the first mansion world it is the practice to teach the less advanced students by the parallel technique; that is, in one column are presented the more simple concepts of mota meanings, and in the opposite column citation is made of analogous statements of mortal philosophy. (<a id="a47_374"></a>[UB 48:7.1](/en/The_Urantia_Book/48#p7_1))
 
 It is likely that we will be late students of the first mansion world, otherwise the author, an Archangel of Nebadon, would not have shared these revelations with us.
 
-> Not long since, while executing an assignment on the first mansion world of Satania, I had occasion to observe this method of teaching; and though I may not undertake to present the mota content of the lesson, I am permitted to record the twenty-eight statements of human philosophy which this morontia instructor was utilizing as illustrative material designed to assist these new mansion world sojourners in their early efforts to grasp the significance and meaning of mota. These illustrations of human philosophy were: ([UB 48:7.2](/en/The_Urantia_Book/48#p7_2))
+> Not long since, while executing an assignment on the first mansion world of Satania, I had occasion to observe this method of teaching; and though I may not undertake to present the mota content of the lesson, I am permitted to record the twenty-eight statements of human philosophy which this morontia instructor was utilizing as illustrative material designed to assist these new mansion world sojourners in their early efforts to grasp the significance and meaning of mota. These illustrations of human philosophy were: (<a id="a51_526"></a>[UB 48:7.2](/en/The_Urantia_Book/48#p7_2))
 
-1\. ***A display of specialized skill does not mean that one possesses spiritual ability. Ingenuity is no substitute for true character.*** ([UB 48:7.2](/en/The_Urantia_Book/48#p7_2))
+1\. ***A display of specialized skill does not mean that one possesses spiritual ability. Ingenuity is no substitute for true character.*** (<a id="a53_141"></a>[UB 48:7.2](/en/The_Urantia_Book/48#p7_2))
 
 Even on the intellectual level, specialized ability does not mean that one possesses a special mental capacity, much less a spiritual capacity.
 
-An individual can be ingenious in preparing a bad action. True character is built with study that becomes voluntary, selfless service that becomes natural, and worship that becomes spontaneous. ([UB 47:7.5](/en/The_Urantia_Book/47#p7_5)) In the ages of ethics and spirituality, and under the spiritual influence of these ages, human character goes through prodigious transformations and undergoes phenomenal development. ([UB 52:5.8](/en/The_Urantia_Book/52#p5_8))
+An individual can be ingenious in preparing a bad action. True character is built with study that becomes voluntary, selfless service that becomes natural, and worship that becomes spontaneous. (<a id="a57_195"></a>[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)) In the ages of ethics and spirituality, and under the spiritual influence of these ages, human character goes through prodigious transformations and undergoes phenomenal development. (<a id="a57_422"></a>[UB 52:5.8](/en/The_Urantia_Book/52#p5_8))
 
 2\. ***Few people live up to the faith they actually possess. Irrational fear is a master intellectual fraud practiced on the evolving mortal soul.***
 
@@ -99,3 +123,28 @@ Experience is the watchword of our lives, and finite experience is the present l
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rene_Roman/Linvite_Association_Urantia_Chilienne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guest: Chilean Urantia Association</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="pr-2">Meeting of 21.02.09</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

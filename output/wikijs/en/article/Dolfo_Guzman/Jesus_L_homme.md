@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Dolfo-Guzman<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 77 — Mars 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Personality Research</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jesus is, without a doubt, the most important character who ever appeared in history. Malik Charles (1) said:
@@ -135,3 +159,28 @@ UBCIS TUAE RADIUM. (a ray of your light)
 3. Lebanese poet
 4. Scottish church reformer Quotes are from The Urantia Book
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-77-mars-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 77 — Mars 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Recherches_Sur_La_Personnalite">
+          <span class="pr-2">Personality Research</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

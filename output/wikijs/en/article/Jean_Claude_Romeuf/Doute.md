@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Claude Romeuf<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Doute_et_doutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doubt and Doubts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-27-autumn-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 27 — Autumn 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/21_aout_2003">
+          <span class="pr-2">August 21, 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We all think differently. I always knew that God existed, that he was good and that for that he wanted our happiness. It took me a long time to accept the idea that anyone who said otherwise was not a liar!
@@ -38,3 +62,28 @@ _(<ins>Third prayer</ins>: personal and silent: hymn to joy and love)_
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Doute_et_doutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doubt and Doubts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-27-autumn-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 27 — Autumn 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/21_aout_2003">
+          <span class="pr-2">August 21, 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -45,11 +45,11 @@ More than 2 years ago, we began studying the Life booklets and the teachings of 
 
 In booklet 160, Rodan of Alexandria, the art of living that we are studying today, we are told this:
 
-> _Now it is possible, through personality association, to unite these views of temporal existence and eternal prospects. Thus does the mind of one augment its spiritual values by gaining much of the insight of the other. In this way men enrich the soul by pooling their respective spiritual possessions._ ([UB 160:2.7](/en/The_Urantia_Book/160#p2_7))
+> _Now it is possible, through personality association, to unite these views of temporal existence and eternal prospects. Thus does the mind of one augment its spiritual values by gaining much of the insight of the other. In this way men enrich the soul by pooling their respective spiritual possessions._ (<a id="a47_307"></a>[UB 160:2.7](/en/The_Urantia_Book/160#p2_7))
 
 Becoming a study group host is a very important responsibility, requiring a strong commitment. Twenty-four years have passed and we are still faithful to the appointment on Monday evenings, making the group happy.
 
-> Great spiritual power is inherent in the consciousness of wholehearted devotion to a common cause, mutual loyalty to a cosmic Deity. ([UB 160:2.8](/en/The_Urantia_Book/160#p2_8))
+> Great spiritual power is inherent in the consciousness of wholehearted devotion to a common cause, mutual loyalty to a cosmic Deity. (<a id="a51_136"></a>[UB 160:2.8](/en/The_Urantia_Book/160#p2_8))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_03/012.jpg">

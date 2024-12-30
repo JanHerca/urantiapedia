@@ -25,7 +25,7 @@ A superb, comfortably furnished center, with indoor swimming pool, equipped with
 The name Maritime, referring to everything related to the navy, has inspired more than one reader to the following quote from The Urantia Book:
 <br style="clear:both;"/>
 
-> “Mind is your **ship**, the Adjuster is your **pilot**, the human will is **captain**. The master of the mortal **vessel** should have the wisdom to trust the divine **pilot** to guide the ascending soul into the morontia **harbors** of eternal survival.” ([UB 111:1.9](/en/The_Urantia_Book/111#p1_9))
+> “Mind is your **ship**, the Adjuster is your **pilot**, the human will is **captain**. The master of the mortal **vessel** should have the wisdom to trust the divine **pilot** to guide the ascending soul into the morontia **harbors** of eternal survival.” (<a id="a27_259"></a>[UB 111:1.9](/en/The_Urantia_Book/111#p1_9))
 
 The two days were filled with a very well orchestrated program.
 

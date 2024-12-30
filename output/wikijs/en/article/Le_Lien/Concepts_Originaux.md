@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To you, Universal Father, To you, Supreme Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">Death</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > ***Urantiapedia Note***: This article by William Sadler is also published as an article in [Fellowship Herald Volume 15, Number 1, 2015](/en/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts).
@@ -86,5 +110,30 @@ Dr. William Sadler
 
 **The Concept of Mind Mediation**: Mind as a mediator between energy and Spirit on subabsolute levels.
 
-> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning.” ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning.” (<a id="a112_589"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To you, Universal Father, To you, Supreme Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fernand_de_Vinck/La_mort">
+          <span class="pr-2">Death</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/106">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="pr-2">Part Two: The Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear readers,
@@ -25,3 +49,28 @@ The following topics are planned for the agenda:
 
 The LIEN team wishes you a good read of this issue and a good holiday.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/106">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="pr-2">Part Two: The Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

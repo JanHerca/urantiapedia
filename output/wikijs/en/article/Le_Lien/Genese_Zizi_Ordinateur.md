@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities (what is given)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Hubaut/L_hymne_a_l_amour_2">
+          <span class="pr-2">The hymn to love (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***1. Genesis***
@@ -54,3 +78,28 @@ According to men, it is feminine because:
 3. The smallest error is stored in memory to be brought out at the most opportune moment.
 4. As soon as you sign up, you find out you have to spend half your salary on accessories.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities (what is given)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Hubaut/L_hymne_a_l_amour_2">
+          <span class="pr-2">The hymn to love (2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

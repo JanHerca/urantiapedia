@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Jean Claude Romeuf<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Italian Readers’ Congress</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="pr-2">Belief and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 So what will I do this Sunday to pass the time? That's the question I asked myself this morning when I woke up. The first idea I had was to go to a Malagasy mass to listen to the magnificent religious songs and immerse myself in traditional folklore. As I walked my friend home who was going to celebrate this national holiday with her family, I told her that I would go to church to pray for her. Because, you all know that it is preferable that the person for whom we pray is aware of our intention to do so. But, she told me, I am Protestant and you are Catholic!
@@ -43,3 +67,28 @@ _Jean-Claude Romeuf_
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Third Italian Readers’ Congress</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="pr-2">Belief and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

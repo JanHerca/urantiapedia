@@ -56,7 +56,7 @@ We are all teachers, whether we accept it or not. How do we lead our lives and h
 I'll let you meditate on this quote.
 <br style="clear:both;"/>
 
-> _Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience._ ([UB 101:8.1](/en/The_Urantia_Book/101#p8_1))
+> _Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience._ (<a id="a58_375"></a>[UB 101:8.1](/en/The_Urantia_Book/101#p8_1))
 
 To love is to serve.
 

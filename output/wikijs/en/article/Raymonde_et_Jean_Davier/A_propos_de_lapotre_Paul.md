@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Raymonde and Jean Davier<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-12-winter-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="pr-2">The Decision Center</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Many works have commented on the work of Paul, the principal founder, with the apostles, of the Christian religion.
@@ -19,7 +43,7 @@ The Acts of the Apostles reveal the founding events that shaped the life of Saul
 
 The Pharisee Saul perceived the faith, the audacity, the extraordinary courage of Stephen who died rather than deny a transcendent cause whose spirituality progresses in an ineluctable way in the face of ancestral and stagnant religious practices.
 
-On the road to Damascus, Saul experiences his own transfiguration. His spiritual experience is authentic. His conversion is sudden, spectacular, different from the slow progress of classical spiritual seekers. He becomes the servant of those he wanted to destroy by violence. He heard in a divine clarity that would blind him momentarily the “Saul, Saul, why do you persecute me?” “Later, Saul became the dynamic and indomitable Paul, the philosopher, if not the founder of the Christian religion” ([UB 128:3.6](/en/The_Urantia_Book/128#p3_6)).
+On the road to Damascus, Saul experiences his own transfiguration. His spiritual experience is authentic. His conversion is sudden, spectacular, different from the slow progress of classical spiritual seekers. He becomes the servant of those he wanted to destroy by violence. He heard in a divine clarity that would blind him momentarily the “Saul, Saul, why do you persecute me?” “Later, Saul became the dynamic and indomitable Paul, the philosopher, if not the founder of the Christian religion” (<a id="a45_499"></a>[UB 128:3.6](/en/The_Urantia_Book/128#p3_6)).
 
 Saul remained marked by his past as a persecutor. He wrote to Titus: “I acted in ignorance.” He declared in Jerusalem: “I persecuted to the death... loading with chains, throwing into prison men and women” ([Acts 22-4](/en/Bible/Acts_of_the_Apostles/22#v4)). In his letter to the Corinthians, he said: “I am the least of the apostles, unworthy to bear this title, because I persecuted the church of God” ([1 Cor 15-9](/en/Bible/1_Corinthians/15#v9)).
 
@@ -39,23 +63,48 @@ Paul has faith, devotion, and courage, without measure. He pushed all his human 
 
 The texts attributed to Paul were declared foundational, canonical, by several councils of the early church. Paul makes a commendable attempt to make the gospel more acceptable to followers of the older religions, but he incorporates into Christianity elements that are totally foreign to the gospel of Jesus.
 
-The Urantia Book in [UB 196:2.1-2](/en/The_Urantia_Book/196#p2_1), “_Paul incorporates his own theological views, describes his experience, his personal religious convictions..., but loses sight of the human Jesus who by his faith, with his Adjuster, rises from the human condition to divinity_”.
+The Urantia Book in <a id="a65_20"></a>[UB 196:2.1-2](/en/The_Urantia_Book/196#p2_1), “_Paul incorporates his own theological views, describes his experience, his personal religious convictions..., but loses sight of the human Jesus who by his faith, with his Adjuster, rises from the human condition to divinity_”.
 
-However, Paul founded a higher, more spiritual cult than the previous pagan cults. He renounced “_magical rites, ceremonial enchantments, but stumbled over the doctrine of redemption, did not see the Adjuster, theorized original sin, the doctrines of hereditary guilt, of innate evil, of his Redemption whose origin is partially Mithraic_” ([UB 121:5.14](/en/The_Urantia_Book/121#p5_14)).
+However, Paul founded a higher, more spiritual cult than the previous pagan cults. He renounced “_magical rites, ceremonial enchantments, but stumbled over the doctrine of redemption, did not see the Adjuster, theorized original sin, the doctrines of hereditary guilt, of innate evil, of his Redemption whose origin is partially Mithraic_” (<a id="a67_341"></a>[UB 121:5.14](/en/The_Urantia_Book/121#p5_14)).
 
-Paul was influenced by the Romanized Greeks who “brought their philosophical convictions, coordinated ideas, systematized ideals.” ([UB 195:2.5](/en/The_Urantia_Book/195#p2_5)).
+Paul was influenced by the Romanized Greeks who “brought their philosophical convictions, coordinated ideas, systematized ideals.” (<a id="a69_132"></a>[UB 195:2.5](/en/The_Urantia_Book/195#p2_5)).
 
 The Christian ritual will be copied from that of the synagogues. The cult of the mysteries, especially that of Mithra and the cult of the emperor will add the pageantry of pagan ceremonies to the new religion “_about Jesus_”.
 
-Let us underline Paul's personal influence on the problems of renunciation, asceticism, continence and the place of women in society. We note in his letter to the Christians of Corinth “It is good for a man not to touch a woman..., I say therefore to the celibate and the widows to remain as I am..., that the women keep silence in the assemblies” ([1 Cor, 7 to 14](/en/Bible/1_Corinthians/7)). “I do not allow a woman to teach” ([Ti, 2-12](/en/Bible/Timothy/2#v12)). He thus favors the creation of priestly castes composed of celibate priests, the beginnings of the future medieval and inquisitorial order. Thus, “_The church, a socialized and humanized shadow, supplants the spiritual concept of the Kingdom lived and taught by Jesus_” ([UB 170:5.6](/en/The_Urantia_Book/170#p5_6)).
+Let us underline Paul's personal influence on the problems of renunciation, asceticism, continence and the place of women in society. We note in his letter to the Christians of Corinth “It is good for a man not to touch a woman..., I say therefore to the celibate and the widows to remain as I am..., that the women keep silence in the assemblies” ([1 Cor, 7 to 14](/en/Bible/1_Corinthians/7)). “I do not allow a woman to teach” ([Ti, 2-12](/en/Bible/Timothy/2#v12)). He thus favors the creation of priestly castes composed of celibate priests, the beginnings of the future medieval and inquisitorial order. Thus, “_The church, a socialized and humanized shadow, supplants the spiritual concept of the Kingdom lived and taught by Jesus_” (<a id="a73_739"></a>[UB 170:5.6](/en/The_Urantia_Book/170#p5_6)).
 
-What can we say about Paul's paradox? We have noted, in The Urantia Book, a fundamental passage that deserves reflection: “_Paul hardly thought that his well-intentioned letters to his converts would later be considered by Christians as the word of God..., educators of good will, like him, must not be held responsible for the use that successors who came much later will have made of their writings_.” ([UB 98:7.9](/en/The_Urantia_Book/98#p7_9)).
+What can we say about Paul's paradox? We have noted, in The Urantia Book, a fundamental passage that deserves reflection: “_Paul hardly thought that his well-intentioned letters to his converts would later be considered by Christians as the word of God..., educators of good will, like him, must not be held responsible for the use that successors who came much later will have made of their writings_.” (<a id="a75_405"></a>[UB 98:7.9](/en/The_Urantia_Book/98#p7_9)).
 
-It is up to us to envisage the future with a flexible organization and indispensable coordinators who will make possible our need for sharing and brotherly love. Prohibiting all prohibitions or human directives is the source of certain divergences. The essential thing is not to forget this Man-God who erases all traces of himself after his passage on earth, but who maintains an ineffable presence, a spiritual density, an intimate proximity in each of those who want it. Let us remember what Jesus wrote in the sand, what he said to the Canaanite woman, his presence to defend the woman falsely accused of adultery. In Bethsaida, speaking to John, he said: “God lives in you, he has become what you are, to make you what He is.” ([UB 148:6.10](/en/The_Urantia_Book/148#p6_10))
+It is up to us to envisage the future with a flexible organization and indispensable coordinators who will make possible our need for sharing and brotherly love. Prohibiting all prohibitions or human directives is the source of certain divergences. The essential thing is not to forget this Man-God who erases all traces of himself after his passage on earth, but who maintains an ineffable presence, a spiritual density, an intimate proximity in each of those who want it. Let us remember what Jesus wrote in the sand, what he said to the Canaanite woman, his presence to defend the woman falsely accused of adultery. In Bethsaida, speaking to John, he said: “God lives in you, he has become what you are, to make you what He is.” (<a id="a77_733"></a>[UB 148:6.10](/en/The_Urantia_Book/148#p6_10))
 
-An extract from the chapter of the Urantia Book in [UB 194:3.15](/en/The_Urantia_Book/194#p3_15) will serve as our conclusion: “_the mother and a brother of Jesus were among the 180 believers who received the Spirit of Pentecost which marked the end of all priesthood or differentiation of sex, caste and racial distinction_”.
+An extract from the chapter of the Urantia Book in <a id="a79_51"></a>[UB 194:3.15](/en/The_Urantia_Book/194#p3_15) will serve as our conclusion: “_the mother and a brother of Jesus were among the 180 believers who received the Spirit of Pentecost which marked the end of all priesthood or differentiation of sex, caste and racial distinction_”.
 
 Paul has the last word: “Where the Spirit of the Lord is, there is liberty.”
 
 Raymonde and Jean Davier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-12-winter-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="pr-2">The Decision Center</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

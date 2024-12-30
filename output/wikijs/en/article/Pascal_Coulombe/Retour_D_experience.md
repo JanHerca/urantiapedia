@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Pascal Coulombe<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasy on a Major Theme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Some Comments on the Difficulties of Disseminating the 5th Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pascal Coulombe
@@ -67,3 +91,28 @@ Dear brothers, let us be strong and constant whatever the trials, because we are
 Fraternally,<br>
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fantasy on a Major Theme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Quelques_Propos_Sur_Les_Difficultes_De_Diffusion">
+          <span class="pr-2">Some Comments on the Difficulties of Disseminating the 5th Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

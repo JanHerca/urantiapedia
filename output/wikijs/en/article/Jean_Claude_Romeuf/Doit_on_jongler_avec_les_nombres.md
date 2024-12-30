@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">For a friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In 1767, Georges Louis Leclerc undertook to date the age of the earth and the planets. With the help of laboratory experiments on the cooling of incandescent balloons and with the help of mathematics, this man of genius, but full of buffoonery (without o), concluded at an age of ten million years. _Some conclude more quickly, it is a matter of feelings and means._
@@ -56,3 +80,28 @@ There would be many other things to say, but it would be, proudly speaking, noth
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Reflexions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami">
+          <span class="pr-2">For a friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

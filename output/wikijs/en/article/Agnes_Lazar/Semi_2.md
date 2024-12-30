@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Agnes Lazar<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_Deite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Deity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_05_Les_questions">
+          <span class="pr-2">Maxi Quiz #5 Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 My mind is the “uterus” in which the meeting of the Divine and myself takes place. Place of fertilization, implantation and gestation of the product of the Nature of God and the human. At the end of this gestation, a behavioral readjustment is expected of me. This right action satisfies my whole being. I no longer feel any lack, I taste fullness...
@@ -53,3 +77,28 @@ For my “Actress Conjointess, ... what flowers?
 <img src="/image/article/Le_Lien/images_01/115.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_Deite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Deity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_05_Les_questions">
+          <span class="pr-2">Maxi Quiz #5 Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

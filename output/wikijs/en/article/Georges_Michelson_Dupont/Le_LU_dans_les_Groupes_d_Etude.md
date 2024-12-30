@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Georges Michelson-Dupont<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°20 The questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Carte_de_la_conscience">
+          <span class="pr-2">Map of consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 STRATEGY AND PRACTICE
@@ -31,17 +55,17 @@ The purpose of this presentation is to share with you the experience accumulated
 	The revelators have demonstrated a great deal of knowledge of the workings of our minds in presenting revelation to us, expertise that we can use in study groups. In practice, the intensive study approach that I suggest is best suited to readers who have read The Urantia Book in its entirety. However, study groups can accommodate new readers who must first become familiar with the teachings. It then becomes necessary to adapt the method to the circumstances.
 	Why study The Urantia Book?
 	When you open The Urantia Book to study the fifth epochal revelation, you have an appointment with God and the spiritual forces who conspire to appropriate for you the reality of spiritual values and assist you in understanding the philosophy of the universe. This is not a flower of rhetoric, it is a reality of experience, can you really measure its importance?
-5. The Urantia Papers. “These expositions, of which this paper is a part, constitute the latest presentation of truth to Urantia mortals.” ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9)) Furthermore, a Melchizedek of Nebadon exhorts us to study the revelation in these words:
+5. The Urantia Papers. “These expositions, of which this paper is a part, constitute the latest presentation of truth to Urantia mortals.” (<a id="a57_140"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)) Furthermore, a Melchizedek of Nebadon exhorts us to study the revelation in these words:
 
-> “_IT IS not enough that the ascending mortal should know something of the relations of Deity to the genesis and manifestations of cosmic reality; he should also comprehend something of the relationships existing between himself and the numerous levels of existential and experiential realities, of potential and actual realities. Man’s terrestrial orientation, his cosmic insight, and his spiritual directionization are all enhanced by a better comprehension of universe realities and their techniques of interassociation, integration, and unification._” ([UB 106:0.1](/en/The_Urantia_Book/106#p0_1))
+> “_IT IS not enough that the ascending mortal should know something of the relations of Deity to the genesis and manifestations of cosmic reality; he should also comprehend something of the relationships existing between himself and the numerous levels of existential and experiential realities, of potential and actual realities. Man’s terrestrial orientation, his cosmic insight, and his spiritual directionization are all enhanced by a better comprehension of universe realities and their techniques of interassociation, integration, and unification._” (<a id="a59_558"></a>[UB 106:0.1](/en/The_Urantia_Book/106#p0_1))
 
 The mandate to reveal. It is clearly identified and expressed in the second paragraph of the introduction by the Divine Counselor in these terms: “***Expand cosmic consciousness and enhance spiritual perception***”
 
-This sentence introduces two concepts: “expanding cosmic consciousness” and “enhancing spiritual perception”. We will decipher the meaning of each a little further on, but already a Melchizedek of Nebadon describes this process as being a technique of ***evolution-revelation*** ([UB 196:3.15](/en/The_Urantia_Book/196#p3_15))
+This sentence introduces two concepts: “expanding cosmic consciousness” and “enhancing spiritual perception”. We will decipher the meaning of each a little further on, but already a Melchizedek of Nebadon describes this process as being a technique of ***evolution-revelation*** (<a id="a63_280"></a>[UB 196:3.15](/en/The_Urantia_Book/196#p3_15))
 
 Behind this concept lies an experiential reality: cooperation with the Thought Adjuster; the mind wholeheartedly seeking to do the will of God and the Thought Adjuster revealing the will of God and thus producing a dynamic of continuing mind expansion and spiritual enhancement.
 
-> Revelation teaches mortal man that, to start such a magnificent and intriguing adventure through space by means of the progression of time, he should begin by the organization of knowledge into idea-decisions; next, mandate wisdom to labor unremittingly at its noble task of transforming self-possessed ideas into increasingly practical but nonetheless supernal ideals, even those concepts which are so reasonable as ideas and so logical as ideals that the Adjuster dares so to combine and spiritize them as to render them available for such association in the finite mind as will constitute them the actual human complement thus made ready for the action of the Truth Spirit of the Sons, the time-space manifestations of Paradise truth—universal truth. The co-ordination of idea-decisions, logical ideals, and divine truth constitutes the possession of a righteous character, the prerequisite for mortal admission to the ever-expanding and increasingly spiritual realities of the morontia worlds. ([UB 101:6.7](/en/The_Urantia_Book/101#p6_7))
+> Revelation teaches mortal man that, to start such a magnificent and intriguing adventure through space by means of the progression of time, he should begin by the organization of knowledge into idea-decisions; next, mandate wisdom to labor unremittingly at its noble task of transforming self-possessed ideas into increasingly practical but nonetheless supernal ideals, even those concepts which are so reasonable as ideas and so logical as ideals that the Adjuster dares so to combine and spiritize them as to render them available for such association in the finite mind as will constitute them the actual human complement thus made ready for the action of the Truth Spirit of the Sons, the time-space manifestations of Paradise truth—universal truth. The co-ordination of idea-decisions, logical ideals, and divine truth constitutes the possession of a righteous character, the prerequisite for mortal admission to the ever-expanding and increasingly spiritual realities of the morontia worlds. (<a id="a67_1001"></a>[UB 101:6.7](/en/The_Urantia_Book/101#p6_7))
 
 **Expanding cosmic consciousness**: it is an intellectual process which is located in the sphere of the mind;
 
@@ -49,13 +73,13 @@ Behind this concept lies an experiential reality: cooperation with the Thought A
 
 ## Expanding Cosmic Consciousness
 
-> Self-consciousness consists in intellectual awareness of personality actuality; it includes the ability to recognize the reality of other personalities. It indicates capacity for individualized experience in and with cosmic realities, equivalating to the attainment of identity status in the personality relationships of the universe. Self-consciousness connotes recognition of the actuality of mind ministration and the realization of relative independence of creative and determinative free will. ([UB 16:8.6](/en/The_Urantia_Book/16#p8_6))
+> Self-consciousness consists in intellectual awareness of personality actuality; it includes the ability to recognize the reality of other personalities. It indicates capacity for individualized experience in and with cosmic realities, equivalating to the attainment of identity status in the personality relationships of the universe. Self-consciousness connotes recognition of the actuality of mind ministration and the realization of relative independence of creative and determinative free will. (<a id="a75_502"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6))
 
 Self-consciousness is therefore an intellectual phenomenon that allows an experience with cosmic realities that are projected as an image in the mental frame. It is also capable of establishing individualized relationships with other personalities. The more the mental frame, the arena of choice, is illuminated by truth, the more meaningful the choices between levels of values become.
 
 ## Cosmic consciousness
 
-> A real birth of cosmic consciousness takes place on mansonia number five. You are becoming universe minded. This is indeed a time of expanding horizons. It is beginning to dawn upon the enlarging minds of the ascending mortals that some stupendous and magnificent, some supernal and divine, destiny awaits all who complete the progressive Paradise ascension, which has been so laboriously but so joyfully and auspiciously begun. At about this point the average mortal ascender begins to manifest bona fide experiential enthusiasm for the Havona ascent. Study is becoming voluntary, unselfish service natural, and worship spontaneous. A real morontia character is budding; a real morontia creature is evolving. ([UB 47:7.5](/en/The_Urantia_Book/47#p7_5))
+> A real birth of cosmic consciousness takes place on mansonia number five. You are becoming universe minded. This is indeed a time of expanding horizons. It is beginning to dawn upon the enlarging minds of the ascending mortals that some stupendous and magnificent, some supernal and divine, destiny awaits all who complete the progressive Paradise ascension, which has been so laboriously but so joyfully and auspiciously begun. At about this point the average mortal ascender begins to manifest bona fide experiential enthusiasm for the Havona ascent. Study is becoming voluntary, unselfish service natural, and worship spontaneous. A real morontia character is budding; a real morontia creature is evolving. (<a id="a81_713"></a>[UB 47:7.5](/en/The_Urantia_Book/47#p7_5))
 
 In spirit, the education which ascending mortals begin to undertake on **Maisonnia No. 5** resembles that which the revelators give to the students of _The Urantia Book_. They expand our horizons by giving us a description of a stupendous and magnificent destiny all the way to Paradise. We become enthusiastic about the prospect of progressing to Havona, we truly desire to study voluntarily and to serve our brothers and sisters unselfishly.
 
@@ -63,9 +87,9 @@ All this is happening here on Urantia and not on **Maisonnia No. 5**. One can le
 
 ## Enhance spiritual perception
 
-> Revelation teaches mortal man that, to start such a magnificent and intriguing adventure through space by means of the progression of time, he should begin by the organization of knowledge into idea-decisions; next, mandate wisdom to labor unremittingly at its noble task of transforming self-possessed ideas into increasingly practical but nonetheless supernal ideals, even those concepts which are so reasonable as ideas and so logical as ideals that the Adjuster dares so to combine and spiritize them as to render them available for such association in the finite mind as will constitute them the actual human complement thus made ready for the action of the Truth Spirit of the Sons, the time-space manifestations of Paradise truth—universal truth. The co-ordination of idea-decisions, logical ideals, and divine truth constitutes the possession of a righteous character, the prerequisite for mortal admission to the ever-expanding and increasingly spiritual realities of the morontia worlds. ([UB 101:6.7](/en/The_Urantia_Book/101#p6_7))
+> Revelation teaches mortal man that, to start such a magnificent and intriguing adventure through space by means of the progression of time, he should begin by the organization of knowledge into idea-decisions; next, mandate wisdom to labor unremittingly at its noble task of transforming self-possessed ideas into increasingly practical but nonetheless supernal ideals, even those concepts which are so reasonable as ideas and so logical as ideals that the Adjuster dares so to combine and spiritize them as to render them available for such association in the finite mind as will constitute them the actual human complement thus made ready for the action of the Truth Spirit of the Sons, the time-space manifestations of Paradise truth—universal truth. The co-ordination of idea-decisions, logical ideals, and divine truth constitutes the possession of a righteous character, the prerequisite for mortal admission to the ever-expanding and increasingly spiritual realities of the morontia worlds. (<a id="a89_1001"></a>[UB 101:6.7](/en/The_Urantia_Book/101#p6_7))
 
-> Jesus taught the appeal to the emotions as the technique of arresting and focusing the intellectual attention. He designated the mind thus aroused and quickened as the gateway to the soul, where there resides that spiritual nature of man which must recognize truth and respond to the spiritual appeal of the gospel in order to afford the permanent results of true character transformations. ([UB 152:6.4](/en/The_Urantia_Book/152#p6_4))
+> Jesus taught the appeal to the emotions as the technique of arresting and focusing the intellectual attention. He designated the mind thus aroused and quickened as the gateway to the soul, where there resides that spiritual nature of man which must recognize truth and respond to the spiritual appeal of the gospel in order to afford the permanent results of true character transformations. (<a id="a91_394"></a>[UB 152:6.4](/en/The_Urantia_Book/152#p6_4))
 
 And the Divine Counselor ends his introduction with: “But we know that a fragment of God dwells in the human mind and that the Spirit of Truth dwells with the human soul. Furthermore, we know that these spiritual forces conspire to enable material man to grasp the reality of spiritual values and to understand the philosophy of the meanings of the universe. But, with even greater certainty, we know that these spirits of the Divine Presence can help man to spiritually appropriate all truth contributing to enhancing the ever-progressing reality of personal religious experience — the consciousness of God” (0: Acknowledgments)
 
@@ -77,9 +101,9 @@ I personally find touching and remarkable the respectful way they suggest withou
 
 ### Start with the Introduction
 
-> IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. Because of this conceptual poverty associated with so much ideational confusion, I have been directed to formulate this introductory statement in explanation of the meanings which should be attached to certain word symbols as they may be hereinafter used in those papers which the Orvonton corps of truth revealers have been authorized to translate into the English language of Urantia. ([UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
+> IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. Because of this conceptual poverty associated with so much ideational confusion, I have been directed to formulate this introductory statement in explanation of the meanings which should be attached to certain word symbols as they may be hereinafter used in those papers which the Orvonton corps of truth revealers have been authorized to translate into the English language of Urantia. (<a id="a103_704"></a>[UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
 
-Indeed, observation shows that the apparent hermeticism of the language of the Urantia Book and the resulting ideational confusion put off many readers and become the most frequent cause of abandonment. It is therefore necessary to begin with a thorough study of the introduction assisted by an experienced reader who can provide affectionate and understanding support to the student or new reader. The study of the following papers will be much more interesting and will take on much more meaning. Aware of this, the Divine Counselor warns us that “Because of this poverty of concepts associated with so much confusion in ideation, I have been instructed to formulate this introductory statement to explain the meanings that should be attached to certain verbal symbols as they may be used in the continuation of the present papers that the corps of truth revealers of Orvonton has been authorized to translate into the English language of Urantia.” ([UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
+Indeed, observation shows that the apparent hermeticism of the language of the Urantia Book and the resulting ideational confusion put off many readers and become the most frequent cause of abandonment. It is therefore necessary to begin with a thorough study of the introduction assisted by an experienced reader who can provide affectionate and understanding support to the student or new reader. The study of the following papers will be much more interesting and will take on much more meaning. Aware of this, the Divine Counselor warns us that “Because of this poverty of concepts associated with so much confusion in ideation, I have been instructed to formulate this introductory statement to explain the meanings that should be attached to certain verbal symbols as they may be used in the continuation of the present papers that the corps of truth revealers of Orvonton has been authorized to translate into the English language of Urantia.” (<a id="a105_952"></a>[UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
 
 In the Introduction, the Divine Counselor commits to:
 
@@ -93,7 +117,7 @@ In the Introduction, the Divine Counselor commits to:
 
 It would not occur to us to listen to a symphony by starting anywhere other than at the beginning. The Urantia Book is a symphony and must be appreciated by starting at the beginning. As proof of this, we would like the following clarification provided by the Divine Counselor.
 
-> “_Therefore, because of these and for still other reasons, do we employ the technique of approaching man and his planetary problems by embarkation on the time-space journey from the infinite, eternal, and divine Paradise Source and Center of all personality reality and all cosmic existence._” ([UB 19:1.12](/en/The_Urantia_Book/19#p1_12))
+> “_Therefore, because of these and for still other reasons, do we employ the technique of approaching man and his planetary problems by embarkation on the time-space journey from the infinite, eternal, and divine Paradise Source and Center of all personality reality and all cosmic existence._” (<a id="a119_297"></a>[UB 19:1.12](/en/The_Urantia_Book/19#p1_12))
 
 This is how the revelators present the fascicles, starting with God, the central universe and the superuniverses (Fasc. 1 to 31) then continuing to the level of the local universe (Fasc. 32 to 56), then to the level of our planet and its history (Fasc. 57 to 114) and finally introducing our destiny (Fasc. 115 to 118).
 
@@ -137,11 +161,11 @@ Solitary reading of the booklets is necessary but insufficient. Very quickly the
 
 The term “teacher” in the context of this presentation is a person, “a big brother” who has a deep understanding of The Urantia Book and who wishes to assist the younger ones to appropriate its content without imposing his point of view (we will see in the next chapter “The strategy of the study group” how he can become a “midwife” of ideas). In no case is he a “master to think”, a “guru” or someone who declares himself as having the authority to teach or seeking personal gratification. His work is in no way remunerated. His motivation flows naturally from the fact that he has found God and that he ardently desires to serve his companions out of love.
 
-> “_Religious desire is the hunger quest for divine reality. Religious experience is the realization of the consciousness of having found God. And when a human being does find God, there is experienced within the soul of that being such an indescribable restlessness of triumph in discovery that he is impelled to seek loving service-contact with his less illuminated fellows, not to disclose that he has found God, but rather to allow the overflow of the welling-up of eternal goodness within his own soul to refresh and ennoble his fellows. Real religion leads to increased social service._” ([UB 102:3.4](/en/The_Urantia_Book/102#p3_4))
+> “_Religious desire is the hunger quest for divine reality. Religious experience is the realization of the consciousness of having found God. And when a human being does find God, there is experienced within the soul of that being such an indescribable restlessness of triumph in discovery that he is impelled to seek loving service-contact with his less illuminated fellows, not to disclose that he has found God, but rather to allow the overflow of the welling-up of eternal goodness within his own soul to refresh and ennoble his fellows. Real religion leads to increased social service._” (<a id="a163_595"></a>[UB 102:3.4](/en/The_Urantia_Book/102#p3_4))
 
 During the study, it is quite natural for the teacher to deliver his interpretation according to his understanding of this or that passage of the _Urantia Book_. But, this is not the right method because in doing so, the teacher interprets the author's thought at the risk of imposing a partial, subjective, inaccurate or even erroneous point of view. In truth, all the clarifications, expansions of concepts and answers to the legitimate questions of the participants are found in the book itself and the right method consists, for the teacher, in looking for them and using them as “cross-references” that is to say paragraphs or passages providing clarification in the terminology, presenting an additional point of view, enhancing an ideal, or deepening this or that concept. This is precisely the technique remarkably used by the revelators to extend our cosmic consciousness and broaden our mental framework.
 
-A well-chosen cross-reference in the context of a given sharing can really clarify, even profoundly enhance the spiritual perception of the participants. For example, in the sentence: “_This magnificent and universal injunction to strive for the perfection of divinity is the first duty and should be the highest ambition of all creatures struggling in the creation of the God of perfection._” ([UB 1:0.4](/en/The_Urantia_Book/1#p0_4)) the term “duty” shocked some participants and I knew in advance that it would be a source of discussion. The Divine Counselor uses the term duty here to make us reflect on the responsibility that is ours to obey this injunction. By choosing to refer to Paper 117, Section 4 we have truly received from the Mighty Messenger a masterful, clear and significant response to our responsibility not only as a child of the Universal Father but also towards the members of God the Sevenfold.
+A well-chosen cross-reference in the context of a given sharing can really clarify, even profoundly enhance the spiritual perception of the participants. For example, in the sentence: “_This magnificent and universal injunction to strive for the perfection of divinity is the first duty and should be the highest ambition of all creatures struggling in the creation of the God of perfection._” (<a id="a167_395"></a>[UB 1:0.4](/en/The_Urantia_Book/1#p0_4)) the term “duty” shocked some participants and I knew in advance that it would be a source of discussion. The Divine Counselor uses the term duty here to make us reflect on the responsibility that is ours to obey this injunction. By choosing to refer to Paper 117, Section 4 we have truly received from the Mighty Messenger a masterful, clear and significant response to our responsibility not only as a child of the Universal Father but also towards the members of God the Sevenfold.
 
 Some participants experienced a very great spiritual emotion and this “duty” which had remained at the level of the intellect really rose to the spiritual level of sincere desire and recognition of personal responsibility.
 
@@ -192,7 +216,7 @@ Once again and discreetly the revelators bring to our attention precious indicat
 > _2. The co-ordination of known or about-to-be-known facts and observations._
 > _3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past._
 > _4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge._
-> _5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation._ ([UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5))
+> _5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation._ (<a id="a218_131"></a>[UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5))
 
 So here is the strategy they have put in place for the expansion of our
 cosmic consciousness. These 5 points constitute a teaching taxonomy which will constitute a grid on which our questioning will be based.
@@ -201,7 +225,7 @@ When preparing the meeting, the teacher will be keen to research the questions t
 
 ### Sharing
 
-> “_Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living._” ([UB 100:0.2](/en/The_Urantia_Book/100#p0_2))
+> “_Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living._” (<a id="a227_314"></a>[UB 100:0.2](/en/The_Urantia_Book/100#p0_2))
 
 1. The _sharing_ of answers to questions provides an opportunity to listen to the views of other religionists and produces a greater appreciation of each other by inspiring goodwill and friendly, brotherly relations.
 2. The _sharing_ of personal spiritual experience with other religionists, combined with the support of the Thought Adjuster, is a powerful spiritual lever and stimulates the growth of soul and ideals.
@@ -222,15 +246,15 @@ Once the concept is related to one's daily life, it becomes an experiential real
 
 To illustrate a concept or otherwise illuminate a particular concept, it is sometimes necessary to refer to other paragraphs scattered throughout The Urantia Book. This is what I call the crossing of ideas. The English call this concept “cross-fertilizing” which is difficult to translate into French because in addition to the idea of crossing, it incorporates the notion of fertilization, that is to say the possibility of producing a third idea improved in relation to the two parent ideas.
 
-> In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence. ([UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
+> In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence. (<a id="a248_900"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
 
 After reading the paragraph and listening to the participants' comments, the teacher can begin to provide additional information on certain sentences that require additional clarification:
 
-The expression “_to make the adjustments of the human will_” refers to the innate capacity of human free will to choose between good and relative evil. By referring to [UB 16:6.4](/en/The_Urantia_Book/16#p6_4). the participant will find a further explanation of the mechanism of the cosmic mind in the personality. Then, by going a little further to section 8, paragraph 6 of the same booklet he will find the situations in which the free will of the personality is engaged.
+The expression “_to make the adjustments of the human will_” refers to the innate capacity of human free will to choose between good and relative evil. By referring to <a id="a252_168"></a>[UB 16:6.4](/en/The_Urantia_Book/16#p6_4). the participant will find a further explanation of the mechanism of the cosmic mind in the personality. Then, by going a little further to section 8, paragraph 6 of the same booklet he will find the situations in which the free will of the personality is engaged.
 
-The phrase “Transformations in the Mortal Mind” refers to the mind's wholehearted willingness to be transformed by the Spirit that lives and inspires it. In [UB 110:3.4](/en/The_Urantia_Book/110#p3_4) the Solitary Messenger explains how to better cooperate with the Adjuster, and in [UB 111:1.3](/en/The_Urantia_Book/111#p1_3) He dissects the mental framework within which personality choices are made.
+The phrase “Transformations in the Mortal Mind” refers to the mind's wholehearted willingness to be transformed by the Spirit that lives and inspires it. In <a id="a254_157"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4) the Solitary Messenger explains how to better cooperate with the Adjuster, and in <a id="a254_283"></a>[UB 111:1.3](/en/The_Urantia_Book/111#p1_3) He dissects the mental framework within which personality choices are made.
 
-The expression “a transmutation of the potentially spiritual phases of the mortal mind into the morontia realities of the immortal soul” actually refers to the mechanism of transposition of the spiritual content of human actions by the Thought Adjuster. A luminous explanation of the process is developed in [UB 108:5.5](/en/The_Urantia_Book/108#p5_5) and the teacher will have full latitude to refer to it.
+The expression “a transmutation of the potentially spiritual phases of the mortal mind into the morontia realities of the immortal soul” actually refers to the mechanism of transposition of the spiritual content of human actions by the Thought Adjuster. A luminous explanation of the process is developed in <a id="a256_308"></a>[UB 108:5.5](/en/The_Urantia_Book/108#p5_5) and the teacher will have full latitude to refer to it.
 
 ## THE REUNION
 
@@ -280,15 +304,15 @@ At the end of the discussion, it is good to recall how each participant experien
 
 ### Some examples of questions and comments
 
-- _Reduce confusion by authoritatively eliminating errors._ The following quote from the Bible contains an error. “_It is through the Son that God created the universes, and it is to him that he has destined the ownership of all things._” It is authoritatively corrected by the following sentence: “_. . . It is by the Sons of God that the universes were made, . . ._”. ([UB 1:0.1](/en/The_Urantia_Book/1#p0_1))
+- _Reduce confusion by authoritatively eliminating errors._ The following quote from the Bible contains an error. “_It is through the Son that God created the universes, and it is to him that he has destined the ownership of all things._” It is authoritatively corrected by the following sentence: “_. . . It is by the Sons of God that the universes were made, . . ._”. (<a id="a306_371"></a>[UB 1:0.1](/en/The_Urantia_Book/1#p0_1))
 
-> “_The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath._” ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
+> “_The barbarous idea of appeasing an angry God, of propitiating an offended Lord, of winning the favor of Deity through sacrifices and penance and even by the shedding of blood, represents a religion wholly puerile and primitive, a philosophy unworthy of an enlightened age of science and truth. Such beliefs are utterly repulsive to the celestial beings and the divine rulers who serve and reign in the universes. It is an affront to God to believe, hold, or teach that innocent blood must be shed in order to win his favor or to divert the fictitious divine wrath._” (<a id="a308_572"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4))
 
 The Divine Counselor here denounces the Christian dogma of the death of Christ on the cross for the remission of the sins of men.
 
 - Present cosmic data in a way that illuminates the spiritual teachings contained in the accompanying revelation.
 
-> The myriads of planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who could know God, receive the divine affection, and love him in return. The universe of universes is the work of God and the dwelling place of his diverse creatures. “God created the heavens and formed the earth; he established the universe and created this world not in vain; he formed it to be inhabited.” ([UB 1:0.2](/en/The_Urantia_Book/1#p0_2))
+> The myriads of planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who could know God, receive the divine affection, and love him in return. The universe of universes is the work of God and the dwelling place of his diverse creatures. “God created the heavens and formed the earth; he established the universe and created this world not in vain; he formed it to be inhabited.” (<a id="a314_444"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2))
 
 The Divine Counselor unveils the transcendent purpose of the universe that science cannot formulate in order to place man in a context of cosmic brotherhood illuminating his personal and spiritual relationship with God, his Father and his loving creator.
 
@@ -317,3 +341,28 @@ Georges Michelson-Dupont
 <figcaption>“Created to give, love and know you are loved!”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°20 The questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Carte_de_la_conscience">
+          <span class="pr-2">Map of consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

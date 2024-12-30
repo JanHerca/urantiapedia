@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Dominic Ronfet<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony from Ivory Coast</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Implication_of_Free_Will_in_the_Cosmos">
+          <span class="pr-2">Implication of Free Will in the Cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Translation: How to live open to the Spirit_
@@ -54,7 +78,7 @@ My aim is to place us, individuals, in a position to have a philosophy of life m
 
 A first quote to set our perspective:
 
-> “Jesus knew men were different, and he so taught his apostles. He constantly exhorted them to refrain from trying to mold the disciples and believers according to some set pattern. He sought to allow each soul to develop in its own way, a perfecting and separate individual before God. In answer to one of Peter’s many questions, the Master said: “I want to set men free so that they can start out afresh as little children upon the new and better life.” Jesus always insisted that true goodness must be unconscious, in bestowing charity not allowing the left hand to know what the right hand does.” ([UB 140:8.26](/en/The_Urantia_Book/140#p8_26))
+> “Jesus knew men were different, and he so taught his apostles. He constantly exhorted them to refrain from trying to mold the disciples and believers according to some set pattern. He sought to allow each soul to develop in its own way, a perfecting and separate individual before God. In answer to one of Peter’s many questions, the Master said: “I want to set men free so that they can start out afresh as little children upon the new and better life.” Jesus always insisted that true goodness must be unconscious, in bestowing charity not allowing the left hand to know what the right hand does.” (<a id="a80_603"></a>[UB 140:8.26](/en/The_Urantia_Book/140#p8_26))
 
 - I would note four points in this extract:
 - Have restraint with respect to a pre-established teaching model,
@@ -96,13 +120,13 @@ We must feel, through our body, our capacity to think well.
 
 But who is this Spirit who, under the expression of Spirit of Truth, seeks to unify humanity?
 
-> “Pentecost was designed to lessen the self-assertiveness of individuals, groups, nations, and races. It is this spirit of self-assertiveness which so increases in tension that it periodically breaks loose in destructive wars. Mankind can be unified only by the spiritual approach, and the Spirit of Truth is a world influence which is universal.” ([UB 194:3.18](/en/The_Urantia_Book/194#p3_18))
+> “Pentecost was designed to lessen the self-assertiveness of individuals, groups, nations, and races. It is this spirit of self-assertiveness which so increases in tension that it periodically breaks loose in destructive wars. Mankind can be unified only by the spiritual approach, and the Spirit of Truth is a world influence which is universal.” (<a id="a122_350"></a>[UB 194:3.18](/en/The_Urantia_Book/194#p3_18))
 
 Arrogance is a fairly widespread form of expression of power and domination of one population over another, of one individual over another.
 
 Our entire history is built around these battles which ultimately start from poorly constructed individuals, convinced that they understand the meaning of what is happening to them while we are like blind people forcibly guiding other blind people.
 
-> “On the day of Pentecost the religion of Jesus broke all national restrictions and racial fetters. It is forever true, “Where the spirit of the Lord is, there is liberty.” On this day the Spirit of Truth became the personal gift from the Master to every mortal. This spirit was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom, but they mistook the experience of receiving the outpoured spirit for a part of the new gospel which they were unconsciously formulating.” ([UB 194:3.5](/en/The_Urantia_Book/194#p3_5))
+> “On the day of Pentecost the religion of Jesus broke all national restrictions and racial fetters. It is forever true, “Where the spirit of the Lord is, there is liberty.” On this day the Spirit of Truth became the personal gift from the Master to every mortal. This spirit was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom, but they mistook the experience of receiving the outpoured spirit for a part of the new gospel which they were unconsciously formulating.” (<a id="a128_523"></a>[UB 194:3.5](/en/The_Urantia_Book/194#p3_5))
 
 So why do we listen so little to others? Why do we still have these reflexes of arrogance, of believing our certainties as being truths of experiences to be imposed, absolutely.
 
@@ -136,3 +160,28 @@ _and before him the ages open._
 
 Dominique Ronfet.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony from Ivory Coast</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Implication_of_Free_Will_in_the_Cosmos">
+          <span class="pr-2">Implication of Free Will in the Cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

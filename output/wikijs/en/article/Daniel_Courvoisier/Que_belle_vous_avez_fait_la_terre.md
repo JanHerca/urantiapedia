@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Daniel Courvoisier<br>© 2008 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Words of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-44-autumn-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 44 — Autumn 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yolanda_Silva_Solano/Molecules_messageres">
+          <span class="pr-2">Messenger Molecules</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -53,3 +77,28 @@ In his career.<br>
 
 Daniel Courvoisier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eileen_Caddy/Paroles_de_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Words of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-44-autumn-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 44 — Autumn 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yolanda_Silva_Solano/Molecules_messageres">
+          <span class="pr-2">Messenger Molecules</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

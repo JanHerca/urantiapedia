@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="pr-2">Third Italian Readers’ Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 JUNE 15 TO 18, 2017
@@ -148,3 +172,28 @@ Resident of the Urantia Association of the Netherlands (UAISUN)
 Info@urantia.nl
 Tel: +31 (0) 6-25468368
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Troisieme_Congres_des_lecteurs_Italiens">
+          <span class="pr-2">Third Italian Readers’ Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

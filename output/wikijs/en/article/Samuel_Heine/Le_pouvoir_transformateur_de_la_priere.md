@@ -37,7 +37,7 @@ It is the living, intimate and personal religiosity between oneself and God. Ove
 It's something we can't do for someone else, we can at most be living and contagious examples of it.
 <br style="clear:both;"/>
 
-> It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings “never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.” Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed. ([UB 34:6.8](/en/The_Urantia_Book/34#p6_8))
+> It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings “never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.” Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed. (<a id="a39_557"></a>[UB 34:6.8](/en/The_Urantia_Book/34#p6_8))
 
 ## Simple faith
 
@@ -66,7 +66,7 @@ It's a state of mind.
 “The quickest way to get an ulcer is to try to be something you are not.” (smile)
 <br style="clear:both;"/>
 
-> “. . . Loyal persons are growing persons, and growth is an impressive and inspiring reality. Live loyally today—grow—and tomorrow will attend to itself. The quickest way for a tadpole to become a frog is to live loyally each moment as a tadpole.” ([UB 100:1.4](/en/The_Urantia_Book/100#p1_4))
+> “. . . Loyal persons are growing persons, and growth is an impressive and inspiring reality. Live loyally today—grow—and tomorrow will attend to itself. The quickest way for a tadpole to become a frog is to live loyally each moment as a tadpole.” (<a id="a68_250"></a>[UB 100:1.4](/en/The_Urantia_Book/100#p1_4))
 
 ## References
 

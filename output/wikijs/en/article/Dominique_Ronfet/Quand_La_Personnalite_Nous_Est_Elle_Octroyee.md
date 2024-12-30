@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Dominique Ronfet<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Are We Granted Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="pr-2">Some information about Urantia Foundation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Facts, meanings... so what?
@@ -95,9 +119,34 @@ We are not always brilliant dancers.
 
 — Ok, let's go for Leonington.
 
-\* [UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
+\* <a id="a121_3"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
 
-\*\* [UB 111:2.4](/en/The_Urantia_Book/111#p2_4)
+\*\* <a id="a123_5"></a>[UB 111:2.4](/en/The_Urantia_Book/111#p2_4)
 
 Dominique
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Are We Granted Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="pr-2">Some information about Urantia Foundation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

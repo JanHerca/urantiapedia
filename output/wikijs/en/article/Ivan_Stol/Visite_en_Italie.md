@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Ivan Stol<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visit to England</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="pr-2">All These Trips in Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Once again this year, we met the Italians, but if our dynamic Danielle LA Scala once again participated in the organization of this meeting and once again played a vital role as interpreter, we intervened much less in the course of the discussions and the Italians acquired a certain mastery in this area.
@@ -29,7 +53,7 @@ He led us to use our discernment to seek to understand where the information cou
 
 Everyone shared and benefited from these exchanges. The passages that were chosen as support are the following:
 
-[UB 155:6.1](/en/The_Urantia_Book/155#p6_1); [UB 1:0.3-6](/en/The_Urantia_Book/1#p0_3) “Be perfect as I am perfect”; [UB 1:2.3](/en/The_Urantia_Book/1#p2_3) What is God’s consciousness?; [UB 107:0.5](/en/The_Urantia_Book/107#p0_5) “the will of the Father?; [UB 5:1.6-7](/en/The_Urantia_Book/5#p1_6); [UB 1:3.7](/en/The_Urantia_Book/1#p3_7) (adjustments... transformations...); [UB 3:5.5-6](/en/The_Urantia_Book/3#p5_5) What are the “inevitabilities” of your experiences; [UB 107:0.3](/en/The_Urantia_Book/107#p0_3); [UB 111:5.2](/en/The_Urantia_Book/111#p5_2)); [UB 110:3.4](/en/The_Urantia_Book/110#p3_4); [UB 108:5.10](/en/The_Urantia_Book/108#p5_10) (in fine) “you have guides...”; [UB 110:3.4](/en/The_Urantia_Book/110#p3_4); [UB 196:3.7-10](/en/The_Urantia_Book/196#p3_7) “the human mind...”; [UB 117:6.10](/en/The_Urantia_Book/117#p6_10); [UB 7:3.3-7](/en/The_Urantia_Book/7#p3_3); [UB 143:7](/en/The_Urantia_Book/143#p7); [UB 91:9.1](/en/The_Urantia_Book/91#p9_1); [UB 39:4.13-14](/en/The_Urantia_Book/39#p4_13); [UB 106:9.11-12](/en/The_Urantia_Book/106#p9_11)
+<a id="a55_0"></a>[UB 155:6.1](/en/The_Urantia_Book/155#p6_1); <a id="a55_45"></a>[UB 1:0.3-6](/en/The_Urantia_Book/1#p0_3) “Be perfect as I am perfect”; <a id="a55_117"></a>[UB 1:2.3](/en/The_Urantia_Book/1#p2_3) What is God’s consciousness?; <a id="a55_187"></a>[UB 107:0.5](/en/The_Urantia_Book/107#p0_5) “the will of the Father?; <a id="a55_257"></a>[UB 5:1.6-7](/en/The_Urantia_Book/5#p1_6); <a id="a55_300"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7) (adjustments... transformations...); <a id="a55_377"></a>[UB 3:5.5-6](/en/The_Urantia_Book/3#p5_5) What are the “inevitabilities” of your experiences; <a id="a55_471"></a>[UB 107:0.3](/en/The_Urantia_Book/107#p0_3); <a id="a55_516"></a>[UB 111:5.2](/en/The_Urantia_Book/111#p5_2)); <a id="a55_562"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4); <a id="a55_607"></a>[UB 108:5.10](/en/The_Urantia_Book/108#p5_10) (in fine) “you have guides...”; <a id="a55_685"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4); <a id="a55_730"></a>[UB 196:3.7-10](/en/The_Urantia_Book/196#p3_7) “the human mind...”; <a id="a55_798"></a>[UB 117:6.10](/en/The_Urantia_Book/117#p6_10); <a id="a55_845"></a>[UB 7:3.3-7](/en/The_Urantia_Book/7#p3_3); <a id="a55_888"></a>[UB 143:7](/en/The_Urantia_Book/143#p7); <a id="a55_929"></a>[UB 91:9.1](/en/The_Urantia_Book/91#p9_1); <a id="a55_972"></a>[UB 39:4.13-14](/en/The_Urantia_Book/39#p4_13); <a id="a55_1020"></a>[UB 106:9.11-12](/en/The_Urantia_Book/106#p9_11)
 
 For meals we had to walk around a bit, but we used our shared stay time intensively for our work. People who wanted to visit this beautiful region Lake Garda, Verona, made arrangements to do so by extending their stay.
 
@@ -39,3 +63,28 @@ We remain attentive and available to respond to any request.
 
 Ivan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visit to England</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="pr-2">All These Trips in Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

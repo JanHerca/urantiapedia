@@ -38,7 +38,7 @@ Service is part of our spiritual evolution; to serve is to want to do good to ot
 
 One day we will all be gathered together somewhere on one of the mansion worlds or on Jerusem and we will look back together on our previous life on Urantia, and our heavenly helpers will point out to us the many growth experiences we have had that have made us grow and those that we have let pass us by. Let us make a sincere effort to accumulate as many growth experiences as possible before we leave this world, let us leave a little more than we have received, let us participate in the second league, this is what Jesus asks of us.
 
-> “_In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the *second* mile of free service and liberty-loving devotion that betokens the Jesusonian reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence._” ([UB 195:10.5](/en/The_Urantia_Book/195#p10_5))
+> “_In winning souls for the Master, it is not the first mile of compulsion, duty, or convention that will transform man and his world, but rather the *second* mile of free service and liberty-loving devotion that betokens the Jesusonian reaching forth to grasp his brother in love and sweep him on under spiritual guidance toward the higher and divine goal of mortal existence._” (<a id="a40_382"></a>[UB 195:10.5](/en/The_Urantia_Book/195#p10_5))
 
 To love is to serve
 

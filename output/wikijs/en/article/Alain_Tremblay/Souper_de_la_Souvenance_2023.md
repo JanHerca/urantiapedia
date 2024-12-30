@@ -31,7 +31,7 @@ On Thursday, April 6, during the Remembrance Supper, I had the pleasure of meeti
 
 “Let us remember the whole life and teachings of Jesus, imitate his faith, produce the fruits of the Spirit, love one another as he loved us!”
 
-And finally, from _The Urantia Book_: “The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth.” Paper [UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
+And finally, from _The Urantia Book_: “The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth.” Paper <a id="a33_212"></a>[UB 194:3.4](/en/The_Urantia_Book/194#p3_4)
 
 In short, inspiring quotes which through our discussions raised the level of our exchanges and our communion. Personally, it did me a lot of good. I felt grown, confirmed in my faith by realizing my belonging to a dynamic, living fraternity, which I would even dare to describe as... eternal. I returned home with the clear impression of having experienced a very beautiful and meaningful singular event. This developing spiritual connection will be for me and our fraternity “like a bridge thrown over space and time”! A moment which will mark the continuity of a lineage which will continue to grow and last for a long time.
 

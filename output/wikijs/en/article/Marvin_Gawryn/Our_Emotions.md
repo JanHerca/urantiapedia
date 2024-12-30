@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Marvin Gawryn<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Apostles – The Lion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Gift of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Emotions are feeling reactions to reality that impact all parts of the personality. Some emotions initiate an instinctive psychological reaction in our body. When we experience positive emotions such as love or joy, our body is invigorated, our mind purified and our soul fulfilled. On the other hand, negative emotions such as anger or fear degrade our body, poison our mind, diminish our soul and obstruct any spiritual intake. In the mature personality, the will and the spirit direct the march, while the emotions are channeled towards higher objectives.
@@ -41,3 +65,28 @@ However, if we take charge and open our personalities to the guidance of spirit,
 
 Marvin Gawryn
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Les_Apotres_Le_Lion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Apostles – The Lion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joel_Goldsmith/Gift_of_Love">
+          <span class="pr-2">Gift of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

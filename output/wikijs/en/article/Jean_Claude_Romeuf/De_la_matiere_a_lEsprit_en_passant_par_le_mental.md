@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti_et_Johanna_Beukers/Partage_du_LU_avec_de_jeunes_Ados">
+          <span class="pr-2">Sharing The Urantia Book with young teens.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Life does not happen by chance. It is intentional, never accidental. Mind linked to Spirit is creative and produces life.
@@ -78,7 +102,7 @@ But man is both a personal and collective being. The influence of the Spirit on 
 
 **<ins>4. Talking about Love</ins>**
 
-During the embryonic period which lasts from a few days to a few months, every individual, whether animal or human, goes through the evolutionary cycle of millions of years which has given the characteristics of its species. The embryonic layers develop and become more and more specialized by cellular multiplication. The Urantia Book tells us [UB 55:6.4](/en/The_Urantia_Book/55#p6_4) that during intra-uterine life, the adjutant mental spirits are operative.
+During the embryonic period which lasts from a few days to a few months, every individual, whether animal or human, goes through the evolutionary cycle of millions of years which has given the characteristics of its species. The embryonic layers develop and become more and more specialized by cellular multiplication. The Urantia Book tells us <a id="a104_345"></a>[UB 55:6.4](/en/The_Urantia_Book/55#p6_4) that during intra-uterine life, the adjutant mental spirits are operative.
 
 The human baby arriving in the world with the most developed brain in the animal kingdom, we can think that already, the first five adjutants have begun to shape his mind so that he becomes sensitive, during his childhood, to the spirits of worship and wisdom characterizing the material mind of the human being. This makes the young man a volitional being, capable of moral choices and able to learn to discover the God who now inhabits him.
 
@@ -102,3 +126,28 @@ With the posthumous permission of Georges Brassens, we will say in conclusion th
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti_et_Johanna_Beukers/Partage_du_LU_avec_de_jeunes_Ados">
+          <span class="pr-2">Sharing The Urantia Book with young teens.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

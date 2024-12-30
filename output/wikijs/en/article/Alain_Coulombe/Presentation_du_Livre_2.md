@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Alain Coulombe<br>© 2008 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-42-spring-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 42 — Spring 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">A Little Reflection on the Power of Loving (Part 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It is only during his years of innocence or if he has managed, by personal decision, to purify himself and to spiritualize himself somewhat, sometimes at the cost of some harsh ordeal, that the human being can grant, partially and most often without his knowledge, the passage to the divine exhortation that the fragment of the universal Father delivers in his spirit. However limited and imperfect they may be, these contacts between the creature and the creator nevertheless immensely enrich human thought by allowing it to forge, day after day, what will remain of it after death, its soul, this pre-spiritual entity, altruistic and fraternal, freed from animal burdens and vivified by the spirit of trust and that of truth. Put to sleep at the moment of physical death and transported by spiritual personalities to worlds constructed for this purpose, the soul will be able to reveal itself capable of animating a supramaterial body there and then undertaking, with the loving and sure help of patient and devoted guides, the long and fascinating journey that will lead it towards eternity. And when it has finally conquered time and space, pierced the mysteries and mastered the mechanisms of cosmic thought and known God in the three infinite persons of his trinity, other accomplishments, even more prodigious, will be proposed to it.
@@ -33,3 +57,28 @@ Human creatures should not expect God to demonstrate his power to them through m
 
 Despite God's extreme discretion, it sometimes happens that, for one reason or another and most often when a planetary emergency requires it, the brief and limited intervention of supramaterial personalities strongly influences certain human creatures, thus creating some rare but spectacular interferences of the spiritual in the material. It is also common for the message transmitted in these circumstances to be partially misunderstood and transformed by the human spirit that receives it, but this is not always the case. Generally speaking, any message containing propositions contrary to the essential exhortation of God, which enjoins that we rise up to him by loving, helping and respecting other human creatures, must be considered altered. A few decades ago a long written message appeared on this planet which brings human beings an updated history of the relationships between God and his creatures and which will doubtless provide future generations with an abundant source of reflection.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-42-spring-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 42 — Spring 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_2">
+          <span class="pr-2">A Little Reflection on the Power of Loving (Part 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

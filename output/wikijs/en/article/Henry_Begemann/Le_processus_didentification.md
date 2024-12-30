@@ -9,13 +9,37 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Henry Begemann<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 10 — Summer 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-10-summer-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 10 — Summer 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="pr-2">The Evolution of Fetishism and Idols “Sacred Books”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Henry Begemann
 The Urantian Journal of the Brotherhood
 Spring 1979
 
-The Urantia Book reveals that our personality is of such majestic grandeur that, unchanged, it can function even at the borders of the absolute! ([UB 112:1.1](/en/The_Urantia_Book/112#p1_1)) This same personality that we have now, does not develop to that unimaginable level, nor does it grow to that level. The personality remains unchanged.
+The Urantia Book reveals that our personality is of such majestic grandeur that, unchanged, it can function even at the borders of the absolute! (<a id="a41_146"></a>[UB 112:1.1](/en/The_Urantia_Book/112#p1_1)) This same personality that we have now, does not develop to that unimaginable level, nor does it grow to that level. The personality remains unchanged.
 
 To reconcile this heavenly truth with the reality we know, it seems inevitable to conclude that the personality does not know itself, or at least incompletely. And it takes ages and ages, and even more than time, for the personality to acquire this real self-knowledge and to reach that level of self-realization where it can truly be said: I am that I am. (To use capital letters here would be presumptuous.) Even the writers of _The URANTIA Book_ are not sure that there is such a finality for a son of an Infinite Father.
 
@@ -25,7 +49,7 @@ Attaining true self-realization is “the secret of evolution.” The fulfillmen
 
 For want of self-knowledge this primitive beginning of self-consciousness must necessarily take the form of identification with this organism. And without such an initial identification it would hardly be possible to live this life of action in, and reaction to, the environment.
 
-We can observe this in a child; before the child is sufficiently developed to acquire moral capacity and thus be able to choose altruistic service, he has already developed a strong and well-unified egoistic nature ([UB 103:2.10](/en/The_Urantia_Book/103#p2_10)). This strong and well-unified nature seems to be a necessity as a good stronghold from which to begin acquiring self-knowledge on a higher level. "When the growing child fails in the unification of the personality, the altruistic impulse can become so overdeveloped as to create serious damage to the well-being of the self. A misguided conscience can become responsible for endless human conflict, worry, sorrow and misfortune ([UB 103:3.1](/en/The_Urantia_Book/103#p3_1)). Something of which parents and educators should be aware.
+We can observe this in a child; before the child is sufficiently developed to acquire moral capacity and thus be able to choose altruistic service, he has already developed a strong and well-unified egoistic nature (<a id="a51_216"></a>[UB 103:2.10](/en/The_Urantia_Book/103#p2_10)). This strong and well-unified nature seems to be a necessity as a good stronghold from which to begin acquiring self-knowledge on a higher level. "When the growing child fails in the unification of the personality, the altruistic impulse can become so overdeveloped as to create serious damage to the well-being of the self. A misguided conscience can become responsible for endless human conflict, worry, sorrow and misfortune (<a id="a51_692"></a>[UB 103:3.1](/en/The_Urantia_Book/103#p3_1)). Something of which parents and educators should be aware.
 
 With the coming of the Thought Adjuster, a new phase in the identification process takes shape. Personality unification and moral capacity have been sufficiently acquired to add to the Thought Adjuster impulse and make altruistic decisions. This process of change has been very gradual so as not to disrupt the personality-unification. A mentally healthy child can without injury to himself venture into this expansion of the identification process. He discovers that the altruistic impulse is also part of his nature.
 
@@ -43,9 +67,9 @@ We might interpret this name in various ways: the Monitor who is a mystery in hi
 
 In any case, this influence on identity is great. With its coming, the soul comes into existence, although in an embryonic state, I think we should not consider the soul as a change of the old identity, but as the creation of a new identity, in the sense that there are now two identities. It is a paradoxical situation, characterized by divergent needs and giving rise to conflicts in making a decision. What are the most valid, most real values? What is the most real identity?
 
-Soul birth is not the equivalent of the new birth, the prerequisite for entry into the kingdom of heaven. The soul that comes into existence upon the arrival of the Thought Adjuster is not yet immortal. The soul can also die ([UB 112:3.2](/en/The_Urantia_Book/112#p3_2)). The new birth, being a spiritual phenomenon, can hardly be defined intellectually. But an essential factor in the new birth is conscious identification with the soul. “The personality of the mortal creature can become eternal by identifying with the indwelling spirit through the technique of choosing to do the will of the Father” ([UB 118:1.2](/en/The_Urantia_Book/118#p1_2)) Although this can sometimes come as a seemingly sudden breakthrough-achievement, most of the time it is a process.
+Soul birth is not the equivalent of the new birth, the prerequisite for entry into the kingdom of heaven. The soul that comes into existence upon the arrival of the Thought Adjuster is not yet immortal. The soul can also die (<a id="a69_226"></a>[UB 112:3.2](/en/The_Urantia_Book/112#p3_2)). The new birth, being a spiritual phenomenon, can hardly be defined intellectually. But an essential factor in the new birth is conscious identification with the soul. “The personality of the mortal creature can become eternal by identifying with the indwelling spirit through the technique of choosing to do the will of the Father” (<a id="a69_605"></a>[UB 118:1.2](/en/The_Urantia_Book/118#p1_2)) Although this can sometimes come as a seemingly sudden breakthrough-achievement, most of the time it is a process.
 
-And the process of identification, the upward movement of the seat or center of identity, continues its progress. On the morontia worlds the soul becomes the vehicle of life, even though the mind was on the material plane. “The mind is your ship, the Adjuster is your pilot, the human will is the captain” ([UB 111:2.1](/en/The_Urantia_Book/111#p2_1)). The soul is the seat of identity, both of the human personality and of the Thought Adjuster, who also takes part in his own personal way in the process of identification. I speculate that these soul identities gradually overlap until fusion is accomplished.
+And the process of identification, the upward movement of the seat or center of identity, continues its progress. On the morontia worlds the soul becomes the vehicle of life, even though the mind was on the material plane. “The mind is your ship, the Adjuster is your pilot, the human will is the captain” (<a id="a71_307"></a>[UB 111:2.1](/en/The_Urantia_Book/111#p2_1)). The soul is the seat of identity, both of the human personality and of the Thought Adjuster, who also takes part in his own personal way in the process of identification. I speculate that these soul identities gradually overlap until fusion is accomplished.
 
 And then begins the long preparation for acquiring a spiritual vehicle. The seat of identity must be raised in the spirit-energy system. Mind, instead of being a spiritual mind, truly becomes a spirit-mind. When we leave the local universe, the body or form will no longer be provided, but the ascending spirit is able to project its own spiritual form.
 
@@ -57,3 +81,28 @@ Henry Begemann, Wassenar, Netherlands.
 
 Translated by C. and N. Ragetly.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 10 — Summer 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-10-summer-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 10 — Summer 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raymond_Barilari/Levolution_du_fetichisme_et_idoles_livres_sacres">
+          <span class="pr-2">The Evolution of Fetishism and Idols “Sacred Books”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

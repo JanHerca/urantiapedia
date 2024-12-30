@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Dominique Ronfet<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_08_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°8 The answers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - Memory is a strange phenomenon.
@@ -29,7 +50,7 @@ Interesting image. But can we talk about space without addressing time?
 - You're going to talk to me about the construction of your soul, I see you coming.
 - I was thinking in passing:
 
-> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ ([UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
+> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ (<a id="a52_151"></a>[UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
 
 - Think far ahead and only take the necessary luggage.
 - Luggage, furniture, if you listened to us we could pass for happy movers.
@@ -37,3 +58,25 @@ Interesting image. But can we talk about space without addressing time?
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_08_Les_reponses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quiz Maxien n°8 The answers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

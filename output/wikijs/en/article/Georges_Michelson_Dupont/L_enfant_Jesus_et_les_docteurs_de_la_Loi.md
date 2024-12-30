@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Beyond</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Being Sensitive to the Personality Circuit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Michelson-Dupont
@@ -21,7 +45,7 @@ Nowadays, these conditions have not changed much as we will see.
 
 Moses taught the Hebrews that if they would obey God, “He will love you, bless you, and multiply you; he will multiply the fruit of your wombs and the fruit of your land—wheat, wine, oil, and your livestock. You will prosper above all peoples, and the Lord your God will take away from you all diseases and will not bring upon you any of the evil plagues of Egypt.”
 
-Moses even says: “_Remember the Lord your God, for it is he who gives the power to obtain wealth._” “_You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you._” ([UB 96:5.4](/en/The_Urantia_Book/96#p5_4))
+Moses even says: “_Remember the Lord your God, for it is he who gives the power to obtain wealth._” “_You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you._” (<a id="a47_227"></a>[UB 96:5.4](/en/The_Urantia_Book/96#p5_4))
 
 For the Hebrew people, obeying God and maintaining his esteem and protection consisted of scrupulously observing, individually and collectively, the Law that Moses had brought back from Mount Sinai in the form of the “Tablets of the Law”.
 
@@ -29,7 +53,7 @@ By the time of Jesus, the Law had become an instrument of religious and social p
 
 Booklet 121 describes the social, economic and religious conditions of that time as follows:
 
-> “_The scribes, the Pharisees, and the priesthood held the Jews in a terrible bondage of ritualism and legalism, a bondage far more real than that of the Roman political rule. The Jews of Jesus’ time were not only held in subjugation to the *law* but were equally bound by the slavish demands of the *traditions,* which involved and invaded every domain of personal and social life. These minute regulations of conduct pursued and dominated every loyal Jew, and it is not strange that they promptly rejected one of their number who presumed to ignore their sacred traditions, and who dared to flout their long-honored regulations of social conduct. They could hardly regard with favor the teachings of one who did not hesitate to clash with dogmas which they regarded as having been ordained by Father Abraham himself. Moses had given them their law and they would not compromise._” ([UB 121:7.3](/en/The_Urantia_Book/121#p7_3))
+> “_The scribes, the Pharisees, and the priesthood held the Jews in a terrible bondage of ritualism and legalism, a bondage far more real than that of the Roman political rule. The Jews of Jesus’ time were not only held in subjugation to the *law* but were equally bound by the slavish demands of the *traditions,* which involved and invaded every domain of personal and social life. These minute regulations of conduct pursued and dominated every loyal Jew, and it is not strange that they promptly rejected one of their number who presumed to ignore their sacred traditions, and who dared to flout their long-honored regulations of social conduct. They could hardly regard with favor the teachings of one who did not hesitate to clash with dogmas which they regarded as having been ordained by Father Abraham himself. Moses had given them their law and they would not compromise._” (<a id="a55_885"></a>[UB 121:7.3](/en/The_Urantia_Book/121#p7_3))
 
 Jewish society at the time of Jesus was profoundly unequal. The notables, the priesthood and the wealthy landowners lived in Jerusalem and the large cities in palaces and opulent estates, the common people lived miserably in the countryside, burdened by the exorbitant rents demanded by the landowners, the taxes paid to the priesthood serving the Temple and the taxes exacted by Caesar.
 
@@ -37,7 +61,7 @@ In Jewish society, wealth was seen as a divine favor granted by strict observanc
 
 ## Jesus' questioning.
 
-([UB 125:5.3](/en/The_Urantia_Book/125#p5_3))
+(<a id="a63_1"></a>[UB 125:5.3](/en/The_Urantia_Book/125#p5_3))
 
 **1. What is really in the Holy of Holies behind the veil?**
 
@@ -48,9 +72,9 @@ Only the high priest could access once a year, on Yom Kippur, the “Holy of Hol
 <figcaption>Illustration of the thick veil behind which the tablets of the law were supposed to lie. <a href="https://www.idixa.net/Pixa/pagixa-0909211713.html">https://www.idixa.net/Pixa/pagixa-0909211713.html</a></figcaption>
 </figure>
 
-The Tablets of the Law represented, for the Hebrews, the great agreement of the people with their God, Yahweh. “Their worship followed the letter of the law and they indulged in a form of self-satisfaction based on the false pride of their genealogy.” ([UB 121:7.1](/en/The_Urantia_Book/121#p7_1))
+The Tablets of the Law represented, for the Hebrews, the great agreement of the people with their God, Yahweh. “Their worship followed the letter of the law and they indulged in a form of self-satisfaction based on the false pride of their genealogy.” (<a id="a74_253"></a>[UB 121:7.1](/en/The_Urantia_Book/121#p7_1))
 
-The successive High Priests derived their legitimacy, their prestige and their authority over the people from the exclusive prerogative of having, alone, access to the Law. “_In the first century AD, the oral interpretation of the law by recognized educators, the scribes, had acquired a higher authority than the written law itself._” ([UB 121:7.4](/en/The_Urantia_Book/121#p7_4))"
+The successive High Priests derived their legitimacy, their prestige and their authority over the people from the exclusive prerogative of having, alone, access to the Law. “_In the first century AD, the oral interpretation of the law by recognized educators, the scribes, had acquired a higher authority than the written law itself._” (<a id="a76_337"></a>[UB 121:7.4](/en/The_Urantia_Book/121#p7_4))"
 
 Why did Jesus ask this question? Was it simple curiosity born from his studies of the Law or did he want to understand why, with his young mind of thirteen, his Father who is in heaven needed to hide from the eyes of men behind a curtain, or was he already calling into question the authority of Caiaphas and the letter of the law which held his father's people in spiritual slavery?
 
@@ -86,7 +110,7 @@ This inner revolt is already present in his heart when the men of the village pr
 
 **3. If God is a father who loves his children, why all this slaughter of animals to gain divine favor—has the teaching of Moses been misunderstood?**
 
-> “_The Hebrews believed that “without the shedding of blood there could be no remission of sin.” They had not found deliverance from the old and pagan idea that the Gods could not be appeased except by the sight of blood, though Moses did make a distinct advance when he forbade human sacrifices and substituted therefor, in the primitive minds of his childlike Bedouin followers, the ceremonial sacrifice of animals._” ([UB 4:5.5](/en/The_Urantia_Book/4#p5_5))
+> “_The Hebrews believed that “without the shedding of blood there could be no remission of sin.” They had not found deliverance from the old and pagan idea that the Gods could not be appeased except by the sight of blood, though Moses did make a distinct advance when he forbade human sacrifices and substituted therefor, in the primitive minds of his childlike Bedouin followers, the ceremonial sacrifice of animals._” (<a id="a112_422"></a>[UB 4:5.5](/en/The_Urantia_Book/4#p5_5))
 
 Jesus' questioning challenges man's servitude to the law of Moses and the belief in God's wrath; to slavishly obey God for fear of enduring His wrath is unacceptable to Jesus' young mind. For him, the love of his heavenly Father took precedence over all other considerations; how was it possible that this God of love and mercy could change his mind and become so angry with his children that he would demand the shedding of blood for the remission of their sins?
 
@@ -96,9 +120,9 @@ This argument is developed during a discussion with his father Joseph:
 
 **4. Since the temple is dedicated to the worship of the Heavenly Father, is it logical to tolerate the presence there of those who exercise a profane profession of barter or commerce?**
 
-> “_Everywhere Jesus went throughout the temple courts, he was shocked and sickened by the spirit of irreverence which he observed. He deemed the conduct of the temple throngs to be inconsistent with their presence in “his Father’s house.” But he received the shock of his young life when his father escorted him into the court of the gentiles with its noisy jargon, loud talking and cursing, mingled indiscriminately with the bleating of sheep and the babble of noises which betrayed the presence of the money-changers and the vendors of sacrificial animals and sundry other commercial commodities._” ([UB 125:1.1](/en/The_Urantia_Book/125#p1_1))
+> “_Everywhere Jesus went throughout the temple courts, he was shocked and sickened by the spirit of irreverence which he observed. He deemed the conduct of the temple throngs to be inconsistent with their presence in “his Father’s house.” But he received the shock of his young life when his father escorted him into the court of the gentiles with its noisy jargon, loud talking and cursing, mingled indiscriminately with the bleating of sheep and the babble of noises which betrayed the presence of the money-changers and the vendors of sacrificial animals and sundry other commercial commodities._” (<a id="a122_603"></a>[UB 125:1.1](/en/The_Urantia_Book/125#p1_1))
 
-> “_They now passed down to the priests’ court beneath the rock ledge in front of the temple, where the altar stood, to observe the killing of the droves of animals and the washing away of the blood from the hands of the officiating slaughter priests at the bronze fountain. The bloodstained pavement, the gory hands of the priests, and the sounds of the dying animals were more than this nature-loving lad could stand. The terrible sight sickened this boy of Nazareth; he clutched his father’s arm and begged to be taken away. They walked back through the court of the gentiles, and even the coarse laughter and profane jesting which he there heard were a relief from the sights he had just beheld._” ([UB 125:1.4](/en/The_Urantia_Book/125#p1_4))
+> “_They now passed down to the priests’ court beneath the rock ledge in front of the temple, where the altar stood, to observe the killing of the droves of animals and the washing away of the blood from the hands of the officiating slaughter priests at the bronze fountain. The bloodstained pavement, the gory hands of the priests, and the sounds of the dying animals were more than this nature-loving lad could stand. The terrible sight sickened this boy of Nazareth; he clutched his father’s arm and begged to be taken away. They walked back through the court of the gentiles, and even the coarse laughter and profane jesting which he there heard were a relief from the sights he had just beheld._” (<a id="a124_703"></a>[UB 125:1.4](/en/The_Urantia_Book/125#p1_4))
 
 The temple of Jerusalem was the sacred place in which the people of Israel, scattered throughout the Roman Empire, gathered once a year to come and meditate and pray to Yahweh, their God. In the young mind of Jesus, molded by the love of his heavenly Father and the respect he has for him, coupled with the idea of traveling to Jerusalem in order to see this temple of which he had heard so often and of which he had read many descriptions, exalted his imagination. Participating in his first Passover, receiving from his fathers the consecration of Jewish citizenship and participating in this ceremony within the temple grounds created a strong spiritual expectation in his heart. Alas, the mercantile baseness of the merchants and the lure of gain in this sacred place produced a disillusionment that matched his expectation. Indignation seized his mind and his heart was revolted. He did not understand this mixture of “mercantile commerce between men” and “sacred spiritual commerce with God.”
 
@@ -113,7 +137,7 @@ A large part of the money collected during these ceremonies by the sale of sacri
 
 He asked himself this question from a very young age, but it was shortly before his visit to Jerusalem that the conviction of his destiny really took shape in his mind:
 
-> “_It was about the middle of February that Jesus became humanly assured that he was destined to perform a mission on earth for the enlightenment of man and the revelation of God. Momentous decisions, coupled with far-reaching plans, were formulating in the mind of this youth, who was, to outward appearances, an average Jewish lad of Nazareth. The intelligent life of all Nebadon looked on with fascination and amazement as all this began to unfold in the thinking and acting of the now adolescent carpenter’s son._” ([UB 124:5.3](/en/The_Urantia_Book/124#p5_3))
+> “_It was about the middle of February that Jesus became humanly assured that he was destined to perform a mission on earth for the enlightenment of man and the revelation of God. Momentous decisions, coupled with far-reaching plans, were formulating in the mind of this youth, who was, to outward appearances, an average Jewish lad of Nazareth. The intelligent life of all Nebadon looked on with fascination and amazement as all this began to unfold in the thinking and acting of the now adolescent carpenter’s son._” (<a id="a139_521"></a>[UB 124:5.3](/en/The_Urantia_Book/124#p5_3))
 
 He therefore comes to confront the doctors of the Law in their dearest hope and to call into question this confidence in racial superiority rehabilitated and restored to the Jewish people by the Messiah awaited as temporal prince. This expectation, shared in large part by his apostles, is illustrated at the wedding at Cana when the crowd seizes Jesus and wants to consecrate him temporal King of Israel after the episode of the water transformed into wine and the multiplication of the loaves.
 
@@ -138,3 +162,28 @@ And many other aspects that this short study could have brought out.
 
 I invite readers to meditate on these realities of today and to measure the luck we have to have access to the revelation and to the life of Jesus updated.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Beyond</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="pr-2">Being Sensitive to the Personality Circuit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

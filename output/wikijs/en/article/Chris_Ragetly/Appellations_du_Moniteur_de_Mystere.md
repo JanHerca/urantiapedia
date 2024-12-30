@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Chris Ragetly<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: It is written!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">The guest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Quotations from _The Urantia Book_ in italics; some important passages are in bold.)
@@ -33,7 +57,7 @@ Personally, I prefer “Monitor of Mystery”, it gives our spiritual companion 
 
 1)
 
-> _On the evolutionary worlds, will creatures traverse three general developmental stages of being: From the arrival of the Adjuster to comparative full growth, about twenty years of age on Urantia, the Monitors are sometimes designated Thought Changers. From this time to the attainment of the age of discretion, about forty years, the Mystery Monitors are called Thought Adjusters. From the attainment of discretion to deliverance from the flesh, they are often referred to as Thought Controllers. These three phases of mortal life have no connection with the three stages of Adjuster progress in mind duplication and soul evolution._ ([UB 107:0.7](/en/The_Urantia_Book/107#p0_7))
+> _On the evolutionary worlds, will creatures traverse three general developmental stages of being: From the arrival of the Adjuster to comparative full growth, about twenty years of age on Urantia, the Monitors are sometimes designated Thought Changers. From this time to the attainment of the age of discretion, about forty years, the Mystery Monitors are called Thought Adjusters. From the attainment of discretion to deliverance from the flesh, they are often referred to as Thought Controllers. These three phases of mortal life have no connection with the three stages of Adjuster progress in mind duplication and soul evolution._ (<a id="a59_638"></a>[UB 107:0.7](/en/The_Urantia_Book/107#p0_7))
 
 What is meant by the phrase, “The three stages of Adjuster progress in mind duplication and soul evolution”?
 
@@ -46,7 +70,32 @@ The three stages of progress for Mystery Monitors are:
 
 3) Soul evolution: This is the joint work of evolutionary man and the Mystery Monitor, who spiritualizes certain thoughts of the human mind having spiritual value and transfers them into the morontia soul which thus grows more and more. This spiritual growth of the soul takes place quite independently of its intellectual self-consciousness. This growth of an immortal soul in the mind of a mortal creature is the first morontia reality due to the free choice of that mortal creature, and it is one of the secrets of Ascendington, the mystery of the gradual building up of a spiritual and potentially immortal counterpart of character and identity.
 
-> _Sincere worship connotes the mobilization of all the powers of the human personality under the dominance of the evolving soul and subject to the divine directionization of the associated Thought Adjuster. The mind of material limitations can never become highly conscious of the real significance of true worship. Man’s realization of the reality of the worship experience is chiefly determined by the developmental status of his evolving immortal soul. The spiritual growth of the soul takes place wholly independently of the intellectual self-consciousness._ ([UB 5:3.7](/en/The_Urantia_Book/5#p3_7))
+> _Sincere worship connotes the mobilization of all the powers of the human personality under the dominance of the evolving soul and subject to the divine directionization of the associated Thought Adjuster. The mind of material limitations can never become highly conscious of the real significance of true worship. Man’s realization of the reality of the worship experience is chiefly determined by the developmental status of his evolving immortal soul. The spiritual growth of the soul takes place wholly independently of the intellectual self-consciousness._ (<a id="a72_565"></a>[UB 5:3.7](/en/The_Urantia_Book/5#p3_7))
 
-> _*The secrets of Ascendington* include the mystery of the gradual and certain building up in the material and mortal mind of a spiritual and potentially immortal counterpart of character and identity. This phenomenon constitutes one of the most perplexing mysteries of the universes—the evolution of an immortal soul within the mind of a mortal and material creature._ ([UB 13:1.22](/en/The_Urantia_Book/13#p1_22))
+> _*The secrets of Ascendington* include the mystery of the gradual and certain building up in the material and mortal mind of a spiritual and potentially immortal counterpart of character and identity. This phenomenon constitutes one of the most perplexing mysteries of the universes—the evolution of an immortal soul within the mind of a mortal and material creature._ (<a id="a74_372"></a>[UB 13:1.22](/en/The_Urantia_Book/13#p1_22))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito_Cest_ecrit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: It is written!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Olga_Lopez/Linvitee">
+          <span class="pr-2">The guest</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

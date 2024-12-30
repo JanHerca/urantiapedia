@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Dominique Ronfet<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_22">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="pr-2">The Urantia Book And The Grand Conspiracy Theory?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 LITTLE FOX, JUST OUT OF HIS BURROW, MET A LITTLE MAN IN THE DAMP MORNING, SITTING ON A STUMP. HE APPEARED TO BE BUSY WITH HIS NOTEBOOK.
@@ -99,3 +123,28 @@ TEXT: Dominique Ronfet
 
 ILUBSTRATION: Minou Treichler
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_22">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="pr-2">The Urantia Book And The Grand Conspiracy Theory?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

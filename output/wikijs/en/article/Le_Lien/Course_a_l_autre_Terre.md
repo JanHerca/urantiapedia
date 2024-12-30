@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Year 1955, The Urantia Book….and the Poet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="pr-2">Light 04-06 May 2011 (01)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Twin sisters: There are billions of exo-Earths in our galaxy. Who will find the first?
@@ -61,3 +85,28 @@ Anne-Muriel Brouet Cathy Macherel/ 24 Hours newspaper
 <img src="/image/article/Le_Lien/images_01/125.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/L_annee_1955_le_LU_et_le_poete">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Year 1955, The Urantia Book….and the Poet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Lumiere_04_06_mai_2011_1">
+          <span class="pr-2">Light 04-06 May 2011 (01)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Max Masotti<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Great Confusion About Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Our Lady of Lights_
@@ -31,3 +52,25 @@ Max.
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Great Confusion About Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

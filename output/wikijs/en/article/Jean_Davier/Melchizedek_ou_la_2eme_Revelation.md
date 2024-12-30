@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean Davier<br>© 200 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A fire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-13-spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">Does God exist?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The term Melchizedek designates an order of divine sons halfway in the spiritual hierarchy between God and men. They are also called emergency sons. After the rebellion of the planetary prince Caligastia and the failure of the material sons Adam and Eve, twelve Melchizedeks assumed the supra-material jurisdiction of our planet. They can make themselves visible to material creatures and even incarnate as was the case with Machiventa Melchizedek on our earth. It is interesting to consult the testamentary and New Testament chronicles which deal with this subject:
@@ -27,11 +51,11 @@ Machiventa Melchizedek instructs Abraham, then withdraws to avoid becoming the o
 
 When Machiventa ended his earthly career, missionaries crossed Egypt and preached the gospel of Salem to the Mediterranean peoples while others reached India, China, Tibet and Japan.
 
-In Egypt where an intense struggle reigns between tribal polytheism and the concept of the One God “_The original teachings of Melchizedek took root more deeply and then spread to Europe_” ([UB 95:2.1](/en/The_Urantia_Book/95#p2_1)), because Egypt already has an evolved religion “_they believed that a soul separated from the physical body, if it was properly armed with magic formulas, could avoid the evil intermediary spirits and reach the judgment hall of Osiris where it would then be admitted to the realms of bliss, if it was not guilty._” ([UB 95:2.9](/en/The_Urantia_Book/95#p2_9)) The missionaries of Salem arrived in Rome in -600, but were powerless before the myriad of gods, cults dedicated to heroes, to the mother of god, to the forty successive emperors.
+In Egypt where an intense struggle reigns between tribal polytheism and the concept of the One God “_The original teachings of Melchizedek took root more deeply and then spread to Europe_” (<a id="a53_190"></a>[UB 95:2.1](/en/The_Urantia_Book/95#p2_1)), because Egypt already has an evolved religion “_they believed that a soul separated from the physical body, if it was properly armed with magic formulas, could avoid the evil intermediary spirits and reach the judgment hall of Osiris where it would then be admitted to the realms of bliss, if it was not guilty._” (<a id="a53_549"></a>[UB 95:2.9](/en/The_Urantia_Book/95#p2_9)) The missionaries of Salem arrived in Rome in -600, but were powerless before the myriad of gods, cults dedicated to heroes, to the mother of god, to the forty successive emperors.
 
-In Greece, where philosophers and elites of society never took the deities of Olympus seriously, where the absence of priests did not allow the establishment of a lasting cult, there will remain of the doctrine of Salem a background of belief on “_the intelligence of the universe, the idea of God, of the great source_” ([UB 98:2.4](/en/The_Urantia_Book/98#p2_4))
+In Greece, where philosophers and elites of society never took the deities of Olympus seriously, where the absence of priests did not allow the establishment of a lasting cult, there will remain of the doctrine of Salem a background of belief on “_the intelligence of the universe, the idea of God, of the great source_” (<a id="a55_322"></a>[UB 98:2.4](/en/The_Urantia_Book/98#p2_4))
 
-The failure is total in Arabia. In Iran, the cult of Zoroaster partly restores the light of Salem. In Mesopotamia, the disciples of Salem reduce the number of gods but are defeated by the goddess Ishtar “_All that remains of them are psalms from the Old Testament engraved on stones that the Hebrew priests incorporated into their writings_” ([UB 95:1.10](/en/The_Urantia_Book/95#p1_10))
+The failure is total in Arabia. In Iran, the cult of Zoroaster partly restores the light of Salem. In Mesopotamia, the disciples of Salem reduce the number of gods but are defeated by the goddess Ishtar “_All that remains of them are psalms from the Old Testament engraved on stones that the Hebrew priests incorporated into their writings_” (<a id="a57_343"></a>[UB 95:1.10](/en/The_Urantia_Book/95#p1_10))
 
 In India, where Vedic worship reigns, subject to the Brahmin caste, there will remain only a few traces of the gospel of Salem, drowned in the philosophy of transmigration of souls.
 
@@ -42,9 +66,34 @@ In China, the Salem educators arrived in the middle of the second millennium BC.
 
 Melchizedek's rescue mission would be virtually forgotten by the time of Jesus.
 
-Currently Machiventa Melchizedek resides on Jerusem, capital of our local system with 619 inhabited planets. He is vicegerent of our planet. “_Machiventa could one day replace, according to recent ordinances, Caligastia and become planetary prince of Urantia, recent events seem to suggest it_” ([UB 93:10.6](/en/The_Urantia_Book/93#p10_6)).
+Currently Machiventa Melchizedek resides on Jerusem, capital of our local system with 619 inhabited planets. He is vicegerent of our planet. “_Machiventa could one day replace, according to recent ordinances, Caligastia and become planetary prince of Urantia, recent events seem to suggest it_” (<a id="a68_296"></a>[UB 93:10.6](/en/The_Urantia_Book/93#p10_6)).
 
-History reveals to us that there is no “evening of the worlds”, but a perpetual march of the worlds towards greater perfection. The planet has known betrayal and failure. Divine revelations have been altered, distorted. A new superhuman intervention has reached us in the form of a book. We are not alone, Jesus said to John “_You are not asked to carry the burden of the Son of Man; only the guardian must watch while the city sleeps in peace_” ([UB 134:9.5](/en/The_Urantia_Book/134#p9_5)). Rodan of Alexandria expresses it in his philosophy “_What is the best way for me to awaken the latent beneficial powers that sleep in your soul_” ([UB 160:3.1](/en/The_Urantia_Book/160#p3_1)). And thus help the Son of Man in his desire for progress.
+History reveals to us that there is no “evening of the worlds”, but a perpetual march of the worlds towards greater perfection. The planet has known betrayal and failure. Divine revelations have been altered, distorted. A new superhuman intervention has reached us in the form of a book. We are not alone, Jesus said to John “_You are not asked to carry the burden of the Son of Man; only the guardian must watch while the city sleeps in peace_” (<a id="a70_447"></a>[UB 134:9.5](/en/The_Urantia_Book/134#p9_5)). Rodan of Alexandria expresses it in his philosophy “_What is the best way for me to awaken the latent beneficial powers that sleep in your soul_” (<a id="a70_640"></a>[UB 160:3.1](/en/The_Urantia_Book/160#p3_1)). And thus help the Son of Man in his desire for progress.
 
 Jean Davier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Un_feu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A fire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-13-spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Davier/Dieu_existe_t_il">
+          <span class="pr-2">Does God exist?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

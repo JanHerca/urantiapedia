@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Long Until Heaven</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 85 — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">AFLLU Annual Meeting At Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Journey through the ages of the master universe_
@@ -25,7 +49,7 @@ In THE preceding LINK, we followed, step by step, the path of the acts carried o
 
 The sequences are described by Melchizedek as follows:
 
-> _Pre-existentials become existential in the seven Absolutes, and existentials become functional in the triunities, the basic association of Absolutes. And concomitant with the eternalization of the triunities the universe stage is set—the potentials are existent and the actuals are present—and the fullness of eternity witnesses the diversification of cosmic energy, the outspreading of Paradise spirit, and the endowment of mind together with the bestowal of personality, by virtue of which all of these Deity and Paradise derivatives are unified in experience on the creature level and by other techniques on the supercreature level._ ([[UB 105:4.9](/en/The_Urantia_Book/105#p4_9))
+> _Pre-existentials become existential in the seven Absolutes, and existentials become functional in the triunities, the basic association of Absolutes. And concomitant with the eternalization of the triunities the universe stage is set—the potentials are existent and the actuals are present—and the fullness of eternity witnesses the diversification of cosmic energy, the outspreading of Paradise spirit, and the endowment of mind together with the bestowal of personality, by virtue of which all of these Deity and Paradise derivatives are unified in experience on the creature level and by other techniques on the supercreature level._ (<a id="a51_641"></a>[[UB 105:4.9](/en/The_Urantia_Book/105#p4_9))
 
 This description of the establishment of the universal plan by the I AM will be very useful to us.
 
@@ -33,17 +57,17 @@ Many will think that it is not necessary to study all these things that are so c
 
 By presenting to us the origin, history and destiny of all reality, The Urantia Book thus offers our understanding a much higher perspective than institutional religions can do, of our relationship with our Universal Father, of the cosmic organization, of the administration of the universe and of our eternal spiritual career. So, is it not desirable to seek to understand the universal purpose of our Father in order to better integrate ourselves into it? If we wish with all our hearts to do his will, then we must know it better; if we wish to become perfect in our sphere as he himself is perfect in his, then we must establish better relations with him because it is he who reveals himself to us through the revelations of the epochal periods as well as through his divine fragment which inhabits us. It is true that the human mind balks at effort and discipline but I think that the game is worth the candle,
 
-> “_Some persons are too busy to grow and are therefore in grave danger of spiritual fixation. Provision must be made for growth of meanings at differing ages, in successive cultures, and in the passing stages of advancing civilization. The chief inhibitors of growth are prejudice and ignorance._” ([[UB 100:1.2](/en/The_Urantia_Book/100#p1_2))
+> “_Some persons are too busy to grow and are therefore in grave danger of spiritual fixation. Provision must be made for growth of meanings at differing ages, in successive cultures, and in the passing stages of advancing civilization. The chief inhibitors of growth are prejudice and ignorance._” (<a id="a59_300"></a>[[UB 100:1.2](/en/The_Urantia_Book/100#p1_2))
 
 For my part, the daily, in-depth study of the revelation has greatly enhanced the quality of my faith in its guidance, my appreciation of its unconditional love for me as well as for my fellow men, my understanding of its wise and immutable laws governing its universe, and of the high level of service which the superhuman brotherhood brings to the divine plan of ascension.
 
 The authors themselves encourage us to persevere:
 
-> “_The conceptual grasp of the Trinity association of Father, Son, and Spirit prepares the human mind for the further presentation of certain other threefold relationships. Theological reason may be fully satisfied by the concept of the Paradise Trinity, but philosophical and cosmological reason demand the recognition of the other triune associations of the First Source and Center, those triunities in which the Infinite functions in various non-Father capacities of universal manifestation—the relationships of the God of force, energy, power, causation, reaction, potentiality, actuality, gravity, tension, pattern, principle, and unity._” ([UB 104:2.6](/en/The_Urantia_Book/104#p2_6))
+> “_The conceptual grasp of the Trinity association of Father, Son, and Spirit prepares the human mind for the further presentation of certain other threefold relationships. Theological reason may be fully satisfied by the concept of the Paradise Trinity, but philosophical and cosmological reason demand the recognition of the other triune associations of the First Source and Center, those triunities in which the Infinite functions in various non-Father capacities of universal manifestation—the relationships of the God of force, energy, power, causation, reaction, potentiality, actuality, gravity, tension, pattern, principle, and unity._” (<a id="a65_647"></a>[UB 104:2.6](/en/The_Urantia_Book/104#p2_6))
 
-> “_Mortal man is passing through a great age of expanding horizons and enlarging concepts on Urantia, and his cosmic philosophy must accelerate in evolution to keep pace with the expansion of the intellectual arena of human thought. As the cosmic consciousness of mortal man expands, he perceives the interrelatedness of all that he finds in his material science, intellectual philosophy, and spiritual insight. Still, with all this belief in the unity of the cosmos, man perceives the diversity of all existence. In spite of all concepts concerning the immutability of Deity, man perceives that he lives in a universe of constant change and experiential growth. Regardless of the realization of the survival of spiritual values, man has ever to reckon with the mathematics and premathematics of force, energy, and power._” ([[UB 104:3.2](/en/The_Urantia_Book/104#p3_2))
+> “_Mortal man is passing through a great age of expanding horizons and enlarging concepts on Urantia, and his cosmic philosophy must accelerate in evolution to keep pace with the expansion of the intellectual arena of human thought. As the cosmic consciousness of mortal man expands, he perceives the interrelatedness of all that he finds in his material science, intellectual philosophy, and spiritual insight. Still, with all this belief in the unity of the cosmos, man perceives the diversity of all existence. In spite of all concepts concerning the immutability of Deity, man perceives that he lives in a universe of constant change and experiential growth. Regardless of the realization of the survival of spiritual values, man has ever to reckon with the mathematics and premathematics of force, energy, and power._” (<a id="a67_826"></a>[[UB 104:3.2](/en/The_Urantia_Book/104#p3_2))
 
-> “_IT IS not enough that the ascending mortal should know something of the relations of Deity to the genesis and manifestations of cosmic reality; he should also comprehend something of the relationships existing between himself and the numerous levels of existential and experiential realities, of potential and actual realities. Man’s terrestrial orientation, his cosmic insight, and his spiritual directionization are all enhanced by a better comprehension of universe realities and their techniques of interassociation, integration, and unification._” ([[UB 106:0.1](/en/The_Urantia_Book/106#p0_1))
+> “_IT IS not enough that the ascending mortal should know something of the relations of Deity to the genesis and manifestations of cosmic reality; he should also comprehend something of the relationships existing between himself and the numerous levels of existential and experiential realities, of potential and actual realities. Man’s terrestrial orientation, his cosmic insight, and his spiritual directionization are all enhanced by a better comprehension of universe realities and their techniques of interassociation, integration, and unification._” (<a id="a69_558"></a>[[UB 106:0.1](/en/The_Urantia_Book/106#p0_1))
 
 So, let’s arm ourselves with courage and go into a little more detail.
 
@@ -55,12 +79,12 @@ Sequence four inaugurates the triune relationships. Pursuing his design, the Uni
 
 One may wonder why Deity establishes triune relationships?
 
-- We are told that these **trinary** relationships are inevitable because they are what eternalize the potential of all reality, they encompass deified and undeified reality. The I AM is infinity unqualified as ***Unity***. Dualities eternalize the ***foundations*** of reality. Triunities externalize the realization of infinity as a universal ***function***. [[UB 104:4.7-9](/en/The_Urantia_Book/104#p4_7)]
-- It is also inevitable that personalities seek to associate with other personalities, both on absolute levels and on other levels. ([UB 104:3.14](/en/The_Urantia_Book/104#p3_14))
+- We are told that these **trinary** relationships are inevitable because they are what eternalize the potential of all reality, they encompass deified and undeified reality. The I AM is infinity unqualified as ***Unity***. Dualities eternalize the ***foundations*** of reality. Triunities externalize the realization of infinity as a universal ***function***. <a id="a81_361"></a>[[UB 104:4.7-9](/en/The_Urantia_Book/104#p4_7)]
+- It is also inevitable that personalities seek to associate with other personalities, both on absolute levels and on other levels. (<a id="a82_133"></a>[UB 104:3.14](/en/The_Urantia_Book/104#p3_14))
 - Then, the Universal Father has exhausted the possibility of dual associations, they have produced the eternalization of the 7 absolutes of Infinity and he therefore cannot produce more.
-- Finally, three is the minimum number of members to constitute a social group. ([UB 10:2.3](/en/The_Urantia_Book/10#p2_3))
+- Finally, three is the minimum number of members to constitute a social group. (<a id="a84_81"></a>[UB 10:2.3](/en/The_Urantia_Book/10#p2_3))
 
-“_Between two objects there are relationships, but three or more objects result in a system, and a system is much more than broad or complex relationships; in a system, the parts are arranged. Systems are significant by their organization—the position values._” [[UB 112:1.17-18](/en/The_Urantia_Book/112#p1_17)]
+“_Between two objects there are relationships, but three or more objects result in a system, and a system is much more than broad or complex relationships; in a system, the parts are arranged. Systems are significant by their organization—the position values._” <a id="a86_262"></a>[[UB 112:1.17-18](/en/The_Urantia_Book/112#p1_17)]
 
 The 7 absolutes of Infinity can be conceived as a universal matrix with 7 members whose three by three combinations will serve to create the scene of the universe on and in which the various beings and personalities will actualize, by their choices, decisions, actions, the material, intellectual, spiritual and personal realities.
 
@@ -78,29 +102,29 @@ nature and characteristics of each Absolute of Infinity and, by referring to the
 
 We will see, during this journey through the ages of the universe that there are several Trinities but the first Trinity is the Absolute and existential Trinity while the other Trinities are subabsolute and experiential, they have a beginning.
 
-The Paradise Trinity is the primordial Deity relationship of the three Paradise Deities. Perhaps it is necessary to recall that the term Deity is specific to The Urantia Book. Used in this context, the term Deity is equivalent to the sum of the personality, nature and attributes of each of the Paradise persons, which represents much more than personality alone. For example, God, the Universal Father, is the personality, the personal and contactable face of the First SourceCenter which is, moreover, primordial in all domains: deified or non-deified, personal or impersonal, actual or potential, finite or infinite. ([UB 0:3.11](/en/The_Urantia_Book/0#p3_11))
+The Paradise Trinity is the primordial Deity relationship of the three Paradise Deities. Perhaps it is necessary to recall that the term Deity is specific to The Urantia Book. Used in this context, the term Deity is equivalent to the sum of the personality, nature and attributes of each of the Paradise persons, which represents much more than personality alone. For example, God, the Universal Father, is the personality, the personal and contactable face of the First SourceCenter which is, moreover, primordial in all domains: deified or non-deified, personal or impersonal, actual or potential, finite or infinite. (<a id="a104_621"></a>[UB 0:3.11](/en/The_Urantia_Book/0#p3_11))
 
-> “_And this selfsame Paradise Trinity is a real entity—not a personality but nonetheless a true and absolute reality; not a personality but nonetheless compatible with coexistent personalities—the personalities of the Father, the Son, and the Spirit. The Trinity is a supersummative Deity reality eventuating out of the conjoining of the three Paradise Deities. The qualities, characteristics, and functions of the Trinity are not the simple sum of the attributes of the three Paradise Deities; Trinity functions are something unique, original, and not wholly predictable from an analysis of the attributes of Father, Son, and Spirit._” ([[UB 104:2.4](/en/The_Urantia_Book/104#p2_4))
+> “_And this selfsame Paradise Trinity is a real entity—not a personality but nonetheless a true and absolute reality; not a personality but nonetheless compatible with coexistent personalities—the personalities of the Father, the Son, and the Spirit. The Trinity is a supersummative Deity reality eventuating out of the conjoining of the three Paradise Deities. The qualities, characteristics, and functions of the Trinity are not the simple sum of the attributes of the three Paradise Deities; Trinity functions are something unique, original, and not wholly predictable from an analysis of the attributes of Father, Son, and Spirit._” (<a id="a106_639"></a>[[UB 104:2.4](/en/The_Urantia_Book/104#p2_4))
 
 This is the big difference with the first triunity (which we will see later) which is the association of the three persons of infinity as persons. Consequently, the latter is not a Deity.
 
 Actually, I hesitate to classify the Paradise Trinity among the associations of the 7 Absolutes of Infinity because the nature of this association is so different. Let us see some characteristics of the Paradise Trinity.
 
-> “_The original and eternal Paradise Trinity is existential and was inevitable. This never-beginning Trinity was inherent in the fact of the differentiation of the personal and the nonpersonal by the Father’s unfettered will and factualized when his personal will co-ordinated these dual realities by mind. The post-Havona Trinities are experiential—are inherent in the creation of two subabsolute and evolutional levels of power-personality manifestation in the master universe._” ([UB 0:12.1](/en/The_Urantia_Book/0#p12_1))
+> “_The original and eternal Paradise Trinity is existential and was inevitable. This never-beginning Trinity was inherent in the fact of the differentiation of the personal and the nonpersonal by the Father’s unfettered will and factualized when his personal will co-ordinated these dual realities by mind. The post-Havona Trinities are experiential—are inherent in the creation of two subabsolute and evolutional levels of power-personality manifestation in the master universe._” (<a id="a112_484"></a>[UB 0:12.1](/en/The_Urantia_Book/0#p12_1))
 
-> “_The Paradise Trinity is not a triunity; it is not a functional unanimity; rather is it undivided and indivisible Deity. The Father, Son, and Spirit (as persons) can sustain a relationship to the Paradise Trinity, for the Trinity *is* their undivided Deity. The Father, Son, and Spirit sustain no such personal relationship to the first triunity, for that *is* their functional union as three persons. Only as the Trinity—as undivided Deity—do they collectively sustain an external relationship to the triunity of their personal aggregation._” ([UB 104:3.15](/en/The_Urantia_Book/104#p3_15))
+> “_The Paradise Trinity is not a triunity; it is not a functional unanimity; rather is it undivided and indivisible Deity. The Father, Son, and Spirit (as persons) can sustain a relationship to the Paradise Trinity, for the Trinity *is* their undivided Deity. The Father, Son, and Spirit sustain no such personal relationship to the first triunity, for that *is* their functional union as three persons. Only as the Trinity—as undivided Deity—do they collectively sustain an external relationship to the triunity of their personal aggregation._” (<a id="a114_548"></a>[UB 104:3.15](/en/The_Urantia_Book/104#p3_15))
 
 Why was it inevitable? We have seen that Deity is ONE and when the Infinite I AM differentiates itself from Infinitude, it finds itself in a dissociated state and therefore something must reunify it. This reunification is existential in infinity, it IS by the Paradise Trinity. At the level of the Finite, it WILL BE by the Ultimate, Absolute, and Trinity of Trinities.
 
 ## The Triunities.
 
-There are 15 of them and “In them, total reality is made functional and, through them, the Universal Father exercises immediate and personal control over the master functions of infinity._” [[UB 104:4.1](/en/The_Urantia_Book/104#p4_1)]. They all include the Universal Father as a primordial member of these associations because he is the First Source-Center of all that is and he imprints his will in each of them.
+There are 15 of them and “In them, total reality is made functional and, through them, the Universal Father exercises immediate and personal control over the master functions of infinity._” <a id="a120_190"></a>[[UB 104:4.1](/en/The_Urantia_Book/104#p4_1)]. They all include the Universal Father as a primordial member of these associations because he is the First Source-Center of all that is and he imprints his will in each of them.
 
-> “_In attempting to describe seven triunities, we call attention to the fact that the Universal Father is the primary member of each of them. He is, was, and ever will be: the First Universal Father-Source, the Absolute Center, the First Cause, the Universal Controller, the Unlimited Energy Provider, the Original Unity, the Unqualified Sustainer, the First Person of Deity, the Primordial Cosmic Archetype, and the Essence of Infinity. The Universal Father is the personal cause of the Absolutes: he is the absolute of Absolutes._” [[UB 104:1](/en/The_Urantia_Book/104#p1)]
+> “_In attempting to describe seven triunities, we call attention to the fact that the Universal Father is the primary member of each of them. He is, was, and ever will be: the First Universal Father-Source, the Absolute Center, the First Cause, the Universal Controller, the Unlimited Energy Provider, the Original Unity, the Unqualified Sustainer, the First Person of Deity, the Primordial Cosmic Archetype, and the Essence of Infinity. The Universal Father is the personal cause of the Absolutes: he is the absolute of Absolutes._” <a id="a122_535"></a>[[UB 104:1](/en/The_Urantia_Book/104#p1)]
 
-> “_The First Source and Center, which is Father to the Eternal Son, is also Archetype to the Isle of Paradise. It is unqualified personality in the Son, but personality in potentiality in the Deity Absolute. The Father is revealed energy in Paradise-Havona, and at the same time hidden energy in the Unqualified Absolute. The Infinite is ever revealed in the ceaseless acts of the Conjoint Actor, while it functions eternally in the compensatory but veiled activities of the Universal Absolute. Thus is the Father related to the six co-ordinate Absolutes, and the seven together encompass the circle of infinity during all the endless cycles of eternity._” [[UB 104:3](/en/The_Urantia_Book/104#p3)]
+> “_The First Source and Center, which is Father to the Eternal Son, is also Archetype to the Isle of Paradise. It is unqualified personality in the Son, but personality in potentiality in the Deity Absolute. The Father is revealed energy in Paradise-Havona, and at the same time hidden energy in the Unqualified Absolute. The Infinite is ever revealed in the ceaseless acts of the Conjoint Actor, while it functions eternally in the compensatory but veiled activities of the Universal Absolute. Thus is the Father related to the six co-ordinate Absolutes, and the seven together encompass the circle of infinity during all the endless cycles of eternity._” <a id="a124_658"></a>[[UB 104:3](/en/The_Urantia_Book/104#p3)]
 
-These triunities perform functions; as such, these triune associations are neither persons nor entities, although their members may be entities, and/or personalities [[UB 104:3.16](/en/The_Urantia_Book/104#p3_16)].
+These triunities perform functions; as such, these triune associations are neither persons nor entities, although their members may be entities, and/or personalities <a id="a126_166"></a>[[UB 104:3.16](/en/The_Urantia_Book/104#p3_16)].
 
 We will therefore find all these characteristics in the functions of the triunities. In sequence three (Passage 105), the 7 Absolutes of Infinity were named according to the left column but, in Paper 104, they are designated a little differently and according to the right column. There is a reason that we explain a little further on but in fact they are the same 7 Absolutes of Infinity. (See next page).
 
@@ -108,7 +132,7 @@ For example, the “accounting and financial department” of a company is made 
 
 Each triunity represents much more than the sum of the attributes of its members, the author tells us; the process of their interassociation — integration — unification produces something else, sometimes unexpected, which does not exist in any of the members.
 
-Although these triunities number 15, only 7 are revealed and commented on to us because they function on the experiential level of potentials and actualization of supremacy while the other 8 deal with realities, actualizations, and potentialities that lie beyond on the ultimate level [[UB 104:4.14](/en/The_Urantia_Book/104#p4_14)]. We can assume that they will become functional in the third age of the universe.
+Although these triunities number 15, only 7 are revealed and commented on to us because they function on the experiential level of potentials and actualization of supremacy while the other 8 deal with realities, actualizations, and potentialities that lie beyond on the ultimate level <a id="a134_285"></a>[[UB 104:4.14](/en/The_Urantia_Book/104#p4_14)]. We can assume that they will become functional in the third age of the universe.
 
 It is interesting to try to understand why this number of 15? This figure represents all the possible combinations of 3 members out of 7, i.e.: $\binom{7}{3}=35$.
 
@@ -142,7 +166,7 @@ In fact, the analogy ends there. Everyone will have understood that the Universa
 
 > “_It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow._”
 > 
-> It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow. ([[UB 10:1.1](/en/The_Urantia_Book/10#p1_1))
+> It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow. (<a id="a168_358"></a>[[UB 10:1.1](/en/The_Urantia_Book/10#p1_1))
 
 Let us continue our examination of the triunities described in booklet 104. It should be noted that the second, third and fourth triunities each include a member formed by the association of paradisiacal persons, Father-Son in the second, Son-Spirit in the third and Father Spirit in the fourth. The explanation is given later by the Melchizedek author of this booklet. This permutation exhausts the possibility of association by two of these three paradisiacal persons. We can therefore, without fear of being wrong, affirm that there are only these three possibilities of seeing a composite member of a triunity associate in this way because only persons associate and not that which is non-personal.
 
@@ -192,7 +216,7 @@ The Divine Plan of Ascension
 > 
 > _*The First Triunity—the personal-purposive triunity.* This is the grouping of the three Deity personalities:_ ($d u$)
 > 
-> _*The First Triunity—the personal-purposive triunity.* This is the grouping of the three Deity personalities:_ ([[UB 104:4.3](/en/The_Urantia_Book/104#p4_3))
+> _*The First Triunity—the personal-purposive triunity.* This is the grouping of the three Deity personalities:_ (<a id="a218_114"></a>[[UB 104:4.3](/en/The_Urantia_Book/104#p4_3))
 
 **DISCUSSION:**
 
@@ -228,19 +252,19 @@ the physical archetype
 > _1. The Father-Son._
 > _1. The Father-Son._
 > 
-> _1. The Father-Son._ ([UB 104:4.10](/en/The_Urantia_Book/104#p4_10))
+> _1. The Father-Son._ (<a id="a254_24"></a>[UB 104:4.10](/en/The_Urantia_Book/104#p4_10))
 
 The first two triunities are fundamental; neither of these associations “produces” anything; they organize the framework of personal realities. The first establishes in the universe volition, self-revelation, and the pattern of personal relationships and the second provides the archetypes of energies and their configuration for all personal and nonpersonal realities.
 
 > _In religious experience, creatures make contact with the God who is love, but such spiritual insight must never eclipse the intelligent recognition of the universe fact of the pattern which is Paradise. The Paradise personalities enlist the freewill adoration of all creatures by the compelling power of divine love and lead all such spirit-born personalities into the supernal delights of the unending service of the finaliter sons of God. The second triunity is the architect of the space stage whereon these transactions unfold; it determines the patterns of cosmic configuration._
 > 
-> _In religious experience, creatures make contact with the God who is love, but such spiritual insight must never eclipse the intelligent recognition of the universe fact of the pattern which is Paradise. The Paradise personalities enlist the freewill adoration of all creatures by the compelling power of divine love and lead all such spirit-born personalities into the supernal delights of the unending service of the finaliter sons of God. The second triunity is the architect of the space stage whereon these transactions unfold; it determines the patterns of cosmic configuration._ ([UB 104:4.14](/en/The_Urantia_Book/104#p4_14))
+> _In religious experience, creatures make contact with the God who is love, but such spiritual insight must never eclipse the intelligent recognition of the universe fact of the pattern which is Paradise. The Paradise personalities enlist the freewill adoration of all creatures by the compelling power of divine love and lead all such spirit-born personalities into the supernal delights of the unending service of the finaliter sons of God. The second triunity is the architect of the space stage whereon these transactions unfold; it determines the patterns of cosmic configuration._ (<a id="a260_589"></a>[UB 104:4.14](/en/The_Urantia_Book/104#p4_14))
 
 **DISCUSSION:**
 
 - ***Let’s recall the definition of an archetype:***
 
-> “_*Mind* is a phenomenon connoting the presence-activity of *living ministry* in addition to varied energy systems; and this is true on all levels of intelligence. In personality, mind ever intervenes between spirit and matter; therefore is the universe illuminated by three kinds of light: material light, intellectual insight, and spirit luminosity._” ([UB 0:6.8](/en/The_Urantia_Book/0#p6_8))
+> “_*Mind* is a phenomenon connoting the presence-activity of *living ministry* in addition to varied energy systems; and this is true on all levels of intelligence. In personality, mind ever intervenes between spirit and matter; therefore is the universe illuminated by three kinds of light: material light, intellectual insight, and spirit luminosity._” (<a id="a266_357"></a>[UB 0:6.8](/en/The_Urantia_Book/0#p6_8))
 
 - ***the Infinite Spirit is called here Conjoint Actor*** to emphasize the fact that it acts in this triunity as the manipulator of configurations and not in its mental function.
 
@@ -318,7 +342,7 @@ Evolution of Energy
 **DISCUSSION:**
 
 - ***Evolution of Energy***. This fourth triunity is for the evolution of energy what the third is for the evolution of the spirit. All potential energy derives from this association.
-- ***Father-Spirit Association***. It should be noted that the Father is associated with the Spirit because this dual association manipulates the energies coming from Paradise. ([UB 11:9.3](/en/The_Urantia_Book/11#p9_3))
+- ***Father-Spirit Association***. It should be noted that the Father is associated with the Spirit because this dual association manipulates the energies coming from Paradise. (<a id="a344_178"></a>[UB 11:9.3](/en/The_Urantia_Book/11#p9_3))
 - ***It mobilizes energies*** to make them usable in the universes in response to the will of the spirit and personalities. The Spirit is present in this association because it is concerned with the manipulation of energy and not with its exteriorization.
 
 
@@ -351,7 +375,7 @@ Reactive infinity
 **DISCUSSION:**
 
 - Functional actualization of the nondeified domain. I am a little embarrassed because the translation of “nondeity” by nondeified does not satisfy me. It has always been translated by non-deity. The first paragraph should be: “This grouping makes eternal the functional realization of the infinity of all that can be actualized in the domain of the reality of non-deity.”
-- Domain of non-deity. It is clear that this domain is that of the First Source-Center as the source of all energy and of the island of Paradise, the archetype of energies. “1. Non-deified reality extends from the energy domains of the non-personal to the reality domains of the non-personalizable values of universal existence and even into the presence of the Unqualified Absolute.” ([UB 0:4.2](/en/The_Urantia_Book/0#p4_2))
+- Domain of non-deity. It is clear that this domain is that of the First Source-Center as the source of all energy and of the island of Paradise, the archetype of energies. “1. Non-deified reality extends from the energy domains of the non-personal to the reality domains of the non-personalizable values of universal existence and even into the presence of the Unqualified Absolute.” (<a id="a377_386"></a>[UB 0:4.2](/en/The_Urantia_Book/0#p4_2))
 
 
 ## The Sixth Triunity
@@ -381,9 +405,9 @@ Deity-in-the-cosmos
 
 **DISCUSSION:**
 
-- Immanence of the Deity: It is the possibility for the immanence of the Supreme [[UB 117:3.12](/en/The_Urantia_Book/117#p3_12)] to manifest itself in the cosmos at the same time as the Universal Father fragments itself in its creatures living in the cosmos.
-- Transcendence of Deity: the transcendence of God, the divine dominion of the universe of universes. [5: 5.6; p. 69-1] but also: “God the Ultimate exists in the transcendence of time and space, but is nevertheless subabsolute, despite his inherent ability to function in association with absolutes.” ([UB 106:4.4](/en/The_Urantia_Book/106#p4_4))
-- Extension of divinity outside of the challenged reality. That is, the undeified reality and the interassociated reality. It is the establishment of the presence of Deity-in-the-cosmos on these two levels of realities. [[UB 0:4.2](/en/The_Urantia_Book/0#p4_2)]
+- Immanence of the Deity: It is the possibility for the immanence of the Supreme <a id="a407_81"></a>[[UB 117:3.12](/en/The_Urantia_Book/117#p3_12)] to manifest itself in the cosmos at the same time as the Universal Father fragments itself in its creatures living in the cosmos.
+- Transcendence of Deity: the transcendence of God, the divine dominion of the universe of universes. [5: 5.6; p. 69-1] but also: “God the Ultimate exists in the transcendence of time and space, but is nevertheless subabsolute, despite his inherent ability to function in association with absolutes.” (<a id="a408_302"></a>[UB 106:4.4](/en/The_Urantia_Book/106#p4_4))
+- Extension of divinity outside of the challenged reality. That is, the undeified reality and the interassociated reality. It is the establishment of the presence of Deity-in-the-cosmos on these two levels of realities. <a id="a409_220"></a>[[UB 0:4.2](/en/The_Urantia_Book/0#p4_2)]
 
 ## The Seventh Triunity
 
@@ -441,3 +465,28 @@ The sixth triunity is the effort of Deity to actualize itself in transcendence a
 
 From a temporal point of view, all this takes place in past eternity, even before the advent of time and space. This is truly the beginning of the adventure. I invite you to continue our exploration of past eternity in the next LINK N^º 86 by inspecting the triodities, these associations that no longer include the Universal Father.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ralph_Zehr/Combien_De_Temps_Jusquau_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Long Until Heaven</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 85 — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Annuelle_De_l_AFLLU_A_Notre_Dame_des_Lumieres">
+          <span class="pr-2">AFLLU Annual Meeting At Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

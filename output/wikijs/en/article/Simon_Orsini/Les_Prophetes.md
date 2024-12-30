@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Simon Orsini<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“The Intergalactic Wanderer”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">How Big Is Paradise?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simon Orsini (Corsica — The island of beauty)
@@ -45,3 +69,28 @@ Jesus had trained Peter to become a teacher, he had created a school of prophets
 
 The soul is the function of man that reflects his identity, that discerns the truth, that receives the spirit. It perpetually elevates the human being above the animal world. Every morally conscious individual knows the existence of his soul.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Allen/The_Intergalactic_Wanderer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“The Intergalactic Wanderer”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Quelle_Est_La_Dimension_Du_Paradis">
+          <span class="pr-2">How Big Is Paradise?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

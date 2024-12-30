@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 George Michelson-Dupont<br>© 1996 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report of the 3rd International Conference of Associations Affiliated to the I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">The Consecration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We all know that a planetary diffusion of the Fifth Revelation will only take place if the original text _The URANTIA Book_ is translated into the languages of the races and peoples of Urantia. This obligation is included in the “Declaration of Trust” governing the URANTIA Foundation and this is why, given the importance of the task, it seemed necessary to bring together in one place, not only the Trustees of the Foundation (thus emphasizing the interest they had in this mission) but also all the people of good will who, directly or indirectly, have been or are involved in a translation process.
@@ -52,11 +76,36 @@ The URANTIA Foundation, to finance the translations, operates with the help of d
 
 The URANTIA Foundation needs the help and support of the entire Urantia readership to successfully carry out this historic planetary mission. With the imminent publication of the Russian, Dutch and Korean translations, we will be faced with a new challenge, that of internationalization. The different components of our movement have a great need to reconcile and not to export their divisions like cancer in a healthy organism.
 
-> Then said Jesus: “How can Satan cast out Satan? A kingdom divided against itself cannot stand; if a house be divided against itself, it is soon brought to desolation. Can a city withstand a siege if it is not united? If Satan casts out Satan, he is divided against himself; how then shall his kingdom stand? But you should know that no one can enter into the house of a strong man and despoil his goods except he first overpower and bind that strong man. And so, if I by the power of Beelzebub cast out devils, by whom do your sons cast them out? Therefore shall they be your judges. But if I, by the spirit of God, cast out devils, then has the kingdom of God truly come upon you. If you were not blinded by prejudice and misled by fear and pride, you would easily perceive that one who is greater than devils stands in your midst. You compel me to declare that he who is not with me is against me, while he who gathers not with me scatters abroad. Let me utter a solemn warning to you who would presume, with your eyes open and with premeditated malice, knowingly to ascribe the works of God to the doings of devils! Verily, verily, I say to you, all your sins shall be forgiven, even all of your blasphemies, but whosoever shall blaspheme against God with deliberation and wicked intention shall never obtain forgiveness. Since such persistent workers of iniquity will never seek nor receive forgiveness, they are guilty of the sin of eternally rejecting divine forgiveness. ([UB 153:4.3](/en/The_Urantia_Book/153#p4_3))
+> Then said Jesus: “How can Satan cast out Satan? A kingdom divided against itself cannot stand; if a house be divided against itself, it is soon brought to desolation. Can a city withstand a siege if it is not united? If Satan casts out Satan, he is divided against himself; how then shall his kingdom stand? But you should know that no one can enter into the house of a strong man and despoil his goods except he first overpower and bind that strong man. And so, if I by the power of Beelzebub cast out devils, by whom do your sons cast them out? Therefore shall they be your judges. But if I, by the spirit of God, cast out devils, then has the kingdom of God truly come upon you. If you were not blinded by prejudice and misled by fear and pride, you would easily perceive that one who is greater than devils stands in your midst. You compel me to declare that he who is not with me is against me, while he who gathers not with me scatters abroad. Let me utter a solemn warning to you who would presume, with your eyes open and with premeditated malice, knowingly to ascribe the works of God to the doings of devils! Verily, verily, I say to you, all your sins shall be forgiven, even all of your blasphemies, but whosoever shall blaspheme against God with deliberation and wicked intention shall never obtain forgiveness. Since such persistent workers of iniquity will never seek nor receive forgiveness, they are guilty of the sin of eternally rejecting divine forgiveness. (<a id="a78_1481"></a>[UB 153:4.3](/en/The_Urantia_Book/153#p4_3))
 
 And, at the farewell supper he gave the following exhortation:
 
-> “_After a few moments of informal conversation, Jesus stood up and said: “When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
+> “_After a few moments of informal conversation, Jesus stood up and said: “When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” (<a id="a82_758"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
 
 Summary prepared by G. Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report of the 3rd International Conference of Associations Affiliated to the I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">The Consecration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">These Absurd Theories</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Humor is the cleaning lady of the mind!_
@@ -39,3 +63,28 @@ _The shortest distance between one person and another is laughter!_ Victor Borge
 
 _I am convinced that humans succeed where they have fun!_ Greg Norman
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cecile_Denayrouse/Ces_theories_absurdes">
+          <span class="pr-2">These Absurd Theories</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

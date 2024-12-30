@@ -9,12 +9,36 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cat's Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Resurrections_Dispensationnelles_Ages_Planetaires">
+          <span class="pr-2">Dispensational Resurrections — Planetary Ages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > “There are three and not two factors in the evolutionary creation of such an immortal soul. These three antecedents of the morontia human soul are:”
 > “1. *The human mind* and all cosmic influences antecedent thereto and impinging thereon.”
 > “2. *The divine spirit* indwelling this human mind and all potentials inherent in such a fragment of absolute spirituality together with all associated spiritual influences and factors in human life.”
-> “3. *The relationship between material mind and divine spirit,* which connotes a value and carries a meaning not found in either of the contributing factors to such an association. The reality of this unique relationship is neither material nor spiritual but morontial. It is the soul.” ([UB 111:2.4-7](/en/The_Urantia_Book/111#p2_4))
+> “3. *The relationship between material mind and divine spirit,* which connotes a value and carries a meaning not found in either of the contributing factors to such an association. The reality of this unique relationship is neither material nor spiritual but morontial. It is the soul.” (<a id="a40_290"></a>[UB 111:2.4-7](/en/The_Urantia_Book/111#p2_4))
 
 To illustrate this idea that our inner development depends on a contribution greater than our mind and our relationship with it, I offer you this popular tale:
 
@@ -47,3 +71,28 @@ So he took him back to reinstate him with his flock, having fulfilled the terms 
 <figcaption>The saeg is not the one who preaches good, but the one who does it. Mocharrafoddin Saadí (1210-1291). Gulistan or the rose garden.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Poeme_Du_Chat">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cat's Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Resurrections_Dispensationnelles_Ages_Planetaires">
+          <span class="pr-2">Dispensational Resurrections — Planetary Ages</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

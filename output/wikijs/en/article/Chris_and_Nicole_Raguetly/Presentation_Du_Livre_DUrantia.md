@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Chris and Nicole Raguetly<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_23">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="pr-2">Perfume Of A Woman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chris and Nicole Raguetly
@@ -49,7 +73,7 @@ We have been accustomed to judging a work by the more or less recognized quality
 
 That said, we will have to judge. And it is not because we know the name of the author that the book will be good, and it is not because we _think we know_ the name of the author that the book is really his. The story begins with Moses who tells his own death and continues with Homer who could well be multiple and in modern times by Shakespeare. But in fact what does it matter whether it was a certain Homer or a certain Shakespeare who wrote? The texts have made and still make the delight of millions of readers and spectators.
 
-You have to agree to undertake reading The Urantia Book with a touch of frustration. You will say: I do not know the name of the contact personality who made the publication of this book possible. Fine, but I am going to be very critical. Well, bravo! Be critical, but stay honest! The book itself talks about sincerity! It even says that these are the keys to the kingdom: Sincerity, more sincerity and more sincerity... [UB 39:4.14](/en/The_Urantia_Book/39#p4_14) It is when leaving the theater that you can say I liked the play, not after five minutes, when the characters are not even definable and the spectator knows nothing about the action. Do the same with the _Urantia Book_, read it in its entirety and only then can you say: No, it's a parody, I'm keeping my skepticism or my traditional religion, or: Yes, but there are things I don't agree with.
+You have to agree to undertake reading The Urantia Book with a touch of frustration. You will say: I do not know the name of the contact personality who made the publication of this book possible. Fine, but I am going to be very critical. Well, bravo! Be critical, but stay honest! The book itself talks about sincerity! It even says that these are the keys to the kingdom: Sincerity, more sincerity and more sincerity... <a id="a75_422"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14) It is when leaving the theater that you can say I liked the play, not after five minutes, when the characters are not even definable and the spectator knows nothing about the action. Do the same with the _Urantia Book_, read it in its entirety and only then can you say: No, it's a parody, I'm keeping my skepticism or my traditional religion, or: Yes, but there are things I don't agree with.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_03/057.jpg">
@@ -69,7 +93,7 @@ The Urantia Book can be seen as an educational book. To educate comes from the L
 
 <br style=“clear:both;”/>
 
-> “No professed revelation of religion could be regarded as authentic if it failed to recognize the duty demands of ethical obligation which had been created and fostered by preceding evolutionary religion. Revelation unfailingly enlarges the ethical horizon of evolved religion while it simultaneously and unfailingly expands the moral obligations of all prior revelations.” ([[UB 101:9.1](/en/The_Urantia_Book/101#p9_1))
+> “No professed revelation of religion could be regarded as authentic if it failed to recognize the duty demands of ethical obligation which had been created and fostered by preceding evolutionary religion. Revelation unfailingly enlarges the ethical horizon of evolved religion while it simultaneously and unfailingly expands the moral obligations of all prior revelations.” (<a id="a95_377"></a>[[UB 101:9.1](/en/The_Urantia_Book/101#p9_1))
 
 **But you can only read The Urantia Book if you are educable.**
 
@@ -107,7 +131,7 @@ This is to prevent the human habit of devoting a more or less conscious worship 
 
 Three vital questions arise for every human being:
 
-> 5. *The Urantia Papers.* The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia. ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> 5. *The Urantia Papers.* The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia. (<a id="a133_859"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
 1. **Who am I?**
 2. **What am I doing here?**
@@ -158,13 +182,13 @@ All these successive revelations have the characteristic of taking up the previo
 
 If I said from the outset that presenting _The Urantia Book_ is not an easy thing, it is because _The Urantia Book_ is not an easy book. Like any original author, it uses a vocabulary in a sense that may be particular to it and, moreover, it presents concepts that are not familiar to the reader. In most books in French, the explanations are given in notes at the end of the volume. The authors, here, wanted to give a certain number of explanations in the introduction. They tell us:
 
-> In the hope of facilitating comprehension and of preventing confusion on the part of every mortal who may peruse these papers, we deem it wise to present in this initial statement an outline of the meanings to be attached to numerous English words which are to be employed in designation of Deity and certain associated concepts of the things, meanings, and values of universal reality. ([UB 0:0.3](/en/The_Urantia_Book/0#p0_3))
+> In the hope of facilitating comprehension and of preventing confusion on the part of every mortal who may peruse these papers, we deem it wise to present in this initial statement an outline of the meanings to be attached to numerous English words which are to be employed in designation of Deity and certain associated concepts of the things, meanings, and values of universal reality. (<a id="a184_390"></a>[UB 0:0.3](/en/The_Urantia_Book/0#p0_3))
 
 This is really an overview of the senses and we are not going to tell you everything in these 17 or so introductory pages.
 
 _This is why it is good to approach the book through its introduction; but we must remain very modest_. If they tell us that this preamble is given “in the hope of facilitating understanding and avoiding confusion” it is because every reader starts with certain prejudices and certain ignorances. If this book is a revelation it will open up new perspectives for us and when concepts are new it takes everyone time to assimilate them.
 
-> _But in order to formulate this Foreword of definitions and limitations of terminology, it is necessary to anticipate the usage of these terms in the subsequent presentations. This Foreword is not, therefore, a finished statement within itself; it is only a definitive guide designed to assist those who shall read the accompanying papers dealing with Deity and the universe of universes which have been formulated by an Orvonton commission sent to Urantia for this purpose._ ([UB 0:0.4](/en/The_Urantia_Book/0#p0_4))
+> _But in order to formulate this Foreword of definitions and limitations of terminology, it is necessary to anticipate the usage of these terms in the subsequent presentations. This Foreword is not, therefore, a finished statement within itself; it is only a definitive guide designed to assist those who shall read the accompanying papers dealing with Deity and the universe of universes which have been formulated by an Orvonton commission sent to Urantia for this purpose._ (<a id="a190_479"></a>[UB 0:0.4](/en/The_Urantia_Book/0#p0_4))
 
 From then on, we must expect clarifications, but also that many things will remain mysterious.
 
@@ -181,7 +205,7 @@ The most important thing seems to me to be that a first reading eliminates certa
 > 3. The study of causation is the perusal of history. But the knowledge of *how* a being becomes does not necessarily provide an intelligent understanding of the present status and true character of such a being.
 > 4. History alone fails adequately to reveal future development—destiny. Finite origins are helpful, but only divine causes reveal final effects. Eternal ends are not shown in time beginnings. The present can be truly interpreted only in the light of the correlated past and future.
 > 
-> Therefore, because of these and for still other reasons, do we employ the technique of approaching man and his planetary problems by embarkation on the time-space journey from the infinite, eternal, and divine Paradise Source and Center of all personality reality and all cosmic existence. ([UB 19:1.5-12](/en/The_Urantia_Book/19#p1_5))
+> Therefore, because of these and for still other reasons, do we employ the technique of approaching man and his planetary problems by embarkation on the time-space journey from the infinite, eternal, and divine Paradise Source and Center of all personality reality and all cosmic existence. (<a id="a207_293"></a>[UB 19:1.5-12](/en/The_Urantia_Book/19#p1_5))
 
 
 Therefore, again I say that it is good to have read the introduction, even if it seems difficult.
@@ -194,7 +218,7 @@ Previous centuries have only lived and thought by the logic of Aristotle, still 
 
 _The Urantia Book_ from its introduction indicates that its authors are relativists (not in the sense of Einstein); they tell us that a strict application of Aristotle's logic can only result in paradoxes and the method recommended for understanding everything that concerns something other than the finite is that of levels. Let's take an example:
 
-> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ ([UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
+> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ (<a id="a220_388"></a>[UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
 
 Within each level, we can use the principles of traditional logic, but this is not applicable to all levels.
 
@@ -214,7 +238,7 @@ It is obviously not a question of answering all the questions about the Trinity,
 
 Let’s not leave the Trinity so quickly. Booklet 10 is dedicated to it.
 
-The early Christians may well have had an idea of the Trinity, but theological reflection on the subject does not seem to appear clearly before the fourth century. Even the Council of _Nicaea in 325_, while noting the presence of the three persons, the Father, the Son and the Spirit, does not insist on their relations. It was the Council of _Constantinople in 381_ which proclaimed the equal divinity of the Father, the Son and the Spirit. Let us say once again that the Son and his incarnation posed insoluble problems. _The Urantia Book_ clearly sets out both the primacy of the Father, the reasons which impose the existence of a Trinity (it is the only way to escape the absolutism of personality [UB 10:0.1](/en/The_Urantia_Book/10#p0_1)) and the perfect coordination of the three persons. Moreover it tells us that this Trinity does not have so much attributes as _functions_. Now these functions are linked to the _concepts of reality_. The concept of reality is in fact the fundamental constituent of the book, it is not approached according to the methods of traditional philosophy but most often following the method of levels of which we have already spoken. The word reality itself is so important that it is found 780 times in the singular in the English version. (real 480 times)
+The early Christians may well have had an idea of the Trinity, but theological reflection on the subject does not seem to appear clearly before the fourth century. Even the Council of _Nicaea in 325_, while noting the presence of the three persons, the Father, the Son and the Spirit, does not insist on their relations. It was the Council of _Constantinople in 381_ which proclaimed the equal divinity of the Father, the Son and the Spirit. Let us say once again that the Son and his incarnation posed insoluble problems. _The Urantia Book_ clearly sets out both the primacy of the Father, the reasons which impose the existence of a Trinity (it is the only way to escape the absolutism of personality <a id="a240_703"></a>[UB 10:0.1](/en/The_Urantia_Book/10#p0_1)) and the perfect coordination of the three persons. Moreover it tells us that this Trinity does not have so much attributes as _functions_. Now these functions are linked to the _concepts of reality_. The concept of reality is in fact the fundamental constituent of the book, it is not approached according to the methods of traditional philosophy but most often following the method of levels of which we have already spoken. The word reality itself is so important that it is found 780 times in the singular in the English version. (real 480 times)
 
 All the philosophers of antiquity were well aware of the existence of a finite reality and an Absolute reality, but none, it seems, had imagined the existence of the Supreme (finite), (although the term Supreme Being was known) of the Ultimate (absonite) and of the Absolute. None had imagined the possibility of several Trinities. Now this concept of trinity is so important that three other fascicles will be necessary to try to make us understand these functions and their relations with total reality.
 
@@ -306,9 +330,9 @@ What does the catechism of the Catholic Church published by Mame/Plon legal depo
 
 We must understand the position of the Church and not only of the Catholic Church, but also of all Orthodox or Protestant fundamentalists. For a long time, and even at the time of Christ, the constituted bodies have opposed change and even if Jesus said: “I have not come to abolish but to fulfill”, the Pharisees accused him, among other things, of not respecting the Mosaic law.
 
-Nothing new imposes itself on established authority and only time and evolution can impose a revision. “_Unlike science, religion does not provide for its own progressive correction._” [UB 92:3.4](/en/The_Urantia_Book/92#p3_4)
+Nothing new imposes itself on established authority and only time and evolution can impose a revision. “_Unlike science, religion does not provide for its own progressive correction._” <a id="a332_185"></a>[UB 92:3.4](/en/The_Urantia_Book/92#p3_4)
 
-> _Only two influences can modify and uplift the dogmas of natural religion: the pressure of the slowly advancing mores and the periodic illumination of epochal revelation. And it is not strange that progress was slow; in ancient days, to be progressive or inventive meant to be killed as a sorcerer. The cult advances slowly in generation epochs and agelong cycles. But it does move forward. Evolutionary belief in ghosts laid the foundation for a philosophy of revealed religion which will eventually destroy the superstition of its origin._ ([UB 92:3.5](/en/The_Urantia_Book/92#p3_5))
+> _Only two influences can modify and uplift the dogmas of natural religion: the pressure of the slowly advancing mores and the periodic illumination of epochal revelation. And it is not strange that progress was slow; in ancient days, to be progressive or inventive meant to be killed as a sorcerer. The cult advances slowly in generation epochs and agelong cycles. But it does move forward. Evolutionary belief in ghosts laid the foundation for a philosophy of revealed religion which will eventually destroy the superstition of its origin._ (<a id="a334_545"></a>[UB 92:3.5](/en/The_Urantia_Book/92#p3_5))
 
 The examples of the difficulties of changing the attitude of religion are known to all, at least for the Catholic religion. The first centuries are filled with anathemas (see Denzinger's Enchiridion) and everyone knows how long it took to control the Inquisition, for the beginning of ecumenism to manifest itself towards Protestants, for Galileo to be rehabilitated, for evolutionism to be admitted as a possibility or even for Theilard de Chardin not to be put on the Index. This Index which was, we hope definitively, only deleted in 1966. Consider that Blaise Pascal's Pensées were on the Index in the same way as Baudelaire's Les Fleurs du mal.
 
@@ -352,6 +376,31 @@ Here are very briefly some of the 47 themes that we could have addressed by foll
 Thank you for your attention and I will answer your questions to the best of my ability.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_23">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Parfum_De_Femme">
+          <span class="pr-2">Perfume Of A Woman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

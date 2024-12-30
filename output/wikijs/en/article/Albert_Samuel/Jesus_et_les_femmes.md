@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Albert Samuel<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Eloge_de_la_femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Praise of the woman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="pr-2">The return of the goddess</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 As for Jesus' attitude towards women, it is so unusual, so surprising and even scandalous that the disciples are astonished: “How,” they said to themselves, “can he speak with a woman?” or “How can he let himself be touched by a sinner?”
@@ -25,3 +49,28 @@ In “Women and Religions”, Les éditions de l'Atelier,
 
 Albert Samuel
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Eloge_de_la_femme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Praise of the woman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chistine_Baussain/Le_retour_de_la_deesse">
+          <span class="pr-2">The return of the goddess</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Georges Donnadieu<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Octavie_Jung/Poesie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poetry</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/BD_humoristique">
+          <span class="pr-2">Comic Strip</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Worship is the religious impulse which brings about worshipful satisfaction, always according to our own course of action, directed by (1) our intuition, associated with (2) our understanding, supported by (3) our courage, approved by (4) our knowledge, directed (5) in counsel, to arrive at a state of worship satisfying the needs of the intuition.
 
-Example #20 from “Morontia Mota” is: “Only a poet can discern poetry in mundane everyday life” ([UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+Example #20 from “Morontia Mota” is: “Only a poet can discern poetry in mundane everyday life” (<a id="a39_96"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 I will illustrate this aphorism with two poems of worship from two 19th century poets, born on two continents bordering the Atlantic. Both poems are addressed to the Creator of our local universe of Nebadon and to the celestial hosts, even in our local system and on our planet Urantia.
 
@@ -78,3 +102,28 @@ Jesus!
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Octavie_Jung/Poesie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poetry</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/BD_humoristique">
+          <span class="pr-2">Comic Strip</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

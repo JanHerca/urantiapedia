@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Anne and Thierry Lepage<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Little Personal Theory on the Proof of God's Existence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-26-summer-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 26 — Summer 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">“The Will of God”: Elucubration or God, My Best Friend?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We arrived this morning of April 26 at Notre Dame des Lumières, which is hosting a national meeting of readers of the _Urantia Book_ organized by the AFLUB. The place, with an inspiring name, is magnificent: the presence of a cloister, a chapel and religious statues gives the place a serene atmosphere. In addition, its location in a very calm natural setting encourages meditation.
@@ -29,3 +53,28 @@ Fraternally.
 
 Anne and Thierry Lepage
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Petite_theorie_personnelle_sur_la_preuve_de_lexistence_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Little Personal Theory on the Proof of God's Existence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-26-summer-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 26 — Summer 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Neveu/La_volonte_de_Dieu_elucubration">
+          <span class="pr-2">“The Will of God”: Elucubration or God, My Best Friend?!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

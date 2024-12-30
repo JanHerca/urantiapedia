@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jean Royer<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wise words (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-66-spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 66 — Spring 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">The Project of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The Spanish version of **Wikipedia**, in the article **El Libro de Urantia** gives a dozen scientific points which it claims have been proven false by science.
@@ -39,9 +63,34 @@ As for the refutation by the DNA analysis technique of the origin of races, it r
 
 The day when, instead of searching in Africa, we search elsewhere, perhaps things will change.
 
-One last thing, but this is totally wrong, the penultimate criticism of this Wikipedia concerns Mercury and says that the UB claims that Mercury always presents the same face to the sun while the science of 1965 showed that Mercury is still rotating slowly. This legend comes from the fact that the first readers of the book read what they wanted to read and which was in accordance with the beliefs of the time, but a careful reading shows that the UB clearly distinguishes the moon which presents the same face to the Earth, from Mercury which is one of the planets which rotate more and more slowly. (see [UB 57:6.2](/en/The_Urantia_Book/57#p6_2))
+One last thing, but this is totally wrong, the penultimate criticism of this Wikipedia concerns Mercury and says that the UB claims that Mercury always presents the same face to the sun while the science of 1965 showed that Mercury is still rotating slowly. This legend comes from the fact that the first readers of the book read what they wanted to read and which was in accordance with the beliefs of the time, but a careful reading shows that the UB clearly distinguishes the moon which presents the same face to the Earth, from Mercury which is one of the planets which rotate more and more slowly. (see <a id="a65_608"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2))
 
 I would add to this false information another legend that continues to flourish on the net according to which the UB speaks of 48 chromosomes while we know that man has 46 chromosomes. Here again, a careful reading shows that the UB does not speak anywhere of 48 chromosomes in relation to man but of forty-eight archetypal control units, the determinants of characteristics, carefully avoiding using the term chromosome which it nevertheless knows.
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wise words (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-66-spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 66 — Spring 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">The Project of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

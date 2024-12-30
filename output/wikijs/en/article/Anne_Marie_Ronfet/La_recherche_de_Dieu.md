@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Anne-Marie Ronfet<br>© 2005 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The friend of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-33-spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 33 — Spring 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Thought</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Our conception of truth, beauty and goodness never ceases to grow, from our life until our arrival before the Father. God reveals himself to us as absolute truth, absolute beauty, absolute goodness. We cannot have any other idea of him. This is our best concept of God. We imagine Paradise as a place of breathtaking beauty. We imagine the beings who surround the Father as real living intelligences and the Father himself as limitless goodness.
@@ -17,13 +41,13 @@ Because God manifests himself to us in this way.
 
 Our mind thinks of God as truth, beauty and goodness.
 
-> _Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as justice, power, and sovereignty._ ([UB 0:1.17](/en/The_Urantia_Book/0#p1_17))
+> _Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as justice, power, and sovereignty._ (<a id="a43_196"></a>[UB 0:1.17](/en/The_Urantia_Book/0#p1_17))
 
 And we can go even further. We only understand God to the extent that we are sensitive to these three values. The higher our idea of truth, the more harmonious and ethical our idea of beauty, the more our sense of goodness takes place in our life and the closer we are to God. It is therefore essential to have a clear idea of these three values and to give them a preponderant place in our daily life.
 
 God manifests himself to us to the extent that we can understand him and we only understand him through these three values.
 
-> The divine mystery consists in the inherent difference which exists between the finite and the infinite, the temporal and the eternal, the time-space creature and the Universal Creator, the material and the spiritual, the imperfection of man and the perfection of Paradise Deity. The God of universal love unfailingly manifests himself to every one of his creatures up to the fullness of that creature’s capacity to spiritually grasp the qualities of divine truth, beauty, and goodness. ([UB 1:4.5](/en/The_Urantia_Book/1#p4_5))
+> The divine mystery consists in the inherent difference which exists between the finite and the infinite, the temporal and the eternal, the time-space creature and the Universal Creator, the material and the spiritual, the imperfection of man and the perfection of Paradise Deity. The God of universal love unfailingly manifests himself to every one of his creatures up to the fullness of that creature’s capacity to spiritually grasp the qualities of divine truth, beauty, and goodness. (<a id="a49_490"></a>[UB 1:4.5](/en/The_Urantia_Book/1#p4_5))
 
 It is in spiritual experience that these three values unify. They cannot function separately from each other without creating imbalances.
 
@@ -57,3 +81,28 @@ Finally, they allow themselves to be “forgotten” in a sort of call for the u
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The friend of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-33-spring-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 33 — Spring 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Thought</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

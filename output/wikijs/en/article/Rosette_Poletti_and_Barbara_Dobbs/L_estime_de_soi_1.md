@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Rosette Poletti and Barbara Dobbs<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Breath of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empathy and Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Self-esteem statement
@@ -109,3 +133,28 @@ The first step is to become aware of this state of affairs, then to identify the
 
 Rosette Poletti and Barbara Dobbs
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Breath of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Empathie_et_Leadership">
+          <span class="pr-2">Empathy and Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

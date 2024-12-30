@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Reconnaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gratitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="pr-2">The “Our Father”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia">
@@ -39,3 +63,28 @@ _Another challenge for economic thought: the environmental crisis. It has now be
 
 Excerpt from a Baha'i pamphlet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Reconnaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gratitude</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pasteur_Louis_Pernot/Le_Notre_Pere_2">
+          <span class="pr-2">The “Our Father”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

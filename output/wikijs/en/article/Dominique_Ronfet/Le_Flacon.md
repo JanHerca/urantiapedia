@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Dominique Ronfet<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">At the Theater of Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="pr-2">Will, Personality, Moral Choice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -32,3 +56,28 @@ dateCreated: 2024-11-6T12:40:15Z
 Dominique<br>
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Au_theatre_du_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">At the Theater of Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Volonte_personnalite_choix_moral">
+          <span class="pr-2">Will, Personality, Moral Choice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

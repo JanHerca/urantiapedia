@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Guy Bourhis<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gazette Section: At the Mother House</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On Christine's advice (Cf. “Le lien” n¹5 Autumn 2000), I reread chapter 7 of booklet 87. In doing so, nothing happened to me as Christine had predicted! - but I was struck by the content of the paragraph devoted to “new” symbolism.
@@ -30,3 +51,25 @@ Could another member or reader take over from me now to try to look for new symb
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Rubrique_de_la_Gazette_A_la_maison_mere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gazette Section: At the Mother House</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Are We Granted Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Chercher_Decouvrir_Comprendre">
+          <span class="pr-2">Search, Discover, Understand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## An Update on Translations
@@ -19,7 +43,7 @@ I wish here to express my heartfelt thanks to all the translators and reviewers 
 
 We know that revelation comes ahead of its time in order to prepare the ground for a much wider diffusion when the time comes, that is to say when humanity will be more inclined to live the Gospel of Jesus. Translations are an integral part of the plan of the revelators, they are essential to eliminate ideological and theological confusions, raise the quality of thinking, change social mentalities, improve the quality of human relationships, broaden the level of consciousness of the universe in which we live and enhance the spirituality of our humanity. Translations participate in the construction of the foundations that will effectively support the new times to come, the time when love, that is to say the desire to do good to others, will become the watchword of spiritual progress and social justice.
 
-> “You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” ([UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
+> “You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” (<a id="a45_911"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
 
 ## A short history
 
@@ -150,3 +174,28 @@ International Vice President.
 
 Translation Manager for the Foundation
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Are We Granted Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Chercher_Decouvrir_Comprendre">
+          <span class="pr-2">Search, Discover, Understand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

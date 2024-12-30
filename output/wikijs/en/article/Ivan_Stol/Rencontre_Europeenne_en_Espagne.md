@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Ivan Stoll<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting in Italy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Salon_du_livre_de_Toulon">
+          <span class="pr-2">Toulon Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Once again, not far from the beach, the town of Sitges near Barcelona hosted this European inter-association meeting in Spain.
@@ -74,3 +98,28 @@ _Ivan Stol — November 2017_
 <img src="/image/article/Le_Lien/images_02/115.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting in Italy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Salon_du_livre_de_Toulon">
+          <span class="pr-2">Toulon Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Faith”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-37-autumn-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 37 — Autumn 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">When He Passed By</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It took millions and millions of years of evolution to obtain a creature as beautiful as me! I am not perfect, I know that, but I am working on it! Since the Life Carriers made a vow to no longer interfere in the course of the organic evolution of my planet, I am responsible for my destiny. At the beginning of this $XXI^º$ century, it seems to me that I am becoming aware that my destiny and that of all humanity are in my hands!
@@ -34,7 +58,7 @@ At the beginning of evolution, the **mechanical** mind only serves to maintain t
 
 When a living being becomes capable of acting on the external environment, instead of reacting automatically to stimuli without doing anything else, it begins to think and becomes something other than a machine. “If I put myself under this stone”, thinks the scorpion, “the sun will not burn me”: the spirit of intuition is then capable of establishing contact with the mechanical mind. I act in the same way: erotic fantasies, conscious emotions can accelerate the beating of my heart. The feelings that I experience are the work of the Maternal ministry **of the adjutant mental spirits**. Through them, I have the possibility of expressing my will. As a man, I am even capable of recognizing the existence of a force much greater than mine which exalts my emotions to the point of adoration! I can now profit from the experience with wisdom!
 
-Despite all that can be said about them, the adjutant mental spirits are only circuits by which the material mind is distributed to intelligent creatures. _I will not worship them, I will not speak to them, I will not worship them!_ At the risk of making everyone angry, I declare, as does The Urantia Book, to [UB 36:5.16](/en/The_Urantia_Book/36#p5_16), that the first five have no repercussions in the Supreme Being, which means that for him as for me, what has value and which benefits his personal growth as well as mine, is the spiritualized, non-animal mind, proper to man as well as to all celestial creatures endowed with personality.
+Despite all that can be said about them, the adjutant mental spirits are only circuits by which the material mind is distributed to intelligent creatures. _I will not worship them, I will not speak to them, I will not worship them!_ At the risk of making everyone angry, I declare, as does The Urantia Book, to <a id="a60_311"></a>[UB 36:5.16](/en/The_Urantia_Book/36#p5_16), that the first five have no repercussions in the Supreme Being, which means that for him as for me, what has value and which benefits his personal growth as well as mine, is the spiritualized, non-animal mind, proper to man as well as to all celestial creatures endowed with personality.
 
 I do not know exactly at what age I received the gift of personality from the Eternal Father, but I am certain that the first five adjutants were already flowing within me. No animal endowed with the first five adjutants possesses personality. Since my early childhood, I have therefore been something other than a simple animal!
 
@@ -48,3 +72,28 @@ Admire and protect at the same time, the little being that I am, struggling in t
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Faith”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-37-autumn-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 37 — Autumn 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">When He Passed By</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

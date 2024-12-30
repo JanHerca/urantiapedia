@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Simon Orsini<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For Geneticists</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Some say that time does not exist, I am convinced of the opposite. Time is certainly not a concrete thing that can be demonstrated by mathematics. However, time can be the sum of two or more factors which often represent something more than the sum of the predictable consequences, we have the example of water (hydrogen plus oxygen) water extinguishes fire.
@@ -19,7 +40,7 @@ For a believer, time does not depend on causality in relation to people or event
 
 Jesus explained to us that time was the flow of events perceived by human consciousness, it is because time flows, that we can separate them, understand them, live them. Time is the moving image of eternity. The first vision of time is linear, the experienced vision becomes global because ideas begin to develop in a universal framework.
 
-> Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding. ([UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
+> Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding. (<a id="a42_149"></a>[UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
 
 
 The only thing free of time is human creative imagination. Creation is a phenomenon of the mind, which goes beyond material thought.
@@ -60,7 +81,7 @@ The fact that astrophysicists discover a different organization, an interaction 
 
 The interelectronic space is animated by wave manifestations perfectly synchronized with the speed of the electrons, this force is not entirely dominated by the recognized laws of positive and negative attraction. This is why it sometimes behaves in an unpredictable manner.
 
-> Time and space are a conjoined mechanism of the master universe. They are the devices whereby finite creatures are enabled to coexist in the cosmos with the Infinite. Finite creatures are effectively insulated from the absolute levels by time and space. But these insulating media, without which no mortal could exist, operate directly to limit the range of finite action. Without them no creature could act, but by them the acts of every creature are definitely limited. ([UB 118:9.1](/en/The_Urantia_Book/118#p9_1))
+> Time and space are a conjoined mechanism of the master universe. They are the devices whereby finite creatures are enabled to coexist in the cosmos with the Infinite. Finite creatures are effectively insulated from the absolute levels by time and space. But these insulating media, without which no mortal could exist, operate directly to limit the range of finite action. Without them no creature could act, but by them the acts of every creature are definitely limited. (<a id="a83_475"></a>[UB 118:9.1](/en/The_Urantia_Book/118#p9_1))
 
 The width of the intervals between particles of matter, as well as the initial speed of the energy rays, cause the wave-like appearance of many forms of matter energies. Rapidly moving particles cause the excitation of the contents of space, they produce a wave reaction.
 
@@ -70,11 +91,33 @@ If we consider that the speed of certain electrons around the nucleus of the ato
 
 We can control electrons as negative or positive, but at certain times we must also tell ourselves that it is the position that determines the positive or the negative as the circuit of the proton and the neutron proves to us. The fact is, that in the case of superposition of two particles we can no longer know where the positive or the negative is. If the first electron is positive, the second is negative, but this is only a hypothesis. The ordered and safe association of various energies constitutes matter. Civilizations arise and disappear, but science, morality, religion always survive the collapse.
 
-> Like space, time is a bestowal of Paradise, but not in the same sense, only indirectly. Time comes by virtue of motion and because mind is inherently aware of sequentiality. From a practical viewpoint, motion is essential to time, but there is no universal time unit based on motion except in so far as the Paradise-Havona standard day is arbitrarily so recognized. The totality of space respiration destroys its local value as a time source. ([UB 12:5.1](/en/The_Urantia_Book/12#p5_1))
+> Like space, time is a bestowal of Paradise, but not in the same sense, only indirectly. Time comes by virtue of motion and because mind is inherently aware of sequentiality. From a practical viewpoint, motion is essential to time, but there is no universal time unit based on motion except in so far as the Paradise-Havona standard day is arbitrarily so recognized. The totality of space respiration destroys its local value as a time source. (<a id="a93_446"></a>[UB 12:5.1](/en/The_Urantia_Book/12#p5_1))
 
-> Time and space are inseparable only in the time-space creations, the seven superuniverses. Nontemporal space (space without time) theoretically exists, but the only truly nontemporal place is Paradise *area.* Nonspatial time (time without space) exists in mind of the Paradise level of function. ([UB 12:5.3](/en/The_Urantia_Book/12#p5_3))
+> Time and space are inseparable only in the time-space creations, the seven superuniverses. Nontemporal space (space without time) theoretically exists, but the only truly nontemporal place is Paradise *area.* Nonspatial time (time without space) exists in mind of the Paradise level of function. (<a id="a95_299"></a>[UB 12:5.3](/en/The_Urantia_Book/12#p5_3))
 
 
 
 Simon Orsini.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Pour_Les_Geneticiens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For Geneticists</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

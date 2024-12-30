@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Joël Goldsmith<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Our_Emotions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Emotions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_08">
+          <span class="pr-2">Brother Dominique’s Little Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In the state of illumination we acknowledge the authority of Christ alone; we bow to neither rites nor rules, only to the impersonal and universal love of God. We worship only the inner flame that burns forever in the sanctuary of the Spirit. From this union is born the freedom that is proper to spiritual brotherhood. We are one in a limitless universe; we serve God apart from ceremonies and creeds. Those who have the light of the Spirit go fearlessly through their lives—by grace.
@@ -87,3 +111,28 @@ Let us be assured that Christ is knocking at the door of that person's mind for 
 
 Joel Goldsmith
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Our_Emotions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Emotions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_08">
+          <span class="pr-2">Brother Dominique’s Little Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,32 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanmarie Chaise<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 One of the remarkable particularities, when one becomes aware of THE URANTIA BOOK, is the almost constant reference that one finds there in the establishment of its organization according to the mathematical ordering of its essential components. It quickly appears to the reader that numbers play a leading role, and in particular the decade and especially the heptad which, respectively, organize more than the space and the conformation of things. And this observation brings an additional confirmation to the order in which the Deity wanted to unify and coordinate all his creation.
 
-For example, we are told in [UB 13:0.1](/en/The_Urantia_Book/13#p0_1): “_BETWEEN the central Isle of Paradise and the most central of the planetary circuits of Havona are intercalated in space three minor circuits of special spheres. The inner circuit is composed of the seven secret spheres of the Universal Father; the second group is formed by the seven luminous worlds of the Eternal Son and outside there are the seven immense spheres of the Infinite Spirit, the worlds constituting the administrative headquarters of the Seven Master Spirits._” And in [UB 3:5.15](/en/The_Urantia_Book/3#p5_15): “_In the universe of Havona, there are a billion perfect worlds with their perfect inhabitants.._” These worlds are distributed according to seven concentric circles.
+For example, we are told in <a id="a36_28"></a>[UB 13:0.1](/en/The_Urantia_Book/13#p0_1): “_BETWEEN the central Isle of Paradise and the most central of the planetary circuits of Havona are intercalated in space three minor circuits of special spheres. The inner circuit is composed of the seven secret spheres of the Universal Father; the second group is formed by the seven luminous worlds of the Eternal Son and outside there are the seven immense spheres of the Infinite Spirit, the worlds constituting the administrative headquarters of the Seven Master Spirits._” And in <a id="a36_558"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15): “_In the universe of Havona, there are a billion perfect worlds with their perfect inhabitants.._” These worlds are distributed according to seven concentric circles.
 
 “A billion perfect worlds with their perfect inhabitants.” presents the confirmation provided by the number 10 to the ninth power or the number 1000 to the power of 3. But this number “a billion” is so to speak “more than perfect”, because not content with being so by the number 10, it is also and in a conjugate manner with it by the number “7”. This assertion is proven by a demonstration answering the question: <ins>Since the worlds of Havona are distributed perfectly according to “seven” concentric circuits, how many worlds is each of these circuits composed of?</ins> Everyone can try to find this perfection by numbers before reading me further here. Otherwise, here is the solution:
 
@@ -54,3 +75,25 @@ The proportionality between each circuit is therefore of the order of one twenty
 
 Jeanmarie Chair
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_trinitisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinitization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

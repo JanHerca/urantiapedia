@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Moustapha NDiaye<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Brief Reflections on Time</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The recent massacres committed in North America, Europe and also in the Middle East have sparked a wave of incomprehension and indignation throughout the world. This Islamist violence linked to Jihadism is claimed and justified in the name of a rigorous Islam by those who commit these mass massacres.
@@ -40,7 +64,7 @@ Among the beginnings of what the future could be, let us also note that the Al A
 
 > The strength of Islam has been its clear-cut and well-defined presentation of Allah as the one and only Deity; its weakness, the association of military force with its promulgation, together with its degradation of woman. But it has steadfastly held to its presentation of the One Universal Deity of all, “who knows the invisible and the visible. He is the merciful and the compassionate.” “Truly God is plenteous in goodness to all men.” “And when I am sick, it is he who heals me.” “For whenever as many as three speak together, God is present as a fourth,” for is he not “the first and the last, also the seen and the hidden”?
 > 
-> The strength of Islam has been its clear-cut and well-defined presentation of Allah as the one and only Deity; its weakness, the association of military force with its promulgation, together with its degradation of woman. But it has steadfastly held to its presentation of the One Universal Deity of all, “who knows the invisible and the visible. He is the merciful and the compassionate.” “Truly God is plenteous in goodness to all men.” “And when I am sick, it is he who heals me.” “For whenever as many as three speak together, God is present as a fourth,” for is he not “the first and the last, also the seen and the hidden”? ([UB 95:7.6](/en/The_Urantia_Book/95#p7_6))
+> The strength of Islam has been its clear-cut and well-defined presentation of Allah as the one and only Deity; its weakness, the association of military force with its promulgation, together with its degradation of woman. But it has steadfastly held to its presentation of the One Universal Deity of all, “who knows the invisible and the visible. He is the merciful and the compassionate.” “Truly God is plenteous in goodness to all men.” “And when I am sick, it is he who heals me.” “For whenever as many as three speak together, God is present as a fourth,” for is he not “the first and the last, also the seen and the hidden”? (<a id="a66_633"></a>[UB 95:7.6](/en/The_Urantia_Book/95#p7_6))
 
 Finally, let us note the rejection of violence and especially of the jihadist ideology which is losing all sympathy in almost the entire Muslim world, which was not the case just a few years ago. We are certain that the Islam of tomorrow will be different from what it is today, as the world of tomorrow will be different from that of today.
 
@@ -66,3 +90,28 @@ Since then, through my numerous opportunities to travel abroad in a professional
 
 Married and the father of two boys and a girl, all of whom were raised both in the religious tradition of their country and in the openness to the global village that Urantia has become, I try to find this meaning once sought in vain in books, in a living relationship with the Father through all the opportunities of family, social or international life that he will have brought about as Adjuster in my mind or as Supreme God in my destiny.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Brief Reflections on Time</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Simon Orsini<br>© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Foundation Communicates: The Future of Urantia: Elements for Reflection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simon Orsini (Corsica)
@@ -62,3 +83,25 @@ Any religion that thinks it is supreme should take as its example the life of Je
 <figcaption>Calligraphy by Sophie Malicot</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Fondation_Communique_L_avenir_d_Urantia_Elements_De_ReFlexion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Foundation Communicates: The Future of Urantia: Elements for Reflection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

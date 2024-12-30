@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Simon Orsini<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="pr-2">UBIS The Framework of Study — Pedagogy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The binding belief has been overtaken by a higher consciousness of destiny, it is liberated by faith. Faith is the test pilot of the mind, because it allows each individual to have a direct connection with our creator.
@@ -19,7 +43,7 @@ It is important to advance the potential in a positive way, giving the negative 
 
 All reflection must be motivated by a collective sense of values, there is nothing easy in the struggle for life, it is the failures of each individual, and the progress of which makes us progress, which reflect the guiding line on which we orient ourselves.
 
-> THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all. ([UB 100:0.1](/en/The_Urantia_Book/100#p0_1))
+> THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all. (<a id="a45_284"></a>[UB 100:0.1](/en/The_Urantia_Book/100#p0_1))
 
 Contact between humans is sometimes difficult, so we must leave it to those who are most gifted to lead human nature towards a higher harmony.
 
@@ -45,3 +69,28 @@ Let us be careful not to forget the great river of truths that has flowed down t
 
 Simon Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="pr-2">UBIS The Framework of Study — Pedagogy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

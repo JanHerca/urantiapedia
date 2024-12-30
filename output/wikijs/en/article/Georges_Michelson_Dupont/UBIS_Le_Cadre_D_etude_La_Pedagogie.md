@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Georges Michelson-Dupont<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Part Advances the Whole</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Planetary Overpopulation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 This presentation focuses on the importance of studying The Urantia Book with others in a stimulating setting, with a dynamic and progressive method. Taking seriously the fact that we are exposed to the teachings of The Urantia Book, gives us the immense opportunity to become a better person by developing our cosmic consciousness and improving our spiritual perception, that is to say, to better understand and live the will of the Heavenly Father.
@@ -16,11 +40,11 @@ This presentation focuses on the importance of studying The Urantia Book with ot
 The words of Jesus resonate in our hearts:
 
 > ““The new kingdom which my Father is about to set up in the hearts of his earth children is to be an everlasting dominion. There shall be no end of this rule of my Father in the hearts of those who desire to do his divine will. I declare to you that my Father is not the God of Jew or gentile. Many shall come from the east and from the west to sit down with us in the Father’s kingdom, while many of the children of Abraham will refuse to enter this new brotherhood of the rule of the Father’s spirit in the hearts of the children of men.”
-> ““The power of this kingdom shall consist, not in the strength of armies nor in the might of riches, but rather in the glory of the divine spirit that shall come to teach the minds and rule the hearts of the reborn citizens of this heavenly kingdom, the sons of God. This is the brotherhood of love wherein righteousness reigns, and whose battle cry shall be: Peace on earth and good will to all men. This kingdom, which you are so soon to go forth proclaiming, is the desire of the good men of all ages, the hope of all the earth, and the fulfillment of the wise promises of all the prophets.” ([UB 140:1.2-3](/en/The_Urantia_Book/140#p1_2))
+> ““The power of this kingdom shall consist, not in the strength of armies nor in the might of riches, but rather in the glory of the divine spirit that shall come to teach the minds and rule the hearts of the reborn citizens of this heavenly kingdom, the sons of God. This is the brotherhood of love wherein righteousness reigns, and whose battle cry shall be: Peace on earth and good will to all men. This kingdom, which you are so soon to go forth proclaiming, is the desire of the good men of all ages, the hope of all the earth, and the fulfillment of the wise promises of all the prophets.” (<a id="a42_598"></a>[UB 140:1.2-3](/en/The_Urantia_Book/140#p1_2))
 
 Jesus invites us to take our place in this kingdom:
 
-> ““Whosoever would become great in my Father’s kingdom shall become a minister to all; and whosoever would be first among you, let him become the server of his brethren. But when you are once truly received as citizens in the heavenly kingdom, you are no longer servants but sons, sons of the living God. And so shall this kingdom progress in the world until it shall break down every barrier and bring all men to know my Father and believe in the saving truth which I have come to declare. Even now is the kingdom at hand, and some of you will not die until you have seen the reign of God come in great power.” ([UB 140:1.6](/en/The_Urantia_Book/140#p1_6))
+> ““Whosoever would become great in my Father’s kingdom shall become a minister to all; and whosoever would be first among you, let him become the server of his brethren. But when you are once truly received as citizens in the heavenly kingdom, you are no longer servants but sons, sons of the living God. And so shall this kingdom progress in the world until it shall break down every barrier and bring all men to know my Father and believe in the saving truth which I have come to declare. Even now is the kingdom at hand, and some of you will not die until you have seen the reign of God come in great power.” (<a id="a46_614"></a>[UB 140:1.6](/en/The_Urantia_Book/140#p1_6))
 
 - STUDY the teachings of _The Urantia Book_ at your own pace, in a progressive and methodical manner in an environment without space-time constraints.
 - EXPAND your cosmic consciousness by studying booklets or given themes.
@@ -102,11 +126,11 @@ The quality of the course requires that the instructor-teacher has a good comman
 
 Aware of the particularity of this pedagogy, the school has developed specific training aimed at giving the instructor a methodology for reflection and a development plan based on the search for facts, the discernment of meanings and the discovery of values.
 
-***The search for facts***: We call a “fact” anything that is a current reality in the cosmos, whether material, intellectual or spiritual. The instructor must identify the facts that the revelators expose and which emerge from reading the paragraphs. This phase of the analysis is essential because it is what will provide the content of the questions to ask according to the level of the course that the instructor wishes to offer and the meanings that he wishes to bring out. The Urantia Book classifies the facts into 5 categories (See [UB 101:4.6](/en/The_Urantia_Book/101#p4_6) ).
+***The search for facts***: We call a “fact” anything that is a current reality in the cosmos, whether material, intellectual or spiritual. The instructor must identify the facts that the revelators expose and which emerge from reading the paragraphs. This phase of the analysis is essential because it is what will provide the content of the questions to ask according to the level of the course that the instructor wishes to offer and the meanings that he wishes to bring out. The Urantia Book classifies the facts into 5 categories (See <a id="a128_540"></a>[UB 101:4.6](/en/The_Urantia_Book/101#p4_6) ).
 
 ***Searching for questions***: They must be relevant to the desired goal, in direct relation to the guided readings and lead the participant into a dynamic of research in the text which must lead him to reflect on the meaning of the facts in relation to his inner life.
 
-***Discernment of meanings***: Let us remember that “meaning is something that experience adds to value, it is the appreciative awareness of values” ([UB 100:3.4](/en/The_Urantia_Book/100#p3_4)). It is therefore unique for each person. Discernment of meanings, that is to say the qualitative evaluation of experiences is the basis of spiritual progress, it is founded on the intellectual recognition of spiritual poverty, coupled with personal awareness of the thirst for perfection, the desire to know God and to be like him, the sincere intention to do the will of the Father who is in heaven. ([UB 100:2.1](/en/The_Urantia_Book/100#p2_1)). Reading, questioning and answering must provide the participant with an increase in his capacity to discriminate the value of true meanings and allow the process of devolution-revelation to take place, the discovery by oneself of true values.
+***Discernment of meanings***: Let us remember that “meaning is something that experience adds to value, it is the appreciative awareness of values” (<a id="a132_150"></a>[UB 100:3.4](/en/The_Urantia_Book/100#p3_4)). It is therefore unique for each person. Discernment of meanings, that is to say the qualitative evaluation of experiences is the basis of spiritual progress, it is founded on the intellectual recognition of spiritual poverty, coupled with personal awareness of the thirst for perfection, the desire to know God and to be like him, the sincere intention to do the will of the Father who is in heaven. (<a id="a132_597"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1)). Reading, questioning and answering must provide the participant with an increase in his capacity to discriminate the value of true meanings and allow the process of devolution-revelation to take place, the discovery by oneself of true values.
 
 ## IN CONCUBSION.
 
@@ -116,13 +140,13 @@ I would like to end this presentation by listing some of the benefits that both 
 
 By providing an opportunity to discover new facts that illuminate the spiritual teachings of revelation in a structured setting, the instructor-facilitator engages the participant in a dynamic inquiry of personal discovery. This process brings out higher spiritual meanings and prompts the human will to make the adjustments accordingly and the intellect to make the transformations necessary to be inspired by the Spirit of Truth and allow the Thought Adjuster to spiritualize the mind.
 
-***For instructors***: first there is the joy of serving and being useful to others. “Spirituality immediately indicates your closeness to God and the extent of your usefulness to your companions.” ([UB 100:2.4](/en/The_Urantia_Book/100#p2_4)). Then, the process of preparing a course trains the mind to synthesize data in a logical approach and to present it in a coherent and progressive manner. UBIS trains people to become teachers. Finally, the structured operation of the school invites the various participants who are all volunteers, let us remember here, to work in a harmonious atmosphere of sincere fraternity conducive to the training of teamwork.
+***For instructors***: first there is the joy of serving and being useful to others. “Spirituality immediately indicates your closeness to God and the extent of your usefulness to your companions.” (<a id="a142_199"></a>[UB 100:2.4](/en/The_Urantia_Book/100#p2_4)). Then, the process of preparing a course trains the mind to synthesize data in a logical approach and to present it in a coherent and progressive manner. UBIS trains people to become teachers. Finally, the structured operation of the school invites the various participants who are all volunteers, let us remember here, to work in a harmonious atmosphere of sincere fraternity conducive to the training of teamwork.
 
 I therefore invite you all to experience taking a course. You will find the course schedule and all the information necessary to register on the Foundation website urantia.org.
 
 Finally, and to conclude, I would like to thank on behalf of the Trustees, Associate Trustees as well as the staff of the Urantia Foundation all the people who organized this magnificent meeting and allowed me to present the UBIS school to you. I would also like to greet all the participants, some of whom come from very far away. This meeting, here in Budapest, consolidates a little more the universality of the teachings of the revelation and their diffusion.
 
-> “_Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.”_” ([UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> “_Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.”_” (<a id="a148_722"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 Georges Michelson-Dupont
 Director of the UBIS school
@@ -137,3 +161,28 @@ Director of the UBIS school
 > ubis.urantia.org
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Part Advances the Whole</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="pr-2">Planetary Overpopulation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Simon Orsini<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means To Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Reprinting The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Simon Orsini.
@@ -73,3 +97,28 @@ If we consider that the speed of certain electrons around the nucleus of the ato
 
 Electrons can be controlled as negative or positive, but at certain times we must also say that it is the position that determines the positive or the negative, as the circuit of the proton and the neutron proves to us. The fact is that in the case of superposition of two particles we can no longer know where the positive or the negative is. If the first electron is positive, the second is negative, but this is only a hypothesis. The orderly and sure association of various energies constitutes matter. Civilizations arise and disappear, but science, morality, religion always survive the collapse.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Heulot/Ce_que_LU_signifie_pour_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means To Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reimpression_Du_Livre_DUrantia">
+          <span class="pr-2">Reprinting The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

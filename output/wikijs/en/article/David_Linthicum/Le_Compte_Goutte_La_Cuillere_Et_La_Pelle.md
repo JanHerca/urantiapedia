@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 David Linthicum<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Sensitive to the Personality Circuit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="pr-2">The International Meeting in Amsterdam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _David Linthicum_
@@ -25,7 +49,7 @@ The teachings of Jesus changed the world. His teachings eventually led to the cr
 
 Jesus was able to change Moses' perception of God from an angry and vengeful God to a God of Love, a loving Father who adores His earthly children. Jesus taught us about the Kingdom of Heaven and the Brotherhood of Man, that men and women are “saved” by their faith alone.
 
-> _Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail._ ([[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> _Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail._ (<a id="a51_141"></a>[[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 These simple messages of love, faith, and family served to change people's perceptions of God and their relationship with Him. God became a kinder, more understanding, and compassionate person to our earthly struggles.
 
@@ -128,3 +152,28 @@ In your travels, remember to bring the dropper and spoon, and leave the shovel a
 
 Thank you and God bless you all...
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Sensitive to the Personality Circuit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="pr-2">The International Meeting in Amsterdam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

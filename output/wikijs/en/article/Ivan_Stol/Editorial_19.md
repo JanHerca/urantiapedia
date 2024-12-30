@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Ivan Stol<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/090">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="pr-2">Human Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear fraternity of readers, each crisis brings new experiences, and if they are global, their results are even more profound. Faced with the difficulties they bring, we must evaluate failures, errors and priorities. Some people are in disarray because, having no ideal, do not really understand the situation and are lost and helpless. Others try to take advantage of the situation to obtain more privileges. The wisest will use their discernment to improve their perceptions and their cosmic consciousness.
@@ -19,3 +43,28 @@ Has Man remained cloistered in fear and ignorance? Has he tried to understand th
 
 Friendships — Ivan.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/090">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="pr-2">Human Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

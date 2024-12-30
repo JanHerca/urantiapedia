@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Jean Annet<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Little Beatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 7 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Last July, Isabelle and I went to the Leadership Symposium in Chicago. In addition to the Symposium itself, there was a 'before' and an 'after' that I would not like to pass over in silence, as they were so rich and fruitful.
@@ -29,3 +53,28 @@ I believe that this first Symposium will be a milestone in the history of the IU
 
 Jean Annet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joseph_Folliet/Les_petites_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Little Beatitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_07_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 7 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Georges Michelson-Dupont<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Ullman/Etre_Jeune">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Young</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="pr-2">My life in Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Many beginning readers wonder about the origin and the manner in which The Urantia Book arrived on our planet. These questions are legitimate and many documents have been published on the subject. Some of these writings cast doubt on the superhuman nature of the booklets as well as the facts and truths contained therein. However, it remains true that the reader must evaluate for himself and form a personal opinion of the contribution and repercussions that these teachings bring to his personal life.
@@ -33,3 +57,28 @@ E.L. Christensen, secretary.
 
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Ullman/Etre_Jeune">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Young</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="pr-2">My life in Paradise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

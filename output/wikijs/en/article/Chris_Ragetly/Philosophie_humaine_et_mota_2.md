@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Guest: The Extraterrestrial Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">The Osteoclast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (following)
@@ -33,7 +57,7 @@ Whether on the material, intellectual or spiritual level, we can indeed discern 
 
 21\. ***The high mission of an art is to prefigure through its illusions a superior reality of the universe, to crystallize the emotions of time into a thought of eternity.***
 
-The arts as we conceive them, that is to say music, literature, painting, sculpture, dance, etc. awaken our emotions to varying degrees, depending on whether we are more sensitive to one art than to another. But this higher reality of the universe (which can be the morontia reality through music) that we sometimes reach through an art lets us foresee a universal language. _Beauty is the godmother of art, music and the significant rhythms of all human experience._ ([UB 56:10.10](/en/The_Urantia_Book/56#p10_10)) Art in its broadest sense can only be beauty, it is what awaits us across all the universes of time and eternity.
+The arts as we conceive them, that is to say music, literature, painting, sculpture, dance, etc. awaken our emotions to varying degrees, depending on whether we are more sensitive to one art than to another. But this higher reality of the universe (which can be the morontia reality through music) that we sometimes reach through an art lets us foresee a universal language. _Beauty is the godmother of art, music and the significant rhythms of all human experience._ (<a id="a59_469"></a>[UB 56:10.10](/en/The_Urantia_Book/56#p10_10)) Art in its broadest sense can only be beauty, it is what awaits us across all the universes of time and eternity.
 
 22\. ***An evolving soul is not made divine by what it does, but by what it strives to do.***
 
@@ -69,3 +93,28 @@ _On the SQUARECIRCLES.COM website, you can find an essay by Matthew Block entitl
 
 CMR
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Guest: The Extraterrestrial Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">The Osteoclast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

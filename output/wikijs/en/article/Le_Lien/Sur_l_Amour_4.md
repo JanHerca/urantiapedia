@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Amour_encore_et_toujours">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love, again and again</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_16_Les_questions">
+          <span class="pr-2">Quiz Maxien n°16 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Immediately, the effect of universal love, made possible by Omega, is to underlie each of our actions a fundamental identity of passionate interest and giving. What will be the influence of this common ground (one could say: of this new climate) on our inner life? Will it dissolve us in its gentle warmth? Blunt the clarity of future objectives in an atmosphere of mirage? Distract us from the tangible individual to absorb us in a confused sense of the Universal?... — To fear it, one would have to forget once again that, in the direction of the spirit, union differentiates. It is true, no doubt, that if I have discovered Omega, all things become in some way the same thing to me; so that, whatever I do, I can have the impression of doing the same thing. But this fundamental unity has nothing in common with a dissolution in the homogeneous. In the first place, it accentuates, far from weakening it, the relief of the elements that it brings together: because Omega, the only one desired, is formed before our eyes and offered to our contact, only in the perfection of the elementary progress by which Evolution is experimentally woven. — But there is more. Love does not only impregnate the Universe like an oil that revives its colors. It does not simply connect in a common transparency the opaque dust of our experiences. It is a true synthesis that it operates on the grouped bundle of our faculties. And this is ultimately the point that it is important to understand well.
@@ -65,3 +89,28 @@ If so, some traces of this prodigious transformation must be perceptible in Hist
 
 Teilhard de Chardin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Amour_encore_et_toujours">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love, again and again</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_16_Les_questions">
+          <span class="pr-2">Quiz Maxien n°16 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

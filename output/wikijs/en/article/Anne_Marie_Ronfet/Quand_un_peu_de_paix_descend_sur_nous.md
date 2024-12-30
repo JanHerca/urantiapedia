@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Anne-Marie Ronfet<br>© 1996 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Adjuster according to C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-1-summer-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 1 — Summer 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia on the Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “Love your neighbor as yourself.”
@@ -31,3 +55,28 @@ So when we finally understand that peace is offered to us both as a soothing hav
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Dupont/LAjusteur_selon_C_G_Jung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Adjuster according to C.G. Jung</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-1-summer-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 1 — Summer 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Urantia_sur_Internet">
+          <span class="pr-2">Urantia on the Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Pastor Louis Pernot<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne’mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-50-spring-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 50 — Spring 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 1 Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The first question is what to do with it. Is it a prayer to recite, to repeat regularly like a fixed text? Nothing is less certain, and in any case it is not a question of saying the Our Father as a recitation. In the Gospel of Matthew, Christ rightly condemns the pagans and their vain repetitions. Mechanically repeating a text, even the most beautiful, is not praying. [...]
@@ -81,3 +105,28 @@ Here again, the risk of a passive interpretation is present. We can indeed see i
 
 Pastor Louis Pernot
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Leili_Anvar/Malek_Jan_Nemati">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Malek Jân Ne’mati</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-50-spring-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 50 — Spring 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 1 Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Agnès Lazar<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxi Quiz #6 Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">The Blue Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Since I began reading The Urantia Book, a text has strangely caught my attention: Material Handicaps in the Adjusters' Abode. I became intellectually aware of what could slow down my spiritual progression and wanted to find a way to enter into the experience of the gradual liberation of my mental space, offering my Adjuster more freedom of action. That he be the Pilot of my ship was a necessity in my life. It is said that facts educate man. I therefore analyzed those which have marked my existence.
@@ -29,3 +53,28 @@ I ask God daily to clearly show me my gifts and how I can use them to serve Him 
 
 Agnes Lazar
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_06_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxi Quiz #6 Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Le_Livre_Bleu">
+          <span class="pr-2">The Blue Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

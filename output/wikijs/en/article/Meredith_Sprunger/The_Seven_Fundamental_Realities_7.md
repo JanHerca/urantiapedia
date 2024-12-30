@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Meredith J. Sprunger<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_14_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxian Quiz No. 14 The Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="pr-2">Pontius Pilate (Part 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Critical tests of truth
@@ -37,3 +61,28 @@ Ordinary tests of truth lack validity. Scientific, philosophical criticism and r
 
 Meredith J. Sprunger
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_14_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxian Quiz No. 14 The Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Ponce_Pilate_2eme_volet">
+          <span class="pr-2">Pontius Pilate (Part 2)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

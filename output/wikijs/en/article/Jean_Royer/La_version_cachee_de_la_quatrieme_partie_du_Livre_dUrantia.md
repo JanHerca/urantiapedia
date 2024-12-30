@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Jean Royer<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Material Time — Morontia Time — Spiritual Time - “The Importance of Time According to The Urantia Book” (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-27-autumn-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 27 — Autumn 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Reincarnation, Truth or Superstition?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Is there a version of The Urantia Book that we don't know about? A number of points lead us to believe that there is.
@@ -38,3 +62,28 @@ But for those of us who are a little curious, it's high time to get into these l
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Le_temps_materiel_morontiel_spirituel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Material Time — Morontia Time — Spiritual Time - “The Importance of Time According to The Urantia Book” (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-27-autumn-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 27 — Autumn 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Reincarnation_verite_ou_superstition">
+          <span class="pr-2">Reincarnation, Truth or Superstition?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Ivan Stol<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/084">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="pr-2">She Trembles on the Edge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 My very dear sisters, my very dear brothers
@@ -29,3 +53,28 @@ There is work awaiting us, in all areas, and even constructive criticism is a so
 
 On that note, I wish you a good read. Ivan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/084">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="pr-2">She Trembles on the Edge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

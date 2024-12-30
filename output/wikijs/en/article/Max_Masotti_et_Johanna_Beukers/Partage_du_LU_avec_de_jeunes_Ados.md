@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Max Masotti and Johanna Beukers<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From matter to Spirit via the mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Forme_et_resurrection">
+          <span class="pr-2">Form and Resurrection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I have been a reader of The Urantia Book for about 7 years. Having had the great fortune to lead a study group of the book at my home for 5 years, I had to give it up following a move. This has in no way diminished my enthusiasm for the study or the application in life of the teachings of this masterful revelation.
@@ -29,3 +53,28 @@ We wish other readers of the L U to one day taste the joy of accompanying young 
 
 Max Masotti and Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/De_la_matiere_a_lEsprit_en_passant_par_le_mental">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From matter to Spirit via the mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Forme_et_resurrection">
+          <span class="pr-2">Form and Resurrection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

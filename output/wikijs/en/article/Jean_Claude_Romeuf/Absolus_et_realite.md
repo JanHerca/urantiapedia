@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jean-Claude Romeuf<br>© 1998 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is What Happens After Death?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-8-winter-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 One of the great intellectual tragedies of the human adventure is not knowing which came first, the chicken or the egg. This is the question we will try to answer. To do this, several paths of thought are possible and although they may seem in opposition, they are not contradictory.
@@ -19,7 +40,7 @@ In order not to lose the thread of the demonstration, we must always keep in min
 
 **<ins>Paragraph in which the chicken comes first</ins>**
 
-Pages 6 and 7 of the _Urantia Book_ suggest that Reality is actualized from the three Absolutes. These latter are by definition issued from the combined thought of the trinitarian Deities ([UB 0:11.1](/en/The_Urantia_Book/0#p11_1)) and are the potential of Reality. They are in a way the absolute Pre-reality.
+Pages 6 and 7 of the _Urantia Book_ suggest that Reality is actualized from the three Absolutes. These latter are by definition issued from the combined thought of the trinitarian Deities (<a id="a42_189"></a>[UB 0:11.1](/en/The_Urantia_Book/0#p11_1)) and are the potential of Reality. They are in a way the absolute Pre-reality.
 
 1º The Unqualified Absolute will bring into existence the _undeified reality_ which one could also call non-personalizable reality. Never and nowhere in the master universe will personality and deity be the fruit of the Unqualified Absolute. The latter only concerns itself with what will become substance or form.
 
@@ -65,3 +86,25 @@ The Great First Cause is loved and respected throughout the vast creation as the
 
 At the end of these intellectual wanderings, everyone can now have an idea about the first appearance of the egg or the chicken. As for me, my opinion has long been made up. Having always had a much more pronounced emotional preference for chickens than for eggs, I prefer to believe that it was the chicken that first made the egg and not the other way around.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is What Happens After Death?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-8-winter-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Max Masotti and Johanna Beukers<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing on spiritual teachings and leaders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 After a short interruption in the regularity of our autumn meeting in Burgundy, we were happy to return, from November 10 to 12, 2006, to the small village of Armeau, nestled in one of the loops of the Yonne.
@@ -61,3 +82,25 @@ Following the midday lunch, preparations for departure saw warm goodbyes and var
 
 Max Masotti and Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sharing on spiritual teachings and leaders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

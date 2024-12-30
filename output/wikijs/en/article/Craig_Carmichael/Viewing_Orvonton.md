@@ -42,13 +42,13 @@ Looking southward from Cassiopeia and into Cygnus and beyond, nearby major secto
 <img src="/image/article/Craig_Carmichael/MilkeWae-3b.jpg">
 </figure>
 
-I’ve circled what I tentatively identify as major sectors, but the two circles shown on the lower right are probably both part of our own major sector, Splandon. Although I can’t make out the constellations, they and the thin curving line of features seeming to extend into the center of the main ellipse may be parts of the “two stupendous stellar coils” [UB 15:3.5](/en/The_Urantia_Book/15#p3_5) of our minor sector in constellation Sagittarius.
+I’ve circled what I tentatively identify as major sectors, but the two circles shown on the lower right are probably both part of our own major sector, Splandon. Although I can’t make out the constellations, they and the thin curving line of features seeming to extend into the center of the main ellipse may be parts of the “two stupendous stellar coils” <a id="a44_356"></a>[UB 15:3.5](/en/The_Urantia_Book/15#p3_5) of our minor sector in constellation Sagittarius.
 
 I make no claim that I have it all figured out, but as a general outline it seems to match the UB description of Orvonton much better than anything I’ve seen so far.
 
 
 ## References
 
-[^1]: “… form a watchlike, elongated circular grouping of about one seventh of the inhabited evolutionary universes.” “...the breadth being far greater than the thickness and the length far greater than the breadth.” “The number of stars and other bodies decreases away from the chief plane of our material superuniverse.” [UB 15:3.1-3](/en/The_Urantia_Book/15#p3_1)
+[^1]: “… form a watchlike, elongated circular grouping of about one seventh of the inhabited evolutionary universes.” “...the breadth being far greater than the thickness and the length far greater than the breadth.” “The number of stars and other bodies decreases away from the chief plane of our material superuniverse.” <a id="a51_323"></a>[UB 15:3.1-3](/en/The_Urantia_Book/15#p3_1)
 
-[^2]: “Of the ten major divisions of Orvonton, eight have been roughly identified by Urantian astronomers.” [UB 15:3.4](/en/The_Urantia_Book/15#p3_4)
+[^2]: “Of the ten major divisions of Orvonton, eight have been roughly identified by Urantian astronomers.” <a id="a53_108"></a>[UB 15:3.4](/en/The_Urantia_Book/15#p3_4)

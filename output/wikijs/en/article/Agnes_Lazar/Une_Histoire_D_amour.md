@@ -9,11 +9,35 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Agnès Lazar<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Time, Energy and Matter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">The World Cultural Symposium</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Agnès Lazar-Belgium
 
-> “I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation. But you should not overlook the fact that even divine love has its severe disciplines. A father’s love for his son oftentimes impels the father to restrain the unwise acts of his thoughtless offspring. The child does not always comprehend the wise and loving motives of the father’s restraining discipline. But I declare to you that my Father in Paradise does rule a universe of universes by the compelling power of his love. Love is the greatest of all spirit realities. Truth is a liberating revelation, but love is the supreme relationship. And no matter what blunders your fellow men make in their world management of today, in an age to come the gospel which I declare to you will rule this very world. The ultimate goal of human progress is the reverent recognition of the fatherhood of God and the loving materialization of the brotherhood of man. ([UB 143:1.4](/en/The_Urantia_Book/143#p1_4))
+> “I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation. But you should not overlook the fact that even divine love has its severe disciplines. A father’s love for his son oftentimes impels the father to restrain the unwise acts of his thoughtless offspring. The child does not always comprehend the wise and loving motives of the father’s restraining discipline. But I declare to you that my Father in Paradise does rule a universe of universes by the compelling power of his love. Love is the greatest of all spirit realities. Truth is a liberating revelation, but love is the supreme relationship. And no matter what blunders your fellow men make in their world management of today, in an age to come the gospel which I declare to you will rule this very world. The ultimate goal of human progress is the reverent recognition of the fatherhood of God and the loving materialization of the brotherhood of man. (<a id="a39_1139"></a>[UB 143:1.4](/en/The_Urantia_Book/143#p1_4))
 
 Drawing on the prayer of Saint Francis, completely dedicated to service, as well as on passages from the Urantia Book, I will bear witness to a most extraordinary experience (the extra being God: the act is man's, the consequences are God's) that Our Father offered me to live with Him, Guy Perron and Aurore Hennebert, as well as a group of Senegalese and Canadians who accompany, in prayer, this extraordinary service, in a place deserted by love: prison.
 
@@ -40,7 +64,7 @@ Where there is sadness, let me bring joy.
 
 The “where” has its peak, in the “oubliettes” of the Leuze prison. By listening to the divine Monitor in us, by following his guidance, God brings us where He is not yet to put there Who He is: love, forgiveness, union, truth, faith, hope, light and joy!
 
-All true love comes from God, and man receives divine affection to the extent that he himself bestows that love upon his fellows. The Father's love can only become real to mortal man through his personality, as he in turn bestows that love upon his fellows. ([UB 117:6.10](/en/The_Urantia_Book/117#p6_10))
+All true love comes from God, and man receives divine affection to the extent that he himself bestows that love upon his fellows. The Father's love can only become real to mortal man through his personality, as he in turn bestows that love upon his fellows. (<a id="a66_259"></a>[UB 117:6.10](/en/The_Urantia_Book/117#p6_10))
 
 <p style="text-align:center;">
 O Lord, let me not seek so much
@@ -70,7 +94,7 @@ The prison world is a place where lives an energy heavy with violence and self-v
 
 Yet it is in this place, in this concentration of darkness that all three of us were touched by the grace of God, deeply tasting His Love for these left behind people.
 
-> ““While you cannot observe the divine spirit at work in your minds, there is a practical method of discovering the degree to which you have yielded the control of your soul powers to the teaching and guidance of this indwelling spirit of the heavenly Father, and that is the degree of your love for your fellow men. This spirit of the Father partakes of the love of the Father, and as it dominates man, it unfailingly leads in the directions of divine worship and loving regard for one’s fellows. At first you believe that you are sons of God because my teaching has made you more conscious of the inner leadings of our Father’s indwelling presence; but presently the Spirit of Truth shall be poured out upon all flesh, and it will live among men and teach all men, even as I now live among you and speak to you the words of truth. And this Spirit of Truth, speaking for the spiritual endowments of your souls, will help you to know that you are the sons of God. It will unfailingly bear witness with the Father’s indwelling presence, your spirit, then dwelling in all men as it now dwells in some, telling you that you are in reality the sons of God.” ([UB 146:3.6](/en/The_Urantia_Book/146#p3_6))
+> ““While you cannot observe the divine spirit at work in your minds, there is a practical method of discovering the degree to which you have yielded the control of your soul powers to the teaching and guidance of this indwelling spirit of the heavenly Father, and that is the degree of your love for your fellow men. This spirit of the Father partakes of the love of the Father, and as it dominates man, it unfailingly leads in the directions of divine worship and loving regard for one’s fellows. At first you believe that you are sons of God because my teaching has made you more conscious of the inner leadings of our Father’s indwelling presence; but presently the Spirit of Truth shall be poured out upon all flesh, and it will live among men and teach all men, even as I now live among you and speak to you the words of truth. And this Spirit of Truth, speaking for the spiritual endowments of your souls, will help you to know that you are the sons of God. It will unfailingly bear witness with the Father’s indwelling presence, your spirit, then dwelling in all men as it now dwells in some, telling you that you are in reality the sons of God.” (<a id="a96_1156"></a>[UB 146:3.6](/en/The_Urantia_Book/146#p3_6))
 
 ## The switch
 
@@ -83,3 +107,28 @@ We are constantly faced with novelty. We welcome their moods. Nothing can be pro
 <figcaption>Agnès, Aurore and Guy run discussion and support groups twice a week with volunteer prisoners. <em>Here is a prisoner's testimony.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Le_Temps_l_Energie_et_la_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Time, Energy and Matter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/Le_Symposium_Culturel_Mondial">
+          <span class="pr-2">The World Cultural Symposium</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

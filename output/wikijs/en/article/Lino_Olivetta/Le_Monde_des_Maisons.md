@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Lino Olivetta<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are we ambassadors?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_04_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 4 The Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **1st World: dent removal and mota**
@@ -47,3 +71,28 @@ This is the crowning achievement of the career that immediately follows death. T
 
 Lino Olivetta
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are we ambassadors?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_04_Les_questions">
+          <span class="pr-2">Maxi Quiz No. 4 The Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

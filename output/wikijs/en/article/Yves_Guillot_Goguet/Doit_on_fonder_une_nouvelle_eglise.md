@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Yves Guillot-Goguet<br>© 2002 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Glimpse of the General Organization of the Master Universe and Theory of Totality by the Researchers of Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-21-spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 21 — Spring 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The June 2001 issue of the “Journal of the IUA” particularly pleased me for the balanced and tolerant position of Andrés Rodriguez “The virginity of Mary”; the point of view is well argued and avoids any excess in one direction or another. But it is above all the article by Seppo Kanerva "Regarding religion, should we found a new church? which leads me to write to you.
@@ -31,11 +55,11 @@ We can particularly cite [Luke 17, 21](/en/Bible/Luke/17#v21): “The kingdom of
 
 What struck me when reading The Urantia Book is that, to my knowledge, Jesus did not use the term “church”; on the other hand, the kingdom comes up in almost every one of his speeches.
 
-For me, one of the best descriptions of what the kingdom is is during his speech in the synagogue of Capernaum at the very beginning of his ministry ([UB 137:8.13](/en/The_Urantia_Book/137#p8_13)).
+For me, one of the best descriptions of what the kingdom is is during his speech in the synagogue of Capernaum at the very beginning of his ministry (<a id="a57_150"></a>[UB 137:8.13](/en/The_Urantia_Book/137#p8_13)).
 
 It is indisputable that the kingdom has only one meaning and it is spiritual:
 
-> ““Be not deceived by those who come saying here is the kingdom or there is the kingdom, for my Father’s kingdom concerns not things visible and material. And this kingdom is even now among you, for where the spirit of God teaches and leads the soul of man, there in reality is the kingdom of heaven. And this kingdom of God is righteousness, peace, and joy in the Holy Spirit.” ([UB 137:8.9](/en/The_Urantia_Book/137#p8_9))
+> ““Be not deceived by those who come saying here is the kingdom or there is the kingdom, for my Father’s kingdom concerns not things visible and material. And this kingdom is even now among you, for where the spirit of God teaches and leads the soul of man, there in reality is the kingdom of heaven. And this kingdom of God is righteousness, peace, and joy in the Holy Spirit.” (<a id="a61_381"></a>[UB 137:8.9](/en/The_Urantia_Book/137#p8_9))
 
 It does not seem at all that Jesus wanted to create a Church, in the same way as the already existing established religions.
 
@@ -47,7 +71,7 @@ The stay in Rome is quite significant:
 
 He never once addressed their errors and never even mentioned the flaws in their teachings.
 
-In each case he selected the portion of truth in their lessons, and then proceeded to embellish and illuminate that truth in their minds in such a way that in a very short time this enhancement of truth effectually drove out the previous error." ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
+In each case he selected the portion of truth in their lessons, and then proceeded to embellish and illuminate that truth in their minds in such a way that in a very short time this enhancement of truth effectually drove out the previous error." (<a id="a73_247"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
 It seems to me that what was valid two thousand years ago is just as valid today.
 
@@ -57,7 +81,7 @@ Would Jesus shake everything up by establishing a new religion, a Church built a
 
 The most important aspect that can be taken from the teachings of Jesus is that religion must go beyond the dogmatic side to become deeply embedded in the daily reality of life:
 
-> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religious teachings of Jesus, the author and finisher of our faith. You may *preach* a religion *about* Jesus, but, perforce, you must *live* the religion *of* Jesus. In the enthusiasm of Pentecost, Peter unintentionally inaugurated a new religion, the religion of the risen and glorified Christ. The Apostle Paul later on transformed this new gospel into Christianity, a religion embodying his own theologic views and portraying his own *personal experience* with the Jesus of the Damascus road. The gospel of the kingdom is founded on the personal religious experience of the Jesus of Galilee; Christianity is founded almost exclusively on the personal religious experience of the Apostle Paul. Almost the whole of the New Testament is devoted, not to the portrayal of the significant and inspiring religious life of Jesus, but to a discussion of Paul’s religious experience and to a portrayal of his personal religious convictions. The only notable exceptions to this statement, aside from certain parts of Matthew, Mark, and Luke, are the Book of Hebrews and the Epistle of James. Even Peter, in his writing, only once reverted to the personal religious life of his Master. The New Testament is a superb Christian document, but it is only meagerly Jesusonian.” ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> “Some day a reformation in the Christian church may strike deep enough to get back to the unadulterated religious teachings of Jesus, the author and finisher of our faith. You may *preach* a religion *about* Jesus, but, perforce, you must *live* the religion *of* Jesus. In the enthusiasm of Pentecost, Peter unintentionally inaugurated a new religion, the religion of the risen and glorified Christ. The Apostle Paul later on transformed this new gospel into Christianity, a religion embodying his own theologic views and portraying his own *personal experience* with the Jesus of the Damascus road. The gospel of the kingdom is founded on the personal religious experience of the Jesus of Galilee; Christianity is founded almost exclusively on the personal religious experience of the Apostle Paul. Almost the whole of the New Testament is devoted, not to the portrayal of the significant and inspiring religious life of Jesus, but to a discussion of Paul’s religious experience and to a portrayal of his personal religious convictions. The only notable exceptions to this statement, aside from certain parts of Matthew, Mark, and Luke, are the Book of Hebrews and the Epistle of James. Even Peter, in his writing, only once reverted to the personal religious life of his Master. The New Testament is a superb Christian document, but it is only meagerly Jesusonian.” (<a id="a83_1372"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
 
 I also really liked certain passages from works of great spiritual significance showing that religion must above all be lived:
 
@@ -100,5 +124,30 @@ that if it seeks to impose itself through the appearance of a new spiritual move
 
 Yves Guillot Goguet
 
-> _Intellectual self-consciousness can discover the beauty of truth, its spiritual quality, not only by the philosophic consistency of its concepts, but more certainly and surely by the unerring response of the ever-present Spirit of Truth. Happiness ensues from the recognition of truth because it can be *acted out;* it can be lived. Disappointment and sorrow attend upon error because, not being a reality, it cannot be realized in experience. Divine truth is best known by its *spiritual flavor.*_ ([UB 2:7.6](/en/The_Urantia_Book/2#p7_6))
+> _Intellectual self-consciousness can discover the beauty of truth, its spiritual quality, not only by the philosophic consistency of its concepts, but more certainly and surely by the unerring response of the ever-present Spirit of Truth. Happiness ensues from the recognition of truth because it can be *acted out;* it can be lived. Disappointment and sorrow attend upon error because, not being a reality, it cannot be realized in experience. Divine truth is best known by its *spiritual flavor.*_ (<a id="a126_503"></a>[UB 2:7.6](/en/The_Urantia_Book/2#p7_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Glimpse of the General Organization of the Master Universe and Theory of Totality by the Researchers of Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-21-spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 21 — Spring 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

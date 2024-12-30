@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should we juggle with numbers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Dautres_yeux_dautres_cieux">
+          <span class="pr-2">Other eyes, other skies...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Why am I assailed by doubts and uncertainties?
@@ -40,3 +64,28 @@ I have to open it for him.
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should we juggle with numbers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Dautres_yeux_dautres_cieux">
+          <span class="pr-2">Other eyes, other skies...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_25">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="pr-2">Progress Through Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Max my friend.
@@ -71,21 +95,46 @@ As a secretary, he maintained an impressive reader database and had warm contact
 
 **DEATH.**
 
-> Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery. ([UB 14:5.10](/en/The_Urantia_Book/14#p5_10))
+> Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery. (<a id="a97_355"></a>[UB 14:5.10](/en/The_Urantia_Book/14#p5_10))
 
 **WHERE IS MAX GOING?**
 
-> 2. *Sleeping Survivors.* All mortals of survival status, in the custody of personal guardians of destiny, pass through the portals of natural death and, on the third period, personalize on the mansion worlds. Those accredited beings who have, for any reason, been unable to attain that level of intelligence mastery and endowment of spirituality which would entitle them to personal guardians, cannot thus immediately and directly go to the mansion worlds. Such surviving souls must rest in unconscious sleep until the judgment day of a new epoch, a new dispensation, the coming of a Son of God to call the rolls of the age and adjudicate the realm, and this is the general practice throughout all Nebadon. It was said of Christ Michael that, when he ascended on high at the conclusion of his work on earth, “He led a great multitude of captives.” And these captives were the sleeping survivors from the days of Adam to the day of the Master’s resurrection on Urantia. ([UB 30:4.11](/en/The_Urantia_Book/30#p4_11))
+> 2. *Sleeping Survivors.* All mortals of survival status, in the custody of personal guardians of destiny, pass through the portals of natural death and, on the third period, personalize on the mansion worlds. Those accredited beings who have, for any reason, been unable to attain that level of intelligence mastery and endowment of spirituality which would entitle them to personal guardians, cannot thus immediately and directly go to the mansion worlds. Such surviving souls must rest in unconscious sleep until the judgment day of a new epoch, a new dispensation, the coming of a Son of God to call the rolls of the age and adjudicate the realm, and this is the general practice throughout all Nebadon. It was said of Christ Michael that, when he ascended on high at the conclusion of his work on earth, “He led a great multitude of captives.” And these captives were the sleeping survivors from the days of Adam to the day of the Master’s resurrection on Urantia. (<a id="a101_972"></a>[UB 30:4.11](/en/The_Urantia_Book/30#p4_11))
 
 **WHO WILL HE MEET?**
 
-> 1. *Planetary Mortals.* Mortals are all animal-origin evolutionary beings of ascendant potential. In origin, nature, and destiny these various groups and types of human beings are not wholly unlike the Urantia peoples. The human races of each world receive the same ministry of the Sons of God and enjoy the presence of the ministering spirits of time. After natural death all types of ascenders fraternize as one morontia family on the mansion worlds. ([UB 30:4.10](/en/The_Urantia_Book/30#p4_10))
+> 1. *Planetary Mortals.* Mortals are all animal-origin evolutionary beings of ascendant potential. In origin, nature, and destiny these various groups and types of human beings are not wholly unlike the Urantia peoples. The human races of each world receive the same ministry of the Sons of God and enjoy the presence of the ministering spirits of time. After natural death all types of ascenders fraternize as one morontia family on the mansion worlds. (<a id="a105_456"></a>[UB 30:4.10](/en/The_Urantia_Book/30#p4_10))
 
 **WHAT WILL MAX REMEMBER OF HIS EARTH EXPERIENCE?**
 
-> There is, however, one particular in which Spirit-fused mortals differ from their ascendant brethren: Mortal memory of human experience on the material worlds of origin survives death in the flesh because the indwelling Adjuster has acquired a spirit counterpart, or transcript, of those events of human life which were of spiritual significance. But with Spirit-fused mortals there exists no such mechanism whereby human memory may persist. The Adjuster transcripts of memory are full and intact, but these acquisitions are experiential possessions of the departed Adjusters and are not available to the creatures of their former indwelling, who therefore awaken in the resurrection halls of the morontia spheres of Nebadon as if they were newly created beings, creatures without consciousness of former existence. ([UB 40:9.4](/en/The_Urantia_Book/40#p9_4))
+> There is, however, one particular in which Spirit-fused mortals differ from their ascendant brethren: Mortal memory of human experience on the material worlds of origin survives death in the flesh because the indwelling Adjuster has acquired a spirit counterpart, or transcript, of those events of human life which were of spiritual significance. But with Spirit-fused mortals there exists no such mechanism whereby human memory may persist. The Adjuster transcripts of memory are full and intact, but these acquisitions are experiential possessions of the departed Adjusters and are not available to the creatures of their former indwelling, who therefore awaken in the resurrection halls of the morontia spheres of Nebadon as if they were newly created beings, creatures without consciousness of former existence. (<a id="a109_819"></a>[UB 40:9.4](/en/The_Urantia_Book/40#p9_4))
 
 **WILL THE EXPERIENCE OF DEATH HAVE CHANGED MAX?**
 
-> “23. Death added nothing to the intellectual possession or to the spiritual endowment, but it did add to the experiential status the consciousness of *survival.*” ([UB 48:7.25](/en/The_Urantia_Book/48#p7_25))
+> “23. Death added nothing to the intellectual possession or to the spiritual endowment, but it did add to the experiential status the consciousness of *survival.*” (<a id="a113_166"></a>[UB 48:7.25](/en/The_Urantia_Book/48#p7_25))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_25">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Le_Progres_par_l_Education">
+          <span class="pr-2">Progress Through Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

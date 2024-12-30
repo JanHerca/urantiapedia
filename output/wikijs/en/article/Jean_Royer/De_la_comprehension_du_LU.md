@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Jean Royer<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Praise of Fatigue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">The Resurrection of Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I have been browsing a number of blogs and other forums on the Internet dealing with The Urantia Book. It is remarkable how few people understand what they read. Most simply take in what they want (or can) to see. I then remembered that Jesus' apostles did not understand half of what he was saying, but it is true that when he spoke to them, he was actually speaking to an entire universe. And I thought: if these close beings did not understand him, what about the simple disciples? It seems that this did not trouble Jesus unduly and that he thought that faith was enough.
@@ -29,3 +53,28 @@ The Urantia Book is neither a simple book nor a complicated book, but it is a co
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Lamoureux/L_eloge_de_la_fatigue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Praise of Fatigue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="pr-2">The Resurrection of Ganid</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

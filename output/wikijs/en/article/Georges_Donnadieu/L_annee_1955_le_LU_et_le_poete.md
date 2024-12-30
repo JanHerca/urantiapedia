@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Georges Donnadieu<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The WOMAN</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Race to the Other Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> “20. Only a poet can discern poetry in the commonplace prose of routine existence.” ([UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+
+> “20. Only a poet can discern poetry in the commonplace prose of routine existence.” (<a id="a37_87"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 October 12, 1955: publication in Chicago of the _Urantia Book_. The year 1955 is an exceptional vintage for past, present and future readings of the _Urantia Book_.
 
@@ -59,7 +83,7 @@ _Note 1_: Pierre Delanoë wrote a number of Gilbert Bécaud's hits — of the 14
 
 _Note 2_: The Noës... and the floods: Noë, from the Hebrew nuah (to rest), a name which seems to be more or less a translation or an adaptation of the name of the hero of the Sumerian flood Ziusudra (life of long days).
 
-The [UB 78:7.2](/en/The_Urantia_Book/78#p7_2) “_The floods of Mesopotamia_” speaks precisely of this Sumerian flood and of Noah, winegrower of Aram. In Hawaiian legends the hero of the flood is called Nuu and he is called Nuwa in Chinese legends.
+The <a id="a85_4"></a>[UB 78:7.2](/en/The_Urantia_Book/78#p7_2) “_The floods of Mesopotamia_” speaks precisely of this Sumerian flood and of Noah, winegrower of Aram. In Hawaiian legends the hero of the flood is called Nuu and he is called Nuwa in Chinese legends.
 
 In this article, the poet Pierre Delanoë mentions Bertrand Delanoë, current mayor of Paris, a city whose motto “_Fluctuat nec mergitur_” is quite a program, in the event of a flood.
 
@@ -71,3 +95,28 @@ _Note 3_: Wanted notice: thank you to seasoned readers of UB for indicating the 
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The WOMAN</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Race to the Other Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

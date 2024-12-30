@@ -33,7 +33,7 @@ I am therefore inspired by this teaching from our Master:
 <img src="/image/article/Reflectivite/2024_07/020.jpg">
 </figure>
 
-> He rather sought to set man’s reborn soul free upon the joyous wings of a new and living spiritual liberty. ([UB 179:5.4](/en/The_Urantia_Book/179#p5_4))
+> He rather sought to set man’s reborn soul free upon the joyous wings of a new and living spiritual liberty. (<a id="a35_111"></a>[UB 179:5.4](/en/The_Urantia_Book/179#p5_4))
 
 Unfortunately in Quebec, where the Catholic religion has done irreparable damage, it is extremely difficult for me to talk about God or Jesus.
 

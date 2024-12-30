@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/La_Puissance_de_l_Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Power of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Temple_du_Lotus">
+          <span class="pr-2">The Lotus Temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 May the sweetness of friendship be made of laughter and shared pleasures.
@@ -53,3 +77,28 @@ Your friend is the answer to your desires.
 
 Khalil Gibran
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/La_Puissance_de_l_Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Power of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Temple_du_Lotus">
+          <span class="pr-2">The Lotus Temple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

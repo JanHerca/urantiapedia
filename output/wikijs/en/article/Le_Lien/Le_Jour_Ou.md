@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Benjamin_Boisson/Jeux_de_mots_sur_le_Christianisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puns on Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanne_Siaud_Facchin/La_Conscience">
+          <span class="pr-2">Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The day I truly loved myself,
@@ -85,3 +109,28 @@ _All this is called_ ***Knowing how to be — Knowing how to live — Knowing ho
 
 Charlie Chaplin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Benjamin_Boisson/Jeux_de_mots_sur_le_Christianisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puns on Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanne_Siaud_Facchin/La_Conscience">
+          <span class="pr-2">Conscience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

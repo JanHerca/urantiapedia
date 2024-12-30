@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Anne-Marie Ronfet<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Was Jesus?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _The following article is inspired by reading the “Center of Being” by K. G. DURCKHEIM [^1], a German psychotherapist who lived in Japan for a long time. A disciple of Jung, he tried to reconcile Western and Eastern spirituality and only treated people with psychological problems due to a spiritual quest. In fact, he was interested in what is common to all religions: a method to help man access “Transcendence”._
@@ -43,7 +67,7 @@ _“In everything that lives you will encounter:_
 2. _the law which manifests itself in everything that is alive in a push towards its realization, its form. It is the order of becoming._
 3. _every living being bears witness to a unity with that which surpasses it. Everything that lives, lives in a whole which encompasses it. » Dürckheim_
 
-> “The cosmic-mind-endowed, Adjuster-indwelt, personal creature possesses innate recognition-realization of energy reality, mind reality, and spirit reality. The will creature is thus equipped to discern the fact, the law, and the love of God. Aside from these three inalienables of human consciousness, all human experience is really subjective except that intuitive realization of validity attaches to the *unification* of these three universe reality responses of cosmic recognition.” ([UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
+> “The cosmic-mind-endowed, Adjuster-indwelt, personal creature possesses innate recognition-realization of energy reality, mind reality, and spirit reality. The will creature is thus equipped to discern the fact, the law, and the love of God. Aside from these three inalienables of human consciousness, all human experience is really subjective except that intuitive realization of validity attaches to the *unification* of these three universe reality responses of cosmic recognition.” (<a id="a69_489"></a>[UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
 
 _To finish :_
 
@@ -51,3 +75,28 @@ Dürckheim: “A common objection is that Transcendence is external to man. This
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Was Jesus?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

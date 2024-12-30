@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Max Masotti and Tor Eriksen<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales National Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">2016 Scientific Symposium in Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## INTRODUCTION
@@ -182,3 +206,28 @@ Perhaps the AFLUB needs new blood?
 > Due to the holidays in July and August, the association's operating account and balance sheet were not yet formatted on the date of publication of this LINK. They will be available in the next issue.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chales National Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="pr-2">2016 Scientific Symposium in Chicago</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

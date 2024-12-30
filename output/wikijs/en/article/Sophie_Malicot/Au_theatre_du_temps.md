@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sophie Malicot<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Serons_nous_eternellement_soumis_a_la_gravite_materielle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will We Be Eternally Subject to Material Gravity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Flacon">
+          <span class="pr-2">The Flask</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -24,7 +48,7 @@ Time is simultaneously an everyday reality and a difficult concept to understand
 > “There are three different levels of time cognizance:”
 > 1. Mind-perceived time—consciousness of sequence, motion, and a sense of duration.
 > 2. Spirit-perceived time—insight into motion Godward and the awareness of the motion of ascent to levels of increasing divinity.
-> 3. Personality *creates* a unique time sense out of insight into Reality plus a consciousness of presence and an awareness of duration. ([UB 12:5.6-9](/en/The_Urantia_Book/12#p5_6))
+> 3. Personality *creates* a unique time sense out of insight into Reality plus a consciousness of presence and an awareness of duration. (<a id="a50_139"></a>[UB 12:5.6-9](/en/The_Urantia_Book/12#p5_6))
 
 **1. Time perceived by the mind** — awareness of sequence, movement and sense of duration.
 
@@ -95,3 +119,28 @@ Thus the promised inversion is made: from the human set in the scrolls of time, 
 
 Thus we experience time on three levels simultaneously. Their interweaving gives direction, meaning and value to our life.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Serons_nous_eternellement_soumis_a_la_gravite_materielle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will We Be Eternally Subject to Material Gravity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Flacon">
+          <span class="pr-2">The Flask</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About the UBIS School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## URANTIA BOOK INTERNET SCHOOL (UBIS) — April 2016 quarter — Hearts in French
@@ -57,3 +78,25 @@ This course is a thematic study on the inner life. Together we will deepen our u
 
 Guy Perron is from Montreal, Canada. When he fully immersed himself in the incomparable teachings of The Urantia Book in 2000, he immediately felt that he had been blessed and had in his hands an incredible gift, a great and powerful work of art about our Father's love...true morontia food for our souls, for his soul.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/A_propos_de_l_ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About the UBIS School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

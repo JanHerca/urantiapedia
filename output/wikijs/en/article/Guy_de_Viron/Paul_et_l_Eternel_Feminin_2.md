@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Marie">
+          <span class="pr-2">Marie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Here is an edition as a conclusion for my two favorite themes: the Eternal Feminine and friend Paul! Not that these subjects are exhausted or that we have gone through them all, only that the reflection leans towards other spiritual insights...
@@ -34,3 +58,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Marie">
+          <span class="pr-2">Marie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

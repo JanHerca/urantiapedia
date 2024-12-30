@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Children</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">IUA Conference Reports</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (What is personal fusion with the Adjuster)
@@ -23,17 +47,17 @@ A parallel must therefore be drawn between worship and wisdom on the one hand an
 - Worship is the mental assistant on which the Personality must rely to open itself to the inner voice of the Adjuster who is God in it.
 - Wisdom is the mental assistant on which the Adjuster relies to offer the Personality an opening onto eternity
 
-For, “_the Thought Adjuster is the cosmic window through which a finite creature may, through sincere worship and loyal belief in the gospel of the kingdom, gain insight into the certain and divine aspects of the unlimited Deity, the Universal Father.” ([UB 103:0.1](/en/The_Urantia_Book/103#p0_1))
+For, “_the Thought Adjuster is the cosmic window through which a finite creature may, through sincere worship and loyal belief in the gospel of the kingdom, gain insight into the certain and divine aspects of the unlimited Deity, the Universal Father.” (<a id="a49_254"></a>[UB 103:0.1](/en/The_Urantia_Book/103#p0_1))
 
 Let us reflect for a moment upon the place of worship, and hence upon its meaning and value, as we consider it before or after fusion with the Adjuster. Indeed, a Solitary Messenger of Orvonton describes to us these two facets of worship, first as a mode of emergence and then as a mode of finality. He says first:
 
-> “_In time, thinking leads to wisdom and wisdom leads to worship; in eternity, worship leads to wisdom, and wisdom eventuates in the finality of thought._” ([UB 112:2.13](/en/The_Urantia_Book/112#p2_13))
+> “_In time, thinking leads to wisdom and wisdom leads to worship; in eternity, worship leads to wisdom, and wisdom eventuates in the finality of thought._” (<a id="a53_158"></a>[UB 112:2.13](/en/The_Urantia_Book/112#p2_13))
 
 This is indeed the process we use when we extend our efforts of thought toward the existence of the Eternal. It does not seem to us that we can access the Revelation of the Father otherwise than by a persistent strain toward wisdom, and we have just seen that wisdom seems to be the prerogative of the Adjuster in us. We have just seen also that once the voice of wisdom is heard, it becomes much easier for us to give ourselves entirely to worship. This first proposition is therefore well acquired by thought. Under these conditions, what is worship, if not the accomplished expression of our sincere motives and our decisions, our determinations and our supreme desires oriented toward the will of the Father and constituting real and effective cooperation with the Adjuster?
 
 The Lone Messenger of Orvonton then said:
 
-> “_In time, thinking leads to wisdom and wisdom leads to worship; in eternity, worship leads to wisdom, and wisdom eventuates in the finality of thought._” ([UB 112:2.13](/en/The_Urantia_Book/112#p2_13))
+> “_In time, thinking leads to wisdom and wisdom leads to worship; in eternity, worship leads to wisdom, and wisdom eventuates in the finality of thought._” (<a id="a59_158"></a>[UB 112:2.13](/en/The_Urantia_Book/112#p2_13))
 
 What does this new assertion mean? Do we not see that this is only the first proposition whose terms are now reversed? Yes! We see it clearly! And this constitutes an enigma as is found here and there in The Urantia Book, an enigma intended to sharpen our sense of the divine within us, our sense of future realities, our sense of the realities which await us in eternity.
 
@@ -45,3 +69,28 @@ The significance of worship must be understood as the goal, the finality of the 
 
 Jean-Marie Chair
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Le_Livre_dUrantia_et_les_enfants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Children</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joseph_Le_Dain_et_Severin_Desbuisson/Compte_rendu_des_conferences_IUA">
+          <span class="pr-2">IUA Conference Reports</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -31,7 +31,7 @@ The insights or illuminations we may have are indisputable proof that God is wor
 You may find what is written useless or incomprehensible, but in fact, it is an encouragement (Smile).
 <br style="clear:both;"/>
 
-> “The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence. Such an experience constitutes God-consciousness, an experience mightily confirmative of the pre-existent truth of the religious experience of knowing God. Such spirit-consciousness is the equivalent of the knowledge of the actuality of sonship with God. Otherwise, the assurance of sonship is the experience of faith.” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> “The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence. Such an experience constitutes God-consciousness, an experience mightily confirmative of the pre-existent truth of the religious experience of knowing God. Such spirit-consciousness is the equivalent of the knowledge of the actuality of sonship with God. Otherwise, the assurance of sonship is the experience of faith.” (<a id="a33_747"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
 https://bigbluebook.org/fr/196/3/
 
@@ -46,7 +46,7 @@ It is give and take in the eternal game (a transaction in which each party grant
 
 This reminds me of the reflection of Jean François Drouet in the zoom of the international meeting; NOT $=$ Prayer, Adoration, Service.
 
-> _This departure from the more solemn and reverent modes of communication with Deity was a bit disconcerting to his parents, especially to his mother, but there was no persuading him to change; he [Jesus] would say his prayers just as he had been taught, after which he insisted on having “just a little talk with my Father in heaven.”_ ([UB 123:3.6](/en/The_Urantia_Book/123#p3_6))
+> _This departure from the more solemn and reverent modes of communication with Deity was a bit disconcerting to his parents, especially to his mother, but there was no persuading him to change; he [Jesus] would say his prayers just as he had been taught, after which he insisted on having “just a little talk with my Father in heaven.”_ (<a id="a48_339"></a>[UB 123:3.6](/en/The_Urantia_Book/123#p3_6))
 
 ## References
 

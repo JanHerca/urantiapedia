@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Guy de Viron<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prelude: The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-43-summer-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 43 — Summer 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">Le Point: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recently appointed editor (in chief) of the AFFUB quarterly magazine, currently Le Lien, my new task will essentially consist of energizing it a little and giving it the colors that afflutists expect from it. How will this be done? Well, thanks to all of you who will read it, comment on it, feed it...; because alone, it's mission impossible!
@@ -29,3 +53,28 @@ To all of you, happy reading, to the best of your respective discoveries and you
 
 Guy
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Mot_du_President_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prelude: The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-43-summer-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 43 — Summer 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_Point_Dinard">
+          <span class="pr-2">Le Point: Dinard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

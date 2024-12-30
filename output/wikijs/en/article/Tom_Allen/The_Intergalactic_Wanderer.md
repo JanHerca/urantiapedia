@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Tom Allen<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_Prophetes">
+          <span class="pr-2">The Prophets</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A Hypothesis on the Location of Uversa
@@ -27,9 +51,9 @@ The “**Verification Triad**” is a research technique I use to create framewo
 2. **Early 20th Century Science Historical Facts (circa 1880-1935)**
 3. **Current Science — Hypotheses and Facts**
 
-> “_Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._” ([UB 19:1.6](/en/The_Urantia_Book/19#p1_6))
+> “_Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._” (<a id="a53_520"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6))
 
-> Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of *Nebadon.* This universe, together with similar creations, makes up the superuniverse of *Orvonton,* from whose capital, Uversa, our commission hails. Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of *Havona.* At the heart of this eternal and central universe is the stationary Isle of Paradise, the geographic center of infinity and the dwelling place of the eternal God. ([UB 0:0.5](/en/The_Urantia_Book/0#p0_5))
+> Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of *Nebadon.* This universe, together with similar creations, makes up the superuniverse of *Orvonton,* from whose capital, Uversa, our commission hails. Orvonton is one of the seven evolutionary superuniverses of time and space which circle the never-beginning, never-ending creation of divine perfection—the central universe of *Havona.* At the heart of this eternal and central universe is the stationary Isle of Paradise, the geographic center of infinity and the dwelling place of the eternal God. (<a id="a55_602"></a>[UB 0:0.5](/en/The_Urantia_Book/0#p0_5))
 
 Only when the three aspects of origin, history, and destiny are thoroughly analyzed, criticized, synthesized, and unified can the frameworks of the universe develop with lesser degrees of error.
 
@@ -89,21 +113,21 @@ Historical facts and current science concerning NGC 2419 are presented here to f
 
 1\.
 
-> “_The Sagittarius sector and all other sectors and divisions of Orvonton are in rotation around Uversa, and some of the confusion of Urantian star observers arises out of the illusions and relative distortions produced by the following multiple revolutionary movements:_” ([UB 15:3.7](/en/The_Urantia_Book/15#p3_7))
+> “_The Sagittarius sector and all other sectors and divisions of Orvonton are in rotation around Uversa, and some of the confusion of Urantian star observers arises out of the illusions and relative distortions produced by the following multiple revolutionary movements:_” (<a id="a115_275"></a>[UB 15:3.7](/en/The_Urantia_Book/15#p3_7))
 
-> “_6. The whirl of the ten major sectors, the so-called star drifts, about the Uversa headquarters of Orvonton._” ([UB 15:3.13](/en/The_Urantia_Book/15#p3_13))
+> “_6. The whirl of the ten major sectors, the so-called star drifts, about the Uversa headquarters of Orvonton._” (<a id="a117_116"></a>[UB 15:3.13](/en/The_Urantia_Book/15#p3_13))
 
 The ten major sectors of the Milky Way rotate “around” Uversa.
 
 In this case, “around” is used as a preposition functioning as an adverb. This means that “around” translates to “in or somewhat near”
 
-Example: I ride my bicycle around my neighborhood. “Around” means “in or somewhat near.” This is the same way this expression is used in ([UB 15:3.13](/en/The_Urantia_Book/15#p3_13)) The ten major sectors “swirl” around Uversa.
+Example: I ride my bicycle around my neighborhood. “Around” means “in or somewhat near.” This is the same way this expression is used in (<a id="a123_138"></a>[UB 15:3.13](/en/The_Urantia_Book/15#p3_13)) The ten major sectors “swirl” around Uversa.
 
 It takes about 250 million years for the Milky Way to complete one rotation. NGC 2419 orbits the pole of the Milky Way every 3 billion years. Thus, the Milky Way swirls about 12 times for every polar rotation of NGC 2419. This hypothetically means that these star trails in the large Orvonton sector are rotating and “swirling” near and around Uversa—NGC 2419.
 
 2\.
 
-> “_While each superuniverse government presides near the center of the evolutionary universes of its space segment, it occupies a world made to order and is peopled by accredited personalities. These headquarters worlds are architectural spheres, space bodies specifically constructed for their special purpose. While sharing the light of near-by suns, these spheres are independently lighted and heated. Each has a sun which gives forth light without heat, like the satellites of Paradise, while each is supplied with heat by the circulation of certain energy currents near the surface of the sphere. These headquarters worlds belong to one of the greater systems situated near the astronomical center of their respective superuniverses._” ([UB 15:7.1](/en/The_Urantia_Book/15#p7_1))
+> “_While each superuniverse government presides near the center of the evolutionary universes of its space segment, it occupies a world made to order and is peopled by accredited personalities. These headquarters worlds are architectural spheres, space bodies specifically constructed for their special purpose. While sharing the light of near-by suns, these spheres are independently lighted and heated. Each has a sun which gives forth light without heat, like the satellites of Paradise, while each is supplied with heat by the circulation of certain energy currents near the surface of the sphere. These headquarters worlds belong to one of the greater systems situated near the astronomical center of their respective superuniverses._” (<a id="a129_743"></a>[UB 15:7.1](/en/The_Urantia_Book/15#p7_1))
 
 Uversa in NGC 2419 is “near” or adjacent to the center of the seventh superuniverse space segment.
 
@@ -120,7 +144,7 @@ NGC 2419 is “one of the largest systems” surrounding the Milky Way.
 
 3\.
 
-> _1. *The Star Students,* the celestial astronomers, choose to work on spheres like Uversa because such specially constructed worlds are unusually favorable for their observations and calculations. Uversa is favorably situated for the work of this colony, not only because of its central location, but also because there are no gigantic living or dead suns near at hand to disturb the energy currents. These students are not in any manner organically connected with the affairs of the superuniverse; they are merely guests._ ([UB 30:3.2](/en/The_Urantia_Book/30#p3_2))
+> _1. *The Star Students,* the celestial astronomers, choose to work on spheres like Uversa because such specially constructed worlds are unusually favorable for their observations and calculations. Uversa is favorably situated for the work of this colony, not only because of its central location, but also because there are no gigantic living or dead suns near at hand to disturb the energy currents. These students are not in any manner organically connected with the affairs of the superuniverse; they are merely guests._ (<a id="a146_527"></a>[UB 30:3.2](/en/The_Urantia_Book/30#p3_2))
 
 Uversa is centrally located and is not near any living or dead suns.
 
@@ -128,7 +152,7 @@ Large groups of rotating red giant stars are found near the center of NGC 2419, 
 
 4\.
 
-> The Satania system of inhabited worlds is far removed from Uversa and that great sun cluster which functions as the physical or astronomic center of the seventh superuniverse. From Jerusem, the headquarters of Satania, it is over two hundred thousand light-years to the physical center of the superuniverse of Orvonton, far, far away in the dense diameter of the Milky Way. Satania is on the periphery of the local universe, and Nebadon is now well out towards the edge of Orvonton. From the outermost system of inhabited worlds to the center of the superuniverse is a trifle less than two hundred and fifty thousand light-years. ([UB 32:2.11](/en/The_Urantia_Book/32#p2_11))
+> The Satania system of inhabited worlds is far removed from Uversa and that great sun cluster which functions as the physical or astronomic center of the seventh superuniverse. From Jerusem, the headquarters of Satania, it is over two hundred thousand light-years to the physical center of the superuniverse of Orvonton, far, far away in the dense diameter of the Milky Way. Satania is on the periphery of the local universe, and Nebadon is now well out towards the edge of Orvonton. From the outermost system of inhabited worlds to the center of the superuniverse is a trifle less than two hundred and fifty thousand light-years. (<a id="a154_633"></a>[UB 32:2.11](/en/The_Urantia_Book/32#p2_11))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/039.jpg">
@@ -137,7 +161,7 @@ Large groups of rotating red giant stars are found near the center of NGC 2419, 
 
 It is possible to assume from the first sentence that the word “and” separates the identification of Uversa from “this great cluster of suns” that functions as the physical or astronomical center. Cars and trucks, boys and girls, are examples of this separation. “And” can separate categories while grouping them together. One interpretation of this quote indicates that Uversa and this great solar cluster both refer to the same thing: more than 200,000 lilies of Satania. The second interpretation is that Uversa and this great solar cluster are separate and that they are both distant from Satania. Uversa, like NGC 2419, is close to the center in each interpretation.
 
-However, the next sentence states that the physical center is more than 200,000 lilies away. If the central bulge of the Milky Way is “this great cluster of suns,” then Uversa, as NGC 2419, is considered the physical center of power control for the material evolution of the superuniverse. A thousand third-order power centers operate gravita circuits from Uversa. ([UB 15:8.2](/en/The_Urantia_Book/15#p8_2)) This makes Uversa, as NGC 2419, the physical center of power control for the superuniverse near “this great cluster of suns” at the center of the Milky Way bulge that functions as the astronomical and gravitational center of the seventh space segment of the superuniverse.
+However, the next sentence states that the physical center is more than 200,000 lilies away. If the central bulge of the Milky Way is “this great cluster of suns,” then Uversa, as NGC 2419, is considered the physical center of power control for the material evolution of the superuniverse. A thousand third-order power centers operate gravita circuits from Uversa. (<a id="a163_366"></a>[UB 15:8.2](/en/The_Urantia_Book/15#p8_2)) This makes Uversa, as NGC 2419, the physical center of power control for the superuniverse near “this great cluster of suns” at the center of the Milky Way bulge that functions as the astronomical and gravitational center of the seventh space segment of the superuniverse.
 
 NGC 2419 like Uversa is supposed to be near the barycenter of the local sheet, which I assume is the extent of the seventh section of our superuniverse. The playing field of the seventh superuniverse is large. Uversa, like NGC 2419, is described as being “near the center,” “central,” and “astronomical center.” Uversa is “near” or close to “that great solar cluster” which is the physical or astronomical center of the superuniverse. That great solar cluster can be conceived of as being just NGC 2419 or the central bulge of the Milky Way.
 
@@ -174,7 +198,7 @@ It would not have been possible to arrive at this conclusion without the most re
 
 As believers and followers of the Urantia revelation, we are compelled by a God-given sense of curiosity to clarify the truth in our sincere attempt to unify reality. We must decipher and interpret the English usage and language of The Urantia Book; we must couple the epochal revelation and its outsized revealed cosmology with twentieth-century astronomy; we must study current science and seek to couple it with the epochal revelation. This triad of verification and study will ultimately bring great insight into reality. We humans have not been given a revelation beyond our means of comprehension. Otherwise, we would be deprived of vigorous thought and spiritual progress. It would be a cosmic tyranny for celestial beings to reveal more than present civilization can comprehend. Our imaginations would be stifled.
 
-It is our responsibility to pursue this vigorous passion by studying Causality, to live ethical and moral lives as Duty, and to come to worship God deeply and fruitfully. We must delight in cultivating courageous and independent cosmic thinking. “But it is sad to note that so few on Urantia delight in cultivating these qualities of courageous and independent cosmic thinking.” ([UB 16:6.9](/en/The_Urantia_Book/16#p6_9)) Let us pray that we may be so courageous and that we may bring this joy of curiosity and deep thinking to others.
+It is our responsibility to pursue this vigorous passion by studying Causality, to live ethical and moral lives as Duty, and to come to worship God deeply and fruitfully. We must delight in cultivating courageous and independent cosmic thinking. “But it is sad to note that so few on Urantia delight in cultivating these qualities of courageous and independent cosmic thinking.” (<a id="a200_380"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9)) Let us pray that we may be so courageous and that we may bring this joy of curiosity and deep thinking to others.
 
 Thank you, Father and Mother. And thank you to all the ministers and administrators who have undertaken the task of providing advanced truth to our generation.
 
@@ -192,3 +216,28 @@ Thank you, Father and Mother. And thank you to all the ministers and administrat
 </figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_20">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_Prophetes">
+          <span class="pr-2">The Prophets</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

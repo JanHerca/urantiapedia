@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sophie Malicot<br>© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritual Quest: God in Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">The Hazards of a Decimal Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sophie Malicot
@@ -45,19 +69,19 @@ But again, the child who rebels against his self-denial does not bend so easily 
 
 Another explanation is necessary for this human being in the image of God and yet imperfect. _The Urantia Book_ answers it.
 
-> “The Old Testament account of creation dates from long after the time of Moses; he never taught the Hebrews such a distorted story. But he did present a simple and condensed narrative of creation to the Israelites, hoping thereby to augment his appeal to worship the Creator, the Universal Father, whom he called the Lord God of Israel.” ([UB 74:8.7](/en/The_Urantia_Book/74#p8_7))
+> “The Old Testament account of creation dates from long after the time of Moses; he never taught the Hebrews such a distorted story. But he did present a simple and condensed narrative of creation to the Israelites, hoping thereby to augment his appeal to worship the Creator, the Universal Father, whom he called the Lord God of Israel.” (<a id="a71_341"></a>[UB 74:8.7](/en/The_Urantia_Book/74#p8_7))
 
 The mystery does not lie between the perfect created human and the lived state of imperfection; the mystery lies in this stretching of God through the creation of His Creation in which resides this exclusivity of himself in human experience. Is God everything but not quite? Everything except this little bit of our human trajectory?
 
-> “Nothing in the entire universe can substitute for the fact of experience on nonexistential levels. The infinite God is, as always, replete and complete, infinitely inclusive of all things except evil and creature experience. God cannot do wrong; he is infallible. God cannot experientially know what he has never personally experienced; God’s preknowledge is existential. Therefore does the spirit of the Father descend from Paradise to participate with finite mortals in every bona fide experience of the ascending career; it is only by such a method that the existential God could become in truth and in fact man’s experiential Father. The infinity of the eternal God encompasses the potential for finite experience, which indeed becomes actual in the ministry of the Adjuster fragments that actually share the life vicissitude experiences of human beings.” ([UB 108:0.2](/en/The_Urantia_Book/108#p0_2))
+> “Nothing in the entire universe can substitute for the fact of experience on nonexistential levels. The infinite God is, as always, replete and complete, infinitely inclusive of all things except evil and creature experience. God cannot do wrong; he is infallible. God cannot experientially know what he has never personally experienced; God’s preknowledge is existential. Therefore does the spirit of the Father descend from Paradise to participate with finite mortals in every bona fide experience of the ascending career; it is only by such a method that the existential God could become in truth and in fact man’s experiential Father. The infinity of the eternal God encompasses the potential for finite experience, which indeed becomes actual in the ministry of the Adjuster fragments that actually share the life vicissitude experiences of human beings.” (<a id="a75_864"></a>[UB 108:0.2](/en/The_Urantia_Book/108#p0_2))
 
 A divine incompleteness opening another position to the human? This is what the text says. The human adventure is then linked differently. God “I AM” created the eternal Son and became God-Father through the Son. Without doubt he loved this paternity deeply to the point of proposing to the Son:
 
-> “Though the Eternal Son cannot personally participate in the bestowal of the Thought Adjusters, he did sit in council with the Universal Father in the eternal past, approving the plan and pledging endless co-operation, when the Father, in projecting the bestowal of the Thought Adjusters, proposed to the Son, “Let us make mortal man in our own image.” And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.” ([UB 6:5.7](/en/The_Urantia_Book/6#p5_7))
+> “Though the Eternal Son cannot personally participate in the bestowal of the Thought Adjusters, he did sit in council with the Universal Father in the eternal past, approving the plan and pledging endless co-operation, when the Father, in projecting the bestowal of the Thought Adjusters, proposed to the Son, “Let us make mortal man in our own image.” And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.” (<a id="a79_537"></a>[UB 6:5.7](/en/The_Urantia_Book/6#p5_7))
 
 This word was spoken to the Son in response to the Father's proposal to grant Thought Adjusters. Here is the full quotation:
 
-> “Though the Eternal Son cannot personally participate in the bestowal of the Thought Adjusters, he did sit in council with the Universal Father in the eternal past, approving the plan and pledging endless co-operation, when the Father, in projecting the bestowal of the Thought Adjusters, proposed to the Son, “Let us make mortal man in our own image.” And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.” ([UB 6:5.7](/en/The_Urantia_Book/6#p5_7))
+> “Though the Eternal Son cannot personally participate in the bestowal of the Thought Adjusters, he did sit in council with the Universal Father in the eternal past, approving the plan and pledging endless co-operation, when the Father, in projecting the bestowal of the Thought Adjusters, proposed to the Son, “Let us make mortal man in our own image.” And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you, while these two forever work as one for your spiritual advancement.” (<a id="a83_537"></a>[UB 6:5.7](/en/The_Urantia_Book/6#p5_7))
 
 **The following 3 points should be highlighted:**
 
@@ -73,7 +97,7 @@ _The Urantia Book_ inserts this divine project in booklet 6 concerning the etern
 
 In this light, imperfection is a normal stage in the relativity of the evolutionary state. Humans are not intrinsically “sinful”; the imperfection of their approach to God is due to the stretching desired by God Himself, between Him and His Creation, implying a significant legitimate degree of human ignorance. From this ignorance is born evil, this lack of adjustment of our understanding of the divine plan. Evil is therefore inevitable, common, inseparable from our materiality but should not be assimilated to sin, which certainly exists but in a much more limited way than evil.
 
-> EVOUBTIONARY man finds it difficult fully to comprehend the significance and to grasp the meanings of evil, error, sin, and iniquity. Man is slow to perceive that contrastive perfection and imperfection produce potential evil; that conflicting truth and falsehood create confusing error; that the divine endowment of freewill choice eventuates in the divergent realms of sin and righteousness; that the persistent pursuit of divinity leads to the kingdom of God as contrasted with its continuous rejection, which leads to the domains of iniquity. ([UB 54:0.1](/en/The_Urantia_Book/54#p0_1))
+> EVOUBTIONARY man finds it difficult fully to comprehend the significance and to grasp the meanings of evil, error, sin, and iniquity. Man is slow to perceive that contrastive perfection and imperfection produce potential evil; that conflicting truth and falsehood create confusing error; that the divine endowment of freewill choice eventuates in the divergent realms of sin and righteousness; that the persistent pursuit of divinity leads to the kingdom of God as contrasted with its continuous rejection, which leads to the domains of iniquity. (<a id="a99_550"></a>[UB 54:0.1](/en/The_Urantia_Book/54#p0_1))
 
 Let us remember that it is a voluntary act of non-cooperation with the divine plan. So to be a sinner, one must first know the divine plan...
 
@@ -87,3 +111,28 @@ This new conception opens up to a liberation of the human from a yoke that weigh
 
 “Peace on earth and good will among men”, that good will which advances humanity in righteousness and truth. And the earth is full of people of good will.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritual Quest: God in Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">The Hazards of a Decimal Planet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

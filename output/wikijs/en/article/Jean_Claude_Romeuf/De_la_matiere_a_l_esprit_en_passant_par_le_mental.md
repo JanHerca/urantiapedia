@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jean-Claude Romeuf<br>© 2005 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, philosophy, religion and revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-35-autumnwinter-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 35 — Autumn/Winter 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">For a friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Life does not happen by chance. It is intentional, never accidental. Mind linked to Spirit is creative and produces life.
@@ -102,3 +126,28 @@ With the posthumous permission of Georges Brassens, we will say in conclusion th
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Science_philosophie_religion_et_revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science, philosophy, religion and revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-35-autumnwinter-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 35 — Autumn/Winter 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami_2">
+          <span class="pr-2">For a friend</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

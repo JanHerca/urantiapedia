@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Agnès Coulon<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference of the I.U.A. in Helsinki from August 7 to 10, 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Metaphysical Thoughts of an Agnostic</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -30,7 +54,7 @@ With the Fruits of the Spirit, it is respect for others:
 - be self-effacing and never impose yourself or others.
 
 
-The Fruits of the Spirit ([UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
+The Fruits of the Spirit (<a id="a56_26"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
 
 | &nbsp; | &nbsp; | &nbsp;
 | --- | --- | ---
@@ -68,3 +92,28 @@ Agnes Coulon
 <img src="/image/article/Le_Lien/images_01/009.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference of the I.U.A. in Helsinki from August 7 to 10, 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Metaphysical Thoughts of an Agnostic</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Joseph Le Dain and Séverin Desbuisson<br>© 1998 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergence and Finality of Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -67,3 +88,25 @@ These two gatherings seemed beneficial to us both because of the richness of the
 
 Joseph and Severin.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emergence and Finality of Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

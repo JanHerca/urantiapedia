@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rules for Being Human</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Maxian Quiz No. 14 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There are evenings when one is a little tired, from work, from the weariness of finding oneself alone at home and from the feeling that the whole world is marking time, that the ideas sketched out by friends bear no resemblance to the ideals that one would like to see suddenly emerge from their lips. So, one prepares a good meal and sits down sadly drinking two or three glasses of good wine.
@@ -25,3 +49,28 @@ If this were not the case, God would not leave me alone to accomplish this task 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Regles_pour_etre_humain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rules for Being Human</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_14_Les_reponses">
+          <span class="pr-2">Maxian Quiz No. 14 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

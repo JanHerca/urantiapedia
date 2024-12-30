@@ -18,11 +18,11 @@ dateCreated: 2023-09-29T14:02:03.086Z
 _Claude Flibotte_
 Sainte-Julie
 
-Do we realize what our participation in the actualization of this new deity that is the Supreme represents for us? When we have become, in Paradise, perfect finaliters, by a technique of experiencing finaliter transcendence, we will then be connected to the spiritual gravity circuit of the Eternal Son, we will become experiential personalities of God the Supreme ([UB 117:5.3](/en/The_Urantia_Book/117#p5_3)).
+Do we realize what our participation in the actualization of this new deity that is the Supreme represents for us? When we have become, in Paradise, perfect finaliters, by a technique of experiencing finaliter transcendence, we will then be connected to the spiritual gravity circuit of the Eternal Son, we will become experiential personalities of God the Supreme (<a id="a20_366"></a>[UB 117:5.3](/en/The_Urantia_Book/117#p5_3)).
 
-At present, our finite creature mind prevents us from knowing the Father as infinite and absolute, yet in relationship with the Supreme, He will compensate for our inability to make limited contact with the universe of universes. Revelators suspect that being fused with our Thought Adjuster, He will reveal to us, upon attainment of the seventh spirit stage, the divinity and nature of God the Supreme, the equivalent of the revelation of the Infinite to an absolute being ([UB 117:6.18](/en/The_Urantia_Book/117#p6_18)).
+At present, our finite creature mind prevents us from knowing the Father as infinite and absolute, yet in relationship with the Supreme, He will compensate for our inability to make limited contact with the universe of universes. Revelators suspect that being fused with our Thought Adjuster, He will reveal to us, upon attainment of the seventh spirit stage, the divinity and nature of God the Supreme, the equivalent of the revelation of the Infinite to an absolute being (<a id="a22_475"></a>[UB 117:6.18](/en/The_Urantia_Book/117#p6_18)).
 
-Since all creature experiences register in the Supreme, and since all creatures will have attained the final experiential level of divinity in the Supreme by the end of the Second Universe Age, we will have actual contact with the totality of this experience ([UB 117:5.14](/en/The_Urantia_Book/117#p5_14)).
+Since all creature experiences register in the Supreme, and since all creatures will have attained the final experiential level of divinity in the Supreme by the end of the Second Universe Age, we will have actual contact with the totality of this experience (<a id="a24_260"></a>[UB 117:5.14](/en/The_Urantia_Book/117#p5_14)).
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2023_07/031.jpg">

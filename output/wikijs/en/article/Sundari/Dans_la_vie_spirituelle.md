@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Sundari<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other Sheep</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The safest and best way to advance on the spiritual path is to engage in it without fanaticism, without exaltation... We must not rush into the spiritual path, wanting to cover long distances in a short time: by running like this, we end up running out of breath, we mark time and, very often, we go backwards.
@@ -39,3 +60,25 @@ The greatest happiness that I wish for all my brothers is to access the divine p
 
 Sundari
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yolanda_Silva_Solano/Autres_Brebis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other Sheep</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

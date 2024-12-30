@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François and the Seahorse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Indefinite Pronouns</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The majority of participants arrived on Thursday evening where an excellent meal directly confirmed the serious and warm welcome that we were used to experiencing at previous meetings.
@@ -19,9 +43,9 @@ Following the evening meal, the President, **Mr. Dominique Ronfet**, opened the 
 
 The President told us a fiction which aimed to confront us with a new “awareness” to enter this universe which is found after death or awakening would, thanks to guides, make us feel comforted to begin our evolution on the mansions.
 
-Friday morning, **Guy Antéquéra**, a very old reader, opened a first debate with his presentation on the first moments of our survival, accompanied by video documents. He has been interested, for several years, with some participants in his group, in deepening his research concerning post-mortem awakening, an area that concerns us all. The Revelators speak to us about it in a certain way but leave us to seek certain consistencies between the various texts of the UB, knowing full well that the latter are held “_by restrictions placed by the celestial authorities governing Urantia_” [UB 112:5.11](/en/The_Urantia_Book/112#p5_11). Guy's conference concluded that according to his theses, certain deceased mortals would awaken in the 3rd period, while certain others would be asleep and awaiting a future dispensation.
+Friday morning, **Guy Antéquéra**, a very old reader, opened a first debate with his presentation on the first moments of our survival, accompanied by video documents. He has been interested, for several years, with some participants in his group, in deepening his research concerning post-mortem awakening, an area that concerns us all. The Revelators speak to us about it in a certain way but leave us to seek certain consistencies between the various texts of the UB, knowing full well that the latter are held “_by restrictions placed by the celestial authorities governing Urantia_” <a id="a45_588"></a>[UB 112:5.11](/en/The_Urantia_Book/112#p5_11). Guy's conference concluded that according to his theses, certain deceased mortals would awaken in the 3rd period, while certain others would be asleep and awaiting a future dispensation.
 
-After which Guy adds the fact of those who “_can be prevented from leaving until the judgment of their affairs has been completed....._”. [UB 112:5.10](/en/The_Urantia_Book/112#p5_10). And we asked ourselves this question: Where are these mortals?
+After which Guy adds the fact of those who “_can be prevented from leaving until the judgment of their affairs has been completed....._”. <a id="a47_138"></a>[UB 112:5.10](/en/The_Urantia_Book/112#p5_10). And we asked ourselves this question: Where are these mortals?
 
 Guy kept us in suspense by presenting us with several suggestions related to this subject. The debates will remain open to continue to philosophize among ourselves on this enigma which is anything but mediocre. Guy's conference is available to all our members, you just have to ask the secretary to obtain it.
 
@@ -51,3 +75,28 @@ Fraternally.
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François and the Seahorse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Indefinite Pronouns</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

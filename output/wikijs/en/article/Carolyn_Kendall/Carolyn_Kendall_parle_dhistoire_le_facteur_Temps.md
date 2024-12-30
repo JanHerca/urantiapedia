@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Carolyn Kendall<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/028">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="pr-2">The art of living — according to Jesus and the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **The Time Factor — It's all in the Time factor.**
@@ -115,3 +139,28 @@ Carolyn Kendall, New York
 
 _Translated by Chris and Nicole Ragetly from an article published in Newsflash in September 2003 (the second part will appear in the next issue of Newsflash)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/028">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hubert_Gallet/Lart_de_vivre_selon_Jesus_et_LU">
+          <span class="pr-2">The art of living — according to Jesus and the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

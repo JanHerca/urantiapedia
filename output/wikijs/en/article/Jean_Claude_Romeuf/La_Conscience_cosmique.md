@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/031">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-31-autumn-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="pr-2">Discernment and Free Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 From a mental perspective, the development of cosmic consciousness is not so much about discovering and understanding the laws of rotation of planets, suns and galaxies, as it is about feeling and intellectualizing the benevolence of the universe.
@@ -31,3 +55,28 @@ His name, like ours, is eternally inscribed on the symbolic banner of the Brothe
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/031">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-31-autumn-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Discernement_et_libre_arbitre">
+          <span class="pr-2">Discernment and Free Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Semi_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semi 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Crepusculaire">
+          <span class="pr-2">Twilight</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Central Universe**
@@ -45,3 +69,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Semi_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Semi 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Crepusculaire">
+          <span class="pr-2">Twilight</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

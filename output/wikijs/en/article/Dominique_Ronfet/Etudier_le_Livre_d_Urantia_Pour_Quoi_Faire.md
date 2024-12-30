@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Dominique Ronfet<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Notre_Aventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Adventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Les_Paraboles">
+          <span class="pr-2">The Parables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -122,7 +146,32 @@ Are you coming for a drink?
 
 \- Okay. I will just end with this strange passage which reminds us that the soul must take the witness, when the intellect has reached the end of its possibilities.
 
-> “_Mind knows quantity, reality, meanings. But quality—values—is *felt.* That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes._” ([[UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
+> “_Mind knows quantity, reality, meanings. But quality—values—is *felt.* That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes._” (<a id="a148_186"></a>[[UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Notre_Aventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Adventure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Les_Paraboles">
+          <span class="pr-2">The Parables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

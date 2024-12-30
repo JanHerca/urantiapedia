@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Dominique Ronfet<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Story of a visit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-25-spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 25 — Spring 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Words of love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _I dedicate this text to the memory of Jacques Dupont who has left us._
@@ -67,3 +91,28 @@ Some then ventured towards the temple and shared their impressions with older re
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joseph_Le_Dain_et_Severin_Desbuisson/Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Story of a visit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-25-spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 25 — Spring 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Mots_damour">
+          <span class="pr-2">Words of love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

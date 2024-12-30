@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Simon Orsini<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Awakened to the fullness of life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_fee">
+          <span class="pr-2">The fairy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In the spiritual and material universe the physical elements that constitute the electron are made of another matter. If we could modify the rotation of the primary units of matter and at the same time transform these associations of energy into adapted frequencies, we could create a new substance, we would then enter a new dimension.
@@ -71,3 +95,28 @@ Long before physicists discovered the infinitesimal particles that would form th
 
 Simon Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Awakened to the fullness of life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_fee">
+          <span class="pr-2">The fairy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

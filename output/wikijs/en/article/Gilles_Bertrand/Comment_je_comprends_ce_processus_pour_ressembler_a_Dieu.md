@@ -61,7 +61,7 @@ Here are the twelve subjects proposed in this notebook and the ones correspondin
 
 In January the chosen theme is “truth”. In February, “beauty”. And so on, for the other reciprocal fields such as “goodness”, “unity”, “love”, “mercy”, “service”, “worship” which I call wonder, “joy”, “faith”, “wisdom” and “peace”.
 
-I refer you to the [UB 44:7](/en/The_Urantia_Book/44#p7) booklet to conclude my presentation, it perfectly summarizes my reasoning.
+I refer you to the <a id="a63_19"></a>[UB 44:7](/en/The_Urantia_Book/44#p7) booklet to conclude my presentation, it perfectly summarizes my reasoning.
 
 “These divine qualities are perfectly and absolutely unified in God. And every man or angel who knows God possesses the potential for unlimited self-expression on ever-progressive levels of unified self-realization <ins><b>through the technique of the endless attainment of Godlikeness</b> — the experiential blending in the evolutionary experience of eternal truth, universal beauty, and divine goodness.</ins>”
 

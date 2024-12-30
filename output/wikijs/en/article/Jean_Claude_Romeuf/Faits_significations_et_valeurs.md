@@ -9,13 +9,37 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jean-Claude Romeuf<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Was Jesus? (end)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-11-autumn-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poem…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> “_God is to science a cause, to philosophy an idea, to religion a person, even the loving heavenly Father. God is to the scientist a primal force, to the philosopher a hypothesis of unity, to the religionist a living spiritual experience. Man’s inadequate concept of the personality of the Universal Father can be improved only by man’s spiritual progress in the universe and will become truly adequate only when the pilgrims of time and space finally attain the divine embrace of the living God on Paradise._” ([UB 1:6.2](/en/The_Urantia_Book/1#p6_2))
+
+> “_God is to science a cause, to philosophy an idea, to religion a person, even the loving heavenly Father. God is to the scientist a primal force, to the philosopher a hypothesis of unity, to the religionist a living spiritual experience. Man’s inadequate concept of the personality of the Universal Father can be improved only by man’s spiritual progress in the universe and will become truly adequate only when the pilgrims of time and space finally attain the divine embrace of the living God on Paradise._” (<a id="a37_514"></a>[UB 1:6.2](/en/The_Urantia_Book/1#p6_2))
 
 **A — human level of cosmic realities or domain of facts.** We can consider as “fact” everything that exists, everything that happens, everything that is put into action: things, beings, events are facts. Their subjective analysis by the mind is the stuff of meanings.
 
-This is why facts are the building blocks that make the construction of wisdom possible ([UB 111:6.6](/en/The_Urantia_Book/111#p6_6)). They are the basic material from which the mind builds its maturity, because, devoid of meaning, they are only a static state of existence in which the notion of evolutionary growth is lacking: the mineral, the plant, man, Jupiter and Mercury are facts. As such, they are part of the domain of science and can be analyzed methodically. Facts are linked according to laws that scientific curiosity forces itself to discover and use through technology: the wind that blows gives birth to mills.
+This is why facts are the building blocks that make the construction of wisdom possible (<a id="a41_89"></a>[UB 111:6.6](/en/The_Urantia_Book/111#p6_6)). They are the basic material from which the mind builds its maturity, because, devoid of meaning, they are only a static state of existence in which the notion of evolutionary growth is lacking: the mineral, the plant, man, Jupiter and Mercury are facts. As such, they are part of the domain of science and can be analyzed methodically. Facts are linked according to laws that scientific curiosity forces itself to discover and use through technology: the wind that blows gives birth to mills.
 
 Facts, whether or not they are subject to the appreciation of the mind, can, by their intrinsic reality, express perfection on the level conferred on them: the diamond, like the nascent drop of water, satisfy the theoretical and ideal mineral purity of the terrestrial world; in the same way, God is the absolute perfect being of the paradisiacal world. Each level of cosmic reality has a degree of perfection which is specific to it, impossible to surpass but which the citizens of the universe, engaged in the ascending career, seek to attain.
 
@@ -51,3 +75,28 @@ There are also acquired values which are none other than the meanings spirituali
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Was Jesus? (end)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-11-autumn-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 11 — Autumn 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poem…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

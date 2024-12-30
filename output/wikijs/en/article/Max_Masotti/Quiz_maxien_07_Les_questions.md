@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago Symposium 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Vous_avez_de_la_valeur_a_mes_yeux">
+          <span class="pr-2">You have value in my eyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverse**
@@ -42,3 +66,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/Symposium_de_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago Symposium 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Vous_avez_de_la_valeur_a_mes_yeux">
+          <span class="pr-2">You have value in my eyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

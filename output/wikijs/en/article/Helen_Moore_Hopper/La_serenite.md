@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Helen Moore Hopper<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Happiness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Love and Respect for Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There is a state of mind that will certainly help us receive the answer to our prayers. Whatever the problem that presents itself to us, however great our need, however urgent, pressing, or desperate the situation appears, serenity will be an immediate help to us. Serenity is the quiet and calm listening to the voice of God, to the exclusion of all others. Serenity is not a static, inactive state of mind. It is a state of peace of mind based on absolute faith in God, in the God who is within us.
@@ -33,3 +57,28 @@ Let us remember that God is our LIFE. In serenity. Let us listen to His Voice in
 
 Helen Moore Hopper
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_bonheur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Happiness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Amour_et_respect_de_la_vie">
+          <span class="pr-2">Love and Respect for Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

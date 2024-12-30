@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sophie Malicot<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="pr-2">What is Behind the "I AM"?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sophie MALICOT July 2024
@@ -118,3 +142,28 @@ One certainty: when “Woman” lives, the personality knows it even if it says 
 
 _Booklet 143 chapter 5_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Editorial_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="pr-2">What is Behind the "I AM"?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

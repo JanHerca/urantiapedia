@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU 2015 Income Statement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">Sub-Saharan Africa, Fertile Land for the Teachings of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Desenzano del Garda**
@@ -44,3 +68,28 @@ And thank you to everyone who made this event possible. Oh yes, the lake water w
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Duvau/Compte_de_resultat_AFLLU_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU 2015 Income Statement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="pr-2">Sub-Saharan Africa, Fertile Land for the Teachings of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

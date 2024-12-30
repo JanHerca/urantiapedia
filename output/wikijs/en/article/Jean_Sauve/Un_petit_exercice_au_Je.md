@@ -41,7 +41,7 @@ And converted to the “I”s
 >
 > “You are commissioned to save men, not to judge them. At the end of your earth life you will all expect mercy; therefore do I require of you during your mortal life that you show mercy to all of your brethren in the flesh. Make not the mistake of trying to pluck a mote out of your brother’s eye when there is a beam in your own eye. Having first cast the beam out of your own eye, you can the better see to cast the mote out of your brother’s eye.”
 >
-> “Discern the truth clearly; live the righteous life fearlessly; and so shall you be my apostles and my Father’s ambassadors.. . .” <a id="a66_155"></a>[LU 140:3.14-18](/fr/The_Urantia_Book/140#p3_18)
+> “Discern the truth clearly; live the righteous life fearlessly; and so shall you be my apostles and my Father’s ambassadors.. . .” [LU 140:3.14-18](/fr/The_Urantia_Book/140#p3_18)
 
 What do you think?
 

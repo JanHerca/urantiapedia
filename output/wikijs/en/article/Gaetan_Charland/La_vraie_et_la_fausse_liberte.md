@@ -28,11 +28,11 @@ Closer to home, current events are full of examples where the self-affirmation t
 
 We still need to understand what this rule means so as not to interpret it in a selfish and libertarian way. Here are three quotes that highlight the golden rule.
 
-> “_The appearance of genuine brotherhood signifies that a social order has arrived in which all men delight in bearing one another’s burdens; they actually desire to practice the golden rule._” ([UB 71:4.16](/en/The_Urantia_Book/71#p4_16))
+> “_The appearance of genuine brotherhood signifies that a social order has arrived in which all men delight in bearing one another’s burdens; they actually desire to practice the golden rule._” (<a id="a30_196"></a>[UB 71:4.16](/en/The_Urantia_Book/71#p4_16))
 
-> “_. . . revealed religion lays increasing emphasis on loving, the golden rule._” ([UB 101:5.11](/en/The_Urantia_Book/101#p5_11))
+> “_. . . revealed religion lays increasing emphasis on loving, the golden rule._” (<a id="a32_84"></a>[UB 101:5.11](/en/The_Urantia_Book/101#p5_11))
 
-> “_. . . And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God._” ([UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
+> “_. . . And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in a friendly universe, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God._” (<a id="a34_350"></a>[UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/007.jpg">
@@ -43,9 +43,9 @@ If we return to this idea of true freedom, we will certainly have to do an in-de
 
 Luciferian thought in its expression of unlicensed freedom continues to create suffering in our world and will cease the day every man and woman assumes their status as a son and daughter of God. Jesus' liberating message of the Fatherhood of God and the brotherhood of man is of even greater need in our time and for many generations to come.
 
-> “_. . . The ultimate goal of society’s most advanced achievement can never hope to transcend Jesus’ brotherhood of men based on the recognition of the fatherhood of God. The ideal of all social attainment can be realized only in the coming of this divine kingdom._” ([UB 196:2.11](/en/The_Urantia_Book/196#p2_11))
+> “_. . . The ultimate goal of society’s most advanced achievement can never hope to transcend Jesus’ brotherhood of men based on the recognition of the fatherhood of God. The ideal of all social attainment can be realized only in the coming of this divine kingdom._” (<a id="a45_269"></a>[UB 196:2.11](/en/The_Urantia_Book/196#p2_11))
 
-This is a simple message that each of us can transmit, but it must be reformulated and presented in terms expressing family relationships as Jesus says so well in the booklet [UB 142:7.4](/en/The_Urantia_Book/142#p7_4)
+This is a simple message that each of us can transmit, but it must be reformulated and presented in terms expressing family relationships as Jesus says so well in the booklet <a id="a47_175"></a>[UB 142:7.4](/en/The_Urantia_Book/142#p7_4)
 
 I invite you to discuss this subject so present today in our society among friends or within your study group and to realize to what extent we live in an era filled with opportunities of all kinds to germinate the meanings of true freedom. Too often we think that our only mission is to make known ***The Urantia Book***, let us not forget that it is the teachings it contains which have supreme value when they are made alive by and in our service to others.
 

@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Ivan Stol<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">She Trembles on the Edge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Italie">
+          <span class="pr-2">Visit to Italy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Since the conference in AMSTERDAM, I was asked to participate in the national meeting of British readers of the Urantia Book. So, with the help of the association, I decided to respond and Gary Rawlings, president and organizer, kindly took care of the formalities of the stay in this Charney Manor mansion a little south of Oxford from September 7 to 10, 2018.
@@ -97,3 +121,28 @@ Ivan
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Elle_fremit_Au_Bord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">She Trembles on the Edge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Italie">
+          <span class="pr-2">Visit to Italy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

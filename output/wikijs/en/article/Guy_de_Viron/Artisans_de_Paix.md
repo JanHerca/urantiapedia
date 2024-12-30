@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Guy de Viron<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s note: Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Summer season obliges, here is a simplified edition of the Link with the resumption of two texts by Chris Ragetly, especially at the request of our friend Lucas. The first addresses the theme of suicide while the second is more of a series of short reflections.
@@ -34,3 +58,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Re">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s note: Re</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Le_suicide">
+          <span class="pr-2">Suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

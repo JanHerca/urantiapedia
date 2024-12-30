@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Jean-Louis Fournier<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My life in Paradise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="pr-2">Photos of 21.10.2010 C° Eliane</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Editor’s note: Here are two extracts from the aforementioned book.
@@ -98,3 +122,28 @@ He asked her for the last interview to get it off her chest.
 
 Jean-Louis Fournier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elisabeth_Liswen_Delval/Ma_vie_au_Paradis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My life in Paradise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Photos_du_21_10_2010_C_Eliane">
+          <span class="pr-2">Photos of 21.10.2010 C° Eliane</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

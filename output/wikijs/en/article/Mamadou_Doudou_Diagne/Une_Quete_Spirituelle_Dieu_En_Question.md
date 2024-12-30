@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Mamadou Doudou Diagne<br>© 2022 Francophone Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">From Divine Incompleteness to Human Adventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By
@@ -32,7 +56,7 @@ In fact, I am not presenting a conference in the classic sense of the term, I wo
 
 Our quest means that we consider that the human being as a creature, as an ascending mortal, has an essential objective: God who is an absolute, eternal, infinite, and perfect being. And this being, as far as man is concerned, is represented by the Thought Adjuster. But, man realizes that God is not obvious to him, as the world is to him. Indeed, neither the human sense, nor the material mind, nor the human personality seem to be sufficiently endowed with the power allowing the transparency of the spiritual reality of God. This is why man in his spiritual quest must recognize that God is a question for his conscience, a problem to be resolved, a fundamental issue.
 
-It is therefore appropriate for the human being to engage in a sincere and intimate relationship in an experience of creature to creator, which supposes that God also wants to make himself known. In reality, these are two symmetrical beings who position themselves in an ontological experience which made the Master Son Creator Jesus say, addressing Nicodemus, this very old rabbi of the Sanhedrin, “I declare to you that unless a man is born of the spirit, he cannot enter the Kingdom of God” ([UB 142:6.5](/en/The_Urantia_Book/142#p6_5)).
+It is therefore appropriate for the human being to engage in a sincere and intimate relationship in an experience of creature to creator, which supposes that God also wants to make himself known. In reality, these are two symmetrical beings who position themselves in an ontological experience which made the Master Son Creator Jesus say, addressing Nicodemus, this very old rabbi of the Sanhedrin, “I declare to you that unless a man is born of the spirit, he cannot enter the Kingdom of God” (<a id="a58_495"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)).
 
 It is this very moving central question of Nicodemus which secretes other very important ones of which I will mention 6 which seem essential to me but on which I await your enriching contributions.
 
@@ -76,3 +100,28 @@ I will conclude. God creates us and gives us the gift of life, a mind and a pers
 
 Thank you for your attention.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-98-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 98 — Juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">From Divine Incompleteness to Human Adventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

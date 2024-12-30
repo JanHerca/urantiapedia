@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discovering Paradise and Space-Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **European meeting for readers of The Urantia Book**
@@ -29,7 +50,7 @@ During the conference, 4 presentations of approximately 45 minutes will be offer
 
 A significant effort will be made in terms of translations.
 
-> “Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.”” ([[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> “Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.”” (<a id="a52_720"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 The presentations will be made by PowerPoint projected on a large screen in French or English. Depending on linguistic requirements, they will be translated, printed and distributed to participants before the screening so that they can follow the content in their language and, if necessary, ask questions. We plan to call on the goodwill of multilingual readers to lead the workshops.
 
@@ -45,3 +66,25 @@ A large place will be left for the exchanges and social fraternity of the partic
 
 We are already appealing to volunteers for the organization in the following areas: welcoming participants, translations, entertainment. Contact Georges: georges.michelsondupont777@gmail.com or Ivan: ivan.stol.is@gmail.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/A_la_decouverte_du_Paradis_et_de_l_Espace_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discovering Paradise and Space-Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

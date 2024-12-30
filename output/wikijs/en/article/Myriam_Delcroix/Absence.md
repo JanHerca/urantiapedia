@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Myriam Delcroix<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony: Diamond Wedding or Smiling Philosophy of Serene Octogenarians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-32-winter-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 32 — Winter 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style=“text-align:center”>
@@ -39,3 +60,25 @@ I go back in, I'm no longer cold, the silence spoke to me.</p>
 
 Myriam Delcroix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rene_Felix/Temoignage_Noces_de_Diamant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony: Diamond Wedding or Smiling Philosophy of Serene Octogenarians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-32-winter-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 32 — Winter 2004</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

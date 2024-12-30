@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Patrick Beaupre<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/030">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="pr-2">Beauty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There is no worse blindness than he who does not want to see.
@@ -65,7 +89,7 @@ Let us imagine for a moment our life guided solely by the feeling of this intens
 
 — But love cannot be commanded, it is love that commands you.
 
-For “the experience of loving is to a large extent a direct response to the experience of being loved.” ([UB 2:5.8](/en/The_Urantia_Book/2#p5_8))
+For “the experience of loving is to a large extent a direct response to the experience of being loved.” (<a id="a91_105"></a>[UB 2:5.8](/en/The_Urantia_Book/2#p5_8))
 
 The Father, through this exceptional generous gift, shows us that we are not isolated in a hostile universe, but on the contrary that we already belong to the great family of Universal love. It is up to us to grasp the invisible message, this accent of measured timelessness.
 
@@ -132,13 +156,38 @@ Is there a greater adventure for man than to brave all the difficulties of earth
 Better still, I affirm today: There is nothing more important in this world!
 Besides, doesn't the book end like this:
 
-> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence. Such an experience constitutes God-consciousness, an experience mightily confirmative of the pre-existent truth of the religious experience of knowing God. Such spirit-consciousness is the equivalent of the knowledge of the actuality of sonship with God. Otherwise, the assurance of sonship is the experience of faith._” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence. Such an experience constitutes God-consciousness, an experience mightily confirmative of the pre-existent truth of the religious experience of knowing God. Such spirit-consciousness is the equivalent of the knowledge of the actuality of sonship with God. Otherwise, the assurance of sonship is the experience of faith._” (<a id="a158_749"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
 What more can I say!
 
 There is no secret method. It's up to us to play from now on.
 
-> ““Your sonship is grounded in faith, and you are to remain unmoved by fear. Your joy is born of trust in the divine word, and you shall not therefore be led to doubt the reality of the Father’s love and mercy. It is the very goodness of God that leads men into true and genuine repentance. Your secret of the mastery of self is bound up with your faith in the indwelling spirit, which ever works by love. Even this saving faith you have not of yourselves; it also is the gift of God. And if you are the children of this living faith, you are no longer the bondslaves of self but rather the triumphant masters of yourselves, the liberated sons of God.” ([UB 143:2.7](/en/The_Urantia_Book/143#p2_7))
+> ““Your sonship is grounded in faith, and you are to remain unmoved by fear. Your joy is born of trust in the divine word, and you shall not therefore be led to doubt the reality of the Father’s love and mercy. It is the very goodness of God that leads men into true and genuine repentance. Your secret of the mastery of self is bound up with your faith in the indwelling spirit, which ever works by love. Even this saving faith you have not of yourselves; it also is the gift of God. And if you are the children of this living faith, you are no longer the bondslaves of self but rather the triumphant masters of yourselves, the liberated sons of God.” (<a id="a164_655"></a>[UB 143:2.7](/en/The_Urantia_Book/143#p2_7))
 
 Patrick Beaupré
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/030">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-30-summer-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 30 — Summer 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="pr-2">Beauty</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

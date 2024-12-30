@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Alain Coulombe<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="pr-2">A Little Reflection on the Power of Loving (Part 1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _This text was written by my former department head, who was, for a long time, a very assiduous reader (at least seven readings) of the UB and whom Pascal knew well. If I remember correctly, he addressed this text to people who had no knowledge of the UB, but were “curious” enough to look into it more thoroughly. It's up to you to see if he had any chance of achieving his “goal” with this text..._
@@ -51,3 +75,28 @@ The injunction of the Universal Father to human creatures is simple: “Rise up 
 
 ***to be continued***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="pr-2">A Little Reflection on the Power of Loving (Part 1)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

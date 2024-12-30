@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting in Italy Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="pr-2">Meeting with Ade Awoyinka</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Fertile land for the teachings of The Urantia Book**
@@ -79,3 +103,28 @@ Explanations: For the demographic part, these statistics present the estimates a
 
 For languages and religions, this data comes from Wikipedia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting in Italy Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="pr-2">Meeting with Ade Awoyinka</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

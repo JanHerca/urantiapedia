@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Christian Boucher<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermeticism and Eugenics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="pr-2">Being right or being happy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Prayer of this day
@@ -75,3 +99,28 @@ Knowledge smiled full of wisdom, and replied: _“It is because only Time is cap
 
 Christian Boucher
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Hermetisme_et_Eugenisme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermeticism and Eugenics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tanja_Konnerth/Avoir_raison_ou_etre_heureux">
+          <span class="pr-2">Being right or being happy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

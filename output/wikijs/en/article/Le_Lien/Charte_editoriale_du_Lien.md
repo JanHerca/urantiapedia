@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Neylière Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 DURING the General Assembly held in Neylière in this beautiful month of June in the year of grace 2015, it was proposed and approved to reformulate the editorial charter of our newspaper _le Lien_. Let us recall that _le Lien_ has been published quarterly since March 1996, the date of the creation of our association, in continuity with _La Lettre_ previously published by the C.E.R.D.H. of which our association is an emanation (See Art. 1: Constitution of the statutes).
@@ -71,7 +95,7 @@ Let us recall here that the AFLUB is an apolitical and non-denominational associ
 - Relate an event related to the _Urantia Book_.
 - Be a poetry or artistic work of Urantian inspiration.
 
-Concerning references taken from the _Urantia Book_ they must follow the internationally accepted rule: Booklet: Section. Paragraph framed by opening and closing parentheses ex: ([UB 110:3.5](/en/The_Urantia_Book/110#p3_5)) with two points after the number of the booklet, one point after the number of the section. Studies, articles or works relating to works or themes unrelated to the _Urantia Book_ will not be accepted. However, in the context of a comparative study with ideas or concepts from the _Urantia Book_ (For example a comparative study of the nature of God described in the Bible and in the _Urantia Book_) they will be accepted as long as they remain strictly within this framework.
+Concerning references taken from the _Urantia Book_ they must follow the internationally accepted rule: Booklet: Section. Paragraph framed by opening and closing parentheses ex: (<a id="a97_179"></a>[UB 110:3.5](/en/The_Urantia_Book/110#p3_5)) with two points after the number of the booklet, one point after the number of the section. Studies, articles or works relating to works or themes unrelated to the _Urantia Book_ will not be accepted. However, in the context of a comparative study with ideas or concepts from the _Urantia Book_ (For example a comparative study of the nature of God described in the Bible and in the _Urantia Book_) they will be accepted as long as they remain strictly within this framework.
 
 ## The style:
 
@@ -91,3 +115,28 @@ The Lien team wishes you profitable moments of reading and reflection.
 
 ***The editorial staff***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Neylière Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

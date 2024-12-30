@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Guy de Viron<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/055">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="pr-2">The Heavenly Funerals</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1\. Why this sudden desire to rehabilitate Paul? Quite simply by intuition or rather by cerebral itch! A visceral need to understand, recognize and esteem an extraordinary character, a monument of human personality, a spiritual beacon in the religious obscurantism of an era... With this nagging and slightly underhanded question: "Has Paul's supposed misogyny been a brake on the spiritual expression of women?
@@ -34,3 +58,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/055">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Les_Funerailles_Celestes">
+          <span class="pr-2">The Heavenly Funerals</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

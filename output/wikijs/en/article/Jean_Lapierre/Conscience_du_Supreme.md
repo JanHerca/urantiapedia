@@ -23,7 +23,7 @@ In our study group, we realized that no sophisticated teaching was necessary to 
 It is that in the revelations of Urantia we can deduce several reasons to justify the epochal revelations:
 <br style="clear:both;"/>
 
-1\. To expand our cosmic consciousness and enhance our spiritual perception [UB 0:0.2](/en/The_Urantia_Book/0#p0_2).
+1\. To expand our cosmic consciousness and enhance our spiritual perception <a id="a25_76"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2).
 2. The institutional religions currently on our planet possess very few of the desirable characteristics described in booklet 99.
 3\.
 
@@ -32,7 +32,7 @@ It is that in the revelations of Urantia we can deduce several reasons to justif
 > 2. The co-ordination of known or about-to-be-known facts and observations.
 > 3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past.
 > 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge.
-> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation. ([UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5))
+> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation. (<a id="a34_129"></a>[UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5))
 
 4. The great gap in our societies between material and scientific progress compared to spiritual progress, which remains embryonic, results mainly from the rebellion of Lucifer and the Adamic fault.
 

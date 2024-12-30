@@ -9,6 +9,27 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interactive Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The Entities, Beings, and Personalities of The Urantia Book
@@ -91,3 +112,25 @@ Email: afllu@urantia.fr
 
 ***Prices listed for this listing are “shipping not included”.***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Groupe_d_etude_interactif_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interactive Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

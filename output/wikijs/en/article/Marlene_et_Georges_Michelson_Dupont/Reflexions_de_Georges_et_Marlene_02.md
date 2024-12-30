@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Marlène and Georges Michelson-Dupont<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brother Dominique's Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (FOLLOWING ARTICLE 39 IN LINK)
@@ -33,7 +54,7 @@ This is why he has provided his creatures with everything necessary to be able t
 
 The very notion of progress implies the idea of time and space. This is why, for us creatures, we need a beginning in time, a birth in a place in space. This is the beginning of our life.
 
-The Urantia Book defines life as follows: “Life is in reality a process which takes place between the organism (individuality) and its environment. Personality communicates values of identity and meanings of continuity to this association of an organism and an environment.” ([UB 112:1.13](/en/The_Urantia_Book/112#p1_13))
+The Urantia Book defines life as follows: “Life is in reality a process which takes place between the organism (individuality) and its environment. Personality communicates values of identity and meanings of continuity to this association of an organism and an environment.” (<a id="a56_276"></a>[UB 112:1.13](/en/The_Urantia_Book/112#p1_13))
 
 Since conception, and throughout human life, man constructs, in his mind and by a conscious and unconscious process of association of ideas, a set of reactions (one could speak of conditioning) to the environment to form what is commonly called character. For example, if we accustom a child from a very young age to sharing with his brother, this association of ideas will serve as a preferred response to the environment in similar situations. Thus the free will with which our personality is endowed will tend to respond in a recurring manner to similar situations.
 
@@ -61,3 +82,25 @@ We will see you in the next “Link” to discuss this fascinating subject.
 
 Marlène \& Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brother Dominique's Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

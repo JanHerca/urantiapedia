@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Sophie Malicot<br>© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/21_AOUT_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AUGUST 21, 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Nouvelles_des_Groupes_Francophones">
+          <span class="pr-2">News from the French-speaking Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dare God, in ordinary life. Without departure but presence. Penetrate the Divine Life; let yourself be penetrated. Touch Christic Love — let yourself be set ablaze. Love so immeasurably overwhelming that the upheaval is barely bearable. He loves everything, overturns everything, armor, feelings, attractions and aversions: nothing stands up to it and no reference remains; poor references! This Love transgresses, pierces and transfigures.
@@ -23,3 +47,28 @@ And the possibility of saying Yes.
 
 Sophie Malicot
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/21_AOUT_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AUGUST 21, 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Nouvelles_des_Groupes_Francophones">
+          <span class="pr-2">News from the French-speaking Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

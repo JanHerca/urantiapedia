@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Agondontarians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Ponce_Pilate">
+          <span class="pr-2">Pontius Pilate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 God is all love and goodness. He is all mercy and all charity.
@@ -35,3 +59,28 @@ _Extract from the book “The Tomb Speaks” 1932_
 
 Edgar Cayce
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Les_Agondontaires">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Agondontarians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Ponce_Pilate">
+          <span class="pr-2">Pontius Pilate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

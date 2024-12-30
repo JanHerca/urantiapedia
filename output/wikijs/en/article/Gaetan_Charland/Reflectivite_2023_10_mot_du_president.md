@@ -39,7 +39,7 @@ concerning the training of educators and leaders. Too often, we brandish the sca
 <img src="/image/article/Reflectivite/2023_10/002.jpg">
 </figure>
 
-It must be remembered that there is only a minority of people in the world who will be interested in reading ***The Urantia Book***. The task of sharing the teachings of the revelation falls to us. Machiventa Melchizedek himself trained hundreds of educators who traveled the world. Jesus also trained many educators who in turn traveled the world. So what are we waiting for to do the same? I invite you to read these passages [UB 93:6.8](/en/The_Urantia_Book/93#p6_8) and [UB 93:7.1](/en/The_Urantia_Book/93#p7_1) if you doubt what I say.
+It must be remembered that there is only a minority of people in the world who will be interested in reading ***The Urantia Book***. The task of sharing the teachings of the revelation falls to us. Machiventa Melchizedek himself trained hundreds of educators who traveled the world. Jesus also trained many educators who in turn traveled the world. So what are we waiting for to do the same? I invite you to read these passages <a id="a41_428"></a>[UB 93:6.8](/en/The_Urantia_Book/93#p6_8) and <a id="a41_474"></a>[UB 93:7.1](/en/The_Urantia_Book/93#p7_1) if you doubt what I say.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2023_10/002b.jpg">
@@ -49,7 +49,7 @@ I would also like to share with you my definition of what an educator is for me,
 
 We cannot transform ourselves alone in our corner reading for years. We need contact with our brothers and sisters who travel the same path and by sharing experiences that enrich our souls. But even that is not enough, we must practice the lessons learned and there is nothing more effective than service to others, all kinds of service provided that it is done with love for the other in the awareness of serving a son of God. Service transforms us, gives spiritual meaning to our life and allows us to shine the light of the truth that lives within us. The more we serve with love, the better we become as educators.
 
-“If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” [UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
+“If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” <a id="a51_284"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
 
 For many years, the Urantia Association of Quebec has offered its members and readers multiple opportunities and means to help become better disseminators and educators of truths. What will it take to wake us up? Will we have to wait for another generation of readers to carry the torch? There are many courses offered in different schools, all of these courses are made available to us not only to enrich us intellectually, but also spiritually. For me, growing spiritually means giving back what I have received, as Jesus said, “you have received liberally, give liberally.” And a good way to give back is to become educators, servants.
 

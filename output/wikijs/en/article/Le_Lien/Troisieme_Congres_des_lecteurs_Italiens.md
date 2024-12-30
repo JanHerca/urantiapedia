@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Annual Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="pr-2">Assembly of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _with the participation of French-speaking readers_
@@ -30,7 +54,7 @@ The Congress is open to any reader or supporter of _The Urantia Book_.
 
 ## The theme will be: the will of the Father
 
-([UB 108:2.10](/en/The_Urantia_Book/108#p2_10) — [UB 11:5.4](/en/The_Urantia_Book/11#p5_4) — [UB 141:2.2](/en/The_Urantia_Book/141#p2_2) — [UB 153:3.2](/en/The_Urantia_Book/153#p3_2) — [UB 110](/en/The_Urantia_Book/110#) — [UB 111](/en/The_Urantia_Book/111#).)
+(<a id="a56_1"></a>[UB 108:2.10](/en/The_Urantia_Book/108#p2_10) — <a id="a56_49"></a>[UB 11:5.4](/en/The_Urantia_Book/11#p5_4) — <a id="a56_93"></a>[UB 141:2.2](/en/The_Urantia_Book/141#p2_2) — <a id="a56_139"></a>[UB 153:3.2](/en/The_Urantia_Book/153#p3_2) — [UB 110](/en/The_Urantia_Book/110#) — [UB 111](/en/The_Urantia_Book/111#).)
 
 We will meet in Rimini, a charming Italian town, described below.
 
@@ -78,3 +102,28 @@ During the Renaissance, the city became the domain of the princes of Malatesta -
 
 This small town offers plenty of opportunities for both tourism and relaxation.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Annual Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="pr-2">Assembly of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

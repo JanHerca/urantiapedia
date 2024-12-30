@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 René Roman<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Human Philosophy and Mota</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear friends and fellow readers of _The Urantia Book_:
@@ -35,13 +59,38 @@ The publication of The Urantia Book was somewhat premature, for it was published
 
 With Jesus Christ, Michael of Nebadon, the word of God was made flesh. With The Urantia Book, even if the Divine Master was crucified, this word is in the Book and we cannot keep silent or silence these written teachings.
 
-The revelators, as evidenced on pages [UB 30:0.2](/en/The_Urantia_Book/30#p0_2), and [UB 101:4.2](/en/The_Urantia_Book/101#p4_2), give a period of 1,000 years to this fifth historical revelation, which follows the bestowal of the sovereign creator of the local universe of Nebadon in the flesh of Jesus of Nazareth, his life and works (the Fourth Revelation).
+The revelators, as evidenced on pages <a id="a61_38"></a>[UB 30:0.2](/en/The_Urantia_Book/30#p0_2), and <a id="a61_85"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2), give a period of 1,000 years to this fifth historical revelation, which follows the bestowal of the sovereign creator of the local universe of Nebadon in the flesh of Jesus of Nazareth, his life and works (the Fourth Revelation).
 
 Urantia was privileged to be chosen by Michael of Nebadon as the world of his seventh bestowal, that is, one of the 3,840,101 inhabited planets in all of Nebadon at the time of this Revelation (1934-1935). If we take into account the age after the bestowal of a Paradise Son, which may still extend from 10,000 to 100,000 Earth years before the next evolutionary step, that of the arrival of the Trinity Teacher Sons, in increments of 1,000 years and more to arrive at Light and Life, we understand that the time in which we find ourselves is only 54 years since the publication of The Urantia Book; This means that we are barely living the history of the construction of the first advances on the future avant-garde detachments of this Revelation.
 
 Building a study group is an effort that can have significant results beyond this life. However many obstacles we encounter, we will overcome with the help of our Universal Father and our own decisions for survival. They apply the Nebadonic system of instruction to build character; we are assigned a task and instructed on how best to carry it out.
 
-> “5. *Spiritual insight.* The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man.” ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> “5. *Spiritual insight.* The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man.” (<a id="a67_644"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 
 Rene Roman
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Human Philosophy and Mota</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

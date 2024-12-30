@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adjuster, Absoluteness and Fusion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Readers' Mail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John Claude Romeuf
@@ -131,3 +155,28 @@ hands; without measure with infinite confidence, because You are my Father.
 
 Charles de Foucauld.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adjuster, Absoluteness and Fusion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Coeurrier_des_lecteurs_01">
+          <span class="pr-2">Readers' Mail</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

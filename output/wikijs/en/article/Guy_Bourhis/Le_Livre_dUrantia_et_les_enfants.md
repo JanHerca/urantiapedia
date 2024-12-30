@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Guy Bourhis<br>© 1998 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Emergence and Finality of Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Text of a conference given by Guy Bourhis in Paris in 1984. This text is a sort of introduction for a much longer study on the same subject. This study entitled “Journey into the heart of a child” will soon be available._
@@ -60,3 +84,28 @@ One more word: Laurent and Virginie have found a follower of their age: Tanguy w
 
 He too was 6 or 7 years old when he first read The Urantia Book. In their common opinion, children their age in 1984 laugh and mock when the role of the Adjuster is mentioned. They themselves draw the conclusion: at 11 or 12 years old, it **is already too late...**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-7-autumn-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 7 — Autumn 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Emergence_et_finalite_de_ladoration">
+          <span class="pr-2">Emergence and Finality of Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

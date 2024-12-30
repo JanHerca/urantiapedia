@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Philip Calabrese<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to Live with an Open Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _by Philip G. Calabrese_
@@ -273,6 +294,28 @@ The one-eyed agnostic scientist errs when he insists that determinism is all the
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How to Live with an Open Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 
@@ -306,6 +349,6 @@ The one-eyed agnostic scientist errs when he insists that determinism is all the
 
 [^15]: “Free Will Belief and Reality” R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p 51 in [1]
 
-[^16]: _The Urantia Book_, (The Urantia Book) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. ([UB 130:2.10](/en/The_Urantia_Book/130#p2_10))
+[^16]: _The Urantia Book_, (The Urantia Book) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a351_111"></a>[UB 130:2.10](/en/The_Urantia_Book/130#p2_10))
 
 [^17]: “Free Will Belief and Reality” R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p65 in [1]

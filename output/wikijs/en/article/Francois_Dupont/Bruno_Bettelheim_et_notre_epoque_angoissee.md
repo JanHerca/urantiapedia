@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Dupont<br>© 1996 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-3-winter-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 3 — Winter 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The ends of centuries, the ends of millennia and even more so the ends of civilizations have always aroused reactions of fear and anxiety in the face of what was going to happen. It is as if each secular transition of a millennium could only bring profound and lasting upheavals. Perhaps what we feared most, in this change in the state of things, was the fact of not being able to adapt to it, or the idea that inevitably, new catastrophes would emerge from behind the threatening horizons of this end of the period.
@@ -21,9 +42,9 @@ Here is what the famous psychologist Bruno Bettelheim thinks:
 
 Bruno Bettelheim, page 128 — “_Once again, if society has become more powerful, it is to the detriment of the citizen. Society being more powerful than ever, and the individual more anxious than he has ever been at any time in the past, he must rely, for his survival, on those who run this society. The physical distance which separates the individual from those who run him, prevents the individual from verifying whether his trust in their good will is justified, a process which could be disastrous for his feeling of economic and social security._”
 
-> 1. Is *courage—*strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments. ([UB 3:5.6](/en/The_Urantia_Book/3#p5_6))
+> 1. Is *courage—*strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments. (<a id="a44_171"></a>[UB 3:5.6](/en/The_Urantia_Book/3#p5_6))
 
-> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. ([UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
+> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. (<a id="a46_147"></a>[UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
 
 This rather pessimistic speech is nuanced by what he says a little further on:
 
@@ -31,11 +52,11 @@ Bruno Bettelheim, page 145 — “_An era that encourages man to let the machine
 
 But, for its part, the _URANTIA Book_ gives us the assurance that our tribulations are a necessary evil:
 
-> “_Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution._” ([UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
+> “_Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution._” (<a id="a54_386"></a>[UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
 
 He even tells us what needs to be corrected in our attitude towards this mental suffering:
 
-> “_The Third Source and Center, the universal intelligence, is personally conscious of every *mind,* every intellect, in all creation, and he maintains a personal and perfect contact with all these physical, morontial, and spiritual creatures of mind endowment in the far-flung universes. All these activities of mind are grasped in the absolute mind-gravity circuit which focalizes in the Third Source and Center and is a part of the personal consciousness of the Infinite Spirit._” ([UB 9:6.1](/en/The_Urantia_Book/9#p6_1))
+> “_The Third Source and Center, the universal intelligence, is personally conscious of every *mind,* every intellect, in all creation, and he maintains a personal and perfect contact with all these physical, morontial, and spiritual creatures of mind endowment in the far-flung universes. All these activities of mind are grasped in the absolute mind-gravity circuit which focalizes in the Third Source and Center and is a part of the personal consciousness of the Infinite Spirit._” (<a id="a58_486"></a>[UB 9:6.1](/en/The_Urantia_Book/9#p6_1))
 
 Personally, I think that, among the assiduous readers and persevering students of The URANTIA Book, there are not or could be any truly anxious people, afraid of a future that is, in short, quite close, trembling for their children, hesitating to commit to anything.
 
@@ -45,3 +66,25 @@ Who would accept the challenge of taking the plunge and writing down their own t
 
 François Dupont — Brussels
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-3-winter-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 3 — Winter 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

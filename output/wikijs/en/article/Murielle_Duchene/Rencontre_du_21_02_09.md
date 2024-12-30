@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Murielle Duchêne<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Philosophy and Mota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/La_Tolerance">
+          <span class="pr-2">Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On Saturday, February 21, 2009, 21 people from different reading groups of the _Urantia Book_ met in **Liège** at the bookstore “Les Arcanes de la Connaissance”. The theme of the meeting was “The Thought Adjusters”.
@@ -29,3 +53,28 @@ We thank **Jean** and **Isabelle** Annet for this successful meeting and hope fo
 
 Murielle Duchêne, a convinced Urantian!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Philosophy and Mota</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/La_Tolerance">
+          <span class="pr-2">Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

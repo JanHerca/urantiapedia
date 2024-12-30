@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Alain Degoumois<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guten Tag Urantia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="pr-2">Blue Eyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Make your life a work of art.
@@ -47,3 +71,28 @@ In the Unconditional Love of time, your most beautiful present.
 
 Alain Degoumois
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Guten_Tag_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guten Tag Urantia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Les_Yeux_Bleus">
+          <span class="pr-2">Blue Eyes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,13 +9,37 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Chris Ragetly<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Word from the President</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-39-summer-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 39 — Summer 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">Brother Dominique's Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Why use... _the technique of approaching man and his planetary problems, by undertaking the journey in space-time from the infinite, eternal and divine Paradise Source-Center of all personality reality and all cosmic existence._
 
 Many readers or prospective readers of _The Urantia Book_ prefer to begin their reading with the life of Jesus or with another part of the book, without starting at the beginning. _The Urantia Book_ gives us some very good reasons to start at the beginning. Here are a few:
 
-> _For example: The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to *spiritual wisdom.* Such a procedure is the easiest path to a certain form of *genetic knowledge,* but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._ ([UB 19:1.5](/en/The_Urantia_Book/19#p1_5))
+> _For example: The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to *spiritual wisdom.* Such a procedure is the easiest path to a certain form of *genetic knowledge,* but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._ (<a id="a41_469"></a>[UB 19:1.5](/en/The_Urantia_Book/19#p1_5))
 
 By following the advice of the author (a Divine Advisor), our human mind unconsciously becomes in tune with the cosmic mind, or at least it tries to do so, which is not so bad, it is the first step towards spiritual wisdom.
 
@@ -47,3 +71,28 @@ Chris Ragetly
 
 (Quotations from _The Urantia Book_ are in italics. They are all on page 215. The boldface words are mine.)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Word from the President</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-39-summer-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 39 — Summer 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">Brother Dominique's Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

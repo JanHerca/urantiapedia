@@ -27,7 +27,7 @@ Our planet has experienced rebellion and the Adamic fault which caused many misf
 - We are agondontaries and this inherent quality will remain for eternity in service.
 - We benefited from the 4th epochal revelation (the bestowal of Michael on our planet).
 - We have been granted the 5th epochal revelation (***The Urantia Book***). This revelation is the equivalent of the teachings of the mansion worlds up to the 5th and beyond regarding our relationship in eternity and infinity.
-- The 24 Urantia counselors who directly represent Michael and Gabriel on Jerusem come from our planet. [UB 114:3.5](/en/The_Urantia_Book/114#p3_5)
+- The 24 Urantia counselors who directly represent Michael and Gabriel on Jerusem come from our planet. <a id="a29_104"></a>[UB 114:3.5](/en/The_Urantia_Book/114#p3_5)
 - Michael himself has become our planetary Prince.
 - An invisible planetary government has taken over the two cultural centers that we should have had on our planet if everything had gone normally.
 - The ascenders of our local universe who come from very advanced planets, before continuing their ascension towards the minor sector, must provide service on planets such as ours.

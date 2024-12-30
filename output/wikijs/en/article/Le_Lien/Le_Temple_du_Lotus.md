@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">War Doctor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -31,3 +55,28 @@ Designed as a barely open lotus flower, the work includes 27 petals on 9 sides (
 
 Since its opening in December 1986, the Lotus Temple has been receiving a large number of visitors, both Indian and foreign, tourists and pilgrims, men and women of different faiths and religions. It receives an average of **four million** visitors per year, especially during the Hindu festival season.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-65-winter-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 65 — Winter 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Medecin_de_guerre">
+          <span class="pr-2">War Doctor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

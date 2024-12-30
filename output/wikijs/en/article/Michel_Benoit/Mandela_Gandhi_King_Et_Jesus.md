@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Michel Benoît<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On freedom and the mode of evolution of civilization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-68-autumn-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 68 — Autumn 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_19_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°19 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The global emotion at the death of Nelson Mandela shows how much we need prophets - how cruelly we lack them. How small they seem next to them, these political leaders to whom we entrust power - so what should they do with it?
@@ -37,3 +61,28 @@ Michael Benoit
 <figcaption>“I leap with mighty faith to do the things that are mine to do!”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/De_la_liberte_et_du_mode_d_evolution_de_la_civilisation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On freedom and the mode of evolution of civilization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-68-autumn-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 68 — Autumn 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_19_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°19 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

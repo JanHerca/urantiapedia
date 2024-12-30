@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The History of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — Mars 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 https://fr.wikipedia.org/wiki/Division_cellulaire
@@ -31,3 +55,28 @@ Disorders of cell divisions can be the cause of tumors and cancers. Anarchic cel
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Halvorson/L_histoire_De_La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The History of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-97-mars-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 97 — Mars 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/EON_Wikipedia">
+          <span class="pr-2">EON (Wikipedia)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

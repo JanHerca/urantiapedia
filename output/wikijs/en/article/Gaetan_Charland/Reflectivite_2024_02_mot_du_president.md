@@ -22,7 +22,7 @@ Dear readers and members of the association,
 
 As we begin this new year, perhaps you have felt the call or inspiration to immerse yourself once again in reading and studying the teachings of The Urantia Book. Some of you may have decided to join a study group or take one of the many courses offered by UBIS, UUI, Divine Wisdom Progressive, or the Ambassador School. These multiple activities are often necessary to nourish and maintain the spiritual flame that burns within us.
 
-> Mortals come from races that are very social. The Creators well know that it is “not good for man to be alone,” and provision is accordingly made for companionship, even on Paradise. ([UB 25:8.4](/en/The_Urantia_Book/25#p8_4))
+> Mortals come from races that are very social. The Creators well know that it is “not good for man to be alone,” and provision is accordingly made for companionship, even on Paradise. (<a id="a24_186"></a>[UB 25:8.4](/en/The_Urantia_Book/25#p8_4))
 
 Even in our advanced spiritual progression, the need for companions with whom to share remains crucial. Thus, we need companions on this planet with whom we can share our spiritual interests and concerns. Few of us can simply share these topics with those close to us. In the Urantia movement, I know of only a few. That is why it is essential that we come together to cultivate the courage necessary to continue our spiritual progression.
 
@@ -43,7 +43,7 @@ It is important to remember that Lucifer's rebellion was aimed at depriving us o
 
 I conclude this message by inviting you to meditate on this passage:
 
-> “But in the work which is just ahead of us, and in that which remains for you . . . you will be grievously tried. You must all be on your watch against fear and doubts. Every one of you, gird up the loins of your minds and let your lamps be kept burning.” ([UB 165:5.5](/en/The_Urantia_Book/165#p5_5))
+> “But in the work which is just ahead of us, and in that which remains for you . . . you will be grievously tried. You must all be on your watch against fear and doubts. Every one of you, gird up the loins of your minds and let your lamps be kept burning.” (<a id="a45_259"></a>[UB 165:5.5](/en/The_Urantia_Book/165#p5_5))
 
 To love is to serve
 

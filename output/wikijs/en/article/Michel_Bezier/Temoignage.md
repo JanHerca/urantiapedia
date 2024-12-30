@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Michel Bezier<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaxation corner: I am no longer afraid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The spirit which animates us with its boundless love pushes us to consciously trace our path in life.
@@ -53,3 +74,25 @@ Eternal Wisdom, we salute you with deference and we place ourselves with absolut
 
 Michel Bezier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Coin_detente_Je_nai_plus_peur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaxation corner: I am no longer afraid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

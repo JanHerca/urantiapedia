@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Ivan Stol<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dropper, the Spoon and the Shovel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/IV_Congres_en_Italie">
+          <span class="pr-2">IV Congress in Italy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 This INTERNATIONAL meeting brought together 180 people in the NETHERLANDS, a little far from Amsterdam in a somewhat specific conference setting. The organization was well thought out, with speeches that were not too long, well-prepared and effective group studies and substantial discussion time. There were, as usual, a few “hiccups” and the price certainly dissuaded some from coming from far away. The French were present (10 or 11) among around 25 French speakers.
@@ -42,3 +66,28 @@ This meeting ended with the official announcement of the following international
 Friendships
 Ivan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Linthicum/Le_Compte_Goutte_La_Cuillere_Et_La_Pelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Dropper, the Spoon and the Shovel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/IV_Congres_en_Italie">
+          <span class="pr-2">IV Congress in Italy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

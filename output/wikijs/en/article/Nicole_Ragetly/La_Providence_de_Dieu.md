@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nicole Ragetly<br>© 2002 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">If...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-24-winter-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 24 — Winter 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Sudden Awakening</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Many Urantians have misunderstood the Providence of God. There is, in fact, a divine providential plan for our planet. The Providence of God is expressed in the combined actions of celestial beings and divine spirits, who, in harmony with cosmic law, are continually working for the honor of God and the spiritual progress of his universe children.
@@ -61,3 +85,28 @@ When we pray for providential intervention, the answer to that prayer is often f
 
 Nicole Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Si">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">If...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-24-winter-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 24 — Winter 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Reveil_soudain">
+          <span class="pr-2">Sudden Awakening</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

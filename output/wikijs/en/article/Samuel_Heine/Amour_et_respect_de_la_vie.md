@@ -9,15 +9,39 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Samuel Heine<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Rodan's Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hello everyone, friends, readers, students of the Urantia Book and all those living in a living way dedicated to God. I wanted to make this little sharing to express to what extent the nature of the surrounding environment which includes the mineral, the vegetable and the animal is of capital importance for the survival of humans.
 
-“Nature does not confer any rights on man. It only gives him life and a world in which to live it. Nature does not even guarantee him the right to remain alive, as one can realize by imagining what would probably happen if an unarmed man met face to face a hungry tiger in a virgin forest. The primary gift that society gives to men is security.” ([UB 70:9.1](/en/The_Urantia_Book/70#p9_1)) I will add to this passage that it is true that the primary gift that society gives to men is security but that nevertheless this cannot be done without respect for nature and its laws. Let us not forget that we are totally dependent on it. Hence this quote from J.M. Frères: “Yesterday, we did not want to share the riches of this earth, tomorrow, we risk having to share the misery of the world that man has engendered by his greed and his selfishness.”
+“Nature does not confer any rights on man. It only gives him life and a world in which to live it. Nature does not even guarantee him the right to remain alive, as one can realize by imagining what would probably happen if an unarmed man met face to face a hungry tiger in a virgin forest. The primary gift that society gives to men is security.” (<a id="a39_348"></a>[UB 70:9.1](/en/The_Urantia_Book/70#p9_1)) I will add to this passage that it is true that the primary gift that society gives to men is security but that nevertheless this cannot be done without respect for nature and its laws. Let us not forget that we are totally dependent on it. Hence this quote from J.M. Frères: “Yesterday, we did not want to share the riches of this earth, tomorrow, we risk having to share the misery of the world that man has engendered by his greed and his selfishness.”
 
 I think that the organization of the “hundred” followed by the arrival of the planetary “Adam and Eve” should allow us to more easily achieve the balance of social evolution while respecting nature and its laws. Ecology is for me the proof that we are moving in this direction. Of course, there are many other battles to be fought so that Love, Joy and Peace reign on earth. It is therefore up to each of us to invest in our preferred field. And God knows there are many where opposites must be harmonized. May we therefore keep in mind that this challenge is part of our consecration to God.
 
-> “_The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them—advance in spirit status—by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always—in any sphere, in all of them—this is to choose to do the will of God. If man thus chooses, he *is* great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia._” ([UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
+> “_The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them—advance in spirit status—by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always—in any sphere, in all of them—this is to choose to do the will of God. If man thus chooses, he *is* great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia._” (<a id="a43_486"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
 
 Then, I also wanted to share this other subject that fascinates me: beekeeping, of which here is an extract from the book “Beekeeping for All” by Abbé Warre:
 
@@ -39,7 +63,32 @@ Bees have this good thing that they always seem to be the same. Years pass, we b
 
 As a nature lover said: Happy is he who, in the evening, lying on the grass near the apiary, in the company of his dog, has heard the song of the bees blending with the chirping of the crickets, the sound of the wind in the trees, the twinkling of the stars, the slow march of the clouds.
 
-> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». (<a id="a64_253"></a>[LU 194:3.18-19](/fr/The_Urantia_Book/194#p3_18))
+> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». ([LU 194:3.18-19](/fr/The_Urantia_Book/194#p3_18))
 
 Samuel Heine
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_serenite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="pr-2">Rodan's Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

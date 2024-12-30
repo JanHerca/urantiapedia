@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Dominique Ronfet<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Feedback</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Below you will find a Fantasy on a major theme, written in recent days but which results from a constant meditation on a form of “impermanence” of existence.
@@ -93,9 +117,34 @@ Which we can very well achieve slightly.<br>
 Dominique<br>
 </p>
 
-> “It is impossible accurately to determine, simultaneously, the exact location and the velocity of a moving object; any attempt at measurement of either inevitably involves change in the other. The same sort of a paradox confronts mortal man when he undertakes the chemical analysis of protoplasm. The chemist can elucidate the chemistry of *dead* protoplasm, but he cannot discern either the physical organization or the dynamic performance of *living* protoplasm. Ever will the scientist come nearer and nearer the secrets of life, but never will he find them and for no other reason than that he must kill protoplasm in order to analyze it. Dead protoplasm weighs the same as living protoplasm, but it is not the same.” ([UB 65:6.1](/en/The_Urantia_Book/65#p6_1))
+> “It is impossible accurately to determine, simultaneously, the exact location and the velocity of a moving object; any attempt at measurement of either inevitably involves change in the other. The same sort of a paradox confronts mortal man when he undertakes the chemical analysis of protoplasm. The chemist can elucidate the chemistry of *dead* protoplasm, but he cannot discern either the physical organization or the dynamic performance of *living* protoplasm. Ever will the scientist come nearer and nearer the secrets of life, but never will he find them and for no other reason than that he must kill protoplasm in order to analyze it. Dead protoplasm weighs the same as living protoplasm, but it is not the same.” (<a id="a119_725"></a>[UB 65:6.1](/en/The_Urantia_Book/65#p6_1))
 
-> “The great problem of life is the adjustment of the ancestral tendencies of living to the demands of the spiritual urges initiated by the divine presence of the Mystery Monitor. While in the universe and superuniverse careers no man can serve two masters, in the life you now live on Urantia every man must perforce serve two masters. He must become adept in the art of a continuous human temporal compromise while he yields spiritual allegiance to but one master; and this is why so many falter and fail, grow weary and succumb to the stress of the evolutionary struggle.” ([UB 109:5.4](/en/The_Urantia_Book/109#p5_4))
+> “The great problem of life is the adjustment of the ancestral tendencies of living to the demands of the spiritual urges initiated by the divine presence of the Mystery Monitor. While in the universe and superuniverse careers no man can serve two masters, in the life you now live on Urantia every man must perforce serve two masters. He must become adept in the art of a continuous human temporal compromise while he yields spiritual allegiance to but one master; and this is why so many falter and fail, grow weary and succumb to the stress of the evolutionary struggle.” (<a id="a121_577"></a>[UB 109:5.4](/en/The_Urantia_Book/109#p5_4))
 
-> “Divine truth is a spirit-discerned and living reality. Truth exists only on high spiritual levels of the realization of divinity and the consciousness of communion with God. You can know the truth, and you can live the truth; you can experience the growth of truth in the soul and enjoy the liberty of its enlightenment in the mind, but you cannot imprison truth in formulas, codes, creeds, or intellectual patterns of human conduct. When you undertake the human formulation of divine truth, it speedily dies. The post-mortem salvage of imprisoned truth, even at best, can eventuate only in the realization of a peculiar form of intellectualized glorified wisdom. Static truth is dead truth, and only dead truth can be held as a theory. Living truth is dynamic and can enjoy only an experiential existence in the human mind.” ([UB 180:5.2](/en/The_Urantia_Book/180#p5_2))
+> “Divine truth is a spirit-discerned and living reality. Truth exists only on high spiritual levels of the realization of divinity and the consciousness of communion with God. You can know the truth, and you can live the truth; you can experience the growth of truth in the soul and enjoy the liberty of its enlightenment in the mind, but you cannot imprison truth in formulas, codes, creeds, or intellectual patterns of human conduct. When you undertake the human formulation of divine truth, it speedily dies. The post-mortem salvage of imprisoned truth, even at best, can eventuate only in the realization of a peculiar form of intellectualized glorified wisdom. Static truth is dead truth, and only dead truth can be held as a theory. Living truth is dynamic and can enjoy only an experiential existence in the human mind.” (<a id="a123_830"></a>[UB 180:5.2](/en/The_Urantia_Book/180#p5_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/La_Vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-103-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 103 — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pascal_Coulombe/Retour_D_experience">
+          <span class="pr-2">Feedback</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

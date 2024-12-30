@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Simon Orsini<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science And Revelations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">The Urantia Book In Esperanto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 How was our universe created? A major question for astrophysics, but not for believers.
@@ -80,3 +104,28 @@ https://www.futura-sciences.com/sciences/
 <img src="/image/article/Le_Lien/images_03/045.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrice_Monsigny/Science_Et_Revelations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science And Revelations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Le_Livre_D_urantia_En_Esperanto">
+          <span class="pr-2">The Urantia Book In Esperanto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

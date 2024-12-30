@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Unconscious and the Superconscious</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Publications_autour_du_LU">
+          <span class="pr-2">Publications on the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > In the new edition of _Link_, we invite you to explore some concepts from _The Urantia Book_ in an interactive way, a bit like a study group. Questions on a given theme will be asked with a list of readings suggested to answer them.
@@ -43,47 +67,72 @@ This statement raises three questions:
 
 What is perfection? Perfection over time is relative and shows different levels of progressive achievement.
 
-Does God have a plan that would make the achievement of perfection possible? “And the whole arrangement of living existences on the worlds of space is centered on the divine purpose of elevating all creatures endowed with will to a high destiny, the experience of sharing in the paradisiacal perfection of the Father.” ([UB 2:2.5](/en/The_Urantia_Book/2#p2_5)) answers the Divine Counselor.
+Does God have a plan that would make the achievement of perfection possible? “And the whole arrangement of living existences on the worlds of space is centered on the divine purpose of elevating all creatures endowed with will to a high destiny, the experience of sharing in the paradisiacal perfection of the Father.” (<a id="a69_320"></a>[UB 2:2.5](/en/The_Urantia_Book/2#p2_5)) answers the Divine Counselor.
 
 How can we know his will? Being finite creatures we cannot know it unless he himself reveals it to us through epochal or personal revelation.
 
 The authors of the _Urantia Book_, by providing concrete answers to these fundamental questions, give us practical solutions that can be used in our daily lives while broadening the fields of our cosmic consciousness.
 
-***Question 1***: _Read the following sections_: [UB 1:0](/en/The_Urantia_Book/1#p0) ; [UB 26:4-11](/en/The_Urantia_Book/26#p4).
+***Question 1***: _Read the following sections_: <a id="a75_49"></a>[UB 1:0](/en/The_Urantia_Book/1#p0) ; <a id="a75_87"></a>[UB 26:4-11](/en/The_Urantia_Book/26#p4).
 
-Perfection, the Divine Counselor tells us, can be absolute, relative or imperfect in seven conceivable types. ([UB 0:1.17](/en/The_Urantia_Book/0#p1_17)). The present goal set by God for us ascending creatures is perfection on the finite level of existence. It is progressively actualized by marking stages, intermediate achievements of perfection. For example, fusion with our Thought Adjuster denotes that we have eternally and irrevocably chosen to do the will of the Father ([UB 111:3.1](/en/The_Urantia_Book/111#p3_1)) which constitutes an experiential achievement of relative perfection of our will in relation to this goal.
+Perfection, the Divine Counselor tells us, can be absolute, relative or imperfect in seven conceivable types. (<a id="a77_111"></a>[UB 0:1.17](/en/The_Urantia_Book/0#p1_17)). The present goal set by God for us ascending creatures is perfection on the finite level of existence. It is progressively actualized by marking stages, intermediate achievements of perfection. For example, fusion with our Thought Adjuster denotes that we have eternally and irrevocably chosen to do the will of the Father (<a id="a77_479"></a>[UB 111:3.1](/en/The_Urantia_Book/111#p3_1)) which constitutes an experiential achievement of relative perfection of our will in relation to this goal.
 
-_What are the other achievements of relative perfection that we will actualize during our upward adventure? Using the list of levels of perfection found in the Introduction_ ([UB 0:1.18-24](/en/The_Urantia_Book/0#p1_18)) _can you rank them?_
+_What are the other achievements of relative perfection that we will actualize during our upward adventure? Using the list of levels of perfection found in the Introduction_ (<a id="a79_175"></a>[UB 0:1.18-24](/en/The_Urantia_Book/0#p1_18)) _can you rank them?_
 
-***Question 2***: Read the following sections: [UB 7:4](/en/The_Urantia_Book/7#p4); [UB 107:0](/en/The_Urantia_Book/107#p0); [UB 194:2](/en/The_Urantia_Book/194#p2)
+***Question 2***: Read the following sections: <a id="a81_47"></a>[UB 7:4](/en/The_Urantia_Book/7#p4); <a id="a81_84"></a>[UB 107:0](/en/The_Urantia_Book/107#p0); <a id="a81_125"></a>[UB 194:2](/en/The_Urantia_Book/194#p2)
 
-_The Urantia Book_ reveals to us that “There is a plan in the mind of God that includes all the creatures of His vast domains, and that plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of this incomparable career reward your efforts!” ([UB 32:5.7](/en/The_Urantia_Book/32#p5_7)).
+_The Urantia Book_ reveals to us that “There is a plan in the mind of God that includes all the creatures of His vast domains, and that plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of this incomparable career reward your efforts!” (<a id="a83_305"></a>[UB 32:5.7](/en/The_Urantia_Book/32#p5_7)).
 
-Yes, our Father is an infinite creator, controller and sustainer ([UB 1:0.1](/en/The_Urantia_Book/1#p0_1)). He is infinitely consistent and faithful with Himself and provides all the help and support needed by His creatures. How comforting it is to know that there is indeed an ascension plan for each of us that gives meaning and direction to our lives as we struggle through the daily vicissitudes.
+Yes, our Father is an infinite creator, controller and sustainer (<a id="a85_66"></a>[UB 1:0.1](/en/The_Urantia_Book/1#p0_1)). He is infinitely consistent and faithful with Himself and provides all the help and support needed by His creatures. How comforting it is to know that there is indeed an ascension plan for each of us that gives meaning and direction to our lives as we struggle through the daily vicissitudes.
 
 _Many of our relatives and friends are unaware of how God can help them in their daily lives. How would you describe this plan to them in a few words?_
 
-***Question 3***: _Read the following sections_: [UB 115:3](/en/The_Urantia_Book/115#p3) The realization of the plan of progressive perfection requires a modus operandi to develop and a tension between potentials to create dynamics. _The Urantia Book_ describes its mechanisms produced by the three existential Deities of Paradise as Supremacy and Ultimacy, growth through experience.
+***Question 3***: _Read the following sections_: <a id="a89_49"></a>[UB 115:3](/en/The_Urantia_Book/115#p3) The realization of the plan of progressive perfection requires a modus operandi to develop and a tension between potentials to create dynamics. _The Urantia Book_ describes its mechanisms produced by the three existential Deities of Paradise as Supremacy and Ultimacy, growth through experience.
 
 _How do its mechanisms operate in us? Can you give an example from your own experience?_
 
-***Question 4***: _Read the following sections_: [UB 0:0](/en/The_Urantia_Book/0#p0); [UB 101:2,4,5](/en/The_Urantia_Book/101#p2); [UB 102:3](/en/The_Urantia_Book/102#p3).
+***Question 4***: _Read the following sections_: <a id="a93_49"></a>[UB 0:0](/en/The_Urantia_Book/0#p0); <a id="a93_86"></a>[UB 101:2,4,5](/en/The_Urantia_Book/101#p2); <a id="a93_131"></a>[UB 102:3](/en/The_Urantia_Book/102#p3).
 
-“God must always first find man so that man can then find God. A universal Father is always necessary before a universal filiation and the universal brotherhood that follows can exist.” ([UB 118:5.3](/en/The_Urantia_Book/118#p5_3))
+“God must always first find man so that man can then find God. A universal Father is always necessary before a universal filiation and the universal brotherhood that follows can exist.” (<a id="a95_187"></a>[UB 118:5.3](/en/The_Urantia_Book/118#p5_3))
 
 The finite cannot comprehend the infinite unless the infinite reveals itself to the finite. To us ascending finite creatures, God reveals himself through personal and epochal revelations. _The Urantia Book_ is the fifth and most recent of the epochal revelations.
 
 _In your opinion, what are the goals sought by the authors of this fifth revelation?_
 
-***Question 5***: _Read the following sections_: [UB 1:2](/en/The_Urantia_Book/1#p2); [UB 1:3.6](/en/The_Urantia_Book/1#p3_6). [UB 2:2.6](/en/The_Urantia_Book/2#p2_6); [UB 5:2](/en/The_Urantia_Book/5#p2); [UB 107:0](/en/The_Urantia_Book/107#p0); [UB 108:0](/en/The_Urantia_Book/108#p0); [UB 109:0](/en/The_Urantia_Book/109#p0)
+***Question 5***: _Read the following sections_: <a id="a101_49"></a>[UB 1:2](/en/The_Urantia_Book/1#p2); <a id="a101_86"></a>[UB 1:3.6](/en/The_Urantia_Book/1#p3_6). <a id="a101_127"></a>[UB 2:2.6](/en/The_Urantia_Book/2#p2_6); <a id="a101_168"></a>[UB 5:2](/en/The_Urantia_Book/5#p2); <a id="a101_205"></a>[UB 107:0](/en/The_Urantia_Book/107#p0); <a id="a101_246"></a>[UB 108:0](/en/The_Urantia_Book/108#p0); <a id="a101_287"></a>[UB 109:0](/en/The_Urantia_Book/109#p0)
 
 The Universal Father also reveals himself by means of personal revelations through a fragmented entity of himself which he bestows upon his creatures as a Thought Adjuster.
 
 _By bestowing this fragment of himself on his creatures, what is the goal sought by God?_
 
-***Question 6***: _Read the following sections_: ([UB 9:2.5](/en/The_Urantia_Book/9#p2_5)) The authors of _The Urantia Book_ tell us that the most edifying and inspiring spiritual revelation of the nature of God is found in the religious life of Jesus as he lived it on Urantia.
+***Question 6***: _Read the following sections_: (<a id="a107_50"></a>[UB 9:2.5](/en/The_Urantia_Book/9#p2_5)) The authors of _The Urantia Book_ tell us that the most edifying and inspiring spiritual revelation of the nature of God is found in the religious life of Jesus as he lived it on Urantia.
 
 _In your opinion, what are the most inspiring aspects of Jesus' religious life?_
 
 The second period will be published in Link No. 72 of January 2016
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Unconscious and the Superconscious</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Publications_autour_du_LU">
+          <span class="pr-2">Publications on the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

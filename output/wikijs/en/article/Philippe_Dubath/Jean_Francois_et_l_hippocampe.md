@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Philippe Dubath<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_nationale_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">National Meeting at Notre Dame de Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **...Or how to deal with epilepsy**
@@ -37,3 +61,28 @@ Information on the website www.epi-eclipse.ch
 
 Philippe Dubath
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-49-winter-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 49 — Winter 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_nationale_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">National Meeting at Notre Dame de Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

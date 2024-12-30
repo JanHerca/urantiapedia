@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Mind is Pitiful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Original Concepts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Georges Michelson-Dupont
@@ -44,3 +68,28 @@ Let's allow a minute of silence to pass and pray for him; to remember the good t
 
 Universal Father and Supreme Mother, we thank you for your support.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thierry_Lepage/Mon_Mental_est_Pitoyable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Mind is Pitiful</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Concepts_Originaux">
+          <span class="pr-2">Original Concepts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

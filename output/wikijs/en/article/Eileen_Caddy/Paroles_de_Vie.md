@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Eileen Caddy<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Printemps_etude_du_futur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spring: Study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-44-autumn-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 44 — Autumn 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="pr-2">How Beautiful You Have Made the Earth!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Divine love is imperishable
@@ -59,3 +83,28 @@ Look with eyes that truly see,
 listen with ears that truly hear
 and eternally thanks.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Printemps_etude_du_futur">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spring: Study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-44-autumn-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 44 — Autumn 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Courvoisier/Que_belle_vous_avez_fait_la_terre">
+          <span class="pr-2">How Beautiful You Have Made the Earth!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

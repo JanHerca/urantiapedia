@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Educational Imperatives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -81,3 +102,25 @@ This meeting was lively, and some key points were updated.
 
 Europe is not America and a heavy past that must be taken into account delays our actions. The exaltation is not openly felt but something powerful is felt deep within those who have discovered this book suggesting a calmer but more rooted awakening if people are given time to take the measure of this revelation.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Educational Imperatives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

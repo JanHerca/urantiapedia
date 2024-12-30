@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In the Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Love: The Heart of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 How lucky you are, you agondontaries because you will find yourselves “_entrusted very early with many special assignments in cosmic enterprises where unquestioned faith and sublime confidence are essential for success._”
@@ -35,7 +59,32 @@ I hope that the word “agondontary” applies to all those who, deprived of the
 
 Too bad perhaps for the career of Mighty Messenger! But in any case, it's sure! I will do what I can to be embraced by the Trinity of Paradise. What would you choose in my place? Raised in Authority or Devoid of Name and Number?
 
-> “_You mortals who read this message may yourselves ascend to Paradise, attain the Trinity embrace, and in remote future ages be attached to the service of the Ancients of Days in one of the seven superuniverses, and sometime be assigned to enlarge the revelation of truth to some evolving inhabited planet, even as I am now functioning on Urantia._” ([UB 22:4.7](/en/The_Urantia_Book/22#p4_7))
+> “_You mortals who read this message may yourselves ascend to Paradise, attain the Trinity embrace, and in remote future ages be attached to the service of the Ancients of Days in one of the seven superuniverses, and sometime be assigned to enlarge the revelation of truth to some evolving inhabited planet, even as I am now functioning on Urantia._” (<a id="a61_353"></a>[UB 22:4.7](/en/The_Urantia_Book/22#p4_7))
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In the Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Love: The Heart of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Samuel Heine<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">For Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Concerning myself and with hindsight over the years, I have been able “for my personal case” to determine some conditions favorable to this kind of spontaneous experience, “difficult to explain” to others except on rare occasions with men or women who have personally had this kind of experience.
@@ -35,3 +59,28 @@ Friendships.
 
 Samuel. H
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_humaine_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-90-juin-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 90 — Juin 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Pour_Jesus">
+          <span class="pr-2">For Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

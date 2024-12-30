@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Simon Orsini<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecture in Tallinn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 85 — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">The Parables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -23,7 +47,7 @@ On this earth, destiny is a transition that occurs between a human being's morta
 > The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity:
 > The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity:
 > 
-> The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity: ([UB 11:8.4](/en/The_Urantia_Book/11#p8_4))
+> The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity: (<a id="a49_197"></a>[UB 11:8.4](/en/The_Urantia_Book/11#p8_4))
 
 I was immersed in a reverie of which only the super conscious initiate has the secret, I discovered an unknown world, with multiple virtues which were present in the thoughts of the people who lived there, an exemplary morality which could have converted an entire army of warmongers.
 
@@ -117,7 +141,7 @@ Jesus blessed the poor when they were sincere and pious and condemned the rich w
 
 <br style=“clear:both;”/>
 
-> “IF THE finite mind of man is unable to comprehend how so great and so majestic a God as the Universal Father can descend from his eternal abode in infinite perfection to fraternize with the individual human creature, then must such a finite intellect rest assurance of divine fellowship upon the truth of the fact that an actual fragment of the living God resides within the intellect of every normal-minded and morally conscious Urantia mortal. The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him.” ([UB 5:0.1](/en/The_Urantia_Book/5#p0_1))
+> “IF THE finite mind of man is unable to comprehend how so great and so majestic a God as the Universal Father can descend from his eternal abode in infinite perfection to fraternize with the individual human creature, then must such a finite intellect rest assurance of divine fellowship upon the truth of the fact that an actual fragment of the living God resides within the intellect of every normal-minded and morally conscious Urantia mortal. The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him.” (<a id="a143_709"></a>[UB 5:0.1](/en/The_Urantia_Book/5#p0_1))
 
 The Father has traced a path, it passes through the son, in saying this, I am making a circumstantial affirmation.
 
@@ -129,3 +153,28 @@ Simon Orsini
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecture in Tallinn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-85-mars-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 85 — Mars 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">The Parables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

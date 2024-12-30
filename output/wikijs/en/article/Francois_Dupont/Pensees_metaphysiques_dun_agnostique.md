@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 François Dupont<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of September 21, 1997 in Villebon-Sur-Yvette</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="pr-2">Coherence, or Principle of Evanescence?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 [^1]
@@ -27,7 +51,7 @@ have led to astonishing discoveries, revealing at the same time an unknown dimen
 
 Another strange observation is that this French Minister of Culture (1959-1969) clearly predicted the decline of materialism and institutional and dogmatic religions from the 21st century. And this, however, not without having foreseen a regrettable transition according to him, that is to say the rise of backward religious fundamentalisms.
 
-Let us correlate this with this statement from [UB 195:9.3](/en/The_Urantia_Book/195#p9_3): “_Urantia is now quivering on the very brink of one of its most astounding and exciting epochs of social adjustment, moral stimulation, and spiritual enlightenment._”
+Let us correlate this with this statement from <a id="a53_47"></a>[UB 195:9.3](/en/The_Urantia_Book/195#p9_3): “_Urantia is now quivering on the very brink of one of its most astounding and exciting epochs of social adjustment, moral stimulation, and spiritual enlightenment._”
 
 The two particularities of the mental life of this illustrious man prompted us to delve more deeply into his ideas on the Beyond.
 
@@ -72,6 +96,31 @@ What joy to know that everything contributes to revealing the inaudible, the inv
 Francois Dupont
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Coulon/Rencontre_du_21_Septembre_1997_a_Villebon_Sur_Yvette">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of September 21, 1997 in Villebon-Sur-Yvette</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="pr-2">Coherence, or Principle of Evanescence?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarks
 

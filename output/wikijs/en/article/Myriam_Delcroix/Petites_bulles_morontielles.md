@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Myriam Delcroix<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Anniversaire_de_Micael_du_21_aout_2007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Birthday of August 21, 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Desurvive/Groupe_dEtude_du_LU_Juin_1979_Lettre_2">
+          <span class="pr-2">Urantia Book Study Group June 1979 — Letter No. 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I was waiting for the bus and suddenly in the middle of all these people who were fidgeting around me, who were jostling, who were laughing, who were walking indifferently, I began to think that all these beings who surrounded me, possessed like me a spark of absolute coming from the divine and that we all had the same Father. Then, a surge of Fraternity and love invaded me like a discharge of adrenaline. I suddenly felt so close to all these people that I did not know, that there was no longer any anger, no doubt, no disappointment in me. For a moment, I found myself in a higher dimension. The bus arrived, I fell back to earth, but all day long, happiness accompanied me.
@@ -23,3 +47,28 @@ It's been five years since I met you... There were a lot of people in the subway
 
 Myriam Delcroix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Anniversaire_de_Micael_du_21_aout_2007">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Birthday of August 21, 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Desurvive/Groupe_dEtude_du_LU_Juin_1979_Lettre_2">
+          <span class="pr-2">Urantia Book Study Group June 1979 — Letter No. 2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

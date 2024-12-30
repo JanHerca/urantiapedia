@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Maïa Neveu<br>© 2002 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should a New Church Be Founded?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-21-spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 21 — Spring 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Trait_plein_du_tres_haut">
+          <span class="pr-2">Full Line from the Most High</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In the slow harmony that the Universe forms
@@ -88,3 +112,28 @@ we will become friends!
 
 Maya Nephew
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Doit_on_fonder_une_nouvelle_eglise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should a New Church Be Founded?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-21-spring-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 21 — Spring 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Trait_plein_du_tres_haut">
+          <span class="pr-2">Full Line from the Most High</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

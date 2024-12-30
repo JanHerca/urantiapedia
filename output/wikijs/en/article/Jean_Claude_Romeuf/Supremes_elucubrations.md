@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean-Claude Romeuf<br>© 200 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Small, Well-Filled Bottle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="pr-2">International Meeting of 2002 Progress Report No. 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In the introduction to The Urantia Book, it can be noted that the Supreme Being is a trinitarian component of the first experiential Trinity while it is God the Supreme who participates in the advent of the Absolute Trinity.
@@ -23,3 +47,28 @@ We could therefore expect that the advent of the Supreme Being (certainly simult
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Petite_bouteille_bien_pleine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Small, Well-Filled Bottle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="pr-2">International Meeting of 2002 Progress Report No. 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -42,9 +42,9 @@ _January 27, 1963_
 <figcaption>Mary Lou Hales, Emma Christensen (Christy) and William S. Sadler, Jr.</figcaption>
 </figure>
 
-> Religion may permeate all four levels of the realization of values and the enjoyment of universe fellowship: the physical or material level of self-preservation; the social or emotional level of fellowship; the moral or duty level of reason; the spiritual level of the consciousness of universe fellowship through divine worship. ([UB 5:5.2](/en/The_Urantia_Book/5#p5_2))
+> Religion may permeate all four levels of the realization of values and the enjoyment of universe fellowship: the physical or material level of self-preservation; the social or emotional level of fellowship; the moral or duty level of reason; the spiritual level of the consciousness of universe fellowship through divine worship. (<a id="a44_333"></a>[UB 5:5.2](/en/The_Urantia_Book/5#p5_2))
 
-> And this brotherhood, being universal, is a relationship of the whole. Brotherhood, when universal, discloses not the *each* relationship, but the *all* relationship. ([UB 12:7.10](/en/The_Urantia_Book/12#p7_10))
+> And this brotherhood, being universal, is a relationship of the whole. Brotherhood, when universal, discloses not the *each* relationship, but the *all* relationship. (<a id="a46_170"></a>[UB 12:7.10](/en/The_Urantia_Book/12#p7_10))
 
 
 ## References

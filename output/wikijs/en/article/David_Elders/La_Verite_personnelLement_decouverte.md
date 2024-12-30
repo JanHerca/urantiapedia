@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 David Elders<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">In Search of the Beyond</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 David Elders
@@ -24,15 +48,15 @@ I would observe that it is the combined nature of revelation and the revelatory 
 
 ## The Context
 
-Holding _The Urantia Book_ firmly in your hands, have you ever wondered what the evolutionary response to this new revelation might look like? This exercise can be helpful in enabling us to distinguish between the newly revealed truth and the centuries-old beliefs that form the basis of authoritative evolutionary religions. As you continue your analysis, you will likely be disappointed to find that the new revelation is still contaminated by the old evolutionary beliefs ([UB 93:7.4](/en/The_Urantia_Book/93#p7_4)). But it is better to know the risks than to delude ourselves into thinking that what we take to be the highest meaning of revealed truth may be only a projection of what we already know and believe.
+Holding _The Urantia Book_ firmly in your hands, have you ever wondered what the evolutionary response to this new revelation might look like? This exercise can be helpful in enabling us to distinguish between the newly revealed truth and the centuries-old beliefs that form the basis of authoritative evolutionary religions. As you continue your analysis, you will likely be disappointed to find that the new revelation is still contaminated by the old evolutionary beliefs (<a id="a50_476"></a>[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)). But it is better to know the risks than to delude ourselves into thinking that what we take to be the highest meaning of revealed truth may be only a projection of what we already know and believe.
 
 Toward the last days of His bestowal on our planet, 2,000 years ago, our Creator Son warned the Apostles to “beware of the support of the multitudes” who came to see the Master and hear His words. On a day of rest in the camp, midweek, He said to them:
 
-> “_This was the occasion of Jesus’ warning his followers to beware of the support of the multitude. He recounted their experiences in Galilee when time and again great throngs of people enthusiastically followed them around and then just as ardently turned against them and returned to their former ways of believing and living. And then he said: “And so you must not allow yourselves to be deceived by the great crowds who heard us in the temple, and who seemed to believe our teachings. These multitudes listen to the truth and believe it superficially with their minds, but few of them permit the word of truth to strike down into the heart with living roots. Those who know the gospel only in the mind, and who have not experienced it in the heart, cannot be depended upon for support when real trouble comes. When the rulers of the Jews reach an agreement to destroy the Son of Man, and when they strike with one accord, you will see the multitude either flee in dismay or else stand by in silent amazement while these maddened and blinded rulers lead the teachers of the gospel truth to their death. And then, when adversity and persecution descend upon you, still others who you think love the truth will be scattered, and some will renounce the gospel and desert you. Some who have been very close to us have already made up their minds to desert. You have rested today in preparation for those times which are now upon us. Watch, therefore, and pray that on the morrow you may be strengthened for the days that are just ahead.”_” ([UB 177:5.2](/en/The_Urantia_Book/177#p5_2))
+> “_This was the occasion of Jesus’ warning his followers to beware of the support of the multitude. He recounted their experiences in Galilee when time and again great throngs of people enthusiastically followed them around and then just as ardently turned against them and returned to their former ways of believing and living. And then he said: “And so you must not allow yourselves to be deceived by the great crowds who heard us in the temple, and who seemed to believe our teachings. These multitudes listen to the truth and believe it superficially with their minds, but few of them permit the word of truth to strike down into the heart with living roots. Those who know the gospel only in the mind, and who have not experienced it in the heart, cannot be depended upon for support when real trouble comes. When the rulers of the Jews reach an agreement to destroy the Son of Man, and when they strike with one accord, you will see the multitude either flee in dismay or else stand by in silent amazement while these maddened and blinded rulers lead the teachers of the gospel truth to their death. And then, when adversity and persecution descend upon you, still others who you think love the truth will be scattered, and some will renounce the gospel and desert you. Some who have been very close to us have already made up their minds to desert. You have rested today in preparation for those times which are now upon us. Watch, therefore, and pray that on the morrow you may be strengthened for the days that are just ahead.”_” (<a id="a54_1541"></a>[UB 177:5.2](/en/The_Urantia_Book/177#p5_2))
 
 As we seek to experience, perceive, understand in our courses and use in our lives the truths newly revealed by the revelators of The Urantia Book, we would do well to choose the most appropriate methodology, informed by the revelation itself, to facilitate our personal encounter with the living truth. Hiding behind our choices raises questions. Mota #16 warns us that the truth must be experienced BEFORE it can be perceived... If, in addition, the experience and perception of the living truth is uniquely valued and colored by the personality of each child of God, then can it really be “taught” by the old educational techniques of the evolutionary religions of authority? Here is a thought-provoking thought offered by a Melchizedek:
 
-> “_Evolutionary religion is sentimental, not logical. It is man’s reaction to belief in a hypothetical ghost-spirit world—the human belief-reflex, excited by the realization and fear of the unknown. Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion *is* that very truth._” ([UB 92:4.3](/en/The_Urantia_Book/92#p4_3))
+> “_Evolutionary religion is sentimental, not logical. It is man’s reaction to belief in a hypothetical ghost-spirit world—the human belief-reflex, excited by the realization and fear of the unknown. Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion *is* that very truth._” (<a id="a58_521"></a>[UB 92:4.3](/en/The_Urantia_Book/92#p4_3))
 
 There is much to discover in this little quote, but it is worth every seeker of truth to meditate on its meaning. For now, let us note the following few points:
 
@@ -44,7 +68,7 @@ Of course, we might expect that the Spirit of Truth and the Thought Adjuster wou
 
 Finally, one may question our habitual tendency to approach new truth using old, comfortable, evolutionary methods; to project our existing human beliefs by dressing them up in words from The Urantia Book and presenting them as new understandings, when they are already rooted in the interpretation of others. This reliance on the theological authority of evolutionary religions, supported by what we already know, testifies to its influence, preventing us from using the direct, personal experience of perceiving revealed truth that is the very hallmark of planned revelations to fuel our growth. Just as lipstick does not mask the underlying features of a woman's face, so using evolutionary techniques of authoritative religious education to approach newly revealed truth will not hide the fact that one cannot use old wineskins to share new wine without altering it. But such a change is not an easy thing. As we are told:
 
-> “_A philosophy of religion evolves out of a basic growth of ideas plus experimental living as both are modified by the tendency to imitate associates. The soundness of philosophic conclusions depends on keen, honest, and discriminating thinking in connection with sensitivity to meanings and accuracy of evaluation. Moral cowards never achieve high planes of philosophic thinking; it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living._” ([UB 101:7.2](/en/The_Urantia_Book/101#p7_2))
+> “_A philosophy of religion evolves out of a basic growth of ideas plus experimental living as both are modified by the tendency to imitate associates. The soundness of philosophic conclusions depends on keen, honest, and discriminating thinking in connection with sensitivity to meanings and accuracy of evaluation. Moral cowards never achieve high planes of philosophic thinking; it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living._” (<a id="a70_514"></a>[UB 101:7.2](/en/The_Urantia_Book/101#p7_2))
 
 ## Urantia Book Internet School (UBIS)
 
@@ -109,7 +133,7 @@ In addition, each novice teacher-facilitator is entitled to support from the fac
 
 **“The truth personally discovered”**
 
-> “_Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him. There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._” ([UB 132:3.4](/en/The_Urantia_Book/132#p3_4))
+> “_Revealed truth, personally discovered truth, is the supreme delight of the human soul; it is the joint creation of the material mind and the indwelling spirit. The eternal salvation of this truth-discerning and beauty-loving soul is assured by that hunger and thirst for goodness which leads this mortal to develop a singleness of purpose to do the Father’s will, to find God and to become like him. There is never conflict between true knowledge and truth. There may be conflict between knowledge and human beliefs, beliefs colored with prejudice, distorted by fear, and dominated by the dread of facing new facts of material discovery or spiritual progress._” (<a id="a135_667"></a>[UB 132:3.4](/en/The_Urantia_Book/132#p3_4))
 
 ### Summary
 
@@ -119,3 +143,28 @@ In such a context, the UBIS school was designed to use a pedagogy and methodolog
 
 During its 20 years of existence, more than 30 trained UBIS TFs have presented more than zoo courses in English and 70 other courses more recently in French, Spanish and Portuguese. UBIS uses Moodle, an online digital platform used by millions of university students around the world, to present its courses in three terms.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-82-juin-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 82 — Juin 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/A_La_Recherche_De_L_au_Dela">
+          <span class="pr-2">In Search of the Beyond</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

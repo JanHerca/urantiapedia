@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Sebastian Nozzi<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_18">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="pr-2">Water: Truth, Beauty, And Goodness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sebastian Nozzi
@@ -148,7 +172,7 @@ And the revelators made this crystal clear with their last sentence when they sa
 
 Christianity was Hellenized, paganized, and ritualized because these influences (Hellenic culture, pagan rituals) existed and were strong. People responded to them, _needed_ them, wanted them, even for centuries to come. They were necessary steps in our religious progression. Christianity's compromises with these existing forces were necessary to ensure its adoption. (And we all know what happened to Abner's “uncompromising” church in Philadelphia.)
 
-But even with its many “compromises,” Christianity is described by _The Urantia Book_ as “the best religion of the twentieth century” ([UB 195:9.8](/en/The_Urantia_Book/195#p9_8)) and it tells us that “Christianity (...) is not to be despised” ([UB 195:10.12](/en/The_Urantia_Book/195#p10_12)).
+But even with its many “compromises,” Christianity is described by _The Urantia Book_ as “the best religion of the twentieth century” (<a id="a174_135"></a>[UB 195:9.8](/en/The_Urantia_Book/195#p9_8)) and it tells us that “Christianity (...) is not to be despised” (<a id="a174_245"></a>[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)).
 
 Christianity is, let us not forget, the context in which _The Urantia Book_ was revealed. Christianity is to the revelation of _The Urantia Book_ what Judaism was to the bestowal, life, and teachings of Jesus. His apostles and disciples were open-minded, truth-seeking Jews. In the same way, _The Urantia Book_ was revealed to a group of open-minded, truth-seeking Christians, deepening their understanding of Christian theology, in a nation called “Christian.”
 
@@ -164,7 +188,7 @@ What happened? And what should we do?
 
 Booklet 195, “After Pentecost,” is perhaps my favorite booklet. I find it fascinating because it bridges the gap between Jesus’ time and our own, helping us to better understand our situation.
 
-_The Urantia Book_ tells us that modern man will reject a religion that is not in harmony with our current highest conceptions of truth, goodness, and beauty (Paper [UB 195:7.20](/en/The_Urantia_Book/195#p7_20) ). Here Christianity does not seem to measure up to many people, those who leave the church.
+_The Urantia Book_ tells us that modern man will reject a religion that is not in harmony with our current highest conceptions of truth, goodness, and beauty (Paper <a id="a190_165"></a>[UB 195:7.20](/en/The_Urantia_Book/195#p7_20) ). Here Christianity does not seem to measure up to many people, those who leave the church.
 
 So, does that mean it's our turn? We go out into the streets and start evangelizing everybody with _The Urantia Book_. We advertise on television and so on?
 
@@ -206,7 +230,7 @@ In contrast to group or societal progression (which is often slow) individuals p
 
 And again, we need only look to Jesus to know how to do this. My favorite example is how he prepared religious teachers in Rome. Let me read:
 
-> “Jesus learned much about men while in Rome, but the most valuable of all the manifold experiences of his six months’ sojourn in that city was his contact with, and influence upon, the religious leaders of the empire’s capital. Before the end of the first week in Rome Jesus had sought out, and had made the acquaintance of, the worth-while leaders of the Cynics, the Stoics, and the mystery cults, in particular the Mithraic group. Whether or not it was apparent to Jesus that the Jews were going to reject his mission, he most certainly foresaw that his messengers were presently coming to Rome to proclaim the kingdom of heaven; and he therefore set about, in the most amazing manner, to prepare the way for the better and more certain reception of their message. He selected five of the leading Stoics, eleven of the Cynics, and sixteen of the mystery-cult leaders and spent much of his spare time for almost six months in intimate association with these religious teachers. And this was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error; and thus were these Jesus-taught men and women prepared for the subsequent recognition of additional and similar truths in the teachings of the early Christian missionaries. It was this early acceptance of the teachings of the gospel preachers which gave that powerful impetus to the rapid spread of Christianity in Rome and from there throughout the empire.” ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
+> “Jesus learned much about men while in Rome, but the most valuable of all the manifold experiences of his six months’ sojourn in that city was his contact with, and influence upon, the religious leaders of the empire’s capital. Before the end of the first week in Rome Jesus had sought out, and had made the acquaintance of, the worth-while leaders of the Cynics, the Stoics, and the mystery cults, in particular the Mithraic group. Whether or not it was apparent to Jesus that the Jews were going to reject his mission, he most certainly foresaw that his messengers were presently coming to Rome to proclaim the kingdom of heaven; and he therefore set about, in the most amazing manner, to prepare the way for the better and more certain reception of their message. He selected five of the leading Stoics, eleven of the Cynics, and sixteen of the mystery-cult leaders and spent much of his spare time for almost six months in intimate association with these religious teachers. And this was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error; and thus were these Jesus-taught men and women prepared for the subsequent recognition of additional and similar truths in the teachings of the early Christian missionaries. It was this early acceptance of the teachings of the gospel preachers which gave that powerful impetus to the rapid spread of Christianity in Rome and from there throughout the empire.” (<a id="a232_1701"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
 Another beautiful passage from Jesus' life that illustrates this point is his explanation to Simon the Zealot after his failed relationship with Teherma the Persian. He told Simon that one should not “take” something out of people's souls but “bring” something into them. Which is precisely what he did with the Roman religious leaders. He was not telling them what NOT to believe. **He was emphasizing what was already there.**
 
@@ -220,7 +244,7 @@ First train yourself to become masters at _reading_ people. Find out their conte
 
 Jesus speaks of this when he asks:
 
-> “As the days pass, every true believer becomes more skillful in alluring his fellows into the love of eternal truth. Are you more resourceful in revealing goodness to humanity today than you were yesterday? Are you a better righteousness recommender this year than you were last year? Are you becoming increasingly artistic in your technique of leading hungry souls into the spiritual kingdom?” ([UB 156:5.15](/en/The_Urantia_Book/156#p5_15))
+> “As the days pass, every true believer becomes more skillful in alluring his fellows into the love of eternal truth. Are you more resourceful in revealing goodness to humanity today than you were yesterday? Are you a better righteousness recommender this year than you were last year? Are you becoming increasingly artistic in your technique of leading hungry souls into the spiritual kingdom?” (<a id="a246_398"></a>[UB 156:5.15](/en/The_Urantia_Book/156#p5_15))
 
 And this work, this ministry, can be done both <ins>inside and outside</ins> Christianity.
 
@@ -256,3 +280,28 @@ Our Christian heritage will always be there. We can use it to our advantage as w
 
 THANKS.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_18">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marjorie_Ray/L_eau_Verite_Beaute_Et_Bonte">
+          <span class="pr-2">Water: Truth, Beauty, And Goodness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

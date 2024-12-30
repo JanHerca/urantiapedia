@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Jean-Claude Romeuf<br>© 200 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-13-spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melchizedek or the 2nd Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Winter is here, cold, silvery and magical. Nothing moves under the frost. Only the fairies dance in the frost. Not a sound enters the house. We are going to change years, centuries, millennia. What does it matter! It is a number composed of a two with three zeros. We will have to get used to writing it, that's all!.... “_The days go by, I remain_” says the poet.
@@ -29,3 +53,28 @@ One hundred and fifty light years away, we will light the fireplace of our new h
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/013">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-13-spring-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 13 — Spring 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Davier/Melchizedek_ou_la_2eme_Revelation">
+          <span class="pr-2">Melchizedek or the 2nd Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">A Thousand Thanks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A long time ago, he told me, a renowned journalist, a specialist in phonetic music, had his country's Télémusicvision admit that it was unthinkable that a word loaded with so much richness could be so ugly. Everyone agreed. The king had to give in to public opinion and proclaimed that from now on, anyone who pronounced the word “Faith” would be immediately thrown in prison and tortured in the event of a repeat offense, because the death penalty had just been abolished. For decades, the word “Faith” was forgotten! What the king and his ministers had not foreseen was that spirituality would gradually deteriorate, because if it was still possible to share some beliefs and some obsolete devotions, Faith without a name could not develop normally in everyone's heart. A word is always needed to understand a fact or assert a meaning. The God of this country felt isolated because no one conversed with him anymore. He felt useless, he was no longer asked to make it rain when the grass was thirsty, nor to send the sun so that the fruits or vegetables would ripen. Deprived of spirituality, people began to become wicked, they only trusted chance or the malevolence of others. Others being the only ones responsible for their misfortune, vengeance and resentment were rife!
@@ -31,3 +55,28 @@ His replacement lifted the taboo. It seems that on this planet, Wheat is now syn
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Liswen_Delval/Amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Lamock/Mille_mercis">
+          <span class="pr-2">A Thousand Thanks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

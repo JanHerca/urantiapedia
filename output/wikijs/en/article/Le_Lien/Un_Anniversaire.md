@@ -9,6 +9,27 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3rd European Urantia Congress in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear readers and students of the Fifth Epochal Revelation, The next LINK published by our association will be number 100. At a rate of 4 issues per year this will be its twenty-fifth year of publication; &frac14; of a century!
@@ -25,3 +46,25 @@ Your brother in spirit
 
 G. Michelson Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/3eme_Congres_Europeen_d_Urantia_En_Espagne">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">3rd European Urantia Congress in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

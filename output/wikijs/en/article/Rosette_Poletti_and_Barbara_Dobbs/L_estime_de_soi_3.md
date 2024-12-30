@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Rosette Poletti and Barbara Dobbs<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Debruyne/Je_voudrais_mhabiller_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Would Like to Dress Myself in God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Pour_demander_la_bonne_humeur">
+          <span class="pr-2">To Ask for Good Humor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## How to create an affirmation
@@ -119,3 +143,28 @@ Finally, developing self-esteem means recognizing and developing the esteem of t
 
 Rosette Poletti and Barbara Dobbs
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Debruyne/Je_voudrais_mhabiller_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Would Like to Dress Myself in God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Pour_demander_la_bonne_humeur">
+          <span class="pr-2">To Ask for Good Humor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

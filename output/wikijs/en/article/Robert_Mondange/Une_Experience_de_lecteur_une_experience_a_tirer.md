@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Robert Mondange<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship God? An invitation to travel outside of space-time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Testimony on the meeting in Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I came across the Urantia Book in Provence, a long time ago, it was at the time of photocopied booklets. Old readers will know what that means. I came across the book because I was avid readers and was looking to read something other than novels and perhaps also because I was on a spiritual quest. Friends told me about a book that explained the organization of the universe and the place of God in all that. The first readings were difficult and if there had not been a study group, with “confirmed” readers I would certainly have given up.
@@ -27,3 +51,28 @@ In conclusion, I think that we need readers who know the book perfectly. It is t
 
 Robert Mondange
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Rouanet/Adorer_Dieu_une_invitation_au_voyage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship God? An invitation to travel outside of space-time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="pr-2">Testimony on the meeting in Armeau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

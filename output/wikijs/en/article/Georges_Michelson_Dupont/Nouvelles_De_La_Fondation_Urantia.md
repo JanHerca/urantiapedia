@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 SALES OF THE URANTIA BOOK
@@ -33,7 +54,7 @@ After several years of development, the Foundation is proud to announce the avai
 
 **Reminder**: for those who have an Apple iPhone, there is also a free version available for download from the Apple Store with the same functions.
 
-> _5. *The Urantia Papers.* The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia._ ([[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> _5. *The Urantia Papers.* The papers, of which this is one, constitute the most recent presentation of truth to the mortals of Urantia. These papers differ from all previous revelations, for they are not the work of a single universe personality but a composite presentation by many beings. But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia._ (<a id="a56_861"></a>[[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
 
 
@@ -74,3 +95,25 @@ The selected and accepted projects are:
 
 1. This project aims to fund technical support to have a stronger Internet connection to meet with members of the Urantia study group and to produce and upload four short popularization videos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS School</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

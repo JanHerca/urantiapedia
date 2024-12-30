@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Attraction</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">The Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The early Christians made little attempt to elucidate the relationships of the Father, Son, and Spirit. Tertullian (150-225) was perhaps the first to use the term Trinity. “God is one substance in three coherent and inseparable persons.”
@@ -17,7 +41,7 @@ The formula used by Jesus and found in the Gospel of John: “I and the Father a
 
 For Tertullian, however, this formula meant unity of substance and not singularity of number. The matter would gain momentum with Arius, saying that the Son was the first creation of the Father, and lead to the Council of Nicaea in 325 where Athanasius would condemn Arius' position for the second time and affirm that the Logos (Christ) was of the same substance as the Father. Contrary to what Constantine hoped, this was not the end of the controversy; Arius and many bishops continued their argument, even winning over the Emperor Constantius II to their cause and Athanasius was deposed five times from his post as bishop.
 
-This Athanasius is the one mentioned in The Urantia Book and of whom it is said that he “_stood so courageously at Nicaea and challenged the assembly with such intrepidity that the council dared not so obscure the concept of the nature of Jesus as to risk the world losing the truth concerning his bestowal. This Greek was Athanasius. Without the eloquence and logic of this believer, the persuasive opinions of Arius would have triumphed._” [UB 195:0.18](/en/The_Urantia_Book/195#p0_18)
+This Athanasius is the one mentioned in The Urantia Book and of whom it is said that he “_stood so courageously at Nicaea and challenged the assembly with such intrepidity that the council dared not so obscure the concept of the nature of Jesus as to risk the world losing the truth concerning his bestowal. This Greek was Athanasius. Without the eloquence and logic of this believer, the persuasive opinions of Arius would have triumphed._” <a id="a43_442"></a>[UB 195:0.18](/en/The_Urantia_Book/195#p0_18)
 
 But in fact, at Nicaea it is still the Father-Son relationship which prevails, even if the Holy Spirit is mentioned he only appears vaguely, at the end of the sentence and without being qualified, unlike the Son.
 
@@ -39,3 +63,28 @@ All that remains for us is to examine the relationships of the Father, the Son a
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Attraction</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">The Urantia Movement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

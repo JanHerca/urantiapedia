@@ -28,7 +28,7 @@ But when faith is defined (or confined) in this way, it is not spiritually produ
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
 </figure>
 
-Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. [UB 99:2.6](/en/The_Urantia_Book/99#p2_6)
+Modern religion finds it difficult to adjust its attitude toward the rapidly shifting social changes only because it has permitted itself to become so thoroughly traditionalized, dogmatized, and institutionalized. <a id="a30_214"></a>[UB 99:2.6](/en/The_Urantia_Book/99#p2_6)
 
 Faith is best defined as simply having complete trust in someone or something. It is a firm belief in something for which there is no empirical or objective evidence. For example, you might have a resolute faith in the triumph of science, or a persistent faith in the victory of your sports team. You cannot prove that an event will occur or that a spiritual force will act in your favor, but you have unequivocal faith that it will happen.
 
@@ -92,7 +92,7 @@ The reason faith in the goodness and wisdom of an infinite and eternal Creator w
 Faith is essential because your spiritual thoughts and ideals cannot soar higher than what you can imagine. Such faithful imaginings become your spiritual compass, the inspiration that invariably points you in the right direction, always leading you to accomplish much more in life. What a tragedy to limit your hopes and dreams to the dark confines of cold, empty, godless materialism. No wonder so many people imagine the future as a bleak and hopeless dystopia.
 <br style="clear:both;"/>
 
-> When you know that you are saved by faith, you have real peace with God. ([UB 143:2.6](/en/The_Urantia_Book/143#p2_6))
+> When you know that you are saved by faith, you have real peace with God. (<a id="a94_76"></a>[UB 143:2.6](/en/The_Urantia_Book/143#p2_6))
 
 A humble and positive faith is a tool of consciousness; a necessary and powerful spiritual attitude because it is a state of mind that opens the door to the Divine Presence within you. This, in turn, allows Spirit to release its beneficial and powerful superhuman activities within your consciousness. In short, a positive attitude of mind allows God to transform you spiritually.
 
@@ -119,7 +119,7 @@ It is what you believe rather than what you know that determines what you can ac
 Just as there are natural laws of science, there are supernatural laws of Spirit. One of these immutable laws is that neither God nor any of His heavenly helpers will ever try to change or recreate you without your explicit consent. The Creator of a universe wants you to come to Him, but only if you want to come of your own free will.
 <br style="clear:both;"/>
 
-> The Creator refuses to coerce or compel the submission of the spiritual free wills of his material creatures. ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+> The Creator refuses to coerce or compel the submission of the spiritual free wills of his material creatures. (<a id="a121_113"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -138,7 +138,7 @@ Spiritual harmony and divine unity cannot be achieved through the mind alone. Wh
 
 Living your faith validates your belief that you are a true daughter or son of a loving and compassionate Father-Mother God. Invigorated by the same faith, your convictions and ideals become realities in your life. This, in turn, opens the door to an even greater potential for spiritual awareness and spiritual living, which is further enriched each time you help others.
 
-> Convictions about God may be arrived at through wise reasoning, but the individual becomes God-knowing only by faith, through personal experience. ([UB 102:6.5](/en/The_Urantia_Book/102#p6_5))
+> Convictions about God may be arrived at through wise reasoning, but the individual becomes God-knowing only by faith, through personal experience. (<a id="a140_150"></a>[UB 102:6.5](/en/The_Urantia_Book/102#p6_5))
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_06/007.jpg">
@@ -147,9 +147,9 @@ Living your faith validates your belief that you are a true daughter or son of a
 Living one's faith is a divine privilege. It is a joyful endeavor carried out with enthusiasm and love; it is meeting daily challenges with vigor and inspiration; it is remaining undaunted in the face of all disappointments and failures; and it is cultivating an indomitable spirit that perseveres regardless of life's difficulties and struggles.
 <br style="clear:both;"/>
 
-> 4\. Is *faith—*the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe. ([UB 3:5.9](/en/The_Urantia_Book/3#p5_9))
+> 4\. Is *faith—*the supreme assertion of human thought—desirable? Then must the mind of man find itself in that troublesome predicament where it ever knows less than it can believe. (<a id="a149_184"></a>[UB 3:5.9](/en/The_Urantia_Book/3#p5_9))
 
-> The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is “the victory which overcomes the world, even your faith.” ([UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
+> The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is “the victory which overcomes the world, even your faith.” (<a id="a151_444"></a>[UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
 
 ## References
 

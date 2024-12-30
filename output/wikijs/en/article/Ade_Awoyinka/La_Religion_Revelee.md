@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Ade Awoyinka<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting with Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">The Urantia Book in Cameroon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 When I became a newborn Christian in the seventies in Africa, I was raised to fear two things: going to hellfire and missing the parousia. There were other fears along the way such as defiling myself through various activities which I won't bore you with, and also demonic oppression. I refuse to fear the so-called power of witchcraft because I don't really understand the mechanism, but I do understand the side effects of fear on a person's mind.
@@ -62,3 +86,28 @@ Infant mortality of children under 5 years old in: 2016: 18%
 
 Literacy rate: 57% in 2005.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Rencontre_avec_Ade_Awoyinka">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting with Ade Awoyinka</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="pr-2">The Urantia Book in Cameroon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

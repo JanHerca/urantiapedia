@@ -9,6 +9,27 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2017 Marta Elders<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">10th International Conference of the UAI Association — Amsterdam, The Netherlands</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By Marta A. Elders
@@ -26,13 +47,13 @@ We are informed that 987 billion years ago an inspecting force organizer reporte
 
 875 billion years ago, the Power Directors arrived in this superuniverse to prepare the material environment for the Creator Son to undertake his time-space adventure with his partner, the universe presence of the Infinite Spirit. They energetically prepared the stage upon which the Creator Son would make real his time-space potential in partnership with this universal presence of the Infinite Spirit, our local universe Mother Spirit. This is what a Mighty Messenger tells us:
 
-> _The Creator Sons are preceded in universe organization by the power directors and other beings originating in the Third Source and Center. From the energies of space, thus previously organized, Michael, your Creator Son, established the inhabited realms of the universe of Nebadon and ever since has been painstakingly devoted to their administration. From pre-existent energy these divine Sons materialize visible matter, project living creatures, and with the co-operation of the universe presence of the Infinite Spirit, create a diverse retinue of spirit personalities._ ([UB 32:2.1](/en/The_Urantia_Book/32#p2_1))
+> _The Creator Sons are preceded in universe organization by the power directors and other beings originating in the Third Source and Center. From the energies of space, thus previously organized, Michael, your Creator Son, established the inhabited realms of the universe of Nebadon and ever since has been painstakingly devoted to their administration. From pre-existent energy these divine Sons materialize visible matter, project living creatures, and with the co-operation of the universe presence of the Infinite Spirit, create a diverse retinue of spirit personalities._ (<a id="a49_579"></a>[UB 32:2.1](/en/The_Urantia_Book/32#p2_1))
 
 The first creative act of Michael and the universal presence of the Infinite Spirit brought into existence the Bright and Morning Star, Gabriel. He serves our local universe as its chief executive. Following his appearance, a multitude of diverse creatures and personalities were brought into existence. Among the first arrivals were the Life Carriers, the Melchizedek Father, and the Melchizedek order. Since the purpose of this study is to compare aspects of divine purpose as revealed in The Urantia Book with our current neuropsychological understanding of the brain, we will concentrate on those beings whose task it is to plan, develop, and instigate life, particularly in relation to the brain and mind.
 
 In preparation for the initiation of life on a material sphere, the Life Carriers have wisely tested and selected dynamic techniques, providing a mechanism to promote evolution. Because we happen to be a decimal planet, new possibilities can be tested and implemented during the evolutionary process, in addition to these early preparations.
 
-The Life Carriers, under the supervision of Father Melchizedek, were responsible for the design and development of a living instrument through which the mind connects with the material realm. This relationship between mind and matter evolves in such a way that the human mind develops, personality is bestowed, consciousness arises, free-will choices are made, and contact with spirit becomes possible. And what instrument did they design? A brain, a living brain. One Melchizedek comments ([UB 49:5.13](/en/The_Urantia_Book/49#p5_13)): _The brain and nervous system constitute the only uniform characteristic of mortals._ As he goes on to describe the various organizations of this mechanism (one-brain, two-brain, and three-brain types), the reality that all mortals utilize this mechanism, this living brain, in their planetary journey to God is powerful. It is clear that this evolutionary system is designed to serve the evolution of life on a planet from its earliest stages to those of light and life; from matter to spirit via the mind.
+The Life Carriers, under the supervision of Father Melchizedek, were responsible for the design and development of a living instrument through which the mind connects with the material realm. This relationship between mind and matter evolves in such a way that the human mind develops, personality is bestowed, consciousness arises, free-will choices are made, and contact with spirit becomes possible. And what instrument did they design? A brain, a living brain. One Melchizedek comments (<a id="a55_491"></a>[UB 49:5.13](/en/The_Urantia_Book/49#p5_13)): _The brain and nervous system constitute the only uniform characteristic of mortals._ As he goes on to describe the various organizations of this mechanism (one-brain, two-brain, and three-brain types), the reality that all mortals utilize this mechanism, this living brain, in their planetary journey to God is powerful. It is clear that this evolutionary system is designed to serve the evolution of life on a planet from its earliest stages to those of light and life; from matter to spirit via the mind.
 
 
 
@@ -57,21 +78,21 @@ Les citations suivantes du _Livre d'Urantia_ fournissent quelques aperçus de ce
 > 
 > _La sphère numéro quatre et ses satellites tributaires sont consacrés à l'étude de l'évolution de la vie des créatures en général, et aux antécédents évolutionnaires de chaque niveau de vie en particulier. Il faut que le plasma vital originel d'un monde évolutionnaire contienne dans sa plénitude le potentiel nécessaire à toutes les variations de développement futures et à tous les changements et modifications évolutionnaires ultérieurs... dans et à travers tout ce long processus, court le fil des formules sages et intelligentes établies par les auteurs originaux du plan de vie planétaire et du développement des espèces. Les multiples sous-produits de l'évolution biologique sont tous essentiels pour que les formes supérieures de vie intelligente puissent fonctionner pleinement et définitivement,_
 > 
-> _Le monde numéro cinq_ s'occupe entièrement de la vie associée au mental. Chacun de ses satellites est consacré à l'étude d'une seule phase du mental de la créature relié à la vie de la créature. Le mental tel que les hommes le comprennent est un don des sept esprits-mentaux adjuvats, surimposé par les agents de l'Esprit Infini, aux niveaux du mental non enseignable ou machinal. Les modèles de vie réagissent diversement à ces adjuvats et aux _divers ministères spirituels opérant dans les univers du temps et de l'espace. La capacité des créatures matérielles de réagir spirituellement dépend entièrement de leurs dotations mentales associées, qui à leur tour ont orienté le cours de l'évolution biologique de ces mêmes créatures mortelles._ <a id="a79_748"></a>[LU 36:2.15-18](/fr/The_Urantia_Book/36#p2_15)
+> _Le monde numéro cinq_ s'occupe entièrement de la vie associée au mental. Chacun de ses satellites est consacré à l'étude d'une seule phase du mental de la créature relié à la vie de la créature. Le mental tel que les hommes le comprennent est un don des sept esprits-mentaux adjuvats, surimposé par les agents de l'Esprit Infini, aux niveaux du mental non enseignable ou machinal. Les modèles de vie réagissent diversement à ces adjuvats et aux _divers ministères spirituels opérant dans les univers du temps et de l'espace. La capacité des créatures matérielles de réagir spirituellement dépend entièrement de leurs dotations mentales associées, qui à leur tour ont orienté le cours de l'évolution biologique de ces mêmes créatures mortelles._ [LU 36:2.15-18](/fr/The_Urantia_Book/36#p2_15)
 
 Et, concernant la façon dont opèrera un circuit neural dans le domaine matériel, un Conseiller Divin déclare:
 
-> _Les sensations voyagent vers l'intérieur sur les sentiers neuraux. Certaines sont retenues par les centres spinaux automatiques inférieurs qui réagissent. D'autres parviennent aux centres du cerveau inférieur, moins automatiques, mais éduqués par l'habitude. Enfin, les messages vitaux les plus importants court-circuitent ces centres subordonnés et sont immédiatement enregistrés dans les niveaux supérieurs de la conscience humaine._ <a id="a83_439"></a>[LU 7:3.4](/fr/The_Urantia_Book/7#p3_4)
+> _Les sensations voyagent vers l'intérieur sur les sentiers neuraux. Certaines sont retenues par les centres spinaux automatiques inférieurs qui réagissent. D'autres parviennent aux centres du cerveau inférieur, moins automatiques, mais éduqués par l'habitude. Enfin, les messages vitaux les plus importants court-circuitent ces centres subordonnés et sont immédiatement enregistrés dans les niveaux supérieurs de la conscience humaine._ [LU 7:3.4](/fr/The_Urantia_Book/7#p3_4)
 
 Plus loin on nous informe que:
 
-> _Désormais l'évolution suivra la croissance du cerveau et non la masse du corps; le développement du cerveau caractérisera chaque époque successive de l'évolution animale et du progrès planétaire._ <a id="a87_200"></a>[LU 60:2.14](/fr/The_Urantia_Book/60#p2_14)
+> _Désormais l'évolution suivra la croissance du cerveau et non la masse du corps; le développement du cerveau caractérisera chaque époque successive de l'évolution animale et du progrès planétaire._ [LU 60:2.14](/fr/The_Urantia_Book/60#p2_14)
 
 Et alors que le cerveau croit, le mental se connectera au moyen des circuits mentaux des sept adjuvats :
 
 > _Durant le long développement évolutionnaire de la vie planétaire, ces infatigables ministres du mental avaient sans cesse noté leur propre aptitude croissante à entrer en contact avec les facultés cérébrales des animaux, facultés qui s'amplifiaient à mesure que les créatures animales progressaient._
 > 
-> _Au début, seull'esprit d'intuition pouvait agir sur le comportement instinctif et soumis aux réflexes de la vie animale élémentaire. Quand les types plus élevés se différencièrent, l'esprit de compréhension put attribuer à ces créatures la faculté d'associer spontanément des idées. Plus tard, nous vîmes opérer l'esprit de courage; les animaux en cours d'évolution acquirentréellement une forme rudimentaire de conscience protectrice. À la suite de l'apparition des groupes de mammifères, nous vîmes l'esprit de connaissance se manifester dans une mesure accrue. de cette triple activité créatrice, il se développe une capacité physique organique du mental des mécanismes matériels destinés à réagir intelligemment aux stimulus du milieu externe, et Puis l'évolution des mammifères supérieurs permit le fonctionnement de l'esprit de conseil, avec la croissance correspondante de l'instinct grégaire et les débuts d'un développement social primitif._ <a id="a93_954"></a>[LU 62:6.2-3](/fr/The_Urantia_Book/62#p6_2)
+> _Au début, seull'esprit d'intuition pouvait agir sur le comportement instinctif et soumis aux réflexes de la vie animale élémentaire. Quand les types plus élevés se différencièrent, l'esprit de compréhension put attribuer à ces créatures la faculté d'associer spontanément des idées. Plus tard, nous vîmes opérer l'esprit de courage; les animaux en cours d'évolution acquirentréellement une forme rudimentaire de conscience protectrice. À la suite de l'apparition des groupes de mammifères, nous vîmes l'esprit de connaissance se manifester dans une mesure accrue. de cette triple activité créatrice, il se développe une capacité physique organique du mental des mécanismes matériels destinés à réagir intelligemment aux stimulus du milieu externe, et Puis l'évolution des mammifères supérieurs permit le fonctionnement de l'esprit de conseil, avec la croissance correspondante de l'instinct grégaire et les débuts d'un développement social primitif._ [LU 62:6.2-3](/fr/The_Urantia_Book/62#p6_2)
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/095.jpg">
@@ -79,17 +100,17 @@ Et alors que le cerveau croit, le mental se connectera au moyen des circuits men
 
 > _Imagine our joy one day—the twins were about ten years old—when the *spirit of worship* made its first contact with the mind of the female twin and shortly thereafter with the male. We knew that something closely akin to human mind was approaching culmination; and when, about a year later, they finally resolved, as a result of meditative thought and purposeful decision, to flee from home and journey north, then did the *spirit of wisdom* begin to function on Urantia and in these two now recognized human minds._
 > 
-> _There was an immediate and new order of mobilization of the seven adjutant mind-spirits. We were alive with expectation; we realized that the long-waited-for hour was approaching; we knew we were upon the threshold of the realization of our protracted effort to evolve will creatures on Urantia._ ([UB 62:6.5-6](/en/The_Urantia_Book/62#p6_5))
+> _There was an immediate and new order of mobilization of the seven adjutant mind-spirits. We were alive with expectation; we realized that the long-waited-for hour was approaching; we knew we were upon the threshold of the realization of our protracted effort to evolve will creatures on Urantia._ (<a id="a102_301"></a>[UB 62:6.5-6](/en/The_Urantia_Book/62#p6_5))
 
 So, in summary, a Life Bearer informs us:
 
-> _BASIC evolutionary material life—premind life—is the formulation of the Master Physical Controllers and the life-impartation ministry of the Seven Master Spirits in conjunction with the active ministration of the ordained Life Carriers. As a result of the co-ordinate function of this threefold creativity there develops organismal physical capacity for mind—material mechanisms for intelligent reaction to external environmental stimuli and, later on, to internal stimuli, influences taking origin in the organismal mind itself._ ([UB 65:0.1](/en/The_Urantia_Book/65#p0_1))
+> _BASIC evolutionary material life—premind life—is the formulation of the Master Physical Controllers and the life-impartation ministry of the Seven Master Spirits in conjunction with the active ministration of the ordained Life Carriers. As a result of the co-ordinate function of this threefold creativity there develops organismal physical capacity for mind—material mechanisms for intelligent reaction to external environmental stimuli and, later on, to internal stimuli, influences taking origin in the organismal mind itself._ (<a id="a106_535"></a>[UB 65:0.1](/en/The_Urantia_Book/65#p0_1))
 
-> _The physical brain with its associated nervous system possesses innate capacity for response to mind ministry just as the developing mind of a personality possesses a certain innate capacity for spirit receptivity and therefore contains the potentials of spiritual progress and attainment. Intellectual, social, moral, and spiritual evolution are dependent on the mind ministry of the seven adjutant spirits and their superphysical associates._ ([UB 65:6.10](/en/The_Urantia_Book/65#p6_10))
+> _The physical brain with its associated nervous system possesses innate capacity for response to mind ministry just as the developing mind of a personality possesses a certain innate capacity for spirit receptivity and therefore contains the potentials of spiritual progress and attainment. Intellectual, social, moral, and spiritual evolution are dependent on the mind ministry of the seven adjutant spirits and their superphysical associates._ (<a id="a108_449"></a>[UB 65:6.10](/en/The_Urantia_Book/65#p6_10))
 
 Much of this takes place between the material and mental spheres until the mind manages to reach it.
 
-_The adjutants operate exclusively in the evolution of the experiencing mind up to the level of the sixth phase, the spirit of worship. At this level there occurs an inevitable overlap of ministries—the phenomenon of the higher descending to the lower to coordinate with it for later attainment of advanced levels of development. A still additional spiritual ministry accompanies the action of the seventh and final adjutant, the spirit of wisdom._ ([UB 65:7.7](/en/The_Urantia_Book/65#p7_7))
+_The adjutants operate exclusively in the evolution of the experiencing mind up to the level of the sixth phase, the spirit of worship. At this level there occurs an inevitable overlap of ministries—the phenomenon of the higher descending to the lower to coordinate with it for later attainment of advanced levels of development. A still additional spiritual ministry accompanies the action of the seventh and final adjutant, the spirit of wisdom._ (<a id="a112_450"></a>[UB 65:7.7](/en/The_Urantia_Book/65#p7_7))
 
 These revelations give us a working knowledge of how our physical brain is supposed to function in relation to the mental circuits of the universe and the spiritual ministry available: (Spirit of Truth, Holy Spirit and Thought Adjuster). So what have our scientists and neuroscientists discovered?
 
@@ -118,7 +139,7 @@ As Jeffrey Schwartz comments in “The Mind and the Brain”:
 
 There is a second wave of synaptic sprouting, the emergence of new synapses in the frontal, parietal and temporal lobes that occurs just before puberty, usually between the ages of 12 and 16, and continues into the early twenties. This “sprouting” tends to begin a little earlier in girls than in boys and impacts self-control, judgment, and the ability to understand and understand the different functions but are in a meaningful relationship. Dan Siegel, in “Mind Vision,” proposes a tripartite system of brain, mind and relationships suggesting that each component contributes to the growth of the other. This is an interesting concept in light of Schwartz and Begley's comment that the life we live shapes the brain we develop. What we can begin to perceive here, and which is revealed in The Urantia Book, is the intricate wisdom and beauty that the Life Carriers have brought into the whole process of brain origin and development.
 
-> “_The physical brain with its associated nervous system possesses innate capacity for response to mind ministry just as the developing mind of a personality possesses a certain innate capacity for spirit receptivity and therefore contains the potentials of spiritual progress and attainment. Intellectual, social, moral, and spiritual evolution are dependent on the mind ministry of the seven adjutant spirits and their superphysical associates._” ([UB 65:6.10](/en/The_Urantia_Book/65#p6_10))
+> “_The physical brain with its associated nervous system possesses innate capacity for response to mind ministry just as the developing mind of a personality possesses a certain innate capacity for spirit receptivity and therefore contains the potentials of spiritual progress and attainment. Intellectual, social, moral, and spiritual evolution are dependent on the mind ministry of the seven adjutant spirits and their superphysical associates._” (<a id="a141_451"></a>[UB 65:6.10](/en/The_Urantia_Book/65#p6_10))
 
 Evolutionary neuroscience has not been able to, and perhaps cannot, realize and appreciate how the mind functions and evolves on this planet. Nevertheless, our scientists perceive the compelling differences between the mind and the brain and the interactions between the two. One can imagine how informative and liberating it would be to know the circuit of intelligence ministry on our planet—the seven adjutant mind-spirits (intuition, understanding, courage, knowledge, counsel, worship, and wisdom).
 
@@ -152,11 +173,11 @@ _The Urantia Book_ reveals that the seven adjutant mind-spirits operate on the m
 
 A Divine Counselor informs us:
 
-> _In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence._ ([UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
+> _In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence._ (<a id="a175_902"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
 
 And a member of the Life Carriers corps adds:
 
-> _The physiologic equipment and the anatomic structure of all new orders of life are in response to the action of physical law, but the subsequent endowment of mind is a bestowal of the adjutant mind-spirits in accordance with innate brain capacity. Mind, while not a physical evolution, is wholly dependent on the brain capacity afforded by purely physical and evolutionary developments._ ([UB 58:6.7](/en/The_Urantia_Book/58#p6_7))
+> _The physiologic equipment and the anatomic structure of all new orders of life are in response to the action of physical law, but the subsequent endowment of mind is a bestowal of the adjutant mind-spirits in accordance with innate brain capacity. Mind, while not a physical evolution, is wholly dependent on the brain capacity afforded by purely physical and evolutionary developments._ (<a id="a179_392"></a>[UB 58:6.7](/en/The_Urantia_Book/58#p6_7))
 
 We can therefore see that the mind depends on the mental capacity of the brain for its development while its evolution also depends on its capacity to be driven by the mind.
 
@@ -168,7 +189,7 @@ We have talked about the mind, the brain and consciousness while possibly circli
 
 A Lone Messenger tells us:
 
-> _At death the functional identity associated with the human personality is disrupted through the cessation of vital motion. Human personality, while transcending its constituent parts, is dependent on them for functional identity. The stoppage of life destroys the physical brain patterns for mind endowment, and the disruption of mind terminates mortal consciousness. The consciousness of that creature cannot subsequently reappear until a cosmic situation has been arranged which will permit the same human personality again to function in relationship with living energy._ ([UB 112:5.14](/en/The_Urantia_Book/112#p5_14))
+> _At death the functional identity associated with the human personality is disrupted through the cessation of vital motion. Human personality, while transcending its constituent parts, is dependent on them for functional identity. The stoppage of life destroys the physical brain patterns for mind endowment, and the disruption of mind terminates mortal consciousness. The consciousness of that creature cannot subsequently reappear until a cosmic situation has been arranged which will permit the same human personality again to function in relationship with living energy._ (<a id="a191_579"></a>[UB 112:5.14](/en/The_Urantia_Book/112#p5_14))
 
 This suggests that this unique personal consciousness, as a facet of the mind, is also temporarily terminated when neural activity is interrupted. When the physical brain is destroyed, it is clear that there is no transformer for use by the human mind and consciousness is unavailable.
 
@@ -178,13 +199,13 @@ What is needed? How does the brain participate? What triggers it? And where? How
 
 _The Urantia Book_ implies that there must be an electrical trigger, i.e. vital pulsations for consciousness to be operative. We know from various studies using fMRI, PET and SPECT scans etc. that brain activity can be recorded and measured. We now know that different sections of the brain respond to different thoughts, feelings and perceptions and reflect them electrochemically. So where in the brain are mystical experiences picked up? What areas seem to be activated or deactivated during these experiences? What is the interaction of our belief systems? What about the myths that support our stories? What about the rituals we use to support our myths? How is each and everyone connected to our brain system? Again, although already mentioned it is worth remembering that:
 
-> “_2. *Brain-type series.* The one physical uniformity of mortals is the brain and nervous system; nevertheless, there are three basic organizations of the brain mechanism: the one-, the two-, and the three-brained types. Urantians are of the two-brained type, somewhat more imaginative, adventurous, and philosophical than the one-brained mortals but somewhat less spiritual, ethical, and worshipful than the three-brained orders. These brain differences characterize even the prehuman animal existences._” ([UB 49:5.13](/en/The_Urantia_Book/49#p5_13))
+> “_2. *Brain-type series.* The one physical uniformity of mortals is the brain and nervous system; nevertheless, there are three basic organizations of the brain mechanism: the one-, the two-, and the three-brained types. Urantians are of the two-brained type, somewhat more imaginative, adventurous, and philosophical than the one-brained mortals but somewhat less spiritual, ethical, and worshipful than the three-brained orders. These brain differences characterize even the prehuman animal existences._” (<a id="a201_510"></a>[UB 49:5.13](/en/The_Urantia_Book/49#p5_13))
 
 When we reflect on the reality of what “fires the wires,” we can appreciate the power of our belief system and the establishment of correlated neural pathways. Our belief system is supported by the myths we cherish and identify with. Andrew Newberg in his 2012 course on “The Spiritual Brain” describes the brain as a myth-making machine. He considers this characteristic to be one of the significant aspects of this living organ. And while we understand that myths are a product of the mind, we also realize that it is through neural firing in the brain that they can be sustained.
 
 A Mighty Messenger tells us:
 
-> _Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a *universe frame* in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree._ ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+> _Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a *universe frame* in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree._ (<a id="a207_679"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 We can see how our human mind uses mythmaking to understand the world. It is how we make sense of (we think) who we are. It offers us possibilities and guidance for making decisions. Myths provide a sense of morality, ethics, right and wrong, origin and destiny. We create our own story and pass on previous stories that we find meaningful, inspiring, and supportive of who we want to be. Our religions are our myths of the day. They inform us, provide our belief systems, structure our way of life, and offer us a sense of purpose and destiny.
 
@@ -192,7 +213,7 @@ Our brain works with our mind to wire the underlying dynamics and support storie
 
 A Melchizedek tells us:
 
-> _The purpose of religion is not to satisfy curiosity about God but rather to afford intellectual constancy and philosophic security, to stabilize and enrich human living by blending the mortal with the divine, the partial with the perfect, man and God. It is through religious experience that man’s concepts of ideality are endowed with reality._ ([UB 101:10.5](/en/The_Urantia_Book/101#p10_5))
+> _The purpose of religion is not to satisfy curiosity about God but rather to afford intellectual constancy and philosophic security, to stabilize and enrich human living by blending the mortal with the divine, the partial with the perfect, man and God. It is through religious experience that man’s concepts of ideality are endowed with reality._ (<a id="a215_350"></a>[UB 101:10.5](/en/The_Urantia_Book/101#p10_5))
 
 Myths, preserved and transmitted, provide order to the world. They are transmitted through legends, maintained and embellished through ritual. A ritual is often put in place to further reinforce the impact of the myth because a ritual involves the entire human body in the act. Thus the myth becomes embodied. This process lays neural pathways in order to both incorporate and maintain the structure of the myth. Rituals are visceral, emotional and cognitive. They concretize the myth through structured and patterned behaviors, both rhythmic and repetitive.
 
@@ -204,7 +225,7 @@ These are the glasses through which we look. They can be positive or negative an
 
 While we can appreciate the evolutionary contributions of beliefs and rituals and the bridge they provide, it is also important for us to maintain awareness of their limitations. As one Melchizedek reminds us:
 
-> _Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God-knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested to a group, but faith can rise up only in the heart of the individual religionist._ ([UB 101:8.2](/en/The_Urantia_Book/101#p8_2))
+> _Belief is always limiting and binding; faith is expanding and releasing. Belief fixates, faith liberates. But living religious faith is more than the association of noble beliefs; it is more than an exalted system of philosophy; it is a living experience concerned with spiritual meanings, divine ideals, and supreme values; it is God-knowing and man-serving. Beliefs may become group possessions, but faith must be personal. Theologic beliefs can be suggested to a group, but faith can rise up only in the heart of the individual religionist._ (<a id="a227_549"></a>[UB 101:8.2](/en/The_Urantia_Book/101#p8_2))
 
 Many people have reported having spiritual and mystical experiences as a result of various rituals be it drumming, fasting, singing, prayer, meditation, dancing, etc. If we accept that the brain has neurologically supported many of our experiences, one may wonder if, how and where it might allow these altered states to continue.
 
@@ -216,7 +237,7 @@ Newberg proposes that we cannot understand religion without understanding the mi
 
 A Melchizedek reveals:
 
-> _Even the discoveries of science are not truly *real* in the consciousness of human experience until they are unraveled and correlated, until their relevant facts actually become *meaning* through encircuitment in the thought streams of mind. Mortal man views even his physical environment from the mind level, from the perspective of its psychological registry. It is not, therefore, strange that man should place a highly unified interpretation upon the universe and then seek to identify this energy unity of his science with the spirit unity of his religious experience. Mind is unity; mortal consciousness lives on the mind level and perceives the universal realities through the eyes of the mind endowment. The mind perspective will not yield the existential unity of the source of reality, the First Source and Center, but it can and sometime will portray to man the experiential synthesis of energy, mind, and spirit in and as the Supreme Being. But mind can never succeed in this unification of the diversity of reality unless such mind is firmly aware of material things, intellectual meanings, and spiritual values; only in the harmony of the triunity of functional reality is there unity, and only in unity is there the personality satisfaction of the realization of cosmic constancy and consistency._ ([UB 102:2.5](/en/The_Urantia_Book/102#p2_5))
+> _Even the discoveries of science are not truly *real* in the consciousness of human experience until they are unraveled and correlated, until their relevant facts actually become *meaning* through encircuitment in the thought streams of mind. Mortal man views even his physical environment from the mind level, from the perspective of its psychological registry. It is not, therefore, strange that man should place a highly unified interpretation upon the universe and then seek to identify this energy unity of his science with the spirit unity of his religious experience. Mind is unity; mortal consciousness lives on the mind level and perceives the universal realities through the eyes of the mind endowment. The mind perspective will not yield the existential unity of the source of reality, the First Source and Center, but it can and sometime will portray to man the experiential synthesis of energy, mind, and spirit in and as the Supreme Being. But mind can never succeed in this unification of the diversity of reality unless such mind is firmly aware of material things, intellectual meanings, and spiritual values; only in the harmony of the triunity of functional reality is there unity, and only in unity is there the personality satisfaction of the realization of cosmic constancy and consistency._ (<a id="a239_1317"></a>[UB 102:2.5](/en/The_Urantia_Book/102#p2_5))
 
 Newberg comments in “Why God Won’t Go Away” (pp. 145-146)
 
@@ -262,13 +283,13 @@ We are truly blessed to have the information in The Urantia Book at our disposal
 
 We know that:
 
-> _Material mind is the arena in which human personalities live, are self-conscious, make decisions, choose God or forsake him, eternalize or destroy themselves._ ([UB 111:1.3](/en/The_Urantia_Book/111#p1_3))
+> _Material mind is the arena in which human personalities live, are self-conscious, make decisions, choose God or forsake him, eternalize or destroy themselves._ (<a id="a285_164"></a>[UB 111:1.3](/en/The_Urantia_Book/111#p1_3))
 
 And that: the material mind needs a living mechanism, the brain, to function.
 
 We also know that:
 
-> _Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given mind, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness._ ([UB 111:1.4](/en/The_Urantia_Book/111#p1_4))
+> _Material evolution has provided you a life machine, your body; the Father himself has endowed you with the purest spirit reality known in the universe, your Thought Adjuster. But into your hands, subject to your own decisions, has been given mind, and it is by mind that you live or die. It is within this mind and with this mind that you make those moral decisions which enable you to achieve Adjusterlikeness, and that is Godlikeness._ (<a id="a291_442"></a>[UB 111:1.4](/en/The_Urantia_Book/111#p1_4))
 
 And furthermore: this process is supported, maintained and promoted by our brain in conjunction with our consciousness.
 
@@ -286,7 +307,7 @@ It is truly our own choice. We can consciously, in our own material mind, using 
 
 **Sensory area**: Area of the cerebral cortex that receives data from sensory neurons in peripheral areas.
 
-**Soul**: The soul of man is an experiential acquisition. As a mortal creature chooses to “do the will of the Father in heaven,” the indwelling spirit becomes the father of a new reality in human experience. The mortal, material mind is the mother of this same emerging reality. The substance of this new reality is neither material nor spiritual—it is morontia. It is the emerging, immortal soul destined to survive physical death and begin the Paradise ascension. ([UB 0:5.10](/en/The_Urantia_Book/0#p5_10))
+**Soul**: The soul of man is an experiential acquisition. As a mortal creature chooses to “do the will of the Father in heaven,” the indwelling spirit becomes the father of a new reality in human experience. The mortal, material mind is the mother of this same emerging reality. The substance of this new reality is neither material nor spiritual—it is morontia. It is the emerging, immortal soul destined to survive physical death and begin the Paradise ascension. (<a id="a309_467"></a>[UB 0:5.10](/en/The_Urantia_Book/0#p5_10))
 
 **Amygdala**: Watchdog of the brain. Barometer of fear. Lights up when things happen that are emotionally significant, positive or negative. Just behind the hypothalamus. Mediates emotion. Main alarm bell.
 
@@ -402,7 +423,7 @@ It is truly our own choice. We can consciously, in our own material mind, using 
 
 **Explicit memory**: factual, autobiographical, and easily articulated.
 
-**Mind**: _The thinking, perceiving and feeling mechanism of the human organism. The total of conscious and unconscious experience. The intelligence associated with emotional life rising to the level of spirit through worship and wisdom._ ([UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
+**Mind**: _The thinking, perceiving and feeling mechanism of the human organism. The total of conscious and unconscious experience. The intelligence associated with emotional life rising to the level of spirit through worship and wisdom._ (<a id="a425_240"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
 
 **Cosmic Mind**: Mind of the Seven Master Spirits conditioned by time.
 
@@ -412,7 +433,7 @@ It is truly our own choice. We can consciously, in our own material mind, using 
 
 **Spinal cord**: Base of the skull to the 1st lumbar vertebra. Receives sensory information from the skin, joints and muscles of the trunk and limbs. Contains motor neurons responsible for voluntary and reflexive movements.
 
-**Morontia**: _Term designating a vast intermediate level between the material and the spiritual. It can designate personal or impersonal realities, living or non-living energies. The warp of the morontia fabric is spiritual, its weft is material._ ([UB 0:5.12](/en/The_Urantia_Book/0#p5_12))
+**Morontia**: _Term designating a vast intermediate level between the material and the spiritual. It can designate personal or impersonal realities, living or non-living energies. The warp of the morontia fabric is spiritual, its weft is material._ (<a id="a435_250"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12))
 
 **Clinical death**: Vital signs cease, heart in ventricular fibrillation. No activity in the cortex of the brain (flat EEG). Brainstem activity terminated. CPR does not allow resuscitation.
 
@@ -438,7 +459,7 @@ It is truly our own choice. We can consciously, in our own material mind, using 
 
 **Oxytocin**: Neuropeptide hormone produced in the hypothalamus and which increases social bonding. Oxytocin is released at birth, during breastfeeding, in sexual orgasm and also in romantic relationships.
 
-**Personality**: _The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the only unchanging reality in the ever-changing experience of a creature; and it unifies all other associated factors of individuality. Personality is the unique endowment bestowed by the Universal Father upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontia soul._ ([UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
+**Personality**: _The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the only unchanging reality in the ever-changing experience of a creature; and it unifies all other associated factors of individuality. Personality is the unique endowment bestowed by the Universal Father upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontia soul._ (<a id="a461_458"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11))
 
 **Process Philosophy**: Attitude regarding the mind/brain: The mind and brain are the manifestation of one reality which is in f PSI Effect: Telepathic and psycho kinetic phenomena which are in constant flux.
 
@@ -547,3 +568,25 @@ It is truly our own choice. We can consciously, in our own material mind, using 
 
 **Tomaino, C. A. (2012)**. _Awakening The Brain_: The neuropsychology of grace. New York: Atria.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">10th International Conference of the UAI Association — Amsterdam, The Netherlands</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Dulask/La_Confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trust</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="pr-2">Self-esteem I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Breathing like an ocean wave_
@@ -61,3 +85,28 @@ Yochin Tarutode
 <figcaption>“Fascot! Just a little balance and training!”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Dulask/La_Confiance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trust</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosette_Poletti_and_Barbara_Dobbs/L_estime_de_soi_1">
+          <span class="pr-2">Self-esteem I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

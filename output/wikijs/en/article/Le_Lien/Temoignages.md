@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Compte_Rendu_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="pr-2">Adjuster, Absoluteness and Fusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -35,7 +59,7 @@ The call has been made: prepare for the 2025 European meeting!
 
 <br style=“clear:both;”/>
 
-> The myriads of planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who could know God, receive the divine affection, and love him in return. The universe of universes is the work of God and the dwelling place of his diverse creatures. “God created the heavens and formed the earth; he established the universe and created this world not in vain; he formed it to be inhabited.” ([UB 1:0.2](/en/The_Urantia_Book/1#p0_2))
+> The myriads of planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who could know God, receive the divine affection, and love him in return. The universe of universes is the work of God and the dwelling place of his diverse creatures. “God created the heavens and formed the earth; he established the universe and created this world not in vain; he formed it to be inhabited.” (<a id="a61_444"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2))
 
 ## How I (Re)Became “Addicted” to the Urantian Brotherhood in La Neylière.
 
@@ -87,3 +111,28 @@ Calligraphy by Sophie Malicot
 <img src="/image/article/Le_Lien/images_03/141.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Compte_Rendu_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Ajusteur_Absoluite_et_Fusion_2">
+          <span class="pr-2">Adjuster, Absoluteness and Fusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

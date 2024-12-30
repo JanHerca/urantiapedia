@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Arnaud and Jérôme Pingwende Zoungrana<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book in Cameroon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Testimony from Ivory Coast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Testimony of Arnaud and Jérôme Pingwende Zoungrana_
@@ -75,3 +99,28 @@ Many churches and sects are well established. They capture the faithful by dangl
 
 The dissemination of the teachings of The Urantia Book would be so liberating for all these hungry souls. The complexity of the book requires the training of African facilitators and the creation of study groups in which sharing becomes easier and fraternal is the solution.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/LU_au_Cameroun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book in Cameroon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="pr-2">Testimony from Ivory Coast</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

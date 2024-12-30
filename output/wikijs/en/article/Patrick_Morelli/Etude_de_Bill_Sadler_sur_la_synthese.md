@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Patrick Morelli<br>© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Already 60 Years</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">International Meeting of Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In his study Bill gives us more than one clue to try to understand the “Challenge of Personality-Power synthesis”.
@@ -28,7 +52,7 @@ It being understood that the definition of a Triunity is “functional associati
 
 To return to the 2nd phase of differentiation of the Universal Father, Father-Son-Spirit, without Paradise, the convergence towards the first unity of the actual does not take place since Paradise is isolated from the paradisiacal Trinity. The convergence can probably only take place thanks to the personality-power association which will only be actualized with the absolute, absonite and finite unification, i.e. Trinity of Supremacy, Trinity of the Ultimate and Absolute of Deity. When these three levels Supreme, Ultimate and Absolute are considered it is thanks, no longer to the Triunities which are and function on the existential level, but thanks to the two Triodities, the actual Eternal Son - Isle of Paradise - Conjoint Actor and the potential Absolute of Deity - Universal Absolute - Unqualified Absolute which are a vertical divergence.
 
-[UB 104:5.12](/en/The_Urantia_Book/104#p5_12): "As the triunities are primarily concerned with the functional unification of infinity, so the triodities are involved in the cosmic appearance of the experiential Deities. The triunities are indirectly concerned with the experiential Deities—Supreme, Ultimate, and Absolute—but the triodities are directly concerned. They appear in the emerging power-personality synthesis of the Supreme Being. And, to the temporal creatures of space, the Supreme Being is a revelation of the unity of the I AM.
+<a id="a54_0"></a>[UB 104:5.12](/en/The_Urantia_Book/104#p5_12): "As the triunities are primarily concerned with the functional unification of infinity, so the triodities are involved in the cosmic appearance of the experiential Deities. The triunities are indirectly concerned with the experiential Deities—Supreme, Ultimate, and Absolute—but the triodities are directly concerned. They appear in the emerging power-personality synthesis of the Supreme Being. And, to the temporal creatures of space, the Supreme Being is a revelation of the unity of the I AM.
 
 By inaugurating the first distribution of himself coming out of the I AM as stated above, the process of divergence - convergence of the First Source Center begins; with at each stage of lateral and vertical metamorphosis the convergent return through the system of immediate and long and medium term trinitization.
 
@@ -38,3 +62,28 @@ All this can possibly be imagined through the intermediary of a permanent differ
 
 _Patrick Morelli._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Already 60 Years</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">International Meeting of Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

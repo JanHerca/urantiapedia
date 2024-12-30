@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Benjamin Boisson<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities part IV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Une_soiree_a_la_Neyliere">
+          <span class="pr-2">An evening at the Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Saint Philip Neri, patron saint of humorists (16th century)***
@@ -36,3 +60,28 @@ _(For the humor of God, editions of the Beatitudes)_
 
 Benjamin Boisson
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities part IV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Une_soiree_a_la_Neyliere">
+          <span class="pr-2">An evening at the Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

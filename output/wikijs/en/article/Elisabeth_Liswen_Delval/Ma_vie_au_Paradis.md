@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Elisabeth Liswen Delval<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reclosed</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">God's CV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear Urantians, after our meeting in Chalès, I wanted to draw your attention to a nice book “My life in Paradise” which relates the testimonies of Mgr Robert Hugh Benson, Archbishop of Canterbury who died in 1914, who dictated in spirit to Anthony Borgia, medium, the first days and the first impressions of his arrival in the other life.
@@ -19,7 +43,7 @@ For those who have questions that are a little more down to earth, if I may say 
 
 We will begin the story when he arrives up there.
 
-“As soon as I was able to look around me and appreciate my new state, I was joined by one of my former colleagues, a priest who had died a few years before” [UB 47:3.6](/en/The_Urantia_Book/47#p3_6)
+“As soon as I was able to look around me and appreciate my new state, I was joined by one of my former colleagues, a priest who had died a few years before” <a id="a45_157"></a>[UB 47:3.6](/en/The_Urantia_Book/47#p3_6)
 
 You have time to satisfy your desire to consult the register of inscriptions and to visit your loved ones and other earthly friends who have preceded you in this world.
 
@@ -53,7 +77,7 @@ The view was simply magnificent. I would never have expected to contemplate such
 
 “Magnificent buildings present the image of eternal permanence. The materials with which they are built are imperishable. The surfaces are as clean and fresh as on their first day. Nothing defiles them. The materials with which they are built are those of the spiritual world, so their beauty is divine.
 
-[UB 48:1.3](/en/The_Urantia_Book/48#p1_3) The Master Physical Controllers and Morontia Power Supervisors can alter the rotation of the primary units of matter, and at the same time transform these energy associations so as to create this new substance.
+<a id="a79_0"></a>[UB 48:1.3](/en/The_Urantia_Book/48#p1_3) The Master Physical Controllers and Morontia Power Supervisors can alter the rotation of the primary units of matter, and at the same time transform these energy associations so as to create this new substance.
 
 “A rest house: It served those who had arrived in the spirit world after a long illness, or who had died a violent death... Immediately above the building, a great dome of blue light enveloped it in its radiance. It was a revitalizing fluid, a great healing radiation sent to those who were not yet spiritually awakened.”
 
@@ -75,3 +99,28 @@ Anthony Borgia: MY LIFE IN PARADISE from Editions de Roseau/or Editions DERVYLIV
 
 Elisabeth Liswen Delval
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reclosed</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">God's CV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

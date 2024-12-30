@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United around a BOOK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">Are we ambassadors?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The primary aim of the Theosophical Society is the formation of a nucleus of the Universal Brotherhood of Humanity without distinction of race, religion, sex, caste or colour. Now, the principle of brotherhood is also accepted by other movements and associations, and human solidarity is increasingly recognised and practised on an international scale in many aspects, although most often based on mutual interests. However, the notion of brotherhood, as it is understood in theosophical teaching, has much deeper roots.
@@ -41,3 +65,28 @@ We can compare this quote with the following words of a Master: The goal of the 
 
 Excerpt from a theosophical publication
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Unis_autour_dun_LIVRE">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United around a BOOK</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Sommes_nous_des_ambassadeurs">
+          <span class="pr-2">Are we ambassadors?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

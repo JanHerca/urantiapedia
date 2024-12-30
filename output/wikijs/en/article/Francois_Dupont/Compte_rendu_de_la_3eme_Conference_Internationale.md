@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 François Dupont<br>© 1996 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artistic conception of the Master Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Meeting of the translators of the URANTIA Book organized by the URANTIA Foundation in PARIS in April 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -30,7 +54,7 @@ However, two new possibilities have been introduced:
 
 On August 9, Michäel Hanian (Russia) opened the Study Conference by developing the first theme, dedicated to **Consecration**.
 
-> The Universal Father never imposes any form of arbitrary recognition, formal worship, or slavish service upon the intelligent will creatures of the universes. The evolutionary inhabitants of the worlds of time and space must of themselves—in their own hearts—recognize, love, and voluntarily worship him. The Creator refuses to coerce or compel the submission of the spiritual free wills of his material creatures. The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. In God, man lives, moves, and has his being; there is nothing which man can give to God except this choosing to abide by the Father’s will, and such decisions, effected by the intelligent will creatures of the universes, constitute the reality of that true worship which is so satisfying to the love-dominated nature of the Creator Father. ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+> The Universal Father never imposes any form of arbitrary recognition, formal worship, or slavish service upon the intelligent will creatures of the universes. The evolutionary inhabitants of the worlds of time and space must of themselves—in their own hearts—recognize, love, and voluntarily worship him. The Creator refuses to coerce or compel the submission of the spiritual free wills of his material creatures. The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. In God, man lives, moves, and has his being; there is nothing which man can give to God except this choosing to abide by the Father’s will, and such decisions, effected by the intelligent will creatures of the universes, constitute the reality of that true worship which is so satisfying to the love-dominated nature of the Creator Father. (<a id="a56_990"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
 He highlighted the link between intellectual curiosity and deepening of the content born from the approach of the _URANTIA Book_. The result of his two investigations leading to a new perception of God, Men and Life.
 
@@ -50,9 +74,34 @@ We will thus cross the successive spirals of human evolution.
 
 Our understanding of cosmic citizenship as well as our dialogue with God the Father will be strengthened. As for the supports or vehicles of these transformations, we will find them in the life and teachings of Jesus which include, among others: humility, communion, meditation, forgiveness, international and social fraternity, confident expectation etc.
 
-> In the universes God the Father is, in potential, the overcontroller of matter, mind, and spirit. Only by means of his far-flung personality circuit does God deal directly with the personalities of his vast creation of will creatures, but he is contactable (outside of Paradise) only in the presences of his fragmented entities, the will of God abroad in the universes. This Paradise spirit that indwells the minds of the mortals of time and there fosters the evolution of the immortal soul of the surviving creature is of the nature and divinity of the Universal Father. But the minds of such evolutionary creatures originate in the local universes and must gain divine perfection by achieving those experiential transformations of spiritual attainment which are the inevitable result of a creature’s choosing to do the will of the Father in heaven. ([UB 1:3.6](/en/The_Urantia_Book/1#p3_6))
+> In the universes God the Father is, in potential, the overcontroller of matter, mind, and spirit. Only by means of his far-flung personality circuit does God deal directly with the personalities of his vast creation of will creatures, but he is contactable (outside of Paradise) only in the presences of his fragmented entities, the will of God abroad in the universes. This Paradise spirit that indwells the minds of the mortals of time and there fosters the evolution of the immortal soul of the surviving creature is of the nature and divinity of the Universal Father. But the minds of such evolutionary creatures originate in the local universes and must gain divine perfection by achieving those experiential transformations of spiritual attainment which are the inevitable result of a creature’s choosing to do the will of the Father in heaven. (<a id="a76_854"></a>[UB 1:3.6](/en/The_Urantia_Book/1#p3_6))
 
 Francois Dupont
 September 1, 1996 — BRUSSELS
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Yves_Vigneron/Conception_artistique_du_Maitre_Univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artistic conception of the Master Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="pr-2">Meeting of the translators of the URANTIA Book organized by the URANTIA Foundation in PARIS in April 1996</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

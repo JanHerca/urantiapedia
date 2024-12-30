@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean-Claude Romeuf<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaxation corner: Impressions of the future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-18-summer-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">After the meeting of May 2001 at N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Flora was playing on the beach, a beach like all beaches: with the sea in front, blue or gray as you prefer, that's not important. What matters is to imagine the little girl playing alone on the sand, at the edge of the sea.
@@ -27,3 +51,28 @@ An angel landed near her. She had known about the existence of angels for a long
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Davier/Coin_detente_Impressions_davenir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relaxation corner: Impressions of the future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-18-summer-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Apres_la_rencontre_de_mai_2001_a_ND_des_Lumieres">
+          <span class="pr-2">After the meeting of May 2001 at N. D. des Lumiêres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">News from the Foundation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">A Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 European Congress Committee
@@ -27,9 +51,9 @@ The Urantia Association of Spain, Urantia Association International and the Euro
 
 ### ABOUT THE THEME
 
-According to the revelators, ***...the worst of the materialistic age is past; the day of greater understanding is already dawning (195:6.4, 2076.9), and the world needs to see Jesus revived on earth in the experience of spirit-born mortals who are actually revealing the Master to all men.*** ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
+According to the revelators, ***...the worst of the materialistic age is past; the day of greater understanding is already dawning (195:6.4, 2076.9), and the world needs to see Jesus revived on earth in the experience of spirit-born mortals who are actually revealing the Master to all men.*** (<a id="a53_295"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)).
 
-But how can we leave materialism behind and be born of the spirit? How can we develop spiritually? Jesus himself said that _self-control is the measure of man's moral nature and the indicator of his spiritual development_. ([UB 143:2.3](/en/The_Urantia_Book/143#p2_3)) Learning the art of self-control therefore seems fundamental to progress, both morally and spiritually. This is why, at the 3rd European Urantia Congress, we will explore the different facets that seem most important to us for governing ourselves. With this intention, a series of workshops has been proposed under the common title of “The Road to Self-Control”.
+But how can we leave materialism behind and be born of the spirit? How can we develop spiritually? Jesus himself said that _self-control is the measure of man's moral nature and the indicator of his spiritual development_. (<a id="a55_224"></a>[UB 143:2.3](/en/The_Urantia_Book/143#p2_3)) Learning the art of self-control therefore seems fundamental to progress, both morally and spiritually. This is why, at the 3rd European Urantia Congress, we will explore the different facets that seem most important to us for governing ourselves. With this intention, a series of workshops has been proposed under the common title of “The Road to Self-Control”.
 
 **Considering the physical, mental and spiritual parts** of ourselves, we designed the workshops with the intention of examining all the aspects and tools that allow us to master ourselves: — **Self-mastery from a neurophysiological (body) perspective**: We are mortal beings who live our lives through bodies of flesh and blood and are still very much conditioned by matter. This workshop will address aspects related to genetics and other physiological conditions, such as the parts that make up the brain and how they influence our behavior and its neuroplasticity, which offers the possibility of changing our behavioral patterns.
 
@@ -44,3 +68,28 @@ The objective of the workshops is fundamentally practical, so a brief theoretica
 To register, go to the registration site at: www.urantiaevents.com
 where you will find a choice of 5 different languages.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">News from the Foundation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">A Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

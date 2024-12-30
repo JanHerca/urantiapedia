@@ -50,7 +50,7 @@ Association with other readers in the context of a study group protects us from 
 
 In the introduction to _The Urantia Book_, the revelators inform us of the state of our minds. Here is what a Divine Counselor tells us on this subject:
 
-> “IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations.” ([UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
+> “IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations.” (<a id="a52_319"></a>[UB 0:0.1](/en/The_Urantia_Book/0#p0_1))
 
 Who among us has not encountered difficulty in understanding what this Divine Counselor was telling us in the Introduction to the Urantia Book? Who among us, after several readings, does not still experience certain difficulties in intellectually understanding certain concepts, not to mention the appropriation of spiritual truths?
 

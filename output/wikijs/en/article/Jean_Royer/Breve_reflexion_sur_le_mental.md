@@ -9,19 +9,43 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Jean Royer<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-18-summer-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="pr-2">The role of emotions in spiritual research</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A discussion about the mind that has just taken place on the web (internet) leads me to ask myself once again the question of the bases of our understanding.
 
 It is obviously not a question of analyzing here what the mind is in The Urantia Book, it is too complex an undertaking for a term which is used 1744 times (at least in its English form of “mind”); I would simply like to make a few remarks on the first definition of the word and even more precisely on the first sentence:
 
-> _2. *Mind.* The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level._ ([UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
+> _2. *Mind.* The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level._ (<a id="a41_251"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
 
-Misleading definition, because what could a thinking mechanism be? Everyone, when they see the word mechanism, first thinks of the cogs of a machine; the most philosophical see Descartes saying: “man is a machine.” Moreover, to drive the point home, the first French translation was not _the mental_ but _the organ of thought_. It is not surprising that the reader did not imagine, and sometimes still does not imagine, that we are talking about the brain. However, that is not it. The word mechanism translates the English “_mechanism_” whose first meaning is indeed the same as that of the French from which it is borrowed, but meaning 2 tells us that it is a system or a process. It is indeed the meaning of system that must be taken. Do you want a justification? _The mind is a ***system*** of personal energy existing around a divine core of spirit and functioning in a material environment._ [UB 12:9.6](/en/The_Urantia_Book/12#p9_6) or even:
+Misleading definition, because what could a thinking mechanism be? Everyone, when they see the word mechanism, first thinks of the cogs of a machine; the most philosophical see Descartes saying: “man is a machine.” Moreover, to drive the point home, the first French translation was not _the mental_ but _the organ of thought_. It is not surprising that the reader did not imagine, and sometimes still does not imagine, that we are talking about the brain. However, that is not it. The word mechanism translates the English “_mechanism_” whose first meaning is indeed the same as that of the French from which it is borrowed, but meaning 2 tells us that it is a system or a process. It is indeed the meaning of system that must be taken. Do you want a justification? _The mind is a ***system*** of personal energy existing around a divine core of spirit and functioning in a material environment._ <a id="a43_898"></a>[UB 12:9.6](/en/The_Urantia_Book/12#p9_6) or even:
 
-_The mortal mind is a temporary intellectual ***system*** loaned to human beings for the duration of a material life._ [UB 111:1.5](/en/The_Urantia_Book/111#p1_5)
+_The mortal mind is a temporary intellectual ***system*** loaned to human beings for the duration of a material life._ <a id="a45_119"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)
 
-Furthermore, the word _mechanism, in the usual sense this time, is found in: Without help, the mind is powerless to influence anything material, except its own physical mechanism to which it is inexorably linked._ [UB 111:6.5](/en/The_Urantia_Book/111#p6_5)
+Furthermore, the word _mechanism, in the usual sense this time, is found in: Without help, the mind is powerless to influence anything material, except its own physical mechanism to which it is inexorably linked._ <a id="a47_214"></a>[UB 111:6.5](/en/The_Urantia_Book/111#p6_5)
 
 If the mind is linked to a physical mechanism, is this not further proof that it is not itself this physical mechanism?
 
@@ -29,3 +53,28 @@ Another time perhaps, we will see that the mind should not be confused with the 
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/018">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-18-summer-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 18 — Summer 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Le_role_des_emotions_dans_la_recherche_spirituelle">
+          <span class="pr-2">The role of emotions in spiritual research</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

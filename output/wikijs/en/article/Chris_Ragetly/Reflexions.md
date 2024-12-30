@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Chris Ragetly<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Triptych</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">Should we juggle with numbers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-_It was while reading in “Mighty Messenger” from the summer of 2003, the article entitled “Uncertainty in security is the essence of the adventure of Paradise...” ([UB 111:7.1](/en/The_Urantia_Book/111#p7_1)), that these few thoughts came to me:_
+
+_It was while reading in “Mighty Messenger” from the summer of 2003, the article entitled “Uncertainty in security is the essence of the adventure of Paradise...” (<a id="a37_164"></a>[UB 111:7.1](/en/The_Urantia_Book/111#p7_1)), that these few thoughts came to me:_
 
 During the 2003 Summer Session of the Fellowship, participants were given the opportunity to study the topic of “Revelation and the Believer” and to delve deeper into the mystery of the use of human sources in The Urantia Book. Matthew Block, the pioneer of research on this subject, candidly shared his personal experiences in exploring dozens of these human sources. Other speakers shared their findings from this research, and there was an opportunity for a genuine investigation of the full range of intellectual and emotional reactions to the discussions, workshops, and lectures, a soul journey as well as an intellectual expedition.
 
@@ -21,3 +45,28 @@ It may be asked whether we know all the reasons why the authors of The Urantia B
 
 Chris Ragetly
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Triptyque">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Triptych</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Doit_on_jongler_avec_les_nombres">
+          <span class="pr-2">Should we juggle with numbers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

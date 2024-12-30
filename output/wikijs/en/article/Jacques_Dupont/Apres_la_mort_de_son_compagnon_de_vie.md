@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jacques Dupont<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Thoughts and Questions of Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Merci_mon_Dieu">
+          <span class="pr-2">Thank You, My God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - It's a psychological upheaval.
@@ -44,3 +68,28 @@ But our material ego always spontaneously and profoundly opposes this meditation
 
 Jacques Dupont JUNE 1981
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Quelques_Reflexions_et_Interrogations_de_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Thoughts and Questions of Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Merci_mon_Dieu">
+          <span class="pr-2">Thank You, My God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

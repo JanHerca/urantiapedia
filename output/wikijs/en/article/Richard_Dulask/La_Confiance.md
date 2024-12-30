@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Richard Dulask<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/La_Neyliere_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="pr-2">The Breath of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Trust: our weapon against worry**
@@ -38,3 +62,28 @@ _Trust: our weapon against worry, letter from Unity, (UNITY SCHOOL OF CHRISTIANI
 
 Richard Dulask
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/La_Neyliere_2012">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neylière 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Souffle_de_Dieu">
+          <span class="pr-2">The Breath of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

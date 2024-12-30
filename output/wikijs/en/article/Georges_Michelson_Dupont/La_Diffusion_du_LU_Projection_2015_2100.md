@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Translation of The Urantia Book: State of Play</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Interactive Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## The role of French in the dissemination of the Teachings of the Urantia Book in the World.
@@ -98,7 +122,32 @@ The planetary government personnel in charge of the project _The Urantia Book_ a
 
 All these events show that there is a general plan and a precise organization put in place by our invisible friends and by the planetary government of the seraphim to evolve the spirituality of Urantia. More particularly and with regard to the French-speaking world, the demographic explosion in Africa is a major future challenge and we must prepare for it. The keys are certainly found in the “publication mandate” and the five points mentioned above are in place: it is up to us to participate to the best of our ability.
 
-> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” ([UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a124_172"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Translation of The Urantia Book: State of Play</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Interactive Study Group</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

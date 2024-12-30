@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Universe and Nature, a mechanism of laws</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers_et_Max_Masotti/Anniversaire_de_Micael">
+          <span class="pr-2">Michael’s Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -54,3 +78,28 @@ Nicaraguan poetess
 
 Gioconda Belli
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Universe and Nature, a mechanism of laws</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers_et_Max_Masotti/Anniversaire_de_Micael">
+          <span class="pr-2">Michael’s Birthday</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

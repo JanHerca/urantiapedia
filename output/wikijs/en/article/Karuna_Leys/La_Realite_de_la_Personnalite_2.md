@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Karuna Leys<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Awakened to the fullness of life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The ability to abstract (reason) also allows us to imagine things in the **future**, in a time that does not yet exist! This is why we humans can be concerned about the fate of the generations that will live after us, and we can undertake things whose results will be realized in a distant time. Animals cannot do this. Only a being who is given reason can reflect on something that will happen long before it happens. He can imagine different scenarios and reflect on the different means to achieve his goal. He can also reflect on the value of this goal. Does the goal really have a value? Is it worth it? He can therefore reflect on the usefulness. Will it serve any purpose? When a man does not reflect on the purpose and usefulness of his efforts, he lives at the level of animals.
@@ -33,3 +57,28 @@ When our child begins to exercise and experience his free will, his free will, i
 
 Karuna Leys
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_7b">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities VII</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chaz_Wesley/Eveille_a_la_plenitude_de_la_vie">
+          <span class="pr-2">Awakened to the fullness of life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

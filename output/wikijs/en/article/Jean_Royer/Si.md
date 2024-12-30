@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Jean Royer<br>© 2002 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-24-winter-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 24 — Winter 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">The Providence of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _[Warning: This reflection cannot be considered as an attack on the Foundation, but rather as a historical regret in line with the remark made in 1942 by the revelation commission to the contact commission which said: You have not done enough to protect your name...] Jean Royer_
@@ -21,3 +45,28 @@ But we can't rewrite history, can we?
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-24-winter-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 24 — Winter 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nicole_Ragetly/La_Providence_de_Dieu">
+          <span class="pr-2">The Providence of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

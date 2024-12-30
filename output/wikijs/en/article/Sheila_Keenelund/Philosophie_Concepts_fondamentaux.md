@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Sheila Keenelund<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul and the Eternal Feminine (3)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_09_Les_questions">
+          <span class="pr-2">Maxien Quiz No. 9 The Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Concepts in the philosophy of the universe gleaned from The Urantia Book
@@ -77,3 +101,28 @@ Sheila Keenelund
 <figcaption>“Eve finds herself “the” universal companion, the mirror!”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Paul_et_l_Eternel_Feminin_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paul and the Eternal Feminine (3)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_09_Les_questions">
+          <span class="pr-2">Maxien Quiz No. 9 The Questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

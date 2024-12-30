@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 François Dupont<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deity and divinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-4-summer-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 4 — Summer 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Supremacy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The following reflection aims to shed light on the functioning of the personality at the level of different cosmic, universal and divine realities. Jacques Dupont's article offers us a broad overview of the characteristics of the personality.
@@ -19,25 +43,25 @@ This essay aims to study the personality only in its links with other realities,
 
 **1) Deified reality**
 
-> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” ([UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
+> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” (<a id="a45_377"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
 
-> “3. *Interassociated reality.* Universe reality is supposedly either deified or undeified, but to subdeified beings there exists a vast domain of interassociated reality, potential and actualizing, which is difficult of identification. Much of this co-ordinate reality is embraced within the realms of the Universal Absolute.” ([UB 0:4.4](/en/The_Urantia_Book/0#p4_4))
+> “3. *Interassociated reality.* Universe reality is supposedly either deified or undeified, but to subdeified beings there exists a vast domain of interassociated reality, potential and actualizing, which is difficult of identification. Much of this co-ordinate reality is embraced within the realms of the Universal Absolute.” (<a id="a47_330"></a>[UB 0:4.4](/en/The_Urantia_Book/0#p4_4))
 
 The personality is therefore an invariable reality whose potential content will begin to manifest itself as soon as it is attributed to an ascender, to reach complete actualization (?) at the end of the cosmic journey. By its potentials, this reality in the process of deification is able to function on and within all levels of cosmic, universal and divine realities.
 
 **2) Cosmic reality**
 
-> “In order to facilitate mortal comprehension of the universe of universes, the diverse levels of cosmic reality have been designated as finite, absonite, and absolute. Of these only the absolute is unqualifiedly eternal, truly existential. Absonites and finites are derivatives, modifications, qualifications, and attenuations of the original and primordial absolute reality of infinity.” ([UB 115:1.3](/en/The_Urantia_Book/115#p1_3))
+> “In order to facilitate mortal comprehension of the universe of universes, the diverse levels of cosmic reality have been designated as finite, absonite, and absolute. Of these only the absolute is unqualifiedly eternal, truly existential. Absonites and finites are derivatives, modifications, qualifications, and attenuations of the original and primordial absolute reality of infinity.” (<a id="a53_392"></a>[UB 115:1.3](/en/The_Urantia_Book/115#p1_3))
 
 **3) Universal reality**
 
-> There are just three elements in universal reality: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value. ([UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
+> There are just three elements in universal reality: fact, idea, and relation. The religious consciousness identifies these realities as science, philosophy, and truth. Philosophy would be inclined to view these activities as reason, wisdom, and faith—physical reality, intellectual reality, and spiritual reality. We are in the habit of designating these realities as thing, meaning, and value. (<a id="a57_398"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2))
 
 **4) Divine reality**
 
-> “Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values.” ([UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
+> “Paradise values of eternity and infinity, of truth, beauty, and goodness, are concealed within the facts of the phenomena of the universes of time and space. But it requires the eye of faith in a spirit-born mortal to detect and discern these spiritual values.” (<a id="a61_266"></a>[UB 195:7.4](/en/The_Urantia_Book/195#p7_4))
 
-### II — Personality and its triple universal status ([UB 112:1.1](/en/The_Urantia_Book/112#p1_1))
+### II — Personality and its triple universal status (<a id="a63_54"></a>[UB 112:1.1](/en/The_Urantia_Book/112#p1_1))
 
 The personality is identified by its triple status:
 
@@ -57,7 +81,7 @@ Through another capacity of our mind - the one that criticizes, evaluates, gauge
 
 Let’s continue our reasoning.
 
-**1) Position status ([UB 112:1.1](/en/The_Urantia_Book/112#p1_1))**
+**1) Position status (<a id="a83_22"></a>[UB 112:1.1](/en/The_Urantia_Book/112#p1_1))**
 
 By positional status, the personality functions with equal efficiency in the local universe, in the superuniverse, and in the central universe. Why not on Paradise, the absolute level?
 
@@ -79,7 +103,7 @@ Here we do not encounter the same difficulty as for the status of position, sinc
 
 This status enables the personality to experience the values deduced from the meanings in the progressive realms of the material, morontia, and spiritual.
 
-### III — Personality and its 7 cosmic dimensions ([UB 112:1.5](/en/The_Urantia_Book/112#p1_5))
+### III — Personality and its 7 cosmic dimensions (<a id="a105_51"></a>[UB 112:1.5](/en/The_Urantia_Book/112#p1_5))
 
 The field of action of the personality has three cosmic dimensions in the finite, three in the absonite and one in the absolute. This demonstrates once more the potential vastness and range of action included in the personality.
 
@@ -121,6 +145,31 @@ In any case, the more we delve into the undergrowth of this subject, the more we
 Francois Dupont
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Deite_et_divinite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deity and divinity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-4-summer-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 4 — Summer 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Suprematie">
+          <span class="pr-2">Supremacy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarks
 

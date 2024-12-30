@@ -65,7 +65,7 @@ Having already participated in one or more study groups is an important asset, e
 
 Knowing ***The Urantia Book*** and deciding how to facilitate a group is crucial, provided that humility guides that facilitation. As ***The Urantia Book*** states:
 
-> “. . . The pride of unspiritualized learning is a treacherous thing in human experience. The true teacher maintains his intellectual integrity by ever remaining a learner.”” ([UB 130:3.7](/en/The_Urantia_Book/130#p3_7))
+> “. . . The pride of unspiritualized learning is a treacherous thing in human experience. The true teacher maintains his intellectual integrity by ever remaining a learner.”” (<a id="a67_177"></a>[UB 130:3.7](/en/The_Urantia_Book/130#p3_7))
 
 ## Frequency of meetings
 

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Michel Hubaut<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A marvelous assembly</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">The Universe and Nature, a mechanism of laws</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It is obvious that, in his Letters, **Paul** shows a constant concern about the quality of fraternal relationships within each community. Following the example of Christ himself who places “the love of God and others” at the heart of his teaching, Paul often repeats that love, lived concretely, summarizes and contains all the other precepts of the Christian life. For the entire law finds its fulfillment in this single word: “_You shall love your neighbor as yourself_” ([Ga 5,14](/en/Bible/Galatians/5#v14)). _Do not owe anyone anything, except that of mutual love. For he who loves another has fully fulfilled the Law. Love does no harm to his neighbor. Love is therefore the full fulfillment of the Law_ ([Rm 13,8-10](/en/Bible/Romans/1#v8)).
@@ -49,3 +73,28 @@ _According to “In the footsteps of Saint Paul”, Historical and spiritual gui
 
 Michel Hubaut
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marc_Benoit/Une_assemblee_merveilleuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A marvelous assembly</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/L_Univers_et_la_Nature_un_mecanisme_de_lois">
+          <span class="pr-2">The Universe and Nature, a mechanism of laws</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

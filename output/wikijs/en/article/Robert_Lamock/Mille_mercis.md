@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Robert Lamock<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Having Wheat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Doing the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Today, I intend to simply express through the word “thank you”, all my gratitude. It is spontaneous and it can have repercussions on the mental and spiritual levels beyond what one could perhaps imagine.
@@ -56,3 +80,28 @@ To conclude, the Book is a gift from God, it is up to us to show ourselves worth
 
 Robert Lamock
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Avoir_du_Ble">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Having Wheat</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Faire_la_volonte_du_Pere">
+          <span class="pr-2">Doing the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

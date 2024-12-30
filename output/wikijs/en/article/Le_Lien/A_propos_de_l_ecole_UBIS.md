@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interactive Study Group: Third Series</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">UBIS School Courses for the April Quarter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 About UBIS
@@ -36,7 +60,7 @@ The purpose of UBIS is to spread the truths and teachings of _The Urantia Book_ 
 
 Its educational model is based on Jesus' method of teaching through questions and answers, allowing everyone to have first-hand experience with the texts of the _Urantia Book_. The online school provides the educational and computer tools allowing the student to follow a structured and progressive course.
 
-> “Successive planetary revelations of divine truth invariably embrace the highest existing concepts of spiritual values as a part of the new and enhanced co-ordination of planetary knowledge. Accordingly, in making these presentations about God and his universe associates, we have selected as the basis of these papers more than one thousand human concepts representing the highest and most advanced planetary knowledge of spiritual values and universe meanings. Wherein these human concepts, assembled from the God-knowing mortals of the past and the present, are inadequate to portray the truth as we are directed to reveal it, we will unhesitatingly supplement them, for this purpose drawing upon our own superior knowledge of the reality and divinity of the Paradise Deities and their transcendent residential universe.” ([[UB 0:12.12](/en/The_Urantia_Book/0#p12_12))
+> “Successive planetary revelations of divine truth invariably embrace the highest existing concepts of spiritual values as a part of the new and enhanced co-ordination of planetary knowledge. Accordingly, in making these presentations about God and his universe associates, we have selected as the basis of these papers more than one thousand human concepts representing the highest and most advanced planetary knowledge of spiritual values and universe meanings. Wherein these human concepts, assembled from the God-knowing mortals of the past and the present, are inadequate to portray the truth as we are directed to reveal it, we will unhesitatingly supplement them, for this purpose drawing upon our own superior knowledge of the reality and divinity of the Paradise Deities and their transcendent residential universe.” (<a id="a62_828"></a>[[UB 0:12.12](/en/The_Urantia_Book/0#p12_12))
 
 ## How the UBIS school works
 
@@ -58,3 +82,28 @@ During the third one-week period, the participant must write a short essay on a 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interactive Study Group: Third Series</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Cours_de_UBIS_pour_le_trimestre_d_avril">
+          <span class="pr-2">UBIS School Courses for the April Quarter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

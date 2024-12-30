@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Map of consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">The Shamengo team</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The **Hummingbird Movement** takes its name from a Native American legend: One day, the legend says, there was a huge forest fire. All the animals, terrified and terrified, watched the disaster helplessly. Only the little hummingbird was active, fetching a few drops with its beak to throw on the fire. After a while, the armadillo, annoyed by this ridiculous agitation, said to him: “Hummingbird! Aren't you crazy? You're not going to put out the fire with these drops of water!”
@@ -63,3 +87,28 @@ The Earth needs time to renew the resources we extract and to absorb the waste w
 <figcaption>Fig. 6. — string</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Carte_de_la_conscience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Map of consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/L_equipe_Shamengo">
+          <span class="pr-2">The Shamengo team</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

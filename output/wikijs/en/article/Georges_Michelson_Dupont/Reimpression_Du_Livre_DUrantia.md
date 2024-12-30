@@ -9,6 +9,27 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Georges Michelson Dupont<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God, Time, The Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The 2019 printing (2,200 books) is sold out. A new printing of 2,200 copies is scheduled for September 2021. This edition will be different in its pagination.
@@ -33,9 +54,31 @@ The paragraph at the top of page 481, beginning “You can try to imagine . . . 
 
 Taking the initial idea of being able to easily compare a translation with the original text, we have developed an application on the foundation's website www.urantia.org which compares any translation with another.
 
-In the future, we recommend using the international reference system which is: Issue: section. paragraph. Example: [UB 99:6.3](/en/The_Urantia_Book/99#p6_3). Note that after the issue number we place a “:” and after the paragraph number a point ". For those who send us their texts for publication, please respect these typographic codes which facilitate the layout of your quarterly publication.
+In the future, we recommend using the international reference system which is: Issue: section. paragraph. Example: <a id="a56_115"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3). Note that after the issue number we place a “:” and after the paragraph number a point ". For those who send us their texts for publication, please respect these typographic codes which facilitate the layout of your quarterly publication.
 
 Friendships.
 
 G. Michelson Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God, Time, The Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

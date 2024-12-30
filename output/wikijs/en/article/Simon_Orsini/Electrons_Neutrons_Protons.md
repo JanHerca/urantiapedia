@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Simon Orsini<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer in the Form of a Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="pr-2">The Birth of the Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Life and matter are two different things in our universe. Life as we know it could not exist without the presence of this matter. But matter by itself cannot give life, because its only source is that of the Universal Father.
@@ -159,3 +183,28 @@ A soul does not become divine by what it does, but by what it strives to do.
 Simon Orsini,
 Carticasi, Corsica
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Thierry_Lepage/Priere_sous_forme_de_Poeme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prayer in the Form of a Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/La_Naissance_de_l_Esprit">
+          <span class="pr-2">The Birth of the Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

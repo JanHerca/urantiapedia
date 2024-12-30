@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Electrons-Neutrons-Protons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">News from Cameroon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 How, in your own words, would you draw the analogy between the birth of a human and the birth of religion in the mind of man and ultimately the birth of the spirit?
@@ -68,7 +92,7 @@ The religion of the spirit is a work that requires determination and a positive 
 
 For my part, after a fairly long gestation where religion developed consciously in me, I experienced a crisis of religious identity and questioning of my beliefs. Which triggered the pains of childbirth and a new birth: the birth of the spirit, under the impulse of my divine monitor who with patience and love, guided me towards a new state of religious awakening.
 
-I then understood, perceived and felt that this birth was the prelude to upheavals and inner transformations that I accepted with humility, confidence and joy. “Perplexity is inevitable in religion; there can be no growth without psychic conflicts and spiritual agitation. The organization of a philosophical standard of life leads to considerable commotions in the philosophical domain of the mind. It is not without struggle that one exercises one's loyalty to what is great, good, true and noble.” [[UB 100:4](/en/The_Urantia_Book/100#p4)]
+I then understood, perceived and felt that this birth was the prelude to upheavals and inner transformations that I accepted with humility, confidence and joy. “Perplexity is inevitable in religion; there can be no growth without psychic conflicts and spiritual agitation. The organization of a philosophical standard of life leads to considerable commotions in the philosophical domain of the mind. It is not without struggle that one exercises one's loyalty to what is great, good, true and noble.” <a id="a94_501"></a>[[UB 100:4](/en/The_Urantia_Book/100#p4)]
 
 ## MOANA
 
@@ -124,3 +148,28 @@ Beyond the birth of the spirit and as a culmination of this activity, through a 
 
 It is the growing sensitivity to the Spirit of Truth of the Son which then constitutes our Source of daily inspiration.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Electrons_Neutrons_Protons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Electrons-Neutrons-Protons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-83-septembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 83 — Septembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/Nouvelles_du_Cameroun">
+          <span class="pr-2">News from Cameroon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

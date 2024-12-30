@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Max Masotti<br>© 2008 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Self and the Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 November 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Without boredom, taking it easy, an oyster waltzed among the waves.
@@ -56,3 +80,28 @@ Gilles Bertrand April 1, 2003
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Self and the Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Suresnes_21_23_novembre_08">
+          <span class="pr-2">Suresnes 21-23 November 08</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

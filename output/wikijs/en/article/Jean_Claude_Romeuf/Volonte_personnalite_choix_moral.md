@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Flask</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">History of the Journal Reflectivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean-Claude Romeuf — November 1, 2023
@@ -29,7 +53,7 @@ _1. Human will functions on the personality level of universal reality and, thro
 
 that's to say :
 
-_the nonpersonal, the subpersonal and the prepersonal — is always responsive to the will and acts of the existing <ins>personality</ins>._ [[UB 107:7.4](/en/The_Urantia_Book/107#p7_4)]
+_the nonpersonal, the subpersonal and the prepersonal — is always responsive to the will and acts of the existing <ins>personality</ins>._ <a id="a55_139"></a>[[UB 107:7.4](/en/The_Urantia_Book/107#p7_4)]
 
 But to say that the impersonal cannot enjoy or at least depend on a will particularly adapted to its nature and functioning on different levels, would be to make a regrettable error.
 
@@ -41,19 +65,19 @@ No need to be a scientist to understand why the Earth and all the planets revolv
 
 In _The Urantia Book_, are there not beings who are said to be material, living and intelligent at the same time, but who are nevertheless incapable of choosing, and therefore of exercising a personal will? Would someone think and choose for them?
 
-Let us remember the Master Physical Organizers, those characters who are difficult to mentally represent. _The last four groups are barely people in the sense of an acceptable definition of this word_ ([UB 29:4.26](/en/The_Urantia_Book/29#p4_26)). The term “_people_” escaped from the mouth of the Universal Censor. He had to think while writing it. So let us remain in doubt for the moment.
+Let us remember the Master Physical Organizers, those characters who are difficult to mentally represent. _The last four groups are barely people in the sense of an acceptable definition of this word_ (<a id="a67_202"></a>[UB 29:4.26](/en/The_Urantia_Book/29#p4_26)). The term “_people_” escaped from the mouth of the Universal Censor. He had to think while writing it. So let us remain in doubt for the moment.
 
 Among these four groups, the Frandalanks are the most numerous and are found in the central universe, the superuniverses, but also in the exterior spaces where, it seems, no personality is present since these spaces are uninhabited and still remain a domain that the Unqualified Absolute does not share with the two other Absolutes of Potentiality. Their existence beyond the borders of the seven superuniverses is therefore proof that these beings do not possess a personality in themselves and for this reason are not people! The Frandalanks nevertheless live and act intelligently while remaining attached to the orders and therefore to the will of the physical controllers! They can receive messages, but cannot respond to them.
 
 Fortunately for him, the Universal Censor makes up for it a little further, otherwise we would have been entitled to refer it to the Ancients of Days! Faced with the threat of the Imperial Tribunal, he admits his fault:
 
-> _I recognize that the frandalanks are intelligent, but I cannot classify them as other than living machines. About the only way I can help you to understand these living mechanisms is to compare them to your own mechanical contrivances which perform with almost intelligentlike precision and accuracy. Then if you would conceive of these beings, draw upon your imagination to the extent of recognizing that in the grand universe we actually have intelligent and *living* mechanisms (entities) that can perform more intricate tasks involving more stupendous computations with even greater delicacy of accuracy, even with ultimacy of precision._ ([UB 29:4.38](/en/The_Urantia_Book/29#p4_38))
+> _I recognize that the frandalanks are intelligent, but I cannot classify them as other than living machines. About the only way I can help you to understand these living mechanisms is to compare them to your own mechanical contrivances which perform with almost intelligentlike precision and accuracy. Then if you would conceive of these beings, draw upon your imagination to the extent of recognizing that in the grand universe we actually have intelligent and *living* mechanisms (entities) that can perform more intricate tasks involving more stupendous computations with even greater delicacy of accuracy, even with ultimacy of precision._ (<a id="a73_647"></a>[UB 29:4.38](/en/The_Urantia_Book/29#p4_38))
 
 What would be the explanation of the author of booklet 29 today, if we refer to our modern robots and computers?
 
 In this chapter, another sentence deserves to be quoted, because it concerns everything that is non-personal, but be careful, it does not concern the following two chapters in which the impersonal is also treated!
 
-> _Throughout a universe of created beings and nonpersonal energies we do not observe will, volition, choice, and love manifested apart from personality. Except in the Adjusters and other similar entities we do not witness these attributes of personality functioning in association with impersonal realities. It would not be correct to designate an Adjuster as subpersonal, neither would it be proper to allude to such an entity as superpersonal, but it would be entirely permissible to term such a being prepersonal._ ([UB 107:7.5](/en/The_Urantia_Book/107#p7_5))
+> _Throughout a universe of created beings and nonpersonal energies we do not observe will, volition, choice, and love manifested apart from personality. Except in the Adjusters and other similar entities we do not witness these attributes of personality functioning in association with impersonal realities. It would not be correct to designate an Adjuster as subpersonal, neither would it be proper to allude to such an entity as superpersonal, but it would be entirely permissible to term such a being prepersonal._ (<a id="a79_520"></a>[UB 107:7.5](/en/The_Urantia_Book/107#p7_5))
 
 ## II. THE SUBPERSONNEL
 
@@ -75,11 +99,11 @@ Every man or woman will become One with Him. He will enjoy for eternity the huma
 
 Since it is he who has chosen us, it is no longer necessary to demonstrate that the Adjuster possesses a volition. Would he then be capable of opposing our will? To say that the free will of a personality is sovereign and that it must be respected is correct but incomplete. We can trust the opinion of the Solitary Messenger on page 1183, 6:
 
-> _Why then, if Thought Adjusters possess volition, are they subservient to the mortal will? We believe it is because Adjuster volition, though absolute in nature, is prepersonal in manifestation. Human will functions on the personality level of universe reality, and throughout the cosmos the impersonal—the nonpersonal, the subpersonal, and the prepersonal—is ever responsive to the will and acts of existent personality._ ([[UB 107:7.4](/en/The_Urantia_Book/107#p7_4))
+> _Why then, if Thought Adjusters possess volition, are they subservient to the mortal will? We believe it is because Adjuster volition, though absolute in nature, is prepersonal in manifestation. Human will functions on the personality level of universe reality, and throughout the cosmos the impersonal—the nonpersonal, the subpersonal, and the prepersonal—is ever responsive to the will and acts of existent personality._ (<a id="a101_426"></a>[[UB 107:7.4](/en/The_Urantia_Book/107#p7_4))
 
 It would therefore be because they are prepersonal, that they cannot oppose a personality. But the result is the same, because celestial personalities are not used to and do not want to oppose human free will.
 
-> _Throughout a universe of created beings and nonpersonal energies we do not observe will, volition, choice, and love manifested apart from personality. Except in the Adjusters and other similar entities we do not witness these attributes of personality functioning in association with impersonal realities. It would not be correct to designate an Adjuster as subpersonal, neither would it be proper to allude to such an entity as superpersonal, but it would be entirely permissible to term such a being prepersonal._ ([UB 107:7.5](/en/The_Urantia_Book/107#p7_5))
+> _Throughout a universe of created beings and nonpersonal energies we do not observe will, volition, choice, and love manifested apart from personality. Except in the Adjusters and other similar entities we do not witness these attributes of personality functioning in association with impersonal realities. It would not be correct to designate an Adjuster as subpersonal, neither would it be proper to allude to such an entity as superpersonal, but it would be entirely permissible to term such a being prepersonal._ (<a id="a105_520"></a>[UB 107:7.5](/en/The_Urantia_Book/107#p7_5))
 
 Moreover, there are no superpersonalities in the personality circuit of the Universal Father, yet this term is found to designate the Paradise Sons who represent the Eternal Son in the local universes.
 
@@ -103,7 +127,7 @@ I therefore answer in the affirmative to the question of Smilblick, which Pierre
 > 4. Purposeful co-operation, group loyalty.
 > 5. Cosmic insight, the grasp of universe meanings.
 > 6. Personality dedication, wholehearted devotion to doing the Father’s will.
-> 7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver. ([[UB 16:8.7-14](/en/The_Urantia_Book/16#p8_7))
+> 7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver. (<a id="a129_105"></a>[[UB 16:8.7-14](/en/The_Urantia_Book/16#p8_7))
 
 The spirit of intuition, then the spirit of wisdom will allow the mind to make its first moral choice which will trigger the coming of the Adjuster. Then, I'm not telling you anything new, the desires of animal tendency will come into conflict with the ideals of divine tendency. We have become moral beings, that is to say that we have the capacity to differentiate between good and evil. Doing good requires strength, courage. It is perhaps in this sense that the adjustment and change of our mind by the spirit is exercised.
 
@@ -137,3 +161,28 @@ I have met some extraordinary people in my life. But the greatest, often unknown
 
 What does it matter! If I am not always able to follow the path that God had planned for me, I will trace my own; the important thing is to move forward. Too bad if it does not go straight and is drawn in zigzags like the winding roads of the Cévennes. God will still manage to follow me. And if he overtakes me, I will not try to catch up with him, he will wait for me at the last turn!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Flacon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Flask</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-104-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 104 — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Historique_du_journal_Reflectivite">
+          <span class="pr-2">History of the Journal Reflectivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

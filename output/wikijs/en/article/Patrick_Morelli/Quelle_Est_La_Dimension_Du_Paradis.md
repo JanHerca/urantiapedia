@@ -9,13 +9,37 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Patrick Morelli<br>© 2020 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Prophets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Earthly Escape</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Patrick Morelli (France)_
 
 The island of Paradise is the source of all the energetic power of the Universe and all the gigantic masses of creation gravitate around this body.
 
-We know that it appears as a vast flattened ellipsoid whose major axis is one-sixth longer than its minor axis and its “thickness” (the distance between the upper surface and the lower surface) is one-tenth of the minor axis. We also know that this central Island is ([UB 11:0.1](/en/The_Urantia_Book/11#p0_1)) “**the most gigantic organized body of cosmic reality in the entire master universe**”.
+We know that it appears as a vast flattened ellipsoid whose major axis is one-sixth longer than its minor axis and its “thickness” (the distance between the upper surface and the lower surface) is one-tenth of the minor axis. We also know that this central Island is (<a id="a41_268"></a>[UB 11:0.1](/en/The_Urantia_Book/11#p0_1)) “**the most gigantic organized body of cosmic reality in the entire master universe**”.
 
 The most gigantic organized body certainly, but could we get a vague idea of it?
 
@@ -30,13 +54,13 @@ However, if we step back a little, the Book provides an interesting astronomical
 
 You should know, beforehand, that three circuits of worlds gravitate around Paradise before the circles of Havona and they are located between the first circle of Havona and the Isle of Paradise.
 
-It is the time taken by the first circuit (the one closest to Paradise which is the circuit of the worlds of the Father) to make a complete revolution, which defines the time of a standard “Paradise-Havona” day which corresponds to 1000 years of our Urantian time: ([UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**A day of Paradise-Havona corresponds just to a thousand years of the present Urantia calendar which includes leap years, minus seven minutes, three seconds and one eighth of a second.**”
+It is the time taken by the first circuit (the one closest to Paradise which is the circuit of the worlds of the Father) to make a complete revolution, which defines the time of a standard “Paradise-Havona” day which corresponds to 1000 years of our Urantian time: (<a id="a56_266"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**A day of Paradise-Havona corresponds just to a thousand years of the present Urantia calendar which includes leap years, minus seven minutes, three seconds and one eighth of a second.**”
 
 Consequently, if we could have an idea of the speed of movement of these worlds it would be easy for us to calculate the circumference of the circle which encompasses the Isle of Paradise, and also, the diameter of this circle; since we know perfectly well the time of this journey: a thousand years.
 
 How fast can these worlds move?
 
-The Book provides a clue: ([UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**Although their speed is enormous because they (the planets of the first circuit) are located between the dark gravity bodies and the gigantic Paradise**”
+The Book provides a clue: (<a id="a62_27"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**Although their speed is enormous because they (the planets of the first circuit) are located between the dark gravity bodies and the gigantic Paradise**”
 
 So what is huge speed?
 
@@ -63,3 +87,28 @@ If we retain a lower speed: 1/100 of the speed of light or 2998 km/second; then 
 
 In conclusion, in the logic of this approach, we can estimate that the length of the major axis of Paradise would be between 0.05 and 0.5 light years.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_Prophetes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Prophets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-91-septembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 91 — Septembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Evasion_Terrestre">
+          <span class="pr-2">Earthly Escape</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Agnès Lazar and Guy Perron<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation of the Middle Ages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasy on a Major Theme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -31,10 +55,35 @@ In January 2023, the second part of the trilogy was offered. Throughout this cou
 
 > THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all.
 > 
-> Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living. ([UB 100:0.1-2](/en/The_Urantia_Book/100#p0_1))
+> Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living. (<a id="a57_310"></a>[UB 100:0.1-2](/en/The_Urantia_Book/100#p0_1))
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/125.jpg">
 <figcaption>Painting by David Guzman</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation of the Middle Ages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasy on a Major Theme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

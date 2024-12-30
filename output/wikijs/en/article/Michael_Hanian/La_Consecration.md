@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Michael Hanian<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of the translators of the URANTIA Book organized by the URANTIA Foundation in PARIS in April 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -24,7 +45,7 @@ With all its compensations and dangers, it is through curiosity—our congenital
 
 Discovering things is a primitive method of referring to knowledge. First, we are curious to learn, and to be able to extract knowledge, we learn to read. We start with fairy tales and progress to philosophy; we begin with comic books and end with 700-page volumes. Or, if we are lucky, with the 2196-page book.
 
-> 8. It can make a gift to God—dedication of the free will to the doing of the will of God. ([UB 112:0.10](/en/The_Urantia_Book/112#p0_10))
+> 8. It can make a gift to God—dedication of the free will to the doing of the will of God. (<a id="a47_93"></a>[UB 112:0.10](/en/The_Urantia_Book/112#p0_10))
 
 We count ourselves among those lucky ones who discovered this 2196-page book, the URANTIA Book. We found it through our curiosity. But curiosity in itself is not enough: it brought us to the book, but it could not have kept us there. In fact, curiosity is that restless little devil who always tells us: Okay, you've had enough, now it's time to move on. And we listen - as we do in most cases. But not this time.
 
@@ -67,7 +88,29 @@ Let me repeat: Once we delve into the book, we understand that it differs from t
 We have been interested, for the last 20 minutes or so, in dedication. Dedication is the first step toward our inner transformation. We have tried to solve some of its mysteries, with little or no success in this regard; we have pointed out several links: between dedication and curiosity, between devotion and will, between dedication and trust. All I have to add is that dedication to The URANTIA Book is desirable—and inevitable in the long run—for all who are sincerely interested in the message of the Fifth Epochal Revelation.
 
 
-> “Primitive religion was largely a material-value consciousness, but civilization elevates religious values, for true religion is the devotion of the self to the service of meaningful and supreme values. As religion evolves, ethics becomes the philosophy of morals, and morality becomes the discipline of self by the standards of highest meanings and supreme values—divine and spiritual ideals. And thus religion becomes a spontaneous and exquisite devotion, the living experience of the loyalty of love.” ([UB 92:7.5](/en/The_Urantia_Book/92#p7_5))
+> “Primitive religion was largely a material-value consciousness, but civilization elevates religious values, for true religion is the devotion of the self to the service of meaningful and supreme values. As religion evolves, ethics becomes the philosophy of morals, and morality becomes the discipline of self by the standards of highest meanings and supreme values—divine and spiritual ideals. And thus religion becomes a spontaneous and exquisite devotion, the living experience of the loyalty of love.” (<a id="a90_508"></a>[UB 92:7.5](/en/The_Urantia_Book/92#p7_5))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Reunion_des_traducteurs_du_Livre_dURANTIA">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of the translators of the URANTIA Book organized by the URANTIA Foundation in PARIS in April 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-2-autumn-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 2 — Autumn 1996</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

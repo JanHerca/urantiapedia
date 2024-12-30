@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">Bill Sadler's Study on Synthesis and Functional Coordination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On October 12, 1955, the Urantia Foundation published _The Urantia Book_ in the United States in 10,000 copies. History reveals that this was the culmination of a long preparatory work of contact undertaken in 1911 between super-celestial beings and a small group of people in the city of Chicago. The process of contact and transmission resulted in the materialization of the Urantia papers in four parts, the first and second in 1934, the third in 1935 and the last, the life of Jesus in 1937. In the hierarchy of Urantia revelations, it is the fifth.
@@ -40,7 +64,7 @@ Finally, I found in selfless service a useful meaning for my life, for the growt
 
 ## By what technique was this revelation transmitted?
 
-This is a legitimate question that many readers ask themselves, but it may never find a complete answer. Nevertheless, the Urantia Book itself provides some details on the modus operandi of transmission and the attentive reader will have noticed the following paragraphs: [UB 110:5.7](/en/The_Urantia_Book/110#p5_7); [UB 113:2.6](/en/The_Urantia_Book/113#p2_6); [UB 113:2.7](/en/The_Urantia_Book/113#p2_7); [UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
+This is a legitimate question that many readers ask themselves, but it may never find a complete answer. Nevertheless, the Urantia Book itself provides some details on the modus operandi of transmission and the attentive reader will have noticed the following paragraphs: <a id="a66_272"></a>[UB 110:5.7](/en/The_Urantia_Book/110#p5_7); <a id="a66_317"></a>[UB 113:2.6](/en/The_Urantia_Book/113#p2_6); <a id="a66_362"></a>[UB 113:2.7](/en/The_Urantia_Book/113#p2_7); <a id="a66_407"></a>[UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
 
 In his appendix to _The Mind at Mischief_, [Funk & Wagnalls Company 1929], Doctor William S. Sadler testifies to what he observed in these terms:
 
@@ -65,7 +89,7 @@ Since 1955, a lot of progress has been made; some 15 translations have been made
 
 Religion is a personal experience that takes place in our inner life in the presence of God. By making adjustments in our will and transformations in our mind it must necessarily lead to the service of our neighbor and produce social fruits.
 
-> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” ([[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a91_172"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
 Like Jesus giving his final advice to the apostles for the continuation of the mission of the fourth revelation, the revelators gave us advice that can be found in the [Publication Mandate](/en/article/The_Publication_Mandate) on the following link:
 
@@ -87,7 +111,32 @@ Teachers of _The Urantia Book_ should carefully study the teachings of the Maste
 
 Finally, the study of the teachings of The Urantia Book can be difficult for some, study groups are the appropriate answer. The ancient religious order gathers in churches, mosques, temples and synagogues to listen to the good word. Readers of The Urantia Book gather in study groups led by a teacher, a resource person, to study together, share their spiritual life and create the dynamics of true brotherhood.
 
-> “In the beginning the Father does all, but as the panorama of eternity unfolds in response to the will and mandates of the Infinite, it becomes increasingly apparent that creatures, even men, are to become God’s partners in the realization of finality of destiny. And this is true even in the life in the flesh; when man and God enter into partnership, no limitation can be placed upon the future possibilities of such a partnership. When man realizes that the Universal Father is his partner in eternal progression, when he fuses with the indwelling Father presence, he has, in spirit, broken the fetters of time and has already entered upon the progressions of eternity in the quest for the Universal Father.” ([[UB 118:5.2](/en/The_Urantia_Book/118#p5_2))
+> “In the beginning the Father does all, but as the panorama of eternity unfolds in response to the will and mandates of the Infinite, it becomes increasingly apparent that creatures, even men, are to become God’s partners in the realization of finality of destiny. And this is true even in the life in the flesh; when man and God enter into partnership, no limitation can be placed upon the future possibilities of such a partnership. When man realizes that the Universal Father is his partner in eternal progression, when he fuses with the indwelling Father presence, he has, in spirit, broken the fetters of time and has already entered upon the progressions of eternity in the quest for the Universal Father.” (<a id="a113_715"></a>[[UB 118:5.2](/en/The_Urantia_Book/118#p5_2))
 
 _Georges Michelson-Dupont. Reclosed_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-72-winter-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 72 — Winter 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Etude_de_Bill_Sadler_sur_la_synthese">
+          <span class="pr-2">Bill Sadler's Study on Synthesis and Functional Coordination</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

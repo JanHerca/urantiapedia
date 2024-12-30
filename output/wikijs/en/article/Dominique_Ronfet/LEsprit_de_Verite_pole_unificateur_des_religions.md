@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dominique Ronfet<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherence, or Principle of Evanescence?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personality, Identity, Divinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The quest for truth, the search for one's own awakening, can only take place in stages.
@@ -17,9 +41,9 @@ The successive experiences of our life allow us to discover ourselves (the Perso
 
 We can read that the Spirit of Truth, the new teacher, was given as a support to the soul of every sincere seeker since the departure of Jesus so that we could free ourselves from the old constraints.
 
-> “Pentecost was designed to lessen the self-assertiveness of individuals, groups, nations, and races. It is this spirit of self-assertiveness which so increases in tension that it periodically breaks loose in destructive wars. Mankind can be unified only by the spiritual approach, and the Spirit of Truth is a world influence which is universal.” ([UB 194:3.18](/en/The_Urantia_Book/194#p3_18))
+> “Pentecost was designed to lessen the self-assertiveness of individuals, groups, nations, and races. It is this spirit of self-assertiveness which so increases in tension that it periodically breaks loose in destructive wars. Mankind can be unified only by the spiritual approach, and the Spirit of Truth is a world influence which is universal.” (<a id="a43_350"></a>[UB 194:3.18](/en/The_Urantia_Book/194#p3_18))
 
-> “Do not overlook the fact that the Spirit of Truth was bestowed upon all sincere believers; this gift of the spirit did not come only to the apostles. The one hundred and twenty men and women assembled in the upper chamber all received the new teacher, as did all the honest of heart throughout the whole world. This new teacher was bestowed upon mankind, and every soul received him in accordance with the love for truth and the capacity to grasp and comprehend spiritual realities. At last, true religion is delivered from the custody of priests and all sacred classes and finds its real manifestation in the individual souls of men.” ([UB 194:3.6](/en/The_Urantia_Book/194#p3_6))
+> “Do not overlook the fact that the Spirit of Truth was bestowed upon all sincere believers; this gift of the spirit did not come only to the apostles. The one hundred and twenty men and women assembled in the upper chamber all received the new teacher, as did all the honest of heart throughout the whole world. This new teacher was bestowed upon mankind, and every soul received him in accordance with the love for truth and the capacity to grasp and comprehend spiritual realities. At last, true religion is delivered from the custody of priests and all sacred classes and finds its real manifestation in the individual souls of men.” (<a id="a45_640"></a>[UB 194:3.6](/en/The_Urantia_Book/194#p3_6))
 
 Have we progressed throughout history in our collective research? Have religions come closer together? No, because what divides has been stronger than what could unify us. Yet have there never been men who loved the truth and who knew? Yes, of course. And this <ins>whatever their culture and religion, let us have no doubt</ins>.
 
@@ -39,7 +63,7 @@ But what is this demanding wisdom?
 
 Perhaps true faith in action.
 
-“***Divine or spiritual clairvoyance is a gift, but human wisdom must evolve***” [UB 101:4.2](/en/The_Urantia_Book/101#p4_2). (this excerpt from a chapter on the limitations of revelation ultimately relates...to our own limits).
+“***Divine or spiritual clairvoyance is a gift, but human wisdom must evolve***” <a id="a65_81"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2). (this excerpt from a chapter on the limitations of revelation ultimately relates...to our own limits).
 
 To finish and illustrate in a pleasant way this human failing which leads us to take a part for the whole, and thus make us miss the truth that we seek, I will take a little story-teaching from a book by Idries SHAH “Dervish Tales”, an author whose reading I highly recommend.
 
@@ -62,3 +86,28 @@ _The creature knows nothing of divinity. The ways of ordinary intellect are not 
 Dominique Ronfet
 dominique.ronfet@hol.fr
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Coherence_ou_principe_devanescence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherence, or Principle of Evanescence?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Personnalite_Identite_Divinite">
+          <span class="pr-2">Personality, Identity, Divinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love, Gratitude and Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Lebesnerais/Le_Semeur">
+          <span class="pr-2">The Sower</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **1. ...**
@@ -39,3 +63,28 @@ Here appears in its magnitude the cosmic role of sexuality. And here, at the sam
 
 Teilhard de Chardin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Amour_Gratitude_et_Lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love, Gratitude and Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-62-spring-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 62 — Spring 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Suzanne_Lebesnerais/Le_Semeur">
+          <span class="pr-2">The Sower</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

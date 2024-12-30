@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jean Royer<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Global Vision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -80,3 +104,28 @@ The old professor then said to them: “What are the big rocks in your life?”
 
 If we give priority to peccadilloes (gravel, sand), we will fill our lives with peccadilloes and we will not have enough precious time to devote to the important elements of our lives.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Une_Vision_Globale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Global Vision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-96-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 96 — Décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Nouvelles_de_la_Fondation">
+          <span class="pr-2">Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

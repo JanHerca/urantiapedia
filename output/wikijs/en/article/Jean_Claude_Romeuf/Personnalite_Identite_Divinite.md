@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Jean-Claude Romeuf<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spirit of Truth: Unifying Pole of Religions?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Those who feel an irresistible attraction to mystery can be enthusiastic about the permanent and daily miracle of the gift of personality.
@@ -59,3 +80,25 @@ Divinity is the future of personality. Without it, there is no growth possible. 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/LEsprit_de_Verite_pole_unificateur_des_religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Spirit of Truth: Unifying Pole of Religions?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-5-autumn-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 5 — Autumn 1997</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

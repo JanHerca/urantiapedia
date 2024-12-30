@@ -52,7 +52,7 @@ What about us? Should we take a casual approach to Lucifer's rebellion? Should w
 
 It seems there is something we can do. Like Gabriel, we can take a stand to counter the rebellious fallacies. Gabriel's method is set out in Booklet 53. It states:
 
-> _“. . . In the early days of the struggle Lucifer held forth continuously in the planetary amphitheater. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision._ ([UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
+> _“. . . In the early days of the struggle Lucifer held forth continuously in the planetary amphitheater. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision._ (<a id="a54_401"></a>[UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2023_03/014.jpg">
@@ -69,11 +69,11 @@ Then there is the question of justice. When we think of the enormous damage caus
 
 This question arises because of what is said in booklet 54:
 
-> _And the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer and in all related supporters and possible sympathizers._ ([UB 54:3.3](/en/The_Urantia_Book/54#p3_3))
+> _And the Ancients of Days refuse to annihilate any being until all moral values and all spiritual realities are extinct, both in the evildoer and in all related supporters and possible sympathizers._ (<a id="a71_203"></a>[UB 54:3.3](/en/The_Urantia_Book/54#p3_3))
 
 Consider also what is stated about Satan in Paper 43:
 
-> _Since the triumph of Christ, all Norlatiadek is being cleansed of sin and rebels. Sometime before Michael’s death in the flesh the fallen Lucifer’s associate, Satan, sought to attend such an Edentia conclave, but the solidification of sentiment against the archrebels had reached the point where the doors of sympathy were so well-nigh universally closed that there could be found no standing ground for the Satania adversaries. ***When there exists no open door for the reception of evil, there exists no opportunity for the entertainment of sin.*** The doors of the hearts of all Edentia closed against Satan; he was unanimously rejected by the assembled System Sovereigns, and it was at this time that the Son of Man “beheld Satan fall as lightning from heaven.”_ ([UB 43:4.9](/en/The_Urantia_Book/43#p4_9))
+> _Since the triumph of Christ, all Norlatiadek is being cleansed of sin and rebels. Sometime before Michael’s death in the flesh the fallen Lucifer’s associate, Satan, sought to attend such an Edentia conclave, but the solidification of sentiment against the archrebels had reached the point where the doors of sympathy were so well-nigh universally closed that there could be found no standing ground for the Satania adversaries. ***When there exists no open door for the reception of evil, there exists no opportunity for the entertainment of sin.*** The doors of the hearts of all Edentia closed against Satan; he was unanimously rejected by the assembled System Sovereigns, and it was at this time that the Son of Man “beheld Satan fall as lightning from heaven.”_ (<a id="a75_771"></a>[UB 43:4.9](/en/The_Urantia_Book/43#p4_9))
 
 We can conclude that until Luciferian concepts are entirely cast out upon our world, the Ancients of Days may refrain from annihilating the rebels. Thus, a delay in exposing Lucifer's poisonous proclamations may prolong our planetary agony.
 

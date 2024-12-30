@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Jean-Claude Romeuf<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Resurrection of Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">The Little Voice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 It may seem that the French translation of “Transcendentals, This superfinite level (antecedently) follows finite progression” into “Ce niveau suprafini suit la progression finie (en l'anticipant)”, could be confusing. It must be understood that the plans for the creation of the Master Universe are under the control of the Architects of the Master Universe. There were plans for the genesis of the finite which were therefore prior to the finite and at this moment there are plans for the formation of the exterior spaces which will be inhabited after the Age of the Supreme. The Transcendental level therefore does not follow the progression of the finite at the same time as it anticipates it. This level preceded the finite and prepares its continuation. It prepares the Age of the Ultimate and follows its spatial direction. To say that it follows the progression of the finite at the same time as it anticipates it seems to me to be an error. This would contravene the logic of creation: a square cannot be round!
@@ -23,3 +47,28 @@ The Deity encountered on the absolute level, being distributive of itself, it wa
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_resurrection_de_Ganid">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Resurrection of Ganid</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eileen_Caddy/La_Petite_Voix">
+          <span class="pr-2">The Little Voice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

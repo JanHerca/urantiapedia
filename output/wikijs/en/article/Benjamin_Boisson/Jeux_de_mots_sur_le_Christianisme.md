@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Benjamin Boisson<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities Part V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Jour_Ou">
+          <span class="pr-2">The Day When</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _We are asked not to slap the apostle!_ (**Alphonse Allais**)
@@ -55,3 +79,28 @@ _Theology is as simple as God and God are three._ (**Jacques Prévert**)
 
 Benjamin Boisson
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities Part V</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-61-winter-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 61 — Winter 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Jour_Ou">
+          <span class="pr-2">The Day When</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

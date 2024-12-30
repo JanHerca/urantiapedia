@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Joseph Le Dain and Séverin Desbuisson<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-25-spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 25 — Spring 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Sudden awakening (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A few weeks ago, we received bad news - Jacques was very ill. Often, as we approach the final departure of a loved one, we feel remorse for not having visited them, for not having fraternized with them enough, for not having done everything we should have done, in short, for not having done what Jesus would have done...
@@ -87,7 +111,32 @@ Around 5:30 p.m., a three-hour discussion ended. Then Jacques invited us to toas
 
 _From this exchange we have only retained the experiences and anecdotes specific to the spiritual subject. Jacques' life is obviously much richer and includes personal, family and professional areas. As a final word we would like to wish him “bon voyage” in the adventure that awaits him and quote the Urantia book, specifying that it perfectly illustrates in our eyes, by its courage and perseverance, the following remarks:_
 
-> ““This day, my son, you are to be reborn, re-established as a man of faith, courage, and devoted service to man, for God’s sake. And when you become so readjusted to life within yourself, you become likewise readjusted to the universe; you have been born again—born of the spirit—and henceforth will your whole life become one of victorious accomplishment. Trouble will invigorate you; disappointment will spur you on; difficulties will challenge you; and obstacles will stimulate you. Arise, young man! Say farewell to the life of cringing fear and fleeing cowardice. Hasten back to duty and live your life in the flesh as a son of God, a mortal dedicated to the ennobling service of man on earth and destined to the superb and eternal service of God in eternity.”” ([UB 130:6.4](/en/The_Urantia_Book/130#p6_4))
+> ““This day, my son, you are to be reborn, re-established as a man of faith, courage, and devoted service to man, for God’s sake. And when you become so readjusted to life within yourself, you become likewise readjusted to the universe; you have been born again—born of the spirit—and henceforth will your whole life become one of victorious accomplishment. Trouble will invigorate you; disappointment will spur you on; difficulties will challenge you; and obstacles will stimulate you. Arise, young man! Say farewell to the life of cringing fear and fleeing cowardice. Hasten back to duty and live your life in the flesh as a son of God, a mortal dedicated to the ennobling service of man on earth and destined to the superb and eternal service of God in eternity.”” (<a id="a113_770"></a>[UB 130:6.4](/en/The_Urantia_Book/130#p6_4))
 
 Joseph Le Dain and Severin Desbuisson
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-25-spring-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 25 — Spring 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Sudden awakening (second part)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Dominique Neveu<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anne_et_Thierry_Lepage/Premiere_reunion_Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting. Story of a Visit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-26-summer-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 26 — Summer 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I want a buddy, an accomplice, a friend..., for him to be happy, for us to be happy together, fulfilled, alive, real, dynamic, new..., for it to be simple, real, joyful...
@@ -39,3 +60,25 @@ He will definitely convince me.
 
 Dominique Neveu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anne_et_Thierry_Lepage/Premiere_reunion_Recit_dune_visite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting. Story of a Visit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-26-summer-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 26 — Summer 2003</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

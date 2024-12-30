@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Simon Orsini<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-67-summer-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 67 — Summer 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="pr-2">Hindu philosophy Principles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I sometimes wonder if our scientists are really convinced of their theory about the universe. In reports on TV, on the radio, in magazines, or in education, existing things are always described as being due to natural selection. There is never any doubt, the existence of a creator is automatically dismissed, yet the majority of the 7 billion human beings believe in it. Their theory about the universe is as follows:
@@ -68,3 +92,28 @@ The fundamental principle of the Universal Father is the total freedom of each i
 
 Simon Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-67-summer-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 67 — Summer 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Philosophie_hindoue_Principes">
+          <span class="pr-2">Hindu philosophy Principles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

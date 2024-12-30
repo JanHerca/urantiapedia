@@ -32,7 +32,7 @@ Are we going to tolerate much longer the misdeeds perpetrated by these fallen br
 
 For all those who think that every new movement ends up dividing or who do not feel concerned by these internal struggles... remember that on the contrary, everyone has the power to influence the course of things... we must dare to act.
 
-> As moves the part, so moves the whole. ([UB 12:7.11](/en/The_Urantia_Book/12#p7_11))
+> As moves the part, so moves the whole. (<a id="a34_42"></a>[UB 12:7.11](/en/The_Urantia_Book/12#p7_11))
 
 <ins>Second</ins>: I attended a Zoom meeting of the Center for Unity, where they were presenting a new project aimed at shedding new light on the life and teachings of Jesus. They are using new technologies to do this that will appeal to everyone, but especially young people.
 

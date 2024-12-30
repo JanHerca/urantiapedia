@@ -135,7 +135,7 @@ I've just been stumped many times as to what to do. And I just fall back on what
 
 **BILL SADLER**: I don't know. Well, it's nine o'clock. Let's turn the machine off.
 
-> Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
+> Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. (<a id="a137_331"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
 
 ## References
 

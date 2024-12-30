@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Karuna Leys<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Born of Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="pr-2">Causes, Effects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -68,3 +92,28 @@ So it is because we have been given reason that we grasp the abstraction of “I
 
 Karuna Leys
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Naitre_d_esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being Born of Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/Les_causes_les_effets_1">
+          <span class="pr-2">Causes, Effects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

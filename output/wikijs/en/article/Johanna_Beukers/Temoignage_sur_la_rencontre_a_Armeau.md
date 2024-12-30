@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Johanna Beukers<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Reader's Experience, an experience to draw from</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="pr-2">Sharing on spiritual teachings and leaders</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By doing 650 km twice in three days which were largely rewarded by our joy of finding our brothers and sisters, we met, 8 women and twenty men, for around forty hours to explore a very interesting and still current theme: “the biological and cultural heritage of the human species” linked to the texts of the _Urantia Book_.
@@ -45,3 +69,28 @@ Fraternally
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Reader's Experience, an experience to draw from</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Partage_sur_les_enseignements_et_dirigeants_spirituels">
+          <span class="pr-2">Sharing on spiritual teachings and leaders</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

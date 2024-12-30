@@ -43,7 +43,7 @@ In his late teens and early manhood, he traveled extensively with an Indian busi
 
 During the Mediterranean journey Jesus had carefully studied the people he met and the countries he passed through, and it was about this time that he made his final decision about the remainder of his life on earth. 134:0
 
-He returned to Galilee to await the beginning of his life's work as a public teacher of the truth. He was again working on boats in Zebedee's workshop at Capernaum when one morning he laid down his tools, declaring, “My hour has come” ([UB 134:9.8](/en/The_Urantia_Book/134#p9_8)).
+He returned to Galilee to await the beginning of his life's work as a public teacher of the truth. He was again working on boats in Zebedee's workshop at Capernaum when one morning he laid down his tools, declaring, “My hour has come” (<a id="a45_236"></a>[UB 134:9.8](/en/The_Urantia_Book/134#p9_8)).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2024_07/018.jpg">
@@ -57,9 +57,9 @@ I think the lesson we can learn from this is that we must first become friendly 
 
 The so-called “Sermon on the Mount” is not the gospel of Jesus, but the charge of ordaining the 12 apostles. It is the personal order given by the Master to those who were to continue to preach the gospel and aspire to represent it in the world of men, just as he so eloquently and perfectly represented his Father.
 
-If inherited drives cannot be fundamentally modified, the emotional reactions to these drives can be changed; the moral nature can therefore be modified, the character can be improved. In a strong character, the emotional responses are integrated and coordinated, which produces a unified personality. Deficient unification weakens the moral nature and breeds unhappiness. [UB 140:4.8](/en/The_Urantia_Book/140#p4_8)
+If inherited drives cannot be fundamentally modified, the emotional reactions to these drives can be changed; the moral nature can therefore be modified, the character can be improved. In a strong character, the emotional responses are integrated and coordinated, which produces a unified personality. Deficient unification weakens the moral nature and breeds unhappiness. <a id="a59_373"></a>[UB 140:4.8](/en/The_Urantia_Book/140#p4_8)
 
-Without a worthy purpose, life becomes aimless and unprofitable, and much unhappiness results. Jesus exhorted his disciples to exercise experimental faith. He warned them not to depend on mere intellectual assent, credulity, and established authority. [UB 140:4.9](/en/The_Urantia_Book/140#p4_9)
+Without a worthy purpose, life becomes aimless and unprofitable, and much unhappiness results. Jesus exhorted his disciples to exercise experimental faith. He warned them not to depend on mere intellectual assent, credulity, and established authority. <a id="a61_252"></a>[UB 140:4.9](/en/The_Urantia_Book/140#p4_9)
 
 ## Moana
 
@@ -70,7 +70,7 @@ On our trip to Tasmania we visited the Moana (Museum of Old and New Art). It rem
 <figcaption>One of the works at the Moana Museum, photo by Magda Szyperska.</figcaption>
 </figure>
 
-Education should be a technique of learning (discovering) the best methods of satisfying our natural and hereditary needs, and happiness is the total result of these improved techniques of emotional satisfaction. [UB 140:4.10](/en/The_Urantia_Book/140#p4_10).
+Education should be a technique of learning (discovering) the best methods of satisfying our natural and hereditary needs, and happiness is the total result of these improved techniques of emotional satisfaction. <a id="a72_213"></a>[UB 140:4.10](/en/The_Urantia_Book/140#p4_10).
 
 ## Different realities
 

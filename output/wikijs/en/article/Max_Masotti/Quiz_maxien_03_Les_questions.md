@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Max Masotti<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Ullman/Etre_Jeune">
+          <span class="pr-2">Being Young</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Central Universe**
@@ -42,3 +66,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Ullman/Etre_Jeune">
+          <span class="pr-2">Being Young</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

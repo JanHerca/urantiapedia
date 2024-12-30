@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Mouvement_Colibris">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Hummingbird Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°20 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Shamengo** is a fantastic collective adventure in which new talents participate every day. Some have been there from the beginning. Others join us on one-off missions according to their desires and our means. They all have in common the desire to grow this meaningful work that surpasses us and of which we are proud. This bet on the future was initiated by Catherine Berthillier, a senior reporter for the major news programs on French television: _Envoyé Spécial (France 2) Des Racines et des Ailes (France 3) Zone Interdite (M6) Reportages (TF1) Arte Reportage (Arte)..._ as well as numerous documentaries for France 3 and France 5 in international co-production.
@@ -28,3 +52,28 @@ After having denounced for 15 years in her investigative investigations, those w
 
 ***Committing to others***. The second edition of the Shamengo 2014 event took place on September 19, 2014. A victory for green and social innovation that we are not ready to forget! Innovations galore, fruitful co-creation workshops, evocative speeches that bring hope, an exceptional support concert... The Shamengo 2014 event is a bit of all that. No fewer than 500 people united around the same cause, ... The discussions were lively and effective, since many solutions were found to implement the innovations of our pioneers in France and around the world... Nine of our pioneers presented their innovations, along with their sponsors. Another major supporter, **Nicolas Hulot** who highlighted the essential role of the Shamengo community in moving the world... www.shamengo.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Le_Mouvement_Colibris">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Hummingbird Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_reponses">
+          <span class="pr-2">Quiz Maxien n°20 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

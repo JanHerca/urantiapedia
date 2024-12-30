@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Rosette Poletti and Barbara Dobbs<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In the footsteps of Jesus (fiction)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="pr-2">Belgian meeting August 19, 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Clarify external communication
@@ -95,3 +119,28 @@ In order to begin the process of change within ourselves and increase our self-e
 
 Rosette Poletti and Barbara Dobbs
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Sur_les_pas_de_Jesus_fiction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In the footsteps of Jesus (fiction)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-60-autumn-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 60 — Autumn 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Reunion_belge_19_aout_2012">
+          <span class="pr-2">Belgian meeting August 19, 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

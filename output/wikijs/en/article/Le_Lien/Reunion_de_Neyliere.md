@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial Charter of the Link</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="pr-2">Extraordinary General Assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The national meeting of readers of the _Urantia Book_ took place this year 2015 from June 18 to 21 at the Domaine de la Neylière near Lyon.
@@ -86,3 +110,28 @@ A pleasant surprise awaited us this weekend: the arrival of Antonio SCHEFER, Pre
 <img src="/image/article/Le_Lien/images_02/004.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Charte_editoriale_du_Lien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial Charter of the Link</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Assemblee_Generale_Extraordinaire">
+          <span class="pr-2">Extraordinary General Assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

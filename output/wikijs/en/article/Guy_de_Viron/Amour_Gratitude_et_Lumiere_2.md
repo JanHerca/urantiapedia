@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Guy de Viron<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Salon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s Note Salon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Sur_l_Amour_3">
+          <span class="pr-2">On Love III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -32,3 +56,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Salon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President’s Note Salon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-64-autumn-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 64 — Autumn 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Sur_l_Amour_3">
+          <span class="pr-2">On Love III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

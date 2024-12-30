@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 William S. Sadler Jr.<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The guest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">The Self and the Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Translation of a recording by Bill Sadler by Chris and Nicole Ragetly (02.2003)
@@ -27,7 +51,7 @@ _Audience: East-west?_
 
 Yes, it's East-West. And North-South is one plus one-sixth, it's a little bigger. And very flat. So you get a basic pattern that determines the archetype of everything else. This ellipse of Paradise is reflected on all the concentric levels of space in the Master Universe. Everything has an elliptical shape. I like this formulation - we have a sense of proportion here again - They say that where the periphery of High Paradise is, it ends abruptly. Then they explain with circumlocution that Paradise is so enormous that its terminal angle is relatively indiscernible within any circumscribed area.
 
-Please note the example of humility given by the authors of these booklets. This booklet, written by a Perfecter of Wisdom, says among other things: “...I depict the reality and truth of the Father's nature and attributes with indisputable authority. I know whereof I speak.” ([UB 1:7.9](/en/The_Urantia_Book/1#p7_9))
+Please note the example of humility given by the authors of these booklets. This booklet, written by a Perfecter of Wisdom, says among other things: “...I depict the reality and truth of the Father's nature and attributes with indisputable authority. I know whereof I speak.” (<a id="a53_277"></a>[UB 1:7.9](/en/The_Urantia_Book/1#p7_9))
 
 One of this Divine Counselor's colleagues introduces the discussion about Lower Paradise like this: “As for Lower Paradise, we only know what is revealed to us: the personalities do not reside there.” I have a little more respect for authority when it admits its ignorance in certain areas. And the author of the booklet tells us something like this: “This is what we were told, we have never been there. This is second-hand information.”
 
@@ -71,3 +95,28 @@ The Deity Absolute is a spiritual reality. It may have a relationship with space
 
 Bill Sadler
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The guest</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-45-winter-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 45 — Winter 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">The Self and the Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

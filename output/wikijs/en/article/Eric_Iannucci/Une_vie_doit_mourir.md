@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Éric Iannucci<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Bezier/Dautres_yeux_dautres_cieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other eyes, other skies...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Lamour_dissout_les_differences">
+          <span class="pr-2">Love dissolves differences...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There are “lives” made for experimenting,
@@ -42,3 +66,28 @@ Only if I know how to love.
 
 Eric Iannucci
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michel_Bezier/Dautres_yeux_dautres_cieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other eyes, other skies...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Lamour_dissout_les_differences">
+          <span class="pr-2">Love dissolves differences...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

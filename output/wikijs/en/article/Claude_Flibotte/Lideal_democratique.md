@@ -46,7 +46,7 @@ The disarmament of the great nations timidly undertaken for several years is now
 
 ## The courage to realize utopia!
 
-I am aware that in the current situation of many so-called sovereign nations, a global government of humanity seems a utopia. However, it represents the only real solution for the human race to be truly sovereign, free from the risk of war based on a real, lasting and good faith fraternal understanding. This way of seeing the future will take nothing away from current countries. Local affairs will be settled by local governments. National affairs will be settled by national governments and international affairs will be settled by the planetary government ([UB 134:6.8](/en/The_Urantia_Book/134#p6_8)).
+I am aware that in the current situation of many so-called sovereign nations, a global government of humanity seems a utopia. However, it represents the only real solution for the human race to be truly sovereign, free from the risk of war based on a real, lasting and good faith fraternal understanding. This way of seeing the future will take nothing away from current countries. Local affairs will be settled by local governments. National affairs will be settled by national governments and international affairs will be settled by the planetary government (<a id="a48_562"></a>[UB 134:6.8](/en/The_Urantia_Book/134#p6_8)).
 
 All treaties, diplomacy, foreign policies, alliances or balances of power of all kinds will never succeed in establishing world peace as long as the idea of national sovereignty prevails.
 

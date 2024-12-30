@@ -28,9 +28,9 @@ I think there are mainly two obstacles that prevent us from taking on the only c
 In all cases, our adjuster continues to point us in the right direction.
 <br style="clear:both;"/>
 
-> “Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living. In entering the kingdom, you cannot escape its responsibilities or avoid its obligations, but remember: The gospel yoke is easy and the burden of truth is light.” ([UB 159:3.7](/en/The_Urantia_Book/159#p3_7))
+> “Forewarn all believers regarding the fringe of conflict which must be traversed by all who pass from the life as it is lived in the flesh to the higher life as it is lived in the spirit. To those who live quite wholly within either realm, there is little conflict or confusion, but all are doomed to experience more or less uncertainty during the times of transition between the two levels of living. In entering the kingdom, you cannot escape its responsibilities or avoid its obligations, but remember: The gospel yoke is easy and the burden of truth is light.” (<a id="a30_568"></a>[UB 159:3.7](/en/The_Urantia_Book/159#p3_7))
 
-> Jesus’ religion consisted not merely in *believing,* but in actually *doing,* those things which the gospel required. He did not teach that the essence of his religion consisted in social service, but rather that social service was one of the certain effects of the possession of the spirit of true religion. ([UB 159:5.8](/en/The_Urantia_Book/159#p5_8))
+> Jesus’ religion consisted not merely in *believing,* but in actually *doing,* those things which the gospel required. He did not teach that the essence of his religion consisted in social service, but rather that social service was one of the certain effects of the possession of the spirit of true religion. (<a id="a32_312"></a>[UB 159:5.8](/en/The_Urantia_Book/159#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_09/004.jpg">

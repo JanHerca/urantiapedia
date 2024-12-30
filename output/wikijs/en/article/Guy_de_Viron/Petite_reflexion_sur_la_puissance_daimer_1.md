@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Guy de Viron<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentation of the Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Story: The Barn</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Love is considered the supreme good, the sum of all ordinary virtues (patience, kindness, generosity, humility, courtesy, selflessness, gentleness, simplicity, sincerity...). It is the most enviable gift because it is the only lasting good. God, the Eternal is love. We must therefore desire this eternal gift. Let us put love before the rest.
@@ -39,3 +63,28 @@ Let us not complain about the hand that wants to perfect in us the still imperfe
 
 Guy De Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alain_Coulombe/Presentation_du_Livre_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentation of the Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="pr-2">Story: The Barn</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

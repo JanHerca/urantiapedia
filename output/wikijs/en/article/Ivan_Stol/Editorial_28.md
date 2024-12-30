@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Ivan Stol<br>© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/099">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="pr-2">The Wisdom of Creating Unequal Races</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hello Dear UB readers, Many people ask questions about the weather (when it's not about meteorology) and I would like to present some of its particularities to you.
@@ -31,3 +55,28 @@ So, don't delay in reading this Deep Link.
 
 Yours faithfully, Ivan.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/099">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-99-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 99 — Septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="pr-2">The Wisdom of Creating Unequal Races</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

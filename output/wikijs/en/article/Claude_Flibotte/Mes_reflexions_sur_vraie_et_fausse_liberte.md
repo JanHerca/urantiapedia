@@ -20,7 +20,7 @@ Sainte-Julie
 
 Following the excellent conference by Gaétan Charland given on March 19, 2023 and entitled “_Luciferian thought, revelation and us_”, I share my comments with you!
 
-In my view, freedom and true democracy are intimately connected since the freedom of individuals is included in this governmental system. According to the Melchizedek of Nebadon in [UB 71:2.1](/en/The_Urantia_Book/71#p2_1) it is said: “_Although democracy is an ideal, it is the product of civilization and not of evolution._”
+In my view, freedom and true democracy are intimately connected since the freedom of individuals is included in this governmental system. According to the Melchizedek of Nebadon in <a id="a22_181"></a>[UB 71:2.1](/en/The_Urantia_Book/71#p2_1) it is said: “_Although democracy is an ideal, it is the product of civilization and not of evolution._”
 
 So, since democracy is an ideal, what advantages does it offer us over other forms of government? According to Wikipedia, democracy is a political system that guarantees sovereignty to citizens who exercise it directly through the right to vote. These values concern respect for the Constitution and the rule of law, respect for the legitimate authority of ministers, the defense of human rights and freedoms which constitute the foundation of a democratic society and the acceptance of the responsibility to promote social and economic development. Democracy is based on political, union and religious freedoms.
 
@@ -28,7 +28,7 @@ Without being a political scientist, if we compare what democracy is and its adv
 
 Finally, you would say to me “_why cite this long list of ways of governing?_”, well it is to follow up on Gaétan's conference by linking it to this quote from a Powerful Messenger attached to the government of the superuniverse of Orvonton:
 
-> _There is no error greater than that species of self-deception which leads intelligent beings to crave the exercise of power over other beings for the purpose of depriving these persons of their natural liberties. The golden rule of human fairness cries out against all such fraud, unfairness, selfishness, and unrighteousness. Only true and genuine liberty is compatible with the reign of love and the ministry of mercy._ ([UB 54:1.8](/en/The_Urantia_Book/54#p1_8))
+> _There is no error greater than that species of self-deception which leads intelligent beings to crave the exercise of power over other beings for the purpose of depriving these persons of their natural liberties. The golden rule of human fairness cries out against all such fraud, unfairness, selfishness, and unrighteousness. Only true and genuine liberty is compatible with the reign of love and the ministry of mercy._ (<a id="a30_426"></a>[UB 54:1.8](/en/The_Urantia_Book/54#p1_8))
 
 In light of this quote, what striking examples of true and false freedom do we have in today's world? I will stick to four examples that made headlines!
 
@@ -59,7 +59,7 @@ In light of this quote, what striking examples of true and false freedom do we h
 In light of these four examples among many others not cited, it is clear that the sophistries of Lucifer contained in his manifesto of freedom and amply supported by Caligastia on Urantia, have wreaked havoc on our world, bringing its share of suffering and death. It is up to us to open our eyes wide to see the truth in the face and to take the necessary measures to remedy the situation on the march towards the era of light and life!
 <br style="clear:both;"/>
 
-> _Even wisdom is divine and safe only when it is cosmic in scope and spiritual in motivation._ ([UB 54:1.7](/en/The_Urantia_Book/54#p1_7))
+> _Even wisdom is divine and safe only when it is cosmic in scope and spiritual in motivation._ (<a id="a61_97"></a>[UB 54:1.7](/en/The_Urantia_Book/54#p1_7))
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_04/034.jpg">

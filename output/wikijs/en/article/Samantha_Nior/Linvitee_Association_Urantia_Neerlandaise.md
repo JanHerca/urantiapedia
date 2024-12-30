@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Samantha Nior<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Levels of Realization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The Dutch Urantia Association was founded in the Netherlands in **February 2007** by Karen **Huigsloot**, John **van den Hout** and Samantha **Nior**. Unlike other associations (we are in the form of a foundation) we have chosen the form of an organization without registered members. In the Netherlands, an organization with members is obliged with their participation to organize many activities. We prefer to use the time that this would take to devote ourselves to our objectives. Consequently, we are dependent on donations and gifts.
@@ -34,3 +58,28 @@ _Kindly translated by Claire Mylanus_
 
 Samantha Nior
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_Billet_du_President_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Niveaux_de_realisation">
+          <span class="pr-2">Levels of Realization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

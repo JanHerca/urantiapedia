@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Christine Baussain<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ego and the Self</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Make Yourself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On November 8-9, 2008, in Frankfurt am Main, Germany, the second meeting of German readers of _The Urantia Book_ took place.
@@ -35,3 +59,28 @@ Wow!
 
 Christine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/L_Ego_et_le_Moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ego and the Self</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alain_Degoumois/Fais_toi">
+          <span class="pr-2">Make Yourself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

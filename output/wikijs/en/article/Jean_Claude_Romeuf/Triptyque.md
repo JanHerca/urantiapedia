@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What are “black holes”?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _But all who receive it will be enlightened, purified and comforted._
@@ -69,3 +93,28 @@ It is very difficult for a human being to speak of goodness, because he can only
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Quest_ce_que_les_trous_noirs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What are “black holes”?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Reflexions">
+          <span class="pr-2">Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

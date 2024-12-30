@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Christine Baussain<br>© 200 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Animal Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Supreme Rant-ings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Thank you all for your responses about a common practice based on the Urantia Book. The reflection was clearly brewing, so it opened up, even if it was a little delayed, a little “off”, since so to speak everything happened by telephone.
@@ -21,11 +45,11 @@ But this same word “practice” also designates the ascending, centripetal pat
 
 The personal, even intimate, non-shareable side of this practice is obvious - the strength that one draws from it too. Evolutionary religions, anxious to use this potential for themselves, have therefore always sought to give collective forms to this practice, in order to increase the feeling of belonging to the community, the strength of cohesion, and ultimately, the power of impact and expansion of the group. The results as presented to us by today's world are not always engaging, and readers of the L.U. in particular are wary (which perhaps explains their difficulty in expressing themselves publicly on this subject?)
 
-Now, and the Book says it well, there is a treasure hidden in collective practice, a treasure for each and for all: “_The characteristic difference between a social meeting and a religious gathering lies in the fact that in contrast to the former, the latter is imbued with an atmosphere of communion. In this way, human association engenders a feeling of community with the divine, and this is the beginning of common worship_”. ([UB 103:4.1](/en/The_Urantia_Book/103#p4_1)) It is therefore a question for us, who present ourselves as sincere and committed readers, of putting aside our fears and our taboos to begin gently, with flexibility and tact, to think in this direction - in any case those who feel attracted by such an approach.
+Now, and the Book says it well, there is a treasure hidden in collective practice, a treasure for each and for all: “_The characteristic difference between a social meeting and a religious gathering lies in the fact that in contrast to the former, the latter is imbued with an atmosphere of communion. In this way, human association engenders a feeling of community with the divine, and this is the beginning of common worship_”. (<a id="a47_431"></a>[UB 103:4.1](/en/The_Urantia_Book/103#p4_1)) It is therefore a question for us, who present ourselves as sincere and committed readers, of putting aside our fears and our taboos to begin gently, with flexibility and tact, to think in this direction - in any case those who feel attracted by such an approach.
 
 And there you have it, the first result is not so bad! Here, in disorder, in a bouquet, are the proposals contained to date in the bottle:
 
-Without forgetting to start by taking good care of our relationships - interest in one another, mutual assistance, regular telephone calls, holiday postcards... (_Remember that, to the extent that you love one another, all men will know that you are my disciples._ [UB 191:4.3](/en/The_Urantia_Book/191#p4_3)) we could also
+Without forgetting to start by taking good care of our relationships - interest in one another, mutual assistance, regular telephone calls, holiday postcards... (_Remember that, to the extent that you love one another, all men will know that you are my disciples._ <a id="a51_265"></a>[UB 191:4.3](/en/The_Urantia_Book/191#p4_3)) we could also
 
 1. Open the Book at the same time to
 	- a) simply read
@@ -43,3 +67,28 @@ Nice topics for reflection, aren't they? In the meantime, if you would like, for
 
 Christine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Animal Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Supreme Rant-ings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Guy de Viron<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Tous_mes_voeux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note All my best wishes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="pr-2">Quiz Maxien n°20 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Here is Link n69, by which I take leave of its edition.
@@ -33,3 +57,28 @@ Guy from Viron
 <img src="/image/article/Le_Lien/images_01/201.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Tous_mes_voeux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note All my best wishes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-69-winter-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 69 — Winter 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_20_Les_questions">
+          <span class="pr-2">Quiz Maxien n°20 The questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

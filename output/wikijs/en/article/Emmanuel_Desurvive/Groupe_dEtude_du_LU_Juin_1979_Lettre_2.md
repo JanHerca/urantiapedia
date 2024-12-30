@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Emmanuel Desurvive<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Little Morontia Bubbles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Center for Study and Reflection
@@ -48,9 +69,9 @@ _Every advance in knowledge is a disturbing and painful experience for man. This
 
 _Scientists, however, are not the only group afflicted by this kind of myopia. The growth of religious insight has been thwarted by greater resistance and more suffering. Prophets have been stoned, saviors crucified by religious men and women who thought they were doing God's will._
 
-To prove this we need only look at the time of Jesus. John the Baptist “The greatest prophet of the old order” ([UB 136:0.1](/en/The_Urantia_Book/136#p0_1)) was arrested, imprisoned and beheaded.
+To prove this we need only look at the time of Jesus. John the Baptist “The greatest prophet of the old order” (<a id="a71_112"></a>[UB 136:0.1](/en/The_Urantia_Book/136#p0_1)) was arrested, imprisoned and beheaded.
 
-Jesus of Nazareth, the personal representative of the eternal God, who said, “He who has seen me has seen the Father” ([UB 157:6.13](/en/The_Urantia_Book/157#p6_13)), and the greatest of all revelations to all mankind and the entire local universe of Nebadon, was arrested, ridiculed, vilified, whipped, spat upon, cruelly treated, and then before the unbelieving eyes of a universe, summarily nailed to a cross and hung between two thieves...
+Jesus of Nazareth, the personal representative of the eternal God, who said, “He who has seen me has seen the Father” (<a id="a73_119"></a>[UB 157:6.13](/en/The_Urantia_Book/157#p6_13)), and the greatest of all revelations to all mankind and the entire local universe of Nebadon, was arrested, ridiculed, vilified, whipped, spat upon, cruelly treated, and then before the unbelieving eyes of a universe, summarily nailed to a cross and hung between two thieves...
 
 Revolting? Absolutely!
 
@@ -72,11 +93,11 @@ They knew that:
 
 > _But as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied. The dangers of formalized religion are: fixation of beliefs and crystallization of sentiments; accumulation of vested interests with increase of secularization; tendency to standardize and fossilize truth; diversion of religion from the service of God to the service of the church; inclination of leaders to become administrators instead of ministers; tendency to form sects and competitive divisions; establishment of oppressive ecclesiastical authority; creation of the aristocratic “chosen-people” attitude; fostering of false and exaggerated ideas of sacredness; the routinizing of religion and the petrification of worship; tendency to venerate the past while ignoring present demands; failure to make up-to-date interpretations of religion; entanglement with functions of secular institutions; it creates the evil discrimination of religious castes; it becomes an intolerant judge of orthodoxy; it fails to hold the interest of adventurous youth and gradually loses the saving message of the gospel of eternal salvation._
 > 
-> _But as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied. The dangers of formalized religion are: fixation of beliefs and crystallization of sentiments; accumulation of vested interests with increase of secularization; tendency to standardize and fossilize truth; diversion of religion from the service of God to the service of the church; inclination of leaders to become administrators instead of ministers; tendency to form sects and competitive divisions; establishment of oppressive ecclesiastical authority; creation of the aristocratic “chosen-people” attitude; fostering of false and exaggerated ideas of sacredness; the routinizing of religion and the petrification of worship; tendency to venerate the past while ignoring present demands; failure to make up-to-date interpretations of religion; entanglement with functions of secular institutions; it creates the evil discrimination of religious castes; it becomes an intolerant judge of orthodoxy; it fails to hold the interest of adventurous youth and gradually loses the saving message of the gospel of eternal salvation._ ([UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
+> _But as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied. The dangers of formalized religion are: fixation of beliefs and crystallization of sentiments; accumulation of vested interests with increase of secularization; tendency to standardize and fossilize truth; diversion of religion from the service of God to the service of the church; inclination of leaders to become administrators instead of ministers; tendency to form sects and competitive divisions; establishment of oppressive ecclesiastical authority; creation of the aristocratic “chosen-people” attitude; fostering of false and exaggerated ideas of sacredness; the routinizing of religion and the petrification of worship; tendency to venerate the past while ignoring present demands; failure to make up-to-date interpretations of religion; entanglement with functions of secular institutions; it creates the evil discrimination of religious castes; it becomes an intolerant judge of orthodoxy; it fails to hold the interest of adventurous youth and gradually loses the saving message of the gospel of eternal salvation._ (<a id="a95_1165"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
 
 But the early leaders had also read in The Urantia Book:
 
-> _The Jewish religion persisted also because of its institutions. It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it. In this respect Ezekiel was wiser than his contemporaries; though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual._ ([UB 97:10.7](/en/The_Urantia_Book/97#p10_7))
+> _The Jewish religion persisted also because of its institutions. It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it. In this respect Ezekiel was wiser than his contemporaries; though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual._ (<a id="a99_611"></a>[UB 97:10.7](/en/The_Urantia_Book/97#p10_7))
 
 Yet it was clear that while an over-formalized and over-institutionalized organization was undesirable because it stifled the progress of individual believers, without an organization, nevertheless, there would be no sure way to ensure the transmission of moral values and spiritual ideals from generation to generation. However valuable and pure a religion may be, it will be overwhelmed by the old evolutionary beliefs, or simply disappear for lack of renewal and material support, if it has no formal organization.
 
@@ -84,7 +105,7 @@ The early leaders of the Urantia movement devised an ingenious plan. Their strat
 
 To protect the text from editing, alteration, and distortion, they foresaw the necessity of placing the text of The Urantia Book under United States and international copyright protection, thus guaranteeing to future generations the privilege of having the original Fifth Epochal Revelation. The Urantia Foundation was formed for this purpose, and the Book was legally copyrighted in its name.
 
-To avoid over-organization and thus allow each individual “_to enjoy religious liberty in the full expression of his personal interpretation of the truths of religious belief and the facts of religious experience_” ([UB 103:5.12](/en/The_Urantia_Book/103#p5_12)), they decided on a simple social organization. Its purpose was to provide support for the socialization of the Urantia teachings and to serve as a scaffolding for the development of a real brotherhood that would serve as a living transmitter of the Urantia Message.
+To avoid over-organization and thus allow each individual “_to enjoy religious liberty in the full expression of his personal interpretation of the truths of religious belief and the facts of religious experience_” (<a id="a107_216"></a>[UB 103:5.12](/en/The_Urantia_Book/103#p5_12)), they decided on a simple social organization. Its purpose was to provide support for the socialization of the Urantia teachings and to serve as a scaffolding for the development of a real brotherhood that would serve as a living transmitter of the Urantia Message.
 
 Moreover, until such time as the Spirit of Truth should reign in the hearts of the world's population, simple social brotherhood would provide the mechanism for keeping out troublesome and disturbing individuals who would inevitably try to attach themselves to it for destructive purposes, perhaps even to distort and suppress it, or to supplant the Urantia movement. A simple social organization might be a sufficient safeguard.
 
@@ -124,7 +145,7 @@ How presumptuous and disloyal for any individual or group to intentionally disto
 
 The Urantia Book says:
 
-> _Law is life itself and not the rules of its conduct. Evil is a transgression of law, not a violation of the rules of conduct pertaining to life, which *is* the law. Falsehood is not a matter of narration technique but something premeditated as a perversion of truth. The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring—these are the artistic triumphs of truth. The shadow of a hair’s turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle—these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth._ ([UB 48:6.33](/en/The_Urantia_Book/48#p6_33))
+> _Law is life itself and not the rules of its conduct. Evil is a transgression of law, not a violation of the rules of conduct pertaining to life, which *is* the law. Falsehood is not a matter of narration technique but something premeditated as a perversion of truth. The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring—these are the artistic triumphs of truth. The shadow of a hair’s turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle—these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingly wrong in the truth._ (<a id="a147_809"></a>[UB 48:6.33](/en/The_Urantia_Book/48#p6_33))
 
 This is why it is necessary to have a model that you can count on and whose authenticity is guaranteed.
 
@@ -173,3 +194,25 @@ It is only through this long process of maturation that man can arrive at that �
 
 Emmanuel Desurvive
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Petites_bulles_morontielles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Little Morontia Bubbles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

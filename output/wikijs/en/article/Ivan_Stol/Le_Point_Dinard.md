@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Ivan Stol<br>© 2008 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-43-summer-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 43 — Summer 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="pr-2">National Meeting from May 22 to May 25</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The study of personality in a friendly and well-organized setting (thank you Claire).
@@ -25,3 +49,28 @@ The subject is long, the stay seemed short. Especially since, to come back to ea
 
 Ivan Stol
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Edito_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-43-summer-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 43 — Summer 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_Mylanus/Rencontre_nationale_du_22_mai_au_25_mai">
+          <span class="pr-2">National Meeting from May 22 to May 25</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

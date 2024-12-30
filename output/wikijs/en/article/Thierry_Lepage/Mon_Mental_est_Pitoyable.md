@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Thierry Lepage<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Returning to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">To you, Universal Father, To you, Supreme Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Thierry Lepage
@@ -61,3 +85,28 @@ I dedicate myself to loving and serving my brothers.
 
 I dedicate myself to establishing the Kingdom of Heaven on earth.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Lebel/Rentrer_chez_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Returning to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/A_toi_Pere_Universel_A_toi_Mere_Supreme">
+          <span class="pr-2">To you, Universal Father, To you, Supreme Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

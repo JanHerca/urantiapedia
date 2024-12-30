@@ -27,7 +27,7 @@ While studying this booklet last Wednesday, new meanings emerged in me which hav
 We learn that Jesus asks his Father to accompany them as he himself was accompanied and to give them wisdom. In fact, he entrusts his twelve men to the care of his Father. He tells them:
 <br style="clear:both;"/>
 
-> _Now that you are ambassadors of my Father’s kingdom, you have thereby become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world._ ([UB 140:3.1](/en/The_Urantia_Book/140#p3_1))
+> _Now that you are ambassadors of my Father’s kingdom, you have thereby become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world._ (<a id="a29_294"></a>[UB 140:3.1](/en/The_Urantia_Book/140#p3_1))
 
 These instructions, advice, and sometimes even demands, were not the gospel of Jesus, but useful instructions that the apostles received just as he himself had received from Emmanuel.
 

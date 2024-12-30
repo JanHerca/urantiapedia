@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Patrick Beaupre<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bridges, walkways and rope ladders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-31-autumn-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Magie">
+          <span class="pr-2">Magic</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Only a poet can discern poetry in the mundane prose of life... ([UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+
+Only a poet can discern poetry in the mundane prose of life... (<a id="a37_64"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 Silence !...
 It's getting late, night is coming quickly.
@@ -86,3 +110,28 @@ Patrick Beaupre
 
 Thank you to all these wonderful invisible beings without whom I am nothing.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christine_Baussain/Ponts_passerelles_et_echelles_de_corde">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bridges, walkways and rope ladders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-31-autumn-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 31 — Autumn 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Magie">
+          <span class="pr-2">Magic</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

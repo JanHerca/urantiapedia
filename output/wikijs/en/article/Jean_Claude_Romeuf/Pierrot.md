@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean-Claude Romeuf<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Circuits of the Adjutant Mental Spirits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">History of the French-speaking Movement in Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Before telling this story, I remember the melody and lyrics of a beautiful Sevillian song called El Amigo. Every time a friend leaves, he leaves behind a lot of sadness and emptiness. So, when we are near him in his last hours, we would like to hold on to him a little longer, just a little while. The song says in Spanish: “Don't go yet, wait until my guitar cries as it says goodbye to you.”
@@ -41,3 +65,28 @@ Bonabo February 6, 2016
 
 ***Jean-Claude Romeuf***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Les_circuits_des_esprits_mentaux_adjuvats">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Circuits of the Adjutant Mental Spirits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Histoire_du_mouvement_francophone_d_Europe">
+          <span class="pr-2">History of the French-speaking Movement in Europe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

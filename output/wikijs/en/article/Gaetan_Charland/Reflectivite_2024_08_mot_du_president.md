@@ -41,7 +41,7 @@ Hoping that these readings will inspire you during your vacation, during your re
 A quote from Jesus very relevant to the current context in the world.
 <br style="clear:both;"/>
 
-> “I warn you against false prophets who will come to you in sheep’s clothing, while on the inside they are as ravening wolves. By their fruits you shall know them.” ([UB 140:3.19](/en/The_Urantia_Book/140#p3_19))
+> “I warn you against false prophets who will come to you in sheep’s clothing, while on the inside they are as ravening wolves. By their fruits you shall know them.” (<a id="a43_167"></a>[UB 140:3.19](/en/The_Urantia_Book/140#p3_19))
 
 To love is to serve!
 

@@ -18,7 +18,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 _Claude Flibotte_
 Sainte-Julie
 
-“_The planetary conduct of non-breathers would be of more than interest to you, because a race of these beings inhabits a sphere very near Urantia_” ([UB 49:3.6](/en/The_Urantia_Book/49#p3_6)).
+“_The planetary conduct of non-breathers would be of more than interest to you, because a race of these beings inhabits a sphere very near Urantia_” (<a id="a20_150"></a>[UB 49:3.6](/en/The_Urantia_Book/49#p3_6)).
 
 Here is a quote from the Urantia Book that certainly piques your curiosity, at least mine! In the past, I read an article by an author dealing with this subject, which unfortunately I have not been able to find, who located their planet inside our solar system. Obviously, for the Melchizedek of the Jerusem school of planetary administration, “very close to Urantia” can mean inside our solar system as well as light years away from us!
 <br style="clear:both;"/>
@@ -40,7 +40,7 @@ According to the latest information collected, Proxima Centauri could have a pro
 
 ## What do we know about the planet Proxima Centauri B?
 
-Proxima Centauri B is a planet orbiting 7 million kilometers from its star. It is traveling in what is called the habitable zone according to our astronomers, the zone where the existence of liquid water is possible. It was discovered in August 2016 by the European Southern Observatory. It would have a mass of 1.3 compared to our Earth. It would be a rocky planet. Assuming that it has no atmosphere, which is compatible with what is said in _The Urantia Book_ for a world of non-breathers, this state of affairs would give it a temperature of -40 &deg;C in the shade. It is much too cold for me, but is it comfortable for non-breathers? But, as it is mentioned in [UB 49:3.4](/en/The_Urantia_Book/49#p3_4) for non-breathers “_the reactions of the nervous system, the temperature regulating mechanism and the metabolism of these specialized peoples are radically different from these same functions in mortals_”. So a non-breather would probably have no trouble living at such a low temperature unless he or she avoided spending long periods in the shade.
+Proxima Centauri B is a planet orbiting 7 million kilometers from its star. It is traveling in what is called the habitable zone according to our astronomers, the zone where the existence of liquid water is possible. It was discovered in August 2016 by the European Southern Observatory. It would have a mass of 1.3 compared to our Earth. It would be a rocky planet. Assuming that it has no atmosphere, which is compatible with what is said in _The Urantia Book_ for a world of non-breathers, this state of affairs would give it a temperature of -40 &deg;C in the shade. It is much too cold for me, but is it comfortable for non-breathers? But, as it is mentioned in <a id="a42_667"></a>[UB 49:3.4](/en/The_Urantia_Book/49#p3_4) for non-breathers “_the reactions of the nervous system, the temperature regulating mechanism and the metabolism of these specialized peoples are radically different from these same functions in mortals_”. So a non-breather would probably have no trouble living at such a low temperature unless he or she avoided spending long periods in the shade.
 
 ## Distribution of planets inhabited by non-breathing humanoid types
 
@@ -70,9 +70,9 @@ Another particularity for these non-breathers lies in communication. How do they
 <figcaption>Artistic illustration of the planet Proxima B Centauri. Source: <a href="https://bit.ly/3AsSx7u">Youtube</a></figcaption>
 </figure>
 
-Another interesting feature is mentioned in [UB 40:5.15](/en/The_Urantia_Book/40#p5_15) where the Mighty Messenger informs us that nonbreathers need special means to communicate with us on the morontia worlds. This presupposes that our morontia bodies are similar to those of our mortal bodies. Also according to Richard's hypothesis, they would have to be equipped with devices that convert their radio waves into sound waves and vice versa for us.
+Another interesting feature is mentioned in <a id="a72_44"></a>[UB 40:5.15](/en/The_Urantia_Book/40#p5_15) where the Mighty Messenger informs us that nonbreathers need special means to communicate with us on the morontia worlds. This presupposes that our morontia bodies are similar to those of our mortal bodies. Also according to Richard's hypothesis, they would have to be equipped with devices that convert their radio waves into sound waves and vice versa for us.
 
-Finally, Richard concludes his article by mentioning that non-breathers are identical to us in manifestation of spirit and personality. He feels that the prayer in [UB 144:5.6](/en/The_Urantia_Book/144#p5_6) that says, “_Give us this day the life-giving forces of light_” would have been written by a non-breather.
+Finally, Richard concludes his article by mentioning that non-breathers are identical to us in manifestation of spirit and personality. He feels that the prayer in <a id="a74_164"></a>[UB 144:5.6](/en/The_Urantia_Book/144#p5_6) that says, “_Give us this day the life-giving forces of light_” would have been written by a non-breather.
 
 ## A different destiny in survival
 

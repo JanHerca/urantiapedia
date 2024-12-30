@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Simon Orsini<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Assembly of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">The UBIS Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Belief is the first step of faith. This analysis depends entirely on revelations and leaves no room for improvisation.
@@ -35,7 +59,7 @@ Theology is the study of the actions and reactions of the human mind. The observ
 
 When the search is done from the inside (Paradise) it gives origin to theology.
 
-> If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy. If your religion is a spiritual experience, your object of worship must be the universal spirit reality and ideal of all your spiritualized concepts. All religions based on fear, emotion, tradition, and philosophy I term the intellectual religions, while those based on true spirit experience I would term the true religions. The object of religious devotion may be material or spiritual, true or false, real or unreal, human or divine. Religions can therefore be either good or evil. ([UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
+> If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy. If your religion is a spiritual experience, your object of worship must be the universal spirit reality and ideal of all your spiritualized concepts. All religions based on fear, emotion, tradition, and philosophy I term the intellectual religions, while those based on true spirit experience I would term the true religions. The object of religious devotion may be material or spiritual, true or false, real or unreal, human or divine. Religions can therefore be either good or evil. (<a id="a61_949"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
 
 At the human stage nothing can be proven, science and religion are both based on assumptions, science becomes the mental realm of mathematics.
 
@@ -51,3 +75,28 @@ Every time I construct a text, I consider it as a duty. (To be taken in both sen
 
 _Simon Orsini_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Assembly of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-79-septembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 79 — Septembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">The UBIS Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

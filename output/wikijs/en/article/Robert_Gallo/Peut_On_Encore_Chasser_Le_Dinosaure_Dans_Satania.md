@@ -9,6 +9,27 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Robert Gallo<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia">
@@ -23,13 +44,13 @@ To have an idea of the time remaining, we would need to have an indication of th
 
 As long as we know how to observe and deduce, The Urantia Book gives an answer...
 
-We know ([UB 62:7.7](/en/The_Urantia_Book/62#p7_7)) that our world has been considered a “skilled world” for 993,408 years before 1934; and as such Urantia has become the first inhabited world of Satania.
+We know (<a id="a46_9"></a>[UB 62:7.7](/en/The_Urantia_Book/62#p7_7)) that our world has been considered a “skilled world” for 993,408 years before 1934; and as such Urantia has become the first inhabited world of Satania.
 
 We also know that in 1934 there were 619 inhabited worlds in Satania, an increase of 13 in the space of 993,408 years.
 
 We can therefore deduce that on this sequence of 13 imprints, the average time between two numberings is 76416 years (993408 / 13); and perhaps less if the last numbering (619) is fork before 1934.
 
-This average delay between two planetary emergences of human beings is sufficiently important for it to be a rare event and to each time arouse great joy on Jerusem, on Edentia and even on Salvington ([UB 62:7.3](/en/The_Urantia_Book/62#p7_3)).
+This average delay between two planetary emergences of human beings is sufficiently important for it to be a rare event and to each time arouse great joy on Jerusem, on Edentia and even on Salvington (<a id="a52_201"></a>[UB 62:7.3](/en/The_Urantia_Book/62#p7_3)).
 
 If this information about the average time to wait until the emergence of the next inhabited world is a reflection of the general average in Satania for the future; then we can conjecture that the 1000th world of Satania could emerge in approximately 29 million years (76000 x 381).
 
@@ -37,7 +58,7 @@ Therefore, the most backward world of Salania (the one that will be registered l
 
 To get an idea of the state of this world, let's see what ours was like 29 million years ago.
 
-> “*30,000,000* years ago the modern types of mammals began to make their appearance. Formerly the mammals had lived for the greater part in the hills, being of the mountainous types; *suddenly* there began the evolution of the plains or hoofed type, the grazing species, as differentiated from the clawed flesh eaters. These grazers sprang from an undifferentiated ancestor having five toes and forty-four teeth, which perished before the end of the age. Toe evolution did not progress beyond the three-toed stage throughout this period.” ([UB 61:2.8](/en/The_Urantia_Book/61#p2_8))
+> “*30,000,000* years ago the modern types of mammals began to make their appearance. Formerly the mammals had lived for the greater part in the hills, being of the mountainous types; *suddenly* there began the evolution of the plains or hoofed type, the grazing species, as differentiated from the clawed flesh eaters. These grazers sprang from an undifferentiated ancestor having five toes and forty-four teeth, which perished before the end of the age. Toe evolution did not progress beyond the three-toed stage throughout this period.” (<a id="a60_541"></a>[UB 61:2.8](/en/The_Urantia_Book/61#p2_8))
 
 We see that in those distant times, the era of the dinosaurs was a distant past and our world was already entering the era of higher animals.
 
@@ -49,3 +70,25 @@ Therefore, it would seem that it is already too late to go on a dinosaur hunt or
 
 Robert Gallo
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/La_personnalite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-92-décembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 92 — Décembre 2020</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

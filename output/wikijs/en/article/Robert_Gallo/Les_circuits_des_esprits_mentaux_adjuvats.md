@@ -9,9 +9,33 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Robert Gallo<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Following the Personality-Power Phenomenon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-In _The Urantia Book_ we can read: “It is the presence of the seven adjutant mind-spirits on the primitive worlds which conditions the course of organic evolution; this explains why evolution is **premeditated and not accidental**” ( [UB 36:5.1](/en/The_Urantia_Book/36#p5_1) ).
+
+In _The Urantia Book_ we can read: “It is the presence of the seven adjutant mind-spirits on the primitive worlds which conditions the course of organic evolution; this explains why evolution is **premeditated and not accidental**” ( <a id="a37_234"></a>[UB 36:5.1](/en/The_Urantia_Book/36#p5_1) ).
 
 Everything is said, the living is connected to a sort of “cloud” which guides and conditions it. From trilobites to mammals, the program was written...
 
@@ -40,3 +64,28 @@ However, this experience reveals a prodigious consequence: Thanks to the circuit
 
 ***Robert Gallo***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Suite_au_phenomene_Personnalite_Pouvoir">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Following the Personality-Power Phenomenon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="pr-2">Pierrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

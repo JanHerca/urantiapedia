@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Claire Mylanus<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everything Comes in Its Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">The First Sentence of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **August seminar in Brittany**
@@ -21,7 +45,7 @@ The Prayer of Consent is comparable to worship. God exists above thoughts and fe
 
 “_Be still and know that I am God_” [Psalm 46:10](/en/Bible/Psalms/46#v10)
 
-“_Jesus taught his disciples that after they had made their prayer to the Father, they should remain for some time in a state of silent receptivity to give the inner spirit the best chance of speaking to the attentive soul. It is when the human mind is in an attitude of sincere adoration that the spirit of the Father speaks best to men_.” [UB 146:2.17](/en/The_Urantia_Book/146#p2_17)
+“_Jesus taught his disciples that after they had made their prayer to the Father, they should remain for some time in a state of silent receptivity to give the inner spirit the best chance of speaking to the attentive soul. It is when the human mind is in an attitude of sincere adoration that the spirit of the Father speaks best to men_.” <a id="a47_341"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)
 
 The first day was devoted to the discovery of the Prayer of Consent and the explanation of its practice by Gard Jameson.
 
@@ -56,3 +80,28 @@ This week was very much appreciated by all, we shared our soul, our brotherhood,
 
 Claire Mylanus
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Roth/Tout_vient_en_son_temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everything Comes in Its Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/La_premiere_phrase_du_LU">
+          <span class="pr-2">The First Sentence of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

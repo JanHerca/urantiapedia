@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Michel Rouanet<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/040">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autum 2007 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="pr-2">The Biological Improvement of Humanity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On the occasion of the transfer of the head office from Paris to Marseille, I would like to thank Georges and Marlène Michelson-Dupont on behalf of all the members who have made up the AFLUB since its creation in 1996. Indeed, not only are Georges and Marlène founding members of the AFLUB (see list in the appendix of the new statutes) who actively worked on the transition from CERDH to AFLUB, now under the aegis of the UAI, but they hosted its head office in their premises at the Urantia Foundation SA France for eleven years.
@@ -33,3 +57,28 @@ Best regards to all.
 
 Michel R.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/040">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autum 2007 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-40-autumn-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 40 — Autumn 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Lamelioration_biologique_de_lhumanite">
+          <span class="pr-2">The Biological Improvement of Humanity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

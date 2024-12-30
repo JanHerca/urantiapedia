@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Georges Michelson-Dupont<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Overpopulation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="pr-2">10th International Conference of the UAI Association — Amsterdam, The Netherlands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## A Little History
@@ -69,3 +93,28 @@ which allows everyone to examine this process and draw their own conclusions abo
 
 _Georges Michelson-Dupont_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Chappuis/Surpopulation_Planetaire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Overpopulation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaap_Tera/10eme_Conference_Internationnale_De_L_association_UAI">
+          <span class="pr-2">10th International Conference of the UAI Association — Amsterdam, The Netherlands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

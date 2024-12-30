@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/074">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="pr-2">Effectively Revealing the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hello dear readers of The Urantia Book, It is the twentieth anniversary of the AFLUB and the results are not very brilliant. We live in a country whose inhabitants have many ideas but with great difficulty in giving them validity. They would like a brotherhood but do not ask themselves the question of what that implies. Likewise, many speak of their one God without thinking about what this concept really implies. This is the whole difference between a seeker of Truth and a simple believer.
@@ -21,3 +45,28 @@ Finally, I wish you a good read and do not hesitate to react to certain texts.
 
 Brotherly friendships Ivan Stol
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/074">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeffrey_Wattles/Reveler_Effectivement_La_Verite">
+          <span class="pr-2">Effectively Revealing the Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

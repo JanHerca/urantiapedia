@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Guy de Viron<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_06_03_2010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of 06.03.2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Chales">
+          <span class="pr-2">Chales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Trust consists of adopting this general attitude which will determine our behavior on the basis of a feeling then reasoning and finally a real partnership. It remains the basis of all relationships between individuals, specifically in family and friendly ties, like the cement or lime which unite the stones of a building. As a result, it is omnipresent and essential for our relational construction.
@@ -37,3 +61,28 @@ Jesus asks us to believe with him, like him, in the reality of God's love, to ac
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_06_03_2010">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of 06.03.2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-51-summer-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 51 — Summer 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Marie_Ronfet/Chales">
+          <span class="pr-2">Chales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

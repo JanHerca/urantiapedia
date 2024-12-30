@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sophie Malicot<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducing The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">Experiencing Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 When **suddenly** the gaze is opened, the eyes of the soul see and the ears of the soul hear.
@@ -61,5 +85,30 @@ The resurrection is in the spring. In the nest, the chick has grown. It is time 
 
 Sophie MALICOT
 
-Many terms in this story have been borrowed from the following fascicles: [UB 189:4](/en/The_Urantia_Book/189#p4) // [UB 189:5](/en/The_Urantia_Book/189#p5) // [UB 190:0](/en/The_Urantia_Book/190) // [UB 190:2.5](/en/The_Urantia_Book/190#p2_5) // [UB 193:3.1](/en/The_Urantia_Book/193#p3_1) // [UB 196:3.34](/en/The_Urantia_Book/196#p3_34) // [UB 142:2.4](/en/The_Urantia_Book/142#p2_4)
+Many terms in this story have been borrowed from the following fascicles: <a id="a87_74"></a>[UB 189:4](/en/The_Urantia_Book/189#p4) // <a id="a87_117"></a>[UB 189:5](/en/The_Urantia_Book/189#p5) // [UB 190:0](/en/The_Urantia_Book/190) // <a id="a87_200"></a>[UB 190:2.5](/en/The_Urantia_Book/190#p2_5) // <a id="a87_247"></a>[UB 193:3.1](/en/The_Urantia_Book/193#p3_1) // <a id="a87_294"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34) // <a id="a87_343"></a>[UB 142:2.4](/en/The_Urantia_Book/142#p2_4)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_and_Nicole_Raguetly/Presentation_Du_Livre_DUrantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introducing The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-94-juin-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 94 — Juin 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Andre_Desjardins/L_experience_De_La_Perfection">
+          <span class="pr-2">Experiencing Perfection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

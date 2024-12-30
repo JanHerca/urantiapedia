@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Guy Stéphane Nyasse<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revealed Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="pr-2">The Urantia Book in Burkina Faso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Testimony of Guy Stéphane Nyasse_
@@ -53,3 +77,28 @@ Infant mortality of children under 5 years old: 2016: 13.5%
 
 Literacy rate: 70% in 2010.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revealed Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arnaud_and_Jerome_Pingwende_Zoungrana/LU_au_Burkina_Faso">
+          <span class="pr-2">The Urantia Book in Burkina Faso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

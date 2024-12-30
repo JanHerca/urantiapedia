@@ -9,6 +9,27 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Meeting — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **THE GENERAL MEETING** took place in Neylières on 06/28/2024.
@@ -130,3 +151,25 @@ Expense: - 14371.27
 - To be donated to the AUI: Donations for the AUI 2023: 30.00 + 154.00 € (10% AFLUB contribution)
 - Total for AUI: €352.00
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Reunion_AFLLU_Neylieres_2024">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Meeting — Neylieres 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

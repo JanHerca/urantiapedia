@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Bénédicte Jourgeaud<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago Symposium 2011 - Photos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Maxi Quiz No. 7 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The story of Tupperware perfectly illustrates the American dream: the famous American way of life. Its founder, Earl Tupper, is a personality of modest origin who, thanks to a “good” idea (the airtight container), will build an empire with the notion that **everyone can succeed through willpower**! His dream is to save women time, it is always — a central question for them. In the forties, saving time is based on good organization. The “Wonderful Bowls” and other Tupperware containers allow you to preserve food, but also to better organize yourself in the kitchen. We talk about “optimizing” your time. This involves the choice of foods, their preservation, their storage. Tupperware is also **Brownie Wise** who, in America in the fifties, is proof that a woman can succeed. In 1954, she was the first woman to be on the cover of Business Week, which declared her “businesswoman of the year”. A great success for this divorced mother who started selling Tupperware to pay her sick son's medical bills...
@@ -31,3 +55,28 @@ _According to “Tupperware, the French saga”, Le Cherche Midi_
 
 Benedicte Jourgeaud
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chicago Symposium 2011 - Photos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_07_Les_reponses">
+          <span class="pr-2">Maxi Quiz No. 7 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

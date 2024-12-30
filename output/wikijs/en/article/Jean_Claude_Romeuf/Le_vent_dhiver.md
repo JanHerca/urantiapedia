@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Jean-Claude Romeuf<br>© 2008 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Book and its Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-42-spring-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 42 — Spring 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">The Essentials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The winter wind is cold
@@ -58,3 +82,28 @@ I will know your path and love you again.
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_Livre_et_ses_sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Book and its Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-42-spring-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 42 — Spring 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/Lessentiel">
+          <span class="pr-2">The Essentials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Claire Mylanus<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Love Story</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Our Adventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_9" class="image urantiapedia">
@@ -27,11 +51,11 @@ In order to create a document reflecting the approach of previous revelations ab
 
 Here are two quotes that guided us in our work:
 
-> “But it is only foolish to attempt the too sudden acceleration of religious growth. A race or nation can only assimilate from any advanced religion that which is reasonably consistent and compatible with its current evolutionary status, plus its genius for adaptation. Social, climatic, political, and economic conditions are all influential in determining the course and progress of religious evolution. Social morality is not determined by religion, that is, by evolutionary religion; rather are the forms of religion dictated by the racial morality.” ([UB 92:2.4](/en/The_Urantia_Book/92#p2_4))
+> “But it is only foolish to attempt the too sudden acceleration of religious growth. A race or nation can only assimilate from any advanced religion that which is reasonably consistent and compatible with its current evolutionary status, plus its genius for adaptation. Social, climatic, political, and economic conditions are all influential in determining the course and progress of religious evolution. Social morality is not determined by religion, that is, by evolutionary religion; rather are the forms of religion dictated by the racial morality.” (<a id="a53_557"></a>[UB 92:2.4](/en/The_Urantia_Book/92#p2_4))
 
 And the second:
 
-> “2. *Intellectual cross-fertilization.* Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love.” ([UB 52:6.4](/en/The_Urantia_Book/52#p6_4))
+> “2. *Intellectual cross-fertilization.* Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love.” (<a id="a57_467"></a>[UB 52:6.4](/en/The_Urantia_Book/52#p6_4))
 
 To create our document, we gathered quotes on:
 
@@ -239,3 +263,28 @@ President of the World Cultural Symposium
 <figcaption>Participants watching a presentation in the first-floor room of Urantia Foundation, the same place where Forum meetings were held from February 1923 to May 1942</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Love Story</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Our Adventure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

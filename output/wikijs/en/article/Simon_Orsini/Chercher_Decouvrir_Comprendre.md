@@ -9,9 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Simon Orsini<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some information about Urantia Foundation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _Children are permanently impressed only by the loyalties of their adult associates; precept or even example is not lastingly influential. Loyal persons are growing persons, and growth is an impressive and inspiring reality. Live loyally today—grow—and tomorrow will attend to itself. The quickest way for a tadpole to become a frog is to live loyally each moment as a tadpole._ ([UB 100:1.4](/en/The_Urantia_Book/100#p1_4))
+
+> _Children are permanently impressed only by the loyalties of their adult associates; precept or even example is not lastingly influential. Loyal persons are growing persons, and growth is an impressive and inspiring reality. Live loyally today—grow—and tomorrow will attend to itself. The quickest way for a tadpole to become a frog is to live loyally each moment as a tadpole._ (<a id="a34_382"></a>[UB 100:1.4](/en/The_Urantia_Book/100#p1_4))
 
 The _Urantia Book_ gives us, through this example, the way to live one's life in a personal experience, which must grow, in proportion to the increasing search for final values.
 
@@ -35,7 +56,7 @@ It is unique in time, in space, in Eternity.
 
 There can be no copy of the personality. It is a super self. It enables man to coordinate his ideas in his thoughts within a universal framework.
 
-> _In the maturity of the developing self, the past and future are brought together to illuminate the true meaning of the present. As the self matures, it reaches further and further back into the past for experience, while its wisdom forecasts seek to penetrate deeper and deeper into the unknown future. And as the conceiving self extends this reach ever further into both past and future, so does judgment become less and less dependent on the momentary present. In this way does decision-action begin to escape from the fetters of the moving present, while it begins to take on the aspects of past-future significance._ ([UB 118:1.5](/en/The_Urantia_Book/118#p1_5))
+> _In the maturity of the developing self, the past and future are brought together to illuminate the true meaning of the present. As the self matures, it reaches further and further back into the past for experience, while its wisdom forecasts seek to penetrate deeper and deeper into the unknown future. And as the conceiving self extends this reach ever further into both past and future, so does judgment become less and less dependent on the momentary present. In this way does decision-action begin to escape from the fetters of the moving present, while it begins to take on the aspects of past-future significance._ (<a id="a58_625"></a>[UB 118:1.5](/en/The_Urantia_Book/118#p1_5))
 
 Thought is entirely subject to the will, but it can be endangered when the rules and values are not respected.
 
@@ -61,3 +82,25 @@ Observing the incessant struggles of creatures to attain perfection, I think tha
 
 **Simon Orsini**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some information about Urantia Foundation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-88-décembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 88 — Décembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

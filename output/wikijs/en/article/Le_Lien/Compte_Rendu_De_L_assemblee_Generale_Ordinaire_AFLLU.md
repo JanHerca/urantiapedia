@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study on Guardian Angels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — Septembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Meeting in Italy Vth Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Our Lady of Lights
@@ -248,9 +272,9 @@ The assembly appoints Gilles Mauroy as substitute.
 
 No further discussion is on the agenda. The meeting ends at 11:30 a.m.
 
-> WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something. ([UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something. (<a id="a274_170"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
-> The entire scheme of universal creation and evolution on all experiencing levels is apparently a matter of the conversion of potentialities into actualities; and this transmutation has to do equally with the realms of space potency, mind potency, and spirit potency. ([UB 115:2.3](/en/The_Urantia_Book/115#p2_3))
+> The entire scheme of universal creation and evolution on all experiencing levels is apparently a matter of the conversion of potentialities into actualities; and this transmutation has to do equally with the realms of space potency, mind potency, and spirit potency. (<a id="a276_270"></a>[UB 115:2.3](/en/The_Urantia_Book/115#p2_3))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/005.jpg">
@@ -262,3 +286,28 @@ No further discussion is on the agenda. The meeting ends at 11:30 a.m.
 
 everyone will recognize themselves.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study on Guardian Angels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-87-septembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 87 — Septembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Meeting in Italy Vth Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

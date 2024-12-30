@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Marjorie Ray<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity As An Opportunity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="pr-2">A Great Confusion About Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Marjorie Ray
@@ -28,7 +52,7 @@ _In retirement, she has returned to a long standing interest in philosophy, espe
 <figcaption>Marjorie Ray in front of the Urantia Foundation audience on November 1, 2019</figcaption>
 </figure>
 
-The entire science of mathematics, the entire field of philosophy, the most advanced physics and chemistry could neither predict nor know that the union of two gaseous atoms of hydrogen with one gaseous atom of oxygen would produce a new and qualitatively superadded substance: liquid water. The observation of this physicochemical phenomenon alone should have prevented the development of materialist philosophy and mechanical cosmology. ([UB 12:9.3](/en/The_Urantia_Book/12#p9_3))
+The entire science of mathematics, the entire field of philosophy, the most advanced physics and chemistry could neither predict nor know that the union of two gaseous atoms of hydrogen with one gaseous atom of oxygen would produce a new and qualitatively superadded substance: liquid water. The observation of this physicochemical phenomenon alone should have prevented the development of materialist philosophy and mechanical cosmology. (<a id="a54_440"></a>[UB 12:9.3](/en/The_Urantia_Book/12#p9_3))
 
 This quote is intriguing in that it highlights the weakness of our human-derived epistemological systems to understand a substance that is the basis of life on this planet. Perhaps examining the adjectives used and the phenomenon mentioned will help to understand what the authors were trying to convey.
 
@@ -216,3 +240,28 @@ Translation: G. Michelson-Dupont
 32. Wikipedia contributors. “Fine-tuned universe” Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, September 20, 2019. Web. Oct 1, 2019. https://en.wikipedia.org/w/index.php?title=Fine-tuned_universe\&oldid=916832227
 33. Hawking, Stephen, 1988. A Brief History of Time, Bantam Books.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sebastian_Nozzi/Le_Christianisme_Comme_Une_Chance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity As An Opportunity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-89-mars-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 89 — Mars 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Une_Grande_Confusion_Sur_La_Race">
+          <span class="pr-2">A Great Confusion About Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

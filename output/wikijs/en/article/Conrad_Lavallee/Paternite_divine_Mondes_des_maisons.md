@@ -30,7 +30,7 @@ _(Editor's note: Here is the full text of Conrad Lavallée's conference given on
 
 The notion of personality — the personality of Our Universal Father.
 
-Unique characteristics of the concept of personality in ***The Urantia Book*** [UB 112:0.2](/en/The_Urantia_Book/112#p0_2) — [UB 112:0.16](/en/The_Urantia_Book/112#p0_16).
+Unique characteristics of the concept of personality in ***The Urantia Book*** <a id="a32_79"></a>[UB 112:0.2](/en/The_Urantia_Book/112#p0_2) — <a id="a32_125"></a>[UB 112:0.16](/en/The_Urantia_Book/112#p0_16).
 
 It is not our physical body.
 
@@ -65,7 +65,7 @@ No one knows the location of our personalities between the time of our death on 
 
 ## The Unfathomable Nature of Our Universal Father's Personality Circuit
 
-— [UB 12:3.2](/en/The_Urantia_Book/12#p3_2), also [UB 115:5.1](/en/The_Urantia_Book/115#p5_1).
+— <a id="a67_2"></a>[UB 12:3.2](/en/The_Urantia_Book/12#p3_2), also <a id="a67_50"></a>[UB 115:5.1](/en/The_Urantia_Book/115#p5_1).
 
 An absolute personality, and absolutely perfect!
 
@@ -99,7 +99,7 @@ While human beings (men and women) are considered sons of God.
 
 Our Father as the source of all personalities.
 
-Establishing a “personal”, real and authentic relationship with our Universal Father — [UB 1:6.4](/en/The_Urantia_Book/1#p6_4) — [UB 1:6.5](/en/The_Urantia_Book/1#p6_5)
+Establishing a “personal”, real and authentic relationship with our Universal Father — <a id="a101_87"></a>[UB 1:6.4](/en/The_Urantia_Book/1#p6_4) — <a id="a101_129"></a>[UB 1:6.5](/en/The_Urantia_Book/1#p6_5)
 
 The only possible proof of the reality of our Universal Father that one human person can communicate to another.
 
@@ -276,7 +276,7 @@ The same is true of our way of relating to God, our way of looking at God. This 
 
 The reason why we inhabit the material body that comes from our parents, that we are the ones who inhabit it personally instead of another person, is that our Universal Father has directly transmitted the prerogative of personal status to our living organism. This means that he is really the eternal Father of each of our personalities and that he leaves us free to nourish or not our relationship with Him.
 
-## For Our Father, there are two kinds of people in the universe [UB 133:0.3](/en/The_Urantia_Book/133#p0_3)
+## For Our Father, there are two kinds of people in the universe <a id="a278_65"></a>[UB 133:0.3](/en/The_Urantia_Book/133#p0_3)
 
 Jesus tells us that for the Father, there are two kinds of people in the universe, those who want to do His will and those who do not want to do His will. He leaves us completely free to nurture this Father/child relationship with Him. In other words, He leaves us completely free to accept and welcome, by living faith, the reality of His Fatherhood. And when we accept and recognize the reality and the simply sublime and wonderful fact of His Fatherhood, by living faith, something fantastic happens immediately. We enter fully, and immediately, into the living reality of the Kingdom of Heaven, of the eternal family, of His good and divine will. We are instantly, immediately and without reservation admitted into the endless circuit of eternal life. We live the experience of eternal salvation.
 
@@ -346,15 +346,15 @@ _No reproductive organs_
 
 Since we are no longer reproductive beings, this new body is devoid of reproductive organs.
 
-_No excretory organs_ [UB 43:6.6](/en/The_Urantia_Book/43#p6_6).
+_No excretory organs_ <a id="a348_22"></a>[UB 43:6.6](/en/The_Urantia_Book/43#p6_6).
 
 Morontia nutrients are absorbed there at 100%, so we also have no excretory organs.
 
-_Far superior sensory acuity_ [UB 46:5.10](/en/The_Urantia_Book/46#p5_10).
+_Far superior sensory acuity_ <a id="a352_30"></a>[UB 46:5.10](/en/The_Urantia_Book/46#p5_10).
 
 Our senses are considerably more refined and developed than our earthly human senses.
 
-_Far superior psychic equipment_ [UB 103:6.7](/en/The_Urantia_Book/103#p6_7), [UB 101:3.13](/en/The_Urantia_Book/101#p3_13), [UB 46:6.2](/en/The_Urantia_Book/46#p6_2).
+_Far superior psychic equipment_ <a id="a356_33"></a>[UB 103:6.7](/en/The_Urantia_Book/103#p6_7), <a id="a356_78"></a>[UB 101:3.13](/en/The_Urantia_Book/101#p3_13), <a id="a356_125"></a>[UB 46:6.2](/en/The_Urantia_Book/46#p6_2).
 
 We will be endowed with morontia thought, therefore with a type of brain considerably more advanced than our material brain.
 

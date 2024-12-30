@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neylière Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="pr-2">The Unconscious and the Superconscious</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
@@ -183,3 +207,28 @@ BALANCE SHEET AS OF 12/31/2014
 | Investments | 9071€ |  |  |
 | TOTAL ASSETS | 20272€ | TOTAL LIABILITIES | 20272€ |
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Neylière Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-71-autumn-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 71 — Autumn 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cris_Ragetly/L_inconscient_et_Le_Superconscient">
+          <span class="pr-2">The Unconscious and the Superconscious</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

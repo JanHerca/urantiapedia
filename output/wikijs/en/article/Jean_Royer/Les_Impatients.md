@@ -9,15 +9,39 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Jean Royer<br>© 2012 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celebrating Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Tribute to François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 We all know among the readers of The Urantia Book some impatient people who want to go beyond Paradise at once, to know what it will be like after reaching the post-finaliter stage. To these we would like to recall a few facts and remarks on the preceding stages.
 
 To reach Paradise, it takes at least 200 billion years. Indeed, the first arrivals of mortals in Paradise from our local universe only date back a short time, but Nebadon has been inhabited for approximately 200 billion years as indicated by the second of the following two quotes:
 
-> _The senior Mighty Messengers were chosen from those ascendant mortals of time and space who were among the earlier Paradise arrivals, many having traversed Havona in the times of Grandfanda. But the first trinitizing of Mighty Messengers was not effected until the candidate corps contained representatives from each of the seven superuniverses. And the last group of this order to qualify on Paradise embraced ascendant pilgrims from the local universe of Nebadon._ ([UB 22:2.4](/en/The_Urantia_Book/22#p2_4))
+> _The senior Mighty Messengers were chosen from those ascendant mortals of time and space who were among the earlier Paradise arrivals, many having traversed Havona in the times of Grandfanda. But the first trinitizing of Mighty Messengers was not effected until the candidate corps contained representatives from each of the seven superuniverses. And the last group of this order to qualify on Paradise embraced ascendant pilgrims from the local universe of Nebadon._ (<a id="a41_471"></a>[UB 22:2.4](/en/The_Urantia_Book/22#p2_4))
 
-> _*200,000,000,000* years ago witnessed the progression of contraction and condensation with enormous heat generation in the Andronover central cluster, or nuclear mass. Relative space appeared even in the regions near the central mother-sun wheel. The outer regions were becoming more stabilized and better organized; some planets revolving around the newborn suns had cooled sufficiently to be suitable for life implantation. The oldest inhabited planets of Nebadon date from these times._ ([UB 57:3.10](/en/The_Urantia_Book/57#p3_10))
+> _*200,000,000,000* years ago witnessed the progression of contraction and condensation with enormous heat generation in the Andronover central cluster, or nuclear mass. Relative space appeared even in the regions near the central mother-sun wheel. The outer regions were becoming more stabilized and better organized; some planets revolving around the newborn suns had cooled sufficiently to be suitable for life implantation. The oldest inhabited planets of Nebadon date from these times._ (<a id="a43_494"></a>[UB 57:3.10](/en/The_Urantia_Book/57#p3_10))
 
 How long does it take to get to Jerusem? It varies greatly. There is one particular case that poses a problem, that of John the Baptist. If, as most Urantians think, he was resurrected on the third day, he was able to reach Jerusem in a few Urantian months and be named Counselor with the twenty-three others upon Jesus' return, around the year 33. If, on the other hand, as I think, it took him about fifteen years to get to the first mansion world, then either he was named even before his resurrection or the nomination only took place about fifteen years after Jesus' return to Salvington. But that left him very little time to “get up to speed”.
 
@@ -43,3 +67,28 @@ We know what impatience made our mother Eve do.
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Celebrer_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celebrating Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-58-spring-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 58 — Spring 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Annet/Hommage_a_Francois_Dupont">
+          <span class="pr-2">Tribute to François Dupont</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

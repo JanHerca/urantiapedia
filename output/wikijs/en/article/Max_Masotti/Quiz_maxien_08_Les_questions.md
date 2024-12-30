@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Max Masotti<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Exoplanets</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Superuniverse**
@@ -41,3 +65,28 @@ dateCreated: 2024-09-29T14:02:03.086Z
 18. In the camp of Magadan, in the year 29, a rich young man, part of the Sanhedrin, wanted to become a messenger of Jesus; he never became one. Who was he?
 19. Peter's wife was given to the lions in Rome. Do you remember her name?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yves_Guillot_Goguet/Marie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Muriel_Brouet/Les_exoplanetes">
+          <span class="pr-2">Exoplanets</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Ralph Zehr<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2016 Scientific Symposium in Chicago</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ralph D. Zehr
@@ -315,3 +336,25 @@ So many moving parts and moving so fast! It's reminiscent of the experience of w
 15. Lodish, H, et.al, <ins>Molecular Cell Biology</ins>, W H Freeman and Company, New York, NY (2013) p. 833.
 16. Lodish, H, et.al, <ins>Molecular Cell Biology</ins>, W H Freedman and Company, New York, NY (2013) p. 547.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_Scientifique_2016_a_Chicago">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2016 Scientific Symposium in Chicago</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

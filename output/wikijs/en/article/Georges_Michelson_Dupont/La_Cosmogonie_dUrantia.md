@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Georges Michelson Dupont<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_24">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="pr-2">Science Or Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Sixtieth anniversary_
@@ -87,3 +111,28 @@ Jacques, we owe you a lot. Thank you again for your work. To date, more than 60,
 <figcaption>PRINTING COMPLETED ON NOVEMBER 28, 196<br>>ON THE PRESSES OF THE TOURNON PRINTING HOUSE 20, RUE DELAMBRE, PARIS-XIVe<br>ON BEHALF OF URANTIA EDITIONS<br> Legal deposit no. 1055, 4th quarter 1961</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_24">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-95-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 95 — Septembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Science_ou_Revelation_2">
+          <span class="pr-2">Science Or Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

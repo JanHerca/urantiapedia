@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">Who Am I? — Where Do We Come From? — Where Are We Going? What Is the Purpose of Life?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In several places in the papers, the authors of the Urantia Book regret that early Christianity found its foundations in the life and teachings of Jesus rather than in the revelation that he was eager to share with men. The error, according to them, was not to insist on the fact that the religion taught by Jesus was based on the fatherhood of God and the universal brotherhood of men. “Love one another, as the Father loves you” often turned into religious quarrels, each religion, proud of its creed and uncompromising on the truth that it held or believed it held, always sought to assert the supremacy of its ideals over those of others.
@@ -38,3 +62,28 @@ When men live by love, it is because they will live according to the principles 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Movement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-36-spring-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 36 — Spring 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_et_Adelaide_Heine/Qui_suis_je_Dou_venons_nous">
+          <span class="pr-2">Who Am I? — Where Do We Come From? — Where Are We Going? What Is the Purpose of Life?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

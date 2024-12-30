@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Samuel Heine<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony on the meeting in Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Report of the Armeau meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A spiritual educator shares his individual experience in his progression towards God and this in relation to the level he finds himself at. Souls thirsting for truth take by their own choice and in accordance with mutual affinity what they need to make them grow spiritually.
@@ -39,3 +63,28 @@ United in shared service in association with you and in partnership with the div
 
 Samuel Heine
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Temoignage_sur_la_rencontre_a_Armeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimony on the meeting in Armeau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-38-hiver-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 38 — Hiver 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti_et_Johanna_Beukers/Rapport_de_la_reunion_dArmeau">
+          <span class="pr-2">Report of the Armeau meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

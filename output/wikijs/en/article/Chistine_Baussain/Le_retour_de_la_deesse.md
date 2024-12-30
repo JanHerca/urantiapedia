@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Chistine Baussain<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and women</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Chicago Symposium 2011 - Photos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 What representation of women has never undergone such a terrible transformation as that of the witch? From the initiate to ancient wisdom, intimate with the secrets of healing and divinatory practices, from the wise woman to the priestess of times before the dictatorship of the male, all that remains in the collective imagination is the hideous and wicked slut who frightens little children.
@@ -31,3 +55,28 @@ It was about time. Welcome at last, divine witch.
 
 Christine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Albert_Samuel/Jesus_et_les_femmes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus and women</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-56-autumn-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 56 — Autumn 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Symposium_de_Chicago_2011_Photos">
+          <span class="pr-2">Chicago Symposium 2011 - Photos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

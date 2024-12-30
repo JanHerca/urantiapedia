@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Johan Vanderalle<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Anet/L_amour_Spirituel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="pr-2">Chales National Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Testimony of Johan Vanderalle (Belgium)_
@@ -49,5 +73,30 @@ By the way, we are so complementary!
 
 The Urantia Book has always inspired us, I end with a text from the Book UB 5:1.7:
 
-> “Man is spiritually indwelt by a surviving Thought Adjuster. If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise.” ([UB 5:1.7](/en/The_Urantia_Book/5#p1_7))
+> “Man is spiritually indwelt by a surviving Thought Adjuster. If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise.” (<a id="a75_430"></a>[UB 5:1.7](/en/The_Urantia_Book/5#p1_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Anet/L_amour_Spirituel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Reunion_Nationale_De_Chales">
+          <span class="pr-2">Chales National Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

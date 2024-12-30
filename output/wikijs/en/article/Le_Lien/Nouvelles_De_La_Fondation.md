@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book And The Grand Conspiracy Theory?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="pr-2">The UBIS School Why Do It?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Despite the pandemic, much has been accomplished at Urantia Foundation. Here is some news and practical information.
@@ -130,3 +154,28 @@ CONSOLIDATED STATISTICS FOR THE SEPTEMBER QUARTER 2020
 
 The September 2020 term saw a high turnout overall. The total number of registrants was 264 in all languages from over 50 different countries. 170 students completed their course, a percentage of 64%, which is slightly lower than the other terms which were around 75%. The number of students per class is 15, the occupancy rate is 103%.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Annet/LU_Et_La_Theorie_du_Grand_Complot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book And The Grand Conspiracy Theory?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-93-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 93 — Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/L_ecole_UBIS_Pour_Quoi_Faire">
+          <span class="pr-2">The UBIS School Why Do It?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Ivan Stol<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pierrot</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Role_de_la_personnalite_dans_notre_experience_terrestre">
+          <span class="pr-2">Role of Personality in Our Earthly Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear French-speaking readers, for the twentieth anniversary of our association, the AFLUB office wishes to compile the main events that have made its history to reconstruct the chronology as faithfully as possible and present them in a synthetic manner following a historical methodology.
@@ -21,3 +45,28 @@ A summary of this historical compilation will be presented in the Link of Decemb
 
 The President
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Pierrot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pierrot</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-73-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 73 — Mars 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Role_de_la_personnalite_dans_notre_experience_terrestre">
+          <span class="pr-2">Role of Personality in Our Earthly Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

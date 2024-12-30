@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Story of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-39-summer-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 39 — Summer 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Annual Meeting at Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -99,3 +123,28 @@ And since it is of course appropriate to begin by using what already exists that
 - for this first and obvious reason that on a strictly etymological level it covers a reality different from what we want to put there
 - but also for this one, much more serious and profound, that in a world that tirelessly wants to classify. to label; in a world where so many fanaticisms emerge so easily, where so many tendencies remain poorly controlled where we so frequently observe real headlong flights into sterile activisms, the vocation of unifiers that we have the ambition to live in the light of the teachings of the _Urantia Book_ would accommodate itself very poorly to any other labeling than that of believers, Sons of God and brothers by Faith.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Halvorson/Lhistoire_de_la_vie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Story of Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-39-summer-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 39 — Summer 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_annuelle_a_Notre_Dame_des_Lumieres">
+          <span class="pr-2">Annual Meeting at Notre Dame des Lumières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

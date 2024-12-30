@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflection on Infidelity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">Brother Dominique's Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _*Ability to comprehend is the mortal passport to Paradise.* Willingness to believe is the key to Havona. The acceptance of sonship, co-operation with the indwelling Adjuster, is the price of evolutionary survival._ ([UB 26:4.15](/en/The_Urantia_Book/26#p4_15))
+
+> _*Ability to comprehend is the mortal passport to Paradise.* Willingness to believe is the key to Havona. The acceptance of sonship, co-operation with the indwelling Adjuster, is the price of evolutionary survival._ (<a id="a37_219"></a>[UB 26:4.15](/en/The_Urantia_Book/26#p4_15))
 
 ## Trinity of Supremacy
 
@@ -21,15 +45,15 @@ However, thanks to the revelations of The Urantia Book, the experiential aspect 
 
 Everyone knows that personality is devolved by the Father-Son relationship, the Son is the model and the Father is the origin. The Infinite Spirit also engenders its own Daughters, it is the Conjoint Actor of all spiritual, mental, morontia or physical creation. But in the Trinity of Supremacy are contained all the potentials of the Supreme Deity, that is to say all the personal potentials of the creatures and Creators participating in the experience of the Finite and bringing forth an all-powerful focal center in the person of the Supreme Being.
 
-Personality beings may sometimes arise out of other than a personal relationship; for example, the tertiary Supernaphim ([UB 17:5.3](/en/The_Urantia_Book/17#p5_3)) whose function is to aid the Paradise or superuniverse Pilgrims and who were brought into existence by the Seven Impersonal Spirits of the Havona Circuits, circuits inaugurated as a creative response of the Master Spirits to the emerging purpose of the Supreme Being ([UB 26:2.6](/en/The_Urantia_Book/26#p2_6)). The Trinity is other than a person in an incomprehensible relationship of personal Deities. It is this which originally encompasses all the potentials of Supremacy. It it was which, at the dawn of time, engendered the first group of Supreme Spirits, the Seven Master Spirits.
+Personality beings may sometimes arise out of other than a personal relationship; for example, the tertiary Supernaphim (<a id="a47_121"></a>[UB 17:5.3](/en/The_Urantia_Book/17#p5_3)) whose function is to aid the Paradise or superuniverse Pilgrims and who were brought into existence by the Seven Impersonal Spirits of the Havona Circuits, circuits inaugurated as a creative response of the Master Spirits to the emerging purpose of the Supreme Being (<a id="a47_432"></a>[UB 26:2.6](/en/The_Urantia_Book/26#p2_6)). The Trinity is other than a person in an incomprehensible relationship of personal Deities. It is this which originally encompasses all the potentials of Supremacy. It it was which, at the dawn of time, engendered the first group of Supreme Spirits, the Seven Master Spirits.
 
-From there, the Seven Master Spirits, installed on the paradisiacal spheres of the Infinite Spirit, inaugurated their creative power which associated with the creative potentials of the Trinity were the very source of the actuality of the Supreme Being ([UB 17:2.2](/en/The_Urantia_Book/17#p2_2)). Can we say that the emergence of God the Supreme is the sevenfold concept of the Master Spirits? If the question remains, the image can however be kept.
+From there, the Seven Master Spirits, installed on the paradisiacal spheres of the Infinite Spirit, inaugurated their creative power which associated with the creative potentials of the Trinity were the very source of the actuality of the Supreme Being (<a id="a49_254"></a>[UB 17:2.2](/en/The_Urantia_Book/17#p2_2)). Can we say that the emergence of God the Supreme is the sevenfold concept of the Master Spirits? If the question remains, the image can however be kept.
 
 The original plan of the Supremacy was to create beings of low but willed scale, capable of attaining Paradise perfection by ascending experience, while others, begotten, eventuated, or created in perfection, descended to the superuniverses to share the experience of the pilgrims of time and space.
 
 In the days of Grandfanda, when for the first time mortals from the spheres of space reached the outer circle of the Central Universe, the Natives of Havona noticed that Paradise pilgrims were landing on the shores of the first circuit. The meeting place was exactly at the center, that is, on the fourth circuit. of the Universal Father which was: “Be ye perfect, even as I am perfect.” We arrive on Havona with perfection of purpose, our faith and our sincerity can no longer be doubted, for we have sometimes shown indomitable courage in the face of difficulties and have even been enthusiastic about our apparent defeats! We must now earn our passport to Paradise: the ability to understand! It is then that the secondary supernaphim will be indispensable to us in this task.
 
-Havona has an intermediate geographical location between the inhabited physical worlds and the paradisiacal spheres of perfection. We can say that Havona opens the doors of eternity ([UB 26:4.14](/en/The_Urantia_Book/26#p4_14)). According to its own model, each Master Spirit gave origin to beings capable of helping, through the circuits of the Central Universe, both the Citizens of Paradise and the Pilgrims of time: the Secondary Supernaphim.
+Havona has an intermediate geographical location between the inhabited physical worlds and the paradisiacal spheres of perfection. We can say that Havona opens the doors of eternity (<a id="a55_183"></a>[UB 26:4.14](/en/The_Urantia_Book/26#p4_14)). According to its own model, each Master Spirit gave origin to beings capable of helping, through the circuits of the Central Universe, both the Citizens of Paradise and the Pilgrims of time: the Secondary Supernaphim.
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/035.jpg">
@@ -37,7 +61,7 @@ Havona has an intermediate geographical location between the inhabited physical 
 
 It is not without difficulty, without trials, without disappointments that one can land on the shores of Havona, but at this level faith has triumphed over our temporary discouragements and our doubts. Cooperation with the Adjuster was the price we had to pay for evolutionary survival. We have been able to take into account the command of the Universal Father which was: "Be perfect as I am perfect. We arrive on Havona with perfection of purpose, our faith and our sincerity can no longer be doubted because we have sometimes shown indomitable courage in the face of difficulties and we have even been enthusiastic about our apparent defeats! We must now earn our passport to Paradise: _the ability to understand!_ It is then that the secondary supernaphim will be indispensable to us in this task.
 
-On Havona, time is of little importance, but how much will it take us to pass from circuit to circuit? We can have a little idea when we know that the Pilgrim Helpers organize their work on the outer circuit into three major divisions, each comprising 5,880,000 classifications: a lot to do! ([UB 26:5.2](/en/The_Urantia_Book/26#p5_2)) However, this is only a sketch of the understanding of the Trinity of Supremacy, the spiritual understanding of the Father-Son association and the intellectual recognition of the Infinite Spirit. It is here that we are able to recognize and clearly understand Master Spirit number seven.
+On Havona, time is of little importance, but how much will it take us to pass from circuit to circuit? We can have a little idea when we know that the Pilgrim Helpers organize their work on the outer circuit into three major divisions, each comprising 5,880,000 classifications: a lot to do! (<a id="a63_293"></a>[UB 26:5.2](/en/The_Urantia_Book/26#p5_2)) However, this is only a sketch of the understanding of the Trinity of Supremacy, the spiritual understanding of the Father-Son association and the intellectual recognition of the Infinite Spirit. It is here that we are able to recognize and clearly understand Master Spirit number seven.
 
 When they judge that our work is finished, that we have been brilliant students, that we are _spiritual graduates_, the Pilgrim Helpers make us disembark on the pilot world of the sixth circuit to meet the Guides of Supremacy. The Helpers who are very helpful and friendly, stay a little time with us, the time for us to get used to it, but I was told that they do not stay with us on the sixth circle, no more than a million years.
 
@@ -62,3 +86,28 @@ Loving God does not necessarily mean telling him “I love you” at every turn.
 Jean Claude Romeuf
 January 1, 2008
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflection on Infidelity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="pr-2">Brother Dominique's Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

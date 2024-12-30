@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Chris Ragetly<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxi Quiz No. 1 Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-50-spring-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 50 — Spring 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="pr-2">The Presence of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Personal remarks are by definition subjective, many readers will perceive these prayers differently. I believe that these 7 prayers, selected by Jesus, come from planets in our system of Satania, unless Jesus drew from the vast reservoir of prayers of the entire universe of Nebadon._
@@ -25,7 +49,7 @@ _Personal remarks are by definition subjective, many readers will perceive these
 > _And let us not stray into the evil bypaths of our imagination,_
 > _For yours is the glorious indwelling, the everlasting power,_
 > _And to us, the eternal gift of the infinite love of your Son._
-> _Even so, and everlastingly true._ ([UB 144:5.2-10](/en/The_Urantia_Book/144#p5_2))
+> _Even so, and everlastingly true._ (<a id="a51_38"></a>[UB 144:5.2-10](/en/The_Urantia_Book/144#p5_2))
 
 In (1), “_the realms of the universe_” clearly indicates that this is a prayer from a planet that is aware of the multiple evolutionary spheres populating the universes. The term “_Our Father_” is a common indication on most of the evolutionary planets of Nebadon.
 
@@ -53,7 +77,7 @@ In (9), “_...the eternal truth_” May the eternal truth be revealed, admitted
 > _(8) Sois patient avec nous, De même que nous témoignons une bienveillance affectueuse à notre prochain._
 > _(9) (10)Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,_
 > _(11) Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles._
-> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ <a id="a78_70"></a>[LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
+> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ [LU 144:5.12-24](/fr/The_Urantia_Book/144#p5_12)
 
 In (1), there is first a rather unusual indication of filiation in “Parent creator”, then a suggestion of the position of the Father at the center of all things, this undoubtedly denotes a knowledge of the physical, mental and spiritual “geography” of the universe.
 
@@ -78,7 +102,7 @@ In (7), (8), (9), (10), (11) and (12) we find a resemblance to one of our well-k
 > _Guide us ever upward in the pathway of light;_
 > _Justify us fully in the day of the great judgment._
 > _Make us like yourself in eternal glory_
-> _And receive us into your endless service on high._ ([UB 144:5.26-37](/en/The_Urantia_Book/144#p5_26))
+> _And receive us into your endless service on high._ (<a id="a104_55"></a>[UB 144:5.26-37](/en/The_Urantia_Book/144#p5_26))
 
 In (1), the terms “_perfect_” and “_right_” denote a special knowledge of the Father. In (2), “_our journey_” implies a cosmic knowledge in the physical and spiritual “geographical” sense of a mortal's upward career toward Paradise.
 
@@ -116,13 +140,13 @@ In (12), the service exalted in eternity, is the present and potential activity 
 > _Be pleased to make us more and more like yourself._
 > _At the end, for the sake of the divine Son,_
 > _Receive us into the eternal arms._
-> _Even so, not our will but yours be done._ ([UB 144:5.39-53](/en/The_Urantia_Book/144#p5_39))
+> _Even so, not our will but yours be done._ (<a id="a142_46"></a>[UB 144:5.39-53](/en/The_Urantia_Book/144#p5_39))
 
-In (1), an unusual form of appellation, the word mystery denotes a concept different from ours, which implies a knowledge of the Father which reveals an advance which only confirms the mystery which surrounds the Father and which is thicker and thicker as we advance towards Him. This notion is well explained in _The Urantia Book_. (See [[UB 8:2.5](/en/The_Urantia_Book/8#p2_5)], [[UB 12:7.12](/en/The_Urantia_Book/12#p7_12)] and [[UB 1:4.1](/en/The_Urantia_Book/1#p4_1)])
+In (1), an unusual form of appellation, the word mystery denotes a concept different from ours, which implies a knowledge of the Father which reveals an advance which only confirms the mystery which surrounds the Father and which is thicker and thicker as we advance towards Him. This notion is well explained in _The Urantia Book_. (See <a id="a144_338"></a>[[UB 8:2.5](/en/The_Urantia_Book/8#p2_5)], <a id="a144_381"></a>[[UB 12:7.12](/en/The_Urantia_Book/12#p7_12)] and <a id="a144_431"></a>[[UB 1:4.1](/en/The_Urantia_Book/1#p4_1)])
 
 In (2), this request to reveal his holy character may seem a little daring to us, but we must not forget that it is Jesus himself who offers us this prayer, gives us this aspect of filiation with the Father, and gives us this enormous advantage of being able to ask him for everything.
 
-In (3 and 4), may the Father give us the ability to discern the path (the evolutionary path that passes through the Creator Sons, Jesus said: “_I am the way_”.) Compare this light with the following sentence from the Urantia Book: [[UB 3:1.3](/en/The_Urantia_Book/3#p1_3)] The presence of the Father constantly crisscrosses the master universe. “_He comes out from the ends of the heavens and goes around to their ends, and there is nothing hidden from his light._”
+In (3 and 4), may the Father give us the ability to discern the path (the evolutionary path that passes through the Creator Sons, Jesus said: “_I am the way_”.) Compare this light with the following sentence from the Urantia Book: <a id="a148_231"></a>[[UB 3:1.3](/en/The_Urantia_Book/3#p1_3)] The presence of the Father constantly crisscrosses the master universe. “_He comes out from the ends of the heavens and goes around to their ends, and there is nothing hidden from his light._”
 
 In (5 and 6), “_the path of eternal progress_” undoubtedly has the same meaning as that of “_path_”, but must add an element of decision and attention.
 
@@ -155,7 +179,7 @@ In (15) we find a formula which is familiar to us and clearly shows us that in t
 > _And when our career is finished, make it an honor to your name,_
 > _A pleasure to your good spirit, and a satisfaction to our soul helpers._
 > _Not as we wish, our loving Father, but as you desire the eternal good of your mortal children,_
-> _Even so may it be._ ([UB 144:5.55-72](/en/The_Urantia_Book/144#p5_55))
+> _Even so may it be._ (<a id="a181_24"></a>[UB 144:5.55-72](/en/The_Urantia_Book/144#p5_55))
 
 In (1) and (2), the Father Mother association refers to the Universal Father and the Infinite Spirit or our Creator Son, Michael of Nebadon, and our Divine Minister, unified in one Deity. This does not make much difference to the effectiveness of the prayer, but shows that the one praying is well informed about the affairs of the universe and its hierarchy. To be faithful to the divine nature of this unified Deity is quite another thing, I am not sure that we understand its true meaning. This doubtless refers to the Mystery Monitor.
 
@@ -189,7 +213,7 @@ In (3 and 4) we believe that the outpouring of the divine spirit alludes to the 
 > _Receive us to yourself and send us forth in eternity._
 > _Crown us with celestial diadems of fruitful service,_
 > _And we shall glorify the Father, the Son, and the Holy Influence._
-> _Even so, throughout a universe without end._ ([UB 144:5.74-86](/en/The_Urantia_Book/144#p5_74))
+> _Even so, throughout a universe without end._ (<a id="a215_49"></a>[UB 144:5.74-86](/en/The_Urantia_Book/144#p5_74))
 
 (1) and (2): this is the First Source-Center, the Universal Father who is the source of all things. The Son full of grace is here the Second Source-Center, the absolute personality and spirituality. absolute (Obviously this prayer is made by a person who knows well the roles of the different Sources-Centers.)
 
@@ -226,11 +250,11 @@ In (3 and 4) we believe that the outpouring of the divine spirit alludes to the 
 > _Make us ever and increasingly like yourself_
 > _And at our end receive us into the eternal Paradise embrace._
 > _Even so, in the name of the bestowal Son_
-> _And for the honor and glory of the Supreme Father._ ([UB 144:5.88-107](/en/The_Urantia_Book/144#p5_88))
+> _And for the honor and glory of the Supreme Father._ (<a id="a252_56"></a>[UB 144:5.88-107](/en/The_Urantia_Book/144#p5_88))
 
 (1) The dwellings of the Father are both all the universes, as well as the central dwelling of Paradise. We assume that this is a figurative formula.
 
-(2) “Let thy name be honored” is a well-known formula on Urantia. It simply means that the name of the Father is not only respected, but loved and adored. “Thy mercy revered” indicates to us a knowledge of the meaning of mercy as revealed in The Urantia Book. ([UB 2:4.1](/en/The_Urantia_Book/2#p4_1) Mercy is simply justice tempered by that type of wisdom which results from the perfect knowledge and complete recognition of the natural weakness of finite creatures and the handicaps due to their environment.) “Thy judgment respected” is the recognition of divine judgment, without any other form of recrimination, for we recognize deep within ourselves the judgment(s) as they are decreed by the Father.
+(2) “Let thy name be honored” is a well-known formula on Urantia. It simply means that the name of the Father is not only respected, but loved and adored. “Thy mercy revered” indicates to us a knowledge of the meaning of mercy as revealed in The Urantia Book. (<a id="a256_261"></a>[UB 2:4.1](/en/The_Urantia_Book/2#p4_1) Mercy is simply justice tempered by that type of wisdom which results from the perfect knowledge and complete recognition of the natural weakness of finite creatures and the handicaps due to their environment.) “Thy judgment respected” is the recognition of divine judgment, without any other form of recrimination, for we recognize deep within ourselves the judgment(s) as they are decreed by the Father.
 
 (3) and (4) We pray that the Father may guide our steps not only when we think of Him, but also when we do not think of Him, that is, in an unconscious way. (5) and (6) That we may not stray into paths that seem more adequate and rapid to us, but that we may follow your advice without complaint. But may your presence in us be felt when trials are difficult to bear.
 
@@ -252,7 +276,32 @@ In (3 and 4) we believe that the outpouring of the divine spirit alludes to the 
 
 (20) This thanksgiving is the recognition of the Father's inevitable victory over all our faults.
 
-> These angels are all in the chain of recorders extending from the lowest to the highest custodians of the facts of time and the truths of eternity. Some day they will teach you to seek truth as well as fact, to expand your soul as well as your mind. Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow. When children have their ideals, do not dislodge them; let them grow. And while you are learning to think as men, you should also be learning to pray as children. ([UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
+> These angels are all in the chain of recorders extending from the lowest to the highest custodians of the facts of time and the truths of eternity. Some day they will teach you to seek truth as well as fact, to expand your soul as well as your mind. Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow. When children have their ideals, do not dislodge them; let them grow. And while you are learning to think as men, you should also be learning to pray as children. (<a id="a278_836"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
 
 CMR
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_01_Les_questions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maxi Quiz No. 1 Questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-50-spring-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 50 — Spring 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Swami_Veetamohananda/The_Presence_of_God">
+          <span class="pr-2">The Presence of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

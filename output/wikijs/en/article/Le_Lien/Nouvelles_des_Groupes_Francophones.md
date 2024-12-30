@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Oser_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dare to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Lumieres_2022">
+          <span class="pr-2">Lumieres 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_3" class="image urantiapedia">
@@ -220,3 +244,28 @@ _Georges Michelson Dupont_
 Patrick, Jean-François, Gilles, Pierre Joseph, Robert</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Oser_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dare to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Lumieres_2022">
+          <span class="pr-2">Lumieres 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -36,7 +36,7 @@ Besides, I invite you to watch this very interesting video and don't hesitate to
 
 This is what the divine “download” is for me... quite simply a communication, a message that can come from different Celestials but has always been approved and relayed by the Thought Adjuster... my divine Pilot... It therefore controls everything that arrives in my emails... this powerful computer that receives these emails is obviously my mind... and not just any computer... I exchanged it a long time ago for the luxury model of the same type that Jesus used.... it is “fully equipped”... no need to “download” or erase old obsolete programs... everything is done automatically... in any case I do not have the clairvoyance to know where to find these new programs or which are the best... I trust the Celestials... They are competent and directive in the sense that they know where they are going!
 
-The only command for which I am responsible is the “DELETE” button... the latter is used to do a big spring cleaning on this computer... not in the programs as I explained above... but in the computer viruses which can greatly interfere with the proper functioning of my computer... you guessed it... these are the poisons of the mind, the main one being fear... master intellectual fraud practiced on the evolving soul... Example of human philosophy no. 2 ([UB 48:7.4](/en/The_Urantia_Book/48#p7_4)) how precious these examples are for grasping the meaning of the mota... thank you Celestials!
+The only command for which I am responsible is the “DELETE” button... the latter is used to do a big spring cleaning on this computer... not in the programs as I explained above... but in the computer viruses which can greatly interfere with the proper functioning of my computer... you guessed it... these are the poisons of the mind, the main one being fear... master intellectual fraud practiced on the evolving soul... Example of human philosophy no. 2 (<a id="a38_458"></a>[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)) how precious these examples are for grasping the meaning of the mota... thank you Celestials!
 
 My computer obviously serves me in all the daily affairs of everyday life but I use it especially for everyday life but I receive my divine emails and I press the “FORWARD” button when my Adjuster asks me to forward this message... I do it with enthusiasm and in all confidence knowing that God's Plan is always perfect! It has happened that some of my contacts no longer want to receive the messages that I “forward”... questioning their origin... to them I respond that free will is sacred... and I pray to my Adjuster that this message is delivered to them differently!
 
@@ -53,7 +53,7 @@ I forgot to tell you that this tool was described in these words by Jesus in boo
 >
 > _Here is a warning to all of us from a Solitary Messenger of Orvonton:_
 > 
-> But a human being would do better to err in rejecting an Adjuster’s expression through believing it to be a purely human experience than to blunder into exalting a reaction of the mortal mind to the sphere of divine dignity. ([UB 110:5.5](/en/The_Urantia_Book/110#p5_5))
+> But a human being would do better to err in rejecting an Adjuster’s expression through believing it to be a purely human experience than to blunder into exalting a reaction of the mortal mind to the sphere of divine dignity. (<a id="a55_228"></a>[UB 110:5.5](/en/The_Urantia_Book/110#p5_5))
 {.is-info}
 
 ## References

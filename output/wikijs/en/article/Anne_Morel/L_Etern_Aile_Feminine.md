@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Anne Morel<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">The Higgs boson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Editor's note: There are remarkable beings that we rub shoulders with without being fully aware of it until the day when their presence bursts into the full light of friendship (of the editorial staff). This is the case with Anne, a young woman as elegant as she is brilliant and whose vivacity radiates simplicity. Her strength: enthusiasm in the noblest sense of the term! Fully a woman and so close to the Eternal that her testimony wonderfully closes the theme of the Eternal Feminine, a subject that she revisits in her own way._
@@ -36,3 +60,28 @@ Anne Morel
 <figcaption>“The Creator in his works”</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Gallo/Domaine_de_Chales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Domaine de Châles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anne_Muriel_Brouet/Le_boson_de_Higgs">
+          <span class="pr-2">The Higgs boson</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

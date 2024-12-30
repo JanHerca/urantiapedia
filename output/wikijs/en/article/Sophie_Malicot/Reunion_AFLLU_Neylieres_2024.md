@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sophie Malicot<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Meeting 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Raport_de_la_reunion_nationnale_de_L_AFLLU">
+          <span class="pr-2">Report of the National Meeting of the A.F.L.L.U</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_6" class="image urantiapedia">
@@ -67,3 +91,28 @@ And there, in this garden filled with the lights of the night, I renewed my choi
 
 <br style=“clear:both;”/>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">European Meeting 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Raport_de_la_reunion_nationnale_de_L_AFLLU">
+          <span class="pr-2">Report of the National Meeting of the A.F.L.L.U</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Dominique Ronfet<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinity of Supremacy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Georges & Marlène's Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Good morning,
@@ -25,7 +49,7 @@ And let's try to understand this space in which, ultimately, we are. We are ulti
 
 So how do we swim well? How do we think well? How do we develop and become real thinkers?
 
-> _But with the vast majority of Urantians the Adjuster must patiently await the arrival of death deliverance; must await the liberation of the emerging soul from the well-nigh complete domination of the energy patterns and chemical forces inherent in your material order of existence. The chief difficulty you experience in contacting with your Adjusters consists in this very inherent material nature. So few mortals are real thinkers; you do not spiritually develop and discipline your minds to the point of favorable liaison with the divine Adjusters. The ear of the human mind is almost deaf to the spiritual pleas which the Adjuster translates from the manifold messages of the universal broadcasts of love proceeding from the Father of mercies. The Adjuster finds it almost impossible to register these inspiring spirit leadings in an animal mind so completely dominated by the chemical and electrical forces inherent in your physical natures._ ([UB 110:7.6](/en/The_Urantia_Book/110#p7_6))
+> _But with the vast majority of Urantians the Adjuster must patiently await the arrival of death deliverance; must await the liberation of the emerging soul from the well-nigh complete domination of the energy patterns and chemical forces inherent in your material order of existence. The chief difficulty you experience in contacting with your Adjusters consists in this very inherent material nature. So few mortals are real thinkers; you do not spiritually develop and discipline your minds to the point of favorable liaison with the divine Adjusters. The ear of the human mind is almost deaf to the spiritual pleas which the Adjuster translates from the manifold messages of the universal broadcasts of love proceeding from the Father of mercies. The Adjuster finds it almost impossible to register these inspiring spirit leadings in an animal mind so completely dominated by the chemical and electrical forces inherent in your physical natures._ (<a id="a51_953"></a>[UB 110:7.6](/en/The_Urantia_Book/110#p7_6))
 
 Without going so far as to speak of a hypothetical contact with the divine Guest (that's another subject) I am interested in the development of our thinking.
 
@@ -49,3 +73,28 @@ What do we want?
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinity of Supremacy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Georges & Marlène's Thoughts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

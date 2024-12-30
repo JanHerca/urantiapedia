@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abundance of Articles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">God gives the Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The first of these rules is that love, in accordance with the general laws of creative union, serves the spiritual differentiation of the two beings it brings together. Neither, therefore, should one absorb the other, — nor, still less, should both lose themselves in the pleasures of a bodily possession which would mean falling into the plural and returning to nothingness. This is common experience. But this is only well understood in the perspective of Spirit-Matter. Love is an adventurous conquest. It holds, and develops, like the Universe itself, only by a perpetual discovery. Those, therefore, only love each other legitimately whom passion leads, both of them, one through the other, to a higher possession of their being. Thus the gravity of the faults against love is not to offend I know not what modesty or what virtue. It consists in squandering, by negligence or by voluptuousness, the reserves of personalization of the Universe. It is this loss which explains the disorders of “impurity”. And it is this loss which, at a higher level in the developments of the union, forms the subject of a more subtle alteration of love: I mean selfishness in two.
@@ -63,3 +87,28 @@ O Jesus, tear the clouds with your lightning! Show yourself to us as the Strong,
 
 Teilhard de Chardin
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Abondance_d_articles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abundance of Articles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-63-summer-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 63 — Summer 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Dieu_donne_l_Ajusteur">
+          <span class="pr-2">God gives the Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

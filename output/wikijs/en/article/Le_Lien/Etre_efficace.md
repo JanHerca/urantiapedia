@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Eternal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">The Deity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Efficiency is the ability to produce something, to achieve the desired results while maintaining at its highest level what allows this production. To be efficient, two elements are needed: what is produced and what has the capacity to produce. Those who do not focus on the objective and neglect the means will not go very far. Hence the need to adopt good habits.
@@ -62,3 +86,28 @@ Let's decide to love our job. That way, it will become a pleasure. Maybe we don'
 
 Excerpts from Marvin Gawryn and Co.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/L_Eternel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Eternal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-54-spring-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 54 — Spring 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_Deite">
+          <span class="pr-2">The Deity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

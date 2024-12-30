@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Max Masotti<br>© 2015 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_mot_du_president_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-70-spring-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 70 — Spring 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reflexions_sur_l_art_de_fusionner">
+          <span class="pr-2">Thoughts on the Art of Merging</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Jesus**
@@ -42,3 +66,28 @@ dateCreated: 2024-10-20T19:22:11Z
 
 ***End of quizzes***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_mot_du_president_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-70-spring-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 70 — Spring 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reflexions_sur_l_art_de_fusionner">
+          <span class="pr-2">Thoughts on the Art of Merging</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

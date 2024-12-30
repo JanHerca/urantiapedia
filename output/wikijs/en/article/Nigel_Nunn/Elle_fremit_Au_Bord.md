@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Nigel Nunn<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="pr-2">Visit to England</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By Nigel Nunn
@@ -19,7 +43,7 @@ According to The Urantia Book, the cultural epochs of our world have been sponso
 
 ## The Inner World of Humanity
 
-> “_The advances of true civilization are all born in this inner world of mankind. It is only the inner life that is truly creative. Civilization can hardly progress when the majority of the youth of any generation devote their interests and energies to the materialistic pursuits of the sensory or outer world._” ([UB 111:4.3](/en/The_Urantia_Book/111#p4_3))
+> “_The advances of true civilization are all born in this inner world of mankind. It is only the inner life that is truly creative. Civilization can hardly progress when the majority of the youth of any generation devote their interests and energies to the materialistic pursuits of the sensory or outer world._” (<a id="a45_315"></a>[UB 111:4.3](/en/The_Urantia_Book/111#p4_3))
 
 If true progress depends on it, then we must ask: What is this “inner world of humanity”? As these papers reveal, this inner world involves the orchestration of multiple systems of mind and motivation, under an intangible web of planetary coordination. But let us look more closely. Let us zoom our attention down to the building block of humanity—the free-willed individual. We discover that any shared planetary culture, any shared inner world that humanity can achieve, involves the integration of the millions of private inner worlds among us.
 
@@ -29,11 +53,11 @@ Clearly this notion of an inner world applies not only to this shared heritage o
 
 So let us begin modestly. Let us begin by considering how an inner world is created within each of us by the seven adjutant mind-spirits and then illuminated by Michael's Spirit of Truth. Notice that our inner stage is constructed of godlike materials. But how do we furnish these private apartments? How do we open these invisible chambers to our fellow man? By what processes do we, as individuals, engage in a shared reality? For the most part, our fantastic dreamscapes, woven from experience, reality, myth, and fact, remain private—private evolutionary essays. They represent our attempt to understand and respond to the challenges of life. Of course, we are free to make a mess of this inner purpose. But remember the Adjuster's guarantee: our best efforts, whether many or few, are preserved and organized in the fabric of our soul.
 
-> “_By the end of the twenty-ninth year Jesus of Nazareth had virtually finished the living of the life required of mortals as sojourners in the flesh. He came on earth the fullness of God to be manifest to man; he had now become well-nigh the perfection of man awaiting the occasion to become manifest to God. And he did all of this before he was thirty years of age._” ([[UB 129:4.8](/en/The_Urantia_Book/129#p4_8))
+> “_By the end of the twenty-ninth year Jesus of Nazareth had virtually finished the living of the life required of mortals as sojourners in the flesh. He came on earth the fullness of God to be manifest to man; he had now become well-nigh the perfection of man awaiting the occasion to become manifest to God. And he did all of this before he was thirty years of age._” (<a id="a55_372"></a>[[UB 129:4.8](/en/The_Urantia_Book/129#p4_8))
 
 By any measure, the set of data received from our inner private worlds is diverse, and their interaction is complex. Maintaining the stability of such a system requires coordination, a continuous integration that rebalances and restores normal dynamics. Exploring this inner interaction, we find that there are at least 3 systems in place — a triad of complementary influences that contribute to keeping us stable. The first is primarily an integration of unconscious stimuli; the second is an organization of our conscious motivations, and the third is a coordination of superconscious inspirations.
 
-Taken from the [UB 62:6](/en/The_Urantia_Book/62#p6) Booklet...
+Taken from the <a id="a59_15"></a>[UB 62:6](/en/The_Urantia_Book/62#p6) Booklet...
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/149.jpg">
@@ -78,7 +102,7 @@ Slowly, sequentially, all types of emotions are experimentally woven into the ev
 <img src="/image/article/Le_Lien/images_02/156.jpg">
 </figure>
 
-Figure 1, the mental adjutant circuits as seven “differential impulses” [Fascicule [UB 36:4.2](/en/The_Urantia_Book/36#p4_2)] involving the biological interfaces that evolve through cooperation with the Life Carriers.
+Figure 1, the mental adjutant circuits as seven “differential impulses” <a id="a104_72"></a>[Fascicule [UB 36:4.2](/en/The_Urantia_Book/36#p4_2)] involving the biological interfaces that evolve through cooperation with the Life Carriers.
 
 As a first step in understanding how all of these systems work together to make up our inner world, let's spend a moment thinking about how our adjutant-based mind was made.
 
@@ -86,13 +110,13 @@ As a first step in understanding how all of these systems work together to make 
 
 As we read in Papers 36 and 65, when a world is chosen to be populated by humans, the task of evolving human life is entrusted to a group of Local Universe Sons known as Life Carriers. The details make for a gripping story, but what interests us here is how these Life Carriers conspire with the seven Adjutant Spirits to create an arena for conscious human thought.
 
-> “_The seven adjutant mind-spirits always accompany the Life Carriers to a new planet, but they should not be regarded as entities; they are more like circuits. The spirits of the seven universe adjutants do not function as personalities apart from the universe presence of the Divine Minister; they are in fact a level of consciousness of the Divine Minister and are always subordinate to the action and presence of their creative mother._” ([Fascicule [UB 36:5.4](/en/The_Urantia_Book/36#p5_4))
+> “_The seven adjutant mind-spirits always accompany the Life Carriers to a new planet, but they should not be regarded as entities; they are more like circuits. The spirits of the seven universe adjutants do not function as personalities apart from the universe presence of the Divine Minister; they are in fact a level of consciousness of the Divine Minister and are always subordinate to the action and presence of their creative mother._” (<a id="a112_444"></a>[Fascicule [UB 36:5.4](/en/The_Urantia_Book/36#p5_4))
 
 The first problem confronting these Life Carriers is how to make matter receptive to mind—how to make a complex physical arrangement receptive to something as intangible as the ministry of the Adjutants; how to make biological chemistry receptive to an impulse; how to initiate an instinctive reaction, and then a delightful emotion or a heroic act, in the salty fluids of the implantation of new planetary life.
 
 Their approach was to do it incrementally. At first, their life partners had to be able to respond to the constraints of the Master Physical Controllers. Then they dialed in responsiveness to each of the seven adjutant circuits—the first targets of their evolutionary efforts. Their intricate, sequential complexification of neural patterns and hormonal recipes eventually led to humanity. (See Figure 1).
 
-> “The progeny of a Melchizedek life carrier and a Material Daughter are known as *midsoniters.* The Melchizedek father of such a race of supernal creatures eventually leaves the planet of his unique life function, and the Mother Eve of this special order of universe beings also departs upon the appearance of the seventh generation of planetary offspring. The direction of such a world then devolves upon her eldest son.” ([Fascicule [UB 36:4.2](/en/The_Urantia_Book/36#p4_2))
+> “The progeny of a Melchizedek life carrier and a Material Daughter are known as *midsoniters.* The Melchizedek father of such a race of supernal creatures eventually leaves the planet of his unique life function, and the Mother Eve of this special order of universe beings also departs upon the appearance of the seventh generation of planetary offspring. The direction of such a world then devolves upon her eldest son.” (<a id="a118_425"></a>[Fascicule [UB 36:4.2](/en/The_Urantia_Book/36#p4_2))
 
 > “These mind-spirits send their influence into all inhabited worlds in the form of a differential impulse,...”
 
@@ -102,15 +126,15 @@ What kind of organic interface, what kind of psycho-biochemical neural configura
 
 ## Use Human Type of Mind.
 
-> “The great circuits of energy, mind, and spirit are never the permanent possessions of ascending personality; these ministries remain forever a part of Supremacy. In the mortal experience the human intellect resides in the rhythmic pulsations of the adjutant mind-spirits and effects its decisions within the arena produced by encircuitment within this ministry. Upon mortal death the human self is everlastingly divorced from the adjutant circuit. While these adjutants never seem to transmit experience from one personality to another, they can and do transmit the impersonal repercussions of decision-action through God the Sevenfold to God the Supreme. (At least this is true of the adjutants of worship and wisdom.)” ([Fascicule [UB 117:5.7](/en/The_Urantia_Book/117#p5_7))
+> “The great circuits of energy, mind, and spirit are never the permanent possessions of ascending personality; these ministries remain forever a part of Supremacy. In the mortal experience the human intellect resides in the rhythmic pulsations of the adjutant mind-spirits and effects its decisions within the arena produced by encircuitment within this ministry. Upon mortal death the human self is everlastingly divorced from the adjutant circuit. While these adjutants never seem to transmit experience from one personality to another, they can and do transmit the impersonal repercussions of decision-action through God the Sevenfold to God the Supreme. (At least this is true of the adjutants of worship and wisdom.)” (<a id="a128_725"></a>[Fascicule [UB 117:5.7](/en/The_Urantia_Book/117#p5_7))
 
 So what happens? How do the impulses and influences of the adjutants, a level of consciousness of the Divine Minister, become a mental system for us? To what extent are we influenced by these adjutant pulsations? If our intellect “resides in them,” in what sense are we free to respond independently to our life experiences?
 
-> “Always should the domains of the physical (electrochemical) and the mental response to environmental stimuli be differentiated, and in turn must they all be recognized as phenomena apart from spiritual activities. The domains of physical, mental, and spiritual gravity are distinct realms of cosmic reality, notwithstanding their intimate interrelations.” ([Fascicule [UB 65:7.8](/en/The_Urantia_Book/65#p7_8))
+> “Always should the domains of the physical (electrochemical) and the mental response to environmental stimuli be differentiated, and in turn must they all be recognized as phenomena apart from spiritual activities. The domains of physical, mental, and spiritual gravity are distinct realms of cosmic reality, notwithstanding their intimate interrelations.” (<a id="a132_360"></a>[Fascicule [UB 65:7.8](/en/The_Urantia_Book/65#p7_8))
 
 One of the advances in psychology in recent decades has been to discover the relationship between our biochemistry and our “state of mind”. See the effect of hormones and their use in various therapies.
 
-> “But many seemingly mysterious adjustments of living organisms are purely chemical, wholly physical. At any moment of time, in the blood stream of any human being there exists the possibility of upward of 15,000,000 chemical reactions between the hormone output of a dozen ductless glands.” ([F. [UB 65:6.6](/en/The_Urantia_Book/65#p6_6))
+> “But many seemingly mysterious adjustments of living organisms are purely chemical, wholly physical. At any moment of time, in the blood stream of any human being there exists the possibility of upward of 15,000,000 chemical reactions between the hormone output of a dozen ductless glands.” (<a id="a136_294"></a>[F. [UB 65:6.6](/en/The_Urantia_Book/65#p6_6))
 
 ## Our Emotional Climate
 
@@ -123,7 +147,7 @@ One contribution of these circuits would be to create, through interaction with 
 <figcaption>Figure 2: Some factors that affect the arena of our conscious thought.</figcaption>
 </figure>
 
-> “Jesus is rapidly becoming a man, not just a young man but an adult. He has learned well to bear responsibility. He knows how to carry on in the face of disappointment. He bears up bravely when his plans are thwarted and his purposes temporarily defeated. He has learned how to be fair and just even in the face of injustice. He is learning how to adjust his ideals of spiritual living to the practical demands of earthly existence. He is learning how to plan for the achievement of a higher and distant goal of idealism while he toils earnestly for the attainment of a nearer and immediate goal of necessity. He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of the spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with the earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father while he assumes the fatherly role of guiding and directing the children of his earth family. He is becoming experienced in the skillful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity.” ([Fascicule [UB 127:6.12](/en/The_Urantia_Book/127#p6_12))
+> “Jesus is rapidly becoming a man, not just a young man but an adult. He has learned well to bear responsibility. He knows how to carry on in the face of disappointment. He bears up bravely when his plans are thwarted and his purposes temporarily defeated. He has learned how to be fair and just even in the face of injustice. He is learning how to adjust his ideals of spiritual living to the practical demands of earthly existence. He is learning how to plan for the achievement of a higher and distant goal of idealism while he toils earnestly for the attainment of a nearer and immediate goal of necessity. He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of the spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with the earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father while he assumes the fatherly role of guiding and directing the children of his earth family. He is becoming experienced in the skillful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity.” (<a id="a149_1314"></a>[Fascicule [UB 127:6.12](/en/The_Urantia_Book/127#p6_12))
 
 ## An Attempt to Symbolize the Human Condition
 
@@ -145,36 +169,36 @@ But with the great majority of Urantians the Adjuster must patiently await the d
 
 Our inherited predisposition and acquired habitual reactivity, our conscious and unconscious selectivity of reactivity to different adjuncts, help to explain the uniqueness of each human being, as well as the caprices and freedom of our thinking. We direct our play and therefore we should try to understand at least some of the actors and influences on the stage
 
-He has almost mastered the technique of using the energy of spiritual impulse to operate the mechanism of material attainments. He is slowly learning to live the heavenly life while continuing his earthly existence. [[UB 127:6.12](/en/The_Urantia_Book/127#p6_12)]
+He has almost mastered the technique of using the energy of spiritual impulse to operate the mechanism of material attainments. He is slowly learning to live the heavenly life while continuing his earthly existence. <a id="a171_216"></a>[[UB 127:6.12](/en/The_Urantia_Book/127#p6_12)]
 
-> _Human beings possess identity only in the material sense. Such qualities of the self are expressed by the material mind as it functions in the energy system of the intellect. When it is said that man has identity, it is recognized that he is in possession of a mind circuit which has been placed in subordination to the acts and choosing of the will of the human personality. But this is a material and purely temporary manifestation, just as the human embryo is a transient parasitic stage of human life. Human beings, from a cosmic perspective, are born, live, and die in a relative instant of time; they are not enduring. But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation._ ([Fascicule [UB 112:5.4](/en/The_Urantia_Book/112#p5_4))
+> _Human beings possess identity only in the material sense. Such qualities of the self are expressed by the material mind as it functions in the energy system of the intellect. When it is said that man has identity, it is recognized that he is in possession of a mind circuit which has been placed in subordination to the acts and choosing of the will of the human personality. But this is a material and purely temporary manifestation, just as the human embryo is a transient parasitic stage of human life. Human beings, from a cosmic perspective, are born, live, and die in a relative instant of time; they are not enduring. But mortal personality, through its own choosing, possesses the power of transferring its seat of identity from the passing material-intellect system to the higher morontia-soul system which, in association with the Thought Adjuster, is created as a new vehicle for personality manifestation._ (<a id="a173_923"></a>[Fascicule [UB 112:5.4](/en/The_Urantia_Book/112#p5_4))
 
-> _The evolutionary type of knowledge is but the accumulation of protoplasmic memory material; this is the most primitive form of creature consciousness. Wisdom embraces the ideas formulated from protoplasmic memory in process of association and recombination, and such phenomena differentiate human mind from mere animal mind. Animals have knowledge, but only man possesses wisdom capacity. Truth is made accessible to the wisdom-endowed individual by the bestowal on such a mind of the spirits of the Father and the Sons, the Thought Adjuster and the Spirit of Truth._ ([Paper [UB 101:6.4](/en/The_Urantia_Book/101#p6_4))
+> _The evolutionary type of knowledge is but the accumulation of protoplasmic memory material; this is the most primitive form of creature consciousness. Wisdom embraces the ideas formulated from protoplasmic memory in process of association and recombination, and such phenomena differentiate human mind from mere animal mind. Animals have knowledge, but only man possesses wisdom capacity. Truth is made accessible to the wisdom-endowed individual by the bestowal on such a mind of the spirits of the Father and the Sons, the Thought Adjuster and the Spirit of Truth._ (<a id="a175_572"></a>[Paper [UB 101:6.4](/en/The_Urantia_Book/101#p6_4))
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/160.jpg">
 <figcaption>Figure 5: An attempt to symbolize the human condition</figcaption>
 </figure>
 
-> “_You should understand that the morontia life of an ascending mortal is really initiated on the inhabited worlds at the conception of the soul, at that moment when the creature mind of moral status is indwelt by the spirit Adjuster. And from that moment on, the mortal soul has potential capacity for supermortal function, even for recognition on the higher levels of the morontia spheres of the local universe._” ([F. [UB 48:6.2](/en/The_Urantia_Book/48#p6_2))
+> “_You should understand that the morontia life of an ascending mortal is really initiated on the inhabited worlds at the conception of the soul, at that moment when the creature mind of moral status is indwelt by the spirit Adjuster. And from that moment on, the mortal soul has potential capacity for supermortal function, even for recognition on the higher levels of the morontia spheres of the local universe._” (<a id="a182_418"></a>[F. [UB 48:6.2](/en/The_Urantia_Book/48#p6_2))
 
 Our genetic endowment, together with our learned reactions through Adjuvant stimulation, defines the quality of our interface with the Adjuvant system. They also condition the Adjuvants' ability to create for us a more or less ideal emotional climate within which we then struggle for our lives, in a sequence of endless decisions.
 
-> “_The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name *life.* But selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle—the material body—to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality. This actual transfer from material association to morontia identification is effected by the sincerity, persistence, and steadfastness of the God-seeking decisions of the human creature._” ([F. [UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
+> “_The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name *life.* But selfhood of survival value, selfhood that can transcend the experience of death, is only evolved by establishing a potential transfer of the seat of the identity of the evolving personality from the transient life vehicle—the material body—to the more enduring and immortal nature of the morontia soul and on beyond to those levels whereon the soul becomes infused with, and eventually attains the status of, spirit reality. This actual transfer from material association to morontia identification is effected by the sincerity, persistence, and steadfastness of the God-seeking decisions of the human creature._” (<a id="a186_905"></a>[F. [UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
 
-At birth, we have a set of biochemical pathways and are affected by an orchestration of impulses. Childhood is the opportunity to allow us to develop an ability to respond to this impulse system, to develop our first set of behavioral approaches. On this initial template, we attempt to suspend the fabric of experience. Unfortunately, some of us spend the entire duration of our mortal lives without ever successfully aligning with the fundamental template of the adjutants. However, if enough groundwork is done, the task can be done in the cradles and nurseries of the mansion worlds. See “_The Seven Worlds of Dematerialization_”, [F. [UB 47:9.5](/en/The_Urantia_Book/47#p9_5)]
+At birth, we have a set of biochemical pathways and are affected by an orchestration of impulses. Childhood is the opportunity to allow us to develop an ability to respond to this impulse system, to develop our first set of behavioral approaches. On this initial template, we attempt to suspend the fabric of experience. Unfortunately, some of us spend the entire duration of our mortal lives without ever successfully aligning with the fundamental template of the adjutants. However, if enough groundwork is done, the task can be done in the cradles and nurseries of the mansion worlds. See “_The Seven Worlds of Dematerialization_”, <a id="a188_635"></a>[F. [UB 47:9.5](/en/The_Urantia_Book/47#p9_5)]
 
 Once we have stabilized and to some extent mastered the environment provided by the adjutants, our soul will have made significant progress. Even at this beginning stage, this new vessel becomes available to us as a base of operations. If we are enthusiastic enough to make the leap, we will be served by the “next level of consciousness” of the Local Universe Divine Minister, in addition to or in place of the entire adjutant circuitry. As our personal vessel develops, we access appropriate systems and **mental levels**.
 
 If we actually transfer the seat of our identity to our soul, we become new creatures, operating with an improved mental system. And,
 
-> “_It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings “never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.” Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed._” ([F. [UB 34:6.8](/en/The_Urantia_Book/34#p6_8))
+> “_It is the presence of the divine Spirit, the water of life, that prevents the consuming thirst of mortal discontent and that indescribable hunger of the unspiritualized human mind. Spirit-motivated beings “never thirst, for this spiritual water shall be in them a well of satisfaction springing up into life everlasting.” Such divinely watered souls are all but independent of material environment as regards the joys of living and the satisfactions of earthly existence. They are spiritually illuminated and refreshed, morally strengthened and endowed._” (<a id="a194_561"></a>[F. [UB 34:6.8](/en/The_Urantia_Book/34#p6_8))
 
-Quite unexpectedly, we learn ([UB 42:11.4](/en/The_Urantia_Book/42#p11_4) paper) that as we progress, the mental systems we use become less receptive to linear gravity.
+Quite unexpectedly, we learn (<a id="a196_30"></a>[UB 42:11.4](/en/The_Urantia_Book/42#p11_4) paper) that as we progress, the mental systems we use become less receptive to linear gravity.
 
 ## The Soul of Adjusted Humans
 
-> “Thus is the stage of the human mind set for the reception of Adjusters, but as a general rule they do not immediately appear to indwell such minds except on those worlds where the Spirit of Truth is functioning as a spiritual co-ordinator of these different spirit ministries. If this spirit of the bestowal Sons is present, the Adjusters unfailingly come the instant the seventh adjutant mind-spirit begins to function and signalizes to the Universe Mother Spirit that it has achieved in potential the co-ordination of the associated six adjutants of prior ministry to such a mortal intellect. Therefore have the divine Adjusters been universally bestowed upon all normal minds of moral status on Urantia ever since the day of Pentecost.” ([UB 108:2.3](/en/The_Urantia_Book/108#p2_3))
+> “Thus is the stage of the human mind set for the reception of Adjusters, but as a general rule they do not immediately appear to indwell such minds except on those worlds where the Spirit of Truth is functioning as a spiritual co-ordinator of these different spirit ministries. If this spirit of the bestowal Sons is present, the Adjusters unfailingly come the instant the seventh adjutant mind-spirit begins to function and signalizes to the Universe Mother Spirit that it has achieved in potential the co-ordination of the associated six adjutants of prior ministry to such a mortal intellect. Therefore have the divine Adjusters been universally bestowed upon all normal minds of moral status on Urantia ever since the day of Pentecost.” (<a id="a200_744"></a>[UB 108:2.3](/en/The_Urantia_Book/108#p2_3))
 
 The active presence of an Adjuster, adjacent to our personality and free will, makes possible the creation and gestation of our soul. The actual psychological and spiritual mechanism of this functioning remains a mystery, but as one can certainly agree, the ideas of our inner worlds are diverse and their interactions are complex. Fortunately, we have been provided with integrating systems and coordinating factors which make it possible to stabilize this extraordinary system.
 
@@ -198,7 +222,7 @@ Each adjutant can be associated with varied performances of the ego.
 </figure>
 
 
-> “_Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving._” ([Paper [UB 100:4.2](/en/The_Urantia_Book/100#p4_2))
+> “_Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving._” (<a id="a224_661"></a>[Paper [UB 100:4.2](/en/The_Urantia_Book/100#p4_2))
 
 This universal framework, the concepts and beliefs accumulating in our minds, becomes the set of adjustable parameters targeted by The Urantia Book. So this seems to be the place to focus our own efforts. As fellow mortals in a twisted and wounded world, we could help ourselves in many ways. But, as among the first to receive The Urantia Book and as volunteers in this project of the Most Highs, what we can touch is the image of reality projected onto billions of human minds. Like a powerful private myth, it can be adjusted.
 
@@ -206,7 +230,7 @@ Let's think about the implications. When an entire culture shares an inner myth,
 
 But inner myths and paradigms are similar, in that they are both descriptions of reality that have been adopted by a person or group. In past eras, cultures have generated myths to serve as their description of things, as a universal framework. Even today, people from many walks of life are exploring the idea that, in order to progress beyond our current material fascination, humanity needs an epic backdrop, a new version of reality that is big enough to excite future generations, and substantial enough to be describable. And that is precisely what is found in The Urantia Book—a set of truths and facts sufficient to serve as a foundation for humanity's inner world in the next (“most exciting”) era.
 
-> “_Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from the truths of spirit acquirement._” ([UB 101:5.1](/en/The_Urantia_Book/101#p5_1))
+> “_Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from the truths of spirit acquirement._” (<a id="a232_182"></a>[UB 101:5.1](/en/The_Urantia_Book/101#p5_1))
 
 Given this foundation of revelation and the unceasing help of the midwayers, the Most Highs, and Michael's Spirit of Truth, we can finally replace humanity's previous ad hoc efforts.
 
@@ -222,7 +246,7 @@ And the soul can be touched directly by the indwelling presence of Deity. In eve
 
 We, the readers, are riding the 5th wave—the 5th attempt by our benefactors to stimulate and enrich our understanding of reality. As early beneficiaries of this deepening perspective, we should quickly repair and redecorate our own inner worlds, and then move forward in the business of launching the next Urantian age. As readers, each of us has indeed received the seed of this revelation within ourselves. It is around this seed, upon this kernel of fundamental truth, that we have begun to build the first tentative, evolutionary versions of this next framework for an entire epoch. The next difficult step is to expand our little understanding—our private inner world—enough to play some part in establishing this “inner world of humanity.” A tiny but necessary contribution to the progress of true civilization.
 
-Future generations will live within a certain universal framework (see Booklet [UB 115:1](/en/The_Urantia_Book/115#p1) and Booklet [UB 118:6.7](/en/The_Urantia_Book/118#p6_7)). As precursor students of these books dedicated both to Michael and his own First Source, we are powerfully equipped to help the Most Highs build it.
+Future generations will live within a certain universal framework (see Booklet <a id="a248_79"></a>[UB 115:1](/en/The_Urantia_Book/115#p1) and Booklet <a id="a248_131"></a>[UB 118:6.7](/en/The_Urantia_Book/118#p6_7)). As precursor students of these books dedicated both to Michael and his own First Source, we are powerfully equipped to help the Most Highs build it.
 
 ## Appendix: the six Sangik races
 
@@ -238,7 +262,7 @@ This predictable separation meant that our world simultaneously became host to s
 
 Vast planetary art, indeed! But as The Urantia Book reveals, the Life Carriers were denied an exquisite result by default.
 
-> “_From the Temple of New Life there extend seven radial wings, the resurrection halls of the mortal races. Each of these structures is devoted to the assembly of one of the seven races of time. There are one hundred thousand personal resurrection chambers in each of these seven wings terminating in the circular class assembly halls, which serve as the awakening chambers for as many as one million individuals. These halls are surrounded by the personality assembly chambers of the blended races of the normal post-Adamic worlds. Regardless of the technique which may be employed on the individual worlds of time in connection with special or dispensational resurrections, the real and conscious reassembly of actual and complete personality takes place in the resurrection halls of mansonia number one. Throughout all eternity you will recall the profound memory impressions of your first witnessing of these resurrection mornings._” ([Paper [UB 47:3.5](/en/The_Urantia_Book/47#p3_5))
+> “_From the Temple of New Life there extend seven radial wings, the resurrection halls of the mortal races. Each of these structures is devoted to the assembly of one of the seven races of time. There are one hundred thousand personal resurrection chambers in each of these seven wings terminating in the circular class assembly halls, which serve as the awakening chambers for as many as one million individuals. These halls are surrounded by the personality assembly chambers of the blended races of the normal post-Adamic worlds. Regardless of the technique which may be employed on the individual worlds of time in connection with special or dispensational resurrections, the real and conscious reassembly of actual and complete personality takes place in the resurrection halls of mansonia number one. Throughout all eternity you will recall the profound memory impressions of your first witnessing of these resurrection mornings._” (<a id="a264_940"></a>[Paper [UB 47:3.5](/en/The_Urantia_Book/47#p3_5))
 
 _Change this bulb_
 
@@ -284,3 +308,28 @@ You need everything!
 
 **Dogmatism**: a mammalian intellectual reaction. An almost subhuman trait.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Visite_en_Angleterre">
+          <span class="pr-2">Visit to England</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

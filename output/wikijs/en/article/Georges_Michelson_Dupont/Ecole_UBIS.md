@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministry in the Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Urantia Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Reminder of the school's pedagogy
@@ -40,10 +64,35 @@ This is possibly the question most asked by students of the 5th revelation.
 </figure>
 
 
-> “This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+> “This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection.” (<a id="a66_768"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
 <figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/134.jpg">
 <figcaption>Agnès Lazare and Guy Perron</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministry in the Philippines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-101-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 101 — Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Urantia Foundation News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

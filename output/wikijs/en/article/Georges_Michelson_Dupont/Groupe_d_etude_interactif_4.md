@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Diffusion of the Urantia Book in the World Projection 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Italo-Franco-Swiss Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > In the new edition of _Link_, we invite you to explore some concepts from _The Urantia Book_ in an interactive way, a bit like a study group. Questions on a given theme will be asked with a list of readings suggested to answer them.
@@ -23,7 +47,7 @@ As we read the epic life of Jesus, we realize the material difficulties and emot
 
 To do our Father's will; to grow in wisdom and spiritual growth, we too must have educational experiences that require us to find solutions with the help of our Thought Adjuster and many other spiritual aids available to us.
 
-> “Universe difficulties must be met and planetary obstacles must be encountered as a part of the experience training provided for the growth and development, the progressive perfection, of the evolving souls of mortal creatures. The spiritualization of the human soul requires intimate experience with the educational solving of a wide range of real universe problems. The animal nature and the lower forms of will creatures do not progress favorably in environmental ease. Problematic situations, coupled with exertion stimuli, conspire to produce those activities of mind, soul, and spirit which contribute mightily to the achievement of worthy goals of mortal progression and to the attainment of higher levels of spirit destiny.” ([UB 154:2.5](/en/The_Urantia_Book/154#p2_5))
+> “Universe difficulties must be met and planetary obstacles must be encountered as a part of the experience training provided for the growth and development, the progressive perfection, of the evolving souls of mortal creatures. The spiritualization of the human soul requires intimate experience with the educational solving of a wide range of real universe problems. The animal nature and the lower forms of will creatures do not progress favorably in environmental ease. Problematic situations, coupled with exertion stimuli, conspire to produce those activities of mind, soul, and spirit which contribute mightily to the achievement of worthy goals of mortal progression and to the attainment of higher levels of spirit destiny.” (<a id="a49_736"></a>[UB 154:2.5](/en/The_Urantia_Book/154#p2_5))
 
 This final period will be devoted to showing that the entire universe is a vast school run by loving parents and teachers attentive to our spiritual welfare, and that what we humans regard as suffering, punishment, or disaster are in reality opportunities for progress. Finally, we will consider the spiritual helpers who supplement the personal ministry of our Thought Adjuster.
 
@@ -39,13 +63,13 @@ In the first quote from the introduction to the last period, there is talk of �
 
 ***Question 3***: Read the following sections:
 
-Our Thought Adjuster communicates with us constantly in such a way that “Spirit never coerces, it only guides. If you are a willing student, if you want to reach the levels of spirit and the divine heights, if you sincerely desire to arrive at the eternal goal, then the divine Spirit will gently and lovingly guide you on the path of sonship and spiritual progress.” ([UB 34:6.11](/en/The_Urantia_Book/34#p6_11)).
+Our Thought Adjuster communicates with us constantly in such a way that “Spirit never coerces, it only guides. If you are a willing student, if you want to reach the levels of spirit and the divine heights, if you sincerely desire to arrive at the eternal goal, then the divine Spirit will gently and lovingly guide you on the path of sonship and spiritual progress.” (<a id="a65_369"></a>[UB 34:6.11](/en/The_Urantia_Book/34#p6_11)).
 
 **What is the nature of this communication? Why does the Spirit never “constrain” us and how does he “lead” us?**
 
 ***Question 4***: Read the following sections:
 
-A Solitary Messenger reveals that “Cooperation with your Adjuster is not to be regarded as a particularly conscious process, for it is not. It is your motives and decisions, your faithful determinations and supreme desires, that constitute real and effective cooperation.” ([UB 110:3.6](/en/The_Urantia_Book/110#p3_6))
+A Solitary Messenger reveals that “Cooperation with your Adjuster is not to be regarded as a particularly conscious process, for it is not. It is your motives and decisions, your faithful determinations and supreme desires, that constitute real and effective cooperation.” (<a id="a71_274"></a>[UB 110:3.6](/en/The_Urantia_Book/110#p3_6))
 
 **Why do our decisions, our faithful determinations and our supreme desires constitute real and effective cooperation?**
 
@@ -57,7 +81,32 @@ Besides the gifts we have received from our Creators, many other spiritual influ
 
 ***Question 6***: Read the following sections:
 
-In Section 2 of Paper 194 The Urantia Book reveals that “Then, as man progresses upward in the scale of intelligence and spiritual perception, seven higher spirit influences eventually come to hover above him and dwell within him.” ([UB 194:2.12](/en/The_Urantia_Book/194#p2_12))
+In Section 2 of Paper 194 The Urantia Book reveals that “Then, as man progresses upward in the scale of intelligence and spiritual perception, seven higher spirit influences eventually come to hover above him and dwell within him.” (<a id="a83_233"></a>[UB 194:2.12](/en/The_Urantia_Book/194#p2_12))
 
 With the exception of our Thought Adjuster and the Spirit of Truth which we have previously seen, what are the contributions of other spiritual influences and how do they cooperate with us?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_Diffusion_du_LU_Projection_2015_2100">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Diffusion of the Urantia Book in the World Projection 2015-2100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Danielle_La_Scala/Congres_Italo_Franco_Suisse">
+          <span class="pr-2">Italo-Franco-Swiss Congress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

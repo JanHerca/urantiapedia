@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-67-summer-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 67 — Summer 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="pr-2">The consecration of choice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Mindfulness** (sometimes also called right attention, samma sati in Sanskrit) is a term derived from the teachings of Siddhartha Gautama and designating vigilant awareness of one's own thoughts, actions and motivations. It plays a central role in Buddhism where it is affirmed that mindfulness is an essential factor for liberation (bodhi or spiritual awakening). It is the seventh limb of the noble eightfold path.
@@ -23,3 +47,28 @@ The Buddha advises to observe the sensation internally (_in the mind_) and exter
 
 Mindfulness lies beyond the first form of wisdom: devotion, and beyond the second form: the logic of the intellect. It is the third form of wisdom, called _bhavana-maya panna_, the direct vision of the ultimate reality in all things.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helen_Moore_Hopper/La_Serenite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-67-summer-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 67 — Summer 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/La_consecration_du_choix">
+          <span class="pr-2">The consecration of choice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

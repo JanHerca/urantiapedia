@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Johanna Beukers<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Story: The Barn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="pr-2">Reflection on Infidelity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tasting the air, a little rain as well as typical Savoyard dishes brought us convivially into a new sphere unknown until now for the biannual meeting of the AFLUB which was held from November 8 to 11, 2007.
@@ -49,3 +73,28 @@ Piercing this deep meaning belongs, it is obvious, to our Thought Controller. It
 
 Johanna Beuckers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Claude_Romeuf/Conte_La_Grange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Story: The Barn</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Reflexion_sur_linfidelite">
+          <span class="pr-2">Reflection on Infidelity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

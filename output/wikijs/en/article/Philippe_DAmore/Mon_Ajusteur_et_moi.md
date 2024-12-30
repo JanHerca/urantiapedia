@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Philippe D'Amore<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Decision Center</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-12-winter-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Like all readers of the Urantia Book, I try without pretension to get closer to my thought adjuster, to get in touch with him, for that I have my method, I don't know if I succeed but I want to believe in it.
@@ -44,3 +65,25 @@ To read: the order of silence from Gurdjieff to Melchizedek by Robert Pages Edit
 
 Philippe D'Amore
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Le_centre_de_decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Decision Center</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-12-winter-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 12 — Winter 1999</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

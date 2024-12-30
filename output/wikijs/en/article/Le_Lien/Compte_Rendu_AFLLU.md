@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Temoignages">
+          <span class="pr-2">Testimonials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Report
@@ -106,3 +130,28 @@ From 01/01/2022 to 12/31/2022
 | Coeurant Account as of 12/31/2022 | | | €25,505.05 |
 | TOTAL CASH | | | **€34,380.45** |
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">AFLLU Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Temoignages">
+          <span class="pr-2">Testimonials</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

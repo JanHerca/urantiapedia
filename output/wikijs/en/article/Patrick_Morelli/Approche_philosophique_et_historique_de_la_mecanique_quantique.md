@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Patrick Morelli<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Foundation News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">The Chinese Translation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Patrick Morelli
@@ -133,9 +157,9 @@ The energetic forces are emerging, such as mental, spiritual for the Spirit of T
 
 In comparison with the questions asked above, the answers given by the L. U. can have a satisfactory response.
 
-> “Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity.” ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+> “Mortal mind is a temporary intellect system loaned to human beings for use during a material lifetime, and as they use this mind, they are either accepting or rejecting the potential of eternal existence. Mind is about all you have of universe reality that is subject to your will, and the soul—the morontia self—will faithfully portray the harvest of the temporal decisions which the mortal self is making. Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity.” (<a id="a159_1122"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
-> “The material mind of mortal man is the cosmic loom that carries the morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter.” ([UB 111:2.2](/en/The_Urantia_Book/111#p2_2))
+> “The material mind of mortal man is the cosmic loom that carries the morontia fabrics on which the indwelling Thought Adjuster threads the spirit patterns of a universe character of enduring values and divine meanings—a surviving soul of ultimate destiny and unending career, a potential finaliter.” (<a id="a161_303"></a>[UB 111:2.2](/en/The_Urantia_Book/111#p2_2))
 
 Also these details on the meanings following the work of the mind:
 
@@ -167,7 +191,7 @@ Which means that the parallel between my remarks and the global wave can only be
 
 To close these approximations, booklet 36:6.7:
 
-> “There are some things connected with the elaboration of life on the evolutionary planets which are not altogether clear to us. We fully comprehend the physical organization of the electrochemical formulas of the Life Carriers, but we do not wholly understand the nature and source of the *life-activation spark.* We know that life flows from the Father through the Son and *by* the Spirit. It is more than possible that the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation. But we do not comprehend the technique whereby the supervising Master Spirit participates in the initial episode of life bestowal on a new planet. The Ancients of Days, we are confident, also have some part in this inauguration of life on a new world, but we are wholly ignorant of the nature thereof. We do know that the Universe Mother Spirit actually vitalizes the lifeless patterns and imparts to such activated plasm the prerogatives of organismal reproduction. We observe that these three are the levels of God the Sevenfold, sometimes designated as the Supreme Creators of time and space; but otherwise we know little more than Urantia mortals—simply that concept is inherent in the Father, expression in the Son, and life realization in the Spirit.” ([UB 36:6.7](/en/The_Urantia_Book/36#p6_7))
+> “There are some things connected with the elaboration of life on the evolutionary planets which are not altogether clear to us. We fully comprehend the physical organization of the electrochemical formulas of the Life Carriers, but we do not wholly understand the nature and source of the *life-activation spark.* We know that life flows from the Father through the Son and *by* the Spirit. It is more than possible that the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation. But we do not comprehend the technique whereby the supervising Master Spirit participates in the initial episode of life bestowal on a new planet. The Ancients of Days, we are confident, also have some part in this inauguration of life on a new world, but we are wholly ignorant of the nature thereof. We do know that the Universe Mother Spirit actually vitalizes the lifeless patterns and imparts to such activated plasm the prerogatives of organismal reproduction. We observe that these three are the levels of God the Sevenfold, sometimes designated as the Supreme Creators of time and space; but otherwise we know little more than Urantia mortals—simply that concept is inherent in the Father, expression in the Son, and life realization in the Spirit.” (<a id="a193_1287"></a>[UB 36:6.7](/en/The_Urantia_Book/36#p6_7))
 
 As far as we are concerned, isn't the goal of a seeker of truth to seek?
 
@@ -184,3 +208,28 @@ All information concerning quantum mechanics has been collected in the following
 - Brain waves and energies in quantum physics _Paul Millemann_
 - The Quantum Man _E Ransford O Chambon T Atam_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Foundation News</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">The Chinese Translation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

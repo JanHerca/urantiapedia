@@ -9,11 +9,35 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Guy Bourhis<br>© 1999 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">Who Was Jesus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-It is very difficult to realize the work that the Adjuster does in our mind, especially when we know that, most often, this “adherence” on our part to his mission is not a <ins>conscious</ins> process ([UB 110:3.6](/en/The_Urantia_Book/110#p3_6)).
 
-In the rare case where there is synchronization and harmonization of objectives between the divine Gift and its human subject, the interested soul is transferred directly to the mansion worlds without going through the experience of death (ibid. [UB 110:5.3](/en/The_Urantia_Book/110#p5_3)).
+It is very difficult to realize the work that the Adjuster does in our mind, especially when we know that, most often, this “adherence” on our part to his mission is not a <ins>conscious</ins> process (<a id="a37_202"></a>[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)).
+
+In the rare case where there is synchronization and harmonization of objectives between the divine Gift and its human subject, the interested soul is transferred directly to the mansion worlds without going through the experience of death (ibid. <a id="a39_246"></a>[UB 110:5.3](/en/The_Urantia_Book/110#p5_3)).
 
 Still, the great goal of human experience is to attune oneself to the divinity of the indwelling Adjuster.
 
@@ -26,7 +50,7 @@ These attitudes and decisions are recalled in booklet 110, page 1206: 5. There a
 - <ins>love</ins> and <ins>service</ins> of every other human brother;
 - serene acceptance of <ins>cosmic citizenship</ins> and the progressive <ins>obligations</ins> attached to it.
 
-Finally, let us remember that only <ins>conscious</ins> resistance to the “direction” that the Adjuster is trying to give can prevent the survival of the evolving immortal soul (ibid: [UB 110:3.6](/en/The_Urantia_Book/110#p3_6)).
+Finally, let us remember that only <ins>conscious</ins> resistance to the “direction” that the Adjuster is trying to give can prevent the survival of the evolving immortal soul (ibid: <a id="a52_184"></a>[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)).
 
 Between the harmony which is a safe conduct for the world of houses and the refusal which definitively puts it out of action, there is therefore the right place for all possible approaches between evolutionary man and the evolving Deity.
 
@@ -46,3 +70,28 @@ This clearly demonstrates that the L.U., 5th Revelation made to the men of the 6
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/009">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-9-spring-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 9 — Spring 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="pr-2">Who Was Jesus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

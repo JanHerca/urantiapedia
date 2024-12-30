@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Cécile Denayrouse<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Traits_dhumour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traits of Humor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_04_Les_reponses">
+          <span class="pr-2">Maxi Quiz No. 4 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 These absurd theories that rot our daily lives or the law of maximum annoyance? It's the trick of the slice of bread that falls on the wrong side, or that of “never two without three”. A look back at these harmful precepts.
@@ -65,3 +89,28 @@ Robert Murphy, one of Edward Murphy's sons, denies this umpteenth version and cl
 
 Cecile Denayrouse
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Traits_dhumour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traits of Humor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-53-winter-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 53 — Winter 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_04_Les_reponses">
+          <span class="pr-2">Maxi Quiz No. 4 The Answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

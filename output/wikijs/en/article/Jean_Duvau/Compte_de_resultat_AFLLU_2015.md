@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean Duvau<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Budapest Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Meeting in Italy Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Given the July and August holidays, we were unable to produce the association's operating account for 2015 on time.
@@ -47,3 +71,28 @@ INCOME STATEMENT — Year 2015 (In Euros)
 <img src="/image/article/Le_Lien/images_02/067.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Conference_De_Budapest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Budapest Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-76-décembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 76 — Décembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Rencontre_en_Italie">
+          <span class="pr-2">Meeting in Italy Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

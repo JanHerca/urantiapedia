@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 André Chappuis<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alain_Degoumois/Fais_toi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Make Yourself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/A_vos_Calculettes">
+          <span class="pr-2">Get Your Calculators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **The appearance of human blue eyes on Urantia**
@@ -30,7 +54,7 @@ Blue eyes have stood the test of time and spanned millennia. Why has evolution p
 
 _Relevant passages from The Urantia Book:_
 
-> _Adam and Eve were the founders of the violet race of men, the ninth human race to appear on Urantia. Adam and his offspring had blue eyes, and the violet peoples were characterized by fair complexions and light hair color—yellow, red, and brown._ ([UB 76:4.1](/en/The_Urantia_Book/76#p4_1))
+> _Adam and Eve were the founders of the violet race of men, the ninth human race to appear on Urantia. Adam and his offspring had blue eyes, and the violet peoples were characterized by fair complexions and light hair color—yellow, red, and brown._ (<a id="a56_251"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1))
 
 The association of eyes and blue does not appear elsewhere in The Urantia Book. It would therefore appear that Adam and Eve were the first human beings on our planet to have blue eyes. In this case, it is not a mutation, as stated above, but a characteristic of the violet race founded by Adam and Eve.
 
@@ -44,3 +68,28 @@ _See also:_ [link](http://www.linternaute.com/science/biologie/pourquoi/06/hered
 
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alain_Degoumois/Fais_toi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Make Yourself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-46-spring-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 46 — Spring 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/A_vos_Calculettes">
+          <span class="pr-2">Get Your Calculators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Philosophy and Mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Happiness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I cannot do without the osteoclast. I know this from experience. Each time the bone undergoes trauma, the osteoclasts, which are small cells, are mobilized to the bruised area. Their purpose is to digest the bone part that has become useless. This destruction, permitted by Shiva, brings in a multitude of young cells that secrete new bone. In this case and certainly in most cases, regeneration is necessarily subsequent to the destruction.
@@ -31,3 +55,28 @@ To say that I love this God who has not been revealed to me and for whom, howeve
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Philosophie_humaine_et_mota_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Philosophy and Mota (2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Le_bonheur">
+          <span class="pr-2">Happiness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

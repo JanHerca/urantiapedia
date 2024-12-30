@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Simon Orsini<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Energy and Food</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="pr-2">A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -132,7 +156,7 @@ We are an integral part of these moving universes, without us, they would have n
 
 > GOD is unity. Deity is universally co-ordinated. The universe of universes is one vast integrated mechanism which is absolutely controlled by one infinite mind. The physical, intellectual, and spiritual domains of universal creation are divinely correlated. The perfect and imperfect are truly interrelated, and therefore may the finite evolutionary creature ascend to Paradise in obedience to the Universal Father’s mandate: “Be you perfect, even as I am perfect.”
 > 
-> “GOD is unity. Deity is universally co-ordinated. The universe of universes is one vast integrated mechanism which is absolutely controlled by one infinite mind. The physical, intellectual, and spiritual domains of universal creation are divinely correlated. The perfect and imperfect are truly interrelated, and therefore may the finite evolutionary creature ascend to Paradise in obedience to the Universal Father’s mandate: “Be you perfect, even as I am perfect.”” ([UB 56:0.1](/en/The_Urantia_Book/56#p0_1))
+> “GOD is unity. Deity is universally co-ordinated. The universe of universes is one vast integrated mechanism which is absolutely controlled by one infinite mind. The physical, intellectual, and spiritual domains of universal creation are divinely correlated. The perfect and imperfect are truly interrelated, and therefore may the finite evolutionary creature ascend to Paradise in obedience to the Universal Father’s mandate: “Be you perfect, even as I am perfect.”” (<a id="a158_471"></a>[UB 56:0.1](/en/The_Urantia_Book/56#p0_1))
 
 I conclude with quotes: “the argument to defend a thesis is inversely proportional to the truth contained in this thesis”: “Time is the current of the flow of events perceived by human consciousness, it is because time flows that we can separate them, understand them, live them (Jesus)”.
 
@@ -142,3 +166,28 @@ Scientists would do well to give back to God what belongs to Him, His creation.
 
 **Simon Orsini**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claude_Flibotte/Energie_Et_Nourriture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Energy and Food</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-86-juin-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 86 — Juin 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="pr-2">A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

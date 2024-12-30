@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Joël S. Goldsmith<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities XI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-68-autumn-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 68 — Autumn 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/De_la_traduction_revisee">
+          <span class="pr-2">On the revised translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “The former things have passed away,” and “all things have become new.” “While I was blind, now I see,” not “dimly as through a mirror,” but “face to face.” Yes, even in my flesh I have seen God. The hills have retreated and there is no horizon, but the light of heaven illuminates all things.
@@ -35,3 +59,28 @@ Excerpt from The Infinite Way
 
 Joel S. Goldsmith
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Seven_Fundamental_Realities_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Fundamental Realities XI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-68-autumn-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 68 — Autumn 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Royer/De_la_traduction_revisee">
+          <span class="pr-2">On the revised translation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

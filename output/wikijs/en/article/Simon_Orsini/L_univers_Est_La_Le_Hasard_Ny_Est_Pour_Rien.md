@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Simon Orsini<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">The Term “Tension” Can It Enlighten Us on the Trinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The world did not appear by a wave of a magic wand of a so-called nature, but by a Creator whose design was carried out by subordinates. The organization of the universe is intelligent, so it must have the same origin.
@@ -96,7 +120,7 @@ God the Father of the universe, does not ask you the impossible, he simply asks 
 
 <br style=“clear:both;”/>
 
-> While creation and universe organization remain forever under the control of the infinite Creators and their associates, the whole phenomenon proceeds in accordance with an ordained technique and in conformity to the gravity laws of force, energy, and matter. But there is something of mystery associated with the universal force-charge of space; we quite understand the organization of the material creations from the ultimatonic stage forward, but we do not fully comprehend the cosmic ancestry of the ultimatons. We are confident that these ancestral forces have a Paradise origin because they forever swing through pervaded space in the exact gigantic outlines of Paradise. Though nonresponsive to Paradise gravity, this force-charge of space, the ancestor of all materialization, does always respond to the presence of nether Paradise, being apparently circuited in and out of the nether Paradise center. ([UB 15:4.1](/en/The_Urantia_Book/15#p4_1))
+> While creation and universe organization remain forever under the control of the infinite Creators and their associates, the whole phenomenon proceeds in accordance with an ordained technique and in conformity to the gravity laws of force, energy, and matter. But there is something of mystery associated with the universal force-charge of space; we quite understand the organization of the material creations from the ultimatonic stage forward, but we do not fully comprehend the cosmic ancestry of the ultimatons. We are confident that these ancestral forces have a Paradise origin because they forever swing through pervaded space in the exact gigantic outlines of Paradise. Though nonresponsive to Paradise gravity, this force-charge of space, the ancestor of all materialization, does always respond to the presence of nether Paradise, being apparently circuited in and out of the nether Paradise center. (<a id="a122_913"></a>[UB 15:4.1](/en/The_Urantia_Book/15#p4_1))
 
 I'm going to talk to you about the atom. It is clear that it will take a long time for scientists to know everything that can be known.
 
@@ -122,3 +146,28 @@ The conclusion is simple. If you are still not convinced, you will never see you
 
 Simon Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-80-décembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 80 — Décembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">The Term “Tension” Can It Enlighten Us on the Trinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

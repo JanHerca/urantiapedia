@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Georges Michelson Dupont<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Avortement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abortion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="pr-2">Philosophical and Historical Approach to Quantum Mechanics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The translation of _The Urantia Book_ into the languages of Urantia is part of the planetary mission of Urantia Foundation, which is described in the <Declaration of Trust,> the document creating the Foundation in 1950 and available at: [urantia.org/en/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV](urantia.org/fr/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV)
@@ -25,3 +49,28 @@ Africa is a major continent whose population will reach 2 billion by the 2050s. 
 
 We have recently been contacted by readers from Kenya, Uganda and Tanzania. In partnership with the Foundation they will form a small team with the aim of translating the revelation into Kiswahili. We will provide them with all our logistical and financial support and help them in this very demanding but oh so rewarding task.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sophie_Malicot/Avortement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abortion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-105-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 105 — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Morelli/Approche_philosophique_et_historique_de_la_mecanique_quantique">
+          <span class="pr-2">Philosophical and Historical Approach to Quantum Mechanics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

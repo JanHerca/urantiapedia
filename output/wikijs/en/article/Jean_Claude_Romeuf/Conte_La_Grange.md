@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jean-Claude Romeuf<br>© 2007 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Little Reflection on the Power of Loving (Part 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">AFLLU Autumn Meeting in AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _The facts_. Below flowed a river. Him, having bathed under the waterfalls many times, knew it well. Its pools were filled with exotic fish, the same multi-colored fish that populate the atolls of tropical islands. Very often, he had been surprised to be able to breathe underwater.
@@ -60,3 +84,28 @@ If Paradise did not have the power to meet space, if it were as far away as one 
 Jean Claude Romeuf
 December 2, 2007
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_de_Viron/Petite_reflexion_sur_la_puissance_daimer_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Little Reflection on the Power of Loving (Part 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-41-hiver-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 41 — Hiver 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Johanna_Beukers/Rencontre_dautomne_de_lAFLLU_a_AIX_LES_BAINS">
+          <span class="pr-2">AFLLU Autumn Meeting in AIX-LES-BAINS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

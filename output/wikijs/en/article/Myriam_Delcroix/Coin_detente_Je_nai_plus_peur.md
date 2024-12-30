@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Myriam Delcroix<br>© 2003 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report of the Armeau meeting: November 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Testimony</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 I am no longer afraid of these distant roads,
@@ -57,3 +81,28 @@ Of my soul which is no longer afraid to hope.
 
 Myriam Delcroix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_et_Nicole_Ragetly/Compte_rendu_de_la_reunion_dArmeau">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report of the Armeau meeting: November 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-28-winter-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 28 — Winter 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michel_Bezier/Temoignage">
+          <span class="pr-2">Testimony</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

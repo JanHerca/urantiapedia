@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Pierre Morency<br>© 2010 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lyrical Pages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Maxi Quiz n°3 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 “_Ah, if only I had this, if I were like that, my life would be more pleasant._” Work hard, save all your life in order to enjoy later. An insane attitude in the eyes of Pierre Morency, a Quebec physicist who writes psychology bestsellers. His leitmotif: ask to receive. He has also made it the title of a book, in which he encourages not only to ask, but to ask a lot, based on the principle that the more you ask, the more you receive.
@@ -55,3 +79,28 @@ Pierre Morency: “Ask and you shall receive. Learn the principles of success fo
 
 Pierre Morency
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Pages_Lyriques">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lyrical Pages</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-52-autumn-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 52 — Autumn 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quiz_maxien_03_Les_reponses">
+          <span class="pr-2">Maxi Quiz n°3 The answers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

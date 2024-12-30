@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jean-Claude Romeuf<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I AM and the Principle of Causality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">European Meeting 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -94,3 +118,28 @@ So I left the mochilla with the owner of the restaurant, so that she could give 
 
 Although I don't know if the seeds I planted along the Alameda have sprouted, what I am sure of is that a little seed of God, when it has germinated in someone's heart, quickly becomes a flower, then it rises up to Heaven to flood it with its perfume.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I AM and the Principle of Causality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-107-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 107 — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_Europeenne_2025">
+          <span class="pr-2">European Meeting 2025</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

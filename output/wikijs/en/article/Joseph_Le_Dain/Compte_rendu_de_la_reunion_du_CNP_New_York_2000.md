@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Joseph Le Dain<br>© 200 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Meeting of 2002 Progress Report No. 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 There were many of us, this Wednesday, August 2, 2000, joining the WAGNER college in Staten Island, one of the five districts of New York City. That evening, after having resolved the material problems, inevitable in this world, I went to bed, tired from the physical transportation essential to participate body and soul in this new international conference of the IUA.
@@ -86,3 +107,25 @@ In the evening, after dinner, we were invited to a discussion with the trustees.
 
 Joseph Le Dain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francois_Le_Rohellec/Rencontre_internationale_de_2002_avancement_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Meeting of 2002 Progress Report No. 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-15-autumn-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 15 — Autumn 2000</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 René Felix<br>© 2004 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where Metaphysics Totally Fails</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-32-winter-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 32 — Winter 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Absence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 What keeps couples together...?
@@ -66,3 +90,28 @@ This is a way of seeing the future through the imprint of the past.
 
 Rene Felix
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/La_ou_la_metaphysique_echoue_totalement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where Metaphysics Totally Fails</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-32-winter-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 32 — Winter 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Absence">
+          <span class="pr-2">Absence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

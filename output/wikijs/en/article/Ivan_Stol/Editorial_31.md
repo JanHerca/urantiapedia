@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Ivan Stol<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/102">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_AFLLU">
+          <span class="pr-2">AFLLU Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dear friends and readers, our world is in turmoil. But it is time to be positive and to experiment in order to understand the will of God. Between the efforts of heavenly helpers and the free will of human beings, there are distortions. But are we really capable of discerning right and wrong, evolution or regression? Staying positive seems the best solution to help according to one's abilities without trying to do the impossible that only a majority can do together.
@@ -19,3 +43,28 @@ The big news is that the association will organize the European UAI conference w
 
 Happy reading. Brotherly friendships Ivan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/102">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-102-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 102 — Juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Reunion_AFLLU">
+          <span class="pr-2">AFLLU Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

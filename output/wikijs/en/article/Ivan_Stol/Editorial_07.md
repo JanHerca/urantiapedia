@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Ivan Stol<br>© 2017 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/078">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="pr-2">The Part Advances the Whole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Our spiritual evolution requires a time of experiences and a time of reflection. Experience teaches us to perceive, through relationships in action, the laws that govern social life and the choices we can make according to our capacity to serve or satisfy our ambitions. But the true understanding of what we do or must do only comes from deep analyses of the ins and outs of our actions.
@@ -22,3 +46,28 @@ Some people think that our meetings are too intellectual, but it often turns out
 In all friendship
 Ivan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/078">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-78-juin-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 78 — Juin 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Simon_Orsini/La_Partie_Fait_Progresser_Le_Tout">
+          <span class="pr-2">The Part Advances the Whole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

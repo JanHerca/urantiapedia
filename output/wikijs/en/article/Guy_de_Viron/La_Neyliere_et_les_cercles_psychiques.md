@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Guy de Viron<br>© 2012 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Retrouvailles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note: Reunion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Baumann/Etre_Bien">
+          <span class="pr-2">Being Well</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Here is a spring edition of the Urantian Link, invigorating and invigorating as you wish! Starting with a more airy, more fluid layout, which should please our senior readers! It's up to you to judge! For the moment, no return to colonization planned as in the Urantia Cosmogony or certain other editions of the _Urantia Book_.
@@ -32,3 +56,28 @@ The Editor in Chief
 
 Guy from Viron
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Le_billet_du_President_Retrouvailles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The President's Note: Reunion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-59-summer-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 59 — Summer 2012</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patrick_Baumann/Etre_Bien">
+          <span class="pr-2">Being Well</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

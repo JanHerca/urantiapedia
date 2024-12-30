@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Simon Orsini<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Day and Period</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cyril_Cosette/L_amitie">
+          <span class="pr-2">Friendship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -147,3 +171,28 @@ Ajaccio (South Corsica)
 <figcaption>Simon Orsini on guitar with Max Masotti in Southern Corsica.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese_and_Jean_Royer/Jour_et_Periode">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Day and Period</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-74-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 74 — Juin 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cyril_Cosette/L_amitie">
+          <span class="pr-2">Friendship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

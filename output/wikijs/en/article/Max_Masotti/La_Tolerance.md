@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Max Masotti<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">Of the Word</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***Tolerance***: From the Latin tolerare, to support. Disposition to admit in others ways of thinking, acting, feelings different from our own. In social life, the most useful virtue is tolerance.
@@ -70,9 +94,9 @@ What is important in UB is not so much the discovery of the values that we can r
 
 And what do we read about tolerance?
 
-[UB 139:6.8](/en/The_Urantia_Book/139#p6_8) — [UB 100:4.4](/en/The_Urantia_Book/100#p4_4) — [UB 140:8.13](/en/The_Urantia_Book/140#p8_13) — [UB 146:2.13](/en/The_Urantia_Book/146#p2_13) 12 — [UB 156:5.18](/en/The_Urantia_Book/156#p5_18) — [UB 193:2.2](/en/The_Urantia_Book/193#p2_2) -
+<a id="a96_0"></a>[UB 139:6.8](/en/The_Urantia_Book/139#p6_8) — <a id="a96_46"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4) — <a id="a96_92"></a>[UB 140:8.13](/en/The_Urantia_Book/140#p8_13) — <a id="a96_140"></a>[UB 146:2.13](/en/The_Urantia_Book/146#p2_13) 12 — <a id="a96_191"></a>[UB 156:5.18](/en/The_Urantia_Book/156#p5_18) — <a id="a96_239"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2) -
 
-> _“Peace be upon you. You rejoice to know that the Son of Man has risen from the dead because you thereby know that you and your brethren shall also survive mortal death. But such survival is dependent on your having been previously born of the spirit of truth-seeking and God-finding. The bread of life and the water thereof are given only to those who hunger for truth and thirst for righteousness—for God. The fact that the dead rise is not the gospel of the kingdom. These great truths and these universe facts are all related to this gospel in that they are a part of the result of believing the good news and are embraced in the subsequent experience of those who, by faith, become, in deed and in truth, the everlasting sons of the eternal God. My Father sent me into the world to proclaim this salvation of sonship to all men. And so send I you abroad to preach this salvation of sonship. Salvation is the free gift of God, but those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away. My Father requires of the children of faith that they bear much spirit fruit. If, therefore, you are not fruitful, he will dig about your roots and cut away your unfruitful branches. Increasingly, must you yield the fruits of the spirit as you progress heavenward in the kingdom of God. You may enter the kingdom as a child, but the Father requires that you grow up, by grace, to the full stature of spiritual adulthood. And when you go abroad to tell all nations the good news of this gospel, I will go before you, and my Spirit of Truth shall abide in your hearts. My peace I leave with you.”_ ([UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
+> _“Peace be upon you. You rejoice to know that the Son of Man has risen from the dead because you thereby know that you and your brethren shall also survive mortal death. But such survival is dependent on your having been previously born of the spirit of truth-seeking and God-finding. The bread of life and the water thereof are given only to those who hunger for truth and thirst for righteousness—for God. The fact that the dead rise is not the gospel of the kingdom. These great truths and these universe facts are all related to this gospel in that they are a part of the result of believing the good news and are embraced in the subsequent experience of those who, by faith, become, in deed and in truth, the everlasting sons of the eternal God. My Father sent me into the world to proclaim this salvation of sonship to all men. And so send I you abroad to preach this salvation of sonship. Salvation is the free gift of God, but those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. If professed believers bear not these fruits of the divine spirit in their lives, they are dead; the Spirit of Truth is not in them; they are useless branches on the living vine, and they soon will be taken away. My Father requires of the children of faith that they bear much spirit fruit. If, therefore, you are not fruitful, he will dig about your roots and cut away your unfruitful branches. Increasingly, must you yield the fruits of the spirit as you progress heavenward in the kingdom of God. You may enter the kingdom as a child, but the Father requires that you grow up, by grace, to the full stature of spiritual adulthood. And when you go abroad to tell all nations the good news of this gospel, I will go before you, and my Spirit of Truth shall abide in your hearts. My peace I leave with you.”_ (<a id="a98_2204"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/068.jpg">
@@ -82,3 +106,28 @@ And what do we read about tolerance?
 
 Max Masotti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Murielle_Duchene/Rencontre_du_21_02_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meeting of 21.02.09</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-47-summer-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 47 — Summer 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helene_Guisan/Du_Verbe">
+          <span class="pr-2">Of the Word</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

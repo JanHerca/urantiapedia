@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jean Royer<br>© 2006 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dual Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-37-autumn-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 37 — Autumn 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">“Faith”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Why did The Urantia Book appear in the 1930s and perhaps also appear in Chicago? One possible answer is found in the following facts.
@@ -35,13 +59,38 @@ Another example given by Steven Lewis: our name does not indicate our different 
 
 The Urantia Book often recalls the principle of reasoning by levels. The word level in the singular or levels in the plural is used more than 800 times in the book. We will only cite three here.
 
-> _Deity functions on personal, prepersonal, and superpersonal levels. Total Deity is functional on the following seven levels:_ ([UB 0:1.3](/en/The_Urantia_Book/0#p1_3))
+> _Deity functions on personal, prepersonal, and superpersonal levels. Total Deity is functional on the following seven levels:_ (<a id="a61_130"></a>[UB 0:1.3](/en/The_Urantia_Book/0#p1_3))
 
-> _Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:_ ([UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
+> _Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:_ (<a id="a63_229"></a>[UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
 
-> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ ([UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
+> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ (<a id="a65_388"></a>[UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
 
 It would take a serious study of Korzybski's “Mental and Psychic Health” (1933) to realize that the evolution of mentalities, at least among 20th century researchers, was a sine qua non condition for the publication of the book. This perhaps also partly explains why we had to wait until this time to have a revelation advocated for several centuries by our invisible friends.
 
 Jean Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dual Nature</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-37-autumn-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 37 — Autumn 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">“Faith”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

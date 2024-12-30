@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Luc Lachance<br>© 1997 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The American justice system rules in favor of copyright on appeal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-4-summer-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 4 — Summer 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Deity and divinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -45,3 +69,28 @@ Luke Lachance
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Michelson_Dupont/La_justice_americaine_en_faveur_du_copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The American justice system rules in favor of copyright on appeal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-4-summer-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 4 — Summer 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/Deite_et_divinite">
+          <span class="pr-2">Deity and divinity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

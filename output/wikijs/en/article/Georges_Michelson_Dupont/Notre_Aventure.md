@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Georges Michelson-Dupont<br>© 2018 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All These Trips in Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="pr-2">Studying The Urantia Book. What For?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Georges Michelson-Dupont_
@@ -17,7 +41,7 @@ At some point, everyone can stop and reflect on the meaning of life. For what? F
 
 From the first page (page 21) the authors answer our questions: the destiny of our upward career, from the beginning of our life on this unfortunate planet to Paradise and beyond is thus summarized in this sentence: “_Be perfect in your sphere as God is perfect in his_”.
 
-> “_Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities._” ([[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
+> “_Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities._” (<a id="a43_379"></a>[[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
 
 God the Universal Father is the personal face that Deity offers to our understanding. Deity is characterized by the quality of unity, actual (on the existential level) as the Paradise Trinity or potential (on experiential levels) as the Supreme Being and other deities. For us, the quality of unity is best understood as “divinity”; it is expressed at many levels of perfection. God being the level of absolute divinity, we understand this quality as truth, beauty, and goodness. It is expressed on the personality level as love, mercy, and ministry and on the impersonal level as justice, power, and sovereignty.
 
@@ -25,15 +49,15 @@ Our individuality is a composite of energy, mind and spirit with the distinctive
 
 To unify our individuality means to bring the choices of our personality into harmony with the will of the Universal Father who is love, mercy and ministry, but also justice, power and sovereignty. Jesus, by his very life, showed us the way. By rereading section 7 of booklet 100 “the culmination of the religious life” depicting the perfectly unified human personality of Jesus, we have a reference example.
 
-For us, ascenders, divinity is not innate, it is an adventure of conquest, an achievement in time and space, it is measured by the degree of perfection as we progress. This is the meaning of the divine injunction: “become perfect”. Note that it is the fusion with our Thought Adjuster which “fixes” forever the quality of divinity which was until then only provisional. ([UB 112:7.1](/en/The_Urantia_Book/112#p7_1))
+For us, ascenders, divinity is not innate, it is an adventure of conquest, an achievement in time and space, it is measured by the degree of perfection as we progress. This is the meaning of the divine injunction: “become perfect”. Note that it is the fusion with our Thought Adjuster which “fixes” forever the quality of divinity which was until then only provisional. (<a id="a51_371"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1))
 
 Our life is part of a creative series of successive ages, initiated by the Trinity, supported by its various personalizations and programmed in the different ages of the universe. I emphasize the term “creative” because the Deity, as well as ourselves, participate in the actualization of potentials, constituting in this way creativity at the level of the finite, it is our contribution to the second age of the universe. But, to understand our destiny, we must begin at the beginning:
 
-> “_Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._” ([UB 19:1.6](/en/The_Urantia_Book/19#p1_6))
+> “_Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status._” (<a id="a55_520"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6))
 
 In approaching the origin and its developments, we must keep in a corner of our consciousness that the point of view of time differs considerably from the point of view of eternity. Eternal realities cannot be completely understood by our finite mind. In approaching timeless origins, there will always remain a paradox, that of the absolute versus the temporal. The authors, themselves being subabsolute, do not hide their embarrassment in trying to explain phenomena taking place in eternity; thus they use expressions such as “creation of eternity” or “eternity past”. This is why we will adopt the term “sequences” to explain developments taking place in eternity as suggested by the Divine Counselor:
 
-> “_We speak of God’s “first” thought and allude to an impossible time origin of the Eternal Son for the purpose of gaining access to the thought channels of the human intellect. Such distortions of language represent our best efforts at contact-compromise with the time-bound minds of mortal creatures. In the sequential sense the Universal Father never could have had a first thought, nor could the Eternal Son ever have had a beginning. But I was instructed to portray the realities of eternity to the time-limited minds of mortals by such symbols of thought and to designate the relationships of eternity by such time concepts of sequentiality._” ([UB 6:0.2](/en/The_Urantia_Book/6#p0_2))
+> “_We speak of God’s “first” thought and allude to an impossible time origin of the Eternal Son for the purpose of gaining access to the thought channels of the human intellect. Such distortions of language represent our best efforts at contact-compromise with the time-bound minds of mortal creatures. In the sequential sense the Universal Father never could have had a first thought, nor could the Eternal Son ever have had a beginning. But I was instructed to portray the realities of eternity to the time-limited minds of mortals by such symbols of thought and to designate the relationships of eternity by such time concepts of sequentiality._” (<a id="a59_652"></a>[UB 6:0.2](/en/The_Urantia_Book/6#p0_2))
 
 ## THE ORIGIN.
 
@@ -53,33 +77,33 @@ For a better understanding of the chronology we must anticipate the rest of this
 
 ***First remark***: By admitting as a point of origin that this solitary **I AM** has its own volition, we recognize _de facto_ that it has a goal, a design in itself. (See further sequence 1) This important remark conditions the sequence of events. Indeed, the **I AM** faces a problem in the execution of its design: _it is solitary, it fills Infinity_. Consequently, it can only call upon itself and find all the resources within itself to carry out its plan. This is the reason why it will have to “distribute itself”, establish phases within itself which will externalize itself.
 
-***Second remark***: “_AN ARCHETYPE can be projected under a material, spiritual or mental aspect, or as a combination of these energies. It can impregnate personalities, identities, entities or non-living matter. But an archetype is an archetype and remains an archetype. Only copies of it are multiplied_”. ([UB 0:6.10](/en/The_Urantia_Book/0#p6_10))
+***Second remark***: “_AN ARCHETYPE can be projected under a material, spiritual or mental aspect, or as a combination of these energies. It can impregnate personalities, identities, entities or non-living matter. But an archetype is an archetype and remains an archetype. Only copies of it are multiplied_”. (<a id="a79_310"></a>[UB 0:6.10](/en/The_Urantia_Book/0#p6_10))
 
 Let's look a little closer at these relationships:
 
-> “_2. *The Second Source and Center.* Second Person of Deity, the Eternal and Original Son; the absolute personality realities of the I AM and the basis for the realization-revelation of “I AM personality.” No personality can hope to attain the Universal Father except through his Eternal Son; neither can personality attain to spirit levels of existence apart from the action and aid of this absolute pattern for all personalities. In the Second Source and Center spirit is unqualified while personality is absolute._” ([[UB 105:3.3](/en/The_Urantia_Book/105#p3_3))
+> “_2. *The Second Source and Center.* Second Person of Deity, the Eternal and Original Son; the absolute personality realities of the I AM and the basis for the realization-revelation of “I AM personality.” No personality can hope to attain the Universal Father except through his Eternal Son; neither can personality attain to spirit levels of existence apart from the action and aid of this absolute pattern for all personalities. In the Second Source and Center spirit is unqualified while personality is absolute._” (<a id="a83_522"></a>[[UB 105:3.3](/en/The_Urantia_Book/105#p3_3))
 
 1. **Unity relationships** is the primordial relationship with oneself.
 
-> “_4. *The Third Source and Center.* Third Person of Deity, the Conjoint Actor; infinite integrator of Paradise cosmic energies with the spirit energies of the Eternal Son; perfect co-ordinator of the motives of will and the mechanics of force; unifier of all actual and actualizing reality. Through the ministrations of his manifold children the Infinite Spirit reveals the mercy of the Eternal Son while at the same time functioning as the infinite manipulator, forever weaving the pattern of Paradise into the energies of space. This selfsame Conjoint Actor, this God of Action, is the perfect expression of the limitless plans and purposes of the Father-Son while functioning himself as the source of mind and the bestower of intellect upon the creatures of a far-flung cosmos._” ([UB 105:3.5](/en/The_Urantia_Book/105#p3_5))
+> “_4. *The Third Source and Center.* Third Person of Deity, the Conjoint Actor; infinite integrator of Paradise cosmic energies with the spirit energies of the Eternal Son; perfect co-ordinator of the motives of will and the mechanics of force; unifier of all actual and actualizing reality. Through the ministrations of his manifold children the Infinite Spirit reveals the mercy of the Eternal Son while at the same time functioning as the infinite manipulator, forever weaving the pattern of Paradise into the energies of space. This selfsame Conjoint Actor, this God of Action, is the perfect expression of the limitless plans and purposes of the Father-Son while functioning himself as the source of mind and the bestower of intellect upon the creatures of a far-flung cosmos._” (<a id="a87_786"></a>[UB 105:3.5](/en/The_Urantia_Book/105#p3_5))
 
 The primordial unity relationship lays the foundations for all types of internal relationships. In man, unity relationships take place in the inner life, between oneself and one's divine alter ego, where destiny is determined and survival is ensured by choosing to do the will of the Universal Father.
 
 2\. **Relationships of duality**, they eternalize the foundations of reality.
 
-> “_4. *The Third Source and Center.* Third Person of Deity, the Conjoint Actor; infinite integrator of Paradise cosmic energies with the spirit energies of the Eternal Son; perfect co-ordinator of the motives of will and the mechanics of force; unifier of all actual and actualizing reality. Through the ministrations of his manifold children the Infinite Spirit reveals the mercy of the Eternal Son while at the same time functioning as the infinite manipulator, forever weaving the pattern of Paradise into the energies of space. This selfsame Conjoint Actor, this God of Action, is the perfect expression of the limitless plans and purposes of the Father-Son while functioning himself as the source of mind and the bestower of intellect upon the creatures of a far-flung cosmos._” ([UB 105:3.5](/en/The_Urantia_Book/105#p3_5))
+> “_4. *The Third Source and Center.* Third Person of Deity, the Conjoint Actor; infinite integrator of Paradise cosmic energies with the spirit energies of the Eternal Son; perfect co-ordinator of the motives of will and the mechanics of force; unifier of all actual and actualizing reality. Through the ministrations of his manifold children the Infinite Spirit reveals the mercy of the Eternal Son while at the same time functioning as the infinite manipulator, forever weaving the pattern of Paradise into the energies of space. This selfsame Conjoint Actor, this God of Action, is the perfect expression of the limitless plans and purposes of the Father-Son while functioning himself as the source of mind and the bestower of intellect upon the creatures of a far-flung cosmos._” (<a id="a93_786"></a>[UB 105:3.5](/en/The_Urantia_Book/105#p3_5))
 
 The relationship of duality lays the foundation for all types of interpersonal relationships, paternal, fraternal and filial. The modus operandi is Love, Mercy and Selfless Service. In man, relationships of duality are the basis of creativity, produce the fruits of the Spirit and ensure spiritual growth. It is this type of brotherly relationships in which love, mercy and selfless service are expressed.
 
 3\. **Triunity relations**. They externalize the realization of infinity as a universal function.
 
-> “_5. *The Deity Absolute.* The causational, potentially personal possibilities of universal reality, the totality of all Deity potential. The Deity Absolute is the purposive qualifier of the unqualified, absolute, and nondeity realities. The Deity Absolute is the qualifier of the absolute and the absolutizer of the qualified—the destiny inceptor._” ([[UB 105:3.6](/en/The_Urantia_Book/105#p3_6))
+> “_5. *The Deity Absolute.* The causational, potentially personal possibilities of universal reality, the totality of all Deity potential. The Deity Absolute is the purposive qualifier of the unqualified, absolute, and nondeity realities. The Deity Absolute is the qualifier of the absolute and the absolutizer of the qualified—the destiny inceptor._” (<a id="a99_354"></a>[[UB 105:3.6](/en/The_Urantia_Book/105#p3_6))
 
 The triunity relationship lays the foundation for all types of group or system relationships. The modus operandi is Justice, Power and Sovereignty. In humans, triunity relationships are the basis of teamwork and social relationships. Mastering these three qualities is an integral part of our spiritual growth program.
 
-***Third remark***: The fact of **I AM** possessing a will of its own and a purpose in itself: (self-will and self purposive Deity = Deity wanting itself and having its purpose in itself [[UB 0:1.5](/en/The_Urantia_Book/0#p1_5)]) implies that the finality (destiny) determines the development of history; in other words, that things and non-things, that the causes and effects which will last, then externalize themselves and finally actualize themselves in response to the purpose of **I AM** are determined from the beginning, and that all these events have as their finality the unity of diversity and the diversity of unity.
+***Third remark***: The fact of **I AM** possessing a will of its own and a purpose in itself: (self-will and self purposive Deity = Deity wanting itself and having its purpose in itself <a id="a103_187"></a>[[UB 0:1.5](/en/The_Urantia_Book/0#p1_5)]) implies that the finality (destiny) determines the development of history; in other words, that things and non-things, that the causes and effects which will last, then externalize themselves and finally actualize themselves in response to the purpose of **I AM** are determined from the beginning, and that all these events have as their finality the unity of diversity and the diversity of unity.
 
-This ***teleology*** [^1] is the underlying modus operandi that animates the purpose of the **I AM** in the subsequent developments of all material, intellectual, spiritual and/or personal realities whose finality is the expression of the **I AM**, in all its forms and in all possibilities. It is reassuring to know that the universe in which we live, move and have our existence, is not chaos, it is created, controlled and sustained by an **I AM**, First Source Center. This aspect of the **I AM** is essential to understand because, for each of us “_God, as your spiritual Father, is understandable by you and by all other mortals, your experiential cult concept of the Universal Father must always be less than your philosophical postulate of the infinity of the First Source-Center, the I AM._” [[UB 105:1.6](/en/The_Urantia_Book/105#p1_6)]
+This ***teleology*** [^1] is the underlying modus operandi that animates the purpose of the **I AM** in the subsequent developments of all material, intellectual, spiritual and/or personal realities whose finality is the expression of the **I AM**, in all its forms and in all possibilities. It is reassuring to know that the universe in which we live, move and have our existence, is not chaos, it is created, controlled and sustained by an **I AM**, First Source Center. This aspect of the **I AM** is essential to understand because, for each of us “_God, as your spiritual Father, is understandable by you and by all other mortals, your experiential cult concept of the Universal Father must always be less than your philosophical postulate of the infinity of the First Source-Center, the I AM._” <a id="a105_801"></a>[[UB 105:1.6](/en/The_Urantia_Book/105#p1_6)]
 
 What could this goal be?
 
@@ -87,7 +111,7 @@ The Divine Counselor gives us part of the answer but it would be presumptuous to
 
 > “_It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow._”
 > 
-> _It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow._ ([UB 10:1.1](/en/The_Urantia_Book/10#p1_1))
+> _It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow._ (<a id="a113_360"></a>[UB 10:1.1](/en/The_Urantia_Book/10#p1_1))
 
 Let us also note that the solitary and static **I AM** possesses a volition and therefore must be _absolute love_, a love that it cannot share unless it diversifies itself to bestow it on its future creation. This is undoubtedly another reason that we can put forward without fear of being mistaken.
 
@@ -97,7 +121,7 @@ So let’s look at the chronology of these different sequences.
 
 **I AM static** (_Figure 1_)
 
-> “_To the finite mind there simply must be a beginning, and though there never was a real beginning to reality, still there are certain source relationships which reality manifests to infinity. The prereality, primordial, eternity situation may be thought of something like this: At some infinitely distant, hypothetical, past-eternity moment, the I AM may be conceived as both thing and no thing, as both cause and effect, as both volition and response. At this hypothetical eternity moment there is no differentiation throughout all infinity. Infinity is filled by the Infinite; the Infinite encompasses infinity. This is the hypothetical static moment of eternity; actuals are still contained within their potentials, and potentials have not yet appeared within the infinity of the I AM. But even in this conjectured situation we must assume the existence of the possibility of self-will._” ([UB 105:1.5](/en/The_Urantia_Book/105#p1_5))
+> “_To the finite mind there simply must be a beginning, and though there never was a real beginning to reality, still there are certain source relationships which reality manifests to infinity. The prereality, primordial, eternity situation may be thought of something like this: At some infinitely distant, hypothetical, past-eternity moment, the I AM may be conceived as both thing and no thing, as both cause and effect, as both volition and response. At this hypothetical eternity moment there is no differentiation throughout all infinity. Infinity is filled by the Infinite; the Infinite encompasses infinity. This is the hypothetical static moment of eternity; actuals are still contained within their potentials, and potentials have not yet appeared within the infinity of the I AM. But even in this conjectured situation we must assume the existence of the possibility of self-will._” (<a id="a123_896"></a>[UB 105:1.5](/en/The_Urantia_Book/105#p1_5))
 
 We will represent the **I AM** as a circle with a blue dot indicating that it has its own volition.
 
@@ -118,7 +142,7 @@ So let's continue the sequencing of our **I AM**.
 
 **First step** (_Figure 2_)
 
-> “_In following the chronological portrayal of the origins of reality, there must be a postulated theoretical moment of “first” volitional expression and “first” repercussional reaction within the I AM. In our attempts to portray the genesis and generation of reality, this stage may be conceived as the self-differentiation of *The Infinite One* from *The Infinitude,* but the postulation of this dual relationship must always be expanded to a triune conception by the recognition of the eternal continuum of *The Infinity,* the I AM._” ([UB 105:2.2](/en/The_Urantia_Book/105#p2_2))
+> “_In following the chronological portrayal of the origins of reality, there must be a postulated theoretical moment of “first” volitional expression and “first” repercussional reaction within the I AM. In our attempts to portray the genesis and generation of reality, this stage may be conceived as the self-differentiation of *The Infinite One* from *The Infinitude,* but the postulation of this dual relationship must always be expanded to a triune conception by the recognition of the eternal continuum of *The Infinity,* the I AM._” (<a id="a144_540"></a>[UB 105:2.2](/en/The_Urantia_Book/105#p2_2))
 
 These operations take place within the solitary I AM which, while remaining ONE, differentiates itself to arrive at a triune conception within itself. This is the first level of differentiation within itself. It is the separation between what will become personal reality and non-personal reality.
 
@@ -155,9 +179,9 @@ Around:
 
 The purpose of the **I AM** includes everything that is capable of existing in order to fulfill destiny. This is why all material, intellectual, spiritual and personal reality as well as all mechanisms operating on, with and in these realities exist in the form of pre-reality within the **I AM**. They take shape in its differentiations.
 
-> “_Destiny is established by the volitional act of the Deities who constitute the Paradise Trinity; destiny is established in the vastness of the three great potentials whose absoluteness encompasses the possibilities of all future development; destiny is probably consummated by the act of the Consummator of Universe Destiny, and this act is probably involved with the Supreme and the Ultimate in the Trinity Absolute. Any experiential destiny can be at least partially comprehended by experiencing creatures; but a destiny which impinges on infinite existentials is hardly comprehensible. Finality destiny is an existential-experiential attainment which appears to involve the Deity Absolute. But the Deity Absolute stands in eternity relationship with the Unqualified Absolute by virtue of the Universal Absolute. And these three Absolutes, experiential in possibility, are actually existential and more, being limitless, timeless, spaceless, boundless, and measureless—truly infinite._” ([[UB 106:7.3](/en/The_Urantia_Book/106#p7_3))
+> “_Destiny is established by the volitional act of the Deities who constitute the Paradise Trinity; destiny is established in the vastness of the three great potentials whose absoluteness encompasses the possibilities of all future development; destiny is probably consummated by the act of the Consummator of Universe Destiny, and this act is probably involved with the Supreme and the Ultimate in the Trinity Absolute. Any experiential destiny can be at least partially comprehended by experiencing creatures; but a destiny which impinges on infinite existentials is hardly comprehensible. Finality destiny is an existential-experiential attainment which appears to involve the Deity Absolute. But the Deity Absolute stands in eternity relationship with the Unqualified Absolute by virtue of the Universal Absolute. And these three Absolutes, experiential in possibility, are actually existential and more, being limitless, timeless, spaceless, boundless, and measureless—truly infinite._” (<a id="a181_994"></a>[[UB 106:7.3](/en/The_Urantia_Book/106#p7_3))
 
-> _Mechanisms are the products of mind, creative mind acting on and in cosmic potentials. Mechanisms are the fixed crystallizations of Creator thought, and they ever function true to the volitional concept that gave them origin. But the purposiveness of any mechanism is in its origin, not in its function._ ([UB 118:9.5](/en/The_Urantia_Book/118#p9_5))
+> _Mechanisms are the products of mind, creative mind acting on and in cosmic potentials. Mechanisms are the fixed crystallizations of Creator thought, and they ever function true to the volitional concept that gave them origin. But the purposiveness of any mechanism is in its origin, not in its function._ (<a id="a183_309"></a>[UB 118:9.5](/en/The_Urantia_Book/118#p9_5))
 
 All this is purely hypothetical and remains an attempt by the authors to present to our finite mind, operations of eternity.
 
@@ -165,13 +189,13 @@ All this is purely hypothetical and remains an attempt by the authors to present
 
 **Duality Relations — Eternalization of the Seven Absolutes of Infinity**
 
-> _The seven prime relationships within the I AM eternalize as the Seven Absolutes of Infinity. But though we may portray reality origins and infinity differentiation by a sequential narrative, in fact all seven Absolutes are unqualifiedly and co-ordinately eternal. It may be necessary for mortal minds to conceive of their beginnings, but always should this conception be overshadowed by the realization that the seven Absolutes had no beginning; they are eternal and as such have always been. The seven Absolutes are the premise of reality. They have been described in these papers as follows:_ ([UB 105:3.1](/en/The_Urantia_Book/105#p3_1))
+> _The seven prime relationships within the I AM eternalize as the Seven Absolutes of Infinity. But though we may portray reality origins and infinity differentiation by a sequential narrative, in fact all seven Absolutes are unqualifiedly and co-ordinately eternal. It may be necessary for mortal minds to conceive of their beginnings, but always should this conception be overshadowed by the realization that the seven Absolutes had no beginning; they are eternal and as such have always been. The seven Absolutes are the premise of reality. They have been described in these papers as follows:_ (<a id="a191_599"></a>[UB 105:3.1](/en/The_Urantia_Book/105#p3_1))
 
 This third sequence (_figure 4_) inaugurates the relationships of duality. They are established between the **I AM** what the original **I AM** was and its 6 differentiations thus forming 7 metamorphoses. These relationships ***eternalize*** them outside of the **I AM** in the form of the Seven Absolutes of Infinity. These dual relationships allow the **I AM** to break the chains of its solitary absoluteness and thus, to be able to subsequently associate with each of them in sequence 4 in the form of triunity and triodity.
 
 > _The Seven Absolutes of Infinity constitute the beginnings of reality. As mortal minds would regard it, the First Source and Center would appear to be antecedent to all absolutes. But such a postulate, however helpful, is invalidated by the eternity coexistence of the Son, the Spirit, the three Absolutes, and the Paradise Isle._
 > 
-> _It is a *truth* that the Absolutes are manifestations of the I AM-First Source and Center; it is a *fact* that these Absolutes never had a beginning but are co-ordinate eternals with the First Source and Center. The relationships of absolutes in eternity cannot always be presented without involving paradoxes in the language of time and in the concept patterns of space. But regardless of any confusion concerning the origin of the Seven Absolutes of Infinity, it is both fact and truth that all reality is predicated upon their eternity existence and infinity relationships._ ([[UB 105:3.9-10](/en/The_Urantia_Book/105#p3_9))
+> _It is a *truth* that the Absolutes are manifestations of the I AM-First Source and Center; it is a *fact* that these Absolutes never had a beginning but are co-ordinate eternals with the First Source and Center. The relationships of absolutes in eternity cannot always be presented without involving paradoxes in the language of time and in the concept patterns of space. But regardless of any confusion concerning the origin of the Seven Absolutes of Infinity, it is both fact and truth that all reality is predicated upon their eternity existence and infinity relationships._ (<a id="a197_582"></a>[[UB 105:3.9-10](/en/The_Urantia_Book/105#p3_9))
 
 The authors present the Seven Absolutes of Infinity under the title of Source Center for the actual and Absolute for the potential.
 
@@ -188,7 +212,7 @@ Thus, gathered in this diagram (Figure 4), the Seven Absolutes of Infinity const
 
 Thus, the potentials and the actuals, the personal and the nonpersonal, the deities and nondeities are in place but they are not yet functional. They lay the foundation for future triune relationships of functionality.
 
-> _The I AM is unqualified infinity as *unity.* The dualities eternalize reality *foundations.* The triunities eventuate the realization of infinity as universal *function.*_ ([UB 105:4.8](/en/The_Urantia_Book/105#p4_8))
+> _The I AM is unqualified infinity as *unity.* The dualities eternalize reality *foundations.* The triunities eventuate the realization of infinity as universal *function.*_ (<a id="a214_176"></a>[UB 105:4.8](/en/The_Urantia_Book/105#p4_8))
 
 It seems necessary to me to explain the nature and attributes of each of the Absolutes and to present them in the form of a non-exhaustive list gleaned throughout the reading of the book in order to fully understand the role that they will be brought to play in the triune associations which will be presented in sequence 4 which will follow.
 
@@ -219,7 +243,7 @@ At this point in our study, do we realize how lucky we are to finally be able to
 - Paradise is not in space, it is space which exists relative to Paradise, and the chronicity of movement is determined by its relation with Paradise.
 - The Eternal Island is absolutely at rest; all other energies organized or in the process of being organized are in perpetual motion.
 - In all space, only the presence of the Unqualified Absolute is tranquil, and the Unqualified is coordinated with Paradise.
-- Paradise exists at the hearth of space, the Unqualified penetrates it and everything that is relative to its existence in this domain. [[UB 105:3.1](/en/The_Urantia_Book/105#p3_1)]
+- Paradise exists at the hearth of space, the Unqualified penetrates it and everything that is relative to its existence in this domain. <a id="a245_137"></a>[[UB 105:3.1](/en/The_Urantia_Book/105#p3_1)]
 
 **The Third Source-Center.**
 
@@ -272,10 +296,35 @@ Thus ends the first part of our exploration of the ages of the master universe. 
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Tous_ces_voyages_en_Europe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All These Trips in Europe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-84-décembre-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 84 — Décembre 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dominique_Ronfet/Etudier_le_Livre_d_Urantia_Pour_Quoi_Faire">
+          <span class="pr-2">Studying The Urantia Book. What For?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 
 [^1]: Teleology: This term is derived from two Greek words: telos (end, goal, design) and logos (reason, explanation). Teleology is the study of final causes, of finality, in analytical philosophy. It forms a specification of finalism with teleonomy. This doctrine aims to explain phenomena by the intervention of a final cause. It considers that every being has an end. It conceives of the world as a system of relations, of relationships between means and ends.
     Natural teleology, common in classical philosophy but controversial today, holds that natural entities also have intrinsic purposes, independent of human use or opinion. For example, Aristotle claimed that the intrinsic telos of an acorn was to become a fully grown oak tree. In this, teleology opposes the mechanistic view of explaining phenomena, particularly within the life sciences and cybernetics.
-    We must give thanks to Socrates and Aristotle for having formalized teleology in their philosophy. However, primitive religions and then monotheism carry within themselves this notion of divine design. Melchizedek himself taught the idea that the world comes from a divine design: “Melchizedek, however, taught some higher truths, including the conduct and organization of the local universe. But to his brilliant disciple Nordan the Kenite and his group of diligent students, he taught the truths of the superuniverse and even of Havona.” [[UB 93:3.4](/en/The_Urantia_Book/93#p3_4)]
+    We must give thanks to Socrates and Aristotle for having formalized teleology in their philosophy. However, primitive religions and then monotheism carry within themselves this notion of divine design. Melchizedek himself taught the idea that the world comes from a divine design: “Melchizedek, however, taught some higher truths, including the conduct and organization of the local universe. But to his brilliant disciple Nordan the Kenite and his group of diligent students, he taught the truths of the superuniverse and even of Havona.” <a id="a328_544"></a>[[UB 93:3.4](/en/The_Urantia_Book/93#p3_4)]
     In truth and in fact, the genesis of reality described by the authors of The Urantia Book is entirely teleological. The I AM Infinite-Infinitude has a will of its own, that of freeing itself from the chains of absoluteness, to execute its primordial design which will engender the further development of reality in relation to the finality of its design: “Be perfect as I myself am perfect.”

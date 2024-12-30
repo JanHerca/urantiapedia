@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Guy Bourhis<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/L_immanence_de_Dieu_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Immanence of God in Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Octavie_Jung/La_FEMME">
+          <span class="pr-2">The WOMAN</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In a period where the spiritual side of our personality tends to take over, we may be tempted to do an inner search outside of any dogmatism to see which way we lean.
@@ -38,3 +62,28 @@ I will not reveal here the real name of this book because a quest remains a pers
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agnes_Lazar/L_immanence_de_Dieu_en_moi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Immanence of God in Me</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-55-summer-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 55 — Summer 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Octavie_Jung/La_FEMME">
+          <span class="pr-2">The WOMAN</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Sylvette Perrier<br>© 2001 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living Our Father's Will: A Daily Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Relaxation Corner: The Mason and the Great Architect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He who believes in the 5th Revelation, who has finally had the grace to know The Urantia Book, to read it regularly, to do his best to ensure his survival, to go in the direction of the Divine Plan, Who wants in all things of his life to do the Will of the Father, prays and entrusts himself to the guidance of his Adjuster. But if, apparently and often, in the situations of everyday life, he does not always see the line to follow (despite his prayers and his good will) he must have in mind “to go in the direction of Truth, Beauty and Goodness”. It is easy to say, but not always to do!
@@ -29,3 +53,28 @@ I have my opinion on all these archetypal examples, but I think it is of course 
 
 Sylvette Perrier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Guy_Bourhis/Vivre_la_volonte_de_notre_Pere_une_experience_au_quotidien">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living Our Father's Will: A Daily Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-17-spring-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 17 — Spring 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Francois_Drouet/Coin_detente_Le_macon_et_le_grand_architecte">
+          <span class="pr-2">Relaxation Corner: The Mason and the Great Architect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

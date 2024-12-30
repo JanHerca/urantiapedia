@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Anne-Muriel Brouet<br>© 2011 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Etern-Feminine Wing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">The Life of the Masters (extracts)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The Higgs boson is named after the British physicist Peter Higgs. Many elementary particles are bosons, such as the photon, the particle of light postulated by Einstein. The Higgs boson is a key part of the theory that describes the universe, known as the Standard Model (SM). In the SM, the Higgs boson—abbreviated Higgs—explains why fundamental particles have masses. In the summer of 1964, Peter Higgs and other physicists postulated that there was a field that filled all of space. Each particle acquired its own mass by interacting with this “Higgs field.” Those that interacted strongly with the field had greater masses than those that interacted weakly, in the same way that a streamlined racing car can penetrate air more easily than a bus. A virtual particle, the Higgs boson, is associated with this mechanism. But all this remains conditional, because for the moment, the Higgs boson only exists on paper.
@@ -43,3 +67,28 @@ Whether it exists or not, the discovery will be major and well worth a Nobel Pri
 
 Anne-Muriel Brouet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anne_Morel/L_Etern_Aile_Feminine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Etern-Feminine Wing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-57-winter-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 57 — Winter 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Le_Lien/La_Vie_des_Maitres_extraits">
+          <span class="pr-2">The Life of the Masters (extracts)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

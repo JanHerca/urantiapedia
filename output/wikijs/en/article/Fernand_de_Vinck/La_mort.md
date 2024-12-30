@@ -9,6 +9,27 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Fernand de Vinck<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Concepts_Originaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Original Concepts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
@@ -41,7 +62,7 @@ DEATH IS SIMPLY THE TECHNIQUE WE USE TO ESCAPE THE LIMITATIONS OF EARTHLY LIFE
 
 Death is at the same time a conclusion and a liberation, it is the most wonderful event of this phase of life.
 
-> “Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery.” ([UB 14:5.10](/en/The_Urantia_Book/14#p5_10))
+> “Love of adventure, curiosity, and dread of monotony—these traits inherent in evolving human nature—were not put there just to aggravate and annoy you during your short sojourn on earth, but rather to suggest to you that death is only the beginning of an endless career of adventure, an everlasting life of anticipation, an eternal voyage of discovery.” (<a id="a64_357"></a>[UB 14:5.10](/en/The_Urantia_Book/14#p5_10))
 
 We really wonder what these horned devils and these ragged ghosts are doing in this transition towards the light, nor the lamentation ceremonies. A personal understanding of the joyful meaning of death is essential to eradicate from our deep mind these absurd images and superstitions which too often still influence us. When we make the effort in all serenity to understand the meaning of death, we discover that our earthly life has acquired a new value and that our behavior naturally harmonizes with difficult circumstances.
 
@@ -58,3 +79,25 @@ We can now already understand and adopt this attitude and thus bring immense rel
 Fernand DE VINCK
 Breine l'Alleud (Belgium)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/Concepts_Originaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Original Concepts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-81-mars-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 81 — Mars 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Khatukhira Bernard<br>© 2022 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relationships Between Material, Mental and Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">General Assembly Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 THE BIRTH OF URANTIA BOOK TEACHING IN UGANDA
@@ -75,3 +99,28 @@ Truly, Ugandans are thirsty and hungry for truth and God. This is a fertile soil
 
 ***Cosmic Citizens in Uganda***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ivan_Stol/Relations_Entre_Materiel_Mental_Et_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relationships Between Material, Mental and Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-100-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 100 — Décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ivan_Stol/Compte_Rendu_Assemblee_Generale">
+          <span class="pr-2">General Assembly Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

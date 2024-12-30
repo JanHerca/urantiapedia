@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Christine Baussain<br>© 2002 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, the City of the Hundreds of Caligastia, Dilmun, the City of the Nodites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-23-autumn-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 23 — Autumn 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poem for Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The countryside is gray under the white sky. As far as the eye can see, the plowed fields are exposed to the fine, insistent rain of late winter. It's been a long time since hedges and sunken paths lost the battle against land consolidation! At the edge of the village, very discreet behind the high garden wall, the silent ashram seems deserted. But it recognizes me and welcomes me, as usual, with a great surge of joy and love deep in its chest.
@@ -82,3 +106,28 @@ It's so beautiful — it's so simple — I smile at the angels.
 
 Christine Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanmarie_Chaise/Dalamatia_la_cite_des_cents_de_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dalamatia, the City of the Hundreds of Caligastia, Dilmun, the City of the Nodites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-23-autumn-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 23 — Autumn 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Myriam_Delcroix/Poeme_pour_Jesus">
+          <span class="pr-2">Poem for Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

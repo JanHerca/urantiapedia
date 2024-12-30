@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jean-Claude Romeuf<br>© 2009 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan's Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">When the Wind Blows at Night...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _His boat was called Edentia._ To sail around the world, that was Him's last dream. To sail from east to west and look for an island bordered by cliffs. “It is on an island bordered by cliffs that you will find a bird,” the young blonde girl dressed in white had told him one day. “This bird is yours and thanks to it, you will be able to fly. You must go looking for it. Before you really discover it, you will first have to climb seven cliffs.” Him had not understood the meaning of these words, but he had the feeling that the difficulty would be as great as picking up a star that had fallen into the sea. However, he knew that the young girl was not lying.
@@ -45,3 +69,28 @@ Him was not always able to grasp the meaning of the fairy's words, but he kept a
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Rodans_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan's Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-48-autumn-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 48 — Autumn 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Max_Masotti/Quand_le_vent_souffle_la_nuit">
+          <span class="pr-2">When the Wind Blows at Night...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

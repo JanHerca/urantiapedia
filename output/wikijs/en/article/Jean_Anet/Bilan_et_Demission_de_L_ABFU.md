@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Jean Anet<br>© 2016 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brief Reflections on Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Anet/L_amour_Spirituel">
+          <span class="pr-2">Spiritual Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Belgian Francophone Association of Urantia affiliated with the I.U.A.)_
@@ -36,3 +60,28 @@ Then, how did this come to fruition? Through the fruits of the spirit. I believe
 Fraternally
 **JEAN ANNET — BELGIUM**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brief Reflections on Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-75-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 75 — Septembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Anet/L_amour_Spirituel">
+          <span class="pr-2">Spiritual Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

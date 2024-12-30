@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-8-winter-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">What is What Happens After Death?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The wonderful side of the life that is offered to us is that we are free to unite as well as to disunite, and to always realize that, ultimately, because the cosmic organization of God is pyramidal, all that is union tends towards the Creator, towards the Father, towards the summit, while all that is disunion implies the necessity of new future efforts to unite us again or to definitively resign ourselves from the divine project. It seems, in fact, that we can never succeed in progressing spiritually if we leave behind us fundamental enmities on which we cannot return. Jesus invited us to love even our enemies, having, in truth, no merit in loving only those who love us. The masterful example of this is given to us in The Urantia Book.
@@ -23,7 +47,7 @@ The parable of the lost son is enough to demonstrate the immense goodness of God
 
 Intelligence of the heart is therefore synonymous with open-mindedness, with looking at others while always trying to understand them more without ever condemning them a priori. It is naturally still Jesus teaching his apostles, who explains to us best, through a striking image, what we must understand by open-mindedness thanks to intelligence of the heart, what we must understand by tolerance thanks to the effort to understand others.
 
-> “_In the mind’s eye conjure up a picture of one of your primitive ancestors of cave-dwelling times—a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead. Such a picture hardly depicts the divine dignity of man. But allow us to enlarge the picture. In front of this animated human crouches a saber-toothed tiger. Behind him, a woman and two children. Immediately you recognize that such a picture stands for the beginnings of much that is fine and noble in the human race, but the man is the same in both pictures. Only, in the second sketch you are favored with a widened horizon. You therein discern the motivation of this evolving mortal. His attitude becomes praiseworthy because you understand him. If you could only fathom the motives of your associates, how much better you would understand them. If you could only know your fellows, you would eventually fall in love with them._” ([UB 100:4.5](/en/The_Urantia_Book/100#p4_5))
+> “_In the mind’s eye conjure up a picture of one of your primitive ancestors of cave-dwelling times—a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead. Such a picture hardly depicts the divine dignity of man. But allow us to enlarge the picture. In front of this animated human crouches a saber-toothed tiger. Behind him, a woman and two children. Immediately you recognize that such a picture stands for the beginnings of much that is fine and noble in the human race, but the man is the same in both pictures. Only, in the second sketch you are favored with a widened horizon. You therein discern the motivation of this evolving mortal. His attitude becomes praiseworthy because you understand him. If you could only fathom the motives of your associates, how much better you would understand them. If you could only know your fellows, you would eventually fall in love with them._” (<a id="a49_986"></a>[UB 100:4.5](/en/The_Urantia_Book/100#p4_5))
 
 Are there limits to the intelligence of the heart? We must answer in the negative, because, if it is only through love that everything can begin, it is also through love that everything can last forever.
 
@@ -31,3 +55,28 @@ This is the primordial emergence in which Jesus has invited us all to joyfully p
 
 Jeanmarie Chair
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998 — Contents</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-8-winter-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 8 — Winter 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">What is What Happens After Death?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

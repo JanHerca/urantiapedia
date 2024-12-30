@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Michel Bezier<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For a friend</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">A life must die</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> “_The eleven had scarcely ceased their discussions of the discourse on the vine and the branches when the Master, indicating that he was desirous of speaking to them further and knowing that his time was short, said: “When I have left you, be not discouraged by the enmity of the world. Be not downcast even when fainthearted believers turn against you and join hands with the enemies of the kingdom. If the world shall hate you, you should recall that it hated me even before it hated you. If you were of this world, then would the world love its own, but because you are not, the world refuses to love you. You are in this world, but your lives are not to be worldlike. I have chosen you out of the world to represent the spirit of another world even to this world from which you have been chosen. But always remember the words I have spoken to you: The servant is not greater than his master. If they dare to persecute me, they will also persecute you. If my words offend the unbelievers, so also will your words offend the ungodly. And all of this will they do to you because they believe not in me nor in Him who sent me; so will you suffer many things for the sake of my gospel. But when you endure these tribulations, you should recall that I also suffered before you for the sake of this gospel of the heavenly kingdom._” ([UB 180:3.1](/en/The_Urantia_Book/180#p3_1))
+
+> “_The eleven had scarcely ceased their discussions of the discourse on the vine and the branches when the Master, indicating that he was desirous of speaking to them further and knowing that his time was short, said: “When I have left you, be not discouraged by the enmity of the world. Be not downcast even when fainthearted believers turn against you and join hands with the enemies of the kingdom. If the world shall hate you, you should recall that it hated me even before it hated you. If you were of this world, then would the world love its own, but because you are not, the world refuses to love you. You are in this world, but your lives are not to be worldlike. I have chosen you out of the world to represent the spirit of another world even to this world from which you have been chosen. But always remember the words I have spoken to you: The servant is not greater than his master. If they dare to persecute me, they will also persecute you. If my words offend the unbelievers, so also will your words offend the ungodly. And all of this will they do to you because they believe not in me nor in Him who sent me; so will you suffer many things for the sake of my gospel. But when you endure these tribulations, you should recall that I also suffered before you for the sake of this gospel of the heavenly kingdom._” (<a id="a37_1333"></a>[UB 180:3.1](/en/The_Urantia_Book/180#p3_1))
 
 I wait for night. I walk in a city that is strangling itself a little more each day. I walk in the streets, the boulevards. You walk in the streets, the boulevards. You will not recognize me. Like you, I walk quickly. I know where to go. We all know where to go. No questions. Mired in the mirror of our vain contemplation, we pile up, ever more greedy, our desires for possession in a bottomless pit. Behind our facades of prestige, a meaningless nothingness devours us. We are terribly weakened and we know it deep inside ourselves. The fluidity of life has left us.
 
@@ -107,3 +131,28 @@ Today I wait for the night. I walk in a city that is choking a little more each 
 
 Michel Bezier
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chris_Ragetly/Pour_un_ami">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For a friend</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-29-spring-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 29 — Spring 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eric_Iannucci/Une_vie_doit_mourir">
+          <span class="pr-2">A life must die</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

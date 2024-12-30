@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Dominique Ronfet<br>© 2024 French-speaking Association of Readers of the Urantia Book</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part Two: The Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Survivrons_nous">
+          <span class="pr-2">Will We Survive?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Deep in the thick forest of **Mentaleum**, three companions stood around a crackling fire, their faces lit by the dancing flames. **Perceval**, the intuitive, gazed beyond the trees, as if he could read the secrets of the universe in their whisper.
@@ -43,5 +67,30 @@ And so, in the forest of Mentaleum, the three companions learned that the meanin
 
 
 > “The myriad planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who can know God, receive divine affection, and love God in return. . .
-> All enlightened worlds recognize and worship the Universal Father, the eternal author and infinite sustainer of all creation. In the innumerable universes, creatures of will have undertaken the long, long journey to Paradise, the fascinating struggle of the eternal adventure to reach God the Father. The transcendent goal of the children of time is to find the eternal God, to understand the divine nature, to recognize the Universal Father. God-knowing creatures have but one supreme ambition, one burning desire, to be like him in his own sphere in his Paradise perfection of personality and in his universal sphere of right supremacy. From the Universal Father who dwells in eternity has come the supreme command: “Be ye perfect, even as I am perfect.” “In love and mercy the Paradise messengers have carried this divine exhortation down through the ages and universes, even to such lowly creatures of animal origin as the human races of Urantia.” [[UB 1:0.2-3](/en/The_Urantia_Book/1#p0_2)]
+> All enlightened worlds recognize and worship the Universal Father, the eternal author and infinite sustainer of all creation. In the innumerable universes, creatures of will have undertaken the long, long journey to Paradise, the fascinating struggle of the eternal adventure to reach God the Father. The transcendent goal of the children of time is to find the eternal God, to understand the divine nature, to recognize the Universal Father. God-knowing creatures have but one supreme ambition, one burning desire, to be like him in his own sphere in his Paradise perfection of personality and in his universal sphere of right supremacy. From the Universal Father who dwells in eternity has come the supreme command: “Be ye perfect, even as I am perfect.” “In love and mercy the Paradise messengers have carried this divine exhortation down through the ages and universes, even to such lowly creatures of animal origin as the human races of Urantia.” <a id="a69_954"></a>[[UB 1:0.2-3](/en/The_Urantia_Book/1#p0_2)]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georges_Donnadieu/Deuxieme_Partie_La_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part Two: The Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_le_lien#le-lien-urantien-issue-106-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Issue 106 — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Gallo/Survivrons_nous">
+          <span class="pr-2">Will We Survive?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

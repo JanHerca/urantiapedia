@@ -65,7 +65,7 @@ The difference between a person who has an inner life that knows God and a perso
 
 Jesus gave us a first definition of the soul:
 
-> “The soul is the self-reflective, truth-discerning, and spirit-perceiving part of man which forever elevates the human being above the level of the animal world.” ([UB 133:6.5](/en/The_Urantia_Book/133#p6_5))
+> “The soul is the self-reflective, truth-discerning, and spirit-perceiving part of man which forever elevates the human being above the level of the animal world.” (<a id="a67_166"></a>[UB 133:6.5](/en/The_Urantia_Book/133#p6_5))
 
 The soul has its own existence and, as much as we must participate in its growth by our dynamic spiritual actions, that is to say by producing the fruits of the spirit, it nourishes us in return by the consciousness that we have of it which stimulates our spiritual imagination enlightened by our Adjuster and the Spirit of Truth.
 
@@ -73,7 +73,7 @@ The soul has its own existence and, as much as we must participate in its growth
 <img src="/image/article/Reflectivite/2024_05/007.jpg">
 </figure>
 
-Jesus said: [UB 140:3.13](/en/The_Urantia_Book/140#p3_13)... “You are the light of the world...”
+Jesus said: <a id="a75_12"></a>[UB 140:3.13](/en/The_Urantia_Book/140#p3_13)... “You are the light of the world...”
 
 We must be his apostles and light the way for people who do not yet see the light which is in all those who are preparing to be born of the Spirit.
 
@@ -85,19 +85,19 @@ There is this sentence that comes to mind and says:
 
 A lively positive attitude, the expression on our face, a benevolent smile become the gateway to making contact with the soul of the people we meet on our path. I am inspired by the way Jesus spoke to people.
 
-> . . .Jesus spoke directly to men’s souls. He was a teacher of man’s spirit, but through the mind. He lived with men. ([UB 141:7.10](/en/The_Urantia_Book/141#p7_10))
+> . . .Jesus spoke directly to men’s souls. He was a teacher of man’s spirit, but through the mind. He lived with men. (<a id="a87_120"></a>[UB 141:7.10](/en/The_Urantia_Book/141#p7_10))
 
 And also:
 
 > ... As a rule, those to whom he taught the most said the least. Those who benefited most from his personal ministry were overworked, anxious, and depressed people, to whom the opportunity to pour out their souls to a sympathetic and understanding listener brought great relief; Jesus was that listener, and more.
 
-> Jesus was never in a hurry. He had time to comfort his fellow men “as he passed by.” And he always made his friends feel at ease. He was a charming listener. ([UB 171:7.5](/en/The_Urantia_Book/171#p7_5))
+> Jesus was never in a hurry. He had time to comfort his fellow men “as he passed by.” And he always made his friends feel at ease. He was a charming listener. (<a id="a93_161"></a>[UB 171:7.5](/en/The_Urantia_Book/171#p7_5))
 
-> . . . He inspired profound self-confidence and robust courage in all who enjoyed his association. When he smiled on a man, that mortal experienced increased capacity for solving his manifold problems. ([UB 171:7.6](/en/The_Urantia_Book/171#p7_6))
+> . . . He inspired profound self-confidence and robust courage in all who enjoyed his association. When he smiled on a man, that mortal experienced increased capacity for solving his manifold problems. (<a id="a95_204"></a>[UB 171:7.6](/en/The_Urantia_Book/171#p7_6))
 
 What Jesus did, we can do; connect with our fellow human beings, be inspired by letting our souls connect with theirs. We have the keys to instruct, ***The Urantia Book*** has revealed them to us and the midwayers have taught us that:
 
-> . . . The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth. ([UB 194:3.4](/en/The_Urantia_Book/194#p3_4))
+> . . . The spiritual forward urge is the most powerful driving force present in this world; the truth-learning believer is the one progressive and aggressive soul on earth. (<a id="a99_175"></a>[UB 194:3.4](/en/The_Urantia_Book/194#p3_4))
 
 This is the impulse I feel with the stimulation of my living soul
 
