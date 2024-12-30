@@ -17,7 +17,7 @@ class Paralells {
 	 * footnotes = [
 	 *   {
 	 *     ub_ref: '0:1.20-26',
-	 *     book_location: 'Hartshorne1-1-8'
+	 *     book_location: 'Hartshorne1-1-p8'
 	 *   }
 	 * ];
 	 */
@@ -211,7 +211,7 @@ class Paralells {
 				const ch = (isNaN(parseInt(chapter)) ? '' :
 					this.tr('bookChapter').toLowerCase() + ' ');
 				const page = vals[2];
-				const path = `/${blan}/book/${book.path}/${chapter}#p${page}`;
+				const path = `/${blan}/book/${book.path}/${chapter}#${page}`;
 				const html = ` ${f.ub_ref}: <i>${title}</i>, ${book.author}, ` +
 					`<a href="${path}">${ch}${chapter}, p. ${page}</a>`;
 				return {
