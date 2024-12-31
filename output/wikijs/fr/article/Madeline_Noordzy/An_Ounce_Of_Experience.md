@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il existe probablement un proverbe anglais qui signifie l’équivalent de : « Une once d’expérience vaut mieux qu’une livre de théorie », ou devons-nous rester métriques et dire qu’un gramme vaut mieux qu’un kilo ?
@@ -52,3 +73,25 @@ Une fois cette transaction entre l’esprit humain et divin effectuée, quelque 
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

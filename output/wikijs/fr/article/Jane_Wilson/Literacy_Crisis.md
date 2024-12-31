@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Jane Wilson<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_It_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/What_Now">
+          <span class="pr-2">Et maintenant?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Jane Wilson, Brisbane_
@@ -38,3 +62,28 @@ Bien évidemment, les publications à travers le monde vont et viennent au cours
 
 En attendant, profitez de notre solitude. Peu de gens lisent ceci.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_It_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/What_Now">
+          <span class="pr-2">Et maintenant?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="pr-2">Le Livre d'URANTIA dans 200 ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La plupart d’entre nous ont été confrontés à des documentaires télévisés, à des articles de vulgarisation scientifique et même à des articles sérieux rédigés par des scientifiques professionnels qui nous disent, sans réserve, que notre univers a commencé avec le Big Bang il y a environ 15 à 20 milliards d’années. Cette information est généralement présentée comme s’il s’agissait d’un fait prouvé.
@@ -50,3 +74,28 @@ Ken Glasziou, Maleny, Queensland.
 <img src="/image/article/606/end.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="pr-2">Le Livre d'URANTIA dans 200 ans</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

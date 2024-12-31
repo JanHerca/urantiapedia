@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="pr-2">La foi et la voie de canalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Groupe d'étude de la Sunshine Coast_
@@ -155,3 +179,28 @@ Milgram, S. Obéissance à l'autorité (Harper, New York, 1974)
 
 Zimbarbo, P., Haney, C., Banks, W. \& Jaffe, D. La psychologie de l'emprisonnement : privation, pouvoir et pathologie Université de Stanford (1972)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="pr-2">La foi et la voie de canalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

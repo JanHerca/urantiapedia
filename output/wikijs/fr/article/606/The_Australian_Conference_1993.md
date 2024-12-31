@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vision spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">La fin justifie-t-elle parfois des moyens indignes ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C'est avec grand plaisir que nous annonçons la Conférence Australienne de 1993 pour les lecteurs du _Livre d'URANTIA_.
@@ -72,3 +96,28 @@ Sunnybank, 4109, Queensland, Australie.
 <img src="/image/article/606/maps.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vision spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">La fin justifie-t-elle parfois des moyens indignes ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

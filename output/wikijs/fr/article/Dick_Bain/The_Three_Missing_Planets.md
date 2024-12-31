@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Dick Bain<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer notre propre arrière-cour – Le système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans <a id="a14_5"></a>[LU 57:5.9](/fr/The_Urantia_Book/57#p5_9) du _Le Livre d'URANTIA_, nous sommes informés que cinq planètes intérieures, Jupiter, Saturne, et cinq planètes extérieures ont formé la matière extraite de notre soleil par le passage du système Angona. Cela fait 12 planètes, mais on ne nous en apprend que neuf à l'école. Où sont les trois autres ?
@@ -24,3 +45,25 @@ Un article paru dans le numéro de 1988 d'ASTRONOMY intitulé « The Pull of Pla
 
 Dick Bain, Saint-Pétersbourg, Floride. ETATS-UNIS.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorer notre propre arrière-cour – Le système solaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

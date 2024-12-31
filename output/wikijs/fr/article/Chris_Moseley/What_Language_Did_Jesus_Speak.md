@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Chris Moseley<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensée spiritualisée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor — Oiseau passager d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ nous donne un aperçu privilégié de la vie entière de Jésus, de sa naissance à sa mort, et lorsque nous lisons la jeunesse et l'éducation de Jésus, nous voyons que l'enfance de Jésus n'était pas essentiellement différente de celle de millions d'autres enfants. Mais l'effusion terrestre de Jésus s'est produite dans un environnement linguistiquement et culturellement très diversifié, qui exigeait de lui l'apprentissage d'au moins deux langues. Même à l'âge de cinq ans, nous lisons sur <a id="a14_508"></a>[LU 123:2.14](/fr/The_Urantia_Book/123#p2_14) que Jésus... « s’exerça de bonne heure à écrire en araméen, en grec et plus tard en hébreu, car il apprit en son temps à lire, à écrire et à parler couramment les trois langues. »
@@ -64,3 +88,28 @@ Extrait de : L'ASCENDER, automne 1989
 > 
 > Eléonore Roosevelt
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensée spiritualisée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor — Oiseau passager d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

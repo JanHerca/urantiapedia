@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Chris Moseley<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="pr-2">La fraternité des hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je ne suis pas qualifié pour porter un jugement sur les perspectives de développement d’une religion évolutionniste dans chaque pays, et j’hésite à généraliser sur le sujet. Je préférerais tirer mes conclusions du livre lui-même. Mais il suffit de regarder autour de nous pour constater qu’une religion mondiale est encore loin. En fait, _Le Livre URANIIA_ dit <a id="a14_361"></a>[LU 71:8](/fr/The_Urantia_Book/71#p8) dans « Le caractère de l'État » dans le document sur « Le développement de l'État » que l'évolution d'une religion mondiale est la 12ème et dernière étape dans l'évolution d'un État :
@@ -72,3 +96,28 @@ Chris Moseley, Caversham, Berkshire, Royaume-Uni
 
 Ce texte d'une conférence donnée par Chris à la Conférence du Pacifique Sud, Robertson, NSW, octobre 1988, a été publié pour la première fois dans l'édition d'automne du bulletin du groupe d'étude _Le Livre URANTIA_ « L'Ascender » dont Chris est l'éditeur.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="pr-2">La fraternité des hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

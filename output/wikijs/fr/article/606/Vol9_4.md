@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett, Ken \& Betty Glasziou, Matt Neibaur<br>© 1988 ANZURA, Australie et Nouveau Association Urantia de Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">La deuxième prédiction remarquable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -211,3 +232,25 @@ Comme vous l'avez probablement déjà découvert, aucun indice 29 ne manquait. N
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">La deuxième prédiction remarquable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

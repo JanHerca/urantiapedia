@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ron Cyr<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission pédagogique. « Si ce ne sont pas de vraies personnalités, alors quoi ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">La Conférence australienne 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ron Cyr, Blaine, États-Unis_
@@ -50,3 +74,28 @@ J'espère avoir été capable de montrer qu'une révélation spirituelle ne peut
 
 Soyez de bonne humeur et la Vision soit avec nous tous.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mission pédagogique. « Si ce ne sont pas de vraies personnalités, alors quoi ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">La Conférence australienne 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

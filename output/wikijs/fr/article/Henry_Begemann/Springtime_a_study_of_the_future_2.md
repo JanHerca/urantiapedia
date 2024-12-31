@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Henry Begemann<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tapisserie Ou Service Amoureux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_4">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Maintenant que des « prophéties » apparaissent parmi les croyants dans _Le Livre d’URANTIA_, il peut être opportun et utile d’étudier plus en profondeur ce que dit notre livre à propos d’un avenir relativement proche.
@@ -88,3 +112,28 @@ Bon courage, c'est déjà le printemps ?
 
 Henry Begemann, Wassenaar, Pays-Bas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Tapisserie Ou Service Amoureux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_4">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

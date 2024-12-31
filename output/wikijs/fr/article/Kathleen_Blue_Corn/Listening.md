@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Blue Corn<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Doing_A_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire un service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="pr-2">Convenir d'être en désaccord</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai récemment été exposé à Six-O-Six par l'intermédiaire de mes amis Sananda et White Cloud. Je tiens à exprimer mon appréciation pour vos efforts pour promouvoir la bonne volonté internationale et la compréhension entre les lecteurs du _Livre d'URANTIA_.
@@ -26,3 +50,28 @@ J'ai une confiance absolue dans leurs développements passionnants avec notre Pr
 
 **Kathleen Blue Corn, Camptonville, Californie, États-Unis**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Doing_A_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire un service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="pr-2">Convenir d'être en désaccord</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

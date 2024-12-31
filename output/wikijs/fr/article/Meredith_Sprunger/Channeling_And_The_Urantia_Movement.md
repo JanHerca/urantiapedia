@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Meredith Sprunger<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="pr-2">Canalisation et communication avec le monde des esprits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Meredith J. Sprunger_
@@ -44,3 +68,28 @@ On se demande pourquoi les gens ressentent le besoin de canaliser une guidance q
 
 Le contenu des enseignements de Ham est fondamentalement constructif et est sans aucun doute utile à certaines personnes. Il y a aussi ceux qui n’ont pas trouvé le courage et la confiance nécessaires pour lancer un travail de sensibilisation et qui le feront lorsqu’ils seront encouragés par la transmission des messages. Au mieux, une telle activité de canalisation peut être un complément à l'étude du Livre d'URANTIA, à l'orientation et à l'initiative individuelle ; au pire, cela pourrait s'y substituer. Nous devons toujours évaluer de manière critique la qualité de tout type d’orientation.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="pr-2">Canalisation et communication avec le monde des esprits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling, David Elders, Ken T. Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Rapport sur la réunion régionale du Pacifique Sud des lecteurs du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -205,3 +226,25 @@ L'obscurité disparaît !
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Rapport sur la réunion régionale du Pacifique Sud des lecteurs du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

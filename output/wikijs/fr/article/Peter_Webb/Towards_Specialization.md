@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Peter Webb<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Webb/Readers_Get_Together_In_The_West">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rendez-vous des lecteurs en Occident</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="pr-2">Rapport sur Noosa '89</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il semble y avoir, dans la seconde moitié du XXe siècle, une propension à la spécialisation – à voir la réalité dans notre propre sphère d’activité. Chaque décennie a son slogan. Les années 80 semblent être une période de considérations économiques et matérielles, en général bien sûr.
@@ -38,3 +62,28 @@ Jésus était unique, pas excentrique. Dans nos petites actions, nous pouvons no
 
 Peter Webb, Yanchep, WA :
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Webb/Readers_Get_Together_In_The_West">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rendez-vous des lecteurs en Occident</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="pr-2">Rapport sur Noosa '89</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

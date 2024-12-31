@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une analyse de l'affaire Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">Plus nous donnons, plus nous recevons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall_
@@ -26,3 +50,28 @@ Accordez un peu de temps à vos séraphins. Offrez-leur un peu de plaisir aujour
 
 Je veux que mes séraphins rient de bonne humeur de mes blagues, avec moi, l'initiateur de l'humour léger. Je veux que mes séraphins visitent de nouveaux endroits chaque jour et ne se préparent pas à un autre voyage en enfer, à cause de mon refus d'apprendre. Je veux que mes séraphins soient récompensés sur les lieux de leur création. Je veux me synchroniser avec leurs plans célestes. Ne pas arriver trop tard. Trop tôt. Ou pas du tout. Et en enlevant les lunettes roses. Mes séraphins méritent un peu de considération et d'amour. Peut être demain!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une analyse de l'affaire Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">Plus nous donnons, plus nous recevons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

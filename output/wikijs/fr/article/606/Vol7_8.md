@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Neil Francey, Ken Glasziou, Trevor Swadling, Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouveau Association Urantia de Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">Le Livre d'Urantia : La question de l'origine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -148,3 +169,25 @@ Adresse: \_\_\_\_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">Le Livre d'Urantia : La question de l'origine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

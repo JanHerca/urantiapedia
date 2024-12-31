@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2 py-1">© 1986 Neil Francey, Peter Toy, Ken Glasziou, Madeline Noordzy, Kathleen Swadling<br>© 1986 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Going_International">
+          <span class="pr-2">Aller à l'international</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -160,3 +181,25 @@ Parc Avon, PL 33825-1100
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Going_International">
+          <span class="pr-2">Aller à l'international</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

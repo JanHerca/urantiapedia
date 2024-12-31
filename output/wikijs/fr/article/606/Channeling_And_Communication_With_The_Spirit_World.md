@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Channeling_And_The_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La canalisation et le mouvement Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="pr-2">Canalisation et troubles mentaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le groupe d'étude de la Sunshine Coast_
@@ -66,3 +90,28 @@ Même la validité du message conditionnel auquel se réfère la publication aut
 
 Il est devenu évident que dès les premiers jours, de nombreux lecteurs du Livre d'URANTIA, à tous les niveaux, ont flirté avec la canalisation et des phénomènes psychiques similaires. Directement basé sur les enseignements du livre, nous pensons que la plupart des messages, censés émaner d'êtres supérieurs, sont simplement le produit de l'esprit des participants humains. Cependant, il est bon de se rappeler que Caligastia est « _toujours libre sur Urantia de poursuivre ses desseins infâmes_ » (<a id="a66_499"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6)), et que la canalisation et les pratiques psychiques similaires peuvent être le seul moyen efficace par lequel il peut mettre en œuvre ses plans. Ceux qui pensent qu’ils entendent des voix ou sont des canaux vers le monde des esprits doivent être conscients que le livre avertit spécifiquement qu’il serait préférable de rejeter les prétendus « messages » plutôt que de se tromper en les exaltant par erreur au rang de divinité. Il n’y a vraiment aucun moyen de connaître la différence autrement que par l’effet que de tels messages peuvent finalement avoir sur la production de fruits spirituels. Rappelez-vous également que l’apôtre Pierre croyait que, sur l’ordre de Jésus, il marchait sur l’eau. Le livre nous dit que non.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Channeling_And_The_Urantia_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La canalisation et le mouvement Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="pr-2">Canalisation et troubles mentaux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

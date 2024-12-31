@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 William Wentworth<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variété — Les dés de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _William Wentworth, Towamba, Nouvelle-Galles du Sud_
@@ -26,3 +50,28 @@ Le deuxième point que je souhaite souligner est que, considéré dans son inté
 
 La préoccupation pour les aspects dramatiques de l'inhabituel et de l'exceptionnel peut être stimulante et excitante, mais ce n'est pas le message du _Livre d'URANTIA_. Je soutiens l'éditeur de Six-O-Six dans ses commentaires, et j'exhorte les étudiants du _Livre d'URANTIA_ à ignorer ces distractions glamour qui ne servent qu'à saper son message fondamental à l'humanité.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variété — Les dés de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

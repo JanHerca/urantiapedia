@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Neil Francey<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Compte tenu du taux de croissance actuel des ventes de livres en Australie, il est raisonnable de s’attendre à cette augmentation à l’échelle mondiale dans les pays anglophones et francophones. Il est difficile de prévoir une alternative probable. Les nombres exigeront des mesures significatives pour maintenir la nature personnelle du travail du Livre d'URANTIA.
@@ -32,3 +56,28 @@ Un groupe international, composé de membres individuels, doit toujours faire pr
 
 Neil Francey, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

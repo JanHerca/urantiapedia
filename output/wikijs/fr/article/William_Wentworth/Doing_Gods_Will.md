@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 William Wentworth<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deux prédictions remarquables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Value_For_Money">
+          <span class="pr-2">Le rapport qualité prix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il n’y a pas si longtemps, j’ai eu une conversation avec un fervent catholique romain qui partageait une maison avec un chrétien radical « né de nouveau ». Il était déconcerté par l'habitude du radical de faire toutes sortes de choses bizarres « parce que Dieu me l'a dit ». Il est finalement arrivé à la conclusion que le radical utilisait la conviction de la direction divine pour justifier ses propres préjugés et idées préconçues et pour éviter de faire le travail intellectuel consistant à ajuster ses idées à la réalité de son expérience. Chaque fois qu’un problème surgissait, il était résolu par un appel direct et immédiat à Dieu. La « solution » impulsive qui est alors venue à l’esprit a été investie d’une autorité absolue (« Dieu me l’a dit ») et la poursuite de la discussion sur la question est devenue inutile.
@@ -44,3 +68,28 @@ William Wentworth, Towamba, Nouvelle-Galles du Sud
 > 
 > Epictète.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deux prédictions remarquables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Value_For_Money">
+          <span class="pr-2">Le rapport qualité prix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

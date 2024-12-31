@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_8">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/John_The_Revelator">
+          <span class="pr-2">Jean le Révélateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ken Glasziou
@@ -50,3 +74,28 @@ La permission fut finalement donnée de publier les articles d'URANTIA. Un accen
 
 Ce récit de l'origine du _Livre d'URANTIA_, comme nous l'avons souligné plus tôt, n'est pas spirituellement satisfaisant. Seule une expérience directe du message superlatif du livre peut confirmer la source spirituelle de son origine. En réalité, les informations sur son origine n’ont rien à voir avec la vérité ou la qualité spirituelle du livre. Cela doit être jugé par le lecteur sur la base du contenu du livre. Le message du _Livre d'URANTIA_ a une auto-authentification étonnante. L'esprit intérieur de Wan affirme la vérité éternelle de son message.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_8">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/John_The_Revelator">
+          <span class="pr-2">Jean le Révélateur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

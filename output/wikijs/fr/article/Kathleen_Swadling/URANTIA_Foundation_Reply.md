@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'en penses-tu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">Que dit le Livre d’Urantia à propos de la communication avec le monde des esprits ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _résumé par Kathleen Swadling, Sydney_
@@ -71,3 +95,28 @@ Mo prétend que la Fondation aurait attribué la paternité humaine à certaines
 
 « Les commentaires généraux de M. Siegel sur la loi fédérale sur le droit d'auteur semblent être basés sur son interprétation erronée des faits de droit en relation avec les trois sujets évoqués ci-dessus. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'en penses-tu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">Que dit le Livre d’Urantia à propos de la communication avec le monde des esprits ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

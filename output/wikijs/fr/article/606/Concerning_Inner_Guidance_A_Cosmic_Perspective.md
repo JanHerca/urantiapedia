@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_2part2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 Partie 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="pr-2">Voir le monde sous un nouveau jour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au Peuple d’Urantia :
@@ -38,3 +62,28 @@ Arizona, États-Unis. 31 janvier 1991
 
 Gabriel de Sedona
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_2part2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 Partie 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="pr-2">Voir le monde sous un nouveau jour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

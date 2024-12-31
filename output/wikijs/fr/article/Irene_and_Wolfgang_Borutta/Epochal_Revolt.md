@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Irene et Wolfgang Borutta<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de nouvelles nourries à la cuillère ou censurées</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dès le début, nous avons apprécié Six-OSix et, au fil du temps, nous l'avons vu se développer, devenir plus intéressant, varié et professionnel. Dernièrement, des articles contenant des informations supplémentaires ont été publiés dans Six-O-Six, des articles qui ne dérivent pas « strictement » du _Livre d'URANTIA_. Cela a provoqué un tollé chez certaines personnes.
@@ -88,3 +109,25 @@ Autre lecture de référence : « Springtime » de Henry Begemann.
 
 **Irène et Wolfgang Borutta, Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pas de nouvelles nourries à la cuillère ou censurées</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

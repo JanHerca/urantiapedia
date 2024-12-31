@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Robert L. Blackstock<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heure des questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Vision spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Robert L. Blackstock, Concord, Californie, États-Unis_
@@ -66,3 +90,28 @@ De même que nous n'hésitons pas, lorsque nous parcourons des routes inconnues,
 
 Ce qui précède est un effort pour répondre à la question : « Canaliser, si ce n’est de véritables personnalités, alors quoi ? Il est difficile et impossible d’écrire quoi que ce soit de vraiment significatif dans un espace aussi court, et mon intention était de renvoyer le lecteur à l’essai de Jung mentionné ci-dessus. Ce point de vue psychologique n'est pas incompatible avec les enseignements du _Livre d'URANTIA_. Au contraire, ils ont beaucoup de points communs et, dans une large mesure, se confirment mutuellement, et l'étude de chacun à la lumière de l'autre s'avère très intéressante. Une telle approche peut être une entreprise fascinante, et en même temps fournir cette base nécessaire, sans laquelle le contenu du _Livre d'URANTIA_ peut perturber la psyché humaine, tant chez l'individu que dans le groupe.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heure des questions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Vision spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

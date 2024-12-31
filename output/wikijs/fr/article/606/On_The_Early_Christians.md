@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une vision pour l'avenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _extrait de « Les religions de l'homme », par Huston Smith_
@@ -36,3 +57,25 @@ Cet amour et le fait qu'il soit réellement entré dans leur vie ont été si é
 
 > « _Il est vrai qu’une merveilleuse manifestation d’amour fraternel et de bonne volonté sans pareille prit naissance dans ces communautés primitives de croyants, ... leurs membres étaient remplis de joie et vivaient une vie si nouvelle et si exceptionnelle que tous les hommes étaient attirés par leurs enseignements au sujet de Jésus._ » (<a id="a36_341"></a>[LU 194:4.6](/fr/The_Urantia_Book/194#p4_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une vision pour l'avenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/On_Group_Conformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la conformité du groupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="pr-2">Le carrefour des révélations d’époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Queensland_
@@ -70,3 +94,28 @@ Je vous laisse avec cette pensée :
 
 > « _Je vous ai appelés à naitre à nouveau, à naitre de l’esprit. Je vous ai fait sortir des ténèbres de l’autorité et de la léthargie de la tradition pour vous faire entrer dans la lumière transcendante où vous réaliserez la possibilité de faire par vous-mêmes la plus grande découverte possible pour l’âme humaine — l’expérience divine de trouver Dieu pour vous-mêmes, en vous-mêmes et par vous-mêmes, et d’accomplir tout cela comme un fait de votre expérience personnelle._ » (<a id="a70_480"></a>[LU 155:6.3](/fr/The_Urantia_Book/155#p6_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/On_Group_Conformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la conformité du groupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="pr-2">Le carrefour des révélations d’époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

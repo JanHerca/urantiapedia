@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conférence australienne 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">Extrait du grand débat sur l'alphabétisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
@@ -70,3 +94,28 @@ Il est inconcevable que l’Esprit de Vérité nous guide à adopter délibéré
 
 Si nous voulons surmonter nos déficiences génétiques, il semble que nous ayons deux choses à faire. Nous devons connaître la vie de Jésus. Nous pouvons l’obtenir du livre. En même temps, nous devons entrer en contact plus étroit avec l’Esprit de Vérité. Une fois ces objectifs réalisés, existe-t-il une meilleure façon de les mettre en œuvre que celle recommandée dans le livre de Sheldon ? C’est demander : « Qu’aurait fait Jésus ? Puis je le fais.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conférence australienne 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">Extrait du grand débat sur l'alphabétisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

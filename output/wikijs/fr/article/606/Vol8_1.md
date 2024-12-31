@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Henri Begemann, Meredith Sprunger<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-1-janvier-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">Une question de priorités</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -245,3 +266,25 @@ K\&T Swadling, 7 Walsh St, Narrabeen, NSW, 2101. Tél. (02) 9137893
 
 Les formulaires d'inscription seront envoyés plus tard dans l'année via le 6-0-6.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-1-janvier-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">Une question de priorités</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

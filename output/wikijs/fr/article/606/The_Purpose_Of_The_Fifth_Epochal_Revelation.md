@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un essai bibliographique sur certaines sources humaines utilisées dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_Do_We_Need_Leaders">
+          <span class="pr-2">Pourquoi avons-nous besoin de dirigeants ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Adapté d'un fichier (SOS1 OYR.NLA) de la bibliothèque Brotherhood of Man.**
@@ -48,3 +72,28 @@ Une différence entre l’état de disciple et l’apostolat annoncé par Jésus
 
 Dans le passé, de nombreux chrétiens se sont pleinement lancés dans l’apostolat, mais le christianisme n’a pas réussi à conduire le monde sur le chemin requis simplement parce que la majorité des chrétiens choisissent, au mieux, de devenir disciples. Peut-être alors que le but majeur de la Cinquième Révélation d’Époque est le recrutement progressif d’une vaste multitude d’apôtres authentiques et totalement engagés. Cela vaut sûrement la peine d’y réfléchir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un essai bibliographique sur certaines sources humaines utilisées dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_Do_We_Need_Leaders">
+          <span class="pr-2">Pourquoi avons-nous besoin de dirigeants ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

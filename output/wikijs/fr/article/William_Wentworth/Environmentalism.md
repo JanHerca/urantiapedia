@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 William Wentworth<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Ennoblissement du personnage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _William Wentworth, Towamba, Nouvelle-Galles du Sud_
@@ -38,3 +62,28 @@ Mais quelle que soit la manière dont nous choisissons de voir les choses, l’e
 
 Le culte de la nature n’est pas nouveau. La résurgence d’une telle philosophie dans la civilisation occidentale, si elle est aussi étendue que je le pense, pourrait bien avoir des effets assez vastes. Et à moins que la jeunesse occidentale ne choisisse à nouveau d’adorer Dieu, l’environnementalisme pourrait bien continuer à l’attirer comme alternative.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Ennoblissement du personnage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

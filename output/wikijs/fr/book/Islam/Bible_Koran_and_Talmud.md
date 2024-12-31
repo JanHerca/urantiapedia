@@ -17,8 +17,8 @@ dateCreated: 2024-11-27T9:34:40Z
 		<text style="font-size:4px" x="61" y="125">1863</text>
 		<text style="font-size:9px" x="61" y="50">La Bible,</text>
 		<text style="font-size:9px" x="61" y="60">Le Coran,</text>
-		<text style="font-size:9px" x="61" y="70">et le Talmud</text>
-		<text style="font-size:9px" x="61" y="80">ou, Légendes bibliques</text>
+		<text style="font-size:9px" x="61" y="70">et le Talmud ou,</text>
+		<text style="font-size:9px" x="61" y="80">Légendes bibliques</text>
 		<text style="font-size:9px" x="61" y="90">des musulmans</text>
 	</g>
 </svg>

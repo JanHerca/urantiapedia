@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">Une perspective de service des relations individuelles et organisationnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 10-14 octobre 1988
@@ -58,3 +82,28 @@ Ainsi s’est terminé un événement fantastique, mais qui nous restera à jama
 
 > Il vaut mieux allumer une bougie que maudire les ténèbres.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">Une perspective de service des relations individuelles et organisationnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

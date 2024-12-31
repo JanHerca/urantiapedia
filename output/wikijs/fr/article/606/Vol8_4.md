@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Kathleen Swadling, William Wentworth, Emmanuel Lou, Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouveau Association Urantia de Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, Dieu de la longévité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -266,3 +287,25 @@ Christopher m'avait appelé ce matin-là et m'avait demandé deux livres. Je n'a
 <img src="/image/article/606/giving.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, Dieu de la longévité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

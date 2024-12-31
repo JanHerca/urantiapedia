@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 William Wentworth<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">À propos de la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Trois Australiens ont assisté à la conférence qui s'est tenue à Brunswick, dans le Maine, début août. Ces notes proviennent de ma propre expérience. Neil Francey et Hannah De Vries devront parler pour eux-mêmes.
@@ -34,3 +58,28 @@ Nous, Australiens, avons un rôle modeste mais important à jouer.
 
 William Wentworth, Towamba, Nouvelle-Galles du Sud
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">À propos de la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

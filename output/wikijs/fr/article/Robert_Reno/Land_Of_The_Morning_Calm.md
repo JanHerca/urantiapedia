@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Reno<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle était la date de la crucifixion de Michael ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-2-mars-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans cet article, Robert Reno nous raconte ses expériences en tant qu'aumônier militaire en Corée du Sud.
@@ -79,3 +100,25 @@ Pour le second, nous avons le superbe exemple de la vie de Jésus, telle que ré
 
 La raison pour laquelle j’ai trouvé tant de perspicacité dans ce concept du défi religieux de notre époque est simplement que le défi religieux de notre époque « est » le défi religieux du monde d’aujourd’hui. Si nous regardons autour de nous, nous trouverons aujourd’hui dans le monde de nombreux « groupes tournés vers l’avenir » qui s’efforcent de résoudre le défi religieux de notre époque.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle était la date de la crucifixion de Michael ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-2-mars-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

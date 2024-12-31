@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Janet Weeks<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-5-septembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">Bassin méditerranéen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quelques réflexions sur l'article d'Anne Bendall, 6-0-6 Newsletter mai/juin 1989.
@@ -48,3 +72,28 @@ Eva Bell Werber
 
 Extrait de : « La voix du maître »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-5-septembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">Bassin méditerranéen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

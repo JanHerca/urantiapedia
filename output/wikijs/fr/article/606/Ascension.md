@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voir le monde sous un nouveau jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Chaque instant et zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **La repersonnalisation, l'Ascension, la Fusion, la Rematérialisation, la Reconstruction, le Corps de Lumière et le Corps Morontiel font tous partie du même processus.**
@@ -94,3 +118,28 @@ _Une cassette sur laquelle Sananda explique plus en détail le Corps de Lumière
 
 _Éditeur_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voir le monde sous un nouveau jour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Chaque instant et zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

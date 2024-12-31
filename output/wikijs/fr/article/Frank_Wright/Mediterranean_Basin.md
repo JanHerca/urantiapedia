@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Weeks/Theyre_Not_Knocking_On_My_Door_Either">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ils ne frappent pas non plus à ma porte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-5-septembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1970, le Glomar Challenger s'embarque pour la mer Méditerranée. Deux scientifiques, Bill Ryan et Ken Shoo, cherchaient des preuves des débuts de l'histoire de la Méditerranée. Sur un site situé à 100 milles à l’est du détroit de Gibraltar, ils ont foré une carotte.
@@ -50,3 +71,25 @@ Extrait de : FSFS POURSUITE DE LA SAGESSE, mars 1989
 <img src="/image/article/606/Mediterranean.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Weeks/Theyre_Not_Knocking_On_My_Door_Either">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ils ne frappent pas non plus à ma porte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-5-septembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 septembre 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

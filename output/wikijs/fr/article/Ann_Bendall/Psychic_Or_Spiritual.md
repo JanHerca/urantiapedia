@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salutations du groupe d'étude de Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">Vous ne pourrez jamais vous voir grandir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Stabilisez l'esprit par la subordination à l'esprit. » — Je suis convaincu que, pour la plupart d'entre nous, c'est la condition préalable essentielle au développement de notre relation avec notre Père du Paradis, une condition qui permet à son règne de gouverner véritablement chaque instant de notre vie.
@@ -46,3 +70,28 @@ Une pensée plutôt qui donne à réfléchir m'aide dans mes efforts personnels 
 
 Ann Bendall, Nambour, Queensland
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salutations du groupe d'étude de Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">Vous ne pourrez jamais vous voir grandir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

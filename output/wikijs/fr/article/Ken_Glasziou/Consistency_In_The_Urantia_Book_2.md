@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Origin_Of_UB_From_God_From_Man_Or_From_Devil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origine du Livre d'Urantia. De Dieu, de l’homme ou du diable ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="pr-2">Une autre vue de l'affaire Kristen Maaherra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ken Glasziou, Maleny, Qld._
@@ -32,3 +56,28 @@ Nous retrouvons cette expression dans un article sur la relation de l'Ajusteur d
 
 Il vaut la peine de consacrer un peu de temps à étudier, dans son contexte, la cohérence du concept de « réalisation du Suprême » tel qu’il est exposé dans ces quatre citations. Pour moi, cet exemple génère un sentiment indescriptible d’amour et de respect pour ceux qui nous ont donné notre Cinquième Révélation d’Époque.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Origin_Of_UB_From_God_From_Man_Or_From_Devil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origine du Livre d'Urantia. De Dieu, de l’homme ou du diable ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="pr-2">Une autre vue de l'affaire Kristen Maaherra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

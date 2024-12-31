@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pouvez-vous qualifier l’Australie de pays païen et vous en sortir sans problème ? Apparemment non, comme je l’ai découvert récemment lorsque j’ai tenté cet exercice à travers les médias. Les gens étaient à la fois perplexes et offensés.
@@ -62,3 +83,25 @@ Les Évangiles révèlent que c’était le même problème qui harcelait Jésus
 
 Dr P. Jensen, Moore Theological College, Sydney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

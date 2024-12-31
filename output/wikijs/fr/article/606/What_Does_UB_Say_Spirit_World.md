@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/URANTIA_Foundation_Reply">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponse de la Fondation URANTIA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="pr-2">Est-ce que quelqu'un veut acheter le livre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ceci est votre ordinateur convivial qui vous présente une déclaration sans équivoque du _Livre d'URANTIA_ qui pourrait vous épargner bien des chagrins :
@@ -59,3 +83,28 @@ Ceux d'entre vous qui pensent que vous entendez des voix ou que vous êtes des c
 <figcaption>Le rêve le plus fou d'un éditeur.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/URANTIA_Foundation_Reply">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réponse de la Fondation URANTIA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="pr-2">Est-ce que quelqu'un veut acheter le livre ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

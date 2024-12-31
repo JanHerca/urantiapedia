@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 William Wentworth<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fraternité des hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans le document qu'il a présenté à la réunion du Pacifique Sud en octobre, Ken Glasziou a soutenu que la théorie scientifique converge progressivement vers les informations révélées dans _Le Livre d'URANTIA_. Au cours des 50 dernières années environ, l'opinion dans de nombreux domaines scientifiques s'est beaucoup rapprochée de la position du _Livre d'URANTIA_. L'argument de Ken est très convaincant.
@@ -46,3 +67,25 @@ J'ai prié Dieu de me donner toutes choses, afin que je puisse jouir de la vie..
 
 Contribution de Merindy Swadling, Sydney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fraternité des hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Dr. A. W. Tozer<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Salute_The_God_Within_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je salue le Dieu qui est en toi»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="pr-2">La Conférence internationale de 1993 pour les lecteurs du Livre d'Urantia, Montréal, Canada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Dr. A. W. Tozer_
@@ -62,3 +86,28 @@ Vouloir la volonté de Dieu est plus qu’un simple consentement sans protestati
 
 Je veux ici affirmer que c'est ma heureuse conviction que chaque chrétien peut recevoir une effusion abondante de l'Esprit de Vérité dans une mesure au-delà de ce que la plupart d'entre nous pensent possible. Mais nous devons mettre les choses au clair – jusqu’à ce que tous les doutes soient levés, la foi est impossible – et l’effusion n’aura pas lieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/I_Salute_The_God_Within_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je salue le Dieu qui est en toi»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="pr-2">La Conférence internationale de 1993 pour les lecteurs du Livre d'Urantia, Montréal, Canada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

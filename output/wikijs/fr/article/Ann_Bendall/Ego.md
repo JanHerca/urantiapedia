@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ann Bendall<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tony_Rudd/How_To_Become_More_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment devenir davantage semblable à Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Jesus_Did">
+          <span class="pr-2">Ce que Jésus a fait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -76,3 +100,28 @@ Mon pur désir est d’avoir Dieu et moi si proches que nous pensons, ressentons
 
 > « _Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.*_ » (<a id="a76_388"></a>[LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tony_Rudd/How_To_Become_More_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment devenir davantage semblable à Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/What_Jesus_Did">
+          <span class="pr-2">Ce que Jésus a fait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

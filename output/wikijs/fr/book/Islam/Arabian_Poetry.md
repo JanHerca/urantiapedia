@@ -53,7 +53,7 @@ Ibn Altalmith était sur le point d’expirer lorsque son fils s’approcha de s
 Il s'agit d'une anthologie de traductions orientalistes de poésie arabe du XIXe siècle, dont beaucoup sont très rares, comme ce livre en particulier. La plupart des œuvres incluses sont antérieures à Mahomet ou sont contemporaines, ce qui permet d'y trouver de nombreux éléments fascinants de la tradition préislamique. On y trouve les Moallakat, ou les poèmes « pendus », un recueil de sept poètes préislamiques dont les œuvres ont été autrefois exposées (c'est-à-dire « pendues ») dans la Ka'ba. Un autre point fort est un synopsis du « Roman d'Antar », une saga orale d'un prince courageux de l'ancienne Arabie, et de nombreux actes de bravoure. Le seul inconvénient ici est la multitude de façons différentes de translittérer les mots arabes, ce qui nécessitera probablement un spécialiste de la littérature arabe pour le trier.
 
 
-
+<br>
 
 ## Table des Matières
 

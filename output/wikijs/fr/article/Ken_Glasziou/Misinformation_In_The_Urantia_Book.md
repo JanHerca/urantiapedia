@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culte de groupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">L'arrivée de Dieu dans un esprit humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La possibilité que le _Livre d'URANTIA_ puisse contenir de sérieuses informations erronées m'est venue alors que je réfléchissais à certaines de ses déclarations sur les aspects matériels de la matière et sur les événements historiques qui pourraient s'avérer faux. Permettez-moi d'abord d'affirmer que j'ai une foi totale que le _Livre d'URANTIA_ est ce qu'il prétend être, une révélation provenant de sources divinement autorisées.
@@ -28,3 +52,28 @@ En nous accordant l’incertitude, Dieu nous donne également l’opportunité d
 
 Ken Glasziou, Maleny, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culte de groupe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">L'arrivée de Dieu dans un esprit humain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

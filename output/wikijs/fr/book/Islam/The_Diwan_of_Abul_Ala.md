@@ -33,8 +33,8 @@ SAGESSE DE L'ORIENT<br>
 <span class="text-h5">PAR HENRY BAERLIN</span><br>
 <br>
 <i>Auteur de « À la poursuite de Dulcinée », « L’Ombre des Balkans », « Yrivand », etc.</i>
-Les étoiles ont disparu des berceaux célestes,<br>et dans le jardin elles ont été transformées en fleurs<br><span style=« font-variant:small-caps; »>Mutamid</span>, <i>en captivité</i>.<br>
-<img src=« /image/book/Islam/Le_Diwan_d_Abul_Ala/sun.jpg »><br>
+Les étoiles ont disparu des berceaux célestes,<br>et dans le jardin elles ont été transformées en fleurs<br><span style="font-variant:small-caps;">Mutamid</span>, <i>en captivité</i>.<br>
+<img src="/image/book/Islam/The_Diwan_of_Abul_Ala/sun.jpg"><br>
 <br>
 NEW YORK<br>
 <br>

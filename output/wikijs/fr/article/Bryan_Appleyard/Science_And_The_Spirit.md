@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Bryan Appleyard<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’édition religieuse porte ses fruits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message_2">
+          <span class="pr-2">Faire passer le message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Bryan Appleyard,_
@@ -115,3 +139,28 @@ La réponse consiste à croire en tout ce que nous sommes, ou peut-être simplem
 
 Notre expérience et notre histoire sont plus réelles que les deux. Nous savons que cela est vrai, mais la science a causé de terribles dommages à notre foi. Il est temps de commencer à faire des réparations.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’édition religieuse porte ses fruits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message_2">
+          <span class="pr-2">Faire passer le message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

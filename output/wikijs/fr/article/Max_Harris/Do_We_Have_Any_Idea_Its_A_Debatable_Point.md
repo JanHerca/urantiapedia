@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Max Harris<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le texte original aurait-il dû être modifié ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Gardez la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Max Harris, Australie du Sud_
@@ -58,3 +82,28 @@ Il est frustrant de constater que même ces questions ne préoccupent pas la con
 
 Nous resterons un pays muet, voué à la philosophie selon laquelle tel est l’avenir qui fut. Waouh !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le texte original aurait-il dû être modifié ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Gardez la foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

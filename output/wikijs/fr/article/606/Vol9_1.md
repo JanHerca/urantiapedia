@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Satu Sihvo, Ken Glasziou, Kathleen Swadling, Henry Begemann, David Glass<br>© 1988 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Boîtes noires, décalages rouges et big bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -215,3 +236,25 @@ Que la paix du Père nous enveloppe tous
 </figure>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Boîtes noires, décalages rouges et big bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

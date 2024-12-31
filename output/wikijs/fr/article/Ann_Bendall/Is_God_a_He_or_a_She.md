@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre avec notre père cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">Une lettre ouverte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je n'avais pas réalisé qu'il y avait des discussions sur le sexe de Dieu jusqu'à il y a quelques mois, lorsque je suis tombé sur une situation que j'essaie très fort d'éviter : me lancer dans des discussions théologiques sur Notre Père. D'après mon expérience passée, j'ai découvert que la majorité des gens qui veulent « déterminer qui est Dieu » ont leurs opinions à la fois fermes, aveugles, irrationnelles et déterminées, alors je change de sujet pour un sujet plus sûr comme la météo.
@@ -46,3 +70,28 @@ Peut-être que si les hommes pouvaient considérer Dieu davantage comme une « E
 
 **Ann Bendall, Nambour, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre avec notre père cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">Une lettre ouverte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

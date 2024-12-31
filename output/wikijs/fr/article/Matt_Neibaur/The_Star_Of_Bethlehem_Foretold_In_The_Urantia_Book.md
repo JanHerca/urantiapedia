@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Matt Neibaur<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La religion et la science réfléchissent depuis longtemps aux questions posées par l’étoile de Bethléem. Les théories abondent. Les comètes supernovas, les conjonctions planétaires et les miracles ont été invoqués. Certains se demandent même si l’événement s’est jamais produit, sans parler du nombre de sages.
@@ -69,3 +90,25 @@ Les lecteurs de cet ouvrage du Dr Neibaur doivent décider eux-mêmes s'ils perm
 > _Note de l'éditeur_ : Ceci n'est qu'un des nombreux articles intéressants disponibles dans la bibliothèque de la Confrérie des Hommes. Pour plus d'informations sur cet excellent service, contactez : Ken Glasziou, Stanley River Rd, Maleny, QLD. 4552.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

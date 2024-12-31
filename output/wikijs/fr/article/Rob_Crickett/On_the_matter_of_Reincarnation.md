@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Crickett<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence générale de la Fraternité Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Amitié, fraternité et filiation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La réincarnation est une réalité vécue par des millions de personnes à travers le monde. Les personnes en grande partie responsables de la diffusion de la philosophie, et tenues en haute estime pour leurs connaissances sur le sujet, sont les bouddhistes Mahayana tibétains et chinois, les bouddhistes Hinayana thaïlandais et sri lankais, les taoïstes chinois, les hindous et un éventail apparemment infini de panthéistes asiatiques locaux. des ramifications qui varient d'une ville à l'autre. C’est à partir de ces sources asiatiques que l’idée de réincarnation s’est infiltrée dans les arènes de pensée religieuses occidentales. Une partie de la théorie nous est parvenue sous forme de systèmes complets, comme avec l'approche tibétaine de plus en plus populaire, tandis que d'autres sont venues au compte-goutte, des extraits de religions soigneusement édités par l'évangéliste pour s'adapter au climat social et à son environnement. capacité et conditionnement spirituels.
@@ -111,3 +135,28 @@ Que Dieu vous bénisse et vous garde. Et que votre fusion d’Ajusteur soit rapi
 
 Robert Crickett, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence générale de la Fraternité Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Amitié, fraternité et filiation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

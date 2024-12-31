@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 David Elders<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la réunion régionale du Pacifique Sud des lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_And_The_Urantia_Book">
+          <span class="pr-2">La science et le livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une conférence donnée par David Elders lors de la réunion régionale du Pacifique des lecteurs du _Livre d'URANTIA_
@@ -56,3 +80,28 @@ Au cours des années à venir, de nombreux groupes – bons, mauvais et indiffé
 
 Nous devons travailler ensemble pour prouver aux autres que cet enseignement peut nous permettre de transcender nos différences superficielles, comme il semblerait que la révélation soit censée le faire. Puisque nous sommes nés dans une diversité absolue (en raison de notre personnalité unique) et que nous recherchons l’unité, il semblerait que le risque d’uniformité, souvent évoqué, soit faible. Si nous présumons que l’unité est déjà réalisée et cherchons plutôt à élargir nos différences extérieures, nous ne parviendrons peut-être, par expérience, ni à la véritable diversité de la personnalité ni à l’unité. Si, avec notre aide, notre organisation atteint ses objectifs, à savoir servir de soutien collectif à l'intégrité de chaque personne, sa portée unique vers Dieu, nous pourrons peut-être atteindre et expérimenter pleinement à la fois l'unité et la diversité de la personnalité en tant que fils et filles de un père commun. Si nous gardons notre point de vue aligné, nous nous souviendrons que le _Livre d'URANTIA_ et ses organisations associées ne sont pas des fins en soi, mais simplement des moyens.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la réunion régionale du Pacifique Sud des lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_And_The_Urantia_Book">
+          <span class="pr-2">La science et le livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

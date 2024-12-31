@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Seppo Niskanen<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conférence internationale de 1993 pour les lecteurs du Livre d'Urantia, Montréal, Canada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Revelations_Of_Divine_Truth_Are_Not_Sealed">
+          <span class="pr-2">Les révélations de la vérité divine ne sont pas scellées…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Seppo Niskanen, Mannerheimintie_
@@ -36,3 +60,28 @@ Outre la célébration des traductions, la Conférence s'est divisée en une dou
 
 Le site de la Conférence à Järvenpää, presque à côté de l'ancienne maison et musée du compositeur finlandais Jean Sibelius, a été unanimement jugé excellent et il a donc été décidé que la Conférence d'été de 1994 se tiendrait dans les mêmes locaux. Ainsi, une autre Conférence internationale aura lieu le deuxième week-end de juin 1994 au même endroit. Bienvenue à tous.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conférence internationale de 1993 pour les lecteurs du Livre d'Urantia, Montréal, Canada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Revelations_Of_Divine_Truth_Are_Not_Sealed">
+          <span class="pr-2">Les révélations de la vérité divine ne sont pas scellées…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

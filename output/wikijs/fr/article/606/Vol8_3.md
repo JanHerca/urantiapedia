@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Reno, Helena Sprague<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-n°-3-mai-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Terre Du Matin Calme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -214,3 +235,25 @@ CI-JOINT LE PAIEMENT DE... POUR LES PERSONNES SIGNÉES
 CHÈQUES À L'ORDRE DE « U.B.FUND » ET À ENVOYER AVANT LE 1ER SEPTEMBRE À :
 C/- K\&T SWADLING, 7 WALSH ST, NARRABEEN, NSW,2101. TÉLÉPHONE (02) 9137893
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-n°-3-mai-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Terre Du Matin Calme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

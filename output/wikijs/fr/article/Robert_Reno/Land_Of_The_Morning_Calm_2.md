@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Reno<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-n°-3-mai-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Robert Reno
@@ -121,3 +142,25 @@ J’ai de grands espoirs quant au déroulement futur de la révélation ici en C
 
 Les personnes qui souhaitent répondre à cet article peuvent écrire à : Robert Reno, 620 s. 12th Street, Boulder, Co. 80302, États-Unis.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-n°-3-mai-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 n° 3 mai 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

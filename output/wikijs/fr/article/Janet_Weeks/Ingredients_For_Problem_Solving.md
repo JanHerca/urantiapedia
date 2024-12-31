@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Janet Weeks<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arrivée de Dieu dans un esprit humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quelle chance nous avons d’avoir des problèmes dans nos vies. Des bouleversements à gérer, des maladies à supporter, des pressions et des disputes familiales, des avis divergents qui nous sont lancés de toutes parts. Chômage.
@@ -52,3 +73,25 @@ Alors réjouissons-nous du fait que nous sommes en proie à des problèmes et au
 
 Janet Weeks, Banora Point (Tweed Heads, Nouvelle-Galles du Sud)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'arrivée de Dieu dans un esprit humain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

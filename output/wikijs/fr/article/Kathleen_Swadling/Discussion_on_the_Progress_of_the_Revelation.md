@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions personnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="pr-2">Vivre avec notre père cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En tant que dévot des enseignements contenus dans _Le Livre d'URANTIA_, je suis préoccupé par le degré de succès que cette révélation aura pour provoquer la régénération spirituelle de l'humanité. Je suis également très conscient que le degré de succès dépend largement de ce que le lectorat fait de la révélation. Nous voyons comment les révélations d’époque passées s’intègrent au progrès évolutif de l’humanité alors que nous étudions les Cahiers URANTIA. Ces schémas montrent qu'une partie de la population existante a reçu une dose concentrée de la vérité, puis est allée dans le monde pour la vivre, la prêcher ou faire tout ce qu'elle se sentait encline à faire et ces actions ont déterminé la saveur ou le cours de la nouvelle époque. ère. L'évolution a finalement pris le dessus et la vérité s'est fragmentée en interprétations culturelles et les sociétés ont progressé en conséquence. Une fois donnée, c'était à l'homme de déterminer la voie à suivre. Lorsque l’humanité fut prête, une autre révélation fut donnée pour lui servir de pas en avant, puis l’évolution continua. C’est lent, subtil et progressif. Nous sommes les destinataires de la cinquième dose concentrée de vérité. Que devons-nous en faire ?
@@ -50,3 +74,28 @@ Un autre point que je voudrais souligner concernant la nature de cette révélat
 
 **Kathleen Swadling, Sydney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques réflexions personnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="pr-2">Vivre avec notre père cosmique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

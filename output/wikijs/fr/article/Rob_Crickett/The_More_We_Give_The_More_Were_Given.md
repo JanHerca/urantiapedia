@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Robert Crickett<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les imbéciles se précipitent – ​​et les anges doivent suivre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Robert Crickett_
@@ -26,3 +47,25 @@ Et cela pourrait bien être le problème de toute la série, car le royaume a po
 
 Et quand les dons s’arrêtent, ou ne commencent jamais vraiment, que peut faire d’autre le sarment, sinon se flétrir et dépérir jusqu’à ce que le laboureur n’ait d’autre choix que de le tailler de la vigne ? Et que peut dire le laboureur ? «Je t'ai montré comment avoir la vie. Je vous ai montré la joie d'aimer les autres et de puiser d'eux des eaux vives afin que vous et eux puissiez avoir la vie. C'est toi qui as fait ça ?''Non... mais je le voulais vraiment.''Tu es sûr ?''Oui ! Oui ! » « Es-tu vraiment sûr ? » « Eh bien… euh… non…. je suppose que je n'ai jamais vraiment été sûr de quoi que ce soit. » COUPER.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les imbéciles se précipitent – ​​et les anges doivent suivre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

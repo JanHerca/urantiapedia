@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Emmanuel Lou<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/On_Our_Journey_Inward">
+          <span class="pr-2">Sur notre voyage vers l'intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ;... » (<a id="a14_91"></a>[LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))
@@ -70,3 +94,28 @@ Maintenant je dis VAN comme 王
 
 Emmanuel Lou, Tahiti
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/On_Our_Journey_Inward">
+          <span class="pr-2">Sur notre voyage vers l'intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

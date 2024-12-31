@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Doing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Don_Lee/The_Remarkable_Amenhotep_IV">
+          <span class="pr-2">Le remarquable Amenhotep IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -37,3 +61,28 @@ La loi naturelle de l’esprit est que ce qui est donné est reçu dans une mesu
 
 Robert Crickett, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Doing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Don_Lee/The_Remarkable_Amenhotep_IV">
+          <span class="pr-2">Le remarquable Amenhotep IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

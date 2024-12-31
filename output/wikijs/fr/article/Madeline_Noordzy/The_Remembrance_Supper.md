@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est *ressentie.* Ce qui ressent est la création conjointe du mental qui connait et de l’esprit associé qui confère la réalité. » (<a id="a14_229"></a>[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6))
@@ -34,3 +58,28 @@ J'aimerais remercier toutes les personnes qui étaient présentes à cette occas
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

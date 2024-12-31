@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean le Révélateur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis que j'ai participé à la publication et à l'envoi du 6-0-6, je suis devenu très conscient du grand isolement de nombreux lecteurs en Australie. Ils doivent faire face à ce que Steve Shanahan a si bien nommé : « La tyrannie de la distance ».
@@ -80,3 +101,25 @@ Bonjour à un camarade urantien !
 
 Madeleine Noordzy
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean le Révélateur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -37,6 +37,7 @@ Publié pour la première fois sous le titre Monograph Vol. XIX par la Royal Asi
 <br>
 </p>
 
+<br>
 
 ## Table des Matières
 

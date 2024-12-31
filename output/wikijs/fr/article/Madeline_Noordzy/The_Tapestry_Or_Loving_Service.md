@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Printemps — Une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pourquoi avons-nous donné ce nom au thème de la conférence ? Dans une tapisserie, il existe de nombreuses couleurs différentes ; Il existe des couleurs claires et foncées, des couleurs chaudes et froides, des couleurs pour ombrer et des couleurs pour mettre en valeur. Tout cela est nécessaire si nous voulons parvenir à un ensemble harmonieux. Car sans l’ombre de l’arrière-plan, comment le point culminant pourrait-il se démarquer du reste ?
@@ -30,3 +54,28 @@ Le service aimant est le meilleur antidote à l’état déséquilibré de fanat
 
 Madeleine Noordzy
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Printemps — Une étude du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

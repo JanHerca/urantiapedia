@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 David Glass<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discussion sur les progrès de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="pr-2">Dieu est-il un Lui ou une Elle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À quelle fréquence en réflexion je conseille
@@ -54,3 +78,28 @@ De toute cette mer sans rivage de ce qui pourrait être
 
 **David Glass, Fort Worth, Texas, États-Unis**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discussion sur les progrès de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="pr-2">Dieu est-il un Lui ou une Elle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

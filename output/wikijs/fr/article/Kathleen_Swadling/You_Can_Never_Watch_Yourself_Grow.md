@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psychique ou Spirituel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Hepworth/Urantian_Influence_And_Parenthood">
+          <span class="pr-2">Influence urantienne et parentalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'aimerais partager avec vous quelques réflexions suscitées par l'excellent et sincère article d'Ann Bendall dans le numéro de mai/juin 89 de Six-0-Six intitulé « Pourquoi ne frappent-ils pas à ma porte ? »
@@ -34,3 +58,28 @@ Kathleen Swadling, Sydney
 > 
 >Thomas Shadwell
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psychique ou Spirituel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Hepworth/Urantian_Influence_And_Parenthood">
+          <span class="pr-2">Influence urantienne et parentalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Going_International">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aller à l'international</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/An_Ounce_Of_Experience">
+          <span class="pr-2">Une once d'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un de nos lecteurs à Clifton, Queensland, collectionne depuis de nombreuses années des bricoles concernant le contenu scientifique du Livre d'Urantia. Ken Glasziou l'a fait plus ou moins isolément, sans accès aux bibliothèques, aux revues scientifiques et sans le bénéfice de la discussion.
@@ -36,3 +60,28 @@ Durant la période de rédaction des Cahiers d'Urantia (années 30 et 40), de no
 
 Ken Glasziou, Clifton, Queensland
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neil_Francey/Going_International">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aller à l'international</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-4-mai-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 mai 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/An_Ounce_Of_Experience">
+          <span class="pr-2">Une once d'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

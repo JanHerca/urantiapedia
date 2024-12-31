@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/URANTIA_Foundation_Reply">
+          <span class="pr-2">Réponse de la Fondation URANTIA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Cette discussion résume les pensées et les opinions exprimées par les membres du groupe d'étude de la Sunshine Coast pendant et après une réunion du 21/9/91)_
@@ -51,3 +75,28 @@ La discussion du groupe d'étude s'est terminée par des délibérations sur la 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/URANTIA_Foundation_Reply">
+          <span class="pr-2">Réponse de la Fondation URANTIA</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

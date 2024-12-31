@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ennoblissement du personnage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">Les aventures de Jésus de Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
@@ -46,3 +70,28 @@ Nous ne saurons jamais dans quelle mesure le _Livre d'URANTIA_ et ses enseigneme
 
 Il est peu probable que l'ouvrage de Borg soit lu par un nombre significatif de personnes en dehors de la communauté universitaire. Il faudra donc très, très longtemps pour que cette nouvelle vision s'imprègne des séminaires jusqu'aux congrégations générales des églises. Cependant, comme nous le dit le Livre d'URANTIA, la patience est une vertu et une évolution lente est plus productive qu'une révolution perturbatrice. Mais les lecteurs du Livre d'URANTIA pourraient très bien envisager d'offrir le livre de Borg comme cadeau à certains de leurs amis non-lecteurs et pratiquants d'église.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ennoblissement du personnage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">Les aventures de Jésus de Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

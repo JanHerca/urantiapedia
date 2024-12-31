@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Rod McCourt<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia — Vers la lumière et la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Three_Missing_Planets">
+          <span class="pr-2">Les trois planètes manquantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Parfois, comme une forme de réversion par rapport aux aspects spirituels plus profonds du _Livre d'URANTIA_, ce n'est peut-être pas une mauvaise idée de réfléchir à certains des aspects scientifiques ou cosmiques que nous appellerions astronomie.
@@ -86,3 +110,28 @@ Personnellement, je me sens mal à l’aise à l’idée de faire de telles déc
 
 Rod McCourt, Cacatoès, Vic.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia — Vers la lumière et la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Three_Missing_Planets">
+          <span class="pr-2">Les trois planètes manquantes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ann Bendall<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="pr-2">La mission pédagogique. « Si ce ne sont pas de vraies personnalités, alors quoi ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -35,3 +59,28 @@ Quand j'aurai réduit cela à un art, je vais « _ne chercher aucune reconnaissa
 
 Au moment où j’aurai acquis toutes ces caractéristiques, je soupçonne que je pourrais avoir des difficultés à trouver des âmes sœurs sur Urantia. Afin de tenter de me prémunir contre cette éventualité, puis-je faire une demande. Synchronisons les envies. Quel plaisir si nous, lecteurs, pouvions faire preuve de tact, de tolérance, ne rechercher aucune reconnaissance non méritée, arrêter de chercher de la sympathie et simplement passer chaque jour à « bien faire » revigorant.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="pr-2">La mission pédagogique. « Si ce ne sont pas de vraies personnalités, alors quoi ? »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

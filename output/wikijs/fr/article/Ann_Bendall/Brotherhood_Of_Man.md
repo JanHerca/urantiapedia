@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/Prospects_For_A_World_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives pour une religion mondiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/UB_Possible_Signpost_For_Scientific_Research">
+          <span class="pr-2">Le Livre d'Urantia : un indicateur possible pour la recherche scientifique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le _Livre d'URANTIA_ nous informe qu'il existe des sources d'énergie que nous n'avons pas encore découvertes et l'une d'entre elles, je crois, est la force énergétique de l'amour. Le pouvoir d’une prière puissante, généré par un véritable désir altruiste de progrès de notre planète vers « la lumière et la vie », a la capacité de générer un champ de pouvoir bien au-delà de notre sphère d’influence matérielle-pensée.
@@ -48,3 +72,28 @@ Ann Bendall, Nambour, Queensland.
 > 
 > Paramahansa Yogananda
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/Prospects_For_A_World_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives pour une religion mondiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-2-mars-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 mars 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/UB_Possible_Signpost_For_Scientific_Research">
+          <span class="pr-2">Le Livre d'Urantia : un indicateur possible pour la recherche scientifique ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

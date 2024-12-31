@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boîtes noires, décalages rouges et big bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Réincarnation ou repersonnalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Est-ce que nous nous arrêtons parfois pour réfléchir à la position exacte du _Livre d'URANTIA_ dans un avenir relativement pas trop lointain ? Y aura-t-il toujours une Fraternité URANTIA et y aura-t-il encore des groupes d'étude ? Peut-être que le _Livre d'URANTIA_ occupera une place d'honneur dans les foyers moyens de notre société ou peut-être sera-t-il utilisé comme manuel dans les écoles publiques et publiques. Deviendra-t-il une partie intégrante de la société ou sera-t-il confiné à une secte religieuse ou à une organisation de type sectaire ? Je vois qu’il pourrait y avoir deux chemins alternatifs que cette révélation peut emprunter et nos actions aujourd’hui pourraient jouer un rôle majeur dans la détermination du chemin à suivre.
@@ -34,3 +58,28 @@ Canalisons nos énergies pour que le _Livre d'URANTIA_ reste une expérience de 
 
 Kathleen Swadling, Sydney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boîtes noires, décalages rouges et big bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Réincarnation ou repersonnalisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

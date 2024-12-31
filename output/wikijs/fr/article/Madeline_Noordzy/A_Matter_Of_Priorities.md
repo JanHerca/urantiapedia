@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-1-janvier-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
+          <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Toutes les années passées à lire des histoires aux enfants au coucher ont dû laisser une impression durable. La première chose qui m’est venue à l’esprit lorsque j’ai commencé à réfléchir au sujet des priorités était : « Les trois petits cochons ». Le troisième petit cochon du dessin animé de Walt Disney avait certainement un air de solidité. Avec sa salopette bleue et sa casquette, posant des briques sur du mortier, gifle, slosh, gifle. Cela ne le dérangeait pas d'avoir une dure journée de yakka. Et il était plutôt généreux aussi, il faut l'admettre. Car à part dire à ses frères : « Je vous l'avais bien dit », lorsque leurs fragiles abris se sont effondrés, la première fois que ce grand loup de lit faisait ses exercices de respiration profonde, il les a invités à entrer. Et on ne pouvait pas exactement dire : « Tout travail et pas de jeu font de Jack un garçon ennuyeux ». Une fois qu'il avait construit sa maison, il s'amusait bien à la fête qu'ils organisaient, lorsqu'ils finissaient presque avec un loup rôti pour le souper. Mais je me demande à quel point il était tolérant envers ces deux frères paresseux, une fois qu'il avait découvert qu'ils étaient trop faibles pour porter leur vaisselle sale au lave-vaisselle et qu'il avait laissé leurs chaussettes boueuses traîner sous le lit. J'espère qu'il a eu la sagesse de les pousser doucement vers la porte, quand ce loup aux fesses rôties a quitté le quartier. Car comment pourraient-ils le faire autrement ? apprendre à se tenir debout sur ses deux trotteurs bancaux ?
@@ -52,3 +76,28 @@ Madeline Noordzy, Melbourne Illustré par Wolfgang Borutta
 <img src="/image/article/606/Dad.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-1-janvier-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 janvier 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gods_Presence_In_Action">
+          <span class="pr-2">La présence de Dieu en action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Trevor Swadling<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : La question de l'origine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Say_Hello_to_a_Fellow_Urantian">
+          <span class="pr-2">Dites bonjour à un camarade urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le <a id="a14_3"></a>[LU 47:10.2](/fr/The_Urantia_Book/47#p10_2) _Le Livre d'URANTIA_ fait référence à Jean comme « Jean le Révélateur ». Lorsque nous lisons l'étude sur les douze apôtres, le <a id="a14_174"></a>[LU 139:4.14](/fr/The_Urantia_Book/139#p4_14), les Médians nous parlent de Jean : « Lorsqu'il était en exil temporaire à Patmos, Jean écrivit le Livre de l'Apocalypse, que vous avez maintenant sous une forme considérablement abrégée et déformée. Ce livre de l'Apocalypse contient les fragments survivants d'une grande révélation, dont de grandes parties ont été perdues, tandis que d'autres parties ont été supprimées à la suite des écrits de Jean. Il n’est conservé que sous une forme fragmentaire et frelatée.
@@ -52,3 +76,28 @@ Vous trouverez peut-être quelque chose d’intéressant dans l’Apocalypse. [C
 
 Trevor Swadling, Sydney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : La question de l'origine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-8-novembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 novembre 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Say_Hello_to_a_Fellow_Urantian">
+          <span class="pr-2">Dites bonjour à un camarade urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps — Une étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Les origines de la vie
@@ -65,3 +86,25 @@ Peut-être que les formes fossiles trouvées dans les acritarches et les stromat
 
 Ken Glasziou, Clifton, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps — Une étude du futur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-7-septembre-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 septembre 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

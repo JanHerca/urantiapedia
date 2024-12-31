@@ -37,7 +37,7 @@ par Dave Gross (dgross@polyslo.csc.calpoly.edu)<br>
 
 ## Table des Matières
 
-- [Texte intégral](/fr/book/Islam/Lhe_Rubbayat/1)
+- [Texte intégral](/fr/book/Islam/The_Rubbayat/1)
 
 ## Liens externes
 

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La deuxième prédiction remarquable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_UB">
+          <span class="pr-2">Analyse informatique des dates dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous sommes en mai 2019 et le téléphone sonne. L'appelant plaide pour une consultation immédiate. Actuellement, j'ai devant moi une jeune femme imprégnée des croyances magiques et occultes. Elle souffre d’un serrement de gorge et de fortes douleurs à la poitrine. Ses commentaires d'ouverture parlent de sa peur chronique d'être à nouveau projetée sur son nouvel amant, une peur qu'il la quitte... la même peur qui l'a amenée à se comporter de manière à provoquer son départ rapide. dernier amant.
@@ -74,3 +98,28 @@ Peut-être le Père pourrait-il dire à ce propos : « Faites vos réserves. Dé
 
 Robert Crickett, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La deuxième prédiction remarquable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Computer_Analysis_Of_Dates_In_UB">
+          <span class="pr-2">Analyse informatique des dates dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

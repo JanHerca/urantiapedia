@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Écoute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">Tout</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour m'éloigner de tous les échanges personnels qui se sont produits ces derniers temps, j'aimerais commencer par être un peu plus philosophique sur le rôle que Six-O-Six a joué dans le passé pour les lecteurs du _Livre d'URANTIA_. Cela a commencé comme un outil précieux pour garder les étudiants du _Livre d'URANTIA_ en contact les uns avec les autres. Les gens qui trouvent _Le Livre d'URANTIA_ ont tendance à avoir envie de la compagnie d'autres lecteurs car ils traversent tellement de changements et il y a tellement de choses à comprendre pendant qu'ils étudient le livre. Comme de nombreux lecteurs sont répartis dans ce vaste pays, le bulletin d'information a joué un rôle essentiel en gardant les lecteurs en contact les uns avec les autres, en partageant des idées et des points de vue et en annonçant les activités des groupes d'étude et des conférences, etc. pour les lecteurs du _Le Livre d'URANTIA_. Aujourd’hui, bon nombre de ces lecteurs viennent d’horizons incroyablement divers. Beaucoup recherchent depuis des années quelque chose qui satisfasse leurs aspirations spirituelles. Beaucoup ont trouvé cette satisfaction à travers _Le Livre d'URANTIA_ — d'autres sont toujours à la recherche et _Le Livre d'URANTIA_ est l'une des nombreuses œuvres merveilleuses sur lesquelles ils sont tombés par hasard. Quel que soit le statut actuel de chaque lecteur, Six-OSix est un bulletin d'information qui dessert la composante _Le Livre d'URANTIA_ de la quête spirituelle des gens. La forme dans laquelle il se trouvait satisfaisait tout le monde. Quiconque souhaitait enquêter sur _Le Livre d'URANTIA_ trouva Six-O-Six comme assistant pour son enquête. Cependant, en changeant l'orientation du bulletin d'information, vous vous adressez à tout le monde dans une quête spirituelle quelconque. Je n'ai aucun problème avec une newsletter qui répond à ce besoin, mais je ne pense pas qu'il soit pertinent que Six-O-Six devienne une newsletter pour répondre à ce besoin sans consulter au préalable l'ensemble des lecteurs qui sont composés de personnes qui ont contribué et soutenu. financièrement et moralement depuis ses débuts. Les attaques personnelles qui ont résulté de ce scénario indiquent qu’un changement a été imposé plutôt que discuté.
@@ -31,3 +55,28 @@ Ne nous trompons pas en pensant que nous sommes encore spirituellement avancés.
 
 **Kathleen Swadling, Sydney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Écoute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">Tout</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

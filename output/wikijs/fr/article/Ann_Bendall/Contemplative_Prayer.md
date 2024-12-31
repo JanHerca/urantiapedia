@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">L’édition religieuse porte ses fruits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -30,3 +54,28 @@ Je dois descendre de mon piédestal d'illusion, retrousser mes manches mentales,
 
 Je crois pouvoir comprendre la philosophie de ceux qui disent que le _Livre d'URANTIA_ est l'œuvre du diable. Jésus n'a-t-il pas dit de demander au Père tout ce que vous souhaitez, et il monterait et lui tordrait le bras et garantirait que vous l'obtiendrez ? Jésus était comme la lampe d'un Aladdin religieux. Tout ce que nous avions à faire était de prier et nous serions parfaits. Au sens littéral, la déception a rencontré les efforts de nombreuses bonnes personnes, lorsque la Mercedes n'était pas dans le garage familial avec une carte « Amour de Dieu ». Un bon nombre de charismatiques sont finalement devenus plus matures et ont commencé à réaliser que la demande la plus appropriée était peut-être la « perfection » et les outils spirituels pour accomplir « des œuvres plus grandes que celles-ci ». Imaginez leur choc s'ils lisent _Le Livre d'URANTIA_ après quoi le chemin vers la perfection nécessite une quantité d'effort démesurée, et une carte précise est fournie qui indique exactement la direction. La route n’est pas formée, nous sommes obligés de la construire au fur et à mesure.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">L’édition religieuse porte ses fruits</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 John Hyde<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une autre vue de l'affaire Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="pr-2">Psychologie transpersonnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par John Hyde, l'Institut des affaires publiques_
@@ -28,3 +52,28 @@ La vérité et la confiance sont des motivations morales que, malgré tous leurs
 
 Il s’agit néanmoins d’un fil conducteur non codifié qui traverse la société et qui lie les chefs d’entreprise, les cabinets et nous tous. Malgré l’étrange dilemme, contrairement à la loi, elle est largement reconnue et c’est elle, et non la réglementation, qui constitue le véritable ciment social. Il n’est pas nécessaire de prétendre être plus saint que soi pour le défendre.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une autre vue de l'affaire Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="pr-2">Psychologie transpersonnelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

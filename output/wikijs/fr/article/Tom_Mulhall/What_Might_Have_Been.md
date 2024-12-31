@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Tom Mulhall<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une enquête statistique plus approfondie sur les styles d'écriture dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Tom Mulhall, Melbourne_
@@ -53,3 +74,25 @@ Peut-être que l’avenir verra une sympathie continue et plus grande entre le M
 
 > “_Il aimait les hommes comme des frères et reconnaissait en même temps combien leurs dons innés et leurs qualités acquises étaient différents. « Il allait son chemin, faisant du bien. » Jésus était une personne exceptionnellement gaie sans être d’un optimisme aveugle ou déraisonnable. Il exhortait en disant constamment : « Ayez bon courage. » Il put maintenir cette attitude confiante à cause de sa foi inébranlable en Dieu et de sa confiance à toute épreuve dans les hommes. Il manifestait toujours une considération touchante à tous les hommes parce qu’il les aimait et croyait en eux, mais il restait toujours fidèle à ses convictions et merveilleusement ferme dans sa dévotion à faire la volonté de son Père._” (<a id="a53_720"></a>[LU 100:7.8-9](/fr/The_Urantia_Book/100#p7_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une enquête statistique plus approfondie sur les styles d'écriture dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

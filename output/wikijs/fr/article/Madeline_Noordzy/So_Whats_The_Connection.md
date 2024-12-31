@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de la cosmologie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bessie essayait de trouver une solution. Elle faisait partie des touristes américains qui effectuaient une visite guidée des Fidji, de l'Australie et de la Nouvelle-Zélande.
@@ -28,3 +49,25 @@ J'ai le sentiment qu'avant la fin de leur tournée, Bessie et quelques autres de
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le coin de la cosmologie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

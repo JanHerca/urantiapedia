@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la cinquième révélation d’époque ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -38,3 +59,25 @@ En tant qu'humain, il est triste que nous trouvions des modèles à copier dans 
 
 L'avenir appartient à Dieu. Il a l'idée de l'histoire de ma vie. Je souhaite que la volonté de Dieu soit ma volonté et je sais que la volonté de Dieu est la voie de Dieu, un processus d'être et non de faire. Je veux que ma volonté et mon esprit soient si en harmonie avec ceux de mon Ajusteur de Pensée que les deux soient indiscernables et ainsi, avec le soutien abondant et l'assistance de mon Ajusteur bien-aimé, j'essaie de prendre mes décisions comme je crois que Jésus les aurait prises, sachant que, ce faisant, ils seront probablement en harmonie avec les désirs de Dieu à mon égard.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le but de la cinquième révélation d’époque ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -39,6 +39,7 @@ Numérisé, corrigé et formaté sur sacred-texts.com par John Bruno Hare, mars 
 
 Le poète persan Sâdi, surtout connu pour ses recueils poétiques le [Bustan](/fr/book/Islam/Le_Bustan) et le [Gulistan](/fr/book/Islam/Le_Gulistan), a également écrit cette œuvre, le _Pand Namah_, ou _Parchemin de la Sagesse_. Il s'agit d'un petit recueil de poèmes sur des thèmes moraux. Traduit par Arthur N. Wollaston, cet article de la série _Sagesse de l'Orient_ est l'un des meilleurs.
 
+<br>
 
 ## Table des Matières
 

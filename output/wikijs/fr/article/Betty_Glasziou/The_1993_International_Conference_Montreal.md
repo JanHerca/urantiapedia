@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Betty Glasziou<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/A_W_Tozer/The_Power_Of_The_Spirit_Of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La puissance de l'esprit de vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Seppo_Niskanen/Greetings_From_Finland">
+          <span class="pr-2">Salutations de Finlande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Betty Glasziou, Maleny, Queensland_
@@ -32,3 +56,28 @@ Je ferais mieux de ne pas commencer par toutes les personnes merveilleuses qui o
 
 Nous étions tous désolés à la fin de la conférence de six jours, mais ce fut une expérience merveilleuse de rencontrer des personnes que nous ne connaissions auparavant que de nom, de nous faire de nouveaux amis et de retrouver de nombreux vieux amis de différentes parties du monde. À la clôture, Janet Harrington a prononcé le discours final sur le thème de la Conférence, « Toucher le monde », soulignant la nécessité pour les lecteurs du Livre d'URANTIA de remplir le rôle d'artisans de paix dans leurs communautés respectives. Cela commence avec chacun d’entre nous – un sourire, une gentillesse, un mot réconfortant et un coup de main à nos compagnons de voyage sur Urantia. Il y avait une telle atmosphère de bonne volonté ! Espérons que nous pourrons tous aller dans le monde dans notre vie quotidienne en faisant comme notre Maître bien-aimé l'a fait, en répandant l'amour et la bonne humeur en passant. Nous pouvons vraiment toucher le monde.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/A_W_Tozer/The_Power_Of_The_Spirit_Of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La puissance de l'esprit de vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Seppo_Niskanen/Greetings_From_Finland">
+          <span class="pr-2">Salutations de Finlande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

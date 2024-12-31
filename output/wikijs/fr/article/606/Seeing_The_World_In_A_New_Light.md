@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concernant l’orientation intérieure – Une perspective cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Ascension">
+          <span class="pr-2">Ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Tiré de : TRIANGLES Bulletin 88, juin 1989**
@@ -40,3 +64,28 @@ _Cet article m'a rappelé la « caméra des événements passés » dont parlait
 
 _Éditeur_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concernant l’orientation intérieure – Une perspective cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Ascension">
+          <span class="pr-2">Ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Leith Luckett<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cerveau droit et gauche</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="pr-2">Un « accro à la vérité »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce magnifique poème a été écrit par Leith lors de la Conférence australienne de 1990._
@@ -42,3 +66,28 @@ saisir, apprécier et embrasser tous mes liens.
 
 **Leith Luckett, Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le cerveau droit et gauche</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="pr-2">Un « accro à la vérité »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

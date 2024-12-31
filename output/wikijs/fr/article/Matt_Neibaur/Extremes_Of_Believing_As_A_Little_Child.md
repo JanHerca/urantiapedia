@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Matt Neibaur<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/What_is_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que le spirituel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patije_Mills/Universal_Language_Brain">
+          <span class="pr-2">Cerveau de langage universel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Matt Neibaur_
@@ -36,3 +60,28 @@ Après mon expérience, je me suis senti comme Tolstoï : « Je veux comprendre,
 
 _(Extrait d'un article du Dr Matt Neibaur qui présente du matériel scientifique à l'appui de la prétention du livre à être révélateur.)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/What_is_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu’est-ce que le spirituel ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patije_Mills/Universal_Language_Brain">
+          <span class="pr-2">Cerveau de langage universel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

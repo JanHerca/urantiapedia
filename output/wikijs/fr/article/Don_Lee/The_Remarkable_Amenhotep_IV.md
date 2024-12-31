@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Don Lee<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Value_For_Money">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rapport qualité prix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai eu la chance d'être au Caire, en Égypte, il y a deux ans. Lors de mon premier jour là-bas, j'ai dû passer la matinée au musée du Caire alors que tout ce que je voulais vraiment faire était de voir les grandes pyramides de Gizeh et le Sphinx qui les gardait. Mais je suis resté coincé pendant ce qui devait durer cinq heures dans un entrepôt encombré et à peine organisé contenant la fierté de 3000 ans d'Egypte ancienne. « C'est odieux », ai-je pensé. Est-ce que j'ai vraiment envie de passer mon temps précieux dans cette salle morne ? » Et pourtant, si l'on veut apprendre quelque chose sur cette période historique captivante, il faut tout simplement y aller. Quelle fenêtre remarquable sur un passé lointain ! Allez dans le sens des aiguilles d'une montre et on commence à avoir une idée de la chronologie ; peut-être que quelqu'un n'a pas simplement jeté tout cela ici. Là-bas se trouve une exposition remarquable d'artefacts et de statues de l'époque de ces bâtisseurs de pyramides Zoser, Chephren et Mykerinos. Ils étaient les plus grands. Il y a très longtemps, lorsque la Basse-Égypte régnait sur le Nil. Continuez et vous remarquerez que la base du pouvoir de l'Égypte se déplace vers le sud (ou vers la Haute-Égypte, comme on estime le débit du Nil). C'était dans cette période intermédiaire. que l'Égypte a peut-être atteint le plus grand de ses nombreux âges d'or, lorsque les temples de Louxor et de Karnak ont grandi en taille et en importance et que les pharaons ont été enterrés dans la Vallée des Rois.
@@ -59,3 +80,25 @@ Don Lee, Seattle, WA, États-Unis
 
 Extrait de l'édition inaugurale de « ILUMINATIONS » printemps 1987.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Value_For_Money">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le rapport qualité prix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

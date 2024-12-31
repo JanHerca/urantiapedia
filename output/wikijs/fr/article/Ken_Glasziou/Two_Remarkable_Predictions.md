@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Doing_Gods_Will">
+          <span class="pr-2">Faire la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les Cahiers URANTIA contiennent des récits sur la structure physique de l'Univers, la formation et l'évolution du système solaire, l'évolution de la vie, ainsi que l'évolution et l'histoire ultérieures de l'homme, dont certains ne concordent pas avec les opinions actuelles des scientifiques. En revanche, il y a beaucoup de choses dans le Livre qui étaient hautement spéculatives au moment de la réception des Cahiers URANTIA (1934) et qui se sont révélées exactes depuis.
@@ -56,3 +80,28 @@ En décrivant correctement la libération du neutrino lors de la formation d'ét
 
 Ken Glasziou, Maleny, Q1d.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Doing_Gods_Will">
+          <span class="pr-2">Faire la volonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

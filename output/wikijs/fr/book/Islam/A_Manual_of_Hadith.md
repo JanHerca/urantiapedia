@@ -38,6 +38,7 @@ Numérisé sur sacred-texts.com, 2001. Formatage révisé en 2004. Ces fichiers 
 
 Les Hadiths, deuxièmes après le Coran en importance et en autorité, sont des recueils de traditions et de lois islamiques (Sunna). Ils incluent les paroles traditionnelles de Mahomet et des sages musulmans ultérieurs. Au IXe siècle, plus de 600 000 Hadiths avaient été enregistrés, ceux-ci ont été plus tard réduits à environ 25 000.
 
+<br>
 
 ## Table des Matières
 

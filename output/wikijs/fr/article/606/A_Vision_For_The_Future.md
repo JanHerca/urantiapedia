@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/On_The_Early_Christians">
+          <span class="pr-2">Sur les premiers chrétiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par le groupe d'étude de la Sunshine Coast_
@@ -80,3 +104,28 @@ _Remarque Urantiapedia : voir les liens en haut de la page._
 9. Éph 5:8-9 ; Gal 5:22 ; LU 3:5.5
 10. Matthieu 5:9 ; Luc 20:36 ; Jn 1:12-13 ; Romains 8 :14-16 ; Phil 2:15 ; Gal 4:6 ; 1 Jean 3:2 ; LU 141 : 2.2 ; LU 163 :6.7 ; LU 176:3.2
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/On_The_Early_Christians">
+          <span class="pr-2">Sur les premiers chrétiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

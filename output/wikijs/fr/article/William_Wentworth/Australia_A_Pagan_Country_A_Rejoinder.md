@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 William Wentworth<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-6-juillet-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Reynolds/Who_Am_I">
+          <span class="pr-2">Qui suis je</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par William Wentworth
@@ -30,3 +54,28 @@ Lorsque les chrétiens effectuent cette transition de « l’esprit de serviteur
 
 La grande vérité de la paternité de Dieu et de la fraternité des hommes, qui brille comme un phare du meilleur du christianisme, pourrait alors bien attirer certains de ces Australiens à l’esprit laïque qui, sans le savoir, aspirent à la découvrir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia III</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-6-juillet-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_Reynolds/Who_Am_I">
+          <span class="pr-2">Qui suis je</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

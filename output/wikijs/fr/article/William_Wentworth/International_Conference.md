@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De ET à E-3 Garder l’esprit ouvert sur le sujet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-4-juillet-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">Les caprices de la preuve – Une réponse à Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Conférence internationale de la Cinquième Fraternité d'Époque (anciennement Fraternité URANTIA) s'est tenue à Snowmass, Colorado, États-Unis, du 30 juin au 5 juillet. Cinq Australiens et un Néo-Zélandais faisaient partie des plus de 1 000 participants à cinq jours bien organisés et stimulants de présentations, d'ateliers, de divertissements et de socialisation. C'était la deuxième conférence à Snowmass, la première ayant eu lieu en 1981, et les installations étaient superbes.
@@ -35,3 +59,28 @@ Dans l’ensemble, j’ai eu une visite instructive et parfois étonnante auprè
 **William Wentworth**
 **Towamba, Nouvelle-Galles du Sud**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De ET à E-3 Garder l’esprit ouvert sur le sujet</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-4-juillet-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">Les caprices de la preuve – Une réponse à Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

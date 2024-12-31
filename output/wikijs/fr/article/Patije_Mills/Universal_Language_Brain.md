@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les extrêmes de la croyance quand on était un petit enfant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">Que dit le Livre d’Urantia sur la volonté de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Patije Mills, Sarasota, Floride_
@@ -90,3 +114,28 @@ N'est-ce pas fascinant ?
 
 N'hésitez pas à m'écrire si votre imagination est également stimulée et/ou si vous avez découvert certains codes !!!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les extrêmes de la croyance quand on était un petit enfant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">Que dit le Livre d’Urantia sur la volonté de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-6-juillet-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 S’il y avait peu de soleil à l’extérieur, il y en avait certainement beaucoup à l’intérieur. Bien que la conférence ait eu lieu samedi et dimanche, pour de nombreuses personnes venues de l'étranger et de l'étranger, « faire connaissance » avait déjà commencé le jeudi et le vendredi précédent. Nos visiteurs américains avaient toujours l'air brillants et joyeux lorsque nous les avons récupérés à l'aéroport après leur vol de onze heures depuis Tahiti, où ils avaient rendu visite à notre bon ami Emanuel Iou et sa charmante épouse Jeannette.
@@ -66,3 +90,28 @@ Je tiens à remercier, au nom de nous tous ici à Melbourne, toutes les personne
 
 Les conférences concernent les gens. Des gens venus de loin et de près. Et si certains d'entre eux étaient nouveaux pour nous avant la conférence, nous sommes tous repartis comme de vieux amis avec la promesse de se revoir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-6-juillet-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 juillet 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="pr-2">Commentaire sur les déclarations scientifiques dans le Livre d'Urantia III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

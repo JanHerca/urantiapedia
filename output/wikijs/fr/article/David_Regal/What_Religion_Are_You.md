@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 David Regal<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hsi Wang Mu - La reine du paradis occidental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmology_Corner">
+          <span class="pr-2">Le coin de la cosmologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours de mes 18 années d'étude du Livre d'URANTIA et d'efforts pour stimuler les autres à rechercher la vérité dans ses pages, je trouve que l'une des questions les plus fréquemment posées est : « De quelle religion es-tu ?
@@ -34,3 +58,28 @@ David Regal, Palm Beach, Queensland
 
 « La religion qui reconnaît Dieu comme mon Père et tous les hommes et femmes comme mes frères et sœurs et qui m'amène à chercher à connaître la volonté de Dieu et à essayer de faire cette volonté dans ma vie quotidienne. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hsi Wang Mu - La reine du paradis occidental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Cosmology_Corner">
+          <span class="pr-2">Le coin de la cosmologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

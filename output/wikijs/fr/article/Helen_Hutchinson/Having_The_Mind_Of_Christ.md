@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Helen Hutchinson<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frank_Wright/A_Special_Urantian_Remembered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantien spécial rappelé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="pr-2">Pensée spiritualisée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je préparais notre café du matin. Il y avait un petit gravier dans ma chaussure qui m'a irrité. Je l'ai retiré, puis j'ai dit : « Cela me rappelle le conte de fées sur la princesse au petit pois. Elle pouvait sentir le pois à travers 20 matelas. C’est ainsi qu’ils pourraient la distinguer d’un roturier.
@@ -43,3 +67,28 @@ Hélène Hutchinson.
 Département de définitions inhabituelles :
 Ajusteur de Pensée : Une puce de l’ancien bloc.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frank_Wright/A_Special_Urantian_Remembered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantien spécial rappelé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="pr-2">Pensée spiritualisée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

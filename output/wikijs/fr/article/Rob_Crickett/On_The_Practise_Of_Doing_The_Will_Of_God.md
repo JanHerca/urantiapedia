@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le voyage de Michael autour de la Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia — Vers la lumière et la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chacun d'entre nous qui a, dans une certaine mesure, digéré et assimilé les enseignements du _Livre d'URANTIA_, parvient à atteindre une clairière au-delà de sa hauteur et de sa masse et de la grandeur de sa lucidité et de sa beauté ; une génialité qui écrase facilement notre refus de l'humilité.
@@ -84,3 +108,28 @@ Robert Crickett, Melbourne
 
 Pour sauver le monde, aimez simplement la personne à côté de vous.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le voyage de Michael autour de la Terre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia — Vers la lumière et la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

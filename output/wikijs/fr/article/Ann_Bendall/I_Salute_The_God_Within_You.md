@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ann Bendall<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_W_Tozer/The_Power_Of_The_Spirit_Of_Truth">
+          <span class="pr-2">La puissance de l'esprit de vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland._
@@ -81,3 +105,28 @@ Et la prochaine personne qui se présentera, reconnaissant véritablement son in
 
 > « _Jésus dit à Jean : « Jean, m’aimes-tu ? » Et, lorsque Jean eut répondu : « Oui, Maitre, de tout mon cœur », le Maitre dit : « Alors, Jean, renonce à ton intolérance et apprends à aimer les hommes comme je t’ai aimé. Consacre ta vie à prouver que l’amour est la plus grande chose du monde. »_ » (<a id="a81_300"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_W_Tozer/The_Power_Of_The_Spirit_Of_Truth">
+          <span class="pr-2">La puissance de l'esprit de vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

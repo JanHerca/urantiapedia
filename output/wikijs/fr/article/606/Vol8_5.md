@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 William Wentworth, Leith Luckett, Robert Crickett, Henry Begemann<br>© 1987 ANZURA, Australie et Nouveau Association Urantia de Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">Conférence générale de la Fraternité Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -164,3 +185,25 @@ Ian Esmore, Melbourne
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">Conférence générale de la Fraternité Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

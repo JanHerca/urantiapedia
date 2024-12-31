@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La moralité est une loi en soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">Est-ce important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall, Nambour, Qld._
@@ -38,3 +62,28 @@ Tout cela est formidable pour moi, en tant qu'étudiant du Livre d'URANTIA. Mon 
 
 La thérapie au niveau psychologique est considérée comme fournissant l'intégration nécessaire pour parvenir à la synthèse au niveau spirituel. Les théoriciens postulent également qu’il faut expérimenter les éléments fondamentaux que sont l’amour, la foi, la confiance et l’espérance au niveau humain avant de pouvoir les expérimenter avec Dieu. Ils croient donc que la thérapie peut contribuer aux objectifs spirituels en fournissant des expériences émotionnelles fondamentales que la personne peut ensuite utiliser dans ses expériences spirituelles, et qu'elle peut également clarifier les distorsions de la relation avec Dieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La moralité est une loi en soi</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">Est-ce important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

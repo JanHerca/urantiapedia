@@ -10,6 +10,24 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Neil Francey, Madeline Noordzy, et al<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Association Urantia </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-2-10e-anniversaire">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 10e anniversaire</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -1341,3 +1359,22 @@ L'éditeur, Six-0-Six Newsletter, 2 Salisbury Court, Glen Waverley, Vic. 3150 AU
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-2-10e-anniversaire">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 10e anniversaire</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

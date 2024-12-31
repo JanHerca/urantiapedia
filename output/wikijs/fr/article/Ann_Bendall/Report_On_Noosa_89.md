@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers la spécialisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">L’étoile de Bethléem annoncée dans le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le moment, du point de vue météorologique, était parfait – même si la communauté locale espérait de la pluie attendue depuis longtemps – mais pour nous, participants à la conférence, la Sunshine Coast s’est retournée contre son homonyme.
@@ -70,3 +94,28 @@ Pour moi-même, et je crois pour tout le groupe, nous rendons grâce à Dieu de 
 
 Cecilia A. Bendall, Nambour, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers la spécialisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-6-novembre-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 novembre 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">L’étoile de Bethléem annoncée dans le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

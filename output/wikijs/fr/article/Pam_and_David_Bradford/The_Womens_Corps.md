@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Pam et David Bradford<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Variété — Les dés de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_Caligastia_Really_Get_At_Our_Minds">
+          <span class="pr-2">Caligastia peut-elle vraiment nous toucher ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Pam et David Bradford, Eden, NSW_
@@ -58,3 +82,28 @@ Les membres du Corps des Femmes se sont montrées fidèles à Jésus jusqu'au bo
 <img src="/image/article/606/three_man.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Variété — Les dés de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Can_Caligastia_Really_Get_At_Our_Minds">
+          <span class="pr-2">Caligastia peut-elle vraiment nous toucher ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

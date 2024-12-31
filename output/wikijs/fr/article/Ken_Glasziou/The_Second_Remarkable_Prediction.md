@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="pr-2">Baptême de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années (<a id="a14_223"></a>[LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.
@@ -28,3 +52,28 @@ Il est tout à fait impossible de calculer les chances de ne pas avoir raison su
 
 Ken Glasziou, Maleny, Queensland
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol9_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-4-juillet-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 juillet 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="pr-2">Baptême de l'Esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Henry Begemann<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’AMITIÉ est une relation existant à plusieurs niveaux. S’il s’agit d’un grade élevé, c’est une grande valeur humaine. Cela peut même être entrecoupé de sentiments fraternels.
@@ -30,3 +51,25 @@ Efforçons-nous donc de comprendre. L'univers (et le Livre d'URANTIA) fourmillen
 
 Henry Begemann, Wassenaar, Hollande
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À propos de la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-5-septembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 septembre 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

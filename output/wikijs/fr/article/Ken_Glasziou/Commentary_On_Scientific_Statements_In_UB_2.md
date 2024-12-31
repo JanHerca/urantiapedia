@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Jensen/Australia_A_Pagan_Country">
+          <span class="pr-2">L'Australie : un pays païen ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Atmosphères planétaires
@@ -50,3 +74,28 @@ Les minuscules particules dépourvues de potentiel électrique mentionnées dans
 
 Ken Glasziou, Clifton, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-5-juin-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 juin 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Peter_Jensen/Australia_A_Pagan_Country">
+          <span class="pr-2">L'Australie : un pays païen ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Matthew Block<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résumé de la conférence Elanora 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">Le but de la cinquième révélation d’époque ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -122,3 +146,28 @@ Article 41, « Aspects physiques de l'univers local » ; Fascicule 42, « Énerg
 <img src="/image/article/606/cartoon12.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Résumé de la conférence Elanora 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-6-novembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 novembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">Le but de la cinquième révélation d’époque ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

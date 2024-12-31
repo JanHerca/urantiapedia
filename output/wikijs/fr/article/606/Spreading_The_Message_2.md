@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Gods_Limitations">
+          <span class="pr-2">Les limites de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ nous a instruit sur l'importance des ouvrages secondaires pour faire circuler ses enseignements de base dans une circulation générale (<a id="a14_156"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)). Même dans les pays occidentaux où le taux d’alphabétisation dépasse largement 90 % de la population, des enquêtes ont indiqué que moins d’un adulte sur dix lisait un livre sérieux. Ce qui signifie sûrement qu'il est peu probable que _Le Livre d'URANTIA_ soit largement lu dans un avenir prévisible.
@@ -39,3 +63,28 @@ Veuillez envoyer vos contributions sous forme de copie dactylographiée, ou mieu
 <figcaption>'Ils auraient très bien pu faire le tour de Quarry Hill !'</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La science et l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neil_Francey/Gods_Limitations">
+          <span class="pr-2">Les limites de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

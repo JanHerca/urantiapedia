@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Henry Begemann<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'URANTIA dans 200 ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Personnalisation » signifie à mon avis : rendre ou être rendu personnel ou une personne. Cela se produit pour la première fois lorsque le Père confère une personnalité à un organisme vivant doté de l'esprit. La personnalité est l'un des mystères fondamentaux de l'univers, mais ayant son origine dans la Source et Centre Premier, et étant capable de fonctionner au niveau absolu tout en restant toujours inchangé, nous pouvons en déduire que cette personnalité majestueuse ne se connaît pas, du moins. pas complètement. Sa carrière universelle sert à se réaliser.
@@ -38,3 +59,25 @@ Bien sûr, des questions subsisteront, mais la vérité vivante est une vérité
 
 Henry Begemann, Wassenaar, Pays-Bas
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'URANTIA dans 200 ans</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-1-janvier-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 janvier 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

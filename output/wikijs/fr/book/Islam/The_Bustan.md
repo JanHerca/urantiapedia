@@ -47,6 +47,7 @@ Il s'agit d'une traduction en prose du Bustan de Sadi, publié à l'origine dans
 
 Né à Shiraz, en Iran, en 1184, Sādi (pseudonyme de Muslih-ud-Din Mushrif ibn Abdullah) est considéré comme l'un des plus grands poètes persans médiévaux. Il a beaucoup voyagé, à travers des régions de ce qui est aujourd'hui la Syrie, la Turquie, l'Égypte et l'Irak. Des vignettes de caravanes et de scènes de rue donnent vie à ses récits. Dans sa vieillesse, il est retourné à Shiraz et a composé ses deux œuvres les plus connues, le poétique _Bustan_, ou _Verger_ (en 1257), et le prose [_Gulistan_](/fr/book/Islam/The_Gulistan), le _Jardin de roses_ (en 1258). Il est mort en 1283 ou peut-être en 1291.
 
+<br>
 
 ## Table des Matières
 

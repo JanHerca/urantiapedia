@@ -85,7 +85,7 @@ Londres : Heinemann<br>
 	- [XLII. Le véritable amour a disparu de tous les cœurs](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/42)
 	- [XLIII. Où sont les nouvelles de l'union ? afin que je puisse me lever](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/43)
 - [Remarques](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes)
-	- [Je](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#i)
+	- [I](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#i)
 	- [II](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#ii)
 	- [III](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#iii)
 	- [IV](/fr/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#iv)

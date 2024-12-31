@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Trevor Swadling<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Cultural_Diversity_And_Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diversité culturelle et unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Holes_And_Neutron_Stars">
+          <span class="pr-2">Trous noirs et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le sujet que je m'apprête à présenter, je l'ai intitulé « Combien de mortels survivent ». Avant de passer à ma présentation, j'aimerais dire que je ne suis parvenu à aucune conclusion définitive sur ce sujet, même si je dois admettre qu'après des recherches Je lis maintenant certaines sections du _Livre d'URANTIA_ sous un jour différent. J'aimerais également souligner que tout au long de ce sujet, nous devrions garder à l'esprit que :
@@ -71,3 +95,28 @@ Trevor Swadling, Sydney
 
 Tel que présenté à la réunion régionale du Pacifique Sud des lecteurs du Livre d'URANTIA, octobre 1988 à Robertson, N.S.W.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Cultural_Diversity_And_Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diversité culturelle et unité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Holes_And_Neutron_Stars">
+          <span class="pr-2">Trous noirs et étoiles à neutrons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

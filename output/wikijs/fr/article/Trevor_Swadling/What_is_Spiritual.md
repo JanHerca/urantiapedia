@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="pr-2">Les extrêmes de la croyance quand on était un petit enfant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bien que parmi nos semblables, il y ait beaucoup de confusion sur ce qui est spirituel, le chemin vers la conscience de Dieu, l'illumination, le chemin ou la technique, il me semble que Dieu en tant que personnalité est connaissable et donc les gens qui cherchent Dieu. devraient avoir quelque chose en commun avec leurs expériences. Au fil des années, mes contacts avec mes semblables ont personnellement confirmé que cela était vrai ; après tout, si nous avions un ami cher que nous connaissions tous les deux, selon le degré et la durée de notre relation avec lui, il y aurait sûrement des aspects de sa nature et de son caractère que nous en aurions tous deux reconnus et admirés.
@@ -20,3 +44,28 @@ Que dit le _Livre d'URANTIA_ à ce sujet ? Comme nous le savons, de grandes part
 
 _Le Livre d'URANTIA_ est l'un de ces moyens (de mon point de vue, le plus grand) pour atteindre cet objectif, mais nous ne devons en aucun cas le considérer comme une fin en soi. Il y a une déclaration dans la Bible qui dit : « Il y a une voie qui semble droite à l’homme mais qui finit par mourir ». _Le Livre d'URANTIA_ expose cela à partir de sa symphonie de cosmologie, de philosophie et de religion, déclarant qu'il existe un chemin aventureux ordonné par Dieu par lequel l'homme s'élève finalement pour devenir semblable à Dieu et cette technique pour développer une relation personnelle avec Dieu est finalement et délicieusement décrite dans la vie et les enseignements de Jésus. C'est pourquoi je pense qu'en ce qui concerne notre croissance, on peut vraiment dire : « Il est le chemin de la vérité et de la vie ». À mes collègues lecteurs du Livre d'URANTIA et à tous les autres, je vous tire mon chapeau à tous, et je vous souhaite le meilleur dans votre tentative de rechercher et de partager les réalités spirituelles.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="pr-2">Les extrêmes de la croyance quand on était un petit enfant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

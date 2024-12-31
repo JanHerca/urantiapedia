@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Edward Kendrex<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Six_O_Six_Review">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revue Six-O-Six</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="pr-2">Discussion sur les progrès de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai découvert _Le Livre d'URANTIA_ en 1977 alors que je rendais visite à un ami à Phoenix, en Arizona. Le livre a changé ma vie. Jusque-là, Dieu ne pouvait me contacter par aucun canal que je connaissais. _Le Livre d'URANTIA_ est devenu le canal qui me permet de comprendre ma relation (filiation) avec Lui.
@@ -54,3 +78,28 @@ Voici quelques-unes de mes réflexions sur _Le Livre d'URANTIA_ qui pourraient i
 
 **Edward Kendrex, Perth**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/Six_O_Six_Review">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revue Six-O-Six</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="pr-2">Discussion sur les progrès de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

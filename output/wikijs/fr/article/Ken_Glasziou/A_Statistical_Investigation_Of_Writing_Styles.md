@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dans le monde réel, les inégalités sont naturelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">Une vision pour l'avenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ken Glasziou, Maleny, Queensland_
@@ -93,3 +117,28 @@ _Tableau. Une comparaison des styles d'écriture dans différentes sections du L
 
 [Remarque : Un niveau de probabilité de 0,1 % indique qu'il y a moins d'une chance sur 1 000 que les deux comparaisons effectuées soient tirées du même échantillon. En d’autres termes, un niveau de signification de 0,1 % indique qu’il y a moins d’une chance sur mille que les deux échantillons aient les mêmes auteurs. Le niveau de 5 % est généralement accepté et indique une différence significative.]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dans le monde réel, les inégalités sont naturelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">Une vision pour l'avenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

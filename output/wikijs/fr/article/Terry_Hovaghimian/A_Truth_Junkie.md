@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Terry Hovaghimian<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment je me sens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Arriver à une « décision finale »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comme d'habitude, depuis que j'ai commencé à élargir ma quête de vérité à l'aide du _Livre d'URANTIA_ et que je viens d'assister à ma deuxième conférence, le temps passé ensemble s'est écoulé si rapidement, avec un tel plaisir pour les événements et les personnes partageant une expérience de base similaire de la vérité, que nous embrassons sous tous les angles de notre présence spirituelle intuitive et des États d'Amérique et d'Australie, que je ne suis plus surpris par la rapidité des réponses à mes questions, en particulier aux questions que j'ai oublié de poser lors de la conférence.
@@ -26,3 +50,28 @@ Après avoir partagé une conférence de quatre jours à l'Arrabri Lodge à East
 
 **Terry Hovaghimian, Sydney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment je me sens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Arriver à une « décision finale »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

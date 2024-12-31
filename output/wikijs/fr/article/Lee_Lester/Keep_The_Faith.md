@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Lee Lester<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous une idée ? C'est un point discutable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Lee Lester, Saratosa, Floride_
@@ -42,3 +63,25 @@ Jésus a également dit un jour : « _si vous avez foi que votre Père paradisia
 
 La religion de Jésus-Christ contrastera à jamais avec les formes compliquées, complexes et dictatoriales de croyances philosophiques. Si simple que même l’enfant le plus écarquillé peut comprendre : Dieu vous aime et nous sommes tous ses enfants.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avons-nous une idée ? C'est un point discutable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

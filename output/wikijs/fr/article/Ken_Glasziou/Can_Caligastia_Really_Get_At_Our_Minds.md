@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Corps des Femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
@@ -70,3 +91,25 @@ Jésus n'était jamais pressé. Il avait toujours le temps de réconforter les h
 
 Peut-on en dire autant du mouvement Urantia ? Je crois que non. Combien ont réfléchi à la profondeur de la signification pour eux-mêmes de ces mots étranges dans les béatitudes qui sont si contraires aux aspirations naturelles des humains à être importants : « Heureux les pauvres sont les esprits — les humbles — car à eux sont les trésors du Royaume du Paradis. Heureux les doux, car ils hériteront de la terre. Heureux les artisans de paix, car ils seront appelés fils de Dieu. Considéré sous cet angle, combien de lecteurs du Livre d’URANTIA croient vraiment qu’ils sont admissibles ? Le secret de la vie religieuse sans précédent de Jésus était sa conscience de la présence de Dieu – et non d'une entité spirituelle ésotérique hors de ce monde. Jésus a atteint cette conscience par une prière intelligente et une adoration sincère – une communion ininterrompue avec Dieu – et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires (<a id="a70_973"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)). Le conseil qu’il nous donne aujourd’hui pourrait bien être celui consigné dans la Bible : « Va et fais de même ».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Corps des Femmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-1-janvier-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 janvier 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

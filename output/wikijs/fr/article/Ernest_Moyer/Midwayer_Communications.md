@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ernest Moyer<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalisation et troubles mentaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message">
+          <span class="pr-2">Faire passer le message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Extraits de « Un rapport sur la canalisation dans la communauté Urantia » par Ernest Moyer_
@@ -49,3 +73,28 @@ Plus encore, l’Ajusteur de Pensée doit partir pour que « l’Intelligence Sp
 <figcaption>Et puis, pour un gibbon vieux de deux millions d'années nommé Gus.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalisation et troubles mentaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message">
+          <span class="pr-2">Faire passer le message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

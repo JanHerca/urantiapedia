@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/A_Message_From_Gabriel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message de Gabriel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="pr-2">Une explication de la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ce qu'un numéro du dixième anniversaire de 36 pages n'a pas pu faire, mon article « De E.T. à E-3 » était apparemment, et c'est-à-dire susciter une réponse !
@@ -63,3 +87,28 @@ Au fait, saviez-vous que même les finalitaires adorent spéculer sur l'avenir e
 **Madeline Noordzy**
 **Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/A_Message_From_Gabriel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un message de Gabriel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="pr-2">Une explication de la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

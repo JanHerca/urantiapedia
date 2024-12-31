@@ -10,6 +10,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Martin McBurney<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pratique consistant à faire la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="pr-2">Explorer notre propre arrière-cour – Le système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -48,3 +72,28 @@ Il y a une chanson intitulée « Que faites-vous, le test de votre vie ? ». Eh 
 Est-ce que je m’attends à voir de réels progrès au cours de ma vie ? Oui je le fais! Cette chanson est tirée d'un film intitulé _« The Happy Ending » !_
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur la pratique consistant à faire la volonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-5-septembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 septembre 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="pr-2">Explorer notre propre arrière-cour – Le système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

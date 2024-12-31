@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Tony Rudd<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une explication de la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elfie_Knight/A_Visit_Home">
+          <span class="pr-2">Une visite à domicile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un jour, deux fourmis, Brilly et Ignor, se tenaient ensemble sur leur balle de tennis, ayant une de leurs discussions philosophiques habituelles.
@@ -38,3 +62,28 @@ Brilly a expliqué : « Eh bien, c'est comme ça. Nous sommes tous les deux sur 
 
 **Tony Rudd, Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une explication de la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Elfie_Knight/A_Visit_Home">
+          <span class="pr-2">Une visite à domicile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

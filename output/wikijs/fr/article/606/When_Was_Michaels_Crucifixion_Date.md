@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-2-mars-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Terre Du Matin Calme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est parfois intéressant de voir à quel point la science se rapproche de la vérité. Prenons par exemple le débat sur la date exacte de la crucifixion.
@@ -36,3 +60,28 @@ Si vous vous en tenez au récit des Médians du 7 avril 30 après J.-C., je me d
 
 Extrait de : Actualités scientifiques, Vol. 125, janvier 1984
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-2-mars-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 mars 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Terre Du Matin Calme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

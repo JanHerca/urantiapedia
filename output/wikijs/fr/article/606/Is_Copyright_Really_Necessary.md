@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="pr-2">Faire des évaluations justes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par le groupe d'étude de la Sunshine Coast_
@@ -90,3 +114,28 @@ Que se passerait-il si ces pouvoirs étaient révoqués ? Quoi qu’il arrive, c
 
 Allons-nous échouer devant notre Maître, ou sommes-nous prêts à essayer à nouveau de suivre le vrai chemin de l’amour fraternel ?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol13_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="pr-2">Faire des évaluations justes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

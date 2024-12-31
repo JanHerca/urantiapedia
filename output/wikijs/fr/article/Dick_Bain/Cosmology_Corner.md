@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Richard Bain<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De quelle religion es tu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">Alors, quel est le lien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque j’ai commencé à écrire la section « Cosmology Corner » il y a environ un an et demi, il semblait que la théorie du Big Bang était si fermement ancrée qu’elle durerait des décennies. Il est fascinant de voir à quel point une structure peut paraître si solide juste avant de s'effondrer à cause des dégâts causés par les termites. Il semble maintenant que quelques cosmologistes termites grignotent la structure de la théorie.
@@ -35,3 +59,28 @@ Richard Bain, Saint-Pétersbourg, FL, États-Unis
 
 Je suis intéressé de connaître la réaction, le cas échéant, à votre annonce dans le 6-0-6 de l'étude par courrier. Je me demande si cela « pourrait devenir le plus grand groupe d’étude mondial ». Quoi qu'il en soit, si je peux servir un étudiant dispersé, j'en serai heureux. L'auteur de cet article long et confus sur la réincarnation devrait faire la différence entre la réincarnation, que notre livre nie, et la repersonnalisation, cette dernière étant le processus que notre livre enseigne. Je pourrais approfondir cela, mais pour le moment je dois attendre.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De quelle religion es tu?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">Alors, quel est le lien ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

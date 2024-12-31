@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 William Wentworth<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 1 février 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-1-février-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 1 février 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Service_Motive">
+          <span class="pr-2">Le motif du service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lors d'un récent séminaire politique à Sydney, il a été clairement compris que la qualité de notre vie politique découle des valeurs que nous défendons. Les valeurs selon lesquelles nous vivons déterminent l’essence et la qualité de toute notre civilisation ; et notre système de coopération et de contrôle sociaux – notre vie politique en général – ne fait pas exception. Comprendre ce fait – que les valeurs sont à la base de tous nos processus sociaux – est l’une des clés pour améliorer le niveau de notre vie politique en Australie, mais c’est un élément qui semble souvent négligé à la fois par les élus et par la population. grand.
@@ -26,3 +50,28 @@ Il semble donc que le moment soit venu de nous rappeler que l’enseignement de 
 
 William Wentworth, Towamba, Nouvelle-Galles du Sud
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 1 février 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-1-février-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 1 février 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Service_Motive">
+          <span class="pr-2">Le motif du service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

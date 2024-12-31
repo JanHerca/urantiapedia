@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny_
@@ -166,3 +187,25 @@ Cela semble peut-être un peu extrême, mais c’est la vérité. Lorsque nous o
 
 La mort de Jésus sur la croix était l'épreuve ultime et la preuve ultime de son allégeance totale à Dieu. Et en plus de ça, c’était pour nous l’exemple ultime.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Trevor Swadling<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Responsibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Responsabilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="pr-2">Une enquête statistique plus approfondie sur les styles d'écriture dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Trevor Swadling, Sydney_
@@ -46,3 +70,28 @@ En conclusion, regardons trois cas dans _Le Livre d'URANTIA_ qui ont un fil cond
 
 À mon avis, notre attitude envers Caligastia en tant que personne devrait être celle de la non-reconnaissance, comme le livre l'indique – il est presque fini et je crois que ce n'est qu'une question de temps.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Responsibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Responsabilité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="pr-2">Une enquête statistique plus approfondie sur les styles d'écriture dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

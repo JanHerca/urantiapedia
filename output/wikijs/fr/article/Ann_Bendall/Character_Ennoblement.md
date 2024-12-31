@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Environmentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Environnementalisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="pr-2">Le message se propage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -50,3 +74,28 @@ Maintenant, quand je rassemble toutes les sources d'explication sur les concepts
 
 Plus j’étudie le Livre d’URANTIA, plus j’apprécie que mon intellect ne puisse pas absorber les informations contenues. Je ne peux pas produire une liste d'acquisitions et m'efforcer vaillamment de les atteindre, car le livre est plein de concepts, de symboles linguistiques, que mon cœur connaît (grâce à l'Esprit de Vérité de Michael), mais mon Ajusteur de Pensée va avoir une bataille difficile à mener. essayant de percer l'esprit de cet enfant du XXe siècle. Mais d’une chose dont je suis sûr : Dieu veut que les enseignements de Jésus soient applicables à moi, et c’est donc à moi de me laisser ouvert, disposé et désireux d’être ennobli et culturellement augmenté.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/Environmentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Environnementalisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-5-septembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 septembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="pr-2">Le message se propage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

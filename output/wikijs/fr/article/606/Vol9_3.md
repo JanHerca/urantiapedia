@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou, William Wentworth, Robert Crickett, Don Lee<br>© 1988 ANZURA, Australie et Nouveau Association Urantia de Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Deux prédictions remarquables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -277,3 +298,25 @@ VERS LE BAS
 48\. Abréviation de Ajusteur de Pensée (2)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-n°-3-mai-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 n° 3 mai 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Deux prédictions remarquables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

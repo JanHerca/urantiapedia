@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Tony Rudd<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ego">
+          <span class="pr-2">Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Tony Rudd, Melbourne_
@@ -60,3 +84,28 @@ Au cours de son séjour de six mois à Rome avec les trente-deux chefs religieux
 
 > « _...Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ..._ » (<a id="a60_394"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-6-numéro-final">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 6 Numéro final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Ego">
+          <span class="pr-2">Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

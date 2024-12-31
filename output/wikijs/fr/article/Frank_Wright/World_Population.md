@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-3-mai-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_Arent_They_Knocking_On_My_Door">
+          <span class="pr-2">Pourquoi ne frappent-ils pas à ma porte ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au moment où vous aurez fini de lire cette phrase, la population d'Urantia augmentera de 7 personnes ! Lorsque vous aurez fini de lire cet article, la population mondiale aura augmenté de plus de 2 500 personnes. Demain, à cette heure, il y en aura plus de 190 000... soit 1 300 000 par semaine... 6 000 000 de plus dans un mois : 72 000 000 par an !
@@ -118,3 +142,28 @@ Frank Wright, Knoxville, Tennessee. Etats-Unis
 
 Cet article a été publié pour la première fois dans FSFS PURSUIT OF WISDOM, décembre 1988 et utilisé avec la permission de l'auteur.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-3-mai-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Why_Arent_They_Knocking_On_My_Door">
+          <span class="pr-2">Pourquoi ne frappent-ils pas à ma porte ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

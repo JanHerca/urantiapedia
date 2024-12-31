@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Faire un service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je pense que cela ne sera pas nécessaire si nous choisissons de voler par oiseau, mais les dispositifs mécaniques auront besoin d'instructions opérationnelles. En fait, en lisant _Le Livre d'URANTIA_, j'ai l'impression que ce sont de petits hélicoptères morontiels, et je soupçonne que le nombre de sièges à bord est limité. Mon Dieu, j'espère qu'ils auront au moins de la place pour un navigateur, car j'ai une image mentale de moi essayant de diriger l'engin à travers l'espace avec une carte à l'envers sur mes genoux (peut-être que je ne serai pas gaucher sur le mondes de maisons) essayant de comprendre où je vais.
@@ -32,3 +56,28 @@ Au-delà d'un rapide coup d'œil sur la vie dans le monde des maisons post-Urant
 
 **Ann Bendall, Nambour, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Faire un service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

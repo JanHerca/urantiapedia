@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/New_Planetary_Prince">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau Prince Planétaire !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/A_Message_From_Gabriel">
+          <span class="pr-2">Un message de Gabriel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 18 août 1990
@@ -27,3 +51,28 @@ Caligastia n'a pris aucun engagement avant de quitter la réunion, nous ne pouvo
 **Centre planétaire de lumière**
 **Nouveau Mexique**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/New_Planetary_Prince">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau Prince Planétaire !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/A_Message_From_Gabriel">
+          <span class="pr-2">Un message de Gabriel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

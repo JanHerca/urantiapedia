@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Martin Mc Burney<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">Le cerveau droit et gauche</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une réunion australienne des lecteurs du Livre d'URANTIA a eu lieu le week-end de la Melbourne Cup, du samedi 3 au mardi 6 novembre. Nous nous sommes rendus à Warburton East, à environ 80 km à l'est de Melbourne, au pied de la Great Dividing Range.
@@ -57,3 +81,28 @@ _Note de l'éditeur:_
 
 _De nombreuses personnes m'ont demandé de transmettre à nouveau leur sincère gratitude à Martin pour la manière splendide dont il a organisé la conférence._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">Le cerveau droit et gauche</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

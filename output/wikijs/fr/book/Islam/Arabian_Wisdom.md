@@ -56,6 +56,7 @@ MES ENFANTS<br>
 
 Ce petit recueil de littérature sur la sagesse islamique a été publié à l'origine dans la série Sagesse de l'Orient. Il contient des joyaux du Coran, des hadiths, des proverbes et des aphorismes traditionnels. Il est principalement destiné à être lu avec plaisir ; malheureusement, les dictons ne sont pas attribués, ce qui le rend moins utile en tant qu'ouvrage universitaire.
 
+<br>
 
 ## Table des Matières
 

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Cindy Hopper<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 3 mai 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-3-mai-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 3 mai 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Réimprimé avec la permission de PRINTS OF PEACE, Vol IV, No 3, février 1990.**
@@ -47,3 +68,25 @@ Il indique également que les groupes d'implantation orientaux et centraux déve
 **Cindy Hopper**
 **Toronto, Canada**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 3 mai 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-3-mai-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 3 mai 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

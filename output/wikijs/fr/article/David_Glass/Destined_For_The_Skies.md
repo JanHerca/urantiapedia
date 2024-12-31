@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 David Glass<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Feet_Washing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lavage des pieds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Notre vie est un don avec la propre garantie de Dieu
@@ -27,3 +48,25 @@ Parce qu'aucune âme ne s'y attardera une fois dit
 De toute la liberté qui vit dans les cieux
 Où les âmes trouvent des liens familiaux universels.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Feet_Washing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lavage des pieds</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

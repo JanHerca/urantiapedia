@@ -41,7 +41,7 @@ scanné sur sacred-texts.com, novembre 2005. Vérifié et mis en forme par John 
 
 - [Préface](/fr/book/Islam/The_Philosophy_of_Alfarabi/Front_matter)
 - [Préface](/fr/book/Islam/The_Philosophy_of_Alfarabi/Preface)
-- [Vie et oeuvres](/fr/book/Islam/La_philosophie_d_Alfarabi/Life_and_Works)
+- [Vie et oeuvres](/fr/book/Islam/The_Philosophy_of_Alfarabi/Life_and_Works)
 - [Contenu](/fr/book/Islam/The_Philosophy_of_Alfarabi/Contents)
 - [Introduction](/fr/book/Islam/The_Philosophy_of_Alfarabi/Introduction)
 - Partie I. Logique
@@ -52,8 +52,8 @@ scanné sur sacred-texts.com, novembre 2005. Vérifié et mis en forme par John 
 - Partie III. Philosophie pratique
 	- [Chapitre IV. Éthique](/fr/book/Islam/The_Philosophy_of_Alfarabi/4)
 	- [Chapitre V. La société politique](/fr/book/Islam/The_Philosophy_of_Alfarabi/5)
-- [Conclusion](/fr/book/Islam/La_philosophie_d_Alfarabi/Conclusion)
-- [Bibliographie](/fr/book/Islam/La_philosophie_d_Alfarabi/Bibliography)
+- [Conclusion](/fr/book/Islam/The_Philosophy_of_Alfarabi/Conclusion)
+- [Bibliographie](/fr/book/Islam/The_Philosophy_of_Alfarabi/Bibliography)
 - [Index](/fr/book/Islam/The_Philosophy_of_Alfarabi/Index)
 
 ## Liens externes

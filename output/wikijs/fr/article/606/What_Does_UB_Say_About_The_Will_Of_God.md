@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patije_Mills/Universal_Language_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerveau de langage universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="pr-2">Une analyse de l'affaire Kristen Maaherra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 S'adressant à Nicodème, Jésus dit :
@@ -58,3 +82,28 @@ Au revoir pour l'instant et que Dieu vous bénisse,
 
 _Votre ordinateur convivial_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patije_Mills/Universal_Language_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerveau de langage universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="pr-2">Une analyse de l'affaire Kristen Maaherra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

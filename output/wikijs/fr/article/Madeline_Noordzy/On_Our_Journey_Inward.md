@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lao Shou Hsing, Dieu de la longévité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'URANTIA_ des dix parle de notre carrière universelle comme d'une ascension ou d'une ascension ascendante, mais ajoute comme précision qu'en réalité il s'agit d'un voyage vers l'intérieur. (<a id="a14_201"></a>[LU 32:3.11](/fr/The_Urantia_Book/32#p3_11))
@@ -67,3 +88,25 @@ Pour certaines personnes, c’est un voyage périlleux. « Certes, votre origine
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lao Shou Hsing, Dieu de la longévité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-4-juillet-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 juillet 1987</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

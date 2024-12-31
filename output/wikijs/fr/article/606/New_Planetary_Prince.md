@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Caligastias_Visit">
+          <span class="pr-2">La visite de Caligastia !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Annonce
@@ -61,3 +85,28 @@ Par conséquent, la JOYEUSE ANNONCE est que vous avez un nouveau PRINCE PLANÉTA
 **Sous le Sceau du Centre Planétaire de Lumière**
 **Nouveau Mexique**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/606/Caligastias_Visit">
+          <span class="pr-2">La visite de Caligastia !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

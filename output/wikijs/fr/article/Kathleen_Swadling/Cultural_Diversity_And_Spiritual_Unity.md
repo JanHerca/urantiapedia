@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">Combien de mortels survivent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Présentation d'introduction
@@ -30,3 +54,28 @@ Je voudrais terminer avec cette pensée. C'est une citation du _Le Livre d'URANT
 
 > « Les familles, les groupes, les nations, les races, les mondes, les systèmes, les constellations et les univers sont des associations de relations, possédant une individualité ; c’est pourquoi tout membre d’un groupe, grand ou petit, récolte les bénéfices des bonnes actions et supporte les conséquences des méfaits de tous les autres membres du groupe concerné. » (<a id="a30_369"></a>[LU 54:6.3](/fr/The_Urantia_Book/54#p6_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">Combien de mortels survivent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

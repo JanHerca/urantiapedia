@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur Mota, le langage et l'humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-5-septembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 septembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Need_for_Group_Wisdom">
+          <span class="pr-2">Le besoin de sagesse de groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cet atelier a eu lieu en conjonction avec une réunion à travers toute l'Australie des lecteurs du Livre d'URANTIA à Noosa, Queensland en octobre 1989, à laquelle ont participé 31 dévots venant de Victoria, de Nouvelle-Galles du Sud et du Queensland, et dont un visiteur des États-Unis. Le sujet de l'atelier était une citation de LU 155 : 1.4 du _Le Livre d'URANTIA_, faite par Jésus comme suit :
@@ -63,3 +87,28 @@ Vers la conclusion de l'atelier, Trevor Swadling, représentant son groupe, s'es
 **Le groupe d'étude de la Sunshine Coast**
 **Tewantin, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur Mota, le langage et l'humour</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-5-septembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 septembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Madeline_Noordzy/The_Need_for_Group_Wisdom">
+          <span class="pr-2">Le besoin de sagesse de groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

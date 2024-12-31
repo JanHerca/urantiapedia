@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psychologie transpersonnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Crise de l'alphabétisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ken Glasziou, Maleny, Qld._
@@ -30,3 +54,28 @@ J'aimerais que le texte de la première impression soit respecté sans modificat
 
 L'administrateur qui a placé ma protestation de faible priorité à l'ordre du jour de la réunion de la Fondation a récemment quitté l'Australie, faisant remarquer que je suis la seule personne préoccupée par cette question. Suis-je? Es-tu?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psychologie transpersonnelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Crise de l'alphabétisation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

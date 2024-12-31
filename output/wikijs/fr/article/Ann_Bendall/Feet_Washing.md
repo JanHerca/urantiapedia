@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ann Bendall<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le carrefour des révélations d’époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Destined_For_The_Skies">
+          <span class="pr-2">Destiné au ciel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -24,3 +48,28 @@ Et donc nous regardons les commandements. Les commandements de l’époque de Mo
 
 Maintenant, juste au cas où nous serions confus dans notre définition opérationnelle de « l’amour », nous nous référons simplement au livre bleu et nous voyons comment Jésus a montré son amour dans plus de situations qu’aucun d’entre nous ne connaîtra jamais au cours de sa vie ici. Tout est si simple. En effet, nous sommes des enfants de Dieu gâtés.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le carrefour des révélations d’époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Destined_For_The_Skies">
+          <span class="pr-2">Destiné au ciel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

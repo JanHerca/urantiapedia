@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur le texte et le droit d'auteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">Dans le monde réel, les inégalités sont naturelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Autres commentaires, par Ann Bendall, Nambour, Queensland_
@@ -33,3 +57,28 @@ Une création humaine qui satisfait les besoins humains en utilisant les lois hu
 <figcaption>Pauvre Harold, il a toujours dit que ces trois livres l'emmèneraient au paradis.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur le texte et le droit d'auteur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">Dans le monde réel, les inégalités sont naturelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

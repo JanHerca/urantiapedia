@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Cook/The_Parable_Of_The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parabole du semeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="pr-2">Le texte original aurait-il dû être modifié ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall, Sunshine Coast, Brisbane_
@@ -44,3 +68,28 @@ En racontant le déni tragique de Peter, je me demande s'il existe une parabole 
 
 Je pense que je devrais peut-être prier Jésus de me donner un signal. J’en ai tellement marre de passer la plupart de mon temps sur le mauvais chemin de la vie. Je veux vraiment être un personnage grand et noble. Il me semble avoir la capacité innée d'approcher la perfection par un processus par lequel je commets toutes les erreurs imaginables et, en dernier recours, tout cela grâce au dévouement de mon Ajusteur de Pensée, je tombe finalement sur le chemin de la droiture. Et puis je souris, alors que je me souviens que notre Fils Créateur bien-aimé m’a fait l’honneur de répondre à ma prière pour un « signal » – il m’a donné – _Le Livre d’URANTIA_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Cook/The_Parable_Of_The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La parabole du semeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-1-janvier-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 janvier 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="pr-2">Le texte original aurait-il dû être modifié ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

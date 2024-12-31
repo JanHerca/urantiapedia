@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Anna Dollard<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière contemplative</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">La science et l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Anna Dollard_
@@ -33,3 +57,28 @@ EJ Dwyer a bénéficié du « phénomène d’éclosion » des lecteurs généra
 
 Le titre religieux le plus important à pénétrer dans la littérature grand public cette année sera peut-être « Jesus The Man » du Dr Barbara Thiering, publié par Transworld qui a déjà vendu les droits du livre aux États-Unis, au Royaume-Uni et au Canada. Le livre controversé basé sur les manuscrits de la mer Morte sera également publié en série dans un grand journal et un magazine national en couleur.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prière contemplative</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-4-juillet-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 juillet 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">La science et l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

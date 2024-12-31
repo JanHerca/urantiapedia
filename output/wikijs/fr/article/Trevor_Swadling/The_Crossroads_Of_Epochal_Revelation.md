@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Trevor Swadling<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi et la voie de canalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Feet_Washing">
+          <span class="pr-2">Lavage des pieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Trevor Swadling, Sydney_
@@ -30,3 +54,28 @@ Il y a une révélation historique en jeu qui doit être protégée et partagée
 
 La seule chose que je peux voir pour éviter ce scénario et protéger le texte original pour toutes les générations à venir est qu'il n'y en ait qu'un seul sur lequel sont placés les trois cercles bleu azur pour le distinguer des autres. Il est digne d'avoir l'emblème de Michael dessus. Dans ses pages se trouve la représentation de la nature et du caractère de son père céleste et de notre père céleste ; un récit de la vie même et des enseignements de notre Maître lui-même. La manière d'y parvenir dans notre monde moderne consiste à maintenir les marques existantes. Quel triste jour ce serait si l’identité de la version originale ne pouvait être protégée à jamais. Il y a une révélation historique en jeu qui doit être protégée et partagée avec toute l’humanité aujourd’hui et pour les générations futures. Tout en respectant les enseignements du livre, nous devons également comprendre la signification et le but du sceau qui l'identifie et le protège. Ne dévalorisons pas ce symbole ; gardons-le à sa place. Avançons fidèlement et sagement dans la diffusion des enseignements du _Livre d'URANTIA_ dans le monde.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La foi et la voie de canalisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-4-juillet-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 4 juillet 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Feet_Washing">
+          <span class="pr-2">Lavage des pieds</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

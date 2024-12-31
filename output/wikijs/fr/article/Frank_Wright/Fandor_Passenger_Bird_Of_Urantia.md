@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/What_Language_Did_Jesus_Speak">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle langue Jésus parlait-il</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « LES FOSSILES DE BEHEMOTH BIRD TROUVÉS PAR DES SCIENTIFIQUES. » C'est le titre d'un reportage que m'a donné Helen Hutchinson. Le rapport a été fait en 1980 je crois, un an avant que je commence à étudier _Le Livre d'URANTIA_.
@@ -42,3 +63,25 @@ Depuis:
 
 « POURSUITE DE LA SAGESSE », Vo1 2 No 2, juin 1989
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Moseley/What_Language_Did_Jesus_Speak">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelle langue Jésus parlait-il</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

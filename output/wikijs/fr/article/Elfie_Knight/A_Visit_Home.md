@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Elfie Knight<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire de deux fourmis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Note de l'éditeur_
@@ -45,3 +66,25 @@ Oh mon Dieu, oserais-je revenir !
 **Chevalier Elfie**
 **Daylesford, Victoria**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une histoire de deux fourmis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-1-janvier-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 janvier 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

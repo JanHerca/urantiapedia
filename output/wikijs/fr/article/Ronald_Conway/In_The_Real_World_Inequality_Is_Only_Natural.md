@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ronald Conway<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le droit d’auteur est-il vraiment nécessaire ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ronald Conway, Melbourne_
@@ -61,3 +85,28 @@ C’est également dangereux, car c’est de là que sont nées les révolutions
 
 > « _Tandis qu’un bon milieu ne peut guère contribuer à triompher réellement des handicaps de caractère résultant d’une hérédité vile, un mauvais milieu peut très efficacement gâter une excellente hérédité, au moins durant les premières années de la vie._ » (<a id="a61_259"></a>[LU 76:2.6](/fr/The_Urantia_Book/76#p2_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« Le droit d’auteur est-il vraiment nécessaire ? »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-2-100e-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100e numéro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

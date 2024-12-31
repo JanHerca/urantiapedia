@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 David Hepworth<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vous ne pourrez jamais vous voir grandir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Comment nous avons trouvé le livre
@@ -40,3 +61,25 @@ Beaucoup de planification, des difficultés personnelles et... bébé Alexandra 
 
 Notre désir est de la faire entrer dans une famille aimante, dans un environnement positif, dans lequel nous apprenons tous de connaissances et d'expériences cumulatives dans notre recherche de sagesse et de vérité. Bref, s’efforcer de connaître Dieu et de lui ressembler.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vous ne pourrez jamais vous voir grandir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-4-juillet-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 juillet 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

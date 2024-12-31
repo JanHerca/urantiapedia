@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="pr-2">Quelques réflexions personnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Comme les lecteurs de Six-O-Six l'ont peut-être remarqué, au cours des derniers numéros, la gamme d'articles a couvert un champ plus large qu'auparavant. Certains sont d’accord avec cela, d’autres non. Mon co-éditeur, Neil Francey, n'est pas d'accord et a écrit ses réflexions comme suit :_
@@ -44,3 +68,28 @@ _Nous aimerions que tous nos lecteurs, y compris nos amis étrangers, aient éga
 
 **Madeline Noordzy**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol12_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-2-mars-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 mars 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="pr-2">Quelques réflexions personnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

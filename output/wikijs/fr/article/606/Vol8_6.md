@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2 py-1">© 1987 Kathleen Swadling, Emmanuel Lou, David Regal, Richard Bain, Madeline Noordzy<br>© 1987 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="pr-2">Rapport sur la réunion australienne des lecteurs du Livre d'Urantia de 1987</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -186,3 +207,25 @@ N'attendez pas le film, agissez maintenant. Intégrez le _Livre d'URANTIA_ à vo
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="pr-2">Rapport sur la réunion australienne des lecteurs du Livre d'Urantia de 1987</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

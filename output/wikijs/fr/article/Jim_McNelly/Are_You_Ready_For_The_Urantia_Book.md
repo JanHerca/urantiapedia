@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Jim McNelly<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire passer le message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Importance_Of_The_Individual">
+          <span class="pr-2">L'importance de l'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Jim McNelly (extrait d'un article de la bibliothèque Brotherhood Of Man)_
@@ -38,3 +62,28 @@ Gardez le message des Rangers simple : le livre existe et voici comment l'obteni
 
 Rejoignez les Rangers pour travailler sur le côté demande de la révélation. Il ne sert à rien d'introduire _Le Livre d'URANTIA_ dans les librairies s'il n'y a pas de curiosité et d'amour de l'aventure qui ne stimulent pas les gens à venir le chercher ! « Êtes-vous prêt pour _Le Livre d'URANTIA_ ? est une campagne et une technique efficaces pour amener les gens à poser les questions les plus élémentaires : « Qu'est-ce que c'est ? Suis-je prêt pour cela ? Comment puis-je en obtenir un ? Une fois que les lecteurs potentiels ont posé ces questions par eux-mêmes, le travail du Ranger continue. N'oubliez pas que les auteurs du livre ont déjà déterminé que le monde était prêt pour cela. C'est nous qui avons retenu !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Spreading_The_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire passer le message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/The_Importance_Of_The_Individual">
+          <span class="pr-2">L'importance de l'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

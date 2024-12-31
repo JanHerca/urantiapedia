@@ -46,6 +46,7 @@ Numérisé, corrigé et formaté sur sacred-texts.com par John Bruno Hare, septe
 
 Il s'agit d'une traduction d'un poème allégorique soufi du poète soufi persan Jami. Nur ad-Din Abd ar-Rahman Jami (né en 1441 et décédé en 1492) a vécu dans ce qui est aujourd'hui l'Afghanistan et l'Ouzbékistan. Le traducteur, Edward Fitzgerald, est surtout connu pour sa traduction des _Rubayyat_ d'Omar Khayyam. Ce livre n'a pas été réimprimé depuis sa publication au début du XXe siècle, bien que le poème ait été réimprimé en conjonction avec d'autres œuvres de Fitzgerald.
 
+<br>
 
 ## Table des Matières
 

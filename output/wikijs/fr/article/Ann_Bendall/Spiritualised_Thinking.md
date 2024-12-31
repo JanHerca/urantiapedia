@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir la pensée du Christ</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Moseley/What_Language_Did_Jesus_Speak">
+          <span class="pr-2">Quelle langue Jésus parlait-il</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comme un enfant, j'ai lu _Le Livre d'URANTIA_ la première fois et j'ai pris plaisir à noter toutes ces belles paroles comme : « votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. » (<a id="a14_268"></a>[LU 48:6.26](/fr/The_Urantia_Book/48#p6_26))
@@ -52,3 +76,28 @@ Ce serait bien de me disséquer et de mettre de l'ordre dans ma réflexion, puis
 
 > « La spiritualité indique immédiatement votre proximité de Dieu et la mesure de votre utilité pour vos compagnons. La spiritualité rehausse l’aptitude à découvrir la beauté dans les choses, à reconnaitre la vérité dans les significations et à trouver la bonté dans les valeurs. Le développement spirituel est déterminé par cette capacité et il est directement proportionnel à l’élimination des aspects égoïstes de l’amour. » (<a id="a52_428"></a>[LU 100:2.4](/fr/The_Urantia_Book/100#p2_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoir la pensée du Christ</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chris_Moseley/What_Language_Did_Jesus_Speak">
+          <span class="pr-2">Quelle langue Jésus parlait-il</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

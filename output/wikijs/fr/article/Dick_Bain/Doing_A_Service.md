@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Dick Bain<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Do_You_Need_A_Pilots_Licence_On_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avez-vous besoin d'une licence de pilote à Jérusem ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Blue_Corn/Listening">
+          <span class="pr-2">Écoute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Eh bien, qui aurait cru que mon article dans _Cosmic Reflections_ aurait déclenché un tel chahut ? Le fait est que je pense que vous rendez service aux gens du mouvement URANTIA en diffusant les idées de gens comme Joe Pope, Sananda, etc., afin que les gens soient conscients de ces personnes inhabituelles et de leurs enseignements. Ensuite, chacun peut décider de la manière dont il souhaite réagir.
@@ -32,3 +56,28 @@ Certaines personnes du mouvement peuvent faire des choses étranges qui nous met
 
 **Dick Bain, Saint-Pétersbourg, Floride, États-Unis**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Do_You_Need_A_Pilots_Licence_On_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avez-vous besoin d'une licence de pilote à Jérusem ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Kathleen_Blue_Corn/Listening">
+          <span class="pr-2">Écoute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crise de l'alphabétisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall, Nambour, Qld._
@@ -32,3 +53,25 @@ Mais alors qu’il était si « audacieux » (<a id="a30_41"></a>[LU 141:7.8](/f
 
 Jésus était en avance sur son temps et donc ses paroles, sa vie ont peut-être dû attendre le moment sur URANTIA où les gens auraient appris à apprécier que sa voie était la bonne et la seule. Je crois qu'Urantia a atteint ce stade grâce auquel nous recevons la vie de Jésus sur Urantia dans toute sa beauté, à un moment où nous pouvons en comprendre le sens, si nous le choisissons. Je crois que le _Livre d'URANTIA_ a été prévu pour nous à l'époque de la vie de Jésus sur Urantia, et qu'Uversa attendait la pétition des médians indiquant que la planète était maintenant prête.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crise de l'alphabétisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-6-novembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 novembre 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

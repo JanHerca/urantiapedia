@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Avoir la pensée du Christ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Après leur mort, les humains les plus évolués spirituellement et cosmiquement se rendent immédiatement sur les mondes des maisons. En général, ce dispositif opère pour ceux qui ont un gardien séraphique affecté à leur personne. » (<a id="a14_233"></a>[LU 112:5.10](/fr/The_Urantia_Book/112#p5_10))
@@ -34,3 +58,28 @@ Frank Wright, Francfort, Allemagne de l'Ouest
 
 > L'âme n'aurait pas d'arc-en-ciel, si les yeux n'avaient pas de larmes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-1-janvier-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 janvier 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Avoir la pensée du Christ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

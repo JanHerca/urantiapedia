@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communications des Médians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+          <span class="pr-2">Êtes-vous prêt pour le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Groupe d'étude de Brisbane_
@@ -34,3 +58,28 @@ _Le Livre d'URANTIA_ nous apporte le message que nous sommes tous habités par l
 
 Il est certain que cette version de la « bonne nouvelle » du XXe siècle devrait avoir un impact sur nous au moins autant que l’Évangile du premier siècle a eu un impact sur les premiers chrétiens. Et si tel est le cas, ne devrait-il pas susciter le même genre de joie et provoquer la même propagation remarquable de la Cinquième Révélation d’époque que celle de la Quatrième Révélation d’époque au cours des 100 premières années de la chrétienté ? À ce jour, cela n’est pas évident. Peut-être que nous passons à côté de l’essentiel quelque part.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Communications des Médians</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+          <span class="pr-2">Êtes-vous prêt pour le Livre d’Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 David Myers<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fin justifie-t-elle parfois des moyens indignes ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Edité par David Myers, Australian Scholarly Publishing._
@@ -32,3 +53,25 @@ La recherche d'un bouc émissaire commode à qui imputer cette prétendue baisse
 
 Il existe aujourd’hui un problème beaucoup plus vaste concernant l’alphabétisation en Australie et dans le monde occidental en général. Ce problème est un problème de valeurs et de priorités. L'amour de la langue en soi et le respect de l'alphabétisation figurent en bas de la liste des priorités des gens. La majorité de notre population ne semble pas particulièrement préoccupée par le fait qu’après mille ans, la grandeur d’une civilisation ne se mesure plus généralement à sa production industrielle ou à sa balance des paiements. Elle se mesure à sa contribution à la philosophie, à l'art, à l'architecture, à l'éducation et à la littérature.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fin justifie-t-elle parfois des moyens indignes ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-2-mars-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 mars 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

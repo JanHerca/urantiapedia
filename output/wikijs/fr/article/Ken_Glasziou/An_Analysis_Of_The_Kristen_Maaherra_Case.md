@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que dit le Livre d’Urantia sur la volonté de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Les imbéciles se précipitent – ​​et les anges doivent suivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ken Glasziou, Maleny, Queensland_
@@ -44,3 +68,28 @@ Cette analyse n’est peut-être pas vraie en réalité, même si elle est vraie
 
 Nous pouvons réellement simplement « servir en passant » et laisser la direction générale des affaires planétaires à nos superviseurs célestes. Le Père a besoin de nous en tant qu'individus. Les organisations humaines entravent inévitablement son travail.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que dit le Livre d’Urantia sur la volonté de Dieu ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-4-juillet-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 juillet 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Les imbéciles se précipitent – ​​et les anges doivent suivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

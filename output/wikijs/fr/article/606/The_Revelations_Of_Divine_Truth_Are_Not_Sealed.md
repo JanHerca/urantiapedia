@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Niskanen/Greetings_From_Finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salutations de Finlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le groupe d'étude de la Sunshine Coast_
@@ -54,3 +75,25 @@ L'élan initial pour la diffusion des éditions en langue anglaise du _Livre d'U
 <img src="/image/article/606/cartoon14.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Niskanen/Greetings_From_Finland">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salutations de Finlande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-5-septembre-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 5 septembre 1993</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

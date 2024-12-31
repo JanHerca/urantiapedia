@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Irene Borutta<br>© 1993 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Responsibility">
+          <span class="pr-2">Responsabilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Irène Borutta, Melbourne_
@@ -40,3 +64,28 @@ Lorsque les gens ont vraiment envie d’atteindre leur objectif, il arrive malhe
 
 > « _Le salut est un don gratuit de Dieu, mais ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables. Et voici les fruits de l’esprit divin produits dans la vie des mortels nés d’esprit et connaissant Dieu : service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. Si de prétendus croyants ne portent pas ces fruits de l’esprit divin dans leur vie, ils sont morts ; l’Esprit de Vérité n’est pas en eux ; ils sont des sarments inutiles de la vigne vivante et seront bientôt retranchés. Mon Père demande aux enfants de la foi de porter beaucoup de fruits de l’esprit. Si donc vous êtes stériles, il creusera autour de vos racines et coupera vos sarments improductifs. À mesure que vous progresserez vers le ciel dans le royaume de Dieu, il faudra de plus en plus que vous produisiez des fruits de l’esprit. Vous pouvez entrer dans le royaume de Dieu comme un enfant, mais le Père exige que vous grandissiez, par la grâce, jusqu’à la pleine stature d’un adulte spirituel. Quand vous irez au loin proclamer à toutes les nations la bonne nouvelle de cet évangile, je vous devancerai, et mon Esprit de Vérité demeurera dans votre cœur. Je vous laisse ma paix._ » (<a id="a40_1407"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol14_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-14-no-3-mai-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 3 mai 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Responsibility">
+          <span class="pr-2">Responsabilité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

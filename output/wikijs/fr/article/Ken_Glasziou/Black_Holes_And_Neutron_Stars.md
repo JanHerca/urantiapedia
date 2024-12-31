@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ken Glasziou<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien de mortels survivent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Is_Milky_Way_Seventh_Superuniverse">
+          <span class="pr-2">La Voie Lactée est-elle le septième superunivers d'Orvonton ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un dé à coudre de matière provenant d’une étoile à neutrons pèserait environ 100 millions de tonnes. Pour un trou noir, le poids serait infiniment plus grand. Il n’est pas surprenant que, jusqu’à récemment, les astronomes considéraient ces objets fantaisistes comme les jouets des physiciens théoriciens. Puis, au milieu des années 1960, la découverte d’objets stellaires mystérieux, les pulsars et les quasars, a complètement changé la donne.
@@ -38,3 +62,28 @@ Ken Glasziou, Maleny, Queensland.
 
 - W. Kaufmann, « L'Univers ». (1985), p.449. (Freeman \& Co N.Y.) Price et Thorne, Scientific American (1988) 258(4), 45.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien de mortels survivent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Frank_Wright/Is_Milky_Way_Seventh_Superuniverse">
+          <span class="pr-2">La Voie Lactée est-elle le septième superunivers d'Orvonton ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

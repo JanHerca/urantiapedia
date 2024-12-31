@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalisation et communication avec le monde des esprits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="pr-2">Communications des Médians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall et Ken Glasziou, Queensland [L'expertise d'Ann est en psychologie ; Ken est en biochimie]_
@@ -40,3 +64,28 @@ Un grand danger associé au « channeling » est lorsque la chaîne a une person
 
 Un exemple bien connu est le cas du révérend Jones qui, prétendant avoir été instruit par Dieu, a incité des centaines d'associés à se livrer au meurtre et au suicide. En raison des dangers impliqués, et puisque le Livre d'URANTIA préconise une relation individuelle avec notre Ajusteur de Pensée et l'Esprit de Vérité de Jésus, il est hautement discutable que l'on doive jamais détourner son attention vers des êtres inférieurs pour nous guider.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalisation et communication avec le monde des esprits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-13-no-3-mai-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 mai 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="pr-2">Communications des Médians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

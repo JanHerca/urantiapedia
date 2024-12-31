@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Frank Wright<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Holes_And_Neutron_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trous noirs et étoiles à neutrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C’est une question que j’essaie de résoudre depuis longtemps. J'ai entendu de nombreuses personnes interpréter les informations diverses et complexes données sur ce sujet dans _Le Livre d'URANTIA_ en déclarant simplement que la Voie Lactée est Orvonton ! Après plusieurs mois d’études, je n’en suis toujours pas convaincu. Laissez-moi vous expliquer pourquoi.
@@ -62,3 +83,25 @@ Vol. 1 Non 1 . septembre 1988
 
 Note de l'éditeur : Cet article intéressant provient de la première édition d'un bulletin d'information scientifique qui sera publié par les étudiants de Knoxville, Tennessee, Fort Saunders Faith Sons du _Livre d'URANTIA_. Ils sentent qu'il est nécessaire de fournir un forum pour rapporter les découvertes scientifiques, les interprétations des informations révélées dans le _Livre d'URANTIA_ et les relations entre les deux. Le but du bulletin est de promouvoir l'étude de la science et du _Livre d'URANTIA_, de stimuler la pensée, d'aider à libérer la société, de contribuer au raffinement et à l'ennoblissement de la religion évolutionniste, de produire des connaissances et de promouvoir la compréhension des vérités universelles, et d'examiner les faits. et coordonner la réalité. Leur philosophie est la même que le nom qu'ils ont choisi, la recherche de la sagesse : <a id="a62_875"></a>[LU 71:7.1](/fr/The_Urantia_Book/71#p7_1), <a id="a62_918"></a>[LU 81:6.22](/fr/The_Urantia_Book/81#p6_22), <a id="a62_963"></a>[LU 92:3.9](/fr/The_Urantia_Book/92#p3_9), <a id="a62_1006"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2), <a id="a62_1051"></a>[LU 103:6.1](/fr/The_Urantia_Book/103#p6_1) et <a id="a62_1098"></a>[LU 103:7.6](/fr/The_Urantia_Book/103#p7_6) .
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Black_Holes_And_Neutron_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trous noirs et étoiles à neutrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-1-janvier-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 janvier 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

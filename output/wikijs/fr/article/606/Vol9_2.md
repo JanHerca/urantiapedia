@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ian Esmore, Willian Wentworth, David Regal, Ken Glasziou, Robert Crickett, Janet Weeks<br>© 1988 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Group_worship">
+          <span class="pr-2">Culte de groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -147,3 +168,25 @@ L'autre jour, j'ai reçu un appel téléphonique d'une dame travaillant dans l'u
 
 Christopher Billington, W-Tree, VIC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-2-mars-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 mars 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/Group_worship">
+          <span class="pr-2">Culte de groupe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

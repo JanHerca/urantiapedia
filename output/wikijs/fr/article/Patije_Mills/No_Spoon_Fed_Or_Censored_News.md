@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">« Révolte d’époque »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Six-O-Six est un journal de qualité ! (J'aime l'idée des parties I et II afin que la partie II puisse être ignorée par ceux qui sont sensibles à l'information.)
@@ -39,3 +63,28 @@ Six-O-Six est une newsletter de qualité. Continuez votre bon travail ouvert d�
 
 **Patije Mills, Sarasota, Floride, États-Unis**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-n°-3-mai-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 n° 3 mai 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">« Révolte d’époque »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

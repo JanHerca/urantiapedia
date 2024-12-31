@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Emmanuel Lou<br>© 1987 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la réunion australienne des lecteurs du Livre d'Urantia de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Regal/What_Religion_Are_You">
+          <span class="pr-2">De quelle religion es tu?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia" alt="chinese">
@@ -99,3 +123,28 @@ Emmanuel Lou, Tahiti
 <figcaption><em>L'arbre de vie et le grand oiseau passager, récurrents dans les légendes chinoises</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rapport sur la réunion australienne des lecteurs du Livre d'Urantia de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-8-no-6-novembre-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 novembre 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Regal/What_Religion_Are_You">
+          <span class="pr-2">De quelle religion es tu?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken T. Glasziou<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une perspective de service des relations individuelles et organisationnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Résumé du matériel scientifique et historique qui semble avoir nécessité l'accès à certaines connaissances
@@ -168,3 +189,25 @@ Le mécanisme proposé indique une accumulation de chaleur relativement lente, m
 
 Référence : « Le cycle du Supercontinent ». R.D. Nance et coll. Scientific American 259(1), 44-51 (1988).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une perspective de service des relations individuelles et organisationnelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-9-no-6-novembre-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 novembre 1988</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

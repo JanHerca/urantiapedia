@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 2 mars 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-2-mars-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 mars 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Soulagement associé au fait d'être un lecteur du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Est-ce le recrutement de véritables apôtres ?
@@ -42,3 +66,28 @@ En conclusion, nous proposons une dernière réflexion. Il y a eu une division d
 
 Groupe d'étude de la Sunshine Coast, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 2 mars 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-2-mars-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 mars 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Soulagement associé au fait d'être un lecteur du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Madeline Noordzy<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-4-juillet-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/International_Conference">
+          <span class="pr-2">Conférence internationale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Certains de nos lecteurs ont peut-être reçu récemment une lettre adressée à « Mes frères et sœurs Urantia » et signée par « E-3 ou Élie le Troisième ».
@@ -145,3 +169,28 @@ Je ne demande à personne de croire tout cela. Tout ce que je dis, c'est de gard
 
 _Remarque : à tous ceux qui souhaitent approfondir ce sujet, je leur recommande de lire le livre de Joe Pope « La fin du monde ! Et le fils d'effusion à venir ». L'adresse est la suivante : Joe Pope, P.O. C.P. 65839 Stn.F Vancouver, C.-B. V5N 5 L 3 Canada._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol11_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-4-juillet-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 juillet 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_Wentworth/International_Conference">
+          <span class="pr-2">Conférence internationale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

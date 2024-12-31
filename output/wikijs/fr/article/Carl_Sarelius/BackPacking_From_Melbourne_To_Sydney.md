@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Carl Sarelius<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriver à une « décision finale »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Supplément à Six-0-Six, VBH 3740, vol 11 No 6, novembre/décembre 1990_
@@ -253,3 +274,25 @@ Mes remerciements à vous tous – j'aime vous considérer comme des « anges d�
 Rockdale, Nouvelle-Galles du Sud 2216
 Tél 02-5992703
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriver à une « décision finale »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-11-no-6-novembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 novembre 1990</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

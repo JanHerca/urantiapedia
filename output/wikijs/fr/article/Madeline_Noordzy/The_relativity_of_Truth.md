@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 3 avril 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-3-avril-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 3 avril 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un jour, un petit Hottentot aventureux d'Afrique australe s'est enfui de chez lui. Après un long voyage au cours duquel il est devenu passager clandestin sur un croiseur, il arrive à Sydney. Pendant des jours, il se promena dans cette grande ville jusqu'au jour où il se retrouva devant un grand trou dans le sol. Des machines bruyantes qui lui semblaient être d’énormes monstres agrandissaient encore le trou. Alors qu'il se tenait là, se demandant de quoi il s'agissait, quelqu'un lui a donné une tape dans le dos et lui a dit : « Ce sera le pote de l'Opéra de Sydney ! » Le petit Hottentot qui n'était pas familier avec les sonorités mélodieuses du bon vieux jargon australien, crut entendre : « C'est l'Opéra de Sydney ». Bientôt, il eut le mal du pays et retourna dans son Afrique natale. Entre autres histoires, il raconta aux membres de sa tribu : « J'ai vu l'Opéra de Sydney » et il le décrivit tel qu'il l'avait vu. Un grand trou dans le sol avec de gros monstres bruyants qui rampent dedans. Et tous les autres Hottentots étaient étonnés et le croyaient.
@@ -71,3 +92,25 @@ Il faut d’abord devenir humble et ouvert d’esprit pour pouvoir l’accepter.
 Madeline Noordzy, Melbourne
 Illustré par Wolfgang Borutta
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/Vol7_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 3 avril 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-7-no-3-avril-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 3 avril 1986</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 June Wilson<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que dit le Livre d’Urantia à propos de la communication avec le monde des esprits ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">Quand un problème nous déprime, si seulement...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par June Wilson, Brisbane_
@@ -30,3 +54,28 @@ Un autre exemple de changement des temps peut être trouvé à Melbourne. « The
 
 Ainsi, qu'il s'agisse de la Bible, du Coran ou du _Livre d'URANTIA_, les enseignements religieux sous forme de livre ont d'importantes implications sociales. Nous devons en tenir compte lorsque nous réfléchissons aux moyens de diffuser les enseignements.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que dit le Livre d’Urantia à propos de la communication avec le monde des esprits ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">Quand un problème nous déprime, si seulement...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

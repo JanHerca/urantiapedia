@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce que quelqu'un veut acheter le livre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _par Ann Bendall, Sunshine Coast_
@@ -26,3 +47,25 @@ Et comment pouvons-nous trouver cette personne ? Nous vivons actuellement une p�
 
 La confiance est le prix d'entrée, et le bonus est que vous en apprendrez beaucoup sur la vie, sur vous-même et sur le caractère unique de chacun des membres du groupe, tout en faisant bénéficier le groupe du bénéfice de vos expériences et de la couleur de votre présence personnelle.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce que quelqu'un veut acheter le livre ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-12-no-5-septembre-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 septembre 1991</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

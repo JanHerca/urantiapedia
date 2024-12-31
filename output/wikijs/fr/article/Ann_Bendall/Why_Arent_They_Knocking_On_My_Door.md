@@ -10,6 +10,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frank_Wright/World_Population">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Population mondiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-3-mai-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a14_207"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
@@ -40,3 +61,25 @@ S’il y a un lecteur du 6-0-6 qui frappe régulièrement à sa porte, pourriez-
 
 Ann Bendall, Nambour, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frank_Wright/World_Population">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Population mondiale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_606#vol-10-no-3-mai-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 3 mai 1989</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
