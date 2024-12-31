@@ -9,6 +9,7 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Anatole France<br>© 2013 French-speaking Association of Readers of the Urantia Book</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Jean-Armand Hourtal<br>© 2014 French-speaking Association of Readers of the Urantia Book</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

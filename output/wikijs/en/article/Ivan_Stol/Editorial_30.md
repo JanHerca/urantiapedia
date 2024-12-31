@@ -9,6 +9,7 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Ivan Stol<br>© 2023 French-speaking Association of Readers of the Urantia Book</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -9,6 +9,7 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Georges Michelson-Dupont<br>© 2021 French-speaking Association of Readers of the Urantia Book</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

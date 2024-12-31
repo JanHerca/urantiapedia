@@ -9,6 +9,7 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Danielle La Scala<br>© 2019 French-speaking Association of Readers of the Urantia Book</p>
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
