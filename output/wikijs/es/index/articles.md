@@ -292,8 +292,11 @@ Conviene recordar que los artículos de todas estas publicaciones tienen las cit
 				<div><small>Originales: <a href="https://lien.urantia.fr/">Archivo de Le Lien</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_le_lien" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/le%20lien" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -334,8 +337,11 @@ Conviene recordar que los artículos de todas estas publicaciones tienen las cit
 				<div><small>Originales: <a href="https://www.urantia-quebec.ca/publications/reflectivite">Índice de los últimos</a>, <a href="https://www.urantia-quebec.ca/publications/reflectivite-archives">Archivo del sitio web de Quebec</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_reflectivite" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/reflectivite" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>

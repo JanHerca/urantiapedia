@@ -292,8 +292,11 @@ It is worth remembering that the articles in all these publications have the quo
 				<div><small>Sources: <a href="https://lien.urantia.fr/">Le Lien archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Soon</strong></div></span>
+				<a href="/en/index/articles_le_lien" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/le%20lien" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -334,8 +337,11 @@ It is worth remembering that the articles in all these publications have the quo
 				<div><small>Sources: <a href="https://www.urantia-quebec.ca/publications/reflectivite">Index of latest</a>, <a href="https://www.urantia-quebec.ca/publications/reflectivite-archives">Quebec website archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Soon</strong></div></span>
+				<a href="/en/index/articles_reflectivite" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/reflectivite" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
 				</a>
 			</div>
 		</div>
