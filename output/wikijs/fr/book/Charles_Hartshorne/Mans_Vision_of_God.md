@@ -63,7 +63,7 @@ CHICAGO — NEW YORK <br>
 
 ## INDEX
 
-* [Préface](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/Préface)
+* [Préface](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/Preface)
 * [I. Les doctrines formellement possibles](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/1)
 * [II. Un programme pour la théologie philosophique](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/2)
 * [III. Les deux courants de la théologie historique](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/3)
@@ -74,6 +74,6 @@ CHICAGO — NEW YORK <br>
 * [VIII. Le sujet de tout changement (argument cosmologique)](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/8)
 * [IX. L'existant nécessaire (argument ontologique)](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/9)
 * [X. Conclusion (Résumé des arguments)](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/10)
-* [Épilogue. Le panenthéisme, la relativité transcendantale et la Trinité](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/Épilogue)
-* [Remerciements](/fr/book/Charles_Hartshorne/La_vision_de_Dieu_de_l_homme/Remerciements)
+* [Épilogue. Le panenthéisme, la relativité transcendantale et la Trinité](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue)
+* [Remerciements](/fr/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments)
 

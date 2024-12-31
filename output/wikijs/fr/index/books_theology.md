@@ -340,7 +340,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="70">comme remède aux</text>
 							<text style="font-size:9px" x="61" y="80">inadaptations</text>
 							<text style="font-size:9px" x="61" y="90">personnelles</text>
-							<text style="font-size:9px" x="61" y="90">et sociales</text>
+							<text style="font-size:9px" x="61" y="100">et sociales</text>
 						</g>
 					</svg>
 				</div>
@@ -452,7 +452,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Doctrine de Dieu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Albert C. Knudson</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/book/Albert_C_Knudson/Le_Doctrine_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

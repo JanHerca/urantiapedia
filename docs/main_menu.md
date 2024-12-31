@@ -8,22 +8,25 @@ THE BIBLE
 Index              | mdi-book-open-blank-variant | /en/index/bible
 Search             | mdi-magnify                 | https://urantiapedia.org/t/bible?lang=en&sort=title
 ---
-OTHER BOOKS
-About other books  | mdi-information-outline     | /en/book
+BOOK LIBRARY
+About the Library  | mdi-information-outline     | /en/book
 Index              | mdi-book-open-blank-variant | /en/index/books
 Search             | mdi-magnify                 | https://urantiapedia.org/t/source%20book?lang=en&sort=title
 ---
-TOPIC INDEX
-Index of all topics | mdi-book-open-blank-variant     | /en/index/topics
-Person index        | mdi-account-details-outline     | /en/index/people
+NEWSPAPER LIBRARY
+About this Library  | mdi-information-outline         | /en/article
+Articles            | mdi-file-document-outline       | /en/index/articles
+Study aids          | mdi-notebook-outline            | /en/index/study_aids
+---
+ENCYCLOPEDIA
+Index of all entries| mdi-book-open-blank-variant     | /en/index/topics
+Persons index       | mdi-account-details-outline     | /en/index/people
 Places index        | mdi-map-marker-multiple-outline | /en/index/places
 Races index         | mdi-account-group-outline       | /en/index/races
 Being orders        | mdi-human                       | /en/index/beings
 Religions index     | mdi-shield-cross                | /en/index/religions
 ---
-SECONDARY WORKS
-Articles            | mdi-file-document-outline       | /en/index/articles
-Study aids          | mdi-notebook-outline            | /en/index/study_aids
+MAPS & MEDIA LIBRARY
 Diagrams            | mdi-sitemap                     | /en/index/diagrams
 Presentations       | mdi-presentation                | /en/index/presentations
 Maps                | mdi-map                         | /en/index/maps 
