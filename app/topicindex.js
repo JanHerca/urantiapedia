@@ -1433,6 +1433,9 @@ class TopicIndex {
 				}
 			});
 
+			letters.sort((a, b) => {
+				return a.toLowerCase().localeCompare(b.toLowerCase());
+			});
 			html += 
 				'<div class="d-flex layout row wrap justify-start" ' +
 					'style="gap: 10px;">\r\n' +
