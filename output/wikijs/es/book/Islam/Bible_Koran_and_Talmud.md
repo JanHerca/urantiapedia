@@ -49,8 +49,8 @@ Este pequeño libro es una colección de historias islámicas de los profetas, u
 
 ## Índice
 
-- [PRÓLOGO DEL TRADUCTOR.](/es/book/Islam/Bible_Koran_and_Talmud/Prefacio_del_Traductor)
-- [INTRODUCCIÓN.](/es/book/Islam/Bible_Koran_and_Talmud/Introducción)
+- [PRÓLOGO DEL TRADUCTOR.](/es/book/Islam/Bible_Koran_and_Talmud/Translators_Preface)
+- [INTRODUCCIÓN.](/es/book/Islam/Bible_Koran_and_Talmud/Introduction)
 - [ADAM. (UNA LEYENDA MAHOMA.)](/es/book/Islam/Bible_Koran_and_Talmud/1)
 - [IDRIS, O ENOC.](/es/book/Islam/Bible_Koran_and_Talmud/2)
 - [NOÉ, HUD Y SALIH.](/es/book/Islam/Bible_Koran_and_Talmud/3)

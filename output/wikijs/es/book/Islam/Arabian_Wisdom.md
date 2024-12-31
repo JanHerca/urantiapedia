@@ -56,6 +56,7 @@ MIS HIJOS<br>
 
 Esta breve colección de literatura de sabiduría islámica se publicó originalmente en la serie Sabiduría de Oriente. Contiene joyas del Corán, el Hadith y proverbios y aforismos tradicionales. Su objetivo principal es que sea una lectura agradable; desafortunadamente, los dichos no tienen atribución, lo que los hace menos útiles como obra académica.
 
+<br>
 
 ## Índice
 

@@ -34,7 +34,7 @@ SABIDURÍA DEL ORIENTE<br>
 <br>
 TERCERA IMPRESIÓN<br>
 <br>
-<img src="/image/book/Islam/La_religión_del_Corán/sun.jpg"><br>
+<img src="/image/book/Islam/The_Religion_of_the_Koran/sun.jpg"><br>
 <br>
 Londres<br>
 <br>

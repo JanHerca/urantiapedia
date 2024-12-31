@@ -69,7 +69,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Corán — Libros Sagrados de Oriente, vol. 6 & 9</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Islam/Quran_Sacred_Books_of_the_East" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -94,7 +94,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Maulana Muhammad Ali (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/book/Islam/A_Manual_of_Hadith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>

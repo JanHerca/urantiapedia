@@ -63,8 +63,8 @@ Nota: la versión de este libro que actualmente está en imprenta por Dover es u
 
 ## Índice
 
-- [Contenido](/es/book/Islam/Folk_lore_of_the_Holy_Land/Contenido)
-- [Introducción](/es/book/Islam/Folk_lore_of_the_Holy_Land/Introducción)
+- [Contenido](/es/book/Islam/Folk_lore_of_the_Holy_Land/Contents)
+- [Introducción](/es/book/Islam/Folk_lore_of_the_Holy_Land/Introduction)
 - [Una leyenda mahometana: introductoria y apologética](/es/book/Islam/Folk_lore_of_the_Holy_Land/A_Mohammedan_Legend)
 - I. Santos, pecadores y milagros
 	- [I. Ideas de un musulmán erudito sobre la cosmogonía](/es/book/Islam/Folk_lore_of_the_Holy_Land/1_1)

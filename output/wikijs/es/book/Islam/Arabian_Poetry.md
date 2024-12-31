@@ -53,7 +53,7 @@ Ibn Altalmith estaba a punto de expirar cuando su hijo se acercó a su cama y le
 Se trata de una antología de traducciones orientalistas del siglo XIX de poesía árabe, muchas de las cuales son muy raras, como este libro en particular. La mayoría de las obras incluidas son anteriores a Mahoma o contemporáneas, por lo que hay muchos fragmentos fascinantes de la tradición preislámica. Se incluye el Moallakat, o los poemas «ahorcados», una colección de siete poetas preislámicos cuyas obras alguna vez fueron exhibidas (es decir, «ahorcadas») en la Kaaba. Otro punto destacado es una sinopsis del «Romance de Antar», una saga oral de un valiente príncipe de la antigua Arabia, y muchas hazañas de valentía. El único inconveniente aquí son todas las formas variantes de transliterar palabras árabes, que probablemente requerirán un especialista en literatura árabe para resolver.
 
 
-
+<br>
 
 ## Índice
 

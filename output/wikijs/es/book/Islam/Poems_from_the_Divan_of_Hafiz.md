@@ -35,6 +35,7 @@ Londres: Heinemann<br>
 
 <br style="clear:both;"/>
 
+<br>
 
 ## Índice
 
@@ -85,7 +86,7 @@ Londres: Heinemann<br>
 	- [XLII. El verdadero amor ha desaparecido de todos los corazones](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/42)
 	- [XLIII. ¿Dónde están las noticias de la unión? Para que pueda levantarme](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/43)
 - [Notas](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes)
-	- [Yo](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#i)
+	- [I](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#i)
 	- [II](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#ii)
 	- [III](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#iii)
 	- [IV](/es/book/Islam/Poems_from_the_Divan_of_Hafiz/Notes#iv)

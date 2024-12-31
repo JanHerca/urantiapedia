@@ -38,6 +38,7 @@ Escaneado en sacred-texts.com, 2001. Formato revisado en 2004. Estos archivos se
 
 Los hadices, que ocupan el segundo lugar en importancia y autoridad después del Corán, son recopilaciones de tradiciones y leyes islámicas (Sunna). Incluyen dichos tradicionales de Mahoma y de los sabios islámicos posteriores. En el siglo IX se habían registrado más de 600.000 hadices; más tarde se redujeron a unos 25.000.
 
+<br>
 
 ## Índice
 

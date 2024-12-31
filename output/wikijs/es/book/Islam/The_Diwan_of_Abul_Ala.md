@@ -34,7 +34,7 @@ SABIDURÍA DEL ORIENTE<br>
 <br>
 <i>Autor de «En busca de Dulcinea», «La sombra de los Balcanes», «Yrivand», etc.</i>
 Las estrellas se han hundido de los cenadores celestiales,<br>y en el jardín se han convertido en flores,<br><span style="font-variant:small-caps;">Mutamid</span>, <i>en cautiverio</i>.<br>
-<img src=«/image/book/Islam/El_Diwan_de_Abul_Ala/sun.jpg»><br>
+<img src="/image/book/Islam/The_Diwan_of_Abul_Ala/sun.jpg"><br>
 <br>
 NUEVA YORK<br>
 <br>

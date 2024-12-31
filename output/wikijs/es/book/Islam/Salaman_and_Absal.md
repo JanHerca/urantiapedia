@@ -46,6 +46,7 @@ Escaneado, corregido y formateado en sacred-texts.com por John Bruno Hare, septi
 
 Se trata de una traducción de un poema sufí alegórico del poeta sufí persa Jami. Nur ad-Din Abd ar-Rahman Jami (1441-1492) vivió en lo que hoy es Afganistán y Uzebekistán. El traductor, Edward Fitzgerald, es más conocido por su traducción del _Rubayyat_ de Omar Khayyam. Este libro no ha sido reimpreso desde que se publicó a principios del siglo XX, aunque el poema ha sido reimpreso junto con otras obras de Fitzgerald.
 
+<br>
 
 ## Índice
 
@@ -55,7 +56,7 @@ Se trata de una traducción de un poema sufí alegórico del poeta sufí persa J
 	- [I. Prólogo](/es/book/Islam/Salaman_and_Absal/Text#i-prologue)
 	- [II](/es/book/Islam/Salaman_and_Absal/Text#ii)
 	- [III](/es/book/Islam/Salaman_and_Absal/Text#iii)
-	- [IV. La historia](/es/book/Islam/Salaman_and_Absal/Text#iv-the-story)
+	- [IV. La historia](/es/book/Islam/Salaman_and_Absal/Text#iv-la-historia)
 	- [V](/es/book/Islam/Salaman_and_Absal/Text#v)
 	- [VI](/es/book/Islam/Salaman_and_Absal/Text#vi)
 	- [VII](/es/book/Islam/Salaman_and_Absal/Text#vii)

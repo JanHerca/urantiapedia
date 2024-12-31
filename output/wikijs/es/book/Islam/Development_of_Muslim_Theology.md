@@ -82,10 +82,10 @@ MATRIS SACRVM<br>
 	- [I. Libros y artículos, generales y fundamentales, para el estudio del Islam](/es/book/Islam/Development_of_Muslim_Theology/Appendix2_1)
 	- [II. Sobre la historia musulmana y sobre la condición actual del mundo musulmán](/es/book/Islam/Development_of_Muslim_Theology/Appendix2_2)
 	- [III. Sobre las tradiciones y la ley musulmanas](/es/book/Islam/Development_of_Muslim_Theology/Appendix2_3)
-	- [IV. Sobre la teología, la filosofía y el misticismo musulmanes](/es/book/Islam/Development_of_Muslim_Theology/Appendix_2_4)
+	- [IV. Sobre la teología, la filosofía y el misticismo musulmanes](/es/book/Islam/Development_of_Muslim_Theology/Appendix2_4)
 - Apéndice III
-	- [Tabla cronológica](/es/book/Islam/Development_of_Muslim_Theology/Tabla_cronológica)
-	- [Índice de nombres y palabras árabes](/es/book/Islam/Development_of_Muslim_Theology/Índice)
+	- [Tabla cronológica](/es/book/Islam/Development_of_Muslim_Theology/Chronological_Table)
+	- [Índice de nombres y palabras árabes](/es/book/Islam/Development_of_Muslim_Theology/Index)
 
 ## Enlaces externos
 

@@ -39,6 +39,7 @@ Escaneado, corregido y formateado en sacred-texts.com por John Bruno Hare, marzo
 
 El poeta persa Sadi, más conocido por sus colecciones poéticas Bustan y Gulistan, (/es/book/Islam/The_Bustan) (/es/book/Islam/The_Gulistan) también escribió esta obra, Pand Namah o Rollo de la sabiduría. Se trata de una pequeña colección de poemas sobre temas morales. Traducido por Arthur N. Wollaston, esta entrada de la serie Sabiduría de Oriente es una de las mejores.
 
+<br>
 
 ## Índice
 

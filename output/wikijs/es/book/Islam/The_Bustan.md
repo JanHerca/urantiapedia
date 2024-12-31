@@ -47,6 +47,7 @@ Se trata de una traducción en prosa del Bustan de Sadi, publicado originalmente
 
 Nacido en Shiraz, Irán, en 1184, Sādi (seudónimo de Muslih-ud-Din Mushrif ibn Abdullah) es considerado uno de los principales poetas persas medievales. Viajó mucho por regiones de lo que hoy es Siria, Turquía, Egipto e Irak. Viñetas de crudas escenas de caravanas y calles dan vida a sus relatos. En su vejez regresó a Shiraz y compuso sus dos obras más conocidas, la poética Bustan o Huerto (en 1257) y la prosa Gulistan, El jardín (/es/book/Islam/The_Gulistan) de las rosas (en 1258). Murió en 1283 o posiblemente en 1291.
 
+<br>
 
 ## Índice
 
