@@ -243,7 +243,7 @@ Nous devons donc monter la barre une fois de plus, cette fois avec la révélati
 
 > Au sens suprême, la personnalité est la révélation de Dieu à l’univers des univers. (<a id="a243_87"></a>[LU 1:5.13](/fr/The_Urantia_Book/1#p5_13))
 
-_Le Livre Uantia_ est, de ce point de vue, un enseignement « personnaliste ». Certains interprètes soutiennent même que la _réalité ontologique de la personnalité_ est la révélation centrale du texte d'Urantia. 
+_Le Livre d'Urantia_ est, de ce point de vue, un enseignement « personnaliste ». Certains interprètes soutiennent même que la _réalité ontologique de la personnalité_ est la révélation centrale du texte d'Urantia. 
 
 L'avant-propos du _Livre d'Urantia_ peut être notoirement difficile, mais une brève rencontre avec celui-ci nous aide à comprendre ces points. L'avant-propos prétend révéler les définitions fondamentales et les principes _a priori_ de la réalité cosmique. Dès le début, nous apprenons la division primordiale au sein de la réalité universelle : celle entre les réalités « déifiées » et celles qui ne le sont pas (c’est-à-dire les « réalités non déifiées »). Dans l'étape suivante, nous apprenons que les réalités déifiées sont par définition _personnelles_, puisque Dieu est personnalité. Voici encore l’équation de la divinité, de la personnalité et de la réalité. 
 

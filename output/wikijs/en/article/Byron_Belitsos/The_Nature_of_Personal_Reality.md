@@ -242,7 +242,7 @@ So we must up the ante once again—this time with the added revelation that per
 
 > Personality, in the supreme sense, is the revelation of God to the universe of universes.<a id="a242_91"></a>[UB 1:5.13](/en/The_Urantia_Book/1#p5_13)
 
-_The Uantia Book_ is, from this standpoint, a “personalist” teaching. Some interpreters even contend that the _ontological reality of personality_ is the central revelation of the Urantia text. 
+_The Urantia Book_ is, from this standpoint, a “personalist” teaching. Some interpreters even contend that the _ontological reality of personality_ is the central revelation of the Urantia text. 
 
 The foreword to _The Urantia Book_ can be notoriously difficult, but a brief encounter with it helps us understand these points. The foreword purports to reveal the fundamental definitions and the _a priori_ principles of cosmic reality. Right from the outset we learn of the primal division within universal reality: that between realities that are “deified” and those that are not (i.e., “undeified realities”). In the next step, we learn that deified realities are by definition _personal_, since God is personality. Here again is the equation of divinity, personality, and reality. 
 

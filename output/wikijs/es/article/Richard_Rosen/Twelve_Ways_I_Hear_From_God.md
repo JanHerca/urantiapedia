@@ -41,11 +41,11 @@ Escuchar de lo Divino puede parecer misterioso, abstracto de algo que simplement
 
 Hablo sobre las decisiones y los problemas que estoy enfrentando. Pido sabiduría en la toma de decisiones. Silencio mi mente y mis emociones para poder escuchar mejor la voz de mi Padre. Escucho sus pensamientos.
 
-Durante mi carrera en bienes raíces, envié una serie de correos a personas cuyas propiedades no se habían vendido. Empecé con algunos ejemplos ligeramente editados que otros habían usado, pero con el tiempo un par de ellos ya no se sentían bien. Pero no pude ver los cambios que debería hacer (lo cual es inusual para mí). Le pedí a Dios que me diera una idea. No llegó de inmediato; tomó varias semanas. Así es a veces; las respuestas necesitan tiempo para unirse y convertirse en pensamientos conscientes. Las respuestas también están condicionadas por su capacidad para recibirlas, y de acuerdo con el alcance y la naturaleza de la solicitud.
+Durante mi carrera inmobiliaria, envié una serie de correos a personas cuyas propiedades no se habían vendido. Empecé con algunos ejemplos ligeramente editados que otros habían usado, pero con el tiempo un par de ellos ya no se sentían bien. Pero no pude ver los cambios que debía hacer (lo cual es inusual para mí). Le pedí a Dios que me diera una idea. No llegó de inmediato; tomó varias semanas. Así es a veces; las respuestas necesitan tiempo para unirse y convertirse en pensamientos conscientes. Las respuestas también están condicionadas por su capacidad para recibirlas, y de acuerdo con el alcance y la naturaleza de la solicitud.
 
 Por cierto, este es un ejemplo de que nada es demasiado pequeño para pedirle a Dios. Ayuda a formar el hábito de pensar en Dios.
 
-## Mejore mis pensamientos
+## Mejora de mis pensamientos
 
 Dios siempre intenta elevar mis pensamientos a otros mejores. Sé que son suyos cuando tienen la simetría de la belleza, el anillo de la verdad y un aura de bondad.
 
@@ -71,7 +71,7 @@ Tenía un mapa del mundo en mi pared que usaba para los negocios. Al darme cuent
 
 Los patrones de coincidencia son a veces la forma en que Dios me dirige. Utiliza la repetición para confirmar su dirección. Es particularmente importante para decisiones importantes como casarse o aceptar un trabajo. Esta escritura lo dice bien. «En boca de dos…o…tres testigos, se establecerá el asunto» ([Deut. 17:6](/es/Bible/Deuteronomy/17#v6)) El relato, anteriormente en el libro, de Dios llevándome a encontrarlo ilustra este punto. Aquí hay un ejemplo:
 
-Casi no compramos nuestra casa actual. La casa está al lado de una pareja que trabajaba en la misma oficina de bienes raíces que nosotros. Nos lo contaron y fuimos a verlo; aunque nos gustó no estábamos preparados para tomar una decisión. Bueno, un mes después nos dijeron que alguien lo había visto y estaba interesado, y nos instaron a recapacitar. Lo vimos de nuevo y nos dimos cuenta de que este era de hecho el hogar para nosotros. Lo compramos, reconociendo que es donde Dios quería que viviéramos.
+Casi no compramos nuestra casa actual. La casa está al lado de una pareja que trabajaba en la misma oficina inmobiliaria que nosotros. Nos lo contaron y fuimos a verla; aunque nos gustó no estábamos preparados para tomar una decisión. Bueno, un mes después nos dijeron que alguien la había visto y estaba interesado, y nos instaron a recapacitar. La vimos de nuevo y nos dimos cuenta de que este era de hecho el hogar para nosotros. La compramos, reconociendo que es donde Dios quería que viviéramos.
 
 Dios no está despreocupado de nuestro bienestar temporal, en este caso de tener un lugar apropiado para vivir. Además, el bienestar espiritual se mejora al vivir donde Dios quiere. De hecho, pocas decisiones son puramente materiales sin un matiz espiritual.
 
@@ -79,7 +79,7 @@ Puede llevar tiempo recibir nuevos pensamientos y actuar en consecuencia. Dios s
 
 He aquí otro ejemplo de circunstancias que son más que una mera casualidad.
 
-Estudié en Estrasburgo, Francia durante un año durante la universidad. Decidí hacer autostop hasta Munich en Alemania y comprar un Volkswagen usado. En el camino, un oficial de policía local se detuvo y ofreció llevarlos al siguiente pueblo. Le expliqué el propósito de mi viaje a Munich. Dijo que conocía a alguien en el pueblo que vendía un Volkswagen y fuimos a verlo. Pero me negué, puesto que estaba concentrado en mi plan e inflexible a un cambio de dirección. Me tomó algún tiempo volverme flexible en mi forma de pensar cuando se presentó la oportunidad.
+Estudié en Estrasburgo, Francia, durante un año durante la universidad. Decidí hacer autostop hasta Munich en Alemania y comprar un Volkswagen usado. En el camino, un oficial de policía local se detuvo y ofreció llevarme al siguiente pueblo. Le expliqué el propósito de mi viaje a Munich. Dijo que conocía a alguien en el pueblo que vendía un Volkswagen y fuimos a verlo. Pero me negué, puesto que estaba concentrado en mi plan e inflexible a un cambio de dirección. Me tomó algún tiempo volverme flexible en mi forma de pensar cuando se presentó la oportunidad.
 
 Mirando hacia atrás, reconozco lo que bien pudo haber sido un arreglo celestial de circunstancias. Si hubiera comprado el automóvil localmente, quién sabe qué personas podría haber conocido y qué pudo haber sucedido.
 
@@ -87,9 +87,9 @@ Por cierto, dos meses después se apagó el motor. Me hizo pensar que había per
 
 No obstante aquellas ocasiones en que la repetición establece una dirección o acción, los primeros pensamientos u oportunidades son a veces los correctos. (Como puede ver, no existe una fórmula científica para discernir la voluntad de Dios; cada uno de nosotros desarrolla un discernimiento único para nuestra experiencia de caminar con Dios).
 
-## Busque el consejo de personas de mentalidad espiritual
+## Buscar el consejo de personas de mentalidad espiritual
 
-Mi esposa y yo empleamos a una secretaria en nuestro negocio de administración de propiedades y bienes raíces en Connecticut. Teníamos problemas con ella y no sabíamos cómo tratarlos. Así que le preguntamos a un hombre de mente espiritual que respetábamos mucho porque queríamos algo más que una respuesta natural; buscábamos una perspectiva espiritual.
+Mi esposa y yo empleamos a una secretaria en nuestro negocio de administración de propiedades e inmuebles en Connecticut. Teníamos problemas con ella y no sabíamos cómo tratarlos. Así que le preguntamos a un hombre de mente espiritual que respetábamos mucho porque queríamos algo más que una respuesta natural; buscábamos una perspectiva espiritual.
 
 Inmediatamente puso el dedo en el problema, en el meollo de la cuestión. Ella está usurpando la autoridad. Ella no es la dueña y está tomando decisiones, actuando como si lo fuera. Piensa más en sí misma de lo que debería. Debes decirle claramente los límites de su posición, ponerla en su lugar por así decirlo.
 
@@ -99,9 +99,9 @@ Esto lo hicimos. ¡Hmm, estaba disgustada! Sin embargo, se retractó de desborda
 
 Soy paciente a la hora de tomar decisiones importantes. Espero en Dios. La revelación de la voluntad de Dios es progresiva, paso a paso.
 
-Después de que terminó mi trabajo en la industria del software, busqué trabajo en nuestro mercado laboral local, en su mayoría jubilados y bastante limitados en la disponibilidad del trabajo que buscaba. Eve sugirió que volviera a trabajar con ella en bienes raíces, pero yo estaba bastante indeciso. Así que le dije a Eva: «Veamos primero qué puertas abre Dios antes de tomar esa decisión». Nos dimos dos meses para ver qué podía pasar.
+Después de que terminó mi trabajo en la industria del software, busqué trabajo en nuestro mercado laboral local, en su mayoría jubilados y bastante limitados en la disponibilidad del trabajo que buscaba. Eva sugirió que volviera a trabajar con ella en inmobiliarias, pero yo estaba bastante indeciso. Así que le dije a Eva: «Veamos primero qué puertas abre Dios antes de tomar esa decisión». Nos dimos dos meses para ver qué podía pasar.
 
-Llamé a muchas puertas, pero ninguna abrió. Así que volví a ingresar a las ventas de bienes raíces y resultó ser la decisión correcta. A menudo, solo después de que haya hecho una elección y haya pasado el tiempo, puede reconocer el valor de una decisión.
+Llamé a muchas puertas, pero ninguna abrió. Así que volví a ingresar a las ventas de inmuebles y resultó ser la decisión correcta. A menudo, solo después de que haya hecho una elección y haya pasado el tiempo, puede reconocer el valor de una decisión.
 
 Incluso con pequeñas decisiones, como comprender un concepto lo suficiente para este libro, es posible que no surja de inmediato. Se requiere tiempo para que el pensamiento evolucione y los pensamientos se fusionen, luego, de repente, aparece la comprensión. A veces se requiere una mayor capacidad —intelectual, espiritual, o ambas— que se adquiere solo con la experiencia de la vida, en cuyo caso pueden pasar meses o incluso años, o tal vez la próxima vida, antes de que puedas tratar un asunto con autoridad. 
 

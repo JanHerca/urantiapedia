@@ -38,7 +38,7 @@ _Transcripción de una grabación de Bill Sadler en un grupo de estudio_
 
 Exploremos lo que podemos encontrar en el espacio exterior.
 
-¿Cómo lo van a ejecutar? En primer lugar, el gran universo va a cambiar. Algunos seres que son estacionarios pueden no permanecer estacionarios. Conocemos las órdenes de los ciudadanos estacionarios. Hijos. Por ejemplo, a los intermedios se les llama ciudadanos estacionarios. Ya sabes, no nos cuentan como ciudadanos. No vivimos aquí el tiempo suficiente. Pero los intermedios viven en Urantia mucho tiempo. Pero incluso ellos eventualmente se mudan. Los adamitas son ciudadanos estacionarios de Jerusem. Pero después de mucho, mucho tiempo, ellos también se mueven. Muy pocos son comisionados como Adams planetarios. Algunos sirven como asistentes no reproductores de Adams planetarios en la era de la luz y la vida. Algunos finalmente obtienen permiso para comenzar el viaje al Paraíso directamente desde Jerusem.
+¿Cómo van a hacerlo funcionar? En primer lugar, el gran universo va a cambiar. Algunos seres que son estacionarios pueden no permanecer estacionarios. Conocemos las órdenes de los ciudadanos estacionarios. Hijos. Por ejemplo, a los intermedios se les llama ciudadanos estacionarios. Ya sabes, no nos cuentan como ciudadanos. No vivimos aquí el tiempo suficiente. Pero los intermedios viven en Urantia mucho tiempo. Aunque incluso ellos eventualmente se mudan. Los adamitas son ciudadanos estacionarios de Jerusem. Pero después de mucho, mucho tiempo, ellos también se trasladan. Muy pocos son comisionados como Adanes planetarios. Algunos sirven como asistentes no reproductores de los Adanes planetarios en la era de la luz y la vida. Algunos finalmente obtienen permiso para comenzar el viaje al Paraíso directamente desde Jerusem.
 
 Hay nativos de los mundos del Padre. Havona tiene sus nativos. El Paraíso tiene dos tipos de ciudadanos: los que nacen allí y los ascendentes fusionados con el Ajustador que carecen de experiencia planetaria. El estado va a cambiar al final de la era actual del universo.
 
@@ -56,7 +56,7 @@ Creo que todavía habrá una realidad finita, porque hay una realidad finita en 
 
 Bueno, pensemos un poco. Sabemos que existen exactamente 700 mil Uniones de Días. Uno es creado para funcionar como embajador de la Trinidad en la corte de un Hijo Creador. Sabemos que los planes de los Arquitectos del Universo Maestro contemplan precisamente 700 mil universos locales, porque se nos dice que cada universo local abarca 1/100 milésima parte de la carga de poder del superuniverso.
 
-El número exacto de mundos habitados es un poco indeterminado. Pero el número de universos locales no es inexacto. es preciso Pero tenemos más de 700 mil Hijos Creadores. Tenemos casi un millón de ellos. Y no hay absolutamente ninguna indicación de que sean un número fijo.
+El número exacto de mundos habitados es un poco indeterminado. Pero el número de universos locales no es inexacto. Es preciso. Tenemos más de 700 mil Hijos Creadores. Tenemos casi un millón de ellos. Y no hay absolutamente ninguna indicación de que sean un número fijo.
 
 No veo que el Padre Universal y el Hijo Eterno dejarán jamás de concebir pensamientos idénticos, y cada vez que lo hacen, nace otro Hijo Creador, y otro Espíritu Creador se diferencia dentro del Espíritu Infinito. Entonces, no hay suficiente espacio para todos los Hijos Creadores en los siete superuniversos, ¿verdad?
 
