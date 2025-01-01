@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T04:24:32.789Z
 </figure>
 
 
-El objetivo final establecido por George Fox, uno de los padres fundadores del movimiento cuáquero alrededor de 1650, era que cada individuo se relacionara de tal manera con el Espíritu de Dios que mora en ellos que pudieran vivir como vivió Jesús: en total dedicación a la voluntad. de Dios. Fox tenía otro propósito: influir en toda la cristiandad para que hiciera lo mismo.
+El objetivo final establecido por George Fox, uno de los padres fundadores del movimiento cuáquero alrededor de 1650, era que cada individuo se relacionara de tal manera con el Espíritu de Dios que mora en ellos que pudieran vivir como vivió Jesús: en total dedicación a la voluntad de Dios. Fox tenía otro propósito: influir en toda la cristiandad para que hiciera lo mismo.
 
 Los cuáqueros sinceros estaban relativamente en desventaja en comparación con los que tienen los Documentos de Urantia. Aunque los fundamentos de la vida de Jesús se pueden discernir de los Evangelios (con la guía del Espíritu que mora en ellos), contienen algunas declaraciones doctrinales engañosas. Los más importantes entre estos son dos versículos de [Juan 3](/es/Bible/John/3):
 

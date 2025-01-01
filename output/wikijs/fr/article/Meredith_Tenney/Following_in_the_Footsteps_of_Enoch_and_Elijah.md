@@ -50,7 +50,7 @@ Bien qu'il s'agisse d'un objectif noble, la fusion des ajusteurs dans cette vie,
 
 Le prophète Élie fut le deuxième individu à quitter notre monde par fusion. _Le Livre d'Urantia_ le vante comme <a id="a50_112"></a>[[LU 97:9.19](/fr/The_Urantia_Book/97#p9_19)] « _l'un des plus grands des prophètes_ » et <a id="a50_202"></a>[[LU 45:4.15](/fr/The_Urantia_Book/45#p4_15)] « _une âme traduite d'une brillante réussite spirituelle pendant l'âge du Fils post-Matériel._ » Dans le Livre des Rois dans la Bible, Élie est décrit comme un prophète et un faiseur de miracles qui est entré vivant au ciel « par le feu ». _Le Livre d'Urantia_ nous informe que grâce à leur leadership spirituel, Enoch et Elijah siègent actuellement au Conseil des 24. (<a id="a50_618"></a>[LU 45:4.15](/fr/The_Urantia_Book/45#p4_15)) L'un des avantages dont bénéficiaient tous deux était une concentration de sang violet non dilué plus élevée que n'importe lequel d'entre nous. aujourd'hui, car, selon la Bible, ils étaient des descendants directs de la lignée d'Adam. Cet héritage génétique leur a également permis de vivre plus longtemps, facilitant ainsi la fusion au cours de leur vie. Cependant, nous avons la Cinquième Révélation d'Époque, et avons donc des informations sur le schéma d'ascension et le but de la fusion des Ajusteurs qui leur manquaient peut-être. Enoch et Elie dissipent à jamais l’idée selon laquelle seul Jésus, un Fils surhumain de Dieu, pourrait fusionner au cours de cette vie mortelle. 
 
-Lorsque Jésus de Nazareth descendit dans le Jourdain pour se faire baptiser, il était un mortel du royaume qui avait atteint le <a id="a52_128"></a>[[LU 136:2.2](/fr/The_Urantia_Book/136#p2_2)] « _le sommet de l'auto-identification humaine avec l'esprit._ » _Le Livre d'Urantia_ nous dit aussi que Il se tenait dans le Jourdain en tant que mortel parfait, ayant développé « une synchronie parfaite et une communication complète avec son ajusteur spirituel intérieur », et il a accompli tout cela à l'âge de 31 ans. (<a id="a52_496"></a>[LU 136:2.2](/fr/The_Urantia_Book/136#p2_2)) Bien sûr, Micaël, notre Le Fils Créateur n'avait pas besoin de fusion, mais le Jésus humain reçut une expérience de fusion aussi équivalente à celle qu'une incarnation de Dieu fait homme aurait pu vivre. Lui, Jean et les deux frères de Jésus entendirent une voix d'en haut dire <a id="a52_819"></a>[[LU 136:2.4](/fr/The_Urantia_Book/136#p2_4)] « _Celui-ci est mon Fils bien-aimé en qui je me complais._ » Après son baptême, Jésus partit pour 40 jours de réclusion pour déterminer comment procéder. 
+Lorsque Jésus de Nazareth descendit dans le Jourdain pour se faire baptiser, il était un mortel du royaume qui avait atteint le <a id="a52_128"></a>[[LU 136:2.2](/fr/The_Urantia_Book/136#p2_2)] « _le sommet de l'auto-identification humaine avec l'esprit._ » _Le Livre d'Urantia_ nous dit aussi que Il se tenait dans le Jourdain en tant que mortel parfait, ayant développé « une synchronie parfaite et une communication complète avec son ajusteur spirituel intérieur », et il a accompli tout cela à l'âge de 31 ans. (<a id="a52_496"></a>[LU 136:2.2](/fr/The_Urantia_Book/136#p2_2)) Bien sûr, Micaël, notre Le Fils Créateur n'avait pas besoin de fusion, mais le Jésus humain reçut une expérience de fusion aussi équivalente à celle qu'une incarnation de Dieu fait homme aurait pu vivre. Lui, Jean et les deux frères de Jésus entendirent une voix d'en haut dire <a id="a52_819"></a>[[LU 136:2.4](/fr/The_Urantia_Book/136#p2_3)] « _Celui-ci est mon Fils bien-aimé en qui je me complais._ » Après son baptême, Jésus partit pour 40 jours de réclusion pour déterminer comment procéder. 
 
 Un événement similaire attend tous les candidats à la fusion des experts en sinistres. [Fascicule 47](/fr/The_Urantia_Book/57) nous informe que lorsque l'union entre une âme en évolution et l'ajusteur divin est imminente, un archange annonce « Ceci est un fils bien-aimé en qui je me plais » en présence des associés du candidat. Après cette courte cérémonie, l'individu bénéficie de quarante jours de retraite spirituelle pour choisir parmi les différents chemins menant à Havona. Peut-être que l’humain Jésus a reçu une expérience similaire dans la chair afin qu’il puisse mieux comprendre l’expérience des mortels ascendants et montrer la voie à ceux qui le suivraient. 
 
@@ -68,14 +68,14 @@ Les plus paresseux d'entre nous pourraient conclure qu'il ne sert à rien de tra
 
 ## Identifier _Vos progrès vers la fusion_
 
-_Le Livre d'Urantia_ offre une richesse d'informations sur les niveaux spirituels nécessaires qui doivent être atteints pour atteindre la fusion. Identifier où vous en êtes dans cette progression structurée peut vous inspirer et vous encourager à continuer à progresser. Comment pouvez-vous évaluer vos propres progrès vers la fusion ? On nous dit que la fusion se produit généralement sur le Monde des Maisons n°5 ou n°6, et on nous donne une description précise des niveaux spirituels et des réalisations requises pour maîtriser chacun des niveaux du Monde des Maisons avant cela. Mansion World #1 est presque entièrement consacré au ministère des carences. Les survivants arrivant sur cette sphère présentent de nombreux défauts de caractère de créature et des déficiences d'expérience mortelle. Les déficiences biologiques sont corrigées sur le premier monde des maisons, et les défauts majeurs de l'expérience planétaire concernant la vie sexuelle, l'association familiale et la fonction parentale sont soit corrigés, soit projetés pour une rectification future parmi les familles des Fils Matériels sur Jérusem. 
+_Le Livre d'Urantia_ offre une richesse d'informations sur les niveaux spirituels nécessaires qui doivent être atteints pour atteindre la fusion. Identifier où vous en êtes dans cette progression structurée peut vous inspirer et vous encourager à continuer à progresser. Comment pouvez-vous évaluer vos propres progrès vers la fusion ? On nous dit que la fusion se produit généralement sur le Monde des Maisons n°5 ou n°6, et on nous donne une description précise des niveaux spirituels et des réalisations requises pour maîtriser chacun des niveaux du Monde des Maisons avant cela. Le Monde de maison #1 est presque entièrement consacré au ministère des carences. Les survivants arrivant sur cette sphère présentent de nombreux défauts de caractère de créature et des déficiences d'expérience mortelle. Les déficiences biologiques sont corrigées sur le premier monde des maisons, et les défauts majeurs de l'expérience planétaire concernant la vie sexuelle, l'association familiale et la fonction parentale sont soit corrigés, soit projetés pour une rectification future parmi les familles des Fils Matériels sur Jérusem. 
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah/image01.png">
 <figcaption><em> Mon Ajusteur de Pensée.</em> © 2019 Patrick Yesh</figcaption>
 </figure>
 
-Pour ceux qui ont des problèmes avec les compétences sociales rudimentaires, sur Mansion World #2, des groupes de travail et des organisations sociales commencent à se former et les survivants apprennent l'interaction sociale. Mansonia #2 prévoit la suppression des conflits intellectuels et guérit toutes sortes de disharmonie mentale. La formation des deux premiers mondes des maisons est principalement de nature déficiente dans le sens où elle consiste à compléter l'expérience de la vie dans la chair. 
+Pour ceux qui ont des problèmes avec les compétences sociales rudimentaires, sur le monde de maison #2, des groupes de travail et des organisations sociales commencent à se former et les survivants apprennent l'interaction sociale. Mansonia #2 prévoit la suppression des conflits intellectuels et guérit toutes sortes de disharmonie mentale. La formation des deux premiers mondes des maisons est principalement de nature déficiente dans le sens où elle consiste à compléter l'expérience de la vie dans la chair. 
 
 Mansonia #3 est la sphère où commence le travail éducatif positif. Les survivants apprennent la culture morontielle progressive, améliorent leur compréhension de la corrélation entre la mota morontielle et la logique mortelle et acquièrent un aperçu pratique de la métaphysique. Les mortels ascendants apprennent les significations et les interrelations cosmiques, et deviennent « nés de l’esprit », c’est-à-dire qu’ils découvrent Dieu en eux-mêmes et deviennent conscients de Dieu. 
 
@@ -84,7 +84,7 @@ Les ascendants du 4ème monde des maisons sont initiés à un nouvel ordre socia
 Sur le monde des maisons n°5, les voyageurs apprennent la langue d'Uversa. Une véritable naissance de la conscience cosmique a lieu et les pèlerins deviennent ouverts à l'univers et manifestent un véritable enthousiasme pour l'ascension de Havona. L'étude devient volontaire, le service désintéressé est naturel et l'adoration est spontanée. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/Jerusem10.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/Jerusem10.jpg">
 <figcaption><em> Jérusem.</em> © 2009 Gary Tonge</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Le sixième monde des maisons est consacré à l'instruction initiale sur l'admi
 Il n'est pas difficile d'analyser les conditions requises pour passer d'un monde des maisons à l'autre, de regarder à l'intérieur pour évaluer honnêtement vos progrès et, par ce moyen, de vous rapprocher de votre croissance spirituelle personnelle et du niveau du monde des maisons. L’examen du tableau ci-dessous peut vous aider à effectuer votre propre auto-évaluation. Le tableau est trop simplifié et ne tente pas de refléter la complexité et la nature globale des décisions prises pour faire progresser les mortels d’un monde de maisons à l’autre, mais peut vous aider à estimer votre progression. 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/Havona12.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/Havona12.jpg">
 <figcaption><em> Havona.</em> © 2002 Gary Tonge</figcaption>
 </figure>
 
@@ -103,17 +103,17 @@ Si vous recherchez régulièrement Dieu et les opportunités de service, si vous
 
 ## Les mondes des maisons et leurs fonctions
 
-Mansion World #1 Pour corriger les déficiences biologiques, les défauts dans la vie sexuelle, la vie familiale ou les compétences parentales 
+Monde de maison #1 Pour corriger les déficiences biologiques, les défauts dans la vie sexuelle, la vie familiale ou les compétences parentales 
 
-Mansion World #2 Pour améliorer les disharmonies mentales et améliorer les compétences sociales limitées 
+Monde de maison #2 Pour améliorer les disharmonies mentales et améliorer les compétences sociales limitées 
 
-Mansion World #3 Pour développer la conscience de Dieu chez ceux qui n'ont pas trouvé Dieu en eux-mêmes 
+Monde de maison #3 Pour développer la conscience de Dieu chez ceux qui n'ont pas trouvé Dieu en eux-mêmes 
 
-Mansion World #4 Pour augmenter le désir de Dieu et cultiver une plus grande sympathie et un amour du service 
+Monde de maison #4 Pour augmenter le désir de Dieu et cultiver une plus grande sympathie et un amour du service 
 
-Mansion World #5 Pour favoriser la conscience cosmique et un désir volontaire d’adoration. 
+Monde de maison #5 Pour favoriser la conscience cosmique et un désir volontaire d’adoration. 
 
-Mansion World #6 Pour faciliter un plus grand alignement avec la volonté divine et la fusion 
+Monde de maison #6 Pour faciliter un plus grand alignement avec la volonté divine et la fusion 
 
 ## En quête de fusion
 
@@ -145,7 +145,7 @@ Si nous pouvions clairement entendre les voix de nos Ajusteurs de Pensée, ils n
 > Vous traversez aujourd’hui la période où votre Ajusteur vous courtise. Il suffit que vous vous montriez digne de la confiance mise en vous par l’esprit divin, qui recherche votre mental et votre âme en vue d’une union éternelle, pour que s’établisse finalement cette unité morontielle, cette harmonie céleste, cette coordination cosmique, cet accord divin, cette fusion céleste, ce mélange perpétuel d’identité, cette unité d’être, qui est si parfaite et définitive que même les personnalités les plus expérimentées ne peuvent jamais dissocier ni reconnaitre, comme identités séparées, les deux partenaires fusionnés — l’homme mortel et l’Ajusteur divin. (<a id="a144_658"></a>[LU 110:1.6](/fr/The_Urantia_Book/110#p1_6))
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/The_Grand_Universe.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/The_Grand_Universe.jpg">
 <figcaption><em> Le Grand Univers.</em> © 2002 Gary Tonge</figcaption>
 </figure>
 

@@ -3,12 +3,12 @@ title: "La inevitable (y necesaria) ‘religión organizada’ basada en El Libr
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: Religion, The Urantia Book, Fellowship Herald, article
+tags: Religion, The El Libro de Urantia, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Philip G Calabrese<br>© 2019 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Philip G Calabrese<br>© 2019 The El Libro de Urantia Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -89,7 +89,7 @@ Entonces <a id="a87_9"></a>[[LU 97:10.7](/es/The_Urantia_Book/97#p10_7)] «aunqu
 
 A la luz de _El Libro de Urantia_, ahora estamos en condiciones de hacer precisamente eso con el ritual cristiano. Hay mucho de valor en el ritual de un servicio religioso cristiano para adoptar en una iglesia del _Libro de Urantia_.
 
-En mi propia parroquia local de United Church of Christ (UCC), la secuencia de eventos el domingo pasado y típicamente es: música, anuncios y bienvenida, preludio (música: piano u órgano), llamado a la adoración (recitación de One & All), grupo Himno, oración de confesión y garantía de perdón, música especial (coro o solista), charla de niños (y clase de la escuela de la iglesia), alegrías y preocupaciones (una oportunidad para que cualquiera presente se dirija brevemente a los reunidos), oraciones por nuestra familia de la iglesia y la Padre Nuestro, Saludos de Amistad, Himno, Escritura, Sermón, Ofertorio (con música), Respuesta Coral, Oración de Dedicación, Himno de Clausura, Bendición, Envío y Compartir la Luz (música), Postludio (música mientras la gente se va). Después hubo café, etc. con contacto social. Y este fue solo el servicio dominical sin el «ritual de recuerdo de pan y jugo de uva» mensual. Hay muchos otros servicios sociales de los miembros a los miembros ya la comunidad en general.
+En mi propia parroquia local de United Church of Christ (UCC), la secuencia de eventos el domingo pasado y típicamente es: música, anuncios y bienvenida, preludio (música: piano u órgano), llamado a la adoración (recitación de One & All), Himno en grupo, oración de confesión y garantía de perdón, música especial (coro o solista), charla de niños (y clase de la escuela de la iglesia), alegrías y preocupaciones (una oportunidad para que cualquiera presente se dirija brevemente a los reunidos), oraciones por nuestra familia de la iglesia y el Padre Nuestro, Saludos de Amistad, Himno, Escritura, Sermón, Ofertorio (con música), Respuesta Coral, Oración de Dedicación, Himno de Clausura, Bendición, Envío y Compartir la Luz (música), Postludio (música mientras la gente se va). Después hubo café, etc., con contacto social. Y este fue solo el servicio dominical sin el «ritual de recuerdo de pan y jugo de uva» mensual. Hay muchos otros servicios sociales de los miembros a los miembros y a la comunidad en general.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
@@ -187,16 +187,16 @@ Entre las aparentes dificultades de este programa se encuentran:
 
 - A) Resistencia de las actuales religiones organizadas y denominaciones cristianas a _El Libro de Urantia_
 - B) Desinterés de los jóvenes por la Religión
-- C) Falta de un centro físico internacional fijo donde los lectores de _Urantia Book_ puedan reunirse periódicamente
-- D) Falta de suficiente densidad de lectores de _Urantia Book_ en la mayoría de los lugares geográficos para poblar una iglesia local
+- C) Falta de un centro físico internacional fijo donde los lectores de _El Libro de Urantia_ puedan reunirse periódicamente
+- D) Falta de suficiente densidad de lectores de _El Libro de Urantia_ en la mayoría de los lugares geográficos para poblar una iglesia local
 - E) Muy pocos líderes muy efectivos
 - F) Resistencia a un nuevo ritual del Recuerdo
-- G) División de los lectores de _Urantia Book_ en _Urantia Book_ Fellowship y la subsiguientemente organizada Urantia Association International. (La Fundación Urantia de 5 miembros, titular original de los derechos de autor del Libro y actual titular de la marca registrada del nombre «Urantia» y el símbolo triconcéntrico, autoriza el uso de estas marcas registradas por parte de la UAI pero no de la Fraternidad, que publica sus propias versión en inglés esencialmente idéntica.
+- G) División de los lectores de _El Libro de Urantia_ en _El Libro de Urantia_ Fellowship y la subsiguientemente organizada Urantia Association International. (La Fundación Urantia de 5 miembros, titular original de los derechos de autor del Libro y actual titular de la marca registrada del nombre «Urantia» y el símbolo triconcéntrico, autoriza el uso de estas marcas registradas por parte de la UAI pero no de la Fraternidad, que publica sus propias versión en inglés esencialmente idéntica.
 - H) La tendencia a sobreorganizar (institucionalizar) la religión en grupos que compiten por el territorio
 
 ## 12) Una oración por la unidad
 
-Que todos experimentemos la presencia del Espíritu de la Verdad del Hijo Creador; Que todos experimentemos a nuestros ángeles, personalidades hermanas del Espíritu Infinito; Que todos experimentemos nuestros Monitores Misteriosos, nuestros Ajustadores del Pensamiento, los dones divinos reales del gran Padre-Madre-Yo del Paraíso, enviados para morar en las mentes de nosotros, los humanos de Urantia, y convertirnos en nuestros socios de fusión, si elegimos aceptar el ascendente. vida de amor eterno a Dios y unos a otros.
+Que todos experimentemos la presencia del Espíritu de la Verdad del Hijo Creador; Que todos experimentemos a nuestros ángeles, personalidades hermanas del Espíritu Infinito; Que todos experimentemos nuestros Monitores Misteriosos, nuestros Ajustadores del Pensamiento, los dones divinos reales del gran Padre-Madre-Yo del Paraíso, enviados para morar en las mentes de nosotros, los humanos de Urantia, y convertirnos en nuestros socios de fusión, si elegimos aceptar la vida ascendente de amor eterno a Dios y unos a otros.
 
 El INFINITO existe; El INFINITO existe en Nosotros; Y Nosotros existimos en el INFINITO. ¡Aleluya!
 
@@ -204,7 +204,7 @@ El INFINITO existe; El INFINITO existe en Nosotros; Y Nosotros existimos en el I
 
 Intentemos satisfacer las restricciones generadas por los conjuntos de todas las afirmaciones anteriores del LIBRO DE URANTIA y veamos qué tipo de estructura social puede satisfacerlas todas.
 
-Algunos de los postulados, como los puntos 7) a) a h), pueden imaginarse fácilmente satisfechos en casi cualquier buena religión del _Libro de Urantia_ (UBR). Otros de estos postulados como 7) i) a r) y especialmente j) imponen mayores restricciones que parecen incluso eliminar algunos marcos sociales para una religión del _Libro de Urantia_: La UBR debe basarse en el "significado biológico, sociológico y religioso de la hogar. ¿Cómo se puede satisfacer eso? ¿Una iglesia cristiana satisface automáticamente este postulado? Probablemente no.
+Algunos de los postulados, como los puntos 7) a) a h), pueden imaginarse fácilmente satisfechos en casi cualquier buena religión del _Libro de Urantia_ (UBR). Otros de estos postulados como 7) i) a r) y especialmente j) imponen mayores restricciones que parecen incluso eliminar algunos marcos sociales para una religión del _Libro de Urantia_: La UBR debe basarse en el «significado biológico, sociológico y religioso del hogar.» ¿Cómo se puede satisfacer eso? ¿Una iglesia cristiana satisface automáticamente este postulado? Probablemente no.
 
 Los postulados enumerados bajo 8) son aún más restrictivos, especialmente q) y r): Para satisfacer q) el ritual UBR (satisfacer el simbolismo) debe ser tal que un individuo pueda llevarlo a cabo y también disfrutar haciéndolo con otros miembros de la iglesia.
 

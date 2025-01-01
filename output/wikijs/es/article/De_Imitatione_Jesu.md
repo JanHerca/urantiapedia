@@ -79,7 +79,7 @@ En respuesta a una pregunta sobre el reino de los cielos, dijo:
 > - Creer en la verdad de que somos hijos e hijas de Dios
 > - Fe en la eficacia del supremo deseo humano de hacer la voluntad de Dios: ser como Dios. (<a id="a79_93"></a>[LU 140:10.9](/es/The_Urantia_Book/140#p10_9))
 
-A lo largo de su vida terrenal, Jesús enfatizó la importancia de que cada individuo desarrolle una relación personal con el espíritu del Padre-Dios que mora en su mente, y la colocación de una confianza y fe total en la guía y cuidado del Padre, independientemente de cualquier y todo. apariencias de lo contrario.
+A lo largo de su vida terrenal, Jesús enfatizó la importancia de que cada individuo desarrolle una relación personal con el espíritu del Padre-Dios que mora en su mente, y la colocación de una confianza y fe total en la guía y cuidado del Padre, independientemente de cualquier apariencia de lo contrario.
 
 > «Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra». (<a id="a83_607"></a>[LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 

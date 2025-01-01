@@ -51,7 +51,7 @@ Entre otros propósitos, se puede considerar que una dispensa proporciona:
 2. _Una herramienta para gestionar la administración planetaria sobrehumana_. Las prioridades administrativas planetarias están estructuradas para trabajar dentro del contexto de las metas y objetivos de una dispensación particular. Al comienzo de una nueva dispensación, los elementos sobrehumanos de la administración planetaria se reorganizan en relación con las metas de avance establecidas por el Hijo divino iniciador.
 3. _Una herramienta para integrar la evolución planetaria con los asuntos administrativos en los Mundos Mansión_. Los servicios de rehabilitación, los mecanismos sociales, los programas educativos, los procedimientos de administración del sistema local y planetario: todo debe planificarse, crearse, dotarse de personal y ponerse en marcha para los nuevos grupos de peregrinos que llegan de los planetas evolutivos.
 
-Es posible que las dispensaciones también proporcionen un medio para sincronizar el flujo de grupos en el régimen educativo de Constellation.
+Es posible que las dispensaciones también proporcionen un medio para sincronizar el flujo de grupos en el régimen educativo de la constelación.
 
 ## La dispensación actual en Urantia
 

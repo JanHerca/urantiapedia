@@ -55,7 +55,7 @@ También vale la pena señalar que en la versión de _El Libro de Urantia_ de es
 
 Debido a la información detallada y potencialmente verificable que proporciona, un estudiante de _El Libro de Urantia_ llamado Robert Sarmast eligió explorar la ubicación física que se proporciona en _El Libro de Urantia_. Antes de sus dos expediciones históricas en 2004 y 2006, afirmó en un libro ampliamente reseñado que este lugar «se ajustaba a 48 de 50» pistas sobre la Atlántida proporcionadas por Platón. Este sitio, dijo, estaba a una milla de profundidad en las aguas del mar Mediterráneo oriental entre Chipre y Siria.
 
-Creo que las características reportadas no sólo por _El Libro de Urantia_ y la Biblia, sino también por otras narrativas antiguas como el conocido texto sumerio conocido como _Enki y el orden mundial_ y el relato de Platón sobre la Atlántida en sus diálogos _Critias_ y _Timeo_, apuntan nosotros a la ubicación probable del sitio Eden-Atlantis y la necesidad de investigación arqueológica avanzada en esta área. Según mi interpretación de las fuentes y también de los escritos de Sarmast, esta investigación nos retrotraerá a una época en la que esta isla estaba sobre el agua y era habitable.
+Creo que las características reportadas no sólo por _El Libro de Urantia_ y la Biblia, sino también por otras narrativas antiguas como el conocido texto sumerio denominado como _Enki y el orden mundial_ y el relato de Platón sobre la Atlántida en sus diálogos _Critias_ y _Timeo_, nos apuntaban a la ubicación probable del sitio Eden-Atlantis y a la necesidad de una investigación arqueológica avanzada en este área. Según mi interpretación de las fuentes y también de los escritos de Sarmast, esta investigación nos retrotraerá a una época en la que esta isla estaba sobre el agua y era habitable.
 
 Hallazgos arqueológicos recientes de todo el Mediterráneo también apoyan la idea de que esta zona estuvo habitada y poblada en tiempos muy lejanos. Nuevas evidencias arqueológicas notables y grupos genéticos persistentes se apartan de los puntos de vista anteriores de que solo los cazadores-recolectores de Cromañón vivían en las tierras circundantes durante ese período de tiempo. Por ejemplo, en la edición de junio de 2016 de la revista Discover, un artículo informó que: «Hace unos 100 000 años, humanos altos y de largas extremidades vivían en las cuevas de Qafzeh, al este de Nazaret, y Skhul, en el Monte Carmelo de Israel. Sus restos sugieren un pueblo sorprendentemente sofisticado que desafía la línea de tiempo convencional de la migración del Homo sapiens «fuera de África».[^1] Además, se debe considerar una plétora de evidencia de todo el Mediterráneo. Esta evidencia incluye dibujos rupestres inexplicables en España y Francia tan distantes como más de 30,000 años, así como regiones que bordeaban el mar Mediterráneo oriental en esos días prehistóricos, como el Egipto actual y, más notablemente, los hallazgos muy notables en el Golbeki Tepi. sitio arqueológico en la Turquía actual, todo lo cual apunta a la probabilidad de habitantes altamente inteligentes de una civilización local avanzada. Afortunadamente, los científicos han descubierto un continente hundido en esa vecindad general, y esta tierra es un excelente candidato para la ubicación de la civilización original que se ramificó y floreció alrededor de esa región miles de años antes de los tiempos de Sumeria y Egipto.
 
@@ -73,7 +73,7 @@ Según Hall, esta área ha sido estudiada utilizando las herramientas de batimet
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image01.png">
-<figcaption><b>Figura 2. <b><em> Mapa de las tres placas a las que se refiere el Dr. Hall: Anatolia, Arabia y África. (Cortesía de la revista National Geographic, octubre de 2002, pág. 125) </em></figcaption>
+<figcaption><b>Figura 2. </b><em> Mapa de las tres placas a las que se refiere el Dr. Hall: Anatolia, Arabia y África. (Cortesía de la revista National Geographic, octubre de 2002, pág. 125) </em></figcaption>
 </figure>
 
 El área objetivo de nuestra investigación se encuentra en el punto de convergencia de las placas de Anatolia, Arabia y África, como se muestra en la Figura 2. Esta región está ubicada en la parte de la placa africana que se encuentra entre Chipre, Siria y el Líbano. Según los geólogos, durante millones de años, la placa africana se ha estado deslizando hacia abajo (o «subduciendo») por debajo de la placa de Anatolia, al mismo tiempo que ha estado sujeta a las presiones de la placa arábiga. El resultado a lo largo del tiempo ha sido una inestabilidad tectónica significativa en esta área.
@@ -88,7 +88,7 @@ Para respaldar su tesis, Sarmast montó una expedición exploratoria financiada 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image02.png">
-<figcaption><b>Figura 3. <b><em> Cuenca del Mediterráneo oriental con el nivel del mar descendido digitalmente una milla. (Cortesía de imágenes de Robert Sarmast, R/V Strakhov, NOAA, USGS y Scotia Group)  </em></figcaption>
+<figcaption><b>Figura 3. </b><em> Cuenca del Mediterráneo oriental con el nivel del mar descendido digitalmente una milla. (Cortesía de imágenes de Robert Sarmast, R/V Strakhov, NOAA, USGS y Scotia Group)  </em></figcaption>
 </figure>
 
 ## La Primera Expedición en 2004
@@ -101,14 +101,14 @@ En particular, las crestas bien definidas que aparecieron en el centro (según l
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image03.png">
-<figcaption><b>Figura 4. <b><em> Parte central del Continente Hundido de Malovitskiy. (De datos escaneados de IFREMER e imágenes de Scotia Group) </em></figcaption>
+<figcaption><b>Figura 4. </b><em> Parte central del Continente Hundido de Malovitskiy. (De datos escaneados de IFREMER e imágenes de Scotia Group) </em></figcaption>
 </figure>
 
 En la Figura 5 se proporciona una representación gráfica ampliada de esta estructura, que representa lo que parece ser una formación en Y lineal regular, angosta y lineal de 3700 metros de largo en la parte norte del área. Además, justo al sur había un montículo tabular irregular bajo de 2800 metros de largo, de unos 110 metros de altura y que variaba entre 500 y 800 metros de ancho. También son evidentes las características escarpadas a mitad de camino del montículo, que conducen a los lados este y oeste. (Una escarpa es un banco o pendiente muy empinada). Esta área general se convirtió en el objetivo principal de las expediciones de 2004 y 2006. Tenga en cuenta, sin embargo, que la altura de estas características se amplía diez veces para mejorarlas para su estudio.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image04.png">
-<figcaption><b>Figura 5. <b><em> Imagen ampliada del Grupo Scotia, orientada hacia el sur, que muestra el montículo central y una formación en Y estrecha, regular y lineal. Cabe señalar que esta representación tridimensional exagera las alturas por un factor de diez por el contrario, porque así se recibían los datos del IFREMER. (Cortesía de Robert Sarmast con imágenes de Scotia Group de los escaneos de IFREMER) </em></figcaption>
+<figcaption><b>Figura 5. </b><em> Imagen ampliada del Grupo Scotia, orientada hacia el sur, que muestra el montículo central y una formación en Y estrecha, regular y lineal. Cabe señalar que esta representación tridimensional exagera las alturas por un factor de diez por el contrario, porque así se recibían los datos del IFREMER. (Cortesía de Robert Sarmast con imágenes de Scotia Group de los escaneos de IFREMER) </em></figcaption>
 </figure>
 
 La información de las exploraciones del sonar multihaz de IFREMER proporcionó una excelente orientación para la primera expedición de Sarmast en noviembre de 2004, ofreciendo coordenadas precisas de latitud y longitud para puntos específicos de las principales características a estudiar. Con coordenadas tan precisas fue posible obtener útiles imágenes de barrido lateral del montículo central y las crestas lineales.
@@ -117,7 +117,7 @@ El barco utilizado para la expedición de 2004 fue la embarcación a motor (M/V)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image05.png">
-<figcaption><b>Figura 6. <b><em> La Motor Vessel Flying Enterprise convertida en una nave de investigación. (Foto oficial de EDT Towage and Salvage Co., Ltd Photo) </em></figcaption>
+<figcaption><b>Figura 6. </b><em> La Motor Vessel Flying Enterprise convertida en una nave de investigación. (Foto oficial de EDT Towage and Salvage Co., Ltd Photo) </em></figcaption>
 </figure>
 
 Las imágenes adquiridas de la expedición de 2004 utilizando el sonar de barrido lateral proporcionaron la primera mirada de cerca a las crestas y la cumbre del montículo central como se ve en la Figura 5 arriba. En particular, estas imágenes ofrecieron mediciones más precisas de las dorsales, mostrando un ancho uniforme de aproximadamente 30 metros y un gradiente bastante constante de oeste a este, descendiendo desde una altura de 10 metros hasta la superficie del lecho marino, como se muestra en la Figura 11. Estos hallazgos confirmaron nuestra hipótesis de que estas formaciones no pueden ser de origen natural. Como se señaló, ninguna otra formación en toda el área se parecía a las de las dos cordilleras.
@@ -126,26 +126,26 @@ Las pistas a lo largo de las cuales se registraron las trazas del sonar de barri
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image06.png">
-<figcaption><b>Figura 7. <b><em> Huellas a lo largo de las cuales se registraron las huellas de barrido lateral en la Expedición de 2004. (Cortesía de Axel Schoeller según la adaptación del autor) </em></figcaption>
+<figcaption><b>Figura 7. </b><em> Huellas a lo largo de las cuales se registraron las huellas de barrido lateral en la Expedición de 2004. (Cortesía de Axel Schoeller según la adaptación del autor) </em></figcaption>
 </figure>
 
 Las imágenes producidas por las líneas del sonar de barrido lateral en la Figura 7 están asociadas con el mismo número de línea al lado de las imágenes en la Figura 8. Proporcionaron la primera mirada histórica de cerca a las crestas y la cima del montículo central. Los números de línea y las imágenes asociadas se mencionarán con frecuencia en el texto que sigue.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image07.png">
-<figcaption><b>Figura 8. <b><em> Los rastros de escaneo lateral tal como aparecieron cuando se registraron en la expedición de 2004. (Cortesía de Robert Sarmast y Phoenix International) </em></figcaption>
+<figcaption><b>Figura 8. </b><em> Los rastros de escaneo lateral tal como aparecieron cuando se registraron en la expedición de 2004. (Cortesía de Robert Sarmast y Phoenix International) </em></figcaption>
 </figure>
 
 La formación de la cresta de 3700 metros de largo recibió la atención de Lowry a principios de septiembre de 2004 cuando los datos del R/V _Le Suroît_ se obtuvieron de IFREMER y se los enviaron. A excepción de Sarmast, nadie antes de ese momento reportó ningún significado asociado a esa anomalía. Al principio, Lowry era de la opinión de que el derrumbe en la cara del montículo asociado y las crestas transversales al pie del montículo se ajustaban a la descripción clásica de un derrumbe natural, es decir, la acumulación de material de un deslizamiento de tierra desde el frente lado del montículo como se ve en la Figura 10. Más adelante consideraremos una interpretación muy diferente de estas características que resulta de los datos adquiridos en la expedición de 2006.
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image08.png">
-<figcaption><b>Figura 9. <b><em> Una proyección orientada hacia el este (utilizando datos de escaneo lateral 1-175) que representa una de las dos formaciones de crestas estrechas y regulares más cercanas al montículo central. Observe el giro en ángulo casi recto de la cresta y su linealidad uniforme. (Cortesía de Robert Sarmast con imágenes de Scotia Group de datos de escaneo lateral de Phoenix International) </em></figcaption>
+<figcaption><b>Figura 9. </b><em> Una proyección orientada hacia el este (utilizando datos de escaneo lateral 1-175) que representa una de las dos formaciones de crestas estrechas y regulares más cercanas al montículo central. Observe el giro en ángulo casi recto de la cresta y su linealidad uniforme. (Cortesía de Robert Sarmast con imágenes de Scotia Group de datos de escaneo lateral de Phoenix International) </em></figcaption>
 </figure>
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image09.png">
-<figcaption><b>Figura 10. <b><em> Una versión coloreada mejorada del montículo central y las crestas. (Un producto de Vistapro a partir de las imágenes desarrolladas a partir de escaneos multihaz de IFREMER) </em></figcaption>
+<figcaption><b>Figura 10. </b><em> Una versión coloreada mejorada del montículo central y las crestas. (Un producto de Vistapro a partir de las imágenes desarrolladas a partir de escaneos multihaz de IFREMER) </em></figcaption>
 </figure>
 
 ## La Segunda Expedición en 2006
@@ -156,14 +156,14 @@ El documental de History Channel sobre la segunda expedición de Sarmast se titu
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image10.png">
-<figcaption><b>Figura 11. <b><em> Remolcador a motor EDT Argonaut convertido en buque de investigación. (Foto de Robert Sarmast) </em></figcaption>
+<figcaption><b>Figura 11. </b><em> Remolcador a motor EDT Argonaut convertido en buque de investigación. (Foto de Robert Sarmast) </em></figcaption>
 </figure>
 
 A pesar de su falta de experiencia, Sarmast tomó la decisión ejecutiva de que sería el líder de la expedición en 2006. El barco utilizado para esa expedición fue el M/T EDT Argonaut de 41 metros de eslora (Figura 11) operado por EDT Towage and Salvage Co., nuestra proveedor anterior con sede en Limassol, Chipre.[^6] Esta vez, se utilizó un equipo más avanzado además de la sonda de barrido lateral, en particular, un perfilador de subfondo (SBP), un instrumento que utiliza ecos, como una sonda, para cartografíe los estratos a una profundidad de hasta 30 metros por debajo de la superficie del lecho marino. Otro instrumento conocido como sonda de profundidad, que es crucial para guiar al remolque, también estaba a bordo. Solo se planificaron cinco pistas para la expedición de 2006, como se muestra en la Figura 12. El plan era cruzar la mayor parte posible del área con barrido lateral y SBP durante las 72 horas asignadas para el viaje. La primera y más larga línea fue diseñada para capturar la sección transversal de ambas ramas de las crestas y el montículo central.
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image11.png">
-<figcaption><b>Figura 12. <b><em> Las cinco rutas previstas para la expedición de 2006. La línea más larga y pesada (Línea 1) cruzaba ambos ramales de la formación Y estrecha, regular y lineal, así como la colina. Debido a serios problemas técnicos durante la expedición, la Línea 1 fue la única línea que realmente fue relevada. Observe el gráfico insertado en la parte superior derecha, al que volveremos más adelante. (Foto de Axel Schoeller) </em></figcaption>
+<figcaption><b>Figura 12. </b><em> Las cinco rutas previstas para la expedición de 2006. La línea más larga y pesada (Línea 1) cruzaba ambos ramales de la formación Y estrecha, regular y lineal, así como la colina. Debido a serios problemas técnicos durante la expedición, la Línea 1 fue la única línea que realmente fue relevada. Observe el gráfico insertado en la parte superior derecha, al que volveremos más adelante. (Foto de Axel Schoeller) </em></figcaption>
 </figure>
 
 A diferencia de las huellas inspeccionadas durante la expedición de 2004, la primera línea de 2006 se diseñó para crear una vista transversal de las crestas y la colina, intersecándolas en un ángulo recto de casi noventa grados. En 2004, las líneas fueron paralelas a la colina y las crestas, por lo que la profundidad del remolque solo requeriría pequeños cambios durante el estudio de cada línea. Sentimos en 2004 que era demasiado arriesgado, debido al terreno irregular, requerir el cambio constante de la profundidad del pez de remolque. (Consulte el recuadro en la Figura 12 anterior y la Figura 19 a continuación para conocer los cambios en la elevación a lo largo de la Línea 1 en la expedición de 2006). los cambios de profundidad requeridos del remolque a medida que atravesaba el fondo marino irregular. Pero como el destino lo tendría, sufrimos varios problemas técnicos muy disruptivos durante la expedición de 2006. Y no eran susceptibles de reparación de emergencia como en la expedición anterior, cuando tuvimos serios problemas por una fuerte lluvia el primer día.
@@ -172,7 +172,7 @@ El primero de los problemas en el esfuerzo de 2006 fue muy angustiante. Poco des
 
 El error adicional del operador, así como la falla del equipo, dieron como resultado la pérdida de aún más datos y tiempo valioso durante los intentos exitosos de medir a lo largo de la Línea 1. De hecho, el problema de la falla del equipo por sí solo fue debilitante. Al final del viaje, Lowry informó que dos instrumentos vitales nunca estuvieron operativos durante todo el viaje, a saber: (1) el respondedor de línea de base ultra corta (USBL) que ubica la posición del remolque y se ajusta a su posición GPS, y (2) la sonda de profundidad que mide la distancia entre la quilla del barco y el fondo del mar debajo. Sin esos instrumentos, se vuelve extremadamente difícil anticipar la profundidad óptima del remolcador porque el operador no puede determinar la posición GPS del remolcador a lo largo de la línea de seguimiento.
 
-El haz que emana del SBP y penetra en el fondo del mar tiene solo unos tres grados de ancho. Una de sus funciones es promediar los datos recibidos a medida que el remolcador avanza por su trayectoria. Las imágenes detalladas de los datos de SBP tienen la mayor definición cuando el remolcador está lo más cerca posible del objetivo sumergido de interés. Con la sonda de profundidad inoperativa, se hizo muy difícil para los técnicos que estaban operando el remolque rozar de cerca el fondo. Si el remolque estuviera demasiado alto sobre el fondo, el haz de tres grados cubriría un área tan grande que proporcionaría poca o ninguna definición, ya que promedia todo lo que alcanza el haz debajo de él. Por otro lado, si el remolque estuviera demasiado cerca del objetivo, estaría en peligro de golpear el fondo, no proporciona datos en absoluto y causa daños al pez de remolque y al cable. Sin anticipar la profundidad a la que se debe operar el remolcador en un momento dado, supongo que fue pura suerte que la única imagen que tenemos de una cresta se capturó a lo largo de la Línea 1. También parece, después del hecho, que el remolcador puede han chocado con la cresta exterior a lo largo de la Línea 1, lo que resultó en una pérdida de señal durante su tránsito por esa cresta. Para empeorar las cosas, se desconoce la ubicación exacta de la imagen que se capturó porque el USBL no estaba operativo. Afortunadamente, teníamos un medio para estimar las posiciones del remolque cuando cruzaba las dos crestas a lo largo de la Línea 1.
+El haz que emana del SBP y penetra en el fondo del mar tiene solo unos tres grados de ancho. Una de sus funciones es promediar los datos recibidos a medida que el remolcador avanza por su trayectoria. Las imágenes detalladas de los datos de SBP tienen la mayor definición cuando el remolcador está lo más cerca posible del objetivo sumergido de interés. Con la sonda de profundidad inoperativa, se hizo muy difícil para los técnicos que estaban operando el remolque rozar de cerca el fondo. Si el remolque estuviera demasiado alto sobre el fondo, el haz de tres grados cubriría un área tan grande que proporcionaría poca o ninguna definición, ya que promedia todo lo que alcanza el haz debajo de él. Por otro lado, si el remolque estuviera demasiado cerca del objetivo, estaría en peligro de golpear el fondo, no proporciona datos en absoluto y causa daños al pez de remolque y al cable. Sin anticipar la profundidad a la que se debe operar el remolcador en un momento dado, supongo que fue pura suerte que la única imagen que tenemos de una cresta se capturó a lo largo de la Línea 1. También parece, después del hecho, que el remolcador pudo haber chocado con la cresta exterior a lo largo de la Línea 1, lo que resultó en una pérdida de señal durante su tránsito por esa cresta. Para empeorar las cosas, se desconoce la ubicación exacta de la imagen que se capturó porque el USBL no estaba operativo. Afortunadamente, teníamos un medio para estimar las posiciones del remolque cuando cruzaba las dos crestas a lo largo de la Línea 1.
 
 Navegar con equipo clave inoperativo es atribuible a una instalación defectuosa por parte del fletador, EDT Towage and Salvage Co., Ltd. En un caso como este, como en el viaje de 2004, esta expedición debería haber sido declarada «fuera de alquiler» y el tiempo de contrato para la carta suspendida hasta que se corrigieran las deficiencias. Desafortunadamente, el respondedor USBL y la sonda de profundidad no pudieron probarse en el puerto antes de ponerse en marcha; se descubrió que estaban inoperativos solo después de haberse hecho a la mar. Un USBL solo se puede probar cuando el remolcador se despliega en el agua y el puerto es demasiado poco profundo para probar la sonda de profundidad. Dado este dilema, también es desafortunado que el líder de la expedición, Robert Sarmast, haya tomado la decisión de _no irse_ «fuera de servicio» y regresar al puerto para las reparaciones.
 
@@ -182,7 +182,7 @@ Antes de la expedición de 2006, la cara del montículo con sus escarpes princip
 
 <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image12.png">
-<figcaption><b>Figura 13. <b><em> (opuesto) La sección transversal de la cresta más cercana al montículo central arrojada en 2006 por los datos de SBP. También se muestran las líneas del estrato continuo de la formación de la cresta dibujadas por el geólogo marino Patrick Lowry. (Cortesía de Patrick Lowry de Seatronics SBP scan) </em></figcaption>
+<figcaption><b>Figura 13. </b><em> (opuesto) La sección transversal de la cresta más cercana al montículo central arrojada en 2006 por los datos de SBP. También se muestran las líneas del estrato continuo de la formación de la cresta dibujadas por el geólogo marino Patrick Lowry. (Cortesía de Patrick Lowry de Seatronics SBP scan) </em></figcaption>
 </figure>
 
 Cuando se recibieron las imágenes, Lowry dibujó las líneas de cada estrato continuo en diferentes colores como se ve en la Figura 13. En su conclusión final, proporcionada en el sitio durante la filmación de la expedición, concluyó que las crestas eran formaciones naturales. Declaró frente a la cámara en el documental de The History Channel que las crestas no fueron influenciadas por el hombre y concluyó que: «Esas crestas están formadas por algo natural, no hecho por el hombre».[^7] Su análisis y la forma en que se enmarcó en el momentos finales del documental, parecieron descartar la hipótesis de que las crestas eran consecuencia de la ingeniería humana. La conclusión de Lowry no ha sido cuestionada hasta la nueva interpretación que proporcionaré ahora. 
@@ -198,7 +198,7 @@ La evaluación de Lowry de que las crestas lineales fueron, en efecto, solo el r
 
 Nuestra premisa crucial ha sido que el Continente de Malovitskiy se hundió en tiempos relativamente recientes. Si podemos aceptar esa premisa, entonces el descubrimiento de estructuras bien diseñadas en el fondo del océano llevaría a uno a preguntarse si el Continente Hundido de Malovitskiy realmente encaja con los viejos mitos sobre la Atlántida o el Edén. En otras palabras, lógicamente nos encontramos cara a cara con la última pregunta, la que subsume las preguntas más específicas anteriores: ¿Son las crestas y los montículos que vemos en este lugar puramente una creación de la naturaleza según la afirmación de Lowry, o ¿Fue su formación influenciada de alguna manera por indígenas desconocidos que ocuparon la tierra cuando era una península verde?
 
-Volvamos a la imagen devuelta por el SBP como se muestra en la Figura 13. Como se señaló, su apariencia de continuidad, gradiente, linealidad y la falta de otras formaciones como estas en el área circundante, lleva a la noción de que los humanos estaban involucrados. en su creación. Desafortunadamente, ninguna de estas observaciones constituye una prueba suficiente por sí misma, aunque sí apuntan a la necesidad de un análisis más profundo.
+Volvamos a la imagen devuelta por el SBP como se muestra en la Figura 13. Como se señaló, su apariencia de continuidad, gradiente, linealidad y la falta de otras formaciones como estas en el área circundante, lleva a la noción de que los humanos estaban involucrados en su creación. Desafortunadamente, ninguna de estas observaciones constituye una prueba suficiente por sí misma, aunque sí apuntan a la necesidad de un análisis más profundo.
 
 Regresemos en busca de pistas sobre lo que dice el texto de Urantia sobre esta área: «_...en combinación con una violenta actividad de los volcanes circundantes y la sumersión del puente terrestre que unía Sicilia con África, el fondo oriental del Mar Mediterráneo se hundió, arrastrando bajo las aguas a toda la península edénica._» <a id="a202_334"></a>[[LU 73:7.1](/es/The_Urantia_Book/73#p7_1)] Si de hecho el continente de Malovitskiy se hundió a su nivel actual de esta o de alguna otra manera (como la sugerida por Platón), podemos estar seguros de que en fuerzas de subducción calculables provocaron el catastrófico colapso y descenso de la tierra. Al mismo tiempo, una segunda inferencia relacionada es bastante razonable: debe haber habido fuerzas de resistencia actuando en la dirección opuesta que causaron la formación de las crestas inusuales. De hecho, según declaraciones hechas por Patrick Lowry en el documental, la cresta que se ve en la Figura 13 confirma la presencia de fuertes fuerzas de empuje hacia arriba, presumiblemente durante el hundimiento de la tierra, pero posiblemente también algún tiempo después. En la Figura 13 que se reproduce en la parte superior de la Figura 14, los trazos de líneas de estratos de Lowry en varios colores de tinta muestran cómo se habían formado los estratos. (Consulte las versiones en color de todas las imágenes en http://www.edenatlantisproject.org).
 
@@ -210,7 +210,7 @@ Estas observaciones me han llevado a una nueva hipótesis sobre la naturaleza de
 
 <figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image13.png">
-<figcaption><b>Figura 14. <b><em> Estratos desviados debido a un impedimento bien definido. (Cortesía de Patrick Lowry de Seatronics SBP scan y el autor) </em></figcaption>
+<figcaption><b>Figura 14. </b><em> Estratos desviados debido a un impedimento bien definido. (Cortesía de Patrick Lowry de Seatronics SBP scan y el autor) </em></figcaption>
 </figure>
 
 ## Una nueva interpretación reveladora de las crestas
@@ -241,7 +241,7 @@ Recuerde que Lowry había ofrecido la opinión en 2004 de que el derrumbe en la 
 
 <figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image14.png">
-<figcaption><b>Figura 15. <b><em> Una comparación de las características de un deslizamiento de tierra clásico con la imagen ampliada del montículo. (La imagen que representa las partes de un derrumbe típico es proporcionada en línea por el Servicio Geológico de EE. UU.). </em></figcaption>
+<figcaption><b>Figura 15. </b><em> Una comparación de las características de un deslizamiento de tierra clásico con la imagen ampliada del montículo. (La imagen que representa las partes de un derrumbe típico es proporcionada en línea por el Servicio Geológico de EE. UU.). </em></figcaption>
 </figure>
 
 Ofrezco una explicación alternativa para esta colina anómala: sostengo que esta característica es evidencia de un montículo ceremonial. Los arqueólogos y antropólogos saben desde hace mucho tiempo que la construcción de montículos ceremoniales por parte de los pueblos indígenas de todo el mundo a menudo implica alguna forma de mejora del movimiento de tierras de las colinas naturales. (En las versiones más avanzadas de tales plataformas ceremoniales, construyen pirámides o zigurats reales de piedra, erigiéndolos desde cero). A menudo, tal mejora de tierra a una colina natural tiene como objetivo dar a estos pueblos primitivos una superficie elevada para sostener reuniones y rituales; en otros casos, elaborados montículos abarcan lugares de enterramiento. Con suficiente material y abundancia de mano de obra, una colina ordinaria puede convertirse en un sitio ceremonial cuadrando sus lados y extendiendo la longitud de la sección elevada en una o ambas direcciones.
@@ -256,12 +256,12 @@ Esta característica, si está realmente presente, diferencia claramente el mont
 
 <figure id="Figure_17" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image16.png">
-<figcaption><b>Figura 17. <b><em> La imagen multihaz de IFREMER de la cima del montículo (consulte la primera figura anterior), si se superpone con imágenes de barrido lateral del montículo, puede combinarse para mostrar misteriosos fenómenos físicos. segmentos circulares si las imágenes de barrido lateral se amplían a la escala adecuada. (Cortesía de Robert Sarmastand IFREMER. Composición del autor) </em></figcaption>
+<figcaption><b>Figura 17. </b><em> La imagen multihaz de IFREMER de la cima del montículo (consulte la primera figura anterior), si se superpone con imágenes de barrido lateral del montículo, puede combinarse para mostrar misteriosos fenómenos físicos. segmentos circulares si las imágenes de barrido lateral se amplían a la escala adecuada. (Cortesía de Robert Sarmastand IFREMER. Composición del autor) </em></figcaption>
 </figure>
 
 <figure id="Figure_18" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image17.png">
-<figcaption><b>Figura 18. <b><em> (opuesto) arcos circulares más al este (más a la izquierda) en la Figura 17. (Composición del autor a partir de imágenes de escaneo lateral: 3+2975, 3+3150 y 3+3325) </em></figcaption>
+<figcaption><b>Figura 18. </b><em> (opuesto) arcos circulares más al este (más a la izquierda) en la Figura 17. (Composición del autor a partir de imágenes de escaneo lateral: 3+2975, 3+3150 y 3+3325) </em></figcaption>
 </figure>
 
 Los arcos circulares en la parte superior del montículo en los escaneos IFREMER son algo discernibles en la Figura 17 (imagen superior). Las imágenes del sonar de barrido lateral de la expedición de 2004 nos tientan a pensar que se deben a características circulares físicas reales alrededor de la cumbre, como se ve en la imagen inferior. El hecho de que la circunferencia de algunos de estos círculos se extienda más allá de los restos de la plataforma en algunos lugares sugiere que la superficie natural de la cima de la colina se había agrandado para acomodar cada característica completamente circular, después de lo cual el área realzada desapareció. Estudios adicionales son esenciales para establecer la verdadera naturaleza de estas características circulares.
@@ -272,22 +272,22 @@ Ciertamente, la tecnología moderna está preparada para investigar a fondo esas
 
 Uno de los subproductos de la exploración SBP es un gráfico compilado durante la expedición de 2006 llamado «Perfil de ruta». Muestra la elevación del lecho marino durante el tránsito a lo largo de la Línea 1. Esto nos da una imagen del lado sur del montículo central (el lado derecho de la Figura 21) y revela una escarpa mucho más pequeña en el nivel de -1500 metros. Su causa puede ser la misma que la del lado norte: el cambio dramático de las placas tectónicas y todo lo que siguió.
 
-Una característica principal al pie del lado sur del montículo es una profunda depresión cóncava debajo del nivel de -1600 metros en la Figura 20. Al estudiar la Figura 4, hay una línea obvia de lo que parece ser la orilla de un río en el lado sur. del montículo que se extiende de izquierda a derecha por miles de metros en ambas direcciones. El examen de los barridos batimétricos de IFREMER en toda la zona no arroja ningún rasgo similar que pueda interpretarse como una ribera continua. Y, la literatura sobre esta península no deja duda de que un importante río serpenteaba por la tierra, como cuento más adelante.
+Una característica principal al pie del lado sur del montículo es una profunda depresión cóncava debajo del nivel de -1600 metros en la Figura 20. Al estudiar la Figura 4, hay una línea obvia de lo que parece ser la orilla de un río en el lado sur del montículo que se extiende de izquierda a derecha por miles de metros en ambas direcciones. El examen de los barridos batimétricos de IFREMER en toda la zona no arroja ningún rasgo similar que pueda interpretarse como una ribera continua. Y, la literatura sobre esta península no deja duda de que un importante río serpenteaba por la tierra, como cuento más adelante.
 
 <figure id="Figure_19" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image19.png">
-<figcaption><b>Figura 19. <b><em> Una mirada más cercana al inserto en la Figura 12. El perfil de ruta compilado durante el escaneo de la Línea 1 muestra las características de izquierda a derecha de las dos crestas, la escarpa principal, la cima de la colina y una pequeña escarpa en la parte posterior. del cerro (-1500m) terminando en el punto más bajo, probablemente el fondo del lecho de un río (por debajo de -1600m). [El sur está a la derecha.] (Foto de Axel Schoeller) </em></figcaption>
+<figcaption><b>Figura 19. </b><em> Una mirada más cercana al inserto en la Figura 12. El perfil de ruta compilado durante el escaneo de la Línea 1 muestra las características de izquierda a derecha de las dos crestas, la escarpa principal, la cima de la colina y una pequeña escarpa en la parte posterior. del cerro (-1500m) terminando en el punto más bajo, probablemente el fondo del lecho de un río (por debajo de -1600m). [El sur está a la derecha.] (Foto de Axel Schoeller) </em></figcaption>
 </figure>
 
 En primer lugar, volvamos a los escritos sumerios. En _Enki y el Nuevo Orden Mundial_ se nos dice que una de las formas en que el Señor Enki recorría su isla paradisíaca era por agua. Su modo de transporte es una barcaza propulsada por remos, que evidentemente es capaz de navegar por el río, así como por un complejo de canales y cursos de agua más pequeños en las grandes marismas.
 
-Luego, la Biblia menciona de manera prominente un río asociado con el Jardín del Edén en Génesis 2:10: «Y salía del Edén un río para regar el jardín; y de allí se dividía y se convertía en cuatro ríos.» El profeta Ezequiel también habló de ver un río que fluye desde debajo del Templo en una visión, que coincide con el lugar que propongo, debajo del montículo:
+Luego, la Biblia menciona de manera prominente un río asociado con el Jardín del Edén en [Génesis 2:10](/es/Bible/Genesis/2#v10): «Y salía del Edén un río para regar el jardín; y de allí se dividía y se convertía en cuatro ríos.» El profeta Ezequiel también habló de ver un río que fluye desde debajo del Templo en una visión, que coincide con el lugar que propongo, debajo del montículo:
 
 > «El hombre me llevó de vuelta a la entrada del templo, y vi agua que salía de debajo del umbral del templo hacia el este (porque el templo miraba hacia el este). El agua bajaba de debajo del lado sur del templo, al sur del altar. Entonces me sacó por la puerta del norte y me hizo dar la vuelta por fuera hasta la puerta exterior que mira al este, y el agua corría por el lado del sur». ([Ezequiel 47:1-2 NVI](/es/Bible/Ezekiel/47#v1))
 
 <figure id="Figure_20" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
-<figcaption><b>Figura 20. <b><em> (opuesto) El gran río que fluía «al este de Edén» a través del «cuello peninsular» hacia el continente y desde allí cruzaba las tierras bajas de Mesopotamia hasta el mar más allá. (Descrito en Ezequiel 47:1-2 y _El _Libro de Urantia. De la colección del autor) </em></figcaption>
+<figcaption><b>Figura 20. </b><em> (opuesto) El gran río que fluía «al este de Edén» a través del «cuello peninsular» hacia el continente y desde allí cruzaba las tierras bajas de Mesopotamia hasta el mar más allá. (Descrito en Ezequiel 47:1-2 y _El _Libro de Urantia. De la colección del autor) </em></figcaption>
 </figure>
 
 No solo encontramos un río mencionado en _Enki y el orden mundial_ y la Biblia, sino también en el texto de Urantia:
@@ -310,7 +310,7 @@ El número de ladrillos requeridos en esta cuenta alcanza cifras astronómicas. 
 
 <figure id="Figure_21" class="image urantiapedia">
 <img src="/image/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project/image20.png">
-<figcaption><b>Figura 21. <b><em> Una mirada cercana a un posible sitio de cantera al norte del montículo central. (De datos escaneados de IFREMER e imágenes de Scotia Group)</em></figcaption>
+<figcaption><b>Figura 21. </b><em> Una mirada cercana a un posible sitio de cantera al norte del montículo central. (De datos escaneados de IFREMER e imágenes de Scotia Group)</em></figcaption>
 </figure>
 
 La asombrosa cantidad de ladrillos que se requeriría para tal empresa requeriría un área industrial bastante grande para extraer material para fabricar ladrillos, presumiblemente arcilla, para su fabricación. Consideremos a este respecto la evolución de la fabricación de ladrillos desde el simple ladrillo de barro hasta el ladrillo cocido en horno. Cocer los ladrillos los hizo resistentes al agua para que pudieran usarse para vías fluviales, y este debe haber sido el caso en la versión Urantia del Edén.

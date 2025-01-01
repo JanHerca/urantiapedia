@@ -56,7 +56,7 @@ Para tener una idea de la complejidad de armar este proceso, echemos un vistazo 
 
 Los átomos de manganeso en la caja pasan electrones al único exterior. Tres electrones son suficientes para darle el potencial de dividir su molécula de agua unida, cuya reacción produce un radical OH (hidroxilo) más un protón. El siguiente electrón destruye el radical que se convierte en un átomo de oxígeno activado.
 
-El único átomo de calcio en el vértice de la caja mantiene su molécula de agua unida exactamente en el lugar correcto para ser atacado por el oxígeno activado, el resultado es una molécula de oxígeno normal (O~2~), más 2 hidrógenos que están a disposición. de la bacteria huésped para combinarse con carbono para producir azúcares, etc.
+El único átomo de calcio en el vértice de la caja mantiene su molécula de agua unida exactamente en el lugar correcto para ser atacado por el oxígeno activado, el resultado es una molécula de oxígeno normal (O~2~), más 2 hidrógenos que están a disposición de la bacteria huésped para combinarse con carbono para producir azúcares, etc.
 
 Este centro catalítico central del fotosistema 2 ha resistido hasta ahora todos los intentos de sintetizarlo. Sin embargo, todos los días, utilizando la energía del sol, las bacterias unicelulares simples la producen por carga de camión.
 

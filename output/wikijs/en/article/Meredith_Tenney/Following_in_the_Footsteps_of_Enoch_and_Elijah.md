@@ -49,7 +49,7 @@ While a lofty goal, adjuster fusion in this lifetime, or shortly after our arriv
 
 The prophet Elijah was the second individual to leave our world by fusion. _The Urantia Book_ extols him as <a id="a49_108"></a>[[UB 97:9.19](/en/The_Urantia_Book/97#p9_19)] "_one of the greatest of the prophets,_" and <a id="a49_199"></a>[[UB 45:4.15](/en/The_Urantia_Book/45#p4_15)] "_a translated soul of brilliant spiritual achievement during the post-Material Son age._" In the Book of Kings in the Bible, Elijah is described as a prophet and a miracle worker who entered Heaven alive “by fire.” _The Urantia Book_ informs us that as a result of their spiritual leadership, Enoch and Elijah currently sit on the Council of 24. (<a id="a49_593"></a>[[UB 45:4.15](/en/The_Urantia_Book/45#p4_15)]) One advantage enjoyed by both was a higher concentration of undiluted violet blood than any of us have today, as, according to the Bible, they were direct descendants from Adam's line. This genetic inheritance also afforded them longer lives, making it easier to fuse within their lifetimes. We, however, have the Fifth Epochal Revelation, and thus have information about the ascension scheme and the purpose of adjuster fusion that they may have lacked. Enoch and Elijah dispel forever the notion that only Jesus, a superhuman Son of God, could possibly fuse during this mortal life. 
 
-When Jesus of Nazareth went down into the Jordan to be baptized, he was a mortal of the realm who had attained the <a id="a51_115"></a>[[UB 136:2.2](/en/The_Urantia_Book/136#p2_2)] "_pinnacle of human self-identification with the spirit._" _The Urantia Book_ also tells us that He stood in the Jordan a perfected mortal, having developed "perfect synchrony and full communication with his indwelling spirit adjuster," and he accomplished all of this by the age of 31. (<a id="a51_449"></a>[[UB 136:2.2](/en/The_Urantia_Book/136#p2_2)]) Of course, Michael, our Creator Son, had no need of fusion, but the human Jesus was given an experience as equivalent to fusion as an incarnation of God-made-man could have had. He, John, and Jesus' two brothers, heard a voice from on high say <a id="a51_740"></a>[[UB 136:2.4](/en/The_Urantia_Book/136#p2_4)] "_This is my beloved Son in whom I am well pleased._" After his baptism, Jesus departed for 40 days of seclusion to determine how to proceed. 
+When Jesus of Nazareth went down into the Jordan to be baptized, he was a mortal of the realm who had attained the <a id="a51_115"></a>[[UB 136:2.2](/en/The_Urantia_Book/136#p2_2)] "_pinnacle of human self-identification with the spirit._" _The Urantia Book_ also tells us that He stood in the Jordan a perfected mortal, having developed "perfect synchrony and full communication with his indwelling spirit adjuster," and he accomplished all of this by the age of 31. (<a id="a51_449"></a>[[UB 136:2.2](/en/The_Urantia_Book/136#p2_2)]) Of course, Michael, our Creator Son, had no need of fusion, but the human Jesus was given an experience as equivalent to fusion as an incarnation of God-made-man could have had. He, John, and Jesus' two brothers, heard a voice from on high say <a id="a51_740"></a>[[UB 136:2.4](/en/The_Urantia_Book/136#p2_3)] “_This is my beloved Son in whom I am well pleased._” After his baptism, Jesus departed for 40 days of seclusion to determine how to proceed. 
 
 A similar event awaits all candidates for adjuster fusion. [Paper 47](/en/The_Urantia_Book/57) informs us that when the union between an evolving soul and the divine adjuster is imminent, an archangel announces "This is a beloved son in whom I am well pleased" in the presence of the candidate's associates. After this short ceremony, the individual is granted forty days of spiritual retirement to choose from among the various paths to Havona. Perhaps the human Jesus was given a similar experience in the flesh so that he could better understand the experience of ascending mortals and model the way for those who would follow him. 
 
@@ -83,7 +83,7 @@ Ascenders on the 4^th^ mansion world are introduced to a new social order based 
 On mansion world #5, sojourners are taught the language of Uversa. A real birth of cosmic consciousness takes place, and pilgrims become universe minded with a bona fide enthusiasm for the Havona ascent. Study becomes voluntary, unselfish service natural, and worship spontaneous. 
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/Jerusem10.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/Jerusem10.jpg">
 <figcaption><em> Jerusem.</em> © 2009 Gary Tonge</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ The sixth mansion world is devoted to initial instruction on universe administra
 It is not difficult to analyze the requirements for passage from one mansion world to the next, look within to honestly appraise your progress, and by this means approximate your personal spiritual growth and mansion world level. Taking a look at the chart below may help with your own self- assessment. The chart is over simplified and doesn’t attempt to reflect the complexity and comprehensive nature of decisions made in advancing mortals from one mansion world to the next, but can assist in estimating your progress. 
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/Havona12.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/Havona12.jpg">
 <figcaption><em> Havona.</em> © 2002 Gary Tonge</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ If we could clearly hear the voices of our Thought Adjusters, they would exhort 
 > Today you are passing through the period of the courtship of your Adjuster; and if you only prove faithful to the trust reposed in you by the divine spirit who seeks your mind and soul in eternal union, there will eventually ensue that morontia oneness, that supernal harmony, that cosmic co-ordination, that divine attunement, that celestial fusion, that never- ending blending of identity, that oneness of being which is so perfect and final that even the most experienced personalities can never segregate or recognize as separate identities the fusion partners—mortal man and divine Adjuster. <a id="a143_599"></a>[[UB 110:1.6](/en/The_Urantia_Book/110#p1_6)] 
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Urantia_Book/Gary_Tonge/The_Grand_Universe.jpg">
+<img src="/image/The_Urantia_Book/Gary_Tonge/The_Grand_Universe.jpg">
 <figcaption><em> The Grand Universe.</em> © 2002 Gary Tonge</figcaption>
 </figure>
 

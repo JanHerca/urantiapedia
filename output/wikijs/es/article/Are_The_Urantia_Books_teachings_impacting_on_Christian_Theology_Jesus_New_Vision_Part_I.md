@@ -38,7 +38,7 @@ La enseñanza de que la muerte de Jesús en la cruz fue una ofrenda de expiació
 
 Recientemente tuve una razón para desenterrar de debajo del polvo que se había acumulado, un libro que compré como obra de referencia para ayudarme a comprender la mentalidad de los judíos del primer siglo. También recordé que su autor no estaba de acuerdo con el concepto de que Jesús había muerto por el perdón de los pecados del hombre.
 
-Leí toda la obra entonces, impresionado por sus similitudes conceptuales con gran parte de lo que leí en _El Libro de Urantia_, lo releí, buscando cualquier indicio de que su autor se aferrara a conceptos que fueran contradictorios con lo que está contenido en la «vida». de Jesús» componente de esos Documentos de Urantia.
+Leí toda la obra entonces, impresionado por sus similitudes conceptuales con gran parte de lo que leí en _El Libro de Urantia_, lo releí, buscando cualquier indicio de que su autor se aferrara a conceptos que fueran contradictorios con lo que está contenido en la «vida de Jesús» componente de esos Documentos de Urantia.
 
 No pude encontrar ninguno. Publicado por primera vez en 1987 y aclamado por Houston Smith, un conocido autor y comentarista como «El libro que he estado esperando», el trabajo se titula «Jesús, una nueva visión», siendo su autor Marcus J. Borg. Y el hecho de que haya más de 100 referencias a autores modernos es indicativo de que Borg no está solo en sus opiniones.
 
@@ -96,7 +96,7 @@ Esta es la imagen más familiar tanto para los cristianos como para los no crist
 
 Esta imagen tiene sus raíces en los evangelios del Nuevo Testamento: «Yo soy la luz del mundo», «Yo soy el pan de vida», «Yo soy el camino, la verdad y la vida», «El Padre está en yo y yo soy en el Padre», «El que me ha visto a mí, ha visto al Padre», «Antes que Abraham fuese, yo soy», «Yo y el Padre uno somos». Y en un solo versículo, el cuarto evangelio resume la identidad, el propósito y el mensaje de Jesús: «Porque de tal manera amó Dios al mundo que ha dado a su Hijo unigénito para que todo el que crea en él no se pierda, sino que tenga vida eterna».
 
-**La imagen de Jesús vista por los eruditos en el siglo XX**: La imagen dominante sostenida por los eruditos en el siglo XX es que podemos saber poco sobre el Jesús histórico aparte de que se vio a sí mismo como un profeta escatológico que creía en el fin. del mundo estaba a la mano.
+**La imagen de Jesús vista por los eruditos en el siglo XX**: La imagen dominante sostenida por los eruditos en el siglo XX es que podemos saber poco sobre el Jesús histórico aparte de que se vio a sí mismo como un profeta escatológico que creía en el fin del mundo estaba a la mano.
 
 **Hacia una tercera imagen**: La mayoría de los estudiosos ya no piensan que Jesús esperaba el fin del mundo durante su generación. Esto se debió a que el concepto escatológico se basó en la venida del hijo del hombre declaraciones como [Mateo 24:27,30, 37, 39](/es/Bible/Matthew/24#v27); [Marcos 13:27](/es/Bible/Mark/13#v27); [14:62](/es/Bible/Mark/14#v62); [Lucas 2:27](/es/Bible/Luke/2#v27); [Juan 5:25](/es/Bible/John/5#v25). Estos ya no se consideran auténticos, pero probablemente sean el producto de la iglesia primitiva.
 

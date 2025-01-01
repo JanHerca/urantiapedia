@@ -60,7 +60,7 @@ El Ajustador del Pensamiento es un regalo del Padre Universal a la mente humana,
 
 Si el Supremo es una personalidad, ¿por qué no podemos contactarlo personalmente? Sabemos que el Supremo no ha completado su evolución, y es este crecimiento incompleto del Alma Suprema lo que hace que su personalidad sea inaccesible. Pero un día en el futuro eterno, todas las criaturas podrán participar simultáneamente en el descubrimiento de la personalidad del Supremo cuando su perfección haya sido alcanzada universalmente.
 
-## Otras influencias y The Supreme
+## Otras influencias y El Supremo
 
 ¿Cómo relacionamos al Supremo con las diversas influencias que nos rodean, como el Ajustador del Pensamiento, el Espíritu de la Verdad y el Espíritu Santo? Estas influencias espirituales, tanto internas como externas, tienen orígenes diversos y actúan de manera diferente para influirnos de diferentes maneras.
 
@@ -106,7 +106,7 @@ El supremo:
 
 En el futuro, no será tanto que la humanidad cambie, sino que cambiará nuestra visión de la sociedad, nuestra visión de la humanidad, nuestra visión del planeta y nuestra visión del universo. Una forma embrionaria de conciencia planetaria ahora está creciendo y nos está conduciendo a la etapa de responsabilidad consciente y colectiva. La conciencia del Supremo no surge en nuestra mente para complicar nuestras vidas pacíficas sino para resolver problemas relacionados con nuestro crecimiento individual y colectivo.
 
-La conciencia del Supremo nos convierte en pilares espirituales al servicio del Cuerpo de Reserva del Destino, integrado por voluntarios y pensadores sinceramente entregados al servicio de la fraternidad humana a medida que nuestro planeta avanza lentamente hacia la era de la luz y la vida. Debido al crecimiento vital que jugamos en el crecimiento mismo del universo, el Supremo nos confiere a cada uno de nosotros el estatus de ciudadano potencial del universo, un ciudadano con derechos y privilegios virtualmente ilimitados, pero también con deberes y responsabilidades dignos de la más hermosa de las destinos ofrecidos en esta era.
+La conciencia del Supremo nos convierte en pilares espirituales al servicio del Cuerpo de Reserva del Destino, integrado por voluntarios y pensadores sinceramente entregados al servicio de la fraternidad humana a medida que nuestro planeta avanza lentamente hacia la era de la luz y la vida. Debido al crecimiento vital que jugamos en el crecimiento mismo del universo, el Supremo nos confiere a cada uno de nosotros el estatus de ciudadano potencial del universo, un ciudadano con derechos y privilegios virtualmente ilimitados, pero también con deberes y responsabilidades dignos del más hermoso de las destinos ofrecidos en esta era.
 
 ## Referencias
 

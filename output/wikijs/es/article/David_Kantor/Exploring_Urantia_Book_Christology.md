@@ -40,7 +40,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 <img src="/image/article/David_Kantor/Exploring_Urantia_Book_Christology/004144.jpg">
 </figure>
 
-El cristianismo en los primeros siglos de la era cristiana se caracterizó por muchas creencias divergentes acerca de quién o qué era Jesús en realidad. Diversas comunidades de creyentes con un liderazgo dinámico ya veces visionario estaban evolucionando por todo el mundo mediterráneo y más allá. Los conflictos significativos entre estos grupos dieron forma a lo que se convirtió en ortodoxia. Algunas de las creencias principales se enumeran a continuación. ¿Cuál o cuáles reflejan más fielmente la cristología de _El Libro de Urantia_?
+El cristianismo en los primeros siglos de la era cristiana se caracterizó por muchas creencias divergentes acerca de quién o qué era Jesús en realidad. Diversas comunidades de creyentes con un liderazgo dinámico y a veces visionario estaban evolucionando por todo el mundo mediterráneo y más allá. Los conflictos significativos entre estos grupos dieron forma a lo que se convirtió en ortodoxia. Algunas de las creencias principales se enumeran a continuación. ¿Cuál o cuáles reflejan más fielmente la cristología de _El Libro de Urantia_?
 
 ## Creencias tempranas sobre la naturaleza de Cristo
 

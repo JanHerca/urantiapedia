@@ -40,7 +40,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004135.jpg">
 </figure>
 
-El final de la Edad de Hielo coincidió con el cierre de la era Paleolítica, cuando las herramientas de piedra se usaban como instrumentos principales, y cuando comenzó el período Jōmon en el antiguo Japón aproximadamente 12,000 a.C. La cultura prehistórica que floreció en ese momento y luego se fusionó en la moderna El pueblo japonés se llama la cultura Jōmon. El término Jōmon significa «estampado de cuerdas» en japonés, y describe los patrones que los artistas de esa época presionan en la arcilla. El período Jōmon generalmente se identifica con formas de vida de caza y recolección, especialmente la intensa utilización de los recursos marinos en la recolección de mariscos y la pesca en alta mar.
+El final de la Edad de Hielo coincidió con el cierre de la era Paleolítica, cuando las herramientas de piedra se usaban como instrumentos principales, y cuando comenzó el período Jōmon en el antiguo Japón aproximadamente 12,000 a.C. La cultura prehistórica que floreció en ese momento y luego se fusionó en la moderna. El pueblo japonés se llama la cultura Jōmon. El término Jōmon significa «estampado de cuerdas» en japonés, y describe los patrones que los artistas de esa época presionan en la arcilla. El período Jōmon generalmente se identifica con formas de vida de caza y recolección, especialmente la intensa utilización de los recursos marinos en la recolección de mariscos y la pesca en alta mar.
 
 Jōmon significa «patrón de cuerdas» en referencia a la cerámica.
 

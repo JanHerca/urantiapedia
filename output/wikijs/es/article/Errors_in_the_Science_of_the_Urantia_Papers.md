@@ -83,7 +83,7 @@ Un período de «miles de años» durante los cuales «el sol nunca brilló sobr
 
 En conflicto con lo anterior, los cráteres y maree en la superficie de la luna se remontan a 3.900 millones de años y no presentan signos de un bombardeo de meteoritos que podría aumentar la masa de la Tierra en un tercio en este período.
 
-También se conocen fósiles de algas de 1.900 millones de años de las formaciones Gunflint en Canadá y de 1.500 millones de años de los dolomitas de Amelia en Australia. Las estimaciones actuales indican que los océanos alcanzaron su grado actual de salinidad hace entre 1500 y 2000 millones de años.[^3] Y las criaturas ediacáricas que habitan en el mar[^3] estuvieron presentes en los fondos oceánicos desde hace casi mil millones de años hasta finales del Precámbrico. medio billón de años después
+También se conocen fósiles de algas de 1.900 millones de años de las formaciones Gunflint en Canadá y de 1.500 millones de años de los dolomitas de Amelia en Australia. Las estimaciones actuales indican que los océanos alcanzaron su grado actual de salinidad hace entre 1500 y 2000 millones de años.[^3] Y las criaturas ediacáricas que habitan en el mar[^3] estuvieron presentes en los fondos oceánicos desde hace casi mil millones de años hasta finales del Precámbrico medio billón de años después.
 
 La descripción en el Documento es diametralmente opuesta a la evidencia de las ciencias de investigación modernas, tanto que cualquier lector nuevo que tenga un conocimiento sólido de las nuevas tecnologías de la geofísica y la astronomía estaría desconcertado en cuanto a por qué se escribió.
 
@@ -100,7 +100,7 @@ La descripción en el Documento es diametralmente opuesta a la evidencia de las 
 
 El geofísico británico Sir Harold Jeffreys pasó años intentando demostrar que la deriva continental es imposible porque la fuerza del manto debería ser mayor que cualquier fuerza impulsora concebible. El eminente geólogo estadounidense, RT Chamberlin, enumeró 18 puntos que consideró destructivos de la hipótesis.
 
-El punto de inflexión se produjo con el descubrimiento de la expansión del suelo marino en la dorsal atlántica alrededor de 1960. Sin embargo, la historia geológica de la Tierra de El libro de Urantia desde hace 750.000.000 de años se había presentado frente a una intensa oposición a la deriva continental y también a la visión de Wegener. esa deriva había comenzado mucho más recientemente, alrededor de la marca de 200,000,000 años.
+El punto de inflexión se produjo con el descubrimiento de la expansión del suelo marino en la dorsal atlántica alrededor de 1960. Sin embargo, la historia geológica de la Tierra de _El libro de Urantia_ desde hace 750.000.000 de años se había presentado frente a una intensa oposición a la deriva continental y también a la visión de Wegener. Esa deriva había comenzado mucho más recientemente, alrededor de la marca de 200,000,000 años.
 
 En la década de 1980, los geólogos comenzaron a publicar su creencia de que el primer desmoronamiento de un solo continente comenzó mucho antes, hace unos 500.000.000 de años. Para 1995, esto había aumentado a 750 000 000, el mismo período que se indica en el Documento de Urantia.[^2] Entonces, ¿fue la deriva continental, que comenzó hace 750 millones de años, solo una conjetura afortunada? Sólo hay una posibilidad entre cientos de que así sea. Pero si no es por casualidad, ¿por qué los reveladores nos han dado lo que parece ser un relato absolutamente ridículo de otros aspectos de la historia geológica?
 
