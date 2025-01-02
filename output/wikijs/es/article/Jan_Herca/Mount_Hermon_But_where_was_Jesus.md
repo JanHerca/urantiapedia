@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Con tantos detalles como ofrece _El Libro de Urantia_ sobre el lugar donde permaneció Jesús retirado seis semanas, no podía resultar muy difícil ubicar el lugar y hacerse un poco a la idea de cómo es y sobre todo, como fue.
 
 En <a id="a14_3"></a>[LU 134:8](/es/The_Urantia_Book/134#p8) («Los años de transición»), se nos dice que Jesús y Tiglat construyeron un depósito de piedra en un lugar situado a 2000 metros de altitud. También se nos comenta que para ascender hasta allí pasaron por una aldea conocida entonces como Beit Jenn.[^1] [^2]
@@ -58,6 +74,22 @@ Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libr
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-monte-hermon-pero-donde-estuvo-jesus/)
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Referencias y Notas
 
 [^1]: [Visualizar Beit Jinn en Google Earth](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA): resultado de introducir «Beit Jinn, Syria» en la casilla de búsqueda.
@@ -75,4 +107,3 @@ Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libr
 [^7]: Este libro es la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
 
 [^8]: _Libro 1 de Enoc o Enoc etiópico_ 6:5-8, _Traducido de «Los apócrifos y pseudoepígrafos del Antiguo Testamento», por R.H. Charles [1913]_ Existen fragmentos de este versículo en el manuscrito 4QEna y 4QEnb de Qumran.
-
