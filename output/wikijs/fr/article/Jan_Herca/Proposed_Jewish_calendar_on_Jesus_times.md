@@ -1,5 +1,5 @@
 ---
-title: "Propuesta de calendario judío de tiempos de Jesús"
+title: "Proposition d'un calendrier juif du temps de Jésus"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/fr/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
@@ -26,33 +26,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> Este documento no está finalizado y se encuentra en progreso. Cuando esté concluido mostrará todo el calendario propuesto para la creación de la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), desde el año 8 a.C. hasta el 30 d.C. Esta novela es una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
+> Ce document n'est pas finalisé et est en cours. Lorsqu'il sera terminé, il montrera tout le calendrier proposé pour la création du roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), de l'an 8 avant JC à 30 après JC. Ce roman est une biographie sur le Maître basé sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
 
-## Consideraciones
+## Considérations
 
-Estas tablas son una «propuesta» de relación entre los dos calendarios de la época de Jesús durante el período narrado en la novela: el juliano (vigente en el imperio romano) y el judío.
+Ces tables sont une « proposition » d'une relation entre les deux calendriers du temps de Jésus au cours de la période racontée dans le roman : le calendrier julien (en vigueur dans l'Empire romain) et le calendrier juif.
 
-Se muestra el día judío que empezaba al atardecer del día juliano.
+Le jour juif est représenté, qui commençait au coucher du soleil le jour julien.
 
-Las fiestas que aparecen resaltadas en negrita en el calendario son:
-- los sabaths
-- 1 de tishri: fiesta de las trompetas.
-- 10 de tishri: día del perdón.
-- 15-22 de tishri: fiesta de los tabernáculos.
-- 25 de kislev y siguientes: Hannuká.
-- 14 de nisán: Pascua.
-- 15-21 de nisán: fiesta de los panes sin levadura (ácimos).
-- en siván, el domingo siguiente a siete sábados desde la fiesta de los ácimos: Pentecostés.
+Les jours fériés qui apparaissent en gras sur le calendrier sont :
+- les sabbats
+- 1er Tishri : fête des trompettes.
+- 10 Tishri : jour du pardon.
+- Tishri 15-22 : Fête des Tabernacles.
+- Kislev 25 et suivants : Hannuka.
+- 14 Nisan : Pâques.
+- 15-21 Nisan : fête des pains sans levain (sans levain).
+- à Sivan, le dimanche qui suit les sept samedis de la fête des pains sans levain : Pentecôte.
 
-El proceso de creación de este calendario se detalla en este artículo: [El calendario judío de la época de Jesús](/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times).
+Le processus de création de ce calendrier est détaillé dans cet article : [Le calendrier juif du temps de Jésus](/fr/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times).
 
-Una cronología resumida que incluye sólo el calendario gregoriano se puede encontrar en este artículo: [Cronología de la vida de Jesús según El Libro de Urantia](/es/article/Jan_Herca/Chronology)
+Une chronologie récapitulative qui inclut uniquement le calendrier grégorien peut être trouvée dans cet article : [Chronologie de la vie de Jésus selon Le Livre d'Urantia](/fr/article/Jan_Herca/Chronology)
 
-## Año 25 d.C.
+## Année 25 après JC
 
-**Agosto de 25 / Ab-Elul de 3785**
+**Août de l'an 25 / Av-Eloul de l'an 3785**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 19   | 20   | 21   |__22__| 23   |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 24   | 25   | 26   | 27   | 28   |__29__| 30   |
@@ -60,9 +60,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 8    | 9    | 10   | 11   | 12   |__13__| 14   |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 15   | 16   | 17   | 18   | 19   |      |      |
 
-**Septiembre de 25 / Elul de 3785 - Tishri de 3786**
+**Septembre de l'an 25 / Eloul de l'an 3785 - Tishri de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__20__| 21   |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 22   | 23   | 24   | 25   | 26   |__27__| 28   |
@@ -70,9 +70,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 17   | 18   | 19   |__20__| 21   |__22__| 23   |        | 7    | 8    | 9    |__10__| 11   |__12__| 13   |
 | 24   |__25__|__26__|__27__|__28__|__29__|__30__|        | 14   |__15__|__16__|__17__|__18__|__19__|__20__|
 
-**Octubre de 25 / Tishri-Hesván de 3786**
+**Octobre de l'an 25 / Tishri-Heshvan de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |__1__ |__2__ | 3    | 4    | 5    |__6__ | 7    |        |__21__|__22__| 23   | 24   | 25   |__26__| 27   |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 28   | 29   | 30   | 1    | 2    |__3__ | 4    |
@@ -80,9 +80,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 12   | 13   | 14   | 15   | 16   |__17__| 18   |
 | 29   | 30   | 31   |      |      |      |      |        | 19   | 20   | 21   |      |      |      |      |
 
-**Noviembre de 25 / Hesván-Kislev de 3786**
+**Novembre de l'an 25 / Heshvan-Kislev de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ |      |        |      |      |      | 22   | 23   |__24__| 25   |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 26   | 27   | 28   | 29   | 30   |__1__ | 2    |
@@ -90,9 +90,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 10   | 11   | 12   | 13   | 14   |__15__| 16   |
 | 26   | 27   | 28   | 29   | 30   |      |      |        | 17   | 18   | 19   | 20   | 21   |      |      |
 
-**Diciembre de 25 / Kislev-Tevet de 3786**
+**Décembre de l'an 25 / Kislev-Tevet de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__22__| 23   |
 | 3    |__4__ |__5__ |__6__ |__7__ |__8__ |__9__ |        | 24   |__25__|__26__|__27__|__28__|__29__|__30__|
@@ -101,11 +101,11 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 15   | 16   | 17   | 18   | 19   |__20__| 21   |
 | 31   |      |      |      |      |      |      |        | 22   |      |      |      |      |      |      |
 
-## Año 26 d.C.
+## Année 26 après JC
 
-**Enero de 26 / Tevet-Shevat de 3786**
+**Janvier de l'an 26 / Tevet-Shevat de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 23   | 24   | 25   | 26   |__27__| 28   |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 29   | 1    | 2    | 3    | 4    |__5__ | 6    |
@@ -113,9 +113,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 14   | 15   | 16   | 17   | 18   |__19__| 20   |
 | 28   | 29   | 30   | 31   |      |      |      |        | 21   | 22   | 23   | 24   |      |      |      |
 
-**Febrero de 26 / Shevat-Adar de 3786**
+**Février de l'an 26 / Shevat-Adar de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 25   |__26__| 27   |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 28   | 29   | 30   | 1    | 2    |__3__ | 4    |
@@ -123,9 +123,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   | 21   | 22   |__23__| 24   |        | 12   | 13   | 14   | 15   | 16   |__17__| 18   |
 | 25   | 26   | 27   | 28   |      |      |      |        | 19   | 20   | 21   | 22   |      |      |      |
 
-**Marzo de 26 / Adar-Nisán de 3786**
+**Mars de l'an 26 / Adar-Nissan de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 23   |__24__| 25   |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 26   | 27   | 28   | 29   | 1    |__2__ | 3    |
@@ -133,9 +133,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   |__21__|__23__|__23__|__24__|        | 11   | 12   | 13   |__14__|__15__|__16__|__17__|
 |__25__|__26__|__27__|__28__| 29   |__30__| 31   |        |__18__|__19__|__20__|__21__| 22   |__23__| 24   |
 
-**Abril de 26 / Nisán-Iyar de 3786**
+**Avril de l'an 26 / Nissan-Iyar de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 25   | 26   | 27   | 28   | 29   |__30__| 1    |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |
@@ -143,9 +143,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 16   | 17   | 18   | 19   | 20   |__21__| 22   |
 | 29   | 30   |      |      |      |      |      |        | 23   | 24   |      |      |      |      |      |
 
-**Mayo de 26 / Iyar-Siván de 3786**
+**Mai de l'an 26 / Iyar-Sivan de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 25   | 26   | 27   |__28__| 29   |
 | 6    | 7    | 8    | 9    | 10   |__11__|__12__|        | 1    | 2    | 3    | 4    | 5    |__6__ |__7__ |
@@ -153,9 +153,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 15   | 16   | 17   | 18   | 19   |__20__| 21   |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 22   | 23   | 24   | 25   | 26   |      |      |
 
-**Junio de 26 / Siván-Tammuz de 3786**
+**Juin de l'an 26 / Sivan-Tammouz de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__27__| 28   |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 29   | 30   | 1    | 2    | 3    |__4__ | 5    |
@@ -163,9 +163,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 17   | 18   | 19   | 20   | 21   |__22__| 23   |        | 13   | 14   | 15   | 16   | 17   |__18__| 19   |
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 20   | 21   | 22   | 23   | 24   |__25__| 26   |
 
-**Julio de 26 / Tammuz - Ab de 3786**
+**Juillet de l'an 26 / Tammouz - Av de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 27   | 28   | 29   | 1    | 2    |__3__ | 4    |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 5    | 6    | 7    | 8    | 9    |__10__| 11   |
@@ -173,9 +173,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 19   | 20   | 21   | 22   | 23   |__24__| 25   |
 | 29   | 30   | 31   |      |      |      |      |        | 26   | 27   | 28   |      |      |      |      |
 
-**Agosto de 26 / Ab - Elul de 3786**
+**Agosto de 26 / Av - Eloul de l'an 3786**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 29   | 30   |__1__ | 2    |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |
@@ -183,9 +183,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 17   | 18   | 19   | 20   | 21   |__22__| 23   |
 | 26   | 27   | 28   | 29   | 30   |__31__|      |        | 24   | 25   | 26   | 27   | 28   |__29__|      |
 
-**Septiembre de 26 / Tishri de 3787**
+**Septembre  de l'an 26 / Tishri de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      |__1__ |        |      |      |      |      |      |      |__1__ |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |
@@ -194,9 +194,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 23   | 24   | 25   | 26   | 27   |__28__| 29   |
 | 30   |      |      |      |      |      |      |        | 30   |      |      |      |      |      |      |
 
-**Octubre de 26 / Hesván - Kislev de 3787**
+**Octobre de l'an 26 / Heshvan - Kislev de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 1    | 2    | 3    | 4    |__5__ | 6    |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
@@ -204,9 +204,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 21   | 22   | 23   | 24   | 25   |__26__| 27   |
 | 28   | 29   | 30   | 31   |      |      |      |        | 28   | 29   | 30   | 1    |      |      |      |
 
-**Noviembre de 26 / Kislev - Tevet de 3787**
+**Novembre de l'an 26 / Kislev - Tevet de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 2    |__3__ | 4    |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 5    | 6    | 7    | 8    | 9    |__10__| 11   |
@@ -214,9 +214,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   | 21   | 22   |__23__|__24__|        | 19   | 20   | 21   | 22   | 23   |__24__|__25__|
 |__25__|__26__|__27__|__28__|__29__|__30__|      |        |__26__|__27__|__28__|__29__|__30__|__1__ |      |
 
-**Diciembre de 26 / Tevet - Shevat de 3787**
+**Décembre de l'an 26 / Tevet - Shevat de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      | 1    |        |      |      |      |      |      |      | 2    |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |
@@ -225,11 +225,11 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 24   | 25   | 26   | 27   | 28   |__29__| 1    |
 | 30   | 31   |      |      |      |      |      |        | 2    | 3    |      |      |      |      |      |
 
-## Año 27 d.C.
+## Année 27 après JC
 
-**Enero de 27 / Shevat - Adar de 3787**
+**Janvier de l'an 27 / Shevat - Adar de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 4    | 5    | 6    |__7__ | 8    |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 9    | 10   | 11   | 12   | 13   |__14__| 15   |
@@ -237,9 +237,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 23   | 24   | 25   | 26   | 27   |__28__| 29   |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 30   | 1    | 2    | 3    | 4    |      |      |
 
-**Febrero de 27 / Adar - Adar sení de 3787**
+**Février de l'an 27 / Adar - Adar sení de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__5__ | 6    |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
@@ -247,9 +247,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 17   | 18   | 19   | 20   | 21   |__22__| 23   |        | 21   | 22   | 23   | 24   | 25   |__26__| 27   |
 | 24   | 25   | 26   | 27   | 28   |      |      |        | 28   | 29   | 30   | 1    | 2    |      |      |
 
-**Marzo de 27 / Adar sení - Nisán de 3787**
+**Mars de l'an 27 / Adar sení - Nissan de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__3__ | 4    |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 5    | 6    | 7    | 8    | 9    |__10__| 11   |
@@ -258,9 +258,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 26   | 27   | 28   | 29   | 1    |__2__ | 3    |
 | 31   |      |      |      |      |      |      |        | 4    |      |      |      |      |      |      |
 
-**Abril de 27 / Nisán - Iyar de 3787**
+**Avril de l'an 27 / Nissan - Iyar de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 5    | 6    | 7    | 8    |__9__ | 10   |
 | 7    | 8    | 9    |__10__|__11__|__12__|__13__|        | 11   | 12   | 13   |__14__|__15__|__16__|__17__|
@@ -268,9 +268,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 25   | 26   | 27   | 28   | 29   |__30__| 1    |
 | 28   | 29   | 30   |      |      |      |      |        | 2    | 3    | 4    |      |      |      |      |
 
-**Mayo de 27 / Iyar - Siván de 3787**
+**Mai de l'an 27 / Iyar - Sivan de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 5    | 6    |__7__ | 8    |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 9    | 10   | 11   | 12   | 13   |__14__| 15   |
@@ -278,9 +278,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 23   | 24   | 25   | 26   | 27   |__28__| 29   |
 | 26   | 27   | 28   | 29   | 30   |__31__|      |        | 1    | 2    | 3    | 4    | 5    |__6__ |      |
 
-**Junio de 27 / Siván - Tammuz de 3787**
+**Juin de l'an 27 / Sivan - Tammouz de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      |__1__ |        |      |      |      |      |      |      |__7__ |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 8    | 9    | 10   | 11   | 12   |__13__| 14   |
@@ -289,9 +289,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 29   | 30   | 1    | 2    | 3    |__4__ | 5    |
 | 30   |      |      |      |      |      |      |        | 6    |      |      |      |      |      |      |
 
-**Julio de 27 / Tammuz - Ab de 3787**
+**Juillet de l'an 27 / Tammouz - Av de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 7    | 8    | 9    | 10   |__11__| 12   |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 13   | 14   | 15   | 16   | 17   |__18__| 19   |
@@ -299,9 +299,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 27   | 28   | 29   | 1    | 2    |__3__ | 4    |
 | 28   | 29   | 30   | 31   |      |      |      |        | 5    | 6    | 7    | 8    |      |      |      |
 
-**Agosto de 27 / Ab - Elul de 3787**
+**Agosto de 27 / Av - Eloul de l'an 3787**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 9    |__10__| 11   |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 12   | 13   | 14   | 15   | 16   |__17__| 18   |
@@ -309,9 +309,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   | 21   | 22   |__23__| 24   |        | 26   | 27   | 28   | 29   | 30   |__1__ | 2    |
 | 25   | 26   | 27   | 28   | 29   |__30__| 31   |        | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |
 
-**Septiembre de 27 / Elul - Tishri de 3788**
+**Septembre  de l'an 27 / Eloul - Tishri de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 10   | 11   | 12   | 13   | 14   |__15__| 16   |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 17   | 18   | 19   | 20   | 21   |__22__| 23   |
@@ -319,9 +319,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |
 | 29   |__30__|      |      |      |      |      |        | 9    |__10__|      |      |      |      |      |
 
-**Octubre de 27 / Tishri - Hesván de 3788**
+**Octobre de l'an 27 / Tishri - Heshvan de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 11   | 12   | 13   |__14__| 15   |
 |__6__ |__7__ |__8__ |__9__ |__10__|__11__|__12__|        |__16__|__17__|__18__|__19__|__20__|__21__|__22__|
@@ -329,9 +329,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 30   | 1    | 2    | 3    | 4    |__5__ | 6    |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 7    | 8    | 9    | 10   | 11   |      |      |
 
-**Diciembre de 27 / Kislev - Tevet de 3788**
+**Décembre de l'an 27 / Kislev - Tevet de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 12   | 13   | 14   | 15   | 16   |__17__| 18   |
 | 8    | 9    | 10   | 11   | 12   |__13__|__14__|        | 19   | 20   | 21   | 22   | 23   |__24__|__25__|
@@ -339,11 +339,11 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |
 | 29   | 30   | 31   |      |      |      |      |        | 10   | 11   | 12   |      |      |      |      |
 
-## Año 28 d.C.
+## Année 28 après JC
 
-**Enero de 28 / Tevet - Shevat de 3788**
+**Janvier de l'an 28 / Tevet - Shevat de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 13   | 14   |__15__| 16   |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 17   | 18   | 19   | 20   | 21   |__22__| 23   |
@@ -351,9 +351,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |
 | 26   | 27   | 28   | 29   | 30   |__31__|      |        | 9    | 10   | 11   | 12   | 13   |__14__|      |
 
-**Febrero de 28 / Shevat - Adar de 3788**
+**Février de l'an 28 / Shevat - Adar de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      | 1    |        |      |      |      |      |      |      | 15   |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 16   | 17   | 18   | 19   | 20   |__21__| 22   |
@@ -361,9 +361,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 16   | 17   | 18   | 19   | 20   |__21__| 22   |        | 30   | 1    | 2    | 3    | 4    |__5__ | 6    |
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
 
-**Marzo de 28 / Adar - Nisán de 3788**
+**Mars de l'an 28 / Adar - Nissan de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 14   | 15   | 16   | 17   | 18   |__19__| 20   |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 21   | 22   | 23   | 24   | 25   |__26__| 27   |
@@ -371,9 +371,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 6    | 7    | 8    | 9    | 10   |__11__| 12   |
 | 29   |__30__|__31__|      |      |      |      |        | 13   |__14__|__15__|      |      |      |      |
 
-**Abril de 28 / Nisán - Iyar de 3788**
+**Avril de l'an 28 / Nissan - Iyar de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |__1__ |__2__ |__3__ |__4__ |        |      |      |      |__16__|__17__|__18__|__19__|
 |__5__ |__6__ | 7    | 8    | 9    |__10__| 11   |        |__20__|__21__| 22   | 23   | 24   |__25__| 26   |
@@ -381,9 +381,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |
 | 26   | 27   | 28   | 29   | 30   |      |      |        | 11   | 12   | 13   | 14   | 15   |      |      |
 
-**Mayo de 28 / Iyar - Siván de 3788**
+**Mai de l'an 28 / Iyar - Sivan de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__16__| 17   |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 18   | 19   | 20   | 21   | 22   |__23__| 24   |
@@ -392,9 +392,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 10   | 11   | 12   | 13   | 14   |__15__| 16   |
 | 31   |      |      |      |      |      |      |        | 17   |      |      |      |      |      |      |
 
-**Junio de 28 / Siván - Tammuz de 3788**
+**Juin de l'an 28 / Sivan - Tammouz de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 18   | 19   | 20   | 21   |__22__| 23   |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 24   | 25   | 26   | 27   | 28   |__29__| 30   |
@@ -402,9 +402,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 8    | 9    | 10   | 11   | 12   |__13__| 14   |
 | 28   | 29   | 30   |      |      |      |      |        | 15   | 16   | 17   |      |      |      |      |
 
-**Julio de 28 / Tammuz - Ab de 3788**
+**Juillet de l'an 28 / Tammouz - Av de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 18   | 19   |__20__| 21   |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 22   | 23   | 24   | 25   | 26   |__27__| 28   |
@@ -412,9 +412,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
 | 26   | 27   | 28   | 29   | 30   |__31__|      |        | 14   | 15   | 16   | 17   | 18   |__19__|      |
 
-**Agosto de 28 / Ab - Elul de 3788**
+**Agosto de 28 / Av - Eloul de l'an 3788**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      | 1    |        |      |      |      |      |      |      | 20   |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 21   | 22   | 23   | 24   | 25   |__26__| 27   |
@@ -423,9 +423,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 12   | 13   | 14   | 15   | 16   |__17__| 18   |
 | 30   | 31   |      |      |      |      |      |        | 19   | 20   |      |      |      |      |      |
 
-**Septiembre de 28 / Elul de 3788 - Tishri de 3789**
+**Septembre  de l'an 28 / Eloul de l'an 3788 - Tishri de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    | 4    | 5    |        |      |      | 21   | 22   | 23   | 24   | 25   |
 | 6    | 7    | 8    | 9    |__10__| 11   | 12   |        | 26   | 27   | 28   | 29   |__1__ | 2    | 3    |
@@ -433,9 +433,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   |__24__|__25__|__26__|        | 11   | 12   | 13   | 14   |__15__|__16__|__17__|
 |__27__|__28__|__29__|__30__|      |      |      |        |__18__|__19__|__20__|__21__|      |      |      |
 
-**Octubre de 28 / Tishri - Hesván de 3789**
+**Octobre de l'an 28 / Tishri - Heshvan de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |__1__ |__2__ | 3    |        |      |      |      |      |__22__|__23__| 24   |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 25   | 26   | 27   | 28   | 29   |__30__| 1    |
@@ -443,9 +443,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   | 21   | 22   |__23__| 24   |        | 9    | 10   | 11   | 12   | 13   |__14__| 15   |
 | 25   | 26   | 27   | 28   | 29   |__30__| 31   |        | 16   | 17   | 18   | 19   | 20   |__21__| 22   |
 
-**Noviembre de 28 / Hesván - Kislev de 3789**
+**Novembre de l'an 28 / Heshvan - Kislev de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 23   | 24   | 25   | 26   | 27   |__28__| 29   |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |
@@ -453,9 +453,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   |__27__| 28   |        | 15   | 16   | 17   | 18   | 19   |__20__| 21   |
 | 29   | 30   |      |      |      |      |      |        | 22   | 23   |      |      |      |      |      |
 
-**Diciembre de 28 / Kislev - Tevet de 3789**
+**Décembre de l'an 28 / Kislev - Tevet de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 24   | 25   | 26   |__27__| 28   |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 29   | 1    | 2    | 3    | 4    |__5__ | 6    |
@@ -463,11 +463,11 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 14   | 15   | 16   | 17   | 18   |__19__| 20   |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 21   | 22   | 23   | 24   | 25   |      |      |
 
-## Año 29 d.C.
+## Année 29 après JC
 
-**Enero de 29 / Tevet - Shevat de 3789**
+**Janvier de l'an 29 / Tevet - Shevat de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__26__| 27   |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 28   | 29   | 1    | 2    | 3    |__4__ | 5    |
@@ -476,9 +476,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 20   | 21   | 22   | 23   | 24   |__25__| 26   |
 | 31   |      |      |      |      |      |      |        | 27   |      |      |      |      |      |      |
 
-**Febrero de 29 / Shevat - Adar de 3789**
+**Février de l'an 29 / Shevat - Adar de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 28   | 29   | 30   | 1    |__2__ | 3    |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |
@@ -486,9 +486,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 18   | 19   | 20   | 21   | 22   |__23__| 24   |
 | 28   |      |      |      |      |      |      |        | 25   |      |      |      |      |      |      |
 
-**Marzo de 29 / Adar - Adar sení de 3789**
+**Mars de l'an 29 / Adar - Adar sení de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 26   | 27   | 28   | 29   |__30__| 1    |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |
@@ -496,9 +496,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 16   | 17   | 18   | 19   | 20   |__21__| 22   |
 | 28   | 29   | 30   | 31   |      |      |      |        | 23   | 24   | 25   | 26   |      |      |      |
 
-**Abril de 29 / Adar sení - Nisán de 3789**
+**Avril de l'an 29 / Adar sení - Nissan de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 27   |__28__| 29   |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |
@@ -506,9 +506,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 |__18__|__19__|__20__|__21__|__22__|__23__| 24   |        |__15__|__16__|__17__|__18__|__19__|__20__|__21__|
 | 25   | 26   | 27   | 28   | 29   |__30__|      |        | 22   | 23   | 24   | 25   | 26   |__27__|      |
 
-**Mayo de 29 / Nisán - Iyar de 3789**
+**Mai de l'an 29 / Nissan - Iyar de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      | 1    |        |      |      |      |      |      |      | 28   |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 29   | 30   | 1    | 2    | 3    |__4__ | 5    |
@@ -517,9 +517,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__28__| 29   |        | 20   | 21   | 22   | 23   | 24   |__25__| 26   |
 | 30   | 31   |      |      |      |      |      |        | 27   | 28   |      |      |      |      |      |
 
-**Junio de 29 / Iyar - Siván de 3789**
+**Juin de l'an 29 / Iyar - Sivan de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 29   | 1    | 2    |__3__ | 4    |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 5    | 6    | 7    | 8    | 9    |__10__| 11   |
@@ -527,9 +527,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 19   | 20   | 21   | 22   | 23   |__24__| 25   |
 | 27   | 28   | 29   | 30   |      |      |      |        | 26   | 27   | 28   | 29   |      |      |      |
 
-**Julio de 29 / Siván - Tammuz - Ab de 3789**
+**Juillet de l'an 29 / Sivan - Tammouz - Av de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      | 1    |__2__ | 3    |        |      |      |      |      | 30   |__1__ | 2    |
 | 4    | 5    | 6    | 7    | 8    |__9__ | 10   |        | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |
@@ -537,9 +537,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 18   | 19   | 20   | 21   | 22   |__23__| 24   |        | 17   | 18   | 19   | 20   | 21   |__22__| 23   |
 | 25   | 26   | 27   | 28   | 29   |__30__| 31   |        | 24   | 25   | 26   | 27   | 28   |__29__| 1    |
 
-**Agosto de 29 / Ab - Elul de 3789**
+**Agosto de 29 / Av - Eloul de l'an 3789**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    | 6    | 7    |        | 2    | 3    | 4    | 5    | 6    | 7    | 8    |
 | 8    | 9    | 10   | 11   | 12   | 13   | 14   |        | 9    | 10   | 11   | 12   | 13   | 14   | 15   |
@@ -547,9 +547,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 22   | 23   | 24   | 25   | 26   | 27   | 28   |        | 23   | 24   | 25   | 26   | 27   | 28   | 29   |
 | 29   | 30   | 31   |      |      |      |      |        | 30   | 1    | 2    |      |      |      |      |
 
-**Septiembre de 29 / Elul de 3789 - Tishri de 3790**
+**Septembre  de l'an 29 / Eloul de l'an 3789 - Tishri de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 3    | 4    |__5__ | 6    |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
@@ -557,9 +557,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   | 21   | 22   | 23   |__24__| 25   |        | 21   | 22   | 23   | 24   | 25   |__26__| 27   |
 | 26   | 27   |__28__| 29   | 30   |      |      |        | 28   | 29   |__1__ | 2    | 3    |      |      |
 
-**Octubre de 29 / Tishri - Hesván de 3790**
+**Octobre de l'an 29 / Tishri - Heshvan de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__4__ | 5    |
 | 3    | 4    | 5    | 6    | 7    |__8__ | 9    |        | 6    | 7    | 8    | 9    | 10   |__11__| 12   |
@@ -568,9 +568,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 27   | 28   | 29   | 30   | 1    |__2__ | 3    |
 | 31   |      |      |      |      |      |      |        | 4    |      |      |      |      |      |      |
 
-**Noviembre de 29 / Hesván - Kislev de 3790**
+**Novembre de l'an 29 / Heshvan - Kislev de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      | 1    | 2    | 3    | 4    |__5__ | 6    |        |      | 5    | 6    | 7    | 8    |__9__ | 10   |
 | 7    | 8    | 9    | 10   | 11   |__12__| 13   |        | 11   | 12   | 13   | 14   | 15   |__16__| 17   |
@@ -578,9 +578,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 21   | 22   | 23   | 24   | 25   |__26__| 27   |        | 25   | 26   | 27   | 28   | 29   |__30__| 1    |
 | 28   | 29   | 30   |      |      |      |      |        | 2    | 3    | 4    |      |      |      |      |
 
-**Dicembre de 29 / Kislev - Tevet de 3790**
+**Dicembre de 29 / Kislev - Tevet de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      | 1    | 2    |__3__ | 4    |        |      |      |      | 5    | 6    |__7__ | 8    |
 | 5    | 6    | 7    | 8    | 9    |__10__| 11   |        | 9    | 10   | 11   | 12   | 13   |__14__| 15   |
@@ -588,11 +588,11 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 19   | 20   |__21__| 22   | 23   |__24__| 25   |        | 23   | 24   |__25__| 26   | 27   |__28__| 29   |
 | 26   | 27   | 28   | 29   | 30   |__31__|      |        | 30   | 1    | 2    | 3    | 4    |__5__ |      |
 
-## Año 30 d.C.
+## Année 30 après JC
 
-**Enero de 30 / Tevet - Shevat de 3790**
+**Janvier de l'an 30 / Tevet - Shevat de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |      | 1    |        |      |      |      |      |      |      | 6    |
 | 2    | 3    | 4    | 5    | 6    |__7__ | 8    |        | 7    | 8    | 9    | 10   | 11   |__12__| 13   |
@@ -601,9 +601,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 23   | 24   | 25   | 26   | 27   |__38__| 29   |        | 28   | 29   | 1    | 2    | 3    |__4__ | 5    |
 | 30   | 31   |      |      |      |      |      |        | 6    | 7    |      |      |      |      |      |
 
-**Febrero de 30 / Shevat - Adar de 3790**
+**Février de l'an 30 / Shevat - Adar de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 8    | 9    | 10   |__11__| 12   |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 13   | 14   | 15   | 16   | 17   |__18__| 19   |
@@ -611,9 +611,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 27   | 28   | 29   | 30   | 1    |__2__ | 3    |
 | 27   | 28   | 29   |      |      |      |      |        | 4    | 5    |      |      |      |      |      |
 
-**Marzo de 30 / Adar - Nisán de 3790**
+**Mars de l'an 30 / Adar - Nissan de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      | 1    | 2    | 3    |__4__ | 5    |        |      |      | 6    | 7    | 8    |__9__ | 10   |
 | 6    | 7    | 8    | 9    | 10   |__11__| 12   |        | 11   | 12   | 13   | 14   | 15   |__16__| 17   |
@@ -621,9 +621,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 20   | 21   | 22   | 23   | 24   |__25__| 26   |        | 25   | 26   | 27   | 28   | 29   |__1__ | 2    |
 | 27   | 28   | 29   | 30   | 31   |      |      |        | 3    | 4    | 5    | 6    | 7    |      |      |
 
-**Abril de 30 / Nisán - Iyar de 3790**
+**Avril de l'an 30 / Nissan - Iyar de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 |      |      |      |      |      |__1__ | 2    |        |      |      |      |      |      |__8__ | 9    |
 | 3    | 4    | 5    | 6    |__7__ |__8__ |__9__ |        | 10   | 11   | 12   | 13   |__14__|__15__|__16__|
@@ -631,9 +631,9 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
 | 17   | 18   | 19   | 20   | 21   |__22__| 23   |        | 24   | 25   | 26   | 27   | 28   |__29__| 30   |
 | 24   | 25   | 26   | 27   | 28   |__29__| 30   |        | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |
 
-**Mayo de 30 / Iyar - Siván de 3790**
+**Mai de l'an 30 / Iyar - Sivan de l'an 3790**
 
-| L    | M    | X    | J    | V    | S    | D    | &nbsp; | L    | M    | X    | J    | V    | S    | D    |
+| lun. | mar. | mer. | jeu. | ven. | sam. | dim. | &nbsp; | lun. | mar. | mer. | jeu. | ven. | sam. | dim. |
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ------ | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1    | 2    | 3    | 4    | 5    |__6__ | 7    |        | 8    | 9    | 10   | 11   | 12   |__13__| 14   |
 | 8    | 9    | 10   | 11   | 12   |__13__| 14   |        | 15   | 16   | 17   | 18   | 19   |__20__| 21   |
@@ -647,8 +647,8 @@ Una cronología resumida que incluye sólo el calendario gregoriano se puede enc
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>

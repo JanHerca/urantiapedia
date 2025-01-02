@@ -341,6 +341,7 @@ class Articles {
 				}
 				let currentVolume = null;
 				let currentIssue = null;
+				let currentGroup = null;
 				let currentArticle = null;
 				let issueAnchor = null;
 				let inote = 0;
@@ -428,6 +429,14 @@ class Articles {
 								this.index.issues.push(currentIssue);
 							}
 							this.items.push(currentIssue);
+						} else if (this.index.title && author === 'is-group') {
+							currentGroup = {
+								title,
+								line: i,
+								group: true
+							};
+							currentIssue.articles.push(currentGroup);
+							this.items.push(currentGroup);
 						} else if (currentIssue && title && path) {
 							const [ititle, note] = title.split('|');
 							if (note) {
@@ -547,10 +556,12 @@ class Articles {
 			const addIssue = issue => {
 				index.push({ title: issue.title, title2: "" });
 				issue.articles.forEach(article => {
-					const filePath = path.join(outputFolder, 
-						article.path.replace('/en/', 
-						`/${this.language}/`) + '.md');
-					index.push({ title: article.title, filePath, title2: "" });
+					const {title, path} = article;
+					const filePath = path
+						? path.join(outputFolder, path.replace('/en/', 
+							`/${this.language}/`) + '.md')
+						: undefined;
+					index.push({ title, filePath, title2: "" });
 				});
 			}
 			this.index.volumes.forEach(volume => {

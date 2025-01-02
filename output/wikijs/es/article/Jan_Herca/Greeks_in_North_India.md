@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Conocemos que Alejandro Magno llegó a las puertas de la India, y que estaba resuelto a conquistarla, si no fuera porque el cansancio de sus hombres y los muchos meses de expedición habían mermado sensiblemente a su ejército. Estableció nuevas ciudades en el recorrido que hizo a su paso, con lo que un atisbo de influencia helénica recorrió toda la región. Pero, varios siglos después, en la época de Jesús, ¿continuó esa influencia en el norte de la India?
 
 En el capítulo [«Los ejercicios didácticos para los jóvenes»](/es/book/Jan_Herca/Jesus_of_Nazareth_Vol_06/11_190) de _El esperado comienzo_[^1] se narra un contacto acaecido en la aldea de Cafarnaúm con unos viajeros venidos de tierras lejanas. La inspiración para este relato proviene en parte de _El Libro de Urantia_ (<a id="a14_321"></a>[LU 129:1.7](/es/The_Urantia_Book/129#p1_7)), donde se nos habla de una parada de caravanas que Jesús solía frecuentar, y en parte del libro de Jean-Noël Robert _De Roma a China_, donde el historiador investiga sobre las relaciones en la época de Jesús entre los pueblos orientales y los occidentales, dando cuenta de los descubrimientos arqueológicos más importantes al respecto.
@@ -45,6 +61,22 @@ Aunque es posible que en la época de Jesús el budismo conocido como «gran veh
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/griegos-en-el-norte-de-la-india/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

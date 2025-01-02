@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano». Fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, que estuvo en vigor desde el año 46 a.C., fue instaurado por Julio César, y fue el calendario del imperio romano en la época de Jesús.
 
 El Maestro, sin duda, tuvo que conocer este calendario y estar familiarizado con él, ya que de un modo u otro afectaba a todos los reinos sometidos bajo el dominio de Roma. Pero quizá el calendario romano de la época de Jesús nos ocupe otro documento.
@@ -117,6 +133,22 @@ Lo que sí está claro es que cualquier aproximación debe guiarse de los datos 
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

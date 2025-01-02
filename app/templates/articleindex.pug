@@ -6,6 +6,21 @@
 	'theme--light', 'teal--text']
 	var classes3 = ['decor-outline', 'decor-shadow']
 
+mixin article(article)
+	a(href=article.path class="title")= article.title
+	if article.note != null
+		sup.footnote-ref
+			a(href="#fn" + article.note, id="fnref" + article.note)= "[" + article.note + "]"
+	br
+	if article.author != ''
+		a(href=article.authorLink class="mr-2")= article.author
+	each tag in article.tags
+		if tag != ''
+			a(href="/t/" + tag + "?lang=" + language + "&sort=title", class=classes)
+				span.v-chip__content
+					i(aria-hidden="true" class=classes2 style="font-size: 16px;")
+					span(class="teal--text text--darken-2")= tag
+
 if link != ''
 	p= sourceText
 		a(href=link)= link
@@ -24,16 +39,10 @@ if volumes.length > 0
 					each article in issue.articles
 						tr
 							td
-								a(href=article.path class="title")= article.title
-								br
-								if article.author != ''
-									a(href=article.authorLink class="mr-2")= article.author
-								each tag in article.tags
-									if tag != ''
-										a(href="/t/" + tag + "?lang=" + language + "&sort=title", class=classes)
-											span.v-chip__content
-												i(aria-hidden="true" class=classes2 style="font-size: 16px;")
-												span(class="teal--text text--darken-2")= tag
+								if article.path
+									+article(article)
+								else if article.group
+									span.title= article.title
 			if issue.imagePath != ''
 				br(style="clear:both;")
 		br
@@ -49,19 +58,10 @@ else if issues.length > 0
 				each article in issue.articles
 					tr
 						td
-							a(href=article.path class="title")= article.title
-							if article.note != null
-								sup.footnote-ref
-									a(href="#fn" + article.note, id="fnref" + article.note)= "[" + article.note + "]"
-							br
-							if article.author != ''
-								a(href=article.authorLink class="mr-2")= article.author
-							each tag in article.tags
-								if tag != ''
-									a(href="/t/" + tag + "?lang=" + language + "&sort=title", class=classes)
-										span.v-chip__content
-											i(aria-hidden="true" class=classes2 style="font-size: 16px;")
-											span(class="teal--text text--darken-2")= tag
+							if article.path
+								+article(article)
+							else if article.group
+								span.title= article.title
 		if issue.imagePath != ''
 			br(style="clear:both;")
 		br

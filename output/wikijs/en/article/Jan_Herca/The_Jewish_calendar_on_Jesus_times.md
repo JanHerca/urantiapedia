@@ -3,12 +3,28 @@ title: "The Jewish calendar on Jesus times"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times
+tags: Jesus, Jesus times, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (license <a href="/en/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 At the present time, most countries are governed by the so-called “Gregorian” calendar, which was established by Pope Gregory based, after making certain corrections, on the Julian calendar, in use since the year 46 BC, established by Julius Caesar, and that was the calendar of the Roman Empire at the time of Jesus.
 
@@ -57,7 +73,7 @@ Therefore, and given the current impossibility of scientifically opting for a sp
 It should be noted here that the Jewish days began with a lag of almost 18 hours with respect to our current days, since the Jews began to count the beginning of the day at sunset. The graph shows this gap and the moment of the crucifixion is marked.
 
 <figure id="Calendar_fig_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.jpg">
+<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas_en.jpg">
 </figure>
 
 Some consulted calendars do not offer exactly this date for Nisan 14, but as has been explained, since everything is conjecture, an attempt has been made to develop a “possible” calendar that would fit this April 7 as Nisan 14.
@@ -66,26 +82,22 @@ Some consulted calendars do not offer exactly this date for Nisan 14, but as has
 
 The calendar has been prepared as follows:
 
-* The starting point has been the calendar based on the current postponement rules, which uses a traditional metonic cycle, making the years 1, 2, 4, 5, 7, 9, 10, 12, 13, 15, 16 and 18 of the cycle have twelve months. The months, in order from first to last, were called: Tishri, Heshvan, Kislev, Tevet, Shevat, Adar, Nisan, Iyar, Sivan, Tammuz, Ab, and Elul. The rest of the years of the cycle, the month of adar was lengthened by one day and another month called adar seni or second adar was added after it.
+* The starting point has been the calendar based on the current postponement rules, which uses a traditional metonic cycle, making the years 1, 2, 4, 5, 7, 9, 10, 12, 13, 15, 16 and 18 of the cycle have twelve months. The months, in order from first to last, were called: _Tishri_, _Heshvan_, Kislev, _Tevet_, _Shevat_, _Adar_, _Nisan_, _Iyar_, _Sivan_, _Tammuz_, _Ab_, and _Elul_. The rest of the years of the cycle, the month of adar was lengthened by one day and another month called _Adar Sheni_ or _second Adar_ (_Veadar_) was added after it.
 
-* The rule of making all months except Hesvan and Kislev a fixed length has also been used: Tishri was 30 days, Tevet 29, Shevat 30, Adar (“embolismal” years) 30, Adar (“common” years), or adar seni (“embolismal” years) 29, nisan 30, iyar 29, sivan 30, tammuz 29, ab 30 and elul 29. As you can see, it is easy to remember. Every odd month had 30 days and every even month had 29, except for heshvan and kislev (and not counting the adar of embolismal years). However, many experts in the subject are more inclined towards calendars where all the months were likely to have a variable number of days. It is easy to fall for the idea that already in the time of Jesus almost every month had a fixed length to make it easier for people to remember and use them, as is done today. [^4] [^5] [^6]
+* The rule of making all months except _Hesvan_ and _Kislev_ a fixed length has also been used: _Tishri_ was 30 days, _Tevet_ 29, _Shevat_ 30, _Adar_ (“embolismal” years) 30, _Adar_ (“common” years), or _Adar Sheni_ (“embolismal” years) 29, _Nisan_ 30, iyar 29, _Sivan_ 30, _Tammuz_ 29, _Ab_ 30 and _Elul_ 29. As you can see, it is easy to remember. Every odd month had 30 days and every even month had 29, except for _Heshvan_ and _Kislev_ (and not counting the _Adar_ of embolismal years). However, many experts in the subject are more inclined towards calendars where all the months were likely to have a variable number of days. It is easy to fall for the idea that already in the time of Jesus almost every month had a fixed length to make it easier for people to remember and use them, as is done today. [^4] [^5] [^6]
 
-* Similarly, the length of the days of Heshvan and Kislev followed predefined rules, which created six different types of years.
+* Similarly, the length of the days of _Heshvan_ and _Kislev_ followed predefined rules, which created six different types of years.
 
 	In common years there were three types:
 
 	- a year with 353 days: here heshvan and kislev both had 29 days.
-
 	- a year with 354 days: here heshvan had 29 days and kislev 30.
-
 	- a year with 355 days: here both had 30 days.
 
 	In embolismal years there were three types:
 
 	- a year with 383 days: here heshvan and kislev both had 29 days.
-
 	- a year with 384 days: here heshvan had 29 days and kislev 30.
-
 	- a year with 385 days: here both had 30 days.
 
 * The position of the Metonic cycle at the time of Jesus has also followed the current calendar, making AD 30 the beginning of the Jewish year 3791, which was the tenth year of the corresponding Metonic cycle.
@@ -104,9 +116,9 @@ The calendar has been prepared as follows:
 ^2^ Jesus' birthday that August.
 ^3^ Embolismal years in bold.
 
-* Finally, the astronomical data provided by NASA's _Six Millennium Moon Events_,[^7] [^8] have been used to try to adjust the best possible start of each year with the lunar conjunction of September-October. It should be remembered that the Jewish calendar year began on Tishri 1, which usually fell in the early fall. Nisan 1 was the beginning of the religious calendar.
+* Finally, the astronomical data provided by NASA's _Six Millennium Moon Events_,[^7] [^8] have been used to try to adjust the best possible start of each year with the lunar conjunction of September-October. It should be remembered that the Jewish calendar year began on Tishri 1st, which usually fell in the early fall. Nisan 1 was the beginning of the religious calendar.
 
-* Finally, the calendar has been adjusted so that April 7, AD 30 would be Nisan 14, 3790, shifting the rest of the calendar accordingly to maintain integrity in the number of days in the months. The result of this work is shown in this [Chronology of the life of Jesus](/en/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
+* Finally, the calendar has been adjusted so that April 7th, AD 30 would be Nisan 14th, 3790, shifting the rest of the calendar accordingly to maintain integrity in the number of days in the months. The result of this work is shown in this [Chronology of the life of Jesus](/en/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
 
 ## Conclusions
 
@@ -121,7 +133,23 @@ What is clear is that any approximation must be guided by astronomical data, whi
 
 ## External links
 
-* Original article: https://buscandoajesus.wordpress.com/descargas/
+* [Original article](https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles from Jan Herca — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

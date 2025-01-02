@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Podemos decir sin temor a equivocarnos que Cafarnaúm fue el auténtico hogar de Jesús. Es mencionado en multitud de ocasiones en los evangelios como escenario de interesantes pasajes de su vida. Nazaret, por supuesto, fue el lugar de su niñez y adolescencia. Pero, si nos ceñimos a los evangelios, el evangelista Mateo lo dice claro: en un determinado momento Jesús decidió abandonar Nazaret para irse a vivir a Cafarnaúm ([Mt 4:13](/es/Bible/Matthew/4#v13)). A partir de ese momento, pasó a considerarla como su propia ciudad ([Mt 9:1](/es/Bible/Matthew/9#v1)).
 
 Pero, ¿cómo fue esta población en la época de Jesús?
@@ -148,7 +164,23 @@ Las excavaciones arqueológicas y el análisis de los expertos están aclarando 
 
 - [Yacimientos arqueológicos de Cafarnaúm](http://198.62.75.1/www1/ofm/sites/TScpmain.html). (El enlace original está roto pero se puede acceder a una copia en [Internet Archive](https://web.archive.org/web/20120118210609/http://198.62.75.1/www1/ofm/sites/TScpmenu.html).)
 
-- [La via Maris, Wikipedia](http://en.wikipedia.org/wiki/Via_Maris).
+- [La via Maris, Wikipedia](https://es.wikipedia.org/wiki/V%C3%ADa_Maris).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

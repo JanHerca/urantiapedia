@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Unidades hebreas
 
 ### Unidades de longitud
@@ -212,6 +228,22 @@ libra | 328,80 g
 - [Medidas de capacidad romanas](https://es.wikipedia.org/wiki/Medidas_de_capacidad_romanas)
 
 - [Unidades de medida bíblicas y talmúdicas, Wikipedia](https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 
