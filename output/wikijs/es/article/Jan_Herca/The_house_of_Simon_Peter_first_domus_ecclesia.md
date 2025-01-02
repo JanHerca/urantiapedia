@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 En un artículo anterior ya hemos indagado sobre cómo pudo ser la Cafarnaúm de la época de Jesús, y uno de los restos más significativos de las ruinas de Cafarnaúm es una construcción que se ha venido en denominar la «casa del apóstol Pedro». Los autores de _Jesús desenterrado_, Crossan y Reed, resumen así la importancia de este hallazgo:
 
 > En 1906 fueron descubiertas las ruinas de un edificio octogonal en unos terrenos de Cafarnaúm bajo la custodia de los franciscanos. Se trataba de la iglesia bizantina en la que se había convertido «la casa del príncipe de los Apóstoles», de la que hablaban los peregrinos antiguos. Entre 1968 y 1985 los arqueólogos franciscanos Virgilio Corbo y Stalisnao Loffreda trabajaron en esa estructura octogonal y sus alrededores y sacaron a la luz sus complejísimos estratos. En el siglo V e.v. fue construida una iglesia octogonal sobre una iglesia-casa que databa del siglo IV, erigidas ambas encima de una sencilla casa con patio construida inicialmente en el siglo I a.C. En el estuco que recubría una de las habitaciones habían sido garabateados ya en el siglo II d.C. una serie de curiosos ejemplos de invocaciones cristianas en arameo, hebreo, griego, latín y siríaco. Como no había ningún tipo de utensilio doméstico y la sala había sido revestida de yeso varias veces, las primeras generaciones de cristianos debieron de considerar que la sala era importante en algún sentido. La conclusión de los arqueólogos fue que se trataba de la casa del apóstol Pedro.
@@ -85,3 +101,19 @@ Y antes de terminar dejo aquí una anécdota interesante para los lectores de _E
 - John D. Crossan y Jonathan L. Reed, _Jesús desenterrado_, Editorial Crítica, 2001.
 
 - [Yacimientos arqueológicos de Cafarnaúm.](http://198.62.75.1/www1/ofm/sites/TScpmain.html) (El enlace original está roto pero se puede acceder a una copia en [Internet Archive](https://web.archive.org/web/20120118210609/http://198.62.75.1/www1/ofm/sites/TScpmenu.html).)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

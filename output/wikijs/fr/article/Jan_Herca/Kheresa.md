@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (license <a href="/fr/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure class="table chapter-navigator">
   <table>
@@ -16,8 +16,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
@@ -28,9 +28,9 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 El nombre de Queresa resulta muy confuso. Esta población aparece en diferentes fuentes bajo nombres muy diversos: en ocasiones aparece traducido como Jeresa, Gergesa, pero desde tiempos más recientes como Kursi o Chorsia. Estos últimos recuerdan más a la transcripción en inglés de Queresa, que es _Kheresa_.
 
-Sea como fuere el origen de este emplazamiento hay que buscarlo en [Mt 8:28-34](/es/Bible/Matthew/8#v28) (<a id="a14_106"></a>[LU 151:6.1](/es/The_Urantia_Book/151#p6_1)). Aquí nos dice el evangelista: «Al llegar a la otra orilla, a la región de los gadarenos, salieron a su encuentro de entre los sepulcros dos endemoniados». Luego relata el conocido milagro de Jesús en el que expulsa a una legión de demonios y los introduce en una piara de cerdos, que se precipitan al lago.
+Sea como fuere el origen de este emplazamiento hay que buscarlo en [Mt 8:28-34](/fr/Bible/Matthew/8#v28) (<a id="a14_106"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)). Aquí nos dice el evangelista: «Al llegar a la otra orilla, a la región de los gadarenos, salieron a su encuentro de entre los sepulcros dos endemoniados». Luego relata el conocido milagro de Jesús en el que expulsa a una legión de demonios y los introduce en una piara de cerdos, que se precipitan al lago.
 
-Sin embargo, en los relatos paralelos de [Mc 1:5-20](/es/Bible/Mark/1#v5) y [Lc 8:26-39](/es/Bible/Luke/8#v26) se dice «_gerasenos_» en lugar de «_gadarenos_», abriendo la posibilidad de lugares a tres: Gadara, actual Hammat Gader, una población alejada unos pocos kilómetros al sureste del lago, sobre una elevación; Gerasa, la Jerash actual, situada en el interior de Jordania; y por último Kursi, un emplazamiento situado seis kilómetros al norte del kibbutz En Gev, en la orilla oriental del mar de Galilea.
+Sin embargo, en los relatos paralelos de [Mc 1:5-20](/fr/Bible/Mark/1#v5) y [Lc 8:26-39](/fr/Bible/Luke/8#v26) se dice «_gerasenos_» en lugar de «_gadarenos_», abriendo la posibilidad de lugares a tres: Gadara, actual Hammat Gader, una población alejada unos pocos kilómetros al sureste del lago, sobre una elevación; Gerasa, la Jerash actual, situada en el interior de Jordania; y por último Kursi, un emplazamiento situado seis kilómetros al norte del kibbutz En Gev, en la orilla oriental del mar de Galilea.
 
 El emplazamiento de Gadara y Gerasa parecen descartados si creemos el relato evangélico. Ambas poblaciones distan unos cuantos kilómetros del mar, Gerasa bastantes más. Por tanto, es imposible que la piara de cerdos se precipitara al mar por un precipicio. Sin embargo, el último emplazamiento, Kursi, cobró una redoblada validez cuando durante la construcción de una carretera en los años 70, aparecieron restos de un antiguo monasterio bizantino en la zona. Finalmente, todos los expertos han dado en aceptar que Kursi es la ubicación de la antigua población a la que se refieren los evangelios.
 
@@ -65,15 +65,15 @@ Por tanto, Queresa, con bastante seguridad, fue una población principalmente ge
 
 De todo esto tiendo a sacar la conclusión de que Queresa era una pequeña población gentil, de costumbres occidentales, con cierta mezcla judía y griega. Sin embargo, la veo no como una gran ciudad, sino más bien como una aldea de pescadores, al estilo de Cafarnaúm. La piedra con la que está construido el monasterio bizantino, de tipo basáltico oscuro, es idéntica a la utilizada en las casas de la antigua Cafarnaúm. Además, las granjas de cerdos no estarían, ni mucho menos, situadas junto a la ciudad, por causa de los olores. Más bien, de los evangelios deducimos que estaban situadas en lo alto de las colinas cercanas, lejos de los núcleos de población. Pero el hecho de que existieran estas granjas en las proximidades evidencian que había cierta permisividad gentil hacia este tipo de industria.
 
-Un aspecto algo extraño del relato evangélico es la precisión con la que se cuenta el suceso de los cerdos. Se nos dice que «toda la piara se lanzó al lago por el precipicio y los cerdos murieron ahogados» ([Mt 8:32](/es/Bible/Matthew/8#v32)). De forma similar se expresan los otros evangelistas. Sin embargo, ¿cómo fue esto posible? He estudiado la orografía de la costa oriental del mar de Galilea, y no encuentro ningún precipicio con las olas del lago rompiendo a sus pies. Las colinas del este son efectivamente bastante abruptas, pero caen y luego hay una franja de terreno llana. Además, la caída no es vertical. Hay un kilómetro desde la llanura superior hasta el borde del agua. ¿Cayeron rodando los cerdos todo un kilómetro? Lo veo totalmente improbable.
+Un aspecto algo extraño del relato evangélico es la precisión con la que se cuenta el suceso de los cerdos. Se nos dice que «toda la piara se lanzó al lago por el precipicio y los cerdos murieron ahogados» ([Mt 8:32](/fr/Bible/Matthew/8#v32)). De forma similar se expresan los otros evangelistas. Sin embargo, ¿cómo fue esto posible? He estudiado la orografía de la costa oriental del mar de Galilea, y no encuentro ningún precipicio con las olas del lago rompiendo a sus pies. Las colinas del este son efectivamente bastante abruptas, pero caen y luego hay una franja de terreno llana. Además, la caída no es vertical. Hay un kilómetro desde la llanura superior hasta el borde del agua. ¿Cayeron rodando los cerdos todo un kilómetro? Lo veo totalmente improbable.
 
 ¿Tuvo antiguamente el mar de Galilea precipicios junto al agua? Según las evidencias geológicas facilitadas por arqueólogos como Mendel Nun, el nivel de las aguas en tiempos de Jesús estuvo unos metros por debajo del nivel actual, como así evidencian los restos de embarcaderos de aquella época. Según este investigador, además, no ha habido erosiones importantes de las colinas circundantes que justifiquen una eliminación de antiguos precipicios. No obstante, otros autores, como los arqueólogos que trabajan con Rami Arav en la excavación de et-Tell, aseguran que los cambios en la línea de la costa del mar de Galilea han sido muy notables y heterogéneos en distintas partes del litoral.
 
 _El Libro de Urantia_ incide todavía más en la idea de que hubo un precipicio que caía sobre las aguas:
 
-> Aunque la mayor parte de la cercana ribera oriental del lago subía en pendiente suave hasta las tierras altas que estaban detrás, en este lugar concreto había una ladera empinada donde, en algunos puntos, la costa descendía de golpe hasta el lago. <a id="a57_250"></a>[LU 151:6.1](/es/The_Urantia_Book/151#p6_1)
+> Aunque la mayor parte de la cercana ribera oriental del lago subía en pendiente suave hasta las tierras altas que estaban detrás, en este lugar concreto había una ladera empinada donde, en algunos puntos, la costa descendía de golpe hasta el lago. <a id="a57_250"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)
 
-> Mientras los porqueros se precipitaban hacia el pueblo para divulgar la noticia de que el lunático había sido domado, los perros cargaron contra una pequeña piara de unos treinta cerdos que habían quedado abandonados, y empujaron a la mayoría por encima de un precipicio hasta el mar. <a id="a59_287"></a>[LU 151:6.6](/es/The_Urantia_Book/151#p6_6)
+> Mientras los porqueros se precipitaban hacia el pueblo para divulgar la noticia de que el lunático había sido domado, los perros cargaron contra una pequeña piara de unos treinta cerdos que habían quedado abandonados, y empujaron a la mayoría por encima de un precipicio hasta el mar. <a id="a59_287"></a>[LU 151:6.6](/fr/The_Urantia_Book/151#p6_6)
 
 Todo parece indicar que sin duda alguna las olas del lago rompían en algún punto de la costa contra un cortado de desnivel casi vertical. Aunque resulta sorprendente si contemplamos la orografía actual. Además, de ser así, el borde oriental tan sólo podría ser flanqueado subiendo por un zigzagueante camino hasta la cumbre, para luego descender en el otro lado del precipicio. Si de verdad existió este barranco, debió de cortar cualquier posible calzada que uniera la costa oriental.
 
@@ -95,8 +95,8 @@ Un tema sin respuesta que dejo abierto para futuras investigaciones, cuando lleg
       <tr>
         <td></td>
         <td>
-        <a href="/es/index/articles_jan_herca">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        <a href="/fr/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Articles de Jan Herca — Index</span>
         </a>
         </td>
         <td></td>
