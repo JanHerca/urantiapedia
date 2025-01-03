@@ -3,7 +3,7 @@ title: "Tarichea"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, Judaism, religion, article
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---
@@ -95,7 +95,7 @@ The location of this excavation is perfect for explaining some of Josephus' pass
 
 ## The Urantia Book
 
-_The Urantia Book_ is absolute about the location of Tarichea. While other sites are not very clear, here they offer no doubt, as if the authors assumed that it was beyond dispute. In document <a id="a81_247"></a>[LU 139:8.2](/en/The_Urantia_Book/139#p8_2) it says: “[Thomas] had formerly been a carpenter and stone mason, but latterly he had become a fisherman and resided at Tarichea, situated on the west bank of the Jordan where it flows out of the Sea of Galilee, and he was regarded as the leading citizen of this little village.”
+_The Urantia Book_ is absolute about the location of Tarichea. While other sites are not very clear, here they offer no doubt, as if the authors assumed that it was beyond dispute. In document <a id="a81_247"></a>[UB 139:8.2](/en/The_Urantia_Book/139#p8_2) it says: “[Thomas] had formerly been a carpenter and stone mason, but latterly he had become a fisherman and resided at Tarichea, situated on the west bank of the Jordan where it flows out of the Sea of Galilee, and he was regarded as the leading citizen of this little village.”
 
 He is certainly describing the enclave of Bet Yerah, but it is striking that he refers to Tarichea as a “small village.” Would a small village have a wall and a hippodrome?
 

@@ -3,7 +3,7 @@ title: "Queresa"
 description: 
 published: true
 date: 2023-09-28T14:02:03.086Z
-tags: Jesus, Jesus times, Judaism, religion, article
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2023-09-28T14:02:03.086Z
 ---

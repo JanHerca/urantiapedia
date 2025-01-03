@@ -83,7 +83,7 @@ Conviene recordar que los artículos de todas estas publicaciones tienen las cit
 	</div>
 </div>
 
-## The Urantia Book Fellowship
+## La Fellowship de El Libro de Urantia
 
 <!-- Urantia Book Fellowship -->
 <div class="layout row wrap">
@@ -375,7 +375,7 @@ Conviene recordar que los artículos de todas estas publicaciones tienen las cit
 	</div>
 </div>
 
-## ANZURA — Asociación Urantia de Australia y New Zealand
+## ANZURA — Asociación Urantia de Australia y Nueva Zelanda
 
 <!-- ANZURA — Australia & New Zealand Urantia Association -->
 <div class="layout row wrap">

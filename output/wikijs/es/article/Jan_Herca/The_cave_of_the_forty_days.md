@@ -10,9 +10,25 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 A veces hay referencias en _El Libro de Urantia_ que llaman la atención por su exactitud y concreción. Parecen colocadas ahí para que alguien se moleste en verificarlas, o quizá con alguna oculta intención que yo no alcanzo todavía a comprender. Pero cuando comencé a escribir el capítulo sobre el período de aislamiento de Jesús después de su bautismo, los famosos «cuarenta días», no pude escapar a la tentación de investigar sobre el paradero de Jesús durante ese período.
 
-> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a14_269"></a>[[LU 136:4.12](/es/The_Urantia_Book/136#p4_12)]
+> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a14_269"></a>[[LU 136:4.14](/es/The_Urantia_Book/136#p4_14)]
 
 Este pasaje de _El Libro de Urantia_ resultaba tan llamativo que parecía estar pidiendo a gritos que lo investigara.
 
@@ -62,3 +78,19 @@ Pero al margen de todas las demás consideraciones, yo extraigo una duda de todo
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-cueva-de-los-cuarenta-dias/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

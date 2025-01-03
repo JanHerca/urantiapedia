@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Betsaida es una de las poblaciones más mencionadas en los evangelios. Sin embargo, todavía hoy los expertos discuten sobre su correcto emplazamiento. Se barajan hipótesis sorprendentes, como que en realidad no hubo una única población llamada Betsaida, sino dos. En este artículo voy a resumir todas las evidencias y argumentos que se han encontrado en torno a las posibles localizaciones, las compararé con las menciones a Betsaida en _El Libro de Urantia_, y extraeré una conclusión que utilizaré para la redacción de _Jesús de Nazaret_[^1]. El resultado final, como podrá ver el lector, ha sido inesperado e interesante.
 
 Estudiaré tres tipos de evidencias: los textos antiguos que nos han llegado con menciones a Betsaida, los estudios geológicos del mar de Galilea, y los hallazgos arqueológicos encontrados hasta el momento. Después examinaré las conclusiones a las que han llegado diferentes expertos a lo largo de los doscientos últimos años de investigación.
@@ -239,6 +255,22 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 - [el-Araj Excatation Project](https://www.elarajexcavations.com/)
 
 - [Where is Biblical Bethsaida](https://bryanwindle.files.wordpress.com/2020/03/where-is-biblical-bethsaida_winter-2020-article-extracted-1_compressed.pdf), extraído del [Bible Archaeology Report](https://biblearchaeologyreport.com)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -1130,7 +1130,7 @@ class TopicIndex {
 			// }
 			//If topic is a redirect
 			if (isRedirect) {
-				html += `<blockquote class="is-info"><em>${redirectText}</em></blockquote>\r\n`;
+				html += `<blockquote class="is-info"><p><em>${redirectText}</em></p></blockquote>\r\n`;
 			}
 			//If topic is not revised
 			if (!topic.revised) {
