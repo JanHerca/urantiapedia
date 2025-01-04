@@ -466,8 +466,8 @@ Il convient de rappeler que les articles de toutes ces publications contiennent 
 				<div><small>Sources: <a href="https://buscandoajesus.wordpress.com/descargas/">Site web de <em>Jan Herca</em></a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Bientôt</strong></div></span>
+				<a href="/fr/index/articles_jan_herca" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
 				</a>
 			</div>
 		</div>

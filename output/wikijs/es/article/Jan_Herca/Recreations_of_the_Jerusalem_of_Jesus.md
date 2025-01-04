@@ -220,6 +220,112 @@ En la figura anterior se muestra en detalle de la piscina de Siloé, donde un ci
 <figcaption>Fig. 27 — <em>El hipódromo visto desde el sur.</em></figcaption>
 </figure>
 
+La fig. 27 muestra un primer plano del hipódromo. Se desconoce su emplazamiento y es costrumbre colocarlo al sur del templo, pero es raro pensar que un lugar de tan poco interés para los judíos estuviera tan cerca del templo. De hecho, las excavaciones arqueológicas no han encontrado resto alguno de un hipódromo en esta zona y sí los restos de una calle columnada por donde la maqueta hace discurrir un canal, que ya hemos dicho que debía de estar bajo tierra.
+
+<figure id="Figure_28" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/27-sur-templo.jpg">
+<figcaption>Fig. 28 — <em>El monte del templo visto desde el suroeste.</em></figcaption>
+</figure>
+
+La fig. 28 permite apreciar el coloso del templo, en lo más alto del monte, observándolo desde el sur. Se puede ver la escalinata que, ascendiendo sobre un inmenso arco (llamado hoy el «arco de Wilson»), permitía acceder al pórtico real. Detrás de esta escalinata, en el centro de la foto, se aprecia el edificio llamado de "«las piedras labradas»", y que debió de servir como lugar de reunión del Sanedrín. En la gran fachada sur del templo se aprecian dos puertas de acceso (la llamada «Puerta Doble») que parecen diminutas pero eran dos accesos monumentales profusamente decorados. Las puertas no están a la altura de la explanada del templo y lo que había tras ellas era una gran escalinata que permitía ascender al templo, lo mismo que por el arco.
+
+<figure id="Figure_29" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/28-sur-templo.jpg">
+<figcaption>Fig. 29 — <em>Muralla occidental del templo vista desde el sur.</em></figcaption>
+</figure>
+
+En la fig. 29 tenemos un primer plano de la escalinata y el arco («arco de Wilson») que permitían acceder al portico Regio a través de la puerta de la Basílica. Detrás, el edificio de las "piedras labradas", a los pies del viaducto que desembocaba en la puerta que yo llamo «Real» pues se dirigía al palacio de Herodes (y permitía al rey y la gente pudiente del la «Ciudad Alta» acceder al templo sin mezclarse con la plebe, que accedía normalmente por las otras puertas, más concurridas). Se aprecia la inmensidad de los muros del templo, de 50 metros de altura, un edificio actual de unos 15 pisos.
+
+<figure id="Figure_30" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/29-puertas-hulda.jpg">
+<figcaption>Fig. 30 — <em>Entradas meridionales al templo.</em></figcaption>
+</figure>
+
+La fig. 30 muestra el muro sur del templo, con las puertas de Hulda, la doble y la triple. Se discute el número de vanos de estas puertas. Aquí la maqueta ha puesto dos vanos a ambas puertas. Otros quieren ver tres vanos en la puerta triple. También se aprecia, en las escalinatas de acceso, el edificio con los baños públicos o _miqwaoth_, y delante el monumento a la profetisa Hulda. En la fig. 31 se tiene otra vista de la muralla sur del templo en la que se aprecian mejor todos estos elementos, así como se puede admirar la magnificencia del portico Regio.
+
+<figure id="Figure_31" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/30-puertas-hulda.jpg">
+<figcaption>Fig. 31 — <em>Fachada meridional del templo.</em></figcaption>
+</figure>
+
+<figure id="Figure_32" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/31-atrio-regio.jpg">
+<figcaption>Fig. 32 — <em>La Basílica Real en el sur de la explanada del templo.</em></figcaption>
+</figure>
+
+La fig. 32 ofrece una buena panorámica del pórtico Regio, o Basílica Real, con la Stoa Real encima. En la explanada llamada «Patio de los Gentiles» se divisan dos escaleras, los accesos subterráneros provenientes de las puertas de Hulda.
+
+En esta basílica ofrecían sus servicios los famosos cambistas del templo, y también tenían lugar juicios. Algunas de las columnas del pórtico han sobrevivido hasta nuestros días.
+
+<figure id="Figure_33" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/32-stoa-real.jpg">
+<figcaption>Fig. 33 — <em>La Basílica Real.</em></figcaption>
+</figure>
+
+La fig. 33 muestra la Stoa Real, encima de la Basílica o pórtico Regio, vista desde el oeste. El sanedrín se trasladó aquí, desde la «cámara de las piedras talladas», poco después de la muerte de Jesús. Conviene señalar que en la época de Jesús algunas partes del templo, como esta Stoa, estaban aún en construcción.
+
+<figure id="Figure_34" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/33-santuario.jpg">
+<figcaption>Fig. 34 — <em>El santuario del templo, con el «Atrio de las Mujeres» en primer plano, visto desde el este.</em></figcaption>
+</figure>
+
+La fig. 34 muestra el recinto del santuario del templo, rodeado primero de un vallado o _soreg_ (con mensajes de advertencia para que no lo cruzaran los no judíos), y luego de un muro con torres y cámaras adyacentes destinadas a los oficios sacerdotales. Las escalinatas semicirculares conducen a la puerta llamada de Nicanor, hecha de bronce brillante. Algunos creen que esta puerta es la misma que [Hch 3:2](/es/Bible/Acts_of_the_Apostles/3#v2) llama «puerta Hermosa».
+
+El patio en primer término es el patio o atrio de la mujeres, donde se permitía el acceso a las mujeres. El segundo patio, donde se alzaba el Santuario, era el patio de los sacerdotes, donde sólo se permitía el acceso a hombres. Al Santuario, el inmenso edificio de ¡60 metros de altura! que se destacaba en medio de toda la ciudad, sólo podían acceder sacerdotes y sólo para ciertos rituales. El inmeso portón de acceso estaba tapado por un gran velo (que no está en la maqueta) que colgaba en el exterior. Velos similares se disponían en el interior separando lo que se denominaba el _sanctasanctorum_, lugar sólo reservado una vez al año para el sumo sacerdote, y donde se creía que tenía su presencia Dios mismo.
+
+La fig. 35 muestra el mismo recinto desde otro ángulo, con la única puerta oriental de acceso al recinto, y la fig. 36 ofrece una panorámica mayor del conjunto, en la que se aprecia mejor el murete para los gentiles, las escaleras de acceso (en ellas era donde Jesús se ponía muchas veces a predicar, pues desde allí le oían bien tanto judíos como gentiles), y por último las puertas del acceso al santuario.
+
+<figure id="Figure_35" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/34-santuario.jpg">
+<figcaption>Fig. 35 — <em>Puerta oriental de acceso al santuario.</em></figcaption>
+</figure>
+
+<figure id="Figure_36" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/35-santuario.jpg">
+<figcaption>Fig. 36 — <em>La explanada del templo vista desde el noreste.</em></figcaption>
+</figure>
+
+<figure id="Figure_37" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/36-puerta-nicanor.jpg">
+<figcaption>Fig. 37 — <em>La «Puerta de Nicanor», que daba acceso al «Atrio de los sacerdotes».</em></figcaption>
+</figure>
+
+<figure id="Figure_38" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/37-atrio-gentiles.jpg">
+<figcaption>Fig. 38 — <em>El Atrio de los Gentiles y la fortaleza Antonia, vista desde el sudeste.</em></figcaption>
+</figure>
+
+En la fig. 38 se puede observar el atrio y el pórtico de los Gentiles, junto a la fortaleza Antonia. En este espacio y en el pórtico de los Gentiles es donde seguramente se disponían los mercaderes de productos para los sacrificios (animales y frutos) con sus tenderetes, que eran introducidos por la puerta septentrional del templo, llamada precisamente «puerta de las Ovejas». Es aquí donde tuvo lugar la famosa expulsión de estos vendedores por Jesús y sus discípulos ([LU 173:1.1-11](/es/The_Urantia_Book/173#p1_1)).
+
+<figure id="Figure_39" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/38-fortaleza-antonia.jpg">
+<figcaption>Fig. 39 — <em>La fortaleza Antonia desde el noreste.</em></figcaption>
+</figure>
+
+La fig. 39 muestra la fortaleza Antonia vista desde el este. La maqueta tiene dos errores en mi opinión. Uno es ese acceso mediante unas larguísimas y empinadas escaleras, que encuentro muy poco prácticas para los soldados y la caballería. Otro que la muralla no rodease el castillo, haciéndolo más vulnerable, y además sin rastro del foso que sin duda rodeaba todo el castillo.
+
+<figure id="Figure_40" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/39-fortaleza-antonia.jpg">
+<figcaption>Fig. 40 — <em>La fortaleza Antonia desde el oeste.</em></figcaption>
+</figure>
+
+La misma vista de la fortaleza Antonia, pero ahora desde el oeste, se aprecia en la fig. 40. Me resultan muy apropiadas las formidables dimensiones que muestra esta maqueta, sin duda acordes con la descripción que hace Josefo del edificio, que habla de una ciudad en sí misma. Se puede apreciar en su interior uno o varios patios rodeados de muros almenados y fuertes torreones en las esquinas. Falta, sin embargo, el que opino que fue el acceso principal, hacia el norte, y al que se debía de acceder por un puente levadizo sobre el foso.
+
+<figure id="Figure_41" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/40-fortaleza-antonia.jpg">
+<figcaption>Fig. 41 — <em>El montículo del templo desde el norte.</em></figcaption>
+</figure>
+
+En la fig. 41 se ofrece una buena vista de todo el monte del templo visto desde el norte. La muralla que aparece en primer plano es la segunda muralla norte. La puerta que se aprecia en la muralla es muy seguramente la que _El Libro de Urantia_ ([LU 187:1.4](/es/The_Urantia_Book/187#p1_4)) llama la «puerta de Damasco» (y no la puerta actual llamada «de Damasco», que se sitúa en una tercera muralla que es de época posterior a Jesús), por la que Jesús fue conducido al Gólgota.
+
+<figure id="Figure_42" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/41-piscina-betesda.jpg">
+<figcaption>Fig. 42 — <em>Las piscinas de Betesda.</em></figcaption>
+</figure>
+
+la fig. 42 es la última de esta colección de imágenes sobre la maqueta del hotel Holy Land de Jerusalén. En ella se aprecia con detalle la «piscina de Betesda», dos estanques rodeados de columnas, situados cerca de la fortaleza Antonia. Este es el lugar de una curación de Jesús ([LU 147:3.1](/es/The_Urantia_Book/147#p3_1)).
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
