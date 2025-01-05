@@ -1024,7 +1024,7 @@ names
 	* Yahweh | Yahweh
 	* Zeus | Zeus
 
-gold; Gold | | | | OK
+gold; Gold; gold-bearing | | | | OK
 Gold was the first metal to be sought by man; it was easy to work and, at first, was used only as an ornament. (81:3.4-5)
 They traveled far and wide in search of flint, much as present-day humans journey to the ends of the earth in quest of gold, platinum, and diamonds. (63:5.6)
 gold was the product of lava flows in Sierras (60:3.3)
@@ -1035,7 +1035,7 @@ The modern phrase, “back to nature,” is a delusion of ignorance, a belief in
 The tradition of Adam and the Garden of Eden also lent substance to the dream of a onetime “golden age” of the dawn of the races. (89:2.3)
 the truth is that the early experiences of the human race were characterized by terrible antisocial conditions (81:5.4)
 times of Onagar were, indeed, the golden age for primitive man (63:6.9)
-ages of light and life that will come to Urantia in a distant future will be truly golden ages | light and life
+ages of light and life that will come to Urantia in a distant future will be truly golden ages (50:5.10) | light and life
 
 golden calves; golden calf | | | RELIGION | OK
 Moses always was he plagued by the awkward predicament of trying to present his new and higher idea of Deity to these ignorant slaves under the guise of the ancient term Yahweh, which had always been symbolized by the golden calf of the Bedouin tribes. (96:4.3)
@@ -1076,16 +1076,16 @@ The destruction of Sodom and Gomorrah was due to natural causes despite the inve
 
 Gonod | | | PERSON | OK
 Indian businessman with whom Jesus journeyed to Rome (130) (132) (133) (129:2.9)
-3 trips to China (130:0.6)
+He made 3 trips to China apart from the trip he made with his son and Jesus (130:0.6)
 
 good | | goodness | | OK
 
 good news | | gospel | | OK
 
-good Samaritan | | | | OK
+good Samaritan; a story | | | | OK
 the parable of the good samaritan of Jesus was to clarify who is the neighbor (164:1)
 
-good shepherd; Good Shepherd | | | | OK
+good shepherd; Good Shepherd; true shepherd; true shepherds | | | | OK
 Jesus was the good shepherd (182:1.16)
 Jesus preached the sermon on the “Good Shepherd” before a group of more than three hundred Jerusalemites, Pharisees and others, his bitter enemies, and before the apostles (165:1.2) (165:2)
 
@@ -1140,13 +1140,15 @@ nature of goodness
 	Goodness, righteousness, and justice are philosophically interrelated and spiritually bound up together with living truth and divine beauty. (44:7.2-4)
 	Goodness always compels respect, but when it is devoid of grace, it often repels affection. (171:7.2)
 
-gophers | (61:2.7) | | | 
+gophers | | | | OK
+35 million years ago, gophers, along with other gnawing rodents like beavers, squirrels, mice, and rabbits, appeared and quickly became a notable form of life. (61:2.7)
+> https://en.wikipedia.org/wiki/Gopher
 
 Gophna | | | PLACE | OK
 Jesus preached to the people of this place at the end of June 27 (143:0.1)
 > https://en.wikipedia.org/wiki/Jifna
 
-gorillas | (61:3.12) (62:5.2) | simians | | OK
+gorillas; gorilla | (61:3.12) (62:5.2) | simians | | OK
 gorillas descend from inferior mid-mammals, but it is not the same ancestor as man because man descends from superior mid-mammals (62:3.12)
 
 gospel | | faith sons of God; Jesus:teachings; kingdom of heaven; religion; truth | RELIGION | OK
@@ -1275,10 +1277,10 @@ Gospel of Mark | | John Mark:Gospel of Mark | | OK
 
 Gospel of Matthew | | Matthew Levi:Gospel of Matthew | | OK
 
-gossip | | | | OK
+gossip; hearsay | | | | OK
 Jesus recommended: “Speak only that which you have heard from me; speak not hearsay. ” (138:8.4)
 
-government | | civilization; continental nation; courts; institutions; legislatures; nations; patriotism; police; regulation (governmental); sovereignty; taxation | | OK
+government; governments | | civilization; continental nation; courts; institutions; legislatures; nations; patriotism; police; regulation (governmental); sovereignty; taxation | | OK
 believers’ relation to government
 	it behooves us to afford no stumbling block for the authorities (157:1.2,4)
 	In everything related with peace plans, we must submit to the government. In these matters we must do what they bid us and observe the essentials of the law (140:8.9) (175:1.8) (177:3.7)
@@ -1472,13 +1474,15 @@ grain | | | | OK
 the apostles gathered and rubbed grain in their hands on a Sabbath day, which provoked the indignation of a group of spies of the Sanhedrin (147:6.4)
 It was the custom of many Near Eastern peoples to throw grain upon the newlyweds; this was a magical rite which was supposed to insure fecundity. (83:4.5)
 
-Grand Canyon | (58:7.5) | | PLACE | 
+Grand Canyon | | | PLACE | OK
+In the dawn era of life, the rocks around Lake Superior and in the Grand Canyon of the Colorado River, with their primitive fossil-bearing layers, testify to the upheavals and surface fluctuations of those faraway times. (58:7.5)
+> https://en.wikipedia.org/wiki/Grand_Canyon
 
 Grand Lama | | | | OK
 Grand Lama is the Tibetan religious leader (94:10.2)
 > https://en.wikipedia.org/wiki/Dalai_Lama
 
-grand universe | | master universe; superuniverses; universe | PLACE | OK
+grand universe; Grand Universe | | master universe; superuniverses; universe | PLACE | OK
 The seven evolving superuniverses in association with the central and divine universe of Havona are commonly refered as the grand universe; these are the now organized and inhabited creations. They are all a part of the master universe, which also embraces the uninhabited but mobilizing universes of outer space. The grand universe has an evolutionary potential of around seven trillion inhabited planets, not including the billion eternal spheres of the central creation and the architectural administrative spheres. (0:0.6) (12:1.13) (15:2.9)
 Ancients of Days and Seven Master Spirits are eternally fixed as administrators of the grand universe (0:8.11)
 The seven Supreme Spirit groups are the universal co-ordinating directors of the seven-segmented administration of the grand universe. (17:0.1)
@@ -1491,7 +1495,7 @@ The grand universe is not only a material creation of physical grandeur, spirit 
 The grand universe number of our world, Urantia, is 5,342,482,337,666. That is the registry number on Uversa and on Paradise, our number in the catalogue of the inhabited worlds. (15:14.8)
 the current grand universe uses only 5% of Paradise gravity capability (12:3.8)
 
-grandchildren | | | | OK
+grandchildren; children’s children | | | | OK
 Savage man loves his child, but civilized man loves also his grandchild. (66:7.4) (84:7.10)
 
 Grandfanda | | | PERSON | OK
@@ -1521,7 +1525,7 @@ The deposits of the early Carboniferous age are from 500 to 2,000 feet thick, co
 graves | | tombs | | OK
 The very first land titles granted by tribes to individuals were graves—family burying grounds. (69:9.14)
 
-gravita | | energy; Universe Power Directors | | OK
+gravita; Universe power; universe power; Universe Power | | energy; Universe Power Directors | | OK
 gravita is also known as universe power (0:6.7)
 they are the material organizations in superuniverses and are dual in constitution (11:8.7) (42:5.6)
 Universe power includes all forms of energy which, while still responding to Paradise gravity, are directly responsive to linear gravity. This is the electronic level of energy-matter and all subsequent evolutions thereof. (0:6.7)
@@ -1530,7 +1534,7 @@ constitutes the Postgravity stages of Paradise gravity response (11:8.7)
 power centers and physical controllers partially control it (15:8.2) (29:2.13-15)
 it is working energy useful to superuniverses. First the space-force is changed into space-energy and then into gravity controlled energy, energy that can be channeled and controlled by the Universal Power Directors. (42:2.14-15)
 
-gravity; Gravity | | antigravity | | OK
+gravity; Gravity; gravitation | | antigravity | | OK
 characteristics
 	All forms of force-energy—material, mindal, or spiritual—are alike subject to those grasps, those universal presences, called gravity. Personality also is responsive to gravity—to the Father’s exclusive circuit; but though this circuit is exclusive to the Father, he is not excluded from the other circuits; the Universal Father is infinite and acts over all four absolute-gravity circuits in the master universe: (12:3.1) (15:9.1-2)
 	# The Personality Gravity of the Universal Father. (12:3.2)
@@ -1637,7 +1641,7 @@ types of gravity
 	personality gravity | personality circuit
 		Personality Gravity is noncomputable. The circuit can be recognized, but cannot be measured either qualitative or quantitative realities responsive thereto. (12:3.12)
 
-gravity energy | | energy; ultimata | | OK
+gravity energy; Gravity energy; gravity energies | | energy; ultimata | | OK
 gravity energy is the second phase of transmutation of segregata or primordial force into universe power (42:2.12)
 This secondary or gravity energy is the product of the energy elaboration resulting from the pressure-presence and the tension-trends set up by the Associate Transcendental Master Force Organizers. (42:2.12)
 it is Paradise gravity-responding energy that carries the potential of universe power and becomes the active ancestor of all universe matter. It is one of the two forms of ultimata. (42:2.12-13)
@@ -1661,7 +1665,8 @@ From Oban he sent out teachers to the remote settlements to spread his new doctr
 
 Great Britain | | British Isles | PLACE | OK
 
-great commandment | (174:4) | commandments | | 
+great commandment | | commandments | | OK
+Jesus stated that the greatest commandment is to love God with all your heart, soul, mind, and strength, and the second is to love your neighbor as yourself, with all the law and prophets depending on these two commandments. (174:4)
 
 Great Lakes | | | PLACE | OK
 During the retreat of a glacier the North American system of Great Lakes was produced. Our geologists have very accurately deduced the various stages of this development and have correctly surmised that these bodies of water did, at different times, empty first into the Mississippi valley, then eastward into the Hudson valley, and finally by a northern route into the St. Lawrence. It is thirty-seven thousand years since the connected Great Lakes system began to empty out over the present Niagara route. (61:7.10)
@@ -1689,11 +1694,11 @@ the parable of the great supper of Jesus is about who will be worthy to eat the 
 greater | | | | OK
 Seek the greater thing, and the lesser will be found therein; ask for the heavenly, and the earthly shall be included. (165:5.3)
 
-Greater Road | | Buddhism | | OK
+Greater Road; Great Road | | Buddhism | | OK
 Gradually the concept of God, as contrasted with the Absolute, began to appear in Buddhism. Its sources are back in the early days of this differentiation of the followers of the Lesser Road and the Greater Road. It was among the latter division of Buddhism that the dual conception of God and the Absolute finally matured. (94:12.2)
 before the collapse in India, the Chinese and north Indian groups of Gautama’s followers had begun the development of the Mahayana teaching of the “Great Road” to salvation in contrast with the purists of the south who held to the Hinayana, or “Lesser Road.” (94:9.4-5)
 
-greatness | | | | OK
+greatness; Greatness | | | | OK
 The more steadfastly we behold, and the more persistently we pursue, the concepts of divine goodness, the more certainly will we grow in greatness, in true magnitude of genuine survival character. (28:6.21-22) (56:10.12) (100:7.17)
 nobility itself is always an unconscious growth. (100:1.7)
 The highest moral choice is the choice of the highest possible value, and always—in any sphere, in all of them—this is to choose to do the will of God. If man thus chooses, he is great, though he be the humblest citizen (39:4.14)
@@ -1707,7 +1712,7 @@ worldly greatness
 	the apostles are led frequently to give way to their old predilection for honor, preference, and personal exaltation. (138:7.1) (158:4.4) (158:6.2-3) (158:8.1) (171:0.6) (179:1) (179:3.9)
 	Jesus warned that when the kingdom grew to embrace large groups of believers, the disciples should refrain from contending for greatness or seeking preference between such groups. (179:1) (179:5.7)
 
-Greece | (98:1) | Athens; Corinth; Greeks | PLACE | OK
+Greece; Grecian | (98:1) | Athens; Corinth; Greeks | PLACE | OK
 Greek history
 	some Andites entered Europe by way of the islands of the Aegean and up the Danube valley, but the majority of the earlier and purer strains migrated to northwestern Europe by the northern route across the grazing lands of the Volga and the Don. (80:4.1)
 	No wonder the Greeks had mythological traditions that they were directly descended from gods and superhuman beings. Thery were descendants of Adamson, superior son of Adam and Eve, and Ratta, Nodite descendant of Caligastia's staff (80:7.5)
@@ -1795,7 +1800,7 @@ intellectual progress and stagnation
 	Since the Greeks were not much interested in the philosophy of self-realization and an abstract Deity, they turned to mystery cults, such as the Eleusinian mysteries, the Dionysian nature worship, and the Orphic brotherhood (98:2.10)
 	No nation ever attained such heights of artistic philosophy in so short a time; none ever created such an advanced system of ethics practically without Deity and entirely devoid of the promise of human salvation; no nation ever plunged so quickly, deeply, and violently into such depths of intellectual stagnation, moral depravity, and spiritual poverty as these same Greek peoples when they flung themselves into the mad whirl of the mystery cults. (98:2.11)
 
-green race | (64:6.17-20) | races | RACE | OK
+green race; green; green man; green men | (64:6.17-20) | races | RACE | OK
 The green race was one of the less able groups of primitive men, and they were greatly weakened by extensive migrations in different directions. (64:6.17)
 mortal stature tends to decrease from the red man down to the indigo race, although on Urantia unexpected strains of giantism appeared among the green and orange peoples. Many of their leaders being eight and nine feet in height. (51:4.2) (64:6.19)
 green race wiped out and absorbed remnants of orange race 100,000 years ago (64:6.11,13,18) (64:7.14,16)
@@ -1826,12 +1831,13 @@ geology
 	Greenland was covered, and Iceland was completely buried beneath the ice flow. (61:5.4)
 	1,500,000 years ago the first great glacier was retreating northward. In the meantime, enormous quantities of snow had been falling on Greenland and on the northeastern part of North America (61:5.6)
 
-greensand marl | (60:3.9) | | | 
+greensand marl | | | | OK
+85 million years ago, the deposits of chalk and green sandstone marl, which give this period its name, varied in thickness from 60 meters to 3,000 meters and can be observed in the eastern foothills of the Rocky Mountains. (60:3.9)
 
 Gregorian calendar; leap-year calendar; twentieth-century calendar | | | | OK
 The Gregorian calendar is the one used in the Urantia Papers. Although the exact years are known to the developers, they have not been used to conform to this calendar. (57:0.1) (126:3.1)
 
-groups | | co-operation; family; fellowship of believers; friendship; individual; parts and the whole | | OK
+groups; group-play; group | | co-operation; family; fellowship of believers; friendship; individual; parts and the whole | | OK
 Three persons are a minimum social group, but this is least of all the many reasons for believing in the inevitability of the Conjoint Actor. (10:2.3) (39:3.6)
 celestial involvement
 	The Creator Son rules supreme in all matters of ethical associations, the relations of any division of creatures to any other class of creatures or of two or more individuals within any given group (32:4.3-4)
@@ -1904,7 +1910,7 @@ cosmic insights
 
 grudges | | revenge | | OK
 
-guardian angels; guarding seraphim | (113:0-1) | guardians of destiny; resurrection; seraphim | ORDER | OK
+guardian angels; guarding seraphim; guardian seraphim | (113:0-1) | guardians of destiny; resurrection; seraphim | ORDER | OK
 The teaching about guardian angels is not a myth; certain groups of human beings do actually have personal angels. (113:1.1)
 after subjects’ death
 	The guardian seraphim attend youths in the probationary nursery on the finaliter world just as they spiritually minister to mortals on the evolutionary planets, while the faithful spornagia minister to their physical necessities. (47:2.6)
@@ -1940,7 +1946,7 @@ technique of service
 	While there is apparently no communication between the indwelling Adjusters and the encompassing seraphim, they always seem to work in perfect harmony and exquisite accord. (113:4.5) (113:5.1)
 	They are able, with the assistance of the midway creatures and the physical controllers, to function in a wide range of activities in behalf of us, even to make actual contact with us, but such occurrences are very unusual. (113:5.5)
 
-guardians of destiny; personal guardian | (113) (39:8.5-8) | guardian angels; resurrection; seraphim | ORDER | OK
+guardians of destiny; personal guardian; destiny guardians; Guardians of destiny; Destiny guardians | (113) (39:8.5-8) | guardian angels; resurrection; seraphim | ORDER | OK
 after subjects’ death
 	guardians of destiny are the custodians of mind patterns and soul realities between death and resurrection (113:3.4) (113:6.1,5)
 	Man and angel may or may not be reunited in eternal service, but wherever seraphic assignment may take them, the seraphim are always in communication with their former wards of the evolutionary worlds, the ascendant mortals of time. (113:7.6)
@@ -2006,15 +2012,16 @@ Gulf of Mexico | (59:2.7) | | PLACE | OK
 The marine animals of those ages took temporary refuge in three favorable retreats: the present Gulf of Mexico region, the Ganges Bay of India, and the Sicilian Bay of the Mediterranean basin. (59:6.9)
 > https://en.wikipedia.org/wiki/Gulf_of_Mexico
 
-Gulf Stream | (29:2.15) | | | OK
+Gulf Stream; great ocean currents | (29:2.15) | | | OK
 The Gulf Stream coursed over the central portion of North America, being deflected eastward to bathe and warm the shores of Greenland, making that now ice-mantled continent a veritable tropic paradise. (59:1.17)
 The great ocean currents were in function in Miocene and affected climate much as they do today. (61:3.9)
 > https://en.wikipedia.org/wiki/Gulf_Stream
 
-gulls | (61:2.12) | | | OK
+gulls | | | | OK
+30 million years ago, birds continued to develop on the planet with few major evolutionary changes, and most modern birds, including gulls, herons, flamingos, vultures, hawks, eagles, owls, quails, and ostriches, already existed. (61:2.12)
 > https://en.wikipedia.org/wiki/Gull
 
-Guru Nanak | | | PERSON | OK
+Guru Nanak; Nanak | | | PERSON | OK
 Guru Nanak or Nanak was the recent 15th century religious leader who founded Sikhism (92:5.8)
 Sikhism is a synthesis of Islam, Hinduism and Buddhism (92:5.15)
 > https://en.wikipedia.org/wiki/Guru_Nanak
