@@ -2180,7 +2180,7 @@ const showTILinesUB = () => {
 		const spans = names.map(n => `<span class="text-primary">${n}</span>`);
 		let par = book.toParInHTML(r, errs);
 		const parPlain = book.toParInPlainText(r, []);
-		par = replaceWords(names, spans, par);
+		par = replaceWords(names, spans, par, false, false, false, true);
 		return [parPlain, par];
 	}
 

@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Gabriel | (33:4) (189:1.5,10) | Radiantes Estrellas Matutinas | PERSON | OK
+Gabriel; Radiante Estrella Matutina | (33:4) (189:1.5,10) | Radiantes Estrellas Matutinas | PERSON | OK
 las Brillantes Estrellas Vespertinas son los oficiales de enlace para Gabriel (37:2.1-3)
 los presidentes de los cien consejos de sanciones supremas componen el gabinete de trabajo de Gabriel (33:8.4)
 como Gabriel no puede estar en dos lugares al tiempo las Brillantes Estrellas Vespertinas compensan esa limitación (37:2.2)
@@ -77,7 +77,7 @@ Gada | (165:0.1) | | PLACE | OK
 Fue una de las poblaciones recorridas en la misisón de Perea por Jesús, los doce, los setenta y el cuerpo de mujeres, desde el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
 Gadía | | | PERSON | OK
-Gadía es un intérprete filisteo con quien Jesús discurrió sobre Jonás durante su estancia en Jope. posteriormente se haría cristiano tras escuchar al apóstol Pedro, con quien tuvo una memorable controversia (130:1)
+Gadía es un intérprete filisteo con quien Jesús discurrió sobre Jonás durante su estancia en Jope. Posteriormente se haría cristiano tras escuchar al apóstol Pedro, con quien tuvo una memorable controversia (130:1)
 
 Gayo | | | PERSON | OK
 Jesús se encontró con Gayo en la casa de Crispo, en Corinto; luego se convirtió en un leal partidario de Pablo (133:3.11)
@@ -160,7 +160,7 @@ puso en práctica las enseñanzas de su maestro cuando en Antioquía habló con 
 realizó junto a Jesús una sinopsis traducida de los mejores textos sobre las religiones del mundo que encontraron en la biblioteca de Alejandría (131) (130:3.5-6)
 fue un digno sucesor de su eminente padre (133:9.5)
 
-Jardín del Edén; jardín | | Adán; Jardines del Edén; segundo jardín | PLACE | OK
+Jardín del Edén; jardín; Jardín | | Adán; Jardines del Edén; segundo jardín | PLACE | OK
 El Jardín de Edén es el segundo centro mundial de civilización que se proyecta en un planeta normal, después de la ciudad sede del Príncipe Planetario. Una gran universidad planetaria de cultura destinada a perdurar por siempre (51:6.1-3)
 Cuando un Adán y Eva empiezan su estancia temporal en un mundo evolutivo, su lugar de residencia se llama con frecuencia el Jardín del Edén, porque está caracterizado por la belleza floral y el esplendor botánico de Edentia, la capital de la constelación (39:5.3) (51:3.2) (73:4.1)
 preparación
@@ -215,7 +215,7 @@ enseñanzas
 jardineros | | | ORDER | OK
 Los espornagias son los jardineros paisajistas de los mundos sede, y el tratamiento que dan a los espacios abiertos de Jerusem es a la vez original y artístico. (46:7.2)
 
-Jardines del Edén | | Jardín del Edén | PLACE | OK
+Jardines del Edén; escuelas del jardín | | Jardín del Edén | PLACE | OK
 Estos Jardines del Edén se llaman así en homenaje a Edentia, la capital de la constelación, y porque están modelados según la grandiosidad botánica del mundo sede de los Padres Altísimos. (43:6.2) (51:3.2) (73:4.1)
 En los mundos normales, la sede jardín de la raza violeta se convierte en el segundo centro de la cultura mundial y, junto con la ciudad sede del Príncipe Planetario, marca la pauta del desarrollo de la civilización. (51:6.2)
 Estos hogares jardín están habitualmente situados en una región apartada y en una zona cercana a los trópicos. (51:3.2)
@@ -226,17 +226,19 @@ La mitad de Edentia está dividida en setenta secciones triangulares cuyos lími
 cámaras de gas | | | | OK
 en la nación continental más desarrollada de un planeta vecino los criminales ejecutados en cámaras de gas (72:10.1)
 
-gasterópodos | (59:2.12) (59:3.7) | | | 
+gasterópodos | | | | OK
+Hace 310 millones de años, los gasterópodos, incluidos los univalvos perforadores, bígaros y caracoles, estaban presentes en los mares antiguos, mientras que los gasterópodos bivalvos como mejillones, almejas, ostras y veneras han permanecido casi sin cambios. (59:2.12)
+Hace 290 millones de años, los gasterópodos, braquiópodos, esponjas y corales formadores de arrecifes continuaron aumentando, con mares cálidos bañando las costas polares. (59:3.7)
 
 puerta hermosa; hermosa puerta | | Jerusalén; templo de Jerusalén | PLACE | OK
-Una de las puertas en el templo de Jerusalén, que aparece mencionada en los Hechos de los Apóstoles (162:4.3)
+Una de las puertas en el templo de Jerusalén, que aparece mencionada en los Hechos de los Apóstoles. La arqueología actual no conoce con exactitud a qué puerta se correspondía, y se identifica a veces con la puerta llamada de «Nicanor», que comunicaba el llamado «patio de las mujeres» con el «patio de los sacerdotes». Sin embargo, la descripción de El Libro de Urantia identifica claramente esta puerta con la «puerta oriental» del recinto del santuario. (162:4.3)
 > https://en.wikipedia.org/wiki/Beautiful_Gate
 
 Gat | | | PLACE | OK
 Los filisteos ordenaron al rey David salir del campo en Gat. Temían que pudiera aliarse con Saúl. (97:9.5)
 > https://es.wikipedia.org/wiki/Gat
 
-Siddharta Gautama | (94:7) | Buda; budismo | PERSON | OK
+Siddharta Gautama; Gautama; Siddharta | (94:7) | Buda; budismo | PERSON | OK
 Siddartha fue un gran maestro del siglo VI a.C., hijo de un cacique sin importancia que gobernaba en un valle del Himalaya
 su conversión a sus nuevos ideales ocurrió de forma repentina (100:5.3)
 elaboró la doctrina trinitaria de Maestro, Ley y Fraternidad (104:1.6)
@@ -285,7 +287,7 @@ Hubo un consejo general de los seguidores de Jesús en Filadelfia (167:0.3) (167
 Génesis; historia de la creación | | | | OK
 La historia de la creación de Eva a partir de una costilla de Adán es un resumen confuso de la llegada de Adán y de la cirugía celestial efectuada durante el intercambio de sustancias vivientes que tuvo lugar cuando vino el estado mayor corpóreo del Príncipe Planetario, más de cuatrocientos cincuenta mil años antes. (74:8.3)
 
-genética | | eugenesia; discapacidades; hibridación; razas | | OK
+genética; genético; genéticas  | | eugenesia; discapacidades; hibridación; razas | | OK
 La hibridación contribuye a mejorar la especie debido al papel de los genes dominantes. La mezcla racial aumenta la probabilidad de que un mayor número de dominantes deseables estén presentes en el híbrido. (82:6.7)
 importancia de la herencia genética
 	la genética es la base de toda habilidad y todo carácter (44:8.2) (76:2.6)
@@ -302,6 +304,7 @@ la genética en los cielos
 	Las limitaciones del intelecto, las restricciones de la educación, la privación de cultura, el empobrecimiento de la posición social e incluso unos criterios morales humanos inferiores ocasionados por la falta desafortunada de ventajas educativas, culturales y sociales, no pueden invalidar la presencia del espíritu divino en esos individuos desafortunados y humanamente perjudicados, pero creyentes. (5:1.4-7) (5:5.13-14)
 la evolución genética
 	Los esfuerzos realizados en Urantia por los Portadores de Vida para mejorar los modelos de vida de Satania tuvieron como resultado necesario la producción de numerosas formas de vida transitorias, aparentemente inútiles. (65:4.10-12)
+	La aparición repentina de especies nuevas y de órdenes diversificadas de organismos vivientes es un fenómeno enteramente biológico, estrictamente natural. Estas mutaciones genéticas no tienen nada de sobrenatural. (58:6.4)
 	El proceso de la evolución planetaria es ordenado y está controlado.  Una vez que las cepas seleccionadas y superiores de protoplasma viviente han hecho su aparición, son celosa e inteligentemente protegidas. (49:1.7)
 	Cada generación tiende ahora a eliminar de la corriente reproductora de la raza a aquellos individuos cuyo instinto parental no es lo suficientemente fuerte como para asegurar la procreación de hijos, los futuros padres de la siguiente generación. (84:7.7)
 históricamente
@@ -321,7 +324,7 @@ Gengis Kan | | | PERSON | OK
 El genio militar andita de los mongoles; fue un monoteísta (79:1.9)
 los miembros de su tribu todavía esperan su regreso (92:5.6)
 
-genio; genios; talento | | | | OK
+genio; genios; talento; genialidad | | | | OK
 El hombre primitivo no podía distinguir entre el genio y la locura; a los tontos los golpeaban hasta morir o eran venerados como personalidades fetiches. (88:1.9)
 Mucha gente consideraba que los genios eran personalidades fetiches poseídas por un espíritu sabio. (88:1.10)
 toda civilización está limitada por los recursos naturales disponibles, el genio inherente y el tiempo libre suficiente para asegurar la realización de los inventos (78:2.4)
@@ -338,7 +341,7 @@ En este lugar es donde Jesús y los doce terminaron su viaje de regreso de Fenic
 gentiles | | paganos | RACE | OK
 Cada sinagoga judía toleraba un pequeño número de creyentes gentiles, de hombres «devotos» o «temerosos de Dios», y fue precisamente en este grupo de prosélitos donde Pablo logró la mayor parte de sus primeros conversos al cristianismo. Incluso el templo de Jerusalén tenía un patio ornamentado para los gentiles. (121:2.5)
 en tiempos de Jesús las filosofías de los gentiles fueron: (121:4)
-	* los epicúreos (121:4.2) | épicureísmo
+	* los epicúreos (121:4.2) | epicureísmo
 	* los estoicos (121:4.3) | estoicismo (religión)
 	* los cínicos (121:4.4) | cinismo (religión)
 	* los escépticos (121:4.5) | escepticismo (religión)
@@ -356,13 +359,16 @@ los judíos
 amabilidad | | | | OK
 la amabilidad es uno de los fruto del Espíritu, una manifestación creciente de las características del Espíritu en las reacciones vitales (34:6.13)
 
-geografía | | clima; continentes; montañas; océanos; ríos | | OK
+geografía; topografía; disposiciones geográficas | | clima; continentes; montañas; océanos; ríos | | OK
 China protegida por su geografía, al oeste por las montañas y al este por el Pacífico (79:6.12-13)
 La India no consiguió su hegemonía sobre Eurasia debido principalmente a un problema de topografía. Las razas inferiores no pudieron ser expulsadas en sur porque el mar lo rodeaba todo. (79:2.5)
 La configuración de los continentes y otras disposiciones geográficas ejercen una gran influencia en la determinación de la paz o la guerra. (81:6.5)
 la protección de América del Norte por los océanos permitió un desarrollo sin molestias. Pocos pueblos en Urantia han tenido este beneficio. (81:6.5)
+Geografía en la época de Jesús
+	En la época de Jesús, el imperio romano del Mediterráneo, el reino de los partos y los pueblos vecinos, todos tenían ideas imperfectas y primitivas sobre la geografía del mundo (121:7.12)
+	El tema de la geografía es una de las materias que más interesaron al joven Jesús cuando fue un estudiante (123:6.6)
 
-edades geológicas | (59:0.1-6) | | | OK
+edades geológicas; era anterior a la vida; era de los albores; era de la vida marina; período de la vida marina; segundo gran período de la vida marina; largo período; período de tribulaciones | (59:0.1-6) | | | OK
 # Arqueozoico, era anterior a la vida
 #* Hace de mil millones a 550 millones de años (59:0.2) (78:7.4)
 # Proterozoico, era del amanecer de la vida
@@ -408,6 +414,7 @@ geología | | fósiles; edades geológicas; rocas y minerales | | OK
 los períodos en los que la tierra y el mar predominaban alternativamente se produjeron durante ciclos de millones de años. La elevación y el hundimiento de los fondos oceánicos y de los niveles de las tierras continentales se efectuaron siguiendo un ritmo secular. Estos mismos movimientos rítmicos de la corteza continuarán produciéndose durante toda la historia de la Tierra, pero con menos frecuencia y en menor grado. (60:4.1)
 La corteza terrestre primitiva estaba en un estado de cambio continuo. El enfriamiento de la superficie alternaba con inmensas corrientes de lava. En ninguna parte de la superficie del mundo se puede encontrar un vestigio de su corteza planetaria original. Todo se ha mezclado demasiadas veces con las lavas expulsadas desde sus profundos orígenes y entremezclado con los depósitos posteriores del océano mundial primitivo. (57:8.11) (58:7.1,6)
 Toda la historia geológica está contada de forma gráfica en las páginas fósiles del inmenso «libro de piedra» de los anales del mundo. (58:7)
+Una de las ciencias que coordina la revelación es la geología (102:4.6)
 
 Guerar | | | PLACE | OK
 después de la partida de Melquisedek, Abraham se mudó a Guerar. Allí tuvo que ocultar su identidad por temor (93:9.2-3)
@@ -428,7 +435,7 @@ Gerizim | | monte Gerizim | PLACE | OK
 
 germoplasma | | plasma vital | | OK
 
-Alemania | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
+Alemania; germánicos | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
 La cultura nórdico-danesa y la cultura danubiano-andonita se encontraron y se mezclaron en el Rin, tal como lo atestigua la existencia de dos grupos raciales en la Alemania de hoy. (80:9.3)
 Los alemanes son descendientes de las razas andita y azul. Estas razas fueron las ascendientes de las llamadas razas nórdicas, los antepasados de los pueblos escandinavos, germánicos y anglosajones. (80:4.5)
 Hacia el año 5000 a. de J.C., las razas blancas en evolución dominaban toda Europa septentrional, incluyendo el norte de Alemania, el norte de Francia y las Islas Británicas. (80:5.8)
@@ -449,7 +456,7 @@ el palacio de Anás estaba en el monte Olivete, no lejos del jardín de Getseman
 Cerca de Getsemaní, un poco más arriba de monte Olivete, es donde Jesús dirigió sus últimas palabras de despedida a los apóstoles en su última aparición, y partió (193:5.1)
 > https://es.wikipedia.org/wiki/Getsemaní
 
-fantasmas; superfantasmas | (87) | | | OK
+fantasmas; fantasma; superfantasmas | (87) | | | OK
 El culto a los fantasmas se desarrolló como una compensación a los riesgos de la mala suerte; sus prácticas religiosas primitivas fueron el resultado de la preocupación por la mala suerte y del miedo desmesurado a los muertos. (87:0.1)
 Muchos pueblos primitivos asociaban a los fantasmas con el mar, y por eso se imponían grandes restricciones a los baños de las vírgenes; las chicas jóvenes tenían mucho más miedo de bañarse en el mar con la marea alta que mantener relaciones sexuales. (84:1.4)
 El hombre heredó un entorno natural, adquirió un entorno social e imaginó un entorno fantasmal. El Estado es la reacción del hombre hacia su entorno natural, el hogar, hacia su entorno social, y la iglesia, hacia su entorno ilusorio de fantasmas. (86:6)
@@ -539,7 +546,8 @@ los galaaditas fueron una tribu bíblica de renombre (128:1.14)
 La pretenciosa historia de los hebreos empieza con Saúl cuando reunió a los clanes del norte para resistir un ataque de los ammonitas contra los miembros de una tribu hermana —los galaaditas— al este del Jordán. Con un ejército de poco más de tres mil hombres derrotó al enemigo, y esta hazaña fue la que condujo a las tribus de las colinas a hacerlo rey. (97:9.3)
 > https://es.wikipedia.org/wiki/Galaad
 
-jirafas | (61:4.4) | | | 
+jirafas | | | | OK
+Hace 10 millones de años, las jirafas aparecieron en África con cuellos tan largos como los de hoy. (61:4.4)
 
 cinturón | | | | OK
 Jesús usaba cinturón (187:2.8)
@@ -552,7 +560,7 @@ Es una de las poblaciones visitadas durante la primera gira de predicación por 
 Jesús y los apóstoles pasaron cerca en su regreso de Fenicia (156:6.3)
 > https://es.wikipedia.org/wiki/Gush_Halav
 
-glaciares | | edades de hielo | | OK
+glaciare; glaciar  | | edades de hielo | | OK
 los primeros glaciares regionales aparecieron en el Pérmico, especialmente en el hemisferio sur (59:6.6)
 existen fuertes discrepancias en el cálculo del número de los glaciares entre El Libro de Urantia y la ciencia actual. La época del tercer glaciar según el libro se corresponde con el primero según el cálculo de los geólogos (64:1.4)
 Hace 750.000 años el glaciar siberiano estaba realizando su máximo avance hacia el sur, obligando al hombre primitivo a retroceder en la misma dirección hacia su tierra de origen. (64:4.5)
@@ -921,15 +929,15 @@ futuro
 Godad | | | PERSON | OK
 Godad fue ermitaño salemita a quien Gautama debería haber escuchado para haber convrtido al budismo en una religión mejor (94:7.4)
 
-Deidades | | Hijo Eterno; Espíritu Infinito; Padre Universal | PERSON | OK
-Se refiere a
+Divinidades; tres Deidades | | Hijo Eterno; Espíritu Infinito; Padre Universal | PERSON | OK
+Se refiere a (5:3.1) (161:1.7)
 	# El Padre Universal
 	# El Hijo Eterno
 	# El Espíritu Infinito
 
 semejanza a Dios | | crecimiento espiritual | | OK
 
-dioses y diosas | | | PERSON | OK
+dioses y diosas; dioses primitivos; numerosos dioses; dios municipal; falsos dioses | | | PERSON | OK
 evolución en la consideración de los dioses
 	los primeros dioses eran seres humanos difuntos glorificados (87:3.1)
 	Los primitivos consideraban al personal del Príncipe como dioses (66:4.1)
@@ -950,7 +958,7 @@ nombres de dioses
 	* Astarté | Astarté
 	* Atón | Atón
 	* Atis | Atis
-	* Augusto | Augusto
+	* Augusto (emperador) | Augusto
 	* Baal | Baal
 	* hadas malignas | hadas malignas
 	* Belo | Belo
@@ -975,7 +983,7 @@ nombres de dioses
 	* hadas | hadas
 	* Destino | Destino
 	* destinos | destinos
-	* Gran culto a la Madre | Gran culto a la Madre
+	* Gran Madre | Gran culto a la Madre
 	* Hestia | Hestia
 	* Horus | Horus
 	* Indra | Indra

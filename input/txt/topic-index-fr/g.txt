@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Gabriel | (33:4) (189:1.5,10) | Radieuse Étoile du Matin | PERSON | OK
+Gabriel; Radieuse Étoile du Matin | (33:4) (189:1.5,10) | Radieuse Étoile du Matin | PERSON | OK
 Les étoiles brillantes du soir sont les agents de liaison de Gabriel (37:2.1-3)
 les présidents des cent conseils de sanctions suprêmes composent le cabinet de travail de Gabriel (33:8.4)
 puisque Gabriel ne peut pas être à deux endroits à la fois, les étoiles brillantes du soir compensent cette limitation (37:2.2)
@@ -132,7 +132,7 @@ Gamaliel était un enseignant renommé à Jérusalem (126:5.3)
 a conseillé au Sanhédrin de ne pas emprisonner les disciples de Jésus (194:4.10)
 > https://en.wikipedia.org/wiki/Gamaliel
 
-jeu d'argent; joueur | | hasard; chance | | OK
+jeux de hasard; joueur | | hasard; chance | | OK
 Les peuples partiellement civilisés croient encore aujourd'hui au hasard et manifestent une prédisposition persistante au jeu. (86:1.4)
 L'homme primitif était un joueur né; il voulait toujours obtenir quelque chose gratuitement, et trop souvent, à cette époque reculée, le succès obtenu grâce à une pratique patiente était attribué aux charmes. (69:2.7)
 
@@ -140,7 +140,7 @@ jeux | | | | OK
 à propos des jeux athlétiques, voir le lien vers Sports | sport
 Les vestiges modernes de cette propension au tirage au sort sont illustrés, non seulement dans les nombreux jeux de hasard, mais aussi dans les célèbres comptines de « décompte ». Autrefois, la personne éliminée devait mourir; aujourd'hui, elle n'est plus que cela dans un jeu enfantin. (90:2.4)
 
-rayons gamma; rayons gamma | | | | OK
+rayons gamma; Rayons gamma | | | | OK
 Les rayons gamma sont des émanations qui caractérisent la dissociation spontanée de la matière atomique. La meilleure illustration de cette forme d'activité électronique se trouve dans les phénomènes associés à la désintégration du radium. (42:5.1,7)
 > https://en.wikipedia.org/wiki/Gamma_ray
 
@@ -160,8 +160,8 @@ il a mis en pratique les enseignements de son maître lorsqu'à Antioche il a pa
 avec Jésus, il a produit une synthèse traduite des meilleurs textes sur les religions du monde qu'ils ont trouvés dans la bibliothèque d'Alexandrie (131) (130:3.5-6)
 il était un digne successeur de son éminent père (133:9.5)
 
-Jardin d'Eden; jardin | | Adam; Jardin d'Éden; deuxième jardin | PLACE | OK
-Le Jardin d'Eden est le deuxième centre mondial de civilisation à se projeter sur une planète normale, après la ville-siège du Prince Planétaire. Une grande université planétaire de culture destinée à durer éternellement (51:6.1-3)
+Jardin d'Éden; jardin; foyers-jardins; Jardin | | Adam; Jardin d'Éden; deuxième jardin | PLACE | OK
+Le Jardin d'Éden est le deuxième centre mondial de civilisation à se projeter sur une planète normale, après la ville-siège du Prince Planétaire. Une grande université planétaire de culture destinée à durer éternellement (51:6.1-3)
 Lorsqu'Adam et Ève commencent leur séjour sur un monde évolutionnaire, leur lieu de résidence est souvent appelé le jardin d'Éden car il est caractérisé par la beauté florale et la grandeur botanique d'Édentia, la capitale de la constellation. (39:5.3) (51:3.2) (73:4.1)
 préparation
 	Au bout de trois ans, la commission du site choisit trois candidats : une île dans le golfe Persique, le site fluvial de l'Euphrate qui devint plus tard le Second Jardin, et une péninsule longue et étroite, presque une île, s'étendant vers l'ouest à partir des côtes de la mer Méditerranée orientale. Le troisième fut choisi. (73:2.3) (73:3.1) (76:1.3)
@@ -215,7 +215,7 @@ enseignements
 jardiniers | | | ORDER | OK
 Les spornagia sont les paysagistes des mondes sièges, et ils sont à la fois originaux et artistiques dans leur traitement des espaces ouverts de Jérusalem. (46:7.2)
 
-Jardin d'Éden | | Jardin d'Eden | PLACE | OK
+jardins d'Éden; celles du jardin | | Jardin d'Éden | PLACE | OK
 Ces jardins d'Eden sont ainsi nommés en l'honneur d'Édentia, la capitale de la constellation, et parce qu'ils sont calqués sur la grandeur botanique du monde siège des Pères Très-Hauts. (43:6.2) (51:3.2) (73:4.1)
 Sur les mondes normaux, le quartier général de la race violette devient le deuxième centre de la culture mondiale et, conjointement avec la ville-quartier général du Prince Planétaire, donne le ton au développement de la civilisation. (51:6.2)
 Ces maisons-jardins sont généralement situées dans une zone isolée et dans une zone quasi tropicale. (51:3.2)
@@ -226,17 +226,19 @@ La moitié d'Édentia est divisée en soixante-dix sections triangulaires, dont 
 chambres à gaz | | | | OK
 dans la plupart des nations continentales développées, les criminels sont exécutés dans des chambres à gaz (72:10.1)
 
-gastéropodes | (59:2.12) (59:3.7) | | | 
+gastéropodes; Gastéropodes | | | | OK
+Il y a 310 millions d'années, les gastéropodes, y compris les univalves foreurs, les bigorneaux et les escargots, étaient présents dans les mers anciennes, tandis que les gastéropodes bivalves comme les moules, les palourdes, les huîtres et les pétoncles sont restés presque inchangés. (59:2.12)
+Il y a 290 millions d'années, les gastéropodes, brachiopodes, éponges et coraux constructeurs de récifs continuaient d'augmenter, avec des mers chaudes baignant les côtes polaires. (59:3.7)
 
-porte belle; Belle Porte | | Jérusalem; temple de Jérusalem| PLACE | OK
-L'une des portes du temple de Jérusalem, mentionnée par les Actes des Apôtres (162:4.3)
+magnifique porte | | Jérusalem; temple de Jérusalem| PLACE | OK
+L'une des portes du temple de Jérusalem, mentionnée par les Actes des Apôtres. L'archéologie actuelle ne sait pas exactement à quelle porte elle correspondait, et elle est parfois identifiée à la porte dite « Nicanor », qui reliait le soi-disant « cour des femmes» au « cour des prêtres ». Cependant, la description dans Le Livre d'Urantia identifie clairement cette porte avec la « porte orientale » de l'enceinte du sanctuaire. (162:4.3)
 > https://en.wikipedia.org/wiki/Beautiful_Gate
 
 Gath | | | PLACE | OK
 Les Philistins ordonnèrent au roi David de quitter le champ de bataille de Gath. Ils craignaient qu'il ne passe du côté de Saül. (97:9.5)
 > https://en.wikipedia.org/wiki/Gath_(city)
 
-Gautama Siddharta | (94:7) | Bouddha; Bouddhisme | PERSON | OK
+Gautama Siddharta; Gautama; Siddharta | (94:7) | Bouddha; Bouddhisme | PERSON | OK
 Siddartha était un grand maître du 6e siècle avant J.-C., fils d'un chef sans importance qui régnait dans une vallée de l'Himalaya.
 sa conversion à ses nouveaux idéaux s'est produite soudainement (100:5.3)
 il a élaboré la doctrine trinitaire du Maître, de la Loi et de la Fraternité (104:1.6)
@@ -285,7 +287,7 @@ Il y avait un concile général des disciples de Jésus à Philadelphie (167:0.3
 Genèse, Livre de; L'histoire de la création | | | | OK
 L'histoire de la création d'Ève à partir de la côte d'Adam est une condensation confuse de l'arrivée d'Adam et de la chirurgie céleste liée à l'échange de substances vivantes associé à la venue du bâton corporel du Prince Planétaire plus de quatre cent cinquante mille ans auparavant. (74:8.3)
 
-génétique | | eugénisme; handicaps; hybridation; races | | OK
+génétique; génétiques  | | eugénisme; handicaps; hybridation; races | | OK
 L'hybridation permet d'améliorer les espèces en raison du rôle des gènes dominants. Le mélange des races augmente la probabilité qu'un plus grand nombre de gènes dominants désirables soient présents dans l'hybride. (82:6.7)
 importance de l'hérédité génétique
 	la génétique sous-tend toutes les capacités et tous les caractères (44:8.2) (76:2.6)
@@ -303,6 +305,7 @@ la génétique au paradis
 évolution génétique
 	Sur Urantia, les efforts des Porteurs de Vie pour améliorer les modèles de vie de Satania ont nécessairement abouti à la production de nombreuses formes de vie de transition apparemment inutiles. (65:4.10-12)
 	Le processus d'évolution planétaire est ordonné et contrôlé. Les souches sélectionnées et supérieures de protoplasme vivant sont jalousement et intelligemment gardées une fois qu'elles apparaissent. (49:1.7)
+	L’apparition soudaine de nouvelles espèces et d’ordres diversifiés d’organismes vivants est un phénomène entièrement biologique et strictement naturel. Ces mutations génétiques n’ont rien de surnaturel. (58:6.4)
 	Chaque génération tend désormais à éliminer du courant reproductif de la race les individus chez lesquels l'instinct parental n'est pas suffisamment fort pour assurer la procréation des enfants, les futurs parents de la génération suivante. (84:7.7)
 historiquement
 	il y avait exactement 70 générations entre les mammifères de l'aube et les mammifères moyens (61:6.1) (62:2.6)
@@ -335,7 +338,7 @@ Gennésareth | | | PLACE | OK
 Une région de la mer de Galilée où Jésus se reposait après les événements de l'alimentation des cinq mille. (152:6)
 C'est ici que Jésus et les douze terminèrent leur voyage de retour de Phénicie le 1er août 29. (156:6.3)
 
-gentils | | païen | RACE | OK
+gentils; Gentils | | païen | RACE | OK
 Chaque synagogue juive tolérait une frange de croyants non juifs, des hommes « pieux » ou « craignant Dieu », et c'est parmi cette frange de prosélytes que Paul a fait la majorité de ses premiers convertis au christianisme. Même le temple de Jérusalem possédait sa cour décorée réservée aux non juifs (121:2.5).
 à l'époque de Jésus, les philosophies païennes étaient : (121:4)
 	* L'épicurien (121:4.2) | Épicurisme
@@ -356,13 +359,16 @@ Juifs
 douceur | | | | OK
 la douceur est l'un des fruits de l'Esprit, une manifestation croissante des caractéristiques de l'Esprit dans les réactions de la vie (34:6.13)
 
-géographie | | climat; continents; montagnes; océans; rivières | | OK
+géographie; topographie; dispositions géographiques | | climat; continents; montagnes; océans; rivières | | OK
 La Chine protégée par sa géographie, par les montagnes à l'ouest et le Pacifique à l'est (79:6.12-13)
 L'échec de l'Inde à conquérir l'hégémonie en Eurasie était en grande partie une question de topographie. Les races inférieures ne pouvaient pas être expulsées vers le sud parce que la mer entourait tout. (79:2.5)
 La configuration des continents et d'autres situations d'aménagement du territoire sont très influentes pour déterminer la paix ou la guerre. (81:6.5)
 La protection de l'Amérique du Nord par les océans a permis un développement sans entrave. Peu de peuples d'Urantia ont bénéficié de cet avantage. (81:6.5)
+La géographie au temps de Jésus
+	À l’époque de Jésus, l’empire romain de la Méditerranée, le royaume des Parthes et les peuples adjacents avaient tous des idées sommaires et primitives au sujet de la géographie du monde (121:7.12)
+	Le thème de la géographie est l’un des sujets qui intéressaient le plus le jeune Jésus lorsqu’il était étudiant (123:6.6)
 
-âges géologiques | (59:0.1-6) | | | OK
+âges géologiques; ère; âge | (59:0.1-6) | | | OK
 # Archéozoïque, ère pré-vie
 #* Il y a 1 milliard à 550 millions d'années (59:0.2) (78:7.4)
 # Protérozoïque, ère de l'aube de la vie
@@ -408,6 +414,7 @@ géologie | | fossiles; âges géologiques; roches et minéraux | | OK
 Les périodes alternées de domination terrestre et maritime se sont produites selon des cycles de millions d'années. Il y a eu un rythme séculaire associé à cette montée et à cette baisse du niveau des fonds océaniques et des terres continentales. Et ces mêmes mouvements rythmiques de la croûte terrestre continueront à partir de maintenant tout au long de l'histoire de la terre, mais avec une fréquence et une ampleur décroissantes. (60:4.1)
 La croûte terrestre primitive était en état de changement continuel. Le refroidissement de la surface alternait avec d'immenses coulées de lave. Nulle part on ne trouve à la surface du monde quoi que ce soit de cette croûte planétaire originelle. Tout cela a été trop souvent mélangé avec des laves extrudées d'origines profondes et mélangé avec des dépôts ultérieurs de l'océan mondial primitif. (57:8.11) (58:7.1,6)
 Toute l'histoire géologique est racontée de manière graphique dans les pages fossiles du vaste « livre de pierre » des archives mondiales. (58:7)
+L’une des sciences qui coordonne la révélation est la géologie (102:4.6)
 
 Gérar | | | PLACE | OK
 Après le départ de Melchizédek, Abraham s'installa à Guérar. Là, il cacha son identité par crainte (93:9.2-3)
@@ -428,7 +435,7 @@ Garizim | | mont Garizim | PLACE | OK
 
 plasma germinatif | | plasma de vie | | OK
 
-Allemagne | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
+Allemagne; germaniques | (59:4.8) (60:1.4) (60:2.6) | | PLACE | OK
 Les cultures nordique-danoise et danubienne-andonite se sont rencontrées et mêlées sur le Rhin, comme en témoigne l'existence de deux groupes raciaux en Allemagne aujourd'hui. (80:9.3)
 Les Allemands sont les descendants des races andites et bleues. Ces races furent les ancêtres des races dites nordiques, les ancêtres des peuples scandinaves, allemands et anglo-saxons. (80:4.5)
 Vers 5000 av. J.-C., les races blanches en évolution dominaient toute l'Europe du Nord, y compris le nord de l'Allemagne, le nord de la France et les îles britanniques. (80:5.8)
@@ -436,7 +443,7 @@ Vers 5000 av. J.-C., les races blanches en évolution dominaient toute l'Europe 
 Guéshur | | | PLACE | OK
 Talmaï était roi de Geshur et David épousa une de ses filles (97:9.10)
 
-geste; Geste | | | | OK
+geste; gestes | | | | OK
 Le geste, étant plus ancien que la parole, était plus sacré et plus magique, et l'on croyait que le mimétisme avait un fort pouvoir magique. (88:6.4) (92:2.2)
 
 Gethsémani | | | PLACE | OK
@@ -449,7 +456,7 @@ Le palais d'Anne se trouvait sur le mont des Oliviers, non loin du jardin de Get
 C'est près de Gethsémani, un peu au-dessus du mont des Oliviers, que Jésus adressa ses dernières paroles d'adieu aux apôtres lors de sa dernière apparition, et s'en alla (193:5.1).
 > https://en.wikipedia.org/wiki/Gethsemane
 
-fantômes; fantôme; Fantôme; Fantômes; superfantôme | (87) | | | OK
+fantômes; fantôme; Fantôme; Fantômes; superfantômes | (87) | | | OK
 Le culte des fantômes a évolué pour contrer les dangers de la malchance; ses pratiques religieuses primitives étaient le résultat de l'anxiété face à la malchance et de la peur excessive des morts. (87:0.1)
 De nombreux peuples primitifs associaient les fantômes à la mer; les vierges étaient donc soumises à de grandes restrictions dans leurs pratiques de bain; les jeunes femmes avaient bien plus peur de se baigner dans la mer à marée haute que d'avoir des relations sexuelles. (84:1.4)
 L'homme a hérité d'un environnement naturel, a acquis un environnement social et a imaginé un environnement fantôme. L'État est la réaction de l'homme à son environnement naturel, la maison à son environnement social, l'église à son environnement fantôme illusoire. (86:6)
@@ -513,7 +520,7 @@ Gédéon | | | PERSON | OK
 Les Madianites envahirent la vallée du Jourdain à l'époque de Gédéon (124:6.6)
 > https://en.wikipedia.org/wiki/Gideon
 
-cadeaux; cadeau; offrandes | | | | OK
+cadeaux; cadeau; offrandes; don; bonnes choses | | | | OK
 La consécration affectueuse de la volonté humaine à l'accomplissement de la volonté du Père est le don le plus précieux que l'homme puisse faire à Dieu. En fait, une telle consécration de la volonté de la créature constitue le seul don possible de l'homme de véritable valeur au Père du Paradis. Jésus a apporté à Dieu, en tant qu'homme du royaume, la plus grande de toutes les offrandes : la consécration et le dévouement de sa propre volonté au service majestueux de l'accomplissement de la volonté divine. (1:1.2) (56:8.3) (196:0.10)
 « Toute grâce excellente et tout don parfait descendent du Père des lumières. » (2:6.3)
 Si nos parents terrestres, étant de mauvaise tendance, savent aimer leurs enfants et leur accorder de bons dons, combien plus le bon Père céleste doit-il savoir aimer sagement ses enfants sur terre et leur accorder des bénédictions appropriées. (131:10.3) (144:2.4) (146:2.6-10)
@@ -539,7 +546,8 @@ Les Giléadites étaient une tribu réputée biblique (128:1.14)
 L'histoire prétentieuse des Hébreux commence avec Saül qui rassemble les clans du nord pour résister à une attaque des Ammonites contre leurs compatriotes, les Giléadites, à l'est du Jourdain. Avec une armée d'un peu plus de trois mille hommes, il vainquit l'ennemi, et c'est cet exploit qui poussa les tribus des montagnes à le faire roi. (97:9.3)
 > https://en.wikipedia.org/wiki/Gilead
 
-girafes | (61:4.4) | | | 
+girafes; girafe | | | | OK
+Il y a 10 millions d'années, les girafes sont apparues en Afrique avec des cous aussi longs qu'aujourd'hui. (61:4.4)
 
 ceinture | | | | OK
 Jésus portait une ceinture (187:2.8)
@@ -552,7 +560,7 @@ C'est l'une des villes visitées lors de la première tournée de prédication e
 Jésus et les apôtres passèrent à leur retour de Phénicie (156:6.3)
 > https://en.wikipedia.org/wiki/Jish
 
-glaciers | | périodes glaciaires | | OK
+glaciers; glaciaire | | périodes glaciaires | | OK
 les premiers glaciers régionaux sont apparus au Permien, en particulier dans l'hémisphère sud (59:6.6)
 Il existe de fortes divergences dans le calcul du nombre de glaciers entre Le Livre d'Urantia et la science actuelle. L'époque du troisième glacier selon le livre correspond à celle du premier selon les calculs des géologues (64:1.4).
 Il y a 750 000 ans, le glacier sibérien effectuait sa marche vers le sud, obligeant l'homme primitif à se déplacer vers le sud, vers les terres de son origine. (64:4.5)
@@ -560,9 +568,9 @@ l'élévation du terrain produit des glaciers (57:8.22) (61:2.3) (61:5.1-2)
 Aucune autre activité terrestre, hormis les glaciers, ne laisse de traces aussi caractéristiques sur la topographie. (61:7.1)
 > https://en.wikipedia.org/wiki/Glacier
 
-glandes, sans canal; glandes; glandes sans canal | | hormones | | OK
+glandes endocrines; glandes | | hormones | | OK
 Il existe trois types planétaires humains dans les mondes habités avec une, deux et trois glandes comparables aux corps pituitaires (49:5.19-20)
-À tout moment, dans le sang de tout être humain, il existe la possibilité de plus de 15 millions de réactions chimiques entre la production hormonale d'une douzaine de glandes sans canal. (65:6.6)
+À tout moment, dans le sang de tout être humain, il existe la possibilité de plus de 15 millions de réactions chimiques entre la production hormonale d'une douzaine de glandes endocrines. (65:6.6)
 la chimie des glandes comparables aux corps hypophysaires influence l'imagination et la réceptivité spirituelle (49:5.19)
 > https://en.wikipedia.org/wiki/Endocrine_gland
 
@@ -579,7 +587,7 @@ moucherons; moucheron | | | | OK
 Jésus a dit un jour : « Mon peuple se prend trop au sérieux; il est pratiquement dépourvu de sens de l'humour. La religion pesante des pharisiens n'aurait jamais pu naître chez un peuple doté d'un sens de l'humour. Ils manquent également de cohérence; ils filtrent les moucherons et avalent les chameaux. » (156:2.8) (185:0.4)
 Et aussi : « Malheur à vous, scribes, pharisiens et autres hypocrites, qui prenez soin de payer la dîme de la menthe, de l'aneth et du cumin, et qui négligez en même temps les choses les plus importantes de la loi : la foi, la miséricorde et la justice ! Dans la mesure du raisonnable, vous auriez dû faire l'une, mais ne pas négliger l'autre. Vous êtes vraiment des guides aveugles et des enseignants muets; vous filtrez le moucheron et avalez le chameau. » (175:1.17)
 
-objectifs; but | | ambitions; consécration du choix; destin; progrès; réalisation de soi; volonté | | OK
+objectifs; but; buts | | ambitions; consécration du choix; destinée; progrès; réalisation de soi; volonté | | OK
 atteindre des objectifs
 	Bien que l'accomplissement de chaque objectif ascendant soit une réalisation réelle, dans un sens plus large, ces objectifs ne sont que des jalons sur le long chemin ascendant vers le Paradis. Mais si relatifs que soient ces succès, aucune créature évolutionnaire ne se voit jamais refuser la satisfaction pleine, bien que transitoire, de l'accomplissement d'un objectif. (39:4.7) (44:8.3-5) (118:0.10,12)
 	nous recevons une aide abondante pour atteindre nos objectifs (4:3.5)
@@ -853,7 +861,7 @@ défini comme
 
 Dieu le Père | | Père Universel | PERSON | OK
 
-Dieu le Septuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
+Dieu le Septuple; Déité Septuple | (0:8) (56:5.3) (56:6.1) (116:2) | | PERSON | OK
 composé de (56:5.3) (116:2.4-11)
 	# Fils Créateurs, Esprits-Mères des univers locaux
 	# Anciens des Jours
@@ -862,20 +870,20 @@ composé de (56:5.3) (116:2.4-11)
 	# Esprit Infini
 	# Fils Éternel
 	# Père Universel
-Les Fils Créateurs sont des focalisations finales de la puissance-personnalité (33:1.3)
-Personnalité de la divinité fonctionnant dans le temps et l'espace (0:2.16)
-les 3 premiers niveaux connus sous le nom de Créateurs Suprêmes (31:9.14) (36:6.7) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3.7) (118:0.9) (118:4.7)
-membres de la 1ère Trinité expérientielle (31:9.14) (106:3.2)
-les contrôleurs septuples sont de niveau de contrôle physique (116:5.1-9)
-niveaux successifs (0:8.1-8)
-Le Suprême est désormais réel pour Dieu le Septuple (117:7.5)
+Les Fils Créateurs sont les focalisations finales du pouvoir et de la personnalité des puissants attributs espace-temps du Dieu Septuple (33:1.3).
+Dieu septuple est la personnalité de la Déité fonctionnant n'importe où dans l'espace-temps (0:2.16)
+Les trois premiers niveaux, les Esprits Mères, les Anciens des Jours et les Maîtres Esprits, sont connus comme Créateurs Suprêmes du temps et de l'espace (31:9.14) (36:6.7) (56:6.1-2) (106:3.2) (106:5.2) (115:4.7) (116:2) (116:4.2) (117:1.2) (117:3,7) (118:0,9) (118:4,7)
+L'union des Créateurs Suprêmes, de l'Être Suprême et des Maîtres Architectes sont les membres de la première Trinité expérientielle (31:9.14) (106:3.2)
+le Septuple englobe les contrôleurs ainsi que les créateurs du grand univers (116:5.1-9)
+le Père Universel a établi sept niveaux successifs d'approche de la Divinité (0:8.1-8)
+le Suprême n'est pas complètement réel pour les créatures mais est réel pour le Dieu Septuple (117:7.5)
 fonction
-	contrôle de la puissance-énergie-matière (42:2.14)
-	intègre le parfait, le rendu parfait et le perfectionnant (105:6.5) (106:1.2-4)
-	les mortels nécessaires au plein fonctionnement de (116:4.12)
-	offre une approche progressive de la révélation de la personnalité du Père (56:7.8) (105:7.17)
-	Sept Maîtres Esprits coordonnent les activités de (17:8.3)
-	source de l'unité relative de l'univers (106:1.4)
+	maintient le contrôle de la puissance-énergie-matière (42:2.14)
+	intègre le parfait, le perfectionné et ce qui est en train d'être perfectionné (105:6.5) (106:1.2-4)
+	l’homme mortel semble être nécessaire à la pleine fonction du Dieu Septuple (116:4.12)
+	fournit une approche progressive de la révélation de la personnalité du Père (56:7.8) (105:7.17)
+	les Sept Maîtres Esprits semblent coordonner les activités du Dieu Septuple (17:8.3)
+	Le Septuple est, dans toutes les phases, la source de l'unité relative de la réalité fonctionnelle du grand univers actuel (106:1.4).
 
 Dieu le Fils | | Fils Éternel | PERSON | OK
 
@@ -883,7 +891,7 @@ Dieu l'Esprit | | Esprit Infini | PERSON | OK
 
 Dieu le Suprême | | Suprême | PERSON | OK
 
-Dieu l'Ultime | (0:9) | réalité:niveaux de réalité | PERSON | OK
+Dieu l'Ultime; Ultime; Déité Ultime | (0:9) | réalité:niveaux de réalité | PERSON | OK
 3 Absolus sont coordonnés dans (56:9.1)
 L'Ajusteur est le secret de la réalisation personnelle de (101:6.2)
 préfigure un contrôle transcendantal à un stade ultérieur de la lumière et de la vie de l'univers (56:7.5)
@@ -922,14 +930,14 @@ Godad | | | PERSON | OK
 Godad était un ermite salémite que Gautama aurait dû écouter afin de faire du bouddhisme une meilleure religion (94:7.4)
 
 Divinités | | Fils Éternel; Esprit Infini; Père Universel | PERSON | OK
-Se réfère à
+Se réfère à (5:3.1) (161:1.7)
 	# Père Universel
 	# Fils Éternel
 	# Esprit Infini
 
 Ressemblance à Dieu | | croissance spirituelle | | OK
 
-dieux et déesses | | | PERSON | OK
+dieux et déesses; dieux primitifs; multiples dieux; dieu municipal; faux dieux | | | PERSON | OK
 évolution dans la considération des dieux
 	les premiers dieux étaient des êtres humains décédés glorifiés (87:3.1)
 	Les primitifs considéraient le bâton du Prince comme un dieu (66:4.1)
@@ -950,7 +958,7 @@ noms
 	* Astarté | Astarté
 	* Aton | Aton
 	* Attis | Attis
-	* Auguste | Auguste (empereur)
+	* Auguste (empereur) | Auguste
 	* Baal | Baal
 	* banshees | banshees
 	* Bel | Bel
@@ -970,12 +978,12 @@ noms
 	* nains | nains
 	* Dyaus pitar | Dyaus pitar
 	* Éa | Éa
-	* Le | Le
+	* El | El
 	* El Shaddaï | El Shaddaï
 	* fées | fées
 	* Destin | Destin
-	* destins | destins
-	* Culte de la Grande Mère | Culte de la Grande Mère
+	* parques | Parques
+	* Grande Mère | Culte de la Grande Mère
 	* Hestia | Hestia
 	* Horus | Horus
 	* Indra | Indra

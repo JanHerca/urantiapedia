@@ -570,8 +570,8 @@ exports.testWords = function(arItems, text) {
  *  By default is false, only first occurence of each item is replaced.
  * @param {?boolean} useExisting Optional replace with existing case. If case
  * existing is different with what is sent, use existing. By default is false.
- * @param {?boolean} useFirst Optional use first of items passed. By default
- * is false and all items are used.
+ * @param {?boolean} useFirst Optional use first found of items passed. 
+ * By default is false and all items are used.
  * @return {string} Modified text.
  */
 exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, 
