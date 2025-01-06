@@ -10,11 +10,27 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Distinguimos tres estratos sociales: ricos, clase media y pobres.
 
 ## Los ricos
 
-a) La corte
+### a) La corte
 
 El pueblo judío en tiempos de Jesús vivió bajo los auspicios de la familia herodiana. Primero con Herodes el Grande, y luego con sus hijos, siempre hubo una corte que rodeaba al príncipe o rey. Esta corte dirigía la vida oficial; incluso en los tiempos de la dominación romana ejercieron las cortes principescas su papel, aunque sólo eran ya pálidos reflejos de su anterior magnificencia.
 
@@ -33,7 +49,7 @@ Los ingresos en impuestos de los monarcas eran impresionantes. Sólo así podía
 
 A pesar de estos ingresos, los monarcas eran incapaces de hacer frente a sus gastos. Herodes poseía también una impresionante fortuna privada, e hizo grandes riquezas con la confiscación de los bienes de muchos nobles. Además, el emperador Augusto le cedió, en el 12 a.C. las minas de cobre de Soli, en Chipre, lo que le dio nuevos ingresos. Finalmente, los regalos, o mejor dicho, los sobornos, venían a tapar más de un agujero en las finanzas de los príncipes.
 
-b) La clase adinerada
+### b) La clase adinerada
 
 Había un estrato superior aristocrático, integrado, en primer lugar, por la nobleza sacerdotal y los miembros de la familia del sumo sacerdote. Obtenían sus ingresos del tesoro del templo, de las tierras de su propiedad, del comercio del templo y del nepotismo en la designación de sus parientes para ocupar las magistraturas directivas, lo que aumentaba la riqueza de la familia. El sumo sacerdote tenía que correr con los dispendios propios del cargo; por ejemplo, tenía que pagar de su bolsillo el sacrificio del Gran día del Perdón. Por razones de representación estaba obligado a tener su casa abierta para todos. En las familias de los sumos sacerdotes imperaba un lujo enorme. Pertenecían por lo general a las familias más ricas de Palestina.
 
@@ -78,3 +94,19 @@ La pobreza en los tiempos de Jesús fue aumentando paulatinamente. Contribuyeron
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/clases-sociales-en-tiempos-de-jesus)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

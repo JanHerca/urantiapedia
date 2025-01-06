@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 A la cabeza del pueblo judío de tiempos de Jesús se disponía un trío de fuerzas que en conjunto formaba la clase dirigente: 1) una nobleza sacerdotal, o clero, que constituían la autoridad religiosa; 2) una nobleza laica, o ancianos, que constituían una autoridad laica; y por último, 3) los escribas, la autoridad sapiencial. Procederemos a dar cuenta de cada uno de estos grupos.
 
 ## El clero
@@ -215,3 +231,19 @@ Sin embargo, todas sus actividades educativas debían ser gratuitas. Estaba proh
 - Emil Schürer, _Historia del pueblo judío en tiempos de Jesús_, Ediciones Cristiandad, 1985.
 
 - Johannes Leipoldt y Walter Grundmann, _El Mundo del Nuevo Testamento_, dos tomos, Ediciones Cristiandad, 1973.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
