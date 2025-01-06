@@ -220,7 +220,7 @@ les Andonites plus âgés ont conservé un semblant d'identité dans (80:4.6)
 Larissa | (130:0.3) | | PLACE |
 Jésus est décédé
 
-Lasaïa | | | PLACE |
+Lasaïa | | ports | PLACE |
 port en Crète, Jésus est passé (130:0.2) (130:4.12)
 
 dernier | | | |

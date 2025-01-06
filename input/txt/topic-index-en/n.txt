@@ -64,7 +64,7 @@ Nanak, Guru | | Guru Nanak | PERSON | OK
 Naomi | | | PERSON | 
 bride at wedding at Cana (137:3.6)
 
-Naples | (130:0.2) | | PLACE | 
+Naples | (130:0.2) | harbors | PLACE | 
 beggar at Naples lacked ability to respond (130:8.4)
 Claudus preached in (130:8.1)
 Jesus’ stop at (130:8.4-5)
@@ -494,7 +494,7 @@ feared to be seen openly with Jesus (142:6.1)
 Jesus’ followers met at home of (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 Jesus’ visit with (142:6)
 
-Nicopolis | (130:0.3) | | PLACE | 
+Nicopolis | (130:0.3) | harbors | PLACE | 
 founded by Augustus to commemorate Actium (133:2.5)
 
 night police | | | | 

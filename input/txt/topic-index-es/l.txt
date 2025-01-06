@@ -220,7 +220,7 @@ Los andonitas mayores retuvieron una apariencia de identidad en (80:4.6)
 Larisa | (130:0.3) | | PLACE | 
 Una población por la que pasó Jesús
 
-Lasea | | | PLACE | 
+Lasea | | puertos | PLACE | 
 puerto en Creta por donde pasó Jesús (130:0.2) (130:4.12)
 
 el último | | | | 

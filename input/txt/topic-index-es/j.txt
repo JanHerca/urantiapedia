@@ -1484,7 +1484,7 @@ el apóstol más joven, soltero, de Cafarnaúm; 24 en el año 26 d.C. (139:4.1) 
 Jonás | (159:4.4) | | PERSON | 
 El discurso de Jesús sobre (130:1)
 
-Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE | 
+Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | puertos | PLACE | 
 Aquí estuvo Jesús en varias ocasiones
 
 río Jordan | | | PLACE | 

@@ -81,7 +81,7 @@ Marchand mongol croyant en (130:2.2)
 
 tapirs | (61:1.9) (61:7.15) | | |
 
-Tarente | (130:0.3) (133:0.2,3) | | PLACE |
+Tarente | (130:0.3) (133:0.2,3) | ports | PLACE |
 Jésus a retenu un tyran qui attaquait un petit garçon à (133:1.1)
 homme attaquant sa femme à (133:2)
 
@@ -1677,7 +1677,7 @@ trivialités | | distractions | |
 Jésus n'a pas perdu de temps sur (134:9.7)
 passer autant de temps et de réflexion sur (110:3.4)
 
-Troas | (130:0.3) (133:6.1) | | PLACE |
+Troas | (130:0.3) (133:6.1) | ports | PLACE |
 
 tropiques | | | |
 les races rarement avancées qui recherchaient la facilité (64:1.3) (81:6.7)

@@ -29,7 +29,7 @@ Aggée était un chef spirituel que, contrairement à d'autres, la tyrannie des 
 grêle | | | | OK
 Les nuages, la pluie et la grêle ont tous été craints et adorés par de nombreuses tribus primitives et par de nombreux cultes de la nature primitifs. (85:4.3)
 
-cheveux; poils | | | | OK
+cheveux; poils; cheveu | | | | OK
 Les cheveux en biologie
 	Les mammifères du début du Cénozoïque vivaient sur terre, sous l'eau, dans les airs et au sommet des arbres. Ils possédaient d'une à onze paires de glandes mammaires et étaient tous couverts d'une pilosité considérable. (61:1.10)
 Les cheveux comme fétichisme
@@ -77,8 +77,8 @@ La civilisation des fils de Han est celle qui se rapproche le plus de la présen
 Hanavard | | | PERSON | OK
 Hanavard est le 67ème Lanonandek primaire de Nébadon; il est membre du corps supérieur des conseillers et coordinateurs universels. Il est président par intérim du conseil exécutif de Satania. Hanavard est le douzième de cet ordre à servir à Jérusalem depuis la rébellion de Lucifer. (45:3.8) (45:3.10)
 
-largeur de la main | | | | OK
-Jésus a dit un jour à propos de l'anxiété : « Qui de vous, par ses inquiétudes, peut ajouter un doigt à sa taille ou un jour à sa vie ? » (165:5.2)
+largeur de main | | | | OK
+Jésus a dit un jour à propos de l'anxiété : « Qui d’entre vous, par son inquiétude, peut ajouter une largeur de main à sa stature ou un jour à sa vie ? » (165:5.2)
 
 handicaps; handicap; limitations | | circonstances; environnement; eugénisme | | OK
 comment sont rémunérés
@@ -139,18 +139,19 @@ nature du bonheur
 Le bonheur de Jésus
 	Jésus était toujours joyeux, même s'il buvait parfois profondément à la coupe de la tristesse humaine. Il était rempli d'enthousiasme pour l'Évangile du royaume. Mais il contrôlait son enthousiasme; il ne s'est jamais laissé dominer par lui. (100:7.12-13)
 
-terrains de chasse heureux | | | | OK
-Les Andites désignaient par le terme « terrains de chasse heureux » un lieu supposé après la mort. Les captifs inférieurs de la race bleue qui avaient été déclarés inaptes, après une cérémonie élaborée, étaient noyés dans la rivière et on leur disait qu'ils étaient envoyés dans des « terrains de chasse heureux » (80:5.6).
+heureux territoires de chasse | | | | OK
+Les Andites désignaient par le terme « heureux territoires de chasse » un lieu supposé après la mort. Les captifs inférieurs de la race bleue qui avaient été déclarés inaptes, après une cérémonie élaborée, étaient noyés dans la rivière et on leur disait qu'ils étaient envoyés dans des « heureux territoires de chasse » (80:5.6).
 
 Haran | | | PLACE | OK
 Haran était un lieu de passage sur la route de Salem où la famille d'Abraham s'est arrêtée pendant un certain temps (93:5.4)
 > https://en.wikipedia.org/wiki/Harran
 
 ports | | | | OK
-ports nommés dans Le Livre d'Urantia :
-* Alexandrie | Alexandrie; Antioche; Athènes; Césarée; Carthage; Charax; Corinthe; Cyrène; Éphèse; Joppé; Lasaïa; Malte; Messine; Naples; Nicopolis; Paphos; Salamine; Syracuse; Tarente; Troas
+ports nommés dans Le Livre d'Urantia : | Alexandrie; Antioche; Athènes; Bethsaïde; Césarée; Carthage; Charax; Corinthe; Cyrène; Éphèse; Joppé; Lasaïa; Malte; Messine; Naples; Nicopolis; Paphos; Salamine; Syracuse; Tarente; Troas
+* Alexandrie
 * Antioche
 * Athènes
+* Bethsaïde, port de pêche de Capharnaüm
 * Césarée
 * Carthage
 * Charax
@@ -158,7 +159,7 @@ ports nommés dans Le Livre d'Urantia :
 * Cyrène
 * Éphèse
 * Joppé
-* Laséa
+* Lasaïa
 * Malte
 * Messine
 * Naples
@@ -167,7 +168,7 @@ ports nommés dans Le Livre d'Urantia :
 * Salamine
 * Syracuse
 * Tarente
-* Troade
+* Troas
 à propos des ports de l'est de la Méditerranée, on nous dit qu'il y avait très peu de bons ports à l'époque de Jésus (121:2.2)
 
 harem | | | | D'accord
@@ -184,11 +185,11 @@ musique | musique
 	Le don de l'harmonie est aujourd'hui très dilué dans les courants actuels, qui ont peu hérité d'Adam et Eve. La musique est le langage universel des anges. L'harmonie est le langage de Havona (44:1.15)
 	L'harmonie, la musique des sept niveaux d'association mélodieuse, est le seul code universel de communication spirituelle. La musique, telle que la comprennent les mortels d'Urantia, atteint sa plus haute expression dans les écoles de Jérusem, le siège du système, où les êtres semi-matériels apprennent les harmonies du son. Les mortels ne réagissent pas aux autres formes de mélodie morontielle et d'harmonie céleste. (44:1.11)
 
-superviseurs d'harmonie | | | ORDER | OK
+surveillants d’harmonie; surveillants séraphiques d’harmonie | | | ORDER | OK
 Les Superviseurs de l'Harmonie sont un corps de Supernaphins tertiaires qui sont chargés à Havona de veiller à ce que tout fonctionne bien et rapidement. (26:3.4)
 Les joies de l'existence sont réflexivement accordées aux superviseurs de l'harmonie supraphique ci-dessus (28:5.16)
 
-travailleurs de l'harmonie | | | ORDER | OK
+travailleurs de l'harmonie; artistes | | | ORDER | OK
 Les travailleurs de l'harmonie sont un groupe d'artisans célestes qui s'occupent de manipuler et d'organiser les forces spirituelles pour les rendre visibles aux mortels. (44:7)
 
 harpe | | | | OK
@@ -202,11 +203,11 @@ harpes de Dieu; harpe de Dieu | | | | OK
 Les « harpes de Dieu » sont des dispositifs morontiels utilisés à Jérusalem pour la réception des communications spatiales (47:10.2)
 Adam et Eve, lorsqu'ils étaient sur la Terre, pouvaient communiquer entre eux et avec leurs enfants immédiats sur une distance d'environ 80 kilomètres. Cet échange de pensées s'effectuait au moyen de chambres à gaz délicates situées à proximité immédiate de leurs structures cérébrales. Grâce à ce mécanisme, ils pouvaient envoyer et recevoir des oscillations de pensée. Mais ce pouvoir était instantanément suspendu dès que l'esprit s'abandonnait à la discorde et à la perturbation du mal. (74:6.6)
 
-récolte | | Judaïsme:fêtes:tabernacles | | OK
+moisson | | Judaïsme:fêtes:tabernacles | | OK
 Jésus dit : « Ne dites plus : c'est tel temps jusqu'à la moisson. Moi, je vous dis que les champs sont déjà blancs pour la moisson. » (143:6.1)
 « La moisson est abondante, mais les ouvriers sont peu nombreux » (150:4.1) (163:1.3)
 
-hâte; se dépêcher | | | | OK
+hâte; se dépêcher; pressé; pressés | | | | OK
 Les religieux semblent vivre dans une véritable émancipation de la hâte harcelante et du stress douloureux des vicissitudes inhérentes aux courants temporels du temps; ils font preuve d'une stabilisation de la personnalité et d'une tranquillité de caractère qui ne s'expliquent pas par les lois de la physiologie, de la psychologie et de la sociologie. (102:2.3)
 Jésus n'était jamais pressé; son sang-froid était sublime. Jean était un travailleur enthousiaste et sérieux, mais Jésus était un ouvrier calme et heureux; il n'a été pressé que quelques fois dans toute sa vie. (100:7.14) (136:0.1) (171:7.5)
 L'un des grands problèmes de la vie moderne est que l'homme pense qu'il est trop occupé pour trouver du temps pour la méditation spirituelle et la dévotion religieuse. (195:6.7)
@@ -215,7 +216,7 @@ L'homme primitif n'aimait pas le travail dur et il ne se dépêchait pas à moin
 Hatita | | | PLACE | OK
 Hatita fut l'une des villes visitées lors de la mission de Pérée, du 3 janvier 30 jusqu'à la mort de Jésus (165:0.1)
 
-haine; haines; être haï; haïr; Haine | | colère; peur; vengeance | | OK
+haine; haines; être haï; haïr; Haine; hait; haïs | | colère; peur; vengeance | | OK
 Jésus a dit dans son discours mémorable : « La haine est l'ombre de la peur; la vengeance est le masque de la lâcheté. » (145:3.4)
 Causes de la haine
 	Les haines raciales sont dues en grande partie à l'absence d'idéaux chez les dirigeants nationaux. Ils ont une surabondance d'idées, mais ils sont pauvres en idéaux (111:4.10)
@@ -234,7 +235,7 @@ La réaction des croyants face à la haine
 	la somme du devoir est de vaincre la haine par la bienveillance et l'amour (131:4.6) (194:3.11-12)
 	Lorsque les flots de l'adversité humaine, de l'égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie déferlent sur nos âmes, nous pouvons être assurés qu'il existe un bastion intérieur, la citadelle de l'esprit, qui est absolument inattaquable; du moins, cela est vrai pour quiconque a consacré la garde de son âme à l'esprit du Dieu éternel qui habite en nous. (100:2.7)
 
-Havona | (14) | Éternels des Jours; natifs de Havona; Pèlerins de Havona; Sept Esprits des Circuits d'Havona | PLACE |
+Havona; havonien | (14) | Éternels des Jours; natifs de Havona; Pèlerins de Havona; Sept Esprits des Circuits d'Havona | PLACE | OK
 Havona est l'univers central qui est au centre de toute la création, un univers sans commencement ni fin et parfait. Au centre de Havona se trouve l'île stationnaire du Paradis, le centre géographique de l'infini et la demeure de Dieu. (0:0.5)
 le réveil à Havona représente pour nous la célébration du quatrième jubilé mortel (27:7.8)
 Lorsque nous, mortels, atteignons Havona, nous recevons l'autorisation d'Ascendington, l'une des sphères sacrées entourant le Paradis, où nous sommes les bienvenus, mais nous ne sommes pas autorisés à visiter les six autres mondes sacrés. (13:2.6)
@@ -275,326 +276,326 @@ Circuits de Havona
 			Lorsque nous nous éveillons pour la première fois dans l'univers central, nous sommes reçus et domiciliés sur le monde pilote du septième circuit de Havona. (14:3.4) (14:5.4) (26:3.2) (26:4.12-13) (106:2.4)
 			Les réalités de la personnalité de l'Être Suprême émanent des Déités du Paradis et, sur le monde pilote du circuit extérieur de Havona, s'unissent aux prérogatives de pouvoir du Tout-Puissant Suprême émanant des divinités Créatrices du grand univers. (56:6.2) (106:2.4)
 circuits de Havona, en général
-	tourner dans le sens des aiguilles d'une montre autour du Paradis (14:1.3)
-	chaque circuit a une planète siège (22:1.10)
-	chaque circuit a une durée d'année différente (14:1.11)
-	chaque circuit est imprégné par un Esprit des Circuits d'Havona (14:1.9) (17:0.11) (17:5) (26:2.6)
-	un directeur du recensement en poste dans chaque circuit (24:2.3)
-	exigences de reconnaissance sur chaque circuit (14:5.4) (26:5.4)
+	La procession dans le sens des aiguilles d'une montre des circuits du Paradis et de Havona tourne autour du Paradis. (14:1.3)
+	Les mortels ascendants ajustés qui atteignent le Paradis et le Corps de la Finalité suivent une formation sur les planètes sièges des circuits avant de servir sous la direction des Anciens des Jours. (22:1.10)
+	Le temps est défini par la longueur de l'année sur chaque circuit unique de Havona. (14:1.11)
+	Les Sept Esprits des Circuits de Havona coordonnent les affaires célestes dans chacun des circuits parfaitement équilibrés et exquisément organisés, représentant un aspect spécialisé de l'Esprit Infini dans chacun. (14:1.9) (17:0.11) (17:5) (26:2.6)
+	Un Directeur du Recensement est en poste sur chaque circuit à l'intérieur de Havona, sous la juridiction des Anciens des Jours, avec sept Directeurs opérant au total. (24:2.3)
+	Les exigences de reconnaissance sur chaque circuit de l'univers central servent de jalons aux pèlerins ascendants dans leur voyage vers l'accomplissement spirituel et l'admission éventuelle au Corps de la Finalité au Paradis. (14:5.4) (26:5.4)
 création de Havona
-	Les architectes du Maître Univers ont peut-être contribué à la planification de (31:9.4)
-	par le Père et le Fils Éternel (6:1.6) (32:3.1)
-	par l'Esprit Infini (0:3.22) (0:11.1) (8:1.4,7) (105:2.7)
-	par la Trinité (14:2.2)
-	éternisé en même temps que l'Esprit Infini (8:1.7)
-	projeté par le Père avec le Fils et dans l'Esprit (54:2.1)
-Don du Fils Éternel en (7:5.5-7)
+	Les Architectes du Maître Univers, y compris les trois maîtres planificateurs et administrateurs absonites de la deuxième extériorisation de l'Architecte, ont peut-être contribué à la planification du Niveau de Havona. (31:9.4)
+	Le Fils Éternel, cocréateur avec le Père Universel, a créé l'univers central de Havona. (6:1.6) (32:3.1)
+	« Dans cette transaction originelle par l'Esprit Infini, le Père a réalisé la réalisation de la personnalité en tant que Père Éternel du Fils Originel et Source Éternelle de l'Ile du Paradis. » (0:3.22) (0:11.1) (8:1.4,7) (105:2.7)
+	L’ordre d’organisation de l’énergie dans Havona est triple, par la Trinité, alors que dans les univers évolutifs de l’espace, il est double. (14:2.2)
+	L’Esprit Infini s’éternise en même temps que la naissance des mondes de Havona, se déitisant en Créateur Conjoint. (8:1.7)
+	Dieu a projeté Havona éternel avec le Fils et dans l’Esprit, établissant un modèle de participation coordonnée à la création – partage pour tous les Fils et Filles de Dieu. (54:2.1)
+L'effusion du Fils Éternel à Havona était transcendantale, ajoutant à l'expérience de tous les habitants et pèlerins. (7:5.5-7)
 fonction de Havona
-	base d'une confiance absolue dans le Père (14:6.12)
-	tampon entre le Paradis absolu et les créations finies; illustre le niveau absonite (105:7.2)
-	créé pour la satisfaction de Dieu (4:0.2)
-	noyau de puissance éternelle pour toute expansion de l'univers (14:6.10)
-	illustre l'unité future-éternelle du Suprême (14:6.24)
-	dernier terrain d'essai pour les ascendeurs (14:3.4)
-	future école de finition pour les espaceurs extérieurs (14:6.41)
-	Le développement complet de H. nécessite des superunivers (32:3.14-15)
-	laboratoire mental des créateurs de l'mental cosmique (14:6.20)
-	modèle pour tous les univers (4:0.2) (11:9.6) (14:4.15) (32:3.3-4) (44:0.13)
-	futurs citoyens potentiels (19:6.4-7)
-	but de Havona (4:0.2) (14:6)
-	satisfactions accordées à divers êtres (14:6)
-	source de surcontrôle stabilisant les univers locaux (14:6.29)
-	mondes de formation des hautes personnalités originaires du Paradis et de Havona (14:3.4)
-	atelier et terrain de jeu des finalitaires (14:6.39)
-Dieu est visiblement présent dans (3:1.6)
-mondes individuels de Havona
-	disposés dans un plan de 7 circuits concentriques (14:1.9-10)
-	chacun dirigé par un Éternel des Jours (14:3.3) (15:2.9)
-	chaque monde est totalement différent de tout autre monde (14:5.6) (18:2.4)
-	se succèdent dans une procession linéaire et ordonnée (14:1.10)
-	esprit différent sur chaque sphère (14:6.20)
-	un Censeur Universel assigné à chacun (19:4.2)
-L'Esprit Infini est la présence personnelle du ministère (8:4.3) (16:2.3)
-la vie à Havona (14:5)
-	les ascendeurs n'utilisent actuellement que 1% de la capacité; les finalitaires utilisent 1/10 de 1% (14:3.5)
-	les ascendeurs passent du temps sur chaque monde (18:2.4) (24:6.3)
-	diffère à bien des égards de Grandfanda (24:7.9)
-	l'harmonie est la parole de (44:1.15)
-	règles de conduite intrinsèquement naturelles (14:5.3)
-	peu besoin de langage (44:4.3)
-	l'esprit est absonite sur (42:10.7)
-	pas de gouvernement, de tribunaux ou de législatures, seulement une direction administrative (14:3.1-2)
-	pas de limite de temps fixée pour le passage des pèlerins (26:3.2)
-	le même guide diplômé reste avec le pèlerin tout au long du voyage (24:6.3)
-	les supernaphins secondaires sont des anges de (26:1.12) (26:2.4-6)
-	le péché n'a jamais eu lieu (14:2.9)
-	la formation est qualitative, quantitative et expérientielle (26:5.4)
+	Le Fils Éternel est la base d’une confiance absolue dans le Père. (14:6.12)
+	Havona sert de tampon entre le Paradis absolu et les créations finies, illustrant un niveau absonite d'existence transcendantale qui est de nature surévolutive et surexpérientielle. (105:7.2)
+	Havona a été créé uniquement pour la satisfaction de Dieu. (4:0.2)
+	Le Dieu des univers favorise Havona et le Paradis comme noyau de puissance éternel pour l'expansion de l'univers. (14:6.10)
+	« Havona illustre l'unité future et éternelle du Suprême en unifiant les potentiels de pouvoir du Tout-Puissant avec la nature spirituelle. » (14:6.24)
+	Les milliards de sphères de l'univers central constituent le terrain d'essai final pour les créatures ascendantes dans le grand plan de l'ascension des créatures. (14:3.4)
+	Havona, la future école de fin d'études pour les espaceurs extérieurs, continuera à servir d'univers de formation pour les êtres absonites de tous les âges de l'univers. (14:6.41)
+	Le plein développement de Havona nécessite des superunivers pour que la créature évolutionnaire perfectionnée atteigne la suprématie du service et pour que l'univers central parfait fournisse l'entraînement final. (32:3.14-15)
+	Les mondes de Havona servent de laboratoire mental aux créateurs de l’esprit cosmique, façonnant l’intellect de chaque créature existante. (14:6.20)
+	L'univers central de Havona sert de magnifique modèle à tous les univers, existant principalement pour le plaisir des Créateurs infinis. (4:0,2) (11:9,6) (14:4,15) (32:3,3-4) (44:0,13)
+	Les futurs citoyens possibles de Havona pourraient inclure des univitatia, de futurs types de mortels issus de superunivers et de nouvelles aristocraties spirituelles des univers extérieurs. (19 :6.4-7)
+	Le but de Havona est la satisfaction de la nature divine, servant de modèle de création pour tous les univers et d'école de finition pour les pèlerins en route vers le Paradis, existant finalement principalement pour le plaisir et la satisfaction des Créateurs parfaits et infinis. (4:0,2) (14:6)
+	Havona est au service de divers êtres, contribuant à leur satisfaction à travers diverses activités. (14:6)
+	Les Fils Créateurs reconnaissent que la création centrale est la principale source de contrôle excessif, stabilisant leurs univers locaux, tandis que la présence du Suprême et de l'Ultime à Havona renforce encore cette compréhension. (14:6.29)
+	Les milliards de sphères de l'univers central sont les terrains d'entraînement des créatures ascendantes des mondes évolutionnaires, les guidant vers leur résidence ultime au Paradis. (14:3.4)
+	« Le paradis est l'atelier et le terrain de jeu des finalitaires, et tout mortel connaissant Dieu aspire à en être un. » (14:6.39)
+L’omniprésence de Dieu n’est visiblement présente qu’au Paradis et dans l’univers central, avec un large éventail de manifestations à travers divers canaux. (3:1.6)
+mondes pour célibataires de Havona
+	Les milliards de mondes de Havona sont disposés sur un plan de 7 circuits concentriques entourant les satellites du Paradis. (14:1.9-10)
+	Les Éternels des Jours résidents, dirigés par un Éternel des Jours, assurent l'administration merveilleusement parfaite et divinement efficace de Havona et de ses milliards de mondes. (14:3.3) (15:2.9)
+	Dans la vaste création centrale de Havona, chaque monde est une originalité rafraîchissante, totalement différente de tout autre monde. (14:5.6) (18:2.4)
+	Les mondes sur les circuits planétaires de Havona se suivent dans une procession linéaire ordonnée. (14:1.10)
+	Dans les mondes de Havona, l’esprit diffère sur chaque sphère, servant de modèle à l’intellect de toutes les créatures. (14:6.20)
+	Un Censeur Universel est stationné sur chacun des milliards de mondes de l'univers central, rattaché à l'administration planétaire de l'Éternel des Jours résident. (19:4.2)
+L’Esprit Infini exerce personnellement son ministère à Havona, servant de modèle d’inspiration pour tous les êtres de l’univers divin. (8:4.3) (16:2.3)
+La vie à Havona (14:5)
+	Seule une petite fraction de la capacité planétaire est actuellement utilisée pour faire avancer le plan universel d’ascension mortelle du Père. (14:3.5)
+	Les ascendants passent du temps sur chaque monde sur leur chemin vers l'intérieur à travers Havona jusqu'au Paradis, chacun étant unique et exclusif dans son architecture, son embellissement, ses structures et ses créations. (18:2.4) (24:6.3)
+	Havona maintenant traversé par les mortels ascendants diffère à bien des égards de l'univers central tel qu'il était avant l'époque de Grandfanda, démontrant les modifications initiées par l'Être Suprême en réponse à l'arrivée du premier de ses enfants expérientiels. (24:7.9)
+	« L'harmonie est un langage universel à Havona pour les hommes, les anges et les esprits, avec le pouvoir de transformer tout un monde. » (44:1.15)
+	À Havona, les règles de conduite intrinsèquement naturelles révèlent la raison de la droiture et la règle de la justice, incarnant l’équité. (14:5.3)
+	Dans l’univers central, le langage n’est guère nécessaire, car une parfaite compréhension règne entre les Dieux. (44:4.3)
+	Sur Orvonton, l'esprit est fini ; à Havona, absonite ; sur le Paradis, absolu. (42:10.7)
+	Dans l’univers central de Havona, seule une direction administrative est nécessaire car il n’y a aucun besoin de gouvernement, de tribunaux ou de législatures parmi les êtres de perfection native. (14:3.1-2)
+	Les pèlerins ascendants des sept superunivers passent par Havona sans limite de temps définie. (26:3.2)
+	Le Guide Diplômé reste avec le pèlerin tout au long de son voyage à travers les sept circuits des mondes de Havona. (24:6.3)
+	« Les supernaphim secondaires sont des anges des sept circuits planétaires de Havona, créés par les Maîtres Esprits. » (26:1.12) (26:2.4-6)
+	Le péché n’a jamais eu lieu dans l’univers spirituellement parfait de Havona. (14:2.9)
+	La formation dans l'univers central est quantitative, qualitative et expérientielle, englobant les aspects intellectuels, spirituels et suprêmes pour les pèlerins des différents cercles de Havona. (26:5.4)
 nature et constitution
-	3 Architectes du Maître Univers se coordonnent (31:9.4)
-	Les 7 groupes de vie fondamentaux (14:4.1-8)
-	7 formes d'énergie; énergies triples, 1000 éléments chimiques (14:2) (56:1.1)
-	adjudants de (30:1.59)
-	univers central parfait et éternel (0:0.5) (8:3.1) (12:1.10-11) (14:0.1)
-	cf: sphères architecturales (14:2) (56:1.1)
-	composé d'un milliard de mondes parfaits encerclant le Paradis (8:1.4) (12:1.10) (14:0.1) (14:4.15) (18:2.1) (26:3.1)
-	les systèmes énergétiques sont trinitaires (11:8.7) (14:2.2) (42:2.16)
-	du point de vue fini, la réalité commence avec l'apparition de Havona (8:1.9) (105:2.7)
-	Havona est et a toujours été; il est existentiel (116:0.3)
+	Les trois Architectes du Maître Univers coordonnent le milliard de sphères parfaites de Havona. (31:9.4)
+	Il existe sept groupes de vie de base sur les mondes de Havona, chacun existant en trois phases distinctes, divisées en soixante-dix divisions majeures et mille divisions mineures, comprenant les formes matérielle, morontielle, spirituelle, absonite, ultime, coabsolue et absolue. (14:4.1-8)
+	Havona se compose de 1000 éléments chimiques et de 7 énergies triples, un univers de sphères réelles avec une organisation énergétique unique. Comparez cela avec les sphères architecturales en suivant les liens. (14:2) (56:1.1)
+	Les Douze Adjudants de Havona opèrent au sein de ses circuits. (30:1.59)
+	L’univers central parfait et éternel de Havona est le noyau de toute création, entouré d’un milliard de sphères de perfection sublime. (0:0.5) (8:3.1) (12:1.10-11) (14:0.1)
+	Le Paradis, en tant que source réelle de tous les univers matériels, fonctionne avant l'espace et le temps, avec son référentiel ultime dans l'espace et son révélateur et régulateur dans le temps, en parfaite coordination avec les sphères architecturales de Havona. (56:1.1)
+	Havona est un univers divin composé d'un milliard de mondes parfaits entourant le Paradis, gouverné par les Éternels des Jours et dirigé par les Personnalités Suprêmes de la Trinité. (8:1.4) (12:1.10) (14:0.1) (14:4.15) (18:2.1) (26:3.1)
+	Les systèmes énergétiques de Havona, étant trinitaires, révèlent un ordre unique d'organisation énergétique que l'on ne trouve pas dans les univers évolutionnaires de l'espace. (11:8.7) (14:2.2) (42:2.16)
+	Du point de vue fini, l'apparition de Havona marque le véritable début de la réalité, comme en témoignent l'Esprit Infini et la nature éternelle de l'univers central. (8:1.9) (105:2.7)
+	Havona est un royaume existentiel non affecté par la croissance, contrairement au grand univers où la croissance expérientielle est la marque de l'évolution. (116:0.3)
 	Énergie Havona | triata
-	les plus grandes sphères habitées du grand univers (14:3.6)
-	matière et esprit intrinsèquement harmonieux sur (116:6.7)
-	pas de décomposition ou de mort cellulaire dans (14:4.9)
-	rivières et lacs réels (14:3.7)
-	séparation spatiale des superunivers (41:0.2)
-	le jour standard est de 1000 années Urantia; durée du circuit intérieur pour faire le tour du Paradis (14:1.12-13)
-	les stimuli de Havona n'exciteraient pas les sens humains (14:2.4)
-	avec des corps de gravité sombre, la masse dépasse largement celle des 7 superunivers (12:1.4)
+	« Les plus grandes sphères habitées de Havona dans le grand univers présentent une construction planétaire unique, utilisant d'immenses corps de gravité sombres pour atteindre un équilibre et une harmonie physiques parfaits, avec l'aide de l'antigravité pour l'organisation matérielle et spirituelle. » (14:3.6)
+	« Dans les sept superunivers, il existe un large fossé entre l'énergie cosmique et l'esprit divin ; cependant, à Havona, la matière et l'esprit sont naturellement harmonieux. » (116:6.7)
+	À Havona, il n’y a ni décomposition ni mort cellulaire, seulement transmutation et transformation. (14:4.9)
+	Les véritables rivières et lacs ne sont qu'un aperçu de la beauté et de la grandeur inimaginables trouvées dans l'architecture, l'éclairage, le chauffage, l'embellissement biologique et artistique des sphères de Havona. (14:3.7)
+	La division de Havona des superunivers dans l’espace ne correspond pas aux frontières administratives claires du grand univers. (41:0.2)
+	Le jour standard à Havona équivaut à 1000 ans sur Terre et est dérivé du temps nécessaire au circuit intérieur pour orbiter autour du Paradis. (14:1.12-13)
+	Les stimuli de Havona rendraient un Urantien dépourvu de sens s'il y était transporté. (14:2.4)
+	Dans l’Univers Central de Havona, les corps à gravité sombre dépassent la masse des 7 superunivers. (12:1.4)
 habitants de Havona
-	Après la création des univers du temps et de l'espace, chaque millier de mondes de Havona est supervisé par un Centre de Havona, un être chargé de contrôler et de réguler l'énergie de manière parfaite. (29:2.12)
-	Il y a deux milliards et soixante-dix Fils Stationnaires de la Trinité stationnés à Havona (19:4.8)
-	Les citoyens du Paradis sont arrivés pour la première fois à l'époque de Grandfanda (26:5.1)
+	À Havona, un million de Centres Havona supervisent chacun mille mondes, assurant une régulation et un contrôle parfaits de l'énergie dans l'univers divin. (29:2.12)
+	À Havona, il y a deux milliards et soixante-dix Fils Stationnaires de la Trinité, qui font partie du grand corps des administrateurs et dirigeants de la Trinité. (19:4.8)
+	Les Citoyens du Paradis et les aides pèlerins sont arrivés à Havona à l'époque de Grandfanda pour accueillir les ascendeurs dans l'univers central. (26:5.1)
 perfection de Havona
-	états énergétiques et spirituels en parfait équilibre (7:2.2)
-	seule agrégation parfaite et établie de mondes; non évolutive (14:0.2) (32:3.1)
-	révélation parfaite du Paradis (11:9.5) (115:3.14)
-	création limitée par la perfection (118:0.13)
-	la perfection exclut la possibilité de disharmonie (10:6.17)
-les sphères sacrées du Paradis émettent une lumière spirituelle (13:0.3-4)
-Les sept circuits des esprits d'Havona envahissent; ils ne font pas partie de l'original
-univers modèle (26:2.6)
-L'Être suprême fonctionne à Havona en tant que personnalité spirituelle (116:0.5)
+	À Havona, les états énergétiques et spirituels existent en parfait équilibre, reflétant l'harmonie spirituelle exquise de la création éternelle. (7:2.2)
+	Havona est l'univers ultime, divin et non évolutif, créé par la pensée et la parole du Fils Éternel pour les Déités éternelles. (14:0.2) (32:3.1)
+	Havona est la révélation parfaite du Paradis, mettant en valeur le modèle maître de l'absolu des modèles qui existent dans le cosmos. (11:9.5) (115:3.14)
+	Havona est une création limitée par la perfection qui étend la destinée cosmique et la libération dans des superunivers évolutionnaires. (118:0.13)
+	À Havona, la perfection assure une harmonie totale qui transcende toutes les possibilités de disharmonie dans l'univers central. (10:6.17)
+Les sphères sacrées du Paradis émettent une lumière spirituelle vers tous les royaumes de l'univers, y compris Havona et les sept superunivers. (13:0.3-4)
+Les Sept Esprits des Circuits de Havona imprègnent ; ne font pas partie de l'original
+Les Sept Esprits des Circuits supervisent les sept circuits planétaires de Havona, chacun étant une création au sein de l'univers modèle. (26:2.6)
+L’Être suprême fonctionne comme une personnalité spirituelle à Havona, tandis que ses autres fonctions dans l’univers restent incertaines. (116:0.5)
 
-Centres de Havona | | | ORDER |
-dans le registre de personnalité d'Uversa (30:2.94)
-non requis avant la création des superunivers (29:2.12)
-Centres Suprêmes de Pouvoir; l'un supervise 1000 mondes de Havona; 1 million de mondes créés (29:2.12)
+Centres de Havona; centres de Havona | | | ORDER | OK
+Les registres de personnalité dans Uversa suivent les centres de Havona. (30:2.94)
+Les centres de pouvoir à Havona n’étaient pas nécessaires avant la création des superunivers, mais depuis lors, un million de centres ont supervisé chacun mille mondes, assurant une perfection du contrôle de l’énergie sans équivalent dans le cosmos. (29:2.12)
+Un million de centres de Havona supervisent chacun mille mondes, assurant la perfection de la régulation de l’énergie dans l’univers divin. (29:2.12)
 
-méthode graphique de Havona | | | |
-quantités prodigieuses d'informations assimilées par; utilisées au Paradis (26:3.8) (27:6.4)
+méthode graphique de Havona; technique graphique supérieure de Havona | | | | OK
+Les quantités prodigieuses d'informations assimilées par les coordinateurs de renseignement sont utilisées au Paradis grâce à la méthode du graphe d'Havona. (26:3.8) (27:6.4)
 
-natifs de Havona | (14:4) (19:6) | | ORDER |
-acquérir la compréhension du Suprême (117:6.14)
-acquérir de l'expérience grâce au contact avec les ascendeurs (19:6.2)
-dans les registres de personnalité (30:1.21) (30:2.35) (30:2.124)
-peut fusionner avec les fragments du Père (19:6.3)
+natifs de Havona; habitants des mondes de Havona | (14:4) (19:6) | | ORDER | OK
+Les natifs de Havona harmonisent leurs points de vue et comprennent le Suprême par le biais d’interactions avec les pèlerins du Paradis et des superunivers. (117:6.14)
+Par le contact avec les ascendeurs, les natifs de Havona et les mortels ascendants développent une amitié profonde et éternelle qui compense l’appauvrissement spirituel et surmonte les handicaps expérientiels. (19:6.2)
+La personnalité des natifs de Havona s’inscrit avec distinction. (30:1.21) (30:2.35) (30:2.124)
+« Les natifs de Havona, projetés dans la perfection divine, peuvent évoluer en statut en fusionnant avec les fragments du Père et en se qualifiant pour devenir membres du Corps Mortel de la Finalité. » (19:6.3)
 nature
-	êtres parfaits; sont la volonté de Dieu (3:5.16) (14:4.13) (19:6.2-3)
-	êtres éternels; ils n'ont jamais été créés (14:4.10) (105:7.2)
-	êtres modèles pour toute la création (14:4.15) (14:6.28)
-	Personnalités d'origine trinitaire projetées dans la perfection; non reproductrices (14:4.10) (19:6.3)
-plus d'apparition (19:0.9) (19:6.4)
-progression vers un statut supérieur (14:4.14) (19:6.3)
-Les sept esprits des circuits de Havona agissent comme des ajusteurs (17:5.5)
-signification de la vie (14:4.12-13)
-étrangers à la foi salvatrice (3:5.16-17) (19:6.2)
-le but suprême est d'entrer dans le corps finalitaire (19:6.3) (31:1)
-trinitisation par (22:7.9-13) (30:2.35)
-destin futur non révélé (19:6.3-4)
+	Les natifs de Havona, en tant qu’êtres parfaits, sont la volonté de Dieu. (3:5.16) (14:4.13) (19:6.2-3)
+	Les natifs de Havona, êtres éternels, n'ont jamais été créés, car ils sont la progéniture de la Trinité du Paradis et existent sans parents créatures. (14:4.10) (105:7.2)
+	Les natifs de Havona sont des êtres modèles pour toute la création, servant de possibilités de personnalité aux enfants mortels et aux êtres spirituels du Fils Créateur dans leur voyage du premier au septième circuit vers leur destinée divine au Paradis et à Havona. (14:4.15) (14:6.28)
+	Les natifs de Havona sont des êtres divins projetés dans la perfection par la Trinité du Paradis, sans parents créatures et incapables de se reproduire, évoluant dans un statut avec une destinée future potentielle non révélée. (14:4.10) (19:6.3)
+Aucun nouveau natif de Havona n'est créé, ce qui conduit à une diminution progressive de leur nombre à mesure qu'ils rejoignent le Corps du Paradis de la Finalité. (19:0.9) (19:6.4)
+Les natifs de Havona ont des destinées non révélées, présentes et futures, facultatives, avec une progression unique vers un statut supérieur au sein de l’univers central. (14:4.14) (19:6.3)
+Les Sept Esprits des Circuits de Havona sont apparentés aux Ajusteurs dans leur relation avec les habitants natifs, étant impersonnels et ne fusionnant pas de façon permanente avec leurs personnalités. (17:5.5)
+La signification des vies possédées par les natifs de Havona est unique à l’univers central et satisfait les idéaux parfaits de beauté et de vérité divines. (14:4.12-13)
+Les natifs de Havona, bien que naturellement courageux et loyaux, sont totalement étrangers à la foi salvatrice selon laquelle l’homme mortel s’élève du statut d’animal jusqu’aux portails du Paradis. (3:5.16-17) (19:6.2)
+Le but suprême des natifs de Havona est d’entrer dans le Corps des Mortels de la Finalité, accomplissant leur perfection divine par des dons expérientiels et un statut évolutif vers une destinée future d’éternité non révélée. (19:6.3) (31:1)
+La trinitisation par des parents unis donne naissance à de magnifiques fils trinitisés par des créatures, gardés en réserve sur Vicegerington pour les âges futurs de l’univers. (22:7.9-13) (30:2.35)
+La destinée future non révélée des natifs de Havona est un sujet de spéculation et de mystère, car ils peuvent évoluer en statut et être potentiellement rejoints par de nouveaux êtres dans l’univers central. (19:6.3-4)
 
-Pèlerins de Havona; Pèlerins de Havona | | mortels ascendants | ORDER |
-la réussite est le test final pour (26:5.5)
-arriver avec seulement la perfection du but (26:4.12-15)
-l'éducation personnelle des mortels ascendants commence comme (30:4.26-30)
-les ascendeurs arrivent sur le monde pilote du 7ème circuit; 4ème jubilé mortel (14:3.4) (14:5.4) (26:4.12) (27:7.8) (106:2.4)
-contact avec des fils trinitisés par des créatures (27:3.3)
-tâche définie sur chaque monde (14:3.4) (14:5.1) (26:3.2) (26:5.4)
-ne pas avoir de communion personnelle avec les Sept Esprits de Havona
-Circuits (17:5.4)
-Grandfanda fut le premier (7:5.8)
+Pèlerins de Havona; Pèlerins de Havona; pèlerins; pèlerins ascendants; pèlerin ascendant; pèlerins du temps; pèlerins de l'ascension | | mortels ascendants | ORDER | OK
+La réussite est le test final pour avancer dans les cercles de Havona. (26:5.5)
+En arrivant sur Havona, les pèlerins ne possèdent qu'une seule perfection : la perfection du but, telle que décrétée par le Père Universel pour être parfait comme Lui. (26 :4.12-15)
+L'éducation personnelle des mortels ascendants commence alors qu'ils se préparent pour le long vol vers Havona, où leur formation spirituelle est triple : intellectuelle, spirituelle et expérientielle. (30:4.26-30)
+Les Ascendants arrivent sur le monde pilote du 7ème circuit, célébrant le 4ème jubilé mortel de leur voyage vers la perfection dans l'univers central. (14:3.4) (14:5.4) (26:4.12) (27:7.8) (106:2.4)
+Les pèlerins de Havona bénéficient grandement du contact avec des fils trinitisés par des créatures, les aidant à s'adapter à divers êtres majestueux dans leur voyage pour devenir des Finalitaires Mortels. (27:3.3)
+Les pèlerins ascendants doivent accomplir une tâche spécifique sur chaque monde tout au long de leur voyage vers les divinités du Paradis. (14:3.4) (14:5.1) (26:3.2) (26:5.4)
+Les pèlerins de Havona découvriront les Sept Esprits de Havona Circutis mais n'entretiendront pas de communion personnelle avec eux (17:5.4)
+Grand-père fut le premier mortel à atteindre Havona, voyageant aux côtés du Michael originel, le premier-né du Fils Créateur. (7:5.8)
 si vaincu
-	avancer vers le 2e circuit; retourner aux superunivers (26:10.2-4)
-	certifié avoir réussi le test Havona avant de partir (26:10.3)
-	si on vous renvoie aux superunivers, allez vers celui qui vous est le plus propice; vous réussirez toujours à la 2e tentative (26:10.5)
-	renvoyé dans les superunivers avec un ange gardien ou un compagnon du Paradis (25:8.9-11) (26:3.9)
-jamais admis prématurément (14:2.9)
-plus d'examens après avoir atteint l'Esprit Infini (26:8.3)
-aucun statut résidentiel au Paradis jusqu'à l'achèvement de Havona,
-reste du temps terminal (26:7.4)
-aucune limite de temps pour la progression de (26:3.2) (26:5.5)
-voyages non résidentiels au paradis avec un associé superaphique,
-Guide diplômé et Serviteur de Havona (26:7.4)
-le même guide diplômé reste avec les pèlerins de Havona (24:6.3) (26:7.4)
-envoyer l'adoration au Fils Créateur à l'arrivée de Havona (30:4.28)
-traverser l'espace atteint sans ensupernaphimation (14:5.5)
-la volonté de croire est la clé de Havona (26:4.15)
-travailler pour atteindre le développement spirituel pour le Paradis (14:4.16)
+	Les pèlerins qui échouent avancent vers le deuxième circuit avant de retourner au service du superunivers, où les conseillers et les conseillères leur apportent réconfort et conseils dans leur voyage vers l'atteinte de la Divinité. (26:10.2-4)
+	Certifiés comme ayant réussi le test de Havona, les sujets déçus obtiennent le même statut dans les univers du temps que les aventuriers de la Déité qui réussissent. (26:10.3)
+	Les pèlerins de Havona qui réussissent réussissent toujours lors de leur deuxième tentative, trouvant leur accomplissement dans la mission éternelle après avoir laissé derrière eux les incertitudes du voyage évolutif. (26:10.5)
+	« Envoyés dans les superunivers avec un ange gardien ou un Compagnon du Paradis, les ascendants ne sont jamais abandonnés dans leur voyage d'aventure Déité à travers Havona. » (25:8.9-11) (26:3.9)
+Les méthodes et les moyens de sélection dans les univers du temps sont si parfaits et si divins que jamais une erreur ne s'est produite dans les archives de Havona ; aucune erreur n'a jamais été commise ; aucune âme ascendante n'a jamais été admise prématurément dans l'univers central. (14:2.9)
+Après avoir atteint l'Esprit Infini, les examens cessent et l'avancement est basé uniquement sur la spiritualité, l'échec n'étant pas considéré comme une défaite ou une honte aux yeux des Dieux. (26:8.3)
+Après avoir traversé le terminal le reste du temps, les pèlerins de Havona obtiennent enfin le statut de résident au Paradis. (26:7.4)
+Il n'y a pas de limite de temps pour la progression des pèlerins de Havona alors qu'ils parcourent les sept circuits de spiritualisation vers l'atteinte de la divinité. (26:3.2) (26:5.5)
+Les pèlerins de Havona commencent leur voyage vers le Paradis aux côtés du Guide Diplômé et du Havona Servital. (26:7.4)
+Le guide diplômé reste avec les pèlerins de Havona depuis leur arrivée jusqu'au point culminant du paradis, témoin de tout leur voyage céleste. (24:6.3)(26:7.4)
+À leur arrivée à Havona, les pèlerins adressent leur adoration au Fils Créateur pour leur bon voyage et leur carrière de filiation, avant de profiter d'une période tranquille d'observation et de rencontre avec d'autres ascendants. (30:4.28)
+« Les pèlerins de Havona traversent l'espace atteint sans ensupernaphimation au cours de leur voyage d'ascension. » (14:5.5)
+« La compréhension mène au Paradis, la croyance à Havona, et la coopération avec l'Ajusteur assure la survie évolutive. » (26:4.15)
+Les pèlerins de Havona progressent du septième au premier circuit pour travailler au développement spirituel du Paradis. (14:4.16)
 
-Servites de Havona | (25:1) | | ORDER |
-1/4 de ceux qui parviennent à l'étreinte divine ne reviennent jamais (24:7.3-6)
-7 Conciliateurs Universels créés pour chaque Serviteur (25:2.1-2) (25:3.15)
-138 milliards de personnes sont servies sur Uversa (25:1.7)
-assister et éventuellement devenir des guides diplômés (24:7.1-7) (25:1.5-7) (26:7.4)
-créatures des Sept Maîtres Esprits et des Sept Directeurs Suprêmes du Pouvoir (24:7.8) (25:1.2)
-les quatrièmes créatures discernent la réalité de l'esprit et de la matière; elles sont semi-physiques (25:1.3-4) (38:7.6) (44:0.17)
-aider les ascendeurs sur les capitales des superunivers (25:1.5,7)
-dans les registres de personnalité (30:1.78) (30:2.75)
-impliqué dans les phases de Suprématie (24:7.8)
-« créatures médianes » de Havona (25:1.1)
-le nombre est prodigieux; davantage est créé (25:1.3)
-ressembler à des Maîtres Esprits individuels (25:1.7)
-rester avec le même pèlerin tout au long de son ascension (26:10.5)
+Servites de Havona; Servite de Havona; servites | (25:1) | | ORDER | OK
+Un quart des Servites de Havona qui parviennent à l'étreinte divine ne reviennent jamais, leur carrière étant close lorsque de nouveaux Guides Diplômés apparaissent spontanément dans le circuit extérieur de l'univers de Havona. (24:7.3-6)
+Pour chaque Havona Servital créé, sept Conciliateurs Universels sont créés, un dans chaque superunivers, reflétant la mise en œuvre créatrice des Sept Maîtres Esprits. (25:2.1-2) (25:3.15)
+138 milliards de Servites de Havona servent sur Uversa, incarnant les prérogatives spirituelles de leur Maître Esprit assigné sur les mondes éducatifs des superunivers. (25:1.7)
+Les Servites de Havona aident les créatures ascendantes et deviennent finalement des guides diplômés, faisant preuve d'un attachement extraordinaire et d'une dévotion mutuelle au-delà de la compréhension humaine. (24:7.1-7) (25:1.5-7) (26:7.4)
+Les Servites de Havona, créés par les Sept Maîtres Esprits et les Sept Directeurs Suprêmes de Pouvoir, reflètent les potentialités évolutives des domaines espace-temps et sont impliqués dans les phases de Suprématie. (24:7.8) (25:1.2)
+Les Servites de Havona, quatrièmes créatures, discernent la réalité de l'esprit et de la matière et sont semi-physiques, un servital sur quatre étant de type plus physique. (25:1.3-4) (38:7.6) (44:0.17)
+Les Servites de Havona aident à monter sur les capitales des superunivers et fournissent une assistance sur les mondes éducatifs entourant les sphères sièges des sept superunivers. (25:1,5,7)
+Les Servites de Havona présentent leurs personnalités uniques dans les registres de personnalité. (30:1,78) (30:2,75)
+Les Servites de Havona, créés par la collaboration des Sept Maîtres Esprits et des Sept Directeurs de Pouvoir Suprême, sont intrinsèquement impliqués dans des phases de Suprématie, reflétant les potentialités évolutives des domaines espace-temps et subissant une transformation en réponse à la volonté de l'Esprit Infini. (24:7.8)
+Les serviteurs de Havona sont honorés pour leur service sacré dans l'univers central. (25:1.1)
+Le nombre prodigieux de servitals est en constante augmentation, apparaissant par groupes de mille au troisième instant suivant l'assemblée des Maîtres Esprits et des Directeurs Suprêmes du Pouvoir, une créature sur quatre étant de nature plus physique. (25:1.3)
+Les Servites de Havona ressemblent à des Maîtres Esprits individuels et servent sur les mondes éducatifs des superunivers, inspirant et s'occupant des créatures ascendantes du temps. (25:1.7)
+Les Servites de Havona restent avec le même pèlerin tout au long de leur ascension, offrant un séjour agréable et très rentable sur le deuxième circuit. (26:10.5)
 
 Havoners | | natifs de Havona | ORDER | OK
 
-chasseurs de têtes | | | |
-a permis aux femmes de racheter leur vie par l'abandon sexuel (89:7.4)
-les âmes des ennemis capturés (86:5.15)
-la chasse aux têtes expliquée par la croyance dans les fétiches du crâne (88:1.8)
-rendus esclaves des fantômes des meurtriers (87:2.8)
-pratiquait le culte du crâne, fournissait des échappatoires (89:0.1)
-les jeunes chasseurs de têtes ne peuvent se marier tant qu'ils n'ont pas une tête (82:3.5)
+chasseurs de têtes | | | | OK
+L'abandon sexuel aux chasseurs de têtes ou au service du temple constituait pour les femmes des temps anciens un moyen de rédemption, enraciné dans le lien entre le culte primitif et le sacrifice humain. (89:7.4)
+La chasse aux têtes était une méthode permettant de capturer l'âme des ennemis, dont certains pensaient qu'elle résidait dans la graisse corporelle ou dans les yeux. (86:5.15)
+La croyance aux fétiches du crâne a conduit à la pratique de la chasse aux têtes, les parties du corps humain telles que les ongles et les cordons ombilicaux étant considérées comme de puissants fétiches. (88:1.8)
+La coutume de créer des esclaves à partir des fantômes des meurtriers a motivé les hommes à devenir chasseurs de têtes. (87:2.8)
+Les chasseurs de têtes, pratiquant le culte du crâne, servaient de scapemen pour racheter l'homme primitif endetté envers les esprits pour le péché originel. (89:0,1)
+Les gagnants des concours sportifs entre chasseurs de têtes recevaient le premier prix du choix de l'épouse, le mariage exigeant la possession d'une tête, qui pouvait être achetée ou gagnée grâce à des concours d'énigmes. (82:3.5)
 
-maux de tête | | | |
-Les hommes-médecine ont trépané des crânes pour les guérir (90:4.4)
+mal de tête | | | | OK
+Les guérisseurs trépanaient les crânes pour guérir, maîtrisant finalement la chirurgie pour divers soulagements, y compris les maux de tête. (90:4.4)
 
-guérison | | santé; Jésus:miracles et guérisons | |
-traitement matériel et spirituel à l'hôpital de Bethsaïde (148:2.1)
+guérison; guérisons | | santé; Jésus:miracles et guérisons | | OK
+L'hôpital de Bethsaïda a fourni un traitement matériel et spirituel sous la direction d'Elman, avec la visite personnelle de Jésus et son impact profond sur chaque patient. (148:2.1)
 guérison spirituelle
-	impossible sauf en accord avec la volonté du Père (158:6.4)
-	Les apôtres de Jean oints d'huile pour (150:0.2)
-	le royaume ne peut pas être édifié (145:5.4)
-	Les œuvres de la foi ne viennent pas de l'incrédulité (158:5.2)
+	La guérison est impossible sauf en accord avec la volonté du Père. (158:6.4)
+	Les apôtres de Jean ont oint d'huile pour la guérison, tandis que les apôtres de Jésus ont refusé de se lier à une telle réglementation. (150:0,2)
+	Le royaume ne peut pas être construit uniquement sur des miracles et des guérisons physiques, comme Jésus l’a expliqué en détail à ses apôtres pendant plus de quatre heures, cherchant à leur faire comprendre les véritables raisons de sa mission. (145:5.4)
+	Les œuvres de foi ne naissent pas d’un doute sur l’incrédulité, mais d’une croyance sincère et d’une confiance dans la puissance de l’amour. (158:5.2)
 
-guérison au coucher du soleil | (145:3) | Jésus:miracles et guérisons | |
-683 guéris (145:3.10)
-la majorité n'a pas bénéficié spirituellement de manière permanente (145:3.14)
-seulement 7 des 683 inscrits à l'école des évangélistes (148:1.4)
-non voulu par Jésus (145:3.13)
+guérison au coucher du soleil; flot d’énergie curative; manifestation curative | (145:3) | Jésus:miracles et guérisons | | OK
+Au coucher du soleil, 683 personnes ont été guéries par la décision du Père de Jésus, avec des êtres célestes descendant pour les guérir dans un spectacle passionnant. (145:3.10)
+La majorité n’a pas bénéficié de bénéfices spirituels durables grâce à la démonstration de guérison au coucher du soleil. (145:3.14)
+Seuls sept des 683 inscrits à l’école pour évangélistes figuraient parmi le grand nombre de personnes guéries au coucher du soleil. (148:1.4)
+Jésus est devenu autant un médecin qu'un prédicateur en raison de la démonstration involontaire de guérison physique au coucher du soleil. (145:3.13)
 
-santé | | maladie; guérison; blessure; médecine | |
-résulte de l'intégration de la vérité, de la beauté et de la bonté (2:7.11)
-naît de l'unification de l'esprit et de la raison (100:4.3)
-première attention portée à la santé dans l'industrie des nations continentales (72:7.2)
-le bonheur fait du bien comme la médecine (131:2.9)
-Le personnel du Prince a promu l'hygiène, l'assainissement, la cuisine (66:5.17-22)
-expérience religieuse fortement influencée par (100:1.6) (110:6.4)
-résultat de causes matérielles (166:4.10)
-la joie spirituelle est un tonique pour (194:3.19)
+santé | | maladie; guérison; blessure; médecine | | OK
+La santé naît de l’intégration de la vérité, de la beauté et de la bonté dans l’expérience humaine, ce qui entraîne une efficacité dans la vie grâce à des systèmes énergétiques, d’idées et d’esprit unifiés. (2:7.11)
+La clé de la santé, de l’efficacité mentale et du bonheur se trouve dans l’unification des systèmes physique, mental et spirituel par la domination de l’amour. (100:4.3)
+La santé est au cœur de toute industrie, certains aspects étant considérés comme des priorités communautaires tandis que les problèmes de santé individuels et familiaux sont considérés comme des affaires personnelles ; l’intervention du gouvernement dans les questions de santé personnelle, y compris en médecine, devient de moins en moins courante. (72:7.2)
+« Un cœur joyeux fait du bien comme un remède ; cherchez le Seigneur de tout votre cœur et trouvez la joie au matin. » (131:2.9)
+Les gardiens de la santé de Lut promouvaient l’assainissement, l’hygiène primitive et la cuisine pour améliorer la santé publique. (66:5.17-22)
+Une âme consacrée à la volonté du Père céleste favorise la croissance spirituelle, influencée par la santé physique, le tempérament héréditaire et l’environnement social, tout en maintenant une harmonie trinitaire équilibrée de développement. (100:1.6) (110:6.4)
+La maladie et la santé sont le résultat de causes matérielles, et non de la faveur ou de la punition divine. (166:4.10)
+La venue de l’Esprit de Vérité purifie le cœur humain et conduit à la joie spirituelle, qui est un tonique pour la santé. (194:3.19)
 
-audition | | | |
-étendu dans la lumière et la vie (55:6.3)
+audition | | | | OK
+Au cours des époques sédentaires, l'évolution physique de l'homme continue, avec la vision et l'ouïe étendues à la lumière et à la vie pour une race magnifique. (55:6.3)
 
-ouï-dire | | | |
-parle, ne parle pas, on dit (138:8.4)
+ouï-dire | | | | OK
+Dites seulement ce que vous avez entendu de moi, ne remettez pas ce que j'ai ouï-dire. (138:8.4)
 
-foyer | | | |
-Autel familial andite (94:1.1)
-est devenu fétiche (88:2.3)
+foyer; âtre | | | | OK
+À l’époque de Melchisédek, l’autel familial andite était au cœur de la pratique religieuse en Inde, sous la domination des envahisseurs aryens. (94:1.1)
+Le foyer, autrefois une simple cheminée, est devenu un lieu fétiche sacré, incarnant le concept de la loi de Dieu. (88:2.3)
 
-coeurs | | | |
-trompeur par-dessus tout; source de mal (145:2.6) (153:3.5)
-loi écrite sur (145:2.5)
-que votre cœur ne se trouble point (180:3.4) (181:1.5)
-certains anciens croyaient que l'âme résidait dans (86:5.15)
+coeurs; cœur | | | | OK
+Le prophète a averti que le cœur humain naturel est trompeur par-dessus tout et souvent désespérément méchant, générant des pensées et des actes mauvais en lui. (145:2.6) (153:3.5)
+« La loi écrite sur les cœurs est un aspect clé de la nouvelle alliance prophétisée par Jérémie et accomplie dans la compréhension spirituelle. » (145:2.5)
+« Que votre cœur ne se trouble point, car je vous donne ma paix et je vous assure du triomphe par la foi. » (180:3.4) (181:1.5)
+Les anciens croyaient que l'âme résidait dans le cœur, parmi diverses autres parties du corps. (86:5.15)
 
-coeurs de conseil | | | |
-reflétant les coordinateurs de l'intelligence supraphysique (28:5.15)
-seconaphins secondaires, associés réfléchis des Conseillers Divins ;
-refléter de manière sélective le conseil de tous les êtres (28:5.15)
+coeurs de conseil; Cœur du Conseil | | | | OK
+Les Cœurs de Conseil, qui reflètent les coordinateurs de l'intelligence supraphique, fournissent aux Conseillers Divins une décision qui intègre la sagesse coordonnée des esprits les plus compétents. (28:5.15)
+Les Cœurs de Conseil reflètent de manière sélective la sagesse et les conseils coordonnés des esprits les plus compétents de tout le superunivers, censurés et révisés à la lumière des esprits supérieurs de Havona et du Paradis. (28:5.15)
 
-chaleur | | froid; température | |
-perturbe la matière et dissipe l'énergie (15:8.10) (42:4.7)
-dans les soleils (41:7.1-13) (41:9.1)
-mesure de l'activité électronique (42:4.5,7)
-surmonte la stabilité de la gravité (42:4.8)
-soulage la douleur (90:4.6)
-même chose que la lumière, l'électricité, le magnétisme, le chimisme, l'énergie et la matière (42:4.1-2)
-certains soleils brillent sans chaleur (15:6.8)
+chaleur | | froid; température | | OK
+La chaleur perturbe la matière et dissipe l’énergie dans la danse cosmique constante de la création et de la destruction. (15:8.10) (42:4.7)
+La température interne des soleils, même la vôtre, peut atteindre une température incroyable de 35 000 000 degrés en raison du bombardement intense de rayons X, qui finit par décomposer les atomes et les électrons. (41:7.1-13) (41:9.1)
+La chaleur est la mesure de l’activité électronique, fondamentale dans l’organisation créatrice des ultimatons en électrons dans la vaste étendue de l’espace. (42:4.5,7)
+La chaleur peut surmonter la stabilité de la gravité dans certains états solaires internes, mais ne peut pas reconvertir les ultimatons en énergie. (42:4.8)
+La chaleur soulage la douleur, comme l’homme primitif l’a découvert avec la lumière du soleil, l’argile chaude et les pierres chaudes. (90:4.6)
+La lumière, la chaleur, l’électricité, le magnétisme, la chimie, l’énergie et la matière sont toutes des manifestations de la même énergie éternelle, évoluant et se transformant à travers l’étendue infinie du cosmos. (42:4.1-2)
+« Les étoiles de l’espace existent dans mille états différents, certains soleils brillent sans chaleur. » (15:6.8)
 
-païen | | gentils | |
-pourquoi les païens se déchaînent; la vision étroite concentre les énergies (155:1)
+païen; païens | | gentils | | OK
+Les païens sont en colère avec une vision étroite de la vie, mais le royaume de Jésus est fondé sur l'amour et la miséricorde. (155:1)
 
-paradis | | vie éternelle; enfer; résurrection; survie (de la mort mortelle) | |
-également appelé Grand Au-delà (63:6.6-7)
-conçu comme
-	1er monde de demeures selon la plupart des prophètes (48:6.23)
-	7 mondes de demeures (15:7.5)
-	terre morte, patrie fantôme (87:1.1)
-	Jérusalem (46:0.1)
-	conceptions des sauvages (86:4.7)
-l'œil n'a point vu, l'oreille n'a point entendu, et l'esprit n'a point conçu (181:2.20)
-le ciel des cieux (48:6.23)
-Traditions juives dérivées du zoroastrisme (95:6.6)
-pas un repos sans fin mais une progression incessante (181:1.2)
-seuls les riches sont censés y aller directement (69:5.12)
-certains hommes sages ont eu une vision de (48:6.23)
+ciel; pseudo-ciel | | vie éternelle; enfer; résurrection; survie (de la mort mortelle) | | OK
+« Délivre-nous de la malédiction de la glace et sauve-nous de nos ennemis de la forêt, pour être reçus avec miséricorde dans le Grand Au-delà – également appelé Grand Au-delà. » (63:6.6-7)
+conceptions anciennes du ciel
+	La plupart des prophètes envisagent le premier monde des maisons comme le ciel, avec une progression vers les royaumes supérieurs culminant dans le « ciel des cieux ». (48:6.23)
+	Le ciel sur Jérusalem se compose des sept mondes des maisons de détention morontielle. (15:7.5)
+	La peur de la mort provenait de la croyance qu'elle libérerait un autre fantôme dans le pays des morts, se frayant finalement un chemin vers la patrie des fantômes. (87:1.1)
+	« Jérusalem, le siège céleste de Satania, se rapproche du statut céleste des traditions, malgré les expériences passées orageuses et les irrégularités causées par la rébellion et l'effusion. » (46:0.1)
+	Les conceptions des sauvages sur l’au-delà impliquaient une existence future semblable à celle-ci, sans malheur, sans croyance en l’enfer ou en la punition des mauvais esprits. (86:4.7)
+Pour Jésus et pour le Livre d'Urantia 
+	« Alors Jésus s’approcha de Philippe, qui, se levant, entendit ce message de son Maître : Philippe, tu as toujours désiré qu’on te montre, et très bientôt tu verras de grandes choses, car je prendrai grand plaisir à te montrer ce que l’œil n’a pas vu, ce que l’oreille n’a pas entendu, et ce que l’esprit mortel n’a pas conçu. » (181:2.20)
+	Considérez le ciel des cieux, où les mages ont eu la vision du plus grand royaume céleste au-delà des sept mondes des maisons. (48:6.23)
+	Le ciel et l’enfer dans la tradition juive ont été principalement influencés par les enseignements zoroastriens pendant la domination perse. (95:6.6)
+	La vie dans la création éternelle du Père n’est pas un repos sans fin, mais une progression incessante vers la perfection spirituelle dans le ciel des cieux. (181:1.2)
+	Seuls les riches étaient censés aller directement au ciel, car la pauvreté était devenue abhorrée par le développement de la civilisation et la valeur élevée de la propriété. (69:5.12)
+	Certains hommes sages ont eu une vision du ciel des cieux. (48:6.23)
 
-reproducteurs célestes | | artisans célestes | ORDER |
-artisans célestes (44:2)
+reproducteurs célestes | | artisans célestes | ORDER | OK
+Les artisans célestes du monde spirituel-morontiel reproduisent des expériences inconnues sur Urantia avec une valeur suprême et une signification éternelle. (44:2)
 types
 	# chanteurs
 	# travailleurs de couleur
-	#photographes lumineux
-	# cortèges historiques
+	# photographes lumineux
+	# dramaturges de l'histoire
 	# artistes prophétiques
 	# conteurs d'histoires de vie
 	# législateurs administratifs
 
-cortèges historiques | | | ORDER |
-reproducteurs célestes, artisans célestes (44:2.6)
+dramaturges de l'histoire | | | ORDER | OK
+Les metteurs en scène historiques sont des reproducteurs célestes et des artisans célestes qui reproduisent de manière spectaculaire les événements cruciaux des archives et de l'histoire de l'univers. (44:2.6)
 
-langue hébraïque | | | |
-alphabet des Philistins; peu d'écriture jusqu'à 900 av. J.-C. (74:8.9)
-distinctement andonite (80:8.2)
-Jésus a parlé (123:2.14) (123:5.1,4)
-pas une langue écrite au moment de l'exode d'Égypte (96:5.2)
-prononcé par les prêtres et les rabbins à l'époque de Jésus (121:6.2)
+langue hébraïque; hébreu | | | | OK
+Les Hébreux adoptèrent un alphabet des Philistins vers 900 av. J.-C., ce qui conduisit à une augmentation de l’écriture et à un glissement vers une histoire de création unifiée après la captivité babylonienne. (74:8.9)
+La langue hébraïque, typiquement andonite, était parlée par les descendants juifs d’Abraham, qui portaient la souche de leur ascendance andonite. (80:8.2)
+Jésus parlait couramment l’hébreu, l’ayant maîtrisé alors qu’il était jeune homme à Nazareth. (123:2.14) (123:5.1,4)
+L’œuvre de Moïse est peu documentée en raison de l’absence de langue hébraïque écrite pendant l’exode d’Égypte, les documents s’appuyant sur des traditions orales datant de plus d’un millénaire plus tard. (96:5.2)
+La langue hébraïque parlée par les prêtres et les rabbins à l’époque de Jésus a influencé la prédominance ultérieure du grec dans la culture juive. (121:6.2)
 
-Hébreux | | Juifs (anciens Hébreux); Judaïsme | RACE |
+Hébreux | | Juifs (anciens Hébreux); Judaïsme | RACE | OK
 
-Hébreux, Livre des; Livre des Hébreux | | | |
-l'auteur a compris la mission de Melchizédek (93:9.11)
-décrit la vie religieuse de Jésus (196:2.1)
+Hébreux, Livre des; Livre des Hébreux | | | | OK
+L’un des auteurs de l’épître aux Hébreux a reconnu la mission divine de Melchisédek, le comparant à Jésus en tant que prêtre pour toujours. (93:9.11)
+L’épître aux Hébreux décrit les enseignements religieux purs et simples de Jésus, incarnant la véritable essence du christianisme. (196:2.1)
 
-Hébron | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | PLACE |
-La capitale militaire d'Abraham (93:5.11) (93:9.2,4)
-siège d'Abner (150:0.1)
-Jean et Élisabeth ont déménagé à (135:2.3)
-Le roi David a établi son quartier général dans la ville non hébraïque de (97:9.7)
-la synagogue d'Hébron a nié la juridiction du Sanhédrin; elle a été détruite par le feu (154:2.1)
+Hébron | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | PLACE | OK
+Abraham
+	La capitale militaire d’Abraham à Hébron fut établie après une rupture amicale des relations avec Melchisédek, ce qui lui permit d’exercer un grand leadership en Palestine et d’exercer une influence spirituelle durable. (93:5.11) (93:9.2,4)
+Le roi David
+	David établit son quartier général dans la ville non hébraïque d’Hébron et fut déclaré roi de Juda, composée de tribus nomades ayant une forte croyance dans la propriété foncière et les idéologies claniques du désert. (97:9.7)
+Au temps de Jésus
+	Abner établit son quartier général à Hébron, où il rencontrait périodiquement les apôtres de Jésus à Bethsaïda. (150:0.1)
+	Jean et Élisabeth se rendirent à Hébron pour garder les moutons et fraterniser avec la confrérie nazaréenne dans le désert de Judée. (135:2.3)
+	La synagogue d’Hébron resta ferme, niant la juridiction du Sanhédrin malgré sa destruction par le feu. (154:2.1)
 
-race de Heidelberg | | | RACE |
-Andonites supérieurs et prolifiques (64:2.3)
+race de Heidelberg | | | RACE | OK
+La race de Heidelberg, descendante d'Andonites supérieurs et prolifiques, s'est répandue à travers l'Europe, depuis la glace du nord jusqu'aux Alpes du sud et à la Méditerranée. (64:2.3)
 
-hauteur | | | |
-Adam et Eve mesuraient 2,40 mètres (74:1.1)
-l'anxiété ne peut pas ajouter de largeur à (165:5.2)
-le géantisme chez les peuples verts et oranges (51:4.2)
+hauteur; taille; stature | | | | OK
+Adam et Ève, membres du corps supérieur des Fils Matériels de Jérusalem, mesuraient huit pieds. (74:1.1)
+L’anxiété ne peut pas ajouter une largeur de main à votre stature ni un jour à votre vie. (165:5.2)
+Des souches inattendues de gigantisme parmi les peuples verts et oranges montrent des variations aux dépens de la dotation originale, la stature mortelle ayant tendance à diminuer de l’homme rouge jusqu’à la race indigo. (51:4.2)
 
-Heldoue | (156:3.1) | | PLACE |
-Jésus est passé par la Phénicie
+Heldoue | | | PLACE | OK
+Jésus a visité Heldua pendant sa semaine d'enseignement et de prédication en Phénicie. (156:3.1)
 
-hélium | | | |
-dans les réactions d'énergie solaire (41:8.1)
+hélium | | | | OK
+Dans les réactions d'énergie solaire, l'hydrogène est converti en hélium par des chaînes de réactions nucléaires complexes impliquant le carbone comme catalyseur énergétique. (41:8.1)
 
-enfer | | vie éternelle; paradis | |
-dans la religion égyptienne (95:2.9)
-inventé pour punir les violateurs de tabous (89:2.4)
-Traditions juives dérivées du zoroastrisme (95:6.6)
-les primitifs n'avaient aucune idée de (86:4.7)
-les méchants détruits par le feu sous le mithraïsme (98:5.4)
+enfer; enfers | | vie éternelle; ciel | | OK
+Dans la religion égyptienne, les âmes armées de magie pouvaient se rendre au prétoire d’Osiris, en évitant les mauvais esprits, pour déterminer leur sort dans la béatitude ou l’enfer. (95:2.9)
+L’enfer fut inventé pour punir les violateurs de tabous qui étaient considérés comme commettant à la fois crime et péché. (89:2.4)
+Les traditions juives du ciel et de l’enfer, influencées par le zoroastrisme, incorporaient le concept d’un jour de jugement lié à la fin du monde. (95:6.6)
+Les primitifs n’entretenaient aucune idée de l’enfer ou d’un châtiment futur, considérant l’au-delà comme semblable à celui-ci sans malheur, ce qui les conduisait à préférer être tués avant la vieillesse. (86:4.7)
+Les méchants, détruits par le feu sous le mithraïsme, faisaient face au jugement pour la vie éternelle avec Mithra. (98:5.4)
 
 Hellènes | | Grecs | RACE | OK
 
 Empire hellénistique | | Grèce | | OK
 
-impuissance | (147:3.5) | | |
-conséquence de l'isolement de la personnalité (184:4.6)
-Les sentiments de la fortune (130:6)
-L'homme de la piscine de Bethesda a été victime de (147:3.5)
+impuissance | (147:3.5) | | | OK
+Le triomphe de Jésus sur l’isolement de la personnalité des créatures et son unité avec le Père offrent aux croyants la délivrance de l’impuissance et de la peur. (184:4.6)
+Les sentiments d’impuissance de la fortune furent transformés par Jésus en foi, en courage et en service dévoué à l’humanité, ce qui le conduisit à devenir un chef parmi les chrétiens de Crète. (130:6)
+L’homme à la piscine de Bethesda était victime de sa propre impuissance, mais lorsqu’il prit finalement son lit et marcha, il trouva la liberté. (147:3.5)
 
-ourlet | | | |
-Véronique toucha Jésus (152:0.2-3)
+ourlet; bord de ton vêtement | | | | OK
+Véronique toucha avec foi le vêtement de Jésus, et fut guérie. (152:0.2-3)
 
-hénothéisme | | | RACE |
-exaltation d'un dieu au-dessus de plusieurs (104:2.1)
-Les Hébreux sont passés par là (96:1.2,14)
+hénothéisme | | | RELIGION | OK
+Le monothéisme est né en réaction aux incohérences du polythéisme, passant des structures panthéoniques à la glorification hénothéiste d’un dieu par rapport aux autres, pour finalement aboutir au culte exclusif d’une divinité unique et suprême. (104:2.1)
+Les Hébreux sont passés par l’hénothéisme au cours de leur voyage du polythéisme au monothéisme, reconnaissant l’existence d’autres dieux mais croyant qu’ils étaient subordonnés à Yahweh. (96:1.2,14)
 
 poules | | volaille | | OK
 
-Henselon | | | PLACE |
-a perdu la plupart des Lanonandeks dans la rébellion (35:9.8)
-univers voisin de Nébadon (32:2.12)
+Henselon | | | PLACE | OK
+À l’exception d’Henselon, notre univers a perdu le plus grand nombre de Lanonandeks en rébellion à cause de leur liberté personnelle excessive dans leurs choix et leurs planifications. (35:9.8)
+Henselon est l’univers voisin de Nébadon dans le circuit superuniversel d’Orvonton. (32:2.12)
 
 hérauts de la résurrection | | corps de messagers (David Zébédée) | | OK
 
@@ -620,59 +621,59 @@ ermite | | | |
 Gautama aurait dû écouter l'ermite Godad (94:7.4)
 
 Hérode Agrippa | | | PERSON | OK
-craint, tua Jacques Zébédée (139:3.8)
+Hérode Agrippa craignait Jacques Zébédée plus que n'importe quel apôtre et le fit exécuter (139:3.8)
 > https://en.wikipedia.org/wiki/Herod_Agrippa
 
 Hérode Antipas | (152:6.5) (174:2.4) | | PERSON | OK
-tétrarque de Pérée et de Galilée
-animosité avec Pilate (185:3.8)
+Hérode Antipas était tétrarque de Pérée et de Galilée et a joué un rôle de premier plan dans la mort de Jean-Baptiste et de Jésus.
+avait une certaine animosité avec Pilate (185:3.8)
 personnage
-	Juif apostat; ne croyait en rien, craignait tout (154:0.2-3)
-	mauvaises actions (135:3.4)
-	Joseph préféra Hérode Antipas à Archélaüs (123:0.5)
-Les parents d'Hérode
-	Jacques de Safed était un fonctionnaire mineur de HA; Chuza était l'intendant (150:1.1) (158:4.3)
-	beaucoup de membres de la famille de HA croyaient en Jésus (147:0.2)
+	Hérode faisait partie de ces Juifs apostats qui, bien qu’ils ne croyaient en rien, avaient superstitieusement peur de tout (154 :0.2-3).
+	Leurs méfaits étaient largement connus à leur époque et dénoncés par Jean-Baptiste (135 : 3.4).
+	Joseph préféra Hérode Antipas au dangereux Archelaus, c'est pourquoi Joseph décida de vivre à Nazareth au lieu de Bethléem (123 : 0,5).
+personnes proches d'Hérode
+	Jacques de Safed était un officier subalterne d'Hérode Antipas ; Chuza était un administrateur (150:1.1) (158:4.3)
+	de nombreux membres de la famille d'Hérode Antipas croyaient en Jésus (147 :0.2)
 position
-	fils d'Hérode le Grand; gouverna la Galilée et la Pérée pendant la jeunesse et le ministère de Jésus (121:2.11)
-	frère du tétrarque Philippe (153:1.1)
-	tétrarque; méchant Iduméen (185:4.1-2)
-résidences
-	reconstruisit Sepphoris et les villes de Galilée (121:2.11) (185:4.1)
-	à Julias, Machaerus, Sepphoris, Tibériade (135:12.1-2) (150:3.1)
-	La demeure de Jérusalem était le palais asmonéen ou maccabéen (125:1.5) (128:3.5) (185:4.1)
+	Il était le fils d'Hérode le Grand et régna en Galilée et en Pérée pendant la jeunesse et le ministère de Jésus (121 : 2.11).
+	le tétrarque Philippe était son frère (153 : 1.1)
+	Sa position était celle de tétrarque, et non celle de roi ; Il est appelé un méchant Iduméen parce que sa famille est originaire de l'Idumée (185 : 4.1-2).
+désir du constructeur et des résidences
+	Hérode Antipas était comme son père un grand bâtisseur. Il reconstruisit de nombreuses villes en Galilée, y compris l'important centre commercial de Sepphoris (121 :2.11) (185 :4.1)
+	il avait des résidences à Julias, Macaerus, Sepphoris et Tibériade, cette dernière où il déplaça sa capitale (135 : 12.1-2) (150 : 3.1)
+	Sa résidence habituelle à Jérusalem était le palais hasmonéen ou Maccabée (125 : 1.5) (128 : 3.5) (185 : 4.1)
 concernant Jean-Baptiste
-	emprisonné, décapité Jean (135:10.2-3) (135:12.7) (144:0.2) (144:9.1) (175:1.4)
-	parlé avec Jean du royaume des cieux (135:12.3)
-	maudit par la peur de tuer Jean (185:4.3)
+	Jean emprisonné et décapité (135:10.2-3) (135:12.7) (144:0.2) (144:9.1) (175:1.4)
+	a parlé avec Jean à certaines occasions du royaume des cieux (135 : 12.3)
+	Hérode avait toujours peur d'avoir tué Jean et craignait que Jésus ne soit Jean ressuscité (185 : 4.3).
 concernant Jésus
-	Joseph tué alors qu'il travaillait au palais de HA à Sepphoris; Hérode Antipas a décrété qu'aucun salaire n'était dû (126:2.1) (126:5.7,11) (185:4.1)
-	Jésus appelé « renard » (126:5.7) (171:4.6)
-	envoyé des observateurs pour obtenir des informations sur Jésus; pour voir si Jésus était Jean ressuscité des morts (137:7.4) (145:3.12) (153:1.1)
-	Jésus a quitté la Galilée pour éviter (141:1.1)
-	savait que le Sanhédrin ne donnerait pas à Jésus un procès équitable (154:3.2)
-	a permis au Sanhédrin de saisir Jésus pour des accusations religieuses (148:7.3) (154:0) (154:3)
-	changement de cœur à l'égard de Jésus (156:6.8)
-	la résurrection de Lazare alarmée (171:4.5)
-	décide de tuer Jésus ou de le chasser (171:4.4-6)
-	Jésus a-t-il osé accomplir un miracle (185:4.2)
-	a revêtu Jésus d'un vieux manteau royal (185:4.3) (186:4.1)
-	Jésus refusa de parler à; ne voulait pas travailler pour (128:2.6) (185:4) (186:2.2)
+	Joseph meurt en travaillant dans le palais d'Hérode Antipas à Sepphoris ; Hérode Antipas a décrété qu'aucun salaire n'était dû à Joseph, ce qui a fait perdre à jamais à Jésus confiance en Hérode (126:2.1) (126:5.7,11) (185:4.1)
+	Jésus l'a traité de « renard » parce qu'on ne pouvait pas lui faire confiance (126 :5.7) (171 :4.6)
+	Hérode envoya des observateurs pour obtenir des informations sur Jésus ; pour voir si Jésus était Jean ressuscité des morts (137:7.4) (145:3.12) (153:1.1)
+	Jésus a quitté la Galilée pour éviter l'attention d'Hérode (141 : 1.1)
+	Hérode savait que le Sanhédrin ne donnerait pas à Jésus un procès équitable, mais il a autorisé son arrestation (154 : 3.2)
+	Il a permis au Sanhédrin de saisir Jésus pour des raisons religieuses (148:7.3) (154:0) (154:3)
+	Hérode a changé d'avis envers Jésus, lui envoyant un message selon lequel il ne serait pas arrêté s'il restait en dehors de la Galilée (156 : 6.8).
+	la résurrection de Lazare a grandement alarmé Hérode (171 : 4.5)
+	Puis il décida de tuer Jésus, même s'il le craignait et préféra l'effrayer (171 : 4.4-6).
+	lors de son interrogatoire, il a défié Jésus de faire un miracle (185 : 4.2)
+	a habillé Jésus d'une vieille robe royale (185:4.3) (186:4.1)
+	Mais Jésus a refusé de parler ; il savait que cela n'aurait aucun effet (128:2.6) (185:4) (186:2.2)
 > https://en.wikipedia.org/wiki/Herod_Antipas
 
 Hérode Archélaüs; Archelaüs | | | PERSON | OK
-déposé en l'an 7 après J.-C. (124:6.2)
-Joseph craignait qu'Hérode Archélaüs ne poursuive la politique de son père (123:0.5)
-palais à Jéricho (171:8.2)
-parabole des livres basée sur l'expérience de (171:8.2)
+Hérode Archelaus était un ethnarque de Judée, Samarie et Idumée. Il était le frère d'Hérode Antipas. Il fut déposé par Auguste le 6 après JC. (124:6.2)
+Joseph craignait qu'Hérode Archelaus ne suive la politique menaçante de son père (123 : 0,5)
+Archelaus avait son palais à Jéricho (171 : 8.2)
+La parabole des Mines est basée sur l'expérience d'Archélaüs et sa vaine tentative d'obtenir le gouvernement de la Judée (171 : 8.2).
 > https://en.wikipedia.org/wiki/Herod_Archelaus
 
 Hérode le Grand; Hérode | | | PERSON | OK
-père d'Archélaüs (123:0.5)
-père d'Hérode Antipas; bâtisseur du port de Césarée; mort en 4 av. J.-C. (121:2.11)
-d'Idumée (121:2.9)
-Le palais des Maccabées était la demeure de (185:4.1)
-gouverna la Judée; construisit des temples pour des dieux étrangers (121:2.9-10)
+Hérode le Grand était roi de Judée, de Galilée, de Samarie et d'Idumée. Il était le père d'Hérode Archelaus (123 :0.5)
+Il était le père d'Hérode Antipas ; construit le port de Césarée ; mort 4 avant JC (121:2.11)
+Il était originaire de l'Idumée (121 : 2,9)
+Le palais des Maccabées était la résidence habituelle de la famille d'Hérode le Grand à Jérusalem (185 : 4.1)
+Il dirigea la Judée avec la méfiance des Juifs, car Hérode n'était pas juif ; En fait, bien qu’il ait déclaré sa loyauté envers le cérémonial hébreu, il a construit de nombreux temples dédiés à des dieux étrangers (121 : 2.9-10).
 > https://en.wikipedia.org/wiki/Herod_the_Great
 
 Hérode l'Iduméen | | Hérode le Grand | PERSON | OK
@@ -682,7 +683,7 @@ a prôné la restauration de la dynastie hérodienne (137:7.10)
 unis dans un effort pour discréditer Jésus (174:2.1)
 
 Hérodiade | | | PERSON | OK
-L'épouse illicite d'Hérode Antipas; elle haïssait Jean-Baptiste (135:12.2,5-6)
+Hérodiade était l'épouse illégale d'Hérode Antipas ; Il détestait intensément Jean-Baptiste et a orchestré un plan qui a finalement causé la mort du prophète. (135:12.2,5-6)
 > https://en.wikipedia.org/wiki/Herodias
 
 Temple d'Hérode | | temple de Jérusalem | PLACE | OK
@@ -758,7 +759,7 @@ commandes (24:0.2)
 résidence dans les cercles de Jérusalem (46:5.21)
 
 Hildana | | | PERSON | OK
-femme adultère; son mari était un dégénéré de Nazareth (162:3)
+Hildana est le nom d'une femme anonyme qui apparaît mentionnée dans l'Évangile de Jean comme surprise en adultère, et qui allait être lapidée ; Son mari était un dégénéré de Nazareth, un homme connu de Jésus et qui lui avait causé des difficultés dans sa jeunesse. (162:3)
 
 collines | | montagnes | | OK
 
@@ -856,24 +857,24 @@ dans le temple de Jérusalem; seuls les grands prêtres et les nazaréens étaie
 Le jeune Jésus se demandait ce qui se cachait derrière le voile de séparation (125:2.5) (125:5.3)
 
 Saint-Esprit | | Esprit de vérité; renaissance spirituelle | PERSON | OK
-travail des esprits mentaux adjuvants antérieur au travail de (36:5.16)
-Jean-Baptiste a dit que Jésus baptiserait du Saint-Esprit (135:7.2) (135:9.4,7)
-L'instruction de Jésus concernant (138:5.2)
-L'implication du Maitre Esprit dans le don (16:4.13)
-les mortels peuvent savoir; être conscients de (9:2.5)
-recherche toutes choses (28:5.22)
-la raison spirituelle est un don de (101:3.2)
+Le Saint-Esprit est l'esprit de la présence personnelle du Divin Ministre, l'Esprit Mère d'un univers local. L’œuvre des Esprits aidants de l’esprit est antérieure à l’œuvre du Saint-Esprit et prépare son arrivée (36 : 5.16).
+Jean-Baptiste a révélé à ses disciples que même s'il baptisait avec de l'eau, Jésus les baptiserait du Saint-Esprit (135:7.2) (135:9.4,7)
+Jésus a instruit les apôtres sur la nature du Saint-Esprit mais ils ne l'ont pas entièrement compris (138 : 5.2)
+Le Maître Esprit d’Orvonton a probablement participé au don du Saint-Esprit (16 : 4.13)
+les mortels peuvent connaître la présence et être conscients de la présence du Saint-Esprit (9 : 2.5)
+Le Saint-Esprit « sonde toutes choses » et est capable de communiquer aux autres êtres tout ce qu’il sait de nous (28 : 5.22)
+La raison spirituelle, l'intelligence de l'âme, est la dotation du Saint-Esprit, le don de l'Esprit Créateur à l'homme (101 : 3.2)
 nature du Saint-Esprit
-	confiné à l'univers local (8:5.3)
-	circuit spirituel de l'Esprit Mère de l'univers local (8:5.3) (9:2.5) (15:9.13) (34:4.3,7) (36:5.16) (101:3.2) (103:0.1) (194:2.11-12)
-	n'habite pas les esprits individuels (34:5.6)
-	de plus en plus efficace lorsque les mortels obéissent aux directives divines (34:5.5)
-	octroi initial du supramental; octroi universel (92:0.4) (103:0.1)
-	permet au possesseur de choisir l'Ajusteur (34:5.4) (108:2.2)
-	plus efficace dans la lumière et la vie (55:6.4)
-cérémonies
-	baptême avec (137:8.10)
-	Cérémonie chrétienne accordant le Saint-Esprit accompagné du souffle au candidat (86:5.13)
+	Le Saint-Esprit est un circuit indigène limité à l'univers local (8 : 5.3)
+	représente le circuit spirituel de l'Esprit Mère de l'univers local (8:5.3) (9:2.5) (15:9.13) (34:4.3,7) (36:5.16) (101:3.2) (103:0.1) ( 194 : 2.11-12)
+	il n'habite pas dans les esprits individuels comme une entité isolée (34 : 5.6)
+	Le Saint-Esprit est de plus en plus efficace lorsque les mortels obéissent à la direction divine (34 :5.5)
+	C'est le don surmental initial ; accordé universellement (92:0.4) (103:0.1)
+	Cet Esprit permet à son possesseur de pouvoir choisir, consciemment ou non, la présence de l'Ajusteur (34 :5.4) (108 :2.2)
+	Son ministère est plus efficace dans les étapes de la lumière et de la vie ; Dans la quatrième étape, les mortels avancés parviennent à un contact conscient avec le Saint-Esprit (55 : 6.4).
+cérémonies associées
+	Jean-Baptiste a prêché un baptême d'eau, mais Jésus a annoncé un baptême du Saint-Esprit (137 :8.10).
+	L'ancienne cérémonie chrétienne du don du Saint-Esprit était accompagnée d'un souffle sur les candidats (86 : 5.13).
 > https://en.wikipedia.org/wiki/Holy_Spirit
 
 eau bénite | | | |
@@ -926,7 +927,7 @@ Les colonies andites (79:7.1)
 problèmes hydrauliques des agriculteurs en (79:8.6)
 
 Honen Shonin | | | PERSON | OK
-a enseigné le concept de Dieu dans le Bouddha Amida; la foi (94:12.2-3)
+Honen était un leader bouddhiste japonais qui enseignait le double concept de Dieu et de l'Absolu à travers la croyance au Bouddha Amida. Il a enseigné que l'âme peut atteindre le Nirvana grâce à une foi sincère et pure. (94:12.2-3)
 > https://en.wikipedia.org/wiki/Hōnen
 
 honnêteté | | fraude; mensonge; vérité | |
@@ -997,13 +998,13 @@ valeur
 Vishnou représenté avec une tête de cheval (85:3.4)
 
 Horus | | | PERSON | OK
-bataille avec Set (95:2.6)
+Horus était le dieu égyptien du ciel, fils d'Osiris et d'Isis. Dans sa bataille légendaire avec Seth, il perd un œil qui est ensuite restauré par le dieu Thot en crachant sur sa blessure, reproduisant une ancienne croyance dans le pouvoir curatif de la salive. (95:2.6)
 > https://en.wikipedia.org/wiki/Horus
 
 Osée | | | PERSON | OK
-prêché l'espoir et le pardon par la repentance plutôt que par le sacrifice (97:4.5-6)
-L'écriture secrète a commencé dans l'Ancien Testament (97:9.20)
-Le Père a parlé à travers (155:6.2)
+Osée est un prophète hébreu qui prêchait l'espoir et le pardon par la repentance plutôt que par les sacrifices (97 : 4.5-6).
+Les écrits secrets d'Osée et d'autres prophètes ont commencé l'Ancien Testament (97 : 9.20)
+Jésus a dit que le Père avait parlé dans le passé par l'intermédiaire de prophètes comme Osée (155 : 6.2)
 > https://en.wikipedia.org/wiki/Hosea
 
 hospitalité | | amitié | |

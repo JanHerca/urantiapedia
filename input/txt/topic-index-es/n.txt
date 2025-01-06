@@ -64,7 +64,7 @@ Nanek (Gurú) | | Gurú Nanek | PERSON | OK
 Noemí | | | PERSON | 
 novia en las bodas de Caná (137:3.6)
 
-Nápoles | (130:0.2) | | PLACE | 
+Nápoles | (130:0.2) | puertos | PLACE | 
 mendigo en Nápoles carecía de capacidad para responder (130:8.4)
 Claudio predicó en (130:8.1)
 Parada de Jesús en (130:8.4-5)
@@ -494,7 +494,7 @@ temía ser visto abiertamente con Jesús (142:6.1)
 Los seguidores de Jesús se reunieron en casa de (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 La visita de Jesús con (142:6)
 
-Nicópolis | (130:0.3) | | PLACE | 
+Nicópolis | (130:0.3) | puertos | PLACE | 
 fundada por Augusto para conmemorar Actium (133:2.5)
 
 policía nocturna | | | | 

@@ -80,7 +80,7 @@ Hanavard is the 67th Primary Lanonandek in Nebadon; he is a member of the higher
 handbreadth | | | | OK
 Jesus once said about anxiety: “Which of you by anxiety can add a handbreadth to your height or a day to your life?” (165:5.2)
 
-handicaps; handicap; limitations | | circumstances; environment; eugenics | | OK
+handicaps; handicap; limitations; Limitations | | circumstances; environment; eugenics | | OK
 how are compensated
 	deficiencies are inevitable on all levels of universe existence. (31:10.14)
 	if the psychic circles are not reached due to unavoidable handicaps, we are granted a parole on the mansion worlds to prolong our probationary period. We will be afforded additional time in which to prove ourselves. (112:5.6)
@@ -146,11 +146,12 @@ Haran | | | PLACE | OK
 Haran was a place of passage on the way to Salem where Abraham's family tarried for a while (93:5.4)
 > https://en.wikipedia.org/wiki/Harran
 
-harbors | | | | OK
-harbors named in The Urantia Book:
-* Alexandria | Alexandria; Antioch; Athens; Caesarea; Carthage; Charax; Corinth; Cyrene; Ephesus; Joppa; Lasea; Malta; Messina; Naples; Nicopolis; Paphos; Salamis; Syracuse; Tarentum; Troas
+harbors; seaports | | | | OK
+harbors named in The Urantia Book: | Alexandria; Antioch; Athens; Bethsaida; Caesarea; Carthage; Charax; Corinth; Cyrene; Ephesus; Joppa; Lasea; Malta; Messina; Naples; Nicopolis; Paphos; Salamis; Syracuse; Tarentum; Troas
+* Alexandria
 * Antioch
 * Athens
+* Bethsaida (fishing harbor of Capernaum)
 * Caesarea
 * Carthage
 * Charax
@@ -184,11 +185,11 @@ music | music
 	The gift of harmony is now very diluted in the current strains, which have little inheritance from Adam and Eve. Music is the universal language of angels. Harmony is the language of Havona (44:1.15)
 	Harmony, the music of the seven levels of melodious association, is the one universal code of spirit communication. Music, such as Urantia mortals understand, attains its highest expression in the schools of Jerusem, the system headquarters, where semimaterial beings are taught the harmonies of sound. Mortals do not react to the other forms of morontia melody and celestial harmony. (44:1.11)
 
-harmony supervisors | | | ORDER | OK
+harmony supervisors; Harmony Supervisors | | | ORDER | OK
 The Supervisors of Harmony are a corp of tertiary Supernaphim who are in charge in Havona of taking care that everything works smoothly and expeditiously. (26:3.4)
 Joys of Existence are reflectively attuned to the superaphic harmony supervisors above (28:5.16)
 
-harmony workers | | | ORDER | OK
+harmony workers; artists | | | ORDER | OK
 Harmony workers are a group of Celestial Artisans who deal with manipulating and organizing spiritual forces to make them visible to mortals. (44:7)
 
 harp | | | | OK
@@ -234,7 +235,7 @@ believers’ reaction to hatred
 	the sum of duty is vanquish hate by benevolence and love (131:4.6) (194:3.11-12)
 	When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about our souls, we may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every one who has dedicated the keeping of his soul to the indwelling spirit of the eternal God. (100:2.7)
 
-Havona | (14) | Eternals of Days; Havona natives; Havona pilgrims; Seven Spirits of Havona Circuits | PLACE | 
+Havona | (14) | Eternals of Days; Havona natives; Havona pilgrims; Seven Spirits of Havona Circuits | PLACE | OK
 Havona is the central universe that is at the center of all creation, a universe without beginning or end and perfect. At the center of Havona is the stationary Isle of Paradise, the geographic center of infinity and the dwelling place of God. (0:0.5)
 the awakening in Havona represents for us the celebration of the fourth mortal jubilee (27:7.8)
 When we mortals attain Havona, we are granted clearance for Ascendington, one of the Sacred Spheres surrounding Paradise, where we are most welcome, but we are not permitted to visit the other six sacred worlds. (13:2.6)
@@ -274,253 +275,250 @@ Havona circuits
 		pilot world of 7th Havona circuit
 			When we awake for first time in the central universe, we are received and domiciled on the pilot world of the seventh Havona circuit. (14:3.4) (14:5.4) (26:3.2) (26:4.12-13) (106:2.4)
 			The personality realities of the Supreme Being come forth from the Paradise Deities and on the pilot world of the outer Havona circuit unify with the power prerogatives of the Almighty Supreme coming up from the Creator divinities of the grand universe. (56:6.2) (106:2.4)
-circuits of Havona, generally 
-	rotate clockwise around Paradise (14:1.3)
-	each circuit has a headquarters planet (22:1.10)
-	each circuit has different length of year (14:1.11)
-	each circuit pervaded by one Spirit of Havona Circuits (14:1.9) (17:0.11) (17:5) (26:2.6)
-	one Census Director stationed on each circuit (24:2.3)
-	recognition requirements on each circuit (14:5.4) (26:5.4)
+circuits of Havona, generally
+	The clockwise processional of Paradise and Havona circuits rotate around Paradise. (14:1.3)
+	Adjusted ascendant mortals who reach Paradise and the Corps of the Finality undergo training on circuit headquarters planets before serving under the guidance of the Ancients of Days. (22:1.10)
+	Time is defined by the length of year on each unique Havona circuit. (14:1.11)
+	The Seven Spirits of the Havona Circuits co-ordinate celestial affairs throughout each of the perfectly balanced and exquisitely organized circuits, representing a specialized aspect of the Infinite Spirit within each. (14:1.9) (17:0.11) (17:5) (26:2.6)
+	One Census Director is stationed on each circuit within Havona, under the jurisdiction of the Ancients of Days, with seven Directors operating in total. (24:2.3)
+	Recognition requirements on each circuit in the central universe serve as milestones for ascending pilgrims on their journey towards spiritual attainment and eventual admission to the Corps of the Finality on Paradise. (14:5.4) (26:5.4)
 creation of Havona
-	Architects of Master Universe may have contributed to planning of (31:9.4)
-	by Father and Eternal Son (6:1.6) (32:3.1)
-	by Infinite Spirit (0:3.22) (0:11.1) (8:1.4,7) (105:2.7)
-	by the Trinity (14:2.2)
-	eternalized concurrently with Infinite Spirit (8:1.7)
-	projected by Father with Son and in the Spirit (54:2.1)
-Eternal Son’s bestowal in (7:5.5-7)
+	The Architects of Master Universe, including the three master planners and absonite administrators from the second Architect eventuation, may have contributed to the planning of the Havona Level. (31:9.4)
+	The Eternal Son, cocreator with the Universal Father, created the central universe of Havona. (6:1.6) (32:3.1)
+	“In this original transaction by Infinite Spirit, the Father achieved the realization of personality as the Eternal Father of the Original Son and the Eternal Source of the Isle of Paradise.” (0:3.22) (0:11.1) (8:1.4,7) (105:2.7)
+	The order of energy organization in Havona is threefold, by the Trinity, while in the evolutionary universes of space it is twofold. (14:2.2)
+	The Infinite Spirit eternalizes concurrently with the birth of the Havona worlds, deitizing as the Conjoint Creator. (8:1.7)
+	God projected eternal Havona with the Son and in the Spirit, establishing a pattern of co-ordinate participation in creation—sharing for all Sons and Daughters of God. (54:2.1)
+The Eternal Son's bestowal in Havona was transcendental, adding to the experience of all inhabitants and pilgrims. (7:5.5-7)
 function of Havona
-	basis for absolute confidence in Father (14:6.12)
-	buffer between absolute Paradise and finite creations; illustrates absonite level (105:7.2)
-	created for satisfaction of God (4:0.2)
-	eternal power nucleus for all universe expansion (14:6.10)
-	exemplifies future-eternal unity of Supreme (14:6.24)
-	final proving ground for ascenders (14:3.4)
-	future finishing school for outer spacers (14:6.41)
-	H.’s full development requires superuniverses (32:3.14-15)
-	mind laboratory of creators of cosmic mind (14:6.20)
-	pattern for all universes (4:0.2) (11:9.6) (14:4.15) (32:3.3-4) (44:0.13)
-	possible future citizens (19:6.4-7)
-	purpose of Havona (4:0.2) (14:6)
-	satisfactions afforded various beings (14:6)
-	source of overcontrol stabilizing local universes (14:6.29)
-	training worlds of high personalities native to Paradise and Havona (14:3.4)
-	workshop and playground of finaliters (14:6.39)
-God discernably present in (3:1.6)
+	The Eternal Son is the basis for absolute confidence in Father. (14:6.12)
+	Havona serves as a buffer between absolute Paradise and finite creations, illustrating an absonite level of transcendental existence that is superevolutional and superexperiential in nature. (105:7.2)
+	Havona was created solely for the satisfaction of God. (4:0.2)
+	The God of universes favors Havona and Paradise as the eternal power nucleus for universe expansion. (14:6.10)
+	“Havona exemplifies the future-eternal unity of the Supreme through unifying the power potentials of the Almighty with the spiritual nature.” (14:6.24)
+	The billion spheres of the central universe are the final proving ground for ascending creatures in the great plan of creature ascension. (14:3.4)
+	Havona, the future finishing school for outer spacers, will continue to serve as a training universe for absonite beings across all universe ages. (14:6.41)
+	Havona's full development requires superuniverses for the evolutionary perfected creature to attain supremacy of service and for the perfect central universe to provide final training. (32:3.14-15)
+	The Havona worlds serve as the mind laboratory for the creators of the cosmic mind, shaping the intellect of every creature in existence. (14:6.20)
+	The central universe of Havona serves as the beauteous pattern for all universes, existing primarily for the pleasure of the infinite Creators. (4:0.2) (11:9.6) (14:4.15) (32:3.3-4) (44:0.13)
+	Possible future citizens of Havona may include univitatia, future types of mortals from superuniverses, and incoming spiritual aristocracy of outer universes. (19:6.4-7)
+	The purpose of Havona is the satisfaction of the divine nature, serving as a pattern creation for all universes and a finishing school for pilgrims on their way to Paradise, ultimately existing primarily for the pleasure and satisfaction of the perfect and infinite Creators. (4:0.2) (14:6)
+	Havona serves various beings, contributing to their satisfaction through diverse activities. (14:6)
+	The Creator Sons recognize that the central creation is the primary source of overcontrol, stabilizing their local universes, while the presence of the Supreme and the Ultimate in Havona further reinforces this understanding. (14:6.29)
+	The billion spheres of the central universe are the training grounds for ascending creatures from the evolutionary worlds, guiding them towards ultimate residence on Paradise. (14:3.4)
+	“Paradise is the workshop and playground of finaliters, and every God-knowing mortal craves to be one.” (14:6.39)
+The omnipresence of God is discernably present only in Paradise and the central universe, with a wide range of manifestation through various channels. (3:1.6)
 individual worlds of Havona
-	arranged in one plane of 7 concentric circuits (14:1.9-10)
-	each directed by one Eternal of Days (14:3.3) (15:2.9)
-	every world wholly unlike any other world (14:5.6) (18:2.4)
-	follow each other in orderly linear procession (14:1.10)
-	mind different on each sphere (14:6.20)
-	one Universal Censor assigned to each (19:4.2)
-Infinite Spirit is personal presence of ministry (8:4.3) (16:2.3)
-life in Havona (14:5)
-	ascenders currently use only 1% of capacity; finaliters use 1/10 of 1% (14:3.5)
-	ascenders spend time on every world (18:2.4) (24:6.3)
-	differs in many respects since Grandfanda (24:7.9)
-	harmony is speech of (44:1.15)
-	inherently natural rules of conduct (14:5.3)
-	little need of language (44:4.3)
-	mind is absonite on (42:10.7)
-	no government, courts, or legislatures, only administrative direction (14:3.1-2)
-	no set time limit for pilgrims passage through (26:3.2)
-	same Graduate Guide stays with pilgrim throughout (24:6.3)
-	secondary supernaphim are angels of (26:1.12) (26:2.4-6)
-	sin has never occurred in (14:2.9)
-	training is qualitative, quantitative, and experiential (26:5.4)
+	The billion worlds of Havona are arranged in one plane of 7 concentric circuits surrounding Paradise satellites. (14:1.9-10)
+	The resident Eternals of Days, directed by one Eternal of Days, ensure the marvelously perfect and divinely efficient administration of Havona and its billion worlds. (14:3.3) (15:2.9)
+	In the vast central creation of Havona, every world is a refreshing originality, wholly unlike any other world. (14:5.6) (18:2.4)
+	The worlds on the Havona planetary circuits follow each other in an orderly linear procession. (14:1.10)
+	In Havona worlds, mind differs on each sphere, serving as the pattern for all creature intellects. (14:6.20)
+	One Universal Censor is stationed on each of the billion worlds in the central universe, attached to the planetary administration of the resident Eternal of Days. (19:4.2)
+The Infinite Spirit ministers personally in Havona, serving as an inspiring pattern for all beings in the divine universe. (8:4.3) (16:2.3)
+Life in Havona (14:5)
+	Only a small fraction of planetary capacity is currently utilized for furthering the Father's universal plan of mortal ascension. (14:3.5)
+	Ascenders spend time on every world on their way inward through Havona to Paradise, each unique and exclusive in its architecture, embellishment, structures, and creations. (18:2.4) (24:6.3)
+	Havona now traversed by ascending mortals differs in many respects from the central universe as it was before the times of Grandfanda, demonstrating modifications initiated by the Supreme Being in response to the arrival of the first of his experiential children. (24:7.9)
+	“Harmony is universal language in Havona for men, angels, and spirits, with the power to transform a whole world.” (44:1.15)
+	In Havona, the inherently natural rules of conduct reveal the reason of righteousness and the rule of justice, embodying fairness. (14:5.3)
+	In the central universe, there is little need of language, as perfect understanding prevails among the Gods. (44:4.3)
+	On Orvonton, mind is finite; in Havona, absonite; on Paradise, absolute. (42:10.7)
+	In the central universe of Havona, only administrative direction is necessary as there is no need for government, courts, or legislatures among beings of native perfection. (14:3.1-2)
+	Ascending pilgrims from the seven superuniverses pass through Havona without a set time limit. (26:3.2)
+	The Graduate Guide stays with the pilgrim throughout their journey through the seven circuits of Havona worlds. (24:6.3)
+	“Secondary supernaphim are angels of the seven planetary circuits of Havona, created by the Master Spirits.” (26:1.12) (26:2.4-6)
+	Sin has never occurred in the spiritually perfect universe of Havona. (14:2.9)
+	Training in the central universe is quantitative, qualitative, and experiential, encompassing intellectual, spiritual, and supreme aspects for the pilgrims on the various Havona circles. (26:5.4)
 nature and constitution
-	3 Architects of Master Universe co-ordinate (31:9.4)
-	7 basic life groups (14:4.1-8)
-	7 forms of energy; threefold energies, 1000 chemical elements (14:2) (56:1.1)
-	adjutants of (30:1.59)
-	central perfect eternal universe (0:0.5) (8:3.1) (12:1.10-11) (14:0.1)
-	cf: architectural spheres (14:2) (56:1.1)
-	comprised of 1 billion perfect worlds circling Paradise (8:1.4) (12:1.10) (14:0.1) (14:4.15) (18:2.1) (26:3.1)
-	energy systems are triune (11:8.7) (14:2.2) (42:2.16)
-	from finite viewpoint, reality begins with appearance of Havona (8:1.9) (105:2.7)
-	Havona is and always has been; is existential (116:0.3)
+	The three Architects of Master Universe co-ordinate the one billion perfect spheres of Havona. (31:9.4)
+	There are seven basic life groups on the Havona worlds, each existing in three distinct phases, divided into seventy major divisions and one thousand minor divisions, including material, morontial, spiritual, absonite, ultimate, coabsolute, and absolute forms. (14:4.1-8)
+	Havona consists of 1000 chemical elements and 7 threefold energies, a universe of actual spheres with unique energy organization. Compare that with the architectural spheres following the links. (14:2) (56:1.1)
+	The Twelvefold Adjutants of Havona operate within its circuits. (30:1.59)
+	The central perfect eternal universe of Havona is the core of all creation, surrounded by one billion spheres of sublime perfection. (0:0.5) (8:3.1) (12:1.10-11) (14:0.1)
+	Paradise, as the actual source of all material universes, functions prior to space and before time, with their ultimate repository in space and their revealer and regulator in time, in perfect coordination with the architectural spheres of Havona. (56:1.1)
+	Havona is a divine universe comprised of 1 billion perfect worlds circling Paradise, ruled by Eternals of Days and directed by Supreme Trinity Personalities. (8:1.4) (12:1.10) (14:0.1) (14:4.15) (18:2.1) (26:3.1)
+	Havona energy systems, being triune, reveal a unique order of energy organization not found in the evolutionary universes of space. (11:8.7) (14:2.2) (42:2.16)
+	From the finite perspective, the appearance of Havona marks the true beginning of reality, as testified by the Infinite Spirit and the eternal nature of the central universe. (8:1.9) (105:2.7)
+	Havona is an existential realm unaffected by growth, in contrast to the grand universe where experiential growth is the hallmark of evolution. (116:0.3)
 	Havona energy | triata
-	largest inhabited spheres in grand universe (14:3.6)
-	matter and spirit innately harmonious on (116:6.7)
-	no decay or cellular death in (14:4.9)
-	real rivers and lakes (14:3.7)
-	space separation from superuniverses (41:0.2)
-	standard day is 1000 Urantia years; length of time for inner circuit to circumtransit Paradise (14:1.12-13)
-	stimuli of Havona would not excite human senses (14:2.4)
-	with dark gravity bodies, mass greatly exceeds that of the 7 superuniverses (12:1.4)
+	“Havona's largest inhabited spheres in the grand universe exhibit a unique planetary construction, utilizing immense dark gravity bodies to achieve perfect physical balance and harmony, with the aid of antigravity for material and spiritual organization.” (14:3.6)
+	“In the seven superuniverses, there is a wide gulf between cosmic energy and divine spirit; however, in Havona, matter and spirit are innately harmonious.” (116:6.7)
+	In Havona, there is no decay or cellular death, only transmutation and transformation. (14:4.9)
+	Real rivers and lakes are just a glimpse of the unimaginable beauty and grandeur found in the architecture, lighting, heating, biologic, and artistic embellishment of the spheres in Havona. (14:3.7)
+	The division of Havona from the superuniverses in space does not line up with the clear-cut administrative boundaries of the grand universe. (41:0.2)
+	The standard day in Havona is equivalent to 1000 years on Earth and is derived from the time it takes for the inner circuit to orbit Paradise. (14:1.12-13)
+	The stimuli of Havona would render a Urantian devoid of senses, if transported there. (14:2.4)
+	In the Central Universe of Havona, bodies with dark gravity exceed the mass of the 7 superuniverses. (12:1.4)
 inhabitants of Havona
-	After the creation of the universes of time and space, every thousand Havona worlds is supervised by a Havona Center, a being in charge of controlling and regulating energy in a perfect way. (29:2.12)
-	There are two billion and seventy Stationary Sons of Trinity stationed in Havona (19:4.8)
-	Paradise Citizens first arrived in days of Grandfanda (26:5.1)
+	In Havona, one million Havona Centers oversee a thousand worlds each, ensuring perfect energy regulation and control in the divine universe. (29:2.12)
+	In Havona, there are two billion and seventy Stationary Sons of the Trinity, part of the grand corps of Trinity administrators and rulers. (19:4.8)
+	Paradise Citizens and pilgrim helpers arrived in Havona in the days of Grandfanda to welcome ascenders to the central universe. (26:5.1)
 perfection of Havona
-	energy and spirit states in perfect balance (7:2.2)
-	only perfect and established aggregation of worlds; not evolutionary (14:0.2) (32:3.1)
-	perfect revelation of Paradise (11:9.5) (115:3.14)
-	perfection-limited creation (118:0.13)
-	perfection precludes possibility of disharmony (10:6.17)
-sacred spheres of Paradise emit spiritual light to (13:0.3-4)
+	In Havona, energy and spirit states exist in perfect balance, reflecting the exquisite spiritual harmony of the eternal creation. (7:2.2)
+	Havona is the ultimate, divine, and non-evolutionary universe, created by the thought and word of the Eternal Son for the eternal Deities. (14:0.2) (32:3.1)
+	Havona is the perfect revelation of Paradise, showcasing the master pattern of the absolute of patterns that exist within the cosmos. (11:9.5) (115:3.14)
+	Havona is a perfection-limited creation expanding cosmic destiny and liberation into evolutionary superuniverses. (118:0.13)
+	In Havona, perfection ensures total harmony that transcends all possibilities of disharmony in the central universe. (10:6.17)
+The sacred spheres of Paradise emit spiritual light to all realms of the universe, including Havona and the seven superuniverses. (13:0.3-4)
 Seven Spirits of Havona Circuits pervade; not part of original
-pattern universe (26:2.6)
-Supreme Being functions in Havona as a spirit personality (116:0.5)
+The Seven Spirits of the Circuits oversee the seven planetary circuits of Havona, each a creation within the pattern universe. (26:2.6)
+The Supreme Being functions as a spirit personality in Havona, while his other functions in the universe remain uncertain. (116:0.5)
 
-Havona Centers | | | ORDER | 
-in Uversa personality register (30:2.94)
-not required prior to creation of superuniverses (29:2.12)
-Supreme Power Centers; one supervises 1000 Havona worlds; 1 million created (29:2.12)
+Havona Centers | | | ORDER | OK
+Personality registers in Uversa track Havona Centers. (30:2.94)
+Power centers in Havona were not required before the creation of superuniverses, but since then, one million have supervised a thousand worlds each, ensuring perfection of energy control unparalleled in the cosmos. (29:2.12)
+One million Havona Centers supervise 1000 worlds each, ensuring perfection of energy regulation in the divine universe. (29:2.12)
 
-Havona graph method | | | | 
-prodigious quantities of information assimilated by; used on Paradise (26:3.8) (27:6.4)
+Havona graph method; higher graph technique of Havona | | | | OK
+The prodigious quantities of information assimilated by the Intelligence Co-ordinators are used on Paradise through the Havona graph method. (26:3.8) (27:6.4)
 
-Havona natives | (14:4) (19:6) | | ORDER | 
-acquire comprehension of the Supreme (117:6.14)
-gain experience through contact with ascenders (19:6.2)
-in personality registers (30:1.21) (30:2.35) (30:2.124)
-may fuse with Father fragments (19:6.3)
+Havona natives; inhabitants of the Havona worlds; native inhabitants of Havona; Havona Natives | (14:4) (19:6) | | ORDER | OK
+Havona natives harmonize viewpoints and comprehend the Supreme through interactions with pilgrims from Paradise and the superuniverses. (117:6.14)
+Through contact with ascenders, Havona natives and ascending mortals develop a deep and eternal friendship that compensates for spiritual impoverishment and overcomes experiential handicaps. (19:6.2)
+The personality of the Havona Natives registers with distinction. (30:1.21) (30:2.35) (30:2.124)
+“Havona natives, projected in divine perfection, may evolve in status by fusing with Father fragments and qualifying for membership in the Mortal Corps of the Finality.” (19:6.3)
 nature
-	perfect beings; are the will of God (3:5.16) (14:4.13) (19:6.2-3)
-	eternal beings; never were created (14:4.10) (105:7.2)
-	pattern beings for all creation (14:4.15) (14:6.28)
-	Trinity-origin personalities projected in perfection; nonreproducing (14:4.10) (19:6.3)
-no more coming into existence (19:0.9) (19:6.4)
-progression to higher status (14:4.14) (19:6.3)
-Seven Spirits of Havona Circuits are as Adjusters to (17:5.5)
-significance of lives (14:4.12-13)
-strangers to saving faith (3:5.16-17) (19:6.2)
-supreme goal is to enter finaliter corps (19:6.3) (31:1)
-trinitization by (22:7.9-13) (30:2.35)
-unrevealed future destiny (19:6.3-4)
+	The Havona natives, as perfect beings, are the will of God. (3:5.16) (14:4.13) (19:6.2-3)
+	The Havona natives, eternal beings, never were created, as they are offspring of the Paradise Trinity and exist without creature parents. (14:4.10) (105:7.2)
+	Havona natives are pattern beings for all creation, serving as personality possibilities for Creator Son's mortal children and spirit beings on their journey from the first to the seventh circuit towards their divine destiny in Paradise and Havona. (14:4.15) (14:6.28)
+	The Havona natives are divine beings projected in perfection by the Paradise Trinity, without creature parents and incapable of reproduction, evolving in status with a potential unrevealed future destiny. (14:4.10) (19:6.3)
+No new Havona natives are being created, leading to a gradual decrease in their numbers as they join the Paradise Corps of the Finality. (19:0.9) (19:6.4)
+Havona natives have optional present and future unrevealed destinies, with a unique progression to higher status within the central universe. (14:4.14) (19:6.3)
+The Seven Spirits of Havona Circuits are akin to Adjusters in their relationship with the native inhabitants, being impersonal and not permanently merging with their personalities. (17:5.5)
+The significance of lives possessed by Havona natives is unique to the central universe and satiates the perfect ideals of divine beauty and truth. (14:4.12-13)
+The Havona natives, although naturally brave and loyal, are utterly strangers to saving faith that mortal man climbs from animal status up to the portals of Paradise. (3:5.16-17) (19:6.2)
+The supreme goal of Havona natives is to enter the Mortal Corps of the Finality, fulfilling their divine perfection through experiential endowments and evolving status towards an unrevealed future eternity-destiny. (19:6.3) (31:1)
+Trinitization by united parents results in magnificent creature-trinitized sons held in reserve on Vicegerington for future universe ages. (22:7.9-13) (30:2.35)
+The unrevealed future destiny of Havona natives is a subject of speculation and mystery, as they may evolve in status and potentially be joined by new beings in the central universe. (19:6.3-4)
 
-Havona pilgrims; Havona Pilgrims | | ascending mortals | ORDER | 
-achievement is final test for (26:5.5)
-arrive with only perfection of purpose (26:4.12-15)
-ascendant mortals’ personal education begins as (30:4.26-30)
-ascenders arrive on pilot world of 7th circuit; 4th mortal jubilee (14:3.4) (14:5.4) (26:4.12) (27:7.8) (106:2.4)
-contact with creature-trinitized sons (27:3.3)
-definite task on each world (14:3.4) (14:5.1) (26:3.2) (26:5.4)
-do not hold personal communion with Seven Spirits of Havona
-Circuits (17:5.4)
-Grandfanda was the first (7:5.8)
+Havona pilgrims; Havona Pilgrims; pilgrim; pilgrims; ascending pilgrims; ascending pilgrim's; pilgrims of time; pilgrim of ascent | | ascending mortals | ORDER | OK
+Achievement is the final test for advancing on the Havona circles. (26:5.5)
+Arriving on Havona, pilgrims possess only one perfection: perfection of purpose, as decreed by the Universal Father to be perfect like Him. (26:4.12-15)
+Ascendant mortals' personal education begins as they prepare for the long flight to Havona, where their spiritual training is threefold: intellectual, spiritual, and experiential. (30:4.26-30)
+Ascenders arrive on the pilot world of the 7th circuit, celebrating the 4th mortal jubilee of their journey towards perfection in the central universe. (14:3.4) (14:5.4) (26:4.12) (27:7.8) (106:2.4)
+Havona pilgrims benefit greatly from contact with creature-trinitized sons, aiding in their adjustment to various majestic beings on their journey to becoming Mortal Finaliters. (27:3.3)
+Ascendant pilgrims must accomplish a specific task on every world throughout their journey towards the Deities on Paradise. (14:3.4) (14:5.1) (26:3.2) (26:5.4)
+Havona Pilgrims will learn avout the Seven Spirits of Havona Circutis but do not hold personal communion with them (17:5.4)
+Grandfanda was the first mortal to attain Havona, journeying alongside the original Michael, the first-born Creator Son. (7:5.8)
 if defeated
-	advance to 2nd circuit; return to superuniverses (26:10.2-4)
-	certified as passing Havona test before leaving (26:10.3)
-	if remanded to superuniverses, go to most propitious one; always succeed on 2nd attempt (26:10.5)
-	remanded to superuniverses with guardian angel or Paradise Companion (25:8.9-11) (26:3.9)
-never prematurely admitted (14:2.9)
-no more examinations after attaining Infinite Spirit (26:8.3)
-no residential status on Paradise until completion of Havona,
-terminal rest of time (26:7.4)
-no time limit on progress of (26:3.2) (26:5.5)
-nonresidential trips to Paradise with superaphic associate,
-Graduate Guide, and Havona Servital (26:7.4)
-same Graduate Guide stays with Havona pilgrims (24:6.3) (26:7.4)
-send adoration to Creator Son upon Havona arrival (30:4.28)
-traverse achieved space without ensupernaphimation (14:5.5)
-willingness to believe is key to Havona (26:4.15)
-work to attain spiritual development for Paradise (14:4.16)
+	Unsuccessful pilgrims advance to the second circuit before returning to superuniverse service, where counselors and advisers provide comfort and guidance on their journey towards Deity attainment. (26:10.2-4)
+	Certified as having passed the Havona test, the disappointed subjects obtain the same standing in the universes of time as successful Deity adventurers. (26:10.3)
+	Successful Havona pilgrims always succeed on their second attempt, finding fulfillment in the eternal assignment after leaving behind the uncertainties of the evolutionary journey. (26:10.5)
+	“Remanded to superuniverses with guardian angel or Paradise Companion, ascenders are never abandoned in their Deity adventure journey through Havona.” (25:8.9-11) (26:3.9)
+So perfect and so divine are the methods and means of selection in the universes of time that never in the records of Havona has an error occurred; no mistakes have ever been made; no ascendant soul has ever been prematurely admitted to the central universe. (14:2.9)
+After attaining the Infinite Spirit, examinations cease and advancement is based solely on spirituality, with failure not seen as defeat or disgrace in the eyes of the Gods. (26:8.3)
+After passing through the terminal rest of time, Havona pilgrims finally achieve residential status on Paradise. (26:7.4)
+There is no time limit on the progress of Havona pilgrims as they journey through the seven circuits of spiritualization towards divinity attainment. (26:3.2) (26:5.5)
+Havona pilgrims begin their journey to Paradise alongside the Graduate Guide and the Havona Servital. (26:7.4)
+The Graduate Guide stays with Havona pilgrims from arrival to Paradise culmination, witnessing their entire celestial journey. (24:6.3) (26:7.4)
+Upon arrival in Havona, the pilgrims send adoration to Creator Son for their safe journey and sonship career, before enjoying a leisurely period of observation and reuniting with fellow ascenders. (30:4.28)
+“Havona pilgrims traverse achieved space without ensupernaphimation in their journey of ascent.” (14:5.5)
+“Comprehension leads to Paradise, belief to Havona, and cooperation with the Adjuster secures evolutionary survival.” (26:4.15)
+Havona pilgrims progress inward from the seventh to the first circuit to work towards spiritual development for Paradise. (14:4.16)
 
-Havona Servitals | (25:1) | | ORDER | 
-1/4 who achieve divine embrace never return (24:7.3-6)
-7 Universal Conciliators created for each Servital (25:2.1-2) (25:3.15)
-138 billion serve on Uversa (25:1.7)
-assist, and eventually become, Graduate Guides (24:7.1-7) (25:1.5-7) (26:7.4)
-creatures of Seven Master Spirits and Seven Supreme Power Directors (24:7.8) (25:1.2)
-fourth creatures discern reality of spirit and matter; are semiphysical (25:1.3-4) (38:7.6) (44:0.17)
-help ascenders on superuniverse capitals (25:1.5,7)
-in personality registers (30:1.78) (30:2.75)
-involved in phases of Supremacy (24:7.8)
-“midway creatures” of Havona (25:1.1)
-number is prodigious; more being created (25:1.3)
-resemble individual Master Spirits (25:1.7)
-stay with same pilgrim throughout his ascent (26:10.5)
+Havona Servitals; Havona Servital; servitals | (25:1) | | ORDER | OK
+One quarter of Havona Servitals who achieve divine embrace never return, their careers closed as newborn Graduate Guides spontaneously appear in the outer circuit of the Havona universe. (24:7.3-6)
+For every Havona Servital created, seven Universal Conciliators are brought into being, one in each superuniverse, reflecting the creative enactment of the Seven Master Spirits. (25:2.1-2) (25:3.15)
+138 billion Havona Servitals serve on Uversa, embodying the spirit prerogatives of their assigned Master Spirit on the educational worlds of the superuniverses. (25:1.7)
+Havona Servitals assist ascendant creatures and eventually become Graduate Guides, showing extraordinary attachment and mutual devotion beyond human understanding. (24:7.1-7) (25:1.5-7) (26:7.4)
+The Havona Servitals, created by the Seven Master Spirits and the Seven Supreme Power Directors, reflect evolutionary potentialities of the time-space domains and are involved in phases of Supremacy. (24:7.8) (25:1.2)
+The Havona Servitals, fourth creatures, discern reality of spirit and matter and are semiphysical, with every fourth servital being more physical in type. (25:1.3-4) (38:7.6) (44:0.17)
+Havona Servitals help ascenders on superuniverse capitals and provide assistance on educational worlds surrounding the headquarters spheres of the seven superuniverses. (25:1.5,7)
+Havona Servitals showcase their unique personalities in personality registers. (30:1.78) (30:2.75)
+The Havona Servitals, created by the collaboration of the Seven Master Spirits and Seven Supreme Power Directors, are inherently involved in phases of Supremacy, reflecting evolutionary potentialities of the time-space domains and undergoing transformation in response to the will of the Infinite Spirit. (24:7.8)
+The servitals of Havona are honored for their sacred service in the central universe. (25:1.1)
+The prodigious number of servitals is constantly growing, appearing in groups of one thousand on the third moment following the assembly of the Master Spirits and the Supreme Power Directors, with every fourth creature being more physical in nature. (25:1.3)
+The Havona Servitals resemble individual Master Spirits and serve on educational worlds in the superuniverses, inspiring and ministering to ascending creatures of time. (25:1.7)
+The Havona Servitals stay with the same pilgrim throughout his ascent, providing pleasurable and highly profitable sojourn on the second circuit. (26:10.5)
 
 Havoners | | Havona natives | ORDER | OK
 
-head-hunters | | | | 
-allowed women to redeem lives by sexual surrender (89:7.4)
-captured enemies’ souls (86:5.15)
-head hunting accounted for by belief in skull fetishes (88:1.8)
-made slaves of murderers’ ghosts (87:2.8)
-practiced skull worship, provided scapemen (89:0.1)
-youth of head-hunters cannot marry until possessed of a head (82:3.5)
+head-hunters; Head hunting; head-hunting; head hunting; head-hunter | | | | OK
+Sexual surrender to head-hunters or as temple servants provided a means of redemption for women in ancient times, rooted in the connection between primitive worship and human sacrifice. (89:7.4)
+Head-hunting was a method of capturing enemies' souls, believed by some to reside in the bodily fat or eyes. (86:5.15)
+Belief in skull fetishes led to the practice of head-hunting, with human body parts such as nails and umbilical cords considered powerful fetishes. (88:1.8)
+The custom of creating slaves out of murderers’ ghosts motivated men to become head-hunters. (87:2.8)
+Head-hunters, practicing skull worship, served as scapemen to redeem primitive man in debt to spirits for original sin. (89:0.1)
+Winners of athletic contests among head-hunters were awarded the first prize of choosing a bride, with marriage requiring possession of a head, which could be bought, or won through riddle contests. (82:3.5)
 
-headaches | | | | 
-medicine men trephined skulls to heal (90:4.4)
+headaches; headache | | | | OK
+Medicine men trephined skulls to heal, eventually mastering surgery for various ailments, including headaches. (90:4.4)
 
-healing | | health; Jesus: miracles and healings | | 
-material and spiritual treatment at Bethsaida hospital (148:2.1)
+healing | | health; Jesus: miracles and healings | | OK
+Bethsaida hospital provided material and spiritual treatment under Elman's leadership, with Jesus personally visiting and making a profound impact on each patient. (148:2.1)
 spiritual healing
-	impossible except in accordance with Father’s will (158:6.4)
-	John’s apostles anointed with oil for (150:0.2)
-	kingdom cannot be built upon (145:5.4)
-	works of faith come not forth from unbelief (158:5.2)
+	Healing is impossible except in accordance with Father’s will. (158:6.4)
+	John's apostles anointed with oil for healing, while Jesus' apostles declined to bind themselves by such a regulation. (150:0.2)
+	The kingdom cannot be built upon wonder-working and physical healing alone, as Jesus explained to his apostles in detail for over four hours, seeking to make them understand the true reasons behind his mission. (145:5.4)
+	Works of faith come not forth from doubting unbelief, but from sincere belief and trust in the power of love. (158:5.2)
 
-healing at sundown | (145:3) | Jesus: miracles and healings | | 
-683 healed (145:3.10)
-majority not permanently spiritually benefited (145:3.14)
-only 7 of the 683 enrolled at school for evangelists (148:1.4)
-unintended by Jesus (145:3.13)
+healing at sundown; creative wave of healing; eruption of timeless creative healing | (145:3) | Jesus: miracles and healings | | OK
+At sundown, 683 were healed by the ruling of Jesus' Father, with celestial beings descending to make them whole in a thrilling spectacle. (145:3.10)
+The majority did not experience lasting spiritual benefits from the sundown healing demonstration. (145:3.14)
+Only seven of the 683 enrolled at school for evangelists were among the large number healed at the sundown scene. (148:1.4)
+Jesus became as much a physician as a preacher due to the unintended demonstration of physical healing at sundown. (145:3.13)
 
-health | | disease; healing; injury; medicine | | 
-arises from integration of truth, beauty, and goodness (2:7.11)
-arises from unification of mind and spirit (100:4.3)
-first attention paid to health in continental nation industry (72:7.2)
-happiness does good like medicine (131:2.9)
-Prince’s staff promoted hygiene, sanitation, cooking (66:5.17-22)
-religious experience markedly influenced by (100:1.6) (110:6.4)
-result of material causes (166:4.10)
-spiritual joy is tonic for (194:3.19)
+health; Health | | disease; healing; injury; medicine | | OK
+Health arises from the integration of truth, beauty, and goodness in human experience, bringing about efficiency in living through unified energy, idea, and spirit systems. (2:7.11)
+The key to health, mental efficiency, and happiness is found in the unification of physical, mental, and spiritual systems through the dominance of love. (100:4.3)
+The first focus in all industry is on health, with certain aspects seen as communal priorities while individual and family health issues are considered personal matters; government intervention in personal health matters, including in medicine, is becoming less common. (72:7.2)
+“A merry heart does good like medicine, seek the Lord with all your heart and find joy in the morning.” (131:2.9)
+Lut's guardians of health promoted sanitation, primitive hygiene, and cooking to improve public health. (66:5.17-22)
+A soul dedicated to the will of the Father in heaven fosters spiritual growth, influenced by physical health, inherited temperament, and social environment, while maintaining a balanced triune harmony of development. (100:1.6) (110:6.4)
+Sickness and health are the result of material causes, not divine favor or punishment. (166:4.10)
+The coming of the Spirit of Truth purifies the human heart and leads to spiritual joy, which is a tonic for health. (194:3.19)
 
-hearing | | | | 
-extended in light and life (55:6.3)
+hearing | | | | OK
+Throughout the settled eras, the physical evolution of man continues, with vision and hearing extended in light and life for a magnificent race. (55:6.3)
 
-hearsay | | | | 
-speak not hearsay (138:8.4)
+hearsay | | | | OK
+Speak only what you have heard from me, speak not hearsay. (138:8.4)
 
-hearth | | | | 
-Andite family altar (94:1.1)
-became fetish (88:2.3)
+hearth | | | | OK
+During the days of Melchizedek, the Andite family altar was central to religious practice in India, under the dominance of Aryan invaders. (94:1.1)
+The hearth, once a mere fireplace, became a sacred fetish spot, embodying the concept of the law of God. (88:2.3)
 
-hearts | | | | 
-deceitful above all things; source of evil (145:2.6) (153:3.5)
-law written on (145:2.5)
-let not your hearts be troubled (180:3.4) (181:1.5)
-some ancients believed soul resided in (86:5.15)
+hearts; heart | | | | OK
+The prophet warned that the natural human heart is deceitful above all things and oftentimes desperately wicked, originating evil thoughts and deeds within. (145:2.6) (153:3.5)
+“The law written on hearts is a key aspect of the new covenant prophesied by Jeremiah and fulfilled in spiritual understanding.” (145:2.5)
+“Let not your hearts be troubled, for I give you my peace and assure you of triumph through faith.” (180:3.4) (181:1.5)
+Ancients believed the soul resided in the heart, among various other body parts. (86:5.15)
 
-hearts of counsel | | | | 
-reflective of superaphic intelligence co-ordinators (28:5.15)
-secondary seconaphim, reflective associates of Divine Counselors;
-selectively reflect counsel of all beings (28:5.15)
+hearts of counsel; Heart of Counsel | | | | OK
+The Hearts of Counsel, reflective of superaphic intelligence co-ordinators, provide the Divine Counselors with a ruling that incorporates the co-ordinated wisdom of the most competent minds. (28:5.15)
+The Hearts of Counsel selectively reflect the co-ordinated wisdom and advice of the most competent minds of the entire superuniverse, censored and revised in the light of high minds of Havona and Paradise. (28:5.15)
 
-heat | | cold; temperature | | 
-disrupts matter and dissipates energy (15:8.10) (42:4.7)
-in suns (41:7.1-13) (41:9.1)
-measure of electronic activity (42:4.5,7)
-overcomes gravity stability (42:4.8)
-relieves pain (90:4.6)
-same thing as light, electricity, magnetism, chemism, energy, and matter (42:4.1-2)
-some suns shine without heat (15:6.8)
+heat | | cold; temperature | | OK
+Heat disrupts matter and dissipates energy in the constant cosmic dance of creation and destruction. (15:8.10) (42:4.7)
+The internal temperature of suns, even your own, can reach an unbelievable 35,000,000 degrees due to intense X-ray bombardment, ultimately breaking down atoms and electrons. (41:7.1-13) (41:9.1)
+Heat is the measure of electronic activity, fundamental in the creative organization of ultimatons into electrons in the vast expanse of space. (42:4.5,7)
+Heat can overcome gravity stability in certain internal solar states, but cannot convert ultimatons back into energy. (42:4.8)
+Heat relieves pain, as early man discovered with sunlight, hot clay, and hot stones. (90:4.6)
+Light, heat, electricity, magnetism, chemism, energy, and matter are all manifestations of the same eternal energy, evolving and transforming throughout the infinite expanse of the cosmos. (42:4.1-2)
+“The stars of space exist in a thousand different states, some suns shine without heat.” (15:6.8)
 
-heathen | | gentiles | | 
-why heathen rage; narrow outlook concentrates energies (155:1)
+heathen | | gentiles | | OK
+The heathen rage with narrow outlook, but Jesus's kingdom is founded on love and mercy. (155:1)
 
-heaven | | eternal life; hell; resurrection; survival (of mortal death) | | 
-also referred to as Great Beyond (63:6.6-7)
-conceived as
-	1st mansion world by most prophets (48:6.23)
-	7 mansion worlds (15:7.5)
-	deadland, ghost homeland (87:1.1)
-	Jerusem (46:0.1)
-	savages’ conceptions (86:4.7)
-eye has not seen, nor ear heard, nor mind conceived (181:2.20)
-heaven of heavens (48:6.23)
-Jewish traditions derived from Zoroastrianism (95:6.6)
-not endless rest but ceaseless progression (181:1.2)
-only the rich supposed to go direct to (69:5.12)
-some wise men saw vision of (48:6.23)
+heaven | | eternal life; hell; resurrection; survival (of mortal death) | | OK
+“Deliver us from the curse of the ice and save us from our forest enemies, to be mercifully received into the Great Beyond - also referred to as Great Beyond.” (63:6.6-7)
+ancient conceptions of heaven
+	Most prophets envision the first mansion world as heaven, with a progression to the higher realms culminating in the “heaven of heavens.” (48:6.23)
+	Heaven on Jerusem consists of the seven mansion worlds of morontia detention. (15:7.5)
+	Fear of death stemmed from the belief that it would release another ghost into deadland, ultimately making its way to the ghost homeland. (87:1.1)
+	“Jerusem, the heavenly headquarters of Satania, is approaching the heavenly status of traditions, despite past stormy experiences and irregularities caused by rebellion and bestowal.” (46:0.1)
+	The savages' conceptions of the afterlife involved a future existence similar to this one, without misfortune, with no belief in hell or punishment for bad ghosts. (86:4.7)
+For Jesus and for The Urantia Book
+	Jesus went over to Philip, who, standing up, heard this message from his Master: “Philip, you have always wanted to be shown, and very soon shall you see great things, for I will take great pleasure in showing you that which eye has not seen, ear heard, nor the mortal mind conceived.” (181:2.20)
+	Consider the heaven of heavens, where wise men saw the vision of the greater celestial realm beyond the seven mansion worlds. (48:6.23)
+	Heaven and hell in Jewish tradition were mainly influenced by Zoroastrian teachings during Persian rule. (95:6.6)
+	Life in the Father's eternal creation is not endless rest but ceaseless progression towards spiritual perfection in the heaven of heavens. (181:1.2)
+	Only the rich were supposed to go direct to heaven, as poverty became abhorred with civilization's development and property's high value. (69:5.12)
+	Some wise men saw vision of the heaven of heavens. (48:6.23)
 
-heavenly reproducers | | celestial artisans | ORDER | 
-celestial artisans (44:2)
+heavenly reproducers | | celestial artisans | ORDER | OK
+The celestial artisans of the spirit-morontia world reproduce experiences unknown on Urantia with supreme value and eternal significance. (44:2)
 types
 	# singers
 	# color workers
@@ -530,71 +528,74 @@ types
 	# life story tellers
 	# administrative enactors
 
-historic pageanteers | | | ORDER | 
-heavenly reproducers, celestial artisans (44:2.6)
+historic pageanteers | | | ORDER | OK
+The historic pageanteers are heavenly reproducers and celestial artisans who dramatically reproduce the crucial events of universe records and history. (44:2.6)
 
-Hebrew language | | | | 
-alphabet from Philistines; little writing until 900 B.C. (74:8.9)
-distinctly Andonite (80:8.2)
-Jesus spoke (123:2.14) (123:5.1,4)
-not a written language at time of exodus from Egypt (96:5.2)
-spoken by priests and rabbis in times of Jesus (121:6.2)
+Hebrew language; Hebrew | | | | OK
+The Hebrews adopted an alphabet from the Philistines around 900 B.C., leading to increased writing and a shift towards a unified creation story after the Babylonian captivity. (74:8.9)
+The Hebrew language, distinctly Andonite, was spoken by the Jewish descendants of Abraham, who carried the strain in their ancestry from the Andonite stock. (80:8.2)
+Jesus spoke Hebrew fluently, having mastered it as a young man in Nazareth. (123:2.14) (123:5.1,4)
+Moses' work is scarcely documented due to the absence of written Hebrew language during the exodus from Egypt, with records relying on oral traditions from over a millennium later. (96:5.2)
+The Hebrew language spoken by priests and rabbis in times of Jesus influenced the subsequent predominance of Greek in Jewish culture. (121:6.2)
 
-Hebrews | | Jews (ancient Hebrews); Judaism | RACE | 
+Hebrews | | Jews (ancient Hebrews); Judaism | RACE | OK
 
-Hebrews, Book of; Book of Hebrews | | | | 
-author understood mission of Melchizedek (93:9.11)
-portrays religious life of Jesus (196:2.1)
+Hebrews, Book of; Book of Hebrews | | | | OK
+One of the writers of Hebrews recognized Melchizedek's divine mission, comparing him to Jesus as a priest forever. (93:9.11)
+The Book of Hebrews portrays the unadulterated religious teachings of Jesus, embodying the true essence of Christianity. (196:2.1)
 
-Hebron | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | PLACE | 
-Abraham’s military capital (93:5.11) (93:9.2,4)
-headquarters of Abner (150:0.1)
-John and Elizabeth moved to (135:2.3)
-King David made headquarters at non-Hebrew city of (97:9.7)
-synagogue at Hebron denied Sanhedrin’s jurisdiction; destroyed by fire (154:2.1)
+Hebron | (134:7.5) (142:8.1) (159:6.4) (186:3.2-3) | | PLACE | OK
+Abraham
+	Abraham's military capital in Hebron was established after a friendly severance of relationship with Melchizedek, leading to a great leadership in Palestine and a lasting spiritual influence. (93:5.11) (93:9.2,4)
+King David
+	David established his headquarters in the non-Hebrew city of Hebron and was declared the king of Judah, made up of nomadic tribes with a strong belief in land ownership and desert clan ideologies. (97:9.7)
+In Jesus times
+	Abner established his headquarters in Hebron, where he met periodically with the apostles of Jesus in Bethsaida. (150:0.1)
+	John and Elizabeth moved to Hebron to tend sheep and fraternize with the Nazarite brotherhood in the wilderness of Judea. (135:2.3)
+	The synagogue at Hebron stood firm, denying the Sanhedrin's jurisdiction despite being destroyed by fire. (154:2.1)
 
-Heidelberg race | | | RACE | 
-superior, prolific Andonites (64:2.3)
+Heidelberg race | | | RACE | OK
+The Heidelberg race, descendants of superior and prolific Andonites, spread across Europe from the north ice to the southern Alps and Mediterranean. (64:2.3)
 
-height | | | | 
-Adam and Eve 8 feet tall (74:1.1)
-anxiety cannot add handbreadth to (165:5.2)
-giantism among green and orange peoples (51:4.2)
+height; stature | | | | OK
+Adam and Eve, members of the senior corps of Material Sons on Jerusem, were eight feet tall. (74:1.1)
+Anxiety cannot add handbreadth to your stature or a day to your life. (165:5.2)
+Unexpected strains of giantism among the green and orange peoples show variation at the expense of the original endowment, with mortal stature tending to decrease from the red man down to the indigo race. (51:4.2)
 
-Heldua | (156:3.1) | | PLACE | 
-Jesus passed going to Phoenicia
+Heldua | | | PLACE | OK
+Jesus visited Heldua during his week of teaching and preaching in Phoenicia. (156:3.1)
 
-helium | | | | 
-in solar-energy reactions (41:8.1)
+helium | | | | OK
+In solar energy reactions, hydrogen is converted into helium through complex nuclear-reaction chains involving carbon as an energy catalyst. (41:8.1)
 
-hell | | eternal life; heaven | | 
-in Egyptian religion (95:2.9)
-invented for punishment of taboo violators (89:2.4)
-Jewish traditions derived from Zoroastrianism (95:6.6)
-primitives entertained no ideas of (86:4.7)
-wicked destroyed by fire under Mithraism (98:5.4)
+hell; hells | | eternal life; heaven | | OK
+In Egyptian religion, souls armed with magic could make their way to Osiris' judgment hall, avoiding evil spirits, to determine their fate in bliss or hell. (95:2.9)
+Hell was invented for punishment of taboo violators who were seen as committing both crime and sin. (89:2.4)
+Jewish traditions of heaven and hell, influenced by Zoroastrianism, incorporated the concept of a day of judgment tied to the end of the world. (95:6.6)
+Primitives entertained no ideas of hell or future punishment, viewing the afterlife as similar to this one without misfortune, leading to a preference for being killed before old age. (86:4.7)
+The wicked, destroyed by fire under Mithraism, faced judgment for eternal life with Mithras. (98:5.4)
 
 Hellenes | | Greeks | RACE | OK
 
 Hellenistic Empire | | Greece | | OK
 
-helplessness | (147:3.5) | | | 
-consequence of personality isolation (184:4.6)
-Fortune’s feelings of (130:6)
-man at pool of Bethesda was victim of (147:3.5)
+helplessness | (147:3.5) | | | OK
+Jesus' triumph over creature personality isolation, and his unity with the Father, offers believers deliverance from helplessness and fear. (184:4.6)
+Fortune's feelings of helplessness were transformed by Jesus into faith, courage, and devoted service to humanity, leading him to become a leader among Christians in Crete. (130:6)
+The man at the pool of Bethesda was a victim of his own helplessness, but when he finally took up his bed and walked, he found freedom. (147:3.5)
 
-hem | | | | 
-Veronica touched Jesus’ (152:0.2-3)
+hem | | | | OK
+Veronica touched Jesus’ garment with faith, and was made whole. (152:0.2-3)
 
-henotheism | | | RACE | 
-exaltation of one god above the many (104:2.1)
-Hebrews passed through (96:1.2,14)
+henotheism; henotheistic | | | RELIGION | OK
+Monotheism emerged as a reaction to the inconsistencies of polytheism, progressing from pantheon structures to henotheistic glorification of one god over others, ultimately leading to the exclusive worship of a singular, supreme deity. (104:2.1)
+The Hebrews passed through henotheism on their journey from polytheism to monotheism, acknowledging the existence of other gods but believing them to be subordinate to Yahweh. (96:1.2,14)
 
 hens | | poultry | | OK
 
-Henselon | | | PLACE | 
-lost most Lanonandeks in rebellion (35:9.8)
-neighboring universe to Nebadon (32:2.12)
+Henselon | | | PLACE | OK
+Except for Henselon, our universe has lost the largest number of Lanonandeks in rebellion due to their excessive personal liberty in choosing and planning. (35:9.8)
+Henselon is the neighboring universe to Nebadon in the superuniverse circuit of Orvonton. (32:2.12)
 
 heralds of the resurrection | | messenger corps (David Zebedee’s) | | OK
 
@@ -620,59 +621,59 @@ hermit | | | |
 Gautama should have listened to the hermit Godad (94:7.4)
 
 Herod Agrippa | | | PERSON | OK
-feared, killed James Zebedee (139:3.8)
+Herod Agrippa feared James Zebedee more than any apostle, and had him executed (139:3.8)
 > https://en.wikipedia.org/wiki/Herod_Agrippa
 
 Herod Antipas | (152:6.5) (174:2.4) | | PERSON | OK
-tetrach of Peree and Galilee
-animosity with Pilate (185:3.8)
-character
-	apostate Jew; believed nothing, feared everything (154:0.2-3)
-	evil doings (135:3.4)
-	Joseph preferred Herod Antipas to Archelaus (123:0.5)
-Herod relatives
-	James of Safed was minor official of H.A.; Chuza was steward (150:1.1) (158:4.3)
-	many of H.A.’s household believed in Jesus (147:0.2)
+Herod Antipas was tetrarch of Perea and Galilee and played a prominent role in the deaths of John the Baptist and Jesus
+He had some animosity towards Pilate (185:3.8)
+Character
+	Herod was one of those apostate Jews who, although he believed in nothing, was superstitiously afraid of everything (154:0.2-3)
+	His evil deeds were widely known in his time and denounced by John the Baptist (135:3.4)
+	Joseph preferred Herod Antipas to the dangerous Archelaus, which led Joseph to decide to live in Nazareth rather than Bethlehem (123:0.5)
+People close to Herod
+	James of Safed was a junior officer to Herod Antipas; Chuza was an administrator (150:1.1) (158:4.3)
+	many members of Herod Antipas' family believed in Jesus (147:0.2)
 position
-	son of Herod the Great; governed Galilee and Perea during Jesus’ youth and ministry (121:2.11)
-	brother of Tetrarch Philip (153:1.1)
-	tetrarch; wicked Idumean (185:4.1-2)
-residences
-	rebuilt Sepphoris and cities of Galilee (121:2.11) (185:4.1)
-	at Julias, Machaerus, Sepphoris, Tiberias (135:12.1-2) (150:3.1)
-	Jerusalem home was Asmonean or Maccabean palace (125:1.5) (128:3.5) (185:4.1)
-regarding John the Baptist
-	imprisoned, beheaded John (135:10.2-3) (135:12.7) (144:0.2) (144:9.1) (175:1.4)
-	talked with John about kingdom of heaven (135:12.3)
-	cursed with fear from killing John (185:4.3)
-regarding Jesus
-	Joseph killed working on H.A.’s palace in Sepphoris; Herod Antipas decreed no wages due (126:2.1) (126:5.7,11) (185:4.1)
-	Jesus called “fox” (126:5.7) (171:4.6)
-	sent observers for information on Jesus; to see if Jesus were John risen from dead (137:7.4) (145:3.12) (153:1.1)
-	Jesus left Galilee to avoid (141:1.1)
-	knew Sanhedrin would not give Jesus a fair trial (154:3.2)
-	permitted Sanhedrin to seize Jesus on religious charges (148:7.3) (154:0) (154:3)
-	change of heart regarding Jesus (156:6.8)
-	resurrection of Lazarus alarmed (171:4.5)
-	decided to kill Jesus or drive him away (171:4.4-6)
-	dared Jesus perform a miracle (185:4.2)
-	arrayed Jesus in old royal robe (185:4.3) (186:4.1)
-	Jesus refused to speak to; would not work for (128:2.6) (185:4) (186:2.2)
+	he was the son of Herod the Great and ruled in Galilee and Perea during Jesus' youth and ministry (121:2.11)
+	the tetrarch Philip was his brother (153:1.1)
+	his office was tetrarch, not king; he is called a wicked Idumean because his family came from Idumea (185:4.1-2)
+building zeal and residences
+	Herod Antipas was like his father a great builder. He rebuilt many cities in Galilee, including the important commercial center of Sepphoris (121:2.11) (185:4.1)
+	He had residences in Julias, Macaerus, Sepphoris, and Tiberias, the latter where he moved his capital (135:12.1-2) (150:3.1)
+	His usual residence in Jerusalem was the Hasmonean or Maccabean palace (125:1.5) (128:3.5) (185:4.1)
+Regarding John the Baptist
+	He imprisoned and beheaded John (135:10.2-3) (135:12.7) (144:0.2) (144:9.1) (175:1.4)
+	He spoke with John on occasion about the kingdom of heaven (135:12.3)
+	Herod was always afraid of having killed John, and he feared that Jesus was John resurrected (185:4.3)
+concerning Jesus
+	Joseph dies working in Herod Antipas's palace at Sepphoris; Herod Antipas decreed that Joseph was not to be paid any wages, which caused Jesus to lose confidence in Herod forever (126:2.1) (126:5.7,11) (185:4.1)
+	Jesus called him a "fox" because he could not trust him so much (126:5.7) (171:4.6)
+	Herod sent observers to obtain information about Jesus; to see if Jesus was John raised from the dead (137:7.4) (145:3.12) (153:1.1)
+	Jesus left Galilee to avoid Herod's attention (141:1.1)
+	Herod knew that the Sanhedrin would not give Jesus a fair trial, yet he authorized his arrest (154:3.2)
+	He allowed the Sanhedrin to seize Jesus on religious charges (148:7.3) (154:0) (154:3)
+	Herod experienced a change of heart toward Jesus, sending him a message that he would not be arrested if he stayed out of Galilee (156:6.8)
+	the raising of Lazarus greatly alarmed Herod (171:4.5)
+	he then determined to kill Jesus, although he feared him, and preferred to drive him away (171:4.4-6)
+	during his interrogation he challenged Jesus to perform a miracle (185:4.2)
+	dressed Jesus in an old royal robe (185:4.3) (186:4.1)
+	But Jesus refused to speak; he knew it would have no effect (128:2.6) (185:4) (186:2.2)
 > https://en.wikipedia.org/wiki/Herod_Antipas
 
 Herod Archelaus; Archelaus | | | PERSON | OK
-deposed by A.D. 7 (124:6.2)
-Joseph feared Herod Archelaus would pursue policies of his father (123:0.5)
-palace in Jericho (171:8.2)
-parable of pounds based on experience of (171:8.2)
+Herod Archelaus was ethnarch of Judea, Samaria, and Idumea. He was the brother of Herod Antipas. He was deposed by Augustus in A.D. 6. (124:6.2)
+Joseph feared that Herod Archelaus would follow his father's threatening policy (123:0.5)
+Archelaus had his palace in Jericho (171:8.2)
+The parable of the minas is based on the experience of Archelaus and his futile attempt to gain the government of Judea (171:8.2)
 > https://en.wikipedia.org/wiki/Herod_Archelaus
 
 Herod the Great | | | PERSON | OK
-father of Archelaus (123:0.5)
-father of Herod Antipas; built harbor of Caesarea; died 4 B.C. (121:2.11)
-from Idumea (121:2.9)
-Maccabean palace was home of (185:4.1)
-ruled Judea; built temples for strange gods (121:2.9-10)
+Herod the Great was king of Judea, Galilee, Samaria, and Idumea. He was the father of Herod Archelaus (123:0.5)
+He was the father of Herod Antipas; he built the port of Caesarea; he died 4 B.C. (121:2.11)
+He was a native of Idumea (121:2.9)
+The Maccabean palace was the usual residence of Herod the Great's family in Jerusalem (185:4.1)
+He ruled Judea under the distrust of the Jews, since Herod was not a Jew; in fact, although he professed his loyalty to the Hebrew ceremonial, he built many temples to foreign gods (121:2.9-10)
 > https://en.wikipedia.org/wiki/Herod_the_Great
 
 Herod the Idumean | | Herod the Great | PERSON | OK
@@ -682,7 +683,7 @@ advocated restoration of Herodian dynasty (137:7.10)
 united in effort to discredit Jesus (174:2.1)
 
 Herodias | | | PERSON | OK
-Herod Antipas’s unlawful wife; hated John the Baptist (135:12.2,5-6)
+Herodias was the illegal wife of Herod Antipas; she intensely hated John the Baptist, and orchestrated a plan that ultimately caused the prophet's death. (135:12.2,5-6)
 > https://en.wikipedia.org/wiki/Herodias
 
 Herod’s temple | | Jerusalem temple | PLACE | OK
@@ -758,7 +759,7 @@ orders (24:0.2)
 residence in Jerusem circles (46:5.21)
 
 Hildana | | | PERSON | OK
-woman taken in adultery; husband was Nazareth degenerate (162:3)
+Hildana is the name of an anonymous woman mentioned in the Gospel of John as being caught in adultery and who was to be stoned; her husband was a degenerate from Nazareth, a man known to Jesus who had caused her difficulties in her youth. (162:3)
 
 hills | | mountains | | OK
 
@@ -856,24 +857,24 @@ in Jerusalem temple; only high priests and Nazarites permitted to enter (135:1.2
 young Jesus wondered what lay behind veil of separation (125:2.5) (125:5.3)
 
 Holy Spirit | | Spirit of Truth; spiritual rebirth | PERSON | OK
-adjutant mind-spirits’ work antecedent to work of (36:5.16)
-John the Baptist said Jesus would baptize with Holy Spirit (135:7.2) (135:9.4,7)
-Jesus’ instruction regarding (138:5.2)
-Master Spirit’s involvement in bestowal (16:4.13)
-mortals can know; be conscious of (9:2.5)
-searches all things (28:5.22)
-spiritual reason is endowment of (101:3.2)
+The Holy Spirit is the spirit of the personal presence of the Divine Minister, the Mother Spirit of a local universe. The work of the Adjutant Mind-Spirits is prior to the work of the Holy Spirit and is preparatory to its arrival (36:5.16)
+John the Baptist revealed to his disciples that though he baptized with water, Jesus would baptize them with the Holy Spirit (135:7.2) (135:9.4,7)
+Jesus instructed the apostles concerning the nature of the Holy Spirit, but they failed to fully understand (138:5.2)
+The Master Spirit of Orvonton is likely to have participated in the bestowal of the Holy Spirit (16:4.13)
+Mortals can know the presence and be conscious of the presence of the Holy Spirit (9:2.5)
+The Holy Spirit “searches all things” and is able to communicate to other beings all that it knows about us (28:5.22)
+Spiritual reason, the intelligence of the soul, is the endowment of the Holy Spirit, the gift of the Creative Spirit to man (101:3.2)
 nature of the Holy Spirit
-	confined to local universe (8:5.3)
-	spiritual circuit of local universe Mother Spirit (8:5.3) (9:2.5) (15:9.13) (34:4.3,7) (36:5.16) (101:3.2) (103:0.1) (194:2.11-12)
-	does not indwell individual minds (34:5.6)
-	increasingly effective when mortals obey divine leadings (34:5.5)
-	initial supermind bestowal; universally bestowed (92:0.4) (103:0.1)
-	enables possessor to choose Adjuster (34:5.4) (108:2.2)
-	more effective in light and life (55:6.4)
-ceremonies
-	baptism with (137:8.10)
-	Christian ceremony bestowed Holy Spirit accompanied by breathing on candidate (86:5.13)
+	The Holy Spirit is an indigenous circuit limited to the local universe (8:5.3)
+	represents the spiritual circuit of the Mother Spirit of the local universe (8:5.3) (9:2.5) (15:9.13) (34:4.3,7) (36:5.16) (101:3.2) (103:0.1) (194:2.11-12)
+	does not indwell individual minds as an isolated entity (34:5.6)
+	The Holy Spirit is increasingly effective as mortals obey divine guidance (34:5.5)
+	is the initial supermind bestowal; It is universally bestowed (92:0.4) (103:0.1)
+	This Spirit enables its possessor to be able to consciously or unconsciously choose the presence of the Adjuster (34:5.4) (108:2.2)
+	Its ministry is most effective in the light and life stages; in the fourth stage advanced mortals achieve conscious contact with the Holy Spirit (55:6.4)
+Associated ceremonies
+	John the Baptist preached a baptism with water, but Jesus announced a baptism with the Holy Spirit (137:8.10)
+	The ancient Christian ceremony of the bestowal of the Holy Spirit was accompanied by a breath upon the candidates (86:5.13)
 > https://en.wikipedia.org/wiki/Holy_Spirit
 
 holy water | | | | 
@@ -926,7 +927,7 @@ Andite settlements (79:7.1)
 hydraulic problems of agriculturists in (79:8.6)
 
 Honen Shonin | | | PERSON | OK
-taught God concept in Amida Buddha; faith (94:12.2-3)
+Honen was a Japanese Buddhist leader who taught the dual concept of God and the Absolute through belief in Amida Buddha. He taught that the soul can attain Nirvana through sincere and pure faith. (94:12.2-3)
 > https://en.wikipedia.org/wiki/Hōnen
 
 honesty | | fraud; lying; truth | | 
@@ -997,13 +998,13 @@ value
 Vishnu shown with horse’s head (85:3.4)
 
 Horus | | | PERSON | OK
-battle with Set (95:2.6)
+Horus was the Egyptian god of the sky, son of Osiris and Isis. In his legendary battle with Set he loses an eye which is later restored by the god Thoth spitting into his wound, reproducing an ancient belief in the healing power of saliva. (95:2.6)
 > https://en.wikipedia.org/wiki/Horus
 
 Hosea | | | PERSON | OK
-preached hope and forgiveness through repentance rather than sacrifice (97:4.5-6)
-secret writing began Old Testament (97:9.20)
-Father spoke through (155:6.2)
+Hosea is a Hebrew prophet who preached hope and forgiveness through repentance rather than sacrifices (97:4.5-6)
+The secret writings of Hosea and other prophets began the Old Testament (97:9.20)
+Jesus said that the Father had spoken in the past through prophets like Hosea (155:6.2)
 > https://en.wikipedia.org/wiki/Hosea
 
 hospitality | | friendship | | 

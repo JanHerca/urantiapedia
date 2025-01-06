@@ -925,7 +925,7 @@ Eocene | | geologic ages | | OK
 Eocene was the early mammalian era from 50 to 35 million years ago (61:1.14)
 > https://en.wikipedia.org/wiki/Eocene
 
-Ephesus | (130:0.3) | | PLACE | OK
+Ephesus | (130:0.3) | harbors | PLACE | OK
 Ephesus was the capital of Roman province of Asia (133:6.1)
 At Ephesus Jesus pronounced a discourse on the soul for a local thinker (133:6)
 Paul resided two years in Ephesus making tents for a living and conducting lectures on religion and philosophy each night in the main audience chamber of the school of Tyrannus. (133:6.3)

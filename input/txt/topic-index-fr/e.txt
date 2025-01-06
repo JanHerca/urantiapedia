@@ -925,7 +925,7 @@ La peur, l'envie et la vanité ne peuvent être évitées que par un contact int
 L'Éocène était l'ère primitive des mammifères, il y a 50 à 35 millions d'années (61:1.14)
 > https://en.wikipedia.org/wiki/Eocène
 
-Éphèse | (130:0.3) | | PLACE | OK
+Éphèse | (130:0.3) | ports | PLACE | OK
 Éphèse était la capitale de la province romaine d'Asie (133:6.1)
 A Éphèse, Jésus prononça un discours sur l'âme pour un penseur local (133:6)
 Paul a vécu deux ans à Éphèse, fabriquant des tentes pour gagner sa vie et donnant des conférences sur la religion et la philosophie chaque soir dans la salle d'audience principale de l'école de Tyrannus. (133:6.3)

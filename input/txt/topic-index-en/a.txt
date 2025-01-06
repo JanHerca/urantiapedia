@@ -871,7 +871,7 @@ Facts about Alexander the Great mentioned in The Urantia Book
 	* Alexander spread the Hellenistic civilization in the Middle East (195:1.7-10)
 > https://en.wikipedia.org/wiki/Alexander_the_Great
 
-Alexandria | (130:0.2) (186:3.2-3) (190:1.8) | Egypt | PLACE | OK
+Alexandria | (130:0.2) (186:3.2-3) (190:1.8) | Egypt; harbors | PLACE | OK
 in Alexandria was the world’s largest synagogue, ruled by seventy elders (130:3.8)
 in Jesus times this city of one million people had a good number of attractions (130:3.4,7-8)
 Hebrew scriptures were translated into Greek at Alexandria (121:6.2)
@@ -1665,7 +1665,7 @@ beings endowed with antigravity
 	* Universe Circuit Supervisors (24:0.10)
 > https://en.wikipedia.org/wiki/Anti-gravity
 
-Antioch | (130:0.3) | | PLACE | OK
+Antioch | (130:0.3) | harbors | PLACE | OK
 Antioch was the capital of the Roman province of Syria, and here the imperial governor had his residence. Antioch had half a million inhabitants; it was the third city of the empire in size and the first in wickedness and flagrant immorality. (133:8.1)
 Jesus and Antioch
 	Jesus and his pupil Ganid were for some time at Antioch (133:8)
@@ -2511,7 +2511,7 @@ atheism; atheistic | | materialism; secularism; unbelievers | | OK
 many cults in India were frankly atheistic and believed that salvation could only be achieved through the efforts of man without outside help (94:2.5)
 materialism, atheism, is the maximation of ugliness, the climax of the finite antithesis of the beautiful. (56:10.4)
 
-Athens | (130:0.3) | Greece | PLACE | OK
+Athens | (130:0.3) | Greece; harbors | PLACE | OK
 Atenas was the cultural center of Alexander’s empire (133:5.1,12)
 Jesus held a talk on science with a Greek philosopher in Athens (133:5)
 The Hellenization of Christianity started in earnest on that eventful day when the Apostle Paul stood before the council of the Areopagus in Athens and told the Athenians about “the Unknown God”. (195:1.1,5)

@@ -229,7 +229,7 @@ supuesto regreso de (94:11.3)
 salamandras | | | | 
 surgió de la familia de los peces (65:2.6)
 
-Salamina | (133:7.13) | | PLACE | 
+Salamina | (133:7.13) | puertos | PLACE | 
 Jesús pasó por este lugar
 
 salario | | ganarse la vida | | 
@@ -5059,7 +5059,7 @@ cuando los enemigos te presenten ante los gobernantes de (165:3.7)
 
 síncopa | | música | | OK
 
-Siracusa | (130:0.2) | | PLACE | 
+Siracusa | (130:0.2) | puertos | PLACE | 
 La semana de Jesús en (130:8.2)
 
 Siria | (130:0.3) (134:7.1-2) | Asiria; Damasco | PLACE | 

@@ -81,7 +81,7 @@ Comerciante mongol creyente en (130:2.2)
 
 tapires | (61:1.9) (61:7.15) | | | 
 
-Tarento | (130:0.3) (133:0.2,3) | | PLACE | 
+Tarento | (130:0.3) (133:0.2,3) | puertos | PLACE | 
 Jesús contuvo al matón atacando a un niño pequeño en (133:1.1)
 hombre atacando a su esposa en (133:2)
 
@@ -1677,7 +1677,7 @@ evitar la pérdida de tiempo (163:4.5)
 Jesús perdió poco tiempo en (134:9.7)
 dedicar tanto tiempo y pensar en (110:3.4)
 
-Troade; Tróades | (130:0.3) (133:6.1) | | PLACE | 
+Troade; Tróades | (130:0.3) (133:6.1) | puertos | PLACE | 
 
 zona tropical | | | | 
 raras raras veces avanzadas que buscaban facilidad en (64:1.3) (81:6.7)

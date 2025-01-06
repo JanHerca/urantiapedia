@@ -64,7 +64,7 @@ Nanak, Gourou | | gourou Nanak | PERSON | OK
 Naomie | | | PERSON |
 mariée aux noces de Cana (137:3.6)
 
-Naples | (130:0.2) | | PLACE |
+Naples | (130:0.2) | ports | PLACE |
 le mendiant de Naples n'avait pas la capacité de réagir (130:8.4)
 Claude a prêché en (130:8.1)
 L'arrêt de Jésus à (130:8.4-5)
@@ -494,7 +494,7 @@ craignait d'être vu ouvertement avec Jésus (142:6.1)
 Les disciples de Jésus se réunissaient à la maison de (164:2.1) (174:5.5) (175:4.3) (183:4.4) (186:3.3) (189:4.2)
 La visite de Jésus à (142:6)
 
-Nicopolis | (130:0.3) | | PLACE |
+Nicopolis | (130:0.3) | ports | PLACE |
 fondée par Auguste pour commémorer Actium (133:2.5)
 
 police de nuit | | | |

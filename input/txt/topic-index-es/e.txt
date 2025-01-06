@@ -925,7 +925,7 @@ Eoceno | | edades geológicas | | OK
 el Eoceno fue la era temprana de los mamíferos hace 50 a 35 millones de años (61:1.14)
 > https://es.wikipedia.org/wiki/Eoceno
 
-Éfeso | (130:0.3) | | PLACE | OK
+Éfeso | (130:0.3) | puertos | PLACE | OK
 Éfeso era la capital de la provincia romana de Asia (133:6.1)
 En Éfeso Jesús pronunció un extenso discurso sobre el alma con un pensador local (133:6)
 Pablo residió dos años en Éfeso fabricando tiendas para ganarse la vida y dando conferencias cada noche sobre religión y filosofía en el salón principal de la escuela de Tirano. (133:6.3)

@@ -229,7 +229,7 @@ supposed return of (94:11.3)
 salamanders | | | | 
 sprang from fish family (65:2.6)
 
-Salamis | (133:7.13) | | PLACE | 
+Salamis | (133:7.13) | harbors | PLACE | 
 Jesus passed
 
 salary | | earning a living | | 
@@ -5059,7 +5059,7 @@ when enemies bring you before rulers of (165:3.7)
 
 syncopation | | music | | OK
 
-Syracuse | (130:0.2) | | PLACE | 
+Syracuse | (130:0.2) | harbors | PLACE | 
 Jesus’ week at (130:8.2)
 
 Syria | (130:0.3) (134:7.1-2) | Assyria; Damascus | PLACE | 

@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
+Cesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | puertos | PLACE | OK
 Herodes el Idumea construyó el puerto de Cesarea, cosa que también ayudó a que Palestina fuera el cruce de caminos del mundo civilizado. (121:2.11)
 Fue la capital romana de Judea (130:2.1) (184:3.17)
 Jesús se detuvo en Cesarea camino a Roma unos días, ayudando a reparar uno de los remos de la nave y conociendo e influyendo en varias personas, en especial en Anaxando, un destacado miembro en la iglesia cristiana posterior (130:2)
@@ -425,7 +425,7 @@ palomas mensajeras | | | | OK
 palomas mensajeras anunciaron la llegada de Adán y Eva, criadas en las colonias de creyentes precísamente para esta ocasión. (74:2.3)
 En la época de la llegada del Príncipe Planetario fue cuando se utilizaron por primera vez las palomas mensajeras; se llevaban en los viajes largos para enviar mensajes o pedir ayuda. (66:5.6)
 
-Cartago; cartagineses | (130:0.2) | | PLACE | OK
+Cartago; cartagineses | (130:0.2) | puertos | PLACE | OK
 Una gran colonia andita se estableció en el Mediterráneo cerca de Cartago (80:7.11)
 Los cartagineses forman parte de una raza más antigua que incluía a los judíos, los babilonios, y los fenicios (121:2.1)
 Jesús impartió un discurso sobre el tiempo y el espacio en Cartago (130:7)
@@ -835,7 +835,7 @@ el carácter en el universo
 	El número siete es fundamental en el universo central y en el sistema espiritual de las transmisiones inherentes del carácter (42:9.2)
 	Los discernidores secoráficos de espíritus y las Solemnidades de la Confianza son seres capaces de reflejar de manera infalible el verdadero carácter moral y espiritual de cualquier individuo sometido a una exposición focal. (28:5.19) (28:6.14)
 
-Charax | (130:0.1,3) | | PLACE | OK
+Charax | (130:0.1,3) | puertos | PLACE | OK
 Jesús dejó a Ganid y Gonod en Charax, emprendiendo el regreso a Palestina (133:9.4) (134:1.1)
 > https://es.wikipedia.org/wiki/Alejandría_de_Susiana
 
@@ -2551,7 +2551,7 @@ Las algas secretoras de cal son los ancestros de los corales (59:2.11)
 cuerdas, anudadas; cuerdas anudadas | | | | OK
 un método de escritura temprana fueron las cuerdas anudadas (69:4.7)
 
-Corinto | (130:0.3) | | PLACE | OK
+Corinto | (130:0.3) | puertos | PLACE | OK
 Corinto en tiempos de Jesús era la segunda ciudad de Grecia, y la tercera en el imperio romano tras Alejandría y Roma (133:3.4) (133:4.13)
 era la capital de la provincia romana de Acaya (133:2.5)
 Se podía viajar en un pequeño barco que podía ser transportado por tierra sobre un carril desde uno de los puertos de Corinto hasta el otro, a una distancia de dieciséis kilómetros. (133:4.14)
@@ -3439,7 +3439,7 @@ En Chipre Jesús conversó largamente con su alumno Ganid sobre la mente (133:7)
 Tomás predicó en Chipre (139:8.13)
 > https://es.wikipedia.org/wiki/Chipre
 
-Cirene | (130:0.2) | | PLACE | OK
+Cirene | (130:0.2) | puertos | PLACE | OK
 Jesús y Ganid prestaron sus primeros auxilios a un muchacho llamado Rufo, que había resultado herido. Su padre, Simón, jamás podía imaginar que el hombre cuya cruz llevaría más tarde, por orden de un soldado romano, era el mismo extranjero que en otro tiempo había socorrido a su hijo. (130:6.6)
 Simón era padre de Rufo y Alejandro de Cirene. Ambos hijos fueron unos instructores muy eficaces del nuevo evangelio en África. (187:1.9-10)
 > https://es.wikipedia.org/wiki/Cirene

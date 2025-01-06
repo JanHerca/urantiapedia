@@ -1484,7 +1484,7 @@ youngest apostle, unmarried, from Capernaum; 24 in A.D. 26 (139:4.1) (181:2.2)
 Jonah | (159:4.4) | | PERSON | 
 Jesus’ discourse on (130:1)
 
-Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE | 
+Joppa | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | harbors | PLACE | 
 Jesus here several times
 
 Jordan River; Jordan | | | PLACE | 

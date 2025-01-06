@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
+Caesarea | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | harbors | PLACE | OK
 Herod the Idumean built the harbor of Caesarea, which further aided in making Palestine the crossroads of the civilized world. (121:2.11)
 It was the Roman capital of Judea (130:2.1) (184:3.17)
 Jesus stopped at Caesarea on his way to Rome for a few days, helping to repair one of the ship's oars and meeting and influencing several people, especially Anaxandus, a leading member of the later Christian church. (130:2)
@@ -425,7 +425,7 @@ carrier pigeons | | | | OK
 carrier pigeons announced arrival of Adam and Eve, kept up by believer settlements for just such an occasion. (74:2.3)
 It was on Prince’s staff times that carrier pigeons were first used, being taken on long journeys for the purpose of sending messages or calls for help. (66:5.6)
 
-Carthage; Carthaginians | (130:0.2) | | PLACE | OK
+Carthage; Carthaginians | (130:0.2) | harbors | PLACE | OK
 A great Andite colony settled on the Mediterranean near the later site of Carthage. (80:7.11)
 Carthaginians were part of an older race which included the Jews, the Babylonians, and the Phoenicians (121:2.1)
 Jesus gave a speech on time and space in Carthage (130:7)
@@ -835,7 +835,7 @@ character in the universe
 	The number seven is basic to the central universe and the spiritual system of inherent transmissions of character (42:9.2)
 	secoraphic Discerners of Spirits and Solemnities of Trust unerringly reflect the actual moral and spiritual character of any individual concerned in a focal exposure. (28:5.19) (28:6.14)
 
-Charax | (130:0.1,3) | | PLACE | OK
+Charax | (130:0.1,3) | harbors | PLACE | OK
 Jesus left Ganid and Gonod at Charax, heading back to Palestine (133:9.4) (134:1.1)
 > https://en.wikipedia.org/wiki/Charax_Spasinu
 
@@ -2551,7 +2551,7 @@ lime-secreting algae were ancestry of coral (59:2.11)
 cords, knotted; knotted cords | | | | OK
 an early writing knotted cords (69:4.7)
 
-Corinth | (130:0.3) | | PLACE | OK
+Corinth | (130:0.3) | harbors | PLACE | OK
 Corinth at the time of Jesus was the second city in Greece, and the third in the Roman Empire after Alexandria and Rome (133:3.4) (133:4.13)
 it was the capital of the Roman province of Achaia (133:2.5)
 You could travel in a small boat that could be transported overland on a rail from one of the Corinthian ports to the other, a distance of ten miles. (133:4.14)
@@ -3439,7 +3439,7 @@ In Cyprus, Jesus had a long conversation with his student Ganid about the mind (
 Thomas preached in Cyprus (139:8.13)
 > https://en.wikipedia.org/wiki/Cyprus
 
-Cyrene | (130:0.2) | | PLACE | OK
+Cyrene | (130:0.2) | harbors | PLACE | OK
 Jesus and Ganid gave first aid to a lad named Rufus, who had been injured by a breakdown. His father, Simon, little dreamed that the man whose cross he subsequently bore by orders of a Roman soldier was the stranger who once befriended his son. (130:6.6)
 Simon was the father of Rufus and Alexander from Cyrene. Both sons became very effective teachers of the new gospel in Africa. (187:1.9-10)
 > https://en.wikipedia.org/wiki/Cyrene,_Libya

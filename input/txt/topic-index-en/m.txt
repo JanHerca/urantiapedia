@@ -201,7 +201,7 @@ tribe believes itself descended from lemur (74:8.5)
 Malchus | | | PERSON | 
 Syrian bodyguard of high priest (183:3.7)
 
-Malta | (130:0.2) | | PLACE | 
+Malta | (130:0.2) | harbors | PLACE | 
 Jesus’ stop at (130:8.1)
 Thomas put to death on (139:8.13)
 
@@ -1724,7 +1724,7 @@ Messiah of kingdom became Redeemer of church (170:5.3-6)
 prophecy of Book of Zechariah (172:3.4)
 Scriptures invoked to support contending views of Messiah (136:1.1) (172:3.4)
 
-Messina | (130:0.2) | | PLACE | 
+Messina | (130:0.2) | harbors | PLACE | 
 Jesus’ stop at (130:8.3)
 
 metalworking | | | | 

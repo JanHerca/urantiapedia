@@ -229,7 +229,7 @@ retour supposé de (94:11.3)
 salamandres | | | |
 est issu de la famille des poissons (65:2.6)
 
-Salamine | (133:7.13) | | PLACE |
+Salamine | (133:7.13) | ports | PLACE |
 Jésus est décédé
 
 salaire | | gagner sa vie | |
@@ -2448,7 +2448,7 @@ la philosophie s'appuie sur la métaphysique (103:6.14)
 Scepticisme (religion); sceptiques | | | RELIGION |
 La religion occidentale a langui jusqu'aux jours de (98:6.2)
 
-ciel | | atmosphère | |
+cieux | | atmosphère | |
 C'est une erreur de rêver de Dieu au loin dans les cieux (5:2.3)
 
 crânes | | têtes larges; longues têtes; têtes moyennes; têtes rondes; structures squelettiques | |
@@ -4352,7 +4352,7 @@ ordres
 		invoquer les séraphins à Séraphington (39:8.4)
 		les transporteurs opèrent parmi les circuits de Havona; atterrissent sur le Paradis périphérique (11:4.1) (14:5.5) | transport séraphique, sécoraphique et supéraphique
 		types
-			# superviseurs d'harmonie
+			# surveillants d’harmonie
 			# enregistreurs en chef
 			# diffuseurs
 			# messagers
@@ -5059,7 +5059,7 @@ lorsque les ennemis vous amènent devant les dirigeants de (165:3.7)
 
 syncope | | musique | | OK
 
-Syracuse | (130:0.2) | | PLACE |
+Syracuse | (130:0.2) | ports | PLACE |
 La semaine de Jésus à (130:8.2)
 
 Syrie | (130:0.3) (134:7.1-2) | Assyrie; Damas | PLACE |

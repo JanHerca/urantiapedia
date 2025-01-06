@@ -9,7 +9,7 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Césarée | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | | PLACE | OK
+Césarée | (128:3.2) (130:0.2) (134:7.4) (140:7.2) (152:7.3) | ports | PLACE | OK
 Hérode l'Iduméen construisit le port de Césarée, ce qui contribua encore davantage à faire de la Palestine le carrefour du monde civilisé. (121:2.11)
 C'était la capitale romaine de la Judée (130:2.1) (184:3.17)
 Jésus s'arrêta à Césarée en route vers Rome pendant quelques jours, aidant à réparer l'une des rames du navire et rencontrant et influençant plusieurs personnes, en particulier Anaxandeus, un membre éminent de l'Église chrétienne ultérieure. (130:2)
@@ -425,7 +425,7 @@ pigeons voyageurs | | | | OK
 Les pigeons voyageurs annonçaient l'arrivée d'Adam et Eve, et étaient maintenus dans les colonies de croyants pour une telle occasion. (74:2.3)
 C'est à l'époque où Prince travaillait que les pigeons voyageurs ont été utilisés pour la première fois, emportés lors de longs voyages dans le but d'envoyer des messages ou des appels à l'aide. (66:5.6)
 
-Carthage; Carthaginois | (130:0.2) | | PLACE | OK
+Carthage; Carthaginois | (130:0.2) | ports | PLACE | OK
 Une grande colonie andite s'est installée sur la Méditerranée, près du site ultérieur de Carthage. (80:7.11)
 Les Carthaginois faisaient partie d'une race plus ancienne qui comprenait les Juifs, les Babyloniens et les Phéniciens (121:2.1)
 Jésus a prononcé un discours sur le temps et l'espace à Carthage (130:7)
@@ -835,7 +835,7 @@ personnage dans l'univers
 	Le nombre sept est fondamental pour l'univers central et le système spirituel des transmissions inhérentes du caractère (42:9.2)
 	Les discerneurs d'esprits et les solennités de confiance reflètent infailliblement le caractère moral et spirituel réel de tout individu concerné par une exposition focale. (28:5.19) (28:6.14)
 
-Charax | (130:0.1,3) | | PLACE | OK
+Charax | (130:0.1,3) | ports | PLACE | OK
 Jésus laissa Ganid et Gonod à Charax, retournant en Palestine (133:9.4) (134:1.1)
 > https://en.wikipedia.org/wiki/Charax_Spasinu
 
@@ -2551,7 +2551,7 @@ les algues sécrétant du calcaire étaient les ancêtres du corail (59:2.11)
 cordes nouées; cordes à nœuds | | | | OK
 une écriture ancienne cordes nouées (69:4.7)
 
-Corinthe | (130:0.3) | | PLACE | OK
+Corinthe | (130:0.3) | ports | PLACE | OK
 Corinthe, à l'époque de Jésus, était la deuxième ville de Grèce et la troisième de l'Empire romain après Alexandrie et Rome (133:3.4) (133:4.13)
 c'était la capitale de la province romaine d'Achaïe (133:2.5)
 On pouvait voyager dans un petit bateau qui pouvait être transporté par voie terrestre sur un rail d'un port de Corinthe à l'autre, sur une distance de dix milles. (133:4.14)
@@ -3439,7 +3439,7 @@ Vers 5000 av. J.-C., une puissante armée de Mésopotamiens progressistes quitta
 Thomas a prêché à Chypre (139:8.13)
 > https://en.wikipedia.org/wiki/Cyprus
 
-Cyrène | (130:0.2) | | PLACE | OK
+Cyrène | (130:0.2) | ports | PLACE | OK
 Jésus et Ganid ont donné les premiers soins à un jeune garçon nommé Rufus, qui avait été blessé par une crise cardiaque. Son père, Simon, n'imaginait pas que l'homme dont il devait porter la croix sur ordre d'un soldat romain était l'étranger qui avait autrefois pris l'amitié de son fils. (130:6.6)
 Simon était le père de Rufus et d'Alexandre de Cyrène. Les deux fils devinrent des enseignants très efficaces du nouvel Évangile en Afrique. (187:1.9-10)
 > https://en.wikipedia.org/wiki/Cyrène,_Libya

@@ -201,7 +201,7 @@ la tribu croit descendre du lémurien (74:8.5)
 Malchus | | | PERSON |
 Garde du corps syrien du grand prêtre (183:3.7)
 
-Malte | (130:0.2) | | PLACE |
+Malte | (130:0.2) | ports | PLACE |
 L'arrêt de Jésus à (130:8.1)
 Thomas mis à mort le (139:8.13)
 
@@ -1724,7 +1724,7 @@ Le Messie du Royaume est devenu le Rédempteur de l'Église (170:5.3-6)
 prophétie du livre de Zacharie (172:3.4)
 Écritures invoquées pour soutenir les points de vue divergents sur le Messie (136:1.1) (172:3.4)
 
-Messine | (130:0.2) | | PLACE |
+Messine | (130:0.2) | ports | PLACE |
 L'arrêt de Jésus à (130:8.3)
 
 travail des métaux | | | |

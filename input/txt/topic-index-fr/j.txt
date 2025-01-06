@@ -1484,7 +1484,7 @@ le plus jeune apôtre, célibataire, de Capharnaüm; 24 ans en 26 apr. J.-C. (13
 Jonas | (159:4.4) | | PERSON |
 Discours de Jésus sur (130:1)
 
-Joppé | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | | PLACE |
+Joppé | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | ports | PLACE |
 Jésus ici plusieurs fois
 
 Jourdain; Jordanie | | | PLACE |

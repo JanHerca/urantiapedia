@@ -201,7 +201,7 @@ tribu se cree descendiente del lémur (74:8.5)
 Malco | | | PERSON | 
 Guardaespaldas del sumo sacerdote sirio (183:3.7)
 
-Malta | (130:0.2) | | PLACE | 
+Malta | (130:0.2) | puertos | PLACE | 
 Parada de Jesús en (130:8.1)
 Tomás ejecutado (139:8.13)
 
@@ -1724,7 +1724,7 @@ el Mesías del reino se convirtió en Redentor de la iglesia (170:5.3-6)
 profecía del Libro de Zacarías (172:3.4)
 Escrituras invocadas para apoyar puntos de vista opuestos de Mesías (136:1.1) (172:3.4)
 
-Mesina | (130:0.2) | | PLACE | 
+Mesina | (130:0.2) | puertos | PLACE | 
 Parada de Jesús en (130:8.3)
 
 metalurgia | | | | 

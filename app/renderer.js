@@ -2068,7 +2068,7 @@ const showTITopic = () => {
 		}
 		return t.lines.map(line => {
 			const tabs = '\t'.repeat(line.level);
-			const text = line.openAPI && line.openAPI.value
+			const text = line.openAI && line.openAI.value
 				? line.openAI.value
 				: line.text;
 			const refs = line.refs.length > 0
