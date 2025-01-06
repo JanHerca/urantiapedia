@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 El papel de la mujer en el mundo oriental de aquella época y en particular en Israel era mucho más asfixiante de lo que hoy se puede pensar. El desprecio de los hombres de aquellos días por sus mujeres era algo que hoy resulta difícil de comprender.
 
 Por ejemplo, cuando la mujer judía salía de su casa, no importaba para qué, tenía que llevar siempre la cara cubierta con un tocado que comprendía dos velos sobre la cabeza, una diadema sobre la frente, con cintas colgantes hasta la barbilla, y una malla de cordones y nudos. De este modo no se podían reconocer los rasgos de su rostro. La mujer que de este modo salía de su casa sin llevar la cabeza cubierta ofendía hasta tal punto las «buenas costumbres» que su marido tenía el derecho y, según los doctores de la ley, hasta el deber de despedirla, sin estar obligado a pagarle la suma estipulada para el caso de divorcio. Y sobre esto hay que decir que había mujeres tan estrictas también, que tampoco se descubrían en su propia casa. Sólo el día de la boda, y si la mujer era virgen y no viuda, aparecía en el cortejo con la cabeza al descubierto.
@@ -43,7 +59,7 @@ En la casa, la mujer no era contada en el número de personas invitadas a pronun
 
 Para concluir, era muy significativo que el nacimiento de un varón era motivo de alegría, y el de una niña se veía acompañado de la indiferencia, e incluso de la tristeza. Los escritos rabínicos llegaban a proclamar: «¡Desdichado de aquel cuyos hijos son niñas!».
 
-Teniendo en cuenta todos estos precendentes se valorará más en su justa medida el valor que representaba el que Jesús se rodease también de mujeres, que conversase libremente con ellas y que las tratase como a los hombres (<a id="a45_223"></a>[LU 143:5.2](/es/The_Urantia_Book/143#p5_2)); e incluso que infundiese esos mismos nuevos ánimos y sentimientos en la mente de los hombres que le conocieron (<a id="a45_381"></a>[LU 125:5.4](/es/The_Urantia_Book/125#p5_4), <a id="a45_426"></a>[LU 127:1.5](/es/The_Urantia_Book/127#p1_5)). En el relato de _Jesús de Nazaret_, el maestro, en una acción inédita para la época, llegó a nombrar a un grupo de mujeres como predicadoras (<a id="a45_614"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1)), adelantándose incluso a nuestro tiempo. Esta actitud no trajo para el Rabí sino enormes quebraderos de cabeza y fracasos, y los primeros cristianos no tardaron en silenciar estas posturas para no perder adeptos.
+Teniendo en cuenta todos estos precendentes se valorará más en su justa medida el valor que representaba el que Jesús se rodease también de mujeres, que conversase libremente con ellas y que las tratase como a los hombres (<a id="a45_223"></a>[LU 143:5.2](/es/The_Urantia_Book/143#p5_2)); e incluso que infundiese esos mismos nuevos ánimos y sentimientos en la mente de los hombres que le conocieron (<a id="a45_381"></a>[LU 125:5.4](/es/The_Urantia_Book/125#p5_4), <a id="a45_426"></a>[LU 127:1.5](/es/The_Urantia_Book/127#p1_5)). En el relato de _Jesús de Nazaret_[^1], el maestro, en una acción inédita para la época, llegó a nombrar a un grupo de mujeres como predicadoras (<a id="a45_614"></a>[LU 150:1.1](/es/The_Urantia_Book/150#p1_1)), adelantándose incluso a nuestro tiempo. Esta actitud no trajo para el Rabí sino enormes quebraderos de cabeza y fracasos, y los primeros cristianos no tardaron en silenciar estas posturas para no perder adeptos.
 
 ## Referencias
 
@@ -54,3 +70,23 @@ Teniendo en cuenta todos estos precendentes se valorará más en su justa medida
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/situacion-social-de-la-mujer-judia-en-tiempos-de-jesus)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+## Notas
+
+[^1]: En la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.

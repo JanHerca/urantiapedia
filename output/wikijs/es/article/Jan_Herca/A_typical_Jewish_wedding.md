@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Las costumbres antiguas de las bodas judías son bastante difíciles de determinar, según los expertos. No disponemos más que de referencias dispersas y fragmentarias que nos impiden configurar una visión completa. Además, las costumbres variaban de un distrito judío a otro.
 
 Así lo confirma Joachim Jeremías en su libro _Las parábolas de Jesús_:
@@ -72,6 +88,22 @@ He utilizado toda esta información para configurarme una idea de cómo eran las
 - Joachim Jeremías, _Las parábolas de Jesús_, Editorial Verbo Divino, 1974.
 
 - Alfred Edersheim, _Bocetos de la vida social judía_, 1876. Disponible [on-line](http://www.ccel.org/ccel/edersheim/sketches.html).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 
