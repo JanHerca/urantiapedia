@@ -901,7 +901,7 @@ Les rituels de naissance visaient historiquement à protéger la mère contre le
 La pratique consistant à tremper les doigts dans l’eau bénite, utilisée dans les rituels mithraïques et chrétiens, unissait les adeptes des deux religions dans la Rome antique. (98:6.4)
 L’eau bénite, autrefois utilisée par les prêtres pour laver les pieds, était considérée comme la protection ultime contre les fantômes. (87:6.12)
 
-maison; foyer; foyers | (84) | éducation des enfants; famille; maison; mariage | | OK
+foyer; foyers; maison | (84) | éducation des enfants; famille; maison; mariage | | OK
 L’Évangile de Jésus, fondé sur la relation père-enfant, ne pourra être adopté dans le monde entier que si les foyers modernes incarnent davantage d’amour et de sagesse, comme on le voit dans la maison de Jésus en Galilée et dans celle de Jean Marc en Judée, où l’acceptation de l’Évangile conduit à une amélioration immédiate. (177:2.6)
 Les évangélistes ont reçu pour instruction de demeurer dans la première maison digne choisie dans une ville pendant leur séjour, en faisant preuve de gentillesse et de courtoisie envers leurs hôtes. (163:4.6) (163:4.14)
 Peu de foyers modernes peuvent se comparer à l’amour et à la sagesse que l’on trouve dans les foyers de Jésus et de Jean Marc, qui illustrent l’environnement idéal pour élever des enfants et incarner les enseignements de l’Évangile sur une relation père-enfant. (177:2.6-7)
@@ -931,90 +931,93 @@ La valeur du foyer
 	Le foyer stabilise la personnalité grâce à l'ajustement nécessaire à des personnalités diverses, favorisant la véritable moralité et la loyauté au devoir. (84:7.30)
 	L’avenir incertain d’Amos contraste avec l’assurance d’une vie après la mort plus heureuse et plus fiable pour ceux qui reçoivent une éducation familiale aimante et sage dans leurs premières années. (177:2.4-5)
 
-concepteurs et constructeurs de maisons | | | |
-bâtisseurs divins, artisans célestes (44:3.2)
+modélistes et bâtisseurs de maisons | | | | OK
+« Les bâtisseurs divins et les artisans célestes créent de véritables et beaux domiciles spirituels pour les individus et les groupes de travail, permettant une abondante variété et une expression individuelle dans leur construction. » (44:3.2)
 
-sans-abri | | | |
-ramener à la maison (147:8.3)
+pauvres sans asile; pauvres qui errent sans asile | | | | OK
+Ramener à la maison les sans-abri et partager le pain avec les affamés, voilà le véritable jeûne que désire le Seigneur. (147:8.3)
 
-Phénicien nostalgique; Phénicien fort découragé | | | |
-Les paroles réconfortantes de Jésus à (133:6.2)
+Phénicien nostalgique; Phénicien fort découragé | | | PERSON | OK
+Les paroles réconfortantes de Jésus au Phénicien nostalgique l’ont aidé à trouver réconfort et espoir au milieu de l’envie et du découragement. (133:6.2)
 
-Honan | | | |
-civilisation chinoise avancée (79:7.1,5)
-Les colonies andites (79:7.1)
-problèmes hydrauliques des agriculteurs en (79:8.6)
+Honan | | | PLACE | OK
+La civilisation chinoise avancée du Honan fut grandement influencée par l’infiltration d’Andites à moitié andonites et à moitié andites venus de l’ouest, stimulant le développement rapide des tendances latentes des souches chinoises supérieures. (79:7.1,5)
+Il y a quinze mille ans, les Andites infiltrèrent le Honan depuis l’ouest, se mêlant aux colons andonites dans les colonies chinoises progressistes. (79:7.1)
+Les problèmes hydrauliques des agriculteurs du Honan nécessitaient une coopération de groupe pour être résolus, favorisant la paix entre les groupes agricoles. (79:8.6)
 
 Honen Shonin | | | PERSON | OK
 Honen était un leader bouddhiste japonais qui enseignait le double concept de Dieu et de l'Absolu à travers la croyance au Bouddha Amida. Il a enseigné que l'âme peut atteindre le Nirvana grâce à une foi sincère et pure. (94:12.2-3)
 > https://en.wikipedia.org/wiki/Hōnen
 
-honnêteté | | fraude; mensonge; vérité | |
-fonder la vie sur la plus haute vérité (110:3.7)
-cf: erreur de toujours dire ce que l'on pense (180:5.5) (181:2.21)
-Les premiers commerçants considéraient qu'il était permis de tromper les étrangers (69:4.3)
-faire face aux réalités de la vie (133:4.11) (193:4.9)
-suivre la vérité où qu'elle mène, et quelles que soient les conclusions (3:5.10) (103:7.5)
-fruit de l'esprit (193:2.2)
-Jésus a embrassé la vérité quelle que soit sa source apparente (126:3.8)
-En ce qui concerne la propriété, l'honnêteté reposait à l'origine sur la superstition (69:9.9)
-la vérité rend l'homme libre (52:5.4) (101:6.10) (141:7.6) (143:1.4) (162:7.2) (194:2.2) (194:3.5)
-la vérité doit frapper le cœur avec des racines vivantes (151:2.2) (177:5.2)
+honnêteté | | fraude; mensonge; vérité | | OK
+Fondez votre vie sur la plus haute vérité de la direction divine, coordonnant la vérité, la beauté et la bonté par la sagesse, l’adoration, la foi et l’amour. (110:3.7)
+C’est une erreur de toujours dire ce que l’on pense sans discernement et discrétion spirituels, car la sincérité doit être modulée pour le bien-être intellectuel et spirituel des autres. (180:5.5) (181:2.21)
+L’honnêteté des premiers commerçants ne s’étendait qu’à leurs propres tribus, car ils jugeaient permis de tromper les étrangers. (69:4.3)
+Faites face aux faits de la vie honnêtement, comme Jésus l’a enseigné, et soyez un vrai homme déterminé à vivre courageusement et intelligemment. (133:4.11) (193:4.9)
+L’homme doit grandir dans un monde d’erreur et de mensonge, guidé par l’amour de la vérité et la volonté de la suivre quelles que soient les conclusions. (3:5.10) (103:7.5)
+Les fruits de l’esprit comprennent le service aimant, le dévouement désintéressé, la loyauté courageuse, l’équité sincère, l’honnêteté éclairée, l’espoir indéfectible, la confiance pleine de confiance, le ministère miséricordieux, la bonté indéfectible, la tolérance indulgente et la paix durable. (193:2.2)
+Jésus a adopté le titre de « Fils de l’homme » après avoir trouvé la vérité dans le Livre d’Énoch partiellement accrédité, l’embrassant quelle que soit sa source apparente. (126:3.8)
+L’honnêteté de propriété reposait à l’origine sur la croyance que les biens personnels étaient imprégnés de l’essence du propriétaire, éliminant ainsi le besoin de police et favorisant l’unité au sein du groupe. (69:9.9)
+La vérité rend l’homme libre, car le Fils de l’effusion vit et meurt pour l’élévation spirituelle des races mortelles, établissant une voie nouvelle et vivante de salut et de liberté humaine par la reconnaissance sincère de la vérité. (52:5.4) (101:6.10) (141:7.6) (143:1.4) (162:7.2) (194:2.2) (194:3.5)
+« La vérité doit frapper dans le cœur avec des racines vivantes, car ceux qui entendent l'évangile superficiellement ne résisteront pas à la tribulation et à la persécution. » (151:2.2) (177:5.2)
 
-honneur | | gloire; fierté; respect; respect de soi | |
-futile sans un public devant lequel défiler (68:2.10)
+honneur; honneurs | | gloire; fierté; respect; respect de soi | | OK
+L’honneur, l’orgueil, l’ambition – vains sans un public devant lequel défiler, sont à l’origine de l’art, du cérémonial et des sports. (68:2.10)
+Pour vivre de manière désintéressée, il faut faire face à la demande constante d’honneur de l’intérieur. (3:5.13)
+Recherchez seulement ce qui vous appartient honnêtement en matière d’honneur et de reconnaissance. (156:5.19)
 historiquement
-	primitifs désirés (69:5.7)
-	la richesse est devenue très tôt un signe de distinction sociale (69:5.13)
-	Les fils de Zébédée recherchés (171:0.5)
-clameur incessante du moi incontournable pour l'honneur (3:5.13)
-caractère sacré de l'honneur personnel (196:0.7)
-ne cherche que ce qui t'appartient (156:5.19)
+Les primitifs désiraient le prestige social et politique en achetant une noblesse commercialisée basée sur des services spéciaux ou de l’argent. (69:5.7)
+Accumuler des richesses a longtemps été un symbole de statut social et de pouvoir, mis en valeur par des cadeaux extravagants et des actes philanthropiques. (69:5.13)
+Les fils de Zébédée recherchaient l’honneur, mais Jésus leur a enseigné la vraie nature de son royaume. (171:0.5)
+La foi spirituelle de Jésus harmonisait l’honneur personnel avec les jugements pratiques. (196:0.7)
 
-espoirs | | | |
-Entretenir de faux espoirs mène à la déception et à la frustration (97:8.4) (137:6.5)
-l'œil n'a pas vu ce que Dieu a préparé (11:4.5) (24:6.2) (43:6.8)
-les espoirs les plus chers doivent parfois mourir pour une nouvelle opportunité (48:6.36)
-fruit de l'esprit (193:2.2)
-grandeur de la confiance (3:5.8)
-L'espérance renaît éternellement dans le cœur humain (181:1.7)
-L'espoir transcende toute peur à cause de l'amour de Dieu (34:6.13)
-Jésus a à plusieurs reprises anéanti les espoirs des apôtres (139:0.1) (145:4.3) (153:1.3) (153:5.1) (157:4.1) (158:5.4)
-diminuer les attentes pour réduire la déception (192:2.10)
-l'homme gagne un statut par son (3:5.16)
-Les individus nés de l'esprit se calment tandis que les espoirs les plus vifs s'effondrent (100:2.8)
-la transformation de la foi engendre l'espérance (101:10.8)
+espoirs; espérances; espoir | | | |
+L’espoir, la grandeur de la confiance, fait de faire face aux insécurités et aux incertitudes une partie nécessaire de l’existence humaine. (3:5.8)
+« L’homme acquiert un statut par sa foi et son espoir, une réalité d’expérience personnelle en contraste avec la bonté inhérente des êtres parfaits de Havona. » (3:5.16)
+L’œil n’a pas vu ce que Dieu a préparé pour ceux qui survivent à la vie dans la chair, car les réalités ultra-spirituelles du Paradis sont au-delà de la compréhension mortelle. (11:4.5) (24:6.2) (43:6.8)
+La vie du mortel guidé par l’Esprit est marquée par les caractéristiques de l’Esprit, car les fruits de l’Esprit englobent l’amour, la joie, la paix, la longanimité, la gentillesse, la bienveillance, la foi, la douceur et la tempérance, révélant l’espérance éternelle qui transcende toute crainte par l’amour de Dieu. (34:6.13)
+Parfois, nos espoirs les plus chers doivent mourir pour faire place à de nouvelles opportunités, nous conduisant à apprendre et à grandir à travers les déceptions. (48:6.36)
+Les individus nés de l’Esprit restent calmes alors que leurs espoirs les plus ardents s’effondrent, sachant que de telles catastrophes sont des cataclysmes de réorientation qui ouvrent la voie à des réalités plus nobles et plus durables dans un nouveau niveau de réalisation de l’univers. (100:2.8)
+L’espérance jaillit éternellement dans le cœur humain, procurant du réconfort à ceux qui suivent la volonté de Dieu plutôt que de rechercher la joie dans le monde matériel. (181:1.7)
+Le fruit de l’esprit comprend l’espoir éternel, entre autres qualités, que les croyants doivent montrer en servant les autres avec amour. (193:2.2)
+Jésus a à plusieurs reprises déçu les espoirs, mais les apôtres sont restés fidèles, à l’exception de quelques-uns qui se préparaient à le rejeter. (139:0.1) (145:4.3) (153:1.3) (153:5.1) (157:4.1) (158:5.4)
+Les faux espoirs ont conduit à la déception et à la frustration raciales, provoquant la confusion parmi les dirigeants juifs qui n’ont pas reconnu le Fils divin du Paradis lorsqu’il est venu à eux dans la chair mortelle. (97:8.4) (137:6.5)
+Servez avec une affection inlassable, mélangez l’amitié au conseil, ajoutez l’amour à la philosophie et soyez moins critique pour réduire la déception. (192:2.10)
+La transformation de la foi engendre l’espoir, libérant l’individu de la peur de l’existence et lui donnant le pouvoir d’être un fils du Père Universel. (101:10.8)
 
-horde | | | |
-la société la plus primitive était (70:3.1)
+horde | | | | OK
+Dans la société la plus primitive, la horde était tout et même les enfants étaient sa propriété commune avant que les familles en évolution et les clans et tribus émergents ne prennent sa place comme unité sociale. (70:3.1)
 
 Horeb | | mont Sinaï | PLACE | OK
 
-hormones | | | |
-réactions chimiques résultant de (65:6.6)
-glandes pituitaires en relation avec la réception spirituelle (49:5.19)
+hormones; sécrétions hormonales | | | | OK
+Les réactions chimiques résultant des hormones régulent d’innombrables processus vitaux dans les organismes vivants. (65:6.6)
+La réception de l’esprit est influencée par l’organisation de certaines glandes comparables aux corps pituitaires, déterminant l’imagination inhérente et la réceptivité spirituelle. (49:5.19)
 
-frelons | | | |
-la colère est une pierre jetée dans le nid de (48:7.20)
+frelons; nid de frelons | | | | OK
+L’impatience est un poison spirituel, et la colère est comme une pierre lancée dans un nid de frelons. (48:7.20)
 
-chevaux-vapeur | | | |
-une goutte d'eau contient 100 chevaux-vapeur exercés sur 2 ans (41:7.13)
+chevaux-vapeur | | | | OK
+Une goutte d'eau contenant 100 chevaux-vapeur exercée pendant 2 ans montre l'incroyable potentiel énergétique de l'atome. (41:7.13)
 
-chevaux | | | |
-apparence (61:1.9) (61:2.9) (61:3) (61:4.4-5) (61:5.7)
-éteint en Amérique avant l'arrivée de l'homme rouge (61:4.5) (61:7.15)
-en usage général vers 5000 av. J.-C. (81:2.12) (81:3.6)
-l'intelligence se rapproche de celle de l'éléphant (61:3.6,10)
-Voler des chevaux est une infraction capitale (70:10.15)
-ont tendance à fuir lorsqu'ils sont effrayés (61:3.10)
+chevaux; cheval | | | | OK
+évolution
+	Les chevaux sont un exemple remarquable d'évolution, vivant aux côtés de diverses autres espèces de mammifères pendant une période de développement biologique significatif sur des millions d'années. (61:1.9) (61:2.9) (61:3) (61:4.4-5) (61:5.7)
+	Le cheval a évolué en Amérique du Nord, mais s'est éteint avant l'arrivée de l'homme rouge. (61:4.5) (61:7.15)
+	L'intelligence du cheval se rapproche de celle de l'éléphant, surpassée seulement par l'homme lui-même. (61:3.6,10)
+	Les chevaux, comme les éléphants, ont tendance à fuir lorsqu'ils sont effrayés, manquant du contrôle émotionnel de l'éléphant. (61:3.10)
+domestication
+	Le cheval n'était pas domestiqué à l'époque du personnel du Prince, contrairement à d'autres animaux utiles tels que les chiens, les éléphants et les bœufs. (66:5.5)
+	Les chevaux chassés par les Néandertaliens étaient abondants en Europe il y a 800 000 ans. (64:4.2)
+	Les Andites du Turkestan furent les premiers à domestiquer largement le cheval, contribuant à leur domination culturelle durable. (81:2.12)
+	L'évolution du cheval a permis aux cavaliers andites de dominer rapidement l'Occident, leur donnant l'avantage de la mobilité et permettant une progression cohérente du groupe à travers l'Europe. (80:4.4)
+	En 5000 av. J.-C., le cheval domestiqué était d'usage général, avec d'autres animaux, par les agriculteurs mésopotamiens, turkestanais et chinois, façonnant les cultures et facilitant le commerce. (81:2.12) (81:3.6)
 valeur
-	Les Andites du Turkestan furent les premiers à être largement domestiqués (81:2.12)
-	domination déterminée des Andites en Occident (80:4.4)
-	pour la nourriture, les voyages, l'agriculture, la guerre (61:3.11)
-	chassé par les Néandertaliens (64:4.2)
-	non domestiqué à l'époque du personnel du Prince (66:5.5)
-	offrait aux barbares un avantage militaire considérable (78:8.3)
-Vishnou représenté avec une tête de cheval (85:3.4)
+	Les chevaux ont été essentiels pour l'alimentation, les voyages, l'agriculture et la guerre, façonnant la civilisation humaine. (61:3.11)
+	La possession de chevaux apprivoisés offrait aux barbares du Turkestan et du plateau iranien un avantage militaire considérable sur les paisibles cultivateurs de céréales des vallées de l’Euphrate et du Tigre. (78:8.3)
+	Le vol de chevaux était autrefois un crime capital, mais la certitude et la rapidité se sont révélées des moyens de dissuasion plus efficaces. (70:10.15)
+L’adoration des chevaux
+	L’adoration des animaux, y compris des chevaux, est le résultat de croyances anciennes dans la signification des créatures et des dieux symboliques. (85:3.4)
 
 Horus | | | PERSON | OK
 Horus était le dieu égyptien du ciel, fils d'Osiris et d'Isis. Dans sa bataille légendaire avec Seth, il perd un œil qui est ensuite restauré par le dieu Thot en crachant sur sa blessure, reproduisant une ancienne croyance dans le pouvoir curatif de la salive. (95:2.6)
@@ -1026,46 +1029,47 @@ Les écrits secrets d'Osée et d'autres prophètes ont commencé l'Ancien Testam
 Jésus a dit que le Père avait parlé dans le passé par l'intermédiaire de prophètes comme Osée (155:6.2)
 > https://en.wikipedia.org/wiki/Hosea
 
-hospitalité | | amitié | |
-L'amitié des invités était une hospitalité temporaire (70:3.9)
-ministre comme celui qui divertit les enfants du Très-Haut (133:4.8)
+hospitalité | | amitié | | OK
+« L’hospitalité était une tradition d’hospitalité temporaire, où les invités qui partaient recevaient un plat à présenter aux futurs visiteurs, tout en payant leur voyage avec des récits de leurs voyages. » (70:3.9)
+« Offrez votre hospitalité comme quelqu’un qui reçoit les enfants du Très-Haut, transformant le travail quotidien en un art raffiné de servir Dieu pour chaque invité. » (133:4.8)
 
 hostilité | | haine | | OK
 
-hôtes des visiteurs célestes | | | |
-Compagnons Morontiels; divertissent des groupes surhumains (48:3.10)
+hôtes des visiteurs célestes; Hôtes des visiteurs célestes | | | PERSON | OK
+Les Compagnons Morontiels accueillent des groupes surhumains sur les mondes de transition. (48:3.10)
 
-maison de Fad | | | |
-Bibliothèque de Dalamatie (66:5.9)
+maison de Fad | | | | OK
+Fad présidait la faculté d'éducation de la bibliothèque de Dalamatia, organisant et dirigeant la diffusion et la conservation des connaissances dans les premiers âges. (66:5.9)
 
-maisons | | maison | |
-maison divisée bientôt amenée à la désolation (153:4.3)
-Visites de porte à porte (141:8.1) (142:8.1) (146:3.9) (151:0.2) (163:7.3)
-ne pas se déplacer de maison en maison (163:1.3)
+maison; une maison; maisons | | maison | | OK
+paroles de Jésus qui utilisaient des exemples sur les maisons
+	Une maison divisée contre elle-même est vite réduite à la désolation. (153:4.3)
+	Les apôtres continuèrent à prêcher et à baptiser les croyants, tout en conservant la pratique de visiter de maison en maison, réconfortant les déprimés et s’occupant des malades et des affligés. (141:8.1) (142:8.1) (146:3.9) (151:0.2) (163:7.3)
+	Ne vous déplacez pas de maison en maison, car l’ouvrier est digne de sa subsistance et que la paix soit sur cette maison. (163:1.3)
 
-toits des maisons | | | |
-proclamer l'évangile de (150:4.2)
+toits des maisons; toits | | | | OK
+« Proclamez la bonne nouvelle du royaume sur tous les toits, car rien de ce qui est caché ne sera connu. » (150:4.2)
 
-propension à se blottir | | | |
-des ultimatons (42:7.10)
+propension à se blottir; pêlemêles | | | | OK
+L'imprévisibilité des ultimatons est influencée par leur propension à se regrouper, semblable à la variabilité observée dans les atomes individuels. (42:7.10)
 
-Baie d'Hudson; baie d'Hudson | | | PLACE |
-les élévations granitiques appartiennent aux âges préocéaniques (57:8.12)
-rencontre entre une tribu indienne et un groupe esquimau (64:7.19)
+Baie d'Hudson; baie d'Hudson | | | PLACE | OK
+Dans le nord-est du Canada, autour de la baie d’Hudson, de vastes élévations granitiques contiennent des pierres datant d’âges préocéaniques, modifiées par des expériences métamorphiques intenses. (57:8.12)
+Une rencontre fortuite sur les rives de la baie d’Hudson a conduit à la fusion d’une tribu indienne et d’un groupe esquimau, marquant le seul contact entre les hommes rouges d’Amérique du Nord et une autre souche humaine depuis des milliers d’années. (64:7.19)
 
-Rivière Hudson; vallée de l'Hudson | (59:4.15) (60:1.3) | | PLACE |
-Les Grands Lacs autrefois vidés (61:7.10)
+Rivière Hudson; vallée de l'Hudson | (59:4.15) (60:1.3) | | PLACE | OK
+Les Grands Lacs se vidaient autrefois par le fleuve Hudson lors du retrait du glacier. (61:7.10)
 
 nature humaine | | mortels:nature humaine | | OK
 
-droits de l'homme | (70:9) | gouvernement:principes de gouvernement | |
-associé aux devoirs sociaux (81:5.4,6)
-les subventions accordées à un individu limitent celles accordées à tous les autres (70:11.2)
-les droits des hommes ne sont pas les droits des femmes (84:5.11-12)
-les droits naturels sont de vieux droits sociaux (70:9.13)
-rien de plus que les règles du jeu (70:9.13)
-la société devrait administrer équitablement (70:9.17)
-la femme a obtenu des droits quand le moment est venu (84:5.4)
+droits de l'homme; droits humains | (70:9) | gouvernement:principes de gouvernement | | OK
+Chaque droit de l’homme est associé à un devoir social, destiné à assurer la protection du groupe et à empêcher le retour aux conditions antisociales d’antan (81:5.4,6).
+L’octroi de droits aux individus restreint inévitablement les libertés de tous les autres, un concept imposé par les lois primitives et les tabous (70:11.2).
+« Les droits des hommes et des femmes sont distincts et essentiels, chacun ayant sa propre sphère d’existence et son importance dans l’évolution de la société » (84:5.11-12).
+Les droits de l’homme ne sont pas vraiment naturels, mais plutôt entièrement sociaux et sujets à changement à mesure que les règles de la compétition humaine évoluent (70:9.13).
+Les droits de l’homme sont des règles sociales, relatives et en constante évolution du jeu dans la compétition humaine (70:9.13).
+La ​​société devrait administrer équitablement les différents droits de chaque individu, en offrant une opportunité juste et pacifique de poursuivre l’auto-entretien, l’auto-perpétition et l’auto-satisfaction, contribuant ainsi au bonheur humain. (70:9.17)
+La femme a acquis des droits grâce à la progression naturelle de l’évolution sociale, indépendamment des efforts conscients de l’homme, à mesure que les progrès des mœurs ont progressivement amélioré le traitement des femmes. (84:5.4)
 
 sacrifice humain | | sacrifice:sacrifice humain | | OK
 
@@ -1073,119 +1077,125 @@ humanisme | | laïcité | | OK
 
 humains | | mortels | | OK
 
-humiliation | | | |
-toutes les réactions tribales sont nées d'un effort pour éviter (68:4.2)
-L'heure de Jésus (184:4)
-concepts primitifs (89:3)
-les sauvages croyaient que les esprits tiraient satisfaction de (89:0.2)
-servir avec Jésus dans (182:1.6)
-La honte suprême de la tribu était l'échec aux tests de puberté (70:7.7)
+humiliation | | | | OK
+L’origine des coutumes et des langues est entourée de mystère, car toutes les réactions tribales sont nées des efforts pour éviter la douleur et l’humiliation tout en recherchant le plaisir et le pouvoir. (68:4.2)
+L’heure d’humiliation de Jésus fut un témoignage de la brutalité et de l’ignorance perverses de l’humanité, mais il resta sans défense, parvenant finalement à réaliser son identité de Fils de Dieu et offrant à tous les croyants un chemin pour échapper à l’isolement du moi et atteindre la socialisation spirituelle à l’échelle universelle. (184:4)
+Les concepts primitifs de renoncement et d’humiliation ont profondément influencé l’évolution religieuse et les normes sociétales. (89:3)
+L’homme primitif croyait que les esprits tiraient une satisfaction suprême de la souffrance et de l’humiliation humaines, ce qui a conduit au développement de systèmes sacrificiels pour la propitiation. (89:0.2)
+En servant avec Jésus dans l’humilité, nous sommes appelés à l’unité et à l’amour, pour révéler la gloire du Père à tous les croyants. (182:1.6)
+L’échec aux tests de puberté entraînait la honte suprême de la tribu, excluant les individus de l’aristocratie sociale de leur époque et les condamnant à rester hors de la demeure des hommes avec les femmes et les enfants. (70:7.7)
 
-humilité | | douceur; soumission | |
-devant Dieu est approprié (149:6.10)
-fait que quelqu'un soit exalté (175:1.10)
-enfantin lorsqu'il est conscient de lui-même et qu'il a besoin d'attention (149:6.9-10)
-Dieu demeure avec les contrits et les humbles (97:7.12) (149:6.11)
-heureux les humbles, les pauvres en esprit (140:3.3) (140:5.7)
-recevoir humblement le crédit pour les efforts de l'Ajusteur (110:7.10)
-Jésus a demandé pourquoi quelqu'un l'a appelé bon (196:0.9) (196:2.2)
-ne t'appuie pas sur ta propre intelligence (131:2.8)
-conscience normale de petitesse, défauts mortels, essentielle à la croissance religieuse (100:1.5) (100:6.4)
-il y avait une tentative pour tromper les esprits envieux (87:5.6-7)
-parabole du pharisien et du publicain (140:5.7) (151:4.5)
-Purifie-moi des péchés secrets (146:2.13)
-la sécurité seulement lorsque l'âme a soif de réprimande (131:3.6)
-ne pas s'asseoir sur un place d'honneur (167:1.5)
-progrès spirituel fondé sur la reconnaissance de la pauvreté spirituelle (100:2.1)
+humilité | | douceur; soumission | | OK
+En appréciant la source du salut et en reconnaissant la destinée des âmes nées de l’esprit, l’humilité devant Dieu est louable dans les profondeurs de votre cœur. (149:6.10)
+L’humilité conduit à l’exaltation devant Dieu, et non à la glorification de soi. (175:1.10)
+La véritable humilité se trouve dans les profondeurs de son cœur devant Dieu, et non dans des actions conscientes de soi ou avides d’attention qui sont considérées comme enfantines et indignes des fils éclairés du royaume. (149:6.9-10)
+Dieu demeure avec ceux qui sont contrits et humbles, guidant et satisfaisant leurs âmes avec amour et réconfort. (97:7.12) (149:6.11)
+« Les pauvres en esprit, les humbles, sont heureux, car les trésors du royaume des cieux sont à eux. » (140:3.3) (140:5.7)
+« Reçois humblement le crédit des efforts de l’Ajusteur, comme un esprit divin plaide pour une coopération sincère et une endurance patiente de la part du partenaire mortel. » (110:7.10)
+Jésus, dans son humble oubli de soi, a demandé pourquoi quelqu’un l’appelait bon malgré sa profonde dotation de réalité spirituelle et sa relation étroite avec la divinité. (196:0.9) (196:2.2)
+Au nom de Yahweh, j’ai confiance de tout mon cœur ; je ne m’appuierai pas sur ma propre compréhension mais je le reconnaîtrai dans toutes mes voies. (131:2.8)
+L’humilité, essentielle à la croissance religieuse, est une conscience normale de la petitesse et des défauts mortels, conduisant à la poursuite d’objectifs spirituels plus élevés par la réalisation de soi et la détermination morale. (100:1.5) (100:6.4)
+L’humilité du début n’était pas une dégradation de l’ego, mais une tentative de déjouer et de tromper les esprits envieux, en accumulant les vitupérations sur le succès pour empêcher la jalousie. (87:5.6-7)
+La parabole du pharisien et du publicain illustre que le vrai bonheur se trouve dans l’humilité et la recherche de la richesse spirituelle dans le royaume des cieux. (140:5.7) (151:4.5)
+Priez sincèrement pour l’extension du royaume des cieux, en demandant à Dieu de vous purger des péchés secrets et de créer un cœur pur en vous. (146:2.13)
+« La sécurité se trouve lorsque l’âme a soif de réprimande et que l’esprit recherche la sagesse, conduisant à la tranquillité et à la générosité parmi les ennemis et l’égoïsme est comme l’ivraie dans un beau champ. » (131:3.6)
+« Ne vous asseyez pas à la première place, mais humiliez-vous et invitez les pauvres et les marginalisés à votre table. » (167:1.5)
+La reconnaissance de la pauvreté spirituelle et le désir de la volonté de Dieu sont essentiels au progrès spirituel. (100:2.1)
 
-humour | | | |
-les anges apprécient notre véritable humour (38:2.1)
-échos d'un regard en arrière; basé sur le rappel du passé (48:4.19-20)
-fonction
-	soupape de sécurité automatique empêchant l'auto-contemplation prolongée (48:4.18)
-	démontre une absurdité qui suscite beaucoup d'inquiétude (48:4.6)
-	réduit les angoisses du présent (48:4.6)
-	antidote divin contre l'exaltation de l'ego (48:4.15)
-	atténue le choc d'un fait ou d'une vérité inattendue (48:4.18)
-	prévient les tensions nerveuses nuisibles (48:4.19)
-chaleureux lorsqu'il dépeint ses supérieurs supposés comme des victimes (48:4.13)
-La rare bonne humeur de Jésus (129:4.4)
-Les Juifs manquaient (156:2.8)
-Les joies de l'existence cherchent à s'améliorer (28:5.16)
-héritage de la race adamique, les Andites (48:4.13) (63:4.2) (74:6.7) (78:5.8) (80:5.7)
-les hommes primitifs n'ont aucune capacité pour (48:4.16) (66:5.29)
-la religion exalte tout ce qui est vrai (99:4.1)
-les directeurs de réversion promeuvent (30:3.7)
-esprit humour
-	naît de la foi dans l'amour bienveillant de Dieu (48:4.7)
-	les esprits supérieurs se livrent à un humour réminiscent (44:3.4)
-	n'accentue jamais les malheurs des faibles et des errants (48:4.1-7)
-	types réminiscents, actuels et prophétiques (48:4.4-7)
-L'humour urantien est vulgaire et cruel, mais relativement vif (48:4.13,19)
+humour | | | | OK
+origine
+	Les hommes primitifs n’ont aucune capacité d’humour en raison de leur nature sérieuse et de leur manque de besoin d’activités de retour en arrière. (48:4.16) (66:5.29)
+	Le sens de l’humour était l’héritage de la race adamique, les Andites, influençant grandement les races actuelles par la joie, le jeu et le rire. (48:4.13) (63:4.2) (74:6.7) (78:5.8) (80:5.7)
+fonction de l’humour
+	L’humour est plus chaleureux lorsqu’il dépeint ses supérieurs supposés devenir victimes. (48:4.13)
+	La véritable religion exalte tout humour véritable et confère de nouvelles valeurs au jeu, illuminant la communion humaine au sein des groupes religieux. (99:4.1)
+	L’humour sert de soupape de sécurité vitale, empêchant la pression écrasante d’une introspection prolongée au milieu des défis de la croissance personnelle et de la vérité, offrant une perspicacité et un soulagement. (48:4.18)
+	L’humour révèle l’absurdité de nos préoccupations, offrant un soulagement aux anxiétés présentes en nous concentrant sur les certitudes futures. (48:4.6)
+	L’humour nous aide à ignorer les anxiétés présentes en faveur de la concentration sur les certitudes futures. (48:4.6)
+	L’humour est l’antidote divin à notre glorification personnelle, nous faisant nous prendre moins au sérieux. (48:4.15)
+	L’humour fonctionne comme une soupape de sécurité automatique pour atténuer le choc des faits ou des vérités inattendus. (48:4.18)
+	L’humour sur Urantia sert d’assurance-maladie en prévenant les tensions nerveuses nuisibles et en libérant la pression émotionnelle, permettant le rajeunissement par la relaxation et un regard en arrière. (48:4.19)
+L’humour dans les cieux
+	« Les anges, de nature spirituelle, partagent nos émotions et nos sentiments non sensuels, appréciant et appréciant grandement notre véritable humour. » (38:2.1)
+	Les êtres de la Joie de l'Existence cherchent à améliorer le goût de l'humour et à promouvoir la joie parmi les armées angéliques et les créatures à volonté inférieure. (28:5.16)
+	Les Directeurs de la Réversion favorisent la relaxation et l'humour par le retour aux souvenirs passés, aidant ainsi à la progression des mortels dans l'univers local. (30:3.7)
+	L'humour céleste est enraciné dans notre foi en la sollicitude aimante de Dieu et dans la croyance que toutes choses concourent au bien. (48:4.7)
+	Même les esprits supérieurs des sphères de transition se livrent à l'humour réminiscent tout en se rechargeant spirituellement dans les énormes édifices utilisés pour les loisirs sur les mondes morontiels. (44:3.4)
+	L'humour dans les royaumes célestes n'accentue jamais les malheurs des faibles et des errants, mais embrasse plutôt les souvenirs, allégeant les soucis actuels et trouvant la joie dans l'assurance prophétique. (48:4.1-7)
+	Notre humour englobe les types de réminiscence, d’actualité et de prophétie, ne se moquant jamais du faible ou du divin, mais trouvant de la joie dans les souvenirs passés, les incertitudes présentes et les certitudes futures. (48:4.4-7)
+L’humour sur Urantia
+	L’humour sur Urantia est un reflet des expériences passées, servant de libérateur de la pression émotionnelle et prévenant la tension nerveuse nuisible. (48:4.19-20)
+	L’humour d’Urantia peut être vulgaire et cruel, mais il montre un sens relativement aigu de la représentation de ses supposés supérieurs victimes d’expériences associées à des inférieurs. (48:4.13,19)
+L’humour de Jésus
+	La rare bonne humeur de Jésus brillait de mille feux au milieu de sa profonde compréhension des émotions humaines. (129:4.4)
+	Jésus regrettait beaucoup que les Juifs n’aient pas le sens de l’humour. (156:2.8)
 
-bossus | | | |
-considérés comme des fétiches (88:1.9)
+bossus | | | | OK
+Les enfants bossus ou infirmes étaient considérés comme des fétiches. On croyait que les lunatiques avaient été frappés par la lune (88:1.9)
 
-faim | | | |
-a ramené le fils prodigue à la raison (169:1.8)
-impulsion constante de l'homme primitif (63:6.3,5)
-restriction externe au libre arbitre (118:8.5)
-les grèves de la faim sont l'analogue moderne des représailles d'autrefois (70:10.10)
-conduit à des raids alimentaires parmi les primitifs (70:1.8)
-a conduit à des lignées primitives de cueillette de nourriture (68:5.3)
-des terres ouvertes stimule l'invention et l'ingéniosité (64:1.3)
-l'homme primitif ne pensait que lorsqu'il avait faim (68:2.5)
+faim | | | | OK
+la faim chez l'homme primitif
+	Le besoin constant des premiers hommes était la faim, ce qui les a amenés à développer le culte des animaux comme moyen de subsistance. (63:6.3,5)
+	La faim, qui a conduit à des raids de nourriture parmi les primitifs, a finalement entraîné la quasi-extinction des premières tribus pacifiques en raison de la rareté des terres. (70:1.8)
+	La faim a conduit à des lignes primitives de collecte de nourriture, marquant la première forme d’organisation industrielle de l’histoire de l’humanité. (68:5.3)
+	La faim dans les zones ouvertes stimule l’invention et l’ingéniosité, conduisant au progrès et à l’évolution du développement humain. (64:1.3)
+	La menace de suicide aux portes de l'ennemi était autrefois courante, mais les grèves de la faim constituent désormais une forme moderne de représailles. (70:10.10)
+	Les contraintes extérieures du temps et de l'espace, la faim et la peur, limitent effectivement la gamme de choix subspirituels de l'homme primitif, dans le cadre de la conception créatrice de l'évolution biologique. (118 : 8,5)
+faim matérielle
+	La faim a ramené le fils prodigue à la raison, l'amenant à retourner auprès de son père et à demander pardon. (169:1.8)
+	L'évolution de la société, depuis la lutte alimentaire de l'homme primitif jusqu'à la surcharge de luxe et de désirs de la société moderne, n'est que le témoignage de la faim séculaire de l'homme sous diverses formes. (68:2.5)
+	L’envie d’accumuler du capital, motivée par la faim et la prévoyance, assurait le pouvoir, le confort et la sécurité grâce à l’économie et à la conservation des aliments. (69 :5.3-4)
 faim spirituelle
-	aucun en Présence Divine (34:6.8) (48:6.11)
-	de l'esprit mortel non spiritualisé (34:6.8)
-	ceux qui croient en Jésus n'éprouveront pas (153:2.7-9)
-l'impulsion a conduit à l'accumulation de capital (69:5.3-4)
+	Dans la Présence Divine, je n’aurai jamais faim ni soif. (34:6.8) (48:6.11)
+	La présence de l’Esprit divin empêche la soif dévorante et la faim indescriptible de l’esprit mortel non spiritualisé. (34:6.8)
+	Ceux qui croient en Jésus n’auront ni faim ni soif, car il est le pain de vie qui donne la nourriture éternelle. (153:2.7-9)
 
-chasseurs | | | |
-les hommes bleus sont devenus experts (68:5.5)
-le climat est devenu non rentable pour les Andites asiatiques (79:1.4) (81:3.1)
-n'a pas réduit en esclavage; a adopté ou tué des captifs (69:8.4)
-évoluer vers l'agriculture via l'élevage (81:1.5)
-famille incompatible avec une vie instable (52:2.8)
-friction avec les agriculteurs (68:5.11) (81:1.4)
-stade de chasse de la civilisation (68:5.4-5)
-à l'époque andite, les seules zones de chasse extensives se trouvaient en Amérique du Nord, au nord du Turkestan (81:6.4)
-Les Néandertaliens étaient géniaux (64:4.2)
-les récompenses sexuelles ont amélioré les compétences des Néandertaliens (64:4.12)
+chasseurs | | | | OK
+Les hommes bleus devinrent des chasseurs et des trappeurs experts en utilisant des clôtures, en séchant le poisson pour l’hiver et en utilisant diverses techniques de piégeage. (68:5.5)
+Lorsque la chasse devint non rentable en raison du changement climatique, les Andites se tournèrent vers le commerce et la vie urbaine, établissant des villes consacrées au commerce et à la fabrication dans tout le monde antique. (79:1.4) (81:3.1)
+Les chasseurs, tout comme l’homme rouge américain, adoptaient ou tuaient des captifs, mais ne les réduisaient pas en esclavage. (69:8.4)
+L’homme évolua généralement du chasseur au fermier en passant par l’ère de l’élevage, un modèle observé chez les Andites, mais parfois des tribus entières passaient directement de la chasse à l’agriculture prospère en raison des pressions climatiques, en particulier dans les régions où le degré de mélange racial avec la souche violette était élevé. (81:1.5)
+La croissance de l’idée de famille est incompatible avec la vie nomade et instable des chasseurs, ce qui conduit à l’établissement d’habitations sédentaires et à la culture du sol, ainsi qu’à la domestication des animaux et au développement des arts domestiques, aboutissant finalement à un niveau élevé de civilisation avec peu de développement d’un ordre mécanique. (52:2.8)
+Des frictions ont existé entre les chasseurs et les agriculteurs en raison de leurs attitudes différentes envers la paix et le statut social. (68:5.11) (81:1.4)
+L’étape de la civilisation de la chasse a marqué un grand pas en avant dans le développement humain, permettant à l’humanité de se libérer de l’esclavage alimentaire grâce à l’invention d’outils d’armes. (68:5.4-5)
+L’ère andite n’a vu que deux grandes zones de chasse dans le monde : l’une en Amérique du Nord et l’autre au nord du Turkestan, façonnant l’évolution d’une culture supérieure. (81:6.4)
+Il y a 800 000 ans, les Néandertaliens étaient de grands chasseurs en France, choisissant leurs épouses parmi les chasseurs les plus doués. (64:4.2)
+La culture des Néandertaliens superstitieux a amélioré les compétences de chasse, ce qui a conduit à une religion primitive basée sur la peur des forces naturelles et du sacrifice humain. (64:4.12)
 
-hybridation | | génétique | |
-de souches différentes supérieures produisent des souches vigoureuses (82:6.5-11)
-des races plus fortes et meilleures résultent du croisement de celles qui ont une hérédité supérieure (64:6.32)
+hybridation; hybridations | | génétique | | OK
+L'hybridation de souches supérieures et dissemblables crée de nouvelles variétés vigoureuses, améliorant la créativité et la fertilité des plantes, des animaux et de l'espèce humaine, malgré les préjugés sociaux contre le mélange des races. (82:6.5-11)
+Le croisement de peuples divers avec des facteurs d'héritage supérieurs peut conduire à la création de races plus fortes et meilleures, mais tenter cela sur Urantia dans les conditions raciales actuelles serait désastreux. (64:6.32)
 
-hydre | (65:2.5) | | |
+hydre | | | | OK
+Les animaux monocellulaires de types primitifs ne tardèrent pas à s’associer en colonies, d’abord sur le plan du volvox, et bientôt selon les lignées de l’hydre et de la méduse (65:2.5)
 
-hydrogène | | | |
-amas de nuages de poussière astronomiques (58:3.1-4)
-poids de l'électron par rapport à un atome d'hydrogène (42:6.7)
-dans l'océan primitif (57:8.3)
-dans les réactions d'énergie solaire (41:8.1-2)
-la science n'aurait pas pu prédire la molécule d'eau à partir de (12:9.3)
+hydrogène | | | | OK
+Aux premiers temps de la matérialisation de l’univers, de vastes nuages ​​d’hydrogène dans l’espace, semblables à des amas de nuages ​​de poussière astronomiques, étaient les éléments constitutifs de la matière organisée décomposée par des soleils flamboyants et dispersés sous forme d’énergie rayonnante. (58:3.1-4)
+Un électron pèse un peu plus de 1/2 000ème du plus petit atome, l’hydrogène. (42:6.7)
+Dans les océans primitifs, l’hydrogène et le chlore se combinaient pour rendre l’eau légèrement acide. (57:8.3)
+Dans les réactions liées à l’énergie solaire, l’hydrogène est converti en hélium via des chaînes de réactions nucléaires complexes, le carbone agissant comme un catalyseur énergétique sans être modifié. (41:8.1-2)
+Les mathématiques et la science des matériaux sont essentielles à la compréhension des aspects matériels de l’univers, mais l’imprévisibilité de l’union des atomes d’hydrogène et d’oxygène dans l’eau remet en question les explications purement mécanistes. (12:9.3)
 
-hyènes | | | |
-Les tribus africaines enseignent qu'elles descendent de (74:8.5)
-est entré en Europe depuis l'Afrique (64:4.7)
+hyènes; hyène | | | | OK
+De nombreuses tribus anciennes croyaient et enseignaient qu’elles descendaient de divers animaux, comme les tribus africaines qui enseignaient qu’elles descendaient des hyènes. (74:8.5)
+Les hyènes sont entrées en Europe depuis l’Afrique, aux côtés d’autres animaux africains, et ont pratiquement éliminé les tigres à dents de sabre et les hippopotames lorsque la vie des mammifères a repris après le glacier. (64:4.7)
 
-hygiène | | assainissement | |
+hygiène | | assainissement | | OK
 
-hypnose | | | |
-autohypnose induite par la fixation du nombril (90:1.4)
-les hommes-médecine induisaient le sommeil au temple pour la guérison (90:4.4) (90:1.4)
-les chamans utilisaient le pouvoir de suggestion (90:2.1)
+hypnose; hypnotisme | | | | OK
+Certains chamans étaient des escrocs astucieux qui provoquaient l'autohypnose en fixant leur nombril, impressionnant et mystifiant les membres de la tribu par leur conduite mystérieuse. (90:1.4)
+Les guérisseurs induisaient le sommeil dans le temple pour la guérison, en utilisant diverses techniques, notamment le chant, la chirurgie et les états physiques induits par la drogue. (90:4.4) (90:1.4)
+Les chamans utilisaient le pouvoir de suggestion pour contrôler les aléas de la vie et rechercher une aide surhumaine par la suggestion négative, en se concentrant sur la production de pluie, la guérison des maladies et la détection des crimes. (90:2.1)
 
-hypocrisie | | | |
-Le père déteste (140:8.21) (149:6.11) (153:3.3-7)
-levain des pharisiens (165:3.2)
-Le Sanhédrin est déloyal envers les vérités qu'il professe (178:1.16)
-Le péché des dirigeants est de dire ce qui est bien mais de ne pas le faire (175:1.8)
+hypocrisie | | | | OK
+Le Père déteste l’hypocrisie sous toutes ses formes. (140:8.21) (149:6.11) (153:3.3-7)
+Méfiez-vous du levain des pharisiens, de l’hypocrisie née des préjugés et nourrie dans l’esclavage traditionnel, car tout sera révélé en son temps. (165:3.2)
+Le Sanhédrin est déloyal envers les vérités qu’il professe, rejetant la nouvelle lumière offerte et cherchant la destruction de ceux qui prêchent l’évangile du royaume. (178:1.16)
+Le péché des dirigeants est de dire ce qui est bien mais de ne pas le faire, comme l’illustre le fait qu’ils imposent de lourds fardeaux au peuple sans l’aider à en porter le poids. (175:1.8)
 
-hypothèses | | théories | |
+hypothèses | | théories | | OK
 
-hystérie | | | |
-croyance confirmée en la sorcellerie (88:1.9)
-confondu avec la possession démoniaque (77:7.6-7)
-de nombreuses chamanes étaient hystériques (90:1.2)
+hystérie; hystériques | | | | OK
+L’hystérie a confirmé la croyance en la sorcellerie et a associé les épileptiques aux prêtres et aux hommes-médecine, brouillant la frontière entre génie et folie. (88:1.9)
+Avant l’arrivée de l’Esprit de Vérité, l’hystérie était souvent confondue avec la possession démoniaque dans l’esprit des gens. (77:7.6-7)
+De nombreux premiers hommes-médecine étaient des hommes épileptiques et des femmes hystériques, considérés comme possédés par des esprits et des démons, ce qui a conduit à leur désignation comme chamanes et a contribué à l’inspiration antique. (90:1.2)
