@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/websites">Sites para referências</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de colaboradores</a></td>
+        <td><a href="/pt/help/projects">Contexto do projeto em um escopo mais amplo</a></td>
       </tr>
     </tbody>
   </table>
@@ -427,7 +427,7 @@ Acreditamos que essas correções de conteúdo antigo são necessárias para for
       <tr>
         <td><a href="/pt/help/websites">Sites para referências</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de colaboradores</a></td>
+        <td><a href="/pt/help/projects">Contexto do projeto em um escopo mais amplo</a></td>
       </tr>
     </tbody>
   </table>

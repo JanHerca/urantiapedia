@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/links">Urantiapedia - Liens</a></td>
+        <td><a href="/fr/help/projects">Contexte du projet dans une portée plus large</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>
@@ -137,7 +137,7 @@ Envoi des modifications par email | :heavy_check_mark: | :heavy_check_mark: | :h
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/links">Urantiapedia - Liens</a></td>
+        <td><a href="/fr/help/projects">Contexte du projet dans une portée plus large</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>

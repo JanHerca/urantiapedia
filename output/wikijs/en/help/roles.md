@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/links">Urantiapedia links</a></td>
+        <td><a href="/en/help/projects">Context of the Project in a Larger Scope</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/admin">Administrators help</a></td>
       </tr>
@@ -138,7 +138,7 @@ Sending changes by email | :heavy_check_mark: | :heavy_check_mark: | :heavy_chec
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/links">Urantiapedia links</a></td>
+        <td><a href="/en/help/projects">Context of the Project in a Larger Scope</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/admin">Administrators help</a></td>
       </tr>

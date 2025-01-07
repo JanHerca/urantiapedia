@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/websites">Websites for references</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborator profiles</a></td>
+        <td><a href="/en/help/projects">Context of the Project in a Larger Scope</a></td>
       </tr>
     </tbody>
   </table>
@@ -427,7 +427,7 @@ We believe that these corrections to old content are necessary to provide reader
       <tr>
         <td><a href="/en/help/websites">Websites for references</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborator profiles</a></td>
+        <td><a href="/en/help/projects">Context of the Project in a Larger Scope</a></td>
       </tr>
     </tbody>
   </table>

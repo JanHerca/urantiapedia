@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/websites">Sites Web de références</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
+        <td><a href="/fr/help/projects">Contexte du projet dans une portée plus large</a></td>
       </tr>
     </tbody>
   </table>
@@ -427,7 +427,7 @@ Nous pensons que ces corrections d'anciens contenus sont nécessaires pour fourn
       <tr>
         <td><a href="/fr/help/websites">Sites Web de références</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
+        <td><a href="/fr/help/projects">Contexte du projet dans une portée plus large</a></td>
       </tr>
     </tbody>
   </table>
