@@ -20,6 +20,7 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
 6. [Progreso actual del proyecto](/es/help/status)
 7. [Sitios web de referencia](/es/help/websites)
 8. [Enlaces en Urantiapedia](/es/help/links)
+9. [Contexto del proyecto en un ámbito mayor](/es/help/projects)
 
 ## Acerca de los perfiles
 

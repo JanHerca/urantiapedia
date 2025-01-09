@@ -1,5 +1,5 @@
 ---
-title: Collaborators profiles
+title: "Collaborators profiles"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -104,7 +104,7 @@ The table summarizes the notable differences between each profile type:
 
 <div class="urantiapedia-table-wrapper">
 
-&nbsp; | Adminis- trator | Editor-in-Chief | Author | Assistant Editor | Reviewer | Deve- loper | Amba- ssador | Video Creator |
+&nbsp; | Adminis-<br>trator | Editor-in-Chief | Author | Assistant Editor | Reviewer | Deve-<br>loper | Amba-<br>ssador | Video Creator |
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 Server Access | :heavy_check_mark: | | | | | | | |
 Page Settings | :heavy_check_mark: | | | | | | | |

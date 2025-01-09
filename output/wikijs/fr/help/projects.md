@@ -30,40 +30,40 @@ La liste du tableau propose le nom du projet que nous considérons d'un grand in
 
 Projet | Producteur | Urantiapédia 
 --- | --- | --- 
-**_LE LIVRE D'URANTIA_** : || 
+**_LE LIVRE D'URANTIA_** : | &nbsp; | &nbsp; 
 _Le Livre d'Urantia_ | Fondation Urantia | Ajout de 25/27 traductions :+1 : 
 _Version abrégée et illustrée du Livre d'Urantia_ | (jamais fait) | --- 
 _Version web illustrée du Livre d'Urantia_ [^2] | **Urantiapédia** | En cours :construction : 
 _Livre audio du Livre d'Urantia_ | Fondation Urantia (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR` ) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Ajouté en 9 langues :+1 : 
-**INDEX DES SUJETS** : || 
+**INDEX DES SUJETS** : | &nbsp; | &nbsp; 
 _Index thématique_ | Harry McMullan (`EN`) | --- 
-**RÉFÉRENCES CROISÉES** : || 
-_Concordance_ | Clyde Bedell (`EN`) | --- 
+**RÉFÉRENCES CROISÉES** : | &nbsp; | &nbsp; 
+_Concordex_ | Clyde Bedell (`EN`) | --- 
 _Paramony_, références croisées au _Le Livre d'Urantia_ et à la _Bible_ | Duane Faw (`EN`) | Ajouté avec traduction en 25/27 langues :+1 : 
 Références croisées du _Le Livre d'Urantia_ et du _Quran_ | Omar Delgado et autres (`ES`) | En cours en 3 langues :construction : 
 Références croisées au _Le Livre d'Urantia_ et à d'autres livres soupçonnés d'être utilisés par les développeurs | Matthew Block et autres (`EN`) | En cours en 3 langues :construction : 
-**HEMEROTECA** : || 
+**HEMEROTECA** : | &nbsp; | &nbsp; 
 Archives de journaux sur _Le Livre d'Urantia_ | **Urantiapedia**, utilisant les publications existantes (`EN`, `ES`, `FR`) | Ajouté en 3 langues :+1 : 
-**BIBLIOTHÈQUE** : || 
+**BIBLIOTHÈQUE** : | &nbsp; | &nbsp; 
 Bibliothèque sur _Le Livre d'Urantia_ | **Urantiapedia**, utilisant des livres du domaine public (`EN`, `ES`, `FR`) | En cours en 3 langues :construction : 
-**ENCYCLOPEDIA** : || 
+**ENCYCLOPEDIA** : | &nbsp; | &nbsp; 
 Encyclopédie sur _Le Livre d'Urantia_ | **Urantiapedia**, utilisant l'_Index Thématique_ comme base (`EN`, `ES`, `FR`) | En cours en 3 langues :construction : 
-**PINACOTECA** : || 
+**PINACOTECA** : | &nbsp; | &nbsp; 
 Galerie d'art liée au _Le Livre d'Urantia_[^3] | Mo Siegel | Quelques images utilisées 
-**CARTOTECA** : || 
+**CARTOTECA** : | &nbsp; | &nbsp; 
 _Bibliothèque de cartes en ligne_ sur _Le Livre d'Urantia_ | **Urantiapédia** (`EN`, `ES`, `FR`) | En cours en 3 langues :construction : 
 _Atlas illustré_ sur _Le Livre d'Urantia_ | (jamais fait) | 
-**BIBLIOTHÈQUE MÉDIA** : || 
+**BIBLIOTHÈQUE MÉDIA** : | &nbsp; | &nbsp; 
 _Bibliothèque multimédia en ligne_ sur _Le Livre d'Urantia_ [^4] | **Urantiapédia** (`EN`, `ES`, `FR`) | En cours en 3 langues :construction : 
 _Archive historique_ sur _Le Livre d'Urantia_ [^5] | _Société historique du Livre d'Urantia_ | Utilisé pour la bibliothèque de journaux
 _Catalogue_ de livres, musiques et autres créations en relation avec _Le Livre d'Urantia_[^6] | Canard Banton (`EN`) | seront ajoutées ultérieurement
-**VERSIONS DE LA PARTIE IV** : || 
+**VERSIONS DE LA PARTIE IV** : | &nbsp; | &nbsp; 
 _Version romancée_ de la partie IV | **Urantiapédia**, Jan Herca (`ES`) | En cours :construction : 
 _Version abrégée et illustrée_ de la partie IV (_L'histoire inédite de Jésus_)[^7] | Fondation Jésussonienne (`EN`) | --- 
 _Version Web illustrée_ de la partie IV (_Découvrez Jésus_)[^8] | _Centre pour Unity_ (`EN`, `ES`, `FR`) | --- 
 _Version bande dessinée_ de la partie IV | (jamais fait, cela a été proposé) | --- 
 _Version cinématographique_ de la partie IV | _Centre pour Unity_ (`EN`) | --- 
-**ÉCOLES EN LIGNE** : || 
+**ÉCOLES EN LIGNE** : | &nbsp; | &nbsp; 
 _UBIS_ (École Internet du Livre d'Urantia) | Fondation Urantia (plusieurs langues) | --- 
 
 Comme on peut le voir dans le tableau, la liste comprend 24 projets majeurs, et _Urantiapedia_ est impliqué dans la production directe de 8 de ces projets, probablement la plus grande contribution actuellement apportée dans ce domaine. Néanmoins, nous voulons souligner que _Urantiapedia_ n'est rien de plus qu'une goutte d'eau dans un océan d'**efforts présents et futurs** qui doivent être déployés pour parvenir à la plus grande et meilleure diffusion possible des révélations extraordinaires du _Le Livre d'Urantia_. Avec l’aide de nos amis invisibles et beaucoup de patience, nous y parviendrons sans aucun doute. :wink:

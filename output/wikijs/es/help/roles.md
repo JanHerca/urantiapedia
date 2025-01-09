@@ -1,5 +1,5 @@
 ---
-title: Perfiles de colaboradores
+title: "Perfiles de colaboradores"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/projects">Urantiapedia — Contexto del proyecto en un ámbito mayor</a></td>
+        <td><a href="/es/help/projects">Contexto del proyecto en un ámbito mayor</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/admin">Manual para Administradores</a></td>
       </tr>
@@ -104,7 +104,7 @@ La tabla resume las diferencias destacadas entre cada tipo de perfil:
 
 <div class="urantiapedia-table-wrapper">
 
-&nbsp; | Adminis- trador | Editor <br>Jefe | Autor | Editor <br>Asistente | Revisor | Desarro- llador | Emba- jador | Creador <br>de video | 
+&nbsp; | Adminis-<br>trador | Editor <br>Jefe | Autor | Editor <br>Asistente | Revisor | Desarro-<br>llador | Emba-<br>jador | Creador <br>de video | 
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 Acceso al servidor | :heavy_check_mark: |  |  |  |  |  |  |  |
 Configuración de la página | :heavy_check_mark: |  |  |  |  |  |  |  |
@@ -141,7 +141,7 @@ Envío de cambios por email | :heavy_check_mark: | :heavy_check_mark: | :heavy_c
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/projects">Urantiapedia — Contexto del proyecto en un ámbito mayor</a></td>
+        <td><a href="/es/help/projects">Contexto del proyecto en un ámbito mayor</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/admin">Manual para Administradores</a></td>
       </tr>

@@ -30,43 +30,48 @@ El listado de la tabla ofrece el nombre del proyecto que consideramos de gran in
 
 Proyecto | Productor | Urantiapedia
 --- | --- | ---
-**_EL LIBRO DE URANTIA_**: ||
+**_EL LIBRO DE URANTIA_**: | &nbsp; | &nbsp;
 _El Libro de Urantia_ | Fundación Urantia | Añadidas 25 / 27 traducciones :+1:
 _Versión resumida e ilustrada de El Libro de Urantia_ | (nunca se ha hecho) | ---
 _Versión web ilustrada de El Libro de Urantia_ [^2] | **Urantiapedia** | En progreso :construction:
 _Audiolibro de El Libro de Urantia_ | Fundación Urantia (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR`) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Añadido en 9 idiomas :+1:
-**ÍNDICE TEMÁTICO**: ||
+**ÍNDICE TEMÁTICO**: | &nbsp; | &nbsp;
 _Índice Temático_ | Harry McMullan (`EN`) | ---
-**REFERENCIAS CRUZADAS**: ||
-_Concordance_ | Clyde Bedell (`EN`) | ---
+**REFERENCIAS CRUZADAS**: | &nbsp; | &nbsp;
+_Concordex_ | Clyde Bedell (`EN`) | ---
 _Paramony_, Referencias cruzadas de _El Libro de Urantia_ y la _Biblia_ | Duane Faw (`EN`) | Añadido con traducción a 25 / 27 idiomas :+1:
 Referencias cruzadas de _El Libro de Urantia_ y el _Corán_ | Omar Delgado y otros (`ES`) | En progreso en 3 idiomas :construction:
 Referencias cruzadas de _El Libro de Urantia_ y otros libros que se sospecha usados por los reveladores | Matthew Block y otros (`EN`) | En progreso en 3 idiomas :construction:
-**HEMEROTECA**: ||
+**HEMEROTECA**: | &nbsp; | &nbsp;
 Hemeroteca sobre _El Libro de Urantia_ | **Urantiapedia**, usando publicaciones existentes (`EN`, `ES`, `FR`) | Añadida en 3 idiomas :+1:
-**BIBLIOTECA**: ||
+**BIBLIOTECA**: | &nbsp; | &nbsp;
 Biblioteca sobre _El Libro de Urantia_ | **Urantiapedia**, usando libros de dominio público (`EN`, `ES`, `FR`) | En progreso en 3 idiomas :construction:
-**ENCICLOPEDIA**: ||
+**ENCICLOPEDIA**: | &nbsp; | &nbsp;
 Enciclopedia sobre _El Libro de Urantia_ | **Urantiapedia**, usando el _Índice Temático_ como base (`EN`, `ES`, `FR`) | En progreso en 3 idiomas :construction:
-**PINACOTECA**: ||
+**PINACOTECA**: | &nbsp; | &nbsp;
 Galería de arte relacionada con _El Libro de Urantia_[^3] | Mo Siegel | Algunas imágenes usadas
-**CARTOTECA**: ||
+**CARTOTECA**: | &nbsp; | &nbsp;
 _Cartoteca online_ sobre _El Libro de Urantia_ | **Urantiapedia** (`EN`, `ES`, `FR`) | En progreso en 3 idiomas :construction:
 _Atlas Ilustrado_ sobre _El Libro de Urantia_ | (nunca se ha hecho) | ---
-**MEDIATECA**: ||
+**MEDIATECA**: | &nbsp; | &nbsp;
 _Mediateca online_ sobre _El Libro de Urantia_ [^4] | **Urantiapedia** (`EN`, `ES`, `FR`) | En progreso en 3 idiomas :construction:
 _Archivo histórico_ sobre _El Libro de Urantia_ [^5] | _Urantia Book Historical Society_ | Usado para la Hemeroteca
 _Catálogo_ de libros, música y otras creaciones con relación a _El Libro de Urantia_[^6] | Pato Banton (`EN`) | Se añadirá en un futuro
-**VERSIONES DE LA PARTE IV**: ||
+**VERSIONES DE LA PARTE IV**: | &nbsp; | &nbsp;
 _Versión Novelada_ de la Parte IV | **Urantiapedia**, Jan Herca (`ES`) | En progreso :construction:
 _Versión resumida e ilustrada_ de la Parte IV (_The Untold Story of Jesus_)[^7] | Jesusonian Foundation (`EN`) | ---
 _Version web ilustrada_ de la Parte IV (_Discover Jesus_)[^8] | _Center for Unity_ (`EN`, `ES`, `FR`) | ---
 _Version cómic_ de la parte IV | (nunca se ha hecho, se ha propuesto por Nemias Mol) | ---
 _Version cinematográfica_ de la parte IV | _Center for Unity_ (`EN`) | ---
-**ESCUELAS ONLINE**: ||
+**ESCUELAS ONLINE**: | &nbsp; | &nbsp;
 _UBIS_ (Urantia Book Internet School) | Fundación Urantia (varios idiomas) | ---
 
 Como puede verse en la tabla, el listado incluye 24 grandes proyectos, y _Urantiapedia_ está involucrada en la producción directa de 8 de esos proyectos, posiblemente la mayor contribución que se está haciendo actualmente en este ámbito. Aún así, queremos resaltar que _Urantiapedia_ no es más que una gota de agua en un océano de **esfuerzos presentes y futuros** que deberán hacerse para lograr la mayor y mejor divulgación posible de las extraordinarias revelaciones de _El Libro de Urantia_. Con ayuda de nuestros amigos invisibles y mucha paciencia se logrará, sin duda. :wink:
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/help/Projects_es.svg">
+<figcaption>Fig. 1: Una Revelación en expansión.</figcaption>
+</figure>
 
 
 <figure class="table chapter-navigator">

@@ -20,6 +20,7 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
 6. [État actuel](/fr/help/status)
 7. [Sites de références](/fr/help/websites)
 8. [Urantiapedia - Liens](/fr/help/links)
+9. [Contexte du projet dans une portée plus large](/fr/help/projects)
 
 ## À propos des rôles
 

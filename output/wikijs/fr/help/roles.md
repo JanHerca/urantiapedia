@@ -1,5 +1,5 @@
 ---
-title: Profils des collaborateurs
+title: "Profils des collaborateurs"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -104,7 +104,7 @@ Le tableau résume les différences notables entre chaque type de profil :
 
 <div class="urantiapedia-table-wrapper">
 
-&nbsp; | Adminis- trateur | Rédacteur en chef | Auteur | Assistant rédacteur | Réviseur | Déve- loppeur | Amba- ssadeur | Créateur de vidéo |
+&nbsp; | Adminis-<br>trateur | Rédacteur en chef | Auteur | Assistant rédacteur | Réviseur | Déve-<br>loppeur | Amba-<br>ssadeur | Créateur de vidéo |
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 Accès au serveur | :heavy_check_mark: | | | | | | | |
 Paramètres des pages | :heavy_check_mark: | | | | | | | |

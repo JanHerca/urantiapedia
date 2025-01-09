@@ -1,5 +1,5 @@
 ---
-title: Perfis de Colaboradores
+title: "Perfis de Colaboradores"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -105,7 +105,7 @@ A tabela resume as diferenças assinaláveis ​​entre cada tipo de perfil:
 
 <div class="urantiapedia-table-wrapper">
 
-&nbsp; | Adminis- trador | Editor-Chefe | Autor | Editor Assistente | Revisor | Desen- volvedor | Embai- xador | Criador de vídeo |
+&nbsp; | Adminis-<br>trador | Editor-Chefe | Autor | Editor<br>Assistente | Revisor | Desen-<br>volvedor | Embai-<br>xador | Criador de vídeo |
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 Acesso ao servidor | :heavy_check_mark: | | | | | | | |
 Definições de página | :heavy_check_mark: | | | | | | | |

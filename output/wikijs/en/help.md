@@ -20,6 +20,7 @@ This is the main index for documentation on Urantiapedia itself. Please read car
 6. [Current Status](/en/help/status)
 7. [Websites for references](/en/help/websites)
 8. [Urantiapedia links](/en/help/links)
+9. [Context of the Project in a Larger Scope](/en/help/projects)
 
 ## About roles
 

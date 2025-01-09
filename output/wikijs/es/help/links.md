@@ -1,5 +1,5 @@
 ---
-title: Urantiapedia - Enlaces
+title: "Urantiapedia - Enlaces"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/websites">Sitios web de referencia</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/projects">Urantiapedia — Contexto del proyecto en un ámbito mayor</a></td>
+        <td><a href="/es/help/projects">Contexto del proyecto en un ámbito mayor</a></td>
       </tr>
     </tbody>
   </table>
@@ -427,7 +427,7 @@ Creemos que estas correcciones a contenidos antiguos son necesarias para facilit
       <tr>
         <td><a href="/es/help/websites">Sitios web de referencia</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/projects">Urantiapedia — Contexto del proyecto en un ámbito mayor</a></td>
+        <td><a href="/es/help/projects">Contexto del proyecto en un ámbito mayor</a></td>
       </tr>
     </tbody>
   </table>

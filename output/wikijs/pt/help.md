@@ -20,6 +20,7 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
 6. [Status Atual](/pt/help/status)
 7. [Sites para referências](/pt/help/websites)
 8. [Urantiapedia - Links](/pt/help/links)
+9. [Contexto do projeto em um escopo mais amplo](/pt/help/projects)
 
 ## Sobre funções
 

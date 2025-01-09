@@ -30,40 +30,40 @@ The list in the table offers the name of the project that we consider of great i
 
 Project | Producer | Urantiapedia
 --- | --- | ---
-**_THE URANTIA BOOK_**: ||
+**_THE URANTIA BOOK_**: | &nbsp; | &nbsp;
 _The Urantia Book_ | Urantia Foundation | 25 / 27 translations added :+1:
 _Abridged and illustrated version of The Urantia Book_ | (never done) | ---
 _Illustrated web version of The Urantia Book_ [^2] | **Urantiapedia** | In progress :construction:
 _The Urantia Book Audiobook_ | Urantia Foundation (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR`) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Added in 9 languages ​​:+1:
-**THEMATIC INDEX**: ||
+**THEMATIC INDEX**: | &nbsp; | &nbsp;
 _Topic Index_ | Harry McMullan (`EN`) | ---
-**CROSS REFERENCES**: ||
-_Concordance_ | Clyde Bedell (`EN`) | ---
+**CROSS REFERENCES**: | &nbsp; | &nbsp;
+_Concordex_ | Clyde Bedell (`EN`) | ---
 _Paramony_, Cross-References of _The Urantia Book_ and the _Bible_ | Duane Faw (`EN`) | Added with translation to 25 / 27 languages ​​:+1:
 Cross-references of _The Urantia Book_ and the _Quran_ | Omar Delgado and others (`ES`) | In progress in 3 languages ​​:construction:
 Cross-references to _The Urantia Book_ and other books suspected of being used by revelators | Matthew Block and others (`EN`) | In progress in 3 languages ​​:construction:
-**NEWSPAPER ARCHIVE**: ||
+**NEWSPAPER ARCHIVE**: | &nbsp; | &nbsp;
 Archive for _The Urantia Book_ | **Urantiapedia**, using existing publications (`EN`, `ES`, `FR`) | Added in 3 languages ​​:+1:
-**LIBRARY**: ||
+**LIBRARY**: | &nbsp; | &nbsp;
 Library on _The Urantia Book_ | **Urantiapedia**, using public domain books (`EN`, `ES`, `FR`) | In progress in 3 languages ​​:construction:
-**ENCYCLOPEDIA**: ||
+**ENCYCLOPEDIA**: | &nbsp; | &nbsp;
 Encyclopedia on _The Urantia Book_ | **Urantiapedia**, using the _Subject Index_ as a base (`EN`, `ES`, `FR`) | In progress in 3 languages ​​:construction:
-**PINACOTHECA**: ||
+**PINACOTHECA**: | &nbsp; | &nbsp;
 Art gallery related to _The Urantia Book_[^3] | Mo Siegel | Some images used
-**CARTOTECA**: ||
+**CARTOTECA**: | &nbsp; | &nbsp;
 _Online map library_ about _The Urantia Book_ | **Urantiapedia** (`EN`, `ES`, `FR`) | In progress in 3 languages ​​:construction:
 _Illustrated Atlas_ on _The Urantia Book_ | (never done) | ---
-**MEDIA LIBRARY**: ||
+**MEDIA LIBRARY**: | &nbsp; | &nbsp;
 _Online media library_ about _The Urantia Book_ [^4] | **Urantiapedia** (`EN`, `ES`, `FR`) | In progress in 3 languages ​​:construction:
 _Historical archive_ on _The Urantia Book_ [^5] | _Urantia Book Historical Society_ | Used for the Newspaper Archive
 _Catalog_ of books, music and other creations related to _The Urantia Book_[^6] | Pato Banton (`EN`) | To be added in the future
-**PART IV VERSIONS**: ||
+**PART IV VERSIONS**: | &nbsp; | &nbsp;
 _Novelized Version_ of Part IV | **Urantiapedia**, Jan Herca (`ES`) | In progress :construction:
 _Abridged and illustrated version_ of Part IV (_The Untold Story of Jesus_)[^7] | Jesusonian Foundation (`EN`) | ---
 _Illustrated web version_ of Part IV (_Discover Jesus_)[^8] | _Center for Unity_ (`EN`, `ES`, `FR`) | ---
 _Comic version_ of part IV | (never done, proposed by Nemias Mol) | ---
 _Movie version_ of part IV | _Center for Unity_ (`EN`) | ---
-**ONLINE SCHOOLS**: ||
+**ONLINE SCHOOLS**: | &nbsp; | &nbsp;
 _UBIS_ (Urantia Book Internet School) | Urantia Foundation (various languages) | ---
 
 As can be seen from the table, the list includes 24 major projects, and _Urantiapedia_ is involved in the direct production of 8 of those projects, possibly the largest contribution currently being made in this field. Still, we want to emphasize that _Urantiapedia_ is just a drop of water in an ocean of **present and future efforts** that must be made to achieve the greatest and best possible dissemination of the extraordinary revelations of _The Urantia Book_. With the help of our invisible friends and a lot of patience, it will be achieved, without a doubt. :wink:

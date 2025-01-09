@@ -30,40 +30,40 @@ A lista da tabela oferece o nome do projeto que consideramos de grande interesse
 
 Projeto | Produtor | Urântiapédia
 --- | --- | ---
-**_LIVRO DE URÂNTIA_**: ||
+**_LIVRO DE URÂNTIA_**: | &nbsp; | &nbsp;
 _O Livro de Urântia_ | Fundação Urântia | Adicionadas 25/27 traduções: +1:
 _Versão resumida e ilustrada do Livro de Urântia_ | (nunca foi feito) | ---
 _Versão web ilustrada do Livro de Urântia_ [^2] | **Urantiapédia** | Em andamento :construção:
 _Audiolivro do Livro de Urântia_ | Fundação Urântia (`DE`, `EN`, `ES`, `ET`, `HU`, `FI`, `FR`, `IT`, `NL`, `PL`, `PT`, `TR` ) / **Urantiapedia** (`DE`, `ES`, `FR`, `IT`, `JA`, `KO`, `NL`, `PT`) | Adicionado em 9 idiomas: +1:
-**ÍNDICE DE TÓPICO**: ||
+**ÍNDICE DE TÓPICO**: | &nbsp; | &nbsp;
 _Índice Temático_ | Harry McMullan (`EN`) | ---
-**REFERÊNCIAS CRUZADAS**: ||
-_Concordância_ | Clyde Bedell (`EN`) | ---
+**REFERÊNCIAS CRUZADAS**: | &nbsp; | &nbsp;
+_Concordex_ | Clyde Bedell (`EN`) | ---
 _Paramony_, Referências Cruzadas ao _Livro de Urântia_ e à _Bíblia_ | Duane Faw (`EN`) | Adicionado com tradução para 25/27 idiomas:+1:
 Referências Cruzadas do _Livro de Urântia_ e do _Alcorão_ | Omar Delgado e outros (`ES`) | Em andamento em 3 idiomas:construção:
 Referências cruzadas ao _Livro de Urântia_ e outros livros suspeitos de serem usados ​​por reveladores | Matthew Block e outros (`EN`) | Em andamento em 3 idiomas:construção:
-**HEMEROTECA**: ||
+**HEMEROTECA**: | &nbsp; | &nbsp;
 Arquivo de jornais sobre _O Livro de Urântia_ | **Urantiapedia**, usando publicações existentes (`EN`, `ES`, `FR`) | Adicionado em 3 idiomas: +1:
-**BIBLIOTECA**: ||
+**BIBLIOTECA**: | &nbsp; | &nbsp;
 Biblioteca sobre _O Livro de Urântia_ | **Urantiapedia**, usando livros de domínio público (`EN`, `ES`, `FR`) | Em andamento em 3 idiomas:construção:
-**ENCICLOPÉDIA**: ||
+**ENCICLOPÉDIA**: | &nbsp; | &nbsp;
 Enciclopédia sobre _O Livro de Urântia_ | **Urantiapedia**, usando o _Índice Temático_ como base (`EN`, `ES`, `FR`) | Em andamento em 3 idiomas:construção:
-**PINACOTECA**: ||
+**PINACOTECA**: | &nbsp; | &nbsp;
 Galeria de arte relacionada ao _O Livro de Urântia_[^3] | Mo Siegel | Algumas imagens usadas
-**CARTOTECA**: ||
+**CARTOTECA**: | &nbsp; | &nbsp;
 _Biblioteca de mapas on-line_ sobre _O Livro de Urântia_ | **Urantiapédia** (`EN`, `ES`, `FR`) | Em andamento em 3 idiomas:construção:
 _Atlas Ilustrado_ sobre _O Livro de Urântia_ | (nunca foi feito) |
-**BIBLIOTECA DE MÍDIA**: ||
+**BIBLIOTECA DE MÍDIA**: | &nbsp; | &nbsp;
 _Biblioteca de mídia online_ sobre _O Livro de Urântia_ [^4] | **Urantiapédia** (`EN`, `ES`, `FR`) | Em andamento em 3 idiomas:construção:
 _Arquivo histórico_ em _O Livro de Urântia_ [^5] | _Sociedade Histórica do Livro de Urântia_ | Usado para a Biblioteca de Jornais
 _Catálogo_ de livros, músicas e outras criações relacionadas a _O Livro de Urântia_[^6] | Pato Banton (`EN`) | Será adicionado no futuro
-**VERSÕES DA PARTE IV**: ||
+**VERSÕES DA PARTE IV**: | &nbsp; | &nbsp;
 _Versão novelizada_ da Parte IV | **Urantiapédia**, Jan Herca (`ES`) | Em andamento :construção:
 _Versão resumida e ilustrada_ da Parte IV (_A História Não Contada de Jesus_)[^7] | Fundação Jesusoniana (`EN`) | ---
 _Versão web ilustrada_ da Parte IV (_Descubra Jesus_)[^8] | _Centro de Unidade_ (`EN`, `ES`, `FR`) | ---
 _Versão em quadrinhos_ da parte IV | (nunca foi feito, foi proposto) | ---
 _Versão cinematográfica_ da parte IV | _Centro de Unidade_ (`EN`) | ---
-**ESCOLAS ON-LINE**: ||
+**ESCOLAS ON-LINE**: | &nbsp; | &nbsp;
 _UBIS_ (Escola Internet do Livro de Urântia) | Fundação Urântia (vários idiomas) | ---
 
 Como pode ser visto na tabela, a lista inclui 24 grandes projetos, e _Urantiapedia_ está envolvida na produção direta de 8 desses projetos, possivelmente a maior contribuição atualmente feita nesta área. Mesmo assim, queremos enfatizar que _Urantiapedia_ nada mais é do que uma gota d'água em um oceano de **esforços presentes e futuros** que devem ser feitos para alcançar a maior e melhor divulgação possível das revelações extraordinárias de _O Livro de Urântia_. Com a ajuda dos nossos amigos invisíveis e muita paciência isso será conseguido, sem dúvida. :wink:
