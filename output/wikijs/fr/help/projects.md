@@ -68,6 +68,11 @@ _UBIS_ (École Internet du Livre d'Urantia) | Fondation Urantia (plusieurs langu
 
 Comme on peut le voir dans le tableau, la liste comprend 24 projets majeurs, et _Urantiapedia_ est impliqué dans la production directe de 8 de ces projets, probablement la plus grande contribution actuellement apportée dans ce domaine. Néanmoins, nous voulons souligner que _Urantiapedia_ n'est rien de plus qu'une goutte d'eau dans un océan d'**efforts présents et futurs** qui doivent être déployés pour parvenir à la plus grande et meilleure diffusion possible des révélations extraordinaires du _Le Livre d'Urantia_. Avec l’aide de nos amis invisibles et beaucoup de patience, nous y parviendrons sans aucun doute. :wink:
 
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/help/Projects_fr.svg">
+<figcaption>Fig. 1: Une révélation en expansion.</figcaption>
+</figure>
+
 
 <figure class="table chapter-navigator">
   <table>
