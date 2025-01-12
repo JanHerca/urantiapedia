@@ -1,5 +1,5 @@
 ---
-title: "Una estrategia y práctica para grupos de estudio en profundidad del libro de Urantia"
+title: "Estrategia y práctica para grupos de estudio en profundidad del libro de Urantia"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
