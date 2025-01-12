@@ -59,7 +59,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:4px" x="61" y="125">1884</text>
+							<text style="font-size:4px" x="61" y="125">1895</text>
 							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
 							<text style="font-size:9px" x="61" y="70">Part II</text>
 						</g>

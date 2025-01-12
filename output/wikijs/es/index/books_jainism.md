@@ -36,13 +36,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
+							<text style="font-size:9px" x="61" y="60">Sutras jainistas</text>
 							<text style="font-size:9px" x="61" y="70">Parte I</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Parte I, (Libros Sagrados de Oriente vol. 22)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sutras jainistas, Parte I, (Libros Sagrados de Oriente vol. 22)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Prakrit by Hermann Jacobi (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -59,14 +59,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
+							<text style="font-size:4px" x="61" y="125">1895</text>
+							<text style="font-size:9px" x="61" y="60">Sutras jainistas</text>
 							<text style="font-size:9px" x="61" y="70">Parte II</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Parte II, (Libros Sagrados de Oriente vol. 45)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sutras jainistas, Parte II, (Libros Sagrados de Oriente vol. 45)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Prakrit by Hermann Jacobi (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
