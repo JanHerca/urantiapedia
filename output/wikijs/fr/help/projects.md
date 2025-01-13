@@ -20,7 +20,7 @@ dateCreated: 2021-11-28T14:09:29.761Z
   </table>
 </figure>
 
-_Urantiapedia_ est « seulement » ** un effort partagé** avec beaucoup d'autres projets pour la diffusion de la _Cinquième Époque Révélation_. Il vise à contribuer à plusieurs projets dans un contexte beaucoup plus large. Nous pensons que ces projets sont nécessaires et essentiels pour fournir à la génération actuelle de lecteurs et aux générations futures une large compréhension de cette révélation vaste et complexe. 
+_Urantiapedia_ est « seulement » **un effort partagé** avec beaucoup d'autres projets pour la diffusion de la _Cinquième Époque Révélation_. Il vise à contribuer à plusieurs projets dans un contexte beaucoup plus large. Nous pensons que ces projets sont nécessaires et essentiels pour fournir à la génération actuelle de lecteurs et aux générations futures une large compréhension de cette révélation vaste et complexe. 
 
 Il est évident que la dernière révélation d’époque nous a été donnée d’une manière inhabituelle. La manière habituelle d'envoyer une grande révélation aux mondes habités a toujours été d'envoyer un porteur de cette révélation, une ou plusieurs personnes, qui, par leur incarnation et leur exemple de vie, ont laissé un message révélateur, généralement un exemple vital plus qu'une collection. d'écrits. La _Révélation de la Cinquième Époque_, cependant, prend le format d'un texte écrit, et cela a sans aucun doute des implications importantes. Nous sommes limités par les barrières linguistiques et de format concernant le contenu de cette divulgation. Nous n'avons pas dans cette révélation l'exemple vital d'une personnalité céleste incarnée. 
 
