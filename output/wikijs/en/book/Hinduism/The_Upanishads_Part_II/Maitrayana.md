@@ -2,10 +2,10 @@
 title: "Maitrâyana Brâhmana Upanishad"
 description: "The Upanishads, Part II"
 published: true
-date: 2025-1-14T22:0:1Z
+date: 2025-1-15T22:54:18Z
 tags: Hinduism, book
 editor: markdown
-dateCreated: 2025-1-14T22:0:1Z
+dateCreated: 2025-1-15T22:54:18Z
 ---
 
 <figure class="table chapter-navigator">

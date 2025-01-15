@@ -1,11 +1,11 @@
 ---
-title: "Katha-Upanishad — Second Adhyâya."
+title: "Katha-Upanishad — First Adhyâya."
 description: "The Upanishads, Part II"
 published: true
-date: 2025-1-14T22:0:1Z
+date: 2025-1-15T22:54:18Z
 tags: Hinduism, book
 editor: markdown
-dateCreated: 2025-1-14T22:0:1Z
+dateCreated: 2025-1-15T22:54:18Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,8 +13,8 @@ dateCreated: 2025-1-14T22:0:1Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Katha_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Katha-Upanishad — First Adhyâya.</span>
+        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Introduction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction</span>
         </a>
         </td>
         <td>
@@ -23,8 +23,8 @@ dateCreated: 2025-1-14T22:0:1Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Mundaka_1">
-          <span class="pr-2">Mundaka Upanishad — First Mundaka.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Katha_2">
+          <span class="pr-2">Katha-Upanishad — Second Adhyâya.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -39,8 +39,8 @@ dateCreated: 2025-1-14T22:0:1Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Katha_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Katha-Upanishad — First Adhyâya.</span>
+        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Introduction">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction</span>
         </a>
         </td>
         <td>
@@ -49,8 +49,8 @@ dateCreated: 2025-1-14T22:0:1Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Mundaka_1">
-          <span class="pr-2">Mundaka Upanishad — First Mundaka.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/book/Hinduism/The_Upanishads_Part_II/Katha_2">
+          <span class="pr-2">Katha-Upanishad — Second Adhyâya.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

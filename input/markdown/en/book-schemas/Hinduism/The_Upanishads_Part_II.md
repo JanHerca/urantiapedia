@@ -39,7 +39,7 @@ Introduction | Introduction
 	VII: Maitrâyana-Brâhmana-Upanishad | Introduction#i7
 Katha-Upanishad | #
 	Katha-Upanishad — First Adhyâya. | Katha_1
-	Katha-Upanishad — Second Adhyâya. | Katha_1
+	Katha-Upanishad — Second Adhyâya. | Katha_2
 Mundaka Upanishad | #
 	Mundaka Upanishad — First Mundaka. | Mundaka_1
 	Mundaka Upanishad — Second Mundaka. | Mundaka_2
