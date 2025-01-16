@@ -91,4 +91,4 @@ Anugîtâ | #
 	Anugîtâ — Chapter XXXVI | Anugita_36
 
 ## links:
-[Sitio web de textos sagrados](https://archive.sacred-texts.com/hin/sbe29/index.htm)
+[Sacred texts website](https://archive.sacred-texts.com/hin/sbe29/index.htm)
