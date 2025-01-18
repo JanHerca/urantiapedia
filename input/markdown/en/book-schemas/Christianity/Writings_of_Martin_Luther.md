@@ -8,8 +8,8 @@
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Martin Luther</text>
-							<text style="font-size:9px" x="61" y="60">Texts</text>
+		<text style="font-size:5px" x="61" y="22">Martin Luther</text>
+		<text style="font-size:9px" x="61" y="60">Texts</text>
 	</g>
 </svg>
 </div>
@@ -51,7 +51,7 @@ Large Catechism | Large_Catechism
 		Large Catechism — The Seventh and Last Petition. | Large_Catechism_3_2#p7
 	Large Catechism — Part Fourth. | Large_Catechism_4_0
 	Large Catechism — [Part Fifth.] | Large_Catechism_5_0
-	Large Catechism — Conclusion | Conclusion
+	Large Catechism — Conclusion | Large_Catechism_5_Conclusion
 Sermons | #
 	Sermons — Enemies of the Cross of Christ | Sermons_1
 	Sermons — Christ Our Great High Priest | Sermons_2

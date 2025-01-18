@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-17T22:3:42Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">The Spiritual</text>		<text style="font-size:9px" x="61" y="70">Exercises</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Spiritual Exercises of St. Ignatius of Loyola</span><br>OF THE GLORIOUS<br><span class="text-h3">translated by Elder Mullan</span><br><span class="text-h5">W. Heywood</span><br>Facultatem concedimus ut liber cui titulus “The Spiritual Exercises of St. Ignatius of Loyola translated from the Autograph by Father Elder Mullan, S.J.,” typis edatur, si iis ad quos spectat ita videbitur. Franciscus Xav. Wernz<br>New York, P.J. Kennedy & Sons, printers<br>[1914]<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg"></figure><br style="clear:both;"/>These are the Spiritual Exercises of St. Ignatius of Loyola, a plan of contemplation to be carried out over about a month. St. Ignatius of Loyola (1419-1556) was the founder of the Jesuits, and was canonized by Pope Gregory XV in 1622. He published the Spiritual Exercises in 1548. The Exercises were intended for use during a retreat; and are a central part of the first year training of Jesuit novitiates. However, one does not have to be a Jesuit-in-training to take advantage of the Exercises: Increasingly, lay people and even non-Catholics follow this path.
+<div class="urantiapedia-book-front urantiapedia-book-islam">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">The Spiritual</text>
+		<text style="font-size:9px" x="61" y="70">Exercises</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Spiritual Exercises of St. Ignatius of Loyola</span><br>
+<span class="text-h3">translated by Elder Mullan</span><br>
+<span class="text-h5">W. Heywood</span><br>
+Facultatem concedimus ut liber cui titulus “The Spiritual Exercises of St. Ignatius of Loyola translated from the Autograph by Father Elder Mullan, S.J.,” typis edatur, si iis ad quos spectat ita videbitur. Franciscus Xav. Wernz<br>
+New York, P.J. Kennedy & Sons, printers<br>
+[1914]<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+These are the Spiritual Exercises of St. Ignatius of Loyola, a plan of contemplation to be carried out over about a month. St. Ignatius of Loyola (1419-1556) was the founder of the Jesuits, and was canonized by Pope Gregory XV in 1622. He published the Spiritual Exercises in 1548. The Exercises were intended for use during a retreat; and are a central part of the first year training of Jesuit novitiates. However, one does not have to be a Jesuit-in-training to take advantage of the Exercises: Increasingly, lay people and even non-Catholics follow this path.
+
+
 ## Index
 
 - [Approbation of the Latin Texts](/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation)

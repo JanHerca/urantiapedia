@@ -1,5 +1,5 @@
 ---
-title: "Cómo surgieron los Documentos de Urantia según Los Reveladores"
+title: "Cómo se crearon los Documentos de Urantia, de acuerdo a los Reveladores"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z

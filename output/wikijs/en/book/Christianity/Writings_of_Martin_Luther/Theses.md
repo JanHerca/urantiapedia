@@ -2,10 +2,10 @@
 title: "Martin Luther's 95 Theses [1517]"
 description: "Writings of Martin Luther"
 published: true
-date: 2025-1-17T23:36:20Z
+date: 2025-1-18T17:47:40Z
 tags: Christianity, book
 editor: markdown
-dateCreated: 2025-1-17T23:36:20Z
+dateCreated: 2025-1-18T17:47:40Z
 ---
 
 <figure class="table chapter-navigator">

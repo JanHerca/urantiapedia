@@ -2,10 +2,10 @@
 title: "Large Catechism — The Lord's Prayer."
 description: "Writings of Martin Luther"
 published: true
-date: 2025-1-17T23:36:21Z
+date: 2025-1-18T17:47:40Z
 tags: Christianity, book
 editor: markdown
-dateCreated: 2025-1-17T23:36:21Z
+dateCreated: 2025-1-18T17:47:40Z
 ---
 
 <figure class="table chapter-navigator">

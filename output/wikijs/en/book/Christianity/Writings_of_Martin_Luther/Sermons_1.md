@@ -2,10 +2,10 @@
 title: "Sermons — Enemies of the Cross of Christ"
 description: "Writings of Martin Luther"
 published: true
-date: 2025-1-17T23:36:21Z
+date: 2025-1-18T17:47:40Z
 tags: Christianity, book
 editor: markdown
-dateCreated: 2025-1-17T23:36:21Z
+dateCreated: 2025-1-18T17:47:40Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,7 +13,7 @@ dateCreated: 2025-1-17T23:36:21Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Conclusion">
+        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_Conclusion">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Large Catechism — Conclusion</span>
         </a>
         </td>
@@ -39,7 +39,7 @@ dateCreated: 2025-1-17T23:36:21Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Conclusion">
+        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_Conclusion">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Large Catechism — Conclusion</span>
         </a>
         </td>

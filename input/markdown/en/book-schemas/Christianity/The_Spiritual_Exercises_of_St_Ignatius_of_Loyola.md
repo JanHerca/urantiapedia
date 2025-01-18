@@ -18,7 +18,6 @@
 
 <p style="text-align:center;">
 <span class="text-h3">The Spiritual Exercises of St. Ignatius of Loyola</span><br>
-OF THE GLORIOUS<br>
 <span class="text-h3">translated by Elder Mullan</span><br>
 <span class="text-h5">W. Heywood</span><br>
 Facultatem concedimus ut liber cui titulus “The Spiritual Exercises of St. Ignatius of Loyola translated from the Autograph by Father Elder Mullan, S.J.,” typis edatur, si iis ad quos spectat ita videbitur. Franciscus Xav. Wernz<br>

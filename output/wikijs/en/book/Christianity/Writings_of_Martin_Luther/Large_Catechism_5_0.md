@@ -2,10 +2,10 @@
 title: "Large Catechism — [Part Fifth.]"
 description: "Writings of Martin Luther"
 published: true
-date: 2025-1-17T23:36:21Z
+date: 2025-1-18T17:47:40Z
 tags: Christianity, book
 editor: markdown
-dateCreated: 2025-1-17T23:36:21Z
+dateCreated: 2025-1-18T17:47:40Z
 ---
 
 <figure class="table chapter-navigator">
@@ -23,7 +23,7 @@ dateCreated: 2025-1-17T23:36:21Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Conclusion">
+        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_Conclusion">
           <span class="pr-2">Large Catechism — Conclusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -49,7 +49,7 @@ dateCreated: 2025-1-17T23:36:21Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Conclusion">
+        <a href="/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_Conclusion">
           <span class="pr-2">Large Catechism — Conclusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -2,13 +2,13 @@
 title: "Writings of Martin Luther"
 description: 
 published: true
-date: 2025-1-17T23:36:21Z
+date: 2025-1-18T17:47:40Z
 tags: Christianity, book
 editor: markdown
-dateCreated: 2025-1-17T23:36:21Z
+dateCreated: 2025-1-18T17:47:40Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />							<text style="font-size:5px" x="61" y="22">Martin Luther</text>							<text style="font-size:9px" x="61" y="60">Texts</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Writings of Martin Luther</span><br></p>This page has a selection of the writings of Martin Luther.
+<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Martin Luther</text>		<text style="font-size:9px" x="61" y="60">Texts</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Writings of Martin Luther</span><br></p>This page has a selection of the writings of Martin Luther.
 ## Index
 
 - [Martin Luther's 95 Theses [1517]](/en/book/Christianity/Writings_of_Martin_Luther/Theses)
@@ -41,7 +41,7 @@ dateCreated: 2025-1-17T23:36:21Z
 		- [Large Catechism — The Seventh and Last Petition.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_3_2#p7)
 	- [Large Catechism — Part Fourth.](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_4_0)
 	- [Large Catechism — [Part Fifth.]](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_0)
-	- [Large Catechism — Conclusion](/en/book/Christianity/Writings_of_Martin_Luther/Conclusion)
+	- [Large Catechism — Conclusion](/en/book/Christianity/Writings_of_Martin_Luther/Large_Catechism_5_Conclusion)
 - Sermons
 	- [Sermons — Enemies of the Cross of Christ](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_1)
 	- [Sermons — Christ Our Great High Priest](/en/book/Christianity/Writings_of_Martin_Luther/Sermons_2)
