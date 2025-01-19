@@ -9,8 +9,8 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Jaboc | | | PLACE | 
-desemboca en el río Jordán (124:6.6)
+Jaboc | | | PLACE | OK
+El río Jaboc desemboca en el río Jordán, un lugar de gran importancia histórica y belleza natural. (124:6.6)
 
 Jacobo (evangelista); Jacobo | | | PERSON | OK
 Jacobo es un desconocido discípulo de Jesús que dirigió al grupo de evangelistas más jóvenes (150:5.1)
@@ -30,7 +30,7 @@ Jacob es un nieto de Abraham que tuvo dificultades para comprender las tradicion
 dormía sobre piedra porque la veneraba y la ungía (85:1.1)
 > https://es.wikipedia.org/wiki/Jacob
 
-Jacobo el albañil (padre); Jacobo | | | PERSON | OK
+Jacobo el albañil (padre); albañil; Jacobo padre | | | PERSON | OK
 Jacobo era albañil y fue el socio comercial de José y con él tuvo varias casas en el pueblo en común; fue el vecino de la casa de al lado en Nazaret (124:2.4) (126:3.1)
 el joven Jesús pidió consejo a Jacobo sobre qué hacer cuando se presentó en Nazaret un rabino de Jerusalén con una oferta para la familia (123:6.9)
 Jacobo debió de fallecer hacia el año 20 d.C. o antes y su casa pasó a ser ocupada por su hijo Jacobo y Miriam, la hermana de Jesús (128:7.12)
@@ -40,17 +40,17 @@ Jacobo era el hijo de Jacobo el albañil, el socio de José; fue el amigo más �
 fue albañil como su padre y fue socio comercial de los hermanos de Jesús (128:2.2) (128:5.8)
 se casó con Miriam, hermana de Jesús, en noviembre del año 20 d.C. (128:5.8) (128:7.10,12)
 
-pozo de Jacob | (124:6.1) (127:3.3) (143:5.2-3) (193:1) | | PLACE | 
-En este pozo bebió Jesús en varias ocasiones
+pozo de Jacob | | | PLACE | OK
+Jesús, siendo joven, discutió la tradición con su hermano en el pozo de Jacob, donde también bebió varias veces y habló del agua viva. (124:6.1) (127:3.3) (143:5.2-3) (193:1)
 
 Jah | | | PERSON | OK
 Jah es una denominación semita de la Deidad, versión más breve de Yahvé para evitar pronunciar este nombre (96:1.9)
 > https://en.wikipedia.org/wiki/Jacob
 
-jainismo | (92:6.10) | | RELIGION | 
-Siglo VI a.C. movimiento religioso (92:5.12)
-Resumen de Ganid de (131:6)
-influencia en el hinduismo (94:4.1)
+jainismo; jainistas | (92:6.10) | | RELIGION | OK
+El jainismo surgió como un movimiento religioso importante en el siglo VI a.C. (92:5.12)
+El resumen que Ganid hizo de las enseñanzas de los suduanistas, hoy llamado jainismo, enfatizaba la rectitud, la verdad, la autoconquista y la compasión hacia los demás. (131:6)
+La influencia del jainismo en el hinduismo ha dado forma a la religión más antigua y cosmopolita del mundo. (94:4.1)
 
 Jairo | (152:0.1) (152:1) | | PERSON | OK
 Jairo era uno de los jefes de la sinagoga nueva de Cafarnaúm (152:0.1) (153:1.1)
@@ -59,7 +59,7 @@ Los líderes de Jerusalén trabajaron para disuadir a Jairo de permitir a Jesús
 dimitió como dirigente principal y se alineó abiertamente con Jesús (154:1.2)
 > https://es.wikipedia.org/wiki/Jairo_(bíblico)
 
-Epístola de Santiago | | Santiago (hermano de Jesús):Epístola | | 
+Epístola de Santiago | | Santiago (hermano de Jesús) | | OK
 
 Jacobo Alfeo | | gemelos Alfeo | PERSON | OK
 
@@ -97,11 +97,11 @@ el carácter de Santiago
 	aprendió a practicar una prudente conciliación cuando compareció antes los magistrados civiles (139:4.13)
 > https://es.wikipedia.org/wiki/Santiago_el_Justo
 
-Santiago de Safed; Santiago | | | PERSON | OK
+Santiago de Safed | | | PERSON | OK
 Santiago de Safed era un ciudadano de Tiberiades que tenía un hijo de catorce años aquejado de epilepsia, y además estaba poseído realmente por un ser intermedio malévolo. Jesús sanó al muchacho (158:4-5)
 Santiago es quien pronunció ante Jesús la famosa frase que reza «Señor, creo; ayuda a mi incredulidad» (158:5.2)
 
-Santiago Zebedeo; Santiago | (139:3 s) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | apóstoles de Jesús | PERSON | OK
+Santiago Zebedeo; Santiago | (139:3) (141:7.13) (143:3.5) (144:1.7) (167:0.3) (167:4.4) (174:1.1) (191:0.5) | apóstoles de Jesús | PERSON | OK
 Santiago Zebedeo, apodado como su hermano Juan «Hijo del trueno», estaba casado cuando conoció a Jesús y tenía cuatro hijos; era de Cafarnaúm; tenía 30 años en el año 26 d.C.; sus padres eran Zebedeo y Salomé (139:3.1)
 fue compañero de pesca de Andrés, Pedro y su hermano Juan (139:1.1) (139:3.1)
 fue bautizado por Juan en el año 25 d.C. (135:8.1)
@@ -138,54 +138,54 @@ actitud
 	era un pensador equilibrado y planificador; nunca tenía prisa (139:3.7)
 > https://es.wikipedia.org/wiki/Santiago_el_Mayor
 
-Jamnia | (134:7.4) | | PLACE | 
-Jesús pasó por esta población
+Jamnia | | | PLACE | OK
+Jesús pasó por esta población de la costa mediterránea durante su viaje en solitario por Palestina durante el año 25 d.C. (134:7.4)
 
 Jansad | | | PERSON | OK
 Jansad fue hijo de Evason, el segundo hijo de Adán, y por tanto nieto de éste; fue el sucesor de Adán como jefe de las tribus adamitas (76:3.3)
 
-Japón | (60:3.6) | | PLACE | 
-Migración andita a (78:5.6)
-Asoka estableció el budismo en (94:9.1) (94:11.1)
-flotando sobre el precipicio de una tumba acuosa (58:5.8)
-Japoneses expulsados de China continental en 12.000 a.C. (79:6.3)
-biblioteca de Alejandría contenía manuscritos de (130:3.4)
-Misioneros de Salem en (93:7.2)
-Shinto venerado en (92:6.15)
+Japón | (60:3.6) | | PLACE | OK
+La migración andita al Japón influyó grandemente en los antepasados ​​de los turanios en Asia central y añadió cualidades deseables a las posteriores cepas chinas. (78:5.6)
+Asoka estableció el budismo en Japón, donde se convirtió en la religión dominante en una generación. (94:9.1) (94:11.1)
+Japón se cierne sobre el precipicio de una tumba acuosa debido a la presión continental y la depresión del fondo del océano. (58:5.8)
+Los japoneses fueron expulsados ​​del continente chino por poderosas tribus chinas del norte en 12.000 a.C. (79:6.3)
+La biblioteca de Alejandría contenía manuscritos de Grecia, Roma, Palestina, Partia, India, China e incluso Japón. (130:3.4)
+Los misioneros de Salem en Japón difundieron las enseñanzas del culto de Salem por toda Asia y Europa. (93:7.2)
+El sintoísmo es reverenciado en Japón, mientras que la India está dividida entre creencias hindúes, sikhs, musulmanas y jainistas. (92:6.15)
 
-Jafia | (149:0.1) | | PLACE | 
-Jesús visitó esta población durante la segunda gira de predicación pública en Galilea
+Jafia | | | PLACE | OK
+Jesús visitó esta población durante la segunda gira de predicación pública en Galilea (149:0.1)
 
 Yaram el Hitita | | | PERSON | OK
 Yaram el Hitita fue un estudiante de la escuela de Melquisedek que fue enviado por este para invitar a Abraham y su hermano Najor a Salem (93:5.5)
 
-Java | | | PLACE | 
-Migración andónica a (64:1.5)
-Asoka estableció el budismo en (94:9.1)
-puente terrestre que conecta a Java con Asia (64:1.6)
+Java | | | PLACE | OK
+Durante las migraciones andónicas, un camino terrestre continuo desde Inglaterra hasta Java conectaba Europa y Asia. (64:1.5)
+Asoka estableció el budismo en Java, donde pronto se convirtió en la religión dominante en la mitad del mundo. (94:9.1)
+Hace 950.000 años, los descendientes de Andón y Fonta cruzaron el puente terrestre que conectaba Java con Asia. (64:1.6)
 
-hombre de Java | | | RACE | 
-huesos encontrados recientemente; Andonita (64:1.6)
+hombre de Java | | | RACE | OK
+Los huesos del hombre de Java recientemente encontrado pertenecían a los descendientes de Andón y Fonta, quienes emigraron hacia el este hace 950.000 años. (64:1.6)
 
-celos | | envidia | | 
-puede convertir el amor en odio (177:4.11)
-Dios celoso del hombre, no del hombre (4:3.1)
-veneno mental; interfiere con el progreso espiritual (110:1.5)
-entre los primitivos, los esposos mayores encantados con las nuevas esposas (83:5.13)
-Primates celosos de la casa del árbol de Andón (63:2.1)
-celos sexuales no innato (82:4.4)
-cuando es atacado por celos, descansa en la ciudadela del espíritu (100:2.7)
+celos | | envidia | | OK
+Los celos de Judas hacia Jesús pueden convertir el amor en odio. (177:4.11)
+Dios está celoso del hombre, nunca de él. (4:3.1)
+Los celos son un veneno mental que interfiere con el progreso espiritual y obstaculiza en gran medida los esfuerzos del Ajustador por exaltar la mente material. (110:1.5)
+Los cónyuges mayores entre los primitivos se deleitaban con nuevas esposas debido a los antiguos tabúes que fomentaban la poligamia y la necesidad de ayuda más joven para la maternidad y el trabajo doméstico. (83:5.13)
+Los Primates estaban celosos de la casa del árbol de Andón, lo que provocó temor y aislamiento en los gemelos mientras huían hacia el norte. (63:2.1)
+Los celos sexuales no son innatos sino más bien un producto de las normas y costumbres sociales en evolución. (82:4.4)
+Descansa en la ciudadela del espíritu, sin que te afecten los celos ni los choques terrenales, pues las garantías espirituales son inexpugnables. (100:2.7)
 
-Jebús | | | PLACE | 
-ciudad de Salem, más tarde Jerusalén (93:2.4) (97:9.11,17)
-El rey David se casó con 6 mujeres de Jebús; capital establecido en (97:9.10-11)
-ciudad de murallas fuertes entre Judá e Israel (97:9.11)
+Jebús | | | PLACE | OK
+La ciudad de Salem se transformó en Jerusalén, conocida por su rico significado religioso e histórico, que incluía el legado de Melquisedec y el establecimiento de la capital de David en Jebús. (93:2.4) (97:9.11,17)
+David consolidó su poder político casándose estratégicamente con esposas de Jebús y otras figuras influyentes. (97:9.10-11)
+David formó un pacto estratégico con los jebuseos para establecer su capital en Jerusalén, una ciudad amurallada situada entre Judá e Israel. (97:9.11)
 
-jebuseos | | | RACE | 
-palestinos no hebreos; se unió al nuevo reino de David (97:9.7)
+jebuseos | | | RACE | OK
+David dio la bienvenida a los palestinos no hebreos, incluidos los jebuseos, en su nuevo reino en Judá, donde compartían el concepto hebreo de propiedad de la tierra. (97:9.7)
 
 Joás de Israel; Joás | | | PERSON | OK
-Joás fue un rey de Israel, padre de Jeroboam; liberó a Israel de sus enemigos (97:9.20)
+Joás y Jeroboam trajeron nueva vida al liberar a Israel de sus enemigos, mientras que la nobleza gangsteril de Samaria condujo a la escritura secreta de Elías, Amós y Oseas, que marcaron el comienzo de las Biblias judía y cristiana. (97:9.20)
 > https://es.wikipedia.org/wiki/Joás_de_Israel
 
 Yonadab | | | PERSON | OK
@@ -201,7 +201,8 @@ Jehú | (124:6.3) | | PERSON | OK
 Jeshú es considerado el décimo rey de Israel aunque El Libro de Urantia lo denomina terratiente y no rey; unió fuerzas con Yonadab para destruir los profetas de Baal en Samaria (97:9.19)
 > https://es.wikipedia.org/wiki/Jehú
 
-medusas | (59:2.11) (65:2.5) | | | 
+medusas; medusa | | | | OK
+Hace 310 millones de años, había muchas variedades de medusas, que desde entonces se han extinguido, junto con cefalópodos bien desarrollados y antepasados primitivos de los corales. (59:2.11) (65:2.5)
 
 Jefté | | | PERSON | OK
 Jefté es un personaje bíblico, juez de Israel, que ofreció a su única hija como sacrificio humano para cumplir una promesa sagrada; un claro ejemplo de lo desgarradoras que podían ser las costumbres religiosas antiguas (89:6.3)
@@ -211,101 +212,115 @@ Jerami | | | PERSON | OK
 Jerami fue un prosélito judío griego de Nicópolis que conoció a Jesús durante el viaje por el Mediterráneo de éste; posteriormente conocería a Pablo, durante el tercer viaje misionero del apóstol (133:2.5)
 
 Jeremías | | | PERSON | OK
-Jeremías fue un profeta intrépido (97:6)
-afirmó que Yahvé era el Dios de todas las naciones, no sólo de la nación hebrea (97:6.2)
-aconsejó rendir Jerusalén a Nabucodonosor, lo que le valió la prisión (97:6.4)
-le metieron en el fango de una mazmorra inmunda (153:2.3)
-proclamó la caída de Jerusalén (97:9.22)
-proclamó una era de rectitud interior, una alianza escrita dentro del corazón (97:8.3)
-dijo que el corazón humano es engañoso (143:2.5)
-les habló a los judíos de su inminente perdición (97:9.25)
-habló de la ley escrita en el corazón de los hombres (121:7.5)
-Jesús citó a Jeremías en numerosas ocasiones (130:8.2) (145:2.5) (149:6.12) (153:2.2) (165:4.8)
+Jeremías, el profeta intrépido, proclamó con valentía a Yahvé como el Dios de todas las naciones, marcando el comienzo de una nueva era de monoteísmo universal. (97:6)
+Jeremías declaró sin temor a Yahvé como el Dios universal de todas las naciones, trascendiendo los confines de la identidad hebrea. (97:6.2)
+Jeremías aconsejó entregar Jerusalén a Nabucodonosor, ya que creía en la justicia y el poder del Señor. (97:6.4)
+En el calabozo inmundo, Jeremías se hundió en el lodo mientras los sacerdotes buscaban su muerte por advertir a su pueblo. (153:2.3)
+Jeremías proclamó con valentía la caída de Jerusalén, a pesar de la seguridad de Isaías de que la ciudad nunca caería. (97:9.22)
+Jeremías proclamó una era de justicia interior, pero la liberación se pospuso a pesar de los clamores de los profetas y sacerdotes. (97:8.3)
+El profeta Jeremías advirtió que el corazón humano es engañoso por sobre todas las cosas, y que lleva a la gente por el mal camino, llevándola a la necedad, las pasiones, los placeres, la malicia, la envidia y el odio. (143:2.5)
+Jeremías advirtió a los judíos de su inminente perdición cuando Nabucodonosor regresara para gobernar Babilonia. (97:9.25)
+Jeremías previó la ley escrita en los corazones de los hombres, una visión que los judíos no pudieron abrazar plenamente debido a las cadenas de la tradición, lo que llevó a la transferencia de la evolución religiosa a los pueblos europeos. (121:7.5)
+Jesús citó a Jeremías para animar a Esdras en su búsqueda de Dios, lo que condujo a la fundación de la primera iglesia cristiana en Siracusa. (130:8.2) (145:2.5) (149:6.12) (153:2.2) (165:4.8)
 > https://es.wikipedia.org/wiki/Jeremías_(profeta)
 
-Jericó | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | PLACE | 
-antiguo vado por el que pasó Josué (135:6.1)
-sacrificios humanos en la construcción de muros (89:6.6)
-Jesús bendijo a los niños pequeños en (167:5.2) (167:6.1-3)
-Judas depositó fondos en (147:2.1)
-Judas vivió en (138:2.9) (139:12.1)
-leyenda de Josué y muros de (172:1.3)
-ministerio a enfermos en (141:8)
-restauración de la vista a Bartimeo en (171:5)
-historia del buen samaritano en (164:1)
-Zaqueo de (171:6)
+Jericó | (124:6.7) (125:3.2) (127:3.6) (128:3.2) (147:6.2) | | PLACE | OK
+tiempos antiguos
+	La grotesca práctica de los sacrificios humanos para construir los muros persistió, y un reyezuelo puso los cimientos de Jericó en sus hijos según las creencias religiosas. (89:6.6)
+Los tiempos de Jesús
+	Juan el Bautista se estableció cerca de la entrada del antiguo vado de Jericó, predicando a la gente que cruzaba de un lado a otro. (135:6.1)
+	Durante su estancia en Betania, más allá del Jordán, los matrimonios apostólicos fueron asignados por Andrés para ministrar a los enfermos de Jericó, donde encontraron gran consuelo y sanación mediante las enseñanzas de Jesús y sus apóstoles. (141:8)
+	Judas vivió en Jericó antes de unirse a los apóstoles de Jesús. (138:2.9) (139:12.1)
+	Judas depositó fondos en el banco de Jericó durante el viaje a Jerusalén. (147:2.1)
+	Jesús bendijo a los niños pequeños en Jericó. (167:5.2) (167:6.1-3)
+	Jesús habló de la leyenda de Josué y de los muros de Jericó, haciendo hincapié en la importancia de derribar los muros del prejuicio y el odio con el amor del Padre. (172:1.3)
+	En Jericó, Bartimeo recuperó la vista cuando Jesús pasó por allí. (171:5)
+	La historia del buen samaritano en Jericó nos enseña a mostrar compasión a todos nuestros vecinos. (164:1)
+	Zaqueo, de Jericó, encontró la salvación y se convirtió en hijo de Abraham cuando Jesús decidió quedarse en su casa. (171:6)
 
 Jeroboam | | | PERSON | OK
 Jeroboam, hijo de Joás, fue el decimotercer rey de Israel; liberó a Israel de sus enemigos (97:9.20)
 > https://es.wikipedia.org/wiki/Jeroboam_II
 
-Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | templo de Jerusalén | PLACE | 
-los apóstoles relacionaron la destrucción de Jerusalén con la aparición de la Nueva Jerusalén (176:1.6)
-sitiado en tiempos de Jeremías (97:6.4)
-ciudad de la casa del Padre (171:4.7)
-cuna del movimiento del evangelio temprano (176:1.3)
-peligros de la visita de Jesús a (162:1)
-descripción (162:4)
-fiesta de la dedicación en (164:2)
-invertido por Tito en el año 70 d.C. destruido por los ejércitos romanos (121:8.7) (170:2.25) (176:4.2) (187:1.5)
-Isaías dijo que Jerusalén nunca caería; Jeremías proclamó la caída de Jerusalén (97:9.22)
-Jesús predijo la destrucción de Jerusalén (172:3.10) (176:0.1) (176:1) (176:2.6) (178:3.3-4) (187:1.5-7)
-décimo novena aparición de Jesús en (193:3.2)
-La Pascua de Jesús en (125) (142)
-millones de judíos dispersos asistieron a fiestas religiosas (121:6.9) (162:4.1) (185:1.5) (188:3.1)
-La visión de Pablo del Jerusalén celestial (47:10.3)
-la persecución dispersó a los primeros creyentes de (143:6.6)
-lugares en y alrededor | palacio Asmoneo; puerta de Damasco; puerta de la fuente; Gehena; Gólgota; templo de Jerusalén; Cedrón; monte de los Olivos; Ofel; piscina de Betesda; Siloé (piscina); puerta del agua (Jerusalén)
-anteriormente conocido como Jebús; Salem (93:2.4) (97:9.11)
-los profetas perecen en (171:4.7)
-Situación en la semana antes de la crucifixión (175:4)
-templo de Baal junto al templo de Yahvé (97:9.21)
+Jerusalén | (147) (124:6) (129:2.6) (134:7.5) (134:9.2) (140:7.2) (141:9) (152:7) | templo de Jerusalén | PLACE | OK
+La antigua Jerusalén
+	Melquisedec, sacerdote y sabio de Salem, puso los cimientos de Jerusalén, conocida anteriormente como Jebús. (93:2.4) (97:9.11)
+	En medio del reinado de terror en Jerusalén, un templo de Baal se alzaba junto al templo de Yahvé. (97:9.21)
+	Durante el asedio de Jerusalén, el intrépido profeta Jeremías proclamó la justicia y el poder del Señor, pero fue condenado por sugerir la rendición a Nabucodonosor. (97:6.4)
+	A pesar de la profecía de Isaías, Jerusalén cayó como Jeremías había previsto. (97:9.22)
+Jerusalén en la vida de Jesús
+	Jesús dijo a sus apóstoles: “Subamos a Jerusalén, la ciudad de la casa del Padre, para cumplir la voluntad del Padre que está en los cielos”. (171:4.7)
+	Millones de judíos dispersos se reunieron en Jerusalén para celebrar fiestas religiosas, unidos en su adoración y en la expectativa del Mesías, a pesar de las diferencias teológicas. (121:6.9) (162:4.1) (185:1.5) (188:3.1)
+	La Pascua de Jesús en el templo de Jerusalén fue una visita memorable, llena de experiencias de vida independiente y conversaciones en el templo, que llevaron a preguntas y enseñanzas profundas sobre el Padre, las relaciones familiares y el reino venidero, lo que hizo necesario un viaje fuera de Jerusalén para continuar su obra. (125) (142)
+	La fiesta de los tabernáculos en Jerusalén fue una vibrante celebración de la cosecha y la adoración, donde Jesús proclamó con valentía su evangelio completo por primera vez en medio de una reunión diversa de personas de todos los rincones del mundo conocido. (162:4)
+	A pesar de los peligros de la visita de Jesús a Jerusalén, su audaz aparición en la fiesta de los tabernáculos puso fin a todos los rumores de miedo y cobardía entre sus seguidores, que estaban a la vez asombrados y aterrorizados por sus enseñanzas. (162:1)
+	Jesús asistió a la fiesta de la dedicación en la casa de Nicodemo para darle al Sanedrín otra oportunidad de ver la luz, pero sabía que sus planes no funcionarían y aún no había decidido el método para dar a conocer su obra. (164:2)
+	La persecución dispersó a los primeros creyentes de Jerusalén, allanando el camino para que Jesús y los doce difundieran las buenas nuevas entre los samaritanos en el monte Gerizim. (143:6.6)
+	Los profetas perecen en Jerusalén mientras el Hijo del Hombre sube a la ciudad de la casa del Padre para ser ofrecido. (171:4.7)
+	La situación en Jerusalén en la semana anterior a la crucifixión era de confusión y consternación, y los apóstoles se quedaron reflexionando sobre el destino de Jesús en medio de discusiones sobre traición y juicios inminentes. (175:4)
+	La decimonovena aparición de Jesús en Jerusalén trajo un mensaje de unidad, confianza y empoderamiento a sus discípulos. (193:3.2)
+Anuncio de su destrucción
+	Los apóstoles creían que la destrucción de Jerusalén conduciría a la aparición de la Nueva Jerusalén. (176:1.6)
+	Jesús dio instrucciones a sus seguidores para que los protegieran de perecer en la destrucción de Jerusalén, la cuna del movimiento evangélico primitivo. (176:1.3)
+	Jerusalén fue sitiada por Tito en el año 70 d.C. y destruida por los ejércitos romanos, lo que llevó al desarrollo del culto a la vida eterna dentro de la iglesia cristiana en rápida expansión. (121:8.7) (170:2.25) (176:4.2) (187:1.5)
+	La profecía de Jesús, entre lágrimas, sobre la destrucción de Jerusalén se cumplió en los días de la gran tribulación. (172:3.10) (176:0.1) (176:1) (176:2.6) (178:3.3-4) (187:1.5-7)
+La Jerusalén celestial
+	Pablo imaginó la Jerusalén celestial habitada por mortales y seres angelicales en proceso de perfeccionamiento. (47:10.3)
+Lo más destacado de la ciudad
+	En El libro de Urantia se mencionan algunos lugares de Jerusalén y sus alrededores. Véanse los enlaces a continuación | palacio Asmoneo; puerta de Damasco; puerta de la fuente; Gehena; Gólgota; templo de Jerusalén; Cedrón; monte de los Olivos; Ofel; piscina de Betesda; Siloé (piscina); puerta del agua (Jerusalén)
 
-templo de Jerusalén | (125:1.5) (150:1.3) (172:4) | Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | PLACE | 
-sacrificio de animales (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
-profanado por el tráfico de animales, cambistas (173:1)
-sistema bancario extenso (173:1.3-4)
-Casa del Padre (125:1.1) (125:6.7) (171:4.7)
-Los prosélitos gentiles fueron bautizados en la comunión del atrio exterior (135:6.4)
-impuesto de medio shekel por (126:5.5-6) (157:1.1,3) (173:1.3)
-casa de oración para todas las naciones; guarida de ladrones (173:1.7)
-Jesús
-	acusado de desear destruir el templo (184:3.7) (184:5.7)
-	aversión al sacerdocio designado políticamente y al comercio en (125:1.1) (125:5.6) (126:0.3) (127:6.5)
-	limpieza del templo (141:3.6) (173:1) (173:2.1)
-	desilusionado y asqueado por la irreverencia de (125:0.3-4) (125:1) (173:1)
-	primera visita (125) (124:6.10,14)
-	predijo la destrucción de (172:3.10) (176:0.1) (176:1)
-	encontró pueriles, insignificantes las discusiones de los maestros (127:3.5)
-	último discurso en (175)
-	presentación como bebé en (122:9)
-	preguntas en (125:5.2-7)
-	Conmocionada, María estaba restringida a la galería de mujeres (125:0.4)
-	pasó 2 meses observando el templo en el año 22 d.C. (129:2.6-7)
-	enseñado en el Pórtico de Salomón (162:1.9) (162:7.1) (164:5)
-	enseñando en (142:1) (162:2)
-	pensaban que los sacerdotes realizaban sus deberes de manera superficial (127:3.3)
-	Martes por la mañana en (174)
-Corazones judíos centrados en (121:6.8-9)
-Los levitas oficiaron servicios en (164:4.2-4)
-Pedro pagó al recaudador de impuestos de (157:1)
-descripción física (125:0.4-5) (125:1) (172:4)
-	brillantemente iluminado por candelabros, antorchas (162:4.2) (162:5.1)
-	emblema de la entrada decorada con uvas y enredaderas (180:2.3)
-lugares en el templo de Jerusalén
-	hermosa puerta (162:4.3)
-	cámara de la piedra labrada (173:1.5) (184:3.2) (186:1.1)
-	corte de los gentiles (121:2.5)
-	corte de Israel (162:4.3)
-	corte de sacerdotes debajo del saliente de roca (125:1.4) (162:4.4)
-	corte de mujeres (125:0.4) (135:2.1) (150:1.3) (162:4.2-3)
-	Lugar Santísimo (125:2.5) (125:5.3) (135:1.2)
-	Esquina nazarea del tribunal de mujeres (135:2.1)
-	Pórtico de Salomón (162:1.9) (162:7.1) (164:5)
-El secreto de la supervivencia del judaísmo fue la centralización del culto en (121:2.6)
-la tesorería podría tener 10 millones de dólares (173:1.4)
+templo de Jerusalén; templo; templo sagrado de Jerusalén | (125:1.5) (150:1.3) (172:4) | Jerusalén; guardias del templo de Jerusalén; judaísmo; cambistas; sanedrín | PLACE | OK
+Los corazones judíos de todo el mundo permanecieron centrados en el santo templo de Jerusalén, lo que los unió a pesar de las diferencias teológicas y filosóficas. (121:6.8-9)
+La supervivencia del judaísmo dependía de la centralización del culto en el templo de Jerusalén, que encarnaba el monoteísmo y el potencial de difundir un concepto universal de Dios. (121:2.6)
+Servicios del templo
+	Uno de los servicios del templo era servir como lugar para realizar bautismos rituales. Juan bautizó a los creyentes en el Jordán “para perdón de pecados”, una práctica nunca antes vista entre los judíos que solo habían bautizado a prosélitos gentiles para que ingresaran a la comunidad del patio exterior del templo. (135:6.4)
+	Los levitas oficiaban servicios en el templo de Jerusalén, pero temían llamar a Jesús ante ellos. (164:4.2-4)
+	Juan se enfrentó a un dilema después de la muerte de su padre, ya que el voto nazareo prohibía el contacto con los muertos, lo que le causó una gran vergüenza. (135:2.1)
+El comercio irreverente en el templo
+	El templo de Jerusalén fue profanado por el tráfico desenfrenado de animales y cambistas de dinero, lo que llevó a la explotación de los adoradores y de los pobres, lo que impulsó a Jesús a purificar el templo y denunciar la especulación. (173:1)
+	El templo de Jerusalén fue profanado por un extenso sistema bancario dentro de sus instalaciones, que se beneficiaba inmensamente de una variedad de transacciones y gravámenes injustos, lo que llevó a una pobreza generalizada entre la gente común. (173:1.3-4)
+	La tesorería del templo se beneficiaba enormemente de los cambistas que realizaban diversas transacciones bancarias, y tenía en su poder hasta diez millones de dólares, mientras que la gente común sufría pobreza y pagaba impuestos injustos. (173:1.4)
+Relación con Jesús
+	Infancia
+		María y José presentaron a Jesús como un bebé en el templo de Jerusalén, cumpliendo las ordenanzas mosaicas de redención y purificación, mientras Simeón y Ana lo reconocían como el Mesías prometido. (122:9)
+	Primera visita
+		La primera visita de Jesús al templo de Jerusalén fue una experiencia profundamente cautivadora y humanamente emocionante. (125) (124:6.10,14)
+		Jesús se quedó estupefacto e indignado cuando María fue restringida a la galería de las mujeres en el templo de Jerusalén. (125:0.4)
+		Las preguntas del discurso de Jesús en el templo de Jerusalén provocaron un intenso debate entre el grupo principal de discusión. (125:5.2-7)
+		Jesús pasó por el recinto del templo en su camino para unirse a los nuevos hijos de la ley, pero quedó decepcionado por la conducta irreverente que presenció dentro de los vastos edificios. (125:0.4-5) (125:1) (172:4)
+	Visitas de joven
+		En una segunda visita al templo, con su hermano Santiago, el joven Jesús encontró pueriles e insignificantes las discusiones de los maestros en el templo, y Santiago quedó desconcertado por el silencio de su hermano. (127:3.5)
+		Jesús, al preparar a Santiago para la visita al templo, habló sobre las tradiciones en Betel y en el pozo de Jacob, y observó que los sacerdotes desempeñaban sus funciones de manera superficial. (127:3.3)
+		En el año 22 d. C., Jesús pasó dos meses observando las discusiones en el templo, las escuelas de rabinos y los días de reposo en Betania, con la guía del ex sumo sacerdote Anás. (129:2.6-7)
+	Durante la vida pública de Jesús
+		Durante todo el mes de abril del año 27 d. C., Jesús y los apóstoles enseñaron diariamente en el templo con un mensaje acerca del reino de los cielos, el amor, la obediencia y la liberación de las tradiciones onerosas. (142:1) (162:2)
+		Jesús se sintió asqueado por la irreverencia y el sacrificio de animales con ánimo de lucro que presenció en el templo de Jerusalén. (125:1.1,4) (125:2.1,3) (125:5.5) (173:1.1-2)
+		En los atrios del templo, Jesús se horrorizó por la conducta irreverente, y la declaró impropia de la casa de su Padre. (125:1.1) (125:6.7) (171:4.7)
+		Jesús limpió por la fuerza el templo de todo comercio, y lo declaró casa de oración para todas las naciones, no cueva de ladrones. (173:1.7)
+		Jesús fue acusado de querer destruir el templo, pero el tribunal no lo condenó por blasfemia por esta declaración. (184:3.7) (184:5.7)
+		Jesús se sintió conmocionado y asqueado por la presencia de sacerdotes designados políticamente y de comerciantes en los patios del templo. (125:1.1) (125:5.6) (126:0.3) (127:6.5)
+		La limpieza del templo por parte de Jesús reveló su aborrecimiento de la religión comercializadora y de la especulación injusta, lo que desencadenó una profunda e inesperada conmoción en el espacio sagrado. (141:3.6) (173:1) (173:2.1)
+		Jesús, desilusionado y asqueado, presenció la irreverencia en el templo, lo que llevó a una limpieza perturbadora de los cambistas y los comerciantes. (125:0.3-4) (125:1) (173:1)
+		Jesús enseñó en el Pórtico de Salomón para anunciar oficialmente su divinidad al pueblo judío y al mundo. (162:1.9) (162:7.1) (164:5)
+		Jesús predijo la destrucción del templo de Jerusalén, lo que causó gran pesar a todos los que presenciaron su emotiva proclamación. (172:3.10) (176:0.1) (176:1)
+		Poco después de las dos de la tarde del martes 4 de abril del año 30 d. C., Jesús pronunció su último discurso en el templo, en el que condenó a los líderes judíos y pidió el arrepentimiento antes de que el Sanedrín lo condenara a muerte. (175)
+		El martes por la mañana, en el templo de Jerusalén, Jesús se reunió con sus apóstoles, el cuerpo de mujeres y otros discípulos prominentes, y les impartió consejos de despedida antes de partir hacia Jerusalén. (174)
+Impuestos
+	Jesús pagó el impuesto de medio siclo para los servicios del templo de Jerusalén para evitar que el recaudador de impuestos lo atrapara. (126:5.5-6) ​​(157:1.1,3) (173:1.3)
+	Pedro no pagó al recaudador de impuestos del templo de Jerusalén de manera milagrosa atrapando un pez con un siclo en la boca. (157:1)
+	La brillante iluminación de los candelabros y las antorchas en la fiesta del templo provocó una mezcla de regocijo racial, sacrificios y cánticos levíticos. (162:4.2) (162:5.1)
+Lugares en el templo de Jerusalén
+	El emblema de la uva y la vid que decoraban la entrada del templo de Herodes simbolizaba el linaje de los antepasados ​​de David, que los judíos creían que estaban relacionados con el Mesías. (180:2.3)
+	La Puerta Hermosa del templo de Jerusalén era una entrada simbólica para los adoradores que miraban hacia el oeste, repetían cánticos y marchaban hacia el atrio de los gentiles. (162:4.3)
+	En la cámara de piedra labrada del interior del templo, Caifás informó al Sanedrín acerca del juicio y la condenación de Jesús, mientras Judas pedía su recompensa por traicionarlo. (173:1.5) (184:3.2) (186:1.1)
+	El atrio de gentiles del templo de Jerusalén conectaba la cultura, el comercio y la adoración con Antioquía, donde los primeros conversos de Pablo fueron llamados por primera vez "cristianos". (121:2.5)
+	Durante la fiesta en el atrio de Israel, se sacrificaron setenta toros, que simbolizaban las setenta naciones del paganismo. (162:4.3)
+	El muchacho amante de la naturaleza de Nazaret se sintió asqueado por las vistas y los sonidos del atrio de los sacerdotes bajo el saliente de roca del templo de Jerusalén, rogando que se lo llevaran. (125:1.4) (162:4.4)
+	En el patio de las mujeres, Jesús se indignó por la discriminación injusta contra su madre y más tarde comisionó a mujeres como maestras del evangelio, liberándolas en la obra religiosa. (125:0.4) (135:2.1) (150:1.3) (162:4.2-3)
+	Jesús encontró consuelo en las conferencias de enseñanza en el templo, pero su curiosidad acerca del lugar santísimo quedó sin respuesta. (125:2.5) (125:5.3) (135:1.2)
+	Jesús enseñó en el Pórtico de Salomón y en otros lugares de los patios del templo, haciendo el anuncio oficial de su divinidad al pueblo judío y al mundo. (162:1.9) (162:7.1) (164:5)
 
-guardias del templo de Jerusalén | | | PERSON | 
+guardias del templo de Jerusalén; guardias del templo; guardias judíos | | | PERSON | OK
 son un tipo de soldados que trabajaban en el templo para mantener el orden
 Judas se reunió con el capitán de los guardias del templo para organizar la captura de Jesús (182:2.13) (183:2.1)
 el grupo de guardias del templo que prendió a Jesús tuvo una disputa con los soldados romanos sobre dónde llevar a Jesús, si a casa de Anás o de Caifás (183:5.1)
@@ -315,73 +330,84 @@ huyeron cuando vieron la piedra de la tumba de Jesús moverse sola (189:2.4)
 fueron sobornados para que dijeran que los discípulos se habían llevado el cuerpo de Jesús (189:2.4)
 el capitán de los guardias del templo fue quien extrajo los lienzos fúnebres de Jesús y los arrojó a un acantilado cercano (190:1.2)
 
-Jerusem | (46) | esferas arquitectónicas; mundos de las mansiones; Satania | PLACE | 
-187.432.811 ciudadanos ascendientes; ninguno perdido en rebelión (53:7.12)
-las actividades en Jerusem son trabajo, progreso y juego (46:5.29)
-Adán y Eva en adelante (74:1)
-arcángeles basados en (37:3.3)
-ciudadanía (47:10)
-consejos sobre
-	24 consejeros (34:4.11) (45:4.1)
-	consejo de 1000 representa grupos del sistema (45:7.4)
-	consejo de Príncipes Planetarios (188:3.14)
-	consejo ejecutivo de Satania (45:3.8-21)
-colonias de cortesía (46:5.30-31)
-relaciones amistosas (39:4.17-18)
-Galantia mantiene su sede en (37:2.6)
-sede de Satania, nuestro sistema local (15:7.5) (15:14.6) (45:0.1)
-el cielo visualizado por la mayoría de los creyentes modernos (46:0.1)
-irregularidades ocasionadas por la rebelión de Lucifer, el donación de Miguel (46:0.1)
-Juan el Revelador tuvo una visión de (47:10.2)
-Maquiventa Melquisedek tiene su sede en (45:4.16)
-Controlador físico maestro ubicado en (41:2.3)
-nuevos sectores están abiertos a los ascendentes a medida que se atraviesan los mundos de las mansiones (47:6.1)
-aspectos físicos (45:0-1) (46:1-2)
-	Atmósfera de 3 gases (46:2.3)
-	100 veces más grande que Urantia; un poco menos de gravedad (45:0.1)
-	619 monumentos planetarios (46:5.27)
-	200.000 años luz de Uversa (32:2.11)
-	anfiteatro tiene capacidad para 5 mil millones (46:3.2)
-	observatorio astronómico; galería de arte (46:5.30)
-	círculos-áreas residenciales; colina de administración (46:5)
-	construcción (32:2.3)
-	igual temperatura; sin días o noches abruptos (46:1.3-7)
-	áreas ejecutivas, residenciales y administrativas (46:4.6)
-	panorama de exhibición, 35,000 millas a la redonda con borrado de 14 millas (46:5.23-24) (46:8.1)
-	zonas prohibidas (46:5.26)
-	economía material intrincada (46:2.7)
-	ubicado cerca de una enorme isla oscura del espacio (41:2.2)
-	muchos edificios hechos de gemas de cristal (46:5.31) (46:6.12)
-	Monumento a Miguel (46:5.19)
-	más parecido a la vida terrestre que a la existencia espiritual (46:2.7)
-	sin evolución orgánica o supervivencia del más apto (46:2.5)
-	sin montañas escarpadas, océanos, terremotos o lluvias (46:2.1-2)
-	rectángulos de vida nativa inferior, espornagia (46:4.4) (46:7)
-	teatro de Directores de la reversión (46:5.30)
-	templos de Hijos Materiales, poder, registros (45:5.1) (46:5.22,26)
-	los transportes parten del monte Serafín (46:2.8)
-	triángulos; asuntos locales dirigidos desde (46:8)
-	templo vacante no dedicado; sellado por Gabriel (46:5.32)
-	modelo de trabajo de los mundos de Edentia (46:5.27)
-recepción de transmisiones (46:3)
-visto en visiones por Juan, Pablo (34:4.11) (47:10.2-3)
-sistema número 24 de la constelación Norlatiadek (15:14.6)
-mundos culturales de transición
-	7 mundos 10 veces el tamaño de Urantia que giran alrededor de Jerusem, cada uno con 7 satélites, llamado (15:7.5) (45:1.1)
-		# El mundo de los finalitarios
-		# El mundo de la morontia
-		# El mundo de los ángeles
-		# El mundo de los superángeles
-		# El mundo de los Hijos (45:1.7)
-		# El mundo del Espíritu (45:1.8)
-		# El mundo del Padre
-	los mundos de las mansiones giran alrededor del mundo número 1 (15:7.5) (47:0.1-2)
-sistema de transporte (46:2.4)
-sufragio universal; ponderado por mota (45:7.6)
-pesos y medidas (46:1.2)
-El mundo del Padre es una esfera de transición silenciosa dando vueltas (45:1.9)
+Jerusem | (46) | esferas arquitectónicas; mundos de las mansiones; Satania | PLACE | OK
+Jerusem, la sede de Satania, consta de siete mundos de transición rodeados por siete satélites, incluidos los siete mundos de estancia de detención morontial. (15:7.5) (15:14.6) (45:0.1)
+El mundo sede del sistema #24 en la constelación de Norlatiadek se llama Jerusem. (15:14.6)
+Es el primer lugar al que seremos llevados después de cruzar el umbral de la muerte.
+Ubicación
+	Satania, hogar de Jerusem, está ubicada lejos del centro físico del superuniverso de Orvonton, a más de 200.000 años luz de Uversa. (32:2.11)
+	Jerusem está ubicada cerca del centro astronómico de Satania, una enorme isla oscura del espacio. (41:2.2)
+	Jerusalén, la sede de Satania, es el cielo que visualizan la mayoría de los creyentes modernos, una capital típica de un sistema local que lentamente erradica la discordia y restaura el orden y la buena voluntad. (46:0.1)
+Cómo se lo ha visualizado
+	En Jerusem, las actividades compuestas abarcan el servicio, el estudio, el esparcimiento, las relaciones sociales, el entretenimiento en grupo y el culto divino, ofreciendo un gran valor educativo mediante la interacción con diversas personalidades y órdenes. (46:5.29)
+	Juan el Revelador tuvo una visión de mortales que avanzaban y llegaban a Jerusem, de pie sobre un mar de vidrio mezclado con fuego, cantando el cántico de la liberación. (47:10.2)
+	Juan y Pablo tuvieron visiones del cuerpo de ciudadanos ascendentes en Jerusem, un lugar de significado espiritual e iluminación. (34:4.11) (47:10.2-3)
+	A pesar de las irregularidades causadas por la rebelión de Lucifer y la donación de Miguel, Jerusem está progresando constantemente hacia convertirse en una capital celestial típica de esferas similares en el sistema local de Satania. (46:0.1)
+	Todos los ciudadanos ascendentes de Jerusem emergieron triunfantes y victoriosos después de la prueba ardiente de la “guerra en el cielo”, sin que ninguno se perdiera en la rebelión. (53:7.12)
+	La unidad y la celebración saludan a los triunfantes ascendentes en Jerusem, a medida que avanzan en su viaje morontial hacia reinos superiores. (47:10)
+Consejos de Jerusem
+	Los veinticuatro consejeros de Jerusem, agentes designados para ejecutar peticiones especiales y mandatos inusuales, son los agentes personales de Cristo Miguel. (34:4.11) (45:4.1)
+	Cada siglo, el consejo de 1000 miembros de Jerusem elige a diez representantes de cada sistema para que presten servicios en la legislatura de la constelación, seleccionados entre los graduados del Colegio de Administración Melquisedec. (45:7.4)
+	Existe evidencia que sugiere que el asiento de Caligastia en el consejo de Príncipes Planetarios de Jerusem fue ocupado durante la tumba de Jesús. (188:3.14)
+	El consejo ejecutivo de Satania, bajo el liderazgo de Hanavard, proporciona guía y apoyo a los diversos seres que supervisan la administración de Jerusem. (45:3.8-21)
+habitantes de Jerusem
+	Maquiventa Melquisedec, el único Hijo de esta orden que se otorgó a las razas de Urantia, tiene su sede en Jerusem. (45:4.16)
+	Adán y Eva, miembros del cuerpo superior de Hijos Materiales en Jerusem, fueron escogidos para la misión de la aventura adánica en Urantia, leales a Miguel y completamente equipados para sus nuevas responsabilidades. (74:1)
+	El cuerpo de arcángeles de Nebadon, incluidos los primogénitos de la orden, tiene una sede divisional en Urantia que atrae la atención de los visitantes estudiantes de fuera de Nebadon. (37:3.3)
+	En Jerusem, las relaciones amistosas entre los Hijos Materiales, los ángeles y los peregrinos ascendentes hacen que la capital del sistema sea querida por los mortales ascendentes. (39:4.17-18)
+	Galantia, un superángel ascendente, mantiene su sede en Jerusem, siendo el primero de su clase en alcanzar una posición tan elevada. (37:2.6)
+	El Controlador Físico Maestro en Jerusem supervisa el sistema de energía física de Satania. (41:2.3)
+Organización de Jerusem
+	Jerusem, el centro físico y arquitectónico de Satania, comprende cincuenta y siete esferas de diversos tamaños, todas meticulosamente mantenidas y gobernadas por los spornagia nativos y los Controladores Físicos Maestros. (45:0-1) (46:1-2)
+	Jerusem, la capital del sistema de Satania, es un conjunto de esferas arquitectónicas, que incluye a ella misma, sus siete satélites principales y cuarenta y nueve subsatélites, siendo casi 100 veces más grande que Urantia y con una gravedad ligeramente menor. (45:0.1)
+	Las áreas ejecutiva, residencial y administrativa de Jerusem están estructuradas en círculos, cuadrados, rectángulos y triángulos, lo que refleja un diseño común que se encuentra en todas las capitales del sistema de Nebadon, pero sujeto a variaciones en otros universos de acuerdo con los planes de los Hijos Creadores. (46:4.6)
+	Los círculos de las colonias de cortesía de Jerusem exhiben estructuras impresionantes y hermosas sedes creadas por artesanos celestiales. (46:5.30-31)
+	A medida que se recorren los mundos de estancia, nuevos sectores de Jerusem se abren a los mortales ascendentes, revelando grandezas progresivas. (47:6.1)
+	El área central de los círculos de los mortales ascendentes en Jerusem está adornada con 619 monumentos planetarios, que reflejan los diversos mundos habitados del sistema mediante estructuras que cambian periódicamente. (46:5.27)
+	El panorama de exhibición de Jerusem, de 35.000 millas de circunferencia con un borrado de 14 millas, muestra el estado evolutivo de los mundos poblados de Satania, supervisados ​​por residentes nativos de Jerusem y ascendentes de los mundos de Satania. (46:5.23-24) (46:8.1)
+	Los círculos de las colonias de cortesía están adornados por el vasto observatorio astronómico y la galería de arte de Jerusem. (46:5.30)
+	Los círculos de Jerusem abarcan áreas residenciales para los grupos principales de vida universal e incluyen los círculos de los Hijos de Dios, ángeles, Auxiliares del Universo, Controladores Físicos Maestros, mortales ascendentes, colonias de cortesía y el Cuerpo de la Finalidad, cada uno de los cuales consta de siete círculos sucesivamente elevados alrededor de la colina de administración. (46:5)
+	A los mortales ascendentes y a las criaturas intermedias se les prohíbe el acceso a los círculos de los Controladores Físicos Maestros y al sector desmaterializado de Jerusem. (46:5.26)
+	El monumento conmemorativo de Miguel en el centro de Jerusem es el punto focal de todas las actividades del sistema, y ​​conmemora la donación de Miguel en Urantia. (46:5.19)
+	En Jerusem, los rectángulos de vida nativa inferior son el punto de encuentro de los spornagia, que cultivan la tierra con fines estéticos y ornamentales. (46:4.4) (46:7)
+	El inmenso salón de actos del teatro de los directores de reversión de Jerusem es una pieza central de las colonias de cortesía. (46:5.30)
+	Los templos de los Hijos Materiales albergan los registros y el poder de Jerusem. (45:5.1) (46:5.22,26)
+	Los asuntos locales de Jerusem se dirigen desde los cien triángulos que rodean las diez estructuras de la administración local. (46:8)
+	El templo vacío no dedicado sellado por Gabriel en Jerusem simboliza la séptima etapa del espíritu y lleva la inscripción “No dedicado a la misión eterna”. (46:5.32)
+	El área central de los círculos de los mortales ascendentes de Jerusem presenta un modelo funcional de los mundos de Edentia. (46:5.27)
+Aspectos físicos
+	La atmósfera de Jerusem es una mezcla de tres gases, con un gas adaptado para la respiración de la orden de vida morontial. (46:2.3)
+	La construcción de Jerusem y sus satélites marcó el comienzo de la creación física en Nebadon, diseñada para dar cabida a diversas etapas del ser. (32:2.3)
+	La temperatura uniforme de Jerusem se controla y se mantiene con pericia sin cambios abruptos de luz o calor. (46:1.3-7)
+	Los artesanos celestiales crean edificios de gemas de cristal y otros materiales preciosos, mostrando estructuras transparentes visibles para todos los visitantes. (46:5.31) (46:6.12)
+	Jerusem, desprovista de evolución orgánica o supervivencia del más apto, exhibe una mezcla armoniosa de vida física y morontial, reflejando la perfección divina del universo central. (46:2.5)
+	En Jerusem no hay montañas escarpadas, océanos, terremotos ni lluvias, pero hay hermosas tierras altas y miles de pequeños lagos conectados por canales centelleantes. (46:2.1-2)
+	El peso "gradiente" en Jerusem es exactamente de diez onzas y la milla de Jerusem equivale a siete millas de Urantia, mientras que un día de Satania equivale a tres días de Urantia menos una hora, cuatro minutos y quince segundos. (46:1.2)
+	En Jerusem, el sistema de transporte permite a los seres materiales viajar a velocidades que van desde doscientas a quinientas millas por hora, mientras que las aves de transporte vuelan a alrededor de cien millas por hora y los Hijos Materiales utilizan mecanismos aéreos que viajan aproximadamente a quinientas millas por hora, ya que los primeros seres morontiales y materiales dependen de estos medios mecánicos de transporte, a diferencia de las personalidades espirituales que dependen de fuerzas superiores y fuentes de energía espiritual para su movimiento. (46:2.4)
+	Los transportes parten del Monte Serafín cada tres segundos y llegan a más de dos mil millas de distancia a velocidad estándar. (46:2.8)
+Transmisiones
+	La estación receptora de transmisiones de Jerusem, rodeada por un enorme anfiteatro con capacidad para 5 mil millones de seres, es la distracción favorita de todos los habitantes de Jerusem para mantenerse informados acerca del universo. (46:3.2)
+	En Jerusem, las transmisiones del superuniverso y del Paraíso-Havona se reciben mediante una técnica que involucra el cristal polar, el mar de vidrio, en enlace con Salvington, con grupos separados de estaciones para transmisiones del mundo local, sedes de constelaciones y universos locales, proporcionando una distracción atractiva y absorbente para todos los seres presentes en el anfiteatro central de transmisiones. (46:3)
+Economía
+	La intrincada economía material de Jerusem exhibe una perfección de técnica mecánica y logros físicos que asombrarían incluso a los químicos e inventores más experimentados. (46:2.7)
+	La economía material y los logros físicos en Jerusem asombrarían incluso a los químicos e inventores más experimentados, ya que este primer mundo de detención en el viaje al Paraíso se parece más a la vida terrestre que a la existencia espiritual. (46:2.7)
+sufragio
+	En Jerusem, el sufragio universal se pondera por el logro de mota, asignando valores que van desde uno hasta mil según los niveles de sabiduría individual. (45:7.6)
+mundos de cultura de transición
+	Jerusalén, el eje central de Satania, alberga siete mundos de cultura de transición, cada uno con siete satélites, incluidos los siete mundos de estancia de detención morontial. (15:7.5) (45:1.1)
+	# mundo de los finalistas
+	# mundo morontial
+	# mundo angélico
+	# mundo de los superángeles
+	# mundo de los Hijos. Jerusem es el mundo sede de los Hijos de todas las órdenes, incluidos los hijos trinidizados por criaturas, rodeado por siete mundos dedicados a estos seres divinamente relacionados. (45:1.7)
+	# Mundo del Espíritu. En Jerusalén, el número 6 es el mundo del Espíritu, y sirve como punto de encuentro del sistema para las personalidades elevadas del Espíritu Infinito. (45:1.8)
+	# Mundo del Padre
+	Jerusalem, la sede de nuestro sistema local de Satania, tiene siete mundos de estancia que giran alrededor del mundo n.° 1, cada uno de ellos rodeado por siete satélites, que sirven como cultura de transición para los mortales ascendentes. (15:7.5) (47:0.1-2)
+	El Mundo del Padre, una esfera de transición silenciosa que gira, da la bienvenida a todos los seres del sistema como adoradores en su gran templo de luz. (45:1.9)
 
-Jesús | | Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSON | 
+Jesús (of Nazaret) | | | PERSON | 
+
+Jesús | | Cristo; Hijos Creadores; Miguel de Nebadon; Ajustador del Pensamiento de Jesús; apóstoles de Jesús; religión:explicado | PERSON | OK
 los apóstoles creían que Jesús era el Hijo Eterno, la segunda persona de la Trinidad del Paraíso (157:5.1) (161:2.10)
 Jesús era la perfección del hombre y los creyentes están destinados a alcanzar la perfección en él y a través de él (142:7.15)
 texto de cumpleaños de Isaías (97:5.3) (123:5.11) (126:5.2) (148:5.5) (150:8.9) (190:5.4)
@@ -487,38 +513,38 @@ actitudes hacia Jesús
 	miles han probado promesas de (163:6.8)
 	Tiberio admirado (132:0.1)
 eventos en la vida de Jesús
-	nacimiento (122:8)
-		intermedios revelados a los sacerdotes caldeos (119:7.6)
-		Vevona anunció (39:5.5)
-	infancia y juventud
-		no pases por alto al valiente héroe humano (92:7.12)
-		fue llevado a Egipto cuando era niño (95:5.2)
-		llegada del Ajustador (123:2.1) (196:1.7)
-		le gustaba estudiar las flores de día y las estrellas de noche (123:3.10)
-		se cayó por unas escaleras en una tormenta de arena (123:4.5)
-		excusado de la escuela una semana al mes (123:6.1) (124:1.2)
-		se le dice que sea sobre los asuntos de mi padre (37:2.8) (124:6.15) (126:3.5)
-		Le decepcionaban las respuestas a sus penetrantes preguntas (123:6.6) (125:0.6)
-		¿Por qué el padre exige la matanza de animales? (124:6.14)
-		Jesús maravilló a los maestros judíos con sus sagaces preguntas que transmitían sus enseñanzas mediante el encanto, la sagacidad y el humor (124:2.2-3) (125:4.3) (125:5.8)
-		lucha financiera (126:5) (127:3.1,11) (127:6.10)
-		años de la adolescencia (127)
-		se negó a unirse a celotes (127:2)
-		estuvo 6 semanas a solas con Dios en el monte Hermón (134:7.7)
-		40 días en el desierto (135:9) (136:2.6) (136:3-10)
-		el más grande de todos los urantianos (109:6.6)
-		El Padre deseaba un fin natural para la vida de Jesús (158:4-5) (182:3.6-7) (183:1.2)
-		vivió su vida en el canal de su fluir natural (128:1.6) (182:3.7) (183:1.2)
-		sin ayuda sobrehumana antes del bautismo (128:1.3-4,9)
-		recuerda su vida (193:5.2)
-		etapas (101:6.5) (127:6.14) (128:1) (157:6.3) (196:1.6-13)
-		historia contada por los intermedios (77:9.9)
-		tiempo de resucitar al humano Jesús de la teología (196:1.2)
-		nunca enfermo gravemente (124:1.1)
-		se le ofreció el puesto de asistente del chazan en Alejandría (128:5.2-5)
-		la vida social no se descuida del todo (127:3.10)
-		buscó líderes religiosos romanos (132:0.4)
-		pasó tiempo con niños (127:1.8) (127:3.8) (128:6.10-12) (138:8.9) (172:1.4)
+	Nacimiento
+		Jesús de Nazaret nació en el mundo el 21 de agosto del año 7 a.C. en Belén. (122:8)
+		Unos sacerdotes caldeos fueron informados por los intermedios de la inminente llegada de Jesús de Nazaret. (119:7.6)
+		Vevona anunció «Gloria a Dios en Havona y en la tierra paz y buena voluntad entre los hombres» en el nacimiento de Miguel. (39:5.5)
+	Infancia y juventud
+		Jesús de Nazaret fue llevado a Egipto cuando era niño en reconocimiento a la notable preservación del monoteísmo por parte de Ikhnaton. (95:5.2)
+		Jesús, a la edad de su primera decisión moral, recibió la llegada del Ajustador del Pensamiento. (123:2.1) (196:1.7)
+		Jesús de Nazaret pasaba gran parte de su tiempo libre estudiando las flores durante el día y las estrellas por la noche, y a menudo se quedaba despierto hasta pasada la hora de acostarse, maravillado. (123:3.10)
+		Jesús se cayó de las escaleras durante una inesperada tormenta de arena en julio. (123:4.5)
+		Durante un año interesante en la escuela, Jesús, un alumno diligente del tercio más progresista de la clase, fue excusado de asistir una semana al mes, y pasó su tiempo con la familia o en viajes de pesca. (123:6.1) (124:1.2)
+		Un mensajero asignado desde Salvington, comisionado por Emanuel, le dijo a Jesús que se ocupara de los asuntos de su Padre el día antes del sábado de Pascua. (37:2.8) (124:6.15) (126:3.5)
+		Las preguntas embarazosas de Jesús desafiaron las creencias tradicionales y abrieron las mentes a una visión más compasiva de la divinidad. (123:6.6) (125:0.6)
+		Jesús se sintió profundamente perturbado por la matanza de animales inocentes que su Padre celestial exigía. (124:6.14)
+		Jesús, con sagacidad, humor, imparcialidad y consideración, hizo pocos comentarios sobre las respuestas de los ancianos, prefiriendo en cambio desafiar e ilustrar mediante sus preguntas que invitaban a la reflexión. (124:2.2-3) (125:4.3) (125:5.8)
+		Jesús y su familia experimentaron dificultades económicas, pero él cumplió fielmente con sus deberes y anhelaba una vida más sencilla, en el campo. (126:5) (127:3.1,11) (127:6.10)
+		Cuando Jesús entró en la adolescencia, se encontró como cabeza y único sostén de una gran familia, enfrentándose a graves problemas y a intrincadas dificultades, pero adquiriendo pleno conocimiento y comprensión de la experiencia vital de la juventud en todas partes, convirtiéndose para siempre en el refugio comprensivo para los adolescentes angustiados de todas las edades y en todos los mundos a lo largo del universo local. (127)
+		Jesús de Nazaret se negó a unirse a los zelotes, a pesar de la presión de su familia y amigos, debido a su compromiso inquebrantable con su deber hacia su familia y su negativa a involucrarse en una revuelta política. (127:2)
+		Durante sus 6 semanas a solas con Dios en el Monte Hermón, Jesús hizo la transición de su carrera puramente humana a la fase más divina de su donación. (134:7.7)
+		Después de pasar 40 días en el desierto, Jesús tomó la decisión final de establecer el reino de los cielos en los corazones de la humanidad por métodos naturales, ordinarios, difíciles y agotadores, negándose a utilizar sus poderes divinos para obtener ganancias egoístas o gloria mundana. (135:9) (136:2.6) (136:3-10)
+		Jesús de Nazaret es el más grande de todos los urantianos, y refleja valores eternos y vivos en su poderosa personalidad. (109:6.6)
+		El Padre deseaba que la vida de Jesús tuviera un fin natural, pues afrontó las pruebas de su misión terrenal con fe y valor inquebrantables. (158:4-5) (182:3.6-7) (183:1.2)
+		Jesús de Nazaret vivió su vida humana en el cauce de su fluir natural, humillándose y eligiendo soportar gran angustia y sufrir un dolor indecible para cumplir su propósito en la tierra. (128:1.6) (182:3.7) (183:1.2)
+		Jesús de Nazaret adquirió conocimiento y sabiduría como cualquier otro mortal, confiando únicamente en sus habilidades humanas hasta su bautismo, sin ayuda sobrenatural. (128:1.3-4,9)
+		Recordad su vida y proclamad el evangelio del reino con amor, servicio y verdad a todas las personas. (193:5.2)
+		Cristo Miguel, durante su estancia en Urantia, progresó a través de etapas desde la religión evolutiva hasta encarnar la plena soberanía de la supremacía en su universo local. (101:6.5) (127:6.14) (128:1) (157:6.3) (196:1.6-13)
+		La cultura intermedia preserva y comparte la historia de Jesús de Nazaret con la humanidad, salvándola del olvido que plaga la civilización mortal. (77:9.9)
+		Es hora de revivir la verdadera esencia de Jesús de Nazaret, liberándolo de siglos de interpretaciones teológicas, para que sus enseñanzas puedan encarnarse en prácticas religiosas. (196:1.2)
+		Jesús nunca sufrió una enfermedad grave, pero sí soportó dolencias menores durante la infancia junto con sus hermanos este año. (124:1.1)
+		Jesús declinó la oferta de ser capellán asistente en Alejandría, alegando que "todavía no había llegado su hora". (128:5.2-5)
+		La vida social de Jesús, aunque limitada, no quedó en el olvido por completo, pues tenía numerosos amigos íntimos y partidarios leales en Nazaret. (127:3.10)
+		Jesús buscó a los líderes religiosos romanos para preparar el camino para la recepción de sus mensajeros y mejorar su comprensión de la verdad, lo que condujo a la rápida propagación del cristianismo en Roma y más allá. (132:0.4)
+		Jesús pasó todas las horas posibles con los niños, convirtiéndose en una figura paterna para ellos y compartiendo su alegría y asombro. (127:1.8) (127:3.8) (128:6.10-12) (138:8.9) (172:1.4)
 		años 5-8 (123)
 		años 9-13 (124) (125)
 		años 14-15 (126)
@@ -1101,6 +1127,7 @@ nombres o títulos (128:1.10-11) (129:1.11) (134:7.2-3) (141:3.5) (149:2.12) (17
 	* Príncipe de paz (68:3.5) (137:8.7)
 	* Hijo del Hombre e Hijo de Dios (40:7.2)
 personalidad y naturaleza (100:7)
+	No debemos pasar por alto a Jesús de Nazaret, un valiente héroe humano, en nuestra veneración al Cristo divino. (92:7.12)
 	autor y consumador de nuestra fe (196:2.1)
 	Dios encarnado en el hombre (0:5.3) (2:1.7) (4:5.7) (6:1.4) (6:8.6) (7:7.6) (12:7.14) (32:0.3) (33:1.4) (98:7.2) (112:2.7) (117:3.4) (120:4.2-3) (124:4.4) (128:1.2,9-10) (129:4.6) (136:1.6) (137:4.2) (137:7.2) (138:5.2) (141:7.4) (156:2.4) (157:5) (182:1.9) (196:0.3) (196:1.1-2) (196:2.3,6)
 	naturaleza humana (128:1.2,7,8) (182:3.5) (196:1)
@@ -1180,7 +1207,7 @@ escrituras
 	en la arena ante el marido de Hildana (162:3.5)
 	trabajo de traducción para comerciante de Damasco (128:4.2)
 
-Jetro | | | PERSON | 
+Jetro | | | PERSON | OK
 Suegro de Moisés (96:5.3)
 
 Joyería | | ornamentación | | OK
@@ -1189,7 +1216,7 @@ Sacerdocio judío | | levitas; sanedrín | | OK
 
 Religión judía | | judaísmo | | OK
 
-preceptor judío | | | | 
+preceptor judío | | | | OK
 Jesús fue conocido como el preceptor judío en Corinto (129:3.2)
 
 judíos | | lenguaje hebreo; judíos (hebreos antiguos) | RACE | 
