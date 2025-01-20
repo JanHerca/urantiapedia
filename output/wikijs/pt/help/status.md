@@ -167,7 +167,7 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | - The Arena                  | 108        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | French Association           |            |                    |                    |                    |
 | - CERDH - The Letter         | 90         | :clock2:           | :clock2:           | :clock2:           |
-| - Le Lien                    | 500        | :clock2:           | :clock2:           | :clock2:           |
+| - Le Lien                    | 500        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Quebec Association           |            |                    |                    |                    |
 | - Reflectivite               | 401        | :clock2:           | :clock2:           | :clock2:           |
 | UB Annotated                 |  56        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
