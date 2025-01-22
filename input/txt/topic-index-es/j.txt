@@ -1346,43 +1346,43 @@ parte de una raza semítica más antigua que incluía a babilonios, fenicios y c
 la religión era austera y tiránica (98:3.2)
 escrituras de | Antiguo Testamento
 
-Jezabel | | | PERSON | 
-Reina judía de origen fenicio (124:6.3)
+Jezabel | | | PERSON | OK
+Reina judía de origen fenicio. Jesús oyó hablar de la reina de los judíos de Fenicia y de las hazañas de Acab, Jezabel y Jehú mientras pasaba por lugares históricos en su viaje. (124:6.3) (124:6.3)
 
 Jezreel | | | PLACE | 
 Jesús pasó por esta población (124:6.1,3) (149:0.1)
 
-Joab | | | PERSON | 
-joven evangelista; cabecilla del complot para hacer rey a Jesús (152:2.5) (153:5.2)
+Joab | | | PERSON | OK
+El joven evangelista Joab, cabecilla del complot para hacer rey a Jesús, se topó con resistencia y deserción a medida que las multitudes tenían hambre y Jesús se recluía. (152:2.5) (153:5.2) (152:2.5) (153:5.2)
 
-Joaquín | | | PERSON | 
-padre de María madre de Jesús (122:3.3)
+Joaquín | | | PERSON | OK
+El padre de María, Joaquín, siempre fue escéptico respecto de la misión divina de Jesús. (122:3.3)
 
-Juana | | | PERSON | 
-reunión organizada en el nuevo palacio de Herodes (150:3.1)
-en las apariciones de Jesús (190:3.1) (193:0)
-tumba vacía descubierta (189:4.2-14)
-tesorera del cuerpo de mujeres; esposa de Chuza, mayordomo de Herodes (150:1.1-2) (154:0.2)
+Juana | | | PERSON | OK
+Juana organizó una reunión significativa en el nuevo palacio de Herodes, centrada en el papel de la mujer en la vida religiosa. (150:3.1)
+En las apariciones de Jesús, él instruyó a las mujeres creyentes a proclamar las buenas nuevas de la libertad de la humanidad mediante el evangelio de la filiación con Dios en el reino de los cielos. (190:3.1) (193:0)
+Juana, junto con otras cinco mujeres, descubrió la tumba vacía de Jesús temprano en la mañana del domingo. (189:4.2-14)
+Juana, tesorera del cuerpo de mujeres y esposa de Chuza, mayordomo de Herodes, estaba entre las diez mujeres designadas por Jesús para la obra de ministración del reino, estableciendo su organización con Susana como jefa y tesorera. (150:1.1-2) (154:0.2)
 
-Joás de Judá; Joás | | | PERSON | 
-niño rey; cruzado por Yahvé (97:9.21)
+Joás de Judá; Joás | | | PERSON | OK
+El joven rey Joás luchó por Yahvé y puso fin a un régimen de terror en Jerusalén (97:9.21).
 
-Job (libro) | | | | 
-discurso sobre Job (148:6)
-A Job se le concedió una visión de Dios (148:6.3)
-Job anhelaba un Dios humano (148:6.7)
-Protesta contra el concepto egipcio de recompensas divinas por la justicia (97:8.2)
-refleja la escuela de Salem en Kish (95:1.10)
-escrito durante 300 años (96:7.5)
+Job (libro) | | | | OK
+El discurso sobre Job enseñó a Juan el verdadero significado del sufrimiento y la naturaleza divina de la compasión. (148:6)
+El sufrimiento de Job condujo a su salvación mediante una visión de Dios, demostrando que el sufrimiento humano no siempre es un castigo por el pecado. (148:6.3)
+El anhelo de Job por un Dios humano reflejaba su deseo de un ser divino que pudiera comprender y consolar a quienes sufren injustamente. (148:6.7)
+Los judíos lucharon con el concepto egipcio de recompensas divinas por la rectitud, lo que llevó a la protesta en el drama de Job y a la reacción mundanamente sabia en Eclesiastés debido a la presión y coerción devastadoras de la historia secular. (97:8.2)
+Los Salmos encontrados en piedra en Babilonia eran de los descendientes de los misioneros de Salem que escribieron Job, lo que refleja las enseñanzas de la escuela de Salem en Kish. (95:1.10)
+El Libro de Job, escrito hace más de 300 años por maestros religiosos mesopotámicos, presenta una imagen variada de la Deidad que preserva la idea de un Dios real del vecindario de Ur de Caldea en los días oscuros de Palestina. (96:7.5)
 
-Jogbeha | | | PLACE | 
+Jogbeha | | | PLACE | OK
 Una de las poblaciones recorridas en la misisón de Perea (165:0.1)
 
-Johab | | | PERSON | 
-el novio de las bodas de Caná (137:3.6)
+Johab | | | PERSON | OK
+Johab fue el novio de las bodas de Caná, y esposo de Noemí, la novia (137:3.6)
 
-Juan Hircano | | | PERSON | 
-templo destruido en el monte Gerizim (143:4.2)
+Juan Hircano | | | PERSON | OK
+Juan Hircano destruyó el templo samaritano en el monte Gerizim, alimentando aún más la enemistad religiosa entre judíos y samaritanos. (143:4.2)
 
 Juan Marcos | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | 
 se acercó a Jesús con una canasta pequeña (177:0.4)
@@ -1538,274 +1538,290 @@ Jonás | (159:4.4) | | PERSON |
 El discurso de Jesús sobre (130:1)
 
 Jope | | puertos | PLACE | 
-Aquí estuvo Jesús en varias ocasiones (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3)
+Jesús visitó Jope varias veces durante sus viajes por Palestina. (123:0,4) (128:3,2) (130:0,2) (130:1) (134:7,4) (152:7,3)
 
-río Jordan | | | PLACE | 
-vado | Betania en el Jordán
-El bautismo de Jesús en (135:8)
-derramado de una cueva subterránea (157:3.1)
-el valle era tropical (124:6.5)
+río Jordan; Jordán | | | PLACE | OK
+Había un famoso vado en el río Jordán. Ver enlace a continuación | Betania en el Jordán
+El bautismo de Jesús en el año 26 d.C. completó el plan establecido para la llegada de Juan a Pella, consolidando su misión. (135:8)
+Jesús y los doce apóstoles abandonaron el Parque de Magadán hacia Cesarea de Filipo, situada en una región de maravillosa belleza con el río Jordán brotando de una cueva subterránea. (157:3.1)
+Jesús viajó por el valle tropical del Jordán, maravillándose con sus aguas brillantes y sus campos exuberantes. (124:6.5)
 
-José (maestro) | | | PERSON | 
-renombrado maestro liberal de Nazaret (124:4.8)
+José (maestro) | | | PERSON | OK
+Jesús, influenciado por el reconocido maestro liberal nazareno José, realizó modificaciones significativas en las prácticas religiosas de su comunidad. (124:4.8)
 
-José (hermano de Jesús) | (138:1.4) (154:5.1) | Jesús:familia | PERSON | 
-los apóstoles se quedaron (137:2.9)
-en la cuarta aparición de Jesús (190:2.6)
-nacido el 16 de marzo del 1 d.C. (123:4.9)
-se defendió cuando fue atacado por compañeros de juego (127:4.5)
-trabajador fiel y laborioso; no demasiado inteligente (127:4.7)
-instalado formalmente como cabeza de la familia de Jesús (128:2.7) (128:7.11)
-fricción con Jesús (124:4.3)
-graduación de la escuela de la sinagoga (127:6.11)
-Jesús lo llevó a Jerusalén para la Pascua (128:1.14)
-se mudó a la casa familiar en el año 24 d.C. (134:1.6)
-permitido que el orgullo interfiera (154:6.1)
-creencia tentativa en Jesús (137:3.2)
+José (hermano de Jesús) | (138:1.4) (154:5.1) | Jesús:familia | PERSON | OK
+Los apóstoles se quedaron con José mientras Jesús les mostraba la importancia de vivir según sus enseñanzas en lugar de confiar en palabras escritas. (137:2.9)
+En la cuarta aparición de Jesús ante los mortales, desapareció de su vista mientras ellos se disponían a abrazarlo. (190:2.6)
+José, nacido el 16 de marzo del año 1 d.C., fue el cuarto miembro de la familia de Nazaret. (123:4.9)
+Joseph, a diferencia de sus hermanos, se defendió cuando fue atacado por sus compañeros de juego, lo que demuestra un alejamiento de las enseñanzas familiares de no resistencia. (127:4.5)
+José, un trabajador fiel, no era demasiado inteligente comparado con sus hermanos Santiago, Simón y Judas. (127:4.7)
+Jesús preparó su retirada instalando a José como cabeza de la familia después de que Santiago hubiera adquirido experiencia y antes de su propio matrimonio, asegurando una transición sin problemas. (128:2.7) (128:7.11)
+José tuvo que luchar con las fricciones con Jesús, pero se destacó por llevarse bien con sus otros hermanos. (124:4.3)
+Joseph se graduó de la escuela de la sinagoga este año y se preparó para comenzar a trabajar en el pequeño banco del taller de carpintería de su casa, con perspectivas de luchar con éxito contra la pobreza. (127:6.11)
+Este año, Jesús y José viajaron a Jerusalén para la Pascua, y Jesús se aseguró de compartir enseñanzas importantes con José a lo largo del viaje. (128:1.14)
+En el año 24 d.C., José y su familia se mudaron a la antigua casa de Nazaret después de que María y Rut se fueran a vivir a Capernaúm. (134:1.6)
+A pesar de su fe persistente, los miembros de la familia de Jesús permitieron que el orgullo nublara su juicio y obstaculizara sus creencias espirituales; solo Rut se mantuvo firme en su creencia en su misión divina. (154:6.1)
+La fe vacilante de José en Jesús como el libertador largamente esperado creció a medida que su familia discutía los maravillosos acontecimientos que habían tenido lugar en Nazaret. (137:3.2)
 
-José (padre de Jesús) | (122:1) (122:5) | Jesús:familia | PERSON | 
-en la primera Pascua de Jesús (125)
-actitud
-	enojado con Jesús por los juegos de Escitópolis (124:3.8)
-	Explicó las razones de la disciplina familiar (123:3.9)
-	cumplió fielmente las responsabilidades parentales (124:3.2) (124:4.4)
-	sostenido por la visión babilónica del judaísmo (122:5.11)
-	sostuvo el concepto espiritual del Mesías (122:5.10) (123:0.5) (123:6.8)
-	de modales apacibles; concienzudo; sujeto a un leve desánimo espiritual (122:5.1)
-	nunca dejó de discutir completamente las preguntas de Jesús (123:2.3)
-	perplejo por el mensaje de Gabriel; sueño (122:3.2) (122:4)
-antecedentes y herencia
-	8 hermanos y hermanas (122:5.1) (123:6.1?) (128:7.8?)
-	persona promedio de día y generación (119:7.7)
-	morena de ojos negros (122:5.5)
-	raza azul, noditas, sumerios, Abraham eran antepasados; genealogías (122:1.1,3) (122:4.3-4) (123:0.5)
-	educado muy por encima del promedio (122:5.5)
-	hablante fluido de arameo y griego (123:3.1)
-	matrimonio con María en marzo del 8 a.C. (122:2.2) (122:5.8-9)
-	pobre al nacer Jesús (122:10.2)
-conferenciado con Zacarías en Jerusalén (122:8.4)
-no sabía la causa del terremoto (123:3.2-3)
-la familia se convirtió en creyente en Jesús (122:5.10)
-encontró a Jesús enseñando en el templo (125:6.4-8)
-Gabriel eligió a la familia para encarnar (122:0.3) (122:1.3)
-asesinado el 25 de septiembre del año 8 d.C. trabajando en el edificio de Herodes en Séforis (126:2) (126:5.11) (185:4.1)
-ordenó a Jesús que no dibujara (124:1.4-5)
-poseía un burro (122:7.4,7) (125:3.2)
-poseía casas con su socio Jacob el albañil (126:3.1)
-propiedad de propiedad en Nazaret y Cafarnaúm (126:1.4)
-persuadido de permanecer en Belén durante un año (122:8.4)
-quitó el pergamino del poste de la puerta (124:4.7)
-El sábado camina con Jesús (123:5.12)
-tienda de suministros tomada por su hermano (126:5.8)
-apoyó a sus padres; padre recientemente discapacitado (122:7.4)
-problemas con Jesús con respecto a sus oraciones (123:3.6)
-desafortunado no pudo haber vivido (124:4.6)
+José (padre de Jesús) | (122:1) (122:5) | Jesús:familia | PERSON | OK
+El padre humano de Jesús
+José murió el 25 de septiembre del año 8 d. C. mientras trabajaba en el edificio de Herodes en Séforis, dejando a Jesús al cuidado de su familia. (126:2) (126:5.11) (185:4.1)
+Actitud
+	La única vez que Jesús vio a su padre enojado con él fue cuando, en su habitación en la posada, sugirió construir un anfiteatro en Nazaret, lo que provocó un arrebato inusual en José. (124:3.8)
+	José le explicó a Jesús las razones de la disciplina familiar, y se aseguró de que cooperara de manera inteligente y voluntaria con los deseos de sus padres. (123:3.9)
+	José cumplió fielmente con sus responsabilidades paternales, resistiendo la tentación de mostrar favoritismo hacia Jesús como hijo de la promesa e hijo del destino. (124:3.2) (124:4.4)
+	José se adhirió celosamente a las creencias judías babilónicas, mientras que María abrazó el enfoque helenístico. (122:5.11)
+	El concepto espiritual que tenía José del Mesías difería de la creencia que tenía la familia de María en él como gobernante político, lo que llevó a dudar en permitir que Jesús fuera llevado a Jerusalén para recibir educación. (122:5.10) (123:0.5) (123:6.8)
+	José era un hombre de modales apacibles, concienzudo y fiel a las prácticas religiosas, que experimentó un leve desánimo espiritual antes de su muerte prematura. (122:5.1)
+	Desde que Jesús tenía cinco años hasta que cumplió diez, José nunca dejó de discutir a fondo las preguntas de Jesús. (123:2.3)
+	José estaba preocupado por la visita secreta de Gabriel a María y solo llegó a creer en ella después de que un sueño vívido le reveló el destino divino de su hijo no nacido, que iba a ser una luz para toda la humanidad. (122:3.2) (122:4)
+Antecedentes y herencia
+	La familia de José aceptó las enseñanzas de Jesús, mientras que los parientes de María dudaron hasta después de su partida; José favorecía un Mesías espiritual, en contraste con la familia de María que imaginaba un gobernante político; la ascendencia de María tenía vínculos históricos con el movimiento macabeo. (122:5.10)
+	Gabriel escogió a José y María de entre tres parejas para la encarnación del niño otorgado. (122:0.3) (122:1.3)
+	José, a pesar de sus períodos de leve desánimo espiritual, era un hombre fiel y concienzudo, profundamente entristecido por la difícil situación del pueblo judío, que pensaba mucho pero hablaba poco entre sus ocho hermanos y hermanas. (122:5.1)
+	Jesús nació de mujer y fue criado de manera ordinaria por José (padre de Jesús), que era una persona promedio de su época y generación. (119:7.7)
+	José, un moreno de ojos negros, se casó con María, una mujer de ojos castaños casi rubia, ambos muy instruidos y hábiles en el pensamiento crítico y la planificación. (122:5.5)
+	Las genealogías de José se remontaban a las líneas nobles de los sumerios, los noditas y Abraham, entre otros. (122:1.1,3) (122:4.3-4) (123:0.5)
+	José y María, ambos muy cultos para su época, tenían una educación muy superior a la media y mostraban diferentes puntos fuertes: José era un pensador y María una planificadora, hábil en la adaptación y la ejecución práctica. (122:5.5)
+	José, que hablaba con fluidez tanto el arameo como el griego, transmitió su conocimiento a su hijo Jesús, proporcionándole una base sólida en ambos idiomas. (123:3.1)
+José y Jesús
+	Tres meses después del matrimonio de José y María en marzo del año 8 a. C., Gabriel se le apareció a Isabel en junio del mismo año. (122:2.2) (122:5.8-9)
+	José era tan pobre cuando nació Jesús que le quedaba poco dinero y solo ofreció dos pichones para la purificación de María. (122:10.2)
+	José, que mantenía a sus padres y tenía un padre recientemente discapacitado, emprendió un viaje con María, una pareja judía pobre, mientras ella cabalgaba en su única bestia de carga mientras él caminaba delante, guiando el camino hacia Belén. (122:7.4)
+	José y María, pobres y con una sola bestia de carga, viajaron a Belén con María montada en el animal mientras José lo guiaba. (122:7.4,7) (125:3.2)
+	José consultó con Zacarías en Jerusalén acerca del destino de Jesús como el libertador judío y de Juan como su principal ayudante. (122:8.4)
+	La persuasión de María llevó a José a permanecer en Belén durante un año, ya que creían que Jesús sucedería a David como el libertador de los judíos. (122:8.4)
+	La admisión de José de no saber la causa de un terremoto marcó el comienzo de la comprensión de Jesús de que sus padres terrenales no eran omniscientes. (123:3.2-3)
+	La primera Pascua que Jesús celebró en Jerusalén con sus padres fue un momento crucial en su vida, ya que mostró señales de iluminación espiritual y un deseo de entender y desafiar las enseñanzas de las autoridades del templo. (125)
+	José encontró a Jesús enseñando en el templo, mientras María lo confrontaba acerca de su desaparición. (125:6.4-8)
+	José le ordenó a Jesús que no dibujara, a pesar de su talento y pasión artística, lo que causó una gran prueba para el joven decidido. (124:1.4-5)
+	José decidió apartar los ingresos de su propiedad de Nazaret y Capernaúm para financiar la educación de Jesús en Jerusalén a partir de su decimoquinto cumpleaños en agosto. (126:1.4)
+	Jesús, a la edad de doce años, convenció a José de quitar el pergamino del poste de la puerta debido a la naturaleza idólatra de la costumbre. (124:4.7)
+	José disfrutaba de paseos sabáticos con Jesús en Nazaret, donde subieron a una colina alta para disfrutar de una vista panorámica de Galilea, influyendo en Jesús con historias de profetas hebreos y ciudades grecorromanas en la Decápolis y más allá. (123:5.12)
+	José y María lucharon con el enfoque poco convencional de Jesús para la oración, ya que él insistía en hablar a su Padre celestial de una manera familiar y casual en lugar de la manera más tradicional, solemne y reverente. (123:3.6)
+	Es lamentable que José no haya podido vivir para ver el cumplimiento de su concepto de la misión de Jesús. (124:4.6)
 trabajo
-	se convirtió en constructor; se triplicó el ingreso familiar (122:1.1) (122:5.1) (123:3.7)
-	empleado como capataz en Alejandría (123:0.1)
-	en Séforis (124:5.5)
+	José y Jacob, socios en la albañilería, se enfrentaban a dificultades económicas mientras Jesús se hacía cargo de los asuntos de la familia. (126:3.1)
+	José se convirtió en constructor y triplicó los ingresos de su familia, sacándolos de la pobreza. (122:1.1) (122:5.1) (123:3.7)
+	José fue empleado como capataz en Alejandría, manteniendo a su familia y adquiriendo experiencia como contratista. (123:0.1)
+	José trabajó en Séforis encargado de construir un nuevo edificio público. (124:5.5)
+	Jesús trabajó en casa en la tienda familiar después de que su tío se hiciera cargo de la tienda de suministros, enviando a Santiago al lote de camellos para mantenerse informado sobre los acontecimientos actuales. (126:5.8)
 
-José de Arimatea | (174:5.1) (188:3.3) | | PERSON | 
-acompañó a Jesús al templo (175:0.1)
-creía que Jesús se levantaría de la tumba (188:1.2,8)
-el cuerpo de Jesús reclamado audazmente de Pilato (142:6.9) (187:6.2) (188:0.3)
-vino a ver a Jesús en Getsemaní; regresó (142:8.4)
-hija Rebeca (150:1.1)
-embalsamado el cuerpo de Jesús con mirra y áloes (188:1.4)
-ex miembro del sanedrín (188:1.2)
-ayudó a llevar el cuerpo de Jesús a la tumba (188:1.3)
-Quinta aparición de Jesús en casa de (190:3.1)
-Jesús enterrado en la tumba de | Jesús:eventos en la vida
-se reunió con Jesús en la casa de Nicodemo (164:2.1)
-discípulo más franco de Jesús en Jerusalén (188:1.2)
-visitó la tumba vacía (190:1.2)
-las mujeres creyentes se quedaron en casa de (188:1.7) (189:4.2) (192:0.3)
+José de Arimatea | (174:5.1) (188:3.3) | | PERSON | OK
+Poco después de las dos de la tarde, Jesús, acompañado por José de Arimatea, llegó al templo para pronunciar su discurso final. (175:0.1)
+José de Arimatea creía que Jesús se levantaría de la tumba, a pesar de las dudas de Nicodemo. (188:1.2,8)
+Nicodemo y José de Arimatea reclamaron con valentía el cuerpo de Jesús de manos de Pilato, reconociendo su fe incluso cuando la mayoría de los discípulos habían huido atemorizados. (142:6.9) (187:6.2) (188:0.3)
+A pesar de pasar el mes de junio cerca de Jerusalén, sin enseñar públicamente, Jesús atrajo a visitantes como José de Arimatea, que fue a verlo a Getsemaní pero se volvió atemorizado. (142:8.4)
+Rebeca, la hija de José de Arimatea, estaba entre las mujeres seleccionadas y comisionadas por Jesús para la obra de ministrar el reino. (150:1.1)
+José de Arimatea y Nicodemo embalsamaron el cuerpo de Jesús con mirra y áloes antes de colocarlo en la tumba. (188:1.4)
+José y Nicodemo, antiguos miembros del Sanedrín, desafiaron a sabiendas la ley y sepultaron a Jesús en la nueva tumba familiar de José, creyendo firmemente en su resurrección a pesar de las dudas que tenían. (188:1.2)
+José de Arimatea, Nicodemo, Juan y un centurión romano ayudaron a llevar el cuerpo de Jesús a la tumba a las cuatro y media de la tarde. (188:1.3)
+La quinta aparición de Jesús fue en la casa de José de Arimatea, donde dio un mensaje de unidad y de servicio a los demás antes de desaparecer de la vista. (190:3.1)
+Jesús se reunió con Nicodemo y José de Arimatea en la casa de Nicodemo durante la fiesta de la dedicación. (164:2.1)
+Jesús fue enterrado en una tumba de José | Jesús:eventos en la vida
+	José de Arimatea y Nicodemo desafiaron la ley judía al enterrar a Jesús en la nueva tumba familiar de José, y se convirtieron en los discípulos más francos de Jesús en Jerusalén. (188:1.2)
+	José de Arimatea visitó la tumba vacía. (190:1.2)
+	Las mujeres creyentes se quedaron en la casa de José de Arimatea, preparando especias y ungüentos para preparar adecuadamente el cuerpo del Maestro para el entierro el domingo por la mañana. (188:1.7) (189:4.2) (192:0.3)
 
-José de Tiro; José | | | PERSON | 
-Jesús se quedó con (156:4.1-2) (156:6.1)
+José de Tiro; José | | | PERSON | OK
+Jesús permaneció con José de Tiro desde el 11 de julio hasta el 24 de julio, enseñando y predicando en la ciudad y bautizando a muchos creyentes en el reino. (156:4.1-2) (156:6.1)
 
-José (Antiguo Testamento) | | | PERSON | 
-bisnieto de Abraham; administrador civil en Egipto; firma
-creyente en Melquisedek (93:9.5,8)
-las circunstancias políticas facilitaron la promoción de las enseñanzas de Salem en Egipto (95:3.5)
-vendido como esclavo egipcio en Dotán (126:1.2)
+José (Antiguo Testamento) | | | PERSON | OK
+bisnieto de Abraham; administrador civil en Egipto
+La firme creencia de José en Melquisedec lo distinguió como un soñador entre sus hermanos y, en última instancia, moldeó su camino como administrador civil en Egipto, mientras trabajaba por el avance del reino de los cielos. (93:9.5,8)
+Las circunstancias políticas en Egipto permitieron que José promoviera las enseñanzas de Salem, ejerciendo gran influencia en una sociedad sumamente ética pero no excesivamente espiritual. (95:3.5)
+Desde las colinas de Simeón, Jesús vio Dotán, donde José fue vendido como esclavo egipcio, y relató los acontecimientos históricos de su pueblo. (126:1.2)
 
 Josué ben José | | Jesús | PERSON | OK
 
-Josué (Jesús) | | Jesús | PERSON | 
-Gabriel le indicó a María que nombrara a su hijo (122:3.1) (122:8.2)
+Josué (Jesús) | | Jesús | PERSON | OK
+Gabriel le ordenó a María que llamara a su hijo Josué, quien inauguraría el reino de los cielos en la tierra. (122:3.1) (122:8.2)
 
-Josué (Antiguo Testamento) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | 
-llegó a Jerusalén a través de Jericó (135:6.1) (172:1.3)
-Jesús citó (153:2.5)
-vivió para entrar en la tierra prometida (166:3.2)
-Moisés entregó el mando de Hebreos a (96:5.9)
-Predicó el evangelio severo a un pueblo incrédulo (96:6.1,3)
-colocó 12 piedras junto al Jordán (135:6.7)
+Josué (Antiguo Testamento) | (124:6.7) (135:6.1) (135:9.5) | | PERSON | OK
+Jesús recordó cómo Josué y los israelitas llegaron a Jerusalén a través de Jericó (135:6.1) (172:1.3)
+Jesús citó a Josué, diciendo: “Escogeos hoy a quién sirváis; muchos están en las encrucijadas de los caminos” (153:2.5)
+A pesar de la creencia de que sólo unos pocos entrarán en la tierra prometida, todos los que buscan el reino de los cielos hallarán la salvación (166:3.2)
+Cuando Moisés entregó el mando de los hebreos a Josué, ya había construido una nación autosuficiente de guerreros pastores a partir de descendientes colaterales de Abraham y otras tribus relacionadas (96:5.9)
+Josué predicó un evangelio severo a un pueblo incrédulo, haciendo hincapié en Yahvé como un Dios santo, celoso e implacable de poder, juicio y justicia. (96:6.1,3)
+Juan advirtió a los fariseos y saduceos sobre su falsa sensación de seguridad junto al Jordán, declarando que Dios puede levantar hijos dignos para Abraham de entre las doce piedras erigidas por Josué. (135:6.7)
 
-Josué el educador | | | PERSON | 
-fue un capítulo en la vida de Jesús (133:9.6)
+Josué el educador | | | PERSON | OK
+La misión del maestro Josué concluyó ese capítulo en la vida de Jesús como Hijo del Hombre. (133:9.6)
 
-Josías (mendigo ciego) | | | PERSON | 
-se convirtió en predicador del evangelio de por vida (164:5.6)
-ante el sanedrín (164:4)
-expulsado de la sinagoga (164:4.11) (164:5.4-5)
-sanado por Jesús (164:3)
-ni tonto ni falto de humor (164:4.9)
-los padres eran almas pobres y llenas de miedo (164:4.7)
+Josías (mendigo ciego) | | | PERSON | OK
+Josías, que recibió el milagroso ministerio de Jesús, se convirtió en predicador del evangelio durante toda su vida (164:5.6).
+La curación de Josías en el día de reposo desencadenó un acalorado debate en el Sanedrín, que al final no logró atraparlo en sus trampas, lo que llevó a Josías a proclamar con valentía a Jesús como profeta ante ellos (164:4).
+Expulsado de la sinagoga, Josías proclamó con valentía la verdad y fue recompensado con la revelación del Hijo de Dios por parte de Jesús (164:4.11).
+Josías, el mendigo ciego, fue curado por Jesús, lo que desafió a los líderes religiosos y enseñó a los apóstoles a no descuidar los medios materiales para la curación (164:3).
+Josías, que no era mudo ni carente de sentido del humor, respondió al oficial de la corte: "Si este hombre es pecador, no lo sé; pero una cosa sí sé: que habiendo yo sido ciego, ahora veo". (164:4.9)
+Los padres de Josías, almas pobres y llenas de temor, permanecieron en silencio ante el Sanedrín, incapaces de explicar cómo su hijo ciego podía ver ahora, y ordenaron al tribunal que lo interrogara a él en su lugar. (164:4.7)
 
-Josías (discípulo de Abner) | | | PERSON | 
-fariseo bautizado (174:4.4)
+Josías (discípulo de Abner) | | | PERSON | OK
+Josías bautizó al fariseo que profesaba fe en el evangelio del reino. (174:4.4)
 
-Josías (rey) | | | PERSON | 
-destruyó el anillo de políticos corruptos de Jerusalén (97:9.23)
-Egipcios derrotados en Meguido (126:1.2)
-interceptó al poderoso ejército de Necao; fue aniquilado (97:9.24)
+Josías (rey) | | | PERSON | OK
+Bajo el gobierno de Josías, la destrucción de los políticos corruptos de Jerusalén marcó el punto de inflexión para la recuperación de Judá de las garras de la corrupción y la idolatría. (97:9.23)
+Josías, el rey, recordó a los egipcios derrotados en Meguido mientras miraba desde la colina de Simeón hacia Nazaret, Taanac, Dotán, Ebal y Gerizim. (126:1.2)
+El trágico final de Josías llegó cuando interceptó al ejército de Necao, lo que llevó a Judá a caer bajo el tributo a Egipto y al regreso del partido político Baal al poder en Jerusalén, lo que marcó el comienzo de la esclavitud egipcia. (97:9.24)
 
-Jotapata | (138:9.3) (156:6.2) | | PLACE | 
-El discurso de Jesús sobre la oración en (146:2)
-María Magdalena y Rebeca fueron ordenadas en (150:2.3)
+Jotapata | (138:9.3) (156:6.2) | | PLACE | OK
+El discurso de Jesús sobre la oración en Jotapata resaltó la importancia de la sinceridad, el progreso espiritual y el poder transformador de la adoración (146:2).
+María Magdalena y Rebeca fueron ordenadas como maestras eficaces del evangelio en Jotapata, y trabajaron fiel y eficazmente por la elevación de las mujeres junto con otros diez evangelistas (150:2.3).
 
-Júpiter | | | PLACE | 
-persiste solo como exclamación (96:1.14)
+Júpiter | | | PLACE | OK
+A medida que el hombre avanza en la cultura, el gran Júpiter persiste sólo como una exclamación, subordinado a una deidad suprema. (96:1.14)
 
-alegría | | felicidad; paz:paz espiritual | | 
-nacido de la confianza en la palabra divina (143:2.7)
-no puede ser experimentado por uno mismo (111:4.7)
-no se puede poner bajo el microscopio (196:3.18)
-fruto del Espíritu (34:6.13) (56:10.20)
-más alta alegría en el Paraíso es la adoración (27:7.5)
-inherente a la existencia del libre albedrío (28:5.16)
-principalmente reacción material al medio ambiente (108:5.6)
-de alto deber es eclipsando la emoción de los seres espirituales (25:1.6)
-promovido por Alegrías de existencia secoráficas (28:5.16)
-No busques lo transitorio (149:5.4)
-El Espíritu de la Verdad da (194:0.1)
-el crecimiento espiritual produce resultados duraderos (100:4.3)
-compartir el maestro alegría, compartir su amor y servicio (180:1.5)
+alegría | | felicidad; paz:paz espiritual | | OK
+Tu alegría nace de la confianza en la palabra divina, que fundamenta tu filiación en la fe y te libera del temor. (143:2.7)
+La verdadera alegría no se puede lograr en soledad; compartir la vida con otros es esencial. (111:4.7)
+La verdadera alegría, como la morada divina, no se puede medir ni analizar mediante técnicas materialistas. (196:3.18)
+El fruto del Espíritu es la alegría, una característica que exhiben los mortales guiados por el espíritu que son guiados por la verdad y el amor divinamente iluminados. (34:6.13) (56:10.20)
+La alegría más alta en el Paraíso es la adoración, utilizando las artes de todos los seres del universo para intensificar la autoexpresión y transmitir aprecio. (27:7.5)
+La alegría inherente a la existencia de libre albedrío es promovida por seres en sintonía con la armonía superáfica, que buscan intensificar las reacciones de placer y desarrollar un superhumor entre los mortales y los ángeles. (28:5.16)
+Son sobre todo las reacciones materiales al medio ambiente las que moldean las emociones humanas transitorias de alegría y tristeza, no la misión del Ajustador. (108:5.6)
+Los Servitales de Havona y los Guías de los Graduados encuentran alegría en la devoción trascendente al deber, eclipsando todas las demás emociones como seres espirituales. (25:1.6)
+Las Alegrías secoráficas de la Existencia promueven la alegría entre las huestes angélicas y las criaturas volitivas, demostrando la alegría inherente a la existencia con libre albedrío. (28:5.16)
+No busquéis alegrías pasajeras; buscad las garantías de la filiación divina para la alegría suprema en el espíritu. (149:5.4)
+El Espíritu de la Verdad da profunda alegría, seguridad y confianza a los creyentes que oran juntos, impulsándolos a proclamar el evangelio y la resurrección de Cristo. (194:0.1)
+El crecimiento espiritual produce alegría duradera mediante el predominio del amor. (100:4.3)
+Compartir la alegría del Maestro es compartir su amor y su servicio, transformando el viejo mundo en algo nuevo. (180:1.5)
 
-Alegría de la Existencia | | | ORDER | 
-colaborar con Directores de la reversión (28:5.16)
-promover reacciones de alegría (28:5.16)
-reflejo de los Supervisores seráficos de la Armonía (28:5.16)
-Seconafines secundarios, asociados reflexivos de los Consejeros Divinos (28:5.16)
+Alegría de la Existencia | | | ORDER | OK
+En colaboración con los directores de reversión, los Gozos de la Existencia promueven la alegría entre las huestes angélicas y las criaturas de voluntad inferior, buscando demostrar la alegría inherente a la existencia de libre albedrío. (28:5.16)
+Promover reacciones de alegría es la actividad principal de los seres de la Alegría de la Existencia, quienes buscan aumentar las reacciones de placer y desarrollar un superhumor entre los mortales y los ángeles. (28:5.16)
+La Alegría de la Existencia se refleja en los supervisores de armonía superáfica, que promueven la alegría entre los ángeles y las criaturas de voluntad al tiempo que demuestran la alegría inherente a la existencia de libre albedrío. (28:5.16)
+Los asociados reflexivos de los Consejeros Divinos promueven la alegría entre las huestes angélicas y las criaturas de voluntad inferior, en sintonía con los supervisores de armonía superáfica de arriba. (28:5.16)
 
-jubileo de los jubileos | | | | 
-entronización del Hijo Creador como Hijo Instructor (33:3.5)
+jubileo de los jubileos | | | | OK
+En el jubileo de jubileos, el Espíritu del Universo reconoce públicamente la subordinación al Hijo Creador, estableciendo fidelidad y obediencia ante todos. (33:3.5)
 
-jubileos | | | | 
-7 en carrera ascendente (27:7.8)
-al establecerse un universo local en luz y vida (17:3.11)
+jubileos; jubileo | | | | OK
+Después de ascender a través de las etapas de la realización espiritual, el séptimo jubileo marca el ingreso al servicio eterno del Cuerpo de la Finalidad. (27:7.8)
+	# Primer Jubileo: Acuerdo con el Ajustador del Pensamiento y sellado de la intención de sobrevivir.
+	# Segundo Jubileo: Despertar en la vida morontial.
+	# Tercer Jubileo: Fusión con el Ajustador del Pensamiento.
+	# Cuarto Jubileo: Despertar en Havona.
+	# Quinto Jubileo: Descubrimiento del Padre Universal.
+	# Sexto Jubileo: Despertar en el Paraíso después del sueño de tránsito final del tiempo.
+	# Séptimo Jubileo: Entrada en el cuerpo finalitario de los mortales y comienzo del servicio en la eternidad.
+La celebración del jubileo marca el establecimiento de un universo local en la luz y la vida. (17:3.11)
 
 Judá | | Judea | PLACE | OK
 
-judaísmo | (97:10) (121:6) | Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | 
-religión avanzada de la antigüedad (92:6.4,14)
-los apóstoles al principio impusieron el judaísmo a los conversos (194:3.9)
-creencias
-	Los apocaliptistas enseñaron que los sufrimientos de los judíos eran castigos para
-	los pecados de la nación (135:5.2)
-	la autoridad era una consigna (173:2.3)
-	ceguera causada por el pecado (164:3.3)
-	confraternizar con la viuda del hermano fallecido (83:5.4)
-	cuenta de creación (74:8.7-11)
-	comer con las manos sin lavar, castigado con la excomunión (153:3.6)
-	Las enseñanzas de salud de Caligastia 100 persistieron en forma confusa hasta los días de Moisés (66:5.19)
-	Los judíos fusionaron a los gobernantes celestiales en una Deidad compuesta (43:3.4)
-	los profetas proclamaron a Dios el Padre de Israel (2:6.4)
-	redención de los primogénitos (122:9.1)
-	religión de buenas obras, esclavitud a la ley (121:7.5)
-	dogma religioso tan cristalizado que pone en peligro un mayor crecimiento (98:2.9)
-	enseñanza centrada en conocer a Dios (5:4.8)
-	Elohim trinitario parte de la teología después de Babilonia (96:1.8)
-	incierto con respecto a la vida después de la muerte (146:3.8)
-	sin derramar sangre no hay remisión del pecado (4:5.5)
-reconocimiento del Padre más claro que cualquier religión (130:3.4)
-deficiente en filosofía y estética, pero conservó los valores morales (97:10.5-6)
-deficiente en ciencia (155:1.4)
-diferencias este / oeste (121:6.9) (166:5.4)
-	José, padre de Jesús, se mantuvo al este (122:5.11)
-	Levante adoptó el punto de vista occidental (121:6.1)
-	María madre de Jesús se inclinó hacia el oeste (122:5.11)
-programa educativo en Galilea (123:2.5-13) (123:5)
-vínculo evolutivo entre religiones de evolución y revelación (92:6.17)
-falló en asociar la bondad de Dios con la ciencia y el arte (2:7.9)
-fiestas (123:3.5) (125:1.5) (134:9.3)
-	expiación (123:3.5)
-		Jesús pensó que las ceremonias eran patéticas (134:9.3)
-	dedicación (164) (125:1.5)
+judaísmo | (97:10) (121:6) | Abraham (Antiguo Testamento); libros apócrifos; arca de Yahvé; cautiverio babilónico; El Elyón; El Shaddai; Elohim; Esenios; templo de Jerusalén; judíos; judíos (hebreos antiguos); levitas; Moisés; nazareos; Antiguo Testamento; fariseos; profetas; rabinos; saduceos; sanedrín; escribas; Semá; Sheol; Yahvé | RACE | OK
+El judaísmo es una de las religiones más avanzadas de la antigüedad, y ejerció una gran influencia en el desarrollo religioso de Oriente y Occidente (92:6.4,14).
+La religión hebrea es una de las grandes religiones internacionales e interraciales junto con el budismo, el cristianismo y el islam. (92:6.4,16)
+Creencias
+	Los apocalípticos enseñaban que los sufrimientos de los judíos eran castigos por los pecados de la nación, y proclamaban que el fin del gobierno romano anunciaba el fin del mundo y el establecimiento del reino de Dios en la Tierra (135:5.2).
+	La ​​autoridad era la consigna para todos los judíos, especialmente en lo que se refiere a enseñar y realizar actos extraordinarios como el que hizo Jesús al limpiar el templo (173:2.3).
+	Los rabinos enseñaban que el pecado podía causar ceguera en los hijos, ya fuera hereditario, prenatal o influido por las acciones de la madre durante el embarazo (164:3.3).
+	Asociarse con la viuda de un hermano fallecido era una costumbre judía común para asegurar la progenie y mantener el linaje familiar en la antigüedad. (83:5.4)
+	El relato judío de la creación, presentado por Moisés a los israelitas, tenía como objetivo realzar la adoración al Señor Dios de Israel, incorporando historias de Adán y de la civilización preadánica, influenciadas por las tradiciones babilónicas y mesopotámicas. (74:8.7-11)
+	Comer con las manos sin lavar se consideraba tan grave como un delito punible con la excomunión en el judaísmo. (153:3.6)
+	Las primeras enseñanzas de los guardianes de la salud de Lut persistieron entre las tribus de la tierra, y en la época de Moisés se habían vuelto muy confusas. (66:5.19)
+	El judaísmo fusionó a todos los gobernantes celestiales en una Deidad compuesta. Pero un educador se dio cuenta de que los Altísimos no eran los Gobernantes Supremos, y que el Todopoderoso y el Altísimo no eran la misma persona. (43:3.4)
+	El concepto trinitario de Elohim pasó a formar parte de la teología hebrea después de la influencia política de Babilonia. (96:1.8)
+	Los profetas proclamaron a Dios como el Padre de Israel, fomentando una elevada norma moral y creando un pueblo respetuoso de la ley, pero dejando al creyente individual en la inseguridad; Jesús reveló a Dios como el Padre de cada ser humano, iluminando trascendentalmente el concepto mortal de Dios. (2:6.4)
+	La redención de los hijos primogénitos en el judaísmo requería el pago de cinco siclos a un sacerdote para evitar el sacrificio. (122:9.1)
+	La incapacidad de los judíos para romper la tradición les impidió cumplir su destino como mensajeros de la libertad religiosa y espiritual, ya que su religión de buenas obras y esclavitud a la ley se estancó. (121:7.5)
+	En Palestina, el dogma religioso se cristalizó tanto que puso en peligro un mayor crecimiento, mientras que en Grecia, el pensamiento humano se resolvió en un vapor brumoso de especulación panteísta. (98:2.9)
+	El propósito del judaísmo se centra en conocer a Dios, determinar la actitud de uno en la vida y la profundidad de la adoración. (5:4.8)
+	Las enseñanzas judías eran inciertas en cuanto a la vida después de la muerte, pero los seguidores de Jesús se sintieron muy animados por sus palabras claras y positivas sobre la supervivencia eterna de los verdaderos creyentes. (146:3.8)
+	Los hebreos creían en la necesidad de derramar sangre para la remisión de los pecados, una práctica heredada de antiguas creencias paganas pero desarrollada por Moisés mediante el sacrificio ceremonial de animales. (4:5.5)
+Fortalezas y debilidades
+	El reconocimiento del Padre por parte del judaísmo supera al de cualquier otra religión. (130:3.4)
+	El judaísmo presenta un reconocimiento del Padre más claro que cualquier otra religión. (130:3.4)
+	La religión judía, deficiente en filosofía y estética pero que conservaba los valores morales, sigue viviendo en los corazones de los exiliados dispersos y desempeñó un papel vital en el desarrollo del cristianismo y el islam. (97:10.5-6)
+	La deficiencia del judaísmo en materia de ciencia limita su capacidad de ver la verdad holística del mundo, lo que conduce a una perspectiva estrecha y confusa de la realidad. (155:1.4)
+	La religión hebrea sirve como un vínculo evolutivo entre las creencias politeístas y las revelaciones monoteístas. (92:6.17)
+	El judaísmo podría beneficiarse de asociar la bondad de Dios con la ciencia y el arte para evitar el error de enfatizar demasiado la moralidad aislada. (2:7.9)
+	El mensaje de Miqueas desafiaba el sistema de sacrificios, abogando por la justicia, la misericordia y la humildad en la adoración. (97:5.6)
+	El celo monoteísta de los hebreos eclipsó las enseñanzas de la Trinidad, erradicando la doctrina de Elohim de la teología judía. (104:1.8)
+	La persistencia de la religión judía se atribuye a sus instituciones, que Ezequiel trató de reformar en lugar de destruir. (97:10.7)
+	El judaísmo, que evolucionó a partir de diversas influencias culturales, se basa fundamentalmente en el pacto entre Abraham y Melquisedec. (96:0.3)
+	El judaísmo promete salvación de las dificultades y prosperidad basada en la rectitud. (5:4.5-8) (148:6.5)
+	La influencia de las enseñanzas religiosas y morales judías, que se difunde rápidamente. (121:1.6)
+	El renacimiento del judaísmo comenzó con la traducción griega de las escrituras hebreas, que moldeó el curso de la cultura y la teología. (121:6.2)
+	Los judíos de todo el mundo se mantuvieron firmes en su conexión con el templo de Jerusalén, y su teología sobrevivió gracias a la intervención de los maestros babilónicos. (121:6.8)
+	La centralización del culto en el templo de Jerusalén aseguró la supervivencia del monoteísmo judío y preparó el terreno para un concepto universal de Dios. (121:2.6)
+	La franja tolerante de creyentes gentiles dentro de las sinagogas judías facilitó las primeras conversiones de Pablo al cristianismo. (121:2.5)
+	La evolución de la teología judía incluyó la definición de varios títulos de Deidad, lo que muestra la progresión de los hebreos del politeísmo al monoteísmo con ideas fluctuantes sobre Dios entre los diferentes creyentes semitas. (96:1.2-10)
+Diferencias entre el Judaismo de Oriente y Occidente
+	A pesar de las diferencias entre Oriente y Occidente en cuanto a creencias teológicas y filosóficas, los judíos dispersos coincidían en que Jerusalén era el centro de su adoración y de la llegada del Mesías. (121:6.9) (166:5.4)
+	José se aferraba a las opiniones orientales, mientras que María abrazaba la interpretación occidental del judaísmo. (122:5.11)
+	El Levante adoptó el punto de vista judío occidental con influencias culturales y filosóficas griegas. (121:6.1)
+	María se inclinaba por la interpretación occidental, mientras que José se aferraba a las opiniones orientales del judaísmo. (122:5.11)
+	El programa educativo en Galilea proporcionaba un enfoque minucioso y sistemático para la crianza y educación de los niños, lo que dio como resultado un individuo completo como Jesús. (123:2.5-13) (123:5)
+Fiestas
+	Jesús mostró un profundo interés en el significado de los ritos del sábado, los sermones en la sinagoga y las fiestas periódicas como la Fiesta de los Tabernáculos. (123:3.5) (125:1.5) (134:9.3)
+	Día de la Expiación
+		El Día de la Expiación era la fiesta más solemne del judaísmo, y se observaba como parte de una serie de celebraciones y observancias que Jesús aprendió de su padre. (123:3.5)
+		Jesús encontró las ceremonias del día de la expiación en el judaísmo lamentables y que no representaban a su Padre celestial, mientras que Juan quedó impresionado por ellas. (134:9.3)
+	Fiesta de la Dedicación
+		Jesús asistió a la fiesta de la dedicación para dar a los líderes judíos otra oportunidad de ver la luz antes de su hora final. (164) (125:1.5)
 	Pascua (142)
-		1-1 / 2 millón asistieron (188:3.1)
-		celebrado en Jerusalén cuando sea posible (123:3.5) (123:5.2)
-		mandamiento de no dejar el sacrificio para la mañana (142:3.18)
-		conmemoró la salida de los judíos de la esclavitud racial (179:5.2)
-		costumbres (179:3.1,10) (179:5.1)
-		Ritual hebreo (89:9.2-3)
-		Jesús
-			muerte coincidente con la Pascua (186:5)
-			decidido a establecer una Pascua sin sangre (125:2.3) (127:6.6-7) (147:2.3) (179:0.3)
-			Primera Pascua en Jerusalén (124:6)
-		Los judíos no querían que el cuerpo de Jesús estuviera expuesto (187:5.7)
-		corderos sacrificados en (127:6.6-7) (186:5.1)
-		Moisés estableció; institución anterior (125:1.5) (179:1.6)
-		no se hizo ningún trabajo secular ni se entraron edificios gentiles en
-		día de preparación para (179:0.1) (182:2.9) (184:3.17) (185:0.3)
-		perdón del gobernador romano en (185:5.2) (187:0.2)
-		El sacramento debe consistir en la vianda más primitiva (92:2.2)
-		untar sangre en los postes de las puertas era consecuencia del sacrificio de niños (89:7.2)
-		impuesto sobre el templo pagadero en (173:1.3)
-		las mujeres rara vez asistían (125:0.2)
+		Jesús enseñó acerca del reino de los cielos y la importancia de la fe, el amor y la obediencia durante la Pascua en Jerusalén. (142)
+		Más de un millón y medio de judíos asistieron a la semana de Pascua en Jerusalén para aprender y llevar las noticias de la resurrección de Jesús. (188:3.1)
+		Jesús celebró la solemne Pascua en Jerusalén cuando era posible, inmerso en la rica historia y las tradiciones del judaísmo. (123:3.5) (123:5.2)
+		El mandamiento en el judaísmo es no dejar el sacrificio hasta la mañana. (142:3.18)
+		La nueva cena del recuerdo simboliza el surgimiento del individuo esclavizado de la esclavitud racial a la libertad espiritual y la comunión como hijos de fe del Dios viviente. (179:5.2)
+		Jesús hizo caso omiso de la costumbre judía del lavado ceremonial de las manos, y en su lugar lavó humildemente los pies de sus discípulos. (179:3.1,10) (179:5.1)
+		El ritual hebreo de la Pascua influyó en el posterior sacramento cristiano del pan y el vino. (89:9.2-3)
+		Jesús ya no consideró necesario sacrificar corderos en las fiestas tradicionales de la Pascua, y en su lugar celebró la fiesta con pan sin levadura y vino. (127:6.6-7) (186:5.1)
+		Moisés estableció una institución que precedió a los ritos del templo de los que fue testigo Jesús. (125:1.5) (179:1.6)
+		El día de preparación para la celebración de la Pascua comenzaba al mediodía del jueves, antes de la cena del viernes. No se hacía ningún trabajo secular ni se entraba en los edificios gentiles ese día (179:0.1) (182:2.9) (184:3.17) (185:0.3)
+		En la Pascua, el procurador romano solía ofrecer el perdón a un prisionero (185:5.2) (187:0.2)
+		La religión reverencia la tradición y la sacralidad de las costumbres antiguas, y los sacramentos requieren las ofrendas más primitivas. (92:2.2)
+		La costumbre de untar sangre en los postes de las puertas de las casas para proteger al primogénito se derivó de las antiguas prácticas de sacrificio de niños. (89:7.2)
+		El impuesto de capitación del templo que se pagaba en Jerusalén era sólo una de las formas en que se profanaban los patios del templo. (173:1.3)
+		Las mujeres rara vez asistían. Jesús animó a más mujeres a asistir a la fiesta de la Pascua en Jerusalén insistiendo en la presencia de su madre, lo que llevó a la mayor asistencia femenina de Nazaret jamás registrada. (125:0.2)
+		La muerte de Jesús y la Pascua
+			La muerte de Jesús en la cruz, que coincidió con la Pascua judía, fue un acontecimiento natural y provocado por el hombre, sin relación con el sistema sacrificial del judaísmo. (186:5)
+			Jesús estaba decidido a establecer una Pascua sin sangre, celebrándola con pan sin levadura y vino en lugar del cordero degollado, en contra de las ofrendas sacrificiales tradicionales. (125:2.3) (127:6.6-7) (147:2.3) (179:0.3)
+			En su primera Pascua en Jerusalén, el joven Jesús fue iluminado espiritualmente y llamado a comenzar la obra de su Padre. (124:6)
+			Los judíos no querían que el cuerpo de Jesús fuera expuesto el sábado y la Pascua, así que pidieron a Pilato que le quebraran las piernas y lo bajaran antes de la puesta del sol. (187:5.7)
 	Pentecostés (123:3.5) (125:1.5) | Pentecostés (donación del Espíritu de la Verdad)
-		7 semanas después de la Pascua; establecido por Moisés (125:1.5)
-		fiesta del bautismo (194:1.5)
+		La fiesta de Pentecostés, establecida por Moisés, se celebra siete semanas después de la Pascua. (125:1.5)
+		Pentecostés era la fiesta del bautismo en la que tanto judíos como gentiles podían someterse al bautismo sin desconectarse de la fe judía. (194:1.5)
 	Purim
-		fiesta de la liberación de Ester y de Israel (123:3.5) (125:1.5)
-	tabernáculos
-		fiesta anual de toda Palestina; establecido por Moisés (123:3.5) (125:1.5) (134:9.4) (162.4)
-		fiesta de la recolección de la cosecha (123:3.5) (162:4.1)
-choza fetiche elevada por Moisés para albergar la ley de Dios (88:2.3)
-Resumen de Ganid de (131:2)
-gran fe internacional e interracial (92:6.4,16)
-influencia del judaísmo en
-	Cristianismo (97:10.6) (98:7.5)
-	Islam (97:10.6)
-influencia en el judaísmo por (96:0.3)
-	Amenemope (95:4.4)
-	Cautiverio babilónico (97:9.27)
-	Egipto (97:8.2)
-	Akenatón (95:5.7-8,14-15)
-	Filón (121:6.3-6) (130:3.9) (146:1.3)
-	Platonismo y estoicismo (121:6.3)
-	zoroastrismo (95:6.7) (98:7.6)
-El antagonismo de Jesús con el judaísmo siempre positivo (147:6.6)
-Jesús no participó en ningún servicio de sacrificio (179:0.3)
-Los levitas oficiaban en el templo de Jerusalén (164:4.2-4)
-Miqueas atacó el sistema de sacrificios (97:5.6)
-El celo monoteísta eclipsó las enseñanzas de la Trinidad (104:1.8)
-solo a los habitantes de Jerusalén se les permite presenciar sacrificios diarios (125:1.5)
-ley oral
-	Jesús en constante colisión con (124:1.13)
-	Jesús resintió a aquellos que tergiversaban al Padre (127:6.6)
-	regulaciones minuciosas invadieron todos los dominios de la vida (121:7.3-4)
-	escritos sagrados mal interpretados (159:4.6)
-	Los sanedristas abandonaron los mandamientos de Dios mientras se aferraban a la ley oral (153:3.3-4)
-	visto como ordenado por Abraham; más sagrado que las Escrituras (121:7.3-4) (153:3.6-7)
-persistió debido a las instituciones (97:10.7)
-predicado en el pacto de Melquisedek con Abraham (96:0.3)
-prometió la salvación de las dificultades (5:4.5-8) (148:6.5)
-expandiéndose rápidamente en tiempos de Jesús (121:1.6)
-religión de la sublimidad moral (196:3.19)
-el renacimiento data de la traducción griega de las Escrituras (121:6.2)
-rituales | judaísmo:fiestas
-	Sacrificio de animales andónico conservado en (63:6.4)
-	inconsistente y absurdo; Jesús pensó que las ceremonias eran patéticas (125:2.4) (134:9.3)
-	purificación después del parto (122:9.1) (122:10.2)
-	Descripción del servicio del sábado (150:8)
-	Shemá era un credo de fe (150:8.4)
-salvado por la intervención de los maestros babilónicos (121:6.8)
-El secreto de la supervivencia era la centralización del culto en Jerusalén (121:2.6)
-margen tolerado de creyentes gentiles (121:2.5)
-varios títulos de Deidad definidos (96:1.2-10)
+		Jesús desarrolló un profundo interés por la historia y las tradiciones de Israel, incluidos los ritos del sábado, los sermones en la sinagoga y la fiesta de Ester y la liberación de Israel. (123:3.5) (125:1.5)
+	Tabernáculos
+		La fiesta anual de toda Palestina, establecida por Moisés, era la fiesta de los tabernáculos, que Jesús pasó en el parque de Magadán después de asistir a la fiesta de los tabernáculos en Jerusalén. (123:3.5) (125:1.5) (134:9.4) (162.4)
+		Jesús demostró un interés poco común por la historia de Israel, en particular por el significado de la fiesta de la recolección de la cosecha y otros ritos judíos importantes. (123:3.5) (162:4.1)
+Rituales
+	Los pueblos andónicos conservaron la antigua práctica del sacrificio de animales, que llegó a ser parte integral de los rituales del judaísmo. (63:6.4)
+	Moisés elevó la choza fetichista de los hebreos para albergar la ley de Dios, encarnando un símbolo potente de creencia sagrada. (88:2.3)
+	Jesús, perturbado por las inconsistencias y absurdos del sistema ceremonial del judaísmo, encontró que los rituales eran patéticos y tergiversaban el carácter de su Padre. (125:2.4) (134:9.3)
+	Después de la ordenanza mosaica, José y María fueron al templo para purificarse después del parto y para presentar a Jesús para la redención. (122:9.1) (122:10.2)
+	Jesús pronunció un poderoso discurso durante el servicio del sábado, cumpliendo las Escrituras y hablando sobre “Los hijos e hijas de Dios” ante una multitud maravillada por su sabiduría y gracia. (150:8)
+	La congregación recitó el Shemá, el credo de fe del judaísmo, antes de asumir el yugo del cielo y los mandamientos. (150:8.4)
+	Sólo a los habitantes de Jerusalén se les permitía presenciar los sacrificios diarios en el templo, un hecho que José le comunicó a Jesús durante su visita. (125:1.5)
+Influencia del judaísmo en otras religiones
+	El judaísmo influyó en el cristianismo y el islamismo, haciendo hincapié en la justicia, la sabiduría, la verdad y la rectitud. (97:10.6) (98:7.5)
+	La contribución del judaísmo a la comprensión intelectual y espiritual de las cualidades divinas como la justicia, la sabiduría, la verdad y la rectitud fue significativa, a pesar de desempeñar un papel menor en el desarrollo del Islam. (97:10.6)
+Influencia de otras religiones en el judaísmo
+	El resumen del judaísmo de Ganid revela la enseñanza de Melquisedec, tal como fue preservada y modificada por los judíos, que Jesús y Ganid seleccionaron. (131:2)
+	La influencia de las religiones egipcia, babilónica e iraní en el judaísmo moldeó sus enseñanzas morales y teológicas. (96:0.3)
+	Amenemope ayudó a moldear la ética de la evolución y la moral de la revelación tanto para los hebreos como para los griegos, influyendo en el crecimiento de la civilización occidental. (95:4.4)
+	Durante el cautiverio babilónico, los judíos se dieron cuenta de que debían convertir a los gentiles para sobrevivir y hacer evolucionar su religión. (97:9.27)
+	Los judíos en Egipto lucharon con sus creencias, lo que llevó a un intento fallido de reescribir su historia. (97:8.2)
+	Ikhenatón, el joven rey maestro, dirigió a sus asociados en la adoración disfrazada del Dios Único, creador de Atón, inspirando a una generación de asombrosa piedad personal y expansión ética. (95:5.7-8,14-15)
+	Filón armonizó la filosofía griega y la teología hebrea, allanando el camino para las enseñanzas cristianas de Pablo. (121:6.3-6) (130:3.9) (146:1.3)
+	Las creencias judías helenizadas fueron materialmente influenciadas por la filosofía de Platón y las doctrinas de abnegación de los estoicos, ejemplificadas en el Cuarto Libro de los Macabeos y la Sabiduría de Salomón. (121:6.3)
+	Las enseñanzas de Zoroastro dejaron una influencia duradera en el judaísmo, el cristianismo y el islam, dando forma a sus teologías y filosofías. (95:6.7) (98:7.6)
+Jesús y el judaísmo
+	El antagonismo positivo de Jesús hacia las tradiciones judías recalcaba la importancia de vivir de acuerdo con la verdad divina. (147:6.6)
+	Los apóstoles comprendían que Jesús no participaba en los servicios sacrificiales del sistema judío, ni siquiera celebraba la Pascua sin el cordero. (179:0.3)
+	Jesús, un pensador original y un maestro hábil, estaba constantemente en conflicto con la ley oral, pero procuraba adaptarse a las prácticas de su familia y dirigía un grupo que promovía la adquisición de la masculinidad. (124:1.13)
+	Jesús se resintió de las prácticas ceremoniales que representaban erróneamente a su Padre celestial. (127:6.6)
+	El intento de los apóstoles de imponer requisitos judíos a los conversos contradecía la naturaleza universal de la religión de Jesús, que trascendía las fronteras culturales y raciales. (194:3.9)
+	Los levitas oficiaban en el templo de Jerusalén, pero temían llamar a Jesús ante ellos; en lugar de eso, mandaron a buscar a Josías, quien vio a Jesús como un profeta a pesar de las dudas y la división de los fariseos. (164:4.2-4)
+	Jesús reveló y ejemplificó una religión de amor, seguridad en el amor del Padre, con alegría y satisfacción en el servicio a la hermandad humana. (196:3.19)
+Ley oral
+	Las minuciosas normas invadieron todos los ámbitos de la vida, y mantuvieron a los judíos en una terrible esclavitud de ritualismo y legalismo mucho más opresiva que el régimen romano. (121:7.3-4)
+	La interpretación errónea de los escritos sagrados por parte de los escribas esclavizados por la tradición obstaculiza la revelación de la verdad. (159:4.6)
+	Los sanedristas abandonaron los mandamientos de Dios en favor de la ley oral, mientras que Jesús criticó a los espías de Jerusalén por priorizar la tradición sobre los mandamientos de Dios. (153:3.3-4)
+	Las tradiciones sagradas ordenadas por Abraham mantuvieron a los judíos en una esclavitud mucho más real que la del régimen político romano, dominando todos los aspectos de la vida personal y social. (121:7.3-4) (153:3.6-7)
 
 Judas Alfeo | | gemelos Alfeo | PERSON | OK
 
