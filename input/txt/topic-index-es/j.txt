@@ -1346,11 +1346,11 @@ parte de una raza semítica más antigua que incluía a babilonios, fenicios y c
 la religión era austera y tiránica (98:3.2)
 escrituras de | Antiguo Testamento
 
-Jezabel | (124:6.3) | | PERSON | 
-Reina judía de origen fenicio
+Jezabel | | | PERSON | 
+Reina judía de origen fenicio (124:6.3)
 
-Jezreel | (124:6.1,3) (149:0.1) | | PLACE | 
-Jesús pasó por esta población
+Jezreel | | | PLACE | 
+Jesús pasó por esta población (124:6.1,3) (149:0.1)
 
 Joab | | | PERSON | 
 joven evangelista; cabecilla del complot para hacer rey a Jesús (152:2.5) (153:5.2)
@@ -1375,8 +1375,8 @@ Protesta contra el concepto egipcio de recompensas divinas por la justicia (97:8
 refleja la escuela de Salem en Kish (95:1.10)
 escrito durante 300 años (96:7.5)
 
-Jogbeha | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Jogbeha | | | PLACE | 
+Una de las poblaciones recorridas en la misisón de Perea (165:0.1)
 
 Johab | | | PERSON | 
 el novio de las bodas de Caná (137:3.6)
@@ -1537,8 +1537,8 @@ el apóstol más joven, soltero, de Cafarnaúm; 24 en el año 26 d.C. (139:4.1) 
 Jonás | (159:4.4) | | PERSON | 
 El discurso de Jesús sobre (130:1)
 
-Jope | (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3) | puertos | PLACE | 
-Aquí estuvo Jesús en varias ocasiones
+Jope | | puertos | PLACE | 
+Aquí estuvo Jesús en varias ocasiones (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3)
 
 río Jordan | | | PLACE | 
 vado | Betania en el Jordán
@@ -1809,7 +1809,7 @@ varios títulos de Deidad definidos (96:1.2-10)
 
 Judas Alfeo | | gemelos Alfeo | PERSON | OK
 
-Judas Iscariote | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apóstoles de Jesús | PERSON | OK
+Judas Iscariote; Judas | (183) (139:12) (143:3.5) (144:1.7) (147:2.1) (151:2.8) (177:4) (178:2.6) (193:4) | apóstoles de Jesús | PERSON | OK
 Judas Iscariote fue el duodécimo apóstol. Fue elegido por Natanael y posteriormente confirmado en esta elección por Jesús. Había nacido en Queriot, una pequeña ciudad del sur de Judea. Cuando era un muchacho, sus padres se mudaron a Jericó, donde vivió y estuvo trabajando en las diversas empresas comerciales de su padre, hasta que se interesó por la predicación y la obra de Juan el Bautista. (139:6.2) (139:12.1-2)
 Los padres de Judas eran saduceos, y repudiaron a su hijo cuando éste se unió a los discípulos de Juan. (138:2.9) (139:12.1)
 Cuando Natanael lo encontró en Tariquea, Judas estaba buscando trabajo en una empresa desecadora de pescado en el extremo sur del Mar de Galilea. Tenía treinta años en el año 26 d.C. y estaba soltero cuando se unió a los apóstoles. Era probablemente el más instruido de los doce y el único judeo de la familia apostólica del Maestro. Era culto, educado, y un buen pensador, pero no era verdaderamente honrado. (138:2.9) (139:12.1-2)
@@ -1869,192 +1869,195 @@ su final
 	después de la terrible decepción con la recompensa del sanedrín, Judas se suicidó intentando colgarse de un árbol en el valle de Hinom. El cinturón que usó se desató y murió al impactar en las rocas del precipicio (139:12.13) (186:1)
 	Los mundos han encontrado difícil perdonar a Judas, y se evita pronunciar su nombre en todo un vasto universo. (139:12.14)
 
-Judas Macabeo | | Macabeos | PERSON | 
-decepción del reinado (136:8.8)
-hazañas heroicas (121:2.7)
-Judíos removidos de Perea en tiempos de (165:0.3)
-restauración de los servicios de mosaico por (123:3.5)
+Judas Macabeo | | Macabeos | PERSON | OK
+Jesús rechazó la desilusión del reinado, como Judas Macabeo, y eligió la lealtad a la voluntad de su Padre por encima de todo. (136:8.8)
+El pueblo judío estaba lleno de expectativas debido a las hazañas heroicas de Judas Macabeo, esperando la aparición del Mesías. (121:2.7)
+Durante los tiempos de Judas Macabeo, los judíos fueron expulsados ​​de Perea, dejando la región igualmente gentil y judía. (165:0.3)
+Después de conocer a Juan y aprender sobre la historia de Israel, Jesús expresó un profundo interés en el significado de los ritos y conmemoraciones del sábado, incluida la iluminación festiva que marcó la dedicación del templo después de que Judas Macabeo restableció los servicios mosaicos. (123:3.5)
 
-Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesús:familia | PERSON | 
-activo con los fanáticos; chocó con las autoridades civiles (128:6.4-7)
-en la cuarta aparición de Jesús (190:2.6)
-actitud
-	se convirtió en un firme creyente en Jesús (137:3.3) (137:5.2)
-	creía que Jesús había resucitado (190:2.2)
-	temía por su seguridad (154:6.2)
-	firebrand; el más alto de los ideales, pero de temperamento inestable (127:4.7) (128:7.3-4)
-	fricción con Jesús (124:4.3)
-	El hecho de que Jesús no eligiera a Judá como apóstol causó un abismo con la familia (138:0.1)
-nacido el 24 de junio del 5 d.C. (124:3.4)
-enviar fondos fielmente a casa cada mes (128:7.11)
-escuchó la voz en el bautismo de Jesús (135:8.2,6)
-Jesús vendió arpa para sufragar los gastos escolares de Judá (127:4.10)
-Jesús visitó a Judá en su casa en Magdala (137:3.1) (137:5.2)
-casado en marzo del 24 d.C. (134:1.4)
-A menudo venía a Cafarnaúm para escuchar a Jesús (129:1.13)
-castigado en 3 ocasiones (127:4.3)
-se escapó de la granja del tío para convertirse en pescador (128:7.8)
-buscó a Jesús después de Caná (137:5.1)
-la cuñada Rachel (150:1.1)
-viaje con Jesús a la Pascua; llevado a la prisión militar (128:6.3-8)
-presenció la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.1)
+Judá (hermano de Jesús) | (127:4.5) (137:6.1,4) (154:5.1) (157:0.1) (183:4.7) (188:3.3) | Jesús:familia | PERSON | OK
+Judá era el séptimo hijo de José y María, uno de los hermanos menores de Jesús, doce años menor que él. (124:3.4)
+Actitud
+	Judá, activo con los zelotes, chocó con las autoridades civiles debido a su naturaleza apresurada y patriótica, lo que le causó problemas a Jesús. (128:6.4-7)
+	Judá, a pesar de su perplejidad, llegó a creer firmemente en Jesús y su misión en la tierra, expresando su fe aunque no entendía del todo. (137:3.3) (137:5.2)
+	Judá, después de hablar con David y Salomé, creyó que Jesús había resucitado en la tercera aparición en Betania. (190:2.2)
+	Santiago y Judá temían por su seguridad y trataron de persuadir a Jesús para que volviera a casa con ellos en medio de rumores de su arresto. (154:6.2)
+	El temperamento inestable de Judá causó constantes conflictos dentro de la familia, a pesar de sus altos ideales. (127:4.7) (128:7.3-4)
+	A pesar de las constantes fricciones con Jesús, Judas logró cultivar relaciones sólidas y armoniosas con sus hermanos. (124:4.3)
+	La decisión de Jesús de no elegir a Judas como apóstol creó una ruptura con su familia que persistió durante todo su ministerio. (138:0.1)
+Datos de su vida
+	El 24 de junio del año 5 d. C. nació Judas en medio de complicaciones, lo que llevó a Jesús a asumir responsabilidades de adulto a una edad temprana debido a la grave enfermedad de María. (124:3.4)
+	Judas enviaba dinero a casa todos los meses, cumpliendo fielmente su deber para con su familia con un compromiso inquebrantable. (128:7.11)
+	Después de oír la voz en el bautismo de Jesús, Santiago y Judas buscaron consejo con él sobre sus planes. (135:8.2,6)
+	Jesús sacrificó su amada arpa para pagar la educación de Judas, perdiendo su última fuente de recreación. (127:4.10)
+	Después de visitar a Judas en su casa de Magdala, Jesús envió a sus apóstoles a Caná para una boda, mientras se preparaba para encontrarse con su madre en Capernaúm. (137:3.1) (137:5.2)
+	Simón y Judas se casaron a principios de marzo del año 24 d. C., a la espera del consentimiento de Jesús. (134:1.4)
+	Judá venía con frecuencia a Capernaúm para oír a Jesús hablar en la sinagoga y se convenció de su grandeza después de pasar tiempo con él. (129:1.13)
+	Jesús castigó a Judá en tres ocasiones por sus violaciones deliberadas de las reglas familiares. (127:4.3)
+	Judá huyó de la granja de su tío para convertirse en pescador con la guía de Jesús. (128:7.8)
+	Judá buscó a Jesús después de Caná, solo para descubrir que había partido hacia Capernaúm con sus discípulos-apóstoles recién escogidos. (137:5.1)
+	Raquel, la cuñada de Judá, fue una de las diez mujeres comisionadas por Jesús para ministrar en el reino. (150:1.1)
+	Jesús llevó a Judá a un viaje para la Pascua, pero terminaron siendo llevados a una prisión militar después de que Judá tuvo problemas con un guardia romano. (128:6.3-8)
+	Judas fue testigo de la crucifixión de Jesús junto a María, Rut y Juan. (186:0.3) (187:2.7) (187:3.2) (187:5.1)
+	Judas fue testigo de la cuarta aparición de Jesús, cuando habló de la duda y los instó a abrazar la verdad en el reino del Padre. (190:2.6)
 
-Judea | (142:8) | Israel; Palestina | PLACE | 
-Cesarea fue la capital romana de (184:3.17)
-la caída de Asiria y la supremacía de Egipto liberada (97:9.23)
-La conciencia judía se originó en el clan sureño de Judá (97:9.2)
-Judá sometido a tributo por Egipto (97:9.17,24)
-Los judíos siempre buscaron difamar a los efraimitas (97:9.2)
-Judas fue el único apóstol de (138:2.9) (139:12.1-2)
-Judíos menos dispuestos a creer en el evangelio (166:2.2)
-provincia romana más difícil de gobernar (185:1.2)
-en su mayoría no hebreos (97:9.7,11)
-guerras con Israel (97:9.18)
+Judea | (142:8) | Israel; Palestina | PLACE | OK
+Cesarea, la capital romana de Judea, era el lugar donde Anás deseaba que se formularan cargos contra Jesús ante Pilato. (184:3.17)
+La caída de Asiria y el predominio de Egipto trajeron liberación a Judá, cuando los políticos corruptos fueron derrocados por la gente del campo bajo el rey Josías. (97:9.23)
+La conciencia judía se originó en el clan meridional de Judá, mientras que la conciencia israelita comenzó en la región montañosa de Efraín. (97:9.2)
+Judá fue esclavizada por Egipto después de la derrota de Josías en la batalla contra el ejército de Necao, y el culto a Baal y los políticos baales obtuvieron el control en Jerusalén. (97:9.17,24)
+Los judaítas mancillaron perpetuamente a los efraimitas para establecer la superioridad judía. (97:9.2)
+Judas Iscariote fue el único apóstol de Judea entre los doce de Jesús. (138:2.9) (139:12.1-2)
+A pesar de la explicación de Jesús, los judíos siguen estando menos dispuestos a creer en el evangelio predicado por los setenta. (166:2.2)
+El odio profundamente arraigado de Pilato hacia los judíos condujo a errores fatales en el gobierno de Judea, lo que permitió que los judíos lo manipularan fácilmente debido a su miedo y falta de coraje moral. (185:1.2)
+David estableció el reino de Judá en Hebrón, una ciudad no hebrea con una población diversa de nómadas dedicados a la idea hebrea de la propiedad de la tierra. (97:9.7,11)
+A pesar de los altibajos, las guerras entre Israel y Judá finalmente llevaron a la caída de ambos reinos. (97:9.18)
 
-Jueces-Árbitros; juez-árbitro | | | ORDER | 
-de comisiones conciliadoras (25:2.7)
+Jueces-Árbitros; juez-árbitro | | | ORDER | OK
+El Espíritu Abogado representa y protege los derechos de todas las personalidades en los asuntos que se tratan ante las comisiones conciliadoras. (25:2.7)
 
-jueces | (72:2.1) | tribunales | | 
-Discurso de Jesús para juzgar en nombre del pobre (132:4.8)
-Los comentarios de Jesús para juzgar en nombre de Judá (128:6.7)
-Miqueas denunció a los gobernantes que juzgan por recompensa (97:5.5)
+jueces | (72:2.1) | tribunales | | OK
+El discurso que Jesús dirigió a los jueces en favor del pobre resaltó la importancia de la imparcialidad, la equidad y la integridad en la búsqueda de la justicia (132:4.8).
+Jesús defendió sabiamente a Judas ante el magistrado militar, advirtiéndole de posibles problemas (128:6.7).
+Miqueas denunció a los gobernantes que juzgan por recompensa, a los sacerdotes que enseñan por salario y a los profetas que adivinan por dinero, y vislumbró un futuro libre de supersticiones y supercherías sacerdotales (97:5.5).
 
-Jueces (Antiguo Testamento) | | | | 
-Jeques tribales hebreos (96:6.1)
+Jueces (Antiguo Testamento) | | | | OK
+Los jeques tribales hebreos llevaron al pueblo a una deriva regresiva del concepto de Deidad, alejándose del Dios omnisciente, benéfico y todopoderoso de Moisés hacia la idea más antigua del desierto de Yahvé. (96:6.1)
 
-juicio | | comisiones conciliadoras; tribunales; extinción; justicia; ley; no supervivientes; resurrección; supervivencia (de la muerte mortal) | | 
+juicio | | comisiones conciliadoras; tribunales; extinción; justicia; ley; no supervivientes; resurrección; supervivencia (de la muerte mortal) | | OK
 por el hombre
-	peligros e injusticia de sentarse en persona juicio (133:3.6) (146:2.6) (159:1.6)
-	no prejuzgue a los compañeros (38:2.4) (133:1.2) | prejuicios
-	no juzgues por un solo episodio humano desafortunado (156:5.9)
-	juzgar a los salvajes según su iluminación (101:9.2)
-	dejar que otros den cuenta de sí mismos a Dios (139:6.5)
-	debe estar alojado en manos del grupo social (10:6.2) (70:10.13) (104:2.5) (133:1.2) (159:1.6)
-	El Espíritu de la Verdad capacita al sabio (180:6.2)
-concomitante de unidad de tiempo de alargamiento en la experiencia (118:1.3-8)
-día del juicio (140:3.20) (144:5.33) (147:3.3) (166:3.4)
-	enseñado por egipcios y Zoroastro (95:6.6)
-	bajo el mitraísmo (98:5.4)
+	Juzgar a los demás injustamente es peligroso; hay que mostrar misericordia para recibir misericordia. (133:3.6) (146:2.6) (159:1.6)
+	No prejuzguéis a vuestros semejantes; los ángeles, aunque mayores en poder, no juzgan a la humanidad. (38:2.4) (133:1.2) | prejuicios
+	No juzguéis al alma por un solo episodio humano desafortunado, sino por los anhelos y propósitos espirituales. (156:5.9)
+	Juzgad la religión primitiva del hombre según su iluminación, no según vuestros propios criterios de conocimiento y verdad. (101:9.2)
+	Que Natanael dé cuenta de sí mismo a Dios, pues ¿quién de nosotros es competente para juzgar a su hermano? (139:6.5)
+	La justicia debe ser administrada por el grupo social, no por los individuos, para asegurar la imparcialidad y eliminar los prejuicios personales. (10:6.2) (70:10.13) (104:2.5) (133:1.2) (159:1.6)
+	El Espíritu de la Verdad hace posible que haya un juicio sabio en vuestros corazones mientras yo me voy para ser restaurado a mi lugar en lo alto. (180:6.2)
+	La madurez y el juicio son concomitantes a la prolongación de la unidad de tiempo en la experiencia, iluminando el verdadero significado del presente y realzando los valores del futuro. (118:1.3-8)
+El día del juicio
+	En el día del juicio, aquellos que afirman haber hecho grandes obras en el nombre de Jesús pero carecían de sinceridad serán rechazados, mientras que aquellos que lo representan fielmente serán bienvenidos en el reino del Padre celestial. (140:3.20) (144:5.33) (147:3.3) (166:3.4)
+	Zoroastro y los egipcios enseñaron el día del juicio, influyendo en las creencias judías sobre el cielo y el infierno. (95:6.6)
+	En el mitraísmo, los creyentes adoraban en secreto y participaban en rituales para asegurar la vida eterna y enfrentar el juicio ante Mitra. (98:5.4)
 juicio divino
-	3 preguntas hechas a los ricos (165:4.10-13)
-	mil o un millón de testigos pueden testificar (19:4.5)
-	absuelve a la persona de toda crítica futura (62:7.5)
-	relato de las investiduras y mayordomías solicitadas en el próximo mundo (112:5.10) (133:4.7) (176:3.7-8)
-	al morir, los mortales están en presencia inmediata de (176:2.7)
-	basado en la fidelidad, no en el éxito material (25:1.6)
-	pertenece a Ancianos de los Días (53:1.2)
-	las comisiones conciliadoras resuelven dificultades menores (25:2.11)
-	demora en la ejecución justificada si puede conducir al arrepentimiento (54:4-5)
-	siempre cumple el amor divino de Dios (10:6.8)
-	función exclusiva de seres de alto entrenamiento y experiencia en criaturas (33:7.1)
-	El padre es la fuente de todo verdadero juicio (162:5.2)
-	aplicación final de la justicia (10:6.4)
-	vidas humanas registradas en Serafines y censores (112:6.4)
-	en caso de duda, los jueces invariablemente deciden en interés personal del individuo (112:5.7)
-	Los jueces no privarán de personalidad a ningún ser que no haya hecho una elección eterna definitiva y completa (112:5.9).
-	la justicia prevalece cuando se agota la misericordia (28:6.7) (33:7.8)
-	Los Hijos Magistrales deciden cerrar las dispensaciones planetarias (20:2.5-7) (20:3.1)
-	Memories of Mercy testifica ante los tribunales de Uversa (28:6.6)
-	Mighty Messengers son abogados defensores; Los Elevados en Autoridad son fiscales; Los que no tienen Nombre ni Número son jurados (22:2.8) (22:3.4) (22:4.3)
-	debe resultar satisfactorio para todas las personas relacionadas (54:3.2)
-	nunca destruye lo que la misericordia puede salvar (54:5.3)
-	sin adjudicación para los niños de la guardería en período de prueba que no eligen la supervivencia (47:2.7)
-	de no supervivientes (40:4.1)
-	Los Soberanos de los Sistemas hacen cumplir los mandatos de las constelaciones y el universo local (33:8.1)
-	los que rechazan a Jesús y sus enseñanzas serán llevados a juicio (174:5.7)
-	el tiempo es parte de la evidencia antes de los Ancianos de los Días (28:6.10)
-	testimonio imparcial dado por Seconafines reflexivos (28:4.11)
-	Los Censores Universales son parte orgánica de las adjudicaciones dispensacionales (19:4.3)
-	Las autoridades del universo preferirían arriesgarse a la rebelión del sistema que privar a un mortal de una carrera ascendente (112:5.8)
-	investido en manos de aquellos antecedentes conocedores, motivos (133:1.2) (133:4.12)
-Dios misericordioso con los primitivos mortales (40:5.11)
-Jesús no vino a juzgar sino a ofrecer salvación (140:3.17) (162:5.2) (162:7.4) (174:5.7)
+	En el día del juicio, las vidas que viven los hombres juzgarán a todos, y a los ricos se les harán tres preguntas: ¿cuánta riqueza acumulasteis, cómo la conseguisteis y cómo la utilizasteis? (165:4.10-13)
+	Cuando mil o un millón de testigos hayan testificado, la revelación divina del Censor representa el juicio definitivo e irrefutable. (19:4.5)
+	El mensaje de Lucifer absolvió a los Portadores de Vida de toda crítica futura a su trabajo en Urantia. (62:7.5)
+	En el próximo mundo, se pedirá a los mortales que rindan cuentas de sus dotes y de sus administraciones, y se enfrentarán a un ajuste de cuentas justo y misericordioso basado en cómo utilizaron sus talentos para el deber superior de servir a los demás y adorar a Dios. (112:5.10) (133:4.7) (176:3.7-8)
+	Al morir, los mortales se encuentran en presencia inmediata del juicio, enfrentándose a la nueva dispensación de servicio en el plan eterno del Padre infinito. (176:2.7)
+	En el juicio final, el destino eterno depende de la fidelidad, no del éxito material, haciendo eco de la devoción y el amor que se encuentran en las relaciones de los Servitales de Havona y los Guías de los Graduados. (25:1.6)
+	El juicio, en asuntos de rebelión cósmica como la de Lucifer, pertenece exclusivamente a los Ancianos de los Días. (53:1.2)
+	Las comisiones conciliadoras son indispensables para mantener la armonía en el universo de universos, resolviendo rápidamente disputas menores a medida que atraviesan el espacio a una velocidad triple. (25:2.11)
+	La demora en la ejecución del juicio puede estar justificada si permite la oportunidad de arrepentimiento y rehabilitación. (54:4-5)
+	El juicio siempre cumple el amor divino de Dios 3. Ancianos de los Días. (10:6.8)
+	Los creadores como el Hijo Maestro, Miguel, se centran en la creación, el sustento y el ministerio, dejando el juicio a seres de elevada formación y experiencia como criaturas. (33:7.1)
+	El Padre, fuente de todo juicio verdadero, es aquel con quien yo juzgaría, si tuviera que juzgar. (162:5.2)
+	Los Hijos Estacionarios de la Trinidad llevan a cabo el juicio, la aplicación final de la justicia, basándose en la evidencia procedente de las personalidades del Espíritu Infinito. (10:6.4)
+	Las vidas humanas son registradas y juzgadas por serafines y Censores en el estado morontial. (112:6.4)
+	Si hay dudas acerca de promover una identidad humana a los mundos de estancia, los gobiernos del universo invariablemente deciden en favor de los intereses personales de ese individuo, asegurando la justicia divina y ampliando las oportunidades para la misericordia divina. (112:5.7)
+	Todos los seres tendrán una única oportunidad verdadera de hacer una elección final y consciente de sí mismos, asegurando que ninguna alma será privada del estado de personalidad sin comprometerse plenamente con su decisión. (112:5.9)
+	Cuando la misericordia se agota, la justicia prevalece y la rectitud decreta en el universo bien ordenado, donde la equidad divina siempre prevalece. (28:6.7) (33:7.8)
+	Los Hijos Magisteriales cierran las dispensaciones planetarias, adjudican acciones judiciales y sirven como altos magistrados de los reinos. (20:2.5-7) (20:3.1)
+	Los registros vivientes de la ministración de misericordia de las Memorias de la Misericordia se presentan como testimonio en los tribunales de Uversa durante la adjudicación del derecho de cada individuo a la vida eterna. (28:6.6)
+	En los tribunales de los superuniversos, los Mensajeros Poderosos defienden a los individuos y a los planetas, mientras que Aquellos de Alta Autoridad procesan, y Aquellos sin Nombre ni Número sirven como jurados, asegurando la justicia y rectificando las desadaptaciones en los universos evolutivos. (22:2.8) (22:3.4) (22:4.3)
+	Antes de la ejecución de la pena, un fallo debe ser satisfactorio para todas las personas relacionadas. (54:3.2)
+	La justicia nunca destruye lo que la misericordia puede salvar, ya que el amor del Padre domina el juicio supremo, ofreciendo salvación a todo malhechor. (54:5.3)
+	Para los niños en período de prueba que no eligen sobrevivir, la muerte pone fin a sus carreras sin ninguna esperanza de resurrección o fallo. (47:2.7)
+	El juicio de los que no sobreviven nunca se atribuye a la negligencia del deber o la devoción por parte del Ajustador; pueden ser reasignados después del fallo o personalizados por el Padre Universal. (40:4.1)
+	Los Soberanos del Sistema hacen cumplir los mandatos legislativos y ejecutan los decretos judiciales en las constelaciones y los universos locales. (33:8.1)
+	Aquellos que rechacen a Jesús y sus enseñanzas serán llevados a juicio por el Padre y por aquellos designados para juzgar. (174:5.7)
+	En el juicio final ante los Ancianos de los Días, el consejo de los Importadores del Tiempo es crucial para asegurar tiempo suficiente para tomar decisiones y hacer elecciones. (28:6.10)
+	El testimonio imparcial de los seconafines reflexivos guía los juicios angélicos con claridad e imparcialidad. (28:4.11)
+	Los Censores Universales desempeñan un papel vital en todo el gran universo, actuando en conjunción con otros seres y sirviendo como un componente integral de las adjudicaciones dispensacionales. (19:4.3)
+	Las autoridades del universo priorizan la paciencia, la comprensión y la misericordia en el plan universal, y eligen arriesgarse a una rebelión del sistema antes que negarle a un mortal la oportunidad de una carrera ascendente. (112:5.8)
+	El juicio recae en aquellos que conocen los antecedentes y los motivos, lo que garantiza un castigo justo y misericordia en el universo. (133:1.2) (133:4.12)
+	Dios es divinamente justo y equitativo, incluso encantadoramente misericordioso, en los juicios finales de los mortales primitivos que ascienden a una inteligencia espiritual superior. (40:5.11)
+	Jesús no vino a juzgar, sino a ofrecer salvación, porque quien cree en el evangelio cree en Aquel que lo envió y ya no caminará en tinieblas, sino que tendrá la luz de la vida. (140:3.17) (162:5.2) (162:7.4) (174:5.7)
 Censores Universales
-	Registros seráficos y ajustadores apropiados para juicio (112:4.2)
-	son juicio de la Deidad (19:4.1,4)
-	los jueces y censores decretan la supervivencia mortal (108:6.6)
+	Los Censores Universales se apropian de los registros Ajustadores y seráficos para juzgar el carácter de supervivencia y las cualidades espirituales del ser humano fallecido. (112:4.2)
+	Los ocho mil millones de Censores Universales son el juicio de la Deidad, que encarna la sabiduría unida de la Trinidad del Paraíso. (19:4.1,4)
+	Los jueces y censores decretan la supervivencia mortal basándose en el discernimiento del alma morontial en evolución, guiados por el padre divino, el Ajustador. (108:6.6)
 
-Julias | | | PLACE | 
-Herodes mantuvo la residencia de Perea en (135:12.1) (150:3.1)
+Julias | | | PLACE | OK
+Herodes residía en Julias en Perea, donde Juana dirigía los servicios del sábado en la sala de banquetes del palacio de Herodes. (135:12.1) (150:3.1)
 
-Juno | | | PERSON | 
-Capitolio en Roma dedicado a (132:0.2)
+Juno | | | PERSON | OK
+En Roma, Ganid estudió y exploró los puntos de interés de la ciudad, incluido el Capitolio dedicado a Júpiter, Juno y Minerva. (132:0.2)
 
-Júpiter (dios) | | | PERSON | 
-Capitolio en Roma dedicado a (132:0.2)
-juerguista (69:2.5)
-Se invoca a los romanos arrojando piedras al aire (85:1.3)
-Zeus, trasplantado de Grecia a Roma (98:3.3)
+Júpiter (dios) | | | PERSON | OK
+Mientras estuvo en Roma, Ganid visitaba regularmente el Capitolio, un magnífico templo dedicado a Júpiter, Juno y Minerva. (132:0.2)
+El trabajo distingue al hombre de la bestia, pero Júpiter era un juerguista. (69:2.5)
+Los romanos invocaban a Júpiter arrojando una piedra al aire, ya que los símbolos de adoración y reverencia por las piedras eran comunes tanto en las culturas antiguas como en las modernas. (85:1.3)
+Zeus fue rebautizado como Júpiter cuando fue trasplantado de Grecia a Roma, junto con muchos otros dioses olímpicos. (98:3.3)
 
-Júpiter (planeta) | | Monmatia | PLACE | 
-en gran parte gaseoso (57:5.10)
-podría capturar planetas exteriores, convertirse en un sol (15:5.8)
-una luna cerca de la interrupción de las mareas (57:6.5)
-origen (41:10.1) (57:5.9-10)
-movimiento retrógrado de ciertos satélites (57:5.9)
-sol secundario por un período corto (57:5.10)
+Júpiter (planeta) | | Monmatia | PLACE | OK
+Júpiter, en gran parte gaseoso desde su formación, sigue siendo un brillante sol secundario en el sistema solar. (57:5.10)
+Júpiter podría capturar planetas exteriores, convirtiéndose en un sol y formando un sistema estelar doble. (15:5.8)
+Una luna de Júpiter está a punto de romperse por las mareas, como las estrellas fugaces y los anillos de Saturno, que son fragmentos de cuerpos rotos. (57:6.5)
+Júpiter y Saturno, derivados de material solar altamente calentado, brillaron como soles secundarios después de formarse a partir de las porciones centrales de una extrusión masiva de materia arrojada desde el sol. (41:10.1) (57:5.9-10)
+La poderosa atracción gravitatoria de Júpiter capturó tempranamente la mayor parte del material robado de Angona, evidente en el movimiento retrógrado de ciertos satélites. (57:5.9)
+Júpiter y Saturno fueron, durante un corto período después de su formación, soles secundarios, que emitían luz brillante y calor enorme al retener material solar altamente calentado dentro de su composición gaseosa. (57:5.10)
 
-Jurásico | | edades geológicas | | 
-posterior edad reptil desde hace 125 a 100 millones de años (60:2)
+Jurásico | | edades geológicas | | OK
+Hace 120.000.000 de años se marcó el comienzo y el eventual declive de los dinosaurios durante la última era reptil, hace entre 125 y 100 millones de años. (60:2)
 
-jurados | | | | 
-miembros de la asamblea del superuniverso sirven como (15:12.1)
-Los que no tienen Nombre ni Número sirven como (15:12.1) (22:4.3)
+jurados | | | | OK
+Los miembros de la asamblea superuniversal sirven como jueces en los tribunales de Uversa, presididos por seres celestiales que representan la sabiduría, el consejo y la autoridad. (15:12.1)
+Aquellos sin Nombre ni Número sirven como jurados supremos en Orvonton, emitiendo veredictos con mentalidad espiritual evolucionada en Uversa y sus tribunales de extensión. (15:12.1) (22:4.3)
 
-hombre justo | | | | 
-uno que había cumplido con las obligaciones rituales (89:8.7)
-vivirá por la fe (131:2.8)
+hombre justo | | | | OK
+La oración de un hombre justo, que había cumplido con sus obligaciones rituales, era muy estimada. (89:8.7)
+El hombre justo vivirá por la fe en el Señor, reconociéndolo en todos los sentidos, porque Dios juzgará toda obra, sea buena o mala. (131:2.8)
 
-Justa | | | PERSON | 
-de Sidón, hija de Berenice (156:2.2) (156:3.2)
+Justa | | | PERSON | OK
+Justa, hija de Berenice de Sidón, recibió a Jesús y a sus seguidores, quienes quedaron asombrados por el entusiasmo de los gentiles por escuchar y creer el evangelio. (156:2.2) (156:3.2)
 
-justicia | (2:3) (133:1) | tribunales; crimen; pena de muerte; karma; ley | | 
-concebido por el hombre, significa obtener los derechos de uno (70:10.2)
-concepto constitutivo en la mente dotada de espíritu (70:10.2)
+justicia | (2:3) (133:1) | tribunales; crimen; pena de muerte; karma; ley | | OK
+Justicia humana
+	La concepción que el hombre tiene de la justicia evoluciona como un medio para obtener los propios derechos, y no existe automáticamente en la mente llena del espíritu. (70:10.2)
+	La justicia primitiva, que imponía tabúes, era una forma negativa de ley, como se ve en los hebreos, que tenían códigos separados para los miembros de las tribus y los gentiles. (70:11.2)
+	La ley es el fundamento intelectual de la justicia, y se originó en las asambleas legislativas de las constelaciones para asegurar la coordinación, respetando al mismo tiempo el libre albedrío moral. (39:3.3)
+	La misión del gobierno es definir, regular y hacer cumplir los derechos y deberes para lograr la justicia y la igualdad. (81:5.6)
+	La justicia es el factor más poderoso y, al mismo tiempo, el más delicado de la civilización. (118:8.10)
+	La verdadera justicia se mantiene mejor cuando está en manos del grupo social, no como un acto personal. (10:6.2) (70:10.13) (104:2.5) (133:1.2) (159:1.6)
+	La justicia natural es un concepto ficticio creado por los humanos; en realidad, la naturaleza sólo garantiza que los resultados se alineen con sus causas. (70:10.1)
+	El propósito de la justicia primitiva era prevenir el desorden y la violencia resolviendo las disputas, independientemente de la equidad. (70:11.14)
 Justicia divina | comisiones conciliadoras; juicio:juicio divino
-	pensamiento colectivo de justicia (10:6.18)
-	Los creadores proporcionan sistemas judiciales para resolver diferencias honestas (25:3.7)
-	exige la adjudicación de cada incumplimiento y paso en falso (39:1.8)
-	dominado por el amor del Padre (54:5.3)
-	magistratura dual en Nebadon (33:7.2-7)
-	ni siquiera el amor y la misericordia pueden abrogar (2:6.8) (146:2.5)
-	equidad basada en motivos personales y tendencias raciales (39:1.8)
-	totalmente percibido,
-	la justicia coincide con el amor misericordioso (10:6.18)
-	más alto ascendemos, más seguros estamos de ser juzgados por nuestra propia especie (43:2.4)
-	Seres inocentes involucrados en las tribulaciones de la rebelión de Lucifer.
-	será juzgado misericordiosamente (54:6.1)
-	es preciso (4:4.5) (10:6.18) (133:1.2)
-	revisión judicial por Melquisedek y concilios mortales ascendentes (43:2.3-4)
-	tribunales del sistema local en luz y vida (55:8.1)
-	no influenciado por actos de criaturas (2:3.1)
-	el propósito de los tribunales es resolver honestas diferencias de opinión; decreto de supervivencia (39:1.7-8)
-	Los Hijos divinos rehabilitados y desocupados nunca más sirven en sus posiciones originales (35:9.10) (35:10.4)
-	lento pero seguro (54:4.8)
-	Los Hijos Estacionarios de la Trinidad son la revelación perfecta de (10:0.2)
-	retraso de tiempo de (53:4.5) (54:3)
-	tribunales de los Ancianos de los Días (15:12)
-	tribunales de Príncipes Planetarios (50:2.5)
-	Actitud de la Trinidad (10:5.1) (10:6.2)
-no aplique las enseñanzas de Jesús a problemas materiales de (142:7.17)
-la justicia primitiva significaba la aplicación de tabúes (70:11.2)
-ojo por represalia (70:10.9) (140:6.9) (140:8.5) (159:5.11)
-la ley es el fundamento intelectual de (39:3.3)
-podría hacer cumplir los derechos comúnmente reconocidos (81:5.6)
-el factor más poderoso y tenue de la civilización (118:8.10)
-debe estar alojado en manos del grupo social (10:6.2) (70:10.13) (104:2.5) (133:1.2) (159:1.6)
-la naturaleza proporciona solo la conformidad de los resultados con las causas (70:10.1)
-nunca una actitud personal (10:6.2)
-La idea primitiva era deshacerse del concurso (70:11.14)
+	La justicia es el pensamiento colectivo de rectitud, la misericordia es su expresión personal, y el juicio divino es el alma de la equidad dentro del amor y la ley de la Trinidad. (10:6.18)
+	La evolución progresiva de la justicia es intrínseca al concepto constitutivo de una mente dotada de espíritu. (70:10.2)
+	Los Creadores proveen el ajuste justo de las diferencias honestas entre individuos en evolución con el poder de elección, reconociendo la necesidad de sistemas judiciales para resolver malentendidos en universos repletos de dificultades. (25:3.7)
+	La justicia divina exige la adjudicación de cada falta y paso en falso, asegurando la equidad basada en el conocimiento de los motivos personales y las tendencias raciales. (39:1.8)
+	El amor del Padre domina la justicia suprema, asegurando que la misericordia pueda salvar antes de que la justicia destruya; la salvación está disponible ahora para los malhechores. (54:5.3)
+	La magistratura dual de Nebadon asegura una sentencia justa y final en todos los asuntos, excepto aquellos que involucran la vida y la muerte eternas, la deserción de los Hijos de Dios del Universo Local y la readmisión de los sistemas locales a la plena condición espiritual. (33:7.2-7)
+	La justicia de Dios, que ni siquiera el amor y la misericordia pueden abrogar, prevalece finalmente en el universo. (2:6.8) (146:2.5)
+	Los consejeros seráficos de la corte ejemplifican la justicia basada en motivos personales y tendencias raciales en su defensa de los mortales. (39:1.8)
+	La justicia Divina y el amor misericordioso en la Trinidad, percibidos plenamente, coinciden en el ministerio coordinado del amor y la ley. (10:6.18)
+	A medida que ascendemos en el universo, nuestros problemas judiciales son revisados ​​primero por el concilio de Melquisedec, y los veredictos pasan a siete jueces mortales ascendentes para que sean juzgados por nuestra propia especie. (43:2.4)
+	Los seres inocentes que se vean envueltos en las tribulaciones de la rebelión de Lucifer serán juzgados misericordiosamente (54:6.1)
+	La justicia, lenta pero segura, puso fin a la capacidad de Satanás de visitar mundos caídos en un universo dominado por la misericordia. (54:4.8)
+	La justicia, como el pensamiento colectivo de rectitud, es precisa en la justicia trinitaria, mientras que la misericordia es la expresión personal del sentimiento divino regido por el amor del Padre Universal. (4:4.5) (10:6.18) (133:1.2)
+	La revisión judicial por Melquisedec y los consejos mortales ascendentes asegura una justicia justa y significativa en todo el universo. (43:2.3-4)
+	Bajo el nuevo orden de gobierno, se establecen tribunales del sistema local, que traen luz y vida al cuerpo administrativo del sistema. (55:8.1)
+	Dios es justo, siendo recto y no afectado por las acciones de sus creaciones. (2:3.1)
+	El propósito de los tribunales es arbitrar las diferencias honestas de opinión y decretar la supervivencia eterna de los mortales ascendentes. (39:1.7-8)
+	Los Hijos divinos rehabilitados que han incumplido sus obligaciones cumplen funciones de custodia y administración después de aceptar el plan de salvación. (35:9.10) (35:10.4)
+	Los Hijos Estacionarios de la Trinidad son una revelación perfecta de la justicia divina dentro de la naturaleza eterna de la Trinidad del Paraíso. (10:0.2)
+	El desfase temporal de la justicia sirve como evidencia del compromiso de los gobiernos universales con una arbitraje justo y equitativo para todos los seres. (53:4.5) (54:3)
+	Los tribunales de los Ancianos de los Días sirven como tribunales superiores de revisión para el arbitraje espiritual en todos los universos componentes. (15:12)
+	El sistema judicial en el universo local tiene sus raíces en los tribunales altamente discrecionales de los Príncipes Planetarios. (50:2.5)
+	La actitud de la Trinidad hacia la justicia es una función plural, no un atributo personal de las Deidades individuales. (10:5.1) (10:6.2)
+	La Trinidad encarna la justicia como una función plural, separada de las actitudes personales de las personalidades divinas. (10:6.2)
+La justicia de Jesús
+	No debemos aplicar las enseñanzas de Jesús a los problemas materiales; en cambio, debemos centrarnos en el reino espiritual y en las relaciones divinas del Padre. (142:7.17)
+	Jesús rechazó la venganza de ojo por ojo, enseñando en cambio a devolver bien por mal y a mostrar misericordia y amor en todos los juicios. (70:10.9) (140:6.9) (140:8.5) (159:5.11)
 
-Guías de la Justicia | | | ORDER | 
-Serafines administradores; defender casos de supervivencia dudosa (39:4.4)
-comparecer ante los tribunales por malentendidos menores (39:4.5)
-pueden convertirse en Voces de la Misericordia (39:4.5)
-muy pocos perdidos en la rebelión de Lucifer (39:4.6)
+Guías de la Justicia; guías de la justicia | | | ORDER | OK
+Los administradores serafines, encargados de defender los casos de supervivencia dudosa, sirven como guías de justicia al presentar pruebas para su adjudicación en los tribunales. (39:4.4)
+Los guías de justicia se aseguran de que la justicia errada se administre con generosa misericordia, especialmente en malentendidos menores llevados ante los tribunales. (39:4.5)
+Los guías de justicia pueden convertirse en Voces de Misericordia, garantizando que se imparta una justicia infalible con generosa misericordia y equidad para todas las criaturas, en transición desde los reinos inferiores a las esferas superiores y a Salvington. (39:4.5)
+Durante la rebelión de Lucifer en Satania, se perdieron algunos guías de justicia, mientras que más de una cuarta parte de otros serafines administradores y órdenes inferiores de ministros seráficos fueron engañados por el atractivo de la libertad personal desenfrenada. (39:4.6)
 
-Justo (creyente) | | | PERSON | 
-sugirió ocupar el puesto de Judas (193:6.2)
+Justo (creyente) | | | PERSON | OK
+Simón Pedro relató elocuentemente la conmovedora despedida y ascensión de su Maestro en la última reunión de los once apóstoles, lo que condujo a la decisión de elegir un sucesor para Judas, y se sugirió a Justo para ocupar su puesto. (193:6.2)
 
-Justo (comerciante) | (133:3.5-10) | | PERSON | 
-comerciante judío de Corinto que alojó a Jesús
+Justo (comerciante) | | | PERSON | OK
+Justo, el devoto comerciante que hospedó a Jesús, fue testigo de su encuentro compasivo y transformador con dos mujeres que luchaban, lo que llevó a una a encontrar esperanza en la supervivencia eterna y a la otra a abrazar una nueva vida en la fe cristiana. (133:3.5-10)
