@@ -9,230 +9,239 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-labor | | logro; carreras; trabajo penoso; ganarse la vida; obreros; monotonía | | 
-vida ascendente dividida equitativamente entre trabajo y juego (48:4.1)
-civilización enormemente avanzada por la temprana división de labor; andonitas empleados (63:4.2) (81:6.29)
-obligar a todas las personas sanas a participar en (69:8.11) (71:3.7-8) (71:4.8)
-obligatorio en la nación continental (72:5.11) (72:6.4,6)
-los tribunales determinan los salarios en la nación continental (72:5.4-8)
-idear una técnica para encontrar un empleo adecuado (81:6.29-33)
-Los esfuerzos de diseño distinguen al hombre de la bestia (69:2.5)
-elevar el trabajo penoso trabajando como para Dios (133:4.8) (181:2.19) (192:2.13)
-el que no trabaja no comerá (69:2.5) (140:8.2)
-Los hebreos fueron los primeros en darle importancia (69:2.5)
-la ociosidad destruye el respeto por uno mismo (159:3.4)
-Jesús esmerado en lo esencial de cualquier empresa (134:9.7)
-Jesús muy regular sobre sus horas de trabajo (135:8.2)
-el trabajo es ennoblecedor (70:2.17)
-necesidad de labor es la bendición suprema del hombre (69:2.5)
-no hay tal cosa como labor en mundos espirituales (25:1.1)
-nada tiene prioridad sobre el trabajo de la esfera de estatus (48:6.37)
-a los primitivos no les gustaba labor; nunca trabajó alegre o voluntariamente (69:2.3-4) (102:2.7)
-hacer todo lo posible para asegurar trabajo para quienes no lo tienen (159:3.4)
-debe alternar con el juego (143:7.3)
-especialización del trabajo generó ahorros inmediatos de tiempo y materiales (69:2.3) (69:3)
-especialización del trabajo sobre los mundos morontiales (44:3.3)
-elemento de tiempo en el trabajo es la noción moderna (69:2.4)
-con todas las fuerzas (133:8.3)
-el trabajo es importante, el yo no lo es (48:6.37)
-el trabajo es menos importante que la forma en que se hace (39:4.13)
+labor; trabajo | | logro; carreras; trabajo penoso; ganarse la vida; obreros; monotonía | | OK
+La vida ascendente encuentra equilibrio en una división igualitaria entre trabajo y diversión, abrazando la alegría gozosa y la risa espiritual como expresiones universales. (48:4.1)
+La división primitiva del trabajo entre los andonitas hizo avanzar mucho la civilización, conduciendo a la coordinación de especialistas en la sociedad. (63:4.2) (81:6.29)
+La sociedad ideal obliga a todas las personas físicamente aptas a participar en empleos obligatorios para eliminar la ociosidad y la pobreza, promoviendo la autosostenibilidad y la productividad. (69:8.11) (71:3.7-8) (71:4.8)
+El trabajo obligatorio en esta nación continental es a la vez honorable y obligatorio para todos los ciudadanos físicamente aptos mayores de dieciocho años. (72:5.11) (72:6.4,6)
+Los tribunales industriales en la nación continental están funcionando satisfactoriamente, reconociendo la compensación legal dividida en tasas de interés sobre el capital, salario por habilidad y salarios justos por el trabajo, y cualquier exceso de ganancias se distribuye entre las tres divisiones. (72:5.4-8)
+Idead técnicas para localizar empleos adecuados que aseguren una coordinación eficaz de los especialistas en una sociedad en expansión y diversificación. (81:6.29-33)
+El trabajo, los esfuerzos del diseño, distingue al hombre de la bestia y es la bendición suprema del hombre; los hebreos fueron los primeros en dar valor a la industria. (69:2.5)
+Elevad el trabajo pesado del trabajo diario a los altos niveles de un arte fino, sirviendo como para Dios en todo trabajo terrenal. (133:4.8) (181:2.19) (192:2.13)
+«El que no trabaje, no coma» es una bendición suprema que distingue al hombre de la bestia. (69:2.5) (140:8.2)
+El trabajo, al que los hebreos fueron los primeros en dar valor, distingue al hombre de la bestia y es la bendición suprema del hombre. (69:2.5)
+La ociosidad destruye el respeto propio; por lo tanto, tengan cuidado de no herir el respeto propio de las almas tímidas y temerosas al caer en el sarcasmo o el cinismo hacia ellas. (159:3.4)
+Jesús era esmerado en lo esencial de cualquier empresa, y encontraba gran satisfacción en completar trabajos manuales encomiables en el taller de embarcaciones. (134:9.7)
+Jesús, muy regular en sus horas de trabajo, había dispuesto aconsejar a sus hermanos sobre el bautismo al día siguiente de la comunión íntima con el Padre en el cielo. (135:8.2)
+El trabajo es ennoblecedor, pero la amenaza de la esclavitud industrial estandarizada conduce al estancamiento de la personalidad. (70:2.17)
+El trabajo, la bendición suprema del hombre, lo distingue de las bestias instintivas y ennoblece el trabajo físico, y Dios Creador ordenó el trabajo como un deber sagrado. (69:2.5)
+En los mundos espirituales, todo servicio es sagrado y estimulante; no existe el trabajo servil, ya que ni siquiera los sirvientes son considerados sirvientes en un sentido servil. (25:1.1)
+El trabajo de tu esfera de estatus es de suma importancia; la importancia personal agota, no el esfuerzo por lograrlo. (48:6.37)
+Al hombre primitivo inicialmente le disgustaba el trabajo, pero reconoció las ventajas de la organización y la especialización, lo que llevó a la división del trabajo y a la búsqueda de una menor resistencia para lograr la eficiencia. (69:2.3-4) (102:2.7)
+Sé compasivo y proactivo al ayudar a otros a encontrar un trabajo significativo, sin causar daño a su autoestima o temor. (159:3.4)
+El trabajo debe alternarse con el ocio, así como la adoración debe equilibrarse con el servicio y la religión con el humor. (143:7.3)
+La especialización del trabajo, impulsada por la adaptación a la presión y la búsqueda de caminos de menor resistencia, trajo consigo ahorros inmediatos de tiempo y materiales. (69:2.3) (69:3)
+La especialización del trabajo en los mundos morontiales potencia el perfeccionamiento vocacional y el ministerio mutuo entre los espíritus en evolución. (44:3.3)
+El hombre antiguo no tenía la noción moderna de trabajar dentro de un límite de tiempo, sólo apresurarse ante el peligro. (69:2.4)
+Ganid compartió un proverbio hebreo con su compatriota descontento en Antioquía, alentándolo a abordar su trabajo «con todas sus fuerzas». (133:8.3)
+El trabajo de tu esfera de estatus, en este mundo o en el próximo, tiene precedencia sobre la importancia personal, ya que el agotamiento del yo disminuye la energía para las tareas importantes. (48:6.37)
+La forma en que haces el trabajo es más importante que el trabajo mismo en la cadena de la vida mortal a través de los universos. (39:4.13)
 
-obreros | | | | 
-invitado a venir a Jesús y encontrar descanso (139:7.7) (141:3.7) (144:8.8) (163:6.7) (165:3.8)
-parábola de obreros en viñedo (163:3.5-7)
-reza siempre por más obreros para el reino (163:4.10)
-dignos de su salario (140:9.3) (163:1.3)
+obreros | | | | OK
+Venid a Jesús todos los que trabajáis, y hallaréis descanso para vuestras almas. (139:7.7) (141:3.7) (144:8.8) (163:6.7) (165:3.8)
+La parábola de los obreros de la viña ilustra la naturaleza generosa y justa del reino de los cielos. (163:3.5-7)
+Orad siempre para que haya más obreros para el reino, dispuestos a decir: «Heme aquí, envíame», mediante la devoción consagrada y la adoración diaria. (163:4.10)
+El obrero es digno de su salario, pues va proclamando la paz en la tierra y la buena voluntad entre los hombres. (140:9.3) (163:1.3)
 
-escalera | | | | 
-la familia del Espíritu Infinito vive escalera por el cual los mortales escalan del caos a la gloria (9:8.25)
+escalera | | | | OK
+Las personalidades espirituales del Espíritu Divino e Infinito sirven como una escalera viviente para los mortales, guiándolos desde el caos hacia la gloria a través del amor y la misericordia. (9:8.25)
 
-Lagash | | | PLACE | 
-capital de Sumeria (78:8.10)
+Lagash | | | PLACE | OK
+La capital de Sumeria, Lagash, cayó en manos de Suites y Guites, del norte, alrededor del año 2500 a. C., lo que llevó a la absorción de los sumerios en las filas de los semitas del norte. (78:8.10)
 
-lago Superior | (58:7.5) | | PLACE | 
+lago Superior | | | PLACE | OK
+Las antiguas rocas alrededor del Lago Superior, que datan de la era Proterozoica, contienen capas primitivas portadoras de fósiles que dan testimonio de los levantamientos y fluctuaciones superficiales de aquellos tiempos, con ejemplos bien conservados de la vida marina temprana como algas, plantas similares a corales y protozoarios. (58:7.5)
 
 lago Urmia | | Urmia | PLACE | OK
 
-lago Van | | | PLACE | 
-descendientes de Adanson escucharon el evangelio de Salem en (93:7.2)
-los seguidores de Van se establecieron en (77:4.11)
-Noditas mezclados con amadonitas en (73:1.6)
+lago Van | | | PLACE | OK
+Los descendientes de Adansón, reunidos en torno al lago Van, absorbieron con entusiasmo las enseñanzas del evangelio de Salem de los maestros hititas, difundiendo su mensaje a tierras lejanas. (93:7.2)
+Los seguidores de Van se establecieron en el lago Van, donde Ararat se convirtió en su montaña sagrada y los dioses les dieron su ley moral de siete mandamientos. (77:4.11)
+Los noditas se mezclaron con los amadonitas en el lago Van, dejando atrás una progenie capaz que se unió a Van y a sus seguidores leales en tierras al norte de Mesopotamia. (73:1.6)
 
-lagos | | | | 
-producto glacial (61:7.1)
-lagos y mares nombrados | Báltico; bahía de Bengala; mar Negro; mar Caspio; mares de China; mar Muerto; Grandes Lagos; golfo de México; bahía de Hudson; lago Superior; lago Van; mar Mediterráneo; mar del Norte; golfo Pérsico; Puget Sound; mar de Galilea; Aguas de Merom
-muchos en Jerusem (46:2.2)
-miles en Edentia (43:1.1)
+lagos | | | | OK
+lagos en los cielos
+	Miles de lagos resplandecientes adornan las tierras altas de Edentia, sin la presencia de océanos ni ríos. (43:1.1)
+	Muchos lagos de Jerusem proporcionan la humedad esencial para la vida física y morontial, sin necesidad de lluvias ni tormentas. (46:2.2)
+lagos en la Tierra
+	Los lagos son un producto glaciar distintivo que muestra el profundo impacto de los glaciares en el paisaje. (61:7.1)
+	para una lista de lagos y mares que son nombrados en El Libro de Urantia, veáse los enlaces | Báltico; bahía de Bengala; mar Negro; mar Caspio; mares de China; mar Muerto; Grandes Lagos; golfo de México; bahía de Hudson; lago Superior; lago Van; mar Mediterráneo; mar del Norte; golfo Pérsico; Puget Sound; mar de Galilea; Aguas de Merom
 
-corderos | | | | 
-Jesús celebró la Pascua sin (127:6.6-7)
-Jesús le dijo a Pedro que alimentara a los suyos (192:2.2)
-servido en Pascua (179:0.3)
-animal de sacrificio típico (85:3.4)
+corderos | | | | OK
+Jesús celebró la Pascua sin el cordero pascual, enfatizando la importancia de la verdad espiritual por sobre los rituales tradicionales. (127:6.6-7)
+Jesús le dijo a Pedro que apacentara a sus corderos, que atendiera a los débiles, a los pobres y a los jóvenes, que predicara el evangelio sin temor, que sirviera a los demás, que perdonara libremente y que valorara la meditación y la reflexión. (192:2.2)
+Los apóstoles estaban acostumbrados a que Jesús celebrara la Pascua sin el cordero, ya que no participaba en los servicios sacrificiales del sistema judío. (179:0.3)
+El cordero se convirtió en un animal sacrificial típico en la religión evolutiva primitiva, representando a un dios olvidado o a un culto desaparecido. (85:3.4)
 
-los cojos | | | | 
-a veces invitan a banquetes (167:1.5)
+los cojos | | | | OK
+«A veces invita a los cojos a los banquetes, pues al humillarte para ayudar a los demás, serás exaltado.» (167:1.5)
 
-Lamec | | | PERSON | 
-júbilo por las armas metálicas de su hijo (159:1.7)
+Lamec | | | PERSON | OK
+La exultación de Lamec por las armas de metal de su hijo condujo a la ilustración de misericordia y tolerancia derivada de las Escrituras. (159:1.7)
 
-lámpara | | | | 
-del cuerpo es ojo (140:6.12)
-poner un soporte donde todos puedan contemplar (151:3.1)
+lámpara | | | | OK
+El ojo es la lámpara del cuerpo; que brille con generosidad y luz, no con oscuridad. (140:6.12)
+Deja que tu luz brille en un lugar donde todos puedan contemplarla. (151:3.1)
 
-Lanaforge | | Hijos Lanonandek; Soberanos de los Sistemas | PERSON | 
-visitante frecuente en Urantia (45:2.4)
-dio permiso para el 72 (72:0.1) (72:12.3)
-instalado como Sistema Soberano 10 años después de la rebelión de Lucifer (45:2.2-4) (45:3.2) (53:7.12,13) (93:3.2) (114:2.4)
-poco ocupado con Urantia hasta el donación de Miguel (93:3.2)
-único Lanonandek Son en Nebadon que funcionó lealmente a falta de un superior (45:2.3)
-ordenó pasar lista especial de distinguidos supervivientes de la falta de Adán (76:6.2)
-Lanonandek primario número 2709 (45:3.2)
-seleccionaron a Adán y Eva para Urantia (74:1.3-4)
+Lanaforge | | Hijos Lanonandek; Soberanos de los Sistemas | PERSON | OK
+Lanaforge, un visitante frecuente de Urantia, revela un gran interés en el bienestar de los mundos aislados de Satania. (45:2.4)
+Lanaforge dio permiso para que el Documento 72 hiciera avanzar la civilización y aumentara la evolución gubernamental en Urantia. (72:0.1) (72:12.3)
+Instalado como Soberano del Sistema 10 años después de la rebelión de Lucifer, Lanaforge es un administrador probado, que gobierna Satania con sabiduría y gracia. (45:2.2-4) (45:3.2) (53:7.12,13) ​​(93:3.2) (114:2.4)
+Melquisedec introdujo la idea de un solo Dios, El Elyon, pero se abstuvo de hablar de Lucifer, dejando a Lanaforge sin involucrarse con Urantia hasta el autootorgamiento de Miguel. (93:3.2)
+Lanaforge, el único hijo Lanonandek en Nebadon que permaneció leal durante la falta de un superior, es un líder probado y capaz en Satania. (45:2.3)
+Lanaforge ordenó una lista especial de sobrevivientes distinguidos de la falta de Adán para un mandato de resurrección en Urantia. (76:6.2)
+Lanaforge es el Lanonandek principal #2709. (45:3.2)
+Lanaforge, con la aprobación de los Altísimos de Edentia, seleccionó a Adán y Eva para su misión de elevación biológica en Urantia. (74:1.3-4)
 
-tierra | | | | 
-la lucha básica del hombre es por (68:6.1)
-se convirtió en fuente de ingresos, capital (69:9.15)
-consagrado tierra descansado bajo la protección de los tabúes (69:9.13)
-relación tierra-hombre
-	la agricultura se cuadruplica (68:5.10)
-	determina el valor de la tierra y los hombres (68:6.1-4)
-	efecto de aumentar más allá del óptimo (81:6.11)
-	las costumbres siempre dependen de (68:5.1) (68:6.1)
-artes de mantenimiento (68:5)
-etapa de la sociedad (68:5.1)
-límites impositivos sobre la tierra en nación continental (72:7.6)
-guerra siempre causada por la escasez de (70:1.8)
+tierra | | | | OK
+La lucha básica del hombre es por la tierra, una verdad fundamental reflejada en la esencia misma de la existencia humana. (68:6.1)
+La tierra se convirtió en una fuente de ingresos y capital, y el estado asignó la propiedad a individuos y los terratenientes obtuvieron títulos para cobrar rentas. (69:9.15)
+Los escudos familiares y la propiedad privada se originaron cuando los sacerdotes consagraron la tierra bajo la protección de tabúes, mostrando gran respeto por los hitos familiares. (69:9.13)
+La tierra es el escenario de la sociedad; los hombres son los actores, y es necesario adaptarse a la situación de la tierra mediante las artes de mantenimiento para desarrollar las costumbres y la civilización cultural. (68:5)
+La civilización cultural del hombre está determinada por su adaptación a la tierra, lo que refleja las costumbres en evolución influidas por la proporción tierra-hombre. (68:5.1)
+Los límites impositivos sobre la tierra en la nación más avanzada de un planeta habitado cercano a Urantia varían enormemente, con un máximo del uno por ciento del valor permitido por año para la propiedad, eximiendo a los terrenos para viviendas. (72:7.6)
+La guerra siempre es causada por la escasez de tierra, lo que conduce al hambre, a las incursiones en busca de alimentos y al casi exterminio de tribus pacíficas. (70:1.8)
+Relación tierra-hombre
+	La agricultura cuadriplica la relación tierra-hombre, combinando las actividades pastorales y las etapas culturales superpuestas de la caza y la agricultura. (68:5.10)
+	El valor del hombre está determinado por su relación con la tierra, un aspecto fundamental de la existencia humana y la civilización. (68:6.1-4)
+	El aumento más allá de la proporción óptima de población es perjudicial para la calidad de vida y puede requerir una expansión territorial mediante la conquista. (81:6.11)
+	La evolución de las costumbres siempre depende de la relación tierra-hombre, la base de la civilización social. (68:5.1) (68:6.1)
 
-puentes terrestres | | | | 
-Estrecho de Bering (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1.2,6,13) (64:6.5) (79:5.6)
-desaparición de ciertos (59:6.5)
-Canal inglés (64:1.5-6) (64:2.6)
-Istmo de Gibraltar (61:3.8) (80:1.1) (80:2.4)
-Islandia (61:3.9) (61:4.6)
-Java (64:1.6)
-Mediterráneo-Índico (64:7.13)
-Istmo de Panamá (61:0.2) (61:1.12)
-Siciliano (64:1.5) (64:4.7) (73:7.1) (80:1.1) (80:2.4)
+puentes terrestres | | | | OK
+Hace 85 millones de años se cerró el estrecho de Bering, unificando la vida marina de las aguas del Atlántico y el Golfo y del océano Pacífico. (60:3.8) (61:0.2) (61:1.12) (61:3.4) (61:4.6) (62:1.2,6,13) (64:6.5) (79:5.6)
+Durante estas elevaciones de la tierra, la desaparición de ciertos puentes terrestres alteró drásticamente la conectividad entre continentes. (59:6.5)
+Durante la edad de hielo, se formó una conexión terrestre entre Inglaterra y Francia a través del Canal de la Mancha. (64:1.5-6) ​​(64:2.6)
+El istmo de Gibraltar conectaba España y África, formando un puente terrestre antes de que los cambios geológicos condujeran a la creación del Mediterráneo y el océano Atlántico como cuerpos de agua separados. (61:3.8) (80:1.1) (80:2.4)
+El puente terrestre de Islandia se sumergió, aislando al hemisferio occidental a medida que se empezaron a desarrollar distintas formas de vida. (61:3.9) (61:4.6)
+Los descendientes de Andón y Fonta emigraron a Java hace 950.000 años. (64:1.6)
+El puente terrestre conectó el Mediterráneo con el océano Índico, lo que llevó a las razas de color a asentarse en África. (64:7.13)
+Durante la era Cenozoica, el puente terrestre del istmo de Panamá y el estrecho de Bering se alzaron y cayeron, conectando diversos tipos de animales en un paraíso animal en medio de luchas de especies en evolución. (61:0.2) (61:1.12)
+Durante la edad de hielo, un puente terrestre siciliano conectó África con Europa, trayendo nuevos animales que prácticamente exterminaron a otros. (64:1.5) (64:4.7) (73:7.1) (80:1.1) (80:2.4)
 
-era de la vida terrestre primitiva | (60) | | | 
-Mesozoico fue la era de (59:0.5)
+era de la vida terrestre primitiva | (60) | | | OK
+El Mesozoico fue la era de la vida terrestre primitiva, que se extendió durante los siguientes cien millones de años. (59:0.5)
 
-idioma | | comunicación; traductores; escritura | | 
-1000 años de comunicación mortal transmitidos en un encuentro casual en el Paraíso (44:4.3)
-más allá de Supremo, los conceptos son designaciones menos verdaderas de la realidad (115:3.4)
-lenguas celestiales
-	todos los ángeles hablan el idioma de su universo local y superuniverso (38:7.5)
-	cada universo local y superuniverso tiene el suyo (44:4.3)
-	la dirección de media hora cubriría un tema de por vida (44:4.7)
-	la armonía es el código de la comunicación espiritual (44:1.11,15)
-	lenguas de Salvington y Uversa aprendidas por los humanos en luz y vida (55:6.6)
-	poca necesidad de idioma en Havona (44:4.3)
-	los progresores morontiales deben aprender idioma tanto como en Urantia (48:3.13)
-	de Nebadon dominado por la cuarta mansonia (47:7.2)
-	de Uversa aprendido antes de la residencia en Jerusem (47:7.2)
-	traductores siempre disponibles en los mundos morontiales (48:3.13)
-lenguaje común
-	la ausencia es una gran desventaja (55:3.21-22)
-	La ausencia impidió la plena reciprocidad de las naciones occidentales (80:9.16)
-	La deserción de Caligastia destruyó la esperanza de (66:5.10)
-	conquista de dialectos (71:8.12)
-	favorece la religión global (134:6.11)
-	el dinero es el lenguaje universal del comercio (70:3.5)
-	promueve la paz, la cultura, la felicidad (52:3.10) (52:6.3) (70:3.5) (81:6.18-19)
-desarrollo del lenguaje
-	El dialecto andónico de Amadón era la lengua del Edén (74:2.2)
-	sociedades antiguas empleadas en secreto (70:7.15)
-	Andón y Fonta desarrollaron (62:5.7)
-	Se desarrollaron clanes andónicos (63:4.6)
-	los animales no pueden desarrollarse (130:2.8)
-	las carreras hacia atrás hablan un nuevo dialecto cada 50 millas (68:1.6)
-	desarrollo del habla coincidiendo con la adquisición de la voluntad, recibiendo Ajustadores (52:1.6) (109:4.1)
-	fósiles de superstición (88:6.7)
-	gran necesidad de un mayor desarrollo (81:6.16-17)
-	cientos de dialectos locales en tiempos de Adán (75:1.3)
-	Primates desarrollados (62:4.1)
-	retención sentimental de la nomenclatura antigua (94:12.1)
-	similitud de lenguas occidentales llamadas arias (78:5.3)
-	la lengua de los adanitas finalmente domina (52:3.10)
-Jesús invirtió el significado de muchas palabras; el lenguaje florido evitado (159:5.17)
-idiomas nombrados | arameo; idioma inglés; Grecia:lengua griega; lenguaje hebreo; latín; Nebadon:idioma de; Satania:lenguaje de; Uversa:lengua de
-limitaciones del lenguaje humano (0:0.1-4) (0:3.20) (0:6.2) (0:12.13) (2:0.3) (2:5.11) (6:0.2,4) (10:5.8) (18:4.3) (24:6.2) (33:8.6) (35:7.3) (42:2.1) (44:0.20-21) (44:2.1) (44:4.8) (44:5.8) (44:6) (44:7.1) (46:2.6) (46:4.9) (94:12.1) (105:0.3) (105:3.10) (106:0.11) (112:5.11) (147:4.3) (196:3.28)
-la multiplicación de multilingüistas promueve la hermandad (52:6.3)
-naturaleza del lenguaje
-	base de la civilización; hace que el conocimiento y la sabiduría sean acumulativos (81:6.23) (160:2.3)
-	comunicación con símbolos (160:2.1)
-	la herramienta de pensamiento más útil para el hombre (81:6.16-17)
-los que no respiran hablan mediante una técnica modificada (40:5.15)
-los sacerdotes realizan rituales en lengua antigua (90:5.6)
-segregación racial favorecida por la multiplicidad de (52:2.5)
-reveladores de los documentos de Urantia
-	evitó designaciones arbitrarias y sin sentido (18:4.3) (31:8.3)
-	usó conceptos humanos como más aceptables para las mentes humanas (0:12.12-13) (121:8.12-14)
-	usó fraseología moderna (130:1.4)
-El uso del griego hizo que la iglesia cristiana primitiva se volviera hacia el oeste (121:6.2)
-sopesar las consecuencias de las palabras (192:2.8)
-las palabras no tienen valor en la oración; pensamiento bastante motivador (7:3.7)
-las palabras no pueden emocionarse como ver (195:9.8)
+idioma | | comunicación; traductores; escritura | | OK
+Desarrollo del lenguaje
+	El dialecto andónico de Amadón, la lengua del Edén, fue mejorado por Van y se convirtió en el idioma de Urantia cuando Adán y Eva lo dominaron antes de salir de Jerusalén. (74:2.2)
+	Las sociedades antiguas empleaban signos secretos, un lenguaje especial y retenían ciertos alimentos para formar castas sociales. (70:7.15)
+	Andón y Fonta desarrollaron un sofisticado sistema de comunicación, pero tuvieron dificultades para enseñárselo a sus padres. (62:5.7)
+	El idioma de los clanes andónicos evolucionó y se convirtió en la palabra de Urantia. (63:4.6)
+	Los animales no pueden desarrollar el lenguaje ni experimentar la supervivencia de la personalidad en la eternidad debido a su falta de naturaleza espiritual y poderes mentales. (130:2.8)
+	Las sociedades primitivas que sobreviven hoy demuestran la hostilidad grupal y la sospecha personal primitivas que se vieron en los tiempos antiguos; sus dialectos variados cada 50 millas reflejan un mundo que podría haber existido sin la guía de la progresión social. (68:1.6)
+	El desarrollo del habla coincide con la adquisición de la voluntad moral, lo que permite a los humanos recibir Ajustadores divinos para el crecimiento y la evolución espiritual. (52:1.6) (109:4.1)
+	El lenguaje contiene fósiles de superstición, lo que demuestra el enredo histórico de la humanidad con creencias mágicas en palabras como hechizado, inspiración y atónito. (88:6.7)
+	La eficacia del lenguaje en el avance de la civilización depende de su desarrollo continuo para mantener el ritmo de la evolución del pensamiento. (81:6.16-17)
+	Adán y Eva se enfrentaron al enorme desafío de unificar un mundo lleno de cientos de dialectos locales, luchando por lograr la unidad religiosa en un reino envuelto en oscuridad espiritual y decadencia moral. (75:1.3)
+	Los primates desarrollaron una forma única de comunicación mediante signos y sonidos, pero lucharon para hacer que su gente comprendiera estos nuevos símbolos. (62:4.1)
+	La retención sentimental de la nomenclatura antigua obstaculiza la verdadera comprensión de la evolución religiosa. (94:12.1)
+	La formación de la lengua materna aria en el Turquestán mezcló dialectos de la región andónica con el lenguaje de los adansonitas y anditas, dando como resultado la similitud que se encuentra en las lenguas occidentales modernas. (78:5.3)
+	La paz universal de la época postadánica se alcanza mediante el predominio de la lengua del pueblo violeta, a medida que el nacionalismo da paso al internacionalismo y se materializa la hermandad del hombre. (52:3.10)
+	Los sacerdotes llevan a cabo rituales en una lengua antigua para mistificar e impresionar a los adoradores, con el riesgo de que el ritual se convierta en un sustituto de la religión. (90:5.6)
+	El Príncipe Planetario no es un Príncipe de Paz; la segregación racial se ve favorecida por una multiplicidad de idiomas, lo que conduce a guerras y luchas tribales. (52:2.5)
+	El uso del griego en las enseñanzas cristianas primitivas desplazó el enfoque de la iglesia hacia Occidente, alejándolo de sus orígenes en Oriente. (121:6.2)
+Un idioma universal común
+	La ausencia de un idioma, una religión y una filosofía es el gran obstáculo que impide a Urantia alcanzar su elevado destino planetario de luz y vida, en medio de los desafíos de la enfermedad, la degeneración, la guerra y el multilingüismo. (55:3.21-22)
+	La ausencia de una reciprocidad plena entre las naciones occidentales debido a las barreras lingüísticas impide la mezcla de la cultura europea en Norteamérica, lo que repercute en el futuro del continente. (80:9.16)
+	La deserción de Caligastia destruyó la esperanza de un idioma universal, dejando sólo restos del progreso alcanzado en la escritura alfabética. (66:5.10)
+	El triunfo de un idioma universal se logra mediante la conquista de los dialectos. (71:8.12)
+	Un idioma global favorece la religión global y la paz mundial bajo un gobierno global. (134:6.11)
+	El dinero sirve como idioma universal del comercio moderno, salvando la brecha creada por la ausencia de un idioma común entre los grupos pacifistas. (70:3.5)
+	Un idioma universal promueve la paz, la cultura y la felicidad, fomentando la cooperación internacional y la unidad entre las diversas razas. (52:3.10) (52:6.3) (70:3.5) (81:6.18-19)
+	La multiplicación de los multilingüistas fomenta la hermandad mundial mediante las interacciones sociales y los intercambios culturales. (52:6.3)
+Naturaleza del lenguaje
+	El lenguaje es la base de la civilización, ya que permite el crecimiento acumulativo del conocimiento y la sabiduría a través de las generaciones. (81:6.23) (160:2.3)
+	La comunicación con símbolos distingue a los humanos de los animales, ya que permite la transmisión de significados, valores, ideas e ideales. (160:2.1)
+	El lenguaje, la herramienta de pensamiento más útil del hombre, es crucial para la expansión del pensamiento y la planificación civilizados, y evoluciona a través de gestos, signos, gritos y nuevas palabras como la jerga. (81:6.16-17)
+Limitaciones del lenguaje
+	Las limitaciones del lenguaje humano obstaculizan nuestra capacidad de transmitir plenamente las verdades y los conceptos profundos de las realidades divinas y los reinos celestiales a las mentes mortales. (0:0,1-4) (0:3,20) (0:6,2) (0:12,13) ​​(2:0,3) (2:5,11) (6:0,2,4) (10:5,8) (18:4,3) (24:6,2) (33:8,6) (35:7,3) (42:2,1) (44:0,20-21) (44:2,1) (44:4,8) (44:5,8) (44:6) (44:7,1) (46:2,6) (46:4,9) (94:12,1) (105:0,3) (105:3,10) (106:0,11) (112:5,11) (147:4,3) (196:3,28)
+	El hombre La comprensión finita lucha por captar conceptos más allá del Supremo, donde los nombres se convierten en proyecciones en lugar de designaciones verdaderas de la realidad. (115:3.4)
+Jesús y el lenguaje
+	Jesús transformó el lenguaje simplificando e invirtiendo los significados, rechazando el lenguaje florido en favor de una simplicidad impactante y trayendo las enseñanzas divinas a la tierra. (159:5.17)
+	Confíe más en Jesús, cultive la paciencia y sopese las consecuencias de las palabras para una vida de bondad y tranquilidad. (192:2.8)
+	El mundo necesita una experiencia directa de Jesús y de Dios, porque las palabras no pueden emocionar tanto como ver y conocer sus enseñanzas vivificantes y su presencia divina. (195:9.8)
+	Es el pensamiento motivador, no las palabras, lo que valida la súplica mortal. (7:3.7)
+Los Reveladores de los Documentos Urantia
+	Para comunicar los nombres de las etéreas Perfecciones de los Días, los traductores se enfrentan al desafío de seleccionar una designación adecuada que sea comprensible y representativa, evitando etiquetas arbitrarias y sin sentido. (18:4.3) (31:8.3)
+	En sucesivas revelaciones planetarias, la verdad divina se presenta utilizando conceptos humanos como base, con el objetivo de mejorar la comprensión de los valores espirituales y los significados del universo. (0:12.12-13) (121:8.12-14)
+	Las palabras de Jesús utilizadas en El libro de Urantia en la narración de su viaje por el Mediterráneo están expresadas en fraseología moderna, no en la original. (130:1.4)
+Lenguas celestiales
+	Un encuentro casual en el Paraíso transmite más entendimiento mutuo que 1000 años de comunicación mortal. (44:4.3)
+	Todos los ángeles, incluidos los querubines y los sanobines, aprenden múltiples idiomas mediante el estudio de los usos y lenguajes planetarios durante su entrenamiento dentro de los reinos, esforzándose continuamente por mejorarse a sí mismos. (38:7.5)
+	Cada universo local y superuniverso tiene su propio idioma, lo que facilita la comunicación entre seres de diferentes orígenes. (44:4.3)
+	En el idioma de Nebadon, un discurso de media hora podría abarcar el tema de toda una vida, un concepto que desconcierta a los promotores de la oratoria. (44:4.7)
+	La armonía, el código universal de comunicación espiritual, trasciende la comprensión mortal y sigue siendo el lenguaje de Havona. (44:1.11,15)
+	En mundos altamente evolucionados como Salvington y Uversa, los humanos primero aprenden completamente el idioma del universo local antes de ser trasladados, y las personalidades absonitas revelan la presencia de finalistas en los templos morontiales. (55:6.6)
+	En Havona, el idioma tiene poca necesidad, ya que existe una comprensión perfecta en el universo central. (44:4.3)
+	Los progresadores morontiales deben aprender nuevos idiomas con la ayuda de Compañeros Morontiales, tal como lo hacen en Urantia. (48:3.13)
+	Antes de llegar a Jerusem con estatus de residencia, los mortales ascendentes de Nebadon dominan tanto el idioma del universo local como la lengua de Uversa en la cuarta mansonia. (47:7.2)
+	Los mortales ascendentes deben dominar el idioma del universo local antes de residir en Jerusem, ya que son bilingües desde la sede del sistema hasta Havona, y tienen además la necesidad de perfeccionar la lengua de Uversa para residir en el Paraíso. (47:7.2)
+	Los traductores de los mundos morontiales te ayudarán a aprender nuevos idiomas de manera eficiente. (48:3.13)
+	En los mundos de estancia, comunicarse con tipos mortales modificados es fácil, ya que hablan el mismo idioma del sistema, pero mediante una técnica modificada. (40:5.15)
+Idiomas mencionados en El libro de Urantia
+	Para obtener una lista de los idiomas mencionados en El libro de Urantia, consulta los enlaces | arameo; idioma inglés; Grecia:lengua griega; lenguaje hebreo; latín; Nebadon:idioma de; Satania:lenguaje de; Uversa:lengua de
 
-Hijos Lanonandek; Hijos Lanonandeks; Lanonandeks; Príncipe Planetario; Príncipes Planetarios | (35:8-9) | Príncipes Planetarios; Soberanos de los Sistemas | ORDER | 
-ayudar a los Príncipes Planetarios (50:2.3)
-más conocidos como Soberanos de los Sistemas, Príncipes Planetarios (35:8.1)
-creado por el Hijo Creador y el Espíritu Madre (20:1.5-10) (35:8.1)
-no progresa de un tipo a otro (35:8.7)
-a cargo del tercer circuito de Salvington (35:10)
-en registros de personalidad (30:1.37) (30:2.44)
-administradores de universos locales más versátiles (35:8.15)
-los Hijos Lanonandek de Nebadon tienen un alto grado de libertad personal (35:9.8)
-rebelión entre
-	peligro de extraviarse (35:8.15) (35:10.5)
-	más de 700 se han rebelado (35:9.5-10) (35:10.5)
-	se rebeló 3 veces en Nebadon (45:2.1)
-	rehabilitación de los Hijos Lanonandek (35:9.10) (35:10.4)
-reservas en la sede de la constelación (35:9.3-4)
-residencia en los círculos de Jerusem (46:5.16)
-número estacionario de 12 millones en Nebadon (35:8.3,7)
-entrenado por Melquisedek (35:8.2)
+Hijos Lanonandek; Hijos Lanonandeks; Lanonandeks; Príncipe Planetario; Príncipes Planetarios | (35:8-9) | Príncipes Planetarios; Soberanos de los Sistemas | ORDER | OK
+Los Hijos Lanonandek ayudan a los Príncipes Planetarios en su gobierno autocrático sobre los planetas evolutivos. (50:2.3)
+Los Hijos Lanonandek son mejor conocidos como Soberanos de Sistemas y Príncipes Planetarios en el universo. (35:8.1)
+Los Hijos Lanonandek son creados por un Hijo Creador y un Espíritu Materno. (20:1.5-10) (35:8.1)
+Los Hijos Lanonandek no progresan entre grupos ni se dedican a la reproducción, sino que sirven continuamente en sus rangos asignados. (35:8.7)
+Los Hijos Lanonandek a cargo del tercer circuito de Salvington son administradores experimentados de los peregrinos ascendentes y las huestes seráficas, y supervisan la coordinación de los pronunciamientos administrativos dentro del grupo Lanonandek. (35:10)
+Los Hijos Lanonandek encarnan cualidades únicas en los registros de personalidad. (30:1.37) (30:2.44)
+Los Hijos Lanonandek son los administradores más versátiles del universo local, sobresaliendo en capacidad ejecutiva sólo superados por Gabriel y sus asociados. (35:8.15)
+Los Hijos Lanonandek de Nebadon han causado problemas administrativos debido a su alto grado de libertad personal, pero al final, su lealtad y servicio voluntario superarán los desafíos enfrentados en eras anteriores. (35:9.8)
+En las sedes de las constelaciones, el consejo supremo selecciona reservas de Hijos Lanonandek para llenar las vacantes dejadas por los Soberanos del Sistema o los asistentes convocados. (35:9.3-4)
+Los Hijos Lanonandek encuentran residencia en los círculos de Jerusem, donde los Soberanos del Sistema, los Príncipes Planetarios y las reservas del sistema se unen como uno solo. (46:5.16)
+El número estacionario de 12 millones de Hijos Lanonandek en Nebadon permanece fijo en sus rangos asignados después de ser divididos en tres clases a través de pruebas finales en la esfera Melquisedec. (35:8.3,7)
+Los Hijos Lanonandek fueron entrenados por Melquisedec en la Universidad Melquisedec antes de su servicio posterior. (35:8.2)
+la rebelión entre los Hijos Lanonandek
+	Los Hijos Lanonandek corren un mayor riesgo de extraviarse, sin embargo siguen siendo administradores nobles, fieles y versátiles en el universo. (35:8.15) (35:10.5)
+	Más de 700 Hijos Lanonandek se han rebelado contra el gobierno del universo, causando confusión en varios sistemas y en numerosos planetas. (35:9.5-10) (35:10.5)
+	El Soberano del Sistema, un Hijo Lanonandek, en Nebadon se rebeló 3 veces. (45:2.1)
+	La rehabilitación de los Hijos Lanonandek que han dejado de prestar servicios garantiza su continuidad en funciones de custodia y administración, lo que les impide ocupar sus puestos anteriores. (35:9.10) (35:10.4)
 tipos
 	primario | Hanavard; Lanaforge; Lucifer; Lutentia; Satán
-		donación de Miguel como los Hijos Lanonandek (119:2)
-		Soberanos de los Sistemas; número 709,841 (35:8.4)
+		El Hijo Lanonandek que sucedió al Soberano del Sistema rebelde en el sistema 11 de la constelación 37 no fue otro que Miguel, el Gobernante del Universo. (119:2)
+		Hay 709.841 Hijos Lanonandek designados como Soberanos del Sistema en el universo. (35:8.4)
+		Véase enlaces acerca de: Hanavard; Lanaforge; Lucifer; Lutentia; Satán
 	secundario | Caligastia; Daligastia; Fortant
-	número 10.234.601 (35:8.5)
-	Los Príncipes Planetarios son (35:8.5) (50:0.1)
-	escribió los artículos 50, 51 (50:7.4) (51:7.6)
+		Hay 10.234.601 Hijos Lanonandek Secundarios asignados como Príncipes Planetarios y a las reservas de esa orden. (35:8.5)
+		Los Príncipes Planetarios son Hijos Lanonandek secundarios especializados comisionados para gobernar mundos habitados en evolución. (35:8.5) (50:0.1)
+		Dos Hijos Lanonandek del Cuerpo de Reserva escribieron los Documentos 50 y 51. (50:7.4) (51:7.6)
+		Véase enlaces acerca de: Caligastia; Daligastia; Fortant
 	terciario | Holdant; Mansurotia; Sadib; Vilton
-		número 1.055.558 (35:8.6)
-		asistentes subordinados (35:8.3)
+		Hay 1.055.558 Hijos Lanonandek Terciarios que sirven como asistentes, mensajeros, custodios, comisionados, observadores y llevan a cabo diversas tareas en un sistema. (35:8.6)
+		El universo de Nebadon comenzó con doce millones de Hijos Lanonandek, asistentes subordinados divididos en tres clases después de pasar por la esfera de Melquisedec. (35:8.3)
+		Véase enlaces acerca de: Holdant; Mansurotia; Sadib; Vilton
 
-Lao-Tse | (94:6.3-8) | | PERSON | 
-declaró al Tao como la Primera Causa Única (92:5.12) (94:6.3-8)
-destacado maestro religioso; deificado (94:6.12) (121:6.4)
+Lao-Tse | (94:6.3-8) | | PERSON | OK
+Lao-tse declaró que el Tao era la Causa Primera y enseñó el destino eterno de la unión del hombre con el Dios Supremo y Rey Universal. (92:5.12) (94:6.3-8)
+Lao-tse, un destacado maestro religioso, fue finalmente deificado por sus seguidores durante una era espiritualmente oscura en China. (94:6.12) (121:6.4)
 
-Laotta | | | PERSON | 
-brillante mujer nodita a quien Adán fecundó (75:5.2)
-pereció al nacer Sansa (76:0.2)
+Laotta | | | PERSON | OK
+Adán embarazó deliberadamente a Laotta, la brillante mujer nodita, por amor a Eva y por temor a estar sola en Urantia. (75:5.2)
+Antes de llegar a Mesopotamia, Laotta murió al dar a luz a Sansa, quien creció y se convirtió en una mujer de gran habilidad y se casó con Sargan, jefe de las razas azules del norte. (76:0.2)
 
-Laponia | | | PLACE | 
-mezcla de razas andonita y azul en (81:4.9)
-Los andonitas mayores retuvieron una apariencia de identidad en (80:4.6)
+Laponia | | | PLACE | OK
+Los lapones y esquimales de Laponia son una mezcla de razas andonitas y azules, que conservan el tipo andónico aborigen en medio del predominio hereditario sangik. (81:4.9)
+Los andonitas más antiguos mantuvieron una apariencia de identidad en Laponia a medida que se absorbían cepas azules superiores. (80:4.6)
 
-Larisa | (130:0.3) | | PLACE | 
-Una población por la que pasó Jesús
+Larisa | | | PLACE | OK
+Una población por la que pasó Jesús durante su periplo con Ganid y Gonod, situada en Mesopotamia (130:0.3)
 
-Lasea | | puertos | PLACE | 
-puerto en Creta por donde pasó Jesús (130:0.2) (130:4.12)
+Lasea | | puertos | PLACE | OK
+Jesús pasó por Lasea, un puerto de Creta, en su viaje de Jerusalén a Roma. (130:0.2) (130:4.12)
 
-el último | | | | 
-a menudo será el primero (41:10.5) (163:3.4) (166:3.5)
+el último | | | | OK
+A veces los últimos serán a menudo los primeros en el reino de Dios, donde los más pequeños pueden llegar a ser los más grandes en la salvación eterna. (41:10.5) (163:3.4) (166:3.5)
 
-Última Cena | | Cena del Recuerdo | | 
+Última Cena | | Cena del Recuerdo | | OK
 
-latín | | | | 
-no hay palabra para altruismo (195:3.3)
+latín | | | | OK
+El cristianismo trajo consuelo liberador a una Roma espiritualmente hambrienta que carecía de una palabra para el altruismo en medio de enseñanzas estoicas y promesas de cultos misteriosos. (195:3.3)
 
-Lausana | | | PLACE | 
-Pilato se retiró a Lausana, se suicidó en Lausana (185:1.6)
+Lausana | | | PLACE | OK
+La caída de Pilato fue precipitada por su traición a Jesús y los desastrosos acontecimientos que involucraron a un falso mesías en Samaria, lo que condujo a su exilio a Lausana y finalmente al suicidio. (185:1.6)
 
 lava | | volcanes | | OK
 
