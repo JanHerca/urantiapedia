@@ -1349,8 +1349,9 @@ escrituras de | Antiguo Testamento
 Jezabel | | | PERSON | OK
 Reina judía de origen fenicio. Jesús oyó hablar de la reina de los judíos de Fenicia y de las hazañas de Acab, Jezabel y Jehú mientras pasaba por lugares históricos en su viaje. (124:6.3) (124:6.3)
 
-Jezreel | | | PLACE | 
-Jesús pasó por esta población (124:6.1,3) (149:0.1)
+Jezreel | | | PLACE | OK
+Jesús pasó por esta población con sus padres en su viaje a Jerusalén, en el año 7 d.C., para su primera celebración de la Pascua allí (124:6.1,3)
+Jesús y los doce apóstoles visitaron Jezreel durante la segunda gira de predicación pública por Galilea, en los meses de octubre a diciembre de 28 d.C. (149:0.1)
 
 Joab | | | PERSON | OK
 El joven evangelista Joab, cabecilla del complot para hacer rey a Jesús, se topó con resistencia y deserción a medida que las multitudes tenían hambre y Jesús se recluía. (152:2.5) (153:5.2) (152:2.5) (153:5.2)
@@ -1384,83 +1385,89 @@ Johab fue el novio de las bodas de Caná, y esposo de Noemí, la novia (137:3.6)
 Juan Hircano | | | PERSON | OK
 Juan Hircano destruyó el templo samaritano en el monte Gerizim, alimentando aún más la enemistad religiosa entre judíos y samaritanos. (143:4.2)
 
-Juan Marcos | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | 
-se acercó a Jesús con una canasta pequeña (177:0.4)
-asociado con Pedro; más tarde, Pablo (121:8.3)
-en las apariciones de Jesús (192:1.2,4)
-chico de todas las tareas (152:2.5)
-muerte del padre (192:4.5)
-deseo del corazón no negado (176:1.2-3)
-no tenía ideas estrictas sobre el divorcio (140:8.14)
-pescado vestido para Jesús resucitado (192:1.8)
-escapó desnudo del soldado (183:3.9-10)
-Evangelio de Marcos
-	base de todas las narrativas evangélicas posteriores; cambiado (121:8.3)
-	completado en 68 d.C. es realmente el Evangelio de Pedro (121:8.3)
-	incluido apócrifo de Selta (176:2.8)
-	La evitación de Jesús de escribir con retraso (121:0.1) (121:8.3)
-	dejó fuera parte de la visión nocturna de Pedro (152:4.4)
-	Lucas tenía copia de (121:8.9)
-	retiene algo del Jesús humano (196:2.3)
-tenía panes y peces que alimentaban a los 5000 (152:2.7)
-escondido en un cobertizo junto a la prensa de aceite (183:0.3)
-apóstoles unidos (192:0.4)
-mantuvo a los apóstoles en contacto (191:0.3)
-sabía que Judas tenía la intención de traicionar a Jesús (182:2.1,9)
-La Última Cena fue en la cámara alta de la casa de los padres de Juan Marcos (178:2.8-9) (179:1.1-2)
-localizó a Tomás en Betfagé (191:0.13)
-escuché todo lo que sucedió en Getsemaní (177:1.6) (182:0.1) (182:2.10-12)
-los padres fueron Elías y María Marcos (182:0.1)
-día de descanso con Jesús (177:1-2)
-caminó alrededor del lago con Jesús (152:5.1)
+Juan Marcos | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | OK
+El muchacho Marcos, el encargado de todas las tareas, se hizo cargo de la provisión de alimentos para tres días que Felipe proveyó para Jesús y los doce, mientras las provisiones de la multitud menguaban y corrían rumores acerca de que Jesús sería coronado rey. (152:2.5)
+Juan Marcos estuvo presente durante el prodigio de Jesús al alimentar a 5000 personas. Andrés buscó al muchacho y vio que al chico sólo le quedaban cinco panes y dos pescados en su cesta (152:2.7)
+Juan Marcos era hijo de Elías y María Marcos y siguió fielmente a Jesús durante sus últimas horas fatídicas, siendo testigo de todo, desde la casa de sus padres hasta la hora de la crucifixión. (182:0.1)
+Los últimos días con Jesús
+	Juan Marcos se acercó a Jesús con una pequeña canasta, ofreciéndole comida y agua para su viaje mientras David y sus guardias armados se retiraban. (177:0.4)
+	El deseo del corazón de Juan Marcos no fue negado, y puesto que deseaba estar junto al Maestro, éste le concedió este deseo durante todo un día, mostrando para siempre la buena voluntad del Creador para fraternizar con sus criaturas. (177:1.2-3)
+	Juan Marcos pasó un día de descanso con Jesús en las colinas de Judea, experimentando el éxtasis inolvidable de estar a solas con Dios. (177:1-2)
+	La Última Cena tuvo lugar en el aposento alto de la casa de los padres de Juan Marcos, donde Jesús y los apóstoles se reunieron después de un acuerdo secreto para evitar que Judas interrumpiera su comida. (178:2.8-9) (179:1.1-2)
+	Juan Marcos sabía que Judas tenía la intención de traicionar a Jesús, lo que sorprendió a los apóstoles que no estaban al tanto de la inminente traición hasta que David Zebedeo y Juan Marcos revelaron sus observaciones a Jesús. (182:2.1,9)
+	Juan Marcos, siempre cerca de Jesús, escuchó todo lo que sucedió en Getsemaní. (177:1.6) (182:0.1) (182:2.10-12)
+	Juan Marcos se escondió en el cobertizo junto al lagar para evitar ser arrestado con Jesús. (183:0.3)
+	Juan Marcos escapó desnudo del soldado y huyó para advertir a los apóstoles que estaban dormidos de la traición y el arresto del Maestro. (183:3.9-10)
+	Juan Marcos preparó pescado para el Jesús resucitado en el desayuno con los apóstoles junto al lago. (192:1.8)
+	Los esfuerzos de Juan Marcos por mantener a los apóstoles en contacto con los acontecimientos del templo y los rumores de la ciudad no se extendieron a la recopilación de noticias de varios grupos de creyentes. (191:0.3)
+	Juan Marcos localizó a Tomás en la casa de Simón en Betfagé, asegurándose de que estaría presente para la primera aparición morontial del Maestro a los apóstoles. (191:0.13)
+	En las apariciones de Jesús, Juan Marcos dio la bienvenida a los apóstoles que habían vuelto con su pesca y reconoció al Jesús resucitado. (192:1.2,4)
+	Juan Marcos caminó alrededor del lago con Jesús. (152:5.1)
+	El triste regreso de Juan Marcos a casa estuvo marcado por la muerte repentina de su padre, Elías Marcos, justo antes de su llegada. (192:4.5)
+	Juan Marcos se unió con confianza a los apóstoles en su viaje a Galilea, siguiéndolos fuera de la ciudad más allá de Betania, sintiéndose seguro de que no lo rechazarían. (192:0.4)
+El Evangelio de Marcos
+	El Evangelio de Marcos, modificado por petición de la Iglesia, es la base de las narraciones evangélicas posteriores. (121:8.3)
+	Juan Marcos, asociado con Pedro, más tarde Pablo, escribió el Evangelio más antiguo, breve y sencillo según Simón Pedro. (121:8.3)
+	Juan Marcos completó el Evangelio atribuido a Pedro en el año 68 d. C., basándose en sus propios recuerdos y los de Pedro sobre la vida y las enseñanzas de Jesús. (121:8.3)
+	La inclusión de los apócrifos de Selta condujo a confusión y desacuerdo entre los apóstoles con respecto a las enseñanzas de Jesús sobre la destrucción de Jerusalén y su segunda venida en el Monte de los Olivos. (176:2.8)
+	La decisión de Jesús de no escribir retrasó la narración sencilla de su vida de Juan Marcos. (121:0.1) (121:8.3)
+	La familia tenía una importancia central en las enseñanzas de Jesús, aunque no se adhirió a creencias estrictas sobre el divorcio, en contraste con otros escritores del Nuevo Testamento, incluido Juan Marcos. (140:8.14)
+	Juan Marcos omitió parte de la visión nocturna de Pedro en su narración, ya que Pedro no consiguió convencerle de que ocurriera en realidad. (152:4.4)
+	Lucas compiló su Evangelio utilizando las historias de Pablo, los relatos de testigos oculares, el Evangelio de Marcos, la narración de Isador, el registro de Cedes del año 78 d. C. y las notas del apóstol Andrés. (121:8.9)
+	Juan Marcos presenta una perspectiva equilibrada de la naturaleza humana y divina de Jesús. (196:2.3)
 
-Juan el Bautista | (135) | | PERSON | 
-apóstoles de | apóstoles de Juan el Bautista
-en el bautismo de Jesús (135:8.6)
-bautizó a más de 100.000 penitentes en 15 meses (135:6.4)
-decapitado por Herodes (135:12.7)
-nacido en la ciudad de Judá, el 25 de marzo del 7 a.C. (122:2.7) (135:0.1)
-actualmente presidente de 24 consejeros (45:4.17) (114:2.3)
-muerte (135:12) (144:9)
-muerte de la madre Isabel (135:4)
-primo lejano de Jesús; visita a los 5 años (123:3.4) (135:0.3) (45:4.17)
-impresionado con la idea de que iba a ser un líder espiritual (122:2.8)
-Jesús
-	decidió no enseñar simultáneamente con Juan (136:4.1) (144:0.3)
-	no visitó a Juan en la cárcel ni envió un mensaje (135:11) (138:1.5)
-	última visita; mensajes pasados (135:9.9) (135:11.4) (144:8.1-6)
-	se refirió a Juan como Elías (158:2.2)
-	los rumores de Juan llegaron a Jesús (134:9.8)
-	habló favorablemente del mensaje de Juan (135:8.1)
-	les dijo a los apóstoles que cosecharan la siembra de Juan (143:6.1)
-Jesús y Juan decidieron no verse hasta comenzar el servicio público (127:3.11,12)
-concepto de reino de (170:1.3) (170:2.9)
-El mensaje era «arrepiéntete y bautízate» (135:7.3) (136:0.2) (136:1.5) (138:8.8)
-la madre Isabel le aseguró a Juan que Jesús era el Mesías (135:3.3)
-motivo para la reclusión (136:3.3)
-nombrado por Gabriel (122:2.3)
-nunca ordenado por el sanedrín (173:2.6)
-características personales
-	contraste con Jesús (136:0.1)
-	reprimenda elocuente; apenas un ejemplo (135:4.5) (136:0.1)
-	mayor nacido de mujer, pero el que es pequeño en el reino es mayor (136:0.1) (144:8.4)
-	predicador heroico pero sin tacto (135:6.7)
-	en prisión, Juan a menudo se sentía tentado a dudar de Jesús (135:11.1)
-	sin hermanos o hermanas (135:0.4)
-	más de 6 pies de altura, cabello suelto, vestido como Elías, incondicional y pintoresco hijo de la naturaleza (135:1.4) (135:4.5) (135:6.3)
-	entristecido por la pérdida de Andrés y Pedro (137:1.3,8)
-	Zacarías era padre (122:2)
-oración de (144:2.1) (144:3.9)
-presentó rebaño a los nazareos (135:4.2)
-profecía sobre Jesús (135:11.2-3)
-el rabino Nacor ofreció educación en Jerusalén para (123:6.8)
-se negó a aceptar la asignación del sacerdote del templo (135:2.3)
-se negó a dejar de predicar si Herodes lo soltaba (135:12.2)
-religión de arrepentimiento, autoexamen y abnegación (135:3.4) (135:4.2) (143:2.2)
-el remanente de creyentes en Juan persiste en Mesopotamia (137:2.2)
-Tarde o temprano surgirá una Juan el Bautista mayor (170:5.19)
-parábola atronadora de Lázaro y Dives (169:3)
-visto como un profeta (135:6.2) (135:12.2) (173:2.4-5)
+Juan el Bautista; Juan Bautista; Juan | (135) | | PERSON | OK
+nacimiento
+	El padre de Juan el Bautista, Zacarías, era miembro del sacerdocio judío, mientras que su madre, Isabel, estaba emparentada con María y recibió una visita divina que predijo la llegada de un hijo que prepararía el camino para el Mesías. (122:2)
+	Juan, nombrado por Gabriel, será el precursor del maestro divino y convertirá muchas almas a Dios. (122:2.3)
+	Juan el Bautista nació en la ciudad de Judá el 25 de marzo del año 7 a.C., cumpliendo la promesa que Gabriel le había hecho a Isabel el año anterior. (122:2.7) (135:0.1)
+	A pesar de la confusión causada por lo que oyó de sus padres y leyó en las Escrituras, la madre de Juan, Isabel, le aseguró que Jesús era el verdadero Mesías. (135:3.3)
+educación
+	Juan el Bautista recibió instrucción en Jerusalén del rabino Nacor, quien había recomendado que Jesús fuera educado en la misma ciudad. (123:6.8)
+	Jesús nunca buscó la aprobación de Juan, ya que nunca fue ordenado por el Sanedrín, sino que confió en su propia autoridad y en la supremacía eterna de su Padre. (173:2.6)
+	Juan e Isabel perdieron su hogar cuando él rechazó la asignación del sacerdote, lo que los obligó a mudarse al sur con el rebaño de ovejas, a Hebrón. (135:2.3)
+	Desde la infancia, Juan estuvo impresionado con la idea de que debía ser un líder espiritual. (122:2.8)
+	Tras la muerte de su madre Isabel, Juan el Bautista, de veintiocho años, comenzó su poderoso ministerio como heraldo del Mesías. (135:4)
+Enseñanzas
+	El concepto del reino de Juan el Bautista sentó las bases para la idea ampliada del reino enseñada por Jesús. (170:1.3) (170:2.9)
+	El mensaje críptico inicial de Juan fue: «Arrepentíos y bautizaos», pero más tarde amplió sus enseñanzas para incluir las buenas nuevas del gozo y la libertad del nuevo reino. (135:7.3) (136:0.2) (136:1.5) (138:8.8)
+	Juan enseñó una oración sencilla para que sirviera de guía a los demás, pero no como una fórmula rígida para la expresión personal en la oración. (144:2.1) (144:3.9)
+	Juan presentó su rebaño a los nazareos. (135:4.2)
+	Juan reconoció la profecía acerca de Jesús y declaró: "Es necesario que él crezca, pero que yo mengüe". (135:11.2-3)
+	Juan repitió la parábola de Lázaro y Dives como advertencia contra el amor a las riquezas y la codicia deshonesta. (169:3)
+	Juan bautizó a más de 100.000 penitentes en 15 meses para la remisión de los pecados, una práctica nueva y única entre los judíos. (135:6.4)
+	Juan predicó una religión de arrepentimiento, autoexamen y abnegación, creyendo que el fin de los tiempos era inminente y que el reino de los cielos estaba cerca. (135:3.4) (135:4.2) (143:2.2)
+	sobre los apóstoles de Juan ver el enlace a continuación | apóstoles de Juan el Bautista
+Jesús y Juan
+	Antes de que Jesús cumpliera seis años en el año 1 a. C., Juan el Bautista visitó a Jesús y pasaron un rato alegre jugando juntos. (123:3.4) (135:0.3) (45:4.17)
+	La decisión de Jesús y Juan de esperar hasta comenzar su servicio público condujo a una separación que profundizó su compromiso con sus respectivos llamamientos. (127:3.11,12)
+	Rumores acerca de Juan llegaron a oídos de Jesús mientras predicaba y bautizaba en el Jordán, lo que condujo a que finalmente se encontraran en Capernaúm. (134:9.8)
+	Cuando Juan bautizó a Jesús, un sonido extraño y una voz de arriba confirmaron que Jesús era el Hijo amado de Dios. (135:8.6)
+	El motivo de la reclusión de Jesús no era el ayuno ni el ascetismo, sino comprender claramente sus relaciones y planificar sus futuras labores públicas. (136:3.3)
+	Juan se entristeció por la pérdida de Andrés y Pedro en favor de Jesús, pero valientemente reconoció su partida como el comienzo de una nueva era. (137:1.3,8)
+	Jesús, en las colinas, planeó su autootorgamiento en Urantia, evitando deliberadamente enseñar junto a Juan para protegerlo de un daño potencial. (136:4.1) (144:0.3)
+	Herodes mantuvo a Juan en prisión porque temía una rebelión si lo liberaban y temía un motín si lo condenaban a muerte, debido a la creencia de que era un hombre santo. (135:12.2)
+	A pesar de estar en prisión y sentirse abandonado, la fe y la lealtad de Juan hacia Jesús se mantuvieron firmes, aun cuando anhelaba una visita o una palabra del Hijo del Hombre. (135:11) (138:1.5)
+	Juan recibió el último mensaje de consuelo y guía de Jesús antes de que se separaran después de su último encuentro en las orillas del Jordán. (135:9.9) (135:11.4) (144:8.1-6)
+	Jesús identificó a Juan el Bautista como Elías, lo que hizo que Pedro temiera la desagradable idea de la muerte del Maestro y dio pie a una conversación divertida sobre la creencia de los escribas en que Elías precedió al Mesías. (158:2.2)
+	Las palabras favorables de Jesús sobre el mensaje de Juan llevaron a muchos de Capernaúm a unirse a su culto de arrepentimiento y bautismo a medida que su fama se extendía por toda Palestina. (135:8.1)
+	Jesús dio instrucciones a los apóstoles para que cosecharan la cosecha sembrada por Juan el Bautista. (143:6.1)
+Características personales
+	Jesús comenzó su ministerio durante el apogeo de la popularidad de Juan el Bautista, lo que revela un marcado contraste en su enfoque y su impacto en la gente. (136:0.1)
+	Juan, poco culto pero pensador claro y orador poderoso, fue un reproche elocuente más que un ejemplo, en contraste con el trabajador tranquilo y feliz Jesús. (135:4.5) (136:0.1)
+	Juan fue considerado el más grande nacido de mujer, pero en el reino de los cielos, hasta el más pequeño es mayor. (136:0.1) (144:8.4)
+	Juan, un predicador heroico pero sin tacto, advirtió a los fariseos y saduceos que dieran fruto digno de arrepentimiento sincero antes de bautizarlos. (135:6.7)
+	A pesar de estar en prisión, Juan a menudo se sintió tentado a dudar de la misión divina de Jesús, enfrentándose a una gran prueba de fe durante un año y medio. (135:11.1)
+	Los padres de Juan, que eran muy instruidos y descendían del sacerdocio, se concentraron extensamente en su entrenamiento mental y espiritual debido a que era hijo único. (135:0.4)
+	Juan, de más de 1,80 metros de altura con cabello suelto, vestido como Elías, un niño valiente y pintoresco de la naturaleza, tronaba sus admoniciones con el espíritu y el poder de Elías. (135:1.4) (135:4.5) (135:6.3)
+Muerte
+	Juan el Bautista murió en prisión en la fortaleza de Maqueronte después de ser decapitado por Herodes Antipas en la tarde del 10 de enero del 28 d.C. (135:12) (144:9)
+	Fue decapitado por Herodes con temor y tristeza, honrando su juramento y a los invitados. (135:12.7)
+Después de la muerte y situación actual
+	A pesar de la división que siguió al pronunciamiento de Juan acerca de Jesús, un resto de creyentes en Juan persiste en Mesopotamia. (137:2.2)
+	Juan el Bautista, considerado un profeta, conmovió las almas de los judíos cansados ​​y expectantes con su mensaje del reino de los cielos. (135:6.2) (135:12.2) (173:2.4-5)
+	Juan el Bautista es actualmente presidente de los 24 consejeros en Jerusem, actuando como precursor de la misión de Miguel en Urantia y primo lejano del Hijo del Hombre. (45:4.17) (114:2.3)
+	Surgirá otro Juan el Bautista más grande, anunciando la inminente llegada del reino de Dios y encarnando las verdaderas enseñanzas de Jesús, libre de las restricciones de la religión institucionalizada y de las predicciones apocalípticas. (170:5.19)
 
 Juan el revelador | | Juan Zebedeo | PERSON | OK
 
@@ -1534,10 +1541,10 @@ visiones de
 bien conocido por los sirvientes mayores de Anás (184:0.3)
 el apóstol más joven, soltero, de Cafarnaúm; 24 en el año 26 d.C. (139:4.1) (181:2.2)
 
-Jonás | (159:4.4) | | PERSON | 
-El discurso de Jesús sobre (130:1)
+Jonás | (159:4.4) | | PERSON | OK
+El discurso de Jesús sobre la importancia de buscar la verdad y vivir conforme a la voluntad de Dios trajo gran iluminación a Gadías durante su estancia en Jope. (130:1)
 
-Jope | | puertos | PLACE | 
+Jope | | puertos | PLACE | OK
 Jesús visitó Jope varias veces durante sus viajes por Palestina. (123:0,4) (128:3,2) (130:0,2) (130:1) (134:7,4) (152:7,3)
 
 río Jordan; Jordán | | | PLACE | OK

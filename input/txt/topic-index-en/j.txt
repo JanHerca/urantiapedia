@@ -1349,8 +1349,9 @@ scriptures of | Old Testament
 Jezebel | | | PERSON | OK
 Jewish queen of Phoenician origin. Jesus heard of the Queen of Jews from Phoenicia and the deeds of Ahab, Jezebel, and Jehu while passing through historic locations on his journey. (124:6.3)
 
-Jezreel | | | PLACE | 
-Jesus passed (124:6.1,3) (149:0.1)
+Jezreel | | | PLACE | OK
+Jesus passed through this town with his parents on his journey to Jerusalem in A.D. 7 for his first Passover celebration there (124:6.1,3)
+Jesus and the twelve apostles visited Jezreel during the second public preaching tour of Galilee, in the months of October-December, A.D. 28 (149:0.1)
 
 Joab | | | PERSON | OK
 The young evangelist Joab, ringleader of the plot to make Jesus king, was met with resistance and desertion as the crowds grew hungry and Jesus secluded himself. (152:2.5) (153:5.2) (152:2.5) (153:5.2)
@@ -1384,83 +1385,89 @@ Johab was the groom at the wedding in Cana, and husband of Naomi, the bride. (13
 John Hyrcanus | | | PERSON | OK
 John Hyrcanus destroyed the Samaritan temple on Mount Gerizim, further fueling the religious enmity between the Jews and the Samaritans. (143:4.2)
 
-John Mark | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | 
-approached Jesus with small basket (177:0.4)
-associated with Peter; later, Paul (121:8.3)
-at Jesus’ appearances (192:1.2,4)
-boy of all chores (152:2.5)
-death of father (192:4.5)
-desire of heart not denied (176:1.2-3)
-did not hold stringent ideas about divorce (140:8.14)
-dressed fish for resurrected Jesus (192:1.8)
-escaped from soldier naked (183:3.9-10)
+John Mark | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | OK
+The Mark lad, their boy of all chores, held custody of the three days' supply of food Philip provided for Jesus and the twelve, as the crowd's provisions dwindled and rumors swirled about Jesus being crowned king. (152:2.5)
+John Mark was present during Jesus' miracle of feeding 5,000 people. Andrew looked for the boy and saw that the boy only had five loaves and two fish left in his basket. (152:2.7)
+John Mark was the son of Elijah and Mary Mark and faithfully followed Jesus during his final fateful hours, witnessing everything from his parents' home to the hour of the crucifixion. (182:0.1)
+the last days with Jesus
+	John Mark approached Jesus with a small basket, offering food and water for his journey as David and his armed guards withdrew. (177:0.4)
+	John Mark's heart's desire was not denied, and since he desired to be with the Master, the Master granted him this wish for a whole day, forever showing the Creator's willingness to fraternize with his creatures. (177:1.2-3)
+	John Mark spent a rest day with Jesus in the hills of Judea, experiencing the unforgettable ecstasy of being alone with God. (177:1-2)
+	The Last Supper took place in the upper chamber of John Mark's parents' home, where Jesus and the apostles gathered after a secret arrangement to prevent Judas from disrupting their meal. (178:2.8-9) (179:1.1-2)
+	John Mark knew Judas intended to betray Jesus, shocking the apostles who were unaware of the impending betrayal until David Zebedee and John Mark revealed their observations to Jesus. (182:2.1,9)
+	John Mark, always near Jesus, overheard all that transpired in Gethsemane. (177:1.6) (182:0.1) (182:2.10-12)
+	John Mark hid in the shed by the olive press to avoid being arrested with Jesus. (183:0.3)
+	John Mark escaped from the soldier naked, fleeing to warn the sleeping apostles of the Master's betrayal and arrest. (183:3.9-10)
+	John Mark dressed fish for the resurrected Jesus at breakfast with the apostles by the lake. (192:1.8)
+	John Mark's efforts to keep the apostles in touch with temple developments and city rumors did not extend to gathering news from various believer groups. (191:0.3)
+	John Mark located Thomas at the home of Simon in Bethpage, ensuring he would be present for the Master's first morontia appearance to the apostles. (191:0.13)
+	At Jesus' appearances, John Mark welcomed the apostles back with their catch and recognized the risen Jesus. (192:1.2,4)
+	John Mark walked around the lake with Jesus. (152:5.1)
+	John Mark's sad homecoming was marked by the sudden death of his father, Elijah Mark, just before his arrival. (192:4.5)
+	John Mark confidently joined the apostles on their journey to Galilee, following them out of the city beyond Bethany, feeling assured they would not reject him. (192:0.4)
 Gospel of Mark
-	basis of all subsequent Gospel narratives; changed (121:8.3)
-	completed in A.D. 68; is really Gospel by Peter (121:8.3)
-	included Selta apocrypha (176:2.8)
-	Jesus’ avoidance of writing delayed (121:0.1) (121:8.3)
-	left out part of Peter’s night vision (152:4.4)
-	Luke had copy of (121:8.9)
-	retains something of human Jesus (196:2.3)
-had loaves and fishes which fed the 5000 (152:2.7)
-hid in shed by olive press (183:0.3)
-joined apostles (192:0.4)
-kept apostles in touch (191:0.3)
-knew Judas intended to betray Jesus (182:2.1,9)
-Last Supper was in upper chamber of parents’ home (178:2.8-9) (179:1.1-2)
-located Thomas in Bethphage (191:0.13)
-overheard all that transpired in Gethsemane (177:1.6) (182:0.1) (182:2.10-12)
-parents were Elijah and Mary Mark (182:0.1)
-rest day with Jesus (177:1-2)
-walked around lake with Jesus (152:5.1)
+	The Gospel by Mark, changed by church petition, is the basis of subsequent Gospel narratives. (121:8.3)
+	John Mark, associated with Peter, later Paul, wrote the earliest, briefest, and most simple Gospel according to Simon Peter. (121:8.3)
+	John Mark completed the Gospel attributed to Peter in A.D. 68, based on his own and Peter's memories of Jesus' life and teachings. (121:8.3)
+	The inclusion of Selta apocrypha led to confusion and disagreement among the apostles regarding Jesus's teachings on the destruction of Jerusalem and his second coming on the Mount of Olives. (176:2.8)
+	Jesus' avoidance of writing delayed John Mark's simple narrative of his life. (121:0.1) (121:8.3)
+	Family held central importance in Jesus' teachings, even though he did not adhere to strict beliefs on divorce, contrasting with other New Testament writers, including John Mark. (140:8.14)
+	John Mark omitted part of Peter's night vision from his account because Peter was unable to convince him that it actually occurred. (152:4.4)
+	Luke compiled his Gospel using Paul's stories, eyewitness accounts, Mark's Gospel, Isador's narrative, Cedes' record from A.D. 78, and the Apostle Andrew's notes. (121:8.9)
+	John Mark portrays a balanced perspective of the human and divine nature of Jesus. (196:2.3)
 
-John the Baptist | (135) | | PERSON | 
-apostles of | apostles of John the Baptist
-at baptism of Jesus (135:8.6)
-baptized over 100,000 penitents in 15 months (135:6.4)
-beheaded by Herod (135:12.7)
-born in City of Judah, March 25, 7 B.C. (122:2.7) (135:0.1)
-currently chairman of 24 counselors (45:4.17) (114:2.3)
-death (135:12) (144:9)
-death of mother Elizabeth (135:4)
-distant cousin of Jesus; visit at age 5 (123:3.4) (135:0.3) (45:4.17)
-impressed with idea he was to be a spiritual leader (122:2.8)
-Jesus
-	decided not to teach contemporaneously with John (136:4.1) (144:0.3)
-	did not visit John in prison or send word (135:11) (138:1.5)
-	last visit; messages passed (135:9.9) (135:11.4) (144:8.1-6)
-	referred to John as Elijah (158:2.2)
-	rumors of John reached Jesus (134:9.8)
-	spoke favorably of John’s message (135:8.1)
-	told apostles to reap the sowing of John (143:6.1)
-Jesus and John decided not to see each other until beginning public service (127:3.11,12)
-kingdom concept of (170:1.3) (170:2.9)
-message was “repent and be baptized” (135:7.3) (136:0.2) (136:1.5) (138:8.8)
-mother Elizabeth assured John that Jesus was Messiah (135:3.3)
-motive for seclusion (136:3.3)
-named by Gabriel (122:2.3)
-never ordained by Sanhedrin (173:2.6)
+John the Baptist; John | (135) | | PERSON | OK
+birth
+	John the Baptist's father, Zacharias, was a member of the Jewish priesthood, while his mother, Elizabeth, was related to Mary and received a divine visitation foretelling the coming of a son who would prepare the way for the Messiah. (122:2)
+	John, named by Gabriel, will be the forerunner of the divine teacher and will turn many souls to God. (122:2.3)
+	John the Baptist was born in the City of Judah on March 25, 7 B.C., fulfilling the promise Gabriel had made to Elizabeth the year before. (122:2.7) (135:0.1)
+	Despite the confusion caused by what he heard from his parents and read in the Scriptures, John's mother Elizabeth assured him that Jesus was the true Messiah. (135:3.3)
+education
+	John the Baptist received Jerusalem schooling from rabbi Nahor, who had recommended Jesus to be educated in the same city. (123:6.8)
+	Jesus never sought John the  approval as he was never ordained by the Sanhedrin, relying instead on his own authority and his Father's eternal supremacy. (173:2.6)
+	John and Elizabeth lost their home when he rejected the priest's allowance, leading them to move south with the sheep herd to Hebron. (135:2.3)
+	John was from infancy impressed with the idea he was to be a spiritual leader. (122:2.8)
+	Upon the death of his mother Elizabeth, twenty-eight-year-old John the Baptist began his powerful ministry as the herald of the Messiah. (135:4)
+teachings
+	John kingdom concept laid the groundwork for the expanded idea of the kingdom taught by Jesus. (170:1.3) (170:2.9)
+	John early cryptic message was "Repent and be baptized", but he later expanded his teachings to include the good tidings of the joy and liberty of the new kingdom. (135:7.3) (136:0.2) (136:1.5) (138:8.8)
+	John the Baptist taught a simple prayer to be a guide for others, but not as a rigid formula for personal expression in prayer. (144:2.1) (144:3.9)
+	John presented his flock to the Nazarites. (135:4.2)
+	John acknowledged the prophecy regarding Jesus and declared, “He must increase but I must decrease.” (135:11.2-3)
+	John thundered the parable of Lazarus and Dives as a warning against loving riches and coveting dishonest wealth. (169:3)
+	John baptized over 100,000 penitents in 15 months for the remission of sins, a new and unique practice among the Jews. (135:6.4)
+	John preached a religion of repentance, self-examination, and self-denial, believing the end of the age was imminent and the kingdom of heaven was at hand. (135:3.4) (135:4.2) (143:2.2)
+	about the apostles of John see link below | apostles of John the Baptist
+Jesus and John
+	Before his sixth birthday in 1 B.C., John the Baptist visited Jesus and had a joyful time playing together. (123:3.4) (135:0.3) (45:4.17)
+	Jesus and John's decision to wait until beginning public service led to a separation that deepened their commitment to their respective callings. (127:3.11,12)
+	Rumors of John reached Jesus as he preached and baptized in the Jordan, leading to their eventual meeting in Capernaum. (134:9.8)
+	At Jesus' baptism by John, a strange sound and a voice from above confirmed Jesus as the beloved Son of God. (135:8.6)
+	Jesus' motive for seclusion was not for fasting or asceticism, but to clearly comprehend his relationships and plan his future public labors. (136:3.3)
+	John was saddened by the loss of Andrew and Peter in favor of Jesus, but bravely acknowledged their departure as the beginning of a new era. (137:1.3,8)
+	Jesus, in the hills, planned his Urantia bestowal, purposefully avoiding teaching alongside John to protect him from potential harm. (136:4.1) (144:0.3)
+	Herod kept John in prison because he feared rebellion if released and feared riot if put to death, due to the belief that he was a holy man. (135:12.2)
+	Despite being in prison and feeling abandoned, John's faith and loyalty to Jesus remained steadfast, even as he longed for a visit or word from the Son of Man. (135:11) (138:1.5)
+	John received Jesus' last message of comfort and guidance before they parted ways after their last meeting on the banks of the Jordan. (135:9.9) (135:11.4) (144:8.1-6)
+	Jesus identified John the Baptist as Elijah, causing Peter to fear the unpleasant idea of the Master's death and prompting a diverting conversation about the scribes' belief in Elijah preceding the Messiah. (158:2.2)
+	Jesus' favorable words about John's message led many from Capernaum to join his cult of repentance and baptism as his fame spread throughout all Palestine. (135:8.1)
+	The apostles were instructed by Jesus to reap the harvest sown by John the Baptist. (143:6.1)
 personal characteristics
-	contrast with Jesus (136:0.1)
-	eloquent rebuke; hardly an example (135:4.5) (136:0.1)
-	greatest born of women, but he who is small in kingdom is greater (136:0.1) (144:8.4)
-	heroic but tactless preacher (135:6.7)
-	in prison, John often tempted to doubt Jesus (135:11.1)
-	no brothers or sisters (135:0.4)
-	over 6 feet tall, flowing hair, dressed like Elijah, stalwart, picturesque child of nature (135:1.4) (135:4.5) (135:6.3)
-	saddened by loss of Andrew and Peter (137:1.3,8)
-	Zacharias was father (122:2)
-prayer of (144:2.1) (144:3.9)
-presented flock to Nazarites (135:4.2)
-prophecy regarding Jesus (135:11.2-3)
-rabbi Nahor offered Jerusalem schooling for (123:6.8)
-refused to accept priest’s allotment from temple (135:2.3)
-refused to quit preaching if released by Herod (135:12.2)
-religion of repentance, self-examination, and self-denial (135:3.4) (135:4.2) (143:2.2)
-remnant of believers in John persists in Mesopotamia (137:2.2)
-sooner or later a greater John is to arise (170:5.19)
-thundered parable of Lazarus and Dives (169:3)
-viewed as a prophet (135:6.2) (135:12.2) (173:2.4-5)
+	Jesus started his ministry during the peak of John the Baptist's popularity, revealing a stark contrast in their approach and impact on people. (136:0.1)
+	John, hardly cultured but a clear thinker and powerful speaker, was an eloquent rebuke rather than an example, in contrast to the calm and happy laborer Jesus. (135:4.5) (136:0.1)
+	John was deemed the greatest born of women, but in the kingdom of heaven, even the smallest is greater. (136:0.1) (144:8.4)
+	John, a heroic but tactless preacher, warned the Pharisees and Sadducees to bring forth worthy fruit of sincere repentance before baptizing them. (135:6.7)
+	Despite being in prison, John often tempted to doubt Jesus' divine mission, facing a great test of faith over a year and a half. (135:11.1)
+	John's parents, being well educated and descended from the priesthood, focused extensively on his mental and spiritual training due to him being an only child. (135:0.4)
+	John, over 6 feet tall with flowing hair, dressed like Elijah, a stalwart and picturesque child of nature, thundered his admonitions in the spirit and power of Elijah. (135:1.4) (135:4.5) (135:6.3)
+death
+	John the Baptist died in prison at the fortress of Machaerus after being beheaded by Herod Antipas on the evening of January 10, A.D. 28. (135:12) (144:9)
+	He was beheaded by Herod in fear and sorrow, honoring his oath and the guests. (135:12.7)
+after death and current status
+	Despite the division following John's pronouncement about Jesus, a remnant of believers in John persists in Mesopotamia. (137:2.2)
+	John the Baptist, viewed as a prophet, stirred the souls of weary and expectant Jews with his message of the kingdom of heaven. (135:6.2) (135:12.2) (173:2.4-5)
+	John the Baptist is currently chairman of 24 counselors on Jerusem, acting as the forerunner of Michael’s mission on Urantia and the distant cousin of the Son of Man. (45:4.17) (114:2.3)
+	Another and greater John the Baptist will arise, heralding the imminent arrival of the kingdom of God and embodying the true teachings of Jesus, free from the constraints of institutionalized religion and apocalyptic predictions. (170:5.19)
 
 John the Revelator | | John Zebedee | PERSON | OK
 
@@ -1534,10 +1541,10 @@ visions of
 well known to Annas’s older servants (184:0.3)
 youngest apostle, unmarried, from Capernaum; 24 in A.D. 26 (139:4.1) (181:2.2)
 
-Jonah | (159:4.4) | | PERSON | 
-Jesus’ discourse on (130:1)
+Jonah | (159:4.4) | | PERSON | OK
+Jesus' discourse on the importance of seeking truth and living in accordance with the will of God brought great enlightenment to Gadiah during their time in Joppa. (130:1)
 
-Joppa | | harbors | PLACE | 
+Joppa | | harbors | PLACE | OK
 Jesus visited Joppa several times during his journeys throughout Palestine. (123:0.4) (128:3.2) (130:0.2) (130:1) (134:7.4) (152:7.3)
 
 Jordan River; Jordan | | | PLACE | OK

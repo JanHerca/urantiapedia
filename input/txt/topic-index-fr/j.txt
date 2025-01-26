@@ -1349,8 +1349,9 @@ la religion était austère et tyrannique (98:3.2)
 Jézabel | | | PERSON | OK
 Reine juive d'origine phénicienne. Jésus entendit parler de la reine des Juifs de Phénicie et des actes d'Achab, de Jézabel et de Jéhu alors qu'il traversait des lieux historiques au cours de son voyage. (124:6.3)
 
-Jizréel | | | PLACE |
-Jésus est décédé (124:6.1,3) (149:0.1)
+Jizréel | | | PLACE | OK
+Jésus est passé par cette ville avec ses parents lors de leur voyage vers Jérusalem en l'an 7 pour y célébrer sa première Pâque (124:6.1,3).
+Jésus et les douze apôtres visitèrent Jizreel lors de la deuxième tournée de prédication publique en Galilée, au cours des mois d'octobre à décembre 28 après J.-C. (149:0.1)
 
 Joab | | | PERSON | OK
 Le jeune évangéliste Joab, chef du complot visant à faire de Jésus un roi, se heurta à la résistance et à la désertion alors que la foule avait faim et que Jésus s'isolait. (152:2.5) (153:5.2) (152:2.5) (153:5.2)
@@ -1384,83 +1385,89 @@ Johab était l'époux aux noces de Cana, et l'époux de Naomi, l'épouse. (137:3
 Jean Hyrkan | | | PERSON | OK
 Jean Hyrcan détruisit le temple samaritain sur le mont Garizim, alimentant encore davantage l’inimitié religieuse entre les Juifs et les Samaritains. (143:4.2)
 
-Jean Marc | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON |
-s'est approché de Jésus avec un petit panier (177:0.4)
-associé à Pierre; plus tard, à Paul (121:8.3)
-aux apparitions de Jésus (192:1.2,4)
-garçon de toutes les corvées (152:2.5)
-mort du père (192:4.5)
-le désir du cœur n'est pas nié (176:1.2-3)
-n'avait pas d'idées strictes sur le divorce (140:8.14)
-poisson habillé pour Jésus ressuscité (192:1.8)
-s'est échappé nu du soldat (183:3.9-10)
-Évangile de Marc
-	base de tous les récits évangéliques ultérieurs; modifié (121:8.3)
-	achevé en 68 après J.-C.; il s'agit en réalité de l'Évangile de Pierre (121:8.3)
-	inclus Selta apocrypha (176:2.8)
-	Jésus a retardé son évitement d'écrire (121:0.1) (121:8.3)
-	a laissé de côté une partie de la vision nocturne de Pierre (152:4.4)
-	Luc avait une copie de (121:8.9)
-	conserve quelque chose du Jésus humain (196:2.3)
-avait des pains et des poissons qui nourrissaient les 5000 (152:2.7)
-caché dans un hangar près du pressoir à olives (183:0.3)
-rejoint les apôtres (192:0.4)
-a gardé les apôtres en contact (191:0.3)
-savait que Judas avait l'intention de trahir Jésus (182:2.1,9)
-La dernière Cène a eu lieu dans la chambre haute de la maison des parents (178:2.8-9) (179:1.1-2)
-situé Thomas à Bethphagé (191:0.13)
-entendu tout ce qui s'est passé à Gethsémané (177:1.6) (182:0.1) (182:2.10-12)
-les parents étaient Élie et Marie Marc (182:0.1)
-jour de repos avec Jésus (177:1-2)
-marchait autour du lac avec Jésus (152:5.1)
+Jean Marc | (152:3.3) (176:2.9) (178:3.6) (188:3.2) (193:6.1) | | PERSON | OK
+Le jeune Marc, leur garçon de toutes les corvées, s’occupa de la nourriture que Philippe avait fournie à Jésus et aux douze pour trois jours, alors que les provisions de la foule diminuaient et que les rumeurs circulaient sur le couronnement de Jésus comme roi. (152:2.5)
+Jean Marc était présent lors du miracle de Jésus qui a nourri 5 000 personnes. André chercha le garçon et vit qu'il ne lui restait que cinq pains et deux poissons dans son panier. (152:2.7)
+Jean Marc était le fils d'Élie et de Marie Marc et il a fidèlement suivi Jésus pendant ses dernières heures fatidiques, témoin de tout, depuis la maison de ses parents jusqu'à l'heure de la crucifixion. (182:0.1)
+les derniers jours avec Jésus
+	Jean Marc s’approcha de Jésus avec un petit panier, lui offrant de la nourriture et de l’eau pour son voyage tandis que David et ses gardes armés se retiraient. (177:0.4)
+	Le désir du cœur de Jean Marc ne fut pas déçu, et comme il désirait être avec le Maître, celui-ci lui accorda ce souhait pendant une journée entière, montrant pour toujours la bonne volonté du Créateur de fraterniser avec ses créatures. (177:1.2-3)
+	Jean Marc passa une journée de repos avec Jésus dans les collines de Judée, faisant l’expérience de l’extase inoubliable d’être seul avec Dieu. (177:1-2)
+	La Cène eut lieu dans la chambre haute de la maison des parents de Jean Marc, où Jésus et les apôtres s’étaient réunis après un arrangement secret pour empêcher Judas de perturber leur repas. (178:2.8-9) (179:1.1-2)
+	Jean Marc savait que Judas avait l’intention de trahir Jésus, ce qui choqua les apôtres qui n’étaient pas au courant de la trahison imminente jusqu’à ce que David Zébédée et Jean Marc révèlent leurs observations à Jésus. (182:2.1,9)
+	Jean Marc, toujours près de Jésus, entendit tout ce qui se passait à Gethsémané. (177:1.6) (182:0.1) (182:2.10-12)
+	Jean Marc se cacha dans le hangar près du pressoir à olives pour éviter d'être arrêté avec Jésus. (183:0.3)
+	Jean Marc s'échappa nu du soldat, fuyant pour avertir les apôtres endormis de la trahison et de l'arrestation du Maître. (183:3.9-10)
+	Jean Marc prépara du poisson pour Jésus ressuscité au petit déjeuner avec les apôtres au bord du lac. (192:1.8)
+	Les efforts de Jean Marc pour tenir les apôtres au courant des développements du temple et des rumeurs de la ville ne s'étendirent pas à la collecte de nouvelles auprès de divers groupes de croyants. (191:0.3)
+	Jean Marc localisa Thomas chez Simon à Bethphagé, s'assurant qu'il serait présent pour la première apparition morontielle du Maître aux apôtres. (191:0.13)
+	Lors des apparitions de Jésus, Jean Marc accueillit les apôtres avec leur prise et reconnut Jésus ressuscité. (192:1.2,4)
+	Jean Marc marcha autour du lac avec Jésus. (152:5.1)
+	Le triste retour de Jean Marc fut marqué par la mort soudaine de son père, Élie Marc, juste avant son arrivée. (192:4.5)
+	Jean Marc rejoignit avec confiance les apôtres lors de leur voyage en Galilée, les suivant hors de la ville au-delà de Béthanie, étant sûr qu'ils ne le rejetteraient pas. (192:0.4)
+L'Évangile de Marc
+	L'Évangile de Marc, modifié par la pétition de l'Église, est la base des récits évangéliques ultérieurs. (121:8.3)
+	Jean Marc, associé à Pierre, plus tard Paul, a écrit le premier, le plus bref et le plus simple Évangile selon Simon Pierre. (121:8.3)
+	Jean Marc a complété l'Évangile attribué à Pierre en 68 après J.-C., en se basant sur ses propres souvenirs et ceux de Pierre de la vie et des enseignements de Jésus. (121:8.3)
+	L'inclusion de Selta apocryphes a conduit à la confusion et au désaccord parmi les apôtres concernant les enseignements de Jésus sur la destruction de Jérusalem et sa seconde venue sur le mont des Oliviers. (176:2.8)
+	Le fait que Jésus ait évité d'écrire a retardé le récit simple de la vie de Jean Marc. (121:0.1) (121:8.3)
+	La famille avait une importance centrale dans les enseignements de Jésus, même s'il n'adhérait pas à des croyances strictes sur le divorce, contrastant avec d'autres auteurs du Nouveau Testament, y compris Jean Marc. (140:8.14)
+	Jean Marc a omis dans son récit une partie de la vision nocturne de Pierre, car Pierre n'a pas pu le convaincre que cela s'était réellement produit. (152:4.4)
+	Luc a compilé son Évangile en utilisant les récits de Paul, les récits de témoins oculaires, l'Évangile de Marc, le récit d'Isador, le récit de Cèdes datant de 78 après J.-C. et les notes de l'apôtre André. (121:8.9)
+	Jean Marc présente une perspective équilibrée de la nature humaine et divine de Jésus. (196:2.3)
 
-Jean le Baptiste | (135) | | PERSON |
-apôtres de | apôtres de Jean-Baptiste
-au baptême de Jésus (135:8.6)
-baptisé plus de 100 000 pénitents en 15 mois (135:6.4)
-décapité par Hérode (135:12.7)
-né à Cité de Juda, le 25 mars 7 av. J.-C. (122:2.7) (135:0.1)
-actuellement président de 24 conseillers (45:4.17) (114:2.3)
-la mort (135:12) (144:9)
-mort de la mère Élisabeth (135:4)
-cousin éloigné de Jésus; visite à l'âge de 5 ans (123:3.4) (135:0.3) (45:4.17)
-impressionné par l'idée qu'il allait devenir un chef spirituel (122:2.8)
-Jésus
-	a décidé de ne pas enseigner en même temps que Jean (136:4.1) (144:0.3)
-	n'a pas rendu visite à Jean en prison ni envoyé de nouvelles (135:11) (138:1.5)
-	dernière visite; messages transmis (135:9.9) (135:11.4) (144:8.1-6)
-	Il a appelé Jean Élie (158:2.2)
-	les rumeurs concernant Jean parvinrent jusqu'à Jésus (134:9.8)
-	a parlé favorablement du message de Jean (135:8.1)
-	a dit aux apôtres de récolter les semailles de Jean (143:6.1)
-Jésus et Jean décidèrent de ne pas se voir jusqu'au début du service public (127:3.11,12)
-concept de royaume de (170:1.3) (170:2.9)
-le message était « repentez-vous et soyez baptisés » (135:7.3) (136:0.2) (136:1.5) (138:8.8)
-la mère Élisabeth a assuré à Jean que Jésus était le Messie (135:3.3)
-motif de l'isolement (136:3.3)
-nommé par Gabriel (122:2.3)
-jamais ordonné par le Sanhédrin (173:2.6)
-caractéristiques personnelles
-	contraste avec Jésus (136:0.1)
-	réprimande éloquente; à peine un exemple (135:4.5) (136:0.1)
-	le plus grand né d'une femme, mais celui qui est petit dans le royaume est plus grand (136:0.1) (144:8.4)
-	prédicateur héroïque mais sans tact (135:6.7)
-	en prison, Jean a souvent été tenté de douter de Jésus (135:11.1)
-	pas de frères ni de sœurs (135:0.4)
-	plus de 1,80 mètre, cheveux flottants, habillé comme Élie, enfant de la nature robuste et pittoresque (135:1.4) (135:4.5) (135:6.3)
-	attristé par la perte d'André et de Pierre (137:1.3,8)
-	Zacharie était père (122:2)
-prière de (144:2.1) (144:3.9)
-présenté le troupeau aux Nazaréens (135:4.2)
-prophétie concernant Jésus (135:11.2-3)
-le rabbin Nahor a offert une école à Jérusalem pour (123:6.8)
-a refusé d'accepter la part du prêtre provenant du temple (135:2.3)
-a refusé d'arrêter de prêcher s'il était libéré par Hérode (135:12.2)
-religion de repentance, d'examen de conscience et d'abnégation (135:3.4) (135:4.2) (143:2.2)
-un reste de croyants en Jean persiste en Mésopotamie (137:2.2)
-tôt ou tard, un plus grand Jean surgira (170:5.19)
-Parabole tonitruante de Lazare et Dives (169:3)
-considéré comme un prophète (135:6.2) (135:12.2) (173:2.4-5)
+Jean le Baptiste; Jean | (135) | | PERSON | OK
+Naissance
+	Le père de Jean-Baptiste, Zacharie, était membre de la prêtrise juive, tandis que sa mère, Élisabeth, était apparentée à Marie et reçut une visitation divine prédisant la venue d'un fils qui préparerait la voie au Messie. (122:2)
+	Jean, nommé par Gabriel, sera le précurseur du divin enseignant et ramènera de nombreuses âmes à Dieu. (122:2.3)
+	Jean-Baptiste est né dans la ville de Juda le 25 mars 7 av. J.-C., accomplissant ainsi la promesse que Gabriel avait faite à Élisabeth l'année précédente. (122:2.7) (135:0.1)
+	Malgré la confusion causée par ce qu'il avait entendu de ses parents et lu dans les Écritures, Élisabeth, la mère de Jean, lui a assuré que Jésus était le vrai Messie. (135:3.3)
+Éducation
+	Jean-Baptiste a reçu l'école de Jérusalem du rabbin Nahor, qui avait recommandé que Jésus soit éduqué dans la même ville. (123:6.8)
+	Jésus n’a jamais cherché l’approbation de Jean, car il n’a jamais été ordonné par le Sanhédrin, s’appuyant plutôt sur sa propre autorité et sur la suprématie éternelle de son Père. (173:2.6)
+	Jean et Élisabeth ont perdu leur maison lorsqu’il a refusé l’allocation du prêtre, ce qui les a conduits à déménager vers le sud avec le troupeau de moutons jusqu’à Hébron. (135:2.3)
+	Jean a été impressionné dès son enfance par l’idée qu’il devait être un chef spirituel. (122:2.8)
+	A la mort de sa mère Élisabeth, Jean, âgé de vingt-huit ans, a commencé son puissant ministère en tant que héraut du Messie. (135:4)
+Enseignements
+	Le concept du royaume de Jean a jeté les bases de l’idée élargie du royaume enseignée par Jésus. (170:1.3) (170:2.9)
+	Le premier message énigmatique de Jean-Baptiste était « Repentez-vous et soyez baptisés », mais il a ensuite élargi ses enseignements pour inclure la bonne nouvelle de la joie et de la liberté du nouveau royaume. (135:7.3) (136:0.2) (136:1.5) (138:8.8)
+	Jean a enseigné une prière simple pour servir de guide aux autres, mais pas comme une formule rigide d’expression personnelle dans la prière. (144:2.1) (144:3.9)
+	Jean a présenté son troupeau aux Nazaréens. (135:4.2)
+	Jean a reconnu la prophétie concernant Jésus et a déclaré : « Il faut qu’il croisse et que je diminue. » (135:11.2-3)
+	Jean a tonné la parabole de Lazare et Dives comme un avertissement contre l’amour des richesses et la convoitise des richesses malhonnêtes. (169:3)
+	Jean a baptisé plus de 100 000 pénitents en 15 mois pour la rémission des péchés, une pratique nouvelle et unique parmi les Juifs. (135:6.4)
+	Jean a prêché une religion de repentance, d'examen de conscience et d'abnégation, croyant que la fin des temps était imminente et que le royaume des cieux était proche. (135:3.4) (135:4.2) (143:2.2)
+	à propos des apôtres de Jean voir le lien ci-dessous | apôtres de Jean le Baptiste
+Jésus et Jean
+	Avant son sixième anniversaire en 1 av. J.-C., Jean-Baptiste rendit visite à Jésus et passèrent un moment joyeux à jouer ensemble. (123:3.4) (135:0.3) (45:4.17)
+	La décision de Jésus et de Jean d’attendre jusqu’à ce qu’ils commencent leur service public a conduit à une séparation qui a renforcé leur engagement envers leurs appels respectifs. (127:3.11,12)
+	Des rumeurs au sujet de Jean sont parvenues à Jésus alors qu’il prêchait et baptisait dans le Jourdain, ce qui a conduit à leur rencontre finale à Capharnaüm. (134:9.8)
+	Au baptême de Jésus par Jean, un son étrange et une voix venant d’en haut ont confirmé que Jésus était le Fils bien-aimé de Dieu. (135:8.6)
+	La raison pour laquelle Jésus s’est retiré n’était pas le jeûne ou l’ascétisme, mais pour comprendre clairement ses relations et planifier ses futurs travaux publics. (136:3.3)
+	Jean fut attristé par la perte d'André et de Pierre en faveur de Jésus, mais il reconnut courageusement leur départ comme le début d'une nouvelle ère. (137:1.3,8)
+	Jésus, dans les collines, planifia son effusion sur Urantia, évitant délibérément d'enseigner aux côtés de Jean pour le protéger d'un danger potentiel. (136:4.1) (144:0.3)
+	Hérode garda Jean en prison parce qu'il craignait une rébellion s'il était libéré et craignait une émeute s'il était mis à mort, en raison de la croyance qu'il était un saint homme. (135:12.2)
+	Malgré le fait d'être en prison et de se sentir abandonné, la foi et la loyauté de Jean envers Jésus restèrent inébranlables, même s'il désirait ardemment une visite ou une parole du Fils de l'Homme. (135:11) (138:1.5)
+	Jean reçut le dernier message de réconfort et de conseils de Jésus avant qu'ils ne se séparent après leur dernière rencontre sur les rives du Jourdain. (135:9.9) (135:11.4) (144:8.1-6)
+	Jésus identifia Jean-Baptiste à Élie, ce qui fit craindre à Pierre l’idée désagréable de la mort du Maître et déclencha une conversation divertissante sur la croyance des scribes en Élie précédant le Messie. (158:2.2)
+	Les paroles favorables de Jésus au sujet du message de Jean conduisirent de nombreux habitants de Capharnaüm à rejoindre son culte de la repentance et du baptême alors que sa renommée se répandait dans toute la Palestine. (135:8.1)
+	Les apôtres reçurent l’ordre de Jésus de récolter la moisson semée par Jean-Baptiste. (143:6.1)
+Caractéristiques personnelles
+	Jésus a commencé son ministère au plus fort de la popularité de Jean-Baptiste, révélant un contraste frappant dans leur approche et leur impact sur les gens. (136:0.1)
+	Jean, peu cultivé mais un penseur clair et un orateur puissant, était une réprimande éloquente plutôt qu'un exemple, contrairement à l'ouvrier calme et heureux Jésus. (135:4.5) (136:0.1)
+	Jean était considéré comme le plus grand né d'une femme, mais dans le royaume des cieux, même le plus petit est plus grand. (136:0.1) (144:8.4)
+	Jean, un prédicateur héroïque mais sans tact, a averti les pharisiens et les sadducéens de produire des fruits dignes d'une repentance sincère avant de les baptiser. (135:6.7)
+	Bien qu'il soit en prison, Jean a souvent tenté de douter de la mission divine de Jésus, faisant face à une grande épreuve de foi pendant un an et demi. (135:11.1)
+	Les parents de Jean, bien éduqués et issus de la prêtrise, se concentrèrent considérablement sur sa formation mentale et spirituelle en raison du fait qu'il était enfant unique. (135:0.4)
+	Jean, mesurant plus de 1,80 mètre avec des cheveux flottants, habillé comme Élie, un enfant de la nature vigoureux et pittoresque, tonna ses avertissements dans l'esprit et la puissance d'Élie. (135:1.4) (135:4.5) (135:6.3)
+mort
+	Jean-Baptiste mourut en prison à la forteresse de Machaerus après avoir été décapité par Hérode Antipas le soir du 10 janvier de l'an 28 après J.-C. (135:12) (144:9)
+	Il fut décapité par Hérode dans la peur et la tristesse, honorant son serment et les invités. (135:12.7)
+Après la mort et statut actuel
+	Malgré la division qui a suivi la déclaration de Jean au sujet de Jésus, un reste de croyants en Jean persiste en Mésopotamie. (137:2.2)
+	Jean-Baptiste, considéré comme un prophète, a remué les âmes des Juifs fatigués et dans l’attente avec son message du royaume des cieux. (135:6.2) (135:12.2) (173:2.4-5)
+	Jean-Baptiste est actuellement président de les 24 conseillers à Jérusem, agissant comme précurseur de la mission de Micaël sur Urantia et cousin éloigné du Fils de l’Homme. (45:4.17) (114:2.3)
+	Un autre Jean-Baptiste plus grand surgira, annonçant l’arrivée imminente du royaume de Dieu et incarnant les véritables enseignements de Jésus, libéré des contraintes de la religion institutionnalisée et des prédictions apocalyptiques. (170:5.19)
 
 Jean le Révélateur | | Jean Zébédée | PERSON | OK
 
@@ -1534,10 +1541,10 @@ visions de
 bien connu des anciens serviteurs d'Anne (184:0.3)
 le plus jeune apôtre, célibataire, de Capharnaüm; 24 ans en 26 apr. J.-C. (139:4.1) (181:2.2)
 
-Jonas | (159:4.4) | | PERSON |
-Discours de Jésus sur (130:1)
+Jonas | (159:4.4) | | PERSON | OK
+Le discours de Jésus sur l’importance de rechercher la vérité et de vivre en accord avec la volonté de Dieu a apporté une grande illumination à Gadiah pendant leur séjour à Joppé. (130:1)
 
-Joppé | | ports | PLACE |
+Joppé | | ports | PLACE | OK
 Jésus a visité Joppé à plusieurs reprises au cours de ses voyages à travers la Palestine. (123:0,4) (128:3,2) (130:0,2) (130:1) (134:7,4) (152:7,3)
 
 Jourdain; Jordanie | | | PLACE | OK
