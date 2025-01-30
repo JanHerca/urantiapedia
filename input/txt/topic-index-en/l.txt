@@ -591,7 +591,6 @@ mortal life
 		Jesus came to give us abundant life, revealing the Father's supreme wisdom through living it and offering deliverance from bondage and salvation to all. (157:6.2) (162:2.7)
 		Jesus exemplified humility, choosing to live his human life in the natural flow, an example for all to follow. (128:1.6)
 
-
 Life Carrier worlds; worlds of the Life Carriers; world of the Life Carriers; Second World; world number two | | | PLACE | OK
 The Melchizedeks oversee the Life Carrier worlds in the 4th Salvington circuit, which consist of seven primary spheres, each with specific purposes and characteristics, surrounded by satellites focused on different aspects of life and evolution. (36:2)
 The central emplacement of adjutant mind-spirits on World Number One is devoted to the study of universal life in all of its known phases of manifestation. (36:2.10)
@@ -1178,8 +1177,9 @@ The prayer as Jesus composed it
 	* And increasingly make us perfect like yourself.
 	This is the current prayer, based on the gospels of Matthew and Luke, and ordered according to the previous:
 	* Our Father, who art in heaven,
-	* hallowed be thy name; thy kingdom come,
-	* thy will be done on earth as it is in heaven.
+	* hallowed be thy name; 
+	* thy kingdom come, thy will be done 
+	* on earth as it is in heaven.
 	* Give us this day our daily bread,
 	* and forgive us our trespasses,
 	* as we forgive those who trespass against us;
