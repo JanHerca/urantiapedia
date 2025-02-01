@@ -93,7 +93,7 @@ Y por encima de todo, quisiera dejar constancia de mi más profundo agradecimien
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/)
 
 <figure class="table chapter-navigator">
   <table>

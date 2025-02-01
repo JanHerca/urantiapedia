@@ -87,7 +87,7 @@ Tengo la completa seguridad de que este libro le dará otro giro a este mundo, p
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan)
 
 <figure class="table chapter-navigator">
   <table>

@@ -61,7 +61,7 @@ Es de esta manera cuando se siente plenamente el valor vivificante y liberador d
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/)
 
 <figure class="table chapter-navigator">
   <table>

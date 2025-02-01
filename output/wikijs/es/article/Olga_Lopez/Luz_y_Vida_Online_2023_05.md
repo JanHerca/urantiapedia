@@ -79,7 +79,7 @@ _Entonces me tranquilicé, y me sentí vivo. Y ¡oh, maravilla!, cambié. Ahora 
 
 Este hermoso cuento nos habla de la faceta que más nos puede conmover: el amor incondicional hacia nosotros. Un amor que nos permite llegar a ser nosotros mismos. Amarnos y respetarnos a nosotros mismos. Algo heroico en estos tiempos de grandes corporaciones multinacionales a las que les interesa difuminar nuestras personalidades, asimilarnos a una identidad de masa.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -314,7 +314,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2023/)
 
 <figure class="table chapter-navigator">
   <table>

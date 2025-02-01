@@ -74,7 +74,7 @@ Nos decía cientos de años atrás Agustín de Hipona estas maravillosas palabra
 _«Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí que Tú estabas dentro de mí, y yo fuera; y fuera te buscaba yo, y me arrojaba sobre esas hermosuras que Tú creaste._
 _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían.»_
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -238,7 +238,7 @@ En este nivel lo natural es que la emoción se exprese; ahora bien, como somos s
 
 Este es el primer nivel, es decir, un punto evolutivo de nuestro camino de vida, donde podemos encontrar emociones de las que a menudo no somos conscientes; están escondidas en una parte de nuestra mente inconsciente, aunque esto no significa que no afecten. De hecho suelen condicionar nuestras conductas, nuestras relaciones e incluso nuestra salud.
 
-[Read more](/es/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos)
+[Leer más](/es/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos)
 
 
 ## Reflexiones urantianas: El Padre Nuestro y sus cambios nada inocentes
@@ -349,7 +349,7 @@ El libro me encontró a mí en el campo de la ufología por mediación de un com
 
 Cuando comencé a leerlo dije para mí: creo haber encontrado lo que toda mi vida he estado buscando, y a medida que iba leyendo me fui convenciendo de ello.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Esteban_Cotan)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Esteban_Cotan)
 <br style="clear:both" />
 
 ## Charlas urantianas del mes de abril
@@ -398,7 +398,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2022/)
 
 <figure class="table chapter-navigator">
   <table>

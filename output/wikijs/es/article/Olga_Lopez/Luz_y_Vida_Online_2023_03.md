@@ -75,7 +75,7 @@ Amigos lectores, si esos son también vuestros objetivos, os animamos a seguir l
 
 Los niños y niñas carecían de cualquier tipo de consideración social en la época en la que vivió Jesús de Nazaret. Por ello, no puede extrañar que los discípulos les regañasen cuando alborotaban cerca del maestro. Para sorpresa de todos, sin embargo, Jesús los encumbra y da a entender que la pequeñez, la simplicidad, es el criterio definitivo del reino.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03)
 
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -248,7 +248,7 @@ Hay que considerar que cuando nos introducimos en el agua cristalina, sucios del
 > Cuida tus hábitos, porque se convertirán en tu destino.<br>
 > (M. Gandhi)
 
-[Read more](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_2)
+[Leer más](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_2)
 
 
 ## Cuestionario urantiano: Martín Guzmán
@@ -273,7 +273,7 @@ Gracias al mensaje de _El Libro de Urantia_, ahora tengo fe en Dios y sé que É
 
 Cuando comencé a leer el libro experimenté muchos conflictos, pues su contenido chocaba con mis creencias. Eso me puso muy mal por varios días, incluso llegué a pensar en quemarlo. Pero dentro de mí algo me decía que esa era la respuesta a mi pedido de «conocer la verdad».
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman)
 <br style="clear:both" />
 
 ## Serie de presentaciones «En el foco» de la UBIS
@@ -311,7 +311,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2023/)
 
 <figure class="table chapter-navigator">
   <table>

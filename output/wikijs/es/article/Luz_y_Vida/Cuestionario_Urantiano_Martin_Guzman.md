@@ -103,7 +103,7 @@ _El Libro de Urantia_ es un mapa de caminos que nos enseña dónde encontrar el 
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman)
 
 <figure class="table chapter-navigator">
   <table>

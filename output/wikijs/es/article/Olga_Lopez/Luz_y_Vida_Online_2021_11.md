@@ -67,7 +67,7 @@ El arte de la vida interior es sutil y extenso. Como lo entiende _El Libro de Ur
 
 El desarrollo de esta vida interior tan preciada desemboca en algo inefable que está en nuestro interior, un vacío, algo innombrable, lo no abarcable… pero que da sentido a nuestra vida: la divinidad.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -277,7 +277,7 @@ Fue el libro el que me encontró a mí, no yo a él. Vino a mi encuentro. Yo hab
 
 Hace tanto tiempo que apenas me acuerdo. Pero enseguida noté o percibí que se trataba de algo totalmente diferente a todo lo que había leído hasta entonces.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Antonio_Moya)
 <br style="clear:both" />
 
 ## Urantiatón Iberoamericana – 20 y 21 de noviembre
@@ -338,7 +338,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

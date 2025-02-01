@@ -65,7 +65,7 @@ Las personas que hemos leído _El Libro de Urantia_ y profundizado en él sabemo
 
 No estamos solos. No estamos abandonados y destinados al desastre final.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03)
 <br style="clear:both" />
 
 ## Historia y enseñanzas – Crónicas de la vida de Jesús
@@ -189,7 +189,7 @@ Este proyecto me surgió como idea hace un año y está, por supuesto, muy lejos
 
 El objetivo que me marqué al inicio era el de crear un sitio web que permitiera estudiar _El Libro de Urantia_ de un modo mucho más coordinado, donde las referencias a otros libros, a las fuentes de _El Libro de Urantia_, a otro contenido general, estuviera todo enlazado entre sí y no resultara necesario acudir a multitud de webs o libros para tener todo a mano.
 
-[Read more](/es/article/Jan_Herca/Urantiapedia_una_Wikipedia_de_El_Libro_de_Urantia)
+[Leer más](/es/article/Jan_Herca/Urantiapedia_una_Wikipedia_de_El_Libro_de_Urantia)
 
 
 ## Asamblea extraordinaria del 16 de febrero de 2021
@@ -234,7 +234,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2021/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -106,7 +106,7 @@ Y ahora, en la noche, mientras su hijo duerme, él recuerda esa escena., vuelve 
 
 ¡Qué difícil es hablar de Dios! Cualquiera que lo quiera hacer tiene que saber que seguramente está desvariando un poco, y probablemente Dios se sonríe ante nuestros intentos de entenderlo y describirlo.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -265,7 +265,7 @@ Llegué a _El Libro de Urantia_ porque durante años busqué libros e informaci�
 
 En ese momento estaba en un mal momento personal y sentí al leerlo que era la respuesta a lo que siempre busqué y lloré. Compré la edición latinoamericana en Amazon, y aún no sabía nada de la asociación española de lectores del libro. Empecé a leer los epígrafes que me llamaban la atención, no leí en orden sino lo que quería, enorme libro y tanta información al alcance… aún no lo he leído entero. Encontré el libro porque lo busqué, imagino, y porque lo necesitaba como agua de mayo.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero)
 <br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
@@ -282,7 +282,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2023/)
 
 <figure class="table chapter-navigator">
   <table>

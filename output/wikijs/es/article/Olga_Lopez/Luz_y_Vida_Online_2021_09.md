@@ -289,7 +289,7 @@ En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El test
 
 Pienso que lo encontré porque seguramente me estaba esperando, posiblemente porque lo necesitara. La pregunta es: ¿por qué en 2014 y no en 1994? Creo que en esos veinte años de distancia maduré un poco más en mi búsqueda y evolución, al menos lo suficiente como para acoger ese regalo con un poco más de capacidad.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore)
 <br style="clear:both" />
 
 ## Se reanudan los cursos en la Escuela de El Libro de Urantia en Internet (UBIS)
@@ -319,7 +319,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

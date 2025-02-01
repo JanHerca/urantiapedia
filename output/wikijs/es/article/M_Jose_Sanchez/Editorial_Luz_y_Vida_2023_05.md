@@ -119,7 +119,7 @@ Luchemos por ser cada día nosotros mismos, vayamos contra corriente, pues hacer
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/)
 
 <figure class="table chapter-navigator">
   <table>

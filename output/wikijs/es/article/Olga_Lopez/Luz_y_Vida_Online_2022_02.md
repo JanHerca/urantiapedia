@@ -76,7 +76,7 @@ Le volvieron a preguntar:
 
 Jamás se ha emborrachado nadie a base de comprender «intelectualmente» la palabra _VINO_.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -265,7 +265,7 @@ A causa de todas estas falsedades, hipocresías, dogmas, mitos, rituales, etc. q
 
 Es triste que, siendo como somos una civilización tecnológica y científicamente adelantada, las religiones en general hayan conseguido un preocupante distanciamiento entre ciencia y filosofía espiritual. Han conseguido que valores como crecimiento interior y despertar de consciencia apenas tengan significado; un preocupante desajuste social bastante peligroso, porque la ciencia, con todos sus adelantos tecnológicos, y sin una sólida base ético-moral que armonice esas grandes diferencias entre ambas, podrían llevarnos al caos y hasta nuestra posible aniquilación como civilización.
 
-[Read more](/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas)
+[Leer más](/es/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas)
 
 
 ## Mi párrafo favorito
@@ -306,7 +306,7 @@ Al cabo de los años compré una revista MAS ALLA dedicada a la vida de Jesús. 
 
 La primera impresión fue muy impactante porque su temario era muy amplio y trataba de conceptos nuevos y desconocidos para la mayoría de los buscadores, que habíamos leído libros esotéricos, de espiritualidad y de autoayuda que estaban muy en boga en aquella época.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Victoriano_Izquierdo)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Victoriano_Izquierdo)
 <br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
@@ -323,7 +323,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2022/)
 
 <figure class="table chapter-navigator">
   <table>

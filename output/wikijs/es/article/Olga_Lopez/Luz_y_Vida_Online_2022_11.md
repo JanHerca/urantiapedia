@@ -69,7 +69,7 @@ En _El Libro de Urantia_ encontramos diferentes episodios que nos muestran el en
 
 Si desmenuzamos el episodio, podemos ver cómo el «secuestro emocional» que sufrió Judá, con la mente nublada por un torrente desbordado de emociones, nos puede ocasionar graves problemas y nos desconecta de nuestra mejor esencia. Pero al mismo tiempo vemos cómo, ante esa misma problemática, Jesús no se deja inundar y arrastrar por las emociones. Actúa de forma serena y paciente.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -218,7 +218,7 @@ Esta es una de las citas a las que llamo «consejos». Tenemos en el libro canti
 
 La voy a analizar por partes:
 
-[Read more](/es/article/Carlos_Rubinsky/Mi_parrafo_favorito)
+[Leer más](/es/article/Carlos_Rubinsky/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Cecilia Barreto
@@ -325,7 +325,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

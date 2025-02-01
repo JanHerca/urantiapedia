@@ -89,7 +89,7 @@ Yo empecé (supongo que como todo el mundo) por la primera lectura, buscando áv
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya)
 
 <figure class="table chapter-navigator">
   <table>

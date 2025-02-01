@@ -227,7 +227,7 @@ Siempre he sido una buscadora, siempre me he mantenido en comunicación con el P
 
 Hubo partes del libro que llegaron a impactarme y aún hoy me causa esa sensación. Aunque no me siento aún capacitada para transmitir lo que sé, cuando lo leo es un mapa, una guía, como si se consolidaran muchas teorías y conocimientos de mi interior.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia)
 <br style="clear:both" />
 
 ## Charlas urantianas del mes de mayo
@@ -259,7 +259,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2021/)
 
 <figure class="table chapter-navigator">
   <table>

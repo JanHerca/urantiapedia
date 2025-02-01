@@ -100,7 +100,7 @@ Deseo añadir una circunstancia personal. Bastantes años de conocer este libro 
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos)
 
 <figure class="table chapter-navigator">
   <table>

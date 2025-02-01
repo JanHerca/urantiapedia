@@ -87,7 +87,7 @@ Conozco varios lectores de _El Libro de Urantia_. Yo me considero una lectora de
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/04/30/cuestionario-urantiano-ana-maria-garcia
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/04/30/cuestionario-urantiano-ana-maria-garcia)
 
 <figure class="table chapter-navigator">
   <table>

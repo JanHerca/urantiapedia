@@ -90,7 +90,7 @@ Moraleja: para evolucionar espiritualmente, no necesitamos ser santos, ni acepta
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/)
 
 <figure class="table chapter-navigator">
   <table>

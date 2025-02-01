@@ -110,7 +110,7 @@ Feliz Nacimiento. Felices Fiestas.
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

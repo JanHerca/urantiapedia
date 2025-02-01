@@ -72,7 +72,7 @@ Pero espera un momento, te pregunto:
 
 ¿Te das cuenta de lo maravilloso que es estar vivo, movernos con este cuerpo, crear una simple receta de cocina? ¿Nos admiramos, en alguna pausa que hagamos en nuestra vida, de algo tan cercano como nuestro cuerpo o nuestra mente? ¿Nos admira el hecho de EXISTIR?
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -234,7 +234,7 @@ A pesar del esfuerzo que me provocaba su lectura (era la versión antigua traduc
 
 Dado el tiempo trascurrido, me resulta difícil puntualizar este aspecto. Recuerdo que me sentí particularmente atraído por la descripción de la vida de Jesús.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos)
 <br style="clear:both" />
 
 ## Novedades sobre la III Conferencia Europea
@@ -298,7 +298,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

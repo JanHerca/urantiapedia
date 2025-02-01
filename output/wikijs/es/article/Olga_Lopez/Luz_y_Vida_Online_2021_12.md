@@ -66,7 +66,7 @@ Si los lectores de _El Libro de Urantia_ queremos hacer una lectura más recogid
 
 Para ello, os propongo saltar por encima de la avalancha de las noticias, de la vorágine de la «actualidad», pues esta no tiene grosor: la actualidad es plana, corta, llena de datos, informaciones inconexas que nos embarullan la mente.
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -269,7 +269,7 @@ Otra de las cosas curiosas del agua es que contiene **hidrógeno y oxígeno;** e
 
 > El análisis técnico no revela lo que una persona o una cosa pueden hacer. Por ejemplo: el agua se emplea eficazmente para apagar el fuego. Que el agua apaga el fuego es un hecho de la experiencia cotidiana, pero ningún análisis del agua podría haber revelado nunca que posee esta propiedad. El análisis determina que el agua está compuesta de hidrógeno y de oxígeno; un estudio adicional de estos elementos revelaría que el oxígeno es el verdadero soporte de la combustión y que el hidrógeno mismo arde libremente. <a id="a269_517"></a>[LU 12:9.4](/es/The_Urantia_Book/12#p9_4)
 
-[Read more](/es/article/Luis_Coll/Los_secretos_del_agua)
+[Leer más](/es/article/Luis_Coll/Los_secretos_del_agua)
 
 
 ## Cuestionario urantiano: Paco Morón
@@ -292,7 +292,7 @@ Mis primeras impresiones al leerlo fueron de asombro al observar que tenía much
 
 Pienso que lo acepté prácticamente desde el principio. Dado que las lecturas que hacíamos en aquel tiempo no eran desde el principio del libro, sino que elegíamos qué queríamos leer (escuchar), a medida que avanzábamos más creyentes asombrados nos convertíamos.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Paco_Moron)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Paco_Moron)
 <br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
@@ -309,7 +309,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

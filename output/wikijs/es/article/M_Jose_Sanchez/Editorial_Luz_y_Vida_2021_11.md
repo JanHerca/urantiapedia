@@ -156,7 +156,7 @@ El mundo necesita estos ejemplos de familias que hemos resaltado más arriba. Ah
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

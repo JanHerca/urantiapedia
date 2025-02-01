@@ -214,7 +214,7 @@ El estado del mundo es patético y lamentable, pero todas las cosas tienen sus c
 
 Hay demasiada tendencia a echarle la culpa siempre a los demás: al político de turno, a los problemas económicos, a los medios de comunicación, a conspiraciones, etc. Este mundo no va a progresar hasta que cada individuo aprenda a ser responsable de sí mismo y comprenda que la calidad de una sociedad mejor la tiene que poner en práctica él mismo en primer lugar y en su propia vida.
 
-[Read more](/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor)
+[Leer más](/es/article/Luis_Coll/La_calidad_de_una_sociedad_mejor)
 
 
 ## Cuestionario urantiano: José Luis Navarro
@@ -233,7 +233,7 @@ Empecé a leer los _Caballos de Troya_ con once años porque me los iba pasando 
 
 Los primeros días lo ojee a saltos. Estaba asombrado de la cantidad de información que tenía y también un poco asustado, porque era evidente que no entendía muchas de las cosas allí expuestas. Nunca me había pasado antes, así que eso aún me motivo más a leerlo.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jose_Luis_Navarro)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jose_Luis_Navarro)
 <br style="clear:both" />
 
 ## Charlas urantianas del mes de junio
@@ -265,7 +265,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2021/)
 
 <figure class="table chapter-navigator">
   <table>

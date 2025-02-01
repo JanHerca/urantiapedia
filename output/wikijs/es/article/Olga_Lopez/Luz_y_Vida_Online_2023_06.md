@@ -104,7 +104,7 @@ Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su 
 
 > El progreso espiritual está fundamentado en el reconocimiento intelectual de la pobreza espiritual unido a la autoconsciencia del hambre de perfección, el deseo de conocer a Dios y ser como él, el propósito entusiasta de hacer la voluntad del Padre del cielo. <a id="a104_262"></a>[LU 100:2.1](/es/The_Urantia_Book/100#p2_1)
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06)
 
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -267,7 +267,7 @@ Tengo profundas dudas de que _El Libro de Urantia_ sea lo que dice ser. Encuentr
 
 En primer lugar, me ha dado un nuevo propósito: quiero ayudar a divulgar y hacer más accesible el libro. En segundo lugar, me ha dado una perspectiva mucho más larga de la vida. Ahora veo esta vida como un principio de una siguiente en la que pienso muy a menudo, recordando a mis familiares que ya se han ido e imaginando la vida que estarán viviendo. Pero en el fondo, _El Libro de Urantia_ no ha cambiado mágicamente mi forma de ser. Sigo teniendo muchos defectos que me gustaría corregir, y el libro me ha hecho quizá más consciente de ellos, pero no solucionarlos fácilmente. _El Libro de Urantia_, por otra parte, me ha traído muchos conflictos en un entorno familiar muy tradicional.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca)
 <br style="clear:both" />
 
 ## XIX Encuentro de lectores de El Libro de Urantia en España
@@ -375,7 +375,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2023/)
 
 <figure class="table chapter-navigator">
   <table>

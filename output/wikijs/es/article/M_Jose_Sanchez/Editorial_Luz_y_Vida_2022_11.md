@@ -126,7 +126,7 @@ Nadie dijo que la vida fuera fácil, pero aquí estamos… y estamos acompañado
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

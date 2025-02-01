@@ -155,7 +155,7 @@ El siguiente artículo es una breve introducción a mi principal proyecto de inv
 
 Dado que _El Libro de Urantia_ no revela de manera explícita la ubicación de estos lugares, debemos recurrir a otras fuentes de información tanto antiguas como modernas para intentar desvelar estos secretos. Tras años de estudio de _El Libro de Urantia_ he identificado al menos un pasaje clave que nos da una pista indispensable que acota enormemente la búsqueda de Edentia, el cielo de la constelación. He aquí la historia.
 
-[Read more](/es/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky)
+[Leer más](/es/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky)
 
 
 ## Libros – nuestras recomendaciones del mes
@@ -222,7 +222,7 @@ Además, estoy casado con dos preciosos hijos y resido felizmente en la ciudad d
 
 Desde bien pequeño era curioso y abierto, estaba interesado en casi todo, quería saber más de las personas en general… y creo que esa misma actitud con sus idas y venidas fue la que me llevo a esta nueva espiritualidad que representa _El Libro de Urantia_.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gines_Aviles)
 
 <br style="clear:both" />
 
@@ -287,7 +287,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2021/)
 
 <figure class="table chapter-navigator">
   <table>

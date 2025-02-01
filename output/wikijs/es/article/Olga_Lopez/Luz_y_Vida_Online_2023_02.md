@@ -84,7 +84,7 @@ Cómo cambia la realidad según con qué ojos la veamos, ¿verdad?
 
 Y nosotros, lectores de _El Libro de Urantia_, ¿con qué ojos miramos la realidad? ¿Tenemos la mirada de Dios, su enfoque, su acercamiento a la realidad? ¿Una mirada que hace presente lo que tenemos justo delante, sin evasiones o pantallas?
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -270,7 +270,7 @@ Cuando esto sucede, más allá del cerebro, en la mente del ser humano, en el co
 > La mente que se abre ante una nueva idea jamás volverá a su tamaño original.
 > Albert Einstein
 
-[Read more](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_1)
+[Leer más](/es/article/Eduardo_Altuzarra/Reflexiones_urantianas_1)
 
 ## Cuestionario urantiano: Javier Martínez
 
@@ -290,7 +290,7 @@ Después de una búsqueda permanente de intentar conocer más sobre la vida de J
 
 Inicialmente lo leí como si de una novela ficcionada se tratase. Comencé por la vida y enseñanzas de Jesús de Nazaret, posteriormente comencé a leer el Prólogo y demás documentos. Algo se disparó en el interior de mi ser, ya que no pude dejar de leer hasta el final de todo el libro. Inicialmente lo consideré más relacionado con las teorías de la Nueva Era y de carácter sectario. Mi apreciación fue cambiando con la certeza de las reflexiones que se describían allí. He leído el libro completo ms de 5 veces.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Javier_Martinez)
 <br style="clear:both" />
 
 ## Serie de presentaciones «En el foco» de la UBIS
@@ -329,7 +329,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2023/)
 
 <figure class="table chapter-navigator">
   <table>

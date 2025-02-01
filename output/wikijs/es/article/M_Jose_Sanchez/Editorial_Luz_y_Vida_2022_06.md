@@ -110,7 +110,7 @@ Así pues, hagamos como nuestro querido Maestro: entremos en nuestro aposento, e
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/)
 
 <figure class="table chapter-navigator">
   <table>

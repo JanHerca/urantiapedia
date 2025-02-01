@@ -87,7 +87,7 @@ La revelación es mi libro maestro de la vida y seguiré compartiendo su mensaje
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado)
 
 <figure class="table chapter-navigator">
   <table>

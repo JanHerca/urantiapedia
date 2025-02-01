@@ -142,7 +142,7 @@ Abramos los ojos y miremos…
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/)
 
 <figure class="table chapter-navigator">
   <table>

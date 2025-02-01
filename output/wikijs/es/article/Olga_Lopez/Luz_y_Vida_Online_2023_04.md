@@ -76,7 +76,7 @@ Pero una mañana hubo un silencio curioso y extraño. Uno a uno, los cerdos fuer
 
 > Durante sus años de enseñanza Jesús contó y volvió a contar muchísimas veces la historia del hijo pródigo. Esta parábola y la del buen samaritano eran sus medios preferidos de enseñar el amor del Padre y las buenas relaciones entre los hombres. <a id="a76_247"></a>[LU 169:1.16](/es/The_Urantia_Book/169#p1_16)
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
 
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -242,7 +242,7 @@ Las enseñanzas del libro no las dice ningún otro libro, la esperanza espiritua
 
 Mi visión de la vida ha cambiado.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Omar_Delgado)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Omar_Delgado)
 <br style="clear:both" />
 
 ## Serie de presentaciones «En el foco» de la UBIS
@@ -318,7 +318,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2023/)
 
 <figure class="table chapter-navigator">
   <table>

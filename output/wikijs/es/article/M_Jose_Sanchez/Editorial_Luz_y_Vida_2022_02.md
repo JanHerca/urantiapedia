@@ -150,7 +150,7 @@ Ahora podemos captar mejor esta impactante frase de _El Libro de Urantia_, que s
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/)
 
 <figure class="table chapter-navigator">
   <table>

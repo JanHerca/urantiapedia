@@ -75,7 +75,7 @@ M. José Sánchez Santamaría
 
 Me encanta esta breve historia porque la metáfora del fantasma nos ayuda muchísimo a entender el poder que tiene nuestra mente, nuestros pensamientos y, sobre todo, nuestros miedos. Cómo nos podemos ahogar en un mar de emociones y de pensamientos recurrentes, repetitivos y agotadores. Pensamientos y emociones que, por su naturaleza muy cercana a la animal, no tendrán un desarrollo espiritual más allá de este mundo material. ¡Qué frágiles somos!
 
-[Read more](//es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
+[Leer más](//es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -277,7 +277,7 @@ Siendo cristiano, mi curiosidad por mirar fuera del canon me llevo a leer difere
 
 La primera vez que lo leí un poco al azar fue en calidad de un creyente hostil (había caído en el documento de Juan el Bautista). Me decía que esto debía ser obra del mal, un texto _new age_, un texto hecho para competir con la _Biblia_, pero cuando me decidí a leerlo con otra mentalidad unos meses después, ahí fue que mi mente hizo «boom», toda esa muralla limitante y opresiva de ideas primitivas cayó y vi una enorme e inmensa realidad, un Dios realmente eterno e infinito, y a la vez tan cálido y cercano. Finalmente encontré el descanso después de largos conflictos internos.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa)
 <br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
@@ -294,7 +294,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

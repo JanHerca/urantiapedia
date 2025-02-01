@@ -1394,8 +1394,8 @@ class Articles {
 						(
 							writeReferences ?
 								`\r\n\r\n\r\n\r\n\r\n` +
-								`## References\r\n\r\n` +
-								`- ${name}: ${this.index.link}\r\n\r\n`
+								`## ${this.tr('topic_references')}\r\n\r\n` +
+								`- [${name}](${this.index.link})\r\n\r\n`
 							: '\r\n\r\n'
 						);
 					return reflectPromise(writeFile(d.path, md));

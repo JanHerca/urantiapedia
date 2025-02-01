@@ -70,7 +70,7 @@ Este problema, tratar de comprender con nuestra pequeña mente mortal el misteri
 
 > «…es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» (<a id="a70_321"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2))
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -294,7 +294,7 @@ Llegué a _El Libro de Urantia_ por la ufología, desde muy joven, con 13 o 14 a
 
 Mi primera impresión fue que algo en mi interior me decía que lo que estaba escuchando tenía que ser la verdad, porque sentí que por primera vez tenía respuestas a tantas lagunas que tenía en mi mente y que hasta ahora nada ni nadie supo contestar.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gloria_Andreu)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Gloria_Andreu)
 <br style="clear:both" />
 
 ## Ya está aquí la nueva revisión de la traducción al español de El Libro de Urantia
@@ -326,7 +326,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2022/)
 
 <figure class="table chapter-navigator">
   <table>

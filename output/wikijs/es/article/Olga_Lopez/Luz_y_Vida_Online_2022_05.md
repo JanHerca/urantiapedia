@@ -69,7 +69,7 @@ De esta peculiar metamorfosis, de este nuevo nacimiento ya habló hace bastantes
 
 Ante la perplejidad de Nicodemo, Jesús contestó:
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -304,7 +304,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2022/)
 
 <figure class="table chapter-navigator">
   <table>

@@ -140,7 +140,7 @@ Así de desconcertante, antisistema, asombroso es nuestro Dios: un Dios que se h
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/02/27/editorial-marzo-2023/)
 
 <figure class="table chapter-navigator">
   <table>

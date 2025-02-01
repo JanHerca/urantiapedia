@@ -266,7 +266,7 @@ En _El Libro de Urantia_, que yo leo desde hace varios años, tengo muchos párr
 
 Han pasado muchos años de lectura y estudio para darme cuenta en esta «esfera» de mi existencia que ese párrafo conlleva una verdad muy importante.
 
-[Read more](/es/article/Eduardo_Altuzarra/Mi_parrafo_favorito)
+[Leer más](/es/article/Eduardo_Altuzarra/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Luis Coll
@@ -289,7 +289,7 @@ Me pareció interesante y con mucho contenido, lo fui leyendo poco a poco.
 
 Me gustó en especial la primera parte, la descripción tan amplia que da sobre Dios, la Trinidad y el universo. Para mí esa parte fue muy interesante. Hay gente que dice que es difícil de comprender, pero a mí no me resultó tan difícil.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Coll)
 <br style="clear:both" />
 
 ## Acerca del boletín Luz y Vida
@@ -306,7 +306,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

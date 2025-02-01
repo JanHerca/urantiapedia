@@ -120,7 +120,7 @@ Feliz Año 2023.
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

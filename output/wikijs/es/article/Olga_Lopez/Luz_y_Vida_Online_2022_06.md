@@ -83,7 +83,7 @@ M. José Sánchez Santamaría
 
 «–¿Pero de qué abandono me hablas? –le respondió Dios– ¡Te envié una camioneta, te envié un bote y te envié un helicóptero!»
 
-[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06)
+[Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -237,7 +237,7 @@ Buscando alternativas a esas fórmulas obsoletas, algunos hemos llegado al encue
 
 Pero no creo que esto sea suficiente. Pretender explicar las eternas cuestiones de la filosofía a través de la razón impide que lleguemos a asimilarlas por vía «cordial», esto es, a través del corazón. Estamos tratando nada menos de quién es o pueda ser Dios, del propósito del cosmos, de nuestro lugar dentro de él. Y tales preguntas no pueden tener una respuesta satisfactoria reduciéndolas al ámbito de las ideas, sin dejar paso al de los sentimientos.
 
-[Read more](/es/article/Juan_Jose_Lopez/Mi_parrafo_favorito)
+[Leer más](/es/article/Juan_Jose_Lopez/Mi_parrafo_favorito)
 
 
 ## Cuestionario urantiano: Alberto Tapiz
@@ -256,7 +256,7 @@ Por medio de los _Caballo de Troya_ de Juan José Benítez. Tras leer varios lib
 
 Comencé la lectura por la parte de la historia y evolución del planeta Urantia, como geógrafo e ingeniero era una parte muy interesante para mí. Luego vino la parte referida a la estructura y organización del universo, y por última la referente a Jesús de Nazaret. Tras una primera lectura la impresión fue la de «esto es lo que mejor ha respondido a las preguntas buscadas durante años», a pesar de no entender muchos conceptos y pasajes del libro.
 
-[Read more](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Alberto_Tapiz)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Alberto_Tapiz)
 <br style="clear:both" />
 
 ## III Encuentro Europeo de lectores de El Libro de Urantia
@@ -321,7 +321,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2022/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2022/)
 
 <figure class="table chapter-navigator">
   <table>

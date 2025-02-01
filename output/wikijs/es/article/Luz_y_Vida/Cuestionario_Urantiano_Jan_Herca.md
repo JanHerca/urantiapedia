@@ -87,7 +87,7 @@ Siempre he visto _El Libro de Urantia_ como una lectura apasionante, pero muy co
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca)
 
 <figure class="table chapter-navigator">
   <table>
