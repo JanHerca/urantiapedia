@@ -196,7 +196,7 @@ Llegué a _El libro de Urantia_ leyendo _El testamento de san Juan_, de J.J. Ben
 Tenía la intuición de que era verdaderamente importante, estaba convencido de que había encontrado una información valiosa que cambiaría mi forma de ver el mundo.
 <br style="clear:both;"/>
 
-[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez)
+[Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez_2)
 
 ## Serie de presentaciones «En el foco» de la UBIS
 

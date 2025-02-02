@@ -98,4 +98,4 @@ Es una ventaja estudiar _El libro de Urantia_ y a la vez una gran responsabilida
 ## Referencias
 
 - [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/08/29/cuestionario-urantiano-julieta-quintero/)

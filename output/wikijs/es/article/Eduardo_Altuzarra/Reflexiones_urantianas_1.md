@@ -81,7 +81,7 @@ Se puede decir que atreverse a iniciarse en esta aventura interminable es para r
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/)
 
 <figure class="table chapter-navigator">
   <table>

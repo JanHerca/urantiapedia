@@ -82,7 +82,7 @@ Otro párrafo favorito…
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/
+- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/)
 
 <figure class="table chapter-navigator">
   <table>
