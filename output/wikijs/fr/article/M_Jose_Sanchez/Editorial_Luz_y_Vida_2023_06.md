@@ -158,7 +158,7 @@ Et avec cette joie parfaite, nous pouvons véritablement amener le Ciel sur Terr
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/
 
 
 

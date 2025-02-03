@@ -37,5 +37,5 @@ Lo que debemos tener claro es que el grupo de estudio es sumamente importante, e
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)

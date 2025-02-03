@@ -87,4 +87,4 @@ After several failed attempts, a Meeting was finally held in the beautiful city 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/07/30/xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/07/30/xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)

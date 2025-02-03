@@ -78,4 +78,4 @@ You see: there is no time left for anything.
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/10/30/navegando-por-la-vida-me-explico-ante-dios/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/10/30/navegando-por-la-vida-me-explico-ante-dios/)

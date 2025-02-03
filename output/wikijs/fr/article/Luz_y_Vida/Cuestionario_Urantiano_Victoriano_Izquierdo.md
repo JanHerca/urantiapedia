@@ -90,7 +90,7 @@ Cela a été une expérience merveilleuse et m'a amené à rencontrer et à m'in
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo
 
 
 

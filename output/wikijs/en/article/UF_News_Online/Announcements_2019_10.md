@@ -78,7 +78,7 @@ We are excited to announce that a Japanese translation of _The Urantia Book_ is 
 
 ## New Online Search Engines for The Urantia Book
 
-The new search engine for _The Urantia Book_ is now up and running on the [Spanish](https://www.urantia.org/es/el-libro-de-urantia/buscar), [Portuguese](https://www.urantia.org/pt/o-livro-de-urantia/pesquisar), and [French](https://www.urantia.org/fr/le-livre-durantia/rechercher) websites. You can customize your search results based on the order of appearance in the book, or by relevance. You may also select “any search words” or “exact match” — no need for Boolean instructions anymore. For more helpful hints just click the icon to the right of the search box. We hope this new engine helps you with your study of the book!
+The new search engine for _The Urantia Book_ is now up and running on the [Spanish](https://www.urantia.org/es/el-libro-de-urantia/buscar), [Portuguese](https://www.urantia.org/pt/o-livro-de-urantia/pesquisar), and [French](https://www.urantia.org/en/le-livre-durantia/rechercher) websites. You can customize your search results based on the order of appearance in the book, or by relevance. You may also select “any search words” or “exact match” — no need for Boolean instructions anymore. For more helpful hints just click the icon to the right of the search box. We hope this new engine helps you with your study of the book!
 
 Please spend time using the search engines and tell us what you think. If you find any errors, please let us know so that we can fix them. You can email Ashley at ashleyt@urantia.org.
 

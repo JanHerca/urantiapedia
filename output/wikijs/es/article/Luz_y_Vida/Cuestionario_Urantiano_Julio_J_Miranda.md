@@ -74,5 +74,5 @@ Supongo que tanto como el que se decide a hacerlo. Depende del punto en que te e
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/12/30/cuestionario-urantiano-12/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/12/30/cuestionario-urantiano-12/)

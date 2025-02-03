@@ -89,7 +89,7 @@ Quisiera que muchos más de los que conocemos y creemos en las enseñanzas divin
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu)
 
 <figure class="table chapter-navigator">
   <table>

@@ -42,5 +42,5 @@ Y esta es la esperanza de establecer «el reino de los cielos en la tierra», lo
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/11/30/mi-parrafo-favorito-34/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/11/30/mi-parrafo-favorito-34/)

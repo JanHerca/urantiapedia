@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Julio 2024 — Editorial"
+title: "Luz y Vida — Julio-Agosto 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -61,5 +61,5 @@ https://www.youtube.com/watch?v=zQ0fb0mu4p4
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)

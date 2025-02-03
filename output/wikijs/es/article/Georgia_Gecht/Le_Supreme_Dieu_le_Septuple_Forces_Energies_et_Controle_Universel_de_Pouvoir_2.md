@@ -125,7 +125,7 @@ Siguiendo el Enlace 19, aquí están las 30 preguntas restantes:
 
 **Resumen**
 
-> « _Il y a la force, l'énergie et le pouvoir, mais tous n'ont qu'une seule origine. Les sept superunivers sont apparemment de nature duelle, et l'univers central de nature trine, mais le Paradis est de constitution unique...L'Absolu Non Qualifié soutient l'univers physique alors que l'Absolu de Déité motive le délicat supercontrôle de toute la réalité matérielle, et ces deux Absolus sont fonctionnellement unifiés par l'Absolu Universel._ » [[LU 55:4.5-6](/fr/The_Urantia_Book/55#p4_5)]
+> « _Il y a la force, l'énergie et le pouvoir, mais tous n'ont qu'une seule origine. Les sept superunivers sont apparemment de nature duelle, et l'univers central de nature trine, mais le Paradis est de constitution unique...L'Absolu Non Qualifié soutient l'univers physique alors que l'Absolu de Déité motive le délicat supercontrôle de toute la réalité matérielle, et ces deux Absolus sont fonctionnellement unifiés par l'Absolu Universel._ » [[LU 55:4.5-6](/es/The_Urantia_Book/55#p4_5)]
 
 > «_En los niveles absolutos, la energía y el espíritu son una sola cosa. Pero en cuanto nos apartamos de estos niveles absolutos, aparecen las diferencias, y a medida que la energía y el espíritu se desplazan desde el Paraíso hacia el espacio, aumenta el abismo entre ellos hasta que, en los universos locales, se han vuelto totalmente divergentes. Han dejado de ser idénticos, tampoco son semejantes, y la mente tiene que intervenir para relacionarlos entre sí._» (<a id="a129_467"></a>[[LU 116:6.3](/es/The_Urantia_Book/116#p6_3))
 

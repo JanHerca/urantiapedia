@@ -98,4 +98,4 @@ It is an advantage to study _The Urantia Book_ and at the same time a great resp
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/08/29/cuestionario-urantiano-julieta-quintero/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/08/29/cuestionario-urantiano-julieta-quintero/)

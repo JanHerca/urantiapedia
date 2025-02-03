@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Décembre 2024 — Éditorial"
+title: "Luz y Vida — Janvier 2025 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -160,4 +160,4 @@ C'est notre cadeau.
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/12/30/editorial-enero-2025/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/12/30/editorial-enero-2025/)

@@ -35,7 +35,7 @@ dateCreated: 2024-11-7T14:46:54Z
 
 
 
-La traducción de _El Libro de Urantia_ a los idiomas Urantia forma parte de la misión planetaria de la Fundación Urantia, que se describe en la «Declaración de Confianza», el documento por el que se estableció la Fundación en 1950 y disponible en: [urantia.org/es/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV](urantia.org/fr/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV)
+La traducción de _El Libro de Urantia_ a los idiomas Urantia forma parte de la misión planetaria de la Fundación Urantia, que se describe en la «Declaración de Confianza», el documento por el que se estableció la Fundación en 1950 y disponible en: [urantia.org/es/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV](urantia.org/es/la-fondation-urantia/declaration-de-fiducie?term=déclaration#arV)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/158.jpg">

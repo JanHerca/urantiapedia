@@ -78,7 +78,7 @@ Luis
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/)
 
 <figure class="table chapter-navigator">
   <table>

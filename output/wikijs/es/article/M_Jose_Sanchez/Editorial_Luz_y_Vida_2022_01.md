@@ -114,7 +114,7 @@ ASOCIACIÓN URANTIA DE ESPAÑA
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/12/31/editorial-luz-y-vida-enero-2022/)
 
 <figure class="table chapter-navigator">
   <table>

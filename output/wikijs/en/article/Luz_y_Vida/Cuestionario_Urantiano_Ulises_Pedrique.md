@@ -100,4 +100,4 @@ This, brothers and sisters, is my humble opinion on the matter.
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)

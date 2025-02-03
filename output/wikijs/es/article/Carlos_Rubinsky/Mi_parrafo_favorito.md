@@ -77,7 +77,7 @@ Carlos Rubinsky
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/)
 
 <figure class="table chapter-navigator">
   <table>

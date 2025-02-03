@@ -60,4 +60,4 @@ This has been the first Meeting of Spanish readers since the beginning of the pa
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)

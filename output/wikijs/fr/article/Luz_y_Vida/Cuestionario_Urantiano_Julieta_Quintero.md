@@ -98,4 +98,4 @@ C’est un avantage d’étudier _Le Livre d’Urantia_ et en même temps une gr
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/08/29/cuestionario-urantiano-julieta-quintero/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/08/29/cuestionario-urantiano-julieta-quintero/)

@@ -88,7 +88,7 @@ Je suis tout à fait sûr que ce livre donnera un autre tournant à ce monde, ca
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan
 
 
 

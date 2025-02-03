@@ -121,7 +121,7 @@ Bonne année 2023.
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
 
 
 

@@ -299,7 +299,7 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/)
 
 
 

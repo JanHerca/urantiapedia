@@ -88,7 +88,7 @@ L’Apocalypse est mon livre maître de vie et je continuerai à partager son me
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/03/28/cuestionario-urantiano-omar-delgado
 
 
 

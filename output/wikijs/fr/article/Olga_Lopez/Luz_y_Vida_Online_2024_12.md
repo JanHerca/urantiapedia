@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Décembre 2024 — Bulletin"
+title: "Luz y Vida — Janvier 2025 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Décembre 2024
+Lumière et Vie — Janvier 2025
 
 ## Dans ce numéro
 
-- Éditorial – Décembre 2025 — M. José Sánchez Santamaría
+- Éditorial – Janvier 2025 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Guide pour enfants du Livre d'Urantia : Jésus amène Juda à Jérusalem
@@ -27,7 +27,7 @@ Lumière et Vie — Décembre 2024
 - Mon paragraphe préféré — Jan Herca
 - Questionnaire urantien
 
-## Éditorial – Décembre 2025 — M. José Sánchez Santamaría
+## Éditorial – Janvier 2025 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
@@ -238,7 +238,69 @@ Je suis venue à lui à un moment très particulier de ma vie, dans une étape d
 
 [Lire la suite](/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Julio_J_Miranda)
 
+## Entretien sur Urantia en janvier
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/Charlas-urantianas-v2.jpg" alt="Conférence urantienne du 25 janvier" width="350">
+</figure>
+
+L'Association Urantia d'Espagne organise et sponsorise les soi-disant « causeries urantiennes », des sessions Zoom dans lesquelles un présentateur propose un sujet de départ, suivi d'un débat modéré auquel les participants peuvent participer.
+
+Voici la conférence prévue pour le mois de janvier :
+
+**Samedi 18** : Explorer _Le Livre d'Urantia_ avec l'intelligence artificielle : une nouvelle ère d'étude (Ariel Vargas)
+
+Cette conférence explorera comment les outils d’intelligence artificielle peuvent faciliter la compréhension du vaste contenu du _Livre d’Urantia_. De l’analyse de texte à la génération de résumés en passant par le débat philosophique, vous apprendrez à intégrer la technologie moderne pour approfondir les concepts spirituels et scientifiques présentés dans cette œuvre monumentale. Découvrez comment les technologies basées sur l’intelligence artificielle peuvent être des alliées dans l’étude du _Livre d’Urantia_. Cette conférence présentera des applications pratiques, telles que la création de cartes conceptuelles, la réponse à des questions complexes et l’établissement de liens entre les thèmes philosophiques et spirituels du texte, ouvrant ainsi de nouvelles perspectives d’apprentissage.
+
+Localisation : [Salle Zoom de l'Association Urantia d'Espagne](https://zoom.us/j/362798144)
+
+ID de la chambre : 362 798 144
+
+Heure : **19h00** (CET, heure de la péninsule espagnole)
+
+Nous vous attendons !
+<br style="clear:both;"/>
+
+
+## Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS)
+
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="Cours UBIS septembre" width="350">
+</figure>
+
+Un nouveau trimestre de cours à l’École Internationale du Livre d’Urantia (UBIS) commence en janvier. La période d’inscription débute le **lundi 6 janvier** et se termine le **dimanche 19 janvier**. Les cours commencent le **lundi 20** avec la semaine d'orientation.
+
+Voici les cours qui seront offerts ce trimestre :
+<br style="clear:both;"/>
+
+
+1. **Les leçons de la croix**. Animé par : Ana Eguren. Niveau : basique. Durée : 10 semaines.
+2. **La rébellion de Lucifer : origine, histoire et destin**. Animé par : Irma E. Aguilar. Niveau : basique. Durée : 10 semaines.
+3. **Le grand don du Père aux mortels : les Ajusteurs de Pensée**. Animé par : Orfelina Castro. Niveau : basique. Durée : 10 semaines
+4. **Dieu, Déité et divinité : révélation à l’univers**. Animé par : Gabriela Arcaute. Niveau : intermédiaire. Durée : 10 semaines.
+5. **Jésus, le Maître des Maîtres**. Animé par : Erika Webster. Niveau : basique. Durée : 8 semaines. Format de groupe d'étude.
+
+Si vous souhaitez demander un cours, vous devez d'abord créer un compte sur le site Web de l'école, [http://ubis.urantia.org](http://ubis.urantia.org/). Cela peut être fait avant le début de l'inscription.
+
+Les places sont limitées, alors inscrivez-vous le plus tôt possible !
+
+Pour plus d'informations sur les cours, vous pouvez visiter [cette page](https://www.urantia.org/fr/education/ecole-virtuelle)
+
+
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
+
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2025/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

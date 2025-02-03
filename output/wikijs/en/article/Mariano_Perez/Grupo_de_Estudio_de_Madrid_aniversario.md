@@ -38,4 +38,4 @@ What we must be clear about is that the study group is extremely important, it i
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)

@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Avril 2024 — Éditorial"
+title: "Luz y Vida — Mai 2024 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -126,4 +126,4 @@ C’est là que réside le véritable conflit, la raison de notre espoir : dans 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)

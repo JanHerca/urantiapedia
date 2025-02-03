@@ -66,4 +66,4 @@ I feel very proud that from above they have placed their trust in me regarding t
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)

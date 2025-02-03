@@ -94,7 +94,7 @@ Et par-dessus tout, je voudrais exprimer ma plus profonde gratitude aux révéla
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/08/27/cuestionario-urantiano-jorge-nagore/
 
 
 

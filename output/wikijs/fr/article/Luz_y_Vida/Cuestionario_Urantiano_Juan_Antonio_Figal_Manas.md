@@ -66,4 +66,4 @@ Je suis très fier que ceux d’en haut m’aient fait confiance concernant les 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)

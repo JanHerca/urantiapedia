@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — February 2024 — Editorial"
+title: "Luz y Vida — March 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -105,4 +105,4 @@ Let us then enjoy the peaceful reading of our beloved book, its study. Let us en
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/02/28/editorial-marzo-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/02/28/editorial-marzo-2024/)

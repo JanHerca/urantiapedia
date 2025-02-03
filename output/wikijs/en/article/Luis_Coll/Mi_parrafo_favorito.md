@@ -43,4 +43,4 @@ And this is the hope of establishing “the kingdom of heaven on earth,” which
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/11/30/mi-parrafo-favorito-34/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/11/30/mi-parrafo-favorito-34/)

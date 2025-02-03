@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Marzo 2024 — Editorial"
+title: "Luz y Vida — Abril 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -148,5 +148,5 @@ Feliz lectura.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/03/30/editorial-abril-2024/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/03/30/editorial-abril-2024/)

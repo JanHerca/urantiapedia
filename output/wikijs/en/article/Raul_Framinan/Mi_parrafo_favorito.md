@@ -30,4 +30,4 @@ Many times I imagine a world applying this simple lesson, the unnecessary suffer
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/11/30/mi-parrafo-favorito-24/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/11/30/mi-parrafo-favorito-24/)

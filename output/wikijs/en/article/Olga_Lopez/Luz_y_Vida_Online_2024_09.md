@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — September 2024 — Bulletin"
+title: "Luz y Vida — October 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin of the Urantia Association of Spain
 
-Light and Life — September 2024
+Light and Life — October 2024
 
 ## In this issue
 
-- Editorial – September 2024 — M. José Sánchez Santamaría
+- Editorial – October 2024 — M. José Sánchez Santamaría
 - Jobs – our recommendations of the month
 - History and teachings: Chronicle of the life of Jesus
 - Urantia Book Children's Guide: Jesus at Age 21
@@ -24,11 +24,11 @@ Light and Life — September 2024
 - Recommended video
 - Navigating through life: Serenity — Mario Alonso Puig
 - My favorite paragraph — Rey Sotolongo
--Urantian Questionnaire — Ulises Pedrique
+- Urantian Questionnaire — Ulises Pedrique
 - October Urantia Talk
 
 
-## Editorial – September 2024 — M. José Sánchez Santamaría
+## Editorial – October 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-1.jpg" alt="Editorial oct 24 -1" width="350">
@@ -219,7 +219,21 @@ Time: **7:00 p.m.** (Spanish peninsular time)
 
 <br style="clear:both;"/>
 
+## About the Luz y Vida newsletter
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida is the newsletter of the Urantia Association of Spain. From 2005 to 2016 it was published in PDF format and distributed by post and email to the association's reader list, but is currently distributed in newsletter format from HTML content.
+
+If you wish to receive the newsletter in your email, [contact the association](https://aue.urantia-association.org/contact-us/) to be subscribed to the recipient list.
+
+All work and news from readers and study groups are welcome, so if you wish to share any secondary work, writing, outline, image, etc., you can [send it to the association](https://aue.urantia-association.org/contact-us/) and we will publish it after evaluating its suitability. Likewise, the Communications Committee of the board of directors of the Urantia Association of Spain reserves the right to edit it to meet minimum spelling quality standards.
+
 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2024/)
+- [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Juillet 2024 — Bulletin"
+title: "Luz y Vida — Juillet-Août 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Juillet 2024
+Lumière et Vie — Juillet-Août 2024
 
 ## Dans ce numéro
 
-- Éditorial – Juillet 2024 — M. José Sánchez Santamaría
+- Éditorial – Juillet-Août 2024 — M. José Sánchez Santamaría
 - Présentations de la XXe Rencontre des lecteurs du Livre d'Urantia en Espagne
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Rebecca
@@ -24,7 +24,7 @@ Lumière et Vie — Juillet 2024
 - Rapport sur le Cercle de Confiance — Fernando Carazo
 - Nouvelle aide à l'étude de Hara Davis : La famille
 
-## Éditorial – Juillet 2024 — M. José Sánchez Santamaría
+## Éditorial – Juillet-Août 2024 — M. José Sánchez Santamaría
 
 Manuel Vicent dans son dernier livre, Une histoire particulière, nous dit ces belles paroles au début :
 
@@ -137,13 +137,26 @@ _La Famille, l'Unité Fondamentale de la Fraternité_, un nouvel ouvrage d'aide 
 
 Selon les mots de l’auteur : « Le Livre d’Urantia accorde une importance significative à la famille en tant qu’unité sociale fondamentale et en tant que facteur crucial dans le développement des individus et de la société. Dans ce support d’étude, nous examinons la famille comme élément fondamental de la civilisation humaine. Nous commençons par examiner l’unité et la diversité au sein de la famille divine (…) Nous explorons les origines évolutives de l’institution familiale, en commençant par la façon dont le mariage a progressé depuis les temps primitifs jusqu’à nos jours et les différences entre les hommes et les femmes. Nous étudions le développement de la famille depuis sa forme primitive jusqu'aux unités familiales les plus complexes et organisées qui existent aujourd'hui, y compris les questions de genre et d'égalité des sexes (…) Nous examinons la responsabilité des parents dans l'éducation des enfants, en soulignant l'importance de l'éducation et de la formation les premières années de la vie d’un enfant (…) Nous examinons également les dimensions spirituelles de la vie de famille et le potentiel de croissance et de développement spirituels dans le contexte familial. À titre d’exemple, nous étudions la vie de famille de Jésus et les nombreuses qualités qu’il a acquises lors de sa transition de l’enfance au début de l’âge adulte.
 
-[Lien pour acheter _The Family_ sur [Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVxPuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCr wd_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIOGWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTEUR)
+[Lien pour acheter _The Family_ sur Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVxPuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCrwd_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIOGWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTHOR)
 
 <br style="clear:both;"/>
+
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

@@ -89,7 +89,7 @@ Ha sido una experiencia maravillosa y me ha llevado a conocer e integrarme con l
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo)
 
 <figure class="table chapter-navigator">
   <table>

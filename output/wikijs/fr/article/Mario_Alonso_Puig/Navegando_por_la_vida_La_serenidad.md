@@ -34,4 +34,4 @@ Le roi leur expliqua ce qu'il désirait tant transmettre à son fils le prince :
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)

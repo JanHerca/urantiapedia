@@ -90,7 +90,7 @@ J'aimerais que beaucoup plus d'entre nous qui connaissent et croient aux enseign
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu
 
 
 

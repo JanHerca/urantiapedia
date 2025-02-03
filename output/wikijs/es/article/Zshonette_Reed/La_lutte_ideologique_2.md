@@ -98,7 +98,7 @@ Hay otra razón por la que esta verdad a medias en particular es tan peligrosa. 
 > 
 > _En resumen, Lucifer habría quitado a los hombres y a los ángeles aquello que Dios les había dado, es decir ***el privilegio divino de participar en la creación de sus propios destinos y del destino de este sistema local*** de mundos habitados._
 > 
-> _Ningún ser en todo el universo tiene la legítima libertad de privar a otro ser de ***la verdadera libertad, del derecho de amar y de ser amado, del privilegio de adorar a Dios y de servir a sus semejantes***._ (LU [LU 54:2.3-5](/fr/The_Urantia_Book/54#p2_3))
+> _Ningún ser en todo el universo tiene la legítima libertad de privar a otro ser de ***la verdadera libertad, del derecho de amar y de ser amado, del privilegio de adorar a Dios y de servir a sus semejantes***._ (LU [LU 54:2.3-5](/es/The_Urantia_Book/54#p2_3))
 
 Estos pasajes revelan el peligro de las filosofías que excluyen a Dios de la ecuación. Así que no es sólo una cuestión de si Dios existe o no existe. Se trata de si NOSOTROS existimos como criaturas con libre albedrío y si permitiremos que otra criatura cierre la puerta a las oportunidades y posibilidades. Estas medias verdades no son sólo ateas. Son luciferinos.
 

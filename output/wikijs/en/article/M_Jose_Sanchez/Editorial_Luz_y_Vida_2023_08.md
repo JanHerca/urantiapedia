@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — August 2023 — Editorial"
+title: "Luz y Vida — September 2023 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -37,7 +37,7 @@ Always keep in mind the twofold purpose of Michael's bestowal on Urantia:
 <br style="clear:both;"/>
 
 > 1. Adquirir la experiencia completa de vivir una vida de criatura humana en carne mortal y culminar su soberanía de Nebadon.
-> 2. Revelar al Padre Universal a los moradores mortales de los mundos del tiempo y el espacio y llevar más eficazmente a esos mismos mortales a una mejor comprensión del Padre Universal. [LU 128:0.2-4](/es/The_Urantia_Book/128#p0_2)
+> 2. Revelar al Padre Universal a los moradores mortales de los mundos del tiempo y el espacio y llevar más eficazmente a esos mismos mortales a una mejor comprensión del Padre Universal. [UB 128:0.2-4](/es/The_Urantia_Book/128#p0_2)
 
 In our dear Teacher we find a magnificent human who
 
@@ -127,5 +127,5 @@ Let us respond to the hope of so many generations that fought and suffered to ac
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 

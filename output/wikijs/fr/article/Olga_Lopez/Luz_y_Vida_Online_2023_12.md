@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Décembre 2023 — Bulletin"
+title: "Luz y Vida — Janvier 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -13,11 +13,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Décembre 2023
+Lumière et Vie — Janvier 2024
 
 ## Dans ce numéro
 
-- Éditorial – Décembre 2024 — M. José Sánchez Santamaría
+- Éditorial – Janvier 2024 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Jésus à 16 ans
@@ -28,7 +28,7 @@ Lumière et Vie — Décembre 2023
 - Questionnaire urantien — Luis García Bory
 - Le groupe d'étude de Barcelone fête ses 20 ans
 
-## Éditorial – Décembre 2024 — M. José Sánchez Santamaría
+## Éditorial – Janvier 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Editorial-01-24-1.jpg" alt="Enero 24-1" width="350">
@@ -213,9 +213,65 @@ Pour célébrer l’atteinte de cette étape, nous organiserons un repas-partage
 
 <br style="clear:both;"/>
 
+## Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS)
+
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_12/UBIS-septiembre-2021.jpg" alt="Cursos UBIS septiembre" width="350">
+</figure>
+
+Un nouveau trimestre de cours à l’École Internationale du Livre d’Urantia (UBIS) commence en janvier. La période d’inscription débute le **lundi 8 janvier** et se termine le **dimanche 21 janvier**. Les cours commencent le **lundi 15** avec la semaine d'orientation.
+
+Voici les cours qui seront offerts ce trimestre :
+<br style="clear:both;"/>
+
+1. **Le Père Universel : l’aimer c’est le connaître**. Animé par : Olga López. Niveau : basique. Durée : 10 semaines.
+2. **Le chemin du retour : Finalistes**. Animé par : Jaime Marco. Niveau : intermédiaire. Durée : 10 semaines.
+3. **Connaître Dieu**. Animé par : José Manuel Diaz Roldan. Niveau : avancé. Durée : 6 semaines.
+4. **Ce qui nous attend après la mort : la survie de la personnalité**. Animé par : Flor Robles. Niveau : basique. Durée : 10 semaines.
+5. **L’évolution de la famille, principale force civilisatrice**. Animé par : Erika Webster. Niveau : basique. Durée : 8 semaines. Format de groupe d'étude.
+
+Si vous souhaitez demander un cours, vous devez d'abord créer un compte sur le site Web de l'école, [http://ubis.urantia.org](http://ubis.urantia.org/). Cela peut être fait avant le début de l'inscription.
+
+Les places sont limitées, alors inscrivez-vous le plus tôt possible !
+
+Pour plus d'informations sur les cours, vous pouvez visiter [cette page](https://www.urantia.org/es/education/programacion-de-cursos)
+
+
+
+
+## Entretiens d'Urantia de janvier
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_12/Charlas-urantianas-nov21.png" alt="Charlas urantianas" width="250">
+</figure>
+
+L'Association Urantia d'Espagne organise et sponsorise les soi-disant « causeries urantiennes », des sessions Zoom au cours desquelles un présentateur propose un sujet de départ, suivi d'un débat modéré entre les participants.
+
+Voici les conférences prévues pour le mois de janvier :
+
+**Vendredi 12 : L'IA : dictature technologique ou alliée dans nos vies ?** **(Miguel Mallorca)**
+**Vendredi 26 : Actualités. Vers la lumière et la vie (Marinett Morales)**
+
+Lieu : [Salle Zoom de l'Association](https://zoom.us/j/362798144)
+Heure : **19h00** (heure de la péninsule espagnole)
+<br style="clear:both;"/>
+
+## À propos de la newsletter Lumière et Vie
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Lumière et Vie est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia -association .org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2024/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 

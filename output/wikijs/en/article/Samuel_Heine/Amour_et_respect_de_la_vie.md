@@ -64,7 +64,7 @@ Bees have this good thing that they always seem to be the same. Years pass, we b
 
 As a nature lover said: Happy is he who, in the evening, lying on the grass near the apiary, in the company of his dog, has heard the song of the bees blending with the chirping of the crickets, the sound of the wind in the trees, the twinkling of the stars, the slow march of the clouds.
 
-> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». ([LU 194:3.18-19](/fr/The_Urantia_Book/194#p3_18))
+> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». ([UB 194:3.18-19](/en/The_Urantia_Book/194#p3_18))
 
 Samuel Heine
 

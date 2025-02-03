@@ -101,7 +101,7 @@ Si no aplicamos correctamente las enseñanzas del libro, estos son los peligros 
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/01/31/cuestionario-urantiano-javier-martinez)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/01/31/cuestionario-urantiano-javier-martinez)
 
 <figure class="table chapter-navigator">
   <table>

@@ -102,5 +102,5 @@ Solo invitar a todos aquellos interesados en _El libro de Urantia_ a atreverse a
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)

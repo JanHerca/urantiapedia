@@ -340,7 +340,7 @@ All papers and news from readers and study groups are welcome, so if you want to
 
 ## References
 
-- Article of the Magazine Light and Life Online: https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/)
 
 
 

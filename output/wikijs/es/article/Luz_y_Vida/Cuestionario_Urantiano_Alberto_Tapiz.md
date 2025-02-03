@@ -66,4 +66,4 @@ Me gustaría expresar un deseo acerca del libro: espero que su difusión en el f
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/05/31/cuestionario-urantiano-alberto-tapiz)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/31/cuestionario-urantiano-alberto-tapiz)

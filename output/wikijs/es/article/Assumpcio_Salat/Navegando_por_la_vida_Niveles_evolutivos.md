@@ -80,7 +80,7 @@ Llegar a este nivel es llegar a la auténtica libertad e independencia emocional
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/)
 
 <figure class="table chapter-navigator">
   <table>

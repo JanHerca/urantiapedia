@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Noviembre 2024 — Editorial"
+title: "Luz y Vida — Diciembre 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -88,5 +88,5 @@ PD: Os invito a visionar este vídeo, ¿por qué? Ante un desastre natural, el s
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/11/30/editorial-diciembre-2024/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/11/30/editorial-diciembre-2024/)

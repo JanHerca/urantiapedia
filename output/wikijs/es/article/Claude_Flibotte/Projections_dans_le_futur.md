@@ -86,7 +86,7 @@ Conociendo al Padre como el Dios del tiempo y el espacio, luego al Padre como el
 
 > El concepto de *Infinito* lo utilizamos para indicar la plenitud —la finalidad— implícita en la primacía de la Fuente-Centro Primera. El YO SOY *teórico* es para la criatura una extensión filosófica de «la infinidad de la voluntad», pero el Infinito es un nivel de valor *actual* que representa la connotación, desde la eternidad, de la verdadera infinidad del libre albedrío absoluto y sin trabas del Padre Universal. Este concepto se denomina a veces el Infinito-Padre.
 > 
-> Una gran parte de la confusión que experimentan todas las clases de seres superiores e inferiores, en sus esfuerzos por descubrir al Infinito-Padre, es inherente a sus limitaciones de comprensión. La primacía absoluta del Padre Universal no es evidente en los niveles subinfinitos; [LU 0:3.24-25](/fr/The_Urantia_Book/0#p3_25)
+> Una gran parte de la confusión que experimentan todas las clases de seres superiores e inferiores, en sus esfuerzos por descubrir al Infinito-Padre, es inherente a sus limitaciones de comprensión. La primacía absoluta del Padre Universal no es evidente en los niveles subinfinitos; [LU 0:3.24-25](/es/The_Urantia_Book/0#p3_25)
 
 Así, a todos aquellos que con valentía y amor han viajado por estas edades del universo, ¡nos esperan maravillas insospechadas en el descubrimiento sin fin de lo que nuestro Padre ha planeado para nosotros!
 

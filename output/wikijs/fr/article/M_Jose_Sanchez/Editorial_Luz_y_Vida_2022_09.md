@@ -139,7 +139,7 @@ Notre bonne nouvelle est grande et belle, celle que Jésus nous invite à réali
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/
 
 
 

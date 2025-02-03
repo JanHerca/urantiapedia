@@ -69,5 +69,5 @@ Posicionarse en una situación ideal ante los nuevos cambios que se avecinan y a
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/07/30/presentaciones-del-xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/07/30/presentaciones-del-xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)

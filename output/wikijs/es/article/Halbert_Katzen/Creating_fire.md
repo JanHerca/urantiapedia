@@ -207,7 +207,7 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov en Israel durante este mileni
 * Kyle Streich, *Terra Amata*, junio 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, breve descripción del yacimiento de Terra Amata. [Enlace original roto].
 * Dennis O'Neill, *Archaic Human Culture*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm, información general sobre la cultura primitiva con algo de información sobre el pedernal y Terra Amata.
 * Web de la Wikipedia sobre Terra Amata: http://en.wikipedia.org/wiki/Terra_Amata
-* Web del museo de Terra Amata, en Niza: http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
+* Web del museo de Terra Amata, en Niza: http://www.nice.fr/es/culture/musees-et-galeries/presentation-du-musee-terra-amata
 * Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp* («La barbacoa más antigua cocinaba una carne crujiente»), *ABC Science*, 3 mayo 2004, http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest, artículo que se hace eco del descubrimiento en el yacimiento israelí.
 * *When was fire first controlled by human beings?* («¿Cuándo fue controlado el fuego por primera vez?») http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, exhaustiva revisión de la controversia.
 * Steven R. James, R. W. Dennell, Allan S. Gilbert, et al., *Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence*, («Uso del fuego por homínidos en el Pleistoceno Bajo e Intermedio»), febrero 1989, https://www.jstor.org/stable/2743299?seq=1

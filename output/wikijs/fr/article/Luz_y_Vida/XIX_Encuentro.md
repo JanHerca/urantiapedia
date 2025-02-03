@@ -60,4 +60,4 @@ Il s'agit de la première rencontre de lecteurs espagnols depuis le début de la
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)

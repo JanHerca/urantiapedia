@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Octobre 2023 — Bulletin"
+title: "Luz y Vida — Novembre 2023 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Octobre 2023
+Lumière et Vie — Novembre 2023
 
 ## Dans ce numéro
 
-- Éditorial – Octobre 2023 — M. José Sánchez Santamaría
+- Éditorial – Novembre 2023 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Jésus à 15 ans
@@ -28,7 +28,7 @@ Lumière et Vie — Octobre 2023
 - Série de présentations UBIS «  In the spotlight  »
 
 
-## Éditorial – Octobre 2023 — M. José Sánchez Santamaría
+## Éditorial – Novembre 2023 — M. José Sánchez Santamaría
 
 **David contre Goliath**
 
@@ -232,9 +232,38 @@ Vous pouvez regarder la vidéo de la session précédente sur ce lien
 
 https://youtu.be/z2PZ_nBF-Tw?si=GS4VyoKSqlwYl7Yl
 
+## Conférences urantiennes du mois de novembre
+
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_10/Charlas-urantianas-nov21.png" alt="Charlas urantianas" width="250">
+</figure>
+
+L'Association Urantia d'Espagne a repris ses « causeries urantiennes », des sessions Zoom au cours desquelles un présentateur propose un sujet de départ, suivi d'un débat modéré entre les participants. Les conférences ont lieu bimensuellement (un vendredi sur deux).
+
+Voici les conférences prévues pour le mois de novembre :
+
+**Vendredi 10 : La maîtrise de soi comme mesure du progrès spirituel** (Olga López)
+**Vendredi 24 : Acquérir la maîtrise de soi** (Jaime Marco)
+
+Lieu : [Salle Zoom de l'Association](https://zoom.us/j/362798144)
+Heure : **19h00** (heure de la péninsule espagnole)
+<br style="clear:both;"/>
 
 
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2023/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

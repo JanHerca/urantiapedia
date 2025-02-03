@@ -24,7 +24,7 @@ La siguiente pregunta era, por supuesto, ¿cómo crear un grupo de estudio con c
 
 ## Tecnología 
 
-Después de contactar a los futuros participantes, los invité a abrir una cuenta de Skype [http://www.skype.com/intl/fr/get-skype/](http://www.skype.com/intl/fr/get-skype/)
+Después de contactar a los futuros participantes, los invité a abrir una cuenta de Skype [http://www.skype.com/intl/es/get-skype/](http://www.skype.com/intl/es/get-skype/)
 
 Crear una cuenta de este tipo es simple e intuitivo y creo que todos ustedes están familiarizados con el procedimiento, así que no me extenderé en ello. 
 
@@ -74,7 +74,7 @@ Información adicional está disponible de inmediato durante un grupo de estudio
 
 Nuevamente, el cuadro de diálogo es muy conveniente. A veces se le pide a uno de los miembros que investigue mientras el grupo continúa trabajando. Cuando la información está disponible, se copia en el cuadro de diálogo y se pone a disposición de todos. Si la información está destinada a una sola persona, se utiliza un cuadro de diálogo individual en lugar del grupal. Del mismo modo, cuando un miembro del grupo ha preparado una presentación sobre un tema determinado, el texto o los puntos principales de su presentación se publican en el cuadro de diálogo. En nuestro grupo, el cuadro de chat se ha convertido en el medio de comunicación de nuestro grupo tanto durante una reunión como entre reuniones.
 
-Los miembros de nuestro grupo utilizan otros programas electrónicos de ayuda al estudio. Por ejemplo, un motor de búsqueda que se encuentra en el sitio web de la Fundación Urantia, así como una versión bilingüe de El libro de Urantia [https://www.urantia.org/fr/le-livre-d-urantia/lire](https://www.urantia.org/fr/le-livre-d-urantia/lire): (URL para lectores de habla francesa). [^1] 
+Los miembros de nuestro grupo utilizan otros programas electrónicos de ayuda al estudio. Por ejemplo, un motor de búsqueda que se encuentra en el sitio web de la Fundación Urantia, así como una versión bilingüe de El libro de Urantia [https://www.urantia.org/es/le-livre-d-urantia/lire](https://www.urantia.org/es/le-livre-d-urantia/lire): (URL para lectores de habla francesa). [^1] 
 
 ![Buscar](https://www.urantia.org/sites/default/files/images/Search.jpg «Buscar») 
 
@@ -93,4 +93,4 @@ Nuestra experiencia es limitada pero estaremos felices si puede beneficiar a aqu
 
 ## Comentarios 
 
-[^1]: Nota del editor: Puede acceder a _El Libro de Urantia_ en francés también en Urantiapedia aquí: [Tabla de contenidos](/fr/The_Urantia_Book/Index) y [Tabla de contenidos ampliada](/fr/The_Urantia_Book/Index_Extended)
+[^1]: Nota del editor: Puede acceder a _El Libro de Urantia_ en francés también en Urantiapedia aquí: [Tabla de contenidos](/es/The_Urantia_Book/Index) y [Tabla de contenidos ampliada](/es/The_Urantia_Book/Index_Extended)

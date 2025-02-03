@@ -36,4 +36,4 @@ Le problème, et c'est là que je termine, c'est qu'il y a «  très peu de disc
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)

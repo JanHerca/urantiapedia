@@ -138,7 +138,7 @@ Grande y hermosa nuestra buena nueva, la que nos invita Jesús a realizar en est
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

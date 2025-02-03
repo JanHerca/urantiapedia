@@ -32,4 +32,4 @@ Have a good trip, dear Esteban! We are sure that you are already in the worlds o
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/08/29/en-recuerdo-de-esteban-cotan-1927-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/en-recuerdo-de-esteban-cotan-1927-2024/)

@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Janvier 2024 — Éditorial"
+title: "Luz y Vida — Février 2024 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -120,4 +120,4 @@ _C'est vraiment une bonne nouvelle : un Seigneur généreux et un disciple qui l
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)

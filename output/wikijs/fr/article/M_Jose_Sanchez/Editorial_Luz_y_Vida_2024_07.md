@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Juillet 2024 — Éditorial"
+title: "Luz y Vida — Juillet-Août 2024 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -62,4 +62,4 @@ https://www.youtube.com/watch?v=zQ0fb0mu4p4
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)

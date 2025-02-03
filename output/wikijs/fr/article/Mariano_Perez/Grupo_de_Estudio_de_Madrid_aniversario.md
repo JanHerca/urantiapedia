@@ -38,4 +38,4 @@ Ce qu’il faut bien comprendre, c’est que le groupe d’étude est extrêmeme
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)

@@ -87,7 +87,7 @@ Lo que quiero decir respecto a _El Libro de Urantia_ es que es una gran revelaci
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll)
 
 <figure class="table chapter-navigator">
   <table>

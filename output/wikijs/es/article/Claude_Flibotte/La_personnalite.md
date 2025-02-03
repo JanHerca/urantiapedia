@@ -231,7 +231,7 @@ He aquí dos características de la personalidad humana que definitivamente nos 
 
 > La personnalité de la créature se distingue par deux phénomènes spontanés et caractéristiques du comportement réactif d'un mortel : la conscience de soi et le libre arbitre relatif qui lui est associé.
 > 
-> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. [LU 16:8.5-6](/fr/The_Urantia_Book/16#p8_6)
+> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. [LU 16:8.5-6](/es/The_Urantia_Book/16#p8_6)
 
 **4. El reino de la personalidad humana.**
 
@@ -251,7 +251,7 @@ Estas siete enumeraciones caracterizan el ámbito de acción de la personalidad.
 > 
 > 6. Consécration de la personnalité, la dévotion à faire de tout cour la volonté du Père.
 > 
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_14)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.7-14](/es/The_Urantia_Book/16#p8_14)
 
 **5. Atributos de personalidad.**
 
@@ -265,7 +265,7 @@ La siguiente descripción de la personalidad representa bien cómo la perciben l
 > 
 > 3. La compréhension, par la foi, de la communion avec la Déité, associée au service, expression de l'amour, de l'humanité.
 > 
-> La pleine fonction de cette dotation de personnalité est le commencement de la réalisation de la parenté avec la Déité. Une telle individualité habitée par un fragment prépersonnel de Dieu le Père est, en vérité et en fait, un fils spirituel de Dieu. Non seulement une telle créature révèle la capacité de recevoir le don de la présence divine, mais elle fait aussi ressortir une réaction sensible au circuit de gravité de personnalité du Père Paradisiaque de toutes les personnalités. [LU 16:8.15-19](/fr/The_Urantia_Book/16#p8_18)
+> La pleine fonction de cette dotation de personnalité est le commencement de la réalisation de la parenté avec la Déité. Une telle individualité habitée par un fragment prépersonnel de Dieu le Père est, en vérité et en fait, un fils spirituel de Dieu. Non seulement une telle créature révèle la capacité de recevoir le don de la présence divine, mais elle fait aussi ressortir une réaction sensible au circuit de gravité de personnalité du Père Paradisiaque de toutes les personnalités. [LU 16:8.15-19](/es/The_Urantia_Book/16#p8_18)
 
 ## VI. AJUSTADORES Y PERSONALIDAD
 
@@ -281,7 +281,7 @@ Las dos citas siguientes nos demuestran cuán esenciales son los Ajustadores en 
 
 > Les formes supérieures d'intercommunication intelligente entre les êtres humains sont grandement aidées par les Ajusteurs intérieurs. Les animaux éprouvent effectivement des affinités entre eux, mais ne se communiquent pas de concepts les uns aux autres ; ils peuvent exprimer des émotions, mais non des idées ni des idéaux. Avant d'avoir reçu des Ajusteurs de Pensée, les hommes d'origine animale n'ont pas non plus de rapports intellectuels d'un type supérieur ni de communion spirituelle avec leurs compagnons. Toutefois, quand les créatures évolutionnaires développent leur faculté de parole, elles sont sur la bonne voie pour recevoir des Ajusteurs.
 >
-> Les animaux communiquent effectivement entre eux d'une manière grossière, mais il n'y a que peu ou pas de personnalité dans ce contact primitif. Les Ajusteurs ne sont pas la personnalité, mais des êtres prépersonnels. Toutefois, ils viennent de la source de la personnalité, et leur présence accroit la qualité des manifestations de la personnalité humaine ; cela est spécialement vrai si l'Ajusteur a eu des expériences antérieures. [LU 109:4.1-2](/fr/The_Urantia_Book/109#p4_2)
+> Les animaux communiquent effectivement entre eux d'une manière grossière, mais il n'y a que peu ou pas de personnalité dans ce contact primitif. Les Ajusteurs ne sont pas la personnalité, mais des êtres prépersonnels. Toutefois, ils viennent de la source de la personnalité, et leur présence accroit la qualité des manifestations de la personnalité humaine ; cela est spécialement vrai si l'Ajusteur a eu des expériences antérieures. [LU 109:4.1-2](/es/The_Urantia_Book/109#p4_2)
 
 **3. Ajustadores y potencial de personalidad.**
 
@@ -335,7 +335,7 @@ La moralidad es evolutiva, pero la personalidad le proporciona valor espiritual.
 > 
 > 13. La personalidad puede sobrevivir a la muerte física con la identidad que se encuentra en el alma sobreviviente. El Ajustador y la personalidad son invariables; la relación entre ambos (en el alma) no es más que cambio, evolución continua; y si este cambio (el crecimiento) cesara, el alma dejaría de existir.
 > 
-> 14. La personalidad tiene una conciencia única del tiempo, que es diferente a la percepción que la mente o el espíritu tienen del mismo. [LU 112:0.13-16](/fr/The_Urantia_Book/112#p0_16)
+> 14. La personalidad tiene una conciencia única del tiempo, que es diferente a la percepción que la mente o el espíritu tienen del mismo. [LU 112:0.13-16](/es/The_Urantia_Book/112#p0_16)
 
 ## VIII. RELIGIÓN Y PERSONALIDAD
 
@@ -387,7 +387,7 @@ Materia, mente y espíritu están asociados en la expresión personal.
 > 
 > La realidad está sometida a la expansión universal, la personalidad a una diversificación infinita, y las dos son capaces de coordinarse casi ilimitadamente con la Deidad y de estabilizarse de manera eterna. Aunque el campo metamórfico de la realidad no personal está claramente limitado, no conocemos ninguna limitación a la evolución progresiva de las realidades de la personalidad.
 > 
-> En los niveles experienciales conseguidos, todas las clases de personalidades y todos los valores de la personalidad son asociables e incluso cocreativos. Incluso Dios y el hombre pueden coexistir en una personalidad unificada, tal como lo demuestra de manera tan exquisita el estado actual de Cristo Miguel —Hijo del Hombre e Hijo de Dios. [LU 0:5.1-3](/fr/The_Urantia_Book/0#p5_3)
+> En los niveles experienciales conseguidos, todas las clases de personalidades y todos los valores de la personalidad son asociables e incluso cocreativos. Incluso Dios y el hombre pueden coexistir en una personalidad unificada, tal como lo demuestra de manera tan exquisita el estado actual de Cristo Miguel —Hijo del Hombre e Hijo de Dios. [LU 0:5.1-3](/es/The_Urantia_Book/0#p5_3)
 
 **2. La personalidad en el centro de la existencia.**
 
@@ -433,7 +433,7 @@ Conociendo el origen de la personalidad, ¿cómo no sentirnos llenos de un gran 
 
 > Respetad siempre la personalidad del hombre. Una causa justa nunca se debe promover por la fuerza; las victorias espirituales sólo se pueden ganar por medio del poder espiritual. Esta orden en contra del empleo de las influencias materiales se refiere tanto a la fuerza psíquica como a la fuerza física. No se deben emplear los argumentos abrumadores ni la superioridad mental para coaccionar a los hombres y a las mujeres para que entren en el reino. La mente del hombre no debe ser aplastada con el solo peso de la lógica, ni intimidada con una elocuencia sagaz. Aunque la emoción, como factor en las decisiones humanas, no se puede eliminar por completo, los que quieran hacer progresar la causa del reino no deberían recurrir directamente a la emoción en sus enseñanzas. Apelad directamente al espíritu divino que reside en la mente de los hombres. No recurráis al miedo, a la lástima o al simple sentimiento. Cuando apeléis a los hombres, sed justos; ejerced el autocontrol y manifestad la debida compostura; mostrad un respeto adecuado por la personalidad de vuestros alumnos. Recordad que he dicho: «Mirad, me detengo en la puerta y llamo, y si alguien quiere abrir, entraré».
 > 
-> Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. No cometáis el error de limitaros a condenar las equivocaciones que veáis en la vida de vuestros alumnos; recordad también que debéis reconocer generosamente las cosas más dignas de elogio que veáis en sus vidas. No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla. [LU 159:3.2-3](/fr/The_Urantia_Book/159#p3_3)
+> Cuando atraigáis a los hombres hacia el reino, no disminuyáis ni destruyáis su autoestima. Una autoestima excesiva puede destruir la humildad adecuada y terminar en orgullo, presunción y arrogancia, pero la pérdida de la autoestima acaba a menudo en la parálisis de la voluntad. Este evangelio tiene la finalidad de restablecer la autoestima en aquellos que la han perdido, y de refrenarla en los que la tienen. No cometáis el error de limitaros a condenar las equivocaciones que veáis en la vida de vuestros alumnos; recordad también que debéis reconocer generosamente las cosas más dignas de elogio que veáis en sus vidas. No olvidéis que no me detendré ante nada para restablecer la autoestima en aquellos que la han perdido, y que realmente desean recuperarla. [LU 159:3.2-3](/es/The_Urantia_Book/159#p3_3)
 
 **4. Debemos respetar todas las personalidades.**
 

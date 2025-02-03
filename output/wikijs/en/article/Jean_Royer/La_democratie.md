@@ -44,7 +44,7 @@ We are also warned of the dangers of democracy: _For these are the dangers of de
 > _Le choix des chefs ignorants et vils._
 > _L'incapacité de reconnaître les faits fondamentaux de l'évolution sociale._
 > _Le danger du suffrage universel aux mains de majorités frustes et indolentes._
-> _L'obéissance servile à l'opinion publique ; la majorité n'a pas toujours raison._ [LU 71:2.1-6](/fr/The_Urantia_Book/71#p2_1)
+> _L'obéissance servile à l'opinion publique ; la majorité n'a pas toujours raison._ [UB 71:2.1-6](/en/The_Urantia_Book/71#p2_1)
 
 On the other hand, we are told that democracy is an ideal (<a id="a47_59"></a>[UB 71:2.1](/en/The_Urantia_Book/71#p2_1)) and that this democratic ideal is found on Uversa (<a id="a47_153"></a>[UB 15:11.1](/en/The_Urantia_Book/15#p11_1))
 

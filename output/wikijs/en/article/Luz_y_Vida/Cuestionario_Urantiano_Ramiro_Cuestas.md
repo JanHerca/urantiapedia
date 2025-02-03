@@ -67,4 +67,4 @@ As a final reflection, I would like to tell my brother readers of _The Urantia B
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/01/29/cuestionario-urantiano-4/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/01/29/cuestionario-urantiano-4/)

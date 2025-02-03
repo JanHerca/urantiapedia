@@ -24,7 +24,7 @@ The next question was of course how to create a study group with companions thou
 
 ## Technology 
 
-After contacting the future participants, I invited them to open a Skype account [http://www.skype.com/intl/fr/get-skype/](http://www.skype.com/intl/fr/get-skype/)
+After contacting the future participants, I invited them to open a Skype account [http://www.skype.com/intl/en/get-skype/](http://www.skype.com/intl/en/get-skype/)
 
 Creating such an account is simple and intuitive and I think each of you are familiar with the procedure so I won't dwell on it. 
 
@@ -74,7 +74,7 @@ Additional information is immediately available during a Skype study group. How 
 
 Again, the dialog box is very convenient. Sometimes one of the members is asked to do research while the group continues to work. When the information becomes available it is copied into the dialog box and made available to all. If the information is intended for only one person, an individual dialog box is used instead of the group one. Similarly, when a member of the group has prepared a presentation on a given topic, the text or the main points of his presentation are published in the dialogue box. In our group, the chat box has become our group's means of communication during a meeting as well as between meetings.
 
-Members of our group use other electronic study aid programs. For example, a search engine found on the Urantia Foundation website as well as a bilingual version of The Urantia Book [https://www.urantia.org/fr/le-livre-d-urantia/lire](https://www.urantia.org/fr/le-livre-d-urantia/lire): (URL for French-speaking readers). [^1] 
+Members of our group use other electronic study aid programs. For example, a search engine found on the Urantia Foundation website as well as a bilingual version of The Urantia Book [https://www.urantia.org/en/le-livre-d-urantia/lire](https://www.urantia.org/en/le-livre-d-urantia/lire): (URL for French-speaking readers). [^1] 
 
 ![Search](https://www.urantia.org/sites/default/files/images/Search.jpg "Search") 
 

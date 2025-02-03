@@ -217,7 +217,7 @@ No haremos esta prueba del último sueño del tiempo solos, estaremos acompañad
 
 > Y ahora, en la culminación de la carrera de Havona, cuando vosotros los mortales os dormís en el mundo piloto del circuito interior, no emprendéis a solas vuestro descanso como lo hicisteis en los mundos de vuestro origen cuando cerrasteis los ojos en el sueño natural de la muerte física, ni como lo hicisteis cuando entrasteis en el largo trance de transición antes de viajar hacia Havona. Ahora, mientras os preparáis para el descanso de la consecución, vuestro asociado de tantos años del primer círculo, el majestuoso complemento del descanso, se coloca a vuestro lado, se prepara para emprender el descanso junto a vosotros, como garantía de Havona de que vuestra transición ha concluido y de que sólo estáis a la espera de los toques finales de la perfección.
 > 
-> Vuestra primera transición fue en verdad la muerte; la segunda fue un sueño ideal, y ahora la tercera metamorfosis es el verdadero descanso, la relajación de todos los tiempos. [LU 26:11.7-8](/fr/The_Urantia_Book/26#p11_8)
+> Vuestra primera transición fue en verdad la muerte; la segunda fue un sueño ideal, y ahora la tercera metamorfosis es el verdadero descanso, la relajación de todos los tiempos. [LU 26:11.7-8](/es/The_Urantia_Book/26#p11_8)
 
 **4- El resto terminal del tiempo.**
 
@@ -250,7 +250,7 @@ Desde la simple naturaleza animal fusionada con la naturaleza divina más elevad
 
 > ¡Qué aventura! ¡Qué gesta! Una creación gigantesca que será administrada por los hijos del Supremo, esos Ajustadores personalizados y humanizados, esos mortales eternizados y unidos a sus Ajustadores, esas combinaciones misteriosas y esas asociaciones eternas entre la manifestación más elevada que se conoce de la esencia de la Fuente-Centro Primera, y la forma más humilde de vida inteligente capaz de comprender y de alcanzar al Padre Universal. Pensamos que estos seres amalgamados, estas asociaciones entre el Creador y la criatura, se convertirán en unos gobernantes magníficos, unos administradores incomparables y unos directores comprensivos y compasivos para todas y cada una de las formas de vida inteligente que puedan llegar a existir en todos esos futuros universos del primer nivel del espacio exterior.
 > 
-> Es verdad que vosotros, los mortales, sois de origen terrestre, de origen animal; vuestro cuerpo es ciertamente de polvo. Pero si queréis realmente, si verdaderamente lo deseáis, es seguro que la herencia de los siglos será vuestra, y que algún día serviréis en todos los universos en vuestra verdadera condición —la de hijos del Dios Supremo de la experiencia e hijos divinos del Padre Paradisiaco de todas las personalidades. [LU 112:7.18-19](/fr/The_Urantia_Book/112#p7_19)
+> Es verdad que vosotros, los mortales, sois de origen terrestre, de origen animal; vuestro cuerpo es ciertamente de polvo. Pero si queréis realmente, si verdaderamente lo deseáis, es seguro que la herencia de los siglos será vuestra, y que algún día serviréis en todos los universos en vuestra verdadera condición —la de hijos del Dios Supremo de la experiencia e hijos divinos del Padre Paradisiaco de todas las personalidades. [LU 112:7.18-19](/es/The_Urantia_Book/112#p7_19)
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_11/019.jpg">
@@ -266,7 +266,7 @@ Desde la simple naturaleza animal fusionada con la naturaleza divina más elevad
 >
 > Durante los días finales de la estancia del ascendente en el último circuito de Havona se designan a los compañeros que lo van a recibir, y éstos examinan cuidadosamente los datos relacionados con su origen mortal y su agitada ascensión a través de los mundos del espacio y de los círculos de Havona. Cuando reciben a los mortales del tiempo, ya están bien versados en las carreras de estos peregrinos que llegan, y demuestran ser enseguida unos compañeros comprensivos y fascinantes.
 >
-> Durante vuestra estancia prefinalitaria en el Paraíso, si por alguna razón tuvierais que separaros temporalmente del asociado —mortal o seráfico— de vuestra carrera ascendente, se os asignaría inmediatamente un Compañero Paradisiaco para aconsejaros y acompañaros. Una vez que ha sido asignado a un mortal ascendente que reside solitariamente en el Paraíso, el compañero permanece con esa persona hasta que ésta se reúne con sus asociados ascendentes o es enrolada debidamente en el Cuerpo de la Finalidad. [LU 25:8.4-7](/fr/The_Urantia_Book/25#p8_7)
+> Durante vuestra estancia prefinalitaria en el Paraíso, si por alguna razón tuvierais que separaros temporalmente del asociado —mortal o seráfico— de vuestra carrera ascendente, se os asignaría inmediatamente un Compañero Paradisiaco para aconsejaros y acompañaros. Una vez que ha sido asignado a un mortal ascendente que reside solitariamente en el Paraíso, el compañero permanece con esa persona hasta que ésta se reúne con sus asociados ascendentes o es enrolada debidamente en el Cuerpo de la Finalidad. [LU 25:8.4-7](/es/The_Urantia_Book/25#p8_7)
 
 ### XVIII. El cuerpo de la finalidad.
 

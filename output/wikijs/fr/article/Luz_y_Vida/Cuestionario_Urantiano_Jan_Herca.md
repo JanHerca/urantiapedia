@@ -88,7 +88,7 @@ J'ai toujours considéré _Le Livre d'Urantia_ comme une lecture passionnante, m
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/05/30/cuestionario-urantiano-jan-herca
 
 
 

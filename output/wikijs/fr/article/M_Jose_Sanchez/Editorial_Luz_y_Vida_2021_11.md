@@ -157,7 +157,7 @@ Le monde a besoin de ces exemples de familles que nous avons soulignés ci-dessu
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/10/29/editorial-luz-y-vida-noviembre-2021/
 
 
 

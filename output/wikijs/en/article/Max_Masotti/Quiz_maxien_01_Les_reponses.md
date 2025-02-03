@@ -79,7 +79,7 @@ In this legal trio, the Perfector of Wisdom would be the “I was” and the Div
 > Les Susatias.
 > Les Univitatias.
 > Les Fils Matériels.
-> Les Créatures Médianes. [LU 37:9.2-6](/fr/The_Urantia_Book/37#p9_2)
+> Les Créatures Médianes. [UB 37:9.2-6](/en/The_Urantia_Book/37#p9_2)
 
 **8**
 

@@ -77,5 +77,5 @@ Ya ves: no queda tiempo para nada.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/10/30/navegando-por-la-vida-me-explico-ante-dios/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/10/30/navegando-por-la-vida-me-explico-ante-dios/)

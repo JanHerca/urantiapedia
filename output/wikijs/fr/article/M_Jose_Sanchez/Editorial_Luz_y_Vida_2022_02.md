@@ -151,7 +151,7 @@ Nous pouvons maintenant mieux saisir cette phrase frappante du _Livre d'Urantia_
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/01/31/editorial-febrero-2022/
 
 
 

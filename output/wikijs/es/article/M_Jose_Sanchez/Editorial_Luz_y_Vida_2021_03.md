@@ -60,7 +60,7 @@ Os invitamos, pues, a disfrutar de esta aventura adentro y hacia arriba, hacia l
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/02/21/editorial-luz-y-vida-marzo-2021/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/02/21/editorial-luz-y-vida-marzo-2021/)
 
 <figure class="table chapter-navigator">
   <table>

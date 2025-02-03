@@ -61,7 +61,7 @@ Nous vous invitons donc à profiter de cette aventure intérieure et ascendante,
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/02/21/editorial-luz-y-vida-marzo-2021/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/02/21/editorial-luz-y-vida-marzo-2021/
 
 
 

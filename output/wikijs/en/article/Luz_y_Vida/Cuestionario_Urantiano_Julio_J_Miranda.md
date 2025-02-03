@@ -75,4 +75,4 @@ I always encourage you to read it, I've already lost count.
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/12/30/cuestionario-urantiano-12/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/12/30/cuestionario-urantiano-12/)

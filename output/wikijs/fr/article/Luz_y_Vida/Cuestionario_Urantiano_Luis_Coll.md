@@ -88,7 +88,7 @@ Lo que quiero decir respecto a _El Libro de Urantia_ es que es una gran revelaci
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll
 
 
 

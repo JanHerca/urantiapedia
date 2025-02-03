@@ -69,4 +69,4 @@ Many things could be said, but I want to focus on the Urantia movement itself. I
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/11/30/cuestionario-urantiano-2/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/11/30/cuestionario-urantiano-2/)

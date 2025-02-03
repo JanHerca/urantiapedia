@@ -46,7 +46,7 @@ After the birth of the soul, which takes place concomitantly with the arrival of
 
 (The _Urantia Book_ quotes that are in bold italics are the passages that I highlight.)
 
-Published in [no 31 of the bulletin “Le Lien Urantien”](/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre) of the AFFLU.
+Published in [no 31 of the bulletin “Le Lien Urantien”](/en/article/Chris_Ragelty/Discernement_et_libre_arbitre) of the AFFLU.
 
 
 

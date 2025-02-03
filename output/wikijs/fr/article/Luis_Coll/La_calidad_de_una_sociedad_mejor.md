@@ -63,7 +63,7 @@ Le défi de cette époque moderne, si nous voulons mettre fin à la plupart des 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/
 
 
 

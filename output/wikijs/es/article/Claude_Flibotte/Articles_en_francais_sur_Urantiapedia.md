@@ -45,9 +45,9 @@ Sainte-Julie
 El administrador del sitio web Urantiapedia puso en línea, el pasado mes de junio, una serie de artículos en francés basados en una traducción de publicaciones inglesas sobre el tema del _Libro de Urantia_. Aquí está el texto publicado en el sitio web Urantiapedia de la lista de estas publicaciones y enlaces para leerlas en francés: 
 <br style="clear:both;"/>
 
-- [Fellowship Herald](/fr/index/articles_herald), de la Comunidad. Además de agregar esta publicación en francés, también agregamos los últimos números disponibles, traducidos cuando es necesario. Esta publicación ahora está disponible en su totalidad en inglés, español y francés.
-- Otras publicaciones de la Comunidad: [The Urantian](/fr/index/articles_the_urantian), [Mighty Messenger](/fr/index/articles_mighty_messenger) y [Study Group Herald](/fr/index/articles_study_group_herald), ahora están completamente en línea y disponibles en inglés, español y francés.
-- [Urantian News](/fr/index/articles_uf_urantian), la antigua publicación impresa de la Fundación Urantia, también se puede descargar y está disponible en inglés, español y francés.
+- [Fellowship Herald](/es/index/articles_herald), de la Comunidad. Además de agregar esta publicación en francés, también agregamos los últimos números disponibles, traducidos cuando es necesario. Esta publicación ahora está disponible en su totalidad en inglés, español y francés.
+- Otras publicaciones de la Comunidad: [The Urantian](/es/index/articles_the_urantian), [Mighty Messenger](/es/index/articles_mighty_messenger) y [Study Group Herald](/es/index/articles_study_group_herald), ahora están completamente en línea y disponibles en inglés, español y francés.
+- [Urantian News](/es/index/articles_uf_urantian), la antigua publicación impresa de la Fundación Urantia, también se puede descargar y está disponible en inglés, español y francés.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Reflectivite/2024_08/002.jpg">
@@ -55,7 +55,7 @@ El administrador del sitio web Urantiapedia puso en línea, el pasado mes de jun
 
 En total, este mes se publicaron en línea casi **1000 artículos**.
 
-Aquí está el enlace al sitio web de Urantiapedia si desea explorar más a fondo: https://urantiapedia.org/fr/home
+Aquí está el enlace al sitio web de Urantiapedia si desea explorar más a fondo: https://urantiapedia.org/es/home
 
 Además, hemos añadido los archivos de la revista Réflectivité desde 1982 hasta 2010 en la siguiente dirección: https://www.urantiaquebec.ca/publications/reflectivite-archives, y las siguientes publicaciones desde 2011 hasta la actualidad en esta dirección web: https://www.urantia-quebec.ca/publications/reflectivite
 

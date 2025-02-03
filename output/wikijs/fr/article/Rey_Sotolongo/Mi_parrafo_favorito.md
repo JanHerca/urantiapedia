@@ -31,4 +31,4 @@ Je dois te choisir chaque jour. Chaque décision du monde semble être «  le ch
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)

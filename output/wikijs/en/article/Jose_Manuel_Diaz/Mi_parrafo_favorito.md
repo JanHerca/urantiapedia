@@ -36,4 +36,4 @@ The problem, and with this I finish, is that “there are very few authentic dis
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)

@@ -128,7 +128,7 @@ Tras el examen de las Híades, pasaremos a mi descubrimiento de Jerusem, cuyo si
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/)
 
 <figure class="table chapter-navigator">
   <table>

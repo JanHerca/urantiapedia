@@ -65,5 +65,5 @@ Me siento muy orgulloso de que desde arriba hayan puesto su confianza en mí en 
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)

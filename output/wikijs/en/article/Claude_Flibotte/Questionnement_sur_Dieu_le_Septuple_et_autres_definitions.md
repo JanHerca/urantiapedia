@@ -148,7 +148,7 @@ Now, Eric's question is: ***Is God the Sevenfold a person?*** Since it is an ass
 > 1. Les Maitres Physiques, le mental préadjuvat.
 > 2. Les esprits mentaux adjuvats, les mentaux humains et médians.
 > 3. Les Esprits Créatifs, les mentaux de l'univers local.
-> 4. Les Sept Maitres Esprits, le mental cosmique. [LU 42:10.3-6](/fr/The_Urantia_Book/42#p10_5)
+> 4. Les Sept Maitres Esprits, le mental cosmique. [UB 42:10.3-6](/en/The_Urantia_Book/42#p10_5)
 
 > 2. The mind forces are convergent in the Infinite Spirit; the differential and divergent cosmic mind in the Seven Master Spirits; the factualizing mind of the Supreme as a time-space experience in Majeston. (<a id="a151_210"></a>[UB 0:3.14](/en/The_Urantia_Book/0#p3_14))
 

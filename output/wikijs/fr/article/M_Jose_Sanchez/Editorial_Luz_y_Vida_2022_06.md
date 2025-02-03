@@ -111,7 +111,7 @@ Alors faisons comme notre cher Maître : entrons dans notre chambre, entrons dan
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
 
 
 

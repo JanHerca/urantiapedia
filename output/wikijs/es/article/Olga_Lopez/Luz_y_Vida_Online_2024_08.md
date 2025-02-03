@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Agosto 2024 — Boletín"
+title: "Luz y Vida — Septiembre 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Agosto 2024
+Luz y Vida — Septiembre 2024
 
 ## En este número
 
-- Editorial – Agosto 2024 — M. José Sánchez Santamaría
+- Editorial – Septiembre 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús a los 20 años
@@ -27,7 +27,7 @@ Luz y Vida — Agosto 2024
 - Cuestionario urantiano — Jaime Marco
 - En recuerdo de Esteban Cotán (1927-2024)
 
-## Editorial – Agosto 2024 — M. José Sánchez Santamaría
+## Editorial – Septiembre 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
@@ -40,9 +40,9 @@ En nuestro boletín «Luz y Vida» queremos todos los meses asemejarnos a nuestr
 En el número del mes de septiembre os ofrecemos para vuestra lectura estos cuatro interesantes trabajos:
 <br style="clear:both;"/>
 
-- Charlas (Bill Sadler)  
-- Breve historia de la Creación (Eduardo Altuzarra)  
-- Esquema de la organización seráfica (L. Coll)  
+- Charlas (Bill Sadler)
+- Breve historia de la Creación (Eduardo Altuzarra)
+- Esquema de la organización seráfica (L. Coll)
 - Poesía urantiana (José Rodríguez Jorge)
 
 Continuamos con los trabajos de la «Crónica de la vida de Jesús» (documento 158) que nos ayudan en nuestro estudio del libro, así como la «Guía de la vida de Jesús para los más pequeños» (Jesús a los 20 años).
@@ -236,8 +236,58 @@ En 2001 se creó y acreditó por miembros de la Fundación y de la Asociación U
 
 [Leer más](/es/article/Eduardo_Altuzarra/En_recuerdo_de_Esteban_Cotan)
 
+## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
+
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_08/UBIS-septiembre-2021.jpg" alt="UBIS" width="350">
+</figure>
+
+En septiembre comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 9 de septiembre** y finaliza el **domingo 22**. Los cursos comienzan el **lunes 16** con la semana de orientación.
+
+Estos son los cursos que se ofrecerán este trimestre en lengua española:
+<br style="clear:both;"/>
+
+1. **Génesis de la realidad**. Facilita: José Manuel Díaz Roldán. Nivel: avanzado. Duración: 6 semanas.
+2. **La oración como charla con nuestro Padre del cielo**. Facilita: Darío Franco Cuartas. Nivel: intermedio. Duración: 10 semanas.
+3. **La evolución de la familia, la civilizadora principal**. Facilita: Diego Betancourt. Nivel: básico. Duración 10 semanas.
+4. **Origen y sentido del sufrimiento**. Facilita: Ulises Pedrique. Nivel: intermedio. Duración: 6 semanas.
+5. **Jesús de Nazaret: un modelo de inspiración para el alma de los hombres**. Facilita: Luis Alfonso Rojas Rosillo. Nivel: básico. Duración: 10 semanas.
+
+Si estáis interesados en tomar algún curso, previamente debéis crear una cuenta en la web de la escuela, [http://ubis.urantia.org](http://ubis.urantia.org/). Esto puede hacerse antes de que comience la inscripción.
+
+Los cupos son limitados, ¡así que inscribíos lo antes posible si no queréis quedaros sin plaza!
+
+
+## Charla urantiana de septiembre
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_08/Transhumanismo-2.jpg" alt="Futuro tecnológico" width="250">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado en el que los asistentes pueden participar.
+
+Esta es la charla programada para el mes de septiembre:
+
+**Viernes 27: Futuro tecnológico a la luz de _El libro de Urantia_(Olga López)**
+
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

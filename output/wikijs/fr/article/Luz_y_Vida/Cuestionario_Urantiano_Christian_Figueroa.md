@@ -100,7 +100,7 @@ Je souhaite partager trois citations qui font désormais partie de moi et de ma 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Light and Life Editorial – March 2021"
+title: "Luz y Vida Editorial – March 2021"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

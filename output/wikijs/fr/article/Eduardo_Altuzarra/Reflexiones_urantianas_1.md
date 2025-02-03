@@ -82,7 +82,7 @@ On peut dire qu’oser se lancer dans cette aventure sans fin, c’est reconnaî
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/01/31/reflexiones-urantianas-despertar-a-una-nueva-consciencia-primera-parte/
 
 
 

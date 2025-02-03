@@ -99,7 +99,7 @@ Quiero compartir tres citas que se han hecho parte de mí y de mi visión, y que
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa)
 
 <figure class="table chapter-navigator">
   <table>

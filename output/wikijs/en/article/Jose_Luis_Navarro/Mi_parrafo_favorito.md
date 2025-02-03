@@ -32,4 +32,4 @@ Anyway, when I read this paragraph from _The Urantia Book_, although I still did
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/10/30/mi-parrafo-favorito-33/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/10/30/mi-parrafo-favorito-33/)

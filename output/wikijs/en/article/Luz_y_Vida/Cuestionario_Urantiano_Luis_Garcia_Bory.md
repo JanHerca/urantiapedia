@@ -103,4 +103,4 @@ I only invite all those interested in _The Urantia Book_ to dare to open their m
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)

@@ -98,7 +98,7 @@ Atravesemos la puerta que es _El Libro de Urantia_, descubramos con su lectura l
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/)
 
 <figure class="table chapter-navigator">
   <table>

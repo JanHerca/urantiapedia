@@ -78,7 +78,7 @@ Carlos Rubinski
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/10/30/mi-parrafo-favorito-13/
 
 
 

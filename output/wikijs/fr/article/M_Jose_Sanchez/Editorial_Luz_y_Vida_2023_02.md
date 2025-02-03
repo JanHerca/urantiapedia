@@ -143,7 +143,7 @@ Ouvrons les yeux et regardons...
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
 
 
 

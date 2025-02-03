@@ -96,7 +96,7 @@ When he speaks of the Father, Jesus speaks with absolute authority because he ha
 
 Jesus is ready for adventure. He is not afraid. He is ready to move forward. He is a pioneer. He allowed others to get rid of erroneous, stifling concepts without revolution. He swept away useless habits.
 
-> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ [LU 100:7.6-7](/fr/The_Urantia_Book/100#p7_6)
+> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ [UB 100:7.6-7](/en/The_Urantia_Book/100#p7_6)
 
 He was immune to disappointments, through his liberating faith, through his mastery and the overcoming of his ego. He speaks to everyone without prejudice.
 

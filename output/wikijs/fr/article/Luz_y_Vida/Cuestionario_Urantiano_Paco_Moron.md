@@ -88,7 +88,7 @@ Nous sommes très tôt dans cette révélation, il existe de grandes différence
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron
 
 
 

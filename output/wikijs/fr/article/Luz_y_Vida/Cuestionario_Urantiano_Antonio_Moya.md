@@ -90,7 +90,7 @@ J'ai commencé (je suppose comme tout le monde) par la première lecture, en rec
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya
 
 
 

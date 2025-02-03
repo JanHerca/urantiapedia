@@ -120,7 +120,7 @@ Efforçons-nous chaque jour d'être nous-mêmes, allons à contre-courant, car p
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
 
 
 

@@ -46,4 +46,4 @@ Thank you so much.
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/05/31/mi-parrafo-favorito-30/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/05/31/mi-parrafo-favorito-30/)

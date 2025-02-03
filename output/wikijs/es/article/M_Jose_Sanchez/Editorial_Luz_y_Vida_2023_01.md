@@ -155,7 +155,7 @@ Hermoso reto este, escuchar de verdad a quien está dentro, para este principio 
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/)
 
 <figure class="table chapter-navigator">
   <table>

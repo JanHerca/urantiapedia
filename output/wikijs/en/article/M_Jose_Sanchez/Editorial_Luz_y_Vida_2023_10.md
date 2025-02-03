@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — October 2023 — Editorial"
+title: "Luz y Vida — November 2023 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -133,4 +133,4 @@ Let us trust then in the change of our planet, in the transforming power of the 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/10/30/editorial-noviembre-2023/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/10/30/editorial-noviembre-2023/)

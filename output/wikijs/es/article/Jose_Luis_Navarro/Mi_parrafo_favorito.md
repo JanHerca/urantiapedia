@@ -31,5 +31,5 @@ En fin, que cuando leí este párrafo de _El libro de Urantia_, aunque aún no t
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/10/30/mi-parrafo-favorito-33/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/10/30/mi-parrafo-favorito-33/)

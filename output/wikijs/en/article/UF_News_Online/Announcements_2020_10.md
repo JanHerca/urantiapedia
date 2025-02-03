@@ -33,7 +33,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Thoughts to Ponder in French
 
-Daily Thoughts to Ponder is now available in French. You can sign up here: https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier
+Daily Thoughts to Ponder is now available in French. You can sign up here: https://www.urantia.org/en/inset/sinscrire-dans-le-fichier
 
 ## Search Engine in Indonesian
 
@@ -43,7 +43,7 @@ Please spend time using the search engine and tell us what you think. If you fin
 
 ## This Little Light of Mine Videos
 
-Video now available in [English](https://www.urantia.org/urantia-book-video), [Spanish](https://www.urantia.org/es/video-de-el-libro-de-urantia), [Portuguese](https://www.urantia.org/pt/video-sobre-o-livro-de-urantia), [Danish](https://www.urantia.org/da/video), [Estonian](https://www.urantia.org/et/video), [Italian](https://www.urantia.org/it/video), [Russian](https://www.urantia.org/ru/video), [French](https://www.urantia.org/fr/video), [German](https://www.urantia.org/de/video), and [Indonesian](https://www.urantia.org/id/video). Coming soon in Dutch, Finnish, and Hungarian.
+Video now available in [English](https://www.urantia.org/urantia-book-video), [Spanish](https://www.urantia.org/es/video-de-el-libro-de-urantia), [Portuguese](https://www.urantia.org/pt/video-sobre-o-livro-de-urantia), [Danish](https://www.urantia.org/da/video), [Estonian](https://www.urantia.org/et/video), [Italian](https://www.urantia.org/it/video), [Russian](https://www.urantia.org/ru/video), [French](https://www.urantia.org/en/video), [German](https://www.urantia.org/de/video), and [Indonesian](https://www.urantia.org/id/video). Coming soon in Dutch, Finnish, and Hungarian.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_10/054.jpg">

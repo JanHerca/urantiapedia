@@ -99,7 +99,7 @@ Passons la porte qu'est _Le Livre d'Urantia_, découvrons en le lisant ce qui a 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/
 
 
 

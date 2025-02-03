@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Agosto 2023 — Editorial"
+title: "Luz y Vida — Septiembre 2023 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -126,6 +126,6 @@ Respondamos a la esperanza de tantas generaciones que lucharon y sufrieron por c
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 

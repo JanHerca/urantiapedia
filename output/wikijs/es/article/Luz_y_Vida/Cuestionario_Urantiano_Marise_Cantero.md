@@ -85,7 +85,7 @@ Durante el periodo de pandemia, hablé a través de Zoom con otros lectores y fu
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/12/30/cuestionario-urantiano-marise-castro)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/12/30/cuestionario-urantiano-marise-castro)
 
 <figure class="table chapter-navigator">
   <table>

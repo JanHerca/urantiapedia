@@ -92,5 +92,5 @@ Aquí podéis acceder al [PDF con las imágenes de apoyo a la presentación](htt
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/09/28/presentaciones-del-xix-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/09/28/presentaciones-del-xix-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)

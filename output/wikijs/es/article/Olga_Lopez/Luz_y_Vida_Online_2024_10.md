@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Octubre 2024 — Boletín"
+title: "Luz y Vida — Noviembre 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Octubre 2024
+Luz y Vida — Noviembre 2024
 
 ## En este número
 
-- Editorial – Octubre 2024 — M. José Sánchez Santamaría
+- Editorial – Noviembre 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de _El libro de Urantia_ para niños: Jesús a los 23 años
@@ -26,7 +26,7 @@ Luz y Vida — Octubre 2024
 - Mi párrafo favorito — José Luis Navarro
 - Charla urantiana de noviembre
 
-## Editorial – Octubre 2024 — M. José Sánchez Santamaría
+## Editorial – Noviembre 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Editorial-nov-24-1.jpg" alt="Editorial nov 24-1" width="350">
@@ -206,9 +206,22 @@ Hora: **19:00 horas** (CET, hora peninsular española)
 
 <br style="clear:both;"/>
 
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
+
 
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

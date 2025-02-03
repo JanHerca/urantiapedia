@@ -190,7 +190,7 @@ C.E.R.D.H.*<br>
 FRANCE<br>
 </p>
 
-> «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» ([UB 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» ([UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 > «To become acquainted with one's brothers and sisters, to know their problems and to leam to love them, is the supreme experience of living.» (<a id="a194_145"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 

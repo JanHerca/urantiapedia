@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — November 2024 — Editorial"
+title: "Luz y Vida — December 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -89,4 +89,4 @@ Let's go for this dream of living free of “spells”, to live from the connect
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/11/30/editorial-diciembre-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/11/30/editorial-diciembre-2024/)

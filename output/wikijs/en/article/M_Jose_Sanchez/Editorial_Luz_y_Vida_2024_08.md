@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — August 2024 — Editorial"
+title: "Luz y Vida — September 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -142,4 +142,4 @@ How magnificent was Jesus' attitude towards life, what a surprising meaning his 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)

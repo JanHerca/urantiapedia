@@ -86,7 +86,7 @@ Pendant la période pandémique, j’ai parlé via Zoom avec d’autres lecteurs
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/12/30/cuestionario-urantiano-marise-castro
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/12/30/cuestionario-urantiano-marise-castro
 
 
 

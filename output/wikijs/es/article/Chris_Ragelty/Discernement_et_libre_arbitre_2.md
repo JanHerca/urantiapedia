@@ -44,7 +44,7 @@ Tras el nacimiento del alma, que tiene lugar en concomitancia con la llegada del
 
 (Las citas del _Libro de Urantia_ que están en cursiva y negrita son los pasajes que destaco).
 
-Publicado en el [no 31 del boletín «Le Lien Urantien»](/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre) de la AFFLU.
+Publicado en el [no 31 del boletín «Le Lien Urantien»](/es/article/Chris_Ragelty/Discernement_et_libre_arbitre) de la AFFLU.
 
 <figure class="table chapter-navigator">
   <table>

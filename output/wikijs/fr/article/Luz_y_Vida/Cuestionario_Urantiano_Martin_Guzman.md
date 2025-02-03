@@ -104,7 +104,7 @@ _Le Livre d'Urantia_ est une feuille de route qui nous enseigne où trouver la s
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/02/27/cuestionario-urantiano-martin-guzman
 
 
 

@@ -87,7 +87,7 @@ Estamos muy al comienzo de esta revelación, hay grandes diferencias culturales 
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/11/29/cuestionario-urantiano-paco-moron)
 
 <figure class="table chapter-navigator">
   <table>

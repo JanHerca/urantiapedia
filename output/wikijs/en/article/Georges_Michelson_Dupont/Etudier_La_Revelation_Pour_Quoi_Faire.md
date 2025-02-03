@@ -137,7 +137,7 @@ Voices have been raised to affirm that intellectual study as such does not bring
 > 2. Elles coordonnent les observations et les faits connus ou sur le point d'être connus.
 > 3. Elles restaurent d'importantes fractions de connaissances perdues concernant des évènements historiques du passé lointain.
 > 4. Elles fournissent des renseignements qui comblent des lacunes fondamentales dans les connaissances acquises par ailleurs.
-> 5. Elles présentent des données cosmiques d'une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne.  [LU 101:4.3-10](/fr/The_Urantia_Book/101#p4_3)
+> 5. Elles présentent des données cosmiques d'une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne.  [UB 101:4.3-10](/en/The_Urantia_Book/101#p4_3)
 
 It is for all these reasons, and for others still, that I study the revelation. I do not allow myself to be diverted by so-called additions resulting from channeling which I consider to be an intellectual and spiritual fraud whose goal is to divert seekers of truth from the revelation. Anything that deviates, divides, or distances the readership of _The Urantia Book_ must rejoice Caligastia.
 
@@ -151,7 +151,7 @@ I would conclude by quoting a Solitary Messenger from Orvonton:
 >
 > ...
 > 
-> Le mental mortel est un système intellectuel temporaire prêté aux êtres humains pour être utilisé pendant la durée d'une vie matérielle, et, selon la manière dont ils emploient ce mental, ils acceptent ou rejettent le potentiel d'existence éternelle. [LU 111:1.1-5](/fr/The_Urantia_Book/111#p1_1)
+> Le mental mortel est un système intellectuel temporaire prêté aux êtres humains pour être utilisé pendant la durée d'une vie matérielle, et, selon la manière dont ils emploient ce mental, ils acceptent ou rejettent le potentiel d'existence éternelle. [UB 111:1.1-5](/en/The_Urantia_Book/111#p1_1)
 
 George Michelson Dupont
 Reclosed October 2020

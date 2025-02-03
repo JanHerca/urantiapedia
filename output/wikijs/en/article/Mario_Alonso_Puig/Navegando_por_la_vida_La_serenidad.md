@@ -34,4 +34,4 @@ The king explained to them what he so wanted to convey to his son the prince:
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)

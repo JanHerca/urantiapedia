@@ -34,5 +34,5 @@ Por eso ese grito de «¡Tened paciencia!» tiene más sentido que nunca. La Qui
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/12/30/mi-parrafo-favorito-35/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/12/30/mi-parrafo-favorito-35/)

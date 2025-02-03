@@ -40,5 +40,5 @@ https://www.youtube.com/watch?v=ATLHxqZPBd0
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/08/29/otros-libros-de-crecimiento-espiritual-30/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/08/29/otros-libros-de-crecimiento-espiritual-30/)

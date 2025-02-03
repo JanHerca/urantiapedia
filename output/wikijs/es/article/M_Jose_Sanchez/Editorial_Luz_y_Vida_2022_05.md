@@ -120,7 +120,7 @@ Una vez que concibió así que el reino consistía en la voluntad de Dios, se en
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/)
 
 <figure class="table chapter-navigator">
   <table>

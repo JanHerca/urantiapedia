@@ -91,7 +91,7 @@ Moralité : pour évoluer spirituellement, nous n'avons pas besoin d'être saint
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/
 
 
 

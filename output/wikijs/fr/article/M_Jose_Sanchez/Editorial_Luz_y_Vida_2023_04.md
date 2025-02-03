@@ -111,7 +111,7 @@ Laissons-nous embrasser dans le présent par ses bras. Rentrons comme des fils p
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/
 
 
 

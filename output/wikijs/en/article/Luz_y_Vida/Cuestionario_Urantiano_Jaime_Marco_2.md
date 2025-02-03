@@ -131,4 +131,4 @@ I thank God, every time I can and remember, for having helped me find it and rea
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/08/29/cuestionario-urantiano-9/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/cuestionario-urantiano-9/)

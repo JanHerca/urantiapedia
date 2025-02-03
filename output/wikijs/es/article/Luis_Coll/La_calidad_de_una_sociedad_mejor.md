@@ -62,7 +62,7 @@ El desafío para esta época moderna, si se quiere acabar con la mayoría de los
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/05/26/la-calidad-de-una-sociedad-mejor/)
 
 <figure class="table chapter-navigator">
   <table>

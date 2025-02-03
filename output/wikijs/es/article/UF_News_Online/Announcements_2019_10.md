@@ -78,7 +78,7 @@ Tenemos el placer de anunciarles que la traducción al japonés de _El libro de 
 
 ## Nuevo motor de búsqueda de El libro de Urantia en la web
 
-Ya está funcionando el nuevo motor de búsqueda de _El libro de Urantia_ en la web en [español](https://www.urantia.org/es/el-libro-de-urantia/buscar), [portugués](https://www.urantia.org/pt/o-livro-de-urantia/pesquisar) y [francés](https://www.urantia.org/fr/le-livre-d-urantia/rechercher). Pueden configurar los resultados de sus búsquedas por orden de aparición en el libro o por orden de importancia. Pueden seleccionar también «cualquiera» o «exacto», ya no se necesitan instrucciones booleanas. Para obtener más pistas útiles, hagan clic en el icono situado a la derecha del botón «Enviar». ¡Esperamos que este nuevo motor les ayude con el estudio del libro!
+Ya está funcionando el nuevo motor de búsqueda de _El libro de Urantia_ en la web en [español](https://www.urantia.org/es/el-libro-de-urantia/buscar), [portugués](https://www.urantia.org/pt/o-livro-de-urantia/pesquisar) y [francés](https://www.urantia.org/es/le-livre-d-urantia/rechercher). Pueden configurar los resultados de sus búsquedas por orden de aparición en el libro o por orden de importancia. Pueden seleccionar también «cualquiera» o «exacto», ya no se necesitan instrucciones booleanas. Para obtener más pistas útiles, hagan clic en el icono situado a la derecha del botón «Enviar». ¡Esperamos que este nuevo motor les ayude con el estudio del libro!
 
 Dediquen un tiempo a usar el motor de búsqueda y dígannos lo que piensan. Si encuentran algún error, hágannoslo saber para que podamos arreglarlo. Pueden enviar un correo a Ashley en [ashleyt@urantia.org](mailto:ashleyt@urantia.org).
 

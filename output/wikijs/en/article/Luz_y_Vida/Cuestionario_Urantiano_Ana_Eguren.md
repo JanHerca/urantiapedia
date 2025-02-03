@@ -71,4 +71,4 @@ I can say that my experience with _The Urantia Book_ has been a balm, a relaxati
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)

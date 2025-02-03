@@ -35,5 +35,5 @@ El problema, y con esto termino, es que «_hay muy pocos discípulos auténticos
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/10/30/mi-parrafo-favorito-23/)

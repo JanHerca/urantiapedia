@@ -94,7 +94,7 @@ _Le Livre d'Urantia_ est pour moi un cadeau qui nous a été fait, afin que nous
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/05/01/cuestionario-urantiano-gema-villa
 
 
 

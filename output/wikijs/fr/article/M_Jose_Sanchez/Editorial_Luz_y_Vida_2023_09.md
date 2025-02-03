@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Septembre 2023 — Éditorial"
+title: "Luz y Vida — Octobre 2023 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -102,4 +102,4 @@ Personne n’a dit que la vie était facile, mais nous y sommes, et nous sommes 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/09/28/editorial-octubre-2023/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/09/28/editorial-octubre-2023/)

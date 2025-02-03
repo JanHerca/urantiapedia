@@ -53,4 +53,4 @@ Merci beaucoup de m'avoir lu. À la prochaine.
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/02/28/mi-parrafo-favorito-27/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/02/28/mi-parrafo-favorito-27/)

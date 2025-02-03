@@ -33,5 +33,5 @@ El rey les explicó qué era lo que tanto ansiaba transmitir a su hijo el prínc
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)

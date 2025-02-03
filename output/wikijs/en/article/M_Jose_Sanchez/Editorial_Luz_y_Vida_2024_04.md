@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — April 2024 — Editorial"
+title: "Luz y Vida — May 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -126,4 +126,4 @@ So therein lies the true conflict, the reason for our hope: in the ability to dr
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)

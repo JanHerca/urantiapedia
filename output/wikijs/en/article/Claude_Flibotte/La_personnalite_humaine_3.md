@@ -78,7 +78,7 @@ I asked myself, since the Father gives me the personality and the Thought Adjust
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.5-14](/fr/The_Urantia_Book/16#p8_5)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [UB 16:8.5-14](/en/The_Urantia_Book/16#p8_5)
 
 Through this additional information, we realize that self-consciousness also called the ego is linked to the mind and to the qualitative addition of the personality.
 

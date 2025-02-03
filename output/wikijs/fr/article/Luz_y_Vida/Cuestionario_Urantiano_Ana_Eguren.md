@@ -71,4 +71,4 @@ Je peux dire que mon expérience avec _Le Livre d’Urantia_ a été un baume, u
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)

@@ -88,7 +88,7 @@ Je connais plusieurs lecteurs du _Le Livre d'Urantia_. Je me considère comme un
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/04/30/cuestionario-urantiano-ana-maria-garcia
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/04/30/cuestionario-urantiano-ana-maria-garcia
 
 
 

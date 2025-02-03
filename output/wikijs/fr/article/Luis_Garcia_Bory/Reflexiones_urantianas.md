@@ -79,7 +79,7 @@ Louis
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/09/29/reflexiones-urantianas/
 
 
 

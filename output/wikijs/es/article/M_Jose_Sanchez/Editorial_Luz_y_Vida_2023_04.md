@@ -110,7 +110,7 @@ Dejemos abrazar en el presente por Sus brazos. Volvamos como hijos pródigos a n
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/03/28/editorial-abril-2023/)
 
 <figure class="table chapter-navigator">
   <table>

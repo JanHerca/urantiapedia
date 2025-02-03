@@ -88,7 +88,7 @@ Ce que je peux dire, c'est que grâce au _Le Livre d'Urantia_, je me réveille c
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/12/31/cuestionario-urantiano-gloria-andreu
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/12/31/cuestionario-urantiano-gloria-andreu
 
 
 

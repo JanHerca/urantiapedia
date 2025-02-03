@@ -29,5 +29,5 @@ Muchas veces me imagino un mundo aplicando esta simple lección, la de sufrimien
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/11/30/mi-parrafo-favorito-24/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/11/30/mi-parrafo-favorito-24/)

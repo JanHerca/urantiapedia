@@ -207,7 +207,7 @@ The discoveries made at the Gesher Benot Ya'aqov in Israel during this millenniu
 * Kyle Streich, *Terra Amata*, June 2008, https://web.archive.org/web/20080618062326/http://www.mnsu.edu/emuseum/archaeology/sites/europe/terraamata.html, brief description of the Terra Amata site. [Original link broken].
 * Dennis O'Neill, *Archaic Human Culture*, https://www2.palomar.edu/anthro/homo2/mod_homo_3.htm, general info on primitive culture with some info on flint and Terra Amata.
 * Wikipedia page about Terra Amata: http://en.wikipedia.org/wiki/Terra_Amata
-* Terra Amata museum website, in Nice: http://www.nice.fr/fr/culture/musees-et-galeries/presentation-du-musee-terra-amata
+* Terra Amata museum website, in Nice: http://www.nice.fr/en/culture/musees-et-galeries/presentation-du-musee-terra-amata
 * Jennifer Viegas, *World's oldest BBQ burnt meat to a crisp*, *ABC Science*, May, 3 2004, \myurl{http://www.abc.net.au/science/articles/2004/05/03/1100057.htm?site=science&topic=latest}, article echoing the discovery at the Israeli site.
 * *When was fire first controlled by human beings?* http://www.beyondveg.com/nicholson-w/hb/hb-interview2c.shtml, comprehensive review of the issues,.
 * Steven R. James, R. W. Dennell, Allan S. Gilbert, et al., *Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence*, February 1989, https://www.jstor.org/stable/2743299?seq=1

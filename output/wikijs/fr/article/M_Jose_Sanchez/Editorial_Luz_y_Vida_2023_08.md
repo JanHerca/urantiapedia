@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Août 2023 — Éditorial"
+title: "Luz y Vida — Septembre 2023 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -127,5 +127,5 @@ Répondons à l’espoir de tant de générations qui ont lutté et souffert pou
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 

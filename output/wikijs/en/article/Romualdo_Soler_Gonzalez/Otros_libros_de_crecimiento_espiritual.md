@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=ATLHxqZPBd0
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/08/29/otros-libros-de-crecimiento-espiritual-30/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/otros-libros-de-crecimiento-espiritual-30/)

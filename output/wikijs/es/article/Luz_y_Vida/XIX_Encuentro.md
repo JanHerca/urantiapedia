@@ -59,5 +59,5 @@ Este ha sido el primer Encuentro de lectores españoles desde el inicio de la pa
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/09/27/xix-encuentro-de-lectores-ciudad-real-2023/)

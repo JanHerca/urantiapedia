@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Agosto 2024 — Editorial"
+title: "Luz y Vida — Septiembre 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -141,5 +141,5 @@ Jesús muere en la cruz, y lo hace con la serenidad y el amor inaudito de una vi
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)

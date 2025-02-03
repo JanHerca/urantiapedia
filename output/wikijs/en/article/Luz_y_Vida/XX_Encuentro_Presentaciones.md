@@ -70,4 +70,4 @@ Positioning oneself in an ideal situation in the face of the new changes that ar
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/07/30/presentaciones-del-xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/07/30/presentaciones-del-xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)

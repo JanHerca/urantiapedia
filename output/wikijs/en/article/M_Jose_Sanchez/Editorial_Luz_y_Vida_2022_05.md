@@ -1,5 +1,5 @@
 ---
-title: "Light and Life Editorial – May 2022"
+title: "Luz y Vida Editorial – May 2022"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

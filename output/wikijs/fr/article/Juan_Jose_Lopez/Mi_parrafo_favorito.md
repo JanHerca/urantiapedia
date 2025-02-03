@@ -62,7 +62,7 @@ C’est ainsi que la valeur vivifiante et libératrice de la foi est pleinement 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
 
 
 

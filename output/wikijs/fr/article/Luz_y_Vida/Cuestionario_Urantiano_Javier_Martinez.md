@@ -102,7 +102,7 @@ Si nous n’appliquons pas correctement les enseignements du livre, voici les da
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/01/31/cuestionario-urantiano-javier-martinez
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2023/01/31/cuestionario-urantiano-javier-martinez
 
 
 

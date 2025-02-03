@@ -79,7 +79,7 @@ Human life is difficult and full of pitfalls, especially on Urantia, but we must
 >
 > 8. Is *unselfishness—*the spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake. Man could never lay saving hold on righteousness if there were no potential evil to exalt and differentiate the good by contrast.
 >
-> 9. Is *pleasure—*the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.” [LU 3:5.5-14](/fr/The_Urantia_Book/3#p5_14)
+> 9. Is *pleasure—*the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.” [UB 3:5.5-14](/en/The_Urantia_Book/3#p5_14)
 
 > The creatures of Havona are naturally brave, but they are not courageous in the human sense. They are innately kind and considerate, but hardly altruistic in the human way. They are expectant of a pleasant future, but not hopeful in the exquisite manner of the trusting mortal of the uncertain evolutionary spheres. They have faith in the stability of the universe, but they are utter strangers to that saving faith whereby mortal man climbs from the status of an animal up to the portals of Paradise. They love the truth, but they know nothing of its soul-saving qualities. They are idealists, but they were born that way; they are wholly ignorant of the ecstasy of becoming such by exhilarating choice. They are loyal, but they have never experienced the thrill of wholehearted and intelligent devotion to duty in the face of temptation to default. They are unselfish, but they never gained such levels of experience by the magnificent conquest of a belligerent self. They enjoy pleasure, but they do not comprehend the sweetness of the pleasure escape from the pain potential. (<a id="a83_1083"></a>[UB 3:5.17](/en/The_Urantia_Book/3#p5_17))
 
@@ -157,7 +157,7 @@ The re-customization process is well described below.
 >
 > 2. The return of the Adjuster to the waiting morontia creature. The Adjuster is the eternal custodian of your ascending identity; your Monitor is the absolute assurance that you yourself and not another will occupy the morontia form created for your personality awakening. And the Adjuster will be present at your personality reassembly to take up once more the role of Paradise guide to your surviving self.
 >
-> 3. When these prerequisites of repersonalization have been assembled, the seraphic custodian of the potentialities of the slumbering immortal soul, with the assistance of numerous cosmic personalities, bestows this morontia entity upon and in the awaiting morontia mind-body form while committing this evolutionary child of the Supreme to eternal association with the waiting Adjuster. And this completes the repersonalization, reassembly of memory, insight, and consciousness—identity.” [LU 112:5.15-19](/fr/The_Urantia_Book/112#p5_19)
+> 3. When these prerequisites of repersonalization have been assembled, the seraphic custodian of the potentialities of the slumbering immortal soul, with the assistance of numerous cosmic personalities, bestows this morontia entity upon and in the awaiting morontia mind-body form while committing this evolutionary child of the Supreme to eternal association with the waiting Adjuster. And this completes the repersonalization, reassembly of memory, insight, and consciousness—identity.” [UB 112:5.15-19](/en/The_Urantia_Book/112#p5_19)
 
 ### VIII. The survival of the self — the personality.
 
@@ -198,7 +198,7 @@ As soon as, in the human mind, the pilot light disappears, the spiritual luminos
 >
 > The Adjuster will identify you; the guardian seraphim will repersonalize you and then re-present you to the faithful Monitor of your earth days.
 >
-> And even so, when a planetary age ends, when those in the lower circles of mortal achievement are forgathered, it is their group guardians who reassemble them in the resurrection halls of the mansion spheres, even as your record tells: “And he shall send his angels with a great voice and shall gather together his elect from one end of the realm to another.”” ” [LU 113:6.5-7](/fr/The_Urantia_Book/113#p6_7)
+> And even so, when a planetary age ends, when those in the lower circles of mortal achievement are forgathered, it is their group guardians who reassemble them in the resurrection halls of the mansion spheres, even as your record tells: “And he shall send his angels with a great voice and shall gather together his elect from one end of the realm to another.”” ” [UB 113:6.5-7](/en/The_Urantia_Book/113#p6_7)
 
 ### IX. The worlds of houses.
 
@@ -232,7 +232,7 @@ Finally, the long-awaited and hoped-for moment happens!
 
 > The union of the evolving immortal soul with the eternal and divine Adjuster is signalized by the seraphic summoning of the supervising superangel for resurrected survivors and of the archangel of record for those going to judgment on the third day; and then, in the presence of such a survivor’s morontia associates, these messengers of confirmation speak: “This is a beloved son in whom I am well pleased.” This simple ceremony marks the entrance of an ascending mortal upon the eternal career of Paradise service.
 >
-> Immediately upon the confirmation of Adjuster fusion the new morontia being is introduced to his fellows for the first time by his new name and is granted the forty days of spiritual retirement from all routine activities wherein to commune with himself and to choose some one of the optional routes to Havona and to select from the differential techniques of Paradise attainment.” [LU 47:8.4-5](/fr/The_Urantia_Book/47#p8_5)
+> Immediately upon the confirmation of Adjuster fusion the new morontia being is introduced to his fellows for the first time by his new name and is granted the forty days of spiritual retirement from all routine activities wherein to commune with himself and to choose some one of the optional routes to Havona and to select from the differential techniques of Paradise attainment.” [UB 47:8.4-5](/en/The_Urantia_Book/47#p8_5)
 
 **6- Is there a second probation period?**
 
@@ -242,7 +242,7 @@ If our intentions and desires have survival value, decrees will be issued to ext
 >
 > The governments of Orvonton and Nebadon do not claim absolute perfection for the detail working of the universal plan of mortal repersonalization, but they do claim to, and actually do, manifest patience, tolerance, understanding, and merciful sympathy. We had rather assume the risk of a system rebellion than to court the hazard of depriving one struggling mortal from any evolutionary world of the eternal joy of pursuing the ascending career.
 >
-> This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. The sovereign Judges of the universes will not deprive any being of personality status who has not finally and fully made the eternal choice; the soul of man must and will be given full and ample opportunity to reveal its true intent and real purpose.” [LU 112:5.7-9](/fr/The_Urantia_Book/112#p5_9)
+> This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. The sovereign Judges of the universes will not deprive any being of personality status who has not finally and fully made the eternal choice; the soul of man must and will be given full and ample opportunity to reveal its true intent and real purpose.” [UB 112:5.7-9](/en/The_Urantia_Book/112#p5_9)
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_10/014.jpg">
@@ -277,7 +277,7 @@ Through his love and kindness, the Father does not forget children who die in in
 >
 > In due course Thought Adjusters come to indwell these little ones, while the seraphic ministry to both groups of the probationary-dependent orders of survival is in general similar to that of the more advanced parent or is equivalent to that of the parent in case only one survives. Those attaining the third circle, regardless of the status of their parents, are accorded personal guardians.
 >
-> Similar probation nurseries are maintained on the finaliter spheres of the constellation and the universe headquarters for the Adjusterless children of the primary and secondary modified orders of ascenders.” [LU 49:6.12-14](/fr/The_Urantia_Book/49#p6_14)
+> Similar probation nurseries are maintained on the finaliter spheres of the constellation and the universe headquarters for the Adjusterless children of the primary and secondary modified orders of ascenders.” [UB 49:6.12-14](/en/The_Urantia_Book/49#p6_14)
 
 **5- Parental experience is required for all elevators.**
 
@@ -289,7 +289,7 @@ The parental experience is essential in our journey to Heaven and the Father.
 >
 > The ascending midway creatures and the evolutionary seraphim must pass through this parenthood experience in association with the Material Sons and Daughters of the system headquarters. Thus do such nonreproducing ascenders obtain the experience of parenthood by assisting the Jerusem Adams and Eves in rearing and training their progeny.
 >
-> All mortal survivors who have not experienced parenthood on the evolutionary worlds must also obtain this necessary training while sojourning in the homes of the Jerusem Material Sons and as parental associates of these superb fathers and mothers. This is true except in so far as such mortals have been able to compensate their deficiencies on the system nursery located on the first transitional-culture world of Jerusem.” [LU 45:6.3-6](/fr/The_Urantia_Book/45#p6_6)
+> All mortal survivors who have not experienced parenthood on the evolutionary worlds must also obtain this necessary training while sojourning in the homes of the Jerusem Material Sons and as parental associates of these superb fathers and mothers. This is true except in so far as such mortals have been able to compensate their deficiencies on the system nursery located on the first transitional-culture world of Jerusem.” [UB 45:6.3-6](/en/The_Urantia_Book/45#p6_6)
 
 ### XI. Games and leisure of the minds.
 

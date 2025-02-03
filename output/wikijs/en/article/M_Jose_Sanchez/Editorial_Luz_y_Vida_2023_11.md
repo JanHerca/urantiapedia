@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — November 2023 — Editorial"
+title: "Luz y Vida — December 2023 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -129,4 +129,4 @@ Happy New Year 2024
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2023/11/30/editorial-diciembre-2023/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/11/30/editorial-diciembre-2023/)

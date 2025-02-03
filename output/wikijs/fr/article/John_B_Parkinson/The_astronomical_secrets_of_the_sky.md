@@ -129,7 +129,7 @@ Après l'examen des Hyades, nous passerons à ma découverte de Jérusem, dont l
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/03/27/los-secretos-astronomicos-del-cielo/
 
 
 

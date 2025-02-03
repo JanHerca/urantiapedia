@@ -113,7 +113,7 @@ After attaining a realization of Supremacy, which prepares them for the adventur
 > 1. Activités havoniennes
 > 2. Activités paradisiaques
 > 3. Activités finies-ascendantes-évolutionnaires Suprêmes-Ultimes.
-> Beaucoup d'activités superfinies s'exercent dans l'univers havonien de l'âge présent, impliquant une incroyable diversité de phases absonites et autres des fonctions mentales et spirituelles. Il est possible que l'univers central serve beaucoup de desseins qui ne me sont pas révélés, car il fonctionne de bien des manières qui dépassent la compréhension du mental créé. Je m'efforcerai néanmoins de décrire comment cette parfaite création contribue à satisfaire sept ordre d'intelligences universelles et pourvoit à leurs besoins. [LU 14:6.1-4](/fr/The_Urantia_Book/14#p6_1)
+> Beaucoup d'activités superfinies s'exercent dans l'univers havonien de l'âge présent, impliquant une incroyable diversité de phases absonites et autres des fonctions mentales et spirituelles. Il est possible que l'univers central serve beaucoup de desseins qui ne me sont pas révélés, car il fonctionne de bien des manières qui dépassent la compréhension du mental créé. Je m'efforcerai néanmoins de décrire comment cette parfaite création contribue à satisfaire sept ordre d'intelligences universelles et pourvoit à leurs besoins. [UB 14:6.1-4](/en/The_Urantia_Book/14#p6_1)
 
 > 1. *The Universal Father—*the First Source and Center. God the Father derives supreme parental satisfaction from the perfection of the central creation. He enjoys the experience of love satiety on near-equality levels. The perfect Creator is divinely pleased with the adoration of the perfect creature. (<a id="a116_306"></a>[UB 14:6.6](/en/The_Urantia_Book/14#p6_6))
 

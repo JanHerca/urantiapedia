@@ -27,5 +27,5 @@ Especialmente, me ha inspirado la necesidad de revisar las metas de mi existenci
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/12/30/mi-parrafo-favorito-25/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/12/30/mi-parrafo-favorito-25/)

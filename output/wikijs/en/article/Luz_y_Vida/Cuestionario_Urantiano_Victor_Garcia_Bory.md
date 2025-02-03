@@ -157,4 +157,4 @@ Let us all make together, in union and faith, a vigorous effort to live and serv
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/11/30/cuestionario-urantiano-11/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/11/30/cuestionario-urantiano-11/)

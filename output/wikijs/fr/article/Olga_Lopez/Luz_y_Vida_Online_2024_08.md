@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Août 2024 — Bulletin"
+title: "Luz y Vida — Septembre 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Août 2024
+Lumière et Vie — Septembre 2024
 
 ## Dans ce numéro
 
-- Éditorial – Août 2024 — M. José Sánchez Santamaría
+- Éditorial – Septembre 2024 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Jésus à 20 ans
@@ -27,7 +27,7 @@ Lumière et Vie — Août 2024
 - Questionnaire urantien — Jaime Marco
 - À la mémoire d'Esteban Cotán (1927-2024)
 
-## Éditorial – Août 2024 — M. José Sánchez Santamaría
+## Éditorial – Septembre 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
@@ -206,7 +206,7 @@ Mais, comme une mer agitée par l’arrivée d’une tempête, mon esprit était
 
 [Lire la suite](/fr/article/Diego_Betancourt/Mi_parrafo_favorito)
 
-##Questionnaire urantien — Jaime Marco
+## Questionnaire urantien — Jaime Marco
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Jaime-Marco.jpg" alt="Jaime Marco" width="250">
@@ -236,6 +236,55 @@ En 2001, l'Association Urantia d'Espagne a été créée et accréditée par les
 
 [Lire la suite](/fr/article/Eduardo_Altuzarra/En_recuerdo_de_Esteban_Cotan)
 
+## Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS)
+
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_08/UBIS-septiembre-2021.jpg" alt="UBIS" width="350">
+</figure>
+
+Un nouveau trimestre de cours à l’École Internationale du Livre d’Urantia (UBIS) commence en septembre. La période d’inscription débute le **lundi 9 septembre** et se termine le **dimanche 22 septembre**. Les cours commencent le **lundi 16** avec la semaine d'orientation.
+
+Voici les cours qui seront offerts ce trimestre en espagnol :
+<br style="clear:both;"/>
+
+1. **Genèse de la réalité**. Animé par : José Manuel Diaz Roldan. Niveau : avancé. Durée : 6 semaines.
+2. **La prière comme conversation avec notre Père céleste**. Animé par : Dario Franco Cuartas. Niveau : intermédiaire. Durée : 10 semaines.
+3. **L’évolution de la famille, principale force civilisatrice**. Animé par : Diego Betancourt. Niveau : basique. Durée 10 semaines.
+4. **Origine et signification de la souffrance**. Animé par : Ulises Pedrique. Niveau : intermédiaire. Durée : 6 semaines.
+5. **Jésus de Nazareth : un modèle d’inspiration pour les âmes des hommes**. Animé par : Luis Alfonso Rojas Rosillo. Niveau : basique. Durée : 10 semaines.
+
+Si vous êtes intéressé à suivre un cours, vous devez d'abord créer un compte sur le site Web de l'école, [http://ubis.urantia.org](http://ubis.urantia.org/). Cela peut être fait avant le début de l'inscription.
+
+Les places sont limitées, alors inscrivez-vous le plus tôt possible si vous ne voulez pas manquer une place !
+
+
+## Conférence Urantienne de septembre
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_08/Transhumanismo-2.jpg" alt="Avenir technologique" width="250">
+</figure>
+
+L'Association Urantia d'Espagne organise et sponsorise les soi-disant « causeries urantiennes », des sessions Zoom dans lesquelles un présentateur propose un sujet de départ, suivi d'un débat modéré auquel les participants peuvent participer.
+
+Voici la conférence prévue pour le mois de septembre :
+
+**Vendredi 27 : L'avenir technologique à la lumière du _Livre d'Urantia_ (Olga López)**
+
+Lieu : [Salle Zoom de l'Association](https://zoom.us/j/362798144)
+Heure : **19h00** (heure de la péninsule espagnole)
+<br style="clear:both;"/>
+
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 ## Références
 

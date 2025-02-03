@@ -101,7 +101,7 @@ Je souhaite ajouter une circonstance personnelle. De nombreuses années après a
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/08/30/cuestionario-urantiano-juan-jose-lopez-vallejos
 
 
 

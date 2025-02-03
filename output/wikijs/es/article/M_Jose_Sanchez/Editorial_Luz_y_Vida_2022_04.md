@@ -108,7 +108,7 @@ Libres, como son libres los auténticos hijos e hijas de Dios.
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/)
 
 <figure class="table chapter-navigator">
   <table>

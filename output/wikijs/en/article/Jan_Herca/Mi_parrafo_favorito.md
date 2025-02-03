@@ -35,4 +35,4 @@ That is why that cry of “Be patient!” makes more sense than ever. The Fifth 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/12/30/mi-parrafo-favorito-35/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/12/30/mi-parrafo-favorito-35/)

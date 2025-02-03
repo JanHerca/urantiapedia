@@ -127,7 +127,7 @@ Personne n'a dit que la vie était facile, mais nous y sommes... et nous sommes 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
 
 
 

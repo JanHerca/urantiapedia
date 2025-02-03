@@ -81,7 +81,7 @@ Atteindre ce niveau, c’est atteindre une authentique liberté et indépendance
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/03/30/navegando-por-la-vida-los-niveles-evolutivos-de-las-emociones/
 
 
 

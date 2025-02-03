@@ -70,5 +70,5 @@ Puedo decir que mi experiencia con _El libro de Urantia_ ha sido un bálsamo, un
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/03/30/cuestionario-urantiano-6/)

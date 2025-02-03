@@ -109,7 +109,7 @@ Libres, comme le sont les authentiques fils et filles de Dieu.
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/
 
 
 

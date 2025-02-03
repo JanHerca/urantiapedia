@@ -67,4 +67,4 @@ En guise de réflexion finale, j'aimerais dire à mes amis lecteurs du Livre d'U
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/01/29/cuestionario-urantiano-4/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/01/29/cuestionario-urantiano-4/)

@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Diciembre 2023 — Editorial"
+title: "Luz y Vida — Enero 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -125,5 +125,5 @@ Es un magnífico reto para este nuevo año, el 2024.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/12/30/editorial-enero-2024/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/12/30/editorial-enero-2024/)

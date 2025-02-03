@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — January 2024 — Editorial"
+title: "Luz y Vida — February 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -120,4 +120,4 @@ _This is really good news: a generous Lord and a disciple who serves him for the
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)

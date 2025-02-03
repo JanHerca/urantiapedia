@@ -31,4 +31,4 @@ I have to choose you every day. Every worldly decision seems to be “the choice
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)

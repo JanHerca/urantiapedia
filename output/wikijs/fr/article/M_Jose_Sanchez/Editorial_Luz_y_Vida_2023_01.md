@@ -156,7 +156,7 @@ C'est un beau défi, vraiment écouter qui est à l'intérieur, pour ce début d
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/
 
 
 

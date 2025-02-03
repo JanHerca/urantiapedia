@@ -157,7 +157,7 @@ Y con esa alegría perfecta, podremos realmente traer el Cielo a la Tierra.
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/)
 
 <figure class="table chapter-navigator">
   <table>

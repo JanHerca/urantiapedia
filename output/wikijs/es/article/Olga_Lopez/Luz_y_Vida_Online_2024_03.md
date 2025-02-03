@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Marzo 2024 — Boletín"
+title: "Luz y Vida — Abril 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Marzo 2024
+Luz y Vida — Abril 2024
 
 ## En este número
 
-- Editorial – Marzo 2024 — M. José Sánchez Santamaría
+- Editorial – Abril 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús lleva a Santiago a Jerusalén
@@ -27,7 +27,7 @@ Luz y Vida — Marzo 2024
 - Cuestionario urantiano — Ana Eguren
 - El Grupo de Estudio de Madrid cumple 20 años
 
-## Editorial – Marzo 2024 — M. José Sánchez Santamaría
+## Editorial – Abril 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-4.jpg" alt="Editorial abr-2024-4" width="350">
@@ -197,7 +197,85 @@ Recuerdo aún la emoción y expectación que sentía al conseguir reunir una doc
 
 [Leer más](/es/article/Mariano_Perez/Grupo_de_Estudio_de_Madrid_aniversario)
 
+## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-septiembre-2021.jpg" alt="Cursos UBIS" width="350">
+</figure>
+
+En abril comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 22 de abril** y finaliza el **domingo 5 de mayo**. Los cursos comienzan el **lunes 29 de abril** con la semana de orientación.
+
+Estos son los cursos que se ofrecerán en abril (todos son cursos reducidos, de 6 semanas):
+<br style="clear:both;"/>
+
+1. **En el gran circuito del amor**. Facilita: Luis Alfonso Rojas Rosillo. Nivel: básico.
+2. **Vida después de la vida: ¿qué hay después?** Facilita: Gabriela Westphal. Nivel: intermedio.
+3. **La vida religiosa de Jesús.** Facilita: Irma E. Aguilar. Nivel: básico.
+4. **Introducción a la oración y la adoración.** Facilita: Darío Franco Cuartas. Nivel: básico.
+
+Si estáis interesados en solicitar algún curso, previamente debéis crear una cuenta en la web de la escuela, [http://ubis.urantia.org](http://ubis.urantia.org/). Esto puede hacerse antes de que comience la inscripción.
+
+Los cupos son limitados, ¡así que inscribíos lo antes posible!
+
+Para obtener más información sobre los cursos, podéis visitar esta página: [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
+
+
+## Serie de presentaciones «En el foco» de la UBIS
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
+</figure>
+
+La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El libro de Urantia_ o de la comunidad de lectores.
+
+En el idioma español, las sesiones duran entre 60 y 90 minutos, y se celebran un sábado al mes a las 6 de la tarde (hora de Madrid, París, Roma). El presentador da una presentación introductoria sobre el tema en cuestión, tras la que hay ocasión para que los asistentes participen en un debate.
+
+Esta es la presentación prevista para el mes de abril:
+
+**Día: sábado 6 de abril**
+**Hora: 18:00 horas** **CET** (Madrid, París, Roma)
+**Título: ¿Por qué el Padre nos exige criar hijos?**
+**Presenta: Sebastián Nozzi**
+Sala Zoom: [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+
+<br style="clear:both;"/>
+
+Podéis ver el vídeo de la sesión anterior en este enlace
+
+https://youtu.be/Fxvl5qM6qv0?si=0XITDdF1p7JuckyO
+
+
+## Charla urantiana de abril
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/Charlas-urantianas-nov21.png" alt="UBIS Charlas urantianas" width="250">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado entre los asistentes.
+
+Esta es la charla programada para el mes de abril:
+
+**Viernes 19: El gobierno planetario seráfico** **(Francisco J. Santos Castilla)**
+
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
+
+
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

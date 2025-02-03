@@ -103,4 +103,4 @@ J'invite seulement tous ceux qui s'intéressent au _Livre d'Urantia_ à oser ouv
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)

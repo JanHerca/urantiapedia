@@ -76,7 +76,7 @@ Le corps humain est en grande partie constitué d’eau : on estime que 65 % du 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
 -Original : https://luiscollmilibrofavorito.blogspot.com/2021/10/los-secretos-del-agua.html
 
 

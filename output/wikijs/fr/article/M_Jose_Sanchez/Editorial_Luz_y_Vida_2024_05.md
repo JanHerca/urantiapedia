@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Mai 2024 — Éditorial"
+title: "Luz y Vida — Juin 2024 — Éditorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -182,4 +182,4 @@ Nous ne savons pas toujours ce que Dieu prévoit pour nous, nous savons seulemen
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)

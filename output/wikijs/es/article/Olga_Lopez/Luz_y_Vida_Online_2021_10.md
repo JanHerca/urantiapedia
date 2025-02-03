@@ -306,7 +306,7 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/)
 
 <figure class="table chapter-navigator">
   <table>

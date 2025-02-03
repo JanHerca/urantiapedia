@@ -87,7 +87,7 @@ Es el regalo más hermoso que se haya hecho al ser humano. Solo hace falta que v
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro)
 
 <figure class="table chapter-navigator">
   <table>

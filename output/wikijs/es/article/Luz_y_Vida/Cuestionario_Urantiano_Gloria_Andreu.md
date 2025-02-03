@@ -87,7 +87,7 @@ Lo que puedo decir es que gracias a _El Libro de Urantia_ me levanto todos los d
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/2021/12/31/cuestionario-urantiano-gloria-andreu)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/12/31/cuestionario-urantiano-gloria-andreu)
 
 <figure class="table chapter-navigator">
   <table>

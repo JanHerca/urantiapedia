@@ -75,7 +75,7 @@ El cuerpo humano está compuesto en gran parte por agua, Se estima que el 65% de
 
 ## Referencias
 
-- [Artículo de la Revista Luz y Vida Online](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/)
 - Original: https://luiscollmilibrofavorito.blogspot.com/2021/10/los-secretos-del-agua.html
 
 <figure class="table chapter-navigator">

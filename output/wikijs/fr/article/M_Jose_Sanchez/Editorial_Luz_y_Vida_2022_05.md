@@ -121,7 +121,7 @@ Une fois qu'il conçut ainsi que le royaume consistait en la volonté de Dieu, i
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/
 
 
 

@@ -111,7 +111,7 @@ Heureuse naissance. Bonne fêtes.
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/
 
 
 

@@ -181,7 +181,7 @@ El proceso de repersonalización se describe bien a continuación.
 >
 > 2. El regreso del Ajustador a la criatura morontial en espera. El Ajustador es el conservador eterno de vuestra identidad ascendente; vuestro Monitor representa la seguridad absoluta de que seréis vosotros mismos, y no otra persona, los que ocuparéis la forma morontial creada para el despertar de vuestra personalidad. Y el Ajustador estará presente en el reensamblaje de vuestra personalidad para asumir de nuevo el papel de guía paradisíaco de vuestro yo sobreviviente.
 >
-> 3. Cuando estas condiciones previas para la repersonalización se han reunido, el conservador seráfico de las potencialidades del alma inmortal dormida, con la asistencia de numerosas personalidades cósmicas, confiere esta entidad morontial a la forma corporal y mental morontial que está esperando, mientras confía esta hija evolutiva del Supremo a la asociación eterna con el Ajustador que espera. Y esto completa la repersonalización, el reensamblaje de la memoria, de la perspicacia y de la conciencia —la identidad.» [LU 112:5.15-19](/fr/The_Urantia_Book/112#p5_19)
+> 3. Cuando estas condiciones previas para la repersonalización se han reunido, el conservador seráfico de las potencialidades del alma inmortal dormida, con la asistencia de numerosas personalidades cósmicas, confiere esta entidad morontial a la forma corporal y mental morontial que está esperando, mientras confía esta hija evolutiva del Supremo a la asociación eterna con el Ajustador que espera. Y esto completa la repersonalización, el reensamblaje de la memoria, de la perspicacia y de la conciencia —la identidad.» [LU 112:5.15-19](/es/The_Urantia_Book/112#p5_19)
 
 ### VIII. La supervivencia del yo: la personalidad.
 
@@ -222,7 +222,7 @@ Tan pronto como, en la mente humana, desaparece la luz piloto, la luminosidad es
 >
 > El Ajustador os identificará; el serafín guardián os repersonalizará y luego os presentará de nuevo al fiel Monitor de vuestros días terrestres.
 >
-> Y así, cuando termina una época planetaria, cuando se reúne a aquellos que se encuentran en los círculos inferiores de realización humana, sus guardianes colectivos son los que los reensamblan en las salas de resurrección de las esferas de las mansiones, tal como lo dicen vuestras escrituras: «Y él enviará a sus ángeles con una voz poderosa y reunirá a sus escogidos desde un extremo al otro del reino».» [LU 113:6.5-7](/fr/The_Urantia_Book/113#p6_7)
+> Y así, cuando termina una época planetaria, cuando se reúne a aquellos que se encuentran en los círculos inferiores de realización humana, sus guardianes colectivos son los que los reensamblan en las salas de resurrección de las esferas de las mansiones, tal como lo dicen vuestras escrituras: «Y él enviará a sus ángeles con una voz poderosa y reunirá a sus escogidos desde un extremo al otro del reino».» [LU 113:6.5-7](/es/The_Urantia_Book/113#p6_7)
 
 ### IX. Los mundos de las casas.
 
@@ -256,7 +256,7 @@ En la quinta maisonnia conocerás a los primeros instructores que comenzarán a 
 
 > El llamamiento seráfico del superángel supervisor encargado de los supervivientes resucitados y del arcángel autorizado encargado de aquellos que van a juicio al tercer día señala la unión del alma inmortal evolutiva con el Ajustador eterno y divino; luego, en presencia de los asociados morontiales de dicho superviviente, estos mensajeros confirmatorios dicen: «Éste es un hijo amado en quien me siento muy complacido». Esta sencilla ceremonia marca la entrada de un mortal ascendente en la carrera eterna del servicio paradisiaco.
 > 
-> Inmediatamente después de confirmarse la fusión con el Ajustador, el nuevo ser morontial es presentado por primera vez a sus compañeros con su nuevo nombre, y se le conceden cuarenta días de retiro espiritual de todas las actividades rutinarias para comulgar consigo mismo, escoger una de las rutas optativas para dirigirse a Havona, y elegir entre las técnicas diferenciales existentes para alcanzar el Paraíso. [LU 47:8.4-5](/fr/The_Urantia_Book/47#p8_5)
+> Inmediatamente después de confirmarse la fusión con el Ajustador, el nuevo ser morontial es presentado por primera vez a sus compañeros con su nuevo nombre, y se le conceden cuarenta días de retiro espiritual de todas las actividades rutinarias para comulgar consigo mismo, escoger una de las rutas optativas para dirigirse a Havona, y elegir entre las técnicas diferenciales existentes para alcanzar el Paraíso. [LU 47:8.4-5](/es/The_Urantia_Book/47#p8_5)
 
 **6- ¿Existe un segundo período de prueba?**
 
@@ -266,7 +266,7 @@ Si nuestras intenciones y deseos tienen valor de supervivencia, se emitirán dec
 >
 > Los gobiernos de Orvonton y de Nebadon no pretenden haber alcanzado una perfección absoluta en el funcionamiento detallado del plan universal de repersonalización de los mortales, pero sí pretenden manifestar paciencia, tolerancia, comprensión y una compasión misericordiosa, y lo hacen realmente. Preferimos asumir el riesgo de una rebelión en un sistema antes que correr el peligro de privar a un solo mortal, que lucha en cualquier mundo evolutivo, de la alegría eterna de continuar la carrera ascendente.
 >
-> Esto no significa en absoluto que los seres humanos tengan que disfrutar de una segunda oportunidad después de haber rechazado la primera. Pero sí significa que todas las criaturas volitivas han de tener una verdadera oportunidad para efectuar una elección indudable, consciente y definitiva. Los Jueces soberanos de los universos no privarán del estado de personalidad a ningún ser que no haya hecho su elección eterna de manera plena y definitiva; el alma del hombre debe recibir, y recibirá, una plena y amplia oportunidad para revelar su verdadera intención y su propósito real.» [LU 112:5.7-9](/fr/The_Urantia_Book/112#p5_9)
+> Esto no significa en absoluto que los seres humanos tengan que disfrutar de una segunda oportunidad después de haber rechazado la primera. Pero sí significa que todas las criaturas volitivas han de tener una verdadera oportunidad para efectuar una elección indudable, consciente y definitiva. Los Jueces soberanos de los universos no privarán del estado de personalidad a ningún ser que no haya hecho su elección eterna de manera plena y definitiva; el alma del hombre debe recibir, y recibirá, una plena y amplia oportunidad para revelar su verdadera intención y su propósito real.» [LU 112:5.7-9](/es/The_Urantia_Book/112#p5_9)
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_10/014.jpg">
@@ -301,7 +301,7 @@ Después de siete cambios de cuerpo en los mundos morontiales habremos terminado
 >
 > Los Ajustadores del Pensamiento vienen a residir a su debido tiempo en estos pequeños, mientras que el ministerio seráfico para los dos grupos de órdenes de supervivencia que dependen de un período de prueba es similar en general al del progenitor más avanzado, o es equivalente al del progenitor en el caso de que uno solo de ellos sobreviva. A aquellos que alcanzan el tercer círculo se les conceden guardianes personales, independientemente del nivel de sus padres.
 >
-> En las esferas finalitarias de la constelación y de la sede del universo se mantienen guarderías probatorias similares para los niños sin Ajustador de las órdenes primarias y secundarias modificadas de ascendentes.» [LU 49:6.12-14](/fr/The_Urantia_Book/49#p6_14)
+> En las esferas finalitarias de la constelación y de la sede del universo se mantienen guarderías probatorias similares para los niños sin Ajustador de las órdenes primarias y secundarias modificadas de ascendentes.» [LU 49:6.12-14](/es/The_Urantia_Book/49#p6_14)
 
 **5- Se requiere experiencia de los padres para todos los que ascienden.**
 
@@ -313,7 +313,7 @@ La experiencia de los padres es esencial en nuestro viaje hacia el Paraíso y el
 >
 > Las criaturas intermedias ascendentes y los serafines evolutivos deben pasar por esta experiencia parental en asociación con los Hijos y las Hijas Materiales de la sede del sistema. Estos ascendentes que no se reproducen adquieren así la experiencia parental ayudando a los Adanes y las Evas de Jerusem a criar y educar a su progenie.
 >
-> Todos los supervivientes mortales que no han experimentado la paternidad en los mundos evolutivos también deben adquirir esta formación necesaria mientras residen en los hogares de los Hijos Materiales de Jerusem como asociados parentales de estos magníficos padres y madres. Esto es así, salvo en la medida en que dichos mortales hayan sido capaces de compensar sus deficiencias en la guardería infantil del sistema, situada en el primer mundo de cultura de transición de Jerusem.» [LU 45:6.3-6](/fr/The_Urantia_Book/45#p6_6)
+> Todos los supervivientes mortales que no han experimentado la paternidad en los mundos evolutivos también deben adquirir esta formación necesaria mientras residen en los hogares de los Hijos Materiales de Jerusem como asociados parentales de estos magníficos padres y madres. Esto es así, salvo en la medida en que dichos mortales hayan sido capaces de compensar sus deficiencias en la guardería infantil del sistema, situada en el primer mundo de cultura de transición de Jerusem.» [LU 45:6.3-6](/es/The_Urantia_Book/45#p6_6)
 
 ### XI. Juegos y actividades de ocio para la mente.
 

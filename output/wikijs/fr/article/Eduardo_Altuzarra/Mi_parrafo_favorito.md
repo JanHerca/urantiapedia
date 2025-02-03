@@ -83,7 +83,7 @@ Un autre paragraphe préféré…
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/09/27/mi-parrafo-favorito-2/
 
 
 

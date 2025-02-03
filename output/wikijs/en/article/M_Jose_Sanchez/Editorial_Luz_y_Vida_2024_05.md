@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — May 2024 — Editorial"
+title: "Luz y Vida — June 2024 — Editorial"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -182,4 +182,4 @@ We do not always know what God plans for us, we only know that His plans are alw
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
-- [Article from Luz y Vida Online Magazine](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)

@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Abril 2024 — Boletín"
+title: "Luz y Vida — Mayo 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -12,11 +12,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Abril 2024
+Luz y Vida — Mayo 2024
 
 ## En este número
 
-- Editorial – Abril 2024 — M. José Sánchez Santamaría
+- Editorial – Mayo 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús y Santiago regresan al hogar
@@ -28,7 +28,7 @@ Luz y Vida — Abril 2024
 - Proyecto de comisión para estudios monográficos
 
 
-## Editorial – Abril 2024 — M. José Sánchez Santamaría
+## Editorial – Mayo 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-3.jpg" alt="Editorial mayo 2024-3" width="350">
@@ -243,30 +243,141 @@ El proyecto «Estudios Monográficos» nace del deseo de varios lectores de _El 
 
 **OBJETIVOS**
 
-- Lograr un mayor discernimiento de _El libro de Urantia_.  
-- Aumentar el interés de lectores interesados en lectura clasificada hacia intereses más profundos.  
-- Brindar la oportunidad de participación a estudiosos relevantes.  
+- Lograr un mayor discernimiento de _El libro de Urantia_.
+- Aumentar el interés de lectores interesados en lectura clasificada hacia intereses más profundos.
+- Brindar la oportunidad de participación a estudiosos relevantes.
 - Aquello que resulte de esta iniciativa actual.
 
 **PROCEDIMIENTO**
 
-- Mediante la aprobación de la junta directiva, se comunicará a los lectores la propuesta del proyecto para que puedan participar aquellas personas voluntarias que lo deseen, tanto para formar parte de la comisión como para participar como oyente.  
-- Se respetan todas las normas y valores de los grupos de estudio de El libro de Urantia (mesura, empatía, fraternidad, orden, etc.) con el fin de entenderse y comprenderse para logara un objetivo común.  
-- La responsabilidad recae sobre los voluntarios que compongan la comisión de investigación.  
-- En el desarrollo, se hace un planteamiento sobre un tema específico (por ejemplo, el nivel absonito).  
+- Mediante la aprobación de la junta directiva, se comunicará a los lectores la propuesta del proyecto para que puedan participar aquellas personas voluntarias que lo deseen, tanto para formar parte de la comisión como para participar como oyente.
+- Se respetan todas las normas y valores de los grupos de estudio de El libro de Urantia (mesura, empatía, fraternidad, orden, etc.) con el fin de entenderse y comprenderse para logara un objetivo común.
+- La responsabilidad recae sobre los voluntarios que compongan la comisión de investigación.
+- En el desarrollo, se hace un planteamiento sobre un tema específico (por ejemplo, el nivel absonito).
 - Se argumenta sobre lo básico de los textos y se establece el plan de trabajo.
 
 **ESTRUCTURA**
 
-- Básicamente se establecen dos vías de comunicación: grupo de WhatsApp y sala Zoom.  
-- La comisión no estará compuesta por más de cinco o siete personas.  
-- Las sesiones de la sala Zoom serán abiertas a otros lectores como meros oyentes y observadores, sin posibilidad de intervención.  
+- Básicamente se establecen dos vías de comunicación: grupo de WhatsApp y sala Zoom.
+- La comisión no estará compuesta por más de cinco o siete personas.
+- Las sesiones de la sala Zoom serán abiertas a otros lectores como meros oyentes y observadores, sin posibilidad de intervención.
 - El número de participantes como oyentes, así como la frecuencia de las reuniones, se determinará en función de los acuerdos que se tomen una vez formada la comisión de investigación.
 
 Los lectores interesados en formar parte de esta comisión se pueden dirigir a la Asociación por email a [urantiaesp@gmail.com](mailto:urantiaesp@gmail.com) solicitando su participación.
 
+## Círculo de Confianza
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_04/Los-retos-de-los-lideres-de-la-quinta-revelacion.png" alt="Círculo de Confianza" width="350">
+</figure>
+
+La Asociación Urantia de España ha apoyado la creación de un «círculo de confianza», que se reunió por primera vez el 19 de abril vía Zoom.
+
+La creación del Círculo de Confianza está justificada por la necesidad de algunos lectores de paliar la sensación de soledad y dificultad que a veces sentimos en la aplicación del conocimiento de nuestro querido libro en la vida cotidiana.
+<br style="clear:both;"/>
+
+**OBJETIVOS**
+
+- Tener la oportunidad de expresar dudas, inquietudes, problemas, ganancias personales, etc., acerca de la aplicación del conocimiento de _El libro de Urantia_ en la vida cotidiana.
+- Poder ayudar y acompañar a otros miembros del grupo en su proceso de aplicación de dicho conocimiento de _El libro de Urantia_.
+- Aumentar el vínculo personal de los participantes del grupo a través de esta actividad.
+
+**PROCEDIMIENTO**
+
+Es similar a los grupos de estudio virtuales vía Zoom:
+
+- Un moderador o facilitador va dando paso a los participantes según el orden en que levantan la mano.
+- Los testimonios de los participantes pueden ser para originar un asunto personal o para contribuir y aportar a un testimonio originado por otro compañero con anterioridad.
+- El originador de un testimonio, en la medida de lo posible, aportará la/s referencia/s de _El libro de Urantia_ relacionadas con su testimonio.
+- La expresión de un testimonio puede acarrear manifestación de emociones (enfado, pena, miedo, alegría, etc.), que en un momento dado puede desbordarse. Es labor del facilitador dirigir dicha manifestación para que, con la ayuda de los miembros del grupo, termine de una forma suave y con ganancia personal.
+- El moderador podrá también originar testimonios propios y contribuir al de los demás miembros.
+- Se respetarán todas las normas y valores de los grupos de estudio de _El libro de Urantia_ (Respeto, empatía, fraternidad, orden, etc.).
+- La participación en el Círculo de Confianza, por supuesto, es voluntaria tanto a la hora de inscribirse en ellos o expresar su interés en participar, como a la hora de aportar testimonio o intervención una vez iniciado una sesión.
+- Los testimonios que se expresen dentro del grupo son confidenciales y no deberán salir de ese entorno. Lo que en el grupo se dice allí se queda. Se trata de un compromiso ético que todo miembro debe respetar.
+- El tiempo destinado a la expresión de un testimonio es indefinido, no se puede acotar, ya que el participante debe tener toda la tranquilidad posible para expresarse. El resto de los compañeros deben escuchar con atención y hacer un ejercicio de empatía para, si lo desean, aportar sobre ello más adelante. Todos los participantes tendrán ocasión de aportar testimonio. Si no hay tiempo en una sesión concreta será en las próximas.
+- Puede haber testimonios muy valiosos y dignos de ser conocidos para beneficio de los hermanos urantianos. Si algún miembro desea dar a conocer su testimonio fuera del círculo de confianza podrá hacerlo el mismo (o delegarlo en otro miembro) dentro de los canales de los que dispone la asociación (revista «Luz y Vida», lista de correo «El rincón de Urantia», etc.).
+
+**ESTRUCTURA**
+
+- Las sesiones se realizarán vía Zoom.
+- Dependiendo de número de participantes la duración de las sesiones será:
+	- Diez asistentes o más: dos horas.
+	- Menos de diez asistentes: una hora y media.
+- Número mínimo de participantes: cinco.
+- Será positivo crear un grupo de WhatsApp específico del Círculo de Confianza para saber de antemano cuantos participantes habrá en una sesión. Otra funcionalidad de este grupo de WhatsApp es dar continuidad en el día a día a todo lo expresado en las sesiones.
+- Inicialmente la frecuencia de estas sesiones será de 15 días. Más adelante y dependiendo de la demanda y participación puede ser semanal.
+- Inicialmente y hasta que se cree entre los miembros cierto umbral de confianza para originar testimonios, se podrán proponer temas concretos para facilitar la participación.
+
+**Aquellos lectores que estén interesados en formar parte de dicho grupo** pueden escribir un correo a la dirección urantiaesp@gmail.com. solicitando su participación.
+
+La persona responsable de dicho grupo es Fernando Carazo, lector de muchos años de _El libro de Urantia_.
+
+
+## Disponible en español una nueva Ayuda al Estudio de Hara Davis: Amor divino
+
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_04/Amor-divino.png" alt="Amor divino" width="350">
+</figure>
+
+Ya está disponible en español _Amor divino: La religión de Jesús_, una nueva Ayuda al Estudio de Hara Davis, que lleva muchos años dedicada a resumir y condensar las enseñanzas de _El libro de Urantia_, agrupadas según diferentes temáticas.
+
+En palabras de la autora: «Esta representación visual de la venida de Jesús a este planeta pretende mostrarnos cómo las verdades que reveló pueden ayudarnos e inspirarnos a vivir vidas más significativas con una fe viva. Al examinar la fe y la religión de Jesús como hijo del hombre e hijo de Dios, descubriremos cómo puede crecer y alimentarse nuestra propia religión como experiencia personal. Jesús nos mostró cómo vivir la vida perfecta. Esta ayuda para el estudio explorará su amor desinteresado, su fe viva y las formas en que la fe y la religión personal trabajan juntas para mejorarse mutuamente».
+
+[Enlace para adquirir _Amor divino_ en Amazon](https://www.amazon.es/Amor-Divino-religi%C3%B3n-Hara-Davis/dp/B0D1XP3RFK/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.WBLAKKgaAQtQv5CTqHfg3A.R42nvtyeweXuHmWKEiAcUhR5NJaLF7idBw2SKPAvsEY&dib_tag=se&keywords=amor+divino+hara+davis&qid=1714381134&sr=8-1)
+<br style="clear:both;"/>
+
+## Serie de presentaciones «En el foco» de la UBIS
+
+<figure id="Figure_16" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_04/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
+</figure>
+
+La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El libro de Urantia_ o de la comunidad de lectores.
+
+En el idioma español, las sesiones duran entre 60 y 90 minutos, y se celebran un sábado al mes a las 6 de la tarde (hora de Madrid, París, Roma). El presentador da una presentación introductoria sobre el tema en cuestión, tras la que hay ocasión para que los asistentes participen en un debate.
+
+Esta es la presentación prevista para el mes de mayo:
+
+**Día: sábado 4 de mayo**
+**Hora: 18:00 horas** **CEST** (Madrid, París, Roma)
+**Título: Urantia siglo XXI, milenio 3. Un puente hacia el gobierno planetario**
+**Presenta: Jimmer Prieto**
+Sala Zoom: [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+
+ <br style="clear:both;"/>
+
+
+## Charla urantiana de mayo
+
+<figure id="Figure_17" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_04/Charlas-urantianas-nov21.png" alt="Charlas urantianas" width="350">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado entre los asistentes.
+
+Esta es la charla programada para el mes de mayo:
+
+**Viernes 31: El Pensamiento, portador de Luz y Vida (Marinett Morales)**
+
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_18" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

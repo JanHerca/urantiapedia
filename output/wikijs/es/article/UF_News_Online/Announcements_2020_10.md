@@ -33,7 +33,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Pensamientos para reflexionar en francés
 
-Los _Pensamientos para reflexionar_ que se envían cada día ya están disponibles en francés. Pueden suscribirse aquí: [https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier](https://www.urantia.org/fr/inset/sinscrire-dans-le-fichier)
+Los _Pensamientos para reflexionar_ que se envían cada día ya están disponibles en francés. Pueden suscribirse aquí: [https://www.urantia.org/es/inset/sinscrire-dans-le-fichier](https://www.urantia.org/es/inset/sinscrire-dans-le-fichier)
 
 ## Buscador en indonesio
 
@@ -43,7 +43,7 @@ Dediquen por favor un poco de tiempo a usar el buscador y dígannos qué piensan
 
 ## Vídeos «Mi pequeña luz»
 
-El vídeo está disponible en [inglés](https://www.urantia.org/urantia-book-video), [español](https://www.urantia.org/es/video-de-el-libro-de-urantia), [portugués](https://www.urantia.org/pt/video-sobre-o-livro-de-urantia), [danés](https://www.urantia.org/da/video), [estonio](https://www.urantia.org/et/video), [italiano](https://www.urantia.org/it/video), [ruso](https://www.urantia.org/ru/video), [francés](https://www.urantia.org/fr/video), [alemán](https://www.urantia.org/de/video), e [indonesio](https://www.urantia.org/id/video). Próximamente en holandés, finlandés y húngaro.
+El vídeo está disponible en [inglés](https://www.urantia.org/urantia-book-video), [español](https://www.urantia.org/es/video-de-el-libro-de-urantia), [portugués](https://www.urantia.org/pt/video-sobre-o-livro-de-urantia), [danés](https://www.urantia.org/da/video), [estonio](https://www.urantia.org/et/video), [italiano](https://www.urantia.org/it/video), [ruso](https://www.urantia.org/ru/video), [francés](https://www.urantia.org/es/video), [alemán](https://www.urantia.org/de/video), e [indonesio](https://www.urantia.org/id/video). Próximamente en holandés, finlandés y húngaro.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_10/054.jpg">

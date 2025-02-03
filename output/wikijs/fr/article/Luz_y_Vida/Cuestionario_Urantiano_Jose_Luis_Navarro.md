@@ -88,7 +88,7 @@ C'est le plus beau cadeau jamais offert à l'être humain. Il suffit qu'il soit 
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/05/26/cuestionario-urantiano-jose-luis-navarro
 
 
 

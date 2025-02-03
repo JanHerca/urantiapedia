@@ -100,4 +100,4 @@ Voilà, frères et sœurs, mon humble avis sur la question.
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
-- [Article du magazine en ligne Luz y Vida](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)

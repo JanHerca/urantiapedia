@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Diciembre 2023 — Boletín"
+title: "Luz y Vida — Enero 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -13,11 +13,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Diciembre 2023
+Luz y Vida — Enero 2024
 
 ## En este número
 
-- Editorial – Diciembre 2024 — M. José Sánchez Santamaría
+- Editorial – Enero 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús a los 16 años
@@ -28,7 +28,7 @@ Luz y Vida — Diciembre 2023
 - Cuestionario urantiano — Luis García Bory
 - El grupo de estudio de Barcelona cumple 20 años
 
-## Editorial – Diciembre 2024 — M. José Sánchez Santamaría
+## Editorial – Enero 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Editorial-01-24-1.jpg" alt="Enero 24-1" width="350">
@@ -213,9 +213,63 @@ Para celebrar que hemos alcanzado este hito, haremos una comida (tarta de cumple
 
 <br style="clear:both;"/>
 
+## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
 
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_12/UBIS-septiembre-2021.jpg" alt="Cursos UBIS septiembre" width="350">
+</figure>
+
+En enero comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 8 de enero** y finaliza el **domingo 21**. Los cursos comienzan el **lunes 15** con la semana de orientación.
+
+Estos son los cursos que se ofrecerán este trimestre:
+<br style="clear:both;"/>
+
+1. **El Padre Universal: amarlo es conocerlo**. Facilita: Olga López. Nivel: básico. Duración: 10 semanas.
+2. **El camino a casa: finalitarios**. Facilita: Jaime Marco. Nivel: intermedio. Duración: 10 semanas.
+3. **Conocer a Dios**. Facilita: José Manuel Díaz Roldán. Nivel: avanzado. Duración: 6 semanas.
+4. **Lo que nos espera tras la muerte: la supervivencia de la personalidad**. Facilita: Flor Robles. Nivel: básico. Duración: 10 semanas.
+5. **La evolución de la familia, la civilizadora principal**. Facilita: Erika Webster. Nivel: básico. Duración: 8 semanas. Formato grupo de estudio.
+
+Si estáis interesados en solicitar algún curso, previamente debéis crear una cuenta en la web de la escuela, [http://ubis.urantia.org](http://ubis.urantia.org/). Esto puede hacerse antes de que comience la inscripción.
+
+Los cupos son limitados, ¡así que inscribíos lo antes posible!
+
+Para obtener más información sobre los cursos, podéis visitar [esta página](https://www.urantia.org/es/education/programacion-de-cursos)
+
+ 
+
+
+## Charlas urantianas de enero
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_12/Charlas-urantianas-nov21.png" alt="Charlas urantianas" width="250">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado entre los asistentes.
+
+Estas son las charlas programadas para el mes de enero:
+
+**Viernes 12: La IA: ¿dictadura tecnológica o aliada en nuestras vidas?** **(Miguel Mallorca)**
+**Viernes 26: Actualidad. Hacia la Luz y Vida (Marinett Morales)**
+
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
-
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)

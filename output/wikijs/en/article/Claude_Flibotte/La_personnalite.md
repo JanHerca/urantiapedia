@@ -210,7 +210,7 @@ Here are two characteristics of the human personality that definitely differenti
 
 > La personnalité de la créature se distingue par deux phénomènes spontanés et caractéristiques du comportement réactif d'un mortel : la conscience de soi et le libre arbitre relatif qui lui est associé.
 > 
-> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. [LU 16:8.5-6](/fr/The_Urantia_Book/16#p8_6)
+> La conscience de soi consiste à se rendre compte intellectuellement de l'actualité de la personnalité. Elle inclut l'aptitude à reconnaitre la réalité d'autres personnalités. Elle dénote que l'on est capable d'une expérience individualisée dans et avec les réalités cosmiques, ce qui équivaut à atteindre le statut d'identité dans les relations de personnalité de l'univers. La conscience de soi implique que l'on reconnait l'actualité du ministère du mental et que l'on réalise l'indépendance relative du libre arbitre créatif et déterminant. [UB 16:8.5-6](/en/The_Urantia_Book/16#p8_6)
 
 **4. The domain of human personality.**
 
@@ -230,7 +230,7 @@ These seven enumerations characterize the domain of action of the personality.
 >
 > 6. Personality dedication, wholehearted devotion to doing the Father’s will.
 >
-> 7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver.” [LU 16:8.7-14](/fr/The_Urantia_Book/16#p8_14)
+> 7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver.” [UB 16:8.7-14](/en/The_Urantia_Book/16#p8_14)
 
 **5. Personality attributes.**
 
@@ -244,7 +244,7 @@ The following description of personality represents well how celestial beings pe
 >
 > 3. The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity.
 >
-> The full function of such a personality endowment is the beginning realization of Deity kinship. Such a selfhood, indwelt by a prepersonal fragment of God the Father, is in truth and in fact a spiritual son of God. Such a creature not only discloses capacity for the reception of the gift of the divine presence but also exhibits reactive response to the personality-gravity circuit of the Paradise Father of all personalities.” [LU 16:8.15-19](/fr/The_Urantia_Book/16#p8_18)
+> The full function of such a personality endowment is the beginning realization of Deity kinship. Such a selfhood, indwelt by a prepersonal fragment of God the Father, is in truth and in fact a spiritual son of God. Such a creature not only discloses capacity for the reception of the gift of the divine presence but also exhibits reactive response to the personality-gravity circuit of the Paradise Father of all personalities.” [UB 16:8.15-19](/en/The_Urantia_Book/16#p8_18)
 
 ## VI. ADJUSTERS AND PERSONALITY
 
@@ -260,7 +260,7 @@ The following two quotes prove to us how essential the Adjusters are in the ment
 
 > 	> “The higher forms of intelligent intercommunication between human beings are greatly helped by the indwelling Adjusters. Animals do have fellow feelings, but they do not communicate concepts to each other; they can express emotions but not ideas and ideals. Neither do men of animal origin experience a high type of intellectual intercourse or spiritual communion with their fellows until the Thought Adjusters have been bestowed, albeit, when such evolutionary creatures develop speech, they are on the highroad to receiving Adjusters.
 >
-> Animals do, in a crude way, communicate with each other, but there is little or no *personality* in such primitive contact. Adjusters are not personality; they are prepersonal beings. But they do hail from the source of personality, and their presence does augment the qualitative manifestations of human personality; especially is this true if the Adjuster has had previous experience.” [LU 109:4.1-2](/fr/The_Urantia_Book/109#p4_2)
+> Animals do, in a crude way, communicate with each other, but there is little or no *personality* in such primitive contact. Adjusters are not personality; they are prepersonal beings. But they do hail from the source of personality, and their presence does augment the qualitative manifestations of human personality; especially is this true if the Adjuster has had previous experience.” [UB 109:4.1-2](/en/The_Urantia_Book/109#p4_2)
 
 **3. Adjusters and personality potential.**
 
@@ -314,7 +314,7 @@ Morality is evolutionary, but personality gives it a value of spirit.
 >
 > 13. Personality may survive mortal death with identity in the surviving soul. The Adjuster and the personality are changeless; the relationship between them (in the soul) is nothing but change, continuing evolution; and if this change (growth) ceased, the soul would cease.
 >
-> 14. Personality is uniquely conscious of time, and this is something other than the time perception of mind or spirit.” [LU 112:0.13-16](/fr/The_Urantia_Book/112#p0_16)
+> 14. Personality is uniquely conscious of time, and this is something other than the time perception of mind or spirit.” [UB 112:0.13-16](/en/The_Urantia_Book/112#p0_16)
 
 ## VIII. RELIGION AND PERSONALITY
 
@@ -366,7 +366,7 @@ Are we using the full potential allocated to the personality on the finite level
 >
 > Reality is subject to universal expansion, personality to infinite diversification, and both are capable of well-nigh unlimited Deity co-ordination and eternal stabilization. While the metamorphic range of nonpersonal reality is definitely limited, we know of no limitations to the progressive evolution of personality realities.
 >
-> On attained experiential levels all personality orders or values are associable and even cocreational. Even God and man can coexist in a unified personality, as is so exquisitely demonstrated in the present status of Christ Michael—Son of Man and Son of God.” [LU 0:5.1-3](/fr/The_Urantia_Book/0#p5_3)
+> On attained experiential levels all personality orders or values are associable and even cocreational. Even God and man can coexist in a unified personality, as is so exquisitely demonstrated in the present status of Christ Michael—Son of Man and Son of God.” [UB 0:5.1-3](/en/The_Urantia_Book/0#p5_3)
 
 **2. Personality at the center of existence.**
 
@@ -412,7 +412,7 @@ Knowing the origin of personality, how can one not be filled with great respect 
 
 > Always respect the personality of man. Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. This injunction against the employment of material influences refers to psychic force as well as to physical force. Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. Man’s mind is not to be crushed by the mere weight of logic or overawed by shrewd eloquence. While emotion as a factor in human decisions cannot be wholly eliminated, it should not be directly appealed to in the teachings of those who would advance the cause of the kingdom. Make your appeals directly to the divine spirit that dwells within the minds of men. Do not appeal to fear, pity, or mere sentiment. In appealing to men, be fair; exercise self-control and exhibit due restraint; show proper respect for the personalities of your pupils. Remember that I have said: “Behold, I stand at the door and knock, and if any man will open, I will come in.”
 >
-> In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” [LU 159:3.2-3](/fr/The_Urantia_Book/159#p3_3)
+> In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” [UB 159:3.2-3](/en/The_Urantia_Book/159#p3_3)
 
 **4. We must respect all personalities.**
 
