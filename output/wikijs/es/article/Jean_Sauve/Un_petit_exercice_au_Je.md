@@ -65,7 +65,7 @@ Y convertidos en «yoes»
 > 
 > ««Estáis encargados de salvar a los hombres, no de juzgarlos. Al final de vuestra vida terrestre, todos esperaréis misericordia; por eso os pido que durante vuestra vida mortal mostréis misericordia a todos vuestros hermanos en la carne. No cometáis el error de intentar quitar una mota del ojo de vuestro hermano, cuando hay una viga en el vuestro. Después de sacar primero la viga de vuestro propio ojo, podréis ver mejor para quitar la mota del ojo de vuestro hermano».
 > 
-> «Discernid claramente la verdad; vivid con audacia la vida recta; así seréis mis apóstoles y los embajadores de mi Padre.» ... [LU 140:3.14-18](/es/The_Urantia_Book/140#p3_18)
+> «Discernid claramente la verdad; vivid con audacia la vida recta; así seréis mis apóstoles y los embajadores de mi Padre.» ... <a id="a67_129"></a>[LU 140:3.14-18](/es/The_Urantia_Book/140#p3_18)
 
 ¿Qué opinas?
 

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Luz y Vida — Septiembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -182,7 +203,7 @@ Como a la mayoría de los lectores de _El libro de Urantia_, la cuarta parte es 
 
 <br style="clear:both;"/>
 
-> El Maestro mostró una gran sabiduría y una perfecta equidad en todos sus tratos con los apóstoles y con todos sus discípulos. Jesús era realmente un maestro de hombres. Ejercía una gran influencia sobre sus semejantes por la combinación de fuerza y encanto de su personalidad. De su vida dura, nómada y sin hogar emanaba una sutil actitud de mando. Había atractivo intelectual y poder de convocatoria espiritual en la autoridad de su manera de enseñar, en su lógica lúcida, en la fuerza de su razonamiento, en su visión interior sagaz, en su mente despierta, en su aplomo incomparable y en su tolerancia sublime. Era sencillo, varonil, honrado e intrépido. A toda esta influencia física e intelectual patente en la presencia del Maestro, se sumaban todos los encantos espirituales que se han asociado a su personalidad: la paciencia, la ternura, la mansedumbre, la dulzura y la humildad. [LU 141:3.4](/es/The_Urantia_Book/141#p3_4)
+> El Maestro mostró una gran sabiduría y una perfecta equidad en todos sus tratos con los apóstoles y con todos sus discípulos. Jesús era realmente un maestro de hombres. Ejercía una gran influencia sobre sus semejantes por la combinación de fuerza y encanto de su personalidad. De su vida dura, nómada y sin hogar emanaba una sutil actitud de mando. Había atractivo intelectual y poder de convocatoria espiritual en la autoridad de su manera de enseñar, en su lógica lúcida, en la fuerza de su razonamiento, en su visión interior sagaz, en su mente despierta, en su aplomo incomparable y en su tolerancia sublime. Era sencillo, varonil, honrado e intrépido. A toda esta influencia física e intelectual patente en la presencia del Maestro, se sumaban todos los encantos espirituales que se han asociado a su personalidad: la paciencia, la ternura, la mansedumbre, la dulzura y la humildad. <a id="a205_890"></a>[LU 141:3.4](/es/The_Urantia_Book/141#p3_4)
 
 [Leer más](/es/article/Mayra_Moreno/Mi_parrafo_favorito)
 
@@ -251,3 +272,25 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2023/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Luz y Vida — Septiembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

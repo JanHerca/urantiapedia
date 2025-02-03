@@ -43,7 +43,7 @@ También se nos advierte contra los peligros de la democracia: _Porque aquí est
 > _Le choix des chefs ignorants et vils._
 > _L'incapacité de reconnaître les faits fondamentaux de l'évolution sociale._
 > _Le danger du suffrage universel aux mains de majorités frustes et indolentes._
-> _L'obéissance servile à l'opinion publique ; la majorité n'a pas toujours raison._ [LU 71:2.1-6](/es/The_Urantia_Book/71#p2_1)
+> _L'obéissance servile à l'opinion publique ; la majorité n'a pas toujours raison._ <a id="a45_85"></a>[LU 71:2.1-6](/es/The_Urantia_Book/71#p2_1)
 
 Por otro lado, se nos dice que la democracia es un ideal (<a id="a47_58"></a>[LU 71:2.1](/es/The_Urantia_Book/71#p2_1)) y que este ideal democrático se encuentra en Uversa (<a id="a47_154"></a>[LU 15:11.1](/es/The_Urantia_Book/15#p11_1))
 

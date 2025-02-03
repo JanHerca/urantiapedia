@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Editorial-dic24-1.jpg" alt="Editorial diciembre 2024-1" width="350">
@@ -56,14 +80,14 @@ Esos altos niveles del vivir humano se alcanzan en el amor supremo a Dios y en e
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Editorial-dic24-3.jpg" alt="Editorial diciembre 2024-3" width="350">
 </figure>
 
-Observad a vuestro Maestro. En este mismo momento está allá fuera en las colinas recibiendo fuerza mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está oculto en la comunión espiritual, en la adoración. Desde el punto de vista humano se trata de combinar la meditación y la relajación. La meditación pone a la mente en contacto con el espíritu, la relajación establece la capacidad de receptividad espiritual. [LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
+Observad a vuestro Maestro. En este mismo momento está allá fuera en las colinas recibiendo fuerza mientras nosotros estamos aquí gastando energía. El secreto de todo este problema está oculto en la comunión espiritual, en la adoración. Desde el punto de vista humano se trata de combinar la meditación y la relajación. La meditación pone a la mente en contacto con el espíritu, la relajación establece la capacidad de receptividad espiritual. <a id="a82_444"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
 
 Y es que la batalla actual no es solo tecnológica, sino también ideológica. La verdadera amenaza de la Circe 2.0 es la ideología de la deshumanización, un hechizo que nos empuja hacia la desconexión de lo natural y lo vivo. Una ideología que «zombifica» a la población que esté desconectada de su esencia. Porque el mundo virtual desvitaliza el mundo real y lo vuelve liviano, lejano y vano. Un espejismo.
 
 Y ahora nos toca decidir a nosotros. ¿Queremos seguir adentrándonos, adormecidos, en el mundo de las máquinas, de lo virtual, o despertar, respirar y abrazar la Vida? ¿Seguiremos distraídos con los juguetes virtuales de la nueva Circe 2.0 o recuperaremos la atención en lo que ocurre Aquí y Ahora? ¿Queremos participar en el latido de la vida, sintiendo la presencia divina en nuestras vidas como tantos seres humanos lo han logrado?
 <br style="clear:both;"/>
 
-El profeta que dijo: «Aquel cuya mente se queda en Dios será conservado en paz perfecta» no se limitaba a creer intelectualmente en una teología autoritaria. Ese humano conocedor de la verdad había descubierto a Dios; no solo hablaba de Dios. [LU 155:6.6](/es/The_Urantia_Book/155#p6_6)
+El profeta que dijo: «Aquel cuya mente se queda en Dios será conservado en paz perfecta» no se limitaba a creer intelectualmente en una teología autoritaria. Ese humano conocedor de la verdad había descubierto a Dios; no solo hablaba de Dios. <a id="a89_243"></a>[LU 155:6.6](/es/The_Urantia_Book/155#p6_6)
 
 Así, todas las tradiciones contemplativas y meditativas nos recuerdan la importancia de conectar con la vida real —el mundo natural, el entorno que nos rodea— sin distracciones digitales. Quizás podamos sentir esa conexión al caminar por un bosque o una playa, en silencio, y experimentar lo que Pigem describe como una «comunicación con el mundo más antigua que el pensamiento». En esos momentos, sentimos la esencia de la vida y nos alineamos con lo divino.
 
@@ -75,7 +99,7 @@ Nuestro libro azul nos inspira a proseguir mejorando, sin distracciones, nuestro
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Editorial-dic24-4.jpg" alt="Editorial diciembre 2024-4" width="350">
 </figure>
 
-La forma más rápida de hacer realidad la hermandad del hombre en Urantia es llevar a cabo la transformación espiritual de su humanidad presente. El único modo de acelerar la tendencia natural de la evolución social es aplicar presión espiritual desde arriba para aumentar así la visión interior moral y mejorar al mismo tiempo la capacidad del alma de cada mortal de comprender y amar a todos los demás mortales. [LU 52:6.7](/es/The_Urantia_Book/52#p6_7)
+La forma más rápida de hacer realidad la hermandad del hombre en Urantia es llevar a cabo la transformación espiritual de su humanidad presente. El único modo de acelerar la tendencia natural de la evolución social es aplicar presión espiritual desde arriba para aumentar así la visión interior moral y mejorar al mismo tiempo la capacidad del alma de cada mortal de comprender y amar a todos los demás mortales. <a id="a101_413"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7)
 
 Así será, así ocurrirá cuando por fin sea una realidad en nuestro planeta la religión de la experiencia personal y liberadora, que proclamaba el Maestro hace siglos. Una experiencia única que ninguna máquina o tecnología actual nos puede suministrar.
 
@@ -90,3 +114,28 @@ PD: Os invito a visionar este vídeo, ¿por qué? Ante un desastre natural, el s
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/11/30/editorial-diciembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Coll/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

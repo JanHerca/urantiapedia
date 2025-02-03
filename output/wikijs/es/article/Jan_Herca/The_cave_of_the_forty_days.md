@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 A veces hay referencias en _El Libro de Urantia_ que llaman la atención por su exactitud y concreción. Parecen colocadas ahí para que alguien se moleste en verificarlas, o quizá con alguna oculta intención que yo no alcanzo todavía a comprender. Pero cuando comencé a escribir el capítulo sobre el período de aislamiento de Jesús después de su bautismo, los famosos «cuarenta días», no pude escapar a la tentación de investigar sobre el paradero de Jesús durante ese período.
 
-> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a14_269"></a>[[LU 136:4.14](/es/The_Urantia_Book/136#p4_14)]
+> Durante estos días extraordinarios, Jesús vivió en una antigua caverna rocosa, un refugio en la ladera de las colinas, cerca de una aldea llamada en otro tiempo Beit Adis. Bebía del pequeño manantial que brotaba en la falda de la colina cerca de este refugio rocoso. <a id="a30_269"></a>[[LU 136:4.14](/es/The_Urantia_Book/136#p4_14)]
 
 Este pasaje de _El Libro de Urantia_ resultaba tan llamativo que parecía estar pidiendo a gritos que lo investigara.
 

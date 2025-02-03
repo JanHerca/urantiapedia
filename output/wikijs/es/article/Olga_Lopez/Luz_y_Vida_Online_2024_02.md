@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="pr-2">Luz y Vida — Marzo 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -167,11 +188,11 @@ Ninguno de los personajes se había visto jamás reflejado en un espejo, no sabi
 
 Hay muchos párrafos interesantes que se me han quedado en la memoria, pero algunos que recientemente me han estado «persiguiendo» son los siguientes:
 
-Hoy por hoy la economía motivada por el lucro está destinada al fracaso, a no ser que los motivos de lucro puedan ser superados por motivos de servicio. La competición despiadada que se basa en el egoísmo de miras estrechas, a la larga, destruye aquello que procura mantener. La motivación egoísta y exclusiva de lucro es incompatible con los ideales cristianos —mucho más incompatible con las enseñanzas de Jesús. [LU 71:6.1](/es/The_Urantia_Book/71#p6_1)
+Hoy por hoy la economía motivada por el lucro está destinada al fracaso, a no ser que los motivos de lucro puedan ser superados por motivos de servicio. La competición despiadada que se basa en el egoísmo de miras estrechas, a la larga, destruye aquello que procura mantener. La motivación egoísta y exclusiva de lucro es incompatible con los ideales cristianos —mucho más incompatible con las enseñanzas de Jesús. <a id="a190_415"></a>[LU 71:6.1](/es/The_Urantia_Book/71#p6_1)
 
-En la economía, la motivación de lucro es para la motivación de servicio lo que el temor es para el amor en la religión. Pero el motivo del lucro no ha de destruirse ni eliminarse de manera repentina; mantiene trabajando duro a muchos mortales que de lo contrario serían perezosos. No es forzoso, sin embargo, que este excitador de energía social sea perennemente egoísta en sus objetivos. [LU 71:6.2](/es/The_Urantia_Book/71#p6_2)
+En la economía, la motivación de lucro es para la motivación de servicio lo que el temor es para el amor en la religión. Pero el motivo del lucro no ha de destruirse ni eliminarse de manera repentina; mantiene trabajando duro a muchos mortales que de lo contrario serían perezosos. No es forzoso, sin embargo, que este excitador de energía social sea perennemente egoísta en sus objetivos. <a id="a192_390"></a>[LU 71:6.2](/es/The_Urantia_Book/71#p6_2)
 
-El motivo del lucro en las actividades económicas es enteramente vil y totalmente indigno en un orden avanzado de sociedad; no obstante, es un factor indispensable durante las fases tempranas de la civilización. No se ha de quitar el motivo del lucro a los hombres hasta que cuenten con sólidos tipos superiores de motivos desprovistos de fines lucrativos para el empeño económico y el servicio social —el afán trascendente de la sabiduría superlativa, la hermandad fascinante y la excelencia del logro espiritual. [LU 71:6.3](/es/The_Urantia_Book/71#p6_3)
+El motivo del lucro en las actividades económicas es enteramente vil y totalmente indigno en un orden avanzado de sociedad; no obstante, es un factor indispensable durante las fases tempranas de la civilización. No se ha de quitar el motivo del lucro a los hombres hasta que cuenten con sólidos tipos superiores de motivos desprovistos de fines lucrativos para el empeño económico y el servicio social —el afán trascendente de la sabiduría superlativa, la hermandad fascinante y la excelencia del logro espiritual. <a id="a194_515"></a>[LU 71:6.3](/es/The_Urantia_Book/71#p6_3)
 <br style="clear:both;"/>
 
 [Leer más](/es/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito)
@@ -262,3 +283,25 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2024/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="pr-2">Luz y Vida — Marzo 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

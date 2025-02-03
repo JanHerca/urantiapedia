@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentaciones del XX Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Manuel Vicent en su último libro, Una historia particular, nos dice al principio estas hermosas palabras:
 
@@ -18,7 +42,7 @@ Ciertamente, esas cuatro cuerdas a la que alude el escritor español son fundame
 
 Las personas que leemos _El libro de Urantia_ sabemos de las dificultades que la vida material tiene, máxime en un mundo decimal, en rebelión, sin ayuda de un gobierno planetario físico y, en bastantes ocasiones, con predominancia de nuestra parte instintiva sobre nuestra parte más elevada. Es cierto que hay muchos seres humanos que solo aspiran a nacer, crecer, reproducirse y morir; a reproducir la carrera incesante del hámster, que a nada conduce. Ahora bien, _El libro de Urantia_ nos dice:
 
-> La filosofía de las mejores mentes del mundo científico ya no es materialista por completo, aunque las masas siguen inclinándose en esa dirección como consecuencia de enseñanzas anteriores. Pero esta edad de realismo físico solo es un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna ha dejado intacta la verdadera religión, es decir, las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Lo único que ha hecho la ciencia ha sido destruir las ilusiones infantiles de las falsas interpretaciones de la vida. [LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
+> La filosofía de las mejores mentes del mundo científico ya no es materialista por completo, aunque las masas siguen inclinándose en esa dirección como consecuencia de enseñanzas anteriores. Pero esta edad de realismo físico solo es un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna ha dejado intacta la verdadera religión, es decir, las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Lo único que ha hecho la ciencia ha sido destruir las ilusiones infantiles de las falsas interpretaciones de la vida. <a id="a44_553"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-1.jpg" alt="Editorial agosto-24-1" width="350">
@@ -31,7 +55,7 @@ Este crucial dilema que tenemos los seres humanos del siglo XXI se fue analizand
 Algo harto difícil pues en letras, en un texto escrito, es difícil captar las emociones y los abrazos, las miradas y sonrisas, los diálogos en las comidas y las risas, las palabras compartidas en pasillos y en el salón de reuniones, las conversaciones y debates del «territorio comanche» del sábado o los diálogos y debates de cada grupo en los diferentes talleres. ¿Cómo transmitiros el espíritu de concordia, amor y alegría que hemos vivido en ese fin de semana y que nos ha «recargado las pilas» espirituales? Con ese ánimo elevado hemos podido volver a casa en los diferentes puntos de España y seguir mostrando al mundo, en nuestro pequeño ámbito, las enseñanzas de nuestro querido Maestro. De eso se trata: de trabajar en la «viña», en el mundo, en nuestro entorno y **mostrar con acciones lo que hay dentro de nosotros**.
 <br style="clear:both;"/>
 
-> Jesús introdujo el espíritu de la **acción positiva** en las doctrinas pasivas de la religión judía. Sustituyó la sumisión negativa a unos requisitos ceremoniales por la acción positiva que su nueva religión exigía a los que la aceptaban. La religión de Jesús no consistía simplemente en creer, sino en **hacer las cosas** que mandaba el evangelio. No enseñó que la esencia de su religión fuera el servicio social, sino que el servicio social era una de las consecuencias seguras de poseer el espíritu de la verdadera religión. [LU 159:5.8](/es/The_Urantia_Book/159#p5_8) negrita añadida
+> Jesús introdujo el espíritu de la **acción positiva** en las doctrinas pasivas de la religión judía. Sustituyó la sumisión negativa a unos requisitos ceremoniales por la acción positiva que su nueva religión exigía a los que la aceptaban. La religión de Jesús no consistía simplemente en creer, sino en **hacer las cosas** que mandaba el evangelio. No enseñó que la esencia de su religión fuera el servicio social, sino que el servicio social era una de las consecuencias seguras de poseer el espíritu de la verdadera religión. <a id="a57_530"></a>[LU 159:5.8](/es/The_Urantia_Book/159#p5_8) negrita añadida
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-2.jpg" alt="Editorial agosto 24-2" width="350">
@@ -63,3 +87,28 @@ https://www.youtube.com/watch?v=zQ0fb0mu4p4
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentaciones del XX Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

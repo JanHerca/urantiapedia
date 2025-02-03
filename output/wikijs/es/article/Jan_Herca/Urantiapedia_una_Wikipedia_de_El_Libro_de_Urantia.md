@@ -58,7 +58,7 @@ Jan Herca
 
 ## Referencias
 
-- Artículo de la Revista Luz y Vida Online: https://aue.urantia-association.org/2021/02/21/urantiapedia-una-wikipedia-de-el-libro-de-urantia/
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2021/02/21/urantiapedia-una-wikipedia-de-el-libro-de-urantia/)
 
 <figure class="table chapter-navigator">
   <table>

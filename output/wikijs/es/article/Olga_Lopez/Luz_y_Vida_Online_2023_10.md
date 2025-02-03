@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Luz y Vida — Noviembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -184,9 +205,9 @@ Naturalmente que había perdido la vista para siempre. Pero ¡qué bello se hizo
 
 **El difícil legado que nos dejó el Maestro**
 
-**Ojo por ojo**, diente por diente, vida por vida… es la actitud vengativa de la represalia que adoptó la sociedad en los tiempos primitivos y que siguieron todas las tribus en vías de evolución (Cf [LU 70:10.9](/es/The_Urantia_Book/70#p10_9)). Mucho más tarde, este reconocimiento pasó a ponerse por escrito y a considerarse como ley de Moisés.
+**Ojo por ojo**, diente por diente, vida por vida… es la actitud vengativa de la represalia que adoptó la sociedad en los tiempos primitivos y que siguieron todas las tribus en vías de evolución (Cf <a id="a207_199"></a>[LU 70:10.9](/es/The_Urantia_Book/70#p10_9)). Mucho más tarde, este reconocimiento pasó a ponerse por escrito y a considerarse como ley de Moisés.
 
-La respuesta de Jesús a esta supuesta ley de Moisés —la cual desaprobaba totalmente, pues rechazaba todo concepto de rencor o de venganza privada (Cf [LU 140:8.5](/es/The_Urantia_Book/140#p8_5))—, fue: «_Vuestra regla no ha de ser medida por medida… Devolveréis bien por mal_» ([LU 140:6.9](/es/The_Urantia_Book/140#p6_9)). Se atrevió a proponer la novedosa idea de «**_hacer algo_** _**positivo** por salvar al malhechor en lugar de seguir el viejo principio de la represalia»_ ([LU 159:5.11](/es/The_Urantia_Book/159#p5_11)). «_Mis discípulos no solo deben dejar de hacer el mal, sino aprender a hacer el bien_» ([LU 156:2.7](/es/The_Urantia_Book/156#p2_7)). Jesús aborrecía tanto la idea de venganza como la de resignación a ser una víctima pasiva de la injusticia. Así que planteó osadamente esta tercera vía al conflicto.
+La respuesta de Jesús a esta supuesta ley de Moisés —la cual desaprobaba totalmente, pues rechazaba todo concepto de rencor o de venganza privada (Cf <a id="a209_150"></a>[LU 140:8.5](/es/The_Urantia_Book/140#p8_5))—, fue: «_Vuestra regla no ha de ser medida por medida… Devolveréis bien por mal_» (<a id="a209_278"></a>[LU 140:6.9](/es/The_Urantia_Book/140#p6_9)). Se atrevió a proponer la novedosa idea de «**_hacer algo_** _**positivo** por salvar al malhechor en lugar de seguir el viejo principio de la represalia»_ (<a id="a209_480"></a>[LU 159:5.11](/es/The_Urantia_Book/159#p5_11)). «_Mis discípulos no solo deben dejar de hacer el mal, sino aprender a hacer el bien_» (<a id="a209_615"></a>[LU 156:2.7](/es/The_Urantia_Book/156#p2_7)). Jesús aborrecía tanto la idea de venganza como la de resignación a ser una víctima pasiva de la injusticia. Así que planteó osadamente esta tercera vía al conflicto.
 <br style="clear:both;"/>
 
 [Leer más](/es/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
@@ -266,3 +287,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2023/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Luz y Vida — Noviembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

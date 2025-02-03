@@ -147,7 +147,7 @@ Ahora, la pregunta de Eric es: ***¿Es Dios Séptuple una persona?*** Dado que e
 > 1. Les Maitres Physiques, le mental préadjuvat.
 > 2. Les esprits mentaux adjuvats, les mentaux humains et médians.
 > 3. Les Esprits Créatifs, les mentaux de l'univers local.
-> 4. Les Sept Maitres Esprits, le mental cosmique. [LU 42:10.3-6](/es/The_Urantia_Book/42#p10_5)
+> 4. Les Sept Maitres Esprits, le mental cosmique. <a id="a149_51"></a>[LU 42:10.3-6](/es/The_Urantia_Book/42#p10_5)
 
 > 2. Las fuerzas mentales convergen en el Espíritu Infinito; la mente cósmica diferencial y divergente converge en los Siete Espíritus Maestros; la mente del Supremo, que se está volviendo real, converge como experiencia espacio-temporal en Majeston. (<a id="a151_252"></a>[LU 0:3.14](/es/The_Urantia_Book/0#p3_14))
 

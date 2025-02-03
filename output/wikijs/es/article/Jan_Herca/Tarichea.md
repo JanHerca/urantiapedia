@@ -95,7 +95,7 @@ El emplazamiento de esta excavación es perfecta para explicar algunos de los pa
 
 ## El Libro de Urantia
 
-_El Libro de Urantia_ es rotundo a la hora de fijar la ubicación de Tariquea. Así como para otros emplazamientos no ofrece muchas pistas, aquí no ofrece ninguna duda, como si los autores dieran por sentado que no admite discusión. En el documento <a id="a81_247"></a>[LU 139:8.2](/es/The_Urantia_Book/139#p8_2) dice : «[Tomás] Anteriormente había sido carpintero y albañil, pero luego se convirtió en pescador y residía en Tariquea, en la ribera occidental del Jordán, allí donde el río fluye del mar de Galilea, y se le consideraba el ciudadano más importante de esta pequeña aldea».
+_El Libro de Urantia_ es rotundo a la hora de fijar la ubicación de Tariquea. Así como para otros emplazamientos no ofrece muchas pistas, aquí no ofrece ninguna duda, como si los autores dieran por sentado que no admite discusión. En el documento <a id="a97_247"></a>[LU 139:8.2](/es/The_Urantia_Book/139#p8_2) dice : «[Tomás] Anteriormente había sido carpintero y albañil, pero luego se convirtió en pescador y residía en Tariquea, en la ribera occidental del Jordán, allí donde el río fluye del mar de Galilea, y se le consideraba el ciudadano más importante de esta pequeña aldea».
 
 Desde luego está describiendo el enclave de Bet Yerah, pero llama la atención que se refiera a Tariquea como una «pequeña aldea». ¿Una pequeña aldea dispondría de una muralla y de un hipódromo?
 

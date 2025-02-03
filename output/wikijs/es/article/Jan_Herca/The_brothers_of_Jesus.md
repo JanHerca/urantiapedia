@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Este asunto es uno de los que vienen causando más controversia y polémica durante los siglos de existencia del cristianismo. Debido a ciertas menciones que se hacen en el Nuevo Testamento surge una pregunta: ¿tuvo Jesús más hermanos? ¿O fue hijo único?
 
 La respuesta a esta pregunta carecería de toda importancia de no ser porque el cristianismo postuló una serie de dogmas y creencias en torno a la madre de Jesús, María, que chocarían frontalmente con la idea de que tuvo otros hijos aparte de Jesús. Porque, ¿qué importancia puede tener que Jesús fuera hijo único o tuviera más hermanos? ¿Menoscaba eso su posible origen divino? ¿Le hace parecer acaso más humano? ¿Hace que sus enseñanzas acerca de «una familia universal, de que todos somos hijos e hijas de Dios y por tanto debemos tratarnos como hermanos y hermanas», sean menos ciertas, o por el contrario, las realza en un contexto más clarificador?
@@ -119,3 +135,19 @@ Pero si reflexionamos e intentamos imaginar cuáles fueron los motivos de Jesús
 - Varios autores, _El Libro de Urantia_, 1955.
 
 - _Nuevo Testamento_, La Casa de la Biblia, 1992.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

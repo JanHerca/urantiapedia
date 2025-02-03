@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Luis-Garcia-Bory.jpg" alt="Luis García Bory" width="250">
@@ -61,13 +82,13 @@ _El libro de Urantia_ me abrió la mente y el alma a la realidad de la espiritua
 
 Más que haya puntos que me cueste aceptar, hay grandes desafíos que me cuesta alcanzar. Por ejemplo, _El libro de Urantia_ nos invita a aprender a amar auténtica y desinteresadamente a un ser humano más cada día. Pero también nos enseña que dicho amar es resultado del comprender profundo de nuestros semejantes. ¡En la realidad de las demandas del vivir cotidiano, es muy complejo y desafiante el poder conseguir esto cada semana, ni qué decir cada día!
 
-> «No podéis amar de verdad a vuestros semejantes por un mero acto de voluntad. El amor nace solo de una comprensión profunda de los motivos y sentimientos del prójimo. Amar hoy a todos los hombres no es tan importante como aprender a amar a un ser humano más cada día. Si cada día o cada semana conseguís comprender a uno más de vuestros semejantes, y si ese es el límite de vuestra capacidad, conseguiréis una personalidad cada vez más socializada y verdaderamente espiritual. El amor es contagioso, y cuando la entrega humana es inteligente y sabia, el amor es más pegadizo que el odio. Pero solo el amor auténtico y desinteresado es verdaderamente contagioso. Si cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor impregnaría pronto la corriente sentimental de emociones de la humanidad hasta el punto de que toda la civilización estaría envuelta en amor y se haría realidad la hermandad del hombre.» [LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
+> «No podéis amar de verdad a vuestros semejantes por un mero acto de voluntad. El amor nace solo de una comprensión profunda de los motivos y sentimientos del prójimo. Amar hoy a todos los hombres no es tan importante como aprender a amar a un ser humano más cada día. Si cada día o cada semana conseguís comprender a uno más de vuestros semejantes, y si ese es el límite de vuestra capacidad, conseguiréis una personalidad cada vez más socializada y verdaderamente espiritual. El amor es contagioso, y cuando la entrega humana es inteligente y sabia, el amor es más pegadizo que el odio. Pero solo el amor auténtico y desinteresado es verdaderamente contagioso. Si cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor impregnaría pronto la corriente sentimental de emociones de la humanidad hasta el punto de que toda la civilización estaría envuelta en amor y se haría realidad la hermandad del hombre.» <a id="a84_945"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
 Quizás el saber que ni los reveladores mismos pueden explicar la naturaleza y fuente de dotación de vida planetaria. Saben de dónde proviene, pero no cómo se obtiene. Ese es uno de los más grandes secretos del universo, específicamente centrado en la persona del Espíritu Infinito y potestad creadora-distributiva su progenie. Por ello mismo, nos revelan que los humanos jamás podremos crear vida.
 
-> «Hay algunas cosas relacionadas con la elaboración de la vida en los planetas evolutivos que no están del todo claras para nosotros. Comprendemos plenamente la organización física de las fórmulas electroquímicas de los Portadores de Vida, pero no entendemos por completo la naturaleza y la fuente de la chispa de activación de la vida. Sabemos que la vida fluye desde el Padre, a través del Hijo y mediante el Espíritu. Es más que posible que los Espíritus Maestros sean el canal séptuplo del río de vida que se vierte sobre toda la creación. Pero no comprendemos la técnica por la cual el Espíritu Maestro supervisor participa en el episodio inicial de otorgamiento de vida en un nuevo planeta. Estamos convencidos de que los Ancianos de los Días participan también de alguna manera en esta inauguración de la vida en un mundo nuevo, pero ignoramos por completo la naturaleza de esta participación. Sabemos que el Espíritu Madre del Universo vitaliza efectivamente los patrones sin vida e imparte a ese plasma activado las prerrogativas de reproducción del organismo. Observamos que estos tres son los niveles de Dios Séptuplo, denominados a veces los Creadores Supremos del tiempo y el espacio. Pero aparte de eso, sabemos poco más que los mortales de Urantia: simplemente que el concepto es inherente al Padre, expresión en el Hijo y realización de vida en el Espíritu.» [LU 36:6.7](/es/The_Urantia_Book/36#p6_7)
+> «Hay algunas cosas relacionadas con la elaboración de la vida en los planetas evolutivos que no están del todo claras para nosotros. Comprendemos plenamente la organización física de las fórmulas electroquímicas de los Portadores de Vida, pero no entendemos por completo la naturaleza y la fuente de la chispa de activación de la vida. Sabemos que la vida fluye desde el Padre, a través del Hijo y mediante el Espíritu. Es más que posible que los Espíritus Maestros sean el canal séptuplo del río de vida que se vierte sobre toda la creación. Pero no comprendemos la técnica por la cual el Espíritu Maestro supervisor participa en el episodio inicial de otorgamiento de vida en un nuevo planeta. Estamos convencidos de que los Ancianos de los Días participan también de alguna manera en esta inauguración de la vida en un mundo nuevo, pero ignoramos por completo la naturaleza de esta participación. Sabemos que el Espíritu Madre del Universo vitaliza efectivamente los patrones sin vida e imparte a ese plasma activado las prerrogativas de reproducción del organismo. Observamos que estos tres son los niveles de Dios Séptuplo, denominados a veces los Creadores Supremos del tiempo y el espacio. Pero aparte de eso, sabemos poco más que los mortales de Urantia: simplemente que el concepto es inherente al Padre, expresión en el Hijo y realización de vida en el Espíritu.» <a id="a90_1376"></a>[LU 36:6.7](/es/The_Urantia_Book/36#p6_7)
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 
@@ -104,3 +125,25 @@ Solo invitar a todos aquellos interesados en _El libro de Urantia_ a atreverse a
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

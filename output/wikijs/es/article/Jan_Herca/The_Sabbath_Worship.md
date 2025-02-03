@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 No sólo fue el año con su calendario festivo lo que marcó la religiosidad de Israel frente a otros pueblos, sino también su festividad semanal del sábado. El sábado se festejaba no sólo en Jerusalén y en su templo, sino en todas partes, en cualquier lugar de Palestina e incluso fuera del país. 
 
 La fiesta del sábado estaba determinada por el precepto del sábado en el Decálogo. Lo establece como día de descanso en el trabajo, incluso para los esclavos y esclavas, los extranjeros y el ganado. En [Ex 20:8-11](/es/Bible/Exodus/20#v8) se fundamenta el precepto del sábado en el descanso de Dios tras la obra de la creación. Pero todo es una elaboración sacerdotal, que presenta el sábado como la primera ley recibida por los hombres y, por consiguiente, como el punto central de toda la Ley. Le fue dado tan sólo al pueblo de Israel y es el signo de su elección y de su diferencia con el resto de naciones. Por eso estaba el sábado bajo protección especial. Así, se decía: «Todo el que realiza un trabajo en él, debe morir. Todo hombre que lo observa, será santificado y bendecido todos sus días». Los rabinos de la época, conscientes de la importancia del sábado, se encargaron muy bien de elaborar escritos donde consignaron todas las cuestiones relativas al sábado y al año sabático. Se decía que «con sólo observar todo Israel, de acuerdo con lo prescrito, dos sábados, comenzaría al punto la eterna salvación del pueblo». De aquí el inmenso énfasis que se hacía sobre este asunto.
@@ -107,3 +123,19 @@ Este era el orden que se seguía para el oficio matutino, pero por la tarde, el 
 - Emil Schürer, _Historia del pueblo judío en tiempos de Jesús_, Ediciones Cristiandad, 1985.
 
 - Johannes Leipoldt y Walter Grundmann, _El Mundo del Nuevo Testamento_, dos tomos, Ediciones Cristiandad, 1973.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

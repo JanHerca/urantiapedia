@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Giscala también aparece como una de las poblaciones que visitaron los apóstoles. Los apóstoles predicaron allí en su primera gira de predicación por el lago entre junio y julio de 26 ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)). Es una de las poblaciones visitadas durante la primera gira de predicación por Galilea entre enero y marzo de 28 ([LU 146:0.1](/es/The_Urantia_Book/146#p0_1), [LU 146:4.6](/es/The_Urantia_Book/146#p4_6)). Jesús y los apóstoles pasaron cerca en su regreso de Fenicia ([LU 156:6.3](/es/The_Urantia_Book/156#p6_3)).
+Giscala también aparece como una de las poblaciones que visitaron los apóstoles. Los apóstoles predicaron allí en su primera gira de predicación por el lago entre junio y julio de 26 (<a id="a28_184"></a>[LU 138:9.3](/es/The_Urantia_Book/138#p9_3)). Es una de las poblaciones visitadas durante la primera gira de predicación por Galilea entre enero y marzo de 28 (<a id="a28_344"></a>[LU 146:0.1](/es/The_Urantia_Book/146#p0_1), <a id="a28_389"></a>[LU 146:4.6](/es/The_Urantia_Book/146#p4_6)). Jesús y los apóstoles pasaron cerca en su regreso de Fenicia (<a id="a28_497"></a>[LU 156:6.3](/es/The_Urantia_Book/156#p6_3)).
 
 Esta población estaba emplazada en la actual Al-Jish o Jish.
 
@@ -49,11 +49,11 @@ Se han encontrado numerosas cuevas y pasadizos, al noroeste de la sinagoga, form
 > Una cuidadosa búsqueda determinó la existencia en Jeish de túneles, algunos de ellos muy largos y de cuevas, algunas de ellas muy grandes.
 > &nbsp; &nbsp; [Milim Cultural](http://www.milimcultural.com.ar)
 
-En la novela «Jesús de Nazaret»[^1] el Maestro visita Giscala por primera vez en compañía de Pedro y Andrés, y su predicación no tiene muy buena acogida en la ciudad. Esto es algo que no aparece mencionado tal cual en _El Libro de Urantia_ ([LU 146:4.6](/es/The_Urantia_Book/146#p4_6)), pero es una deducción lógica a partir del hecho de que se menciona que Jesús y sus apóstoles sólo estuvieron dos días en Giscala cuando en otras poblaciones estuvieron una semana o más, y que en general en estas poblaciones del norte de Galilea el mensaje del Maestro no tuvo muy buena acogida.
+En la novela «Jesús de Nazaret»[^1] el Maestro visita Giscala por primera vez en compañía de Pedro y Andrés, y su predicación no tiene muy buena acogida en la ciudad. Esto es algo que no aparece mencionado tal cual en _El Libro de Urantia_ (<a id="a51_241"></a>[LU 146:4.6](/es/The_Urantia_Book/146#p4_6)), pero es una deducción lógica a partir del hecho de que se menciona que Jesús y sus apóstoles sólo estuvieron dos días en Giscala cuando en otras poblaciones estuvieron una semana o más, y que en general en estas poblaciones del norte de Galilea el mensaje del Maestro no tuvo muy buena acogida.
 
 Fue una población muy conocida tiempo después de Jesús debido a que uno de los líderes judíos de la revuelta contra Roma, Juan de Giscala, era de allí. Sin duda Jesús conoció a su padre, un tal Leví según Josefo. Quizá fuera, según la novela «Jesús de Nazaret», uno de los que no creyó en Jesús de esta población. Sin embargo, este personaje no aparece en la novela. No soy del gusto al narrar novela histórica de forzar la historia para que aparezcan ciertos personajes por el mero hecho de que sabemos que existieron.
 
-Una última curiosidad a mencionar es que Dismas, el «buen ladrón» al que crucificaron en compañía de Jesús, aparece en la novela[^1] como oriundo de Giscala. Es un dato que no está sacado de _El Libro de Urantia_ y representa una invención propia. Al menos un habitante de Giscala sí creyó en Jesús, y fue la única persona en la Tierra que recibió la promesa directa de Jesús de alcanzar algún día el Paraíso ([LU 187:4.1](/es/The_Urantia_Book/187#p4_1)).
+Una última curiosidad a mencionar es que Dismas, el «buen ladrón» al que crucificaron en compañía de Jesús, aparece en la novela[^1] como oriundo de Giscala. Es un dato que no está sacado de _El Libro de Urantia_ y representa una invención propia. Al menos un habitante de Giscala sí creyó en Jesús, y fue la única persona en la Tierra que recibió la promesa directa de Jesús de alcanzar algún día el Paraíso (<a id="a55_410"></a>[LU 187:4.1](/es/The_Urantia_Book/187#p4_1)).
 
 ## Referencias
 

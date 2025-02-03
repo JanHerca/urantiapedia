@@ -112,7 +112,7 @@ Habiendo alcanzado la realización de la Supremacía, que los prepara para la av
 > 1. Activités havoniennes
 > 2. Activités paradisiaques
 > 3. Activités finies-ascendantes-évolutionnaires Suprêmes-Ultimes.
-> Beaucoup d'activités superfinies s'exercent dans l'univers havonien de l'âge présent, impliquant une incroyable diversité de phases absonites et autres des fonctions mentales et spirituelles. Il est possible que l'univers central serve beaucoup de desseins qui ne me sont pas révélés, car il fonctionne de bien des manières qui dépassent la compréhension du mental créé. Je m'efforcerai néanmoins de décrire comment cette parfaite création contribue à satisfaire sept ordre d'intelligences universelles et pourvoit à leurs besoins. [LU 14:6.1-4](/es/The_Urantia_Book/14#p6_1)
+> Beaucoup d'activités superfinies s'exercent dans l'univers havonien de l'âge présent, impliquant une incroyable diversité de phases absonites et autres des fonctions mentales et spirituelles. Il est possible que l'univers central serve beaucoup de desseins qui ne me sont pas révélés, car il fonctionne de bien des manières qui dépassent la compréhension du mental créé. Je m'efforcerai néanmoins de décrire comment cette parfaite création contribue à satisfaire sept ordre d'intelligences universelles et pourvoit à leurs besoins. <a id="a114_534"></a>[LU 14:6.1-4](/es/The_Urantia_Book/14#p6_1)
 
 > 1. *El Padre Universal* —la Fuente-Centro Primera. Dios Padre obtiene una satisfacción parental suprema de la perfección de la creación central. Disfruta de la experiencia de saciar su amor en unos niveles cercanos a la igualdad. El Creador perfecto está divinamente satisfecho con la adoración de las criaturas perfectas. (<a id="a116_326"></a>[LU 14:6.6](/es/The_Urantia_Book/14#p6_6))
 

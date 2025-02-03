@@ -78,7 +78,7 @@ En este trío jurídico, el Perfeccionador de la Sabiduría sería el “yo fui�
 > Les Susatias.
 > Les Univitatias.
 > Les Fils Matériels.
-> Les Créatures Médianes. [LU 37:9.2-6](/es/The_Urantia_Book/37#p9_2)
+> Les Créatures Médianes. <a id="a80_26"></a>[LU 37:9.2-6](/es/The_Urantia_Book/37#p9_2)
 
 **8**
 

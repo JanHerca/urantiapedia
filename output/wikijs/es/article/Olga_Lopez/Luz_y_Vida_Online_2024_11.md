@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — Diciembre 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -225,7 +246,7 @@ Solo Dios basta.
 Dos de mis párrafos favoritos se refieren al concepto que Jesús enseñó sobre el reino de los cielos y la transformación espiritual y personal del individuo. «El reino de los cielos está dentro de vosotros».
 <br style="clear:both;"/>
 
-> En distintos momentos y circunstancias parece que Jesús pudo haber presentado muchos conceptos del «reino» en sus enseñanzas públicas, pero siempre enseñó a sus apóstoles que el reino consistía en la experiencia personal del hombre con sus semejantes de la tierra y con el Padre del cielo. Siempre que hablaba del reino terminaba diciendo: «El reino está dentro de vosotros». [LU 170:1.13](/es/The_Urantia_Book/170#p1_13)
+> En distintos momentos y circunstancias parece que Jesús pudo haber presentado muchos conceptos del «reino» en sus enseñanzas públicas, pero siempre enseñó a sus apóstoles que el reino consistía en la experiencia personal del hombre con sus semejantes de la tierra y con el Padre del cielo. Siempre que hablaba del reino terminaba diciendo: «El reino está dentro de vosotros». <a id="a248_378"></a>[LU 170:1.13](/es/The_Urantia_Book/170#p1_13)
 
 [Leer más](/es/article/Luis_Coll/Mi_parrafo_favorito)
 
@@ -303,3 +324,25 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/2536/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — Diciembre 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Abril 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="pr-2">Cuestionario Urantiano: Ana Eguren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La gratitud: el camino de Jesús
 
@@ -31,7 +55,7 @@ Protestamos porque es nuestro derecho y nuestro deber, y no se trata de ser reba
 Pero es necesario poder dedicar, también, un tiempo a disfrutar de lo que sí hay, de lo que ya tenemos, de lo que forma parte de nuestra vida. A no vivir únicamente guiados por el siguiente deseo, la próxima batalla o la última insatisfacción. A dejarnos guiar, también, por la gratitud y la alegría de lo ya recibido.
 <br style="clear:both;"/>
 
-> Daré gracias a Dios todos los días por sus dádivas inefables, lo alabaré por sus obras maravillosas para los hijos de los hombres. [LU 131:10.6](/es/The_Urantia_Book/131#p10_6)
+> Daré gracias a Dios todos los días por sus dádivas inefables, lo alabaré por sus obras maravillosas para los hijos de los hombres. <a id="a57_133"></a>[LU 131:10.6](/es/The_Urantia_Book/131#p10_6)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-3.jpg" alt="Editorial abril 2024-3" width="350">
@@ -48,7 +72,7 @@ Amar a Dios con todo el corazón significa decir un «sí» incondicional a la v
 
 La gratitud es imprescindible en nuestras vidas. Jesús lo tenía muy claro:
 
-> Jesús deploraba que hubiera tan poco espíritu de acción de gracias en las oraciones y la adoración de sus seguidores, y citó este pasaje de las Escrituras: «Bueno es dar gracias al Señor y cantar alabanzas al nombre del Altísimo, anunciar por la mañana su bondad y su fidelidad por las noches, porque Dios me ha alegrado con sus obras. Daré gracias por todas las cosas conforme a la voluntad de Dios». [LU 146:2.15](/es/The_Urantia_Book/146#p2_15) 146:2.15
+> Jesús deploraba que hubiera tan poco espíritu de acción de gracias en las oraciones y la adoración de sus seguidores, y citó este pasaje de las Escrituras: «Bueno es dar gracias al Señor y cantar alabanzas al nombre del Altísimo, anunciar por la mañana su bondad y su fidelidad por las noches, porque Dios me ha alegrado con sus obras. Daré gracias por todas las cosas conforme a la voluntad de Dios». <a id="a74_404"></a>[LU 146:2.15](/es/The_Urantia_Book/146#p2_15) 146:2.15
 
 Quizás, lo primero y más inmediato que podríamos realizar sería comenzar por agradecer la vida a Dios nuestro Padre. Este es el primer regalo que tenemos. Una vida plena de posibilidades se abre cuando abrimos los ojos a la vida en la Tierra. También habrá tormentas, pero, sobre todo, será una historia en la que podemos construir, soñar, amar, aprender, equivocarnos…
 
@@ -66,18 +90,18 @@ Y podríamos seguir por familiares y amigos, otras personas que se han cruzado e
 
 En un mundo tan golpeado, donde para tantas personas vivir es sobrevivir, muchas de nuestras vidas son simplemente maravillosas. Esto debería implicar una gratitud profunda y quizás indefinida; una gratitud básica: la de quien se instala en una aceptación serena de la existencia, de la vida que nos permea. Una vida cuidada y regalada por nuestro progenitor común, por la fuente de todo, por el Padre infinito de sus infinitos hijos e hijas.
 
-Y siguió diciendo: «No os preocupéis demasiado por vuestras necesidades diarias; no os inquietéis por los problemas de vuestra existencia terrenal. En todas estas cosas exponed vuestras necesidades ante vuestro Padre del cielo mediante la oración y la súplica con espíritu de sincero agradecimiento». [LU 146:2.16](/es/The_Urantia_Book/146#p2_16)
+Y siguió diciendo: «No os preocupéis demasiado por vuestras necesidades diarias; no os inquietéis por los problemas de vuestra existencia terrenal. En todas estas cosas exponed vuestras necesidades ante vuestro Padre del cielo mediante la oración y la súplica con espíritu de sincero agradecimiento». <a id="a92_301"></a>[LU 146:2.16](/es/The_Urantia_Book/146#p2_16)
 
 Se trata de estar presente en nuestra vida, de responder, contagiando y compartiendo. Contagiar los motivos para la alegría. Compartir las oportunidades. Multiplicar los frutos. Responder a las palabras, los gestos, los abrazos, con nuevas palabras, gestos y abrazos. Compartir las risas y los motivos que vamos encontrando día a día. Y agradecer, siempre.
 
-Jesús tomó los panes en sus manos, y después de dar gracias, partió el pan y se lo dio a sus apóstoles, que se lo pasaron a sus compañeros, quienes a su vez lo llevaron a la multitud. [LU 152:2.9](/es/The_Urantia_Book/152#p2_9)
+Jesús tomó los panes en sus manos, y después de dar gracias, partió el pan y se lo dio a sus apóstoles, que se lo pasaron a sus compañeros, quienes a su vez lo llevaron a la multitud. <a id="a96_184"></a>[LU 152:2.9](/es/The_Urantia_Book/152#p2_9)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-1.jpg" alt="Editorial abril 2024-1" width="350">
 </figure>
 
-Existe una hermosa historia en _El libro de Urantia_ (y en los evangelios) que podemos traer aquí, pues nos hace reflexionar sobre la gratitud. Se trata de la narración de los hechos que ocurrieron en Amatus, ciudad fronteriza con Samaria, lugar donde «un grupo de diez leprosos se habían instalado temporalmente cerca de ese lugar. Nueve de ellos eran judíos y uno samaritano». [LU 166:2.1](/es/The_Urantia_Book/166#p2_1)
+Existe una hermosa historia en _El libro de Urantia_ (y en los evangelios) que podemos traer aquí, pues nos hace reflexionar sobre la gratitud. Se trata de la narración de los hechos que ocurrieron en Amatus, ciudad fronteriza con Samaria, lugar donde «un grupo de diez leprosos se habían instalado temporalmente cerca de ese lugar. Nueve de ellos eran judíos y uno samaritano». <a id="a103_379"></a>[LU 166:2.1](/es/The_Urantia_Book/166#p2_1)
 
 Veamos lo que ocurrió.
 
@@ -93,7 +117,7 @@ Mientras el samaritano permanecía arrodillado a los pies de Jesús, el Maestro 
 
 Jesús miró de nuevo a sus apóstoles mientras el extranjero se alejaba, y todos los apóstoles miraron a Jesús menos Simón Zelotes que bajaba los ojos. Ninguno de los doce dijo una palabra. Tampoco Jesús habló; no era necesario que lo hiciera.
 
-Jesús ordenó a los doce que no dijeran nada sobre la curación de los leprosos, y cuando entraban en Amatus comentó: «Ya veis cómo los hijos de la casa, aunque no acaten la voluntad de su Padre, dan por sentadas sus bendiciones y no ven la necesidad de dar las gracias cuando el Padre les otorga la curación. En cambio los extranjeros se llenan de admiración cuando reciben los regalos del dueño de la casa y se sienten obligados a dar gracias en reconocimiento por las cosas buenas que les han sido otorgadas». [LU 166:2](/es/The_Urantia_Book/166#p2)
+Jesús ordenó a los doce que no dijeran nada sobre la curación de los leprosos, y cuando entraban en Amatus comentó: «Ya veis cómo los hijos de la casa, aunque no acaten la voluntad de su Padre, dan por sentadas sus bendiciones y no ven la necesidad de dar las gracias cuando el Padre les otorga la curación. En cambio los extranjeros se llenan de admiración cuando reciben los regalos del dueño de la casa y se sienten obligados a dar gracias en reconocimiento por las cosas buenas que les han sido otorgadas». <a id="a119_511"></a>[LU 166:2](/es/The_Urantia_Book/166#p2)
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
@@ -150,3 +174,28 @@ Feliz lectura.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/03/30/editorial-abril-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Abril 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="pr-2">Cuestionario Urantiano: Ana Eguren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

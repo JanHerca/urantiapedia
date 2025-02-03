@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Maestro de la felicidad
 
@@ -72,20 +96,20 @@ de tan alta, sin vaivén.
 
 Imaginemos esta escena de la vida de Jesús, ocurrida pocos días antes de la Pascua en Jerusalén, en la cual murió:
 
-Seis días antes de la Pascua, la noche de después del sabbat, todo Betania y todo Betfagé se reunió para celebrar la llegada de Jesús con un banquete público en casa de Simón. Esta cena en honor de Jesús y de Lázaro era un auténtico desafío al Sanedrín. [LU 172:1.2](/es/The_Urantia_Book/172#p1_2)
+Seis días antes de la Pascua, la noche de después del sabbat, todo Betania y todo Betfagé se reunió para celebrar la llegada de Jesús con un banquete público en casa de Simón. Esta cena en honor de Jesús y de Lázaro era un auténtico desafío al Sanedrín. <a id="a98_254"></a>[LU 172:1.2](/es/The_Urantia_Book/172#p1_2)
 
-El ambiente del banquete era alegre y normal, salvo que todos los apóstoles estaban más serios que de costumbre. Jesús estaba excepcionalmente alegre y había jugado con los niños hasta el momento de sentarse a la mesa. [LU 172:1.4](/es/The_Urantia_Book/172#p1_4)
+El ambiente del banquete era alegre y normal, salvo que todos los apóstoles estaban más serios que de costumbre. Jesús estaba excepcionalmente alegre y había jugado con los niños hasta el momento de sentarse a la mesa. <a id="a100_219"></a>[LU 172:1.4](/es/The_Urantia_Book/172#p1_4)
 
-No ocurrió nada fuera de lo corriente hasta cerca del final del festín, cuando María, la hermana de Lázaro, salió del grupo de mujeres espectadoras, avanzó hacia el puesto del huésped de honor donde estaba reclinado Jesús y abrió un gran frasco de alabastro que contenía un ungüento muy raro y costoso. Después de ungir la cabeza del Maestro, empezó a verterlo sobre sus pies y se soltó el cabello para secárselos con él. La fragancia del perfume impregnó toda la casa, y todos los presentes se asombraron de lo que María había hecho (…) Judas Iscariote se acercó al lugar donde estaba reclinado Andrés y dijo: «¿Por qué no se ha vendido este ungüento y se ha empleado el dinero para alimentar a los pobres? Deberías decirle al Maestro que repruebe este derroche». [LU 172:1.5](/es/The_Urantia_Book/172#p1_5)
+No ocurrió nada fuera de lo corriente hasta cerca del final del festín, cuando María, la hermana de Lázaro, salió del grupo de mujeres espectadoras, avanzó hacia el puesto del huésped de honor donde estaba reclinado Jesús y abrió un gran frasco de alabastro que contenía un ungüento muy raro y costoso. Después de ungir la cabeza del Maestro, empezó a verterlo sobre sus pies y se soltó el cabello para secárselos con él. La fragancia del perfume impregnó toda la casa, y todos los presentes se asombraron de lo que María había hecho (…) Judas Iscariote se acercó al lugar donde estaba reclinado Andrés y dijo: «¿Por qué no se ha vendido este ungüento y se ha empleado el dinero para alimentar a los pobres? Deberías decirle al Maestro que repruebe este derroche». <a id="a102_765"></a>[LU 172:1.5](/es/The_Urantia_Book/172#p1_5)
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-2.jpg" alt="Editorial mayo 2024-2" width="350">
 </figure>
 
-Jesús, sabiendo lo que pensaban y oyendo lo que decían, puso su mano sobre la cabeza de María que estaba arrodillada a su lado y dijo con expresión bondadosa: «Dejadla todos en paz. ¿Por qué la molestáis por esto cuando ha hecho algo bueno según su corazón? A vosotros que murmuráis y decís que este ungüento se debería haber vendido para dar el dinero a los pobres, os diré que a los pobres los tendréis siempre con vosotros y podéis ayudarlos cuando os parezca bien, pero a mí no siempre me tendréis; pronto iré a mi Padre. Esta mujer ha guardado durante mucho tiempo este ungüento para mi cuerpo el día de mi sepultura, y si ahora le parece bien ungirme en anticipación de mi muerte, no le será denegada esa satisfacción. Al hacer esto María os ha dado a todos una lección porque manifiesta su fe en lo que he dicho sobre mi muerte y ascensión a mi Padre del cielo. [LU 172:1.6](/es/The_Urantia_Book/172#p1_6)
+Jesús, sabiendo lo que pensaban y oyendo lo que decían, puso su mano sobre la cabeza de María que estaba arrodillada a su lado y dijo con expresión bondadosa: «Dejadla todos en paz. ¿Por qué la molestáis por esto cuando ha hecho algo bueno según su corazón? A vosotros que murmuráis y decís que este ungüento se debería haber vendido para dar el dinero a los pobres, os diré que a los pobres los tendréis siempre con vosotros y podéis ayudarlos cuando os parezca bien, pero a mí no siempre me tendréis; pronto iré a mi Padre. Esta mujer ha guardado durante mucho tiempo este ungüento para mi cuerpo el día de mi sepultura, y si ahora le parece bien ungirme en anticipación de mi muerte, no le será denegada esa satisfacción. Al hacer esto María os ha dado a todos una lección porque manifiesta su fe en lo que he dicho sobre mi muerte y ascensión a mi Padre del cielo. <a id="a109_869"></a>[LU 172:1.6](/es/The_Urantia_Book/172#p1_6)
 
-Esta reprimenda, que tomó como una reprobación personal, indujo definitivamente a Judas Iscariote a buscar venganza para sus sentimientos heridos. Este tipo de ideas habían pasado muchas veces por su subconsciente, pero ahora se atrevía a considerar de forma consciente y abierta esos pensamientos malvados. Y vio reforzada su actitud por las críticas de muchos, dado que el precio de ese ungüento equivalía a lo que ganaba un hombre al año (suficiente para abastecer de pan a cinco mil personas). [LU 172:1.7](/es/The_Urantia_Book/172#p1_7)
+Esta reprimenda, que tomó como una reprobación personal, indujo definitivamente a Judas Iscariote a buscar venganza para sus sentimientos heridos. Este tipo de ideas habían pasado muchas veces por su subconsciente, pero ahora se atrevía a considerar de forma consciente y abierta esos pensamientos malvados. Y vio reforzada su actitud por las críticas de muchos, dado que el precio de ese ungüento equivalía a lo que ganaba un hombre al año (suficiente para abastecer de pan a cinco mil personas). <a id="a111_498"></a>[LU 172:1.7](/es/The_Urantia_Book/172#p1_7)
 
 Esta hermosa historia nos muestra muchos aspectos interesantes: la bondad, alegría y despreocupación de Jesús ante una situación peligrosa y hostil; el amor sin barreras de su amiga María que se postra a sus pies y le regala el exquisito perfume de nardo; la bajeza de miras, la crítica dura de un «amigo» como era el apóstol Judas y su deseo de venganza, lo que nos da muestras de que no sabía dar amor y consideración hacia los demás, a pesar de llevar tanto tiempo junto al Maestro.
 
@@ -116,7 +140,7 @@ Sin amor, el deseo de libertad puede transformarse en odio al opresor; el deseo 
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-1.jpg" alt="Editorial mayo 2024-1" width="350">
 </figure>
 
-¡Qué despertar experimentaría el mundo solo con que pudiera ver a Jesús tal como vivió realmente en la tierra y conocer de primera mano sus enseñanzas dadoras de vida! Las palabras que describen cosas bellas no pueden emocionar tanto como la visión de esas cosas, ni tampoco pueden las palabras de un credo inspirar a las almas de los hombres como la experiencia de conocer la presencia de Dios. [LU 195:9.8](/es/The_Urantia_Book/195#p9_8)
+¡Qué despertar experimentaría el mundo solo con que pudiera ver a Jesús tal como vivió realmente en la tierra y conocer de primera mano sus enseñanzas dadoras de vida! Las palabras que describen cosas bellas no pueden emocionar tanto como la visión de esas cosas, ni tampoco pueden las palabras de un credo inspirar a las almas de los hombres como la experiencia de conocer la presencia de Dios. <a id="a142_396"></a>[LU 195:9.8](/es/The_Urantia_Book/195#p9_8)
 
 Así que ahí radica el verdadero conflicto, el motivo de nuestra esperanza: en la capacidad de soñar un mundo en el que el amor vaya instaurándose, en el que la esperanza se vuelva real y en decidir pasar de soñar a aterrizar ese sueño. En la determinación de vivir, como Anne y Etty, para otros y para la esperanza. En la disposición de elegir un camino sorprendente, para algunos incomprensible (como le ocurrió a Judas) y para otros admirable: el camino del amor incondicional, el camino del Maestro, el camino de la auténtica felicidad. Ese es nuestro reto: convertirnos también en maestros de la felicidad.
 
@@ -127,3 +151,28 @@ Así que ahí radica el verdadero conflicto, el motivo de nuestra esperanza: en 
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Mayo 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Luz y Vida — Mayo 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -209,7 +230,7 @@ Estarán de acuerdo conmigo de que es muy difícil elegir un párrafo. Hay tanto
 
 No obstante, les traigo el siguiente párrafo:
 
-Las transcripciones de la mente mortal y las configuraciones activas de la memoria de la criatura, tal como han sido transformadas desde los niveles materiales a los niveles espirituales, son propiedad individual de los Ajustadores del Pensamiento separados; estos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de esos Ajustadores. La matriz mental de la criatura y los potenciales pasivos de su identidad están presentes en el alma morontial confiada al cuidado de los guardianes seráficos del destino. La reunión del alma morontial confiada a los serafines y de la mente espiritual confiada al Ajustador es lo que reensambla la personalidad de la criatura y constituye la resurrección de un superviviente dormido. [LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
+Las transcripciones de la mente mortal y las configuraciones activas de la memoria de la criatura, tal como han sido transformadas desde los niveles materiales a los niveles espirituales, son propiedad individual de los Ajustadores del Pensamiento separados; estos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de esos Ajustadores. La matriz mental de la criatura y los potenciales pasivos de su identidad están presentes en el alma morontial confiada al cuidado de los guardianes seráficos del destino. La reunión del alma morontial confiada a los serafines y de la mente espiritual confiada al Ajustador es lo que reensambla la personalidad de la criatura y constituye la resurrección de un superviviente dormido. <a id="a232_779"></a>[LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
 
 <br style="clear:both;"/>
 
@@ -381,3 +402,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2024/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Luz y Vida — Mayo 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

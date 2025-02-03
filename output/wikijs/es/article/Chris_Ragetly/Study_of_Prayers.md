@@ -77,7 +77,7 @@ En (9), “_...la verdad eterna_” Que la verdad eterna sea revelada, admitida,
 > _(8) Sois patient avec nous, De même que nous témoignons une bienveillance affectueuse à notre prochain._
 > _(9) (10)Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,_
 > _(11) Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles._
-> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ [LU 144:5.12-24](/es/The_Urantia_Book/144#p5_12)
+> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ <a id="a79_70"></a>[LU 144:5.12-24](/es/The_Urantia_Book/144#p5_12)
 
 En (1), hay primero una indicación bastante inusual de filiación en “Padre Creador”, luego una sugerencia de la posición del Padre en el centro de todas las cosas, esto sin duda denota un conocimiento de la “geografía” física y mental. aspecto espiritual del universo.
 

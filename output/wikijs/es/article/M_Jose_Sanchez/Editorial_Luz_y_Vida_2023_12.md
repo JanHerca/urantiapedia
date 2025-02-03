@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Ser uno mismo
 
@@ -60,7 +84,7 @@ Comencemos pues…
 
 Todo parecía muy bonito en lo que respecta al nacimiento de Jesús, poblado de serafines que cantaban himnos, anunciaciones a mujeres sorprendidas o pintorescos sabios sacerdotes de Ur. El nacimiento del héroe, sin embargo, va siempre acompañado de peligros y amenazas de muerte. No puede ser de otro modo: no hay esperanza que se abra sin que antes o después sea amenazada, puesto que siempre hay quien duda, quien no quiere. Siempre hay alguien que lucha para que todo quede como está. Que no haya cambios.
 
-> Pero incluso entre los miembros de la corte de Herodes había creyentes en el Mesías venidero. Uno de ellos, al enterarse de la orden de asesinar a los niños de Belén, informó a Zacarías que a su vez envió un mensajero a José, y la noche anterior a la matanza José y María salieron de Belén con el bebé hacia Egipto, camino de Alejandría. Se fueron solos con Jesús para no atraer la atención. Zacarías les proporcionó el dinero para el viaje a Alejandría, donde José trabajó en su oficio y María y Jesús se alojaron con unos parientes adinerados de la familia de José. Allí vivieron dos años completos y no volvieron a Belén hasta después de la muerte de Herodes. [LU 122:10.4](/es/The_Urantia_Book/122#p10_4)
+> Pero incluso entre los miembros de la corte de Herodes había creyentes en el Mesías venidero. Uno de ellos, al enterarse de la orden de asesinar a los niños de Belén, informó a Zacarías que a su vez envió un mensajero a José, y la noche anterior a la matanza José y María salieron de Belén con el bebé hacia Egipto, camino de Alejandría. Se fueron solos con Jesús para no atraer la atención. Zacarías les proporcionó el dinero para el viaje a Alejandría, donde José trabajó en su oficio y María y Jesús se alojaron con unos parientes adinerados de la familia de José. Allí vivieron dos años completos y no volvieron a Belén hasta después de la muerte de Herodes. <a id="a86_665"></a>[LU 122:10.4](/es/The_Urantia_Book/122#p10_4)
 
 José se ve obligado a tomar a la madre y al hijo pequeño y a partir, salir de la propia tierra, escapar de lo consabido, desinstalarse y comenzar de nuevo. Pero no se trata de un punto y aparte (como si lo anterior no valiera para nada): es un punto y seguido, puesto que José debe llevarse consigo al niño y a la madre. Se lleva el pasado y el futuro, la tradición y la renovación, la fidelidad y la creatividad. Esos elementos se lleva José en la mochila y emprende el viaje a Egipto. Un gran bagaje para recomenzar, rumbo a lo desconocido.
 
@@ -82,7 +106,7 @@ Como ya dijimos más arriba, el nacimiento del héroe va siempre acompañado de 
 
 ¡Pues menuda tarea tenemos los seres humanos! Ser fieles, como Jesús, a nuestra propia voz interior, a nuestro niño interior, frente a un mundo que quiere que seamos homogéneos, materialistas, planos. ¡Hay tantos Herodes que ponen en peligro nuestra voz propia! ¡Hay tantos elementos en el mundo para distraernos y olvidar lo que somos realmente! ¡Hay tantas circunstancias que nos pueden hacer sentir que estamos solos en el universo y desvalidos!
 
-> Su fe \[la de Jesús\] no era inmadura ni crédula como la de un niño, pero en muchos aspectos se parecía a la confianza sin sospechas de la mente de un niño. Jesús confiaba en Dios como un niño confía en sus padres. Tenía una profunda confianza en el universo, la misma confianza que tiene un niño en su entorno parental. [LU 196:0.11](/es/The_Urantia_Book/196#p0_11)
+> Su fe \[la de Jesús\] no era inmadura ni crédula como la de un niño, pero en muchos aspectos se parecía a la confianza sin sospechas de la mente de un niño. Jesús confiaba en Dios como un niño confía en sus padres. Tenía una profunda confianza en el universo, la misma confianza que tiene un niño en su entorno parental. <a id="a108_323"></a>[LU 196:0.11](/es/The_Urantia_Book/196#p0_11)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Editorial-01-24-4.jpg" alt="Enero 24-4" width="350">
@@ -109,7 +133,7 @@ La fe en Dios de Jesús era sublime y sin reservas. Experimentó los altibajos c
 
 A por este reto, pues. A tratar de ser uno mismo, como hizo el propio Maestro hace siglos.
 
-La teología puede fijar, formular, definir y dogmatizar la fe, pero en la vida humana de Jesús la fe era personal, viva, original, espontánea y puramente espiritual. [LU 196:0.5](/es/The_Urantia_Book/196#p0_5)
+La teología puede fijar, formular, definir y dogmatizar la fe, pero en la vida humana de Jesús la fe era personal, viva, original, espontánea y puramente espiritual. <a id="a135_166"></a>[LU 196:0.5](/es/The_Urantia_Book/196#p0_5)
 
 Es un magnífico reto para este nuevo año, el 2024.
 
@@ -127,3 +151,28 @@ Es un magnífico reto para este nuevo año, el 2024.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/12/30/editorial-enero-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## David frente a Goliat
 
@@ -27,7 +51,7 @@ Como podéis comprobar, es un número muy interesante, variado y «nutritivo» p
 
 Comencemos juntos esta nueva singladura por _El libro de Urantia_ en este mes que comienza. Acompáñanos en este viaje por el libro y sus fascinantes matices. Únete a nuestras reflexiones y al intento por expandir la mente y, sobre todo, el corazón de los lectores de _El libro de Urantia_.
 
-> «Chang, ahora nos despedimos pero solo por un tiempo, porque nos volveremos a encontrar en los mundos de luz donde el Padre de las almas de espíritu ha provisto muchas deliciosas paradas para los que viajan rumbo al Paraíso». [LU 133:4.9](/es/The_Urantia_Book/133#p4_9)
+> «Chang, ahora nos despedimos pero solo por un tiempo, porque nos volveremos a encontrar en los mundos de luz donde el Padre de las almas de espíritu ha provisto muchas deliciosas paradas para los que viajan rumbo al Paraíso». <a id="a53_228"></a>[LU 133:4.9](/es/The_Urantia_Book/133#p4_9)
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-5.jpg" alt="Editorial nov-23-5" width="350">
@@ -36,11 +60,11 @@ Comencemos juntos esta nueva singladura por _El libro de Urantia_ en este mes qu
 Jesús tuvo muchas conversaciones con un mercader chino y se despidió así de él. Esta cita es un ejemplo desafiante para quienes solo conciben su Verdad como la única válida. ¿Un mercader chino, que no seguía las leyes de Moisés, se podía salvar igual que un judío? Pues así es, ya que Jesús le dice que se verán en los mundos mansión en un futuro. En el mismo Libro de Urantia se dedica todo un capítulo a diferentes religiones y filosofías anteriores al cristianismo, porque:
 <br style="clear:both;"/>
 
-> Las muchas religiones de Urantia son todas buenas en la medida en que llevan al hombre hacia Dios y traen al hombre la comprensión del Padre. Es una falacia que cualquier grupo de personas religiosas considere su credo como La Verdad; esta actitud refleja más arrogancia teológica que certidumbre en la fe… Más valdría que las personas religiosas tomaran prestado lo mejor de la fe espiritual viva de sus vecinos en vez de denunciar lo peor de sus supersticiones residuales y sus ritos desfasados. [LU 92:7.3](/es/The_Urantia_Book/92#p7_3)
+> Las muchas religiones de Urantia son todas buenas en la medida en que llevan al hombre hacia Dios y traen al hombre la comprensión del Padre. Es una falacia que cualquier grupo de personas religiosas considere su credo como La Verdad; esta actitud refleja más arrogancia teológica que certidumbre en la fe… Más valdría que las personas religiosas tomaran prestado lo mejor de la fe espiritual viva de sus vecinos en vez de denunciar lo peor de sus supersticiones residuales y sus ritos desfasados. <a id="a62_500"></a>[LU 92:7.3](/es/The_Urantia_Book/92#p7_3)
 
 Esta labor honesta de ver y valorar «lo mejor» de otras religiones o formas de pensar era lo que siempre realizaba Jesús con quienes se cruzaba. Una vez lo hacía, eso sí, enlazaba con su mensaje de salvación. Por ejemplo, veamos este sencillo y breve ejemplo:
 
-Al maestro epicúreo le dijo: «Haces bien en elegir lo mejor y apreciar lo bueno, pero ¿eres sabio cuando no eres capaz de percibir elementos superiores de la vida mortal que están encarnados en los ámbitos del espíritu derivados del reconocimiento de la presencia de Dios en el corazón humano? [LU 133:4.5](/es/The_Urantia_Book/133#p4_5)
+Al maestro epicúreo le dijo: «Haces bien en elegir lo mejor y apreciar lo bueno, pero ¿eres sabio cuando no eres capaz de percibir elementos superiores de la vida mortal que están encarnados en los ámbitos del espíritu derivados del reconocimiento de la presencia de Dios en el corazón humano? <a id="a66_294"></a>[LU 133:4.5](/es/The_Urantia_Book/133#p4_5)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-4.jpg" alt="Editorial nov-23-4" width="350">
@@ -125,7 +149,7 @@ Perseveremos, pues esa confianza y compromiso la podemos asumir cada día en nue
 
 Sigamos el ejemplo del Maestro que, según escribió poéticamente san Juan de la Cruz hace unos siglos, «mil gracias derramando, pasó por estos sotos con soltura». «Mil gracias» derramó en un pequeño territorio del planeta marcado por las guerras, «mil gracias» podemos seguir derramando sus seguidores, a pesar de todo.
 
-El poder de este reino no consistirá ni en la fuerza de los ejércitos ni en el poderío de las riquezas, sino más bien en la gloria del espíritu divino que vendrá a instruir las mentes y gobernar los corazones de los ciudadanos renacidos de este reino celestial, los hijos de Dios. Esta es la hermandad del amor donde reina la rectitud y cuyo grito de guerra será: Paz en la tierra y buena voluntad entre todos los hombres. [LU 140:1.3](/es/The_Urantia_Book/140#p1_3)
+El poder de este reino no consistirá ni en la fuerza de los ejércitos ni en el poderío de las riquezas, sino más bien en la gloria del espíritu divino que vendrá a instruir las mentes y gobernar los corazones de los ciudadanos renacidos de este reino celestial, los hijos de Dios. Esta es la hermandad del amor donde reina la rectitud y cuyo grito de guerra será: Paz en la tierra y buena voluntad entre todos los hombres. <a id="a151_423"></a>[LU 140:1.3](/es/The_Urantia_Book/140#p1_3)
 
 Confiemos pues en el cambio de nuestro planeta, en el poder transformador de los pequeños David. Confiemos en nosotros.
 
@@ -134,3 +158,28 @@ Confiemos pues en el cambio de nuestro planeta, en el poder transformador de los
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/10/30/editorial-noviembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Noviembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-noviembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Noviembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

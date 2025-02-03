@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La inmensa utilidad de lo inútil
 
@@ -29,7 +53,7 @@ Todo puede comprarse, es cierto. Desde los parlamentarios hasta los juicios, des
 _El libro de Urantia_ nos insta en repetidas ocasiones justamente a aprender, ampliar nuestros conocimientos, errar y explorar este fascinante universo en el que hemos nacido, pues ese bagaje aprendido será nuestro para siempre. Un bagaje intangible pero imperecedero de nuestra alma.
 <br style="clear:both;"/>
 
-> La curiosidad, el espíritu de investigación, el instinto de descubrimiento, el impulso a la exploración, es parte de la dote innata y divina de las criaturas evolutivas del espacio. [LU 14:5.11](/es/The_Urantia_Book/14#p5_11)
+> La curiosidad, el espíritu de investigación, el instinto de descubrimiento, el impulso a la exploración, es parte de la dote innata y divina de las criaturas evolutivas del espacio. <a id="a55_184"></a>[LU 14:5.11](/es/The_Urantia_Book/14#p5_11)
 
 Pero hay algo más. Solo el saber puede desafiar una vez más las leyes materiales del mercado. Podemos poner en común con los otros nuestros conocimientos sin empobrecernos. Puedo enseñar a un alumno la teoría de la relatividad o puedo mostrar a un amigo un poema, y eso enriquece al mismo tiempo al que da y al que recibe.
 
@@ -43,11 +67,11 @@ El libro azul nos muestra que todo está cuidadosamente planificado para que bus
 
 1. ¿Es el valor —la fuerza de carácter— deseable? Entonces el hombre debe criarse en un ambiente en el que sea necesario bregar con las dificultades y reaccionar ante las desilusiones.
 2. ¿Es el altruismo —el servicio a los semejantes deseable? Entonces la experiencia de la vida debe asegurar que se encuentren situaciones de desigualdad social.
-3. ¿Es la esperanza —la grandeza de la confianza— deseable? Entonces la existencia humana debe afrontar constantemente inseguridades e incertidumbres recurrentes. [LU 3:5.6-8](/es/The_Urantia_Book/3#p5_6)
+3. ¿Es la esperanza —la grandeza de la confianza— deseable? Entonces la existencia humana debe afrontar constantemente inseguridades e incertidumbres recurrentes. <a id="a69_163"></a>[LU 3:5.6-8](/es/The_Urantia_Book/3#p5_6)
 
 Nosotros, seres del tiempo y el espacio, seres limitados, falibles e imperfectos, aprenderemos y creceremos con pruebas y dificultades constantes, con el fin de forjar aprendizajes duraderos (a diferencia de otros seres ya creados perfectos):
 
-Todo lo divino que la mente humana capta y que el alma humana adquiere es un logro experiencial, una realidad de la experiencia personal, y es por lo tanto una posesión única en contraste con la bondad y la rectitud inherentes a las personalidades sin error de Havona. [LU 3:5.16](/es/The_Urantia_Book/3#p5_16)
+Todo lo divino que la mente humana capta y que el alma humana adquiere es un logro experiencial, una realidad de la experiencia personal, y es por lo tanto una posesión única en contraste con la bondad y la rectitud inherentes a las personalidades sin error de Havona. <a id="a73_269"></a>[LU 3:5.16](/es/The_Urantia_Book/3#p5_16)
 <br style="clear:both;"/>
 
 Todo forma parte de un plan muy sabio que busca elevarnos sobre lo animal.
@@ -59,13 +83,13 @@ Todo forma parte de un plan muy sabio que busca elevarnos sobre lo animal.
 El escritor Kakuzo Okakura, en su libro _El libro del té_, reconoce en el placer de un hombre cogiendo una flor para regalarla a su amada, el momento preciso en el que la especie humana se eleva por encima de los animales, de lo instintivo, se adentra al reino de la belleza y asciende su mente al espacio de lo divino.
 <br style="clear:both;"/>
 
-> Incluso ahora, deberíais aprender a regar el jardín de vuestro corazón y a buscar también en las arenas secas del conocimiento. [LU 48:6.32](/es/The_Urantia_Book/48#p6_32)
+> Incluso ahora, deberíais aprender a regar el jardín de vuestro corazón y a buscar también en las arenas secas del conocimiento. <a id="a85_130"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)
 
 Rilke decía en un pasaje de las _Cartas a un joven poeta_:
 
 > «Ser artista quiere decir no calcular ni contar: madurar como el árbol, que no apremia a su savia, y se yergue confiado en las tormentas de primavera, sin miedo a que detrás no pudiera venir el verano.»
 > 
-> La lógica de la precipitación, de lo útil, no es realmente lo más interesante de la vida, lo que la puede llenar de contenido, de belleza, de sentido. Tenemos necesidad de lo inútil como tenemos necesidad, para vivir, de las funciones vitales de respirar o comer. Las aspiraciones de mayores dosis de verdad, belleza y bondad nos son consustanciales y necesarias en nuestras vidas, nos posibilitan nuestra plena realización y acercamiento a la divinidad:Y todo hombre o ángel conocedor de Dios posee el potencial de autoexpresión ilimitada en niveles siempre progresivos de autorrealización unificada conforme va avanzando en el logro inacabable de la semejanza con Dios: la mezcla experiencial en la experiencia evolutiva de la verdad eterna, la belleza universal y la bondad divina. [LU 44:7.4](/es/The_Urantia_Book/44#p7_4)
+> La lógica de la precipitación, de lo útil, no es realmente lo más interesante de la vida, lo que la puede llenar de contenido, de belleza, de sentido. Tenemos necesidad de lo inútil como tenemos necesidad, para vivir, de las funciones vitales de respirar o comer. Las aspiraciones de mayores dosis de verdad, belleza y bondad nos son consustanciales y necesarias en nuestras vidas, nos posibilitan nuestra plena realización y acercamiento a la divinidad:Y todo hombre o ángel conocedor de Dios posee el potencial de autoexpresión ilimitada en niveles siempre progresivos de autorrealización unificada conforme va avanzando en el logro inacabable de la semejanza con Dios: la mezcla experiencial en la experiencia evolutiva de la verdad eterna, la belleza universal y la bondad divina. <a id="a91_787"></a>[LU 44:7.4](/es/The_Urantia_Book/44#p7_4)
 
 Ionesco decía: «La poesía, la necesidad de imaginar, de crear es tan fundamental como lo es respirar».
 
@@ -106,3 +130,28 @@ Disfrutemos pues de la lectura sosegada de nuestro querido libro, de su estudio.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/02/28/editorial-marzo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Marzo 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

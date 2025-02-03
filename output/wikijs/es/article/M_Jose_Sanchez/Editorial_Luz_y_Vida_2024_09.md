@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Navegando por la vida: La serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-1.jpg" alt="Editorial oct 24 -1" width="350">
@@ -39,7 +63,7 @@ Dice un relato que le preguntaron al Maestro: «¿Qué es la espiritualidad?».
 
 _El libro de Urantia_ exalta, precisamente, esta transformación interior desde el principio mismo del libro:
 
-> En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. [LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
+> En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. <a id="a65_408"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-2.jpg" alt="Editorial oct 24 -2" width="350">
@@ -52,7 +76,7 @@ Esta manera tan llamativa de revelar la Deidad sus proyectos, no utilizando a pe
 El mismo libro nos resalta este deseo divino de comunicación, este esfuerzo de ser revelado con multitud de recursos:
 <br style="clear:both;"/>
 
-> Nuestro Padre no se esconde, no se recluye arbitrariamente. Ha movilizado los recursos de la sabiduría divina en un esfuerzo sin fin para revelarse a los hijos de sus dominios universales. Hay una grandeza infinita y una generosidad inexpresable vinculadas a la majestad de su amor que hacen que anhele relacionarse con cada ser creado que pueda comprenderlo, amarlo o acercarse a él. [LU 5:1.2](/es/The_Urantia_Book/5#p1_2)
+> Nuestro Padre no se esconde, no se recluye arbitrariamente. Ha movilizado los recursos de la sabiduría divina en un esfuerzo sin fin para revelarse a los hijos de sus dominios universales. Hay una grandeza infinita y una generosidad inexpresable vinculadas a la majestad de su amor que hacen que anhele relacionarse con cada ser creado que pueda comprenderlo, amarlo o acercarse a él. <a id="a78_387"></a>[LU 5:1.2](/es/The_Urantia_Book/5#p1_2)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-3.jpg" alt="Editorial oct 24 -3" width="350">
@@ -65,7 +89,7 @@ El mismo libro nos resalta este deseo divino de comunicación, este esfuerzo de 
 Los reveladores saben que esta comunicación tan inusual va a ser posible no solo por el material del libro, sino también por la presencia interna de una chispa divina. Ahí está la clave de la comprensión del texto:
 <br style="clear:both;"/>
 
-> Aunque para acercaros a la presencia paradisíaca del Padre tengáis que esperar a alcanzar los niveles finitos más altos de progresión espiritual, deberíais regocijaros al reconocer la posibilidad siempre presente de comunión inmediata con el espíritu otorgado del Padre que tan íntimamente se asocia con vuestra alma interior y con vuestro yo en espiritualización. [LU 5:1.3](/es/The_Urantia_Book/5#p1_3)
+> Aunque para acercaros a la presencia paradisíaca del Padre tengáis que esperar a alcanzar los niveles finitos más altos de progresión espiritual, deberíais regocijaros al reconocer la posibilidad siempre presente de comunión inmediata con el espíritu otorgado del Padre que tan íntimamente se asocia con vuestra alma interior y con vuestro yo en espiritualización. <a id="a91_367"></a>[LU 5:1.3](/es/The_Urantia_Book/5#p1_3)
 
 El texto publicado hace ya 69 años es una puerta que, una vez abierta, nos damos cuenta de que es un instrumento que nos lleva a descubrir que lo más importante de todo es el AMOR. Un elemento simple, el libro. Una lección extraordinaria dentro, el encuentro personal con el Dios amoroso de Jesús de Nazaret.
 
@@ -104,3 +128,28 @@ Cuando el maestro de Zen alcanzó la iluminación, escribió lo siguiente para c
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/09/26/editorial-octubre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Navegando por la vida: La serenidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

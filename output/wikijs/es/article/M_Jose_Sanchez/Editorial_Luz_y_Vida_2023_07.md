@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Cuestionario Urantiano: Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Escuchar
 
@@ -36,9 +60,9 @@ En _El libro de Urantia_ leemos sobre Jesús de Nazaret este proceder insólito:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-Para entonces Ganid había empezado a darse cuenta de que su tutor empleaba su tiempo libre en este insólito ministerio personal a sus semejantes, y quiso averiguar el motivo de esta permanente actividad. Preguntó: «¿Por qué te dedicas todo el tiempo a hablar con extraños?». Jesús respondió: «Ganid, para alguien que conoce a Dios ningún hombre es un extraño. En la experiencia de encontrar al Padre del cielo descubres que todos los hombres son tus hermanos, y ¿qué tiene de raro regocijarse con la compañía de un hermano recién descubierto? Tratar a nuestros hermanos y hermanas, conocer sus problemas y aprender a amarlos es la experiencia suprema del vivir». [LU 130:2.6](/es/The_Urantia_Book/130#p2_6)
+Para entonces Ganid había empezado a darse cuenta de que su tutor empleaba su tiempo libre en este insólito ministerio personal a sus semejantes, y quiso averiguar el motivo de esta permanente actividad. Preguntó: «¿Por qué te dedicas todo el tiempo a hablar con extraños?». Jesús respondió: «Ganid, para alguien que conoce a Dios ningún hombre es un extraño. En la experiencia de encontrar al Padre del cielo descubres que todos los hombres son tus hermanos, y ¿qué tiene de raro regocijarse con la compañía de un hermano recién descubierto? Tratar a nuestros hermanos y hermanas, conocer sus problemas y aprender a amarlos es la experiencia suprema del vivir». <a id="a62_663"></a>[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)
 
-Esta estrecha vinculación con sus semejantes, jóvenes y viejos, judíos y gentiles, fue la que le brindó la oportunidad de conocer a la raza humana. Jesús estaba muy bien educado en el sentido de que entendía a fondo a los hombres y los amaba entrañablemente. [LU 123:5.8](/es/The_Urantia_Book/123#p5_8)
+Esta estrecha vinculación con sus semejantes, jóvenes y viejos, judíos y gentiles, fue la que le brindó la oportunidad de conocer a la raza humana. Jesús estaba muy bien educado en el sentido de que entendía a fondo a los hombres y los amaba entrañablemente. <a id="a64_259"></a>[LU 123:5.8](/es/The_Urantia_Book/123#p5_8)
 
 Vemos cómo todo un Dios creador viene a la Tierra y no se muestra avasallador en su poder supremo, sino cercano y amable, amistoso y comprensivo ante nuestros problemas y vivencias. «Entendía a fondo a los hombres y los amaba entrañablemente». Hablaba y escuchaba a toda clase de personas: caravaneros, prostitutas, un emperador, pescadores o niños pequeños. Todos los seres humanos le interesaban.
 
@@ -53,13 +77,13 @@ Pablo d’Ors analiza estas cinco convicciones respecto a la escucha:
 
  No podemos escuchar a los demás si no nos escuchamos a nosotros mismos. Si me siento en silencio y quietud, esto nos transforma. Sí, algo tan sencillo. Nuestra sociedad se caracteriza ahora por una mayor conexión con el exterior (móviles, Internet), pero menos conexión con el interior. Vivimos en el envoltorio y no nos conocemos, ignoramos el tesoro que anida en nosotros. Si me conozco me puedo amar, porque si no me amo como hijo o hija de Dios no amo a los demás (no puedo dar lo que no tengo). Si no me amo, no nos enteramos de qué va la vida. Precisamente la vida va de amar, y si no estamos en la vida no vislumbramos ese misterio que es Dios. Solo vemos unos dogmas, rituales, creencias que están allá fuera de nosotros. No escuchamos al Dios vivo, no vemos esa fuente interior que Jesús nos exhortaba constantemente que buscáramos.
 
-Jesús exhortó a sus seguidores a ejercitar una fe experiencial. Les advirtió que no dependieran del mero asentimiento intelectual, de la credulidad ni de la autoridad establecida. [LU 140:4.9](/es/The_Urantia_Book/140#p4_9)
+Jesús exhortó a sus seguidores a ejercitar una fe experiencial. Les advirtió que no dependieran del mero asentimiento intelectual, de la credulidad ni de la autoridad establecida. <a id="a79_180"></a>[LU 140:4.9](/es/The_Urantia_Book/140#p4_9)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-3.jpg" alt="Editorial jul23-3" width="350">
 </figure>
 
-… yo os declaro que mi Padre que está en el Paraíso gobierna de hecho un universo de universos mediante el poder persuasivo de su amor. El amor es la más grande de todas las realidades del espíritu. La verdad es una revelación liberadora, pero el amor es la relación suprema. [LU 143:1.4](/es/The_Urantia_Book/143#p1_4)
+… yo os declaro que mi Padre que está en el Paraíso gobierna de hecho un universo de universos mediante el poder persuasivo de su amor. El amor es la más grande de todas las realidades del espíritu. La verdad es una revelación liberadora, pero el amor es la relación suprema. <a id="a85_276"></a>[LU 143:1.4](/es/The_Urantia_Book/143#p1_4)
 
 **2\. Rectitud de intención**
 
@@ -67,7 +91,7 @@ Si tienes que escuchar, escucha gratuitamente, sin pretensión personal. ¿Escuc
 
 Solemos escuchar por el proselitismo de convertir al otro, de traerlo al propio terreno. Sin embargo, si dejo libre al otro, ahí puede haber escucha gratuita, puedo escuchar su núcleo y no su superficie. Jesús, profundo conocedor de las personas, observa al ser humano y ve su súplica de ayuda, incluso aunque no la sepa expresar, pues él sí es capaz de escucharla, sin buscar nada para sí:
 
-«Pero… si no te he pedido nada». Jesús le contestó poniéndole suavemente la mano en el hombro: «No, hijo, no con palabras, pero apelaste a mi corazón con tu mirada anhelante. Muchacho, para alguien que ama a sus semejantes, tu actitud de desesperanza y desaliento es una clara petición de ayuda». [LU 130:6.2](/es/The_Urantia_Book/130#p6_2)
+«Pero… si no te he pedido nada». Jesús le contestó poniéndole suavemente la mano en el hombro: «No, hijo, no con palabras, pero apelaste a mi corazón con tu mirada anhelante. Muchacho, para alguien que ama a sus semejantes, tu actitud de desesperanza y desaliento es una clara petición de ayuda». <a id="a93_297"></a>[LU 130:6.2](/es/The_Urantia_Book/130#p6_2)
 <br style="clear:both;"/>
 
 **3\. El mejor servicio es ayudar al otro a creer en sí mismo**
@@ -111,11 +135,11 @@ Un diálogo es espiritual si va al centro, a lo esencial. Si no, NO lo es. Con f
 
 Lo mejor de todo lo dicho anteriormente son los silencios entre palabras, o en nuestro caso, los espacios en blanco en el papel o en la pantalla, pues vosotros, lectores, podéis acoger lo dicho. Aquí no se trata de ser como el telediario que bombardea sin pausa. Si alguien habla de corazón habla despacio, con lentitud, y ahí hay consciencia, hay un acto humano. Está la alegría de un momento nuevo. En el diálogo con otros seres humanos se crean frases a cada momento. No se copia, se recrea con los detalles y cada instante es nuevo, diferente. Vivir despacio es clave, pues nos sana. Si hiciéramos una actividad al día despacio (lavar los dientes despacio, lavar platos despacio, hablar despacio, etc.) descubriríamos un mundo nuevo, algo sanador en esa quietud, en ese silencio.
 
-Jesús era particularmente reacio a orar en público; los doce le habían oído orar muy pocas veces hasta ese momento. Observaban que pasaba noches enteras orando o adorando y tenían mucha curiosidad por conocer su método o su forma de orar… [LU 144:3.13](/es/The_Urantia_Book/144#p3_13)
+Jesús era particularmente reacio a orar en público; los doce le habían oído orar muy pocas veces hasta ese momento. Observaban que pasaba noches enteras orando o adorando y tenían mucha curiosidad por conocer su método o su forma de orar… <a id="a137_239"></a>[LU 144:3.13](/es/The_Urantia_Book/144#p3_13)
 
 _El libro de Urantia_ nos habla de buscar el silencio y la soledad, y en ese silencio y soledad es posible abrir nuestra vasija o mente para recibir los regalos divinos.
 
-La oración no mueve al corazón divino a otorgarse generosamente, pero cava muchas veces canales más amplios y más profundos por los que los otorgamientos divinos pueden fluir hasta el corazón y el alma de los que se acuerdan de mantener una comunión ininterrumpida con su Hacedor mediante la oración sincera y la verdadera adoración. [LU 194:3.20](/es/The_Urantia_Book/194#p3_20)
+La oración no mueve al corazón divino a otorgarse generosamente, pero cava muchas veces canales más amplios y más profundos por los que los otorgamientos divinos pueden fluir hasta el corazón y el alma de los que se acuerdan de mantener una comunión ininterrumpida con su Hacedor mediante la oración sincera y la verdadera adoración. <a id="a141_334"></a>[LU 194:3.20](/es/The_Urantia_Book/194#p3_20)
 
 Estas cinco condiciones posibilitan un diálogo de verdad. No es intercambio de opiniones sino diálogo, es caminar juntos hacia la verdad. No es decir lo mío y tú lo tuyo, sino que nace algo nuevo y es la vida lo que surge: la verdad. Cuando dos personas dialogan y se escuchan de verdad no hay exclusión que dinamite la verdad. Llegamos a una verdad viva.
 <br style="clear:both;"/>
@@ -154,3 +178,28 @@ Así de importante puede ser la escucha de uno mismo.
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/06/30/editorial-julio-2023)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Cuestionario Urantiano: Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

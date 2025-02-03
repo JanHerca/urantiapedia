@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Safed es una de las poblaciones mencionadas en _El Libro de Urantia_ ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3)) que visitaron los apóstoles durante su período de prueba antes de las predicaciones oficiales. De aquí era Santiago, un ciudadano de Tiberíades que es conocido por ser el padre de un niño epiléptico a quien Jesús curó.
+Safed es una de las poblaciones mencionadas en _El Libro de Urantia_ (<a id="a28_70"></a>[LU 138:9.3](/es/The_Urantia_Book/138#p9_3)) que visitaron los apóstoles durante su período de prueba antes de las predicaciones oficiales. De aquí era Santiago, un ciudadano de Tiberíades que es conocido por ser el padre de un niño epiléptico a quien Jesús curó.
 
 En el mapa de Google maps se dispone de una buena ortofoto. Tenemos información sobre la ciudad actual en [Wikipedia](http://es.wikipedia.org/wiki/Safed) pero sin nada sobre la ciudad antigua. Fue famosa por ser una zona muy saludable, con veranos agradables e inviernos rígidos. Estaba a una altitud de 900 metros, y tenía altas precipitaciones.
 

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Luis-Alfonso-Rojas.jpg" alt="Luis Alfonso Rojas" width="350">
@@ -33,9 +54,9 @@ Fue un proceso gradual. Desde la lectura del Prólogo sentí que mi curiosidad s
 
 ## 4. ¿En qué forma _El libro de Urantia_ ha cambiado tu vida? 
 
-Ha sido un cambio progresivo, en el que he ido lentamente del conocimiento y la razón intelectual a la experiencia personal en la vida interior.  Destaco algunos aspectos. El descubrimiento de que el mandato: «Sed perfectos como yo soy perfecto» es la razón del plan divino ([LU 1:0.3](/es/The_Urantia_Book/1#p0_3)); que Dios es amor; que la sintonización con el Ajustador del Pensamiento es la gran meta de la existencia humana ([LU 110:3.4](/es/The_Urantia_Book/110#p3_4)); que Dios es la experiencia más grande de la existencia humana y que la búsqueda de Dios es el otorgamiento ilimitado y sin fin de amor ([LU 117:6.9](/es/The_Urantia_Book/117#p6_9)), le han dado propósito, sentido y plenitud a mi vida.
+Ha sido un cambio progresivo, en el que he ido lentamente del conocimiento y la razón intelectual a la experiencia personal en la vida interior.  Destaco algunos aspectos. El descubrimiento de que el mandato: «Sed perfectos como yo soy perfecto» es la razón del plan divino (<a id="a56_275"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)); que Dios es amor; que la sintonización con el Ajustador del Pensamiento es la gran meta de la existencia humana (<a id="a56_430"></a>[LU 110:3.4](/es/The_Urantia_Book/110#p3_4)); que Dios es la experiencia más grande de la existencia humana y que la búsqueda de Dios es el otorgamiento ilimitado y sin fin de amor (<a id="a56_612"></a>[LU 117:6.9](/es/The_Urantia_Book/117#p6_9)), le han dado propósito, sentido y plenitud a mi vida.
 
-El libro me ha aportado técnicas y herramientas para el crecimiento desde la vida interior. Descubrir que la imperfección hace parte del plan divino, que la divinidad se manifiesta imperfecta a través de la imperfección humana, me ha ayudado a elevar el valor de nuestra naturaleza humana. Comprender que las incertidumbres y vicisitudes inevitables (Doc. 3:5) son la mejor escuela de la vida me ha motivado a vivir con mayor entusiasmo cada experiencia diaria. Las afirmaciones filosóficas con las que inicia el desarrollo de la mota de morontia (Doc. 48.7), me han inspirado a conocer mejor quiénes somos y nuevos significados de la vida humana. Las técnicas para preparar el terreno esencial para el desarrollo ([LU 100:1.5](/es/The_Urantia_Book/100#p1_5)) y los hábitos religiosos ([LU 100:1.7](/es/The_Urantia_Book/100#p1_7)) me están facilitando la disposición para el crecimiento espiritual.
+El libro me ha aportado técnicas y herramientas para el crecimiento desde la vida interior. Descubrir que la imperfección hace parte del plan divino, que la divinidad se manifiesta imperfecta a través de la imperfección humana, me ha ayudado a elevar el valor de nuestra naturaleza humana. Comprender que las incertidumbres y vicisitudes inevitables (Doc. 3:5) son la mejor escuela de la vida me ha motivado a vivir con mayor entusiasmo cada experiencia diaria. Las afirmaciones filosóficas con las que inicia el desarrollo de la mota de morontia (Doc. 48.7), me han inspirado a conocer mejor quiénes somos y nuevos significados de la vida humana. Las técnicas para preparar el terreno esencial para el desarrollo (<a id="a58_715"></a>[LU 100:1.5](/es/The_Urantia_Book/100#p1_5)) y los hábitos religiosos (<a id="a58_786"></a>[LU 100:1.7](/es/The_Urantia_Book/100#p1_7)) me están facilitando la disposición para el crecimiento espiritual.
 
 El conocimiento de la vida de Jesús me ha permitido conocer la revelación del Padre al hombre y empezar a experimentar la comprensión de la autorrealización, a través de la oración, la adoración y el amor al prójimo.
 
@@ -80,3 +101,25 @@ Quiero destacar la coherencia de _El libro de Urantia_. A pesar de que muchos as
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/04/29/proyecto-de-comision-para-estudios-monograficos/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-mayo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mayo 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

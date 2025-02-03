@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — Abril 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -78,7 +99,7 @@ En esta presentación, que se ofreció en uno de los encuentros de lectores espa
 
 [**El trabajo en equipo (Chris Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
 
-Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». <a id="a101_761"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>
 
 ---
@@ -161,7 +182,7 @@ Un hombre del pueblo Neguá, en la costa de Colombia, pudo subir al alto cielo. 
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Mi-parrafo-favorito-Charles-Perrotta.jpg" alt="Mi párrafo favorito-Charles Perrotta" width="250">
 </figure>
 
-Al entrar en Sidón, Jesús y sus asociados pasaron por un puente, el primero que muchos de ellos habían visto nunca. Mientras caminaban por él, entre otras cosas, Jesús dijo: «Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él.» [LU 156:2.1](/es/The_Urantia_Book/156#p2_1)
+Al entrar en Sidón, Jesús y sus asociados pasaron por un puente, el primero que muchos de ellos habían visto nunca. Mientras caminaban por él, entre otras cosas, Jesús dijo: «Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él.» <a id="a184_295"></a>[LU 156:2.1](/es/The_Urantia_Book/156#p2_1)
 
 Tan simple y tan difícil… Pero es la concreción de la fe, ese no instalarse en este mundo ni en sus valores materiales; e incluyo en estos últimos también valores emocionales. Tanto lo ganado como lo perdido no deberían ser más que aceptados como resultado del normal desarrollo de los acontecimientos. Y sin embargo el creyente, en su animalesca pero inocente búsqueda, encuentra o cree encontrar respuestas, o vistazos de lo que vendrá. Si logro tener un pie en este mundo pero mis ojos en el siguiente, no solo cumplo con el consejo de Jesús y acreciento mi fe, sino que también aligero las cargas de este mundo, haciendo, principalmente las pérdidas, muchísimo más entendibles y llevaderas, con sus consecuentes lecciones espirituales.
 <br style="clear:both;"/>
@@ -279,3 +300,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2024/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — Abril 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

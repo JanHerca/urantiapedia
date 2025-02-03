@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2025 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## AÑO NUEVO
 
@@ -22,7 +46,7 @@ Quienes leemos y queremos poner en práctica _El libro de Urantia_ sabemos que 
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
 </figure>
 
-La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado sabio y compasivo del Padre divino. Jesús tuvo dificultades en la tierra, ha sido incluso llamado impropiamente «varón de dolores», pero en todas esas experiencias tuvo el consuelo de una confianza que siempre le dio fuerzas para seguir adelante con el propósito de su vida en la plena seguridad de que estaba cumpliendo la voluntad del Padre. [LU 181:1.8](/es/The_Urantia_Book/181#p1_8)
+La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado sabio y compasivo del Padre divino. Jesús tuvo dificultades en la tierra, ha sido incluso llamado impropiamente «varón de dolores», pero en todas esas experiencias tuvo el consuelo de una confianza que siempre le dio fuerzas para seguir adelante con el propósito de su vida en la plena seguridad de que estaba cumpliendo la voluntad del Padre. <a id="a48_422"></a>[LU 181:1.8](/es/The_Urantia_Book/181#p1_8)
 
 Esta experiencia terrenal de nuestro amado Maestro, esa actitud con la que respiró y se movió, nos invita a llegar a un equilibrio maravilloso en nuestras vidas: ni llegar a ser unos estoicos insensibles y endurecidos por el dolor, ni tampoco unos optimistas ilusos y ciegos.
 
@@ -64,7 +88,7 @@ El Maestro ha ascendido a lo alto como hombre igual que como Dios; pertenece a l
 
 Podemos seguir al Maestro, ahora, en el siglo XXI. Cada cual en su vida concreta.
 
-«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro consagrada al servicio desinteresado de los hombres. [LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
+«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro consagrada al servicio desinteresado de los hombres. <a id="a90_167"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -161,3 +185,28 @@ Este es nuestro regalo.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/12/30/editorial-enero-2025/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Enero 2025 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

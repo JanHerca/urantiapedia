@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ramiro_Cuestas">
+          <span class="pr-2">Cuestionario Urantiano: Ramiro Cuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Editorial-feb-24-2.jpg" alt="Editorial feb 24-2" width="350">
@@ -18,7 +42,7 @@ En encuentros y foros «urantianos» es frecuente que los lectores hablemos de c
 
 En este grupo tan heterogéneo de lectores de todo el mundo y que podríamos etiquetar como «buscadores espirituales», existe un ansia de descubrir la realidad última y lograr alcanzar ese extraordinario mandato que resuena en los universos:
 
-«Sed perfectos como yo soy perfecto.» [LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
+«Sed perfectos como yo soy perfecto.» <a id="a44_38"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
 
 No todos respondemos de la misma manera a esta llamada que nos hace desde el interior nuestro Ajustador divino. En consonancia con ello, no todos interpretamos y leemos _El libro de Urantia_ de la misma forma.
 
@@ -121,3 +145,28 @@ _Esta sí que es una buena noticia: un Señor generoso y un discípulo que le si
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Ramiro_Cuestas">
+          <span class="pr-2">Cuestionario Urantiano: Ramiro Cuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Diego Betancourt<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otros libros de crecimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Cuestionario Urantiano: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Mi-parrafo-favorito-vida-de-familia.jpg" alt="Mi párrafo favorito - sep 2024" width="350">
@@ -29,7 +53,7 @@ Cuando leo las palabras de Jesús a Juan Marcos, mi corazón se estremece y sien
 Por lo anterior, mi párrafo favorito de _El libro de Urantia_ es:
 <br style="clear:both;"/>
 
-> Es nuestra creencia sincera que el evangelio contenido en las enseñanzas de Jesús, fundado como lo está en la relación padre-hijo, podrá difícilmente disfrutar de una aceptación mundial hasta el momento en que la vida hogareña de los pueblos modernos civilizados contenga más amor y más sabiduría. A pesar de que los padres del siglo veinte posean gran conocimiento y mayor verdad para mejorar el hogar y ennoblecer la vida hogareña, sigue siendo un hecho que muy pocos hogares modernos llegan a ser medios para la crianza de niños y niñas, tan buenos como lo fuera el hogar de Jesús en Galilea y el de Juan Marcos en Judea; sin embargo, la aceptación del evangelio de Jesús dará como resultado una mejora inmediata de la vida hogareña. La vida amorosa de un hogar sabio y la devoción leal de la verdadera religión ejercen una profunda influencia recíproca. Tal vida hogareña eleva la religión, y la religión genuina siempre glorifica el hogar. [LU 177:2.6](/es/The_Urantia_Book/177#p2_6)
+> Es nuestra creencia sincera que el evangelio contenido en las enseñanzas de Jesús, fundado como lo está en la relación padre-hijo, podrá difícilmente disfrutar de una aceptación mundial hasta el momento en que la vida hogareña de los pueblos modernos civilizados contenga más amor y más sabiduría. A pesar de que los padres del siglo veinte posean gran conocimiento y mayor verdad para mejorar el hogar y ennoblecer la vida hogareña, sigue siendo un hecho que muy pocos hogares modernos llegan a ser medios para la crianza de niños y niñas, tan buenos como lo fuera el hogar de Jesús en Galilea y el de Juan Marcos en Judea; sin embargo, la aceptación del evangelio de Jesús dará como resultado una mejora inmediata de la vida hogareña. La vida amorosa de un hogar sabio y la devoción leal de la verdadera religión ejercen una profunda influencia recíproca. Tal vida hogareña eleva la religión, y la religión genuina siempre glorifica el hogar. <a id="a55_947"></a>[LU 177:2.6](/es/The_Urantia_Book/177#p2_6)
 
 En fraternidad
 
@@ -40,3 +64,28 @@ Diego
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/08/29/mi-parrafo-favorito-31/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otros libros de crecimiento espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Cuestionario Urantiano: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -272,7 +272,7 @@ A medida que nos dedicamos a esta empresa, es instructivo considerar primero a n
 
 ### El reino de Jesús existe actualmente dentro de la iglesia cristiana
 
-> La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. <a id="a276_366"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)
+> La iglesia llamada cristiana se convierte así en el capullo donde duerme actualmente el concepto que Jesús tenía del reino. El reino de la fraternidad divina está todavía vivo, y saldrá sin duda finalmente de su largo letargo, con la misma seguridad con que la mariposa aparece finalmente como la hermosa manifestación de su crisálida metamórfica menos atractiva. <a id="a274_366"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío)
 
 Podemos aprender mucho de estas palabras; contienen tres ideas importantes: Primero, los reveladores aclaran que la hermandad del reino de Jesús existe actualmente dentro de la iglesia cristiana. En segundo lugar, revelan que esta fraternidad divina se encuentra en un estado pasivo, adormecido y sumergido dentro del cristianismo. Y tercero, profetizan que esta hermandad eventualmente despertará y se manifestará en una forma superior y más avanzada.
 
@@ -280,13 +280,13 @@ Podemos aprender mucho de estas palabras; contienen tres ideas importantes: Prim
 
 Esta profecía apunta a un enfoque especial para nuestros esfuerzos. Esta hermandad dormida actualmente necesita un despertar y un renacimiento espiritual. Somos nosotros los que estamos llamados a proporcionar una nueva revelación de Jesús que despertará a estos cristianos dormidos a niveles más altos de vida espiritual. Lograr el renacimiento espiritual de la hermandad del reino de Jesús será nuestro primer gran paso en la iniciación del renacimiento espiritual. Aquí nuevamente está el llamado de los reveladores:
 
-> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... <a id="a284_214"></a>[[LU 195 :10.6](/es/The_Urantia_Book/195#p10_6)](énfasis mío)
+> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... <a id="a282_214"></a>[[LU 195 :10.6](/es/The_Urantia_Book/195#p10_6)](énfasis mío)
 
 ### Los cristianos unidos ayudarán a traer la nueva revelación al mundo
 
 El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y cultos. La única esperanza de una unificación del cristianismo radica en un retorno al evangelio original de Jesús de la Paternidad de Dios y la Hermandad del hombre. Esto también es parte de nuestro trabajo. Por nuestro enfoque exclusivo en las enseñanzas reales de Jesús, proporcionaremos la base para la unificación de las diversas iglesias cristianas. Y a medida que este renacimiento de Jesús y su evangelio original llegue al cristianismo, muchos creyentes se unirán a nuestros esfuerzos para llevar este evangelio al mundo en general. Según _El Libro de Urantia_ esta es la gran esperanza de nuestro mundo:
 
-> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a290_277"></a>[[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)] (énfasis mío)
+> **_La gran esperanza de Urantia_** reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día. <a id="a288_277"></a>[[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)] (énfasis mío)
 
 ### El Evangelio del Reino
 
@@ -294,21 +294,21 @@ El mundo cristiano está actualmente dividido en muchas denominaciones, sectas y
 
 El reino que Jesús enseñó es la voluntad del Padre dominante y trascendente en el corazón del creyente. Entramos en el reino por la fe en la enseñanza de Jesús de que Dios es nuestro Padre, y luego por la elección de hacer la voluntad de nuestro Padre. Jesús nos mostró el camino a la vida en el reino con sus dos grandes oraciones, «Hágase tu voluntad» y «No se haga mi voluntad sino la tuya».
 
-En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». <a id="a298_194"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente esta gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial. 
+En su primera aparición después de la crucifixión, Jesús dejó claro a sus seguidores reunidos que «_la filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino_». <a id="a296_194"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)] Hizo hincapié en que lo que el mundo más necesita saber es que todos somos hijos e hijas de Dios y que a través de la fe podemos realizar y experimentar diariamente esta gran verdad. En nuestro trabajo siempre debemos enseñar a los demás a verse a sí mismos como hijos e hijas de Dios, nuestro amoroso Padre celestial. 
 
 ### El éxito de nuestra misión
 
 ¿Tendrán éxito nuestros esfuerzos? Considere estas declaraciones proféticas de los reveladores que describen tanto la historia como la evolución futura de la religión de Jesús en nuestro planeta:
 
-> Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. <a id="a304_287"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (énfasis mío)
+> Las enseñanzas de Jesús, aunque enormemente modificadas, sobrevivieron a los cultos de misterio de su época natal, a la ignorancia y la superstición de la edad de las tinieblas, e incluso ahora están venciendo lentamente al materialismo, al mecanicismo y al laicismo del siglo veinte. <a id="a302_287"></a>[[LU 195:9.3](/es/The_Urantia_Book/195#p9_3)] (énfasis mío)
 >
-> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. <a id="a306_300"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío) 
+> La iglesia [cristiana] es solamente el estado larvario del frustrado reino espiritual, que esta iglesia lo transportará a través de la presente era material y lo llevará hasta una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una mayor oportunidad para desarrollarse. <a id="a304_300"></a>[[LU 170:5.21](/es/The_Urantia_Book/170#p5_21)] (énfasis mío) 
 
 Las siguientes citas son dos de mis favoritas. Predicen la victoria sobre las poderosas fuerzas del materialismo y el secularismo, y una maravillosa nueva era espiritual a seguir:
 
-> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. <a id="a310_186"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
+> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. <a id="a308_186"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
 >
-> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a312_171"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
+> Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual. <a id="a310_171"></a>[[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)] (énfasis mío)
 
 ## Avancemos
 

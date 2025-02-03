@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Otros libros de crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
@@ -40,7 +64,7 @@ También volvemos con las «charlas urantianas». Comenzaremos con la interesant
 
 Textos, palabras, reflexiones… que nos pueden ayudar a ver el mundo con un cariz más elevado, con un sentido más profundo, como hacía Jesús con sus parábolas. Veamos, precisamente, esta conocida pero inspiradora historia que narró Jesús acerca de un hombre bueno:
 
-> «Había un hombre bueno que era propietario y plantó una viña. La cercó con un seto, cavó un lagar y construyó una torre de vigilancia para los guardas. Luego arrendó su viña a unos labradores y se fue a hacer un largo viaje a otro país. Llegado el tiempo de la cosecha, envió a sus siervos a los arrendatarios para percibir la renta, pero los arrendatarios se pusieron de acuerdo para atacar a estos siervos en vez de entregarles los frutos que debían a su señor; golpearon a uno, apedrearon a otro y despidieron a los demás con las manos vacías. Cuando el dueño se enteró de todo esto, envió a otros siervos de más confianza para ajustar cuentas con esos malvados arrendatarios, y ellos también fueron agredidos y tratados vergonzosamente. Entonces el dueño envió a su siervo predilecto, su administrador, y a este lo mataron. A pesar de ello, con gran paciencia y tolerancia, envió a muchos más siervos, pero ellos no quisieron recibir a ninguno; a unos los golpearon y a otros los mataron. Ante este comportamiento, el propietario decidió enviar a su hijo diciéndose: ‘Podrán maltratar a mis servidores, pero seguro que respetarán a mi amado hijo’. [LU 173:4.2](/es/The_Urantia_Book/173#p4_2)
+> «Había un hombre bueno que era propietario y plantó una viña. La cercó con un seto, cavó un lagar y construyó una torre de vigilancia para los guardas. Luego arrendó su viña a unos labradores y se fue a hacer un largo viaje a otro país. Llegado el tiempo de la cosecha, envió a sus siervos a los arrendatarios para percibir la renta, pero los arrendatarios se pusieron de acuerdo para atacar a estos siervos en vez de entregarles los frutos que debían a su señor; golpearon a uno, apedrearon a otro y despidieron a los demás con las manos vacías. Cuando el dueño se enteró de todo esto, envió a otros siervos de más confianza para ajustar cuentas con esos malvados arrendatarios, y ellos también fueron agredidos y tratados vergonzosamente. Entonces el dueño envió a su siervo predilecto, su administrador, y a este lo mataron. A pesar de ello, con gran paciencia y tolerancia, envió a muchos más siervos, pero ellos no quisieron recibir a ninguno; a unos los golpearon y a otros los mataron. Ante este comportamiento, el propietario decidió enviar a su hijo diciéndose: ‘Podrán maltratar a mis servidores, pero seguro que respetarán a mi amado hijo’. <a id="a66_1154"></a>[LU 173:4.2](/es/The_Urantia_Book/173#p4_2)
 
 Cuando aquellos arrendatarios contumaces y malvados vieron al hijo, dijeron entre sí: ‘Este es el heredero. Ea, matémoslo y la herencia será nuestra’. Y entonces le echaron mano, lo arrojaron fuera de la viña y lo mataron. Cuando el señor de esta viña tenga noticia de cómo han rechazado y matado a su hijo, ¿qué hará con esos arrendatarios perversos y desagradecidos?».
 
@@ -100,7 +124,7 @@ Frankl incorporó lo que había aprendido en el _Lager_ a su trabajo como psiqui
 A su vez, Frankl hubiera estado de acuerdo con las afirmaciones que leemos en el libro acerca de las inevitabilidades de la vida en la Tierra. Refresquemos ese texto recordando algunas de ellas:
 <br style="clear:both;"/>
 
-> Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen en modo alguno el concepto de la soberanía universal de Dios. [LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
+> Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen en modo alguno el concepto de la soberanía universal de Dios. <a id="a126_144"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
 
 Considerad las siguientes:
 
@@ -120,13 +144,13 @@ El ser humano que conoce el _porqué_ de su existencia podrá soportar casi cual
 
 Jesús muere en la cruz, y lo hace con la serenidad y el amor inaudito de una vida consagrada a un proyecto inmenso, que abarca las eras infinitas y los universos eternos.
 
-> La gran aportación de la muerte de Jesús al enriquecimiento de la experiencia humana y a la ampliación del camino de la salvación no es el hecho de su muerte sino más bien la magnífica actitud y el espíritu incomparable que mostró ante la muerte. [LU 188:4.12](/es/The_Urantia_Book/188#p4_12)
+> La gran aportación de la muerte de Jesús al enriquecimiento de la experiencia humana y a la ampliación del camino de la salvación no es el hecho de su muerte sino más bien la magnífica actitud y el espíritu incomparable que mostró ante la muerte. <a id="a146_249"></a>[LU 188:4.12](/es/The_Urantia_Book/188#p4_12)
 
-> La muerte de Jesús en la cruz representa un amor tan fuerte y tan divino como para perdonar el pecado y absorber toda maldad. Jesús desveló a este mundo una rectitud _superior_ a la justicia en el sentido estricto de lo bueno y lo malo. El amor divino no se limita a perdonar las maldades sino que las absorbe y las destruye. El perdón del amor trasciende por completo el perdón de la misericordia. La misericordia deja de lado la culpa de la maldad, pero el amor destruye para siempre el pecado y todas las debilidades que conlleva. Jesús trajo a Urantia una manera nueva de vivir. [LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
+> La muerte de Jesús en la cruz representa un amor tan fuerte y tan divino como para perdonar el pecado y absorber toda maldad. Jesús desveló a este mundo una rectitud _superior_ a la justicia en el sentido estricto de lo bueno y lo malo. El amor divino no se limita a perdonar las maldades sino que las absorbe y las destruye. El perdón del amor trasciende por completo el perdón de la misericordia. La misericordia deja de lado la culpa de la maldad, pero el amor destruye para siempre el pecado y todas las debilidades que conlleva. Jesús trajo a Urantia una manera nueva de vivir. <a id="a148_585"></a>[LU 188:5.2](/es/The_Urantia_Book/188#p5_2)
 
 ¡Qué magnifica la actitud vital de Jesús, qué sorprendente sentido tuvo su muerte! Ojalá seamos capaces de labrar nuestra mente, de hacer crecer nuestra viña, de encontrar la piedra angular sobre la que hacer una vida plena de sentido tal como la vivió, de forma admirable, nuestro Maestro. Vamos a ello, un día más. Seamos esos labradores inteligentes y buenos, capaces de transformar el mundo, de mejorar la «viña», de hacerlo colaborando con nuestro «patrón» bueno.
 
-> ¿No os dais cuenta de que la esperanza de una nación mejor —o de un mundo mejor— está ligada al progreso y al esclarecimiento del _individuo?_» [LU 145:2.8](/es/The_Urantia_Book/145#p2_8)
+> ¿No os dais cuenta de que la esperanza de una nación mejor —o de un mundo mejor— está ligada al progreso y al esclarecimiento del _individuo?_» <a id="a152_146"></a>[LU 145:2.8](/es/The_Urantia_Book/145#p2_8)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
@@ -143,3 +167,28 @@ Jesús muere en la cruz, y lo hace con la serenidad y el amor inaudito de una vi
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2024 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Otros libros de crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

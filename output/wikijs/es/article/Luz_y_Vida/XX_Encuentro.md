@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentaciones del XX Encuentro de Lectores de El libro de Urantia en España</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fernando_Carazo/Report_on_the_Circle_of_Trust">
+          <span class="pr-2">Informe sobre el Círculo de Confianza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Toledo.jpg" alt="Toledo" width="350">
@@ -55,9 +79,9 @@ A continuación se llevó a cabo el segundo taller, en el que se abordaba la ét
 
 Ya por la tarde, tuvimos los dos últimos talleres: el tercero corrió a cargo de Paula Requejo, cuya presentación trató sobre las nuevas relaciones interpersonales y lo que nos puede deparar el futuro al respecto. Al finalizar su exposición, se trabajó en grupos a partir de estas preguntas:
 
-- Tomando como referencia la sección [LU 130:6](/es/The_Urantia_Book/130#p6) (El joven que tenía miedo), y como hijos de Dios por la fe, ¿qué herramientas tenemos para salir de la confusión social, la soledad no deseada creciente, la discriminación social por ser o actuar diferente a lo establecido y los males que enferman mentalmente al ser humano actual?
-- A partir de la sección [LU 84:7](/es/The_Urantia_Book/84#p7) (Los ideales de la vida familiar), ¿cómo se plantea la familia, a la luz de _El libro de Urantia_?
-- Según la sección [LU 180:5](/es/The_Urantia_Book/180#p5) (El Espíritu de la Verdad), las relaciones interpersonales están en la base de la regla de oro, pero ¿cuál es el proceso que hay que seguir para que el «ama a los demás como a ti mismo» no se quede en un mero modelo de la conducta social y alcance un verdadero significado cósmico?
+- Tomando como referencia la sección <a id="a81_37"></a>[LU 130:6](/es/The_Urantia_Book/130#p6) (El joven que tenía miedo), y como hijos de Dios por la fe, ¿qué herramientas tenemos para salir de la confusión social, la soledad no deseada creciente, la discriminación social por ser o actuar diferente a lo establecido y los males que enferman mentalmente al ser humano actual?
+- A partir de la sección <a id="a82_25"></a>[LU 84:7](/es/The_Urantia_Book/84#p7) (Los ideales de la vida familiar), ¿cómo se plantea la familia, a la luz de _El libro de Urantia_?
+- Según la sección <a id="a83_19"></a>[LU 180:5](/es/The_Urantia_Book/180#p5) (El Espíritu de la Verdad), las relaciones interpersonales están en la base de la regla de oro, pero ¿cuál es el proceso que hay que seguir para que el «ama a los demás como a ti mismo» no se quede en un mero modelo de la conducta social y alcance un verdadero significado cósmico?
 
 Como último taller, Eduardo Altuzarra trató sobre la orientación y el conocimiento necesarios para hacer frente a los retos futuros y aprovechar las oportunidades que sin duda se nos van a presentar. _El libro de Urantia_ se plantea como una herramienta muy valiosa para comprender mejor estos retos y cómo afrontarlos. Finalmente, tras su presentación, estas fueron las preguntas sobre las que se trabajó en el taller:
 
@@ -88,3 +112,28 @@ Después de varios intentos frustrados, al final se pudo celebrar un Encuentro e
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/07/30/xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presentaciones del XX Encuentro de Lectores de El libro de Urantia en España</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fernando_Carazo/Report_on_the_Circle_of_Trust">
+          <span class="pr-2">Informe sobre el Círculo de Confianza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

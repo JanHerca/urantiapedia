@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## El momento perfecto de sembrar
 
@@ -37,19 +61,19 @@ Tened siempre presente la doble finalidad del otorgamiento de Miguel en Urantia:
 <br style="clear:both;"/>
 
 > 1. Adquirir la experiencia completa de vivir una vida de criatura humana en carne mortal y culminar su soberanía de Nebadon.
-> 2. Revelar al Padre Universal a los moradores mortales de los mundos del tiempo y el espacio y llevar más eficazmente a esos mismos mortales a una mejor comprensión del Padre Universal. [LU 128:0.2-4](/es/The_Urantia_Book/128#p0_2)
+> 2. Revelar al Padre Universal a los moradores mortales de los mundos del tiempo y el espacio y llevar más eficazmente a esos mismos mortales a una mejor comprensión del Padre Universal. <a id="a63_188"></a>[LU 128:0.2-4](/es/The_Urantia_Book/128#p0_2)
 
 En nuestro querido Maestro encontramos un magnífico humano que
 
-> Trabajó, se cansó, descansó y durmió. Tuvo hambre y la sació con alimentos, tuvo sed y la apagó con agua. Experimentó toda la gama humana de sentimientos y emociones; fue «probado en todo como vosotros»; sufrió y murió. [LU 128:1.2](/es/The_Urantia_Book/128#p1_2)
+> Trabajó, se cansó, descansó y durmió. Tuvo hambre y la sació con alimentos, tuvo sed y la apagó con agua. Experimentó toda la gama humana de sentimientos y emociones; fue «probado en todo como vosotros»; sufrió y murió. <a id="a67_222"></a>[LU 128:1.2](/es/The_Urantia_Book/128#p1_2)
 
 Pero que también sabía estar constantemente en la presencia divina, dándole un sentido profundo a su vida:
 
-> Incluso mientras luchaba contra la pobreza y trabajaba duramente con sus manos para cubrir las necesidades básicas de su familia, era cada vez más consciente de ser un Hijo de Dios; sabía que era el hacedor de los cielos y de la misma tierra donde estaba viviendo su existencia humana. Y en todo el gran universo que lo observaba, las huestes de seres celestiales sabían también que este hombre de Nazaret era su amado padre-Creador y Soberano. [LU 128:1.13](/es/The_Urantia_Book/128#p1_13)
+> Incluso mientras luchaba contra la pobreza y trabajaba duramente con sus manos para cubrir las necesidades básicas de su familia, era cada vez más consciente de ser un Hijo de Dios; sabía que era el hacedor de los cielos y de la misma tierra donde estaba viviendo su existencia humana. Y en todo el gran universo que lo observaba, las huestes de seres celestiales sabían también que este hombre de Nazaret era su amado padre-Creador y Soberano. <a id="a71_447"></a>[LU 128:1.13](/es/The_Urantia_Book/128#p1_13)
 
 El mismo ser que caminaba con sus poderosas piernas por los polvorientos caminos de Galilea afirmaba:
 
-> «Yo soy el Alfa y el Omega, el principio y el fin, el primero y el último». [LU 128:1.10](/es/The_Urantia_Book/128#p1_10)
+> «Yo soy el Alfa y el Omega, el principio y el fin, el primero y el último». <a id="a75_78"></a>[LU 128:1.10](/es/The_Urantia_Book/128#p1_10)
 
 Qué gran enseñanza la de nuestro Maestro: no rehuía la materia ni la rechazaba, sino que la vivía, la utilizaba para producir un mayor crecimiento y expansión.
 
@@ -61,9 +85,9 @@ Hay muchos ejemplos significativos en _El libro de Urantia_ que nos muestran a J
 
 Otro ejemplo: conocía lo sabio que es tener y administrar el dinero como herramienta útil de nuestra vida, aunque también nos advierte de los peligros a los que pueden llegar los que aman las riquezas y codician los bienes fraudulentos.
 
-Mientras trabajó con Zebedeo solo había percibido pequeñas sumas de dinero que enviaba mensualmente a su familia de Nazaret. Unos meses iba José a Cafarnaúm a buscar el dinero y otros pasaba Judá por Cafarnaúm, recibía el dinero de Jesús y lo llevaba a Nazaret. [LU 129:2.1](/es/The_Urantia_Book/129#p2_1)
+Mientras trabajó con Zebedeo solo había percibido pequeñas sumas de dinero que enviaba mensualmente a su familia de Nazaret. Unos meses iba José a Cafarnaúm a buscar el dinero y otros pasaba Judá por Cafarnaúm, recibía el dinero de Jesús y lo llevaba a Nazaret. <a id="a87_262"></a>[LU 129:2.1](/es/The_Urantia_Book/129#p2_1)
 
-Pedro dijo: «Entonces, Señor, ¿quién puede salvarse? ¿Quedarán fuera del reino todos los que tienen riquezas?». Jesús respondió: «No, Pedro, pero todos los que ponen su confianza en las riquezas tienen pocas probabilidades de entrar en la vida espiritual que conduce al progreso eterno. Sin embargo hay muchas cosas imposibles para el hombre que no están fuera del alcance del Padre del cielo; deberíamos reconocer más bien que con Dios todo es posible». [LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
+Pedro dijo: «Entonces, Señor, ¿quién puede salvarse? ¿Quedarán fuera del reino todos los que tienen riquezas?». Jesús respondió: «No, Pedro, pero todos los que ponen su confianza en las riquezas tienen pocas probabilidades de entrar en la vida espiritual que conduce al progreso eterno. Sin embargo hay muchas cosas imposibles para el hombre que no están fuera del alcance del Padre del cielo; deberíamos reconocer más bien que con Dios todo es posible». <a id="a89_455"></a>[LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
 
 <br style="clear:both;"/>
 
@@ -88,15 +112,15 @@ Lo que nos enseña el Maestro es la búsqueda del equilibrio en la vida. No se t
 <br style="clear:both;"/>
 
 > Que venga tu reino; que se haga tu voluntad  
-> En la tierra como en el cielo. [LU 144:3.5-6](/es/The_Urantia_Book/144#p3_5)
+> En la tierra como en el cielo. <a id="a114_33"></a>[LU 144:3.5-6](/es/The_Urantia_Book/144#p3_5)
 
 Somos, sin ninguna duda, seres viviendo la experiencia de la materia:
 
-El hombre es una criatura del suelo, un hijo de la naturaleza; por mucho que se esfuerce por escapar de la tierra, al final tiene el fracaso asegurado. Es literalmente cierto para toda la humanidad que «polvo eres y al polvo volverás». [LU 68:6.1](/es/The_Urantia_Book/68#p6_1)
+El hombre es una criatura del suelo, un hijo de la naturaleza; por mucho que se esfuerce por escapar de la tierra, al final tiene el fracaso asegurado. Es literalmente cierto para toda la humanidad que «polvo eres y al polvo volverás». <a id="a118_236"></a>[LU 68:6.1](/es/The_Urantia_Book/68#p6_1)
 
 Pero no solo estamos hechos de materia: al mismo tiempo somos seres espirituales. Esta dualidad en nuestra vida es inevitable y está planificada para nuestro bien, para el mejor bien del universo:
 
-En todo mortal existe una naturaleza dual: la herencia de las tendencias animales y el alto impulso de la dotación espiritual. Durante la corta vida que vivís en Urantia, estos dos impulsos distintos y opuestos rara vez se pueden conciliar del todo, difícilmente se pueden armonizar y unificar. Pero a lo largo de toda vuestra vida, el Espíritu combinado os asiste siempre para ayudaros a someter cada vez más la carne a la guía del Espíritu. Aun cuando debéis vivir vuestra vida material por completo, aun cuando no podéis escapar del cuerpo y sus necesidades, tenéis sin embargo, en propósito y en ideales, cada vez más poder para someter la naturaleza animal al dominio del Espíritu. Existe verdaderamente dentro de vosotros una conspiración de fuerzas espirituales, una coalición de poderes divinos, cuyo propósito exclusivo es liberaros finalmente de la esclavitud material y los impedimentos finitos. [LU 34:6.9](/es/The_Urantia_Book/34#p6_9)
+En todo mortal existe una naturaleza dual: la herencia de las tendencias animales y el alto impulso de la dotación espiritual. Durante la corta vida que vivís en Urantia, estos dos impulsos distintos y opuestos rara vez se pueden conciliar del todo, difícilmente se pueden armonizar y unificar. Pero a lo largo de toda vuestra vida, el Espíritu combinado os asiste siempre para ayudaros a someter cada vez más la carne a la guía del Espíritu. Aun cuando debéis vivir vuestra vida material por completo, aun cuando no podéis escapar del cuerpo y sus necesidades, tenéis sin embargo, en propósito y en ideales, cada vez más poder para someter la naturaleza animal al dominio del Espíritu. Existe verdaderamente dentro de vosotros una conspiración de fuerzas espirituales, una coalición de poderes divinos, cuyo propósito exclusivo es liberaros finalmente de la esclavitud material y los impedimentos finitos. <a id="a122_907"></a>[LU 34:6.9](/es/The_Urantia_Book/34#p6_9)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-1.jpg" alt="Editorial agosto 2024-4" width="350">
@@ -114,7 +138,7 @@ La medicina y los avances tecnológicos también han hecho que podamos vivir má
 
 **Ahora** es el momento de poder mostrar al mundo las enseñanzas inigualables de nuestro amado Creador y Maestro. Esas enseñanzas pueden llenar el vacío existencial actual y dan sentido a nuestra vida. Los lectores de _El libro de Urantia_ tenemos terreno fértil alrededor, como nuevos sembradores, a imagen de aquella antigua parábola que Jesús de Nazaret expuso sobre una barca. Y como aquel sembrador, tendremos obstáculos y problemas, pero no importa, pues como decía Tomás en su interpretación de ese cuento, no tenemos control sobre todas las cosas:
 
-Jesús asintió con un gesto, y Tomás dijo: «Hermanos, no quisiera prolongar esta discusión, pero si así lo deseáis, os diré que pienso que esta parábola fue dicha para enseñarnos una gran verdad. Y es que, por mucho que nos esforcemos en ejecutar nuestra misión divina con eficacia y fidelidad, el éxito de nuestra enseñanza del evangelio del reino será muy variable, y que todas estas diferencias de resultado serán consecuencia directa de las condiciones inherentes a las circunstancias de nuestro ministerio, condiciones sobre las que tenemos poco o ningún control». [LU 151:2.6](/es/The_Urantia_Book/151#p2_6)
+Jesús asintió con un gesto, y Tomás dijo: «Hermanos, no quisiera prolongar esta discusión, pero si así lo deseáis, os diré que pienso que esta parábola fue dicha para enseñarnos una gran verdad. Y es que, por mucho que nos esforcemos en ejecutar nuestra misión divina con eficacia y fidelidad, el éxito de nuestra enseñanza del evangelio del reino será muy variable, y que todas estas diferencias de resultado serán consecuencia directa de las condiciones inherentes a las circunstancias de nuestro ministerio, condiciones sobre las que tenemos poco o ningún control». <a id="a140_569"></a>[LU 151:2.6](/es/The_Urantia_Book/151#p2_6)
 
 <br style="clear:both;"/>
 
@@ -129,3 +153,28 @@ Respondamos a la esperanza de tantas generaciones que lucharon y sufrieron por c
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Septiembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

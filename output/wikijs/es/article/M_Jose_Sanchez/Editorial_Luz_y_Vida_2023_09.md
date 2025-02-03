@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentaciones del XIX Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Lavarnos en el silencio
 
@@ -45,7 +69,7 @@ El silencio cura porque nos conecta con lo que somos, nos devuelve a la unidad c
 
 El libro azul nos recuerda que paremos y hagamos silencio:
 
-> Uno de los grandes problemas de la vida moderna es que el hombre **piensa que está demasiado ocupado** como para encontrar tiempo para la meditación espiritual y la devoción religiosa. [LU 195:6.7](/es/The_Urantia_Book/195#p6_7), negrita añadida
+> Uno de los grandes problemas de la vida moderna es que el hombre **piensa que está demasiado ocupado** como para encontrar tiempo para la meditación espiritual y la devoción religiosa. <a id="a71_187"></a>[LU 195:6.7](/es/The_Urantia_Book/195#p6_7), negrita añadida
 
 Esta hermosa frase de Tagore nos recuerda también la importancia de parar y hacer silencio:
 
@@ -65,21 +89,21 @@ Es buena idea recordar las palabras iniciales del libro. En el Prólogo se formu
 
 <br style="clear:both;"/>
 
-> En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. [LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
+> En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. <a id="a91_408"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
 
 Esta labor fundamental que formula el libro azul en sus comienzos no sería posible si no estuviera fijadas en el texto miles de ideas nuevas, rompedoras, expansivas. Un texto que puede ser releído cientos de veces, subrayado, resaltado en el papel. Un texto que, cada vez que se lee en **diálogo silencioso** se comprende mejor, se capta en mayores matices que no se vislumbraros en una primera lectura.
 
 Los reveladores saben que esta comunicación tan inusual que se establece en la lectura, un acto íntimo y **silencioso**, va a ser posible no solo por el libro en sí mismo, sino también por la presencia interna de una chispa divina. Ahí está la clave de la comprensión del texto:
 
-Aunque para acercaros a la presencia paradisiaca del Padre tengáis que esperar a alcanzar los niveles finitos más altos de progresión espiritual, deberíais regocijaros al reconocer la posibilidad **siempre presente** de comunión inmediata con el espíritu otorgado del Padre que tan íntimamente se asocia con vuestra alma interior y con vuestro yo en espiritualización. [LU 5:1.3](/es/The_Urantia_Book/5#p1_3), negrita añadida
+Aunque para acercaros a la presencia paradisiaca del Padre tengáis que esperar a alcanzar los niveles finitos más altos de progresión espiritual, deberíais regocijaros al reconocer la posibilidad **siempre presente** de comunión inmediata con el espíritu otorgado del Padre que tan íntimamente se asocia con vuestra alma interior y con vuestro yo en espiritualización. <a id="a97_369"></a>[LU 5:1.3](/es/The_Urantia_Book/5#p1_3), negrita añadida
 
 Frente a las diferencias de parecer sobre lo que dice o no dice una palabra o un giro de _El libro de Urantia_, en este octubre que celebramos nuevamente la publicación del libro, volvamos a nuestro interior, a nuestra isla inexpugnable y escuchemos el silencio. Dejemos la mente ruidosa a un lado y disfrutemos escuchando el silencio.
 
 El texto publicado hace ya 68 años es una puerta que, una vez abierta, una vez pasamos al otro lado, nos damos cuenta de que es un instrumento que nos lleva a descubrir que **lo más importante** de todo es el AMOR. Aunque realmente todo es una puerta, todo está abierto para llegar a nuestra esencia fundamental, que es amorosa. Una esencia amorosa que se trasluce en nuestros actos cotidianos, en nuestros encuentros de lectores, en la vida en general.
 
-> La consciencia del dominio del espíritu en una vida humana se acompaña enseguida de una **manifestación** cada vez mayor de las características del Espíritu en el comportamiento del mortal guiado por el espíritu, «pues los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la dulzura, la bondad, la fe, la mansedumbre y la templanza». Esos mortales **guiados** por la iluminación divina del espíritu, aunque pisan aún los humildes senderos del trabajo arduo y desempeñan con lealtad humana las obligaciones de sus cometidos terrenales, han empezado ya a percibir las luces de la vida eterna que brillan tenuemente en las remotas orillas de otro mundo… [LU 34:6.13](/es/The_Urantia_Book/34#p6_13), negrita añadida
+> La consciencia del dominio del espíritu en una vida humana se acompaña enseguida de una **manifestación** cada vez mayor de las características del Espíritu en el comportamiento del mortal guiado por el espíritu, «pues los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la dulzura, la bondad, la fe, la mansedumbre y la templanza». Esos mortales **guiados** por la iluminación divina del espíritu, aunque pisan aún los humildes senderos del trabajo arduo y desempeñan con lealtad humana las obligaciones de sus cometidos terrenales, han empezado ya a percibir las luces de la vida eterna que brillan tenuemente en las remotas orillas de otro mundo… <a id="a103_671"></a>[LU 34:6.13](/es/The_Urantia_Book/34#p6_13), negrita añadida
 > 
-> No es suficiente que este espíritu se haya derramado sobre vosotros; el Espíritu divino debe dominar y controlar **cada aspecto de la experiencia humana**. [LU 34:6.7](/es/The_Urantia_Book/34#p6_7), negrita añadida
+> No es suficiente que este espíritu se haya derramado sobre vosotros; el Espíritu divino debe dominar y controlar **cada aspecto de la experiencia humana**. <a id="a105_158"></a>[LU 34:6.7](/es/The_Urantia_Book/34#p6_7), negrita añadida
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-3.jpg" alt="Editorial oct 23 -3" width="350">
@@ -89,7 +113,7 @@ Atravesemos la puerta que es _El libro de Urantia_, descubramos con su lectura l
 
 <br style="clear:both;"/>
 
-> Una de las razones por las cuales Pedro, Santiago y Juan, que acompañaron tantas veces a Jesús en sus largas noches de vigilia, nunca le oyeron rezar es que su Maestro casi nunca ponía sus oraciones en palabras habladas. Jesús hacía casi toda su oración **en silencio**: en su espíritu y en su corazón. [LU 144:4.10](/es/The_Urantia_Book/144#p4_10), negrita añadida
+> Una de las razones por las cuales Pedro, Santiago y Juan, que acompañaron tantas veces a Jesús en sus largas noches de vigilia, nunca le oyeron rezar es que su Maestro casi nunca ponía sus oraciones en palabras habladas. Jesús hacía casi toda su oración **en silencio**: en su espíritu y en su corazón. <a id="a115_305"></a>[LU 144:4.10](/es/The_Urantia_Book/144#p4_10), negrita añadida
 
 Nadie dijo que la vida fuera fácil, pero aquí estamos, y estamos acompañados por el mejor compañero de viaje. Y es que realmente **nunca estamos solos**.
 
@@ -103,3 +127,28 @@ Nadie dijo que la vida fuera fácil, pero aquí estamos, y estamos acompañados 
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/09/28/editorial-octubre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Octubre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentaciones del XIX Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

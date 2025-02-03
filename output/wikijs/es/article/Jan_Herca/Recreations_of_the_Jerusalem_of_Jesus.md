@@ -29,6 +29,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 ## Maqueta del Hotel Holy Land West de Jerusalén
 
+Esta maqueta del hotel Holy Land es un modelo de la Jerusalén del Segundo Templo. Está a escala 1:50 y tiene un área de 2000 m². Fue encargada en 1966 por Hans Kroch, el dueño del Holy Land Hotel y diseñada por el historiador y geógrafo israelí Michael Avi Yonah a partir de escritos de Flavio Josefo y otras fuentes históricas. Inaugurado en 1966, fue trasladado en 2006 al Museo de Israel, en un nuevo emplazamiento.
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/00-map-jerusalem.jpg">
 <figcaption>Fig. 1 — <em>Mapa de Jerusalén en siglo I d.C.</em></figcaption>
@@ -110,14 +112,14 @@ Según Josefo el general romano Tito destruyó toda la ciudad pero decidió deja
 <figcaption>Fig. 11 — <em>La zona del jardín de la Tumba.</em></figcaption>
 </figure>
 
-La tumba del jardín, mostrada en la fig. 11, es un lugar actual donde se cree que pudo estar el sepulcro de Jesús. Sin embargo, aunque este emplazamiento tiene cierta verosilimitud con el lugar que se describe en _El Libro de Urantia_, por ser un lugar situado en el barrio nuevo, al norte, donde el libro nos dice que José de Arimatea poseía un huerto en propiedad ([LU 188:1.2](/es/The_Urantia_Book/188#p1_2)), la realidad es que aquí acaban las coincidencias. Como se ve en la maqueta, que refleja la fisionomía actual de la tumba[^2], los alrededores no están mostrados correctamente, pues esto debería ser una frondosa plantación llena de árboles y hortalizas, con alguna casamata. Sobran, por tanto, de la maqueta, tantas edificaciones y le falta vegetación, muretes de piedra y caminillos. Pero aún más importante, la tumba del jardín no mira hacia el este sino que tiene orientación norte-sur, y no está colocada en la maqueta en la parte oriental de una carretera, sino que al contrario, la única carretera que se ha dispuesto en la maqueta discurre al oeste de la tumba ([LU 189:4.6](/es/The_Urantia_Book/189#p4_6)). Es bastante improbable que la famosa tumba del jardín sea el lugar de enterramiento de Jesús.
+La tumba del jardín, mostrada en la fig. 11, es un lugar actual donde se cree que pudo estar el sepulcro de Jesús. Sin embargo, aunque este emplazamiento tiene cierta verosilimitud con el lugar que se describe en _El Libro de Urantia_, por ser un lugar situado en el barrio nuevo, al norte, donde el libro nos dice que José de Arimatea poseía un huerto en propiedad (<a id="a114_367"></a>[LU 188:1.2](/es/The_Urantia_Book/188#p1_2)), la realidad es que aquí acaban las coincidencias. Como se ve en la maqueta, que refleja la fisionomía actual de la tumba[^2], los alrededores no están mostrados correctamente, pues esto debería ser una frondosa plantación llena de árboles y hortalizas, con alguna casamata. Sobran, por tanto, de la maqueta, tantas edificaciones y le falta vegetación, muretes de piedra y caminillos. Pero aún más importante, la tumba del jardín no mira hacia el este sino que tiene orientación norte-sur, y no está colocada en la maqueta en la parte oriental de una carretera, sino que al contrario, la única carretera que se ha dispuesto en la maqueta discurre al oeste de la tumba (<a id="a114_1081"></a>[LU 189:4.6](/es/The_Urantia_Book/189#p4_6)). Es bastante improbable que la famosa tumba del jardín sea el lugar de enterramiento de Jesús.
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/11-fortaleza-antonia.jpg">
 <figcaption>Fig. 12 — <em>La zona de la crucifixión, o Gólgota, donde se encuentra la capilla del Santo Sepulcro, con la fortaleza Antonia al fondo.</em></figcaption>
 </figure>
 
-La fig. 12 y 13 muestra el peñón del Gólgota, donde tenían lugar las crucifixiones, como la de Jesús. Situado extramuros, y a la derecha del camino de Efraím. Como se ve, no era mucha la distancia que separaba la fortaleza Antonia del Gólgota, el camino que debían hacer los crucificados portando la cruz. Según _El Libro de Urantia_, es imposible que esta ubicación sea la correcta ([LU 187:1.4](/es/The_Urantia_Book/187#p1_4)). El Gólgota debería encontrarse fuera de los muros de la ciudad, sí, pero mucho más norte, pues se nos menciona que salieron por la puerta de Damasco y que recorrieron un trecho de la carretera norteña hasta llegar al Gólgota. La puerta de Damasco actual no debe confundir al lector, pues está situada en la terecera muralla norte, que fue construida mucho después de Jesús. Resulta evidente que la actual capilla del Santo Sepulcro no tiene nada que ver con el lugar de crucifixión de Jesús, sino más bien con sustituir un antiguo templo a Afrodita por un templo cristiano.
+La fig. 12 y 13 muestra el peñón del Gólgota, donde tenían lugar las crucifixiones, como la de Jesús. Situado extramuros, y a la derecha del camino de Efraím. Como se ve, no era mucha la distancia que separaba la fortaleza Antonia del Gólgota, el camino que debían hacer los crucificados portando la cruz. Según _El Libro de Urantia_, es imposible que esta ubicación sea la correcta (<a id="a121_384"></a>[LU 187:1.4](/es/The_Urantia_Book/187#p1_4)). El Gólgota debería encontrarse fuera de los muros de la ciudad, sí, pero mucho más norte, pues se nos menciona que salieron por la puerta de Damasco y que recorrieron un trecho de la carretera norteña hasta llegar al Gólgota. La puerta de Damasco actual no debe confundir al lector, pues está situada en la terecera muralla norte, que fue construida mucho después de Jesús. Resulta evidente que la actual capilla del Santo Sepulcro no tiene nada que ver con el lugar de crucifixión de Jesús, sino más bien con sustituir un antiguo templo a Afrodita por un templo cristiano.
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/12-golgota.jpg">
@@ -213,7 +215,7 @@ En la fig. 25, al sur, se aprecia también la llamada sinagoga de los Libertos y
 <figcaption>Fig. 26 — <em>El estanque de Siloé.</em></figcaption>
 </figure>
 
-En la figura anterior se muestra en detalle de la piscina de Siloé, donde un ciego recobró la vista gracias a Jesús ([LU 164:3.8](/es/The_Urantia_Book/164#p3_8)). Ya he dicho que su aspecto me resulta algo extraño, y yo la imaginaba como una piscina no elevada, situada más al nivel de la calle, y que recogía el agua de un canal por donde discurría el agua de lluvia del Tyropeón. Resulta muy raro que el ciego sea enviado por Jesús a una piscina elevada. ¿Cómo esperaría que subiera las escaleras él solo?
+En la figura anterior se muestra en detalle de la piscina de Siloé, donde un ciego recobró la vista gracias a Jesús (<a id="a217_117"></a>[LU 164:3.8](/es/The_Urantia_Book/164#p3_8)). Ya he dicho que su aspecto me resulta algo extraño, y yo la imaginaba como una piscina no elevada, situada más al nivel de la calle, y que recogía el agua de un canal por donde discurría el agua de lluvia del Tyropeón. Resulta muy raro que el ciego sea enviado por Jesús a una piscina elevada. ¿Cómo esperaría que subiera las escaleras él solo?
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/26-hipodromo.jpg">
@@ -269,7 +271,7 @@ La fig. 33 muestra la Stoa Real, encima de la Basílica o pórtico Regio, vista 
 <figcaption>Fig. 34 — <em>El santuario del templo, con el «Atrio de las Mujeres» en primer plano, visto desde el este.</em></figcaption>
 </figure>
 
-La fig. 34 muestra el recinto del santuario del templo, rodeado primero de un vallado o _soreg_ (con mensajes de advertencia para que no lo cruzaran los no judíos), y luego de un muro con torres y cámaras adyacentes destinadas a los oficios sacerdotales. Las escalinatas semicirculares conducen a la puerta llamada de Nicanor, hecha de bronce brillante. Algunos creen que esta puerta es la misma que [Hch 3:2](/es/Bible/Acts_of_the_Apostles/3#v2) llama «puerta Hermosa», pero según la descripción de _El Libro de Urantia_ ([LU 162:4.3](/es/The_Urantia_Book/162#p4_3)) la «puerta hermosa» se correspondería con la puerta oriental del recinto sagrado.
+La fig. 34 muestra el recinto del santuario del templo, rodeado primero de un vallado o _soreg_ (con mensajes de advertencia para que no lo cruzaran los no judíos), y luego de un muro con torres y cámaras adyacentes destinadas a los oficios sacerdotales. Las escalinatas semicirculares conducen a la puerta llamada de Nicanor, hecha de bronce brillante. Algunos creen que esta puerta es la misma que [Hch 3:2](/es/Bible/Acts_of_the_Apostles/3#v2) llama «puerta Hermosa», pero según la descripción de _El Libro de Urantia_ (<a id="a273_523"></a>[LU 162:4.3](/es/The_Urantia_Book/162#p4_3)) la «puerta hermosa» se correspondería con la puerta oriental del recinto sagrado.
 
 El patio en primer término es el patio o atrio de la mujeres, donde se permitía el acceso a las mujeres. El segundo patio, donde se alzaba el Santuario, era el patio de los sacerdotes, donde sólo se permitía el acceso a hombres. Al Santuario, el inmenso edificio de ¡60 metros de altura! que se destacaba en medio de toda la ciudad, sólo podían acceder sacerdotes y sólo para ciertos rituales. El inmeso portón de acceso estaba tapado por un gran velo (que no está en la maqueta) que colgaba en el exterior. Velos similares se disponían en el interior separando lo que se denominaba el _sanctasanctorum_, lugar sólo reservado una vez al año para el sumo sacerdote, y donde se creía que tenía su presencia Dios mismo.
 
@@ -295,7 +297,7 @@ La fig. 35 muestra el mismo recinto desde otro ángulo, con la única puerta ori
 <figcaption>Fig. 38 — <em>El Atrio de los Gentiles y la fortaleza Antonia, vista desde el sudeste.</em></figcaption>
 </figure>
 
-En la fig. 38 se puede observar el atrio y el pórtico de los Gentiles, junto a la fortaleza Antonia. En este espacio y en el pórtico de los Gentiles es donde seguramente se disponían los mercaderes de productos para los sacrificios (animales y frutos) con sus tenderetes, que eran introducidos por la puerta septentrional del templo, llamada precisamente «puerta de las Ovejas». Es aquí donde tuvo lugar la famosa expulsión de estos vendedores por Jesús y sus discípulos ([LU 173:1.1-11](/es/The_Urantia_Book/173#p1_1)).
+En la fig. 38 se puede observar el atrio y el pórtico de los Gentiles, junto a la fortaleza Antonia. En este espacio y en el pórtico de los Gentiles es donde seguramente se disponían los mercaderes de productos para los sacrificios (animales y frutos) con sus tenderetes, que eran introducidos por la puerta septentrional del templo, llamada precisamente «puerta de las Ovejas». Es aquí donde tuvo lugar la famosa expulsión de estos vendedores por Jesús y sus discípulos (<a id="a299_472"></a>[LU 173:1.1-11](/es/The_Urantia_Book/173#p1_1)).
 
 <figure id="Figure_39" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/38-fortaleza-antonia.jpg">
@@ -316,14 +318,18 @@ La misma vista de la fortaleza Antonia, pero ahora desde el oeste, se aprecia en
 <figcaption>Fig. 41 — <em>El montículo del templo desde el norte.</em></figcaption>
 </figure>
 
-En la fig. 41 se ofrece una buena vista de todo el monte del templo visto desde el norte. La muralla que aparece en primer plano es la segunda muralla norte. La puerta que se aprecia en la muralla es muy seguramente la que _El Libro de Urantia_ ([LU 187:1.4](/es/The_Urantia_Book/187#p1_4)) llama la «puerta de Damasco» (y no la puerta actual llamada «de Damasco», que se sitúa en una tercera muralla que es de época posterior a Jesús), por la que Jesús fue conducido al Gólgota.
+En la fig. 41 se ofrece una buena vista de todo el monte del templo visto desde el norte. La muralla que aparece en primer plano es la segunda muralla norte. La puerta que se aprecia en la muralla es muy seguramente la que _El Libro de Urantia_ (<a id="a320_246"></a>[LU 187:1.4](/es/The_Urantia_Book/187#p1_4)) llama la «puerta de Damasco» (y no la puerta actual llamada «de Damasco», que se sitúa en una tercera muralla que es de época posterior a Jesús), por la que Jesús fue conducido al Gólgota.
 
 <figure id="Figure_42" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/41-piscina-betesda.jpg">
 <figcaption>Fig. 42 — <em>Las piscinas de Betesda.</em></figcaption>
 </figure>
 
-la fig. 42 es la última de esta colección de imágenes sobre la maqueta del hotel Holy Land de Jerusalén. En ella se aprecia con detalle la «piscina de Betesda», dos estanques rodeados de columnas, situados cerca de la fortaleza Antonia. Este es el lugar de una curación de Jesús ([LU 147:3.1](/es/The_Urantia_Book/147#p3_1)).
+la fig. 42 es la última de esta colección de imágenes sobre la maqueta del hotel Holy Land de Jerusalén. En ella se aprecia con detalle la «piscina de Betesda», dos estanques rodeados de columnas, situados cerca de la fortaleza Antonia. Este es el lugar de una curación de Jesús (<a id="a327_280"></a>[LU 147:3.1](/es/The_Urantia_Book/147#p3_1)).
+
+## Referencias
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Holyland_Model_of_Jerusalem)
 
 
 <figure class="table chapter-navigator">

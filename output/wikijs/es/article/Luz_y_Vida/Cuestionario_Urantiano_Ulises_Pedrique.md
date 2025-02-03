@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Ulises-Pedrique.jpg" alt="Ulises Pedrique" width="250">
@@ -35,7 +56,7 @@ Sorpresa, precaución y emoción. Sorpresa y emoción, sobre todo. Pues, despué
 
 Mediante su connotación en tres palabras que yo he de considerar como mis favoritas de todos los tiempos: Dios, Jesús y Amor. Y estas tres sobreabundan en _El libro de Urantia_, pues en casi cada una de sus páginas siempre aparece una de ellas. O las tres juntas, como en este caso:
 
-«Jesús reveló un Dios de Amor, y el Amor engloba totalmente a la verdad, la belleza y la bondad.» ([LU 5:4.6](/es/The_Urantia_Book/5#p4_6))
+«Jesús reveló un Dios de Amor, y el Amor engloba totalmente a la verdad, la belleza y la bondad.» (<a id="a58_99"></a>[LU 5:4.6](/es/The_Urantia_Book/5#p4_6))
 
 Y de paso, aderezadas esta vez por estas tres más que también me gustan mucho: verdad, belleza y bondad.
 
@@ -49,13 +70,13 @@ Desde que empecé a leerlo, se convirtió en una lectura favorita, recurrente y 
 
 No podría decir que la ha cambiado, sino más bien que la ha incrementado. La ha llevado a un nivel de espiritualización practica que hace consonancia en mi mente la famosa frase del apóstol: «Si vuestra fe no mueve montañas, hacedla a un lado, pues no es una fe confiable». Ya no espero ver a Dios para saber que existe. Pues el hecho de saber que existe es como si lo viera. Y adicionalmente, existen otros seres súper inteligentes que vinieron directamente a la Tierra para decirnos que lo conocen y que dan fe de Él, de Su poder y de Su gloria. Y si nuestra mente de hecho ya ha sido espiritualizada gracias al infinito Amor y paciencia de Aquel que entregó su vida en la cruz por nosotros, ya podemos terminar nuestra experiencia terrenal en paz, sabiendo, ya con propiedad, que Dios está en, por y con nosotros, y en todo momento, lugar y circunstancia. Y esto no me lo enseñó _El libro de Urantia_, pero me actualizó el entendimiento:
 
-«No es necesario ver a Dios con los ojos de la carne, para percibirlo con la visión de la fe de la mente espiritualizada.» ([LU 1:3.3](/es/The_Urantia_Book/1#p3_3))
+«No es necesario ver a Dios con los ojos de la carne, para percibirlo con la visión de la fe de la mente espiritualizada.» (<a id="a72_124"></a>[LU 1:3.3](/es/The_Urantia_Book/1#p3_3))
 
 ## 6. ¿Hay algún punto (o puntos) de la revelación que te cueste aceptar?
 
 El punto o la parte que me cuesta aceptar es por qué aún hay tantos que no creen en estas revelaciones ni en las palabras de sabiduría que están contenidas en ellas. Pero por otra parte comprendo que todo forma parte de un proceso evolutivo que a cada uno le lleva su tiempo. Poco a poco y sin apuros, el Amor es más seguro (decía una vieja canción). Pero, para bien de nuestro conocimiento, paciencia y aplicación, ya todo está escrito. Un paso a la vez. No podemos hacer mucha presión desde donde nos encontramos ahora, ni acelerar intencionalmente la velocidad de la enseñanza:
 
-«La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales.» ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+«La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales.» (<a id="a78_285"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
@@ -71,13 +92,13 @@ Ya en mi adolescencia, aprendí que hacer algo bueno por demás incrementaba la 
 
 En algunos estudios posteriores, descubrí o comprobé también que la Voluntad de Dios para nosotros, «es perfecta dicha y completa felicidad». Aunque nunca he estado del todo perdido de que Su Voluntad principal para nosotros es que nos amemos unos a otros (¡como Él nos ama!) y que tratemos de comprendernos unos a otros también (¡y tal como Él nos comprende!). Dos cosas que, aunque parezcan, no son tan fáciles para muchos. Pero para mí, eso, más que un mandamiento o una orden, es una verdadera delicia. Una delicia que sana. Y cito de nuevo este mismo párrafo:
 
-«La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres.» ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+«La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres.» (<a id="a94_167"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 ## 9. ¿Has llegado a ser consciente de la presencia de tu Ajustador?
 
 Humildemente, les digo que no me corresponde a mí, revelar si he sido o soy realmente consciente de Su presencia. De eso pueden dar testimonio todos los seres que me rodean o que yo rodeo. _El libro de Urantia_ dice que, por ahora, y en la esfera en donde nos encontramos, somos, parcialmente conscientes. Pero, lo de la «vocecita» que te habla y te dice, por ejemplo: «este es el camino, síguelo», es una verdadera realidad. Y ahí sí puede que haya un testimonio viviente. Nada es casualidad en la vida. Miren esto:
 
-«A veces es posible que se ilumine la mente, que se escuche la voz divina que habla continuamente dentro de vosotros, de manera que podéis volveros parcialmente conscientes de la sabiduría, la verdad, la bondad y la belleza de la personalidad potencial que reside constantemente dentro de vosotros.» ([LU 109:5.2](/es/The_Urantia_Book/109#p5_2))
+«A veces es posible que se ilumine la mente, que se escuche la voz divina que habla continuamente dentro de vosotros, de manera que podéis volveros parcialmente conscientes de la sabiduría, la verdad, la bondad y la belleza de la personalidad potencial que reside constantemente dentro de vosotros.» (<a id="a100_301"></a>[LU 109:5.2](/es/The_Urantia_Book/109#p5_2))
 
 ## 10. ¿Has intentado poner en práctica las enseñanzas del Maestro? ¿Cuál ha sido el resultado?
 
@@ -101,3 +122,25 @@ Esta, hermanos y hermanas, es mi humilde opinión al respecto.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi párrafo favorito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-octubre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octubre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

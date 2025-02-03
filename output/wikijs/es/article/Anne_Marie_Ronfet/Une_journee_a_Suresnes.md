@@ -95,7 +95,7 @@ Cuando habla del Padre, Jesús habla con absoluta autoridad porque tomó concien
 
 Jesús está listo para la aventura. No tiene miedo. Está listo para seguir adelante. Es un pionero. Permitió a otros deshacerse de conceptos erróneos y asfixiantes sin revolución. Eliminó hábitos inútiles.
 
-> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ [LU 100:7.6-7](/es/The_Urantia_Book/100#p7_6)
+> _Jésus a confiance dans son Père et nous dit « Faites confiance aussi au Père, Vous pouvez lui faire confiance. »_ <a id="a97_117"></a>[LU 100:7.6-7](/es/The_Urantia_Book/100#p7_6)
 
 Fue inmune a las decepciones, por su fe liberadora, por su maestría y superación de su ego. Está dirigido a todos sin prejuicios.
 

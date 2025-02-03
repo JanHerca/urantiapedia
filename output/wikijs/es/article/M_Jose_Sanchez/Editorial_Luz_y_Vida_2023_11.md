@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-1.jpg" alt="Editorial dic-23-1" width="350">
@@ -35,7 +59,7 @@ Pues bien, los lectores de _El libro de Urantia_ aportamos esa otra cara de la m
 ¿Sabes un secreto? No estás solo/a. No importa dónde te encuentres ahora, créeme, tu Padre es más grande que cualquier circunstancia. Así lo constatamos en _El libro de Urantia_, una y otra vez.
 <br style="clear:both;"/>
 
-> Dentro de cada ser mortal de este planeta reside un fragmento de Dios, una parte integrante de la divinidad. Aún no es tuyo por derecho de posesión, pero está planeado ex profeso para ser uno contigo si sobrevives a la existencia mortal. [LU 1:4.3](/es/The_Urantia_Book/1#p4_3)
+> Dentro de cada ser mortal de este planeta reside un fragmento de Dios, una parte integrante de la divinidad. Aún no es tuyo por derecho de posesión, pero está planeado ex profeso para ser uno contigo si sobrevives a la existencia mortal. <a id="a61_240"></a>[LU 1:4.3](/es/The_Urantia_Book/1#p4_3)
 
 Él está ahí, y siempre nos espera de vuelta de nuestras distracciones con el mundo, de nuestras pérdidas de conexión y nuestros altibajos, igual que esperó al hijo pródigo.
 
@@ -51,9 +75,9 @@ Sin embargo, hay una misión o tarea mayor que esa sensación de pobreza, escase
 
 Preguntarnos, interrogarnos, hace que salgan grietas en nuestra pequeña roca, y a través de ellas entrará la luz, creceremos. Recordemos estas afirmaciones referentes a la mota morontial:
 
-> Las dificultades pueden desafiar a los mediocres y derrotar a los temerosos, pero para los verdaderos hijos de los Altísimos solo sirven de estímulo. [LU 48:7.7](/es/The_Urantia_Book/48#p7_7)
+> Las dificultades pueden desafiar a los mediocres y derrotar a los temerosos, pero para los verdaderos hijos de los Altísimos solo sirven de estímulo. <a id="a77_152"></a>[LU 48:7.7](/es/The_Urantia_Book/48#p7_7)
 > 
-> La mayor aflicción del cosmos es no haber estado nunca afligido. Los mortales solo aprenden sabiduría a través de las tribulaciones. [LU 48:7.14](/es/The_Urantia_Book/48#p7_14)
+> La mayor aflicción del cosmos es no haber estado nunca afligido. Los mortales solo aprenden sabiduría a través de las tribulaciones. <a id="a79_135"></a>[LU 48:7.14](/es/The_Urantia_Book/48#p7_14)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-2.jpg" alt="Editorial dic-23-2" width="350">
@@ -70,7 +94,7 @@ En la _Biblia_ se narra cómo Abraham escucha una voz que le indica que salga de
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-3.jpg" alt="Editorial dic-23-3" width="350">
 </figure>
 
-A las pocas semanas de morir Taré, el padre de Abraham, Melquisedec envió a uno de sus estudiantes, Jarán el Hitita, con esta invitación tanto para Abraham como para Nacor: «Venid a Salem donde escucharéis nuestras enseñanzas sobre la verdad del Creador eterno, y todo el mundo será bendecido en la progenie iluminada de los dos hermanos». [LU 93:5.5](/es/The_Urantia_Book/93#p5_5)
+A las pocas semanas de morir Taré, el padre de Abraham, Melquisedec envió a uno de sus estudiantes, Jarán el Hitita, con esta invitación tanto para Abraham como para Nacor: «Venid a Salem donde escucharéis nuestras enseñanzas sobre la verdad del Creador eterno, y todo el mundo será bendecido en la progenie iluminada de los dos hermanos». <a id="a96_340"></a>[LU 93:5.5](/es/The_Urantia_Book/93#p5_5)
 
 «Vete a donde te indicaré», dice la _Biblia_. «Venid a Salem», nos dice _El libro de Urantia_. Esa es realmente la voz de la montaña, que no quiere que nos quedemos parados en nuestra individualidad, quejándonos del barro que nos rodea o de aquella otra piedra molesta. Es una llamada realmente de retorno a Él.
 
@@ -87,11 +111,11 @@ Todo un Creador, un Dios, que baja al barro, a la materia, a sus criaturas, para
 
 Y cuando Miguel nació en Belén, ocurrió lo que no podemos concebir:
 
-Hasta ese momento había aparecido siempre como un individuo plenamente desarrollado del colectivo elegido para el otorgamiento, y todos nos emocionamos cuando se difundió desde Salvington la noticia de que el bebé de Belén había nacido en Urantia. Entonces caímos en la cuenta de que nuestro Creador y amigo estaba dando el paso más precario de toda su carrera y arriesgando aparentemente su posición y su autoridad en este otorgamiento como niño indefenso. [LU 119:7.3-4](/es/The_Urantia_Book/119#p7_3)
+Hasta ese momento había aparecido siempre como un individuo plenamente desarrollado del colectivo elegido para el otorgamiento, y todos nos emocionamos cuando se difundió desde Salvington la noticia de que el bebé de Belén había nacido en Urantia. Entonces caímos en la cuenta de que nuestro Creador y amigo estaba dando el paso más precario de toda su carrera y arriesgando aparentemente su posición y su autoridad en este otorgamiento como niño indefenso. <a id="a113_458"></a>[LU 119:7.3-4](/es/The_Urantia_Book/119#p7_3)
 
 Con esta perspectiva que nos ofrece _El libro de Urantia_ de los hechos acaecidos en Belén, podemos valorar enormemente lo que hizo nuestro querido Maestro por amor a nosotros:
 
-Josué ben José, el bebé judío, fue concebido y traído al mundo exactamente igual que todos los demás bebés anteriores y posteriores a él, salvo en una cosa: este bebé concreto era la encarnación de Miguel de Nebadon, un Hijo divino del Paraíso y el creador de todo este universo local de cosas y seres. [LU 119:7.5](/es/The_Urantia_Book/119#p7_5)
+Josué ben José, el bebé judío, fue concebido y traído al mundo exactamente igual que todos los demás bebés anteriores y posteriores a él, salvo en una cosa: este bebé concreto era la encarnación de Miguel de Nebadon, un Hijo divino del Paraíso y el creador de todo este universo local de cosas y seres. <a id="a117_303"></a>[LU 119:7.5](/es/The_Urantia_Book/119#p7_5)
 
 Un niño, un bebé judío llamado Josué ben José, nace en unos establos junto a los pesebres de las bestias. Dios no elude lo pequeño y sencillo, la sangre y la paja no le son ajenos a este ser maravilloso, creador de nuestro universo.
 
@@ -130,3 +154,28 @@ Feliz Año 2024
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2023/11/30/editorial-diciembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Diciembre 2023 — Boletín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">Mi párrafo favorito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

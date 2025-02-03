@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Luz y Vida — Junio 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Boletín de la Asociación Urantia de España
@@ -192,7 +213,7 @@ La estaca era ciertamente muy fuerte para él. Juraría que se durmió agotado, 
 
 <br style="clear:both;"/>
 
-No fue una tarea fácil para mí decidirme solo por un párrafo favorito de _El libro de Urantia_. ¡Es que este libro está tan lleno de sabiduría y de párrafos inspiradores! Sin embargo, luego de pensar, reflexionar, y sobre todo pedir una respuesta al Padre, caí en cuenta de que hay una historia a la que retorno una y otra vez. Dicha historia nunca deja de llenarme de satisfacción, inspiración y esperanza. Y es la del «joven que tenía miedo» ([LU 130:6](/es/The_Urantia_Book/130#p6)). Esta interacción sucede, recordemos, mientras Jesús está «camino a Roma» ([doc. 130](/es/The_Urantia_Book/130)), antes de su obra pública, e ilustra una de las tantas veces en las que «hacía el bien» «mientras iba de paso» ([LU 171:7.9](/es/The_Urantia_Book/171#p7_9))
+No fue una tarea fácil para mí decidirme solo por un párrafo favorito de _El libro de Urantia_. ¡Es que este libro está tan lleno de sabiduría y de párrafos inspiradores! Sin embargo, luego de pensar, reflexionar, y sobre todo pedir una respuesta al Padre, caí en cuenta de que hay una historia a la que retorno una y otra vez. Dicha historia nunca deja de llenarme de satisfacción, inspiración y esperanza. Y es la del «joven que tenía miedo» (<a id="a215_445"></a>[LU 130:6](/es/The_Urantia_Book/130#p6)). Esta interacción sucede, recordemos, mientras Jesús está «camino a Roma» ([doc. 130](/es/The_Urantia_Book/130)), antes de su obra pública, e ilustra una de las tantas veces en las que «hacía el bien» «mientras iba de paso» (<a id="a215_711"></a>[LU 171:7.9](/es/The_Urantia_Book/171#p7_9))
 
 Ya que he de elegir _un_ párrafo, permítanme compartir el primero en el que Jesús comienza a asistir al joven con sus palabras esperanzadoras:
 
@@ -254,3 +275,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2024/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Luz y Vida — Junio 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

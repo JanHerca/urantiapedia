@@ -10,13 +10,29 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Maqueronte o Machaerus es el nombre de una fortaleza habitada por Herodes Antipas donde permaneció encarcelado Juan el Bautista y donde fue decapitado.
 
 Cerca del emplazamiento de las ruinas actuales existe un poblado llamado Mukawer, nombre dado por los árabes a los restos romano bizantinos existentes. Junto a este poblado, en lo alto de una colina aislada y yerma, se alzan las ruinas de lo que debió de ser la fortaleza. El nombre que han dado los árabes al emplazamiento es Qalaat al-Mishnaqa.
 
 Esta fortaleza fue uno de los enclaves defensivos más estratégicos del estado judío en la zona de Perea en el límite con el reino nabateo. El lugar fue erigido por el asmoneo Alejandro Janeo en el 90 a.C. (BJ VII 6:2). En el 57 a.C. fue destruido una primera vez por el gobernador de Siria, Gabinio, quien fue enviado por Pompeyo para sofocar una revuelta del asmoneo Aristóbulo II. La construcción fue arrasada hasta el nivel del suelo.
 
-El palacio fue reconstruido por Herodes el Grande a partir del 30 a.C. (BJ VII 6:2-3). Después de la muerte de Herodes, su hijo Antipas lo heredó como parte de la región de Perea. En la fortaleza fue donde Juan Bautista fue encarcelado y fue matado (AJ XVIII 5:1-2,18:109-119; [Mt 14:1-12](/es/Bible/Matthew/14#v1); [Mc 6:14-29](/es/Bible/Mark/6#v14); [Lc 9:7-9](/es/Bible/Luke/9#v7); <a id="a18_385"></a>[LU 135:12.1](/es/The_Urantia_Book/135#p12_1)). Tras la muerte del rey Agripa I (44 d.C.), la fortaleza cayó bajo la directa administración de la prefectura romana.
+El palacio fue reconstruido por Herodes el Grande a partir del 30 a.C. (BJ VII 6:2-3). Después de la muerte de Herodes, su hijo Antipas lo heredó como parte de la región de Perea. En la fortaleza fue donde Juan Bautista fue encarcelado y fue matado (AJ XVIII 5:1-2,18:109-119; [Mt 14:1-12](/es/Bible/Matthew/14#v1); [Mc 6:14-29](/es/Bible/Mark/6#v14); [Lc 9:7-9](/es/Bible/Luke/9#v7); <a id="a34_385"></a>[LU 135:12.1](/es/The_Urantia_Book/135#p12_1)). Tras la muerte del rey Agripa I (44 d.C.), la fortaleza cayó bajo la directa administración de la prefectura romana.
 
 Cuando se desencadenó la revuelta judía (66 d.C.) los romanos abandonaron el fuerte en manos de los rebeldes (BJ II 18:6), quienes permanecieron allí hasta el 72 d.C., en que Maqueronte fue destruida por los romanos después de un largo asedio. La primera parte del asedio fue dirigido por el general Cereale, y después el mando pasó a Lucilio Basso. Cuando las legiones terminaron el muro (_vallus_) y la rampa de ataque (_agger_), algunos celotes traicionaron a sus compañeros y entregaron la fortaleza a los romanos (BJ VII 6).
 
@@ -65,3 +81,19 @@ La ciudad alta y baja eran accesibles desde el este a través de un puente de 15
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/maqueronte)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

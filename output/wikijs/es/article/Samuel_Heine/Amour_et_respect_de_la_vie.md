@@ -63,7 +63,7 @@ Lo bueno de las abejas es que siempre parecen iguales. Pasan los años, nos hace
 
 Como decía un amante de la naturaleza: Feliz aquel que, al anochecer, tumbado en la hierba cerca del colmenar, en compañía de su perro, escucha el canto de las abejas mezclándose con el canto de los grillos, con el sonido del viento. en los árboles, al centelleo de las estrellas, al lento avance de las nubes.
 
-> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». ([LU 194:3.18-19](/es/The_Urantia_Book/194#p3_18))
+> « _L'Esprit de Vérité est une influence mondiale universelle. Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme_ ». (<a id="a65_253"></a>[LU 194:3.18-19](/es/The_Urantia_Book/194#p3_18))
 
 Samuel Heine
 

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Luis Coll<br>© 2009 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el perdón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-19-diciembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 19 — Diciembre 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso_2">
+          <span class="pr-2">Camino del Paraíso (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## ¿Se equivocó Dios al crear este bonito planeta azul aquí colgado de la nada?
 
@@ -104,8 +128,32 @@ Los más altos sentimientos de lealtad, de amor, de paz y de progreso, muchas ve
 
 > **Si te encuentras con el éxito y el fracaso y tratas por igual a estos dos impostores, ¡entonces serás un hombre, hijo mío!** (Rudyard Kipling)
 
-> Las dificultades pueden desafiar la mediocridad y derrotar al temeroso pero sirven de estímulo para los verdaderos hijos de los Altísimos (<a id="a106_141"></a>[LU 48:7.7](/es/The_Urantia_Book/48#p7_7))
+> Las dificultades pueden desafiar la mediocridad y derrotar al temeroso pero sirven de estímulo para los verdaderos hijos de los Altísimos (<a id="a130_141"></a>[LU 48:7.7](/es/The_Urantia_Book/48#p7_7))
 
 ## Referencias
 
 - Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el perdón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-núm-19-diciembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Núm. 19 — Diciembre 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso_2">
+          <span class="pr-2">Camino del Paraíso (poema)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Luz y Vida — Julio-Agosto 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -56,9 +77,9 @@ En _El libro de Urantia_ leemos sobre Jesús de Nazaret este proceder insólito:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-Para entonces Ganid había empezado a darse cuenta de que su tutor empleaba su tiempo libre en este insólito ministerio personal a sus semejantes, y quiso averiguar el motivo de esta permanente actividad. Preguntó: «¿Por qué te dedicas todo el tiempo a hablar con extraños?». Jesús respondió: «Ganid, para alguien que conoce a Dios ningún hombre es un extraño. En la experiencia de encontrar al Padre del cielo descubres que todos los hombres son tus hermanos, y ¿qué tiene de raro regocijarse con la compañía de un hermano recién descubierto? Tratar a nuestros hermanos y hermanas, conocer sus problemas y aprender a amarlos es la experiencia suprema del vivir». [LU 130:2.6](/es/The_Urantia_Book/130#p2_6)
+Para entonces Ganid había empezado a darse cuenta de que su tutor empleaba su tiempo libre en este insólito ministerio personal a sus semejantes, y quiso averiguar el motivo de esta permanente actividad. Preguntó: «¿Por qué te dedicas todo el tiempo a hablar con extraños?». Jesús respondió: «Ganid, para alguien que conoce a Dios ningún hombre es un extraño. En la experiencia de encontrar al Padre del cielo descubres que todos los hombres son tus hermanos, y ¿qué tiene de raro regocijarse con la compañía de un hermano recién descubierto? Tratar a nuestros hermanos y hermanas, conocer sus problemas y aprender a amarlos es la experiencia suprema del vivir». <a id="a79_663"></a>[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)
 
-Esta estrecha vinculación con sus semejantes, jóvenes y viejos, judíos y gentiles, fue la que le brindó la oportunidad de conocer a la raza humana. Jesús estaba muy bien educado en el sentido de que entendía a fondo a los hombres y los amaba entrañablemente. [LU 123:5.8](/es/The_Urantia_Book/123#p5_8)
+Esta estrecha vinculación con sus semejantes, jóvenes y viejos, judíos y gentiles, fue la que le brindó la oportunidad de conocer a la raza humana. Jesús estaba muy bien educado en el sentido de que entendía a fondo a los hombres y los amaba entrañablemente. <a id="a81_259"></a>[LU 123:5.8](/es/The_Urantia_Book/123#p5_8)
 
 Vemos cómo todo un Dios creador viene a la Tierra y no se muestra avasallador en su poder supremo, sino cercano y amable, amistoso y comprensivo ante nuestros problemas y vivencias. «Entendía a fondo a los hombres y los amaba entrañablemente». Hablaba y escuchaba a toda clase de personas: caravaneros, prostitutas, un emperador, pescadores o niños pequeños. Todos los seres humanos le interesaban.
 
@@ -248,15 +269,15 @@ De entre todos los párrafos me apetece resaltar algunos que actualmente me han 
 
 En estos párrafos intento abreviar lo que entiendo como trascendente de cara a los elementos e inevitabilidades que podrían condicionar nuestro crecimiento espiritual:
 
-> … puede ocurrir que, sin culpa por vuestra parte, los accidentes del tiempo y las limitaciones de la existencia material os impidan alcanzar estos niveles en vuestro planeta natal. En ese caso, si vuestras intenciones y deseos tienen valor de supervivencia… Se os concederá tiempo adicional para demostrar vuestra valía. [LU 112:5.6](/es/The_Urantia_Book/112#p5_6)
+> … puede ocurrir que, sin culpa por vuestra parte, los accidentes del tiempo y las limitaciones de la existencia material os impidan alcanzar estos niveles en vuestro planeta natal. En ese caso, si vuestras intenciones y deseos tienen valor de supervivencia… Se os concederá tiempo adicional para demostrar vuestra valía. <a id="a271_323"></a>[LU 112:5.6](/es/The_Urantia_Book/112#p5_6)
 
-> Cuando existe alguna duda sobre la conveniencia de hacer avanzar a una identidad humana a los mundos mansión, los gobiernos del universo dictaminan invariablemente a favor del interés personal de ese individuo… mientras siguen observando la aparición de sus intenciones en la morontia y propósitos espirituales. Así se garantiza el cumplimiento de la justicia divina y se concede a la misericordia divina una nueva oportunidad de ampliar su ministerio. [LU 112:5.7](/es/The_Urantia_Book/112#p5_7)
+> Cuando existe alguna duda sobre la conveniencia de hacer avanzar a una identidad humana a los mundos mansión, los gobiernos del universo dictaminan invariablemente a favor del interés personal de ese individuo… mientras siguen observando la aparición de sus intenciones en la morontia y propósitos espirituales. Así se garantiza el cumplimiento de la justicia divina y se concede a la misericordia divina una nueva oportunidad de ampliar su ministerio. <a id="a273_455"></a>[LU 112:5.7](/es/The_Urantia_Book/112#p5_7)
 
-> … todas las criaturas con voluntad han de tener una oportunidad real de hacer una elección indubitable, plenamente consciente y definitiva… El alma humana debe tener y tendrá la oportunidad total de revelar su intención verdadera y su propósito real. [LU 112:5.9](/es/The_Urantia_Book/112#p5_9)
+> … todas las criaturas con voluntad han de tener una oportunidad real de hacer una elección indubitable, plenamente consciente y definitiva… El alma humana debe tener y tendrá la oportunidad total de revelar su intención verdadera y su propósito real. <a id="a275_253"></a>[LU 112:5.9](/es/The_Urantia_Book/112#p5_9)
 
-> … Preferimos asumir el riesgo de rebelión en un sistema antes que correr el peligro de privar a un solo mortal que lucha en cualquier mundo evolutivo de la alegría eterna de proseguir la carrera ascendente. [LU 112:5.8](/es/The_Urantia_Book/112#p5_8)
+> … Preferimos asumir el riesgo de rebelión en un sistema antes que correr el peligro de privar a un solo mortal que lucha en cualquier mundo evolutivo de la alegría eterna de proseguir la carrera ascendente. <a id="a277_209"></a>[LU 112:5.8](/es/The_Urantia_Book/112#p5_8)
 
-> «El acto es nuestro, las consecuencias de Dios.» [LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
+> «El acto es nuestro, las consecuencias de Dios.» <a id="a279_51"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
 
 Ante estas palabras del revelador he tenido que hacer un gran esfuerzo de reflexión para llegar a asumir el hecho de que el libre albedrío otorgado por el Padre no nos concede total autoridad sobre nuestro futuro (sí, pero no). Él es el Principio. Él establece las reglas del juego, las leyes que rigen el cosmos… hasta la misma ley de eutanasia espiritual donde equivocadamente pensaba que, por el hecho de disfrutar de ese libre albedrío era el responsable absoluto de mi destino, pero no es así.
 
@@ -378,3 +399,24 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2023/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Luz y Vida — Julio-Agosto 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

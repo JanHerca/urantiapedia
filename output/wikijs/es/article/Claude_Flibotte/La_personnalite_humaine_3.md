@@ -77,7 +77,7 @@ Me preguntaba, ya que el Padre me da personalidad y el Ajustador del Pensamiento
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [LU 16:8.5-14](/es/The_Urantia_Book/16#p8_5)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a79_133"></a>[LU 16:8.5-14](/es/The_Urantia_Book/16#p8_5)
 
 A través de esta información adicional, nos damos cuenta de que la autoconciencia, también llamada ego, está vinculada a la mente y a la suma cualitativa de la personalidad.
 

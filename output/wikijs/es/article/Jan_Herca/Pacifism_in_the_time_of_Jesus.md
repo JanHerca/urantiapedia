@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 En muchos libros que versan sobre la «época de Jesús» se suele estudiar únicamente el período comprendido entre las revueltas macabeas y la sublevación judía del 66 d.C. Pero está claro que este período es más extenso que el que vivió Jesús. Por eso me ha resultado especialmente satisfactorio leer el libro de H. Guevara titulado _Ambiente político del pueblo judío en tiempos de Jesús_. El autor se ciñe verdaderamente al período comprendido entre el final del reinado de Herodes (4 a.C.) y el final de la prefectura de Pilato (36 d.C.) para realizar una minuciosa investigación que más correctamente habría que titular «El nacionalismo violento y el pacífico en tiempos de Jesús». Las conclusiones de su trabajo han resultado tan interesantes y de tanta repercusión para relatar _Jesús de Nazaret_,[^1] que he decidido elaborar aquí un breve resumen.
 
 En esencia, las preguntas que se plantea Guevara quedan enunciadas en la introducción:
@@ -224,7 +240,7 @@ El pasaje resulta verdaderamente intrigante, puesto que da la sensación de que 
 
 Aunque no trato de incluir aquí _El Libro de Urantia_ como un documento histórico, puede resultar útil para configurar una nueva idea sobre estos pasajes contradictorios y dispersos que tenemos provenientes de las fuentes.
 
-El suceso de Lc 13:1-5 aparece mencionado en iguales palabras en <a id="a226_65"></a>[LU 166:4.4](/es/The_Urantia_Book/166#p4_4). No nos ofrece mucha más información sobre este suceso. Pero el pasaje que resulta extraordinariamente interesante es LU 185:1. Merece la pena reproducir aquí esta sección al completo.
+El suceso de Lc 13:1-5 aparece mencionado en iguales palabras en <a id="a242_65"></a>[LU 166:4.4](/es/The_Urantia_Book/166#p4_4). No nos ofrece mucha más información sobre este suceso. Pero el pasaje que resulta extraordinariamente interesante es LU 185:1. Merece la pena reproducir aquí esta sección al completo.
 
 > Si Poncio Pilatos no hubiera sido un gobernador razonablemente bueno de las provincias menores, Tiberio difícilmente le hubiera permitido que permaneciera diez años como procurador de Judea. Aunque era un administrador razonablemente bueno, moralmente era un cobarde. No era un hombre lo bastante grande como para comprender la naturaleza de su tarea como gobernador de los judíos. No lograba captar el hecho de que estos hebreos tenían una religión real, una fe por la que estaban dispuestos a morir, y que millones y millones de ellos, dispersos aquí y allá por todo el imperio, consideraban a Jerusalén como el santuario de su fe y respetaban al sanedrín como el tribunal más alto de la tierra.
 > Pilatos no amaba a los judíos, y este odio profundo empezó a manifestarse muy pronto. De todas las provincias romanas, ninguna era más difícil de gobernar que Judea. Pilatos nunca comprendió realmente los problemas implicados en la administración de los judíos y por esta razón, desde el principio de su experiencia como gobernador, cometió una serie de errores descomunales casi fatales y prácticamente suicidas. Estos errores fueron los que dieron a los judíos tanto poder sobre él. Cuando querían influir sobre sus decisiones, todo lo que tenían que hacer era amenazarlo con una insurrección, y Pilatos capitulaba rápidamente. Esta indecisión aparente, o falta de valor moral del procurador, se debía principalmente al recuerdo de una serie de controversias que había tenido con los judíos, y en cada caso habían sido ellos los que habían vencido. Los judíos sabían que Pilatos les tenía miedo, que temía por su posición ante Tiberio, y emplearon este conocimiento en gran perjuicio del gobernador en numerosas ocasiones.
@@ -234,7 +250,7 @@ El suceso de Lc 13:1-5 aparece mencionado en iguales palabras en <a id="a226_65"
 > Es significativo constatar que, aunque este gobernante romano indeciso sacrificó a Jesús por miedo a los judíos y para salvaguardar su posición personal, finalmente fue destituido a consecuencia de una matanza innecesaria de samaritanos en relación con las pretensiones de un falso Mesías que había conducido unas tropas al Monte Gerizim, donde pretendía que estaban enterradas las vasijas del templo; y estallaron unos violentos motines cuando no logró revelar el escondite de las vasijas sagradas, tal como había prometido. A consecuencia de este episodio, el legado de Siria ordenó a Pilatos que volviera a Roma. Tiberio murió mientras Pilatos iba camino de Roma, y no se le nombró de nuevo procurador de Judea. Nunca se recuperó por completo de la lamentable condena que hizo al haber consentido la crucifixión de Jesús. Como no encontró ningún favor a los ojos del nuevo emperador, se retiró a la provincia de Lausana, donde posteriormente se suicidó.
 > Claudia Prócula, la mujer de Pilatos, había oído hablar mucho de Jesús por boca de su criada, una fenicia que creía en el evangelio del reino. Después de la muerte de Pilatos, Claudia se identificó de manera sobresaliente con la difusión de la buena nueva.
 > Todo esto explica una gran parte de lo que sucedió este trágico viernes por la mañana. Es fácil comprender por qué los judíos se atrevían a darle órdenes a Pilatos —a hacer que se levantara a las seis de la mañana para juzgar a Jesús— y también por qué no dudaron en amenazarlo con acusarlo de traición ante el emperador si se atrevía a rehusar sus peticiones de ejecutar a Jesús.
-> Un gobernador romano digno, que no hubiera estado implicado de manera desfavorable con los dirigentes de los judíos, nunca hubiera permitido que estos fanáticos religiosos sedientos de sangre provocaran la muerte de un hombre que él mismo había declarado sin falta e inocente de las falsas acusaciones. Roma cometió una gran equivocación, un error trascendental en los asuntos terrestres, cuando envió al mediocre Pilatos como gobernador de Palestina. Tiberio debería haber enviado a los judíos el mejor administrador provincial del imperio. <a id="a236_544"></a>[LU 185:1.1-9](/es/The_Urantia_Book/185#p1_1)
+> Un gobernador romano digno, que no hubiera estado implicado de manera desfavorable con los dirigentes de los judíos, nunca hubiera permitido que estos fanáticos religiosos sedientos de sangre provocaran la muerte de un hombre que él mismo había declarado sin falta e inocente de las falsas acusaciones. Roma cometió una gran equivocación, un error trascendental en los asuntos terrestres, cuando envió al mediocre Pilatos como gobernador de Palestina. Tiberio debería haber enviado a los judíos el mejor administrador provincial del imperio. <a id="a252_544"></a>[LU 185:1.1-9](/es/The_Urantia_Book/185#p1_1)
 
 Según _El Libro de Urantia_ ocurrieron una buena cantidad de disturbios durante el gobierno de Poncio Pilato. Sin embargo, hubo cuatro de especial importancia, tres de ellos mencionados de forma idéntica por Flavio Josefo y uno mencionado igual por Filón.
 
@@ -246,7 +262,7 @@ El tercero fue la utilización de dinero sagrado del templo, sin autorización d
 
 El cuarto, que provocó la destitución de Pilato, ocurrió después de la muerte de Jesús, y fue una masacre de samaritanos.
 
-Sobre el suceso de los galileos, tiendo a elaborar mi propia hipótesis. Probablemente estos galileos, o todos o algunos de ellos, eran seguidores de la «cuarta secta», la de los zelotes, y habían ocasionado algún disturbio al acceder al templo, posiblemente increpando a los soldados que se situaban a las puertas. Esto provocó la ira del prefecto, que ya de por sí estaba muy caldeada con el asunto del dinero del templo, y en un arrebato de cólera mandó que los ejecutasen allí mismo, junto al altar. Al final murieron algunos galileos sin culpa alguna, motivo por el que Jesús habla de ellos como «pecadores». En realidad nadie los consideraba tales, sino que Jesús parece estar usando la típica expresión de que al final «pagan justos por pecadores». En _El Libro de Urantia_, el discurso de Jesús está recogido de forma más completa en <a id="a248_841"></a>[LU 166:4](/es/The_Urantia_Book/166#p4), y habla de que las «desdichas humanas no tienen relación con el pecado o con Dios», sino que son fruto de la casualidad muchas veces.
+Sobre el suceso de los galileos, tiendo a elaborar mi propia hipótesis. Probablemente estos galileos, o todos o algunos de ellos, eran seguidores de la «cuarta secta», la de los zelotes, y habían ocasionado algún disturbio al acceder al templo, posiblemente increpando a los soldados que se situaban a las puertas. Esto provocó la ira del prefecto, que ya de por sí estaba muy caldeada con el asunto del dinero del templo, y en un arrebato de cólera mandó que los ejecutasen allí mismo, junto al altar. Al final murieron algunos galileos sin culpa alguna, motivo por el que Jesús habla de ellos como «pecadores». En realidad nadie los consideraba tales, sino que Jesús parece estar usando la típica expresión de que al final «pagan justos por pecadores». En _El Libro de Urantia_, el discurso de Jesús está recogido de forma más completa en <a id="a264_841"></a>[LU 166:4](/es/The_Urantia_Book/166#p4), y habla de que las «desdichas humanas no tienen relación con el pecado o con Dios», sino que son fruto de la casualidad muchas veces.
 
 ## En resumen
 

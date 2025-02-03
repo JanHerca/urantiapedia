@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01">
+          <span class="pr-2">Luz y Vida — Febrero 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
@@ -37,7 +58,7 @@ En encuentros y foros «urantianos» es frecuente que los lectores hablemos de c
 
 En este grupo tan heterogéneo de lectores de todo el mundo y que podríamos etiquetar como «buscadores espirituales», existe un ansia de descubrir la realidad última y lograr alcanzar ese extraordinario mandato que resuena en los universos:
 
-«Sed perfectos como yo soy perfecto.» [LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
+«Sed perfectos como yo soy perfecto.» <a id="a60_38"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
 
 No todos respondemos de la misma manera a esta llamada que nos hace desde el interior nuestro Ajustador divino. En consonancia con ello, no todos interpretamos y leemos _El libro de Urantia_ de la misma forma.
 
@@ -169,7 +190,7 @@ El monje, sonriendo, le respondió que la naturaleza del escorpión es la de pic
 Encuentro en _El libro de Urantia_ verdaderas enseñanzas para la vida presente y futura, para entender la razón de ser de la vida; pero una cita en especial logra aclarar de una forma sencilla para qué estoy aquí y me dice claramente cómo hacerlo.
 <br style="clear:both;"/>
 
-> Vuestra breve estancia en Urantia, en esta esfera de infancia de los mortales, es solo un eslabón, el primerísimo de la larga cadena que ha de extenderse a través de los universos y a lo largo de las edades eternas. Lo importante no es tanto lo que se aprende en esta primera vida sino la experiencia de vivirla. Incluso el trabajo en este mundo, aunque primordial, no es ni mucho menos tan importante como la manera de hacerlo. No hay recompensa material para el recto vivir, pero hay una satisfacción profunda —una consciencia de logro— que trasciende toda recompensa material concebible. [LU 39:4.13](/es/The_Urantia_Book/39#p4_13)
+> Vuestra breve estancia en Urantia, en esta esfera de infancia de los mortales, es solo un eslabón, el primerísimo de la larga cadena que ha de extenderse a través de los universos y a lo largo de las edades eternas. Lo importante no es tanto lo que se aprende en esta primera vida sino la experiencia de vivirla. Incluso el trabajo en este mundo, aunque primordial, no es ni mucho menos tan importante como la manera de hacerlo. No hay recompensa material para el recto vivir, pero hay una satisfacción profunda —una consciencia de logro— que trasciende toda recompensa material concebible. <a id="a192_593"></a>[LU 39:4.13](/es/The_Urantia_Book/39#p4_13)
 
 La cita 39:4.13 dice que no es tanto lo que aprenda, sino la experiencia de vivir la vida lo que importa, siendo consciente de la forma en que la vivo. Me llena de esperanza comprender que el plan divino no requiere conocimientos especiales para la vida, sino conciencia de los logros por la forma en que la vivo.
 
@@ -246,3 +267,25 @@ Todos los trabajos y noticias de los lectores y de los grupos de estudio son bie
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2024/)
 - [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01">
+          <span class="pr-2">Luz y Vida — Febrero 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

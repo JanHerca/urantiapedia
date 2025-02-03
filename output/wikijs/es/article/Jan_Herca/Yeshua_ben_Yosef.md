@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Estamos tan acostumbrados a llamar al Maestro «Jesús» que se nos olvida, que en la lengua que él utilizó en su tiempo, su verdadero nombre, vocalizado correctamente, sonaría tal y como se pronuncia este otro: «_Yeshua ben Yosef_».
 
 En hebreo _Yeshua_ significa «La salvación» o «Yavé salva», y es una contracción de _Yahoshua_, que significa «El Señor que es la Salvación». Sin embargo, Jesús no tiene ningún significado en castellano ni en el resto de idiomas latinos o anglosajones. En este sentido, los nombres hebreos, al estilo de los nombres de otros pueblos, tenían un significado, y con gran frecuencia, este significado era religioso.
@@ -49,6 +65,22 @@ Por último, una imagen de cómo se escribían en arameo las cuatro letras de Ye
 - Philip R. Davies, George J. Brooke y Phillip R. Callaway, _Los rollos del Mar Muerto y su mundo_, Alianza Editorial, 2002.
 
 - [Yeshua, Jesus real name](http://www.thenazareneway.com/yeshua_jesus_real_name.htm)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

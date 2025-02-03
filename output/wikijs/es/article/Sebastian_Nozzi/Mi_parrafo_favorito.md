@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sebastián Nozzi<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Cuestionario Urantiano: Luis Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
@@ -16,11 +40,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-No fue una tarea fácil para mí decidirme solo por un párrafo favorito de _El libro de Urantia_. ¡Es que este libro está tan lleno de sabiduría y de párrafos inspiradores! Sin embargo, luego de pensar, reflexionar, y sobre todo pedir una respuesta al Padre, caí en cuenta de que hay una historia a la que retorno una y otra vez. Dicha historia nunca deja de llenarme de satisfacción, inspiración y esperanza. Y es la del «joven que tenía miedo» ([LU 130:6](/es/The_Urantia_Book/130#p6)). Esta interacción sucede, recordemos, mientras Jesús está «camino a Roma» ([doc. 130](/es/The_Urantia_Book/130)), antes de su obra pública, e ilustra una de las tantas veces en las que «hacía el bien» «mientras iba de paso» ([LU 171:7.9](/es/The_Urantia_Book/171#p7_9))
+No fue una tarea fácil para mí decidirme solo por un párrafo favorito de _El libro de Urantia_. ¡Es que este libro está tan lleno de sabiduría y de párrafos inspiradores! Sin embargo, luego de pensar, reflexionar, y sobre todo pedir una respuesta al Padre, caí en cuenta de que hay una historia a la que retorno una y otra vez. Dicha historia nunca deja de llenarme de satisfacción, inspiración y esperanza. Y es la del «joven que tenía miedo» (<a id="a42_445"></a>[LU 130:6](/es/The_Urantia_Book/130#p6)). Esta interacción sucede, recordemos, mientras Jesús está «camino a Roma» ([doc. 130](/es/The_Urantia_Book/130)), antes de su obra pública, e ilustra una de las tantas veces en las que «hacía el bien» «mientras iba de paso» (<a id="a42_711"></a>[LU 171:7.9](/es/The_Urantia_Book/171#p7_9))
 
 Ya que he de elegir _un_ párrafo, permítanme compartir el primero en el que Jesús comienza a asistir al joven con sus palabras esperanzadoras:
 
-> _Ya a esta altura el joven sentía muchos deseos de hablar con Jesús, y cayó a sus pies de rodillas implorando a Jesús que lo ayudara, que le mostrara el camino para escapar de su mundo de pena y derrota personales. Jesús le dijo: «Amigo mío, ¡levántate! ¡Ponte de pie como un hombre! Puede que te rodeen enemigos insignificantes y que muchos obstáculos obstruyan tu marcha, pero las grandes cosas y las cosas reales de este mundo y del universo están de tu parte. El sol sale todas las mañanas para saludarte a ti como al hombre más poderoso y próspero de la tierra. Mira —tienes un cuerpo fuerte y músculos poderosos— tu físico es mejor que el del hombre promedio. Por supuesto, prácticamente no sirve para nada mientras te quedes sentado aquí en las montañas, lamentándote de tus infortunios, reales o inventados. Pero podrías hacer grandes cosas con tu cuerpo si te apuraras adonde hay grandes cosas por hacer. Tratas de huir de tu ser infeliz; pero eso no puede ocurrir. Tanto tú como tus problemas del vivir son reales; no podrás escapar de ellos mientras estés vivo. Pero, piensa otra vez, verás que tu mente es clara y capaz. Tu cuerpo robusto tiene una mente inteligente que lo dirige. Pon tu mente a trabajar para resolver sus problemas; enseña a tu intelecto a que trabaje para ti; no te dejes más dominar por el temor, como si fueras un animal que no piensa. Tu mente debe ser tu aliado valiente para la solución de los problemas de tu vida en vez de ser tú, como lo has sido, su abyecto esclavo atemorizado, siervo de la depresión y la derrota. Pero lo más valioso de todo, tu potencial para del logro verdadero, es el espíritu que vive dentro de ti, que estimulará e inspirará tu mente para que se controle a sí misma y active a tu cuerpo, si lo liberas de las cadenas del temor, permitiendo así que tu naturaleza espiritual comience a liberarte de los males de la inacción mediante el poder-presencia de la fe viviente. Verás entonces que esta fe derrotará el miedo a los hombres mediante la presencia apremiante del nuevo y tododominante amor por tus semejantes que pronto llenará tu alma hasta rebasarla gracias a la conciencia que habrá nacido en tu corazón de que eres un hijo de Dios»_. [LU 130:6.3](/es/The_Urantia_Book/130#p6_3)
+> _Ya a esta altura el joven sentía muchos deseos de hablar con Jesús, y cayó a sus pies de rodillas implorando a Jesús que lo ayudara, que le mostrara el camino para escapar de su mundo de pena y derrota personales. Jesús le dijo: «Amigo mío, ¡levántate! ¡Ponte de pie como un hombre! Puede que te rodeen enemigos insignificantes y que muchos obstáculos obstruyan tu marcha, pero las grandes cosas y las cosas reales de este mundo y del universo están de tu parte. El sol sale todas las mañanas para saludarte a ti como al hombre más poderoso y próspero de la tierra. Mira —tienes un cuerpo fuerte y músculos poderosos— tu físico es mejor que el del hombre promedio. Por supuesto, prácticamente no sirve para nada mientras te quedes sentado aquí en las montañas, lamentándote de tus infortunios, reales o inventados. Pero podrías hacer grandes cosas con tu cuerpo si te apuraras adonde hay grandes cosas por hacer. Tratas de huir de tu ser infeliz; pero eso no puede ocurrir. Tanto tú como tus problemas del vivir son reales; no podrás escapar de ellos mientras estés vivo. Pero, piensa otra vez, verás que tu mente es clara y capaz. Tu cuerpo robusto tiene una mente inteligente que lo dirige. Pon tu mente a trabajar para resolver sus problemas; enseña a tu intelecto a que trabaje para ti; no te dejes más dominar por el temor, como si fueras un animal que no piensa. Tu mente debe ser tu aliado valiente para la solución de los problemas de tu vida en vez de ser tú, como lo has sido, su abyecto esclavo atemorizado, siervo de la depresión y la derrota. Pero lo más valioso de todo, tu potencial para del logro verdadero, es el espíritu que vive dentro de ti, que estimulará e inspirará tu mente para que se controle a sí misma y active a tu cuerpo, si lo liberas de las cadenas del temor, permitiendo así que tu naturaleza espiritual comience a liberarte de los males de la inacción mediante el poder-presencia de la fe viviente. Verás entonces que esta fe derrotará el miedo a los hombres mediante la presencia apremiante del nuevo y tododominante amor por tus semejantes que pronto llenará tu alma hasta rebasarla gracias a la conciencia que habrá nacido en tu corazón de que eres un hijo de Dios»_. <a id="a46_2208"></a>[LU 130:6.3](/es/The_Urantia_Book/130#p6_3)
 
 Lo que me llama poderosamente la atención es que Jesús no rechaza los recursos «seculares» que empleamos nosotros en resolver nuestros problemas de índole psicológica/emocional. Mucho de lo que inicialmente dice y sugiere podría venir de practicantes del estoicismo, el budismo o la psicología (posiblemente del tipo cognitiva conductual, o incluso de la psicología positiva).
 
@@ -47,3 +71,28 @@ Muchas gracias.
 
 - [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
 - [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/2024/05/31/mi-parrafo-favorito-30/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Junio 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-junio-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Junio 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Cuestionario Urantiano: Luis Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
