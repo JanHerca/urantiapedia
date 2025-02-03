@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — December 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-1.jpg" alt="Editorial dic-23-1" width="350">
@@ -35,7 +59,7 @@ Well, readers of _The Urantia Book_ bring that other side of the coin, that dept
 Do you know a secret? You are not alone. No matter where you are now, believe me, your Father is bigger than any circumstance. We confirm this in _The Urantia Book_, again and again.
 <br style="clear:both;"/>
 
-> When you are through down here, when your course has been run in temporary form on earth, when your trial trip in the flesh is finished, when the dust that composes the mortal tabernacle “returns to the earth whence it came”; then, it is revealed, the indwelling “Spirit shall return to God who gave it.” There sojourns within each moral being of this planet a fragment of God, a part and parcel of divinity. It is not yet yours by right of possession, but it is designedly intended to be one with you if you survive the mortal existence. ([UB 1:4.3](/en/The_Urantia_Book/1#p4_3))
+> When you are through down here, when your course has been run in temporary form on earth, when your trial trip in the flesh is finished, when the dust that composes the mortal tabernacle “returns to the earth whence it came”; then, it is revealed, the indwelling “Spirit shall return to God who gave it.” There sojourns within each moral being of this planet a fragment of God, a part and parcel of divinity. It is not yet yours by right of possession, but it is designedly intended to be one with you if you survive the mortal existence. (<a id="a61_542"></a>[UB 1:4.3](/en/The_Urantia_Book/1#p4_3))
 
 He is there, and He always waits for us to return from our distractions with the world, from our losses of connection and our ups and downs, just as He waited for the prodigal son.
 
@@ -51,9 +75,9 @@ How do we get out of the limitation of the rock? Many times there may come a tim
 
 Wondering, questioning ourselves, causes cracks to appear in our small rock, and through them the light will enter, we will grow. Let us remember these statements regarding the morontial mote:
 
-> Difficulties may challenge the mediocre and defeat the fearful, but for the true children of the Most High they only serve as a stimulus. [UB 48:7.7](/en/The_Urantia_Book/48#p7_7)
+> Difficulties may challenge the mediocre and defeat the fearful, but for the true children of the Most High they only serve as a stimulus. <a id="a77_140"></a>[UB 48:7.7](/en/The_Urantia_Book/48#p7_7)
 > 
->The greatest affliction in the cosmos is never to have been afflicted. Mortals only learn wisdom through tribulations. [UB 48:7.14](/en/The_Urantia_Book/48#p7_14)
+>The greatest affliction in the cosmos is never to have been afflicted. Mortals only learn wisdom through tribulations. <a id="a79_120"></a>[UB 48:7.14](/en/The_Urantia_Book/48#p7_14)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-2.jpg" alt="Editorial dic-23-2" width="350">
@@ -70,7 +94,7 @@ In the _Bible_ it is narrated how Abraham hears a voice that tells him to leave 
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-3.jpg" alt="Editorial dic-23-3" width="350">
 </figure>
 
-Within weeks of the death of Abraham's father Terah, Melchizedek sent one of his students, Haran the Hittite, with this invitation to both Abraham and Nahor: “Come to Salem where you will hear our teachings about the truth of the eternal Creator, and the whole world will be blessed in the enlightened progeny of the two brothers.” [UB 93:5.5](/en/The_Urantia_Book/93#p5_5)
+Within weeks of the death of Abraham's father Terah, Melchizedek sent one of his students, Haran the Hittite, with this invitation to both Abraham and Nahor: “Come to Salem where you will hear our teachings about the truth of the eternal Creator, and the whole world will be blessed in the enlightened progeny of the two brothers.” <a id="a96_332"></a>[UB 93:5.5](/en/The_Urantia_Book/93#p5_5)
 
 “Go where I direct you,” says the _Bible_. “Come to Salem,” _The Urantia Book_ tells us. That is really the voice of the mountain, which does not want us to remain stuck in our individuality, complaining about the mud around us or that other annoying stone. It is really a call back to Him.
 
@@ -87,11 +111,11 @@ A true Creator, a God, who descends into the mud, into matter, into his creature
 
 And when Michael was born in Bethlehem, something happened that we cannot conceive:
 
-Up to this time he had always appeared as a fully developed individual of the collective chosen for the bestowal, and we were all thrilled when the news spread from Salvington that the babe of Bethlehem had been born on Urantia. It then dawned on us that our Creator and friend was taking the most precarious step of his entire career and apparently jeopardizing his position and authority in this bestowal as a helpless child. [UB 119:7.3-4](/en/The_Urantia_Book/119#p7_3)
+Up to this time he had always appeared as a fully developed individual of the collective chosen for the bestowal, and we were all thrilled when the news spread from Salvington that the babe of Bethlehem had been born on Urantia. It then dawned on us that our Creator and friend was taking the most precarious step of his entire career and apparently jeopardizing his position and authority in this bestowal as a helpless child. <a id="a113_428"></a>[UB 119:7.3-4](/en/The_Urantia_Book/119#p7_3)
 
 With this perspective that _The Urantia Book_ offers us of the events that occurred in Bethlehem, we can greatly appreciate what our beloved Master did out of love for us:
 
-Joshua ben Joseph, the Jewish baby, was conceived and brought into the world exactly like all other babies before and after him, save for one thing: this particular baby was the incarnation of Michael of Nebadon, a divine Son of Paradise and the creator of this entire local universe of things and beings. [UB 119:7.5](/en/The_Urantia_Book/119#p7_5)
+Joshua ben Joseph, the Jewish baby, was conceived and brought into the world exactly like all other babies before and after him, save for one thing: this particular baby was the incarnation of Michael of Nebadon, a divine Son of Paradise and the creator of this entire local universe of things and beings. <a id="a117_306"></a>[UB 119:7.5](/en/The_Urantia_Book/119#p7_5)
 
 A child, a Jewish baby named Joshua ben Joseph, is born in stables next to the mangers of the beasts. God does not avoid the small and simple, blood and straw are not foreign to this wonderful being, creator of our universe.
 
@@ -130,3 +154,28 @@ Happy New Year 2024
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/11/30/editorial-diciembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — December 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

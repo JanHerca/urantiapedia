@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentations from the 19th Urantia Book Readers' Meeting in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Wash ourselves in silence
 
@@ -45,7 +69,7 @@ Silence heals because it connects us with what we are, it returns us to unity wi
 
 The blue book reminds us to stop and be silent:
 
-> The mechanistic naturalism of some supposedly educated men and the thoughtless secularism of the man in the street are both exclusively concerned with *things;* they are barren of all real values, sanctions, and satisfactions of a spiritual nature, as well as being devoid of faith, hope, and eternal assurances. One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion. ([UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
+> The mechanistic naturalism of some supposedly educated men and the thoughtless secularism of the man in the street are both exclusively concerned with *things;* they are barren of all real values, sanctions, and satisfactions of a spiritual nature, as well as being devoid of faith, hope, and eternal assurances. One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion. (<a id="a71_455"></a>[UB 195:6.7](/en/The_Urantia_Book/195#p6_7))
 
 This beautiful phrase by Tagore also reminds us of the importance of stopping and being silent:
 
@@ -65,21 +89,21 @@ It is a good idea to remember the opening words of the book. In the Prologue, th
 
 <br style="clear:both;"/>
 
-> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. (<a id="a91_587"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 This fundamental work formulated by the blue book in its beginnings would not be possible if thousands of new, groundbreaking, expansive ideas were not fixed in the text. A text that can be reread hundreds of times, underlined, highlighted on paper. A text that, each time it is read in **silent dialogue**, is better understood, it is captured in greater nuances that cannot be glimpsed in a first reading.
 
 The revealers know that this very unusual communication that is established in reading, an intimate and **silent** act, is going to be possible not only because of the book itself, but also because of the internal presence of a divine spark. Therein lies the key to understanding the text:
 
-Although you may have to wait to reach the highest finite levels of spiritual progression to approach the Father's Paradise presence, you should rejoice in recognizing the **ever-present** possibility of immediate communion with the Father's bestowed spirit that so intimately associates with your inner soul and spiritualizing self. [UB 5:1.3](/en/The_Urantia_Book/5#p1_3), bold added
+Although you may have to wait to reach the highest finite levels of spiritual progression to approach the Father's Paradise presence, you should rejoice in recognizing the **ever-present** possibility of immediate communion with the Father's bestowed spirit that so intimately associates with your inner soul and spiritualizing self. <a id="a97_334"></a>[UB 5:1.3](/en/The_Urantia_Book/5#p1_3), bold added
 
 Faced with differences of opinion about what a word or a turn of phrase in _The Urantia Book_ says or doesn't say, in this October when we once again celebrate the publication of the book, let's return to our interior, to our impregnable island and listen to the silence. Let's put the noisy mind aside and enjoy listening to the silence.
 
 The text published 68 years ago is a door that, once opened, once we pass to the other side, we realize that it is an instrument that leads us to discover that **the most important thing** of all is LOVE. Although everything is really a door, everything is open to reach our fundamental essence, which is loving. A loving essence that is reflected in our daily actions, in our encounters with readers, in life in general.
 
-> The consciousness of the dominion of the spirit in a human life is soon accompanied by an ever-increasing **manifestation** of the characteristics of the Spirit in the behavior of the Spirit-led mortal, “for the fruits of the spirit are love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and self-control.” Such mortals **led** by the divine illumination of the spirit, while still treading the humble paths of hard work and performing with human loyalty the obligations of their earthly trusts, have already begun to perceive the lights of eternal life glimmering on the remote shores of another world... [UB 34:6.13](/en/The_Urantia_Book/34#p6_13), bold added
+> The consciousness of the dominion of the spirit in a human life is soon accompanied by an ever-increasing **manifestation** of the characteristics of the Spirit in the behavior of the Spirit-led mortal, “for the fruits of the spirit are love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and self-control.” Such mortals **led** by the divine illumination of the spirit, while still treading the humble paths of hard work and performing with human loyalty the obligations of their earthly trusts, have already begun to perceive the lights of eternal life glimmering on the remote shores of another world... <a id="a103_629"></a>[UB 34:6.13](/en/The_Urantia_Book/34#p6_13), bold added
 > 
-> It is not enough that this spirit has been poured out upon you; the divine Spirit must dominate and control **every aspect of human experience**. [UB 34:6.7](/en/The_Urantia_Book/34#p6_7), bold added
+> It is not enough that this spirit has been poured out upon you; the divine Spirit must dominate and control **every aspect of human experience**. <a id="a105_148"></a>[UB 34:6.7](/en/The_Urantia_Book/34#p6_7), bold added
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-3.jpg" alt="Editorial oct 23 -3" width="350">
@@ -89,7 +113,7 @@ Let us go through the door that is _The Urantia Book_, let us discover through i
 
 <br style="clear:both;"/>
 
-> One of the reasons why Peter, James, and John, who so often accompanied Jesus on his long night vigils, never heard Jesus pray, was because their Master so rarely uttered his prayers as spoken words. Practically all of Jesus’ praying was done in the spirit and in the heart—silently. ([UB 144:4.10](/en/The_Urantia_Book/144#p4_10))
+> One of the reasons why Peter, James, and John, who so often accompanied Jesus on his long night vigils, never heard Jesus pray, was because their Master so rarely uttered his prayers as spoken words. Practically all of Jesus’ praying was done in the spirit and in the heart—silently. (<a id="a115_287"></a>[UB 144:4.10](/en/The_Urantia_Book/144#p4_10))
 
 Nobody said that life was easy, but here we are, and we are accompanied by the best traveling companion. And it's true that **we are never alone**.
 
@@ -103,3 +127,28 @@ Nobody said that life was easy, but here we are, and we are accompanied by the b
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/09/28/editorial-octubre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentations from the 19th Urantia Book Readers' Meeting in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Mario Alonso Puig<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/La-serenidad.jpg" alt="La serenidad" width="350">
@@ -35,3 +59,28 @@ The king explained to them what he so wanted to convey to his son the prince:
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/navegando-por-la-vida-la-serenidad/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

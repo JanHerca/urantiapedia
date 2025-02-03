@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="pr-2">Luz y Vida — March 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter 
 
@@ -167,11 +188,11 @@ Neither of the characters had ever seen themselves reflected in a mirror, not kn
 
 There are many interesting paragraphs that have stuck in my memory, but some that have been “haunting” me recently are the following: 
 
-Today, the profit-motivated economy is doomed to failure unless profit motives can be overcome by service motives. Ruthless competition based on narrow-minded selfishness eventually destroys the very thing it seeks to maintain. The selfish and exclusive profit motive is incompatible with Christian ideals—far more incompatible with the teachings of Jesus. [UB 71:6.1](/en/The_Urantia_Book/71#p6_1) 
+Today, the profit-motivated economy is doomed to failure unless profit motives can be overcome by service motives. Ruthless competition based on narrow-minded selfishness eventually destroys the very thing it seeks to maintain. The selfish and exclusive profit motive is incompatible with Christian ideals—far more incompatible with the teachings of Jesus. <a id="a190_357"></a>[UB 71:6.1](/en/The_Urantia_Book/71#p6_1) 
 
-The profit motive is to the service motive in economics what fear is to love in religion. But the profit motive is not to be suddenly destroyed or eliminated; it keeps many otherwise lazy mortals hard at work. This exciter of social energy need not, however, be perennially selfish in its objectives. [UB 71:6.2](/en/The_Urantia_Book/71#p6_2) 
+The profit motive is to the service motive in economics what fear is to love in religion. But the profit motive is not to be suddenly destroyed or eliminated; it keeps many otherwise lazy mortals hard at work. This exciter of social energy need not, however, be perennially selfish in its objectives. <a id="a192_301"></a>[UB 71:6.2](/en/The_Urantia_Book/71#p6_2) 
 
-The profit motive in economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor during the early phases of civilization. The profit motive is not to be taken away from men until they have provided solid higher types of nonprofit motives for economic endeavor and social service—the transcendent striving for superlative wisdom, fascinating brotherhood, and the excellence of spiritual attainment. [UB 71:6.3](/en/The_Urantia_Book/71#p6_3) 
+The profit motive in economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor during the early phases of civilization. The profit motive is not to be taken away from men until they have provided solid higher types of nonprofit motives for economic endeavor and social service—the transcendent striving for superlative wisdom, fascinating brotherhood, and the excellence of spiritual attainment. <a id="a194_474"></a>[UB 71:6.3](/en/The_Urantia_Book/71#p6_3) 
 <br style="clear:both;"/> 
 
 [Read more](/en/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito) 
@@ -262,3 +283,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="pr-2">Luz y Vida — March 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

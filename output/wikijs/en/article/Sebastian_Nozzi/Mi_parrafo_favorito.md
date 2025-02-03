@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sebastián Nozzi<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — June 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Urantia Questionnaire: Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
@@ -16,11 +40,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-It was not an easy task for me to decide on just one favorite paragraph from _The Urantia Book_. This book is so full of wisdom and inspiring paragraphs! However, after thinking, reflecting, and above all asking the Father for an answer, I realized that there is a story that I return to again and again. This story never fails to fill me with satisfaction, inspiration, and hope. And it is that of the “young man who was afraid” ([UB 130:6](/en/The_Urantia_Book/130#p6)). This interaction happens, remember, while Jesus is “on the way to Rome” ([doc. 130](/en/The_Urantia_Book/130)), before his public work, and illustrates one of the many times in which he “did good” “while passing through” ([UB 171:7.9](/en/The_Urantia_Book/171#p7_9)).
+It was not an easy task for me to decide on just one favorite paragraph from _The Urantia Book_. This book is so full of wisdom and inspiring paragraphs! However, after thinking, reflecting, and above all asking the Father for an answer, I realized that there is a story that I return to again and again. This story never fails to fill me with satisfaction, inspiration, and hope. And it is that of the “young man who was afraid” (<a id="a42_431"></a>[UB 130:6](/en/The_Urantia_Book/130#p6)). This interaction happens, remember, while Jesus is “on the way to Rome” ([doc. 130](/en/The_Urantia_Book/130)), before his public work, and illustrates one of the many times in which he “did good” “while passing through” (<a id="a42_695"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)).
 
 Since I have to choose _one_ paragraph, let me share the first one in which Jesus begins to assist the young man with his hopeful words:
 
-> _By this time the young man very much desired to talk with Jesus, and he knelt at his feet imploring Jesus to help him, to show him the way of escape from his world of personal sorrow and defeat. Said Jesus: “My friend, arise! Stand up like a man! You may be surrounded with small enemies and be retarded by many obstacles, but the big things and the real things of this world and the universe are on your side. The sun rises every morning to salute you just as it does the most powerful and prosperous man on earth. Look—you have a strong body and powerful muscles—your physical equipment is better than the average. Of course, it is just about useless while you sit out here on the mountainside and grieve over your misfortunes, real and fancied. But you could do great things with your body if you would hasten off to where great things are waiting to be done. You are trying to run away from your unhappy self, but it cannot be done. You and your problems of living are real; you cannot escape them as long as you live. But look again, your mind is clear and capable. Your strong body has an intelligent mind to direct it. Set your mind at work to solve its problems; teach your intellect to work for you; refuse longer to be dominated by fear like an unthinking animal. Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat. But most valuable of all, your potential of real achievement is the spirit which lives within you, and which will stimulate and inspire your mind to control itself and activate the body if you will release it from the fetters of fear and thus enable your spiritual nature to begin your deliverance from the evils of inaction by the power-presence of living faith. And then, forthwith, will this faith vanquish fear of men by the compelling presence of that new and all-dominating *love of your fellows* which will so soon fill your soul to overflowing because of the consciousness which has been born in your heart that you are a child of God._ ([UB 130:6.3](/en/The_Urantia_Book/130#p6_3))
+> _By this time the young man very much desired to talk with Jesus, and he knelt at his feet imploring Jesus to help him, to show him the way of escape from his world of personal sorrow and defeat. Said Jesus: “My friend, arise! Stand up like a man! You may be surrounded with small enemies and be retarded by many obstacles, but the big things and the real things of this world and the universe are on your side. The sun rises every morning to salute you just as it does the most powerful and prosperous man on earth. Look—you have a strong body and powerful muscles—your physical equipment is better than the average. Of course, it is just about useless while you sit out here on the mountainside and grieve over your misfortunes, real and fancied. But you could do great things with your body if you would hasten off to where great things are waiting to be done. You are trying to run away from your unhappy self, but it cannot be done. You and your problems of living are real; you cannot escape them as long as you live. But look again, your mind is clear and capable. Your strong body has an intelligent mind to direct it. Set your mind at work to solve its problems; teach your intellect to work for you; refuse longer to be dominated by fear like an unthinking animal. Your mind should be your courageous ally in the solution of your life problems rather than your being, as you have been, its abject fear-slave and the bond servant of depression and defeat. But most valuable of all, your potential of real achievement is the spirit which lives within you, and which will stimulate and inspire your mind to control itself and activate the body if you will release it from the fetters of fear and thus enable your spiritual nature to begin your deliverance from the evils of inaction by the power-presence of living faith. And then, forthwith, will this faith vanquish fear of men by the compelling presence of that new and all-dominating *love of your fellows* which will so soon fill your soul to overflowing because of the consciousness which has been born in your heart that you are a child of God._ (<a id="a46_2113"></a>[UB 130:6.3](/en/The_Urantia_Book/130#p6_3))
 
 What really catches my attention is that Jesus does not reject the “secular” resources that we use to solve our psychological/emotional problems. Much of what he initially says and suggests could come from practitioners of Stoicism, Buddhism or psychology (possibly of the cognitive behavioral type, or even positive psychology).
 
@@ -47,3 +71,28 @@ Thank you so much.
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/05/31/mi-parrafo-favorito-30/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — June 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Urantia Questionnaire: Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

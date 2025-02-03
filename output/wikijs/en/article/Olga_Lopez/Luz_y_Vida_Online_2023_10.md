@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Luz y Vida — November 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
@@ -184,9 +205,9 @@ Naturally he had lost his sight forever. But how beautiful his face became! Much
 
 **The difficult legacy that the Master left us**
 
-**An eye for an eye**, a tooth for a tooth, a life for a life... is the vengeful attitude of retaliation that society adopted in primitive times and that all tribes in the process of evolution followed (Cf [UB 70:10.9](/en/The_Urantia_Book/70#p10_9)). Much later, this recognition was put in writing and considered the law of Moses.
+**An eye for an eye**, a tooth for a tooth, a life for a life... is the vengeful attitude of retaliation that society adopted in primitive times and that all tribes in the process of evolution followed (Cf <a id="a207_206"></a>[UB 70:10.9](/en/The_Urantia_Book/70#p10_9)). Much later, this recognition was put in writing and considered the law of Moses.
 
-Jesus' response to this supposed law of Moses - which he totally disapproved of, since he rejected any concept of resentment or private revenge (Cf [UB 140:8.5](/en/The_Urantia_Book/140#p8_5)) - was: “Your rule is not to be measure for measure... You shall return good for evil” ([UB 140:6.9](/en/The_Urantia_Book/140#p6_9)). He dared to propose the novel idea of “doing something positive to save the evildoer instead of following the old principle of retaliation” ([UB 159:5.11](/en/The_Urantia_Book/159#p5_11)). “My disciples must not only stop doing evil, but learn to do good” ([UB 156:2.7](/en/The_Urantia_Book/156#p2_7)). Jesus abhorred both the idea of revenge and the idea of resignation to being a passive victim of injustice. So he boldly proposed this third way to the conflict.
+Jesus' response to this supposed law of Moses - which he totally disapproved of, since he rejected any concept of resentment or private revenge (Cf <a id="a209_148"></a>[UB 140:8.5](/en/The_Urantia_Book/140#p8_5)) - was: “Your rule is not to be measure for measure... You shall return good for evil” (<a id="a209_280"></a>[UB 140:6.9](/en/The_Urantia_Book/140#p6_9)). He dared to propose the novel idea of “doing something positive to save the evildoer instead of following the old principle of retaliation” (<a id="a209_467"></a>[UB 159:5.11](/en/The_Urantia_Book/159#p5_11)). “My disciples must not only stop doing evil, but learn to do good” (<a id="a209_583"></a>[UB 156:2.7](/en/The_Urantia_Book/156#p2_7)). Jesus abhorred both the idea of revenge and the idea of resignation to being a passive victim of injustice. So he boldly proposed this third way to the conflict.
 <br style="clear:both;"/>
 
 [Read more](/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
@@ -267,3 +288,24 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2023/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Luz y Vida — November 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — July-August 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentations from the 20th Urantia Book Readers' Meeting in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Manuel Vicent in his latest book, A Particular Story, tells us these beautiful words at the beginning:
 
@@ -18,7 +42,7 @@ Certainly, those four strings to which the Spanish writer alludes are fundamenta
 
 Those of us who read _The Urantia Book_ know the difficulties that material life has, especially in a decimal world, in rebellion, without the help of a physical planetary government and, on many occasions, with the predominance of our instinctive part over our highest part. It is true that there are many human beings who only aspire to be born, grow, reproduce and die; to reproduce the incessant race of the hamster, which leads nowhere. Now, _The Urantia Book_ tells us:
 
-> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. ([UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
+> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. (<a id="a44_627"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-1.jpg" alt="Editorial agosto-24-1" width="350">
@@ -31,7 +55,7 @@ This crucial dilemma that we human beings of the 21st century have was analyzed 
 Something quite difficult because in letters, in a written text, it is difficult to capture the emotions and the hugs, the glances and smiles, the dialogues at meals and the laughter, the words shared in hallways and in the meeting room, the conversations and debates of the “Comanche territory” on Saturday or the dialogues and debates of each group in the different workshops. How can we transmit to you the spirit of harmony, love and joy that we have experienced that weekend and that has “recharged our spiritual batteries”? With that high spirit we have been able to return home to different parts of Spain and continue showing the world, in our small area, the teachings of our beloved Master. That is what it is about: working in the “vineyard”, in the world, in our environment and **showing with actions what is inside us**.
 <br style="clear:both;"/>
 
-> Jesus put the spirit of positive action into the passive doctrines of the Jewish religion. In the place of negative compliance with ceremonial requirements, Jesus enjoined the positive doing of that which his new religion required of those who accepted it. Jesus’ religion consisted not merely in *believing,* but in actually *doing,* those things which the gospel required. He did not teach that the essence of his religion consisted in social service, but rather that social service was one of the certain effects of the possession of the spirit of true religion. ([UB 159:5.8](/en/The_Urantia_Book/159#p5_8))
+> Jesus put the spirit of positive action into the passive doctrines of the Jewish religion. In the place of negative compliance with ceremonial requirements, Jesus enjoined the positive doing of that which his new religion required of those who accepted it. Jesus’ religion consisted not merely in *believing,* but in actually *doing,* those things which the gospel required. He did not teach that the essence of his religion consisted in social service, but rather that social service was one of the certain effects of the possession of the spirit of true religion. (<a id="a57_569"></a>[UB 159:5.8](/en/The_Urantia_Book/159#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-2.jpg" alt="Editorial agosto 24-2" width="350">
@@ -63,3 +87,28 @@ https://www.youtube.com/watch?v=zQ0fb0mu4p4
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — July-August 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Presentations from the 20th Urantia Book Readers' Meeting in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -64,7 +64,7 @@ Gradually I freed myself from material, spiritual and intellectual constraints a
 
 I gradually understood that the Urantia Book expands and clarifies the many difficult-to-understand teachings and concepts of the Bible; that the apparent conflicts between the Bible and science arise from the various theological doctrines and interpretations. I became aware of the precious contribution of the Bible to the progressive awakening of humanity so that it can welcome and appreciate the revelations offered by spiritual personalities. And above all, I received the conclusion of the book as a lesson in humility in realizing that Christianity, religions and sects combined, have struggled and still struggle to make known the message of Christ to the best of their ability. What was my joy to learn that the truths of the gospel will persist gloriously thanks to new educators who will dare to depend solely on Jesus and his incomparable teachings to devote themselves to the spiritual regeneration of humanity!
 
-For five years that I have been walking on this path of experiences dedicated to doing the will of God with all my heart, a new awareness of strength and spiritual joy accompanies me each day, a living and growing faith, in a benevolent and friendly spiritual world which is an answer to my demanding and sincere quest for God! and I have discovered by seeking and finding my own truths, by nourishing my personal relationship with the Spirit of God, “_a dynamic and sublime peace, this peace which surpasses all human understanding, this cosmic balance which denotes the absence of all doubt and all agitation._” <a id="a65_614"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
+For five years that I have been walking on this path of experiences dedicated to doing the will of God with all my heart, a new awareness of strength and spiritual joy accompanies me each day, a living and growing faith, in a benevolent and friendly spiritual world which is an answer to my demanding and sincere quest for God! and I have discovered by seeking and finding my own truths, by nourishing my personal relationship with the Spirit of God, “_a dynamic and sublime peace, this peace which surpasses all human understanding, this cosmic balance which denotes the absence of all doubt and all agitation._” <a id="a66_614"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
 
 This strength, this peace, this balance, I cherish them and I share them with pilgrims seeking truth like me, by leading courses within the framework of the ubis, by participating in spiritual meetings and discussions, by visiting elderly and isolated people, by serving and by loving!
 
@@ -74,7 +74,7 @@ This confidence and assurance in eternal and universal realities constantly nour
 
 A flight towards spiritual freedom and a total commitment to universal love without borders or prejudices, this is what the Urantia Book means to me, with this injunction from our Master Christ Jesus imprinted in my soul:
 
-“Dedicate your life to proving that love is the greatest thing in the world.” <a id="a75_78"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
+“Dedicate your life to proving that love is the greatest thing in the world.” <a id="a76_78"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
 
 
 

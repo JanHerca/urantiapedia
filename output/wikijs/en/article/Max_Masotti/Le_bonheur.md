@@ -74,7 +74,7 @@ Happiness is the joy of existing fully and completely, the joy of being here and
 
 Happiness is not a destination, it is a trajectory. It takes so little to be happy. You just have to appreciate each little moment and sanctify it as one of the best moments of your life. If happiness is the agreement between our desires and the order of the world, then it is better to modify our desires. (Descartes)
 
-See <a id="a75_4"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5) — <a id="a75_50"></a>[UB 111:4.7](/en/The_Urantia_Book/111#p4_7) — <a id="a75_96"></a>[UB 131:3.7](/en/The_Urantia_Book/131#p3_7) — <a id="a75_142"></a>[UB 136:6.10](/en/The_Urantia_Book/136#p6_10) — <a id="a75_190"></a>[UB 140:4.10](/en/The_Urantia_Book/140#p4_10) — <a id="a75_238"></a>[UB 140:5.6](/en/The_Urantia_Book/140#p5_6) — <a id="a75_284"></a>[UB 159:3.10](/en/The_Urantia_Book/159#p3_10) — <a id="a75_332"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12) — <a id="a75_380"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
+See <a id="a76_4"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5) — <a id="a76_50"></a>[UB 111:4.7](/en/The_Urantia_Book/111#p4_7) — <a id="a76_96"></a>[UB 131:3.7](/en/The_Urantia_Book/131#p3_7) — <a id="a76_142"></a>[UB 136:6.10](/en/The_Urantia_Book/136#p6_10) — <a id="a76_190"></a>[UB 140:4.10](/en/The_Urantia_Book/140#p4_10) — <a id="a76_238"></a>[UB 140:5.6](/en/The_Urantia_Book/140#p5_6) — <a id="a76_284"></a>[UB 159:3.10](/en/The_Urantia_Book/159#p3_10) — <a id="a76_332"></a>[UB 159:3.12](/en/The_Urantia_Book/159#p3_12) — <a id="a76_380"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
 
 Max Masotti
 

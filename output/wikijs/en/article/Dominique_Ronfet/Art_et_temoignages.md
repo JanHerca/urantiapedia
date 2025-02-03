@@ -40,7 +40,7 @@ A new section to invite you to share with everyone a piece of music, a book, a p
 
 I am tempted to speak here of a “mental” experience, in the sense of the definition of it in the Introduction:
 
-> 2. *Mind.* The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level. (<a id="a41_249"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
+> 2. *Mind.* The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level. (<a id="a42_249"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8))
 
 But what does this have to do with the Urantia Papers?
 
@@ -70,11 +70,11 @@ The titles of certain movements may also make you want to explore this work:
 
 It represents for me a wonderful attempt to reproduce 'heavenly music', even if:
 
-> _The best music of Urantia is just a fleeting echo of the magnificent strains heard by the celestial associates of your musicians, who left but snatches of these harmonies of morontia forces on record as the musical melodies of sound harmonics. Spirit-morontia music not infrequently employs all seven modes of expression and reproduction, so that the human mind is tremendously handicapped in any attempt to reduce these melodies of the higher spheres to mere notes of musical sound. Such an effort would be something like endeavoring to reproduce the strains of a great orchestra by means of a single musical instrument._ (<a id="a71_627"></a>[UB 44:1.14](/en/The_Urantia_Book/44#p1_14))
+> _The best music of Urantia is just a fleeting echo of the magnificent strains heard by the celestial associates of your musicians, who left but snatches of these harmonies of morontia forces on record as the musical melodies of sound harmonics. Spirit-morontia music not infrequently employs all seven modes of expression and reproduction, so that the human mind is tremendously handicapped in any attempt to reduce these melodies of the higher spheres to mere notes of musical sound. Such an effort would be something like endeavoring to reproduce the strains of a great orchestra by means of a single musical instrument._ (<a id="a72_627"></a>[UB 44:1.14](/en/The_Urantia_Book/44#p1_14))
 
 Isn't this effort of art to express the unspeakable the highest form of expression possible?
 
-> _While you have assembled some beautiful melodies on Urantia, you have not progressed musically nearly so far as many of your neighboring planets in Satania. If Adam and Eve had only survived, then would you have had music in reality; but the gift of harmony, so large in their natures, has been so diluted by strains of unmusical tendencies that only once in a thousand mortal lives is there any great appreciation of harmonics. But be not discouraged; some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. It is literally true, “melody has power a whole world to transform.” Forever, music will remain the universal language of men, angels, and spirits. Harmony is the speech of Havona._ (<a id="a75_873"></a>[UB 44:1.15](/en/The_Urantia_Book/44#p1_15))
+> _While you have assembled some beautiful melodies on Urantia, you have not progressed musically nearly so far as many of your neighboring planets in Satania. If Adam and Eve had only survived, then would you have had music in reality; but the gift of harmony, so large in their natures, has been so diluted by strains of unmusical tendencies that only once in a thousand mortal lives is there any great appreciation of harmonics. But be not discouraged; some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. It is literally true, “melody has power a whole world to transform.” Forever, music will remain the universal language of men, angels, and spirits. Harmony is the speech of Havona._ (<a id="a76_873"></a>[UB 44:1.15](/en/The_Urantia_Book/44#p1_15))
 
 But now it's your turn.
 

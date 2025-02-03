@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — July-August 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
@@ -34,7 +55,7 @@ Certainly, those four strings to which the Spanish writer alludes are fundamenta
 
 Those of us who read _The Urantia Book_ know the difficulties that material life has, especially in a decimal world, in rebellion, without the help of a physical planetary government and, on many occasions, with the predominance of our instinctive part over our highest part. It is true that there are many human beings who only aspire to be born, grow, reproduce and die; to reproduce the incessant race of the hamster, which leads nowhere. Now, _The Urantia Book_ tells us:
 
-> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. ([UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
+> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. (<a id="a57_627"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07)
 
@@ -158,3 +179,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — July-August 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — December 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
@@ -225,7 +246,7 @@ Only God is enough.
 Two of my favorite paragraphs refer to the concept that Jesus taught about the kingdom of heaven and the spiritual and personal transformation of the individual: “The kingdom of heaven is within you.”
 <br style="clear:both;"/>
 
-> At different times and in varying circumstances it appears that Jesus may have presented numerous concepts of the “kingdom” in his public teachings, but to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, “The kingdom is within you.” ([UB 170:1.13](/en/The_Urantia_Book/170#p1_13))
+> At different times and in varying circumstances it appears that Jesus may have presented numerous concepts of the “kingdom” in his public teachings, but to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, “The kingdom is within you.” (<a id="a248_384"></a>[UB 170:1.13](/en/The_Urantia_Book/170#p1_13))
 
 [Read more](/en/article/Luis_Coll/Mi_parrafo_favorito)
 
@@ -303,3 +324,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/2536/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — December 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

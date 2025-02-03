@@ -48,7 +48,7 @@ I felt for this beautiful person a powerful feeling of brotherhood coupled with 
 
 His account is also proof that the expansion of cosmic consciousness and the enhancement of spiritual perception are at work in the teachings of _The Urantia Book_ and enable the Spirit of Truth and the Thought Adjusters to work more effectively in the spiritualization of the human mind.
 
-> “Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution.” (<a id="a49_384"></a>[UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
+> “Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution.” (<a id="a50_384"></a>[UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
 
 Georges Michelson-Dupont
 
@@ -58,7 +58,7 @@ Other edifying and similar testimonies show that the teachings of the _Urantia B
 
 Guy Stéphane leads a course on booklet 83: “Primitive religion” and we present with his permission and after the testimonies of Ade, Arnaud and Guy Stépahane on their respective countries some questions and answers which illustrate once again this hold of fear on the African mind but also the superstitions which are still current in our Western world.
 
-> “2. Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul.” (<a id="a59_153"></a>[UB 48:7.4](/en/The_Urantia_Book/48#p7_4))
+> “2. Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul.” (<a id="a60_153"></a>[UB 48:7.4](/en/The_Urantia_Book/48#p7_4))
 
 
 

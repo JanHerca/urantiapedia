@@ -147,7 +147,7 @@ Are you coming for a drink?
 
 \- Okay. I will just end with this strange passage which reminds us that the soul must take the witness, when the intellect has reached the end of its possibilities.
 
-> “_Mind knows quantity, reality, meanings. But quality—values—is *felt.* That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes._” (<a id="a148_186"></a>[[UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
+> “_Mind knows quantity, reality, meanings. But quality—values—is *felt.* That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes._” (<a id="a149_186"></a>[[UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
 
 
 

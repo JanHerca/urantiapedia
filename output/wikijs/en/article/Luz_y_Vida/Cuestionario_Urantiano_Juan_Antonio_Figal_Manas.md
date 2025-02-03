@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Cuestionario.jpg" alt="Cuestionario urantiano" width="350">
@@ -67,3 +88,25 @@ I feel very proud that from above they have placed their trust in me regarding t
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/02/28/cuestionario-urantiano-5/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

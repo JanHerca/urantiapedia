@@ -46,7 +46,7 @@ Dominique R.
 
 Concerning this gift of Personality, several approaches are proposed to us. I will start from the definition of personality as it is presented to us in this short passage from the introduction:
 
-> Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities. (<a id="a47_375"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
+> Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities. (<a id="a48_375"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
 
 — Mmmmm...so what? »
 
@@ -82,7 +82,7 @@ We are as if asleep within ourselves, and the mental tool that we use to develop
 
 They are completely natural and are even essential. Humor and the sense of play that is life can help us to bear this tension between what we are and what is expected of us, what we are called to become.
 
-From our point of view it seems to me that our Personality can be considered as a motor which seeks to actualize (realize) us through its work of unification on the “other factors of our individuality” (<a id="a83_203"></a>[UB 5:6.6](/en/The_Urantia_Book/5#p6_6)).
+From our point of view it seems to me that our Personality can be considered as a motor which seeks to actualize (realize) us through its work of unification on the “other factors of our individuality” (<a id="a84_203"></a>[UB 5:6.6](/en/The_Urantia_Book/5#p6_6)).
 
 And then we are like tightrope walkers in the making... of ourselves.
 
@@ -95,7 +95,7 @@ Nothing new under the sun, we find in the booklets an explanation of what others
 
 — We must listen as much as we act.
 
-If we do not develop our ability to listen to what is foreign to us, our intellectual and artistic curiosity and thus maintain our desire to seek ourselves, we will not be able to be open to this circuit of Personality. And therefore to think... for ourselves. We will only repeat the same “magic” phrases in a loop, the same modes of thought, in a hypnotic way, which our primitive mind adores. Let us be creative with ourselves, let us learn self-awareness! (<a id="a96_461"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9)).
+If we do not develop our ability to listen to what is foreign to us, our intellectual and artistic curiosity and thus maintain our desire to seek ourselves, we will not be able to be open to this circuit of Personality. And therefore to think... for ourselves. We will only repeat the same “magic” phrases in a loop, the same modes of thought, in a hypnotic way, which our primitive mind adores. Let us be creative with ourselves, let us learn self-awareness! (<a id="a97_461"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9)).
 
 This is the only way we can get closer to our Creator.
 

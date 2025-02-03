@@ -111,9 +111,9 @@ I personally deplore the fact that the Swiss were only represented by a single, 
 
 Would they have fallen asleep in the sweetness of the shadow of their mountains in eternal meditation? God alone knows and perhaps also the Seven Supreme Executive Agents.
 
-(For those who doubt this, please consult the UB in <a id="a112_52"></a>[UB 17:1.3](/en/The_Urantia_Book/17#p1_3)).
+(For those who doubt this, please consult the UB in <a id="a113_52"></a>[UB 17:1.3](/en/The_Urantia_Book/17#p1_3)).
 
-Throughout the study, we were able to realize that the application of the Spirit of Truth in our daily actions was a divine and active presence which had to be listened to seriously and put into practice as often as possible, although we all know that this Spirit is limited in its functions and its power by the personal receptivity of men (<a id="a114_342"></a>[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)).
+Throughout the study, we were able to realize that the application of the Spirit of Truth in our daily actions was a divine and active presence which had to be listened to seriously and put into practice as often as possible, although we all know that this Spirit is limited in its functions and its power by the personal receptivity of men (<a id="a115_342"></a>[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)).
 
 It is fair to note that from these meetings emerges an osmosis and a fraternity which, I am convinced, is surely due to our celestial angelic friends and certainly also to this Spirit of Truth bestowed by our Creator Son.
 
@@ -129,7 +129,7 @@ It was with a weeping heart that the group from Avignon was the first to leave, 
 
 A little quote from UB to console us:
 
-> _Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ (<a id="a130_452"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
+> _Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, “This is the way.”_ (<a id="a131_452"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
 
 Max Masotti.
 

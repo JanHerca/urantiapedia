@@ -29,6 +29,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 ## Model of the Holy Land West Hotel in Jerusalem 
 
+This Holy Land Hotel model is a model of Second Temple Jerusalem. It is 1:50 scale and has an area of ​​2000 m². It was commissioned in 1966 by Hans Kroch, the owner of the Holy Land Hotel, and designed by Israeli historian and geographer Michael Avi Yonah based on the writings of Josephus and other historical sources. Opened in 1966, it was moved to the Israel Museum in 2006, to a new location.
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center"> 
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/00-map-jerusalem.jpg"> 
 <figcaption>Fig. 1 — <em>Map of Jerusalem in the 1st century AD</em></figcaption> 
@@ -110,14 +112,14 @@ According to Josephus, the Roman general Titus destroyed the entire city but cho
 <figcaption>Fig. 11 — <em>The garden area of ​​the Tomb.</em></figcaption> 
 </figure>
 
-The Garden Tomb, shown in Fig. 11, is a present-day site where Jesus' tomb is believed to have been. However, although this location has some plausibility with the site described in _The Urantia Book_, being a place located in the new quarter, to the north, where the book tells us that Joseph of Arimathea owned a garden ([UB 188:1.2](/en/The_Urantia_Book/188#p1_2)), the reality is that this is where the coincidences end. As can be seen in the model, which reflects the present physiognomy of the tomb[^2], the surroundings are not shown correctly, since this should have been a lush plantation full of trees and vegetables, with some bunkers. Therefore, the model has too many buildings and lacks vegetation, stone walls and paths. But even more importantly, the Garden Tomb does not face east but is oriented north-south, and it is not placed in the model on the eastern side of a road; instead, the only road provided in the model runs west of the tomb ([UB 189:4.6](/en/The_Urantia_Book/189#p4_6)). It is highly unlikely that the famous Garden Tomb was the burial place of Jesus. 
+The Garden Tomb, shown in Fig. 11, is a present-day site where Jesus' tomb is believed to have been. However, although this location has some plausibility with the site described in _The Urantia Book_, being a place located in the new quarter, to the north, where the book tells us that Joseph of Arimathea owned a garden (<a id="a114_323"></a>[UB 188:1.2](/en/The_Urantia_Book/188#p1_2)), the reality is that this is where the coincidences end. As can be seen in the model, which reflects the present physiognomy of the tomb[^2], the surroundings are not shown correctly, since this should have been a lush plantation full of trees and vegetables, with some bunkers. Therefore, the model has too many buildings and lacks vegetation, stone walls and paths. But even more importantly, the Garden Tomb does not face east but is oriented north-south, and it is not placed in the model on the eastern side of a road; instead, the only road provided in the model runs west of the tomb (<a id="a114_960"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)). It is highly unlikely that the famous Garden Tomb was the burial place of Jesus. 
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/11-fortaleza-antonia.jpg">
 <figcaption>Fig. 12 — <em>The Crucifixion Site, or Golgotha, where the Chapel of the Holy Sepulchre is located, with the Antonia Fortress in the background.</em></figcaption> 
 </figure> 
 
-Fig. 12 and 13 show the rock of Golgotha, where crucifixions, including that of Jesus, took place. It was located outside the city walls and to the right of the Ephraim Road. As can be seen, the distance separating the Antonia Fortress from Golgotha, the route that the crucified ones had to take when carrying the cross, was not very far. According to _The Urantia Book_, this location cannot possibly be correct ([UB 187:1.4](/en/The_Urantia_Book/187#p1_4)). Golgotha ​​should be outside the city walls, yes, but much further north, for we are told that they left through the Damascus Gate and traveled a stretch of the northern road to reach Golgotha. The present Damascus Gate should not confuse the reader, for it is located in the third northern wall, which was built long after Jesus. It is clear that the present chapel of the Holy Sepulchre has nothing to do with the site of Jesus' crucifixion, but rather with the replacement of an ancient temple to Aphrodite with a Christian temple. 
+Fig. 12 and 13 show the rock of Golgotha, where crucifixions, including that of Jesus, took place. It was located outside the city walls and to the right of the Ephraim Road. As can be seen, the distance separating the Antonia Fortress from Golgotha, the route that the crucified ones had to take when carrying the cross, was not very far. According to _The Urantia Book_, this location cannot possibly be correct (<a id="a121_415"></a>[UB 187:1.4](/en/The_Urantia_Book/187#p1_4)). Golgotha ​​should be outside the city walls, yes, but much further north, for we are told that they left through the Damascus Gate and traveled a stretch of the northern road to reach Golgotha. The present Damascus Gate should not confuse the reader, for it is located in the third northern wall, which was built long after Jesus. It is clear that the present chapel of the Holy Sepulchre has nothing to do with the site of Jesus' crucifixion, but rather with the replacement of an ancient temple to Aphrodite with a Christian temple. 
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center"> 
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/12-golgota.jpg"> 
@@ -213,7 +215,7 @@ In Fig. 25, to the south, you can also see the so-called Freedmen synagogue and 
 <figcaption>Fig. 26 — <em>The Pool of Siloam.</em></figcaption> 
 </figure> 
 
-The preceding figure shows in detail the Pool of Siloam, where a blind man received his sight through Jesus ([UB 164:3.8](/en/The_Urantia_Book/164#p3_8)). I have already said that I find its appearance somewhat strange, and I pictured it as a non-elevated pool, situated more at street level, collecting water from a channel through which the rainwater of the Tyropeon flowed. It is very strange that the blind man should be sent by Jesus to an elevated pool. How could he be expected to climb the stairs by himself? 
+The preceding figure shows in detail the Pool of Siloam, where a blind man received his sight through Jesus (<a id="a217_109"></a>[UB 164:3.8](/en/The_Urantia_Book/164#p3_8)). I have already said that I find its appearance somewhat strange, and I pictured it as a non-elevated pool, situated more at street level, collecting water from a channel through which the rainwater of the Tyropeon flowed. It is very strange that the blind man should be sent by Jesus to an elevated pool. How could he be expected to climb the stairs by himself? 
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-center"> 
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/26-hipodromo.jpg"> 
@@ -269,7 +271,7 @@ Fig. 33 shows the Royal Stoa, above the Basilica or Portico Regius, viewed from 
 <figcaption>Fig. 34 — <em>The temple sanctuary, with the “Court of Women” in the foreground, seen from the east.</em></figcaption> 
 </figure>
 
-Fig. 34 shows the sanctuary enclosure of the Temple, surrounded first by a fence or soreg (with warning messages for non-Jews not to cross it), and then by a wall with towers and adjacent chambers for priestly offices. The semicircular steps lead to the gate called Nicanor's Gate, made of shining bronze. Some believe that this gate is the same one that [Acts 3:2](/en/Bible/Acts_of_the_Apostles/3#v2) calls “Beautiful Gate”, , but according to the description in _The Urantia Book_ ([UB 162:4.3](/en/The_Urantia_Book/162#p4_3)) the “Beautiful Gate” would correspond to the eastern gate of the sacred precinct.
+Fig. 34 shows the sanctuary enclosure of the Temple, surrounded first by a fence or soreg (with warning messages for non-Jews not to cross it), and then by a wall with towers and adjacent chambers for priestly offices. The semicircular steps lead to the gate called Nicanor's Gate, made of shining bronze. Some believe that this gate is the same one that [Acts 3:2](/en/Bible/Acts_of_the_Apostles/3#v2) calls “Beautiful Gate”, , but according to the description in _The Urantia Book_ (<a id="a273_485"></a>[UB 162:4.3](/en/The_Urantia_Book/162#p4_3)) the “Beautiful Gate” would correspond to the eastern gate of the sacred precinct.
 
 The courtyard in the foreground is the women's courtyard, where women were allowed access. The second courtyard, where the Sanctuary stood, was the priests' courtyard, where only men were allowed access. The Sanctuary, the immense building 60 meters high! that stood out in the middle of the entire city, was only accessible to priests and only for certain rituals. The immense entrance gate was covered by a large veil (not in the model) that hung on the outside. Similar veils were placed inside separating what was called the _sanctasanctorum_, a place reserved only once a year for the high priest, and where it was believed that God himself was present. 
 
@@ -295,7 +297,7 @@ Fig. 35 shows the same enclosure from another angle, with the only eastern door 
 <figcaption>Fig. 38 — <em>The Court of the Gentiles and the Antonia fortress, seen from the southeast.</em></figcaption> 
 </figure>
 
-In Fig. 38 one can see the atrium and the Portico of the Gentiles, next to the Antonia fortress. It was in this space and in the Portico of the Gentiles that the merchants of sacrificial goods (animals and fruits) probably set up their stalls, which were introduced through the northern gate of the temple, precisely called the “Sheep Gate.” It was here that the famous expulsion of these sellers by Jesus and his disciples took place ([UB 173:1.1-11](/en/The_Urantia_Book/173#p1_1)). 
+In Fig. 38 one can see the atrium and the Portico of the Gentiles, next to the Antonia fortress. It was in this space and in the Portico of the Gentiles that the merchants of sacrificial goods (animals and fruits) probably set up their stalls, which were introduced through the northern gate of the temple, precisely called the “Sheep Gate.” It was here that the famous expulsion of these sellers by Jesus and his disciples took place (<a id="a299_436"></a>[UB 173:1.1-11](/en/The_Urantia_Book/173#p1_1)). 
 
 <figure id="Figure_39" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/38-fortaleza-antonia.jpg">
@@ -316,14 +318,18 @@ The same view of the Antonia Fortress, but now from the west, can be seen in fig
 <figcaption>Fig. 41 — <em>The Temple Mound from the north.</em></figcaption> 
 </figure> 
 
-Fig. 41 offers a good view of the entire Temple Mount seen from the north. The wall in the foreground is the second northern wall. The gate in the wall is most likely the one that _The Urantia Book_ ([UB 187:1.4](/en/The_Urantia_Book/187#p1_4)) called the “Damascus Gate” (not the current gate called “Damascus,” which is located in a third wall that dates back to after Jesus), through which Jesus was led to Golgotha.
+Fig. 41 offers a good view of the entire Temple Mount seen from the north. The wall in the foreground is the second northern wall. The gate in the wall is most likely the one that _The Urantia Book_ (<a id="a320_200"></a>[UB 187:1.4](/en/The_Urantia_Book/187#p1_4)) called the “Damascus Gate” (not the current gate called “Damascus,” which is located in a third wall that dates back to after Jesus), through which Jesus was led to Golgotha.
 
 <figure id="Figure_42" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/41-piscina-betesda.jpg">
 <figcaption>Fig. 42 — <em>The Pools of Bethesda.</em></figcaption> 
 </figure> 
 
-Fig. 42 is the last in this collection of images of the model of the Holy Land Hotel in Jerusalem. It shows in detail the “Pool of Bethesda,” two columned pools located near the Antonia fortress. This is the site of a healing by Jesus ([UB 147:3.1](/en/The_Urantia_Book/147#p3_1)).
+Fig. 42 is the last in this collection of images of the model of the Holy Land Hotel in Jerusalem. It shows in detail the “Pool of Bethesda,” two columned pools located near the Antonia fortress. This is the site of a healing by Jesus (<a id="a327_236"></a>[UB 147:3.1](/en/The_Urantia_Book/147#p3_1)).
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Holyland_Model_of_Jerusalem)
 
 
 <figure class="table chapter-navigator">

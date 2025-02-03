@@ -52,11 +52,11 @@ In order to create a document reflecting the approach of previous revelations ab
 
 Here are two quotes that guided us in our work:
 
-> “But it is only foolish to attempt the too sudden acceleration of religious growth. A race or nation can only assimilate from any advanced religion that which is reasonably consistent and compatible with its current evolutionary status, plus its genius for adaptation. Social, climatic, political, and economic conditions are all influential in determining the course and progress of religious evolution. Social morality is not determined by religion, that is, by evolutionary religion; rather are the forms of religion dictated by the racial morality.” (<a id="a53_557"></a>[UB 92:2.4](/en/The_Urantia_Book/92#p2_4))
+> “But it is only foolish to attempt the too sudden acceleration of religious growth. A race or nation can only assimilate from any advanced religion that which is reasonably consistent and compatible with its current evolutionary status, plus its genius for adaptation. Social, climatic, political, and economic conditions are all influential in determining the course and progress of religious evolution. Social morality is not determined by religion, that is, by evolutionary religion; rather are the forms of religion dictated by the racial morality.” (<a id="a54_557"></a>[UB 92:2.4](/en/The_Urantia_Book/92#p2_4))
 
 And the second:
 
-> “2. *Intellectual cross-fertilization.* Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love.” (<a id="a57_467"></a>[UB 52:6.4](/en/The_Urantia_Book/52#p6_4))
+> “2. *Intellectual cross-fertilization.* Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love.” (<a id="a58_467"></a>[UB 52:6.4](/en/The_Urantia_Book/52#p6_4))
 
 To create our document, we gathered quotes on:
 

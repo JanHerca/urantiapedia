@@ -55,7 +55,7 @@ The paragraph at the top of page 481, beginning “You can try to imagine . . . 
 
 Taking the initial idea of being able to easily compare a translation with the original text, we have developed an application on the foundation's website www.urantia.org which compares any translation with another.
 
-In the future, we recommend using the international reference system which is: Issue: section. paragraph. Example: <a id="a56_115"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3). Note that after the issue number we place a “:” and after the paragraph number a point ". For those who send us their texts for publication, please respect these typographic codes which facilitate the layout of your quarterly publication.
+In the future, we recommend using the international reference system which is: Issue: section. paragraph. Example: <a id="a57_115"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3). Note that after the issue number we place a “:” and after the paragraph number a point ". For those who send us their texts for publication, please respect these typographic codes which facilitate the layout of your quarterly publication.
 
 Friendships.
 

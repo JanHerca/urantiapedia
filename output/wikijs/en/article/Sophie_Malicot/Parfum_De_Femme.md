@@ -86,7 +86,7 @@ The resurrection is in the spring. In the nest, the chick has grown. It is time 
 
 Sophie MALICOT
 
-Many terms in this story have been borrowed from the following fascicles: <a id="a87_74"></a>[UB 189:4](/en/The_Urantia_Book/189#p4) // <a id="a87_117"></a>[UB 189:5](/en/The_Urantia_Book/189#p5) // [UB 190:0](/en/The_Urantia_Book/190) // <a id="a87_200"></a>[UB 190:2.5](/en/The_Urantia_Book/190#p2_5) // <a id="a87_247"></a>[UB 193:3.1](/en/The_Urantia_Book/193#p3_1) // <a id="a87_294"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34) // <a id="a87_343"></a>[UB 142:2.4](/en/The_Urantia_Book/142#p2_4)
+Many terms in this story have been borrowed from the following fascicles: <a id="a88_74"></a>[UB 189:4](/en/The_Urantia_Book/189#p4) // <a id="a88_117"></a>[UB 189:5](/en/The_Urantia_Book/189#p5) // [UB 190:0](/en/The_Urantia_Book/190) // <a id="a88_200"></a>[UB 190:2.5](/en/The_Urantia_Book/190#p2_5) // <a id="a88_247"></a>[UB 193:3.1](/en/The_Urantia_Book/193#p3_1) // <a id="a88_294"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34) // <a id="a88_343"></a>[UB 142:2.4](/en/The_Urantia_Book/142#p2_4)
 
 
 

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Be yourself
 
@@ -60,7 +84,7 @@ So let's begin...
 
 Everything seemed very nice regarding the birth of Jesus, populated by seraphim singing hymns, announcements to surprised women or picturesque wise priests of Ur. The birth of the hero, however, is always accompanied by dangers and threats of death. It cannot be otherwise: there is no hope that opens up without sooner or later being threatened, since there is always someone who doubts, who does not want to. There is always someone who fights for everything to remain as it is. For there to be no changes.
 
-> The massacre of these infants took place about the middle of October, 6 B.C., when Jesus was a little over one year of age. But there were believers in the coming Messiah even among Herod’s court attachés, and one of these, learning of the order to slaughter the Bethlehem boy babies, communicated with Zacharias, who in turn dispatched a messenger to Joseph; and the night before the massacre Joseph and Mary departed from Bethlehem with the babe for Alexandria in Egypt. In order to avoid attracting attention, they journeyed alone to Egypt with Jesus. They went to Alexandria on funds provided by Zacharias, and there Joseph worked at his trade while Mary and Jesus lodged with well-to-do relatives of Joseph’s family. They sojourned in Alexandria two full years, not returning to Bethlehem until after the death of Herod. ([UB 122:10.4](/en/The_Urantia_Book/122#p10_4))
+> The massacre of these infants took place about the middle of October, 6 B.C., when Jesus was a little over one year of age. But there were believers in the coming Messiah even among Herod’s court attachés, and one of these, learning of the order to slaughter the Bethlehem boy babies, communicated with Zacharias, who in turn dispatched a messenger to Joseph; and the night before the massacre Joseph and Mary departed from Bethlehem with the babe for Alexandria in Egypt. In order to avoid attracting attention, they journeyed alone to Egypt with Jesus. They went to Alexandria on funds provided by Zacharias, and there Joseph worked at his trade while Mary and Jesus lodged with well-to-do relatives of Joseph’s family. They sojourned in Alexandria two full years, not returning to Bethlehem until after the death of Herod. (<a id="a86_829"></a>[UB 122:10.4](/en/The_Urantia_Book/122#p10_4))
 
 Joseph is forced to take his mother and young son and leave, to leave his own land, to escape from what is known, to dislodge himself and start again. But it is not a full stop (as if what came before was worthless): it is a full stop, since Joseph must take the child and the mother with him. He takes the past and the future, tradition and renewal, fidelity and creativity. Joseph takes these elements in his backpack and sets out on the journey to Egypt. A great deal of baggage to start over, heading towards the unknown.
 
@@ -82,7 +106,7 @@ As we said above, the birth of the hero is always accompanied by dangers and thr
 
 Well, what a task we human beings have! To be faithful, like Jesus, to our own inner voice, to our inner child, in the face of a world that wants us to be homogeneous, materialistic, flat. There are so many Herods who endanger our own voice! There are so many elements in the world to distract us and forget who we really are! There are so many circumstances that can make us feel like we are alone in the universe and helpless!
 
-> In the earthly life of Jesus, religion was a living experience, a direct and personal movement from spiritual reverence to practical righteousness. The faith of Jesus bore the transcendent fruits of the divine spirit. His faith was not immature and credulous like that of a child, but in many ways it did resemble the unsuspecting trust of the child mind. Jesus trusted God much as the child trusts a parent. He had a profound confidence in the universe—just such a trust as the child has in its parental environment. Jesus’ wholehearted faith in the fundamental goodness of the universe very much resembled the child’s trust in the security of its earthly surroundings. He depended on the heavenly Father as a child leans upon its earthly parent, and his fervent faith never for one moment doubted the certainty of the heavenly Father’s overcare. He was not disturbed seriously by fears, doubts, and skepticism. Unbelief did not inhibit the free and original expression of his life. He combined the stalwart and intelligent courage of a full-grown man with the sincere and trusting optimism of a believing child. His faith grew to such heights of trust that it was devoid of fear. ([UB 196:0.11](/en/The_Urantia_Book/196#p0_11))
+> In the earthly life of Jesus, religion was a living experience, a direct and personal movement from spiritual reverence to practical righteousness. The faith of Jesus bore the transcendent fruits of the divine spirit. His faith was not immature and credulous like that of a child, but in many ways it did resemble the unsuspecting trust of the child mind. Jesus trusted God much as the child trusts a parent. He had a profound confidence in the universe—just such a trust as the child has in its parental environment. Jesus’ wholehearted faith in the fundamental goodness of the universe very much resembled the child’s trust in the security of its earthly surroundings. He depended on the heavenly Father as a child leans upon its earthly parent, and his fervent faith never for one moment doubted the certainty of the heavenly Father’s overcare. He was not disturbed seriously by fears, doubts, and skepticism. Unbelief did not inhibit the free and original expression of his life. He combined the stalwart and intelligent courage of a full-grown man with the sincere and trusting optimism of a believing child. His faith grew to such heights of trust that it was devoid of fear. (<a id="a108_1185"></a>[UB 196:0.11](/en/The_Urantia_Book/196#p0_11))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Editorial-01-24-4.jpg" alt="Enero 24-4" width="350">
@@ -109,7 +133,7 @@ Jesus' faith in God was sublime and unreserved. He experienced the ordinary ups 
 
 Let's take on this challenge, then. Let's try to be yourself, as the Master himself did centuries ago.
 
-Theology can fix, formulate, define and dogmatize faith, but in the human life of Jesus faith was personal, alive, original, spontaneous and purely spiritual. [UB 196:0.5](/en/The_Urantia_Book/196#p0_5)
+Theology can fix, formulate, define and dogmatize faith, but in the human life of Jesus faith was personal, alive, original, spontaneous and purely spiritual. <a id="a135_159"></a>[UB 196:0.5](/en/The_Urantia_Book/196#p0_5)
 
 It is a magnificent challenge for this new year, 2024.
 
@@ -127,3 +151,28 @@ Let's go for it then!
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/12/30/editorial-enero-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

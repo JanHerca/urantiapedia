@@ -28,7 +28,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 The name Kheresa is very confusing. This town appears in different sources under very different names: sometimes it is translated as Jeresa, Gergesa, but more recently as Kursi or Chorsia. The latter are more reminiscent of the English transcription of Kheresa, which is _Kheresa_.
 
-Whatever the origin of this location, it must be sought in [Mt 8:28-34](/en/Bible/Matthew/8#v28) (<a id="a14_106"></a>[UB 151:6.1](/en/The_Urantia_Book/151#p6_1)). Here the evangelist tells us: “When they came to the other side, to the country of the Gadarenes, two demoniacs came out from the tombs to meet them.” Then he recounts the well-known miracle of Jesus in which he casts out a legion of demons and puts them into a herd of pigs, which rush into the lake.
+Whatever the origin of this location, it must be sought in [Mt 8:28-34](/en/Bible/Matthew/8#v28) (<a id="a30_98"></a>[UB 151:6.1](/en/The_Urantia_Book/151#p6_1)). Here the evangelist tells us: “When they came to the other side, to the country of the Gadarenes, two demoniacs came out from the tombs to meet them.” Then he recounts the well-known miracle of Jesus in which he casts out a legion of demons and puts them into a herd of pigs, which rush into the lake.
 
 However, the parallel accounts in [Mk 1:5-20](/en/Bible/Mark/1#v5) and [Luke 8:26-39](/en/Bible/Luke/8#v26) say “_Gerasenes_” rather than “_Gadarenes_,” opening up the possibility of three locations: Gadara, present-day Hammat Gader, a town a few miles southeast of the lake on a rise; Gerasa, present-day Jerash, located inland in Jordan; and finally Kursi, a site six miles north of Kibbutz En Gev on the eastern shore of the Sea of ​​Galilee.
 
@@ -71,9 +71,9 @@ Did the Sea of ​​Galilee once have cliffs along the water? According to geol
 
 _The Urantia Book_ further emphasizes the idea that there was a cliff that fell into the water:
 
-> Although most of the near-by eastern shore of the lake sloped up gently to the highlands beyond, at this particular spot there was a steep hillside, the shore in some places dropping sheer down into the lake. <a id="a57_250"></a>[UB 151:6.1](/en/The_Urantia_Book/151#p6_1)
+> Although most of the near-by eastern shore of the lake sloped up gently to the highlands beyond, at this particular spot there was a steep hillside, the shore in some places dropping sheer down into the lake. <a id="a73_211"></a>[UB 151:6.1](/en/The_Urantia_Book/151#p6_1)
 
-> As the swine herders rushed into the village to spread the news of the taming of the lunatic, the dogs charged upon a small and untended herd of about thirty swine and drove most of them over a precipice into the sea. <a id="a59_287"></a>[UB 151:6.6](/en/The_Urantia_Book/151#p6_6)
+> As the swine herders rushed into the village to spread the news of the taming of the lunatic, the dogs charged upon a small and untended herd of about thirty swine and drove most of them over a precipice into the sea. <a id="a75_220"></a>[UB 151:6.6](/en/The_Urantia_Book/151#p6_6)
 
 Everything seems to indicate that the waves of the lake undoubtedly broke at some point on the coast against a cliff with an almost vertical slope. Although this is surprising when we consider the current orography. Furthermore, if this were the case, the eastern edge could only be flanked by climbing a zigzag path to the summit, and then descending on the other side of the cliff. If this ravine really existed, it must have cut off any possible road that linked the eastern coast.
 

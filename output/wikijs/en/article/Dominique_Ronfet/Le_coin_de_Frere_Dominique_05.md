@@ -39,7 +39,7 @@ Should we contrast the modern, extroverted and conquering man with a meditative 
 
 (In which direction to live?)
 
-> 3. The personality craving to be like God—the wholehearted desire to do the Father’s will. (<a id="a40_94"></a>[UB 1:2.6](/en/The_Urantia_Book/1#p2_6))
+> 3. The personality craving to be like God—the wholehearted desire to do the Father’s will. (<a id="a41_94"></a>[UB 1:2.6](/en/The_Urantia_Book/1#p2_6))
 
 So desire precedes will?
 He who knows himself, knows his desire.

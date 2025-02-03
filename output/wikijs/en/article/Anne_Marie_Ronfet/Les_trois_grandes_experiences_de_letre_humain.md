@@ -68,7 +68,7 @@ _“In everything that lives you will encounter:_
 2. _the law which manifests itself in everything that is alive in a push towards its realization, its form. It is the order of becoming._
 3. _every living being bears witness to a unity with that which surpasses it. Everything that lives, lives in a whole which encompasses it. » Dürckheim_
 
-> “The cosmic-mind-endowed, Adjuster-indwelt, personal creature possesses innate recognition-realization of energy reality, mind reality, and spirit reality. The will creature is thus equipped to discern the fact, the law, and the love of God. Aside from these three inalienables of human consciousness, all human experience is really subjective except that intuitive realization of validity attaches to the *unification* of these three universe reality responses of cosmic recognition.” (<a id="a69_489"></a>[UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
+> “The cosmic-mind-endowed, Adjuster-indwelt, personal creature possesses innate recognition-realization of energy reality, mind reality, and spirit reality. The will creature is thus equipped to discern the fact, the law, and the love of God. Aside from these three inalienables of human consciousness, all human experience is really subjective except that intuitive realization of validity attaches to the *unification* of these three universe reality responses of cosmic recognition.” (<a id="a70_489"></a>[UB 16:9.1](/en/The_Urantia_Book/16#p9_1))
 
 _To finish :_
 

@@ -48,7 +48,7 @@ On this earth, destiny is a transition that occurs between a human being's morta
 > The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity:
 > The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity:
 > 
-> The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity: (<a id="a49_197"></a>[UB 11:8.4](/en/The_Urantia_Book/11#p8_4))
+> The numerous forms of cosmic force, physical energy, universe power, and various materializations disclose three general, though not perfectly clear-cut, stages of response to Paradise gravity: (<a id="a50_197"></a>[UB 11:8.4](/en/The_Urantia_Book/11#p8_4))
 
 I was immersed in a reverie of which only the super conscious initiate has the secret, I discovered an unknown world, with multiple virtues which were present in the thoughts of the people who lived there, an exemplary morality which could have converted an entire army of warmongers.
 
@@ -142,7 +142,7 @@ Jesus blessed the poor when they were sincere and pious and condemned the rich w
 
 <br style=“clear:both;”/>
 
-> “IF THE finite mind of man is unable to comprehend how so great and so majestic a God as the Universal Father can descend from his eternal abode in infinite perfection to fraternize with the individual human creature, then must such a finite intellect rest assurance of divine fellowship upon the truth of the fact that an actual fragment of the living God resides within the intellect of every normal-minded and morally conscious Urantia mortal. The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him.” (<a id="a143_709"></a>[UB 5:0.1](/en/The_Urantia_Book/5#p0_1))
+> “IF THE finite mind of man is unable to comprehend how so great and so majestic a God as the Universal Father can descend from his eternal abode in infinite perfection to fraternize with the individual human creature, then must such a finite intellect rest assurance of divine fellowship upon the truth of the fact that an actual fragment of the living God resides within the intellect of every normal-minded and morally conscious Urantia mortal. The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him.” (<a id="a144_709"></a>[UB 5:0.1](/en/The_Urantia_Book/5#p0_1))
 
 The Father has traced a path, it passes through the son, in saying this, I am making a circumstantial affirmation.
 

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Luis Alfonso Rojas Rosillo<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Garcia_Bory">
+          <span class="pr-2">Urantia Questionnaire: Luis García Bory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Mi-parrafo-favorito-ene-2024.jpg" alt="Mi párrafo favorito - ene 2024" width="350">
@@ -16,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 
 The exercise of selecting one of my favorite paragraphs from _The Urantia Book_ to share with you leads me to value more the experience of dynamic religious living. Surely you have read and reread the same paragraph at different times, and experienced a new understanding each time. Possibly, it is the result of an effort beyond the purely intellectual. Five years ago I would have shared another one, but this time I have my attention focused on this one:
 
-> Men all too often forget that God is the greatest experience in human existence. Other experiences are limited in their nature and content, but the experience of God has no limits save those of the creature’s comprehension capacity, and this very experience is in itself capacity enlarging. When men search for God, they are searching for everything. When they find God, they have found everything. The search for God is the unstinted bestowal of love attended by amazing discoveries of new and greater love to be bestowed. ([UB 117:6.9](/en/The_Urantia_Book/117#p6_9))
+> Men all too often forget that God is the greatest experience in human existence. Other experiences are limited in their nature and content, but the experience of God has no limits save those of the creature’s comprehension capacity, and this very experience is in itself capacity enlarging. When men search for God, they are searching for everything. When they find God, they have found everything. The search for God is the unstinted bestowal of love attended by amazing discoveries of new and greater love to be bestowed. (<a id="a42_527"></a>[UB 117:6.9](/en/The_Urantia_Book/117#p6_9))
 
 I perceive that experiencing the understanding of this paragraph inspires the deepest reflections in the interior life and a great impact on the supreme longing to find God, the joy of doing his will, the happiness of feeling that we are his children and the motivation of loving our neighbor. In this paragraph I have found a wonderful synthesis of the greatest goal of human existence, and the perfect, powerful, inexhaustible and infallible search engine that illuminates, guides and sustains our experience.
 
@@ -29,3 +53,28 @@ In particular, it has inspired me with the need to review the goals of my existe
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/12/30/mi-parrafo-favorito-25/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2024 — Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Luis_Garcia_Bory">
+          <span class="pr-2">Urantia Questionnaire: Luis García Bory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -146,15 +146,15 @@ In the Middle Ages “the nymphs sing with a melodious voice”, the poets tell 
 
 In 1955, in the twentieth century, the UB was not left behind:
 
-> “18. Impatience is a spirit poison; anger is like a stone hurled into a hornet’s nest.” (<a id="a147_91"></a>[UB 48:7.20](/en/The_Urantia_Book/48#p7_20))
+> “18. Impatience is a spirit poison; anger is like a stone hurled into a hornet’s nest.” (<a id="a148_91"></a>[UB 48:7.20](/en/The_Urantia_Book/48#p7_20))
 
-> “The best music of Urantia is just a fleeting echo of the magnificent strains heard by the celestial associates of your musicians, who left but snatches of these harmonies of morontia forces on record as the musical melodies of sound harmonics. Spirit-morontia music not infrequently employs all seven modes of expression and reproduction, so that the human mind is tremendously handicapped in any attempt to reduce these melodies of the higher spheres to mere notes of musical sound. Such an effort would be something like endeavoring to reproduce the strains of a great orchestra by means of a single musical instrument.” (<a id="a149_627"></a>[UB 44:1.14](/en/The_Urantia_Book/44#p1_14))
+> “The best music of Urantia is just a fleeting echo of the magnificent strains heard by the celestial associates of your musicians, who left but snatches of these harmonies of morontia forces on record as the musical melodies of sound harmonics. Spirit-morontia music not infrequently employs all seven modes of expression and reproduction, so that the human mind is tremendously handicapped in any attempt to reduce these melodies of the higher spheres to mere notes of musical sound. Such an effort would be something like endeavoring to reproduce the strains of a great orchestra by means of a single musical instrument.” (<a id="a150_627"></a>[UB 44:1.14](/en/The_Urantia_Book/44#p1_14))
 
 Among the 36 occurrences in UB of the words “mathematics” and “mathematicians” let us cite the following:
 
-> “The Romans bodily took over Greek culture, putting representative government in the place of government by lot. And presently this change favored Christianity in that Rome brought into the whole Western world a new tolerance for strange languages, peoples, and even religions.” (<a id="a153_282"></a>[UB 195:2.1](/en/The_Urantia_Book/195#p2_1))
+> “The Romans bodily took over Greek culture, putting representative government in the place of government by lot. And presently this change favored Christianity in that Rome brought into the whole Western world a new tolerance for strange languages, peoples, and even religions.” (<a id="a154_282"></a>[UB 195:2.1](/en/The_Urantia_Book/195#p2_1))
 
-> “When they had finished breakfast, and while the others sat by the fire, Jesus beckoned to Peter and to John that they should come with him for a stroll on the beach. As they walked along, Jesus said to John, “John, do you love me?” And when John answered, “Yes, Master, with all my heart,” the Master said: “Then, John, give up your intolerance and learn to love men as I have loved you. Devote your life to proving that love is the greatest thing in the world. It is the love of God that impels men to seek salvation. Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful.”” (<a id="a155_616"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1))
+> “When they had finished breakfast, and while the others sat by the fire, Jesus beckoned to Peter and to John that they should come with him for a stroll on the beach. As they walked along, Jesus said to John, “John, do you love me?” And when John answered, “Yes, Master, with all my heart,” the Master said: “Then, John, give up your intolerance and learn to love men as I have loved you. Devote your life to proving that love is the greatest thing in the world. It is the love of God that impels men to seek salvation. Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful.”” (<a id="a156_616"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1))
 
 Dear readers, I invite you to search and find “the name of the young girl” and/or that of the part of the revelation of the Middle Ages where she appears. Without internet, I await your feedback at:
 
@@ -162,7 +162,7 @@ Dear readers, I invite you to search and find “the name of the young girl” a
 
 Your names will appear in the prologue to the second stage of the journey, showing that the UB is indeed an extension, citing in a hidden way, this triple revelation of the Middle Ages.
 
-> Ultimate universe reality cannot be grasped by mathematics, logic, or philosophy, only by personal experience in progressive conformity to the divine will of a personal God. Neither science, philosophy, nor theology can validate the personality of God. Only the personal experience of the faith sons of the heavenly Father can effect the actual spiritual realization of the personality of God. (<a id="a163_397"></a>[[UB 1:7.5](/en/The_Urantia_Book/1#p7_5))
+> Ultimate universe reality cannot be grasped by mathematics, logic, or philosophy, only by personal experience in progressive conformity to the divine will of a personal God. Neither science, philosophy, nor theology can validate the personality of God. Only the personal experience of the faith sons of the heavenly Father can effect the actual spiritual realization of the personality of God. (<a id="a164_397"></a>[[UB 1:7.5](/en/The_Urantia_Book/1#p7_5))
 
 
 

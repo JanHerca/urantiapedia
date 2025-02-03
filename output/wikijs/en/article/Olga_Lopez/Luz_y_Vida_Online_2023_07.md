@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Luz y Vida — July-August 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter
 
@@ -56,9 +77,9 @@ In _The Urantia Book_ we read about Jesus of Nazareth this unusual behavior:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-By this time Ganid had begun to notice that his tutor was spending his leisure time in this unusual personal ministry to his fellowmen, and he sought to find out the reason for this constant activity. He asked: “Why do you spend all your time talking to strangers?” Jesus replied: “Ganid, to one who knows God no man is a stranger. In the experience of finding the Father in heaven you discover that all men are your brothers, and what is so strange about rejoicing in the company of a newly discovered brother? To associate with our brothers and sisters, to learn their problems, and to learn to love them is the supreme experience of living.” [UB 130:2.6](/en/The_Urantia_Book/130#p2_6)
+By this time Ganid had begun to notice that his tutor was spending his leisure time in this unusual personal ministry to his fellowmen, and he sought to find out the reason for this constant activity. He asked: “Why do you spend all your time talking to strangers?” Jesus replied: “Ganid, to one who knows God no man is a stranger. In the experience of finding the Father in heaven you discover that all men are your brothers, and what is so strange about rejoicing in the company of a newly discovered brother? To associate with our brothers and sisters, to learn their problems, and to learn to love them is the supreme experience of living.” <a id="a79_645"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)
 
-It was this close association with his fellow men, young and old, Jew and Gentile, that gave him the opportunity to become acquainted with the human race. Jesus was well educated in that he thoroughly understood men and dearly loved them. [UB 123:5.8](/en/The_Urantia_Book/123#p5_8)
+It was this close association with his fellow men, young and old, Jew and Gentile, that gave him the opportunity to become acquainted with the human race. Jesus was well educated in that he thoroughly understood men and dearly loved them. <a id="a81_239"></a>[UB 123:5.8](/en/The_Urantia_Book/123#p5_8)
 
 We see how a true creator God comes to Earth and does not show himself to be overbearing in his supreme power, but rather close and kind, friendly and understanding in the face of our problems and experiences. “He understood men deeply and loved them dearly.” He spoke and listened to all kinds of people: caravan drivers, prostitutes, an emperor, fishermen or small children. All human beings interested him.
 
@@ -248,13 +269,13 @@ Among all the paragraphs, I would like to highlight some that have impressed me 
 
 In these paragraphs I try to summarize what I understand as transcendent in the face of the elements and inevitabilities that could condition our spiritual growth:
 
-> …it may happen that, through no fault of your own, the accidents of time and the limitations of material existence prevent you from attaining these levels on your home planet. In that case, if your intentions and desires are of survival value… You will be allowed additional time to prove your worth. [UB 112:5.6](/en/The_Urantia_Book/112#p5_6)
+> …it may happen that, through no fault of your own, the accidents of time and the limitations of material existence prevent you from attaining these levels on your home planet. In that case, if your intentions and desires are of survival value… You will be allowed additional time to prove your worth. <a id="a271_303"></a>[UB 112:5.6](/en/The_Urantia_Book/112#p5_6)
 
-> When there is any doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in favor of the self-interest of that individual… while still watching the emergence of his morontia intentions and spiritual purposes. Thus the fulfillment of divine justice is assured, and divine mercy is granted a new opportunity to expand its ministry. [UB 112:5.7](/en/The_Urantia_Book/112#p5_7)
+> When there is any doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in favor of the self-interest of that individual… while still watching the emergence of his morontia intentions and spiritual purposes. Thus the fulfillment of divine justice is assured, and divine mercy is granted a new opportunity to expand its ministry. <a id="a273_400"></a>[UB 112:5.7](/en/The_Urantia_Book/112#p5_7)
 
-> … all creatures of will must have a real opportunity to make an indubitable, fully conscious, and final choice… The human soul must and will have a full opportunity to reveal its true intent and real purpose. [UB 112:5.9](/en/The_Urantia_Book/112#p5_9)
+> … all creatures of will must have a real opportunity to make an indubitable, fully conscious, and final choice… The human soul must and will have a full opportunity to reveal its true intent and real purpose. <a id="a275_211"></a>[UB 112:5.9](/en/The_Urantia_Book/112#p5_9)
 
-> … We would rather take the risk of rebellion in one system than run the risk of depriving a single struggling mortal on any evolutionary world of the eternal joy of pursuing the upward career. [UB 112:5.8](/en/The_Urantia_Book/112#p5_8)
+> … We would rather take the risk of rebellion in one system than run the risk of depriving a single struggling mortal on any evolutionary world of the eternal joy of pursuing the upward career. <a id="a277_195"></a>[UB 112:5.8](/en/The_Urantia_Book/112#p5_8)
 
 > «The act is ours, the consequences God's.» [UB 117:5.5](/es/The_Urantia_Book/117#p5_5)
 
@@ -378,3 +399,24 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2023/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Luz y Vida — July-August 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

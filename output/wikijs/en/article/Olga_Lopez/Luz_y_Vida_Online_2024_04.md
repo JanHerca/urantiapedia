@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Luz y Vida — May 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter
 
@@ -209,7 +230,7 @@ You will agree with me that it is very difficult to choose one paragraph. There 
 
 Nevertheless, I bring you the following paragraph:
 
-The transcripts of mortal mind and the active configurations of creature memory, as transformed from the material to the spiritual levels, are the individual property of the separated Thought Adjusters; these spiritualized factors of creature mind, memory, and personality are forever a part of those Adjusters. The creature's mind matrix and the passive potentials of its identity are present in the morontia soul entrusted to the care of the seraphic guardians of destiny. The reunion of the morontia soul entrusted to the seraphim and the spiritual mind entrusted to the Adjuster is what reassembles the creature's personality and constitutes the resurrection of a sleeping survivor. [UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
+The transcripts of mortal mind and the active configurations of creature memory, as transformed from the material to the spiritual levels, are the individual property of the separated Thought Adjusters; these spiritualized factors of creature mind, memory, and personality are forever a part of those Adjusters. The creature's mind matrix and the passive potentials of its identity are present in the morontia soul entrusted to the care of the seraphic guardians of destiny. The reunion of the morontia soul entrusted to the seraphim and the spiritual mind entrusted to the Adjuster is what reassembles the creature's personality and constitutes the resurrection of a sleeping survivor. <a id="a232_687"></a>[UB 47:3.3](/en/The_Urantia_Book/47#p3_3)
 
 <br style="clear:both;"/>
 
@@ -381,3 +402,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Luz y Vida — May 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

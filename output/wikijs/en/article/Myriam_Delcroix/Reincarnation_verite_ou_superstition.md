@@ -36,23 +36,23 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Of all the corrupting beliefs that might have been attached to what might have been an emerging monotheism, none was more debilitating than the belief in transmigration, the doctrine of the reincarnation of the soul, which came from the DRAVIDIAN DECCAN <a id="a37_254"></a>[[UB 94:2.3-7](/en/The_Urantia_Book/94#p2_3)].
+Of all the corrupting beliefs that might have been attached to what might have been an emerging monotheism, none was more debilitating than the belief in transmigration, the doctrine of the reincarnation of the soul, which came from the DRAVIDIAN DECCAN <a id="a38_254"></a>[[UB 94:2.3-7](/en/The_Urantia_Book/94#p2_3)].
 
-The orange race was very religious in the doctrine of reincarnation. Some more recent races believed and still believe that men died 3 to 7 times. This belief (a remnant of Adam's teachings concerning the 7 mansion worlds) as well as the vestiges of revealed religion can be found among the otherwise absurd doctrines of the barbarians of the 20th century. <a id="a39_357"></a>[[UB 86:4.6](/en/The_Urantia_Book/86#p4_6)]
+The orange race was very religious in the doctrine of reincarnation. Some more recent races believed and still believe that men died 3 to 7 times. This belief (a remnant of Adam's teachings concerning the 7 mansion worlds) as well as the vestiges of revealed religion can be found among the otherwise absurd doctrines of the barbarians of the 20th century. <a id="a40_357"></a>[[UB 86:4.6](/en/The_Urantia_Book/86#p4_6)]
 
 At the time of Jesus people believed in this doctrine as well as the notion of KARMA.
 
 The ancient Jewish educators, as well as Plato, Philo and many others (Essenes) tolerated the theory that men can reap in one incarnation, what they have sown in another previous existence. It was believed that they atone in one life for the sins committed in previous lives. The master found it difficult to make men believe that their souls had had no previous existence. [1811: 5: The Healing of the Blind Beggar].
 
-In all Nebadon, no mortal ever reincarnates in this way. In this entire universe, only the spornagias, who are highly evolved animals living in the morontia worlds, reincarnate. They are a unique exception in the entire universe. <a id="a45_230"></a>[[UB 46:7.6](/en/The_Urantia_Book/46#p7_6)]
+In all Nebadon, no mortal ever reincarnates in this way. In this entire universe, only the spornagias, who are highly evolved animals living in the morontia worlds, reincarnate. They are a unique exception in the entire universe. <a id="a46_230"></a>[[UB 46:7.6](/en/The_Urantia_Book/46#p7_6)]
 
 The soul does indeed incarnate in different bodies throughout the slow evolution toward God; in the morontia worlds alone it will possess 570 bodies, all of which are adorned with additional attributes in accordance with its spiritual progression [542.2]; however, these different transformations are in no way reincarnations but a continuation in the evolution of the soul to which these different bodies are adapted.
 
-The soul must indeed progress from sphere to sphere from the outside to the inside. <a id="a49_84"></a>[[UB 5:1.9](/en/The_Urantia_Book/5#p1_9)]
+The soul must indeed progress from sphere to sphere from the outside to the inside. <a id="a50_84"></a>[[UB 5:1.9](/en/The_Urantia_Book/5#p1_9)]
 
 Always closer to God.
 
-Jesus considered Urantia as the valley of the birth of souls <a id="a53_61"></a>[[UB 149:5.5](/en/The_Urantia_Book/149#p5_5)]. During his visit to Ephesus, a learned Greek thinker asked him this question: What is the soul? Jesus answered him at length and explained to him among other things that the birth of the soul occurred during the first moral activity. Indeed, during this the Adjuster, the divine spirit arrives in the being and it is the occasion of the birth of the soul. <a id="a53_464"></a>[[UB 133:6.5](/en/The_Urantia_Book/133#p6_5)]
+Jesus considered Urantia as the valley of the birth of souls <a id="a54_61"></a>[[UB 149:5.5](/en/The_Urantia_Book/149#p5_5)]. During his visit to Ephesus, a learned Greek thinker asked him this question: What is the soul? Jesus answered him at length and explained to him among other things that the birth of the soul occurred during the first moral activity. Indeed, during this the Adjuster, the divine spirit arrives in the being and it is the occasion of the birth of the soul. <a id="a54_464"></a>[[UB 133:6.5](/en/The_Urantia_Book/133#p6_5)]
 
 But how is it possible then that many people are more evolved than others, intellectually or spiritually? If there are no young souls with little experience and old souls who have already experienced many past lives, how is it possible that there are so many differences between human beings?
 
@@ -62,22 +62,22 @@ God, however, provided for this lack by bestowing after Pentecost a spark of his
 
 It is certain that education, heredity etc....are important in the human mind...but it is not enough!
 
-The divine beings who inspired this book have found that experienced Thought Adjusters often inhabit the higher-type human mind. Human hereditary factors therefore play a considerable part in the selection and assignment of Adjusters. <a id="a63_235"></a>[[UB 108:1.1](/en/The_Urantia_Book/108#p1_1)]
+The divine beings who inspired this book have found that experienced Thought Adjusters often inhabit the higher-type human mind. Human hereditary factors therefore play a considerable part in the selection and assignment of Adjusters. <a id="a64_235"></a>[[UB 108:1.1](/en/The_Urantia_Book/108#p1_1)]
 
 But it is not enough to have an Adjuster with great experience, the being must also have an approach towards it.
 
-It is written on page <a id="a67_22"></a>[[UB 133:7.11](/en/The_Urantia_Book/133#p7_11)]: The fact that individuals differ so much in the acts of their life does not only indicate hereditary gifts and different influences from the environment, it also denotes the degree of unification with the inner spirit of the father.
+It is written on page <a id="a68_22"></a>[[UB 133:7.11](/en/The_Urantia_Book/133#p7_11)]: The fact that individuals differ so much in the acts of their life does not only indicate hereditary gifts and different influences from the environment, it also denotes the degree of unification with the inner spirit of the father.
 
-Adjuster type has much influence upon personality. Throughout the ages many great intellectual and spiritual leaders and thinkers have owed their influence primarily to the superiority and prior experience of their indwelling Adjusters. <a id="a69_237"></a>[[UB 109:4.3](/en/The_Urantia_Book/109#p4_3)]
+Adjuster type has much influence upon personality. Throughout the ages many great intellectual and spiritual leaders and thinkers have owed their influence primarily to the superiority and prior experience of their indwelling Adjusters. <a id="a70_237"></a>[[UB 109:4.3](/en/The_Urantia_Book/109#p4_3)]
 
 Therefore, if a human being gains more experience in various fields, whether intellectual or spiritual, this is due to his heredity, his environment, his education, the propagation of Adamic blood, all enhanced by the contact of an experienced Adjuster, but not by the transmigration of his soul from body to body and from age to age.
 
 This human being was chosen as a host by his Thought Monitor because of:
 1. his intellectual capacity;
 2. his spiritual perception;
-3. both together conjugated. <a id="a76_29"></a>[[UB 108:1.3](/en/The_Urantia_Book/108#p1_3)]
+3. both together conjugated. <a id="a77_29"></a>[[UB 108:1.3](/en/The_Urantia_Book/108#p1_3)]
 
-How happy, then, are these Adjusters when they can communicate directly with their subject without the need for symbols and other roundabout methods. <a id="a78_150"></a>[[UB 108:6.7](/en/The_Urantia_Book/108#p6_7)]
+How happy, then, are these Adjusters when they can communicate directly with their subject without the need for symbols and other roundabout methods. <a id="a79_150"></a>[[UB 108:6.7](/en/The_Urantia_Book/108#p6_7)]
 
 Before finishing, a quick look at the scientific side.
 

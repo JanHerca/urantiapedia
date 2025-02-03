@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ramiro_Cuestas">
+          <span class="pr-2">Urantia Questionnaire: Ramiro Cuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Editorial-feb-24-2.jpg" alt="Editorial feb 24-2" width="350">
@@ -18,7 +42,7 @@ In “Urantian” meetings and forums, it is common for readers to talk about ho
 
 In this heterogeneous group of readers from around the world, who we could label as “spiritual seekers,” there is a desire to discover the ultimate reality and achieve that extraordinary mandate that resonates in the universes:
 
-“Be perfect as I am perfect.” [UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
+“Be perfect as I am perfect.” <a id="a44_30"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
 
 Not all of us respond in the same way to this call that our divine Adjuster makes to us from within. In accordance with this, not all of us interpret and read _The Urantia Book_ in the same way.
 
@@ -121,3 +145,28 @@ _This is really good news: a generous Lord and a disciple who serves him for the
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/01/29/editorial-febrero-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — Febrero 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ramiro_Cuestas">
+          <span class="pr-2">Urantia Questionnaire: Ramiro Cuestas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

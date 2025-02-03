@@ -46,7 +46,7 @@ The Prayer of Consent is comparable to worship. God exists above thoughts and fe
 
 “_Be still and know that I am God_” [Psalm 46:10](/en/Bible/Psalms/46#v10)
 
-“_Jesus taught his disciples that after they had made their prayer to the Father, they should remain for some time in a state of silent receptivity to give the inner spirit the best chance of speaking to the attentive soul. It is when the human mind is in an attitude of sincere adoration that the spirit of the Father speaks best to men_.” <a id="a47_341"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)
+“_Jesus taught his disciples that after they had made their prayer to the Father, they should remain for some time in a state of silent receptivity to give the inner spirit the best chance of speaking to the attentive soul. It is when the human mind is in an attitude of sincere adoration that the spirit of the Father speaks best to men_.” <a id="a48_341"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)
 
 The first day was devoted to the discovery of the Prayer of Consent and the explanation of its practice by Gard Jameson.
 

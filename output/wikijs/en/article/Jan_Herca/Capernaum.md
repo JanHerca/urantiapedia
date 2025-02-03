@@ -116,7 +116,7 @@ However, I disagree with these assessments. He may not have been a centurion, bu
 
 UB 147:1 is quite clarifying:
 
-> On the day before they made ready to go to Jerusalem for the feast of the Passover, Mangus, a centurion, or captain, of the Roman guard stationed at Capernaum, came to the rulers of the synagogue, [...]. <a id="a102_222"></a>[UB 147:1.1](/en/The_Urantia_Book/147#p1_1)
+> On the day before they made ready to go to Jerusalem for the feast of the Passover, Mangus, a centurion, or captain, of the Roman guard stationed at Capernaum, came to the rulers of the synagogue, [...]. <a id="a118_206"></a>[UB 147:1.1](/en/The_Urantia_Book/147#p1_1)
 
 The expressions “centurion” and “captain” are used interchangeably here. This means that he was certainly not a commander of legions, which is what centurion really meant in Latin terminology, but simply the leader of a small Roman detachment.
 
@@ -128,7 +128,7 @@ This role of protector of the publicans could be closer to the people than that 
 
 _The Urantia Book_ makes a clear mention of this garrison in document 129, section 1:
 
-> Throughout this year Jesus built boats and continued to observe how men lived on earth. Frequently he would go down to visit at the caravan station, Capernaum being on the direct travel route from Damascus to the south. Capernaum was a strong Roman military post, and the garrison’s commanding officer was a gentile believer in Yahweh, “a devout man,” as the Jews were wont to designate such proselytes. This officer belonged to a wealthy Roman family, and he took it upon himself to build a beautiful synagogue in Capernaum, which had been presented to the Jews a short time before Jesus came to live with Zebedee. Jesus conducted the services in this new synagogue more than half the time this year, and some of the caravan people who chanced to attend remembered him as the carpenter from Nazareth. <a id="a114_850"></a>[UB 129:1.7](/en/The_Urantia_Book/129#p1_7)
+> Throughout this year Jesus built boats and continued to observe how men lived on earth. Frequently he would go down to visit at the caravan station, Capernaum being on the direct travel route from Damascus to the south. Capernaum was a strong Roman military post, and the garrison’s commanding officer was a gentile believer in Yahweh, “a devout man,” as the Jews were wont to designate such proselytes. This officer belonged to a wealthy Roman family, and he took it upon himself to build a beautiful synagogue in Capernaum, which had been presented to the Jews a short time before Jesus came to live with Zebedee. Jesus conducted the services in this new synagogue more than half the time this year, and some of the caravan people who chanced to attend remembered him as the carpenter from Nazareth. <a id="a130_804"></a>[UB 129:1.7](/en/The_Urantia_Book/129#p1_7)
 
 If it was an “strong Roman military post”, why have no remains of Roman fortifications or camps been found from the time of Jesus? Remains of a thermal baths and fortifications have been found, but they seem to date from the 2nd century. However, what are thermal baths doing next to such an unimportant town as Capernaum? There is evidence that there were troops permanently quartered there after the second Jewish revolt (132-135 AD). In my opinion these troops were simply reinforcing others that probably already existed before.
 

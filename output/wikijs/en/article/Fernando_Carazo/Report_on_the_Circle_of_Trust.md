@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Fernando Carazo<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XX_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20th Meeting of readers of The Urantia Book in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Circulo-de-Confianza.jpg" alt="Círculo de Confianza" width="350">
@@ -70,3 +91,25 @@ Among the next topics to be discussed are beauty and goodness.
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/XX_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">20th Meeting of readers of The Urantia Book in Spain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

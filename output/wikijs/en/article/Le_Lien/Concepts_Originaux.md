@@ -111,7 +111,7 @@ Dr. William Sadler
 
 **The Concept of Mind Mediation**: Mind as a mediator between energy and Spirit on subabsolute levels.
 
-> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning.” (<a id="a112_589"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> “It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning.” (<a id="a113_589"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 
 

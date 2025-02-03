@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The immense usefulness of the useless
 
@@ -29,7 +53,7 @@ Everything can be bought, it is true. From parliamentarians to trials, from powe
 _The Urantia Book_ repeatedly urges us precisely to learn, expand our knowledge, err and explore this fascinating universe in which we were born, because that learned baggage will be ours forever. An intangible but imperishable baggage of our soul.
 <br style="clear:both;"/>
 
-> Curiosity—the spirit of investigation, the urge of discovery, the drive of exploration—is a part of the inborn and divine endowment of evolutionary space creatures. These natural impulses were not given you merely to be frustrated and repressed. True, these ambitious urges must frequently be restrained during your short life on earth, disappointment must be often experienced, but they are to be fully realized and gloriously gratified during the long ages to come. ([UB 14:5.11](/en/The_Urantia_Book/14#p5_11))
+> Curiosity—the spirit of investigation, the urge of discovery, the drive of exploration—is a part of the inborn and divine endowment of evolutionary space creatures. These natural impulses were not given you merely to be frustrated and repressed. True, these ambitious urges must frequently be restrained during your short life on earth, disappointment must be often experienced, but they are to be fully realized and gloriously gratified during the long ages to come. (<a id="a55_471"></a>[UB 14:5.11](/en/The_Urantia_Book/14#p5_11))
 
 But there is something else. Only knowledge can once again challenge the material laws of the market. We can share our knowledge with others without impoverishing ourselves. I can teach a student the theory of relativity or I can show a friend a poem, and that enriches both the giver and the receiver.
 
@@ -43,11 +67,11 @@ The blue book shows us that everything is carefully planned so that we can searc
 
 1. Is courage—strength of character—desirable? Then man must be raised in an environment in which it is necessary to deal with difficulties and react to disappointments.
 2. Is altruism—service to one's fellow man—desirable? Then life experience must ensure that situations of social inequality are encountered.
-3. Is hope—the greatness of trust—desirable? Then human existence must constantly confront recurring insecurities and uncertainties. [UB 3:5.6-8](/en/The_Urantia_Book/3#p5_6)
+3. Is hope—the greatness of trust—desirable? Then human existence must constantly confront recurring insecurities and uncertainties. <a id="a69_133"></a>[UB 3:5.6-8](/en/The_Urantia_Book/3#p5_6)
 
 We, beings of time and space, limited, fallible and imperfect beings, will learn and grow with constant tests and difficulties, in order to forge lasting learning (unlike other beings already created perfect):
 
-Everything divine that the human mind grasps and the human soul acquires is an experiential attainment, a reality of personal experience, and is therefore a unique possession in contrast to the goodness and righteousness inherent in the errorless personalities of Havona. [UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
+Everything divine that the human mind grasps and the human soul acquires is an experiential attainment, a reality of personal experience, and is therefore a unique possession in contrast to the goodness and righteousness inherent in the errorless personalities of Havona. <a id="a73_272"></a>[UB 3:5.16](/en/The_Urantia_Book/3#p5_16)
 <br style="clear:both;"/>
 
 Everything is part of a very wise plan that seeks to elevate us above the animal.
@@ -59,13 +83,13 @@ Everything is part of a very wise plan that seeks to elevate us above the animal
 The writer Kakuzo Okakura, in his book _The Book of Tea_, recognizes in the pleasure of a man picking a flower to give to his beloved, the precise moment in which the human species rises above animals, above the instinctive, enters the realm of beauty and ascends his mind to the space of the divine.
 <br style="clear:both;"/>
 
-> These angels are all in the chain of recorders extending from the lowest to the highest custodians of the facts of time and the truths of eternity. Some day they will teach you to seek truth as well as fact, to expand your soul as well as your mind. Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow. When children have their ideals, do not dislodge them; let them grow. And while you are learning to think as men, you should also be learning to pray as children. ([UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
+> These angels are all in the chain of recorders extending from the lowest to the highest custodians of the facts of time and the truths of eternity. Some day they will teach you to seek truth as well as fact, to expand your soul as well as your mind. Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow. When children have their ideals, do not dislodge them; let them grow. And while you are learning to think as men, you should also be learning to pray as children. (<a id="a85_836"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
 
 Rilke said in a passage from _Letters to a Young Poet_:
 
 > “These divine qualities are perfectly and absolutely unified in God. And every God-knowing man or angel possesses the potential of unlimited self-expression on ever-progressive levels of unified self-realization by the technique of the never-ending achievement of Godlikeness—the experiential blending in the evolutionary experience of eternal truth, universal beauty, and divine goodness.”
 > 
-> These divine qualities are perfectly and absolutely unified in God. And every God-knowing man or angel possesses the potential of unlimited self-expression on ever-progressive levels of unified self-realization by the technique of the never-ending achievement of Godlikeness—the experiential blending in the evolutionary experience of eternal truth, universal beauty, and divine goodness. ([UB 44:7.4](/en/The_Urantia_Book/44#p7_4))
+> These divine qualities are perfectly and absolutely unified in God. And every God-knowing man or angel possesses the potential of unlimited self-expression on ever-progressive levels of unified self-realization by the technique of the never-ending achievement of Godlikeness—the experiential blending in the evolutionary experience of eternal truth, universal beauty, and divine goodness. (<a id="a91_392"></a>[UB 44:7.4](/en/The_Urantia_Book/44#p7_4))
 
 Ionesco said: “Poetry, the need to imagine, to create is as fundamental as breathing.”
 
@@ -106,3 +130,28 @@ Let us then enjoy the peaceful reading of our beloved book, its study. Let us en
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/02/28/editorial-marzo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — March 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-march-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — March 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Fernando-Carazo.jpg" alt="Fernando Carazo" width="250">
@@ -94,3 +115,25 @@ My “intellectual” faith in this knowledge is authentic, although I have to i
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/10/30/cuestionario-urantiano/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

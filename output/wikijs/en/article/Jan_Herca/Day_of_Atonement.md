@@ -31,7 +31,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 <figcaption><em>© 2023 Jan van't Hoff. </em><a href="https://www.gospelimages.com/paintings/105/the-day-of-atonement?">GospelImages</a></figcaption>
 </figure>
 
-There were three main Jewish festivals in the calendar of Jesus' time. They all took place during the dry season, to facilitate pilgrimages to Jerusalem, a place of special longing to celebrate these festivals. At the beginning of spring the religious calendar began with Easter, between March and April. Seven Sundays later the feast of Weeks (Pentecost in Greek) was celebrated, around May. And closing the dry season, between September and October, the feast of Forgiveness and of the Tents. <a id="a17_525"></a>[[UB 123:3.5](/en/The_Urantia_Book/123#p3_5)], <a id="a17_572"></a> [[UB 134:9.1-3](/en/The_Urantia_Book/134#p9_1)] 
+There were three main Jewish festivals in the calendar of Jesus' time. They all took place during the dry season, to facilitate pilgrimages to Jerusalem, a place of special longing to celebrate these festivals. At the beginning of spring the religious calendar began with Easter, between March and April. Seven Sundays later the feast of Weeks (Pentecost in Greek) was celebrated, around May. And closing the dry season, between September and October, the feast of Forgiveness and of the Tents. <a id="a33_495"></a>[[UB 123:3.5](/en/The_Urantia_Book/123#p3_5)],  <a id="a33_543"></a>[[UB 134:9.1-3](/en/The_Urantia_Book/134#p9_1)] 
 
 This last represented the end of the most significant festivals. Here the official period of rest for the Jews ended, and the return to work began again. now it was time for routine. From that moment on, it was necessary to return to the fields to prepare the land for new crops. 
 

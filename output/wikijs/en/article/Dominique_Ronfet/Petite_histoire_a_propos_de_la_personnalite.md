@@ -42,7 +42,7 @@ In fact our hero was not very satisfied with this day.
 
 Now that he found himself alone, calm slowly returned to him...as well as a surprising sentence that he had read a few days before and had left him skeptical:
 
-> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” (<a id="a43_377"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
+> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” (<a id="a44_377"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
 
 He remembered some of the events of the last few hours and wondered who had experienced them like this.
 

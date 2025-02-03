@@ -59,7 +59,7 @@ A quick tour of the old town of Verona had been organized, followed by an excell
 
 The spiritualization of the mind had been discussed the day before and we devoted Sunday morning to clarifying this process described in paragraph 7 of section 3 of the first booklet: The Universal Father:
 
-> “In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence.” (<a id="a60_902"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
+> “In the inner experience of man, mind is joined to matter. Such material-linked minds cannot survive mortal death. The technique of survival is embraced in those adjustments of the human will and those transformations in the mortal mind whereby such a God-conscious intellect gradually becomes spirit taught and eventually spirit led. This evolution of the human mind from matter association to spirit union results in the transmutation of the potentially spirit phases of the mortal mind into the morontia realities of the immortal soul. Mortal mind subservient to matter is destined to become increasingly material and consequently to suffer eventual personality extinction; mind yielded to spirit is destined to become increasingly spiritual and ultimately to achieve oneness with the surviving and guiding divine spirit and in this way to attain survival and eternity of personality existence.” (<a id="a61_902"></a>[UB 1:3.7](/en/The_Urantia_Book/1#p3_7))
 
 A fascinating two-hour shared discussion ensued on the meaning of “. . . the adjustments of the human will and the transformations in the mortal mind by which . . . must be made” and their implications for daily life, which clarified many vague ideas.
 
@@ -67,7 +67,7 @@ Around 11 o'clock everyone went to their room to prepare their luggage and we we
 
 The results of this meeting are very positive and promising. Two of the three Italian participants are devoted readers and sincerely wish to get involved in forming study groups, organizing other meetings and arousing interest among Italians in reading _Il Libro di Urantia_. Memo Zago. no longer wishes to assume the role of contact person and Danielle has spontaneously offered to replace him.
 
-We must thank Danielle for her initiative. She deserves a lot of credit because the organization was excellent and there is no doubt that the fruits will be numerous. “The act is ours, the consequences are God's.” (<a id="a68_215"></a>[UB 117:5.6](/en/The_Urantia_Book/117#p5_6))
+We must thank Danielle for her initiative. She deserves a lot of credit because the organization was excellent and there is no doubt that the fruits will be numerous. “The act is ours, the consequences are God's.” (<a id="a69_215"></a>[UB 117:5.6](/en/The_Urantia_Book/117#p5_6))
 
 _Georges Michelson-Dupont_
 

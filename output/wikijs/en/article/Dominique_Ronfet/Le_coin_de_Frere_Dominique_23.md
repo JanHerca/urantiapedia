@@ -41,7 +41,7 @@ dateCreated: 2024-10-19T15:5:2Z
 - That's it, we're off again!
 - ***Ha ha ha... hey, let's end with a passage from your book.***
 - OK!
-- ***“Matter — energy — because they are only diverse manifestations of the same cosmic reality, as a universal phenomenon, is inherent in the Universal Father. “In him all things subsist.”*** <a id="a42_193"></a>[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)
+- ***“Matter — energy — because they are only diverse manifestations of the same cosmic reality, as a universal phenomenon, is inherent in the Universal Father. “In him all things subsist.”*** <a id="a43_193"></a>[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)
 - But that has nothing to do with your question?!
 - ***Indeed... Ha ha ha ha!***
 - Anything. Although...

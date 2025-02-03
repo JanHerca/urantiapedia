@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — January 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
@@ -41,7 +62,7 @@ This moment of closure, of clearing our lives of certain cobwebs that we have ac
 
 Those of us who read and want to put _The Urantia Book_ into practice know that nothing really bad is going to happen to us, that everything will be for our good and growth, guided by a loving hand:
 
-Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. [UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
+Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. <a id="a64_419"></a>[UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
 <br style="clear:both;"/>
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12)
@@ -211,7 +232,7 @@ A series of concepts related to truth were differentiated: divine truth, truth a
 
 <br style="clear:both;"/>
 
-> “Do not overlook the value of your spiritual heritage, the river of truth running down through the centuries, even to the barren times of a materialistic and secular age. In all your worthy efforts to rid yourselves of the superstitious creeds of past ages, make sure that you hold fast the eternal truth. But be patient! when the present superstition revolt is over, the truths of Jesus’ gospel will persist gloriously to illuminate a new and better way.” ([UB 195:9.1](/en/The_Urantia_Book/195#p9_1))
+> “Do not overlook the value of your spiritual heritage, the river of truth running down through the centuries, even to the barren times of a materialistic and secular age. In all your worthy efforts to rid yourselves of the superstitious creeds of past ages, make sure that you hold fast the eternal truth. But be patient! when the present superstition revolt is over, the truths of Jesus’ gospel will persist gloriously to illuminate a new and better way.” (<a id="a234_460"></a>[UB 195:9.1](/en/The_Urantia_Book/195#p9_1))
 
 This paragraph has always been inspiring to me since I first read it thirty years ago. It has been in front of me for a long time, on a note pinned to a corkboard, as a reminder. And I chose this paragraph as the introductory quote for a novel I have written. I always believed that its author was Mantutia, the director of the revealing commission, perhaps because it is located in a document of The Urantia Book that tells things about the future, and I felt that only a Melchizedek could have such profound vision about the times to come.
 
@@ -301,3 +322,24 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2025/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — January 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

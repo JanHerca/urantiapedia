@@ -77,7 +77,7 @@ In (9), “_...the eternal truth_” May the eternal truth be revealed, admitted
 > _(8) Sois patient avec nous, De même que nous témoignons une bienveillance affectueuse à notre prochain._
 > _(9) (10)Conduis-nous de ta propre main, pas à pas, dans le dédale incertain de la vie,_
 > _(11) Et, quand viendra notre fin, reçois dans ton sein nos esprits fidèles._
-> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ [UB 144:5.12-24](/en/The_Urantia_Book/144#p5_12)
+> _(12) Ainsi soit-il, que ta volonté soit faite, et non nos désirs._ <a id="a79_70"></a>[UB 144:5.12-24](/en/The_Urantia_Book/144#p5_12)
 
 In (1), there is first a rather unusual indication of filiation in “Parent creator”, then a suggestion of the position of the Father at the center of all things, this undoubtedly denotes a knowledge of the physical, mental and spiritual “geography” of the universe.
 

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — July-August 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Urantia Questionnaire: Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Listen
 
@@ -36,9 +60,9 @@ In _The Urantia Book_ we read about Jesus of Nazareth this unusual behavior:
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-By then Ganid had begun to realize that his tutor was spending his free time in this unusual personal ministry to his fellow men, and he wanted to find out the reason for this constant activity. He asked: “Why do you spend all your time talking to strangers?” Jesus replied: “Ganid, to one who knows God, no man is a stranger. In the experience of meeting the Father in heaven you discover that all men are your brothers, and what is so strange about rejoicing in the company of a newly discovered brother? To deal with our brothers and sisters, to know their problems and to learn to love them is the supreme experience of living.” [UB 130:2.6](/en/The_Urantia_Book/130#p2_6)
+By then Ganid had begun to realize that his tutor was spending his free time in this unusual personal ministry to his fellow men, and he wanted to find out the reason for this constant activity. He asked: “Why do you spend all your time talking to strangers?” Jesus replied: “Ganid, to one who knows God, no man is a stranger. In the experience of meeting the Father in heaven you discover that all men are your brothers, and what is so strange about rejoicing in the company of a newly discovered brother? To deal with our brothers and sisters, to know their problems and to learn to love them is the supreme experience of living.” <a id="a62_633"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)
 
-It was this close association with his fellow men, young and old, Jew and Gentile, that gave him the opportunity to know the human race. Jesus was well educated in that he thoroughly understood men and loved them dearly. [UB 123:5.8](/en/The_Urantia_Book/123#p5_8)
+It was this close association with his fellow men, young and old, Jew and Gentile, that gave him the opportunity to know the human race. Jesus was well educated in that he thoroughly understood men and loved them dearly. <a id="a64_221"></a>[UB 123:5.8](/en/The_Urantia_Book/123#p5_8)
 
 We see how a true Creator God comes to earth and is not overbearing in his supreme power, but close and kind, friendly and understanding of our problems and experiences. “He thoroughly understood men and loved them dearly.” He talked and listened to all kinds of people: caravan drivers, prostitutes, an emperor, fishermen, and little children. All human beings interested him.
 
@@ -53,13 +77,13 @@ Pablo d'Ors analyzes these five convictions regarding listening:
 
 We cannot listen to others if we do not listen to ourselves. If I sit in silence and stillness, this transforms us. Yes, something so simple. Our society is now characterized by a greater connection with the outside world (mobile phones, the Internet), but less connection with the inside. We live in the shell and do not know ourselves, we ignore the treasure that lies within us. If I know myself, I can love myself, because if I do not love myself as a son or daughter of God, I do not love others (I cannot give what I do not have). If I do not love myself, we do not understand what life is about. Life is precisely about loving, and if we are not in life, we do not glimpse that mystery that is God. We only see dogmas, rituals, beliefs that are outside of us. We do not listen to the living God, we do not see that inner source that Jesus constantly exhorted us to seek.
 
-Jesus exhorted his followers to exercise an experiential faith. He warned them not to depend on mere intellectual assent, credulity or established authority. [UB 140:4.9](/en/The_Urantia_Book/140#p4_9)
+Jesus exhorted his followers to exercise an experiential faith. He warned them not to depend on mere intellectual assent, credulity or established authority. <a id="a79_158"></a>[UB 140:4.9](/en/The_Urantia_Book/140#p4_9)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-3.jpg" alt="Editorial jul23-3" width="350">
 </figure>
 
-… I declare unto you that my Father on Paradise does in fact govern a universe of universes by the persuasive power of his love. Love is the greatest of all the realities of spirit. Truth is a liberating revelation, but love is the supreme relationship. [UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
+… I declare unto you that my Father on Paradise does in fact govern a universe of universes by the persuasive power of his love. Love is the greatest of all the realities of spirit. Truth is a liberating revelation, but love is the supreme relationship. <a id="a85_254"></a>[UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
 
 **2\. Rectitude of intention**
 
@@ -115,7 +139,7 @@ Jesus was particularly reluctant to pray in public; the twelve had heard him pra
 
 _The Urantia Book_ tells us to seek silence and solitude, and in that silence and solitude it is possible to open our vessel or mind to receive the divine gifts.
 
-Prayer does not move the divine heart to give itself generously, but it often digs wider and deeper channels through which the divine bestowals can flow to the hearts and souls of those who remember to maintain uninterrupted communion with their Maker through sincere prayer and true worship. [UB 194:3.20](/en/The_Urantia_Book/194#p3_20)
+Prayer does not move the divine heart to give itself generously, but it often digs wider and deeper channels through which the divine bestowals can flow to the hearts and souls of those who remember to maintain uninterrupted communion with their Maker through sincere prayer and true worship. <a id="a141_293"></a>[UB 194:3.20](/en/The_Urantia_Book/194#p3_20)
 
 These five conditions make true dialogue possible. It is not an exchange of opinions but a dialogue; it is walking together toward the truth. It is not saying mine and you yours, but something new is born and life emerges: the truth. When two people truly dialogue and listen to each other, there is no exclusion that can dynamite the truth. We arrive at a living truth.
 <br style="clear:both;"/>
@@ -155,3 +179,28 @@ That is how important listening to oneself can be.
 - [This article from the Magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/06/30/editorial-julio-2023)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — July-August 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Urantia Questionnaire: Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

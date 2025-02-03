@@ -52,13 +52,13 @@ But things do not happen that way. The divine personality is not “manifest” 
 
 The discovery of this divine personality was one of the major pursuits of the child and then of the young man.
 
-It was only around the age of 10 that Jesus became aware of a special mission that he had to fulfill, but he then reasoned as the Son of God, inhabited by an Adjuster, he did not yet know that he was the Creator Son. (cf: <a id="a53_222"></a>[UB 124:2.1](/en/The_Urantia_Book/124#p2_1))
+It was only around the age of 10 that Jesus became aware of a special mission that he had to fulfill, but he then reasoned as the Son of God, inhabited by an Adjuster, he did not yet know that he was the Creator Son. (cf: <a id="a54_222"></a>[UB 124:2.1](/en/The_Urantia_Book/124#p2_1))
 
-The only extraordinary event in his childhood life took place at the age of 13 when a messenger from Emmanuel appeared to him and said: “The hour has come. It is time for you to start taking care of your Father's business.” (<a id="a55_225"></a>[UB 124:6.15](/en/The_Urantia_Book/124#p6_15))
+The only extraordinary event in his childhood life took place at the age of 13 when a messenger from Emmanuel appeared to him and said: “The hour has come. It is time for you to start taking care of your Father's business.” (<a id="a56_225"></a>[UB 124:6.15](/en/The_Urantia_Book/124#p6_15))
 
 In his fifteenth year he still does not know in what form he will have to accomplish his mission as an educator. He adopts the title of Son of Man. He does not yet know that he is the Creator Son.
 
-At sixteen he thought of undertaking his ministry of public life as master of the truth and revealer of the heavenly Father to the world. (<a id="a59_139"></a>[UB 127:1.7](/en/The_Urantia_Book/127#p1_7)) He still did not know that he was the Creator Son.
+At sixteen he thought of undertaking his ministry of public life as master of the truth and revealer of the heavenly Father to the world. (<a id="a60_139"></a>[UB 127:1.7](/en/The_Urantia_Book/127#p1_7)) He still did not know that he was the Creator Son.
 
 At nineteen, he only speaks to Rebecca, who would like to have him as her husband, about the indecision of his career as the son of destiny.
 
@@ -66,17 +66,17 @@ Jesus does not yet know his status as Creator Son.
 
 _The Urantia Book_ has a phrase that characterizes the dual nature in Joshua's experience.
 
-"He never doubted his human nature; it was obvious, and he was always aware of it. As for his divine nature, there was always room for doubt and hypothesis; at least that remained true until the event that occurred at his baptism. (<a id="a67_232"></a>[UB 128:1.8](/en/The_Urantia_Book/128#p1_8))
+"He never doubted his human nature; it was obvious, and he was always aware of it. As for his divine nature, there was always room for doubt and hypothesis; at least that remained true until the event that occurred at his baptism. (<a id="a68_232"></a>[UB 128:1.8](/en/The_Urantia_Book/128#p1_8))
 
 Thus, one might believe that he only recognized his nature as Creator Son at the time of his baptism. This is not the case.
 
-It is probable that his consciousness of being the Father of Nebadon came gradually through the perception of his potentialities. We are told that in his twenty-sixth year: _Jesus became keenly conscious of possessing a very extensive potential power. He was also fully persuaded that this power was not to be used by his personality as the Son of Man, at least until his hour had come._ (<a id="a71_389"></a>[UB 128:7.1](/en/The_Urantia_Book/128#p7_1))
+It is probable that his consciousness of being the Father of Nebadon came gradually through the perception of his potentialities. We are told that in his twenty-sixth year: _Jesus became keenly conscious of possessing a very extensive potential power. He was also fully persuaded that this power was not to be used by his personality as the Son of Man, at least until his hour had come._ (<a id="a72_389"></a>[UB 128:7.1](/en/The_Urantia_Book/128#p7_1))
 
-In the twenty-seventh year _Jesus made great progress in the ascending mastery of his human mind..._(<a id="a73_101"></a>[UB 129:1.14](/en/The_Urantia_Book/129#p1_14))
+In the twenty-seventh year _Jesus made great progress in the ascending mastery of his human mind..._(<a id="a74_101"></a>[UB 129:1.14](/en/The_Urantia_Book/129#p1_14))
 
-Finally, we are informed that it was at the end of his Mediterranean journey that he knew - with all human certainty - that he was a Son of God, a Creator Son of the Universal Father. (<a id="a75_185"></a>[UB 129:3.9](/en/The_Urantia_Book/129#p3_9))
+Finally, we are informed that it was at the end of his Mediterranean journey that he knew - with all human certainty - that he was a Son of God, a Creator Son of the Universal Father. (<a id="a76_185"></a>[UB 129:3.9](/en/The_Urantia_Book/129#p3_9))
 
-However, proof of this certainty is only given to us during the stay on Mount Hermon where Jesus addresses Satan and Caligastia, representing Lucifer, saying: May the will of the Father of Paradise prevail and, as for you, my rebellious son, may the Ancients of Days judge you divinely. I am your Creator-Father... (<a id="a77_316"></a>[UB 134:8.7](/en/The_Urantia_Book/134#p8_7))
+However, proof of this certainty is only given to us during the stay on Mount Hermon where Jesus addresses Satan and Caligastia, representing Lucifer, saying: May the will of the Father of Paradise prevail and, as for you, my rebellious son, may the Ancients of Days judge you divinely. I am your Creator-Father... (<a id="a78_316"></a>[UB 134:8.7](/en/The_Urantia_Book/134#p8_7))
 
 Following the vision and hearing of his baptism, Jesus, now fully aware of his potential, must choose as quickly as possible not to use his divine nature and this is what he does during the 40 days spent in the hills north of Pella. This non-use of his divine strength will go as far as accepting death on the cross.
 

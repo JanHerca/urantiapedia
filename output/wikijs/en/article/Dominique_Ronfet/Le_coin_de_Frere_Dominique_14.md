@@ -51,7 +51,7 @@ Interesting image. But can we talk about space without addressing time?
 - You're going to talk to me about the construction of your soul, I see you coming.
 - I was thinking in passing:
 
-> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ (<a id="a52_151"></a>[UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
+> _Patience is exercised by those mortals whose time units are short; true maturity transcends patience by a forbearance born of real understanding._ (<a id="a53_151"></a>[UB 118:1.6](/en/The_Urantia_Book/118#p1_6))
 
 - Think far ahead and only take the necessary luggage.
 - Luggage, furniture, if you listened to us we could pass for happy movers.

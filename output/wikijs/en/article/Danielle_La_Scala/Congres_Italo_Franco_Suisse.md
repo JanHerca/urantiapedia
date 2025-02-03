@@ -59,7 +59,7 @@ Registration for the Congress (3 days) | €30
 
 The hotel is 2 km from Desenzano train station, the taxi ride is around 8€, Verona Catullo airport is around 30 km away, Milano-Orio-al-Serio airport is around 80 km away.
 
-The theme of this meeting will be “the survival of the human self” <a id="a60_67"></a>[UB 10:4.2](/en/The_Urantia_Book/10#p4_2)
+The theme of this meeting will be “the survival of the human self” <a id="a61_67"></a>[UB 10:4.2](/en/The_Urantia_Book/10#p4_2)
 
 I ask you to kindly register as soon as possible to make a firm reservation for the rooms at my email address: danielle.lascala@yahoo.it or at my postal address: Danielle La Scala, 123 chemin de Bouger, F 74250 Fillinges
 

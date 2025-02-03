@@ -63,39 +63,39 @@ Although it is not possible within the framework of this study to consider in de
 
 All these divine gifts can only encourage us to wholeheartedly devote our will to doing the will of our generous Father and this is indeed our first duty.
 
-***Question 1***: _Read the following sections_: <a id="a64_49"></a>[UB 5:3.7-8](/en/The_Urantia_Book/5#p3_7); <a id="a64_92"></a>[UB 107:0](/en/The_Urantia_Book/107#p0); <a id="a64_133"></a>[UB 108:0,1,5](/en/The_Urantia_Book/108#p0); <a id="a64_178"></a>[UB 111:2](/en/The_Urantia_Book/111#p2); <a id="a64_219"></a>[UB 112:7](/en/The_Urantia_Book/112#p7); <a id="a64_260"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11); <a id="a64_303"></a>[UB 1:7.6](/en/The_Urantia_Book/1#p7_6); <a id="a64_344"></a>[UB 16:8](/en/The_Urantia_Book/16#p8); <a id="a64_383"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8); <a id="a64_424"></a>[UB 16:6](/en/The_Urantia_Book/16#p6); <a id="a64_463"></a>[UB 16:5](/en/The_Urantia_Book/16#p5); <a id="a64_502"></a>[UB 42:12](/en/The_Urantia_Book/42#p12); <a id="a64_543"></a>[UB 115:1](/en/The_Urantia_Book/115#p1); <a id="a64_584"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a64_623"></a>[UB 5:5](/en/The_Urantia_Book/5#p5); <a id="a64_660"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6); <a id="a64_703"></a>[UB 100:2-3](/en/The_Urantia_Book/100#p2); [UB 117](/en/The_Urantia_Book/117)
+***Question 1***: _Read the following sections_: <a id="a65_49"></a>[UB 5:3.7-8](/en/The_Urantia_Book/5#p3_7); <a id="a65_92"></a>[UB 107:0](/en/The_Urantia_Book/107#p0); <a id="a65_133"></a>[UB 108:0,1,5](/en/The_Urantia_Book/108#p0); <a id="a65_178"></a>[UB 111:2](/en/The_Urantia_Book/111#p2); <a id="a65_219"></a>[UB 112:7](/en/The_Urantia_Book/112#p7); <a id="a65_260"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11); <a id="a65_303"></a>[UB 1:7.6](/en/The_Urantia_Book/1#p7_6); <a id="a65_344"></a>[UB 16:8](/en/The_Urantia_Book/16#p8); <a id="a65_383"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8); <a id="a65_424"></a>[UB 16:6](/en/The_Urantia_Book/16#p6); <a id="a65_463"></a>[UB 16:5](/en/The_Urantia_Book/16#p5); <a id="a65_502"></a>[UB 42:12](/en/The_Urantia_Book/42#p12); <a id="a65_543"></a>[UB 115:1](/en/The_Urantia_Book/115#p1); <a id="a65_584"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a65_623"></a>[UB 5:5](/en/The_Urantia_Book/5#p5); <a id="a65_660"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6); <a id="a65_703"></a>[UB 100:2-3](/en/The_Urantia_Book/100#p2); [UB 117](/en/The_Urantia_Book/117)
 
 Our Father desires to share his perfection and love with each of us, personally, by endowing us with a piece of himself, “the will of God in the far-off universes” (1:3:6). The Urantia Book reveals that not only is he the will of God in us, but he has many other missions to accomplish.
 
 _What do you think they are?_
 
-***Question 2:*** _Read the following sections_: <a id="a70_49"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11); <a id="a70_92"></a>[UB 1:7.6](/en/The_Urantia_Book/1#p7_6); <a id="a70_133"></a>[UB 16:8](/en/The_Urantia_Book/16#p8); Optional:112
+***Question 2:*** _Read the following sections_: <a id="a71_49"></a>[UB 0:5.11](/en/The_Urantia_Book/0#p5_11); <a id="a71_92"></a>[UB 1:7.6](/en/The_Urantia_Book/1#p7_6); <a id="a71_133"></a>[UB 16:8](/en/The_Urantia_Book/16#p8); Optional:112
 
-Personality and the free will associated with it have never been explained with such clarity and depth as in The Urantia Book. It would be presumptuous to undertake an exhaustive study of what the authors have to say on the subject, nevertheless we can explore the main points. On the subject of free will Jesus said to Ganid: “It is the possession of such powers of spiritual discrimination and choice of truth that makes mortal man a moral being, a creature endowed with the attributes of spiritual responsibility and the potential for eternal survival.” (<a id="a72_558"></a>[UB 130:2.8](/en/The_Urantia_Book/130#p2_8))
+Personality and the free will associated with it have never been explained with such clarity and depth as in The Urantia Book. It would be presumptuous to undertake an exhaustive study of what the authors have to say on the subject, nevertheless we can explore the main points. On the subject of free will Jesus said to Ganid: “It is the possession of such powers of spiritual discrimination and choice of truth that makes mortal man a moral being, a creature endowed with the attributes of spiritual responsibility and the potential for eternal survival.” (<a id="a73_558"></a>[UB 130:2.8](/en/The_Urantia_Book/130#p2_8))
 
 _What are the fundamental characteristics of the human personality and in what circumstances of life is our free will exercised?_
 
-***Question 3***: _Read the following sections_: <a id="a76_49"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8); <a id="a76_90"></a>[UB 16:6](/en/The_Urantia_Book/16#p6); <a id="a76_129"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a76_168"></a>[UB 42:12](/en/The_Urantia_Book/42#p12); Optional:<a id="a76_218"></a>[UB 111:1](/en/The_Urantia_Book/111#p1); <a id="a76_259"></a>[UB 115:1](/en/The_Urantia_Book/115#p1)
+***Question 3***: _Read the following sections_: <a id="a77_49"></a>[UB 0:5.8](/en/The_Urantia_Book/0#p5_8); <a id="a77_90"></a>[UB 16:6](/en/The_Urantia_Book/16#p6); <a id="a77_129"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a77_168"></a>[UB 42:12](/en/The_Urantia_Book/42#p12); Optional:<a id="a77_218"></a>[UB 111:1](/en/The_Urantia_Book/111#p1); <a id="a77_259"></a>[UB 115:1](/en/The_Urantia_Book/115#p1)
 
-The description of the mind in The Urantia Book is quite different from those of psychology, psychiatry or medicine, which are too often confused with the brain. A Mighty Messenger tells us: “Mind universally dominates matter, just as it in turn responds to the ultimate overcontrol of spirit. And, in mortal man, only the mind that freely submits to the direction of spirit can hope to survive mortal existence in space-time as an immortal child of the eternal spirit world of the Supreme, the Ultimate and the Absolute: the Infinite.” (<a id="a78_538"></a>[UB 42:12.15](/en/The_Urantia_Book/42#p12_15))
+The description of the mind in The Urantia Book is quite different from those of psychology, psychiatry or medicine, which are too often confused with the brain. A Mighty Messenger tells us: “Mind universally dominates matter, just as it in turn responds to the ultimate overcontrol of spirit. And, in mortal man, only the mind that freely submits to the direction of spirit can hope to survive mortal existence in space-time as an immortal child of the eternal spirit world of the Supreme, the Ultimate and the Absolute: the Infinite.” (<a id="a79_538"></a>[UB 42:12.15](/en/The_Urantia_Book/42#p12_15))
 
 _Describe the innate characteristics and functions of the human mind._
 
-***Question 4***: _Read the following sections_: <a id="a82_49"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a82_88"></a>[UB 5:5](/en/The_Urantia_Book/5#p5); <a id="a82_125"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6)
+***Question 4***: _Read the following sections_: <a id="a83_49"></a>[UB 36:5](/en/The_Urantia_Book/36#p5); <a id="a83_88"></a>[UB 5:5](/en/The_Urantia_Book/5#p5); <a id="a83_125"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6)
 
 The Urantia Book describes different, progressive levels of consciousness: awareness, self-awareness, and God-consciousness.
 
 _What are the characteristics and role of each of them?_
 
-***Question 5***: _Read the following sections_: <a id="a88_49"></a>[UB 100:2-3](/en/The_Urantia_Book/100#p2)
+***Question 5***: _Read the following sections_: <a id="a89_49"></a>[UB 100:2-3](/en/The_Urantia_Book/100#p2)
 
-To a learned Greek who asked a question about the soul, Jesus answered: “The soul is that portion of man which reflects his self, which discerns truth and perceives spirit; it forever elevates the human being above the level of the animal world.” (<a id="a90_248"></a>[UB 133:6.5](/en/The_Urantia_Book/133#p6_5)) The Urantia Book explains the birth and growth of the soul.
+To a learned Greek who asked a question about the soul, Jesus answered: “The soul is that portion of man which reflects his self, which discerns truth and perceives spirit; it forever elevates the human being above the level of the animal world.” (<a id="a91_248"></a>[UB 133:6.5](/en/The_Urantia_Book/133#p6_5)) The Urantia Book explains the birth and growth of the soul.
 
 _In your opinion, what are the conditions for the growth of the soul and what determines its survival?_
 
 ***Question 6***: _Read the following sections_: 117
 
-The first and second periods ultimately reveal that everything we have comes from the Universal Father and his associates. What we are and what we want to become is what we offer Him in return. “When a man devotes his will to do the will of the Father, when a man gives to God all that he has, then God makes that man more than he is.” (<a id="a96_337"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
+The first and second periods ultimately reveal that everything we have comes from the Universal Father and his associates. What we are and what we want to become is what we offer Him in return. “When a man devotes his will to do the will of the Father, when a man gives to God all that he has, then God makes that man more than he is.” (<a id="a97_337"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
 
 _Why is this inescapable injunction “our first duty and our highest ambition” and what are the repercussions on the universal level._
 

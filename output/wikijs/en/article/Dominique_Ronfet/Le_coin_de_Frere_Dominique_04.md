@@ -37,15 +37,15 @@ To teach or not to teach? ... such could be the question that a reader would ask
 
 But first, what does it mean to learn in the Fascicles?
 
-> _It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them._ (<a id="a38_234"></a>[UB 16:6.11](/en/The_Urantia_Book/16#p6_11))
+> _It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them._ (<a id="a39_234"></a>[UB 16:6.11](/en/The_Urantia_Book/16#p6_11))
 
 What faculties are we talking about?
 
-> _These scientific, moral, and spiritual insights, these cosmic responses, are innate in the cosmic mind, which endows all will creatures. The experience of living never fails to develop these three cosmic intuitions; they are constitutive in the self-consciousness of reflective thinking. But it is sad to record that so few persons on Urantia take delight in cultivating these qualities of courageous and independent cosmic thinking._ (<a id="a42_439"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9))
+> _These scientific, moral, and spiritual insights, these cosmic responses, are innate in the cosmic mind, which endows all will creatures. The experience of living never fails to develop these three cosmic intuitions; they are constitutive in the self-consciousness of reflective thinking. But it is sad to record that so few persons on Urantia take delight in cultivating these qualities of courageous and independent cosmic thinking._ (<a id="a43_439"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9))
 
 We would therefore have, innately, the capacity to experience self-revelation by thus unifying these three intuitions.
 
-> _In the local universe mind bestowals, these three insights of the cosmic mind constitute the a priori assumptions which make it possible for man to function as a rational and self-conscious personality in the realms of science, philosophy, and religion. Stated otherwise, the recognition of the *reality* of these three manifestations of the Infinite is by a cosmic technique of self-revelation. Matter-energy is recognized by the mathematical logic of the senses; mind-reason intuitively knows its moral duty; spirit-faith (worship) is the religion of the reality of spiritual experience. These three basic factors in reflective thinking may be unified and co-ordinated in personality development, or they may become disproportionate and virtually unrelated in their respective functions. But when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man’s experience in and with things, meanings, and values._ (<a id="a46_1106"></a>[UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
+> _In the local universe mind bestowals, these three insights of the cosmic mind constitute the a priori assumptions which make it possible for man to function as a rational and self-conscious personality in the realms of science, philosophy, and religion. Stated otherwise, the recognition of the *reality* of these three manifestations of the Infinite is by a cosmic technique of self-revelation. Matter-energy is recognized by the mathematical logic of the senses; mind-reason intuitively knows its moral duty; spirit-faith (worship) is the religion of the reality of spiritual experience. These three basic factors in reflective thinking may be unified and co-ordinated in personality development, or they may become disproportionate and virtually unrelated in their respective functions. But when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man’s experience in and with things, meanings, and values._ (<a id="a47_1106"></a>[UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
 
 I then understand better how an understanding of the world comes through an experience of synthesis not of information learned by heart, but through the recognition of the meaning of this information integrated into my personality, which is only satisfied with totality.
 
@@ -55,7 +55,7 @@ Information in itself does not convey meaning.
 
 Is it all so obvious?
 
-P. 192 -. _They \* form the basis of the self-consciousness of reflective thought. <ins>But it is sad to note that so few people on Urantia take pleasure in cultivating these courageous and independent qualities of cosmic thought</ins>._ <a id="a56_238"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9)
+P. 192 -. _They \* form the basis of the self-consciousness of reflective thought. <ins>But it is sad to note that so few people on Urantia take pleasure in cultivating these courageous and independent qualities of cosmic thought</ins>._ <a id="a57_238"></a>[UB 16:6.9](/en/The_Urantia_Book/16#p6_9)
 
 \* These three cosmic intuitions
 

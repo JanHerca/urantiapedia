@@ -50,7 +50,7 @@ Please note that the number of rooms is limited, reservations will be made on a 
 
 The organizing team.
 
-> Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” (<a id="a51_718"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> Ganid was, by this time, beginning to learn how his tutor spent his leisure in this unusual personal ministry to his fellow men, and the young Indian set about to find out the motive for these incessant activities. He asked, “Why do you occupy yourself so continuously with these visits with strangers?” And Jesus answered: “Ganid, no man is a stranger to one who knows God. In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.” (<a id="a52_718"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 
 

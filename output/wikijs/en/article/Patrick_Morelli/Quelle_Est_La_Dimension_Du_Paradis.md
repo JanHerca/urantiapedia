@@ -40,7 +40,7 @@ _Patrick Morelli (France)_
 
 The island of Paradise is the source of all the energetic power of the Universe and all the gigantic masses of creation gravitate around this body.
 
-We know that it appears as a vast flattened ellipsoid whose major axis is one-sixth longer than its minor axis and its “thickness” (the distance between the upper surface and the lower surface) is one-tenth of the minor axis. We also know that this central Island is (<a id="a41_268"></a>[UB 11:0.1](/en/The_Urantia_Book/11#p0_1)) “**the most gigantic organized body of cosmic reality in the entire master universe**”.
+We know that it appears as a vast flattened ellipsoid whose major axis is one-sixth longer than its minor axis and its “thickness” (the distance between the upper surface and the lower surface) is one-tenth of the minor axis. We also know that this central Island is (<a id="a42_268"></a>[UB 11:0.1](/en/The_Urantia_Book/11#p0_1)) “**the most gigantic organized body of cosmic reality in the entire master universe**”.
 
 The most gigantic organized body certainly, but could we get a vague idea of it?
 
@@ -55,13 +55,13 @@ However, if we step back a little, the Book provides an interesting astronomical
 
 You should know, beforehand, that three circuits of worlds gravitate around Paradise before the circles of Havona and they are located between the first circle of Havona and the Isle of Paradise.
 
-It is the time taken by the first circuit (the one closest to Paradise which is the circuit of the worlds of the Father) to make a complete revolution, which defines the time of a standard “Paradise-Havona” day which corresponds to 1000 years of our Urantian time: (<a id="a56_266"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**A day of Paradise-Havona corresponds just to a thousand years of the present Urantia calendar which includes leap years, minus seven minutes, three seconds and one eighth of a second.**”
+It is the time taken by the first circuit (the one closest to Paradise which is the circuit of the worlds of the Father) to make a complete revolution, which defines the time of a standard “Paradise-Havona” day which corresponds to 1000 years of our Urantian time: (<a id="a57_266"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**A day of Paradise-Havona corresponds just to a thousand years of the present Urantia calendar which includes leap years, minus seven minutes, three seconds and one eighth of a second.**”
 
 Consequently, if we could have an idea of the speed of movement of these worlds it would be easy for us to calculate the circumference of the circle which encompasses the Isle of Paradise, and also, the diameter of this circle; since we know perfectly well the time of this journey: a thousand years.
 
 How fast can these worlds move?
 
-The Book provides a clue: (<a id="a62_27"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**Although their speed is enormous because they (the planets of the first circuit) are located between the dark gravity bodies and the gigantic Paradise**”
+The Book provides a clue: (<a id="a63_27"></a>[UB 14:1.12](/en/The_Urantia_Book/14#p1_12)) “**Although their speed is enormous because they (the planets of the first circuit) are located between the dark gravity bodies and the gigantic Paradise**”
 
 So what is huge speed?
 

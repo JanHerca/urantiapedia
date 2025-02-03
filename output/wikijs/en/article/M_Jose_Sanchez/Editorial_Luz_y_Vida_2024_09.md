@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Navigating through life: Serenity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-1.jpg" alt="Editorial oct 24 -1" width="350">
@@ -39,7 +63,7 @@ A story says that they asked the Master: “What is spirituality?”
 
 _The Urantia Book_ exalts, precisely, this inner transformation from the very beginning of the book:
 
-> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
+> It is exceedingly difficult to present enlarged concepts and advanced truth, in our endeavor to expand cosmic consciousness and enhance spiritual perception, when we are restricted to the use of a circumscribed language of the realm. But our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue. We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning. (<a id="a65_587"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-2.jpg" alt="Editorial oct 24 -2" width="350">
@@ -52,7 +76,7 @@ This striking way of the Deity revealing its projects, not using people as messe
 The same book highlights this divine desire for communication, this effort to be revealed with a multitude of resources:
 <br style="clear:both;"/>
 
-> Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him; and it is, therefore, the limitations inherent in you, inseparable from your finite personality and material existence, that determine the time and place and circumstances in which you may achieve the goal of the journey of mortal ascension and stand in the presence of the Father at the center of all things. ([UB 5:1.2](/en/The_Urantia_Book/5#p1_2))
+> Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him; and it is, therefore, the limitations inherent in you, inseparable from your finite personality and material existence, that determine the time and place and circumstances in which you may achieve the goal of the journey of mortal ascension and stand in the presence of the Father at the center of all things. (<a id="a78_722"></a>[UB 5:1.2](/en/The_Urantia_Book/5#p1_2))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-3.jpg" alt="Editorial oct 24 -3" width="350">
@@ -65,7 +89,7 @@ The same book highlights this divine desire for communication, this effort to be
 The revelators know that this unusual communication will be possible not only because of the material in the book, but also because of the internal presence of a divine spark. Therein lies the key to understanding the text:
 <br style="clear:both;"/>
 
-> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. ([UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
+> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. (<a id="a91_351"></a>[UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
 
 The text published 69 years ago is a door that, once opened, we realize that it is an instrument that leads us to discover that the most important thing of all is LOVE. A simple element, the book. An extraordinary lesson within, the personal encounter with the loving God of Jesus of Nazareth.
 
@@ -104,3 +128,28 @@ When the Zen master attained enlightenment, he wrote the following to celebrate:
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/editorial-octubre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — October 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Navigating through life: Serenity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

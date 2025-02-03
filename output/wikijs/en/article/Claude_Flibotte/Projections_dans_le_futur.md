@@ -65,7 +65,7 @@ Knowing the Father as the God of time and space, and then the Father as God tran
 
 > The *theoretical* I AM is a creature-philosophic extension of the “infinity of will,” but the Infinite is an *actual* value-level representing the eternity-intension of the true infinity of the absolute and unfettered free will of the Universal Father. This concept is sometimes designated the Father-Infinite.
 >
-> Much of the confusion of all orders of beings, high and low, in their efforts to discover the Father-Infinite, is inherent in their limitations of comprehension. The absolute primacy of the Universal Father is not apparent on subinfinite levels; [UB 0:3.24-25](/en/The_Urantia_Book/0#p3_25)
+> Much of the confusion of all orders of beings, high and low, in their efforts to discover the Father-Infinite, is inherent in their limitations of comprehension. The absolute primacy of the Universal Father is not apparent on subinfinite levels; <a id="a67_248"></a>[UB 0:3.24-25](/en/The_Urantia_Book/0#p3_25)
 
 Thus, for all those who have courageously and lovingly traveled through these ages of the universe, unsuspected wonders await us in the endless discovery of what our Father has planned for us!
 

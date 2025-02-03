@@ -55,7 +55,7 @@ With the Fruits of the Spirit, it is respect for others:
 - be self-effacing and never impose yourself or others.
 
 
-The Fruits of the Spirit (<a id="a56_26"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
+The Fruits of the Spirit (<a id="a57_26"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
 
 | &nbsp; | &nbsp; | &nbsp;
 | --- | --- | ---

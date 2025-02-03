@@ -38,7 +38,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Why and how to worship God? It can sometimes seem difficult to answer, simply, the question of why and especially how to worship the Universal Father.
 
-> _You become conscious of man as your creature brother because you are already conscious of God as your Creator Father. Fatherhood is the relationship out of which we reason ourselves into the recognition of brotherhood. And Fatherhood becomes, or may become, a universe reality to all moral creatures because the Father has himself bestowed personality upon all such beings and has encircuited them within the grasp of the universal personality circuit. We worship God, first, because *he is,* then, because *he is in us,* and last, because *we are in him.*_ (<a id="a39_562"></a>[[UB 16:9.14](/en/The_Urantia_Book/16#p9_14))
+> _You become conscious of man as your creature brother because you are already conscious of God as your Creator Father. Fatherhood is the relationship out of which we reason ourselves into the recognition of brotherhood. And Fatherhood becomes, or may become, a universe reality to all moral creatures because the Father has himself bestowed personality upon all such beings and has encircuited them within the grasp of the universal personality circuit. We worship God, first, because *he is,* then, because *he is in us,* and last, because *we are in him.*_ (<a id="a40_562"></a>[[UB 16:9.14](/en/The_Urantia_Book/16#p9_14))
 
 By apparently answering the question of why, this explanation seems to offer us a technique of worship, a how: that of a triple movement of the soul in relation to God.
 
@@ -72,7 +72,7 @@ The Being from our beings, WE are I.
 
 Third movement of the soul.
 
-> _You become conscious of man as your creature brother because you are already conscious of God as your Creator Father. Fatherhood is the relationship out of which we reason ourselves into the recognition of brotherhood. And Fatherhood becomes, or may become, a universe reality to all moral creatures because the Father has himself bestowed personality upon all such beings and has encircuited them within the grasp of the universal personality circuit. We worship God, first, because *he is,* then, because *he is in us,* and last, because *we are in him.*_ (<a id="a73_562"></a>[[UB 16:9.14](/en/The_Urantia_Book/16#p9_14))
+> _You become conscious of man as your creature brother because you are already conscious of God as your Creator Father. Fatherhood is the relationship out of which we reason ourselves into the recognition of brotherhood. And Fatherhood becomes, or may become, a universe reality to all moral creatures because the Father has himself bestowed personality upon all such beings and has encircuited them within the grasp of the universal personality circuit. We worship God, first, because *he is,* then, because *he is in us,* and last, because *we are in him.*_ (<a id="a74_562"></a>[[UB 16:9.14](/en/The_Urantia_Book/16#p9_14))
 
 A simple path sentence taken from a multitude of other sentences constituting a corpus of 2097 pages. A small roadmap sentence.
 

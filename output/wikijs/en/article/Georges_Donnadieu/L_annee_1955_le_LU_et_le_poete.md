@@ -36,7 +36,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-> “20. Only a poet can discern poetry in the commonplace prose of routine existence.” (<a id="a37_87"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+> “20. Only a poet can discern poetry in the commonplace prose of routine existence.” (<a id="a38_87"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 October 12, 1955: publication in Chicago of the _Urantia Book_. The year 1955 is an exceptional vintage for past, present and future readings of the _Urantia Book_.
 
@@ -84,7 +84,7 @@ _Note 1_: Pierre Delanoë wrote a number of Gilbert Bécaud's hits — of the 14
 
 _Note 2_: The Noës... and the floods: Noë, from the Hebrew nuah (to rest), a name which seems to be more or less a translation or an adaptation of the name of the hero of the Sumerian flood Ziusudra (life of long days).
 
-The <a id="a85_4"></a>[UB 78:7.2](/en/The_Urantia_Book/78#p7_2) “_The floods of Mesopotamia_” speaks precisely of this Sumerian flood and of Noah, winegrower of Aram. In Hawaiian legends the hero of the flood is called Nuu and he is called Nuwa in Chinese legends.
+The <a id="a86_4"></a>[UB 78:7.2](/en/The_Urantia_Book/78#p7_2) “_The floods of Mesopotamia_” speaks precisely of this Sumerian flood and of Noah, winegrower of Aram. In Hawaiian legends the hero of the flood is called Nuu and he is called Nuwa in Chinese legends.
 
 In this article, the poet Pierre Delanoë mentions Bertrand Delanoë, current mayor of Paris, a city whose motto “_Fluctuat nec mergitur_” is quite a program, in the event of a flood.
 

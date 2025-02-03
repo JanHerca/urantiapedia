@@ -45,7 +45,7 @@ To be full would be to be complete, fixed, without aspiration, satisfied, quite 
 Fortunately there is our emptiness.
 Fortunately.
 
-> _Thus may the incompleteness of the Supreme be regarded as a virtue since it makes possible the evolutionary growth of the creature-creation of the present universes. Emptiness does have its virtue, for it may become experientially filled._ (<a id="a46_244"></a>[UB 117:2.8](/en/The_Urantia_Book/117#p2_8))
+> _Thus may the incompleteness of the Supreme be regarded as a virtue since it makes possible the evolutionary growth of the creature-creation of the present universes. Emptiness does have its virtue, for it may become experientially filled._ (<a id="a47_244"></a>[UB 117:2.8](/en/The_Urantia_Book/117#p2_8))
 
 Dominique Ronfet
 

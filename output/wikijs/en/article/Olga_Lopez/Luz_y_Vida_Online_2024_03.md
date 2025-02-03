@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — April 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter
 
@@ -78,7 +99,7 @@ In this presentation, which was given at one of the Spanish readers’ meetings,
 
 [**Teamwork (Chris Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
 
-This brief article was originally published in French in the newsletter _Le Lien Urantien_ of the AFFLU (Association of Francophone Readers of _The Urantia Book_). It emphasizes the importance of teamwork not only on this world but throughout the entire ascending career, as reflected in this quote at the head of the article: “One of the most important lessons you must learn during your career as mortals is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. There are few tasks in the universe for the solitary server. The higher you ascend, the lonelier you will feel when temporarily without the companionship of your fellows.” [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
+This brief article was originally published in French in the newsletter _Le Lien Urantien_ of the AFFLU (Association of Francophone Readers of _The Urantia Book_). It emphasizes the importance of teamwork not only on this world but throughout the entire ascending career, as reflected in this quote at the head of the article: “One of the most important lessons you must learn during your career as mortals is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. There are few tasks in the universe for the solitary server. The higher you ascend, the lonelier you will feel when temporarily without the companionship of your fellows.” <a id="a101_695"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>
 
 ---
@@ -161,7 +182,7 @@ A man from the Neguá village, on the coast of Colombia, was able to ascend to t
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Mi-parrafo-favorito-Charles-Perrotta.jpg" alt="Mi párrafo favorito-Charles Perrotta" width="250">
 </figure>
 
-As they entered Sidon, Jesus and his associates passed over a bridge, the first many of them had ever seen. As they walked over it, among other things, Jesus said: “This world is but a bridge; you may cross it, but you should not think of building a dwelling place upon it.” [UB 156:2.1](/en/The_Urantia_Book/156#p2_1)
+As they entered Sidon, Jesus and his associates passed over a bridge, the first many of them had ever seen. As they walked over it, among other things, Jesus said: “This world is but a bridge; you may cross it, but you should not think of building a dwelling place upon it.” <a id="a184_275"></a>[UB 156:2.1](/en/The_Urantia_Book/156#p2_1)
 
 So simple and yet so difficult… But it is the concretization of faith, not settling in this world or in its material values; and I include in the latter also emotional values. Both what is gained and what is lost should be accepted as a result of the normal development of events. And yet the believer, in his animalistic but innocent search, finds or believes he finds answers, or glimpses of what is to come. If I manage to keep one foot in this world but my eyes on the next, I not only fulfill Jesus' advice and increase my faith, but I also lighten the burdens of this world, making, mainly the losses, much more understandable and bearable, with their consequent spiritual lessons.
 <br style="clear:both;"/>
@@ -279,3 +300,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — April 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

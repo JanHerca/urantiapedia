@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Master of happiness
 
@@ -72,20 +96,20 @@ so high, without swaying.
 
 Let us imagine this scene from the life of Jesus, which occurred a few days before Passover in Jerusalem, in which he died:
 
-Six days before Passover, the night after the Sabbath, all of Bethany and all of Bethphage gathered to celebrate the arrival of Jesus with a public banquet at Simon's house. This dinner in honor of Jesus and Lazarus was a true challenge to the Sanhedrin. [UB 172:1.2](/en/The_Urantia_Book/172#p1_2)
+Six days before Passover, the night after the Sabbath, all of Bethany and all of Bethphage gathered to celebrate the arrival of Jesus with a public banquet at Simon's house. This dinner in honor of Jesus and Lazarus was a true challenge to the Sanhedrin. <a id="a98_255"></a>[UB 172:1.2](/en/The_Urantia_Book/172#p1_2)
 
-The atmosphere of the banquet was joyful and normal, except that all the apostles were more serious than usual. Jesus was exceptionally happy and had played with the children until the moment of sitting down at the table. [UB 172:1.4](/en/The_Urantia_Book/172#p1_4)
+The atmosphere of the banquet was joyful and normal, except that all the apostles were more serious than usual. Jesus was exceptionally happy and had played with the children until the moment of sitting down at the table. <a id="a100_222"></a>[UB 172:1.4](/en/The_Urantia_Book/172#p1_4)
 
-Nothing out of the ordinary happened until near the end of the feast, when Mary, the sister of Lazarus, stepped out from the group of female spectators, walked over to the place of honor where Jesus was reclining, and opened a large alabaster jar containing a very rare and expensive ointment. After anointing the Master's head, she began to pour it on his feet and let down her hair to dry them with it. The fragrance of the perfume permeated the entire house, and everyone present was astonished at what Mary had done (…) Judas Iscariot approached where Andrew was reclining and said: “Why has this ointment not been sold and the money used to feed the poor? You should tell the Master to reprove this waste.” [UB 172:1.5](/en/The_Urantia_Book/172#p1_5)
+Nothing out of the ordinary happened until near the end of the feast, when Mary, the sister of Lazarus, stepped out from the group of female spectators, walked over to the place of honor where Jesus was reclining, and opened a large alabaster jar containing a very rare and expensive ointment. After anointing the Master's head, she began to pour it on his feet and let down her hair to dry them with it. The fragrance of the perfume permeated the entire house, and everyone present was astonished at what Mary had done (…) Judas Iscariot approached where Andrew was reclining and said: “Why has this ointment not been sold and the money used to feed the poor? You should tell the Master to reprove this waste.” <a id="a102_712"></a>[UB 172:1.5](/en/The_Urantia_Book/172#p1_5)
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-2.jpg" alt="Editorial mayo 2024-2" width="350">
 </figure>
 
-Jesus, knowing what they were thinking and hearing what they were saying, placed his hand on the head of Mary who was kneeling beside him and said with a kind expression: "Leave her alone, all of you. Why do you bother her about this when she has done something good according to her heart? To you who murmur and say that this ointment should have been sold to give the money to the poor, I will say that you will always have the poor with you and you can help them when it seems good to you, but you will not always have me; soon I will go to my Father. This woman has long kept this ointment for my body on the day of my burial, and if it now seems good to her to anoint me in anticipation of my death, that satisfaction will not be denied her. In doing this Mary has given you all a lesson because she manifests her faith in what I have said about my death and ascension to my Father in heaven. [UB 172:1.6](/en/The_Urantia_Book/172#p1_6)
+Jesus, knowing what they were thinking and hearing what they were saying, placed his hand on the head of Mary who was kneeling beside him and said with a kind expression: "Leave her alone, all of you. Why do you bother her about this when she has done something good according to her heart? To you who murmur and say that this ointment should have been sold to give the money to the poor, I will say that you will always have the poor with you and you can help them when it seems good to you, but you will not always have me; soon I will go to my Father. This woman has long kept this ointment for my body on the day of my burial, and if it now seems good to her to anoint me in anticipation of my death, that satisfaction will not be denied her. In doing this Mary has given you all a lesson because she manifests her faith in what I have said about my death and ascension to my Father in heaven. <a id="a109_898"></a>[UB 172:1.6](/en/The_Urantia_Book/172#p1_6)
 
-This rebuke, which he took as a personal reproof, definitely induced Judas Iscariot to seek revenge for his hurt feelings. Such ideas had often crossed his subconscious, but now he dared to consciously and openly consider these evil thoughts. And his attitude was reinforced by the criticism of many, given that the price of this ointment was equivalent to what a man earned per year (enough to supply bread to five thousand people). [UB 172:1.7](/en/The_Urantia_Book/172#p1_7)
+This rebuke, which he took as a personal reproof, definitely induced Judas Iscariot to seek revenge for his hurt feelings. Such ideas had often crossed his subconscious, but now he dared to consciously and openly consider these evil thoughts. And his attitude was reinforced by the criticism of many, given that the price of this ointment was equivalent to what a man earned per year (enough to supply bread to five thousand people). <a id="a111_434"></a>[UB 172:1.7](/en/The_Urantia_Book/172#p1_7)
 
 This beautiful story shows us many interesting aspects: the kindness, joy and carefree attitude of Jesus in the face of a dangerous and hostile situation; the unwavering love of his friend Mary who prostrates herself at his feet and gives him the exquisite perfume of spikenard; the lowliness of his views, the harsh criticism of a “friend” like the apostle Judas and his desire for revenge, which shows us that he did not know how to give love and consideration to others, despite having been with the Master for so long.
 
@@ -116,7 +140,7 @@ And with love? Well, with love things are not easy either, but they have another
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-1.jpg" alt="Editorial mayo 2024-1" width="350">
 </figure>
 
-What an awakening the world would experience if it could only see Jesus as He really lived on earth and know firsthand His life-giving teachings! Words describing beautiful things cannot thrill as much as the sight of those things, nor can the words of a creed inspire the souls of men as does the experience of knowing the presence of God. [UB 195:9.8](/en/The_Urantia_Book/195#p9_8)
+What an awakening the world would experience if it could only see Jesus as He really lived on earth and know firsthand His life-giving teachings! Words describing beautiful things cannot thrill as much as the sight of those things, nor can the words of a creed inspire the souls of men as does the experience of knowing the presence of God. <a id="a142_341"></a>[UB 195:9.8](/en/The_Urantia_Book/195#p9_8)
 
 So therein lies the true conflict, the reason for our hope: in the ability to dream of a world in which love is established, in which hope becomes real and in deciding to go from dreaming to landing that dream. In the determination to live, like Anne and Etty, for others and for hope. In the willingness to choose a surprising path, incomprehensible to some (as happened to Judas) and admirable to others: the path of unconditional love, the path of the Master, the path of authentic happiness. That is our challenge: to also become masters of happiness.
 
@@ -127,3 +151,28 @@ So therein lies the true conflict, the reason for our hope: in the ability to dr
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — May 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

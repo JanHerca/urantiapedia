@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="pr-2">Urantia Questionnaire: Ana Eguren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Gratitude: the way of Jesus
 
@@ -31,7 +55,7 @@ We protest because it is our right and our duty, and it is not about being docil
 But it is also necessary to be able to dedicate some time to enjoying what there is, what we already have, what is part of our life. To not live solely guided by the next desire, the next battle or the latest dissatisfaction. To let ourselves be guided, also, by the gratitude and joy of what we have already received.
 <br style="clear:both;"/>
 
-> “I will every day thank God for his unspeakable gifts; I will praise him for his wonderful works to the children of men. To me he is the Almighty, the Creator, the Power, and the Mercy, but best of all, he is my spirit Father, and as his earth child I am sometime going forth to see him. And my tutor has said that by searching for him I shall become like him. By faith in God I have attained peace with him. This new religion of ours is very full of joy, and it generates an enduring happiness. I am confident that I shall be faithful even to death, and that I will surely receive the crown of eternal life. ([UB 131:10.6](/en/The_Urantia_Book/131#p10_6))
+> “I will every day thank God for his unspeakable gifts; I will praise him for his wonderful works to the children of men. To me he is the Almighty, the Creator, the Power, and the Mercy, but best of all, he is my spirit Father, and as his earth child I am sometime going forth to see him. And my tutor has said that by searching for him I shall become like him. By faith in God I have attained peace with him. This new religion of ours is very full of joy, and it generates an enduring happiness. I am confident that I shall be faithful even to death, and that I will surely receive the crown of eternal life. (<a id="a57_612"></a>[UB 131:10.6](/en/The_Urantia_Book/131#p10_6))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-3.jpg" alt="Editorial abril 2024-3" width="350">
@@ -48,7 +72,7 @@ To love God with all your heart means to say an unconditional “yes” to life 
 
 Gratitude is essential in our lives. Jesus was very clear about it:
 
-> 14. Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. But he did exhort his believers to employ prayer as a means of leading up through thanksgiving to true worship. Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers. He quoted from the Scriptures on this occasion, saying: “It is a good thing to give thanks to the Lord and to sing praises to the name of the Most High, to acknowledge his loving-kindness every morning and his faithfulness every night, for God has made me glad through his work. In everything I will give thanks according to the will of God.” ([UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
+> 14. Jesus warned his followers against thinking that their prayers would be rendered more efficacious by ornate repetitions, eloquent phraseology, fasting, penance, or sacrifices. But he did exhort his believers to employ prayer as a means of leading up through thanksgiving to true worship. Jesus deplored that so little of the spirit of thanksgiving was to be found in the prayers and worship of his followers. He quoted from the Scriptures on this occasion, saying: “It is a good thing to give thanks to the Lord and to sing praises to the name of the Most High, to acknowledge his loving-kindness every morning and his faithfulness every night, for God has made me glad through his work. In everything I will give thanks according to the will of God.” (<a id="a74_759"></a>[UB 146:2.15](/en/The_Urantia_Book/146#p2_15))
 
 Perhaps the first and most immediate thing we could do would be to begin by thanking God our Father for life. This is the first gift we have. A life full of possibilities opens up when we open our eyes to life on Earth. There will also be storms, but, above all, it will be a story in which we can build, dream, love, learn, make mistakes...
 
@@ -66,18 +90,18 @@ And today? We can also be grateful for those who are here today. So many names t
 
 In a world so battered, where for so many people to live is to survive, many of our lives are simply wonderful. This should imply a deep and perhaps indefinite gratitude; a basic gratitude: that of someone who settles into a serene acceptance of existence, of the life that permeates us. A life cared for and gifted by our common progenitor, by the source of everything, by the infinite Father of his infinite sons and daughters.
 
-And he continued saying: “Do not worry too much about your daily needs; do not be anxious about the problems of your earthly existence. In all these things, present your needs to your Father in heaven through prayer and supplication in a spirit of sincere gratitude.” [UB 146:2.16](/en/The_Urantia_Book/146#p2_16)
+And he continued saying: “Do not worry too much about your daily needs; do not be anxious about the problems of your earthly existence. In all these things, present your needs to your Father in heaven through prayer and supplication in a spirit of sincere gratitude.” <a id="a92_268"></a>[UB 146:2.16](/en/The_Urantia_Book/146#p2_16)
 
 It is about being present in our lives, responding, spreading and sharing. Spreading the reasons for joy. Sharing the opportunities. Multiplying the fruits. Responding to words, gestures, hugs, with new words, gestures and hugs. Sharing the laughter and the reasons that we find day by day. And being grateful, always.
 
-Jesus took the loaves in his hands, and after giving thanks, he broke the bread and gave it to his apostles, who passed it to their companions, who in turn took it to the crowd. [UB 152:2.9](/en/The_Urantia_Book/152#p2_9)
+Jesus took the loaves in his hands, and after giving thanks, he broke the bread and gave it to his apostles, who passed it to their companions, who in turn took it to the crowd. <a id="a96_178"></a>[UB 152:2.9](/en/The_Urantia_Book/152#p2_9)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-1.jpg" alt="Editorial abril 2024-1" width="350">
 </figure>
 
-There is a beautiful story in _The Urantia Book_ (and in the gospels) that we can bring here, because it makes us reflect on gratitude. It is the narration of the events that occurred in Amatus, a city bordering Samaria, a place where “a group of ten lepers had temporarily settled near that place. Nine of them were Jews and one was a Samaritan.” [UB 166:2.1](/en/The_Urantia_Book/166#p2_1)
+There is a beautiful story in _The Urantia Book_ (and in the gospels) that we can bring here, because it makes us reflect on gratitude. It is the narration of the events that occurred in Amatus, a city bordering Samaria, a place where “a group of ten lepers had temporarily settled near that place. Nine of them were Jews and one was a Samaritan.” <a id="a103_348"></a>[UB 166:2.1](/en/The_Urantia_Book/166#p2_1)
 
 Let's see what happened.
 
@@ -93,7 +117,7 @@ While the Samaritan remained kneeling at the feet of Jesus, the Master looked at
 
 Jesus looked back at his apostles as the stranger walked away, and all the apostles looked at Jesus except Simon Zelotes, who lowered his eyes. None of the twelve said a word. Nor did Jesus speak; there was no need for him to do so.
 
-Jesus ordered the twelve not to say anything about the healing of the lepers, and as they entered Amathus he commented: “You see how the children of the house, even though they do not obey the will of their Father, take their blessings for granted and do not see the need to give thanks when the Father grants them healing. On the other hand, the foreigners are filled with admiration when they receive gifts from the master of the house and feel obliged to give thanks in recognition of the good things that have been granted to them.” [UB 166:2](/en/The_Urantia_Book/166#p2)
+Jesus ordered the twelve not to say anything about the healing of the lepers, and as they entered Amathus he commented: “You see how the children of the house, even though they do not obey the will of their Father, take their blessings for granted and do not see the need to give thanks when the Father grants them healing. On the other hand, the foreigners are filled with admiration when they receive gifts from the master of the house and feel obliged to give thanks in recognition of the good things that have been granted to them.” <a id="a119_537"></a>[UB 166:2](/en/The_Urantia_Book/166#p2)
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
@@ -150,3 +174,28 @@ Happy reading.
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/03/30/editorial-abril-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — April 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="pr-2">Urantia Questionnaire: Ana Eguren</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

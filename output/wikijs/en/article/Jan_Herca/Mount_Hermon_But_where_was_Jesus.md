@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 With so many details that _The Urantia Book_ offers about the place where Jesus remained in retirement for six weeks, it couldn't be very difficult to locate the place and get a little idea of ​​what it is like and above all, how it was.
 
-In <a id="a14_3"></a>[UB 134:8](/en/The_Urantia_Book/134#p8) (“The transition years”), we are told that Jesus and Tiglath built a stone deposit at a location 2,000 meters above sea level. We are also told that to get there they passed through a village then known as Beit Jenn.[^1] [^2]
+In <a id="a30_3"></a>[UB 134:8](/en/The_Urantia_Book/134#p8) (“The transition years”), we are told that Jesus and Tiglath built a stone deposit at a location 2,000 meters above sea level. We are also told that to get there they passed through a village then known as Beit Jenn.[^1] [^2]
 
 It didn't take me long to find Beit Jenn on a map. In a general map of Lebanon at a scale of 1:200,000 from the French National Geographic Institute,[^3] the village appeared very clearly, which still exists today and is called Beït Jinn. Also, near the village there is a summit of 2,224 meters (but it is not the highest peak, which rises up to 2,814 meters). It was easy to assume that the ascension of Jesus referred to in _The Urantia Book_ is this “small” peak. Looking at other data, I found out that in total, from Beit Jenn, which is located at 1100 meters, it was about 900 meters of ascent to the place where they built the food deposit.
 

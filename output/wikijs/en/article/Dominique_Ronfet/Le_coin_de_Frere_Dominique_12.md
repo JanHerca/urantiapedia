@@ -39,7 +39,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 - Hmmm...maybe it's because of the weather.
 - The weather??
 - Yes, we can ask ourselves, like Bergson, if “duration” does not add a dimension which interferes with our capacity to understand reality.
-- As not being able to “precisely and simultaneously determine the exact position and speed of a moving object, any attempt to measure one inevitably leads to a modification of the other” <a id="a40_188"></a>[UB 65:6.1](/en/The_Urantia_Book/65#p6_1)?
+- As not being able to “precisely and simultaneously determine the exact position and speed of a moving object, any attempt to measure one inevitably leads to a modification of the other” <a id="a41_188"></a>[UB 65:6.1](/en/The_Urantia_Book/65#p6_1)?
 - Well done, I see that gentleman knows his classics.
 - Thank you, thank you...but then how do we know?
 - Hmmm...perhaps by intuition. But let's listen to our dear Bergson: “Here we call intuition the sympathy by which we transport ourselves to the interior of an object to coincide with what is inexpressible in it....There is at least one reality that we all grasp by intuition. It is our own person in its flow through time. It is our self that lasts.”1

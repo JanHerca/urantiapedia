@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Diego Betancourt<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other books on spiritual growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Urantia Questionnaire: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Mi-parrafo-favorito-vida-de-familia.jpg" alt="Mi párrafo favorito - sep 2024" width="350">
@@ -29,7 +53,7 @@ When I read Jesus' words to John Mark, my heart trembles and I feel genuine conf
 Therefore, my favorite paragraph from _The Urantia Book_ is:
 <br style="clear:both;"/>
 
-> It is our sincere belief that the gospel of Jesus’ teaching, founded as it is on the father-child relationship, can hardly enjoy a world-wide acceptance until such a time as the home life of the modern civilized peoples embraces more of love and more of wisdom. Notwithstanding that parents of the twentieth century possess great knowledge and increased truth for improving the home and ennobling the home life, it remains a fact that very few modern homes are such good places in which to nurture boys and girls as Jesus’ home in Galilee and John Mark’s home in Judea, albeit the acceptance of Jesus’ gospel will result in the immediate improvement of home life. The love life of a wise home and the loyal devotion of true religion exert a profound reciprocal influence upon each other. Such a home life enhances religion, and genuine religion always glorifies the home. ([UB 177:2.6](/en/The_Urantia_Book/177#p2_6))
+> It is our sincere belief that the gospel of Jesus’ teaching, founded as it is on the father-child relationship, can hardly enjoy a world-wide acceptance until such a time as the home life of the modern civilized peoples embraces more of love and more of wisdom. Notwithstanding that parents of the twentieth century possess great knowledge and increased truth for improving the home and ennobling the home life, it remains a fact that very few modern homes are such good places in which to nurture boys and girls as Jesus’ home in Galilee and John Mark’s home in Judea, albeit the acceptance of Jesus’ gospel will result in the immediate improvement of home life. The love life of a wise home and the loyal devotion of true religion exert a profound reciprocal influence upon each other. Such a home life enhances religion, and genuine religion always glorifies the home. (<a id="a55_875"></a>[UB 177:2.6](/en/The_Urantia_Book/177#p2_6))
 
 In brotherhood
 
@@ -40,3 +64,28 @@ Diego
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/mi-parrafo-favorito-31/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Other books on spiritual growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Urantia Questionnaire: Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Luz y Vida — September 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter
 
@@ -182,7 +203,7 @@ Like most readers of _The Urantia Book_, Part 4 is one of my favorites. Jesus, o
 
 <br style="clear:both;"/>
 
-> The Master displayed great wisdom and perfect fairness in all his dealings with the apostles and all his disciples. Jesus was truly a teacher of men. He exerted a great influence over his fellow men by the combination of strength and charm of his personality. From his hard, nomadic, homeless life there emanated a subtle attitude of command. There was intellectual appeal and spiritual power in the authority of his teaching, in his lucid logic, in the force of his reasoning, in his keen insight, in his alert mind, in his incomparable poise, and in his sublime tolerance. He was simple, manly, honest, and fearless. To all this physical and intellectual influence evident in the Master's presence were added all the spiritual charms that have been associated with his personality: patience, tenderness, meekness, gentleness, and humility. [UB 141:3.4](/en/The_Urantia_Book/141#p3_4)
+> The Master displayed great wisdom and perfect fairness in all his dealings with the apostles and all his disciples. Jesus was truly a teacher of men. He exerted a great influence over his fellow men by the combination of strength and charm of his personality. From his hard, nomadic, homeless life there emanated a subtle attitude of command. There was intellectual appeal and spiritual power in the authority of his teaching, in his lucid logic, in the force of his reasoning, in his keen insight, in his alert mind, in his incomparable poise, and in his sublime tolerance. He was simple, manly, honest, and fearless. To all this physical and intellectual influence evident in the Master's presence were added all the spiritual charms that have been associated with his personality: patience, tenderness, meekness, gentleness, and humility. <a id="a205_844"></a>[UB 141:3.4](/en/The_Urantia_Book/141#p3_4)
 
 [Read more](/en/article/Mayra_Moreno/Mi_parrafo_favorito)
 
@@ -251,3 +272,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2023/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Luz y Vida — September 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

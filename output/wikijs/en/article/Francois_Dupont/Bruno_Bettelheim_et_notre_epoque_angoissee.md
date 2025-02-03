@@ -43,9 +43,9 @@ Here is what the famous psychologist Bruno Bettelheim thinks:
 
 Bruno Bettelheim, page 128 — “_Once again, if society has become more powerful, it is to the detriment of the citizen. Society being more powerful than ever, and the individual more anxious than he has ever been at any time in the past, he must rely, for his survival, on those who run this society. The physical distance which separates the individual from those who run him, prevents the individual from verifying whether his trust in their good will is justified, a process which could be disastrous for his feeling of economic and social security._”
 
-> 1. Is *courage—*strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments. (<a id="a44_171"></a>[UB 3:5.6](/en/The_Urantia_Book/3#p5_6))
+> 1. Is *courage—*strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments. (<a id="a45_171"></a>[UB 3:5.6](/en/The_Urantia_Book/3#p5_6))
 
-> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. (<a id="a46_147"></a>[UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
+> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. (<a id="a47_147"></a>[UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
 
 This rather pessimistic speech is nuanced by what he says a little further on:
 
@@ -53,11 +53,11 @@ Bruno Bettelheim, page 145 — “_An era that encourages man to let the machine
 
 But, for its part, the _URANTIA Book_ gives us the assurance that our tribulations are a necessary evil:
 
-> “_Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution._” (<a id="a54_386"></a>[UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
+> “_Anxiety was a natural state of the savage mind. When men and women fall victims to excessive anxiety, they are simply reverting to the natural estate of their far-distant ancestors; and when anxiety becomes actually painful, it inhibits activity and unfailingly institutes evolutionary changes and biologic adaptations. Pain and suffering are essential to progressive evolution._” (<a id="a55_386"></a>[UB 86:2.1](/en/The_Urantia_Book/86#p2_1))
 
 He even tells us what needs to be corrected in our attitude towards this mental suffering:
 
-> “_The Third Source and Center, the universal intelligence, is personally conscious of every *mind,* every intellect, in all creation, and he maintains a personal and perfect contact with all these physical, morontial, and spiritual creatures of mind endowment in the far-flung universes. All these activities of mind are grasped in the absolute mind-gravity circuit which focalizes in the Third Source and Center and is a part of the personal consciousness of the Infinite Spirit._” (<a id="a58_486"></a>[UB 9:6.1](/en/The_Urantia_Book/9#p6_1))
+> “_The Third Source and Center, the universal intelligence, is personally conscious of every *mind,* every intellect, in all creation, and he maintains a personal and perfect contact with all these physical, morontial, and spiritual creatures of mind endowment in the far-flung universes. All these activities of mind are grasped in the absolute mind-gravity circuit which focalizes in the Third Source and Center and is a part of the personal consciousness of the Infinite Spirit._” (<a id="a59_486"></a>[UB 9:6.1](/en/The_Urantia_Book/9#p6_1))
 
 Personally, I think that, among the assiduous readers and persevering students of The URANTIA Book, there are not or could be any truly anxious people, afraid of a future that is, in short, quite close, trembling for their children, hesitating to commit to anything.
 

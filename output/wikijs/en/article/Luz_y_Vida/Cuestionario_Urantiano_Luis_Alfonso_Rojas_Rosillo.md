@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Luis-Alfonso-Rojas.jpg" alt="Luis Alfonso Rojas" width="350">
@@ -33,9 +54,9 @@ It was a gradual process. From the reading of the Prologue I felt my curiosity m
 
 ## 4. How has _The Urantia Book_ changed your life?
 
-It has been a progressive change, in which I have slowly gone from knowledge and intellectual reason to personal experience in the inner life. I highlight some aspects. The discovery that the command: “Be perfect as I am perfect” is the reason for the divine plan ([UB 1:0.3](/en/The_Urantia_Book/1#p0_3)); that God is love; that attunement with the Thought Adjuster is the great goal of human existence ([UB 110:3.4](/en/The_Urantia_Book/110#p3_4)); that God is the greatest experience of human existence and that the search for God is the unlimited and endless bestowal of love ([UB 117:6.9](/en/The_Urantia_Book/117#p6_9)), have given purpose, meaning and fullness to my life.
+It has been a progressive change, in which I have slowly gone from knowledge and intellectual reason to personal experience in the inner life. I highlight some aspects. The discovery that the command: “Be perfect as I am perfect” is the reason for the divine plan (<a id="a56_265"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)); that God is love; that attunement with the Thought Adjuster is the great goal of human existence (<a id="a56_405"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)); that God is the greatest experience of human existence and that the search for God is the unlimited and endless bestowal of love (<a id="a56_581"></a>[UB 117:6.9](/en/The_Urantia_Book/117#p6_9)), have given purpose, meaning and fullness to my life.
 
-The book has given me techniques and tools for growth from the inner life. Discovering that imperfection is part of the divine plan, that divinity manifests itself imperfectly through human imperfection, has helped me to elevate the value of our human nature. Understanding that uncertainties and inevitable vicissitudes (Doc. 3:5) are the best school of life has motivated me to live each daily experience with greater enthusiasm. The philosophical affirmations with which the development of the mote of morontia begins (Doc. 48.7), have inspired me to better understand who we are and new meanings of human life. The techniques to prepare the essential ground for development ([UB 100:1.5](/en/The_Urantia_Book/100#p1_5)) and religious habits ([UB 100:1.7](/en/The_Urantia_Book/100#p1_7)) are facilitating my disposition for spiritual growth.
+The book has given me techniques and tools for growth from the inner life. Discovering that imperfection is part of the divine plan, that divinity manifests itself imperfectly through human imperfection, has helped me to elevate the value of our human nature. Understanding that uncertainties and inevitable vicissitudes (Doc. 3:5) are the best school of life has motivated me to live each daily experience with greater enthusiasm. The philosophical affirmations with which the development of the mote of morontia begins (Doc. 48.7), have inspired me to better understand who we are and new meanings of human life. The techniques to prepare the essential ground for development (<a id="a58_679"></a>[UB 100:1.5](/en/The_Urantia_Book/100#p1_5)) and religious habits (<a id="a58_746"></a>[UB 100:1.7](/en/The_Urantia_Book/100#p1_7)) are facilitating my disposition for spiritual growth.
 
 Knowledge of the life of Jesus has allowed me to know the revelation of the Father to man and begin to experience the understanding of self-realization, through prayer, worship and love of neighbor.
 
@@ -80,3 +101,25 @@ Thank you so much!
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/04/29/proyecto-de-comision-para-estudios-monograficos/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-may-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — May 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

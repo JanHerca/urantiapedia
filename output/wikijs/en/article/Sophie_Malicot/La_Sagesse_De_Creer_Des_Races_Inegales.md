@@ -44,7 +44,7 @@ Jesus taught that faith, simple childlike belief, is the key to the gate of the 
 > 1. God’s forgiveness is made actually available and is personally experienced by man just in so far as he forgives his fellows.
 > 2. Man will not truly forgive his fellows unless he loves them as himself.
 > 3. To thus love your neighbor as yourself *is* the highest ethics.
-> 4. Moral conduct, true righteousness, becomes, then, the natural result of such love. (<a id="a45_89"></a>[UB 170:3.3-7](/en/The_Urantia_Book/170#p3_3))
+> 4. Moral conduct, true righteousness, becomes, then, the natural result of such love. (<a id="a46_89"></a>[UB 170:3.3-7](/en/The_Urantia_Book/170#p3_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/092.jpg">
@@ -75,7 +75,7 @@ Thus forgiveness is not a process of making the being feel guilty but exactly it
 
 The grace of forgiveness is neither stiff nor rigid. It is experienced at the heart of the being's deep vulnerability, where all defense mechanisms are removed. When resentment, bitterness, outrage and judgment are exhausted, leaving behind only the hollowing out of the being, and that, despite themselves, no reparation is effective, then suddenly, an opening to one's fellow man can be made. Beyond everything; and everything he did. If the journey to access forgiveness is a long pilgrimage, forgiveness is instantaneous. It springs forth - unexpected - even if one expected it; abrupt - even brutal - jostles and overturns the being with a breath. The gaze changes irremediably, pierces into light, restoring the fellow man in his honorability just as one's own honorability is restored. For they are Siamese twins; they sink or return to the same yoke. Thus forgiveness is often bilateral.
 
-> “God is inherently kind, naturally compassionate, and everlastingly merciful. And never is it necessary that any influence be brought to bear upon the Father to call forth his loving-kindness. The creature’s need is wholly sufficient to insure the full flow of the Father’s tender mercies and his saving grace. Since God knows all about his children, it is easy for him to forgive. The better man understands his neighbor, the easier it will be to forgive him, even to love him.” (<a id="a76_483"></a>[UB 2:4.2](/en/The_Urantia_Book/2#p4_2))
+> “God is inherently kind, naturally compassionate, and everlastingly merciful. And never is it necessary that any influence be brought to bear upon the Father to call forth his loving-kindness. The creature’s need is wholly sufficient to insure the full flow of the Father’s tender mercies and his saving grace. Since God knows all about his children, it is easy for him to forgive. The better man understands his neighbor, the easier it will be to forgive him, even to love him.” (<a id="a77_483"></a>[UB 2:4.2](/en/The_Urantia_Book/2#p4_2))
 
 So this new look can only love. Love the other, divinely. It passes in a reverse from enemy to soul brother-sister, in a glorious dimension of accomplishment of the Kingdom, transcending the current time. Look of prefiguration of the cosmic being. The borders are abolished; forgiveness has no borders, race, color or religion. It has no age either. Where does it spring from? From what source? Self? God? Simultaneity would answer both. The journey to access it invites the integration of a level of relationships where divine values are the substance.
 

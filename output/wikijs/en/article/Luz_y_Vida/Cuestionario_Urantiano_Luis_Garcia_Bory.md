@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Luis-Garcia-Bory.jpg" alt="Luis García Bory" width="250">
@@ -61,13 +82,13 @@ _The Urantia Book_ opened my mind and soul to the reality of personal spirituali
 
 Although there are points that are difficult for me to accept, there are great challenges that are difficult for me to achieve. For example, _The Urantia Book_ invites us to learn to authentically and selflessly love one more human being each day. But it also teaches us that such love is the result of a deep understanding of our fellow human beings. In the reality of the demands of daily living, it is very complex and challenging to be able to achieve this each week, not to mention each day!
 
-> “You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” ([UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
+> “You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man.” (<a id="a84_911"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6))
 
 ## 7. What is the part that has impressed you most deeply?
 
 Perhaps the knowledge that not even the revealers themselves can explain the nature and source of planetary life endowment. They know where it comes from, but not how it is obtained. That is one of the greatest secrets of the universe, specifically centered on the person of the Infinite Spirit and the creative-distributive power of its progeny. For this very reason, they reveal to us that humans will never be able to create life.
 
-> “There are some things connected with the elaboration of life on the evolutionary planets which are not altogether clear to us. We fully comprehend the physical organization of the electrochemical formulas of the Life Carriers, but we do not wholly understand the nature and source of the *life-activation spark.* We know that life flows from the Father through the Son and *by* the Spirit. It is more than possible that the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation. But we do not comprehend the technique whereby the supervising Master Spirit participates in the initial episode of life bestowal on a new planet. The Ancients of Days, we are confident, also have some part in this inauguration of life on a new world, but we are wholly ignorant of the nature thereof. We do know that the Universe Mother Spirit actually vitalizes the lifeless patterns and imparts to such activated plasm the prerogatives of organismal reproduction. We observe that these three are the levels of God the Sevenfold, sometimes designated as the Supreme Creators of time and space; but otherwise we know little more than Urantia mortals—simply that concept is inherent in the Father, expression in the Son, and life realization in the Spirit.” ([UB 36:6.7](/en/The_Urantia_Book/36#p6_7))
+> “There are some things connected with the elaboration of life on the evolutionary planets which are not altogether clear to us. We fully comprehend the physical organization of the electrochemical formulas of the Life Carriers, but we do not wholly understand the nature and source of the *life-activation spark.* We know that life flows from the Father through the Son and *by* the Spirit. It is more than possible that the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation. But we do not comprehend the technique whereby the supervising Master Spirit participates in the initial episode of life bestowal on a new planet. The Ancients of Days, we are confident, also have some part in this inauguration of life on a new world, but we are wholly ignorant of the nature thereof. We do know that the Universe Mother Spirit actually vitalizes the lifeless patterns and imparts to such activated plasm the prerogatives of organismal reproduction. We observe that these three are the levels of God the Sevenfold, sometimes designated as the Supreme Creators of time and space; but otherwise we know little more than Urantia mortals—simply that concept is inherent in the Father, expression in the Son, and life realization in the Spirit.” (<a id="a90_1287"></a>[UB 36:6.7](/en/The_Urantia_Book/36#p6_7))
 
 ## 8. How do you understand “doing the will of the Father”?
 
@@ -104,3 +125,25 @@ I only invite all those interested in _The Urantia Book_ to dare to open their m
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My favorite paragraph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

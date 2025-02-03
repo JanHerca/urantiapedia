@@ -74,7 +74,7 @@ There is another reason why this particular half-truth is so dangerous. It robs 
 > 
 > _In short, what God had given men and angels Lucifer would have taken away from them, that is, ***the divine privilege of participating in the creation of their own destinies and of the destiny*** of this local system of inhabited worlds._
 > 
-> _No being in all the universe has the rightful liberty to deprive any other being ***of true liberty, the right to love and be loved, the privilege of worshiping God and of serving his fellows***._ (LU [UB 54:2.3-5](/en/The_Urantia_Book/54#p2_3))
+> _No being in all the universe has the rightful liberty to deprive any other being ***of true liberty, the right to love and be loved, the privilege of worshiping God and of serving his fellows***._ (LU <a id="a76_204"></a>[UB 54:2.3-5](/en/The_Urantia_Book/54#p2_3))
 
 These passages reveal the danger of philosophies that take God out of the equation. So it's not just a question of whether God exists or not. It's a question of whether WE exist as creatures with free will, and whether we will allow another creature to close the door on opportunities and possibilities. Such half-truths are not just atheistic. They are Luciferian.
 

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Luz y Vida — June 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Urantia Association of Spain Newsletter 
@@ -192,7 +213,7 @@ The stake was certainly very strong for him. I would swear that he fell asleep e
 
 <br style="clear:both;"/> 
 
-It was not an easy task for me to decide on just one favorite paragraph from _The Urantia Book_. This book is so full of wisdom and inspiring paragraphs! However, after thinking, reflecting, and above all asking the Father for an answer, I realized that there is a story that I return to again and again. This story never fails to fill me with satisfaction, inspiration, and hope. And it is that of the “young man who was afraid” ([UB 130:6](/es/The_Urantia_Book/130#p6)). This interaction takes place, recall, while Jesus is “on his way to Rome” ([doc. 130](/en/The_Urantia_Book/130)), prior to his public work, and illustrates one of the many times he “did good” “while passing through” ([UB 171:7.9](/en/The_Urantia_Book/171#p7_9)). 
+It was not an easy task for me to decide on just one favorite paragraph from _The Urantia Book_. This book is so full of wisdom and inspiring paragraphs! However, after thinking, reflecting, and above all asking the Father for an answer, I realized that there is a story that I return to again and again. This story never fails to fill me with satisfaction, inspiration, and hope. And it is that of the “young man who was afraid” ([UB 130:6](/es/The_Urantia_Book/130#p6)). This interaction takes place, recall, while Jesus is “on his way to Rome” ([doc. 130](/en/The_Urantia_Book/130)), prior to his public work, and illustrates one of the many times he “did good” “while passing through” (<a id="a215_690"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)). 
 
 Since I have to choose _a_ paragraph, let me share the first one in which Jesus begins to assist the young man with his hopeful words: 
 
@@ -254,3 +275,24 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Luz y Vida — June 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

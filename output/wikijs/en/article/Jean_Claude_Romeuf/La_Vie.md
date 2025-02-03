@@ -71,7 +71,7 @@ Human life takes three aspects:
 
 When a planet has been chosen by a Creator Son and a Divine Mother, the goal of Life is to make beings appear there through evolution who are capable of searching for and finding God. The only being who can truly change his envelope, metamorphose, is Man!
 
-Starting from almost nothing, from a few plant cells placed in a culture medium, the game that will last hundreds of millions of years, will consist initially in preparing the garden that will welcome in the future, a couple of human beings capable of making choices. The dice are in the hands of the Carriers of Life who will initially operate on “_the physical level of electrochemistry_” <a id="a72_391"></a>[UB 65:1.3](/en/The_Urantia_Book/65#p1_3)
+Starting from almost nothing, from a few plant cells placed in a culture medium, the game that will last hundreds of millions of years, will consist initially in preparing the garden that will welcome in the future, a couple of human beings capable of making choices. The dice are in the hands of the Carriers of Life who will initially operate on “_the physical level of electrochemistry_” <a id="a73_391"></a>[UB 65:1.3](/en/The_Urantia_Book/65#p1_3)
 
 Material or physical life differentiated itself at the dawn of planetary time:
 
@@ -85,7 +85,7 @@ Here on Urantia the breath of life is divinely redistributed by the Divine Minis
 
 It is the Carriers of Life who organized the implantation of Life and programmed the development of different living organisms.
 
-Under the jurisdiction of the Supreme Chiefs of Paradise who have the unfortunate habit of never being in a hurry because in Paradise time does not exist, they have chosen the model of life, which on Urantia, is a sodium chloride model. Before implanting Life, it was therefore necessary to wait until the waters were sufficiently salty, that is to say it was necessary to wait between three and four hundred million years after the covering of the earth's crust by the primordial ocean, whereas with favorable physical conditions, the Life Carriers could complete the complete evolution in much less than a million years. (<a id="a86_624"></a>[UB 65:8](/en/The_Urantia_Book/65#p8))
+Under the jurisdiction of the Supreme Chiefs of Paradise who have the unfortunate habit of never being in a hurry because in Paradise time does not exist, they have chosen the model of life, which on Urantia, is a sodium chloride model. Before implanting Life, it was therefore necessary to wait until the waters were sufficiently salty, that is to say it was necessary to wait between three and four hundred million years after the covering of the earth's crust by the primordial ocean, whereas with favorable physical conditions, the Life Carriers could complete the complete evolution in much less than a million years. (<a id="a87_624"></a>[UB 65:8](/en/The_Urantia_Book/65#p8))
 
 When the salinity level was suitable, they established life in three shallow inland seas on the planet. The reason is obvious because before animals appeared, light had to be able to allow plants to develop in order to ensure photosynthesis and the production of oxygen.
 
@@ -137,17 +137,17 @@ Should we think that the _non-mechanical teachable mind_ appeared by a single mu
 
 Many intermediate living beings of which the sponge is the main survivor have seen the light of day. These living beings were neither plants nor animals. Without doubt, an incredible quantity of individuals of this type had to undergo a modification of the cellular genome, so that the intelligent mind appears and spreads over very large spaces.
 
-I do not believe that a paramecium which is an animal cell, can be considered an animal, but that it resembles the amoeba which is the very type of _single-cell animal organism_ having perpetuated itself almost without modification since the dawn of time. (<a id="a138_257"></a>[UB 65:2.4](/en/The_Urantia_Book/65#p2_4)) In reacting to the tropism of light, the paramecium does not demonstrate rapid perception by the gift of a primitive reflex instinct which is characteristic of the adjutant of _intuition_.
+I do not believe that a paramecium which is an animal cell, can be considered an animal, but that it resembles the amoeba which is the very type of _single-cell animal organism_ having perpetuated itself almost without modification since the dawn of time. (<a id="a139_257"></a>[UB 65:2.4](/en/The_Urantia_Book/65#p2_4)) In reacting to the tropism of light, the paramecium does not demonstrate rapid perception by the gift of a primitive reflex instinct which is characteristic of the adjutant of _intuition_.
 
 Yet it was the single-celled animal organisms resembling the amoeba and its cousins that suddenly gave rise to the seven adjutant mental spirits.
 
 When they grouped together in colonies, these primordial animal organisms that are the first animal cells, formed rudimentary multicellular animals which, without mentioning them all, were comparable to the hydra and the jellyfish. Then it was the turn of oysters, sea urchins, insects, crustaceans, earthworms to come and take on their function.
 
-Just because you arrive first doesn't necessarily mean you're the most intelligent. It's not for nothing that The Urantia Book makes a list of these _primitive and inferior animals, branches of the tree of life that failed to progress_. (<a id="a144_238"></a>[UB 65:2.5](/en/The_Urantia_Book/65#p2_5))
+Just because you arrive first doesn't necessarily mean you're the most intelligent. It's not for nothing that The Urantia Book makes a list of these _primitive and inferior animals, branches of the tree of life that failed to progress_. (<a id="a145_238"></a>[UB 65:2.5](/en/The_Urantia_Book/65#p2_5))
 
 It can be said without any doubt that the dominant adjutant of their intelligent mind is _the spirit of intuition_ responsible for rapid perception and primitive reflex instincts, the faculty of orientation and the instinct of self-preservation (a crab flees towards the sea and protects itself by pinching the aggressor).
 
-The adjutant of intuition is the only one who can establish contact with the non-teachable levels of the non-mechanical mind (<a id="a148_126"></a>[UB 36:5.5](/en/The_Urantia_Book/36#p5_5)). We cannot know whether, by sinking into the earth when you try to make it come out, an earthworm obeys the spirit of intuition or the mechanical mind.
+The adjutant of intuition is the only one who can establish contact with the non-teachable levels of the non-mechanical mind (<a id="a149_126"></a>[UB 36:5.5](/en/The_Urantia_Book/36#p5_5)). We cannot know whether, by sinking into the earth when you try to make it come out, an earthworm obeys the spirit of intuition or the mechanical mind.
 
 The seven mental spirits forming the non-mechanical mind arrive one after the other. They can be present at the same time in different forms of life, but their qualitative intensity can vary from one species to another and even from one individual to another. Everything depends on the degree of receptivity. I explain this by taking as an example, that men do not all have the same sensitivity to the mental spirits adjuncts of adoration and wisdom.
 
@@ -161,7 +161,7 @@ All life forms we have seen so far have been stationary and even regressed!
 
 It will be the same for the reptiles in whom the spirit of courage has undoubtedly been inaugurated.
 
-Since the Book tells us: “_Following the appearance of mammals, we saw <ins>the spirit of knowledge</ins> manifest itself to an increased extent. Then the evolution of higher mammals allowed the functioning of <ins>the spirit of advice</ins>._ (<a id="a162_245"></a>[UB 62:6.4](/en/The_Urantia_Book/62#p6_4))”, we can therefore deduce that the birds which were engendered by the dinosaurs possessed like them the adjutant of courage. Their mind was undoubtedly sensitized by the adjutant of knowledge, but to a very weak extent.
+Since the Book tells us: “_Following the appearance of mammals, we saw <ins>the spirit of knowledge</ins> manifest itself to an increased extent. Then the evolution of higher mammals allowed the functioning of <ins>the spirit of advice</ins>._ (<a id="a163_245"></a>[UB 62:6.4](/en/The_Urantia_Book/62#p6_4))”, we can therefore deduce that the birds which were engendered by the dinosaurs possessed like them the adjutant of courage. Their mind was undoubtedly sensitized by the adjutant of knowledge, but to a very weak extent.
 
 Reptiles have not had progressive evolutionary descent within their species: crocodiles, turtles, snakes and lizards are practically the same as in prehistoric times, they have not improved.
 

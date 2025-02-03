@@ -60,7 +60,7 @@ I hope that the word “agondontary” applies to all those who, deprived of the
 
 Too bad perhaps for the career of Mighty Messenger! But in any case, it's sure! I will do what I can to be embraced by the Trinity of Paradise. What would you choose in my place? Raised in Authority or Devoid of Name and Number?
 
-> “_You mortals who read this message may yourselves ascend to Paradise, attain the Trinity embrace, and in remote future ages be attached to the service of the Ancients of Days in one of the seven superuniverses, and sometime be assigned to enlarge the revelation of truth to some evolving inhabited planet, even as I am now functioning on Urantia._” (<a id="a61_353"></a>[UB 22:4.7](/en/The_Urantia_Book/22#p4_7))
+> “_You mortals who read this message may yourselves ascend to Paradise, attain the Trinity embrace, and in remote future ages be attached to the service of the Ancients of Days in one of the seven superuniverses, and sometime be assigned to enlarge the revelation of truth to some evolving inhabited planet, even as I am now functioning on Urantia._” (<a id="a62_353"></a>[UB 22:4.7](/en/The_Urantia_Book/22#p4_7))
 
 Jean-Claude Romeuf
 

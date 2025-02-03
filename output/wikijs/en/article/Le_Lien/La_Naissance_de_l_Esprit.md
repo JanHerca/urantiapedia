@@ -93,7 +93,7 @@ The religion of the spirit is a work that requires determination and a positive 
 
 For my part, after a fairly long gestation where religion developed consciously in me, I experienced a crisis of religious identity and questioning of my beliefs. Which triggered the pains of childbirth and a new birth: the birth of the spirit, under the impulse of my divine monitor who with patience and love, guided me towards a new state of religious awakening.
 
-I then understood, perceived and felt that this birth was the prelude to upheavals and inner transformations that I accepted with humility, confidence and joy. “Perplexity is inevitable in religion; there can be no growth without psychic conflicts and spiritual agitation. The organization of a philosophical standard of life leads to considerable commotions in the philosophical domain of the mind. It is not without struggle that one exercises one's loyalty to what is great, good, true and noble.” <a id="a94_501"></a>[[UB 100:4](/en/The_Urantia_Book/100#p4)]
+I then understood, perceived and felt that this birth was the prelude to upheavals and inner transformations that I accepted with humility, confidence and joy. “Perplexity is inevitable in religion; there can be no growth without psychic conflicts and spiritual agitation. The organization of a philosophical standard of life leads to considerable commotions in the philosophical domain of the mind. It is not without struggle that one exercises one's loyalty to what is great, good, true and noble.” <a id="a95_501"></a>[[UB 100:4](/en/The_Urantia_Book/100#p4)]
 
 ## MOANA
 

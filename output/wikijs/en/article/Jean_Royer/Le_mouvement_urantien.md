@@ -70,7 +70,7 @@ There are dozens of possible actions outside this framework, actions in civil so
 
 One last example. Would it not be good and easy, in these so-called gloomy times, to present some of the quotes from the chapter on morontia mota, even if it is only the following one?
 
-We must abandon anxiety. The most difficult disappointments to bear are those that never happen (<a id="a71_97"></a>[UB 48:7.21](/en/The_Urantia_Book/48#p7_21)) But there are many others.
+We must abandon anxiety. The most difficult disappointments to bear are those that never happen (<a id="a72_97"></a>[UB 48:7.21](/en/The_Urantia_Book/48#p7_21)) But there are many others.
 
 Jean Royer
 

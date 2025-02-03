@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — December 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
@@ -174,7 +195,7 @@ Then the water carrier said to him:
 
 One of the paragraphs that has filled me the most is the following:
 
-You will learn that you increase your burden and reduce your chances of success if you take yourself too seriously. Nothing takes priority over the work in the sphere in which you are situated, whether in this world or the next. The work of preparation for the next and higher sphere is very important, but nothing is as important as your work in the world in which you find yourself living. However, although the work is important, the self is not. When you feel important you lose energy in the natural wear and tear of ego dignity, so that little energy is left to do the work. It is not the importance of the work but the importance of self that exhausts immature creatures. It is the weight of self that exhausts, not the effort of achievement. You can do important work if you do not give yourself importance. You can do several things as easily as one thing if you let go of your self. Variety is soothing; it is monotony that wears and exhausts. One after another, the days run the same and always with the same alternative: life or death. [UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
+You will learn that you increase your burden and reduce your chances of success if you take yourself too seriously. Nothing takes priority over the work in the sphere in which you are situated, whether in this world or the next. The work of preparation for the next and higher sphere is very important, but nothing is as important as your work in the world in which you find yourself living. However, although the work is important, the self is not. When you feel important you lose energy in the natural wear and tear of ego dignity, so that little energy is left to do the work. It is not the importance of the work but the importance of self that exhausts immature creatures. It is the weight of self that exhausts, not the effort of achievement. You can do important work if you do not give yourself importance. You can do several things as easily as one thing if you let go of your self. Variety is soothing; it is monotony that wears and exhausts. One after another, the days run the same and always with the same alternative: life or death. <a id="a197_1048"></a>[UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
 <br style="clear:both;"/>
 
 [Read more](/en/article/Raul_Framinan/Mi_parrafo_favorito)
@@ -255,3 +276,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2023/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — December 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

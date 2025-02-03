@@ -109,83 +109,83 @@ The reader who thinks so may have overlooked the fact that The Urantia Book is v
 
 Let’s review the book:
 
-> “This was a time of biologic tribulation, the age when life nearly vanished from the face of the earth and from the depths of the oceans.” <a id="a95_155"></a>[UB 59:6.2](/en/The_Urantia_Book/59#p6_2)
+> “This was a time of biologic tribulation, the age when life nearly vanished from the face of the earth and from the depths of the oceans.” <a id="a111_141"></a>[UB 59:6.2](/en/The_Urantia_Book/59#p6_2)
 
 All life on Earth has been on the brink of complete extinction several times. This is something that science knows well. Five major mass extinctions of life have occurred before. «Many biologists think that we are on the verge of the sixth, the Holocene mass extinction, which will be caused by humans.» https://en.wikipedia.org/wiki/Mass_extinction
 
 Entire races and peoples have been allowed to go extinct without any divine intervention preventing it:
 
-> «Before the unification of the several races their relentless warfare sometimes results in the obliteration of whole peoples; the orange and green men are particularly subject to such extinction.» <a id="a101_216"></a>[UB 52:2.5](/en/The_Urantia_Book/52#p2_5)
+> «Before the unification of the several races their relentless warfare sometimes results in the obliteration of whole peoples; the orange and green men are particularly subject to such extinction.» <a id="a117_199"></a>[UB 52:2.5](/en/The_Urantia_Book/52#p2_5)
 
 Nothing prevented the disappearance of the civilization of Dalamatia, the first advanced civilization in history:
 
-> “One hundred and sixty-two years after the rebellion a tidal wave swept up over Dalamatia, and the planetary headquarters sank beneath the waters of the sea, and this land did not again emerge until almost every vestige of the noble culture of those splendid ages had been obliterated.” <a id="a105_280"></a>[UB 67:5.4](/en/The_Urantia_Book/67#p5_4)
+> “One hundred and sixty-two years after the rebellion a tidal wave swept up over Dalamatia, and the planetary headquarters sank beneath the waters of the sea, and this land did not again emerge until almost every vestige of the noble culture of those splendid ages had been obliterated.” <a id="a121_289"></a>[UB 67:5.4](/en/The_Urantia_Book/67#p5_4)
 
 Not only is the disappearance of civilizations not prevented, but sometimes such disappearances are timed to occur. There are not immediately apparent benefits to the disappearance of these advanced civilizations. Eden, the second most advanced civilization in history, also followed the fate of Dalamatia:
 
-> “We do not regard the submergence of Eden as anything but a natural occurrence, but it does seem to us that the sinking of the Garden was timed...” <a id="a109_148"></a>[UB 73:7.2](/en/The_Urantia_Book/73#p7_2)
+> “We do not regard the submergence of Eden as anything but a natural occurrence, but it does seem to us that the sinking of the Garden was timed...” <a id="a125_150"></a>[UB 73:7.2](/en/The_Urantia_Book/73#p7_2)
 
 The book confirms that a massive flood was allowed to occur in the past, causing the greatest death toll yet:
 
-> “Presently the Sicilian land bridge submerged, creating one sea of the Mediterranean and connecting it with the Atlantic Ocean. This cataclysm of nature flooded scores of human settlements and occasioned the greatest loss of life by flood in all the world’s history.” <a id="a113_287"></a>[UB 80:2.4](/en/The_Urantia_Book/80#p2_4)
+> “Presently the Sicilian land bridge submerged, creating one sea of the Mediterranean and connecting it with the Atlantic Ocean. This cataclysm of nature flooded scores of human settlements and occasioned the greatest loss of life by flood in all the world’s history.” <a id="a129_270"></a>[UB 80:2.4](/en/The_Urantia_Book/80#p2_4)
 
 Entire civilizations that endured for thousands of years, far longer than the recent empires, eventually collapsed through no restraint:
 
-> “For twenty thousand years the culture of the second garden persisted, but it experienced a steady decline until about 15,000 B.C.” <a id="a117_140"></a>[UB 78:5.1](/en/The_Urantia_Book/78#p5_1)
+> “For twenty thousand years the culture of the second garden persisted, but it experienced a steady decline until about 15,000 B.C.” <a id="a133_134"></a>[UB 78:5.1](/en/The_Urantia_Book/78#p5_1)
 
-> “The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks” <a id="a119_117"></a>[UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
+> “The cultural age of the second garden was terminated by the increasing infiltration of the surrounding inferior stocks” <a id="a135_123"></a>[UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
 
 The Andites, the inheritors of the culture of Eden, were not spared the downfall of their civilization:
 
-> “About 2500 B.C., ... By the time of the establishment of the rule of Hammurabi the Sumerians had become absorbed into the ranks of the northern Semites, and the Mesopotamian Andites passed from the pages of history.” <a id="a123_244"></a>[UB 78:8.10](/en/The_Urantia_Book/78#p8_10)
+> “About 2500 B.C., ... By the time of the establishment of the rule of Hammurabi the Sumerians had become absorbed into the ranks of the northern Semites, and the Mesopotamian Andites passed from the pages of history.” <a id="a139_220"></a>[UB 78:8.10](/en/The_Urantia_Book/78#p8_10)
 
 It is not the concern of the celestial rulers to save civilizations but rather the cultural and spiritual achievements of these civilizations:
 
-> “Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. They must be nurtured by the combined contributions of the constitutive factors of man—science, morality, and religion. Civilizations come and go, but science, morality, and religion always survive the crash.” [UB 16:9.5](/en/The_Urantia_Book/16#p9_5)
+> “Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. They must be nurtured by the combined contributions of the constitutive factors of man—science, morality, and religion. Civilizations come and go, but science, morality, and religion always survive the crash.” <a id="a143_322"></a>[UB 16:9.5](/en/The_Urantia_Book/16#p9_5)
 
 Jesus gave his apostles advance warning of future dramatic events in Israel so that they might keep safe. The apostles believed that He would do something to save them (and the Hebrew people), but that was not the case. Hundreds of thousands of Jews perished:
 
-> “As his followers awakened to the fact that their Master was not going to function as a temporal deliverer, and as they listened to his predictions of the overthrow of Jerusalem and the downfall of the Jewish nation, they most naturally began to associate his promised return with these catastrophic events. But when the Roman armies leveled the walls of Jerusalem, destroyed the temple, and dispersed the Judean Jews, and still the Master did not reveal himself...” <a id="a131_506"></a>[UB 176:4.2](/en/The_Urantia_Book/176#p4_2)
+> “As his followers awakened to the fact that their Master was not going to function as a temporal deliverer, and as they listened to his predictions of the overthrow of Jerusalem and the downfall of the Jewish nation, they most naturally began to associate his promised return with these catastrophic events. But when the Roman armies leveled the walls of Jerusalem, destroyed the temple, and dispersed the Judean Jews, and still the Master did not reveal himself...” <a id="a147_469"></a>[UB 176:4.2](/en/The_Urantia_Book/176#p4_2)
 
 Even Jesus himself spoke of the possibility of the world coming to an end:
 
-> “The downfall of nations, the crash of empires, the destruction of the unbelieving Jews, the end of an age, even the end of the world, what have these things to do with one who believes this gospel, and who has hid his life in the surety of the eternal kingdom?” <a id="a135_281"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2)
+> “The downfall of nations, the crash of empires, the destruction of the unbelieving Jews, the end of an age, even the end of the world, what have these things to do with one who believes this gospel, and who has hid his life in the surety of the eternal kingdom?” <a id="a151_265"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2)
 
 Perhaps a world may occasionally need a fresh start, a fresh beginning that will prevent the mistakes of the past from being repeated based on a dramatic lesson learned.
 
 There are events that may provoke emergency intervention, but only in cases where the entire human race is in danger:
 
-> “... If some physical catastrophe should doom the planetary residence of an evolving race, the Melchizedeks and the Life Carriers would install the technique of dematerialization for all survivors, and by seraphic transport these beings would be carried away to the new world prepared for their continuing existence. The evolution of a human race, once initiated on a world of space, must proceed...” <a id="a141_438"></a>[UB 51:2.3](/en/The_Urantia_Book/51#p2_3)
+> “... If some physical catastrophe should doom the planetary residence of an evolving race, the Melchizedeks and the Life Carriers would install the technique of dematerialization for all survivors, and by seraphic transport these beings would be carried away to the new world prepared for their continuing existence. The evolution of a human race, once initiated on a world of space, must proceed...” <a id="a157_403"></a>[UB 51:2.3](/en/The_Urantia_Book/51#p2_3)
 
-Human evolution is therefore assured, and the future of mankind is bright. Thanks to the Book we know of the Ages of Light and Life <a id="a143_144"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1). But nothing in the Book allows us to suppose that we shall get there without first passing through many failed civilizations which fell from grace amid severe tribulations <a id="a143_360"></a>[UB 48:7.14](/en/The_Urantia_Book/48#p7_14).
+Human evolution is therefore assured, and the future of mankind is bright. Thanks to the Book we know of the Ages of Light and Life <a id="a159_132"></a>[UB 55:0.1](/en/The_Urantia_Book/55#p0_1). But nothing in the Book allows us to suppose that we shall get there without first passing through many failed civilizations which fell from grace amid severe tribulations <a id="a159_347"></a>[UB 48:7.14](/en/The_Urantia_Book/48#p7_14).
 
 We speak of planetary emergencies, but to the actual beings who rule the destinies of the inhabited planets these emergencies do not correspond to what we would normally consider as such:
 
-> The Melchizedeks are widely known as emergency Sons, for they engage in an amazing range of activities on the worlds of a local universe. When any extraordinary problem arises, or when something unusual is to be attempted, it is quite often a Melchizedek who accepts the assignment. <a id="a147_303"></a>[UB 93:0.1](/en/The_Urantia_Book/93#p0_1)
+> The Melchizedeks are widely known as emergency Sons, for they engage in an amazing range of activities on the worlds of a local universe. When any extraordinary problem arises, or when something unusual is to be attempted, it is quite often a Melchizedek who accepts the assignment. <a id="a163_285"></a>[UB 93:0.1](/en/The_Urantia_Book/93#p0_1)
 
-> Revealed truth was threatened with extinction during the millenniums which followed the miscarriage of the Adamic mission on Urantia. Though making progress intellectually, the human races were slowly losing ground spiritually. About 3000 B.C. the concept of God had grown very hazy in the minds of men. <a id="a149_345"></a>[UB 93:1.1](/en/The_Urantia_Book/93#p1_1)
+> Revealed truth was threatened with extinction during the millenniums which followed the miscarriage of the Adamic mission on Urantia. Though making progress intellectually, the human races were slowly losing ground spiritually. About 3000 B.C. the concept of God had grown very hazy in the minds of men. <a id="a165_306"></a>[UB 93:1.1](/en/The_Urantia_Book/93#p1_1)
 
-> And it was in consequence of having been thrown so completely on their own resources that Machiventa Melchizedek, one of the twelve planetary receivers, volunteered to do that which had been done only six times in all the history of Nebadon: to personalize on earth as a temporary man of the realm, to bestow himself as an emergency Son of world ministry. <a id="a151_364"></a>[UB 93:1.3](/en/The_Urantia_Book/93#p1_3)
+> And it was in consequence of having been thrown so completely on their own resources that Machiventa Melchizedek, one of the twelve planetary receivers, volunteered to do that which had been done only six times in all the history of Nebadon: to personalize on earth as a temporary man of the realm, to bestow himself as an emergency Son of world ministry. <a id="a167_358"></a>[UB 93:1.3](/en/The_Urantia_Book/93#p1_3)
 
 Thus it appears that emergency celestial interventions do occur, but they are for the purpose of keeping spiritual truth from being lost in the world, not to maintain civilizations, much less to maintain their failing economic systems.
 
 The two great evils plaguing present-day civilization are a lack of spiritual vision and an inordinate desire for profit. These cancerous plagues are undermining our future and will be the source of a new Third World War. This dramatic statement is not gratuitous; it comes from the revelators' analysis of our time:
 
-> “Twentieth-century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster.” <a id="a157_243"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5)
+> “Twentieth-century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster.” <a id="a173_210"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5)
 
-> “Urantians should get a vision of a new and higher cultural society. Education will jump to new levels of value with the passing of the purely profit-motivated system of economics. Education has too long been localistic, militaristic, ego exalting, and success seeking; it must eventually become world-wide, idealistic, self-realizing, and cosmic grasping.” [UB 71:7.3](/en/The_Urantia_Book/71#p7_3)
+> “Urantians should get a vision of a new and higher cultural society. Education will jump to new levels of value with the passing of the purely profit-motivated system of economics. Education has too long been localistic, militaristic, ego exalting, and success seeking; it must eventually become world-wide, idealistic, self-realizing, and cosmic grasping.” <a id="a175_360"></a>[UB 71:7.3](/en/The_Urantia_Book/71#p7_3)
 
-> “With scientific progress, wars are going to become more and more devastating until they become almost racially suicidal. How many world wars must be fought and how many leagues of nations must fail before men will be willing to establish the government of mankind and begin to enjoy the blessings of permanent peace and thrive on the tranquillity of good will—world-wide good will—among men?” <a id="a161_503"></a>[UB 134:5.17](/en/The_Urantia_Book/134#p5_17)
+> “With scientific progress, wars are going to become more and more devastating until they become almost racially suicidal. How many world wars must be fought and how many leagues of nations must fail before men will be willing to establish the government of mankind and begin to enjoy the blessings of permanent peace and thrive on the tranquillity of good will—world-wide good will—among men?” <a id="a177_396"></a>[UB 134:5.17](/en/The_Urantia_Book/134#p5_17)
 
-> “To the secularistic revolt you owe the amazing creativity of American industrialism and the unprecedented material progress of Western civilization. And because the secularistic revolt went too far and lost sight of God and true religion, there also followed the unlooked-for harvest of world wars and international unsettledness.” <a id="a163_365"></a>[UB 195:8.7](/en/The_Urantia_Book/195#p8_7)
+> “To the secularistic revolt you owe the amazing creativity of American industrialism and the unprecedented material progress of Western civilization. And because the secularistic revolt went too far and lost sight of God and true religion, there also followed the unlooked-for harvest of world wars and international unsettledness.” <a id="a179_335"></a>[UB 195:8.7](/en/The_Urantia_Book/195#p8_7)
 
-> “Another world war will teach the so-called sovereign nations to form some sort of federation, thus creating the machinery for preventing small wars, wars between the lesser nations. **But global wars will go on until the government of mankind is created.** Global sovereignty will prevent global wars—nothing else can.” <a id="a165_384"></a>[UB 134:6.4](/en/The_Urantia_Book/134#p6_4)
+> “Another world war will teach the so-called sovereign nations to form some sort of federation, thus creating the machinery for preventing small wars, wars between the lesser nations. **But global wars will go on until the government of mankind is created.** Global sovereignty will prevent global wars—nothing else can.” <a id="a181_323"></a>[UB 134:6.4](/en/The_Urantia_Book/134#p6_4)
 
 I am sure that some are tempted to think that these last paragraphs of the Book refer to the first two world wars (the very time at which they were written), and that they do not refer to our present future. [^10] I would ask them to consider these questions: Has our present world, that of the second decade of the 21st century, improved in spiritual vision and in the decrease of the desire for profit, compared to the first quarter of the 20th century? Or is everything rather going for the worse? And is the present UN, the United Nations Organization, that global planetary government of which revelation speaks?
 
 It is time to end this review of The Urantia Book with a final quote that seems to confirm quite well the prediction I made earlier about a future small ice age, and which surely more than one reader will have taken for an exaggeration:
 
-> ...And as long as the polar regions continue to be covered with ice, it is hardly possible for another glacial age to occur, regardless of future land elevations or modification of ocean currents. <a id="a171_248"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
+> ...And as long as the polar regions continue to be covered with ice, it is hardly possible for another glacial age to occur, regardless of future land elevations or modification of ocean currents. <a id="a187_199"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
 
 That is, the revelators confirm that the polar ice caps are that life preserver that prevents the appearance of new ice ages. That means that the destruction of the polar ice caps that we are producing with global warming could certainly give rise to a new ice age, whether it were a major one or not. And let's look at the phrase “future modification of ocean currents” because it seems prophetic. This is exactly what scientists are now discovering is happening with the important AMOC current. That is, without the cushion provided by the polar ice caps, a change in ocean currents will no longer be a harmless thing.
 
@@ -236,14 +236,14 @@ So, predictions or exaggerations?
 
 [^5]: https://es.wikipedia.org/wiki/Pico_del_gas
 
-[^6]: According to _The Urantia Book_, in our use of fossil fuels mankind is going backwards and not forwards. <a id="a206_136"></a>[UB 69:8.12](/en/The_Urantia_Book/69#p8_12) The revelators do not have much regard for this era of mechanization and use of inorganic energy that eliminates the need for human and animal labor. The first era of mechanization has led to a massive extinction of animal species that are no longer seen as useful (reducing species to purely productive ones). The second era is upon us, the era of AI (Artificial Intelligence) that promises to leave millions of human beings out of work. These are the effects of an economic model that only seeks profit and growth at all costs, even at the expense of leaving the planet empty of living beings.
+[^6]: According to _The Urantia Book_, in our use of fossil fuels mankind is going backwards and not forwards. <a id="a238_111"></a>[UB 69:8.12](/en/The_Urantia_Book/69#p8_12) The revelators do not have much regard for this era of mechanization and use of inorganic energy that eliminates the need for human and animal labor. The first era of mechanization has led to a massive extinction of animal species that are no longer seen as useful (reducing species to purely productive ones). The second era is upon us, the era of AI (Artificial Intelligence) that promises to leave millions of human beings out of work. These are the effects of an economic model that only seeks profit and growth at all costs, even at the expense of leaving the planet empty of living beings.
 
 [^7]: https://es.wikipedia.org/wiki/Dryas_Reciente
 
 [^8]: https://www.wcrp-climate.org/news/science-highlights/2043-2307-amoc-paper
 
-[^9]: Urantia is the sentimental sanctuary of all Nebadon. <a id="a212_59" ></a>[UB 119:8.8](/en/The_Urantia_Book/119#p8_8)
+[^9]: Urantia is the sentimental sanctuary of all Nebadon. <a id="a212_59" ></a><a id="a244_80"></a>[UB 119:8.8](/en/The_Urantia_Book/119#p8_8)
 
-[^10]: When the Book says in [UB 195:6.4](/en/The_Urantia_Book/195#p6_4) that "the "The worst of the materialistic era is over" refers to the years before World War II, the 1930s, when that paragraph was written. And the fact that we have passed the worst of that era did not prevent us from a world war. So, the worst of the materialistic era is over, yes, but we are still far from having left it behind.
+[^10]: When the Book says in <a id="a246_29"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4) that "the "The worst of the materialistic era is over" refers to the years before World War II, the 1930s, when that paragraph was written. And the fact that we have passed the worst of that era did not prevent us from a world war. So, the worst of the materialistic era is over, yes, but we are still far from having left it behind.
 
 

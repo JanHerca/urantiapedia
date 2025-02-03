@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Rey Sotolongo<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Navigating through life: Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ulises_Pedrique">
+          <span class="pr-2">Urantia Questionnaire: Ulises Pedrique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Decisiones.jpg" alt="Mi párrafo favorito - oct 24">
@@ -16,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-> This choosing of the Father’s will is the spiritual finding of the spirit Father by mortal man, even though an age must pass before the creature son may actually stand in the factual presence of God on Paradise. This choosing does not so much consist in the negation of creature will—“Not my will but yours be done”—as it consists in the creature’s positive affirmation: “It is *my* will that *your* will be done.” And if this choice is made, sooner or later will the God-choosing son find inner union (fusion) with the indwelling God fragment, while this same perfecting son will find supreme personality satisfaction in the worship communion of the personality of man and the personality of his Maker, two personalities whose creative attributes have eternally joined in self-willed mutuality of expression—the birth of another eternal partnership of the will of man and the will of God. ([UB 111:5.6](/en/The_Urantia_Book/111#p5_6))
+> This choosing of the Father’s will is the spiritual finding of the spirit Father by mortal man, even though an age must pass before the creature son may actually stand in the factual presence of God on Paradise. This choosing does not so much consist in the negation of creature will—“Not my will but yours be done”—as it consists in the creature’s positive affirmation: “It is *my* will that *your* will be done.” And if this choice is made, sooner or later will the God-choosing son find inner union (fusion) with the indwelling God fragment, while this same perfecting son will find supreme personality satisfaction in the worship communion of the personality of man and the personality of his Maker, two personalities whose creative attributes have eternally joined in self-willed mutuality of expression—the birth of another eternal partnership of the will of man and the will of God. (<a id="a42_893"></a>[UB 111:5.6](/en/The_Urantia_Book/111#p5_6))
 
 Eureka! The goal is crystal clear, the choice even seems simple to me; but... mmm. I was born in a country where there was no social space for God. My grandmother baptized her grandchildren in secret, and religion was rarely discussed at home. With a scientist father and a philologist mother, my only link with God was the idea my grandmother had of Him. As a teenager in Spain, and without looking for it, _The Urantia Book_ came into my hands.
 
@@ -32,3 +56,28 @@ I have to choose you every day. Every worldly decision seems to be “the choice
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Navigating through life: Serenity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-october-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — October 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ulises_Pedrique">
+          <span class="pr-2">Urantia Questionnaire: Ulises Pedrique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

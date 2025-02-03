@@ -50,7 +50,7 @@ The Urantia Book emphasizes to us that the way is not in fear of the past, nor i
 
 But rather to be as fair and exact as possible in our present, imbued with a feeling of absolute confidence, despite a very real state of mental and temporal uncertainty.
 
-> Uncertainty with security is the essence of the Paradise adventure—uncertainty in time and in mind, uncertainty as to the events of the unfolding Paradise ascent; security in spirit and in eternity, security in the unqualified trust of the creature son in the divine compassion and infinite love of the Universal Father; uncertainty as an inexperienced citizen of the universe; security as an ascending son in the universe mansions of an all-powerful, all-wise, and all-loving Father. (<a id="a51_488"></a>[UB 111:7.1](/en/The_Urantia_Book/111#p7_1))
+> Uncertainty with security is the essence of the Paradise adventure—uncertainty in time and in mind, uncertainty as to the events of the unfolding Paradise ascent; security in spirit and in eternity, security in the unqualified trust of the creature son in the divine compassion and infinite love of the Universal Father; uncertainty as an inexperienced citizen of the universe; security as an ascending son in the universe mansions of an all-powerful, all-wise, and all-loving Father. (<a id="a52_488"></a>[UB 111:7.1](/en/The_Urantia_Book/111#p7_1))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/168.jpg">
@@ -104,7 +104,7 @@ Those who have studied the methods of conditioning and indoctrination, and their
 
 Like dervishes
 
-> The coming of the Spirit of Truth on Pentecost made possible a religion which is neither radical nor conservative; it is neither the old nor the new; it is to be dominated neither by the old nor the young. The fact of Jesus’ earthly life provides a fixed point for the anchor of time, while the bestowal of the Spirit of Truth provides for the everlasting expansion and endless growth of the religion which he lived and the gospel which he proclaimed. The spirit guides into *all* truth; he is the teacher of an expanding and always-growing religion of endless progress and divine unfolding. This new teacher will be forever unfolding to the truth-seeking believer that which was so divinely folded up in the person and nature of the Son of Man. (<a id="a105_749"></a>[UB 194:3.8](/en/The_Urantia_Book/194#p3_8))
+> The coming of the Spirit of Truth on Pentecost made possible a religion which is neither radical nor conservative; it is neither the old nor the new; it is to be dominated neither by the old nor the young. The fact of Jesus’ earthly life provides a fixed point for the anchor of time, while the bestowal of the Spirit of Truth provides for the everlasting expansion and endless growth of the religion which he lived and the gospel which he proclaimed. The spirit guides into *all* truth; he is the teacher of an expanding and always-growing religion of endless progress and divine unfolding. This new teacher will be forever unfolding to the truth-seeking believer that which was so divinely folded up in the person and nature of the Son of Man. (<a id="a106_749"></a>[UB 194:3.8](/en/The_Urantia_Book/194#p3_8))
 
 ## Sufism
 

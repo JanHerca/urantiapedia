@@ -99,13 +99,13 @@ Promise me<br>
 
 **The Truth**
 
-> “The false science of materialism would sentence mortal man to become an outcast in the universe. Such partial knowledge is potentially evil; it is knowledge composed of both good and evil. Truth is beautiful because it is both replete and symmetrical. When man searches for truth, he pursues the divinely real.” (<a id="a100_316"></a>[UB 2:7.4](/en/The_Urantia_Book/2#p7_4))
+> “The false science of materialism would sentence mortal man to become an outcast in the universe. Such partial knowledge is potentially evil; it is knowledge composed of both good and evil. Truth is beautiful because it is both replete and symmetrical. When man searches for truth, he pursues the divinely real.” (<a id="a101_316"></a>[UB 2:7.4](/en/The_Urantia_Book/2#p7_4))
 
-> “5. Is the *love of truth* and the willingness to go wherever it leads, desirable? Then must man grow up in a world where error is present and falsehood always possible.” (<a id="a102_174"></a>[UB 3:5.10](/en/The_Urantia_Book/3#p5_10))
+> “5. Is the *love of truth* and the willingness to go wherever it leads, desirable? Then must man grow up in a world where error is present and falsehood always possible.” (<a id="a103_174"></a>[UB 3:5.10](/en/The_Urantia_Book/3#p5_10))
 
 **Goodness**
 
-> “In the physical universe we may see the divine beauty, in the intellectual world we may discern eternal truth, but the goodness of God is found only in the spiritual world of personal religious experience. In its true essence, religion is a faith-trust in the goodness of God. God could be great and absolute, somehow even intelligent and personal, in philosophy, but in religion God must also be moral; he must be good. Man might fear a great God, but he trusts and loves only a good God. This goodness of God is a part of the personality of God, and its full revelation appears only in the personal religious experience of the believing sons of God.” (<a id="a106_657"></a>[UB 2:6.1](/en/The_Urantia_Book/2#p6_1))
+> “In the physical universe we may see the divine beauty, in the intellectual world we may discern eternal truth, but the goodness of God is found only in the spiritual world of personal religious experience. In its true essence, religion is a faith-trust in the goodness of God. God could be great and absolute, somehow even intelligent and personal, in philosophy, but in religion God must also be moral; he must be good. Man might fear a great God, but he trusts and loves only a good God. This goodness of God is a part of the personality of God, and its full revelation appears only in the personal religious experience of the believing sons of God.” (<a id="a107_657"></a>[UB 2:6.1](/en/The_Urantia_Book/2#p6_1))
 
 **Beauty**
 
@@ -113,7 +113,7 @@ Promise me<br>
 
 **Truth, Beauty and Goodness Combined**
 
-> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience. Reality is finite on the human level, infinite and eternal on the higher and divine levels.” (<a id="a114_500"></a>[UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
+> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience. Reality is finite on the human level, infinite and eternal on the higher and divine levels.” (<a id="a115_500"></a>[UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
 
 
 

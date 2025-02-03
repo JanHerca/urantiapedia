@@ -41,7 +41,7 @@ In order not to lose the thread of the demonstration, we must always keep in min
 
 **<ins>Paragraph in which the chicken comes first</ins>**
 
-Pages 6 and 7 of the _Urantia Book_ suggest that Reality is actualized from the three Absolutes. These latter are by definition issued from the combined thought of the trinitarian Deities (<a id="a42_189"></a>[UB 0:11.1](/en/The_Urantia_Book/0#p11_1)) and are the potential of Reality. They are in a way the absolute Pre-reality.
+Pages 6 and 7 of the _Urantia Book_ suggest that Reality is actualized from the three Absolutes. These latter are by definition issued from the combined thought of the trinitarian Deities (<a id="a43_189"></a>[UB 0:11.1](/en/The_Urantia_Book/0#p11_1)) and are the potential of Reality. They are in a way the absolute Pre-reality.
 
 1º The Unqualified Absolute will bring into existence the _undeified reality_ which one could also call non-personalizable reality. Never and nowhere in the master universe will personality and deity be the fruit of the Unqualified Absolute. The latter only concerns itself with what will become substance or form.
 

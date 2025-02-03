@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Safed is one of the towns mentioned in _The Urantia Book_ ([UB 138:9.3](/en/The_Urantia_Book/138#p9_3)) that the apostles visited during their period of probation before official preaching. It was here that James, a citizen of Tiberias, was born. He is known to be the father of an epileptic child whom Jesus cured.
+Safed is one of the towns mentioned in _The Urantia Book_ (<a id="a28_59"></a>[UB 138:9.3](/en/The_Urantia_Book/138#p9_3)) that the apostles visited during their period of probation before official preaching. It was here that James, a citizen of Tiberias, was born. He is known to be the father of an epileptic child whom Jesus cured.
 
 A good orthophoto is available on Google maps. We have information about the current city on [Wikipedia](https://en.wikipedia.org/wiki/Safed) but nothing about the ancient city. It was famous for being a very healthy area, with pleasant summers and harsh winters. It was at an altitude of 900 meters, and had high rainfall.
 

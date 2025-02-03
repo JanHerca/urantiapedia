@@ -56,7 +56,7 @@ In January 2023, the second part of the trilogy was offered. Throughout this cou
 
 > THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all.
 > 
-> Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living. (<a id="a57_310"></a>[UB 100:0.1-2](/en/The_Urantia_Book/100#p0_1))
+> Spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth—an objective lure in the place of subjective gratification—yet it yields the supreme subjective satisfaction. And religion ennobles the commonplace drudgery of daily living. (<a id="a58_310"></a>[UB 100:0.1-2](/en/The_Urantia_Book/100#p0_1))
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/125.jpg">

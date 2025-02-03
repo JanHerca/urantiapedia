@@ -36,7 +36,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-Only a poet can discern poetry in the mundane prose of life... (<a id="a37_64"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+Only a poet can discern poetry in the mundane prose of life... (<a id="a38_64"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 Silence !...
 It's getting late, night is coming quickly.

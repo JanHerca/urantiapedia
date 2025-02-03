@@ -65,7 +65,7 @@ Finally, I found in selfless service a useful meaning for my life, for the growt
 
 ## By what technique was this revelation transmitted?
 
-This is a legitimate question that many readers ask themselves, but it may never find a complete answer. Nevertheless, the Urantia Book itself provides some details on the modus operandi of transmission and the attentive reader will have noticed the following paragraphs: <a id="a66_272"></a>[UB 110:5.7](/en/The_Urantia_Book/110#p5_7); <a id="a66_317"></a>[UB 113:2.6](/en/The_Urantia_Book/113#p2_6); <a id="a66_362"></a>[UB 113:2.7](/en/The_Urantia_Book/113#p2_7); <a id="a66_407"></a>[UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
+This is a legitimate question that many readers ask themselves, but it may never find a complete answer. Nevertheless, the Urantia Book itself provides some details on the modus operandi of transmission and the attentive reader will have noticed the following paragraphs: <a id="a67_272"></a>[UB 110:5.7](/en/The_Urantia_Book/110#p5_7); <a id="a67_317"></a>[UB 113:2.6](/en/The_Urantia_Book/113#p2_6); <a id="a67_362"></a>[UB 113:2.7](/en/The_Urantia_Book/113#p2_7); <a id="a67_407"></a>[UB 114:7.9](/en/The_Urantia_Book/114#p7_9).
 
 In his appendix to _The Mind at Mischief_, [Funk & Wagnalls Company 1929], Doctor William S. Sadler testifies to what he observed in these terms:
 
@@ -90,7 +90,7 @@ Since 1955, a lot of progress has been made; some 15 translations have been made
 
 Religion is a personal experience that takes place in our inner life in the presence of God. By making adjustments in our will and transformations in our mind it must necessarily lead to the service of our neighbor and produce social fruits.
 
-> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a91_172"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a92_172"></a>[[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
 Like Jesus giving his final advice to the apostles for the continuation of the mission of the fourth revelation, the revelators gave us advice that can be found in the [Publication Mandate](/en/article/The_Publication_Mandate) on the following link:
 
@@ -112,7 +112,7 @@ Teachers of _The Urantia Book_ should carefully study the teachings of the Maste
 
 Finally, the study of the teachings of The Urantia Book can be difficult for some, study groups are the appropriate answer. The ancient religious order gathers in churches, mosques, temples and synagogues to listen to the good word. Readers of The Urantia Book gather in study groups led by a teacher, a resource person, to study together, share their spiritual life and create the dynamics of true brotherhood.
 
-> “In the beginning the Father does all, but as the panorama of eternity unfolds in response to the will and mandates of the Infinite, it becomes increasingly apparent that creatures, even men, are to become God’s partners in the realization of finality of destiny. And this is true even in the life in the flesh; when man and God enter into partnership, no limitation can be placed upon the future possibilities of such a partnership. When man realizes that the Universal Father is his partner in eternal progression, when he fuses with the indwelling Father presence, he has, in spirit, broken the fetters of time and has already entered upon the progressions of eternity in the quest for the Universal Father.” (<a id="a113_715"></a>[[UB 118:5.2](/en/The_Urantia_Book/118#p5_2))
+> “In the beginning the Father does all, but as the panorama of eternity unfolds in response to the will and mandates of the Infinite, it becomes increasingly apparent that creatures, even men, are to become God’s partners in the realization of finality of destiny. And this is true even in the life in the flesh; when man and God enter into partnership, no limitation can be placed upon the future possibilities of such a partnership. When man realizes that the Universal Father is his partner in eternal progression, when he fuses with the indwelling Father presence, he has, in spirit, broken the fetters of time and has already entered upon the progressions of eternity in the quest for the Universal Father.” (<a id="a114_715"></a>[[UB 118:5.2](/en/The_Urantia_Book/118#p5_2))
 
 _Georges Michelson-Dupont. Reclosed_
 

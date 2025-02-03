@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## David versus Goliath
 
@@ -27,7 +51,7 @@ As you can see, it is a very interesting, varied and “nutritious” number for
 
 Let's begin together this new journey through _The Urantia Book_ in this month that begins. Join us on this trip through the book and its fascinating nuances. Join our reflections and the attempt to expand the minds and, above all, the hearts of the readers of _The Urantia Book_.
 
-> “Jesus had many visits with a Chinese merchant. In saying good-bye, he admonished him: “Worship only God, who is your true spirit ancestor. Remember that the Father’s spirit ever lives within you and always points your soul-direction heavenward. If you follow the unconscious leadings of this immortal spirit, you are certain to continue on in the uplifted way of finding God. And when you do attain the Father in heaven, it will be because by seeking him you have become more and more like him. And so farewell, Chang, but only for a season, for we shall meet again in the worlds of light where the Father of spirit souls has provided many delightful stopping-places for those who are Paradise-bound.”” ([UB 133:4.9](/en/The_Urantia_Book/133#p4_9))
+> “Jesus had many visits with a Chinese merchant. In saying good-bye, he admonished him: “Worship only God, who is your true spirit ancestor. Remember that the Father’s spirit ever lives within you and always points your soul-direction heavenward. If you follow the unconscious leadings of this immortal spirit, you are certain to continue on in the uplifted way of finding God. And when you do attain the Father in heaven, it will be because by seeking him you have become more and more like him. And so farewell, Chang, but only for a season, for we shall meet again in the worlds of light where the Father of spirit souls has provided many delightful stopping-places for those who are Paradise-bound.”” (<a id="a53_707"></a>[UB 133:4.9](/en/The_Urantia_Book/133#p4_9))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-5.jpg" alt="Editorial nov-23-5" width="350">
@@ -36,11 +60,11 @@ Let's begin together this new journey through _The Urantia Book_ in this month t
 Jesus had many conversations with a Chinese merchant and said goodbye to him like this. This quote is a challenging example for those who only conceive of his Truth as the only valid one. Could a Chinese merchant, who did not follow the laws of Moses, be saved just like a Jew? Well, that's right, since Jesus tells him that they will see each other on the mansion worlds in the future. In the same Urantia Book, an entire chapter is dedicated to different religions and philosophies prior to Christianity, because:
 <br style="clear:both;"/>
 
-> The many religions of Urantia are all good to the extent that they bring man to God and bring the realization of the Father to man. It is a fallacy for any group of religionists to conceive of their creed as *The Truth;* such attitudes bespeak more of theological arrogance than of certainty of faith. There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth. Religionists would do better to borrow the best in their neighbors’ living spiritual faith rather than to denounce the worst in their lingering superstitions and outworn rituals. ([UB 92:7.3](/en/The_Urantia_Book/92#p7_3))
+> The many religions of Urantia are all good to the extent that they bring man to God and bring the realization of the Father to man. It is a fallacy for any group of religionists to conceive of their creed as *The Truth;* such attitudes bespeak more of theological arrogance than of certainty of faith. There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth. Religionists would do better to borrow the best in their neighbors’ living spiritual faith rather than to denounce the worst in their lingering superstitions and outworn rituals. (<a id="a62_641"></a>[UB 92:7.3](/en/The_Urantia_Book/92#p7_3))
 
 This honest work of seeing and valuing “the best” of other religions or ways of thinking was what Jesus always did with those he met. Once he did it, however, it linked with his message of salvation. For example, let's look at this simple and brief example:
 
-To the Epicurean master he said: "You do well to choose the best and appreciate the good, but are you wise when you are not able to perceive higher elements of mortal life that are embodied in the realms of the spirit derived from the recognition of the presence of God in the human heart? [UB 133:4.5](/en/The_Urantia_Book/133#p4_5)
+To the Epicurean master he said: "You do well to choose the best and appreciate the good, but are you wise when you are not able to perceive higher elements of mortal life that are embodied in the realms of the spirit derived from the recognition of the presence of God in the human heart? <a id="a66_290"></a>[UB 133:4.5](/en/The_Urantia_Book/133#p4_5)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-4.jpg" alt="Editorial nov-23-4" width="350">
@@ -125,7 +149,7 @@ Let us persevere, because we can assume that trust and commitment every day in o
 
 Let us follow the example of the Master who, as Saint John of the Cross poetically wrote a few centuries ago, “pouring out a thousand thanks, he passed through these thickets with ease.” He poured out a “thousand thanks” in a small area of the planet marked by wars, and his followers can continue to pour out a “thousand thanks,” despite everything.
 
-The power of this kingdom will consist neither in the strength of armies nor in the might of riches, but rather in the glory of the divine spirit who will come to instruct the minds and rule the hearts of the born-again citizens of this heavenly kingdom, the children of God. This is the brotherhood of love where righteousness reigns and whose battle cry will be: Peace on earth and good will among all men. [UB 140:1.3](/en/The_Urantia_Book/140#p1_3)
+The power of this kingdom will consist neither in the strength of armies nor in the might of riches, but rather in the glory of the divine spirit who will come to instruct the minds and rule the hearts of the born-again citizens of this heavenly kingdom, the children of God. This is the brotherhood of love where righteousness reigns and whose battle cry will be: Peace on earth and good will among all men. <a id="a151_409"></a>[UB 140:1.3](/en/The_Urantia_Book/140#p1_3)
 
 Let us trust then in the change of our planet, in the transforming power of the little Davids. Let us trust in ourselves.
 
@@ -134,3 +158,28 @@ Let us trust then in the change of our planet, in the transforming power of the 
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/10/30/editorial-noviembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

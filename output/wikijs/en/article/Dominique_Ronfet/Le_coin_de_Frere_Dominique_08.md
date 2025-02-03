@@ -41,7 +41,7 @@ It seems that “_the Spirit blows where it wants and when it wants_”. It seem
 
 Jesus said: “When the wind blows, you hear the rustling of the leaves, but you do not see the wind—neither where it comes from nor where it goes—and so it is with everyone who is born of the spirit.
 
-_With the eyes of the flesh, one can perceive the manifestations of the spirit, but one cannot actually discern the spirit_. <a id="a42_125"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
+_With the eyes of the flesh, one can perceive the manifestations of the spirit, but one cannot actually discern the spirit_. <a id="a43_125"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5)
 
 So let's open our eyes, these windows of the soul, And pay attention to the air currents.
 

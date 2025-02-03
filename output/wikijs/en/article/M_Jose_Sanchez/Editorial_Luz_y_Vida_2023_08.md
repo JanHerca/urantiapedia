@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The perfect time to sow
 
@@ -41,15 +65,15 @@ Always keep in mind the twofold purpose of Michael's bestowal on Urantia:
 
 In our dear Teacher we find a magnificent human who
 
-> Joshua ben Joseph knew full well that he was a man, a mortal man, born of woman. This is shown in the selection of his first title, the *Son of Man.* He was truly a partaker of flesh and blood, and even now, as he presides in sovereign authority over the destinies of a universe, he still bears among his numerous well-earned titles that of Son of Man. It is literally true that the creative Word—the Creator Son—of the Universal Father was “made flesh and dwelt as a man of the realm on Urantia.” He labored, grew weary, rested, and slept. He hungered and satisfied such cravings with food; he thirsted and quenched his thirst with water. He experienced the full gamut of human feelings and emotions; he was “in all things tested, even as you are,” and he suffered and died. ([UB 128:1.2](/en/The_Urantia_Book/128#p1_2))
+> Joshua ben Joseph knew full well that he was a man, a mortal man, born of woman. This is shown in the selection of his first title, the *Son of Man.* He was truly a partaker of flesh and blood, and even now, as he presides in sovereign authority over the destinies of a universe, he still bears among his numerous well-earned titles that of Son of Man. It is literally true that the creative Word—the Creator Son—of the Universal Father was “made flesh and dwelt as a man of the realm on Urantia.” He labored, grew weary, rested, and slept. He hungered and satisfied such cravings with food; he thirsted and quenched his thirst with water. He experienced the full gamut of human feelings and emotions; he was “in all things tested, even as you are,” and he suffered and died. (<a id="a67_779"></a>[UB 128:1.2](/en/The_Urantia_Book/128#p1_2))
 
 But he also knew how to be constantly in the divine presence, giving a deep meaning to his life:
 
-> After his baptism he thought nothing of permitting his sincere believers and grateful followers to worship him. Even while he wrestled with poverty and toiled with his hands to provide the necessities of life for his family, his awareness that he was a Son of God was growing; he knew that he was the maker of the heavens and this very earth whereon he was now living out his human existence. And the hosts of celestial beings throughout the great and onlooking universe likewise knew that this man of Nazareth was their beloved Sovereign and Creator-father. A profound suspense pervaded the universe of Nebadon throughout these years; all celestial eyes were continuously focused on Urantia—on Palestine. ([UB 128:1.13](/en/The_Urantia_Book/128#p1_13))
+> After his baptism he thought nothing of permitting his sincere believers and grateful followers to worship him. Even while he wrestled with poverty and toiled with his hands to provide the necessities of life for his family, his awareness that he was a Son of God was growing; he knew that he was the maker of the heavens and this very earth whereon he was now living out his human existence. And the hosts of celestial beings throughout the great and onlooking universe likewise knew that this man of Nazareth was their beloved Sovereign and Creator-father. A profound suspense pervaded the universe of Nebadon throughout these years; all celestial eyes were continuously focused on Urantia—on Palestine. (<a id="a71_709"></a>[UB 128:1.13](/en/The_Urantia_Book/128#p1_13))
 
 The same being who walked with his powerful legs along the dusty roads of Galilee stated:
 
-> “And yet, throughout all these years of his life in the flesh he was truly divine. He was actually a Creator Son of the Paradise Father. When once he had espoused his public career, subsequent to the technical completion of his purely mortal experience of sovereignty acquirement, he did not hesitate publicly to admit that he was the Son of God. He did not hesitate to declare, “I am Alpha and Omega, the beginning and the end, the first and the last.” He made no protest in later years when he was called Lord of Glory, Ruler of a Universe, the Lord God of all creation, the Holy One of Israel, the Lord of all, our Lord and our God, God with us, having a name above every name and on all worlds, the Omnipotence of a universe, the Universe Mind of this creation, the One in whom are hid all treasures of wisdom and knowledge, the fullness of Him who fills all things, the eternal Word of the eternal God, the One who was before all things and in whom all things consist, the Creator of the heavens and the earth, the Upholder of a universe, the Judge of all the earth, the Giver of life eternal, the True Shepherd, the Deliverer of the worlds, and the Captain of our salvation.” ([UB 128:1.10](/en/The_Urantia_Book/128#p1_10))
+> “And yet, throughout all these years of his life in the flesh he was truly divine. He was actually a Creator Son of the Paradise Father. When once he had espoused his public career, subsequent to the technical completion of his purely mortal experience of sovereignty acquirement, he did not hesitate publicly to admit that he was the Son of God. He did not hesitate to declare, “I am Alpha and Omega, the beginning and the end, the first and the last.” He made no protest in later years when he was called Lord of Glory, Ruler of a Universe, the Lord God of all creation, the Holy One of Israel, the Lord of all, our Lord and our God, God with us, having a name above every name and on all worlds, the Omnipotence of a universe, the Universe Mind of this creation, the One in whom are hid all treasures of wisdom and knowledge, the fullness of Him who fills all things, the eternal Word of the eternal God, the One who was before all things and in whom all things consist, the Creator of the heavens and the earth, the Upholder of a universe, the Judge of all the earth, the Giver of life eternal, the True Shepherd, the Deliverer of the worlds, and the Captain of our salvation.” (<a id="a75_1185"></a>[UB 128:1.10](/en/The_Urantia_Book/128#p1_10))
 
 What a great teaching from our Master: he did not shy away from the matter or reject it, but rather he lived it, using it to produce greater growth and expansion.
 
@@ -61,9 +85,9 @@ There are many significant examples in _The Urantia Book_ that show us Jesus of 
 
 Another example: he knew how wise it is to have and manage money as a useful tool in our lives, although he also warns us of the dangers that those who love riches and covet fraudulent goods can encounter.
 
-While he worked with Zebedee, he had only received small sums of money that he sent monthly to his family in Nazareth. Some months Joseph went to Capernaum to get the money and other months Judah passed through Capernaum, received the money from Jesus and took it to Nazareth. [UB 129:2.1](/en/The_Urantia_Book/129#p2_1)
+While he worked with Zebedee, he had only received small sums of money that he sent monthly to his family in Nazareth. Some months Joseph went to Capernaum to get the money and other months Judah passed through Capernaum, received the money from Jesus and took it to Nazareth. <a id="a87_277"></a>[UB 129:2.1](/en/The_Urantia_Book/129#p2_1)
 
-Peter said, “Then, Lord, who can be saved? Will all who have riches be excluded from the kingdom?” Jesus replied, “No, Peter, but all who put their trust in riches have little chance of entering into the spiritual life that leads to eternal progress. However, there are many things impossible for man that are not beyond the reach of the Father in heaven; we should rather recognize that with God all things are possible.” [UB 163:3.2](/en/The_Urantia_Book/163#p3_2)
+Peter said, “Then, Lord, who can be saved? Will all who have riches be excluded from the kingdom?” Jesus replied, “No, Peter, but all who put their trust in riches have little chance of entering into the spiritual life that leads to eternal progress. However, there are many things impossible for man that are not beyond the reach of the Father in heaven; we should rather recognize that with God all things are possible.” <a id="a89_423"></a>[UB 163:3.2](/en/The_Urantia_Book/163#p3_2)
 
 <br style="clear:both;"/>
 
@@ -88,15 +112,15 @@ What the Master teaches us is the search for balance in life. It would not be ab
 <br style="clear:both;"/>
 
 > Your kingdom come; your will be done
-> On earth as it is in heaven. ([UB 144:3.5-6](/en/The_Urantia_Book/144#p3_5))
+> On earth as it is in heaven. (<a id="a114_32"></a>[UB 144:3.5-6](/en/The_Urantia_Book/144#p3_5))
 
 We are, without a doubt, beings living the experience of matter:
 
-Man is a creature of the soil, a child of nature; however hard he may try to escape from the earth, he is ultimately assured of failure. It is literally true of all mankind that “dust thou art, and to dust shalt thou return.” [UB 68:6.1](/en/The_Urantia_Book/68#p6_1)
+Man is a creature of the soil, a child of nature; however hard he may try to escape from the earth, he is ultimately assured of failure. It is literally true of all mankind that “dust thou art, and to dust shalt thou return.” <a id="a118_226"></a>[UB 68:6.1](/en/The_Urantia_Book/68#p6_1)
 
 But we are not only made of matter: at the same time we are spiritual beings. This duality in our life is inevitable and is planned for our good, for the best good of the universe:
 
-In every mortal there exists a dual nature: the heritage of animal tendencies and the high impulse of spiritual endowment. During the short life that you live on Urantia, these two distinct and opposing impulses can seldom be fully reconciled, hardly harmonized and unified. But throughout your life the combined Spirit is ever at your side to help you to bring the flesh more and more under the guidance of the Spirit. Although you must live your material life to the full, although you cannot escape the body and its needs, yet you have, in purpose and in ideals, more and more power to bring the animal nature under the dominion of the Spirit. There truly exists within you a conspiracy of spiritual forces, a coalition of divine powers, whose sole purpose is to free you ultimately from material bondage and finite encumbrances. [UB 34:6.9](/en/The_Urantia_Book/34#p6_9)
+In every mortal there exists a dual nature: the heritage of animal tendencies and the high impulse of spiritual endowment. During the short life that you live on Urantia, these two distinct and opposing impulses can seldom be fully reconciled, hardly harmonized and unified. But throughout your life the combined Spirit is ever at your side to help you to bring the flesh more and more under the guidance of the Spirit. Although you must live your material life to the full, although you cannot escape the body and its needs, yet you have, in purpose and in ideals, more and more power to bring the animal nature under the dominion of the Spirit. There truly exists within you a conspiracy of spiritual forces, a coalition of divine powers, whose sole purpose is to free you ultimately from material bondage and finite encumbrances. <a id="a122_833"></a>[UB 34:6.9](/en/The_Urantia_Book/34#p6_9)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-1.jpg" alt="Editorial agosto 2024-4" width="350">
@@ -114,7 +138,7 @@ Medicine and technological advances have also made it possible for us to live lo
 
 **Now** is the time to be able to show the world the unparalleled teachings of our beloved Creator and Master. These teachings can fill the current existential void and give meaning to our lives. Readers of _The Urantia Book_ have fertile ground around us, like new sowers, in the image of that ancient parable that Jesus of Nazareth told about a boat. And like that sower, we will have obstacles and problems, but it does not matter, because as Thomas said in his interpretation of that story, we do not have control over all things:
 
-Jesus nodded, and Thomas said, “Brethren, I do not wish to prolong this discussion, but if you wish, I will tell you that I think this parable was told to teach us a great truth. And that is, no matter how hard we strive to execute our divine mission effectively and faithfully, the success of our teaching of the gospel of the kingdom will vary greatly, and that all these differences in outcome will be a direct consequence of the conditions inherent in the circumstances of our ministry, conditions over which we have little or no control.” [UB 151:2.6](/en/The_Urantia_Book/151#p2_6)
+Jesus nodded, and Thomas said, “Brethren, I do not wish to prolong this discussion, but if you wish, I will tell you that I think this parable was told to teach us a great truth. And that is, no matter how hard we strive to execute our divine mission effectively and faithfully, the success of our teaching of the gospel of the kingdom will vary greatly, and that all these differences in outcome will be a direct consequence of the conditions inherent in the circumstances of our ministry, conditions over which we have little or no control.” <a id="a140_544"></a>[UB 151:2.6](/en/The_Urantia_Book/151#p2_6)
 
 <br style="clear:both;"/>
 
@@ -129,3 +153,28 @@ Let us respond to the hope of so many generations that fought and suffered to ac
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2023 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

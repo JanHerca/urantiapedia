@@ -42,13 +42,13 @@ Because God manifests himself to us in this way.
 
 Our mind thinks of God as truth, beauty and goodness.
 
-> _Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as justice, power, and sovereignty._ (<a id="a43_196"></a>[UB 0:1.17](/en/The_Urantia_Book/0#p1_17))
+> _Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as justice, power, and sovereignty._ (<a id="a44_196"></a>[UB 0:1.17](/en/The_Urantia_Book/0#p1_17))
 
 And we can go even further. We only understand God to the extent that we are sensitive to these three values. The higher our idea of truth, the more harmonious and ethical our idea of beauty, the more our sense of goodness takes place in our life and the closer we are to God. It is therefore essential to have a clear idea of these three values and to give them a preponderant place in our daily life.
 
 God manifests himself to us to the extent that we can understand him and we only understand him through these three values.
 
-> The divine mystery consists in the inherent difference which exists between the finite and the infinite, the temporal and the eternal, the time-space creature and the Universal Creator, the material and the spiritual, the imperfection of man and the perfection of Paradise Deity. The God of universal love unfailingly manifests himself to every one of his creatures up to the fullness of that creature’s capacity to spiritually grasp the qualities of divine truth, beauty, and goodness. (<a id="a49_490"></a>[UB 1:4.5](/en/The_Urantia_Book/1#p4_5))
+> The divine mystery consists in the inherent difference which exists between the finite and the infinite, the temporal and the eternal, the time-space creature and the Universal Creator, the material and the spiritual, the imperfection of man and the perfection of Paradise Deity. The God of universal love unfailingly manifests himself to every one of his creatures up to the fullness of that creature’s capacity to spiritually grasp the qualities of divine truth, beauty, and goodness. (<a id="a50_490"></a>[UB 1:4.5](/en/The_Urantia_Book/1#p4_5))
 
 It is in spiritual experience that these three values unify. They cannot function separately from each other without creating imbalances.
 

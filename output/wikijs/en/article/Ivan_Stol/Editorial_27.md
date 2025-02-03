@@ -41,7 +41,7 @@ Dear readers,
 Questions:
 - God has given a lot to man: what does he do with it?
 - Wisdom and worship are essential to a personality: what does it do with them?
-- All our cells were for evolution (<a id="a42_36"></a>[UB 65:6.2](/en/The_Urantia_Book/65#p6_2)): are we helping them?
+- All our cells were for evolution (<a id="a43_36"></a>[UB 65:6.2](/en/The_Urantia_Book/65#p6_2)): are we helping them?
 
 Young people are looking for work, but when they find it, they leave after a few months. The bosses don't understand. We are incapable of offering these young people the new society that we have promised would come. We have the potential to make them aware of the end of an age, let's help them to innovate!
 

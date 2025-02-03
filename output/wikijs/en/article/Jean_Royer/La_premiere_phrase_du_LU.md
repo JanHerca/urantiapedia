@@ -68,7 +68,7 @@ It should be noted that this is the third time that we find the word experience 
 
 **There is great confusion**, refers to all the civilizations on our planet, whether in space or in time.
 
-**God**: Chapter II of <a id="a69_23"></a>[pages 3 et 4](/en/The_Urantia_Book/0#p2_11) is devoted to explaining what the revelators mean by this word. And for a good part, it is indeed revelation.
+**God**: Chapter II of <a id="a70_23"></a>[pages 3 et 4](/en/The_Urantia_Book/0#p2_11) is devoted to explaining what the revelators mean by this word. And for a good part, it is indeed revelation.
 
 **Divinity and Deity** are covered in Chapter I on pages 2 and 3.
 

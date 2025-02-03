@@ -55,7 +55,7 @@ Blue eyes have stood the test of time and spanned millennia. Why has evolution p
 
 _Relevant passages from The Urantia Book:_
 
-> _Adam and Eve were the founders of the violet race of men, the ninth human race to appear on Urantia. Adam and his offspring had blue eyes, and the violet peoples were characterized by fair complexions and light hair color—yellow, red, and brown._ (<a id="a56_251"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1))
+> _Adam and Eve were the founders of the violet race of men, the ninth human race to appear on Urantia. Adam and his offspring had blue eyes, and the violet peoples were characterized by fair complexions and light hair color—yellow, red, and brown._ (<a id="a57_251"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1))
 
 The association of eyes and blue does not appear elsewhere in The Urantia Book. It would therefore appear that Adam and Eve were the first human beings on our planet to have blue eyes. In this case, it is not a mutation, as stated above, but a characteristic of the violet race founded by Adam and Eve.
 

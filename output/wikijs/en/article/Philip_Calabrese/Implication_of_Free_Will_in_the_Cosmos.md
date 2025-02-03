@@ -350,6 +350,6 @@ The one-eyed agnostic scientist errs when he insists that determinism is all the
 
 [^15]: “Free Will Belief and Reality” R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p 51 in [1]
 
-[^16]: _The Urantia Book_, (The Urantia Book) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a351_111"></a>[UB 130:2.10](/en/The_Urantia_Book/130#p2_10))
+[^16]: _The Urantia Book_, (The Urantia Book) Urantia Foundation, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a352_111"></a>[UB 130:2.10](/en/The_Urantia_Book/130#p2_10))
 
 [^17]: “Free Will Belief and Reality” R. Baumeister, C. Clark \& J. Luguri, Ch. 4 p65 in [1]

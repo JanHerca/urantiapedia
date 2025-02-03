@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Gischala is also listed as one of the towns visited by the apostles. The apostles preached there on their first preaching tour of the lake in June–July 26 ([UB 138:9.3](/en/The_Urantia_Book/138#p9_3)). It is one of the towns visited during the first preaching tour of Galilee in January–March 28 ([UB 146:0.1](/en/The_Urantia_Book/146#p0_1), [UB 146:4.6](/en/The_Urantia_Book/146#p4_6)). Jesus and the apostles passed nearby on their return from Phoenicia ([UB 156:6.3](/en/The_Urantia_Book/156#p6_3)).
+Gischala is also listed as one of the towns visited by the apostles. The apostles preached there on their first preaching tour of the lake in June–July 26 (<a id="a28_156"></a>[UB 138:9.3](/en/The_Urantia_Book/138#p9_3)). It is one of the towns visited during the first preaching tour of Galilee in January–March 28 (<a id="a28_297"></a>[UB 146:0.1](/en/The_Urantia_Book/146#p0_1), <a id="a28_342"></a>[UB 146:4.6](/en/The_Urantia_Book/146#p4_6)). Jesus and the apostles passed nearby on their return from Phoenicia (<a id="a28_457"></a>[UB 156:6.3](/en/The_Urantia_Book/156#p6_3)).
 
 This population was located in present-day Al-Jish or Jish.
 
@@ -49,11 +49,11 @@ Numerous caves and passages have been found to the northwest of the synagogue, f
 > A careful search determined the existence in Jeish of tunnels, some of them very long, and caves, some of them very large.
 > &nbsp; &nbsp; [Milim Cultural](http://www.milimcultural.com.ar)
 
-In the novel Jesus of Nazareth[^1] the Master visits Gischala for the first time in the company of Peter and Andrew, and his preaching is not very well received in the city. This is something that is not mentioned as such in _The Urantia Book_ ([UB 146:4.6](/en/The_Urantia_Book/146#p4_6)), but it is a logical deduction from the fact that it is mentioned that Jesus and his apostles only stayed two days in Gischala when in other towns they stayed a week or more, and that in general in these towns of northern Galilee the Master's message was not very well received.
+In the novel Jesus of Nazareth[^1] the Master visits Gischala for the first time in the company of Peter and Andrew, and his preaching is not very well received in the city. This is something that is not mentioned as such in _The Urantia Book_ (<a id="a51_245"></a>[UB 146:4.6](/en/The_Urantia_Book/146#p4_6)), but it is a logical deduction from the fact that it is mentioned that Jesus and his apostles only stayed two days in Gischala when in other towns they stayed a week or more, and that in general in these towns of northern Galilee the Master's message was not very well received.
 
 It was a town well known some time after Jesus because one of the Jewish leaders of the revolt against Rome, John of Gischala, was from there. Jesus undoubtedly knew his father, a certain Levi according to Josephus. Perhaps he was, according to the novel Jesus of Nazareth, one of those who did not believe in Jesus from this town. However, this character does not appear in the novel. I am not fond of forcing history when telling historical novels to bring up certain characters just because we know they existed.
 
-One last curiosity to mention is that Dismas, the "good thief" who was crucified with Jesus, is shown in the novel[^1] as a native of Giscala. This fact is not taken from _The Urantia Book_ and represents my own invention. At least one inhabitant of Giscala did believe in Jesus, and he was the only person on Earth who received a direct promise from Jesus that he would one day reach Paradise ([UB 187:4.1](/en/The_Urantia_Book/187#p4_1)).
+One last curiosity to mention is that Dismas, the "good thief" who was crucified with Jesus, is shown in the novel[^1] as a native of Giscala. This fact is not taken from _The Urantia Book_ and represents my own invention. At least one inhabitant of Giscala did believe in Jesus, and he was the only person on Earth who received a direct promise from Jesus that he would one day reach Paradise (<a id="a55_395"></a>[UB 187:4.1](/en/The_Urantia_Book/187#p4_1)).
 
 ## References
 

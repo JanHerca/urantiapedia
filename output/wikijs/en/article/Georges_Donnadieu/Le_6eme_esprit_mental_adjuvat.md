@@ -38,7 +38,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 Worship is the religious impulse which brings about worshipful satisfaction, always according to our own course of action, directed by (1) our intuition, associated with (2) our understanding, supported by (3) our courage, approved by (4) our knowledge, directed (5) in counsel, to arrive at a state of worship satisfying the needs of the intuition.
 
-Example #20 from “Morontia Mota” is: “Only a poet can discern poetry in mundane everyday life” (<a id="a39_96"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
+Example #20 from “Morontia Mota” is: “Only a poet can discern poetry in mundane everyday life” (<a id="a40_96"></a>[UB 48:7.22](/en/The_Urantia_Book/48#p7_22))
 
 I will illustrate this aphorism with two poems of worship from two 19th century poets, born on two continents bordering the Atlantic. Both poems are addressed to the Creator of our local universe of Nebadon and to the celestial hosts, even in our local system and on our planet Urantia.
 

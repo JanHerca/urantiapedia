@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Other books on spiritual growth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
@@ -40,7 +64,7 @@ We are also back with the “Urantian talks.” We will begin with the very inte
 
 Texts, words, reflections... that can help us see the world with a higher perspective, with a deeper meaning, as Jesus did with his parables. Let's look at this well-known but inspiring story that Jesus told about a good man:
 
-> ““There was a good man who was a householder, and he planted a vineyard. He set a hedge about it, dug a pit for the wine press, and built a watchtower for the guards. Then he let this vineyard out to tenants while he went on a long journey into another country. And when the season of the fruits drew near, he sent servants to the tenants to receive his rental. But they took counsel among themselves and refused to give these servants the fruits due their master; instead, they fell upon his servants, beating one, stoning another, and sending the others away empty-handed. And when the householder heard about all this, he sent other and more trusted servants to deal with these wicked tenants, and these they wounded and also treated shamefully. And then the householder sent his favorite servant, his steward, and him they killed. And still, in patience and with forbearance, he dispatched many other servants, but none would they receive. Some they beat, others they killed, and when the householder had been so dealt with, he decided to send his son to deal with these ungrateful tenants, saying to himself, ‘They may mistreat my servants, but they will surely show respect for my beloved son.’ But when these unrepentant and wicked tenants saw the son, they reasoned among themselves: ‘This is the heir; come, let us kill him and then the inheritance will be ours.’ So they laid hold on him, and after casting him out of the vineyard, they killed him. When the lord of that vineyard shall hear how they have rejected and killed his son, what will he do to those ungrateful and wicked tenants?”” ([UB 173:4.2](/en/The_Urantia_Book/173#p4_2))
+> ““There was a good man who was a householder, and he planted a vineyard. He set a hedge about it, dug a pit for the wine press, and built a watchtower for the guards. Then he let this vineyard out to tenants while he went on a long journey into another country. And when the season of the fruits drew near, he sent servants to the tenants to receive his rental. But they took counsel among themselves and refused to give these servants the fruits due their master; instead, they fell upon his servants, beating one, stoning another, and sending the others away empty-handed. And when the householder heard about all this, he sent other and more trusted servants to deal with these wicked tenants, and these they wounded and also treated shamefully. And then the householder sent his favorite servant, his steward, and him they killed. And still, in patience and with forbearance, he dispatched many other servants, but none would they receive. Some they beat, others they killed, and when the householder had been so dealt with, he decided to send his son to deal with these ungrateful tenants, saying to himself, ‘They may mistreat my servants, but they will surely show respect for my beloved son.’ But when these unrepentant and wicked tenants saw the son, they reasoned among themselves: ‘This is the heir; come, let us kill him and then the inheritance will be ours.’ So they laid hold on him, and after casting him out of the vineyard, they killed him. When the lord of that vineyard shall hear how they have rejected and killed his son, what will he do to those ungrateful and wicked tenants?”” (<a id="a66_1605"></a>[UB 173:4.2](/en/The_Urantia_Book/173#p4_2))
 
 When those unruly and wicked tenants saw the son, they said to each other, ‘This is the heir. Come on, let us kill him and the inheritance will be ours. ’ So they seized him, threw him out of the vineyard, and killed him. When the owner of this vineyard hears about how they have rejected and killed his son, what will he do with those wicked and ungrateful tenants?
 
@@ -100,7 +124,7 @@ Frankl incorporated what he had learned in the _Lager_ into his work as a psychi
 In turn, Frankl would have agreed with the statements we read in the book about the inevitabilities of life on Earth. Let's refresh that text by remembering some of them:
 <br style="clear:both;"/>
 
-> The uncertainties of life and the vicissitudes of existence do not in any manner contradict the concept of the universal sovereignty of God. All evolutionary creature life is beset by certain *inevitabilities.* Consider the following: ([UB 3:5.5](/en/The_Urantia_Book/3#p5_5))
+> The uncertainties of life and the vicissitudes of existence do not in any manner contradict the concept of the universal sovereignty of God. All evolutionary creature life is beset by certain *inevitabilities.* Consider the following: (<a id="a126_238"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5))
 
 Consider the following:
 
@@ -120,13 +144,13 @@ The human being who knows the _why_ of his existence will be able to bear almost
 
 Jesus dies on the cross, and he does so with the serenity and unprecedented love of a life consecrated to an immense project, which encompasses infinite eras and eternal universes.
 
-> The great thing about the death of Jesus, as it is related to the enrichment of human experience and the enlargement of the way of salvation, is not the *fact* of his death but rather the superb manner and the matchless spirit in which he met death. ([UB 188:4.12](/en/The_Urantia_Book/188#p4_12))
+> The great thing about the death of Jesus, as it is related to the enrichment of human experience and the enlargement of the way of salvation, is not the *fact* of his death but rather the superb manner and the matchless spirit in which he met death. (<a id="a146_253"></a>[UB 188:4.12](/en/The_Urantia_Book/188#p4_12))
 
-> The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation. Jesus is truly a savior in the sense that his life and death do win men over to goodness and righteous survival. Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. Jesus’ death on the cross exemplifies a love which is sufficiently strong and divine to forgive sin and swallow up all evil-doing. Jesus disclosed to this world a higher quality of righteousness than justice—mere technical right and wrong. Divine love does not merely forgive wrongs; it absorbs and actually destroys them. The forgiveness of love utterly transcends the forgiveness of mercy. Mercy sets the guilt of evil-doing to one side; but love destroys forever the sin and all weakness resulting therefrom. Jesus brought a new method of living to Urantia. He taught us not to resist evil but to find through him a goodness which effectually destroys evil. The forgiveness of Jesus is not condonation; it is salvation from condemnation. Salvation does not slight wrongs; it *makes them right.* True love does not compromise nor condone hate; it destroys it. The love of Jesus is never satisfied with mere forgiveness. The Master’s love implies rehabilitation, eternal survival. It is altogether proper to speak of salvation as redemption if you mean this eternal rehabilitation. ([UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
+> The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation. Jesus is truly a savior in the sense that his life and death do win men over to goodness and righteous survival. Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. Jesus’ death on the cross exemplifies a love which is sufficiently strong and divine to forgive sin and swallow up all evil-doing. Jesus disclosed to this world a higher quality of righteousness than justice—mere technical right and wrong. Divine love does not merely forgive wrongs; it absorbs and actually destroys them. The forgiveness of love utterly transcends the forgiveness of mercy. Mercy sets the guilt of evil-doing to one side; but love destroys forever the sin and all weakness resulting therefrom. Jesus brought a new method of living to Urantia. He taught us not to resist evil but to find through him a goodness which effectually destroys evil. The forgiveness of Jesus is not condonation; it is salvation from condemnation. Salvation does not slight wrongs; it *makes them right.* True love does not compromise nor condone hate; it destroys it. The love of Jesus is never satisfied with mere forgiveness. The Master’s love implies rehabilitation, eternal survival. It is altogether proper to speak of salvation as redemption if you mean this eternal rehabilitation. (<a id="a148_1484"></a>[UB 188:5.2](/en/The_Urantia_Book/188#p5_2))
 
 How magnificent was Jesus' attitude towards life, what a surprising meaning his death had! May we be able to cultivate our minds, to make our vineyard grow, to find the cornerstone on which to build a life full of meaning, just as our Master lived it in an admirable way. Let's do it, one more day. Let's be those intelligent and good farmers, capable of transforming the world, of improving the “vineyard”, of doing so by collaborating with our good “master.”
 
-> “No more should you fear that God will punish a nation for the sin of an individual; neither will the Father in heaven punish one of his believing children for the sins of a nation, albeit the individual member of any family must often suffer the material consequences of family mistakes and group transgressions. Do you not realize that the hope of a better nation—or a better world—is bound up in the progress and enlightenment of the individual?” ([UB 145:2.8](/en/The_Urantia_Book/145#p2_8))
+> “No more should you fear that God will punish a nation for the sin of an individual; neither will the Father in heaven punish one of his believing children for the sins of a nation, albeit the individual member of any family must often suffer the material consequences of family mistakes and group transgressions. Do you not realize that the hope of a better nation—or a better world—is bound up in the progress and enlightenment of the individual?” (<a id="a152_453"></a>[UB 145:2.8](/en/The_Urantia_Book/145#p2_8))
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
@@ -143,3 +167,28 @@ How magnificent was Jesus' attitude towards life, what a surprising meaning his 
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — September 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-september-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — September 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Other books on spiritual growth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

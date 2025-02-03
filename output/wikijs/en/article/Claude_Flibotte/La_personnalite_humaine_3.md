@@ -40,11 +40,11 @@ Claude Flibotte
 
 Many discussions on UBIS revolve around the correct understanding of personality. I would like to share with you my very personal vision of the subject!
 
-> “Human personality is the time-space image-shadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance.” (<a id="a41_242"></a>[UB 1:6.1](/en/The_Urantia_Book/1#p6_1))
+> “Human personality is the time-space image-shadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance.” (<a id="a42_242"></a>[UB 1:6.1](/en/The_Urantia_Book/1#p6_1))
 
 This perhaps explains why it is so difficult for us to get a clear idea of what personality is. If, to begin with, we were to ask ourselves what specifically characterizes personality and what is its function?
 
-> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” (<a id="a45_377"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
+> “Personality is a level of deified reality and ranges from the mortal and midwayer level of the higher mind activation of worship and wisdom up through the morontial and spiritual to the attainment of finality of personality status. That is the evolutionary ascent of mortal- and kindred-creature personality, but there are numerous other orders of universe personalities.” (<a id="a46_377"></a>[UB 0:5.1](/en/The_Urantia_Book/0#p5_1))
 
 Thus, in the image of the infinite Father who reestablishes the unification of the Deity by the Trinity of Paradise following the trinitization of the Eternal Son and the Infinite Spirit, the human personality, gift of the Father, creates the unification of the numerous constituents of human individuality (physical, hereditary, mental and behavioral). To understand this phenomenon a little more, let us observe what is happening in the animal kingdom.
 
@@ -52,7 +52,7 @@ We all agree that animals do not have a personality. Let's take an animal that i
 
 Now, how does this happen to the human being? The revelators tell us that the human personality is given to us before the arrival of the Thought Adjuster.
 
-> “Personality is a unique endowment of original nature whose existence is independent of, and antecedent to, the bestowal of the Thought Adjuster. Nevertheless, the presence of the Adjuster does augment the qualitative manifestation of personality. Thought Adjusters, when they come forth from the Father, are identical in nature, but personality is diverse, original, and exclusive; and the manifestation of personality is further conditioned and qualified by the nature and qualities of the associated energies of a material, mindal, and spiritual nature which constitute the organismal vehicle for personality manifestation.” (<a id="a53_631"></a>[UB 16:8.3](/en/The_Urantia_Book/16#p8_3))
+> “Personality is a unique endowment of original nature whose existence is independent of, and antecedent to, the bestowal of the Thought Adjuster. Nevertheless, the presence of the Adjuster does augment the qualitative manifestation of personality. Thought Adjusters, when they come forth from the Father, are identical in nature, but personality is diverse, original, and exclusive; and the manifestation of personality is further conditioned and qualified by the nature and qualities of the associated energies of a material, mindal, and spiritual nature which constitute the organismal vehicle for personality manifestation.” (<a id="a54_631"></a>[UB 16:8.3](/en/The_Urantia_Book/16#p8_3))
 
 The revealers also describe our personality type as follows:
 
@@ -60,7 +60,7 @@ The revealers also describe our personality type as follows:
 > 
 > _1. The mathematical or logical recognition of the uniformity of physical causation._
 > _2. The reasoned recognition of the obligation of moral conduct._
-> _3. The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity._ (<a id="a61_108"></a>[UB 16:8.15-18](/en/The_Urantia_Book/16#p8_15))
+> _3. The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity._ (<a id="a62_108"></a>[UB 16:8.15-18](/en/The_Urantia_Book/16#p8_15))
 
 I asked myself, since the Father gives me the personality and the Thought Adjuster, why doesn't He do it at the same time? After much thought, I came to the conclusion that it was absolutely necessary for me to know myself well enough and to unify the different components of my individuality through my personality to allow the Adjuster to come and inhabit my mind. In other words, the personality allows me not only to be conscious, as Fido is, but to be conscious that I am conscious. This addition of consciousness gives me the ability to know myself, to recognize other personalities, to choose morally the good, to become creative, to know my Creator and to seek to become like Him.
 
@@ -78,7 +78,7 @@ I asked myself, since the Father gives me the personality and the Thought Adjust
 > 4. Coopération intentionnelle, la loyauté de groupe.
 > 5. Perspicacité cosmique, la compréhension des significations universelles.
 > 6. Consécration de la personnalité, la dévotion à faire de tout cœur la volonté du Père.
-> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. [UB 16:8.5-14](/en/The_Urantia_Book/16#p8_5)
+> 7. L'adoration, quand on poursuit sincèrement les valeurs divines et que l'on aime de tout son cœur le divin Donateur des Valeurs. <a id="a80_133"></a>[UB 16:8.5-14](/en/The_Urantia_Book/16#p8_5)
 
 Through this additional information, we realize that self-consciousness also called the ego is linked to the mind and to the qualitative addition of the personality.
 

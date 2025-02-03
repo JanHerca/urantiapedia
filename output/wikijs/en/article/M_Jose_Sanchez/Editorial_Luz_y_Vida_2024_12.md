@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2025 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## NEW YEAR
 
@@ -22,7 +46,7 @@ Those of us who read and want to put _The Urantia Book_ into practice know that 
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
 </figure>
 
-Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. [UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
+Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. <a id="a48_419"></a>[UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
 
 This earthly experience of our beloved Master, that attitude with which he breathed and moved, invites us to reach a wonderful balance in our lives: neither becoming insensitive stoics hardened by pain, nor deluded and blind optimists.
 
@@ -64,7 +88,7 @@ The Master has ascended on high as man as well as God; he belongs to men and men
 
 We can follow the Master, now, in the 21st century, each one in his or her own specific life.
 
-“Following Jesus” means personally sharing his religious faith and entering into the spirit of the Master's life consecrated to the selfless service of men. [UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+“Following Jesus” means personally sharing his religious faith and entering into the spirit of the Master's life consecrated to the selfless service of men. <a id="a90_157"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -161,3 +185,28 @@ This is our gift.
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/12/30/editorial-enero-2025/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — January 2025 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

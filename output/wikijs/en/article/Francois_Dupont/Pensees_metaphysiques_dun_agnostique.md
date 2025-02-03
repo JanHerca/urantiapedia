@@ -52,7 +52,7 @@ have led to astonishing discoveries, revealing at the same time an unknown dimen
 
 Another strange observation is that this French Minister of Culture (1959-1969) clearly predicted the decline of materialism and institutional and dogmatic religions from the 21st century. And this, however, not without having foreseen a regrettable transition according to him, that is to say the rise of backward religious fundamentalisms.
 
-Let us correlate this with this statement from <a id="a53_47"></a>[UB 195:9.3](/en/The_Urantia_Book/195#p9_3): “_Urantia is now quivering on the very brink of one of its most astounding and exciting epochs of social adjustment, moral stimulation, and spiritual enlightenment._”
+Let us correlate this with this statement from <a id="a54_47"></a>[UB 195:9.3](/en/The_Urantia_Book/195#p9_3): “_Urantia is now quivering on the very brink of one of its most astounding and exciting epochs of social adjustment, moral stimulation, and spiritual enlightenment._”
 
 The two particularities of the mental life of this illustrious man prompted us to delve more deeply into his ideas on the Beyond.
 

@@ -273,9 +273,9 @@ The assembly appoints Gilles Mauroy as substitute.
 
 No further discussion is on the agenda. The meeting ends at 11:30 a.m.
 
-> WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something. (<a id="a274_170"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something. (<a id="a275_170"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
-> The entire scheme of universal creation and evolution on all experiencing levels is apparently a matter of the conversion of potentialities into actualities; and this transmutation has to do equally with the realms of space potency, mind potency, and spirit potency. (<a id="a276_270"></a>[UB 115:2.3](/en/The_Urantia_Book/115#p2_3))
+> The entire scheme of universal creation and evolution on all experiencing levels is apparently a matter of the conversion of potentialities into actualities; and this transmutation has to do equally with the realms of space potency, mind potency, and spirit potency. (<a id="a277_270"></a>[UB 115:2.3](/en/The_Urantia_Book/115#p2_3))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/005.jpg">

@@ -60,11 +60,11 @@ Another example given by Steven Lewis: our name does not indicate our different 
 
 The Urantia Book often recalls the principle of reasoning by levels. The word level in the singular or levels in the plural is used more than 800 times in the book. We will only cite three here.
 
-> _Deity functions on personal, prepersonal, and superpersonal levels. Total Deity is functional on the following seven levels:_ (<a id="a61_130"></a>[UB 0:1.3](/en/The_Urantia_Book/0#p1_3))
+> _Deity functions on personal, prepersonal, and superpersonal levels. Total Deity is functional on the following seven levels:_ (<a id="a62_130"></a>[UB 0:1.3](/en/The_Urantia_Book/0#p1_3))
 
-> _Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:_ (<a id="a63_229"></a>[UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
+> _Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:_ (<a id="a64_229"></a>[UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
 
-> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ (<a id="a65_388"></a>[UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
+> _GOD is a word symbol designating all personalizations of Deity. The term requires a different definition on each personal level of Deity function and must be still further redefined within each of these levels, as this term may be used to designate the diverse co-ordinate and subordinate personalizations of Deity; for example: the Paradise Creator Sons—the local universe fathers._ (<a id="a66_388"></a>[UB 0:2.6](/en/The_Urantia_Book/0#p2_6))
 
 It would take a serious study of Korzybski's “Mental and Psychic Health” (1933) to realize that the evolution of mentalities, at least among 20th century researchers, was a sine qua non condition for the publication of the book. This perhaps also partly explains why we had to wait until this time to have a revelation advocated for several centuries by our invisible friends.
 

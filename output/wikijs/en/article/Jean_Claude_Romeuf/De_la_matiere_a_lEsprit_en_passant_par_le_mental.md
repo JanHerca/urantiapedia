@@ -103,7 +103,7 @@ But man is both a personal and collective being. The influence of the Spirit on 
 
 **<ins>4. Talking about Love</ins>**
 
-During the embryonic period which lasts from a few days to a few months, every individual, whether animal or human, goes through the evolutionary cycle of millions of years which has given the characteristics of its species. The embryonic layers develop and become more and more specialized by cellular multiplication. The Urantia Book tells us <a id="a104_345"></a>[UB 55:6.4](/en/The_Urantia_Book/55#p6_4) that during intra-uterine life, the adjutant mental spirits are operative.
+During the embryonic period which lasts from a few days to a few months, every individual, whether animal or human, goes through the evolutionary cycle of millions of years which has given the characteristics of its species. The embryonic layers develop and become more and more specialized by cellular multiplication. The Urantia Book tells us <a id="a105_345"></a>[UB 55:6.4](/en/The_Urantia_Book/55#p6_4) that during intra-uterine life, the adjutant mental spirits are operative.
 
 The human baby arriving in the world with the most developed brain in the animal kingdom, we can think that already, the first five adjutants have begun to shape his mind so that he becomes sensitive, during his childhood, to the spirits of worship and wisdom characterizing the material mind of the human being. This makes the young man a volitional being, capable of moral choices and able to learn to discover the God who now inhabits him.
 

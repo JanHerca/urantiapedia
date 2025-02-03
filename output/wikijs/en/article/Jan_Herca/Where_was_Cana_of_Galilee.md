@@ -126,7 +126,7 @@ But does this mean that we have discovered the house in question? These vessels,
 
 ## What does _The Urantia Book_ say?
 
-The Urantia Book makes several mentions of Cana, but none of them provide a clear indication of the location of the site. We can only note that Jesus travels from Capernaum to Cana with part of his family in a single day. However, this does not tell us much. Virtually all of the sites were within a day's drive of Capernaum, although the one that is especially close is Khirbet Kana (see <a id="a112_416"></a>[UB 137:3](/en/The_Urantia_Book/137#p3_1)).
+The Urantia Book makes several mentions of Cana, but none of them provide a clear indication of the location of the site. We can only note that Jesus travels from Capernaum to Cana with part of his family in a single day. However, this does not tell us much. Virtually all of the sites were within a day's drive of Capernaum, although the one that is especially close is Khirbet Kana (see <a id="a128_389"></a>[UB 137:3](/en/The_Urantia_Book/137#p3_1)).
 
 So which one should you choose?
 

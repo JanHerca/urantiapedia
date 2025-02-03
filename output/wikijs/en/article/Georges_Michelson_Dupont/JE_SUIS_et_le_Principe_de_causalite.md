@@ -51,7 +51,7 @@ Thus, we move from the level of Infinity to the absolute level then the ultimate
 
 ## The Principle of CAUSALITY
 
-> “Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:” (<a id="a52_229"></a>[ [UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
+> “Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. God, the Universal Father, functions on three Deity-personality levels of subinfinite value and relative divinity expression:” (<a id="a53_229"></a>[ [UB 0:2.2](/en/The_Urantia_Book/0#p2_2))
 
 > “Causality is the relationship that is established between a cause and its effect, the link that unites them. The cause is what produces something, what is at its origin. The effect is what is the consequence.”
 
@@ -63,7 +63,7 @@ Descartes based his metaphysics on a first principle, namely God. He affirmed th
 
 In addition to the definition of the First Cause, the _Urantia Book_ introduces the idea of several first causes and secondary causes, which are defined as follows:
 
-> “The vital distinction between first causes and second causes is that first causes produce original effects which are free from inheritance of any factor derived from any antecedent causation. Secondary causes yield effects which invariably exhibit inheritance from other and preceding causation.” (<a id="a64_301"></a>[[UB 118:4.2](/en/The_Urantia_Book/118#p4_2))
+> “The vital distinction between first causes and second causes is that first causes produce original effects which are free from inheritance of any factor derived from any antecedent causation. Secondary causes yield effects which invariably exhibit inheritance from other and preceding causation.” (<a id="a65_301"></a>[[UB 118:4.2](/en/The_Urantia_Book/118#p4_2))
 
 This statement “a host of first causes” challenges philosophical reason and scientific logic and seems to contradict what the Divine Counselor affirms “_the recognition of a First Cause, the one and only reality without cause._”
 
@@ -104,13 +104,13 @@ By separating the deified from the non-deified, the potential from the actual an
 
 Let us see how the principle of causality works from the level of the Absolutes to the level of finite beings, that is to say how the universes and their inhabitants are created.
 
-For this let us review the nature and attributes of the Absolute of Deity, the Unqualified Absolute and the Universal Absolute because it is they who contain the potentials of causalities and actualizable capacities of the I AM and it is on them that the Trinity of Paradise in the form of the Trinity of Ultimacy on the absonite level and the Trinity of Supremacy on the finite levels activate them. <a id="a105_401"></a>[[UB 106:8.9](/en/The_Urantia_Book/106#p8_9)] This is the reason why the revelation of actualized reality must always be partial and less than its potentiality because the Absolutes are limitless, eternal and infinite, nothing can exhaust them.
+For this let us review the nature and attributes of the Absolute of Deity, the Unqualified Absolute and the Universal Absolute because it is they who contain the potentials of causalities and actualizable capacities of the I AM and it is on them that the Trinity of Paradise in the form of the Trinity of Ultimacy on the absonite level and the Trinity of Supremacy on the finite levels activate them. <a id="a106_401"></a>[[UB 106:8.9](/en/The_Urantia_Book/106#p8_9)] This is the reason why the revelation of actualized reality must always be partial and less than its potentiality because the Absolutes are limitless, eternal and infinite, nothing can exhaust them.
 
 But, before continuing, let us recall that: “God is love”, his unique personal attitude towards the affairs of the universe is therefore always a reaction of divine affection. "It follows from this affirmation that acts, causes and effects are, ultimately, motivated by his love, the desire to do good; the resulting causality is imbued with it.
 
 ## The Absolutes of Potentiality
 
-> When the combined thought of the Universal Father and the Eternal Son, functioning in the God of Action, constituted the creation of the divine and central universe, the Father followed the expression of his thought into the word of his Son and the act of their Conjoint Executive by differentiating his Havona presence from the potentials of infinity. And these undisclosed infinity potentials remain space concealed in the Unqualified Absolute and divinely enshrouded in the Deity Absolute, while these two become one in the functioning of the Universal Absolute, the unrevealed infinity-unity of the Paradise Father. (<a id="a111_623"></a>[[UB 0:11.1](/en/The_Urantia_Book/0#p11_1))
+> When the combined thought of the Universal Father and the Eternal Son, functioning in the God of Action, constituted the creation of the divine and central universe, the Father followed the expression of his thought into the word of his Son and the act of their Conjoint Executive by differentiating his Havona presence from the potentials of infinity. And these undisclosed infinity potentials remain space concealed in the Unqualified Absolute and divinely enshrouded in the Deity Absolute, while these two become one in the functioning of the Universal Absolute, the unrevealed infinity-unity of the Paradise Father. (<a id="a112_623"></a>[[UB 0:11.1](/en/The_Urantia_Book/0#p11_1))
 
 The Absolutes of Potentiality are existential in actuality but experiential in manifestation.
 
@@ -123,14 +123,14 @@ The Absolutes of Potentiality are existential in actuality but experiential in m
 
 **The Unqualified Absolute.**
 
-1. The Unqualified Absolute is the potential revelation of I AM energy, the reservoir containing the unrevealed infinity of all non-deity, non-personal potentials that have been separated from the total I AM by the volition of the First Cause. It is devoid of personality, divinity and all creator prerogative. <a id="a124_311"></a>[[UB 0:11.7](/en/The_Urantia_Book/0#p11_7)]
-2. The Unqualified Absolute is static; therefore the power of space <a id="a125_68"></a>[[UB 11:7.4](/en/The_Urantia_Book/11#p7_4)] which it contains is not subject to the gravitational attraction of Paradise. <a id="a125_190"></a>[[UB 11:8.8](/en/The_Urantia_Book/11#p8_8)]
+1. The Unqualified Absolute is the potential revelation of I AM energy, the reservoir containing the unrevealed infinity of all non-deity, non-personal potentials that have been separated from the total I AM by the volition of the First Cause. It is devoid of personality, divinity and all creator prerogative. <a id="a125_311"></a>[[UB 0:11.7](/en/The_Urantia_Book/0#p11_7)]
+2. The Unqualified Absolute is static; therefore the power of space <a id="a126_68"></a>[[UB 11:7.4](/en/The_Urantia_Book/11#p7_4)] which it contains is not subject to the gravitational attraction of Paradise. <a id="a126_190"></a>[[UB 11:8.8](/en/The_Urantia_Book/11#p8_8)]
 3. It is responsive and awaiting: The emergent, finite, absonite and absolute causalities of the Deity Absolute trigger corresponding effects in the Unqualified Absolute which becomes responsive. It is thus conditioned by Deity.
 4. Space limits the function of the Unqualified, but the presence of the Unqualified is limitless, it is infinite. As the formation of the universes takes place, the power of space manipulated by the agents of the Infinite Spirit gives way to the gravity-sensitive energies of Paradise and the presence of the Unqualified Absolute withdraws accordingly.
 
 **The Universal Absolute.**
 
-> “The finite can coexist in the cosmos along with the Infinite only because the associative presence of the Universal Absolute so perfectly equalizes the tensions between time and eternity, finity and infinity, reality potential and reality actuality, Paradise and space, man and God. Associatively the Universal Absolute constitutes the identification of the zone of progressing evolutional reality existent in the time-space, and in the transcended time-space, universes of subinfinite Deity manifestation.” (<a id="a131_512"></a>[[UB 0:11.13](/en/The_Urantia_Book/0#p11_13))
+> “The finite can coexist in the cosmos along with the Infinite only because the associative presence of the Universal Absolute so perfectly equalizes the tensions between time and eternity, finity and infinity, reality potential and reality actuality, Paradise and space, man and God. Associatively the Universal Absolute constitutes the identification of the zone of progressing evolutional reality existent in the time-space, and in the transcended time-space, universes of subinfinite Deity manifestation.” (<a id="a132_512"></a>[[UB 0:11.13](/en/The_Urantia_Book/0#p11_13))
 
 1. The Universal Absolute is the unifier of the deified and the non-deified; the correlator of the absolute and the relative.
 2. The Universal Absolute is the mechanism that coordinates, unifies and compensates the tension between the existential and the experiential.

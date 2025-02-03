@@ -96,7 +96,7 @@ Let us recall here that the AFLUB is an apolitical and non-denominational associ
 - Relate an event related to the _Urantia Book_.
 - Be a poetry or artistic work of Urantian inspiration.
 
-Concerning references taken from the _Urantia Book_ they must follow the internationally accepted rule: Booklet: Section. Paragraph framed by opening and closing parentheses ex: (<a id="a97_179"></a>[UB 110:3.5](/en/The_Urantia_Book/110#p3_5)) with two points after the number of the booklet, one point after the number of the section. Studies, articles or works relating to works or themes unrelated to the _Urantia Book_ will not be accepted. However, in the context of a comparative study with ideas or concepts from the _Urantia Book_ (For example a comparative study of the nature of God described in the Bible and in the _Urantia Book_) they will be accepted as long as they remain strictly within this framework.
+Concerning references taken from the _Urantia Book_ they must follow the internationally accepted rule: Booklet: Section. Paragraph framed by opening and closing parentheses ex: (<a id="a98_179"></a>[UB 110:3.5](/en/The_Urantia_Book/110#p3_5)) with two points after the number of the booklet, one point after the number of the section. Studies, articles or works relating to works or themes unrelated to the _Urantia Book_ will not be accepted. However, in the context of a comparative study with ideas or concepts from the _Urantia Book_ (For example a comparative study of the nature of God described in the Bible and in the _Urantia Book_) they will be accepted as long as they remain strictly within this framework.
 
 ## The style:
 

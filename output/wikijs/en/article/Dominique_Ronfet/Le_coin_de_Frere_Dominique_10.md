@@ -35,7 +35,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 — What is **humility**?
 — Maybe a technique...
-— What do you mean by that? Our Master “recommended men to humble themselves only to enable them to be truly great; the goal he really aimed for was true humility towards God.” (<a id="a36_178"></a>[UB 140:8.20](/en/The_Urantia_Book/140#p8_20)).
+— What do you mean by that? Our Master “recommended men to humble themselves only to enable them to be truly great; the goal he really aimed for was true humility towards God.” (<a id="a37_178"></a>[UB 140:8.20](/en/The_Urantia_Book/140#p8_20)).
 
 — Yes, now we must understand it. Why “to be great” must we “humble ourselves” if not to allow our real Personality to take precedence over the idea that we have of ourselves, and that we project with so much pride: our **individuality**.
 — How you go. Am I not of an absolute nature?

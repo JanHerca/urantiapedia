@@ -196,7 +196,7 @@ We will not do this test of the last sleep of time alone, we will be accompanied
 
 > Et maintenant, à l'apogée de la carrière havonienne, au moment où vous autres, mortels, vous vous endormez sur le monde-pilote du circuit intérieur, vous n'allez pas vous reposer seuls comme vous faisiez sur les mondes de votre origine lorsque vous fermiez les yeux dans le sommeil naturel de la mort, ni comme en entrant dans la longue catalepsie de transit préparatoire à votre voyage vers Havona. Maintenant, tandis que vous vous préparez au repos d'aboutissement, votre associé de longue date du premier circuit vient se placer à vos côtés ; il est le majestueux complément de repos qui se prépare à entrer dans le repos en union avec vous ; c'est la garantie de Havona que votre transition est complète et que vous n'attendez plus que les touches finales de la perfection.
 > 
-> Votre première transition était en vérité la mort, la deuxième un sommeil idéal et, maintenant, la troisième métamorphose est le vrai repos, la détente des âges. [UB 26:11.7-8](/en/The_Urantia_Book/26#p11_8)
+> Votre première transition était en vérité la mort, la deuxième un sommeil idéal et, maintenant, la troisième métamorphose est le vrai repos, la détente des âges. <a id="a198_164"></a>[UB 26:11.7-8](/en/The_Urantia_Book/26#p11_8)
 
 **4- The terminal rest of time.**
 
@@ -229,7 +229,7 @@ From a simple animal nature fused with the highest divine nature of the First So
 
 > What an adventure! What a romance! A gigantic creation to be administered by the children of the Supreme, these personalized and humanized Adjusters, these Adjusterized and eternalized mortals, these mysterious combinations and eternal associations of the highest known manifestation of the essence of the First Source and Center and the lowest form of intelligent life capable of comprehending and attaining the Universal Father. We conceive that such amalgamated beings, such partnerships of Creator and creature, will become superb rulers, matchless administrators, and understanding and sympathetic directors of any and all forms of intelligent life which may come into existence throughout these future universes of the first outer space level.
 >
-> True it is, you mortals are of earthly, animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters—children of the Supreme God of experience and divine sons of the Paradise Father of all personalities.” [UB 112:7.18-19](/en/The_Urantia_Book/112#p7_19)
+> True it is, you mortals are of earthly, animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters—children of the Supreme God of experience and divine sons of the Paradise Father of all personalities.” <a id="a231_355"></a>[UB 112:7.18-19](/en/The_Urantia_Book/112#p7_19)
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_11/019.jpg">
@@ -245,7 +245,7 @@ The Creators never leave us alone on this long journey towards perfection!
 >
 > Reception companions are assigned during the terminal days of the ascenders’ sojourn on the last circuit of Havona, and they carefully examine the records of mortal origin and eventful ascent through the worlds of space and the circles of Havona. When they greet the mortals of time, they are already well versed in the careers of these arriving pilgrims and immediately prove to be sympathetic and intriguing companions.
 >
-> During your prefinaliter sojourn on Paradise, if for any reason you should be temporarily separated from your associate of the ascending career—mortal or seraphic—a Paradise Companion would be forthwith assigned for counsel and companionship. When once assigned to an ascendant mortal of solitary residence on Paradise, the companion remains with this person until he either is rejoined by his ascendant associates or is duly mustered into the Corps of the Finality.” [UB 25:8.4-7](/en/The_Urantia_Book/25#p8_7)
+> During your prefinaliter sojourn on Paradise, if for any reason you should be temporarily separated from your associate of the ascending career—mortal or seraphic—a Paradise Companion would be forthwith assigned for counsel and companionship. When once assigned to an ascendant mortal of solitary residence on Paradise, the companion remains with this person until he either is rejoined by his ascendant associates or is duly mustered into the Corps of the Finality.” <a id="a247_470"></a>[UB 25:8.4-7](/en/The_Urantia_Book/25#p8_7)
 
 ### XVIII. The Body of the Finality.
 

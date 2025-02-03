@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01">
+          <span class="pr-2">Luz y Vida — Febrero 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Association of Spain Newsletter
 
@@ -37,7 +58,7 @@ In "Urantian" meetings and forums, it is common for readers to talk about how we
 
 In this very heterogeneous group of readers from all over the world, whom we could label as "spiritual seekers," there is a longing to discover the ultimate reality and to achieve that extraordinary mandate that resonates in the universes:
 
-«Be ye perfect, even as I am perfect.» [UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
+«Be ye perfect, even as I am perfect.» <a id="a60_39"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
 
 Not all of us respond in the same way to this call that our divine Adjuster makes to us from within. In accordance with this, not all of us interpret and read _The Urantia Book_ in the same way.
 
@@ -169,7 +190,7 @@ The monk, smiling, replied that the scorpion's nature is to sting, while his nat
 In The Urantia Book I find true teachings for present and future life, to understand the reason for life; but one quote in particular manages to clarify in a simple way why I am here and tells me clearly how to do it.
 <br style="clear:both;"/>
 
-> Your brief sojourn on Urantia, on this sphere of mortal infancy, is but a link, the very first, in the long chain which is to extend throughout the universes and on through the eternal ages. It is not so much what is learned in this first life that is important, but the experience of living it. Even the work on this world, though primary, is not nearly as important as the manner of doing it. There is no material reward for right living, but there is a deep satisfaction—a consciousness of achievement—which transcends all conceivable material rewards. [UB 39:4.13](/en/The_Urantia_Book/39#p4_13)
+> Your brief sojourn on Urantia, on this sphere of mortal infancy, is but a link, the very first, in the long chain which is to extend throughout the universes and on through the eternal ages. It is not so much what is learned in this first life that is important, but the experience of living it. Even the work on this world, though primary, is not nearly as important as the manner of doing it. There is no material reward for right living, but there is a deep satisfaction—a consciousness of achievement—which transcends all conceivable material rewards. <a id="a192_558"></a>[UB 39:4.13](/en/The_Urantia_Book/39#p4_13)
 
 Quote 39:4.13 says that it is not so much what I learn, but the experience of living life, being conscious of the way I live it, that matters. I am hopeful in understanding that the divine plan does not require special knowledge for life, but rather consciousness of accomplishments in the way I live it.
 
@@ -246,3 +267,25 @@ All work and news from readers and study groups are welcome, so if you wish to s
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2024/)
 - [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01">
+          <span class="pr-2">Luz y Vida — Febrero 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

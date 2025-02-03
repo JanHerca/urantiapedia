@@ -123,7 +123,7 @@ The planetary government personnel in charge of the project _The Urantia Book_ a
 
 All these events show that there is a general plan and a precise organization put in place by our invisible friends and by the planetary government of the seraphim to evolve the spirituality of Urantia. More particularly and with regard to the French-speaking world, the demographic explosion in Africa is a major future challenge and we must prepare for it. The keys are certainly found in the “publication mandate” and the five points mentioned above are in place: it is up to us to participate to the best of our ability.
 
-> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a124_172"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+> “WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something.” (<a id="a125_172"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
 

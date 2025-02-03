@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Mariano Pérez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Questionnaire: Ana Eguren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Grupo-de-estudio-de-Madrid-2.jpg" alt="Grupo de Estudio de Madrid" width="250">
@@ -39,3 +60,25 @@ What we must be clear about is that the study group is extremely important, it i
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/03/30/el-grupo-de-estudio-de-madrid-cumple-20-anos/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Eguren">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Questionnaire: Ana Eguren</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-april-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — April 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

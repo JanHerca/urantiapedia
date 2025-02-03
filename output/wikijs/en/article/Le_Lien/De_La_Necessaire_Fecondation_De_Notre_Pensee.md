@@ -39,7 +39,7 @@ dateCreated: 2024-11-6T12:40:15Z
 > “There are three and not two factors in the evolutionary creation of such an immortal soul. These three antecedents of the morontia human soul are:”
 > “1. *The human mind* and all cosmic influences antecedent thereto and impinging thereon.”
 > “2. *The divine spirit* indwelling this human mind and all potentials inherent in such a fragment of absolute spirituality together with all associated spiritual influences and factors in human life.”
-> “3. *The relationship between material mind and divine spirit,* which connotes a value and carries a meaning not found in either of the contributing factors to such an association. The reality of this unique relationship is neither material nor spiritual but morontial. It is the soul.” (<a id="a40_290"></a>[UB 111:2.4-7](/en/The_Urantia_Book/111#p2_4))
+> “3. *The relationship between material mind and divine spirit,* which connotes a value and carries a meaning not found in either of the contributing factors to such an association. The reality of this unique relationship is neither material nor spiritual but morontial. It is the soul.” (<a id="a41_290"></a>[UB 111:2.4-7](/en/The_Urantia_Book/111#p2_4))
 
 To illustrate this idea that our inner development depends on a contribution greater than our mind and our relationship with it, I offer you this popular tale:
 

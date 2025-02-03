@@ -33,7 +33,7 @@ dateCreated: 2024-10-19T15:5:2Z
 
 
 
-> “_Next to the supreme satisfaction of worship is the exhilaration of philosophy. Never do you climb so high or advance so far that there do not remain a thousand mysteries which demand the employment of philosophy in an attempted solution._” (<a id="a34_245"></a>[UB 27:6.1](/en/The_Urantia_Book/27#p6_1))
+> “_Next to the supreme satisfaction of worship is the exhilaration of philosophy. Never do you climb so high or advance so far that there do not remain a thousand mysteries which demand the employment of philosophy in an attempted solution._” (<a id="a35_245"></a>[UB 27:6.1](/en/The_Urantia_Book/27#p6_1))
 
 - Your book contains strange passages.
 - Yes, the search for Truth seems to be an eternal quest.

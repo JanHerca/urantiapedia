@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="pr-2">Navigating through life: I explain myself to God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Hope
 
@@ -27,7 +51,7 @@ The media, social networks, constantly inflict problems on us, they lower our mo
 The answer is hope, that internal force, that spark that drives us to dream of a better future and to work to make it a reality. A force that our beloved Master bequeathed to us, in his words and in his works, and that his followers (then and now) want to continue:
 <br style="clear:both;"/>
 
-> They learned that, when religion is wholly spiritual in motive, it makes all life more worth while, filling it with high purposes, dignifying it with transcendent values, inspiring it with superb motives, all the while comforting the human soul with a sublime and sustaining hope. True religion is designed to lessen the strain of existence; it releases faith and courage for daily living and unselfish serving. Faith promotes spiritual vitality and righteous fruitfulness. ([UB 155:3.7](/en/The_Urantia_Book/155#p3_7))
+> They learned that, when religion is wholly spiritual in motive, it makes all life more worth while, filling it with high purposes, dignifying it with transcendent values, inspiring it with superb motives, all the while comforting the human soul with a sublime and sustaining hope. True religion is designed to lessen the strain of existence; it releases faith and courage for daily living and unselfish serving. Faith promotes spiritual vitality and righteous fruitfulness. (<a id="a53_477"></a>[UB 155:3.7](/en/The_Urantia_Book/155#p3_7))
 
 It is very significant that a philosopher of the stature of Byung-Chul Han has highlighted in his latest work the importance of hope in a world that often seems dominated by fatigue and hopelessness. In his vision, hope is not simply a superficial optimism or an expectation of personal success. It invites us to leave the “encapsulated self” to become part of a “we” that works together, guided by a shared horizon. It is, according to Han, an act of collective creation, a construction of meaning that allows us to imagine a more humane and equitable future, a better future for all.
 
@@ -40,7 +64,7 @@ This idea aligns with the words of Czech leader Václav Havel: “Hope is not op
 And hope is, in essence, a force that unites us to God's cosmic plan. “Mortal man can face the rigors of time and the tribulations of earthly existence with faith and confidence because he knows that he is a child of God and that his life in time is a preparation for eternity.” In the midst of the difficulties of everyday life, this faith in a transcendental purpose is the anchor that keeps us firm, knowing that, beyond temporary challenges, our life has a greater meaning.
 <br style="clear:both;"/>
 
-> “You are the light of the world. A city set upon a hill cannot be hid. Neither do men light a candle and put it under a bushel, but on a candlestick; and it gives light to all who are in the house. Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven. ([UB 140:3.13](/en/The_Urantia_Book/140#p3_13))
+> “You are the light of the world. A city set upon a hill cannot be hid. Neither do men light a candle and put it under a bushel, but on a candlestick; and it gives light to all who are in the house. Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven. (<a id="a66_322"></a>[UB 140:3.13](/en/The_Urantia_Book/140#p3_13))
 
 Mystic and author Anthony de Mello, whose teachings have deeply touched the hearts of thousands, offers us an even more intimate perspective on hope. In his book Awake, he tells us: “Life is what happens when you are not asleep. Wake up, open your eyes, and you will see a whole new world around you.” For de Mello, hope is not just something we long for in the future, but a state of awakening in the present. He invites us to look beyond our everyday concerns, to recognize the beauty and potential that already exists in our lives and in the world.
 
@@ -53,11 +77,11 @@ This intimate vision of hope as an awakening reminds us that it is not enough to
 Dear reader friends, in this month of November, as we face global and personal challenges, let us remember that hope is more than a passing emotion; it is a force that connects us with the divine, drives us to act and allows us to awaken to new possibilities. As Jesus of Nazareth himself tells us:
 <br style="clear:both;"/>
 
-> I am the hope of all who know the living truth. ([UB 182:1.23](/en/The_Urantia_Book/182#p1_23))
+> I am the hope of all who know the living truth. (<a id="a79_51"></a>[UB 182:1.23](/en/The_Urantia_Book/182#p1_23))
 
 Hope is the most powerful weapon we have, it has the power to change the world, but above all, to change ourselves, because it broadens our souls.
 
-> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. ([UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
+> 3. Is *hope—*the grandeur of trust—desirable? Then human existence must constantly be confronted with insecurities and recurrent uncertainties. (<a id="a83_147"></a>[UB 3:5.8](/en/The_Urantia_Book/3#p5_8))
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Editorial-nov-24-4.jpg" alt="Editorial nov 24-4" width="350">
@@ -75,7 +99,7 @@ A young French pilot had an accident in the Sahara desert (he and his flight com
 Our culture seems to have more and more difficulty appreciating what is alive and spontaneous; it is oriented toward the abstract, numerical, and rational. But when we reflect with _The Urantia Book_, when we delve deeper into reality, we find the fluidity of life, the deep interpenetration that permeates reality, and we realize our mistake in believing that the world is made of inert, separate, and fragmented things.
 <br style="clear:both;"/>
 
-> There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God. The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father. Such a conception of reality yields a broader insight into the purposeful unity of universe phenomena; it even reveals a spiritual goal of progressive personality achievement. And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships. ([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God. The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father. Such a conception of reality yields a broader insight into the purposeful unity of universe phenomena; it even reveals a spiritual goal of progressive personality achievement. And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships. (<a id="a101_791"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 As Niels Bohr already saw, quantum physics involves “a radical revision of our relationship with physical reality”, a surprisingly dynamic and indivisible vision of reality.
 
@@ -94,3 +118,28 @@ The editorial team of Light and Life
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/10/30/editorial-noviembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — November 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-november-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — November 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="pr-2">Navigating through life: I explain myself to God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

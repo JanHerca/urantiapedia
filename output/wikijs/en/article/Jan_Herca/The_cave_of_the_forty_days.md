@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Sometimes there are references in _The Urantia Book_ that are striking for their accuracy and concreteness. They seem to have been placed there so that someone would take the trouble to verify them, or perhaps with some hidden intention that I cannot yet understand. But when I began to write the chapter on Jesus' period of isolation after his baptism, the famous "forty days," I could not escape the temptation to inquire into Jesus' whereabouts during that period.
 
-> Throughout these eventful days Jesus lived in an ancient rock cavern, a shelter in the side of the hills near a village sometime called Beit Adis. He drank from the small spring which came from the side of the hill near this rock shelter. <a id="a14_269"></a>[[UB 136:4.14](/en/The_Urantia_Book/136#p4_14)]
+> Throughout these eventful days Jesus lived in an ancient rock cavern, a shelter in the side of the hills near a village sometime called Beit Adis. He drank from the small spring which came from the side of the hill near this rock shelter. <a id="a30_241"></a>[[UB 136:4.14](/en/The_Urantia_Book/136#p4_14)]
 
 This passage from _The Urantia Book_ was so striking that it seemed to be crying out for investigation.
 

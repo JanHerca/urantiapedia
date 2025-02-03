@@ -44,7 +44,7 @@ It is important to advance the potential in a positive way, giving the negative 
 
 All reflection must be motivated by a collective sense of values, there is nothing easy in the struggle for life, it is the failures of each individual, and the progress of which makes us progress, which reflect the guiding line on which we orient ourselves.
 
-> THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all. (<a id="a45_284"></a>[UB 100:0.1](/en/The_Urantia_Book/100#p0_1))
+> THE experience of dynamic religious living transforms the mediocre individual into a personality of idealistic power. Religion ministers to the progress of all through fostering the progress of each individual, and the progress of each is augmented through the achievement of all. (<a id="a46_284"></a>[UB 100:0.1](/en/The_Urantia_Book/100#p0_1))
 
 Contact between humans is sometimes difficult, so we must leave it to those who are most gifted to lead human nature towards a higher harmony.
 

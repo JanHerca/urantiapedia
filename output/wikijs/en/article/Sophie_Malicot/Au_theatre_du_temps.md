@@ -49,7 +49,7 @@ Time is simultaneously an everyday reality and a difficult concept to understand
 > “There are three different levels of time cognizance:”
 > 1. Mind-perceived time—consciousness of sequence, motion, and a sense of duration.
 > 2. Spirit-perceived time—insight into motion Godward and the awareness of the motion of ascent to levels of increasing divinity.
-> 3. Personality *creates* a unique time sense out of insight into Reality plus a consciousness of presence and an awareness of duration. (<a id="a50_139"></a>[UB 12:5.6-9](/en/The_Urantia_Book/12#p5_6))
+> 3. Personality *creates* a unique time sense out of insight into Reality plus a consciousness of presence and an awareness of duration. (<a id="a51_139"></a>[UB 12:5.6-9](/en/The_Urantia_Book/12#p5_6))
 
 **1. Time perceived by the mind** — awareness of sequence, movement and sense of duration.
 

@@ -272,7 +272,7 @@ As we dedicate ourselves to this undertaking it is instructive to first consider
 
 ### Jesus’ Kingdom Presently Exists Within the Christian Church 
 
-> Thus does the so-called Christian church become the cocoon in which the kingdom of Jesus’ concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development. <a id="a276_378"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold) 
+> Thus does the so-called Christian church become the cocoon in which the kingdom of Jesus’ concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development. <a id="a274_378"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold) 
 
 We may learn much from these words; they contain three important insights: First, the revelators make clear that Jesus’ brotherhood of the kingdom presently exists within the Christian church. Second, they reveal that this divine brotherhood is in a passive state, slumbering and submerged within Christianity. And third, they prophesy that this brotherhood will eventually awaken and come forth in a higher and more advanced form. 
 
@@ -280,13 +280,13 @@ We may learn much from these words; they contain three important insights: First
 
 This prophecy points to a special focus for our efforts. This slumbering brotherhood presently stands in need of awakening and spiritual rebirth. It is we who are called to provide a new revelation of Jesus that will awaken these sleeping Christians to higher levels of spiritual living. Bringing about the spiritual rebirth of Jesus’ brotherhood of the kingdom will be our first major step in the initiation of the spiritual renaissance. Here again is the revelators’ call: 
 
-> The **call** to the adventure of building a new and transformed human society by means of **_the spiritual rebirth of Jesus’ brotherhood of the kingdom_** should thrill all who believe in him .... <a id="a284_199"></a>[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)](my bold) 
+> The **call** to the adventure of building a new and transformed human society by means of **_the spiritual rebirth of Jesus’ brotherhood of the kingdom_** should thrill all who believe in him .... <a id="a282_199"></a>[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)](my bold) 
 
 ### Unified Christians Will Help Bring The New Revelation to the World 
 
 The Christian world is presently divided into many denominations, sects, and cults. The only hope of a unification of Christianity lies in a return to Jesus’ original gospel of the Fatherhood of God and the Brotherhood of man. This is also part of our work. By our exclusive focus on Jesus’ actual teachings we will supply the foundation for the unification of the various Christian churches. And as this revival of Jesus and his original gospel comes to Christianity, many believers will then join our efforts to bring this gospel to the world at large. According to _The Urantia Book_ this is the great hope of our world: 
 
-> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a290_256"></a>[[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] (my bold) 
+> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a288_256"></a>[[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] (my bold) 
 
 ### The Gospel Of The Kingdom
 
@@ -294,21 +294,21 @@ What is this “saving message” that would spiritually unite the various Chris
 
 The kingdom Jesus taught is the Father’s will dominant and transcendent in the heart of the believer. We enter the kingdom by faith in Jesus’ teaching that God is our Father, and then by choosing to do our Father’s will. Jesus showed us the way to life in the kingdom with his two great prayers, “your will be done,” and “Not my will but yours be done.” 
 
-In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “_Sonship with God by faith is still the saving truth of the gospel of the kingdom_.” <a id="a298_182"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
+In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “_Sonship with God by faith is still the saving truth of the gospel of the kingdom_.” <a id="a296_182"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
 
 ### The Success Of Our Mission 
 
 Will our efforts succeed? Consider these prophetic statements from the revelators that outline both the history and future evolution of the religion of Jesus on our planet: 
 
-> The teachings of Jesus, even though greatly modified, survived the mystery cults of their birth time, the ignorance and superstition of the dark ages, and are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. <a id="a304_262"></a>[[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] (my bold) 
+> The teachings of Jesus, even though greatly modified, survived the mystery cults of their birth time, the ignorance and superstition of the dark ages, and are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. <a id="a302_262"></a>[[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] (my bold) 
 > 
-> [The Christian] church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master’s teachings may enjoy a fuller opportunity for development. <a id="a306_252"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold)   
+> [The Christian] church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master’s teachings may enjoy a fuller opportunity for development. <a id="a304_252"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold)   
 
 The following quotes are two of my favorites. They foretell victory over the powerful forces of materialism and secularism, and a wonderful new spiritual age to follow: 
 
-> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. <a id="a310_173"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold) 
+> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. <a id="a308_173"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold) 
 > 
-> Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. <a id="a312_166"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold)  
+> Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. <a id="a310_166"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold)  
 
 ## Let Us Go Forward 
 

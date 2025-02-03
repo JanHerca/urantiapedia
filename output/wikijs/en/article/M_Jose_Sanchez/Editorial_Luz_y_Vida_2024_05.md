@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — June 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sebastian_Nozzi/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The hidden wisdom of God
 
@@ -67,13 +91,13 @@ But this wisdom forbidden to those who limit themselves only to the material sph
 
 1) Have a transcendent vision of life and existence
 
-Do you not know that the God of heaven has sent his spirit to live within you, and that this spirit will lead all truth-loving, God-serving mortals beyond this life and through the portals of death to the eternal heights of light where God waits to receive his children? [UB 133:4.4](/en/The_Urantia_Book/133#p4_4)
+Do you not know that the God of heaven has sent his spirit to live within you, and that this spirit will lead all truth-loving, God-serving mortals beyond this life and through the portals of death to the eternal heights of light where God waits to receive his children? <a id="a93_271"></a>[UB 133:4.4](/en/The_Urantia_Book/133#p4_4)
 
 2) Show a thirst for truth, seek it incessantly
 
-The love of adventure, curiosity, and horror of monotony, which are traits inherent in evolving human nature, were not put there merely to exasperate and irritate you during your short stay on earth, but rather to suggest to you that death is but the beginning of an endless race of adventure, of an everlasting life of expectation, of an eternal voyage of discovery. [UB 14:5.10](/en/The_Urantia_Book/14#p5_10)
+The love of adventure, curiosity, and horror of monotony, which are traits inherent in evolving human nature, were not put there merely to exasperate and irritate you during your short stay on earth, but rather to suggest to you that death is but the beginning of an endless race of adventure, of an everlasting life of expectation, of an eternal voyage of discovery. <a id="a97_368"></a>[UB 14:5.10](/en/The_Urantia_Book/14#p5_10)
 
-If my words remain in you and you are willing to do the will of my Father, you are truly my disciples. You will know the truth and the truth will set you free. [UB 162:7.2](/en/The_Urantia_Book/162#p7_2)
+If my words remain in you and you are willing to do the will of my Father, you are truly my disciples. You will know the truth and the truth will set you free. <a id="a99_160"></a>[UB 162:7.2](/en/The_Urantia_Book/162#p7_2)
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -82,9 +106,9 @@ If my words remain in you and you are willing to do the will of my Father, you a
 
 3) Humility, without egos or self-indulgence
 
-Jesus prayed like this while standing at the edge of the water: “Father, I thank you for these little ones who already believe despite their doubts. For them I have set myself apart to do your will. May they now learn to be one as we are one.” [UB 137:6.6](/en/The_Urantia_Book/137#p6_6)
+Jesus prayed like this while standing at the edge of the water: “Father, I thank you for these little ones who already believe despite their doubts. For them I have set myself apart to do your will. May they now learn to be one as we are one.” <a id="a108_244"></a>[UB 137:6.6](/en/The_Urantia_Book/137#p6_6)
 
-Truly, truly I say to you that if you do not change and become more like this child, you will make little progress in the kingdom of heaven. Everyone who humbles himself and becomes like this child will be the greatest in the kingdom of heaven. He who receives a child like this receives me, and he who receives me also receives Him who sent me. If you want to be the first in the kingdom, try to offer these good truths to your brothers in the flesh. [UB 158:8.1](/en/The_Urantia_Book/158#p8_1)
+Truly, truly I say to you that if you do not change and become more like this child, you will make little progress in the kingdom of heaven. Everyone who humbles himself and becomes like this child will be the greatest in the kingdom of heaven. He who receives a child like this receives me, and he who receives me also receives Him who sent me. If you want to be the first in the kingdom, try to offer these good truths to your brothers in the flesh. <a id="a110_452"></a>[UB 158:8.1](/en/The_Urantia_Book/158#p8_1)
 
 If we keep these three fundamental characteristics in mind, it can be said that there are not many people with these characteristics in our world. This is not about judging anyone or anything, it is just about describing the current human generation. Just look around us.
 
@@ -136,7 +160,7 @@ And so, we could go on to unravel more attitudes and behaviors extracted from th
 
 A Master of naturalness and humility, a Christ who acted like this:
 
-Most of the really important things Jesus said or did seemed to happen “in His wake” by chance. There was very little that was professional, planned, or premeditated about the Master's earthly ministry. He dispensed health and spread happiness with grace and ease as He traveled through life. It was literally true that He “went about doing good.” [UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
+Most of the really important things Jesus said or did seemed to happen “in His wake” by chance. There was very little that was professional, planned, or premeditated about the Master's earthly ministry. He dispensed health and spread happiness with grace and ease as He traveled through life. It was literally true that He “went about doing good.” <a id="a162_348"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Editorial-mayo-2024-5.jpg" alt="Editorial mayo 2024-5" width="350">
@@ -183,3 +207,28 @@ We do not always know what God plans for us, we only know that His plans are alw
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
 - [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Olga_Lopez/Luz_y_Vida_Online_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — June 2024 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-june-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — June 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sebastian_Nozzi/Mi_parrafo_favorito">
+          <span class="pr-2">My favorite paragraph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

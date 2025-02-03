@@ -50,7 +50,7 @@ The comparison is striking with the seven worlds of the mansions, then the journ
 
 2. The “purgatories” of the Christian (and para or peri-Christian) religions are a harsh image of the educational worlds of the houses!
 
-> “The morontia realms are the local universe liaison spheres between the material and spiritual levels of creature existence. This morontia life has been known on Urantia since the early days of the Planetary Prince. From time to time this transition state has been taught to mortals, and the concept, in distorted form, has found a place in present-day religions.” (<a id="a51_368"></a>[UB 48:1.1](/en/The_Urantia_Book/48#p1_1))
+> “The morontia realms are the local universe liaison spheres between the material and spiritual levels of creature existence. This morontia life has been known on Urantia since the early days of the Planetary Prince. From time to time this transition state has been taught to mortals, and the concept, in distorted form, has found a place in present-day religions.” (<a id="a52_368"></a>[UB 48:1.1](/en/The_Urantia_Book/48#p1_1))
 
 3\. According to a Celtic dogma: the souls of the dead fly towards the West (at birth they came from the East). Hence, more or less Solar worship - Striking parallel with the geographical orientation of the Revelations which, in principle, in the Past, came to the East of Urantia; but the last of which (the fifth) came to the West, to Chicago!
 

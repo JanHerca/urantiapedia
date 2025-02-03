@@ -120,9 +120,9 @@ We are not always brilliant dancers.
 
 — Ok, let's go for Leonington.
 
-\* <a id="a121_3"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
+\* <a id="a122_3"></a>[UB 196:3.2](/en/The_Urantia_Book/196#p3_2)
 
-\*\* <a id="a123_5"></a>[UB 111:2.4](/en/The_Urantia_Book/111#p2_4)
+\*\* <a id="a124_5"></a>[UB 111:2.4](/en/The_Urantia_Book/111#p2_4)
 
 Dominique
 

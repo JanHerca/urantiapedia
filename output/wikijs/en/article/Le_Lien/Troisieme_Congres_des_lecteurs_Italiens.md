@@ -55,7 +55,7 @@ The Congress is open to any reader or supporter of _The Urantia Book_.
 
 ## The theme will be: the will of the Father
 
-(<a id="a56_1"></a>[UB 108:2.10](/en/The_Urantia_Book/108#p2_10) — <a id="a56_49"></a>[UB 11:5.4](/en/The_Urantia_Book/11#p5_4) — <a id="a56_93"></a>[UB 141:2.2](/en/The_Urantia_Book/141#p2_2) — <a id="a56_139"></a>[UB 153:3.2](/en/The_Urantia_Book/153#p3_2) — [UB 110](/en/The_Urantia_Book/110#) — [UB 111](/en/The_Urantia_Book/111#).)
+(<a id="a57_1"></a>[UB 108:2.10](/en/The_Urantia_Book/108#p2_10) — <a id="a57_49"></a>[UB 11:5.4](/en/The_Urantia_Book/11#p5_4) — <a id="a57_93"></a>[UB 141:2.2](/en/The_Urantia_Book/141#p2_2) — <a id="a57_139"></a>[UB 153:3.2](/en/The_Urantia_Book/153#p3_2) — [UB 110](/en/The_Urantia_Book/110#) — [UB 111](/en/The_Urantia_Book/111#).)
 
 We will meet in Rimini, a charming Italian town, described below.
 

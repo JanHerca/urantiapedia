@@ -41,9 +41,9 @@ _Some notes on the seminar of November 21/23 in Neuville sur Loin (Armeau)_
 ## Preliminary remarks
 
 1. the few notes are addressed in homage to our great friend and great humorist, Jacques Dupont, who left us a few months ago, it is an extract from his book “THE VEIL RAISES” a masterful summary of the main themes of the UB: “The goal of life's harassment is to make us acquire self-control, and when this control is sufficiently achieved, it is with a smile that we face this harassment which will have become a source of humor.”
-2. the UB obviously does not dwell on the crude and vulgar forms of our earthly humor, but it still congratulates us on our relatively acute sense of humor thanks to our Adamic heritage, which nevertheless neglected our musical and artistic gifts (<a id="a42_248"></a>[UB 48:4.14](/en/The_Urantia_Book/48#p4_14)).
+2. the UB obviously does not dwell on the crude and vulgar forms of our earthly humor, but it still congratulates us on our relatively acute sense of humor thanks to our Adamic heritage, which nevertheless neglected our musical and artistic gifts (<a id="a43_248"></a>[UB 48:4.14](/en/The_Urantia_Book/48#p4_14)).
 
-According to the Directors of Retrospection (<a id="a44_45"></a>[UB 48:3.16](/en/The_Urantia_Book/48#p3_16)), our humor embraces three general levels of appreciation:
+According to the Directors of Retrospection (<a id="a45_45"></a>[UB 48:3.16](/en/The_Urantia_Book/48#p3_16)), our humor embraces three general levels of appreciation:
 - a) reminiscent jokes focused on past episodes of our combat and struggle experience. This is the past.
 - b) Common humor touches on the stupidity and futility of most of our current anxieties and problems and tries to minimize the worries of the present in favor of the certainties of the future. This is the level of the present.
 - c) The third level concerns prophetic joy, which may be difficult for mortals to contemplate. This is the future, but the directors of retrospection tell us, let us hold to the assurance that all things work together for good - for spirit and morontia beings, as well as for mortals...
@@ -69,16 +69,16 @@ Humor does not arise spontaneously: certain attitudes and behaviors mobilize the
 ## Examples of humor in the L.U.
 
 Remarks: We have all noticed that a simple reading of the L.U. is not enough to discover the humor in this remarkable live. That said, it is true that with each rereading, the humorous traits jump out at you. It should also be noted that joy often appears in relation to humor.
-1. Nathanël was considered and appreciated as the most humorous of the apostles (<a id="a70_81"></a>[UB 143:3.3](/en/The_Urantia_Book/143#p3_3)).
-2. The humor of Norana, the Syrian: thanks to her apropos towards all the apostles, trying to dissuade her from going to see Jesus, she achieved her goal, by telling the apostles to go and tell their master that she was only a dog, but a believing dog! (<a id="a71_254"></a>[UB 156:1.7](/en/The_Urantia_Book/156#p1_7))
-3. Jesus regretted that his people did not have more of a disposition for joy and humor, because the boring religion of the Pharisees could never have taken root among a people with a sense of humor. (<a id="a72_201"></a>[UB 156:1.3](/en/The_Urantia_Book/156#p1_3))
-4. when the crisis in Jesus' life reached a peak, the apostles, dejected, let themselves go, but Jesus on the contrary showed an unusual cheerfulness and an exceptional good humor. (<a id="a73_182"></a>[UB 172:2.5](/en/The_Urantia_Book/172#p2_5))
-5. the charcoal drawing that Jesus made of the chazan (<a id="a74_55"></a>[UB 124:1.4](/en/The_Urantia_Book/124#p1_4))
-6. Thomas only began to understand Jesus' tumultuous entry into Jerusalem when he appealed to his sense of humor. (<a id="a75_115"></a>[UB 172:5.9](/en/The_Urantia_Book/172#p5_9))
-7. Jesus walking with the 2 brothers of Emmaus? having accepted the bread to break... their eyes opened and the morontial Jesus disappeared from their sight... Insidious question: what happened to the bread that Jesus had in his hand at that moment? (<a id="a76_251"></a>[UB 190:5.3](/en/The_Urantia_Book/190#p5_3))
-8. Josiah, the blind, nor foolish, so devoid of humor... (<a id="a77_58"></a>[UB 164:4.9](/en/The_Urantia_Book/164#p4_9))
-9. religion cannot destroy a sense of humor.... (<a id="a78_49"></a>[UB 100:6.5](/en/The_Urantia_Book/100#p6_5))
-10. the practice of games and humor of modern races, as well as their substitutes, in the form of competitions, can replace physical battles. These gifts come largely from the Adamic stock. (<a id="a79_191"></a>[UB 74:6.7](/en/The_Urantia_Book/74#p6_7))
+1. Nathanël was considered and appreciated as the most humorous of the apostles (<a id="a71_81"></a>[UB 143:3.3](/en/The_Urantia_Book/143#p3_3)).
+2. The humor of Norana, the Syrian: thanks to her apropos towards all the apostles, trying to dissuade her from going to see Jesus, she achieved her goal, by telling the apostles to go and tell their master that she was only a dog, but a believing dog! (<a id="a72_254"></a>[UB 156:1.7](/en/The_Urantia_Book/156#p1_7))
+3. Jesus regretted that his people did not have more of a disposition for joy and humor, because the boring religion of the Pharisees could never have taken root among a people with a sense of humor. (<a id="a73_201"></a>[UB 156:1.3](/en/The_Urantia_Book/156#p1_3))
+4. when the crisis in Jesus' life reached a peak, the apostles, dejected, let themselves go, but Jesus on the contrary showed an unusual cheerfulness and an exceptional good humor. (<a id="a74_182"></a>[UB 172:2.5](/en/The_Urantia_Book/172#p2_5))
+5. the charcoal drawing that Jesus made of the chazan (<a id="a75_55"></a>[UB 124:1.4](/en/The_Urantia_Book/124#p1_4))
+6. Thomas only began to understand Jesus' tumultuous entry into Jerusalem when he appealed to his sense of humor. (<a id="a76_115"></a>[UB 172:5.9](/en/The_Urantia_Book/172#p5_9))
+7. Jesus walking with the 2 brothers of Emmaus? having accepted the bread to break... their eyes opened and the morontial Jesus disappeared from their sight... Insidious question: what happened to the bread that Jesus had in his hand at that moment? (<a id="a77_251"></a>[UB 190:5.3](/en/The_Urantia_Book/190#p5_3))
+8. Josiah, the blind, nor foolish, so devoid of humor... (<a id="a78_58"></a>[UB 164:4.9](/en/The_Urantia_Book/164#p4_9))
+9. religion cannot destroy a sense of humor.... (<a id="a79_49"></a>[UB 100:6.5](/en/The_Urantia_Book/100#p6_5))
+10. the practice of games and humor of modern races, as well as their substitutes, in the form of competitions, can replace physical battles. These gifts come largely from the Adamic stock. (<a id="a80_191"></a>[UB 74:6.7](/en/The_Urantia_Book/74#p6_7))
 11. Emotionally, man transcends his animal ancestors through his ability to appreciate art, humor, and religion.
 
 ## Examples of humor from an American author who read the UB Bob Slagle (“Cosmic Mirth. Humor in the UB”).
