@@ -60,7 +60,7 @@ Le concept de la Trinité est difficile à comprendre, et dans l'université de 
 
 Mais pourquoi les femmes veulent-elles que Dieu soit une « Elle » ? Le complément de nous-mêmes est sûrement notre contraire. Le premier amour d'une petite fille, c'est son papa. Le Livre Bleu nous dit qu’il n’existe pas de partenariat aussi efficace que celui des membres du sexe opposé.
 
-> « un homme et une femme qui coopèrent sont, dans la plupart de leurs actions, très supérieurs à deux hommes ou deux femmes. » (<a id="a38_129"></a>[LU 84:1.9](/fr/The_Urantia_Book/84#p1_9))
+> « un homme et une femme qui coopèrent sont, dans la plupart de leurs actions, très supérieurs à deux hommes ou deux femmes. » (<a id="a62_129"></a>[LU 84:1.9](/fr/The_Urantia_Book/84#p1_9))
 
 Pourquoi les femmes veulent-elles que Jésus et Dieu soient des femmes ? Je suis foutu si je sais.
 

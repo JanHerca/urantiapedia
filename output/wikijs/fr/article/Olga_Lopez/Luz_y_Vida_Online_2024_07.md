@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -34,7 +55,7 @@ Certes, ces quatre cordes auxquelles fait allusion l’écrivain espagnol sont f
 
 Ceux d'entre nous qui lisent _Le Livre d'Urantia_ connaissent les difficultés que rencontre la vie matérielle, en particulier dans un monde décimal, en rébellion, sans l'aide d'un gouvernement planétaire physique et, à de nombreuses occasions, avec la prédominance de notre partie instinctive sur notre partie plus élevée. . Il est vrai qu’il existe de nombreux êtres humains qui n’aspirent qu’à naître, grandir, se reproduire et mourir ; de reproduire la course incessante du hamster, qui ne mène nulle part. Maintenant, _Le Livre d'Urantia_ nous dit :
 
-> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. (<a id="a57_743"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07)
 
@@ -160,3 +181,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

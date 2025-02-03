@@ -61,7 +61,7 @@ Jan Herca
 
 ## Références
 
-- Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/02/21/urantiapedia-una-wikipedia-de-el-libro-de-urantia/
+- Cet article du magazine « Luz y Vida en ligne » : https://aue.urantia-association.org/2021/02/21/urantiapedia-una-wikipedia-de-el-libro-de-urantia/
 
 
 

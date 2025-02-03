@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Diego Betancourt<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres livres sur la croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Questionnaire Urantien : Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Mi-parrafo-favorito-vida-de-familia.jpg" alt="Mi párrafo favorito - sep 2024" width="350">
@@ -29,7 +53,7 @@ Lorsque je lis les paroles de Jésus à Jean Marc, mon cœur frémit et je resse
 Par conséquent, mon paragraphe préféré du _Livre d'Urantia_ est :
 <br style="clear:both;"/>
 
-> Nous croyons sincèrement que l’enseignement de l’évangile de Jésus, fondé comme il l’est sur la relation entre enfant et père, ne pourra guère être accepté dans le monde entier avant l’époque où la vie familiale des peuples civilisés modernes comportera plus d’amour et plus de sagesse. Bien que les parents du vingtième siècle possèdent des connaissances très étendues et davantage de vérité pour améliorer leur foyer et ennoblir la vie familiale, il n’en reste pas moins vrai que, pour élever des garçons et des filles, très peu de foyers modernes peuvent rivaliser avec le foyer de Jésus en Galilée et celui de Jean Marc en Judée ; toutefois, l’acceptation de l’évangile de Jésus produira une amélioration immédiate de la vie familiale. Une vie d’amour dans un sage foyer et une dévotion fidèle à la vraie religion exercent l’une sur l’autre une profonde influence. Cette vie de foyer rehausse la religion, et la religion authentique glorifie toujours le foyer. ([LU 177:2.6](/fr/The_Urantia_Book/177#p2_6))
+> Nous croyons sincèrement que l’enseignement de l’évangile de Jésus, fondé comme il l’est sur la relation entre enfant et père, ne pourra guère être accepté dans le monde entier avant l’époque où la vie familiale des peuples civilisés modernes comportera plus d’amour et plus de sagesse. Bien que les parents du vingtième siècle possèdent des connaissances très étendues et davantage de vérité pour améliorer leur foyer et ennoblir la vie familiale, il n’en reste pas moins vrai que, pour élever des garçons et des filles, très peu de foyers modernes peuvent rivaliser avec le foyer de Jésus en Galilée et celui de Jean Marc en Judée ; toutefois, l’acceptation de l’évangile de Jésus produira une amélioration immédiate de la vie familiale. Une vie d’amour dans un sage foyer et une dévotion fidèle à la vraie religion exercent l’une sur l’autre une profonde influence. Cette vie de foyer rehausse la religion, et la religion authentique glorifie toujours le foyer. (<a id="a55_968"></a>[LU 177:2.6](/fr/The_Urantia_Book/177#p2_6))
 
 En fraternité
 
@@ -40,3 +64,28 @@ Diégo
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/08/29/mi-parrafo-favorito-31/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autres livres sur la croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco_2">
+          <span class="pr-2">Questionnaire Urantien : Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

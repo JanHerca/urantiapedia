@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Sebastián Nozzi<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Questionnaire Urantien : Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
@@ -16,11 +40,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-Ce n’était pas une tâche facile pour moi de décider d’un seul paragraphe préféré du Livre d’Urantia. Ce livre est tellement plein de sagesse et de paragraphes inspirants ! Cependant, après avoir réfléchi, réfléchi et surtout demandé une réponse au Père, je me suis rendu compte qu’il y a une histoire à laquelle je reviens encore et encore. Cette histoire ne manque jamais de me remplir de satisfaction, d’inspiration et d’espoir. Et c'est celui du « jeune homme qui avait peur » ([LU 130:6](/fr/The_Urantia_Book/130#p6)). Cette interaction se produit, rappelons-le, alors que Jésus est «  en route vers Rome  » ([doc. 130](/fr/The_Urantia_Book/130)), avant son œuvre publique, et illustre l’une des nombreuses fois où il «  a fait le bien  » pendant que je passais" ([LU 171:7.9](/fr/The_Urantia_Book/171#p7_9))
+Ce n’était pas une tâche facile pour moi de décider d’un seul paragraphe préféré du Livre d’Urantia. Ce livre est tellement plein de sagesse et de paragraphes inspirants ! Cependant, après avoir réfléchi, réfléchi et surtout demandé une réponse au Père, je me suis rendu compte qu’il y a une histoire à laquelle je reviens encore et encore. Cette histoire ne manque jamais de me remplir de satisfaction, d’inspiration et d’espoir. Et c'est celui du « jeune homme qui avait peur » (<a id="a42_481"></a>[LU 130:6](/fr/The_Urantia_Book/130#p6)). Cette interaction se produit, rappelons-le, alors que Jésus est «  en route vers Rome  » ([doc. 130](/fr/The_Urantia_Book/130)), avant son œuvre publique, et illustre l’une des nombreuses fois où il «  a fait le bien  » pendant que je passais" (<a id="a42_768"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9))
 
 Puisque je dois choisir _un_ paragraphe, permettez-moi de partager le premier où Jésus commence à aider le jeune homme avec ses paroles pleines d'espoir :
 
-> _Alors le jeune homme désira vivement causer avec Jésus ; il tomba à ses pieds, le suppliant de l’aider, de lui montrer le chemin pour échapper à son monde de chagrins et d’échecs personnels. Jésus dit : « Mon ami, lève-toi ! Tiens-toi debout comme un homme. Tu peux être entouré d’ennemis mesquins et être retardé par un grand nombre d’obstacles, mais les choses importantes et réelles de ce monde et de l’univers sont de ton côté. Le soleil se lève chaque matin pour te saluer, exactement comme il le fait pour l’homme le plus puissant et le plus prospère de la terre. Regarde — tu as un corps robuste et des muscles vigoureux — tes facultés physiques sont supérieures à la moyenne. Naturellement tout cela est à peu près inutile tant que tu restes assis ici, sur le flanc de la montagne, et que tu te lamentes sur tes malheurs, vrais et imaginaires. Mais tu pourrais faire de grandes choses avec ton corps si tu voulais te hâter vers les endroits où de grandes choses attendent d’être faites. Tu essaies de fuir ton moi malheureux, mais cela ne peut se faire. Toi et tes problèmes de vie sont réels ; tu ne peux leur échapper tant que tu vis. Mais regarde encore, ton mental est clair et capable. Ton corps robuste a un mental intelligent pour le diriger. Mets ton mental à l’œuvre pour résoudre ses problèmes, apprends à ton intellect à travailler pour toi. Refuse d’être dominé plus longtemps par la peur comme un animal sans discernement. Ton mental devrait être ton allié courageux pour résoudre les problèmes de ta vie ; cesse plutôt d’être, comme tu l’as été, son pitoyable esclave apeuré et le valet du découragement et de la défaite. Mais plus précieux que tout, ton potentiel d’accomplissement effectif est l’esprit qui vit en toi ; il stimulera et inspirera ton mental pour qu’il se contrôle lui-même et anime ton corps si tu veux le libérer des entraves de la peur ; tu rendras ainsi ta nature spirituelle capable de te délivrer peu à peu des maux de l’oisiveté grâce à la présence-pouvoir de la foi vivante. Alors, cette foi vaincra aussitôt ta peur des hommes par l’irrésistible présence de ce nouvel et omnipotent *amour de tes semblables,* qui remplira bien vite ton âme à déborder parce que tu auras pris conscience, dans ton cœur, que tu es un enfant de Dieu._ ([LU 130:6.3](/fr/The_Urantia_Book/130#p6_3))
+> _Alors le jeune homme désira vivement causer avec Jésus ; il tomba à ses pieds, le suppliant de l’aider, de lui montrer le chemin pour échapper à son monde de chagrins et d’échecs personnels. Jésus dit : « Mon ami, lève-toi ! Tiens-toi debout comme un homme. Tu peux être entouré d’ennemis mesquins et être retardé par un grand nombre d’obstacles, mais les choses importantes et réelles de ce monde et de l’univers sont de ton côté. Le soleil se lève chaque matin pour te saluer, exactement comme il le fait pour l’homme le plus puissant et le plus prospère de la terre. Regarde — tu as un corps robuste et des muscles vigoureux — tes facultés physiques sont supérieures à la moyenne. Naturellement tout cela est à peu près inutile tant que tu restes assis ici, sur le flanc de la montagne, et que tu te lamentes sur tes malheurs, vrais et imaginaires. Mais tu pourrais faire de grandes choses avec ton corps si tu voulais te hâter vers les endroits où de grandes choses attendent d’être faites. Tu essaies de fuir ton moi malheureux, mais cela ne peut se faire. Toi et tes problèmes de vie sont réels ; tu ne peux leur échapper tant que tu vis. Mais regarde encore, ton mental est clair et capable. Ton corps robuste a un mental intelligent pour le diriger. Mets ton mental à l’œuvre pour résoudre ses problèmes, apprends à ton intellect à travailler pour toi. Refuse d’être dominé plus longtemps par la peur comme un animal sans discernement. Ton mental devrait être ton allié courageux pour résoudre les problèmes de ta vie ; cesse plutôt d’être, comme tu l’as été, son pitoyable esclave apeuré et le valet du découragement et de la défaite. Mais plus précieux que tout, ton potentiel d’accomplissement effectif est l’esprit qui vit en toi ; il stimulera et inspirera ton mental pour qu’il se contrôle lui-même et anime ton corps si tu veux le libérer des entraves de la peur ; tu rendras ainsi ta nature spirituelle capable de te délivrer peu à peu des maux de l’oisiveté grâce à la présence-pouvoir de la foi vivante. Alors, cette foi vaincra aussitôt ta peur des hommes par l’irrésistible présence de ce nouvel et omnipotent *amour de tes semblables,* qui remplira bien vite ton âme à déborder parce que tu auras pris conscience, dans ton cœur, que tu es un enfant de Dieu._ (<a id="a46_2284"></a>[LU 130:6.3](/fr/The_Urantia_Book/130#p6_3))
 
 Ce qui me frappe vraiment, c’est que Jésus ne rejette pas les ressources «  séculières  » que nous utilisons pour résoudre nos problèmes psychologiques/émotionnels. Une grande partie de ce qu’il dit et suggère initialement pourrait provenir de praticiens du stoïcisme, du bouddhisme ou de la psychologie (peut-être de type cognitivo-comportemental, ou même de la psychologie positive).
 
@@ -47,3 +71,28 @@ Merci beaucoup.
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/05/31/mi-parrafo-favorito-30/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Romualdo_Soler_Gonzalez">
+          <span class="pr-2">Questionnaire Urantien : Romualdo Soler González</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

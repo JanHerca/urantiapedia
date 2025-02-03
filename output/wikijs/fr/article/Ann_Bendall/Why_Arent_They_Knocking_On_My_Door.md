@@ -33,7 +33,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-> « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a14_207"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
+> « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a35_207"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 
 Peut-être que les gens frappent à votre porte, vous demandent ce que vous avez et comment ils peuvent l'acquérir, mais ils laissent de côté la mienne.
 
@@ -41,7 +41,7 @@ Et là-bas, dans le grand monde, quelques personnes ont observé une différence
 
 Je voudrais suggérer, à travers le 6-0-6, que nous commencions à accumuler des idées et des hypothèses sur ce qui ne va pas chez des gens comme moi.
 
-<a id="a22_0"></a>[LU 102:3.4](/fr/The_Urantia_Book/102#p3_4) du _Le Livre d'URANTIA_ dit : « L’expérience religieuse est la réalisation de la conscience d’avoir trouvé Dieu. Et, quand un être humain trouve Dieu, le triomphe de sa découverte fait éprouver à son âme une effervescence tellement indescriptible qu’il est poussé à rechercher un affectueux contact de service avec ses compagnons moins éclairés, non pour révéler qu’il a trouvé Dieu, mais plutôt pour permettre au débordement de la bonté éternelle qui surgit dans son âme de réconforter et ennoblir ses compagnons. La religion réelle mène à un service social accru.»
+<a id="a43_0"></a>[LU 102:3.4](/fr/The_Urantia_Book/102#p3_4) du _Le Livre d'URANTIA_ dit : « L’expérience religieuse est la réalisation de la conscience d’avoir trouvé Dieu. Et, quand un être humain trouve Dieu, le triomphe de sa découverte fait éprouver à son âme une effervescence tellement indescriptible qu’il est poussé à rechercher un affectueux contact de service avec ses compagnons moins éclairés, non pour révéler qu’il a trouvé Dieu, mais plutôt pour permettre au débordement de la bonté éternelle qui surgit dans son âme de réconforter et ennoblir ses compagnons. La religion réelle mène à un service social accru.»
 
 J'adore parler de notre Père et j'ai quelques amis (non-lecteurs du Livre d'URANTIA) qui sont profondément religieux. L’un d’eux, profondément dégoûté, a annoncé un jour : « Eh bien, toutes les églises vont vraiment devoir mettre de l’ordre dans leurs actes. Ils osent faire de Dieu un Dieu humain !
 
@@ -49,7 +49,7 @@ J'ai à peine eu le temps d'ajouter des « écoutez ! entendre!" quand elle, ave
 
 Je me suis souri – si seulement l'émotion majeure était l'amour.
 
-Revenons à mon sujet : « L’élément d’erreur présent dans l’expérience religieuse humaine est directement proportionnel au contenu de matérialisme qui souille le concept spirituel du Père Universel. La progression de l’homme dans l’univers, avant d’atteindre le statut d’esprit, consiste à se débarrasser de ces idées erronées sur la nature de Dieu et sur la réalité du pur et véritable esprit. La Déité est plus que l’esprit, mais l’approche spirituelle est la seule possible pour l’ascendeur humain.» (<a id="a30_503"></a>[LU 102:4.4](/fr/The_Urantia_Book/102#p4_4))
+Revenons à mon sujet : « L’élément d’erreur présent dans l’expérience religieuse humaine est directement proportionnel au contenu de matérialisme qui souille le concept spirituel du Père Universel. La progression de l’homme dans l’univers, avant d’atteindre le statut d’esprit, consiste à se débarrasser de ces idées erronées sur la nature de Dieu et sur la réalité du pur et véritable esprit. La Déité est plus que l’esprit, mais l’approche spirituelle est la seule possible pour l’ascendeur humain.» (<a id="a51_503"></a>[LU 102:4.4](/fr/The_Urantia_Book/102#p4_4))
 
 Je suppose que la plupart d’entre nous avaient une idée plutôt confuse de Dieu si nous avions été élevés dans une religion évolutionniste. Mais pour ma part, quand je lis, et chaque fois que je relis le premier chapitre sur Dieu, quelque chose chante en moi. Mon esprit dit : mon garçon, j'aimerais vraiment comprendre comment il en est ainsi, mais je n'ai aucun doute que tout cela est vrai et qu'il s'agit d'une très bonne description de notre Père du Paradis. J'apprécie tellement plus Sa - je ne trouve pas les mots justes sauf - perfection, grandeur, quintessence de la vérité, de la beauté, de la bonté et, en l'acceptant et en le reconnaissant dans toute sa majesté, le livre le rend plus aimable, plus accessible malgré le fait que il possède des millions de planètes, au lieu d’une seule comme la Bible l’imagine, qu’il allait détruire de toute façon ! (Alors, qu’y a-t-il de mal à le dénuder – en détruisant la mer, la forêt, etc. – entrons avant Dieu !)
 

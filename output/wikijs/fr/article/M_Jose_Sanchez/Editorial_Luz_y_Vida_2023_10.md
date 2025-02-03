@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## David contre Goliath
 
@@ -27,7 +51,7 @@ Comme vous pouvez le voir, c’est un sujet très intéressant, varié et «  nu
 
 Commençons ensemble ce nouveau voyage à travers _Le Livre d’Urantia_ en ce mois qui commence. Rejoignez-nous dans ce voyage à travers le livre et ses nuances fascinantes. Rejoignez-nous dans nos réflexions et dans notre tentative d’élargir les esprits et, surtout, les cœurs des lecteurs du _Livre d’Urantia_.
 
-> « Jésus eut de nombreuses rencontres avec un marchand chinois. En prenant congé de lui, il lui fit les recommandations suivantes : « N’adore que Dieu, qui est ton véritable ancêtre spirituel. Souviens-toi que l’esprit du Père vit toujours en toi et oriente toujours ton âme vers le ciel. Si tu suis les directives inconscientes de cet esprit immortel, tu es certain de gravir le chemin élevé qui conduit à trouver Dieu. Quand tu réussiras à atteindre le Père qui est aux cieux, ce sera parce qu’en le cherchant tu t’es mis à lui ressembler de plus en plus. Donc, adieu Chang, mais seulement pour un temps, car nous nous rencontrerons de nouveau dans les mondes de lumière, où le Père des âmes spirituelles a ménagé de nombreux points d’arrêt charmants pour ceux qui se dirigent vers le Paradis. » » ([LU 133:4.9](/fr/The_Urantia_Book/133#p4_9))
+> « Jésus eut de nombreuses rencontres avec un marchand chinois. En prenant congé de lui, il lui fit les recommandations suivantes : « N’adore que Dieu, qui est ton véritable ancêtre spirituel. Souviens-toi que l’esprit du Père vit toujours en toi et oriente toujours ton âme vers le ciel. Si tu suis les directives inconscientes de cet esprit immortel, tu es certain de gravir le chemin élevé qui conduit à trouver Dieu. Quand tu réussiras à atteindre le Père qui est aux cieux, ce sera parce qu’en le cherchant tu t’es mis à lui ressembler de plus en plus. Donc, adieu Chang, mais seulement pour un temps, car nous nous rencontrerons de nouveau dans les mondes de lumière, où le Père des âmes spirituelles a ménagé de nombreux points d’arrêt charmants pour ceux qui se dirigent vers le Paradis. » » (<a id="a53_802"></a>[LU 133:4.9](/fr/The_Urantia_Book/133#p4_9))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-5.jpg" alt="Editorial nov-23-5" width="350">
@@ -36,11 +60,11 @@ Commençons ensemble ce nouveau voyage à travers _Le Livre d’Urantia_ en ce m
 Jésus a eu de nombreuses conversations avec un marchand chinois et lui a dit au revoir de cette manière. Cette citation est un exemple provocateur pour ceux qui ne conçoivent leur Vérité que comme la seule valable. Un marchand chinois qui n’a pas suivi les lois de Moïse pourrait-il être sauvé comme un Juif ? Eh bien, c'est vrai, puisque Jésus lui dit qu'ils se reverront dans les mondes des maisons dans le futur. Dans le Livre d’Urantia lui-même, un chapitre entier est consacré aux différentes religions et philosophies antérieures au christianisme, car :
 <br style="clear:both;"/>
 
-> Les nombreuses religions d’Urantia sont toutes bonnes dans la mesure où elles amènent l’homme à Dieu et où elles apportent à l’homme la réalisation du Père. C’est une erreur, pour un groupe religieux quelconque, de s’imaginer que son crédo est *La Vérité ;* cette attitude dénote plus de morgue théologique que de certitude dans la foi. Toutes les religions d’Urantia sans exception auraient profit à étudier et assimiler le meilleur des vérités contenues dans toutes les autres, car elles contiennent toutes des vérités. Les religionistes feraient mieux d’emprunter ce qu’il y a de meilleur dans la foi spirituelle vivante de leurs voisins, que de dénoncer ce qu’il y a de pire dans leurs superstitions rémanentes et leurs rituels désuets. ([LU 92:7.3](/fr/The_Urantia_Book/92#p7_3))
+> Les nombreuses religions d’Urantia sont toutes bonnes dans la mesure où elles amènent l’homme à Dieu et où elles apportent à l’homme la réalisation du Père. C’est une erreur, pour un groupe religieux quelconque, de s’imaginer que son crédo est *La Vérité ;* cette attitude dénote plus de morgue théologique que de certitude dans la foi. Toutes les religions d’Urantia sans exception auraient profit à étudier et assimiler le meilleur des vérités contenues dans toutes les autres, car elles contiennent toutes des vérités. Les religionistes feraient mieux d’emprunter ce qu’il y a de meilleur dans la foi spirituelle vivante de leurs voisins, que de dénoncer ce qu’il y a de pire dans leurs superstitions rémanentes et leurs rituels désuets. (<a id="a62_744"></a>[LU 92:7.3](/fr/The_Urantia_Book/92#p7_3))
 
 Ce travail honnête de voir et de valoriser «  le meilleur  » des autres religions ou façons de penser était ce que Jésus faisait toujours avec ceux qu’il rencontrait. Une fois qu’il l’a fait, cependant, cela a été lié à son message de salut. Prenons par exemple cet exemple simple et bref :
 
-Au maître épicurien, il dit : « Vous faites bien de choisir le meilleur et d'apprécier le bien, mais êtes-vous sage lorsque vous n'êtes pas capable de percevoir les éléments supérieurs de la vie mortelle qui sont incarnés dans les royaumes de l'esprit dérivés de la reconnaissance de la présence de Dieu ? dans le cœur humain ? [LU 133:4.5](/fr/The_Urantia_Book/133#p4_5)
+Au maître épicurien, il dit : « Vous faites bien de choisir le meilleur et d'apprécier le bien, mais êtes-vous sage lorsque vous n'êtes pas capable de percevoir les éléments supérieurs de la vie mortelle qui sont incarnés dans les royaumes de l'esprit dérivés de la reconnaissance de la présence de Dieu ? dans le cœur humain ? <a id="a66_328"></a>[LU 133:4.5](/fr/The_Urantia_Book/133#p4_5)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Editorial-nov-23-4.jpg" alt="Editorial nov-23-4" width="350">
@@ -125,7 +149,7 @@ Persévérons, car nous pouvons assumer cette confiance et cet engagement chaque
 
 Suivons l'exemple du Maître qui, comme l'écrivait poétiquement saint Jean de la Croix il y a quelques siècles, «  répandant mille grâces, il traversa ces fourrés avec aisance  ». « Mille mercis » a été versé dans une petite zone de la planète marquée par les guerres, « mille mercis » peut continuer à être versé par ses adeptes, malgré tout.
 
-La puissance de ce royaume ne consistera ni dans la force des armées ni dans la puissance des richesses, mais plutôt dans la gloire de l'esprit divin qui viendra instruire les esprits et gouverner les cœurs des citoyens nés de nouveau dans ce royaume céleste, le enfants de Dieu. C'est la fraternité de l'amour où règne la justice et dont le cri de guerre sera : Paix sur terre et bonne volonté entre tous les hommes. [LU 140:1.3](/fr/The_Urantia_Book/140#p1_3)
+La puissance de ce royaume ne consistera ni dans la force des armées ni dans la puissance des richesses, mais plutôt dans la gloire de l'esprit divin qui viendra instruire les esprits et gouverner les cœurs des citoyens nés de nouveau dans ce royaume céleste, le enfants de Dieu. C'est la fraternité de l'amour où règne la justice et dont le cri de guerre sera : Paix sur terre et bonne volonté entre tous les hommes. <a id="a151_418"></a>[LU 140:1.3](/fr/The_Urantia_Book/140#p1_3)
 
 Ayons donc confiance dans le changement de notre planète, dans le pouvoir transformateur des petits David. Ayons confiance en nous-mêmes.
 
@@ -134,3 +158,28 @@ Ayons donc confiance dans le changement de notre planète, dans le pouvoir trans
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/10/30/editorial-noviembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

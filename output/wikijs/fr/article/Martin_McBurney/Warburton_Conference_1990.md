@@ -48,7 +48,7 @@ Nous avons commencé par un déjeuner commun le samedi, suivi d'une séance de r
 
 Pour le thème de la conférence « Vivre comme nous sommes censés vivre », nous avons utilisé le focus proposé dans _Le Livre d'URANTIA_ sur LU 46 : 5.29.
 
-> « Les activités de ce monde comportent trois variétés distinctes : le travail, le progrès et le jeu, autrement dit le service, l’étude et la détente. Les activités composites consistent en rapports sociaux, divertissements collectifs et adoration divine. » (<a id="a26_260"></a>[LU 46:5.29](/fr/The_Urantia_Book/46#p5_29))
+> « Les activités de ce monde comportent trois variétés distinctes : le travail, le progrès et le jeu, autrement dit le service, l’étude et la détente. Les activités composites consistent en rapports sociaux, divertissements collectifs et adoration divine. » (<a id="a50_260"></a>[LU 46:5.29](/fr/The_Urantia_Book/46#p5_29))
 
 Pour « travail/service », il y a eu un forum de discussion sur la distribution du Livre d'URANTIA en Australie. Parmi les nombreuses questions, un consensus a émergé sur deux points (qui nécessitent tous deux l’accord de la Fondation URANTIA) :
 

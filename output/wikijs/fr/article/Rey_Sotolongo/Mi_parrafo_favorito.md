@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Rey Sotolongo<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie : Sérénité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Ulises_Pedrique">
+          <span class="pr-2">Questionnaire Urantien : Ulises Pedrique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Decisiones.jpg" alt="Mi párrafo favorito - oct 24">
@@ -16,7 +40,7 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-> Le choix de faire la volonté du Père est la découverte spirituelle du Père-esprit par l’homme mortel, même s’il faut qu’un âge s’écoule avant que le fils créé puisse effectivement se tenir en la présence factuelle de Dieu au Paradis. Ce choix ne consiste pas tant en une négation de la volonté de la créature — « que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». Si ce choix est décidé, le fils choisissant Dieu aboutira, tôt ou tard, à l’union intérieure (la fusion) avec le fragment de Dieu qui l’habite. Tout en se perfectionnant, ce même fils trouvera la satisfaction suprême de la personnalité dans une communion adoratrice entre la personnalité de l’homme et la personnalité de son Auteur, deux personnalités dont les attributs créateurs se sont unis pour toujours dans une mutualité d’expression librement voulue — la naissance d’une autre association éternelle entre la volonté de l’homme et la volonté de Dieu. ([LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
+> Le choix de faire la volonté du Père est la découverte spirituelle du Père-esprit par l’homme mortel, même s’il faut qu’un âge s’écoule avant que le fils créé puisse effectivement se tenir en la présence factuelle de Dieu au Paradis. Ce choix ne consiste pas tant en une négation de la volonté de la créature — « que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». Si ce choix est décidé, le fils choisissant Dieu aboutira, tôt ou tard, à l’union intérieure (la fusion) avec le fragment de Dieu qui l’habite. Tout en se perfectionnant, ce même fils trouvera la satisfaction suprême de la personnalité dans une communion adoratrice entre la personnalité de l’homme et la personnalité de son Auteur, deux personnalités dont les attributs créateurs se sont unis pour toujours dans une mutualité d’expression librement voulue — la naissance d’une autre association éternelle entre la volonté de l’homme et la volonté de Dieu. (<a id="a42_1046"></a>[LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
 
 Eurêka! Le but est clair comme de l'eau de roche, le choix me paraît même simple ; mais… mmm. Je suis né dans un pays où il n’y avait pas d’espace social pour Dieu. Ma grand-mère baptisait ses petits-enfants en secret et on parlait rarement de religion à la maison. Avec un père scientifique et une mère philologue, mon seul lien avec Dieu était l'idée que ma grand-mère se faisait de Lui. Adolescente en Espagne, et sans l'avoir cherché, _Le Livre d'Urantia_ est tombé entre mes mains.
 
@@ -32,3 +56,28 @@ Je dois te choisir chaque jour. Chaque décision du monde semble être «  le ch
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/mi-parrafo-favorito-32/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie : Sérénité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Ulises_Pedrique">
+          <span class="pr-2">Questionnaire Urantien : Ulises Pedrique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

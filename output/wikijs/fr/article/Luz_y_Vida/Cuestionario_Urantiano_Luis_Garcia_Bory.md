@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Luis-Garcia-Bory.jpg" alt="Luis García Bory" width="250">
@@ -61,13 +82,13 @@ _Le Livre d’Urantia_ a ouvert mon esprit et mon âme à la réalité de la spi
 
 Même s'il y a des choses qui sont difficiles à accepter pour moi, il y a de grands défis que je trouve difficiles à relever. Par exemple, _Le Livre d’Urantia_ nous invite à apprendre à aimer de manière authentique et désintéressée un être humain de plus chaque jour. Mais cela nous enseigne aussi qu’un tel amour est le résultat d’une profonde compréhension de nos semblables. Dans la réalité des exigences de la vie quotidienne, il est très complexe et difficile de pouvoir y parvenir chaque semaine, et encore moins chaque jour !
 
-> « Vous ne pouvez pas aimer vraiment vos compagnons par un simple acte de volonté. L’amour nait seulement d’une compréhension approfondie et consommée des mobiles et des sentiments de votre prochain. Il est moins important d’aimer tous les hommes aujourd’hui que d’apprendre chaque jour à en aimer un de plus. Si, chaque jour ou chaque semaine, vous parvenez à comprendre un compagnon de plus, et si c’est la limite de vos capacités, alors vous êtes certainement en voie de rendre votre personnalité sociale et vraiment spirituelle. L’amour est contagieux ; et, quand la dévotion humaine est intelligente et sage, l’amour a plus d’emprise que la haine. Mais seul l’amour authentique et désintéressé est vraiment contagieux. Si seulement chaque mortel pouvait devenir un foyer d’affection dynamique, le virus bénin de l’amour imprègnerait bientôt le courant émotionnel sentimental de l’humanité au point que toute la civilisation serait enveloppée d’amour, et ce serait la réalisation de la fraternité humaine. » ([LU 100:4.6](/fr/The_Urantia_Book/100#p4_6))
+> « Vous ne pouvez pas aimer vraiment vos compagnons par un simple acte de volonté. L’amour nait seulement d’une compréhension approfondie et consommée des mobiles et des sentiments de votre prochain. Il est moins important d’aimer tous les hommes aujourd’hui que d’apprendre chaque jour à en aimer un de plus. Si, chaque jour ou chaque semaine, vous parvenez à comprendre un compagnon de plus, et si c’est la limite de vos capacités, alors vous êtes certainement en voie de rendre votre personnalité sociale et vraiment spirituelle. L’amour est contagieux ; et, quand la dévotion humaine est intelligente et sage, l’amour a plus d’emprise que la haine. Mais seul l’amour authentique et désintéressé est vraiment contagieux. Si seulement chaque mortel pouvait devenir un foyer d’affection dynamique, le virus bénin de l’amour imprègnerait bientôt le courant émotionnel sentimental de l’humanité au point que toute la civilisation serait enveloppée d’amour, et ce serait la réalisation de la fraternité humaine. » (<a id="a84_1014"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6))
 
 ## 7. Quelle est la partie qui vous a le plus impressionné ?
 
 Peut-être la connaissance que même les révélateurs eux-mêmes ne peuvent pas expliquer la nature et la source de la vie planétaire. Ils savent d’où il vient, mais pas comment il est obtenu. C’est l’un des plus grands secrets de l’univers, centré spécifiquement sur la personne de l’Esprit Infini et le pouvoir créateur-distributeur de sa progéniture. C’est pour cette raison même qu’ils nous révèlent que les humains ne seront jamais capables de créer la vie.
 
-> « Certaines choses se rapportant à l’élaboration de la vie sur les planètes évolutionnaires ne sont pas tout à fait claires pour nous. Nous comprenons pleinement l’organisation physique des formules électrochimiques des Porteurs de Vie, mais nous ne saisissons pas complètement la nature et la source de l’*étincelle animatrice de vie.* Nous savons que la vie découle du Père, passe par le Fils et se répand *par* l’Esprit. Il est plus que probable que les Maitres Esprits sont le canal septuple du fleuve de vie répandu sur toute la création. Mais nous ne comprenons pas la technique par laquelle le Maitre Esprit superviseur participe à l’épisode initial du don de la vie à une nouvelle planète. Nous sommes persuadés que les Anciens des Jours jouent aussi un rôle dans l’implantation de la vie sur un monde nouveau, mais nous en ignorons complètement la nature. Nous savons que l’Esprit-Mère de l’Univers vitalise effectivement les modèles inanimés et communique au plasma ainsi activé les prérogatives de reproduction des organismes. Nous remarquons que ce trio représente les niveaux de Dieu le Septuple et que ses membres sont parfois appelés les Créateurs Suprêmes du temps et de l’espace, mais autrement nous n’en savons guère plus que les mortels d’Urantia — simplement que le concept est inhérent au Père, l’expression, au Fils et la réalisation vivante, à l’Esprit. » ([LU 36:6.7](/fr/The_Urantia_Book/36#p6_7))
+> « Certaines choses se rapportant à l’élaboration de la vie sur les planètes évolutionnaires ne sont pas tout à fait claires pour nous. Nous comprenons pleinement l’organisation physique des formules électrochimiques des Porteurs de Vie, mais nous ne saisissons pas complètement la nature et la source de l’*étincelle animatrice de vie.* Nous savons que la vie découle du Père, passe par le Fils et se répand *par* l’Esprit. Il est plus que probable que les Maitres Esprits sont le canal septuple du fleuve de vie répandu sur toute la création. Mais nous ne comprenons pas la technique par laquelle le Maitre Esprit superviseur participe à l’épisode initial du don de la vie à une nouvelle planète. Nous sommes persuadés que les Anciens des Jours jouent aussi un rôle dans l’implantation de la vie sur un monde nouveau, mais nous en ignorons complètement la nature. Nous savons que l’Esprit-Mère de l’Univers vitalise effectivement les modèles inanimés et communique au plasma ainsi activé les prérogatives de reproduction des organismes. Nous remarquons que ce trio représente les niveaux de Dieu le Septuple et que ses membres sont parfois appelés les Créateurs Suprêmes du temps et de l’espace, mais autrement nous n’en savons guère plus que les mortels d’Urantia — simplement que le concept est inhérent au Père, l’expression, au Fils et la réalisation vivante, à l’Esprit. » (<a id="a90_1382"></a>[LU 36:6.7](/fr/The_Urantia_Book/36#p6_7))
 
 ## 8. Comment comprenez-vous «  faire la volonté du Père  » ?
 
@@ -104,3 +125,25 @@ J'invite seulement tous ceux qui s'intéressent au _Livre d'Urantia_ à oser ouv
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/12/30/cuestionario-urantiano-3/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

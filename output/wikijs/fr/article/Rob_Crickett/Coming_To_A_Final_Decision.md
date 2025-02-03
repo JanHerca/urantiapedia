@@ -38,7 +38,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Le Livre d'URANTIA_ déclare :
 
-> « _Aux premiers temps de la lutte, Lucifer discourut en permanence dans l’amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l’attitude à prendre allaient et venaient entre ces discussions jusqu’à ce qu’elles fussent parvenues à une décision définitive._ » (<a id="a16_422"></a>[LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
+> « _Aux premiers temps de la lutte, Lucifer discourut en permanence dans l’amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l’attitude à prendre allaient et venaient entre ces discussions jusqu’à ce qu’elles fussent parvenues à une décision définitive._ » (<a id="a40_422"></a>[LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
 
 Il est évident que les lecteurs du Livre d'URANTIA et les lecteurs potentiels du Livre d'URANTIA sont divisés en deux camps : ceux qui croient en l'évangile de M. Pope et ceux qui, par une certaine compréhension ou une preuve contraire de leur propre chef, le réfutent catégoriquement.
 

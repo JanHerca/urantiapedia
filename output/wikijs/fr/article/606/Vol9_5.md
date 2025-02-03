@@ -51,7 +51,7 @@ Bill ou Ali MacLean au (03) 8013366
 
 ## « Pensée du mois »
 
-> « Ne vous laissez pas décourager par la découverte que vous êtes humains. La nature humaine peut tendre vers le mal, mais n’est pas naturellement pécheresse. Ne soyez pas abattus si vous n’arrivez pas à oublier complètement certaines de vos expériences regrettables. Les fautes que vous ne parvenez pas à oublier dans le temps seront oubliées dans l’éternité. Allégez les fardeaux de votre âme en vous faisant rapidement une conception de votre destinée à longue échéance, de l’expansion de votre carrière dans l’univers. » (<a id="a32_527"></a>[LU 156:5.8](/fr/The_Urantia_Book/156#p5_8))
+> « Ne vous laissez pas décourager par la découverte que vous êtes humains. La nature humaine peut tendre vers le mal, mais n’est pas naturellement pécheresse. Ne soyez pas abattus si vous n’arrivez pas à oublier complètement certaines de vos expériences regrettables. Les fautes que vous ne parvenez pas à oublier dans le temps seront oubliées dans l’éternité. Allégez les fardeaux de votre âme en vous faisant rapidement une conception de votre destinée à longue échéance, de l’expansion de votre carrière dans l’univers. » (<a id="a53_527"></a>[LU 156:5.8](/fr/The_Urantia_Book/156#p5_8))
 
 ## Le voyage de Michael autour de la Terre
 
@@ -135,7 +135,7 @@ Rod McCourt, Cacatoès, Vic.
 
 ## Les trois planètes manquantes
 
-Dans <a id="a116_5"></a>[LU 57:5.9](/fr/The_Urantia_Book/57#p5_9) du _Le Livre d'URANTIA_, nous sommes informés que cinq planètes intérieures, Jupiter, Saturne, et cinq planètes extérieures ont formé la matière extraite de notre soleil par le passage du système Angona. Cela fait 12 planètes, mais on ne nous en apprend que neuf à l'école. Où sont les trois autres ?
+Dans <a id="a137_5"></a>[LU 57:5.9](/fr/The_Urantia_Book/57#p5_9) du _Le Livre d'URANTIA_, nous sommes informés que cinq planètes intérieures, Jupiter, Saturne, et cinq planètes extérieures ont formé la matière extraite de notre soleil par le passage du système Angona. Cela fait 12 planètes, mais on ne nous en apprend que neuf à l'école. Où sont les trois autres ?
 
 L’une des planètes manquantes est facile à expliquer. À la page 658, nous lisons que la cinquième planète du Soleil s'est séparée lorsqu'elle est passée trop près de Jupiter. Les débris de cette planète forment l’actuelle ceinture d’astéroïdes située entre Mars et Jupiter. Cela laisse deux planètes portées disparues.
 

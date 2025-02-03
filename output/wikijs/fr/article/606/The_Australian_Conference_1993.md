@@ -46,13 +46,13 @@ Le célèbre Sea World Nara Resort est situé dans des jardins tropicaux luxuria
 
 BIENVENUE SUR LES RIVES DU PARADIS.
 
-> « Vous pouvez être certain d’être chaudement accueilli lorsque vous ferez l’expérience de ressusciter dans l’éternité sur les rives éternelles du Paradis. » (<a id="a24_160"></a>[LU 25:8.5](/fr/The_Urantia_Book/25#p8_5))
+> « Vous pouvez être certain d’être chaudement accueilli lorsque vous ferez l’expérience de ressusciter dans l’éternité sur les rives éternelles du Paradis. » (<a id="a48_160"></a>[LU 25:8.5](/fr/The_Urantia_Book/25#p8_5))
 
 ## Le but
 
 Au cours de notre séjour de trois jours dans ce paradis physique, nous pouvons partager des idées sur la manière dont nous envisageons de grandir spirituellement et de traverser les royaumes jusqu'à l'île centrale du paradis.
 
-> « Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. » (<a id="a30_145"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
+> « Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. » (<a id="a54_145"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
 
 Jésus a développé des techniques exceptionnelles pour effectuer ce processus. Il s'engageait souvent dans une communion solitaire avec le Père – pour rassembler des forces, rechercher de nouvelles réserves de sagesse, trouver de meilleures façons de soumettre sa personnalité totale à la conscience du contact avec la divinité.
 
@@ -60,7 +60,7 @@ De cette manière et sans doute de bien d’autres, Jésus a résolu les conflit
 
 Nous sommes invités à faire de même.
 
-> « _si donc vous voulez sincèrement courir la course du temps et atteindre le but final de la foi, la récompense des âges sera vôtre_ » (<a id="a38_138"></a>[LU 112:0.1](/fr/The_Urantia_Book/112#p0_1))
+> « _si donc vous voulez sincèrement courir la course du temps et atteindre le but final de la foi, la récompense des âges sera vôtre_ » (<a id="a62_138"></a>[LU 112:0.1](/fr/The_Urantia_Book/112#p0_1))
 
 ## Le temps
 

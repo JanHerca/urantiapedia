@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sebastian_Nozzi/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La sagesse cachée de Dieu
 
@@ -67,13 +91,13 @@ Mais cette sagesse, qui est interdite à ceux qui se limitent uniquement à la s
 
 1) Avoir une vision transcendante de la vie et de l'existence
 
-Ne savez-vous pas que le Dieu du ciel a envoyé son esprit pour vivre en vous, et que cet esprit conduira tous les mortels qui aiment la vérité et servent Dieu au-delà de cette vie et à travers les portiques de la mort jusqu'aux hauteurs éternelles ? où Dieu attend de recevoir ses enfants ? [LU 133:4.4](/fr/The_Urantia_Book/133#p4_4)
+Ne savez-vous pas que le Dieu du ciel a envoyé son esprit pour vivre en vous, et que cet esprit conduira tous les mortels qui aiment la vérité et servent Dieu au-delà de cette vie et à travers les portiques de la mort jusqu'aux hauteurs éternelles ? où Dieu attend de recevoir ses enfants ? <a id="a93_291"></a>[LU 133:4.4](/fr/The_Urantia_Book/133#p4_4)
 
 2) Montrer une soif de vérité, la rechercher sans cesse
 
-L'amour de l'aventure, la curiosité et l'horreur de la monotonie, qui sont des traits inhérents à l'évolution de la nature humaine, n'ont pas été mis là simplement pour vous exaspérer et vous irriter pendant votre court séjour sur terre, mais plutôt pour vous suggérer que la mort n'est rien d'autre que le début d'une course sans fin d'aventures, d'une vie éternelle d'attentes, d'un éternel voyage de découverte. [LU 14:5.10](/fr/The_Urantia_Book/14#p5_10)
+L'amour de l'aventure, la curiosité et l'horreur de la monotonie, qui sont des traits inhérents à l'évolution de la nature humaine, n'ont pas été mis là simplement pour vous exaspérer et vous irriter pendant votre court séjour sur terre, mais plutôt pour vous suggérer que la mort n'est rien d'autre que le début d'une course sans fin d'aventures, d'une vie éternelle d'attentes, d'un éternel voyage de découverte. <a id="a97_415"></a>[LU 14:5.10](/fr/The_Urantia_Book/14#p5_10)
 
-Si mes paroles demeurent en vous et que vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaîtrez la vérité et la vérité vous rendra libre. [LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
+Si mes paroles demeurent en vous et que vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaîtrez la vérité et la vérité vous rendra libre. <a id="a99_189"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
 <br style="clear:both;"/>
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -82,9 +106,9 @@ Si mes paroles demeurent en vous et que vous êtes disposés à faire la volont�
 
 3) L'humilité, sans égo ni complaisance personnelle
 
-Jésus priait ainsi, debout au bord de l’eau : « Père, je te remercie pour ces petits qui croient déjà malgré leurs doutes. Pour eux, je me suis consacré pour faire ta volonté. Qu’ils apprennent maintenant à être un comme nous sommes un. [LU 137:6.6](/fr/The_Urantia_Book/137#p6_6)
+Jésus priait ainsi, debout au bord de l’eau : « Père, je te remercie pour ces petits qui croient déjà malgré leurs doutes. Pour eux, je me suis consacré pour faire ta volonté. Qu’ils apprennent maintenant à être un comme nous sommes un. <a id="a108_237"></a>[LU 137:6.6](/fr/The_Urantia_Book/137#p6_6)
 
-En vérité, en vérité, je vous le dis, si vous ne changez pas et ne devenez pas davantage comme cet enfant, vous ferez peu de progrès dans le royaume des cieux. Quiconque s’humilie et devient comme ce petit enfant sera le plus grand dans le royaume des cieux. Celui qui reçoit un tel petit enfant me reçoit, et celui qui me reçoit reçoit aussi celui qui m’a envoyé. Si vous voulez être le premier dans le royaume, essayez d’offrir ces bonnes vérités à vos frères dans la chair. [LU 158:8.1](/fr/The_Urantia_Book/158#p8_1)
+En vérité, en vérité, je vous le dis, si vous ne changez pas et ne devenez pas davantage comme cet enfant, vous ferez peu de progrès dans le royaume des cieux. Quiconque s’humilie et devient comme ce petit enfant sera le plus grand dans le royaume des cieux. Celui qui reçoit un tel petit enfant me reçoit, et celui qui me reçoit reçoit aussi celui qui m’a envoyé. Si vous voulez être le premier dans le royaume, essayez d’offrir ces bonnes vérités à vos frères dans la chair. <a id="a110_477"></a>[LU 158:8.1](/fr/The_Urantia_Book/158#p8_1)
 
 Si nous gardons à l’esprit ces trois caractéristiques fondamentales, il faut dire qu’il n’y a pas beaucoup de personnes avec ces caractéristiques dans notre monde. Il ne s’agit pas ici de juger qui que ce soit ou quoi que ce soit, il s’agit simplement de décrire la génération humaine actuelle. Regardez simplement autour de nous.
 
@@ -136,7 +160,7 @@ Et ainsi, nous pourrions continuer à décrire davantage d’attitudes et de com
 
 Un Maître de naturel et d’humilité, un Christ qui a agi ainsi :
 
-La plupart des choses vraiment importantes que Jésus a dites ou faites semblent s’être produites «  dans son sillage  » par hasard. Il y avait très peu de choses professionnelles, planifiées ou préméditées dans le ministère terrestre du Maître. Il a dispensé la santé et répandu le bonheur avec grâce et facilité tout au long de son parcours de vie. Il était littéralement vrai qu’il «  allait de lieu en lieu faisant le bien  ». [LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
+La plupart des choses vraiment importantes que Jésus a dites ou faites semblent s’être produites «  dans son sillage  » par hasard. Il y avait très peu de choses professionnelles, planifiées ou préméditées dans le ministère terrestre du Maître. Il a dispensé la santé et répandu le bonheur avec grâce et facilité tout au long de son parcours de vie. Il était littéralement vrai qu’il «  allait de lieu en lieu faisant le bien  ». <a id="a162_430"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Editorial-mayo-2024-5.jpg" alt="Editorial mayo 2024-5" width="350">
@@ -183,3 +207,28 @@ Nous ne savons pas toujours ce que Dieu prévoit pour nous, nous savons seulemen
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/05/31/editorial-junio-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sebastian_Nozzi/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

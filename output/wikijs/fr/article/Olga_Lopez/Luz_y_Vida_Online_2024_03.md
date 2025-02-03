@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Avril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Éditorial Luz y Vida — Avril 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin de l'Association Urantia Espagne 
 
@@ -78,7 +99,7 @@ Dans cette présentation, qui a été offerte à l'une des rencontres des lecteu
 
 [**Travail d'équipe (Chris Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
 
-Ce court article a été publié originellement en français dans le bulletin _Le Lien Urantien_ de l'AFFLU (Association des Lecteurs Francophones du _Livre d'Urantia_). Dans cet article, l'importance du travail d'équipe est soulignée non seulement dans ce monde, mais tout au long de la carrière ascendante, comme le reflète cette citation qui dirige l'article : « L'une des leçons les plus importantes que vous devez apprendre au cours de votre carrière de mortel est le travail d'équipe. Les sphères de perfection sont habitées par ceux qui maîtrisent cet art de travailler avec d’autres êtres. Il y a peu de tâches dans l’univers pour le serviteur solitaire. Plus vous vous élevez, plus vous vous sentirez seul lorsque vous serez temporairement privé de la compagnie de vos semblables. [LU 28:5.14](/fr/The_Urantia_Book/28#p5_14) 
+Ce court article a été publié originellement en français dans le bulletin _Le Lien Urantien_ de l'AFFLU (Association des Lecteurs Francophones du _Livre d'Urantia_). Dans cet article, l'importance du travail d'équipe est soulignée non seulement dans ce monde, mais tout au long de la carrière ascendante, comme le reflète cette citation qui dirige l'article : « L'une des leçons les plus importantes que vous devez apprendre au cours de votre carrière de mortel est le travail d'équipe. Les sphères de perfection sont habitées par ceux qui maîtrisent cet art de travailler avec d’autres êtres. Il y a peu de tâches dans l’univers pour le serviteur solitaire. Plus vous vous élevez, plus vous vous sentirez seul lorsque vous serez temporairement privé de la compagnie de vos semblables. <a id="a101_786"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14) 
 <br style="clear:both;"/> 
 
 --- 
@@ -161,7 +182,7 @@ Un homme de la ville de Neguá, sur la côte colombienne, a réussi à monter ju
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Mi-parrafo-favorito-Charles-Perrotta.jpg" alt="Mi párrafo favorito-Charles Perrotta" width="250">
 </figure>
 
-Entrant à Sidon, Jésus et ses compagnons Ils traversèrent un pont, le premier que beaucoup d’entre eux avaient jamais vu. Tandis qu'ils marchaient, Jésus dit, entre autres choses : « Ce monde n'est qu'un pont ; Vous pouvez le traverser, mais vous ne devriez pas penser à y construire une habitation. [LU 156:2.1](/fr/The_Urantia_Book/156#p2_1)
+Entrant à Sidon, Jésus et ses compagnons Ils traversèrent un pont, le premier que beaucoup d’entre eux avaient jamais vu. Tandis qu'ils marchaient, Jésus dit, entre autres choses : « Ce monde n'est qu'un pont ; Vous pouvez le traverser, mais vous ne devriez pas penser à y construire une habitation. <a id="a184_300"></a>[LU 156:2.1](/fr/The_Urantia_Book/156#p2_1)
 
 Si simple et pourtant si difficile… Mais c’est l’incarnation de la foi, celle de ne pas se contenter de ce monde ni de ses valeurs matérielles ; et j'inclus dans ce dernier également des valeurs émotionnelles. Ce qui est gagné et ce qui est perdu doit être simplement accepté comme le résultat du développement normal des événements. Et pourtant, le croyant, dans sa recherche animale mais innocente, trouve ou croit trouver des réponses, ou des aperçus de ce qui est à venir. Si je parviens à garder un pied dans ce monde mais les yeux fixés sur l'autre, non seulement je respecte le conseil de Jésus et j'augmente ma foi, mais j'allège aussi les fardeaux de ce monde, rendant, principalement les pertes, beaucoup plus compréhensibles et supportables. , avec les leçons spirituelles qui en découlent. 
 <br style="clear:both;"/> 
@@ -279,3 +300,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2024/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Avril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Éditorial Luz y Vida — Avril 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

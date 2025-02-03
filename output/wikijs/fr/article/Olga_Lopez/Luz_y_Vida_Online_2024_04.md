@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -209,7 +230,7 @@ Vous conviendrez avec moi qu’il est très difficile de choisir un paragraphe. 
 
 Cependant, je vous apporte le paragraphe suivant :
 
-Les transcriptions de l’esprit mortel et les configurations actives de la mémoire des créatures, transformées du niveau matériel au niveau spirituel, sont la propriété individuelle des Ajusteurs de Pensée séparés ; Ces facteurs spiritualisés de l’esprit, de la mémoire et de la personnalité des créatures deviennent à jamais une partie de ces Ajusteurs. La matrice mentale de la créature et les potentiels passifs de son identité sont présents dans l'âme morontielle confiée aux soins des gardiens séraphiques du destin. La réunion de l’âme morontielle confiée aux séraphins et du mental spirituel confié à l’Ajusteur est ce qui rassemble la personnalité de la créature et constitue la résurrection d’un survivant endormi. [LU 47:3.3](/fr/The_Urantia_Book/47#p3_3)
+Les transcriptions de l’esprit mortel et les configurations actives de la mémoire des créatures, transformées du niveau matériel au niveau spirituel, sont la propriété individuelle des Ajusteurs de Pensée séparés ; Ces facteurs spiritualisés de l’esprit, de la mémoire et de la personnalité des créatures deviennent à jamais une partie de ces Ajusteurs. La matrice mentale de la créature et les potentiels passifs de son identité sont présents dans l'âme morontielle confiée aux soins des gardiens séraphiques du destin. La réunion de l’âme morontielle confiée aux séraphins et du mental spirituel confié à l’Ajusteur est ce qui rassemble la personnalité de la créature et constitue la résurrection d’un survivant endormi. <a id="a232_723"></a>[LU 47:3.3](/fr/The_Urantia_Book/47#p3_3)
 
 <br style="clear:both;"/>
 
@@ -381,3 +402,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2024/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_04">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

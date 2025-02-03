@@ -62,7 +62,7 @@ Monota = L'énergie vivante et non spirituelle du Paradis ; système énergétiq
 - Ta = Énergie vivante et non spirituelle
 - Monota = Système énergétique vivant non spirituel du Fils ?
 
-Mota = Niveaux élevés de perspicacité cosmique/plus qu'une philosophie supérieure — elle a un effet stéréoscopique sur les significations et les valeurs (<a id="a40_154"></a>[LU 48:7](/fr/The_Urantia_Book/48#p7)).
+Mota = Niveaux élevés de perspicacité cosmique/plus qu'une philosophie supérieure — elle a un effet stéréoscopique sur les significations et les valeurs (<a id="a64_154"></a>[LU 48:7](/fr/The_Urantia_Book/48#p7)).
 - Mo = Système, ou philosophie ?
 - Ta = Énergie vivante non spirituelle
 - Mota = Système de philosophie énergétique vivante non spirituelle ?

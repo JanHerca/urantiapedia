@@ -51,7 +51,7 @@ William Wentworth, Towamba, Nouvelle-Galles du Sud
 
 ## « Pensée du mois »
 
-> « La religion ne peut être ni conférée, ni reçue, ni prêtée, ni apprise, ni perdue. Elle est une expérience personnelle qui grandit proportionnellement à la recherche croissante des valeurs finales. » (<a id="a32_204"></a>[LU 100:1.7](/fr/The_Urantia_Book/100#p1_7))
+> « La religion ne peut être ni conférée, ni reçue, ni prêtée, ni apprise, ni perdue. Elle est une expérience personnelle qui grandit proportionnellement à la recherche croissante des valeurs finales. » (<a id="a53_204"></a>[LU 100:1.7](/fr/The_Urantia_Book/100#p1_7))
 
 
 ## Cher 6-0-6
@@ -111,7 +111,7 @@ Leith Luckett, Melbourne
 
 ## Annonce du symposium et appel à communications
 
-Le week-end du 13 au 15 mai 1988 a été fixé pour le Symposium Scientifique I, le premier des trois Symposiums Scientifiques nationaux (ou peut-être internationaux) annuels. Se tenant à Nashville, Tennessee, il proposera des présentations de scientifiques lecteurs et non lecteurs dans le but de clarifier et de mieux comprendre les descriptions et les informations contenues dans Le Livre d'URANTIA concernant les sciences naturelles, biologiques et comportementales. Le thème sera : « La vision croissante de l'homme » (<a id="a92_521"></a>[LU 118:10.13](/fr/The_Urantia_Book/118#p10_13))
+Le week-end du 13 au 15 mai 1988 a été fixé pour le Symposium Scientifique I, le premier des trois Symposiums Scientifiques nationaux (ou peut-être internationaux) annuels. Se tenant à Nashville, Tennessee, il proposera des présentations de scientifiques lecteurs et non lecteurs dans le but de clarifier et de mieux comprendre les descriptions et les informations contenues dans Le Livre d'URANTIA concernant les sciences naturelles, biologiques et comportementales. Le thème sera : « La vision croissante de l'homme » (<a id="a113_521"></a>[LU 118:10.13](/fr/The_Urantia_Book/118#p10_13))
 
 Les personnes intéressées à participer ou à assister doivent écrire : Symposium Scientifique I, P.O. Boîte 23238, Nashville, TN 37202, États-Unis. Pour être inscrit sur la liste de diffusion, envoyez simplement votre nom et votre adresse à l'adresse ci-dessus. Ceux qui souhaitent présenter des articles doivent soumettre un titre, une brève description, env. temps de présentation et une notice biographique du parcours scientifique de l'auteur.
 
@@ -124,7 +124,7 @@ La réincarnation est une réalité vécue par des millions de personnes à trav
 
 ---
 
-> « La foi emmène bien volontiers la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ. » (<a id="a105_295"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
+> « La foi emmène bien volontiers la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la VÉRITÉ. » (<a id="a126_295"></a>[LU 103:9.7](/fr/The_Urantia_Book/103#p9_7))
 
 ## Retraite spirituelle de 10 jours avec le Livre d'Urantia
 
@@ -152,7 +152,7 @@ La filiation ne peut être qu'une filiation AVEC Dieu. Il s'agit donc avant tout
 
 ## Cher 6-0-6
 
-J'étais en communion avec vous en lisant votre article « Sur notre voyage vers l'intérieur ». Grâce au Livre, nous faisons l'expérience de vivre une aventure extraordinaire. Avec vous, je dis : améliorons notre patience jusqu'à ce que nous puissions vivre pleinement notre présent, car « l'éternité est le présent éternel ». (<a id="a133_326"></a>[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1))
+J'étais en communion avec vous en lisant votre article « Sur notre voyage vers l'intérieur ». Grâce au Livre, nous faisons l'expérience de vivre une aventure extraordinaire. Avec vous, je dis : améliorons notre patience jusqu'à ce que nous puissions vivre pleinement notre présent, car « l'éternité est le présent éternel ». (<a id="a154_326"></a>[LU 118:1.1](/fr/The_Urantia_Book/118#p1_1))
 
 Jacques Dupont, Recloses, France
 

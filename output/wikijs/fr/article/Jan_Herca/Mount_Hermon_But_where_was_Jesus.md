@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Avec autant de détails qu'offre _Le Livre d'Urantia_ sur l'endroit où Jésus est resté retiré pendant six semaines, il ne pourrait pas être très difficile de localiser l'endroit et de se faire une petite idée de ce que c'est et, surtout, de ce que c'était. comme.
 
-Dans <a id="a14_3"></a>[LU 134:8](/fr/The_Urantia_Book/134#p8) (« Les années de transition »), on nous dit que Jésus et Tiglath ont construit un réservoir de pierre à un endroit situé à 2000 mètres d'altitude. On nous dit aussi que pour y monter, ils passèrent par un village connu alors sous le nom de Beit Jenn.[^1] [^2]
+Dans <a id="a30_5"></a>[LU 134:8](/fr/The_Urantia_Book/134#p8) (« Les années de transition »), on nous dit que Jésus et Tiglath ont construit un réservoir de pierre à un endroit situé à 2000 mètres d'altitude. On nous dit aussi que pour y monter, ils passèrent par un village connu alors sous le nom de Beit Jenn.[^1] [^2]
 
 Il ne m'a pas fallu longtemps pour trouver Beit Jenn sur une carte. Sur une carte générale du Liban à l'échelle 1/200 000 de l'Institut géographique national français[^3], le village, qui existe encore aujourd'hui et qui s'appelle Beït Jinn, apparaît très clairement. De plus, près du village se trouve un sommet de 2 224 mètres (mais ce n'est pas le plus haut sommet, qui culmine à 2 814 mètres). Il était facile de supposer que l'ascension de Jésus mentionnée dans le Livre d'Urantia est ce « petit » sommet. En consultant d'autres données, j'ai découvert qu'au total, depuis Beit Jenn, qui est située à 1 100 mètres d'altitude, il y avait environ 900 mètres de dénivelé jusqu'à l'endroit où ils ont construit l'entrepôt alimentaire.
 
@@ -92,18 +92,18 @@ C'est curieux mais ce livre raconte que des êtres du ciel, que le Livre d'Enoch
 
 ## Références et notes
 
-[^1] : [Voir Beit Jinn sur Google Terre](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA) : résultat de la saisie de « Beit Jinn, Syrie » dans le champ de recherche.
+[^1]: [Voir Beit Jinn sur Google Terre](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA) : résultat de la saisie de « Beit Jinn, Syrie » dans le champ de recherche.
 
-[^2] : [Informations de localisation pour Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
+[^2]: [Informations de localisation pour Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
 
-[^3] : Institut Géographique National de France, _Liban. Carte Générale au 1:200 000_.
+[^3]: Institut Géographique National de France, _Liban. Carte Générale au 1:200 000_.
 
-[^4] : [Images d'une montagne](http://www.imagenesdeisrael.com/Imagen-988.html) qui a beaucoup changé aujourd'hui.
+[^4]: [Images d'une montagne](http://www.imagenesdeisrael.com/Imagen-988.html) qui a beaucoup changé aujourd'hui.
 
-[^5] : [Le voyage intéressant de deux lecteurs enthousiastes](http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm) du _Le Livre d'Urantia_.
+[^5]: [Le voyage intéressant de deux lecteurs enthousiastes](http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm) du _Le Livre d'Urantia_.
 
-[^6] : J.J. Benítez, _Caballo de Troya 6_, Editorial Planeta, 1999.
+[^6]: J.J. Benítez, _Caballo de Troya 6_, Editorial Planeta, 1999.
 
-[^7] : Ce livre est le roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), une biographie sur le Maître basée sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
+[^7]: Ce livre est le roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), une biographie sur le Maître basée sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
 
-[^8] : _Livre 1 d'Enoch ou Enoch éthiopien_ 6 :5-8, _Traduit de « Les Apocryphes et Pseudepigrapha de l'Ancien Testament », par RH Charles [1913]_ Il y a des fragments de ce verset dans le manuscrit 4QEna et 4QEnb de Qumrân.
+[^8]: _Livre 1 d'Enoch ou Enoch éthiopien_ 6 :5-8, _Traduit de « Les Apocryphes et Pseudepigrapha de l'Ancien Testament », par RH Charles [1913]_ Il y a des fragments de ce verset dans le manuscrit 4QEna et 4QEnb de Qumrân.

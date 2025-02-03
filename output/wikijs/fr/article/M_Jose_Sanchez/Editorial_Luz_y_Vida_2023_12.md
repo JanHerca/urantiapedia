@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Sois toi-même
 
@@ -60,7 +84,7 @@ Alors, commençons…
 
 Tout semble très beau dans la naissance de Jésus, peuplée de séraphins chantant des hymnes, d'annonces faites aux femmes étonnées ou de pittoresques prêtres sages d'Ur. La naissance du héros, cependant, est toujours accompagnée de dangers et de menaces de mort. Il ne peut en être autrement : il n’y a pas d’espoir qui s’ouvre sans être tôt ou tard menacé, car il y a toujours ceux qui doutent, ceux qui ne veulent pas. Il y a toujours quelqu’un qui se bat pour que les choses restent telles qu’elles sont. Qu'il n'y ait aucun changement.
 
-> Le massacre de ces enfants eut lieu vers le milieu d’octobre de l’an 6 av. J.C., alors que Jésus était âgé d’un peu plus d’un an. Mais, même parmi les attachés à la cour d’Hérode, il y avait des gens qui croyaient à la venue du Messie, et l’un de ceux-ci, apprenant l’ordre de massacrer les enfants mâles de Bethléem, se mit en rapport avec Zacharie, qui, à son tour, envoya un messager à Joseph et, la nuit avant le massacre, Joseph et Marie quittèrent Bethléem avec l’enfant pour se rendre à Alexandrie en Égypte. Pour éviter d’attirer l’attention, ils voyagèrent seuls avec Jésus jusqu’en Égypte. Ils allèrent à Alexandrie avec les fonds procurés par Zacharie et, là, Joseph reprit son métier, tandis que Marie et Jésus logeaient chez des parents aisés de la famille de Joseph. Ils séjournèrent à Alexandrie pendant deux années entières et ne retournèrent à Bethléem qu’après la mort d’Hérode. ([LU 122:10.4](/fr/The_Urantia_Book/122#p10_4))
+> Le massacre de ces enfants eut lieu vers le milieu d’octobre de l’an 6 av. J.C., alors que Jésus était âgé d’un peu plus d’un an. Mais, même parmi les attachés à la cour d’Hérode, il y avait des gens qui croyaient à la venue du Messie, et l’un de ceux-ci, apprenant l’ordre de massacrer les enfants mâles de Bethléem, se mit en rapport avec Zacharie, qui, à son tour, envoya un messager à Joseph et, la nuit avant le massacre, Joseph et Marie quittèrent Bethléem avec l’enfant pour se rendre à Alexandrie en Égypte. Pour éviter d’attirer l’attention, ils voyagèrent seuls avec Jésus jusqu’en Égypte. Ils allèrent à Alexandrie avec les fonds procurés par Zacharie et, là, Joseph reprit son métier, tandis que Marie et Jésus logeaient chez des parents aisés de la famille de Joseph. Ils séjournèrent à Alexandrie pendant deux années entières et ne retournèrent à Bethléem qu’après la mort d’Hérode. (<a id="a86_900"></a>[LU 122:10.4](/fr/The_Urantia_Book/122#p10_4))
 
 Joseph est contraint de prendre sa mère et son jeune fils et de partir, de quitter sa propre terre, de fuir ce qu'il connaît, de se déloger et de recommencer. Mais ce n'est pas un point (comme si la partie précédente ne valait rien) : c'est une virgule, puisque Joseph doit emmener l'enfant et la mère avec lui. Il porte le passé et le futur, la tradition et le renouveau, la fidélité et la créativité. Joseph prend ces objets dans son sac à dos et part en voyage vers l’Égypte. Un grand bagage à refaire, en route vers l'inconnu.
 
@@ -82,7 +106,7 @@ Comme nous l’avons dit plus haut, la naissance d’un héros s’accompagne to
 
 Quelle tâche nous avons, nous les humains ! Être fidèle, comme Jésus, à notre propre voix intérieure, à notre enfant intérieur, face à un monde qui nous veut homogènes, matérialistes, plats. Il y a tant d’Hérode qui mettent en danger notre propre voix ! Il y a tellement d’éléments dans le monde qui nous distraient et nous font oublier qui nous sommes vraiment ! Il existe tellement de circonstances qui peuvent nous donner l’impression d’être seuls dans l’univers et impuissants !
 
-> Dans la vie terrestre de Jésus, la religion fut une expérience vivante, un mouvement direct et personnel depuis la vénération spirituelle jusqu’à la droiture pratique. La foi de Jésus porta les fruits transcendants de l’esprit divin. Sa foi n’était ni dépourvue de maturité ni crédule comme celle d’un enfant, mais, sous beaucoup de rapports, elle ressemblait à la confiance candide du mental de l’enfant. La confiance de Jésus en Dieu ressemblait beaucoup à celle d’un enfant en ses parents. Il avait une profonde confiance dans l’univers, précisément ce genre de confiance que l’enfant porte à son environnement parental. La foi sincère de Jésus dans la bonté fondamentale de l’univers ressemblait beaucoup à celle d’un enfant dans la sécurité de son entourage terrestre. Jésus dépendait du Père céleste comme un enfant s’appuie sur son père terrestre, et jamais sa foi ardente ne mit un instant en doute la certitude que le Père céleste veillait sur lui. Jésus ne fut pas sérieusement troublé par la peur, le doute ou le scepticisme. L’incroyance n’inhibait pas l’expression libre et originale de sa vie. Il conjuguait le courage solide et intelligent d’un adulte avec l’optimisme sincère et confiant d’un enfant croyant. Sa foi avait grandi jusqu’à un tel degré de confiance qu’elle était dépourvue de peur. ([LU 196:0.11](/fr/The_Urantia_Book/196#p0_11))
+> Dans la vie terrestre de Jésus, la religion fut une expérience vivante, un mouvement direct et personnel depuis la vénération spirituelle jusqu’à la droiture pratique. La foi de Jésus porta les fruits transcendants de l’esprit divin. Sa foi n’était ni dépourvue de maturité ni crédule comme celle d’un enfant, mais, sous beaucoup de rapports, elle ressemblait à la confiance candide du mental de l’enfant. La confiance de Jésus en Dieu ressemblait beaucoup à celle d’un enfant en ses parents. Il avait une profonde confiance dans l’univers, précisément ce genre de confiance que l’enfant porte à son environnement parental. La foi sincère de Jésus dans la bonté fondamentale de l’univers ressemblait beaucoup à celle d’un enfant dans la sécurité de son entourage terrestre. Jésus dépendait du Père céleste comme un enfant s’appuie sur son père terrestre, et jamais sa foi ardente ne mit un instant en doute la certitude que le Père céleste veillait sur lui. Jésus ne fut pas sérieusement troublé par la peur, le doute ou le scepticisme. L’incroyance n’inhibait pas l’expression libre et originale de sa vie. Il conjuguait le courage solide et intelligent d’un adulte avec l’optimisme sincère et confiant d’un enfant croyant. Sa foi avait grandi jusqu’à un tel degré de confiance qu’elle était dépourvue de peur. (<a id="a108_1315"></a>[LU 196:0.11](/fr/The_Urantia_Book/196#p0_11))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Editorial-01-24-4.jpg" alt="Enero 24-4" width="350">
@@ -109,7 +133,7 @@ La foi de Jésus en Dieu était sublime et sans réserve. Il a connu les hauts e
 
 Alors relevons ce défi. Essayer d’être soi-même, comme le Maître lui-même l’a fait il y a des siècles.
 
-La théologie peut fixer, formuler, définir et dogmatiser la foi, mais dans la vie humaine de Jésus, la foi était personnelle, vivante, originale, spontanée et purement spirituelle. [LU 196:0.5](/fr/The_Urantia_Book/196#p0_5)
+La théologie peut fixer, formuler, définir et dogmatiser la foi, mais dans la vie humaine de Jésus, la foi était personnelle, vivante, originale, spontanée et purement spirituelle. <a id="a135_181"></a>[LU 196:0.5](/fr/The_Urantia_Book/196#p0_5)
 
 C'est un magnifique défi pour cette nouvelle année 2024.
 
@@ -127,3 +151,28 @@ Alors allons-y !
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/12/30/editorial-enero-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

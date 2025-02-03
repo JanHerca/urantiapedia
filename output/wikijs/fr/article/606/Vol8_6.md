@@ -53,7 +53,7 @@ Kathleen Swadling, Sydney
 
 ## « Pensée du mois »
 
-> « Je suis venu dans ce monde pour faire la volonté de mon Père et pour révéler, à toute l’humanité, son caractère aimant. Cela, mes frères, c’est ma mission, et cette chose-là, je la ferai sans me soucier que mes enseignements risquent d’être mal compris par les Juifs et les Gentils de notre époque ou d’une autre génération. » (<a id="a34_332"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
+> « Je suis venu dans ce monde pour faire la volonté de mon Père et pour révéler, à toute l’humanité, son caractère aimant. Cela, mes frères, c’est ma mission, et cette chose-là, je la ferai sans me soucier que mes enseignements risquent d’être mal compris par les Juifs et les Gentils de notre époque ou d’une autre génération. » (<a id="a55_332"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
 
 ## Hsi Wang Mu — La reine du paradis occidental
 
@@ -61,11 +61,11 @@ Kathleen Swadling, Sydney
 <img src="/image/article/606/chinese2.jpg">
 </figure>
 
-> « ...les légendes chinoises primitives situent « le pays des dieux » à l’occident. » (<a id="a42_88"></a>[LU 79:7.4](/fr/The_Urantia_Book/79#p7_4))
+> « ...les légendes chinoises primitives situent « le pays des dieux » à l’occident. » (<a id="a63_88"></a>[LU 79:7.4](/fr/The_Urantia_Book/79#p7_4))
 
-> « Ils décidèrent que la Divinité était descendue sur terre sous forme corporelle, ... » (<a id="a44_91"></a>[LU 74:4.1](/fr/The_Urantia_Book/74#p4_1))
+> « Ils décidèrent que la Divinité était descendue sur terre sous forme corporelle, ... » (<a id="a65_91"></a>[LU 74:4.1](/fr/The_Urantia_Book/74#p4_1))
 
-> « ...mais, en majorité, ils étaient presque prêts à tomber à genoux et à les adorer comme des dieux. » (<a id="a46_106"></a>[LU 74:3.10](/fr/The_Urantia_Book/74#p3_10))
+> « ...mais, en majorité, ils étaient presque prêts à tomber à genoux et à les adorer comme des dieux. » (<a id="a67_106"></a>[LU 74:3.10](/fr/The_Urantia_Book/74#p3_10))
 
 Hsi Wang Mu, littéralement la Dame royale de l'Ouest ou la Reine du Ciel occidental, est un être légendaire censé habiter sur les montagnes K'un Lung (1) dans un grand et magnifique palais, entouré de vastes jardins. Les murs du palais construits en or pur ont trois cent trente milles de circonférence, avec des créneaux de pierres précieuses (2). Sa résidence était remarquable par ses beaux jardins (3), ses bâtiments de marbre et de jaspe, sa tour de neuf étages et ses ruisseaux étincelants.
 

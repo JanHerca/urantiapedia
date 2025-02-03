@@ -38,23 +38,23 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Ken Glasziou, Maleny, Queensland_
 
-Selon _Le Livre d'URANTIA_, la défaillance adamique a été plus désastreuse pour nous que la rébellion de Lucifer. La raison : nous n’avons pas réussi à améliorer nos gènes, nous avons une grave déficience des gènes de la race violette. Ceux-ci nous auraient rendus plus grands et augmenté la durée de notre vie, mais aucun de ces attributs n’a de répercussions délétères évidentes. La grande perte semble avoir été notre potentiel de croissance spirituelle (<a id="a16_458"></a>[LU 34:7.4](/fr/The_Urantia_Book/34#p7_4)).
+Selon _Le Livre d'URANTIA_, la défaillance adamique a été plus désastreuse pour nous que la rébellion de Lucifer. La raison : nous n’avons pas réussi à améliorer nos gènes, nous avons une grave déficience des gènes de la race violette. Ceux-ci nous auraient rendus plus grands et augmenté la durée de notre vie, mais aucun de ces attributs n’a de répercussions délétères évidentes. La grande perte semble avoir été notre potentiel de croissance spirituelle (<a id="a40_458"></a>[LU 34:7.4](/fr/The_Urantia_Book/34#p7_4)).
 
 Le livre nous dit que cette perte peut être au moins partiellement annulée :
 
-> « _Jésus a montré à l’humanité la nouvelle manière de vivre une vie de mortel, manière par laquelle les êtres humains peuvent échapper dans une très grande mesure aux désastreuses conséquences de la rébellion de Caligastia et compenser fort efficacement les frustrations résultant de la faute adamique._ » (<a id="a20_309"></a>[LU 34:7.6](/fr/The_Urantia_Book/34#p7_6))
+> « _Jésus a montré à l’humanité la nouvelle manière de vivre une vie de mortel, manière par laquelle les êtres humains peuvent échapper dans une très grande mesure aux désastreuses conséquences de la rébellion de Caligastia et compenser fort efficacement les frustrations résultant de la faute adamique._ » (<a id="a44_309"></a>[LU 34:7.6](/fr/The_Urantia_Book/34#p7_6))
 
 La « voie » que Jésus nous a montrée était, bien sûr, sa vie et la manière dont il vivait. Le livre nous dit :
 
-> « _« Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut._ » (<a id="a24_501"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « _« Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut._ » (<a id="a48_501"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 Apparemment, l’apôtre Philippe manquait particulièrement de spiritualité et avait besoin d’instructions supplémentaires. Après que Jésus ressuscité eut dit à Philippe qu’un jour il serait doté d’une vision spirituelle et qu’il accomplirait un grand travail, il donna à Philippe cet avertissement :
 
-> « _Entretemps, deviens comme un petit enfant dans le royaume de l’esprit et permets-moi, en tant qu’esprit du nouvel instructeur, de t’entrainer dans le royaume spirituel. De cette manière, je pourrai faire pour toi beaucoup de choses que je ne pouvais pas accomplir quand je séjournais avec toi comme mortel du royaume. »_ » (<a id="a28_329"></a>[LU 181:2.20](/fr/The_Urantia_Book/181#p2_20))
+> « _Entretemps, deviens comme un petit enfant dans le royaume de l’esprit et permets-moi, en tant qu’esprit du nouvel instructeur, de t’entrainer dans le royaume spirituel. De cette manière, je pourrai faire pour toi beaucoup de choses que je ne pouvais pas accomplir quand je séjournais avec toi comme mortel du royaume. »_ » (<a id="a52_329"></a>[LU 181:2.20](/fr/The_Urantia_Book/181#p2_20))
 
 La vision spirituelle de Philippe ne viendrait qu'après avoir reçu l'Esprit de Vérité.
 
-Depuis la Pentecôte, l’apport du don de vision spirituelle est une fonction majeure de l’Esprit de Vérité. Mais le livre nous rappelle que l'Esprit de Vérité ne nous rend pas conscient de lui-même. Au contraire, il augmente notre conscience de Jésus (<a id="a32_251"></a>[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4)). Comment pouvons-nous renforcer cette conscience ?
+Depuis la Pentecôte, l’apport du don de vision spirituelle est une fonction majeure de l’Esprit de Vérité. Mais le livre nous rappelle que l'Esprit de Vérité ne nous rend pas conscient de lui-même. Au contraire, il augmente notre conscience de Jésus (<a id="a56_251"></a>[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4)). Comment pouvons-nous renforcer cette conscience ?
 
 Un aperçu de la réponse à cette question est fourni par Charles M. Sheldon dans un livre intitulé « In His Steps » qui figure sur la liste des dix livres les plus vendus de tous les temps.
 
@@ -84,11 +84,11 @@ Qu’aurait fait Jésus ? Franchement, si de tels actes étaient réellement aut
 
 J'ai souvent réfléchi sérieusement à ce que j'aurais réellement fait à la place de Peter. Pour être honnête, je pense que si j'avais été Peter, j'aurais fait à peu près la même chose. Je me serais probablement convaincu que mon motif était le plus élevé : aider Jésus. Je n'aurais pas pu faire cela en me cachant comme un lâche parmi les oliviers. Et si je m'étais déclaré dans cette cour, j'aurais été arrêté. À quoi cela aurait-il apporté du bien ? J’ai donc fait ce qui était opportun – rien de mal à cela.
 
-Puis je vois Jésus alors qu’il est emmené. "Oh mon Dieu! Pourquoi Jésus m'a-t-il regardé ainsi ? La fin ne justifie-t-elle pas parfois les moyens ? (<a id="a62_149"></a>[LU 184:2.8](/fr/The_Urantia_Book/184#p2_8))
+Puis je vois Jésus alors qu’il est emmené. "Oh mon Dieu! Pourquoi Jésus m'a-t-il regardé ainsi ? La fin ne justifie-t-elle pas parfois les moyens ? (<a id="a86_149"></a>[LU 184:2.8](/fr/The_Urantia_Book/184#p2_8))
 
 Le livre dit :
 
-> « _Il faut un grand et noble caractère pour revenir sur ses pas et prendre le bon chemin après s’être engagé dans le mauvais. Bien trop souvent, notre propre mental tend à justifier la poursuite du sentier de l’erreur une fois que nous nous y sommes engagés._ » (<a id="a66_265"></a>[LU 184:2.12](/fr/The_Urantia_Book/184#p2_12))
+> « _Il faut un grand et noble caractère pour revenir sur ses pas et prendre le bon chemin après s’être engagé dans le mauvais. Bien trop souvent, notre propre mental tend à justifier la poursuite du sentier de l’erreur une fois que nous nous y sommes engagés._ » (<a id="a90_265"></a>[LU 184:2.12](/fr/The_Urantia_Book/184#p2_12))
 
 Il est inconcevable que l’Esprit de Vérité nous guide à adopter délibérément des moyens indignes pour atteindre un objectif. Eve a essayé et a récolté à la fois des reproches et un désastre génétique pour le reste d'entre nous. Pour cette raison, notre potentiel inhérent de croissance spirituelle et de vision spirituelle est extrêmement limité.
 

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Éditorial Luz y Vida – Septembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -182,7 +203,7 @@ Comme la plupart des lecteurs du _Livre d’Urantia_, la partie 4 est l’une de
 
 <br style="clear:both;"/>
 
-> Le Maître a fait preuve d’une grande sagesse et d’une parfaite équité dans toutes ses relations avec les apôtres et tous ses disciples. Jésus était véritablement un enseignant des hommes. Il a exercé une grande influence sur ses pairs en raison de la combinaison de force et de charme de sa personnalité. De sa vie dure, nomade et sans abri émanait une attitude subtile de commandement. Il y avait un attrait intellectuel et une puissance spirituelle dans l’autorité de son enseignement, dans sa logique lucide, dans la force de son raisonnement, dans sa vision intérieure perspicace, dans son esprit alerte, dans son équilibre incomparable et dans sa sublime tolérance. Il était simple, viril, honnête et intrépide. A toute cette influence physique et intellectuelle évidente dans la présence du Maître, s'ajoutaient tous les charmes spirituels qui ont été associés à sa personnalité : la patience, la tendresse, la douceur, la douceur et l'humilité. [LU 141:3.4](/fr/The_Urantia_Book/141#p3_4)
+> Le Maître a fait preuve d’une grande sagesse et d’une parfaite équité dans toutes ses relations avec les apôtres et tous ses disciples. Jésus était véritablement un enseignant des hommes. Il a exercé une grande influence sur ses pairs en raison de la combinaison de force et de charme de sa personnalité. De sa vie dure, nomade et sans abri émanait une attitude subtile de commandement. Il y avait un attrait intellectuel et une puissance spirituelle dans l’autorité de son enseignement, dans sa logique lucide, dans la force de son raisonnement, dans sa vision intérieure perspicace, dans son esprit alerte, dans son équilibre incomparable et dans sa sublime tolérance. Il était simple, viril, honnête et intrépide. A toute cette influence physique et intellectuelle évidente dans la présence du Maître, s'ajoutaient tous les charmes spirituels qui ont été associés à sa personnalité : la patience, la tendresse, la douceur, la douceur et l'humilité. <a id="a205_954"></a>[LU 141:3.4](/fr/The_Urantia_Book/141#p3_4)
 
 [Lire la suite](/fr/article/Mayra_Moreno/Mi_parrafo_favorito)
 
@@ -251,3 +272,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2023/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_08">
+          <span class="pr-2">Éditorial Luz y Vida – Septembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

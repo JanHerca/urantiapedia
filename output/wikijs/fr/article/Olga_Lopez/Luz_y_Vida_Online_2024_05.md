@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Éditorial Luz y Vida – Juin 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Association Urantia d'Espagne Newsletter
@@ -192,7 +213,7 @@ L’enjeu était certainement très fort pour lui. Je jurerais qu’il s’est e
 
 <br style="clear:both;"/>
 
-Ce n'était pas une tâche facile pour moi de décider d'un seul paragraphe préféré du _Livre d'Urantia_. Ce livre est tellement plein de sagesse et de paragraphes inspirants ! Cependant, après avoir pensé, réfléchi et surtout demandé une réponse au Père, j'ai réalisé qu'il y a une histoire à laquelle je reviens encore et encore. Cette histoire ne manque jamais de me remplir de satisfaction, d'inspiration et d'espoir. Et c’est celle du « jeune homme qui avait peur » ([LU 130:6](/fr/The_Urantia_Book/130#p6)). Cette interaction a lieu, rappelons-le, alors que Jésus est « en route pour Rome » ([doc. 130](/fr/The_Urantia_Book/130)), avant son œuvre publique, et illustre l’une des nombreuses fois où il « fit du bien » « en passant » ([LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)).
+Ce n'était pas une tâche facile pour moi de décider d'un seul paragraphe préféré du _Livre d'Urantia_. Ce livre est tellement plein de sagesse et de paragraphes inspirants ! Cependant, après avoir pensé, réfléchi et surtout demandé une réponse au Père, j'ai réalisé qu'il y a une histoire à laquelle je reviens encore et encore. Cette histoire ne manque jamais de me remplir de satisfaction, d'inspiration et d'espoir. Et c’est celle du « jeune homme qui avait peur » (<a id="a215_469"></a>[LU 130:6](/fr/The_Urantia_Book/130#p6)). Cette interaction a lieu, rappelons-le, alors que Jésus est « en route pour Rome » ([doc. 130](/fr/The_Urantia_Book/130)), avant son œuvre publique, et illustre l’une des nombreuses fois où il « fit du bien » « en passant » (<a id="a215_736"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)).
 
 Puisque je dois choisir _un_ paragraphe, permettez-moi de partager le premier dans lequel Jésus commence à aider le jeune homme avec ses paroles pleines d'espoir :
 
@@ -254,3 +275,24 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article de la revue « Luz y Vida Online »](https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2024/)
 - [Index de la revue « Luz y Vida » En ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juin 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_05">
+          <span class="pr-2">Éditorial Luz y Vida – Juin 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Luis-Alfonso-Rojas.jpg" alt="Luis Alfonso Rojas" width="350">
@@ -33,9 +54,9 @@ C'était un processus graduel. Depuis la lecture du Prologue, j’ai senti ma cu
 
 ## 4. Comment _Le Livre d’Urantia_ a-t-il changé votre vie ?
 
-Ce fut un changement progressif, dans lequel je suis passé lentement de la connaissance et de la raison intellectuelle à l’expérience personnelle de la vie intérieure. Je voudrais souligner quelques aspects. La découverte que le commandement «  Soyez parfaits comme je suis parfait  » est la raison du plan divin ([LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)); que Dieu est amour; que l’harmonisation avec l’Ajusteur de Pensée est le grand but de l’existence humaine ([LU 110:3.4](/fr/The_Urantia_Book/110#p3_4)); que Dieu est la plus grande expérience de l'existence humaine et que la poursuite de Dieu est le don illimité et sans fin de l'amour ([LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)), ont donné un but, un sens et un accomplissement à ma vie.
+Ce fut un changement progressif, dans lequel je suis passé lentement de la connaissance et de la raison intellectuelle à l’expérience personnelle de la vie intérieure. Je voudrais souligner quelques aspects. La découverte que le commandement «  Soyez parfaits comme je suis parfait  » est la raison du plan divin (<a id="a56_314"></a>[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3)); que Dieu est amour; que l’harmonisation avec l’Ajusteur de Pensée est le grand but de l’existence humaine (<a id="a56_463"></a>[LU 110:3.4](/fr/The_Urantia_Book/110#p3_4)); que Dieu est la plus grande expérience de l'existence humaine et que la poursuite de Dieu est le don illimité et sans fin de l'amour (<a id="a56_643"></a>[LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)), ont donné un but, un sens et un accomplissement à ma vie.
 
-Le livre m’a fourni des techniques et des outils de croissance de la vie intérieure. Découvrir que l’imperfection fait partie du plan divin, que la divinité se manifeste imparfaitement à travers l’imperfection humaine, m’a aidé à élever la valeur de notre nature humaine. Comprendre que les incertitudes et les inévitables vicissitudes (Doc. 3:5) sont la meilleure école de la vie m’a motivé à vivre chaque expérience quotidienne avec plus d’enthousiasme. Les déclarations philosophiques avec lesquelles commence le développement de la particule morontielle (Doc. 48.7) m’ont inspiré à mieux comprendre qui nous sommes et de nouvelles significations de la vie humaine. Les techniques pour préparer le terrain essentiel au développement ([LU 100:1.5](/fr/The_Urantia_Book/100#p1_5)) et les habitudes religieuses ([LU 100:1.7](/fr/The_Urantia_Book/100#p1_7)) facilitent ma disposition à la croissance spirituelle.
+Le livre m’a fourni des techniques et des outils de croissance de la vie intérieure. Découvrir que l’imperfection fait partie du plan divin, que la divinité se manifeste imparfaitement à travers l’imperfection humaine, m’a aidé à élever la valeur de notre nature humaine. Comprendre que les incertitudes et les inévitables vicissitudes (Doc. 3:5) sont la meilleure école de la vie m’a motivé à vivre chaque expérience quotidienne avec plus d’enthousiasme. Les déclarations philosophiques avec lesquelles commence le développement de la particule morontielle (Doc. 48.7) m’ont inspiré à mieux comprendre qui nous sommes et de nouvelles significations de la vie humaine. Les techniques pour préparer le terrain essentiel au développement (<a id="a58_737"></a>[LU 100:1.5](/fr/The_Urantia_Book/100#p1_5)) et les habitudes religieuses (<a id="a58_812"></a>[LU 100:1.7](/fr/The_Urantia_Book/100#p1_7)) facilitent ma disposition à la croissance spirituelle.
 
 La connaissance de la vie de Jésus m'a permis de comprendre la révélation du Père à l'homme et de commencer à expérimenter la compréhension de la réalisation de soi, à travers la prière, l'adoration et l'amour du prochain.
 
@@ -80,3 +101,25 @@ Merci beaucoup!
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/04/29/proyecto-de-comision-para-estudios-monograficos/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Naviguer dans la vie : Sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-1.jpg" alt="Editorial oct 24 -1" width="350">
@@ -39,7 +63,7 @@ On raconte qu'on a demandé au Maître : «  Qu'est-ce que la spiritualité ?  �
 
 _Le Livre d'Urantia_ exalte précisément cette transformation intérieure dès le début du livre :
 
-> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. ([LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. (<a id="a65_660"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-2.jpg" alt="Editorial oct 24 -2" width="350">
@@ -52,7 +76,7 @@ Cette manière frappante de la Divinité de révéler ses plans, sans utiliser l
 Le même livre met en évidence ce désir divin de communication, cet effort de se révéler avec une multitude de ressources :
 <br style="clear:both;"/>
 
-> Notre Père ne se cache pas, il ne vit pas dans une solitude arbitraire. Il a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. Il y a une grandeur infinie et une générosité inexprimable liées à la majesté de son amour qui cause en lui l’ardent désir de voir s’associer à lui toute créature capable de le comprendre, de l’aimer ou de l’approcher. Ce sont donc les limitations inhérentes à vous, inséparables de votre personnalité finie et de votre existence matérielle, qui déterminent l’heure, le lieu et les circonstances où vous pourrez atteindre le but du voyage de l’ascension des mortels et vous tenir en présence du Père au centre de toutes choses. ([LU 5:1.2](/fr/The_Urantia_Book/5#p1_2))
+> Notre Père ne se cache pas, il ne vit pas dans une solitude arbitraire. Il a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. Il y a une grandeur infinie et une générosité inexprimable liées à la majesté de son amour qui cause en lui l’ardent désir de voir s’associer à lui toute créature capable de le comprendre, de l’aimer ou de l’approcher. Ce sont donc les limitations inhérentes à vous, inséparables de votre personnalité finie et de votre existence matérielle, qui déterminent l’heure, le lieu et les circonstances où vous pourrez atteindre le but du voyage de l’ascension des mortels et vous tenir en présence du Père au centre de toutes choses. (<a id="a78_733"></a>[LU 5:1.2](/fr/The_Urantia_Book/5#p1_2))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-3.jpg" alt="Editorial oct 24 -3" width="350">
@@ -65,7 +89,7 @@ Le même livre met en évidence ce désir divin de communication, cet effort de 
 Les révélateurs savent que cette communication inhabituelle sera possible non seulement grâce au contenu du livre, mais aussi grâce à la présence intérieure d’une étincelle divine. C'est là que réside la clé pour comprendre le texte :
 <br style="clear:both;"/>
 
-> Bien que, pour vous approcher de la présence du Père au Paradis, il vous faille attendre d’avoir atteint les niveaux finis les plus élevés de progrès en esprit, vous devriez vous réjouir en reconnaissant la possibilité toujours présente de communier immédiatement avec l’esprit effusé du Père, qui est si intimement associé à votre âme intérieure et à votre moi en cours de spiritualisation. ([LU 5:1.3](/fr/The_Urantia_Book/5#p1_3))
+> Bien que, pour vous approcher de la présence du Père au Paradis, il vous faille attendre d’avoir atteint les niveaux finis les plus élevés de progrès en esprit, vous devriez vous réjouir en reconnaissant la possibilité toujours présente de communier immédiatement avec l’esprit effusé du Père, qui est si intimement associé à votre âme intérieure et à votre moi en cours de spiritualisation. (<a id="a91_395"></a>[LU 5:1.3](/fr/The_Urantia_Book/5#p1_3))
 
 Le texte publié il y a 69 ans est une porte qui, une fois ouverte, nous fait réaliser que c'est un instrument qui nous amène à découvrir que la chose la plus importante de toutes est l'AMOUR. Un élément simple, le livre. Une leçon extraordinaire, la rencontre personnelle avec le Dieu aimant de Jésus de Nazareth.
 
@@ -104,3 +128,28 @@ Lorsque le maître zen atteignit l'illumination, il écrivit ce qui suit pour le
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/editorial-octubre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mario_Alonso_Puig/Navegando_por_la_vida_La_serenidad">
+          <span class="pr-2">Naviguer dans la vie : Sérénité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

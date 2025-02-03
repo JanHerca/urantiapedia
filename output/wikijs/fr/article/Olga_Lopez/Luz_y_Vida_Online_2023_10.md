@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Éditorial Luz y Vida – Novembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -184,9 +205,9 @@ Naturellement, il avait perdu la vue pour toujours. Mais comme son visage est de
 
 **L'héritage difficile que le Maître nous a laissé**
 
-**Œil pour œil**, dent pour dent, vie pour vie… est l’attitude vengeresse de représailles que la société a adoptée dans les temps primitifs et que toutes les tribus en voie d’évolution ont suivie [LU 70:10.9](/fr/The_Urantia_Book/70#p10_9) (Cf %%0% %). Bien plus tard, cette reconnaissance fut mise par écrit et considérée comme la loi de Moïse.
+**Œil pour œil**, dent pour dent, vie pour vie… est l’attitude vengeresse de représailles que la société a adoptée dans les temps primitifs et que toutes les tribus en voie d’évolution ont suivie <a id="a207_196"></a>[LU 70:10.9](/fr/The_Urantia_Book/70#p10_9) (Cf %%0% %). Bien plus tard, cette reconnaissance fut mise par écrit et considérée comme la loi de Moïse.
 
-La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf [LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » ([LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles  » ([LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » ([LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
+La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf <a id="a209_160"></a>[LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » (<a id="a209_306"></a>[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles  » (<a id="a209_507"></a>[LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » (<a id="a209_653"></a>[LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
 <br style="clear:both;"/>
 
 [Lire la suite](/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
@@ -267,3 +288,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2023/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Éditorial Luz y Vida – Novembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

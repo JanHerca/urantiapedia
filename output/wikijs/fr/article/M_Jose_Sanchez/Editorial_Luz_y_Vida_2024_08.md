@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Autres livres sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-6.jpg" alt="Editorial sep 24-6" width="350">
@@ -40,7 +64,7 @@ Nous sommes également de retour avec les «  Entretiens sur Urantian  ». Nous 
 
 Des textes, des paroles, des réflexions… qui peuvent nous aider à voir le monde sous un jour plus élevé, avec un sens plus profond, comme Jésus l’a fait avec ses paraboles. Regardons cette histoire bien connue mais inspirante que Jésus a racontée à propos d’un homme bon :
 
-> « « Un homme de bien, qui possédait une propriété, planta un vignoble. Il l’entoura d’une haie, creusa une fosse pour le pressoir et construisit une tour de guet pour les gardes. Puis il donna son vignoble en location et partit pour un long voyage dans un pays étranger. Quand la saison des vendanges approcha, il envoya des serviteurs aux locataires pour percevoir son fermage. Mais, après s’être concertés, les fermiers refusèrent de donner à ces serviteurs les revenus qu’ils devaient à leur maitre ; au lieu de cela, ils attaquèrent les serviteurs, frappèrent l’un, lapidèrent le deuxième et renvoyèrent les autres les mains vides. Lorsque le propriétaire eut vent de l’histoire, il envoya d’autres serviteurs plus surs pour régler la question avec ces méchants locataires ; mais ceux-ci blessèrent les nouveaux serviteurs et les traitèrent honteusement. Alors, le propriétaire envoya son serviteur favori, son intendant, et les locataires le tuèrent. Pourtant patient et longanime, le propriétaire envoya beaucoup d’autres serviteurs, mais les locataires ne voulurent en recevoir aucun ; ils frappèrent les uns et tuèrent les autres. Quand le propriétaire eut été ainsi traité, il décida d’envoyer son fils vers ces locataires ingrats en se disant : ‘Ils peuvent maltraiter mes serviteurs, mais ils montreront certainement du respect pour mon fils bienaimé.’ Mais, en voyant venir le fils, les mauvais locataires impénitents tinrent entre eux le raisonnement suivant : ‘Celui-ci est l’héritier. Allons, tuons-le, et, alors, l’héritage nous appartiendra.’ Ainsi donc, ils s’emparèrent de lui, le jetèrent hors du vignoble et le tuèrent. Quand le maitre de ce vignoble apprendra qu’ils ont rejeté et tué son fils, que fera-t-il à ces locataires ingrats et méchants ? » » ([LU 173:4.2](/fr/The_Urantia_Book/173#p4_2))
+> « « Un homme de bien, qui possédait une propriété, planta un vignoble. Il l’entoura d’une haie, creusa une fosse pour le pressoir et construisit une tour de guet pour les gardes. Puis il donna son vignoble en location et partit pour un long voyage dans un pays étranger. Quand la saison des vendanges approcha, il envoya des serviteurs aux locataires pour percevoir son fermage. Mais, après s’être concertés, les fermiers refusèrent de donner à ces serviteurs les revenus qu’ils devaient à leur maitre ; au lieu de cela, ils attaquèrent les serviteurs, frappèrent l’un, lapidèrent le deuxième et renvoyèrent les autres les mains vides. Lorsque le propriétaire eut vent de l’histoire, il envoya d’autres serviteurs plus surs pour régler la question avec ces méchants locataires ; mais ceux-ci blessèrent les nouveaux serviteurs et les traitèrent honteusement. Alors, le propriétaire envoya son serviteur favori, son intendant, et les locataires le tuèrent. Pourtant patient et longanime, le propriétaire envoya beaucoup d’autres serviteurs, mais les locataires ne voulurent en recevoir aucun ; ils frappèrent les uns et tuèrent les autres. Quand le propriétaire eut été ainsi traité, il décida d’envoyer son fils vers ces locataires ingrats en se disant : ‘Ils peuvent maltraiter mes serviteurs, mais ils montreront certainement du respect pour mon fils bienaimé.’ Mais, en voyant venir le fils, les mauvais locataires impénitents tinrent entre eux le raisonnement suivant : ‘Celui-ci est l’héritier. Allons, tuons-le, et, alors, l’héritage nous appartiendra.’ Ainsi donc, ils s’emparèrent de lui, le jetèrent hors du vignoble et le tuèrent. Quand le maitre de ce vignoble apprendra qu’ils ont rejeté et tué son fils, que fera-t-il à ces locataires ingrats et méchants ? » » (<a id="a66_1777"></a>[LU 173:4.2](/fr/The_Urantia_Book/173#p4_2))
 
 Lorsque ces vignerons rebelles et méchants virent le fils, ils se dirent les uns aux autres : «  Celui-ci est l’héritier. « Allez, tuons-le et l’héritage sera à nous.  » Alors ils s'emparèrent de lui, le jetèrent hors de la vigne et le tuèrent. Lorsque le propriétaire de cette vigne apprendra que son fils a été rejeté et tué, que fera-t-il de ces vignerons méchants et ingrats ?
 
@@ -100,7 +124,7 @@ Frankl a incorporé ce qu'il avait appris au _Lager_ dans son travail de psychia
 Frankl, à son tour, aurait été d’accord avec les déclarations que nous lisons dans le livre sur le caractère inévitable de la vie sur Terre. Rafraîchissons ce texte en rappelant quelques-uns d'entre eux :
 <br style="clear:both;"/>
 
-> Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d’une créature évolutionnaire est assaillie par certaines *inévitabilités,* dont voici des exemples : ([LU 3:5.5](/fr/The_Urantia_Book/3#p5_5))
+> Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. Toute vie d’une créature évolutionnaire est assaillie par certaines *inévitabilités,* dont voici des exemples : (<a id="a126_262"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5))
 
 Tenez compte des éléments suivants :
 
@@ -120,13 +144,13 @@ L'être humain qui connaît le _pourquoi_ de son existence sera capable de suppo
 
 Jésus meurt sur la croix, et il le fait avec la sérénité et l’amour sans précédent d’une vie consacrée à un projet immense qui englobe des âges infinis et des univers éternels.
 
-> En ce qui concerne l’enrichissement de l’expérience humaine et l’élargissement de la voie du salut, relativement à la mort de Jésus, la grande chose n’est pas le *fait* de sa mort, mais plutôt le comportement superbe et l’esprit incomparable avec lesquels il fit face à la mort. ([LU 188:4.12](/fr/The_Urantia_Book/188#p4_12))
+> En ce qui concerne l’enrichissement de l’expérience humaine et l’élargissement de la voie du salut, relativement à la mort de Jésus, la grande chose n’est pas le *fait* de sa mort, mais plutôt le comportement superbe et l’esprit incomparable avec lesquels il fit face à la mort. (<a id="a146_282"></a>[LU 188:4.12](/fr/The_Urantia_Book/188#p4_12))
 
-> La croix montre pour toujours que l’attitude de Jésus envers les pécheurs n’était ni une condamnation ni une indulgence, mais plutôt la recherche éternelle et aimante de leur salut. Jésus est vraiment un sauveur en ce sens que sa vie et sa mort gagnent bel et bien les hommes à la bonté et à une survie dans la droiture. Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. La mort de Jésus sur la croix donne l’exemple d’un amour suffisamment fort et divin pour pardonner les péchés et engloutir toute malfaisance. Jésus révéla à ce monde une qualité de droiture supérieure à la justice — simple technique du bien et du mal. L’amour divin ne se borne pas à pardonner les torts ; il les absorbe et les détruit réellement. Le pardon de l’amour transcende de loin le pardon de la miséricorde. La miséricorde met de côté la culpabilité du méfait, mais l’amour détruit définitivement le péché et toutes les faiblesses qui en résultent. Jésus apporta une nouvelle manière de vivre sur Urantia. Il ne nous enseigna pas à résister au mal, mais à trouver à travers lui, Jésus, une bonté qui détruit efficacement le mal. Le pardon de Jésus n’est pas une indulgence ; il sauve de la condamnation. Le salut ne minimise pas les torts, *il les redresse.* Le véritable amour ne comporte ni compromis avec la haine ni indulgence pour elle ; il la détruit. L’amour de Jésus ne se satisfait jamais du simple pardon. L’amour du Maitre implique la réhabilitation, la survie éternelle. Il est parfaitement correct de qualifier le salut de rédemption si l’on veut parler de cette réhabilitation éternelle. ([LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
+> La croix montre pour toujours que l’attitude de Jésus envers les pécheurs n’était ni une condamnation ni une indulgence, mais plutôt la recherche éternelle et aimante de leur salut. Jésus est vraiment un sauveur en ce sens que sa vie et sa mort gagnent bel et bien les hommes à la bonté et à une survie dans la droiture. Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. La mort de Jésus sur la croix donne l’exemple d’un amour suffisamment fort et divin pour pardonner les péchés et engloutir toute malfaisance. Jésus révéla à ce monde une qualité de droiture supérieure à la justice — simple technique du bien et du mal. L’amour divin ne se borne pas à pardonner les torts ; il les absorbe et les détruit réellement. Le pardon de l’amour transcende de loin le pardon de la miséricorde. La miséricorde met de côté la culpabilité du méfait, mais l’amour détruit définitivement le péché et toutes les faiblesses qui en résultent. Jésus apporta une nouvelle manière de vivre sur Urantia. Il ne nous enseigna pas à résister au mal, mais à trouver à travers lui, Jésus, une bonté qui détruit efficacement le mal. Le pardon de Jésus n’est pas une indulgence ; il sauve de la condamnation. Le salut ne minimise pas les torts, *il les redresse.* Le véritable amour ne comporte ni compromis avec la haine ni indulgence pour elle ; il la détruit. L’amour de Jésus ne se satisfait jamais du simple pardon. L’amour du Maitre implique la réhabilitation, la survie éternelle. Il est parfaitement correct de qualifier le salut de rédemption si l’on veut parler de cette réhabilitation éternelle. (<a id="a148_1688"></a>[LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
 
 Quelle magnifique attitude de Jésus face à la vie, quelle signification surprenante avait sa mort ! Puissions-nous savoir cultiver notre esprit, faire grandir notre vigne, trouver la pierre angulaire sur laquelle bâtir une vie pleine de sens, comme notre Maître l'a si admirablement vécue. Et voilà, un jour de plus. Soyons ces agriculteurs intelligents et bons, capables de transformer le monde, d'améliorer le «  vignoble  », de le faire en collaborant avec notre bon «  patron  ».
 
-> « Vous devriez cesser de craindre que Dieu punisse une nation pour le péché d’un individu. Le Père qui est aux cieux ne punira pas non plus un de ses enfants croyants pour les péchés d’une nation, bien qu’un membre individuel d’une famille doive souvent supporter les conséquences matérielles des fautes familiales et des transgressions collectives. Ne saisissez-vous pas que l’espoir d’une nation meilleure — ou d’un monde meilleur — est lié au progrès et à l’éclairement de l’individu ? » ([LU 145:2.8](/fr/The_Urantia_Book/145#p2_8))
+> « Vous devriez cesser de craindre que Dieu punisse une nation pour le péché d’un individu. Le Père qui est aux cieux ne punira pas non plus un de ses enfants croyants pour les péchés d’une nation, bien qu’un membre individuel d’une famille doive souvent supporter les conséquences matérielles des fautes familiales et des transgressions collectives. Ne saisissez-vous pas que l’espoir d’une nation meilleure — ou d’un monde meilleur — est lié au progrès et à l’éclairement de l’individu ? » (<a id="a152_494"></a>[LU 145:2.8](/fr/The_Urantia_Book/145#p2_8))
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
@@ -143,3 +167,28 @@ Quelle magnifique attitude de Jésus face à la vie, quelle signification surpre
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/08/29/editorial-septiembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Romualdo_Soler_Gonzalez/Otros_libros_de_crecimiento_espiritual">
+          <span class="pr-2">Autres livres sur la croissance spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

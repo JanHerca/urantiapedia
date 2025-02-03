@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Maître du bonheur
 
@@ -72,20 +96,20 @@ si haut, sans se balancer.
 
 Imaginons cette scène de la vie de Jésus, survenue quelques jours avant la Pâque à Jérusalem, au cours de laquelle il mourut :
 
-Six jours avant Pâque, le soir après le sabbat, toute la ville de Béthanie et tout Bethphagé se rassemblèrent pour célébrer l'arrivée de Jésus par un banquet public chez Simon. Ce dîner en l’honneur de Jésus et de Lazare était un véritable défi pour le Sanhédrin. [LU 172:1.2](/fr/The_Urantia_Book/172#p1_2)
+Six jours avant Pâque, le soir après le sabbat, toute la ville de Béthanie et tout Bethphagé se rassemblèrent pour célébrer l'arrivée de Jésus par un banquet public chez Simon. Ce dîner en l’honneur de Jésus et de Lazare était un véritable défi pour le Sanhédrin. <a id="a98_264"></a>[LU 172:1.2](/fr/The_Urantia_Book/172#p1_2)
 
-L'atmosphère du banquet était joyeuse et normale, sauf que tous les apôtres étaient plus sérieux que d'habitude. Jésus était exceptionnellement heureux et avait joué avec les enfants jusqu’au moment de s’asseoir à table. [LU 172:1.4](/fr/The_Urantia_Book/172#p1_4)
+L'atmosphère du banquet était joyeuse et normale, sauf que tous les apôtres étaient plus sérieux que d'habitude. Jésus était exceptionnellement heureux et avait joué avec les enfants jusqu’au moment de s’asseoir à table. <a id="a100_221"></a>[LU 172:1.4](/fr/The_Urantia_Book/172#p1_4)
 
-Rien d'extraordinaire ne se produisit jusqu'à la fin du festin, lorsque Marie, la sœur de Lazare, sortit du groupe de spectatrices, se dirigea vers la place d'honneur où Jésus était couché et ouvrit un grand vase d'albâtre contenant une pommade très rare et chère. Après avoir oint la tête du Maître, elle commença à en verser sur ses pieds et laissa tomber ses cheveux pour les sécher avec. L’odeur du parfum se répandit dans toute la maison, et tous ceux qui étaient présents furent étonnés de ce qu’avait fait Marie (…) Judas Iscariote s’approcha de l’endroit où André était couché et dit : « Pourquoi ce parfum n’a-t-il pas été vendu et pourquoi n’a-t-il pas été vendu ? utilisé l'argent pour nourrir les pauvres ? Vous devriez dire au Maître de condamner ce gaspillage. [LU 172:1.5](/fr/The_Urantia_Book/172#p1_5)
+Rien d'extraordinaire ne se produisit jusqu'à la fin du festin, lorsque Marie, la sœur de Lazare, sortit du groupe de spectatrices, se dirigea vers la place d'honneur où Jésus était couché et ouvrit un grand vase d'albâtre contenant une pommade très rare et chère. Après avoir oint la tête du Maître, elle commença à en verser sur ses pieds et laissa tomber ses cheveux pour les sécher avec. L’odeur du parfum se répandit dans toute la maison, et tous ceux qui étaient présents furent étonnés de ce qu’avait fait Marie (…) Judas Iscariote s’approcha de l’endroit où André était couché et dit : « Pourquoi ce parfum n’a-t-il pas été vendu et pourquoi n’a-t-il pas été vendu ? utilisé l'argent pour nourrir les pauvres ? Vous devriez dire au Maître de condamner ce gaspillage. <a id="a102_775"></a>[LU 172:1.5](/fr/The_Urantia_Book/172#p1_5)
 <br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-2.jpg" alt="Editorial mayo 2024-2" width="350">
 </figure>
 
-Jésus, sachant ce qu'ils pensaient et entendant ce qu'ils disaient, posa sa main sur la tête de Marie qui s'agenouillait à côté de lui et dit avec une expression douce : « Laissez-la tranquille, tous. Pourquoi l'embêtes-tu à ce sujet alors qu'elle a fait quelque chose de bien selon son cœur ? A vous qui murmurez et dites que ce parfum aurait dû être vendu et l'argent donné aux pauvres, je dirai que vous aurez toujours les pauvres avec vous et que vous pourrez les aider chaque fois que cela vous semblera bon, mais vous ne les aiderez pas toujours. aie moi; J'irai bientôt vers mon Père. Cette femme a gardé longtemps cet onguent pour mon corps le jour de mon enterrement, et s'il lui semble bon maintenant de m'oindre en prévision de ma mort, elle ne se verra pas refuser cette satisfaction. En faisant cela, Marie vous a donné à tous une leçon parce qu’elle manifeste sa foi en ce que j’ai dit au sujet de ma mort et de mon ascension vers mon Père céleste. [LU 172:1.6](/fr/The_Urantia_Book/172#p1_6)
+Jésus, sachant ce qu'ils pensaient et entendant ce qu'ils disaient, posa sa main sur la tête de Marie qui s'agenouillait à côté de lui et dit avec une expression douce : « Laissez-la tranquille, tous. Pourquoi l'embêtes-tu à ce sujet alors qu'elle a fait quelque chose de bien selon son cœur ? A vous qui murmurez et dites que ce parfum aurait dû être vendu et l'argent donné aux pauvres, je dirai que vous aurez toujours les pauvres avec vous et que vous pourrez les aider chaque fois que cela vous semblera bon, mais vous ne les aiderez pas toujours. aie moi; J'irai bientôt vers mon Père. Cette femme a gardé longtemps cet onguent pour mon corps le jour de mon enterrement, et s'il lui semble bon maintenant de m'oindre en prévision de ma mort, elle ne se verra pas refuser cette satisfaction. En faisant cela, Marie vous a donné à tous une leçon parce qu’elle manifeste sa foi en ce que j’ai dit au sujet de ma mort et de mon ascension vers mon Père céleste. <a id="a109_963"></a>[LU 172:1.6](/fr/The_Urantia_Book/172#p1_6)
 
-Cette réprimande, qu’il prit comme une réprimande personnelle, poussa certainement Judas Iscariote à chercher à se venger de ses sentiments blessés. Ce genre de pensées avait traversé son subconscient à de nombreuses reprises, mais maintenant il osait considérer consciemment et ouvertement ces mauvaises pensées. Et son attitude fut renforcée par les critiques de beaucoup, étant donné que le prix de cette pommade équivalait à ce qu'un homme gagnait en un an (de quoi fournir du pain à cinq mille personnes). [LU 172:1.7](/fr/The_Urantia_Book/172#p1_7)
+Cette réprimande, qu’il prit comme une réprimande personnelle, poussa certainement Judas Iscariote à chercher à se venger de ses sentiments blessés. Ce genre de pensées avait traversé son subconscient à de nombreuses reprises, mais maintenant il osait considérer consciemment et ouvertement ces mauvaises pensées. Et son attitude fut renforcée par les critiques de beaucoup, étant donné que le prix de cette pommade équivalait à ce qu'un homme gagnait en un an (de quoi fournir du pain à cinq mille personnes). <a id="a111_511"></a>[LU 172:1.7](/fr/The_Urantia_Book/172#p1_7)
 
 Cette belle histoire nous montre de nombreux aspects intéressants : la bonté, la joie et l’attitude insouciante de Jésus face à une situation dangereuse et hostile ; l'amour sans bornes de son amie Maria qui se prosterne à ses pieds et lui offre le parfum exquis du nard ; la bassesse de ses vues, la critique acerbe d'un «  ami  » comme l'apôtre Judas et son désir de vengeance, qui nous montre qu'il ne savait pas donner de l'amour et de la considération aux autres, bien qu'il ait été avec le Maître pendant si longtemps . .
 
@@ -116,7 +140,7 @@ Et avec amour ? Eh bien, avec l'amour, les choses ne sont pas faciles non plus, 
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Editorial-mayo-24-1.jpg" alt="Editorial mayo 2024-1" width="350">
 </figure>
 
-Quel réveil le monde connaîtrait s’il pouvait seulement voir Jésus tel qu’il a réellement vécu sur terre et apprendre de première main ses enseignements vivifiants ! Les mots décrivant de belles choses ne peuvent pas susciter autant d’émotion que la vue de ces choses, et les mots d’un credo ne peuvent pas non plus inspirer les âmes des hommes comme le fait l’expérience de connaître la présence de Dieu. [LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)
+Quel réveil le monde connaîtrait s’il pouvait seulement voir Jésus tel qu’il a réellement vécu sur terre et apprendre de première main ses enseignements vivifiants ! Les mots décrivant de belles choses ne peuvent pas susciter autant d’émotion que la vue de ces choses, et les mots d’un credo ne peuvent pas non plus inspirer les âmes des hommes comme le fait l’expérience de connaître la présence de Dieu. <a id="a142_406"></a>[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)
 
 C’est là que réside le véritable conflit, la raison de notre espoir : dans la capacité de rêver d’un monde où l’amour s’instaure, où l’espoir devient réel, et dans la décision de passer du rêve à la réalisation de ce rêve. Dans la détermination de vivre, comme Anne et Etty, pour les autres et pour l’espoir. Dans la volonté de choisir un chemin surprenant, incompréhensible pour certains (comme cela est arrivé à Judas) et admirable pour d’autres : le chemin de l’amour inconditionnel, le chemin du Maître, le chemin du bonheur authentique. C’est là notre défi : devenir nous aussi maîtres du bonheur.
 
@@ -127,3 +151,28 @@ C’est là que réside le véritable conflit, la raison de notre espoir : dans 
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/04/29/editorial-mayo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mai 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

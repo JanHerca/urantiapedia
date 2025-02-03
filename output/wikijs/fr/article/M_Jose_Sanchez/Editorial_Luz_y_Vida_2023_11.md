@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-1.jpg" alt="Editorial dic-23-1" width="350">
@@ -35,7 +59,7 @@ Eh bien, les lecteurs du Livre d’Urantia apportent cet autre côté de la méd
 Connaissez-vous un secret ? Tu n'es pas seul. Peu importe où vous êtes en ce moment, croyez-moi, votre Père est plus grand que n’importe quelle circonstance. Nous voyons cela dans _Le Livre d’Urantia_, à maintes reprises.
 <br style="clear:both;"/>
 
-> Quand vous en aurez fini ici-bas, quand vous aurez achevé votre parcours terrestre sous votre forme temporaire, quand vous aurez terminé votre voyage d’épreuve dans la chair, quand la poussière qui compose le tabernacle mortel sera « retournée à la terre d’où elle vient », alors, selon la révélation, « l’Esprit qui vous habite retournera à Dieu qui l’a donné ». Un fragment de Dieu, une partie intégrante de la divinité, séjourne en chaque être moral de cette planète. Ce fragment ne vous appartient pas encore par droit de possession, mais il est préparé intentionnellement pour ne faire qu’un avec vous si vous survivez à l’existence mortelle. ([LU 1:4.3](/fr/The_Urantia_Book/1#p4_3))
+> Quand vous en aurez fini ici-bas, quand vous aurez achevé votre parcours terrestre sous votre forme temporaire, quand vous aurez terminé votre voyage d’épreuve dans la chair, quand la poussière qui compose le tabernacle mortel sera « retournée à la terre d’où elle vient », alors, selon la révélation, « l’Esprit qui vous habite retournera à Dieu qui l’a donné ». Un fragment de Dieu, une partie intégrante de la divinité, séjourne en chaque être moral de cette planète. Ce fragment ne vous appartient pas encore par droit de possession, mais il est préparé intentionnellement pour ne faire qu’un avec vous si vous survivez à l’existence mortelle. (<a id="a61_651"></a>[LU 1:4.3](/fr/The_Urantia_Book/1#p4_3))
 
 Il est là, attendant toujours que nous revenions de nos distractions avec le monde, de nos pertes de connexion et de nos hauts et bas, tout comme il attendait le fils prodigue.
 
@@ -51,9 +75,9 @@ Comment sortir de la limitation du rocher ? Il arrive souvent un moment où la s
 
 En nous posant des questions et en nous questionnant, des fissures apparaissent dans notre petit rocher, et à travers elles, la lumière entrera, nous grandirons. Rappelons ces affirmations concernant la particule morontielle :
 
-> Les difficultés peuvent mettre au défi les médiocres et vaincre les craintifs, mais pour les vrais enfants du Très-Haut, elles ne servent que de stimulant. [LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)
+> Les difficultés peuvent mettre au défi les médiocres et vaincre les craintifs, mais pour les vrais enfants du Très-Haut, elles ne servent que de stimulant. <a id="a77_158"></a>[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7)
 > 
-> La plus grande affliction du cosmos est qu’il n’a jamais été affligé. Les mortels n’apprennent la sagesse qu’à travers les tribulations. [LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)
+> La plus grande affliction du cosmos est qu’il n’a jamais été affligé. Les mortels n’apprennent la sagesse qu’à travers les tribulations. <a id="a79_139"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-2.jpg" alt="Editorial dic-23-2" width="350">
@@ -70,7 +94,7 @@ Dans la _Bible_ on raconte comment Abraham entend une voix lui disant de quitter
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-3.jpg" alt="Editorial dic-23-3" width="350">
 </figure>
 
-Quelques semaines après la mort de Térah, le père d'Abraham, Melchisédek envoya l'un de ses disciples, Haran le Hittite, avec cette invitation à Abraham et à Nahor : «  Venez à Salem où vous entendrez nos enseignements sur la vérité du Créateur éternel et sur toute la création. « Le monde sera béni par la descendance éclairée des deux frères.  » [LU 93:5.5](/fr/The_Urantia_Book/93#p5_5)
+Quelques semaines après la mort de Térah, le père d'Abraham, Melchisédek envoya l'un de ses disciples, Haran le Hittite, avec cette invitation à Abraham et à Nahor : «  Venez à Salem où vous entendrez nos enseignements sur la vérité du Créateur éternel et sur toute la création. « Le monde sera béni par la descendance éclairée des deux frères.  » <a id="a96_348"></a>[LU 93:5.5](/fr/The_Urantia_Book/93#p5_5)
 
 «  Va où je te dis  », dit la Bible. «  Venez à Salem  », nous dit Le Livre d’Urantia. C'est vraiment la voix de la montagne, qui ne veut pas que nous restions coincés dans notre individualité, à nous plaindre de la boue qui nous entoure ou de cette autre pierre ennuyeuse. C’est vraiment un rappel à Lui.
 
@@ -87,11 +111,11 @@ Un Créateur, un Dieu, qui descend dans l’argile, dans la matière, dans ses c
 
 Et quand Michel est né à Bethléem, quelque chose s’est produit que nous ne pouvons pas concevoir :
 
-Jusqu’à ce moment, il était toujours apparu comme un individu pleinement développé du collectif choisi pour l’effusion, et nous fûmes tous ravis lorsque la nouvelle se répandit de Salvington que le bébé de Bethléem était né sur Urantia. Nous avons alors réalisé que notre Créateur et ami franchissait l’étape la plus précaire de toute sa carrière et qu’il risquait apparemment sa position et son autorité en se donnant à lui en tant qu’enfant sans défense. [LU 119:7.3-4](/fr/The_Urantia_Book/119#p7_3)
+Jusqu’à ce moment, il était toujours apparu comme un individu pleinement développé du collectif choisi pour l’effusion, et nous fûmes tous ravis lorsque la nouvelle se répandit de Salvington que le bébé de Bethléem était né sur Urantia. Nous avons alors réalisé que notre Créateur et ami franchissait l’étape la plus précaire de toute sa carrière et qu’il risquait apparemment sa position et son autorité en se donnant à lui en tant qu’enfant sans défense. <a id="a113_457"></a>[LU 119:7.3-4](/fr/The_Urantia_Book/119#p7_3)
 
 Avec cette perspective que Le Livre d’Urantia nous offre sur les événements qui ont eu lieu à Bethléem, nous pouvons grandement apprécier ce que notre cher Maître a fait par amour pour nous :
 
-Josué ben Joseph, le bébé juif, a été conçu et mis au monde exactement comme tous les autres bébés avant et après lui, à une exception près : ce bébé particulier était l'incarnation de Michel de Nébadon, un fils divin du Paradis et le créateur de tout cet univers local de choses et d’êtres. [LU 119:7.5](/fr/The_Urantia_Book/119#p7_5)
+Josué ben Joseph, le bébé juif, a été conçu et mis au monde exactement comme tous les autres bébés avant et après lui, à une exception près : ce bébé particulier était l'incarnation de Michel de Nébadon, un fils divin du Paradis et le créateur de tout cet univers local de choses et d’êtres. <a id="a117_292"></a>[LU 119:7.5](/fr/The_Urantia_Book/119#p7_5)
 
 Un enfant, un bébé juif nommé Josué ben Joseph, naît dans des étables à côté des mangeoires des bêtes. Dieu n'évite pas le petit et le simple, le sang et la paille ne sont pas étrangers à cet être merveilleux, créateur de notre univers.
 
@@ -130,3 +154,28 @@ Bonne année 2024
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/11/30/editorial-diciembre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Raul_Framinan/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Giscala apparaît également comme l’une des villes visitées par les apôtres. Les apôtres y ont prêché lors de leur première tournée de prédication au bord du lac entre juin et juillet 26 ([LU 138:9.3](/fr/The_Urantia_Book/138#p9_3)). C'est l'une des villes visitées lors de la première tournée de prédication en Galilée entre janvier et 28 mars ([LU 146:0.1](/fr/The_Urantia_Book/146#p0_1), [LU 146:4.6](/fr/The_Urantia_Book/146#p4_6)). Jésus et les apôtres sont passés par là à leur retour de Phénicie ([LU 156:6.3](/fr/The_Urantia_Book/156#p6_3)).
+Giscala apparaît également comme l’une des villes visitées par les apôtres. Les apôtres y ont prêché lors de leur première tournée de prédication au bord du lac entre juin et juillet 26 (<a id="a28_187"></a>[LU 138:9.3](/fr/The_Urantia_Book/138#p9_3)). C'est l'une des villes visitées lors de la première tournée de prédication en Galilée entre janvier et 28 mars (<a id="a28_345"></a>[LU 146:0.1](/fr/The_Urantia_Book/146#p0_1), <a id="a28_390"></a>[LU 146:4.6](/fr/The_Urantia_Book/146#p4_6)). Jésus et les apôtres sont passés par là à leur retour de Phénicie (<a id="a28_503"></a>[LU 156:6.3](/fr/The_Urantia_Book/156#p6_3)).
 
 Cette population était localisée dans l'actuel Al-Jish ou Jish.
 
@@ -49,11 +49,11 @@ De nombreuses grottes et passages ont été découverts au nord-ouest de la syna
 > Une recherche minutieuse a permis de déterminer l'existence de tunnels à Jeish, certains très longs, et de grottes, certaines très grandes.
 > &nbsp; &nbsp; [Milim culturel](http://www.milimcultural.com.ar)
 
-Dans le roman « Jésus de Nazareth »[^1], le Maître visite Giscala pour la première fois en compagnie de Pierre et d'André, et sa prédication n'est pas très bien accueillie dans la ville. C'est quelque chose qui n'est pas mentionné comme tel dans _Le Livre d'Urantia_ ([LU 146:4.6](/fr/The_Urantia_Book/146#p4_6)), mais c'est une déduction logique du fait qu'il est mentionné que Jésus et son les apôtres ne passaient que deux jours à Giscala alors qu'ils passaient une semaine ou plus dans d'autres villes, et qu'en général dans ces villes du nord de la Galilée le message du Maître n'était pas très bien reçu.
+Dans le roman « Jésus de Nazareth »[^1], le Maître visite Giscala pour la première fois en compagnie de Pierre et d'André, et sa prédication n'est pas très bien accueillie dans la ville. C'est quelque chose qui n'est pas mentionné comme tel dans _Le Livre d'Urantia_ (<a id="a51_268"></a>[LU 146:4.6](/fr/The_Urantia_Book/146#p4_6)), mais c'est une déduction logique du fait qu'il est mentionné que Jésus et son les apôtres ne passaient que deux jours à Giscala alors qu'ils passaient une semaine ou plus dans d'autres villes, et qu'en général dans ces villes du nord de la Galilée le message du Maître n'était pas très bien reçu.
 
 C'était une ville connue peu après Jésus car l'un des dirigeants juifs de la révolte contre Rome, Juan de Giscala, était originaire de là. Jésus connaissait sans doute son père, un certain Lévi selon Josèphe. Peut-être était-il, selon le roman "Jésus de Nazareth", l'un de ceux qui ne croyaient pas en Jésus dans cette ville. Cependant, ce personnage n'apparaît pas dans le roman. Lorsque je raconte des romans historiques, je n'aime pas forcer l'histoire pour que certains personnages apparaissent simplement parce que nous savons qu'ils ont existé.
 
-Une dernière curiosité à mentionner est que Dismas, le « bon larron » crucifié en compagnie de Jésus, apparaît dans le roman[^1] comme un natif de Giscala. C'est un fait qui n'est pas tiré du _Le Livre d'Urantia_ et représente ma propre invention. Au moins un habitant de Giscala croyait en Jésus et était la seule personne sur Terre à avoir reçu la promesse directe de Jésus d'atteindre un jour le Paradis ([LU 187:4.1](/fr/The_Urantia_Book/187#p4_1)).
+Une dernière curiosité à mentionner est que Dismas, le « bon larron » crucifié en compagnie de Jésus, apparaît dans le roman[^1] comme un natif de Giscala. C'est un fait qui n'est pas tiré du _Le Livre d'Urantia_ et représente ma propre invention. Au moins un habitant de Giscala croyait en Jésus et était la seule personne sur Terre à avoir reçu la promesse directe de Jésus d'atteindre un jour le Paradis (<a id="a55_408"></a>[LU 187:4.1](/fr/The_Urantia_Book/187#p4_1)).
 
 ## Références
 

@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentations de la 20e réunion des lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fernando_Carazo/Report_on_the_Circle_of_Trust">
+          <span class="pr-2">Rapport sur le Cercle de Confiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Toledo.jpg" alt="Toledo" width="350">
@@ -55,9 +79,9 @@ Le deuxième atelier a suivi, qui a abordé l’éthique et la morale et les dé
 
 L'après-midi, nous avons eu les deux derniers ateliers : le troisième a été animé par Paula Requejo, dont la présentation a porté sur les nouvelles relations interpersonnelles et sur ce que l'avenir peut nous réserver à cet égard. À la fin de la présentation, les participants ont travaillé en groupes sur la base de ces questions :
 
-- En prenant comme référence la section [LU 130:6](/fr/The_Urantia_Book/130#p6) (Le jeune homme qui avait peur), et en tant qu'enfants de Dieu par la foi, de quels outils disposons-nous pour sortir de la confusion sociale, de la solitude croissante et indésirable, de la discrimination sociale pour être ou agir différemment de ce qui est établi et des maux qui affligent mentalement l'être humain d'aujourd'hui ?
-- D'après la section [LU 84:7](/fr/The_Urantia_Book/84#p7) (Idéaux de la vie de famille), comment la famille est-elle perçue à la lumière du _Livre d'Urantia_ ?
-- Selon la section [LU 180:5](/fr/The_Urantia_Book/180#p5) (L'Esprit de Vérité), les relations interpersonnelles sont à la base de la règle d'or, mais quel est le processus à suivre pour «  aimer les autres comme on s'aime soi-même  » ? ne reste-t-il pas un simple modèle de comportement social et prend-il une signification véritablement cosmique ?
+- En prenant comme référence la section <a id="a81_40"></a>[LU 130:6](/fr/The_Urantia_Book/130#p6) (Le jeune homme qui avait peur), et en tant qu'enfants de Dieu par la foi, de quels outils disposons-nous pour sortir de la confusion sociale, de la solitude croissante et indésirable, de la discrimination sociale pour être ou agir différemment de ce qui est établi et des maux qui affligent mentalement l'être humain d'aujourd'hui ?
+- D'après la section <a id="a82_21"></a>[LU 84:7](/fr/The_Urantia_Book/84#p7) (Idéaux de la vie de famille), comment la famille est-elle perçue à la lumière du _Livre d'Urantia_ ?
+- Selon la section <a id="a83_19"></a>[LU 180:5](/fr/The_Urantia_Book/180#p5) (L'Esprit de Vérité), les relations interpersonnelles sont à la base de la règle d'or, mais quel est le processus à suivre pour «  aimer les autres comme on s'aime soi-même  » ? ne reste-t-il pas un simple modèle de comportement social et prend-il une signification véritablement cosmique ?
 
 En guise d’atelier final, Eduardo Altuzarra a discuté de l’orientation et des connaissances nécessaires pour faire face aux défis futurs et profiter des opportunités qui se présenteront sans aucun doute à nous. _Le Livre d’Urantia_ est présenté comme un outil très précieux pour mieux comprendre ces défis et comment y faire face. Finalement, après la présentation, voici les questions qui ont été discutées lors de l'atelier :
 
@@ -88,3 +112,28 @@ Après plusieurs tentatives infructueuses, une réunion a finalement eu lieu dan
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/07/30/xx-encuentro-de-lectores-de-el-libro-de-urantia-en-espana/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présentations de la 20e réunion des lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Fernando_Carazo/Report_on_the_Circle_of_Trust">
+          <span class="pr-2">Rapport sur le Cercle de Confiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

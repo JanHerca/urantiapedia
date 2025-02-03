@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Octobre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Présentations de la 19e réunion des lecteurs du Livre d'Urantia en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Se laver en silence
 
@@ -45,7 +69,7 @@ Le silence guérit parce qu’il nous relie à ce que nous sommes, il nous ramè
 
 Le livre bleu nous rappelle de nous arrêter et de rester silencieux :
 
-> Le naturalisme mécaniste de certains hommes supposés instruits et la laïcité inconsidérée de l’homme de la rue s’occupent tous deux exclusivement de *choses* ; ils sont dénués de toute vraie valeur, sanction ou satisfaction de nature spirituelle, et sont également dépourvus de foi, d’espérance et d’assurances éternelles. L’une des grandes difficultés de la vie moderne est que l’homme se croit trop occupé pour trouver le temps nécessaire à la méditation spirituelle et à la dévotion religieuse. ([LU 195:6.7](/fr/The_Urantia_Book/195#p6_7))
+> Le naturalisme mécaniste de certains hommes supposés instruits et la laïcité inconsidérée de l’homme de la rue s’occupent tous deux exclusivement de *choses* ; ils sont dénués de toute vraie valeur, sanction ou satisfaction de nature spirituelle, et sont également dépourvus de foi, d’espérance et d’assurances éternelles. L’une des grandes difficultés de la vie moderne est que l’homme se croit trop occupé pour trouver le temps nécessaire à la méditation spirituelle et à la dévotion religieuse. (<a id="a71_501"></a>[LU 195:6.7](/fr/The_Urantia_Book/195#p6_7))
 
 Cette belle phrase de Tagore nous rappelle également l’importance de s’arrêter et de se taire :
 
@@ -65,21 +89,21 @@ C’est une bonne idée de se souvenir des premiers mots du livre. Dans le Prolo
 
 <br style="clear:both;"/>
 
-> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. ([LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fût-ce partiellement ou même en en déformant plus ou moins le sens. (<a id="a91_660"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
 
 Ce travail fondamental formulé dans le Livre Bleu dès sa création ne serait pas possible si des milliers d’idées nouvelles, révolutionnaires et expansives n’étaient pas fixées dans le texte. Un texte qui peut être relu des centaines de fois, souligné, surligné sur le papier. Un texte qui, à chaque fois qu’il est lu en **dialogue silencieux**, est mieux compris et saisi dans des nuances plus grandes qui n’étaient pas entrevues lors d’une première lecture.
 
 Les révélateurs savent que cette communication très inhabituelle qui s’établit dans la lecture, acte intime et **silencieux**, sera possible non seulement grâce au livre lui-même, mais aussi grâce à la présence intérieure d’une étincelle divine. C'est là que réside la clé pour comprendre le texte :
 
-Bien que vous deviez peut-être attendre d'atteindre les niveaux finis les plus élevés de progression spirituelle pour approcher la présence du Père au Paradis, vous devriez vous réjouir de reconnaître la possibilité **toujours présente** d'une communion immédiate avec l'esprit accordé par le Père qui est si intimement associé à votre âme intérieure et avec votre moi spiritualisant. [LU 5:1.3](/fr/The_Urantia_Book/5#p1_3), gras ajouté
+Bien que vous deviez peut-être attendre d'atteindre les niveaux finis les plus élevés de progression spirituelle pour approcher la présence du Père au Paradis, vous devriez vous réjouir de reconnaître la possibilité **toujours présente** d'une communion immédiate avec l'esprit accordé par le Père qui est si intimement associé à votre âme intérieure et avec votre moi spiritualisant. <a id="a97_385"></a>[LU 5:1.3](/fr/The_Urantia_Book/5#p1_3), gras ajouté
 
 Face aux différences d'opinion sur ce que dit ou ne dit pas un mot ou une phrase du Livre d'Urantia, en ce mois d'octobre où nous célébrons à nouveau la publication du livre, retournons à notre intérieur, à notre île imprenable et écoute le silence. Laissons de côté l’esprit bruyant et profitons de l’écoute du silence.
 
 Le texte publié il y a 68 ans est une porte qui, une fois ouverte, une fois que nous passons de l'autre côté, nous nous rendons compte que c'est un instrument qui nous conduit à découvrir que **la chose la plus importante** de tout est l'AMOUR. Bien que tout soit en réalité une porte, tout est ouvert pour atteindre notre essence fondamentale, qui est l’amour. Une essence d’amour qui transparaît dans nos actions quotidiennes, dans nos rencontres avec les lecteurs, dans la vie en général.
 
-> La prise de conscience de la domination de l'esprit dans une vie humaine s'accompagne bientôt d'une **manifestation** toujours croissante des caractéristiques de l'Esprit dans le comportement du mortel guidé par l'esprit, "car les fruits de l'esprit sont l'amour, la joie, la paix, la patience, la bonté, la bienveillance, la foi, la douceur et la maîtrise de soi. Ces mortels **guidés** par l'illumination divine de l'esprit, bien qu'ils parcourent encore les humbles chemins du dur labeur et accomplissent avec loyauté humaine les obligations de leurs devoirs terrestres, ont déjà commencé à percevoir les lumières de la vie éternelle qui brillent faiblement dans les rivages reculés d'un autre monde… [LU 34:6.13](/fr/The_Urantia_Book/34#p6_13), gras ajouté
+> La prise de conscience de la domination de l'esprit dans une vie humaine s'accompagne bientôt d'une **manifestation** toujours croissante des caractéristiques de l'Esprit dans le comportement du mortel guidé par l'esprit, "car les fruits de l'esprit sont l'amour, la joie, la paix, la patience, la bonté, la bienveillance, la foi, la douceur et la maîtrise de soi. Ces mortels **guidés** par l'illumination divine de l'esprit, bien qu'ils parcourent encore les humbles chemins du dur labeur et accomplissent avec loyauté humaine les obligations de leurs devoirs terrestres, ont déjà commencé à percevoir les lumières de la vie éternelle qui brillent faiblement dans les rivages reculés d'un autre monde… <a id="a103_706"></a>[LU 34:6.13](/fr/The_Urantia_Book/34#p6_13), gras ajouté
 > 
-> Il ne suffit pas que cet esprit ait été répandu sur vous ; l’Esprit divin doit dominer et contrôler **chaque aspect de l’expérience humaine**. [LU 34:6.7](/fr/The_Urantia_Book/34#p6_7), gras ajouté
+> Il ne suffit pas que cet esprit ait été répandu sur vous ; l’Esprit divin doit dominer et contrôler **chaque aspect de l’expérience humaine**. <a id="a105_145"></a>[LU 34:6.7](/fr/The_Urantia_Book/34#p6_7), gras ajouté
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-3.jpg" alt="Editorial oct 23 -3" width="350">
@@ -89,7 +113,7 @@ Franchissons la porte qu’est _Le Livre d’Urantia_, et découvrons en le lisa
 
 <br style="clear:both;"/>
 
-> L’une des raisons pour lesquelles Pierre, Jacques et Jean, qui accompagnaient si souvent le Maitre dans ses longues veilles nocturnes, n’entendirent jamais Jésus prier, vient de ce que leur Maitre exprimait fort rarement ses prières en langage parlé. Pratiquement, toutes les prières de Jésus étaient faites dans son esprit et dans son cœur — en silence. ([LU 144:4.10](/fr/The_Urantia_Book/144#p4_10))
+> L’une des raisons pour lesquelles Pierre, Jacques et Jean, qui accompagnaient si souvent le Maitre dans ses longues veilles nocturnes, n’entendirent jamais Jésus prier, vient de ce que leur Maitre exprimait fort rarement ses prières en langage parlé. Pratiquement, toutes les prières de Jésus étaient faites dans son esprit et dans son cœur — en silence. (<a id="a115_358"></a>[LU 144:4.10](/fr/The_Urantia_Book/144#p4_10))
 
 Personne n’a dit que la vie était facile, mais nous y sommes, et nous sommes accompagnés du meilleur compagnon de voyage. Et la vérité c'est que **nous ne sommes jamais seuls**.
 
@@ -103,3 +127,28 @@ Personne n’a dit que la vie était facile, mais nous y sommes, et nous sommes 
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/09/28/editorial-octubre-2023/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Octobre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XIX_Encuentro_Presentaciones">
+          <span class="pr-2">Présentations de la 19e réunion des lecteurs du Livre d'Urantia en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

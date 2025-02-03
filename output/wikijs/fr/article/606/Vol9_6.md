@@ -49,7 +49,7 @@ Le 6-0-6 vous souhaite à tous un Noël et un Nouvel An sûrs et joyeux. Nous pr
 
 ## « Pensée du mois »
 
-> « Bien que vous ne puissiez trouver Dieu par une enquête, si vous voulez vous soumettre aux directives de l’esprit intérieur, vous serez infailliblement guidés pas à pas, vie après vie, à travers les univers et âges successifs, jusqu’à ce que vous finissiez par vous trouver en présence de la personnalité paradisiaque du Père Universel. » (<a id="a30_343"></a>[LU 2:5.5](/fr/The_Urantia_Book/2#p5_5))
+> « Bien que vous ne puissiez trouver Dieu par une enquête, si vous voulez vous soumettre aux directives de l’esprit intérieur, vous serez infailliblement guidés pas à pas, vie après vie, à travers les univers et âges successifs, jusqu’à ce que vous finissiez par vous trouver en présence de la personnalité paradisiaque du Père Universel. » (<a id="a51_343"></a>[LU 2:5.5](/fr/The_Urantia_Book/2#p5_5))
 
 ## Un Psaume de Vie
 
@@ -162,7 +162,7 @@ Une conférence donnée par David Elders lors de la réunion régionale du Pacif
 
 Ranelagh House, Robertson, Australie, 13 octobre 1988
 
-> « En ce qui concerne la clairvoyance, la récognition des valeurs morales et le discernement des significations spirituelles, tout ce que le mental humain peut faire consiste à découvrir, reconnaitre, interpréter et *choisir.* » (<a id="a143_231"></a>[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10))
+> « En ce qui concerne la clairvoyance, la récognition des valeurs morales et le discernement des significations spirituelles, tout ce que le mental humain peut faire consiste à découvrir, reconnaitre, interpréter et *choisir.* » (<a id="a164_231"></a>[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10))
 
 > « Pour un homme qui a un harceleur, le monde entier ressemble à un clou ! » Anonyme.
 

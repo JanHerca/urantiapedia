@@ -59,7 +59,7 @@ Sydney a quelques nouveaux membres dans son groupe et votre éditeur a récemmen
 
 ## « Pensée du mois »
 
-> « Gardez toujours à l’esprit que Dieu et les hommes ont besoin les uns des autres. Ils sont mutuellement nécessaires à la réalisation complète et finale de l’expérience de la personnalité éternelle dans la destinée divine de la finalité de l’univers. _Le Livre d'URANTIA_ <a id="a40_274"></a>[LU 195:10.3](/fr/The_Urantia_Book/195#p10_3)
+> « Gardez toujours à l’esprit que Dieu et les hommes ont besoin les uns des autres. Ils sont mutuellement nécessaires à la réalisation complète et finale de l’expérience de la personnalité éternelle dans la destinée divine de la finalité de l’univers. _Le Livre d'URANTIA_ <a id="a61_274"></a>[LU 195:10.3](/fr/The_Urantia_Book/195#p10_3)
 
 ## Preuve de choses invisibles
 
@@ -95,7 +95,7 @@ Les Cahiers URANTIA contiennent des récits sur la structure physique de l'Unive
 
 À mon avis, il existe deux commentaires tout à fait remarquables dans la mesure où leurs chances d'être corrects étaient infiniment faibles, sauf qu'ils étaient basés sur une banque de connaissances préexistante. L'un de ces commentaires fait référence à la structure atomique. L’autre concerne la dérive des continents. Il y a, bien sûr, beaucoup d'autres commentaires remarquables, mais, pour moi, ces deux-là, à eux seuls, me disent que je dois prendre au sérieux les affirmations du _Livre d'URANTIA_ comme étant une nouvelle révélation.
 
-Citant <a id="a76_7"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3), nous lisons ce qui suit : « Dans les grands soleils, lorsque l'hydrogène est épuisé et que la contraction gravitationnelle assure, et qu'un tel corps n'est pas suffisamment opaque pour retenir la pression interne de soutien des régions gazeuses externes, alors un effondrement soudain se produit. se produit. Les changements gravitationnels-électriques donnent naissance à de grandes quantités de minuscules particules dépourvues de potentiel électrique, et ces particules s’échappent facilement de l’intérieur du Soleil, provoquant ainsi l’effondrement d’un gigantesque soleil en quelques jours.
+Citant <a id="a97_7"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3), nous lisons ce qui suit : « Dans les grands soleils, lorsque l'hydrogène est épuisé et que la contraction gravitationnelle assure, et qu'un tel corps n'est pas suffisamment opaque pour retenir la pression interne de soutien des régions gazeuses externes, alors un effondrement soudain se produit. se produit. Les changements gravitationnels-électriques donnent naissance à de grandes quantités de minuscules particules dépourvues de potentiel électrique, et ces particules s’échappent facilement de l’intérieur du Soleil, provoquant ainsi l’effondrement d’un gigantesque soleil en quelques jours.
 
 [Lire la suite](/fr/article/Ken_Glasziou/Two_Remarkable_Predictions)
 

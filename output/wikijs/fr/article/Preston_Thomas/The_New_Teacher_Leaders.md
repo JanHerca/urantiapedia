@@ -273,7 +273,7 @@ Alors que nous nous consacrons à cette entreprise, il est instructif de consid�
 
 ### Le Royaume de Jésus existe actuellement au sein de l’Église chrétienne 
 
-> L’Église dite chrétienne devient de cette manière la chrysalide où sommeille maintenant le concept du royaume selon Jésus. Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante. (<a id="a277_396"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+> L’Église dite chrétienne devient de cette manière la chrysalide où sommeille maintenant le concept du royaume selon Jésus. Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante. (<a id="a275_396"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
 
 Nous pouvons apprendre beaucoup de ces mots ; ils contiennent trois idées importantes : Premièrement, les révélateurs indiquent clairement que la fraternité du royaume de Jésus existe actuellement au sein de l’Église chrétienne. Deuxièmement, ils révèlent que cette fraternité divine est dans un état passif, endormie et submergée dans le christianisme. Et troisièmement, ils prophétisent que cette fraternité finira par s’éveiller et se manifester sous une forme plus élevée et plus avancée. 
 
@@ -281,13 +281,13 @@ Nous pouvons apprendre beaucoup de ces mots ; ils contiennent trois idées impor
 
 Cette prophétie indique une concentration particulière sur nos efforts. Cette fraternité endormie a actuellement besoin d’un réveil et d’une renaissance spirituelle. C’est nous qui sommes appelés à fournir une nouvelle révélation de Jésus qui réveillera ces chrétiens endormis à des niveaux plus élevés de vie spirituelle. Réaliser la renaissance spirituelle de la fraternité du royaume de Jésus sera notre première étape majeure dans l’initiation de la renaissance spirituelle. Voici encore l’appel des révélateurs : 
 
-> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume de Jésus**, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. (<a id="a285_392"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> **L’appel** à l’aventure consistant à construire une société humaine nouvelle et transformée, par la **renaissance spirituelle de la fraternité du royaume de Jésus**, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. (<a id="a283_392"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
 
 ### Les chrétiens unifiés contribueront à apporter la nouvelle révélation au monde 
 
 Le monde chrétien est actuellement divisé en de nombreuses dénominations, sectes et cultes. Le seul espoir d’une unification du christianisme réside dans un retour à l’évangile originel de Jésus sur la paternité de Dieu et la fraternité des hommes. Cela fait également partie de notre travail. En nous concentrant exclusivement sur les enseignements réels de Jésus, nous fournirons les bases de l’unification des différentes églises chrétiennes. Et à mesure que ce réveil de Jésus et de son évangile original arrive au christianisme, de nombreux croyants se joindront alors à nos efforts pour apporter cet évangile au monde en général. Selon _Le Livre d'Urantia_, c'est le grand espoir de notre monde : 
 
-> _Le ***grand espoir d’Urantia*** réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ (<a id="a291_294"></a>[LU 195:10.15](/fr/The_Urantia_Book/195#p10_15))
+> _Le ***grand espoir d’Urantia*** réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ (<a id="a289_294"></a>[LU 195:10.15](/fr/The_Urantia_Book/195#p10_15))
 
 ### L'Évangile du Royaume
 
@@ -295,21 +295,21 @@ Quel est ce « message salvateur » qui unirait spirituellement les différents 
 
 Le royaume que Jésus a enseigné est la volonté du Père dominante et transcendante dans le cœur du croyant. Nous entrons dans le royaume par la foi en l’enseignement de Jésus selon lequel Dieu est notre Père, puis en choisissant de faire la volonté de notre Père. Jésus nous a montré le chemin de la vie dans le royaume avec ses deux grandes prières : « Que ta volonté soit faite » et « Que ce ne soit pas ma volonté, mais la tienne ». 
 
-Lors de sa première apparition après la crucifixion, Jésus a fait comprendre à ses disciples rassemblés que « _La filiation avec Dieu par la foi est toujours la vérité salvatrice de l’Évangile du royaume_. » <a id="a299_208"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)] Il a souligné que ce que le monde a le plus besoin de savoir, c'est que nous sommes tous des fils et des filles de Dieu et que, par la foi, nous pouvons réellement réaliser et expérimenter quotidiennement cette grande vérité. Dans notre travail, nous devons toujours apprendre aux autres à se considérer comme des fils et des filles de Dieu, notre Père céleste aimant.   
+Lors de sa première apparition après la crucifixion, Jésus a fait comprendre à ses disciples rassemblés que « _La filiation avec Dieu par la foi est toujours la vérité salvatrice de l’Évangile du royaume_. » <a id="a297_208"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)] Il a souligné que ce que le monde a le plus besoin de savoir, c'est que nous sommes tous des fils et des filles de Dieu et que, par la foi, nous pouvons réellement réaliser et expérimenter quotidiennement cette grande vérité. Dans notre travail, nous devons toujours apprendre aux autres à se considérer comme des fils et des filles de Dieu, notre Père céleste aimant.   
 
 ### Le succès de notre mission 
 
 Nos efforts réussiront-ils ? Considérez ces déclarations prophétiques des révélateurs qui décrivent à la fois l’histoire et l’évolution future de la religion de Jésus sur notre planète : 
 
-> Les enseignements de Jésus, même s'ils ont été considérablement modifiés, ont survécu aux cultes mystérieux de leur époque de naissance, à l'ignorance et à la superstition des âges sombres, et triomphent encore lentement du matérialisme, du mécanisme et de la laïcité du XXe siècle. <a id="a305_285"></a>[[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3)] (mon gras) 
+> Les enseignements de Jésus, même s'ils ont été considérablement modifiés, ont survécu aux cultes mystérieux de leur époque de naissance, à l'ignorance et à la superstition des âges sombres, et triomphent encore lentement du matérialisme, du mécanisme et de la laïcité du XXe siècle. <a id="a303_285"></a>[[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3)] (mon gras) 
 > 
-> L’Église [chrétienne] n’est que le stade larvaire du royaume spirituel contrarié, qui la mènera à travers cet âge matériel et jusqu’à une dispensation plus spirituelle où les enseignements du Maître pourront bénéficier d’une plus grande opportunité de développement. <a id="a307_269"></a>[[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21)] (mon gras)   
+> L’Église [chrétienne] n’est que le stade larvaire du royaume spirituel contrarié, qui la mènera à travers cet âge matériel et jusqu’à une dispensation plus spirituelle où les enseignements du Maître pourront bénéficier d’une plus grande opportunité de développement. <a id="a305_269"></a>[[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21)] (mon gras)   
 
 Les citations suivantes sont deux de mes préférées. Ils prédisent la victoire sur les forces puissantes du matérialisme et de la laïcité, ainsi qu’un nouvel âge spirituel merveilleux à suivre : 
 
-> Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. <a id="a311_189"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras) 
+> Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. <a id="a309_189"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras) 
 > 
-> Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. <a id="a313_177"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras)  
+> Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. <a id="a311_177"></a>[[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)] (mon gras)  
 
 ## Allons de l'avant 
 

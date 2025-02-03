@@ -29,6 +29,8 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 ## Maquette de l'hôtel Holy Land West à Jérusalem
 
+Cette maquette de l'hôtel Holy Land est une maquette du Second Temple de Jérusalem. Il est à l'échelle 1:50 et a une superficie de 2000 m². Il a été commandé en 1966 par Hans Kroch, propriétaire du Holy Land Hotel, et conçu par l'historien et géographe israélien Michael Avi Yonah sur la base des écrits de Josèphe et d'autres sources historiques. Inauguré en 1966, il a été transféré en 2006 au Musée d'Israël, dans un nouvel emplacement.
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/00-map-jerusalem.jpg">
 <figcaption>Fig. 1 — <em>Carte de Jérusalem au 1er siècle après JC</em></figcaption>
@@ -110,14 +112,14 @@ Selon Josèphe, le général romain Titus détruisit toute la ville mais décida
 <figcaption>Fig. 11 — <em>Le jardin du Tombeau.</em></figcaption>
 </figure>
 
-Le tombeau du jardin, représenté à la fig. 11, est un endroit actuel où l'on pense qu'aurait pu se trouver le tombeau de Jésus. Cependant, bien que cette localisation ait une certaine plausibilité avec le lieu décrit dans _Le Livre d'Urantia_, car il s'agit d'un lieu situé dans le nouveau quartier, au nord, où le livre nous apprend que Joseph d'Arimathie possédait un jardin ([LU 188 : 1.2](/fr/The_Urantia_Book/188#p1_2)), la réalité est que les coïncidences s'arrêtent ici. Comme le montre la maquette, qui reflète la physionomie actuelle de la tombe[^2], les environs ne sont pas représentés correctement, car il devrait s'agir d'une plantation luxuriante pleine d'arbres et de légumes, avec quelques casemates. Par conséquent, il reste de nombreux bâtiments du modèle et il manque de végétation, de murs en pierre et de sentiers. Mais plus important encore, le tombeau du jardin n'est pas orienté vers l'est mais a une orientation nord-sud, et n'est pas placé dans le modèle sur la partie est d'une route, mais au contraire sur la seule route qui a été aménagée dans le modèle. s'étend à l'ouest du tombeau ([LU 189:4.6](/fr/The_Urantia_Book/189#p4_6)). Il est peu probable que le célèbre tombeau du jardin soit le lieu de sépulture de Jésus.
+Le tombeau du jardin, représenté à la fig. 11, est un endroit actuel où l'on pense qu'aurait pu se trouver le tombeau de Jésus. Cependant, bien que cette localisation ait une certaine plausibilité avec le lieu décrit dans _Le Livre d'Urantia_, car il s'agit d'un lieu situé dans le nouveau quartier, au nord, où le livre nous apprend que Joseph d'Arimathie possédait un jardin (<a id="a114_378"></a>[LU 188 : 1.2](/fr/The_Urantia_Book/188#p1_2)), la réalité est que les coïncidences s'arrêtent ici. Comme le montre la maquette, qui reflète la physionomie actuelle de la tombe[^2], les environs ne sont pas représentés correctement, car il devrait s'agir d'une plantation luxuriante pleine d'arbres et de légumes, avec quelques casemates. Par conséquent, il reste de nombreux bâtiments du modèle et il manque de végétation, de murs en pierre et de sentiers. Mais plus important encore, le tombeau du jardin n'est pas orienté vers l'est mais a une orientation nord-sud, et n'est pas placé dans le modèle sur la partie est d'une route, mais au contraire sur la seule route qui a été aménagée dans le modèle. s'étend à l'ouest du tombeau (<a id="a114_1114"></a>[LU 189:4.6](/fr/The_Urantia_Book/189#p4_6)). Il est peu probable que le célèbre tombeau du jardin soit le lieu de sépulture de Jésus.
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/11-fortaleza-antonia.jpg">
 <figcaption>Fig. 12 — <em>La zone de la crucifixion, ou Golgotha, où se trouve la chapelle du Saint-Sépulcre, avec la forteresse Antonia en arrière-plan.</em></figcaption>
 </figure>
 
-La fig. 12 et 13 montrent le rocher du Golgotha, où avaient lieu des crucifixions, comme celle de Jésus. Situé hors les murs, et à droite de la route d'Éphraïm. Comme on peut le constater, il n'y avait pas beaucoup de distance qui séparait la forteresse Antonia du Golgotha, le chemin que devait emprunter le peuple crucifié en portant la croix. Selon _Le Livre d'Urantia_, il est impossible que cet emplacement soit correct ([LU 187:1.4](/fr/The_Urantia_Book/187#p1_4)). Le Golgotha ​​​​devrait se trouver hors des murs de la ville, oui, mais beaucoup plus au nord, puisqu'on nous dit qu'ils sont partis par la porte de Damas et qu'ils ont parcouru un tronçon de la route du nord jusqu'à atteindre le Golgotha. La porte actuelle de Damas ne doit pas dérouter le lecteur, car elle est située dans le troisième mur nord, construit longtemps après Jésus. Il est évident que l'actuelle chapelle du Saint-Sépulcre n'a rien à voir avec le lieu de la crucifixion de Jésus, mais plutôt avec le remplacement d'un ancien temple d'Aphrodite par un temple chrétien.
+La fig. 12 et 13 montrent le rocher du Golgotha, où avaient lieu des crucifixions, comme celle de Jésus. Situé hors les murs, et à droite de la route d'Éphraïm. Comme on peut le constater, il n'y avait pas beaucoup de distance qui séparait la forteresse Antonia du Golgotha, le chemin que devait emprunter le peuple crucifié en portant la croix. Selon _Le Livre d'Urantia_, il est impossible que cet emplacement soit correct (<a id="a121_426"></a>[LU 187:1.4](/fr/The_Urantia_Book/187#p1_4)). Le Golgotha ​​​​devrait se trouver hors des murs de la ville, oui, mais beaucoup plus au nord, puisqu'on nous dit qu'ils sont partis par la porte de Damas et qu'ils ont parcouru un tronçon de la route du nord jusqu'à atteindre le Golgotha. La porte actuelle de Damas ne doit pas dérouter le lecteur, car elle est située dans le troisième mur nord, construit longtemps après Jésus. Il est évident que l'actuelle chapelle du Saint-Sépulcre n'a rien à voir avec le lieu de la crucifixion de Jésus, mais plutôt avec le remplacement d'un ancien temple d'Aphrodite par un temple chrétien.
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/12-golgota.jpg">
@@ -213,7 +215,7 @@ Sur la fig. Au numéro 25, au sud, vous pouvez également voir la synagogue dite
 <figcaption>Fig. 26 — <em>La piscine de Siloé.</em></figcaption>
 </figure>
 
-La figure précédente montre en détail la piscine de Siloé, où un aveugle a retrouvé la vue grâce à Jésus ([LU 164:3.8](/fr/The_Urantia_Book/164#p3_8)). J'ai déjà dit que son apparence me semble quelque peu étrange, et je l'ai imaginé comme une piscine non surélevée, située plutôt au niveau de la rue, et qui récupérait l'eau d'un canal par lequel coulait l'eau de pluie du Tyropoeon. Il est très étrange que l’aveugle soit envoyé par Jésus dans une piscine surélevée. Comment voudriez-vous qu’il monte les escaliers tout seul ?
+La figure précédente montre en détail la piscine de Siloé, où un aveugle a retrouvé la vue grâce à Jésus (<a id="a217_106"></a>[LU 164:3.8](/fr/The_Urantia_Book/164#p3_8)). J'ai déjà dit que son apparence me semble quelque peu étrange, et je l'ai imaginé comme une piscine non surélevée, située plutôt au niveau de la rue, et qui récupérait l'eau d'un canal par lequel coulait l'eau de pluie du Tyropoeon. Il est très étrange que l’aveugle soit envoyé par Jésus dans une piscine surélevée. Comment voudriez-vous qu’il monte les escaliers tout seul ?
 
 <figure id="Figure_27" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/26-hipodromo.jpg">
@@ -269,7 +271,7 @@ La fig. 33 montre la Stoa Royale, au-dessus de la Basilique ou porche Royal, vue
 <figcaption>Fig. 34 — <em>Le sanctuaire du temple, avec la « Cour des Femmes » au premier plan, vu de l'est.</em></figcaption>
 </figure>
 
-La fig. 34 montre l'enceinte du sanctuaire du temple, entourée d'abord par une clôture ou _soreg_ (avec des messages d'avertissement pour que les non-juifs ne la traversent pas), puis par un mur avec des tours et des chambres adjacentes destinées aux offices sacerdotaux. L'escalier semi-circulaire mène à la porte appelée Nicanor, en bronze brillant. Certains croient que cette porte est la même que celle que [Actes 3:2](/fr/Bible/Acts_of_the_Apostles/3#v2) appelle la « Belle Porte », mais selon la description du _Le Livre d'Urantia_ ([LU 162:4.3](/fr/The_Urantia_Book/162#p4_3)) la « Belle Porte » (« magnifique porte » selon le livre) correspondrait à la porte orientale de l'enceinte sacrée.
+La fig. 34 montre l'enceinte du sanctuaire du temple, entourée d'abord par une clôture ou _soreg_ (avec des messages d'avertissement pour que les non-juifs ne la traversent pas), puis par un mur avec des tours et des chambres adjacentes destinées aux offices sacerdotaux. L'escalier semi-circulaire mène à la porte appelée Nicanor, en bronze brillant. Certains croient que cette porte est la même que celle que [Actes 3:2](/fr/Bible/Acts_of_the_Apostles/3#v2) appelle la « Belle Porte », mais selon la description du _Le Livre d'Urantia_ (<a id="a273_539"></a>[LU 162:4.3](/fr/The_Urantia_Book/162#p4_3)) la « Belle Porte » (« magnifique porte » selon le livre) correspondrait à la porte orientale de l'enceinte sacrée.
 
 Le patio au premier plan est le patio ou atrium des femmes, auquel les femmes étaient autorisées à accéder. Le deuxième patio, où se trouvait le Sanctuaire, était le patio des prêtres, auquel seuls les hommes avaient accès. Au Sanctuaire, l'immense bâtiment de 60 mètres de haut ! qui se dressait au milieu de toute la ville, seuls les prêtres pouvaient y accéder et seulement pour certains rituels. L'immense portail d'accès était recouvert d'un grand voile (pas dans le modèle) qui pendait à l'extérieur. Des voiles semblables étaient disposés à l'intérieur, séparant ce qu'on appelait le _sanctasanctorum_, lieu réservé seulement une fois par an au grand prêtre, et où l'on croyait que Dieu lui-même avait sa présence.
 
@@ -295,7 +297,7 @@ La fig. 35 montre la même enceinte sous un autre angle, avec la seule porte d'a
 <figcaption>Fig. 38 — <em>La Cour des Gentils et la forteresse Antonia, vues du sud-est.</em></figcaption>
 </figure>
 
-Sur la fig. Au numéro 38, on peut voir l'atrium et le portique des Gentils, à côté de la forteresse Antonia. Dans cet espace et dans le portique des Gentils se trouvait sûrement l'endroit où étaient sûrement disposés les marchands de produits destinés aux sacrifices (animaux et fruits) avec leurs étals, qui étaient introduits par la porte nord du temple, précisément appelée « porte des Moutons ». C'est ici qu'a eu lieu la fameuse expulsion de ces vendeurs par Jésus et ses disciples ([LU 173:1.1-11](/fr/The_Urantia_Book/173#p1_1)).
+Sur la fig. Au numéro 38, on peut voir l'atrium et le portique des Gentils, à côté de la forteresse Antonia. Dans cet espace et dans le portique des Gentils se trouvait sûrement l'endroit où étaient sûrement disposés les marchands de produits destinés aux sacrifices (animaux et fruits) avec leurs étals, qui étaient introduits par la porte nord du temple, précisément appelée « porte des Moutons ». C'est ici qu'a eu lieu la fameuse expulsion de ces vendeurs par Jésus et ses disciples (<a id="a299_488"></a>[LU 173:1.1-11](/fr/The_Urantia_Book/173#p1_1)).
 
 <figure id="Figure_39" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/38-fortaleza-antonia.jpg">
@@ -316,15 +318,19 @@ La même vue de la forteresse Antonia, mais maintenant depuis l'ouest, est visib
 <figcaption>Fig. 41 — <em>Le monticule du temple vu du nord.</em></figcaption>
 </figure>
 
-Sur la fig. 41 donne une bonne vue de l’ensemble du mont du temple vu du nord. Le mur qui apparaît au premier plan est le deuxième mur nord. La porte vue dans le mur est très probablement celle que _Le Livre d'Urantia_ ([LU 187:1.4](/fr/The_Urantia_Book/187#p1_4)) appelle la « Porte de Damas » (et non la porte actuelle appelée « de Damas », situé dans un troisième mur postérieur à Jésus), par lequel Jésus fut conduit au Golgotha.
+Sur la fig. 41 donne une bonne vue de l’ensemble du mont du temple vu du nord. Le mur qui apparaît au premier plan est le deuxième mur nord. La porte vue dans le mur est très probablement celle que _Le Livre d'Urantia_ (<a id="a320_220"></a>[LU 187:1.4](/fr/The_Urantia_Book/187#p1_4)) appelle la « Porte de Damas » (et non la porte actuelle appelée « de Damas », situé dans un troisième mur postérieur à Jésus), par lequel Jésus fut conduit au Golgotha.
 
 <figure id="Figure_42" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Recreations_of_the_Jerusalem_of_Jesus/41-piscina-betesda.jpg">
 <figcaption>Fig. 42 — <em>Les bassins de Béthesda.</em></figcaption>
 </figure>
 
-La fig. 42 est la dernière de cette collection d'images sur la maquette de l'hôtel Holy Land à Jérusalem. On y voit en détail la « piscine de Béthesda », deux étangs entourés de colonnes, situés près de la forteresse Antonia. C'est le lieu d'une guérison par Jésus ([LU 147:3.1](/fr/The_Urantia_Book/147#p3_1)).
+La fig. 42 est la dernière de cette collection d'images sur la maquette de l'hôtel Holy Land à Jérusalem. On y voit en détail la « piscine de Béthesda », deux étangs entourés de colonnes, situés près de la forteresse Antonia. C'est le lieu d'une guérison par Jésus (<a id="a327_266"></a>[LU 147:3.1](/fr/The_Urantia_Book/147#p3_1)).
 
+
+## Références
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Holyland_Model_of_Jerusalem)
 
 <figure class="table chapter-navigator">
   <table>

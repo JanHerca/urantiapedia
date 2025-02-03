@@ -41,17 +41,17 @@ Comme le déclare Neil Francey (co-éditeur de Six-O-Six) :
 
 Les premiers troubles concernant le contenu du Six-O-Six ont commencé avec l'annonce des cassettes E-3. Le message traitait principalement de la vie que nous vivrons lorsque nous aurons dépassé les derniers jours de ce millénaire et que nous entrerons dans le prochain avec une conscience élargie, en coopération plus étroite avec nos amis célestes. Ceci est conforme au _Le Livre d'URANTIA_.
 
-> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a22_182"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a43_182"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 Cela ne se produira pas simplement dans le cadre de la lente évolution que nous avons connue jusqu’à présent. À ce stade crucial de l’évolution de notre planète et de toute l’humanité, des techniques spéciales sont appliquées pour accélérer le processus.
 
-> « La seule technique pour accélérer la tendance naturelle de l’évolution sociale consiste à exercer une pression spirituelle par en haut, ce qui augmente le discernement moral tout en rehaussant la capacité de l’âme de tous les hommes de comprendre et d’aimer tous leurs semblables. » (<a id="a26_288"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
+> « La seule technique pour accélérer la tendance naturelle de l’évolution sociale consiste à exercer une pression spirituelle par en haut, ce qui augmente le discernement moral tout en rehaussant la capacité de l’âme de tous les hommes de comprendre et d’aimer tous leurs semblables. » (<a id="a47_288"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
 
-> « Mais il n’y a pas lieu de se laisser décourager par la lenteur apparente du progrès de l’idée du royaume sur Urantia. Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel. L’effusion de Jésus en tant que Fils incarné fut précisément l’un de ces évènements étranges et inattendus dans la vie spirituelle du monde. » (<a id="a28_444"></a>[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
+> « Mais il n’y a pas lieu de se laisser décourager par la lenteur apparente du progrès de l’idée du royaume sur Urantia. Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel. L’effusion de Jésus en tant que Fils incarné fut précisément l’un de ces évènements étranges et inattendus dans la vie spirituelle du monde. » (<a id="a49_444"></a>[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
 
 Les événements hors du commun s’avèrent souvent être une pierre d’achoppement sur Urantia.
 
-> « L’assujettissement à la tradition produit la stabilité et la coopération en liant sentimentalement le présent au passé, mais, en même temps, il étouffe l’initiative et asservit les pouvoirs créateurs de la personnalité. Le monde entier était pris dans une impasse de mœurs traditionnelles quand les cent de Caligastia arrivèrent et commencèrent à proclamer le nouvel évangile de l’initiative individuelle à l’intérieur des groupes sociaux du moment. Mais cette règle bénéfique fut si rapidement interrompue que les races n’ont jamais été entièrement libérées de l’esclavage des coutumes ; la mode continue encore à dominer indument Urantia. » (<a id="a32_648"></a>[LU 66:6.2](/fr/The_Urantia_Book/66#p6_2))
+> « L’assujettissement à la tradition produit la stabilité et la coopération en liant sentimentalement le présent au passé, mais, en même temps, il étouffe l’initiative et asservit les pouvoirs créateurs de la personnalité. Le monde entier était pris dans une impasse de mœurs traditionnelles quand les cent de Caligastia arrivèrent et commencèrent à proclamer le nouvel évangile de l’initiative individuelle à l’intérieur des groupes sociaux du moment. Mais cette règle bénéfique fut si rapidement interrompue que les races n’ont jamais été entièrement libérées de l’esclavage des coutumes ; la mode continue encore à dominer indument Urantia. » (<a id="a53_648"></a>[LU 66:6.2](/fr/The_Urantia_Book/66#p6_2))
 
 À la lumière de la réalité des changements soudains, drastiques et de grande portée au cours de notre évolution à ce moment crucial, nous pouvons certainement utiliser des lignes directrices et des directions, même si nous disposons du _Livre d'URANTIA_. Le dernier message reçu, concernant la sortie du _Livre d'URANTIA_, arriva en janvier 1955. Un Être qui s'identifiait comme Norson fit la déclaration suivante : « Je suis un Melchisédek. Je suis le Prince Planétaire d'Urantia. Même si je ne suis pas sûr que le moment soit venu de publier ces articles, vous pouvez les publier si vous ne recevez plus de communications de ma part avant le premier octobre de cette année.
 
@@ -71,9 +71,9 @@ Il y a de nombreuses indications dans le _Livre d'URANTIA_ sur de grands changem
 
 Extrait de : « _Atomic Suicide ?_ » par le Dr Walter et Lao Russell, Université des sciences et de la philosophie.
 
-- <a id="a52_2"></a>[LU 133:5](/fr/The_Urantia_Book/133#p5) — Discours sur la science
-- <a id="a53_2"></a>[LU 101:5](/fr/The_Urantia_Book/101#p5) — La religion élargie par la révélation
-- <a id="a54_2"></a>[LU 103:7](/fr/The_Urantia_Book/103#p7) — Science et religion
+- <a id="a73_2"></a>[LU 133:5](/fr/The_Urantia_Book/133#p5) — Discours sur la science
+- <a id="a74_2"></a>[LU 101:5](/fr/The_Urantia_Book/101#p5) — La religion élargie par la révélation
+- <a id="a75_2"></a>[LU 103:7](/fr/The_Urantia_Book/103#p7) — Science et religion
 
 ou voir Concordex — « Science »
 

@@ -102,7 +102,7 @@ Ce n'est qu'environ dix-huit ans plus tard que je trouverai un Livre d'URANTIA e
 
 Robert Crickett, Melbourne
 
-> « Il y a, dans l’expérience religieuse, une réalité qui est proportionnelle à son contenu spirituel, et cette réalité est transcendante par rapport à la raison, à la science, à la philosophie, à la sagesse et à tous les autres accomplissements humains. Les convictions résultant de cette expérience sont inébranlables ; la logique de la vie religieuse défie toute contradiction ; la certitude de sa connaissance est suprahumaine ; les satisfactions qui l’accompagnent sont magnifiquement divines ; le courage est indomptable, les dévouements sont inconditionnels, les fidélités sont suprêmes et les destinées sont finales — éternelles, ultimes et universelles. » (<a id="a80_666"></a>[LU 103:9.12](/fr/The_Urantia_Book/103#p9_12))
+> « Il y a, dans l’expérience religieuse, une réalité qui est proportionnelle à son contenu spirituel, et cette réalité est transcendante par rapport à la raison, à la science, à la philosophie, à la sagesse et à tous les autres accomplissements humains. Les convictions résultant de cette expérience sont inébranlables ; la logique de la vie religieuse défie toute contradiction ; la certitude de sa connaissance est suprahumaine ; les satisfactions qui l’accompagnent sont magnifiquement divines ; le courage est indomptable, les dévouements sont inconditionnels, les fidélités sont suprêmes et les destinées sont finales — éternelles, ultimes et universelles. » (<a id="a104_666"></a>[LU 103:9.12](/fr/The_Urantia_Book/103#p9_12))
 
 
 

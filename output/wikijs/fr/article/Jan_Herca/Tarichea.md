@@ -95,7 +95,7 @@ L'emplacement de cette fouille est parfait pour expliquer certains passages de J
 
 ## Le Livre d'Urantia
 
-_Le Livre d'Urantia_ est catégorique lorsqu'il s'agit d'établir l'emplacement de Tariquea. Tout comme il n’offre pas beaucoup d’indices sur d’autres lieux, il ne laisse ici aucun doute, comme si les auteurs tenaient pour acquis qu’il ne permettait pas de discussion. Dans le document <a id="a81_247"></a>[LU 139:8.2](/fr/The_Urantia_Book/139#p8_2) il est dit : «[Thomas] avait jadis été charpentier et maçon, mais plus récemment il était devenu pêcheur. Il résidait à Tarichée, localité située sur la rive occidentale du Jourdain à sa sortie de la mer de Galilée, et il était considéré comme le premier citoyen de ce petit village ».
+_Le Livre d'Urantia_ est catégorique lorsqu'il s'agit d'établir l'emplacement de Tariquea. Tout comme il n’offre pas beaucoup d’indices sur d’autres lieux, il ne laisse ici aucun doute, comme si les auteurs tenaient pour acquis qu’il ne permettait pas de discussion. Dans le document <a id="a97_284"></a>[LU 139:8.2](/fr/The_Urantia_Book/139#p8_2) il est dit : «[Thomas] avait jadis été charpentier et maçon, mais plus récemment il était devenu pêcheur. Il résidait à Tarichée, localité située sur la rive occidentale du Jourdain à sa sortie de la mer de Galilée, et il était considéré comme le premier citoyen de ce petit village ».
 
 Bien sûr, il décrit l'enclave de Bet Yerah, mais il est frappant qu'il qualifie Tariquea de « petit village ». Un petit village aurait-il un mur et un hippodrome ?
 

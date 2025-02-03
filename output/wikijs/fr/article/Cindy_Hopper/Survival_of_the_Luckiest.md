@@ -61,7 +61,7 @@ Il est ahurissant de penser que si l’une de ces créatures avait survécu à c
 
 Dans _Le Livre d'URANTIA_, un Porteur de Vie dit :
 
-> « _Il ne sera guère possible de rendre accessibles, au mental humain d’aujourd’hui, maints évènements bizarres et apparemment grotesques de la progression évolutionnaire primitive. En dépit de leur apparence étrange, toutes ces évolutions d’êtres vivants suivaient un plan préconçu, mais nous n’avons pas le droit d’intervenir arbitrairement dans le développement des modèles de vie une fois qu’ils ont commencé à fonctionner._ » (<a id="a42_433"></a>[LU 65:3.1](/fr/The_Urantia_Book/65#p3_1))
+> « _Il ne sera guère possible de rendre accessibles, au mental humain d’aujourd’hui, maints évènements bizarres et apparemment grotesques de la progression évolutionnaire primitive. En dépit de leur apparence étrange, toutes ces évolutions d’êtres vivants suivaient un plan préconçu, mais nous n’avons pas le droit d’intervenir arbitrairement dans le développement des modèles de vie une fois qu’ils ont commencé à fonctionner._ » (<a id="a63_433"></a>[LU 65:3.1](/fr/The_Urantia_Book/65#p3_1))
 
 Il indique également que les groupes d'implantation orientaux et centraux développaient initialement des potentialités humaines, mais que la région a subi des pertes irrémédiables des types les plus élevés de plasma germinatif, de sorte que les mammifères supérieurs se sont ensuite développés à partir de l'implantation occidentale de la vie. Ces déclarations et bien d'autres semblent confirmer que le modèle de survie des plus chanceux de Gould est, au moins dans une certaine mesure, en harmonie avec le récit du _Livre d'URANTIA_ sur la façon dont la vie a évolué sur terre.
 

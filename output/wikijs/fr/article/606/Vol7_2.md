@@ -67,11 +67,11 @@ En réponse à notre article sur « L'importance de la langue » dans le numéro
 
 ---
 
-> « Après être partis sur la route de la vie éternelle, après avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l’inconstance des mortels, ne vous laissez pas troubler par des craintes d’échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l’Esprit de Vérité parlera toujours et vous dira « Voilà le chemin ». » (<a id="a48_539"></a>[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8))
+> « Après être partis sur la route de la vie éternelle, après avoir accepté votre mission et reçu vos ordres pour progresser, ne craignez pas les dangers du manque de mémoire des hommes et de l’inconstance des mortels, ne vous laissez pas troubler par des craintes d’échecs ou des confusions déroutantes, ne chancelez pas et ne mettez en doute ni votre statut ni votre position, car, à toutes les heures sombres et à tous les carrefours de la lutte pour le progrès, l’Esprit de Vérité parlera toujours et vous dira « Voilà le chemin ». » (<a id="a69_539"></a>[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8))
 
 ## Nous sommes « au bord du gouffre » !
 
-Sur <a id="a52_4"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2) nous trouvons certaines des phrases les plus passionnantes de tout le livre : « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. »
+Sur <a id="a73_4"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2) nous trouvons certaines des phrases les plus passionnantes de tout le livre : « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. »
 
 Il ne dit pas qu’une révélation plus complète pourrait conquérir un empire matérialiste – il dit qu’elle EST DESTINÉE à le faire. Il n'y a pas de « si » et de « peut-être » à ce sujet : cela dit qu'Urantia N'EST PAS au bord du gouffre.
 
@@ -79,11 +79,11 @@ Et cela appelle cela une nouvelle époque. Une époque semble être le temps qui
 
 Cela signifie-t-il que nous allons bientôt avoir un autre Fils ? Peut-être un Fils Magistral ? Beaucoup de choses semblent aller dans ce sens.
 
-Sur <a id="a60_4"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3), le Livre déclare : « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire.» Et au-dessus, il est écrit : « L’humanité est en marche vers un destin planétaire nouveau et non révélé. » <a id="a60_421"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)
+Sur <a id="a81_4"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3), le Livre déclare : « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire.» Et au-dessus, il est écrit : « L’humanité est en marche vers un destin planétaire nouveau et non révélé. » <a id="a81_421"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)
 
-Sur <a id="a62_4"></a>[LU 114:4.4](/fr/The_Urantia_Book/114#p4_4) nous lisons : « Un Très Haut observateur jouit du pouvoir discrétionnaire de prendre en mains le gouvernement de la planète en temps de crise planétaire grave, et les annales rapportent que ce fut trente-trois fois le cas dans l’histoire d’Urantia.» (Les pages <a id="a62_309"></a>[LU 43:5.17](/fr/The_Urantia_Book/43#p5_17) et <a id="a62_356"></a>[LU 175:1.8](/fr/The_Urantia_Book/175#p1_8) semblent nous raconter deux de ces moments.)
+Sur <a id="a83_4"></a>[LU 114:4.4](/fr/The_Urantia_Book/114#p4_4) nous lisons : « Un Très Haut observateur jouit du pouvoir discrétionnaire de prendre en mains le gouvernement de la planète en temps de crise planétaire grave, et les annales rapportent que ce fut trente-trois fois le cas dans l’histoire d’Urantia.» (Les pages <a id="a83_309"></a>[LU 43:5.17](/fr/The_Urantia_Book/43#p5_17) et <a id="a83_356"></a>[LU 175:1.8](/fr/The_Urantia_Book/175#p1_8) semblent nous raconter deux de ces moments.)
 
-Et puis sur <a id="a64_12"></a>[LU 134:5.1](/fr/The_Urantia_Book/134#p5_1) cela nous dit que l’évolution de notre souveraineté politique est MAINTENANT dans une étape CRITIQUE. Et sur <a id="a64_165"></a>[LU 134:5.3](/fr/The_Urantia_Book/134#p5_3), cela nous rappelle qu'« Un jour, les dirigeants civils apprendront que le Très-Haut gouverne dans le royaume des hommes » – non pas le royaume de DIEU – mais celui des HOMMES.
+Et puis sur <a id="a85_12"></a>[LU 134:5.1](/fr/The_Urantia_Book/134#p5_1) cela nous dit que l’évolution de notre souveraineté politique est MAINTENANT dans une étape CRITIQUE. Et sur <a id="a85_165"></a>[LU 134:5.3](/fr/The_Urantia_Book/134#p5_3), cela nous rappelle qu'« Un jour, les dirigeants civils apprendront que le Très-Haut gouverne dans le royaume des hommes » – non pas le royaume de DIEU – mais celui des HOMMES.
 
 Il semble donc que des temps passionnants soient déjà à nos portes. Nous n'avons pas encore eu de Fils Magistral. À la page 594, il nous est dit que lorsqu'un Avonal du Paradis arrive pour une première mission magistrale, il s'incarne TOUJOURS. Il n'est pas né comme un bébé comme un fils d'effusion, mais il apparaît peut-être simplement comme Machiventa Melchizédek.
 
@@ -105,7 +105,7 @@ Mercredi. 19 mars Glen Waverley : Gouvernement planétaire séraphique, p. 1250
 
 Chaque mercredi. le Groupe de Sydney se réunit au 7 Walsh St. Narrabeen, Tél.913 7893
 
-Au cours d'un de mes nombreux et merveilleux voyages à travers les Cahiers d'Urantia, je suis tombé sur le nom « Enoch » – « le premier des mortels d'Urantia à fusionner avec l'Ajusteur de Pensée pendant sa vie mortelle dans la chair ». <a id="a86_237"></a>[LU 45:4.13](/fr/The_Urantia_Book/45#p4_13)
+Au cours d'un de mes nombreux et merveilleux voyages à travers les Cahiers d'Urantia, je suis tombé sur le nom « Enoch » – « le premier des mortels d'Urantia à fusionner avec l'Ajusteur de Pensée pendant sa vie mortelle dans la chair ». <a id="a107_237"></a>[LU 45:4.13](/fr/The_Urantia_Book/45#p4_13)
 
 Dans ce chapitre, il est mentionné comme l'un des vingt-quatre conseillers du conseil consultatif d'Urantia, qui a son siège à Jérusem, la capitale de notre système local Satania.
 
@@ -192,9 +192,9 @@ C.E.R.D.H.*<br>
 FRANCE<br>
 </p>
 
-> «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» (<a id="a173_140"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» (<a id="a194_140"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
-> Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » (<a id="a175_139"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » (<a id="a196_139"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
 \* C.E.R.D.H. : une association de type loi 1901, réunissant des lecteurs du Livre d'Urantia.
 \* C.E.R.D.H. : une société à but non lucratif, regroupant les lecteurs du Livre d'URANTIA.
@@ -209,7 +209,7 @@ En France<br>
 du 3 au 11 août 1986<br>
 </p>
 
-> Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » (<a id="a190_340"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » (<a id="a211_340"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
 Cette réponse de Jésus à Ganid résume à elle seule le motif de ses contacts avec les chercheurs de vérité. Cela prouve définitivement l’importance que Jésus attachait aux qualités des relations personnelles entre les hommes.
 

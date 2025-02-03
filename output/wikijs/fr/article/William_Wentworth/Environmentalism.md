@@ -58,7 +58,7 @@ De la même manière, les deux courants présentent l’influence de la révolte
 
 Mais quelle que soit la manière dont nous choisissons de voir les choses, l’environnementalisme promet d’être avec nous pendant encore un bon moment. Comme le souligne _Le Livre d'URANTIA_ (LU 85 : 0.4),
 
-> « _tout ce qui se trouve à la surface de la terre a été objet d’adoration pour l’homme, y compris lui-même._ » (<a id="a36_114"></a>[LU 85:0.4](/fr/The_Urantia_Book/85#p0_4))
+> « _tout ce qui se trouve à la surface de la terre a été objet d’adoration pour l’homme, y compris lui-même._ » (<a id="a60_114"></a>[LU 85:0.4](/fr/The_Urantia_Book/85#p0_4))
 
 Le culte de la nature n’est pas nouveau. La résurgence d’une telle philosophie dans la civilisation occidentale, si elle est aussi étendue que je le pense, pourrait bien avoir des effets assez vastes. Et à moins que la jeunesse occidentale ne choisisse à nouveau d’adorer Dieu, l’environnementalisme pourrait bien continuer à l’attirer comme alternative.
 

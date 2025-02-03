@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Présentations de la 20e réunion des lecteurs du Livre d'Urantia en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Manuel Vicent dans son dernier livre, Une histoire particulière, nous dit ces belles paroles au début :
 
@@ -18,7 +42,7 @@ Certes, ces quatre cordes auxquelles fait allusion l’écrivain espagnol sont f
 
 Ceux d'entre nous qui lisent _Le Livre d'Urantia_ connaissent les difficultés que rencontre la vie matérielle, en particulier dans un monde décimal, en rébellion, sans l'aide d'un gouvernement planétaire physique et, à de nombreuses occasions, avec la prédominance de notre partie instinctive sur notre partie plus élevée. . Il est vrai qu’il existe de nombreux êtres humains qui n’aspirent qu’à naître, grandir, se reproduire et mourir ; de reproduire la course incessante du hamster, qui ne mène nulle part. Maintenant, _Le Livre d'Urantia_ nous dit :
 
-> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. (<a id="a44_743"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-1.jpg" alt="Editorial agosto-24-1" width="350">
@@ -31,7 +55,7 @@ Ce dilemme crucial auquel nous, êtres humains du 21e siècle, sommes confronté
 Quelque chose d'assez difficile car dans les lettres, dans un texte écrit, il est difficile de capturer les émotions et les étreintes, les regards et les sourires, les dialogues aux repas et les rires, les mots partagés dans les couloirs et dans la salle de réunion, les conversations et Les débats du samedi «  Territoire Comanche  » ou les dialogues et débats de chaque groupe dans les différents ateliers. Comment pouvons-nous vous transmettre l’esprit d’harmonie, d’amour et de joie que nous avons vécu durant ce week-end et qui a «  rechargé nos batteries spirituelles  » ? C'est avec cet esprit élevé que nous avons pu rentrer chez nous dans différentes régions d'Espagne et continuer à montrer au monde, dans notre petite région, les enseignements de notre bien-aimé Maître. C'est de cela qu'il s'agit : travailler dans la « vigne », dans le monde, dans notre environnement et **montrer par des actes ce qu'il y a en nous**.
 <br style="clear:both;"/>
 
-> Jésus introduisit l’esprit d’action positive dans les doctrines passives de la religion juive. Au lieu d’une soumission négative à des exigences cérémonielles, Jésus prescrivit l’accomplissement positif de ce que sa nouvelle religion exigeait de ceux qui l’acceptaient. La religion de Jésus ne consistait pas simplement à *croire,* mais à *faire* réellement ce que l’évangile demandait. Il n’enseignait pas que le service social constituait l’essence de sa religion, mais bien plutôt que le service social était un des effets certains de la possession de l’esprit de vraie religion. ([LU 159:5.8](/fr/The_Urantia_Book/159#p5_8))
+> Jésus introduisit l’esprit d’action positive dans les doctrines passives de la religion juive. Au lieu d’une soumission négative à des exigences cérémonielles, Jésus prescrivit l’accomplissement positif de ce que sa nouvelle religion exigeait de ceux qui l’acceptaient. La religion de Jésus ne consistait pas simplement à *croire,* mais à *faire* réellement ce que l’évangile demandait. Il n’enseignait pas que le service social constituait l’essence de sa religion, mais bien plutôt que le service social était un des effets certains de la possession de l’esprit de vraie religion. (<a id="a57_586"></a>[LU 159:5.8](/fr/The_Urantia_Book/159#p5_8))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_07/Editorial-08-24-2.jpg" alt="Editorial agosto 24-2" width="350">
@@ -63,3 +87,28 @@ https://www.youtube.com/watch?v=zQ0fb0mu4p4
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/07/30/editorial-agosto-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/XX_Encuentro_Presentaciones">
+          <span class="pr-2">Présentations de la 20e réunion des lecteurs du Livre d'Urantia en Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

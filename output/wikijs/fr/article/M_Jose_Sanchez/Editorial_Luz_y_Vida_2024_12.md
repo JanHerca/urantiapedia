@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Janvier 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## NOUVELLE ANNÉE
 
@@ -22,7 +46,7 @@ Ceux d’entre nous qui lisent et veulent mettre en pratique _Le Livre d’Urant
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
 </figure>
 
-La paix de l’esprit de Jésus était fondée sur une foi humaine absolue dans la sollicitude sage et compatissante du Père divin. Jésus a connu des difficultés sur terre, il a même été improprement appelé «  homme de douleur  », mais dans toutes ces expériences, il a eu la consolation d'une confiance qui lui a toujours donné la force de continuer à avancer avec le but de sa vie dans la pleine certitude qu'il accomplissait la volonté du Père. [LU 181:1.8](/fr/The_Urantia_Book/181#p1_8)
+La paix de l’esprit de Jésus était fondée sur une foi humaine absolue dans la sollicitude sage et compatissante du Père divin. Jésus a connu des difficultés sur terre, il a même été improprement appelé «  homme de douleur  », mais dans toutes ces expériences, il a eu la consolation d'une confiance qui lui a toujours donné la force de continuer à avancer avec le but de sa vie dans la pleine certitude qu'il accomplissait la volonté du Père. <a id="a48_443"></a>[LU 181:1.8](/fr/The_Urantia_Book/181#p1_8)
 
 Cette expérience terrestre de notre Maître bien-aimé, cette attitude avec laquelle il respirait et se déplaçait, nous invite à atteindre un merveilleux équilibre dans nos vies : ni devenir des stoïques insensibles et endurcis par la douleur, ni des optimistes aveugles et trompés.
 
@@ -64,7 +88,7 @@ Le Maître est monté au ciel comme homme et comme Dieu ; appartient aux hommes 
 
 Nous pouvons suivre le Maître, maintenant, au 21e siècle. Chacun dans sa vie spécifique.
 
-«  Suivre Jésus  » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maître consacrée au service désintéressé des hommes. [LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)
+«  Suivre Jésus  » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maître consacrée au service désintéressé des hommes. <a id="a90_161"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)
 <br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
@@ -161,3 +185,28 @@ C'est notre cadeau.
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/12/30/editorial-enero-2025/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Janvier 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Janvier 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jan_Herca/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

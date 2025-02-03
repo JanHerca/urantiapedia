@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Ulises-Pedrique.jpg" alt="Ulises Pedrique" width="250">
@@ -35,7 +56,7 @@ Surprise, prudence et excitation. La surprise et l’émotion, avant tout. Eh bi
 
 Par sa connotation dans trois mots que je dois considérer comme mes préférés de tous les temps : Dieu, Jésus et Amour. Et ces trois mots abondent dans Le Livre d'Urantia, puisque dans presque chacune de ses pages l'un d'eux apparaît toujours. Ou les trois ensemble, comme dans ce cas :
 
-«  Jésus a révélé un Dieu d’Amour, et l’Amour englobe toute vérité, toute beauté et toute bonté.  » ([LU 5:4.6](/fr/The_Urantia_Book/5#p4_6))
+«  Jésus a révélé un Dieu d’Amour, et l’Amour englobe toute vérité, toute beauté et toute bonté.  » (<a id="a58_101"></a>[LU 5:4.6](/fr/The_Urantia_Book/5#p4_6))
 
 Et au fait, cette fois-ci assaisonnée de ces trois autres que j'aime aussi beaucoup : la vérité, la beauté et la bonté.
 
@@ -49,13 +70,13 @@ Depuis que j'ai commencé à le lire, c'est devenu une lecture favorite, récurr
 
 Je ne peux pas dire que cela l'a changé, mais plutôt que cela l'a augmenté. Cela l'a amenée à un niveau de spiritualisation pratique qui fait écho dans mon esprit à la célèbre phrase de l'apôtre : «  Si votre foi ne déplace pas les montagnes, abandonnez-la, car elle n'est pas une foi fidèle.  » Je n’attends plus de voir Dieu pour savoir qu’il existe. Parce que savoir qu’il existe, c’est comme le voir. Et en plus, il y a d’autres êtres super intelligents qui sont venus directement sur Terre pour nous dire qu’ils Le connaissent et qu’ils témoignent de Lui, de Sa puissance et de Sa gloire. Et si notre esprit a déjà été spiritualisé grâce à l'Amour infini et à la patience de Celui qui a donné sa vie sur la croix pour nous, nous pouvons maintenant terminer notre expérience terrestre en paix, sachant, avec justesse, que Dieu est en, à travers et avec nous, et à tout moment, en tout lieu et en toute circonstance. Et cela ne m'a pas été enseigné par _Le Livre d'Urantia_, mais il a mis à jour ma compréhension :
 
-«  Il n’est pas nécessaire de voir Dieu avec les yeux de la chair, de le percevoir avec la vision de la foi de l’esprit spiritualisé.  » ([LU 1:3.3](/fr/The_Urantia_Book/1#p3_3))
+«  Il n’est pas nécessaire de voir Dieu avec les yeux de la chair, de le percevoir avec la vision de la foi de l’esprit spiritualisé.  » (<a id="a72_138"></a>[LU 1:3.3](/fr/The_Urantia_Book/1#p3_3))
 
 ## 6. Y a-t-il un ou plusieurs points de la révélation que vous trouvez difficiles à accepter ?
 
 Ce que j’ai du mal à accepter, c’est pourquoi il y a encore tant de personnes qui ne croient pas à ces révélations ou aux paroles de sagesse qu’elles contiennent. Mais d’un autre côté, je comprends que tout fait partie d’un processus évolutif qui prend du temps pour chaque personne. Petit à petit et sans hâte, l'amour est plus sûr (dit une vieille chanson). Mais, grâce à notre connaissance, à notre patience et à notre application, tout est déjà écrit. Une étape à la fois. Nous ne pouvons pas trop forcer là où nous en sommes actuellement, ni accélérer intentionnellement la vitesse de l’enseignement :
 
-«  La seule technique pour accélérer la tendance naturelle de l'évolution sociale est d'appliquer une pression spirituelle d'en haut, augmentant ainsi la perspicacité morale et élevant en même temps la capacité de l'âme de chaque mortel à comprendre et à aimer tous les autres mortels.  » ([LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
+«  La seule technique pour accélérer la tendance naturelle de l'évolution sociale est d'appliquer une pression spirituelle d'en haut, augmentant ainsi la perspicacité morale et élevant en même temps la capacité de l'âme de chaque mortel à comprendre et à aimer tous les autres mortels.  » (<a id="a78_290"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
 
 ## 7. Quelle est la partie qui vous a le plus impressionné ?
 
@@ -71,13 +92,13 @@ Déjà à l’adolescence, j’ai appris que faire quelque chose de bien pour le
 
 Dans certaines études ultérieures, j’ai également découvert ou confirmé que la volonté de Dieu pour nous «  est la joie parfaite et le bonheur complet  ». Bien que je n’aie jamais complètement ignoré que Sa Volonté première pour nous est que nous nous aimions les uns les autres (comme Il nous aime !) et que nous cherchions également à nous comprendre les uns les autres (et tout comme Il nous comprend !). Deux choses qui, même si elles peuvent paraître, ne sont pas si faciles pour beaucoup. Mais pour moi, cela, plus qu’un commandement ou un ordre, est un véritable délice. Un délice qui guérit. Et je cite à nouveau ce même paragraphe :
 
-«  La compréhension mutuelle et l’amour fraternel sont des agents civilisateurs transcendants et de puissants facteurs dans la réalisation mondiale de la fraternité des hommes.  » ([LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
+«  La compréhension mutuelle et l’amour fraternel sont des agents civilisateurs transcendants et de puissants facteurs dans la réalisation mondiale de la fraternité des hommes.  » (<a id="a94_181"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
 
 ## 9. Avez-vous pris conscience de la présence de votre Ajusteur ?
 
 Je vous dis humblement qu’il ne m’appartient pas de révéler si j’ai été ou si je suis vraiment conscient de Sa présence. Tous les êtres qui m’entourent ou que j’entoure peuvent en témoigner. _Le Livre d’Urantia_ dit que, pour l’instant, et sur la sphère où nous sommes, nous sommes partiellement conscients. Mais ce qui est vrai, c’est la «  petite voix  » qui vous parle et vous dit, par exemple : «  c’est le chemin, suivez-le  », c’est une vraie réalité. Et il se peut qu’il y ait un témoignage vivant. Rien n'est une coïncidence dans la vie. Regardez ça :
 
-«  Parfois, il est possible que l'esprit soit illuminé, que la voix divine qui parle continuellement en vous soit entendue, afin que vous puissiez devenir partiellement conscient de la sagesse, de la vérité, de la bonté et de la beauté de la personnalité potentielle qui réside constamment en vous. en toi. en toi. » ([LU 109:5.2](/fr/The_Urantia_Book/109#p5_2))
+«  Parfois, il est possible que l'esprit soit illuminé, que la voix divine qui parle continuellement en vous soit entendue, afin que vous puissiez devenir partiellement conscient de la sagesse, de la vérité, de la bonté et de la beauté de la personnalité potentielle qui réside constamment en vous. en toi. en toi. » (<a id="a100_318"></a>[LU 109:5.2](/fr/The_Urantia_Book/109#p5_2))
 
 ## 10. Avez-vous essayé de mettre en pratique les enseignements du Maître ? Quel a été le résultat ?
 
@@ -101,3 +122,25 @@ Voilà, frères et sœurs, mon humble avis sur la question.
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/09/26/cuestionario-urantiano-10/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rey_Sotolongo/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -126,7 +126,7 @@ Mais cela signifie-t-il que nous avons découvert la maison en question ? Ces va
 
 ## Que dit _Le Livre d'Urantia_ ?
 
-_Le Livre d'Urantia_ fait plusieurs mentions de Cana, mais aucune d'elles ne peut déchiffrer la position de la ville. Nous pouvons seulement observer que Jésus voyage de Capharnaüm à Cana avec une partie de sa famille en une seule journée. Toutefois, cela ne nous dit pas grand-chose. Pratiquement toutes les enclaves étaient à moins d'un jour de Capharnaüm, bien que celle qui soit particulièrement proche soit Khirbet Kana (voir <a id="a112_416"></a>[LU 137:3](/fr/The_Urantia_Book/137#p3_1)).
+_Le Livre d'Urantia_ fait plusieurs mentions de Cana, mais aucune d'elles ne peut déchiffrer la position de la ville. Nous pouvons seulement observer que Jésus voyage de Capharnaüm à Cana avec une partie de sa famille en une seule journée. Toutefois, cela ne nous dit pas grand-chose. Pratiquement toutes les enclaves étaient à moins d'un jour de Capharnaüm, bien que celle qui soit particulièrement proche soit Khirbet Kana (voir <a id="a128_431"></a>[LU 137:3](/fr/The_Urantia_Book/137#p3_1)).
 
 Alors, pour lequel devriez-vous opter ?
 

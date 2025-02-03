@@ -48,7 +48,7 @@ _Le Livre d'URANTIA_ nous dit qu'il s'appelle : MONMATIA. Dans quel système pla
 
 Ce qui suit est ma propre perspective, après avoir lu les sections relatives dans _Le Livre d'URANTIA_, et nos connaissances actuelles révélées par l'exploration spatiale (pas nécessairement à jour, ni même tout à fait correctes ; si quelqu'un peut jeter plus de lumière sur le sujet, je serait reconnaissant pour l'information.)
 
-L'origine de Monmatia est <a id="a26_26"></a>[LU 57:5.1](/fr/The_Urantia_Book/57#p5_1).
+L'origine de Monmatia est <a id="a50_26"></a>[LU 57:5.1](/fr/The_Urantia_Book/57#p5_1).
 
 Notre système solaire composé de planètes, de lunes, d'astéroïdes, de météores, de poussière spatiale et tout le reste, s'est formé lorsque le système géant ANGONA, dont le centre était un géant sombre de l'espace avec une énorme attraction gravitationnelle. En effet, c’est ce qui s’est produit, en extrayant suffisamment de masse solaire pour démarrer la formation d’un système planétaire. Renflé au centre et effilé aux extrémités, cet énorme flux de matière gazeuse s'est transformé en DOUZE PLANÈTES du système solaire.
 
@@ -78,9 +78,9 @@ Pour continuer la saga, je soulignerai certaines connaissances pertinentes prove
 
 Jupiter a 14 (?) lunes en orbite autour de cette énorme planète gazeuse qui fait plus de onze fois le diamètre de la Terre.
 
-> « ils furent en réalité des soleils secondaires durant une brève période qui suivit leur formation en tant que corps spatiaux distincts. (Jupiter et Saturne) » (<a id="a56_163"></a>[LU 57:5.10](/fr/The_Urantia_Book/57#p5_10))
+> « ils furent en réalité des soleils secondaires durant une brève période qui suivit leur formation en tant que corps spatiaux distincts. (Jupiter et Saturne) » (<a id="a80_163"></a>[LU 57:5.10](/fr/The_Urantia_Book/57#p5_10))
 
-> « Beaucoup de ces énormes sphères ont des satellites, parfois une demi-douzaine ou davantage, et ces lunes ont souvent une taille très voisine de celle d’Urantia, ce qui les rend presque idéales pour l’habitation. » (<a id="a58_219"></a>[LU 49:0.4](/fr/The_Urantia_Book/49#p0_4))
+> « Beaucoup de ces énormes sphères ont des satellites, parfois une demi-douzaine ou davantage, et ces lunes ont souvent une taille très voisine de celle d’Urantia, ce qui les rend presque idéales pour l’habitation. » (<a id="a82_219"></a>[LU 49:0.4](/fr/The_Urantia_Book/49#p0_4))
 
 Saturne possède dix satellites, le plus grand étant TITAN, qui est plus grand que Mercure et dont l'atmosphère est censée être principalement composée d'azote. (des récits antérieurs faisaient état de méthane) Une action volcanique vigoureuse a été photographiée sur l'une des lunes de Jupiter appelée I-O.
 
@@ -88,21 +88,21 @@ D'autres grandes lunes de Jupiter appelées Ganymède, Callisto et Europe semble
 
 Uranus est incliné à environ 90° ; à l'écliptique et a une rotation rétrograde. Son voisin extérieur, Neptune, possède une grande lune, Triton, qui a un mouvement rétrograde.
 
-> « Dans tout système astronomique, le mouvement rétrograde est toujours accidentel et apparait toujours à la suite de l’impact dû à la collision de corps spatiaux étrangers. De telles collisions ne produisent pas toujours un mouvement rétrograde, mais nul mouvement rétrograde n’apparait jamais ailleurs que dans un système contenant des masses d’origines diverses. » (<a id="a66_370"></a>[LU 57:5.14](/fr/The_Urantia_Book/57#p5_14))
+> « Dans tout système astronomique, le mouvement rétrograde est toujours accidentel et apparait toujours à la suite de l’impact dû à la collision de corps spatiaux étrangers. De telles collisions ne produisent pas toujours un mouvement rétrograde, mais nul mouvement rétrograde n’apparait jamais ailleurs que dans un système contenant des masses d’origines diverses. » (<a id="a90_370"></a>[LU 57:5.14](/fr/The_Urantia_Book/57#p5_14))
 
 L’aspect le plus important est bien entendu la vie sur les planètes.
 
 > « Les êtres semblables à ceux des races d’Urantia sont classés comme respirateurs moyens. Vous représentez l’ordre respiratoire moyen ou typique d’existence mortelle. Si des créatures intelligentes existaient sur une planète ayant une atmosphère semblable à celle de Vénus, votre plus proche voisine, elles appartiendraient au groupe superrespirateur, tandis que les habitants d’une planète ayant une atmosphère aussi raréfiée que celle de Mars, votre voisin extérieur, seraient appelés sous-respirateurs. »
 > 
-> « Si des mortels habitaient une planète dépourvue d’air comme votre lune, ils appartiendraient à l’ordre distinct des non-respirateurs. » (11,2% des mondes habités de Satania) (<a id="a72_179"></a>[LU 49:2.13-14](/fr/The_Urantia_Book/49#p2_13))
+> « Si des mortels habitaient une planète dépourvue d’air comme votre lune, ils appartiendraient à l’ordre distinct des non-respirateurs. » (11,2% des mondes habités de Satania) (<a id="a96_179"></a>[LU 49:2.13-14](/fr/The_Urantia_Book/49#p2_13))
 
-> « La conduite planétaire des non-respirateurs présenterait plus que de l’intérêt pour vous, parce qu’une race de ces êtres habite une sphère très proche d’Urantia. » (<a id="a74_169"></a>[LU 49:3.6](/fr/The_Urantia_Book/49#p3_6))
+> « La conduite planétaire des non-respirateurs présenterait plus que de l’intérêt pour vous, parce qu’une race de ces êtres habite une sphère très proche d’Urantia. » (<a id="a98_169"></a>[LU 49:3.6](/fr/The_Urantia_Book/49#p3_6))
 
 J'ai essayé d'imaginer ce que ce serait de ne pas respirer, en retenant ma respiration pendant de longues périodes, mais j'ai fini par avoir des vertiges. Comment alors ces êtres font-ils face à des vertiges constants ? Si nous rencontrions ces mortels, les accepterions-nous tels qu’ils sont, ou essaierions-nous de les convertir au respirisme ?
 
-> Satania n’est pas un système physique uniforme, une unité ou organisation astronomique simple. Ses 619 mondes habités sont situés dans plus de cinq-cents systèmes physiques différents, dont cinq seulement comportent plus de deux mondes habités. Parmi eux, il y en a seulement un qui comporte quatre planètes peuplées, tandis que quarante-six ont deux mondes habités. (<a id="a78_370"></a>[LU 32:2.10](/fr/The_Urantia_Book/32#p2_10))
+> Satania n’est pas un système physique uniforme, une unité ou organisation astronomique simple. Ses 619 mondes habités sont situés dans plus de cinq-cents systèmes physiques différents, dont cinq seulement comportent plus de deux mondes habités. Parmi eux, il y en a seulement un qui comporte quatre planètes peuplées, tandis que quarante-six ont deux mondes habités. (<a id="a102_370"></a>[LU 32:2.10](/fr/The_Urantia_Book/32#p2_10))
 
-> « Dans votre système solaire, trois planètes seulement sont présentement appropriées pour héberger la vie. » (<a id="a80_112"></a>[LU 15:6.15](/fr/The_Urantia_Book/15#p6_15))
+> « Dans votre système solaire, trois planètes seulement sont présentement appropriées pour héberger la vie. » (<a id="a104_112"></a>[LU 15:6.15](/fr/The_Urantia_Book/15#p6_15))
 
 Je me demande à quel point nous sommes proches d'avoir des voisins mortels dans notre système planétaire. Mais bien sûr, nos sondes spatiales ont prouvé de manière concluante qu’il n’existe même pas une cellule vivante de base dans le reste de notre système solaire.
 

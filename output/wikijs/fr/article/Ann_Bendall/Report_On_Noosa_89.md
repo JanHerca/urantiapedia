@@ -50,7 +50,7 @@ Le dîner au Halse Lodge était à 19 heures, suivi d'un divertissement sous for
 
 Vendredi matin, après un chant de cantiques, nous nous sommes divisés en cinq groupes pour l'atelier « Chaînon manquant » qui était basé sur la citation suivante :
 
-> « Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a28_629"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
+> « Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a52_629"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 
 Ce qui suit est un résumé des objectifs de l'atelier préparé par Ken Glasziou.
 

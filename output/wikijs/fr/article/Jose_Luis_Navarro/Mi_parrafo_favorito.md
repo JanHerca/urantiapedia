@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 José Luis Navarro<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie : je m'explique à Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Adan-y-Eva-mi-parrafo-favorito.jpg" alt="Adán y Eva" width="350">
@@ -16,7 +37,7 @@ dateCreated: 2025-1-31T13:52:37Z
 
 <br style="clear:both;"/>
 
-> ADAM ET ÈVE arrivèrent sur Urantia 37 848 ans avant l’an 1934 de l’ère chrétienne, au milieu de la belle saison, au moment où le Jardin était à l’apogée de sa floraison. À midi, et sans être annoncés, les deux convois séraphiques, accompagnés du personnel de Jérusem chargé du transport sur Urantia des élévateurs biologiques, atterrirent lentement sur la surface de la planète en rotation, à proximité du temple du Père Universel. Tout le travail de rematérialisation des corps d’Adam et d’Ève fut exécuté dans l’enceinte de ce sanctuaire récemment créé. Après leur arrivée, il s’écoula dix jours avant qu’ils fussent recréés sous leur forme humaine duelle pour être présentés au monde comme ses nouveaux dirigeants. Ils reprirent conscience simultanément. Les Fils et Filles Matériels servent toujours ensemble. En tous temps et en tous lieux, l’essence de leur service est de n’être jamais séparés. Ils sont destinés à travailler par couples, et il est rare qu’ils remplissent séparément leurs fonctions. ([LU 74:0.1](/fr/The_Urantia_Book/74#p0_1))
+> ADAM ET ÈVE arrivèrent sur Urantia 37 848 ans avant l’an 1934 de l’ère chrétienne, au milieu de la belle saison, au moment où le Jardin était à l’apogée de sa floraison. À midi, et sans être annoncés, les deux convois séraphiques, accompagnés du personnel de Jérusem chargé du transport sur Urantia des élévateurs biologiques, atterrirent lentement sur la surface de la planète en rotation, à proximité du temple du Père Universel. Tout le travail de rematérialisation des corps d’Adam et d’Ève fut exécuté dans l’enceinte de ce sanctuaire récemment créé. Après leur arrivée, il s’écoula dix jours avant qu’ils fussent recréés sous leur forme humaine duelle pour être présentés au monde comme ses nouveaux dirigeants. Ils reprirent conscience simultanément. Les Fils et Filles Matériels servent toujours ensemble. En tous temps et en tous lieux, l’essence de leur service est de n’être jamais séparés. Ils sont destinés à travailler par couples, et il est rare qu’ils remplissent séparément leurs fonctions. (<a id="a39_1011"></a>[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1))
 
 La première fois que je l'ai lu en parcourant le livre en ligne (je n'avais pas encore décidé si je l'achetais), cela a eu un impact énorme sur mon système de croyances. Cela a résonné très fort en moi à cause de l’incroyable cohérence de l’histoire.
 
@@ -33,3 +54,25 @@ Quoi qu'il en soit, lorsque j'ai lu ce paragraphe du _Livre d'Urantia_, même si
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/10/30/mi-parrafo-favorito-33/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie : je m'explique à Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

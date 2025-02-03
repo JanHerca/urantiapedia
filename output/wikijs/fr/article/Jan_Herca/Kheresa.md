@@ -28,7 +28,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 Le nom Queresa est très déroutant. Cette population apparaît dans différentes sources sous des noms très différents : parfois elle apparaît traduite par Jeresa, Gergesa, mais depuis des temps plus récents par Kursi ou Chorsia. Ces derniers rappellent davantage la transcription anglaise de Queresa, qui est _Kheresa_.
 
-Quelle que soit l'origine de cette localisation, il faut la chercher dans [Mt 8:28-34](/fr/Bible/Matthew/8#v28) (<a id="a14_106"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)). Ici l'évangéliste nous dit : « Lorsqu'il atteignit l'autre rive, dans la région des Gadaréniens, deux hommes possédés par des démons sortirent à sa rencontre du milieu des tombeaux. » Il raconte ensuite le miracle bien connu de Jésus dans lequel il expulse une légion de démons et les introduit dans un troupeau de cochons, qui se précipitent dans le lac.
+Quelle que soit l'origine de cette localisation, il faut la chercher dans [Mt 8:28-34](/fr/Bible/Matthew/8#v28) (<a id="a30_113"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)). Ici l'évangéliste nous dit : « Lorsqu'il atteignit l'autre rive, dans la région des Gadaréniens, deux hommes possédés par des démons sortirent à sa rencontre du milieu des tombeaux. » Il raconte ensuite le miracle bien connu de Jésus dans lequel il expulse une légion de démons et les introduit dans un troupeau de cochons, qui se précipitent dans le lac.
 
 Cependant, dans les récits parallèles de [Mc 1:5-20](/fr/Bible/Mark/1#v5) et [Lc 8:26-39](/fr/Bible/Luke/8#v26), il est dit "_gerasenos_" au lieu de "_gadarenos_", ouvrant la possibilité de places à trois : Gadara, actuelle Hammat Gader, ville située à quelques kilomètres au sud-est du lac, sur une élévation ; Gerasa, Jerash moderne, située à l'intérieur de la Jordanie ; et enfin Kursi, un site situé à six kilomètres au nord du kibboutz En Gev, sur la rive orientale de la mer de Galilée.
 
@@ -71,9 +71,9 @@ La mer de Galilée avait-elle autrefois des falaises au bord de l'eau ? Selon le
 
 _Le Livre d'Urantia_ souligne en outre l'idée qu'il y avait un précipice qui est tombé dans les eaux :
 
-> La majeure partie de la rive orientale du lac remontait en pente douce vers les hautes terres, mais, en ce lieu particulier, il y avait une colline abrupte qui, par endroits, tombait à pic dans le lac. <a id="a57_250"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)
+> La majeure partie de la rive orientale du lac remontait en pente douce vers les hautes terres, mais, en ce lieu particulier, il y avait une colline abrupte qui, par endroits, tombait à pic dans le lac. <a id="a73_204"></a>[LU 151:6.1](/fr/The_Urantia_Book/151#p6_1)
 
-> Tandis que les porchers se précipitaient dans le village pour répandre la nouvelle que l’aliéné avait été dompté, les chiens chargèrent un troupeau non surveillé d’une trentaine de porcs et en firent tomber la majeure partie dans la mer par-dessus un à-pic. <a id="a59_287"></a>[LU 151:6.6](/fr/The_Urantia_Book/151#p6_6)
+> Tandis que les porchers se précipitaient dans le village pour répandre la nouvelle que l’aliéné avait été dompté, les chiens chargèrent un troupeau non surveillé d’une trentaine de porcs et en firent tomber la majeure partie dans la mer par-dessus un à-pic. <a id="a75_260"></a>[LU 151:6.6](/fr/The_Urantia_Book/151#p6_6)
 
 Tout semble indiquer que sans aucun doute les vagues du lac se sont brisées en un point de la côte contre une falaise presque verticale. Même si c'est surprenant si l'on considère l'orographie actuelle. De plus, si tel était le cas, la bordure orientale ne pourrait être contournée qu'en montant un chemin en zigzag jusqu'au sommet, puis en descendant de l'autre côté de la falaise. Si ce ravin existait réellement, il aurait dû couper toute éventuelle chaussée reliant la côte est.
 

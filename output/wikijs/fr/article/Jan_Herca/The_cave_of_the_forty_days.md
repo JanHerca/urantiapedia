@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Parfois, il y a des références dans _Le Livre d'Urantia_ qui attirent l'attention par leur exactitude et leur caractère concret. Ils semblent être placés là pour que quelqu'un puisse prendre la peine de les vérifier, ou peut-être avec une intention cachée que je n'arrive toujours pas à comprendre. Mais lorsque j'ai commencé à écrire le chapitre sur la période d'isolement de Jésus après son baptême, les fameux « quarante jours », je n'ai pas pu échapper à la tentation de rechercher où se trouvait Jésus pendant cette période.
 
-> Durant ces journées mémorables, Jésus vécut dans une ancienne caverne rocheuse, un abri au flanc d’une montagne, proche d’un village autrefois appelé Beit Adis. Il buvait l’eau de la petite source qui jaillissait à flanc du coteau près de cet abri rocheux. <a id="a14_269"></a>[[LU 136:4.14](/fr/The_Urantia_Book/136#p4_14)]
+> Durant ces journées mémorables, Jésus vécut dans une ancienne caverne rocheuse, un abri au flanc d’une montagne, proche d’un village autrefois appelé Beit Adis. Il buvait l’eau de la petite source qui jaillissait à flanc du coteau près de cet abri rocheux. <a id="a30_259"></a>[[LU 136:4.14](/fr/The_Urantia_Book/136#p4_14)]
 
 Ce passage du _Livre d'Urantia_ était si frappant qu'il semblait me demander de l'étudier.
 

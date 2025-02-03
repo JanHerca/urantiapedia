@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Questionnaire Urantien : Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Entendre
 
@@ -36,9 +60,9 @@ Dans _Le Livre d'Urantia_ nous lisons à propos de Jésus de Nazareth ce comport
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-À ce moment-là, Ganid avait commencé à remarquer que son tuteur passait son temps libre dans ce ministère personnel inhabituel auprès de ses semblables, et il voulait découvrir la raison de cette activité constante. Il a demandé : « Pourquoi passes-tu tout ton temps à parler à des inconnus ? » Jésus répondit : Ganid, pour quiconque connaît Dieu, aucun homme n’est un étranger. Dans l’expérience de trouver le Père dans les cieux, vous découvrez que tous les hommes sont vos frères, et qu’y a-t-il d’étrange à se réjouir en compagnie d’un frère nouvellement découvert ? « Traiter avec nos frères et sœurs, connaître leurs problèmes et apprendre à les aimer est l'expérience suprême de la vie. » [LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
+À ce moment-là, Ganid avait commencé à remarquer que son tuteur passait son temps libre dans ce ministère personnel inhabituel auprès de ses semblables, et il voulait découvrir la raison de cette activité constante. Il a demandé : « Pourquoi passes-tu tout ton temps à parler à des inconnus ? » Jésus répondit : Ganid, pour quiconque connaît Dieu, aucun homme n’est un étranger. Dans l’expérience de trouver le Père dans les cieux, vous découvrez que tous les hommes sont vos frères, et qu’y a-t-il d’étrange à se réjouir en compagnie d’un frère nouvellement découvert ? « Traiter avec nos frères et sœurs, connaître leurs problèmes et apprendre à les aimer est l'expérience suprême de la vie. » <a id="a62_696"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
 
-Ce lien étroit avec ses semblables, jeunes et vieux, Juifs et Gentils, lui a donné l’occasion de connaître la race humaine. Jésus était très bien éduqué dans le sens où il comprenait profondément les hommes et les aimait profondément. [LU 123:5.8](/fr/The_Urantia_Book/123#p5_8)
+Ce lien étroit avec ses semblables, jeunes et vieux, Juifs et Gentils, lui a donné l’occasion de connaître la race humaine. Jésus était très bien éduqué dans le sens où il comprenait profondément les hommes et les aimait profondément. <a id="a64_235"></a>[LU 123:5.8](/fr/The_Urantia_Book/123#p5_8)
 
 Nous voyons comment un Dieu créateur vient sur Terre et ne se montre pas écrasant dans sa puissance suprême, mais plutôt proche et bienveillant, amical et compréhensif face à nos problèmes et à nos expériences. « Il comprenait profondément les hommes et les aimait tendrement. » Il parlait et écoutait toutes sortes de gens : des caravaniers, des prostituées, un empereur, des pêcheurs et des petits enfants. Tous les êtres humains l’intéressaient.
 
@@ -53,13 +77,13 @@ Pablo d'Ors analyse ces cinq convictions concernant l'écoute :
 
 Nous ne pouvons pas écouter les autres si nous ne nous écoutons pas nous-mêmes. Si je reste assis dans le silence et l’immobilité, cela nous transforme. Oui, quelque chose de si simple. Notre société se caractérise aujourd’hui par une plus grande connexion avec le monde extérieur (téléphones portables, Internet), mais une moindre connexion avec le monde intérieur. Nous vivons dans l'emballage et nous ne nous connaissons pas, nous ignorons le trésor qui réside en nous. Si je me connais, je peux m’aimer, car si je ne m’aime pas comme fils ou fille de Dieu, je n’aime pas les autres (je ne peux pas donner ce que je n’ai pas). Si je ne m'aime pas, nous ne savons pas ce qu'est la vie. La vie consiste précisément à aimer, et si nous ne sommes pas dans la vie, nous n'entrevoyons pas ce mystère qu'est Dieu. Nous ne voyons que des dogmes, des rituels, des croyances qui sont extérieurs à nous. Nous n’entendons pas le Dieu vivant, nous ne voyons pas cette source intérieure que Jésus nous exhorte constamment à rechercher.
 
-Jésus a exhorté ses disciples à exercer une foi expérimentale. Il les a avertis de ne pas se fier au simple assentiment intellectuel, à la crédulité ou à l’autorité établie. [LU 140:4.9](/fr/The_Urantia_Book/140#p4_9)
+Jésus a exhorté ses disciples à exercer une foi expérimentale. Il les a avertis de ne pas se fier au simple assentiment intellectuel, à la crédulité ou à l’autorité établie. <a id="a79_174"></a>[LU 140:4.9](/fr/The_Urantia_Book/140#p4_9)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-3.jpg" alt="Editorial jul23-3" width="350">
 </figure>
 
-…Je vous déclare que mon Père qui est au Paradis gouverne effectivement un univers d’univers par le pouvoir persuasif de son amour. L’amour est la plus grande de toutes les réalités de l’esprit. La vérité est une révélation libératrice, mais l’amour est la relation ultime. [LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
+…Je vous déclare que mon Père qui est au Paradis gouverne effectivement un univers d’univers par le pouvoir persuasif de son amour. L’amour est la plus grande de toutes les réalités de l’esprit. La vérité est une révélation libératrice, mais l’amour est la relation ultime. <a id="a85_274"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
 
 **2\. Rectitude d'intention**
 
@@ -67,7 +91,7 @@ Si vous devez écouter, écoutez gratuitement, sans prétention personnelle. Est
 
 On entend souvent parler de prosélytisme, de tentative de convertir les autres, de les amener sur notre propre territoire. Cependant, si je laisse l’autre personne libre, il peut y avoir une écoute libre, je peux écouter son cœur et non sa surface. Jésus, qui connaît intimement les gens, observe l'être humain et voit sa demande d'aide, même s'il ne sait pas comment l'exprimer, car il est capable de l'écouter, sans rien chercher pour lui-même :
 
-"Mais... je ne t'ai rien demandé." Jésus lui répondit en posant doucement sa main sur son épaule : « Non, mon fils, ce n’est pas avec des paroles que tu as parlé à mon cœur, mais avec ton regard plein de désir. Mon garçon, pour quelqu’un qui aime son prochain, ton attitude de désespoir et de découragement est un appel à l’aide clair. [LU 130:6.2](/fr/The_Urantia_Book/130#p6_2)
+"Mais... je ne t'ai rien demandé." Jésus lui répondit en posant doucement sa main sur son épaule : « Non, mon fils, ce n’est pas avec des paroles que tu as parlé à mon cœur, mais avec ton regard plein de désir. Mon garçon, pour quelqu’un qui aime son prochain, ton attitude de désespoir et de découragement est un appel à l’aide clair. <a id="a93_336"></a>[LU 130:6.2](/fr/The_Urantia_Book/130#p6_2)
 <br style="clear:both;"/>
 
 **3\. Le meilleur service est d’aider les autres à croire en eux-mêmes**
@@ -115,7 +139,7 @@ Jésus était particulièrement réticent à prier en public ; Les douze l’ava
 
 _Le Livre d’Urantia_ nous dit de rechercher le silence et la solitude, et dans ce silence et cette solitude, il est possible d’ouvrir notre vaisseau ou notre esprit pour recevoir des dons divins.
 
-La prière n’incite pas le cœur divin à donner généreusement, mais elle creuse souvent des canaux plus larges et plus profonds à travers lesquels les dons divins peuvent couler vers les cœurs et les âmes de ceux qui se souviennent de maintenir une communion ininterrompue avec leur Créateur par la prière sincère et le véritable culte. [LU 194:3.20](/fr/The_Urantia_Book/194#p3_20)
+La prière n’incite pas le cœur divin à donner généreusement, mais elle creuse souvent des canaux plus larges et plus profonds à travers lesquels les dons divins peuvent couler vers les cœurs et les âmes de ceux qui se souviennent de maintenir une communion ininterrompue avec leur Créateur par la prière sincère et le véritable culte. <a id="a141_335"></a>[LU 194:3.20](/fr/The_Urantia_Book/194#p3_20)
 
 Ces cinq conditions rendent possible un véritable dialogue. Il ne s’agit pas d’un échange d’opinions mais d’un dialogue, c’est marcher ensemble vers la vérité. Il ne s’agit pas de dire mien et toi tien, mais quelque chose de nouveau naît et c’est la vie qui émerge : la vérité. Lorsque deux personnes parlent et s’écoutent vraiment, aucune exclusion ne peut dynamiter la vérité. Nous arrivons à une vérité vivante.
 <br style="clear:both;"/>
@@ -155,3 +179,28 @@ Voilà à quel point il peut être important de s’écouter soi-même.
 - [Cet article est tiré du magazine « Luz y Vida en Ligne »](https://aue.urantia-association.org/2023/06/30/editorial-julio-2023)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Montserrat_Blanco">
+          <span class="pr-2">Questionnaire Urantien : Montserrat Blanco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

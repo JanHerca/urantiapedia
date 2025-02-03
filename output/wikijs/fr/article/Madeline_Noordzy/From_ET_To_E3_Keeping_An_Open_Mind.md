@@ -48,31 +48,31 @@ Bien que ces « cassettes de Graceland » apportent des informations assez surpr
 
 Sur LU 51 : 2.3 du _Le Livre d'URANTIA_, un fils secondaire Lanonandek du Corps de Réserve dit :
 
-> « _Si une catastrophe physique devait ruiner la résidence planétaire d’une race en évolution, les Melchizédeks et les Porteurs de Vie emploieraient la technique de dématérialisation pour tous les survivants, et ces êtres seraient emmenés par transport séraphique sur le nouveau monde préparé pour la continuation de leur existence. Une fois inaugurée sur un monde de l’espace, l’évolution d’une race humaine doit se poursuivre tout à fait indépendamment de la survivance physique de sa planète,..._ » (<a id="a26_504"></a>[LU 51:2.3](/fr/The_Urantia_Book/51#p2_3))
+> « _Si une catastrophe physique devait ruiner la résidence planétaire d’une race en évolution, les Melchizédeks et les Porteurs de Vie emploieraient la technique de dématérialisation pour tous les survivants, et ces êtres seraient emmenés par transport séraphique sur le nouveau monde préparé pour la continuation de leur existence. Une fois inaugurée sur un monde de l’espace, l’évolution d’une race humaine doit se poursuivre tout à fait indépendamment de la survivance physique de sa planète,..._ » (<a id="a50_504"></a>[LU 51:2.3](/fr/The_Urantia_Book/51#p2_3))
 
 A-t-il mis cette phrase là juste pour la décoration ? Sûrement pas! Travaillant dans les limites de son mandat de révélation, c'était probablement tout ce qu'il était autorisé à dire sur le sujet.
 
 Mais pourquoi nous le dire s’il ne savait pas qu’une telle évacuation pourrait être réservée à cette planète ?
 
-> « _Dans les affaires concernant le cœur des hommes, il se peut que le Père Universel ne soit pas toujours suivi ; mais, dans la conduite et la destinée d’une planète, c’est le plan divin qui prévaut ; le dessein éternel de sagesse et d’amour triomphe._ » (<a id="a32_258"></a>[LU 3:5.3](/fr/The_Urantia_Book/3#p5_3))
+> « _Dans les affaires concernant le cœur des hommes, il se peut que le Père Universel ne soit pas toujours suivi ; mais, dans la conduite et la destinée d’une planète, c’est le plan divin qui prévaut ; le dessein éternel de sagesse et d’amour triomphe._ » (<a id="a56_258"></a>[LU 3:5.3](/fr/The_Urantia_Book/3#p5_3))
 
 Sur LU 46 :8.3, un Archange de Nébadon dit :
 
-> « _Mais d’ici peu le jugement de Lucifer et de ses associés restaurera le système de Satania dans la constellation de Norlatiadek, et ensuite Urantia et les autres sphères isolées seront rétablies dans les circuits de Satania. Ces mondes jouiront alors de nouveau du privilège des communications interplanétaires et de la communion intersystémique._ » (<a id="a36_355"></a>[LU 46:8.3](/fr/The_Urantia_Book/46#p8_3))
+> « _Mais d’ici peu le jugement de Lucifer et de ses associés restaurera le système de Satania dans la constellation de Norlatiadek, et ensuite Urantia et les autres sphères isolées seront rétablies dans les circuits de Satania. Ces mondes jouiront alors de nouveau du privilège des communications interplanétaires et de la communion intersystémique._ » (<a id="a60_355"></a>[LU 46:8.3](/fr/The_Urantia_Book/46#p8_3))
 
 (Écoutez la cassette 3 – Bienvenue dans le Cosmos.)
 
 Dans le passé, les prévisions apocalyptiques ont semé la peur dans l’esprit des gens. Mais ces « cassettes de Graceland », loin de susciter la peur, nous donnent l’espoir que Dieu ne nous abandonnera pas dans nos heures les plus sombres. Ils ne nous demandent pas de nous promener vêtus de sacs et de nous repentir, mais de ne rien faire d'autre que ce que nous faisons déjà, c'est-à-dire avoir foi en notre Père. Pouvons-nous, comme Job d’autrefois, être soumis à l’épreuve de foi suprême ? Pourquoi les archanges ont-ils établi ici leur quartier général de division ? À la page 408, nous trouvons :
 
-> « _C’est ce fait inhabituel qui attire bientôt l’attention des visiteurs estudiantins venant d’au-delà de Nébadon._ » (<a id="a42_121"></a>[LU 37:3.3](/fr/The_Urantia_Book/37#p3_3))
+> « _C’est ce fait inhabituel qui attire bientôt l’attention des visiteurs estudiantins venant d’au-delà de Nébadon._ » (<a id="a66_121"></a>[LU 37:3.3](/fr/The_Urantia_Book/37#p3_3))
 
 À la page suivante (LU 37:3.4), ils nous demandent :
 
-> « _Saisissez-vous la signification du fait que votre humble planète plongée dans la confusion est devenue un quartier général divisionnaire pour l’administration de l’univers et la direction de certaines activités archangéliques se rapportant au plan d’ascension au Paradis ?_ » (<a id="a46_282"></a>[LU 37:3.4](/fr/The_Urantia_Book/37#p3_4))
+> « _Saisissez-vous la signification du fait que votre humble planète plongée dans la confusion est devenue un quartier général divisionnaire pour l’administration de l’univers et la direction de certaines activités archangéliques se rapportant au plan d’ascension au Paradis ?_ » (<a id="a70_282"></a>[LU 37:3.4](/fr/The_Urantia_Book/37#p3_4))
 
 Serait-ce, entre autres choses, pour le prochain appel et pour annoncer le début d’une nouvelle, la cinquième époque ?
 
-> « _Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel._ » (<a id="a50_187"></a>[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
+> « _Rappelez-vous que l’ordre de l’évolution progressive est sujet à des changements périodiques soudains et inattendus, à la fois dans le monde matériel et dans le monde spirituel._ » (<a id="a74_187"></a>[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14))
 
 Ou cela pourrait-il avoir à voir avec « le silence » dont parle la bande 3 Welcome to the Cosmos. C’est la période d’environ 27 ans pendant laquelle les ascendants mortels de 10 000 systèmes universels auront la chance de visiter le monde d’effusion, Urantia, le monde qui s’est fait exploser, comme le sombre rappel ultime que « le salaire du péché, c’est la mort ».
 
@@ -118,9 +118,9 @@ Que s’est-il passé entre le moment où Joe Pope a publié son livre en 1986 e
 
 Avec Dieu tout est possible. Regardez ce qui est arrivé à Paul de Tarse sur le chemin de Damas. Joe avait-il vraiment une véritable vision ? Est-ce qu'il apporte une nouvelle révélation ? Nous devrons tous en décider nous-mêmes. Il existe un proverbe persan qui dit à peu près ceci : « Celui qui n’ose pas regarder un « mensonge » ne peut pas non plus voir la vérité ».
 
-> « _Jésus avait une aptitude infaillible à reconnaitre la vérité et n’hésitait jamais à l’admettre, quelle que fût la source dont elle paraissait émaner._ » (<a id="a96_159"></a>[LU 126:3.8](/fr/The_Urantia_Book/126#p3_8))
+> « _Jésus avait une aptitude infaillible à reconnaitre la vérité et n’hésitait jamais à l’admettre, quelle que fût la source dont elle paraissait émaner._ » (<a id="a120_159"></a>[LU 126:3.8](/fr/The_Urantia_Book/126#p3_8))
 
-Sur <a id="a98_4"></a>[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19), il est mentionné que «_Tôt ou tard, un autre et plus grand Jean-Baptiste doit surgir ...._»
+Sur <a id="a122_4"></a>[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19), il est mentionné que «_Tôt ou tard, un autre et plus grand Jean-Baptiste doit surgir ...._»
 
 Quand il viendra, comment allons-nous le reconnaître ? Allons-nous, à la manière véritable d'Urantia, le lapider à mort, le jeter devant les lions, le crucifier ou simplement l'abattre avant même d'avoir entendu ce qu'il a à dire ? Si nous voulons déterminer s'il s'agit d'un véritable prophète ou d'un « esprit malicieux », comme l'a appelé le Dr Sadler, ne devrions-nous pas d'abord l'examiner ? Ou les gens ont-ils crié « au loup » une fois de trop ?
 
@@ -134,7 +134,7 @@ Pour utiliser une autre métaphore, j’ai l’intention de ne rien faire d’au
 
 On ne peut nier que son message est très convaincant. Une personne, qui n'est pas un lecteur du Livre d'URANTIA, m'a écrit après avoir écouté la cassette d'introduction « Un message de Dieu » : « Je dois vous dire qu'à aucun moment je n'ai ressenti de peur, de scepticisme ou de doute, et dans ma conversation avec Mon Dieu, je lui ai dit que j'accepterais tout ce qu'il estimait que je méritais. Je croyais que Dieu ne nous jugerait pas pour nos croyances religieuses, mais pour notre foi en Lui. Alors quand cela a été confirmé dans le tract et dans la cassette, c'était très rassurant.... une grande paix est descendue sur moi.... C'est la meilleure nouvelle que j'ai jamais entendue de toute ma vie, et aucune lecture ni aucune les gens frappant à ma porte auraient obtenu le même résultat. Je trouve que c'est trop fantastique pour ne pas être vrai. Aucun être humain n’aurait jamais pu inventer cela. De plus, le fait que l’écrivain et l’orateur n’appartienne à aucune religion particulière me convainc que c’est vrai. Certaines des choses que j’ai entendues correspondent à ce que vous m’avez dit dans le passé. Nous n’avons rien à perdre et tout à gagner à croire que c’est vrai »
 
-> « _Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._ » (<a id="a112_184"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « _Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle._ » (<a id="a136_184"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 Si le livre dit cela, ne devrions-nous pas au moins écouter ? Peut-on se permettre de ne pas le faire?
 

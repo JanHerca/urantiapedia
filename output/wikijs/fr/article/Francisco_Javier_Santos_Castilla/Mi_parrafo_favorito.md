@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Francisco Javier Santos Castilla<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Antonio_Figal_Manas">
+          <span class="pr-2">Questionnaire Urantien : Juan Antonio Figal Mañas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Mi-parrafo-favorito-03-24-1.jpg" alt="Mi párrafo favorito-mar 24-1" width="350">
@@ -18,11 +42,11 @@ dateCreated: 2025-1-31T13:52:37Z
 
 Il y a beaucoup de paragraphes intéressants qui sont restés gravés dans ma mémoire, mais certains me «  hantent  » récemment, comme les suivants :
 
-Aujourd’hui, l’économie axée sur le profit est vouée à l’échec, à moins que les motivations de profit ne soient surmontées par des motivations de service. La concurrence impitoyable fondée sur un égoïsme borné détruit finalement ce qu’elle cherche à maintenir. La motivation égoïste et exclusive du profit est incompatible avec les idéaux chrétiens, et encore plus incompatible avec les enseignements de Jésus. [LU 71:6.1](/fr/The_Urantia_Book/71#p6_1)
+Aujourd’hui, l’économie axée sur le profit est vouée à l’échec, à moins que les motivations de profit ne soient surmontées par des motivations de service. La concurrence impitoyable fondée sur un égoïsme borné détruit finalement ce qu’elle cherche à maintenir. La motivation égoïste et exclusive du profit est incompatible avec les idéaux chrétiens, et encore plus incompatible avec les enseignements de Jésus. <a id="a44_411"></a>[LU 71:6.1](/fr/The_Urantia_Book/71#p6_1)
 
-En économie, la motivation du profit est à la motivation du service ce que la peur est à l’amour en religion. Mais la recherche du profit ne doit pas être détruite ou éliminée soudainement ; oblige de nombreux mortels paresseux à travailler dur. Il n’est cependant pas nécessaire que cet excitant d’énergie sociale soit éternellement égoïste dans ses objectifs. [LU 71:6.2](/fr/The_Urantia_Book/71#p6_2)
+En économie, la motivation du profit est à la motivation du service ce que la peur est à l’amour en religion. Mais la recherche du profit ne doit pas être détruite ou éliminée soudainement ; oblige de nombreux mortels paresseux à travailler dur. Il n’est cependant pas nécessaire que cet excitant d’énergie sociale soit éternellement égoïste dans ses objectifs. <a id="a46_362"></a>[LU 71:6.2](/fr/The_Urantia_Book/71#p6_2)
 
-La recherche du profit dans les activités économiques est tout à fait vile et totalement indigne d’un ordre social avancé ; Il s’agit pourtant d’un facteur indispensable aux premiers stades de la civilisation. La motivation du profit ne doit pas être retirée aux hommes jusqu’à ce qu’ils aient des motivations solides et supérieures non lucratives pour l’effort économique et le service social – l’aspiration transcendante à la sagesse suprême, à la fraternité fascinante et à l’excellence de la réalisation spirituelle. [LU 71:6.3](/fr/The_Urantia_Book/71#p6_3)
+La recherche du profit dans les activités économiques est tout à fait vile et totalement indigne d’un ordre social avancé ; Il s’agit pourtant d’un facteur indispensable aux premiers stades de la civilisation. La motivation du profit ne doit pas être retirée aux hommes jusqu’à ce qu’ils aient des motivations solides et supérieures non lucratives pour l’effort économique et le service social – l’aspiration transcendante à la sagesse suprême, à la fraternité fascinante et à l’excellence de la réalisation spirituelle. <a id="a48_521"></a>[LU 71:6.3](/fr/The_Urantia_Book/71#p6_3)
 
 Ces paragraphes me donnent beaucoup à réfléchir. D’une part, il admet que la motivation du profit, du bénéfice par rapport au travail, est un agent de motivation de la population dans les premiers stades de développement des sociétés humaines.
 
@@ -54,3 +78,28 @@ Merci beaucoup de m'avoir lu. À la prochaine.
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/02/28/mi-parrafo-favorito-27/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Antonio_Figal_Manas">
+          <span class="pr-2">Questionnaire Urantien : Juan Antonio Figal Mañas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

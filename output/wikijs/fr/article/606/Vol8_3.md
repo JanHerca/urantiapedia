@@ -51,7 +51,7 @@ Kathleen Swadling, 7 Walsh St. Narrabeen, Nouvelle-Galles du Sud. 2101. PH. (02)
 
 ## « Pensée du mois »
 
-> « Dans l’expérience humaine, tout ce qui n’est pas spirituel, sauf la personnalité, est un moyen en vue d’une fin. Toute véritable relation entre un mortel et d’autres personnes — humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l’ascension de l’univers. » (<a id="a32_333"></a>[LU 112:2.8](/fr/The_Urantia_Book/112#p2_8))
+> « Dans l’expérience humaine, tout ce qui n’est pas spirituel, sauf la personnalité, est un moyen en vue d’une fin. Toute véritable relation entre un mortel et d’autres personnes — humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l’ascension de l’univers. » (<a id="a53_333"></a>[LU 112:2.8](/fr/The_Urantia_Book/112#p2_8))
 
 ## Chers amis du Mouvement URANTIA :
 

@@ -55,7 +55,7 @@ Cet amour de Dieu est précisément ce que ressentaient les premiers chrétiens.
 
 Cet amour et le fait qu'il soit réellement entré dans leur vie ont été si étonnants que les premiers chrétiens ont dû faire appel à l'aide pour le décrire. Paul, en concluant l’un des premiers sermons enregistrés sur la Bonne Nouvelle, est revenu aux paroles de l’un des prophètes : « Regardez ceci, âmes méprisantes, et perdez-vous dans l’étonnement, car, de votre temps, je fais une telle action que : si les hommes vous racontaient cette histoire, vous ne la croiriez pas.
 
-> « _Il est vrai qu’une merveilleuse manifestation d’amour fraternel et de bonne volonté sans pareille prit naissance dans ces communautés primitives de croyants, ... leurs membres étaient remplis de joie et vivaient une vie si nouvelle et si exceptionnelle que tous les hommes étaient attirés par leurs enseignements au sujet de Jésus._ » (<a id="a36_341"></a>[LU 194:4.6](/fr/The_Urantia_Book/194#p4_6))
+> « _Il est vrai qu’une merveilleuse manifestation d’amour fraternel et de bonne volonté sans pareille prit naissance dans ces communautés primitives de croyants, ... leurs membres étaient remplis de joie et vivaient une vie si nouvelle et si exceptionnelle que tous les hommes étaient attirés par leurs enseignements au sujet de Jésus._ » (<a id="a57_341"></a>[LU 194:4.6](/fr/The_Urantia_Book/194#p4_6))
 
 
 

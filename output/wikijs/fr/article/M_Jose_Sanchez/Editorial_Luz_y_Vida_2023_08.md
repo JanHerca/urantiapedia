@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 M. José Sánchez<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Le moment idéal pour semer
 
@@ -41,15 +65,15 @@ Gardez toujours à l’esprit le double objectif de l’effusion de Michael sur 
 
 Dans notre cher Maître, nous trouvons un être humain magnifique qui
 
-> Joshua ben Joseph savait très bien qu’il était un homme, un homme mortel né d’une femme. Cela ressort du choix de sa première appellation, le *Fils de l’Homme.* Il partageait vraiment votre nature de chair et de sang. Et même maintenant qu’il préside avec une autorité souveraine aux destinées d’un univers, il porte encore, parmi ses nombreux titres bien gagnés, celui de Fils de l’Homme. Il est littéralement vrai que le Verbe créateur — le Fils Créateur — du Père Universel fut « fait chair et habita Urantia comme un homme du royaume ». Il travaillait, se fatiguait, se reposait et dormait. Il eut faim et satisfit son appétit avec des aliments ; il eut soif et étancha sa soif avec de l’eau. Il expérimenta toute la gamme des sentiments et des émotions humaines ; il fut « éprouvé en toutes choses comme vous l’êtes vous-mêmes » ; il souffrit et mourut. ([LU 128:1.2](/fr/The_Urantia_Book/128#p1_2))
+> Joshua ben Joseph savait très bien qu’il était un homme, un homme mortel né d’une femme. Cela ressort du choix de sa première appellation, le *Fils de l’Homme.* Il partageait vraiment votre nature de chair et de sang. Et même maintenant qu’il préside avec une autorité souveraine aux destinées d’un univers, il porte encore, parmi ses nombreux titres bien gagnés, celui de Fils de l’Homme. Il est littéralement vrai que le Verbe créateur — le Fils Créateur — du Père Universel fut « fait chair et habita Urantia comme un homme du royaume ». Il travaillait, se fatiguait, se reposait et dormait. Il eut faim et satisfit son appétit avec des aliments ; il eut soif et étancha sa soif avec de l’eau. Il expérimenta toute la gamme des sentiments et des émotions humaines ; il fut « éprouvé en toutes choses comme vous l’êtes vous-mêmes » ; il souffrit et mourut. (<a id="a67_862"></a>[LU 128:1.2](/fr/The_Urantia_Book/128#p1_2))
 
 Mais il savait aussi être constamment en présence divine, donnant un sens profond à sa vie :
 
-> Après son baptême, il ne vit aucun inconvénient à permettre à ceux qui croyaient sincèrement en lui et à ceux qui le suivaient avec gratitude, de l’adorer. Même quand il luttait contre la pauvreté et travaillait de ses mains pour subvenir aux besoins vitaux de sa famille, il prenait de plus en plus conscience d’être un Fils de Dieu ; il savait qu’il était le créateur des cieux et de cette terre même sur laquelle il vivait maintenant son existence humaine. Dans tout le vaste univers qui l’observait, les légions d’êtres célestes savaient également que cet homme de Nazareth était leur Souverain bienaimé et Créateur-père. Durant toutes ces années, l’univers de Nébadon vécut dans une profonde expectative. Tous les regards célestes convergeaient continuellement sur Urantia — sur la Palestine. ([LU 128:1.13](/fr/The_Urantia_Book/128#p1_13))
+> Après son baptême, il ne vit aucun inconvénient à permettre à ceux qui croyaient sincèrement en lui et à ceux qui le suivaient avec gratitude, de l’adorer. Même quand il luttait contre la pauvreté et travaillait de ses mains pour subvenir aux besoins vitaux de sa famille, il prenait de plus en plus conscience d’être un Fils de Dieu ; il savait qu’il était le créateur des cieux et de cette terre même sur laquelle il vivait maintenant son existence humaine. Dans tout le vaste univers qui l’observait, les légions d’êtres célestes savaient également que cet homme de Nazareth était leur Souverain bienaimé et Créateur-père. Durant toutes ces années, l’univers de Nébadon vécut dans une profonde expectative. Tous les regards célestes convergeaient continuellement sur Urantia — sur la Palestine. (<a id="a71_801"></a>[LU 128:1.13](/fr/The_Urantia_Book/128#p1_13))
 
 Le même être qui marchait avec ses jambes puissantes sur les routes poussiéreuses de Galilée affirmait :
 
-> « Cependant, durant toutes ces années de vie incarnée, il était vraiment divin. Il était effectivement un Fils Créateur du Père du Paradis. Une fois qu’il eut embrassé sa carrière publique, après avoir techniquement parachevé l’expérience purement mortelle lui permettant d’acquérir sa souveraineté, il n’hésita pas à admettre publiquement qu’il était le Fils de Dieu. Il proclama sans hésitation : « Je suis l’Alpha et l’Omega, le commencement et la fin, le premier et le dernier. » Dans les années qui suivirent, il ne protesta pas quand on l’appelait Seigneur de Gloire, Souverain d’un Univers, le Seigneur Dieu de toute la création, le Saint d’Israël, le Seigneur de tout et de tous, notre Seigneur et notre Dieu, Dieu avec nous, Celui qui a un nom au-dessus de tous les noms et sur tous les mondes, l’Omnipotence d’un univers, le Mental Universel de cette création, l’Unique en qui sont cachés tous les trésors de sagesse et de connaissance, la plénitude de Celui qui remplit toutes choses, l’éternel Verbe du Dieu éternel, Celui qui était avant toutes choses et en qui toutes choses subsistent, le Créateur des cieux et de la terre, le Soutien d’un univers, le Juge de toute la terre, le Donateur de la vie éternelle, le Vrai Berger, le Libérateur des mondes et Celui qui nous conduit à notre salut. » ([LU 128:1.10](/fr/The_Urantia_Book/128#p1_10))
+> « Cependant, durant toutes ces années de vie incarnée, il était vraiment divin. Il était effectivement un Fils Créateur du Père du Paradis. Une fois qu’il eut embrassé sa carrière publique, après avoir techniquement parachevé l’expérience purement mortelle lui permettant d’acquérir sa souveraineté, il n’hésita pas à admettre publiquement qu’il était le Fils de Dieu. Il proclama sans hésitation : « Je suis l’Alpha et l’Omega, le commencement et la fin, le premier et le dernier. » Dans les années qui suivirent, il ne protesta pas quand on l’appelait Seigneur de Gloire, Souverain d’un Univers, le Seigneur Dieu de toute la création, le Saint d’Israël, le Seigneur de tout et de tous, notre Seigneur et notre Dieu, Dieu avec nous, Celui qui a un nom au-dessus de tous les noms et sur tous les mondes, l’Omnipotence d’un univers, le Mental Universel de cette création, l’Unique en qui sont cachés tous les trésors de sagesse et de connaissance, la plénitude de Celui qui remplit toutes choses, l’éternel Verbe du Dieu éternel, Celui qui était avant toutes choses et en qui toutes choses subsistent, le Créateur des cieux et de la terre, le Soutien d’un univers, le Juge de toute la terre, le Donateur de la vie éternelle, le Vrai Berger, le Libérateur des mondes et Celui qui nous conduit à notre salut. » (<a id="a75_1311"></a>[LU 128:1.10](/fr/The_Urantia_Book/128#p1_10))
 
 Quel grand enseignement notre Maître nous a donné : il n’a pas fui la matière ni ne l’a rejetée, mais il l’a plutôt vécue, l’utilisant pour produire une plus grande croissance et une plus grande expansion.
 
@@ -61,9 +85,9 @@ Il existe de nombreux exemples significatifs dans _Le Livre d’Urantia_ montran
 
 Un autre exemple : Il sait combien il est sage d’avoir et de gérer l’argent comme un outil utile dans nos vies, bien qu’il nous avertisse également des dangers que peuvent rencontrer ceux qui aiment les richesses et convoitent les biens frauduleux.
 
-Pendant qu’il travaillait avec Zébédée, il ne recevait que de petites sommes d’argent qu’il envoyait chaque mois à sa famille à Nazareth. Certains mois, Joseph se rendait à Capharnaüm pour récupérer l’argent et d’autres mois, Juda passait par Capharnaüm, recevait l’argent de Jésus et l’apportait à Nazareth. [LU 129:2.1](/fr/The_Urantia_Book/129#p2_1)
+Pendant qu’il travaillait avec Zébédée, il ne recevait que de petites sommes d’argent qu’il envoyait chaque mois à sa famille à Nazareth. Certains mois, Joseph se rendait à Capharnaüm pour récupérer l’argent et d’autres mois, Juda passait par Capharnaüm, recevait l’argent de Jésus et l’apportait à Nazareth. <a id="a87_309"></a>[LU 129:2.1](/fr/The_Urantia_Book/129#p2_1)
 
-Pierre dit : «  Alors, Seigneur, qui peut être sauvé ? « Tous ceux qui possèdent des richesses seront-ils exclus du royaume ?  » Jésus répondit : « Non, Pierre, mais tous ceux qui mettent leur confiance dans les richesses ont peu de chances d’entrer dans la vie spirituelle qui conduit au progrès éternel. Il y a cependant beaucoup de choses impossibles à l’homme qui ne sont pas hors de portée du Père qui est dans les cieux ; Nous devrions plutôt reconnaître qu’avec Dieu tout est possible. [LU 163:3.2](/fr/The_Urantia_Book/163#p3_2)
+Pierre dit : «  Alors, Seigneur, qui peut être sauvé ? « Tous ceux qui possèdent des richesses seront-ils exclus du royaume ?  » Jésus répondit : « Non, Pierre, mais tous ceux qui mettent leur confiance dans les richesses ont peu de chances d’entrer dans la vie spirituelle qui conduit au progrès éternel. Il y a cependant beaucoup de choses impossibles à l’homme qui ne sont pas hors de portée du Père qui est dans les cieux ; Nous devrions plutôt reconnaître qu’avec Dieu tout est possible. <a id="a89_493"></a>[LU 163:3.2](/fr/The_Urantia_Book/163#p3_2)
 
 <br style="clear:both;"/>
 
@@ -88,15 +112,15 @@ Ce que le Maître nous enseigne, c'est la recherche de l'équilibre dans la vie.
 <br style="clear:both;"/>
 
 > Que ton règne vienne ; que ta volonté soit faite
-> Sur terre comme elle l’est au ciel. ([LU 144:3.5-6](/fr/The_Urantia_Book/144#p3_5))
+> Sur terre comme elle l’est au ciel. (<a id="a114_39"></a>[LU 144:3.5-6](/fr/The_Urantia_Book/144#p3_5))
 
 Nous sommes, sans aucun doute, des êtres vivant l’expérience de la matière :
 
-L’homme est une créature du sol, un fils de la nature ; Peu importe à quel point il essaie de s'échapper du pays, l'échec est assuré à la fin. Il est littéralement vrai pour toute l’humanité que «  tu es poussière et tu retourneras à la poussière  ». [LU 68:6.1](/fr/The_Urantia_Book/68#p6_1)
+L’homme est une créature du sol, un fils de la nature ; Peu importe à quel point il essaie de s'échapper du pays, l'échec est assuré à la fin. Il est littéralement vrai pour toute l’humanité que «  tu es poussière et tu retourneras à la poussière  ». <a id="a118_251"></a>[LU 68:6.1](/fr/The_Urantia_Book/68#p6_1)
 
 Mais nous ne sommes pas seulement faits de matière : nous sommes en même temps des êtres spirituels. Cette dualité dans notre vie est inévitable et planifiée pour notre bien, pour le meilleur bien de l'univers :
 
-Chez chaque mortel existe une double nature : l’héritage des tendances animales et la haute impulsion des dons spirituels. Durant la courte vie que vous vivez sur Urantia, ces deux impulsions distinctes et opposées peuvent rarement être pleinement réconciliées, et rarement harmonisées et unifiées. Mais tout au long de votre vie, l’Esprit combiné vous assiste toujours pour vous aider à soumettre de plus en plus la chair à la direction de l’Esprit. Même si vous devez vivre pleinement votre vie matérielle, même si vous ne pouvez échapper au corps et à ses besoins, vous avez, dans votre objectif et dans vos idéaux, un pouvoir croissant pour soumettre la nature animale à la domination de l’Esprit. Il existe véritablement en vous une conspiration de forces spirituelles, une coalition de pouvoirs divins, dont le seul but est de vous libérer enfin de l’esclavage matériel et des encombrements finis. [LU 34:6.9](/fr/The_Urantia_Book/34#p6_9)
+Chez chaque mortel existe une double nature : l’héritage des tendances animales et la haute impulsion des dons spirituels. Durant la courte vie que vous vivez sur Urantia, ces deux impulsions distinctes et opposées peuvent rarement être pleinement réconciliées, et rarement harmonisées et unifiées. Mais tout au long de votre vie, l’Esprit combiné vous assiste toujours pour vous aider à soumettre de plus en plus la chair à la direction de l’Esprit. Même si vous devez vivre pleinement votre vie matérielle, même si vous ne pouvez échapper au corps et à ses besoins, vous avez, dans votre objectif et dans vos idéaux, un pouvoir croissant pour soumettre la nature animale à la domination de l’Esprit. Il existe véritablement en vous une conspiration de forces spirituelles, une coalition de pouvoirs divins, dont le seul but est de vous libérer enfin de l’esclavage matériel et des encombrements finis. <a id="a122_904"></a>[LU 34:6.9](/fr/The_Urantia_Book/34#p6_9)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-1.jpg" alt="Editorial agosto 2024-4" width="350">
@@ -114,7 +138,7 @@ La médecine et les progrès technologiques nous ont également permis de vivre 
 
 **Maintenant** est le moment de montrer au monde les enseignements incomparables de notre bien-aimé Créateur et Enseignant. Ces enseignements peuvent combler le vide existentiel actuel et donner du sens à nos vies. Nous, lecteurs du Livre d’Urantia, avons un terrain fertile autour de nous, comme de nouveaux semeurs, à l’image de cette ancienne parabole que Jésus de Nazareth a racontée à propos d’un bateau. Et comme ce semeur, nous aurons des obstacles et des problèmes, mais cela n'a pas d'importance, car comme Thomas l'a dit dans son interprétation de cette histoire, nous n'avons pas le contrôle de toutes choses :
 
-Jésus hocha la tête et Thomas dit : « Frères, je ne veux pas prolonger cette discussion, mais si vous le souhaitez, je vous dirai que je pense que cette parabole a été racontée pour nous enseigner une grande vérité. Et c'est que, peu importe nos efforts pour accomplir notre mission divine avec efficacité et fidélité, le succès de notre enseignement de l'évangile du royaume sera très variable, et que toutes ces différences de résultats seront une conséquence directe des conditions inhérentes aux circonstances de notre ministère, conditions sur lesquelles nous avons peu ou pas de contrôle. [LU 151:2.6](/fr/The_Urantia_Book/151#p2_6)
+Jésus hocha la tête et Thomas dit : « Frères, je ne veux pas prolonger cette discussion, mais si vous le souhaitez, je vous dirai que je pense que cette parabole a été racontée pour nous enseigner une grande vérité. Et c'est que, peu importe nos efforts pour accomplir notre mission divine avec efficacité et fidélité, le succès de notre enseignement de l'évangile du royaume sera très variable, et que toutes ces différences de résultats seront une conséquence directe des conditions inhérentes aux circonstances de notre ministère, conditions sur lesquelles nous avons peu ou pas de contrôle. <a id="a140_595"></a>[LU 151:2.6](/fr/The_Urantia_Book/151#p2_6)
 
 <br style="clear:both;"/>
 
@@ -129,3 +153,28 @@ Répondons à l’espoir de tant de générations qui ont lutté et souffert pou
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2023/08/29/editorial-septiembre-2023/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_08">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Septembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mayra_Moreno/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

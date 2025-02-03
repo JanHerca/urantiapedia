@@ -26,7 +26,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
-Safed est l'une des villes mentionnées dans _Le Livre d'Urantia_ ([LU 138:9.3](/fr/The_Urantia_Book/138#p9_3)) que les apôtres visitèrent pendant leur période probatoire avant les prédications officielles. De là venait Jacques, un citoyen de Tibériade connu pour être le père d'un garçon épileptique que Jésus a guéri.
+Safed est l'une des villes mentionnées dans _Le Livre d'Urantia_ (<a id="a28_66"></a>[LU 138:9.3](/fr/The_Urantia_Book/138#p9_3)) que les apôtres visitèrent pendant leur période probatoire avant les prédications officielles. De là venait Jacques, un citoyen de Tibériade connu pour être le père d'un garçon épileptique que Jésus a guéri.
 
 Une bonne orthophoto est disponible sur la carte Google Maps. Nous avons des informations sur la ville actuelle dans [Wikipedia](https://fr.wikipedia.org/wiki/Safed) mais sans rien sur la ville ancienne. Elle était réputée pour être une région très saine, avec des étés agréables et des hivers rigoureux. C'était à une altitude de 900 mètres et il y avait de fortes précipitations.
 

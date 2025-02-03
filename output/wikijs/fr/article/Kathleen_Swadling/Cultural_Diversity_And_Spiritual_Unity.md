@@ -52,7 +52,7 @@ Je vois que ceux d'entre nous ici représentant l'Australie, la Nouvelle-Zéland
 
 Je voudrais terminer avec cette pensée. C'est une citation du _Le Livre d'URANTIA_ sur LU 54 :6.3 :
 
-> « Les familles, les groupes, les nations, les races, les mondes, les systèmes, les constellations et les univers sont des associations de relations, possédant une individualité ; c’est pourquoi tout membre d’un groupe, grand ou petit, récolte les bénéfices des bonnes actions et supporte les conséquences des méfaits de tous les autres membres du groupe concerné. » (<a id="a30_369"></a>[LU 54:6.3](/fr/The_Urantia_Book/54#p6_3))
+> « Les familles, les groupes, les nations, les races, les mondes, les systèmes, les constellations et les univers sont des associations de relations, possédant une individualité ; c’est pourquoi tout membre d’un groupe, grand ou petit, récolte les bénéfices des bonnes actions et supporte les conséquences des méfaits de tous les autres membres du groupe concerné. » (<a id="a54_369"></a>[LU 54:6.3](/fr/The_Urantia_Book/54#p6_3))
 
 
 

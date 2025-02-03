@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## L'immense utilité de l'inutile
 
@@ -29,7 +53,7 @@ Tout peut s'acheter, c'est vrai. Des parlementaires aux tribunaux, du pouvoir au
 _Le Livre d’Urantia_ nous exhorte à plusieurs reprises à apprendre, à élargir nos connaissances, à errer et à explorer cet univers fascinant dans lequel nous sommes nés, car cette connaissance sera nôtre pour toujours. Un bagage intangible mais impérissable de notre âme.
 <br style="clear:both;"/>
 
-> La curiosité — l’esprit d’investigation, le besoin de découvrir, l’impulsion de l’exploration — fait partie des dons innés et divins des créatures évolutionnaires de l’espace. Ces impulsions naturelles ne vous ont pas été données simplement pour être frustrées et refoulées. Il est vrai qu’il faut fréquemment restreindre ces impulsions ambitieuses durant votre courte vie terrestre et subir de nombreuses déceptions, mais elles sont destinées à être pleinement réalisées et glorieusement satisfaites au cours des longs âges à venir. ([LU 14:5.11](/fr/The_Urantia_Book/14#p5_11))
+> La curiosité — l’esprit d’investigation, le besoin de découvrir, l’impulsion de l’exploration — fait partie des dons innés et divins des créatures évolutionnaires de l’espace. Ces impulsions naturelles ne vous ont pas été données simplement pour être frustrées et refoulées. Il est vrai qu’il faut fréquemment restreindre ces impulsions ambitieuses durant votre courte vie terrestre et subir de nombreuses déceptions, mais elles sont destinées à être pleinement réalisées et glorieusement satisfaites au cours des longs âges à venir. (<a id="a55_537"></a>[LU 14:5.11](/fr/The_Urantia_Book/14#p5_11))
 
 Mais il y a autre chose. Seule la connaissance peut à nouveau défier les lois matérielles du marché. Nous pouvons partager nos connaissances avec les autres sans nous appauvrir. Je peux enseigner à un étudiant la théorie de la relativité ou montrer un poème à un ami, et cela enrichit à la fois celui qui donne et celui qui reçoit.
 
@@ -43,11 +67,11 @@ Le Livre Bleu nous montre que tout est soigneusement planifié afin que nous pui
 
 1. Le courage, c’est-à-dire la force de caractère, est-il souhaitable ? L’homme doit donc être élevé dans un environnement où il est nécessaire de faire face aux difficultés et de réagir aux déceptions.
 2. L’altruisme (le service aux autres) est-il souhaitable ? L’expérience de vie devrait donc nous amener à rencontrer des situations d’inégalité sociale.
-3. L’espoir, la grandeur de la confiance, est-il désirable ? L’existence humaine doit donc constamment faire face à des insécurités et des incertitudes récurrentes. [LU 3:5.6-8](/fr/The_Urantia_Book/3#p5_6)
+3. L’espoir, la grandeur de la confiance, est-il désirable ? L’existence humaine doit donc constamment faire face à des insécurités et des incertitudes récurrentes. <a id="a69_165"></a>[LU 3:5.6-8](/fr/The_Urantia_Book/3#p5_6)
 
 Nous, êtres du temps et de l'espace, êtres limités, faillibles et imparfaits, apprendrons et grandirons avec des épreuves et des difficultés constantes, afin de forger un apprentissage durable (contrairement à d'autres êtres déjà créés parfaits) :
 
-Tout ce qui est divin et que l’esprit humain saisit et que l’âme humaine acquiert est une réalisation expérientielle, une réalité d’expérience personnelle, et est donc une possession unique en contraste avec la bonté et la droiture inhérentes aux personnalités sans erreur de Havona. [LU 3:5.16](/fr/The_Urantia_Book/3#p5_16)
+Tout ce qui est divin et que l’esprit humain saisit et que l’âme humaine acquiert est une réalisation expérientielle, une réalité d’expérience personnelle, et est donc une possession unique en contraste avec la bonté et la droiture inhérentes aux personnalités sans erreur de Havona. <a id="a73_284"></a>[LU 3:5.16](/fr/The_Urantia_Book/3#p5_16)
 <br style="clear:both;"/>
 
 Tout cela fait partie d’un plan très sage qui cherche à nous élever au-dessus de l’animal.
@@ -59,13 +83,13 @@ Tout cela fait partie d’un plan très sage qui cherche à nous élever au-dess
 L'écrivain Kakuzo Okakura, dans son livre _Le Livre du Thé_, reconnaît dans le plaisir d'un homme cueillant une fleur pour l'offrir à sa bien-aimée, le moment précis où l'espèce humaine s'élève au-dessus des animaux, au-dessus de l'instinctif, Il entre dans le royaume de beauté et élève son esprit vers l'espace du divin.
 <br style="clear:both;"/>
 
-> Ces anges font tous partie de la chaine des archivistes, qui s’étend depuis les plus humbles jusqu’aux plus élevés des conservateurs de faits temporels et de vérités éternelles. Un jour, ils vous enseigneront à rechercher la vérité aussi bien que les faits, à développer votre âme aussi bien que votre mental. Dès maintenant, vous devriez apprendre à arroser le jardin de votre cœur aussi bien qu’à rechercher les sables arides de la connaissance. Les formes ne servent plus à rien quand les leçons sont apprises. On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. Mais l’erreur est parfois si grande qu’en la rectifiant par révélation, on porterait un coup fatal aux vérités qui émergent lentement et qui sont essentielles pour venir à bout de l’erreur grâce à l’expérience. Lorsque des enfants ont leurs idéaux, ne les leur enlevez pas ; laissez-les grandir. Pendant que vous apprenez à penser en hommes, vous devriez aussi apprendre à prier comme des enfants. ([LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
+> Ces anges font tous partie de la chaine des archivistes, qui s’étend depuis les plus humbles jusqu’aux plus élevés des conservateurs de faits temporels et de vérités éternelles. Un jour, ils vous enseigneront à rechercher la vérité aussi bien que les faits, à développer votre âme aussi bien que votre mental. Dès maintenant, vous devriez apprendre à arroser le jardin de votre cœur aussi bien qu’à rechercher les sables arides de la connaissance. Les formes ne servent plus à rien quand les leçons sont apprises. On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. Mais l’erreur est parfois si grande qu’en la rectifiant par révélation, on porterait un coup fatal aux vérités qui émergent lentement et qui sont essentielles pour venir à bout de l’erreur grâce à l’expérience. Lorsque des enfants ont leurs idéaux, ne les leur enlevez pas ; laissez-les grandir. Pendant que vous apprenez à penser en hommes, vous devriez aussi apprendre à prier comme des enfants. (<a id="a85_1027"></a>[LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
 
 Rilke a dit dans un passage de ses Lettres à un jeune poète :
 
 > « Ces qualités divines sont parfaitement et absolument unifiées en Dieu. Et tout homme ou ange qui connait Dieu possède le potentiel d’expression illimitée de soi sur des niveaux toujours progressifs de réalisation de soi unifiée par la technique de l’aboutissement sans fin de la ressemblance à Dieu — le mélange expérientiel dans l’expérience évolutionnaire de la vérité éternelle, la beauté universelle et la divine bonté. »
 > 
-> Ces qualités divines sont parfaitement et absolument unifiées en Dieu. Et tout homme ou ange qui connait Dieu possède le potentiel d’expression illimitée de soi sur des niveaux toujours progressifs de réalisation de soi unifiée par la technique de l’aboutissement sans fin de la ressemblance à Dieu — le mélange expérientiel dans l’expérience évolutionnaire de la vérité éternelle, la beauté universelle et la divine bonté. ([LU 44:7.4](/fr/The_Urantia_Book/44#p7_4))
+> Ces qualités divines sont parfaitement et absolument unifiées en Dieu. Et tout homme ou ange qui connait Dieu possède le potentiel d’expression illimitée de soi sur des niveaux toujours progressifs de réalisation de soi unifiée par la technique de l’aboutissement sans fin de la ressemblance à Dieu — le mélange expérientiel dans l’expérience évolutionnaire de la vérité éternelle, la beauté universelle et la divine bonté. (<a id="a91_427"></a>[LU 44:7.4](/fr/The_Urantia_Book/44#p7_4))
 
 Ionesco disait : «  La poésie, le besoin d’imaginer, de créer est aussi fondamental que la respiration.  »
 
@@ -106,3 +130,28 @@ Profitons donc de la lecture tranquille de notre livre bien-aimé, de son étude
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/02/28/editorial-marzo-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Mars 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francisco_Javier_Santos_Castilla/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

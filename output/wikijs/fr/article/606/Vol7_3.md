@@ -107,7 +107,7 @@ Pour commander votre exemplaire, envoyez votre chèque ou mandat-poste au montan
 
 ## Un rendez-vous avec Michael
 
-« Le souper du souvenir est le rendez-vous symbolique du croyant avec Micaël. Quand on devient ainsi conscient de l’esprit, le Fils est effectivement présent, et son esprit fraternise avec le fragment intérieur de son Père.» (<a id="a88_226"></a>[LU 179:5.6](/fr/The_Urantia_Book/179#p5_6))
+« Le souper du souvenir est le rendez-vous symbolique du croyant avec Micaël. Quand on devient ainsi conscient de l’esprit, le Fils est effectivement présent, et son esprit fraternise avec le fragment intérieur de son Père.» (<a id="a109_226"></a>[LU 179:5.6](/fr/The_Urantia_Book/179#p5_6))
 
 Le dimanche 6 avril, les membres du groupe d'étude de Melbourne organiseront un souper du souvenir au 2 Salisbury Crt, Glen Waverley, de 14h00 à 17h00. Tout le monde est invité à y assister. Merci de participer à la restauration en apportant un plat. Tél. 561 6089. pour tout autre détail.
 
@@ -147,7 +147,7 @@ L'adresse postale de la communauté est : Fraternité Universelle P.0. Box 21, B
 
 ## Pensée du mois
 
-C'est littéralement vrai : « Les choses humaines pour les aimer, mais qu’il faut aimer les choses divines pour les connaitre ». (<a id="a128_129"></a>[LU 102:1.1](/fr/The_Urantia_Book/102#p1_1))
+C'est littéralement vrai : « Les choses humaines pour les aimer, mais qu’il faut aimer les choses divines pour les connaitre ». (<a id="a149_129"></a>[LU 102:1.1](/fr/The_Urantia_Book/102#p1_1))
 
 Quand Iris Eckersley a appelé l'un des membres de l'équipe 6-0-6 le mois dernier et a suggéré d'inclure la belle citation du _Livre d'Urantia_ à la p. 383B sur l'Esprit de Vérité dans le numéro de mars de notre Newsletter, nous n'étions que trop heureux de vous rendre service.
 
@@ -155,7 +155,7 @@ Nous ne nous sentons pas tous assez en confiance pour prendre la plume et écrir
 
 ## La maison de Nazareth
 
-> « La demeure de Joseph et de Marie était construite en pierre et se composait d’une pièce avec un toit plat, plus un bâtiment annexe pour loger les animaux. Le mobilier consistait en une table basse en pierre, des pots et des plats en terre cuite et en pierre, un métier à tisser, une lampe, plusieurs petits tabourets et des nattes pour dormir sur le sol de pierre. Dans la cour, près de l’annexe des animaux, se trouvait l’abri qui couvrait le four et le moulin à grains. Il fallait deux personnes pour faire marcher ce type de moulin, une pour moudre et une autre pour l’alimenter en grain. Quand Jésus était petit, il alimentait souvent le moulin en grain pendant que sa mère tournait la meule. » (<a id="a136_704"></a>[LU 122:6.2](/fr/The_Urantia_Book/122#p6_2))
+> « La demeure de Joseph et de Marie était construite en pierre et se composait d’une pièce avec un toit plat, plus un bâtiment annexe pour loger les animaux. Le mobilier consistait en une table basse en pierre, des pots et des plats en terre cuite et en pierre, un métier à tisser, une lampe, plusieurs petits tabourets et des nattes pour dormir sur le sol de pierre. Dans la cour, près de l’annexe des animaux, se trouvait l’abri qui couvrait le four et le moulin à grains. Il fallait deux personnes pour faire marcher ce type de moulin, une pour moudre et une autre pour l’alimenter en grain. Quand Jésus était petit, il alimentait souvent le moulin en grain pendant que sa mère tournait la meule. » (<a id="a157_704"></a>[LU 122:6.2](/fr/The_Urantia_Book/122#p6_2))
 
 Un croquis de Vern Varass, basé sur cette description du _Livre d'Urantia_.
 

@@ -49,7 +49,7 @@ Je base ma conviction sur les faits suivants : -
 2) Il n’a jamais réussi à éloigner la population de l’idée de royaume de ses ancêtres.
 3) Michael a reçu pour mandat de ne laisser aucun écrit.
 
-Mais alors qu’il était si « audacieux » (<a id="a30_41"></a>[LU 141:7.8](/fr/The_Urantia_Book/141#p7_8)) que les apôtres pensèrent qu’il était peut-être hors de lui, il vit l’effet de son incarnation sur Urantia. Le bénéfice pour l'ensemble de sa création. Et peut-être a-t-il vu l’époque de la fraternité sociale des hommes sur Urantia. Les jours du _Le Livre d'URANTIA_.
+Mais alors qu’il était si « audacieux » (<a id="a51_41"></a>[LU 141:7.8](/fr/The_Urantia_Book/141#p7_8)) que les apôtres pensèrent qu’il était peut-être hors de lui, il vit l’effet de son incarnation sur Urantia. Le bénéfice pour l'ensemble de sa création. Et peut-être a-t-il vu l’époque de la fraternité sociale des hommes sur Urantia. Les jours du _Le Livre d'URANTIA_.
 
 Jésus était en avance sur son temps et donc ses paroles, sa vie ont peut-être dû attendre le moment sur URANTIA où les gens auraient appris à apprécier que sa voie était la bonne et la seule. Je crois qu'Urantia a atteint ce stade grâce auquel nous recevons la vie de Jésus sur Urantia dans toute sa beauté, à un moment où nous pouvons en comprendre le sens, si nous le choisissons. Je crois que le _Livre d'URANTIA_ a été prévu pour nous à l'époque de la vie de Jésus sur Urantia, et qu'Uversa attendait la pétition des médians indiquant que la planète était maintenant prête.
 

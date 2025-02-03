@@ -9,6 +9,30 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 M. José Sánchez<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="pr-2">Naviguer dans la vie : je m'explique à Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Espoir
 
@@ -27,7 +51,7 @@ Les médias, les réseaux sociaux, nous instillent constamment des problèmes, n
 La réponse est l’espoir, cette force intérieure, cette étincelle qui nous pousse à rêver d’un avenir meilleur et à travailler pour en faire une réalité. Une force que notre cher Maître nous a léguée, dans ses paroles et dans ses œuvres, et que ses disciples (d'hier et d'aujourd'hui) veulent perpétuer :
 <br style="clear:both;"/>
 
-> Ils apprirent que, si la religion a des mobiles entièrement spirituels, elle rend la vie plus digne d’être vécue ; elle la meuble de buts élevés, lui confère la dignité par des valeurs transcendantales, lui apporte l’inspiration de motifs magnifiques et réconforte constamment l’âme humaine par une espérance sublime et fortifiante. La vraie religion est destinée à diminuer les tensions de l’existence ; elle inspire de la foi et du courage pour la vie quotidienne et le service désintéressé. La foi favorise la vitalité spirituelle et la fécondité de la droiture. ([LU 155:3.7](/fr/The_Urantia_Book/155#p3_7))
+> Ils apprirent que, si la religion a des mobiles entièrement spirituels, elle rend la vie plus digne d’être vécue ; elle la meuble de buts élevés, lui confère la dignité par des valeurs transcendantales, lui apporte l’inspiration de motifs magnifiques et réconforte constamment l’âme humaine par une espérance sublime et fortifiante. La vraie religion est destinée à diminuer les tensions de l’existence ; elle inspire de la foi et du courage pour la vie quotidienne et le service désintéressé. La foi favorise la vitalité spirituelle et la fécondité de la droiture. (<a id="a53_569"></a>[LU 155:3.7](/fr/The_Urantia_Book/155#p3_7))
 
 Il est très significatif qu’un philosophe de l’envergure de Byung-Chul Han ait souligné dans son dernier ouvrage l’importance de l’espoir dans un monde qui semble souvent dominé par la fatigue et le désespoir. Selon lui, l’espoir n’est pas simplement un optimisme superficiel ou une attente de réussite personnelle. Elle nous invite à quitter le «  moi encapsulé  » pour faire partie d’un «  nous  » qui travaille ensemble, guidé par un horizon partagé. Il s’agit, selon Han, d’un acte de création collective, d’une construction de sens qui nous permet d’imaginer un avenir plus humain et plus équitable, un avenir meilleur pour tous.
 
@@ -40,7 +64,7 @@ Cette idée s’inscrit dans la lignée des mots du dirigeant tchèque Václav H
 Et l’espérance est, par essence, une force qui nous unit au plan cosmique de Dieu. «  L'homme mortel peut affronter les rigueurs du temps et les tribulations de l'existence terrestre avec foi et confiance parce qu'il sait qu'il est un enfant de Dieu et que sa vie dans le temps est une préparation pour l'éternité.  » Au milieu des difficultés de la vie quotidienne, cette foi en un but transcendantal est l’ancre qui nous maintient fermes, sachant qu’au-delà des défis temporaires, nos vies ont un sens plus grand.
 <br style="clear:both;"/>
 
-> « Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. Les hommes n’allument pas non plus une chandelle pour la mettre sous un boisseau, mais sur un chandelier ; et elle donne de la lumière à tous ceux qui sont dans la maison. Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux. ([LU 140:3.13](/fr/The_Urantia_Book/140#p3_13))
+> « Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. Les hommes n’allument pas non plus une chandelle pour la mettre sous un boisseau, mais sur un chandelier ; et elle donne de la lumière à tous ceux qui sont dans la maison. Que votre lumière brille devant les hommes de telle sorte qu’ils puissent voir vos bonnes œuvres et être amenés à glorifier votre Père qui est aux cieux. (<a id="a66_417"></a>[LU 140:3.13](/fr/The_Urantia_Book/140#p3_13))
 
 Le mystique et écrivain Anthony de Mello, dont les enseignements ont profondément touché le cœur de milliers de personnes, nous offre une perspective encore plus intime sur l’espoir. Dans son livre Awake, il nous dit : « La vie est ce qui se passe quand vous ne dormez pas. Réveillez-vous, ouvrez les yeux et vous verrez un tout nouveau monde autour de vous. Pour de Mello, l’espoir n’est pas seulement quelque chose que nous attendons avec impatience dans le futur, mais un état d’éveil dans le présent. Elle nous invite à regarder au-delà de nos préoccupations quotidiennes, à reconnaître la beauté et le potentiel qui existent déjà dans nos vies et dans le monde.
 
@@ -53,11 +77,11 @@ Cette vision intime de l’espoir comme éveil nous rappelle qu’il ne suffit p
 Chers lecteurs, en ce mois de novembre, alors que nous sommes confrontés à des défis mondiaux et personnels, rappelons-nous que l’espoir est plus qu’une émotion passagère ; C'est une force qui nous relie au divin, nous pousse à agir et nous permet de nous éveiller à de nouvelles possibilités. Comme Jésus de Nazareth lui-même nous le dit :
 <br style="clear:both;"/>
 
-> Je suis l’espoir de tous ceux qui connaissent la vérité vivante. ([LU 182:1.23](/fr/The_Urantia_Book/182#p1_23))
+> Je suis l’espoir de tous ceux qui connaissent la vérité vivante. (<a id="a79_68"></a>[LU 182:1.23](/fr/The_Urantia_Book/182#p1_23))
 
 L'espoir est l'arme la plus puissante dont nous disposons, il a le pouvoir de changer le monde, mais surtout, de nous changer nous-mêmes, car il élargit nos âmes.
 
-> 3. *L’espoir —* la noblesse de la confiance — est-il désirable ? Alors, il faut que l’existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités. ([LU 3:5.8](/fr/The_Urantia_Book/3#p5_8))
+> 3. *L’espoir —* la noblesse de la confiance — est-il désirable ? Alors, il faut que l’existence humaine soit sans cesse confrontée aux incertitudes renouvelées et aux insécurités. (<a id="a83_183"></a>[LU 3:5.8](/fr/The_Urantia_Book/3#p5_8))
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Editorial-nov-24-4.jpg" alt="Editorial nov 24-4" width="350">
@@ -75,7 +99,7 @@ Un jeune pilote français a eu un accident dans le désert du Sahara (lui et son
 Notre culture semble avoir de plus en plus de mal à apprécier ce qui est vivant et spontané ; elle s’oriente vers l’abstrait, le numérique et le rationnel. Mais lorsque nous réfléchissons avec _Le Livre d'Urantia_, lorsque nous plongeons plus profondément dans la réalité, nous trouvons la fluidité de la vie, l'interpénétration profonde qui imprègne la réalité, et nous réalisons notre erreur en croyant que le monde est fait de choses inertes, séparées et fragmentées. .
 <br style="clear:both;"/>
 
-> Il y a unité dans l’univers cosmique, si vous parveniez seulement à discerner ses manifestations dans les faits. L’univers réel est amical pour chaque enfant du Dieu éternel. Le vrai problème est le suivant : comment le mental fini de l’homme peut-il aboutir à une unité de pensée logique, véritable et harmonieuse ? Cet état mental de connaissance de l’univers ne peut être acquis qu’en concevant les faits quantitatifs et les valeurs qualitatives comme ayant une cause commune — le Père du Paradis. Une telle conception de la réalité donne des vues plus larges sur l’unité intentionnelle des phénomènes de l’univers ; elle révèle même un but spirituel d’accomplissement de personnalité progressif ; et c’est là un concept d’unité qui peut percevoir l’arrière-plan invariant d’un univers vivant où les relations impersonnelles changent sans cesse et où les relations personnelles évoluent continuellement. ([LU 133:5.8](/fr/The_Urantia_Book/133#p5_8))
+> Il y a unité dans l’univers cosmique, si vous parveniez seulement à discerner ses manifestations dans les faits. L’univers réel est amical pour chaque enfant du Dieu éternel. Le vrai problème est le suivant : comment le mental fini de l’homme peut-il aboutir à une unité de pensée logique, véritable et harmonieuse ? Cet état mental de connaissance de l’univers ne peut être acquis qu’en concevant les faits quantitatifs et les valeurs qualitatives comme ayant une cause commune — le Père du Paradis. Une telle conception de la réalité donne des vues plus larges sur l’unité intentionnelle des phénomènes de l’univers ; elle révèle même un but spirituel d’accomplissement de personnalité progressif ; et c’est là un concept d’unité qui peut percevoir l’arrière-plan invariant d’un univers vivant où les relations impersonnelles changent sans cesse et où les relations personnelles évoluent continuellement. (<a id="a101_910"></a>[LU 133:5.8](/fr/The_Urantia_Book/133#p5_8))
 
 Comme l’a déjà vu Niels Bohr, la physique quantique implique «  une révision radicale de notre rapport à la réalité physique  », une vision étonnamment dynamique et indivisible de la réalité.
 
@@ -94,3 +118,28 @@ L'équipe éditoriale de Lumière et Vie
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/2024/10/30/editorial-noviembre-2024/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2024_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Angela_Figuera_Aymerich/Navegando_por_la_vida_Me_explico_ante_Dios">
+          <span class="pr-2">Naviguer dans la vie : je m'explique à Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

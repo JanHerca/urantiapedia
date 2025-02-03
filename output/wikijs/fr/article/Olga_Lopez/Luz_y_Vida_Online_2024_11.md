@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Éditorial Luz y Vida – Décembre 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -225,7 +246,7 @@ Seul Dieu suffit.
 Deux de mes paragraphes préférés concernent le concept enseigné par Jésus sur le royaume des cieux et la transformation spirituelle et personnelle de l’individu. «  Le royaume des cieux est en vous.  »
 <br style="clear:both;"/>
 
-> À différentes époques et dans des circonstances variées, il semble que Jésus ait présenté de nombreux concepts du « royaume » dans ses leçons publiques. Mais, à ses apôtres, il enseigna toujours le royaume comme embrassant l’expérience personnelle d’un homme par rapport à ses contemporains sur terre et au Père dans les cieux. Ses derniers mots, au sujet du royaume, étaient toujours : « Le royaume est en vous. » ([LU 170:1.13](/fr/The_Urantia_Book/170#p1_13))
+> À différentes époques et dans des circonstances variées, il semble que Jésus ait présenté de nombreux concepts du « royaume » dans ses leçons publiques. Mais, à ses apôtres, il enseigna toujours le royaume comme embrassant l’expérience personnelle d’un homme par rapport à ses contemporains sur terre et au Père dans les cieux. Ses derniers mots, au sujet du royaume, étaient toujours : « Le royaume est en vous. » (<a id="a248_418"></a>[LU 170:1.13](/fr/The_Urantia_Book/170#p1_13))
 
 [Lire la suite](/fr/article/Luis_Coll/Mi_parrafo_favorito)
 
@@ -303,3 +324,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/2536/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Éditorial Luz y Vida – Décembre 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

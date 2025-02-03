@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Éditorial Luz y Vida – Décembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
@@ -174,7 +195,7 @@ Alors le porteur d’eau lui dit :
 
 L’un des paragraphes qui m’a le plus marqué était le suivant :
 
-Vous apprendrez que vous augmentez votre fardeau et réduisez vos chances de réussite si vous vous prenez trop au sérieux. Rien n’a la priorité sur le travail, quelle que soit la sphère dans laquelle vous vous trouvez, que ce soit dans ce monde ou dans le suivant. Le travail de préparation pour la sphère suivante et supérieure est très important, mais rien n’est aussi important que votre travail dans le monde dans lequel vous vivez. Cependant, même si le travail est important, le soi ne l’est pas. Lorsque vous vous sentez important, vous perdez de l’énergie dans l’érosion naturelle de la dignité de l’ego, de sorte qu’il reste peu d’énergie pour faire le travail. Ce n’est pas l’importance du travail mais l’importance d’eux-mêmes qui épuise les créatures immatures. C’est le poids du moi qui épuise, et non l’effort de réussite. Vous pouvez faire un travail important si vous ne vous rendez pas important. Vous pouvez faire plusieurs choses aussi facilement qu'une seule si vous lâchez prise sur vous-même. La variété est relaxante, la monotonie est épuisante et épuisante. Les jours se succèdent de la même manière et toujours avec la même alternative : la vie ou la mort. [LU 48:6.37](/fr/The_Urantia_Book/48#p6_37)
+Vous apprendrez que vous augmentez votre fardeau et réduisez vos chances de réussite si vous vous prenez trop au sérieux. Rien n’a la priorité sur le travail, quelle que soit la sphère dans laquelle vous vous trouvez, que ce soit dans ce monde ou dans le suivant. Le travail de préparation pour la sphère suivante et supérieure est très important, mais rien n’est aussi important que votre travail dans le monde dans lequel vous vivez. Cependant, même si le travail est important, le soi ne l’est pas. Lorsque vous vous sentez important, vous perdez de l’énergie dans l’érosion naturelle de la dignité de l’ego, de sorte qu’il reste peu d’énergie pour faire le travail. Ce n’est pas l’importance du travail mais l’importance d’eux-mêmes qui épuise les créatures immatures. C’est le poids du moi qui épuise, et non l’effort de réussite. Vous pouvez faire un travail important si vous ne vous rendez pas important. Vous pouvez faire plusieurs choses aussi facilement qu'une seule si vous lâchez prise sur vous-même. La variété est relaxante, la monotonie est épuisante et épuisante. Les jours se succèdent de la même manière et toujours avec la même alternative : la vie ou la mort. <a id="a197_1181"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37)
 <br style="clear:both;"/>
 
 [Lire la suite](/fr/article/Raul_Framinan/Mi_parrafo_favorito)
@@ -252,3 +273,24 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2023/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Décembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Éditorial Luz y Vida – Décembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

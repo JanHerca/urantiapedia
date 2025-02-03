@@ -48,7 +48,7 @@ Je souhaite pousser le concept un peu plus loin et, comme à mon habitude, une �
 
 Une communication plus efficace avec nos ajusteurs de pensée équivaut à un effort plus efficace pour faire la volonté du Père. Comment Jésus a-t-il fait cela, en termes pratiques ?
 
-> « _Le ministère terrestre du Maitre présenta fort peu d’aspects professionnels, bien prévus, ou prémédités. Il dispensa la santé et répandit le bonheur avec naturel et grâce au cours de son voyage à travers la vie. Il était littéralement vrai qu’il « circulait en faisant du bien »._ » (<a id="a26_289"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9))
+> « _Le ministère terrestre du Maitre présenta fort peu d’aspects professionnels, bien prévus, ou prémédités. Il dispensa la santé et répandit le bonheur avec naturel et grâce au cours de son voyage à travers la vie. Il était littéralement vrai qu’il « circulait en faisant du bien »._ » (<a id="a50_289"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9))
 
 L'un de ses atouts, cependant, était qu'il était à l'écoute de «_... ce qu'il y avait dans le cœur et l'esprit de l'homme... expert dans la compréhension des besoins humains, intelligent dans la détection des désirs humains_». Les gens le sentaient d'un seul coup d'œil et étaient attirés par lui et lui posaient souvent des questions qui lui donnaient le point de départ pour révéler sa vérité.
 
@@ -62,7 +62,7 @@ J'ai mélangé des indices sur ces quatre rencontres avec ma propre expérience 
 
 Cultivez votre véritable intérêt pour la personne en arrivant là où elle se trouve. Posez des questions ouvertes. Cela signifie ceux qui invitent à une opinion ou à une explication, plutôt qu’à une réponse oui/non. Les questions commençant par « comment ? », « pourquoi ? », « de quelle manière ? » sont meilleures que les questions « est-ce que vous ? » ou « est-ce ? ». Des déclarations telles que « parlez-m'en davantage sur... » produisent le même effet qu'une question ouverte. Continue d'essayer. Même le premier pari du Maître avec le jeune homme qui avait peur, lui demandant en fait s'il pouvait l'aider, n'a pas fonctionné. Regardez la deuxième tentative de Jésus :
 
-> « _Je comprends que tu montes dans ces collines pour fuir les gens ; il est donc naturel que tu ne désires pas t’entretenir avec moi, mais j’aimerais savoir si tu es un familier de ces collines. Connais-tu la direction de ces pistes ? »_ » (<a id="a40_243"></a>[LU 130:6.2](/fr/The_Urantia_Book/130#p6_2))
+> « _Je comprends que tu montes dans ces collines pour fuir les gens ; il est donc naturel que tu ne désires pas t’entretenir avec moi, mais j’aimerais savoir si tu es un familier de ces collines. Connais-tu la direction de ces pistes ? »_ » (<a id="a64_243"></a>[LU 130:6.2](/fr/The_Urantia_Book/130#p6_2))
 
 Je suppose qu'il est difficile de communiquer avec quelqu'un à moins de le faire parler !
 
@@ -70,7 +70,7 @@ Je suppose qu'il est difficile de communiquer avec quelqu'un à moins de le fair
 
 Pour poser les bonnes questions, nous devons être de bons auditeurs. Il existe deux types d'écoute : passive et active. Le passif est comme une éponge où la communication est essentiellement à sens unique. L'écoute active implique également de poser des questions basées sur ce qui vient d'être dit pour renforcer ou élargir votre compréhension, de là où ils en sont plutôt que de là où vous voulez qu'ils soient. Jésus était bien plus intéressé par l'âme de Flavius que par sa collection d'art, et pourtant...
 
-> « _...Flavius fut également surpris de voir qu’au lieu de le réprimander pour avoir ces objets prétendument idolâtres un peu partout dans la maison, le Maitre manifestait un grand intérêt pour toute la collection. Jésus montra son appréciation en posant maintes questions sur chaque objet, tandis que Flavius l’accompagnait de pièce en pièce en lui montrant toutes ses statues favorites._ » (<a id="a48_394"></a>[LU 142:4.1](/fr/The_Urantia_Book/142#p4_1))
+> « _...Flavius fut également surpris de voir qu’au lieu de le réprimander pour avoir ces objets prétendument idolâtres un peu partout dans la maison, le Maitre manifestait un grand intérêt pour toute la collection. Jésus montra son appréciation en posant maintes questions sur chaque objet, tandis que Flavius l’accompagnait de pièce en pièce en lui montrant toutes ses statues favorites._ » (<a id="a72_394"></a>[LU 142:4.1](/fr/The_Urantia_Book/142#p4_1))
 
 Et quelle phrase d'ouverture avec la femme au puits de Jacob : « Donnez-moi à boire ». Elle était Samaritaine et les Juifs ne conversaient pas avec les Samaritains, encore moins les hommes parlant aux femmes au bord des puits. Il savait que cela la ferait avancer et c'est ce qui s'est produit. Il y est arrivé en quatre mots.
 
@@ -82,7 +82,7 @@ Jésus a largement utilisé la métaphore et l'analogie, en particulier lorsqu'e
 
 Au cours de son séjour de six mois à Rome avec les trente-deux chefs religieux...
 
-> « _...Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ..._ » (<a id="a60_394"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+> « _...Il ne s’attaqua pas une seule fois à leurs erreurs et ne mentionna même jamais les défauts de leurs enseignements. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ..._ » (<a id="a84_394"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 
 

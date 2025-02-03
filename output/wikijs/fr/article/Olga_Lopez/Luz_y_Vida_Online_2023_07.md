@@ -9,6 +9,27 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information d'Urantia Association Urantia d'Espagne
 
@@ -56,9 +77,9 @@ Dans _Le Livre d'Urantia_, nous lisons à propos de Jésus de Nazareth ce compor
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-jul23-2.jpg" alt="Editorial jul23-2" width="350">
 </figure>
 
-À ce moment-là, Ganid avait commencé à se rendre compte que son tuteur passait son temps libre dans ce ministère personnel inhabituel envers ses semblables, et je voulais découvrir la raison de cette activité constante. Il a demandé : « Pourquoi passes-tu tout ton temps à parler à des inconnus ? » Jésus répondit : Ganid, pour quiconque connaît Dieu, aucun homme n’est un étranger. Dans l’expérience de trouver le Père dans les cieux, vous découvrez que tous les hommes sont vos frères, et qu’y a-t-il d’étrange à se réjouir en compagnie d’un frère nouvellement découvert ? « Traiter avec nos frères et sœurs, connaître leurs problèmes et apprendre à les aimer est l'expérience suprême de la vie. » [LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
+À ce moment-là, Ganid avait commencé à se rendre compte que son tuteur passait son temps libre dans ce ministère personnel inhabituel envers ses semblables, et je voulais découvrir la raison de cette activité constante. Il a demandé : « Pourquoi passes-tu tout ton temps à parler à des inconnus ? » Jésus répondit : Ganid, pour quiconque connaît Dieu, aucun homme n’est un étranger. Dans l’expérience de trouver le Père dans les cieux, vous découvrez que tous les hommes sont vos frères, et qu’y a-t-il d’étrange à se réjouir en compagnie d’un frère nouvellement découvert ? « Traiter avec nos frères et sœurs, connaître leurs problèmes et apprendre à les aimer est l'expérience suprême de la vie. » <a id="a79_700"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
 
-C’est cette étroite association avec ses semblables, jeunes et vieux, Juifs et Gentils, qui lui donna l’occasion de faire connaissance avec la race humaine. Jésus était très bien éduqué dans le sens où il comprenait profondément les hommes et les aimait profondément. [LU 123:5.8](/fr/The_Urantia_Book/123#p5_8)
+C’est cette étroite association avec ses semblables, jeunes et vieux, Juifs et Gentils, qui lui donna l’occasion de faire connaissance avec la race humaine. Jésus était très bien éduqué dans le sens où il comprenait profondément les hommes et les aimait profondément. <a id="a81_268"></a>[LU 123:5.8](/fr/The_Urantia_Book/123#p5_8)
 
 Nous voyons comment un Dieu créateur tout entier vient sur Terre et ne se montre pas écrasant dans son pouvoir suprême, mais plutôt proche et gentil, amical et compréhensif dans la face à nos problèmes et à nos expériences. « Il comprenait profondément les hommes et les aimait tendrement. » Il parlait et écoutait toutes sortes de gens : des caravaniers, des prostituées, un empereur, des pêcheurs et des petits enfants. Tous les êtres humains l’intéressaient.
 
@@ -248,15 +269,15 @@ Parmi tous les paragraphes, je voudrais souligner certains qui m’ont actuellem
 
 Dans ces paragraphes, j’essaie d’abréger ce que je comprends comme transcendantal face aux éléments et aux inévitabilités qui pourraient conditionner notre croissance spirituelle :
 
-> … il peut arriver que, sans faute de votre part, les accidents du temps et les limitations de l’existence matérielle vous empêcher d’atteindre ces niveaux sur votre planète d’origine. Dans ce cas, si vos intentions et vos désirs ont une valeur de survie… Vous bénéficierez d’un temps supplémentaire pour prouver votre valeur. [LU 112:5.6](/fr/The_Urantia_Book/112#p5_6)
+> … il peut arriver que, sans faute de votre part, les accidents du temps et les limitations de l’existence matérielle vous empêcher d’atteindre ces niveaux sur votre planète d’origine. Dans ce cas, si vos intentions et vos désirs ont une valeur de survie… Vous bénéficierez d’un temps supplémentaire pour prouver votre valeur. <a id="a271_328"></a>[LU 112:5.6](/fr/The_Urantia_Book/112#p5_6)
 
-> Chaque fois qu'il y a un doute quant à l'opportunité d'avancer une identité humaine vers les mondes des maisons, les gouvernements de l'univers statuent invariablement en faveur de l'intérêt personnel de cet individu. individuel. …alors que vous continuez à observer l’émergence de vos intentions morontielles et de vos desseins spirituels. De cette manière, l’accomplissement de la justice divine est garanti et la miséricorde divine se voit accorder une nouvelle opportunité d’étendre son ministère. [LU 112:5.7](/fr/The_Urantia_Book/112#p5_7)
+> Chaque fois qu'il y a un doute quant à l'opportunité d'avancer une identité humaine vers les mondes des maisons, les gouvernements de l'univers statuent invariablement en faveur de l'intérêt personnel de cet individu. individuel. …alors que vous continuez à observer l’émergence de vos intentions morontielles et de vos desseins spirituels. De cette manière, l’accomplissement de la justice divine est garanti et la miséricorde divine se voit accorder une nouvelle opportunité d’étendre son ministère. <a id="a273_504"></a>[LU 112:5.7](/fr/The_Urantia_Book/112#p5_7)
 
-> … toutes les créatures de volonté doivent avoir une réelle opportunité de faire un choix indubitable, pleinement conscient et définitif… L’âme humaine doit avoir et aura la pleine opportunité de révéler sa véritable intention et son véritable but. [LU 112:5.9](/fr/The_Urantia_Book/112#p5_9)
+> … toutes les créatures de volonté doivent avoir une réelle opportunité de faire un choix indubitable, pleinement conscient et définitif… L’âme humaine doit avoir et aura la pleine opportunité de révéler sa véritable intention et son véritable but. <a id="a275_250"></a>[LU 112:5.9](/fr/The_Urantia_Book/112#p5_9)
 
-> … Nous préférerions prendre le risque d’une rébellion sur un système plutôt que de courir le risque de priver un seul mortel en difficulté sur n’importe quel monde évolutionnaire de la joie éternelle de continuer à combat. la course vers le haut. [LU 112:5.8](/fr/The_Urantia_Book/112#p5_8)
+> … Nous préférerions prendre le risque d’une rébellion sur un système plutôt que de courir le risque de priver un seul mortel en difficulté sur n’importe quel monde évolutionnaire de la joie éternelle de continuer à combat. la course vers le haut. <a id="a277_249"></a>[LU 112:5.8](/fr/The_Urantia_Book/112#p5_8)
 
-> « L’acte est le nôtre, les conséquences sont celles de Dieu. » [LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
+> « L’acte est le nôtre, les conséquences sont celles de Dieu. » <a id="a279_65"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
 
 A la lumière de ces paroles du révélateur, j'ai dû faire un grand effort de réflexion pour accepter le fait que le libre arbitre accordé par le Père ne nous donne pas une autorité totale sur notre avenir (oui, mais non). Il est le commencement. Il établit les règles du jeu, les lois qui régissent le cosmos… même la loi de l’euthanasie spirituelle où je pensais à tort que, parce que je jouissais de ce libre arbitre, j’étais absolument responsable de mon destin, mais ce n’est pas le cas.
 
@@ -378,3 +399,24 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bien
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
 - [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2023/)
 - [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
