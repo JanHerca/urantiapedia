@@ -246,7 +246,7 @@ And in its second paragraph:
 
 Then in the third of this short three paragraph introduction to Paper 2, we find:
 
-> “All our efforts to enlarge the human concept of God would be well-nigh futile except for the fact that **the mortal mind is indwelt by the bestowed Adjuster of the Universal Father** **and is pervaded by the Truth Spirit of the Creator Son.”  (<a id="a248_247"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3))
+> “All our efforts to enlarge the human concept of God would be well-nigh futile except for the fact that **the mortal mind is indwelt by the bestowed Adjuster of the Universal Father** **and is pervaded by the Truth Spirit of the Creator Son.**”  (<a id="a248_247"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3))
 
 Coming from celestial revelators in the materialistic age that peaked around the 1930's, that is mind blowing stuff. It probably came long after doubters about the credentials of the revelators would surely have left the Forum. But the fact that these most marvelous and compelling revelations elicited little or no interest, and apparently led to no further questions of significance from the Forum members defies credibility.
 
