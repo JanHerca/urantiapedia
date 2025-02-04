@@ -10,6 +10,10 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 <img src="/_assets/svg/icon-news.svg" alt="News" style="width: 80px;"> Vous trouverez ici une liste complète de tous les reportages des mois précédents.
 
+## 2025
+
+- [Nouvelles Janvier 2025](/fr/news/2025/01)
+
 ## 2024
 
 - [Nouvelles Décembre 2024](/fr/news/2024/12)

@@ -10,6 +10,10 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 <img src="/_assets/svg/icon-news.svg" alt="Novedades" style="width: 80px;"> Aquí puedes encontrar un listado completo de todos los informes de novedades de meses anteriores.
 
+## 2025
+
+- [Novedades de Enero 2025](/es/news/2025/01)
+
 ## 2024
 
 - [Novedades de Diciembre 2024](/es/news/2024/12)
