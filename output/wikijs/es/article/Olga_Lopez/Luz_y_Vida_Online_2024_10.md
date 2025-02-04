@@ -172,6 +172,8 @@ https://youtu.be/8LvP5phUMxE?si=uYoQZKWV75ydyXca
 
 ## Navegando por la vida: Me explico ante Dios — Ángela Figuera Aymerich
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Mi-parrafo-favorito-ene-2024.jpg" alt="Me explico ante Dios" width="350">
 </figure>
@@ -198,7 +200,7 @@ la propia muerte un poco cada día.
 
 ## Mi párrafo favorito — José Luis Navarro
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-center">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Adan-y-Eva-mi-parrafo-favorito.jpg" alt="Adán y Eva" width="350">
 </figure>
 
@@ -212,7 +214,7 @@ La primera vez que lo leí mientras hojeaba el libro en internet (aún no había
 
 ## Charla urantiana de noviembre
 
-<figure id="Figure_12" class="image urantiapedia image-style-align-center">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Orientacion-y-conocimiento.jpg" alt="Orientación y conocimiento" width="350">
 </figure>
 

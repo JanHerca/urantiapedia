@@ -124,10 +124,14 @@ Voyons donc la chronologie de ces différentes séquences
 
 Nous représenterons le **JE SUIS** comme un cercle avec un point bleu indiquant qu'il possède une volition propre.
 
+<br>
+
 <figure id="Figure_22" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figure 1.</em> JE SUIS STATIQUE:<br>Contenu en soi<br>Existant en soi<br>Se voulant lui-même<br>Ayant un but en soi</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Quelles sont ces choses et non-choses, ces causes et effets, cette volition et ces réactions; ces potentiels et ses actuels dont le Melchizédek fait allusion et qui ne sont pas encore «éternalisés »? Ce sont les futures personnalisations du **JE SUIS** avec leurs natures et leurs attributs, les différents éléments des quatre niveaux de réalité qui seront nécessaires au **JE SUIS** pour réaliser son dessein. Notons simplement qu'à ce stade hypothétique de « léternité passée » tout ceci est en gestation, inclus dans le plan, mais rien nest pas encore «éternalisé» si ce n'est que le **JE SUIS EST**.
 
@@ -147,10 +151,14 @@ Ces opérations ont lieu à l'intérieur du JE SUIS solitaire qui tout en demeur
 
 La volition propre implique un dessein du JE SUIS qui se manifeste dans la libération des chaînes de l'Infini-Infinitude par la différentiation entre le pré-personnel et le pré-impersonnel.
 
+<br>
+
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figure 2.</em> JE SUIS TRIN：<br>L'Infini se différentiant de l'Infinitude pour aboutir à une conception trine</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Deuxième étape** (_Figure 3_)
 

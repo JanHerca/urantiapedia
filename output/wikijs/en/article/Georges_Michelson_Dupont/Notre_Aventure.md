@@ -126,10 +126,14 @@ So let’s look at the chronology of these different sequences.
 
 We will represent the **I AM** as a circle with a blue dot indicating that it has its own volition.
 
+<br>
+
 <figure id="Figure_22" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figure 1.</em> I AM STATIC:<br>Contained in itself<br>Existing in itself<br>Wanting itself<br>Having a goal in itself</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 What are these things and non-things, these causes and effects, this volition and these reactions; these potentials and actuals to which the Melchizedek alludes and which are not yet “eternalized”? These are the future personalizations of the **I AM** with their natures and their attributes, the different elements of the four levels of reality which will be necessary for the **I AM** to realize its purpose. Let us simply note that at this hypothetical stage of “past eternity” all this is in gestation, included in the plan, but nothing is not yet “eternalized” except that the **I AM IS**.
 
@@ -149,10 +153,14 @@ These operations take place within the solitary I AM which, while remaining ONE,
 
 Self-volition involves a purpose of the I AM which manifests itself in liberation from the chains of the Infinite-Infinitude through the differentiation between the pre-personal and the pre-impersonal.
 
+<br>
+
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figure 2.</em> I AM TRI-NINE:<br>The Infinite differentiating itself from Infinitude to arrive at a triune conception</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Second step** (_Figure 3_)
 

@@ -79,7 +79,7 @@ At the end of the performance, he signaled to the Personalized Adjuster who had 
 
 Although he had not yet received from the Ancients of Days the official document, attesting to the success of his seventh bestowal and declaring him Master Creator Son, Jesus asked Gabriel to take care as quickly as possible of the dispensational resurrection of the sleeping survivors: the poor things! Some had been waiting since the coming of Adam and Eve, 37,000 years ago!
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/153.jpg">

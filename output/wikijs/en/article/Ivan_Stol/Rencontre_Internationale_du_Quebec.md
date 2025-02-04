@@ -105,7 +105,7 @@ Brotherly friendships. Ivan Stol
 <figcaption>Jean Anet, President of the Belgian association presenting a subject</figcaption>
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

@@ -170,9 +170,13 @@ https://youtu.be/nI8te40jdwA?si=JaB23I7KJzoGRJNA
 
 ## Naviguer dans la vie : le trésor de la vérité
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-tienda-de-la-verdad.jpg" alt="La tienda de la verdad">
 </figure>
+
+<br style="clear:both;"/>
 
 Un homme marchait dans les petites rues d’une ville de province. Il avait du temps et c'est pourquoi il s'arrêtait quelques instants à chaque vitrine, à chaque commerce, à chaque place. En tournant un coin, il se retrouva soudain devant une modeste boutique avec un chapiteau vide.
 
@@ -222,17 +226,19 @@ Il se retourna et sortit du magasin, les yeux rivés sur le sol. Il se sentit un
 
 ## Mon paragraphe préféré — Jaime Marco
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/El-alma.jpg" alt="Mi párrafo favorito - mayo 2024">
 </figure>
+
+<br style="clear:both;"/>
 
 Vous conviendrez avec moi qu’il est très difficile de choisir un paragraphe. Il y en a tellement, et tellement pleins de sagesse et de révélation. Tellement nombreux qu’ils ouvrent de nouvelles perspectives sur la Déité, Jésus, notre planète, la création, etc.
 
 Cependant, je vous apporte le paragraphe suivant :
 
 Les transcriptions de l’esprit mortel et les configurations actives de la mémoire des créatures, transformées du niveau matériel au niveau spirituel, sont la propriété individuelle des Ajusteurs de Pensée séparés ; Ces facteurs spiritualisés de l’esprit, de la mémoire et de la personnalité des créatures deviennent à jamais une partie de ces Ajusteurs. La matrice mentale de la créature et les potentiels passifs de son identité sont présents dans l'âme morontielle confiée aux soins des gardiens séraphiques du destin. La réunion de l’âme morontielle confiée aux séraphins et du mental spirituel confié à l’Ajusteur est ce qui rassemble la personnalité de la créature et constitue la résurrection d’un survivant endormi. <a id="a232_723"></a>[LU 47:3.3](/fr/The_Urantia_Book/47#p3_3)
-
-<br style="clear:both;"/>
 
 [Lire la suite](/fr/article/Jaime_Marco/Mi_parrafo_favorito)
 

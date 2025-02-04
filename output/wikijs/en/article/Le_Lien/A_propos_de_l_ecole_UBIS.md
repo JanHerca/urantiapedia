@@ -45,7 +45,7 @@ http://ubis.urantia.org/moodle/
 
 UBIS is an online school operated under the sponsorship of Urantia Foundation. One of the goals of Urantia Foundation is to “provide means and methods” for disseminating the teachings of The Urantia Book. UBIS is one such means. UBIS provides a safe and friendly virtual classroom for small groups of truth seekers from around the world to share their insights without the constraints of time and space. Students of all ages (13 and up) are welcome to participate. (We are legally prohibited from enrolling students under the age of 13). Children are welcome with parental consent and supervision or that of a guardian. Family groups have had great success participating in UBIS classes.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## The purpose of school
 

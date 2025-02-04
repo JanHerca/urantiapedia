@@ -144,9 +144,13 @@ Jesús asintió con un gesto, y Tomás dijo: «Hermanos, no quisiera prolongar e
 
 Respondamos a la esperanza de tantas generaciones que lucharon y sufrieron por conseguir este momento actual: tiempo para desarrollarnos espiritualmente en este universo material. Ahora es el momento perfecto para sembrar.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-5.jpg" alt="Editorial agosto 2024-5" width="350">
 </figure>
+
+<br style="clear:both;"/>
 
 ## Referencias
 

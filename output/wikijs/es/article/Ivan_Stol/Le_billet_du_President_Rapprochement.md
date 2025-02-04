@@ -51,7 +51,7 @@ Por supuesto, la evolución interior se produce a través de la comunión interi
 
 Iván Stol
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

@@ -51,7 +51,7 @@ dateCreated: 2024-11-1T18:24:19Z
 
 In paragraph 4 of page 141 of The Urantia Book, a Perfecter of Wisdom informs us that:
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > “_Mathematics, material science, is indispensable to the intelligent discussion of the material aspects of the universe, but such knowledge is not necessarily a part of the higher realization of truth or of the personal appreciation of spiritual realities. Not only in the realms of life but even in the world of physical energy, the sum of two or more things is very often something *more* than, or something *different* from, the predictable additive consequences of such unions. The entire science of mathematics, the whole domain of philosophy, the highest physics or chemistry, could not predict or know that the union of two gaseous hydrogen atoms with one gaseous oxygen atom would result in a new and qualitatively superadditive substance—liquid water. The understanding knowledge of this one physiochemical phenomenon should have prevented the development of materialistic philosophy and mechanistic cosmology._” (<a id="a55_925"></a>[UB 12:9.3](/en/The_Urantia_Book/12#p9_3))
 
@@ -64,7 +64,7 @@ This is why, being well convinced of these eternal truths, there is no question 
 
 And if all these personalities, in accordance with the revelations of our dear Book, are not mistaken, Let us see how many kinds of numbers we can find there. On examination, in agreement with Plato, it would seem that there are indeed three which I have renamed for convenience and adaptability to the themes discussed here.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## THE THREE CATEGORIES OF NUMBERS IN THE URANTIA BOOK
 

@@ -63,7 +63,7 @@ En Caux, los veinte estudiantes que estos días finalizan sus cursos de resoluci
 
 Entre ellos, el indio ***Nikhil Vazirani*** (21 años), ingeniero en formación, quiere contribuir a un acercamiento entre su país y Pakistán, separados desde la partición de la India en 1947. “_Mis abuelos, no -Los musulmanes, tuvieron que huir de Pakistán. Hoy, nuestros dos pueblos han mantenido una cultura idéntica, pero nuestros dos Estados persisten en convertirnos en enemigos. A mi regreso a la India, tengo la intención de actuar con nuestro gobierno y los medios de comunicación._”. Para ello, Nikhil Vazirani aplicará lo aprendido en Caux, gracias a métodos de reconciliación basados en “casos escolares”, que constituyen la historia reciente. de Zimbabwe o incluso de Sudáfrica.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 De Túnez a Suiza
 
@@ -73,7 +73,7 @@ De Túnez a Suiza
 
 El tunecino ***Amir Kanergi*** (24 años), estudiante de relaciones internacionales, luchó por la revolución en su país. El 13 de enero de 2011, un día antes del derrocamiento del presidente Ben Ali, perdió a un amigo durante los enfrentamientos entre la policía y la población de Túnez. Aquí encontró su motivación para venir a Caux y poder trabajar más eficazmente por la restauración democrática en Túnez. “Después de veintitrés años de dictadura, nuestro nuevo gobierno carece de experiencia. Hay que darle tiempo para que aprenda. » Por lo tanto, el tunecino quiere actuar a nivel de base, en los sectores de la educación y la enseñanza.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/158.jpg">
@@ -81,7 +81,7 @@ El tunecino ***Amir Kanergi*** (24 años), estudiante de relaciones internaciona
 
 Morgienne ***Lucy Linder*** (25 años), estudiante de informática, es la primera suiza que participa en las “Caux Scholars”. Quería saber cómo podría hacer que su país fuera más abierto, combatiendo los reflejos xenófobos. “_En Suiza debemos aprender a superar el miedo a los demás. Por eso estoy considerando crear un centro multicultural._”
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 _Claude Béda Textos Marius Affolter Fotos (24 horas del 26.07.2012)_
 

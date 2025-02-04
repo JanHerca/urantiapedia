@@ -30,10 +30,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Grupo-de-estudio-de-Madrid-2.jpg" alt="Grupo de Estudio de Madrid" width="250">
 </figure>
+
+<br style="clear:both;"/>
 
 In April 2004, 20 years ago, the first study group in Madrid began its journey. It was thanks to the personal push of Victor Garcia Bory, after his visit to Madrid, together with Richard Keeler to talk, among other things, about a new translation into Spanish, pending at that time.
 

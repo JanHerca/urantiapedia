@@ -54,7 +54,7 @@ Teléfono: 001 765-366-7203
 Correo electrónico: CosmicCreations606@gmail.com
 Correo electrónico de Rick Lyon: ricklyon@tctc.com
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Ayudas para el estudio del Libro de Urantia
 
@@ -79,7 +79,7 @@ Disponible por 25 dólares estadounidenses en la editorial. (Más gastos de env�
 Contacto: Hara Davis: haradavis7@gmail.com
 Director de marketing: Gary Rawlings: Gary-sa@aol.com
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Recordatorios útiles
 

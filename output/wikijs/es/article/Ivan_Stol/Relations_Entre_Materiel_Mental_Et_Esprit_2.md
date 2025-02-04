@@ -57,7 +57,7 @@ Si continuamos leyendo, tenemos el siguiente pasaje:
 
 Esto significa que permanecemos en el reino de la asociación mental-material hasta que nos elevamos espiritualmente. Y son los espíritus mentales ayudantes de la Adoración y de la Sabiduría los que permiten este tránsito de la mente material a la mente espiritual, pero ¡¡¡cómo!!!
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Mente y Espíritu
 

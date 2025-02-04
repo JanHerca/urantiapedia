@@ -82,7 +82,7 @@ Two and a half days is short for a national meeting. It's a pleasure to see new 
 
 What more can I say, except that I suppose you can imagine the atmosphere that is created during such meetings.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

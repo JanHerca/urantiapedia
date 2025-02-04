@@ -97,6 +97,8 @@ Et que lisons-nous au sujet de la tolérance ?
 
 > _Que la paix soit sur vous. Et voici les fruits de l'esprit divin produits dans la vie des mortels nés d'esprit et connaissant Dieu : service expression de l'amour, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable._ <a id="a97_373"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2)
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/068.jpg">
 </figure>

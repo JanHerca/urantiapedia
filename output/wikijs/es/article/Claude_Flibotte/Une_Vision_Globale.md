@@ -52,7 +52,7 @@ La siguiente etapa de esta realidad está compuesta por el Universo Central de H
 
 La continuación lógica del plan divino consiste en la existencia de los siete superuniversos, dominio del tiempo y del espacio, terreno ideal para adquirir experiencias desde lo imperfecto hasta llegar a ser perfecto. Es en este nivel donde encontramos el segundo polo mencionado anteriormente. Podemos encontrar una referencia a ello en casi todo el _Libro de Urantia_, desde el folleto 15 hasta el 118, e incluso podemos incluir en el resto del libro las experiencias de nuestro Hijo Creador, modelo ideal para el logro humano hacia la perfección. divinidad.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## De perfecto a imperfecto
 

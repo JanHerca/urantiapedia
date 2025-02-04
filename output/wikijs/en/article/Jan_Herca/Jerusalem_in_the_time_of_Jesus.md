@@ -42,10 +42,14 @@ The present city of Jerusalem, despite being one of the most important religious
 
 The Holy City was, like many important cities of the time, a walled city. The entire urban core appeared surrounded by a wall that gave it an elongated appearance from north to south. The northern part had two walls, one inside the other: the _first north wall or viaduct_, which started from the west side of the temple and reached the north façade of Herod's palace and connected them both by the upper passage of the wall; and surrounding this, and covering a wide area to the north, the _second north wall_.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
 <figcaption><em>Reconstruction of Jerusalem in the time of Jesus. On the right, the three towers of Herod; in the foreground, Herod's palace. In the background on the left, the temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 The buildings were usually one story with a non-habitable upper terrace or attic, or two stories, for the wealthier Jews. Among these dwellings, two buildings of spectacular size stood out imposingly: one was the great enclosure of the _temple_ (religious and spiritual center) with the _fortress Antonia_, and the other the _palace of Herod the Great_ (governmental center). The entire city was crossed, from north to south, by a depression or channel called the _valley of Tyropeon_ (in Hebrew _hagai_). On both sides the population settled on several mounds. The eastern mounds were _Mount Moriah_, to the northeast, on which the temple and the fortress Antonia sat, and _Mount Ophel_, at the southeast end of the city, and which in ancient times was where the City of David or Jebus sat. The western mound was Mount Zion, on which Herod's palace stood.
 
@@ -71,10 +75,14 @@ The entire inner esplanade of the enclosure, which was not within the sacred spa
 
 The entrance to the temple was provided by gates in all the walls. In the south, the _Huldah Gates_, named after the biblical prophetess, are particularly famous. There were two of them: the _Double Gate_, with two openings, used for exit, and the _Triple Gate_, with three openings, used for entry. These gates, through passages under the Basilica that were decorated with geometric designs, with rosettes reminiscent of chrysanthemums, buttercups and other local flowers, and with drawings of vines and bunches of grapes, led directly to the Temple Esplanade via a flight of steps. These were the entrances that pilgrims and the common people used. Next to the entrance to the two Hulda Gates there were _miqwaoth_ or public baths that pilgrims had to use to purify themselves.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-Jerusalem_Modell_BW_2.JPG">
 <figcaption><em>Reconstruction of the Temple in the time of Jesus. The Royal Portico can be seen on the left, the Sanctuary in the middle, and the Court of the Gentiles and the Antonia Fortress on the right. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalem_Modell_BW_2.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 In the west, we have already spoken of the _Basilica arch gate_, through which one entered directly into the Royal Atrium (and thus the religious and civil parts of the temple were separated by different entrances). This arch, which was the largest in the world at that time, to give us an idea of ​​its enormity, weighed 1000 tons, and above it ran a bridge about 15 m wide (like a 4-lane highway). Also in the west wall there were three other entrances apart from the Basilica gate. The most important is the one that accessed the western atrium directly through the first northern wall or viaduct at its point of union with the temple, and that for lack of another name I would call the _Royal Gate_ (Josephus simply calls it the "great gate", and in fact it must have been the largest). This access was the one used by the Herodian royalty and the rich inhabitants of the upper city. Josephus tells us of an event, dated shortly before Herod's death, which scholars believe refers to this gate. Apparently, Herod, in order to honour Rome, had a huge golden eagle hung over the jamb of this great gate, which provoked the indignation of the Pharisees. A couple of them lowered themselves down by ropes and destroyed the eagle, which cost them their execution. The Court of Solomon was also accessed by two other entrances, located a few metres above street level, and which were reached by steps attached to the walls of the wall. These two entrances, located on either side and equidistant from the royal gate, would ascend to the Court of the Gentiles by ramps like the Hulda Gates.
 
@@ -92,10 +100,14 @@ During the Jewish holidays, the Courtyard or Esplanade of the Gentiles was extre
 
 The sacred precinct of the _Sanctuary_ itself occupied a new, smaller rectangle within the courtyard, slightly shifted to the north and close to the Antonia fortress. Its dimensions were about 200 m by 140 m. It was surrounded by walls lower than those of the enclosure, with atriums and guarded at its corners by turrets. Dividing it into two halves was a fifth wall with an atrium and a wide gate with a semicircular entrance, the famous _Nicanor Gate_. One half was the so-called _Courtyard of the Women_, who could not attend the ritual services except from a distance, and the other the _Courtyard of the Priests_, intended for men and the temple staff. In the latter was located the _Altar_ and the magnificent _Sanctuary_, of considerable height, about 60 m, and where the Jews believed that the presence of God was found. It was the sacred place par excellence, and no one, except the priests, could have access to it.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-P8170082.JPG">
 <figcaption><em>Reconstruction of the Temple sanctuary in the time of Jesus. In the centre, the Nicanor Gate can be seen, which was accessed by a flight of steps and which separated the women's courtyard from the priests' courtyard. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170082.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 The temple, built by Herod the Great, had been erected with all the grandeur and luxury of the time. The construction of the walls had been carried out using courses of enormous stone ashlars, meticulously squared and fitted together. At a certain height from the street, a course of stones called the Master Course had been arranged in the walls, with stones that reached up to 12 metres long, 3 metres high and, it is estimated, 4.5 metres thick, weighing over five hundred tons. The courses above and below the Master Course did not generally have such large ashlars, with an average height of 1.2 metres. The aim of the Master Course was to give greater stability to the other courses. All the stones on the façade had the classic Herodian decoration in cushion, with a raised border on the edge that surely offered curious effects in the sunlight. The same effect must have been produced by the cup-shaped projections that were used to hoist the stones with cranes, and which were normally removed once the stones were placed, but which in many cases were left here. Another curious detail is that each row was shifted inwards by about 2.5 cm, about two fingers, creating a pyramid effect that prevented the walls from being seen from the street as if they were falling on top of each other.
 
@@ -123,10 +135,14 @@ The appearance and layout of this building is a matter of pure speculation, as n
 
 Surrounding the castle was a stone wall one and a half metres high, and after ten to fifteen metres of waste ground there was a deep ditch of about 22 m. This ditch, dry at that time, surrounded the residence of the Roman procurator all around, except for the south side, which was attached to the temple. The foundation of this bastion was a gigantic rock, completely smoothed at the top and sides. Herod, in anticipation of possible attacks, had covered the sides with enormous iron plates, so that access through them was impassable. And on this solid base was raised the fort, built with enormous rectangular stones.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/448px-P8170045.JPG">
 <figcaption><em>The Antonia Fortress. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170045.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 The moat was crossed by a drawbridge about 5 m long, supported by thick logs on which a thick metal cover had been fixed. Close to the moat, and inside it, attached to the fort, was the so-called Strution pool, a pool that had been collecting rainwater since the time of the Hasmoneans, and which has now been located under an ancient pavement from the time of Hadrian. It is not known whether it was fed by sources other than rain, and which conduits emptied into it. But what is certain is that it was used as a water supply by the inhabitants of the fortress.
 

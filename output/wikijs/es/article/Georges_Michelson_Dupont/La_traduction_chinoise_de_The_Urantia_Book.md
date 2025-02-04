@@ -48,7 +48,7 @@ Como todas las primeras versiones, estas dos deben considerarse un primer borrad
 
 Afortunadamente, el pensamiento filosófico chino es rico en sabiduría centenaria y posee, en la forma de construir logogramas, todos los matices necesarios para la plena expresión de significados profundos.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Historia de los caracteres chinos.
 
@@ -73,7 +73,7 @@ Los caracteres tradicionales se utilizan en Taiwán, Hong Kong, Singapur y entre
 
 Algunos caracteres chinos también tienen un significado cultural. Por ejemplo, el carácter «fu» (福) significa «felicidad» y se utiliza a menudo durante las celebraciones del Año Nuevo chino. »
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## DISPONIBILIDAD DE AMBAS VERSIONES
 

@@ -140,7 +140,7 @@ It all starts with awareness and the decision to change something, to move forwa
 
 Finally, developing self-esteem means recognizing and developing the esteem of the Self, of one's center, of one's soul. It means being convinced that regardless of the circumstances of our birth, our childhood and our life, we are beings created in the image of God, unique and irreplaceable and that this allows us to develop within ourselves the certainty of having value and of being worthy of loving ourselves and being loved.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Rosette Poletti and Barbara Dobbs
 

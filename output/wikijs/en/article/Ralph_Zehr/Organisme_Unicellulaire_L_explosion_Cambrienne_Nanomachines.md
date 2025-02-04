@@ -119,7 +119,7 @@ Another unexpected factor that characterizes the organisms depicted by the Cambr
 
 As time has passed, the basic dilemma facing Darwinism has changed. Again, Gould sums up the situation succinctly, “Darwin has been vindicated by a rich Precambrian record, all discovered within the last thirty years. Yet the peculiarity of this evidence does not fit Darwin's predictions of a continued rise in complexity toward Cambrian life, and the problem of the Cambrian explosion remains as persistent as ever—if not more so, since our confusion now rests on knowledge rather than ignorance of the nature of Precambrian life.” (12)
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ### What Are The Foundations Of Living Organisms?
 

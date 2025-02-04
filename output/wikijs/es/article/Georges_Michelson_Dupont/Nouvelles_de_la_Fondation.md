@@ -59,7 +59,7 @@ _Ella sirvió en la fundación como:_
 - El director de la filial española de la Escuela de Internet del Libro de Urantia (UBIS).
 - Miembro del Comité de Traducción de la Fundación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ##Víctor García-Bory
 
@@ -78,7 +78,7 @@ _Actualmente estoy:_
 
 - Miembro del comité de traducciones de la fundación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Sherry Cathcart Chavis
 
@@ -96,7 +96,7 @@ _Ella sirve a la fundación como:_
 - Miembro del comité de recaudación de fondos.
 - Miembro del comité de gobierno
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ##Chris madera
 

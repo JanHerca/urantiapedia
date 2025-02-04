@@ -152,6 +152,8 @@ How magnificent was Jesus' attitude towards life, what a surprising meaning his 
 
 > “No more should you fear that God will punish a nation for the sin of an individual; neither will the Father in heaven punish one of his believing children for the sins of a nation, albeit the individual member of any family must often suffer the material consequences of family mistakes and group transgressions. Do you not realize that the hope of a better nation—or a better world—is bound up in the progress and enlightenment of the individual?” (<a id="a152_453"></a>[UB 145:2.8](/en/The_Urantia_Book/145#p2_8))
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
 </figure>

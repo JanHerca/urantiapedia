@@ -52,7 +52,7 @@ So take up your pens, dear Brothers!
 
 Ivan Stol
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

@@ -51,7 +51,7 @@ Reclosed, France
 
 I would like to take this opportunity to pay tribute to Jacques Weiss who, thanks to his tenacity, his intelligence and his open-mindedness, left us the translation of the revelation. Jacques Weiss died on January 27, 1987.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## A few words about the Weiss Weiss family.
 

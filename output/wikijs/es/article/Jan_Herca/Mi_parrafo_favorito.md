@@ -33,6 +33,7 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Mi-parrafo-favorito-Jan-Herca.jpg" alt="Mi párrafo favorito - Jan Herca">

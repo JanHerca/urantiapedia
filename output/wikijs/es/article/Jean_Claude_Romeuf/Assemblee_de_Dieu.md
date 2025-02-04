@@ -65,7 +65,7 @@ Pero, sobre todo, hoy me sentí gratificado por la venida del Espíritu de la Ve
 
 _Jean-Claude Romeuf_
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

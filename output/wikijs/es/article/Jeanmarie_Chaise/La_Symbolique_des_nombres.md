@@ -50,7 +50,7 @@ dateCreated: 2024-11-1T18:24:19Z
 
 En el párrafo 4 de la página 141 del Libro de Urantia, un Perfeccionador de la Sabiduría nos informa que:
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > «_Las matemáticas, la ciencia material, es indispensable para discutir de manera inteligente los aspectos materiales del universo, pero este conocimiento no forma parte necesariamente de una comprensión más elevada de la verdad o de una apreciación personal de las realidades espirituales. No solamente en el terreno de la vida, sino también en el mundo de la energía física, la suma de dos o más cosas es muy a menudo algo *más* que, o algo *diferente* a, las consecuencias previsibles de la adición de esas uniones. Toda la ciencia de las matemáticas, el ámbito total de la filosofía, la física o la química más avanzadas, no podían predecir ni saber que la unión de dos átomos gaseosos de hidrógeno con un átomo gaseoso de oxígeno daría como resultado una sustancia nueva y cualitativamente sobreañadida —el agua líquida. El conocimiento comprensivo de este solo fenómeno físico-químico debería haber impedido el desarrollo de la filosofía materialista y de la cosmología mecanicista._» (<a id="a54_993"></a>[LU 12:9.3](/es/The_Urantia_Book/12#p9_3))
 
@@ -63,7 +63,7 @@ Por eso, estando bien convencidos de estas verdades eternas, no se trata aquí d
 
 Y si todas estas personalidades, de acuerdo con las revelaciones de nuestro querido Libro, no se equivocan, veamos cuántas clases de números podemos encontrar allí. Si lo examinamos, de acuerdo con Platón, parecería que efectivamente hay tres a los que he cambiado el nombre por conveniencia y adaptabilidad a los temas discutidos aquí.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## LAS TRES CATEGORÍAS DE NÚMEROS DEL LIBRO DE URANTIA
 

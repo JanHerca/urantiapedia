@@ -182,9 +182,13 @@ Ninguno de los personajes se había visto jamás reflejado en un espejo, no sabi
 
 ## Mi párrafo favorito — Francisco Javier Santos Castilla
 
+<br>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Mi-parrafo-favorito-03-24-1.jpg" alt="Mi párrafo favorito-mar 24-1" width="350">
 </figure>
+
+<br style="clear:both;"/>
 
 Hay muchos párrafos interesantes que se me han quedado en la memoria, pero algunos que recientemente me han estado «persiguiendo» son los siguientes:
 

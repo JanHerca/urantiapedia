@@ -135,11 +135,13 @@ In our symbol, the star of triangles is taken in the spiritual order represented
 
 May we all be among those who accomplish this actualization!
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/018.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Jean-François Drouet
 

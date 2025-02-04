@@ -46,7 +46,7 @@ Finding how to strengthen our inner 'break lines' could also be our job.
 But what are they?
 In ignorance let us therefore concentrate on our 'lines of force': prayer or shared meditation can help us there.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Dominique Ronfet
 

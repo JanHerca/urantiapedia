@@ -53,7 +53,7 @@ The next stage of this reality is composed of the Central Universe of Havona des
 
 The logical continuation of the divine plan consists of the existence of the seven superuniverses, the domain of time and space, the ideal terrain for acquiring experiences starting from the imperfect to become perfect. It is at this level that we find the second pole mentioned above. We can find a reference to it in almost the entirety of the Urantia Book, from Paper 15 to Paper 118, and we can even include in the rest of the book the experiences of our Creator Son, the ideal model for human achievement towards the perfection of divinity.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## From Perfect to Imperfect
 

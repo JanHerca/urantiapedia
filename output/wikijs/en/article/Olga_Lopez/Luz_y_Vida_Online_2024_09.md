@@ -196,6 +196,8 @@ Wonderful paintings arrived from all over the known world. Some showed calm seas
 
 ## My favorite paragraph — Rey Sotolongo
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Decisiones.jpg" alt="Mi párrafo favorito - oct 24">
 </figure>

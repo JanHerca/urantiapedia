@@ -110,7 +110,7 @@ El ideal de Dios ya no es sólo amar a los demás como un hermano ama a sus herm
 
 Si acudimos a Jesús, que es a la vez nuestro Hermano y nuestro Padre, podemos amar como hermano y como padre.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## ¿Qué hacer?
 

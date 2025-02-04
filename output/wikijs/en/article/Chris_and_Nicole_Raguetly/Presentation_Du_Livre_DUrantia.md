@@ -91,7 +91,7 @@ We can see the _Urantia Book_ as a symphony. The introduction gives us the main 
 
 The Urantia Book can be seen as an educational book. To educate comes from the Latin “educare”, to lead out of. Out of what? Out of commonly accepted traditions and forms. This does not mean the rejection of everything that came before, far from it. The book tells us:
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > “No professed revelation of religion could be regarded as authentic if it failed to recognize the duty demands of ethical obligation which had been created and fostered by preceding evolutionary religion. Revelation unfailingly enlarges the ethical horizon of evolved religion while it simultaneously and unfailingly expands the moral obligations of all prior revelations.” (<a id="a95_377"></a>[[UB 101:9.1](/en/The_Urantia_Book/101#p9_1))
 

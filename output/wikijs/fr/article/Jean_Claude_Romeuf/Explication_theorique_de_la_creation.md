@@ -63,6 +63,8 @@ La gravité linéaire, c'est celle qui nous permet de nous tenir debout sur la t
 
 Jean-Claude Romeuf
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>

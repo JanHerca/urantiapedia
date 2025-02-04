@@ -74,7 +74,7 @@ Es producto de varios factores que son: nuestro entorno familiar, nuestro entorn
 
 **Un ego**. El Ego es el YO material. Es la parte animal hereditaria de nuestro SER. Es exigente y egoísta pero sin embargo necesario para la construcción de nuestro ser. (<a id="a74_172"></a>[LU 131:6.2](/es/The_Urantia_Book/131#p6_2)) “_El ego es el enemigo invencible del hombre y se manifiesta en forma de las cuatro mayores pasiones humanas: la ira, el orgullo, el engaño y la codicia. La mayor victoria del hombre es su triunfo sobre sí mismo."
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Segunda parte en el siguiente enlace.
 

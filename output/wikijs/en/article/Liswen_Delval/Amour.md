@@ -72,11 +72,13 @@ The person inclined to transcendence will become a moderate spiritual being unde
 
 What a program! But I have strong hope and I am on the move! And you?
 
+<br>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/070.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Liswen Delval
 

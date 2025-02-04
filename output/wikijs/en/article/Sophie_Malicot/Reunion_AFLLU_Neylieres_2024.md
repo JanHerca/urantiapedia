@@ -57,7 +57,7 @@ One of them, named Jean Pierre Wymann, presented a remarkable work in three part
 
 The second presentation concerned prayer, having understood of course that the Seven Adjutant Spirits lead to prayer and the adoration of our Universal Father. Again their exchanges were intense.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/173.jpg">
@@ -90,7 +90,7 @@ I stay for a long time admiring the stars, the sky and its deep black where so m
 
 And there, in this garden filled with the lights of the night, I renewed my choice for heavenly citizenship.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

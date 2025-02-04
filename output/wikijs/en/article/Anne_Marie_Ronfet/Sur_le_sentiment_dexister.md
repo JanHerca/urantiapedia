@@ -101,12 +101,14 @@ It is the personality which decides, which acts, which takes action; the mind in
 
 Like the universe around us, we reunite our personality with its environment and thereby we act in concert with the Supreme, at our level. And if all this is done in faith in our Father, we can have confidence in our destiny. With our spiritual pilot, we will find our way and realize our lives. And we will become more and more real, more and more existing.
 
+<br>
+
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/046.jpg">
 <figcaption>Our ideas are the same</figcaption>
 </figure>
 
-
+<br style="clear:both;"/>
 
 
 <figure class="table chapter-navigator">

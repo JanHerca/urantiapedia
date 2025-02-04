@@ -100,12 +100,14 @@ Es la personalidad la que decide, la que actúa, la que actúa; la mente interpr
 
 Al igual que el universo que nos rodea, unimos nuestra personalidad con su entorno y a través de esto actuamos en concierto con el Supremo, a nuestro nivel. Y si todo esto se hace con fe en nuestro Padre, podremos tener confianza en nuestro destino. Con nuestro piloto espiritual, encontraremos nuestro camino y lograremos nuestras vidas. Y seremos cada vez más reales, cada vez más existentes.
 
+<br>
+
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/046.jpg">
 <figcaption>Nuestras ideas son memes</figcaption>
 </figure>
 
-
+<br style="clear:both;"/>
 
 
 <figure class="table chapter-navigator">

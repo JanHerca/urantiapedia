@@ -55,7 +55,7 @@ Tel: 001 765-366-7203
 Email: CosmicCreations606@gmail.com
 Rick Lyon's E-Mail: ricklyon@tctc.com
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Urantia Book Study Aids
 
@@ -80,7 +80,7 @@ Available for US$25 from the publisher. (Plus shipping costs) (Profits go to the
 Contact: Hara Davis: haradavis7@gmail.com
 Marketing Director: Gary Rawlings: Gary-sa@aol.com
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Useful reminders
 

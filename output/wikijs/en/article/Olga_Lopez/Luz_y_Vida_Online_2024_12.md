@@ -174,7 +174,7 @@ https://www.youtube.com/watch?v=Z8vz9fNQxbQ
 ## Navigating through life: The confused tree
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2024_12/CEl-arbol-confundido.jpg" alt="El árbol confundido" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/El-arbol-confundido.jpg" alt="El árbol confundido" width="350">
 </figure>
 
 Once upon a time, there was a place, which could be any place, and a time, which could be any time, there was a beautiful garden, with apple trees, orange trees, pear trees and beautiful rose bushes, all of them happy and satisfied.
@@ -226,6 +226,8 @@ A series of concepts related to truth were differentiated: divine truth, truth a
 
 ## My favorite paragraph — Jan Herca
 
+<br>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Mi-parrafo-favorito-Jan-Herca.jpg" alt="Mi párrafo favorito - Jan Herca">
 </figure>
@@ -240,7 +242,7 @@ Be that as it may, what attracts me most about this paragraph is that it is extr
 
 [Read more](/en/article/Jan_Herca/Mi_parrafo_favorito)
 
-##Urantian Questionnaire
+## Urantian Questionnaire
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Julio-J.-MIranda.jpg" alt="Julio J. Miranda" width="250">

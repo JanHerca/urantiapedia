@@ -171,6 +171,8 @@ https://youtu.be/Lk4zLlrXdk4?si=Nc1qHJ9blL23XX0O
 
 ## Navigating through life: Nothing disturbs you
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Un-grito-a-la-esperanza.jpg" alt="Nada te turbe" width="350">
 </figure>
@@ -252,7 +254,7 @@ Two of my favorite paragraphs refer to the concept that Jesus taught about the k
 
 ## Urantia Questionnaire — By Víctor García Bory
 
-<figure id="Figure_12" class="image urantiapedia image-style-align-center">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Victor-Garcia-Bory.jpg" alt="Víctor García Bory" width="250">
 </figure>
 
@@ -287,7 +289,7 @@ This is the presentation scheduled for the month of December:
 
 **Presenter**: Erika Webster
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Erika-Webster.jpg" alt="Erika Webster" width="250">
 </figure>
 

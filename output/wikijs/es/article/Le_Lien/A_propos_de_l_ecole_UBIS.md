@@ -44,7 +44,7 @@ http://ubis.urantia.org/moodle/
 
 La UBIS es una escuela en línea que opera bajo el patrocinio de la Fundación Urantia. Uno de los objetivos de la Fundación Urantia es «implementar medios y métodos» para difundir las enseñanzas de El Libro de Urantia. La UBIS es una de esas formas. La Escuela UBIS ofrece un aula virtual segura y amigable para que pequeños grupos de buscadores de la verdad de todo el mundo compartan sus perspectivas sin limitaciones de tiempo y espacio. La participación de estudiantes de todas las edades (mayores de 13 años) es bienvenida. (Legalmente no tenemos derecho a registrar estudiantes menores de 13 años). Los niños son bienvenidos sujeto al consentimiento de los padres y bajo su supervisión o la de un tutor. Los grupos de familias han tenido un gran éxito participando en los cursos de la UBIS.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## El propósito de la escuela
 

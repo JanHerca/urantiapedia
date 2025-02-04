@@ -140,7 +140,7 @@ The parable of the rich man and the poor man proves to us that religions have pr
 
 Jesus blessed the poor when they were sincere and pious and condemned the rich when they were libertine and ungodly, but also condemned the poor when they were ungodly and praised the rich when they were pious and devoted.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > “IF THE finite mind of man is unable to comprehend how so great and so majestic a God as the Universal Father can descend from his eternal abode in infinite perfection to fraternize with the individual human creature, then must such a finite intellect rest assurance of divine fellowship upon the truth of the fact that an actual fragment of the living God resides within the intellect of every normal-minded and morally conscious Urantia mortal. The indwelling Thought Adjusters are a part of the eternal Deity of the Paradise Father. Man does not have to go farther than his own inner experience of the soul’s contemplation of this spiritual-reality presence to find God and attempt communion with him.” (<a id="a144_709"></a>[UB 5:0.1](/en/The_Urantia_Book/5#p0_1))
 

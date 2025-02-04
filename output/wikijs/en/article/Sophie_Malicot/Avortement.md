@@ -107,7 +107,7 @@ The formulation “primitive practice of birth control” induces two corollary 
 
 Natural selection prevails for the development of civilizations: the law of the strongest has dominated and still dominates the world. However, the technological, moral, and intellectual advances of civilizations shift the notion of “strongest”. With industry, physical strength takes second place to mental strength - intelligence. Selection continues, but according to other criteria that amend other behaviors in the face of future children: no longer becoming a force of nature but a mental force: a high-performance brain. For illustration: Stephen Hawking. The task is as sensitive as it is heavy, especially our isolation in meeting this challenge:
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > “But while the pure-line children of a planetary Garden of Eden can bestow themselves upon the superior members of the evolutionary races and thereby upstep the biologic level of mankind, it would not prove beneficial for the higher strains of Urantia mortals to mate with the lower races; such an unwise procedure would jeopardize all civilization on your world. Having failed to achieve race harmonization by the Adamic technique, you must now work out your planetary problem of race improvement by other and largely human methods of adaptation and control.” (<a id="a111_564"></a>[UB 51:5.7](/en/The_Urantia_Book/51#p5_7))
 
@@ -191,7 +191,7 @@ If each fetus is a budding potential, then each embryo of the living is the same
 
 And by sliding the Deity provides the Supreme with a colossal potential for actualization, the majority of which will not be actualized. This means that God's plan provides for this surplus, since the laws of matter make these abundant losses inevitable.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## D: THE FUTURE?
 

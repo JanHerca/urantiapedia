@@ -26,14 +26,20 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/HERODS-PALACE_20160124-34.jpg">
 <figcaption><em>Reconstruction des palais hérodiens et hasmonéens de Jéricho.</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 La ville de Jéricho fut offerte par Marc Antoine à Cléopâtre, mais après le suicide des deux hommes, le roi Hérode en récupéra la possession, donnée par le nouvel empereur Auguste. Le roi l'utilisa largement comme résidence d'hiver et construisit un hippodrome pour divertir ses invités, plusieurs aqueducs pour irriguer la zone située sous les falaises voisines et pour approvisionner en eau son palais d'hiver. C'est dans une piscine à Jéricho qu'Hérode aurait donné l'ordre, semble-t-il selon Josèphe, d'assassiner Aristobule III, le frère de sa femme, lors d'un banquet organisé par la belle-mère d'Hérode, mère d'Aristobule.
 
 La ville était située près de l'entrée du _Wadi_ Qelt (connu à cette époque sous le nom de _nahal_ Perat), où Hérode construisit une forteresse appelée Kypros, en l'honneur de sa mère. Durant son long règne, de 37 à 4 avant JC. C., Hérode réussit à construire trois palais distincts sur le même site, qui fonctionnèrent finalement comme un seul. Il semble que dans les premières années d'Hérode (37-31 av. J.-C.), la famille hasmonéenne continua à utiliser son palais de Jéricho.
+
+<br>
 
 <figure id="Figure_1b" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/Layout-640x446.jpg">
@@ -53,19 +59,21 @@ Hérode construisit d'abord son palais indépendant à Jéricho (probablement ve
 <img src="/image/article/Jan_Herca/Jericho/21.jpg">
 </figure>
 
-Le deuxième palais d'Hérode (vers 25 avant JC) a été construit comme un complexe ouvert, exposé au paysage environnant. Il a été construit au sommet du complexe hasmonéen en ruine, suite à la destruction de ce dernier par le tremblement de terre de 31 avant JC. L'aile principale du palais (l'aile E) a été construite au nord-est des palais jumeaux en ruine. Il était structuré sur deux niveaux : celui du haut avec piscine et locaux de service était construit autour d'un grand patio péristyle, celui du bas comprenait la piscine hasmonéenne (20 x 12,5 m), un bain public de style romain et différents services. .
-
 <br style="clear:both;"/>
 
+Le deuxième palais d'Hérode (vers 25 avant JC) a été construit comme un complexe ouvert, exposé au paysage environnant. Il a été construit au sommet du complexe hasmonéen en ruine, suite à la destruction de ce dernier par le tremblement de terre de 31 avant JC. L'aile principale du palais (l'aile E) a été construite au nord-est des palais jumeaux en ruine. Il était structuré sur deux niveaux : celui du haut avec piscine et locaux de service était construit autour d'un grand patio péristyle, celui du bas comprenait la piscine hasmonéenne (20 x 12,5 m), un bain public de style romain et différents services.
+
 Dans l'aile ouest, les deux grands bassins hasmonéens ont été regroupés en un seul grand bassin (32 x 18 m), entouré de jardins nouvellement plantés. Une autre aile (peut-être une villa) a été construite au sommet de la colline artificielle hasmonéenne, mais aucune preuve de cela n'a été trouvée.
+
+<br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/61.jpg">
 </figure>
 
-Le palais le plus grand et le plus sophistiqué construit par Hérode à Jéricho, le troisième palais, a été construit vers 15 avant JC. C. des deux côtés du _Wadi_ Qelt, au N du premier palais et au SE du second. Il s'étend sur environ 3 hectares et a été construit selon un système de réseau parallèle au boulevard. Les constructeurs et artisans romains ont collaboré avec les artisans locaux en utilisant du béton romain, recouvert de petites pierres en _opus reticulatum_ et _quadratum_, ainsi que de briques de boue.
-
 <br style="clear:both;"/>
+
+Le palais le plus grand et le plus sophistiqué construit par Hérode à Jéricho, le troisième palais, a été construit vers 15 avant JC. C. des deux côtés du _Wadi_ Qelt, au N du premier palais et au SE du second. Il s'étend sur environ 3 hectares et a été construit selon un système de réseau parallèle au boulevard. Les constructeurs et artisans romains ont collaboré avec les artisans locaux en utilisant du béton romain, recouvert de petites pierres en _opus reticulatum_ et _quadratum_, ainsi que de briques de boue.
 
 L'aile principale du palais était l'aile nord. Il comprenait plusieurs salles somptueuses, deux petites cours-jardins péristyle, un bain public de style romain relativement grand et un énorme triclinium. Ce triclinium (29 x 19 m) présentait sur trois de ses côtés des rangées de colonnes, de plan similaire à celui du premier palais. La majeure partie de son sol était recouverte d'un _opus sectile_ de sol élaboré (ses tesselles ont été pillées dans l'Antiquité). Les murs, comme pratiquement tous les murs de cette aile, étaient recouverts de fresques. Cette unité comprenait également deux grandes colonnades, construites le long de la promenade, devant le jardin en contrebas. Les murs de ces colonnades, ainsi que ceux des autres pièces, étaient décorés de stuc.
 

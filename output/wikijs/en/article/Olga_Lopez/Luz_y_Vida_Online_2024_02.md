@@ -182,9 +182,13 @@ Neither of the characters had ever seen themselves reflected in a mirror, not kn
 
 ## My Favorite Paragraph — Francisco Javier Santos Castilla 
 
+<br>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Mi-parrafo-favorito-03-24-1.jpg" alt="Mi párrafo favorito-mar 24-1" width="350">
 </figure>
+
+<br style="clear:both;"/>
 
 There are many interesting paragraphs that have stuck in my memory, but some that have been “haunting” me recently are the following: 
 

@@ -170,9 +170,13 @@ https://youtu.be/nI8te40jdwA?si=JaB23I7KJzoGRJNA
 
 ## Navegando por la vida: La tienda de la verdad
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-tienda-de-la-verdad.jpg" alt="La tienda de la verdad">
 </figure>
+
+<br style="clear:both;"/>
 
 Un hombre caminaba paseando por las pequeñas callecitas de una ciudad provinciana. Tenía tiempo y por eso se detenía algunos instantes en cada vidriera, en cada negocio, en cada plaza. Al dar vuelta a una esquina se encontró de pronto frente a un modesto local cuya marquesina estaba en blanco.
 
@@ -222,7 +226,7 @@ Se dio la vuelta y salió del negocio mirando el suelo. Se sintió un poco trist
 
 ## Mi párrafo favorito — Jaime Marco
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-center">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/El-alma.jpg" alt="Mi párrafo favorito - mayo 2024">
 </figure>
 

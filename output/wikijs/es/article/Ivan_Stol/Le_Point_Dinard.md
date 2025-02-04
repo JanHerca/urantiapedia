@@ -45,7 +45,7 @@ Esta personalidad misteriosa y esquiva, presentada por Anne-Marie bajo la mirada
 
 El tema es largo, la estancia me pareció corta. Sobre todo porque, para volver a la tierra, era necesario informar sobre la actualidad de la AFLLU, elegir a los nuevos representantes de nuestra organización (Presidente: Dominique Ronfet, Vicepresidente: Ivan Stol y tesorero: Robert Gallo para nombrar pero algunos) que los principales); A esto siguió un discurso motivador del presidente de la AUI, Sr. Gaétan Charland, que nos felicitó por la organización que nuestro presidente saliente ha construido para nosotros (muchas gracias Michel).
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Iván Stol
 

@@ -204,9 +204,13 @@ I have been aware of my search for God for as long as I can remember. Although i
 
 ## The Madrid Study Group celebrates its 20th anniversary
 
+<br>
+
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Madrid-Study-Group-2.jpg" alt="Madrid Study Group" width="250">
 </figure>
+
+<br style="clear:both;"/>
 
 In April 2004, 20 years ago, the first study group in Madrid began its journey. It was thanks to the personal push of Victor Garcia Bory, after his visit to Madrid, together with Richard Keeler, to discuss, among other things, a new Spanish translation, which was pending at that time.
 
@@ -220,7 +224,7 @@ I still remember the excitement and anticipation I felt when I managed to gather
 
 ## New courses from the Urantia Book International School (UBIS)
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-septiembre-2021.jpg" alt="Cursos UBIS" width="350">
 </figure>
 
@@ -243,7 +247,7 @@ For more information about the courses, you can visit this page: [https://www.ur
 
 ## UBIS “In the Spotlight” Presentation Series
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
@@ -268,7 +272,7 @@ https://youtu.be/Fxvl5qM6qv0?si=0XITDdF1p7JuckyO
 
 ## April Urantia Talk
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Charlas-urantianas-nov21.png" alt="UBIS Charlas urantianas" width="250">
 </figure>
 

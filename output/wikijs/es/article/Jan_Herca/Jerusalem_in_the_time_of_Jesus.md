@@ -42,10 +42,14 @@ La ciudad actual de Jerusalén, a pesar de ser uno de los centros turísticos re
 
 La ciudad santa era, como muchas ciudades importantes de la época, una ciudad amurallada. La totalidad del núcleo urbano aparecía rodeado de un muro que le daban un aspecto alargado de norte a sur. La parte septentrional contaba con dos muros, uno dentro del otro: el _primer muro norte o viaducto_, que partiendo de la cara oeste del templo llegaba hasta la fachada norte del palacio de Herodes y los comunicaba a ambos por el pasaje superior del muro; y rodeando éste, y abarcando una amplia zona hacia el norte, el _segundo muro norte_.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
 <figcaption><em>Reconstrucción de la Jerusalén de tiempos de Jesús. A la derecha, las tres torres de Herodes; en primer plano, el palacio de Herodes. Al fondo a la izquierda, el templo. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Las edificaciones eran por lo común de una planta baja con un terrazo superior o desván no habitable, o de dos plantas, para los judíos más pudientes. Entre estas viviendas sobresalían, imponentes, dos construcciones de espectacular envergadura: uno era el gran recinto del _templo_ (centro religioso y espiritual) con la _fortaleza Antonia_, y otro el _palacio de Herodes el Grande_ (centro gubernamental). Toda la ciudad se hallaba atravesada, de norte a sur, por una depresión o cauce llamado el _valle de Tyropeón_ (en hebreo _hagai_). A ambos lados la población se asentaba sobre varios montículos. Los montículos orientales eran el _monte Moria_, al noreste, sobre el que se asentaban el templo y la fortaleza Antonia, y el _monte Ophel_, en el extremo sureste de la ciudad, y que en tiempos antiguos fue donde se asentaba la Ciudad de David o Jebús. El montículo occidental era el _monte Sión_, sobre el que se emplazaba el palacio de Herodes.
 
@@ -71,10 +75,14 @@ Toda la explanada interior del recinto y que no se hallaba en el interior del es
 
 Para la entrada al templo existían puertas en todos los muros. En el sur, son particularmente famosas las _puertas de Hulda_, llamadas así en honor de la profetisa bíblica, y que eran dos: la _puerta Doble_, de dos vanos, usada para salir, y la _puerta Triple_, de tres vanos, usada para entrar. Estas puertas, a través de unos pasadizos bajo la Basílica que estaban decorados con dibujos geométricos, con rosetas que recordaban el crisantemo, el ranúnculo y otras flores de la zona, y con dibujos de parras y racimos de uvas, conducían directamente a la Explanada del templo por unas escaleras. Eran las entradas que solían utilizar los peregrinos y el pueblo llano. Junto a la entrada de las dos puertas de Hulda se disponían unos _miqwaoth_ o baños públicos que los peregrinos debían usar para purificarse.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-Jerusalem_Modell_BW_2.JPG">
 <figcaption><em>Reconstrucción del templo en tiempos de Jesús. Se aprecia el pórtico regio, a la izquierda, el Santuario en medio, y el atrio de los Gentiles y la fortaleza Antonia a la derecha. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalem_Modell_BW_2.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 En el oeste, ya hemos hablado de la _puerta del arco de la Basílica_, por el que se entraba directamente al Atrio Regio (y de este modo estaban separados por distintos accesos la parte religiosa y civil del templo). Este arco, que fue el más grande del mundo en aquel tiempo, para hacernos una idea de su enormidad, pesaba 1000 toneladas, y encima de él transcurría un puente de unos 15 m de ancho (como una autopista de 4 carriles). También en el muro oeste había otros tres accesos aparte de la puerta de la Basílica. El más importante es el que accedía al atrio occidental directamente por la primera muralla norte o viaducto en su punto de unión con el templo, y que a falta de otro nombre yo denominaría la _puerta Real_ (Josefo simplemente la llama la «gran puerta», y en efecto debía de ser la más grande). Este acceso era el que utilizaban la realeza herodiana y los ricos habitantes de la ciudad alta. Josefo nos relata un suceso, fechado poco antes de la muerte de Herodes, que los expertos creen que se refiere a esta puerta. Al parecer Herodes, para honrar a Roma, hizo situar una inmensa águila dorada colgando sobre la jamba de esta gran puerta, que provocó la indignación de los fariseos. Un par de ellos se descolgaron con cuerdas y destrozaron el águila, lo que les costó su ejecución. Al Atrio de Salomón también se accedía por otros dos accesos, situados a pocos metros por encima del nivel de la calle, y a los que se ascendía por escalinatas adosadas a las paredes del muro. Estos dos accesos, situados a ambos lados y equidistantes de la puerta regia, ascenderían al Patio de los Gentiles por unas rampas como lo hacían las puertas de Hulda.
 
@@ -92,10 +100,14 @@ Durante la jornadas festivas del pueblo judío, el patio o Explanada de los Gent
 
 El recinto sagrado del _Santuario_ propiamente dicho ocupaba un nuevo rectángulo más pequeño en el interior del patio, algo desplazado hacia el norte y próximo a la fortaleza Antonia. Sus medidas eran de unos 200 m por 140 m. Se hallaba rodeado de murallas más bajas que las del recinto, con atrios y guardado en sus esquinas por torretas. Dividiéndolo en dos mitades se alzaba una quinta muralla con un atrio y una amplia puerta con una entrada semicircular, la famosa _puerta de Nicanor_. Una de las mitades era el llamado _Patio de las mujeres_, que no podían asistir a los oficios rituales sino de lejos, y el otro el _Patio de los sacerdotes_, destinado a los hombres y el personal del templo. En este último es donde se encontraba el _Altar_ y el magnífico _Santuario_, de una altura considerable, unos 60 m, y donde los judíos tenían la creencia de que se hallaba la presencia de Dios. Constituía el lugar sagrado por excelencia, y nadie, excepto los sacerdotes, podían tener acceso a él.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-P8170082.JPG">
 <figcaption><em>Reconstrucción del santuario del templo en tiempos de Jesús. Se aprecia en el centro la puerta de Nicanor, a la que se accedía por unas escalinatas, y que separaba el patio de las mujeres del de los sacerdotes. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170082.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 El templo, edificado por Herodes el Grande, había sido erigido con toda la grandeza y los lujos de la época. La construcción de los muros había sido ejecutada a base de hiladas de enormes sillares de piedra, meticulosamente encuadrados y encajados. A cierta altura de la calle se había dispuesto en los muros una hilada de piedras denominada la Hilada Maestra, con piedras que llegaban a medir hasta 12 metros de largo, 3 metros de alto y se calcula que 4,5 metros de espesor, superando las quinientas toneladas. Las hiladas superiores e inferiores a la Hilada Maestra no tenían por lo general sillares tan grandes, con 1,2 metros de altura por término medio. El objetivo de la Hilada Maestra era dar una mayor estabilidad al resto de hiladas. Todas las piedras de la fachada tenían la clásica decoración herodiana en almohadilla, con un ribete resaltado en el borde que seguro que ofrecía curiosos efectos con la luz del sol. El mismo efecto debían producir los resaltes, en forma de taza, que servían para izar las piedras con grúas, y que normalmente se eliminaban una vez colocadas las piedras, pero que aquí en muchos casos se habían dejado. Otro dato curioso es que cada hilada estaba desplazada hacia adentro unos 2,5 cm, unos dos dedos, creando un efecto pirámide que evitara ver desde la calle a los muros como si se vinieran encima.
 
@@ -123,10 +135,14 @@ La apariencia y disposición de este edificio es toda una pura elucubración pue
 
 Rodeando el castillo existía un muro de piedra de un metro y medio de alto, y tras unos diez a quince metros de terreno baldío tenía un foso profundo de unos 22 m. Este foso, seco en aquella época, rodeaba la residencia del procurador romano en todo su perímetro, excepción hecha de la cara sur, que se hallaba adosada al templo. Los cimientos de este baluarte eran una gigantesca peña, alisada íntegramente en su cima y sus costados. Herodes, en previsión de posibles ataques, había cubierto los costados con enormes planchas de hierro, de forma que el acceso por los mismos resultase impracticable. Y sobre esta sólida base se levantaba el fortín, construido con enormes piedras rectangulares.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/448px-P8170045.JPG">
 <figcaption><em>La fortaleza Antonia. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170045.JPG">Wikipedia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 El foso era atravesado por un puente levadizo de unos 5 m de longitud asentado a base de gruesos troncos sobre los que se había fijado una espesa cubierta de metal. Cerca del foso, y en su interior, adosado al fortín, se disponía la llamada piscina Strution, una piscina que venía recogiendo el agua de lluvia desde tiempos de los asmoneos, y que actualmente ha sido localizada debajo de un antiguo pavimento de época de Hadriano. Se desconoce si se alimentaba de otras fuentes que de la lluvia, y qué conductos desembocaban en ella. Pero lo que es seguro es que era utilizada como abastecimiento de agua por los habitantes de la fortaleza.
 

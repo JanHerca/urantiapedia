@@ -74,11 +74,13 @@ Regardless, Lucifer was settled on Jerusem long before Andon and Fonta became hu
 
 John Royer
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

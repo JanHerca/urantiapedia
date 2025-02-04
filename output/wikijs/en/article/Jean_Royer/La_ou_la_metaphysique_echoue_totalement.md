@@ -96,11 +96,13 @@ In conclusion, _intelligent understanding of cosmic meanings and universal inter
 
 John Royer
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

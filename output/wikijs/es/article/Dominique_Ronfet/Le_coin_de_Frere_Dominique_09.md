@@ -45,7 +45,7 @@ Descubrir cómo fortalecer nuestras “líneas de falla” internas también pod
 ¿Pero qué son?
 En la ignorancia, concentrémonos en nuestras 'líneas de fuerza': la oración o la meditación compartida pueden ayudarnos en eso.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Dominique Ronfet
 

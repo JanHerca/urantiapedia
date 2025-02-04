@@ -111,7 +111,7 @@ God's ideal is no longer just to love others as a brother loves his brothers and
 
 If we turn to Jesus who is both our Brother and our Father, we can love both as a brother and as a father.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## What to do?
 

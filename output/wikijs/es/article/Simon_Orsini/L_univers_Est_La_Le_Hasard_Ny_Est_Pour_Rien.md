@@ -118,7 +118,7 @@ El tiempo que pasa permite separar, escuchar y comprender los acontecimientos. D
 
 Dios Padre de los universos, no te pide lo imposible, simplemente te pide que vivas tu vida, que te proporciones una salida, vida tras vida, no estás obligado a seguir ninguna religión para salvarte, la decisión es personal y directo con Dios.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > Aunque la creación y la organización de los universos permanece eternamente bajo el control de los Creadores infinitos y de sus asociados, todo el fenómeno se desarrolla de acuerdo con una técnica ordenada y de conformidad con las leyes gravitatorias de la fuerza, la energía y la materia. Pero hay algo misterioso asociado a la carga de fuerza universal del espacio; comprendemos plenamente la organización de las creaciones materiales desde la etapa ultimatónica en adelante, pero no comprendemos por completo la ascendencia cósmica de los ultimatones. Estamos convencidos de que estas fuerzas ancestrales tienen su origen en el Paraíso, porque giran perpetuamente en el espacio penetrado siguiendo exactamente la silueta gigantesca del Paraíso. Aunque no es sensible a la gravedad del Paraíso, esta carga de fuerza del espacio, antepasada de toda materialización, reacciona siempre a la presencia del Paraíso inferior, pues está aparentemente incorporada en un circuito dentro y fuera del centro del Paraíso inferior. (<a id="a122_1024"></a>[LU 15:4.1](/es/The_Urantia_Book/15#p4_1))
 

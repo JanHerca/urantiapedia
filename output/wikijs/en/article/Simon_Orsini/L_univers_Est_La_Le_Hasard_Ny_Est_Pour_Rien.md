@@ -119,7 +119,7 @@ The time that passes allows events to be separated, listened to, and understood.
 
 God the Father of the universe, does not ask you the impossible, he simply asks you to live your life, to provide yourself with a way out, for life after life, you are not obliged to follow any religion to save yourself, the decision is personal and direct with God.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > While creation and universe organization remain forever under the control of the infinite Creators and their associates, the whole phenomenon proceeds in accordance with an ordained technique and in conformity to the gravity laws of force, energy, and matter. But there is something of mystery associated with the universal force-charge of space; we quite understand the organization of the material creations from the ultimatonic stage forward, but we do not fully comprehend the cosmic ancestry of the ultimatons. We are confident that these ancestral forces have a Paradise origin because they forever swing through pervaded space in the exact gigantic outlines of Paradise. Though nonresponsive to Paradise gravity, this force-charge of space, the ancestor of all materialization, does always respond to the presence of nether Paradise, being apparently circuited in and out of the nether Paradise center. (<a id="a123_913"></a>[UB 15:4.1](/en/The_Urantia_Book/15#p4_1))
 

@@ -170,6 +170,8 @@ https://youtu.be/nI8te40jdwA?si=JaB23I7KJzoGRJNA
 
 ## Navigating through life:The Truth Store
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-tienda-de-la-verdad.jpg" alt="La tienda de la verdad">
 </figure>
@@ -222,7 +224,7 @@ He turned around and left the store looking at the floor. He felt a little sad w
 
 ## My favorite paragraph — Jaime Marco
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-center">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/El-alma.jpg" alt="Mi párrafo favorito - mayo 2024">
 </figure>
 

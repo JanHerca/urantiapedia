@@ -55,6 +55,8 @@ A lui de se connaître libre,
 A lui de cultiver ses terres.
 Dominique Ronfet
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>

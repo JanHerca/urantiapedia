@@ -72,6 +72,8 @@ C'est par une technique cosmique d'autorévélation que s'effectue cette reconna
 
 > _...Toutefois, le mental ne peut jamais réussir dans cette unification de la diversité de la réalité, à moins que ***ce mental ne soit solidement conscient des choses matérielles, des significations intellectuelles et des valeurs spirituelles***. Il n'y a unité que dans l'harmonie de la triunité de la réalité fonctionnelle, et ***c'est seulement dans l'unité que la personnalité se satisfait dans la réalisation de la constance et de la cohérence cosmiques***._ <a id="a72_466"></a>[LU 102:2.5](/fr/The_Urantia_Book/102#p2_5)
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/062.jpg">
 </figure>

@@ -49,7 +49,7 @@ Like all early versions, these two must be considered as a first draft, especial
 
 Fortunately, Chinese philosophical thought is rich in wisdom dating back thousands of years and possesses, in the way of constructing logograms, all the nuances necessary for the full expression of profound meanings.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## History of Chinese characters
 
@@ -74,7 +74,7 @@ Traditional characters are used in Taiwan, Hong Kong, Singapore and among the Ch
 
 Some Chinese characters also have cultural significance. For example, the character “fu” (福) means “happiness” and is often used during Chinese New Year celebrations.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## AVAILABILITY OF BOTH VERSIONS
 

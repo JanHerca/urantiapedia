@@ -257,6 +257,8 @@ Life wakes you up, prunes you, breaks you, disappoints you… but believe me, th
 
 ## My favorite paragraph — Miguel Mallorca
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Navegando-por-la-vida-Tarde-te-ame.jpg" alt="Oportunidad, misericordia y ley">
 </figure>

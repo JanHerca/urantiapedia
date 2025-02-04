@@ -124,11 +124,13 @@ The powers of the personality are immense. God keeps all His promises. He has eq
 Georges Michelson-Dupont
 International Conference of the I.U.A. in Dourdan (France)
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

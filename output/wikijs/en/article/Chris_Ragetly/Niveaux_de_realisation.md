@@ -73,11 +73,13 @@ At that moment, he becomes aware of his relationship with the experiential Deity
 
 > _Even the discoveries of science are not truly *real* in the consciousness of human experience until they are unraveled and correlated, until their relevant facts actually become *meaning* through encircuitment in the thought streams of mind. Mortal man views even his physical environment from the mind level, from the perspective of its psychological registry. It is not, therefore, strange that man should place a highly unified interpretation upon the universe and then seek to identify this energy unity of his science with the spirit unity of his religious experience. Mind is unity; mortal consciousness lives on the mind level and perceives the universal realities through the eyes of the mind endowment. The mind perspective will not yield the existential unity of the source of reality, the First Source and Center, but it can and sometime will portray to man the experiential synthesis of energy, mind, and spirit in and as the Supreme Being. But mind can never succeed in this unification of the diversity of reality unless such mind is firmly aware of material things, intellectual meanings, and spiritual values; only in the harmony of the triunity of functional reality is there unity, and only in unity is there the personality satisfaction of the realization of cosmic constancy and consistency._ (<a id="a73_1317"></a>[UB 102:2.5](/en/The_Urantia_Book/102#p2_5))
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/062.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 We encounter another definition from the _Urantia Book_ regarding things, meanings and values, which may leave us perplexed, it is the appearance of tertiary maxima, see:
 

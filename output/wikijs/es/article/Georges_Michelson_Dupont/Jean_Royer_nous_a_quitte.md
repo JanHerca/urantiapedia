@@ -62,7 +62,7 @@ Jean, profesor de inglés de profesión, era un gran conocedor del _Libro de Ura
 
 A nivel personal, Jean era un “Bon Vivant”; le encantaba fumar en pipa y beber buen vino. Dotado de un legendario y muy apreciado sentido del humor, era sin embargo modesto y reservado, también era muy escuchado en los grupos de estudio porque su profundo conocimiento del _Libro de Urantia_ y sus intuiciones eran autoritarios. Nunca habló para no decir nada. Erudito, multilingüista, educado en astronomía y ciencia, siguió siendo un verdadero estudioso del Libro de Urantia, siempre abierto a las ideas de los demás. Para muchos de nosotros, fue un recurso valioso.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Jean tenía un temperamento equilibrado, nunca impaciente ni enojado, siempre mostrando interés y empatía por los demás. Debilitado por la enfermedad, nunca se quejó, sino que pidió dejar este mundo para ir al otro con dignidad, lo cual hizo.
 

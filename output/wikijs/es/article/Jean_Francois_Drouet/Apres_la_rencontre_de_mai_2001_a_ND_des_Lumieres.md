@@ -134,11 +134,13 @@ En nuestro símbolo, la estrella de los triángulos está tomada del orden espir
 
 ¡Que todos estemos entre aquellos que logren esta actualización!
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/018.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Jean-François Drouet
 

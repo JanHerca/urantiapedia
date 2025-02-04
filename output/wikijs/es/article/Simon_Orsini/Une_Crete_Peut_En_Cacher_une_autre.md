@@ -139,7 +139,7 @@ La parábola de los ricos y los pobres nos demuestra que las religiones tienen m
 
 Jesús bendijo a los pobres cuando eran sinceros y piadosos y condenó a los ricos cuando eran libertinos e impíos, pero también condenó a los pobres cuando eran impíos y alabó a los ricos cuando eran piadosos y devotos.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > «SI LA mente finita del hombre es incapaz de comprender cómo un Dios tan grande y tan majestuoso como el Padre Universal puede descender de su residencia eterna de perfección infinita para fraternizar con las criaturas humanas individuales, entonces ese intelecto finito debe basar su seguridad de comunión divina en la verdad del hecho de que un fragmento real del Dios viviente reside en el intelecto de cada mortal de Urantia provisto de una mente normal y de una conciencia moral. Los Ajustadores del Pensamiento interiores son una parte de la Deidad eterna del Padre Paradisiaco. El hombre no tiene necesidad de ir más allá de su propia experiencia interior, donde el alma contempla la presencia de esta realidad espiritual, para encontrar a Dios y tratar de comulgar con él.» (<a id="a143_785"></a>[LU 5:0.1](/es/The_Urantia_Book/5#p0_1))
 

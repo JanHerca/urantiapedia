@@ -34,6 +34,8 @@ dateCreated: 2025-1-31T13:52:37Z
 </figure>
 
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
 </figure>

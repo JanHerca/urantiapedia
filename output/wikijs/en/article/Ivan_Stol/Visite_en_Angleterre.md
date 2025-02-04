@@ -120,7 +120,7 @@ All this in a very English atmosphere, meals included with the typical taste of 
 
 Ivan
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

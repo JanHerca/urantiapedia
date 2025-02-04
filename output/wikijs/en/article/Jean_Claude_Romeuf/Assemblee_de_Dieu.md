@@ -66,7 +66,7 @@ But most of all, today I was blessed with the coming of the Spirit of Truth. A s
 
 _Jean-Claude Romeuf_
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

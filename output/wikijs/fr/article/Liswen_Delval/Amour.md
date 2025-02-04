@@ -71,6 +71,8 @@ La personne enclin à la transcendance deviendra un être spirituel modéré com
 
 Quel programme! Mais j'ai l'espoir vivace et je suis en marche!Et vous?
 
+<br>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/070.jpg">
 </figure>

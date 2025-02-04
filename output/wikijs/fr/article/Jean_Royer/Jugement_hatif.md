@@ -72,6 +72,8 @@ Quoi qu'il en soit, Lucifer était installé sur Jérusem longtemps avant qu'And
 
 Jean Royer
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>

@@ -207,6 +207,8 @@ La estaca era ciertamente muy fuerte para él. Juraría que se durmió agotado, 
 
 ## Mi párrafo favorito — Sebastián Nozzi
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
 </figure>

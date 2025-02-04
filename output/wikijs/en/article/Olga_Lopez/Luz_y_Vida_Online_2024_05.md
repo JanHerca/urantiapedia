@@ -207,6 +207,8 @@ The stake was certainly very strong for him. I would swear that he fell asleep e
 
 ## My Favorite Paragraph — Sebastian Nozzi 
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center"> 
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Young Man Talking With Jesus"> 
 </figure> 

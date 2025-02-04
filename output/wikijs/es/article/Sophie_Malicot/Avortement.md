@@ -106,7 +106,7 @@ La formulación “práctica primitiva del control de la natalidad” induce dos
 
 La selección natural prevalece para el desarrollo de las civilizaciones: la ley del más fuerte ha dominado y domina todavía el mundo. Sin embargo, los avances tecnológicos, morales e intelectuales de las civilizaciones están cambiando la noción de “más fuertes”. Con la industria, la fuerza física pasa a un segundo plano frente a la fuerza mental: la inteligencia. La selección continúa, pero según otros criterios que modifican otros comportamientos hacia los futuros niños: convertirse ya no en una fuerza de la naturaleza sino en una fuerza mental: un cerebro de alto rendimiento. Por ejemplo: Stephen Hawking. La tarea es tan delicada como pesada, especialmente nuestro aislamiento para afrontar este desafío:
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > «Pero aunque los hijos de pura cepa de un Jardín del Edén planetario pueden donarse a los miembros superiores de las razas evolutivas y mejorar así el nivel biológico de la humanidad, a los linajes superiores de los mortales de Urantia no les resultaría beneficioso emparejarse con las razas inferiores; un proceder tan poco sabio como éste pondría en peligro toda la civilización en vuestro mundo. Como no se ha logrado llevar a cabo la armonización racial mediante la técnica adámica, ahora tenéis que resolver vuestro problema planetario de mejoramiento racial mediante otros métodos de adaptación y de control, principalmente humanos.» (<a id="a110_643"></a>[LU 51:5.7](/es/The_Urantia_Book/51#p5_7))
 
@@ -190,7 +190,7 @@ Si cada feto tiene potencial de gemación, entonces cada embrión vivo es igual.
 
 Y al deslizarse, la Deidad proporciona al Supremo un potencial colosal de actualización, la mayor parte del cual no se realizará. Esto significa que el plan de Dios prevé este excedente, ya que las leyes de la materia hacen inevitables estas abundantes pérdidas.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ##D: ¿EL FUTURO?
 

@@ -75,7 +75,7 @@ It is the product of several factors which are: our family environment, our soci
 
 **An Ego**. The Ego is the material ME. It is the hereditary animal part of our ME. It is demanding and selfish but nevertheless necessary for the construction of our being. (<a id="a75_175"></a>[UB 131:6.2](/en/The_Urantia_Book/131#p6_2)) “_The ego is the invincible enemy of man and manifests itself in the aspect of the four greatest human passions: anger, pride, deception and greed. Man's greatest victory is his triumph over himself._”
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Second part in the next link.
 

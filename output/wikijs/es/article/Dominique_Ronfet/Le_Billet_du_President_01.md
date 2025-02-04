@@ -65,11 +65,13 @@ Luego ambos se arrodillaron para intentar encontrarla.
 
 Esperamos verte muy pronto para una nueva “búsqueda del tesoro”.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/061.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

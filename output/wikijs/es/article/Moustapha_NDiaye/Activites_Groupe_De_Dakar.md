@@ -59,7 +59,7 @@ Después de organizar dos reuniones denominadas “Cumbre de Dakar”, en 2018 y
 
 Gracias a la pandemia y al confinamiento en 2020, el Grupo Social que se reunió todos los días durante tres meses, con africanos, europeos, canadienses y otros miembros, expresó la necesidad de recibir las enseñanzas de la Sabiduría Divina Progresista. La cual comenzó desde entonces, como una sesión regular de zoom. A continuación se resumen los elementos más destacados del tercer informe de actividades del GSDP de Dakar.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## HOY
 
@@ -75,7 +75,7 @@ El resumen de las actividades del GSDP, disponible en el informe de actividades 
 3. En total, durante dos años, 53 personas, hombres y mujeres, de 16 países y 3 continentes, han recibido, de forma regular, enseñanzas de la Sabiduría Divina Progresiva en 2022. Entre ellos, se espera que 12, y Davis las compartan. esta enseñanza como futuros educadores. Entre este número de personas que recibieron formación, hay 17 mujeres y 36 hombres, es decir una proporción del 32% de mujeres.
 4. Las perspectivas de colaboración con asociaciones implicadas en la promoción de las revelaciones del Libro de Urantia son reales, al igual que las de una participación más activa.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/130.jpg">

@@ -64,11 +64,13 @@ La gravedad lineal es la que nos permite mantenernos erguidos sobre la tierra, e
 
 Jean-Claude Romeuf
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

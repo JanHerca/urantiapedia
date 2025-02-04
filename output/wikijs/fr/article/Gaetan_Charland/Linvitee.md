@@ -54,9 +54,13 @@ Aujourd'hui, je sillonne le monde souvent accompagné de ma conjointe afin de re
 
 Je poursuis toujours mon rêve d'adolescent, celui de rendre le monde meilleur.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/049.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

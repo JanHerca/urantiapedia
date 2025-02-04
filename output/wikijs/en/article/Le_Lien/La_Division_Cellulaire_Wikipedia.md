@@ -54,7 +54,7 @@ Cell division is the mode of multiplication of any cell. It allows it to divide 
 
 Disorders of cell divisions can be the cause of tumors and cancers. Anarchic cell proliferation must be distinguished from normal cell regeneration. In order to understand the mechanisms underlying this division, numerous model species have been studied, including the yeasts Schizosaccharomyces pombe and Saccharomyces cerevisiae, but also the embryonic development of Xenopus.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

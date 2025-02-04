@@ -30,10 +30,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Ciudad-Real.jpg" alt="Ciudad Real">
 </figure>
+
+<br style="clear:both;"/>
 
 **Fecha:** del 7 al 10 de septiembre de 2023  
 **Lugar:** Hotel Santa Cecilia, C/ Tinte nº 3, Ciudad Real  
@@ -48,6 +51,8 @@ Tras dieciocho encuentros nacionales de lectores en España, ha llegado el momen
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-inicial-Jaime.jpg" alt="Jaime Marco">
 </figure>
+
+<br style="clear:both;"/>
 
 El Encuentro arrancó oficialmente con una presentación del presidente de la asociación, Jaime Marco, centrada en el tema del Encuentro y en lo que se pretendía con las actividades programadas. Para comenzar con la tanda de presentaciones, y como apoyo del tema del encuentro, Paco Santos, de Málaga, nos dio una presentación sobre la meditación en el movimiento urantiano y terminó con los posibles beneficios que nos ofrece si la hacemos una práctica habitual en nuestra vida.
 
@@ -65,6 +70,8 @@ El sábado por la tarde no hubo presentaciones, sino que se dedicó a confratern
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Debates-1.jpg" alt="Debates">
 </figure>
 
+<br style="clear:both;"/>
+
 Como viene siendo habitual, las noches se dedicaron a debate libre y a conversaciones entre los asistentes que querían seguir compartiendo ideas sobre las enseñanzas de _El libro de Urantia_.
 
 El último día, domingo, también hubo otra sesión de técnicas de respiración a cargo de Fernando Carazo. Después del desayuno se hizo una sesión de recapitulación sobre el Encuentro, en el que los asistentes ofrecieron diversas sugerencias, como por ejemplo crear grupos de trabajo para tratar sobre temas del libro y problemas de la sociedad, y compartir opiniones. Después, tras una pausa para que los asistentes pudieran hacer el checkout, se celebró la Asamblea de socios de la Asociación Urantia de España, en la que la junta expuso las actividades realizadas durante los últimos meses y se trató sobre los proyectos futuros de diseminación de la asociación: un libro con «Las 100 preguntas de _El libro de Urantia_», seminarios de temas específicos para llegar a concusiones consensuadas que luego se publicarán en la página web, retomar contacto con asistentes anteriores a los Encuentros, contratar una nueva sala Zoom, etc.
@@ -76,6 +83,8 @@ Este ha sido el primer Encuentro de lectores españoles desde el inicio de la pa
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Foto-de-grupo-XIX-Encuentro-1.jpg" alt="Foto de grupo">
 </figure>
+
+<br style="clear:both;"/>
 
 
 ## Referencias

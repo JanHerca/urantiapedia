@@ -93,7 +93,7 @@ Conclusion: it therefore takes approximately 200 billion years to reach Paradise
 
 Jean Royer — July 2016
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

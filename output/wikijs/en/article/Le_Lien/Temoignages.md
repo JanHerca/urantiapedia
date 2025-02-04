@@ -58,7 +58,7 @@ Insufficiency of words. Beyond that, recharged hearts and souls say God in our l
 
 The call has been made: prepare for the 2025 European meeting!
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > The myriads of planetary systems were all made to be eventually inhabited by many different types of intelligent creatures, beings who could know God, receive the divine affection, and love him in return. The universe of universes is the work of God and the dwelling place of his diverse creatures. “God created the heavens and formed the earth; he established the universe and created this world not in vain; he formed it to be inhabited.” (<a id="a62_444"></a>[UB 1:0.2](/en/The_Urantia_Book/1#p0_2))
 
@@ -86,7 +86,7 @@ Living this practical experience of benevolence and discovery of the other in th
 
 Thank you all!
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ---
 
@@ -104,7 +104,7 @@ The theme of this session was “God in our life” and this contact with other 
 
 Best regards Patrick Morelli.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Calligraphy by Sophie Malicot
 

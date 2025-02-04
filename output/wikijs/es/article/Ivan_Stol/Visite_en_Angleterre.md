@@ -119,7 +119,7 @@ Todo ello en un ambiente muy inglés, comidas incluidas con ese sabor típico de
 
 Iván
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

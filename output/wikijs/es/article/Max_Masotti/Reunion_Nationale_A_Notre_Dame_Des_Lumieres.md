@@ -50,7 +50,7 @@ Amistades para todos.
 
 Máx.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

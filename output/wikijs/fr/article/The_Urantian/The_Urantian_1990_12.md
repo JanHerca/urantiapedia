@@ -62,9 +62,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > Droits d'auteur et copie ; 1990 par Fifth Epochal Fellowship Corporation. Tous droits réservés. Imprimé aux États-Unis
 {.is-info}
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 ## À propos de cette question...
 

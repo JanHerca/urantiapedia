@@ -49,7 +49,7 @@ Su abanico de posibilidades abarcaba muchos otros ámbitos, para nosotros el má
 
 Cuando un amigo nos deja siempre tendemos a sacarle más provecho de lo que realmente es, pero en lo que a él respecta todo lo mencionado en este homenaje es cierto. Hasta pronto Jean.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/121.jpg">

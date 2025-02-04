@@ -220,7 +220,7 @@ Je me souviens encore de l’excitation et de l’impatience que j’ai ressenti
 
 ## Nouveaux cours de l'École Internationale du Livre d'Urantia (UBIS) 
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-septiembre-2021.jpg" alt="Cursos UBIS" width="350">
 </figure>
 
@@ -238,12 +238,12 @@ Si vous souhaitez demander un cours, vous devez d'abord créer un compte sur le 
 
 Les places sont limitées, alors inscrivez-vous le plus tôt possible ! 
 
-Pour plus d'informations sur les cours, vous pouvez visiter cette page : [https://www.urantia.org/fr/education/programmation-des-cours](https://www.urantia.
+Pour plus d'informations sur les cours, vous pouvez visiter [cette page](https://www.urantia.org/fr/education/programmation-des-cours)
 
 
 ## Série de présentations « In Focus » d’UBIS 
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
@@ -268,7 +268,7 @@ https://youtu.be/Fxvl5qM6qv0?si=0XITDdF1p7JuckyO
 
 ## Discussion sur Urantian d'avril 
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Charlas-urantianas-nov21.png" alt="UBIS Charlas urantianas" width="250">
 </figure>
 

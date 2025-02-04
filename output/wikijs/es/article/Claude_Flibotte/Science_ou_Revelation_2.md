@@ -55,7 +55,7 @@ Me llamó la atención un expediente de la revista Science \& Vie de julio de 20
 
 Estos extranjeros los identifican como Homo heidelbergensis llegados de África, se extendieron por Europa hace 800.000 años. Serían los antepasados de los neandertales. Según su opinión, los franceses tienen un 2% de secuencias genéticas neandertales en su ADN.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## LA SEGUNDA INFLUENCIA
 
@@ -66,7 +66,7 @@ Estos extranjeros los identifican como Homo heidelbergensis llegados de África,
 
 Según el autor Homo Sapiens, el hombre moderno nació en África hace 300.000 años. Habría emigrado a Europa hace 70.000 años y finalmente llegó a Francia desde Oriente Medio hace 40.000 años. Son cazadores-recolectores. El ADN de los franceses contendría una media del 10% de secuencias de este hombre moderno.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## LA TERCERA INFLUENCIA
 

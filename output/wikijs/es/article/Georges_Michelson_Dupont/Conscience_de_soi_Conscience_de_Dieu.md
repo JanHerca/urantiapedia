@@ -60,7 +60,7 @@ Carente de personalidad, el animal no tiene libre albedrío ni conciencia de sí
 
 El sistema mental animal es puramente reactivo. Se puede enseñar únicamente mediante retroalimentación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > «La respuesta selectiva de un animal está limitada a su nivel motor de comportamiento. La supuesta perspicacia de los animales superiores se encuentra a un nivel motor y sólo aparece generalmente después de la experiencia de los ensayos y los errores motores. El hombre es capaz de ejercer su perspicacia científica, moral y espiritual antes de explorar o de experimentar cualquier cosa.» (<a id="a64_392"></a>[[LU 16:7.2](/es/The_Urantia_Book/16#p7_2))
 

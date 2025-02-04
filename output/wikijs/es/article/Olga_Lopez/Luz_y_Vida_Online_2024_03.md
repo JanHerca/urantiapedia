@@ -204,9 +204,13 @@ Desde que tengo memoria soy consciente de mi búsqueda de Dios. A pesar de que m
 
 ## El Grupo de Estudio de Madrid cumple 20 años
 
+<br>
+
 <figure id="Figure_13" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Grupo-de-estudio-de-Madrid-2.jpg" alt="Grupo de Estudio de Madrid" width="250">
 </figure>
+
+<br style="clear:both;"/>
 
 En abril del año 2004, hace 20 años, comenzó su andadura el primer grupo de estudio de Madrid. Fue gracias al empuje personal de Victor Garcia Bory, después de su visita a Madrid, junto con Richard Keeler para hablar, entre otras cosas, sobre una nueva traducción en español, pendiente en ese entonces.
 
@@ -220,7 +224,7 @@ Recuerdo aún la emoción y expectación que sentía al conseguir reunir una doc
 
 ## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-septiembre-2021.jpg" alt="Cursos UBIS" width="350">
 </figure>
 
@@ -243,7 +247,7 @@ Para obtener más información sobre los cursos, podéis visitar esta página: [
 
 ## Serie de presentaciones «En el foco» de la UBIS
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
 </figure>
 
@@ -268,7 +272,7 @@ https://youtu.be/Fxvl5qM6qv0?si=0XITDdF1p7JuckyO
 
 ## Charla urantiana de abril
 
-<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Charlas-urantianas-nov21.png" alt="UBIS Charlas urantianas" width="250">
 </figure>
 

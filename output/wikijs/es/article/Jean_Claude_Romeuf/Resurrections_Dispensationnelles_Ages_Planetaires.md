@@ -78,7 +78,7 @@ Al final de la actuación, le indicó al Ajustador Personalizado que había cont
 
 Aunque aún no había recibido de los Ancianos de los Días el documento oficial que atestiguaba el éxito de su séptimo autootorgamiento y lo declaraba Maestro Hijo Creador, Jesús oró a Gabriel para que se encargara de la resurrección dispensacional de los sobrevivientes dormidos lo más rápido posible: ¡los pobres! ¡Algunos han estado esperando desde la venida de Adán y Eva, hace 37.000 años!
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/153.jpg">

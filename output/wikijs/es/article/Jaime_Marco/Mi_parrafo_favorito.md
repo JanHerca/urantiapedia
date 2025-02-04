@@ -33,10 +33,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/El-alma.jpg" alt="Mi párrafo favorito - mayo 2024">
 </figure>
+
+<br style="clear:both;"/>
 
 Estarán de acuerdo conmigo de que es muy difícil elegir un párrafo. Hay tantos y tan cargados de sabiduría y revelación. Tantos que nos abren nuevas perspectivas sobre la Deidad, Jesús, nuestro planeta, la creación, etc.
 

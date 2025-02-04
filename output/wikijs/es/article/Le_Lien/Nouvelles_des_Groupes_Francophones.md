@@ -96,7 +96,7 @@ La aventura continúa.
 
 Dominique Ronfet
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Grupo de Estudio Denominado “De París” (Bis)
 
@@ -112,7 +112,7 @@ Con toda mi amistad.
 
 Anne-Marie Ronfet
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/106.jpg">
@@ -186,7 +186,7 @@ Hoy, el grupo cuenta con diez personas divididas en la presencia de tres mujeres
 
 Claude Flibotte.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## El Grupo de Estudio Recierra
 

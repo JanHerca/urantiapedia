@@ -73,11 +73,13 @@ En este momento toma conciencia de su relación con la Deidad experiencial, el S
 
 > _Incluso los descubrimientos de la ciencia no son verdaderamente *reales* en la conciencia de la experiencia humana hasta que no son desenmarañados y correlacionados, hasta que sus hechos pertinentes no tienen un *significado* efectivo gracias a su inclusión en las corrientes de pensamiento de la mente. El hombre mortal percibe incluso su entorno físico desde el nivel mental, desde la perspectiva de su registro psicológico. Por eso no es de extrañar que el hombre interprete el universo de una manera extremadamente unificada, y luego intente identificar esta unidad energética de su ciencia con la unidad espiritual de su experiencia religiosa. La mente es unidad; la conciencia mortal vive en el nivel mental y percibe las realidades universales a través de los ojos de la dotación mental. La perspectiva mental no proporcionará la unidad existencial de la fuente de la realidad, la Fuente-Centro Primera, pero puede presentar, y alguna vez presentará al hombre, la síntesis experiencial de la energía, la mente y el espíritu en el Ser Supremo y como Ser Supremo. Pero la mente nunca podrá conseguir esta unificación de la diversidad de la realidad, a menos que dicha mente sea firmemente consciente de las cosas materiales, los significados intelectuales y los valores espirituales; sólo existe unidad en la armonía de la trinidad de la realidad funcional, y la satisfacción que proporciona a la personalidad la comprensión de la constancia y de la coherencia cósmicas sólo se hallan en la unidad._ (<a id="a73_1509"></a>[LU 102:2.5](/es/The_Urantia_Book/102#p2_5))
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/062.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Nos encontramos con otra definición del _Libro de Urantia_ sobre cosas, significados y valores, que puede dejarnos perplejos, es la aparición de máximos terciarios, ver:
 

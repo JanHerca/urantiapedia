@@ -45,7 +45,7 @@ _With the eyes of the flesh, one can perceive the manifestations of the spirit, 
 
 So let's open our eyes, these windows of the soul, And pay attention to the air currents.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Dominique Ronfet
 

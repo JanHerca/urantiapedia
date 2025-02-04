@@ -117,6 +117,8 @@ Let us go through the door that is _The Urantia Book_, let us discover through i
 
 Nobody said that life was easy, but here we are, and we are accompanied by the best traveling companion. And it's true that **we are never alone**.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-5.jpg" alt="Editorial oct 23-5" width="350">
 </figure>

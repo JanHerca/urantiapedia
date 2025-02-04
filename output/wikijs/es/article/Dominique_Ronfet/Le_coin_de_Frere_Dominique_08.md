@@ -44,7 +44,7 @@ _Con los ojos de la carne podemos percibir las manifestaciones del espíritu, pe
 
 Así que abramos nuestros ojos, estas ventanas del alma, y prestemos atención a las corrientes de aire.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Dominique Ronfet
 

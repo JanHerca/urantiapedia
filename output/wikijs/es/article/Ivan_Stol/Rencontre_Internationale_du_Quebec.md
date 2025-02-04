@@ -104,7 +104,7 @@ Amistades fraternales. Iván Stol
 <figcaption>Jean Anet, presidente de la asociación belga presentando un tema</figcaption>
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

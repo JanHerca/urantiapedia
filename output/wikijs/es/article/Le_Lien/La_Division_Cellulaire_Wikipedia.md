@@ -53,7 +53,7 @@ La división celular es el modo de multiplicación de cualquier célula. Le perm
 
 Las alteraciones en la división celular pueden provocar tumores y cánceres. La proliferación celular anárquica debe distinguirse de la regeneración celular normal. Para comprender los mecanismos subyacentes a esta división, se han estudiado numerosas especies modelo, incluidas las levaduras Schizosaccharomyces pombe y Saccharomyces cerevisiae, pero también el desarrollo embrionario de Xenopus.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

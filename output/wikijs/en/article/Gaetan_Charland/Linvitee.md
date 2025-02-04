@@ -56,11 +56,13 @@ Today, I travel the world, often accompanied by my partner, to meet readers who 
 
 I still pursue my teenage dream of making the world a better place.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/049.jpg">
 </figure>
 
-
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

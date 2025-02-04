@@ -53,7 +53,7 @@ Feliz lectura a todos. Fraternalmente suyo.
 
 El editor en jefe
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Guy de Virón
 

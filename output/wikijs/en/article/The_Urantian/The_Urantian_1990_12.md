@@ -58,9 +58,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 > Copyright &copy; 1990 by Fifth Epochal Fellowship Corporation. All rights reserved. Printed in U.S.A.
 {.is-info}
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 ## About This Issue...
 

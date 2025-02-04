@@ -30,10 +30,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Grupo-de-estudio-de-Madrid-2.jpg" alt="Grupo de Estudio de Madrid" width="250">
 </figure>
+
+<br style="clear:both;"/>
 
 En abril del año 2004, hace 20 años, comenzó su andadura el primer grupo de estudio de Madrid. Fue gracias al empuje personal de Victor Garcia Bory, después de su visita a Madrid, junto con Richard Keeler para hablar, entre otras cosas, sobre una nueva traducción en español, pendiente en ese entonces.
 

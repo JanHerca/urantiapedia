@@ -53,7 +53,7 @@ El hecho de que, desde entonces, la evolución social y tecnológica se haya ace
 
 De este estudio se desprende que una persona que realmente desea evolucionar debe utilizar principalmente sus capacidades intelectuales totales (los siete espíritus mentales ayudantes) y su discernimiento (personalidad) para acceder al nivel más alto de percepción (conciencia cósmica y superconciencia). Luego, varios ayudantes espirituales pueden agregar efectivamente sus influencias para dirigir (Ángeles), actualizar (Ajustador) y confirmar (Espíritu de Verdad).
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/109.jpg">

@@ -81,7 +81,7 @@ Dos días y medio son pocos para una reunión nacional. Es un placer ver caras n
 
 Qué más puedo decir, salvo que supongo que os podéis imaginar el ambiente que se crea durante este tipo de reuniones.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

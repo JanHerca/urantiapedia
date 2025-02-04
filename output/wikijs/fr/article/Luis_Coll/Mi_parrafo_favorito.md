@@ -47,6 +47,8 @@ Nous essayons souvent de changer le monde et la société, mais c’est une tâc
 
 Dans ses enseignements, Jésus s’est beaucoup concentré sur le progrès personnel et spirituel de l’individu et a enseigné que «  le royaume des cieux est en vous  ».
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Mi-parrafo-favorito-L.Coll_.jpg" alt="Mi párrafo favorito - dic 2024" width="350">
 </figure>

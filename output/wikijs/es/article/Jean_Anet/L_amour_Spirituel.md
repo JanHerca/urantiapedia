@@ -47,10 +47,14 @@ La otra particularidad fue abrir este fin de semana a personas que no conocían 
 
 Primero teníamos que encontrar un título. El título en inglés utilizado para el taller en Chicago “Vivir una vida compasiva” se tradujo mal al francés. La palabra 'Compasión' evoca, por un lado, más bien el universo budista y, por otro, un lado dolorista que queríamos evitar. Después de varias investigaciones, coincidimos en “Amor Espiritual”, título que nunca antes había sido utilizado hasta nuestro conocimiento y que evocaba la espiritualidad y el amor, que queríamos desarrollar en este seminario.
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/053.jpg">
 <figcaption>Curso: Amor Espiritual - Bélgica del 6 al 8 de mayo de 2016</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Fue entonces necesario construir una enseñanza que surgiera del Libro de Urantia, pero que no se remitiera sistemáticamente a él para respetar a los no lectores. Y por otro lado, utilizar técnicas de Desarrollo Personal que estén de acuerdo con el libro, para respetar a los lectores del libro, pero que se abran a nuevos experimentos posiblemente desconocidos para los lectores del _Libro de Urantia_.
 

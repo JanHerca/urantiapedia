@@ -63,7 +63,7 @@ El sábado por la mañana fue la Asamblea General y la elección del nuevo Presi
 
 En resumen, fueron tres días intensos, con temas muy profundos, buenos debates, con la alegría de encontrar nuevos lectores y con el sentimiento de una gran fraternidad espiritual que unía a todas estas personalidades al servicio de la Revelación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/043.jpg">

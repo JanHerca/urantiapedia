@@ -133,6 +133,8 @@ Dans notre symbole, l'étoile des triangles est prise dans l'ordre spirituel rep
 
 Puissions-nous tous être au nombre de ceux qui accomplissent cette actualisation!
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/018.jpg">
 </figure>

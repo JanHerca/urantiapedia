@@ -66,11 +66,13 @@ They both then got down on their knees to try to find her.
 
 We look forward to seeing you again very soon for a new “treasure hunt”.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/061.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

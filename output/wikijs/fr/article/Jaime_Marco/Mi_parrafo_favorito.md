@@ -33,10 +33,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/El-alma.jpg" alt="Mi párrafo favorito - mayo 2024">
 </figure>
+
+<br style="clear:both;"/>
 
 Vous conviendrez avec moi qu’il est très difficile de choisir un paragraphe. Il y en a tellement, et tellement pleins de sagesse et de révélation. Tellement nombreux qu’ils ouvrent de nouvelles perspectives sur la Déité, Jésus, notre planète, la création, etc.
 

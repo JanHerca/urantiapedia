@@ -30,6 +30,7 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Ciudad-Real.jpg" alt="Ciudad Real">
@@ -49,6 +50,8 @@ Après dix-huit réunions nationales de lecteurs en Espagne, le temps est venu d
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-inicial-Jaime.jpg" alt="Jaime Marco">
 </figure>
 
+<br style="clear:both;"/>
+
 La réunion a officiellement débuté par une présentation du président de l'association, Jaime Marco, axée sur le thème de la réunion et les objectifs des activités programmées. Pour commencer la série de présentations, et en soutien au thème de la rencontre, Paco Santos, de Malaga, nous a fait une présentation sur la méditation dans le mouvement urantien et a terminé avec les bénéfices possibles qu'elle nous offre si nous en faisons une pratique régulière dans notre vie.
 
 Vendredi matin, avant les présentations, Paco Santos a proposé une méditation guidée en lien avec sa présentation de la veille. Le matin, deux présentations ont été proposées, suivies d’un tour d’interventions libre mais modéré des participants. La première présentation a été faite par Marinett Morales et a traité de la famille à la lumière des enseignements du livre, et la seconde a été faite par Inma Gómez, dans ce cas sur le travail, les affaires et l'argent (vous avez le contenu des présentations sur notre site web).
@@ -65,6 +68,8 @@ Il n’y a pas eu de présentations le samedi après-midi, mais celui-ci a été
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Debates-1.jpg" alt="Debates">
 </figure>
 
+<br style="clear:both;"/>
+
 Comme d’habitude, les soirées ont été consacrées à des débats libres et à des conversations entre les participants qui souhaitaient continuer à partager des idées sur les enseignements du _Livre d’Urantia_.
 
 Le dernier jour, dimanche, il y a également eu une autre séance de techniques de respiration dirigée par Fernando Carazo. Après le petit-déjeuner, une séance de synthèse de la réunion a eu lieu, au cours de laquelle les participants ont proposé diverses suggestions, comme la création de groupes de travail pour discuter des thèmes du livre et des problèmes de société, et pour partager leurs opinions. Ensuite, après une pause pour permettre aux participants de se déconnecter, s'est tenue l'Assemblée des membres de l'Association Urantia d'Espagne, au cours de laquelle le conseil d'administration a présenté les activités menées au cours des derniers mois et a discuté des projets futurs pour la diffusion de l'association : un livre avec «  Les 100 Questions du _Livre d’Urantia_  », des séminaires sur des sujets spécifiques pour parvenir à des conclusions consensuelles qui seront ensuite publiées sur le site Web, renouer avec les anciens participants des réunions, louer une nouvelle salle Zoom, etc.
@@ -76,6 +81,8 @@ Il s'agit de la première rencontre de lecteurs espagnols depuis le début de la
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Foto-de-grupo-XIX-Encuentro-1.jpg" alt="Foto de grupo">
 </figure>
+
+<br style="clear:both;"/>
 
 
 ## Références

@@ -88,7 +88,7 @@ Regarding reader donations:
 
 In 2014, readers gave 5,930 euros and in 2015 donations amounted to 3,850 euros as of June 30.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/007.jpg">

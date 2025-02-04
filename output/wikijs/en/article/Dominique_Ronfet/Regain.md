@@ -57,11 +57,13 @@ It's up to him to know he is free,
 It’s up to him to cultivate his land.
 Dominique Ronfet
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

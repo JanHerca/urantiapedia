@@ -123,11 +123,13 @@ Los poderes de la personalidad son inmensos. Dios cumple todas sus promesas. Ha 
 Georges Michelson-Dupont
 Congreso Internacional de la I.U.A. en Dourdan (Francia)
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

@@ -71,6 +71,8 @@ Pour enfin produire en abondance des fruits délectables.
 
 Gilles Bertrand 1-avril-2003
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/054.jpg">
 </figure>

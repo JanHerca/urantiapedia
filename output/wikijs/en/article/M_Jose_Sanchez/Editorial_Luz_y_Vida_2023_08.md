@@ -144,9 +144,13 @@ Jesus nodded, and Thomas said, “Brethren, I do not wish to prolong this discus
 
 Let us respond to the hope of so many generations that fought and suffered to achieve this current moment: time to develop spiritually in this material universe. Now is the perfect time to sow.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-5.jpg" alt="Editorial agosto 2024-5" width="350">
 </figure>
+
+<br style="clear:both;"/>
 
 ## References
 

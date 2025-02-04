@@ -141,9 +141,13 @@ https://youtu.be/HUniksXvDxk?si=aY73-YQOYQ7oM46V
 
 ## 19e Rencontre des lecteurs – Ciudad Real, 2023
 
+<br>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Ciudad-Real.jpg" alt="Ciudad Real">
 </figure>
+
+<br style="clear:both;"/>
 
 **Date :** du 7 au 10 septembre 2023
 **Emplacement :** Hôtel Santa Cecilia, C/ Tinte nº 3, Ciudad Real

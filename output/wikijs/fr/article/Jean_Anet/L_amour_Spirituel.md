@@ -46,10 +46,14 @@ L'autre particularité était d'ouvrir ce WE à des personnes ne connaissant pas
 
 Il fallut d'abord trouver un titre. Le titre en anglais utilisé pour le workshop à Chicago « Living a compassionate live » se traduisait mal en français. Le mot 'Compassion' évoque, d'une part plutôt l'univers bouddhiste, et d'autre part un côté doloriste que l'on voulait éviter. Après plusieurs recherches, nous nous sommes mis d'accord sur « L'Amour Spirituel », titre qui n'avait encore jamais été utilisé à notre connaissance et qui évoquait la spiritualité et l'amour, ce que l'on voulait développer dans ce séminaire.
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/053.jpg">
 <figcaption>Stage: l'Amour Spirituel - Belgique 6 au 8 mai 2016</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Il a fallu ensuite construire un enseignement qui soit issu du Livre d'Urantia, mais qui n'en fasse pas référence systématiquement pour respecter les non-lecteurs. Et d'autre part, utiliser des techniques de Développement Personnel qui soient en accord avec le livre, pour respecter les lecteurs du livre, mais qui ouvrent à de nouvelles expérimentations éventuellement non-connues des lectrices et lecteurs du _Livre d'Urantia_.
 

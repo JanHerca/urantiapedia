@@ -87,7 +87,7 @@ Respecto a las donaciones de lectores:
 
 En 2014 los lectores donaron 5.930 euros y en 2015 las donaciones ascendieron a 3.850 euros a 30 de junio.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/007.jpg">

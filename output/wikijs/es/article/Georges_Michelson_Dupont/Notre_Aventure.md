@@ -125,10 +125,14 @@ Entonces, veamos la cronología de estas diferentes secuencias.
 
 Representaremos el **YO SOY** como un círculo con un punto azul indicando que tiene voluntad propia.
 
+<br>
+
 <figure id="Figure_22" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figura 1.</em> SOY ESTÁTICO:<br>Contenido en sí mismo<br>Existente en sí mismo<br>Quererse a sí mismo<br>Tener una meta en sí mismo</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ¿Cuáles son estas cosas y no cosas, estas causas y efectos, esta volición y estas reacciones? ¿Estos potenciales y sus actuales a los que alude Melquisedec y que aún no están “eternalizados”? Estas son las personalizaciones futuras del **YO SOY** con sus naturalezas y sus atributos, los diferentes elementos de los cuatro niveles de realidad que serán necesarios para que el **YO SOY** alcance su propósito. Notemos simplemente que en esta hipotética etapa de «eternidad pasada» todo esto está en gestación, incluido en el plan, pero nada está todavía «eternalizado» excepto que el **YO SOY ES**.
 
@@ -148,10 +152,14 @@ Estas operaciones tienen lugar dentro del solitario YO SOY que, sin dejar de ser
 
 La volición propia implica un diseño del YO SOY que se manifiesta en la liberación de las cadenas del Infinito-Infinito a través de la diferenciación entre lo prepersonal y lo preimpersonal.
 
+<br>
+
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figura 2.</em> YO SOY TRINO:<br>El Infinito se diferencia del Infinito para llegar a una concepción trina</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Segundo paso** (_Figura 3_)
 

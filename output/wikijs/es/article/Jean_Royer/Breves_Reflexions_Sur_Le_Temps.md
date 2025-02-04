@@ -92,7 +92,7 @@ Conclusión: se necesitan, por tanto, unos 200 mil millones de años para llegar
 
 Jean Royer — julio de 2016
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

@@ -48,10 +48,14 @@ The other particularity was to open this weekend to people who do not know the U
 
 We first had to find a title. The English title used for the workshop in Chicago, “Living a compassionate live”, translated poorly into French. The word 'Compassion' evokes, on the one hand, the Buddhist universe, and on the other hand, a doloristic side that we wanted to avoid. After several searches, we agreed on “Spiritual Love”, a title that had never been used to our knowledge and which evoked spirituality and love, which we wanted to develop in this seminar.
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/053.jpg">
 <figcaption>Course: Spiritual Love - Belgium May 6 to 8, 2016</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 It was then necessary to construct a teaching that comes from The Urantia Book, but which does not systematically refer to it in order to respect non-readers. And on the other hand, to use Personal Development techniques that are in accordance with the book, to respect the readers of the book, but which open up to new experiments possibly not known to the readers of The Urantia Book.
 

@@ -47,6 +47,8 @@ Muchas veces estamos tratando de cambiar el mundo y la sociedad, pero es una tar
 
 Jesús en sus enseñanzas se centró mucho en el progreso personal y espiritual del individuo y enseñó que «el reino de los cielos está dentro de vosotros».
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Mi-parrafo-favorito-L.Coll_.jpg" alt="Mi párrafo favorito - dic 2024" width="350">
 </figure>

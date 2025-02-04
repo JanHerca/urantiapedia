@@ -64,7 +64,7 @@ In Caux, the twenty students who are currently completing their applied conflict
 
 Among them, the Indian ***Nikhil Vazirani*** (21 years old), an engineer in training, wants to contribute to a rapprochement between his country and Pakistan, separated since the partition of India in 1947. “_My grandparents, non-Muslims, had to flee Pakistan. Today, our two peoples have kept an identical culture, but our two states persist in making us enemies. On my return to India, I intend to take action with our government and the media._” To this end, Nikhil Vazirani will apply what he learned in Caux, thanks to reconciliation methods built on “textbook cases”, which constitute the recent history of Zimbabwe or South Africa.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 From Tunisia to Switzerland
 
@@ -74,7 +74,7 @@ From Tunisia to Switzerland
 
 Tunisian ***Amir Kanergi*** (24 years old), a student in international relations, fought for the revolution in his country. On January 13, 2011, one day before the ouster of President Ben Ali, he lost a friend during clashes between the police and the population in Tunis. This is where he found his motivation to come to Caux, in order to be able to work more effectively to restore democracy in Tunisia. “After twenty-three years of dictatorship, our new government lacks experience. We must give it time to learn.” The Tunisian therefore wants to get involved at the grassroots level, in the education and teaching sectors.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/158.jpg">
@@ -82,7 +82,7 @@ Tunisian ***Amir Kanergi*** (24 years old), a student in international relations
 
 Morgian ***Lucy Linder*** (25 years old), computer science student, is the first Swiss national to take part in the “Caux Scholars”. She wanted to learn how she could make her country more open, by combating xenophobic reflexes. “_In Switzerland, we must learn to tame our fear of others. That's why I'm considering creating a multicultural center._”
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 _Claude Béda Texts Marius Affolter Photos (24 Heures of 07.26.2012)_
 

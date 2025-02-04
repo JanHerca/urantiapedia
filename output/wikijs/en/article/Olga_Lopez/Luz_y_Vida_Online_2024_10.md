@@ -172,6 +172,8 @@ https://youtu.be/8LvP5phUMxE?si=uYoQZKWV75ydyXca
 
 ## Navigating through life: I explain myself to God — Ángela Figuera Aymerich
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Mi-parrafo-favorito-ene-2024.jpg" alt="Me explico ante Dios" width="350">
 </figure>
@@ -198,6 +200,8 @@ death itself a little every day.
 
 ## My favorite paragraph — José Luis Navarro
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Adan-y-Eva-mi-parrafo-favorito.jpg" alt="Adán y Eva" width="350">
 </figure>
@@ -212,7 +216,7 @@ The first time I read it while browsing the book on the internet (I hadn't yet d
 
 ## November Urantia Talk
 
-<figure id="Figure_12" class="image urantiapedia image-style-align-center">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Orientacion-y-conocimiento.jpg" alt="Orientación y conocimiento" width="350">
 </figure>
 

@@ -63,7 +63,7 @@ An English teacher by profession, Jean was a great connoisseur of the _Urantia B
 
 On a personal level, Jean was a “Bon Vivant”; he loved to smoke a pipe and drink good wine. Endowed with a legendary and much-appreciated sense of humor, he was nonetheless modest and reserved. He was also very popular in study groups because his deep knowledge of the Urantia Book and his intuitions were authoritative. He never spoke for the sake of it. Erudite, multi-linguist, educated in astronomy and science, he remained a true student of The Urantia Book, always open to the ideas of others. For many of us, he was a valuable resource person.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 John had a balanced temperament, never impatient or angry, always showing interest and empathy for others. Weakened by illness, he never complained, but asked to leave this world for the next with dignity, which he did.
 

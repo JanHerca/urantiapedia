@@ -53,7 +53,7 @@ Happy reading to all. Fraternally yours.
 
 The Editor in Chief
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Guy from Viron
 

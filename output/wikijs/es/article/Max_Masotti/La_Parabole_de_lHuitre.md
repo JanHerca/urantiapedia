@@ -72,11 +72,13 @@ Para finalmente producir abundantes frutos deliciosos.
 
 Gilles Bertrand 1 de abril de 2003
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/054.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Max Masotti
 

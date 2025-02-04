@@ -182,7 +182,7 @@ Aucun des personnages ne s'était jamais vu reflété dans un miroir, ne sachant
 
 ## Mon paragraphe préféré — Francisco Javier Santos Castilla
 
-<figure id="Figure_12" class="image urantiapedia image-style-align-center">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Mi-parrafo-favorito-03-24-1.jpg" alt="Mi párrafo favorito-mar 24-1" width="350">
 </figure>
 

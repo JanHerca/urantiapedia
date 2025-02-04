@@ -196,6 +196,8 @@ De magnifiques tableaux sont arrivés de partout dans le monde connu. Certains m
 
 ## Mon paragraphe préféré — Rey Sotolongo
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Decisiones.jpg" alt="Mi párrafo favorito - oct 24">
 </figure>

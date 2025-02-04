@@ -58,7 +58,7 @@ _El Enlace_ se publica en formato europeo A4 en color, se distribuye como archiv
 - Estudios temáticos relacionados con el _Libro de Urantia_ enviados por lectores o documentos de archivo de especial interés.
 - Un diálogo en forma de preguntas de los lectores sobre un tema a estudiar. Los invitamos a elegir temas de interés general y enviárnoslos.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Fechas de publicación
 

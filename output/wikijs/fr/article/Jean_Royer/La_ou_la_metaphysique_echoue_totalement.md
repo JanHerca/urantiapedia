@@ -94,6 +94,8 @@ En conclusion, _compréhension intelligente des significations cosmiques et des 
 
 Jean Royer
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>

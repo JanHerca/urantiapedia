@@ -172,6 +172,8 @@ https://youtu.be/8LvP5phUMxE?si=uYoQZKWV75ydyXca
 
 ## Naviguer dans la vie : je m'explique à Dieu — Angela Figuera Aymerich
 
+<br>
+
 <figure id="Figure_10" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Mi-parrafo-favorito-ene-2024.jpg" alt="Me explico ante Dios" width="350">
 </figure>
@@ -198,7 +200,7 @@ la mort elle-même un peu chaque jour.
 
 ## Mon paragraphe préféré — José Luis Navarro
 
-<figure id="Figure_11" class="image urantiapedia image-style-align-center">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Adan-y-Eva-mi-parrafo-favorito.jpg" alt="Adán y Eva" width="350">
 </figure>
 
@@ -212,7 +214,7 @@ La première fois que je l'ai lu en parcourant le livre en ligne (je n'avais pas
 
 ## Entretien sur Urantia en novembre
 
-<figure id="Figure_12" class="image urantiapedia image-style-align-center">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Orientacion-y-conocimiento.jpg" alt="Orientación y conocimiento" width="350">
 </figure>
 

@@ -73,11 +73,13 @@ To finally produce an abundance of delectable fruits.
 
 Gilles Bertrand April 1, 2003
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/054.jpg">
 </figure>
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Max Masotti
 

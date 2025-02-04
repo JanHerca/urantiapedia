@@ -98,11 +98,13 @@ Lo importante en LU no es tanto el descubrimiento de los valores que podemos lee
 
 > _«Que la paz sea con vosotros. Os alegráis de saber que el Hijo del Hombre ha resucitado de entre los muertos porque sabéis así que vosotros y vuestros hermanos sobreviviréis también a la muerte física. Pero esta supervivencia depende de que hayáis nacido previamente del espíritu{28} que busca la verdad y encuentra a Dios. El pan y el agua de la vida{29} sólo se conceden a los que tienen hambre de la verdad y sed de rectitud —de Dios{30}. El hecho de que los muertos resuciten no es el evangelio del reino. Estas grandes verdades y estos hechos universales están todos relacionados con este evangelio, en el sentido de que son una parte del resultado de creer en la buena nueva, y están contenidos en la experiencia posterior de aquellos que, por la fe, se convierten de hecho y en verdad en los hijos perpetuos del Dios eterno. Mi Padre me envió a este mundo{31} para proclamar a todos los hombres esta salvación de la filiación. Y yo os envío también en todas direcciones{32} para que prediquéis esta salvación de la filiación. La salvación es un don gratuito de Dios, pero aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu{33} en el servicio amoroso a sus semejantes. Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera. Si unos creyentes declarados no producen estos frutos del espíritu divino en sus vidas, están muertos{34}; el Espíritu de la Verdad no está en ellos; son unas ramas inútiles de la vid viviente, y pronto serán cortadas. Mi Padre pide a los hijos de la fe que produzcan muchos frutos del espíritu{35}. Por consiguiente, si no sois fecundos, él cavará alrededor de vuestras raíces y cortará vuestras ramas estériles. A medida que progreséis hacia el cielo en el reino de Dios, deberéis producir cada vez más los frutos del espíritu. Podéis entrar en el reino como un niño{36}, pero el Padre exige que crezcáis{37}, por la gracia, hasta la plena estatura de un adulto espiritual. Cuando salgáis por ahí a contarle a todas las naciones la buena nueva de este evangelio, iré delante de vosotros, y mi Espíritu de la Verdad residirá en vuestro corazón. Mi paz os dejo»{38}._ (<a id="a98_2434"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/068.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Max Masotti
 

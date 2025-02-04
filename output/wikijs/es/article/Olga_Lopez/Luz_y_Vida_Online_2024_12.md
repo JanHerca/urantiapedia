@@ -174,7 +174,7 @@ https://www.youtube.com/watch?v=Z8vz9fNQxbQ
 ## Navegando por la vida: El árbol confundido
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2024_12/CEl-arbol-confundido.jpg" alt="El árbol confundido" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/El-arbol-confundido.jpg" alt="El árbol confundido" width="350">
 </figure>
 
 Había una vez algún lugar, que podría ser cualquier lugar, y en un tiempo, que podría ser cualquier tiempo, un hermoso jardín, con manzanos, naranjos, perales y bellísimos rosales, todos ellos felices y satisfechos.
@@ -225,6 +225,8 @@ Se diferenciaron una serie de conceptos relacionados con la verdad: verdad divin
 
 
 ## Mi párrafo favorito — Jan Herca
+
+<br>
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Mi-parrafo-favorito-Jan-Herca.jpg" alt="Mi párrafo favorito - Jan Herca">

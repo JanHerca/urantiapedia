@@ -117,6 +117,8 @@ Atravesemos la puerta que es _El libro de Urantia_, descubramos con su lectura l
 
 Nadie dijo que la vida fuera fácil, pero aquí estamos, y estamos acompañados por el mejor compañero de viaje. Y es que realmente **nunca estamos solos**.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-5.jpg" alt="Editorial oct 23-5" width="350">
 </figure>

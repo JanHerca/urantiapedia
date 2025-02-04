@@ -26,14 +26,20 @@ dateCreated: 2023-09-28T14:02:03.086Z
   </table>
 </figure>
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/HERODS-PALACE_20160124-34.jpg">
 <figcaption><em>Reconstrucción de los palacios herodianos y asmoneos en Jericó.</em></figcaption>
 </figure>
 
+<br style="clear:both;"/>
+
 La ciudad de Jericó fue entregada por Marco Antonio a Cleopatra como un regalo, pero tras el suicidio de ambos, el rey Herodes recuperó su posesión, entregada por el nuevo emperador Augusto. El rey la usó con profusión como su residencia de invierno, y construyó un hipódromo para entretener a sus huéspedes, varios acueductos para irrigar la zona bajo los acantilados próximos y para dotar de agua a su palacio de invierno. En una piscina de Jericó fue donde Herodes dio orden, al parecer según lo dicho por Flavio Josefo, de asesinar a Aristóbulo III, el hermano de su mujer, durante un banquete organizado por la suegra de Herodes, madre de Aristóbulo.
 
 La población se situaba cerca de la entrada al _Wadi_ Qelt (conocido en aquella época como _nahal_ Perat), donde Herodes construyó una fortaleza llamada Kypros, en honor de su madre. Durante su largo reinado, del 37 al 4 a. C., Herodes se las arregló para construir tres palacios independientes en el mismo sitio, que en última instancia, funcionaban como uno solo. Parece que en los primeros años de Herodes (37-31 a.C.), la familia hasmonea siguió utilizando su palacio en Jericó.
+
+<br>
 
 <figure id="Figure_1b" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/Layout-640x446.jpg">
@@ -53,19 +59,21 @@ Herodes construyó su palacio independiente primero en Jericó (probablemente al
 <img src="/image/article/Jan_Herca/Jericho/21.jpg">
 </figure>
 
-El segundo palacio de Herodes (en torno al 25 a.C.), fue construido como un complejo abierto, expuesto al paisaje de alrededor. Fue construido en la parte superior del complejo hasmoneo en ruinas, tras la destrucción de este último por el terremoto del 31 a.C. El ala principal del palacio (el ala E) fue construido al NE de los palacios gemelos en ruinas. Se estructuró en dos niveles: el superior con piscina y cuartos de servicio se construyó alrededor de un patio peristilado grande, el más bajo incluía la piscina asmonea (20 x 12,5 m), una casa de baños al estilo romano, y cuartos de servicio diferentes.
-
 <br style="clear:both;"/>
 
+El segundo palacio de Herodes (en torno al 25 a.C.), fue construido como un complejo abierto, expuesto al paisaje de alrededor. Fue construido en la parte superior del complejo hasmoneo en ruinas, tras la destrucción de este último por el terremoto del 31 a.C. El ala principal del palacio (el ala E) fue construido al NE de los palacios gemelos en ruinas. Se estructuró en dos niveles: el superior con piscina y cuartos de servicio se construyó alrededor de un patio peristilado grande, el más bajo incluía la piscina asmonea (20 x 12,5 m), una casa de baños al estilo romano, y cuartos de servicio diferentes.
+
 En el ala oeste las dos grandes piscinas hasmoneas se combinaron en una gran piscina (32 x 18 m), rodeada de jardines recién plantados. Otra ala (tal vez una villa) fue construida en la cima de la colina artificial hasmonea, pero ninguna prueba de ello ha sido encontrada. 
+
+<br>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jericho/61.jpg">
 </figure>
 
-El palacio más grande y más sofisticado construido por Herodes en Jericó, el tercer palacio, fue construido alrededor del 15 a. C. en ambos lados de _Wadi_ Qelt, al N del primer palacio y al SE del segundo. Abarcaba alrededor de 3 hectáreas, y fue construido siguiendo un sistema de red paralela a la rambla. Constructores y artesanos romanos colaboraron con los artesanos locales utilizando hormigón romano, que estaba cubierto por piedras pequeñas en _opus reticulatum_ y _quadratum_, junto con ladrillos de barro. 
-
 <br style="clear:both;"/>
+
+El palacio más grande y más sofisticado construido por Herodes en Jericó, el tercer palacio, fue construido alrededor del 15 a. C. en ambos lados de _Wadi_ Qelt, al N del primer palacio y al SE del segundo. Abarcaba alrededor de 3 hectáreas, y fue construido siguiendo un sistema de red paralela a la rambla. Constructores y artesanos romanos colaboraron con los artesanos locales utilizando hormigón romano, que estaba cubierto por piedras pequeñas en _opus reticulatum_ y _quadratum_, junto con ladrillos de barro. 
 
 El ala principal del palacio fue la norte. Se incluían varias salas palaciegas, dos pequeños patios ajardinados peristilados, una casa de baños relativamente grande de estilo romano, y un triclinio enorme. Este triclinio (29 x 19 m) tenía hileras de columnas en tres de sus lados, de forma similar en el plan a la del primer palacio. La mayor parte de su suelo estaba cubierto por un elaborado piso _opus sectile_ (sus teselas fueron saqueadas en la antigüedad). Las paredes, al igual que prácticamente todas las de esta ala, estaban cubiertas con frescos. Esta unidad también incluía dos columnatas grandes, construidas a lo largo de la rambla, frente al jardín hundido. Las paredes de estas columnatas, así como los de otras habitaciones, fueron decoradas con estuco.
 

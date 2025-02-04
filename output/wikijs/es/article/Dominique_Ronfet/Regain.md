@@ -60,7 +60,7 @@ Dominique Ronfet
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

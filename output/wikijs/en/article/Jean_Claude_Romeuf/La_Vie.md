@@ -61,7 +61,7 @@ It delights me to live, despite all that the creatures of the human species must
 
 The insight into the future offered to me in The Urantia Book encourages me each morning to rejoice in the light of day and move forward.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Human life takes three aspects:
 

@@ -66,7 +66,7 @@ Pero también les proporcionaremos una lista de lectores italianos y un foro en 
 
 Y gracias a todos los que hicieron posible este evento. Ah, sí, el agua del lago todavía estaba buena, pero sólo podía meter los pies y los dedos en ella. Iván
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

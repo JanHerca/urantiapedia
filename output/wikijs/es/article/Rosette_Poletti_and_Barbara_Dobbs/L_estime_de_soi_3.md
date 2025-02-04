@@ -139,7 +139,7 @@ Todo comienza con la conciencia y la decisión de cambiar algo, de seguir adelan
 
 Finalmente, desarrollar la autoestima significa reconocer y desarrollar la estima por uno mismo, por su centro, por su alma. Es estar convencido de que independientemente de las circunstancias de nuestro nacimiento, de nuestra infancia y de nuestra vida, somos seres creados a imagen de Dios, únicos e irremplazables y que esto nos permite desarrollar en nuestro interior la certeza de tener valor y ser. digno de amar y ser amado.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Rosette Poletti y Barbara Dobbs
 

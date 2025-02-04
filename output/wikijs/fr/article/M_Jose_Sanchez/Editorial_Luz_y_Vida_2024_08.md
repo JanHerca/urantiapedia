@@ -152,6 +152,8 @@ Quelle magnifique attitude de Jésus face à la vie, quelle signification surpre
 
 > « Vous devriez cesser de craindre que Dieu punisse une nation pour le péché d’un individu. Le Père qui est aux cieux ne punira pas non plus un de ses enfants croyants pour les péchés d’une nation, bien qu’un membre individuel d’une famille doive souvent supporter les conséquences matérielles des fautes familiales et des transgressions collectives. Ne saisissez-vous pas que l’espoir d’une nation meilleure — ou d’un monde meilleur — est lié au progrès et à l’éclairement de l’individu ? » (<a id="a152_494"></a>[LU 145:2.8](/fr/The_Urantia_Book/145#p2_8))
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
 </figure>

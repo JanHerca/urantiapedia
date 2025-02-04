@@ -60,7 +60,7 @@ _She served the foundation as:_
 - The director of the Spanish branch of the _Urantia Book_ Internet School (UBIS).
 - Member of the Foundation’s Translation Committee.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Victor Garcia-Bory
 
@@ -79,7 +79,7 @@ _I am currently :_
 
 - Member of the foundation’s translations committee.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Sherry Cathcart Chavis
 
@@ -97,7 +97,7 @@ _She serves the foundation as:_
 - Member of the fundraising committee
 - Member of the governance committee
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Chris Wood
 

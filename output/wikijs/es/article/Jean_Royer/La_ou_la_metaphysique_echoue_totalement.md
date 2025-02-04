@@ -95,11 +95,13 @@ En conclusión, _comprensión inteligente de los significados cósmicos y de las
 
 Jean-Royer
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

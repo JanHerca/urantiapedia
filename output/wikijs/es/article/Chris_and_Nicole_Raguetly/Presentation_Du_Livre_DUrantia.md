@@ -116,7 +116,7 @@ El Libro de Urantia puede verse como una sinfonía. La introducción nos da los 
 
 El Libro de Urantia puede verse como un libro educativo. Educar proviene del latín “educare”, sacar de. ¿De qué? Fuera de las tradiciones y formas comúnmente aceptadas. Esto no significa el rechazo de todo lo anterior, ni mucho menos. El libro nos dice:
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 > «Ninguna supuesta revelación de la religión puede ser considerada como auténtica si no logra reconocer las exigencias del deber de las obligaciones éticas que han sido creadas y fomentadas por la religión evolutiva anterior. La revelación amplía infaliblemente el horizonte ético de la religión evolutiva, extendiendo simultánea e indefectiblemente las obligaciones morales de todas las revelaciones anteriores.» (<a id="a120_416"></a>[[LU 101:9.1](/es/The_Urantia_Book/101#p9_1))
 

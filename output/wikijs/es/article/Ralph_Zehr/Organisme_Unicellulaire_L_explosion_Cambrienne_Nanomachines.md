@@ -119,7 +119,7 @@ Otro factor inesperado que caracteriza a los organismos representados por la exp
 
 Con el paso del tiempo, el dilema básico al que se enfrenta el darwinismo ha cambiado. Una vez más, Gould resume la situación de manera sucinta: "Darwin ha sido reivindicado por ricos registros precámbricos, todos descubiertos en los últimos treinta años. Sin embargo, el carácter peculiar de esta evidencia no coincide con las predicciones de Darwin de un aumento continuo de la complejidad hacia la vida en el Cámbrico, y el problema de la explosión del Cámbrico sigue siendo tan persistente como siempre, si no más, ya que nuestra confusión ahora se basa en el conocimiento más que en la ignorancia. de la naturaleza de la vida precámbrica. » (12)
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ### ¿Cuáles son los fundamentos de los organismos vivos?
 

@@ -59,7 +59,7 @@ Durante toda su vida se puso a disposición de los demás, practicando asiduamen
 
 _Un sitio dedicado: www.saintejanie.org_
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Leili Anvar 
 

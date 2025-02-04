@@ -50,7 +50,7 @@ His range of possibilities covered many other areas, for us the most interesting
 
 When a friend leaves us, we always tend to make more of them than they really are, but as far as he is concerned, everything mentioned in this tribute is true. See you soon Jean.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/121.jpg">

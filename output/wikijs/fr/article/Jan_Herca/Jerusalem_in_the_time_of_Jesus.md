@@ -42,10 +42,14 @@ La ville actuelle de Jérusalem, bien qu’elle soit l’un des centres touristi
 
 La ville sainte était, comme beaucoup de villes importantes de l'époque, une ville fortifiée. L'ensemble du centre urbain apparaissait entouré d'un mur qui lui donnait un aspect allongé du nord au sud. La partie nord avait deux murs, l'un dans l'autre : le _premier mur nord ou viaduc_, qui, partant de la face ouest du temple, atteignait la façade nord du palais d'Hérode et les reliait tous deux par le passage supérieur du mur ; et l'entourant, et couvrant une large zone au nord, le deuxième mur nord.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/400px-Jerusalem_first_century.jpg">
 <figcaption><em>Reconstruction de Jérusalem au temps de Jésus. A droite, les trois tours d'Hérode ; Au premier plan, le palais d'Hérode. Au fond à gauche, le temple. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalen_siglo_primero.jpg">Wikipédia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Les bâtiments étaient généralement constitués d'un rez-de-chaussée avec un étage supérieur en terrazzo ou un grenier non habitable, ou de deux étages, pour les Juifs les plus riches. Parmi ces demeures, se distinguaient deux bâtiments d'une grandeur spectaculaire, imposants : l'un était la grande enceinte du _temple_ (centre religieux et spirituel) avec la _forteresse Antonia_, et l'autre était le _palais d'Hérode le Grand_ (centre du gouvernement). La ville entière était traversée, du nord au sud, par une dépression ou canal appelé _Vallée de Tyropeon_ (en hébreu _hagai_). Des deux côtés, la population s'est installée sur plusieurs buttes. Les monticules orientaux étaient le mont Moria, au nord-est, sur lequel se trouvait le temple et la forteresse Antonia, et le mont Ophel, à l'extrémité sud-est de la ville, et qui, dans les temps anciens, était l'endroit où se trouvait la cité de David ou Jébus. Le monticule occidental était le mont Sion, sur lequel se trouvait le palais d'Hérode.
 
@@ -71,10 +75,14 @@ Toute l'esplanade intérieure de l'enceinte, qui n'était pas à l'intérieur de
 
 Pour l’entrée du temple, il y avait des portes dans tous les murs. Au sud, les _portes de Hulda_ sont particulièrement célèbres, nommées en l'honneur de la prophétesse biblique, et il y en avait deux : la _Double porte_, à deux ouvertures, utilisée pour sortir, et la _Triple porte_, à trois ouvertures, utilisée pour sortir. entrer. . Ces portes, à travers des passages sous la basilique décorés de dessins géométriques, de rosaces rappelant les chrysanthèmes, renoncules et autres fleurs de la région, et de dessins de vignes et de grappes de raisin, menaient directement à l'esplanade du temple par quelques escaliers. C'étaient les entrées que les pèlerins et les gens ordinaires utilisaient habituellement. A côté de l'entrée des deux portes de Hulda, il y avait des _miqwaoth_ ou bains publics que les pèlerins devaient utiliser pour se purifier.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-Jerusalem_Modell_BW_2.JPG">
 <figcaption><em>Reconstruction du temple au temps de Jésus. On peut voir le portique royal, à gauche, le sanctuaire au milieu, et l'atrium des Gentils et la forteresse Antonia, à droite. </em> <a href="http://es.wikipedia.org/wiki/Archivo:Jerusalem_Modell_BW_2.JPG">Wikipédia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 A l'ouest, nous avons déjà parlé de la _porte voûtée de la Basilique_, par laquelle on accédait directement à l'Atrium Royal (et de cette manière la partie religieuse et civile du temple était séparée par des entrées différentes). Cette arche, qui était à cette époque la plus grande du monde, pour nous donner une idée de son énormité, pesait 1000 tonnes, et au-dessus passait un pont d'environ 15 m de large (comme une autoroute à 4 voies). Sur le mur ouest également, il y avait trois autres entrées en dehors de la porte de la basilique. La plus importante est celle qui accédait à l'atrium ouest directement par le premier mur ou viaduc nord à son point d'union avec le temple, et que, faute d'un autre nom, j'appellerais la _Porte Royale_ (Josèphe l'appelle simplement la « grande porte »). ", et en effet ce devait être le plus grand). Cet accès était celui utilisé par la royauté hérodienne et les riches habitants de la ville haute. Josèphe nous raconte un événement, daté peu avant la mort d'Hérode, qui, selon les experts, fait référence à cette porte. Apparemment, Hérode, pour honorer Rome, fit suspendre un immense aigle royal au montant de cette grande porte, ce qui provoqua l'indignation des pharisiens. Quelques-uns d'entre eux descendirent avec des cordes et détruisirent l'aigle, ce qui leur coûta leur exécution. On accédait également à l'Atrium de Salomon par deux autres entrées, situées à quelques mètres au-dessus du niveau de la rue, et auxquelles on montait par des escaliers fixés aux murs du mur. Ces deux entrées, situées de part et d'autre et à égale distance de la porte royale, monteraient à la Cour des Gentils par des rampes comme le faisaient les portes de Hulda.
 
@@ -92,10 +100,14 @@ Lors des jours de fête du peuple juif, la cour ou Esplanade des Gentils présen
 
 L'enceinte sacrée du _Sanctuaire_ elle-même occupait un nouveau rectangle plus petit à l'intérieur de la cour, quelque peu décalé vers le nord et proche de la forteresse Antonia. Ses mesures étaient d'environ 200 m sur 140 m. Elle était entourée de murs plus bas que ceux de l'enceinte, dotés d'atriums et gardés dans ses angles par des tourelles. La divisant en deux moitiés, un cinquième mur se dressait avec un atrium et une large porte avec une entrée semi-circulaire, la célèbre _porte Nicanor_. L'une des moitiés était ce qu'on appelait le _Patio des femmes_, qui ne pouvaient assister aux services rituels que de loin, et l'autre était le _Patio des prêtres_, destiné aux hommes et au personnel du temple. C'est dans ce dernier que se trouvaient l'_Autel_ et le magnifique _Sanctuaire_, d'une hauteur considérable, environ 60 m, et où les Juifs croyaient que la présence de Dieu se trouvait. C'était le lieu sacré par excellence, et personne, hormis les prêtres, ne pouvait y avoir accès.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/800px-P8170082.JPG">
 <figcaption><em>Reconstruction du sanctuaire du temple au temps de Jésus. Au centre, on peut voir la porte Nicanor, à laquelle on accédait par des escaliers, et qui séparait le patio des femmes de celui des prêtres. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170082.JPG">Wikipédia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Le temple, construit par Hérode le Grand, avait été érigé avec toute la grandeur et le luxe de l'époque. La construction des murs avait été réalisée à l'aide de rangées d'énormes blocs de pierre, soigneusement encadrés et ajustés. A une certaine hauteur dans la rue, un rang de pierres appelé Cours de Maître avait été disposé sur les murs, avec des pierres qui mesuraient jusqu'à 12 mètres de long, 3 mètres de haut et on estime qu'elles avaient 4,5 mètres d'épaisseur, dépassant les cinq cents tonnes. . Les assises situées au-dessus et au-dessous du Master Course n'avaient généralement pas de pierres de taille aussi grandes, avec une hauteur moyenne de 1,2 mètre. L'objectif du Master était de donner une plus grande stabilité au reste des cours. Toutes les pierres de la façade présentaient la décoration classique en coussins hérodien, avec une bordure soulignée sur le bord qui offrirait certainement de curieux effets au soleil. Le même effet devait avoir été produit par les saillies en forme de coupe, qui étaient utilisées pour soulever les pierres avec des grues, et qui étaient normalement enlevées une fois les pierres posées, mais qui dans de nombreux cas avaient été laissées ici. Un autre fait curieux est que chaque assise était déplacée vers l'intérieur d'environ 2,5 cm, soit environ deux doigts, créant un effet pyramidal qui empêchait les murs d'être vus de la rue comme s'ils s'effondraient sur nous.
 
@@ -123,10 +135,14 @@ L'apparence et la disposition de ce bâtiment sont une pure spéculation puisqu'
 
 Autour du château se trouvait un mur de pierre d'un mètre et demi de haut, et après environ dix à quinze mètres de terrain vacant, il y avait un fossé profond d'environ 22 m. Ces douves, asséchées à cette époque, entouraient la résidence du procureur romain sur tout son périmètre, à l'exception de la face sud, qui était accolée au temple. Les fondations de ce bastion étaient un gigantesque rocher, entièrement aplani sur son sommet et ses côtés. Hérode, en prévision d'éventuelles attaques, avait recouvert les côtés d'énormes plaques de fer, de sorte que l'accès à travers celles-ci était impossible. Et sur cette base solide fut bâti le fort, construit avec d'énormes pierres rectangulaires.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/Jerusalem_in_the_time_of_Jesus/448px-P8170045.JPG">
 <figcaption><em>Forteresse Antonia. </em> <a href="http://es.wikipedia.org/wiki/Archivo:P8170045.JPG">Wikipédia</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 Les douves étaient traversées par un pont-levis d'environ 5 m de long basé sur d'épaisses bûches sur lesquelles était posé un épais revêtement métallique. Près des douves et à l'intérieur, attaché au fort, se trouvait ce qu'on appelle le bassin de Strution, un bassin qui collectait l'eau de pluie depuis l'époque des Hasmonéens et qui se trouve actuellement sous un ancien trottoir de l'époque d'Hadrien. . On ne sait pas s’il s’alimentait à partir de sources autres que la pluie, et quels conduits y menaient. Mais ce qui est sûr, c'est qu'elle servait d'approvisionnement en eau aux habitants de la forteresse.
 

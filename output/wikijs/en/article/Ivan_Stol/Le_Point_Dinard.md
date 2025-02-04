@@ -46,7 +46,7 @@ This mysterious and elusive personality, presented by Anne-Marie under the gaze 
 
 The subject is long, the stay seemed short. Especially since, to come back to earth, it was necessary to report on the current affairs of the AFLUB, elect the new representatives of our organization (President: Dominique Ronfet, Vice-president: Ivan Stol and the treasurer: Robert Gallo to name only the main ones); which was followed by a motivating speech from the President of the AUI Mr Gaétan Charland who congratulated us for the organization that our outgoing president has built for us (thank you very much Michel).
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Ivan Stol
 

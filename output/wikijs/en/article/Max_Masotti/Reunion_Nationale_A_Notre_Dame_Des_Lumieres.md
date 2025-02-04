@@ -51,7 +51,7 @@ Best regards to all.
 
 Max.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

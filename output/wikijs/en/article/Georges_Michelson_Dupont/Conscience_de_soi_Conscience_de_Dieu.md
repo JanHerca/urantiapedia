@@ -61,7 +61,7 @@ Devoid of personality, the animal has no free will or self-awareness. It cannot 
 
 The animal mental system is purely reactive. It can be taught through feedback only.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 > “The selective response of an animal is limited to the motor level of behavior. The supposed insight of the higher animals is on a motor level and usually appears only after the experience of motor trial and error. Man is able to exercise scientific, moral, and spiritual insight prior to all exploration or experimentation.” (<a id="a65_329"></a>[[UB 16:7.2](/en/The_Urantia_Book/16#p7_2))
 

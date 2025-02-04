@@ -54,7 +54,7 @@ Es más, algunas personas contactan con nosotros para formar parte de grupos per
 
 Mis amistades y mi pensamiento en particular para aquellos que todavía están un poco aislados.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/018.jpg">

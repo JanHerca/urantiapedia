@@ -30,6 +30,7 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_10/Adan-y-Eva-mi-parrafo-favorito.jpg" alt="Adán y Eva" width="350">

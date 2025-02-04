@@ -85,7 +85,7 @@ Vice President of the Estonian Urantia Association (USA)
 Email: Urantia@urantia.ee
 Phone: +3725200300
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

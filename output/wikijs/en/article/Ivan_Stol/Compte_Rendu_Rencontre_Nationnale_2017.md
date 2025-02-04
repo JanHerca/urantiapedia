@@ -54,7 +54,7 @@ The fact that since that day social and technological evolution has been acceler
 
 It emerges from this study that a person who truly desires to evolve must use as a priority his total intellectual capacities (the seven adjutant spirits-minds) and discernment (personality) in order to access the highest level of perception (cosmic consciousness and super-consciousness). Then the various spiritual aids can effectively add their influences to direct (Angels), actualize (Adjuster) and confirm (Spirit of Truth).
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/109.jpg">

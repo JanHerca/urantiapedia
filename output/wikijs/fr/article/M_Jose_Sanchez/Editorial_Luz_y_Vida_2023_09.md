@@ -117,6 +117,8 @@ Franchissons la porte qu’est _Le Livre d’Urantia_, et découvrons en le lisa
 
 Personne n’a dit que la vie était facile, mais nous y sommes, et nous sommes accompagnés du meilleur compagnon de voyage. Et la vérité c'est que **nous ne sommes jamais seuls**.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Editorial-10-23-5.jpg" alt="Editorial oct 23-5" width="350">
 </figure>

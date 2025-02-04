@@ -30,10 +30,13 @@ dateCreated: 2025-1-31T13:52:37Z
   </table>
 </figure>
 
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Ciudad-Real.jpg" alt="Ciudad Real">
 </figure>
+
+<br style="clear:both;"/>
 
 **Date:** September 7-10, 2023
 **Location:** Hotel Santa Cecilia, C/ Tinte nº 3, Ciudad Real
@@ -48,6 +51,8 @@ After eighteen national meetings of readers in Spain, the time has come to refle
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Presentacion-inicial-Jaime.jpg" alt="Jaime Marco">
 </figure>
+
+<br style="clear:both;"/>
 
 The Meeting officially started with a presentation by the president of the association, Jaime Marco, focused on the theme of the Meeting and what was intended with the scheduled activities. To begin with the series of presentations, and in support of the theme of the meeting, Paco Santos, from Malaga, gave us a presentation on meditation in the Urantian movement and ended with the possible benefits it offers us if we make it a regular practice in our lives.
 
@@ -65,6 +70,8 @@ On Saturday afternoon there were no presentations, but rather it was dedicated t
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Debates-1.jpg" alt="Debates">
 </figure>
 
+<br style="clear:both;"/>
+
 As usual, the nights were dedicated to free debate and conversations among attendees who wanted to continue sharing ideas about the teachings of _The Urantia Book_.
 
 On the last day, Sunday, there was also another session on breathing techniques led by Fernando Carazo. After breakfast, there was a recapitulation session on the Meeting, in which attendees offered various suggestions, such as creating work groups to discuss topics from the book and problems in society, and sharing opinions. Afterwards, after a break so that attendees could check out, the Assembly of members of the Urantia Association of Spain was held, in which the board presented the activities carried out during the last few months and discussed the association's future dissemination projects: a book with “The 100 questions of _The Urantia Book_”, seminars on specific topics to reach consensual conclusions that will then be published on the website, reconnecting with previous attendees at the Meetings, hiring a new Zoom room, etc.
@@ -77,6 +84,7 @@ This has been the first Meeting of Spanish readers since the beginning of the pa
 <img src="/image/article/Luz_y_Vida/LyV_2023_09/Foto-de-grupo-XIX-Encuentro-1.jpg" alt="Foto de grupo">
 </figure>
 
+<br style="clear:both;"/>
 
 ## References
 

@@ -99,10 +99,14 @@ C'est la personnalité qui décide, qui agit, qui acte ; le mental interprète, 
 
 Comme l'univers qui nous entourent, nous réunifions notre personnalité avec son environnement et par là nous agissons de concert avec le Suprême, à notre niveau. Et si tout cela se fait dans la foi en notre Père, nous pouvons avoir confiance en notre destinée. Avec notre pilote spirituel, nous trouverons notre route et réaliserons nos vies. Et nous deviendrons de plus en plus réels, de plus en plus existants.
 
+<br>
+
 <figure id="Figure_7" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/046.jpg">
 <figcaption>Nos idées sont les mèmes</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 
 <figure class="table chapter-navigator">

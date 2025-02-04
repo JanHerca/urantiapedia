@@ -72,11 +72,13 @@ La persona inclinada a la trascendencia se convertirá en un ser espiritual mode
 
 ¡Qué programa! Pero yo tengo la esperanza viva y estoy en movimiento!
 
+<br>
+
 <figure id="Figure_6" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/070.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 Liswen Delval
 

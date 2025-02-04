@@ -67,7 +67,7 @@ What more can we say except that these charming people are potentially capable o
 
 And thank you to everyone who made this event possible. Oh yes, the lake water was still good, but I could only put my feet and fingers in it. Ivan
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 
 

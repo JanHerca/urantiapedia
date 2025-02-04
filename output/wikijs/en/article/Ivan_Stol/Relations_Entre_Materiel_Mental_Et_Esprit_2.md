@@ -58,7 +58,7 @@ If we continue reading, we have the following passage:
 
 This amounts to saying that we remain in the domain of mental-material association as long as we do not elevate ourselves spiritually. And it is the adjutant mental spirits of Adoration and Wisdom which allow this transition from the material mind to the spiritual mind, but how!!!
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Mind and Spirit
 

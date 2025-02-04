@@ -64,7 +64,7 @@ On Saturday morning, it was the General Assembly and the election of the new Pre
 
 In summary, these were three very busy days, with well-detailed subjects, good discussions, with the joy of meeting new readers, and with the feeling of a great spiritual brotherhood which united all these personalities in the service of Revelation.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Le_Lien/images_01/043.jpg">

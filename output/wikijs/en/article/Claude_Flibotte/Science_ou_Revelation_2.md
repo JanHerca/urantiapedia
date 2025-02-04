@@ -56,7 +56,7 @@ My attention was drawn to a file from the journal Science \& Vie from July 2021 
 
 These foreigners, they identify them as being Homo heidelbergensis arriving from Africa, they spread to Europe 800,000 years ago. They would be the ancestors of the Neanderthals. According to his opinion, the French would have 2% in their DNA of genetic sequences of Neanderthal man.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## THE SECOND INFUBENCE
 
@@ -67,7 +67,7 @@ These foreigners, they identify them as being Homo heidelbergensis arriving from
 
 Still according to the author, Homo Sapiens, modern man would have been born in Africa 300,000 years ago. He would have emigrated to Europe 70,000 years ago to finally arrive in France from the Near East 40,000 years ago. They are hunter-gatherers. The DNA of the French would contain on average 10% of sequences of this modern man.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## THE THIRD INFUBENCE
 

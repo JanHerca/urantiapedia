@@ -122,7 +122,7 @@ During the Symposium, we realized how wide the gap was between civilizations on 
 
 In Nigeria, the internet connection is very bad. On the other hand, in Uganda, it exists, but people read little. The book could be placed in libraries and universities.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/199.jpg">
@@ -131,7 +131,7 @@ In Nigeria, the internet connection is very bad. On the other hand, in Uganda, i
 
 **In Asia**, as in Indonesia, the religious culture has many influences (Chinese, Hindu, Buddhist, Christian) and 85% Muslim. Widi's advice was to show the “human Jesus”. The Christian religion being considered a Western religion. The main readers at the moment are Christians. Even if the English language is mandatory, we are eagerly awaiting the Indonesian translation, printed or online. Widi is the translator of the _Urantia Book_ into Indonesian.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/200.jpg">
@@ -140,7 +140,7 @@ In Nigeria, the internet connection is very bad. On the other hand, in Uganda, i
 
 **In the Philippines**, 85% of people are Christian and very religious. The faith is a mix of Spanish Catholicism and American and Asian values. The Asidao are doing a great job of disseminating the live and want to train more students of the book to become study group educators. They have their own method, to be discovered in their presentation.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/201.jpg">
@@ -151,7 +151,7 @@ In Nigeria, the internet connection is very bad. On the other hand, in Uganda, i
 
 They are also learning English. The origin of their religion is Zoroastrianism, but religion is rather personal among the younger generation. The ground is fertile for the teachings of the book, says Mahtab. But the book can only be distributed through the internet.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/202.jpg">
@@ -162,7 +162,7 @@ They are also learning English. The origin of their religion is Zoroastrianism, 
 
 Philosophy is mandatory. 97% of people believe in God. 50% are Christians and 45% Muslims. Lebanon could be the gateway to the Middle East. Mark suggests starting with the Fourth Revelation to reach people. We could distribute the book in French and English to start.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/203.jpg">
@@ -173,7 +173,7 @@ Philosophy is mandatory. 97% of people believe in God. 50% are Christians and 45
 
 People speak and read in English, Hebrew and Russian. The Hebrew translation is underway and eagerly awaited. Gabriel is the translator of the _Urantia Book_ into Hebrew.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_16" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/204.jpg">
@@ -182,7 +182,7 @@ People speak and read in English, Hebrew and Russian. The Hebrew translation is 
 
 **In Canada**, people are very religious, 65% say they have a religion. There is currently a quest for harmony, balance and a search for the purpose of existence. And also a growing interest in philosophy. The book is available. But there seems to be a lack of quality leaders and study groups.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_17" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/205.jpg">
@@ -191,7 +191,7 @@ People speak and read in English, Hebrew and Russian. The Hebrew translation is 
 
 **In Brazil**, the beliefs are spiritualism, reincarnation, superstition and celestial beings. But people, in general, do not read much, they watch television. 65% are Christians, they belong to religious groups. They are difficult says Enrique. The approach would be to train educators, and also to use visual means because the majority of the population does not read.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_18" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/206.jpg">
@@ -200,7 +200,7 @@ People speak and read in English, Hebrew and Russian. The Hebrew translation is 
 
 **In Peru**, 76% are Catholic. The faith is a mixture of the Inca religion and the Catholic faith. The Catholic Church is subsidized by the government. 72 languages or dialects are spoken in Peru, but Spanish is the official language. Dissemination will have to be done by word of mouth in the provinces. There is a lack of commitment, in general, to the book. Peru has little financial means, but there are study groups.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_19" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/207.jpg">
@@ -209,7 +209,7 @@ People speak and read in English, Hebrew and Russian. The Hebrew translation is 
 
 **In Ukraine**, the religion is Catholic Orthodox or Russian Orthodox. 72% of people say they are religious. 97% are Christian. Philosophy is not taught. There is a certain audience looking for meanings. The book is available in esoteric bookstores and on the internet in Russian. There is a lack of leadership for readers.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_20" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_02/208.jpg">

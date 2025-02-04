@@ -144,9 +144,13 @@ Jésus hocha la tête et Thomas dit : « Frères, je ne veux pas prolonger cette
 
 Répondons à l’espoir de tant de générations qui ont lutté et souffert pour parvenir au moment présent : le temps de se développer spirituellement dans cet univers matériel. C'est le moment idéal pour semer.
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2023_08/Editorial-septiembre-2023-5.jpg" alt="Editorial agosto 2024-5" width="350">
 </figure>
+
+<br style="clear:both;"/>
 
 ## Références
 

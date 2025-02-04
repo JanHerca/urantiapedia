@@ -73,11 +73,13 @@ En cualquier caso, Lucifer se instaló en Jerusem mucho antes de que Andón y Fo
 
 Jean-Royer
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/015.jpg">
 </figure>
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

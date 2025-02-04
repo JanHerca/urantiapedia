@@ -55,11 +55,13 @@ Hoy viajo por el mundo, muchas veces acompañada de mi pareja, para encontrarme 
 
 Sigo persiguiendo mi sueño adolescente de hacer del mundo un lugar mejor.
 
+<br>
+
 <figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/049.jpg">
 </figure>
 
-
+<br style="clear:both;"/>
 
 <figure class="table chapter-navigator">
   <table>

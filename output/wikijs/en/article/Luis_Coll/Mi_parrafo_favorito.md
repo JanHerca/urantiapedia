@@ -47,6 +47,8 @@ Many times we are trying to change the world and society, but it is a gigantic t
 
 In his teachings, Jesus focused a lot on the personal and spiritual progress of the individual and taught that “the kingdom of heaven is within you.”
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Mi-parrafo-favorito-L.Coll_.jpg" alt="Mi párrafo favorito - dic 2024" width="350">
 </figure>

@@ -97,7 +97,7 @@ The adventure continues.
 
 Dominique Ronfet
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Study Group called “From Paris” (Bis)
 
@@ -113,7 +113,7 @@ With all my friendship.
 
 Anne-Marie Ronfet
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/106.jpg">
@@ -187,7 +187,7 @@ Good day!
 
 Claude Flibotte.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## The Recloses Study Group
 

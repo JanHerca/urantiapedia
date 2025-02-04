@@ -60,7 +60,7 @@ All her life, she made herself available to others, diligently practicing charit
 
 _A dedicated site: www.saintejanie.org_
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 Leili Anvar
 

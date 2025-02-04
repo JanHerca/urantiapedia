@@ -60,7 +60,7 @@ After having organized two meetings called “Dakar Summit”, in 2018 and 2019,
 
 Thanks to the pandemic and the lockdown in 2020, the Social Group which met every day for three months, with Africans, Europeans, Canadians and other members, expressed the need to receive the teachings of Progressive Divine Wisdom. Which has since started, in the form of a regular zoom session. Below are summarized the highlights of the third activity report of the Dakar GSDP.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## TODAY
 
@@ -76,7 +76,7 @@ The results of the GSDP activities, available in the 2022 activity report, can b
 3. In total, over the past two years, 53 people, men and women, from 16 countries and 3 continents, have received, on a regular basis, teachings of Progressive Divine Wisdom in 2022. Among them, 12 are expected to share this teaching as future educators. Among this number of people who have received training, there are 17 women, and 36 men, i.e. a ratio of 32% women.
 4. The prospects for collaboration with associations invested in promoting the revelations of The Urantia Book are real, as are those concerning more active involvement.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/130.jpg">

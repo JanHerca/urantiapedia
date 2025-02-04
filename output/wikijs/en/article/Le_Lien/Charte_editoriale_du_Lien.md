@@ -59,7 +59,7 @@ _The Link_ is published in European A4 color format, distributed as a PDF file a
 - Studies of topics relating to _The Urantia Book_ sent by readers or archival documents of particular interest.
 - A dialogue in the form of questions from readers on a subject to study. We invite them to choose themes of general interest and send them to us.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 ## Publication dates
 

@@ -55,7 +55,7 @@ Moreover, some people contact us to be part of groups but there are problems of 
 
 My regards and thoughts especially to those who are still a little isolated.
 
-<br style=“clear:both;”/>
+<br style="clear:both;"/>
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/018.jpg">

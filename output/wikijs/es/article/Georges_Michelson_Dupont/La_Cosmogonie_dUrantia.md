@@ -50,7 +50,7 @@ Hace 60 años, en el cuarto trimestre del año de Nuestro Señor 1961, salió de
 
 En esta ocasión, quisiera rendir homenaje a Jacques Weiss quien, gracias a su tenacidad, su inteligencia y su apertura de miras, nos legó la traducción de la revelación. Jacques Weiss murió el 27 de enero de 1987.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Algunas palabras sobre la familia Weiss Weiss.
 

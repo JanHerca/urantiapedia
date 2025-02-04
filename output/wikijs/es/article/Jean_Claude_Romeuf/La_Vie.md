@@ -60,7 +60,7 @@ Es un deleite vivir, a pesar de todo lo que deben soportar las criaturas de la e
 
 La clarividencia del futuro que me ofrece el Libro de Urantia me anima cada mañana a regocijarme ante la luz del día y seguir adelante.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 La Vida del hombre toma tres aspectos:
 

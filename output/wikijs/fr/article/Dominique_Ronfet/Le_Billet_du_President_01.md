@@ -64,6 +64,8 @@ Ils se mirent alors tous les deux à genoux pour essayer de la trouver.
 
 Au plaisir de vous retrouver très bientôt pour une nouvelle « chasse au trésor ».
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_01/061.jpg">
 </figure>

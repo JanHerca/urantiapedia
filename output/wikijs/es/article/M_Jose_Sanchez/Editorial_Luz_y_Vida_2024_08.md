@@ -152,6 +152,8 @@ Jesús muere en la cruz, y lo hace con la serenidad y el amor inaudito de una vi
 
 > ¿No os dais cuenta de que la esperanza de una nación mejor —o de un mundo mejor— está ligada al progreso y al esclarecimiento del _individuo?_» <a id="a152_146"></a>[LU 145:2.8](/es/The_Urantia_Book/145#p2_8)
 
+<br>
+
 <figure id="Figure_5" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Editorial-sep24-3.jpg" alt="Editorial sep 24-3" width="350">
 </figure>

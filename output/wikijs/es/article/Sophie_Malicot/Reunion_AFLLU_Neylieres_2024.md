@@ -56,7 +56,7 @@ Uno de ellos, llamado Jean Pierre Wymann, exhibió una obra notable en tres etap
 
 La segunda presentación fue sobre la oración, habiendo entendido que los Siete Espíritus Ayudantes conducen a la oración y adoración a nuestro Padre Universal. Una vez más sus intercambios fueron intensos.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/173.jpg">
@@ -89,7 +89,7 @@ Me quedo mucho tiempo admirando las estrellas, el cielo y su negro profundo dond
 
 Y allí, en este jardín lleno de luces de la noche, renové mi elección de ciudadanía celestial.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 
 

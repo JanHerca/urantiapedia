@@ -207,6 +207,8 @@ L’enjeu était certainement très fort pour lui. Je jurerais qu’il s’est e
 
 ## Mon paragraphe préféré — Sebastian Nozzi
 
+<br>
+
 <figure id="Figure_11" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Joven-hablando-con-Jesus.jpg" alt="Joven hablando con Jesús">
 </figure>
