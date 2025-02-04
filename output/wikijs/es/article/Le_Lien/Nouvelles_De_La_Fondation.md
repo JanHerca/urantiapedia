@@ -91,7 +91,7 @@ Las ventas de las versiones alemana y polaca no se muestran en esta tabla, pero 
 
 **UBIS — SEPTIEMBRE 2020 — ESTADÍSTICAS**
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | FRANCÉS | Título del corazón: | alistado | ausente | abandono | incompleto | completado | \% completado | \% ocupación | nivel |
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -102,7 +102,7 @@ Las ventas de las versiones alemana y polaca no se muestran en esta tabla, pero 
 
 </div>
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | ESPAÑOL | Título del corazón: | alistado | ausente | abandono | incompleto | completado | \% completado | \% ocupación | nivel |
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -114,7 +114,7 @@ Las ventas de las versiones alemana y polaca no se muestran en esta tabla, pero 
 
 </div>
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | INGLÉS | Título del corazón: | alistado | ausente | abandono | incompleto | completado | \% completado | \% ocupación | nivel |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -129,7 +129,7 @@ Las ventas de las versiones alemana y polaca no se muestran en esta tabla, pero 
 
 </div>
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | PORTUGUÉS | Título del corazón: | alistado | ausente | abandono | incompleto | completado | \% completado | \% ocupación | nivel |
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -143,7 +143,7 @@ Las ventas de las versiones alemana y polaca no se muestran en esta tabla, pero 
 
 ESTADÍSTICAS CONSOLIDADAS DEL TRIMESTRE DE SEPTIEMBRE 2020
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | UBIS SEPTIEMBRE 202 | 17 cursos | alistado | ausente | abandono | incompleto | completado | \% completado | \% ocupación |
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |

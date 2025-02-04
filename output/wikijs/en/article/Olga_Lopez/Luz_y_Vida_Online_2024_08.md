@@ -227,7 +227,7 @@ But, like a sea that is stirred by the arrival of a storm, my mind became confus
 
 [Read more](/en/article/Diego_Betancourt/Mi_parrafo_favorito)
 
-##Urantian Questionnaire — Jaime Marco
+## Urantian Questionnaire — Jaime Marco
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_08/Jaime-Marco.jpg" alt="Jaime Marco" width="250">

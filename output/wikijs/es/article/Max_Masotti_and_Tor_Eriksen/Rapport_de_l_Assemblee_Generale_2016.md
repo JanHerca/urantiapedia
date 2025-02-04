@@ -111,7 +111,7 @@ El sitio web no ha evolucionado mucho pero se mantiene bien en las estadísticas
 
 Nuestra revista se vuelve accesible para todos desde nuestro sitio. Todos los números se han reunido en uno que todavía tiene casi 2.000 páginas.
 
-##INFORME DE NUESTRA SECRETARIA
+## INFORME DE NUESTRA SECRETARIA
 
 **Informe de lectores 2016**
 

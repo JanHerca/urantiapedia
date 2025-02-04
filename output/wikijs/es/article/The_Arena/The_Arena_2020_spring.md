@@ -277,7 +277,7 @@ Barry Culligan, Irlanda
 <img src="/image/article/The_Arena/Stillness-Image-570x186.jpg" alt="Stillness">
 </figure>
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 En medio de la caótica cacofonía de la carne<br>
 se sienta el Silencioso,<br>
 el observador frío,<br>

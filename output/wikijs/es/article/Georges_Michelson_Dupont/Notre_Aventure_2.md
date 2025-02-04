@@ -184,20 +184,20 @@ Se observará que el Espíritu Infinito es llamado el Actor Conjunto en la segun
 
 **Tabla de colores**
 
-- Padre Universal &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«skyblue»/></svg>
-- Hijo Eterno &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«tomate»/></svg>
-- Espíritu infinito \& Actor conjunto &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«amarillo»/></svg>
-- Paraíso &nbsp; <svg ancho=«16» altura=«16»><circle cx=«8» cy=«8» r=«8» fill=«verdeverdeoscuro»/></svg>
-- Deidad Absoluta &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«gris claro»/></svg>
-- Absoluta Universal &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«plata»/></svg>
-- Absoluto No Calificado &nbsp; <svg width=«16» height=«16»><circle cx=«8» cy=«8» r=«8» fill=«grey»/></svg>
+- Padre Universal &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="skyblue"/></svg>
+- Hijo Eterno &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="tomato"/></svg>
+- Espíritu infinito \& Actor conjunto &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="yellow"/></svg>
+- Paraíso &nbsp; <svg ancho="16" altura="16"><circle cx="8" cy="8" r="8" fill="darkolivegreen"/></svg>
+- Deidad Absoluta &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="lightgrey"/></svg>
+- Absoluta Universal &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="silver"/></svg>
+- Absoluto No Calificado &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="grey"/></svg>
 
 Aquí hay sugerencias sobre la naturaleza y el significado de las siete triunidades:
 
 ## Primera Trinidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Primera Triunidad</b>: <img src=«/image/article/Le_Lien/images_02/180.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Primera Triunidad</b>: <img src="/image/article/Le_Lien/images_02/180.jpg" style="float:right;"/>
 
 Triunidad personal-intencional
 
@@ -216,7 +216,7 @@ El plan divino de la ascensión
 > 
 > _*La Primera Triunidad* —*la triunidad personal e intencional*. Es la agrupación de las tres personalidades de la Deidad:_
 > 
-> _*La Primera Triunidad* —*la triunidad personal e intencional*. Es la agrupación de las tres personalidades de la Deidad:_ (<a id="a218_126"></a>[[LU 104:4.3](/es/The_Urantia_Book/104#p4_3))
+> _*La Primera Triunidad* —*la triunidad personal e intencional*. Es la agrupación de las tres personalidades de la Deidad:_ (<a id="a218_126"></a>[LU 104:4.3](/es/The_Urantia_Book/104#p4_3))
 
 **DISCUSIÓN:**
 
@@ -228,8 +228,8 @@ El plan divino de la ascensión
 
 ## Segunda Trinidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Segunda Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/181.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Segunda Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/181.jpg" style="float:right;"/>
 
 Triunidad poder-arquetipo
 
@@ -273,8 +273,8 @@ Volviendo a la analogía con el arquitecto, estas dos triunidades serían las of
 
 ## Tercera Triunidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Tercera Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/182.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Tercera Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/182.jpg" style="float:right;"/>
 
 Triunidad de la evolución del Espíritu
 
@@ -311,8 +311,8 @@ Evolución del espíritu
 
 ## La Cuarta Triunidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Cuarta Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/183.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Cuarta Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/183.jpg" style="float:right;"/>
 
 Triunidad de la infinidad de energía.
 
@@ -348,8 +348,8 @@ Evolución de la energía
 
 ## La Quinta Triunidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Quinta Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/184.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Quinta Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/184.jpg" style="float:right;"/>
 
 Triunidad reactiva del infinito
 
@@ -380,8 +380,8 @@ Infinito responsivo
 
 ## La Sexta Triunidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Sexta Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/185.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Sexta Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/185.jpg" style="float:right;"/>
 
 Triunidad reactiva del infinito
 
@@ -411,8 +411,8 @@ Deidad-en-el-cosmos
 
 ## La Séptima Triunidad
 
-<div style=«borde: 1px sólido; relleno:5px;»>
-<b>Séptima Triunidad:</b>: <img src=«/image/article/Le_Lien/images_02/186.jpg» style=«float:right;»/>
+<div style="border: 1px solid; padding:5px;">
+<b>Séptima Triunidad:</b>: <img src="/image/article/Le_Lien/images_02/186.jpg" style="float:right;"/>
 
 Triunidad de la Unidad Infinita
 

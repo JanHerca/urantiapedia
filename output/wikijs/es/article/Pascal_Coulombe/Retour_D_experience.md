@@ -37,7 +37,7 @@ dateCreated: 2024-11-6T12:40:15Z
 
 Pascal Coulombé
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 Hola a todos,<br>
 <br>
 Tras la convocatoria (Artículos para EL ENLACE) reacciono. Como una especie de 'reflejo', retroalimentación de la experiencia.<br>

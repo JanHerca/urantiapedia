@@ -42,7 +42,7 @@ Dibujos realizados por _Jean Yves Vigneron_ utilizando el software “Paint” d
 <figcaption>Vista Nº 2: Vista N² El Universo Central y Divino-La Isla Central, Havona, los dos cinturones de cuerpos de gravedad oscuros. (Documento 14)</figcaption>
 </figure>
 
-##EL UNIVERSO CENTRAL Y DIVINO
+## EL UNIVERSO CENTRAL Y DIVINO
 
 > EL universo perfecto y divino ocupa el centro de toda la creación; es el núcleo eterno alrededor del cual giran las inmensas creaciones del tiempo y del espacio. El Paraíso es la gigantesca Isla nuclear con estabilidad absoluta que reposa inmóvil en el corazón mismo del magnífico universo eterno. Esta familia planetaria central se llama Havona y se encuentra muy alejada del universo local de Nebadon. Sus dimensiones son enormes, su masa es casi increíble, y está compuesta de mil millones de esferas que poseen una belleza inimaginable y una grandiosidad espléndida, pero la verdadera magnitud de esta inmensa creación sobrepasa realmente el alcance de la comprensión de la mente humana.
 > 

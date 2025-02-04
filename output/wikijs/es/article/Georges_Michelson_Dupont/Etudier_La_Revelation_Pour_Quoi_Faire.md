@@ -159,7 +159,7 @@ Se cierra octubre de 2020
 
 
 
-##Notas
+## Notas
 
 [^1]: El agnosticismo, o pensamiento cuestionador, es una concepción según la cual la mente humana no puede acceder a lo absoluto. Según los agnósticos, es imposible zanjar el debate sobre la existencia de un dios o una deidad. No hay evidencia definitiva sobre el tema y no es posible hacer comentarios. [Wikipedia](https://fr.wikipedia.org/wiki/Coll%C3%A8ge_de_Juilly)
 

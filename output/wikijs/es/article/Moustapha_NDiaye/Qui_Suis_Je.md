@@ -49,9 +49,9 @@ Es una pregunta que puede parecer absurda, y quizás mucha gente vive y muere si
 
 Sin embargo, resurge muy a menudo cuando sentimos que la vida nos abandona.
 
-##II. “¿Quién soy yo? » el enfoque humano
+## II. “¿Quién soy yo? » el enfoque humano
 
-###II. 1 Identificación con cuerpo y mente
+### II. 1 Identificación con cuerpo y mente
 
 Muy a menudo, en la vida diaria, utilizamos el sujeto “yo” para designar o calificar todos nuestros “estados del ser”. Decimos: “estoy enfermo”, “estoy cansado”, “lo entiendo”. Es fácil darse cuenta de que es el cuerpo el que está enfermo, también es el cuerpo el que está cansado, también es fácil darse cuenta de que es la mente la que ha comprendido, y que lo habríamos hecho como podríamos y tal vez deberíamos haberlo hecho. dijo “mi cuerpo está cansado”, “mi cuerpo está enfermo”, “mis pensamientos han entendido”. ¿Qué es entonces este “yo”, distinto del cuerpo y de la mente, pero que no duda en identificarse con ellos, hasta el punto de que a algunos les puede parecer descabellado decir lo que en realidad es más exacto: “mi cuerpo es enfermo” o “mis pensamientos han entendido”. Recordemos también simplemente que muy a menudo los niños, en los que surge la personalidad asertiva, hablan de sí mismos, de su cuerpo, en tercera persona. También podríamos preguntarnos: “¿Qué revela esto sobre la naturaleza de las realidades que constituyen el Ser Humano ya en esta edad? "
 
@@ -73,7 +73,7 @@ Responderla requiere un conocimiento suficiente de los orígenes y el destino qu
 
 El funcionamiento normal de la mente necesita, por tanto, necesariamente de una revelación que permita conectar orígenes y destino en el momento presente, ya sea autorrevelación o revelación de época, validada por la mente y certificada por la experiencia de la criatura.
 
-###II. 2 “Yo Soy” en el hombre y la Conciencia”: Personalidad
+### II. 2 “Yo Soy” en el hombre y la Conciencia”: Personalidad
 
 Por otro lado, el simple hecho de reconocer la realidad de este Yo revela al mismo tiempo la realidad de la Conciencia, como inherente a este Yo, y como medio de percepción de todo aquello con lo que se identifica. , como cuerpo o mente, o que percibe como otra persona. El estado de sueño y de ensueño prueba que esta conciencia no está ni en el cuerpo dormido ni en la mente despierta.
 
@@ -110,7 +110,7 @@ Todo lo dicho hasta ahora concierne a la relación personal de cada uno de nosot
 
 La pregunta natural es ¿cómo ordenar todo esto?
 
-##III. “YO SOY” <br> El Padre Universal
+## III. “YO SOY” <br> El Padre Universal
 
 La caracterización y definición del “Yo Soy” basada en el Padre Universal y las revelaciones presentes es diferente. Esta caracterización del “Yo Soy” es más difícil para nosotros como criaturas, pero sin duda corresponde a una mejor caracterización de la realidad, tal como existe en Dios, en el nivel existencial, mientras que somos seres enteramente experienciales.
 
@@ -124,7 +124,7 @@ Esta caracterización y este enfoque, que trascienden las capacidades y puntos d
 
 Induce una situación nueva, diferente del concepto del Yo Soy existencial y del concepto humano del enfoque Yo Soy. Es «Yo Soy el que Soy» o, en lo que a nosotros respecta, la experiencia del hombre y de la humanidad en Dios y en el Supremo, el Supremo que es la expresión viva de Dios en el Cosmos y el vínculo entre el Padre Universal. , y las criaturas y realidades del Gran Universo.
 
-##IV. “YO SOY EL QUE SOY” El Supremo
+## IV. “YO SOY EL QUE SOY” El Supremo
 
 > “El Padre que está en el cielo había tratado de revelarse a Moisés, pero no pudo ir más allá de decir: “YO SOY”. Cuando se le presionó para que revelara más de Sí mismo, sólo reveló: “YO SOY el que YO SOY”. Pero cuando Jesús completó su vida terrena, el nombre del Padre fue revelado de tal manera que el Maestro, que era el Padre encarnado, pudo decir con razón: Yo soy el pan de vida.
 

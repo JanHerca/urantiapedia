@@ -58,7 +58,7 @@ Hace aproximadamente 1000000000 de años, habiendo casi alcanzado su tamaño act
 
 **Escala de tiempo geológico**
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | Eón | Época | Periodo | Época | Fecha aproximada de inicio | Relación de fecha <br>radiométrica a <br>real* |
 | :---: | :---: | :---: | :---: | ---: | :---: |
@@ -112,7 +112,7 @@ Como resultado de la aclaración que hace el Libro de Urantia de las fechas abso
 
 
 
-##Notas
+## Notas
 
 [^1]: El eón es el intervalo de tiempo geocronológico correspondiente a la subdivisión cronoestratigráfica más grande de la escala de tiempo geológico, el eonotema.
 

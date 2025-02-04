@@ -51,7 +51,7 @@ En su libro Todo lo que no interesaba a Freud, el ensayista y médico Philippe P
 
 El famoso pediatra inglés Winnicott habla de “simplemente ser”. Un matiz de traducción importante para introducir la dinámica de lo que está sucediendo. No es un estado estático. Además, a menudo, durante los protocolos de meditación, se invoca esta imagen del niño pequeño que “es”. Muy simple. Y nuestra intención en la meditación se convierte en la de redescubrir este estado perdido de simplemente ser, de plena conciencia de ser.
 
-##Conciencia, la experiencia óptima de uno mismo
+## Conciencia, la experiencia óptima de uno mismo
 
 Otra posibilidad, otro ángulo de aproximación. La conciencia puede entenderse como ese momento privilegiado, buscado, intenso, en el que sentimos profundamente que estamos, que existimos. La noción de “experiencia óptima”, introducida por Mihaly Csikszentmihalyi, pone de relieve esta extrema concentración en el sentimiento. Un sentimiento que excluye todas las demás percepciones. Centrada en la autopercepción, la autoconciencia alcanza su máximo: necesariamente efímera pero como una experiencia que nos invita a renovar esta sensación única de sentirnos intensamente existentes, de sentirnos intensamente presentes, ante uno mismo y ante el entorno. Sin dejar de ser plenamente conscientes del estado en el que nos encontramos. Con la densa alegría de este estado. Una alegría en uno mismo a la que luego estamos plenamente conectados.
 

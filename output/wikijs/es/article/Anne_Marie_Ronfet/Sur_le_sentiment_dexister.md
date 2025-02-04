@@ -82,7 +82,7 @@ Por otro lado, estos valores son parte del surgimiento del Supremo. Los valores 
 
 “Ser real”, tener el sentimiento profundo de existir, se logra, por tanto, profundizando y dando valor a nuestras experiencias o a las de los demás....
 
-##II. Comparte para crecer
+## II. Comparte para crecer
 
 Si volvemos a los ejemplos desafortunados de las personas citadas anteriormente y que no son raros, encontramos en cada caso una gran soledad.
 

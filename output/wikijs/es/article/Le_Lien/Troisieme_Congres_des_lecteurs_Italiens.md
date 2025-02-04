@@ -91,7 +91,7 @@ Será una gran alegría ver a muchos de vosotros, encontrar a participantes de l
 
 Tu devota Danielle La Scala
 
-##Rímini
+## Rímini
 
 Rímini es anterior a Roma en varios siglos y sus orígenes se pierden en el pasado antiguo. Por eso se la considera una ciudad prehistórica.
 

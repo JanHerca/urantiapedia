@@ -81,7 +81,7 @@ Si volvemos por un momento a la afirmación de que el libro nos fue entregado un
 
 Otro hecho que corrobora esta afirmación, y que a muchos nos hace reflexionar, es que el libro durante los primeros cien años fue confiado a los «ángeles de las iglesias», y después de este período los «ángeles del progreso» se harían cargo de la secuela. . Los ángeles de las iglesias: «...se esfuerzan por mantener los ideales de lo que ha sobrevivido, a fin de asegurar el tránsito seguro de los valores morales entre dos épocas...», mientras que los ángeles del progreso "...han la tarea de inaugurar el progreso evolutivo de las sucesivas edades sociales. » (<a id="a81_564"></a>[LU 114:6.6](/es/The_Urantia_Book/114#p6_6)-7)
 
-##UNA NUEVA DERRAMACIÓN
+## UNA NUEVA DERRAMACIÓN
 
 Hay varios lugares en el libro que llaman la atención sobre una nueva efusión. Se dice de los Hijos Docentes de la Trinidad: “...Pero los Hijos Docentes están incluso ahora visitando vuestro mundo con miras a hacer planes para su estancia prevista en vuestra esfera. Estarán listos para aparecer en Urantia cuando sus habitantes se hayan liberado lo suficiente de los grilletes de la animalidad y las cadenas del materialismo. » (<a id="a85_430"></a>[LU 20:9.1](/es/The_Urantia_Book/20#p9_1)) Recuerda la declaración de los intermedios: “...los peores tiempos de la era materialista ya pasaron. » (<a id="a85_578"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4))
 
@@ -109,7 +109,7 @@ Micaël en la tierra... » (<a id="a107_26"></a>[LU 170:5.19](/es/The_Urantia_Bo
 
 ¡Esta es una predicción fantástica! ¡Rectifica la obra de los discípulos originales de Jesús! No la leas superficialmente. Date cuenta de lo que esto puede significar especialmente para las iglesias ortodoxas. ¿Y qué significa esto para nosotros? Si tal revolución espiritual se lleva a cabo, ¿estamos listos para convertirnos en guías para aquellos que están confundidos? ¡Este evento no está lejos de nosotros! (NDT: no muy lejos de nosotros)
 
-##ESTUDIA SIN PREJUICIOS
+## ESTUDIA SIN PREJUICIOS
 
 Por ahora, hemos discutido las referencias que hace nuestro libro a eventos futuros; los estudiantes perceptivos pueden encontrar más. Estudiemos sin prejuicios. Todos somos algo parciales, porque no estamos acostumbrados ni preparados para acontecimientos repentinos. «Cuando las condiciones físicas están maduras, pueden tener lugar evoluciones mentales repentinas. Cuando el estado de la mente es propicio, pueden ocurrir transformaciones espirituales repentinas...» (740.2) Para nosotros, personalmente, la mayor transformación sigue siendo la comunión creciente e instructiva con el Padre dentro de nosotros, y también cuando dirigimos nuestros pensamientos hacia estos temas. Esto evitará acciones humanas inapropiadas. Recuerda que nuestra acción más importante es buscar y descubrir la voluntad del Padre. la realización de valores.
 

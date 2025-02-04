@@ -133,7 +133,7 @@ Los cristianos tal vez se escandalicen por el rechazo de tal o cual dogma. Que d
 
 Ahora les leeré, al menos en parte, lo que Chris Ragetly escribió a modo de introducción, lo escucharán teniendo en cuenta algunas de las restricciones que he introducido en sus cerebros.
 
-##II. El libro de Urantia
+## II. El libro de Urantia
 
 Primero me gustaría citar a T. Burnet, un autor del siglo XVII (1692 d.C.). Aquí hay un párrafo de su libro “Archaeologica Philosophica”.
 
@@ -184,7 +184,7 @@ Es poco probable que una persona pueda leer y meditar sobre la vida de Jesús si
 
 No tengas miedo de abrazar El Libro de Urantia, porque hoy crees que no estás tan preparado como crees que lo estarás algún día. _El Libro de Urantia_ te convertirá en un hombre o una mujer mucho mejor, un mejor compañero, un mejor amigo, un marido, una esposa, un padre, un hijo o una hija. ¡Pero sí, él hará todo eso! Encontrarás las respuestas allí. Demostrarán superar con creces su imaginación más fértil. [^1]
 
-##III. La quinta revelación
+## III. La quinta revelación
 
 Examinaremos ahora algunas particularidades del libro que deberían animar a cualquier persona curiosa y a cualquier buscador de la verdad a leerlo.
 
@@ -249,7 +249,7 @@ Podemos, dentro de cada nivel, utilizar los principios de la lógica tradicional
 
 Merece ser leído un libro que, sin negar nada de la lógica clásica, es capaz de ir más allá.
 
-###II. LA PRIMERA PARTE
+### II. LA PRIMERA PARTE
 
 El Libro de Urantia es en cierto modo un anti-Theilhard de Chardin. Déjame explicarte. Theilhard parte de sus estudios de paleontología, desde la base terrestre, para llegar hasta el Cristo cósmico, hasta la Omega. _El Libro de Urantia_ parte de Dios Padre y desciende desde el Paraíso hasta nuestro planeta a través del universo central, los superuniversos y los universos locales. Termina con una versión renovada de la cuarta revelación, la de Jesús de Nazaret, versión iluminada por el conocimiento de todo lo que precede.
 
@@ -274,7 +274,7 @@ Todos los filósofos de la antigüedad eran muy conscientes de la existencia de 
 - El universo central
 
 
-###III. LA SEGUNDA PARTE
+### III. LA SEGUNDA PARTE
 
 La segunda parte está dedicada al Universo local.
 
@@ -295,7 +295,7 @@ El capítulo final ofrece una visión global de la unidad universal, la unidad f
 - La rebelión de Lucifer
 
 
-###IV. LA TERCERA PARTE
+### IV. LA TERCERA PARTE
 
 La tercera parte se llama Historia de Urantia (así se llama nuestro planeta).
 
@@ -402,6 +402,6 @@ Le agradezco su atención y responderé a sus preguntas lo mejor que pueda.
 
 
 
-##Notas
+## Notas
 
 [^1]: He tomado y traducido con algunas libertades algunas citas de la introducción al “Concordex” de Clyde Bedell, en particular, el texto de T. Burnet en su “ARCHAEOLOGICA PHILOSOPHICA” (CMR)

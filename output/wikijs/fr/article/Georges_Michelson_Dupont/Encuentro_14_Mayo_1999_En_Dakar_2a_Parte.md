@@ -222,7 +222,7 @@ La plus grande caractéristique de la tutelle est qu’elle s’exerce dans l’
 
 Pour l’homme, Dieu a accompli le service tutélaire le plus extraordinaire de par son extension, sa durée et sa finalité. N'est-ce pas, en somme, pour le former à assumer de semblables hautes responsabilités, des missions de confiance analogues, dans les univers en formation de l'espace ?
 
-###Participants :
+### Participants :
 
 <ins>Richard</ins> : À l'instar de Jésus, nous manifestons les fruits de l'Esprit partout où les circonstances nous conduisent. Nous sommes tous invités à vivre une vie commune difficile et stimulante. Quelqu'un m'a demandé un jour, voyant mon enthousiasme à vivre avec Dieu :
 

@@ -36,7 +36,7 @@ dateCreated: 2024-11-3T19:50:31Z
 
 Dominique Ronfet
 
-<p style="text-align=center;">
+<p style="text-align:center;">
 Parfois, ta main dressée vers le ciel<br>
 redescend une flamme.<br>
 Happée tel un butin.<br>
@@ -72,7 +72,7 @@ Toi qui sais guider des corps errants connais-tu la réponse ?»<br>
 — « Veux-tu agrandir ta maison ou alimenter son foyer ?»<br>
 Lui répondit laconiquement le berger.<br>
 <br>
-#Auprès du meunier ensuite :<br>
+Auprès du meunier ensuite :<br>
 — « Quel pain me rassasiera ? »<br>
 <br>
 — « Le pain de vie ne stoppera pas ta faim.<br>

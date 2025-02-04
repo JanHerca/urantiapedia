@@ -37,7 +37,7 @@ dateCreated: 2024-11-3T19:50:31Z
 
 Dominique Ronfet
 
-<p estilo=«text-align=centro;»>
+<p style="text-align: center;">
 A veces tu mano se levanta hacia el cielo<br>
 una llama desciende.<br>
 Agarrado como botín.<br>
@@ -73,7 +73,7 @@ Tú que sabes guiar los cuerpos errantes, ¿sabes la respuesta?»<br>
 — “¿Quieres agrandar tu casa o alimentar tu chimenea?”<br>
 respondió lacónicamente el pastor.<br>
 <br>
-#Junto al molinero:<br>
+Junto al molinero:<br>
 — “¿Qué pan me saciará?” »<br>
 <br>
 — “El pan de vida no calmará tu hambre.<br>

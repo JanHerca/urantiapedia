@@ -57,7 +57,7 @@ _¿Creo que Dios es infinitamente bueno?_
 
 Si es así, entonces estoy seguro de que la muerte es sólo el comienzo de una carrera de toda una vida de emocionantes aventuras y maravillas sin fin. En efecto, estos impulsos naturales que Dios ha puesto en mí y que llamamos el atractivo de la aventura, la sed de descubrimiento, el sueño innato de viajar, la sed de belleza, de amor y de verdad, todas estas aspiraciones no han sido dadas innecesariamente. ¡Estas mayores esperanzas están destinadas a realizarse plenamente en los largos siglos venideros, porque Dios no puede engañarme! ¡Por eso no tengo miedo de morir!
 
-##Muerte, esta gran partida...
+## Muerte, esta gran partida...
 
 Se han reunido los familiares y amigos del que se va a ir. Todos hablan libremente entre ellos. Qué maravillosa oportunidad para que los mortales de verdadera fe se reúnan de esta manera para presenciar la ascensión de su amado.
 

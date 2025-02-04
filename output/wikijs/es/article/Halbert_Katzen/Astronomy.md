@@ -492,7 +492,7 @@ En física y [relatividad](https://en.wikipedia.org/wiki/Theory_of_relativity), 
 
 Después de compensar los retrasos variables de la señal debidos a la distancia cambiante entre un observador y un reloj en movimiento (es decir, [efecto Doppler](https://en.wikipedia.org/wiki/Doppler_effect)), el observador medirá el reloj en movimiento como si hiciera tictac más lento que un reloj que está en reposo en el propio marco de referencia del observador. Además, un reloj que está cerca de un cuerpo masivo (y que, por lo tanto, tiene un potencial gravitatorio menor) registrará menos tiempo transcurrido que un reloj situado más lejos de dicho cuerpo masivo (y que tiene un potencial gravitatorio mayor).
 
-Estas predicciones de la [teoría de la relatividad](https://en.wikipedia.org/wiki/Theory_of_relativity) han sido confirmadas repetidamente por experimentos y son de importancia práctica, por ejemplo, en el funcionamiento de sistemas de navegación por satélite como GPS y [Galileo](https://en.wikipedia.org/wiki/Galileo_\(navegación_por_satélite\)).<sup><a href=«https://en.wikipedia.org/wiki/Time_dilation#cite_note-Ashby-1»>[1]</a></sup> La dilatación del tiempo también ha sido tema de obras de ciencia ficción.
+Estas predicciones de la [teoría de la relatividad](https://en.wikipedia.org/wiki/Theory_of_relativity) han sido confirmadas repetidamente por experimentos y son de importancia práctica, por ejemplo, en el funcionamiento de sistemas de navegación por satélite como GPS y [Galileo](https://en.wikipedia.org/wiki/Galileo_\(navegación_por_satélite\)).<sup><a href="https://en.wikipedia.org/wiki/Time_dilation#cite_note-Ashby-1">[1]</a></sup> La dilatación del tiempo también ha sido tema de obras de ciencia ficción.
 
 ## Ayudas visuales y discusión
 

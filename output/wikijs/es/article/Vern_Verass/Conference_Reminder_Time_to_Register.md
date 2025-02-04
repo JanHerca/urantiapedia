@@ -68,7 +68,7 @@ Para obtener más información y detalles de registro, puede:
 - Envíe un correo electrónico a Kathleen a [kathleen@theswadlings.com.au](mailto:kathleen@theswadlings.com.au), teléfono: 0417 706 692 o
 - Haga clic en este [Folleto de la conferencia](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf)
 
-<a href=«http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf»>
+<a href="http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf">
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/Screenshot-front-brochure-279x570.jpg" alt="Screenshot">
 </figure>

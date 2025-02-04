@@ -1200,7 +1200,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Sec. 1. Las últimas palabras de consuelo. [Jn 16:29-33](/es/Bible/John/16#v29).
 	- Sec. 2. Las admoniciones personales de despedida. No están en el Nuevo Testamento, excepto la predicción de la negación de Pedro tal como sigue: [Mt 26:31-35](/es/Bible/Matthew/26#v31). [Mc 14:27-31](/es/Bible/Mark/14#v27). [Lc 22:31-34](/es/Bible/Luke/22#v31). [Jn 13:36-38](/es/Bible/John/13#v36).
 
-###XIII. LA TRAICIÓN Y LOS JUICIOS
+### XIII. LA TRAICIÓN Y LOS JUICIOS
 
 - **DOCUMENTO 182**. **En Getsemaní**.
 	- Intro. No está en el Nuevo Testamento.

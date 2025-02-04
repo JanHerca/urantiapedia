@@ -60,7 +60,7 @@ Thierry Lepage y Georges trabajarán juntos durante algún tiempo en la configur
 
 También se discutió la importancia de las traducciones del inglés al francés.
 
-##RENOVACIÓN DE LA ASOCIACIÓN
+## RENOVACIÓN DE LA ASOCIACIÓN
 
 Como todos vemos, esta renovación no se está produciendo. Sin embargo, se venden entre 850 y 900 libros al año en francés.
 Han surgido varias interpretaciones:

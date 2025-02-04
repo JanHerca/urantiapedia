@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=dX-eh5jHgrs
 
 The buffet meals were delicious and varied for all tastes. Our evenings were pleasantly enriched by these 2 talented artists of international renown: **Rebecca Oswald**, who has become my new friend and spiritual sister, and **Bob Solone** who played a special request from Robert Cadieux “Smile”. I knew this song, but I didn't know it was by Charlie Chaplin.
 
-<a href=“https://bit.ly/3MqJWVI”>
+<a href="https://bit.ly/3MqJWVI">
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2024_05/021.jpg">
 </figure>

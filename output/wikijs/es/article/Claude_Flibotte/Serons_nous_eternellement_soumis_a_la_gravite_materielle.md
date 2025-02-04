@@ -47,7 +47,7 @@ En el universo de universos existen cuatro categorías principales de gravedad, 
 
 Como seres humanos, somos materiales y estamos totalmente sujetos a la gravedad en todas sus formas. Nuestro cuerpo está ponderado por la gravedad lineal centrada en nuestro planeta. Nuestra mente está controlada por la gravedad mental de Fuente-Centro-Tercero (<a id="a47_262"></a>[LU 9:6.1](/es/The_Urantia_Book/9#p6_1)), y desde que nuestra Divina Ministra adquirió su estatus personal, ella ejerce este control de gravedad (<a id="a47_408"></a>[LU 34:2.2](/es/The_Urantia_Book/34#p2_2)). La gravedad del espíritu con sus valores fundamentales es por el Hijo Eterno (<a id="a47_530"></a>[LU 115:6.1](/es/The_Urantia_Book/115#p6_1)) y por el Espíritu de Verdad del Hijo Creador. Finalmente, nuestra personalidad, don del Padre Universal, busca regresar a su origen unificando todas sus partes para volverse similar al Padre (<a id="a47_767"></a>[LU 0:5.11](/es/The_Urantia_Book/0#p5_11)).
 
-##EL OTRO LADO DEL ESPEJO
+## EL OTRO LADO DEL ESPEJO
 
 En la tierra, estamos equipados con una mente material temporal (<a id="a51_65"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5)). En los mundos morontiales tendremos una mente morontial (12:8:7, 16:4.5). Después de un considerable tiempo de entrenamiento, llegaremos a la etapa espiritual en Salvavington (<a id="a51_287"></a>[LU 48:1.5](/es/The_Urantia_Book/48#p1_5)). Luego en Havona y finalmente en la Isla del Paraíso seremos experiencialmente espíritus perfectos de la sexta etapa concerniente a la divinidad de la voluntad, la perfección motivacional de la personalidad y la conciencia de Dios (<a id="a51_562"></a>[LU 1:0.5](/es/The_Urantia_Book/1#p0_5)). Pero, ¿nos liberaremos de la gravedad material para movernos de forma autónoma?
 

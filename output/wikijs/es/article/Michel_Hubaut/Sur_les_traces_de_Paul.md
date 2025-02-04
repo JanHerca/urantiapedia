@@ -93,7 +93,7 @@ Este privilegio incluye también deberes: la obligación de pagar impuestos, el 
 
 Los fariseos estaban convencidos del universalismo de la salvación anunciada por los profetas. Tenían una gran sutileza de espíritu y habían constituido una tradición casuística, una ley oral que acabó gobernando las conciencias con tanta fuerza como la Torá escrita de Moisés. Aunque eran pocos (alrededor de 6.000), eran sin embargo el elemento más activo e influyente de la sociedad judía.
 
-##Saúl, dotado de idiomas
+## Saúl, dotado de idiomas
 
 Saúl ciertamente estudió mucho. Al crecer y recibir su educación temprana en su familia de Tarso, su infancia, como la de todo niño judío, estuvo marcada por el estudio de la Biblia hebrea en la que aprendió a leer.
 

@@ -200,7 +200,7 @@ You will learn that you increase your burden and reduce your chances of success 
 
 [Read more](/en/article/Raul_Framinan/Mi_parrafo_favorito)
 
-##Urantian questionnaire — Mariano Pérez
+## Urantian questionnaire — Mariano Pérez
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Mariano-Perez.jpg" alt="Mariano Pérez" width="250">

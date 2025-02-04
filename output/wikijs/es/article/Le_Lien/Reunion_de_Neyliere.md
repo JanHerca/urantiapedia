@@ -84,7 +84,7 @@ Urantia se ha desviado tanto del plan divino tras el defecto del Príncipe Plane
 <img src="/image/article/Le_Lien/images_02/003.jpg">
 </figure>
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | Edad | Mundo normal | Urantia |
 | :---: | :---: | :---: |

@@ -81,7 +81,7 @@ Puedes darte cuenta de que esta nueva traducción del texto difiere de la actual
 
 ¿Te parece hermético este texto? Veréis que un análisis sencillo, con un poco de lógica, os revelará las escenas subyacentes, y se revelará claramente el panorama de los primeros momentos de supervivencia actualmente en Urantia. No te preocupes, el análisis está al alcance de todos.
 
-##II. LA LEY DE SUPERVIVENCIA ACTUALMENTE APLICADA A URANTIA
+## II. LA LEY DE SUPERVIVENCIA ACTUALMENTE APLICADA A URANTIA
 
 El análisis de este texto revela varias posibilidades de supervivencia. Notarás que contiene dos oraciones bellamente separadas para resaltar la información, los Reveladores son expertos en comunicación, diríamos hoy. Saben manejar la estilística y la puntuación. Comencemos nuestro análisis con la primera frase: “Cuando los mortales más avanzados espiritual y cósmicamente mueren, inmediatamente van a los mundos de estancia; En general, este dispositivo funciona con aquellos a quienes se les ha asignado un tutor seráfico personal. Está claro, no hay nada que explicar. La supervivencia es inmediata (en un plazo de tres días), este es el primer caso posible de supervivencia. Y corresponde a la ley general de supervivencia en todo Nebadón, pero está dirigida a <ins>humanos muy evolucionados espiritual y cósmicamente</ins>. Pienso, entre otros, en la Madre Teresa, el Abbé Pierre o la Hermana Emmanuelle, que han producido muchos frutos del espíritu (%%0%), de los cuales el servicio a los pobres es un ejemplo. Es más, el siguiente texto lo confirma: _Durante las primeras edades de un mundo evolutivo, <ins>raros son los humanos que van a juicio al tercer día</ins>. A medida que pasan las edades, se asignan cada vez más guardianes personales del destino a los mortales que avanzan; Por lo tanto, un número cada vez mayor de criaturas evolutivas se repersonalizan en el mundo de la primera casa al tercer día después de su muerte natural. En estas ocasiones, el regreso del Ajustador es la señal para el despertar del alma humana, y es la repersonalización de los muertos, tan literalmente como en el momento del llamamiento masivo al final de una dispensación en los mundos evolutivos_ (. <a id="a85_1700"></a>[LU 49:6.9](/es/The_Urantia_Book/49#p6_9)). Todavía estamos en las edades tempranas, lejos de las edades de la luz y la vida donde los humanos viven hasta quinientos años, ¿verdad?
 
@@ -171,7 +171,7 @@ También notamos que los Reveladores distinguen claramente entre “cuerpos tran
 
 ¡Pasemos a escritos fuera del _Libro de Urantia_!
 
-##III. ESCRITOS FUERA DEL LIBRO DE URANTIA
+## III. ESCRITOS FUERA DEL LIBRO DE URANTIA
 
 ### Primero escrito
 
@@ -213,7 +213,7 @@ Sabes que se crea una sombra si la luz proviene de una única fuente de luz. Sin
 
 Si les cité este último escrito es para revelarles, por parte del _Libro de Urantia_, una cierta manera de encontrar correspondencias en la literatura externa: hay verdad en otras partes, nos toca a nosotros descubrirla y resaltarla. él.
 
-##IV. CONCLUSIÓN.
+## IV. CONCLUSIÓN.
 
 Esta conclusión fue escrita por nuestro grupo de trabajo que ha estado estudiando el Libro en los campos filosófico, científico y religioso durante unos cuarenta años.
 

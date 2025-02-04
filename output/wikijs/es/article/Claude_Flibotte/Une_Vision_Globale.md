@@ -197,6 +197,6 @@ Sainte-Julie — Quebec
 
 
 
-##Notas
+## Notas
 
 [^1]: ENERGÍA se utiliza como un término que lo abarca todo y se aplica a los reinos espiritual, mental y material. La palabra fuerza generalmente se usa de la misma manera. El uso de la palabra potencia suele utilizarse únicamente para designar el nivel electrónico de la materia, la materia del gran universo que responde a la gravedad lineal. El poder también se utiliza para referirse a la soberanía. No podemos ajustarnos a sus definiciones generalmente aceptadas de fuerza, energía y potencia. Su lenguaje es tan pobre que debemos asignar múltiples significados a estos términos. (<a id="a201_587"></a>[LU 0:6.2](/es/The_Urantia_Book/0#p6_2))

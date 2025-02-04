@@ -108,7 +108,7 @@ El ciclo de “pregunta-respuesta-compartir” es muy eficaz. La primera semana 
 
 La fase que luego se abre nos permite apreciar las respuestas de los demás participantes, compartir sus experiencias de las enseñanzas y descubrir otras sensibilidades espirituales en una atmósfera de gran fraternidad de comunión del alma basada en el deseo de hacer el bien al otro. Esto resulta en estimulación espiritual y una mayor apreciación de nuestras responsabilidades hacia nuestro Padre Universal, pero no solo.
 
-##FORMACIÓN DE MONITORES-FACILITADORES.
+## FORMACIÓN DE MONITORES-FACILITADORES.
 
 Los instructores-profesores son antiguos alumnos que desean involucrarse en esta aventura de servicio y adherirse a la pedagogía de la escuela.
 

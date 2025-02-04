@@ -71,7 +71,7 @@ Luego, fuimos a la región de Bicol para conocer a un par de lectores con cierta
 
 Nos quedamos en Naga City por un día para descansar, luego nos tomó 12 horas de transporte llegar a Quezon City. Desde la estación de autobuses cogimos un taxi a casa a última hora de la tarde.
 
-##PROCESO DOCENTE, CONSULTA, RECLUTAMIENTO, SEGUIMIENTO Y AMPLIACIÓN
+## PROCESO DOCENTE, CONSULTA, RECLUTAMIENTO, SEGUIMIENTO Y AMPLIACIÓN
 
 Después de regresar a nuestra base en Metro Manila y después de unos días de descanso pudimos encontrarnos con gente que no veíamos desde hacía casi tres años. También intentamos iniciar un diálogo con personas que necesitaban aclaraciones sobre el estado del movimiento Urantia en Filipinas.
 

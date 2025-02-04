@@ -137,7 +137,7 @@ Finalmente, quiero rendir homenaje a los autores de los 196 fascículos del _Lib
 
 
 
-##Notas
+## Notas
 
 [^1]: Vivir en espíritu significa trascender el tiempo y el espacio al considerarse mentalmente presente en un lugar sin la obligación de estar físicamente presente allí.
 

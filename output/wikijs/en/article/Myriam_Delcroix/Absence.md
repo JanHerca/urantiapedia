@@ -33,7 +33,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-<p style=“text-align:center”>
+<p style="text-align:center">
 A star passes and goes out in the cold silence,</p>
 Near the old oak, I watch for your absence,</p>
 and your words and your laughter are already slowly fading away.</p>

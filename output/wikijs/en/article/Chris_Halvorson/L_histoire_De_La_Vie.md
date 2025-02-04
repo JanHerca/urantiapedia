@@ -54,11 +54,11 @@ The Master Physical Controllers, especially the energy transformers (29:4.1518),
 The sun was born 6 billion years ago, and by 5 billion years ago it was an isolated variable star with a period of three and a half days. Over the course of a million years, beginning at 4.5 billion years ago, the Angona system passed close to the sun and initiated the formation of the solar system. This event marks the beginning of the Azoic Era. By about 3.0 billion years ago, the embryonic stage of development was complete; the solar system was thus recorded and given the name Monmatia, marking the beginning of the Middle Azoic. Monmatia literally means “the place where the mother of man is,” which correlates with the name Urantia, “(y)our heavenly place.” Over the next 1.5 billion years, meteors rained down on the earth and moon. The transition from the meteoric age to the volcanic age occurred 1.5 billion years ago, when the Earth was two-thirds of its present size and the Moon was nearly complete. This is the beginning of the Late Azoic.
 
 About 100,000,000,000 years ago, having nearly attained its present size, the earth “was placed upon the physical records of Nebadon and given its name.” This is the literal beginning of Urantia history, the beginning of the Archaeozoic era. About 95,000,000,000 years ago, “Urantia was assigned to the Satania system of planetary administration and was placed upon the Norlatiadek life register.” This life record marks the initiation of the building of the material organizations for life by the Master Physical Controllers, specifically, the primary associators (29:4.25-27), who were the first beings to arrive on the planet. The ancient life on the planet was prokaryotic. Prokaryotes [^3] (bacteria, cyanobacteria, archaea, mitochondria and chloroplasts) are living machines, single-celled power stations; their association with power beings (i.e. the Master Physical Controllers) is therefore natural. In fact, both energy transformers and primary associators store and release energy, by analogy with the storage and release of energy by prokaryotes via ATP (adenosine triphosphate). Similarly, secondary dissociators (<a id="a55_1127"></a>[UB 29:4.28](/en/The_Urantia_Book/29#p4_28)) function like the bacteria involved in the decomposition of organic matter.
-
+« »
 
 **Geological time scale**
 
-<div class=“urantiapedia-table-wrapper”>
+<div class="urantiapedia-table-wrapper">
 
 | Aeon | Era | Period | Epoch | Approximate <br> Beginning Date | Radiometric- <br> to-Actual <br> Date Ratio* |
 | :---: | :---: | :---: | :---: | ---: | :---: |

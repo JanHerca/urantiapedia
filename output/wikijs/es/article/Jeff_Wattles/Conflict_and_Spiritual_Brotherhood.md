@@ -56,7 +56,7 @@ Por un lado, el conflicto es esencial. _Sólo surgen nuevos significados en medi
 
 Al acudir a Jesús, es útil reconocer una distinción entre hermandad social y espiritual. La hermandad social depende del progreso evolutivo en los ámbitos de la fraternidad social, la fertilización cruzada intelectual, el despertar ético, la sabiduría política y la percepción espiritual. La hermandad espiritual, por el contrario, es algo que se puede lograr de inmediato, y Jesús nos ha mostrado el camino <a id="a56_408"></a>[LU 52:6.2](/es/The_Urantia_Book/52#p6_2).
 
-##II. Conflicto en la vida y enseñanzas de Jesús
+## II. Conflicto en la vida y enseñanzas de Jesús
 
 Tomo como clave el siguiente pasaje:
 

@@ -182,7 +182,7 @@ Dans le prolongement d'un événement spécial commencé à IC99, nous organiser
 
 Rebecca Kantor est membre de la Golden Gate Society et étudie _Le Livre d'Urantia_ depuis plus de 30 ans. Elle est diplômée du séminaire et titulaire d'une maîtrise en religion (psychologie de la religion). En plus de participer à des groupes d'étude et à des conférences, ses intérêts incluent l’étude de la communauté des lecteurs du _Livre d'Urantia_ en tant que nouveau mouvement religieux, les cultes religieux, les auteurs et textes de source humaine et la théologie du _Livre d'Urantia_. Elle et son mari, David, vivent en « communauté intentionnelle » avec d'autres lecteurs du Livre d'Urantia à Sébastopol, en Californie.
 
-###Thomas Orjala
+### Thomas Orjala
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2002_Spring/Thomas_Orjala.jpg">

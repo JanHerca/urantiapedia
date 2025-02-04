@@ -192,7 +192,7 @@ Y al deslizarse, la Deidad proporciona al Supremo un potencial colosal de actual
 
 <br style="clear:both;"/>
 
-##D: ¿EL FUTURO?
+## D: ¿EL FUTURO?
 
 Ante tantas posibilidades de fecundación, cuando las «prácticas primitivas» han evolucionado y los embarazos están mejor controlados, ¿significa esto que las fecundaciones humanas serán todas deseadas y exitosas, mientras que la naturaleza siempre será generosa y segura de sí misma sujeta a este monstruo? ¿selección? Incluso entonces, seguirá habiendo miles de millones de óvulos y espermatozoides destinados únicamente al humus de la tierra.
 

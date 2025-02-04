@@ -196,7 +196,7 @@ Men too often forget that God is the greatest experience of human existence. All
 
 [Read more](/en/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito)
 
-##Urantian questionnaire — Luis García Bory
+## Urantian questionnaire — Luis García Bory
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Luis-Garcia-Bory.jpg" alt="Luis García Bory" width="250">

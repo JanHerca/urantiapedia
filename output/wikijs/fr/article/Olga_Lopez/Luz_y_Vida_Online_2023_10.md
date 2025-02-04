@@ -212,7 +212,7 @@ La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait t
 
 [Lire la suite](/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
 
-##Questionnaire urantien — Fernando Carazo
+## Questionnaire urantien — Fernando Carazo
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Fernando-Carazo.jpg" alt="Fernando Carazo" width="250">

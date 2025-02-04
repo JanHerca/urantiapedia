@@ -37,7 +37,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 por _David Glass_
 
-<p style="texto-alinear: centro;">
+<p style="text-align: center;">
 Con corazones alegres vivimos en tu presencia,<br>
 Tú que estás en todas partes a nuestro alrededor ahora.<br>
 Te traemos regalos de amor y agradecimiento, nuestros regalos,<br>

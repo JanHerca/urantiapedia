@@ -196,7 +196,7 @@ Les hommes oublient trop souvent que Dieu est la plus grande expérience de l’
 
 [Lire la suite](/fr/article/Luis_Alfonso_Rojas_Rosillo/Mi_parrafo_favorito)
 
-##Questionnaire urantien — Luis García Bory
+## Questionnaire urantien — Luis García Bory
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_12/Luis-Garcia-Bory.jpg" alt="Luis García Bory" width="250">

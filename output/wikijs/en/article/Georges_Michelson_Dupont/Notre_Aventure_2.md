@@ -185,20 +185,20 @@ It will be noted that the Infinite Spirit is called the Conjoint Actor in the se
 
 **Color table**
 
-- Universal Father &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“skyblue”/></svg>
-- Eternal Son &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“tomato”/></svg>
-- Infinite Spirit \& Joint Actor &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“yellow”/></svg>
-- Paradise &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“darkolivegreen”/></svg>
-- Deity Absolute &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“lightgrey”/></svg>
-- Absolute Universal &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“silver”/></svg>
-- Absolute Unqualified &nbsp; <svg width=“16” height=“16”><circle cx=“8” cy=“8” r=“8” fill=“grey”/></svg>
+- Universal Father &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="skyblue"/></svg>
+- Eternal Son &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="tomato"/></svg>
+- Infinite Spirit \& Joint Actor &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="yellow"/></svg>
+- Paradise &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="darkolivegreen"/></svg>
+- Deity Absolute &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="lightgrey"/></svg>
+- Absolute Universal &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="silver"/></svg>
+- Absolute Unqualified &nbsp; <svg width="16" height="16"><circle cx="8" cy="8" r="8" fill="grey"/></svg>
 
 Here are suggestions about the nature and meaning of the seven triunities:
 
 ## First Trinity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>First Triunity</b>: <img src=“/image/article/Le_Lien/images_02/180.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>First Triunity</b>: <img src="/image/article/Le_Lien/images_02/180.jpg" style="float:right;"/>
 
 Personal-Intentional Triunity
 
@@ -229,8 +229,8 @@ The Divine Plan of Ascension
 
 ## Second Trinity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Second Triunity:</b>: <img src=“/image/article/Le_Lien/images_02/181.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Second Triunity:</b>: <img src="/image/article/Le_Lien/images_02/181.jpg" style="float:right;"/>
 
 Power-Archetype Triunity
 
@@ -274,8 +274,8 @@ To return to the analogy with the architect, these two triunits would be the des
 
 ## Third Triunity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Third Triunity:</b> : <img src=“/image/article/Le_Lien/images_02/182.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Third Triunity:</b> : <img src="/image/article/Le_Lien/images_02/182.jpg" style="float:right;"/>
 
 Triunity of evolution of the Spirit
 
@@ -312,8 +312,8 @@ Evolution of the Spirit
 
 ## The Fourth Triunity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Fourth Triunity:</b> : <img src=“/image/article/Le_Lien/images_02/183.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Fourth Triunity:</b> : <img src="/image/article/Le_Lien/images_02/183.jpg" style="float:right;"/>
 
 Triunity of infinity of energy
 
@@ -349,8 +349,8 @@ Evolution of Energy
 
 ## The Fifth Triunity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Fifth Triunity:</b> : <img src=“/image/article/Le_Lien/images_02/184.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Fifth Triunity:</b> : <img src="/image/article/Le_Lien/images_02/184.jpg" style="float:right;"/>
 
 Reactive infinity triunity
 
@@ -381,8 +381,8 @@ Reactive infinity
 
 ## The Sixth Triunity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Sixth Triunity:</b> : <img src=“/image/article/Le_Lien/images_02/185.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Sixth Triunity:</b> : <img src="/image/article/Le_Lien/images_02/185.jpg" style="float:right;"/>
 
 Reactive infinity triunity
 
@@ -412,8 +412,8 @@ Deity-in-the-cosmos
 
 ## The Seventh Triunity
 
-<div style=“border: 1px solid;padding:5px;”>
-<b>Seventh Triunity:</b>: <img src=“/image/article/Le_Lien/images_02/186.jpg” style=“float:right;”/>
+<div style="border: 1px solid;padding:5px;">
+<b>Seventh Triunity:</b>: <img src="/image/article/Le_Lien/images_02/186.jpg" style="float:right;"/>
 
 Triunity of infinite unity
 

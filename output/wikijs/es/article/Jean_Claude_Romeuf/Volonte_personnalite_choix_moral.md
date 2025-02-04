@@ -79,7 +79,7 @@ En este capítulo vale la pena citar otra frase, porque se refiere a todo lo no 
 
 > _En todo el universo de los seres creados y de las energías no personales, no observamos que la voluntad, la volición, la elección y el amor se manifiesten con independencia de la personalidad. No vemos que estos atributos de la personalidad funcionen en asociación con las realidades impersonales, salvo en los Ajustadores y en otras entidades similares. No sería correcto indicar que un Ajustador es subpersonal, ni tampoco sería apropiado aludir a esta entidad como superpersonal, pero sería totalmente lícito calificar a este ser de prepersonal._ (<a id="a79_554"></a>[LU 107:7.5](/es/The_Urantia_Book/107#p7_5))
 
-##II. EL SUBPERSONAL
+## II. EL SUBPERSONAL
 
 Por supuesto, se trata de lo que está por debajo del nivel de la personalidad y que concierne a la voluntad de la mente animal sujeta a los primeros cinco espíritus-mente-ayudantes. Un león sabe si quiere ir a cazar en busca de comida o si irá a la sombra debajo de una roca para tomar una siesta, antes de buscar comida.
 
@@ -87,7 +87,7 @@ En esto es igual al hombre que posee una personalidad. En cuanto a mí, tomo una
 
 Gracias a la evolución humana, física, mental y espiritual que ha durado un millón de años, todas las decisiones, las elecciones que hemos tenido que tomar, nos han llevado a la cima de la pirámide del reino animal.
 
-##III. LO PREPERSONAL.
+## III. LO PREPERSONAL.
 
 No es necesario pronunciar un discurso largo. Todos los lectores saben que el Ajustador del Pensamiento es una entidad prepersonal que espera convertirse en una persona fusionándose con su elegido.
 
@@ -109,7 +109,7 @@ Además, no existe ninguna superpersonalidad en el circuito de personalidad del 
 
 Este término también designa a los seres trascendentales que actualmente se encuentran en el Paraíso.
 
-##IV. Voluntad y elección
+## IV. Voluntad y elección
 
 Acabamos de ver que la voluntad puede reflejar en un espejo la imagen de varios rostros. Sólo una mente sensible al espíritu logra imponer la plenitud de su voluntad: ¡el libre albedrío!
 

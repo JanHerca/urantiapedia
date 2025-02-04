@@ -87,7 +87,7 @@ To read with the right background music:
 
 Lauren Daigle — Saint Ferdinand (feat. Jon Batiste \& Natalie Hemby)
 
-<a href=“https://bit.ly/3MorkWl”>
+<a href="https://bit.ly/3MorkWl">
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_06/099.jpg">
 </figure>

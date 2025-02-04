@@ -73,7 +73,7 @@ La elección de Urantia por parte de Miguel como lugar de su autootorgamiento co
 
 _Expresión de la voluntad del Hijo Creador mediante otorgamiento_
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 Derrames | Personalidad | expresión de voluntad
 --- | --- | ---

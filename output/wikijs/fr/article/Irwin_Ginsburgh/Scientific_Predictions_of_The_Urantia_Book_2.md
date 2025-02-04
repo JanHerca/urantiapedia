@@ -115,7 +115,7 @@ Il y a beaucoup de matériel dans le _Livre d'Urantia_ qui est en accord avec no
 
 4. **La structure à grande échelle de l'univers est planaire**. (<a id="a115_65"></a>[LU 11:6](/fr/The_Urantia_Book/11#p6)) Les mesures récentes de l'ancien champ de rayonnement infrarouge sont très uniformes ; cela indique une structure planaire. Toute structure courbe introduirait des non-uniformités. _Le Livre d'Urantia_ dit que la structure planaire s'épaissit au niveau du bord extérieur. Il est difficile de justifier un univers plat issu d’un Big Bang qui s’étend dans toutes les directions.
 
-##III. Prédictions futures possibles qui pourraient se réaliser 
+## III. Prédictions futures possibles qui pourraient se réaliser 
 
 1. **Création du Soleil et des planètes** (Cosmologie, Physique Stellaire, <a id="a119_75"></a>[LU 57:1](/fr/The_Urantia_Book/57#p1)). La science dit que le soleil a été créé lorsqu'un énorme nuage d'hydrogène gazeux s'est contracté par gravité et s'est chauffé par compression de gaz jusqu'à ce qu'il soit suffisamment chaud pour devenir un four solaire (dix millions de degrés Celsius). Le livre dit la même chose, sauf qu'il y a eu plus de cent mille autres soleils qui ont également été créés à partir de la même énorme nébuleuse d'Andronover. Leur création a duré environ deux milliards d’années et ils ont été éjectés de la nébuleuse après leur formation. Les conséquences de cette perturbation énergétique sont étudiées et utilisées par la science pour justifier la théorie du Big Bang. La science ne connaît pas les cent mille autres soleils, ni la nébuleuse, ni l’éjection des soleils de la nébuleuse.
 

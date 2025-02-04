@@ -105,7 +105,7 @@ Para que conste:
 - _Tesorero_: Sr. Jean Duveau
 - _Secretario_: Sr. Max Masotti
 
-###II. Resolución para el año 2018 — Deliberaciones de los miembros sobre el buen funcionamiento de la asociación.
+### II. Resolución para el año 2018 — Deliberaciones de los miembros sobre el buen funcionamiento de la asociación.
 
 - En cuanto al Vicepresidente, éste nos mantiene informados de los correos electrónicos y traducciones de la A.U.I.
 - El comité de lectura está compuesto por la Sra. Danielle Lascala y los Sres. Ivan Stol, Jean Duveau y Patrick Morelli.
@@ -135,7 +135,7 @@ Se enviará un correo electrónico a todos los lectores para informarles de las 
 
 El Sr. Georges Michelson-Dupont nos informa que la Fundación va bien en cuanto al presupuesto, la organización y las traducciones.
 
-###III. Resolución para el año 2018
+### III. Resolución para el año 2018
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/144.jpg">
@@ -185,7 +185,7 @@ En Le Bon Coin hay centros de acogida totalmente equipados con varias hectáreas
 
 También hay abadías y claustros que se venden porque la Iglesia se desprende de muchos de sus bienes pero es necesario restaurarlos. También puedes contactar con agencias inmobiliarias especializadas en estos productos (por ejemplo: https://www.patrice-besse.com/belles-demeures/nord-pas-de-calais/ermitage-chapelle-18eme-siecle/)
 
-###IV. Resolución para el año 2018
+### IV. Resolución para el año 2018
 
 **Cuenta operativa**
 

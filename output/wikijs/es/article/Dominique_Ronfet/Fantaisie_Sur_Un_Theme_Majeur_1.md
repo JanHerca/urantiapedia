@@ -37,7 +37,7 @@ dateCreated: 2024-11-6T12:40:15Z
 
 Dominique Ronfet
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 ¿Quién puede decirlo?<br>
 <br>
 si el movimiento es vida,<br>

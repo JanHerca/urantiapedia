@@ -252,7 +252,7 @@ Deux de mes paragraphes préférés concernent le concept enseigné par Jésus s
 
 [Lire la suite](/fr/article/Luis_Coll/Mi_parrafo_favorito)
 
-##Questionnaire urantien — Par Victor Garcia Bory
+## Questionnaire urantien — Par Victor Garcia Bory
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Victor-Garcia-Bory.jpg" alt="Víctor García Bory" width="250">

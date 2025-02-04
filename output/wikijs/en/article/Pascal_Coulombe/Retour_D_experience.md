@@ -38,7 +38,7 @@ dateCreated: 2024-11-6T12:40:15Z
 
 Pascal Coulombe
 
-<p style=“text-align: center;”>
+<p style="text-align: center;">
 Hello everyone,<br>
 <br>
 Following the call (Articles for LE LIEN) I react. As a sort of 'reflex', a feedback.<br>

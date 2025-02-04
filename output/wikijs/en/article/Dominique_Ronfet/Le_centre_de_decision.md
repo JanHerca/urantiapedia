@@ -122,7 +122,7 @@ The latter, however, tries to unify what I would define as nascent chaos, the ev
 
 But then to what extent am I held responsible for my actions? Or:
 
-##3 How can such an absurd decision, non-existence, be accepted and recognized by our higher authorities?
+## 3 How can such an absurd decision, non-existence, be accepted and recognized by our higher authorities?
 
 Let’s put these two extracts in parallel:
 

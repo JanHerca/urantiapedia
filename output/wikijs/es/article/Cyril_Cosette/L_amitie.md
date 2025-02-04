@@ -35,7 +35,7 @@ dateCreated: 2024-10-27T10:7:29Z
 
 
 
-##JULLOUVILLE 1977
+## JULLOUVILLE 1977
 
 El niño se alejó de la sombrilla bajo la cual descansaban sus padres y cerca de la cual jugaban sus hermanas. Llegó al borde de la arena mojada. Los niños jugaban a la pelota. Sus gritos y risas resonaron en medio del murmullo del mar. Él permaneció allí en silencio por un momento, observándolos. Luego decidió avanzar para preguntarles: “¿Puedo jugar con ustedes?”.
 
@@ -59,7 +59,7 @@ Por tanto, incluye también la posibilidad de la amistad con Dios.
 
 > «A pesar de que Dios es un poder eterno, una presencia majestuosa, un ideal trascendente y un espíritu glorioso, aunque es todo esto e infinitamente más, sin embargo es verdadera y eternamente una personalidad perfecta de Creador, una persona que puede «conocer y ser conocida»{42}, que puede «amar y ser amada»{43}, alguien que puede manifestarnos amistad; y a vosotros se os puede conocer, como a otros humanos les ha sucedido, como amigos de Dios{44}. Él es un espíritu real y una realidad espiritual.» (<a id="a59_509"></a>[LU 1:5.8](/es/The_Urantia_Book/1#p5_8))
 
-##VANVES 1979
+## VANVES 1979
 
 Más tarde, cuando el niño creció, buscó tener muchos amigos. Se preguntaba cómo podía tener tantas, porque se había dado cuenta de que la amistad se vivía en un hermoso contexto de felicidad.
 
@@ -71,7 +71,7 @@ Para que surja la amistad entre dos personas, ambas personas necesariamente debe
 
 > «Para una amistad entre dos personas, cierto grado de afinidad moral y de armonía espiritual es esencial; una personalidad amorosa difícilmente se puede revelar a una persona desprovista de amor. Incluso para acercarse al conocimiento de una personalidad divina, el hombre debe consagrar enteramente a ese esfuerzo todos los dones de su personalidad; una devoción parcial y poco entusiasta será ineficaz.» (<a id="a71_409"></a>[LU 1:6.5](/es/The_Urantia_Book/1#p6_5))
 
-##VANVES 1986
+## VANVES 1986
 
 El niño que se convirtió en adolescente descubrió que al querer comprender a las personas y al desarrollar puntos en común entre ellas, era probable que se acercara a ellas más fácilmente. Luego, al tener un tema común que discutir o una actividad común que practicar, podría surgir una relación que posiblemente conduzca a una amistad.
 
@@ -95,7 +95,7 @@ Devolvió la pieza al tablero y se levantó para volver a encender su pipa. Lueg
 
 > «2. *La unión de las almas —la movilización de la sabiduría*. Todo ser humano adquiere, tarde o temprano, cierto concepto de este mundo y cierta visión del siguiente. Ahora bien, es posible, mediante la asociación de las personalidades, unificar estos puntos de vista sobre la existencia temporal y las perspectivas eternas. Así, la mente de uno acrecienta sus valores espirituales adquiriendo una gran parte de la perspicacia del otro. De esta manera, los hombres enriquecen su alma poniendo en común sus posesiones espirituales respectivas. Y también de esta misma manera el hombre consigue evitar esa tendencia siempre presente a caer víctima de su visión distorsionada, de su punto de vista parcial y de su estrechez de juicio. El miedo, la envidia y la vanidad sólo se pueden impedir mediante el contacto íntimo con otras mentes. Llamo vuestra atención sobre el hecho de que el Maestro nunca os envía solos a trabajar para la expansión del reino; siempre os envía de dos en dos. Y puesto que la sabiduría es un superconocimiento, de esto se deduce que, al unir su sabiduría, el grupo social, grande o pequeño, comparte mutuamente todo el conocimiento.» (<a id="a95_1161"></a>[LU 160:2.7](/es/The_Urantia_Book/160#p2_7))
 
-##PARÍS 1991
+## PARÍS 1991
 
 El accidente fue repentino y brutal. Recordó la triste noticia anunciada repentinamente una tarde por teléfono. El amigo presente ese día junto a él le apretó la mano. Rápidamente se fue para consolar a su amiga que acababa de perder a su padre y que luego se convertiría en su esposa en 1994.
 
@@ -113,7 +113,7 @@ Los lectores del Libro de Urantia guardaron unos minutos de silencio antes de em
 
 > «Jesús sembraba la alegría por dondequiera que iba. Estaba lleno de benevolencia y de verdad{31}. Sus compañeros nunca dejaron de maravillarse por las palabras agradables que salían de su boca. Podéis cultivar la gentileza, pero la dulzura es el aroma de la amistad que emana de un alma saturada de amor.» (<a id="a113_309"></a>[LU 171:7.1](/es/The_Urantia_Book/171#p7_1))
 
-##PARÍS JUNIO 2016: CARTA A MIS AMIGOS
+## PARÍS JUNIO 2016: CARTA A MIS AMIGOS
 
 ***Mis queridos amigos,***
 

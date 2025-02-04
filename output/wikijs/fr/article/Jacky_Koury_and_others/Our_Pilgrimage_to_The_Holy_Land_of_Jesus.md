@@ -35,7 +35,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 
-##Jackie Koury
+## Jackie Koury
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/020.jpg">

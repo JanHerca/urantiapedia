@@ -249,7 +249,7 @@ Finally, here are some examples of clarification and questioning.
 
 > “This magnificent and universal injunction to strive for the attainment of the perfection of divinity is the first duty, and should be the highest ambition, of all the struggling creature creation of the God of perfection. This possibility of the attainment of divine perfection is the final and certain destiny of all man’s eternal spiritual progress.” (<a id="a249_357"></a>[[UB 1:0.4](/en/The_Urantia_Book/1#p0_4))
 
-In this expression, what does the term <span style=“color: steelblue;”>“divinity”</span> mean in this context? To answer this question, the teacher will ask one of the participants to refer to the Introduction and read the paragraphs in <a id="a251_237"></a>[[UB 0:1.14](/en/The_Urantia_Book/0#p1_14)] followed by a discussion-sharing on the impact that this implies on the personal and impersonal levels in everyone's daily life.
+In this expression, what does the term <span style="color: steelblue;">“divinity”</span> mean in this context? To answer this question, the teacher will ask one of the participants to refer to the Introduction and read the paragraphs in <a id="a251_237"></a>[[UB 0:1.14](/en/The_Urantia_Book/0#p1_14)] followed by a discussion-sharing on the impact that this implies on the personal and impersonal levels in everyone's daily life.
 
 > “Urantia mortals can hardly hope to be perfect in the infinite sense, but it is entirely possible for human beings, starting out as they do on this planet, to attain the supernal and divine goal which the infinite God has set for mortal man; and when they do achieve this destiny, they will, in all that pertains to self-realization and mind attainment, be just as replete in their sphere of divine perfection as God himself is in his sphere of infinity and eternity. Such perfection may not be universal in the material sense, unlimited in intellectual grasp, or final in spiritual experience, but it is final and complete in all finite aspects of divinity of will, perfection of personality motivation, and God-consciousness.” (<a id="a253_732"></a>[[UB 1:0.5](/en/The_Urantia_Book/1#p0_5))
 
@@ -259,11 +259,11 @@ In this passage, what does the term “<span style=”color: steelblue;“>reali
 
 > “The Universal Father never imposes any form of arbitrary recognition, formal worship, or slavish service upon the intelligent will creatures of the universes. The evolutionary inhabitants of the worlds of time and space must of themselves—in their own hearts—recognize, love, and voluntarily worship him. The Creator refuses to coerce or compel the submission of the spiritual free wills of his material creatures. The affectionate dedication of the human will to the doing of the Father’s will is man’s choicest gift to God; in fact, such a consecration of creature will constitutes man’s only possible gift of true value to the Paradise Father. In God, man lives, moves, and has his being; there is nothing which man can give to God except this choosing to abide by the Father’s will, and such decisions, effected by the intelligent will creatures of the universes, constitute the reality of that true worship which is so satisfying to the love-dominated nature of the Creator Father.” (<a id="a259_992"></a>[[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
-<span style=“color: green;”>Questions</span>: a) What is the implication of this statement on our lives? The teacher will invite participants to share their understanding and personal experience. b) How does this statement impact institutional religions?
+<span style="color: green;">Questions</span>: a) What is the implication of this statement on our lives? The teacher will invite participants to share their understanding and personal experience. b) How does this statement impact institutional religions?
 
 “The names that creatures give to the Creator depend very much on the concept that creatures have of the Creator. <span style=”color: green;“>The First Source and Center of the Universe has never revealed itself by name, but only by its nature.</span>” <a id="a263_253"></a>[[UB 1:1.1](/en/The_Urantia_Book/1#p1_1)]
 
-<span style=“color: green;”>Question</span>: the teacher will ask to refer to page 1965, third paragraph and the following and will ask the participant to comment on this apparent contradiction.
+<span style="color: green;">Question</span>: the teacher will ask to refer to page 1965, third paragraph and the following and will ask the participant to comment on this apparent contradiction.
 
 ## Good practices
 

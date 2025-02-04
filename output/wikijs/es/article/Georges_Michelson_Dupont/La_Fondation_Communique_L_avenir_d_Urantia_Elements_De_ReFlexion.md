@@ -251,6 +251,6 @@ Sin duda, Urantia se convertirá en el ejemplo estándar, la prueba eficaz de la
 
 
 
-##Notas
+## Notas
 
 [^1]: Reportado por la comisión de contacto.

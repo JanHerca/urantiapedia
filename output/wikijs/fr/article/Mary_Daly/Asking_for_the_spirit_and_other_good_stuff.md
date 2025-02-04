@@ -86,7 +86,7 @@ Durant ces temps privilégiés de prière, nous construisons notre espérance de
 
 Ayons donc faim de Dieu, attendons-le, comptons sur lui et cédons-nous à lui.
 
-##III. Premier cadeau mental – Accélération intuitive
+## III. Premier cadeau mental – Accélération intuitive
 
 Le premier esprit mental adjoint est l’esprit d’intuition rapide, parfois appelé la crainte du Seigneur. Chez les animaux inférieurs, c'est l'instinct le plus primitif, la réponse rapide, juste au-dessus du tropisme chez les plantes, mais difficilement enseignable. Je pense à la façon dont les insectes se précipitent vers l’obscurité lorsqu’ils sont surpris sous une bûche. Dans la religion primitive, cette crainte assure un respect minimal de « la loi ».
 
@@ -146,7 +146,7 @@ Dans les mondes des maisons, au seuil du ciel, nous aurons de nouveaux esprits q
 
 Il est très important de consacrer du temps à l’adoration chaque jour. La repentance et la pétition semblent être les formes de prière les plus naturelles, mais ce n’est là qu’une immaturité. Beaucoup de gens ne pensent pas à prier jusqu'à ce qu'ils se sentent vraiment coupables ou qu'ils rencontrent d'autres problèmes majeurs. N'attendez pas. Prenez plaisir dans le Seigneur chaque jour. Il mérite votre attention et rien n’est plus rafraîchissant que l’adoration.
 
-##IX. Septième don mental : la sagesse
+## IX. Septième don mental : la sagesse
 
 Le septième esprit mental adjoint est l’esprit de sagesse. C'est l'activité la plus élevée de l'esprit humain, l'unification de toutes les autres activités mentales.
 

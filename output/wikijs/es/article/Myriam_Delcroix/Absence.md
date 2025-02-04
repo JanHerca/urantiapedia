@@ -32,7 +32,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 
 
-<p estilo=«text-align:centro»>
+<p style="text-align:centro">
 Una estrella pasa y se apaga en el frío del silencio,</p>
 Cerca del viejo roble, observo tu ausencia,</p>
 y tus palabras y tus risas ya se van apagando poco a poco.</p>

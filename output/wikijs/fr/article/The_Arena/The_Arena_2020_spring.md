@@ -277,7 +277,7 @@ Barry Culligan, Irlande
 <img src="/image/article/The_Arena/Stillness-Image-570x186.jpg" alt="Stillness">
 </figure>
 
-<p style=« texte-align: centre;">
+<p style="text-align: center;">
 Au milieu de la cacophonie chaotique de la chair<br>
 est assis le Silencieux,<br>
 l'observateur cool,<br>

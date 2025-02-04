@@ -208,7 +208,7 @@ Wonderful paintings arrived from all over the known world. Some showed calm seas
 
 [Read more](/en/article/Rey_Sotolongo/Mi_parrafo_favorito)
 
-##Urantian Questionnaire — Ulises Pedrique
+## Urantian Questionnaire — Ulises Pedrique
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Ulises-Pedrique.jpg" alt="Ulises Pedrique" width="250">

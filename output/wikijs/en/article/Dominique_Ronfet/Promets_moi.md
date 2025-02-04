@@ -38,7 +38,7 @@ dateCreated: 2024-11-3T19:50:31Z
 
 Dominique Ronfet
 
-<p style=“text-align=center;”>
+<p style="text-align:center;">
 Sometimes, your hand raised towards the sky<br>
 bring down a flame.<br>
 Grabbed like booty.<br>
@@ -69,16 +69,16 @@ And seek advice<br>
 First with the shepherd:<br>
 <br>
 — “Tell me, why do we always thirst for fire?<br>
-You who know how to guide wandering bodies, do you know the answer? "<br>
+You who know how to guide wandering bodies, do you know the answer? ”<br>
 <br>
 — “Do you want to expand your house or supply its fire?”<br>
 The shepherd replied laconically.<br>
 <br>
-#Next to the miller:<br>
+Next to the miller:<br>
 — “What bread will satisfy me?”<br>
 <br>
 — “The bread of life will not stop your hunger.<br>
-And that's good. Otherwise, love your loaf."<br>
+And that's good. Otherwise, love your loaf.”<br>
 Was the miller's response.<br>
 <br>
 Finally, with the teacher:<br>

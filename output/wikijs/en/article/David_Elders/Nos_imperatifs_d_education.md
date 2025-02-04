@@ -73,7 +73,7 @@ Michael's selection of Urantia as the site of his bestowal as a mortal creature 
 
 _Expression of the will of the Creator Son by effusion_
 
-<div class=“urantiapedia-table-wrapper”>
+<div class="urantiapedia-table-wrapper">
 
 Effusions | Personality | Expression of will
 --- | --- | ---

@@ -111,7 +111,7 @@ Para leer con la música de fondo que va bien:
 
 Lauren Daigle — Saint Ferdinand (hazaña. Jon Batiste \& Natalie Hemby)
 
-<a href=«https://bit.ly/3MorkWl»>
+<a href="https://bit.ly/3MorkWl">
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Reflectivite/2023_06/099.jpg">
 </figure>

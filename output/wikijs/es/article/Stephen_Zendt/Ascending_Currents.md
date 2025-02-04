@@ -42,7 +42,7 @@ _San Francisco, CA, editor_
 
 **Mis compañeros criaturas**
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 Hay una pitee en los márgenes exteriores de este finito<br>
 Donde mi amor y yo nos abrazamos en una luz eterna.<br>
 <br>
@@ -61,7 +61,7 @@ Aquellos encerrados en este finito.<br>
 Mis semejantes.<br>
 </p>
 
-<p estilo=«text-align: derecha;»>
+<p style="text-align: right;">
 Anónimo
 </p>
 
@@ -70,7 +70,7 @@ Escúchanos mientras hacemos una pausa para orar.
 Te agradecemos por nuestro hogar y comida.
 Ayúdanos a crear Hermandad.
 
-<p estilo=«text-align: derecha;»>
+<p style="text-align: right;">
 Esther Hoover Zendt y Stephen Zendt
 </p>
 
@@ -106,7 +106,7 @@ Gracias, Padre, por nuestros hermanos y hermanas humanos: nuestros padres, nuest
 
 **Extendemos acción de gracias a nuestro adorable Padre-Madre Dios, quien es siempre nuestro amigo, siempre perdonador, perfectamente paciente y en quien nos movemos, vivimos y tenemos nuestro ser. Que siempre sea así. Amén.**
 
-<p estilo=«text-align: derecha;»>
+<p style="text-align: right;">
 Jay Newbern, Santa Rosa, California
 (reimpreso de «The Circles» Primavera-Verano 1988)
 </p>

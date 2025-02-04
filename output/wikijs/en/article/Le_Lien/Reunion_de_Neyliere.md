@@ -85,7 +85,7 @@ Urantia has deviated so much from the divine plan following the failure of the P
 <img src="/image/article/Le_Lien/images_02/003.jpg">
 </figure>
 
-<div class=“urantiapedia-table-wrapper”>
+<div class="urantiapedia-table-wrapper">
 
 | Age | Normal world | Urantia |
 | :---: | :---: | :---: |

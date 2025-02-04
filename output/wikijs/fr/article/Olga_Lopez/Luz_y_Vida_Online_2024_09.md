@@ -208,7 +208,7 @@ De magnifiques tableaux sont arrivés de partout dans le monde connu. Certains m
 
 [Lire la suite](/fr/article/Rey_Sotolongo/Mi_parrafo_favorito)
 
-##Questionnaire urantien — Ulises Pedrique
+## Questionnaire urantien — Ulises Pedrique
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Ulises-Pedrique.jpg" alt="Ulises Pedrique" width="250">

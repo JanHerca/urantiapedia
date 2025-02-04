@@ -60,7 +60,7 @@ Es después de tomar conciencia de sí mismo y de la vida que el hombre se dirig
 - Al nacer el niño existe en un mundo diferente a aquel en el que fue formado, humanidad que descubrirá a través de la experiencia.
 - En el nacimiento del espíritu, el hombre existe en un mundo diferente al material, el morontial que descubrirá a través de la experiencia.
 
-##AURORA
+## AURORA
 
 Se dice en El Libro de Urantia que el nacimiento de la religión no es repentino sino gradual, que tarde o temprano, un día, hay un nacimiento del espíritu.
 
@@ -70,7 +70,7 @@ Vivir una experiencia tan dolorosa en ese momento me permitió plantearme pregun
 
 Yo, que después de tantos años, siempre pensé que Dios estaba afuera, peor fuera de nuestro mundo e intocable. Entiendo y acepto todas las experiencias vividas como EL CAMINO elegido por Dios para ser hasta el día de hoy una mujer consciente de él en mí y sobre todo con esta inmensa necesidad de hacer su voluntad.
 
-##EMILIA
+## EMILIA
 
 Así que aquí tenéis una tabla (me gusta ;-)) para comparar, según mi experiencia, los dos nacimientos (excluyendo el nacimiento de cualquier religión intermedia: pasé de ateo escéptico al nacimiento del Espíritu directamente... sin un paso intermedio de ninguna otra religión institucionalizada.)
 
@@ -94,7 +94,7 @@ Por mi parte, después de una gestación bastante larga donde la religión se de
 
 Entonces comprendí, percibí y sentí que este nacimiento era el preludio de conmociones y transformaciones interiores que acepté con humildad, confianza y alegría. “La perplejidad es inevitable en la religión; no puede haber crecimiento sin conflictos psíquicos y agitación espiritual. La organización de un nivel de vida filosófico provoca una considerable agitación en el dominio filosófico de la mente. No es sin lucha que uno ejerza su lealtad hacia lo que es grande, bueno, verdadero y noble. » <a id="a94_499"></a>[[LU 100:4](/es/The_Urantia_Book/100#p4)]
 
-##MOANA
+## MOANA
 
 Antes de conocer a mi llama gemela Kény, pasé por un montón de experiencias personales, religiosas, profesionales, románticas, de viajes, etc.
 

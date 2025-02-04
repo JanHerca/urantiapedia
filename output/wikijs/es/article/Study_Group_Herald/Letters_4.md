@@ -51,7 +51,7 @@ Este es un hermoso poema que encontré:
 
 COMPAÑERISMO
 
-<p estilo=«text-align»>
+<p style="text-align">
 No tengo Señor lejano,<br>
 El Amor lejos de mí.<br>
 Hecho carne para mi<br>

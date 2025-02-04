@@ -38,7 +38,7 @@ dateCreated: 2024-11-6T12:40:15Z
 
 Dominique Ronfet
 
-<p style=“text-align: center;”>
+<p style="text-align: center;">
 Who can say?<br>
 <br>
 if movement is life,<br>

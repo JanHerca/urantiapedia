@@ -31,7 +31,7 @@ _Por Halbert Katzen J.D._
 
 A medida que nos acercamos rápidamente al segundo eclipse solar total en siete años sobre la Cruz de la Paz de Bald Knob, quienes estudian las profecías bíblicas están tomando nota cada vez más de las peculiaridades asociadas con el próximo eclipse del 8 de abril. Esta conciencia comenzó con el primer eclipse, por supuesto.
 
-##Salem
+## Salem
 
 El eclipse del 21 de agosto de 2017 se hizo conocido por pasar directamente sobre siete Salem, ubicados en Oregon, Idaho, Wyoming, Nebraska, Missouri, Kentucky y Carolina del Sur. (Salem, Wyoming es una ciudad desaparecida del siglo XIX. Lo único que queda es un cementerio).
 

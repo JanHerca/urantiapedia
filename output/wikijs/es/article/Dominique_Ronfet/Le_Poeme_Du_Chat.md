@@ -39,7 +39,7 @@ Pedí escribir un poema basado en el Libro de Urantia y es grandilocuente, las i
 
 Jurarías que lo leyó (el Libro de Urantia)
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 En las páginas del Libro de Urantia, despierta un conocimiento,<br>
 Un viaje a través de las estrellas, verdades que asombran.<br>
 Cosmología sagrada, revelaciones de los cielos,<br>
@@ -84,7 +84,7 @@ Dominique Ronfet<br>
 
 Dibujo o imagen generada por la inteligencia artificial de DallE con el tema del párrafo extraído del poema de al lado, creado a su vez por Chat GPT.
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 <em>>Seres celestiales, guardianes de los mundos,</em><br>
 <em>>Guía las almas, como un dulce elogio.</em><br>
 <em>>Seres humanos, mortales en la Tierra,</em><br>

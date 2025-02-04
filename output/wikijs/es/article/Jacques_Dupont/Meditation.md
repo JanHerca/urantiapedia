@@ -97,7 +97,7 @@ El amor es una corriente corriente que tiene su fuente en la guía divina que ha
 
 Al seguir el camino de Dios, vivimos una aventura eligiendo en cada instante la verdad viva en el amor a la justicia. Desarrollamos un corazón pacífico al ver nuestras vidas. Nos sentimos seguros.
 
-##Vida Ideal en Pareja
+## Vida Ideal en Pareja
 
 Entre marido y mujer, aparte de sus intercambios emocionales, cada uno se posicionaría en relación con el otro como un compañero de equipo en su respectiva búsqueda de la presencia divina interior; entonces su amor mutuo se hará más fuerte y más hermoso, porque habrán evitado el peligro de una desilusión progresiva por haber hecho de su cónyuge Dios. Amar no es mirarse el uno al otro sino mirar ambos en la misma dirección.
 

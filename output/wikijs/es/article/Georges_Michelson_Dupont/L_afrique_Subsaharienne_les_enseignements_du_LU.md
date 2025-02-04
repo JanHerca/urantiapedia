@@ -65,7 +65,7 @@ Georges Michelson-Dupont
 
 _Período 1950 a 2100 — Proyecciones de las Naciones Unidas_
 
-<div class=«urantiapedia-table-wrapper»>
+<div class="urantiapedia-table-wrapper">
 
 | PAÍS | **1950** | **2000** | **2016** | **2050** | **2100** | Idiomas | cristiano | musulmán | Tradición |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | :---: | :---: |

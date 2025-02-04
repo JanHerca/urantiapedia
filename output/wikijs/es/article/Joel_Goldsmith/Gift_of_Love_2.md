@@ -59,7 +59,7 @@ Tengamos como única preocupación realizarnos en nuestro arte de ser nosotros m
 
 Es en vano buscar una razón para amar. El amor es ajeno a las razones, cualesquiera que sean. Si necesitamos una razón para amar, es porque nuestro amor no es real. Las relaciones humanas deben basarse enteramente en el amor, pero un amor que fluya libremente.
 
-##Sé transparente para amar
+## Sé transparente para amar
 
 Lo que Dios tiene, lo quiere para todos sus hijos. Pero al pedirle que comparta su bien debemos tener cuidado de expresar nuestra petición de una manera que no sea egoísta. Pidamos a Dios que compartamos su gloria en virtud de su espíritu universal de generosidad. Rindámonos a Su amor y sometámonos a Su voluntad. Dios nos concede multitud de dones; Él nos los da a través de Su amor por nosotros, que no tiene precio; todo esto manifiesta Su gloria, haciéndola visible en la tierra, como lo es en el cielo. Nuestros hogares deben ser un templo de Dios, un lugar donde todos digan: “Padre, esta es tu casa. Aquí estás en casa. Que esta casa se llene de tu presencia, hasta en sus más pequeños rincones. Que Tu amor reine supremo. Deja que mi mente esté libre de emociones humanas, pensamientos y acciones negativas; hazme Tu instrumento, para que por él Tu presencia entre libremente en esta casa._”
 

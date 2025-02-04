@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=dX-eh5jHgrs
 
 Las comidas del buffet eran deliciosas y variadas para todos los gustos. Nuestras veladas se vieron gratamente enriquecidas por estos dos artistas talentosos y de renombre internacional: **Rebecca Oswald**, quien se convirtió en mi nueva amiga y hermana espiritual, y **Bob Solone**, quien interpretó una canción especial de Robert Cadieux en «Smile». Conocía esta canción, pero no sabía que era de Charlie Chaplin.
 
-<a href=«https://bit.ly/3MqJWVI»>
+<a href="https://bit.ly/3MqJWVI">
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2024_05/021.jpg">
 </figure>

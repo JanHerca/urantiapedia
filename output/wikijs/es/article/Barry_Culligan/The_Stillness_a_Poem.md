@@ -32,7 +32,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 
 
-<p estilo=«text-align: centro;»>
+<p style="text-align: center;">
 En medio de la caótica cacofonía de la carne<br>
 se sienta el Silencioso,<br>
 el observador frío,<br>

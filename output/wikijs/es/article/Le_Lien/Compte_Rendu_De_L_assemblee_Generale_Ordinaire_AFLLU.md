@@ -112,7 +112,7 @@ Habrá una reunión europea en Tallin, Estonia.
 
 Respuesta de Iván: «Aún no me he involucrado en eso y nos faltan voluntarios para poner todo en marcha porque requiere una organización fuerte que no tenemos actualmente».
 
-##II. ¿Vamos a movernos y darnos a conocer? ¿Debemos esperar pasivamente o actuar por la difusión del LU?
+## II. ¿Vamos a movernos y darnos a conocer? ¿Debemos esperar pasivamente o actuar por la difusión del LU?
 
 En cuanto a la edición de El libro de Urantia, nuestro editor está lejos de ser perfecto.
 
@@ -211,7 +211,7 @@ Nuevas traducciones completadas pero aún no impresas, inacabadas o que requiere
 
 En 10 años, se estima que estarán disponibles 27 traducciones que permitirán que el 80% de la población de Urantia tenga acceso a la revelación en su lengua materna.
 
-##III. ¿Deberíamos crear un centro de acogida espiritual y cómo hacerlo?
+## III. ¿Deberíamos crear un centro de acogida espiritual y cómo hacerlo?
 
 En Estados Unidos, la Fundación posee un edificio ubicado en 533 Diversey Parkway, Chicago Illinois. Esta gran casa de tres plantas y sótano fue un regalo de la familia Sadler. Aquí es donde la Fundación Urantia tiene sus oficinas y actividades y donde los Fideicomisarios y Asociados se reúnen 4 veces al año. Este edificio también alberga conferencias, seminarios, grupos de estudio y simposios culturales y científicos. También hay una biblioteca en el sótano.
 
@@ -256,7 +256,7 @@ Hay centros de acogida totalmente equipados con varias hectáreas de terreno que
 
 También hay abadías y claustros que se venden porque la Iglesia se desprende de muchos de sus bienes, pero estos edificios tendrán que ser restaurados y algunas personas que viven en el lugar podrían encargarse de restaurarlos.
 
-##IV. Elección del cargo ejecutivo.
+## IV. Elección del cargo ejecutivo.
 
 La asamblea vota a mano alzada y reelige el cargo ejecutivo en
 su totalidad.

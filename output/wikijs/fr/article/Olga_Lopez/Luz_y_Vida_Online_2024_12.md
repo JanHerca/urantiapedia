@@ -242,7 +242,7 @@ Quoi qu’il en soit, ce qui m’attire le plus dans ce paragraphe, c’est qu�
 
 [Lire la suite](/fr/article/Jan_Herca/Mi_parrafo_favorito)
 
-##Questionnaire Urantien
+## Questionnaire Urantien
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Julio-J.-MIranda.jpg" alt="Julio J. Miranda" width="250">

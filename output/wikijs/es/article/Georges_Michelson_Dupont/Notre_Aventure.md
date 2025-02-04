@@ -59,7 +59,7 @@ Al abordar el origen y sus desarrollos, debemos tener en un rincón de nuestra c
 
 > «_Hablamos del «primer» pensamiento de Dios y aludimos a un imposible origen del Hijo Eterno en el tiempo con el objeto de lograr acceder a los canales de pensamiento del intelecto humano. Estas deformaciones de lenguaje representan nuestros mejores esfuerzos por llegar a un compromiso que permita ponernos en contacto con la mente de las criaturas mortales atadas al tiempo. En sentido secuencial, el Padre Universal no ha podido tener nunca un primer pensamiento, ni el Hijo Eterno un principio. Pero me han ordenado describir las realidades de la eternidad a la mente de los mortales limitada por el tiempo con estos símbolos de pensamiento, y designar las relaciones de la eternidad mediante estos conceptos temporales de secuencia._» (<a id="a59_743"></a>[LU 6:0.2](/es/The_Urantia_Book/6#p0_2))
 
-##EL ORIGEN.
+## EL ORIGEN.
 
 **Maduración del Infinito-Infinititud del YO SOY**
 
@@ -329,7 +329,7 @@ Así termina la primera parte de nuestra exploración de las edades del universo
 
 
 
-##Notas
+## Notas
 
 
 [^1]: Teleología: Este término se deriva de dos palabras griegas: telos (fin, meta, diseño) y logos (razón, explicación). La teleología es el estudio de las causas finales, de la finalidad, en la filosofía analítica. Forma una especificación de finalismo con la teleonomía. Esta doctrina pretende explicar los fenómenos mediante la intervención de una causa final. Ella considera que todo tiene un final. Concibe el mundo como un sistema de relaciones, de relaciones entre medios y fines.

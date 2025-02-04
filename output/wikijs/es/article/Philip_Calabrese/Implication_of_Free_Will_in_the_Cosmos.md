@@ -316,7 +316,7 @@ El científico agnóstico tuerto se equivoca cuando insiste en que el determinis
 
 
 
-##Notas
+## Notas
 
 
 [^1]: _Surrounding Free Will_, editado por Alfred R. Mele, Oxford University Press, 2015, tiene 15 capítulos de 35 autores que cubren un amplio espectro de temas relacionados.

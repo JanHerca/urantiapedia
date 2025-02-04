@@ -212,7 +212,7 @@ Jesus' response to this supposed law of Moses - which he totally disapproved of,
 
 [Read more](/en/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
 
-##Urantian Questionnaire — Fernando Carazo
+## Urantian Questionnaire — Fernando Carazo
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_10/Fernando-Carazo.jpg" alt="Fernando Carazo" width="250">
