@@ -719,35 +719,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Flavius Josephus</text>
-							<text style="font-size:9px" x="61" y="60">Antiquities Book</text>
+							<text style="font-size:9px" x="61" y="60">The Works of</text>
+							<text style="font-size:9px" x="61" y="70">Flavius Josephus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Antiquities Book</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavius Josephus; William Whiston (tr.)</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-judean urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Flavius Josephus</text>
-							<text style="font-size:9px" x="61" y="60">Wars Book</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Wars Book</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Works of Flavius Josephus (War of the Jews, Antiquities of the Jews, Autobiography, Concerning Hades, Against Apion)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavius Josephus; William Whiston (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -765,14 +743,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Philo of Alexandria</text>
-							<text style="font-size:9px" x="61" y="60">Philo of Alexandria</text>
-							<text style="font-size:9px" x="61" y="70">Texts</text>
+							<text style="font-size:9px" x="61" y="60">The Works of</text>
+							<text style="font-size:9px" x="61" y="70">Philo of Alexandria</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Philo of Alexandria Texts</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Philo of Alexandria</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Works of Philo of Alexandria</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Philo of Alexandria; C. D. Yonge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>

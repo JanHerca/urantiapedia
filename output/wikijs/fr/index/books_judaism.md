@@ -720,39 +720,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Flavius ​​Josèphe</text>
-							<text style="font-size:9px" x="61" y="60">Livre d'Antiquités</text>
+							<text style="font-size:9px" x="61" y="60">Les oeuvres de</text>
+							<text style="font-size:9px" x="61" y="70">Flavius ​​Josèphe</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre d'Antiquités</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les oeuvres de Flavius ​​Josèphe (Guerre des Juifs, Antiquités des Juifs, Autobiographie, À propos d'Hadès, Contre Apion)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavius ​​Josèphe; William Whiston (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-judean urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Flavius ​​Josèphe</text>
-							<text style="font-size:9px" x="61" y="60">Livre des guerres</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre des guerres</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavius ​​Josèphe; William Whiston (tr.)</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -766,14 +744,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Philon d'Alexandrie</text>
-							<text style="font-size:9px" x="61" y="60">Textes de</text>
+							<text style="font-size:9px" x="61" y="60">Les oeuvres de</text>
 							<text style="font-size:9px" x="61" y="70">Philon d'Alexandrie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textes de Philon d'Alexandrie</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Philon d'Alexandrie</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les oeuvres de Philon d'Alexandrie</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Philon d'Alexandrie; C. D. Yonge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

@@ -721,40 +721,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Flavio Josefo</text>
-							<text style="font-size:9px" x="61" y="60">Antigüedades</text>
-							<text style="font-size:9px" x="61" y="70">Judías</text>
+							<text style="font-size:9px" x="61" y="60">Obra de</text>
+							<text style="font-size:9px" x="61" y="70">Flavio Josefo</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Antigüedades Judías</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obra de Flavio Josefo (Guerras judías, Antigüedades judías, Autobiografía, Acerca del Hades, Contra Apión)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavio Josefo; William Whiston (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-judean urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Flavio Josefo</text>
-							<text style="font-size:9px" x="61" y="60">La Guerra Judía</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Guerra Judía</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Flavio Josefo; William Whiston (tr.)</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -768,14 +745,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Filón de Alejandría</text>
-							<text style="font-size:9px" x="61" y="60">Textos de</text>
+							<text style="font-size:9px" x="61" y="60">Obra de</text>
 							<text style="font-size:9px" x="61" y="70">Filón de Alejandría</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textos de Filón de Alejandría</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Filón de Alejandría</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obra de Filón de Alejandría</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Filón de Alejandría; C. D. Yonge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
