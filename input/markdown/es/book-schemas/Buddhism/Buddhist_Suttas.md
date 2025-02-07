@@ -61,4 +61,4 @@ Sabbasâva Sutta: Todos los Âsavas | #
 	Traducción | Sabbasava_Sutta_Translation
 
 ## links:
-[Sacred texts website](https://sacred-texts.com/bud/sbe11/index.htm)
+[Sitio web de textos sagrados](https://sacred-texts.com/bud/sbe11/index.htm)

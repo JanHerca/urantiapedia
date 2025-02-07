@@ -47,4 +47,4 @@ Capítulo VIII. La bancarrota del pensamiento occidental | Chapter_8
 Capítulo IX. Luz del Oriente | Chapter_9
 
 ## links:
-[Sacred texts website](https://sacred-texts.com/bud/cob/index.htm)
+[Sitio web de textos sagrados](https://sacred-texts.com/bud/cob/index.htm)
