@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2025-1-14T0:1:57Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>		<text style="font-size:4px" x="61" y="125">1896</text>		<text style="font-size:9px" x="61" y="60">Le Rig-Veda </text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Le Rig-Veda </span><br><span class="text-h5">Ralph T.H. Griffith, traducteur</span><br>[1896]<br><br></p>Ceci est la traduction anglaise du Rig Veda par Ralph TH Griffith. Ce fut l'un des premiers textes électroniques développés pour ce site. Chaque page de ce document est reliée au texte sanskrit du Rig Veda. Ce texte et le Rig Veda sanskrit nécessitent tous deux la prise en charge d'Unicode par le navigateur. Si vous avez des difficultés à voir les caractères non latins dans ce texte, reportez-vous à la [page Unicode](https://archive.sacred-texts.com/unicode.htm) des Textes sacrés.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1896</text>
+		<text style="font-size:9px" x="61" y="60">Le Rig-Veda </text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Le Rig-Veda </span><br>
+<span class="text-h5">Ralph T.H. Griffith, traducteur</span><br>
+[1896]<br>
+<br>
+</p>
+
+Ceci est la traduction anglaise du Rig Veda par Ralph TH Griffith. Ce fut l'un des premiers textes électroniques développés pour ce site. Chaque page de ce document est reliée au texte sanskrit du Rig Veda. Ce texte et le Rig Veda sanskrit nécessitent tous deux la prise en charge d'Unicode par le navigateur. Si vous avez des difficultés à voir les caractères non latins dans ce texte, reportez-vous à la [page Unicode](https://archive.sacred-texts.com/unicode.htm) des Textes sacrés.
+
+
 ## Table des matières
 
 - [Rig-Veda, Livre 1](/fr/book/Hinduism/The_Rig_Veda/Book_1_Index)

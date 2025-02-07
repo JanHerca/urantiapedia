@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2025-1-15T22:56:43Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>		<text style="font-size:4px" x="61" y="125">1879</text>		<text style="font-size:9px" x="61" y="60">Los Upanishads,</text>		<text style="font-size:9px" x="61" y="70">Parte I (SBE 1)</text>	</g></svg></div><p style="text-align:center;">Los<br>Libros Sagrados de Oriente, Volumen 1<br><br><span class="text-h3">Los Upanishads, Parte I</span><br><span class="text-h5">Traducido por F. Max Müller</span><br>Oxford, la editorial Clarendon Press<br>[1879]<br>Escaneado en sacred-texts.com, 1997 y 2003, por John Bruno Hare. Este texto es de dominio público porque se publicó antes de 1923.<br>PARA<br>EL MUY HONORABLE MARQUÉS DE SALISBURY, KG.<br>RECTOR DE LA UNIVERSIDAD DE OXFORD,<br>RECIENTEMENTE SECRETARIO DE ESTADO PARA LA INDIA,<br>SIR HENRY JS MAINE, KOS.I.<br>MIEMBRO DEL CONSEJO DE LA INDIA,<br>Y<br>EL MUY REV. HG LIDDELL, DD.<br>DECANO DE LA IGLESIA DE CRISTO,<br>A CUYOS BONITOS INTERESES Y ESFUERZOS<br>ESTE INTENTO DE DARLO A CONOCER AL PUEBLO INGLES<br><br>LOS LIBROS SAGRADOS DE ORIENTE<br>ESTÁ TAN ENDEUDADO,<br>AHORA DEDICO ESTOS VOLÚMENES CON SINCERO RESPETO Y GRATITUD,<br>F. MAX MÜLLER.<br></p>Este es el primer volumen de los Libros Sagrados de Oriente y el primer texto electrónico preparado para sacred-texts.com. SBE 1 contiene la introducción a toda la serie y explica la metodología y las convenciones utilizadas en el resto de SBE. Los Upanishads traducidos aquí son Chandogya, Talavakara, Aitreya-Aranyaka, Kaushitaki-Brahmana y Vajasaneyi Samhita.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1879</text>
+		<text style="font-size:9px" x="61" y="60">Los Upanishads,</text>
+		<text style="font-size:9px" x="61" y="70">Parte I (SBE 1)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+Los<br>
+Libros Sagrados de Oriente, Volumen 1<br>
+<br>
+<span class="text-h3">Los Upanishads, Parte I</span><br>
+<span class="text-h5">Traducido por F. Max Müller</span><br>
+Oxford, la editorial Clarendon Press<br>
+[1879]<br>
+Escaneado en sacred-texts.com, 1997 y 2003, por John Bruno Hare. Este texto es de dominio público porque se publicó antes de 1923.<br>
+PARA<br>
+EL MUY HONORABLE MARQUÉS DE SALISBURY, KG.<br>
+RECTOR DE LA UNIVERSIDAD DE OXFORD,<br>
+RECIENTEMENTE SECRETARIO DE ESTADO PARA LA INDIA,<br>
+SIR HENRY JS MAINE, KOS.I.<br>
+MIEMBRO DEL CONSEJO DE LA INDIA,<br>
+Y<br>
+EL MUY REV. HG LIDDELL, DD.<br>
+DECANO DE LA IGLESIA DE CRISTO,<br>
+A CUYOS BONITOS INTERESES Y ESFUERZOS<br>
+ESTE INTENTO DE DARLO A CONOCER AL PUEBLO INGLES<br><br>
+LOS LIBROS SAGRADOS DE ORIENTE<br>
+ESTÁ TAN ENDEUDADO,<br>
+AHORA DEDICO ESTOS VOLÚMENES CON SINCERO RESPETO Y GRATITUD,<br>
+F. MAX MÜLLER.<br>
+</p>
+
+Este es el primer volumen de los Libros Sagrados de Oriente y el primer texto electrónico preparado para sacred-texts.com. SBE 1 contiene la introducción a toda la serie y explica la metodología y las convenciones utilizadas en el resto de SBE. Los Upanishads traducidos aquí son Chandogya, Talavakara, Aitreya-Aranyaka, Kaushitaki-Brahmana y Vajasaneyi Samhita.
+
+
 ## Índice
 
 - [Cita](/es/book/Hinduism/The_Upanishads_Part_I/Quote)

@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-4T22:17:56Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">The Splendour</text>		<text style="font-size:9px" x="61" y="70">of God</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Splendour of God</span><br>BEING EXTRACTS FROM THE SACRED WRITINGS OF THE BAHA'IS<br><span class="text-h5">by Eric Hammond</span><br>NEW YORK,<br>E. P. DUTTON AND COMPANY<br>[1909]<br>PRINTED BY<br>HAZELL, WATSON AND VINEY, LD.,<br>LONDON AND AYLESBURY,<br>ENGLAND.<br>Scanned, proofed and formatted at sacred-texts.com, April 2010, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-bahai">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">The Splendour</text>
+		<text style="font-size:9px" x="61" y="70">of God</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Splendour of God</span><br>
+BEING EXTRACTS FROM THE SACRED WRITINGS OF THE BAHA'IS<br>
+<span class="text-h5">by Eric Hammond</span><br>
+NEW YORK,<br>
+E. P. DUTTON AND COMPANY<br>
+[1909]<br>
+PRINTED BY<br>
+HAZELL, WATSON AND VINEY, LD.,<br>
+LONDON AND AYLESBURY,<br>
+ENGLAND.<br>
+Scanned, proofed and formatted at sacred-texts.com, April 2010, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [The Benediction of Abbas Effendi](/en/book/Bahaism/The_Splendour_of_God/The_Benediction)

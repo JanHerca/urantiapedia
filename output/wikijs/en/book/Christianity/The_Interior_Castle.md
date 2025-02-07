@@ -8,7 +8,53 @@ editor: markdown
 dateCreated: 2025-1-18T14:49:11Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">The Interior Castle</text>		<text style="font-size:9px" x="61" y="70">or,</text>		<text style="font-size:9px" x="61" y="80">The Mansions</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Interior Castle</span><br>or The Mansions<br><span class="text-h3">by St. Teresa of Avila</span><br>Translated from the Autograph of St. Teresa of Jesus by<br>The Benedictines of Stanbrook<br>Revised, with Notes and an Introduction, by the<br>Very Rev. Fr. Benedict Zimmerman, O.C.D.<br>PRIOR<br>Third Edition with Additional Notes<br>Thomas Baker, London<br>[1921]<br><br>Scanned at sacred-texts.com, November 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was originally published prior 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Interior_Castle/stteresa.jpg"></figure><br style="clear:both;"/>_El Castillo Interior_ (_The Interior Castle_) or _Las Moradas_ (_The Mansions_) was written by St. Teresa of Avila in 1577. According to contemporary accounts, St. Teresa had a revelation from God of a crystal globe in the shape of a castle containing seven mansions. This is St. Teresa's interpretation of that vision, describing the journey of faith through seven stages, ending with union with God.## NOTEIN this new edition the wording has been revised I and condensed, chiefly with a view to rendering the translation more pregnant. Only one passage (VI. Mansion, ch. v. 13) has been substantially changed, in conformity with an explanation received from a high authority. It is admittedly a very difficult passage which appears to have been misunderstood by nearly all translators; but it is gratifying to notice that the new French translation by the Carmelite nuns of Anderlecht agrees with our interpretation. The editor is under an obligation to that translation for several interesting facts embodied in the Introduction and in the notes to the text.B. Z.WINCANTON_December_ 25. 1911
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">The Interior Castle</text>
+		<text style="font-size:9px" x="61" y="70">or,</text>
+		<text style="font-size:9px" x="61" y="80">The Mansions</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Interior Castle</span><br>
+or The Mansions<br>
+<span class="text-h3">by St. Teresa of Avila</span><br>
+Translated from the Autograph of St. Teresa of Jesus by<br>
+The Benedictines of Stanbrook<br>
+Revised, with Notes and an Introduction, by the<br>
+Very Rev. Fr. Benedict Zimmerman, O.C.D.<br>
+PRIOR<br>
+Third Edition with Additional Notes<br>
+Thomas Baker, London<br>
+[1921]<br>
+<br>
+Scanned at sacred-texts.com, November 2005. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was originally published prior 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Interior_Castle/stteresa.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+_El Castillo Interior_ (_The Interior Castle_) or _Las Moradas_ (_The Mansions_) was written by St. Teresa of Avila in 1577. According to contemporary accounts, St. Teresa had a revelation from God of a crystal globe in the shape of a castle containing seven mansions. This is St. Teresa's interpretation of that vision, describing the journey of faith through seven stages, ending with union with God.
+
+## NOTE
+
+IN this new edition the wording has been revised I and condensed, chiefly with a view to rendering the translation more pregnant. Only one passage (VI. Mansion, ch. v. 13) has been substantially changed, in conformity with an explanation received from a high authority. It is admittedly a very difficult passage which appears to have been misunderstood by nearly all translators; but it is gratifying to notice that the new French translation by the Carmelite nuns of Anderlecht agrees with our interpretation. The editor is under an obligation to that translation for several interesting facts embodied in the Introduction and in the notes to the text.
+
+B. Z.
+WINCANTON
+_December_ 25. 1911
+
+
 ## Index
 
 - [Introduction](/en/book/Christianity/The_Interior_Castle/Introduction)

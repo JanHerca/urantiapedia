@@ -8,7 +8,46 @@ editor: markdown
 dateCreated: 2025-1-14T22:24:17Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Swami Vijnanananda</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">The S'rimad Devî</text>		<text style="font-size:9px" x="61" y="70">Bhâgawatam</text>	</g></svg></div><p style="text-align:center;">The<br>Sacred Books of the East, Volume 1<br><br><span class="text-h3">The S'rimad Devî Bhâgawatam</span><br><span class="text-h5">Translated by Swami Vijñanananda</span><br>Part I & II<br>[1921-22]<br>NOTICE OF ATTRIBUTIONScanned, and proofed by Sahaji, 2004-5. Additional formatting at sacred-texts.com. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br>Inscribed<br>To<br>The sacred memory<br>Of<br>Rai Bahadur Srisa Chandra Vidayarnava<br>By<br>the translator<br>Swami Vijñanananda<br></p>## FOREWORDWhat is S’rîmad Bhâgavat is to the Vaisnavas, the Devî Bhâgavatam is to the S’âktas. The question of the priority of the two Bhâgavatas has been often discussed more in the spirit of partisans rather than that of sober scholars. We reserve our opinion on the subject till the publication of the complete translation of this work.This translation has been inscribed to the sacred memory of my friend the late Râi Bâhâdur S’rîs’ Chandra Vidyârnava who induced me to undertake the translation of this work. He had thoroughly read the two Bhâgavatas and it was his opinion that the priority of composition belonged to the Devî Bhâgavatam. The other Bhâgavat, according to him, is a modern compilation attributed to Bopadeva – the author of Mugdhabodha Vyâkaranam.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Swami Vijnanananda</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">The S'rimad Devî</text>
+		<text style="font-size:9px" x="61" y="70">Bhâgawatam</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The<br>
+Sacred Books of the East, Volume 1<br>
+<br>
+<span class="text-h3">The S'rimad Devî Bhâgawatam</span><br>
+<span class="text-h5">Translated by Swami Vijñanananda</span><br>
+Part I & II<br>
+[1921-22]<br>
+NOTICE OF ATTRIBUTION
+Scanned, and proofed by Sahaji, 2004-5. Additional formatting at sacred-texts.com. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br>
+Inscribed<br>
+To<br>
+The sacred memory<br>
+Of<br>
+Rai Bahadur Srisa Chandra Vidayarnava<br>
+By<br>
+the translator<br>
+Swami Vijñanananda<br>
+</p>
+
+## FOREWORD
+
+What is S’rîmad Bhâgavat is to the Vaisnavas, the Devî Bhâgavatam is to the S’âktas. The question of the priority of the two Bhâgavatas has been often discussed more in the spirit of partisans rather than that of sober scholars. We reserve our opinion on the subject till the publication of the complete translation of this work.
+
+This translation has been inscribed to the sacred memory of my friend the late Râi Bâhâdur S’rîs’ Chandra Vidyârnava who induced me to undertake the translation of this work. He had thoroughly read the two Bhâgavatas and it was his opinion that the priority of composition belonged to the Devî Bhâgavatam. The other Bhâgavat, according to him, is a modern compilation attributed to Bopadeva – the author of Mugdhabodha Vyâkaranam.
+
+
 ## Index
 
 - The First Book

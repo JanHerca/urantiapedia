@@ -8,7 +8,55 @@ editor: markdown
 dateCreated: 2025-2-7T10:40:34Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Joseph Barclay</text>		<text style="font-size:4px" x="61" y="125">1878</text>		<text style="font-size:9px" x="61" y="60">El Talmud</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">EL TALMUD</span><br><span class="text-h5">POR JOSEPH BARCLAY, LL.D.</span><br>RECTOR DE STAPLEFORD, HERTS<br>ועשו םיג לתורה׃<br>(Aboth. i. 1.)<br><br>CON ILUSTRACIONES Y PLANO DEL TEMPLO<br>Londres<br>JOHN MURRAY, ALBEMARLE STREET<br>[1878]<br>Escaneado, corregido y formateado en sacred-texts.com por John Bruno Hare, abril de 2008. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br><br>Impreso por R. & R. Clark, Edimburgo.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/The_Talmud/front.jpg"></figure><br style="clear:both;"/>_...Las decisiones sobre el sábado, los sacrificios de paz y las transgresiones son como montañas que cuelgan de un cabello; porque el versículo es pequeño pero las decisiones son muchas. La jurisprudencia y el servicio del Templo, la pureza y la impureza y las conexiones ilegales tienen sus propios fundamentos; ellos, ellos son el cuerpo de la ley._—Ofrendas Festivas, I, 8 ([p. 170](https://sacred-texts.com/jud/bar/bar070.htm#page_170)).Esta es una de las primeras traducciones abreviadas importantes del Talmud, publicada en la segunda mitad del siglo XIX. Barclay, un cristiano comprensivo, afirma en el prefacio que estudió el Talmud con rabinos eruditos durante una residencia de diez años en Tierra Santa.La tarea de traducir el Talmud, que ocupa más espacio en los estantes que la Britannica, sería abrumadora y probablemente esté más allá de lo que una persona es capaz de hacer en toda su vida. Por eso, los primeros traductores en solitario, como Barclay, tuvieron que priorizar. Mientras que [Rodkinson](https://sacred-texts.com/jud/talmud.htm) tradujo la totalidad de las secciones de Festivales y Jurisprudencia del Talmud, incluido el comentario, Barclay adoptó un enfoque más representativo. Tradujo la Mishná (texto primario) de diecisiete tratados a lo largo de todo el Talmud, así como un comentario sobre el Tabernáculo. Esto incluye una serie de tratados que no están en la traducción de Rodkinson, específicamente, Bendiciones, Año sabático, Sacrificio diario, Medidas, Lepra y Manos. Otros, en particular Padres y Sanedrín, también están disponibles en múltiples traducciones en sacred-texts. La característica final de este libro es un plano detallado del complejo del Templo (https://sacred-texts.com/jud/bar/bar154.htm) con extensas notas arquitectónicas.Barclay hace una traducción directa de cada texto y reserva sus opiniones personales en unas pocas notas a pie de página. Se trata de una traducción del Talmud moderno significativa y significativa, que ha sido citada muchas veces en otras obras, aunque rara vez se la ve.NOTAS DE PRODUCCIÓN: Obtuve una copia usada _ex-libris_ de este libro que estuvo fuera de catálogo durante mucho tiempo, pero el papel se había vuelto tan quebradizo que literalmente se estaba deshaciendo mientras lo escaneaba. Solo desencuaderno libros como último recurso, pero en este caso no había otra opción. Tuve que quitar con cuidado cada página de la encuadernación, usando una regla y un cúter, y colocarla en el escáner a mano. Esto agregó una cantidad sustancial de tiempo al proyecto. —J.B. Hare, 8 de abril de 2008.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Joseph Barclay</text>
+		<text style="font-size:4px" x="61" y="125">1878</text>
+		<text style="font-size:9px" x="61" y="60">El Talmud</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">EL TALMUD</span><br>
+<span class="text-h5">POR JOSEPH BARCLAY, LL.D.</span><br>
+RECTOR DE STAPLEFORD, HERTS<br>
+ועשו םיג לתורה׃<br>
+(Aboth. i. 1.)<br>
+<br>
+CON ILUSTRACIONES Y PLANO DEL TEMPLO<br>
+Londres<br>
+JOHN MURRAY, ALBEMARLE STREET<br>
+[1878]<br>
+Escaneado, corregido y formateado en sacred-texts.com por John Bruno Hare, abril de 2008. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
+<br>
+Impreso por R. & R. Clark, Edimburgo.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/The_Talmud/front.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+_...Las decisiones sobre el sábado, los sacrificios de paz y las transgresiones son como montañas que cuelgan de un cabello; porque el versículo es pequeño pero las decisiones son muchas. La jurisprudencia y el servicio del Templo, la pureza y la impureza y las conexiones ilegales tienen sus propios fundamentos; ellos, ellos son el cuerpo de la ley._—Ofrendas Festivas, I, 8 ([p. 170](https://sacred-texts.com/jud/bar/bar070.htm#page_170)).
+
+Esta es una de las primeras traducciones abreviadas importantes del Talmud, publicada en la segunda mitad del siglo XIX. Barclay, un cristiano comprensivo, afirma en el prefacio que estudió el Talmud con rabinos eruditos durante una residencia de diez años en Tierra Santa.
+
+La tarea de traducir el Talmud, que ocupa más espacio en los estantes que la Britannica, sería abrumadora y probablemente esté más allá de lo que una persona es capaz de hacer en toda su vida. Por eso, los primeros traductores en solitario, como Barclay, tuvieron que priorizar. Mientras que [Rodkinson](https://sacred-texts.com/jud/talmud.htm) tradujo la totalidad de las secciones de Festivales y Jurisprudencia del Talmud, incluido el comentario, Barclay adoptó un enfoque más representativo. Tradujo la Mishná (texto primario) de diecisiete tratados a lo largo de todo el Talmud, así como un comentario sobre el Tabernáculo. Esto incluye una serie de tratados que no están en la traducción de Rodkinson, específicamente, Bendiciones, Año sabático, Sacrificio diario, Medidas, Lepra y Manos. Otros, en particular Padres y Sanedrín, también están disponibles en múltiples traducciones en sacred-texts. La característica final de este libro es un plano detallado del complejo del Templo (https://sacred-texts.com/jud/bar/bar154.htm) con extensas notas arquitectónicas.
+
+Barclay hace una traducción directa de cada texto y reserva sus opiniones personales en unas pocas notas a pie de página. Se trata de una traducción del Talmud moderno significativa y significativa, que ha sido citada muchas veces en otras obras, aunque rara vez se la ve.
+
+NOTAS DE PRODUCCIÓN: Obtuve una copia usada _ex-libris_ de este libro que estuvo fuera de catálogo durante mucho tiempo, pero el papel se había vuelto tan quebradizo que literalmente se estaba deshaciendo mientras lo escaneaba. Solo desencuaderno libros como último recurso, pero en este caso no había otra opción. Tuve que quitar con cuidado cada página de la encuadernación, usando una regla y un cúter, y colocarla en el escáner a mano. Esto agregó una cantidad sustancial de tiempo al proyecto. —J.B. Hare, 8 de abril de 2008.
+
+
+
 ## Índice
 
 - [Prefacio](/es/book/Judaism/The_Talmud/Preface)

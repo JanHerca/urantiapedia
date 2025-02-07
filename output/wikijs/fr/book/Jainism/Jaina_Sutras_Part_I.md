@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2025-1-12T19:28:7Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:4px" x="61" y="125">1884</text>		<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>		<text style="font-size:9px" x="61" y="70">Partie I</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Sutras jaïns, Partie I</span><br><span class="text-h5">par Hermann Jacobi</span><br>en deux parties<br>Partie I<br><b>Le Âkârâṅga Sûtra</b><br><b>Le Kalpa Sûtra</b><br>Oxford : The Clarendon Press<br><br>Sacred Books of the East, Vol. 22<br><br>[1884]<br><br>Numérisé, corrigé et formaté sur sacred-texts.com, juin-juillet 2006, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.</p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Jainism/Jaina_Sutras_Part_I/mahavira.jpg"><figcaption>La consécration de Mahavira, [1404], du manuscrit gujerati du Kalpa Sutra (domaine public aux États-Unis par Bridgeman vs. Corel).</figcaption></figure><br style="clear:both;"/>Il s'agit du volume 22 des Livres sacrés de l'Orient, première partie de la traduction d'Hermann Jacobi des Jaina Sutras. Ce volume comprend les Akaranga Sutras et les Kalpa Sutras, deux des textes sacrés jaïns les plus importants.Le Akaranga Sutra décrit les règles pour les moines jaïns. Il décrit notamment les mesures que les moines doivent prendre pour éviter de nuire aux autres êtres vivants, y compris aux formes de vie microscopiques qui, selon les anciens jaïns, imprégnaient l'univers. Le sutra Kalpa contient une biographie du fondateur du jaïnisme, Mahavira,ainsi que d'autres fondateurs de la religion, et une liste des dirigeants jaïns successifs.Comme c'est la pratique sur ce site, la typographie de l'original a été préservée autant que possible. Cela signifie que l'italique est utilisée pour indiquer les distinctions entre les consonnes en sanskrit translittéré et en prakrit. Le système utilisé est documenté dans les [tableaux joints à la page des Livres sacrés de l'Orient](https://archive.sacred-texts.com/sbe/index.htm#conventions). Plus particulièrement dans ce système, le « j » (approximativement le son initial du mot anglais « jam ») s'écrit _g_, d'où l'orthographe _G_ain tout au long du texte, qui se prononce « Jain ». Ce livre est normalement cité sous le nom de « Jaina Sutras » dans les publications et bibliographies modernes.
+<div class="urantiapedia-book-front urantiapedia-book-jain">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:4px" x="61" y="125">1884</text>
+		<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
+		<text style="font-size:9px" x="61" y="70">Partie I</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Sutras jaïns, Partie I</span><br>
+<span class="text-h5">par Hermann Jacobi</span><br>
+en deux parties<br>
+Partie I<br>
+<b>Le Âkârâṅga Sûtra</b><br>
+<b>Le Kalpa Sûtra</b><br>
+Oxford : The Clarendon Press<br>
+<br>
+Sacred Books of the East, Vol. 22<br>
+<br>
+[1884]<br>
+<br>
+Numérisé, corrigé et formaté sur sacred-texts.com, juin-juillet 2006, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Jainism/Jaina_Sutras_Part_I/mahavira.jpg">
+<figcaption>La consécration de Mahavira, [1404], du manuscrit gujerati du Kalpa Sutra (domaine public aux États-Unis par Bridgeman vs. Corel).</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+Il s'agit du volume 22 des Livres sacrés de l'Orient, première partie de la traduction d'Hermann Jacobi des Jaina Sutras. Ce volume comprend les Akaranga Sutras et les Kalpa Sutras, deux des textes sacrés jaïns les plus importants.
+
+Le Akaranga Sutra décrit les règles pour les moines jaïns. Il décrit notamment les mesures que les moines doivent prendre pour éviter de nuire aux autres êtres vivants, y compris aux formes de vie microscopiques qui, selon les anciens jaïns, imprégnaient l'univers. Le sutra Kalpa contient une biographie du fondateur du jaïnisme, Mahavira,ainsi que d'autres fondateurs de la religion, et une liste des dirigeants jaïns successifs.
+
+Comme c'est la pratique sur ce site, la typographie de l'original a été préservée autant que possible. Cela signifie que l'italique est utilisée pour indiquer les distinctions entre les consonnes en sanskrit translittéré et en prakrit. Le système utilisé est documenté dans les [tableaux joints à la page des Livres sacrés de l'Orient](https://archive.sacred-texts.com/sbe/index.htm#conventions). Plus particulièrement dans ce système, le « j » (approximativement le son initial du mot anglais « jam ») s'écrit _g_, d'où l'orthographe _G_ain tout au long du texte, qui se prononce « Jain ». Ce livre est normalement cité sous le nom de « Jaina Sutras » dans les publications et bibliographies modernes.
+
+
 ## Table des matières
 
 - [Introduction](/fr/book/Jainism/Jaina_Sutras_Part_I/Introduction)

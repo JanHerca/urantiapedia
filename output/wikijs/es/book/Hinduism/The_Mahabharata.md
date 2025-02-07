@@ -8,7 +8,39 @@ editor: markdown
 dateCreated: 2025-1-15T22:56:14Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Mahabharata</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">El Mahabharata</span><br>de Krishna-Dwaipayana Vyasa<br><span class="text-h5">traducido por Kisari Mohan Ganguli</span><br><br>[publicado entre 1883 y 1896]<br></p>La traducción al inglés Ganguli del Mahabharata es la única completa de dominio público. Los libros 1 a 4 fueron revisados ​​en Distributed Proofing (Juliet Sutherland, gerente de proyecto), a partir de imágenes de páginas escaneadas en sagrado-texts.com. Los libros 5-7 y 12-15 fueron escaneados y revisados ​​en sagrado-textos.com por John Bruno Hare. Los libros 8-11 y 16-18 fueron escaneados y revisados ​​por Mantra Caitanya.## ErratasLos siguientes errores han sido corregidos o anotados en la versión HTML; la versión de texto no ha sido modificada en este momento, así que tenga en cuenta la siguiente errata. La mayoría de estos fueron errores en la edición publicada que utilizamos para construir el texto electrónico (el texto copiado).- Libro 1. La sección CLXXVII deberá ser CLXXVI y viceversa. Esto fue un error en el texto copiado.- Libro 2. La sección LXVII debe insertarse en «Bhima dijo: Oh Yudhishthira, jugadores...» Esto fue un error de transcripción.- Libro 7. El texto copiado omite los saltos de sección para LIV, LV y CLXXXIX. Creemos que no falta ningún texto real en estos puntos, solo los saltos de sección, ya que (por ejemplo) CLXXXIX aparece en el encabezado de la página en el texto copiado.- Libro 13. Hay dos secciones denominadas CLXVIII. El primero debería ser CLXIII. Esto fue un error en el texto copiado.- Libro 14. (Solo versión HTML) El título HTML de LXXVII se ingresó incorrectamente como LXVIII. Esto fue un error de formato.— 26 de febrero de 2006
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Mahabharata</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">El Mahabharata</span><br>
+de Krishna-Dwaipayana Vyasa<br>
+<span class="text-h5">traducido por Kisari Mohan Ganguli</span><br>
+<br>
+[publicado entre 1883 y 1896]<br>
+</p>
+
+La traducción al inglés Ganguli del Mahabharata es la única completa de dominio público. Los libros 1 a 4 fueron revisados ​​en Distributed Proofing (Juliet Sutherland, gerente de proyecto), a partir de imágenes de páginas escaneadas en sagrado-texts.com. Los libros 5-7 y 12-15 fueron escaneados y revisados ​​en sagrado-textos.com por John Bruno Hare. Los libros 8-11 y 16-18 fueron escaneados y revisados ​​por Mantra Caitanya.
+
+## Erratas
+
+Los siguientes errores han sido corregidos o anotados en la versión HTML; la versión de texto no ha sido modificada en este momento, así que tenga en cuenta la siguiente errata. La mayoría de estos fueron errores en la edición publicada que utilizamos para construir el texto electrónico (el texto copiado).
+
+- Libro 1. La sección CLXXVII deberá ser CLXXVI y viceversa. Esto fue un error en el texto copiado.
+- Libro 2. La sección LXVII debe insertarse en «Bhima dijo: Oh Yudhishthira, jugadores...» Esto fue un error de transcripción.
+- Libro 7. El texto copiado omite los saltos de sección para LIV, LV y CLXXXIX. Creemos que no falta ningún texto real en estos puntos, solo los saltos de sección, ya que (por ejemplo) CLXXXIX aparece en el encabezado de la página en el texto copiado.
+- Libro 13. Hay dos secciones denominadas CLXVIII. El primero debería ser CLXIII. Esto fue un error en el texto copiado.
+- Libro 14. (Solo versión HTML) El título HTML de LXXVII se ingresó incorrectamente como LXVIII. Esto fue un error de formato.
+
+— 26 de febrero de 2006
+
+
 ## Índice
 
 - Libro 1: Adi Parva

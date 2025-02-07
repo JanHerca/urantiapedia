@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-18T19:34:13Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Pistis Sophia</span><br>UN MIX GNOSTIQUE : ÉTANT POUR LA MAJORITÉ DES EXTRAITS DES LIVRES DU SAUVEUR, AUXQUELS SONT AJOUTÉS DES EXTRAITS D'UNE LITTÉRATURE APPARENTÉE ; ANGLAIS<br><span class="text-h5">Par G.R.S. Mead.</span><br><br>Londres : J.M. Watkins<br>[1921]<br>Données biographiques : G.R.S. (George Robert Stow) Mead [1863-1933]<br><br>Numérisé, corrigé et mis en forme sur sacred-texts.com, juin 2005, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg"><figcaption>Invocation, par Lord Frederick Leighton [1889] (Image du domaine public)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Pistis Sophia</span><br>
+UN MIX GNOSTIQUE : ÉTANT POUR LA MAJORITÉ DES EXTRAITS DES LIVRES DU SAUVEUR, AUXQUELS SONT AJOUTÉS DES EXTRAITS D'UNE LITTÉRATURE APPARENTÉE ; ANGLAIS<br>
+<span class="text-h5">Par G.R.S. Mead.</span><br>
+<br>
+Londres : J.M. Watkins<br>
+[1921]<br>
+Données biographiques : G.R.S. (George Robert Stow) Mead [1863-1933]<br>
+<br>
+Numérisé, corrigé et mis en forme sur sacred-texts.com, juin 2005, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg">
+<figcaption>Invocation, par Lord Frederick Leighton [1889] (Image du domaine public)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Table des matières
 
 - [Préface](/fr/book/Christianity/Pistis_Sophia/Preface)

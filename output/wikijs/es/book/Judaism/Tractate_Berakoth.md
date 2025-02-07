@@ -8,7 +8,54 @@ editor: markdown
 dateCreated: 2025-2-7T10:40:56Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Tratado Berakoth</text>	</g></svg></div><p style="text-align:center;">TRADUCCIONES DE DOCUMENTOS ANTIGUOS<br>SERIE III<br>TEXTOS RABÍNICOS<br>EDITORES GENERALES:<br>W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>TRATADO BERAKOTH<br><span class="text-h3">TRATADO BERAKOTH</span><br>(BENDICIONES)<br>MISHNA Y TOSEPHTA<br>TRADUCIDO DEL HEBREO CON INTRODUCCIÓN Y NOTAS<br>POR<br><span class="text-h5">A. LUKYN WILLIAMS, D.D.</span><br>HONORABLE CANÓNIGO DE LA CATEDRAL DE ELY<br>Londres<br>SOCIEDAD PARA LA PROMOCIÓN<br>DEL CONOCIMIENTO CRISTIANO<br>AVENIDA NORTHUMBERLAND, W.C.<br>NUEVA YORK: THE MACMILLAN COMPANY<br>[1921]<br>Escaneado en sacred—texts.com, noviembre de 2006. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que este aviso de atribución se deje intacto en todas las copias.<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg"></figure><br style="clear:both;"/><br>Se trata de una traducción del Tratado Berakoth, una parte de la Mishná que trata sobre la oración: específicamente cuándo, dónde y cómo orar. Incluye la Mishná y el comentario de Tosephta. Esta traducción fue realizada por un erudito cristiano a principios del siglo XX. Si bien Williams no duda en hacer referencia a textos cristianos, su principal interés es la forma en que las reglas expresadas en esta Mishná influyeron en los primeros cristianos, no en plantear un punto sectario. Esto agrega cierto interés comparativo. Además, el amplio aparato académico aumenta el valor de esta edición, la única traducción completa de dominio público de esta parte de la Mishná.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Tratado Berakoth</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+TRADUCCIONES DE DOCUMENTOS ANTIGUOS<br>
+SERIE III<br>
+TEXTOS RABÍNICOS<br>
+EDITORES GENERALES:<br>
+W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>
+TRATADO BERAKOTH<br>
+<span class="text-h3">TRATADO BERAKOTH</span><br>
+(BENDICIONES)<br>
+MISHNA Y TOSEPHTA<br>
+TRADUCIDO DEL HEBREO CON INTRODUCCIÓN Y NOTAS<br>
+POR<br>
+<span class="text-h5">A. LUKYN WILLIAMS, D.D.</span><br>
+HONORABLE CANÓNIGO DE LA CATEDRAL DE ELY<br>
+Londres<br>
+SOCIEDAD PARA LA PROMOCIÓN<br>
+DEL CONOCIMIENTO CRISTIANO<br>
+AVENIDA NORTHUMBERLAND, W.C.<br>
+NUEVA YORK: THE MACMILLAN COMPANY<br>
+[1921]<br>
+Escaneado en sacred—texts.com, noviembre de 2006. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes del 1 de enero de 1923. Estos archivos pueden usarse para cualquier propósito no comercial, siempre que este aviso de atribución se deje intacto en todas las copias.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+<br>
+
+Se trata de una traducción del Tratado Berakoth, una parte de la Mishná que trata sobre la oración: específicamente cuándo, dónde y cómo orar. Incluye la Mishná y el comentario de Tosephta. Esta traducción fue realizada por un erudito cristiano a principios del siglo XX. Si bien Williams no duda en hacer referencia a textos cristianos, su principal interés es la forma en que las reglas expresadas en esta Mishná influyeron en los primeros cristianos, no en plantear un punto sectario. Esto agrega cierto interés comparativo. Además, el amplio aparato académico aumenta el valor de esta edición, la única traducción completa de dominio público de esta parte de la Mishná.
+
+
+
 ## Índice
 
 - [Prefacio del editor](/es/book/Judaism/Tractate_Berakoth/Editors_Preface)

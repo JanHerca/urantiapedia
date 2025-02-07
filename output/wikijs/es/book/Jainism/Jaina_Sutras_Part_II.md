@@ -8,7 +8,46 @@ editor: markdown
 dateCreated: 2025-1-12T19:57:49Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:4px" x="61" y="125">1884</text>		<text style="font-size:9px" x="61" y="60">Sutras jainistas</text>		<text style="font-size:9px" x="61" y="70">Parte II</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Sutras jainistas, Parte II</span><br><span class="text-h5">por Hermann Jacobi</span><br>en dos partes<br>Parte II<br><b>El Uttarâdhyayana Sûtra</b><br><b>El Sûtra Sûtrakritâṅga</b><br>Oxford: The Clarendon Press<br><br>Libros sagrados de Oriente, vol. 45<br><br>[1895]<br><br>Escaneado, corregido y formateado en sacred-texts.com, junio-julio de 2006, por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.</p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Jainism/Jaina_Sutras_Part_II/jain.jpg"><figcaption>Arte decorativo jainista medieval [Imagen de dominio público]</figcaption></figure><br style="clear:both;"/>Este es el volumen 45 de los Libros Sagrados de Oriente, segunda parte de la traducción de Hermann Jacobi de los Sutras jainistas.Como es habitual en este sitio, se ha conservado la tipografía del original en la medida de lo posible. Esto significa que se utilizan cursivas para indicar distinciones entre consonantes en sánscrito transliterado y prakrit. El sistema utilizado está documentado en los [cuadros adjuntos a la página de Libros Sagrados de Oriente](https://archive.sacred-texts.com/sbe/index.htm#conventions).En este sistema, lo más notable es que la «j» (aproximadamente, el sonido inicial de la palabra inglesa «jam») se escribe _g_, de ahí la ortografía _G_ain, que se pronuncia «Jain». Este libro normalmente se cita como «Sutras jainistas» en publicaciones y bibliografías modernas.
+<div class="urantiapedia-book-front urantiapedia-book-jain">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:4px" x="61" y="125">1884</text>
+		<text style="font-size:9px" x="61" y="60">Sutras jainistas</text>
+		<text style="font-size:9px" x="61" y="70">Parte II</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Sutras jainistas, Parte II</span><br>
+<span class="text-h5">por Hermann Jacobi</span><br>
+en dos partes<br>
+Parte II<br>
+<b>El Uttarâdhyayana Sûtra</b><br>
+<b>El Sûtra Sûtrakritâṅga</b><br>
+Oxford: The Clarendon Press<br>
+<br>
+Libros sagrados de Oriente, vol. 45<br>
+<br>
+[1895]<br>
+<br>
+Escaneado, corregido y formateado en sacred-texts.com, junio-julio de 2006, por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Jainism/Jaina_Sutras_Part_II/jain.jpg">
+<figcaption>Arte decorativo jainista medieval [Imagen de dominio público]</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+Este es el volumen 45 de los Libros Sagrados de Oriente, segunda parte de la traducción de Hermann Jacobi de los Sutras jainistas.
+
+Como es habitual en este sitio, se ha conservado la tipografía del original en la medida de lo posible. Esto significa que se utilizan cursivas para indicar distinciones entre consonantes en sánscrito transliterado y prakrit. El sistema utilizado está documentado en los [cuadros adjuntos a la página de Libros Sagrados de Oriente](https://archive.sacred-texts.com/sbe/index.htm#conventions).En este sistema, lo más notable es que la «j» (aproximadamente, el sonido inicial de la palabra inglesa «jam») se escribe _g_, de ahí la ortografía _G_ain, que se pronuncia «Jain». Este libro normalmente se cita como «Sutras jainistas» en publicaciones y bibliografías modernas.
+
+
 ## Índice
 
 - [Introducción](/es/book/Jainism/Jaina_Sutras_Part_II/Introduction)

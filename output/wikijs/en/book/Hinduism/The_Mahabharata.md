@@ -8,7 +8,39 @@ editor: markdown
 dateCreated: 2025-1-15T21:2:10Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Mahabharata</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Mahabharata</span><br>of Krishna-Dwaipayana Vyasa<br><span class="text-h5">translated by Kisari Mohan Ganguli</span><br><br>[published between 1883 and 1896]<br></p>The Ganguli English translation of the Mahabharata is the only complete one in the public domain. Books 1-4 were proofed at Distributed Proofing (Juliet Sutherland, Project Manager), from page images scanned at sacred-texts.com. Books 5-7 and 12-15 were scanned and proofed at sacred-texts.com by John Bruno Hare. Books 8-11 and 16-18 were scanned and proofed by Mantra Caitanya.## ErrataThe following errors have been corrected or noted in the HTML version; the text version has not been altered at this time, so please note the following errata. Most of these were errors in the published edition which we used to construct the etext (the copytext).- Book 1. Section CLXXVII should be CLXXVI and vice versa. This was an error in the copytext.- Book 2. Section LXVII should be inserted at "Bhima said, 'O Yudhishthira, gamblers..." This was a transcription error.- Book 7. The copytext omitted section breaks for LIV, LV and CLXXXIX. We believe that no actual text is missing at these points, just the section breaks, since (e.g.) CLXXXIX shows up in the page header in the copytext.- Book 13. There are two sections labelled CLXVIII. The first one should be CLXIII. This was an error in the copytext.- Book 14. (HTML version only) The HTML title of LXXVII was incorrectly entered as LXVIII. This was a formatting error.— February 26th, 2006
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Mahabharata</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Mahabharata</span><br>
+of Krishna-Dwaipayana Vyasa<br>
+<span class="text-h5">translated by Kisari Mohan Ganguli</span><br>
+<br>
+[published between 1883 and 1896]<br>
+</p>
+
+The Ganguli English translation of the Mahabharata is the only complete one in the public domain. Books 1-4 were proofed at Distributed Proofing (Juliet Sutherland, Project Manager), from page images scanned at sacred-texts.com. Books 5-7 and 12-15 were scanned and proofed at sacred-texts.com by John Bruno Hare. Books 8-11 and 16-18 were scanned and proofed by Mantra Caitanya.
+
+## Errata
+
+The following errors have been corrected or noted in the HTML version; the text version has not been altered at this time, so please note the following errata. Most of these were errors in the published edition which we used to construct the etext (the copytext).
+
+- Book 1. Section CLXXVII should be CLXXVI and vice versa. This was an error in the copytext.
+- Book 2. Section LXVII should be inserted at "Bhima said, 'O Yudhishthira, gamblers..." This was a transcription error.
+- Book 7. The copytext omitted section breaks for LIV, LV and CLXXXIX. We believe that no actual text is missing at these points, just the section breaks, since (e.g.) CLXXXIX shows up in the page header in the copytext.
+- Book 13. There are two sections labelled CLXVIII. The first one should be CLXIII. This was an error in the copytext.
+- Book 14. (HTML version only) The HTML title of LXXVII was incorrectly entered as LXVIII. This was a formatting error.
+
+— February 26th, 2006
+
+
 ## Index
 
 - Book 1: Adi Parva

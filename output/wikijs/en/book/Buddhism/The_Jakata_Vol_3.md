@@ -8,7 +8,58 @@ editor: markdown
 dateCreated: 2025-2-5T20:16:56Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">H.T. Francis; R.A. Neil; E.B. Cowell</text>		<text style="font-size:4px" x="61" y="125">1897</text>		<text style="font-size:9px" x="61" y="60">The Jataka (Vol. III)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Jataka</span><br>OR<br>STORIES OF THE BUDDHA'S FORMER BIRTHS.<br>TRANSLATED FROM THE PĀLI BY VARIOUS HANDS<br>UNDER THE EDITORSHIP OF<br><span class="text-h5">PROFESSOR E. B. COWELL</span><br>VOL. III.<br>TRANSLATED BY<br><span class="text-h5">H. T. FRANCIS, M.A.,</span><br>LATE FELLOW OF GONVILLE AND CAIDS COLLEGE,<br>AND<br><span class="text-h5">R. A. NEIL, M.A.,</span><br>FELLOW OF PEMBROKE COLLEGE.<br>LONDON<br>PUBLISHED FOR THE PALI TEXT SOCIETY<br>BY<br>LUZAC & COMPANY, LTD.<br>46 GREAT RUSSELL STREET, W.C. 1<br>[1897]<br>Scanned, proofed and formatted at sacred-texts.com, January, 2006, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Jakata_Vol_3/budhead.jpg"></figure><br style="clear:both;"/>## PREFACE.This volume of translation corresponds to the third volume of the text, and the translators, Mr. H. T. Francis, and Mr. R. A. Neil, have endeavoured to keep up an uniformity with the plan adopted in the two former volumes. Mr. Francis is responsible for pp. 1-150 and p. 287 to the end, Mr. Neil for pp. 151-286. The Secretary of State for India has kindly given permission to illustrate one of the stories in this volume also from the Bhārhut Stūpa.The two translators of this volume cannot allow the book to appear without expressing their gratitude to Professor Cowell for his constant help and supervision and for his kindness in compiling the index.
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">H.T. Francis; R.A. Neil; E.B. Cowell</text>
+		<text style="font-size:4px" x="61" y="125">1897</text>
+		<text style="font-size:9px" x="61" y="60">The Jataka (Vol. III)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Jataka</span><br>
+OR<br>
+STORIES OF THE BUDDHA'S FORMER BIRTHS.<br>
+TRANSLATED FROM THE PĀLI BY VARIOUS HANDS<br>
+UNDER THE EDITORSHIP OF<br>
+<span class="text-h5">PROFESSOR E. B. COWELL</span><br>
+VOL. III.<br>
+TRANSLATED BY<br>
+<span class="text-h5">H. T. FRANCIS, M.A.,</span><br>
+LATE FELLOW OF GONVILLE AND CAIDS COLLEGE,<br>
+AND<br>
+<span class="text-h5">R. A. NEIL, M.A.,</span><br>
+FELLOW OF PEMBROKE COLLEGE.<br>
+LONDON<br>
+PUBLISHED FOR THE PALI TEXT SOCIETY<br>
+BY<br>
+LUZAC & COMPANY, LTD.<br>
+46 GREAT RUSSELL STREET, W.C. 1<br>
+[1897]<br>
+Scanned, proofed and formatted at sacred-texts.com, January, 2006, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Jakata_Vol_3/budhead.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+## PREFACE.
+
+This volume of translation corresponds to the third volume of the text, and the translators, Mr. H. T. Francis, and Mr. R. A. Neil, have endeavoured to keep up an uniformity with the plan adopted in the two former volumes. Mr. Francis is responsible for pp. 1-150 and p. 287 to the end, Mr. Neil for pp. 151-286. The Secretary of State for India has kindly given permission to illustrate one of the stories in this volume also from the Bhārhut Stūpa.
+
+The two translators of this volume cannot allow the book to appear without expressing their gratitude to Professor Cowell for his constant help and supervision and for his kindness in compiling the index.
+
+
+
 ## Index
 
 - [Table of Contents](/en/book/Buddhism/The_Jakata_Vol_3/Table_of_Contents)

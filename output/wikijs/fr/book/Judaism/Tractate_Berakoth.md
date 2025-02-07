@@ -8,7 +8,54 @@ editor: markdown
 dateCreated: 2025-2-7T10:45:23Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Traité Berakoth</text>	</g></svg></div><p style="text-align:center;">TRADUCTIONS DE DOCUMENTS ANCIENS<br>SÉRIE III<br>TEXTES RABBINIQUES<br>RÉDACTEURS GÉNÉRAUX :<br>W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>TRAITÉ BERAKOTH<br><span class="text-h3">TRAITÉ BERAKOTH</span><br>(BÉNÉDICTIONS)<br>MISHNA ET TOSEPHTA<br>TRADUIT DE L'HÉBREU AVEC INTRODUCTION ET NOTES<br>PAR<br><span class="text-h5">A. LUKYN WILLIAMS, docteur en théologie</span><br>HONORABLE CHANOINE DE LA CATHÉDRALE D'ELY<br>LONDRES<br>SOCIÉTÉ POUR LA PROMOTION<br>CONNAISSANCE CHRÉTIENNE<br>AVENUE NORTHUMBERLAND, W.C.<br>NEW YORK : LA SOCIÉTÉ MACMILLAN<br>[1921]<br>Numérisé sur sacred-texts.com, novembre 2006. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant le 1er janvier 1923. Ces fichiers peuvent être utilisés à des fins non commerciales, à condition que cette mention d'attribution soit laissée intacte dans toutes les copies.<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg"></figure><br style="clear:both;"/><br>Il s'agit d'une traduction du traité Berakoth, une partie de la Mishna qui traite de la prière : plus précisément quand, où et comment prier. Elle comprend la Mishna et le commentaire de Tosephta. Cette traduction a été réalisée par un érudit chrétien au début du XXe siècle. Bien que Williams n'hésite pas à faire référence à des textes chrétiens, il s'intéresse avant tout à la manière dont les règles exprimées dans cette Mishna ont influencé les premiers chrétiens, sans vouloir faire valoir un point de vue sectaire. Cela ajoute un certain intérêt comparatif. De plus, l'important appareil scientifique augmente la valeur de cette édition, la seule traduction complète du domaine public de cette partie de la Mishna.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Traité Berakoth</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+TRADUCTIONS DE DOCUMENTS ANCIENS<br>
+SÉRIE III<br>
+TEXTES RABBINIQUES<br>
+RÉDACTEURS GÉNÉRAUX :<br>
+W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>
+TRAITÉ BERAKOTH<br>
+<span class="text-h3">TRAITÉ BERAKOTH</span><br>
+(BÉNÉDICTIONS)<br>
+MISHNA ET TOSEPHTA<br>
+TRADUIT DE L'HÉBREU AVEC INTRODUCTION ET NOTES<br>
+PAR<br>
+<span class="text-h5">A. LUKYN WILLIAMS, docteur en théologie</span><br>
+HONORABLE CHANOINE DE LA CATHÉDRALE D'ELY<br>
+LONDRES<br>
+SOCIÉTÉ POUR LA PROMOTION<br>
+CONNAISSANCE CHRÉTIENNE<br>
+AVENUE NORTHUMBERLAND, W.C.<br>
+NEW YORK : LA SOCIÉTÉ MACMILLAN<br>
+[1921]<br>
+Numérisé sur sacred-texts.com, novembre 2006. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant le 1er janvier 1923. Ces fichiers peuvent être utilisés à des fins non commerciales, à condition que cette mention d'attribution soit laissée intacte dans toutes les copies.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+<br>
+
+Il s'agit d'une traduction du traité Berakoth, une partie de la Mishna qui traite de la prière : plus précisément quand, où et comment prier. Elle comprend la Mishna et le commentaire de Tosephta. Cette traduction a été réalisée par un érudit chrétien au début du XXe siècle. Bien que Williams n'hésite pas à faire référence à des textes chrétiens, il s'intéresse avant tout à la manière dont les règles exprimées dans cette Mishna ont influencé les premiers chrétiens, sans vouloir faire valoir un point de vue sectaire. Cela ajoute un certain intérêt comparatif. De plus, l'important appareil scientifique augmente la valeur de cette édition, la seule traduction complète du domaine public de cette partie de la Mishna.
+
+
+
 ## Table des matières
 
 - [Préface de l'éditeur](/fr/book/Judaism/Tractate_Berakoth/Editors_Preface)

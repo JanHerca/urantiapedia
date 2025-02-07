@@ -8,7 +8,43 @@ editor: markdown
 dateCreated: 2025-2-5T9:13:35Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">El Esplendor</text>		<text style="font-size:9px" x="61" y="70">de Dios</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">El esplendor de Dios</span><br>EXTRACTOS DE LOS ESCRITOS SAGRADOS DE LOS BAHÁ'ÍES<span class="text-h5">por Eric Hammond</span><br>NUEVA YORK,<br>E.P. DUTTON Y COMPAÑÍA[1909]<br>IMPRESO POR<br>HAZELL, WATSON Y VINEY, LD.,LONDRES Y AYLESBURY,<br>INGLATERRA.<br>Escaneado, corregido y formateado en sacred-texts.com, abril de 2010, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-bahai">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">El Esplendor</text>
+		<text style="font-size:9px" x="61" y="70">de Dios</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">El esplendor de Dios</span><br>
+EXTRACTOS DE LOS ESCRITOS SAGRADOS DE LOS BAHÁ'ÍES
+<span class="text-h5">por Eric Hammond</span><br>
+NUEVA YORK,<br>
+E.P. DUTTON Y COMPAÑÍA
+[1909]<br>
+IMPRESO POR<br>
+HAZELL, WATSON Y VINEY, LD.,
+LONDRES Y AYLESBURY,<br>
+INGLATERRA.<br>
+Escaneado, corregido y formateado en sacred-texts.com, abril de 2010, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Índice
 
 - [La bendición de Abbas Effendi](/es/book/Bahaism/The_Splendour_of_God/The_Benediction)

@@ -8,7 +8,50 @@ editor: markdown
 dateCreated: 2025-2-5T20:16:44Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Robert Chalmers; E.B. Cowell</text>		<text style="font-size:4px" x="61" y="125">1895</text>		<text style="font-size:9px" x="61" y="60">The Jataka</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Jataka</span><br>OR<br>STORIES OF THE BUDDHA'S FORMER BIRTHS.<br>TRANSLATED FROM THE PĀLI BY VARIOUS HANDS<br>UNDER THE EDITORSHIP OF<br><span class="text-h5">PROFESSOR E. B. COWELL</span><br>VOL. I.<br>TRANSLATED BY<br><span class="text-h5">ROBERT CHALMERS, B.A.,</span><br>OF ORIEL COLLEGE, OXFORD.<br>[1895]<br>Scanned, proofed and formatted at sacred-texts.com, January, 2006, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>TO<br>PROFESSOR T. W. RHYS DAVIDS, LL.D., PH.D.,<br>THIS VOLUME IS INSCRIBED<br>BY<br>HIS FRIEND AND PUPIL<br>THE TRANSLATOR<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Jakata_Vol_1/buddha.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Robert Chalmers; E.B. Cowell</text>
+		<text style="font-size:4px" x="61" y="125">1895</text>
+		<text style="font-size:9px" x="61" y="60">The Jataka</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Jataka</span><br>
+OR<br>
+STORIES OF THE BUDDHA'S FORMER BIRTHS.<br>
+TRANSLATED FROM THE PĀLI BY VARIOUS HANDS<br>
+UNDER THE EDITORSHIP OF<br>
+<span class="text-h5">PROFESSOR E. B. COWELL</span><br>
+VOL. I.<br>
+TRANSLATED BY<br>
+<span class="text-h5">ROBERT CHALMERS, B.A.,</span><br>
+OF ORIEL COLLEGE, OXFORD.<br>
+[1895]<br>
+Scanned, proofed and formatted at sacred-texts.com, January, 2006, by John Bruno Hare. This text is in the public domain in the US because it was published prior to 1923.<br>
+TO<br>
+PROFESSOR T. W. RHYS DAVIDS, LL.D., PH.D.,<br>
+THIS VOLUME IS INSCRIBED<br>
+BY<br>
+HIS FRIEND AND PUPIL<br>
+THE TRANSLATOR<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Jakata_Vol_1/buddha.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
+
 ## Index
 
 - [Preface](/en/book/Buddhism/The_Jakata_Vol_1/Preface)

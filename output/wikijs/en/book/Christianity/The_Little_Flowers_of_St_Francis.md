@@ -8,7 +8,45 @@ editor: markdown
 dateCreated: 2025-1-16T23:40:9Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>		<text style="font-size:4px" x="61" y="125">1906</text>		<text style="font-size:9px" x="61" y="60">The Little Flowers</text>		<text style="font-size:9px" x="61" y="70">of St. Francis</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Little Flowers</span><br>OF THE GLORIOUS<br><span class="text-h3">Messer St. Francis and of his friars</span><br>DONE INTO ENGLISH WITH NOTES BY<br><span class="text-h5">W. Heywood</span><br>with an Introduction by A. G. Ferrers Howell<br>METHUEN & CO.<br>36 ESSEX ST. W.C. LONDON<br>[1906]<br><br>Scanned at sacred-texts.com, August 2007. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Little_Flowers_of_St_Francis/stfrancis.jpg"><figcaption>Saint Francis, by Jose de Ribera [1643] (Public Domain Image)</figcaption></figure><br style="clear:both;"/>The _Little Flowers_ is a traditional collection of tales of St. Francis and the early Franciscans. The legend of St. Francis (b. 1181, d. 1226), the patron saint of animals, birds, and the environment, greatly expanded as time went by, and accumulated in this work.The _Little Flowers_ is a much-loved spiritual classic. This translation by W. Heywood has recently been republished by Vintage, introduced by Madeline L'Engle.
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1906</text>
+		<text style="font-size:9px" x="61" y="60">The Little Flowers</text>
+		<text style="font-size:9px" x="61" y="70">of St. Francis</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Little Flowers</span><br>
+OF THE GLORIOUS<br>
+<span class="text-h3">Messer St. Francis and of his friars</span><br>
+DONE INTO ENGLISH WITH NOTES BY<br>
+<span class="text-h5">W. Heywood</span><br>
+with an Introduction by A. G. Ferrers Howell<br>
+METHUEN & CO.<br>
+36 ESSEX ST. W.C. LONDON<br>
+[1906]<br>
+<br>
+Scanned at sacred-texts.com, August 2007. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Little_Flowers_of_St_Francis/stfrancis.jpg">
+<figcaption>Saint Francis, by Jose de Ribera [1643] (Public Domain Image)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+The _Little Flowers_ is a traditional collection of tales of St. Francis and the early Franciscans. The legend of St. Francis (b. 1181, d. 1226), the patron saint of animals, birds, and the environment, greatly expanded as time went by, and accumulated in this work.
+
+The _Little Flowers_ is a much-loved spiritual classic. This translation by W. Heywood has recently been republished by Vintage, introduced by Madeline L'Engle.
+
+
 ## Index
 
 - [Introduction](/en/book/Christianity/The_Little_Flowers_of_St_Francis/Introduction)

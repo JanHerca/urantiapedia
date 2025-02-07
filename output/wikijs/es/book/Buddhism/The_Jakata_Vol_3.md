@@ -8,7 +8,58 @@ editor: markdown
 dateCreated: 2025-2-5T22:39:26Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">H.T. Francis; R.A. Neil; E.B. Cowell</text>		<text style="font-size:4px" x="61" y="125">1897</text>		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. III)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">El Jataka</span><br>O<br>HISTORIAS DE LOS NACIMIENTOS ANTERIORES DE BUDA.<br>TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>BAJO LA EDICIÓN DEL<br><span class="text-h5">PROFESOR E.B. COWELL</span><br>VOLUMEN III.<br>TRADUCIDO POR<br><span class="text-h5">H.T. FRANCIS, M.A.,</span><br>MIEMBRO EMERITO DEL GONVILLE AND CAIDS COLLEGE,<br>Y<br><span class="text-h5">R.A. NEIL, M.A.,</span><br>MIEMBRO DEL PEMBROKE COLLEGE.<br>Londres<br>PUBLICADO PARA LA SOCIEDAD DE TEXTOS PALI<br>POR<br>LUZAC & COMPANY, LTD.<br>CALLE GREAT RUSSELL 46, W.C. 1<br>[1897]<br>Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Jakata_Vol_3/budhead.jpg"></figure><br style="clear:both;"/>## PREFACIO.Este volumen de traducción corresponde al tercer volumen del texto, y los traductores, el Sr. HT Francis y el Sr. RA Neil, se han esforzado por mantener una uniformidad con el plan adoptado en los dos volúmenes anteriores. El Sr. Francis es responsable de las páginas 1 a 150 y de la página 287 hasta el final, y el Sr. Neil de las páginas 151 a 286. El Secretario de Estado para la India ha tenido la amabilidad de dar permiso para ilustrar una de las historias de este volumen también desde la Stūpa de Bhārhut.Los dos traductores de este volumen no pueden permitir que el libro aparezca sin expresar su gratitud al Profesor Cowell por su constante ayuda y supervisión y por su amabilidad al compilar el índice.
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">H.T. Francis; R.A. Neil; E.B. Cowell</text>
+		<text style="font-size:4px" x="61" y="125">1897</text>
+		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. III)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">El Jataka</span><br>
+O<br>
+HISTORIAS DE LOS NACIMIENTOS ANTERIORES DE BUDA.<br>
+TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>
+BAJO LA EDICIÓN DEL<br>
+<span class="text-h5">PROFESOR E.B. COWELL</span><br>
+VOLUMEN III.<br>
+TRADUCIDO POR<br>
+<span class="text-h5">H.T. FRANCIS, M.A.,</span><br>
+MIEMBRO EMERITO DEL GONVILLE AND CAIDS COLLEGE,<br>
+Y<br>
+<span class="text-h5">R.A. NEIL, M.A.,</span><br>
+MIEMBRO DEL PEMBROKE COLLEGE.<br>
+Londres<br>
+PUBLICADO PARA LA SOCIEDAD DE TEXTOS PALI<br>
+POR<br>
+LUZAC & COMPANY, LTD.<br>
+CALLE GREAT RUSSELL 46, W.C. 1<br>
+[1897]<br>
+Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Jakata_Vol_3/budhead.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+## PREFACIO.
+
+Este volumen de traducción corresponde al tercer volumen del texto, y los traductores, el Sr. HT Francis y el Sr. RA Neil, se han esforzado por mantener una uniformidad con el plan adoptado en los dos volúmenes anteriores. El Sr. Francis es responsable de las páginas 1 a 150 y de la página 287 hasta el final, y el Sr. Neil de las páginas 151 a 286. El Secretario de Estado para la India ha tenido la amabilidad de dar permiso para ilustrar una de las historias de este volumen también desde la Stūpa de Bhārhut.
+
+Los dos traductores de este volumen no pueden permitir que el libro aparezca sin expresar su gratitud al Profesor Cowell por su constante ayuda y supervisión y por su amabilidad al compilar el índice.
+
+
+
 ## Índice
 
 - [Índice de contenidos](/es/book/Buddhism/The_Jakata_Vol_3/Table_of_Contents)

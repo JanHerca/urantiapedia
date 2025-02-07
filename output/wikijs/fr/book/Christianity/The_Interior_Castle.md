@@ -8,7 +8,53 @@ editor: markdown
 dateCreated: 2025-1-18T19:36:11Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Le château intérieur</text>		<text style="font-size:9px" x="61" y="70">ou</text>		<text style="font-size:9px" x="61" y="80">les demeures</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Le Château Intérieur</span><br>ou Les Manoirs<br><span class="text-h3">par Sainte Thérèse d'Avila</span><br>Traduit de l'autographe de Sainte Thérèse de Jésus par<br>Les Bénédictins de Stanbrook<br>Révisé, avec des notes et une introduction, par le<br>Très Révérend Père Benedict Zimmerman, OCD<br>Prieur<br>Troisième édition avec notes supplémentaires<br>Thomas Baker, Londres<br>[1921]<br><br>Numérisé sur sacred-texts.com, novembre 2005. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié à l'origine avant 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Interior_Castle/stteresa.jpg"></figure><br style="clear:both;"/>_El Castillo Interior_ (_Le Château Intérieur_) ou _Las Moradas_ (_Les Demeures_) a été écrit par sainte Thérèse d'Avila en 1577. Selon des récits contemporains, sainte Thérèse aurait reçu une révélation de Dieu concernant un globe de cristal en forme de château contenant sept demeures. C'est ainsi que sainte Thérèse interprète cette vision, décrivant le cheminement de la foi à travers sept étapes, se terminant par l'union avec Dieu.## NOTEDans cette nouvelle édition, la rédaction a été revue et condensée, principalement dans le but de rendre la traduction plus significative. Un seul passage (VI. Mansion, ch. v. 13) a été substantiellement modifié, conformément à une explication reçue d'une haute autorité. Il s'agit, il faut l'admettre, d'un passage très difficile qui semble avoir été mal compris par presque tous les traducteurs ; mais il est agréable de constater que la nouvelle traduction française des Carmélites d'Anderlecht est conforme à notre interprétation. L'éditeur est tenu à cette traduction en raison de plusieurs faits intéressants contenus dans l'introduction et dans les notes du texte.B. Z.WINCANTON_25 décembre_ 1911
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Le château intérieur</text>
+		<text style="font-size:9px" x="61" y="70">ou</text>
+		<text style="font-size:9px" x="61" y="80">les demeures</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Le Château Intérieur</span><br>
+ou Les Manoirs<br>
+<span class="text-h3">par Sainte Thérèse d'Avila</span><br>
+Traduit de l'autographe de Sainte Thérèse de Jésus par<br>
+Les Bénédictins de Stanbrook<br>
+Révisé, avec des notes et une introduction, par le<br>
+Très Révérend Père Benedict Zimmerman, OCD<br>
+Prieur<br>
+Troisième édition avec notes supplémentaires<br>
+Thomas Baker, Londres<br>
+[1921]<br>
+<br>
+Numérisé sur sacred-texts.com, novembre 2005. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié à l'origine avant 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Interior_Castle/stteresa.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+_El Castillo Interior_ (_Le Château Intérieur_) ou _Las Moradas_ (_Les Demeures_) a été écrit par sainte Thérèse d'Avila en 1577. Selon des récits contemporains, sainte Thérèse aurait reçu une révélation de Dieu concernant un globe de cristal en forme de château contenant sept demeures. C'est ainsi que sainte Thérèse interprète cette vision, décrivant le cheminement de la foi à travers sept étapes, se terminant par l'union avec Dieu.
+
+## NOTE
+
+Dans cette nouvelle édition, la rédaction a été revue et condensée, principalement dans le but de rendre la traduction plus significative. Un seul passage (VI. Mansion, ch. v. 13) a été substantiellement modifié, conformément à une explication reçue d'une haute autorité. Il s'agit, il faut l'admettre, d'un passage très difficile qui semble avoir été mal compris par presque tous les traducteurs ; mais il est agréable de constater que la nouvelle traduction française des Carmélites d'Anderlecht est conforme à notre interprétation. L'éditeur est tenu à cette traduction en raison de plusieurs faits intéressants contenus dans l'introduction et dans les notes du texte.
+
+B. Z.
+WINCANTON
+_25 décembre_ 1911
+
+
 ## Table des matières
 
 - [Introduction](/fr/book/Christianity/The_Interior_Castle/Introduction)

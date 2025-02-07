@@ -8,7 +8,26 @@ editor: markdown
 dateCreated: 2025-1-15T23:1:28Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Bhagavad Gita</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">EL BHAGAVADGÎTÂ</span><br>CON EL SANATSUGÂTÎYA Y EL ANUGÎTÂ<br><span class="text-h5">traducido por KÂSHINÂTH TRIMBAK TELANG,</span><br><br>Volumen 8, Los Libros Sagrados de Oriente<br>[1882]<br></p>
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Bhagavad Gita</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">EL BHAGAVADGÎTÂ</span><br>
+CON EL SANATSUGÂTÎYA Y EL ANUGÎTÂ<br>
+<span class="text-h5">traducido por KÂSHINÂTH TRIMBAK TELANG,</span><br>
+<br>
+Volumen 8, Los Libros Sagrados de Oriente<br>
+[1882]<br>
+</p>
+
+
 ## Índice
 
 - Bhagavadgîtâ

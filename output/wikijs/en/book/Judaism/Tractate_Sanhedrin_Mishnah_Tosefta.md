@@ -8,7 +8,50 @@ editor: markdown
 dateCreated: 2025-2-7T10:38:15Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Herbert Dan</text>		<text style="font-size:4px" x="61" y="125">1919</text>		<text style="font-size:9px" x="61" y="60">Tractate Sanhedrin,</text>		<text style="font-size:9px" x="61" y="70">Mishnah</text>		<text style="font-size:9px" x="61" y="80">and Tosefta</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">TRACTATE SANHEDRIN</span><br>MISHNAH AND TOSEFTA<br>THE JUDICIAL PROCEDURE OF THE JEWS<br>AS CODIFIED TOWARDS THE END OF THE<br>SECOND CENTURY A.D.<br>TRANSLATED FROM THE HEBREW WITH BRIEF ANNOTATIONS<br>BY<br><span class="text-h5">HERBERT DANBY, M.A.</span><br>SUB-WARDEN OF ST. DEINIOL'S LIBRARY, HAWARDEN<br>LONDON:<br>SOCIETY FOR PROMOTING CHRISTIAN KNOWLEDGE<br>NEW YORK: THE MACMILLAN COMPANY<br>[1919]<br>Scanned at sacred-texts.com, November 2006. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose provided this notice of attribution is left intact in all copies.<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/sanhed.jpg"></figure><br style="clear:both;"/><br>This is a translation of the Talmud tractate Sanhedrin, which deals with judicial procedure, particularly relating to capital punishment. The author is a Christian academic, and the translation includes the primary text (Mishna) and the second-level commentary (Tosefta). This book is a good supplement to the [Rodkinson translation](https://sacred-texts.com/jud/t08/index.htm) of the same tractate, particularly because this version has extensive scholarly apparatus lacking in the Rodkinson translation.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Herbert Dan</text>
+		<text style="font-size:4px" x="61" y="125">1919</text>
+		<text style="font-size:9px" x="61" y="60">Tractate Sanhedrin,</text>
+		<text style="font-size:9px" x="61" y="70">Mishnah</text>
+		<text style="font-size:9px" x="61" y="80">and Tosefta</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">TRACTATE SANHEDRIN</span><br>
+MISHNAH AND TOSEFTA<br>
+THE JUDICIAL PROCEDURE OF THE JEWS<br>
+AS CODIFIED TOWARDS THE END OF THE<br>
+SECOND CENTURY A.D.<br>
+TRANSLATED FROM THE HEBREW WITH BRIEF ANNOTATIONS<br>
+BY<br>
+<span class="text-h5">HERBERT DANBY, M.A.</span><br>
+SUB-WARDEN OF ST. DEINIOL'S LIBRARY, HAWARDEN<br>
+LONDON:<br>
+SOCIETY FOR PROMOTING CHRISTIAN KNOWLEDGE<br>
+NEW YORK: THE MACMILLAN COMPANY<br>
+[1919]<br>
+Scanned at sacred-texts.com, November 2006. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non-commercial purpose provided this notice of attribution is left intact in all copies.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/sanhed.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+<br>
+
+This is a translation of the Talmud tractate Sanhedrin, which deals with judicial procedure, particularly relating to capital punishment. The author is a Christian academic, and the translation includes the primary text (Mishna) and the second-level commentary (Tosefta). This book is a good supplement to the [Rodkinson translation](https://sacred-texts.com/jud/t08/index.htm) of the same tractate, particularly because this version has extensive scholarly apparatus lacking in the Rodkinson translation.
+
+
+
 ## Index
 
 - [Introduction](/en/book/Judaism/Tractate_Sanhedrin_Mishnah_Tosefta/Introduction)

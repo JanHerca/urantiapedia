@@ -8,7 +8,57 @@ editor: markdown
 dateCreated: 2025-2-5T22:39:37Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">H.T. Francis; E.B. Cowell</text>		<text style="font-size:4px" x="61" y="125">1905</text>		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. V)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">El Jataka</span><br>O<br>HISTORIAS DE LOS NACIMIENTOS ANTERIORES DE BUDA.<br>TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>BAJO LA EDICIÓN DEL<br><span class="text-h5">PROFESOR E.B. COWELL</span><br>VOL. V.<br>TRADUCIDO POR<br><span class="text-h5">H.T. FRANCIS, M.A.,</span><br>MIEMBRO INTERINO DEL GONVILLE AND CAIUS COLLEGE, CAMBRIDGE.<br>Londres<br>PUBLICADO PARA LA SOCIEDAD DE TEXTOS PALI<br>POR<br>LUZAC & COMPANY, LTD.<br>CALLE GRAN RUSSELL 46, W.C. 1<br>Imprenta de la Universidad de Cambridge<br>[1905]<br>Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br><br>PIAE MEMORIAE<br>EDWARDI BYLES COWELL<br>DOCTISSIMI DILECTISSIMI<br>ET<br>ROBERTI ALEXANDRI NEIL<br>DESIDERATISSIMI<br>SACRUM<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Jakata_Vol_5/budhd2.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">H.T. Francis; E.B. Cowell</text>
+		<text style="font-size:4px" x="61" y="125">1905</text>
+		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. V)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">El Jataka</span><br>
+O<br>
+HISTORIAS DE LOS NACIMIENTOS ANTERIORES DE BUDA.<br>
+TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>
+BAJO LA EDICIÓN DEL<br>
+<span class="text-h5">PROFESOR E.B. COWELL</span><br>
+VOL. V.<br>
+TRADUCIDO POR<br>
+<span class="text-h5">H.T. FRANCIS, M.A.,</span><br>
+MIEMBRO INTERINO DEL GONVILLE AND CAIUS COLLEGE, CAMBRIDGE.<br>
+Londres<br>
+PUBLICADO PARA LA SOCIEDAD DE TEXTOS PALI<br>
+POR<br>
+LUZAC & COMPANY, LTD.<br>
+CALLE GRAN RUSSELL 46, W.C. 1<br>
+Imprenta de la Universidad de Cambridge<br>
+[1905]<br>
+Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
+<br>
+PIAE MEMORIAE<br>
+EDWARDI BYLES COWELL<br>
+DOCTISSIMI DILECTISSIMI<br>
+ET<br>
+ROBERTI ALEXANDRI NEIL<br>
+DESIDERATISSIMI<br>
+SACRUM<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Jakata_Vol_5/budhd2.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
+
 ## Índice
 
 - [Prefacio](/es/book/Buddhism/The_Jakata_Vol_5/Preface)

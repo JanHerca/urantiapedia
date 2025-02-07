@@ -8,7 +8,50 @@ editor: markdown
 dateCreated: 2025-2-5T22:39:31Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">W.H.D. Rouse; E.B. Cowell</text>		<text style="font-size:4px" x="61" y="125">1901</text>		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. IV)</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">El Jataka</span><br>O<br>HISTORIAS DE LOS NACIMENTOS ANTERIORES DEL BUDA.<br>TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>BAJO LA EDICIÓN DEL<br><span class="text-h5">PROFESOR E.B. COWELL</span><br>VOL. IV.<br>TRADUCIDO POR<br><span class="text-h5">W.H.D. ROUSE, M.A.,</span><br>ALGUNO MIEMBRO DEL CHRIST'S COLLEGE, CAMBRIDGE.<br>LONDRES<br>PUBLICADO PARA LA PALI TEXT SOCIETY<br>POR<br>LUZAC & COMPANY, LTD.<br>46 GREAT RUSSELL STREET, W.C. 1<br>Cambridge University Press<br>[1901]<br>Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Jakata_Vol_4/kamakura.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">W.H.D. Rouse; E.B. Cowell</text>
+		<text style="font-size:4px" x="61" y="125">1901</text>
+		<text style="font-size:9px" x="61" y="60">El Jataka (Vol. IV)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">El Jataka</span><br>
+O<br>
+HISTORIAS DE LOS NACIMENTOS ANTERIORES DEL BUDA.<br>
+TRADUCIDO DEL PĀLI POR VARIAS MANOS<br>
+BAJO LA EDICIÓN DEL<br>
+<span class="text-h5">PROFESOR E.B. COWELL</span><br>
+VOL. IV.<br>
+TRADUCIDO POR<br>
+<span class="text-h5">W.H.D. ROUSE, M.A.,</span><br>
+ALGUNO MIEMBRO DEL CHRIST'S COLLEGE, CAMBRIDGE.<br>
+LONDRES<br>
+PUBLICADO PARA LA PALI TEXT SOCIETY<br>
+POR<br>
+LUZAC & COMPANY, LTD.<br>
+46 GREAT RUSSELL STREET, W.C. 1<br>
+Cambridge University Press<br>
+[1901]<br>
+Escaneado, corregido y formateado en sacred-texts.com, enero de 2006, por John Bruno Hare. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Jakata_Vol_4/kamakura.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
+
 ## Índice
 
 - [Contenido](/es/book/Buddhism/The_Jakata_Vol_4/Contents)

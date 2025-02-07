@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2025-1-16T20:4:59Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>		<text style="font-size:4px" x="61" y="125">1879</text>		<text style="font-size:9px" x="61" y="60">Les Upanishads,</text>		<text style="font-size:9px" x="61" y="70">Partie I (SBE 1)</text>	</g></svg></div><p style="text-align:center;">Les<br>Livres sacrés de l'Orient, tome 1<br><br><span class="text-h3">Les Upanishads, première partie</span><br><span class="text-h5">Traduit par F. Max Müller</span><br>Oxford, la presse Clarendon<br>[1879]<br>Numérisé sur sacred-texts.com, 1997 et 2003, par John Bruno Hare. Ce texte est dans le domaine public car il a été publié avant 1923.À<br>LE TRÈS HONORABLE MARQUIS DE SALISBURY, KG.<br>CHANCELIER DE L'UNIVERSITÉ D'OXFORD,<br>DERNIÈREMENT SECRÉTAIRE D'ÉTAT POUR L'INDE,<br>SIR HENRY JS MAINE, K.O.S.I.<br>MEMBRE DU CONSEIL DE L'INDE,<br>ET<br>LE TRÈS RÉVÉREND HG LIDDELL, DD.<br>DOYEN DE L'ÉGLISE DU CHRIST,<br>À QUELQUE INTÉRÊT ET EFFORTS QUE CELA SOIT<br>CETTE TENTATIVE DE FAIRE CONNAÎTRE AU PEUPLE ANGLAIS<br>LES LIVRES SACRÉS DE L'ORIENT<br>EST TELLEMENT ENDETTÉ,<br>JE DÉDIE MAINTENANT CES VOLUMES AVEC UN RESPECT ET UNE GRATITUDE SINCÈRES,<br>F. MAX MÜLLER.<br></p>Il s'agit du premier volume des Livres sacrés de l'Orient et du premier texte électronique jamais préparé pour sacred-texts.com. SBE 1 contient l'introduction de la série entière et explique la méthodologie et les conventions utilisées dans le reste des SBE. Les Upanishads traduits ici sont le Chandogya, le Talavakara, l'Aitreya-Aranyaka, le Kaushitaki-Brahmana et le Vajasaneyi Samhita.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1879</text>
+		<text style="font-size:9px" x="61" y="60">Les Upanishads,</text>
+		<text style="font-size:9px" x="61" y="70">Partie I (SBE 1)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+Les<br>
+Livres sacrés de l'Orient, tome 1<br>
+<br>
+<span class="text-h3">Les Upanishads, première partie</span><br>
+<span class="text-h5">Traduit par F. Max Müller</span><br>
+Oxford, la presse Clarendon<br>
+[1879]<br>
+Numérisé sur sacred-texts.com, 1997 et 2003, par John Bruno Hare. Ce texte est dans le domaine public car il a été publié avant 1923.
+À<br>
+LE TRÈS HONORABLE MARQUIS DE SALISBURY, KG.<br>
+CHANCELIER DE L'UNIVERSITÉ D'OXFORD,<br>
+DERNIÈREMENT SECRÉTAIRE D'ÉTAT POUR L'INDE,<br>
+SIR HENRY JS MAINE, K.O.S.I.<br>
+MEMBRE DU CONSEIL DE L'INDE,<br>
+ET<br>
+LE TRÈS RÉVÉREND HG LIDDELL, DD.<br>
+DOYEN DE L'ÉGLISE DU CHRIST,<br>
+À QUELQUE INTÉRÊT ET EFFORTS QUE CELA SOIT<br>
+CETTE TENTATIVE DE FAIRE CONNAÎTRE AU PEUPLE ANGLAIS<br>
+LES LIVRES SACRÉS DE L'ORIENT<br>
+EST TELLEMENT ENDETTÉ,<br>
+JE DÉDIE MAINTENANT CES VOLUMES AVEC UN RESPECT ET UNE GRATITUDE SINCÈRES,<br>
+F. MAX MÜLLER.<br>
+</p>
+
+Il s'agit du premier volume des Livres sacrés de l'Orient et du premier texte électronique jamais préparé pour sacred-texts.com. SBE 1 contient l'introduction de la série entière et explique la méthodologie et les conventions utilisées dans le reste des SBE. Les Upanishads traduits ici sont le Chandogya, le Talavakara, l'Aitreya-Aranyaka, le Kaushitaki-Brahmana et le Vajasaneyi Samhita.
+
+
 ## Table des matières
 
 - [Citation](/fr/book/Hinduism/The_Upanishads_Part_I/Quote)

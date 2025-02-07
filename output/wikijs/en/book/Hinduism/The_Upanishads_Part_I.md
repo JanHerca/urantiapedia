@@ -8,7 +8,48 @@ editor: markdown
 dateCreated: 2025-1-14T22:0:10Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>		<text style="font-size:4px" x="61" y="125">1879</text>		<text style="font-size:9px" x="61" y="60">The Upanishads,</text>		<text style="font-size:9px" x="61" y="70">Part I (SBE 1)</text>	</g></svg></div><p style="text-align:center;">The<br>Sacred Books of the East, Volume 1<br><br><span class="text-h3">The Upanishads, Part I</span><br><span class="text-h5">Translated by F. Max Müller</span><br>Oxford, the Clarendon Press<br>[1879]<br>Scanned at sacred-texts.com, 1997 and 2003, by John Bruno Hare. This text is in the public domain because it was published prior to 1923.<br>TO<br>THE RIGHT HONOURABLE THE MARQUIS OF SALISBURY, KG.<br>CHANCELLOR OF THE UNIVERSITY OF OXFORD,<br>LATELY SECRETARY OF STATE FOR INDIA,<br>SIR HENRY J. S. MAINE, K.OS.I.<br>MEMBER OF THE COUNCIL OF INDIA,<br>AND<br>THE VERY REV. H. G. LIDDELL, DD.<br>DEAN OF CHRIST CHURCH,<br>TO WHOSE KIND INTEREST AND EXERTIONS<br>THIS ATTEMPT TO MAKE KNOWN TO THE ENGLISH PEOPLE<br>THE SACRED BOOKS OF THE EAST<br>IS SO LARGELY INDEBTED,<br>I NOW DEDICATE THESE VOLUMES WITH SINCERE RESPECT AND GRATITUDE,<br>F. MAX MÜLLER.<br></p>This is the first volume of the Sacred Books of the East, and the first etext ever prepared for sacred-texts.com. SBE 1 contains the introduction to the entire series, and explains the methodology and conventions used in the rest of the SBE. The Upanishads translated here are the Chandogya, Talavakara, Aitreya-Aranyaka, the Kaushitaki-Brahmana, and the Vajasaneyi Samhita.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1879</text>
+		<text style="font-size:9px" x="61" y="60">The Upanishads,</text>
+		<text style="font-size:9px" x="61" y="70">Part I (SBE 1)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The<br>
+Sacred Books of the East, Volume 1<br>
+<br>
+<span class="text-h3">The Upanishads, Part I</span><br>
+<span class="text-h5">Translated by F. Max Müller</span><br>
+Oxford, the Clarendon Press<br>
+[1879]<br>
+Scanned at sacred-texts.com, 1997 and 2003, by John Bruno Hare. This text is in the public domain because it was published prior to 1923.<br>
+TO<br>
+THE RIGHT HONOURABLE THE MARQUIS OF SALISBURY, KG.<br>
+CHANCELLOR OF THE UNIVERSITY OF OXFORD,<br>
+LATELY SECRETARY OF STATE FOR INDIA,<br>
+SIR HENRY J. S. MAINE, K.OS.I.<br>
+MEMBER OF THE COUNCIL OF INDIA,<br>
+AND<br>
+THE VERY REV. H. G. LIDDELL, DD.<br>
+DEAN OF CHRIST CHURCH,<br>
+TO WHOSE KIND INTEREST AND EXERTIONS<br>
+THIS ATTEMPT TO MAKE KNOWN TO THE ENGLISH PEOPLE<br>
+THE SACRED BOOKS OF THE EAST<br>
+IS SO LARGELY INDEBTED,<br>
+I NOW DEDICATE THESE VOLUMES WITH SINCERE RESPECT AND GRATITUDE,<br>
+F. MAX MÜLLER.<br>
+</p>
+
+This is the first volume of the Sacred Books of the East, and the first etext ever prepared for sacred-texts.com. SBE 1 contains the introduction to the entire series, and explains the methodology and conventions used in the rest of the SBE. The Upanishads translated here are the Chandogya, Talavakara, Aitreya-Aranyaka, the Kaushitaki-Brahmana, and the Vajasaneyi Samhita.
+
+
 ## Index
 
 - [Quote](/en/book/Hinduism/The_Upanishads_Part_I/Quote)

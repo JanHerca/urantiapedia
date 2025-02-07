@@ -8,7 +8,41 @@ editor: markdown
 dateCreated: 2025-1-18T19:47:35Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>		<text style="font-size:4px" x="61" y="125">1905</text>		<text style="font-size:9px" x="61" y="60">Les écrits de</text>		<text style="font-size:9px" x="61" y="70">saint François</text>		<text style="font-size:9px" x="61" y="80">d'Assise</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Les écrits de</span><br><span class="text-h3">Saint François d'Assise</span><br>RÉCEMMENT TRADUIT EN ANGLAIS AVEC UNE INTRODUCTION ET DES NOTES<br><span class="text-h5">par le Père Pascal Robinson</span><br>de l'Ordre des Frères Mineurs<br>PHILADELPHIE<br>La presse des dauphins<br>[1905]<br><br>Numérisé sur sacred-texts.com, août 2007. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg"><figcaption>Saint François (Image du domaine public)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
+		<text style="font-size:4px" x="61" y="125">1905</text>
+		<text style="font-size:9px" x="61" y="60">Les écrits de</text>
+		<text style="font-size:9px" x="61" y="70">saint François</text>
+		<text style="font-size:9px" x="61" y="80">d'Assise</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Les écrits de</span><br>
+<span class="text-h3">Saint François d'Assise</span><br>
+RÉCEMMENT TRADUIT EN ANGLAIS AVEC UNE INTRODUCTION ET DES NOTES<br>
+<span class="text-h5">par le Père Pascal Robinson</span><br>
+de l'Ordre des Frères Mineurs<br>
+PHILADELPHIE<br>
+La presse des dauphins<br>
+[1905]<br>
+<br>
+Numérisé sur sacred-texts.com, août 2007. Vérifié et mis en forme par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg">
+<figcaption>Saint François (Image du domaine public)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Table des matières
 
 - [Introduction](/fr/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction)

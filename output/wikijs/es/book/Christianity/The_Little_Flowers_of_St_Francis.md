@@ -8,7 +8,45 @@ editor: markdown
 dateCreated: 2025-1-18T17:54:10Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>		<text style="font-size:4px" x="61" y="125">1906</text>		<text style="font-size:9px" x="61" y="60">Las florecitas</text>		<text style="font-size:9px" x="61" y="70">de San Francisco</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Las florecitas</span><br>DEL GLORIOSO<br><span class="text-h3">Sr. San Francisco y sus frailes</span><br>HECHO EN INGLÉS CON NOTAS DE<br><span class="text-h5">W. Heywood</span><br>con una introducción de A.G. Ferrers Howell<br>METHUEN & CO.<br>36 ESSEX ST. W.C. LONDRES<br>[1906]<br><br>Escaneado en sacred-texts.com, agosto de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Little_Flowers_of_St_Francis/stfrancis.jpg"><figcaption>San Francisco, por José de Ribera [1643] (imagen de dominio público)</figcaption></figure><br style="clear:both;"/>Las _Florecitas_ es una colección tradicional de cuentos de San Francisco y los primeros franciscanos. La leyenda de San Francisco (n. 1181, m. 1226), el santo patrono de los animales, las aves y el medio ambiente, se expandió enormemente con el paso del tiempo y se acumuló en esta obra.Las _Florecitas_ es un clásico espiritual muy querido. Esta traducción de W.Heywood ha sido recientemente reeditado por Vintage, con introducción de Madeline L'Engle.
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1906</text>
+		<text style="font-size:9px" x="61" y="60">Las florecitas</text>
+		<text style="font-size:9px" x="61" y="70">de San Francisco</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Las florecitas</span><br>
+DEL GLORIOSO<br>
+<span class="text-h3">Sr. San Francisco y sus frailes</span><br>
+HECHO EN INGLÉS CON NOTAS DE<br>
+<span class="text-h5">W. Heywood</span><br>
+con una introducción de A.G. Ferrers Howell<br>
+METHUEN & CO.<br>
+36 ESSEX ST. W.C. LONDRES<br>
+[1906]<br>
+<br>
+Escaneado en sacred-texts.com, agosto de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Little_Flowers_of_St_Francis/stfrancis.jpg">
+<figcaption>San Francisco, por José de Ribera [1643] (imagen de dominio público)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+Las _Florecitas_ es una colección tradicional de cuentos de San Francisco y los primeros franciscanos. La leyenda de San Francisco (n. 1181, m. 1226), el santo patrono de los animales, las aves y el medio ambiente, se expandió enormemente con el paso del tiempo y se acumuló en esta obra.
+
+Las _Florecitas_ es un clásico espiritual muy querido. Esta traducción de W.Heywood ha sido recientemente reeditado por Vintage, con introducción de Madeline L'Engle.
+
+
 ## Index
 
 - [Introducción](/en/book/Christianity/The_Little_Flowers_of_St_Francis/Introduction)

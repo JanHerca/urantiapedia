@@ -8,7 +8,36 @@ editor: markdown
 dateCreated: 2025-1-14T23:38:14Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Satapatha</text>		<text style="font-size:9px" x="61" y="70">Brahmana</text>		<text style="font-size:9px" x="61" y="80">(5 parts)</text>	</g></svg></div><p style="text-align:center;">The<br>Sacred Books of the East, Volumes 12, 26, 41, 43 & 44<br><br><span class="text-h3">The Satapatha Brahmana, (5 parts)</span><br><span class="text-h5">translated by Julius Eggeling</span><br>Part I (SBE 12), Books I and II. [1882]<br>Part II (SBE 26), Books III and IV. [1885]<br>Part III (SBE 41), Books V, VI, and VII. [1894]<br>Part IV (SBE 43), Books VIII, IX, and X. [1897]<br>Part V (SBE 44), Books XI, XII, XIII and XIV. [1900]<br></p>> _The gods love the mysterious_ — Satapatha Brahmana, 6:7:1:23This is the main index for the Satapatha Brahmana translation. The Satapatha Brahmana is a Hindu sacred text which describes details of Vedic rituals, including philosophical and mythological background. It was committed to writing about 300 B.C.E., although it contains portions which are far older, transmitted orally from unknown antiquity. Specifically, there are references throughout to a primal mother-Earth worship, unnamed snake deities and human sacrifice. There are also recitations of key Vedic-era myths, including the [flood of Manu](https://archive.sacred-texts.com/hin/sbr/sbe12/sbe1234.htm) and an extended [Creation myth](https://archive.sacred-texts.com/hin/sbr/sbe41/sbe4128.htm) which includes the ‘cosmic egg’ motif (see, e.g., the Finnish [Kalevala](https://archive.sacred-texts.com/neu/kveng/kvrune01.htm)). Of course, this is a very ancient text which bears the same relationship to current Hindu beliefs and practice as ancient Mediterranean mystery religions do to modern Christianity. That said, the Satapatha Brahmana is a gold-mine for scholars of mythology and comparative religion, and this is the only available complete translation.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Satapatha</text>
+		<text style="font-size:9px" x="61" y="70">Brahmana</text>
+		<text style="font-size:9px" x="61" y="80">(5 parts)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The<br>
+Sacred Books of the East, Volumes 12, 26, 41, 43 & 44<br>
+<br>
+<span class="text-h3">The Satapatha Brahmana, (5 parts)</span><br>
+<span class="text-h5">translated by Julius Eggeling</span><br>
+Part I (SBE 12), Books I and II. [1882]<br>
+Part II (SBE 26), Books III and IV. [1885]<br>
+Part III (SBE 41), Books V, VI, and VII. [1894]<br>
+Part IV (SBE 43), Books VIII, IX, and X. [1897]<br>
+Part V (SBE 44), Books XI, XII, XIII and XIV. [1900]<br>
+</p>
+
+> _The gods love the mysterious_ — Satapatha Brahmana, 6:7:1:23
+
+This is the main index for the Satapatha Brahmana translation. The Satapatha Brahmana is a Hindu sacred text which describes details of Vedic rituals, including philosophical and mythological background. It was committed to writing about 300 B.C.E., although it contains portions which are far older, transmitted orally from unknown antiquity. Specifically, there are references throughout to a primal mother-Earth worship, unnamed snake deities and human sacrifice. There are also recitations of key Vedic-era myths, including the [flood of Manu](https://archive.sacred-texts.com/hin/sbr/sbe12/sbe1234.htm) and an extended [Creation myth](https://archive.sacred-texts.com/hin/sbr/sbe41/sbe4128.htm) which includes the ‘cosmic egg’ motif (see, e.g., the Finnish [Kalevala](https://archive.sacred-texts.com/neu/kveng/kvrune01.htm)). Of course, this is a very ancient text which bears the same relationship to current Hindu beliefs and practice as ancient Mediterranean mystery religions do to modern Christianity. That said, the Satapatha Brahmana is a gold-mine for scholars of mythology and comparative religion, and this is the only available complete translation.
+
+
 ## Index
 
 - Book I

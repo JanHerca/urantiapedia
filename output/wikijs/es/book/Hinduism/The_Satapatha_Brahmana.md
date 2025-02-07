@@ -8,7 +8,36 @@ editor: markdown
 dateCreated: 2025-1-15T22:56:28Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Satapatha</text>		<text style="font-size:9px" x="61" y="70">Brahmana</text>		<text style="font-size:9px" x="61" y="80">(5 partes)</text>	</g></svg></div><p style="text-align:center;">Los<br>Libros Sagrados de Oriente, Tomos 12, 26, 41, 43 y 44<br><br><span class="text-h3">El Satapatha Brahmana (5 partes)</span><br><span class="text-h5">traducido por Julius Eggeling</span><br>Parte I (SBE 12), Libros I y II. [1882]<br>Parte II (SBE 26), Libros III y IV. [1885]<br>Parte III (SBE 41), Libros V, VI y VII. [1894]<br>Parte IV (SBE 43), Libros VIII, IX y X. [1897]<br>Parte V (SBE 44), Libros XI, XII, XIII y XIV. [1900]<br></p>> _Los dioses aman lo misterioso_ — Satapatha Brahmana, 6:7:1:23Este es el índice principal de la traducción del Satapatha Brahmana. El Satapatha Brahmana es un texto sagrado hindú que describe detalles de los rituales védicos, incluidos antecedentes filosóficos y mitológicos. Fue escrito alrededor del año 300 a. C., aunque contiene partes mucho más antiguas, transmitidas oralmente desde una antigüedad desconocida. En concreto, hay referencias a un culto primordial a la madre Tierra, deidades serpiente sin nombre y sacrificios humanos. También hay recitaciones de mitos clave de la era védica, incluyendo el [diluvio de Manu](https://archive.sacred-texts.com/hin/sbr/sbe12/sbe1234.htm) y un [mito de la creación](https://archive.sacred-texts.com/hin/sbr/sbe41/sbe4128.htm) más extenso que incluye el motivo del "huevo cósmico" (véase, por ejemplo, el [Kalevala](https://archive.sacred-texts.com/neu/kveng/kvrune01.htm) finlandés). Por supuesto, este es un texto muy antiguo que tiene la misma relación con las creencias y prácticas hindúes actuales que las antiguas religiones mistéricas mediterráneas con el cristianismo moderno. Dicho esto, el Satapatha Brahmana es una mina de oro para los estudiosos de la mitología y la religión comparada, y esta es la única traducción completa disponible.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Satapatha</text>
+		<text style="font-size:9px" x="61" y="70">Brahmana</text>
+		<text style="font-size:9px" x="61" y="80">(5 partes)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+Los<br>
+Libros Sagrados de Oriente, Tomos 12, 26, 41, 43 y 44<br>
+<br>
+<span class="text-h3">El Satapatha Brahmana (5 partes)</span><br>
+<span class="text-h5">traducido por Julius Eggeling</span><br>
+Parte I (SBE 12), Libros I y II. [1882]<br>
+Parte II (SBE 26), Libros III y IV. [1885]<br>
+Parte III (SBE 41), Libros V, VI y VII. [1894]<br>
+Parte IV (SBE 43), Libros VIII, IX y X. [1897]<br>
+Parte V (SBE 44), Libros XI, XII, XIII y XIV. [1900]<br>
+</p>
+
+> _Los dioses aman lo misterioso_ — Satapatha Brahmana, 6:7:1:23
+
+Este es el índice principal de la traducción del Satapatha Brahmana. El Satapatha Brahmana es un texto sagrado hindú que describe detalles de los rituales védicos, incluidos antecedentes filosóficos y mitológicos. Fue escrito alrededor del año 300 a. C., aunque contiene partes mucho más antiguas, transmitidas oralmente desde una antigüedad desconocida. En concreto, hay referencias a un culto primordial a la madre Tierra, deidades serpiente sin nombre y sacrificios humanos. También hay recitaciones de mitos clave de la era védica, incluyendo el [diluvio de Manu](https://archive.sacred-texts.com/hin/sbr/sbe12/sbe1234.htm) y un [mito de la creación](https://archive.sacred-texts.com/hin/sbr/sbe41/sbe4128.htm) más extenso que incluye el motivo del "huevo cósmico" (véase, por ejemplo, el [Kalevala](https://archive.sacred-texts.com/neu/kveng/kvrune01.htm) finlandés). Por supuesto, este es un texto muy antiguo que tiene la misma relación con las creencias y prácticas hindúes actuales que las antiguas religiones mistéricas mediterráneas con el cristianismo moderno. Dicho esto, el Satapatha Brahmana es una mina de oro para los estudiosos de la mitología y la religión comparada, y esta es la única traducción completa disponible.
+
+
 ## Índice
 
 - Libro I

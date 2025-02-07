@@ -8,7 +8,57 @@ editor: markdown
 dateCreated: 2025-2-6T12:57:9Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">D. A. Sola y M. J. Raphall</text>		<text style="font-size:4px" x="61" y="125">1843</text>		<text style="font-size:9px" x="61" y="60">Dieciocho tratados</text>		<text style="font-size:9px" x="61" y="70">de la Mishná</text>	</g></svg></div><p style="text-align:center;">משניות<br><hr>י״ח מסכתות<span class="text-h5">מששה סדרי משנה</span><hr>DIECIOCHO TRATADOS<br>DE<br><span class="text -h3">LA MISNHÁ.</span><br>TRADUCIDO<br>POR EL REV. D.A. DE SOLA,<br>Y<br>EL REV. M.J. RAPHALL.<br>LONDRES:<br>SHERWOOD, GILBERT Y PIPER,<br>PATERNOSTER ROW.<br>[1843]<br>LONDRES:<br>IMPRESO POR JOAN WERTHEIMER AND CO.,<br>CIRCUS PLACE, FINSBURY CIRCUS.<br>Escaneado, corregido y formateado por John Bruno Hare en sacred-texts.com, enero de 2009. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/The_Mishna/menorah.jpg"></figure><br style="clear:both;"/>Esta es una de las primeras traducciones sustanciales al inglés de la Mishná, el núcleo de la La ley y la tradición judías, y el texto central del Talmud. Este compendio consta de traducciones de dieciocho de los (de unos sesenta) tratados que componen la Mishná, con sinopsis del resto.La selección incluye algunos tratados para los cuales no tenemos traducciones de dominio público anteriores, por ejemplo, Yebamoth (costumbres matrimoniales), Gittin (divorcio), Chulin (preparación de animales para la comida) y Yadaim (manos). En cualquier caso, esto contribuye en gran medida a llenar algunos de los vacíos en las traducciones de dominio público disponibles de la Mishná y el Talmud.NOTAS DE PRODUCCIÓN: Este texto electrónico utiliza hebreo Unicode ampliamente, y para ver estos archivos, deberá asegurarse de que su navegador esté configurado para ver Unicode. (consulte [el archivo de ayuda Unicode](https://sacred-texts.com/unicode.htm))—JB Hare, 12 de enero de 2009.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">D. A. Sola y M. J. Raphall</text>
+		<text style="font-size:4px" x="61" y="125">1843</text>
+		<text style="font-size:9px" x="61" y="60">Dieciocho tratados</text>
+		<text style="font-size:9px" x="61" y="70">de la Mishná</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+משניות<br>
+<hr>
+י״ח מסכתות
+<span class="text-h5">מששה סדרי משנה</span>
+<hr>
+DIECIOCHO TRATADOS<br>
+DE<br>
+<span class="text -h3">LA MISNHÁ.</span><br>
+TRADUCIDO<br>
+POR EL REV. D.A. DE SOLA,<br>
+Y<br>
+EL REV. M.J. RAPHALL.<br>
+LONDRES:<br>
+SHERWOOD, GILBERT Y PIPER,<br>
+PATERNOSTER ROW.<br>
+[1843]<br>
+LONDRES:<br>
+IMPRESO POR JOAN WERTHEIMER AND CO.,<br>
+CIRCUS PLACE, FINSBURY CIRCUS.<br>
+Escaneado, corregido y formateado por John Bruno Hare en sacred-texts.com, enero de 2009. Este texto es de dominio público en los EE. UU. porque se publicó antes de 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/The_Mishna/menorah.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Esta es una de las primeras traducciones sustanciales al inglés de la Mishná, el núcleo de la La ley y la tradición judías, y el texto central del Talmud. Este compendio consta de traducciones de dieciocho de los (de unos sesenta) tratados que componen la Mishná, con sinopsis del resto.La selección incluye algunos tratados para los cuales no tenemos traducciones de dominio público anteriores, por ejemplo, Yebamoth (costumbres matrimoniales), Gittin (divorcio), Chulin (preparación de animales para la comida) y Yadaim (manos). En cualquier caso, esto contribuye en gran medida a llenar algunos de los vacíos en las traducciones de dominio público disponibles de la Mishná y el Talmud.
+
+NOTAS DE PRODUCCIÓN: Este texto electrónico utiliza hebreo Unicode ampliamente, y para ver estos archivos, deberá asegurarse de que su navegador esté configurado para ver Unicode. (consulte [el archivo de ayuda Unicode](https://sacred-texts.com/unicode.htm))—JB Hare, 12 de enero de 2009.
+
+
+
 ## Índice
 
 - [Prefacio](/es/book/Judaism/The_Mishna/Preface)

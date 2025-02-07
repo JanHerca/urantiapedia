@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-18T19:45:47Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">Les Exercices</text>		<text style="font-size:9px" x="61" y="70">Spirituels</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Les Exercices spirituels de saint Ignace de Loyola</span><br><span class="text-h3">traduit par Elder Mullan</span><br><span class="text-h5">W. Heywood</span><br>Facultatem concedimus ut liber cui titulus « Les Exercices spirituels de saint Ignace de Loyola traduits de l'autographe du père Elder Mullan, S.J. », type edatur, si iis ad quos spectat ita videbitur. Franciscus Xav. Wernz<br>New York, PJ Kennedy & Sons, imprimeurs<br>[1914]<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg"></figure><br style="clear:both;"/>Ce sont les Exercices spirituels de saint Ignace de Loyola, un programme de contemplation à réaliser sur une période d'environ un mois. Saint Ignace de Loyola (1419-1556) fut le fondateur des jésuites et fut canonisé par le pape Grégoire XV en 1622. Il publia les Exercices spirituels en 1548. Les Exercices étaient destinés à être utilisés pendant une retraite et constituent une partie centrale de la première année de formation des noviciats jésuites. Cependant, il n'est pas nécessaire d'être un jésuite en formation pour profiter des Exercices : de plus en plus de laïcs et même de non-catholiques suivent cette voie.
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">Les Exercices</text>
+		<text style="font-size:9px" x="61" y="70">Spirituels</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Les Exercices spirituels de saint Ignace de Loyola</span><br>
+<span class="text-h3">traduit par Elder Mullan</span><br>
+<span class="text-h5">W. Heywood</span><br>
+Facultatem concedimus ut liber cui titulus « Les Exercices spirituels de saint Ignace de Loyola traduits de l'autographe du père Elder Mullan, S.J. », type edatur, si iis ad quos spectat ita videbitur. Franciscus Xav. Wernz<br>
+New York, PJ Kennedy & Sons, imprimeurs<br>
+[1914]<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Ce sont les Exercices spirituels de saint Ignace de Loyola, un programme de contemplation à réaliser sur une période d'environ un mois. Saint Ignace de Loyola (1419-1556) fut le fondateur des jésuites et fut canonisé par le pape Grégoire XV en 1622. Il publia les Exercices spirituels en 1548. Les Exercices étaient destinés à être utilisés pendant une retraite et constituent une partie centrale de la première année de formation des noviciats jésuites. Cependant, il n'est pas nécessaire d'être un jésuite en formation pour profiter des Exercices : de plus en plus de laïcs et même de non-catholiques suivent cette voie.
+
+
 ## Table des matières
 
 - [Approbation des textes latins](/fr/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation)

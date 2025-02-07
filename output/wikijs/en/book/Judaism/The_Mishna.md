@@ -8,7 +8,57 @@ editor: markdown
 dateCreated: 2025-2-6T12:55:40Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">D. A. Sola and M. J. Raphall</text>		<text style="font-size:4px" x="61" y="125">1843</text>		<text style="font-size:9px" x="61" y="60">Eighteen Treatises</text>		<text style="font-size:9px" x="61" y="70">from the Mishna</text>	</g></svg></div><p style="text-align:center;">משניות<br><hr>י״ח מסכתות<span class="text-h5">מששה סדרי משנה</span><hr>EIGHTEEN TREATISES<br>FROM<br><span class="text-h3">THE MISHNA.</span><br>TRANSLATED<br>BY THE REV. D. A. DE SOLA,<br>AND<br>THE REV. M. J. RAPHALL.<br>LONDON:<br>SHERWOOD, GILBERT, AND PIPER,<br>PATERNOSTER ROW.<br>[1843]<br>LONDON:<br>PRINTED BY JOAN WERTHEIMER AND CO.,<br>CIRCUS PLACE, FINSBURY CIRCUS.<br>Scanned, proofed and formatted by John Bruno Hare at sacred-texts.com, January 2009. This text is in the public domain in the US because it was published prior to 1923.<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/The_Mishna/menorah.jpg"></figure><br style="clear:both;"/>This is one of the earliest substantial English translations of the Mishna, the core of Jewish law and tradition, and the text at the center of the Talmud. This abridgement consists of translations of eighteen out (of about sixty) treatises which make up the Mishna, with synopses of the rest. The selection includes a few treatises for which we don't have prior public domain translations of, for instance, Yebamoth (marriage customs), Gittin (divorce), Chulin (preparing animals for food), and Yadaim (hands). In any case, this goes a long way towards filling in some of the gaps in the available public domain translations of the Mishna and Talmud.PRODUCTION NOTES: This etext uses Unicode Hebrew extensively, and in order to view these files, you will need to ensure that your browser is set up to view Unicode. (refer to [the Unicode help file](https://sacred-texts.com/unicode.htm))—J. B. Hare, January 12th, 2009.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">D. A. Sola and M. J. Raphall</text>
+		<text style="font-size:4px" x="61" y="125">1843</text>
+		<text style="font-size:9px" x="61" y="60">Eighteen Treatises</text>
+		<text style="font-size:9px" x="61" y="70">from the Mishna</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+משניות<br>
+<hr>
+י״ח מסכתות
+<span class="text-h5">מששה סדרי משנה</span>
+<hr>
+EIGHTEEN TREATISES<br>
+FROM<br>
+<span class="text-h3">THE MISHNA.</span><br>
+TRANSLATED<br>
+BY THE REV. D. A. DE SOLA,<br>
+AND<br>
+THE REV. M. J. RAPHALL.<br>
+LONDON:<br>
+SHERWOOD, GILBERT, AND PIPER,<br>
+PATERNOSTER ROW.<br>
+[1843]<br>
+LONDON:<br>
+PRINTED BY JOAN WERTHEIMER AND CO.,<br>
+CIRCUS PLACE, FINSBURY CIRCUS.<br>
+Scanned, proofed and formatted by John Bruno Hare at sacred-texts.com, January 2009. This text is in the public domain in the US because it was published prior to 1923.<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/The_Mishna/menorah.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+This is one of the earliest substantial English translations of the Mishna, the core of Jewish law and tradition, and the text at the center of the Talmud. This abridgement consists of translations of eighteen out (of about sixty) treatises which make up the Mishna, with synopses of the rest. The selection includes a few treatises for which we don't have prior public domain translations of, for instance, Yebamoth (marriage customs), Gittin (divorce), Chulin (preparing animals for food), and Yadaim (hands). In any case, this goes a long way towards filling in some of the gaps in the available public domain translations of the Mishna and Talmud.
+
+PRODUCTION NOTES: This etext uses Unicode Hebrew extensively, and in order to view these files, you will need to ensure that your browser is set up to view Unicode. (refer to [the Unicode help file](https://sacred-texts.com/unicode.htm))—J. B. Hare, January 12th, 2009.
+
+
+
 ## Index
 
 - [Preface](/en/book/Judaism/The_Mishna/Preface)

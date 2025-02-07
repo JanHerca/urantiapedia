@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2025-1-15T22:54:18Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>		<text style="font-size:4px" x="61" y="125">1879</text>		<text style="font-size:9px" x="61" y="60">The Upanishads,</text>		<text style="font-size:9px" x="61" y="70">Part II (SBE 15)</text>	</g></svg></div><p style="text-align:center;">The<br>Sacred Books of the East, Volume 15<br><br><span class="text-h3">The Upanishads, Part II</span><br><span class="text-h5">Translated by F. Max Müller</span><br>Oxford, the Clarendon Press<br>[1884]<br>Scanned at sacred-texts.com, 1997 and 2003, by John Bruno Hare. This text is in the public domain because it was published prior to 1923.<br></p>
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1879</text>
+		<text style="font-size:9px" x="61" y="60">The Upanishads,</text>
+		<text style="font-size:9px" x="61" y="70">Part II (SBE 15)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The<br>
+Sacred Books of the East, Volume 15<br>
+<br>
+<span class="text-h3">The Upanishads, Part II</span><br>
+<span class="text-h5">Translated by F. Max Müller</span><br>
+Oxford, the Clarendon Press<br>
+[1884]<br>
+Scanned at sacred-texts.com, 1997 and 2003, by John Bruno Hare. This text is in the public domain because it was published prior to 1923.<br>
+</p>
+
+
 ## Index
 
 - [Introduction](/en/book/Hinduism/The_Upanishads_Part_II/Introduction)

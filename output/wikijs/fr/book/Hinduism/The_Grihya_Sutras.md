@@ -8,7 +8,42 @@ editor: markdown
 dateCreated: 2025-1-16T20:2:26Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>		<text style="font-size:4px" x="61" y="125">1886-1892</text>		<text style="font-size:9px" x="61" y="60">Les Grihya Sutras</text>		<text style="font-size:9px" x="61" y="70">(2 parties)</text>	</g></svg></div><p style="text-align:center;">Les<br>Livres sacrés de l'Orient, volumes 29 et 30<br><br>RÈGLES DES CÉRÉMONIES DOMESTIQUES VÉDIQUES<br><span class="text-h3">Les Grihya Sutras, (2 parties)</span><br><span class="text-h5">par Hermann Oldenberg</span><br><br>Clarendon : Presses universitaires d'Oxford<br><br>Partie I (SBE 29), [1886]<br>Partie II (SBE 30), [1892]<br></p>> ...Engendrons une descendance.> Acquérons beaucoup de fils, et puissent-ils atteindre un âge avancé.> Aimants, brillants, avec des esprits géniaux, puissions-nous voir cent automnes,> Puissions-nous vivre cent automnes, puissions-nous entendre cent automnes !> — p. 282.Il s'agit de la première partie d'une série de deux traductions des Grihya Sutras des Livres sacrés de l'Orient. Les Grihya Sutras sont un recueil de rituels et de règles domestiques de la fin de l'ère védique (environ 500 av. J.-C.), dont beaucoup reflètent des traditions beaucoup plus anciennes. C'est comme lire les notes de terrain d'un ethnographe voyageant dans le temps dans l'Inde védique. On y trouve des cérémonies de fertilité et de mariage, des lois sur la pureté rituelle, ainsi que des documents sur les initiations, les funérailles et d'autres rites de passage. Ce volume comprend également une translittération sanskrite complète du texte du Khadira-Grihya-Sutra, rare pour la série SBE.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1886-1892</text>
+		<text style="font-size:9px" x="61" y="60">Les Grihya Sutras</text>
+		<text style="font-size:9px" x="61" y="70">(2 parties)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+Les<br>
+Livres sacrés de l'Orient, volumes 29 et 30<br>
+<br>
+RÈGLES DES CÉRÉMONIES DOMESTIQUES VÉDIQUES<br>
+<span class="text-h3">Les Grihya Sutras, (2 parties)</span><br>
+<span class="text-h5">par Hermann Oldenberg</span><br>
+<br>
+Clarendon : Presses universitaires d'Oxford<br>
+<br>
+Partie I (SBE 29), [1886]<br>
+Partie II (SBE 30), [1892]<br>
+</p>
+
+> ...Engendrons une descendance.
+> Acquérons beaucoup de fils, et puissent-ils atteindre un âge avancé.
+> Aimants, brillants, avec des esprits géniaux, puissions-nous voir cent automnes,
+> Puissions-nous vivre cent automnes, puissions-nous entendre cent automnes !
+> — p. 282.
+
+Il s'agit de la première partie d'une série de deux traductions des Grihya Sutras des Livres sacrés de l'Orient. Les Grihya Sutras sont un recueil de rituels et de règles domestiques de la fin de l'ère védique (environ 500 av. J.-C.), dont beaucoup reflètent des traditions beaucoup plus anciennes. C'est comme lire les notes de terrain d'un ethnographe voyageant dans le temps dans l'Inde védique. On y trouve des cérémonies de fertilité et de mariage, des lois sur la pureté rituelle, ainsi que des documents sur les initiations, les funérailles et d'autres rites de passage. Ce volume comprend également une translittération sanskrite complète du texte du Khadira-Grihya-Sutra, rare pour la série SBE.
+
+
 ## Table des matières
 
 - Partie I

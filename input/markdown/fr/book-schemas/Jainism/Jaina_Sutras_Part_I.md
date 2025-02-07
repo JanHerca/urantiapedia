@@ -3,7 +3,7 @@
 ## shelf_name: Jainism
 ## tag: Jainism
 ## cover:
-<div class="urantiapedia-book-front urantiapedia-book-islam">
+<div class="urantiapedia-book-front urantiapedia-book-jain">
 <svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />

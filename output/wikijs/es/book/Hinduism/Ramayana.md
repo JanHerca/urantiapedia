@@ -8,7 +8,29 @@ editor: markdown
 dateCreated: 2025-1-15T22:55:59Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:9px" x="61" y="60">Ramayana</text>	</g></svg></div><p style="text-align:center;">RÁMÁYAN DE VÁLMÍKI<br><span class="text-h3">Ramayana</span><br><span class="text-h5">RALPH T. H. GRIFFITH, M. A.,</span><br><br>[1870-1874]<br></p>Esta es la primera traducción completa de dominio público del Ramayana que se publica en línea. El Ramayana es uno de los dos poemas épicos hindúes, el otro es el Mahabharata. El Ramayana describe una historia de amor entre Rama, un antiguo rey, y Sita, quien es capturada por Ravan, el rey de Ceilán. Rama asedia Ceilán y recupera a Sita. Los paralelismos con la Ilíada son obvios, pero los detalles son muy diferentes.Esta traducción en verso de Griffith, cuyas traducciones del Rig Veda y el Sama Veda también están disponibles en sacred-texts, fue escaneada en 2000 a partir de una copia original, que tenía una composición tipográfica muy deficiente. Debido a la dificultad de convertir este texto de 600 páginas a formato electrónico, el proyecto se suspendió durante varios años hasta que la tecnología de OCR maduró. Finalmente, en 2003, el texto fue revisado por OCR y corregido en Distributed Proofing. Sin embargo, a pesar de los mejores esfuerzos, hay varios lugares en este texto donde la corrección fue difícil o imposible. Estos están indicados por asteriscos o (ilegible). Estamos en el proceso de corregir estos problemas y esperamos tener una versión definitiva de este texto en algún momento. Mientras tanto, esperamos que disfrutes de esta epopeya, que es uno de los cuentos más populares de la mitología india.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:9px" x="61" y="60">Ramayana</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+RÁMÁYAN DE VÁLMÍKI<br>
+<span class="text-h3">Ramayana</span><br>
+<span class="text-h5">RALPH T. H. GRIFFITH, M. A.,</span><br>
+<br>
+[1870-1874]<br>
+</p>
+
+Esta es la primera traducción completa de dominio público del Ramayana que se publica en línea. El Ramayana es uno de los dos poemas épicos hindúes, el otro es el Mahabharata. El Ramayana describe una historia de amor entre Rama, un antiguo rey, y Sita, quien es capturada por Ravan, el rey de Ceilán. Rama asedia Ceilán y recupera a Sita. Los paralelismos con la Ilíada son obvios, pero los detalles son muy diferentes.
+
+Esta traducción en verso de Griffith, cuyas traducciones del Rig Veda y el Sama Veda también están disponibles en sacred-texts, fue escaneada en 2000 a partir de una copia original, que tenía una composición tipográfica muy deficiente. Debido a la dificultad de convertir este texto de 600 páginas a formato electrónico, el proyecto se suspendió durante varios años hasta que la tecnología de OCR maduró. Finalmente, en 2003, el texto fue revisado por OCR y corregido en Distributed Proofing. Sin embargo, a pesar de los mejores esfuerzos, hay varios lugares en este texto donde la corrección fue difícil o imposible. Estos están indicados por asteriscos o (ilegible). Estamos en el proceso de corregir estos problemas y esperamos tener una versión definitiva de este texto en algún momento. Mientras tanto, esperamos que disfrutes de esta epopeya, que es uno de los cuentos más populares de la mitología india.
+
+
 ## Índice
 
 - Invocación

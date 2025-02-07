@@ -8,7 +8,40 @@ editor: markdown
 dateCreated: 2025-1-16T23:40:16Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>		<text style="font-size:4px" x="61" y="125">1905</text>		<text style="font-size:9px" x="61" y="60">The Writings of</text>		<text style="font-size:9px" x="61" y="70">St. Francis of Assisi</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Writings of</span><br><span class="text-h3">St. Francis of Assisi</span><br>NEWLY TRANSLATED INTO ENGLISH WITH AN INTRODUCTION AND NOTES<br><span class="text-h5">by Father Pascal Robinson</span><br>of the Order of Friars Minor<br>PHILADELPHIA<br>The Dolphin Press<br>[1905]<br><br>Scanned at sacred-texts.com, August 2007. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg"><figcaption>St. Francis (Public Domain Image)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
+		<text style="font-size:4px" x="61" y="125">1905</text>
+		<text style="font-size:9px" x="61" y="60">The Writings of</text>
+		<text style="font-size:9px" x="61" y="70">St. Francis of Assisi</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Writings of</span><br>
+<span class="text-h3">St. Francis of Assisi</span><br>
+NEWLY TRANSLATED INTO ENGLISH WITH AN INTRODUCTION AND NOTES<br>
+<span class="text-h5">by Father Pascal Robinson</span><br>
+of the Order of Friars Minor<br>
+PHILADELPHIA<br>
+The Dolphin Press<br>
+[1905]<br>
+<br>
+Scanned at sacred-texts.com, August 2007. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg">
+<figcaption>St. Francis (Public Domain Image)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [Introduction](/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction)

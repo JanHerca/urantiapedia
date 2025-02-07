@@ -8,7 +8,42 @@ editor: markdown
 dateCreated: 2025-1-14T23:38:48Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>		<text style="font-size:4px" x="61" y="125">1886-1892</text>		<text style="font-size:9px" x="61" y="60">The Grihya Sutras</text>		<text style="font-size:9px" x="61" y="70">(2 parts)</text>	</g></svg></div><p style="text-align:center;">The<br>Sacred Books of the East, Volumes 29 & 30<br><br>RULES OF VEDIC DOMESTIC CEREMONIES<br><span class="text-h3">The Grihya Sutras, (2 parts)</span><br><span class="text-h5">by Hermann Oldenberg</span><br><br>Clarendon: Oxford University Press<br><br>Part I (SBE 29), [1886]<br>Part II (SBE 30), [1892]<br></p>> ...Let us beget offspring.> Let us acquire many sons, and may they reach old age.> Loving, bright, with genial minds may we see a hundred autumns,> may we live a hundred autumns, may we hear a hundred autumns!> — p. 282.This is part one of two of the Sacred Books of the East translation of the Grihya Sutras. The Grihya Sutras are a collection of late Vedic-era (ca. 500 BCE) household rituals and regulations, many reflecting much more ancient traditions. It is like reading a time-travelling ethnographer's field notes in Vedic India. Included are fertility and marriage ceremonies, ritual purity laws, plus material on initiations, funerals and other rites of passage. This volume also includes a complete Sanskrit transliteration of the text of the Khadira-Grihya-Sutra, rare for the SBE series.
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1886-1892</text>
+		<text style="font-size:9px" x="61" y="60">The Grihya Sutras</text>
+		<text style="font-size:9px" x="61" y="70">(2 parts)</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+The<br>
+Sacred Books of the East, Volumes 29 & 30<br>
+<br>
+RULES OF VEDIC DOMESTIC CEREMONIES<br>
+<span class="text-h3">The Grihya Sutras, (2 parts)</span><br>
+<span class="text-h5">by Hermann Oldenberg</span><br>
+<br>
+Clarendon: Oxford University Press<br>
+<br>
+Part I (SBE 29), [1886]<br>
+Part II (SBE 30), [1892]<br>
+</p>
+
+> ...Let us beget offspring.
+> Let us acquire many sons, and may they reach old age.
+> Loving, bright, with genial minds may we see a hundred autumns,
+> may we live a hundred autumns, may we hear a hundred autumns!
+> — p. 282.
+
+This is part one of two of the Sacred Books of the East translation of the Grihya Sutras. The Grihya Sutras are a collection of late Vedic-era (ca. 500 BCE) household rituals and regulations, many reflecting much more ancient traditions. It is like reading a time-travelling ethnographer's field notes in Vedic India. Included are fertility and marriage ceremonies, ritual purity laws, plus material on initiations, funerals and other rites of passage. This volume also includes a complete Sanskrit transliteration of the text of the Khadira-Grihya-Sutra, rare for the SBE series.
+
+
 ## Index
 
 - Part I

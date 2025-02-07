@@ -8,7 +8,54 @@ editor: markdown
 dateCreated: 2025-2-7T10:38:9Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Tractate Berakoth</text>	</g></svg></div><p style="text-align:center;">TRANSLATIONS OF EARLY DOCUMENTS<br>SERIES III<br>RABBINIC TEXTS<br>GENERAL EDITORS:<br>W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>TRACTATE BERAKOTH<br><span class="text-h3">TRACTATE BERAKOTH</span><br>(BENEDICTIONS)<br>MISHNA AND TOSEPHTA<br>TRANSLATED FROM THE HEBREW WITH INTRODUCTION AND NOTES<br>BY<br><span class="text-h5">A. LUKYN WILLIAMS, D.D.</span><br>HON. CANON OF ELY CATHEDRAL<br>LONDON<br>SOCIETY FOR PROMOTING<br>CHRISTIAN KNOWLEDGE<br>NORTHUMBERLAND AVENUE, W.C.<br>NEW YORK: THE MACMILLAN COMPANY<br>[1921]<br>Scanned at sacred—texts.com, November 2006. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non—commercial purpose, provided this notice of attribution is left intact in all copies.<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg"></figure><br style="clear:both;"/><br>This is a translation of Tractate Berakoth, a portion of the Mishna which deals with prayer: specifically when, where and how to pray. It includes the Mishna and the Tosephta commentary. This translation was produced by a Christian scholar in the early 20th century. While Williams is not hesitant to reference Christian texts, he is primarily interested in how the rules expressed in this Mishna influenced the early Christians, not in making a sectarian point. This adds some comparative interest. In addition, the extensive scholarly apparatus increases the value of this edition, the only complete public domain translation of this part of the Mishna.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">A. Lukyn Williams</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Tractate Berakoth</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+TRANSLATIONS OF EARLY DOCUMENTS<br>
+SERIES III<br>
+RABBINIC TEXTS<br>
+GENERAL EDITORS:<br>
+W. O. E. OESTERLEY, M.A., D.D. G. H. BOX, M.A., D.D.<br>
+TRACTATE BERAKOTH<br>
+<span class="text-h3">TRACTATE BERAKOTH</span><br>
+(BENEDICTIONS)<br>
+MISHNA AND TOSEPHTA<br>
+TRANSLATED FROM THE HEBREW WITH INTRODUCTION AND NOTES<br>
+BY<br>
+<span class="text-h5">A. LUKYN WILLIAMS, D.D.</span><br>
+HON. CANON OF ELY CATHEDRAL<br>
+LONDON<br>
+SOCIETY FOR PROMOTING<br>
+CHRISTIAN KNOWLEDGE<br>
+NORTHUMBERLAND AVENUE, W.C.<br>
+NEW YORK: THE MACMILLAN COMPANY<br>
+[1921]<br>
+Scanned at sacred—texts.com, November 2006. Proofed and formatted by John Bruno Hare. This text is in the public domain in the United States because it was published prior to January 1st, 1923. These files may be used for any non—commercial purpose, provided this notice of attribution is left intact in all copies.<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/Tractate_Berakoth/barukh.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+<br>
+
+This is a translation of Tractate Berakoth, a portion of the Mishna which deals with prayer: specifically when, where and how to pray. It includes the Mishna and the Tosephta commentary. This translation was produced by a Christian scholar in the early 20th century. While Williams is not hesitant to reference Christian texts, he is primarily interested in how the rules expressed in this Mishna influenced the early Christians, not in making a sectarian point. This adds some comparative interest. In addition, the extensive scholarly apparatus increases the value of this edition, the only complete public domain translation of this part of the Mishna.
+
+
+
 ## Index
 
 - [Editor's Preface](/en/book/Judaism/Tractate_Berakoth/Editors_Preface)

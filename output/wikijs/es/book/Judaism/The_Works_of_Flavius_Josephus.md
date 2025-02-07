@@ -8,7 +8,49 @@ editor: markdown
 dateCreated: 2025-2-7T10:40:43Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Flavio Josefo</text>		<text style="font-size:9px" x="61" y="60">Las obras de</text>		<text style="font-size:9px" x="61" y="70">Flavio Josefo</text></g></svg></div><p style="text-align:center;"><span class="text-h3">Las obras</span><br>de<br><span class="text-h5">Flavio Josefo</span><br>William Whiston, traductor<br>[1878]<br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Judaism/The_Works_of_Flavius_Josephus/josephus.jpg"></figure><br style="clear:both;"/>Josefo nació con el nombre de José ben Matatías en el año 37 d. C. en Jerusalén, en el seno de una familia sacerdotal y real. Destacó en sus estudios de la ley judía y estudió con los saduceos, fariseos y esenios, para finalmente aliarse con los fariseos. En el año 62 d. C. fue a Roma para liberar a algunos sacerdotes encarcelados. Después de cumplir esta misión por intercesión de la esposa de Nerón, Popea, regresó a Jerusalén en el año 65 d. C. y encontró al país en rebelión contra Roma.Aunque Josefo tenía profundas dudas sobre la revuelta, ésta se hizo inevitable debido a las razones que analiza en su historia, principalmente los abusos de los romanos; esto estimuló el crecimiento de movimientos judíos mesiánicos fanáticos que creían que el mundo estaba llegando a su fin en breve. En el año 66 d. C., los zelotes tomaron Masada y los romanos se pusieron en marcha; Josefo fue nombrado comandante de Galilea.Josefo tuvo que librar una guerra defensiva contra una fuerza abrumadora mientras arbitraba disputas intestinas en las filas judías. En el año 67 d. C., Josefo y otros rebeldes fueron acorralados en una cueva durante el asedio de Jotapata e hicieron un pacto de suicidio. Sin embargo, Josefo sobrevivió y fue tomado como rehén por los romanos, liderados por Vespasiano.Josefo reinterpretó astutamente las profecías mesiánicas. Predijo que Vespasiano se convertiría en el gobernante del "mundo entero". Josefo se unió a los romanos, por lo que fue tildado de traidor. Actuó como consultor de los romanos e intermediario con los revolucionarios. Incapaz de convencer a los rebeldes de que se rindieran, Josefo terminó presenciando la segunda destrucción del Templo y la derrota de la nación judía.Su profecía se cumplió en el año 68 d. C., cuando Nerón se suicidó y Vespasiano se convirtió en César. Como resultado, Josefo fue liberado; se mudó a Roma y se convirtió en ciudadano romano, tomando el nombre de la familia Vespasiana, Flavio. Vespasiano encargó a Josefo que escribiera una historia de la guerra, que terminó en el año 78 d. C., la Guerra de los Judíos. Su segunda obra importante, las Antigüedades de los Judíos, se completó en el año 93 d. C. Escribió Contra Apión alrededor del 96-100 d. C. y La vida de Josefo, su autobiografía, alrededor del año 100. Murió poco después.A pesar de su papel ambivalente, Josefo fue un testigo presencial de la historia y sus escritos se consideran de gran autoridad. Estos textos son fundamentales para comprender un momento crucial de la historia mundial, que tiene repercusiones trágicas incluso hoy en día.
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Flavio Josefo</text>
+		<text style="font-size:9px" x="61" y="60">Las obras de</text>
+		<text style="font-size:9px" x="61" y="70">Flavio Josefo</text>
+</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Las obras</span><br>
+de<br>
+<span class="text-h5">Flavio Josefo</span><br>
+William Whiston, traductor<br>
+[1878]<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Judaism/The_Works_of_Flavius_Josephus/josephus.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Josefo nació con el nombre de José ben Matatías en el año 37 d. C. en Jerusalén, en el seno de una familia sacerdotal y real. Destacó en sus estudios de la ley judía y estudió con los saduceos, fariseos y esenios, para finalmente aliarse con los fariseos. En el año 62 d. C. fue a Roma para liberar a algunos sacerdotes encarcelados. Después de cumplir esta misión por intercesión de la esposa de Nerón, Popea, regresó a Jerusalén en el año 65 d. C. y encontró al país en rebelión contra Roma.
+
+Aunque Josefo tenía profundas dudas sobre la revuelta, ésta se hizo inevitable debido a las razones que analiza en su historia, principalmente los abusos de los romanos; esto estimuló el crecimiento de movimientos judíos mesiánicos fanáticos que creían que el mundo estaba llegando a su fin en breve. En el año 66 d. C., los zelotes tomaron Masada y los romanos se pusieron en marcha; Josefo fue nombrado comandante de Galilea.
+
+Josefo tuvo que librar una guerra defensiva contra una fuerza abrumadora mientras arbitraba disputas intestinas en las filas judías. En el año 67 d. C., Josefo y otros rebeldes fueron acorralados en una cueva durante el asedio de Jotapata e hicieron un pacto de suicidio. Sin embargo, Josefo sobrevivió y fue tomado como rehén por los romanos, liderados por Vespasiano.
+
+Josefo reinterpretó astutamente las profecías mesiánicas. Predijo que Vespasiano se convertiría en el gobernante del "mundo entero". Josefo se unió a los romanos, por lo que fue tildado de traidor. Actuó como consultor de los romanos e intermediario con los revolucionarios. Incapaz de convencer a los rebeldes de que se rindieran, Josefo terminó presenciando la segunda destrucción del Templo y la derrota de la nación judía.
+
+Su profecía se cumplió en el año 68 d. C., cuando Nerón se suicidó y Vespasiano se convirtió en César. Como resultado, Josefo fue liberado; se mudó a Roma y se convirtió en ciudadano romano, tomando el nombre de la familia Vespasiana, Flavio. Vespasiano encargó a Josefo que escribiera una historia de la guerra, que terminó en el año 78 d. C., la Guerra de los Judíos. Su segunda obra importante, las Antigüedades de los Judíos, se completó en el año 93 d. C. Escribió Contra Apión alrededor del 96-100 d. C. y La vida de Josefo, su autobiografía, alrededor del año 100. Murió poco después.
+
+A pesar de su papel ambivalente, Josefo fue un testigo presencial de la historia y sus escritos se consideran de gran autoridad. Estos textos son fundamentales para comprender un momento crucial de la historia mundial, que tiene repercusiones trágicas incluso hoy en día.
+
+
+
 ## Índice
 
 - Guerra de los judíos

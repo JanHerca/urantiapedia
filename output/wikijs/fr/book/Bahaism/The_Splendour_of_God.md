@@ -8,7 +8,42 @@ editor: markdown
 dateCreated: 2025-2-5T10:15:31Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">La Splendeur</text>		<text style="font-size:9px" x="61" y="70">de Dieu</text>	</g></svg></div><p style="text-align:center;">EXTRAITS DES ÉCRITS SACRÉS DES BAHA'IS<br><span class="text-h5">par Eric Hammond</span><br>NEW YORK,<br>EP DUTTON AND COMPANY<br>[1909]<br>IMPRIMÉ PAR<br>HAZELL, WATSON ET VINEY, LD.,<br>LONDRES ET AYLESBURY,<br>ANGLETERRE.<br>Scanné, corrigé et mis en forme sur sacred-texts.com, avril 2010, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-bahai">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Eric Hammond</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">La Splendeur</text>
+		<text style="font-size:9px" x="61" y="70">de Dieu</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+EXTRAITS DES ÉCRITS SACRÉS DES BAHA'IS<br>
+<span class="text-h5">par Eric Hammond</span><br>
+NEW YORK,<br>
+EP DUTTON AND COMPANY<br>
+[1909]<br>
+IMPRIMÉ PAR<br>
+HAZELL, WATSON ET VINEY, LD.,<br>
+LONDRES ET AYLESBURY,<br>
+ANGLETERRE.<br>
+Scanné, corrigé et mis en forme sur sacred-texts.com, avril 2010, par John Bruno Hare. Ce texte est dans le domaine public aux États-Unis car il a été publié avant 1923.
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Bahaism/The_Splendour_of_God/name.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Table des matières
 
 - [La bénédiction d'Abbas Effendi](/fr/book/Bahaism/The_Splendour_of_God/The_Benediction)

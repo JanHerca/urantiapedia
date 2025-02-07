@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-18T17:53:4Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Pistis Sophia</span><br>UNA MISCELÁNEA GNÓSTICA: EN SU MAYORÍA EXTRACTOS DE LOS LIBROS DEL SALVADOR, A LOS QUE SE AGREGAN EXTRACTOS DE UNA LITERATURA AFIN; EN INGLÉS<br><span class="text-h5">Por G.R.S. Mead.</span><br><br>Londres: J.M. Watkins[1921]<br>Datos biográficos: GRS (George Robert Stow) Mead [1863-1933]<br>Escaneado, corregido y formateado en sacred-texts.com, junio de 2005, por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg"><figcaption>Invocación, de Lord Frederick Leighton [1889] (imagen de dominio público)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Pistis Sophia</span><br>
+UNA MISCELÁNEA GNÓSTICA: EN SU MAYORÍA EXTRACTOS DE LOS LIBROS DEL SALVADOR, A LOS QUE SE AGREGAN EXTRACTOS DE UNA LITERATURA AFIN; EN INGLÉS<br>
+<span class="text-h5">Por G.R.S. Mead.</span><br>
+<br>
+Londres: J.M. Watkins
+[1921]<br>
+Datos biográficos: GRS (George Robert Stow) Mead [1863-1933]
+<br>
+Escaneado, corregido y formateado en sacred-texts.com, junio de 2005, por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg">
+<figcaption>Invocación, de Lord Frederick Leighton [1889] (imagen de dominio público)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [Prefacio](/en/book/Christianity/Pistis_Sophia/Preface)

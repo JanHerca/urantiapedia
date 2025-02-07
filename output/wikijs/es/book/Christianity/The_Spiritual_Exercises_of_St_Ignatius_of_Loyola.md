@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-18T17:54:19Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">San Ignacio de Loyola</text>		<text style="font-size:4px" x="61" y="125">1909</text>		<text style="font-size:9px" x="61" y="60">Los Ejercicios</text>		<text style="font-size:9px" x="61" y="70">Espirituales</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Los Ejercicios Espirituales de San Ignacio de Loyola</span><br><span class="text-h3">traducido por Elder Mullan</span><br><span class="text-h5">W. Heywood</span><br>Facultatem concedimus ut liber cui titulus «Los Ejercicios Espirituales de San Ignacio de Loyola traducidos del autógrafo del Padre Elder Mullan, S.J.», typis edatur, si iis ad quos spectat ita videbitur. Francisco Xav. Wernz<br>Nueva York, P.J. Kennedy & Sons, imprenta<br>[1914]<br><br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg"></figure><br style="clear:both;"/>Estos son los Ejercicios Espirituales de San Ignacio de Loyola, un plan de contemplación que se realizará durante aproximadamente un mes. San Ignacio de Loyola (1419-1556) fue el fundador de los jesuitas y fue canonizado por el Papa Gregorio XV en 1622. Publicó los Ejercicios Espirituales en 1548. Los Ejercicios estaban destinados a ser utilizados durante un retiro y son una parte central del primer año de formación de los noviciados jesuitas. Sin embargo, uno no tiene que ser un jesuita en formación para aprovechar los Ejercicios: cada vez más,Los laicos y también los no católicos siguen este camino. 
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">San Ignacio de Loyola</text>
+		<text style="font-size:4px" x="61" y="125">1909</text>
+		<text style="font-size:9px" x="61" y="60">Los Ejercicios</text>
+		<text style="font-size:9px" x="61" y="70">Espirituales</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Los Ejercicios Espirituales de San Ignacio de Loyola</span><br>
+<span class="text-h3">traducido por Elder Mullan</span><br>
+<span class="text-h5">W. Heywood</span><br>
+Facultatem concedimus ut liber cui titulus «Los Ejercicios Espirituales de San Ignacio de Loyola traducidos del autógrafo del Padre Elder Mullan, S.J.», typis edatur, si iis ad quos spectat ita videbitur. Francisco Xav. Wernz<br>
+Nueva York, P.J. Kennedy & Sons, imprenta<br>
+[1914]<br>
+<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/ignloy.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Estos son los Ejercicios Espirituales de San Ignacio de Loyola, un plan de contemplación que se realizará durante aproximadamente un mes. San Ignacio de Loyola (1419-1556) fue el fundador de los jesuitas y fue canonizado por el Papa Gregorio XV en 1622. Publicó los Ejercicios Espirituales en 1548. Los Ejercicios estaban destinados a ser utilizados durante un retiro y son una parte central del primer año de formación de los noviciados jesuitas. Sin embargo, uno no tiene que ser un jesuita en formación para aprovechar los Ejercicios: cada vez más,Los laicos y también los no católicos siguen este camino. 
+
+
 ## Index
 
 - [Aprobación de los textos latinos](/en/book/Christianity/The_Spiritual_Exercises_of_St_Ignatius_of_Loyola/Approbation)

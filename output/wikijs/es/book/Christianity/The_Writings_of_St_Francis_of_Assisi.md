@@ -8,7 +8,41 @@ editor: markdown
 dateCreated: 2025-1-18T17:54:27Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>		<text style="font-size:4px" x="61" y="125">1905</text>		<text style="font-size:9px" x="61" y="60">Los escritos de</text>		<text style="font-size:9px" x="61" y="70">San Francisco</text>		<text style="font-size:9px" x="61" y="80">de Asís</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Los escritos de</span><br><span class="text-h3">San Francisco de Asís</span><br>RECIENTEMENTE TRADUCIDO AL INGLÉS CON INTRODUCCIÓN Y NOTAS<br><span class="text-h5">Por el padre Pascal Robinson</span><br>de la Orden de los Frailes Menores<br>FILADELFIA<br>The Dolphin Press<br>[1905]<br><br>Escaneado en sacred-texts.com, agosto de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg"><figcaption>San Francisco de Asís (Imagen de dominio público)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
+		<text style="font-size:4px" x="61" y="125">1905</text>
+		<text style="font-size:9px" x="61" y="60">Los escritos de</text>
+		<text style="font-size:9px" x="61" y="70">San Francisco</text>
+		<text style="font-size:9px" x="61" y="80">de Asís</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Los escritos de</span><br>
+<span class="text-h3">San Francisco de Asís</span><br>
+RECIENTEMENTE TRADUCIDO AL INGLÉS CON INTRODUCCIÓN Y NOTAS<br>
+<span class="text-h5">Por el padre Pascal Robinson</span><br>
+de la Orden de los Frailes Menores<br>
+FILADELFIA<br>
+The Dolphin Press<br>
+[1905]<br>
+<br>
+Escaneado en sacred-texts.com, agosto de 2007. Corregido y formateado por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque se publicó antes de 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Writings_of_St_Francis_of_Assisi/stfran.jpg">
+<figcaption>San Francisco de Asís (Imagen de dominio público)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [Introducción](/en/book/Christianity/The_Writings_of_St_Francis_of_Assisi/Introduction)

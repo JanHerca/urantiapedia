@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-1-16T20:40:26Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>		<text style="font-size:4px" x="61" y="125">1921</text>		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">Pistis Sophia</span><br>A GNOSTIC MISCELLANY: BEING FOR THE MOST PART EXTRACTS FROM THE BOOKS OF THE SAVIOUR, TO WHICH ARE ADDED EXCERPTS FROM A COGNATE LITERATURE; ENGLISHED<br><span class="text-h5">By G. R. S. Mead.</span><br><br>London: J. M. Watkins<br>[1921]<br>Biographical data: G. R. S. (George Robert Stow) Mead [1863-1933]<br><br>Scanned, proofed, and formatted at sacred-texts.com, June 2005, by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br></p><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg"><figcaption>Invocation, by Lord Frederick Leighton [1889] (Public Domain Image)</figcaption></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-christian">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
+		<text style="font-size:4px" x="61" y="125">1921</text>
+		<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">Pistis Sophia</span><br>
+A GNOSTIC MISCELLANY: BEING FOR THE MOST PART EXTRACTS FROM THE BOOKS OF THE SAVIOUR, TO WHICH ARE ADDED EXCERPTS FROM A COGNATE LITERATURE; ENGLISHED<br>
+<span class="text-h5">By G. R. S. Mead.</span><br>
+<br>
+London: J. M. Watkins<br>
+[1921]<br>
+Biographical data: G. R. S. (George Robert Stow) Mead [1863-1933]<br>
+<br>
+Scanned, proofed, and formatted at sacred-texts.com, June 2005, by John Bruno Hare. This text is in the public domain in the United States because it was published prior to 1923.<br>
+</p>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/Pistis_Sophia/invoc.jpg">
+<figcaption>Invocation, by Lord Frederick Leighton [1889] (Public Domain Image)</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Index
 
 - [Preface](/en/book/Christianity/Pistis_Sophia/Preface)

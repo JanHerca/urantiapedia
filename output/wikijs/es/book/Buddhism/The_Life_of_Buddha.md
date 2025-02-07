@@ -8,7 +8,41 @@ editor: markdown
 dateCreated: 2025-2-5T22:39:52Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Andre Ferdinand Herold, Paul C. Blum</text>		<text style="font-size:4px" x="61" y="125">1922-1927</text>		<text style="font-size:9px" x="61" y="60">La vida</text>		<text style="font-size:9px" x="61" y="70">de Buda</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">La vida de Buda</span><br>Según las leyendas de la antigua India<br><span class="text-h5">Por André Ferdinand Herold</span><br>Traducido del francés por<br>PAUL C. BLUM<br>Ilustraciones de Mac Hershberger<br>Título original: La Vie du Bouddha, de André Ferdinand Hérold, París, Édition d'Art, H. Piazza [1922], traducción de Paul C. Bloom, Nueva York, A. & C. Boni, [1927]. Los derechos de autor de la traducción no fueron renovados.<br><br>Escaneado, corregido y formateado en sacred-texts.com, marzo de 2007 por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque el libro original fue traducido antes de 1923 y los derechos de autor de la traducción no fueron renovados en el tiempo previsto por la ley en ese momento.<br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Life_of_Buddha/buddeath.jpg"></figure><br style="clear:both;"/>
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Andre Ferdinand Herold, Paul C. Blum</text>
+		<text style="font-size:4px" x="61" y="125">1922-1927</text>
+		<text style="font-size:9px" x="61" y="60">La vida</text>
+		<text style="font-size:9px" x="61" y="70">de Buda</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">La vida de Buda</span><br>
+Según las leyendas de la antigua India<br>
+<span class="text-h5">Por André Ferdinand Herold</span><br>
+Traducido del francés por<br>
+PAUL C. BLUM<br>
+Ilustraciones de Mac Hershberger<br>
+Título original: La Vie du Bouddha, de André Ferdinand Hérold, París, Édition d'Art, H. Piazza [1922], traducción de Paul C. Bloom, Nueva York, A. & C. Boni, [1927]. Los derechos de autor de la traducción no fueron renovados.<br>
+<br>
+Escaneado, corregido y formateado en sacred-texts.com, marzo de 2007 por John Bruno Hare. Este texto es de dominio público en los Estados Unidos porque el libro original fue traducido antes de 1923 y los derechos de autor de la traducción no fueron renovados en el tiempo previsto por la ley en ese momento.
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Life_of_Buddha/buddeath.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+
 ## Índice
 
 - [Prólogo](/es/book/Buddhism/The_Life_of_Buddha/Foreword)

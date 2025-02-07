@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2025-1-13T23:20:32Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>		<text style="font-size:4px" x="61" y="125">1896</text>		<text style="font-size:9px" x="61" y="60">The Rig-Veda</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">The Rig Veda</span><br><span class="text-h5">Ralph T.H. Griffith, Translator</span><br>[1896]<br><br></p>This is the Ralph T.H. Griffith English translation of the Rig Veda. This was one of the first etexts developed for this site. Each page of this is cross-linked with the Sanskrit text of the Rig Veda. Both this and the Sanskrit Rig Veda require browser support for Unicode. If you have trouble seeing non-Latin characters in this text, refer to the Sacred-texts [Unicode page](https://archive.sacred-texts.com/unicode.htm).
+<div class="urantiapedia-book-front urantiapedia-book-hindu">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">1896</text>
+		<text style="font-size:9px" x="61" y="60">The Rig-Veda</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">The Rig Veda</span><br>
+<span class="text-h5">Ralph T.H. Griffith, Translator</span><br>
+[1896]<br>
+<br>
+</p>
+
+This is the Ralph T.H. Griffith English translation of the Rig Veda. This was one of the first etexts developed for this site. Each page of this is cross-linked with the Sanskrit text of the Rig Veda. Both this and the Sanskrit Rig Veda require browser support for Unicode. If you have trouble seeing non-Latin characters in this text, refer to the Sacred-texts [Unicode page](https://archive.sacred-texts.com/unicode.htm).
+
+
 ## Index
 
 - [Rig-Veda, Book 1](/en/book/Hinduism/The_Rig_Veda/Book_1_Index)

@@ -8,7 +8,55 @@ editor: markdown
 dateCreated: 2025-2-6T11:55:4Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Nyogen Senzaki et Paul Reps</text>		<text style="font-size:4px" x="61" y="125">1934</text>		<text style="font-size:9px" x="61" y="60">La Porte sans Porte,</text>		<text style="font-size:9px" x="61" y="70">Ekai [Huikai],</text>		<text style="font-size:9px" x="61" y="80">appelée Mu-mon</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">LA PORTE SANS PORTE</span><br><span class="text-h5">par Ekai, appelée Mu-mon</span><br>Transcrit par Nyogen Senzaki et Paul Reps<br>John Murray, Los Angeles<br>[1934]<br>numérisé, vérifié et formaté sur Sacred-texts.com, mars 2007, par John Bruno Lièvre. Ce texte est dans le domaine public aux États-Unis car il n'a pas été renouvelé au US Copyright Office dans les délais requis par la loi à l'époque.<br><br><br></p><br><figure id="Figure_1" class="image urantiapedia image-style-align-center"><img src="/image/book/Buddhism/The_Gateless_Gate/manjusri.jpg"></figure><br style="clear:both;"/>Ce recueil classique du bouddhisme zen de 49 koans avec les commentaires de Mumon a été publié à l'origine en 1934, et plus tard inclus dans l'anthologie populaire de Paul Reps et Nyogen Senzaki _Zen Flesh, Zen Bones_. En raison du non-renouvellement, il est actuellement dans le domaine public aux États-Unis (bien que d'autres parties de _Zen Flesh, Zen Bones_ ne le soient pas).Les koans sont une technique spirituelle du bouddhisme zen qui utilise le jeu de mots pour atteindre l'illumination. Elles comportent souvent des déclarations absurdes ou contradictoires, qui visent à créer une dissonance cognitive extrême dans l’esprit de l’élève.En tant que tels, leur contenu ou leur structure réelle n'est pas aussi important que l'état mental qu'ils induisent. Cette collection comprend certains des koans les plus célèbres, tels que [les « trois livres de lin » de Tozan](https://sacred-texts.com/bud/glg/glg18.htm) :_Qu'est-ce que le Bouddha ? — Ce lin pèse trois livres._et [l'énigme de Baso](https://sacred-texts.com/bud/glg/glg33.htm) :_Qu'est-ce que Bouddha ? — Cet esprit n'est pas Bouddha._ainsi que d'autres impliquant un comportement bizarre, comme [Nansen coupe le chat en deux](https://sacred-texts.com/bud/glg/glg14.htm) et [Souffler la bougie](https://sacred-texts.com/bud/glg/glg28.htm).Bien que court et succinct, ce livre a une profondeur énorme et offre de nouvelles récompenses à la lecture répétée.
+<div class="urantiapedia-book-front urantiapedia-book-buddha">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Nyogen Senzaki et Paul Reps</text>
+		<text style="font-size:4px" x="61" y="125">1934</text>
+		<text style="font-size:9px" x="61" y="60">La Porte sans Porte,</text>
+		<text style="font-size:9px" x="61" y="70">Ekai [Huikai],</text>
+		<text style="font-size:9px" x="61" y="80">appelée Mu-mon</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">LA PORTE SANS PORTE</span><br>
+<span class="text-h5">par Ekai, appelée Mu-mon</span><br>
+Transcrit par Nyogen Senzaki et Paul Reps<br>
+John Murray, Los Angeles<br>
+[1934]<br>
+numérisé, vérifié et formaté sur Sacred-texts.com, mars 2007, par John Bruno Lièvre. Ce texte est dans le domaine public aux États-Unis car il n'a pas été renouvelé au US Copyright Office dans les délais requis par la loi à l'époque.<br>
+<br>
+<br>
+</p>
+
+<br>
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Buddhism/The_Gateless_Gate/manjusri.jpg">
+</figure>
+
+<br style="clear:both;"/>
+
+Ce recueil classique du bouddhisme zen de 49 koans avec les commentaires de Mumon a été publié à l'origine en 1934, et plus tard inclus dans l'anthologie populaire de Paul Reps et Nyogen Senzaki _Zen Flesh, Zen Bones_. En raison du non-renouvellement, il est actuellement dans le domaine public aux États-Unis (bien que d'autres parties de _Zen Flesh, Zen Bones_ ne le soient pas).
+
+Les koans sont une technique spirituelle du bouddhisme zen qui utilise le jeu de mots pour atteindre l'illumination. Elles comportent souvent des déclarations absurdes ou contradictoires, qui visent à créer une dissonance cognitive extrême dans l’esprit de l’élève.En tant que tels, leur contenu ou leur structure réelle n'est pas aussi important que l'état mental qu'ils induisent. Cette collection comprend certains des koans les plus célèbres, tels que [les « trois livres de lin » de Tozan](https://sacred-texts.com/bud/glg/glg18.htm) :
+
+_Qu'est-ce que le Bouddha ? — Ce lin pèse trois livres._
+
+et [l'énigme de Baso](https://sacred-texts.com/bud/glg/glg33.htm) :
+
+_Qu'est-ce que Bouddha ? — Cet esprit n'est pas Bouddha._
+
+ainsi que d'autres impliquant un comportement bizarre, comme [Nansen coupe le chat en deux](https://sacred-texts.com/bud/glg/glg14.htm) et [Souffler la bougie](https://sacred-texts.com/bud/glg/glg28.htm).
+
+Bien que court et succinct, ce livre a une profondeur énorme et offre de nouvelles récompenses à la lecture répétée.
+
+
+
 ## Table des matières
 
 - [1. — 5.](/fr/book/Buddhism/The_Gateless_Gate/5)

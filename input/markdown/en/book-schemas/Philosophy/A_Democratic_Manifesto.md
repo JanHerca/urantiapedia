@@ -1,17 +1,17 @@
-## title: Hebraic Literature
-## folder_name: Hebraic_Literature
+## title: A Democratic Manifesto
+## folder_name: A_Democratic_Manifesto
 ## shelf_name: Judaism
 ## tag: Judaism
 ## cover:
-<div class="urantiapedia-book-front urantiapedia-book-judean">
+<div class="urantiapedia-book-front urantiapedia-book-science">
 <svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">Edited Maurice Harris</text>
-		<text style="font-size:4px" x="61" y="125">1901</text>
-		<text style="font-size:9px" x="61" y="60">Hebraic</text>
-		<text style="font-size:9px" x="61" y="70">Literature</text>
+		<text style="font-size:5px" x="61" y="22">Emery Reves</text>
+		<text style="font-size:4px" x="61" y="125">New York: Random House, 1942</text>
+		<text style="font-size:9px" x="61" y="60">A Democratic</text>
+		<text style="font-size:9px" x="61" y="70">Manifesto</text>
 	</g>
 </svg>
 </div>

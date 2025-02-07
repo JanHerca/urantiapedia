@@ -8,7 +8,38 @@ editor: markdown
 dateCreated: 2025-2-7T10:44:27Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-islam"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Modifié par Maurice Harris</text>		<text style="font-size:4px" x="61" y="125">1901</text>		<text style="font-size:9px" x="61" y="60">Littérature</text>		<text style="font-size:9px" x="61" y="70">hébraïque</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">LITTÉRATURE HÉBRAÏQUE</span><br><span class="text-h5">TRADUCTIONS DU</span><br><span class="text-h5">TALMUD</span><br><span class="text-h5">MIDRASHIM ET</span><br><span class="text-h5">KABBALA.</span><br>AVEC INTRODUCTION SPÉCIALE<br>PAR<br>MAURICE H. HARRIS<br>[1901]<br><br></p><br>_La littérature hébraïque_ est une collection très lisible de livres juifs Littérature juive, comprenant des extraits du Talmud, du Midrash et de la Kabbale. Le Talmud, source principale des traditions et des lois religieuses juives, pourrait être considéré comme le premier hypertexte. Cependant, cela a empêché sa conversion au format électronique, en raison de sa complexité et de sa taille. Cette grande compilation d'extraits talmudiques servira à illustrer cette riche tradition. Les extraits du Talmud sont classés par références numériques (avec quelques thèmes intermédiaires). J'ai ajouté la répartition par chapitre de la section du Talmud, sans aucune autre modification. Ce texte est dans le domaine public (_jbh_).
+<div class="urantiapedia-book-front urantiapedia-book-judean">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Modifié par Maurice Harris</text>
+		<text style="font-size:4px" x="61" y="125">1901</text>
+		<text style="font-size:9px" x="61" y="60">Littérature</text>
+		<text style="font-size:9px" x="61" y="70">hébraïque</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">LITTÉRATURE HÉBRAÏQUE</span><br>
+<span class="text-h5">TRADUCTIONS DU</span><br>
+<span class="text-h5">TALMUD</span><br>
+<span class="text-h5">MIDRASHIM ET</span><br>
+<span class="text-h5">KABBALA.</span><br>
+AVEC INTRODUCTION SPÉCIALE<br>
+PAR<br>
+MAURICE H. HARRIS<br>
+[1901]<br>
+<br>
+</p>
+
+<br>
+
+_La littérature hébraïque_ est une collection très lisible de livres juifs Littérature juive, comprenant des extraits du Talmud, du Midrash et de la Kabbale. Le Talmud, source principale des traditions et des lois religieuses juives, pourrait être considéré comme le premier hypertexte. Cependant, cela a empêché sa conversion au format électronique, en raison de sa complexité et de sa taille. Cette grande compilation d'extraits talmudiques servira à illustrer cette riche tradition. Les extraits du Talmud sont classés par références numériques (avec quelques thèmes intermédiaires). J'ai ajouté la répartition par chapitre de la section du Talmud, sans aucune autre modification. Ce texte est dans le domaine public (_jbh_).
+
+
+
 ## Table des matières
 
 - [Introduction](/fr/book/Judaism/Hebraic_Literature/Introduction)
