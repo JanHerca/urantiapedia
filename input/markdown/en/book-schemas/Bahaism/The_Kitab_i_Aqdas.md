@@ -1,7 +1,7 @@
 ## title: The Kitab-i-Aqdas
 ## folder_name: The_Kitab_i_Aqdas
 ## shelf_name: Bahaism
-## tag: Bahaism
+## tag: Bahai
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-bahai">
 <svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">

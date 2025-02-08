@@ -3,7 +3,7 @@ title: "Tels que révélés dans les tablettes et les instructions pour les bien
 description: "La splendeur de Dieu"
 published: true
 date: 2025-2-5T10:15:31Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T10:15:31Z
 ---

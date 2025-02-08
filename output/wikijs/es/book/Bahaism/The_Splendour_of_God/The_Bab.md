@@ -3,7 +3,7 @@ title: "El Bab: El adivino"
 description: "El esplendor de Dios"
 published: true
 date: 2025-2-5T9:13:35Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T9:13:35Z
 ---

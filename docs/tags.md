@@ -21,7 +21,7 @@ Asia
 Astronomy
 Atheism
 Author
-Bahai
+Bahaism
 Beginner Studies
 Bible
 Bible—1 Chronicles
@@ -177,6 +177,7 @@ Intellectual disability
 Interfaith
 Islam
 IUA
+Jainism
 Japan
 Jesus
 Jesus life
@@ -250,6 +251,7 @@ Secularism
 Self Development
 Service
 Service Opportunities
+Shinto
 Shroud of Turin
 Slides
 Sociology

@@ -3,7 +3,7 @@ title: "El tercer Valle: El Valle del Conocimiento Divino"
 description: "El esplendor de Dios"
 published: true
 date: 2025-2-5T9:13:35Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T9:13:35Z
 ---

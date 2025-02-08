@@ -3,7 +3,7 @@ title: "Como se revela en las Tablas y las Instrucciones para los Amados en Amé
 description: "El esplendor de Dios"
 published: true
 date: 2025-2-5T9:13:35Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T9:13:35Z
 ---

@@ -3,7 +3,7 @@ title: "Full text"
 description: "Epistle to the Son of the Wolf"
 published: true
 date: 2025-2-4T22:15:50Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-4T22:15:50Z
 ---

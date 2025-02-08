@@ -3,7 +3,7 @@ title: "Le Kitab-i-Iqan"
 description: 
 published: true
 date: 2025-2-5T10:14:19Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T10:14:19Z
 ---

@@ -3,7 +3,7 @@ title: "Synopsis And Codification Of The Laws And Ordinances Of The Kitab-I-Aqda
 description: "The Kitab-i-Aqdas"
 published: true
 date: 2025-2-4T22:15:57Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-4T22:15:57Z
 ---

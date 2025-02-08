@@ -3,7 +3,7 @@ title: "The Second Valley: The Valley of Love"
 description: "The Splendour of God"
 published: true
 date: 2025-2-4T22:17:56Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-4T22:17:56Z
 ---

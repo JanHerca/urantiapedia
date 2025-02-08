@@ -3,7 +3,7 @@ title: "Textes des Tablettes de Bahá'u'lláh"
 description: "La splendeur de Dieu"
 published: true
 date: 2025-2-5T10:15:31Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T10:15:31Z
 ---

@@ -3,7 +3,7 @@ title: "Texto completo"
 description: "Epístola al Hijo del Lobo"
 published: true
 date: 2025-2-5T9:13:10Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T9:13:10Z
 ---

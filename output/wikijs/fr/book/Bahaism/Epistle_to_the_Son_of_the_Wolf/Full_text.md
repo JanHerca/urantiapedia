@@ -3,7 +3,7 @@ title: "Texte intégral"
 description: "Épître au Fils du Loup"
 published: true
 date: 2025-2-5T10:14:3Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T10:14:3Z
 ---

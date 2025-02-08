@@ -3,7 +3,7 @@ title: "Introduction"
 description: "Le Kitab-i-Aqdas"
 published: true
 date: 2025-2-5T10:14:9Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T10:14:9Z
 ---

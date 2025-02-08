@@ -3,7 +3,7 @@ title: "La Tabla de Ishraqat La Octava Ishraq"
 description: "El Kitab-i-Aqdas"
 published: true
 date: 2025-2-5T9:13:18Z
-tags: Bahaism, book
+tags: Bahai, book
 editor: markdown
 dateCreated: 2025-2-5T9:13:18Z
 ---
