@@ -59,7 +59,7 @@ PART III. INTERPRETATION OF THEORY | #
 	VIII. The Nature of Man | 8
 	IX. The Nature of God | 9
 	X. The Nature of God (continued) | 10
-EPILOGUE
+EPILOGUE | #
 	XI. The Christian Faith | 11
 Bibliography | Bibliography
 Index | Index

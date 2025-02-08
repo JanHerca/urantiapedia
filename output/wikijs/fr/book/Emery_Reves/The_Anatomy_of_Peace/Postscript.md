@@ -1,0 +1,53 @@
+---
+title: "Post-scriptum"
+description: "L'anatomie de la paix"
+published: true
+date: 2025-2-7T19:42:46Z
+tags: Philosophy, book
+editor: markdown
+dateCreated: 2025-2-7T19:42:46Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/book/Philosophy/The_Anatomy_of_Peace/15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. LOI . . . CONQUISTA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Philosophy/The_Anatomy_of_Peace">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/book/Philosophy/The_Anatomy_of_Peace/15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. LOI . . . CONQUISTA</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Philosophy/The_Anatomy_of_Peace">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
