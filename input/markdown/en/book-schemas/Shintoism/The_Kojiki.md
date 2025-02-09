@@ -16,7 +16,7 @@
 </div>
 
 <p style="text-align:center;">
-<span class="text-h3">A Translation of the "Ko-ji-ki,"</span><br>
+<span class="text-h3">A Translation of the “Ko-ji-ki,”</span><br>
 OR<br>
 “RECORDS OF ANCIENT MATTERS.”<br>
 (<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)
