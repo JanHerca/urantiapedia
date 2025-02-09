@@ -253,6 +253,7 @@ Service
 Service Opportunities
 Shinto
 Shroud of Turin
+Sikhism
 Slides
 Sociology
 Soul
@@ -265,6 +266,7 @@ Study Aid
 Study Groups
 Suffering
 Sufism
+Taoism
 Teaching Methods
 Teamwork
 The Arena
@@ -329,6 +331,7 @@ Will of God
 William Sadler
 Women discrimination
 Worship
+Zoroastrianism
 
 ## References
 

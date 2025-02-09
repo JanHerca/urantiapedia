@@ -3,7 +3,7 @@ title: "Escritos religiosos del Bahaismo"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
-tags: index, book
+tags: index, book, Bahaism
 editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---

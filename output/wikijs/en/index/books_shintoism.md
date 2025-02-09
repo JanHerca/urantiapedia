@@ -3,7 +3,7 @@ title: "Shinto religious books"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
-tags: index, book
+tags: index, book, Shinto
 editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
