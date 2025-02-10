@@ -116,6 +116,20 @@ dateCreated: 2022-09-27T13:55:38.362Z
 			</div>
 		</div>
 	</div>
+	<!-- Confucianism religious books -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/book/Group_cards/Confucianism_400x200.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Confucianism religious books</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/books_confucianism" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
 	<!-- Taoism religious books -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">

@@ -23,7 +23,7 @@ The Sacred Books of China, vol. 2 of 6<br>
 Part II of The Texts of Confucianism.<br>
 <span class="text-h5">James Legge, Translator.</span><br>
 Oxford, the Clarendon Press<br>
-[1882]<br>
+[1899]<br>
 Scanned at sacred-texts.com, March, 2003. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.<br>
 </p>
 
@@ -38,32 +38,103 @@ There are actually _four_ possible values for each of the lines; the two on/off 
 _Production Notes_: This is a complete overhaul of the Legge I Ching etext, with all of the original illustrations. This utilizes [Unicode characters](https://archive.sacred-texts.com/unicode.htm) throughout to represent the 'short A' and the 'Yodh' found in the original book. Because not all browsers support the official Unicode 'Yodh' (Ȝ and ȝ), we have used Ž and ž to represent it. In addition, we have used images to present the dozen or so Chinese characters in this text.
 
 ## index:
+Contents | Contents
 Preface | Preface
-Introduction | Introduction
-Life of Guru Nanak | #
-	Chapter I | Nanak_1
-	Chapter II | Nanak_2
-	Chapter III | Nanak_3
-	Chapter IV | Nanak_4
-	Chapter V | Nanak_5
-	Chapter VI | Nanak_6
-	Chapter VII | Nanak_7
-	Chapter VIII | Nanak_8
-	Chapter IX | Nanak_9
-	Chapter X | Nanak_10
-	Chapter XI | Nanak_11
-	Chapter XII | Nanak_12
-	Chapter XIII | Nanak_13
-	Chapter XIV | Nanak_14
-	Chapter XV | Nanak_15
-	Chapter XVI | Nanak_16
-	Chapter XVII | Nanak_17
-Japji | Japji
-Asa Ki War | Asa_Ki_War
-The Rahiras | The_Rahiras
-The Sohila | The_Sohila
-Hymns of Guru Nanak | Hymns_Of_Guru_Nanak
-Additional Sloks | Additional_Sloks
+Introduction | #
+	Chapter I: The Yî King from The Twelfth Century B.C. to the Commencement of the Christian Era | Introduction_1
+	Chapter II: The Subject-Matter of the Text. The Lineal Figures and the Explanation of Them | Introduction_2
+	Chapter III: The Appendixes | Introduction_3
+Plates | Plates
+	Plate I | Plates#p1
+	Plate II, Figure 1 | Plates#p21
+	Plate II, Figure 2 | Plates#p22
+	Plate III, Figure 1 | Plates#p31
+	Plate III, Figure 2 | Plates#p32
+The Yî King Text: Section I | Section_1
+	I. The Khien Hexagram | Section_1#p1
+	II. The Khwăn Hexagram | Section_1#p2
+	III. The Kun Hexagram | Section_1#p3
+	IV. The Măng Hexagram | Section_1#p4
+	V. The Hsü Hexagram | Section_1#p5
+	VI. The Sung Hexagram | Section_1#p6
+	VII. The Sze Hexagram | Section_1#p7
+	VIII. The Pî Hexagram | Section_1#p8
+	IX. The Hsiâo Khû Hexagram | Section_1#p9
+	X. The Lî Hexagram | Section_1#p10
+	XI. The Thâi Hexagram | Section_1#p11
+	XII. The Phî Hexagram | Section_1#p12
+	XIII. The Thung Zăn | Section_1#p13
+	XIV. The Tâ Yû Hexagram | Section_1#p14
+	XV. The Khien Hexagram | Section_1#p15
+	XVI. The Yü Hexagram | Section_1#p16
+	XVII. The Sui Hexagram | Section_1#p17
+	XVIII. The Kû Hexagram | Section_1#p18
+	XIX. The Lin Hexagram | Section_1#p19
+	XX. The Kwân Hexagram | Section_1#p20
+	XXI. The Shih Ho Hexagram | Section_1#p21
+	XXII. The Pî Hexagram | Section_1#p22
+	XXIII. The Po Hexagram | Section_1#p23
+	XXIV. The Fû Hexagram | Section_1#p24
+	XXV: The Wû Wang Hexagram | Section_1#p25
+	XXVI. The Tâ Khû Hexagram | Section_1#p26
+	XXVII. The Î Hexagram | Section_1#p27
+	XXVIII. The Tâ Kwo Hexagram | Section_1#p28
+	XXIX. The Khan Hexagram | Section_1#p29
+	XXX. The Lî Hexagram | Section_1#p30
+Text Section II | Section_2
+	XXXI. The Hsien Hexagram | Section_2#p31
+	XXXII. The Hăng Hexagram | Section_2#p32
+	XXXIII. The Thun Hexagram | Section_2#p33
+	XXXIV. The Tâ Kwang Hexagram | Section_2#p34
+	XXXV. The Žin Hexagram | Section_2#p35
+	XXXVI. The Ming Î Hexagram | Section_2#p36
+	XXXVII. The Kiâ Zăn Hexagram | Section_2#p37
+	XXXVIII. The Khwei Hexagram | Section_2#p38
+	XXXIX. The Kien Hexagram | Section_2#p39
+	XL. The Kieh Hexagram | Section_2#p40
+	XLI. The Sun Hexagram | Section_2#p41
+	XLII. The Yî Hexagram | Section_2#p42
+	XLIII. The Kwâi Hexagram | Section_2#p43
+	XLIV. The Kâu Hexagram | Section_2#p44
+	XLV. The Žhui Hexagram | Section_2#p45
+	XLVI. The Shăng Hexagram | Section_2#p46
+	XLVII. The Khwăn Hexagram | Section_2#p47
+	XLVIII. The Žing Hexagram | Section_2#p48
+	XLIX. The Ko Hexagram | Section_2#p49
+	L. The Ting Hexagram | Section_2#p50
+	LI. The Kăn Hexagram | Section_2#p51
+	LII. The Kăn Hexagram | Section_2#p52
+	LIII. The Kien Hexagram | Section_2#p53
+	LIV. The Kwei Mei Hexagram | Section_2#p54
+	LV. The Făng Hexagram | Section_2#p55
+	LVI. The Lü Hexagram | Section_2#p56
+	LVII. The Sun Hexagram | Section_2#p57
+	LVIII. The Tui Hexagram | Section_2#p58
+	LIX. The Hwân Hexagram | Section_2#p59
+	LX. The Kieh Hexagram | Section_2#p60
+	LXI. The Kung Fû Hexagram | Section_2#p61
+	LXII. The Hsiâo Kwo Hexagram | Section_2#p62
+	LXIII. The Kî Žî Hexagram | Section_2#p63
+	LXIV. The Wei Žî Hexagram | Section_2#p64
+The Appendixes | #
+	Appendix I | #
+		Section I | Appendix_1
+		Section II | Appendix_1#s2
+	Appendix II | #
+		Section I | Appendix_2
+		Section II | Appendix_2#s2
+	Appendix III: The Great Appendix | #
+		Section I | Appendix_3
+		Section II | Appendix_3#s2
+	Appendix IV | #
+		Section I: Khien | Appendix_4
+		Section II: Khwăn | Appendix_4#s2
+	Appendix V | #
+		Appendix V: Treatise of Remarks on the Trigrams | Appendix_5
+	Appendix VI | #
+		Appendix VI: The Orderly Sequence of the Hexagrams | Appendix_6
+	Appendix VII | #
+		Appendix VII | Appendix_7
 
 ## links:
-[Sacred texts website](https://sacred-texts.com/skh/tsr1/index.htm)
+[Sacred texts website](https://sacred-texts.com/ich/index.htm)
