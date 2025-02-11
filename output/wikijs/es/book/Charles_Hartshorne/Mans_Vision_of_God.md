@@ -81,7 +81,9 @@ CHICAGO — NUEVA YORK <br>
 * [Epílogo. Panenteísmo, relatividad trascendental y la Trinidad](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue)
 * [Agradecimientos](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments)
 
+## Referencias
 
+- [Internet Archive](https://archive.org/details/mansvisionofgodl0000hart)
 
 
 

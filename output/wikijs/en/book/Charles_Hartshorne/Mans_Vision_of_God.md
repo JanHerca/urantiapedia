@@ -77,9 +77,9 @@ CHICAGO — NEW YORK <br>
 * [Epilogue. Panentheism, Transcendental Relativity, and the Trinity](/en/book/Charles_Hartshorne/Mans_Vision_of_God/Epilogue)
 * [Acknowledgments](/en/book/Charles_Hartshorne/Mans_Vision_of_God/Acknowledgments)
 
+## References
 
-
-
+- [Internet Archive](https://archive.org/details/mansvisionofgodl0000hart)
 
 
 
