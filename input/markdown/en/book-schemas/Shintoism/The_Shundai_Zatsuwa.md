@@ -1,4 +1,4 @@
-## title: Kogoshui: The Shundai Zatsuwa (A Japanese Philosopher)
+## title: The Shundai Zatsuwa (A Japanese Philosopher)
 ## folder_name: The_Shundai_Zatsuwa
 ## shelf_name: Shintoism
 ## tag: Shinto

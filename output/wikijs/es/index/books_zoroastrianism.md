@@ -38,12 +38,67 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">J. Darmesteter y L.H. Mills (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1880-1887</text>
 							<text style="font-size:9px" x="61" y="60">El Zend Avesta</text>
-							<text style="font-size:9px" x="61" y="70">(3 partes)</text>
+							<text style="font-size:9px" x="61" y="70">Parte I</text>
+							<text style="font-size:9px" x="61" y="80">Vendîdâd</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, (3 partes): “Vendîdâd” (SBE 4), “The Sîrôzahs, Yasts y Nyâyis” (SBE 23), “The Yasna, Visparad, Âfrînagân, Gâhs y fragmentos varios” (SBE 31)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte I: “Vendîdâd” (SBE 4)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-zoroaster urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">J. Darmesteter y L.H. Mills (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1880-1887</text>
+							<text style="font-size:9px" x="61" y="60">El Zend Avesta</text>
+							<text style="font-size:9px" x="61" y="70">Parte II</text>
+							<text style="font-size:9px" x="61" y="80">El Sîrôzahs,</text>
+							<text style="font-size:9px" x="61" y="90">Yasts y Nyâyis</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte II: “El Sîrôzahs, Yasts y Nyâyis” (SBE 23)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-zoroaster urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">J. Darmesteter y L.H. Mills (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">1880-1887</text>
+							<text style="font-size:9px" x="61" y="60">El Zend Avesta</text>
+							<text style="font-size:9px" x="61" y="70">Parte I</text>
+							<text style="font-size:9px" x="61" y="80">El Yasna, Visparad,</text>
+							<text style="font-size:9px" x="61" y="90">Âfrînagân, Gâhs...</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Zend Avesta, Parte III: “El Yasna, Visparad, Âfrînagân, Gâhs y Fragmentos Varios” (SBE 31)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Darmesteter y L.H. Mills (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">

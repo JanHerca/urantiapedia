@@ -37,7 +37,7 @@ Los siguientes errores han sido corregidos o anotados en la versión HTML; la ve
 
 ## index:
 Libro 1: Adi Parva | #
-	Libro 1 — Translator's Preface | Book_1_Preface
+	Libro 1 — Translator's Prefacio | Book_1_Preface
 	Libro 1 — Adi Parva | Book_1_1
 	Libro 1 — Paushya Parva | Book_1_2
 	Libro 1 — Pauloma Parva | Book_1_3

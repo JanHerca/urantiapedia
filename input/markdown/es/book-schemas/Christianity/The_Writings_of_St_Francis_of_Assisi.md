@@ -68,4 +68,4 @@ Bibliografía | Bibliography
 Índice de la Bibliografía | Index
 
 ## links:
-[Sacred texts website](https://archive.sacred-texts.com/chr/wosf/index.htm)
+[Sitio web de textos sagrados](https://archive.sacred-texts.com/chr/wosf/index.htm)

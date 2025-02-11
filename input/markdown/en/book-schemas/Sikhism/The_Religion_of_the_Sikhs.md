@@ -10,8 +10,8 @@
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">Dorothy Field</text>
 		<text style="font-size:4px" x="61" y="125">1914</text>
-		<text style="font-size:9px" x="61" y="60">La religión</text>
-		<text style="font-size:9px" x="61" y="70">de los sijs</text>
+		<text style="font-size:9px" x="61" y="60">The Religion</text>
+		<text style="font-size:9px" x="61" y="70">of the Sikhs</text>
 	</g>
 </svg>
 </div>

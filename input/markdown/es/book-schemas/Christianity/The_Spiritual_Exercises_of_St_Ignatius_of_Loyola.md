@@ -36,7 +36,7 @@ Estos son los Ejercicios Espirituales de San Ignacio de Loyola, un plan de conte
 
 ## index:
 Aprobación de los textos latinos | Approbation
-Prefacio de aprobación | Preface 
+Prefacio de aprobación | Prefacio 
 Nota general, Oración del Padre Diertins, Anotaciones y presupuestos | Notes 
 Primera semana | 1 
 	Principio y fundamento | 1#h1 

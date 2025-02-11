@@ -59,7 +59,7 @@ Life of Guru Amar Das, The Third Guru | #
 	Chapter XIII | Amar_Das_13
 	Chapter XIV | Amar_Das_14
 Hymns of Guru Amar Das | Amar_Das_Hyms
-Life of Guru Ram Das, The Fourth Guru
+Life of Guru Ram Das, The Fourth Guru | #
 	Chapter I | Ram_Das_1
 	Chapter II | Ram_Das_2
 	Chapter III | Ram_Das_3

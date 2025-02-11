@@ -1,4 +1,4 @@
-## title: Kogoshui: In Ghostly Japan
+## title: In Ghostly Japan
 ## folder_name: In_Ghostly_Japan
 ## shelf_name: Shintoism
 ## tag: Shinto
