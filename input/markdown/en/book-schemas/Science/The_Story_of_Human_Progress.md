@@ -1,6 +1,6 @@
 ## title: The Story of Human Progress
 ## folder_name: The_Story_of_Human_Progress
-## shelf_name: Geology
+## shelf_name: Leon_C_Marshall
 ## tag: Geology, Science
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

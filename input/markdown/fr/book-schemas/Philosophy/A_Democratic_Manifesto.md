@@ -1,6 +1,6 @@
 ## title: Un manifeste démocratique
 ## folder_name: A_Democratic_Manifesto
-## shelf_name: Philosophy
+## shelf_name: Emery_Reves
 ## tag: Philosophy
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

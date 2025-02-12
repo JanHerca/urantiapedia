@@ -1,6 +1,6 @@
 ## title: Jesus—Man of Genius
 ## folder_name: Jesus_Man_of_Genius
-## shelf_name: Theology
+## shelf_name: John_Middleton_Murry
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

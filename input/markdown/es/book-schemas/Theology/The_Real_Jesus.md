@@ -1,6 +1,6 @@
 ## title: El verdadero Jesús: lo que enseñó: lo que hizo: quién era
 ## folder_name: The_Real_Jesus
-## shelf_name: Theology
+## shelf_name: Charles_Fiske_And_Burton_Scott_Easton
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

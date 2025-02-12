@@ -1,6 +1,6 @@
 ## title: La vie terrestre de Notre Seigneur
 ## folder_name: Our_Lords_Earthly_Life
-## shelf_name: Theology
+## shelf_name: David_Smith
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

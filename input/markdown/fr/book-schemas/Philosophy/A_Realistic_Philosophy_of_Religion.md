@@ -1,6 +1,6 @@
 ## title: Une philosophie réaliste de la religion
 ## folder_name: A_Realistic_Philosophy_of_Religion
-## shelf_name: Philosophy
+## shelf_name: A_Campbell_Garnett
 ## tag: Philosophy
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

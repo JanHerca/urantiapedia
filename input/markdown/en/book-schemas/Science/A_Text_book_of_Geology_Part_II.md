@@ -1,6 +1,6 @@
 ## title: A Text-book of Geology, Part II
 ## folder_name: A_Text_book_of_Geology_Part_II
-## shelf_name: Geology
+## shelf_name: Charles_Schuchert
 ## tag: Geology, Science
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

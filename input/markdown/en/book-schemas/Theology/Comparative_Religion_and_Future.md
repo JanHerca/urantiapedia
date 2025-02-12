@@ -1,6 +1,6 @@
 ## title: Comparative Religion and the Religion of the Future
 ## folder_name: Comparative_Religion_and_Future
-## shelf_name: Theology
+## shelf_name: Alfred_W_Martin
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

@@ -1,6 +1,6 @@
 ## title: Ce monde croyant
 ## folder_name: This_Believing_World
-## shelf_name: Theology
+## shelf_name: Lewis_Browne
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

@@ -1,6 +1,6 @@
 ## title: Religion aventureuse et autres essais
 ## folder_name: Adventurous_Religion_and_Other_Essays
-## shelf_name: Theology
+## shelf_name: Harry_Emerson_Fosdick
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

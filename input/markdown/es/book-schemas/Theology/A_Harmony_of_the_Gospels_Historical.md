@@ -1,6 +1,6 @@
 ## title: Una armonía de los Evangelios para el estudio histórico
 ## folder_name: A_Harmony_of_the_Gospels_Historical
-## shelf_name: Theology
+## shelf_name: William_Arnold_Stevens_And_Ernest_DeWitt_Burton
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

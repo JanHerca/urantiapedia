@@ -1,6 +1,6 @@
 ## title: Les dictons de Jésus : leur contexte et leur interprétation
 ## folder_name: The_Sayings_of_Jesus
-## shelf_name: Theology
+## shelf_name: Benjamin_Willard_Robinson
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

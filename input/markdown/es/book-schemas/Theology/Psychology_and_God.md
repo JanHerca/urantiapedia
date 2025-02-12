@@ -1,6 +1,6 @@
 ## title: Psicología y Dios
 ## folder_name: Psychology_and_God
-## shelf_name: Theology
+## shelf_name: Laurence_William_Grensted
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

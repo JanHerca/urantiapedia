@@ -1,6 +1,6 @@
 ## title: A Preface to Christian Faith in a New Age
 ## folder_name: A_Preface_to_Christian_Faith_in_a_New_Age
-## shelf_name: Theology
+## shelf_name: Rufus_M_Jones
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

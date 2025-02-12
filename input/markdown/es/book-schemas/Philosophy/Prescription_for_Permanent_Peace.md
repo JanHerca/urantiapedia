@@ -1,6 +1,6 @@
 ## title: Receta para una paz permanente
 ## folder_name: Prescription_for_Permanent_Peace
-## shelf_name: Philosophy
+## shelf_name: William_S_Sadler
 ## tag: Philosophy
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

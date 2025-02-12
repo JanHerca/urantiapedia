@@ -1,6 +1,6 @@
 ## title: Origin and Evolution of Religion
 ## folder_name: Origin_and_Evolution_of_Religion
-## shelf_name: Theology
+## shelf_name: Edward_Washburn_Hopkins
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

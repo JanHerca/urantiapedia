@@ -1,6 +1,6 @@
 ## title: Teoría científica y religión
 ## folder_name: Scientific_Theory_and_Religion
-## shelf_name: Geology
+## shelf_name: Ernest_William_Barnes
 ## tag: Geology, Science
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

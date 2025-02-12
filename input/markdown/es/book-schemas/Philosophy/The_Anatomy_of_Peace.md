@@ -1,6 +1,6 @@
 ## title: La anatomía de la paz
 ## folder_name: The_Anatomy_of_Peace
-## shelf_name: Philosophy
+## shelf_name: Emery_Reves
 ## tag: Philosophy
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

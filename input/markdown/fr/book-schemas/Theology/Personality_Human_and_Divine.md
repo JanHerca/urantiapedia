@@ -1,6 +1,6 @@
 ## title: Personnalité Humaine et Divin
 ## folder_name: Personality_Human_and_Divine
-## shelf_name: Theology
+## shelf_name: John_Richardson_Illingworth
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">

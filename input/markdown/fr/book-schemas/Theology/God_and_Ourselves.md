@@ -1,6 +1,6 @@
 ## title: Dieu et nous-mêmes
 ## folder_name: God_and_Ourselves
-## shelf_name: Theology
+## shelf_name: Edwin_Lewis
 ## tag: Theology
 ## cover:
 <div class="urantiapedia-book-front urantiapedia-book-science">
