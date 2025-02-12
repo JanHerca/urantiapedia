@@ -35,22 +35,22 @@ scanned at sacred-texts 3/2001. J.B. Hare, redactor. Reformatted July 2003. This
 
 ## index:
 Contents | Contents
-Book XVIII. Kih Lo, or ‘Perfect Enjoyment’ | Kwang-dze_Book_18
-Book XIX. Tâ Shäng, or ‘The Full Understanding of Life.’ | Kwang-dze_Book_19
-Book XX. Shan Mû, or ‘The Tree on the Mountain’ | Kwang-dze_Book_20
-Book XXI. Thien Dze-fang. | Kwang-dze_Book_21
-Book XXII. Kih Pei Yû, or ‘Knowledge Rambling in the North.’ | Kwang-dze_Book_22
-Book XXIII. Käng-sang Khû. | Kwang-dze_Book_23
-Book XXIV. Hsü Wû-kwei | Kwang-dze_Book_24
-Book XXV. Zeh-yang | Kwang-dze_Book_25
-Book XXVI. Wâi Wû, or ‘What comes from Without.’ | Kwang-dze_Book_26
-Book XXVII. Yü Yen, or ‘Metaphorical Language.’ | Kwang-dze_Book_27
-Book XXVIII. Zang Wang, or ‘Kings who have wished to resign the Throne’ | Kwang-dze_Book_28
-Book XXIV. Tâo Kih, or ‘The Robber Kih’ | Kwang-dze_Book_29
-Book XXX. Yüeh Kien, or ‘Delight in the Sword-fight.’ | Kwang-dze_Book_30
-Book XXXI. Yü-fû, or ‘The Old Fisherman.’ | Kwang-dze_Book_31
-Book XXXII. Lieh Yü-khâu | Kwang-dze_Book_32
-Book XXXIII. Thien Hsiâ | Kwang-dze_Book_33
+Book XVIII. Kih Lo, or ‘Perfect Enjoyment’ | Kwang_dze_Book_18
+Book XIX. Tâ Shäng, or ‘The Full Understanding of Life.’ | Kwang_dze_Book_19
+Book XX. Shan Mû, or ‘The Tree on the Mountain’ | Kwang_dze_Book_20
+Book XXI. Thien Dze-fang. | Kwang_dze_Book_21
+Book XXII. Kih Pei Yû, or ‘Knowledge Rambling in the North.’ | Kwang_dze_Book_22
+Book XXIII. Käng-sang Khû. | Kwang_dze_Book_23
+Book XXIV. Hsü Wû-kwei | Kwang_dze_Book_24
+Book XXV. Zeh-yang | Kwang_dze_Book_25
+Book XXVI. Wâi Wû, or ‘What comes from Without.’ | Kwang_dze_Book_26
+Book XXVII. Yü Yen, or ‘Metaphorical Language.’ | Kwang_dze_Book_27
+Book XXVIII. Zang Wang, or ‘Kings who have wished to resign the Throne’ | Kwang_dze_Book_28
+Book XXIV. Tâo Kih, or ‘The Robber Kih’ | Kwang_dze_Book_29
+Book XXX. Yüeh Kien, or ‘Delight in the Sword-fight.’ | Kwang_dze_Book_30
+Book XXXI. Yü-fû, or ‘The Old Fisherman.’ | Kwang_dze_Book_31
+Book XXXII. Lieh Yü-khâu | Kwang_dze_Book_32
+Book XXXIII. Thien Hsiâ | Kwang_dze_Book_33
 The Thâi-Shang Tractate of Actions and Their Retributions | The_Thai_Shang_Tractate
 Appendixes | #
 	Appendix I. Khing Käng King, or ‘The Classic of Purity.’ | Appendix_1

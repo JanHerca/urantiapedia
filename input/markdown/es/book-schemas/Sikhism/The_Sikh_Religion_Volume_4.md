@@ -1,5 +1,5 @@
 ## title: La religión sij, Volumen 4
-## folder_name: The_Sikh_Religion_Volume_
+## folder_name: The_Sikh_Religion_Volume_4
 ## shelf_name: Sikhism
 ## tag: Sikhism
 ## cover:

@@ -122,7 +122,7 @@ CONFERENCIA IV. TEORÍA GENERAL DEL ESPACIO DE RIEMANN | Lecture_4
 	72. Formas canónicas para espacios tridimensionales homogéneos e isótropos | Lecture_4#p72
 	73. El verdadero alcance y valor de los logros de Riemann | Lecture_4#p73
 	74. La naturaleza del espacio de la experiencia colectiva a la luz del análisis de Riemann | Lecture_4#p74
-	Resumen de las propiedades del espacio (1) euclidiano, (2) hiperbólico y (3) esférico
+		Resumen de las propiedades del espacio (1) euclidiano, (2) hiperbólico y (3) esférico | #
 	75. La investigación analítica de la geometría hiperbólica plana | Lecture_4#p75
 	76. La geometría lobatchewskiana del plano es la de la pseudoesfera en el espacio euclidiano | Lecture_4#p76
 	77. El volumen del espacio de Lobatchewski | Lecture_4#p77
@@ -422,7 +422,7 @@ CONFERENCIA XIV. LA EVOLUCIÓN DE LOS ANIMALES Y EL MENDELISMO | Lecture_14
 	LA EVOLUCIÓN DE LOS ANIMALES | #
 		355. Evolución y prejuicio religioso | Lecture_14#p355
 		356. La naturaleza de las especies | Lecture_14#p356
-		357—360. Los principales argumentos a favor de la evolución: | 357—36
+		357—360. Los principales argumentos a favor de la evolución: | Lecture_14#p357
 			(1) El registro geológico | #
 			(2) La evidencia de la embriología | #
 			(3) La existencia de órganos inútiles | #

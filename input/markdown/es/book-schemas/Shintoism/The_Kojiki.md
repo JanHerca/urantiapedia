@@ -19,7 +19,7 @@
 <span class="text-h3">Una traducción del “Ko-ji-ki”</span><br>
 O<br>
 «REGISTROS DE ASUNTOS ANTIGUOS».
-(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)
+(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)<br>
 <span class="text-h5">por BASIL HALL CHAMBERLAIN.</span><br>
 [Leído ante la Sociedad Asiática del Japón el 12 de abril, el 10 de mayo y el 21 de junio de 1882.]<br>
 [Reimpreso en mayo de 1919.]<br>

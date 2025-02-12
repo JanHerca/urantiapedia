@@ -18,8 +18,8 @@
 
 <p style="text-align:center;">
 <span class="text-h3">LA HISTORIA DEL PROGRESO HUMANO</span><br>
-<em>Una introducción</em>
-<em>a los estudios sociales</em>
+<em>Una introducción</em><br>
+<em>a los estudios sociales</em><br>
 POR<br>
 <span class="text-h5">LEON C. MARSHALL</span><br>
 Profesor de Economía Política<br>
@@ -45,8 +45,7 @@ PARTE I. INTRODUCCIÓN: EL HOMBRE EN LOS GRUPOS O SOCIEDADES PRIMITIVAS | #
 		B. Los iroqueses como fabricantes de herramientas y aprovechadores de la naturaleza | 2#p21
 			(En la construcción de refugios, la caza, la pesca, la agricultura y las artes domésticas) | #
 		C. Los iroqueses como comunicadores | 2#p40
-			(El habla, precursora de la escritura, el transporte,
-		El comercio y los orígenes del dinero) | #
+			(El habla, precursora de la escritura, el transporte, el comercio y los orígenes del dinero) | #
 		D. Los iroqueses como trabajadores en equipo y organizadores de la planificación | 2#p46
 			(La organización social tal como se observa en la vida familiar, de clanes y de aldea; en los gobiernos tribales y de liga; en la división del trabajo; en la religión y otros medios de control social; en los derechos de propiedad; en el juego y la recreación) | #
 PARTE II. EL HOMBRE, EL GUARDABOSQUES DE LA NATURALEZA: MULTIPLICACIÓN DE LOS PODERES DEL HOMBRE | #

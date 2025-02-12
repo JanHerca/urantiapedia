@@ -19,7 +19,7 @@
 </div>
 
 <p style="text-align:center;">
-THE
+THE<br>
 <span class="text-h3">SACRED BOOKS OF CHINA</span><br>
 THE TEXTS OF CONFUCIANISM<br>
 TRANSLATED BY<br>

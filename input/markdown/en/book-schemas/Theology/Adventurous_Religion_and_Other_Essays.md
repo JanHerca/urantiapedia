@@ -38,7 +38,7 @@ ADVENTUROUS RELIGION | Adventurous_Religion
 MORAL, AUTONOMY OR DOWNFALL | Moral_Autonomy_Or_Downfall
 I BELIEVE IN MAN | I_Believe_In_Man
 ON BEING A REAL SKEPTIC | On_Being_A_Real_Skeptic
-HOW SHALL WE THINK OF GOD? | How_Shall_We_Think_Of_God?
+HOW SHALL WE THINK OF GOD? | How_Shall_We_Think_Of_God
 CONCERNING PRAYER | Concerning_Prayer
 SCIENCE AND RELIGION | Science_And_Religion
 EVOLUTION AND RELIGION | Evolution_And_Religion
@@ -49,7 +49,7 @@ LIMITATION OR LIBERTY | Limitation_Or_Liberty
 TOLERANCE | Tolerance
 WHAT CHRISTIAN LIBERALS ARE DRIVING AT | What_Christian_Liberals_Are_Driving_At
 THE DANGERS OF MODERNISM | The_Dangers_Of_Modernism
-THE NEED OF MODERN RELIGIOUS LEADERSHIP | The_Need_Of_Modern_Religious LEADERSHIP
+THE NEED OF MODERN RELIGIOUS LEADERSHIP | The_Need_Of_Modern_Religious_Leadership
 THE NEW RELIGIOUS REFORMATION | The_New_Religious_Reformation
 
 ## links:

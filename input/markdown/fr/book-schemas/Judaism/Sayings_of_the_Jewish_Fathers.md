@@ -40,12 +40,12 @@ scanné sur sacred-texts.com, juillet 2002. J.B. Hare, rédacteur. Note : une gr
 ## index:
 Préface  | Preface
 Introduction | Introduction
-Chapter I | 1
-Chapter II | 2
-Chapter III. | 3
-Chapter IV. | 4
-Chapter V. | 5
-Chapter VI. | 6
+Chapitre I | 1
+Chapitre II | 2
+Chapitre III. | 3
+Chapitre IV. | 4
+Chapitre V. | 5
+Chapitre VI. | 6
 
 ## links:
 [Site de textes sacrés](https://sacred-texts.com/jud/sjf/index.htm)

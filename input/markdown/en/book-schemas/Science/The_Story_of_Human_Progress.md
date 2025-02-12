@@ -18,8 +18,8 @@
 
 <p style="text-align:center;">
 <span class="text-h3">THE STORY of HUMAN PROGRESS </span><br>
-<em>An Introduction</em>
-<em>to Social Studies</em>
+<em>An Introduction</em><br>
+<em>to Social Studies</em><br>
 BY<br>
 <span class="text-h5">LEON C. MARSHALL</span><br>
 Professor of Political Economy<br>
@@ -45,8 +45,7 @@ PART I. INTRODUCTION: MAN IN EARLY GROUPS OR SOCIETIES | #
 		B. The Iroquois as toolmakers and harnessers of nature | 2#p21
 			(In shelter making, hunting, fishing, agriculture, and domestic arts) | #
 		C. The Iroquois as communicators | 2#p40
-			(Speech, the forerunners of writing, transportation,
-		trade, and the beginnings of money) | #
+			(Speech, the forerunners of writing, transportation, trade, and the beginnings of money) | #
 		D. The Iroquois as teamworkers and planning organizers | 2#p46
 			(Social organization as seen in family, clan, and village life; in tribal and league governments; in division of labor; in religion and other means of social control; in property rights; in play and recreation) | #
 PART II. MAN, THE HARNESSER of NATURE: MULTIPLICATION of MAN’S POWERS | #

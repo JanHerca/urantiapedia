@@ -19,7 +19,7 @@
 </div>
 
 <p style="text-align:center;">
-LOS
+LOS<br>
 <span class="text-h3">LIBROS SAGRADOS DE CHINA</span><br>
 LOS TEXTOS DEL CONFUCIANISMO<br>
 TRADUCIDO POR<br>

@@ -160,23 +160,23 @@ The Writings of Kwang-dze: Introduction | Kwang_dze_Intro
 	Book XXXII. Lieh Yü-Khâu | Kwang_dze_Intro#b32
 	Book XXXIII. Thien Hsiâ | Kwang_dze_Intro#b33
 The Writings of Kwang-dze | #
-	Book I: Hsiâo-yâo Yû, or ‘Enjoyment in Untroubled Ease’ | Kwang-dze_Book_1
-	Book II: Khî Wû Lun, or ‘The Adjustment of Controversies’ | Kwang-dze_Book_2
-	Book III: Yang Shang Kû, or ‘Nourishing the Lord of Life’ | Kwang-dze_Book_3
-	Book IV: Zän Kien Shih, or ‘Man in the World, Associated with other Men’ | Kwang-dze_Book_4
-	Book V: Teh Khung Fû, or ‘The Seal of Virtue Complete’ | Kwang-dze_Book_5
-	Book VI: Tâ Zung Shih, or ‘The Great and Most Honoured Master’ | Kwang-dze_Book_6
-	Book VII: Ying Tî Wang, or ‘The Normal Course for Rulers and Kings’ | Kwang-dze_Book_7
-	Book VIII: Phien Mâu, or ‘Webbed Toes.’ | Kwang-dze_Book_8
-	Book IX: Mâ Thî, or ‘Horses’s Hoofs' | Kwang-dze_Book_9
-	Book X: Khü Khieh, or ‘Cutting open Satchels.’ | Kwang-dze_Book_10
-	Book XI: Zâi Yû, or ‘Letting Be, and Exercising Forbearance.’ | Kwang-dze_Book_11
-	Book XII: Thien Tî, or ‘Heaven and Earth’ | Kwang-dze_Book_12
-	Book XIII: Thien Tâo, or ‘The Way of Heaven.’ | Kwang-dze_Book_13
-	Book XIV: Thien Yün, or ‘The Revolution of Heaven.’ | Kwang-dze_Book_14
-	Book XV: Kho Î, or ‘Ingrained Ideas.’ | Kwang-dze_Book_15
-	Book XVI: Shan Hsing, or ‘Correcting the Nature.’ | Kwang-dze_Book_16
-	Book XVII: Khiû Shui, or ‘The Floods of Autumn.’ | Kwang-dze_Book_17
+	Book I: Hsiâo-yâo Yû, or ‘Enjoyment in Untroubled Ease’ | Kwang_dze_Book_1
+	Book II: Khî Wû Lun, or ‘The Adjustment of Controversies’ | Kwang_dze_Book_2
+	Book III: Yang Shang Kû, or ‘Nourishing the Lord of Life’ | Kwang_dze_Book_3
+	Book IV: Zän Kien Shih, or ‘Man in the World, Associated with other Men’ | Kwang_dze_Book_4
+	Book V: Teh Khung Fû, or ‘The Seal of Virtue Complete’ | Kwang_dze_Book_5
+	Book VI: Tâ Zung Shih, or ‘The Great and Most Honoured Master’ | Kwang_dze_Book_6
+	Book VII: Ying Tî Wang, or ‘The Normal Course for Rulers and Kings’ | Kwang_dze_Book_7
+	Book VIII: Phien Mâu, or ‘Webbed Toes.’ | Kwang_dze_Book_8
+	Book IX: Mâ Thî, or ‘Horses’s Hoofs' | Kwang_dze_Book_9
+	Book X: Khü Khieh, or ‘Cutting open Satchels.’ | Kwang_dze_Book_10
+	Book XI: Zâi Yû, or ‘Letting Be, and Exercising Forbearance.’ | Kwang_dze_Book_11
+	Book XII: Thien Tî, or ‘Heaven and Earth’ | Kwang_dze_Book_12
+	Book XIII: Thien Tâo, or ‘The Way of Heaven.’ | Kwang_dze_Book_13
+	Book XIV: Thien Yün, or ‘The Revolution of Heaven.’ | Kwang_dze_Book_14
+	Book XV: Kho Î, or ‘Ingrained Ideas.’ | Kwang_dze_Book_15
+	Book XVI: Shan Hsing, or ‘Correcting the Nature.’ | Kwang_dze_Book_16
+	Book XVII: Khiû Shui, or ‘The Floods of Autumn.’ | Kwang_dze_Book_17
 
 ## links:
 [Sacred texts website](https://sacred-texts.com/tao/sbe39/index.htm)

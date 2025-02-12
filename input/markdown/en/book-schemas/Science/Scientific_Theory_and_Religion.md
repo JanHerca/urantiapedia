@@ -122,7 +122,7 @@ LECTURE IV. RIEMANN'S GENERAL THEORY OF SPACE | Lecture_4
 	72. Canonical forms for homogeneous and isotropic three-dimensional space | Lecture_4#p72
 	73. The true range and value of Riemann's achievement | Lecture_4#p73
 	74. The nature of the space of conunon experience in the light of Riemann's analysis | Lecture_4#p74
-	Résumé of properties of ( 1) Euclidean, (2) hyperbolic and (3) spherical space
+		Résumé of properties of ( 1) Euclidean, (2) hyperbolic and (3) spherical space | #
 	75. The analytical investigation of plane hyperbolic geometry | Lecture_4#p75
 	76. Lobatchewskyan geometry of the plane is that of the pseudo-sphere in Euclidean space | Lecture_4#p76
 	77. The volume of Lobatchewskyan space | Lecture_4#p77
@@ -422,7 +422,7 @@ LECTURE XIV. THE EVOLUTION OF ANIMALS AND MENDELISM | Lecture_14
 	THE EVOLUTION OF ANIMALS | #
 		355. Evolution and religious prejudice | Lecture_14#p355
 		356. The naturc of species | Lecture_14#p356
-		357—360. The main arguments for evolution: | 357—36
+		357—360. The main arguments for evolution: | Lecture_14#p357
 			(1) The geological record | #
 			(2) The evidencc from embryology | #
 			(3) The existencc of useless organs | #

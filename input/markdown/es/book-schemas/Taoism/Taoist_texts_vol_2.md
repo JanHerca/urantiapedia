@@ -35,22 +35,22 @@ escaneado en sacred-texts 3/2001. JB Hare, redactor. Reformateado en julio de 20
 
 ## index:
 Contenido | Contents
-Libro XVIII. Kih Lo, o 'El disfrute perfecto' | Kwang-dze_Book_18
-Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”. | Kwang-dze_Book_19
-Libro XX. Shan Mû, o 'El árbol en la montaña' | Kwang-dze_Book_20
-Libro XXI. El rey Ze Fang. | Kwang-dze_Book_21
-Libro XXII. Kih Pei Yû, o 'Caminatas del conocimiento en el norte'. | Kwang-dze_Book_22
-Libro XXIII. El rey Kang-sang Khhu. | Kwang-dze_Book_23
-Libro XXIV. Hsü Wu-kwei | Kwang-dze_Book_24
-Libro XXV. El yang de Zeh | Kwang-dze_Book_25
-Libro XXVI. Wâi Wû, o “Lo que viene de afuera”. | Kwang-dze_Book_26
-Libro XXVII. Yü Yen, o 'El lenguaje metafórico' | Kwang-dze_Book_27
-Libro XXVIII. Zang Wang, o 'Los reyes que han querido renunciar al trono' | Kwang-dze_Book_28
-Libro XXIV. Tâo Kih, o 'El ladrón Kih' | Kwang-dze_Book_29
-Libro XXX. Yüeh Kien, o 'El placer de la lucha con espadas' | Kwang-dze_Book_30
-Libro XXXI. Yü-fû, o 'El viejo pescador' | Kwang-dze_Book_31
-Libro XXXII. El pequeño Yü-khâu | Kwang-dze_Book_32
-Libro XXXIII. Thien Hsiâ | Kwang-dze_Book_33
+Libro XVIII. Kih Lo, o 'El disfrute perfecto' | Kwang_dze_Book_18
+Libro XIX. Tâ Shäng, o “La comprensión plena de la vida”. | Kwang_dze_Book_19
+Libro XX. Shan Mû, o 'El árbol en la montaña' | Kwang_dze_Book_20
+Libro XXI. El rey Ze Fang. | Kwang_dze_Book_21
+Libro XXII. Kih Pei Yû, o 'Caminatas del conocimiento en el norte'. | Kwang_dze_Book_22
+Libro XXIII. El rey Kang-sang Khhu. | Kwang_dze_Book_23
+Libro XXIV. Hsü Wu-kwei | Kwang_dze_Book_24
+Libro XXV. El yang de Zeh | Kwang_dze_Book_25
+Libro XXVI. Wâi Wû, o “Lo que viene de afuera”. | Kwang_dze_Book_26
+Libro XXVII. Yü Yen, o 'El lenguaje metafórico' | Kwang_dze_Book_27
+Libro XXVIII. Zang Wang, o 'Los reyes que han querido renunciar al trono' | Kwang_dze_Book_28
+Libro XXIV. Tâo Kih, o 'El ladrón Kih' | Kwang_dze_Book_29
+Libro XXX. Yüeh Kien, o 'El placer de la lucha con espadas' | Kwang_dze_Book_30
+Libro XXXI. Yü-fû, o 'El viejo pescador' | Kwang_dze_Book_31
+Libro XXXII. El pequeño Yü-khâu | Kwang_dze_Book_32
+Libro XXXIII. Thien Hsiâ | Kwang_dze_Book_33
 El Tratado de Thai Shang sobre las acciones y sus retribuciones | The_Thai_Shang_Tractate
 Apéndices | #
 	Apéndice I. El rey Khing Käng, o “el clásico de la pureza” | Appendix_1

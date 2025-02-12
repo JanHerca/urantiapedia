@@ -38,7 +38,7 @@ RELIGIÓN AVENTURERA | Adventurous_Religion
 MORAL, AUTONOMÍA O CAÍDA | Moral_Autonomy_Or_Downfall
 YO CREO EN EL HOMBRE | I_Believe_In_Man
 SOBRE SER UN VERDADERO ESCÉPTICO | On_Being_A_Real_Skeptic
-¿CÓMO DEBEMOS PENSAR EN DIOS? | How_Shall_We_Think_Of_God?
+¿CÓMO DEBEMOS PENSAR EN DIOS? | How_Shall_We_Think_Of_God
 SOBRE LA ORACIÓN | Concerning_Prayer
 CIENCIA Y RELIGIÓN | Science_And_Religion
 EVOLUCIÓN Y RELIGIÓN | Evolution_And_Religion
@@ -49,7 +49,7 @@ LIMITACIÓN O LIBERTAD | Limitation_Or_Liberty
 TOLERANCIA | Tolerance
 A QUÉ SE DIRIGEN LOS LIBERALES CRISTIANOS | What_Christian_Liberals_Are_Driving_At
 LOS PELIGROS DEL MODERNISMO | The_Dangers_Of_Modernism
-LA NECESIDAD DE UN LIDERAZGO RELIGIOSO MODERNO | The_Need_Of_Modern_Religious LEADERSHIP
+LA NECESIDAD DE UN LIDERAZGO RELIGIOSO MODERNO | The_Need_Of_Modern_Religious_Leadership
 LA NUEVA REFORMA RELIGIOSA | The_New_Religious_Reformation
 
 ## links:

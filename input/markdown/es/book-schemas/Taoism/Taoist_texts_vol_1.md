@@ -160,23 +160,23 @@ Los escritos de Kwang-dze: Introducción | Kwang_dze_Intro
 	Libro XXXII. Lieh Yü-Khâu | Kwang_dze_Intro#b32
 	Libro XXXIII. Thien Hsiâ | Kwang_dze_Intro#b33
 Los escritos de Kwang-dze | #
-	Libro I: Hsiâo-yâo Yû, o 'Disfrute en tranquilidad' | Kwang-dze_Book_1
-	Libro II: Khî Wû Lun, o 'El ajuste de las controversias' | Kwang-dze_Book_2
-	Libro III: Yang Shang Kû, o 'Nutrir al Señor de la Vida' | Kwang-dze_Book_3
-	Libro IV: Zän Kien Shih, o 'El hombre en el mundo, asociado con otros hombres' | Kwang-dze_Book_4
-	Libro V: Teh Khung Fû, o ​​'El sello de la virtud completo' | Kwang-dze_Book_5
-	Libro VI: Tâ Zung Shih, o 'El Gran y Más Honorable Maestro' | Kwang-dze_Book_6
-	Libro VII: Ying Tî Wang, o 'El curso normal para gobernantes y reyes' | Kwang-dze_Book_7
-	Libro VIII: Phien Mâu, o 'Dedos palmeados'. | Kwang-dze_Book_8
-	Libro IX: Mâ Thî, o 'Los cascos de los caballos' | Kwang-dze_Book_9
-	Libro X: Khü Khieh, o 'Cortar y abrir carteras' | Kwang-dze_Book_10
-	Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia” | Kwang-dze_Book_11
-	Libro XII: Thien Tî, o 'Cielo y Tierra' | Kwang-dze_Book_12
-	Libro XIII: Thien Tâo, o 'El camino del cielo' | Kwang-dze_Book_13
-	Libro XIV: Thien Yün, o 'La revolución del cielo' | Kwang-dze_Book_14
-	Libro XV: Kho Î, o “Ideas arraigadas” | Kwang-dze_Book_15
-	Libro XVI: Shan Hsing, o “La corrección de la naturaleza” | Kwang-dze_Book_16
-	Libro XVII: Khiû Shui, o “Las inundaciones del otoño” | Kwang-dze_Book_17
+	Libro I: Hsiâo-yâo Yû, o 'Disfrute en tranquilidad' | Kwang_dze_Book_1
+	Libro II: Khî Wû Lun, o 'El ajuste de las controversias' | Kwang_dze_Book_2
+	Libro III: Yang Shang Kû, o 'Nutrir al Señor de la Vida' | Kwang_dze_Book_3
+	Libro IV: Zän Kien Shih, o 'El hombre en el mundo, asociado con otros hombres' | Kwang_dze_Book_4
+	Libro V: Teh Khung Fû, o ​​'El sello de la virtud completo' | Kwang_dze_Book_5
+	Libro VI: Tâ Zung Shih, o 'El Gran y Más Honorable Maestro' | Kwang_dze_Book_6
+	Libro VII: Ying Tî Wang, o 'El curso normal para gobernantes y reyes' | Kwang_dze_Book_7
+	Libro VIII: Phien Mâu, o 'Dedos palmeados'. | Kwang_dze_Book_8
+	Libro IX: Mâ Thî, o 'Los cascos de los caballos' | Kwang_dze_Book_9
+	Libro X: Khü Khieh, o 'Cortar y abrir carteras' | Kwang_dze_Book_10
+	Libro XI: Zâi Yû, o “Dejar ser y ejercer la tolerancia” | Kwang_dze_Book_11
+	Libro XII: Thien Tî, o 'Cielo y Tierra' | Kwang_dze_Book_12
+	Libro XIII: Thien Tâo, o 'El camino del cielo' | Kwang_dze_Book_13
+	Libro XIV: Thien Yün, o 'La revolución del cielo' | Kwang_dze_Book_14
+	Libro XV: Kho Î, o “Ideas arraigadas” | Kwang_dze_Book_15
+	Libro XVI: Shan Hsing, o “La corrección de la naturaleza” | Kwang_dze_Book_16
+	Libro XVII: Khiû Shui, o “Las inundaciones del otoño” | Kwang_dze_Book_17
 
 ## links:
 [Sitio web de textos sagrados](https://sacred-texts.com/tao/sbe39/index.htm)

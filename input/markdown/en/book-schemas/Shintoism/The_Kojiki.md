@@ -19,7 +19,7 @@
 <span class="text-h3">A Translation of the “Ko-ji-ki,”</span><br>
 OR<br>
 “RECORDS OF ANCIENT MATTERS.”<br>
-(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)
+(<img src="/image/book/Shintoism/The_Kojiki/i00100.jpg">)<br>
 <span class="text-h5">by BASIL HALL CHAMBERLAIN.</span><br>
 [Read before the Asiatic Society of Japan April 12th, May 10th, and June 21st, 1882.]<br>
 [Reprinted, May, 1919.]<br>
