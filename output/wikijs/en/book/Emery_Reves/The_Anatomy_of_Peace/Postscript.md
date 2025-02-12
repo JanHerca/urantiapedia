@@ -13,12 +13,12 @@ dateCreated: 2025-2-7T19:33:12Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Philosophy/The_Anatomy_of_Peace/15">
+        <a href="/en/book/Emery_Reves/The_Anatomy_of_Peace/15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. LAW . . . CONQUEST</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Philosophy/The_Anatomy_of_Peace">
+        <a href="/en/book/Emery_Reves/The_Anatomy_of_Peace">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-7T19:33:12Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Philosophy/The_Anatomy_of_Peace/15">
+        <a href="/en/book/Emery_Reves/The_Anatomy_of_Peace/15">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XV. LAW . . . CONQUEST</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Philosophy/The_Anatomy_of_Peace">
+        <a href="/en/book/Emery_Reves/The_Anatomy_of_Peace">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

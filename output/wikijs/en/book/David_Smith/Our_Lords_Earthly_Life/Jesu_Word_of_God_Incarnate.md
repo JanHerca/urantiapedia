@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:29:35Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life/Chronology">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life/Chronology">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chronology</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life/1">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life/1">
           <span class="pr-2">His Birth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:29:35Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life/Chronology">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life/Chronology">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chronology</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Our_Lords_Earthly_Life/1">
+        <a href="/en/book/David_Smith/Our_Lords_Earthly_Life/1">
           <span class="pr-2">His Birth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

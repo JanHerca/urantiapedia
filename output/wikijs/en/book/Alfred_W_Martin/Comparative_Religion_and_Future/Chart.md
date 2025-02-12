@@ -15,12 +15,12 @@ dateCreated: 2025-2-12T12:29:6Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Theology/Comparative_Religion_and_Future">
+        <a href="/en/book/Alfred_W_Martin/Comparative_Religion_and_Future">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Comparative_Religion_and_Future/1">
+        <a href="/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/1">
           <span class="pr-2">I. Introductory. The Evolution of Appreciation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,12 +38,12 @@ dateCreated: 2025-2-12T12:29:6Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Theology/Comparative_Religion_and_Future">
+        <a href="/en/book/Alfred_W_Martin/Comparative_Religion_and_Future">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Comparative_Religion_and_Future/1">
+        <a href="/en/book/Alfred_W_Martin/Comparative_Religion_and_Future/1">
           <span class="pr-2">I. Introductory. The Evolution of Appreciation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

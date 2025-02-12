@@ -15,12 +15,12 @@ dateCreated: 2025-2-12T12:27:14Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age/1">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age/1">
           <span class="pr-2">I. OBSTACLES AND HINDRANCES TO CHRISTIAN FAITH IN A NEW AGE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,12 +38,12 @@ dateCreated: 2025-2-12T12:27:14Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age/1">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age/1">
           <span class="pr-2">I. OBSTACLES AND HINDRANCES TO CHRISTIAN FAITH IN A NEW AGE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

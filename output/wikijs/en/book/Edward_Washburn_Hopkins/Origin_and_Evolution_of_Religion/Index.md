@@ -13,12 +13,12 @@ dateCreated: 2025-2-12T12:29:28Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Origin_and_Evolution_of_Religion/21">
+        <a href="/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion/21">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XXI. The Reality of Religion</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Origin_and_Evolution_of_Religion">
+        <a href="/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-12T12:29:28Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Origin_and_Evolution_of_Religion/21">
+        <a href="/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion/21">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XXI. The Reality of Religion</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Origin_and_Evolution_of_Religion">
+        <a href="/en/book/Edward_Washburn_Hopkins/Origin_and_Evolution_of_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

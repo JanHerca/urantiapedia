@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:27:7Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_4">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix IV. Method of Study</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_6">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_6">
           <span class="pr-2">Appendix VI. Leading Events of Jewish History</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:27:7Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_4">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_4">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix IV. Method of Study</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_6">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_6">
           <span class="pr-2">Appendix VI. Leading Events of Jewish History</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

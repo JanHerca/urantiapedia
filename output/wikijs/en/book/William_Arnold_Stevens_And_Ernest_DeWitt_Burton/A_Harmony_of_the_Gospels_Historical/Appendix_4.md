@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:27:7Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_3">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix III. Old Testament Quotations in the Gospels</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_5">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_5">
           <span class="pr-2">Appendix V. Principal Divisions of the Life of Christ, with Calendar Dates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:27:7Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_3">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_3">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix III. Old Testament Quotations in the Gospels</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Harmony_of_the_Gospels_Historical/Appendix_5">
+        <a href="/en/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Appendix_5">
           <span class="pr-2">Appendix V. Principal Divisions of the Life of Christ, with Calendar Dates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

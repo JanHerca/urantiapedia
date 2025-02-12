@@ -15,12 +15,12 @@ dateCreated: 2025-2-12T12:24:37Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Geology/Scientific_Theory_and_Religion">
+        <a href="/en/book/Ernest_William_Barnes/Scientific_Theory_and_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Geology/Scientific_Theory_and_Religion/Lecture_1">
+        <a href="/en/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_1">
           <span class="pr-2">LECTURE I. INTRODUCTION</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,12 +38,12 @@ dateCreated: 2025-2-12T12:24:37Z
         <td>
         </td>
         <td>
-        <a href="/en/book/Geology/Scientific_Theory_and_Religion">
+        <a href="/en/book/Ernest_William_Barnes/Scientific_Theory_and_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Geology/Scientific_Theory_and_Religion/Lecture_1">
+        <a href="/en/book/Ernest_William_Barnes/Scientific_Theory_and_Religion/Lecture_1">
           <span class="pr-2">LECTURE I. INTRODUCTION</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

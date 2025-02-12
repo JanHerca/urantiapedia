@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:29:44Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine/Extract">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine/Extract">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">EXTRACT</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine/1">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine/1">
           <span class="pr-2">LECTURE I. DEVELOPMENT OF THE CONCEPTION OF HUMAN PERSONALITY</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:29:44Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine/Extract">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine/Extract">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">EXTRACT</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Personality_Human_and_Divine/1">
+        <a href="/en/book/John_Richardson_Illingworth/Personality_Human_and_Divine/1">
           <span class="pr-2">LECTURE I. DEVELOPMENT OF THE CONCEPTION OF HUMAN PERSONALITY</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

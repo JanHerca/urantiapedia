@@ -13,12 +13,12 @@ dateCreated: 2025-2-12T12:29:22Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Jesus_Man_of_Genius/Part3_7">
+        <a href="/en/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part3_7">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VII THE TRIAL AND CRUCIFIXION</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Jesus_Man_of_Genius">
+        <a href="/en/book/John_Middleton_Murry/Jesus_Man_of_Genius">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-12T12:29:22Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/Jesus_Man_of_Genius/Part3_7">
+        <a href="/en/book/John_Middleton_Murry/Jesus_Man_of_Genius/Part3_7">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VII THE TRIAL AND CRUCIFIXION</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/Jesus_Man_of_Genius">
+        <a href="/en/book/John_Middleton_Murry/Jesus_Man_of_Genius">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

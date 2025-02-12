@@ -13,12 +13,12 @@ dateCreated: 2025-2-12T12:29:59Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/The_Real_Jesus/Appendix_1">
+        <a href="/en/book/Charles_Fiske_And_Burton_Scott_Easton/The_Real_Jesus/Appendix_1">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix I. Palestine in Jesus’ Day</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/The_Real_Jesus">
+        <a href="/en/book/Charles_Fiske_And_Burton_Scott_Easton/The_Real_Jesus">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-12T12:29:59Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/The_Real_Jesus/Appendix_1">
+        <a href="/en/book/Charles_Fiske_And_Burton_Scott_Easton/The_Real_Jesus/Appendix_1">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Appendix I. Palestine in Jesus’ Day</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/The_Real_Jesus">
+        <a href="/en/book/Charles_Fiske_And_Burton_Scott_Easton/The_Real_Jesus">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

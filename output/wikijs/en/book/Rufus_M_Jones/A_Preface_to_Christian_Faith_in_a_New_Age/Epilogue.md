@@ -13,12 +13,12 @@ dateCreated: 2025-2-12T12:27:14Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age/6">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age/6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. A NEW EMPHASIS IN EDUCATION</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-12T12:27:14Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age/6">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age/6">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">VI. A NEW EMPHASIS IN EDUCATION</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/A_Preface_to_Christian_Faith_in_a_New_Age">
+        <a href="/en/book/Rufus_M_Jones/A_Preface_to_Christian_Faith_in_a_New_Age">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

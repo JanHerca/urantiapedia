@@ -13,12 +13,12 @@ dateCreated: 2025-2-12T12:17:52Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Geology/A_Text_book_of_Geology_Part_II/46">
+        <a href="/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/46">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XLVI. Man’s Place in Nature</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Geology/A_Text_book_of_Geology_Part_II">
+        <a href="/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-12T12:17:52Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Geology/A_Text_book_of_Geology_Part_II/46">
+        <a href="/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II/46">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">XLVI. Man’s Place in Nature</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Geology/A_Text_book_of_Geology_Part_II">
+        <a href="/en/book/Charles_Schuchert/A_Text_book_of_Geology_Part_II">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>

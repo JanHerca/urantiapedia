@@ -13,17 +13,17 @@ dateCreated: 2025-2-12T12:30:19Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/This_Believing_World/Prologue">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World/Prologue">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">PROLOGUE</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/This_Believing_World">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/This_Believing_World/Book1_2">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World/Book1_2">
           <span class="pr-2">II. Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -39,17 +39,17 @@ dateCreated: 2025-2-12T12:30:19Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/book/Theology/This_Believing_World/Prologue">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World/Prologue">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">PROLOGUE</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/This_Believing_World">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
         </a>
         </td>
         <td>
-        <a href="/en/book/Theology/This_Believing_World/Book1_2">
+        <a href="/en/book/Leon_C_Marshall/This_Believing_World/Book1_2">
           <span class="pr-2">II. Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
