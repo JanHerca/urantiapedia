@@ -9,55 +9,56 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Macad | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Macad | | | PLACE | OK
+fue una de las poblaciones recorridas durante la misión de Perea de los setenta, entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
 Macabeo (Judas) | | Judas Macabeo | PERSON | OK
 
-Macabeos | | Judas Macabeo | | 
-antepasados de María madre de Jesús identificados con (122:5.10)
-Palacio asmoneo de los Macabeos (125:1.5) (128:3.5) (185:4.1)
-Los esenios se originaron durante la revuelta de (137:7.8)
-El cuarto libro de los Macabeos ejemplifica el estoicismo (121:6.3)
-Los judíos acuñaron plata durante la dinastía asmonea (173:1.3)
-Templo samaritano destruido en tiempos de (143:4.2)
+Macabeos | | Judas Macabeo | | OK
+Los antepasados ​​de María, la madre de Jesús, estaban estrechamente relacionados con los Macabeos; la familia de José abrazó las enseñanzas de Jesús, mientras que la familia de María tenía una creencia diferente sobre el Mesías. (122:5.10)
+El palacio asmoneo de los Macabeos fue visto por Jesús y José durante un paseo por Jerusalén. (125:1.5) (128:3.5) (185:4.1)
+Los esenios, una secta religiosa, se originaron durante la revuelta de los Macabeos y siguieron prácticas estrictas que incluso superaron las de los fariseos, viviendo en hermandad, absteniéndose del matrimonio y centrándose en las enseñanzas sobre los ángeles. (137:7.8)
+El Cuarto Libro de los Macabeos ejemplifica la filosofía estoica que influyó en las creencias judías helenizadas. (121:6.3)
+Durante la dinastía asmonea, los judíos acuñaron moneda de plata y establecieron un sistema bancario dentro del recinto del templo. (173:1.3)
+El templo samaritano fue destruido en tiempos de los Macabeos. (143:4.2)
 
-Macedonia | (194:4.13) | | PLACE | 
-Andrés proclamó el evangelio en (139:1.12)
+Macedonia | (194:4.13) | | PLACE | OK
+Andrés proclamó el evangelio en Macedonia y trajo a muchos al reino antes de ser crucificado en Acaya. (139:1.12)
 
-Macaerus (fortaleza) | | | PLACE | 
-Herodes Antipas mantuvo su residencia en (135:12.1,4)
-Juan encarcelado en (135:12.1) (144:8.6) (144:9.1)
+Macaerus (fortaleza) | | | PLACE | OK
+Juan fue arrestado mientras trabajaba en el sur de Perea y llevado a la fortaleza de Maqueronte, donde Herodes Antipas tenía su residencia y donde permaneció hasta su ejecución. (135:12.1,4)
+Juan estuvo preso en la fortaleza de Maqueronte hasta su ejecución, donde fue consolado por las palabras de Jesús. (135:12.1) (144:8.6) (144:9.1)
 
-máquinas | | herramientas | | 
-eficacia de las máquinas determina la supervivencia de los grupos contendientes (81:6.20)
-beneficios inestimables de (81:2.14)
-sin evaluación autoconsciente (195:6.11,13) (195:7.3,8-14)
-desempleo derivado del ahorro de mano de obra máquinas (81:6.22)
+máquinas | | herramientas | | OK
+La supervivencia de los grupos que compiten en el avance de la civilización depende de la eficacia de las máquinas. (81:6.20)
+Los inestimables beneficios de la maquinaria están confiriendo lentamente una libertad cada vez mayor a la humanidad. (81:2.14)
+La autoevaluación consciente de uno mismo nunca es un atributo de una simple máquina. (195:6.11,13) (195:7.3,8-14)
+La ciencia, guiada por la sabiduría, puede ser la liberadora de la humanidad del desempleo causado por las máquinas que ahorran trabajo si las naciones elevan su nivel intelectual para adaptarse con éxito a los desafíos de la transición. (81:6.22)
 
-Madagascar | (78:5.5) | | PLACE | 
-algunas tribus de Madagascar destruyen a los niños nacidos en días de mala suerte (68:6.10)
+Madagascar | (78:5.5) | | PLACE | OK
+A pesar de estar en el siglo XX, aún persisten restos de controles poblacionales primitivos, como las tribus de Madagascar que destruían a los niños nacidos en días desafortunados. (68:6.10)
 
-loco en Buenos Puertos | | | | 
-Jesús refrenó el asalto (130:5.4)
+borracho en Buenos Puertos; borracho | | | | OK
+Jesús mostró compasión y moderación al rescatar a una esclava de un loco borracho en Buenos Puertos, lo que dejó un impacto duradero en el deseo de Ganid de cambiar el sistema de castas en su India natal. (130:5.4)
 
-Locura | | locura | | OK
+demencia | | locura | | OK
 
-Madón | (134:7.5) (146:4.6) | | PLACE | 
-Población por la que pasó Jesús
+Madón | | | PLACE | OK
+Población por la que pasó Jesús durante su viaje por Palestina en el año 25 (134:7.5)
+Es una de las poblaciones visitadas durante la primera gira de predicación por Galilea entre enero y marzo de 28 (146:4.6)
 
-Parque de Magadán; parque; parque de Magadán | (156:6.4) (159:0.1) (159:6.1-2) (162:9.6) | | PLACE | 
-discusiones con Rodan en (160) (161)
-ordenación de los 70 en (163:0.1)
-al sur de Betsaida-Julias (155:0.1) (157:2.1)
+Parque de Magadán; parque; parque de Magadán | (156:6.4) (159:0.1) (159:6.1-2) (162:9.6) | | PLACE | OK
+Jesús y los veinticuatro pasaron la noche en el parque de Magadán, al sur de Betsaida-Julias, antes de hablar de sus planes para una gira por Batanea y el norte de Galilea. (155:0.1) (157:2.1)
+Natanael y Tomás estaban muy ocupados con sus conversaciones con un cierto filósofo griego de Alejandría llamado Rodán en el parque de Magadán. (160) (161)
+La ordenación de los setenta en el parque de Magadán marcó la culminación del entrenamiento intensivo que Jesús dio a sus discípulos escogidos. (163:0.1)
 
-Magdala | (129:1.2) (134:7.5) (138:9.3) (150:2) (155:4.1) | | PLACE | 
-El tío de Jesús era pescador cerca (123:6.1) (124:3.1)
-José, padre de Jesús, trabajó en (123:3.8)
-Judá vivía con un pariente en (128:7.8) (137:3.1)
+Magdala | (129:1.2) (134:7.5) (138:9.3) (150:2) (155:4.1) | | PLACE | OK
+Jesús pasó un año interesante en la escuela, pues lo excusaban una semana al mes para visitar a su tío pescador cerca de Magdala. (123:6.1) (124:3.1)
+José, el padre de Jesús, trabajaba en Magdala, entre otras ciudades y pueblos, mientras que Santiago ayudaba a cuidar de la familia y Jesús adquiría conocimientos prácticos en sus viajes fuera de casa. (123:3.8)
+Jesús dejó a Judas con un pariente en Magdala, donde trabajó como pescador hasta su matrimonio. (128:7.8) (137:3.1)
 
-Nube de Magallanes | | | PLACE | 
-en la Vía Láctea (15:4.8)
+Nube de Magallanes | | | PLACE | OK
+La Nube de Magallanes en nuestra galaxia, la Vía Láctea, es una agregación distorsionada que se asemeja a gigantescas masas luminosas de soles resplandecientes, resultado de catástrofes internas y atracción externa. (15:4.8)
 
 magia | (88:4-6) | supersticiones; brujería | | 
 arte de coaccionar la ayuda espiritual involuntaria; asegurando una visión del futuro (88:4.1-3)
@@ -136,80 +137,81 @@ servicio de los Hijos Magistrales
 	servir bajo los Hijos Creadores en los universos locales (20:1.12) (20:2.2)
 El Espíritu de la Verdad es el espíritu del Hijo Creador y el espíritu del Hijo autootorgado (20:6.8-9)
 
-magnetismo | (42:5.8) | | | 
-polos magnéticos de la tierra (57:8.18)
-lo mismo que la luz, el calor, la electricidad, la química, la energía y
-asunto (42:4.1-2)
-las manchas solares funcionan como enormes imanes (58:2.8-9)
+magnetismo | (42:5.8) | | | OK
+Los flujos de lava que diversifican la corteza terrestre aislaron al planeta de las energías espaciales, facilitando el control de la energía terrestre y regulando su flujo mediante el funcionamiento de los polos magnéticos de la Tierra. (57:8.18)
+El magnetismo, junto con la luz, el calor, la electricidad, la química, la energía y la materia, están fundamentalmente interconectados y, en última instancia, se remontan a la misma fuente, evolucionando y transformándose a través de ciclos infinitos en el cosmos. (42:4.1-2)
+Las manchas solares, que funcionan como enormes imanes, tienen el poder de alterar las frecuencias de la luz y lanzar partículas cargadas a la atmósfera exterior de la Tierra, lo que da como resultado espectaculares espectáculos aurorales e incluso afecta la dirección de la aguja de una brújula. (58:2.8-9)
 
-magnolias | (60:3.7) (61:3.1) | | | 
+magnolias | | | | OK
+Las magnolias surgieron hace aproximadamente 90 millones de años durante el Cretácico temprano, al igual que otras plantas con flores como los higueras y los árboles de tulipán. Se extendieron rápidamente por los continentes, llegando incluso a crecer en regiones como Groenlandia junto a las secuoyas. Sin embargo, a medida que el clima se enfrió gradualmente y las plantas de clima cálido migraron hacia el sur, las magnolias y árboles similares desaparecieron en gran medida de las latitudes septentrionales, siendo reemplazadas por especies más resistentes y caducifolias. (60:3.7) (61:3.1)
 
-mutilados | | | | 
-a veces invitan a banquetes (167:1.5)
+mutilados | | | | OK
+“Invitad a los pobres, a los lisiados y a los ciegos a los banquetes, pues al hacerlo seréis bendecidos en vuestro corazón.” (167:1.5)
 
-Maine | (59:3.2) (61:5.8) | | PLACE | 
+Maine | | | PLACE | OK
+Durante la era Silúrica, se encontraron rocas volcánicas y lava en el este de Maine, el sur de Europa y Quebec. La actividad volcánica había cesado en gran medida, y fue un período de deposición significativa de agua con mínima formación de montañas. Durante la era glacial, el clima lejos del hielo se mantuvo templado, y el clima costero variaba considerablemente. Enormes icebergs a veces se deslizaban desde la costa de Maine hacia el Atlántico. (59:3.2) (61:5.8)
 
-Majeston | (30:1.109) | Espíritus Reflectantes | PERSON | 
-50° Espíritu Reflectante (17:2.1-2)
-actualizado por la Deidad Absoluta en respuesta al Ser Supremo (0:7.9) (17:2.1-5) (106:8.20)
-creado por la Trinidad y los Siete Espíritus Rectores (17:2.1)
-creación de Majeston única instancia de Supremo actuando directamente como creador (17:2.4) (117:3.11)
-focaliza la presencia de la Mente Suprema (0:3.14) (116:4.3)
-centro infalible y jefe de reflectividad (14:6.36) (17:2) (17:8.7)
-es una persona verdadera (17:2.3)
-nomina Compañeros Paradisiacos (25:8.2)
-preside los cónclaves milenarios (17:1.10)
-Enlaces reflectantes (30:1.110)
-Las ayudas de imagen reflectante representan (15:10.21)
-coordinador sintético de todas las actividades del Creador de criaturas (0:7.9)
+Majeston | (30:1.109) | Espíritus Reflectantes | PERSON | OK
+Majeston, el quincuagésimo Espíritu Reflexivo, es el jefe de la reflectividad y el centro del Paraíso de los seres únicos y misteriosos creados por las Personalidades Supremas del Creador en unión con la Trinidad del Paraíso. (17:2.1-2)
+El Ser Supremo, como padre de Majeston, es el coordinador de todas las actividades del universo criatura-Creador, y la Deidad Absoluta actualiza a Majeston en respuesta a su mandato creativo. (0:7.9) (17:2.1-5) (106:8.20)
+Majeston, creado por la Trinidad y los Siete Espíritus Rectores, es un ser divino con un origen misterioso. (17:2.1)
+Majeston, la única personalidad de la divinidad creada directamente por el Ser Supremo, no forma parte de nuestro catálogo de personalidades del Paraíso y está exclusivamente dedicada a la reflectividad del universo. (17:2.4) (117:3.11)
+Majeston encarna la presencia focalizada de la Mente Suprema en el reino cósmico. (0:3.14) (116:4.3)
+Majeston, el centro infalible y jefe de la reflectividad, es la fuente personalizada de satisfacción para los Espíritus Hijas del Espíritu Materno Infinito, sincronizando los gobiernos superuniversales con el centro Paradisiaco de reflectividad universal. (14:6.36) (17:2) (17:8.7)
+Majeston es una persona verdadera en el centro de los fenómenos de reflectividad en los siete superuniversos. (17:2.3)
+Majeston nombra Compañeros del Paraíso, el más alto honor para las huestes angélicas comisionadas por los Siete Espíritus Maestros en la Isla central. (25:8.2)
+Majeston preside los cónclaves milenarios de los Siete Ejecutivos Supremos en el Paraíso, comunicándose con todas las huestes inteligentes de la creación a través de la reflectividad universal. (17:1.10)
+Los Enlaces Reflectivos Sin Nombre de Majeston. (30:1.110)
+Los Auxiliares de la Imagen Reflexiva representan a seres influyentes en los gobiernos de los superuniversos, incluyendo a los innominados reflectivadores de enlace de Majeston. (15:10.21)
+Majeston, engendrado por el Ser Supremo, es el coordinador sintético de todas las actividades de las criaturas-Creadores en el universo. (0:7.9)
 
-sectores mayores | | Splandon | PLACE | 
-10 en cada superuniverso (15:13.1)
-70 mundos de estudio giran (15:13.3)
-100 mil millones de mundos habitables en cada uno (15:2.23) (15:13.1)
-100 sectores menores en cada uno; presidido por 3 Perfecciones de los Días (15:2.7) (15:3.12-13) (15:13.1) (18:4)
-los ascendentes son espíritus de segunda etapa en (31:3.4)
-los ascendentes pasan a través de los 10 sectores mayores en ascenso al superuniverso (18:4.9)
-Guardianes Celestiales asignados principalmente a (22:9.3)
-no tiene orden de ciudadanos permanentes (37:9.12)
-cúmulos estelares bastante simétricos (41:3.10)
-gobiernos de (15:13.1-3)
-ninguno aún se estableció en la luz y la vida (55:11.3)
-nuestro sector mayor es Splandon; Umayor la quinta es su capital (15:13.3) (15:14.7)
-mismo personal que los superuniversos (15:13.2)
-derivas de estrellas de Orvonton; rotar alrededor de Uversa (15:3.4,13)
-los estudiantes de estrellas trabajan en mayúsculas (30:3.5)
-trabajo de las comisiones conciliadoras para (25:3.12)
-el trabajo se relaciona principalmente con el estado intelectual (15:13.2-3) (18:4.8)
+sectores mayores | | Splandon | PLACE | OK
+Cada sector mayor de un superuniverso está supervisado por tres Perfecciones de los Días e incluye cien sectores menores, diez mil universos locales y aproximadamente cien mil millones de mundos habitables. (15:13.1)
+Los setenta mundos de estudio giran alrededor de Umajor, el quinto, dedicado al entrenamiento intelectual de los mortales ascendentes de todo Orvonton. (15:13.3)
+Un sector mayor (100 sectores menores) incluye 100.000.000.000 de mundos habitables. (15:2.23) (15:13.1)
+Cada sector mayor, que contiene alrededor de 100.000.000.000 de mundos habitables, está presidido por tres Perfecciones de los Días. (15:2.7) (15:3.12-13) (15:13.1) (18:4)
+Los ascendentes son espíritus de la segunda etapa en su viaje a través de los sectores mayores, avanzando en orden a medida que progresan hacia el Padre Universal y el destino último de la Finalidad Mortal. (31:3.4)
+En el curso del ascenso al superuniverso, los ascendentes deben pasar por los diez sectores mayores, incluyendo Splandon, para llegar a Uversa y ver las treinta Perfecciones de los Días de Orvonton. (18:4.9)
+Los Guardianes Celestiales asignados principalmente a los sectores mayores son asistidos hábilmente por mortales ascendentes fusionados con el Hijo en Orvonton. (22:9.3)
+Los mundos administrativos de los sectores menores y mayores de los superuniversos no tienen ciudadanos permanentes, a diferencia de las poblaciones más o menos permanentes que se encuentran en otras divisiones de la organización administrativa. (37:9.12)
+El conocimiento de los períodos estelares variables que dependen de la luminosidad permite a los astrónomos utilizar los soles como faros para medir con precisión las distancias estelares en cúmulos estelares simétricos que se encuentran a una distancia de hasta un millón de años luz. (41:3.10)
+Los gobiernos de los sectores mayores se centran en el desarrollo intelectual de una creación muy extensa. (15:13.1-3)
+Ninguno se ha establecido en la luz y la vida durante la era del sector mayor, dejándonos sólo para especular sobre los avances potenciales. (55:11.3)
+Los 70 satélites de Umajor el quinto están dedicados al entrenamiento intelectual, así como los magníficos satélites de Uversa se preparan para el crecimiento espiritual. (15:13.3) (15:14.7)
+Los gobiernos de los sectores mayores funcionan de manera similar a las cortes de los Ancianos de los Días en cuanto a personal y se centran en los aspectos intelectuales de la creación en lugar de en el juicio espiritual. (15:13.2)
+Las derivas estelares de Orvonton giran alrededor de Uversa, mostrando los diez sectores principales de la séptima galaxia. (15:3.4,13)
+Los estudiantes estelares trabajan en las sedes sectoriales y en las capitales arquitectónicas, donde la comprensión del universo físico depende en gran medida de la observación y la investigación. (30:3.5)
+El trabajo evolutivo de las comisiones conciliadoras para los Sectores Principales del Superuniverso se transforma de arbitrar malentendidos a interpretar fenómenos misteriosos. (25:3.12)
+Los gobiernos de los sectores principales se centran en el desarrollo intelectual y las tareas administrativas, en lugar de en el juicio espiritual o en los planes de ascensión mortal. (15:13.2-3) (18:4.8)
 
-Malac | | | PERSON | 
-Sirio de Beirut (156:3.1)
+Malac | | | PERSON | OK
+Malach, un sirio de Beirut, dio la bienvenida a Jesús durante su visita a la ciudad costera. (156:3.1)
 
-Malaquías | | | PERSON | 
-La profecía sobre Elías impresionó a Juan el Bautista (135:4.4)
-líder espiritual sin silencio (97:10.3)
+Malaquías | | | PERSON | OK
+Juan el Bautista quedó impresionado por la profecía de Malaquías acerca de Elías (135:4.4).
+Malaquías surgió como un líder espiritual que no fue silenciado en medio de la creciente esclavitud y tiranía del sacerdocio, y ayudó a preservar el concepto del Padre Universal para los judíos (97:10.3).
 
 inadaptación | | mala adaptación | | OK
 
-malaria | | | | 
-Amata sana de (145:2.16)
+malaria | | | | OK
+Amatha, que sufría de fiebre palúdica, no fue sanada milagrosamente por Jesús hasta varias horas después. (145:2.16)
 
-Malasia; malayos; tribu malaya | | | PLACE | 
-Tipo mongoloide con Sangik secundario en (81:4.12)
-tribu se cree descendiente del lémur (74:8.5)
+Malasia; malayos; tribu malaya | | | PLACE | OK
+Malasia es una mezcla de influencias mongoloides y sangik secundarias. (81:4.12)
+La tribu malaya creía en su descendencia del lémur como parte de su creencia ancestral en la evolución. (74:8.5)
 
-Malco | | | PERSON | 
-Guardaespaldas del sumo sacerdote sirio (183:3.7)
+Malco | | | PERSON | OK
+Malco, el guardaespaldas sirio del sumo sacerdote, intentó atar las manos de Jesús, pero la espada de Pedro lo detuvo. (183:3.7)
 
-Malta | (130:0.2) | puertos | PLACE | 
-Parada de Jesús en (130:8.1)
-Tomás ejecutado (139:8.13)
+Malta | (130:0.2) | puertos | PLACE | OK
+La parada de Jesús en Malta hizo que Claudio dejara de pensar en el suicidio y se convirtiera en un predicador entusiasta del cristianismo (130:8.1).
+Tomás fue ejecutado en Malta después de una vida de predicar y bautizar en varias regiones (139:8.13).
 
-cruz de Malta | | | | 
-la sección transversal vertical del espacio se asemeja (11:7.3-5)
+cruz de Malta | | | | OK
+La sección transversal vertical del espacio total se asemeja a una cruz de Malta con brazos horizontales que representan el espacio ocupado y brazos verticales que representan el espacio no ocupado, separados por zonas intermedias quietas que abarcan los límites de todo el espacio y se extienden hacia afuera desde el Paraíso. (11:7.3-5)
 
-Malvorian | | | PERSON | 
-primera Guía de los Graduados; con Grandfanda; jefe de su orden (24:6.4-6)
+Malvorian | | | PERSON | OK
+Malvorian, el primer Guía Graduado junto con Grandfanda, es el jefe de su orden y guía a los peregrinos mortales en su viaje hacia la Fuente y el Destino de toda personalidad. (24:6.4-6)
 
 mamíferos | (61) (59:0.6) | animales | | 
 la primera aparición falló (60:1.11)
