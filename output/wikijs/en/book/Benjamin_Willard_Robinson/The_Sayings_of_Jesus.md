@@ -8,21 +8,55 @@ editor: markdown
 dateCreated: 2025-2-12T12:30:5Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-science"><svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">	<g transform="translate(-7,-5)">		<rect width="9.6" height="136.8" x="7" y="5" />		<rect width="96.9" height="136.8" x="17" y="5" />		<text style="font-size:5px" x="61" y="22">Benjamin Willard Robinson, Ph.D.</text>		<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1930</text>		<text style="font-size:9px" x="61" y="60">The Sayings</text>		<text style="font-size:9px" x="61" y="70">of Jesus:</text>		<text style="font-size:9px" x="61" y="80">Their Background</text>		<text style="font-size:9px" x="61" y="90">and Interpretation</text>	</g></svg></div><p style="text-align:center;"><span class="text-h3">THE SAYINGS OF JESUS </span><br>THEIR BACKGROUND AND<br>INTERPRETATION<br>BY<br><span class="text-h5">Benjamin Willard Robinson, Pb.D. </span><br>PROFESSOR OF NEW TESTAMENT INTERPRETATION<br>IN THE CHICAGO THEOLOGICAL SEMINARY<br><br><br><br>New York and London<br>HARPER tir BROTHERS PUBLISHERS<br><br><br>MCMXXX<br>1930<br></p>
+<div class="urantiapedia-book-front urantiapedia-book-science">
+<svg xmlns="http://www.w3.org/2000/svg" width="102.6mm" height="136.8mm" viewBox="0 0 102.6 136.8" version="1.1">
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px" x="61" y="22">Benjamin Willard Robinson, Ph.D.</text>
+		<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1930</text>
+		<text style="font-size:9px" x="61" y="60">The Sayings</text>
+		<text style="font-size:9px" x="61" y="70">of Jesus:</text>
+		<text style="font-size:9px" x="61" y="80">Their Background</text>
+		<text style="font-size:9px" x="61" y="90">and Interpretation</text>
+	</g>
+</svg>
+</div>
+
+<p style="text-align:center;">
+<span class="text-h3">THE SAYINGS OF JESUS </span><br>
+THEIR BACKGROUND AND<br>
+INTERPRETATION<br>
+BY<br>
+<span class="text-h5">Benjamin Willard Robinson, Pb.D. </span><br>
+PROFESSOR OF NEW TESTAMENT INTERPRETATION<br>
+IN THE CHICAGO THEOLOGICAL SEMINARY<br>
+<br>
+<br>
+<br>
+New York and London<br>
+HARPER tir BROTHERS PUBLISHERS<br>
+<br>
+<br>
+MCMXXX<br>
+1930<br>
+</p>
+
+
 ## Index
 
-- [Preface](/en/book/Theology/The_Sayings_of_Jesus/Preface)
-- [I. Uprising of the Jews](/en/book/Theology/The_Sayings_of_Jesus/1)
+- [Preface](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Preface)
+- [I. Uprising of the Jews](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/1)
 	- From Alexander to the Uprising of Mattathias (336-167 B.C.)
 		- Alexander the Great—From Alexander to Mattathias—The Uprising of Mattathias
 	- Judas Maccabaeus (166-160 B.C.)
 		- First Victories—Purification of the Temple—Death of Antiochus—Accession of Demetrius
-- [II. Growth of the Jewish State](/en/book/Theology/The_Sayings_of_Jesus/2)
+- [II. Growth of the Jewish State](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/2)
 	- Jonathan (160-143 B.C.)
 		- Jonathan Is Successful—Jonathan Made High Priest — Jonathan and Demetrius II—Jonathan and Trypho — Jonathan Captured
 	- Simon (143-135 B.C.)
 		- Establishes Peace—Treaty with Pome—Battle with the Syrians at Modin—Death of Simon
-- [III. Rise of the Pharisees](/en/book/Theology/The_Sayings_of_Jesus/3)
+- [III. Rise of the Pharisees](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/3)
 	- John Hyrcanus (135-105 B.C.)
 	- Aristobulus I (105-104 B.C.)
 	- Alexander Jannams (104-78 B.C.)
@@ -30,35 +64,35 @@ dateCreated: 2025-2-12T12:30:5Z
 	- Aristobulus II (69-63 B.C.)
 	- The Capture of Jerusalem (63 B.C.)
 	- Roman Rule (63-40 B.C.)
-- [IV. Palestine under the Romans](/en/book/Theology/The_Sayings_of_Jesus/4)
+- [IV. Palestine under the Romans](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/4)
 	- Herod the Great (40-4 B.C.)
 		- A King in Search of a Kingdom—The Period of Conflict — The Period of Building — The Period of Domestic Troubles
 	- Palestine in the Time of Tesus (4 B.C.-44 A.D.)
 		- Archelaus (4 b.c -6 a.d/) Judea — Herod Antipas (4 B.C.—44 A.D.) Galilee and Perea—Philip (4 b.c -54 A.D.) Trachonitis—Herod Agrippa I (37-44 A.D.)
 	- The End of the Jewish State (44-7° A.D.)
 		- Increasing Discontent under the Roman Governors The East Governors of Judea—The Jewish Uprising — Destruction of Jerusalem
-- [V. Religious Nationalism](/en/book/Theology/The_Sayings_of_Jesus/5)
+- [V. Religious Nationalism](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/5)
 	- Legalism
 	- The Messianic Hope
 			- Hope of Better Days—The Resurrection—The Messianic 	Age—The Life after Death
 	- Religious Nationalism
-- [VI. External Form of the Teaching in the Gospels](/en/book/Theology/The_Sayings_of_Jesus/6)
+- [VI. External Form of the Teaching in the Gospels](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/6)
 	- Nature of the Parable
 		- Purpose of the Parable—Allegorizing the Parable — Interpretation of a Parable—Reasons against Considering Parables as Allegory
 	- Jesus' Ideas Concerning Nature and History
 		- The Physical World—The Nature of Man—Supernatural Beings Jesus Ideas about Hades—Old Testament History and Authorship Apocalyptic Ideas of the Coming of the Kingdom
-- [VII. The Early Years of Jesus’ Life](/en/book/Theology/The_Sayings_of_Jesus/7)
+- [VII. The Early Years of Jesus’ Life](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/7)
 	- Jesus’ Home
 	- Jesus' Visit to the Temple
 	- The Baptism
 	- The Temptations
-- [VIII. The Sayings of Jesus](/en/book/Theology/The_Sayings_of_Jesus/8)
+- [VIII. The Sayings of Jesus](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/8)
 	- From an Early Source (“G”)
 	- Another Early Source (“Pm”)
 	- Another Early Source (“PI”)
 	- Doubly-attested Sayings
 	- The Best-attested Saying
-- [IX. The Ethical Teaching of Jesus](/en/book/Theology/The_Sayings_of_Jesus/9)
+- [IX. The Ethical Teaching of Jesus](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/9)
 	- The Sayings of Jesus—Earliest Sources
 	- The Nature of Jesus’ Religion
 	- Self-denial
@@ -66,26 +100,26 @@ dateCreated: 2025-2-12T12:30:5Z
 	- Resisting Evil
 	- Marriage and Divorce
 	- Personal Character
-- [X. The Prayer Life of Jesus](/en/book/Theology/The_Sayings_of_Jesus/10)
+- [X. The Prayer Life of Jesus](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/10)
 	- Prayer in a World of Science
 	- Jesus’ Personal Prayers
 	- Jesus' Teaching Regarding Prayer
 	- The Lord’s Prayer
-- [XI. The Son of Man](/en/book/Theology/The_Sayings_of_Jesus/11)
+- [XI. The Son of Man](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/11)
 	- The Son of Man
 	- The “Christ” or “Anointed”
 	- The Son of God
-- [XII. The Kingdom of God](/en/book/Theology/The_Sayings_of_Jesus/12)
+- [XII. The Kingdom of God](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/12)
 	- Old Testament and Jewish Use of the Term “Kingdom”
 	- Jesus’ Use of the Term “Kingdom”
 	- The Blessings of the Kingdom
 	- Conditions of Entering the Kingdom
-- [XIII. The Kingdom as a New Social Order](/en/book/Theology/The_Sayings_of_Jesus/13)
+- [XIII. The Kingdom as a New Social Order](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/13)
 	- The Kingdom Both Present and Future
 	- The Kingdom as a Great Hope
 	- The Kingdom as a Brotherhood
 	- Modern Ideas of the Kingdom
-- [XIV. The Inner Dynamic of Jesus’ Religion](/en/book/Theology/The_Sayings_of_Jesus/14)
+- [XIV. The Inner Dynamic of Jesus’ Religion](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/14)
 	- His Genius in Selecting the Best
 	- The Dynamic Quality Which He Imparted
 	- The Old Testament Morality
@@ -93,7 +127,7 @@ dateCreated: 2025-2-12T12:30:5Z
 	- Modern Adaptations of Jesus’ Spirit
 	- Relation of Negative to Positive Religion
 		- The Dynamic Quality Inherent in All Parts of Jesus’	Religion
-- [XV. The Forceful Quality of His Expressions](/en/book/Theology/The_Sayings_of_Jesus/15)
+- [XV. The Forceful Quality of His Expressions](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/15)
 	- The Wide Range of Jesus’ Illustrations
 	- The Radical Quality
 	- Exclusion of Non-contributing Details
@@ -104,10 +138,10 @@ dateCreated: 2025-2-12T12:30:5Z
 	- Combination
 	- Naturalness
 	- Inwardness
-- [Conclusion](/en/book/Theology/The_Sayings_of_Jesus/Conclusion)
-- [Reference Library](/en/book/Theology/The_Sayings_of_Jesus/Reference_Library)
-- [Index of Scripture References](/en/book/Theology/The_Sayings_of_Jesus/Index_of_Scripture_References)
-- [Index of Subjects](/en/book/Theology/The_Sayings_of_Jesus/Index_of_Subjects)
+- [Conclusion](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Conclusion)
+- [Reference Library](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Reference_Library)
+- [Index of Scripture References](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Index_of_Scripture_References)
+- [Index of Subjects](/en/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Index_of_Subjects)
 
 ## External links
 
