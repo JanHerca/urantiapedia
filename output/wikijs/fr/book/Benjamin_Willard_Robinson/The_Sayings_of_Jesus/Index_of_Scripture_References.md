@@ -1,0 +1,59 @@
+---
+title: "Index des références bibliques"
+description: "Les dictons de Jésus : leur contexte et leur interprétation"
+published: true
+date: 2025-2-12T22:38:49Z
+tags: Theology, book
+editor: markdown
+dateCreated: 2025-2-12T22:38:49Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Reference_Library">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliothèque de référence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Index_of_Subjects">
+          <span class="pr-2">Index des matières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Reference_Library">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliothèque de référence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/Benjamin_Willard_Robinson/The_Sayings_of_Jesus/Index_of_Subjects">
+          <span class="pr-2">Index des matières</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

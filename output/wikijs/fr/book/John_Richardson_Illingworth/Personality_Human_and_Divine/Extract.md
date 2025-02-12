@@ -1,0 +1,53 @@
+---
+title: "EXTRAIT"
+description: "Personnalité Humaine et Divin"
+published: true
+date: 2025-2-12T22:38:28Z
+tags: Theology, book
+editor: markdown
+dateCreated: 2025-2-12T22:38:28Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/book/John_Richardson_Illingworth/Personality_Human_and_Divine">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/John_Richardson_Illingworth/Personality_Human_and_Divine/Preface">
+          <span class="pr-2">PRÉFACE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/book/John_Richardson_Illingworth/Personality_Human_and_Divine">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Page de titre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/book/John_Richardson_Illingworth/Personality_Human_and_Divine/Preface">
+          <span class="pr-2">PRÉFACE</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
