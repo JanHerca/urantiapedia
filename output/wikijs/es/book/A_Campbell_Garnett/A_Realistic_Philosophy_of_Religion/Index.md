@@ -2,10 +2,10 @@
 title: "Índice"
 description: "Una filosofía realista de la religión"
 published: true
-date: 2025-2-7T19:39:41Z
+date: 2025-2-12T14:42:53Z
 tags: Philosophy, book
 editor: markdown
-dateCreated: 2025-2-7T19:39:41Z
+dateCreated: 2025-2-12T14:42:53Z
 ---
 
 <figure class="table chapter-navigator">
@@ -13,12 +13,12 @@ dateCreated: 2025-2-7T19:39:41Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/book/Philosophy/A_Realistic_Philosophy_of_Religion/Bibliography">
+        <a href="/es/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion/Bibliography">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliografía</span>
         </a>
         </td>
         <td>
-        <a href="/es/book/Philosophy/A_Realistic_Philosophy_of_Religion">
+        <a href="/es/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>
@@ -36,12 +36,12 @@ dateCreated: 2025-2-7T19:39:41Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/book/Philosophy/A_Realistic_Philosophy_of_Religion/Bibliography">
+        <a href="/es/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion/Bibliography">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bibliografía</span>
         </a>
         </td>
         <td>
-        <a href="/es/book/Philosophy/A_Realistic_Philosophy_of_Religion">
+        <a href="/es/book/A_Campbell_Garnett/A_Realistic_Philosophy_of_Religion">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
         </a>
         </td>

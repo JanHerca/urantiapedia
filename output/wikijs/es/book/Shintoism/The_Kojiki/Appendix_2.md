@@ -1,0 +1,53 @@
+---
+title: "Apéndice II. Cronología de los soberanos mencionados en Kojiki y Nihongi"
+description: "El Kojiki"
+published: true
+date: 2025-2-12T12:54:39Z
+tags: Shinto, book
+editor: markdown
+dateCreated: 2025-2-12T12:54:39Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/book/Shintoism/The_Kojiki/Appendix_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I: Texto japonés de las canciones de los kojiki, transliterado al latín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Shintoism/The_Kojiki">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/book/Shintoism/The_Kojiki/Appendix_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice I: Texto japonés de las canciones de los kojiki, transliterado al latín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/book/Shintoism/The_Kojiki">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Página de portada</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
