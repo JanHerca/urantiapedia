@@ -9,9 +9,9 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-chênes | (60:3.19) | | |
+chênes | (60:3.19) | | | 
 
-serments | | promesses | |
+serments | | promesses | | 
 Adam et Eve prêtent serment au Très-Haut et à Michel (74:1.4) (74:2.6) (75:4.2)
 par les Fils Créateurs de ne pas assumer la pleine souveraineté avant 7
 dons (21:3.12) (21:4.5)
@@ -29,24 +29,24 @@ serments primitifs
 	consécration solennelle de la jeunesse romaine (98:3.4)
 	juré par le temple ou par son or (175:1.16)
 
-avoine | | | |
+avoine | | | | 
 idée insensée de semer des choses sauvages (70:7.12)
 
-Abdias | | | PERSON |
+Abdias | | | PERSON | 
 a confirmé l'évangile d'Isaïe; a attaqué sans crainte le système sacrificiel (97:5.4)
 
-Oban | | | PLACE |
+Oban | | | PLACE | 
 siège d'Onagar sur la Méditerranée (63:6.7)
 
 obligations | | devoir | | OK
 
-observateur | | | |
+observateur | | | | 
 ne peut pas être une chose observée (112:2.12)
 
-observateurs (univers) | | | |
+observateurs (univers) | | | | 
 Commission des souverains des systèmes; représente les systèmes locaux (33:6.4)
 
-océans | | lacs | |
+océans | | lacs | | 
 est devenu trop salé (59:3.10)
 les fonds devinrent de plus en plus lourds à cause de l'accumulation de météores; coulèrent (57:8.20-21)
 les courants ont changé au Pléistocène; peu de changement au cours des 15 derniers millions d'années (61:3.9) (61:5.2)
@@ -59,35 +59,35 @@ la lumière du soleil peut pénétrer à 600 pieds (58:1.7)
 poids par rapport aux altitudes du terrain (58:5.5-8)
 dans le monde entier (57:8)
 
-poulpes | (65:2.5) | | |
+poulpes | (65:2.5) | | | 
 descendant des céphalopodes (59:2.11)
 
-Og | | | PERSON |
+Og | | | PERSON | 
 raid hébreu brutal et efficace contre (69:8.3)
 
-Ohio | (61:7.9) | | PLACE |
+Ohio | (61:7.9) | | PLACE | 
 
-rivière Ohio | (59:4.6) (61:7.2) | | PLACE |
+rivière Ohio | (59:4.6) (61:7.2) | | PLACE | 
 
-pétrole (pétrole) | | | |
+pétrole (pétrole) | | | | 
 déposition (59:3.4) (60:3.9)
 souvent trouvé dans les gisements de charbon (59:5.16)
 
-huile (végétale) | | | |
+huile (végétale) | | | | 
 médecine ancienne pour soigner les blessures (90:4.9)
 Le bon Samaritain a versé de l'huile sur les plaies (164:1.3)
 Les apôtres de Jésus n'acceptèrent pas d'oindre avec (150:0.2)
 
-pommade | | | |
+pommade | | | | 
 Le tenancier du bordel a oint les pieds de Jésus avec (147:5.3)
 Le corps de Jésus embaumé avec de la myrrhe et de l'aloès (188:1.4,7) (189:4.3,5)
 Judas en voulait à Marie pour le gaspillage (139:12.10)
 Marie versa du nard sur la tête et les pieds de Jésus (172:1.5-8)
 
-Okhban | | | PERSON |
+Okhban | | | PERSON | 
 grand prophète égyptien; assassiné (95:3.5)
 
-Ancien Testament | | prophètes; livres sacrés | |
+Ancien Testament | | prophètes; livres sacrés | | 
 attribue la responsabilité de tout à Dieu (148:5.4) (156:5.4)
 livres nommés | Deutéronome; Écclésiaste; Énoch; Exode; Ézéchiel; Ezra (Prophète); Isaïe (premier); Isaïe (deuxième); Jérémie; Job (livre); Proverbes; Psaumes; Zacharie
 L'émigration de Caïn vers le pays de Nod (74:8.8)
@@ -139,15 +139,15 @@ récit sacré des hommes qui cherchent Dieu (159:4.4)
 Les Sadducéens ne reconnaissaient que 5 livres de Moïse (174:3.4)
 montre une croissance dans le concept de Dieu (142:2.2) (142:3)
 
-vieilles choses | | | |
+vieilles choses | | | | 
 sont en train de disparaître (27:1.5) (100:7.18) (143:2.3)
 ne devraient pas être méprisés simplement parce qu'ils sont vieux (81:6.39) (147:7.3) (195:9.1)
 ce qui était est ancien et supposément sacré (92:2.2)
 
-oligocène | | âges géologiques | |
+oligocène | | âges géologiques | | 
 ère de 35 à 25 millions d'années (61:2)
 
-pressoir à olives | | | |
+pressoir à olives | | | | 
 Discussion des apôtres à (183:4)
 près de l'entrée de Gethsémani (183:0.3,5)
 
@@ -155,12 +155,12 @@ Mont des Oliviers | | Mont des Oliviers | | OK
 
 Religion olympienne | | Grèce:Religion grecque | | OK
 
-présages | | | |
+présages | | | | 
 censé révéler la volonté des esprits; les adeptes du culte des fantômes considéraient tout ce qui sortait de l'ordinaire comme un présage (87:5.9-14)
 les hommes-médecine placent une grande confiance en (90:2.5)
 pure superstition sans fondement (150:3.8)
 
-omniaphim | | anges | ORDER |
+omniaphim | | anges | ORDER | 
 accompagna Michel lors de l'effusion de Melchizédek (119:1.3,5)
 dans les registres de personnalité (30:1.84) (30:2.86)
 peuvent devenir conseillers techniques; compagnons du paradis (25:4.6) (25:8.1,8)
@@ -168,7 +168,7 @@ pas directement concerné par les mortels ascendants (28:0.3) (28:2.1)
 représentants personnels des Sentinelles assignées (55:4.16)
 serviteurs des Sept Exécutifs Suprêmes; créés par l'Esprit Infini et les Sept Exécutifs Suprêmes (26:1.13) (28:2.1)
 
-toute-puissance | | | |
+toute-puissance | | | | 
 la doctrine prive de leurs droits toutes les autres personnalités (118:6.2)
 Le Fils Éternel n'est pas personnellement responsable de la conduite de toutes les personnalités spirituelles (7:0.5)
 Le sophisme de l'omniscience est une erreur colossale du panthéisme (118:6.8)
@@ -176,7 +176,7 @@ Dieu ne fait pas tout personnellement (3:2.10) (118:6)
 Dieu n'a pas tout décidé à l'avance pour nous (118:10.1)
 Les Juifs ont vu Dieu dans tout ce qui est arrivé (148:5.4) (156:5.4)
 
-toute-puissance | (3:2) | | |
+toute-puissance | (3:2) | | | 
 et la compossibilité (118:5)
 et toute-puissance (118:6)
 Dieu n'est limité que par sa nature, sa volonté et sa loi (3:2.11-15) (4:4.3-4)
@@ -186,10 +186,10 @@ nier l'autolimitation volontaire de Dieu reviendrait à nier son caractère abso
 réalité transcendantale (105:7.13)
 quand Dieu décrète une chose, cette chose est (131:1.2)
 
-Omnipotent | | | ORDER |
+Omnipotent | | | ORDER | 
 Dieu l'Ultime manifesté aux univers du temps (118:2.4)
 
-omniprésence | (3:1) (118:2) (118:3.1) | | |
+omniprésence | (3:1) (118:2) (118:3.1) | | | 
 La capacité du Père à être présent partout en même temps (3:1.1)
 Les Esprits Mères sont omniprésents dans leurs propres univers (34:3.3,8) (41:0.1) (45:1.8) (116:5.13)
 de Dieu (3:1) (131:1.6)
@@ -198,7 +198,7 @@ Les sept esprits maîtres se révèlent collectivement (16:2.4)
 réalité transcendantale (105:7.13)
 L'ubiquité du Suprême imprègne les univers (117:7.16)
 
-omniscience | (3:3) | | |
+omniscience | (3:3) | | | 
 et la prédestination (118:7)
 Les créateurs respectent la vie privée même des êtres humbles (18:1.5)
 Les divinités savent tout, mais ne communiquent pas tout (23:2.20) (24:4.9) (25:4.16)
@@ -215,17 +215,17 @@ Les sept esprits maîtres se révèlent collectivement (16:2.4)
 n'enlève rien à la liberté de décision connue d'avance (118:7.1)
 réalité transcendantale (105:7.13)
 
-Omri | | | PERSON |
+Omri | | | PERSON | 
 roi; a tenté d'acheter le domaine de Shemer (97:9.18)
 
-Onagar | (92:5.8) | | PERSON |
+Onagar | (92:5.8) | | PERSON | 
 Andonite; premier enseignant de vérité, cerveau de l'âge pré-Prince Planétaire (45:4.3) (63:6)
 né il y a 983 323 ans (63:6.8)
 institué un gouvernement tribal efficace (63:6.8)
 l'un des 24 conseillers (45:4.3)
 prière de (63:6.5-6)
 
-Onamonalonton | | | PERSON |
+Onamonalonton | | | PERSON | 
 Les Amérindiens attendaient le retour de (92:5.6)
 Les Indiens Pieds-Noirs, descendants de (64:6.7)
 le centre de Californie est la plus ancienne culture amérindienne (79:5.8)
@@ -236,38 +236,38 @@ enseigne la règle unanime du conseil des sept (70:5.4)
 
 mortels à un seul cerveau | | cerveaux; mortels:types planétaires | | OK
 
-Dieu Unique | | | |
+Dieu Unique | | | | 
 livre d'Ikhnaton (95:5.7)
 
 Une personne hautement autorisée | | Élevés en Autorité | | OK
 
-cent conciles de sanction suprême | | | |
+cent conciles de sanction suprême | | | | 
 présidents de, constituent le cabinet de travail de Gabriel (33:8.4-5)
 
-Vérité Unique | | | |
+Vérité Unique | | | | 
 Singlangton a proclamé Dieu à la race jaune comme (64:6.15) (79:6.10) (79:8.4)
 
 UN SANS CAUSE | | JE SUIS | PERSON | OK
 
 Celui sans nom et sans numéro | | Dépourvus de Nom et de Nombre | PERSON | OK
 
-suinter | | | |
+suinter | | | | 
 l'ascension de l'homme depuis (65:2.1)
 
-Ophel | | | PLACE |
+Ophel | | | PLACE | 
 à Jérusalem (162:4.4)
 
-opiacé | | ivresse | |
+opiacé | | ivresse | | 
 la religion de Jésus n'est pas un opium (194:3.3-4)
 
-opinions | | croyance | |
+opinions | | croyance | | 
 
-opium | | ivresse | |
+opium | | ivresse | | 
 utilisé par les Sumériens comme médicament (90:4.9)
 
-opossums | (61:1.9) | | |
+opossums | (61:1.9) | | | 
 
-opportunités | | défis; résolution de problèmes; service | |
+opportunités | | défis; résolution de problèmes; service | | 
 Dieu jettera les chercheurs sur la terre sèche et fraîche (130:1.2)
 le gouvernement devrait faire respecter l'égalité des chances (81:5.6)
 hâte-toi vers l'endroit où de grandes choses attendent d'être accomplies (130:6.3)
@@ -276,12 +276,12 @@ la société devrait permettre (71:3.9)
 parfois créé par la mort des espoirs les plus chers (48:6.36)
 pour les mortels fusionnés avec les Ajusteurs, la carrière du service universel est grande ouverte (40:7.5)
 
-oppression | | | |
+oppression | | | | 
 Jésus a dénoncé (140:8.21) (147:8.4) (163:2.11) (173:1.11)
 l'homme a appris le travail à travers (69:8.8)
 seul l'amour, la fraternité, peuvent empêcher (71:4.17)
 
-optimisme | | | |
+optimisme | | | | 
 une certaine dose d'optimisme est utile dans la vie (181:1.8)
 ne cachez pas l'échec sous un optimisme radieux (160:4.13)
 L'optimisme de Jésus
@@ -292,14 +292,14 @@ le positif a toujours l'avantage sur le négatif (102:6.7)
 L'optimisme laïc est une illusion (195:8.12)
 désirant vainement une paix qui ne vient jamais (181:1.7)
 
-oracles | | | |
+oracles | | | | 
 censé révéler la volonté des esprits (87:5.9)
 Les Grecs croyaient en (90:2.8)
 Les peuples latins consultés avec optimisme en temps de crise (98:3.4)
 
 loi orale | | Judaïsme:loi orale; traditions | | OK
 
-race orangée | (64:6.10-13) | races | RACE |
+race orangée | (64:6.10-13) | races | RACE | 
 croyait à la transmigration et à la réincarnation (86:4.6)
 détruit
 	absorbé par la race verte (64:6.11,13) (64:7.16)
@@ -316,45 +316,45 @@ Porshunta était le maître d'esprit il y a 300 000 ans (64:6.12)
 souches du gigantisme (51:4.2) (64:6.19)
 généralement soumis par la race rouge (51:4.6)
 
-oratoire | | | |
+oratoire | | | | 
 les artisans célestes préservent la pensée pour la reproduction (44:4.7-8)
 orateur au forum (132:4.7)
 
-épreuves | | | |
+épreuves | | | | 
 censé interpréter les messages spirituels (87:5.9)
 détection de crimes par poison, feu et douleur (70:10.5-7)
 Jésus a dénoncé la croyance en (150:3.12)
 
-ordre | | discipline; harmonie; leadership | |
+ordre | | discipline; harmonie; leadership | | 
 détectable sur le Paradis (27:4.2)
 la communion doit maintenir l'ordre temporel (159:1.3,6)
 royaume est le domaine de (181:2.16)
 les groupes sociaux peuvent maintenir la discipline (178:1.2)
 
-ordovicienne | | âges géologiques | |
+ordovicienne | | âges géologiques | | 
 ère de la vie marine, de 350 à 300 millions d'années (59:2)
 
-organismes | | | |
+organismes | | | | 
 intrinsèquement actif (112:1.13)
 
-organes | | | |
+organes | | | | 
 les anciens croyaient que l'âme résidait dans (111:0.3)
 
-orientation | | | |
+orientation | | | | 
 sens directionnel fixé chez les êtres vivants (34:4.12-13)
 
-origine | | création | |
+origine | | création | | 
 toutes les relations et l'éthique découlent de o.; question primordiale
 concernant l'avancement (28:6.2)
 
-Originel | | | |
+Originel | | | | 
 causes, puis équilibres, mouvements de métamorphose de la réalité (115:3.12)
 rend possible la coexistence de l'homme actuel et de l'homme éternel (115:3.15)
 Manifestation de la source du JE SUIS (115:3.6,11)
 
-Mère Fils Originel | | Fils Éternel | PERSON |
+Mère Fils Originel | | Fils Éternel | PERSON | 
 
-doctrine du péché originel | | | |
+doctrine du péché originel | | | | 
 a causé la mort; affaiblissement de l'emprise de la magie (88:4.7)
 croyance que le péché d'Adam a maudit la race humaine (136:1.4) (186:5.7)
 injustice grossière de condamner une âme à cause du péché des ancêtres (145:2.7-8) (186:5.7) (188:4.3)
@@ -367,33 +367,33 @@ hypothèse requise d'un ancien âge d'or (74:8.13)
 âme considérée comme née sous le joug de la déchéance (89:0.1) (89:4.6)
 superstition selon laquelle l'homme est un enfant du diable (194:2.1)
 
-originalité | | initiative; normalisation | |
+originalité | | initiative; normalisation | | 
 la société devrait favoriser (70:2.18)
 s'efforcer d'être original tout en évitant l'excentricité (149:4.4)
 
-Orlandof | | | PERSON |
+Orlandof | | | PERSON | 
 l'un des 24 conseillers (45:4.6)
 professeur de la race bleue il y a 200 000 ans (45:4.6) (64:6.23)
 
-ornementation | | | |
+ornementation | | | | 
 le premier collier a été conservé, cordon ombilical serti de perles (88:1.8)
 l'or fut le premier métal recherché par l'homme (81:3.4-5)
 les primitifs gravaient des dieux animaux sur des objets (63:6.3)
 
-orphelins | | | |
+orphelins | | | | 
 adopté dans les familles du personnel corporel du Prince (66:7.5)
 
-fraternité orphique | | | |
+fraternité orphique | | | | 
 le meilleur des cultes mystérieux (98:2.10)
 
-Orvonon | | | PERSON |
+Orvonon | | | PERSON | 
 l'un des 24 conseillers (45:4.10)
 enseignant de la race indigo (64:6.26)
 
-Orvonton (satellite du Paradis) | | | PLACE |
+Orvonton (satellite du Paradis) | | | PLACE | 
 Satellite paradisiaque du 7e superunivers (17:1.5)
 
-Orvonton (superunivers) | (15:3) | superunivers; Uversa | PLACE |
+Orvonton (superunivers) | (15:3) | superunivers; Uversa | PLACE | 
 7ème galaxie (15:3.4)
 Andromède dans une partie inhabitée d'Orvonton ? (15:4.7)
 composé de
@@ -418,64 +418,64 @@ le jour standard est de 30 jours Urantia, l'année est de 3000 jours Urantia (15
 superunivers n°7 dans le grand univers; notre superunivers (0:0.5) (12:1.12) (15:1.5) (15:14.7) (30:4.34)
 Uversa est la capitale de (0:0.5) (15:7.10-11)
 
-Osiris | | | PERSON |
+Osiris | | | PERSON | 
 épouse d'Isis (95:5.12)
 les âmes des défunts passèrent par la salle de jugement de (95:2.9)
 fils d'Isis dans le culte mystérieux égyptien (97:6.2) (98:4.2-8)
 
-autruches | (61:1.9) (61:2.12) | | |
+autruches | (61:1.9) (61:2.12) | | | 
 descendant d'énormes reptiles anciens (65:2.9)
 
-loutres | (61:3.13) | | |
+loutres | (61:3.13) | | | 
 
-oudah | | | |
+oudah | | | | 
 croyances des Pygmées (91:0.5)
 
 espace extra-atmosphérique | | niveaux spatiaux | | OK
 
-les extra-terrestres | | niveaux spatiaux | |
+les extra-terrestres | | niveaux spatiaux | | 
 peuvent devenir de futurs citoyens de Havona (19:6.7)
 s'approchera de Havona à travers 7 superunivers (40:10.8) (55:12.2) (56:7.9)
 
-surcontrôle | | | |
+surcontrôle | | | | 
 par les Déités et les Absolus expérientiels (15:8.9)
 de l'évolution (65)
 universel (12:6)
 
-surplanification | | | |
+surplanification | | | | 
 se détruit parfois (160:4.11)
 
 surpopulation | | population | | OK
 
-surprotection | | éducation des enfants | |
+surprotection | | éducation des enfants | | 
 Jean Marc a été autorisé à avoir une expérience originale; il n'a pas été surprotégé (177:2.2-4)
 
 surrévélation | | révélation:surrévélation | | OK
 
 âme supérieure de la création | | Suprême | PERSON | OK
 
-surspécialisation | | carrières; gagner sa vie; travail; talents:compétences | |
+surspécialisation | | carrières; gagner sa vie; travail; talents:compétences | | 
 danger de monotonie (81:6.36)
 Jésus déplore (149:4.3,6) (155:1.4)
 
-Ovide | | | PERSON |
+Ovide | | | PERSON | 
 Phénicien qui a proclamé les doctrines de Salem à Ur; converti
 La famille de Térah (93:5.4)
 
-hiboux | (61:2.12) | | |
+hiboux | (61:2.12) | | | 
 
-bœufs | (61:3.5) | | |
+bœufs | (61:3.5) | | | 
 domestiqué vers 5000 av. J.-C. (81:2.12)
 longue lutte pour substituer les bœufs aux hommes (81:6.21)
 utilisé pour porter le fardeau à l'époque du bâton du Prince (66:5.5)
 
-oxygène | | | |
+oxygène | | | | 
 premier oxygène atmosphérique libre généré par les algues et autres plantes (57:7.9)
 coulées de lave, les météores ont utilisé l'oxygène atmosphérique primitif (57:7.6,9)
 sur les mondes morontiels (43:1.3)
 la science n'aurait pas pu prédire la molécule d'eau à partir de (12:9.3)
 
-huîtres | (59:2.12) (60:2.8) (65:2.5) | | |
+huîtres | (59:2.12) (60:2.8) (65:2.5) | | | 
 
-ozone | | | |
+ozone | | | | 
 couche protectrice (58:2.2-4)
