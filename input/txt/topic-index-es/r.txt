@@ -9,21 +9,23 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-rabinos | | judaísmo | | 
-deseando ser llamado rabino (175:1.9)
-Jesús se refirió como Rabí (137:7.2) (142:2.1,5) (142:6.3)
-calificados para actuar como jueces (173:2.3)
-con escribas, compuesto por fariseos (137:7.6)
+rabinos | | judaísmo | | OK
+Estos gobernantes egocéntricos, que desean ser llamados rabinos, ansían el honor de los hombres mientras explotan secretamente a otros para obtener ganancias. (175:1.9)
+Jesús, el rabino, hizo que estos creyentes no tuvieran miedo de su divinidad, fomentando un vínculo de amistad con Dios encarnado en forma humana. (137:7.2) (142:2.1,5) (142:6.3)
+Sólo un rabino estaba calificado para actuar como juez en asuntos llevados a juicio. (173:2.3)
+Los rabinos, conocidos como fariseos, se llamaban a sí mismos los "asociados" y abrazaron enseñanzas como la resurrección de los muertos del profeta posterior Daniel, junto con los escribas. (137:7.6)
 
-conejos | (61:2.7) | | | 
+conejos | | | | OK
+Los conejos, junto con otros roedores roedores, aparecieron en la Tierra durante un período en el que varios grupos de mamíferos surgieron de un animal carnívoro extinto con rasgos parecidos a los de un gato y una foca. (61:2.7)
 
-mapaches | (61:3.13) | | | 
+mapaches | | | | OK
+Los mapaches prosperaron y se desarrollaron en todas las latitudes septentrionales. (61:3.13)
 
-comisionados de las razas | | | ORDER | 
-Los Altos Comisionados comienzan su servicio como (37:5.5-6)
-interpretar el punto de vista de razas enteras (37:5.5) (48:6.22)
-muy activo en Urantia (114:4.2)
-trabajo apoyado por Serafines Intérpretes Raciales (48:6.22)
+comisionados de las razas | | | ORDER | OK
+Los Altos Comisionados comienzan su servicio como comisionados raciales, dedicados a interpretar puntos de vista y abogar por las necesidades de las diversas razas humanas en los planetas. (37:5.5-6)
+Los comisionados raciales funcionan como voceros devotos de las razas mortales, buscando misericordia, justicia y trato justo en las crisis planetarias, mientras que los intérpretes raciales armonizan los diversos puntos de vista y tendencias sociales entre las diferentes razas humanas. (37:5.5) (48:6.22)
+Los comisionados raciales en Urantia trabajan en estrecha colaboración con el observador Vorondadek, quien ejerce autoridad sobre los problemas planetarios bajo el control de los Altísimos de Edentia desde la rebelión de Lucifer. (114:4.2)
+En mundos confusos como Urantia, el trabajo de los comisionados raciales es apoyado por serafines intérpretes raciales para armonizar los diversos puntos de vista y tendencias sociales de los distintos tipos raciales. (48:6.22)
 
 razas | (64) (51:4) | eugenesia; genética; tribus | RACE | 
 24 consejeros reclutados de las ocho razas (45:4.2)
@@ -94,88 +96,88 @@ tipos | adamitas; andonitas; raza azul; hombres cobrizos; raza verde; raza índi
 		tenía muchos rasgos deseables para mejorar las razas primarias (82:6.2,11)
 		desaparecidos o exterminados en muchos mundos (51:4.3)
 
-Raquel (Antiguo Testamento) | | | PERSON | 
-piedras sagradas ocultas en su tienda (85:1.1)
+Raquel (Antiguo Testamento) | | | PERSON | OK
+Raquel ocultó piedras sagradas en su tienda, siguiendo una tradición de adoración de piedras que se remonta a los primeros días de la humanidad. (85:1.1)
 
-Raquel (cuñada de Judá) | (154:5.1) (154:6.1) | | PERSON | 
-en la décimo sexta aparición de Jesús (193:0)
-convirtió a María Magdalena (150:2.2)
-miembro del cuerpo de mujeres (150:1.1)
-cuestión de (150:5.1)
+Raquel (cuñada de Judá) | (154:5.1) (154:6.1) | | PERSON | OK
+Raquel, cuñada de Judas, convirtió a María Magdalena en Magdala, lo que demostró la sabiduría de permitir que las mujeres ministraran a los necesitados. (150:2.2)
+Raquel, cuñada de Judas, estaba entre las diez mujeres devotas seleccionadas por Jesús para ser miembros del cuerpo de mujeres para la obra de ministración del reino. (150:1.1)
+Raquel le preguntó a Jesús sobre la salvación de las mujeres durante sus enseñanzas en Sunem. (150:5.1)
+En la decimosexta aparición de Jesús, instruyó a sus discípulos a proclamar el evangelio del reino y a amar y servir a todos los hombres como hijos de Dios. (193:0)
 
-Intérpretes Raciales | (48:6.22-23) | Serafines | ORDER | 
-Serafines de segundo orden de ministro de transición (39:6.1)
-Serafines que armonizan diversos puntos de vista de las razas (48:6.22)
+Intérpretes Raciales | (48:6.22-23) | Serafines | ORDER | OK
+Los intérpretes raciales ayudan a educar a los mortales supervivientes en los siete mundos de estancia como parte de la segunda orden de serafines ministros de transición. (39:6.1)
+Los intérpretes raciales, serafines que armonizan los diversos puntos de vista de las razas, sirven para unificar los distintos tipos raciales y tendencias sociales entre los seres mortales de los diferentes mundos. (48:6.22)
 
-radiodifusión | | | | 
-Ondas hertzianas utilizadas para (42:5.12)
-papel de los cinturones de aire superiores (46:1.6) (58:2.10)
-posición de octava de energía de las olas (42:5.1,12)
+radiodifusión | | | | OK
+Ondas hertzianas utilizadas para la transmisión en Urantia. (42:5.12)
+La función de los cinturones de aire superiores en la transmisión por radio consiste en reflejar las ondas de transmisión terrestres de vuelta a la Tierra, lo que permite la transmisión a larga distancia a pesar de las perturbaciones ocasionales causadas por las tormentas ionosféricas exteriores. (46:1.6) (58:2.10)
+Las ondas hertzianas, que se encuentran treinta octavas por debajo de la luz solar visible en el superuniverso, se utilizan para la transmisión por radio en Urantia. (42:5.1,12)
 
-radioactividad | | rayos X | | 
-tendencia a la desorganización de elementos más pesados (42:3.11)
-exceso derivado de la ruptura del mesotrón (42:8.5)
-elementos radiactivos traídos por meteoros (57:7.3)
-desintegración del uranio (42:4.12)
+radioactividad | | rayos X | | OK
+La tendencia desorganizadora de los elementos más pesados ​​en la materia radiactiva se ve acentuada por el calor moderado y la presión de gravedad reducida. (42:3.11)
+El exceso de radiación en los átomos radiactivos se deriva de la fragmentación del mesotrón, lo que explica el fenómeno de emitir más energía de la esperada. (42:8.5)
+Los elementos radiactivos traídos por los meteoros revelan que Urantia tiene más de mil millones de años en su superficie. (57:7.3)
+La diferencia en los pesos atómicos del plomo, desde su formación original hasta la desintegración del uranio, indica la pérdida de energía en la fragmentación atómica. (42:4.12)
 
-radio | | | | 
-emisión de rayos gamma (42:5.1,7)
-partículas positivas vuelan a 10,000 millas / segundo (42:7.3,5)
-el radio es el reloj más confiable (57:7.3)
-Desintegración de uranio por emisiones de (42:4.12)
+radio | | | | OK
+Las emisiones de rayos gamma del radio caracterizan la disociación espontánea de la materia atómica en el superuniverso de Orvontón, treinta y dos octavas por encima de la luz visible. (42:5.1,7)
+Las partículas positivas del radio vuelan a 10.000 millas por segundo, más allá de la imaginación humana y comparable a la velocidad de la luz en las revoluciones atómicas. (42:7.3,5)
+El reloj de radio es el cronómetro más fiable para estimar la edad del planeta, aunque todas esas estimaciones son demasiado breves debido al alcance limitado de los materiales radiactivos disponibles para su estudio. (57:7.3)
+Los dos pesos atómicos del plomo muestran la existencia de materia preelectrónica, con una formación original de plomo que pesa ligeramente más que la producida a través de la desintegración del uranio por emisiones de radio. (42:4.12)
 
-Ragaba | (165:0.1) (166:1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Ragaba | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1) (166:1)
 
 rabia | | ira | | OK
 
-lluvia | | sequía | | 
-parece descender en oleadas, pero en realidad es en gotas separadas (41:5.7)
-comenzó cuando la atmósfera se enfrió; duró miles de años (57:7.7)
-cae sobre justos e injustos por igual (2:5.1) (131:10.4) (140:3.16) (166:4.4)
-temido y adorado por tribus primitivas (85:4.3)
-ninguno en Jerusem (46:2.2)
-algunos chamanes especializados en hacer (90:2.1,6)
+lluvia | | sequía | | OK
+La energía solar no avanza en ondas, sino en líneas directas, de la misma manera que las gotas de lluvia parecen caer en ondas, pero en realidad son gotas separadas. (41:5.7)
+Durante miles de años, la lluvia comenzó cuando la atmósfera se enfrió, envolviendo a Urantia en una manta continua de vapor. (57:7.7)
+El amor de Dios es como la lluvia, que cae sobre justos e injustos por igual. (2:5.1) (131:10.4) (140:3.16) (166:4.4)
+Las tribus primitivas han temido y adorado a las nubes, la lluvia, el granizo, las tormentas de viento, los truenos, los relámpagos, el fuego y las perturbaciones elementales. (85:4.3)
+Ninguna en Jerusem, sólo la precipitación diaria de condensación durante el tiempo de temperatura más baja. (46:2.2)
+Los antiguos chamanes se especializaban en hacer llover, buscando ayuda y control sobrehumanos sobre los peligros de la vida. (90:2.1,6)
 
-arco iris | | | | 
-Punto de vista indio, africano, hebreo y cristiano de (85:4.2)
+arco iris | | | | OK
+El arcoíris tiene diversos significados simbólicos en diferentes culturas y religiones: desde ser adorado por las tribus de las montañas de la India y África como una serpiente celestial hasta ser visto como una promesa de Dios en las tradiciones hebreas y cristianas (85:4.2).
 
-Ramá | (138:9.3) (146:3) (152:7.3) (156:6.2) | | PLACE | 
-Una de las poblaciones donde predicó Jesús
+Ramá | | | PLACE | OK
+Jesús predicó en Ramá a un anciano filósofo griego, enseñándole las verdades salvadoras del evangelio del reino. (138:9.3) (146:3) (152:7.3) (156:6.2)
 
-Ramat | (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Ramat | | | PLACE | OK
+Una de las poblaciones visitadas por Jesús, los doce y los setenta, durante la misión en Perea entre el 3 de enero de 30 hasta la muerte de Jesús (165:0.1)
 
-Ramán | | | PERSON | 
-Dios babilónico del aire (146:1.1)
+Ramán | | | PERSON | OK
+La ciudad de Rimón adoraba al dios babilónico del aire, Ramán, mientras Jesús y los veinticuatro trabajaban para distinguir estas creencias del evangelio del reino. (146:1.1)
 
 doctrina de rescate | | doctrina de la expiación | | OK
 
-Rantowoc | | | PERSON | 
-primer mortal en asegurar el guardián personal del destino (113:2.2)
+Rantowoc | | | PERSON | OK
+Rantowoc fue el primer mortal que consiguió un guardián personal del destino en Urantia. (113:2.2)
 
-Rantulia | | | PLACE | 
-sistema inmediatamente vecino a Satania (41:2.1) (53:6.5)
+Rantulia | | | PLACE | OK
+El sistema vecino de Rantulia desempeñó un papel crucial en la superación de la rebelión y en asegurar el triunfo de la lealtad y la verdad en Satania. (41:2.1) (53:6.5)
 
-rapto | | | | 
-vaciar el planeta condenado (51:2.3)
+rapto | | | | OK
+En caso de que una catástrofe física condene al planeta, se utiliza la técnica de desmaterialización para transportar a todos los sobrevivientes a un nuevo mundo, mientras la evolución de una raza humana continúa independientemente. (51:2.3)
 
-racionalismo | | | | 
-la filosofía se inclina fuertemente hacia el mundo de la materia (103:6.14)
-Se equivoca al suponer que las creencias primitivas son seguidas por la búsqueda de valores (103:1.4)
+racionalismo | | | | OK
+El racionalismo se inclina hacia el mundo material, mientras que el idealismo se inclina hacia lo espiritual, y el hecho de apoyarse en la metafísica conduce al escepticismo y a la confusión en las interpretaciones filosóficas de la realidad. (103:6.14)
+El racionalismo se equivoca al suponer que las creencias primitivas preceden a la búsqueda de valores en la religión, ya que los valores religiosos son el foco principal antes de formar creencias interpretativas. (103:1.4)
 
-racionalización | | autoengaño | | 
+racionalización | | autoengaño | | OK
 
-Ratta | | | PERSON | 
-Nodita sobrehumano de 20 años; Segunda esposa de Adanson, con quien tuvo 67 hijos (77:5.5-6)
-descendió en línea ininterrumpida del bastón nodita puro (80:7.5)
-María madre de Jesús, descendiente de (122:1.2)
+Ratta | | | PERSON | OK
+Ratta, la nodita sobrehumana de 20 años, se convirtió en la segunda esposa de Adansón y juntos tuvieron una notable familia de 67 hijos. (77:5.5-6)
+El linaje de Ratta, que descendía en línea ininterrumpida de un linaje nodita puro, contribuyó al legado cultural de los griegos que creían en su ascendencia divina. (80:7.5)
+María, la madre terrenal de Jesús, era descendiente de una larga línea de mujeres notables de varias culturas, incluida Ratta. (122:1.2)
 
-cuervos | | | | 
-El padre proporciona alimento a todo el que busca (165:5.2)
+cuervos | | | | OK
+El Padre provee de alimento a todo aquel que lo busca, como los cuervos, así que no os preocupéis por las necesidades materiales, sino centraos en el progreso del alma. (165:5.2)
 
-comedores crudos | | | | 
-término de burla (69:6.7)
+comedores crudos | | | | OK
+El término despectivo «comedores de alimentos crudos» surgió cuando el fuego condujo a la cocina, reduciendo el gasto de energía y permitiendo la cultura y las actividades sociales. (69:6.7)
 
 realidad | (0:4) | energía; materia; mente; morontia; personalidad; espacio; espíritu | | 
 todo se adhiere y consiste en Dios (3:1.7)
@@ -309,139 +311,143 @@ la realidad total es infinito; nunca puede ser comprendido por la mente finita (
 la verdadera autorrealización resulta de la identificación con (94:11.6)
 la comprensión de realidad mejora la orientación terrestre y cósmica del hombre (106:0.1)
 
-realización de la transición de la identidad | | | | 
-El Ajustador pasa a ella antes de reunirse con el sujeto resucitado (112:4.13)
+realización de la transición de la identidad | | | | OK
+El Ajustador pasa inmediatamente a la realización de la identidad al reunirse con el sujeto resucitado después de registrarse en Divinington y recibir el reconocimiento de los Monitores Personalizados. (112:4.13)
 
-siega | | | | 
-está de acuerdo con la siembra (148:6.3) (192:2.8)
+siega | | | | OK
+La cosecha se hace de acuerdo con la siembra, y cultivar la paciencia y la confianza te sostendrá a través de todas las pruebas. (148:6.3) (192:2.8)
 
-Rebeca (hija de Esdras) | | | PERSON | 
-se enamoró de Jesús (127:5) (127:6.1-2)
-importunó a su padre para que se fuera de Nazaret a Séforis (127:5.6)
-detenido junto a la tumba de Jesús (188:1.7)
-presenció la crucifixión (127:5.6) (187:3.2) (187:5.4)
+Rebeca (hija de Esdras) | | | PERSON | OK
+Rebeca, hija de Esdras, se enamoró de Jesús, pero él eligió priorizar su familia y su destino por sobre sus relaciones personales. (127:5) (127:6.1-2)
+Rebeca, desconsolada y devota, dejó Nazaret para ir a Séforis a seguir al hombre más grande que jamás haya vivido. (127:5.6)
+Rebeca se quedó junto a la tumba de Jesús junto con las otras mujeres, preparándose para enterrar debidamente al Maestro. (188:1.7)
+Rebeca, que presenció la crucifixión, vivió únicamente para esperar el momento en que Jesús comenzara a enseñar y lo siguió devotamente durante sus años de trabajo público. (127:5.6) (187:3.2) (187:5.4)
 
-Rebeca (hija de José de Arimatea) | | | PERSON | 
-en la décimo sexta aparición de Jesús (193:0)
-miembro del cuerpo de mujeres (150:1.1)
-relacionó la resurrección a José, Nicodemo y David (190:1.2)
+Rebeca (hija de José de Arimatea) | | | PERSON | OK
+Rebeca, hija de José de Arimatea, era miembro del cuerpo de mujeres comisionadas por Jesús para la obra de ministrar en el reino. (150:1.1)
+La hija de José de Arimatea relató la resurrección a Nicodemo, David y otros que dudaban de la historia. (190:1.2)
+Durante la decimosexta aparición de Jesús, él instruyó a sus discípulos a proclamar el evangelio del reino y a amar y servir a toda la humanidad. (193:0)
 
-rebelión (espiritual) | (128:7.6) (134:8.9) (136:3.4-5) (136:4.5-6) (148:4.2,6) (148:5.2) (158:0.1) (158:1.7) (159:3.9) | maldad; iniquidad; rebelión de Lucifer; cuarentena; pecado | | 
-acción que previene la rebelión es de mayor valor (22:2.3)
-después de la rebelión, los rebeldes arrepentidos no funcionan en las posiciones originales (35:9.10) (35:10.4) (53:9.1) (169:1.15)
-edades requeridas para recuperar handicaps de la rebelión (50:6.5) (52:6.8)
-El plan de ascensión es la defensa más segura contra (53:7.10,12)
-por Príncipe Planetario aísla su planeta; sucesores no instalados inmediatamente (35:9.9)
-Los Hijos Creadores funcionan como recuperadores de aquello que está en peligro espiritual (7:4.5) (33:3.4)
-no reprimir; permitir la rebelión para seguir el curso natural de la auto-destrucción (54:5.8-12)
-no indica falta en la creación (35:9.7)
+rebelión (espiritual) | (128:7.6) (134:8.9) (136:3.4-5) (136:4.5-6) (148:4.2,6) (148:5.2) (158:0.1) (158:1.7) (159:3.9) | maldad; iniquidad; rebelión de Lucifer; cuarentena; pecado | | OK
+Prevenir la rebelión tiene mayor valor que la lealtad ante una rebelión real, lo que lleva a los seres ascendentes a convertirse en Mensajeros Poderosos al servicio del superuniverso. (22:2.3)
+Los rebeldes arrepentidos, después de la rehabilitación, son reasignados a deberes de custodia y roles de administración física, y nunca regresan a sus puestos originales. (35:9.10) (35:10.4) (53:9.1) (169:1.15)
+Se necesitarán siglos para recuperar los impedimentos de la rebelión que han plagado a Satania durante doscientos mil años. (50:6.5) (52:6.8)
+El plan de ascensión es la defensa más segura contra la rebelión, como lo prueba la supervivencia triunfante de 187.432.811 mortales ascendentes durante la rebelión de Lucifer. (53:7.10,12)
+La rebelión de un Príncipe Planetario aísla a su planeta hasta que se instala debidamente un sucesor. (35:9.9)
+Los Hijos Creadores, como parte del Plan de Autootorgamiento, actúan como recuperadores del peligro espiritual causado por la rebelión. (7:4.5) (33:3.4)
+No reprimáis la rebelión; permitid que siga su curso natural de autodestrucción para la erradicación final del mal y del pecado. (54:5.8-12)
+La rebelión espiritual entre los Hijos no refleja ningún defecto en su creación, sino que sirve más bien para profundizar su comprensión de los seres en el reino del tiempo y el espacio. (35:9.7)
 en Nebadon
-	la primera rebelión fue por Lutentia de Palonia en el sistema 11 de la constelación 37 (119:2.1-2)
-	la segunda rebelión estaba en el sistema 87 de la constelación 61 (119:3.1,3)
-	la tercera rebelión fue por Lucifer en Satania | rebelión de Lucifer
-	Los Ancianos de los Días ordenaron la extinción instantánea de nuevos rebeldes durante el donación de Miguel (54:4.5) (120:1.5-6)
-	El donación de Miguel liquidado las disensiones pendientes; los desafíos futuros no pueden repetirse (53:8.4) (120:2.2) (134:8.9) (136:3.5)
-	ocurrió 3 veces por Lanonandeks; más de 700 involucrados (35:9.5-6) (45:2.1) (50:1.3) (120:1.6)
-reino de orden inherentemente triunfante (53:6.5)
-Los Espíritus Maternos de los universos locales no disputan (33:3.4)
-observar un planeta normal revelaría lo que ha perdido Urantia (51:7.5) (52:2.1,4)
-Supernafines primarios ordenan a ángeles anfitriones en mundos aislados por (27:0.2)
-Los supervisores de circuitos terciarios aíslan mundos en (24:1.12)
-los gobiernos del universo prefieren arriesgar rebelión que privar a un mortal de una carrera ascendente (112:5.7-8)
-mundos aislados por | cuarentena:mundos sujetos a
+	La primera rebelión de Lutentia de Palonia en el sistema 11 de la constelación 37 causó repercusiones generalizadas y desastrosas en el universo de Nebadon. (119:2.1-2)
+	La segunda rebelión en el sistema 87 de la constelación 61 condujo al envío de un Hijo Material al planeta 217 por parte del consejo supremo de Salvington. (119:3.1,3)
+	Acerca de la tercera rebelión de Lucifer en Satania, véanse los enlaces | rebelión de Lucifer
+	Los Ancianos de los Días ordenaron la extinción instantánea de los nuevos rebeldes durante la donación de Miguel, asegurando así la administración segura de Nebadon durante toda su misión voluntaria. (54:4.5) (120:1.5-6)
+	La exitosa donación de Miguel pone fin a conflictos que se habían prolongado durante siglos, asegurando que no puedan surgir desafíos futuros, consolidando su triunfo y resolviendo la situación de enemigos que se habían prolongado durante siglos en Satania y más allá. (53:8.4) (120:2.2) (134:8.9) (136:3.5)
+	Más de setecientos Hijos de la orden Lanonandek se rebelaron en nuestro universo local, y sólo tres de ellos eran Soberanos del Sistema, lo que demuestra el peligro de la deslealtad personal a la voluntad del Hijo Miguel y el potencial de confusión en los asuntos del sistema. (35:9.5-6) ​​(45:2.1) (50:1.3) (120:1.6)
+después de la rebelión
+	El reino del orden triunfó sobre la rebelión mediante la lealtad, el intelecto y la verdad, a pesar de la secesión de Lucifer y el caos resultante. (53:6.5)
+	Los Espíritus Maternos de los universos locales no se oponen a la rebelión, sino que sostienen al Hijo en la estabilización del gobierno y la defensa de la autoridad contra el mal y el pecado. (33:3.4)
+	La observación de los planetas normales revelaría lo que Urantia ha perdido a causa de la rebelión y la aceptación del mal, como lo demuestra la civilización avanzada y el amanecer espiritual alcanzados bajo la magnífica administración de la quinta dispensación de los asuntos mundiales. (51:7.5) (52:2.1,4)
+	Los supernafines primarios ordenan a las huestes seráficas de los mundos aislados que supervisen sus deberes de ministerio, especialmente cuando un Hijo del Paraíso completa su misión y asciende al Padre Universal, regresando como el liberador acreditado de ese mundo. (27:0.2)
+	Los Supervisores del Circuito Terciario aíslan mundos por rebelión contra el Padre Universal. (24:1.12)
+	Los gobiernos del universo priorizan los intereses personales de los individuos, haciendo avanzar almas a seres de transición a pesar del riesgo de rebelión. (112:5.7-8)
+	sobre mundos aislados por rebelión ver enlace sobre cuarentena | cuarentena:mundos sujetos a
 
-Recientes de los Días | (18:5) | | ORDER | 
-3 presiden cada sector menor (15:10.15) (15:13.4) (18:5.1)
-21.000 creados simultáneamente por Trinidad (18:5.1)
-aprendiz bajo los Eternos de los Días (18:4.6) (18:5.1)
-al menos un Recientes de los Días siempre en la sede (18:5.4)
-en registros de personalidad (30:1.12) (30:2.27)
-los mortales ascendentes residentes sirven (18:5.2)
-Personalidades Trinitarias Supremas (18:0.6)
-Los Custodios Trinidizados son funcionarios de tribunales de (18:4.5)
+Recientes de los Días | (18:5) | | ORDER | OK
+Tres Recientes de los Días presiden cada sector menor, dirigiendo la administración de los universos locales que lo componen. (15:10.15) (15:13.4) (18:5.1)
+21.000 personalidades de la Trinidad recientemente creadas coordinan los sectores menores como los directores supremos más jóvenes. (18:5.1)
+Los Recientes de los Días adquirieron experiencia como aprendices de los Eternos de los Días antes de supervisar los sectores menores en los superuniversos. (18:4.6) (18:5.1)
+En la sede de un sector menor, siempre hay un Recientes de los Días de servicio, incluso cuando otros están fuera cumpliendo con sus deberes de supervisión. (18:5.4)
+Los Recientes de los Días aparecen nombrados en los registros de Personalidad. (30:1.12) (30:2.27)
+Los mortales ascendentes residentes sirven junto a los seres celestiales en la administración de los sectores menores por los Recientes de los Días. (18:5.2)
+Los Recientes de los Días son Personalidades Supremas de la Trinidad. (18:0.6)
+Los Custodios Trinitizados son funcionarios de los tribunales de los Ancianos de los Días, las Perfecciones de los Días y los Recientes de los Días. (18:4.5)
 
 recesión de las galaxias | | corrimiento al rojo | | OK
 
 temeridad; imprudencia | | emociones | | OK
 
-reconocimiento | | adulación; conocimiento; alabanza | | 
-acuerdo generoso reconocimiento por cosas dignas de alabanza (100:1.8) (159:3.3)
-votos adicionales otorgados en la nación continental como (72:9.3)
-reservistas del destino dispuestos a servir sin (114:7.5)
-esencial para el desarrollo del carácter (160:2.6)
-El padre nunca impone arbitrariedad (1:1.2)
-honores otorgados por estados avanzados (71:3.12)
-recibir humildemente crédito por los esfuerzos del Ajustador (110:7.10)
-clamor incesante del yo ineludible por (3:5.13)
-indicativo de esfuerzo y logro se concede a todos (20:8.3)
+reconocimiento | | adulación; conocimiento; alabanza | | OK
+Reconocer y elogiar los actos dignos de elogio en los demás para fomentar el crecimiento espiritual y el respeto por uno mismo. (100:1.8) (159:3.3)
+Las personas reconocidas por su sabiduría o servicio extraordinario pueden recibir votos adicionales cada cinco años, hasta un máximo de nueve superfranquicias, junto con científicos, inventores, maestros, filósofos y líderes espirituales. (72:9.3)
+Reservistas del destino dispuestos a servir sin reconocimiento. (114:7.5)
+El reconocimiento y el aprecio mutuos son esenciales para el desarrollo del carácter y la realización del potencial humano. (160:2.6)
+El Padre Universal nunca impone un reconocimiento arbitrario; las criaturas volitivas inteligentes deben adorarlo voluntariamente desde el corazón. (1:1.2)
+En los estados avanzados, la devoción más alta es el servicio político, y se otorgan honores a los funcionarios públicos, filósofos, educadores, científicos, industriales, militaristas y padres, mientras que los líderes puramente religiosos reciben sus recompensas en otro mundo. (71:3.12)
+Reciban humildemente el crédito de los incesantes esfuerzos del Ajustador por transmitir mensajes divinos a las mentes mortales en su viaje hacia el destino. (110:7.10)
+El deseable altruismo requiere enfrentarse al clamor incesante de un yo ineludible por reconocimiento y honor. (3:5.13)
+Los Hijos Instructores otorgan reconocimiento por el esfuerzo y los logros a todos los que completan los cursos de capacitación que ellos imparten. (20:8.3)
+No busquen un reconocimiento inmerecido; busquen sólo lo que les corresponde por derecho en materia de honor y adulación. (156:5.19)
 Jesús
-	fe generosamente reconocida en los demás (161:2.5)
-	Verdad reconocida en las enseñanzas de otros (100:7.5)
-no busque reconocimiento no merecido (156:5.19)
+	Él es rápido en reconocer y en agradecer generosamente la fe en los demás, combinando humanidad y divinidad en su perfecto control emocional. (161:2.5)
+	Jesús reconoció la verdad en las enseñanzas de los demás y transmitió originalidad al enfatizar el amor y la misericordia por sobre el temor y el sacrificio. (100:7.5)
 
-Educadores-Registradores | (48:6.30-33) | Serafines | ORDER | 
-Serafines de ministro de transición de sexto orden (39:6.1)
-Serafines que registran transacciones morontiales (48:6.30)
+Educadores-Registradores | (48:6.30-33) | Serafines | ORDER | OK
+Los maestros registradores son serafines ministros de transición de sexto orden. Su trabajo en el séptimo mundo de estancia es esencial para guiar a los mortales supervivientes en su transición al estado espiritual. (39:6.1)
+Los maestros registradores serafines registran e instruyen hábilmente sobre las transacciones morontiales y el arte de la recopilación de datos. (48:6.30)
 
-registradores | | registros | ORDER | 
-comunicación constante entre muchos órdenes (39:2.16)
-creadores y Custodios de los Registros
-	Serafines administradores (39:4.16)
-	Registradores Asociados de Morontia Power Supervisors (48:2.25)
-	Registradores Celestiales (25:6)
-	Jefes Registradores de Supernafines terciarios (26:3.5)
-	registrador de la comisión conciliadora (25:2.9)
-	Custodios de los Registros (25:5)
-	Lanonandek (35:8.13)
-	intermedios primarios (38:9.12)
-	Instructores-Registradores de Serafines del mundo morontial (48:6.30)
-	registradores seráficos (25:5.2) (39:5.16)
-	Serafines superiores (39:2.14-16)
-	Serafines supervisores (39:3.10)
-	Serafines supremos (39:1.17)
+registradores | | registros | ORDER | OK
+Los registradores seráficos mantienen una comunicación constante entre muchas órdenes, lo que permite un estrecho enlace con los cuerpos de inteligencia y las transmisiones que los conectan con registradores superiores en todo el superuniverso, Havona y el Paraíso. (39:2.16)
+Originadores y guardianes de los registros
+	* serafines administradores. Los serafines administradores supervisan los intrincados registros triples de los sistemas locales dentro del templo de los registros. (39:4.16)
+	* registradores asociados de los Supervisores del Poder Morontial. Los registradores asociados de los Supervisores del Poder Morontial supervisan los registros y datos del mundo morontial, accesibles a todas las órdenes de personalidad. (48:2.25)
+	* Registradores Celestiales. Los Registradores Celestiales ejecutan todos los registros por duplicado, creando una grabación espiritual original y una contraparte semimaterial, gracias a su capacidad única de manipular simultáneamente la energía espiritual y la material. (25:6)
+	* registradores principales de los supernafines terciarios. Los registradores principales de los supernafines terciarios documentan y transmiten meticulosamente información vital a través del universo central. (26:3.5)
+	* Registrador de la comisión conciliadora. El registrador de la comisión conciliadora se asegura de que todos los registros estén debidamente preparados para los archivos y el universo local, con la ayuda del verdugo en los mundos evolutivos. (25:2.9)
+	* Custodios de los Registros. Los Custodios de los Registros supervisan los archivos formales de la Isla de Luz en Havona, en contraste con los registros vivientes que llevan los custodios del conocimiento, conocidos como la “biblioteca viviente del Paraíso”. (25:5)
+	* Lanonandek. Lanonandek registra a los custodios. (35:8.13)
+	* Intermedios primarios. Los intermedios primarios actúan como historiadores planetarios, elaborando exhibiciones en los mundos sede del sistema para mostrar la historia planetaria desde la llegada del Príncipe Planetario hasta la era de luz y vida establecidas. (38:9.12)
+	* Registradores-instructores de los serafines de los mundos morontiales. Los serafines del mundo morontial son maestros registradores expertos en documentar las interacciones espirituales y físicas, y enseñan técnicas eficaces de registro de hechos. (48:6.30)
+	* registradores seráficos. Los registradores seráficos son los custodios de los asuntos planetarios en todos los universos, y supervisan tanto los registros formales como los vivos. (25:5.2) (39:5.16)
+	* serafines superiores. Los registradores serafines superiores mantienen una comunicación constante con los registradores superiores del superuniverso, asegurando la difusión de la información esencial y la gestión eficiente de los registros. (39:2.14-16)
+	* serafines supervisores. Los serafines supervisores de Edentia actúan como registradores especiales de los asuntos de las constelaciones. (39:3.10)
+	* serafines supremos. Los registradores oficiales de los serafines supremos nacen con dones plenamente desarrollados o se ganan su posición mediante el estudio diligente y el desempeño fiel. (39:1.17)
 
-registros | | registradores; escritura | | 
-arte en el ensamblaje inteligente de datos relacionados (48:6.30)
-grabación celestial a una velocidad de 500.000 palabras por minuto (44:4.4)
-registros celestes sujetos a inspección dual (25:6.3)
-esencial para la conducción de universos (28:4.1)
-registros formales, muertos, enviados por registradores angelicales (17:3.6) (28:6.6)
-la historia comienza con la creación de Havona (8:1.9)
-registros de vida humana
-	guardado por un par de Querubines (113:2.9)
-	mantenido por Seconafines terciarios (28:6.6)
-	mantenido en los mundos de los arcángeles (37:3.7-8)
-	patrocinado por una de las parejas de guardianes del destino (113:2.9)
-hecho de cada ocurrencia significativa (25:5.3) (25:6.6)
-abierto a consulta (25:6.2)
-Registros del Paraíso guardados desde la personificación del Espíritu Infinito, trinidización de los Ancianos de los Días (18:3.4) (25:6.6)
-los ángeles registradores planetarios son la fuente de todo (25:5.2)
-conservado por triplicado en la sala de archivos de Jerusem (46:5.22)
-Registros espirituales, en vivo, reunidos por reflectividad y conservados en la mente (17:3.5-6)
-sistema seráfico triple (39:4.16)
+registros | | registradores; escritura | | OK
+Los maestros-registradores demuestran una maestría en la recopilación y coordinación inteligente de datos relacionados, colaborando con los artesanos celestiales e incluso con los mortales ascendentes. (48:6.30)
+Los registros son esenciales para la dirección de los universos, permitiendo a los Ancianos de los Días mirar instantáneamente en ambos sentidos, oír en ambos sentidos y conocer en ambos sentidos. (28:4.1)
+Los registros vivos de la ministración de misericordia, recopilados por la reflexividad, son los verdaderos registros espirituales preservados en las mentes vivientes de personalidades adecuadas. (17:3.6) (28:6.6)
+La historia comienza con la creación de Havona, el punto de partida tradicional del universo central eterno, sin que existieran registros antes de este acontecimiento de energía creativa y sabiduría. (8:1.9)
+Registros de la vida humana
+	Los registros de las acciones de la vida humana son meticulosamente guardados por un par de querubines, en colaboración con sus guardianes seráficos. (113:2.9)
+	Los registros vivientes que llevan los seconafines terciarios son cruciales para los juicios en los tribunales de Uversa. (28:6.6)
+	Los registros de la personalidad de los mortales se guardan en los mundos de los arcángeles para su conservación y clasificación hasta la hora de la repersonalización. (37:3.7-8)
+	Los registros de las empresas mortales son patrocinados por uno de los miembros de la pareja de guardianes del destino. (113:2.9)
+Los registros celestiales
+	Los registros celestiales son verificados meticulosamente mediante una doble inspección por parte de individuos exaltados de Uversa y de Mensajeros Poderosos. (25:6.3)
+	Los registradores celestiales pueden traducir más de medio millón de símbolos de pensamiento en un registro permanente en tan sólo un minuto. (44:4.4)
+	Todo suceso significativo del universo se registra meticulosamente, desde los acontecimientos locales hasta los de mayor importancia, y se almacena en los archivos cósmicos de Salvington, Uversa y el Paraíso, resguardados por seres celestiales. (25:5.3) (25:6.6)
+	Los registros están siempre abiertos a la consulta de todos los seres del universo. (25:6.2)
+	Los registros de personalidad del universo comenzaron con la trinidización de los Ancianos de los Días en el Paraíso. (18:3.4) (25:6.6)
+	Los ángeles registradores planetarios son la fuente última de todos los registros individuales del vasto universo. (25:5.2)
+	Todos los registros angélicos se conservan por triplicado en la sala de archivos de Jerusalén. (46:5.22)
+	Los registros espirituales vivos, reunidos por la reflexividad y preservados en las mentes, son el legado de los Espíritus Reflectantes y su prole, los seconafines. (17:3.5-6)
+	El triple sistema seráfico de registros es mantenido por los Registradores en el templo de los registros en la capital del sistema. (39:4.16)
 
-recreación | | placeres; relajación; Directores de la reversión | | 
-diversión y relajación en el monte Sartaba (143:3)
-La primera causa de la guerra fue el deseo de (70:1.13)
-ecos de una mirada hacia atrás (48:4.19)
+recreación | | placeres; relajación; Directores de la reversión | | OK
+El humor y el juego sirven como ecos de una mirada al pasado, proporcionando rejuvenecimiento y evitando la tensión nerviosa perjudicial. (48:4.19)
+No es la voluntad del Padre que sus hijos participen sólo de cosas serias, sino que también encuentren alegría, felicidad y vida más abundante. (139:6.5)
+El juego
+	El servicio se alterna con la recreación, proporcionando descanso y rejuvenecimiento en el viaje hacia el servicio divino y perfecto. (25:7.2) (28:6.17) (48:4.1)
+	El juego es relajante, una parte necesaria de la naturaleza séptuple del descanso que abarca el sueño, el descubrimiento, la adoración, la ingesta de energía, el sueño de tránsito y la metamorfosis. (27:1.2)
+	Los principios filosóficamente sólidos de la vida de juego urantiana continúan guiando y enriqueciendo a los seres ascendentes a través de su viaje eterno al Paraíso, donde los recuerdos personales sirven como base para el humor y la diversión en cada etapa de su evolución celestial. (48:4.20)
+El juego en la antigüedad
+	En los primeros tiempos, la guerra se consideraba una forma de recreación para los jóvenes, y las tribus vecinas participaban en batallas simuladas como día festivo cuando la paz parecía opresiva. (70:1.13)
+	El juego alegre y estimulante de los niños adánicos, en gran parte derivados de la estirpe adánica, introdujo una nueva y glorificada forma de autogratificación en Urantia. (74:6.7) (84:8.3)
+	Los seres celestiales en progreso disfrutan de la diversión sana, los juegos competitivos y el saborear la buena comida para evitar la monotonía y encontrar autogratificación. (84:8.5)
 Jesús
-	admiró los juegos griegos (124:3.7)
-	establecido vacaciones de mitad de semana para recreación (138:6.2)
-	introdujo la idea de sana recreación (124:1.13) (124:3.9)
-no la voluntad del padre solo de participar de cosas serias (139:6.5)
-jugar
-	siempre se alterna con el servicio (25:7.2) (28:6.17) (48:4.1)
-	es reparador (27:1.2)
-	jugar la vida del niño Jesús (123:4.2-3)
-	Urantia juega la vida filosóficamente sólida (48:4.20)
-	la adoración es el juego refrescante del Paraíso (27:7.5)
-juego derivado en gran parte de la acción adánica (74:6.7) (84:8.3)
-provisión para recreación sobre los mundos morontiales (44:3.4)
-el descanso y todos los pasatiempos saludables previenen la monotonía (84:8.5)
-la reversión se disfruta en todas partes menos en el Paraíso (48:4.11,16)
+	La vida de juego de los niños en el tiempo de Jesús era limitada, a menudo imitando las actividades serias de los adultos, con juegos poco organizados; Jesús mismo encontró alegría en jugar con virutas de madera en el taller de carpintería. (123:4.2-3)
+	Jesús admiraba los juegos griegos, sugiriendo que beneficiarían a la juventud de Nazaret. (124:3.7)
+	Jesús estableció un día de descanso a mitad de semana, asegurándose de que sus discípulos descansaran y disfrutaran de actividades de ocio. (138:6.2)
+	Jesús introdujo la idea de la recreación sana, promoviendo los logros físicos, intelectuales y religiosos entre sus compañeros. (124:1.13) (124:3.9)
+	A pesar de la agitación de los apóstoles, Jesús los condujo a un período de descanso y relajación en el monte Sartaba para alentar la paz y la claridad mental. (143:3)
+El juego en los cielos
+	En los mundos morontiales, enormes edificios proporcionan recreación y juego, supervisados ​​por humoristas y directores de reversión para los seres ascendentes en formación. (44:3.4)
+	Todos los seres disfrutan de la reversión periódica del deber, excepto los Creadores inherentes, los centros de poder y los controladores físicos, que siguen siendo prácticos, y los seres de perfección paradisíaca, que son incapaces de agotarse. (48:4.11,16)
+	La adoración en el Paraíso es la alegría más grande y un juego refrescante, que utiliza todas las artes para intensificar la autoexpresión y transmitir aprecio. (27:7.5)
 
-rectángulos (Jerusem) | | | PLACE | 
-áreas para la vida nativa inferior en Jerusem (46:4)
+rectángulos (Jerusem) | | | PLACE | OK
+Los rectángulos de Jerusem sirven como puntos de encuentro para la vida indígena de menor nivel, en medio de una vasta y diversa gama de áreas residenciales y administrativas en toda la capital del sistema. (46:4)
 
 raza roja | (64:6.3-9) (79:5) | razas | RACE | 
 logró una alta civilización aparte de los anditas (79:5.8)
@@ -505,167 +511,165 @@ guerras
 	virtualmente se destruyeron a sí mismos por la guerra (64:6.4,6,8) (64:7.7) (79:2.3) (79:5.5) (79:8.1)
 eran caníbales, especialmente en Centroamérica (89:5.4)
 
-corrimiento al rojo | | | | 
-la interposición de influencias y ángulos de observación introduce error (12:4.12-15)
-la respiración espacial está en fase de expansión (11:6.4)
+corrimiento al rojo | | | | OK
+El error en la observación de las velocidades astronómicas está influido por factores interpuestos, que conducen a percepciones erróneas sobre el vuelo hacia el exterior de los cúmulos y corrientes estelares en el espacio. (12:4.12-15)
+La respiración espacial en ciclos de fase de expansión durante más de mil millones de años, con universos expandiéndose en una fase y contrayéndose en la siguiente, acercándose a límites equidistantes del Paraíso. (11:6.4)
 
-redención | (89:8) | doctrina de la expiación | | 
-rehabilitación eterna (188:5.2)
-modificación del sacrificio humano (89:8.1)
-lugar en la evolución de las observancias religiosas (90:0.1)
-Los primitivos se consideraban a sí mismos necesitados de (89:0.1)
+redención | (89:8) | doctrina de la expiación | | OK
+El amor de Jesús trae rehabilitación eterna, no sólo perdón; destruye el pecado y el mal, ofreciendo salvación y redención a todos. (188:5.2)
+La evolución desde la prostitución en el templo hasta el sacrificio simulado de hijas fue una forma de redención sacrificial arraigada en el progreso moral. (89:8.1)
+La redención es la culminación de la evolución de las observancias religiosas desde los rituales de culto primitivos hasta los conceptos complejos de los reinos supramateriales, guiados en última instancia por curanderos, chamanes y sacerdotes. (90:0.1)
+El hombre primitivo se consideraba a sí mismo necesitado de redención de la deuda contraída con los espíritus. (89:0.1)
 
-secuoyas | (60:4.5) (61:3.1) | | | 
-Onamonalontón mantuvo su sede entre (64:6.7)
+secuoyas | (60:4.5) (61:3.1) | | | OK
+Onamonalonton tenía su sede entre los grandes árboles de secuoya de California, dirigiendo y brindando guía espiritual a los hombres rojos estadounidenses. (64:6.7)
 
-reflexiones | | | | 
-temido y reverenciado por el hombre primitivo (86:5.14)
+reflexiones | | | | OK
+Los reflejos eran temidos y reverenciados por el hombre primitivo, junto con las sombras y los espejos, considerados con superstición y admiración. (86:5.14)
 
-Enlaces Reflectores Innominados de Majeston | (30:1.110) | | ORDER | 
+Enlaces Reflectores Innominados de Majeston | (30:1.110) | | ORDER | OK
 
-Ayudantes Reflectantes de Imágenes | (17:4) | | ORDER | 
-7 residen en cada capital del superuniverso (15:10.2) (17:4.1)
-49 creado por Espíritus Reflectantes (17:3.4) (17:4.1)
-canal de comunicación entre los Espíritus Reflectantes y los superuniversos (15:10.6-21) (17:0.11) (17:3.4) (17:4.1-2)
-desprovisto de voluntad (17:4.3)
-cada uno es una reproducción perfecta del padre Reflective Spirit, menos
-reflectividad (17:4.1)
-en registros de personalidad (30:1.60) (30:2.18)
-representan seres elevados que no están completamente activos (15:10.21)
-los Seconafines son ayudantes (17:4.3)
-Los Conciliadores Universales sirven bajo (25:3.14)
+Ayudantes Reflectantes de Imágenes | (17:4) | | ORDER | OK
+Siete Ayudantes Reflectantes de Imágenes residen en la capital del superuniverso, sirviendo como duplicados perfectos de sus Espíritus Reflectantes, facilitando la comunicación con los universos central y local. (15:10.2) (17:4.1)
+Los cuarenta y nueve Ayudantes Reflectantes de Imágenes, creados por los Espíritus Reflectantes, sirven como voces personales ante las cortes de los Ancianos de los Días. (17:3.4) (17:4.1)
+Los Ayudantes Reflectantes de Imágenes sirven como canal de comunicación entre los Espíritus Reflectantes y los superuniversos, ayudando a la rama ejecutiva del gobierno del superuniverso. (15:10.6-21) (17:0.11) (17:3.4) (17:4.1-2)
+Los Auxiliares de Imagen, desprovistos de voluntad, sirven junto a los Espíritus ancestrales y tienen una vasta gama de ayudantes seconafines a su disposición. (17:4.3)
+Los Auxiliares de Imagen son, en ciertos atributos y características, reproducciones perfectas de sus Espíritus Maternos Reflexivos; son duplicaciones virtuales sin el atributo de la reflectividad. (17:4.1)
+Los Ayudantes Reflectantes de Imágenes aparecen en los registros de personalidad. (30:1.60) (30:2.18)
+Los Ayudantes Reflectantes de Imágenes representan seres elevados que desempeñan papeles influyentes en los gobiernos de los superuniversos pero que actualmente no están plenamente activos en sus capacidades individuales. (15:10.21)
+Los Ayudantes Reflectantes de Imágenes, guiados por los seconafines ayudantes, sirven junto a los Espíritus ancestrales, facilitando el esquema universal de progresión mortal mediante su naturaleza reflexiva. (17:4.3)
+Todos los conciliadores sirven bajo la dirección inmediata de los Auxiliares de Imagen hasta que ascienden al Paraíso, informando al Espíritu Rector de su superuniverso. (25:3.14)
 
-Espíritus maternos reflexivos | | Espíritus Reflectantes | ORDER | 
+Espíritus maternos reflexivos | | Espíritus Reflectantes | ORDER | OK
 
-Espíritus Reflectantes | (17:3) | Majeston | ORDER | 
-7 en la sede de cada superuniverso (15:10.2) (17:3.1) (17:4.1) (25:2.2) (28:4.5)
-49, más Majeston, creado por Espíritu Maestros y Trinidad (17:2.1) (17:3.1) (116:4.3-4)
-los 49 actúan al unísono en ocasiones especiales (17:3.11)
-entre los Espíritus Supremos del Espíritu Infinito (9:8.17)
-creó 49 Ayudantes Reflectantes de Imágenes (17:3.4) (17:4.1)
-cada uno se asemeja al Espíritu Maestro coancestral (17:3.1) (25:2.2) (28:4.4)
-espíritus de fusión de Hijos Creadores implementados en (40:10.2)
-en registros de personalidad (30:1.6) (30:2.17)
-nominar Compañeros Paradisiacos (25:8.2)
-requieren ayuda de asistentes de imagen para comunicarse
-Ancianos de los Días (17:4.2)
-personalidades retentivas y récord (17:3.5)
-Revelar los Espíritus Maestros en los capitolios de los superuniversos (9:8.3) (17:0.11) (17:8.7)
-Seconafines creados por (17:3.5) (17:4.3) (17:8.2) (26:1.13) (28:0.1) (28:3.2)
-circuito del superuniverso de (15:9.5)
-personalidades verdaderas pero incomprensibles (17:4.2)
+Espíritus Reflectantes | (17:3) | Majeston | ORDER | OK
+Los Espíritus Reflectantes, que residen en la sede central de los superuniversos, llevan a cabo tremendas operaciones de reflectividad para ministrar a los universos central y local, siendo necesarios siete de cada tipo en la sede central de cada superuniverso. (15:10.2) (17:3.1) (17:4.1) (25:2.2) (28:4.5)
+Los cincuenta Espíritus Reflectantes, creados por los Espíritus Rectores y la Trinidad, son esenciales para lograr el reflejo perfecto de las tres Deidades del Paraíso en cada superuniverso. (17:2.1) (17:3.1) (116:4.3-4)
+Los 49 Espíritus Reflectantes actúan al unísono universal en las ocasiones jubilares bajo la dirección de Majeston. (17:3.11)
+Los Espíritus Reflectantes de los Superuniversos se encuentran entre los Espíritus Supremos del Espíritu Infinito. (9:8.17)
+Los Espíritus Reflectantes crearon 49 Auxiliares de Imagen Reflexiva, que sirven como sus voces personales ante las cortes de los Ancianos de los Días. (17:3.4) (17:4.1)
+Los cuarenta y nueve Espíritus Reflectantes reflejan las naturalezas del Espíritu Maestro coancestral, cada uno de los cuales encarna una de las siete combinaciones posibles de las características de divinidad del Padre Universal, el Hijo Eterno y el Espíritu Infinito, lo que hace necesaria su presencia en la sede de cada superuniverso para un reflejo perfecto de todas las fases de las tres Deidades del Paraíso. (17:3.1) (25:2.2) (28:4.4)
+Los espíritus de fusión de los Hijos Creadores implementados en Espíritus Reflectantes facilitan la ascensión de los mortales fusionados con el espíritu a los universos superiores. (40:10.2)
+Los Espíritus Reflectantes en los registros de personalidad se clasifican en siete órdenes y grupos. (30:1.6) (30:2.17)
+Los Espíritus Reflectantes nominan a los Compañeros del Paraíso para el más alto honor de servicio temporal en el Paraíso. (25:8.2)
+Requieren la ayuda de Asistentes de Imagen para comunicarse con
+Los Espíritus Reflectantes, personalidades verdaderas incomprensibles para los seres materiales, requieren Asistentes de Imagen para comunicarse con los Ancianos de los Días y sus asociados, cuyo número varía según la complejidad del mensaje. (17:4.2)
+Los Espíritus Reflectantes y sus vástagos seconafines son personalidades de registro retentivas, que preservan todo el valor espiritual por duplicado dentro de su vasto personal. (17:3.5)
+Los Espíritus Reflectantes revelan a los Espíritus Rectores en las capitales de los superuniversos, coordinando los reinos administrativos mediante la acción personal e indirecta. (9:8.3) (17:0.11) (17:8.7)
+Los seconafines, las personalidades retentivas creadas por los Espíritus Reflectantes, sirven como espíritus ministrantes que responden reflexivamente en los superuniversos. (17:3.5) (17:4.3) (17:8.2) (26:1.13) (28:0.1) (28:3.2)
+El circuito de servicio reflexivo de los siete Espíritus Reflectantes en cada superuniverso es poderoso e intrincado. (15:9.5)
+Los Espíritus Reflectantes son personalidades verdaderas pero incomprensibles, que necesitan la asistencia de Auxiliares de Imagen en su comunicación con seres superiores. (17:4.2)
 
-reflectividad | (28) (9:7) | | | 
-Los Ajustadores se sirven de la reflectividad, Pero no participan (17:3.9)
-Directores del Censo en sincronía con (24:2.2)
-circuitos para la reflectividad restringido en Urantia debido a la cuarentena (28:7.4)
-datos suministrados a Divinington por (108:1.2,8)
-demuestra una Mente Infinita de Actor Conjunto (28:3.2)
-descrito como
-	capacidad para ver la expresión de la sabiduría y su fuente (28:5.7)
-	explicado por la Mente Suprema (9:7.4)
-	parece ser, pero no es, automático (17:3.8)
-	se centra en el Paraíso (9:7.1)
-	en función constante, no periódica (17:3.7)
-	independiente del tiempo y el espacio (17:3.10)
-	característica indispensable del trabajo normal del universo (13:1.10)
-	nivel mental del Espíritu Infinito, Espíritus Rectores y Ser Supremo (17:3.3)
-	la interasociación más compleja de toda la creación (9:7.2)
-	mecanismo de recopilación de noticias y difusión de decretos (17:3.3-11)
-	omnisciencia (9:7.5)
-	contacto parcial con la conciencia del Supremo (9:7.5)
-	poder para ver, oír, sentir y conocer todas las cosas dondequiera que sucedan (9:7.1-2) (28:4.1-2) (46:3.3)
-	secreto de Spiritington (13:1.10)
-	reconocimiento simultáneo de lo mental, material y espiritual (9:7.1-2)
-	atributo transmisible (17:3.3)
-excepto Majeston y Espíritus Reflectantes, todo el personal son hijos del Espíritu Infinito (17:3.4)
-centrarse en los mundos sede del superuniverso (9:7.1) (18:3.5) (28:4.2) (28:5.10)
-inherente a la descendencia de los Espíritus Reflectantes (28:3.2)
-participación de
-	Espíritu Infinito, causa de la reflectividad (9:7.1) (16:4.15) (17:3.3)
-	Espíritus Maternos de los universos locales (34:3.4)
-	Majeston, en quien reflectividad es personalizado (14:6.36) (17:2) (17:3.4)
-	Espíritus maestros (16:4.15) (17:3.3)
-	Ser Supremo (9:7.4-5) (14:6.36) (16:4.15) (17:3.3)
-	Trinidad, en la creación de Espíritus Reflectantes (17:3.1)
-	Supervisores Incalificados del Supremo (55:12.4)
-el conocimiento de los fragmentos del Padre no es reflectante (17:3.9) (28:3.2) (28:5.22)
-vincula los sistemas locales a Ancianos de los Días (43:0.1)
-Conocimiento del Paraíso disponible en los universos locales por (27:5.5)
-fenómeno como la reflectividad a veces ocurre justo antes de la muerte mortal (39:5.11)
-ser reflexivo siempre interpuesto entre ascendentes y reflectividad (17:4.3)
-mares de cristal retratan el superuniverso reflectividad (43:1.11)
-Los Seconafines son seres reflectantes (28:3-7)
-fuente ignorante de lo que se buscaba o cuán asegurado (28:4.11)
-valor para el gobierno del superuniverso (28:5)
+reflectividad | (28) (9:7) | | | OK
+El conocimiento del Paraíso en los universos locales se obtiene únicamente mediante la indirección y la reflectividad. (27:5.5)
+Los datos suministrados a Divinington mediante la técnica de la reflectividad aseguran que los Ajustadores del Pensamiento estén completamente informados antes de ofrecerse como voluntarios para morar en las mentes mortales. (108:1.2,8)
+El enfoque en los mundos sede de los superuniversos permite el fenómeno de la reflectividad universal, lo que permite el reconocimiento simultáneo de lo mental, lo material y lo espiritual en todos los siete superuniversos. (9:7.1) (18:3.5) (28:4.2) (28:5.10)
+descripción
+	La capacidad de reflejar la fuente de la sabiduría permite ver su expresión con claridad. (28:5.7)
+	Las intrincadas operaciones de la reflectividad en el cosmos sólo pueden explicarse por la relación evolutiva entre la mente cósmica finita y la mente absoluta divina tal como se experimenta en la Mente Suprema. (9:7.4)
+	El servicio de reflectividad entre los universos locales y los superuniversos parece ser automático, pero en realidad está impulsado por la cooperación personal e inteligente. (17:3.8)
+	La reflectividad del universo del Actor Conjunto permite el reconocimiento simultáneo de lo mental, lo material y lo espiritual, concentrándose en última instancia en el Paraíso. (9:7.1)
+	La organización de la reflectividad es una función constante, que recopila noticias y disemina decretos a través de la creación, en contraste con la operación periódica de los servicios de difusión. (17:3.7)
+	El servicio de reflectividad extraparadisíaco opera independientemente del tiempo y el espacio, y su alcance parece estar confinado a la periferia de los siete superuniversos. (17:3.10)
+	La reflectividad, una característica indispensable del trabajo universal normal, sigue siendo un misterio impenetrable de Spiritington. (13:1.10)
+	La reflectividad de los niveles mentales del Espíritu Infinito, los Espíritus Rectores y el Ser Supremo es un atributo misterioso pero transmisible en el vasto esquema de la inteligencia universal. (17:3.3)
+	La reflectividad en los mundos sede del superuniverso muestra la interasociación más compleja de toda la creación, unificando el espíritu, la energía física y la mente de una manera excepcional y única. (9:7.2)
+	El servicio de reflectividad, un atributo divino del Ser Supremo y los Espíritus Rectores, es el mecanismo de recopilación de noticias y difusión de decretos de la inteligencia universal. (17:3.3-11)
+	La reflectividad encarna la omnisciencia dentro de un reino experiencial finito, revelando potencialmente la conciencia del Ser Supremo. (9:7.5)
+	La utilización de la reflectividad facilita el contacto parcial con la conciencia del Ser Supremo, lo que representa un surgimiento de la presencia-conciencia dentro de los límites experienciales. (9:7.5)
+	La reflectividad del universo permite al Actor Conjunto coordinar todos los niveles de actualidad, lo que permite el reconocimiento simultáneo de los fenómenos mentales, materiales y espirituales en todo el superuniverso, con el poder de ver, oír, sentir y saber todas las cosas a medida que suceden. (9:7.1-2) (28:4.1-2) (46:3.3)
+	Los impenetrables misterios de la reflectividad son un secreto de Spiritington, que opera en los mundos sede de los siete superuniversos y más allá. (13:1.10)
+	La reflectividad del Actor Conjunto permite el reconocimiento simultáneo de los aspectos mentales, materiales y espirituales, coordinando la realidad del universo en todos los niveles. (9:7.1-2)
+	La reflectividad, un atributo transmisible del Actor Conjunto, el Ser Supremo y los Espíritus Rectores, es un gran misterio en el vasto esquema de la inteligencia universal. (17:3.3)
+seres involucrados
+	El Actor Conjunto coordina la actualidad del universo para permitir el reconocimiento simultáneo de los reinos mental, material y espiritual a través del poder único de la reflectividad. (9:7.1) (16:4.15) (17:3.3)
+	La reflectividad en los seconafines demuestra la mente infinita del Actor Conjunto. (28:3.2)
+	La reflectividad es inherente a los seconafines, seres reflexivos producidos por Espíritus Reflectantes asignados a las sedes de los superuniversos. (28:3-7)
+	Los fragmentos del Padre se valen del contenido de la reflectividad sin participar activamente. (17:3.9)
+	Los Directores del Censo en sincronía con la técnica de la reflectividad son creados de manera única para ser sensibles y responder a la voluntad inteligente, siempre conscientes del nacimiento de la voluntad en el gran universo. (24:2.2)
+	Los Espíritus Madre del universo local operan dentro de las limitaciones del tiempo, excepto cuando utilizan las prerrogativas personales del Hijo del Universo y la función de la reflectividad del universo. (34:3.4)
+	La reflectividad se personaliza en Majeston, el jefe y centro de todos los fenómenos reflexivos en todos los universos, una persona verdadera creada por el Ser Supremo en conjunción con la Deidad Absoluta. (14:6.36) (17:2) (17:3.4)
+	El mecanismo de reflectividad de los universos locales y del superuniverso es un gran misterio que sólo puede explicarse mediante la actividad de los Espíritus Rectores. (16:4.15) (17:3.3)
+	La reflectividad revela la relación evolutiva entre la mente cósmica finita y el Ser Supremo, lo que representa el surgimiento de la presencia-conciencia de la mente absoluta divina. (9:7.4-5) (14:6.36) (16:4.15) (17:3.3)
+	Los Espíritus Reflectantes, de origen trinitario, reflejan las naturalezas y caracteres de las siete combinaciones de divinidad, y se requieren siete en cada capital del superuniverso para el reflejo perfecto de todas las manifestaciones de las Deidades del Paraíso. (17:3.1)
+	Los Supervisores No Cualificados del Supremo, que representan a Dios el Supremo, funcionan como unificadores supremos y pueden estar involucrados en la reflectividad del universo. (55:12.4)
+	Si bien los Ajustadores del Pensamiento no participan en la operación del sistema de reflectividad universal, todos los fragmentos del Padre conocen plenamente las transacciones y pueden acceder al contenido, pero su conocimiento y sus planes no son reflejables. (17:3.9) (28:3.2) (28:5.22)
+	El personal del servicio de reflectividad, excluyendo a Majeston y a los Espíritus Reflectantes, son todos descendientes del Espíritu Infinito. (17:3.4)
+	La reflectividad es inherente a la descendencia de los Espíritus Reflectantes, que reflejan los circuitos de inteligencia universal del Espíritu Infinito. (28:3.2)
+	El valor para el gobierno superuniversal se refleja por igual entre los seconafines primarios, secundarios y terciarios, denotando órdenes de procedimiento en lugar de estatus o función. (28:5)
+En Urantia
+	Urantia, como el 606 de Satania en Norlatiadek de Nebadon, está vinculada por la reflectividad a los Ancianos de los Días. (43:0.1)
+	Los circuitos de reflectividad están restringidos en Urantia debido a la cuarentena, lo que limita el pleno privilegio de utilizar ángeles de la orden reflexiva en el planeta. (28:7.4)
+	Un fenómeno reflexivo, que ocurre justo antes de la muerte, moldea nuestra percepción de los ángeles en base a creencias previas sostenidas en la mente. (39:5.11)
+	Los seres reflexivos, siempre interpuestos entre los ascendentes y la reflectividad, ayudan a los Espíritus ancestrales con una increíble hueste de ayudantes seconafines, pero los mortales ascendentes no interactúan directamente con ellos en los mundos de entrenamiento. (17:4.3)
+	Los mares de vidrio en los mundos arquitectónicos representan la reflectividad para modificar las corrientes de energía en el espacio. (43:1.11)
+	El jefe de los serafines de Urantia siempre está consciente de la transferencia reflexiva desde Uversa, pero permanece ignorante de lo que se busca o cómo se obtiene. (28:4.11)
 
-La Reforma; ruptura de la unidad del cristianismo | | | | 
-interrumpió la unidad del cristianismo (92:5.15)
+La Reforma; ruptura de la unidad del cristianismo | | | | OK
+La Reforma rompió la unidad del cristianismo en Europa, mientras que en Oriente, Nanak y sus seguidores sintetizaron el Islam, el hinduismo y el budismo en el sijismo. (92:5.15)
 
-el Refugio | | | | 
-declaración de fe budista (94:8.1)
+el Refugio | | | RELIGION | OK
+Para convertirse en budista, uno simplemente recita el Refugio como una declaración de fe budista. (94:8.1)
 
-regulación (gubernamental) | | gobierno; policía | | 
-la coordinación funciona mejor (81:6.33)
-opresivo regulación interfiere con las libertades individuales (134:6.10)
-la propensión sexual debe regularse (81:5.6)
-proporcionar solo lo suficiente para prevenir la violencia, la injusticia (71:5.2)
-la supervisión debe ejercer un mínimo de control regulador (71:3.9)
+regulación (gubernamental) | | gobierno; policía | | OK
+La cooperación inteligente y la coordinación modernizada son más eficaces para gestionar a individuos altamente especializados en una sociedad especializada. (81:6.33)
+El gobierno global conducirá a una reducción de la regulación opresiva, permitiendo mayores libertades individuales. (134:6.10)
+La misión primordial del gobierno es definir, regular y hacer cumplir los derechos, incluida la regulación de la propensión sexual. (81:5.6)
+El estado ideal regula para prevenir la violencia y la injusticia sin volverse parasitario o tiránico. (71:5.2)
+Una sociedad moral debería aspirar a preservar el respeto propio y brindar amplias oportunidades de autorrealización, fomentando la excelencia cultural mediante la supervisión gubernamental con una regulación mínima. (71:3.9)
 
-rehabilitación | | | | 
-Los Hijos Creadores se comprometieron a recuperar la creación personal (21:3.14)
-la salvación es eterna rehabilitación (188:5.2)
-lo que la misericordia no puede rehabilitar, la justicia aniquilará (21:5.7)
+rehabilitación | | | | OK
+Los Hijos Creadores se comprometen a proteger y recuperar sus creaciones personales. (21:3.14)
+La actitud de Jesús hacia los pecadores no fue la de condenación ni la condonación, sino la de salvación eterna y amorosa, ejemplificada por su muerte en la cruz. (188:5.2)
+La justicia prevalecerá cuando los esfuerzos de la misericordia no logren rehabilitar, lo que conducirá a la aniquilación de quienes se resistan a la realidad cósmica. (21:5.7)
 
-reencarnación | | karma | | 
-La creencia asiática en el regreso del hombre como animal (85:3.1)
-Los judíos mayores, Platón, Filón, los esenios toleraron la creencia en (164:3.4)
-única experiencia de espornagia (46:7.5)
-origen de la idea (86:4.5-6)
-los espíritus no regresan al planeta de nacimiento (112:3.7) (146:7.2) (150:3.5)
-creencia embrutecedora en vidas cansadas y monótonas (94:2.3-6)
+reencarnación | | karma | | OK
+El hombre primitivo del Asia meridional tenía un sentimiento peculiar y solidario hacia los animales superiores, y creía en el retorno del hombre como animal, una supervivencia de la adoración a los animales. (85:3.1)
+En todas estas regiones, los judíos más antiguos, Platón, Filón y los esenios toleraban la creencia en la reencarnación. (164:3.4)
+Sólo los spornagia experimentan la reencarnación en el universo de Nebadon, reaccionando únicamente ante los primeros cinco espíritus ayudantes de la mente. (46:7.5)
+La idea primitiva de la reencarnación surgió de la observancia de la semejanza hereditaria y de la costumbre de poner a los hijos nombres de antepasados. (86:4.5-6)
+Al morir, el sujeto humano pierde temporalmente la identidad, pero no la personalidad; en los mundos de estancia, ambos se reúnen en la manifestación eterna, ya que los espíritus no regresan a su planeta de nacimiento. (112:3.7) (146:7.2) (150:3.5)
+La creencia en vidas monótonas y agotadoras perpetuaba el temor a una interminable serie de encarnaciones sucesivas, privando a los mortales que luchaban por liberarse y progresar espiritualmente. (94:2.3-6)
 
-reno | (61:7.13) | | | 
-perseguido por los neandertales (64:4.3)
+reno | (61:7.13) | | | OK
+Les Néandertaliens chassaient le renne pour se nourrir, se vêtir et se servir d'outils, améliorant ainsi considérablement leur travail du silex. (64:4.3)
 
-relaciones | | amistad; grupos | | 
-2 seres están en sociedad; 3 o más crean un grupo (39:3.6) (112:1.17)
-3 grandes clases de relaciones primordial (105:4.3-8)
-las compañerismos celestiales son invariablemente mutuas (27:3.4)
-compañerismo necesario en todos los niveles (25:8.4)
-Los Hijos Creadores gobiernan en relaciones; El padre nunca interviene (32:4.3)
-perdurable relaciones nunca se basó solo en la afección biológica (84:7.10)
-El Espíritu Infinito es el antepasado aparente de (9:1.1)
-Jesús tiene precedencia sobre toda relación humana (141:7.5)
-embellecedores de las presencias dramatizan el significado de (44:6.7)
-Los Serafines de Arquitectos Sociales buscan desinvertir relaciones de artificialidad; crear buenos grupos de trabajo (39:3.4)
-con otras personas son fines en sí mismos (112:2.8) (112:5.22)
+relaciones | | amistad; grupos | | OK
+En el sistema cósmico, dos seres están asociados; tres o más crean un grupo, lo que significa la unificación y coordinación de las relaciones dentro de un todo mayor. (39:3.6) (112:1.17)
+La unidad engendra dualidad, la dualidad engendra triunidad, y la triunidad es el antepasado eterno de todas las cosas dentro de las tres grandes clases de relaciones primordiales. (105:4.3-8)
+Como mortales ascendentes, todas estas compañías celestiales son invariablemente mutuas y enriquecedoras, beneficiando a ambas partes de maneras únicas. (27:3.4)
+La compañía es esencial para los mortales, ya que provienen de razas que son muy sociales, y los Creadores proveen para ello en todos los niveles, reconociendo que "no es bueno que el hombre esté solo", incluso en el Paraíso. (25:8.4)
+En las relaciones, los Hijos Creadores gobiernan mientras que el Padre Universal se abstiene de interferir. (32:4.3)
+Las relaciones duraderas nunca se basan únicamente en el afecto biológico, como se ve en la evolución del amor de los hijos a los nietos en las sociedades civilizadas. (84:7.10)
+El Espíritu Infinito es el antepasado aparente del movimiento, el cambio y la relación. (9:1.1)
+Jesús estableció relaciones personales y eternas con todas las personas, priorizándolas sobre todas las demás conexiones humanas. (141:7.5)
+Los embellecedores de la presencia dramatizan el significado de las relaciones mediante la disposición de seres supermateriales como notas musicales vivientes, olores y visiones en los himnos de gloria. (44:6.7)
+Los arquitectos sociales, los serafines, trabajan para crear conexiones genuinas y eliminar la artificialidad en las relaciones para fomentar grupos de trabajo eficaces. (39:3.4)
+Todas las relaciones verdaderas con otras personas, humanas o divinas, son fines en sí mismas y conducen a la comunión con la personalidad de la Deidad, la meta eterna de la ascensión universal. (112:2.8) (112:5.22)
 
-relatividad | | | | 
-todo conocimiento finito es relativo (2:7.1-3)
-incursiones con hallazgos vagamente vislumbrados de (195:7.5)
-no se deje engañar por el concepto de (130:4.15)
-fórmula que equipara energía y materia (42:4.11)
-la materia y la energía son manifestaciones del mismo fenómeno (42:1.2)
+relatividad | | | | OK
+Todo conocimiento finito y la comprensión de las criaturas son relativos, y varían en su completitud y exactitud según la experiencia y la perspectiva personales, mientras que la verdad divina permanece uniforme y universal. (2:7.1-3)
+No dejéis que vuestras incursiones en descubrimientos apenas vislumbrados de la relatividad perturben vuestros conceptos de la eternidad y la infinitud de Dios. (195:7.5)
+No os dejéis engañar por el concepto de ideas estáticas; abrazad la verdad siempre cambiante de la relatividad en el universo. (130:4.15)
+La fórmula que iguala la energía y la materia establece que la masa aumenta en proporción a la energía dividida por el cuadrado de la velocidad de la luz. (42:4.11)
+En la realidad cósmica, la materia y la energía son manifestaciones diversas del mismo fenómeno presente en el Padre Universal, de quien todas las cosas consisten. (42:1.2)
 
-relajación | | facilidad; recreación; Directores de la reversión | | 
-3 días en el monte Sartaba (143:3)
-determina la capacidad de receptividad espiritual (160:3.1)
-ecos de una mirada hacia atrás (48:4.12,19)
+relajación | | facilidad; recreación; Directores de la reversión | | OK
+Después de un estado de gran tensión nerviosa y emocional, Jesús condujo a los apóstoles a un retiro de relajación de tres días en el monte Sartaba, donde aprendieron el valor del descanso y la eficacia de la relajación. (143:3)
+La meditación establece el contacto de la mente con el espíritu; la relajación determina la capacidad de receptividad espiritual. (160:3.1)
+La relajación se encuentra en los ecos de una mirada al pasado, una revisión despreocupada del pasado que permite el rejuvenecimiento y la alegría. (48:4.12,19)
 
-reliquias | | encantos; fetiches | | 
-creencia en reliquias es una consecuencia del culto fetiche (88:2.1-2)
-impotente; superstición burda (150:3.6)
-Los guardias del sanedrín arrojaron la ropa de entierro de Jesús por el acantilado (190:1.2)
-bueno que los soldados se llevaron la ropa de Jesús (187:2.9)
+reliquias | | encantos; fetiches | | OK
+La creencia en reliquias como una consecuencia del culto fetichista está racionalizando la antigua práctica de reverenciar huesos y objetos asociados con grandes figuras, transformándola en un aspecto digno de las religiones modernas. (88:2.1-2)
+La creencia en amuletos y reliquias como medios de influir en el mundo espiritual es impotente y tiene sus raíces en una burda superstición. (150:3.6)
+Los apóstoles dudaron de la resurrección hasta que José y David inspeccionaron la tumba y la encontraron tal como las mujeres la habían descrito, antes de que los guardias del Sanedrín arrojaran la ropa de entierro de Jesús por un acantilado. (190:1.2)
+Los soldados romanos que se llevaron la ropa de Jesús impidieron que sus seguidores recurrieran a la adoración de reliquias, en consonancia con su deseo de dejar atrás sólo el recuerdo de sus ideales espirituales. (187:2.9)
 
-religión | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | Iglesia cristiana inicial; cristianismo; iglesias; fe; hijos de Dios por la fe; hermandad de creyentes; evangelio; Jesús:enseñanzas; reino de los cielos; revelación; crecimiento espiritual | RELIGION | 
+religión | (99) (100) (101) (102) (103) (196) (5:4) (101:1) | ceremonias; encantos; Iglesia cristiana inicial; cristianismo; iglesias; fe; hijos de Dios por la fe; hermandad de creyentes; evangelio; Jesús:enseñanzas; reino de los cielos; revelación; reliquias; crecimiento espiritual; tabúes; tradiciones | RELIGION | 
 toda Urantia esperando religión sin trabas de Jesús (94:12.7)
 acercarse a otros reconociendo verdades comunes (149:2.5)
 Equilibrio mediante el humor (143:7.3)
-ceremonias
 El desafío es construir una filosofía de vida nueva y atractiva (2:7.10)
-encantos
 civilización en peligro cuando los jóvenes no están interesados en (111:4.4)
 definido como
 	adaptación a lo misterioso y a las paradojas (92:1.3) (102:3.2)
@@ -929,7 +933,6 @@ religión primitiva (85) (86) (87) (88) (89) (90) (91)
 	Maestros y líderes investidos con leyendas de orígenes sobrenaturales, carreras y rendimientos esperados (92:5.5-6).
 	tiende a hacer a Dios semejante al hombre (102:3.14)
 propósitos de las actividades de grupo (99:6.2)
-reliquias
 religiones, nombradas | adoración a los antepasados; animismo; Baal; brahmánismo; budismo; cristianismo; confucianismo; culto de no quitar la vida; cinismo (religión); Dionisio; espiritismo dual; misterios eleusinos; adoración al emperador; epicureísmo; Grecia:religión griega; henoteísmo; hinduismo; Islam; jainismo; judaísmo; mitraísmo; monoteísmo; culto a la madre; culto a la Madre de Dios; cultos de misterio; misticismo; hermandad órfica; paganismo; Panteísmo; parsis; culto fálico; cultos de misterio frigios; politeísmo; Iglesia católica romana; sintoísmo; sijismo; escepticismo (religión); estoicismo (religión); yoga; zoroastrismo
 experiencia religiosa, crecimiento | crecimiento espiritual
 resultado de la religión
@@ -968,9 +971,7 @@ religión reveladora | revelación
 rituales | ceremonias; cultos; tradiciones
 ciencia y religión (103:7) | ciencia, filosofía y religión
 Los reconstruccionistas sociales muestran una motivación religiosa no reconocida (99:3.6-7)
-tabúes
 descongelar formas congeladas de religión (155:3.8)
-tradiciones
 entrenamiento en casa en nación continental (72:3.5)
 tipos de religión
 	3 formas distintas (155:5.2-6)
@@ -1035,238 +1036,238 @@ advertencias
 el mundo necesita más de primera mano religión (195:9.8)
 
 persona religiosa; practicantes de la religión; personas religiosas; creyentes; creyente | | hijos de Dios por la fe | | OK
-El alma que conoce a Dios se atreve a decir «yo sé», incluso cuando este conocimiento de Dios es puesto en duda por el no creyente (102:6.5)
-Cuando un miembro de un grupo social religioso ha cumplido con los requisitos de dicho grupo, se le debería animar a disfrutar de la libertad religiosa, expresando plenamente su propia interpretación personal de las verdades de la creencia religiosa y de los hechos de la experiencia religiosa. (103:5.12)
-Todas las actividades humanas no religiosas intentan doblegar el universo al servicio deformante del yo; el individuo verdaderamente religioso intenta identificar su yo con el universo, y luego dedicar las actividades de ese yo unificado al servicio de la familia universal de sus semejantes, humanos y superhumanos. (5:4.3)
-Jesús oró por la unidad espiritual entre los creyentes (182:1.4,6)
-los mortales se denominan hijos de fe antes de la fusión con el Ajustador (40:6)
-la única recompensa es el gozo y la comunión en esta vida y la vida eterna en el más allá (141:7.5)
-Para ganar almas para el Maestro, no es la primera legua recorrida por coacción, deber o convencionalismo la que transformará al hombre y a su mundo, sino la segunda legua de servicio libre y de devoción amante de la libertad. (195:10.5)
-El espíritu da testimonio a nuestro espíritu de que somos los hijos de Dios (142:5.2-3)
-allí donde dos o tres creyentes están reunidos, allí estoy yo en medio de ellos (159:1.3)
+Las convicciones acerca de Dios se alcanzan mediante un razonamiento sabio, pero uno llega a conocer a Dios sólo por la fe y la experiencia personal, atreviéndose a decir "yo sé" incluso cuando los incrédulos lo cuestionan. (102:6.5)
+Los miembros de los grupos religiosos sociales deben tener la libertad de expresar sus propias interpretaciones de las creencias y experiencias, ya que la unidad y la seguridad en un grupo religioso provienen de la unidad espiritual, no de la conformidad teológica. (103:5.12)
+El individuo verdaderamente religioso busca identificarse con el universo y dedicar actividades unificadas al servicio de la familia universal de seres semejantes, humanos y sobrehumanos, porque Dios es el destino eterno del hombre. (5:4.3)
+Jesús oró por la unidad espiritual entre los creyentes, manifestando el amor del Padre y revelando la verdad a sus embajadores escogidos. (182:1.4,6)
+Los mortales son hijos de fe divinamente amados antes de la fusión con el Ajustador. (40:6)
+Jesús hizo hincapié en establecer relaciones eternas con todas las personas, priorizando la comunión espiritual sobre las relaciones humanas, ofreciendo la recompensa del gozo espiritual y la comunión divina en esta vida y la vida eterna en el más allá. (141:7.5)
+La verdadera transformación en el hombre y en el mundo no proviene del deber o de las convenciones, sino del servicio desinteresado y del amor que encarna las enseñanzas de Jesús. (195:10.5)
+El Espíritu da testimonio en nuestro corazón de que somos hijos de Dios, y juzga nuestro mensaje por sus frutos con la seguridad de que será aceptado por nuestro Padre celestial. (142:5.2-3)
+En la disciplina de la hermandad, donde dos o tres creyentes se reúnen, sus acciones serán reconocidas en el cielo. (159:1.3)
 características
-	La persona religiosa que tiene fe cree en un Dios que patrocina la supervivencia, el Padre que está en los cielos, el Dios de amor. (5:5.3)
-	Los practicantes de la religión harían mejor en tomar prestado lo mejor de la fe espiritual viviente de sus vecinos, en lugar de denunciar lo peor de sus supersticiones sobrevivientes y de sus rituales anticuados. (92:7.3)
-	El mortal consciente de Dios está seguro de salvarse; no le teme a la vida; es honrado y consecuente. (34:6.13) (156:5.20)
-	Las personas religiosas deben cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. (99:5.7)
-	La gente corriente escuchaba a Jesús con placer (174:4.7) (196:1.4)
-	La persona religiosa sincera tiene conciencia de ser ciudadana del universo y se da cuenta de que se pone en contacto con unas fuentes de poder sobrehumano. (16:6.8) (100:6.3)
-	Las personas religiosas futuras deberán vivir su religión, dedicarse al servicio sincero de la fraternidad de los hombres. (99:5.9)
-	las dos demostraciones positivas de conocer a Dios son manifestar los frutos del espíritu y arriesgar todo para encontrar a Dios (155:6.14-16)
-	El desapego de la persona religiosa hacia muchas cosas que son puramente temporales y banales no conduce nunca al aislamiento social, y no debería destruir el sentido del humor. (100:6.5)
-	Las dificultades pueden desafiar a la mediocridad y derrotar a los temerosos, pero no hacen más que estimular a los verdaderos hijos de los Altísimos. (48:7.7)
-	Existe una gran diferencia entre la riqueza que conduce a la avaricia y al egoísmo, y la riqueza que tienen y reparten con espíritu de administradores aquellos que poseen una abundancia de bienes de este mundo, y que contribuyen tan generosamente a sostener a los que dedican todas sus energías a la obra del reino. (165:4.5)
-	el Maestro dijo: «Si alguien quiere seguirme, que no haga caso de sí mismo, que se encargue diariamente de sus responsabilidades y que me siga». (158:7.5)
-	Las personas religiosas parecen vivir eficazmente liberadas del acoso de la prisa y de la tensión dolorosa (102:2.3)
-	la vida a la que se nos ha llamado es la aventura de establecer, por la fe, el reino de mi Padre en el corazón de los hombres (157:6.14)
-	Un verdadero creyente, cada día que vive, encuentra más fácil hacer lo que es justo. (156:5.13)
-	A medida que pasan los días, todo verdadero creyente se vuelve más hábil en atraer a sus semejantes hacia el amor de la verdad eterna. (156:5.15)
-	el verdadero creyente sólo existe con la finalidad de producir los frutos del espíritu: amar a los hombres como él mismo ha sido amado por Dios —que nos amemos los unos a los otros como Jesús nos ha amado. (180:2.5)
-	los hijos iluminados por la fe deben cumplir con el triple deber para con el hombre, Dios y la comunidad (178:1.5)
-	Los creyentes en el reino deben poseer una fe implícita, una creencia con toda el alma, en el triunfo seguro de la rectitud. (101:3.16)
-	tener fe implícita en el triunfo de la justicia (156:5.12)
-	los creyentes en el reino tienen el mismo don de la vida eterna que resucitó a Jesús de entre los muertos (162:7.5) (190:0.2) (193:1.2)
-	los verdaderos creyentes están habitados por el Espíritu de la Verdad (181:1.1-2)
-	el propósito de la vida debe ser celosamente protegido contra la tentación de buscar los logros fáciles y transitorios; asimismo, debe ser fomentado de tal manera que se vuelva inmune a las amenazas desastrosas del fanatismo. (160:3.5)
-	Jesús vive de nuevo en cada uno de los creyentes (194:2.6) (194:3.1)
-	Una personalidad que conoce a Dios y que desea hacer su voluntad, que tiene perspicacia espiritual, es divinamente estable y existe eternamente. (118:8.11)
-	El Espíritu ejerce una influencia personal y directa sobre los seres creados, «porque todos aquellos que son conducidos por el Espíritu de Dios, son hijos de Dios». (8:6.4)
-	el creyente vive y triunfa a pesar de la sobrecarga abrumadora de las civilizaciones complejas y parciales de los tiempos modernos. (101:3.13)
-	los practicantes religiosos viven y se comportan como si ya estuvieran en presencia del Eterno (102:2.3)
-	nuestra verdadera tarea en la Tierra consiste en vivir de tal manera que permitamos al Padre revelarse en nuestra vida (132:7.2) (142:6.6)
-	los discípulos de Jesús viven con energía y entusiasmo la totalidad de sus responsabilidades humanas y de sus privilegios divinos en el reino de Dios (159:5.10)
-	son uno con Jesús (182:1.6) (184:4.6)
-	Sólo un individuo que conoce a Dios puede amar a otra persona del mismo modo que se ama a sí mismo. (16:9.8-14)
-	los hijos de Dios deben promover la paz y la armonía entre varios grupos de creyentes sinceros (181:2.18) (182:1.6)
-	Los creyentes deben aprender cada vez más a apartarse de las precipitaciones de la vida —a huir de los agobios de la existencia material— mientras que vivifican su alma, inspiran su mente y renuevan su espíritu por medio de la comunión en la adoración. (156:5.12)
-	deben mostrar compañerismo con Jesús en sus vidas (141:5.2)
-	El Espíritu de la Verdad une y conduce a toda la verdad (34:7.1) (56:10.13) (176:3.7) (180:4.2,5) (180:6.3) (181:2.17) (194:2.7) (194:3.8)
-	el espíritu nos enseñará a responder ante los jueces (176:1.1)
-	debemos confiar y tener confianza los unos en los otros (193:3.2)
-	debemos confiar en Dios como Jesús confiaba en Dios (196:1.5)
-	confiar en la bondad de Dios a pesar de la amarga decepción y la aplastante derrota (101:3.6)
-	Jesús describió la profunda seguridad del mortal que conoce a Dios cuando dijo: «Para un creyente en el reino que conoce a Dios, ¿que importa si todas las cosas terrenales se derrumban?» (100:2.7) (176:3.2) (178:3.4)
-	Aquello que un verdadero hijo desea y el Padre infinito lo quiere, EXISTE.  (118:6.5) (146:2.7)
+	La diversidad de perspectivas sobre Dios refleja las variadas creencias de los científicos que buscan hechos, los artistas emocionales, los filósofos razonadores y los religiosos de fe. (5:5.3)
+	Los religiosos deben abrazar lo mejor de la fe espiritual de sus vecinos, en lugar de condenar lo peor de sus propias tradiciones. (92:7.3)
+	Los mortales guiados por el Espíritu, guiados por la iluminación divina, exhiben los frutos del Espíritu y están seguros de la salvación, no temen a la vida, son honestos, coherentes y están sostenidos por el amor de Dios. (34:6.13) (156:5.20)
+	Los religiosos pueden lograr una verdadera cooperación centrándose en objetivos e ideales comunes, en lugar de opiniones psicológicas y creencias teológicas. (99:5.7)
+	La gente común escuchó a Jesús con alegría, reconociendo su vida humana sincera y sin pretensiones de motivación religiosa consagrada. (174:4.7) (196:1.4)
+	El religioso sincero es consciente de su ciudadanía universal, de que establece contacto con el poder sobrehumano y de que asciende al gozo y la libertad de los hijos de Dios mediante la adoración. (16:6.8) (100:6.3)
+	Los futuros religiosos deben encarnar sus creencias mediante el servicio dedicado a la humanidad, trascendiendo las limitaciones de las palabras. (99:5.9)
+	Demostrar el conocimiento de Dios mediante los frutos del espíritu y arriesgarlo todo en pos de encontrar a Dios, en lugar de buscar la validación de los demás. (155:6.14-16)
+	La verdadera religión es un amor vivo que añade nuevos significados a la vida y que nunca conduce al aislamiento social. (100:6.5)
+	Las dificultades desafían y derrotan a algunos, pero sólo estimulan a los verdaderos hijos de los Altísimos. (48:7.7)
+	Poseer riquezas de manera honorable no es pecado, siempre que se posean y distribuyan con espíritu de administración para apoyar a quienes se dedican a la obra del reino. (165:4.5)
+	Que el hombre se desentienda de sí mismo, asuma sus responsabilidades diariamente y siga a Jesús para salvar su alma y obtener la vida eterna. (158:7.5)
+	Los religiosos exhiben una tranquilidad y originalidad que los distingue de quienes sólo han abrazado la sabiduría mundana, viviendo en una emancipación efectiva de la prisa agobiante y el estrés doloroso de la vida temporal. (102:2.3)
+	La aventura de fe de establecer el reino de mi Padre en los corazones de la humanidad es la vida gloriosa a la que Jesús nos ha llamado. (157:6.14)
+	Las personas que conocen a Dios son resilientes frente a la adversidad y encuentran fuerza en su fe para hacer lo correcto cada día. (156:5.13)
+	A medida que pasa cada día, los verdaderos creyentes se vuelven más hábiles para guiar a otros hacia la verdad eterna, revelar la bondad, recomendar la rectitud y conducir a las almas hambrientas al reino espiritual. (156:5.15)
+	El único propósito del verdadero creyente es amar a los demás como Dios los ha amado, en una conexión viva entre la divinidad y la humanidad. (180:2.5)
+	Como hijos iluminados por la fe, debemos cumplir un triple deber para con el hombre, Dios y la hermandad, al tiempo que encarnamos nuestra doble ciudadanía como ciudadanos terrenales y celestiales. (178:1.5)
+	Los verdaderos creyentes siguen adorando a Dios a pesar de todo y se atreven a declarar: «Aunque él me mate, le serviré» (101:3.16).
+	Los creyentes del Reino deben tener una fe inquebrantable en la justicia, una creencia indudable en la salvación eterna y buscar la renovación espiritual mediante la comunión llena de adoración. (156:5.12)
+	Los creyentes del Reino, que poseen el don de la vida eterna otorgado por Jesús, nunca probarán la muerte si mantienen viva la palabra de verdad en sus corazones. (162:7.5) (190:0.2) (193:1.2)
+	Los verdaderos creyentes, en quienes mora el Espíritu de la Verdad, serán guiados a través de la vida y por la eternidad por la encarnación espiritual del Hijo del Hombre. (181:1.1-2)
+	El nuevo evangelio del Reino proporciona un incentivo superior para vivir y un propósito de vida exaltado, trascendiendo las tentaciones materiales y fomentando el crecimiento espiritual. (160:3.5)
+	El Espíritu de la Verdad ayuda a los creyentes a presenciar la realidad de las enseñanzas de Jesús y su vida vivida en la carne, que ahora vive de nuevo en cada hijo de Dios lleno del espíritu. (194:2.6) (194:3.1)
+	La gran aventura del hombre en el universo es lograr la transformación de la estabilidad de la estática mecánica a la divinidad de la dinámica espiritual mediante la fuerza y ​​la constancia de las decisiones de su propia personalidad, declarando: "Es mi voluntad que se haga tu voluntad". (118:8.11)
+	El amor del Espíritu es real, así que no contristéis al Espíritu de Dios, pues todos los que son guiados por el Espíritu de Dios, son hijos de Dios. (8:6.4)
+	Los religiosos viven y triunfan a pesar de la sobrecarga de las civilizaciones modernas. (101:3.13)
+	Los practicantes religiosos viven en una emancipación efectiva de las corrientes temporales del tiempo, exhibiendo una tranquilidad de carácter como si la inmortalidad estuviera a su alcance. (102:2.3)
+	Nuestro verdadero negocio en la tierra es vivir de una manera que permita al Padre revelarse en nuestras vidas para atraer a otros a buscar las verdades de Dios. (132:7.2) (142:6.6)
+	Los discípulos de Jesús deben responder positiva y enérgicamente al mal, venciéndolo con el bien, viviendo a la altura de sus responsabilidades y privilegios en el reino de Dios. (159:5.10)
+	Los religiosos, uno con Jesús, buscan unirse en el amor y la verdad, reflejando la unidad del Padre y el Hijo para la salvación de todos los creyentes. (182:1.6) (184:4.6)
+	Un individuo que conoce a Dios puede amar verdaderamente a los demás como a sí mismo, ya que la conciencia social altruista está arraigada en una conciencia religiosa de nuestra relación comunitaria con Dios y con la humanidad. (16:9.8-14)
+	Los hijos de Dios deben promover la paz y la armonía entre los diversos grupos de creyentes sinceros. (181:2.18) (182:1.6)
+	Los creyentes del Reino deben poseer una fe inquebrantable en el triunfo seguro de la justicia y la verdad del evangelio, apartándose del ajetreo de la vida para refrescar el alma mediante la comunión llena de adoración. (156:5.12)
+	Los religiosos deben mostrar compañerismo con Jesús en sus vidas para lograr la unidad de propósito y entendimiento espiritual, a pesar de las diferencias individuales en pensamiento, sentimiento y conducta. (141:5.2)
+	El Espíritu de la Verdad guía a los creyentes hacia las verdades eternas, conduciéndolos hacia el crecimiento espiritual y el desenvolvimiento divino. (34:7.1) (56:10.13) (176:3.7) (180:4.2,5) (180:6.3) (181:2.17) (194:2.7) (194:3.8)
+	El espíritu nos enseñará cómo responder a los jueces en tiempos de prueba y persecución, porque el evangelio del reino triunfará sobre todos los adversarios. (176:1.1)
+	Debemos confiar y confiar los unos en los otros, como Jesús les enseñó a sus discípulos antes de su ascensión. (193:3.2)
+	Los creyentes deben procurar confiar en Dios como lo hizo Jesús y creer en los demás como él lo hizo. (196:1.5)
+	La confianza en la bondad de Dios persiste a través de la amarga decepción y la derrota aplastante, produciendo una fe sublime. (101:3.6)
+	Jesús ejemplificó la fe inquebrantable de quienes conocen a Dios, al declarar: “Para un creyente en el reino, los trastornos terrenales son intrascendentes”. (100:2.7) (176:3.2) (178:3.4)
+	La alineación de los deseos del verdadero hijo con la voluntad del Padre infinito asegura que todas las oraciones sean respondidas de acuerdo con el propósito divino. (118:6.5) (146:2.7)
 advertencias
-	los hijos de este mundo muestran a veces más sabiduría que los hijos de la luz en la preparación de su futuro (169:2.1,5)
-	Cuando se presentan las dificultades reales, no se puede contar con el apoyo de aquellos que sólo conocen el evangelio en su mente, y no lo han experimentado en su corazón. (177:5.2)
-	No os sintáis abatidos ni siquiera cuando los creyentes pusilánimes se vuelvan contra vosotros y se alíen con los enemigos del reino. (152:5.2) (153:5.3) (180:3.1)
-	correremos un grave peligro, en épocas posteriores, cuando la mayoría de la gente hable bien de los creyentes en el reino, y muchos que ocupan puestos importantes acepten nominalmente el evangelio del reino celestial. (178:1.10)
-	se languidece en inútil anhelos por no obedecer la verdad (155:1.3)
-	se debe funcionar en la sociedad como individuos, no como grupos (99:2.3) (99:3.15)
-	no se debe estar perturbado por engañadores, guerras, hambrunas, terremotos (176:1.1)
-	no se debe recurrir a la fuerza física para el reino (178:1.2-3,6)
-	no se debe intentar moldear a otros en base a algún patrón (140:8.26)
-	La cantidad de mensaje que tenemos que llevar a la gente es, en cierto modo, la medida de nuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad. (155:1.5).
-	El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad. (159:3.8) (165:5.5)
-	Jesús indicó francamente que había venido para establecer unas relaciones personales y eternas con los hombres, que siempre tendrían prioridad sobre todas las demás relaciones humanas. (141:7.5)
-	Nosotros, que hemos confesado nuestra entrada en el reino de los cielos, sois en general demasiado vacilantes e imprecisos en nuestra manera de enseñar. (155:1.3)
-	Si unos creyentes declarados no producen los frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son unas ramas inútiles de la vid viviente, y pronto serán cortadas. (193:2.2)
-	los creyentes serán odiado por todos los hombres por causa de Jesús (176:1.1) (180:3)
-	serán asesinados por aquellos que creen que hacen servicio a Dios (180:6.1)
+	Los sabios se preparan para el futuro haciéndose amigos tanto de los tesoros terrenales como de los eternos. (169:2.1,5)
+	Tengan cuidado de no confiar en aquellos que sólo conocen el evangelio en sus mentes, pues el verdadero apoyo viene de experimentarlo en el corazón cuando surgen verdaderos problemas. (177:5.2)
+	Incluso cuando los creyentes pusilánimes se unan a los enemigos del reino, no se desanimen por la enemistad del mundo. (152:5.2) (153:5.3) (180:3.1)
+	En tiempos de paz o prosperidad, permanezcan fieles al reino celestial a pesar de la tentación de desviarse. (178:1.10)
+	Dejen de anhelar inútilmente y tomen el reino por asalto espiritual, obedeciendo la verdad con valentía como lo hacen los paganos. (155:1.3)
+	Los religiosos deben operar en la sociedad como individuos, manteniéndose alejados de las afiliaciones grupales en la industria y la política. (99:2.3) (99:3.15)
+	En tiempos de problemas y engaños, no teman guerras, hambrunas, terremotos o persecución por causa del evangelio, porque el espíritu guiará y triunfará sobre todos los enemigos. (176:1.1)
+	En el reino de los cielos, los creyentes evitan la fuerza física en favor del poder espiritual, al tiempo que mantienen el orden dentro de sus filas y dan el debido respeto a las autoridades seculares. (178:1.2-3,6)
+	Debemos permitir que los demás se desarrollen a su manera, como Jesús enseñó a sus apóstoles a no moldear a los discípulos según un modelo establecido, sino a darles la libertad de comenzar de nuevo como niños pequeños. (140:8.26)
+	La extensión de nuestro mensaje a los demás refleja nuestro fracaso en vivir una vida justa y coordinada con la verdad. (155:1.5)
+	La batalla de los creyentes no es contra la duda, sino contra la incredulidad, mientras buscan los tesoros del reino dentro de sí mismos, guiados por una fe viva. (159:3.8) (165:5.5)
+	Jesús hizo hincapié en establecer una comunión espiritual íntima con todas las personas, dando prioridad a las relaciones eternas sobre todas las demás, ofreciendo alegría espiritual en este mundo y vida eterna en el próximo. (141:7.5)
+	Nosotros, que hemos profesado la entrada en el reino de los cielos, debemos abandonar nuestra conducta docente vacilante e indefinida y, en su lugar, emprender el asalto espiritual para establecer el reino con valentía y eficacia. (155:1.3)
+	Los creyentes que no dan los frutos del espíritu divino en sus vidas están muertos; el Espíritu de la Verdad no está en ellos; son ramas inútiles de la vid viva, y pronto serán arrebatadas. (193:2.2)
+	Los creyentes serán odiados por todos los hombres por causa de Jesús, pero no os desaniméis por la enemistad del mundo. (176:1.1) (180:3)
+	Aquellos que creen que prestan servicio a Dios matarán a los religiosos, advirtió el Maestro a sus discípulos. (180:6.1)
 
-guardianes religiosos | | Serafines maestros de la supervisión planetaria | ORDER | 
+guardianes religiosos | | Serafines maestros de la supervisión planetaria | ORDER | OK
 
-líderes religiosos en Roma | | | | 
-Jesús se preparó para los subsiguientes misioneros cristianos (132:0.4-9)
+líderes religiosos en Roma | | | PERSON | OK
+Jesús preparó a los líderes religiosos de Roma para los misioneros cristianos posteriores, realzando e iluminando la verdad de sus enseñanzas, allanando el camino para la rápida difusión del cristianismo por todo el imperio. (132:0.4-9)
 
 líderes religiosos (Jerusalén) | | sanedrín | | OK
 
-Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor | (179) | | | 
-origen antiguo de la comida sagrada (89:4.10)
-al principio, la Cena del Recuerdo se celebró como comida social con sacramento al final (194:4.8)
-conmemora el donación del Espíritu de la Verdad (179:5.1,9)
-establecimiento (179:5)
-Jesús ordenó que nos reunamos para participar (99:5.10)
-Maestro realmente presente en (179:5.6)
-nueva Pascua; única ceremonia asociada con la vida de Jesús (179:5.4,9)
-tregua refrescante entre el ego y el impulso altruista (103:4.1)
+Cena del Recuerdo; cena del recuerdo; cena común en recuerdo; Cena del Señor | (179) | | | OK
+El origen antiguo de la comida sagrada justificaba la costumbre de comer ofrendas sacrificiales en un servicio de comunión. (89:4.10)
+La Cena del Recuerdo era originalmente una comida social con el sacramento al final, muy parecida a la Cena del Señor que se celebraba en aquellos días. (194:4.8)
+La Cena del Recuerdo conmemora la dádiva del Espíritu de la Verdad por parte de Jesús, cuando bendijo la copa de bendición y estableció una nueva dispensación de gracia y verdad para que todos la recordaran. (179:5.1,9)
+Jesús estableció la Cena del Recuerdo, que simboliza la nueva dispensación de gracia y verdad, instando a sus seguidores a recordar sus enseñanzas y participar en la comunión espiritual, libres de tradición y dogma. (179:5)
+Jesús ordenó que nos reuniéramos para participar realmente en la cena comunitaria del recuerdo de su vida de donación en Urantia. (99:5.10)
+En la Cena del Recuerdo, el Maestro está verdaderamente presente para los creyentes en el Hijo y los que conocen a Dios, creando un encuentro simbólico con Miguel. (179:5.6)
+Jesús estableció la cena del recuerdo como una nueva Pascua, utilizando símbolos para enseñar verdades espirituales y evitar interpretaciones rígidas, dejando atrás una ceremonia asociada con su vida. (179:5.4,9)
+Participar en la Cena del Recuerdo crea una tregua refrescante entre el ego y el impulso altruista, allanando el camino para la verdadera adoración y el surgimiento de la hermandad del hombre. (103:4.1)
 
-Remona | | | PERSON | 
-esposa de Caín, madre de Enoc (76:2.9)
+Remona | | | PERSON | OK
+Remona, esposa de Caín, llegó a ser la madre de Enoc, líder de los noditas elamitas en la tierra de Nod. (76:2.9)
 
-renacimiento (europeo) | | | | 
-Cristianismo rehabilitado en (92:5.15) (195:4.3)
+renacimiento (europeo) | | | | OK
+El cristianismo se rehabilitó en Europa durante el Renacimiento, dando origen a numerosas sectas y familias religiosas. (92:5.15) (195:4.3)
 
-renuncia | | | | 
-forma negativa de propiciación (89:4.7)
-conceptos primitivos de (89:3)
+renuncia | | | | OK
+La renuncia era la forma negativa de propiciación, y el sacrificio se convirtió en la forma positiva, mientras que los regalos y sobornos dados a los hombres se transformaron en sacrificios dedicados a los dioses en las antiguas prácticas de adoración divina. (89:4.7)
+Los conceptos primitivos de renuncia llevaron al desarrollo del ayuno como una práctica común en la evolución religiosa, influyendo en última instancia en muchos sistemas teológicos modernos. (89:3)
 
-arrepentimiento | | enmienda; confesión; perdón; pecado | | 
-Adán y Eva se arrepintieron, recibieron Ajustadores (76:5.1-2)
-Caín se arrepintió; Ajustador recibido (76:2.8)
-El Padre busca a los pecadores antes de que piensen en arrepentimiento (159:1.2) (169:1.3)
-Dios nunca lo necesita (4:3.4-5)
-la bondad de Dios conduce a (2:6.3) (48:6.8) (131:10.4) (143:2.7) (149:6.4)
-ha llevado a las naciones a realizar grandes esfuerzos de reforma (91:5.2)
-si es sincero, no hay necesidad de temer el juicio (133:4.12)
-Jesús enseñó el perdón sin penitencia (138:8.2,8)
-Los judíos enseñaron arrepentimiento fue resultado de buenas obras (138:8.8)
-Judas dijo que se arrepintió (186:1.4)
-el amor evita los alejamientos que requieren (174:1.2)
-mensaje de Juan el Bautista (135:7.3) (136:0.2) (136:1.5)
-Enseñanza opcional para los apóstoles de Jesús (144:6.9)
-predicar arrepentimiento a los que lo necesitan (136:0.2) (140:10.1)
-los publicanos y las rameras se arrepienten ante los gobernantes religiosos (173:3.2)
-reconocimiento del mal de los caminos de uno (131:8.5) (167:5.2)
-restricción nacida de (131:3.3)
-ladrón en la cruz arrepentido (187:4)
+arrepentimiento | | enmienda; confesión; perdón; pecado | | OK
+El arrepentimiento aceptable de Adán y Eva los llevó a recibir Ajustadores y a ser elegibles para la resurrección y la rehabilitación. (76:5.1-2)
+Caín se arrepintió y recibió un Ajustador, lo que le dio un nuevo sentido de guía espiritual y superioridad en Mesopotamia. (76:2.8)
+El Padre busca a los pecadores antes de que piensen en el arrepentimiento, y encuentra gozo en salvar a los perdidos. (159:1.2) (169:1.3)
+Dios nunca necesita el arrepentimiento por sus acciones omnisapientes y todopoderosas, guiando la creación con presciencia divina y perspicacia ilimitada. (4:3.4-5)
+La bondad de Dios lleva al hombre errante al arrepentimiento. (2:6.3) (48:6.8) (131:10.4) (143:2.7) (149:6.4)
+La confesión, el arrepentimiento y la oración han llevado a las naciones a realizar grandes esfuerzos de reforma y a realizar valerosos actos de logro valeroso. (91:5.2)
+Arrepiéntanse sinceramente, no teman el juicio del hombre, pues el verdadero perdón les espera en las cortes celestiales. (133:4.12)
+Jesús enseñó el perdón del pecado mediante la fe en Dios, sin penitencia ni sacrificio, recalcando que solo la fe es la clave para entrar en el reino del Padre. (138:8.2,8)
+Jesús enseñó a sus apóstoles que la fe, no las buenas obras, era la clave para entrar en el reino del Padre. (138:8.8)
+Judas dijo que se arrepintió después de presenciar la crucifixión de Jesús y devolver su pago al Sanedrín. (186:1.4)
+La comprensión de las relaciones íntimas y amorosas evita los distanciamientos, que requieren el arrepentimiento para el reajuste. (174:1.2)
+El mensaje de Juan el Bautista de “Arrepentíos y bautizaos” evolucionó hasta convertirse en un llamado reconfortante a huir de la ira y abrazar el gozo del nuevo reino, como predicó Jesús. (135:7.3) (136:0.2) (136:1.5)
+El arrepentimiento quedó como opcional para los apóstoles de Jesús, quienes predicaron “Creed y bautizaos”. (144:6.9)
+Predicad el arrepentimiento a los necesitados, pero acoged en el gozoso reino a los que ya están buscando la comunión con Dios. (136:0.2) (140:10.1)
+Los publicanos y las rameras se arrepienten ante los gobernantes religiosos, mientras que la gente común escucha con alegría las palabras de Jesús. (173:3.2)
+El reconocimiento de la maldad de los propios caminos conduce al arrepentimiento, al perdón y a la transformación de la calamidad en bendición, ya que la búsqueda diaria del Gran Supremo garantiza el hallazgo del perdón y la misericordia. (131:8.5) (167:5.2)
+La moderación que nace del arrepentimiento conduce a la verdadera felicidad y a la paz mental. (131:3.3)
+El ladrón arrepentido en la cruz encontró la salvación mediante su fe en Jesús. (187:4)
 
 repersonalización | | resurrección | | OK
 
 represión | | compulsión | | OK
 
-reptiles | (60:1-2) (60:3.14) | cocodrilos; dinosaurios; pterosaurios; serpientes marinas; serpientes; tortugas | | 
-pájaros descendientes de (65:2.8-9)
-sobreviven serpientes, lagartos, caimanes y tortugas (65:2.10)
-surgió de las ranas (59:6.8) (65:2.8,10)
+reptiles | (60:1-2) (60:3.14) | cocodrilos; dinosaurios; pterosaurios; serpientes marinas; serpientes; tortugas | | OK
+Las aves descienden de los antiguos reptiles. (65:2.8-9)
+Las serpientes, los lagartos, los caimanes y las tortugas sobreviven como descendientes del antiguo reino reptil. (65:2.10)
+De las ranas surgió el reino reptil, que condujo a la evolución de las aves, los mamíferos y, en última instancia, la especie humana. (59:6.8) (65:2.8,10)
 
 investigación | | educación | | OK
 
-resentimiento | | envidia | | 
-puede convertir el amor en odio (177:4.11)
-imaginación creativa inhibida por (111:4.9)
-Judas víctima de (139:12.9)
-superar resentimiento discerniendo el punto de vista de los demás (100:4.4)
+resentimiento | | envidia | | OK
+El resentimiento subconsciente de Judas hacia Jesús, arraigado en las heridas no sanadas de la desilusión y la amargura, acabó convirtiendo su amor en odio. (177:4.11)
+La imaginación creativa inhibida por el resentimiento sofoca el potencial de creatividad constructiva y espontánea en los individuos. (111:4.9)
+Judas se convirtió cada vez más en víctima del resentimiento, cavilando sobre la desilusión personal y sospechando cada vez más de sus amigos, llegando incluso a traicionar a su Maestro. (139:12.9)
+Descubra los verdaderos valores de la vida amando a Dios y comprendiendo y discerniendo con simpatía los puntos de vista de los demás para superar el resentimiento y fomentar la tolerancia, la amistad y, en última instancia, el amor. (100:4.4)
 
-cuerpo de reserva | | | PERSON | 
-70 divisiones en Uversa (30:3.10)
-no están inactivos (39:3.11)
+cuerpo de reserva | | | PERSON | OK
+Setenta divisiones en Uversa componen el vasto cuerpo de reserva de seres que no están bajo nuestra supervisión inmediata. (30:3.10)
+El cuerpo de reserva de serafines angélicos no está inactivo, ya que desempeña diversas funciones importantes dentro de las constelaciones y en misiones especiales. (39:3.11)
 órdenes que poseen
-	Hijos Lanonandek (35:8.14) (35:9.3)
-	Seconafines (28:4.14)
-	Serafines (39:1.18) (39:2.17-18) (39:3.11) (39:4.17-18) (39:5.17) (39:6.1)
-	Supernafines (26:3.10)
-	Hijos abrazados por la Trinidad (22:3.2) (22:6.3)
-	Hijos Instructores Trinitarios (19:1.3)
+	* Hijos Lanonandek. En Edentia, 800.000 Hijos Lanonandek sirven como Cuerpo de Reserva, de donde el consejo supremo ubicado en la sede de la constelación elige a los sustitutos de los Soberanos del Sistema convocados o de los asistentes. (35:8.14) (35:9.3)
+	* Seconafines. Los seconafines del Cuerpo de Reserva son seres versátiles listos para realizar una amplia gama de deberes generales en el superuniverso. (28:4.14)
+	* Serafines. El cuerpo general de reserva de serafines no adscritos desempeña funciones autodirigidas en esferas arquitectónicas y planetas habitados. (39:1.18) (39:2.17-18) (39:3.11) (39:4.17-18) (39:5.17) (39:6.1)
+	* supernafines. El Cuerpo de Reserva de supernafines es esencial para mantener el equilibrio en el trabajo celestial de Havona. (26:3.10)
+	* Hijos abrazados por la Trinidad. El cuerpo de reserva de Hijos abrazados por la Trinidad en Uversa sirve como el cuerpo directivo central para su orden en Orvonton, participando en una amplia gama de deberes importantes y diversos dentro del superuniverso. (22:3.2) (22:6.3)
+	* Hijos Instructores Trinitarios. El cuerpo de reserva de Hijos Instructores de la Trinidad del Paraíso sirve en todo el gran universo, incluyendo en planetas individuales, en los universos locales y en los mundos de Havona. (19:1.3)
 
-cuerpo de reserva del destino | (114:7) | reservistas | ORDER | 
-12 cuerpos, uno para cada grupo de supervisión seráfica (114:7.7)
-la función principal es asegurar contra la ruptura del progreso (114:6.20)
-constaba de 962 personas en 1934 (114:7.8,13)
-cuerpo de reserva cósmico de ciudadanos conscientes del universo (114:7.13)
-consejos permanentes (114:7.11)
+cuerpo de reserva del destino | (114:7) | reservistas | ORDER | OK
+La división de servicio celestial de cada planeta cuenta con el apoyo de un cuerpo de enlace correspondiente del cuerpo de reserva del destino, y Urantia se beneficia de doce de esos cuerpos alineados con sus grupos de supervisión seráfica. (114:7.7)
+La función principal del cuerpo de reserva del destino es asegurar contra el fracaso del progreso. (114:6.20)
+El cuerpo de reserva del destino, que constaba de 962 mortales en 1934, es un grupo preparado de habitantes de Urantia, entrenados para desempeñar funciones cruciales en emergencias planetarias, y cuyos miembros desconocen su posible participación. (114:7.8,13)
+El cuerpo de reserva cósmico de ciudadanos conscientes del universo en Urantia supera los 1.000 mortales con una percepción de ciudadanía cósmica más allá de la Tierra. (114:7.13)
+El cuerpo de reserva del destino en Urantia está gobernado por sus propios consejos permanentes, que incluyen el consejo judicial, el consejo de historicidad y el consejo de soberanía política, que nombran a líderes mortales para funciones específicas por un período limitado. (114:7.11)
 
-reservistas | (114:7) | personalidades de contacto; cuerpo de reserva del destino | ORDER | 
-realizar alguna tarea específica, generalmente en unas pocas horas (114:7.11)
+reservistas | (114:7) | personalidades de contacto; cuerpo de reserva del destino | ORDER | OK
+Los jefes de los reservistas de Urantia pueden ser designados por consejos permanentes para tareas específicas, que normalmente duran sólo unas pocas horas. (114:7.11)
+962 reservistas del destino de Urantia, elegidos por sus respectivos cuerpos y entrenados por seres celestiales, están preparados para posibles emergencias planetarias, y sólo 20 personalidades de contacto conocen sus funciones. (114:7.8)
+El cuerpo de reserva cósmica de ciudadanos conscientes del universo en Urantia, que cuenta con más de mil mortales, posee una visión de la ciudadanía cósmica más allá de los límites terrestres; su función única permanece sin revelar. (114:7.13)
+Los reservistas son los guardianes del destino y disfrutan del ministerio y la vigilancia continuos de los serafines personales una vez que se inscriben en el cuerpo de reserva del destino. (113:1.5) (114:7.2)
+Los reservistas, mediante el contacto con los Ajustadores del Pensamiento y los seres intermedios, funcionan en raras emergencias para evitar el colapso de la cultura o la extinción de la verdad en los mundos evolutivos. (114:7.9)
+El cuerpo de reserva del destino está compuesto por hombres y mujeres vivos alistados para la administración sobrehumana de los asuntos mundiales, con el fin de ayudar al ministerio de misericordia y sabiduría para la humanidad. (114:7.1)
+Los reservistas son elegidos como protectores del destino planetario, confirmados por el jefe planetario de los serafines, y designados guardianes personales del destino mientras funcionan en círculos cósmicos superiores. (114:7.2)
+Los reservistas mortales de los doce grupos del destino de Urantia, que consisten en 962 personas, son entrenados en la mente profunda por el Ajustador y el ministerio seráfico para emergencias planetarias. (114:7.8)
+Los guardianes de contacto del cuerpo de reserva del destino de Urantia, como los seres intermedios rebeldes anteriores a Cristo Miguel, influyen en las mentes de los mortales y controlan sus acciones mediante asociaciones de enlace personal no percibidas. (77:7.5) (77:8.13)
+Mediante la hábil penetración en las mentes de los mortales que moran en ellas, los miembros del cuerpo de reserva hacen avanzar la civilización espiritual y permiten que los Altísimos gobiernen, pero rara vez son reconocidos en la historia humana. (114:7.9)
+Seleccionados por su capacidad inherente y su dedicación incondicional, los reservistas sirven sin el reconocimiento humano. (114:7.5)
+Los reservistas, sin saberlo, salvaguardan el conocimiento planetario crucial, transmitiéndolo a sucesores más jóvenes a través de los Ajustadores del Pensamiento. (114:7.10)
 Ajustadores de reservistas
-	son de extraordinaria versatilidad y experiencia (114:7.6)
-	son autoactivos (109:2.5) (114:7.2)
-	la súplica de un Ajustador (110:7.10)
-	a veces transmite mensajes durante el establecimiento y la ruptura de contactos con reservistas (110:7.10)
-	utilizado para la comunicación interplanetaria en mundos en cuarentena (108:4.4)
-Aparte de las 20 personalidades de contacto, todas son inconscientes de su preparación (114:7.8)
-cuerpo de reserva cósmico de ciudadanos conscientes del universo (114:7.13)
-tener guardianes del destino (113:1.5) (114:7.2)
-en raras emergencias, función para prevenir la ruptura de la cultura o la extinción de la verdad (114:7.9)
-hombres y mujeres vivos admitidos al servicio especial de la administración sobrehumana (114:7.1)
-individuos fundamentales en planes que los administradores mundiales están procesando (114:7.2)
-ensayado para actuar en crisis en la mente profunda por el Ajustador, ministerio seráfico (114:7.8)
-los intermedios secundarios son guardianes de contacto (77:7.5) (77:8.13)
-raras veces blasonado en páginas de historia (114:7.9)
-seleccionados por su capacidad inherente, dedicación incondicional, voluntad de servir sin reconocimiento humano (114:7.5)
-conservadores inconscientes de la información planetaria esencial (114:7.10)
+	Los reservistas son como poseer un Ajustador del Pensamiento de extraordinaria versatilidad y experiencia en la navegación por los desafíos planetarios y las emergencias mundiales. (114:7.6)
+	Los reservistas con Ajustadores que actúan por sí mismos sirven como individuos fundamentales en los planes del destino planetario. (109:2.5) (114:7.2)
+	Mediante una sentida súplica pronunciada por un Ajustador, se instó a un reservista del destino a cooperar fielmente, soportar, llevar a cabo, persistir, recorrer alegremente el sendero, recibir humildemente el crédito, exhortarlo a sobrevivir y, finalmente, someter todo a los tribunales de los Ancianos de los Días. (110:7.10)
+	Durante el establecimiento y la ruptura de contactos con los reservistas, a veces los Ajustadores residentes transmiten mensajes en una súplica de cooperación sincera y perseverancia fiel. (110:7.10)
+	Los reservistas son utilizados para la comunicación interplanetaria en mundos en cuarentena para sortear los obstáculos del aislamiento planetario. (108:4.4)
 
-gobernadores generales residentes | (114:3) | | PERSON | 
-1-2-3 el primero ha servido como de Urantia (77:9.5)
-Términos de 100 años (114:3.1)
-gabinete administrativo (114:5.6) (114:6.2)
-director ejecutivo asesor (114:5.1)
-gobernadores de mundos en cuarentena sin Príncipes Planetarios (45:2.4)
-emitir decenas de fallos cada día (114:3.3)
-líder de los seres celestiales que funcionan en Urantia (114:3.2)
-Maquiventa Melquisedek presente de manera invisible durante 100 años como (93:10.10)
-representante de 24 consejeros (45:4.16) (114:3.2)
-resuelve problemas por consentimiento mutuo (114:5.2)
-Los Serafines y los intermedios ejecutan mandatos de (114:0.2)
-El soberano del sistema preside el consejo de (45:2.4)
-Vevona adjunto al personal de (39:5.5)
+gobernadores generales residentes | (114:3) | | PERSON | OK
+El primer gobernador general residente, el mayor de la orden primaria, 1-2-3 el Primero, sirvió como el intrépido líder de Urantia durante la rebelión planetaria y ahora se sienta en Jerusem como consejero. (77:9.5)
+Cada 100 años, un miembro del cuerpo de Jerusem es elegido para servir como gobernador general residente en la Tierra. (114:3.1)
+Los doce serafines, jefes en funciones de grupos especiales de ángeles, forman el gabinete administrativo del gobernador general residente. (114:5.6) (114:6.2)
+El director ejecutivo asesor de Urantia es el gobernador general residente con poder de veto, que supervisa un gobierno sin departamentos formales. (114:5.1)
+Lanaforge, el gobernador general residente de los mundos aislados de Satania sin Príncipes Planetarios, muestra un profundo interés en su bienestar y hace visitas regulares a Urantia. (45:2.4)
+El gobernador general residente actúa como consejero paternal, emitiendo diariamente numerosas resoluciones finales, con un papel similar al de un Príncipe Planetario pero parecido al de los Hijos Materiales. (114:3.3)
+El gobernador general residente es el respetado jefe y líder de los seres celestiales en Urantia, coordinando la administración sobrehumana como representante de los veinticuatro consejeros de Jerusem. (114:3.2)
+Maquiventa Melquisedec actúa como gobernador general residente en Urantia durante 100 años, y regresa al cabo de mil años si el sistema permanece. (93:10.10)
+Los gobernadores generales residentes en Urantia son representantes de los 24 consejeros y sirven como coordinadores de la administración sobrehumana, líderes respetados de los seres celestiales y padres planetarios de los Seres Intermedios Unidos. (45:4.16) (114:3.2)
+Los gobernadores generales residentes resuelven los problemas por consentimiento mutuo, y sus resoluciones están sujetas a apelación ante diversas autoridades. (114:5.2)
+Al mediodía de hoy, 1.194.393.600 ángeles individuales, entre los que se incluyen querubines y serafines, ejecutan mandatos de serafines y seres intermedios como parte de los gobernadores generales residentes. (114:0.2)
+El Soberano del Sistema preside el consejo de gobernadores generales residentes en los mundos aislados de Satania, mostrando gran interés en su bienestar. (45:2.4)
+Vevona, jefe de las almas de paz en los días de Adán, está ahora asignado al personal del gobernador general residente. (39:5.5)
 
-resistencia | | dificultades; no resistencia | | 
-La especialización del trabajo surgió al seguir el camino de la resistencia disminuida (69:2.3)
-dar el primer paso a lo largo del camino mínimo (184:2.12)
+resistencia | | dificultades; no resistencia | | OK
+El hombre primitivo reconoció rápidamente los beneficios de la asociación, que conducían a la organización y la división del trabajo mediante la adaptación a la presión y la búsqueda de caminos de menor resistencia. (69:2.3)
+Tras haber dado el primer paso por el camino de menor resistencia, Pedro no vio otra alternativa que continuar por el camino que había decidido. (184:2.12)
 
-resoluciones | | juramentos; promesas | | 
-los débiles se entregan a resoluciones; el acto fuerte (48:7.13)
+resoluciones | | juramentos; promesas | | OK
+El acto es nuestro; las resoluciones son para los débiles, la acción es para los fuertes. (48:7.13)
 
-respeto | | respeto por uno mismo | | 
-mostrar siempre respeto para la personalidad del hombre (159:3.2)
-la educación aumenta respeto para conocer la experiencia y las opiniones de los demás (25:3.12)
-para los superiores un mandato divino (107:3.4)
-Hap enseñó a respeto para los ancianos, propiedad de otros (66:5.15)
-los seres espirituales superiores no menosprecian a los inferiores (25:1.1)
-Jesús desaprobó las demostraciones externas de (157:4.3)
-Jesús tenía un profundo respeto por cada persona que conoció (138:8.9)
+respeto | | respeto por uno mismo | | OK
+Siempre mostrad respeto por la personalidad del hombre; las victorias espirituales se obtienen únicamente por el poder espiritual, no por la fuerza ni la coerción. (159:3.2)
+La educación transforma a los conciliadores en intérpretes de los misterios, evolucionando de árbitros a maestros que respetan la experiencia y las opiniones de los demás. (25:3.12)
+Mostrad el debido respeto a los superiores, un mandato divino. (107:3.4)
+Hap enseñó el respeto por los mayores y la propiedad de los demás, mientras procuramos honrar a los maestros divinos y defender la verdad con pastos verdes y rebaños fructíferos. (66:5.15)
+Todo servicio es sagrado y estimulante; los seres espirituales superiores no desprecian a los siervos inferiores. (25:1.1)
+Jesús desaprobó las muestras externas de respeto que los doce mostraron inicialmente en el jardín al mediodía. (157:4.3)
+Jesús demostró constantemente un profundo respeto por cada persona con la que se encontró, dejando una impresión duradera en sus discípulos. (138:8.9)
 
-respiración | | mortales:tipos planetarios | | 
-los morontianos respiran una mezcla de 3 gases (43:1.3) (46:2.2-3)
+respiración | | mortales:tipos planetarios | | OK
+Edentia y sus mundos asociados tienen una atmósfera verdadera, una mezcla de tres gases adecuada tanto para las formas de vida materiales como para las morontiales. (43:1.3) (46:2.2-3)
 
-responsabilidad | | deber; confiar | | 
-colocando responsabilidad prematura desastre de los tribunales (28:6.15)
-el poder de elección es el supremo cósmico del hombre (112:5.5)
+responsabilidad | | deber; confiar | | OK
+Asignar responsabilidades prematuramente es una invitación al desastre, pero con la guía de los seconafines, se puede determinar con precisión la capacidad de confiar para evitar decepciones y asegurar un desarrollo armonioso. (28:6.15)
+La suprema responsabilidad cósmica del hombre reside en el poder de elección, la insignia del universo de la condición de criatura con libre albedrío, que configura el destino eterno y la realización de un nuevo hijo ascendente. (112:5.5)
 
-descanso | | facilidad; recreación; relajación | | 
-Hay 7 tipos:sueño, juego, descubrimiento, adoración, ingesta de energía, sueño de transición y logro del Paraíso (27:1.2)
-siempre hay tiempo para (25:7.2)
-todos los seres celestiales disfrutan (84:8.5)
-descanso divino
-	asociado con la ingesta de energía espiritual (44:5.8)
-	esencial para disfrutar del Paraíso (27:1.1)
-	esencial para reponer las pérdidas de energía; para el uso eficaz de las energías espaciales (44:5.8-10)
-	aquellos que entren en el reino disfrutarán (137:8.14)
-de reminiscencias de experiencias anteriores (48:4.10,12)
-Jesús estableció la fiesta de mitad de semana para (138:6.2)
-provisión para el descanso sobre los mundos morontiales (44:3.4)
-Los Serafines se recargan con la energía vital de los circuitos del universo (113:2.10)
-cambio de pensamiento útil para recuperar energías agotadas (48:4.9-10)
+descanso | | facilidad; recreación; relajación | | OK
+El descanso abarca el sueño, el juego, el descubrimiento, la adoración, la ingesta de energía, el sueño de transición y el logro del Paraíso, manifestándose en diversas formas a lo largo de diferentes órdenes de vida y estados de existencia. (27:1.2)
+Siempre hay tiempo para el descanso y la adoración, incluso en medio de tareas serias y progreso espiritual. (25:7.2)
+Los directores de reversión nos guían para recordar experiencias anteriores, lo que proporciona un escape reparador de los esfuerzos del logro actual y permite la contemplación despreocupada del pasado. (48:4.10,12)
+Jesús estableció un día festivo a mitad de semana para el descanso y la recreación, que sus discípulos siguieron durante toda su vida material. (138:6.2)
+Los seres reclutados que ayudan en el cambio de pensamiento y el descanso mental para recuperar energías agotadas se conocen como directores de reversión. (48:4.9-10)
 descanso de transición
-	1º fue la muerte; El segundo fue el sueño ideal; La tercera es verdadera descanso, Relajación de las edades (26:11.8)
-	El personal corpóreo de los príncipes entra en transición descanso cuando se completa el servicio (50:3.6)
-	descanso seráfico durante el transporte seráfico (39:2.11) (66:2.7)
-	sueño asistiendo a la transición desde el estado del universo (27:1)
-	descanso terminal del tiempo alcanzado antes del estatus de residencia en Paraíso; repone las pérdidas de energía y almacena reservas de espíritu para la siguiente etapa (24:6.3) (26:7.4) (26:10.6) (26:11.6) (27:1.1,3) (44:5.9)
-	tránsito a través del espacio medio hacia el Paraíso (12:5.4)
-	traslado del sueño de los progresores morontiales (47:3.10)
+	Su primera transición fue en verdad la muerte, la segunda un sueño ideal, y ahora la tercera metamorfosis es el verdadero descanso, la relajación de las eras. (26:11.8)
+	Después de completar su servicio, el séquito corpóreo de los príncipes entra en un descanso de transición antes de regresar a la sede del sistema para su carrera en el Paraíso. (50:3.6)
+	Durante el transporte seráfico, hay un estado sereno y de descanso donde la inconsciencia permite que se lleve a cabo el trabajo transformador. (39:2.11) (66:2.7)
+	El sueño metamórfico final acompaña a la transición del estado universal a la eternidad, guiada por los instigadores del descanso divino. (27:1)
+	El descanso terminal antes del estado residencial en el Paraíso repone las pérdidas de energía y las reservas de espíritu para la siguiente etapa del viaje eterno guiado por los Guías de los Graduados. (24:6.3) (26:7.4) (26:10.6) (26:11.6) (27:1.1,3) (44:5.9)
+	Moverse a través del espacio intermedio hacia el Paraíso requiere una transición del tiempo a la eternidad, lo que resulta en la inconsciencia para los peregrinos del Paraíso que buscan la ciudadanía. (12:5.4)
+	El sueño de traslación en los mundos de estancia facilita el progreso de los progresistas morontiales, ya que se trasladan de un mundo a otro cada diez días hasta llegar a su asignación designada. (47:3.10)
+Descanso divino
+	Todos los seres celestiales que avanzan disfrutan de una sana diversión, juegos edificantes, un sueño reparador y el ministerio de los directores de reversión. (84:8.5)
+	El descanso en los mundos morontiales incluye la provisión de recreación y juego, con enormes edificios utilizados para las estaciones de descanso y entornos adecuados para los directores de reversión y los humoristas. (44:3.4)
+	Los guardianes son relevados por sus complementos para descansar y recargarse, durante los cuales el querubín asociado sirve como registrador en su ausencia. (113:2.10)
+	El descanso en el mundo espiritual es esencial para la reposición de la energía morontial y espiritual, asociada con la ingesta de energía espiritual. (44:5.8)
+	El descanso, esencial para el disfrute del Paraíso, está orquestado por los instigadores que colaboran con sus colegas para preparar a los peregrinos para la eternidad. (27:1.1)
+	El descanso divino es esencial para reponer las pérdidas de energía y para utilizar eficazmente las energías del espacio. (44:5.8-10)
+	Aquellos que entren en el reino disfrutarán del descanso divino y recibirán abundante alegría y progreso espiritual en este mundo y en la era venidera. (137:8.14)
 
 resurrección | | vida eterna; Jesús:acontecimientos de la vida; épocas planetarias; salas de resurrección; supervivientes dormidos; supervivencia (de la muerte mortal) | | 
 tercer día después de la muerte para los mortales con guardianes seráficos personales (30:4.11) (49:6.8-9) (112:4.2-12)
@@ -1308,108 +1309,109 @@ resurrecciones especiales
 	en el momento de la llegada de Adán (76:6.2)
 	de supervivientes dormidos ocurren al menos cada milenio del tiempo planetario (49:6.2)
 
-salas de resurrección | | resurrección | PLACE | 
-las cámaras de ensamblaje de vida proporcionan una relación de energía universal que reconscientiza a los sobrevivientes dormidos (112:5.16-19)
-encuentro de guardianes seráficos, Ajustadores, Portadores de Vida y Arcángeles de la resurrección (47:3.2)
-asamblea del templo de la personalidad en el primer mundo de las mansiones (47:3.2,5)
+salas de resurrección | | resurrección | PLACE | OK
+Las salas de resurrección en los planetas receptores morontiales de un universo local facilitan la recuperación de la conciencia y la repersonalización de los supervivientes durmientes mediante un proceso complejo que implica la fabricación de un patrón de energía morontial, el regreso del Ajustador y la concesión de una entidad morontial a la forma mente-cuerpo que aguarda. (112:5.16-19)
+La sala de resurrección es un punto de encuentro central para los guardianes seráficos, los Ajustadores, los Portadores de Vida y los Arcángeles de la resurrección en el primer mundo de estancia. (47:3.2)
+El eje central del primer mundo de estancia es la sala de resurrección, un vasto templo para la reunión de personalidades, donde los seres celestiales colaboran en el despertar y el reencuentro de los muertos desde siete alas dedicadas a cada raza. (47:3.2,5)
 
 represalias | | venganza | | OK
 
-jubilación | | | | 
-a los 65 años en la nación continental (72:6.1-2) (72:9.4)
-financiación de las pensiones en la nación continental (72:6)
+jubilación | | | | OK
+A los 65 años, en la principal nación continental de un planeta habitado cercano, las personas deben retirarse de toda actividad lucrativa a menos que obtengan un permiso del comisionado laboral del estado. (72:6.1-2) (72:9.4)
+La nación continental del planeta habitado cercano garantiza garantías dignas de seguridad gubernamental en la vejez financiando pensiones a través de ingresos, legados, trabajo forzado y recursos naturales. (72:6)
 
-movimiento retrógrado | | | | 
-siempre resultado de cuerpos extraños en el espacio (57:5.14)
-de Venus y Urano prueba que fueron originalmente satélites de Angona (57:5.13-14)
+movimiento retrógrado | | | | OK
+El movimiento retrógrado en cualquier sistema astronómico es siempre accidental y resulta de la intrusión de cuerpos espaciales extraños. (57:5.14)
+El movimiento retrógrado de Venus y Urano sugiere que originalmente eran satélites de Angona, influenciados por colisiones con cuerpos espaciales extraños. (57:5.13-14)
 
 revelación | | religión; Documentos de Urantia | | OK
-las épocas de grandes pruebas y de derrotas amenazantes siempre son períodos de gran revelación. (195:9.3)
-Siempre es difícil inducir a la mente evolutiva a que acepte repentinamente una verdad revelada avanzada. (92:6.19)
-la garantía de la revelación está basado en la fe y en la experiencia en revelación (101:2.1,8) (101:5.12-13)
-la religión revelada está preocupada por las realidades eternas, la supervivencia de la personalidad, y el logro de la Deidad (101:5.4)
-La ciencia, el conocimiento, conduce a la conciencia de los hechos; la religión, la experiencia, conduce a la conciencia de los valores; la filosofía, la sabiduría, conduce a la conciencia coordinada; la revelación, la sustituta de la mota morontial, conduce a la conciencia de la verdadera realidad (102:3.5-15)
-Los Consejeros Divinos son la fuente más alta de revelación sobre los mundos evolutivos (1:7.9)
-La religión evolutiva crea sus dioses a imagen y semejanza del hombre mortal; la religión revelada intenta que el hombre mortal evolucione y se transforme a imagen y semejanza de Dios. (85:6.3)
-Dios se revela a sí mismo en la medida de lo divinamente posible (32:4.7)
-La raza humana buscó muy pronto la ayuda sobrehumana, la revelación, y los hombres creían que los chamanes recibían realmente estas revelaciones. (90:2.1)
-El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada. (92:7.2)
-el Padre no limita la revelación de la verdad a una generación concreta ni a un pueblo determinado (159:4.6)
-No debemos desanimarnos; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará. (196:3.33)
-solo la religión revelada es espiritualmente moral (2:6.2)
-El personal del Príncipe originalmente buscaba la progresión a través de la evolución y no la revolución por medio de la revelación (66:6.6)
-el progreso depende de la fe y revelación (19:5.12)
-La religión revelada es presentada por el verdadero mundo espiritual; es la respuesta del cosmos superintelectual a la sed que tienen los mortales de creer y confiar en las Deidades universales. (92:4.3) (101:4.3)
-La verdad eterna no debería ser despreciada porque se la encuentre por casualidad en compañía de ideas obsoletas sobre el mundo material. (101:4.1) (102:1.3)
-a veces error tan grande que la rectificación por revelación sería fatal para las verdades que emergen lentamente (48:6.32)
-sin ayuda celestial, la sociedad se derrumba (68:3.4-5)
+A pesar de los desafíos que ha enfrentado a lo largo de la historia, las enseñanzas de Jesús han perseverado y continúan revelando verdades profundas en tiempos de adversidad. (195:9.3)
+Es difícil inducir a las mentes evolutivas a que acepten de repente la verdad revelada avanzada, como se vio en la lucha de los seguidores de Mahoma por comprender la doctrina de la Trinidad, influenciados por las enseñanzas judías y cristianas que dieron forma al Islam como un conectivo religioso-cultural monoteísta del norte de África, el Levante y el sudeste asiático. (92:6.19)
+La revelación, validada únicamente por la experiencia humana, sintetiza la ciencia y la teología en una filosofía del universo coherente y lógica, creando una armonía que responde a los interrogantes de la mente mortal. (101:2.1,8) (101:5.12-13)
+La religión revelada proporciona seguridad en la conservación de las realidades eternas, la supervivencia de la personalidad y el logro de la Deidad, expandiendo la dimensión espiritual de la religión evolutiva. (101:5.4)
+El conocimiento, la sabiduría, la experiencia y la revelación juntos conducen a una verdadera conciencia de la realidad de la personalidad y de la posibilidad de supervivencia, destacando la unidad de la Deidad, el Absoluto y la personalidad espiritual de Dios. (102:3.5-15)
+Un Consejero Divino, con autoridad incuestionable, describe la realidad y la verdad de la naturaleza y los atributos del Padre como la fuente más elevada de revelación en los mundos evolutivos. (1:7.9)
+La revelación tiene como objetivo transformar al hombre mortal a semejanza de Dios, diferenciándose de la religión evolutiva que crea dioses a imagen del hombre mortal. (85:6.3)
+Dios se revela a sí mismo en la medida divinamente posible a través de los Ajustadores que moran en el interior como uno de sus modos separados pero unificados de contacto con su creación. (32:4.7)
+La raza humana primitiva buscó ayuda sobrehumana y creyó en las revelaciones chamánicas, con su precisa conjuración espiritual comparable a los rituales eclesiásticos actuales. (90:2.1)
+Las nuevas religiones surgen o se revelan repentinamente, como se ve en la fusión de las antiguas creencias con el sijismo, que surgió del hinduismo, el budismo, el islam y otros cultos, donde surgió por primera vez el egoísmo teológico autocrático e intolerante. (92:7.2)
+La revelación de la verdad por parte del Padre trasciende generaciones y pueblos, y resiste las malas interpretaciones y confusiones perpetuadas por individuos atados a la tradición. (159:4.6)
+No os desaniméis; la evolución humana todavía está en marcha, y la revelación de Dios al mundo, en Jesús y por medio de él, no fracasará. (196:3.33)
+La religión revelada eleva la moralidad a un nivel espiritualmente íntimo, donde Dios es visto a través de la lente de un vínculo amoroso entre padre e hijo. (2:6.2)
+Los maestros de Dalamatia buscaban la progresión por medio de la evolución, no la revolución por medio de la revelación, mejorando la sociedad humana mediante la selección social consciente. (66:6.6)
+El progreso depende de la fe y de las revelaciones para los mortales que recién comienzan su viaje eterno. (19:5.12)
+La religión revelada es la respuesta del cosmos superintelectual al hambre de los mortales por las Deidades universales, mientras que la religión evolutiva es la reacción sentimental del hombre al temor a lo desconocido. (92:4.3) (101:4.3)
+La impartición de conocimiento cosmológico prematuro en la religión revelada ha causado problemas y nos ha obstaculizado, ya que la verdad eterna a menudo se mezcla con ideas transitorias acerca del mundo físico. (101:4.1) (102:1.3)
+La cadena de registradores, desde los custodios más bajos hasta los más altos, contiene las verdades que emergen lentamente y que deben regarse y dejarse crecer, ya que a veces el error es demasiado grande para que la revelación lo rectifique sin perjudicar el progreso. (48:6.32)
+La sociedad se desmorona sin la ayuda celestial, ya que el hambre, el amor, la vanidad y el miedo por sí solos no pueden sostener la tensión de las relaciones humanas y pueden conducir a la guerra y al derramamiento de sangre. (68:3.4-5)
 las bondades de la revelación
-	la religión revelada es excelente a la vez que auténtica. (100:6.8-9)
-	Todo conocimiento finito y toda comprensión por parte de las criaturas son relativos. La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos. (2:7.1)
-función de revelación
-	afirma que la Primera Causa de la ciencia y el Dios de salvación de la religión son la misma Deidad (4:4.7) (101:2.7) (103:7.8)
-	Las religiones de la revelación atraen a los hombres hacia la búsqueda de un Dios de amor porque anhelan volverse semejantes a él. (5:4.1)
-	la revelación trajo la idea de la personalidad de Dios (1:5.10-11)
-	La revelación viene a compensar la fragilidad de la filosofía en evolución. (103:8.6)
-	las religiones personalmente reveladas se ocupan especialemnte de la expansión de la verdad (101:5.11)
-	La revelación religiosa es esencial para llevar a cabo la fraternidad en Urantia. (52:6.2)
-	La prueba de que la revelación es revelación consiste en que contesta al interrogante de qué manera Dios pone en práctica su voluntad (101:2.1)
-	la revelación armoniza los enfoques parciales de la realidad (99:4.13)
-	la ciencia conduce hacia una Causa Primera, la fe la trasforma en un Dios de salvación; y la revelación se necesita además para validar esta fe, esta perspicacia espiritual. (101:2.3) (103:7.1)
-	La revelación es la única técnica que puede compensar, en un mundo material, la ausencia de la sensibilidad de la mota a la verdad. (4:2.7) (101:2.2,8) (102:3.5) (103:6.8,12-13)
-	la revelación presenta unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas, para mantenerse siempre en contacto con la evolución (92:4.1)
-	la revelación describe la fraternidad eterna; tiende a hacer al hombre semejante a Dios. (102:3.8,14)
-	presenta datos cósmicos para iluminar las enseñanzas espirituales (101:4.10)
-	las revelaciones periódicas de la verdad se intercalan en el curso, por otra parte lento, de la evolución planetaria. (103:0.2)
-	reconoce las exigencias del deber de las obligaciones éticas que han sido creadas y fomentadas por la religión evolutiva anterior. (101:5) (101:9.1)
-	La revelación es una técnica que permite ahorrar grandes períodos de tiempo en el trabajo necesario de clasificar y separar los errores de la evolución de las verdades conseguidas por medio del espíritu. (92:3.10) (92:4.1) (101:5.1)
-	sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión, creando así una armonía mental y una satisfacción espiritual (101:2.1-2,10)
-	las revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos (101:4.5-10)
-	unifica historia, geología, astronomía, física, química, biología, sociología y psicología (102:4.6)
+	La religión evolutiva es leal y grandiosa, pero la religión reveladora es excelente y genuina, y fomenta nuevos niveles de amor y devoción, y una conciencia acrecentada de la Paternidad de Dios y la hermandad del hombre. (100:6.8-9)
+	El conocimiento y la comprensión finitos son relativos; la información y la inteligencia, incluso las provenientes de fuentes elevadas, son sólo relativamente completas, localmente exactas y personalmente verdaderas. (2:7.1)
+	función de revelación
+	La revelación afirma que la Primera Causa de la ciencia y el Dios de salvación de la religión son la misma Deidad, reconciliando los conceptos de filosofía, ciencia y religión en una comprensión cohesiva de las relaciones cósmicas y los valores espirituales. (4:4.7) (101:2.7) (103:7.8)
+	Las religiones de la evolución impulsan a los hombres al temor, mientras que las religiones de la revelación los inspiran a buscar un Dios amoroso para emularlo, enfatizando que la religión implica servir activamente a la humanidad. (5:4.1)
+	La revelación es la clave para comprender la personalidad de Dios, que es la verdadera medida de la madurez religiosa. (1:5.10-11)
+	Una filosofía equilibrada, que reconoce la realidad de la personalidad, sirve como un puente entre la ciencia material y la religión espiritual, y la revelación compensa las debilidades de la filosofía en evolución. (103:8.6)
+	Las religiones reveladas personalmente patrocinadas por los espíritus de donación que representan a las tres personas de la Trinidad del Paraíso priorizan la expansión de la verdad y enfatizan la regla de oro del amor. (101:5.11)
+	La revelación religiosa es esencial para la realización de la hermandad en Urantia, ya que lograr la hermandad mundial en un planeta como Urantia requiere mucho tiempo, esfuerzo y transformación espiritual. (52:6.2)
+	La coherencia y el significado de la revelación residen en su capacidad de responder a la manera en que Dios lleva a cabo su voluntad, sintetizando las ciencias de la naturaleza y la teología en una filosofía lógica del universo que satisface la mente y el espíritu humanos. (101:2.1)
+	La revelación armoniza la religión, la filosofía y la cosmología para representar la existencia trina de espíritu, mente y energía desde la Trinidad del Paraíso hasta la Deidad del Supremo. (99:4.13)
+	La ciencia conduce a una Primera Causa, pero es la fe religiosa la que la transforma en un Dios de salvación, y la revelación es esencial para validar esta fe y la percepción espiritual. (101:2.3) (103:7.1)
+	La revelación compensa la ausencia de sensibilidad morontial, aclarando la confusión de la razón y salvando el abismo entre la ciencia, la religión, la filosofía y la verdadera realidad. (4:2.7) (101:2.2,8) (102:3.5) (103:6.8,12-13)
+	La revelación es progresiva, siempre en contacto con la evolución y conduce a las religiones a nuevas alturas al mantenerse relevante para la era en la que se presentan. (92:4.1)
+	La revelación retrata la hermandad eterna, haciendo al hombre semejante a Dios, mientras que la ciencia, la religión y la filosofía se esfuerzan por lograr diversas formas de hermandad. (102:3.8,14)
+	Presenta los datos cósmicos de tal manera que iluminan las enseñanzas espirituales contenidas en la revelación que los acompaña. (101:4.10)
+	Las tendencias religiosas innatas se manifiestan universalmente en las razas humanas, con un origen natural, a medida que evolucionan las religiones primitivas, puntuadas por revelaciones periódicas de la verdad durante la evolución planetaria. (103:0.2)
+	La revelación ahorra tiempo al separar los errores de las verdades adquiridas a través de la evolución, uniendo hechos y valores para llegar a la realidad completa, expandiendo el deber ético de la religión evolutiva y proporcionando seguridad de realidades eternas mediante una actitud espiritual. (101:5) (101:9.1)
+	La revelación refina y ennoblece la herencia de la religión evolutiva mediante la censura continua, la expansión progresiva y el mantenerse en contacto con la capacidad del hombre para la receptividad. (92:3.10) (92:4.1) (101:5.1)
+	La religión es la experiencia científica y psicológica de los seres humanos racionales, y la revelación tiende un puente entre la ciencia y la teología, creando armonía entre los mundos material y espiritual. (101:2.1-2,10)
+	Las revelaciones, que son invariablemente un fenómeno espiritual, son de inmenso valor para aclarar transitoriamente el conocimiento al reducir la confusión, coordinar hechos, restaurar el conocimiento perdido, llenar lagunas e iluminar las enseñanzas espirituales. (101:4.5-10)
+	La religión revelada unifica la historia, la geología, la astronomía, la física, la química, la biología, la sociología y la psicología, y actúa como elemento unificador de la existencia humana. (102:4.6)
 limitaciones de la revelación
-	el idioma en el que se efectúa la revelación representa una limitación (0:0.1-4)
-	El aislamiento de Urantia hace que resulte imposible intentar presentar muchos detalles sobre la vida y el entorno de nuestros vecinos de Satania. (50:6.1)
-	Las leyes de la revelación prohíben comunicar conocimientos inmerecidos o prematuros. (101:4)
-	la revelación de la verdad está muy rigurosamente limitada por las instrucciones de los superiores de los reveladores. No tienen libertad para anticipar los descubrimientos científicos que se producirán en mil años. (112:5.11)
-	la revelación puede verse limitada por numerosas restricciones (119:6.3)
-	a veces las deformaciones del lenguaje representan los mejores esfuerzos por llegar a un compromiso de contacto con las mentes humanas (6:0.2,4)
-	la limitaciones son impuestas por mandato (119:0.1,7) (119:6.3)
-	la revelación debe someterse a un control gradual de la evolución (89:9.3) (92:4.1)
-	Una nueva revelación siempre se contamina con las creencias evolutivas más antiguas. (79:4.7) (93:7.4)
-	ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. (92:4.9)
-	las revelaciones no son necesariamente inspiradas. (101:4.2)
-	Sólo se puede recurrir a la revelación pura cuando el concepto a presentar no haya sido expresado anteriormente de manera adecuada por la mente humana. (0:0.2) (0:12.11) (66:5.14) (121:8.13)
+	La limitación del lenguaje para transmitir las verdades divinas conduce a la confusión y la incertidumbre entre los mortales de Urantia con respecto a los significados de Dios, la divinidad y la deidad. (0:0.1-4)
+	Debido al aislamiento de Urantia, no podemos proporcionar una descripción detallada de la vida y el entorno de los vecinos de Satania, ya que debemos atenernos a las restricciones planetarias y de los sistemas. (50:6.1)
+	Las revelaciones, aunque no necesariamente inspiradas, proporcionan una valiosa perspectiva al reducir la confusión, coordinar los hechos, restaurar el conocimiento perdido y llenar los vacíos, a pesar de estar limitadas por las leyes de la revelación. (101:4)
+	Las limitaciones impuestas por las autoridades celestiales restringen la capacidad del revelador para explicar plenamente la naturaleza de la experiencia posterior a la muerte. (112:5.11)
+	La carrera mortal morontial de Miguel en Endantum fue extraordinaria y asombrosa, pero los detalles están restringidos a la revelación. (119:6.3)
+	Las distorsiones del lenguaje en las revelaciones sirven como compromisos de contacto con las mentes humanas limitadas por el tiempo, con el objetivo de transmitir verdades eternas mediante conceptos finitos. (6:0.2,4)
+	Mi presentación sobre las dádivas de Miguel de Nebadon se adherirá estrictamente a las limitaciones impuestas por mi mandato. (119:0.1,7) (119:6.3)
+	La revelación, guiada por la evolución de la sociedad, debe adaptarse siempre a los avances progresivos de la era en la que se presenta. (89:9.3) (92:4.1)
+	Los arios trajeron sus conceptos de la Deidad a la India, pero las religiones inferiores del Decán llevaron a la población a caer en supersticiones esclavizadoras, obstaculizando la civilización que una vez habían presagiado. (79:4.7) (93:7.4)
+	Ninguna revelación que no sea la del Padre Universal puede ser completa, ni siquiera la presentación más reciente de la verdad en Los Documentos Urantia. (92:4.9)
+	Las revelaciones no son necesariamente inspiradas; la sabiduría humana debe evolucionar dentro de las limitaciones del conocimiento actual. (101:4.2)
+	La revelación pura sólo se utiliza cuando los conceptos humanos no logran expresar adecuadamente un concepto nuevo, como lo ordenan los gobernantes del superuniverso. (0:0.2) (0:12.11) (66:5.14) (121:8.13)
 revelaciones de época
 	Hasta la fecha ha habido cinco revelaciones de época | revelaciones de época
-sobrerevelación (30:0.2)
-	Jesús no precipitó a los apóstoles en la confusión presentándoles una verdad que sobrepasara demasiado su capacidad de comprensión. (137:7.14)
-	Melquisedek enseñó a sus seguidores todo lo que fueron capaces de recibir y asimilar. (93:3.6)
-	La debilidad de la doctrina de Akenatón residía en el hecho de que proponía una religión tan avanzada, que sólo los egipcios instruidos podían comprender plenamente sus enseñanzas. (95:5.12-13)
-	Los instructores de Dalamatia se guardaron de robarle a la humanidad sus pequeños progresos, sumiéndola en la confusión y la consternación que siempre se producen cuando unos seres superiores e instruídos emprenden la elevación de las razas atrasadas, enseñándolas e iluminándolas con exceso. (66:6.6)
-	Es mejor que el hombre no reciba una revelación excesiva; eso ahoga la imaginación. (30:0.2)
+revelación excesiva
+	La revelación excesiva sofoca la imaginación e impide la clasificación exhaustiva de las personalidades del gran universo. (30:0.2)
+	Jesús enseñó cuidadosamente a los apóstoles de una manera que pudieran comprender, evitando la confusión al no presentar la verdad más allá de su capacidad de comprensión. (137:7.14)
+	Las enseñanzas de Melquisedec influyeron en la religión moderna al enfatizar la adoración de un solo Dios y preparar la llegada de Miguel como el Hijo del Padre Universal. (93:3.6)
+	La religión avanzada de Ikhnaton solo fue comprendida plenamente por los egipcios educados, mientras que los trabajadores agrícolas luchaban por comprender sus enseñanzas, lo que llevó a muchos a regresar a las antiguas creencias de Isis y Osiris. (95:5.12-13)
+	Los maestros de Dalamatia tenían como objetivo mejorar la evolución social sin alterar las normas sociales ni privar a la humanidad de su progreso duramente ganado mediante la enseñanza excesiva o la iluminación excesiva. (66:6.6)
+	El hombre no debe buscar una revelación excesiva, ya que ésta inhibe la creatividad y la imaginación. (30:0.2)
 revelaciones personales | liderazgo; misticismo; profecías; percepción espiritual
-	El salmo 23 fue susurrado a un pastorcillo (48:6.20)
-	El Ajustador se comunica constantemente, de forma indirecta y sin ser reconocido, con su sujeto humano, especialmente durante las experiencias sublimes en las que la mente se pone en contacto de adoración con el espíritu en la superconciencia. (101:4.3) (108:6.7) (110:1.1)
-	La voz directa del Ajustador se puede escuchar en una decisión suprema (109:5.2) (110:7.9)
-	La evolución de la capacidad para la receptividad religiosa en los habitantes de un mundo determina en gran parte la velocidad de sus progresos espirituales y el alcance de la revelación religiosa. (52:2.3)
-	ciertos sabios de la tierra sabían de la inminente llegada de Miguel (119:7.6)
-	las dotes de la mente cósmica de causalidad, deber y adoración producen un reconocimiento de la realidad mediante una técnica de autorrevelación (16:6.10)
-	Las personas religiosas no deben considerar cada presentimiento psicológico fuerte y cada experiencia emocional intensa como una revelación divina o una comunicación espiritual. (91:7.3-4) (100:5.6-7)
-	Las religiones de los hombres se desarrollan durante largos períodos de tiempo, mientras que las revelaciones de Dios brillan sobre la Tierra en la vida de los hombres que revelan a Dios a sus semejantes. (132:7.6)
-	Dios contesta a la oración del hombre dándole una mayor revelación de la verdad, una apreciación realzada de la belleza, y un concepto acrecentado de la bondad. (91:8.11)
-	Dios se manifiesta indefectiblemente en la plenitud de la capacidad de la criatura (1:4.5-6)
-	la experiencia humana es una revelación continua (101:2.12)
-	el hambre de la verdad es una revelación (102:3.12)
-	Jesús sólo le dijo a Nalda una cosa sobre sí misma, pero la mirada de Jesús y su manera de tratarla trajeron a su memoria toda su azarosa vida de modo que esta autorrevelación la asoció a las palabras del Maestro (143:5.13)
-	a menudo esta revelación espiritual ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso (110:4.5)
-	debemos obedecer la guía divina (34:5.5)
-	En muchas revelaciones, «la palabra fue pronunciada por los ángeles»; muchos mandatos del cielo han sido «recibidos por el ministerio de los ángeles». (113:0.1)
+	Al pastorcillo se le contó la historia del Salmo 23 por la noche y él hizo lo mejor que pudo para recordarla y transmitirla. (48:6.20)
+	La verdad es siempre una revelación, ya sea que surja como autorrevelación a través del Ajustador residente o como revelación de época a través de agentes celestiales. (101:4.3) (108:6.7) (110:1.1)
+	La voz directa del Ajustador puede oírse en momentos de supremo deseo y decisión, iluminando la personalidad potencial interior. (109:5.2) (110:7.9)
+	La llegada del Príncipe Planetario inicia la transición de la religión primitiva del miedo a la verdad superior y la organización del universo a través de revelaciones sencillas, progresando hacia una presentación ampliada de la verdad espiritual y la ética religiosa. (52:2.3)
+	Ciertos sabios de la Tierra se enteraron de la inminente donación de Miguel a través de contactos con otros mundos, y el único acontecimiento sobrenatural del nacimiento de Jesús fue el anuncio que los serafines hicieron a Ardnon y a su grupo. (119:7.6)
+	Las dotes mentales cósmicas de causalidad, deber y adoración, mediante una técnica de autorrevelación, permiten el reconocimiento de la realidad y forman la base para el funcionamiento racional en la ciencia, la filosofía y la religión. (16:6.10)
+	La verdadera visión profética no es una pseudoalucinación ni un éxtasis parecido al trance, sino más bien un presentimiento superpsicológico que las personas religiosas no deben confundir con una revelación divina. (91:7.3-4) (100:5.6-7)
+	Las revelaciones de Dios aparecen en la Tierra en las vidas de los hombres, mientras que las religiones de los hombres crecen durante largos períodos de tiempo. (132:7.6)
+	A través de la oración, Dios ayuda al hombre a crecer espiritualmente revelándole la verdad, realzando la belleza y aumentando la bondad en su vida. (91:8.11)
+	Dios se revela infaliblemente a cada criatura en la medida máxima de su capacidad espiritual, trascendiendo las diferencias inherentes entre lo finito y lo infinito, lo temporal y lo eterno, lo material y lo espiritual, y la imperfección del hombre y la perfección de la Deidad del Paraíso. (1:4.5-6)
+	La experiencia humana es una revelación continua, en la que la divinidad actúa dentro de la personalidad mortal a través del don Ajustador del Padre, el Espíritu de la Verdad del Hijo y el Espíritu Santo del Espíritu del Universo. (101:2.12)
+	El hambre de verdad es una revelación que añade un sentimiento de realidad a la percepción espiritual. (102:3.12)
+	El encuentro de Nalda con Jesús reveló todo su accidentado pasado en un solo momento, a pesar de que él solo mencionó una cosa sobre ella, lo que dejó a John curioso pero sin preguntar. (143:5.13)
+	El enorme abismo que separa lo humano de lo divino hace difícil que los Monitores guíen y dirijan a la humanidad, lo que lleva a consecuencias desastrosas cuando las revelaciones espirituales ciegan a las criaturas y desencadenan el fanatismo o la agitación intelectual. (110:4.5)
+	Al seguir obedientemente las indicaciones divinas, el ministerio del Espíritu Santo santifica y espiritualiza la vida interior de los mortales, a pesar de depender en parte de la cooperación humana. (34:5.5)
+	Los ángeles guardianes, serafines designados para ministrar a los mortales individuales, han sido fundamentales en la transmisión de mensajes celestiales a lo largo de la historia. (113:0.1)
 
-Apocalipsis | | Juan Zebedeo | | 
-visión confusa (34:4.11-12)
-fragmentos sobrevivientes de una gran revelación al apóstol Juan (139:4.14)
+Apocalipsis | | Juan Zebedeo | | OK
+La confusa visión de Juan en el Libro del Apocalipsis combina símbolos de los siete espíritus de Dios con los majestuosos asientos de los veinticuatro ancianos en Jerusalén. (34:4.11-12)
+Los fragmentos que sobrevivieron de una gran revelación al apóstol Juan están contenidos en el Libro del Apocalipsis, muy abreviado y distorsionado. (139:4.14)
 
-venganza | | ira; miedo; odio | | 
+venganza | | ira; miedo; odio | | OK
 canibalismo parte de la ceremonia solemne de venganza (89:5.5-6)
 el carácter se mide por la capacidad de resistir guardar rencor (140:8.5) (156:5.17)
 imaginación creativa inhibida por (111:4.9)
@@ -1433,7 +1435,7 @@ cuando el enemigo te golpea, pon la otra mejilla (159:5.9-15)
 
 reversión | | recreación | | OK
 
-Directores de la reversión; directores de la reversión | (48:4) | | ORDER | 
+Directores de la reversión; directores de la reversión | (48:4) | | ORDER | OK
 todos los seres celestiales disfrutan (84:8.5)
 colaborar con los Reproductores Celestiales (44:2.10)
 colaborar con Alegrías de la Existencia (28:5.16)
@@ -1447,7 +1449,7 @@ promover la relajación y el humor, revertir la memoria al estado anterior, camb
 reclutados de nativos de Havona a progresores morontiales, que predominan (43:7.4) (48:4.9)
 teatro en Jerusem (46:5.30)
 
-revolución (cambio abrupto) | | | | 
+revolución (cambio abrupto) | | | | OK
 trastorna la sociedad (66:6.3-6)
 desastroso de repente para liberar un gran número de esclavos (69:8.9)
 evolución desplazada en rebelión planetaria (67:5.1)
@@ -1457,10 +1459,10 @@ casi fatal para emprender un cambio total de costumbres por (68:4.6)
 ningún gran cambio social o económico debería efectuarse de repente (81:6.40)
 técnica de Caligastia (136:9.2)
 
-revolución (movimiento) | | elipse | | 
+revolución (movimiento) | | elipse | | OK
 todas las unidades de energía cósmica están en (12:4.1)
 
-recompensa | | logro; karma; lucro | | 
+recompensa | | logro; karma; lucro | | OK
 diferido recompensa inherente al servicio desinteresado (28:5.17)
 extender ayuda sin pensar en (131:8.5)
 sigue el esfuerzo (50:7.3)
@@ -1471,66 +1473,66 @@ la religión no es promesas mágicas del futuro recompensa místico (99:5.2)
 la satisfacción de la justicia trasciende cualquier recompensa material (39:4.13)
 Los cazadores neandertales exitosos tenían elección de esposas (64:4.2,12)
 
-río Rin | | | PLACE | 
+río Rin | | | PLACE | OK
 La cultura nórdica-danubiana se mezcló (80:9.3)
 
-rinocerontes | (61:1.9) (61:2.9) (61:3.4-5) (61:4.3) (64:4.7) | | | 
+rinocerontes | (61:1.9) (61:2.9) (61:3.4-5) (61:4.3) (64:4.7) | | | OK
 
-Rodas | (130:0.3) (133:7.1) | | PLACE | 
+Rodas | (130:0.3) (133:7.1) | | PLACE | OK
 Jesús pasó por aquí en su viaje por el Mediterráneo
 
-ritmo | | música | | 
+ritmo | | música | | OK
 aumenta la eficiencia, aumenta el placer (44:4.11)
 practicado para influir en los espíritus (90:4.6)
 
-registradores de ritmos | | | | 
+registradores de ritmos | | | | OK
 registradores de pensamientos, Artesanos Celestiales (44:4.11)
 
-arroz | | | | 
+arroz | | | | OK
 Los adanitas comieron (81:1.8)
 arrojado a los recién casados para asegurar la fecundidad (83:4.5)
 
 el rico | | riqueza:personas que poseen riqueza | | OK
 
-rico y mendigo | | | | 
+rico y mendigo | | | | OK
 Parábola nazarea (169:3)
 
-rico de Roma | | | | 
+rico de Roma | | | | OK
 El consejo de Jesús a (132:5)
 Jesús a menudo aconsejaba de manera similar a los discípulos acomodados (163:2.11)
 
-rica viuda de Tiro | | | | 
+rica viuda de Tiro | | | | OK
 buscó comprar curación (149:1.9)
 
 gobernante joven rico | | Matadormo | | OK
 
-ridículo | | | | 
+ridículo | | | | OK
 cuidado con los dardos venenosos de (174:0.2)
 no se entregue al sarcasmo (159:3.4)
 Judas influenciado por los amigos saduceos (172:5.13)
 Pedro se marchitó antes (139:2.6) (184:2.8)
 influencia fulminante de (174:3.5)
 
-Rig-Veda | | hinduismo | RELIGION | 
+Rig-Veda | | hinduismo | RELIGION | OK
 Los Brahmánes seleccionaron escrituras sagradas para crear Rig-Veda a fin de que
 combatir a los maestros de Salem (94:1.7)
 distinción entre mente y corazón (111:0.7)
 El sistema de teología más variado jamás desarrollado (94:1.7)
 retrató una espiritualidad de dioses hindúes (96:0.1)
 
-derecho | | justicia | | 
+derecho | | justicia | | OK
 todos los derechos asociados con los deberes (81:5.6)
 para los antiguos, el poder era (70:11.13) (70:12.2)
 para los cultistas de fantasmas, la cooperación de los espíritus (87:5.12)
 
-mano derecha del padre | | | | 
+mano derecha del padre | | | | OK
 Los Hijos Creadores pasan a (21:4.4) (52:5.6)
 Jesús ascendió a (120:3.10) (136:3.5) (142:7.13) (182:1.3) (193:5.5)
 poder de dios (194:4.4)
 presencia de Dios (5:2.2)
 repetidamente estaremos en (13:2.7) (137:8.16)
 
-rectitud | (2:3) | justicia; misericordia; virtud | | 
+rectitud | (2:3) | justicia; misericordia; virtud | | OK
 4 pasos de interior (170:3.2-3)
 Ajustador crea hambre y sed de (101:2.14)
 eres mejor justicia recomendador? (156:5.15)
@@ -1573,38 +1575,38 @@ requiere el contraste del mal potencial (3:5.13)
 
 derechos | | derechos humanos | | OK
 
-Rimón | (146:1) | | PLACE | 
+Rimón | (146:1) | | PLACE | OK
 Jesús predicó en este lugar
 
-anillo | | | | 
+anillo | | | | OK
 mujeres casadas apartadas por (82:2.5)
 el anillo del hijo dado al hijo pródigo (169:1.9)
 
 rivalidad | | competencia | | OK
 
-lecho del río | | | | 
+lecho del río | | | | OK
 no es el río (100:5.1)
 
-ríos | | | | 
+ríos | | | | OK
 las primeras culturas surgieron a lo largo (68:5.2)
 nombrada | río Colorado; Danubio; Don; río Éufrates; Ganges; río Hudson; Indo; Jaboc; río Jordan; río Misisipí; Cataratas del Niágara; Nilo (valle); río Ohio; río Rin; río Somme; río San Lorenzo; río Susquehanna; cuenca de Tarim; río Tigris; Volga; río Yangtze; río Amarillo
 no furioso ríos sobre Jerusem o Edentia (43:1.1) (46:2.2)
 
-camino de ladrones | | | | 
+camino de ladrones | | | | OK
 Jericó a Betania (171:6.4) (185:5.3)
 
-caminos | | | | 
+caminos | | | | OK
 Vía Apia (133:0.2)
 Camino a Damasco (134:8.1) (155:2.1) (158:7.1) (196:2.1)
 bueno caminos centros principales interconectados en tiempos de Jesús (121:1.7)
 camino de ladrones (171:6.4) (185:5.3)
 Romanos construyeron (71:1.20)
 
-ropajes | | | | 
+ropajes | | | | OK
 deleite en llevar mucho tiempo (166:1.5) (175:1.9)
 vestirse de hijo pródigo (169:1.9)
 
-rocas y minerales | | elementos (químicos) | | 
+rocas y minerales | | elementos (químicos) | | OK
 cantos rodados (61:7.1)
 Derrocamiento del Cámbrico Cretácico en Columbia Británica (60:3.14)
 El culto mitraico representaba a un dios militante que se originaba en una gran roca (98:5.3)
@@ -1612,10 +1614,10 @@ nombrada | ámbar; antracita; basalto; tiza; arcilla; carbón; conglomerados; cr
 las capas más viejas a menudo se mezclan con las más jóvenes (57:8.11) (58:7.1,6)
 la harina de roca es un producto glacial (61:7.1)
 
-montañas Rocosas | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | 
+montañas Rocosas | (59:2.4) (59:5.18-19) (60:3.9-14) (60:4.2-4) (61:3.3) | | | OK
 dinosaurios enterrados en (60:2.2)
 
-Rodán de Alejandría | (160) (161) | | PERSON | 
+Rodán de Alejandría | (160) (161) | | PERSON | OK
 en la duodécima aparición de Jesús (191:6)
 filosofía armonizada con el judaísmo (121:6.3-6) (130:3.9) (146:1.3)
 instruido por el ex apóstol de Juan el Bautista (161:0.2)
@@ -1626,9 +1628,9 @@ martirizado en Grecia (161:2.12)
 uno de los más grandes de su raza (160:5.14)
 alumnos de Rodán convertidos Esteban y Bernabé (194:4.11)
 
-roedores | (49:1.6) (61:2.7) | | | 
+roedores | (49:1.6) (61:2.7) | | | OK
 
-llamamiento | | | | 
+llamamiento | | | | OK
 de Justicia | muerte:muerte espiritual; extinción; no supervivientes
 todos los seres morados por el Ajustador están encendidos (49:6.11)
 los ángeles guardianes responden al llamamiento; Los Ajustadores no responden (113:6.8)
@@ -1636,7 +1638,7 @@ de misericordia | resurrección
 resurrección de sobrevivientes dormidos (113:6.8)
 Regocíjate que tus nombres estén escritos en rollos del cielo (163:6.2)
 
-Iglesia católica romana; una gran religión mundial; cristianismo; iglesia cristiana | | Iglesia cristiana inicial; cristianismo | RELIGION | 
+Iglesia católica romana; una gran religión mundial; cristianismo; iglesia cristiana | | Iglesia cristiana inicial; cristianismo | RELIGION | OK
 El antiguo culto de continencia fomentó el sacerdocio célibe (89:3.6)
 autoridad sobre las cosas temporales, asuntos del reino, dada a los apóstoles y sucesores Jesús no instituyó una religión, sino una fraternidad basada en el espíritu (140:2.2-3) (157:4.5-6)
 No llames padre a ningún hombre en sentido espiritual (175:1.10)
@@ -1647,10 +1649,10 @@ la persecución y la intolerancia provienen de la asunción de superioridad y au
 amenaza espiritual en la galaxia de los santos (195:4.2)
 La iglesia medieval totalitaria fue madre del secularismo (195:8.2-4)
 
-centurión romano en Corinto | | | | 
+centurión romano en Corinto | | | | OK
 Charla de Jesús sobre la lealtad (133:4.3)
 
-centurión romano de Jerusalén | | | | 
+centurión romano de Jerusalén | | | | OK
 arrestó a Jesús (183:3.4,9)
 obligó a Simón de Cirene a llevar la viga transversal (187:1.10)
 entró en plena comunión del reino (187:4.4) (187:5.4)
@@ -1662,7 +1664,7 @@ estaba a horcajadas sobre el cuerpo del Maestro con la espada desenvainada (188:
 le contó a Lucas la historia del ladrón en la cruz (187:4.3)
 llevó a Jesús a Anás por acuerdo previo (183:5.1) (184:0.1)
 
-Imperio Romano | (98:3) | romanos; Roma | | 
+Imperio Romano | (98:3) | romanos; Roma | | OK
 atributos del estado romano (71:1.13-21)
 exigió lealtad (191:5.3)
 la política exterior
@@ -1704,33 +1706,33 @@ situación social
 	Los romanos eran grandes, se gobernaban ellos mismos; abogados por naturaleza y formación (195:2.4-6)
 fortalezas y debilidades (71:1.13-22)
 
-juez romano en Corinto | | | | 
+juez romano en Corinto | | | | OK
 La charla de Jesús sobre el juicio justo (133:4.7)
 
-magistrado romano en Roma | | | | 
+magistrado romano en Roma | | | | OK
 La charla de Jesús sobre el juicio (132:4.8)
 
-senador romano | | | | 
+senador romano | | | | OK
 Jesús sugirió que la gente debería apoyar al gobierno (132:4.5)
 
-soldado romano en Roma | | | | 
+soldado romano en Roma | | | | OK
 Charla de Jesús con (132:4.6)
 
-soldados romanos en Jerusalén | | | | 
+soldados romanos en Jerusalén | | | | OK
 sobornado para decir que los discípulos se llevaron el cuerpo de Jesús (189:2.4)
 huyó cuando la piedra fue removida de la tumba de Jesús (189:2.4)
 sensible a la falta de respeto judía (128:6.5)
 
-romance | | | | 
+romance | | | | OK
 los antiguos eran grandes creyentes en los encantos del amor (88:5.2)
 Contribución de Andita (83:2.5)
 del noviazgo en gran parte responsable del aumento del divorcio (83:7.7)
 El personal del Príncipe fomentó el noviazgo (66:5.29)
 
-romanos | | Imperio Romano; Roma | | 
+romanos | | Imperio Romano; Roma | | OK
 nombrada | Augusto; Calígula; Cicerón; Claudia Prócula; Claudio; Constantino; Cornelio; Mangus; Marcos; Poncio Pilato; líderes religiosos en Roma; centurión romano en Corinto; centurión romano de Jerusalén; juez romano en Corinto; magistrado romano en Roma; senador romano; soldado romano en Roma; soldados romanos en Jerusalén; Tiberio; Tito (Emperador); Virgilio; viudas:viuda en Roma
 
-Roma | (130:0.3) (194:4.13) | Imperio Romano; romanos | PLACE | 
+Roma | (130:0.3) (194:4.13) | Imperio Romano; romanos | PLACE | OK
 ciudad de 2 millones (132:0.2)
 Claudio predicó en (130:8.1)
 El viaje de Jesús a (130) (131) (132) (133)
@@ -1739,54 +1741,54 @@ solo Zebedeo sabía del viaje de Jesús a (134:1.2)
 Enseñanzas de Salem en (98:3)
 hijo de Tito de Cafarnaúm fue martirizado en (146:5.2)
 
-Rómulo | | | PERSON | 
+Rómulo | | | PERSON | OK
 tradición del niño repudiado salvado por la intervención divina (89:7.3)
 
-techo | | | | 
+techo | | | | OK
 la mayoría de las estructuras del mundo de las mansiones sin techo (48:3.15)
 dormitorio de verano en la casa de los padres para el joven Jesús (123:2.14)
 tejas quitadas al paralítico inferior (148:9.2)
 
 gallos | | aves de corral | | OK
 
-cabezas redondas | | | | 
+cabezas redondas | | | | OK
 Los andonitas eran (80:5.8)
 
-derechos de autor | | | | 
+derechos de autor | | | | OK
 recopilado por el gobierno en la nación continental (72:7.10)
 
-tribu de Rubén | | | RACE | 
+tribu de Rubén | | | RACE | OK
 tribu de renombre (128:1.14)
 
-rufianes en Nazaret | (150:7.3) (150:8.11) (150:9) | | | 
+rufianes en Nazaret | (150:7.3) (150:8.11) (150:9) | | | OK
 
-Rufo | | | PERSON | 
+Rufo | | | PERSON | OK
 maestro eficaz del evangelio; hijo de Simón de Cirene (187:1.10)
 Jesús ayudó a Rufo cuando fue herido por una carreta (130:6.6)
 
-regla de vida | | regla de oro | | 
+regla de vida | | regla de oro | | OK
 La vieja manera es la supresión y conformidad con (143:2.4)
 
 reglas | | ley | | OK
 
-rumiantes | | | | 
+rumiantes | | | | OK
 incluyen ciervos, bueyes, camellos, bisontes, rinocerontes (61:3.5)
 
-muchacho fugitivo en Corinto | | Fortunato | | 
+muchacho fugitivo en Corinto | | Fortunato | | OK
 La charla de Jesús con (133:4.11)
 
-Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Siberia | PLACE | 
+Rusia | (59:4.7) (60:1.4) (60:2.6) (60:3.6) (78:3.5) | Siberia | PLACE | OK
 La raza azul absorbió una cantidad considerable de sangre andonita en (80:3.2)
 espíritus de los árboles considerados crueles en (85:2.4)
 
-Rut (hija de Mateo) | | | PERSON | 
+Rut (hija de Mateo) | | | PERSON | OK
 en la décimo sexta aparición de Jesús (193:0)
 miembro del cuerpo de mujeres (150:1.1)
 
-Rut (Antiguo Testamento) | | | PERSON | 
+Rut (Antiguo Testamento) | | | PERSON | OK
 María madre de Jesús descendiente de (122:1.2)
 
-Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Jesús:familia | PERSON | 
+Rut (hermana de Jesús) | (154:5.1) (188:3.3) | Jesús:familia | PERSON | OK
 en la cuarta aparición de Jesús (190:2.6)
 en la crucifixión de Jesús (186:0.3) (187:2.7) (187:3.2) (187:5.4)
 nacido el 17 de abril del 9 d.C. (126:3.2)
@@ -1797,5 +1799,5 @@ se mudó a Cafarnaúm (134:1.6)
 irreflexivo al hablar pero sincero de corazón; hermosa (127:4.8)
 inquebrantablemente leal a Jesús; comodidad de la familia principal (124:4.3) (138:0.1) (145:0.3) (154:6.1,3) (190:2.2)
 
-Ryonin | | | PERSON | 
+Ryonin | | | PERSON | OK
 enseñó el concepto de Dios en Amida Buddha; fe (94:12.2-3)
