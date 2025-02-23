@@ -9,50 +9,55 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Zaccheus | | | PERSON | 
-chief publican in Jericho (171:6.1)
-Jesus’ visit to Z.; Jesus taught (171:6) (171:8.1)
+Zaccheus | | | PERSON | OK
+Zaccheus, the chief publican in Jericho, eagerly climbed a sycamore tree to catch a glimpse of Jesus, who then surprised him by choosing to stay at his house for the night. (171:6.1)
+Jesus, upon visiting Zaccheus, taught and brought salvation to his home, declaring him a son of Abraham. (171:6) (171:8.1)
+> https://en.wikipedia.org/wiki/Zacchaeus
 
-Zacharias | (123:3.4) | | PERSON | 
-father of John the Baptist (122:2)
-fairly well educated priest (122:2.1) (135:0.4)
-owned small farm, received temple allowance (135:0.5)
-perplexed regarding prospective motherhood of Elizabeth (122:2.5)
-believed Elizabeth’s story about Gabriel only after dream (135:0.1)
-conferred with Joseph in Jerusalem (122:8.4)
-believed Jesus was to become Messiah (122:8.4)
-prearrangement with Simeon and Anna (122:9.2-3)
-sent wise men to Bethlehem (122:8.6)
-warned Joseph of Herod’s impending massacre (122:10.4)
-died July, A.D. 12 (135:2)
+Zacharias | (123:3.4) | | PERSON | OK
+John the Baptist's father, Zacharias, was part of the Jewish priesthood and his mother, Elizabeth, was related to Mary, the mother of Jesus, receiving a divine visitation foretelling their son's mission as a forerunner to the Messiah. (122:2)
+John the Baptist's education was carefully overseen by his fairly well educated priest father, Zacharias. (122:2.1) (135:0.4)
+Zacharias and Elizabeth barely sustain their livelihood with their small farm, supplemented by Zacharias' temple allowance. (135:0.5)
+Despite his initial skepticism, Zacharias eventually became fully convinced of the prospective motherhood of Elizabeth, believing in the destiny of their son. (122:2.5)
+Zacharias believed in Gabriel's visitation only after a dream, leading to the birth of John the Baptist. (135:0.1)
+Joseph conferred with Zacharias in Jerusalem about Jesus becoming the Jewish deliverer. (122:8.4)
+Zacharias, Elizabeth, and Mary believed that Jesus would become the Messiah, prompting Joseph to remain in Bethlehem for Jesus to grow up as David's successor. (122:8.4)
+Zacharias prearranged with Simeon and Anna to identify Jesus in the procession of first-born children at the temple. (122:9.2-3)
+Zacharias sent wise men to Bethlehem to find the "light of life" as a babe named Jesus. (122:8.6)
+Zacharias, warned by a believer in the coming Messiah, saved Joseph from Herod’s massacre by sending a messenger the night before Jesus and his family fled to Egypt. (122:10.4)
+Zacharias died in July, A.D. 12, leading John to struggle with the Nazarite vow and ultimately seek purification in Jerusalem, before making plans for the future and eventually settling in the Engedi colony. (135:2)
+> https://en.wikipedia.org/wiki/Zechariah,_father_of_John_the_Baptist
 
-Zadoc | | | PERSON | 
-adopted Joseph’s ancestor (122:4.3)
+Zadoc | | | PERSON | OK
+Joseph was accounted as of the "house of David" because Zadoc adopted his paternal ancestor six generations prior, linking him to the lineage of King David. (122:4.3)
+> https://en.wikipedia.org/wiki/Genealogy_of_Jesus
 
-Zaphon | (159:0.2) (165:0.1) | | PLACE | 
-Perea mission
+Zaphon | | | PLACE | OK
+It was one of the towns visited during the Perea mission of the seventy, between January 3, 30 until the death of Jesus (159:0.2) (165:0.1)
 
 zeal | | enthusiasm | | OK
 
-Zealots | | | | 
-Jesus refused to join (127:2.1-10) (136:9.7)
-Jude very active in (128:6.6)
-Mary’s brother Simon was officer of (127:2.4)
-Simon Zelotes was high officer of (138:2.8) (139:11.1)
-strong nationalist party opposed to Roman taxes (127:2.1) (137:7.9)
+Zealots | | | | OK
+The Zealots, a strong nationalist party opposed to Roman taxes, advocated for rebellion against Roman rule in Judea. (127:2.1) (137:7.9)
+Jesus refused to join the Zealots, despite the pressure from his family and peers in Nazareth. (127:2.1-10) (136:9.7)
+Jesus strived in vain for Jude's immediate hearing or release before Passover, as he was detained until the following day due to the "holy convocation." (128:6.6)
+Jesus' uncle Simon, officer of the Galilean division, had joined the Zealots causing an estrangement between him and Jesus. (127:2.4)
+Simon Zelotes was a high officer in the Zealots before becoming an apostle with Jesus. (138:2.8) (139:11.1)
+> https://en.wikipedia.org/wiki/Zealots
 
-Zebedee | (137:3.5) (138:5.4) (140:7.3) | | PERSON | 
-celebrated Passover with Annas in Jerusalem (129:2.8)
-directed son John buy house with Jesus’ money (129:2.4)
-family almost worshiped Jesus (129:1.10)
-father-partner of Jesus (129:1.4)
-home served as headquarters for kingdom (138:5.4) (154:7.2)
-in Capernaum, Jesus made his home with (134:2.5) (137:3.4)
-Jesus joined Zebedee’s boatmaking business (129:1.2-4,11) (134:9.6) (137:6.5)
-Jesus told Zebedee about upcoming Mediterranean journey (129:2.10) (129:3.3-4)
-owned fish-drying business (139:1.1)
-purchased Joseph’s equity in a Capernaum property (127:6.10)
-with wife Salome had 3 sons, 4 daughters (129:1.5)
+Zebedee; Zebedees | (137:3.5) (138:5.4) (140:7.3) | | PERSON | OK
+Zebedee and his family celebrated Passover with Annas in Jerusalem. (129:2.8)
+After Jesus departed, John consulted Zebedee about Jesus' money, and they decided to invest in a house in Capernaum, holding the title in trust for Jesus. (129:2.4)
+The Zebedee family attended Jesus' evening conferences, where he gave advanced instruction on various topics, showcasing his insightful ideas and ideals. (129:1.10)
+Zebedee, father-partner of Jesus, owned boatbuilding shops on the lake near Capernaum, where Jesus lived and worked alongside him. (129:1.4)
+Zebedee's home served as headquarters for the kingdom, where Jesus outlined plans for proclaiming the kingdom and emphasized avoiding clashes with civil authorities, as his disciples lived to maintain contact with him. (138:5.4) (154:7.2)
+In Capernaum, Jesus made his home with the Zebedees, bringing a sense of joy and light-heartedness to those who knew him. (134:2.5) (137:3.4)
+Jesus, the master craftsman, revolutionized boatmaking by partnering with Zebedee for over a year to create new designs and methods in Capernaum. (129:1.2-4,11) (134:9.6) (137:6.5)
+Zebedee alone was entrusted with the secret of Jesus' mysterious Mediterranean journey. (129:2.10) (129:3.3-4)
+Zebedee and Andrew were once partners in the fish-drying business at Bethsaida. (139:1.1)
+Zebedee purchased the last of Joseph's entire estate by acquiring his equity in a Capernaum property. (127:6.10)
+Salome, wife of Zebedee, loved Jesus as much as her own sons, James, John, and David, while her daughters saw him as their elder brother. (129:1.5)
+> https://en.wikipedia.org/wiki/Zebedee
 
 Zebedee, David | | David Zebedee | PERSON | OK
 
@@ -62,41 +67,51 @@ Zebedee, John | |  John Zebedee | PERSON | OK
 
 Zebedee, Salome | | Salome (wife of Zebedee) | PERSON | OK
 
-Zebulun | (146:3.10) (156:6.2) | | PLACE | 
+Zebulun | | | PLACE | OK
+The special instruction given by Jesus during their stay at Zebulun focused on clarifying personal religious experiences and social religious obligations. (146:3.10) (156:6.2)
+> https://en.wikipedia.org/wiki/Tribe_of_Zebulun
 
-Zechariah | | | PERSON | 
+Zechariah | | | PERSON | OK
+Zechariah was slain between the sanctuary and the altar, a symbol of the accountability for rejecting and destroying messengers of heaven throughout history. (175:1.22)
 Book of Zechariah
-	episode of king riding upon ass (172:3.4)
-	Jesus quoted (146:2.3)
-slain between sanctuary and altar (175:1.22)
+	The Master chose to fulfill the prophecy in Zechariah by entering Jerusalem riding upon an ass. (172:3.4)
+	Jesus quoted the Prophet Zechariah, warning that those who refuse to heed God's laws will find their prayers to be an abomination. (146:2.3)
+> https://en.wikipedia.org/wiki/Zechariah_(prophet)
 
-Zeus | | | PERSON | 
-Dyaus-Zeus was head of Greek pantheon of gods (98:1.3-4)
-transplanted to Rome, Zeus became Jupiter (98:3.3)
+Zeus | | | RELIGION | OK
+Zeus, head of the Greek pantheon, was an imposed man-god on a Mediterranean world dominated by mother cults, hindering the Greeks' development towards true monotheism. (98:1.3-4)
+Zeus' transformation into Jupiter symbolized the extensive cultural importation from Greece to Rome, greatly influencing Roman religion. (98:3.3)
+> https://en.wikipedia.org/wiki/Zeus
 
-zinc | (59:3.4) (59:5.9) | | | 
+zinc | | | | OK
+Zinc is found in the deposits of this age alongside gas, oil, and lead, all formed from ancient collections of organic material and sedimentation in sluggish bodies of water. (59:3.4) (59:5.9)
+> https://en.wikipedia.org/wiki/Zinc
 
-Zone of Infinity | | | PLACE | 
-on nether Paradise directly beneath Trinity (11:5.2-4)
+Zone of Infinity | | | PLACE | OK
+Beneath the Trinity in nether Paradise lies the mysterious Zone of Infinity surrounded by an unnamed area, with specific focus on space potency and force-energy. (11:5.2-4)
 
-Zophar | | | PERSON | 
-looked for hidden purpose in Job’s miseries (148:6.8,9)
+Zophar | | | PERSON | OK
+Zophar, in seeking hidden purpose in Job's miseries, failed to offer comfort in his words of advice. (148:6.8,9)
+> https://en.wikipedia.org/wiki/Zophar
 
-Zoroaster | | Zoroastrianism | PERSON | 
-flame symbolized Spirit (95:6.4)
-in direct contact with descendants of Salem missionaries (131:5.1)
-much affected by dual spiritism (92:5.12)
-outstanding religious teacher; appeared in Iran in 6th century B.C. (95:6.1) (121:6.4)
+Zoroaster | | Zoroastrianism | PERSON | OK
+Zoroaster utilized the flame as a symbol of the pure and wise Spirit, not teaching worship but inspiring reverence. (95:6.4)
+Zoroaster's religion in Persia was influenced by Salem missionaries and their teachings of the one God. (131:5.1)
+Zoroaster, influenced by dual spiritism, still exalted one eternal Deity and the triumph of light over darkness. (92:5.12)
+Zoroaster emerged as an outstanding religious teacher in 6th century B.C. Iran, reviving the monotheistic teachings of the Salem cult amidst a period of moral renaissance. (95:6.1) (121:6.4)
+> https://en.wikipedia.org/wiki/Zoroaster
 
-Zoroastrianism | (92:6.8) | Ahura-Mazda; Zoroaster | RELIGION | 
-Ganid’s abstract of (131:5)
-influence on Christianity (98:7.6)
-militantly opposed Mithraism (98:5.2)
-no religion contained more Salem teachings (131:5.1)
-religion of action and work, not prayers and rituals (95:6.3)
-religion of morals (5:4.7)
-Rimmonites embraced beliefs of (146:1.1-3)
-spread by the sword (95:6.4)
+Zoroastrianism; Zoroastrian; Zoroastrians | (92:6.8) | Ahura-Mazda; Zoroaster | RELIGION | OK
+Zoroastrianism had a significant influence on Christianity through interactions with Mithraism, shaping the theologic and philosophic elements of Christian teachings. (98:7.6)
+Zoroastrianism militantly opposed Mithraism, which later influenced Christianity through the Mithraic cult. (98:5.2)
+Zoroaster's religion, influenced by Melchizedek missionaries, contained the most Salem teachings aside from Judaism. (131:5.1)
+Zoroastrianism is a religion of action, based on work rather than prayers and rituals, centered around a god of supreme wisdom and civilization, fighting against evil and inaction. (95:6.3)
+The Zoroastrians practiced a religion of morals, while Hindus focused on metaphysics and Confucianists emphasized ethics, but Jesus exemplified a religion of service that unifies the good, beautiful, and true in all human experience. (5:4.7)
+The Rimmonites embraced beliefs of the Babylonian god Ramman, leading Jesus and the twenty-four to clarify the differences between older teachings and the new gospel of the kingdom. (146:1.1-3)
+Zoroastrianism, spread by the sword, symbolized the pure and wise Spirit through fire, despite Zoroaster's original teachings. (95:6.4)
+From the records of this religion Ganid’s abstract of Zoroastrianism includes teachings on the all-wise, good, and glorious One God, as well as the importance of living in consonance with truth and seeking union with righteousness. (131:5)
+> https://en.wikipedia.org/wiki/Zoroastrianism
 
-Zulus | | | RACE | 
-religion of ghost fear and sacrifice (92:6.1)
+Zulus | | | RACE | OK
+The Zulus' religion of ghost fear and sacrifice is an example of the social evolution of man's worship impulse in the twentieth century. (92:6.1)
+> https://en.wikipedia.org/wiki/Zulu_people

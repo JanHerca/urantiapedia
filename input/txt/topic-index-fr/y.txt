@@ -9,84 +9,96 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Yahweh | (96) (97:3) | | PERSON | 
-Yahweh anthropomorphe d'une plus grande valeur religieuse qu'un Absolu lointain (94:11.12)
-on croit qu'il a créé à la fois le bien et le mal (142:3.9)
-les éruptions du mont Horeb ont amené les Bédouins à craindre Yahweh (96:1.11)
-Veau d'or, ancien symbole de (96:4.3)
-croissance du concept (159:4.5)
-Jéhovah désigne le concept achevé de (96:1.10)
-Le concept juif était clair, personnel et moral (97:10.5)
-Dieu tribal juif; Jésus n'a pas utilisé ce terme (169:4.5)
-Les Juifs n'ont pas changé de nom (96:1.15)
-Le roi David a rendu le culte de Yahweh officiel (97:9.14)
-Moïse a proclamé Yahweh comme un concept élargi de l'ancien dieu tribal des Sémites (96:4.2)
-Samuel a proclamé que Yahweh est immuable (97:1.4)
-Yahweh suprême était le concept du Créateur universel (142:3.7)
-Les Syriens croyaient en (96:1.13)
-transformation du dieu esprit jaloux et cruel du volcan Sinaï (96:1.3) (96:4.1) (97:10.8) (142:3.3) (169:4.5)
-a subi le développement le plus étendu de toutes les théories mortelles de
-Dieu (96:1.15)
-vénéré par plus de 100 tribus arabes (96:2.5)
+Yahweh | (96) (97:3) | | PERSON | OK
+Un Yahweh anthropomorphe a une plus grande valeur religieuse qu’un Absolu lointain dans le bouddhisme ou le brahmanisme, unifiant la philosophie et harmonisant la cosmologie, mais n’étant pas vital pour le développement religieux. (94:11.12)
+Yahweh, considéré comme le créateur du bien et du mal, représente l’évolution de la compréhension de Dieu dans les Écritures juives racontées par Jésus. (142:3.9)
+influence sur plusieurs personnes
+	Les éruptions du mont Horeb ont instillé la crainte de Yahweh chez les Bédouins, qui l’ont plus tard vénéré comme leur dieu suprême. (96:1.11)
+	Les Syriens croyaient en Yahweh ainsi qu’en leurs propres dieux, selon les conseils de leurs prophètes. (96:1.13)
+	Plus de 100 tribus arabes adoraient Yahweh, tandis qu'une version modifiée de l'ancien rituel de Yahweh était pratiquée par les esclaves captifs hébreux. (96:2.5)
+Evolution du concept
+	La croissance du concept de la beauté et de la gloire de Yahweh se reflète dans toutes les Écritures, de Samuel à Isaïe, mettant l’accent sur l’instruction religieuse et l’orientation spirituelle plutôt que sur l’exactitude historique. (159:4.5)
+	Le concept achevé de Yahweh est désigné par le terme Jéhovah, apparu quinze cents ans après Jésus. (96:1.10)
+	Le concept de Yahweh a évolué vers l’idée du Père Universel, restant inchangé dans le nom tout au long de l’histoire juive. (96:1.15)
+	La religion juive, bien que défectueuse à bien des égards, a préservé ses valeurs morales grâce à sa conception claire et personnelle du Yahweh suprême. (97:10.5)
+	Les Juifs n’ont pas changé le nom de Yahweh tout au long de l’évolution de leur conception de Dieu. (96:1.15)
+	Moïse a proclamé Yahweh comme un concept élargi de la Déité, combinant les influences d'El Shaddai et d'El Elyon, apprises de ses parents et de son beau-père. (96:4.2)
+	Moïse a fait un compromis en adoptant l’ancien symbole du veau d’or comme Yahweh pour ses disciples. (96:4.3)
+	Samuel a proclamé Yahweh comme l’incarnation immuable de la divinité et de la perfection. (97:1.4)
+	La victoire du roi David sur les Philistins lui permit de rendre le culte de Yahweh officiel pour son royaume et d'imposer un tribut aux tribus voisines. (97:9.14)
+	À l’époque d’Isaïe, le concept évolutif du Yahweh Suprême en tant que Créateur Universel a remplacé les idées précédentes de la Déité. (142:3.7)
+	La transformation du dieu spirituel jaloux et cruel du volcan du Sinaï, Yahweh, s'est accomplie grâce à l'évolution et à l'élévation de l'enseignement mosaïque, conduisant au concept exalté et céleste du Père aimant et miséricordieux de toute l'humanité. (96:1.3) (96:4.1) (97:10.8) (142:3.3) (169:4.5)
+	Jésus faisait principalement référence à la Divinité comme étant Dieu et Père, évitant le terme Yahweh utilisé pour le Dieu tribal des Juifs. (169:4.5)
+> https://fr.wikipedia.org/wiki/Yahweh
 
-yahvistes | | | RELIGION | 
-Le conflit avec les Baalites était d'ordre socio-économique et non religieux (97:3)
-considérait la terre comme inaliénable (97:3.2)
-tribus arabes du sud ou nomades (97:3.2)
+yahvistes | | | RELIGION | OK
+Le conflit entre les Yahvéites et les Baalites était une bataille socio-économique pour la propriété foncière, qui s'est transformée en une lutte religieuse menée par Élie en faveur du monothéisme. (97:3)
+Les Yahvéites croyaient que la terre était un don inaliénable de Dieu, qui ne pouvait être ni vendu ni hypothéqué. (97:3.2)
+Les Yahwehites, tribus arabes du Sud ou nomades, considéraient la terre comme un don divin fait à leur clan, insistant sur le fait qu'elle ne pouvait être ni achetée ni vendue. (97:3.2)
 
-yaks | | | | 
-domestiqué vers 5000 av. J.-C. (81:2.12)
+yaks; yak | | | | OK
+Le yak a été domestiqué vers 5000 av. J.-C., aux côtés d'autres bêtes de somme telles que le bœuf, le chameau et le cheval, utilisées par les anciens agriculteurs mésopotamiens, du Turkestan et chinois. (81:2.12)
+> https://fr.wikipedia.org/wiki/Yack
 
-yang | | yin et yang | | 
+yang | | yin et yang | | OK
 
-fleuve Yang-Tsé; Yang-Tsé | | | PLACE | 
-La culture chinoise en 18 000 av. J.-C. (79:6.5) (79:8.5)
+fleuve Yang-Tsé; Yang-Tsé | | | PLACE | OK
+La culture chinoise le long du fleuve Yangtze remonte à 18 000 av. J.-C. (79:6.5) (79:8.5)
+> https://fr.wikipedia.org/wiki/Yangtsé
 
-bâiller | | | | 
-croyance qu'un fantôme malin pourrait entrer dans la bouche pendant (87:3.2)
+bailler | | | | OK
+La croyance en des fantômes malins entrant dans la bouche pendant un bâillement a alimenté la peur dans les premières pratiques de culte ancestral. (87:3.2)
+> https://fr.wikipedia.org/wiki/B%C3%A2illement
 
-désir | | | | 
-être coupable de maladie chronique (155:1.3)
+désir; désirs | | | | OK
+Coupables d’un désir chronique, les disciples de Jésus ont été exhortés à s’emparer du royaume par l’assaut spirituel plutôt que de simplement regretter le passé, de se plaindre du présent et d’espérer vainement l’avenir. (155:1.3)
 
-années | | temps:jours et années | | 
-1000 ans aux yeux de Dieu (2:2.2)
+années; ans | | temps:jours et années | | OK
+Los planes del Padre Universal son firmes e inmutables, con mil años a la vista como ayer en el pasado. (2:2.2)
+> https://fr.wikipedia.org/wiki/Année_(calendrier)
 
-race jaune | (64:6.14-16) | Chinois; races | RACE | 
-consolidation de l'Asie centrale en 15 000 av. J.-C. (78:1.7) (78:3.8)
-a dérivé dans les ténèbres après l'apostasie de Caligastia (64:6.15)
-ont chassé les Andonites d'Asie (78:1.5) (79:6.1)
-a chassé la race rouge d'Asie vers l'Amérique du Nord (64:6.4,14) (64:7.4) (78:1.5-7)
-est entré en Chine en 300 000 av. J.-C., et a chassé les Néandertaliens (79:5.2-3)
-échappé au mélange avec des souches dégradées; renforcé par le rouge supérieur et l'andonique (79:5.1-2) (79:6.7)
-les facteurs de supériorité étaient génétiques, sociaux, spirituels et géographiques (79:6.6-12) (79:7.3,5) (79:8.15)
-ils ont combattu la race rouge en Asie pendant 200 000 ans (79:5.5)
-en Amérique centrale et en Amérique du Sud (79:5.8)
-en Inde (79:2.2)
-migré vers l'Asie (64:7.3-4)
-Type mongoloïde (81:4.12)
-sur les îles du Pacifique (79:6.3)
-petit mais puissant héritage adamique (64:6.16) (78:5.6) (78:6.4) (79:6.7) (79:7) (80:1.5)
-un peu large (81:4.2-3)
-souches incorporées dans la race bleue et blanche (80:0.2) (80:3.2) (80:9.2,5,10)
-a souffert de l'absorption de la race verte, des inférieurs indiens (79:6.7)
-asservit généralement la race verte (51:4.6)
+race jaune; homme jaune; tribus jaunes; hommes jaunes | (64:6.14-16) | Chinois; races | RACE | OK
+La race jaune a consolidé l'Asie centrale en 15 000 av. J.-C. (78:1.7) (78:3.8)
+La race jaune a sombré dans une grande obscurité après l'apostasie de Caligastia, mais a connu un âge brillant sous la direction de Singlangton proclamant le culte de la « Vérité Unique ». (64:6.15)
+L'expansion de la race jaune a chassé les Andonites d'Asie, les poussant vers le nord en Sibérie et vers l'ouest jusqu'au Turkestan. (78:1.5) (79:6.1)
+La race rouge fut finalement chassée d'Asie vers l'Amérique du Nord par ses frères jaunes, qui se révélèrent socialement et collectivement supérieurs dans la promotion de la civilisation raciale. (64:6.4,14) (64:7.4) (78:1.5-7)
+La race jaune est entrée en Chine en 300 000 av. J.-C., chassant les Néandertaliens dégradés et contaminés par des souches animales. (79:5.2-3)
+La génétique de la race jaune a été renforcée par des souches rouges et andoniques supérieures, leur permettant d'échapper largement au mélange avec des souches dégradées contrairement à leurs cousins ​​​​bleus en Europe. (79:5.1-2) (79:6.7)
+La supériorité de l’ancienne race jaune était due à des facteurs génétiques, sociaux, spirituels et géographiques. (79:6.6-12) (79:7.3,5) (79:8.15)
+Pendant plus de 200 000 ans, la race jaune a combattu la race rouge en Asie, marquant un chapitre épique dans l'histoire d'Urantia. (79:5.5)
+En Amérique centrale et du Sud, les races rouges et jaunes ont jeté les bases de civilisations durables avec un mélange d'influences jaunes, oranges et bleues. (79:5.8)
+La race jaune en Inde a une histoire complexe de mélange avec d'autres races, ce qui a donné naissance à une population diversifiée avec des influences variées. (79:2.2)
+La race jaune a migré vers l'Asie après l'homme rouge, suivant les premiers peuples Sangik qui évitaient les tropiques. (64:7.3-4)
+Le type mongoloïde comprend la race jaune d'origine, ainsi que les Chinois, les Amérindiens, les Malais et d'autres peuples indonésiens, modifiés par un mélange secondaire Sangik et Andonique. (81:4.12)
+Les îles du Pacifique étaient initialement occupées par un mélange de races, y compris les Andonites et plus tard les souches jaunes et rouges, les ancêtres du peuple japonais n'ayant pas quitté le continent avant 12 000 av. J.-C. (79:6.3)
+La survie et la nature pacifique de la race jaune peuvent être attribuées à un héritage adamique petit mais puissant, conduisant à des avancées dans la culture, la métallurgie et la civilisation en Asie de l'Est. (64:6.16) (78:5.6) (78:6.4) (79:6.7) (79:7) (80:1.5)
+La race jaune avait tendance à avoir la tête plutôt large, tout comme les hommes bleus lorsqu'ils étaient mélangés avec la race andonite. (81:4.2-3)
+La race blanche moderne intègre les souches survivantes des races adamiques, sangik, andonites, rouges, jaunes et bleues, ce qui donne lieu à une population très mélangée et diversifiée. (80:0.2) (80:3.2) (80:9.2,5,10)
+La race jaune a souffert de l'absorption de la race verte, mais les Chinois du nord ont été renforcés par le sang andonique et andite, tandis que les Chinois du sud ont été affaiblis par les peuples inférieurs venus de l'Inde. (79:6.7)
+La race jaune asservit généralement la race verte, comme on le voit dans les interactions entre les différentes races primitives. (51:4.6)
+> https://fr.wikipedia.org/wiki/Asiatique_(humain)
 
-fleuve Jaune | | | PLACE | 
-Nomades andites au nord de (79:1.8)
-La culture chinoise en 18 000 av. J.-C. (79:6.5) (79:8.5)
-la sécheresse a poussé les Andites vers les vallées de (79:1.3)
-des colonies plus progressives que le long du Yangtze (79:7.1-2)
+fleuve Jaune | | | PLACE | OK
+Les nomades andites au nord du fleuve Jaune ont laissé des traces de leur sang parmi les peuples touraniens et tibétains. (79:1.8)
+La culture chinoise en 18 000 av. J.-C. s'est épanouie le long du fleuve Jaune, conduisant finalement à la réunification politique de la race jaune et à une existence sociale pacifique pendant des milliers d'années. (79:6.5) (79:8.5)
+La sécheresse a poussé les Andites vers les vallées du Nil, de l'Euphrate, de l'Indus et du fleuve Jaune, produisant une nouvelle classe de commerçants. (79:1.3)
+Les colons andonites et andites ont fait progresser les colonies progressistes le long du fleuve Jaune, surpassant celles le long du Yangtze. (79:7.1-2)
+> https://fr.wikipedia.org/wiki/Fleuve_Jaune
 
-yin et yang | | | | 
-Enseignement chinois de l'âme et de l'esprit (111:0.4)
+yin et yang; le yang et le yin | | | RELIGION | OK
+L’enseignement chinois de l’âme et de l’esprit fait la distinction entre les aspects yang et yin d’un être humain, reflétant ainsi sa reconnaissance des deux composantes. (111:0.4)
+> https://fr.wikipedia.org/wiki/Yin_et_yang
 
-yoga | | | | 
-Gautama a formulé le bouddhisme après 6 ans de pratique vaine de (94:7.2)
+yoga | | | RELIGION | OK
+Gautama a formulé le bouddhisme après six années de pratique vaine du yoga, dissuadant de rechercher le salut à travers l'affliction physique et exhortant ses disciples à diffuser son évangile dans le monde entier. (94:7.2)
+> https://fr.wikipedia.org/wiki/Yoga
 
-joug | | | | 
-le joug divin donne la paix de Dieu (144:8.8)
-Jésus est devenu expert dans la fabrication de jougs (124:1.7) (126:1.1)
-prenez le joug et apprenez de Jésus (163:6.7)
-le joug de l'évangile est facile et le fardeau léger (141:3.7) (159:3.7)
+joug; jougs | | | | OK
+Prenez sur vous le joug divin et expérimentez la paix de Dieu. (144:8.8)
+Jésus, à l’âge de quatorze ans, est devenu un expert en fabrication de jougs tout en perfectionnant ses compétences de charpentier et d’ébéniste. (124:1.7) (126:1.1)
+Prenez le joug de Jésus et apprenez de lui ; trouver le véritable repos spirituel. (163:6.7)
+Le Maître invite ceux qui travaillent à prendre son joug, car c'est facile et le fardeau est léger, offrant repos et force spirituelle à tous ceux qui viennent volontairement. (141:3.7) (159:3.7)
+> https://fr.wikipedia.org/wiki/Joug
 
-jeune homme qui avait peur | (130:6) | | | 
+jeune homme qui était craintif et abattu | | Fortuné | PERSON | OK
+Sorti de son désespoir, le jeune homme autrefois craintif est devenu un chef de chrétiens en Crète grâce aux conseils et aux encouragements de Jésus. (130:6)

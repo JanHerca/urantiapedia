@@ -9,50 +9,55 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-Zachée | | | PERSON | 
-chef des publicains à Jéricho (171:6.1)
-La visite de Jésus à Z.; Jésus enseigne (171:6) (171:8.1)
+Zachée | | | PERSON | OK
+Zachée, le chef des publicains de Jéricho, grimpa avec empressement sur un sycomore pour apercevoir Jésus, qui le surprit alors en choisissant de rester chez lui pour la nuit. (171:6.1)
+Jésus, lors de sa visite chez Zachée, enseigna et apporta le salut dans sa maison, le déclarant fils d'Abraham. (171:6) (171:8.1)
+> https://fr.wikipedia.org/wiki/Zachée
 
-Zacharie | (123:3.4) | | PERSON | 
-père de Jean-Baptiste (122:2)
-prêtre assez bien éduqué (122:2.1) (135:0.4)
-possédait une petite ferme et recevait une allocation pour le temple (135:0.5)
-perplexe quant à la maternité éventuelle d'Elizabeth (122:2.5)
-n'a cru à l'histoire d'Elizabeth à propos de Gabriel qu'après un rêve (135:0.1)
-conféré avec Joseph à Jérusalem (122:8.4)
-croyaient que Jésus allait devenir le Messie (122:8.4)
-préarrangement avec Siméon et Anne (122:9.2-3)
-envoya des mages à Bethléem (122:8.6)
-avertit Joseph du massacre imminent d'Hérode (122:10.4)
-décédé en juillet 12 après J.C. (135:2)
+Zacharie | (123:3.4) | | PERSON | OK
+Le père de Jean-Baptiste, Zacharie, faisait partie du sacerdoce juif et sa mère, Élisabeth, était apparentée à Marie, la mère de Jésus, recevant une visitation divine prédisant la mission de leur fils en tant que précurseur du Messie. (122:2)
+L'éducation de Jean-Baptiste fut soigneusement supervisée par son père prêtre assez instruit, Zacharie. (122:2.1) (135:0.4)
+Zacharie et Élisabeth parviennent à peine à subvenir à leurs besoins grâce à leur petite ferme, complétée par l'allocation du temple de Zacharie. (135:0.5)
+Malgré son scepticisme initial, Zacharias finit par être pleinement convaincu de la future maternité d'Elizabeth, croyant au destin de leur fils. (122:2.5)
+Zacharie a cru à la visite de Gabriel seulement après un rêve, conduisant à la naissance de Jean-Baptiste. (135:0.1)
+Joseph s'entretint avec Zacharie à Jérusalem au sujet de la possibilité que Jésus devienne le libérateur des Juifs. (122:8.4)
+Zacharie, Élisabeth et Marie croyaient que Jésus deviendrait le Messie, ce qui poussa Joseph à rester à Bethléem pour que Jésus puisse grandir en tant que successeur de David. (122:8.4)
+Zacharie s'est entendu avec Siméon et Anne pour identifier Jésus dans le cortège des premiers-nés au temple. (122:9.2-3)
+Zacharie envoya des mages à Bethléem pour trouver la « lumière de la vie » sous la forme d'un bébé nommé Jésus. (122:8.6)
+Zacharie, averti par un croyant en la venue du Messie, sauva Joseph du massacre d’Hérode en envoyant un messager la nuit précédant la fuite de Jésus et de sa famille en Égypte. (122:10.4)
+Zacharie est mort en juillet de l'année suivante. 12, conduisant Jean à lutter avec le vœu de Nazaréen et finalement à chercher la purification à Jérusalem, avant de faire des projets pour l'avenir et de s'installer finalement dans la colonie d'Engedi. (135:2)
+> https://fr.wikipedia.org/wiki/Zacharie_(père_de_Jean_le_Baptiste)
 
-Zadoc | | | PERSON | 
-adopté l'ancêtre de Joseph (122:4.3)
+Zadoc | | | PERSON | OK
+Joseph était considéré comme faisant partie de la « maison de David » parce que Tsadok avait adopté son ancêtre paternel six générations auparavant, le liant ainsi à la lignée du roi David. (122:4.3)
+> https://fr.wikipedia.org/wiki/Généalogie_de_Jésus
 
-Zaphon | (159:0.2) (165:0.1) | | PLACE | 
-Mission Pérée
+Zaphon | | | PLACE | OK
+L'une des villes visitées par Jésus, les douze et les soixante-dix, lors de la mission de Pérée entre le 3 janvier 30 jusqu'à la mort de Jésus (159:0.2) (165:0.1)
 
 zèle | | enthousiasme | | OK
 
-Zélotes | | | | 
-Jésus a refusé de se joindre à eux (127:2.1-10) (136:9.7)
-Jude très actif dans (128:6.6)
-Le frère de Marie, Simon, était officier de (127:2.4)
-Simon Zélotès était un haut fonctionnaire de (138:2.8) (139:11.1)
-parti nationaliste fort opposé aux impôts romains (127:2.1) (137:7.9)
+Zélotes; zélotes | | | | OK
+Les Zélotes, un parti nationaliste fort opposé aux impôts romains, prônaient la rébellion contre la domination romaine en Judée. (127:2.1) (137:7.9)
+Jésus a refusé de rejoindre les Zélotes, malgré la pression de sa famille et de ses pairs à Nazareth. (127:2.1-10) (136:9.7)
+Jésus a vainement tenté d'obtenir l'audition immédiate de Jude ou sa libération avant la Pâque, car il était détenu jusqu'au lendemain en raison de la « sainte convocation ». (128:6.6)
+L'oncle de Jésus, Simon, un officier de la division galiléenne, s'était joint aux Zélotes, provoquant une brouille entre lui et Jésus. (127:2.4)
+Simon Zélote était un haut fonctionnaire parmi les Zélotes avant de devenir apôtre avec Jésus. (138:2.8) (139:11.1)
+> https://fr.wikipedia.org/wiki/Zélotes
 
-Zébédée | (137:3.5) (138:5.4) (140:7.3) | | PERSON | 
-célébré la Pâque avec Anne à Jérusalem (129:2.8)
-a ordonné au fils John d'acheter une maison avec l'argent de Jésus (129:2.4)
-la famille adorait presque Jésus (129:1.10)
-père-partenaire de Jésus (129:1.4)
-la maison servait de quartier général au royaume (138:5.4) (154:7.2)
-à Capharnaüm, Jésus a élu domicile chez (134:2.5) (137:3.4)
-Jésus rejoint l'entreprise de construction de bateaux de Zébédée (129:1.2-4,11) (134:9.6) (137:6.5)
-Jésus a parlé à Zébédée du prochain voyage en Méditerranée (129:2.10) (129:3.3-4)
-entreprise de séchage de poisson détenue (139:1.1)
-a acheté la participation de Joseph dans une propriété de Capharnaüm (127:6.10)
-avec sa femme Salomé il eut 3 fils, 4 filles (129:1.5)
+Zébédée | (137:3.5) (138:5.4) (140:7.3) | | PERSON | OK
+Zébédée et sa famille célébrèrent la Pâque avec Anne à Jérusalem. (129:2.8)
+Après le départ de Jésus, Jean consulta Zébédée au sujet de l'argent de Jésus, et ils décidèrent d'investir dans une maison à Capharnaüm, en détenant le titre en fiducie pour Jésus. (129:2.4)
+La famille Zébédée assistait aux conférences du soir de Jésus, où il donnait des instructions avancées sur divers sujets, montrant ses idées et ses idéaux perspicaces. (129:1.10)
+Zébédée, le père et associé de Jésus, possédait des ateliers de construction de bateaux sur le lac près de Capharnaüm, où Jésus vivait et travaillait à ses côtés. (129:1.4)
+La maison de Zébédée servait de quartier général au royaume, où Jésus énonçait des plans pour la proclamation du royaume et insistait sur la nécessité d'éviter les conflits avec les autorités civiles, car ses disciples vivaient pour maintenir le contact avec lui. (138:5.4) (154:7.2)
+À Capharnaüm, Jésus a élu domicile chez les Zébédée, apportant un sentiment de joie et de légèreté à ceux qui le connaissaient. (134:2.5) (137:3.4)
+Jésus, le maître artisan, a révolutionné la construction navale en s'associant à Zébédée pendant plus d'un an pour créer de nouveaux modèles et méthodes à Capharnaüm. (129:1.2-4,11) (134:9.6) (137:6.5)
+C'est à Zébédée seul que fut confié le secret du mystérieux voyage de Jésus en Méditerranée. (129:2.10) (129:3.3-4)
+Zébédée et André étaient autrefois partenaires dans l’entreprise de séchage de poisson à Bethsaïda. (139:1.1)
+Zébédée acheta la dernière partie de la succession de Joseph en acquérant sa participation dans une propriété de Capharnaüm. (127:6.10)
+Salomé, femme de Zébédée, aimait Jésus autant que ses propres fils, Jacques, Jean et David, tandis que ses filles le considéraient comme leur frère aîné. (129:1.5)
+> https://fr.wikipedia.org/wiki/Zébédée
 
 Zébédée, David | | David Zébédée | PERSON | OK
 
@@ -62,41 +67,51 @@ Zébédée, Jean | | Jean Zébédée | PERSON | OK
 
 Zébédée, Salomé | | Salomé (épouse de Zébédée) | PERSON | OK
 
-Zabulon | (146:3.10) (156:6.2) | | PLACE | 
+Zabulon | | | PLACE | OK
+L’instruction spéciale donnée par Jésus pendant leur séjour à Zabulon visait à clarifier les expériences religieuses personnelles et les obligations religieuses sociales. (146:3.10) (156:6.2)
+> https://fr.wikipedia.org/wiki/Tribu_de_Zebulon
 
-Zacharie, Livre de; Zacharie | | | PERSON | 
+Zacharie, Livre de; Zacharie | | | PERSON | OK
+Zacharie a été tué entre le sanctuaire et l’autel, symbole de la responsabilité du rejet et de la destruction des messagers du ciel à travers l’histoire. (175:1.22)
 Livre de Zacharie
-	épisode du roi monté sur un âne (172:3.4)
-	Jésus a cité (146:2.3)
-tué entre le sanctuaire et l'autel (175:1.22)
+	Le Maître a choisi d’accomplir la prophétie de Zacharie en entrant à Jérusalem monté sur un âne. (172:3.4)
+	Jésus a cité le prophète Zacharie, avertissant que ceux qui refusent de tenir compte des lois de Dieu verront leurs prières comme une abomination. (146:2.3)
+> https://fr.wikipedia.org/wiki/Zacharie_(prophète_du_Ve_siècle)
 
-Zeus | | | PERSON | 
-Dyaus-Zeus était le chef du panthéon des dieux grecs (98:1.3-4)
-transplanté à Rome, Zeus devint Jupiter (98:3.3)
+Zeus | | | RELIGION | OK
+Zeus, chef du panthéon grec, était un homme-dieu imposé à un monde méditerranéen dominé par les cultes maternels, entravant l'évolution des Grecs vers un véritable monothéisme. (98:1.3-4)
+La transformation de Zeus en Jupiter symbolisait l'importante importation culturelle de la Grèce à Rome, influençant grandement la religion romaine. (98:3.3)
+> https://fr.wikipedia.org/wiki/Zeus
 
-zinc | (59:3.4) (59:5.9) | | | 
+zinc | | | | OK
+Le zinc se trouve dans les gisements de cet âge, aux côtés de gaz, de pétrole et de plomb, tous formés à partir d'anciennes collections de matières organiques et de sédimentations dans des plans d'eau paresseux. (59:3.4) (59:5.9)
+> https://fr.wikipedia.org/wiki/Zinc
 
-Zone de l'Infinitéi; Zone inconnue et non révélée de l'Infinité | | | PLACE | 
-au bas du Paradis directement sous la Trinité (11:5.2-4)
+Zone de l'Infinitéi; Zone inconnue et non révélée de l'Infinité | | | PLACE | OK
+Sous la Trinité dans le Nether Paradise se trouve la mystérieuse Zone de l'Infini entourée d'une zone sans nom, avec un accent particulier sur la puissance spatiale et la force-énergie. (11:5.2-4)
 
-Zophar | | | PERSON | 
-cherchait un but caché dans les misères de Job (148:6.8,9)
+Zophar | | | PERSON | OK
+Tsophar, cherchant un but caché dans les misères de Job, n'a pas réussi à lui offrir du réconfort dans ses paroles de conseil. (148:6.8,9)
+> https://fr.wikipedia.org/wiki/Sofar_de_Naama
 
-Zoroastre | | zoroastrisme | PERSON | 
-la flamme symbolisait l'Esprit (95:6.4)
-en contact direct avec les descendants des missionnaires de Salem (131:5.1)
-très affecté par le spiritisme dualiste (92:5.12)
-éminent professeur religieux; apparu en Iran au 6e siècle av. J.-C. (95:6.1) (121:6.4)
+Zoroastre | | zoroastrisme | PERSON | OK
+Zoroastre utilisait la flamme comme symbole de l’Esprit pur et sage, n’enseignant pas l’adoration mais inspirant la révérence. (95:6.4)
+La religion de Zoroastre en Perse a été influencée par les missionnaires de Salem et leurs enseignements sur le Dieu unique. (131:5.1)
+Zoroastre, influencé par le spiritisme double, exaltait toujours une divinité éternelle et le triomphe de la lumière sur les ténèbres. (92:5.12)
+Zoroastre est devenu un enseignant religieux exceptionnel au 6e siècle avant J.-C. L'Iran fait revivre les enseignements monothéistes du culte de Salem au milieu d'une période de renaissance morale. (95:6.1) (121:6.4)
+> https://fr.wikipedia.org/wiki/Zoroastre
 
-zoroastrisme; zoroastrienne; zoroastriens; Zoroastrian teachings | (92:6.8) | Ahura-Mazda; Zoroastre | RELIGION | 
-Résumé de Ganid de (131:5)
-influence sur le christianisme (98:7.6)
-s'opposait de manière militante au mithraïsme (98:5.2)
-aucune religion ne contenait plus d'enseignements de Salem (131:5.1)
-religion d'action et de travail, et non de prières et de rituels (95:6.3)
-religion de la morale (5:4.7)
-Les Rimmonites ont adopté les croyances de (146:1.1-3)
-propagé par l'épée (95:6.4)
+zoroastrisme; zoroastrienne; zoroastriens; Zoroastrian teachings | (92:6.8) | Ahura-Mazda; Zoroastre | RELIGION | OK
+Le zoroastrisme a eu une influence significative sur le christianisme à travers ses interactions avec le mithraïsme, façonnant les éléments théologiques et philosophiques des enseignements chrétiens. (98:7.6)
+Le zoroastrisme s'opposa farouchement au mithraïsme, qui influença plus tard le christianisme à travers le culte mithraïque. (98:5.2)
+La religion de Zoroastre, influencée par les missionnaires Melchisédek, contenait la plupart des enseignements de Salem, en dehors du judaïsme. (131:5.1)
+Le zoroastrisme est une religion d’action, basée sur le travail plutôt que sur les prières et les rituels, centrée autour d’un dieu de sagesse suprême et de civilisation, luttant contre le mal et l’inaction. (95:6.3)
+Les zoroastriens pratiquaient une religion de morale, tandis que les hindous se concentraient sur la métaphysique et les confucianistes mettaient l’accent sur l’éthique, mais Jésus a illustré une religion de service qui unifie le bien, le beau et le vrai dans toute expérience humaine. (5:4.7)
+Les Rimmonites ont adopté les croyances du dieu babylonien Ramman, ce qui a conduit Jésus et les vingt-quatre à clarifier les différences entre les anciens enseignements et le nouvel évangile du royaume. (146:1.1-3)
+Le zoroastrisme, propagé par l'épée, symbolisait l'Esprit pur et sage à travers le feu, malgré les enseignements originaux de Zoroastre. (95:6.4)
+D'après les archives de cette religion, le résumé du zoroastrisme de Ganid comprend des enseignements sur le Dieu unique, tout-sage, bon et glorieux, ainsi que sur l'importance de vivre en harmonie avec la vérité et de rechercher l'union avec la justice. (131:5)
+> https://fr.wikipedia.org/wiki/Zoroastrisme
 
-Zoulous | | | RACE | 
-religion de la peur des fantômes et du sacrifice (92:6.1)
+Zoulous | | | RACE | OK
+La religion des Zoulous, fondée sur la peur des fantômes et le sacrifice, est un exemple de l'évolution sociale de l'impulsion cultuelle de l'homme au XXe siècle. (92:6.1)
+> https://fr.wikipedia.org/wiki/Zoulous

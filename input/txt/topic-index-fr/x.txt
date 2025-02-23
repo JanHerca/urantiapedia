@@ -9,17 +9,18 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-rayons X | (41:5.1-5) | radioactivité | | 
-15 pieds de surface de densité Urantia empêcheraient l'évasion solaire de
-Rayons X, provoquant une explosion (41:5.1)
-permettre à la lumière de s'échapper des soleils (41:9.1)
-dynamiser les électrons à l'intérieur des soleils (41:5.3-5)
-niveau d'existence atomique (41:7.1)
-modifier le plasma vital des plantes et des animaux (77:2.5)
-matière préatomique légèrement sensible à la gravité lorsqu'elle est activée par (42:6.2)
-la pression des rayons X soutient les couches externes du soleil (41:9.4)
-produit par l'agitation provoquée par l'arrêt soudain d'un électron (42:5.8)
-catégorie énergie des vagues (42:5.1)
+rayons X | (41:5.1-5) | radioactivité | | OK
+Les soleils dans l’espace ne sont pas très denses. Une densité trop grande retiendrait la lumière par opacité jusqu'à ce que la pression de l'énergie lumineuse atteigne le point d'explosion. Cinq mètres de surface avec la densité d’Urantia empêcheraient efficacement la fuite de tous les rayons X et de toutes les énergies lumineuses jusqu’à ce que la pression provoque une explosion (41:5.1)
+Les rayons X permettent à la lumière de s’échapper du soleil en pénétrant tout l’espace et en aidant à maintenir les partenariats énergétiques ultimes. (41:9.1)
+L’intérieur du soleil dynamise les électrons, créant un vaste générateur de rayons X qui propulse ces puissantes émanations dans l’espace. (41:5.3-5)
+Les rayons X sont les grands niveleurs de l’existence atomique dans les températures intenses trouvées dans le soleil. (41:7.1)
+Les traits mutants de la première génération Nodite ont été causés par des changements dans le plasma germinatif, de la même manière que les scientifiques modifient le plasma vital des plantes et des animaux avec les rayons X. (77:2.5)
+Les rayons X activent la matière préatomique pour la rendre légèrement sensible à la gravité. (42:6.2)
+L’équilibre entre la gravité et la chaleur du soleil détermine la stabilité de ses couches externes, la pression des rayons X soutenant son existence continue. (41:9.4)
+Les rayons X sont produits par l’agitation électromagnétique provoquée par l’arrêt soudain d’un électron. (42:5.8)
+Les rayons X font partie des dix octaves d'énergie ondulatoire au-dessus de la lumière solaire visible dans le superunivers d'Orvonton. (42:5.1)
+> https://fr.wikipedia.org/wiki/Rayon_X
 
-Xénophane | | | PERSON | 
-Grec; concept de divinité panthéiste (98:2.6)
+Xénophane | | | PERSON | OK
+Xénophane a adopté un concept de divinité panthéiste dans son enseignement d’un seul Dieu. (98:2.6)
+> https://fr.wikipedia.org/wiki/Xénophane

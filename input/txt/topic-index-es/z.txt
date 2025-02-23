@@ -9,50 +9,55 @@
 < Help: https://urantiapedia.org/es/help/github_topicindex
 <_____________________________________________________________________________
 
-Zaqueo | | | PERSON | 
-publicano jefe en Jericó (171:6.1)
-La visita de Jesús a Zaqueo; Jesús enseñó (171:6) (171:8.1)
+Zaqueo | | | PERSON | OK
+Zaqueo, el jefe de los publicanos de Jericó, subió ansiosamente a un sicómoro para ver a Jesús, quien luego lo sorprendió al decidir quedarse en su casa para pasar la noche. (171:6.1)
+Jesús, al visitar a Zaqueo, enseñó y trajo la salvación a su hogar, declarándolo hijo de Abraham. (171:6) (171:8.1)
+> https://es.wikipedia.org/wiki/Zaqueo
 
-Zacarías (padre de Juan) | (123:3.4) | | PERSON | 
-Zacarías es el padre de Juan el Bautista (122:2)
-fue un sacerdote bastante bien educado (122:2.1) (135:0.4)
-poseía una pequeña granja, recibía la asignación para el templo (135:0.5)
-se quedó perplejo con respecto a la futura maternidad de Isabel (122:2.5)
-creyó la historia de Isabel sobre Gabriel sólo después de un sueño (135:0.1)
-tuvo una reunión con José en Jerusalén tras el nacimiento de Juan (122:8.4)
-creía que Jesús se convertiría en el Mesías (122:8.4)
-negoció un arreglo previo con Simeón y Ana, los que asistieron a la presentación de Jesús recién nacido en el templo (122:9.2-3)
-envió a los reyes magos a Belén (122:8.6)
-advirtió a José de la inminente masacre de Herodes (122:10.4)
-murió el 12 de julio d.C. (135:2)
+Zacarías (padre de Juan) | (123:3.4) | | PERSON | OK
+El padre de Juan el Bautista, Zacarías, era parte del sacerdocio judío y su madre, Isabel, estaba emparentada con María, la madre de Jesús, recibiendo una visitación divina que predijo la misión de su hijo como precursor del Mesías. (122:2)
+La educación de Juan el Bautista fue supervisada cuidadosamente por su padre, Zacarías, un sacerdote bastante instruido. (122:2.1) (135:0.4)
+Zacarías e Isabel apenas pueden subsistir con su pequeña granja, complementada con la asignación para el templo de Zacarías. (135:0.5)
+A pesar de su escepticismo inicial, Zacarías finalmente quedó plenamente convencido de la posible maternidad de Isabel y creyó en el destino de su hijo. (122:2.5)
+Zacarías creyó en la visita de Gabriel sólo después de un sueño, que condujo al nacimiento de Juan el Bautista. (135:0.1)
+José consultó con Zacarías en Jerusalén acerca de que Jesús se convertiría en el libertador de los judíos. (122:8.4)
+Zacarías, Isabel y María creyeron que Jesús se convertiría en el Mesías, lo que impulsó a José a permanecer en Belén para que Jesús creciera como el sucesor de David. (122:8.4)
+Zacarías acordó previamente con Simeón y Ana identificar a Jesús en la procesión de los primogénitos en el templo. (122:9.2-3)
+Zacarías envía a unos Reyes Magos a Belén para encontrar la “luz de la vida” en un bebé llamado Jesús. (122:8.6)
+Zacarías, advertido por un creyente en el Mesías venidero, salvó a José de la masacre de Herodes enviando un mensajero la noche antes de que Jesús y su familia huyeran a Egipto. (122:10.4)
+Zacarías murió en julio del año 12 d.C., lo que llevó a Juan a luchar con el voto nazareo y finalmente buscar la purificación en Jerusalén, antes de hacer planes para el futuro y finalmente establecerse en la colonia de Engedi. (135:2)
+> https://es.wikipedia.org/wiki/Zacarías_(padre_de_Juan_el_Bautista)
 
-Zadoc | | | PERSON | 
-adoptó al antepasado de José (122:4.3)
+Zadoc | | | PERSON | OK
+José fue contado como de la “casa de David” porque Zadoc adoptó a su antepasado paterno seis generaciones antes, vinculándolo al linaje del rey David. (122:4.3)
+> https://es.wikipedia.org/wiki/Genealogía_de_Jesús
 
-Zafón | (159:0.2) (165:0.1) | | PLACE | 
-Una de las poblaciones recorridas en la misisón de Perea
+Zafón | | | PLACE | OK
+fue una de las poblaciones recorridas durante la misión de Perea de los setenta, entre el 3 de enero de 30 hasta la muerte de Jesús (159:0.2) (165:0.1)
 
 celo | | entusiasmo | | OK
 
-zelotes | | | | 
-Jesús se negó a unirse (127:2.1-10) (136:9.7)
-Judá muy activo en (128:6.6)
-Simón, el hermano de María, era oficial de (127:2.4)
-Simón Zelotes era alto oficial de (138:2.8) (139:11.1)
-partido nacionalista fuerte opuesto a los impuestos romanos (127:2.1) (137:7.9)
+celotes | | | | OK
+Los celotes, un fuerte partido nacionalista opuesto a los impuestos romanos, abogaron por la rebelión contra el dominio romano en Judea. (127:2.1) (137:7.9)
+Jesús se negó a unirse a los celotes, a pesar de la presión de su familia y sus compañeros en Nazaret. (127:2.1-10) (136:9.7)
+Jesús se esforzó en vano para que Judas fuera escuchado o liberado inmediatamente antes de la Pascua, ya que estaba detenido hasta el día siguiente debido a la "santa convocación". (128:6.6)
+El tío de Jesús, Simón, un oficial de la división de Galilea, se había unido a los celotes, lo que provocó un distanciamiento entre él y Jesús. (127:2.4)
+Simón el Zelote era un alto oficial de los celotes antes de convertirse en apóstol con Jesús. (138:2.8) (139:11.1)
+> https://es.wikipedia.org/wiki/Zelote
 
-Zebedeo | (137:3.5) (138:5.4) (140:7.3) | | PERSON | 
-celebró la Pascua con Anás en Jerusalén (129:2.8)
-le ordenó al hijo John que comprara una casa con el dinero de Jesús (129:2.4)
-la familia casi adoró a Jesús (129:1.10)
-padre-compañero de Jesús (129:1.4)
-el hogar sirvió como sede del reino (138:5.4) (154:7.2)
-en Cafarnaúm, Jesús hizo su hogar con (134:2.5) (137:3.4)
-Jesús se unió al negocio de fabricación de botes de Zebedeo (129:1.2-4,11) (134:9.6) (137:6.5)
-Jesús le contó a Zebedeo sobre el próximo viaje por el Mediterráneo (129:2.10) (129:3.3-4)
-negocio propio de secado de pescado (139:1.1)
-compró el capital de José en una propiedad de Cafarnaúm (127:6.10)
-con su esposa Salomé tuvo 3 hijos, 4 hijas (129:1.5)
+Zebedeo | (137:3.5) (138:5.4) (140:7.3) | | PERSON | OK
+Zebedeo y su familia celebraron la Pascua con Anás en Jerusalén. (129:2.8)
+Después de que Jesús se fue, Juan consultó a Zebedeo sobre el dinero de Jesús, y decidieron invertir en una casa en Capernaúm, manteniendo el título en fideicomiso para Jesús. (129:2.4)
+La familia Zebedeo asistía a las conferencias vespertinas de Jesús, donde él impartía instrucción avanzada sobre diversos temas, mostrando sus perspicaces ideas e ideales. (129:1.10)
+Zebedeo, padre y compañero de Jesús, era dueño de talleres de construcción de barcos en el lago cerca de Capernaúm, donde Jesús vivía y trabajaba junto a él. (129:1.4)
+La casa de Zebedeo sirvió como sede del reino, donde Jesús delineó los planes para proclamar el reino y enfatizó en evitar enfrentamientos con las autoridades civiles, ya que sus discípulos vivían para mantener contacto con él. (138:5.4) (154:7.2)
+En Cafarnaúm, Jesús habitó con los Zebedeos, trayendo un sentido de alegría y tranquilidad a quienes lo conocieron. (134:2.5) (137:3.4)
+Jesús, el maestro artesano, revolucionó la construcción de barcos al asociarse con Zebedeo durante más de un año para crear nuevos diseños y métodos en Capernaúm. (129:1.2-4,11) (134:9.6) (137:6.5)
+Sólo a Zebedeo le fue confiado el secreto del misterioso viaje de Jesús por el Mediterráneo. (129:2.10) (129:3.3-4)
+Zebedeo y Andrés fueron socios en el negocio de secado de pescado en Betsaida. (139:1.1)
+Zebedeo compró lo último de la herencia de José al adquirir su participación en una propiedad de Capernaum. (127:6.10)
+Salomé, esposa de Zebedeo, amaba a Jesús tanto como a sus propios hijos, Santiago, Juan y David, mientras que sus hijas lo veían como su hermano mayor. (129:1.5)
+> https://es.wikipedia.org/wiki/Zebedeo
 
 Zebedeo (David) | | David Zebedeo | PERSON | OK
 
@@ -62,41 +67,51 @@ Zebede (Juan) | | Juan Zebedeo | PERSON | OK
 
 Zebedeo (Salomé) | | Salomé (esposa de Zebedeo) | PERSON | OK
 
-Zabulón | (146:3.10) (156:6.2) | | PLACE | 
+Zabulón | | | PLACE | OK
+La instrucción especial dada por Jesús durante su estancia en Zabulón se centró en aclarar las experiencias religiosas personales y las obligaciones religiosas sociales. (146:3.10) (156:6.2)
+> https://es.wikipedia.org/wiki/Tribu_de_Zabulón
 
-Zacarías (profeta) | | | PERSON | 
+Zacarías (profeta) | | | PERSON | OK
+Zacarías fue asesinado entre el santuario y el altar, símbolo de la responsabilidad por rechazar y destruir a los mensajeros del cielo a lo largo de la historia. (175:1.22)
 Libro de Zacarías
-	episodio del rey cabalgando sobre un asno (172:3.4)
-	Jesús citó (146:2.3)
-muerto entre el santuario y el altar (175:1.22)
+	El Maestro decidió cumplir la profecía de Zacarías entrando en Jerusalén montado en un asno. (172:3.4)
+	Jesús citó al profeta Zacarías, advirtiendo que aquellos que se niegan a prestar atención a las leyes de Dios encontrarán que sus oraciones son una abominación. (146:2.3)
+> https://es.wikipedia.org/wiki/Zacarías_(profeta)
 
-Zeus | | | PERSON | 
-Dyaus-Zeus era el jefe del panteón griego de dioses (98:1.3-4)
-trasplantado a Roma, Zeus se convirtió en Júpiter (98:3.3)
+Zeus | | | RELIGION | OK
+Zeus, jefe del panteón griego, fue un hombre-dios impuesto en un mundo mediterráneo dominado por cultos maternos, lo que obstaculizó el desarrollo de los griegos hacia el verdadero monoteísmo. (98:1.3-4)
+La transformación de Zeus en Júpiter simbolizó la extensa importación cultural de Grecia a Roma, influyendo enormemente en la religión romana. (98:3.3)
+> https://es.wikipedia.org/wiki/Zeus
 
-zinc | (59:3.4) (59:5.9) | | | 
+zinc | | | | OK
+El zinc se encuentra en los depósitos de esta época junto con gas, petróleo y plomo, todos formados a partir de antiguas acumulaciones de material orgánico y sedimentación en cuerpos de agua estancados. (59:3.4) (59:5.9)
+> https://es.wikipedia.org/wiki/Zinc
 
-Zona de la Infinidad; Zona desconocida y no revelada de la Infinidad | | | PLACE | 
-en el Paraíso inferior directamente debajo de la Trinidad (11:5.2-4)
+Zona de la Infinidad; Zona desconocida y no revelada de la Infinidad | | | PLACE | OK
+Debajo de la Trinidad en el Paraíso Inferior se encuentra la misteriosa Zona del Infinito, rodeada por un área sin nombre, con un enfoque específico en la potencia espacial y la fuerza-energía. (11:5.2-4)
 
-Zofar | | | PERSON | 
-buscó un propósito oculto en las miserias de Job (148:6.8,9)
+Zofar | | | PERSON | OK
+Zofar, al buscar un propósito oculto en las miserias de Job, no ofreció consuelo en sus palabras de consejo. (148:6.8,9)
+> https://es.wikipedia.org/wiki/Zofar_el_Naamatita
 
-Zoroastro | | zoroastrismo | PERSON | 
-Llama simbolizada por el Espíritu (95:6.4)
-en contacto directo con los descendientes de misioneros de Salem (131:5.1)
-muy afectado por el espiritismo dual (92:5.12)
-destacado maestro religioso; apareció en Irán en el siglo VI a.C. (95:6.1) (121:6.4)
+Zoroastro | | zoroastrismo | PERSON | OK
+Zoroastro utilizó la llama como símbolo del Espíritu puro y sabio, no enseñando adoración sino inspirando reverencia. (95:6.4)
+La religión de Zoroastro en Persia fue influenciada por los misioneros de Salem y sus enseñanzas del único Dios. (131:5.1)
+Zoroastro, influenciado por el espiritualismo dual, todavía exaltaba una Deidad eterna y el triunfo de la luz sobre la oscuridad. (92:5.12)
+Zoroastro surgió como un destacado maestro religioso en el Irán del siglo VI a.C., reviviendo las enseñanzas monoteístas del culto de Salem en medio de un período de renacimiento moral. (95:6.1) (121:6.4)
+> https://es.wikipedia.org/wiki/Zoroastro
 
-zoroastrismo | (92:6.8) | Ahura-Mazda; Zoroastro | RELIGION | 
-Resumen de Ganid de (131:5)
-influencia en el cristianismo (98:7.6)
-se opuso militantemente al mitraísmo (98:5.2)
-ninguna religión contenía más enseñanzas de Salem (131:5.1)
-religión de acción y trabajo, no oraciones y rituales (95:6.3)
-religión de la moral (5:4.7)
-Los rimmonitas abrazaron creencias de (146:1.1-3)
-esparcido por la espada (95:6.4)
+zoroastrismo; zoroastriano; zoroástricos | (92:6.8) | Ahura-Mazda; Zoroastro | RELIGION | OK
+El zoroastrismo tuvo una influencia significativa en el cristianismo a través de sus interacciones con el mitraísmo, dando forma a los elementos teológicos y filosóficos de las enseñanzas cristianas. (98:7.6)
+El zoroastrismo se opuso militantemente al mitraísmo, que más tarde influyó en el cristianismo a través del culto mitraico. (98:5.2)
+La religión de Zoroastro, influenciada por los misioneros de Melquisedec, contenía la mayoría de las enseñanzas de Salem aparte del judaísmo. (131:5.1)
+El zoroastrismo es una religión de acción, basada en el trabajo más que en oraciones y rituales, centrada en un dios de suprema sabiduría y civilización, que lucha contra el mal y la inacción. (95:6.3)
+Los zoroastrianos practicaban una religión de moral, mientras que los hindúes se centraban en la metafísica y los confucianistas enfatizaban la ética, pero Jesús ejemplificó una religión de servicio que unifica lo bueno, lo bello y lo verdadero en toda experiencia humana. (5:4.7)
+Los rimmonitas abrazaron las creencias del dios babilónico Ramman, lo que llevó a Jesús y a los veinticuatro a aclarar las diferencias entre las enseñanzas más antiguas y el nuevo evangelio del reino. (146:1.1-3)
+El zoroastrismo, difundido por la espada, simbolizaba el Espíritu puro y sabio a través del fuego, a pesar de las enseñanzas originales de Zoroastro. (95:6.4)
+De los registros de esta religión, el resumen del zoroastrismo que hace Ganid incluye enseñanzas sobre el Dios Único, omnisciente, bueno y glorioso, así como sobre la importancia de vivir en consonancia con la verdad y buscar la unión con la rectitud. (131:5)
+> https://es.wikipedia.org/wiki/Zoroastrismo
 
-zulúes | | | RACE | 
-religión del miedo a los fantasmas y el sacrificio (92:6.1)
+zulúes | | | RACE | OK
+La religión de los zulúes, basada en el temor a los fantasmas y los sacrificios, es un ejemplo de la evolución social del impulso de adoración del hombre en el siglo XX. (92:6.1)
+> https://es.wikipedia.org/wiki/Pueblo_zul%C3%BA
