@@ -9,180 +9,181 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-réveille pour les morts | | | | 
-origine dans les cultes fantômes (87:6.11)
+réveille pour les morts | | | | OK
+Les anciennes coutumes du culte des fantômes continuent d’influencer les veillées funèbres avec des rituels bruyants et des potions nauséabondes. (87:6.11)
 
-Pays de Galles | | Iles Britanniques | PLACE | 
-a reposé la souveraineté au Royaume-Uni (134:6.3)
+Pays de Galles | | Iles Britanniques | PLACE | OK
+La division de la souveraineté politique entre les États-nations conduit à la guerre, comme on l’a vu en Angleterre, en Écosse et au Pays de Galles avant qu’ils n’accordent leur souveraineté au Royaume-Uni. (134:6.3)
 
-murs | | | | 
-protection offerte par les anciens murs de la ville (66:5.8)
+murs | | | | OK
+La protection offerte par les anciens murs des villes contre les bêtes féroces et les attaques surprises a permis le progrès des habitations humaines et la soumission des animaux. (66:5.8)
 
-noyers | (60:3.19) | | | 
+noyers | | | | OK
+Les noyers font partie des nombreux arbres actuels qui sont apparus pour la première fois au cours d’une période de grande évolution de la vie végétale, deuxième en importance après l’apparition de l’homme lui-même. (60:3.19)
 
-ceintures wampum | | | | 
-écriture ancienne (69:4.7)
+ceintures de coquillages | | | | OK
+L’écriture progressa en passant par les stades « du bâton-message », des cordes à nœuds, des dessins figuratifs, des hiéroglyphes et des wampums (ceintures de coquillages) avant d’atteindre les alphabets symboliques primitifs. (69:4.7)
 
-baguettes | | | | 
-magie pratiquée avec (88:6.1)
+baguettes | | | | OK
+La magie pratiquée avec des baguettes était un rituel courant parmi les praticiens dévêtus, les femmes étant plus nombreuses que les hommes dans cet art ancien. (88:6.1)
 
-guerre | | militaire; paix:paix sociale; légitime défense | | 
-a toujours été un faiseur de rois (70:5.5)
-avantages d'une guerre précoce (70:2)
-	Les survivants de la guerre de Badonan étaient les plus intelligents et les plus désirables de tous ceux qui vivaient alors (64:5.1)
-	par survie sélective, espèces de lémuriens améliorées par la guerre (62:2.5)
-	contraint les individualistes arrogants à se soumettre au chef de l'exécutif (70:2.21)
-	la guerre a propagé la culture au début (81:3.7)
-	organisation tribale forcée en clans (70:3.3)
-	échafaudage indispensable; maintenant en faillite, il faut l'abandonner (70:2.4)
-	institué des changements sociaux et de nouvelles idées (70:2.1,9)
-	nécessite une organisation (70:1.9)
-	éliminé la plupart des souches anormales et défectueuses (52:2.11)
-ne peut pas être géré par une société de débat (70:5.5)
-causes de la guerre (70:1)
-	absence d'idéaux de la part des dirigeants nationaux (111:4.10)
-	les chefs n'aiment pas la paix (70:5.6-7)
-	la première guerre menée pour des gisements minéraux (69:4.6)
-	les premières administrations n'ont changé que par la guerre civile (70:7.17)
-	pour le gain ou la gloire (69:1.3,5)
-	surpopulation (81:6.12)
-	persiste parce que l'homme a évolué à partir des animaux combattants (63:4.9) (70:1.2,7)
-	laïcité (195:8.5)
-	affirmation de soi (194:3.18)
-	symptôme de la maladie de la souveraineté nationale (134:5.2,7,10) (134:6.6-7)
-	la guerre satisfait les énergies des réactions d'auto-préservation (70:2.20)
-	la guerre est un état naturel de l'homme en évolution (63:4.9) (70:1.1)
-	sans l'aide de sources surhumaines, la société s'effondre (68:3.4-5)
-la concurrence se déplace lentement (71:5.1)
+guerre | | militaire; paix:paix sociale; légitime défense | | OK
+La guerre a toujours été un faiseur de rois, enseignant à l'humanité que ni la paix ni le conflit ne peuvent être gouvernés par un comité. (70:5.5)
+Les avantages des premières guerres
+	Les avantages des premières guerres ont apporté des changements sociaux et de nouvelles idées qui ont accéléré le progrès de la civilisation, malgré le revers temporaire de la société plongée dans la sauvagerie. (70:2)
+	Les survivants de la grande lutte raciale dans les hautes terres du nord-ouest de l'Inde il y a 500 000 ans étaient les plus intelligents et les plus désirables de tous les descendants d'Andon et de Fonta vivants à l'époque. (64:5.1)
+	Grâce à un esprit tribal et à une nature belliqueuse, les lémuriens ont amélioré leur espèce par la guerre et la survie sélective. (62:2.5)
+	La guerre a autrefois appris aux individualistes arrogants à obéir à un chef exécutif, mais aujourd'hui la société doit chercher dans la paix de véritables leaders dans l'industrie, la science et la réussite sociale. (70:2.21)
+	Les guerres anciennes ont propagé la culture, mais les relations commerciales et les progrès des arts et des sciences par les marchands itinérants et les explorateurs itinérants ont eu plus d’influence sur l’avancement de la civilisation historique. (81:3.7)
+	La guerre extérieure a imposé une organisation tribale aux clans de parenté, tandis que la stabilité interne était maintenue par le commerce et les échanges. (70:3.3)
+	La discipline imposée, la coopération forcée sont indispensables ; maintenant en faillite, cet échafaudage doit être abandonné. (70:2.4)
+	Une guerre féroce dans les âges passés a institué des changements sociaux et de nouvelles idées, au prix terrible d’une société temporairement retournée à la sauvagerie, montrant la nature curative mais dangereuse de la guerre qui doit finalement être abandonnée à mesure que la civilisation progresse. (70:2.1,9)
+	La guerre exige une organisation et le vol des femmes a provoqué des conflits tout au long de l’histoire en raison d’une pénurie d’aide domestique. (70:1.9)
+	Les luttes tribales et la rude compétition pour la survie des races ont éliminé la plupart des souches anormales et défectueuses, rendant l’amélioration de la race réalisable dans les premiers temps de l’évolution humaine. (52:2.11)
+Causes de la guerre
+	Les causes de la guerre reflètent la nature animale de l’homme en évolution, tandis que la paix symbolise l’avancement de la civilisation. (70:1)
+	La guerre est le résultat de l’absence d’idéaux de la part des dirigeants nationaux, ce qui conduit à la pauvreté, au divorce et aux haines raciales. (111:4.10)
+	Les premiers chefs de guerre n’aimaient pas la paix, tendant à régner d’une guerre à l’autre, s’assurant qu’une guerre ne dure pas trop longtemps. (70:5.6-7)
+	Les premières guerres se déroulaient pour des gisements minéraux, ce qui conduisit à la formation de traités tribaux formels pour des interactions pacifiques dans ces endroits précieux. (69:4.6)
+	Les premières administrations ne changeaient que par la guerre civile, prouvant que les faibles étaient devenus forts. (70:7.17)
+	La guerre pour le gain ou la gloire est l’une des institutions de survie au sein de la société, favorisée par la peur, l’ignorance et la superstition. (69:1.3,5)
+	La nécessité de produire un grand nombre de mortels pour le développement social et moral peut conduire au grave problème de la surpopulation, qui peut être évité par une stabilisation optimale de la population nationale pour améliorer la culture et prévenir la guerre. (81:6.12)
+	Le passé évolutionnaire de l'homme en tant qu'animal de combat explique pourquoi la guerre persiste, car les êtres primitifs sont naturellement enclins à s'irriter et à s'offenser les uns les autres, provoquant une réaction animale aux conflits. (63:4.9) (70:1.2,7)
+	Le déni militant de Dieu par le sécularisme conduit à l'agitation, à l'animosité, au malheur et à la guerre. (195:8.5)
+	L'Esprit de Vérité unifie l'humanité en diminuant l'affirmation de soi et en prévenant les guerres destructrices. (194:3.18)
+	L'illusion d'une souveraineté nationale illimitée perpétue le cycle sans fin de la guerre sur Urantia, car une véritable paix durable ne peut venir que de la soumission des pouvoirs souverains à la fraternité de l'humanité. (134:5.2,7,10) (134:6.6-7)
+	L’homme n’acceptera jamais la paix comme un mode de vie normal jusqu’à ce qu’il réalise que la paix est ce qu’il y a de mieux pour son bien-être matériel et qu’il existe des substituts pacifiques à la satisfaction des réactions d’auto-préservation. (70:2.20)
+	La guerre est l’état naturel de l’homme en évolution, comme en témoigne la tendance des gens incultes à s’irriter et à s’offenser les uns les autres, ce qui conduit à la violence et à l’hostilité entre les races séparées. (63:4.9) (70:1.1)
+	La société s’effondre dans la guerre et l’effusion de sang sans l’aide de sources surhumaines. (68:3.4-5)
 les préjudices liés à la guerre
-	tous les participants ont été vaincus (194:3.12)
-	grand handicap auquel Urantia est confrontée (55:3.21)
-	plus de morts entre 1900 et 1933 que depuis l'époque de Jésus (195:8.13)
-	une destruction plus terrible est encore à venir (195:8.13)
-	deviendra presque suicidaire (134:5.17)
-peu recommandable sur les mondes normaux (54:1.10)
-premiers captifs mangés, torturés, sacrifiés ou réduits en esclavage (69:8.2-3)
-le jugement international devrait remplacer (52:6.6) (71:8.13)
-l'absence de guerre a retardé le développement de l'État chinois (79:8.1-2,5)
-les mammifères intermédiaires ont exterminé les mammifères de l'aube (62:3.4)
-la miséricorde militaire tarde à venir (70:1.17)
-jamais encore interdit par l'humanité dans son ensemble (71:5.1)
-aucun dans la lumière et la vie (55:5.4)
-la pratique de déclarer la guerre représentait un progrès (70:1.21)
-pratiques de la nation continentale (72:7.7,14) (72:11.4-5)
-toutes les religions primitives sont sanctionnées (70:1.14)
-Le personnel du Prince s'est efforcé de réguler et d'humaniser (66:5.30)
-fournir des substituts pacifiques à (70:2.20)
-la religion prostituée en propagande militaire pendant (99:3.8)
-sophisme sentimental de la planification visionnaire de la paix (70:3.4)
-L'esclavage était une caractéristique des premières conquêtes militaires (69:3.7) (69:8.1-4) (70:1.20) (70:8.5) (121:3.7)
+	Les grands handicaps auxquels Urantia est confrontée pour atteindre sa haute destinée planétaire de lumière et de vie englobent la maladie, la dégénérescence, la guerre, les races multicolores et le multilinguisme. (55:3.21)
+	Les premières conquêtes militaires ont conduit à l'instauration de l'esclavage comme caractéristique de la société, créant une division entre les hommes libres et les esclaves. (69:3.7) (69:8.1-4) (70:1.20) (70:8.5) (121:3.7)
+	La religion, lorsqu'elle est prostituée en propagande militaire pendant la guerre, risque d'être déformée et pervertie par rapport aux véritables objectifs. (99:3.8)
+	Plus d'humains ont été tués pendant le premier tiers du vingtième siècle que dans toute l'histoire chrétienne jusqu'à ce point, une conséquence terrible de la sécularisation complète de la société. (195:8.13)
+	La terrible moisson du matérialisme et de la sécularisation a entraîné des destructions plus terribles encore, et le pire est à venir. (195:8.13)
+	Les guerres deviendront presque suicidaires sur le plan racial à moins que l’humanité n’établisse un gouvernement de paix et n’encourage la bonne volonté mondiale. (134:5.17)
+	Au milieu des grandes guerres, Jésus est sorti vainqueur, enseignant à vaincre le mal par l’amour et le pardon, où tous les participants ont rencontré la défaite. (194:3.12)
+Évolution de la guerre
+	Les religions primitives ont toutes sanctionné la guerre, mais l’un des grands mouvements de paix des âges a été la tentative de séparer l’Église et l’État. (70:1.14)
+	La guerre est mal vue dans les mondes normaux. (54:1.10)
+	L’état-major du Prince s’est efforcé de réglementer et d’humaniser la guerre, tout comme Toutankhamon et ses associés ont promu des associations de groupes pacifiques pour améliorer les gouvernements tribaux et les relations intertribales. (66:5.30)
+	L’esclavage était considéré comme une avancée miséricordieuse par rapport aux pratiques antérieures de torture, de sacrifice et de cannibalisme des captifs de guerre. (69:8.2-3)
+	L’arbitrage international devrait remplacer l’arbitrage barbare de la guerre au profit de la survie planétaire. (52:6.6) (71:8.13)
+	Le développement de l’État chinois a été retardé par l’absence de guerre, en contraste avec les souffrances de l’homme rouge à cause de trop de guerres. (79:8.1-2,5)
+	Les mammifères de l’aube ont été exterminés par les mammifères moyens dans une guerre impitoyable, ne laissant pas un seul survivant de la race préexistante. (62:3.4)
+	La miséricorde militaire a toujours été lente à arriver, comme on le voit dans les actions impitoyables du général de Déborah dans les temps anciens. (70:1.17)
+	La concurrence, bien qu’essentielle au progrès social, doit être réglementée pour empêcher la violence qui reste non interdite par l’humanité dans son ensemble. (71:5.1)
+	Dans un monde où la guerre est une chose du passé, le gouvernement et les lois disparaissent à mesure que la maîtrise de soi et la moralité augmentent. (55:5.4)
+	La pratique de déclarer la guerre représentait un progrès, conduisant au développement de règles de guerre fondées sur l'équité, notamment en évitant les combats à proximité des sites religieux et les jours saints, et en accordant une protection aux fugitifs politiques. (70:1.21)
+	La principale nation continentale d'une planète habitée voisine donne la priorité à la défense plutôt qu'à l'offensive, en utilisant une politique d'emprunt stricte et un puissant Conseil national de défense pour le financement et les ressources de la guerre. (72:7.7,14) (72:11.4-5)
+	La concurrence, remplaçant lentement la guerre, détermine le rôle industriel de l'individu et la survie de l'industrie dans la société actuelle. (71:5.1)
+	La société doit fournir des substituts pacifiques à la poussée périodique vers la libération collective afin que l'homme accepte la paix comme un mode de vie normal. (70:2.20)
+	Les organisations commerciales internationales feront plus pour promouvoir la paix sur Urantia que des visions sentimentales de planification de la paix. (70:3.4)
 
-avertissements | | religion:avertissements | | 
-Adam et Eve ont été avertis à plusieurs reprises de ne pas s'écarter du plan divin (75:7.4)
-Lucifer et Caligastia ont interprété à tort les avertissements comme une atteinte injustifiée aux libertés individuelles (66:8.2)
-Les mondes-prison de Satania sont un avertissement solennel (45:1.11)
-Habituellement, la détermination du mal s'enflamme une fois que l'amour est mort (179:4.8)
-généralement inutile avec la nature humaine aigrie (139:12.11)
+avertissements | | religion:avertissements | | OK
+Adam et Ève furent avertis des conséquences désastreuses de leur déviation du plan divin bien avant de quitter Jérusalem (75:7.4).
+Des avertissements mal interprétés, considérés comme une ingérence injuste dans les libertés individuelles, ont égaré Lucifer et Caligastia (66:8.2).
+Un étranger sur le septième monde des maisons a accès aux mondes-prison de Satania, qui lui servent d’avertissement solennel contre la rébellion (45:1.11).
+L’avertissement ne fait qu’intensifier la détermination du mal une fois que l’amour est mort (179:4.8).
+Malgré les nombreux avertissements du Maître, la direction divine s’avère souvent inefficace pour traiter la nature humaine aigrie (139:12.11).
 
-lavage | | assainissement | | 
-Jésus a lavé les pieds des apôtres (179:1.2,8) (179:3)
-Jésus s'est lavé uniquement pour la propreté (166:1.2) (167:1.3) (179:3.1)
+lavage | | assainissement | | OK
+Jésus a lavé les pieds des apôtres, leur enseignant la signification de la vraie grandeur et du véritable service. (179:1.2,8) (179:3)
+Jésus a lavé seulement pour la propreté, sans tenir compte des pratiques cérémonielles des pharisiens. (166:1.2) (167:1.3) (179:3.1)
 
-nids de guêpes | | | | 
-les premiers hommes ont écrit sur (66:5.9)
+nids de guêpes | | | | OK
+Les premiers hommes écrivaient sur des nids de guêpes, sous la direction de Fad, qui formula le premier alphabet et introduisit un système d'écriture. (66:5.9)
 
-déchet | | | | 
-humain | excréments
-imprévoyance
+maître de maison vigilant | | | | OK
+La parabole du maître de maison vigilant enseigne la vigilance face au départ soudain et inattendu du Fils de l’homme. (165:5.6)
 
-maître de maison vigilant | | | | 
-parabole de (165:5.6)
+serviteur vigilant | | | | OK
+La parabole du serviteur vigilant nous enseigne à être vigilants et préparés aux épreuves qui nous attendent. (165:5.5)
 
-serviteur vigilant | | | | 
-parabole de (165:5.5)
+tour de guet | | | | OK
+Construire une tour de guet sans calculer le coût pourrait conduire à un travail inachevé et aux moqueries des voisins. (171:2.3)
 
-tour de guet | | | | 
-parabole de la construction (171:2.3)
+eau | | eau de la vie | | OK
+L’eau est présente sur toutes les planètes évolutionnaires, même si elle n’est pas trop petite, façonnant leurs aspects physiques ainsi que d’autres facteurs déterminants. (41:10.3)
+L’énergie contenue dans une goutte d’eau équivaut à 100 chevaux-vapeur pendant 2 ans en raison du grand nombre d’atomes qu’elle contient. (41:7.13)
+La compréhension de la molécule d’eau aurait dû empêcher la théorie du matérialisme, car la connaissance des propriétés uniques de l’eau transcende les conséquences additives prévisibles de ses composants, révélant une vérité plus profonde au-delà de la simple analyse. (12:9.3-4)
+L’homme atteint l’union divine par la communion réciproque et la conformité à la volonté divine, pas simplement comme une goutte d’eau fusionnant avec l’océan. (1:7.2)
+culte
+	Les points d’eau et les puits étaient parmi les premières possessions privées, protégées par des lois qui ont évolué à partir de la perte de foi dans la pratique du fétichisme. (69:9.12)
+	La cérémonie de l’effusion de l’eau symbolisait l’esprit divin pour les Juifs pendant la fête. (162:4.3) (162:6.3)
+	Le culte de l’eau a été enraciné dans l’histoire de l’humanité à travers diverses pratiques et croyances culturelles. (85:4.1)
+	Les hommes primitifs étaient initialement réticents à se baigner pour des raisons de santé, jusqu’à ce que le prince Lut convainque les enseignants religieux d’incorporer la purification par l’eau dans leurs cérémonies. (66:5.21)
+Jésus
+	Le jeune Jésus contempla les trois formes d’eau alors qu’il vivait l’hiver le plus froid à Nazareth depuis des décennies, voyant la neige sur les montagnes, la glace sur le sol, et méditant sur la constitution du monde physique. (124:1.8)
+	Marie se réjouit lorsque Jésus transforma l’eau en vin, une démonstration de son pouvoir messianique faite avec l’aide d’êtres célestes. (137:4.10-13) (138:8.5)
+	Jésus a enseigné à Jean à accueillir ceux qui servent en son nom, reconnaissant que même un acte simple comme offrir une tasse d’eau à une âme assoiffée est reconnu et valorisé par le divin. (159:2.1)
+	Jésus n’a jamais marché sur l’eau ni accompli d’actes contraires aux lois de la nature. (136:7.3)
+Superstitions concernant l’eau
+	L’eau, y compris l’eau bénite et l’aspersion baptismale, était considérée comme le meilleur moyen de résister aux fantômes et aux mauvais esprits, avec le feu. (83:4.6) (84:1.4) (87:6.12)
+	Les premières croyances fétichistes incluaient le feu et l’eau comme éléments sacrés, avec le culte du feu et la croyance en l’eau bénite encore répandus aujourd’hui. (88:1.2)
+	L’eau, un fétiche puissant dans le traitement des maladies, était utilisée par les premiers hommes sous diverses formes telles que les bains de vapeur et les sources chaudes naturelles, censées éliminer les esprits responsables des maladies et soulager la douleur. (90:4.6)
+L'eau dans les cieux
+	Les plantes morontielles ont besoin de l'humidité du système de circulation souterrain des mondes architecturaux, où il n'y a ni rivières impétueuses ni océans expansifs. (46:2.2)
+	Les systèmes d'eau d'Edentia et d'autres sphères architecturales, comme ceux des planètes évolutionnaires, sont à la fois superficiels et souterrains, avec une humidité en circulation constante, créant diverses voies d'eau pour la circumnavigation, principalement empruntées par les êtres spirituels via l'atmosphère. (43:1.2) (46:2.2)
 
-eau | | eau de la vie | | 
-coupe donnée à une âme assoiffée (159:2.1)
-Jésus n'a jamais marché (136:7.3)
-Jésus a transformé l'eau en vin (137:4.10-13) (138:8.5)
-les plantes morontielles ont besoin (46:2.2)
-des sphères architecturales qui ne diffèrent pas de l'eau des planètes évolutives (43:1.2)
-une goutte contient 1 milliard de milliards d'atomes; énergie de 100 chevaux-vapeur pendant 2 ans (41:7.13)
-présent sur toutes les planètes évolutives s'il n'est pas trop petit (41:10.3)
-L’état-major du Prince comprenait la purification par l'eau comme cérémonie (66:5.21)
-superstitions concernant l'eau
-	meilleur moyen de résister aux fantômes (83:4.6) (84:1.4) (87:6.12)
-	fétichisme précoce (88:1.2)
-	fétiche puissant dans le traitement des maladies; les anciens appréciaient les sources chaudes (90:4.6)
-symbolisait l'esprit divin pour les Juifs (162:4.3) (162:6.3)
-la compréhension de la molécule d'eau aurait dû empêcher la théorie du matérialisme (12:9.3-4)
-L'union avec Dieu n'est pas comme une goutte d'eau dans l'océan (1:7.2)
-les points d'eau étaient parmi les premières possessions privées (69:9.12)
-adoration de (85:4.1)
-Le jeune Jésus a contemplé 3 formes d'eau (124:1.8)
+porte d'eau | | | | OK
+À Jérusalem, le dernier jour de la fête, des centaines de prêtres et de Lévites officièrent lors d'une cérémonie sacrée impliquant des branches de myrte, de saule et de palmier, ainsi qu'une cruche d'or contenant de l'eau symbolique, entrant dans le temple par la porte des eaux. (162:4.4)
 
-porte d'eau | | | | 
-à Jérusalem (162:4.4)
+cochons d'eau | | | | OK
+Au cours de la dernière glaciation en Amérique du Nord, le cheval, le tapir, le lama et le tigre à dents de sabre ont disparu, remplacés par des paresseux, des tatous et des cochons d'eau qui ont migré d'Amérique du Sud. (61:7.15)
 
-cochons d'eau | | | | 
-migré vers l'Amérique du Nord (61:7.15)
+eau de la vie | | | | OK
+Dans son discours sur l’eau de la vie, Jésus a proposé d’étancher la soif spirituelle de ceux qui croyaient en lui, promettant l’effusion de l’Esprit vivant de Vérité sur toute chair. (162:6)
+L’esprit divin est vraiment l’eau de la vie. (153:3.2)
+Pourquoi hésiter quand vous pouvez prendre librement part à l’eau de la vie et entrer joyeusement dans votre héritage spirituel ? (165:3.8)
+Le salut de la filiation n’est accordé qu’à ceux qui ont faim de vérité et soif de justice – de Dieu. (193:2.2)
+Jésus était l’eau vive, apportant un rafraîchissement jaillissant jusqu’à la vie éternelle pour tous ceux qui croient. (121:5.12) (143:5.2-3) (182:1.11)
+Dans le monde à venir, les croyants prendront part à l’eau de la vie, se joignant ensemble dans le royaume de Dieu pour le salut éternel. (166:3.5)
+L’emblème de la Pâque, l’eau de la vie, fut servie par Jésus à ses compagnons lors de la première fête célébrée sans l’agneau pascal. (127:6.7)
+La présence de l’Esprit divin, l’eau de la vie, prévient le mécontentement mortel et la faim non spiritualisée, jaillissant dans les croyants comme une source de satisfaction menant à la vie éternelle. (34:6.8)
 
-eau de la vie | | | | 
-discours sur (162:6)
-esprit divin (153:3.2)
-participer librement à (165:3.8)
-donné seulement à ceux qui ont soif de justice (193:2.2)
-Jésus était (121:5.12) (143:5.2-3) (182:1.11)
-dont on aura part dans le monde à venir (166:3.5)
-Emblème de la Pâque (127:6.7)
-l'eau spirituelle jaillit dans les croyants (34:6.8)
+Eaux de Mérom | | | PLACE | OK
+Jésus voyagea de Beersheba à Dan, en passant par les eaux de Mérom, lors de son dernier voyage à travers la Palestine. (134:7.5) (157:3.2) (158:7.1)
 
-Eaux de Mérom | (134:7.5) (157:3.2) (158:7.1) | | PLACE | 
-Jésus est décédé
-
-couleuvre d'eau | | | | 
-si votre enfant demande un (144:2.4)
+couleuvre d'eau | | | | OK
+Une phrase célèbre de Jésus était : « Si ton enfant te demande un serpent d’eau, le lui donnerais-tu simplement parce qu’il le demande bêtement ? » (144:2.4)
 
 phénomènes ondulatoires | | énergie:types d'énergie | | OK
 
-collage de panneaux de cire | | | | 
-dettes enregistrées sur (169:2.4)
+collage de panneaux de cire | | | | OK
+Les dettes enregistrées sur des obligations en cire garantissaient à l'intendant infidèle l'accueil dans les maisons de tous ceux qui faisaient des affaires avec son maître. (169:2.4)
 
-chemin | | | | 
-comme les cieux sont plus élevés que la terre, les voies de Dieu sont plus élevées que nos voies (97:7.5)
-Le Fils de l'octroi établit une voie nouvelle et vivante (52:5.4-5)
-Recommande ta voie à l'Éternel (131:2.10)
-Dieu connaît toutes nos voies (3:3.2)
-La voie de Dieu n'est pas la voie facile (136:9.4)
-Grand choix entre le bien et le mal (97:8.3)
-Le choix de Jésus entre sa voie et celle du Père (136:4.6-13)
-Jésus est la voie nouvelle et vivante (101:3.3) (101:6.17) (117:3.3) (129:4.7) (136:6.11) (141:7.4) (180:3.7) (182:1.20) (196:2.4)
-que le méchant abandonne sa mauvaise voie (97:7.7) (131:2.11)
-beaucoup d'entre vous se trouvent à la croisée des chemins (153:1.2-3) (153:2.5) (153:4.4)
-l'ancienne manière est la conformité aux règles; la nouvelle manière est la transformation par
-Esprit (143:2.4)
-proclamer une nouvelle vérité; ne pas attaquer les anciennes voies (178:1.16)
-Les fils de Dieu sont « le chemin, la vérité et la vie » (7:5.1)
-L'Esprit de Vérité montrera la voie (34:7.8)
-c'est le chemin, marchez-y (97:5.2)
-la voie qui semble juste aboutit à la mort (139:12.5)
-Le chemin vers la vie éternelle est étroit et resserré (166:3.3,6)
+chemin | | | | OK
+Ésaïe II a proclamé une haute conception de Dieu surpassant celle de tous les prophètes et enseignants religieux avant lui, déclarant : « Comme les cieux sont plus élevés que la terre, ainsi mes voies sont plus élevées que vos voies. » (97:7.5)
+Le Fils d’effusion établit une voie nouvelle et vivante pour l’élévation spirituelle des races mortelles, incarnant la vérité du Paradis pour la liberté de l’humanité. (52:5.4-5)
+Recommandez votre voie au Seigneur et ayez confiance en Lui, car Il la fera s’accomplir. (131:2.10)
+Le Père Universel connaît toutes nos voies, du nombre des étoiles à nos chagrins, et Sa compréhension est un réconfort pour toute l’humanité. (3:3.2)
+Jésus a réalisé que la voie de Dieu, bien que difficile, était le chemin qu’il devait suivre. (136:9.4)
+Les prophètes et les prêtres imploraient la délivrance, déchirés entre la promesse de justice et la menace imminente du mal – un Grand Choix pour les Juifs qui subissaient les dominations étrangères. (97:8.3)
+Jésus choisit de toujours suivre la voie du Père, malgré le fort désir de gagner son peuple et le monde à son nouveau royaume spirituel. (136:4.6-13)
+Par Jésus, la voie nouvelle et vivante, l’homme mortel peut découvrir le chemin vers les réalités éternelles et s’élever de l’humanité à la divinité. (101:3.3) (101:6.17) (117:3.3) (129:4.7) (136:6.11) (141:7.4) (180:3.7) (182:1.20) (196:2.4)
+Que le méchant abandonne sa mauvaise voie et retourne au Seigneur pour un pardon abondant. (97:7.7) (131:2.11)
+Au carrefour, Jésus choisit hardiment de prendre l’offensive au milieu d’une guerre ouverte. (153:1.2-3) (153:2.5) (153:4.4)
+Par la transformation de l’Esprit, vous êtes libérés de l’ancienne voie d’esclavage et habilités à vivre selon la volonté parfaite de Dieu. (143:2.4)
+N’attaquez pas les anciennes voies, mais proclamez la nouvelle vérité dans un esprit de paix et d’amour, permettant à l’Esprit de Vérité d’œuvrer. (178:1.16)
+Les Fils de Dieu, par leurs dons et leurs plans de survie, incarnent l’injonction « Soyez parfaits, comme votre Père à Havona est parfait », devenant pour toutes les créatures « le chemin, la vérité et la vie ». (7:5.1)
+Ayant accepté la mission de suivre le chemin de la vie éternelle, n’ayez pas peur, car l’Esprit de Vérité parlera toujours, disant : « Voici le chemin ». (34:7.8)
+Ésaïe prêcha la nature éternelle de Dieu, sa perfection immuable de fiabilité, et sa promesse de les guider en disant : « Voici le chemin, marchez-y. » (97:5.2)
+Judas, un trésorier accompli et un apôtre dévoué, a illustré le dicton « Il y a un chemin qui semble droit mais qui aboutit à la mort. » (139:12.5)
+Le chemin vers la vie éternelle est étroit, mais suffisamment large pour tous ceux qui cherchent sincèrement à y entrer par le Fils. (166:3.3,6)
 
-Voie du Ciel | | | | 
-enseignement de Confucius (94:6.10)
+Voie du Ciel | | | RELIGION | OK
+Confucius enseignait que la moralité est fondée sur la Voie du Ciel, considérant les voies terrestres comme des reflets de l’ordre éternel du cosmos. (94:6.10)
 
-faible | | malheureux | | 
-« Ressemblez-vous à des faibles ? » (143:1.5)
-Dieu donne de la force à celui qui est fatigué (97:7.8)
-ont toujours lutté pour l'égalité des droits (70:9.16)
-se livrer à des résolutions; les forts agissent (48:7.13)
-la miséricorde envers les faibles est un trait divin (26:11.5)
-ministre de (192:2.2)
-seule la fraternité empêche le fort d'opprimer le faible (71:4.17)
-ne devrait pas être autorisé à profiter des « règles d'or » (71:4.16)
+faible | | malheureux | | OK
+Jésus a dit à propos de la faiblesse : « Jean ou mes apôtres choisis ressemblaient-ils à des faibles esclaves de la peur, prêchant l’Évangile à tous, riches et pauvres, Juifs et Gentils ? » (143:1.5)
+Dieu donne de la force à ceux qui faiblit, renouvelant leur force et leur permettant de s’élever comme des aigles. (97:7.8)
+Les faibles ont toujours lutté pour l’égalité des droits, exigeant que l’État oblige les forts à subvenir à leurs besoins et à remédier à leurs déficiences résultant de l’indifférence et de la paresse. (70:9.16)
+Les faibles se livrent à des résolutions, mais les forts agissent ; la vie n’est qu’une journée de travail, l’acte est nôtre, les conséquences sont celles de Dieu. (48:7.13)
+Habité par l’esprit du Dieu vivant, l’homme mortel trouve la miséricorde et la tendresse divines envers les faibles, un trait incontestable du Fils Créateur dans sa mission éternelle. (26:11.5)
+Servez les faibles, les pauvres et les jeunes avec amour et compassion, comme Jésus l’a commandé. (192:2.2)
+La survie nationale exige une préparation militaire, mais seuls l’amour et la fraternité peuvent empêcher les forts d’opprimer les faibles. (71:4.17)
+Les faibles ne devraient pas être autorisés à profiter des « dirigeants d’or » qui s’efforcent d’établir une société fondée sur la vérité, la beauté et la bonté. (71:4.16)
 
 richesse | | accomplissement; gagner sa vie; argent; possessions; propriété privée | | 
 acquérir
@@ -234,121 +235,125 @@ signification de la richesse
 	ce n'est pas un péché de posséder des richesses honorables, mais l'amour des richesses détourne les affections (140:8.15-18) (165:4.5-14)
 	la richesse n'a aucune importance si elle n'envahit pas l'âme (163:2.6) (163:3.3)
 
-sevrage | | | | 
-la préparation des aliments pour les nourrissons facilite le développement précoce (66:5.18)
-Ève a cessé d'allaiter ses enfants à l'âge d'un an (74:6.3)
-Marie n'a pas sevré Jésus avant Alexandrie (123:0.1)
-affection maternelle trop forte pour l'infanticide après (68:6.9)
-L'utilisation du lait de vache et de chèvre a réduit la mortalité infantile (84:3.9)
+sevrage | | | | OK
+La cuisson des aliments réduit la mortalité infantile et facilite le sevrage précoce, une connaissance qui s’est perdue jusqu’au vingtième siècle. (66:5.18)
+Quand Ève a cessé d’allaiter ses enfants à l’âge d’un an, elle les a nourris de noix, de fruits et de jus de fruits au lieu de leur donner du lait animal. (74:6.3)
+Marie n’a pas sevré Jésus avant qu’ils n’arrivent sains et saufs à Alexandrie, où la famille s’est installée et où la carrière d’entrepreneur de Joseph a commencé. (123:0.1)
+L’affection maternelle s’est avérée trop forte pour l’infanticide après le sevrage. (68:6.9)
+Le sevrage précoce des bébés, grâce à la fourniture de lait de vache et de chèvre, a conduit à une réduction de la mortalité infantile et a permis aux mères d’avoir plus d’enfants. (84:3.9)
 
-armes | | épées | | 
-armes métalliques de Tubal-Caïn (159:1.7)
-les vieillards et les estropiés se mettent au travail (69:3.4)
+armes | | épées | | OK
+Le terme « soixante-dix-sept » est dérivé de l’exaltation de Lamech à l’égard des armes en métal de Tubal-Caïn. (159:1.7)
+Les vieillards et les infirmes étaient chargés de fabriquer des outils et des armes avant d’être réaffectés à la construction d’ouvrages d’irrigation en raison de leur âge et de leur maladie. (69:3.4)
 
-belettes | (61:2.7) (61:3.13) | | | 
+belettes | | | | OK
+Les belettes font partie d'un groupe de mammifères florissant qui a évolué à partir d'une créature carnivore aujourd'hui éteinte, possédant des caractéristiques à la fois semblables à celles des chats et des phoques. (61:2.7) (61:3.13)
 
-tissage | | | | 
-Les Andites de Crète pratiquaient le tissage vers 12 000 av. J.-C. (80:7.2)
-par les Sumériens (77:4.7)
-Caligastia 100 a enseigné (66:5.2)
-Jésus est devenu un tisserand expert (123:5.15)
-pratiqué en Eden, deuxième jardin (74:2.7) (76:3.8)
+tissage | | | | OK
+J.-C., des Andites hautement qualifiés, issus d’une tribu brillante, émigrèrent en Crète, chassés du continent par leurs frères plus grands et inférieurs. Ils étaient maîtres dans le tissage, entre autres métiers. (80:7.2)
+L’apparition soudaine des Sumériens en Mésopotamie, marquée par leur culture avancée, notamment le tissage, reste un mystère pour les chercheurs. (77:4.7)
+Caligastia 100 enseigna le tissage, le creusement de puits, le contrôle des sources et l’irrigation pour améliorer le bien-être matériel des humains. (66:5.2)
+Jésus, tisserand expert à l’âge de dix ans, s’est lié d’amitié avec un potier de Nazareth alors qu’il était enfant. (123:5.15)
+Le tissage était une réalisation culturelle pratiquée en Éden, le deuxième jardin où Adam et Ève furent revêtus de robes royales. (74:2.7) (76:3.8)
 
-mariages | | mariées; mariage | | 
-à Cana (137:3.6) (137:4)
-charmes et superstitions chez les anciens (83:4.4-9)
-mariages précoces célébrés sous les arbres (85:2.3)
-pour les anciens, le statut des enfants nécessitait une large publicité (83:4.1-3)
-de Jacques, Miriam (128:7.10-11)
-de Marthe, Simon et Jude (129:1.6) (134:1.4)
-origine des cadeaux (82:3.10)
-parabole des noces (173:5)
+mariages | | mariées; mariage | | OK
+Les noces de Cana étaient un moment d’anticipation et de croyance, qui conduisit à une manifestation inattendue du pouvoir divin par la création du vin. (137:3.6) (137:4)
+Le mariage chez les anciens était associé à des charmes et à des superstitions, notamment à des sacrifices humains et à des rites magiques pour assurer la fécondité et résister aux fantômes. (83:4.4-9)
+Les mariages anciens célébrés sous les arbres étaient enracinés dans le culte des arbres et les croyances en des forces surnaturelles. (85:2.3)
+La cérémonie de mariage était une affaire publique dans les temps anciens, reflétant l’importance du statut des enfants et l’implication de la communauté dans le mariage. (83:4.1-3)
+Le double mariage de Jacques et Miriam apporta joie et soutien à leur famille, même au milieu de l’incertitude concernant les projets futurs de Jésus. (128:7.10-11)
+Jésus assista au mariage de Marthe en octobre, puis revint pour le double mariage de Simon et Jude plus de deux ans plus tard. (129:1.6) (134:1.4)
+L’origine des cadeaux de mariage remonte à la tradition qui consistait à offrir des cadeaux aux mariées en échange de services sexuels avant le mariage. (82:3.10)
+La parabole du festin de mariage enseigne l’importance d’accepter l’invitation du roi à la célébration. (173:5)
 
-mercredi | | | | 
-Coutume juive de célébrer les mariages le (137:4.1)
-vacances de milieu de semaine pour les apôtres (138:6.2) (141:3.1) (177:0.1)
+mercredi | | | | OK
+C'était une coutume juive de célébrer les mariages le mercredi à Cana, où Jésus conduisait le cortège nuptial préliminaire. (137:4.1)
+Jésus a institué ce jour férié en milieu de semaine pour le repos et la détente de ses apôtres, les exhortant à prendre le temps de réfléchir et de grandir. (138:6.2) (141:3.1) (177:0.1)
 
-mauvaises herbes | | | | 
-parabole du blé et de l'ivraie (151:4.1)
+mauvaises herbes | | | | OK
+La parabole du blé et de l’ivraie illustre comment le bien et le mal coexistent dans le royaume des cieux jusqu’à la moisson finale. (151:4.1)
 
-semaine | | | | 
-La semaine de 7 jours est née du fait que 7 était 1/4 de 28 (66:7.17)
-origine fortuite de la sanction sacrée de la semaine de 7 jours (74:8.1)
+semaine | | | | OK
+La semaine de sept jours fut introduite par les enseignants de Dalamatia, en raison du fait que sept était un quart de vingt-huit, un rappel de la signification spirituelle sans origine naturelle. (66:7.17)
+L'origine fortuite de la semaine sacrée de sept jours était basée sur l'inspection de six jours du Jardin d'Urantia par Adam et Ève. (74:8.1)
 
-poids | | mesures | | 
-les premiers étaient des grains de blé (69:4.5)
-Le gradient de Jérusalem équivaut à 10 onces d'Urantia (46:1.2)
-des électrons et des atomes (42:6.7-8)
+poids | | mesures | | OK
+Les premiers poids étaient des grains de blé et d’autres céréales, tandis que le premier moyen d’échange était un poisson ou une chèvre, puis la vache comme unité de troc. (69:4.5)
+Un gradant de Jérusem est égal à 5 ​​onces d’Urantia. (46:1.2)
+La disparité de poids entre les électrons et les atomes est immense, un électron pesant plus de deux mille fois moins qu’un proton bien qu’il soit presque aussi petit. (42:6.7-8)
 
-bien-être (gouvernement) | | charité:par le gouvernement | | 
+bien-être (gouvernement) | | charité:par le gouvernement | | OK
 
-bien faire | | | | 
-ne vous lassez pas de (163:6.7) (174:0.2) (192:2.9)
+bien faire | | | | OK
+Ne vous lassez pas de la grande œuvre qui consiste à enseigner à l'homme mortel qu'il est un fils de Dieu, car l'appel et l'invitation sont toujours les mêmes : Venez à moi, vous tous qui êtes fatigués et chargés. (163:6.7) (174:0.2) (192:2.9)
 
-puits | | | | 
-parmi les premières possessions privées (69:9.12)
-Caligastia 100 a enseigné à creuser des puits (66:5.2)
-Nalda, femme au puits (143:5)
+puits | | | | OK
+Parmi les premières possessions privées, on trouve les points d’eau et les puits, gardés par la pratique du fétichisme avant que les lois n’évoluent pour protéger les biens. (69:9.12)
+Caligastia 100 enseignait le creusement de puits pour promouvoir le bien-être matériel et l’avancement dans la société humaine. (66:5.2)
+Nalda, la femme au puits, reçut l’eau vive de Jésus et devint une fille du Très-Haut. (143:5)
 
-loups-garous | | | | 
-idée dérivée de la croyance selon laquelle les âmes peuvent entrer dans les animaux (86:5.12)
+loups-garous | | | | OK
+Les anciennes croyances selon lesquelles les âmes pénètrent dans les animaux ont culminé avec le concept de loup-garou d'identification animale, permettant à une personne de se transformer en loup ou en une autre créature pour des exploits nocturnes. (86:5.12)
 
-Antilles | (59:1.5) (60:4.3) (61:1.13) | | PLACE | 
+Antilles | | | PLACE | OK
+Les Antilles sont une région où se dressent de hautes altitudes, les montagnes les plus jeunes se trouvant dans le système des montagnes Rocheuses. (59:1.5) (60:4.3) (61:1.13)
 
-civilisation occidentale | | | | 
-chancelle sous le poids de la culpabilité de ses manquements (195:10.20)
+civilisation occidentale | | | | OK
+Le christianisme souffre en tant que partie intégrante de la société culpabilisée de la civilisation occidentale, souillée par la science sans idéalisme, la politique sans principes et la richesse sans travail. (195:10.20)
 
-Ghâtes occidentales | | | PLACE | 
-Établissements dravidiens le long de la côte (79:3.6)
+Ghâtes occidentales | | | PLACE | OK
+Les colonies dravidiennes le long de la côte des Ghâts occidentaux avaient des relations maritimes avec la Sumérie. (79:3.6)
 
-baleines | | | | 
-mammifères placentaires qui sont retournés à la mer (49:2.17) (61:2.11) (65:2.12)
+baleines | | | | OK
+Les mammifères placentaires qui sont retournés à la mer ont évolué pour devenir les baleines et les phoques modernes. (49:2.17) (61:2.11) (65:2.12)
 
-blé | | | | 
-Amos a dit que Dieu passerait Israël au crible (97:4.3)
-les apôtres frottaient le blé le jour du sabbat (147:6.4)
-les premiers poids étaient des grains de (69:4.5)
-Dieu permet au blé de pousser avec l'ivraie (130:1.6)
-amélioré dans le jardin d'Eden (81:1.7)
-parabole du grain de (174:5.8)
-parabole du blé et de l'ivraie (151:4.1)
+blé | | | | OK
+Amos a dit que Dieu tamiserait Israël comme le blé, symbolisant la justice immuable de Yahweh. (97:4.3)
+Les apôtres frottèrent le blé le jour du sabbat, ce qui poussa les espions à accuser Jésus d’avoir enfreint la loi. (147:6.4)
+Les premiers poids étaient des grains de blé et d’autres céréales, avec un poisson ou une chèvre comme premier moyen d’échange ; plus tard, la vache devint une unité de troc. (69:4.5)
+Dieu, comme la nature, permet au bien et au mal de coexister jusqu’à la fin de la vie, tout comme le blé pousse avec l’ivraie. (130:1.6)
+Les descendants d’Adam ont échangé du blé amélioré dans les hautes terres de Mésopotamie, où ils se sont mêlés aux descendants d’Adamson. (81:1.7)
+La parabole du grain de blé enseigne que donner sa vie de manière désintéressée peut conduire à une existence plus abondante sur terre et au ciel. (174:5.8)
+La parabole du blé et de l’ivraie enseigne que le bien et le mal coexisteront jusqu’au jugement final. (151:4.1)
 
-roues | | | | 
-Le personnel du Prince a d'abord enseigné l'utilisation de (66:5.5)
-véhicules équipés de roues courants en 5000 av. J.-C. (81:3.6)
+roues | | | | OK
+Le personnel du Prince a été le premier à enseigner l’utilisation de la roue pour faciliter la traction. (66:5.5)
+En 5000 av. J.-C., les véhicules équipés de roues sont devenus un élément courant de la diffusion de la civilisation culturelle par le biais des canaux commerciaux. (81:3.6)
 
-tourbillon | | | | 
-Le Père ne se révèle pas dans un tourbillon (148:6.10)
-ceux qui sèment le vent récolteront la tempête (131:2.9)
+tourbillon | | | | OK
+Le Père ne se révèle pas dans le tourbillon, mais parle dans le cœur humain comme une voix douce et calme, guidant avec amour et miséricorde. (148:6.10)
+Bien que nous puissions pleurer dans l’obscurité, la joie viendra au matin pour ceux qui craignent et cherchent le Seigneur sincèrement et honnêtement. (131:2.9)
 
-race blanche | (80:9) | Caucasiens; races | RACE | 
-375 Adamsonites qui s'installèrent en Grèce transportèrent les souches les plus précieuses vers 10 000 av. J.-C. (80:7.4)
-Le culte des ancêtres après la chute de la civilisation romaine (79:8.3)
-Christianisme bien adapté aux mœurs actuelles (98:7.11)
+race blanche | (80:9) | Caucasiens; races | RACE | OK
 composition
-	Souches adamiques et nodites mélangées à de l'andonite, souches rouges, jaunes, mais surtout bleues (51:4.3) (64:6.24) (78:4.4) (80:0.2)
-	mélange de race bleue, Andites (52:3.7) (78:6.2) (80:5.7) (82:6.1)
-	plus de Nodite que la souche Andonite originale dans (80:0.2)
-	trop de mélange pour permettre une analyse par divisions (80:9.15)
+	La « race blanche » est un mélange de souches adamiques, nodites, andonites, rouges, jaunes et bleues, la souche bleue étant particulièrement prédominante. (51:4.3) (64:6.24) (78:4.4) (80:0.2)
+	La race amalgamée, issue du mélange des hommes bleus et des premiers Andites, est caractérisée par une nuance olive de teinte violette, représentant le « blanc » racial des sphères. (52:3.7) (78:6.2) (80:5.7) (82:6.1)
+	La race blanche moderne a plus de souche nodite que d'Andonite originelle. (80:0.2)
+	C'est une erreur de classer la race blanche comme nordique, alpine et méditerranéenne en raison d'un mélange trop important, rendant ces divisions impossibles à analyser. (80:9.15)
 divisions de la race blanche
 	division centrale
-		Race alpine; à prédominance andonite avec souches bleues, jaunes et andites; tête large, basanée, trapue (80:9.5-7)
+		La race alpine à prédominance andonite, avec des souches bleues, jaunes et andites, est à tête large, basanée et trapue, coincée entre les races nordiques et méditerranéennes. (80:9.5-7)
 	division nord
-		Peuples anglo-saxons, scandinaves et allemands (80:4.5)
-		considérablement moins de 1/8 de sang adamique (78:4.1)
-		le premier nordique avait la tête longue, était grand et blond (80:9.2)
-		englobe la plupart des stocks humains désirables (80:9.2)
-		composé de souches bleues, andites et andonites, plus un peu de rouge et de jaune; têtes longues (80:4.5) (80:9.2-4)
-	division sud
-		Basques et Berbères; très mélangés, composés d'Andites, d'hommes bleus, d'Andonites, de Sangiks secondaires; petits, à tête longue, bruns (80:9.8-11)
-dominant en Europe du Nord vers 5000 av. J.-C. (80:5.8)
-des constructeurs énergiques (80:9.13)
-la couleur finale est une nuance olive de violet (52:3.7)
-tué des bisons en Amérique du Nord (61:7.14)
-débarqué en Amérique il y a 1000 ans (64:7.19)
-le développement social le plus avancé sur Urantia (68:0.3)
-curiosité exploratoire et insatiable due à l'héritage andite (79:7.3)
-le facteur unificateur est l'héritage andite (81:4.11)
+		Les races nordiques, descendantes des cavaliers andites robustes, absorbèrent le meilleur de l'homme bleu et exterminèrent le pire alors qu'elles se déplaçaient vers l'ouest à travers les plaines russes, devenant un seul peuple. (80:4.5)
+		La race blanche moderne contient considérablement moins d'un huitième de sang adamique. (78:4.1)
+		La race blanche du nord, principalement composée de l'homme bleu, de l'Andite et d'un mélange de lignées Sangik andonites, rouges et jaunes, était caractérisée par des individus à tête longue, grands et blonds, mais qui finirent par s'intégrer complètement à toutes les branches des peuples blancs. (80:9.2)
+		La race blanche du nord, qui comprend les souches humaines les plus désirables, se composait principalement d'hommes bleus, d'Andites, d'Andonites, de Sangiks rouges et de Sangiks jaunes, avec le plus grand héritage de l'homme bleu. (80:9.2)
+		La race nordique, issue d'un mélange de souches bleues, andites, andonites, rouges et jaunes, avec des caractéristiques à longue tête, est apparue en Europe au cours des sixième et septième millénaires avant Jésus-Christ, absorbant les meilleurs traits et exterminant les pires, devenant les ancêtres des peuples scandinaves, allemands et anglo-saxons. (80:4.5) (80:9.2-4)
+	Division sud
+		La race blanche du sud, très mélangée et composée d'éléments andites, d'hommes bleus, d'Andonites et de Sangiks secondaires, est petite, à longue tête et brune. (80:9.8-11)
+Histoire
+	L’amalgame avec les Andites a suscité une curiosité inquiète et exploratoire chez les races blanches du nord, augmentant leur polyvalence. (79:7.3)
+	Le facteur unificateur dans la division caucasienne de la race blanche est l’héritage andite. (81:4.11)
+	La vénération des ancêtres parmi les races blanches en Europe a prospéré pendant des siècles après la chute de la civilisation romaine, reflétant une révérence pour les réalisations passées et de fortes valeurs familiales. (79:8.3)
+	Les races blanches en évolution étaient dominantes dans le nord de l’Europe, y compris le nord de l’Allemagne, le nord de la France et les îles britanniques, vers 5000 av. J.-C. (80:5.8)
+	Pendant le nouvel âge de pierre et l’âge du bronze, les races blanches européennes étaient des bâtisseurs énergiques qui adoraient le soleil en construisant des temples solaires. (80:9.13)
+	375 Adamsonites qui se sont installés en Grèce portaient les souches les plus précieuses des races blanches émergentes, faisant preuve d’une grande intelligence et d’une grande beauté physique. (80:7.4)
+	La race blanche débarqua pour la première fois en Amérique il y a 1000 ans, après le seul contact précédent de l’homme rouge d’Amérique du Nord avec une autre race humaine, environ cinq mille ans auparavant. (64:7.19)
+	L’homme blanc tua le bison en Amérique du Nord. (61:7.14)
+	En tout cas, la race blanche a démontré le développement social le plus avancé sur Urantia. (68:0.3)
+	Le christianisme, aujourd’hui, est devenu une religion bien adaptée aux mœurs sociales des races blanches. (98:7.11)
+	la véritable « race blanche » sur les planètes normales
+	A la fin de la dispensation adamique, les races sont mélangées en une nuance olive de violet, proclamant que « Dieu a fait d’un seul sang toutes les nations » et que « Son Fils a fait d’une seule couleur tous les peuples. » (52:3.7)
 
 forgerons blancs | | forgerons; magie; sorcellerie | | OK
 
@@ -356,17 +361,17 @@ tout | | parties et le tout | | OK
 
 méchanceté | | iniquité; péché; pécheurs | | OK
 
-veuves | | | | 
-elles se suicidaient habituellement sur la tombe de leur mari (87:2.7)
-s'emparant secrètement des maisons de W. (175:1.9)
-veuve à Rome (132:6.2)
-veuve de Naïn (146:6.2)
-veuve de Tyr (149:1.9)
-le veuvage est très redouté sous certaines mœurs (82:3.12)
-les acariens de la veuve (172:4.2)
+veuves | | | | OK
+Les anciens se suicidaient sur la tombe de leur mari pour apaiser les fantômes et se conformer aux normes culturelles de l’époque (87:2.7).
+Des dirigeants hypocrites cherchaient publiquement à être reconnus, tout en s’emparant secrètement des maisons des veuves pour en tirer profit (175:1.9).
+A Rome, Jésus et Ganid ont réconforté une veuve et ses cinq enfants après la mort accidentelle de son mari, en aidant à trouver un emploi pour le fils aîné afin de subvenir aux besoins de la famille (132:6.2).
+Lorsque Jésus est arrivé à Naïn, il a ressuscité le fils unique de la veuve de Naïn, à la grande stupéfaction des villageois (146:6.2).
+La ​​riche veuve de Tyr cherchait la guérison de ses nombreuses infirmités, offrant de l’argent dans une tentative futile d’acheter la puissance de Dieu (149:1.9).
+Dans certaines mœurs, le veuvage était très craint, les veuves étant confrontées au blâme, à la mort ou à des restrictions sociales. (82:3.12)
+Alors que le soir tombait et que la foule se dispersait, Jésus et ses disciples furent témoins de l’acte de générosité profonde d’une pauvre veuve, dont la petite offrande de « quelques pièces de veuve » surpassait toutes les contributions des riches. (172:4.2)
 
-désert de Judée | | | PLACE | 
-Jean-Baptiste gardait les moutons (135:2.3)
+désert de Judée | | | PLACE | OK
+Jean-Baptiste gardait des moutons dans le désert de Judée, où il fraternisait avec des bergers ascétiques et la confrérie nazaréenne, subvenant à ses besoins par l'élevage de moutons et des dons généreux. (135:2.3)
 
 volonté | | libre arbitre | | OK
 
@@ -427,219 +432,221 @@ nous sommes tenus de faire (147:3.3)
 nous devons attendre (137:4.8)
 quiconque fait la volonté de Dieu comprendra la validité des valeurs spirituelles (101:10.6)
 
-vent | | | | 
-les anciens croyaient que le vent était produit par les oiseaux (85:3.4)
-considéré comme bon ou mauvais dans diverses régions (85:4.2)
-ceux qui sont nés de l'esprit sont comme (142:6.5)
-ceux qui sèment le vent récolteront la tempête (131:2.9)
+vent | | | | OK
+Les anciens croyaient que les vents étaient produits par les oiseaux, craignant et adorant toutes les créatures ailées conformément à la règle d’or. (85:3.4)
+Différentes régions considèrent le vent comme bon ou mauvais, tout comme diverses cultures adorent divers phénomènes naturels. (85:4.2)
+Ceux qui sont nés de l’esprit sont comme le vent, invisibles mais dont les effets sont ressentis. (142:6.5)
+Ceux qui cherchent le Seigneur de tout leur cœur trouveront le salut en abondance. (131:2.9)
 
-vin | | | | 
-coupe de vin, emblème de l'Esprit divin de Vérité (179:5.1-3)
-du vin drogué offert aux victimes de la crucifixion; Jésus a refusé (187:2.3)
-ivre pour sceller la cérémonie d'adoption (70:3.8)
-Jésus sur la croix humecta ses lèvres avec (187:3.5)
-Jésus a transformé l'eau en (137:4.10-13) (138:8.5)
-Melchizédek a remplacé le sacrifice de chair par le sacrement du vin
-et du sang (93:4.14)
-parabole du vin nouveau dans des outres neuves (140:6.2) (147:7.2-3)
-sacrement dans le culte de la Mère de Dieu (89:9.2)
-servi à la Pâque (127:6.7) (179:1.1) (179:2.2)
-plaies traitées avec (90:4.9) (164:1.3)
+vin | | | | OK
+La coupe de vin, emblème de l’Esprit divin de Vérité, symbolise l’effusion et le ministère de la nouvelle dispensation de grâce et de vérité telle que Jésus la bénit pour ses apôtres. (179:5.1-3)
+Jésus refusa le vin drogué offert pour atténuer ses souffrances pendant la crucifixion, choisissant de conserver sa conscience humaine jusqu’à la toute fin afin de vaincre la mort par une soumission volontaire à la pleine expérience humaine. (187:2.3)
+Le vin remplaça le sang dans les cérémonies d’adoption, symbolisées par le contact des coupes et scellées en buvant la boisson. (70:3.8)
+Jésus humecta ses lèvres desséchées avec du vin sur la croix. (187:3.5)
+Jésus transforma l’eau en vin au festin de mariage à Cana, se surprenant lui-même par la manifestation de son pouvoir messianique. (137:4.10-13) (138:8.5)
+Melchisédek a offert du pain et du vin comme sacrement de substitution à l'ancien sacrifice de chair et de sang. (93:4.14)
+Le nouvel évangile du royaume ne doit pas se conformer à l'ancien, car le vin nouveau doit être mis dans des outres neuves. (140:6.2) (147:7.2-3)
+Le sacrement des gâteaux et du vin dans le culte de la Mère de Dieu a remplacé les anciens sacrifices humains et a ses racines dans les cérémonies de la Pâque hébraïque, influençant le sacrement chrétien. (89:9.2)
+Le vin servi à la Pâque était considéré par Jésus comme « l'eau de vie » et « le fruit de la vigne ». (127:6.7) (179:1.1) (179:2.2)
+Les blessures traitées avec de l’huile et du vin étaient un des premiers médicaments pour les malades, remontant aux civilisations antiques comme les Grecs et les Sumériens. (90:4.9) (164:1.3)
 
-ailes | | | | 
-origine de l'idée que les anges ont (39:5.11-14)
+ailes | | | | OK
+La croyance selon laquelle les anges ont des ailes trouve son origine dans des visualisations de séraphins transporteurs en transition pour un transit interplanétaire. (39:5.11-14)
 
-Wisconsin | (58:7.4) (58:7.7) | | PLACE | 
+Wisconsin | | | PLACE | OK
+Des crêtes de roches anciennes contenant des fossiles s'étendent de la Pennsylvanie au Mexique, mais aucune ne présente l'histoire de la Terre comme le Wisconsin. (58:7.4) (58:7.7)
 
-sagesse | (85:7.3) | esprits mentaux adjuvats:7 – Sagesse | | 
-70 divisions de (27:6.3)
-niveaux ascendants de (71:7.2,5-13)
-demander à Dieu la sagesse pour résoudre les problèmes (91:6.5) (91:9.7)
-magasins morts du monde (147:5.8)
-défini comme
-	conscience de la connaissance (160:2.7) (180:5.3)
-	conscience de la signification de la personnalité (102:3.9)
-	cumulative car elle peut être communiquée aux générations suivantes (160:2.3)
-	embrassant la discrétion ainsi que le courage (181:2.15)
-	embrasser des idées en processus d'association et de recombinaison (101:6.4)
-	but de l'existence purement mentale et morale (36:5.12)
-	connaissance dirigée par la raison, éclairée par la révélation (92:2.1)
-	la plus haute réalisation humaine de l'homme (103:9.6)
-rend justice à des hommes différents (102:3.7)
-élever à la vérité vivante (180:5.4)
-exalte la sagesse et elle te fera progresser (133:9.3) (144:8.7)
-La sagesse de Dieu consiste dans sa parfaite intelligence (4:3.4)
-conduit à l'adoration (112:2.11,13)
-Les maîtres de philosophie enseignent (27:6)
-la fausse couche la plus décourageante était la faute d'Adam (75:8.6)
-doit avoir une portée cosmique et une motivation spirituelle (54:1.7)
-doit évoluer (101:4.2)
-aucune limite à l'évolution intellectuelle (55:6.5)
-la perfection de la compréhension est indispensable à la perfection du Paradis (26:4.14-15)
-possibilité de commettre des erreurs inhérentes à l'acquisition (130:4.11)
-résoudre la confusion entre les versions de (28:5.9)
-sources de sagesse
-	allongement de l'unité de temps dans l'expérience (118:1.3-8)
-	intuition divine et expérience personnelle (19:2.4) (27:6.2) (157:6.2)
-	les faits sont des éléments constitutifs de la sagesse qui sont cimentés par l'expérience (50:5.7) (111:6.6)
-	La crainte de l'Éternel est le commencement de la sagesse (68:3.3) (131:2.6) (149:6.2-5)
-	L'expérience focalisée engendre une sagesse faisant autorité (40:10.6-7)
-	de l'étude de l'origine, de l'histoire et du destin de la situation (19:1.5-12) (32:2.13)
-	fruit de la divinité (56:10.20)
-	appris seulement en faisant l'expérience des tribulations, en s'adaptant à l'échec (4:3.4) (48:7.14) (132:7.2) (160:4.14)
-	que celui qui manque de sagesse la demande (28:5.8)
-	rendu possible par la religion (92:3.9)
-	Perfecteurs de la sagesse (19:2.3)
-	reconnaître son insignifiance (131:8.6)
-	concernant les parties du point de vue de l'ensemble (131:8.4)
-	acquise uniquement par l'expérience de ceux qui sont dotés d'une intelligence innée (81:6.13)
-	lente accumulation de sagesse acquise avec peine (118:8.5)
-	le progrès spirituel ne dépend pas de (65:8.4)
+sagesse | (85:7.3) | esprits mentaux adjuvats:7 – Sagesse | | OK
+Dans le vaste domaine du Paradis, les maîtres de philosophie dirigent des cours élaborés dans les 70 divisions de la sagesse pour coordonner les expériences et composer la connaissance dans un accord uniforme. (27:6.3)
+Dans l’état idéal, l’éducation est une quête de toute une vie où les citoyens expérimentent progressivement des niveaux ascendants de sagesse, de la connaissance des choses à la perspicacité cosmique et à la conscience de Dieu. (71:7.2,5-13)
+Demandez à Dieu la sagesse et la force spirituelle pour vous guider à travers les difficultés, alors que vous affrontez courageusement les problèmes sur le chemin vers la perfection divine. (91:6.5) (91:9.7)
+La femme, bien qu’étant spirituellement éloignée de Dieu, est sur un chemin progressif vers un but éternel, sans être obstruée par la sagesse mondaine et l’orgueil spirituel. (147:5.8)
+définition
+	L’union des âmes mobilise la sagesse à travers la conscience de la connaissance et le partage des biens spirituels. (160:2.7) (180:5.3)
+	La sagesse est la compréhension consciente de la signification de la personnalité. (102:3.9)
+	La culture et les civilisations humaines sont fondées sur la capacité de communiquer la connaissance et la sagesse aux générations futures, donnant naissance à l’art, à la science, à la religion et à la philosophie. (160:2.3)
+	La vraie sagesse englobe à la fois la discrétion et le courage, nous enseignant à faire preuve de compassion et de tolérance tout en possédant patience et sagacité dans notre service aux autres. (181:2.15)
+	La sagesse différencie l’esprit humain de l’esprit animal en embrassant les idées en processus d’association et de recombinaison, rendues possibles par l’octroi d’une assistance spirituelle. (101:6.4)
+	L’esprit adjuvat le plus élevé de la sagesse guide les créatures morales vers un avancement évolutif ordonné et progressif, servant de coordinateur et d’articulateur de tous les autres esprits dans le programme pratique et efficace de l’existence, visant finalement un but purement mental et moral. (36:5.12)
+	La religion évolutionniste s’adapte lentement à l’évolution de la société, reflétant les mœurs changeantes influencées par la sagesse révélée. (92:2.1)
+	La sagesse, la raison et la foi sont les plus hautes réalisations humaines de l’homme, chacune l’introduisant à différents mondes de vérité, de relations et d’expériences spirituelles. (103:9.6)
+Sagesse humaine
+	La sagesse rend justice aux hommes différents. (102:3.7)
+	L'individu qui connaît Dieu élève la sagesse aux niveaux de vérité vivante de la réalisation divine, recherchant l'Esprit vivant de Vérité dans chaque parole sage. (180:5.4)
+	Exaltez la sagesse et elle vous fera honneur, car la sagesse est la principale chose à rechercher. (133:9.3) (144:8.7)
+	La sagesse de Dieu, qui consiste en sa perspicacité parfaite, guide ses actions toutes-puissantes et toutes sages sans qu'il soit nécessaire de se repentir. (4:3.4)
+	Avec le temps, la pensée mène à la sagesse et la sagesse mène à l'adoration ; dans l'éternité, l'adoration mène à la sagesse, et la sagesse culmine dans la finalité de la pensée. (112:2.11,13)
+	Les maîtres de la philosophie du Paradis enseignent la poursuite exaltante de la tentative de résoudre les problèmes de l'univers aux personnalités ascendantes de l'espace. (27:6)
+	La faute d’Adam fut l’erreur la plus décourageante de toute Nébadon en matière de sagesse, reflétant les imperfections de notre univers évolutionnaire. (75:8.6)
+	La sagesse est divine et sûre lorsqu’elle a une portée cosmique et une motivation spirituelle. (54:1.7)
+	La sagesse humaine doit évoluer dans les limites fixées par nos supérieurs dans la révélation de la vérité. (101:4.2)
+	Il n’y a pas de limite à l’évolution intellectuelle, car la sagesse peut continuer à croître indéfiniment. (55:6.5)
+	La foi a valu au pèlerin ascendant la clé de Havona ; maintenant, les aides pèlerins doivent développer la perfection de compréhension pour la perfection du Paradis. (26:4.14-15)
+	La présence du mal nous rappelle nos imperfections et les erreurs nécessaires que nous devons commettre sur le chemin de la sagesse. (130:4.11)
+	En résolvant la confusion entre les versions de la sagesse, les Conseillers et les Censeurs Divins statuent sur la combinaison appropriée des procédures et l’authenticité des conseils. (28:5.9)
+sources de la sagesse
+	La sagesse se cultive par l’allongement de l’unité de temps dans l’expérience mortelle, en fusionnant le passé et le futur pour éclairer la véritable signification du présent. (118:1.3-8)
+	La sagesse est la combinaison harmonieuse de la perspicacité divine des êtres parfaits et de la connaissance expérientielle des créatures en évolution. (19:2.4) (27:6.2) (157:6.2)
+	Le fondement de la sagesse est construit sur des faits et des expériences. (50:5.7) (111:6.6)
+	La crainte du Seigneur est le commencement de la sagesse, conduisant à l’amour et à l’appréciation de l’amour et de la miséricorde éternels du Père. (68:3.3) (131:2.6) (149:6.2-5)
+	L’expérience focalisée engendre une sagesse autoritaire, vitale pour l’établissement des univers locaux et contribuant au bien-être du superunivers. (40:10.6-7)
+	La véritable sagesse spirituelle vient de l’étude complète et impartiale et de la corrélation des trois phases de la réalité de l’univers : l’origine, l’histoire et la destinée. (19:1.5-12) (32:2.13)
+	La sagesse cosmique, fruit de la divinité, naît de la pleine révélation de la vérité, de la beauté et de la bonté à l’homme fini par l’expression spirituelle et la compréhension de l’amour de la Déité. (56:10.20)
+	La sagesse s’acquiert en faisant l’expérience des tribulations et en s’adaptant à l’échec, tandis que la sagesse de Dieu découle de la perfection de sa perspicacité infinie de l’univers et de sa prescience divine, guidant le libre arbitre. (4:3.4) (48:7.14) (132:7.2) (160:4.14)
+	Si l’on manque de sagesse, on devrait chercher conseil auprès des Voix de la Sagesse. (28:5.8)
+	La religion, en favorisant la civilisation et en fournissant la discipline, a permis l’émergence de la sagesse. (92:3.9)
+	Quand et où qu’un Perfecteur de Sagesse agisse, la sagesse divine est incarnée et manifestée, servant de source ultime de connaissance et de discernement pour tous les êtres de l’univers. (19:2.3)
+	Reconnaître son insignifiance dans les lois éternelles de Dieu conduit à la vraie sagesse et à l’illumination. (131:8.6)
+	Un homme sage universalise son cœur en considérant toutes les parties du point de vue de l’ensemble, en s’humiliant pour aspirer à la grandeur et en rendant la bonté malgré les blessures. (131:8.4)
+	La vraie culture ne s’acquiert pas seulement par l’éducation, mais par l’intelligence innée et la sagesse expérimentale d’un peuple. (81:6.13)
+	L’accumulation lente de la sagesse douloureusement acquise est essentielle pour maintenir un équilibre entre les contraintes externes et internes dans l’évolution humaine. (118:8.5)
+	Le progrès spirituel ne dépend pas de la connaissance et de la sagesse, mais plutôt de l’expansion mentale et du désir de faire la volonté du Père céleste. (65:8.4)
 
-Sagesse, Livre de; Livre de la Sagesse | | | | 
-copié dans le Livre des Proverbes (95:4.5)
-influencé le concept d'El Shaddaï (96:1.5)
-Philon possédait une copie (95:4.3)
+Sagesse, Livre de; Livre de la Sagesse | | | | OK
+La sagesse d'Amenemope fut transcrite dans le Livre des Proverbes. (95:4.5)
+Le concept d'El Shaddai, influencé par le Livre de la Sagesse, était une combinaison complexe de plusieurs enseignements, dont ceux d'Amenemope, d'Ikhnaton et de Melchisédek, qui fusionnaient finalement avec les croyances de Yahweh. (96:1.5)
+Philon possédait un exemplaire du Livre de la Sagesse, qui enseignait que les richesses sont éphémères, que les choses terrestres sont temporaires, qu'il faut se détourner des paroles humaines pour se tourner vers les actes divins et que l'homme planifie tandis que Dieu décide. (95:4.3)
 
-Sagesse de Salomon | | | | 
-la pénétration de la philosophie platonicienne et des doctrines stoïciennes est démontrée dans la Sagesse de Salomon. (121:6.3)
-la course n'est pas pour les agiles (86:1.6)
+Sagesse de Salomon | | | | OK
+La Sagesse de Salomon reflète l'influence de la philosophie platonicienne et des doctrines stoïques sur les croyances juives hellénisées. (121:6.3)
+Le destin et le hasard dictent les résultats, comme le montre la déclaration de la Sagesse de Salomon selon laquelle « la course n'est pas aux rapides ». (86:1.6)
 > https://en.wikipedia.org/wiki/Book_of_Wisdom
 
-rois mages (Magi) | | | | 
-j'ai trouvé l'enfant Jésus et j'ai laissé des cadeaux (122:8.6)
-entretien avec Hérode (122:10.1)
-Aucune étoile n'a guidé les rois mages jusqu'à Bethléem (122:8.5-7)
-Les séraphins ont informé les mages de la naissance imminente de Jésus (119:7.6)
+sages (Magi) | | | PERSON | OK
+Certains sages sur terre furent informés de l’arrivée imminente de Michel par des séraphins, tout comme les sages de la naissance de Jésus furent informés. (119:7.6)
+Les sages de Mésopotamie trouvèrent l’enfant Jésus et laissèrent des cadeaux à Marie. (122:8.6)
+L’entrevue avec Hérode le laissa insatisfait, car les sages ne purent lui fournir l’endroit où se trouvait le « roi des Juifs » nouveau-né. (122:10.1)
+Les sages arrivèrent à Bethléem guidés par une légende d’une étoile qui n’avait jamais brillé, à la recherche de la « lumière de vie » née dans la crèche, sans se rendre compte des hymnes angéliques chantés à la naissance de Jésus à midi. (122:8.5-7)
 
-réalisation d'un souhait | | | | 
-les apôtres ont interprété les paroles du Maître pour justifier leurs désirs intenses (181:0.1)
-les valeurs morales ne découlent pas de (100:3.2)
-préférant les illusions optimistes à la réalité (160:1.7) (160:4.13-14)
+réalisation d'un souhait | | | | OK
+Les apôtres, interprétant les paroles du Maître pour justifier leurs désirs intenses, croyaient que Jésus reviendrait pour établir le royaume après une brève visite à son Père. (181:0.1)
+Les valeurs morales ne naissent pas de la réalisation de souhaits. (100:3.2)
+La sagesse vient de la confrontation des faits et de leur adaptation aux idéaux, et non de la préférence accordée aux illusions optimistes à la réalité. (160:1.7) (160:4.13-14)
 
-sorcellerie | | magie | | 
-magie pratiquée par des esprits irréguliers (90:2.2-3)
-les primitifs attribuaient les décès à (90:3.7)
-les chamans supprimaient leurs rivaux en les appelant sorcières (90:2.12)
-superstition des esprits ignorants (150:3.8-11)
-être progressiste signifiait être tué comme sorcier (92:3.5)
-sorcière d'Endor (146:7.1)
-les sorcières pratiquaient une magie égoïste et antisociale (88:6.2) (91:1.2)
-pouvoirs des sorciers obtenus en mangeant de la chair humaine (89:5.5)
+sorcellerie | | magie | | OK
+La pratique de la sorcellerie impliquait la magie pratiquée par des esprits irréguliers. (90:2.2-3)
+Les peuples anciens attribuaient la mort à la sorcellerie, ce qui conduisait à l’exécution des sorcières accusées. (90:3.7)
+Les chamans, l’aristocratie originelle exemptée des restrictions tribales, s’habillaient bien et avaient plusieurs épouses, accédaient au pouvoir en supprimant leurs rivaux par des accusations de sorcellerie, dominant les chefs et les rois. (90:2.12)
+La divination, la sorcellerie et la magie sont de pures superstitions, fondées sur des esprits ignorants et des croyances sans fondement. (150:3.8-11)
+Dans les temps anciens, le progrès signifiait la mort en tant que sorcier, mais la lente progression des mœurs et la révélation historique peuvent élever et modifier la religion naturelle. (92:3.5)
+Pendant son séjour à Endor, Jésus raconta à ses apôtres l’histoire du roi Saül et de la sorcière d’Endor, leur assurant que les méchants médiateurs qui se faisaient passer pour les esprits des morts seraient bientôt maîtrisés. (146:7.1)
+La magie privée, utilisée pour attirer le mal sur les ennemis, était dispensée par les sorciers et les sorcières, tandis que la magie publique visait le bien de toute la tribu. (88:6.2) (91:1.2)
+On croyait que les pouvoirs des sorciers s’obtenaient en consommant de la chair humaine lors d’une cérémonie solennelle de vengeance, où le fantôme d’un ennemi pouvait être détruit ou fusionné avec celui du mangeur. (89:5.5)
 
-main desséchée | | | | 
-homme avec (148:7)
+main desséchée | | | | OK
+L'homme à la main sèche a été guéri par Jésus le jour du sabbat, démontrant ainsi l'importance de faire du bien aux autres. (148:7)
 
-témoins | | | | 
-La loi juive exige que les deux parties soient d'accord (184:3.6)
+témoins | | | | OK
+La loi juive exigeait que deux témoins soient d’accord avant de porter des accusations, empêchant Judas de témoigner contre Jésus, déconcertant même les faux témoins. (184:3.6)
 
-épouses | | mariage; sexes; femmes | | 
-toujours soumis à des tabous plus restrictifs que les maris (82:2.5) (82:4.4)
-quitter sa femme pour le bien du royaume (150:4.3) (163:3.4) (167:2.2) (171:2.2)
-une fois qualifiés par la capacité de travailler dur, avoir des enfants (82:3.7)
-les hommes primitifs pouvaient tuer leurs femmes s'ils étaient payés pour cela (70:10.11)
+épouses | | mariage; sexes; femmes | | OK
+Tout au long de l’histoire, les femmes ont toujours été soumises à des tabous plus restrictifs que les maris, enracinés dans le concept de fidélité conjugale et de protection de la lignée et de l’héritage. (82:2.5) (82:4.4)
+Quitter femme et famille pour le bien du royaume est nécessaire pour être un véritable disciple. (150:4.3) (163:3.4) (167:2.2) (171:2.2)
+Les qualifications d’une femme étaient basées sur sa capacité à travailler dur et à avoir des enfants, avec une valeur ajoutée si elle avait eu un enfant avant le mariage. (82:3.7)
+Même dans les sociétés primitives, les maris pouvaient échapper à la punition pour avoir tué leur femme s’ils avaient payé pour elle. (70:10.11)
 
-magiciens; magiciennes; devins | | magie; sorcellerie | | 
-les praticiens de l'art noir appelé (90:2.2)
+magiciens; magiciennes; devins | | magie; sorcellerie | | OK
+Les praticiens de l'art noir, appelés sorciers, magiciens, magiciens, sorcières, enchanteurs, nécromanciens, conjurateurs et devins, étaient autrefois connus sous divers titres, notamment prêtres, voyants, chamans ou hommes-médecine, lorsqu'ils pratiquaient ce qu'on appelait alors l'art blanc. (90:2.2)
 
-Wolvering | | | PLACE | 
-univers voisin de Nébadon (32:2.12)
+Wolvering | | | PLACE | OK
+Wolvering est un univers voisin de Nébadon dans le circuit du superunivers d'Orvonton. (32:2.12)
 
-loups | (61:3.13) | | | 
-chassé par les Néandertaliens (64:4.2)
+loups | (61:3.13) | | | OK
+Les loups étaient partout et étaient chassés par les Néandertaliens il y a 800 000 ans en Europe. (64:4.2)
 
-femmes | | mortels; sexes; épouses | | 
-parmi les administrateurs d'Adam et Eve (74:3.5)
-parmi les premiers chrétiens
-	admis dans la pleine communion de l'Église primitive (98:6.4)
-	Les règles strictes d'André sur le travail des apôtres avec (150:2.2)
-	les apôtres croyaient que les femmes étaient inférieures (143:5.11)
-	Paul ne considérait pas les femmes comme des égales (84:5.6) (150:1.3)
-parmi les juifs
-	contre la coutume
-		pour un homme de saluer une femme en public (149:2.8)
-		pour que les femmes approchent des hommes inconnus (143:5.2) (190:0.5)
-		pour que les femmes puissent s'asseoir à un banquet public (172:1.2)
-		pour que les femmes s'assoient dans la zone principale du temple (125:0.4)
-	exemptés de l'impôt sur la tête du temple (173:1.3)
-	pas tenu d'assister à la Pâque à Jérusalem (125:0.2)
-	étaient des biens dans l'Ancien Testament (82:4.3) (84:3.2)
-	il vaut mieux brûler les paroles de la loi que les transmettre (149:2.8)
-parmi les primitifs
-	l'avortement est fréquent après le tabou sur l'accouchement chez les célibataires (68:6.9)
-	vieilli très tôt (83:5.13)
-	manger des enfants pour renouveler la force perdue en couches (89:5.4)
-	avant l'ère de l'élevage, les mères allaitaient jusqu'à 4 ou 5 ans (84:3.9)
-	se sont suicidées sur les tombes de leurs maris (87:2.7)
-	les filles étaient désirées parce qu'elles étaient vendables (84:7.14)
-	La dégradation des femmes, une des raisons du déclin de Rome (195:3.9)
-	les premiers commerçants (69:3.11) (69:4.2)
-	les premiers guerriers n'avaient pas le droit de s'associer avec (70:1.20)
-	exempté de la guerre (70:1.20)
-	formé des sociétés secrètes (70:7.13)
-	Les bébés filles étaient souvent tués avant l'ère de l'achat des épouses (68:6.8)
-	légendes d'Ève et de Pandore (84:4.4)
-	a maintenu une résidence sédentaire pour cultiver le sol (68:2.6)
-	le premier commerce de l'homme était l'échange de (69:5.10)
-	tabous plus restrictifs pour les femmes que pour les hommes (82:2.5) (82:4.4)
-	les hommes primitifs pouvaient tuer leurs femmes s'ils étaient payés pour cela (70:10.11)
-	fourni des légumes comestibles dans la société prépastorale (68:5.8)
-	à peine plus que les animaux humains à l'âge pastoral (68:5.8) (69:7.5) (69:8.1)
-	choisis comme chamans pour entretenir les feux domestiques (69:6.5)
-	certaines tribus avaient des dirigeantes féminines (70:5.4)
-	Le vol des femmes a toujours provoqué la guerre (70:1.9)
-	les tabous ont maintenu les femmes strictement dans leurs propres domaines (69:3.3)
-	les femmes célibataires étaient la propriété du chef ou des hommes de la tribu (69:9.7) (83:5.1)
-	valorisés comme fournisseurs de nourriture, porteurs de fardeaux, moyens de gratification sexuelle (68:2.7) (69:4.2) (84:3.7)
-	étaient des biens, des esclaves, des partenaires ou des jouets (69:8.1) (84:4.3,10)
+femmes | | mortels; sexes; épouses | | OK
+Chez les primitifs
+	L'avortement chez les femmes célibataires devint courant suite au tabou sur la maternité, conduisant à une pratique répandue chez de nombreuses races. (68:6.9)
+	Les femmes primitives vieillissaient très tôt en raison de leurs grossesses fréquentes, favorisant la polygamie pour alléger le fardeau. (83:5.13)
+	Le goût pour la chair humaine se développe à cause de la faim, de l'amitié, de la vengeance ou d'un rituel religieux, conduisant au cannibalisme habituel, les mères primitives mangeant autrefois leurs propres enfants pour renouveler les forces perdues en procréant. (89:5.4)
+	Avant l'ère de l'élevage, les mères allaitaient leurs bébés pendant de longues périodes, conduisant à une fertilité accrue et à une mortalité infantile réduite grâce à l'utilisation de lait de vache et de lait de chèvre. (84:3.9)
+	Les veuves se suicidaient sur la tombe de leur mari pour assurer une vie après la mort paisible pour les deux. (87:2.7)
+	Les grandes familles chez les peuples anciens n'étaient pas nécessairement affectueuses. Beaucoup d'enfants étaient désirés parce que les filles étaient vendables. (84:7.14)
+	La dégradation des femmes fut l’une des nombreuses raisons du déclin de l’Empire romain. (195:3.9)
+	Les premiers commerçants étaient des femmes, qui commencèrent comme espionnes et devinrent finalement des intermédiaires dans le commerce croissant. (69:3.11) (69:4.2)
+	Les premiers guerriers n’avaient pas le droit de s’associer aux femmes, ce qui marqua la première étape dans le raffinement de la guerre. (70:1.20)
+	Les femmes furent exemptées de la guerre, car le premier raffinement du combat consistait à faire des prisonniers et à reconnaître les non-combattants, tandis que des armées permanentes et des castes militaires surgirent pour s’adapter à la complexité croissante de la guerre. (70:1.20)
+	Les femmes formèrent des sociétés secrètes pour préparer les adolescentes à la vie de femme et de mère, autorisant l’éligibilité au mariage et la participation à des spectacles de mariées, tandis que certains ordres prônaient le mariage précoce. (70:7.13)
+	Dans les sociétés antiques, les bébés filles étaient souvent tués pour limiter la croissance démographique, ainsi que d’autres pratiques comme l’exposition des enfants malades ou difformes à la naissance. (68:6.8)
+	Les femmes avaient une résidence fixe pour cultiver la terre, où elles pouvaient partager leur amour maternel dévoué et différencier les activités masculines et féminines. (68:2.6)
+	Le premier commerce de l’homme était l’échange de femmes, mais le commerce des esclaves sexuels entravait la vie de famille et polluait l’aptitude biologique des peuples supérieurs. (69:5.10)
+	Tout au long de l’histoire, les femmes ont été confrontées à des tabous plus restrictifs que les hommes, en particulier en ce qui concerne le sexe et le mariage. (82:2.5) (82:4.4)
+	Dans les premières lois tribales, un homme pouvait tuer sa femme sans punition s’il avait payé pour elle, mais aujourd’hui les Esquimaux comptent toujours sur la famille pour la justice. (70:10.11)
+	Dans la société prépastorale, les femmes fournissaient des légumes comestibles, mais la propagation de l’élevage a conduit à leur esclavage social. (68:5.8)
+	Au cours de l’ère pastorale, les femmes ont été réduites aux profondeurs de l’esclavage social, devenant à peine plus que des animaux humains. (68:5.8) (69:7.5) (69:8.1)
+	Les femmes étaient choisies comme chamanes pour leur rôle dans l’entretien des feux sacrés des foyers. (69:6.5)
+	Certaines tribus suivaient l’enseignement d’Onamonalonton avec des conseils de femmes et des femmes dirigeantes. (70:5.4)
+	La pénurie de femmes – une tentative de remédier à une pénurie d’aide domestique – le vol des femmes a toujours provoqué la guerre. (70:1.9)
+	Au fil des âges, les tabous ont confiné les femmes à leurs propres champs, tandis que les hommes assumaient égoïstement les tâches les plus agréables, mais les deux sexes ont toujours travaillé ensemble à la construction et à l’ameublement du foyer. (69:3.3)
+	Dans les temps anciens, les femmes célibataires étaient considérées comme la propriété du chef de la tribu ou des hommes, évoluant finalement vers un système monogame où les épouses appartenaient à des maris individuels. (69:9.7) (83:5.1)
+	Les femmes ont toujours été valorisées en tant que pourvoyeuses de nourriture, porteuses de fardeaux et moyens de gratification sexuelle dans le schéma social en évolution. (68:2.7) (69:4.2) (84:3.7)
+	Les femmes ont toujours été considérées et traitées comme des biens, des esclaves, des partenaires ou des jouets, ce qui illustre la lutte de longue date pour l’égalité et l’autonomie à travers l’histoire. (69:8.1) (84:4.3,10)
+Adam et Ève
+	Parmi les administrateurs d’Adam et Ève, les femmes furent innovatrices et incluses aux côtés des hommes dans le partage des honneurs et des responsabilités dans les affaires du monde. (74:3.5)
+	À travers les légendes d’Ève et de Pandore, les femmes ont été historiquement mal comprises et les hommes se sont méfiés des femmes, ce qui a conduit à une méfiance universelle envers les femmes. (84:4.4)
+chez les Juifs
+	Les femmes étaient exemptées de l’impôt par tête du temple, car les cours du temple étaient profanées par un système extensif d’échanges bancaires et commerciaux. (173:1.3)
+	Les femmes n’étaient pas obligées d’assister à la Pâque à Jérusalem, mais lorsque Jésus insista pour que sa mère soit présente, un nombre record de femmes de Nazareth firent le voyage, ce qui conduisit à la plus grande présence féminine à la fête en proportion des hommes. (125:0.2)
+	Dans l’Ancien Testament, les femmes étaient considérées comme des biens, reflétant les mœurs des bergers et leur croyance dans le transfert de propriété du père au mari. (82:4.3) (84:3.2)
+	Jésus contre la coutume
+		Jésus a défié l’enseignement rabbinique en permettant aux femmes d’enseigner l’évangile lors de sa troisième tournée en Galilée, faisant preuve d’un courage remarquable à une époque où les femmes n’étaient même pas reconnues en public. (149:2.8)
+		Jésus a osé prendre des femmes comme enseignantes de l’évangile lors de sa troisième tournée en Galilée, défiant les normes sociales qui interdisaient même le salut d’un homme à une femme en public. (149:2.8)
+		Il n’était pas considéré comme convenable à l’époque que les femmes s’approchent d’hommes inconnus, mais c’est la dévotion de Marie qui lui a fait oublier ces restrictions. (143:5.2) (190:0.5)
+		Lors d’un banquet public en l’honneur de Jésus et de Lazare à Béthanie, des femmes étaient parmi les spectateurs, malgré la coutume des Juifs interdisant leur présence à de tels événements. (172:1.2)
+		Jésus était profondément indigné par la discrimination injuste dont étaient victimes les femmes obligées de s'asseoir dans la galerie des femmes du temple. (125:0.4)
+Parmi les premiers chrétiens
+	L’admission des femmes dans la pleine communion de l’Église primitive a marqué un facteur décisif dans la lutte entre le mithraïsme et le christianisme. (98:6.4)
+	Les règles strictes d’André sur le travail des apôtres avec les femmes ont été contestées à Magdala, où dix femmes évangélistes ont démontré leur utilité et justifié leur choix en gagnant Marie-Madeleine pour le royaume. (150:2.2)
+	Malgré la croyance des apôtres en l’infériorité des femmes, Jésus leur a enseigné que même les femmes dites immorales ont une âme capable de choisir Dieu comme leur Père. (143:5.11)
+	Paul ne considérait pas les femmes comme des égales, malgré le fait que les premiers Chinois et les Grecs traitaient les femmes mieux que la plupart des peuples environnants et que Jésus plaidait pour leur proclamation d’émancipation dans le royaume des cieux. (84:5.6) (150:1.3)
 égalité avec les hommes
-	droits accrus (83:8.8-9) (84:5.4,10-12)
-	L'Islam enseigne l'infériorité des femmes (82:4.3) (95:7.6)
-	Jésus a enseigné l'égalité (125:0.4) (125:5.4) (127:1.5) (138:8.11) (149:2.8-9) (150:1.3) (167:5.4) (167:6.4) (194:3.14)
-	les hommes n'ont aucune autorité légitime sur les femmes si elle n'est pas donnée volontairement (133:2.2)
-	se montrer digne de nouvelles réalisations ? (84:5.10)
-	la science émancipée, pas la religion (84:5.7)
-	Les droits de W. ne sont pas les droits des hommes (84:5.11-12)
-les hommes considéraient les femmes avec une méfiance ignorante et une fascination craintive (84:4.4)
+	La méfiance historique des hommes et leur fascination craintive envers les femmes ont conduit à un manque de compréhension entre les sexes tout au long de l’histoire. (84:4.4)
+	L'augmentation des droits des femmes a conduit à l'évolution du mariage en tant que partenariat loyal partagé à parts égales entre un homme et une femme. (83:8.8-9) (84:5.4,10-12)
+	Les enseignements du Coran sur l'infériorité des femmes reflètent un contexte historique dans lequel les femmes étaient traitées comme des biens avec des droits transférables du père au mari. (82:4.3) (95:7.6)
+	Jésus a enseigné l'égalité entre les hommes et les femmes, défiant les traditions discriminatoires de son époque. (125:0.4) (125:5.4) (127:1.5) (138:8.11) (149:2.8-9) (150:1.3) (167:5.4) (167:6.4) (194:3.14)
+	Les hommes n'ont aucune autorité légitime sur les femmes si elle n'est pas donnée volontairement. (133:2.2)
+	La femme moderne se montrera-t-elle digne de toutes les nouvelles réalisations obtenues dans le cadre des idéaux du mariage sexuel ? (84:5.10)
+	La science, et non la religion, a émancipé les femmes en déplaçant le fondement du pouvoir de la force physique vers les progrès technologiques, en particulier dans le système industriel moderne qui les a libérées des contraintes de la ménagère. (84:5.7)
+	Les droits des femmes ne sont pas les droits des hommes dans la sphère de l’existence et de la reproduction de la race, où la femme est la partenaire égale de l’homme dans le déroulement de l’évolution raciale. (84:5.11-12)
+	Les femmes gouvernent les hommes sur certaines planètes, annonçant l’aube d’une véritable égalité des sexes. (52:2.7)
 nature des femmes
-	capitalisé sur les pulsions sexuelles plus fortes des hommes (84:3.5) (84:4.2-3)
-	L'amour maternel irrésistible est une émotion handicapante (84:1.7) (84:3.3) (84:5.13)
-	désirent la protection du mariage en raison de l'attachement à leur progéniture (69:3.2) (84:1.2) (84:5.1,13) (84:7.2)
-	n'a pas fonctionné en cas d'urgence (84:3.3)
-	méthodes de travail laxistes (84:3.10)
-	porte-étendards moraux et chefs spirituels (84:6.4)
-	plus intuitif que les hommes; un peu moins logique (84:6.4)
-	gestionnaires avisés des hommes (84:4.2-3)
-	tendance à considérer les résultats immédiats (75:2.4)
-gouverner les hommes sur certaines planètes (52:2.7)
-spécialisation du travail en fonction du sexe (69:3.2-3) (69:4.2)
-là où se trouve la femme est toujours considéré comme la maison (68:2.6)
+	Les femmes ont toujours habilement capitalisé sur les pulsions sexuelles plus fortes des hommes pour leur propre avancement et pouvoir. (84:3.5) (84:4.2-3)
+	L'amour maternel irrésistible est l'émotion handicapante qui a toujours placé la femme dans une position extrêmement désavantageuse dans toutes ses luttes avec l'homme, malgré le lien naturel et instinctif entre la mère et l'enfant. (84:1.7) (84:3.3) (84:5.13)
+	Les femmes désirent la protection du mariage en raison de leur attachement physique et émotionnel à leur progéniture, tandis que les hommes ont été initialement attirés vers le mariage par la faim et plus tard par la pression sociale. (69:3.2) (84:1.2) (84:5.1,13) (84:7.2)
+	Au cours des temps primitifs, les femmes ne recevaient pas de reconnaissance sociale en raison de leur incapacité à fonctionner dans les situations d'urgence. (84:3.3)
+	La domestication du chien a allégé le besoin de surveillance constante, ce qui a conduit à l'amélioration du statut social des femmes et à l'amélioration de leurs méthodes de travail avec l'introduction de l'agriculture. (84:3.10)
+	Les femmes sont les porte-étendards moraux et les chefs spirituels, incarnant l'intuition et nourrissant la sagesse. (84:6.4)
+	Les femmes, porte-étendards moraux et chefs spirituels de l'humanité, possèdent plus d'intuition mais sont un peu moins logiques que les hommes. (84:6.4)
+	Les femmes, en tant que gestionnaires astucieuses des hommes, ont longtemps utilisé leur sex-appeal pour faire avancer leurs propres intérêts et exercer un pouvoir dominant. (84:4.2-3)
+	L'inclination d'Ève vers les résultats immédiats l'a involontairement conduite à compromettre sa confiance planétaire avec Adam en s'engageant dans des visites privées avec un chef nodite, contrairement aux avertissements des Melchizédeks. (75:2.4)
+	La spécialisation du travail en fonction du sexe a conduit les femmes à assumer les tâches routinières tandis que les hommes s'adonnent à la chasse et aux combats, les femmes assumant historiquement des rôles de commerçantes et de porteuses de fardeaux dans la construction et l'ameublement de la maison. (69:3.2-3) (69:4.2)
+	Le rôle des femmes dans la société a toujours été centré sur le foyer, où elles cultivent la terre et nourrissent leur famille. (68:2.6)
 
-corps de femmes | (150:1) (159:0.1) | | PERSON | 
-Abner en charge de (163:7.3)
-ils croyaient que Jésus était ressuscité (190:1.2)
-Visite de porte à porte (151:0.2)
-incluait les épouses de Philippe, Matthieu et Pierre; également Salomé (139:5.11) (163:7.3)
-Apparition morontielle de Jésus à (190:3.1)
-se joignit au cortège funèbre qui entra à Jérusalem (172:3.8)
-Marie Madeleine était la principale porte-parole de (190:0.5)
-aucun n'a déserté (150:2.3) (153:5.2)
-Perpétua dirigea une œuvre élargie (163:7.3)
-prêché dans les bordels (150:2.2)
-a pris en charge le ministère auprès des malades (165:0.2)
-formé 50 femmes (163:7.3)
+corps de femmes | (150:1) (159:0.1) | | PERSON | OK
+Le corps des femmes s’occupa des malades et enseigna l’Évangile lors de visites de maison en maison à Capernaüm pendant que Jésus se remettait de son rejet à Nazareth. (151:0.2)
+Cinquante femmes furent formées pour les visites à domicile et le travail de ministère dans le corps des femmes, qui comprenait Perpétua, la femme de Simon Pierre, comme chef aux côtés d’Abner, et d’autres femmes éminentes telles que les femmes de Philippe et de Matthieu et la mère de Jacques et de Jean. (163:7.3)
+Abner, responsable du corps des femmes, les dirigea dans le travail et le ministère dans les villes de Pérée, y compris Perpétua, la femme de Simon Pierre, et les femmes de Philippe et de Matthieu, et la mère de Jacques et de Jean. (163:7.3)
+Le corps des femmes prêcha dans les bordels, illustrant leur utilité et justifiant leur sélection à Magdala. (150:2.2)
+Le corps des femmes de Pérée, qui comptait soixante-deux membres, prit en charge le ministère auprès des malades pendant une période de croissance spirituelle et d’absence de miracles, ouvrant la voie à une large acceptation des enseignements de Jésus parmi les classes supérieures de citoyens. (165:0.2)
+Le corps des femmes d’origine se joignit joyeusement à la procession de la foule en fête jusqu’à Jérusalem. (172:3.8)
+Le corps des femmes croyait que Jésus était ressuscité malgré les doutes initiaux des apôtres et d’autres hommes. (190:1.2)
+L’épouse de Philippe, un membre courageux et efficace du corps des femmes, continua courageusement son travail d’évangélisation avec son mari, même lorsqu’elle fut confrontée à la persécution et sacrifia finalement sa vie pour sa foi. (139:5.11) (163:7.3)
+L’apparition morontielle de Jésus au corps des femmes chez Joseph d’Arimathée apporta un message de communion universelle et un appel à répandre l’évangile de la filiation avec Dieu. (190:3.1)
+Marie Madeleine fut la principale porte-parole du corps des femmes, proclamant hardiment la résurrection du Maître avec beaucoup de circonspection et de dévotion. (190:0.5)
+Marie Madeleine et les autres femmes évangélistes travaillèrent fidèlement et efficacement pour éclairer et élever leurs sœurs opprimées, aucune ne les abandonna pendant l’épisode tragique de la vie de Jésus sur terre. (150:2.3) (153:5.2)
+Perpétua dirigea un groupe élargi de femmes dans le ministère et l’évangélisation en Pérée, aux côtés d’autres membres dévoués du corps des femmes. (163:7.3)
 
 galerie des femmes | | temple de Jérusalem | | OK
 
-bois | | | | 
+bois | | | | OK
 commerce précoce en (79:1.4)
 Jésus était charpentier (126:1.6) (129:1.2-3)
 Jésus a écrit sur des tableaux (126:1.6) (187:1.2)
 frapper sur du bois perpétue les coutumes du culte des arbres (85:2.5)
 
-mammouths laineux | (61:5.7) (61:7.13-14) | | | 
+mammouths laineux | (61:5.7) (61:7.13-14) | | | OK
 
-parole de Dieu | | | | 
+parole de Dieu | | | | OK
 accordé dans la chair est une nourriture divine (153:3.2)
 discerner la parole de Dieu quelle que soit son origine (155:6.12)
 les Fils divins sont (10:3.3)
@@ -652,41 +659,41 @@ rejeter les écritures traditionnelles considérées comme (155:6.2)
 
 mots | | langue | | OK
 
-qualité de fabrication; ouvrier méticuleux; ouvrier ordinaire | | | | 
+qualité de fabrication; ouvrier méticuleux; ouvrier ordinaire | | | | OK
 Jésus ne perdait pas de temps à des bagatelles (134:9.7)
 
-œuvres | | action; salut | | 
+œuvres | | action; salut | | OK
 ne peut pas acheter la faveur de Dieu (167:5.1)
 le salut n'est pas obtenu par (143:2.5)
 
 monde (terre) | | Urantia | | OK
 
-gouvernement mondial | | gouvernement:gouvernement mondial | | 
+gouvernement mondial | | gouvernement:gouvernement mondial | | OK
 
-monde de la croix | | | | 
+monde de la croix | | | | OK
 Urantia connue sous le nom de (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-monde du Père | | Jérusalem:mondes culturels de transition | PLACE | 
+monde du Père | | Jérusalem:mondes culturels de transition | PLACE | OK
 Les 7 mondes en cercle sont des sphères de détention (45:1.10)
 Satellite de Jérusalem, sphère silencieuse; monde culturel de transition n°7 (45:1.9) (53:7.1)
 Les Panoptiens sont des gardiens (53:7.1)
 les rebelles ont résisté (53:9.1)
 
-monde des Fils | | Jérusalem:mondes culturels de transition | PLACE | 
+monde des Fils | | Jérusalem:mondes culturels de transition | PLACE | OK
 monde culturel de transition #5 (45:1.7)
 
-monde de l'Esprit | | Jérusalem:mondes culturels de transition | PLACE | 
+monde de l'Esprit | | Jérusalem:mondes culturels de transition | PLACE | OK
 monde culturel de transition #6 (45:1.8)
 
-Première Guerre mondiale; guerre mondiale | | | | 
+Première Guerre mondiale; guerre mondiale | | | | OK
 malheureusement rétabli des groupes politiques submergés (134:5.9)
 
-mondes | | sphères architecturales; planètes; sphères sacrées du Paradis; corps spatiaux | | 
+mondes | | sphères architecturales; planètes; sphères sacrées du Paradis; corps spatiaux | | OK
 
-ver de poussière | | | | 
+ver de poussière | | | | OK
 l'homme est, par nature, mais il est divin dans sa destinée (149:6.9)
 
-culte | (85) (5:3) (27:7) | esprits mentaux adjuvats:Esprit #6 – Adoration; églises; méditation; prière; communion spirituelle; temple | | 
+culte | (85) (5:3) (27:7) | esprits mentaux adjuvats:Esprit #6 – Adoration; églises; méditation; prière; communion spirituelle; temple | | OK
 Adam a refusé d'accepter (74:4.4-5)
 L'adoration de la beauté abstraite, l'exaltation de la nature n'est pas une adoration (5:5.4)
 en alternance avec le service (143:7.3)
@@ -762,15 +769,15 @@ distorsion de valeur dans le culte de la richesse-pouvoir (70:2.13)
 la valeur de la beauté pour conduire à l'adoration (167:6.5-6)
 la sagesse se perd dans un culte éclairé et réfléchi (112:2.11-13)
 
-bâtisseurs de culte | | | ORDER | 
+bâtisseurs de culte | | | ORDER | OK
 bâtisseurs divins, artisans célestes (44:3.5)
 
-blessures | | | | 
+blessures | | | | OK
 traité avec de l'huile et du vin (90:4.9) (164:1.3)
 
 rogne | | colère | | OK
 
-écriture | | communication; langue; bâton de message; impression; archives; signaux de fumée; ceintures wampum | | 
+écriture | | communication; langue; bâton de message; impression; archives; signaux de fumée; ceintures wampum | | OK
 alphabets
 	48 symboles dans l'alphabet de Nébadon (44:4.4)
 	70 symboles dans l'alphabet d'Uversa; 1 milliard de symboles conceptuels (44:4.4)
@@ -795,4 +802,4 @@ cordons noués; bâton de message utilisé pour les premiers (69:4.7)
 trouve son origine dans les premiers registres commerciaux; progression de (69:4.6-7)
 les primitifs écrivaient sur l'écorce, l'argile, la pierre, les peaux, les nids de guêpes (66:5.9)
 
-Wyoming | (60:2.5) | | PLACE | 
+Wyoming | (60:2.5) | | PLACE | OK
