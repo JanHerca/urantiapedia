@@ -9,17 +9,19 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-wakes for dead | | | | OK
+wakes for dead; “wakes” for the dead | | | | OK
 Ancient ghost cult customs continue to influence wakes for the dead with noisy rituals and foul-smelling potions. (87:6.11)
 
 Wales | | British Isles | PLACE | OK
 The division of political sovereignty among nation-states leads to warfare, as seen in England, Scotland, and Wales before they reposed sovereignty in the United Kingdom. (134:6.3)
+> https://en.wikipedia.org/wiki/Wales
 
 walls | | | | OK
 The protection afforded by ancient city walls against ferocious beasts and surprise attacks enabled progress in human dwellings and animal subjugation. (66:5.8)
 
-walnuts | | | | OK
+walnuts; walnut | | | | OK
 Walnuts were among the many present-day trees that first appeared during a period of great plant-life evolution, second in importance only to the appearance of man himself. (60:3.19)
+> https://en.wikipedia.org/wiki/Walnut
 
 wampum belts | | | | OK
 Writing progressed up through the stages of the “message stick,” knotted cords, picture writing, hieroglyphics, and wampum belts, to the early symbolic alphabets. (69:4.7)
@@ -27,7 +29,7 @@ Writing progressed up through the stages of the “message stick,” knotted cor
 wands | | | | OK
 Magic practiced with wands was a common ritual among unclothed practitioners, with women outnumbering men in the ancient art. (88:6.1)
 
-war | | military; peace:social peace; self-defense | | OK
+war; War; warfare; Warfare | | military; peace:social peace; self-defense | | OK
 War has always been a kingmaker, teaching mankind that neither peace nor conflict can be governed by committee. (70:5.5)
 benefits of early war
 	The benefits of early war brought about social changes and new ideas that accelerated civilization's progress, despite the temporary setback of plunging society into savagery. (70:2)
@@ -79,25 +81,26 @@ evolution of war
 	Competition, slowly displacing war, determines individual's industry role and industry survival in current society. (71:5.1)
 	Society must provide peaceful substitutes for the periodic drive for collective liberation in order for man to accept peace as a normal way of life. (70:2.20)
 	International trade organizations will do more for promoting peace on Urantia than sentimental visions of peace planning. (70:3.4)
+> https://en.wikipedia.org/wiki/War
 
-warnings | | religion:warnings | | OK
+warnings; Warning | | religion:warnings | | OK
 Adam and Eve were warned of dire consequences for departure from the divine plan long before they left Jerusem. (75:7.4)
 Misunderstood warnings as unjust interference with personal freedoms led Lucifer and Caligastia astray. (66:8.2)
 A sojourner on the seventh mansion world has access to the Satania prison worlds, serving as a solemn warning against rebellion. (45:1.11)
 Warning only intensifies evil determination once love is dead. (179:4.8)
 Despite numerous warnings from the Master, divine guidance often proves ineffective in dealing with embittered human nature. (139:12.11)
 
-washing | | sanitation | | OK
+washing; laving | | sanitation | | OK
 Jesus washed the apostles' feet, teaching them the meaning of true greatness and service. (179:1.2,8) (179:3)
 Jesus washed only for cleanliness, disregarding the Pharisees' ceremonial practices. (166:1.2) (167:1.3) (179:3.1)
 
 wasps’ nests | | | | OK
 Early people wrote on wasps' nests, under the direction of Fad, who formulated the first alphabet and introduced a writing system. (66:5.9)
 
-watchful householder | | | | OK
+watchful householder; no man | | | | OK
 The parable of the watchful householder teaches vigilance for the sudden and unexpected departure of the Son of Man. (165:5.6)
 
-watchful servant | | | | OK
+watchful servant; watchful servants | | | | OK
 The parable of the watchful servant teaches us to be vigilant and prepared for the trials that lie ahead. (165:5.5)
 
 watchtower | | | | OK
@@ -125,14 +128,16 @@ superstitions regarding water
 water in heavens
 	Morontia plants require moisture from the subsoil system of circulation on the architectural worlds, where there are no raging rivers nor expansive oceans. (46:2.2)
 	The water systems of Edentia and other architectural spheres, like those of evolutionary planets, are both surface and subterranean, with moisture in constant circulation, creating various water routes for circumnavigation, primarily traveled via the atmosphere by spirit beings. (43:1.2) (46:2.2)
+> https://en.wikipedia.org/wiki/Water
 
 water gate | | | | OK
 In Jerusalem, on the last day of the feast, hundreds of priests and Levites officiated in a sacred ceremony involving myrtle, willow, and palm branches, as well as a golden pitcher of symbolic water, entering the temple through the water gate. (162:4.4)
+> https://en.wikipedia.org/wiki/Gates_of_the_Old_City_of_Jerusalem
 
 water hogs | | | | OK
 During the last glaciation in North America, the horse, tapir, llama, and saber-toothed tiger became extinct, being replaced by sloths, armadillos, and water hogs that migrated from South America. (61:7.15)
 
-water of life | | | | OK
+water of life; living water. | | | | OK
 In his discourse on the water of life, Jesus offered to quench the spiritual thirst of those who believed in him, promising the outpouring of the living Spirit of Truth upon all flesh. (162:6)
 The divine spirit is truly the water of life. (153:3.2)
 Why hesitate when you can freely partake of the water of life and enter joyfully into your spiritual inheritance? (165:3.8)
@@ -144,6 +149,7 @@ The presence of the divine Spirit, the water of life, prevents mortal discontent
 
 Waters of Merom | | | PLACE | OK
 Jesus journeyed from Beersheba to Dan, passing through Waters of Merom, in his final tour through Palestine. (134:7.5) (157:3.2) (158:7.1)
+> https://en.wikipedia.org/wiki/Waters_of_Merom
 
 watersnake | | | | OK
 A famous sentence by Jesus was: “If your child asks for a watersnake, would you give it to him just because he foolishly requests it?” (144:2.4)
@@ -175,7 +181,7 @@ The way to eternal life is narrow, yet wide enough for all who sincerely seek en
 Way of Heaven | | | RELIGION | OK
 Confucius taught that morality is based on the Way of Heaven, viewing earthly ways as reflections of the eternal order in the cosmos. (94:6.10)
 
-weak | | unfortunates | | OK
+weak; weaklings; faint | | unfortunates | | OK
 Jesus said about weakness: “Did John or my chosen apostles resemble weaklings enslaved by fear, preaching the gospel to all, rich and poor, Jew and gentile alike?” (143:1.5)
 God gives power to the faint, renewing their strength and allowing them to soar like eagles. (97:7.8)
 The weak have always contended for equal rights, demanding the state to compel the strong to supply their needs and address their deficiencies resulting from indifference and laziness. (70:9.16)
@@ -246,8 +252,9 @@ weapons | | swords | | OK
 The term "seventy-seven" was derived from Lamech's exultation over Tubal-Cain's metal weapons. (159:1.7)
 Old men and cripples were tasked with making tools and weapons before being reassigned to building irrigation works due to age and disease. (69:3.4)
 
-weasels | | | | OK
+weasels; Weasels | | | | OK
 Weasels are part of the thriving group of mammals that evolved from a now-extinct carnivorous creature with characteristics of both cats and seals. (61:2.7) (61:3.13)
+> https://en.wikipedia.org/wiki/Weasel
 
 weaving | | | | OK
 Around 10,000 B.C., highly skilled Andites from a brilliant tribe migrated to Crete, being driven off the mainland by their larger and inferior fellows, they were masters of weaving, among other crafts. (80:7.2)
@@ -256,7 +263,7 @@ Caligastia 100 taught weaving, well digging, spring control, and irrigation to a
 Jesus, an expert weaver by age ten, befriended a potter in Nazareth as a child. (123:5.15)
 Weaving was a cultural achievement practiced in Eden, the second garden where Adam and Eve were invested with kingly robes. (74:2.7) (76:3.8)
 
-weddings | | brides; marriage | | OK
+weddings; marriages; wedding | | brides; marriage | | OK
 The wedding at Cana was a moment of anticipation and belief, leading to an unexpected manifestation of divine power through the creation of wine. (137:3.6) (137:4)
 Marriage among ancients was associated with charms and superstitions, including human sacrifices and magical rites to ensure fecundity and resist ghosts. (83:4.4-9)
 Ancient weddings held under trees were rooted in tree worship and beliefs in supernatural forces. (85:2.3)
@@ -265,10 +272,12 @@ James and Miriam's double wedding brought joy and support to their family, even 
 Jesus attended Martha's wedding in October, then returned for the double wedding of Simon and Jude over two years later. (129:1.6) (134:1.4)
 The origin of wedding presents dates back to the tradition of giving presents to brides in exchange for sex services before marriage. (82:3.10)
 The parable of the wedding feast teaches the importance of accepting the king's invitation to the celebration. (173:5)
+> https://en.wikipedia.org/wiki/Wedding
 
 Wednesday | | | | OK
 It was a Jewish custom to celebrate weddings on Wednesday in Cana, where Jesus led the preliminary wedding procession. (137:4.1)
 Jesus established the mid-week holiday for rest and recreation for his apostles, urging them to take time for reflection and growth. (138:6.2) (141:3.1) (177:0.1)
+> https://en.wikipedia.org/wiki/Wednesday
 
 weeds | | | | OK
 The parable of wheat and weeds illustrates how good and evil coexist in the kingdom of heaven until the final harvest. (151:4.1)
@@ -276,36 +285,43 @@ The parable of wheat and weeds illustrates how good and evil coexist in the king
 week | | | | OK
 The seven-day week was introduced by the Dalamatia teachers, stemming from the fact that seven was one fourth of twenty-eight, a reminder of spiritual significance with no natural origin. (66:7.17)
 The sacred 7-day week's incidental origin was based on Adam and Eve's 6-day inspection of the Garden of Urantia. (74:8.1)
+> https://en.wikipedia.org/wiki/Week
 
-weights | | measures | | OK
+weights; weight | | measures | | OK
 The first weights were grains of wheat and other cereals, while the first medium of exchange was a fish or a goat, later transitioning to the cow as a unit of barter. (69:4.5)
 One Jerusem gradant is equal to 5 Urantia ounces. (46:1.2)
 The weight disparity between electrons and atoms is immense, with an electron weighing over two thousand times less than a proton despite being almost as small. (42:6.7-8)
+> https://en.wikipedia.org/wiki/Weight
 
 welfare (government) | | charity:by government | | OK
 
-well-doing | | | | OK
+well-doing; well doing | | | | OK
 Be not weary in the great work of teaching mortal man he is a son of God, for the invitation-call is always - Come to me all you who labor and are heavy laden. (163:6.7) (174:0.2) (192:2.9)
 
-wells | | | | OK
+wells; well | | | | OK
 Among the first private possessions were water holes and wells, guarded by the fetish practice before laws evolved to protect belongings. (69:9.12)
 Caligastia 100 taught well digging to promote material welfare and advancement in human society. (66:5.2)
 Nalda, woman at the well, received the living water from Jesus and became a daughter of the Most High. (143:5)
+> https://en.wikipedia.org/wiki/Well
 
-werewolves | | | | OK
+werewolves; werewolf | | | | OK
 Ancient beliefs in souls entering animals culminated in the werewolf concept of animal identification, allowing a person to transform into a wolf or other creature for nocturnal exploits. (86:5.12)
 
 West Indies | | | PLACE | OK
 The West Indies is a region where high elevations of land rose, the youngest mountains being in the Rocky Mountain system. (59:1.5) (60:4.3) (61:1.13)
+> https://en.wikipedia.org/wiki/West_Indies
 
 Western civilization | | | | OK
 Christianity suffers as part of the guilt-ridden society of Western civilization, tainted by science without idealism, politics without principles, and wealth without work. (195:10.20)
+> https://en.wikipedia.org/wiki/Western_culture
 
 Western Ghats | | | PLACE | OK
 Dravidian settlements along seacoast of Western Ghats had maritime relationships with Sumeria. (79:3.6)
+> https://en.wikipedia.org/wiki/Western_Ghats
 
 whales | | | | OK
 Placental mammals that returned to sea evolved into modern whales and seals. (49:2.17) (61:2.11) (65:2.12)
+> https://en.wikipedia.org/wiki/Whale
 
 wheat | | | | OK
 Amos said God would sift Israel like wheat, symbolizing the unchanging justice of Yahweh. (97:4.3)
@@ -315,16 +331,18 @@ God, like nature, permits good and evil to coexist until the end of life, just a
 The descendants of Adam traded improved wheat in the highlands of Mesopotamia, where they mingled with the descendants of Adamson. (81:1.7)
 The parable of the grain of wheat teaches that selflessly laying down one's life can lead to a more abundant existence on earth and in heaven. (174:5.8)
 The parable of wheat and weeds teaches that good and evil will coexist until the final judgment. (151:4.1)
+> https://en.wikipedia.org/wiki/Wheat
 
-wheels | | | | OK
+wheels; wheel | | | | OK
 Prince’s staff first taught use of the wheel for the facilitation of traction. (66:5.5)
 By 5000 B.C., vehicles equipped with wheels became a common feature in the spread of cultural civilization through trade channels. (81:3.6)
+> https://en.wikipedia.org/wiki/Wheel
 
 whirlwind | | | | OK
 The Father does not reveal himself in the whirlwind, but speaks within the human heart as a still, small voice, guiding with love and mercy. (148:6.10)
 Though we may weep in the darkness, joy will come in the morning for those who fear and seek the Lord sincerely and truthfully. (131:2.9)
 
-white race | (80:9) | Caucasians; races | RACE | OK
+white race; white races; white man | (80:9) | Caucasians; races | RACE | OK
 composition
 	The "white race" is a mix of Adamic, Nodite, Andonite, red, yellow, and blue strains, with the blue strain being especially prominent. (51:4.3) (64:6.24) (78:4.4) (80:0.2)
 	The amalgamated race, emerging from the blend of the blue men and earlier Andites, is characterized by an olive shade of violet hue, representing the racial "white" of the spheres. (52:3.7) (78:6.2) (80:5.7) (82:6.1)
@@ -354,6 +372,7 @@ history
 	Christianity, today, has become a religion well adapted to the social mores of the white races. (98:7.11)
 the real “white race” in normal planets
 	By the end of the Adamic dispensation, the races are blended to a olive shade of violet, proclaiming "God has made of one blood all nations" and "His Son has made of one color all peoples." (52:3.7)
+> https://en.wikipedia.org/wiki/White_people
 
 white smiths | | black smiths; magic; witchcraft | | OK
 
@@ -361,7 +380,7 @@ whole | | parts and the whole | | OK
 
 wickedness | | iniquity; sin; sinners | | OK
 
-widows | | | | OK
+widows; widow | | | | OK
 Ancients customarily committed suicide on husbands' graves in order to appease ghosts and follow cultural norms of the time. (87:2.7)
 Hypocritical rulers publicly seek recognition, while secretly laying hold to widows' houses for profit. (175:1.9)
 In Rome, Jesus and Ganid comforted a widow and her five children after the accidental death of her husband, helping secure a job for the eldest son to support the family. (132:6.2)
@@ -432,11 +451,12 @@ we are beholden to do (147:3.3)
 we must wait upon (137:4.8)
 whosoever does God’s will shall comprehend validity of spiritual values (101:10.6)
 
-wind | | | | OK
+wind; winds | | | | OK
 The ancients believed winds were produced by birds, fearing and worshiping all winged creatures in accordance with the golden rule. (85:3.4)
 Different regions regard wind as either good or evil, just as diverse cultures worship various natural phenomena. (85:4.2)
 Those born of spirit are like the wind, unseen but their effects are felt. (142:6.5)
 Those who seek the Lord with all their heart shall find salvation in abundance. (131:2.9)
+> https://en.wikipedia.org/wiki/Wind
 
 wine | | | | OK
 The cup of wine, emblem of divine Spirit of Truth, symbolizes the bestowal and ministry of the new dispensation of grace and truth as Jesus blesses it for his apostles. (179:5.1-3)
@@ -449,12 +469,14 @@ The new gospel of the kingdom must not conform to the old, for new wine must be 
 The sacrament of cakes and wine in the Mother of God cult replaced older human sacrifices and has roots in Hebrew Passover ceremonies, influencing the Christian sacrament. (89:9.2)
 The wine served at Passover was considered by Jesus as "the water of life" and "the fruit of the vine." (127:6.7) (179:1.1) (179:2.2)
 Wounds treated with oil and wine were an early medicine for the sick, dating back to ancient civilizations like the Greeks and Sumerians. (90:4.9) (164:1.3)
+> https://en.wikipedia.org/wiki/Wine
 
 wings | | | | OK
 The belief that angels have wings originated from visualizations of transport seraphim in transition for interplanetary transit. (39:5.11-14)
 
 Wisconsin | | | PLACE | OK
 Ridges of ancient, fossil-bearing stone extend from Pennsylvania to Mexico, but none showcase earth's history quite like Wisconsin. (58:7.4) (58:7.7)
+> https://en.wikipedia.org/wiki/Wisconsin
 
 wisdom | (85:7.3) | adjutant mind-spirits:7 – Wisdom | | OK
 In the vast Paradise domain, the masters of philosophy conduct elaborate courses in the 70 divisions of wisdom to co-ordinate experiences and compose knowledge in uniform agreement. (27:6.3)
@@ -506,6 +528,7 @@ Wisdom, Book of; Book of Wisdom | | | | OK
 Amenemope's wisdom was copied into the Book of Proverbs. (95:4.5)
 The concept of El Shaddai, influenced by the Book of Wisdom, was a complex combination of several teachings including Amenemope, Ikhnaton, and Melchizedek, ultimately merging with Yahweh beliefs. (96:1.5)
 Philo possessed a copy of the Book of Wisdom, teaching that riches are fleeting, earthly things are temporary, to turn from human words to divine acts, and that man plans while God decides. (95:4.3)
+> https://en.wikipedia.org/wiki/Instruction_of_Amenemope
 
 Wisdom of Solomon | | | | OK
 The Wisdom of Solomon reflects the influence of both Platonic philosophy and Stoic doctrines among Hellenized Jewish beliefs. (121:6.3)
@@ -517,13 +540,14 @@ Certain wise men on earth were informed of Michael's impending arrival by seraph
 The wise men from Mesopotamia found baby Jesus and left gifts with Mary. (122:8.6)
 The interview with Herod left him unsatisfied, as the wise men could not provide him with the whereabouts of the newborn "king of the Jews." (122:10.1)
 Wise men arrived in Bethlehem guided by a legend of a star that never shone, seeking the "light of life" born in the manger, unaware of the angelic anthems sung at the noontide birth of Jesus. (122:8.5-7)
+> https://en.wikipedia.org/wiki/Biblical_Magi
 
 wish fulfillment | | | | OK
 The apostles, interpreting the Master's words to justify their intense longings, believed Jesus would return to establish the kingdom after a brief visit with his Father. (181:0.1)
 Moral values do not grow out of wish fulfillment. (100:3.2)
 Wisdom comes from facing facts and adjusting them to ideals, not from preferring optimistic illusions to reality. (160:1.7) (160:4.13-14)
 
-witchcraft | | magic | | OK
+witchcraft; Witchcraft | | magic | | OK
 The practice of witchcraft involved magic performed by irregular spirits. (90:2.2-3)
 Ancient people attributed deaths to witchcraft, leading to the execution of accused witches. (90:3.7)
 Shamans, the original aristocracy exempt from tribal restrictions, dressed well and had multiple wives, rose to power by suppressing rivals through accusations of witchcraft, dominating chiefs and kings. (90:2.12)
@@ -553,8 +577,9 @@ Wolvering is a neighboring universe to Nebadon in the superuniverse circuit of O
 
 wolves | (61:3.13) | | | OK
 Wolves were everywhere and hunted by Neanderthalers 800,000 years ago in Europe. (64:4.2)
+> https://en.wikipedia.org/wiki/Wolf
 
-women | | mortals; sexes; wives | | OK
+women; woman; Women; Woman; womankind; female | | mortals; sexes; wives | | OK
 among primitives
 	Abortion among unmarried women became common following the taboo on childbirth, leading to a widespread practice among many races. (68:6.9)
 	Primitive women aged very early due to frequent childbearing, fostering polygyny to alleviate the burden. (83:5.13)
@@ -621,8 +646,9 @@ nature of women
 	Eve's inclination towards immediate results unwittingly led her to jeopardize her planetary trust with Adam by engaging in private visits with a Nodite leader, contrary to the Melchizedeks' warnings. (75:2.4)
 	Specialization of labor based on sex has led to women shouldering routine work while men engage in hunting and fighting, with women historically taking on roles as traders and burden bearers in building and furnishing the home. (69:3.2-3) (69:4.2)
 	Women's role in society has always been centered around home, where they cultivate the soil and nurture their families. (68:2.6)
+> https://en.wikipedia.org/wiki/Woman
 
-women’s corps | (150:1) (159:0.1) | | PERSON | OK
+women’s corps; corps of evangelists; group of twelve women evangelists; the twelve women | (150:1) (159:0.1) | | PERSON | OK
 The women's corps ministered to the sick and taught the gospel during house-to-house visitation in Capernaum while Jesus recovered from rejection in Nazareth. (151:0.2)
 Fifty women were trained for home visitation and ministering work in the women's corps, which included Perpetua, Simon Peter's wife, as its leader alongside Abner, and other prominent women such as the wives of Philip and Matthew and the mother of James and John. (163:7.3)
 Abner in charge of the women’s corps led them in labor and ministry in the cities of Perea, including Perpetua, Simon Peter’s wife, and the wives of Philip and Matthew, and the mother of James and John. (163:7.3)
@@ -643,11 +669,13 @@ Early commerce in wood accelerated urban life and trade in central Asia. (79:1.4
 The ancient practice of rapping on wood perpetuates customs of tree worship. (85:2.5)
 Jesus, a skilled carpenter and boatbuilder from Nazareth, revolutionized boatmaking techniques in Galilee with his innovative designs. (126:1.6) (129:1.2-3)
 Jesus wrote on smooth white boards, reflecting the improved economic condition of his family in Nazareth. (126:1.6) (187:1.2)
+> https://en.wikipedia.org/wiki/Wood
 
-woolly mammoths | | | | OK
+woolly mammoths; mammoth | | | | OK
 Woolly mammoths roamed from Mexico to Canada, while mastodons preferred the sheltered fringes of the forest regions until both were rapidly reduced by the advancing ice age. (61:5.7) (61:7.13-14)
+> https://en.wikipedia.org/wiki/Mammoth
 
-word of God | | | | OK
+word of God; Word of God; Word was God; Word of the Father; word of the Father | | | | OK
 The Word of God, bestowed in flesh, is divine sustenance for the soul. (153:3.2)
 Divine truth can be discerned regardless of its human origin; seek the word of God beyond old records and in the spiritual simplicity of a sincere child. (155:6.12)
 The divine Sons are the "Word of God," while the children of the Spirit are the "Act of God." (10:3.3)
@@ -663,7 +691,7 @@ words | | language | | OK
 workmanship; painstaking workman; common workman | | | | OK
 Jesus, a painstaking workman, wasted little time on trifles, focusing instead on the essentials of his craft. (134:9.7)
 
-works | | action; salvation | | OK
+works; Works | | action; salvation | | OK
 Works of self-righteousness cannot buy the favor of God, for salvation is a free gift based on faith, not outward deeds. (167:5.1)
 Salvation is not achieved by blaming evil influences, but by acknowledging and overcoming one's own natural tendencies. (143:2.5)
 
@@ -671,19 +699,19 @@ world (earth) | | Urantia | | OK
 
 world government | | government:world government | | OK
 
-world of the cross | | | | OK
+world of the cross; World of the Cross | | | | OK
 When the bestowal Sons enter the portals of death, they reappear on the third day, but Urantia, known as 'the world of the cross,' does not always impose a tragic end like that of Jesus of Nazareth. (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
-world of the Father | | Jerusem:transitional culture worlds | PLACE | OK
+world of the Father; World of the Father; Father’s world | | Jerusem:transitional culture worlds | PLACE | OK
 The seven circling worlds around the Father's world serve as detention spheres for interned groups of the Lucifer rebellion in Satania, while Edentia, the constellation capital, lacks similar prison worlds. (45:1.10)
 The silent sphere of transitional culture world #7, Jerusem satellite, is the World of the Father, where loyal Panoptians serve as caretakers and builders under the guidance of Michael. (45:1.9) (53:7.1)
 Ellanora of Panoptia led her people to remain loyal to Michael, serving as caretakers under the Melchizedeks on the Father's sphere and its detention worlds, guided by the personal orders of Michael for their future use on the seventh Jerusem transition world. (53:7.1)
 Salvation was offered to rebels by Michael, but only the angels and lower orders accepted, now laboring with the Panoptians on the Father's world. (53:9.1)
 
-world of the Sons | | Jerusem:transitional culture worlds | PLACE | OK
+world of the Sons; World of the Sons | | Jerusem:transitional culture worlds | PLACE | OK
 The transitional culture world #5 is the headquarters of the divine Sons of all orders, including the creature-trinitized sons, with the surrounding seven worlds devoted to specific groupings of these sons. (45:1.7)
 
-world of the Spirit | | Jerusem:transitional culture worlds | PLACE | OK
+world of the Spirit; World of the Spirit | | Jerusem:transitional culture worlds | PLACE | OK
 Transitional culture world #6 serves as the system rendezvous for high personalities of the Infinite Spirit, with no representation of the Spirit present. (45:1.8)
 
 World War I; World War | | | | OK
@@ -694,7 +722,7 @@ worlds | | architectural spheres; planets; sacred spheres of Paradise; space bod
 worm of the dust | | | | OK
 Man, originally a worm of the dust, becomes divine in destiny when indwelt by the spirit of the Father in heaven. (149:6.9)
 
-worship | (85) (5:3) (27:7) | adjutant mindspirits:6 - Worship; churches; meditation; prayer; spiritual communion; temple | | OK
+worship; Worship | (85) (5:3) (27:7) | adjutant mind-spirits:Spirit #6 – Worship; churches; meditation; prayer; spiritual communion; temple | | OK
 Worship, contemplation of the spiritual, must alternate with service, contact with material reality, for a balanced and fulfilling life. (143:7.3)
 Worship encompasses more than just moral conduct and social service, as the adoration of the abstract beautiful and exaltation of nature are not forms of true worship of God. (5:5.4)
 The quality of spiritual worship defies estimation like spiritual joy, love, and moral values cannot be quantified. (196:3.18)
@@ -808,3 +836,4 @@ Jesus
 
 Wyoming | | | PLACE | OK
 Fresh-water fossils from the Morrison beds of Colorado, Wyoming, and Montana reveal a past era of abundant inland lakes. (60:2.5)
+> https://en.wikipedia.org/wiki/Wyoming

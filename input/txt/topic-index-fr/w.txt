@@ -9,17 +9,19 @@
 < Help: https://urantiapedia.org/en/help/github_topicindex
 <_____________________________________________________________________________
 
-réveille pour les morts | | | | OK
+« veillées » mortuaires | | | | OK
 Les anciennes coutumes du culte des fantômes continuent d’influencer les veillées funèbres avec des rituels bruyants et des potions nauséabondes. (87:6.11)
 
 Pays de Galles | | Iles Britanniques | PLACE | OK
 La division de la souveraineté politique entre les États-nations conduit à la guerre, comme on l’a vu en Angleterre, en Écosse et au Pays de Galles avant qu’ils n’accordent leur souveraineté au Royaume-Uni. (134:6.3)
+> https://fr.wikipedia.org/wiki/Pays_de_Galles
 
 murs | | | | OK
 La protection offerte par les anciens murs des villes contre les bêtes féroces et les attaques surprises a permis le progrès des habitations humaines et la soumission des animaux. (66:5.8)
 
 noyers | | | | OK
 Les noyers font partie des nombreux arbres actuels qui sont apparus pour la première fois au cours d’une période de grande évolution de la vie végétale, deuxième en importance après l’apparition de l’homme lui-même. (60:3.19)
+> https://fr.wikipedia.org/wiki/Noyer_commun
 
 ceintures de coquillages | | | | OK
 L’écriture progressa en passant par les stades « du bâton-message », des cordes à nœuds, des dessins figuratifs, des hiéroglyphes et des wampums (ceintures de coquillages) avant d’atteindre les alphabets symboliques primitifs. (69:4.7)
@@ -27,7 +29,7 @@ L’écriture progressa en passant par les stades « du bâton-message », des c
 baguettes | | | | OK
 La magie pratiquée avec des baguettes était un rituel courant parmi les praticiens dévêtus, les femmes étant plus nombreuses que les hommes dans cet art ancien. (88:6.1)
 
-guerre | | militaire; paix:paix sociale; légitime défense | | OK
+guerre; guerres | | militaire; paix:paix sociale; légitime défense | | OK
 La guerre a toujours été un faiseur de rois, enseignant à l'humanité que ni la paix ni le conflit ne peuvent être gouvernés par un comité. (70:5.5)
 Les avantages des premières guerres
 	Les avantages des premières guerres ont apporté des changements sociaux et de nouvelles idées qui ont accéléré le progrès de la civilisation, malgré le revers temporaire de la société plongée dans la sauvagerie. (70:2)
@@ -79,6 +81,7 @@ les préjudices liés à la guerre
 	La concurrence, remplaçant lentement la guerre, détermine le rôle industriel de l'individu et la survie de l'industrie dans la société actuelle. (71:5.1)
 	La société doit fournir des substituts pacifiques à la poussée périodique vers la libération collective afin que l'homme accepte la paix comme un mode de vie normal. (70:2.20)
 	Les organisations commerciales internationales feront plus pour promouvoir la paix sur Urantia que des visions sentimentales de planification de la paix. (70:3.4)
+> https://fr.wikipedia.org/wiki/Guerre
 
 avertissements | | religion:avertissements | | OK
 Adam et Ève furent avertis des conséquences désastreuses de leur déviation du plan divin bien avant de quitter Jérusalem (75:7.4).
@@ -94,13 +97,13 @@ Jésus a lavé seulement pour la propreté, sans tenir compte des pratiques cér
 nids de guêpes | | | | OK
 Les premiers hommes écrivaient sur des nids de guêpes, sous la direction de Fad, qui formula le premier alphabet et introduisit un système d'écriture. (66:5.9)
 
-maître de maison vigilant | | | | OK
+maître de maison vigilant; nul homme | | | | OK
 La parabole du maître de maison vigilant enseigne la vigilance face au départ soudain et inattendu du Fils de l’homme. (165:5.6)
 
-serviteur vigilant | | | | OK
+serviteur vigilant; serviteurs vigilants | | | | OK
 La parabole du serviteur vigilant nous enseigne à être vigilants et préparés aux épreuves qui nous attendent. (165:5.5)
 
-tour de guet | | | | OK
+tour de garde | | | | OK
 Construire une tour de guet sans calculer le coût pourrait conduire à un travail inachevé et aux moqueries des voisins. (171:2.3)
 
 eau | | eau de la vie | | OK
@@ -125,14 +128,16 @@ Superstitions concernant l’eau
 L'eau dans les cieux
 	Les plantes morontielles ont besoin de l'humidité du système de circulation souterrain des mondes architecturaux, où il n'y a ni rivières impétueuses ni océans expansifs. (46:2.2)
 	Les systèmes d'eau d'Edentia et d'autres sphères architecturales, comme ceux des planètes évolutionnaires, sont à la fois superficiels et souterrains, avec une humidité en circulation constante, créant diverses voies d'eau pour la circumnavigation, principalement empruntées par les êtres spirituels via l'atmosphère. (43:1.2) (46:2.2)
+> https://fr.wikipedia.org/wiki/Eau
 
-porte d'eau | | | | OK
+porte de l’eau | | | | OK
 À Jérusalem, le dernier jour de la fête, des centaines de prêtres et de Lévites officièrent lors d'une cérémonie sacrée impliquant des branches de myrte, de saule et de palmier, ainsi qu'une cruche d'or contenant de l'eau symbolique, entrant dans le temple par la porte des eaux. (162:4.4)
+> https://en.wikipedia.org/wiki/Gates_of_the_Old_City_of_Jerusalem
 
 cochons d'eau | | | | OK
 Au cours de la dernière glaciation en Amérique du Nord, le cheval, le tapir, le lama et le tigre à dents de sabre ont disparu, remplacés par des paresseux, des tatous et des cochons d'eau qui ont migré d'Amérique du Sud. (61:7.15)
 
-eau de la vie | | | | OK
+eau de la vie; eau vivante; eau vive | | | | OK
 Dans son discours sur l’eau de la vie, Jésus a proposé d’étancher la soif spirituelle de ceux qui croyaient en lui, promettant l’effusion de l’Esprit vivant de Vérité sur toute chair. (162:6)
 L’esprit divin est vraiment l’eau de la vie. (153:3.2)
 Pourquoi hésiter quand vous pouvez prendre librement part à l’eau de la vie et entrer joyeusement dans votre héritage spirituel ? (165:3.8)
@@ -142,18 +147,19 @@ Dans le monde à venir, les croyants prendront part à l’eau de la vie, se joi
 L’emblème de la Pâque, l’eau de la vie, fut servie par Jésus à ses compagnons lors de la première fête célébrée sans l’agneau pascal. (127:6.7)
 La présence de l’Esprit divin, l’eau de la vie, prévient le mécontentement mortel et la faim non spiritualisée, jaillissant dans les croyants comme une source de satisfaction menant à la vie éternelle. (34:6.8)
 
-Eaux de Mérom | | | PLACE | OK
+Eaux de Mérom; eaux de Mérom | | | PLACE | OK
 Jésus voyagea de Beersheba à Dan, en passant par les eaux de Mérom, lors de son dernier voyage à travers la Palestine. (134:7.5) (157:3.2) (158:7.1)
+> https://en.wikipedia.org/wiki/Waters_of_Merom
 
-couleuvre d'eau | | | | OK
+serpent d’eau | | | | OK
 Une phrase célèbre de Jésus était : « Si ton enfant te demande un serpent d’eau, le lui donnerais-tu simplement parce qu’il le demande bêtement ? » (144:2.4)
 
 phénomènes ondulatoires | | énergie:types d'énergie | | OK
 
-collage de panneaux de cire | | | | OK
+planchette de cire | | | | OK
 Les dettes enregistrées sur des obligations en cire garantissaient à l'intendant infidèle l'accueil dans les maisons de tous ceux qui faisaient des affaires avec son maître. (169:2.4)
 
-chemin | | | | OK
+chemin; voies; voie | | | | OK
 Ésaïe II a proclamé une haute conception de Dieu surpassant celle de tous les prophètes et enseignants religieux avant lui, déclarant : « Comme les cieux sont plus élevés que la terre, ainsi mes voies sont plus élevées que vos voies. » (97:7.5)
 Le Fils d’effusion établit une voie nouvelle et vivante pour l’élévation spirituelle des races mortelles, incarnant la vérité du Paradis pour la liberté de l’humanité. (52:5.4-5)
 Recommandez votre voie au Seigneur et ayez confiance en Lui, car Il la fera s’accomplir. (131:2.10)
@@ -175,7 +181,7 @@ Le chemin vers la vie éternelle est étroit, mais suffisamment large pour tous 
 Voie du Ciel | | | RELIGION | OK
 Confucius enseignait que la moralité est fondée sur la Voie du Ciel, considérant les voies terrestres comme des reflets de l’ordre éternel du cosmos. (94:6.10)
 
-faible | | malheureux | | OK
+faible; débiles; faibles | | malheureux | | OK
 Jésus a dit à propos de la faiblesse : « Jean ou mes apôtres choisis ressemblaient-ils à des faibles esclaves de la peur, prêchant l’Évangile à tous, riches et pauvres, Juifs et Gentils ? » (143:1.5)
 Dieu donne de la force à ceux qui faiblit, renouvelant leur force et leur permettant de s’élever comme des aigles. (97:7.8)
 Les faibles ont toujours lutté pour l’égalité des droits, exigeant que l’État oblige les forts à subvenir à leurs besoins et à remédier à leurs déficiences résultant de l’indifférence et de la paresse. (70:9.16)
@@ -246,8 +252,9 @@ armes | | épées | | OK
 Le terme « soixante-dix-sept » est dérivé de l’exaltation de Lamech à l’égard des armes en métal de Tubal-Caïn. (159:1.7)
 Les vieillards et les infirmes étaient chargés de fabriquer des outils et des armes avant d’être réaffectés à la construction d’ouvrages d’irrigation en raison de leur âge et de leur maladie. (69:3.4)
 
-belettes | | | | OK
+belettes; Belettes | | | | OK
 Les belettes font partie d'un groupe de mammifères florissant qui a évolué à partir d'une créature carnivore aujourd'hui éteinte, possédant des caractéristiques à la fois semblables à celles des chats et des phoques. (61:2.7) (61:3.13)
+> https://fr.wikipedia.org/wiki/Mustela
 
 tissage | | | | OK
 J.-C., des Andites hautement qualifiés, issus d’une tribu brillante, émigrèrent en Crète, chassés du continent par leurs frères plus grands et inférieurs. Ils étaient maîtres dans le tissage, entre autres métiers. (80:7.2)
@@ -256,7 +263,7 @@ Caligastia 100 enseigna le tissage, le creusement de puits, le contrôle des sou
 Jésus, tisserand expert à l’âge de dix ans, s’est lié d’amitié avec un potier de Nazareth alors qu’il était enfant. (123:5.15)
 Le tissage était une réalisation culturelle pratiquée en Éden, le deuxième jardin où Adam et Ève furent revêtus de robes royales. (74:2.7) (76:3.8)
 
-mariages | | mariées; mariage | | OK
+mariages; cérémonies de mariage; mariage | | mariées; mariage | | OK
 Les noces de Cana étaient un moment d’anticipation et de croyance, qui conduisit à une manifestation inattendue du pouvoir divin par la création du vin. (137:3.6) (137:4)
 Le mariage chez les anciens était associé à des charmes et à des superstitions, notamment à des sacrifices humains et à des rites magiques pour assurer la fécondité et résister aux fantômes. (83:4.4-9)
 Les mariages anciens célébrés sous les arbres étaient enracinés dans le culte des arbres et les croyances en des forces surnaturelles. (85:2.3)
@@ -265,47 +272,56 @@ Le double mariage de Jacques et Miriam apporta joie et soutien à leur famille, 
 Jésus assista au mariage de Marthe en octobre, puis revint pour le double mariage de Simon et Jude plus de deux ans plus tard. (129:1.6) (134:1.4)
 L’origine des cadeaux de mariage remonte à la tradition qui consistait à offrir des cadeaux aux mariées en échange de services sexuels avant le mariage. (82:3.10)
 La parabole du festin de mariage enseigne l’importance d’accepter l’invitation du roi à la célébration. (173:5)
+> https://fr.wikipedia.org/wiki/Noce_(mariage)
 
-mercredi | | | | OK
+mercredi; mercredis | | | | OK
 C'était une coutume juive de célébrer les mariages le mercredi à Cana, où Jésus conduisait le cortège nuptial préliminaire. (137:4.1)
 Jésus a institué ce jour férié en milieu de semaine pour le repos et la détente de ses apôtres, les exhortant à prendre le temps de réfléchir et de grandir. (138:6.2) (141:3.1) (177:0.1)
+> https://fr.wikipedia.org/wiki/Mercredi
 
-mauvaises herbes | | | | OK
+ivraie | | | | OK
 La parabole du blé et de l’ivraie illustre comment le bien et le mal coexistent dans le royaume des cieux jusqu’à la moisson finale. (151:4.1)
 
 semaine | | | | OK
 La semaine de sept jours fut introduite par les enseignants de Dalamatia, en raison du fait que sept était un quart de vingt-huit, un rappel de la signification spirituelle sans origine naturelle. (66:7.17)
 L'origine fortuite de la semaine sacrée de sept jours était basée sur l'inspection de six jours du Jardin d'Urantia par Adam et Ève. (74:8.1)
+> https://fr.wikipedia.org/wiki/Semaine
 
 poids | | mesures | | OK
 Les premiers poids étaient des grains de blé et d’autres céréales, tandis que le premier moyen d’échange était un poisson ou une chèvre, puis la vache comme unité de troc. (69:4.5)
 Un gradant de Jérusem est égal à 5 ​​onces d’Urantia. (46:1.2)
 La disparité de poids entre les électrons et les atomes est immense, un électron pesant plus de deux mille fois moins qu’un proton bien qu’il soit presque aussi petit. (42:6.7-8)
+> https://fr.wikipedia.org/wiki/Poids
 
 bien-être (gouvernement) | | charité:par le gouvernement | | OK
 
-bien faire | | | | OK
+bien faire; bien-agir | | | | OK
 Ne vous lassez pas de la grande œuvre qui consiste à enseigner à l'homme mortel qu'il est un fils de Dieu, car l'appel et l'invitation sont toujours les mêmes : Venez à moi, vous tous qui êtes fatigués et chargés. (163:6.7) (174:0.2) (192:2.9)
 
 puits | | | | OK
 Parmi les premières possessions privées, on trouve les points d’eau et les puits, gardés par la pratique du fétichisme avant que les lois n’évoluent pour protéger les biens. (69:9.12)
 Caligastia 100 enseignait le creusement de puits pour promouvoir le bien-être matériel et l’avancement dans la société humaine. (66:5.2)
 Nalda, la femme au puits, reçut l’eau vive de Jésus et devint une fille du Très-Haut. (143:5)
+> https://fr.wikipedia.org/wiki/Puits_%C3%A0_eau
 
 loups-garous | | | | OK
 Les anciennes croyances selon lesquelles les âmes pénètrent dans les animaux ont culminé avec le concept de loup-garou d'identification animale, permettant à une personne de se transformer en loup ou en une autre créature pour des exploits nocturnes. (86:5.12)
 
 Antilles | | | PLACE | OK
 Les Antilles sont une région où se dressent de hautes altitudes, les montagnes les plus jeunes se trouvant dans le système des montagnes Rocheuses. (59:1.5) (60:4.3) (61:1.13)
+> https://fr.wikipedia.org/wiki/Antilles
 
 civilisation occidentale | | | | OK
 Le christianisme souffre en tant que partie intégrante de la société culpabilisée de la civilisation occidentale, souillée par la science sans idéalisme, la politique sans principes et la richesse sans travail. (195:10.20)
+> https://fr.wikipedia.org/wiki/Société_occidentale
 
 Ghâtes occidentales | | | PLACE | OK
 Les colonies dravidiennes le long de la côte des Ghâts occidentaux avaient des relations maritimes avec la Sumérie. (79:3.6)
+> https://fr.wikipedia.org/wiki/Ghats_occidentaux
 
 baleines | | | | OK
 Les mammifères placentaires qui sont retournés à la mer ont évolué pour devenir les baleines et les phoques modernes. (49:2.17) (61:2.11) (65:2.12)
+> https://fr.wikipedia.org/wiki/Balaenidae
 
 blé | | | | OK
 Amos a dit que Dieu tamiserait Israël comme le blé, symbolisant la justice immuable de Yahweh. (97:4.3)
@@ -315,16 +331,18 @@ Dieu, comme la nature, permet au bien et au mal de coexister jusqu’à la fin d
 Les descendants d’Adam ont échangé du blé amélioré dans les hautes terres de Mésopotamie, où ils se sont mêlés aux descendants d’Adamson. (81:1.7)
 La parabole du grain de blé enseigne que donner sa vie de manière désintéressée peut conduire à une existence plus abondante sur terre et au ciel. (174:5.8)
 La parabole du blé et de l’ivraie enseigne que le bien et le mal coexisteront jusqu’au jugement final. (151:4.1)
+> https://fr.wikipedia.org/wiki/Triticum
 
-roues | | | | OK
+roues; roue | | | | OK
 Le personnel du Prince a été le premier à enseigner l’utilisation de la roue pour faciliter la traction. (66:5.5)
 En 5000 av. J.-C., les véhicules équipés de roues sont devenus un élément courant de la diffusion de la civilisation culturelle par le biais des canaux commerciaux. (81:3.6)
+> https://fr.wikipedia.org/wiki/Roue
 
-tourbillon | | | | OK
+tourbillon; tempête | | | | OK
 Le Père ne se révèle pas dans le tourbillon, mais parle dans le cœur humain comme une voix douce et calme, guidant avec amour et miséricorde. (148:6.10)
 Bien que nous puissions pleurer dans l’obscurité, la joie viendra au matin pour ceux qui craignent et cherchent le Seigneur sincèrement et honnêtement. (131:2.9)
 
-race blanche | (80:9) | Caucasiens; races | RACE | OK
+race blanche; races blanches; race dite blanche; blancs; hommes blancs; blanche | (80:9) | Caucasiens; races | RACE | OK
 composition
 	La « race blanche » est un mélange de souches adamiques, nodites, andonites, rouges, jaunes et bleues, la souche bleue étant particulièrement prédominante. (51:4.3) (64:6.24) (78:4.4) (80:0.2)
 	La race amalgamée, issue du mélange des hommes bleus et des premiers Andites, est caractérisée par une nuance olive de teinte violette, représentant le « blanc » racial des sphères. (52:3.7) (78:6.2) (80:5.7) (82:6.1)
@@ -354,6 +372,7 @@ Histoire
 	Le christianisme, aujourd’hui, est devenu une religion bien adaptée aux mœurs sociales des races blanches. (98:7.11)
 	la véritable « race blanche » sur les planètes normales
 	A la fin de la dispensation adamique, les races sont mélangées en une nuance olive de violet, proclamant que « Dieu a fait d’un seul sang toutes les nations » et que « Son Fils a fait d’une seule couleur tous les peuples. » (52:3.7)
+> https://fr.wikipedia.org/wiki/Blanc_(humain)
 
 forgerons blancs | | forgerons; magie; sorcellerie | | OK
 
@@ -361,7 +380,7 @@ tout | | parties et le tout | | OK
 
 méchanceté | | iniquité; péché; pécheurs | | OK
 
-veuves | | | | OK
+veuves; veuve | | | | OK
 Les anciens se suicidaient sur la tombe de leur mari pour apaiser les fantômes et se conformer aux normes culturelles de l’époque (87:2.7).
 Des dirigeants hypocrites cherchaient publiquement à être reconnus, tout en s’emparant secrètement des maisons des veuves pour en tirer profit (175:1.9).
 A Rome, Jésus et Ganid ont réconforté une veuve et ses cinq enfants après la mort accidentelle de son mari, en aidant à trouver un emploi pour le fils aîné afin de subvenir aux besoins de la famille (132:6.2).
@@ -432,11 +451,12 @@ nous sommes tenus de faire (147:3.3)
 nous devons attendre (137:4.8)
 quiconque fait la volonté de Dieu comprendra la validité des valeurs spirituelles (101:10.6)
 
-vent | | | | OK
+vent; vents | | | | OK
 Les anciens croyaient que les vents étaient produits par les oiseaux, craignant et adorant toutes les créatures ailées conformément à la règle d’or. (85:3.4)
 Différentes régions considèrent le vent comme bon ou mauvais, tout comme diverses cultures adorent divers phénomènes naturels. (85:4.2)
 Ceux qui sont nés de l’esprit sont comme le vent, invisibles mais dont les effets sont ressentis. (142:6.5)
 Ceux qui cherchent le Seigneur de tout leur cœur trouveront le salut en abondance. (131:2.9)
+> https://fr.wikipedia.org/wiki/Vent
 
 vin | | | | OK
 La coupe de vin, emblème de l’Esprit divin de Vérité, symbolise l’effusion et le ministère de la nouvelle dispensation de grâce et de vérité telle que Jésus la bénit pour ses apôtres. (179:5.1-3)
@@ -449,12 +469,14 @@ Le nouvel évangile du royaume ne doit pas se conformer à l'ancien, car le vin 
 Le sacrement des gâteaux et du vin dans le culte de la Mère de Dieu a remplacé les anciens sacrifices humains et a ses racines dans les cérémonies de la Pâque hébraïque, influençant le sacrement chrétien. (89:9.2)
 Le vin servi à la Pâque était considéré par Jésus comme « l'eau de vie » et « le fruit de la vigne ». (127:6.7) (179:1.1) (179:2.2)
 Les blessures traitées avec de l’huile et du vin étaient un des premiers médicaments pour les malades, remontant aux civilisations antiques comme les Grecs et les Sumériens. (90:4.9) (164:1.3)
+> https://fr.wikipedia.org/wiki/Vin
 
 ailes | | | | OK
 La croyance selon laquelle les anges ont des ailes trouve son origine dans des visualisations de séraphins transporteurs en transition pour un transit interplanétaire. (39:5.11-14)
 
 Wisconsin | | | PLACE | OK
 Des crêtes de roches anciennes contenant des fossiles s'étendent de la Pennsylvanie au Mexique, mais aucune ne présente l'histoire de la Terre comme le Wisconsin. (58:7.4) (58:7.7)
+> https://fr.wikipedia.org/wiki/Wisconsin
 
 sagesse | (85:7.3) | esprits mentaux adjuvats:7 – Sagesse | | OK
 Dans le vaste domaine du Paradis, les maîtres de philosophie dirigent des cours élaborés dans les 70 divisions de la sagesse pour coordonner les expériences et composer la connaissance dans un accord uniforme. (27:6.3)
@@ -506,6 +528,7 @@ Sagesse, Livre de; Livre de la Sagesse | | | | OK
 La sagesse d'Amenemope fut transcrite dans le Livre des Proverbes. (95:4.5)
 Le concept d'El Shaddai, influencé par le Livre de la Sagesse, était une combinaison complexe de plusieurs enseignements, dont ceux d'Amenemope, d'Ikhnaton et de Melchisédek, qui fusionnaient finalement avec les croyances de Yahweh. (96:1.5)
 Philon possédait un exemplaire du Livre de la Sagesse, qui enseignait que les richesses sont éphémères, que les choses terrestres sont temporaires, qu'il faut se détourner des paroles humaines pour se tourner vers les actes divins et que l'homme planifie tandis que Dieu décide. (95:4.3)
+> https://fr.wikipedia.org/wiki/Enseignement_d%27Amenemopet
 
 Sagesse de Salomon | | | | OK
 La Sagesse de Salomon reflète l'influence de la philosophie platonicienne et des doctrines stoïques sur les croyances juives hellénisées. (121:6.3)
@@ -517,8 +540,9 @@ Certains sages sur terre furent informés de l’arrivée imminente de Michel pa
 Les sages de Mésopotamie trouvèrent l’enfant Jésus et laissèrent des cadeaux à Marie. (122:8.6)
 L’entrevue avec Hérode le laissa insatisfait, car les sages ne purent lui fournir l’endroit où se trouvait le « roi des Juifs » nouveau-né. (122:10.1)
 Les sages arrivèrent à Bethléem guidés par une légende d’une étoile qui n’avait jamais brillé, à la recherche de la « lumière de vie » née dans la crèche, sans se rendre compte des hymnes angéliques chantés à la naissance de Jésus à midi. (122:8.5-7)
+> https://fr.wikipedia.org/wiki/Rois_mages
 
-réalisation d'un souhait | | | | OK
+voir leurs souhaits réalisés; désirs sont exaucés | | | | OK
 Les apôtres, interprétant les paroles du Maître pour justifier leurs désirs intenses, croyaient que Jésus reviendrait pour établir le royaume après une brève visite à son Père. (181:0.1)
 Les valeurs morales ne naissent pas de la réalisation de souhaits. (100:3.2)
 La sagesse vient de la confrontation des faits et de leur adaptation aux idéaux, et non de la préférence accordée aux illusions optimistes à la réalité. (160:1.7) (160:4.13-14)
@@ -553,8 +577,9 @@ Wolvering est un univers voisin de Nébadon dans le circuit du superunivers d'Or
 
 loups | (61:3.13) | | | OK
 Les loups étaient partout et étaient chassés par les Néandertaliens il y a 800 000 ans en Europe. (64:4.2)
+> https://fr.wikipedia.org/wiki/Canis_lupus
 
-femmes | | mortels; sexes; épouses | | OK
+femmes; femme; femelles | | mortels; sexes; épouses | | OK
 Chez les primitifs
 	L'avortement chez les femmes célibataires devint courant suite au tabou sur la maternité, conduisant à une pratique répandue chez de nombreuses races. (68:6.9)
 	Les femmes primitives vieillissaient très tôt en raison de leurs grossesses fréquentes, favorisant la polygamie pour alléger le fardeau. (83:5.13)
@@ -621,8 +646,9 @@ nature des femmes
 	L'inclination d'Ève vers les résultats immédiats l'a involontairement conduite à compromettre sa confiance planétaire avec Adam en s'engageant dans des visites privées avec un chef nodite, contrairement aux avertissements des Melchizédeks. (75:2.4)
 	La spécialisation du travail en fonction du sexe a conduit les femmes à assumer les tâches routinières tandis que les hommes s'adonnent à la chasse et aux combats, les femmes assumant historiquement des rôles de commerçantes et de porteuses de fardeaux dans la construction et l'ameublement de la maison. (69:3.2-3) (69:4.2)
 	Le rôle des femmes dans la société a toujours été centré sur le foyer, où elles cultivent la terre et nourrissent leur famille. (68:2.6)
+> https://fr.wikipedia.org/wiki/Femme
 
-corps de femmes | (150:1) (159:0.1) | | PERSON | OK
+corps évangélique féminin; corps d’évangélistes; femmes du corps évangélique; groupe féminin; groupe de ces douze femmes évangélistes; les douze femmes | (150:1) (159:0.1) | | PERSON | OK
 Le corps des femmes s’occupa des malades et enseigna l’Évangile lors de visites de maison en maison à Capernaüm pendant que Jésus se remettait de son rejet à Nazareth. (151:0.2)
 Cinquante femmes furent formées pour les visites à domicile et le travail de ministère dans le corps des femmes, qui comprenait Perpétua, la femme de Simon Pierre, comme chef aux côtés d’Abner, et d’autres femmes éminentes telles que les femmes de Philippe et de Matthieu et la mère de Jacques et de Jean. (163:7.3)
 Abner, responsable du corps des femmes, les dirigea dans le travail et le ministère dans les villes de Pérée, y compris Perpétua, la femme de Simon Pierre, et les femmes de Philippe et de Matthieu, et la mère de Jacques et de Jean. (163:7.3)
@@ -643,11 +669,13 @@ Les premiers échanges commerciaux du bois ont accéléré la vie urbaine et le 
 L’ancienne pratique consistant à frapper sur le bois perpétue les coutumes du culte des arbres. (85:2.5)
 Jésus, un charpentier et constructeur de bateaux qualifié de Nazareth, a révolutionné les techniques de construction de bateaux en Galilée avec ses conceptions innovantes. (126:1.6) (129:1.2-3)
 Jésus a écrit sur des tableaux blancs et lisses, reflétant la condition économique améliorée de sa famille à Nazareth. (126:1.6) (187:1.2)
+> https://fr.wikipedia.org/wiki/Bois
 
-mammouths laineux | | | | OK
+mammouths laineux; mammouth; mammouths | | | | OK
 Les mammouths laineux parcouraient le territoire du Mexique au Canada, tandis que les mastodontes préféraient les lisières abritées des régions forestières jusqu'à ce que ces deux groupes soient rapidement réduits par l'avancée de la période glaciaire. (61:5.7) (61:7.13-14)
+> https://fr.wikipedia.org/wiki/Mammouth
 
-parole de Dieu | | | | OK
+parole de Dieu; Parole de Dieu; Verbe de Dieu; Verbe était Dieu; Verbe du Père; Verbe éternel de Dieu; parole du père | | | | OK
 La Parole de Dieu, accordée dans la chair, est la nourriture divine de l’âme. (153:3.2)
 La vérité divine peut être discernée quelle que soit son origine humaine ; cherchez la parole de Dieu au-delà des vieux documents et dans la simplicité spirituelle d’un enfant sincère. (155:6.12)
 Les Fils divins sont la « Parole de Dieu », tandis que les enfants de l’Esprit sont « l’Acte de Dieu ». (10:3.3)
@@ -671,7 +699,7 @@ monde (terre) | | Urantia | | OK
 
 gouvernement mondial | | gouvernement:gouvernement mondial | | OK
 
-monde de la croix | | | | OK
+monde de la croix; Monde de la Croix | | | | OK
 Lorsque les Fils d'effusion franchissent les portes de la mort, ils réapparaissent le troisième jour, mais Urantia, connu comme « le monde de la croix », n'impose pas toujours une fin tragique comme celle de Jésus de Nazareth. (20:6.6) (57:8.6) (119:8.8) (188:4.1)
 
 monde du Père | | Jérusalem:mondes culturels de transition | PLACE | OK
@@ -691,10 +719,10 @@ Le rétablissement malheureux de groupes politiques submergés pendant la Premi�
 
 mondes | | sphères architecturales; planètes; sphères sacrées du Paradis; corps spatiaux | | OK
 
-ver de poussière | | | | OK
-L'homme, à l'origine un ver de poussière, devient divin dans sa destinée lorsqu'il est habité par l'esprit du Père qui est dans les cieux. (149:6.9)
+ver de terre | | | | OK
+L'homme, à l'origine un ver de terre, devient divin dans sa destinée lorsqu'il est habité par l'esprit du Père qui est dans les cieux. (149:6.9)
 
-culte | (85) (5:3) (27:7) | esprits mentaux adjuvats:Esprit #6 – Adoration; églises; méditation; prière; communion spirituelle; temple | | OK
+adoration; culte | (85) (5:3) (27:7) | esprits mentaux adjuvats:Esprit #6 – Adoration; églises; méditation; prière; communion spirituelle; temple | | OK
 L’adoration, la contemplation du spirituel, doit alterner avec le service, le contact avec la réalité matérielle, pour une vie équilibrée et épanouissante. (143:7.3)
 L’adoration englobe plus que la simple conduite morale et le service social, car l’adoration de la beauté abstraite et l’exaltation de la nature ne sont pas des formes de véritable adoration de Dieu. (5:5.4)
 La qualité de l’adoration spirituelle défie toute estimation, comme la joie spirituelle, l’amour et les valeurs morales ne peuvent être quantifiés. (196:3.18)
@@ -772,15 +800,15 @@ au paradis
 	Ceux qui n’ont ni nom ni numéro ont une capacité supérieure en matière d’adoration. (22:4.1)
 	Dans le magnifique jardin, les Très Hauts conduisent tout Edentia dans une contemplation respectueuse de Dieu le Suprême dans leur sanctuaire. (43:6.3)
 
-bâtisseurs de culte | | | ORDER | OK
-Les bâtisseurs de culte sont des bâtisseurs divins et des artisans célestes, construisant des temples de culte exquis dans les royaumes spirituels et morontiels. (44:3.5)
+bâtisseurs de temples d’adoration | | | ORDER | OK
+Les bâtisseurs de temples d’adoration sont des bâtisseurs divins et des artisans célestes, construisant des temples de culte exquis dans les royaumes spirituels et morontiels. (44:3.5)
 
 blessures | | | | OK
 Le traitement des plaies avec de l’huile et du vin était une pratique médicale ancienne et efficace, perdue lorsque les secrets des remèdes de guérison sont devenus connus. (90:4.9) (164:1.3)
 
 rogne | | colère | | OK
 
-écriture | | communication; langue; bâton de message; impression; archives; signaux de fumée; ceintures wampum | | OK
+écriture; écrire | | communication; langue; bâton de message; l’imprimerie; archives; signaux de fumée; ceintures de coquillages | | OK
 alphabets
 	Les langues universelles d'Uversa et de Nébadon sont plus complètes et élaborées, avec plus d'un milliard de caractères dans les symboles conceptuels et quarante-huit symboles dans l'alphabet de base. (44:4.4)
 	Les symboles conceptuels d'Uversa, avec 70 symboles alphabétiques, contiennent plus d'un milliard de caractères, surpassant la compréhension mortelle dans la traduction de la pensée en langage. (44:4.4)
@@ -808,3 +836,4 @@ Jésus
 
 Wyoming | | | PLACE | OK
 Les fossiles d’eau douce des gisements Morrison du Colorado, du Wyoming et du Montana révèlent une époque révolue de lacs intérieurs abondants. (60:2.5)
+> https://fr.wikipedia.org/wiki/Wyoming
