@@ -218,7 +218,7 @@ End of the Dhamma-<i>k</i>akka-ppavattana-sutta.
 [^12]: It is the perception of this fact which is the Dhamma<i>k</i>akkhu, the Eye of Truth, or the Eye for Qualities as it might be rendered with reference to the meaning of Dhamma in the words that follow.
   They are in Pâli yam ki<i>ñk</i>i samudaya-dhamma<i>m</i>, sabba<i>m</i> ta<i>m</i> nirodha-dhamma<i>m</i>, literally, ‘whatever has the quality of beginning, that has the quality of ceasing.’
 
-[^13]: Their names are given in the Mahâ Samaya Sutta in Grimblot‘s ’Sept Suttas Palis.’
+[^13]: Their names are given in the Mahâ Samaya Sutta in Grimblot's ’Sept Suttas Palis.’
 
 [^14]: The text repeats § 26 for each of the heavens; and the gods thus enumerated are as follows, beginning with Bhummâ Devâ in § 25:
   1. Bhummâ Devâ.  

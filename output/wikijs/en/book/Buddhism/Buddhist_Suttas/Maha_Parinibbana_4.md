@@ -111,7 +111,7 @@ And the Blessed One signified, by silence, his consent.
 
 16\. Then seeing that the Blessed One had consented, <i>K</i>unda, the worker in metals, rose from his seat and bowed down before the Blessed One, and keeping him on his right hand as he past him, departed thence.
 
-17\. Now at the end of the night, <i>K</i>unda, the worker in metals, made ready in his dwelling-place sweet rice and cakes, and a quantity of dried boar‘s flesh. And he announced the hour to the Blessed One, saying, ’The hour, Lord, has come, and the meal is ready.’
+17\. Now at the end of the night, <i>K</i>unda, the worker in metals, made ready in his dwelling-place sweet rice and cakes, and a quantity of dried boar's flesh. And he announced the hour to the Blessed One, saying, ’The hour, Lord, has come, and the meal is ready.’
 
 18\. And the Blessed One robed himself early in the morning, and taking his bowl, went with the brethren to the dwelling-place of <i>K</i>unda, the worker in metals. When he had come thither he seated himself on the seat prepared for him. And when he was seated he addressed <i>K</i>unda, the worker in metals, and said: ‘As to the dried boar’s flesh you have made ready, serve me with it, <i>K</i>unda; and as to the other food, the sweet rice and cakes, serve the brethren with it.’
 
@@ -119,7 +119,7 @@ And the Blessed One signified, by silence, his consent.
 
 ‘Even so, Lord!’ said <i>K</i>unda, the worker in metals, in assent, to the Blessed One. And the dried boar's flesh he had made ready he served to the Blessed One; whilst the other food, the sweet rice and cakes, he served to the members of the order.
 
-19\. Now the Blessed One addressed Kunda, the worker in metals, and said: ‘Whatever dried boar’s flesh, <i>K</i>unda, is left over to thee, that bury in a hole. I see no one, <i>K</i>unda, on earth nor in Mâra‘s heaven, nor in Brahma’s heaven, no one among Sama<i>n</i>as and Brâhma<i>n</i>as, among gods and men, by whom, when he has eaten it, that food can be assimilated, save by the Tathâgata.’
+19\. Now the Blessed One addressed Kunda, the worker in metals, and said: ‘Whatever dried boar’s flesh, <i>K</i>unda, is left over to thee, that bury in a hole. I see no one, <i>K</i>unda, on earth nor in Mâra's heaven, nor in Brahma’s heaven, no one among Sama<i>n</i>as and Brâhma<i>n</i>as, among gods and men, by whom, when he has eaten it, that food can be assimilated, save by the Tathâgata.’
 
 ‘Even so, Lord!’ said <i>K</i>unda, the worker in metals, in assent, to the Blessed One. And whatever dried boar's flesh remained over, that he buried in a hole.
 
@@ -367,13 +367,13 @@ End of the Fourth Portion for Recitation, containing the Episode of Â<i>l</i>â
 
 [^8]: A<i>kkh</i>odikâ ti pasannodikâ: sâtodikâ ti madhurodhikâ sîtitodika ti tanu-sîtala-salilâ: setakâ ti nikkaddamâ: supatitthâ ti sundara-titthâ. (S.V. <i>thri</i>.) Comp. IV, 56.
 
-[^9]: The Pukkusa caste was one of the lower castes of Sûdras. Compare Assâlâyana Sutta (Pischel), pp. 13, 35; Burnouf‘s ’Introduction,' &c., pp. 144, 208; Lalita Vistara XXI, 17. But Buddhaghosa says Pukkusa must here be simply a name, as the Mallas were of the Khattiya caste. He adds that this Pukkusa was the owner of the five hundred carts that had just passed by; and that Â<i>l</i>âra Kâlâma was called Â<i>l</i>âra because he was Dîgha-pingalo, Kâlâma being his family name.
+[^9]: The Pukkusa caste was one of the lower castes of Sûdras. Compare Assâlâyana Sutta (Pischel), pp. 13, 35; Burnouf's ’Introduction,' &c., pp. 144, 208; Lalita Vistara XXI, 17. But Buddhaghosa says Pukkusa must here be simply a name, as the Mallas were of the Khattiya caste. He adds that this Pukkusa was the owner of the five hundred carts that had just passed by; and that Â<i>l</i>âra Kâlâma was called Â<i>l</i>âra because he was Dîgha-pingalo, Kâlâma being his family name.
 
 [^10]: Bhusâgâre ti kha<i>l</i>u-sâlâya<i>m</i>. (S. V. <i>thri</i>.)
 
 [^11]: This is a stock phrase constituting the final answer of a hitherto unconverted man at the end of one of those argumentative dialogues by which Gotama overcame opposition or expounded the truth. After a discussion of exalted themes it fits in very appropriately; here and elsewhere it is incongruous and strained. See below, V, 50.
 
-[^12]: ‘The commentator says, Bhagavato kâyam upanâmitan ti nivâsana-pârûpana-vasena alliyâpita<i>m</i>: Bhagavâ pi tato eka<i>m</i> nivâsesi eka<i>m</i> pârûpi. Vîta<i>kk</i>ika<i>m</i> (’MS. <i>kkh</i>) viyâ ti yathâ (MS. tathâ) vita<i>kk</i>iko angâro antanten‘ eva gotîti bahi pan’ assa pabhâ n‘ atthi, evam bahi pa<i>kkh</i>inna- (MS. pa<i>kkh</i>i<i>nn</i>a-) pabhâ hutvâ khâyatî ti. My MS. of the text reads vitâsika<i>m</i> (as did Yâtrâmulle’s MS. here, and one MS. of Fausböll‘s at <i>G</i>âtaka I, 153, 154). There the word is used of embers in which food is cooked, without flame,’ = glowing, smoldering.‘ Vita<i>kkh</i>ikâ, ’an eruption on the skin,‘ belongs to the root <i>k</i>ar<i>k</i>.
+[^12]: ‘The commentator says, Bhagavato kâyam upanâmitan ti nivâsana-pârûpana-vasena alliyâpita<i>m</i>: Bhagavâ pi tato eka<i>m</i> nivâsesi eka<i>m</i> pârûpi. Vîta<i>kk</i>ika<i>m</i> (’MS. <i>kkh</i>) viyâ ti yathâ (MS. tathâ) vita<i>kk</i>iko angâro antanten‘ eva gotîti bahi pan’ assa pabhâ n‘ atthi, evam bahi pa<i>kkh</i>inna- (MS. pa<i>kkh</i>i<i>nn</i>a-) pabhâ hutvâ khâyatî ti. My MS. of the text reads vitâsika<i>m</i> (as did Yâtrâmulle’s MS. here, and one MS. of Fausböll's at <i>G</i>âtaka I, 153, 154). There the word is used of embers in which food is cooked, without flame,’ = glowing, smoldering.‘ Vita<i>kkh</i>ikâ, ’an eruption on the skin,‘ belongs to the root <i>k</i>ar<i>k</i>.
 
 [^13]: We have here the commencement of the legend which afterwards grew into an account of an actual ‘transfiguration’ of the Buddha. It is very curious that it should have taken place soon after the Buddha had announced to Ânanda his approaching death, and that in the Buddhist Sutta it should be connected so closely with that event; for a similar remark applies also to the Transfiguration mentioned in the Gospels. The Mâlânkâra-vatthu, for instance, says, 'His body appeared shining like a flame. Ânanda was exceedingly surprised. Nothing of this kind had, as yet, happened. “Your exterior appearance,” said he to Budha, “is all at once white, shining, and beautiful above all expression.” “What you say, O Ânanda, is perfectly true. There are two occasions \[&c., much as above\]. The shining light emanating from my body is a certain forerunner of this great event \[his Parinibbâna\].”
 
