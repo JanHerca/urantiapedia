@@ -146,18 +146,30 @@ Search existing old UB refs ||
 Search existing new UB refs ||
 `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?` | &nbsp;
 Books ||
-`p\. ([0-9ivx]+)` | `<span id="p$1">[<sup><small>p. $1</small></sup>]</span>`
-`^(\d+) ` | `<span id="v$1"><sup><small>$1</small></sup></span>  `
-`\n\n<span id="p([0-9ivx]+)">\[<sup><small>p\. ([0-9ivx]+)</small></sup>\]</span>\n\n([a-z0-9])` | ` <span id="p$1">[<sup><small>p. $2</small></sup>]</span> $3`
-`([a-z,;0-9])\n\n<span id=@(.+)@>\[<sup><small>p\. (.+)</small></sup>\]</span>\n\n([a-z0-9])` | `$1 <span id=@$2@>[<sup><small>$3</small></sup>]</span> $4`
-` ` | ` `
-`\[([^\]]+)\]\(isl\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
-`\[\d+\]\(#fn_(\d+)\)` | `[^$1]`
+`p\. ([0-9ivx]+)` | `<span id=@p$1@>[<sup><small>p. $1</small></sup>]</span>`
+`\n\n<span id=@p([0-9ivx]+)@>\[<sup><small>p\. ([0-9ivx]+)</small></sup>\]</span>\n\n\\\[paragraph continues\\\]` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span>`
+`\n\n<span id=@p([0-9ivx]+)@>\[<sup><small>p\. ([0-9ivx]+)</small></sup>\]</span>\n\n([a-z0-9])` | ` <span id=@p$1@>[<sup><small>p. $2</small></sup>]</span> $3`
+`// File: tests\\\\book.+\n` | ``
+`\[Sacred Texts\]\(\.\./\.\..+\n` | ``
+`\[Buy this Book at Amazon.+\n` | ``
+`\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
+`'([^']*)'` | `‘$1’` (manually to deal with apostrophe)
+`"([^"]*)"` | `“$1”`
+`@` | `"`
+`\[[^\]]+\]\(#fn_(\d+)\)` | `[^$1]`
+`\[([^\]]+)\]\(\w+\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
+`### Footnotes` | `## Footnotes`
 `^"` | `“`
 `"$` | `”`
 `^'` | `‘`
 `'$` | `’`
 `--` | `—`
+`^ +` | `&nbsp;&nbsp;&nbsp;&nbsp;`
+
+`^(\d+) ` | `<span id="v$1"><sup><small>$1</small></sup></span>  `
+`([a-z,;0-9])\n\n<span id=@(.+)@>\[<sup><small>p\. (.+)</small></sup>\]</span>\n\n([a-z0-9])` | `$1 <span id=@$2@>[<sup><small>$3</small></sup>]</span> $4`
+` ` | ` `
+`\[([^\]]+)\]\(isl\d+\.htm#fr_(\d+)\)` | `[^$2]: $1`
 
 ## VS Code tricks
 

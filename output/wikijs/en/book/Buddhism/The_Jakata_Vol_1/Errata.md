@@ -33,6 +33,9 @@ dateCreated: 2025-2-5T20:16:44Z
 </figure>
 
 
+P. 30, l. 36, _read_ ‘He who has trodden...’
+
+P. 113, last l., _read_ Cf. Vol. n. p. 362 (Pāli text).
 
 <figure class="table chapter-navigator">
   <table>
