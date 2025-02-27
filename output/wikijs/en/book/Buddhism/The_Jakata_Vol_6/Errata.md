@@ -34,6 +34,38 @@ dateCreated: 2025-2-5T20:17:13Z
 
 
 
+
+
+
+<span id="pvi">[<sup><small>p. vi</small></sup>]</span>
+
+### ERRATA.
+
+* p. 1, l.4. _Read_ Jetavana.
+
+* p. 13, l. 5 from bottom. _Read_ transcendent.
+
+* p. 75, l. 2. _Read_ Selā.
+
+* p.75, l. 27. _Read_ Canda's.
+
+* p. 83, l. 25. _Add note:_ Compare the trick of Brer Rabbit and the briar patch.
+
+* p. 126, l. 12. _Read_ Sunakkhatta.
+
+* p. 131, l. 23. _Read_ Kimpurusa.
+
+* p. 160, last line. _Read_ maṁsaṁ.
+
+* p. 164, l. 12. _Read_ Goḷakāḷa.
+
+* p. 167, footnotes 1,2. _Read_ Sinhalese _for_ Burmese. (So also pp. 1811, 2131, 2181, 2191, 2311,4,6, 236, 2431, 2492, 2511, 2803 2832, 2852, 2872.)
+
+#### VOL. IV.
+
+\[p. 304, l. 12 f. _Omit_ those _and read:_ in the company of the K. Birth, of the M. Birth, of the C. Birth, of the A. Birth, and of the H. Birth: these were called the late corners. _Compare_ vi p. 30 (p.17 _of the translation_).\]
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -57,3 +89,4 @@ dateCreated: 2025-2-5T20:17:13Z
     </tbody>
   </table>
 </figure>
+

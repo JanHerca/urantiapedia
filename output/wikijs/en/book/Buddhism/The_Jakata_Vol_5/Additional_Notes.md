@@ -34,6 +34,25 @@ dateCreated: 2025-2-5T20:17:7Z
 
 
 
+
+
+<span id="pxiv">[<sup><small>p. xiv</small></sup>]</span>
+
+### ADDITIONAL NOTES AND CORRECTIONS.
+
+No. 512. Jātaka-Mālā XVII. Kumbha-Jātaka.
+
+No. 513. Cariyā-Piṭaka II. 9, Jayaddisa.
+
+No. 516. Jātaka-Mālā XXIV. Mahākapi-Jātaka.
+
+No. 524. Cariyā-Piṭaka II. 10, Saṅkhapāla.
+
+No. 529. Cariyā-Piṭaka III. 5, Soṇapaṇḍita.
+
+Page 25, line 34, for _firewood_ read _fire-sticks_ or, _fire-drills._
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -57,3 +76,4 @@ dateCreated: 2025-2-5T20:17:7Z
     </tbody>
   </table>
 </figure>
+
