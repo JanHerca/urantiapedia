@@ -153,7 +153,10 @@ Books ||
 `\[Sacred Texts\]\(\.\./\.\..+\n` | ``
 `\[Buy this Book at Amazon.+\n` | ``
 `\[!\[\]\(\.\./\.\./cdshop.+\n` | ``
-`(?<!\w)'([^']*)'(?!\w)` | `‘$1’` (manually to deal with apostrophe)
+`\* \* \*\n` | ``
+`\[!\[\]\(img/tease\.jpg.+\n` | ``
+`.+ at sacred-texts\.com$\n` | ``
+`(?<!\w)'([^']*)'(?!\w)` | `‘$1’`
 `"([^"]*)"` | `“$1”`
 `@` | `"`
 `\[[^\]]+\]\(#fn_(\d+)\)` | `[^$1]`
