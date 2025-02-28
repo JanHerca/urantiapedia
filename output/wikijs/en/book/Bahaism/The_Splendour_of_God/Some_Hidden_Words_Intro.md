@@ -32,7 +32,15 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
+<span id="p91">[<sup><small>p. 91</small></sup>]</span>
 
+[1](Some_Hidden_Words_1#fn7)
+
+He is the Glory of the Most Glorious!
+
+This is that which descended from the Source of Majesty, through the tongue of Power and Strength, upon the prophets of the past.
+
+We have taken its essence and clothed it with the garment of brevity, as a favour to the beloved; that they may fulfil the Covenant of God; that they may perform in themselves that which He has entrusted to them, and attain the victory by virtue of devotion in the land of the Spirit.
 
 <figure class="table chapter-navigator">
   <table>

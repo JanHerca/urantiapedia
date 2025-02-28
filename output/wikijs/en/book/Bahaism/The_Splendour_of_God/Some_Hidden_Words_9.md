@@ -32,7 +32,15 @@ dateCreated: 2025-2-4T22:17:56Z
   </table>
 </figure>
 
+The company of the wicked increaseth sorrow; and the fellowship of the righteous removeth the rust of the mind.
 
+He who desires to associate with God, let him associate with His Beloved; and he who desires to hear the Word of God, let him hear the words of His chosen ones.
+
+Walk not with the wicked and confederate not with him; for the companionship of the wicked changeth the Light of Life into fire of remorse.
+
+If thou seekest the attainment of the Holy Spirit, be a companion of the noble; for the righteous have quaffed from the Chalice of Immortality passed by the hand of the Cup-Bearer <span id="p107">[<sup><small>p. 107</small></sup>]</span> of Eternity, and they quicken and illumine the hearts of the dead as doth the true morn.
+
+O Friend! In the garden of the heart plant only flowers of Love. Esteem the friendship of the just; but withdraw both mind and hand from the company of the wicked.
 
 <figure class="table chapter-navigator">
   <table>

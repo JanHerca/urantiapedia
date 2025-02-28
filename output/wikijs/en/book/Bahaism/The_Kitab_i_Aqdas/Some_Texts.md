@@ -32,7 +32,7 @@ dateCreated: 2025-2-4T22:15:57Z
   </table>
 </figure>
 
-
+A number of Tablets revealed by Baha’u’llah after the Kitab-i-Aqdas contain passages supplementary to the provisions of the Most Holy Book. The most noteworthy of these have been published in Tablets of Baha’u’llah revealed after the Kitab-i-Aqdas. Included in this section is an extract from the Tablet of Ishraqat. The text of the three Obligatory Prayers referred to in Questions and Answers and the Prayer for the Dead mentioned in the Text are, likewise, reprinted here.
 
 <figure class="table chapter-navigator">
   <table>
