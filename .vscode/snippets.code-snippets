@@ -93,6 +93,12 @@
 		"body": "<ins>${1:text}</ins>",
 		"description": "Insert HTML Ins"
 	},
+	"HTML Small": {
+		"scope": "markdown",
+		"prefix": "sss",
+		"body": "<small>${1:text}</small>",
+		"description": "Insert HTML small"
+	},
 	"HTML Clear": {
 		"scope": "markdown",
 		"prefix": "clr",

@@ -32,7 +32,13 @@ dateCreated: 2025-1-16T20:40:26Z
   </table>
 </figure>
 
+<span id="p105">[<sup><small>p. 105</small></sup>]</span>
 
+<small>A note by a later hand, copied from another scripture.</small>
+
+**(125)**(Now these are the names which I will give from the Boundless onward. Write them with a sign, that the Sons of God may be revealed from here on.
+
+This is the name of the Immortal: _aaa_, _ōōō_; and this is the name of the Voice, for the sake of which the Perfect Man hath set himself in motion: _iii_. And these are the interpretations of the names of these mysteries: the first \[name\], which is _aaa_, its interpretation is _fff_; the second, which is _mmm_ or ōōō, its interpretation is _aaa_; the third, which is _ps ps ps_, its interpretation is _ooo_; the fourth, which is _fff_, its interpretation is _nnn_; the fifth, which is _ddd_, its interpretation is _aaa_. He on the throne is _aaa_. This is the interpretation of the second: _aaaa_, _aaaa_, _aaaa_; this is the interpretation of the whole name.)
 
 <figure class="table chapter-navigator">
   <table>
