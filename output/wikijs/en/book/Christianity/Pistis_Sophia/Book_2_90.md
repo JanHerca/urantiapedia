@@ -171,23 +171,23 @@ And Jesus answered and said unto Mary: "What is there in this world which is lik
 
 <small>Of the glory of the Fate.</small>
 
-"And if I lead you into the region of the rulers of the Fate, then will ye see the glory in which they are, and because of their overtowering great glory ye will deem this world before you as darkness of darknesses, and **(185)** ye will look at the whole world of men, how it will have the condition of a speck of dust for you because of the great distance it is far distant from it, and because of the great condition it is considerably greater than it.
+“And if I lead you into the region of the rulers of the Fate, then will ye see the glory in which they are, and because of their overtowering great glory ye will deem this world before you as darkness of darknesses, and **(185)** ye will look at the whole world of men, how it will have the condition of a speck of dust for you because of the great distance it is far distant from it, and because of the great condition it is considerably greater than it.
 
 <small>Of the glory of the twelve æons.</small>
 
-"And if I lead you into the twelve æons, then will ye see the glory in which they are; and because of the great glory the region of the rulers of the Fate will count for you as the darkness <span id="p157">[<sup><small>p. 157</small></sup>]</span> of darknesses, and it will have for you the condition of a speck of dust because of the great distance it is far distant from it and because of the great condition it is considerably greater than them, as I have already said unto you at another time.
+“And if I lead you into the twelve æons, then will ye see the glory in which they are; and because of the great glory the region of the rulers of the Fate will count for you as the darkness <span id="p157">[<sup><small>p. 157</small></sup>]</span> of darknesses, and it will have for you the condition of a speck of dust because of the great distance it is far distant from it and because of the great condition it is considerably greater than them, as I have already said unto you at another time.
 
 <small>Of the glory of the thirteenth æon.</small>
 
-"And if I lead you moreover into the thirteenth æon, then will ye see the glory in which they are; the twelve æons will count for you as the darkness of darknesses, and ye shall look at the twelve æons, how it \[_sc._ their region\] will have for you the likeness of a speck of dust because of the great distance it is far distant from it, and because of the great condition it is considerably greater than the former.
+“And if I lead you moreover into the thirteenth æon, then will ye see the glory in which they are; the twelve æons will count for you as the darkness of darknesses, and ye shall look at the twelve æons, how it \[_sc._ their region\] will have for you the likeness of a speck of dust because of the great distance it is far distant from it, and because of the great condition it is considerably greater than the former.
 
 <small>Of the glory of the Midst.</small>
 
-"And if I lead you into the region of those of the Midst, then will ye see the glory in which they are; the thirteen æons will count for you as the darkness of darknesses. And again ye will look at the twelve æons **(186)** and upon the whole Fate and the whole ordering and all the spheres and all the others in which they are; they will have for you the condition of a speck of dust because of the great distance it \[_sc._ their region\] is distant from it and because of the great condition it is considerably greater than the former.
+“And if I lead you into the region of those of the Midst, then will ye see the glory in which they are; the thirteen æons will count for you as the darkness of darknesses. And again ye will look at the twelve æons **(186)** and upon the whole Fate and the whole ordering and all the spheres and all the others in which they are; they will have for you the condition of a speck of dust because of the great distance it \[_sc._ their region\] is distant from it and because of the great condition it is considerably greater than the former.
 
 <small>Of the glory of the Right.</small>
 
-"And if I lead you into the region of those of the Right, then will ye see the glory in which they are; the region of those of the Midst will count for you as the night which is in the world of men. And if ye look at the Midst, it will have for you the condition of a speck of dust because of the great distance the region of those of the Right is considerably distant from it.
+“And if I lead you into the region of those of the Right, then will ye see the glory in which they are; the region of those of the Midst will count for you as the night which is in the world of men. And if ye look at the Midst, it will have for you the condition of a speck of dust because of the great distance the region of those of the Right is considerably distant from it.
 
 <small>Of the glory of the Treasury.</small>
 
@@ -245,17 +245,17 @@ And Jesus answered and said unto Mary: "Finely indeed dost thou question concern
 
 <small>Of the ascension of those of the Treasury into the Inheritance.</small>
 
-"And the seven **(192)** Amēns and the five Trees and the three Amēns will be on my right, being kings in the inheritances of the Light. And the Twin-saviours, that is the Child of the Child, and the nine guards will bide also at my left, being kings in the inheritances of the Light.
+“And the seven **(192)** Amēns and the five Trees and the three Amēns will be on my right, being kings in the inheritances of the Light. And the Twin-saviours, that is the Child of the Child, and the nine guards will bide also at my left, being kings in the inheritances of the Light.
 
 <small>Of their respective ranks in the kingdom.</small>
 
-"And every one of the saviours will rule over the orders of his emanations in the inheritances of the Light as they did also in the Treasury of the Light.
+“And every one of the saviours will rule over the orders of his emanations in the inheritances of the Light as they did also in the Treasury of the Light.
 
 “And the nine guards of the Treasury of the Light will be superior to the saviours in the inheritances of the Light. And the Twin-saviours will be superior to the nine guards in the kingdom. And the three Amēns will be superior to the Twin-saviours in the kingdom. And the five Trees will be superior to the three Amēns in the inheritances of the Light.
 
 <small>Of the powers of the Right, and their emanation and ascension.</small>
 
-"And Yew and the guard of the veil of the Great Light, and the receiver of Light and the two great guides and the great Sabaōth, the Good, will be kings in the first saviour of the first Voice of the Treasury of the Light, \[the saviour\] who will be in **(193)** the region of those who have received the first mystery of the First Mystery. For in sooth Yew and the guard of the region of those of the Right and Melchisedec, the great receiver of the Light, and the two great guides have come forth out of the purified and utterly pure light of the first Tree up to the fifth.
+“And Yew and the guard of the veil of the Great Light, and the receiver of Light and the two great guides and the great Sabaōth, the Good, will be kings in the first saviour of the first Voice of the Treasury of the Light, \[the saviour\] who will be in **(193)** the region of those who have received the first mystery of the First Mystery. For in sooth Yew and the guard of the region of those of the Right and Melchisedec, the great receiver of the Light, and the two great guides have come forth out of the purified and utterly pure light of the first Tree up to the fifth.
 
 “Yew in sooth is the overseer of the Light, who hath come forth first out of the pure light of the first Tree; on the other hand the guard of the veil of those of the Right hath come forth out of the second Tree; and the two guides again <span id="p163">[<sup><small>p. 163</small></sup>]</span> have come forth out of the pure and utterly purified light of the third and fourth Trees of the Treasury of the Light; Melchisedec again hath come forth out of the fifth Tree; on the other hand Sabaōth, the Good, whom I have called my father, hath come forth out of Yew, the overseer of the Light.
 
@@ -263,13 +263,13 @@ And Jesus answered and said unto Mary: "Finely indeed dost thou question concern
 
 <small>Of the powers of the Midst and their ascension.</small>
 
-"And the Virgin of Light and the great guide of the Midst, whom the rulers of the æons are wont to call the Great Yew after the name of a great ruler who is in their region,—he and the Virgin of Light and his twelve ministers, from whom ye have received your shape and from whom ye have received the power, they all will be kings with the first saviour of the first Voice in the region of the souls of those who will receive the first mystery of the First Mystery in the inheritances of the Light.
+“And the Virgin of Light and the great guide of the Midst, whom the rulers of the æons are wont to call the Great Yew after the name of a great ruler who is in their region,—he and the Virgin of Light and his twelve ministers, from whom ye have received your shape and from whom ye have received the power, they all will be kings with the first saviour of the first Voice in the region of the souls of those who will receive the first mystery of the First Mystery in the inheritances of the Light.
 
 “And the fifteen helpers of the seven virgins of the Light who are in the Midst, they will expand themselves in the regions of the twelve saviours, <span id="p164">[<sup><small>p. 164</small></sup>]</span> and the rest of the angels of the Midst, every one of them according to his glory, will rule with me in the inheritances of the Light. And I shall rule over them all in the inheritances of the Light.
 
 <small>But this shall not take place till the consummation of the æon.</small>
 
-"All this then which I have said unto you, will not take place at this time, but it will take place at the consummation of the æon, that is at the ascension of the universe; that is at the dissolution of the universe and at the total ascension of the numbering **(195)** of the perfect souls of the inheritances of the Light.
+“All this then which I have said unto you, will not take place at this time, but it will take place at the consummation of the æon, that is at the ascension of the universe; that is at the dissolution of the universe and at the total ascension of the numbering **(195)** of the perfect souls of the inheritances of the Light.
 
 “Before the consummation, therefore, this which I have said unto you, will not take place, but every one will be in his own region, into which he hath been set from the beginning, until the numbering of the ingathering of the perfect souls is completed.
 
@@ -279,11 +279,11 @@ And Jesus answered and said unto Mary: "Finely indeed dost thou question concern
 
 <small>Of the ascension of the souls of the perfect.</small>
 
-"\[The souls\] will all come, every one at the time when he will receive the mysteries; and all the rulers who have repented, will pass through and come into the region of the Midst. And those of the Midst will baptize them and give unto them the spiritual unction and seal them with the <span id="p165">[<sup><small>p. 165</small></sup>]</span> seals of their mysteries. And they will pass through those of all the regions of the Midst, and they will pass through the region of the Right and the interior of the region of the nine guards and the interior of the region of the Twin-saviours and the interior of the region of the three **(196)** Amens and of the twelve saviours and the interior of the five Trees and of the seven Voices. Every one giveth unto them his seal of his mystery, and they pass into the interior of them all and go to the region of the inheritances of the Light; and every one bideth in the region up to which he hath received mysteries in the inheritances of the Light.
+“\[The souls\] will all come, every one at the time when he will receive the mysteries; and all the rulers who have repented, will pass through and come into the region of the Midst. And those of the Midst will baptize them and give unto them the spiritual unction and seal them with the <span id="p165">[<sup><small>p. 165</small></sup>]</span> seals of their mysteries. And they will pass through those of all the regions of the Midst, and they will pass through the region of the Right and the interior of the region of the nine guards and the interior of the region of the Twin-saviours and the interior of the region of the three **(196)** Amens and of the twelve saviours and the interior of the five Trees and of the seven Voices. Every one giveth unto them his seal of his mystery, and they pass into the interior of them all and go to the region of the inheritances of the Light; and every one bideth in the region up to which he hath received mysteries in the inheritances of the Light.
 
 <small>Of the rank of the souls of the perfect.</small>
 
-"In a word, all the souls of men who shall receive the mysteries of the Light, will precede all the rulers who have repented, and they will precede all those of the region of the Midst and those of the whole region of the Right, and they will precede those of the whole region of the Treasury of the Light. In a word, they will precede all those of the region \[of the Treasury\], and they will precede all those of the regions of the first Commandment, and they will pass into the interior of them all and go into the Inheritance of the Light up to the region of their mystery; and every one abideth in the region up to which he hath received mysteries. And those of the region of the Midst and of the Right and those of the whole region of the Treasury, every one abideth in the region of the order into which he hath been set from the beginning on, until the universe shall be raised up. And every one of them accomplisheth his economy to which he hath been set, in respect of the ingathering of the souls who <span id="p166">[<sup><small>p. 166</small></sup>]</span> have received the mysteries, in respect of this economy, so that they may seal **(197)** all the souls who will receive the mysteries and who will pass through their interior towards the Inheritance of the Light.
+“In a word, all the souls of men who shall receive the mysteries of the Light, will precede all the rulers who have repented, and they will precede all those of the region of the Midst and those of the whole region of the Right, and they will precede those of the whole region of the Treasury of the Light. In a word, they will precede all those of the region \[of the Treasury\], and they will precede all those of the regions of the first Commandment, and they will pass into the interior of them all and go into the Inheritance of the Light up to the region of their mystery; and every one abideth in the region up to which he hath received mysteries. And those of the region of the Midst and of the Right and those of the whole region of the Treasury, every one abideth in the region of the order into which he hath been set from the beginning on, until the universe shall be raised up. And every one of them accomplisheth his economy to which he hath been set, in respect of the ingathering of the souls who <span id="p166">[<sup><small>p. 166</small></sup>]</span> have received the mysteries, in respect of this economy, so that they may seal **(197)** all the souls who will receive the mysteries and who will pass through their interior towards the Inheritance of the Light.
 
 “Now, therefore, Mary, this is the word concerning which thou dost question me with precision and certainty. For the rest now then, who hath ears to hear, let him hear.”
 
@@ -303,7 +303,7 @@ It came to pass then again after all these words, that Jesus continued in the di
 
 <small>Of the last Helper.</small>
 
-"Now, therefore, if I lead you into the region of the last Helper, who surroundeth the Treasury of the Light, and if I lead you into the region of that last Helper and ye see the glory in which he is, then will the region of the Inheritance of the Light count for you only for the size of a city of the world, because of the greatness in which the last Helper is, and because of the great light in which he is.
+“Now, therefore, if I lead you into the region of the last Helper, who surroundeth the Treasury of the Light, and if I lead you into the region of that last Helper and ye see the glory in which he is, then will the region of the Inheritance of the Light count for you only for the size of a city of the world, because of the greatness in which the last Helper is, and because of the great light in which he is.
 
 <small>That the regions beyond the Helpers are indescribable.</small>
 

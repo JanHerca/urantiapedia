@@ -346,7 +346,7 @@ Jesus continued again in the discourse and said unto his disciples: "It came to 
 
 <small>The emanations of Self-willed oppress her again.</small>
 
-"It came to pass, when I had led her unto a somewhat spacious region in the chaos, that the emanations of Self-willed ceased entirely to oppress her, thinking that she would be led up out of the chaos altogether. It came to pass then, when **(84)** the emanations of Self-willed had noticed that Pistis Sophia had not been led up out the chaos, that they turned about again all together, oppressing her vehemently. Because of this then she uttered the eighth repentance, because they had not ceased to oppress her, and had turned about to oppress her to the utmost. She uttered this repentance, saying thus:
+“It came to pass, when I had led her unto a somewhat spacious region in the chaos, that the emanations of Self-willed ceased entirely to oppress her, thinking that she would be led up out of the chaos altogether. It came to pass then, when **(84)** the emanations of Self-willed had noticed that Pistis Sophia had not been led up out the chaos, that they turned about again all together, oppressing her vehemently. Because of this then she uttered the eighth repentance, because they had not ceased to oppress her, and had turned about to oppress her to the utmost. She uttered this repentance, saying thus:
 
 <small>The eighth repentance of Sophia.</small>
 

@@ -43,6 +43,13 @@ The _Book of the Cave of Treasures_ is a sixth century Christian sacred history 
 
 **Transcription standards and notes**: Underlines represent breve (short) markings over vowels, and dots under consonants, \` and ´ represent right and left pointing apostrophes in transcriptions of Semitic words. Some of the references to the pagination of the Syriac MS. (_i.e._, in the format \[Fol. 8_a_, col. 1\]) were off and have been corrected; missing references, however, have not been supplied. Some of the transcriptions of names from the Syriac have been standardized.
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-center">
+<img src="/image/book/Christianity/The_Book_of_the_Cave_of_Treasures/pl00.jpg">
+<figcaption>Sumerian relief in copper on wood representing <b>Imdugud</b>, or <b>Imgig</b>, the lion-headed eagle of Ningirsu, the great god of Lagash, grasping two stags by their tails. It is probable that it was originally placed over the door of the temple of Nin-khursag or Damgalnun at the head of the stairway leading on to the temple platform. This remarkable monument was made about 3100 B.C., and was discovered by Dr. H. R. Hall in 1919 at <b>Tall al-`Ubêd</b>, a sanctuary at "Ur of the Chaldees" in Lower Babylonia. It is now in the British Museum (No. 114308).</figcaption>
+</figure>
+
+<br style="clear:both;"/>
+
 
 ## Index
 
