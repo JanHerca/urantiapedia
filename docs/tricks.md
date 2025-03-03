@@ -170,6 +170,8 @@ Books ||
 ` ` | ` `
 `^ +` | `&nbsp;&nbsp;&nbsp;&nbsp;`
 `#page_` | `#p`
+Italic inside words ||
+`(?<=[\wâ])_([^_/\.-\\,]+)_(?=[\wâ])` | <i>$1</i>
 
 ## VS Code tricks
 
