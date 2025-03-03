@@ -21,11 +21,11 @@ Pour en savoir plus sur la manière dont l'Encyclopédie est organisée dans le 
 ## Index d'encyclopédies
 
 - [Index de tous les termes](/fr/index/topics)
-- [Index des personnalités, des individus ou des groupes et des dieux anciens](/fr/index/people)
+- [Index des personnalités, des individus ou des groupes](/fr/index/people)
 - [Index des lieux, sur Terre et dans l'Univers](/fr/index/places)
 - [Index des ordres et typologies des êtres](/fr/index/beings)
 - [Index des races, tribus ou peuples](/fr/index/races)
-- [Index des religions, cultes, croyances](/fr/index/religions)
+- [Index des religions, cultes, croyances et des dieux anciens](/fr/index/religions)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
 <img src="/image/help/sample_page_topic.png">

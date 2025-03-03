@@ -21,11 +21,11 @@ To learn more about how the Encyclopedia is being organized in the project, cons
 ## Lists of Topics
 
 - [Index of all topics](/en/index/topics)
-- [Index of personalities, people individuals or groups and old gods](/en/index/people)
+- [Index of personalities, people individuals or groups](/en/index/people)
 - [Index of places, either on Earth or on the Universe](/en/index/places)
 - [Index of orders and types of beings](/en/index/beings)
 - [Index of races, tribes or peoples](/en/index/races)
-- [Index of religions, cults, beliefs](/en/index/religions)
+- [Index of religions, cults, beliefs and old gods](/en/index/religions)
 
 <figure id="Sample_fig_1" class="image urantiapedia">
 <img src="/image/help/sample_page_topic.png">

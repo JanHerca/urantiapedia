@@ -12,6 +12,7 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2025
 
+- [Novedades de Febrero 2025](/es/news/2025/20)
 - [Novedades de Enero 2025](/es/news/2025/01)
 
 ## 2024
