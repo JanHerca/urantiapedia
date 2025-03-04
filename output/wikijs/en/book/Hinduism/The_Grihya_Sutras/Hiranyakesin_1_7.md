@@ -60,7 +60,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. The moon with (the Pâda), 'May we not get into the power of him who hates us, O king Soma!
 
-14\. He worships the seven _Ri_shis (ursa major) with (the verse), ‘The seven _Ri_shis who have led to firmness she, Arundhatî, who stands first among the six K<i>ri</i>ttikâs (pleiads):—may she, the eighth one, who leads the conjunction of the (moon with the) six K<i>ri</i>ttikâs, the first (among conjunctions) shine upon us!’ Then he worships the polar star with (the formula), 'Firm dwelling, firm origin. The firm one art thou, standing on the side of firmness. Thou art the pillar of the stars; thus protect me against my adversary.
+14\. He worships the seven <i>Ri</i>shis (ursa major) with (the verse), ‘The seven <i>Ri</i>shis who have led to firmness she, Arundhatî, who stands first among the six K<i>ri</i>ttikâs (pleiads):—may she, the eighth one, who leads the conjunction of the (moon with the) six K<i>ri</i>ttikâs, the first (among conjunctions) shine upon us!’ Then he worships the polar star with (the formula), 'Firm dwelling, firm origin. The firm one art thou, standing on the side of firmness. Thou art the pillar of the stars; thus protect me against my adversary.
 
 Adoration be to the Brahman, to the firm, immovable one! Adoration be to the Brahman's son, Pra<i>g</i>âpati! Adoration to the Brahman's children, <span id="p195">[<sup><small>p. 195</small></sup>]</span> to the thirty-three gods! Adoration to the Brahman's children and grandchildren, to the Aṅgiras!
 

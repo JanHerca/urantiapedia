@@ -38,11 +38,11 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^703] During the fortnight that precedes the _S<i>rava</i>n_â <span id="p242">[<sup><small>p. 242</small></sup>]</span> full moon, when the herbs have appeared, under (the Nakshatra) Hasta or on the full-moon day (itself), the opening ceremony of the (annual course of) study (is performed).
 
-3\. Having put wood on the fire and performed the rites down to the Vyâh<i>ri</i>ti oblations, he sacrifices (with his pupils) to the _Ri_shis of the Kâ<i>ri</i><i>ri</i>as: ‘To Pra<i>ri</i>âpati, the _Ri_shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Soma, the _Ri_shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Agni, the _Ri_shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To the Vi<i>ri</i>ve devâs, the _Ri_shis of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Svayambhû, the _Ri_shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ!’—these are the _Ri_shis of the Kâ<i>ri</i><i>ri</i>as. Or (he sacrifices) to the names of the Kâ<i>ri</i><i>ri</i>as, to the Sâvitrî, to the <i>Ri</i>g-veda, the Ya<i>ri</i>ur-veda, the Sâma-veda, the Atharva-veda, and to Sadasaspati.
+3\. Having put wood on the fire and performed the rites down to the Vyâh<i>ri</i>ti oblations, he sacrifices (with his pupils) to the <i>Ri</i>shis of the Kâ<i>ri</i><i>ri</i>as: ‘To Pra<i>ri</i>âpati, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Soma, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Agni, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To the Vi<i>ri</i>ve devâs, the <i>Ri</i>shis of a Kâ<i>ri</i><i>ri</i>a, svâhâ! To Svayambhû, the <i>Ri</i>shi of a Kâ<i>ri</i><i>ri</i>a, svâhâ!’—these are the <i>Ri</i>shis of the Kâ<i>ri</i><i>ri</i>as. Or (he sacrifices) to the names of the Kâ<i>ri</i><i>ri</i>as, to the Sâvitrî, to the <i>Ri</i>g-veda, the Ya<i>ri</i>ur-veda, the Sâma-veda, the Atharva-veda, and to Sadasaspati.
 
 4\. Having (thus) sacrificed, they repeat the first three Anuvâkas,
 
-5\. Or the beginnings of all Kâ<i>n</i><i>n</i>as.
+5\. Or the beginnings of all Kâ<i>nd</i>as.
 
 6\. He enters upon (sacrificing) the <i>G</i>aya, &c. (oblations; see above, I, 1, 3, 8).
 
@@ -63,15 +63,15 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^706] For Brahman, Pra<i>g</i>âpati, B<i>g</i>haspati, Agni, Vâyu, the Sun, the Moon, the Stars, king Indra, king Yama, king Varu<i>g</i>a, king Soma, king Vai<i>g</i>rava<i>g</i>a, for the Vasus, the Rudras, the Âdityas, the Vi<i>g</i>ve devâs, the Sâdhyas, the _Ri_bhus, the Bh<i>g</i>gus, the Maruts, the Atharvans, the Aṅgiras: for these divine beings. <span id="p244">[<sup><small>p. 244</small></sup>]</span>
 
-2\. [^707] Vi<i>g</i>vâmitra, _G_amadagni, Bharadvâ<i>g</i>a and Gautama, Atri, Vasish<i>g</i>a, Ka<i>g</i>yapa: these are the seven _Ri_shis.
+2\. [^707] Vi<i>g</i>vâmitra, <i>G</i>amadagni, Bharadvâ<i>g</i>a and Gautama, Atri, Vasish<i>g</i>a, Ka<i>g</i>yapa: these are the seven <i>Ri</i>shis.
 
-3\. Wearing their sacrificial cords below (round their body) they arrange towards the north, at a place that is inclined towards the north, seats of northward-pointed Darbha grass, so that they end in the east, for Vi<i>s</i>vâmitra, _G_amadagni, Bharadvâ<i>s</i>a, Gautama, Atri, Vasish<i>s</i>a, Ka<i>s</i>yapa.
+3\. Wearing their sacrificial cords below (round their body) they arrange towards the north, at a place that is inclined towards the north, seats of northward-pointed Darbha grass, so that they end in the east, for Vi<i>s</i>vâmitra, <i>G</i>amadagni, Bharadvâ<i>s</i>a, Gautama, Atri, Vasish<i>s</i>a, Ka<i>s</i>yapa.
 
 4\. Between Vasish<i>th</i>a and Ka<i>th</i>yapa they arrange (a seat) for Arundhatî, (the wife of Vasish<i>th</i>a);
 
 5\. Towards the south, in a place inclined towards the east, for Agastya.
 
-6\. Then for the (following) teachers, ending with those who teach (only) one Veda (?), viz. for K<i>ri</i>sh<i>ri</i>a Dvaipâyana, _G<i>ri</i>n_ya, Taruksha, T<i>ri</i><i>ri</i>abindu, Varmin, Varûthin, Vâ<i>ri</i>in, Vâ<i>ri</i>a<i>ri</i>ravas, Satya<i>ri</i>ravas, Su<i>ri</i>ravas, Suta<i>ri</i>ravas, Soma<i>ri</i>ushmâya<i>ri</i>a, Satvavat, B<i>ri</i>haduktha Vâmadev(y)a, Vâ<i>ri</i>iratna, Harya<i>ri</i>vâyana, Udamaya, Gautama, _Ri_<i>ri</i>a<i>ri</i><i>ri</i>aya, _Ri<i>ri</i>ñ_<i>ri</i>aya, K<i>ri</i>ta<i>ri</i><i>ri</i>aya, Dhana<i>ri</i><i>ri</i>aya, Babhru, Tryaru<i>ri</i>a, Trivarsha, Tridhâtu, _S_ibinta, Parâ<i>ri</i>ara, Vish<i>ri</i>u, Rudra, Skanda, Kâ<i>ri</i>i<i>ri</i>vara, _G_vara, Dharma, Artha, Kâma, Krodha, Vasish<i>ri</i>a, Indra, Tvash<i>ri</i>_ri_, Kart_ri_, Dhart_ri_, Dhât_ri_, M<i>ri</i>tyu, Savit_ri_, Sâvitrî, and for each Veda, for the <i>Ri</i>g-veda, the Ya<i>ri</i>ur-veda, the Sâma-veda, the Atharva-veda, the Itihâsa and Purâ<i>ri</i>a.
+6\. Then for the (following) teachers, ending with those who teach (only) one Veda (?), viz. for K<i>ri</i>sh<i>ri</i>a Dvaipâyana, _G<i>ri</i>n_ya, Taruksha, T<i>ri</i><i>ri</i>abindu, Varmin, Varûthin, Vâ<i>ri</i>in, Vâ<i>ri</i>a<i>ri</i>ravas, Satya<i>ri</i>ravas, Su<i>ri</i>ravas, Suta<i>ri</i>ravas, Soma<i>ri</i>ushmâya<i>ri</i>a, Satvavat, B<i>ri</i>haduktha Vâmadev(y)a, Vâ<i>ri</i>iratna, Harya<i>ri</i>vâyana, Udamaya, Gautama, _Ri_<i>ri</i>a<i>ri</i><i>ri</i>aya, _Ri<i>ri</i>ñ_<i>ri</i>aya, K<i>ri</i>ta<i>ri</i><i>ri</i>aya, Dhana<i>ri</i><i>ri</i>aya, Babhru, Tryaru<i>ri</i>a, Trivarsha, Tridhâtu, <i>S</i>ibinta, Parâ<i>ri</i>ara, Vish<i>ri</i>u, Rudra, Skanda, Kâ<i>ri</i>i<i>ri</i>vara, <i>G</i>vara, Dharma, Artha, Kâma, Krodha, Vasish<i>ri</i>a, Indra, Tvash<i>ri</i>_ri_, Kart_ri_, Dhart_ri_, Dhât_ri_, M<i>ri</i>tyu, Savit_ri_, Sâvitrî, and for each Veda, for the <i>Ri</i>g-veda, the Ya<i>ri</i>ur-veda, the Sâma-veda, the Atharva-veda, the Itihâsa and Purâ<i>ri</i>a.
 
 7\. Towards the south, with their sacrificial cords suspended over their right shoulders, in a place inclined towards the south, they arrange seats of southward-pointed Darbha grass, so that they end in the west—
 
@@ -82,7 +82,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 8, SECTION 20.
 
-1\. [^708] For Vai<i>s</i>ampâyana, Paliṅgu, Tittira \[sic\], Ukha, Âtreya, the author of the Pada-text, Kau<i>s</i><i>s</i>inya the author of the commentary, for the authors of the Sûtras, for Satyâshâ<i>s</i>a (Hira<i>s</i>yake<i>s</i>in), for the handers-down of the text, for the teachers, the _Ri_shis, the hermits dwelling in the woods, the chaste ones, for those who have only one wife.
+1\. [^708] For Vai<i>s</i>ampâyana, Paliṅgu, Tittira \[sic\], Ukha, Âtreya, the author of the Pada-text, Kau<i>s</i><i>s</i>inya the author of the commentary, for the authors of the Sûtras, for Satyâshâ<i>s</i>a (Hira<i>s</i>yake<i>s</i>in), for the handers-down of the text, for the teachers, the <i>Ri</i>shis, the hermits dwelling in the woods, the chaste ones, for those who have only one wife.
 
 2\. They prepare (seats) each for his own fathers and maternal ancestors.
 
@@ -108,7 +108,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 13\. [^710] The same (rites are repeated) when they have finished the study of the whole Veda, with the exception of the planting of Dûrvâ grass, of (stirring up) the water, and of the race.
 
-14\. Thus they satiate daily (after the Brahmaya<i>g</i><i>g</i>a) the gods, the _Ri_shis, and the Fathers with water; they satiate them with water.
+14\. Thus they satiate daily (after the Brahmaya<i>g</i><i>g</i>a) the gods, the <i>Ri</i>shis, and the Fathers with water; they satiate them with water.
 
 End of the Hira<i>n</i>yake<i>n</i>i-sûtra.
 
@@ -151,7 +151,7 @@ End of the Hira<i>n</i>yake<i>n</i>i-sûtra.
 
 [^707]: 244:2 This is a frequently quoted versus memorialis.
 
-[^708]: 245:1 20, 1. The Kâ<i>n</i><i>n</i>ânukrama of the Âtreyî-_s_âkhâ, which has been printed by Professor Weber in his edition of the Taittirîya Sa<i>n</i>hitâ, vol. ii, p. 356, shows that the dative Paliṅgave ought to be corrected to Paiṅgaye. The ‘v<i>n</i>ttikâra’ is there called not Kau<i>n</i><i>n</i>inya, but Ku<i>n</i><i>n</i>ina.
+[^708]: 245:1 20, 1. The Kâ<i>nd</i>ânukrama of the Âtreyî-_s_âkhâ, which has been printed by Professor Weber in his edition of the Taittirîya Sa<i>n</i>hitâ, vol. ii, p. 356, shows that the dative Paliṅgave ought to be corrected to Paiṅgaye. The ‘v<i>n</i>ttikâra’ is there called not Kau<i>nd</i>inya, but Ku<i>nd</i>ina.
 
 [^709]: 245:9 There is only one difference between the text of this Sutra p. 246 and that of chap. 18, 3-7: instead of hutvâ trîn âditoऽnuvâkân adhîyate (18, 4) we read here, hutvâ prathamenânuvâkenâdhîyate, which I believe must be translated, ‘Having sacrificed with the first Anuvâka, they recite (that Anuvâka).’ Mât<i>ri</i>datta says, hutvâ prathamottamânuvâkam adhîyate.
 

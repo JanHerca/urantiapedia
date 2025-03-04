@@ -117,7 +117,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. On all sides, so as to keep his right side turned towards (the fire), with (the Mantra), ‘God Savit_ri_! Give thy impulse!’ (Taitt. Sa<i>m</i>h. I, 7, 7, 1).
 
-11\. [^473] Having (thus) sprinkled (water) round (the fire), and having anointed the fuel (with Â<i>g</i>ya), he puts it on (the fire) with (the Mantra), ‘This fuel is thy self, _G_âtavedas! Thereby thou shalt be inflamed and shalt grow. Inflame us and make us grow; through offspring, cattle, holy lustre, and through the enjoyment of food make us increase. Svâhâ!’
+11\. [^473] Having (thus) sprinkled (water) round (the fire), and having anointed the fuel (with Â<i>g</i>ya), he puts it on (the fire) with (the Mantra), ‘This fuel is thy self, <i>G</i>âtavedas! Thereby thou shalt be inflamed and shalt grow. Inflame us and make us grow; through offspring, cattle, holy lustre, and through the enjoyment of food make us increase. Svâhâ!’
 
 12\. He then sacrifices with the (spoon called) Darvi (the following oblations):
 
@@ -131,7 +131,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 17\. [^476] Between them he sacrifices the other (oblations).
 
-18\. [^477] (He makes four oblations with the following Mantras): 'Thou whom we have set to work, _G_âtavedas! carry forward (our offerings). Agni! Perceive this work (i.e. the sacrifice), as it is performed (by us). Thou art a healer, a creator of medicine. Through thee may we obtain cows, horses, and men. Svâhâ!
+18\. [^477] (He makes four oblations with the following Mantras): 'Thou whom we have set to work, <i>G</i>âtavedas! carry forward (our offerings). Agni! Perceive this work (i.e. the sacrifice), as it is performed (by us). Thou art a healer, a creator of medicine. Through thee may we obtain cows, horses, and men. Svâhâ!
 
 ‘Thou who liest down athwart, thinking, “It is I who keep (all things) asunder:” to thee who art propitious (to me), I sacrifice this stream of ghee in the fire. Svâhâ!
 
@@ -288,7 +288,7 @@ End of the First Pa<i>t</i>ala.
 
 [^460]: 138:14 Gobhila I, 6, 13; Pâraskara I, 1, 2, &c.
 
-[^461]: 138:15 Taittirîya Sa<i>m</i>hitâ V, 9, 1. Comp. also the parallel passages, _S_atapatha Brâhma<i>m</i>a VII, 3, 2, 17; Kâtyâyana-<i>S</i>raut. XVII, 3, 27.
+[^461]: 138:15 Taittirîya Sa<i>m</i>hitâ V, 9, 1. Comp. also the parallel passages, <i>S</i>atapatha Brâhma<i>m</i>a VII, 3, 2, 17; Kâtyâyana-<i>S</i>raut. XVII, 3, 27.
 
 [^462]: 138:16 Gobhila I, 7, 1.
 
@@ -320,7 +320,7 @@ End of the First Pa<i>t</i>ala.
 
 [^476]: 143:17 I.e. between the places at which the two ‘Â<i>g</i>ya portions’ are offered. Comp. <i>S</i>âṅkhâyana I, 9, 8.
 
-[^477]: 143:18 _S_atapatha Brâhma<i>n</i>a XIV, 9, 3, 3 (= B<i>n</i>had Âra<i>n</i>yaka VI, 3, 1; S.B.E., vol. xv, p. 210); Mantra-Brâhma<i>n</i>a I, 5, 6.
+[^477]: 143:18 <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 3, 3 (= B<i>n</i>had Âra<i>n</i>yaka VI, 3, 1; S.B.E., vol. xv, p. 210); Mantra-Brâhma<i>n</i>a I, 5, 6.
 
 [^478]: 144:2 3, 2. Gobhila I, 9, 25.
 
@@ -330,7 +330,7 @@ End of the First Pa<i>t</i>ala.
 
 [^481]: 144:5 5, 6. In the second Mantra we should read v<i>ri</i><i>ri</i>âno instead of g<i>ri</i><i>ri</i>âno; comp. Atharva-veda II, 13, 1. As to the Mantras that follow, comp. Pâraskara I, 2, 8; Taittirîya Âra<i>ri</i>yaka IV, 20, 3.—Regarding the Mantra tvam Agne ayâsi (sic), comp. Taitt. Brâh. II, 4, 1, 9; Â<i>ri</i>valâyana-<i>S</i>rauta-sûtra I, 11, 13; Kâtyâyana-<i>S</i>rauta-sûtra XXV, 1, 11; Indische Studien, XV, 125.
 
-[^482]: 145:7 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 10, 23; _S_atapatha Brâhma<i>ri</i>a XI V, 9, 4, 24.
+[^482]: 145:7 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 10, 23; <i>S</i>atapatha Brâhma<i>ri</i>a XI V, 9, 4, 24.
 
 [^483]: 145:8 Comp. the next Sûtras and Pâraskara I, 5, 7-10.
 

@@ -37,7 +37,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## ADHYÂYA IV, KHA<i>ND</i>A 1.
 
-1\. [^230]. Let him offer (_S_râddha oblations) every month to the fathers.
+1\. [^230]. Let him offer (<i>S</i>râddha oblations) every month to the fathers.
 
 2\. [^231]. Having invited an uneven number of Brâhma<i>n</i>as, versed in the Veda, at least three, to sit down as (representing) the fathers, <span id="p107">[<sup><small>p. 107</small></sup>]</span>
 
@@ -61,11 +61,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 12\. To the Brâhma<i>n</i>as he shall announce the remnants.
 
-13\. [^235]. The rites of the putting (of food) into the fire (see Sûtra 6), &c. have been declared (in the <i>S</i>rauta-sûtra) by the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a.
+13\. [^235]. The rites of the putting (of food) into the fire (see Sûtra 6), &c. have been declared (in the <i>S</i>rauta-sûtra) by the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a.
 
 ## KHA<i>ND</i>A 2.
 
-1\. [^236] Now (follows) the Ekoddish<i>t</i>a (i.e. the _S_râddha ceremony directed to a single dead person),
+1\. [^236] Now (follows) the Ekoddish<i>t</i>a (i.e. the <i>S</i>râddha ceremony directed to a single dead person),
 
 2\. With one strainer,
 
@@ -87,7 +87,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 3.
 
-1\. [^240]. Now (follows) the Sapi<i>n</i><i>n</i>îkara<i>n</i>a (i.e. reception of a dead person into the community of Pi<i>n</i><i>n</i>a-offerings with the other Manes). <span id="p110">[<sup><small>p. 110</small></sup>]</span>
+1\. [^240]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a (i.e. reception of a dead person into the community of Pi<i>nd</i>a-offerings with the other Manes). <span id="p110">[<sup><small>p. 110</small></sup>]</span>
 
 2 [^241]. When one year has elapsed, or three half-months,
 
@@ -101,11 +101,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. Thus also the lump (of flour).
 
-8\. This is the Sapi<i>n</i><i>n</i>îkara<i>n</i>a.
+8\. This is the Sapi<i>nd</i>îkara<i>n</i>a.
 
 ## KHA<i>ND</i>A 4.
 
-1\. [^242]. Now (follows) the Âbhyudayika (i.e. the _S_râddha ceremony referring to good luck). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
+1\. [^242]. Now (follows) the Âbhyudayika (i.e. the <i>S</i>râddha ceremony referring to good luck). <span id="p111">[<sup><small>p. 111</small></sup>]</span>
 
 2\. In the fortnight of the increasing moon, on an auspicious day,
 
@@ -133,7 +133,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 14\. [^250]. ‘(Was it) well done?’—thus are they to be asked whether they are satiated. <span id="p112">[<sup><small>p. 112</small></sup>]</span>
 
-15\. The rest is the same (as in the other kinds of _S_râddha rites), as far as it is not [prohibited](errata.htm#0) (by contrary rules).
+15\. The rest is the same (as in the other kinds of <i>S</i>râddha rites), as far as it is not prohibited (by contrary rules).
 
 ## KHA<i>ND</i>A 5.
 
@@ -145,15 +145,15 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. [^253]. Or with the first verses of the Sûktas and Anuvâkas.
 
-5\. With the first verses of the Adhyâyas and of the sections belonging to the (different) _Ri_shis, according to Mâ<i>n</i><i>n</i>ûkeya.
+5\. With the first verses of the Adhyâyas and of the sections belonging to the (different) <i>Ri</i>shis, according to Mâ<i>nd</i>ûkeya.
 
 6\. But Kaushîtaki has said:
 
 7\. ‘I praise Agni the Purohita’ (Rig-veda I, 1, 1), this one verse,
 
-8\. ‘The Kushumbhaka (mungoose?) has said it;’ ‘If thou criest, O bird, announce luck to us;’ ‘Sung by _G_amadagni;’ ‘In thy abode the whole world rests;’ <span id="p113">[<sup><small>p. 113</small></sup>]</span> ‘Come to our sacrifice, O you that are worthy of sacrifice, with care;’ ‘Whosoever, be he ours, be he alien;’ ‘Look on, look about;’ ‘Come here, Agni, the Maruts’ friend;’ ‘The oblation, O king, cooked for thee:’ each time two verses,
+8\. ‘The Kushumbhaka (mungoose?) has said it;’ ‘If thou criest, O bird, announce luck to us;’ ‘Sung by <i>G</i>amadagni;’ ‘In thy abode the whole world rests;’ <span id="p113">[<sup><small>p. 113</small></sup>]</span> ‘Come to our sacrifice, O you that are worthy of sacrifice, with care;’ ‘Whosoever, be he ours, be he alien;’ ‘Look on, look about;’ ‘Come here, Agni, the Maruts’ friend;’ ‘The oblation, O king, cooked for thee:’ each time two verses,
 
-9\. [^254]. ‘That blessing and bliss we choose’—this one verse (the first and last verse of each Ma<i>n</i><i>n</i>ala).
+9\. [^254]. ‘That blessing and bliss we choose’—this one verse (the first and last verse of each Ma<i>nd</i>ala).
 
 10\. (Taking something) of the remnants of the sacrificed (food) they partake of that sacrificial food with this (verse), ‘I praised Dadhikrâvan’ (Rig-veda IV, 39, 6).
 
@@ -165,7 +165,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 14\. Of this (ceremony) it is also said,
 
-15\. 'Desirous (of acquiring) for the hymns inexhaustible vigour, reverence, and also soundness, the _Ri_shis, by the power of their austerities, have discovered the Upâkarman.
+15\. 'Desirous (of acquiring) for the hymns inexhaustible vigour, reverence, and also soundness, the <i>Ri</i>shis, by the power of their austerities, have discovered the Upâkarman.
 
 16\. [^255]. 'Therefore a constant performer of the six kinds of works should, in order that his Mantras might be successful, perform the Upâkarman—so they say—if he wishes for success of his (holy) works.
 
@@ -179,11 +179,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. In a place covered with herbs,
 
-4\. Having murmured the hymns sacred to the Sun, ‘Upwards that _G_âtavedas’ (Rig-veda I, 50), ‘The bright face of the gods’ (I, 115), Adoration to Mitra's (eye)' (X, 37), ‘From the sky (where he dwells) may Sûrya protect us’ (X, 158), <span id="p115">[<sup><small>p. 115</small></sup>]</span>
+4\. Having murmured the hymns sacred to the Sun, ‘Upwards that <i>G</i>âtavedas’ (Rig-veda I, 50), ‘The bright face of the gods’ (I, 115), Adoration to Mitra's (eye)' (X, 37), ‘From the sky (where he dwells) may Sûrya protect us’ (X, 158), <span id="p115">[<sup><small>p. 115</small></sup>]</span>
 
 5\. And having thrown clods of earth (on the ground) to the different quarters (of the horizon), from the left to the right, with the hymn, ‘A ruler indeed’ (Rig-veda X, 152), verse by verse,
 
-6\. [^258]. And having satiated (with water) the _Ri_shis, the metres, the deities, faith and insight, and the fathers man by man,
+6\. [^258]. And having satiated (with water) the <i>Ri</i>shis, the metres, the deities, faith and insight, and the fathers man by man,
 
 7\. They interrupt (the study of) the hymns for six months and a half,
 
@@ -201,7 +201,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. In the case of lightning, thunder, and rains (the recitation shall be interrupted) till the twilight has thrice passed;
 
-5\. At a _S_râddha-dinner for one day;
+5\. At a <i>S</i>râddha-dinner for one day;
 
 6\. [^260]. If a death (of relations) or birth has happened, for ten days;
 
@@ -215,7 +215,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. [^263]. And (on the death) of those whose family-head he is.
 
-12\. On receiving (gifts) as at the _S_râddha.
+12\. On receiving (gifts) as at the <i>S</i>râddha.
 
 13\. On (the death of) a fellow-student;
 
@@ -231,7 +231,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 19\. After sunset;
 
-20\. In the neighbourhood of a _S_ûdra;
+20\. In the neighbourhood of a <i>S</i>ûdra;
 
 21\. [^264]. When the sound of a Sâman is heard;
 
@@ -257,7 +257,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 32\. While being on a chariot;
 
-33\. (In the neighbourhood) of a dog as (in that) of a _S_ûdra;
+33\. (In the neighbourhood) of a dog as (in that) of a <i>S</i>ûdra;
 
 34\. Having climbed up a tree;
 
@@ -285,7 +285,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 46\. While being anointed;
 
-47\. (In the neighbourhood) of a man who has to touch corpses (a corpse-bearer, &c.), of a woman that has recently been confined, or that has her courses, as (in the neighbourhood) of a _S_ûdra; <span id="p118">[<sup><small>p. 118</small></sup>]</span>
+47\. (In the neighbourhood) of a man who has to touch corpses (a corpse-bearer, &c.), of a woman that has recently been confined, or that has her courses, as (in the neighbourhood) of a <i>S</i>ûdra; <span id="p118">[<sup><small>p. 118</small></sup>]</span>
 
 48\. With veiled hands;
 
@@ -301,7 +301,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 54\. Thereof it is also said,
 
-55\. [^269]. 'Food, water, roots and fruits, and whatsoever else _S_râddha-food there may be: even when he has (only) accepted thereof, the study should be interrupted; the Brâhma<i>n</i>a's hand is his mouth; so it is taught.’
+55\. [^269]. 'Food, water, roots and fruits, and whatsoever else <i>S</i>râddha-food there may be: even when he has (only) accepted thereof, the study should be interrupted; the Brâhma<i>n</i>a's hand is his mouth; so it is taught.’
 
 
 
@@ -353,7 +353,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. And having submerged himself at the time prescribed for the bath, he satiates the deities: <span id="p121">[<sup><small>p. 121</small></sup>]</span>
 
-3 [^275]. 'Agni may satiate himself; Vâyu may satiate himself; Sûrya may satiate himself; Vish<i>n</i>u may satiate himself; Pra<i>n</i>âpati may satiate himself; Virûpâksha may satiate himself; Sahasrâksha may satiate himself; Soma, Brahman, the Vedas, the gods, the _Ri_shis, and all the metres, the word Om, the word VASHA_T_, the Mahâvyâh<i>n</i>tis, the Sâvitrî, the sacrifices, heaven and earth, the Nakshatras, the air, days and nights, the numbers, the twilights, the oceans, the rivers, the mountains, fields, herbs, trees, Gandharvas and Apsaras, the serpents, the birds, the Siddhas, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end, may satiate themselves.
+3 [^275]. 'Agni may satiate himself; Vâyu may satiate himself; Sûrya may satiate himself; Vish<i>n</i>u may satiate himself; Pra<i>n</i>âpati may satiate himself; Virûpâksha may satiate himself; Sahasrâksha may satiate himself; Soma, Brahman, the Vedas, the gods, the <i>Ri</i>shis, and all the metres, the word Om, the word VASHA_T_, the Mahâvyâh<i>n</i>tis, the Sâvitrî, the sacrifices, heaven and earth, the Nakshatras, the air, days and nights, the numbers, the twilights, the oceans, the rivers, the mountains, fields, herbs, trees, Gandharvas and Apsaras, the serpents, the birds, the Siddhas, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end, may satiate themselves.
 
 ‘I satiate the <i>S</i>ruti; I satiate the Sm<i>ri</i>ti; I satiate the firmness; I satiate the delight; I satiate <span id="p122">[<sup><small>p. 122</small></sup>]</span> the success; I satiate the thought; I satiate belief and insight, and the memory, cows and Brâhma<i>ri</i>as, movable and immovable things. All beings may satiate themselves!’—so far with the sacrificial cord suspended over the left shoulder.
 
@@ -363,9 +363,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. Looking in the direction that belongs to the Manes (i.e. the south):
 
-3\. 'The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (_Ri_shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, Vi<i>shis) of the hundred (</i>vâmitra, _G_amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the (_Ri_shis) of the Pavamâna hymns, the (_Ri_shis) of the short hymns and of the long hymns, Sumantu, _G_aimini, Vai<i>shis) of the hundred (</i>ampâyana, Paila, the Sûtras, the Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>u, Mâ<i>shis) of the hundred (</i><i>shis) of the hundred (</i>avya, Gârgî Vâ<i>shis) of the hundred (</i>aknavî, <span id="p123">[<sup><small>p. 123</small></sup>]</span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (may satiate themselves).
+3\. 'The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, Vi<i>shis) of the hundred (</i>vâmitra, <i>G</i>amadagni, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the (<i>Ri</i>shis) of the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns and of the long hymns, Sumantu, <i>G</i>aimini, Vai<i>shis) of the hundred (</i>ampâyana, Paila, the Sûtras, the Bhâshyas, Gârgya, Babhru, Bâbhravya, Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>u, Mâ<i>shis) of the hundred (</i><i>shis) of the hundred (</i>avya, Gârgî Vâ<i>shis) of the hundred (</i>aknavî, <span id="p123">[<sup><small>p. 123</small></sup>]</span> Vadavâ Prâtitheyî, Sulabhâ Maitreyî (may satiate themselves).
 
-‘(I satiate) Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>g</i><i>g</i>a <i>S</i>âṅkhâyana, Â<i>g</i>valâyana, Aitareya, Mahaitareya, Bhâradvâ<i>g</i>a, _G<i>g</i>n_ya, Paiṅgya, Mahâpaṅgya, Bâshkala, Gârgya, _S_âkalya, Mâ<i>g</i><i>g</i>ûkeya, Mahâdamatra, Audavâhi, Mahaudavâhi, Sauyâmi, _S_aunaki, _S<i>g</i>n_i, Gautami; and whatsoever other teachers there are, may they all satiate themselves.
+‘(I satiate) Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>g</i><i>g</i>a <i>S</i>âṅkhâyana, Â<i>g</i>valâyana, Aitareya, Mahaitareya, Bhâradvâ<i>g</i>a, _G<i>g</i>n_ya, Paiṅgya, Mahâpaṅgya, Bâshkala, Gârgya, <i>S</i>âkalya, Mâ<i>g</i><i>g</i>ûkeya, Mahâdamatra, Audavâhi, Mahaudavâhi, Sauyâmi, <i>S</i>aunaki, _S<i>g</i>n_i, Gautami; and whatsoever other teachers there are, may they all satiate themselves.
 
 4\. 'The fathers man by man.
 
@@ -595,7 +595,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. (Or) under (the Nakshatra) Rohi<i>th</i>î, or under the Prosh<i>th</i>apadâs.
 
-3\. In the morning, having taken a handfull of _S_amî leaves, Madhûka flowers, reeds, Apâmârga plants, and of _S_irîsha, Udumbara, Ku<i>s</i>a shoots, and jujube fruits, and an earth-clod (taken) out of a furrow,
+3\. In the morning, having taken a handfull of <i>S</i>amî leaves, Madhûka flowers, reeds, Apâmârga plants, and of <i>S</i>irîsha, Udumbara, Ku<i>s</i>a shoots, and jujube fruits, and an earth-clod (taken) out of a furrow,
 
 4\. Having put (all that) into a water-pot, <span id="p131">[<sup><small>p. 131</small></sup>]</span>
 
@@ -638,7 +638,7 @@ Beat away, O white one, with thy foot, with the forefoot and with the hind-foot,
 
 ## KHA<i>ND</i>A 19.
 
-1\. On the full moon day of _K_aitra,
+1\. On the full moon day of <i>K</i>aitra,
 
 2\. [^295]. (Taking) jujube leaves, and making of meal (images) of couples of animals as it happens.
 
@@ -678,37 +678,37 @@ Here ends the Fourth Adhyâya.
 
 ## Footnotes
 
-[^231]: 106:1 1, 1. Kha<i>n</i><i>n</i>as 1-4 contain the rules regarding the _S_râddha oblations directed to the Manes. The dinners offered in connection with these _S_râddha sacrifices to Brâhma<i>n</i>as and also—though of this of course no notice is taken in Vedic texts—to _S<i>n</i>n_as stood in the first line among the exhibitions of liberality of lay people towards priests and monks. Thus we find among the stock phrases that constantly reoccur in the Pâli Pi<i>n</i>akas, the mention of Sama<i>n</i>as and Brâhma<i>n</i>as ‘who have eaten the food given to them out of faith’ (saddhâdeyyâni bho<i>n</i>anâni bhu<i>n</i><i>n</i>itvâ)—wherein the ‘food given out of faith’ (saddhâdeyya) either chiefly or exclusively means the _S_râddha dinners, which are so called because the sacrificer gives them ‘full of faith’ (_s_raddhâsamanvita, Manu III, 275) to the Brâhma<i>n</i>as and through them to the Manes.
+[^231]: 106:1 1, 1. Kha<i>nd</i>as 1-4 contain the rules regarding the <i>S</i>râddha oblations directed to the Manes. The dinners offered in connection with these <i>S</i>râddha sacrifices to Brâhma<i>n</i>as and also—though of this of course no notice is taken in Vedic texts—to _S<i>n</i>n_as stood in the first line among the exhibitions of liberality of lay people towards priests and monks. Thus we find among the stock phrases that constantly reoccur in the Pâli Pi<i>n</i>akas, the mention of Sama<i>n</i>as and Brâhma<i>n</i>as ‘who have eaten the food given to them out of faith’ (saddhâdeyyâni bho<i>n</i>anâni bhu<i>nd</i>itvâ)—wherein the ‘food given out of faith’ (saddhâdeyya) either chiefly or exclusively means the <i>S</i>râddha dinners, which are so called because the sacrificer gives them ‘full of faith’ (_s_raddhâsamanvita, Manu III, 275) to the Brâhma<i>n</i>as and through them to the Manes.
 
-The principal form of _S_râddha is that treated of in chap. 1, which is designated in other texts (see, for instance, Â<i>ri</i>valâyana-G<i>ri</i>hya IV, 7, 1) as pârva<i>ri</i>a <i>s</i>râddha. There are, however, besides the parvan of the new moon, other times also considered as admissible for the performing of this monthly _S_râddha; see Gautama XV, 2 seq.; Âpastamba II, 16, &c.; and comp. on the _S_râddhas in general the passages quoted by Professor Jolly, Das Dharma-sûtra des Vish<i>ri</i>u (Sitzung der Bair. Akademie, phil. Classe, 7 Juni, 1879), pp. 46 seq.; Max Müller, ‘India, what can it teach us?’ pp. 234 Seq., 374 seq.
+The principal form of <i>S</i>râddha is that treated of in chap. 1, which is designated in other texts (see, for instance, Â<i>ri</i>valâyana-G<i>ri</i>hya IV, 7, 1) as pârva<i>ri</i>a <i>s</i>râddha. There are, however, besides the parvan of the new moon, other times also considered as admissible for the performing of this monthly <i>S</i>râddha; see Gautama XV, 2 seq.; Âpastamba II, 16, &c.; and comp. on the <i>S</i>râddhas in general the passages quoted by Professor Jolly, Das Dharma-sûtra des Vish<i>ri</i>u (Sitzung der Bair. Akademie, phil. Classe, 7 Juni, 1879), pp. 46 seq.; Max Müller, ‘India, what can it teach us?’ pp. 234 Seq., 374 seq.
 
 [^232]: 106:2 ‘“As the fathers” means: he invites the youngest, middle-aged, and eldest Brâhma<i>n</i>as to sit down in the place of the father, the grandfather, and the great-grandfather’ (Nârâya<i>n</i>a). A similar explanation of pit<i>n</i>vat is mentioned by Nârâya<i>n</i>a on Â<i>n</i>valâyana-G<i>n</i>hya p. 107 IV, 7, 2. My German translation of this Sûtra ought to be altered accordingly.
 
-Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the fathers, according to all the commentaries, other Brâhma<i>n</i>as had to be invited as representing the Vi<i>n</i>ve devâs. Nârâya<i>n</i>a gives detailed statements as to the number of the pait<i>n</i>ka and of the daivika Brâhma<i>n</i>as to be invited, and though at first sight a European reader would rather be inclined to doubt whether at the _S_râddha ceremony, as the author of the text intended to describe it, any Brâhma<i>n</i>as at all had to be present except the pait<i>n</i>kas, the Sûtra 2, 5 shows that the commentators are quite right in their statements regarding both categories of Brâhma<i>n</i>as.
+Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the fathers, according to all the commentaries, other Brâhma<i>n</i>as had to be invited as representing the Vi<i>n</i>ve devâs. Nârâya<i>n</i>a gives detailed statements as to the number of the pait<i>n</i>ka and of the daivika Brâhma<i>n</i>as to be invited, and though at first sight a European reader would rather be inclined to doubt whether at the <i>S</i>râddha ceremony, as the author of the text intended to describe it, any Brâhma<i>n</i>as at all had to be present except the pait<i>n</i>kas, the Sûtra 2, 5 shows that the commentators are quite right in their statements regarding both categories of Brâhma<i>n</i>as.
 
 [^233]: 107:5-7 It would be more natural to alter the division of the Sûtras, so as to bring âmantrya in the fifth, anna_ñ<i>n</i>k_a in the seventh Sûtra. In this case we should have to translate: 5. After this, having (respectfully) spoken to them who have been adorned (by him with flowers, ornaments, &c.); 6. And having put (food) into the fire, 7. And having assigned the food to them, &c., he shall cause them to eat.—The respectful address mentioned in the fifth Sûtra consists, according to Nârâya<i>n</i>a, in the announcement, ‘Ye Brâhma<i>n</i>as, I will put (food) into the fire!’ (comp. Â<i>n</i>v.-G<i>n</i>hya IV, 7, 18), which he subsequently does with the formulas, ‘To Agni Kavyavâhana svâhâ! To Soma Pit<i>n</i>mat svâhâ! To Yama Aṅgirasvat Pit<i>n</i>mat svâhâ!’ Comp. Baudhâyana II, 1 4, 8.
 
-[^234]: 108:9 As to the way in which the Pi<i>n</i><i>n</i>as should he offered, Nârâya<i>n</i>a refers to the <i>S</i>rauta-sûtra (IV, 4).
+[^234]: 108:9 As to the way in which the Pi<i>nd</i>as should he offered, Nârâya<i>n</i>a refers to the <i>S</i>rauta-sûtra (IV, 4).
 
-[^235]: 108:10-11 10, 11. Pi<i>n</i><i>n</i>ân evidently belongs to the tenth Sûtra, not, as the Indian tradition takes it, to the eleventh. Between the Pi<i>n</i><i>n</i>as of the fathers and those belonging to the mothers he puts, according to Nârâya<i>n</i>a, for instance, Darbha grass.
+[^235]: 108:10-11 10, 11. Pi<i>nd</i>ân evidently belongs to the tenth Sûtra, not, as the Indian tradition takes it, to the eleventh. Between the Pi<i>nd</i>as of the fathers and those belonging to the mothers he puts, according to Nârâya<i>n</i>a, for instance, Darbha grass.
 
 [^236]: 108:13 <i>S</i>rauta-sûtra IV, 3 seq.
 
-[^237]: 108:1 2, 1. Eka uddish<i>t</i>o yasmin _s<i>t</i>t_am (Nâr.). This is the kind of _S_râddha sacrifice which is to be performed for one twice-born during the first year after his death; see Manu III, 247; Yâ<i>t</i><i>t</i>avalkya I, 250.
+[^237]: 108:1 2, 1. Eka uddish<i>t</i>o yasmin _s<i>t</i>t_am (Nâr.). This is the kind of <i>S</i>râddha sacrifice which is to be performed for one twice-born during the first year after his death; see Manu III, 247; Yâ<i>t</i><i>t</i>avalkya I, 250.
 
-[^238]: 108:3 This rule about the Argha water corresponds to those given with regard to the Pârva<i>n</i>a _S_râddha in the Sûtras 3 and 4 of the preceding chapter.
+[^238]: 108:3 This rule about the Argha water corresponds to those given with regard to the Pârva<i>n</i>a <i>S</i>râddha in the Sûtras 3 and 4 of the preceding chapter.
 
-[^239]: 108:5 ‘Because the âvâhana (inviting) is forbidden here, it follows p. 109 that it must take place at the Pârva<i>n</i>a _S_râddha’ (Nâr.). According to Râma<i>n</i>andra's Paddhati he shall say to the Brâhma<i>n</i>as, ‘I will invite hither the fathers;’ and when they give their consent, he invites them with Rig-veda X, 16, 12. Comp. Yâ<i>n</i><i>n</i>avalkya I, 232 seq., &c. Regarding the Vi<i>n</i>ve devâs comp. the note on chap. 1, 2; as to the t<i>n</i>ptapra<i>n</i>na (the question whether they are satiated) comp. Manu III, 251; Yâ<i>n</i>_ñ_. I, 240. At the Pârva<i>n</i>a _S_râddha, after the Brâhma<i>n</i>as have finished their dinner and rinsed their mouths, and after the Pi<i>n</i><i>n</i>as have been offered, the sacrificer says, ‘May what has been given at this _S_râddha to our father N.N., who belongs to the gotra N.N., be imperishable!’ (comp. Yâ<i>n</i>_ñ_. I, 242.) This phrase is to be altered at the Ekoddish<i>n</i>a _S_râddha in the way indicated in this Sûtra.
+[^239]: 108:5 ‘Because the âvâhana (inviting) is forbidden here, it follows p. 109 that it must take place at the Pârva<i>n</i>a <i>S</i>râddha’ (Nâr.). According to Râma<i>n</i>andra's Paddhati he shall say to the Brâhma<i>n</i>as, ‘I will invite hither the fathers;’ and when they give their consent, he invites them with Rig-veda X, 16, 12. Comp. Yâ<i>nd</i>avalkya I, 232 seq., &c. Regarding the Vi<i>n</i>ve devâs comp. the note on chap. 1, 2; as to the t<i>n</i>ptapra<i>n</i>na (the question whether they are satiated) comp. Manu III, 251; Yâ<i>n</i>_ñ_. I, 240. At the Pârva<i>n</i>a <i>S</i>râddha, after the Brâhma<i>n</i>as have finished their dinner and rinsed their mouths, and after the Pi<i>nd</i>as have been offered, the sacrificer says, ‘May what has been given at this <i>S</i>râddha to our father N.N., who belongs to the gotra N.N., be imperishable!’ (comp. Yâ<i>n</i>_ñ_. I, 242.) This phrase is to be altered at the Ekoddish<i>n</i>a <i>S</i>râddha in the way indicated in this Sûtra.
 
-[^240]: 109:8 After the Ekoddish<i>t</i>a _S_râddha has been performed for a dead person during the first year after his death, he is to be admitted, by the Sapi<i>t</i><i>t</i>îkara<i>t</i>a ceremony, among the other Manes, and receives thenceforward his Pi<i>t</i><i>t</i>a together with them at the ordinary Pârva<i>t</i>a _S_râddha. As the ritual of this _S_râddha requires that the number of the ‘fathers’ worshipped should be three, the accession of a new person makes necessary the omission of the pra-pra-pitâmaha, who has now become fourth among the fathers.
+[^240]: 109:8 After the Ekoddish<i>t</i>a <i>S</i>râddha has been performed for a dead person during the first year after his death, he is to be admitted, by the Sapi<i>t</i><i>t</i>îkara<i>t</i>a ceremony, among the other Manes, and receives thenceforward his Pi<i>t</i><i>t</i>a together with them at the ordinary Pârva<i>t</i>a <i>S</i>râddha. As the ritual of this <i>S</i>râddha requires that the number of the ‘fathers’ worshipped should be three, the accession of a new person makes necessary the omission of the pra-pra-pitâmaha, who has now become fourth among the fathers.
 
-[^241]: 109:1 3, 1. It appears to me that this whole chapter is a later addition to the original text. The last Sûtra of the preceding chapter, treating of the omission of the fourth ‘father,’ which forms, as shown in the preceding note, a consequence of the Sapi<i>n</i><i>n</i>îkara<i>n</i>a, p. 110 supposes this ceremony to be known and to require no special explanation. Had the intention of the author been to treat of the Sapi<i>n</i><i>n</i>îkara<i>n</i>a, this would have been the right place for mentioning the <i>k</i>aturthavisarga, and not, as we really read it, the end of the chapter treating of the Ekoddish<i>n</i>a. As pointing in the same direction I will mention that the _S_âmbavya-G<i>n</i>hya, while giving the first, second, and fourth chapter of this Adhyâya, omits the third. Finally it seems decisive to me that the fifth (Pari<i>n</i>ish<i>n</i>a) book of the <i>S</i>âṅkhâyana-G<i>n</i>hya treats of the Sapi<i>n</i><i>n</i>îkara<i>n</i>a in a whole chapter (V, 9), which shows that the text itself, as the author of the Pari<i>n</i>ish<i>n</i>a read it, gave no exposition of this ceremony.
+[^241]: 109:1 3, 1. It appears to me that this whole chapter is a later addition to the original text. The last Sûtra of the preceding chapter, treating of the omission of the fourth ‘father,’ which forms, as shown in the preceding note, a consequence of the Sapi<i>nd</i>îkara<i>n</i>a, p. 110 supposes this ceremony to be known and to require no special explanation. Had the intention of the author been to treat of the Sapi<i>nd</i>îkara<i>n</i>a, this would have been the right place for mentioning the <i>k</i>aturthavisarga, and not, as we really read it, the end of the chapter treating of the Ekoddish<i>n</i>a. As pointing in the same direction I will mention that the <i>S</i>âmbavya-G<i>n</i>hya, while giving the first, second, and fourth chapter of this Adhyâya, omits the third. Finally it seems decisive to me that the fifth (Pari<i>n</i>ish<i>n</i>a) book of the <i>S</i>âṅkhâyana-G<i>n</i>hya treats of the Sapi<i>nd</i>îkara<i>n</i>a in a whole chapter (V, 9), which shows that the text itself, as the author of the Pari<i>n</i>ish<i>n</i>a read it, gave no exposition of this ceremony.
 
-[^242]: 110:2 Nârâya<i>n</i>a says that tripaksha means either three pakshas, i.e. one month and a half, or one paksha deficient by three days, i.e. twelve days. We need not say that the latter explanation is inadmissible it evidently rests on a wrong conclusion drawn from a passage of another Sûtra quoted by him, in which it is stated that the Sapi<i>n</i><i>n</i>îkara<i>n</i>a should be performed sa<i>n</i>vatsarânte dvâda<i>n</i>âhe vâ.
+[^242]: 110:2 Nârâya<i>n</i>a says that tripaksha means either three pakshas, i.e. one month and a half, or one paksha deficient by three days, i.e. twelve days. We need not say that the latter explanation is inadmissible it evidently rests on a wrong conclusion drawn from a passage of another Sûtra quoted by him, in which it is stated that the Sapi<i>nd</i>îkara<i>n</i>a should be performed sa<i>n</i>vatsarânte dvâda<i>n</i>âhe vâ.
 
-[^243]: 110:1 4, 1. The Âbhyudayika _S_râddha has to be performed on such p. 111 occasions as the birth of a son, the marriage of a son or a daughter, the performance of ceremonies such as the nâmakarman, _k<i>û</i>d_âkarman, &c. See Yâ<i>û</i><i>û</i>avalkya I, 249.
+[^243]: 110:1 4, 1. The Âbhyudayika <i>S</i>râddha has to be performed on such p. 111 occasions as the birth of a son, the marriage of a son or a daughter, the performance of ceremonies such as the nâmakarman, _k<i>û</i>d_âkarman, &c. See Yâ<i>û</i><i>û</i>avalkya I, 249.
 
-[^244]: 111:3 A _S_râddha ceremony directed to the mothers here precedes that consecrated to the fathers.
+[^244]: 111:3 A <i>S</i>râddha ceremony directed to the mothers here precedes that consecrated to the fathers.
 
 [^245]: 111:6 Professor Stenzler's translation of Yâ<i>g</i><i>g</i>avalkya, loc. cit. (pradakshi<i>g</i>âv<i>g</i>tka = die Ehrfurcht beobachtend), has to be corrected according to this Sûtra.
 
@@ -730,13 +730,13 @@ Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the father
 
 [^254]: 112:4 I have followed Nârâya<i>n</i>a, but perhaps I ought to have translated, ‘Sûktas or Anuvâkas,’ and in the fifth Sûtra, ‘Adhyâyas or the sections, &c.’
 
-[^255]: 113:9 According to Kaushîtaki, the oblations are made with the first and last _ri_<i>k</i>as of each Ma<i>k</i><i>k</i>ala. The last <i>ri</i>_k_ of the tenth Ma<i>k</i><i>k</i>ala quoted here, ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe, is different from the verse with which our Sa<i>k</i>hitâ (the _S_âkala Sa<i>k</i>hitâ of the Rig-veda) closes. It is well known that ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe is the last verse in the Bâshkala _S<i>k</i>S_âṅkhâyana school (comp. Indische Studien, IV, 431; Weber, Verzeichniss der Berliner Sanskrit-Handschriften, p. 314, &c.; Indische Literaturgeschichte, second edition, Nachtrag, p. 2). It was also known long since that the Bâshkala Sâkhâ of the Rig-veda contains eight hymns more than the _S<i>k</i>S_âkhâ. The _K<i>k</i>n_avyûha Bhâshya (comp. Dr. von Schroeder's Introduction to his excellent edition of the Maitrâya<i>k</i>î Sa<i>k</i>hitâ, vol. i, p. xxiv), known to me through the kindness of Professor Weber, tells which eight hymns these are. There it is said (folio 22 of Professor Weber's MS.) that in the Bâshkala Sa<i>k</i>hitâ there followed after VIII, 48 the first two of the Vâlakhilya hymns, after VIII, 94 the Vâlakhilya hymns 3-7, and at the end of the whole collection the so-called sa<i>k</i><i>k</i><i>k</i>âna hymn (see Professor Max Müller's edition, vol. vi, p. 32), which ends with the very verse quoted in our Sûtra, ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe.
+[^255]: 113:9 According to Kaushîtaki, the oblations are made with the first and last _ri_<i>k</i>as of each Ma<i>k</i><i>k</i>ala. The last <i>ri</i>_k_ of the tenth Ma<i>k</i><i>k</i>ala quoted here, ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe, is different from the verse with which our Sa<i>k</i>hitâ (the <i>S</i>âkala Sa<i>k</i>hitâ of the Rig-veda) closes. It is well known that ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe is the last verse in the Bâshkala _S<i>k</i>S_âṅkhâyana school (comp. Indische Studien, IV, 431; Weber, Verzeichniss der Berliner Sanskrit-Handschriften, p. 314, &c.; Indische Literaturgeschichte, second edition, Nachtrag, p. 2). It was also known long since that the Bâshkala Sâkhâ of the Rig-veda contains eight hymns more than the _S<i>k</i>S_âkhâ. The _K<i>k</i>n_avyûha Bhâshya (comp. Dr. von Schroeder's Introduction to his excellent edition of the Maitrâya<i>k</i>î Sa<i>k</i>hitâ, vol. i, p. xxiv), known to me through the kindness of Professor Weber, tells which eight hymns these are. There it is said (folio 22 of Professor Weber's MS.) that in the Bâshkala Sa<i>k</i>hitâ there followed after VIII, 48 the first two of the Vâlakhilya hymns, after VIII, 94 the Vâlakhilya hymns 3-7, and at the end of the whole collection the so-called sa<i>k</i><i>k</i><i>k</i>âna hymn (see Professor Max Müller's edition, vol. vi, p. 32), which ends with the very verse quoted in our Sûtra, ta_k<i>k</i>kh<i>k</i>m<i>k</i>ri_<i>k</i>îmahe.
 
 [^256]: 114:16 The six kinds of works are, performing sacrifices (ya<i>g</i>ana), officiating at the sacrifices of others (yâ<i>g</i>ana), studying the Veda (adhyayana), teaching the Veda to others (adhyâpana), giving (dâna), and accepting gifts (pratigraha). Nârâya<i>g</i>a.
 
 [^257]: 114:17 Concerning the Utsarga, see chap. 6. This <i>S</i>loka occurs also Manu IV, 119 with the reading kshepa<i>n</i>am instead of kshapa<i>n</i>am (‘kshapa<i>n</i>a_m<i>n</i>kh<i>n</i>m<i>n</i>h_,’ Nârâya<i>n</i>a). Kshapa<i>n</i>am is correct.
 
-[^258]: 114:1 6, 1. This Kha<i>n</i><i>n</i>a treats of the Utsarga, i.e. the ceremony performed at the end of the term.
+[^258]: 114:1 6, 1. This Kha<i>nd</i>a treats of the Utsarga, i.e. the ceremony performed at the end of the term.
 
 [^259]: 115:6\_6 On the tarpa<i>n</i>a, comp. chaps. 9 and 10.
 
@@ -750,7 +750,7 @@ Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the father
 
 [^264]: 116:11 Â<i>âryaputrâdaya</i>âryaputrâdaya_h_. Nârâya<i>âryaputrâdaya</i>a.
 
-[^265]: 116:21 The reason why the recitation of the Rig-veda is forbidden when the sound of a Sâman is heard, becomes manifest, for instance, from Âpastamba I, to, 7, where the discontinuance of the Veda-study is prescribed when the barking of dogs, the braying of asses, the cry of a wolf, &c., the sound of musical instruments, of weeping, and of a Sâman is heard. Loud sounds like these would disturb the recitation of _Ri_<i>k</i> or Ya<i>g</i>us texts. A very curious opinion has been recently brought forward by Professor Aufrecht (see his edition of the Rig-veda, second edition, vol. ii, p. xxxviii) that the incompatibility of the recitation of _Ri_<i>k</i> hymns and of Sâmans ‘beruht auf der Kenntniss von der Willkür and der zum Theil unwürdigen Weise, in welcher der alte Text des Rig-veda in diesem Gesangbuche (i.e. the Sâmavedâr<i>g</i>ika) behandelt ist.’
+[^265]: 116:21 The reason why the recitation of the Rig-veda is forbidden when the sound of a Sâman is heard, becomes manifest, for instance, from Âpastamba I, to, 7, where the discontinuance of the Veda-study is prescribed when the barking of dogs, the braying of asses, the cry of a wolf, &c., the sound of musical instruments, of weeping, and of a Sâman is heard. Loud sounds like these would disturb the recitation of <i>Rik<i> or Ya<i>g</i>us texts. A very curious opinion has been recently brought forward by Professor Aufrecht (see his edition of the Rig-veda, second edition, vol. ii, p. xxxviii) that the incompatibility of the recitation of <i>Rik<i> hymns and of Sâmans ‘beruht auf der Kenntniss von der Willkür and der zum Theil unwürdigen Weise, in welcher der alte Text des Rig-veda in diesem Gesangbuche (i.e. the Sâmavedâr<i>g</i>ika) behandelt ist.’
 
 [^266]: 117:23 Grâmâra<i>n</i>ye grâmam (read, grâma?) evâra<i>n</i>ya_m<i>n</i>m_ tatra nâdhîyîta. Nârâya<i>n</i>a.
 
@@ -770,10 +770,10 @@ Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the father
 
 [^274]: 120:19 The translation of âtmâna<i>m</i> vipariharet is conjectural; comp. also Nârâya<i>n</i>a's note, p. 151 of the German edition.
 
-[^275]: 120:1 9, 1. It is not expressly stated in our text for what occasion the tarpa<i>n</i>a (i.e. satiating of deities, _Ri_shis, &c. with water-offerings), which is treated of in chap. 9-10, shall be prescribed. The comparison of Baudhâyana II, 9 might perhaps lead us to believe that the ceremony in question is to be performed whenever the sacrificer takes a bath. But the two texts which are most closely connected with ours, the _S<i>n</i>s_valâyana G<i>n</i>hyas, seem to point clearly to another conclusion. The _S<i>n</i>n_a to the place which would correspond to Sûtra II, 7, 28 of our text. The passage of the _S_âmbavya-sûtra runs thus: mûle ku<i>n</i><i>n</i>a_m<i>n</i>ri<i>n</i>h<i>n</i>ñ_<i>n</i>aty athemâs (so the MS.) tarpayati Agni<i>h</i> Pra<i>n</i>âpatir Virûpâksha_h_, &c. It ends: pitara_h<i>n</i>h<i>n</i>h_ Paila<i>h</i> Kaho<i>n</i>a<i>h</i> Kaushîtaka<i>h</i> (sic) Kaho<i>n</i>âya Kaushîtakaye svadhâstv iti pratipurusha_h<i>n</i>rî_<i>n</i>s tarpayitvâ. The last words are taken from the Sûtra IV, 6, 6 of our text. Thus there can be no doubt that _S<i>n</i>n_a for the conclusion of the p. 121 vedâdhyayana. The same can be said of Â<i>n</i>valâyana, who also by the position which he assigns to the tarpa<i>n</i>a sections (III, 4) brings it into a similar connection with the vedâdhyayana (see Nârâya<i>n</i>a's commentary on Â<i>n</i>v., loc. cit.). We may also refer to the treatise about the study of the Âra<i>n</i>yaka, which is appended to the <i>S</i>âṅkhâyana-G<i>n</i>hya as its sixth book; there the tarpa<i>n</i>a is mentioned quite in the same connection (VI, 6, 10 seq.). I believe, therefore, that in our text, chapters 9 and 10 have found their place here as a sort of supplementary addition to chap. 6, 6, just as in the first book the list of Nakshatras seems likewise appended to the Sûtra I, 25, 5.
+[^275]: 120:1 9, 1. It is not expressly stated in our text for what occasion the tarpa<i>n</i>a (i.e. satiating of deities, <i>Ri</i>shis, &c. with water-offerings), which is treated of in chap. 9-10, shall be prescribed. The comparison of Baudhâyana II, 9 might perhaps lead us to believe that the ceremony in question is to be performed whenever the sacrificer takes a bath. But the two texts which are most closely connected with ours, the _S<i>n</i>s_valâyana G<i>n</i>hyas, seem to point clearly to another conclusion. The _S<i>n</i>n_a to the place which would correspond to Sûtra II, 7, 28 of our text. The passage of the <i>S</i>âmbavya-sûtra runs thus: mûle ku<i>nd</i>a_m<i>n</i>ri<i>n</i>h<i>n</i>ñ_<i>n</i>aty athemâs (so the MS.) tarpayati Agni<i>h</i> Pra<i>n</i>âpatir Virûpâksha_h_, &c. It ends: pitara_h<i>n</i>h<i>n</i>h_ Paila<i>h</i> Kaho<i>n</i>a<i>h</i> Kaushîtaka<i>h</i> (sic) Kaho<i>n</i>âya Kaushîtakaye svadhâstv iti pratipurusha_h<i>n</i>rî_<i>n</i>s tarpayitvâ. The last words are taken from the Sûtra IV, 6, 6 of our text. Thus there can be no doubt that _S<i>n</i>n_a for the conclusion of the p. 121 vedâdhyayana. The same can be said of Â<i>n</i>valâyana, who also by the position which he assigns to the tarpa<i>n</i>a sections (III, 4) brings it into a similar connection with the vedâdhyayana (see Nârâya<i>n</i>a's commentary on Â<i>n</i>v., loc. cit.). We may also refer to the treatise about the study of the Âra<i>n</i>yaka, which is appended to the <i>S</i>âṅkhâyana-G<i>n</i>hya as its sixth book; there the tarpa<i>n</i>a is mentioned quite in the same connection (VI, 6, 10 seq.). I believe, therefore, that in our text, chapters 9 and 10 have found their place here as a sort of supplementary addition to chap. 6, 6, just as in the first book the list of Nakshatras seems likewise appended to the Sûtra I, 25, 5.
   According to Nârâya<i>n</i>a, snâta<i>h</i> in the first Sûtra would refer to the bath which forms part of the Samâvartana ceremony (see III, 1, 1), so that it would be the G<i>n</i>hastha, who has taken the Samâvartana bath, to whom the following rules refer.
 
-[^276]: 121:3 Comp. the similar lists of Â<i>ri</i>valâyana, G<i>ri</i>hya III, 4; _S_âmbavya, quoted in my German edition of <i>S</i>âṅkhâyana, p.153; and Baudhâyana II, 9 (S.B.E., vol. xiv, pp. 252 seq.). The last seems to be the most modern.
+[^276]: 121:3 Comp. the similar lists of Â<i>ri</i>valâyana, G<i>ri</i>hya III, 4; <i>S</i>âmbavya, quoted in my German edition of <i>S</i>âṅkhâyana, p.153; and Baudhâyana II, 9 (S.B.E., vol. xiv, pp. 252 seq.). The last seems to be the most modern.
   It should be observed that the section of the list contained in this Sûtra, as well as that given below, chap. 10, 3, is divided into p. 122 two parts, in the first of which the name of the being to be worshipped is given in the nominative case, with the verb tripyatu, while in the second it stands in the accusative, with the verb tarpayâmi. The first part of this section contains the names of gods and of divine beings, such as the rivers, the mountains, &c.; in the second part are found abstract qualities or notions, such as mati, dhriti, <i>s</i>ruti. Similarly in chapter 10, 3 the Vedic poets, a few ancient teachers, and wise women, such as Gârg or Sulabhâ, form the first part of the list, and then follow, in the accusative case, the names of such doctors as Sàükhâyana, Â<i>s</i>valâyana, Sâkalya. In Â<i>s</i>valâyana's Sûtra of the first of our two sections only the first part reoccurs, the second is omitted, while the second section is found there in its entirety, with the same difference of names given in the nominative and accusative cases. The conjectures, however, which I had once based on this difference (see my German edition, pp. 152, 153) as to the distinction of a more ancient part of the list, and of later supplements, are perhaps too hazardous.
 
 [^277]: 123:1 11, 1 seq. Rules of conduct for a Snâtaka, i.e. a man who has completed his studentship.
@@ -796,7 +796,7 @@ Besides the Brâhma<i>n</i>as mentioned in this Sûtra, who represent the father
 
 [^286]: 126:16 According to Nârâya<i>n</i>a we should have to supply, ‘while it is raining,’ which is countenanced by a number of parallel texts, for instance, Â<i>n</i>v.-G<i>n</i>hya III, 9, 6.
 
-[^287]: 128:7 15, 7. For this signification of pha<i>n</i>a, comp. _K_ullavagga V, 2, 3.
+[^287]: 128:7 15, 7. For this signification of pha<i>n</i>a, comp. <i>K</i>ullavagga V, 2, 3.
 
 [^288]: 129:17-18 17, 18. The text has u<i>k</i><i>k</i>aistarâm—u<i>k</i><i>k</i>aistarâm, and nî<i>k</i>aistarâ_m<i>k</i>k_aistarâm. Nârâya<i>k</i>a(comp. the text of his scholion, p. 155 of the German edition) understands this in a different way; he says that in the water-pot mentioned in the fifth Sûtra two different sthânas are to be distinguished, a higher part of it and a lower (uttarâdharatayâ). Now when the sacrificer, for instance, as prescribed in Sûtra 6, invites the Lord of the celestial Serpents, and the celestial Serpents to wash themselves, the pouring out of water would have to be performed first thrice for the Lord of the celestial Serpents in the higher place, then thrice for the celestial Serpents in the lower place.
 

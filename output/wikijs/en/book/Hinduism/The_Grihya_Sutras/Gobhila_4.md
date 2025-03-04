@@ -109,7 +109,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 12\. [^358] And then he should cut off a lump of flesh from that thigh and should cut it in small pieces on a new slaughtering-bench,
 
-13\. (With the intention) that the Pi<i>n</i><i>n</i>as (or lumps of food offered to the Manes) should be thoroughly mixed up with flesh.
+13\. (With the intention) that the Pi<i>nd</i>as (or lumps of food offered to the Manes) should be thoroughly mixed up with flesh.
 
 14\. [^359] On the same fire he cooks one mess of rice-grains and one of meat, stirring up the one and the other separately, from right to left, with the two pot-ladles.
 
@@ -186,17 +186,17 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. [^377] After he leas touched water, (he does) the same for the other two.
 
-8\. Seizing, again with his left hand, the Darvî spoon, he should cut off one-third of the mixture (of <span id="p108">[<sup><small>p. 108</small></sup>]</span> the different kinds of sacrificial food) and should put down (that Pi<i>n</i><i>n</i>a), from right to left, on the Darbha grass in the eastern pit, pronouncing his father's name, ‘N.N.! This Pi<i>n</i><i>n</i>a is thine, and of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
+8\. Seizing, again with his left hand, the Darvî spoon, he should cut off one-third of the mixture (of <span id="p108">[<sup><small>p. 108</small></sup>]</span> the different kinds of sacrificial food) and should put down (that Pi<i>nd</i>a), from right to left, on the Darbha grass in the eastern pit, pronouncing his father's name, ‘N.N.! This Pi<i>nd</i>a is thine, and of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
 
 9\. [^378] After he has touched water, (he does) the same for the other two.
 
-10\. If he does not know their names, he should put down the first Pi<i>n</i><i>n</i>a with (the formula), Svadhâ to the Fathers dwelling on the earth,' the second with (the formula), ‘Svadhâ to the Fathers dwelling in the air,’ the third with (the formula), ‘Svadhâ to the Fathers dwelling in heaven.’
+10\. If he does not know their names, he should put down the first Pi<i>nd</i>a with (the formula), Svadhâ to the Fathers dwelling on the earth,' the second with (the formula), ‘Svadhâ to the Fathers dwelling in the air,’ the third with (the formula), ‘Svadhâ to the Fathers dwelling in heaven.’
 
-11\. After he has put down (the three Pi<i>n</i><i>n</i>as), he murmurs, ‘Here, O Fathers, enjoy yourselves; show your manly vigour each for his part’ (MB. II, 3, 6).
+11\. After he has put down (the three Pi<i>nd</i>as), he murmurs, ‘Here, O Fathers, enjoy yourselves; show your manly vigour each for his part’ (MB. II, 3, 6).
 
 12\. He should turn away, (should hold his breath,) and turning back before he emits his breath, he should murmur, ‘The Fathers have enjoyed themselves; they have shown their manly vigour each for his part’ (ibid. 7).
 
-13\. Seizing, again with his left hand, a Darbha blade (anointed with collyrium; chap. 2, 30), he should put it down, from right to left, on the Pi<i>n</i><i>n</i>a in the eastern pit, pronouncing his father's name, ‘N.N.! This collyrium is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
+13\. Seizing, again with his left hand, a Darbha blade (anointed with collyrium; chap. 2, 30), he should put it down, from right to left, on the Pi<i>nd</i>a in the eastern pit, pronouncing his father's name, ‘N.N.! This collyrium is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’
 
 14\. After he has touched water, (he does) the same for the other two.
 
@@ -216,23 +216,23 @@ dateCreated: 2025-1-14T23:38:48Z
 
 22\. He looks at his house with (the words), ‘Give us a house, O Fathers!’ (MB. II, 3, 10).
 
-23\. [^382] He looks at the Pi<i>n</i><i>n</i>as with (the words), ‘May we give you an abode, O Fathers!’ (MB. II, 3, 11).
+23\. [^382] He looks at the Pi<i>nd</i>as with (the words), ‘May we give you an abode, O Fathers!’ (MB. II, 3, 11).
 
-24\. [^383] Seizing, again with his left hand, the linen thread, he should put it down, from right to left, on the Pi<i>n</i><i>n</i>a in the eastern pit, pronouncing his father's <span id="p110">[<sup><small>p. 110</small></sup>]</span> name, ‘N.N.! This garment is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’ (MB. II, 3, 12).
+24\. [^383] Seizing, again with his left hand, the linen thread, he should put it down, from right to left, on the Pi<i>nd</i>a in the eastern pit, pronouncing his father's <span id="p110">[<sup><small>p. 110</small></sup>]</span> name, ‘N.N.! This garment is thine, and is that of those who follow thee here, and of those whom thou followest. To thee Svadhâ!’ (MB. II, 3, 12).
 
 25\. [^384] After he has touched water, (he does) the same for the other two.
 
-26\. Seizing, again with his left hand, the vessel of water (Sûtra 5), he should sprinkle (water) round the Pi<i>n</i><i>n</i>as from right to left, with (the verse), ‘Bringing sap’ (MB. II, 3, 13).
+26\. Seizing, again with his left hand, the vessel of water (Sûtra 5), he should sprinkle (water) round the Pi<i>nd</i>as from right to left, with (the verse), ‘Bringing sap’ (MB. II, 3, 13).
 
-27\. The middle Pi<i>n</i><i>n</i>a (offered to the grandfather) the wife (of the sacrificer) should eat, if she is desirous of a son, with (the verse), ‘Give fruit to the womb, O Fathers’ (MB. II, 3, 14).
+27\. The middle Pi<i>nd</i>a (offered to the grandfather) the wife (of the sacrificer) should eat, if she is desirous of a son, with (the verse), ‘Give fruit to the womb, O Fathers’ (MB. II, 3, 14).
 
-28\. Or of those Brâhma<i>n</i>as (that person) who receives the remnants (of the sacrificial food, should eat that Pi<i>n</i><i>n</i>a).
+28\. Or of those Brâhma<i>n</i>as (that person) who receives the remnants (of the sacrificial food, should eat that Pi<i>nd</i>a).
 
-29\. Having besprinkled (and thus extinguished) the fire-brand (Sûtra 3) with water, with (the verse), ‘_G_âtavedas has been our messenger for what we have offered’ (MB. II, 3, 15)—
+29\. Having besprinkled (and thus extinguished) the fire-brand (Sûtra 3) with water, with (the verse), ‘<i>G</i>âtavedas has been our messenger for what we have offered’ (MB. II, 3, 15)—
 
 30\. (The sacrificer) should besprinkle the sacrificial vessels, and should have them taken back, two by two.
 
-31\. The Pi<i>n</i><i>n</i>as he should throw into water,
+31\. The Pi<i>nd</i>as he should throw into water,
 
 32\. Or into the fire which has been carried forward (to the east side of the pits, chap. 2, 18),
 
@@ -252,9 +252,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^387] By (the description of) the Sthâlîpâka offered at the Anvash<i>t</i>akya ceremony the Pi<i>t</i><i>t</i>apit<i>t</i>ya<i>t</i><i>t</i>a has been declared;
 
-2\. This is a _S_râddha offered on the day of the new moon.
+2\. This is a <i>S</i>râddha offered on the day of the new moon.
 
-3\. [^388] Another (_S_râddha) is the Anvâhârya.
+3\. [^388] Another (<i>S</i>râddha) is the Anvâhârya.
 
 4\. (It is performed) monthly.
 
@@ -278,7 +278,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. [^395] And the ceremony of deprecation.
 
-15\. [^396] (The ceremony performed with) the vessel of water forms the conclusion (of the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a).
+15\. [^396] (The ceremony performed with) the vessel of water forms the conclusion (of the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a).
 
 16\. [^397] He should, however, put down one garment (for the Fathers in common).
 
@@ -292,9 +292,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. [^400] Vegetables (are taken instead of meat) as ingredient to the Anvâhârya(-rice).
 
-22\. At animal sacrifices offered to the Fathers let— <span id="p113">[<sup><small>p. 113</small></sup>]</span> him sacrifice the omentum with (the verse), ‘Carry the omentum, O _G_âtavedas, to the Fathers’ (MB. II, 3, 16);
+22\. At animal sacrifices offered to the Fathers let— <span id="p113">[<sup><small>p. 113</small></sup>]</span> him sacrifice the omentum with (the verse), ‘Carry the omentum, O <i>G</i>âtavedas, to the Fathers’ (MB. II, 3, 16);
 
-23\. At (such sacrifices) offered to the gods, with (the verse), ‘_G_âtavedas, go to the gods with the omentum’ (ibid. 17).
+23\. At (such sacrifices) offered to the gods, with (the verse), ‘<i>G</i>âtavedas, go to the gods with the omentum’ (ibid. 17).
 
 24\. If no (god to whom the sacrifice should be offered, and no Mantra with which the oblation should be made) is known, he sacrifices, assigning (his offering to the personified rite which he is performing), thus as (for instance), ‘To the Ash<i>t</i>akâ Svâhâ!’
 
@@ -534,7 +534,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. (This ceremony) procures happiness.
 
-7\. [^434] (With the two formulas), ‘Obeying the will’ and ‘_S_aṅkha’ (MB. II, 6, 7. 8), he should sacrifice two oblations of rice and of barley separately,
+7\. [^434] (With the two formulas), ‘Obeying the will’ and ‘<i>S</i>aṅkha’ (MB. II, 6, 7. 8), he should sacrifice two oblations of rice and of barley separately,
 
 8\. [^435] With reference to a person whose favour he wishes to gain.
 
@@ -608,7 +608,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. Of a male and a female sheep, if he is desirous of flocks.
 
-15\. [^442] One who desires that his means of livelihood may not be exhausted, should sacrifice in the evening and in the morning the fallings-off of rice-grains, with (the formulas), ‘To Hunger Svâhâ!’ ‘To Hunger and Thirst _S_vâhâ!’ (MB. II, 6, 16. 17).
+15\. [^442] One who desires that his means of livelihood may not be exhausted, should sacrifice in the evening and in the morning the fallings-off of rice-grains, with (the formulas), ‘To Hunger Svâhâ!’ ‘To Hunger and Thirst <i>S</i>vâhâ!’ (MB. II, 6, 16. 17).
 
 16\. [^443] If somebody has been bitten by a venomous animal, he should murmur (the verse), ‘Do not fear, thou wilt not die’ (MB. II, 6, 18), and should besprinkle him with water.
 
@@ -790,9 +790,9 @@ End of the Gobhila-G<i>ri</i>hya-sûtra.
 
 [^388]: 111:3 Anvâhârya literally means, what is offered (or given) after something else, supplementary. In the commentary on Gobhila, p. 666, a verse is quoted:
   amâvâsyâ_m<i> dvitîya</i>m<i> dvitîya</i>m<i> dvitîya</i>k_yate,
-  ‘The second (_S_râddha) which is performed on the day of the new moon, that is called anvâhârya.’ First comes the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a, and then follows the Anvâhârya _S_râddha; the last is identical with the Pârva<i>n</i>a _S_râddha, which is described as the chief form of _S_râddha ceremonies, for instance in <i>S</i>âṅkhâyana-G<i>n</i>hya IV, 1. Comp. Manu III, 122. 123, and Kullûka's note; M.M., ‘India, what can it teach us?’ p. 200.
+  ‘The second (<i>S</i>râddha) which is performed on the day of the new moon, that is called anvâhârya.’ First comes the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a, and then follows the Anvâhârya <i>S</i>râddha; the last is identical with the Pârva<i>n</i>a <i>S</i>râddha, which is described as the chief form of <i>S</i>râddha ceremonies, for instance in <i>S</i>âṅkhâyana-G<i>n</i>hya IV, 1. Comp. Manu III, 122. 123, and Kullûka's note; M.M., ‘India, what can it teach us?’ p. 200.
 
-[^389]: 111:5 According to the commentary this and the following Sûtras refer only to the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a, not to the Anvâhârya _S_râddha. Comp. Khâdira-G<i>n</i>hya III, 5, 36-39.
+[^389]: 111:5 According to the commentary this and the following Sûtras refer only to the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a, not to the Anvâhârya <i>S</i>râddha. Comp. Khâdira-G<i>n</i>hya III, 5, 36-39.
 
 [^390]: 112:9 See chap. 2, 18.
 

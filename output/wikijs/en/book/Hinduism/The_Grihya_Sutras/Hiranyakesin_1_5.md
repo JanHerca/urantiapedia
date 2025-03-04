@@ -119,9 +119,9 @@ Then let him wipe off that (dirt) with something else than his hand, and let him
 
 5\. [^608] Then having put wood on the fire amid the cows, and having performed the rites down to the Vyâh<i>ri</i>ti (oblations), he makes oblations of milk with (the verses),
 
-‘Blaze brightly, O _G_âtavedas, driving destruction away from me. Bring me cattle and maintenance from all quarters of the heaven. Svâhâ!
+‘Blaze brightly, O <i>G</i>âtavedas, driving destruction away from me. Bring me cattle and maintenance from all quarters of the heaven. Svâhâ!
 
-‘May _G_âtavedas do no harm to us, to cows and horses, to men and to all that moves. Come hither, <span id="p186">[<sup><small>p. 186</small></sup>]</span> Agni, fearlessly; make me attain to welfare! Svâhâ!’—
+‘May <i>G</i>âtavedas do no harm to us, to cows and horses, to men and to all that moves. Come hither, <span id="p186">[<sup><small>p. 186</small></sup>]</span> Agni, fearlessly; make me attain to welfare! Svâhâ!’—
 
 And with (the two verses), ‘This is the influx of the waters,’ and ‘Adoration to thee, the rapid one, the shining one’ (Taitt. Sa<i>m</i>h. IV, 6, 1, 3).
 

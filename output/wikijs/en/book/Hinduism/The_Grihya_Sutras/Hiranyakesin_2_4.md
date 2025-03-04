@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PRA<i>S</i>NA II, PA<i>T</i>ALA 4, SECTION 10.
 
-1\. [^675] On the new-moon day, in the afternoon, or on days with an odd number in the dark fortnight the monthly (_S_râddha is performed).
+1\. [^675] On the new-moon day, in the afternoon, or on days with an odd number in the dark fortnight the monthly (<i>S</i>râddha is performed).
 
 2\. Having prepared food for the Fathers and having arranged southward-pointed Darbha grass as seats (for the Brâhma<i>n</i>as whom he is going to invite), he invites an odd number of pure Brâhma<i>n</i>as who are versed in the Mantras, with no deficient limbs, who are not connected with himself by consanguinity or by their Gotra or by the Mantras, (such as his teacher or his pupils).
 
@@ -72,11 +72,11 @@ In the same way a second and a third verse with the alteration of the Mantra, �
 
 ## PA<i>T</i>ALA 4, SECTION 11.
 
-1\. [^679] 'The Fathers who are here and who are not here, and whom we know and whom we do not know: Agni, to thee they are known, how many they are, _G_âtavedas. May they enjoy what thou givest them in our oblation. Svadhâ! Adoration!
+1\. [^679] 'The Fathers who are here and who are not here, and whom we know and whom we do not know: Agni, to thee they are known, how many they are, <i>G</i>âtavedas. May they enjoy what thou givest them in our oblation. Svadhâ! Adoration!
 
-‘Your limb that this flesh-devouring (Agni) has burnt, leading you to the worlds (of the Fathers), _G_âtavedas, that I restore to you again. Unviolated with all your limbs arise, O Fathers! Svadhâ! Adoration!
+‘Your limb that this flesh-devouring (Agni) has burnt, leading you to the worlds (of the Fathers), <i>G</i>âtavedas, that I restore to you again. Unviolated with all your limbs arise, O Fathers! Svadhâ! Adoration!
 
-‘Carry the Â<i>g</i>ya, _G_âtavedas, to the Fathers, where thou knowest them resting afar. May streams of Â<i>g</i>ya flow to them; may their wishes with all their desires be fulfilled! Svadhâ! Adoration!’
+‘Carry the Â<i>g</i>ya, <i>G</i>âtavedas, to the Fathers, where thou knowest them resting afar. May streams of Â<i>g</i>ya flow to them; may their wishes with all their desires be fulfilled! Svadhâ! Adoration!’
 
 In the same way a second and a third verse with the alteration of the Mantra, ‘to the grandfathers,’ ‘to the great-grandfathers.’
 
@@ -127,15 +127,15 @@ When they have eaten (and go away), he goes after them and asks for their permis
 
 ## PA<i>T</i>ALA 4, SECTION 13.
 
-1\. 'This is for thee, father, this honey-sweet wave, rich in water. As great as Agni and the earth are, so great is its measure, so great is its might. As. such a great one I give it. As Agni is imperishable and inexhaustible, thus may it be imperishable and inexhaustible, sweet drink to my father. By that imperishable (wave), that sweet drink, live thou together with those, N.N.! The _Ri_<i>k</i>as are thy might.
+1\. 'This is for thee, father, this honey-sweet wave, rich in water. As great as Agni and the earth are, so great is its measure, so great is its might. As. such a great one I give it. As Agni is imperishable and inexhaustible, thus may it be imperishable and inexhaustible, sweet drink to my father. By that imperishable (wave), that sweet drink, live thou together with those, N.N.! The <i>Rik<i>as are thy might.
 
 ‘This is for thee, grandfather, &c. . . . As great as Vâyu and the air are . . . As Vâyu is imperishable . . . to my grandfather. . . . The Ya<i>g</i>us are thy might.
 
 ‘This is for thee, great-grandfather, &c. . . . As great as Âditya and the heaven are . . . "The Sâmans are thy might.’
 
-2\. Returning (from the place where he has performed the Pi<i>n</i><i>n</i>a offerings) he puts the substance cleaving (to the Sthâlî) into the water-pot and pours it out, with (the verse), ‘Go away, O Fathers, friends of Soma, on your hidden, ancient paths. After a month return again to our house and eat our offerings, rich in offspring, in valiant sons.’
+2\. Returning (from the place where he has performed the Pi<i>nd</i>a offerings) he puts the substance cleaving (to the Sthâlî) into the water-pot and pours it out, with (the verse), ‘Go away, O Fathers, friends of Soma, on your hidden, ancient paths. After a month return again to our house and eat our offerings, rich in offspring, in valiant sons.’
 
-3\. [^684] Thereby the (_S_râddha) celebrated in the middle of the rainy season has been declared.
+3\. [^684] Thereby the (<i>S</i>râddha) celebrated in the middle of the rainy season has been declared.
 
 4\. There (oblations of) flesh are prescribed;
 

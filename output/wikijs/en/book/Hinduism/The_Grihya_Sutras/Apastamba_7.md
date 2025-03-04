@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. The next (six) (Ya<i>g</i>us formulas, II, 15, 6-11) over the (house when it is) finished, according to the characteristics contained in the single formulas.
 
-7\. He sets a piece of Palâ<i>s</i>a wood or of _S_amî wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with <span id="p286">[<sup><small>p. 286</small></sup>]</span> the next Ya<i>s</i>us (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
+7\. He sets a piece of Palâ<i>s</i>a wood or of <i>S</i>amî wood on fire, takes the fire up (in a dish) with the next verse (II, 15, 12), carries it to the house with <span id="p286">[<sup><small>p. 286</small></sup>]</span> the next Ya<i>s</i>us (II, 15, 13), and places the fire in the north-eastern part of the house with the next (II, 15, 14).
 
 8\. The place for the water-barrel is to the south of that spot.
 
@@ -69,7 +69,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. Then he will get well.
 
-3\. [^780] Over a boy who suffers from the ‘_S_aṅkha’ disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
+3\. [^780] Over a boy who suffers from the ‘<i>S</i>aṅkha’ disease, (the father, &c.) having devoted himself to austerities, should recite the next two (verses, II, 16, 12. 13), and should pour (water) on his head with a water-pot with the next (verse, II, 16, 14), in the morning, at noon, and at night.
 
 4\. Then he will get well.
 

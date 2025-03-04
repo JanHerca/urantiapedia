@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘Soma has given her to the Gandharva; the Gandharva has given her to Agni. Agni gives me cattle and children, and thee besides.
 
-‘This am I, that art thou; the heaven I, the earth thou; the Sâman I, the _Ri_<i>k</i> thou. Come! Let us join together. Let us unite our sperm that we may generate a male child, a son, for the sake of the increase of wealth, of blessed offspring, of strength.
+‘This am I, that art thou; the heaven I, the earth thou; the Sâman I, the <i>Rik<i> thou. Come! Let us join together. Let us unite our sperm that we may generate a male child, a son, for the sake of the increase of wealth, of blessed offspring, of strength.
 
 ‘Bountiful Indra, bless this woman with sons and with a happy lot. Give her ten sons; let her husband be the eleventh.’
 

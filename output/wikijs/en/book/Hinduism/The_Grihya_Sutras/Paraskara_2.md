@@ -103,7 +103,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. He then makes him put on a garment with (the verse), ‘In the way in which B<i>ri</i>haspati put the garment of immortality on Indra, thus I put (this garment) on thee, for the sake of long life, of old age, of strength, of splendour.’
 
-8\. [^765]. He ties round him the girdle with (the verse which the youth recites), ‘Here has come to me, keeping away evil words, purifying my kind as a [purifier](errata.htm#1), clothing herself, by (the power of) inhalation and exhalation, with strength, this sisterly goddess, this blessed girdle.’
+8\. [^765]. He ties round him the girdle with (the verse which the youth recites), ‘Here has come to me, keeping away evil words, purifying my kind as a purifier, clothing herself, by (the power of) inhalation and exhalation, with strength, this sisterly goddess, this blessed girdle.’
 
 9\. [^766]. Or, ‘A youth, well attired, dressed, came hither. He, being born, becomes glorious. Wise sages extol him, devout ones, turning their minds to the gods.’
 
@@ -149,7 +149,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 8\. A Trish<i>t</i>ubh verse to a Râ<i>t</i>anya,
 
-9\. A _G_agatî to a Vai<i>s</i>ya,
+9\. A <i>G</i>agatî to a Vai<i>s</i>ya,
 
 10\. Or a Gâyatrî to (persons of) all (castes).
 
@@ -161,7 +161,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^776]. Having sprinkled (water) round the fire from left to right, he stands up and puts a piece of wood on (the fire) with (the texts),
 
-‘To Agni I have brought a piece of wood, to the great _G_âtavedas. As thou, Agni, art inflamed by wood, thus I am inflamed by life, insight, vigour, offspring, cattle, holy lustre.
+‘To Agni I have brought a piece of wood, to the great <i>G</i>âtavedas. As thou, Agni, art inflamed by wood, thus I am inflamed by life, insight, vigour, offspring, cattle, holy lustre.
 
 ‘May my teacher be the father of living sons; may I be full of insight, not forgetful (of what I have learned); may I become full of glory, of splendour, of holy lustre, an enjoyer of food. Svâhâ! <span id="p308">[<sup><small>p. 308</small></sup>]</span>
 
@@ -223,7 +223,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 20\. Or if (the prescribed sort of garment) is not to be had, a cow's hide (should be worn) by all, because to that belongs the first place (among all kinds of garments).
 
-21\. The girdle of a Brâhma<i>n</i>a should be of Mu<i>n</i><i>n</i>a grass,
+21\. The girdle of a Brâhma<i>n</i>a should be of Mu<i>nd</i>a grass,
 
 22\. That of a Kshatriya should be a bowstring,
 
@@ -385,9 +385,9 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 2\. [^811]. He shall eat no flesh and not drink out of an earthen vessel.
 
-3\. [^812]. He shall avoid seeing women, _S_ûdras, dead bodies, black birds, and dogs, and shall not talk to (such beings).
+3\. [^812]. He shall avoid seeing women, <i>S</i>ûdras, dead bodies, black birds, and dogs, and shall not talk to (such beings).
 
-4\. [^813]. He shall not eat funeral food, or food of a <span id="p319">[<sup><small>p. 319</small></sup>]</span> _S_ûdra, or of a woman lying-in (during the period of her impurity).
+4\. [^813]. He shall not eat funeral food, or food of a <span id="p319">[<sup><small>p. 319</small></sup>]</span> <i>S</i>ûdra, or of a woman lying-in (during the period of her impurity).
 
 5\. He shall not void urine or excrements, or spit out in the sun-shine, and shall riot cover himself against the sun.
 
@@ -453,7 +453,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 8\. (Besides) to the Brahman, to the metres in every case,
 
-9\. And to Pra<i>g</i>âpati, to the gods, to the _Ri_shis, to Faith, to Insight, to Sadasaspati, to Anumati.
+9\. And to Pra<i>g</i>âpati, to the gods, to the <i>Ri</i>shis, to Faith, to Insight, to Sadasaspati, to Anumati.
 
 10\. [^822]. The same (oblations are made) when the <span id="p322">[<sup><small>p. 322</small></sup>]</span> observances are imposed (on a student) or given up (by him, after having been kept through the prescribed period of time).
 
@@ -473,7 +473,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 18\. [^825]. After they have eaten (the remainder of the sacrificial food, the teacher) should pronounce the word Om and then repeat the Sâvitrî three times, and the beginnings of the Adhyâyas to (the students) who are seated facing the west; <span id="p323">[<sup><small>p. 323</small></sup>]</span>
 
-19\. The beginnings of the sections belonging to the (different) _Ri_shis, if they are Bahv<i>ri</i><i>ri</i>as (i.e. if they study the <i>Ri</i>g-Veda),
+19\. The beginnings of the sections belonging to the (different) <i>Ri</i>shis, if they are Bahv<i>ri</i><i>ri</i>as (i.e. if they study the <i>Ri</i>g-Veda),
 
 20\. [^826]. The Parvans, if they are _Kh_andogas (i.e. if they study the Sâma-veda),
 
@@ -492,7 +492,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 1\. [^827]. If (a strong) wind is blowing, and on the new-moon day there is an entire interruption of study.
 
-2\. If one has partaken of a _S_râddha dinner, if a meteor falls, or distant thundering is heard, or if the earth quakes, or if fiery apparitions are seen, and when a new season begins, (the study shall be interrupted) until the same time next day.
+2\. If one has partaken of a <i>S</i>râddha dinner, if a meteor falls, or distant thundering is heard, or if the earth quakes, or if fiery apparitions are seen, and when a new season begins, (the study shall be interrupted) until the same time next day.
 
 3\. [^828]. If the Utsarga ceremony has been performed, <span id="p324">[<sup><small>p. 324</small></sup>]</span> if clouds appear, . . . ., (it shall be interrupted) through a period of three nights or till twilight has thrice passed.
 
@@ -521,7 +521,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 1\. [^832]. In (the month) Pausha, under (the Nakshatra) Rohi<i>t</i>î, or at the middle Ash<i>t</i>akâ let them celebrate the conclusion of the study (of the Veda).
 
-2\. Let them go to the brink of water and make water oblations to the gods, the metres, the Vedas, the _Ri_shis, the ancient teachers, the Gandharvas, the other teachers, the year with its divisions, and to their own ancestors and teachers.
+2\. Let them go to the brink of water and make water oblations to the gods, the metres, the Vedas, the <i>Ri</i>shis, the ancient teachers, the Gandharvas, the other teachers, the year with its divisions, and to their own ancestors and teachers.
 
 3\. After having four times quickly recited the Sâvitrî, they should say, ‘We have finished.’
 
@@ -693,7 +693,7 @@ Rising, bearing a shining spear, Indra stands with the Maruts; he stands with th
 
 Her, who rich in horses, rich in cows, rich in delight indefatigably supports living beings, Urvarâ (i.e. the field) who is wreathed with threshing-floors, I invoke at this sacrifice, the firm One. May she not abandon me. Svâhâ!
 
-10\. He makes oblations of the cooked sacrificial food to Sîtâ, Ya<i>g</i>â (the goddess of sacrifice), _S_amâ (the goddess of zealous devotion), Bhûti (the goddess of welfare). <span id="p335">[<sup><small>p. 335</small></sup>]</span>
+10\. He makes oblations of the cooked sacrificial food to Sîtâ, Ya<i>g</i>â (the goddess of sacrifice), <i>S</i>amâ (the goddess of zealous devotion), Bhûti (the goddess of welfare). <span id="p335">[<sup><small>p. 335</small></sup>]</span>
 
 11\. Some say that the giving (of the sacrificial food to the deities) accompanies the Mantras.
 
@@ -713,7 +713,7 @@ Her, who rich in horses, rich in cows, rich in delight indefatigably supports li
 
 19\. When the ceremony is finished, he should feed the Brâhma<i>n</i>as. He should feed the Brâhma<i>n</i>as.
 
-End of the Second Kâ<i>n</i><i>n</i>a.
+End of the Second Kâ<i>nd</i>a.
 
 
 
@@ -745,7 +745,7 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^757]: 301:1 1, 6. I see no reason why we should not take Aditi for the name of the goddess. Comp. Atharva-veda VI, 68, 2: Aditi_h<i> </i>s<i> </i>s_ru vapatu. Â<i> </i>valâyana-G<i> </i>hya I, 17, 7. Stenzler translates: Ungebundener, die Haare schneide.
 
-[^758]: 301:9 The text has, dakshi<i>n</i>a<i>m</i> godânam undati. The commentary on Kâtyâyana V, 2, 14 explains dakshi<i>n</i>a godâna: dakshi<i>n</i>akar<i>n</i>asamîpavartina_m<i>n</i>s<i>n</i>h<i>n</i>s_am. Sâya<i>n</i>a on _S_atapatha Brâhma<i>n</i>a III, 1, 2, 4 (p. 323, ed. Weber): godâna_m<i>n</i>n<i>n</i>s<i>n</i>h_. The Mantra reoccurs in Kâtyâyana, loc. cit.—Savitrâ p. 302 prasûtâ<i>m</i> should not be translated as Prof. Stenzler does: von Sav. erzeugt, but: von Say. angetrieben.
+[^758]: 301:9 The text has, dakshi<i>n</i>a<i>m</i> godânam undati. The commentary on Kâtyâyana V, 2, 14 explains dakshi<i>n</i>a godâna: dakshi<i>n</i>akar<i>n</i>asamîpavartina_m<i>n</i>s<i>n</i>h<i>n</i>s_am. Sâya<i>n</i>a on <i>S</i>atapatha Brâhma<i>n</i>a III, 1, 2, 4 (p. 323, ed. Weber): godâna_m<i>n</i>n<i>n</i>s<i>n</i>h_. The Mantra reoccurs in Kâtyâyana, loc. cit.—Savitrâ p. 302 prasûtâ<i>m</i> should not be translated as Prof. Stenzler does: von Sav. erzeugt, but: von Say. angetrieben.
 
 [^759]: 302:10 This Sûtra is identical with Kâtyâyana-<i>S</i>raut. V, 2, 15.
 
@@ -759,27 +759,27 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^764]: 303:23 See above, Sûtra 12.
 
-[^765]: 304:6 6 seqq. Comp. _S_atapatha Brâhma<i>n</i>a XI, 5, 4.
+[^765]: 304:6 6 seqq. Comp. <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 4.
 
 [^766]: 304:8 The commentators differ as to whether the Â<i> tri</i>ârya or the youth should recite the verse. The comparison of <i>S</i>âṅkhâyana II, 2, 1 would rather tend to show that it is the teacher, but Gobhila II, 10 says expressly: athaina_m<i> tri</i>h<i> tri</i>n<i> tri</i>m<i> tri</i>ñ_<i> tri</i>amekhalâ_m<i> tri</i>k<i> tri</i>m<i> tri</i>ri_tasya goptrîti vâ.
 
 [^767]: 304:9 Rig-veda III, 8, 4. The verse is originally addressed to Agni.
 
-[^768]: 305:13 _S_atapatha Brâhma<i>n</i>a XI, 3, 3, 2: ‘He enters upon a long Sattra, who enters upon Brahma<i>n</i>arya.’ The student, when being initiated, ought to behave, consequently, in the same way as those who receive the inauguration (dîkshâ) for a long Sattra. This is the meaning of this Sûtra. The rules regarding the staff handed over by the Adhvaryu to the Ya<i>n</i>amâna at the dîkshâ ceremony are given by Kâtyâyana, <i>S</i>rauta-sûtra VII, 4, 1-4.
+[^768]: 305:13 <i>S</i>atapatha Brâhma<i>n</i>a XI, 3, 3, 2: ‘He enters upon a long Sattra, who enters upon Brahma<i>n</i>arya.’ The student, when being initiated, ought to behave, consequently, in the same way as those who receive the inauguration (dîkshâ) for a long Sattra. This is the meaning of this Sûtra. The rules regarding the staff handed over by the Adhvaryu to the Ya<i>n</i>amâna at the dîkshâ ceremony are given by Kâtyâyana, <i>S</i>rauta-sûtra VII, 4, 1-4.
 
 [^769]: 305:15 See above, I, 8, 7.
 
 [^770]: 305:16 See above, I, 8, 8.
 
-[^771]: 305:17 17 seqq. Comp. _S_atapatha Brâhma<i>n</i>a XI, 5, 4, 1 seqq.
+[^771]: 305:17 17 seqq. Comp. <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 4, 1 seqq.
 
-[^772]: 305:20 The words ‘I am thy teacher’ are omitted in one of Professor Stenzler's MSS. and in his translation. But they are given in the parallel passage of the _S_atapatha Brâhma<i>n</i>a. The p. 306 parallel passage in <i>S</i>âṅkhâyana (G<i>n</i>hya II, 3, 1) also runs thus: Agnir â<i>n</i>âryas tava, asâv, aha_m<i>n</i>k_obhau.
+[^772]: 305:20 The words ‘I am thy teacher’ are omitted in one of Professor Stenzler's MSS. and in his translation. But they are given in the parallel passage of the <i>S</i>atapatha Brâhma<i>n</i>a. The p. 306 parallel passage in <i>S</i>âṅkhâyana (G<i>n</i>hya II, 3, 1) also runs thus: Agnir â<i>n</i>âryas tava, asâv, aha_m<i>n</i>k_obhau.
 
-[^773]: 306:1 3, 1 seqq. Comp. the corresponding section of the _S_atapatha Brâhma<i>n</i>a XI, 5, 4, 6 seqq.
+[^773]: 306:1 3, 1 seqq. Comp. the corresponding section of the <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 4, 6 seqq.
 
-[^774]: 306:4 _S_atapatha Brâhma<i>n</i>a l.l. § 14.
+[^774]: 306:4 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 14.
 
-[^775]: 307:7 _S_atapatha Brâhma<i>n</i>a l.l. § 12.
+[^775]: 307:7 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 12.
 
 [^776]: 307:2 4, 2. Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya I, 22, 21.
 
@@ -835,7 +835,7 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^802]: 317:3 7, 3. Comp. the similar rule given in the Buddhist Vinaya, Mahâvagga I, 56.
 
-[^803]: 317:4 _S_atapatha Brâhma<i>n</i>a VI, 1, 1, 15.
+[^803]: 317:4 <i>S</i>atapatha Brâhma<i>n</i>a VI, 1, 1, 15.
 
 [^804]: 317:5 If no accident happens that makes his going to another village necessary.
 
@@ -851,11 +851,11 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^810]: 318:17 Gautama IX, 4; Âpastamba I, 30, 10.
 
-[^811]: 318:1 8, 1. The words of this Sûtra are repeated from _S_atapatha Brâhma<i>n</i>a XIV, 1, 1, 28 (only for _k<i>n</i>k_aret).
+[^811]: 318:1 8, 1. The words of this Sûtra are repeated from <i>S</i>atapatha Brâhma<i>n</i>a XIV, 1, 1, 28 (only for _k<i>n</i>k_aret).
 
-[^812]: 318:2 _S_atapatha Brâhma<i>n</i>a l.l. § 30.
+[^812]: 318:2 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 30.
 
-[^813]: 318:3 _S_atapatha Brâhma<i>n</i>a l.l. § 31. Black birds, according to the commentators, mean crows.
+[^813]: 318:3 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 31. Black birds, according to the commentators, mean crows.
 
 [^814]: 318:4 Funeral food is such food as described below, III, 10, 26.
 
@@ -867,15 +867,15 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^818]: 319:3 Compare above, I, 12, 2.
 
-[^819]: 320:11 What I have translated 'the Brâhma<i>n</i>a's portion' is agra. See on this word the remark of Nîlaka<i>n</i><i>n</i>a quoted by Böhtlingk-Roth s_v_. agrahâra: agra_m<i>n</i>n<i>n</i>g<i>n</i>m_, tadartha_m<i>n</i>g<i>n</i>ri<i>n</i>h<i>n</i>h_. According to different commentators and lexicographers one Agra is equal to four or to sixteen mouthfuls of food.
+[^819]: 320:11 What I have translated 'the Brâhma<i>n</i>a's portion' is agra. See on this word the remark of Nîlaka<i>nd</i>a quoted by Böhtlingk-Roth s_v_. agrahâra: agra_m<i>n</i>n<i>n</i>g<i>n</i>m_, tadartha_m<i>n</i>g<i>n</i>ri<i>n</i>h<i>n</i>h_. According to different commentators and lexicographers one Agra is equal to four or to sixteen mouthfuls of food.
 
 [^820]: 320:15 I cannot indicate any more than Professor Stenzler could, where the passage here quoted occurs in a Brâhma<i>n</i>a.
 
-[^821]: 321:16 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 17, 2; _S_atapatha Brâhma<i>ri</i>a XI, 5, 6, 2.
+[^821]: 321:16 Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 17, 2; <i>S</i>atapatha Brâhma<i>ri</i>a XI, 5, 6, 2.
 
 [^822]: 321:2 10, 2. Comp. Â<i>ri</i>valâyana-G<i>ri</i>hya III, 5, 2. 3 and my note.
 
-[^823]: 321:10 On the different vratas (observances) connected with the p. 322 study of the Veda, such as the Sukriya-vrata, the _S_âkvara-vrata, &c., comp. especially <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 11. 12 and the notes there.
+[^823]: 321:10 On the different vratas (observances) connected with the p. 322 study of the Veda, such as the Sukriya-vrata, the <i>S</i>âkvara-vrata, &c., comp. especially <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 11. 12 and the notes there.
 
 [^824]: 322:14 See above, chap. 4.
 
@@ -929,15 +929,15 @@ End of the Second Kâ<i>n</i><i>n</i>a.
 
 [^849]: 331:2 15, 2. After these Â<i>g</i>ya oblations follows the chief oblation of the whole sacrifice, the oblation of milk-rice to Indra. In one of Professor Stenzler's MSS. there is a special Sûtra inserted after Sûtra 2, ‘Of the cooked food he makes an oblation with (the formula), “To Indra svâhâ.”’ I do not, however, think it right to receive this Sûtra into the text, as the other MSS. do not support it, and the commentators did not find it in the text which they read.
 
-[^850]: 331:3 Professor Stenzler's translation, ‘Die Maruts essen kein Opfer,’ seems to me not quite exact. I should prefer to say, ‘Die Maruts essen Nicht-Opfer.’ This passage, taken from _S_atapatha Brâhma<i>n</i>a IV, 5, 2, 16, is quoted as supporting the rule that a Bali offering should be made to the Maruts; for in the technical language the term ahuta is applied to Bali offerings (<i>S</i>âṅkhâyana-G<i>n</i>hya I, 10, 7, hutoऽgnihotrahomena, ahuto balikarma<i>n</i>â).
+[^850]: 331:3 Professor Stenzler's translation, ‘Die Maruts essen kein Opfer,’ seems to me not quite exact. I should prefer to say, ‘Die Maruts essen Nicht-Opfer.’ This passage, taken from <i>S</i>atapatha Brâhma<i>n</i>a IV, 5, 2, 16, is quoted as supporting the rule that a Bali offering should be made to the Maruts; for in the technical language the term ahuta is applied to Bali offerings (<i>S</i>âṅkhâyana-G<i>n</i>hya I, 10, 7, hutoऽgnihotrahomena, ahuto balikarma<i>n</i>â).
 
-[^851]: 331:4 When Indra called them to his help against V<i>ri</i>tra. _S_atapatha Brâhma<i>ri</i>a IV, 3, 3, 6.
+[^851]: 331:4 When Indra called them to his help against V<i>ri</i>tra. <i>S</i>atapatha Brâhma<i>ri</i>a IV, 3, 3, 6.
 
 [^852]: 332:5 This Sûtra is identical with the last words of Kâty. XVIII, 4, 23.
 
 [^853]: 332:6 This is the first part of Vâ_g_. Sa<i>m</i>h. XVII, 86.
 
-[^854]: 332:8 _S_atapatha Brâhma<i>n</i>a IX, 3, I, 26. There it is said that _s<i>n</i>g<i>n</i>s_ (‘brilliantly resplendent’) &c. (the words used in Vâ_g_. Sa<i>n</i>h. XVII, 80) are names of the Maruts.
+[^854]: 332:8 <i>S</i>atapatha Brâhma<i>n</i>a IX, 3, I, 26. There it is said that _s<i>n</i>g<i>n</i>s_ (‘brilliantly resplendent’) &c. (the words used in Vâ_g_. Sa<i>n</i>h. XVII, 80) are names of the Maruts.
 
 [^855]: 332:9 This Sûtra is identical with Kâty. XVIII, 4, 25.
 

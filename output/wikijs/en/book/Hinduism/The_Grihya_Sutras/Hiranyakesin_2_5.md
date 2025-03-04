@@ -52,13 +52,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. Cutting off (the Avadânas destined for the Svish<i>t</i>ak<i>t</i>t oblation) together from the cake and from the (other) food and mixing them with clarified butter, he makes an oblation thereof with (the formula), ‘To Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! Adoration!’
 
-7\. [^687] That (cake) with ghee and honey and with the food (mentioned in Sûtras 5. 6) he touches in the way prescribed for the _S_râddha ceremony and puts <span id="p234">[<sup><small>p. 234</small></sup>]</span> down lumps (of it) according to the ritual of the Pi<i>n</i><i>n</i>a offerings.
+7\. [^687] That (cake) with ghee and honey and with the food (mentioned in Sûtras 5. 6) he touches in the way prescribed for the <i>S</i>râddha ceremony and puts <span id="p234">[<sup><small>p. 234</small></sup>]</span> down lumps (of it) according to the ritual of the Pi<i>nd</i>a offerings.
 
 8\. (The remains of) that (cake, &c.) he serves to learned Brâhma<i>n</i>as.
 
-9\. He gives them food and presents as at the _S_râddha ceremony.
+9\. He gives them food and presents as at the <i>S</i>râddha ceremony.
 
-10\. [^688] The known (rites) down to the pouring out of the handfuls of water (are performed here) as at the monthly (_S_râddha).
+10\. [^688] The known (rites) down to the pouring out of the handfuls of water (are performed here) as at the monthly (<i>S</i>râddha).
 
 
 ## PA<i>T</i>ALA 5, SECTION 15.
@@ -75,7 +75,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. With the Vapâ<i>s</i>rapa<i>s</i>î of Udumbara wood he roasts the omentum; with spits of Udumbara wood the other (parts mentioned in Sûtra 5) separately.
 
-7\. After he has roasted them, and has sprinkled Â<i>g</i>ya over them, and has taken them from the fire, he sprinkles water round (the fire) from right to left, puts a piece of Udumbara wood on (the fire), and sacrifices with a Darvi spoon of Udumbara wood the omentum, spreading under and sprinkling over it (Â<i>g</i>ya), with (the verse), ‘Carry the omentum, _G_âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may their wishes with all their desires be fulfilled. Svadhâ! Adoration!’
+7\. After he has roasted them, and has sprinkled Â<i>g</i>ya over them, and has taken them from the fire, he sprinkles water round (the fire) from right to left, puts a piece of Udumbara wood on (the fire), and sacrifices with a Darvi spoon of Udumbara wood the omentum, spreading under and sprinkling over it (Â<i>g</i>ya), with (the verse), ‘Carry the omentum, <i>G</i>âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may their wishes with all their desires be fulfilled. Svadhâ! Adoration!’
 
 8\. [^692] He sacrifices the omentum entirely. The other parts (Sûtra 5) he should offer to the Brâhma<i>n</i>as and should feed them (with those parts of the cow).
 
@@ -87,7 +87,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 10\. After he has sacrificed, he cuts off (the Avadânas) from the food and from the pieces of meat, and mixing them with clarified butter he makes an oblation with (the formula), ‘To Agni Kavyavâhana Svish<i>t</i>ak<i>t</i>t svadhâ! Adoration!’
 
-11\. [^693] The known (rites) down to the pouring out of the handfuls of water (are performed here) as at the monthly (_S_râddha).
+11\. [^693] The known (rites) down to the pouring out of the handfuls of water (are performed here) as at the monthly (<i>S</i>râddha).
 
 12\. [^694] The gifts of food and presents, however, are not necessary here.
 

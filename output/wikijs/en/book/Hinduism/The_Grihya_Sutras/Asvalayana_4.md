@@ -59,7 +59,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 11\. Of the depth of one Vitasti (span).
 
-12\. [12](sbe29147.htm#fn578). The cemetery should be free from all sides.
+12\. [12](#fn578). The cemetery should be free from all sides.
 
 13\. It should be fertile in herbs.
 
@@ -98,7 +98,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. Then follow the relations (of the dead person), wearing their sacrificial cords below (round their body), with the hair-locks untied, the older fines first, the younger ones last.
 
-10\. [^581]. When they have thus arrived at the place, the performer (of the rites) walks three times round the spot with his left side turned towards it, and with a _S_amî branch sprinkles water on it, with (the verse), ‘Go away, withdraw, and depart from here’ (Rig-veda X, 14, 9).
+10\. [^581]. When they have thus arrived at the place, the performer (of the rites) walks three times round the spot with his left side turned towards it, and with a <i>S</i>amî branch sprinkles water on it, with (the verse), ‘Go away, withdraw, and depart from here’ (Rig-veda X, 14, 9).
 
 11\. To the south-east, on an elevated corner (of that place), he places the Âhavanîya fire,
 
@@ -118,11 +118,11 @@ dateCreated: 2025-1-14T23:38:47Z
 
 18\. [^585]. Her brother-in-law, being a representative of her husband, or a pupil (of her husband), or an aged servant, should cause her to rise (from that place) with (the verse), ‘Arise, O wife, to the world of life’ (Rig-veda X, 18, 8).
 
-19\. [^586]. The performer (of the rites) should murmur (that verse), if a _S_ûdra (makes her rise from the pile).
+19\. [^586]. The performer (of the rites) should murmur (that verse), if a <i>S</i>ûdra (makes her rise from the pile).
 
 20\. With (the verse), ‘Taking the bow out of the hand of the deceased’ (Rig-veda X, 18, 9), (he takes away) the bow.
 
-21\. It has been stated (what is to be done) in case a _S_ûdra (should perform this act).
+21\. It has been stated (what is to be done) in case a <i>S</i>ûdra (should perform this act).
 
 22\. [^587]. Having bent the bow, he should, before the piling up (of the things mentioned below, which are put on the dead body) is done, break it to pieces, and throw it (on the pile).
 
@@ -137,7 +137,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. [^588]. He should then put the following (sacrificial) implements (on the dead body).
 
-2\. Into the right hand the (spoon called) _G_uhû.
+2\. Into the right hand the (spoon called) <i>G</i>uhû.
 
 3\. Into the left the (other spoon called) Upabh<i>ri</i>t.
 
@@ -159,7 +159,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1
 
-12\. On his secret parts the (staff called) _S_amyâ.</span>
+12\. On his secret parts the (staff called) <i>S</i>amyâ.</span>
 
 1
 
@@ -216,7 +216,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 7\. Being burnt by a person who knows this, he goes to the heaven-world together with the smoke (of the funeral pile)—thus it is understood (in the <i>S</i>ruti).
 
-8\. [^602]. To the north-east of the Âhavanîya fire he should have a knee-deep pit dug and should have an Avakâ, i.e. (the water-plant called) _S_îpâla put down into it. From that (pit) he (i.e. the deceased) goes out and together with the smoke he goes up to the heaven-world—thus it is understood (in the <i>S</i>ruti).
+8\. [^602]. To the north-east of the Âhavanîya fire he should have a knee-deep pit dug and should have an Avakâ, i.e. (the water-plant called) <i>S</i>îpâla put down into it. From that (pit) he (i.e. the deceased) goes out and together with the smoke he goes up to the heaven-world—thus it is understood (in the <i>S</i>ruti).
 
 9\. After he has recited (the verse), ‘These living ones have separated from the dead’ (Rig-veda X, 18, 3), they turn round from right to left and go away without looking back.
 
@@ -238,15 +238,15 @@ dateCreated: 2025-1-14T23:38:47Z
 
 17\. [^606]. Let them optionally for twelve nights avoid the distribution of gifts and the study (of Vedic texts), if one of the chief Gurus (has died).
 
-18\. [^607]. Ten days after (the death of) Sapi<i>n</i><i>n</i>as, <span id="p245">[<sup><small>p. 245</small></sup>]</span>
+18\. [^607]. Ten days after (the death of) Sapi<i>nd</i>as, <span id="p245">[<sup><small>p. 245</small></sup>]</span>
 
-19\. And of a Guru who is no Sapi<i>n</i><i>n</i>a,
+19\. And of a Guru who is no Sapi<i>nd</i>a,
 
 20\. And of unmarried female relations.
 
 21\. [^608]. Three nights after (the death of) other teachers,
 
-22\. And of a relation who is no Sapi<i>n</i><i>n</i>a,
+22\. And of a relation who is no Sapi<i>nd</i>a,
 
 23\. And of married female relations,
 
@@ -270,7 +270,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^611]. Aged persons of an odd number, not men and women together (gather the bones).
 
-4\. [^612]. The performer of the ceremony walks three times round the spot with his left side turned towards <span id="p246">[<sup><small>p. 246</small></sup>]</span> it, and sprinkles on it with a _S_amî branch milk mixed with water, with the verse, ‘O cool one, O thou that art full of coolness’ (Rig-veda X, 16, 14).
+4\. [^612]. The performer of the ceremony walks three times round the spot with his left side turned towards <span id="p246">[<sup><small>p. 246</small></sup>]</span> it, and sprinkles on it with a <i>S</i>amî branch milk mixed with water, with the verse, ‘O cool one, O thou that art full of coolness’ (Rig-veda X, 16, 14).
 
 5\. With the thumb and the fourth finger they should put each single bone (into the, urn) without making a noise,
 
@@ -282,7 +282,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. After he has done so, (he should repeat) the following (verse).
 
-10\. [^614]. Having covered (the urn) with a lid with (the verse), ‘I fasten to thee’ (Rig-veda X, 18, 13), they then should go away without looking back, should bathe in water, and perform a _S_râddha for the deceased.
+10\. [^614]. Having covered (the urn) with a lid with (the verse), ‘I fasten to thee’ (Rig-veda X, 18, 13), they then should go away without looking back, should bathe in water, and perform a <i>S</i>râddha for the deceased.
 
 
 
@@ -297,9 +297,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 3\. [^616]. Having thrown that (fire) down at a place where four roads meet or somewhere else, they walk round it three times, turning their left sides towards it, beating their left thighs with their left hands.
 
-4\. They then should return home without looking back, bathe in water, have their hair, their beards the hair of their bodies, and their nails cut, and furnish themselves with new jars, pots, vessels for rinsing the mouth, wreathed with garlands of _S_amî flowers, with fuel of _S_amî wood, with two pieces of _S_amî wood for kindling fire, and with branches to be laid round the fire, with bull's dung and a bull's hide, fresh butter, a stone, and as many bunches of Ku<i>s</i>a grass as there are young women (in the house).
+4\. They then should return home without looking back, bathe in water, have their hair, their beards the hair of their bodies, and their nails cut, and furnish themselves with new jars, pots, vessels for rinsing the mouth, wreathed with garlands of <i>S</i>amî flowers, with fuel of <i>S</i>amî wood, with two pieces of <i>S</i>amî wood for kindling fire, and with branches to be laid round the fire, with bull's dung and a bull's hide, fresh butter, a stone, and as many bunches of Ku<i>s</i>a grass as there are young women (in the house).
 
-5\. [^617]. At the time of the Agni(-hotra) he should kindle fire with the hemistich, ‘Here may this other _G_âtavedas’ (Rig-veda X, 16, 9). <span id="p248">[<sup><small>p. 248</small></sup>]</span>
+5\. [^617]. At the time of the Agni(-hotra) he should kindle fire with the hemistich, ‘Here may this other <i>G</i>âtavedas’ (Rig-veda X, 16, 9). <span id="p248">[<sup><small>p. 248</small></sup>]</span>
 
 6\. Keeping that (fire) burning, they sit till the silence of the night, repeating the tales of the aged, and getting stories of auspicious contents, Itihâsas and Purâ<i>n</i>as, told to them.
 
@@ -336,7 +336,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 5
 
-1\. [^622]. Now at a _S_râddha ceremony, at that which is celebrated on the Parvan day, or for the attainment of special wishes, or at the Âbhyudayika _S_râddha (i.e. the _S_râddha celebrated when some good luck has happened), or at the Ekoddish<i>t</i>a _S<i>t</i>S_râddha directed to a single dead person)—
+1\. [^622]. Now at a <i>S</i>râddha ceremony, at that which is celebrated on the Parvan day, or for the attainment of special wishes, or at the Âbhyudayika <i>S</i>râddha (i.e. the <i>S</i>râddha celebrated when some good luck has happened), or at the Ekoddish<i>t</i>a _S<i>t</i>S_râddha directed to a single dead person)—
 
 2\. He causes Brâhma<i>n</i>as who are endowed with learning, moral character, and correct conduct, or with one of these (characteristics), who have been invited in time, who have taken a bath, washed their feet, and sipped water, to sit down, as representatives of the Fathers, with their faces turned to the north, one for each one of the Fathers, or two for each, or three for each.
 
@@ -344,9 +344,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. But in no case one (Brâhma<i>n</i>a) for all (the fathers). <span id="p251">[<sup><small>p. 251</small></sup>]</span>
 
-5 [^623]. Optionally (he may invite only one Brâhma<i>n</i>a) except at the first (_S_râddha).
+5 [^623]. Optionally (he may invite only one Brâhma<i>n</i>a) except at the first (<i>S</i>râddha).
 
-6\. [^624]. By (the exposition of) the Pi<i>n</i><i>n</i>a sacrifice (the corresponding rules) have been declared (for the _S_râddha ceremonies also).
+6\. [^624]. By (the exposition of) the Pi<i>nd</i>a sacrifice (the corresponding rules) have been declared (for the <i>S</i>râddha ceremonies also).
 
 7\. Having given water (to the Brâhma<i>n</i>as),
 
@@ -368,11 +368,11 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 2, he should recite the verse, ‘The celestial waters which have been produced on the earth, the aerial waters and the waters which are terrestrial, the gold-coloured ones, apt for sacrifice, may these waters bring us luck and be kind to us.’ Pouring together what has been left (in the three Arghya vessels) he moistens his face with that water, if he desires that a son should be born to him.
 
-16\. [^630]. ‘He should not take up the first vessel, into which the Arghya water for the Fathers has been poured. Hidden the Fathers dwell therein: thus _S_aunaka has said.’
+16\. [^630]. ‘He should not take up the first vessel, into which the Arghya water for the Fathers has been poured. Hidden the Fathers dwell therein: thus <i>S</i>aunaka has said.’
 
 17\. [^631]. In that moment the gifts of perfumes, garlands, incense, lights, and clothes are offered (to the Brâhma<i>n</i>as).
 
-18\. Having taken some food (of the Sthâlîpâka prepared for the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a), and having besmeared it with ghee, he asks (the Brâhma<i>n</i>as) for their permission by saying, ‘I shall offer it in the fire,’ or, ‘I will sacrifice my offering in the fire,’ or, ‘I will offer it in the fire.’
+18\. Having taken some food (of the Sthâlîpâka prepared for the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a), and having besmeared it with ghee, he asks (the Brâhma<i>n</i>as) for their permission by saying, ‘I shall offer it in the fire,’ or, ‘I will sacrifice my offering in the fire,’ or, ‘I will offer it in the fire.’
 
 19\. The permission (is given in the words), ‘It may be offered,’ or, ‘Sacrifice thy offering,’ or, Offer it.’
 
@@ -446,7 +446,7 @@ And having recited over (that water the verse), ‘For luck and help the divine 
 
 18\. Let him sacrifice the omentum with the Pâtrî or with a leaf—thus it is understood (in the <i>S</i>ruti)—
 
-19\. With (the formulas), ‘To Hara, M<i>ri</i><i>ri</i>a, _S_arva, _S_iva, Bhava, Mahâdeva, Ugra, Bhîma, Pa<i>ri</i>upati, Rudra, _S_aṅkara, Î<i>ri</i>âna svâhâ!’
+19\. With (the formulas), ‘To Hara, M<i>ri</i><i>ri</i>a, <i>S</i>arva, <i>S</i>iva, Bhava, Mahâdeva, Ugra, Bhîma, Pa<i>ri</i>upati, Rudra, <i>S</i>aṅkara, Î<i>ri</i>âna svâhâ!’
 
 20\. Or with the last six (parts of that formula),
 
@@ -490,7 +490,7 @@ Then the serpents take whatever has flowed down there of blood or of the content
 
 38\. Then he will not be without cattle—thus it is understood (in the <i>S</i>ruti).
 
-39\. [^650]. Muttering the _S_antâtîya hymn, he should go to his house.
+39\. [^650]. Muttering the <i>S</i>antâtîya hymn, he should go to his house.
 
 40\. If disease befalls his cattle, he should sacrifice to that same god in the midst of his cow-stable—
 
@@ -498,9 +498,9 @@ Then the serpents take whatever has flowed down there of blood or of the content
 
 42\. Having thrown the sacrificial grass and the Â<i>g</i>ya into the fire, he should lead his cows through the smoke.
 
-43\. Murmuring the _S_antâtîya hymn, he should go in the midst of his cattle.
+43\. Murmuring the <i>S</i>antâtîya hymn, he should go in the midst of his cattle.
 
-44\. Adoration to _S_aunaka! Adoration to _S_aunaka!
+44\. Adoration to <i>S</i>aunaka! Adoration to <i>S</i>aunaka!
 
 End of the Fourth Adhyâya.
 
@@ -536,11 +536,13 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^570]: 236:1 1, 1. Comp. <i>S</i>rauta-sûtra VI, 9, 1. The funeral rites according to the G<i>ri</i>hya-sûtras have been treated of by Prof. Max Müller, Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. ix.
 
-[^571]: 236:3 I.e. longing for the village. I here differ from Prof. Stenzler's translation, ‘Indem sie, um nach dem Dorfe zu kommen, ihm Gutes wünschen.’ Prof. Stenzler here follows Nârâya<i>n</i>a, who has the following note, grâmam âgantum i<i>n</i><i>n</i>antoऽgnaya enam âhitâgnim â<i>n</i>a<i>n</i>sante, ayam agado bhaved iti.
+[^571]: 236:3 I.e. longing for the village. I here differ from Prof. Stenzler's translation, ‘Indem sie, um nach dem Dorfe zu kommen, ihm Gutes wünschen.’ Prof. Stenzler here follows Nârâya<i>n</i>a, who has the following note, grâmam âgantum i<i>nd</i>antoऽgnaya enam âhitâgnim â<i>n</i>a<i>n</i>sante, ayam agado bhaved iti.
 
 [^572]: 236:4 Comp. <i>S</i>rauta-sûtra VI, 9, 7.
 
 [^573]: 236:5 <i>S</i>rauta-sûtra VI, 10, 1.
+
+[^574]: 237:12 Nârâya<i>n</i>a: By the word _s<i>n</i>s<i>n</i>s<i>n</i>s_ânas are designated here, because below (Sûtra 15) a distinction is added (to the word _s<i>n</i>s_âna), in the words, ‘This is a characteristic required for the _s<i>n</i>s_âna where the body is to be burned.’ Thus the place where the body is burned, and the place where the gathered bones are deposited, both are called _s<i>n</i>s_âna.
 
 [^575]: 237:14 See above, II, 7, 5.
 
@@ -552,8 +554,6 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^579]: 237:18 ‘Here’ means, at a ceremony directed to the Manes. Nârâya<i>n</i>a.
 
-[^574]: 237:12 Nârâya<i>n</i>a: By the word _s<i>n</i>s<i>n</i>s<i>n</i>s_ânas are designated here, because below (Sûtra 15) a distinction is added (to the word _s<i>n</i>s_âna), in the words, ‘This is a characteristic required for the _s<i>n</i>s_âna where the body is to be burned.’ Thus the place where the body is burned, and the place where the gathered bones are deposited, both are called _s<i>n</i>s_âna.
-
 [^580]: 237:1 2, 1. In the direction stated above, chap. 1, 6.
 
 [^581]: 238:4 See chap. 3, 20-25.
@@ -562,13 +562,13 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^583]: 238:12-13 12, 13. The words, ‘on an elevated corner’ (Sûtra 11) have to be supplied.
 
-[^584]: 238:14 As to the pronoun enam, which refers, with an irregular p. 239 construction, to the dead person, comp _S_atapatha Brâhma<i>n</i>a XII, 5, 2, 7.
+[^584]: 238:14 As to the pronoun enam, which refers, with an irregular p. 239 construction, to the dead person, comp <i>S</i>atapatha Brâhma<i>n</i>a XII, 5, 2, 7.
 
 [^585]: 239:16 The wife is made to lie down on the pile.
 
 [^586]: 239:18 Possibly the words devara_h<i> and patisthânîya</i>h_ refer to two different persons, so that we should have to translate, ‘Her brother-in-law, (or some other) representative of her husband, &c.’
 
-[^587]: 239:19 This refers to the case of the aged servant. The word for which we have put _S_ûdra here and in Sûtra 21, is v<i>ri</i>shala.
+[^587]: 239:19 This refers to the case of the aged servant. The word for which we have put <i>S</i>ûdra here and in Sûtra 21, is v<i>ri</i>shala.
 
 [^588]: 239:22 See Sûtra 19.
 
@@ -578,7 +578,7 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^591]: 241:17 Nârâya<i>n</i>a explains âse<i>n</i>anavanti by bilavanti. On p<i>n</i>shadâ<i>n</i>ya (‘sprinkled butter’) comp. the two last Sûtras of the first chapter.
 
-[^592]: 241:19 The statement in _S_atapatha Brâhma<i>n</i>a XII, 5, 2, 14 is somewhat different.
+[^592]: 241:19 The statement in <i>S</i>atapatha Brâhma<i>n</i>a XII, 5, 2, 14 is somewhat different.
 
 [^593]: 241:20 Anustara<i>n</i>yâ vapâm. See chap. 2, 4.
 
@@ -588,15 +588,15 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^596]: 242:25 Comp. Kâtyâyana XXV, 7, 35.
 
-[^597]: 242:27 He who is born out of the deceased, is Agni. See _S_atapatha Brâhma<i>n</i>a II, 3, 3, 5; and also XII, 5, 2, 15.
+[^597]: 242:27 He who is born out of the deceased, is Agni. See <i>S</i>atapatha Brâhma<i>n</i>a II, 3, 3, 5; and also XII, 5, 2, 15.
 
-[^598]: 242:2 4, 2. _S_atapatha Brâhma<i>n</i>a XII, 5, 2, 10.
+[^598]: 242:2 4, 2. <i>S</i>atapatha Brâhma<i>n</i>a XII, 5, 2, 10.
 
-[^599]: 242:3 _S_atapatha Brâhma<i>n</i>a l.l. § 9.
+[^599]: 242:3 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 9.
 
-[^600]: 243:4 _S_atapatha Brâhma<i>n</i>a l.l. § 11.
+[^600]: 243:4 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 11.
 
-[^601]: 243:5 _S_atapatha Brâhma<i>n</i>a l.l. § 12.
+[^601]: 243:5 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 12.
 
 [^602]: 243:6 ‘The same texts’ means that the texts indicated in the <i>S</i>rauta-sûtra VI, 10, 19 (twenty-four verses taken from the hymns X, 14, 16, 17, 18, 154) have to be recited.
 
@@ -610,7 +610,7 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^607]: 244:17 ‘Father and mother and the teacher who, after having performed the Upanayana for him, has taught him the whole Veda, are the chief Gurus. When these have died, they should avoid giving gifts and studying the Veda either for twelve nights, or for ten nights, this rule standing in correlation with the following one.’ Nârâya<i>n</i>a.
 
-[^608]: 244:18 The Sapi<i>n</i><i>n</i>a relationship is generally defined as the relationship within six degrees, though the statements in the different p. 245 texts do not exactly agree. See Âpastamba II, 15, -2; Manu V, 60; Gautama XIV, 13 (with Prof. Bühler's note, Sacred Books, vol. ii, p. 247, &c.).
+[^608]: 244:18 The Sapi<i>nd</i>a relationship is generally defined as the relationship within six degrees, though the statements in the different p. 245 texts do not exactly agree. See Âpastamba II, 15, -2; Manu V, 60; Gautama XIV, 13 (with Prof. Bühler's note, Sacred Books, vol. ii, p. 247, &c.).
 
 [^609]: 245:21 Comp. Sûtras 17, 19.
 
@@ -624,13 +624,13 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^614]: 246:7 Nârâya<i>n</i>a explains pavana by <i>s</i>ûrpa. He says that the ‘performer’ (kart<i>ri</i>) repeats this and the following texts.
 
-[^615]: 246:10 They should give a _S_râddha to the deceased exclusively, according to the Ekoddish<i>t</i>a rite.' Nârâya<i>t</i>a.
+[^615]: 246:10 They should give a <i>S</i>râddha to the deceased exclusively, according to the Ekoddish<i>t</i>a rite.' Nârâya<i>t</i>a.
 
 [^616]: 246:2 6, 2. According to Nârâya<i>n</i>a the fire means here not the sacred domestic fire, but a common kitchen fire. I doubt whether the p. 247 commentator is right. The ceremonies described in the following Sûtras seem to point rather to a renewal of the sacred G<i>n</i>hya fire, the old one having proved unlucky to the sacrificer. In the same way, in the <i>S</i>rauta ritual, a sacrificer who, after having performed the Âdhâna, has bad luck, performs the Punarâdheya.
 
 [^617]: 247:3 Comp. Kâtyâyana-<i>S</i>rauta-sûtra V, 10, r5.
 
-[^618]: 247:5 The text has agnivelâyâm, which Nârâya<i>n</i>a explains by agnihotravihara<i>n</i>akâle aparâhne. He states that the fire should be produced by attrition of two new kindling woods (ara<i>n</i>i), mentioned in Sûtra 4. The fire thus kindled is to be used, he says, as a kitchen-fire. Herein he seems to me to have misunderstood the meaning of the ceremony; see the note on Sûtra 2. The hemistich quoted in this Sûtra (which is the second half of the same verse of which the first half is prescribed in Sûtra 2) clearly points to the sacred quality of the fire in question; it runs thus, ‘Here may this other _G_âtavedas carry the offerings to the gods, the knowing one.’
+[^618]: 247:5 The text has agnivelâyâm, which Nârâya<i>n</i>a explains by agnihotravihara<i>n</i>akâle aparâhne. He states that the fire should be produced by attrition of two new kindling woods (ara<i>n</i>i), mentioned in Sûtra 4. The fire thus kindled is to be used, he says, as a kitchen-fire. Herein he seems to me to have misunderstood the meaning of the ceremony; see the note on Sûtra 2. The hemistich quoted in this Sûtra (which is the second half of the same verse of which the first half is prescribed in Sûtra 2) clearly points to the sacred quality of the fire in question; it runs thus, ‘Here may this other <i>G</i>âtavedas carry the offerings to the gods, the knowing one.’
 
 [^619]: 248:7 The person who pours out the water is, as Nârâya<i>n</i>a says, the kart_ri_, i.e. the performer of the whole ceremony. The word cannot be translated, as Prof. Stenzler does, der Bestatter, no funeral ceremonies being here treated of.
 
@@ -640,9 +640,9 @@ End of the Â<i>ri</i>valâyana-G<i>ri</i>hya-sûtra.
 
 [^622]: 249:18 See above, II, 3, 13.
 
-[^623]: 250:1 7, 1. Comp. on the _S<i>râddha ceremonies in general the note on </i>S_âṅkhâyana-G<i>râddha ceremonies in general the note on </i>hya IV, 1, 1, and the quotations given there. The Pârva<i>râddha ceremonies in general the note on </i>a _S_râddha, which is celebrated on the new-moon day, is treated of by <i>S</i>âṅkhâyana IV, 1, the Âbhyudayika _S_râddha, IV, 4, the Ekoddish<i>râddha ceremonies in general the note on </i>a _S_râddha, IV, 2.
+[^623]: 250:1 7, 1. Comp. on the _S<i>râddha ceremonies in general the note on </i>S_âṅkhâyana-G<i>râddha ceremonies in general the note on </i>hya IV, 1, 1, and the quotations given there. The Pârva<i>râddha ceremonies in general the note on </i>a <i>S</i>râddha, which is celebrated on the new-moon day, is treated of by <i>S</i>âṅkhâyana IV, 1, the Âbhyudayika <i>S</i>râddha, IV, 4, the Ekoddish<i>râddha ceremonies in general the note on </i>a <i>S</i>râddha, IV, 2.
 
-[^624]: 251:5 Anâdye. Of the different interpretations of this word which Nârâya<i>n</i>a gives, it may suffice here to quote two. The first _S_râddha may either mean the Pârva<i>n</i>a _S_râddha, because this stands first among the different kinds of _S_râddha ceremonies enumerated in Sûtra 1; or it may mean the Sapi<i>n</i><i>n</i>îkara<i>n</i>a (see Sâṅkhâyana IV, 3), for this is the first occasion on which a dead person receives _S_râddha oblations together with two others of the Fathers.
+[^624]: 251:5 Anâdye. Of the different interpretations of this word which Nârâya<i>n</i>a gives, it may suffice here to quote two. The first <i>S</i>râddha may either mean the Pârva<i>n</i>a <i>S</i>râddha, because this stands first among the different kinds of <i>S</i>râddha ceremonies enumerated in Sûtra 1; or it may mean the Sapi<i>nd</i>îkara<i>n</i>a (see Sâṅkhâyana IV, 3), for this is the first occasion on which a dead person receives <i>S</i>râddha oblations together with two others of the Fathers.
 
 [^625]: 251:6 The sacrifice to the Manes, as forming part of the <i>S</i>rauta ritual, is explained in the <i>S</i>rauta-sûtra II, 6 seq.
 
@@ -672,7 +672,7 @@ The last word (appûrvam) is separated by Nârâya<i>n</i>a from the rest, so th
 
 [^637]: 254:26 The verses containing the word madhu are Rig-veda I, 90, 6-8.
 
-[^638]: 254:27 On the question, ‘Relished?’ compare <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 2, 5. For several kinds of _S_râddha ceremonies a Sthâlîpâka is prescribed, for others it is not; for the _S_râddhas of the last kind the words ‘Together with the Sthâlîpâka’ are not valid.
+[^638]: 254:27 On the question, ‘Relished?’ compare <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 2, 5. For several kinds of <i>S</i>râddha ceremonies a Sthâlîpâka is prescribed, for others it is not; for the <i>S</i>râddhas of the last kind the words ‘Together with the Sthâlîpâka’ are not valid.
 
 [^639]: 255:30 They reply, ‘Om! Svadhâ!’
 
@@ -688,14 +688,14 @@ The last word (appûrvam) is separated by Nârâya<i>n</i>a from the rest, so th
 
 [^645]: 256:16 See above, I, 11.
 
-[^646]: 256:22 This Bali offering is performed, according to Nârâya<i>n</i>a, before the Svish<i>n</i>ak<i>n</i>t oblation of the chief sacrifice. On ku<i>n</i>asûna the commentator has the note, ‘Darbhastambais t<i>n</i><i>n</i>ai_s<i>n</i>k_a kalpavad (or rather, as Prof. Stenzler writes, ka<i>n</i>akavad) grathitvâ sarveshâm agra_m<i>n</i>ri_hîtvâ, ekîk<i>n</i>tya grathitâ_h<i>n</i>s<i>n</i>k_yante.’
+[^646]: 256:22 This Bali offering is performed, according to Nârâya<i>n</i>a, before the Svish<i>n</i>ak<i>n</i>t oblation of the chief sacrifice. On ku<i>n</i>asûna the commentator has the note, ‘Darbhastambais t<i>nd</i>ai_s<i>n</i>k_a kalpavad (or rather, as Prof. Stenzler writes, ka<i>n</i>akavad) grathitvâ sarveshâm agra_m<i>n</i>ri_hîtvâ, ekîk<i>n</i>tya grathitâ_h<i>n</i>s<i>n</i>k_yante.’
 
-[^647]: 257:26 Perhaps Sâ<i>m</i>vatya is a mis-spelling of the name of the well-known G<i>m</i>hya teacher _S_âmbavya.
+[^647]: 257:26 Perhaps Sâ<i>m</i>vatya is a mis-spelling of the name of the well-known G<i>m</i>hya teacher <i>S</i>âmbavya.
 
 [^648]: 257:27 Darbhavîtâ is explained in the commentary by darbharâ<i>g</i>i.
 
 [^649]: 258:32 Instead of abhimâruka we ought to read abhimânuka. See Aitareya Brâhma<i>n</i>a III, 34, and the Petersburg Dictionary s. v. abhimânuka.
 
-[^650]: 258:36 He should destine another young animal in the way stated above (Sûtras 7 seqq.) to a new _S_ûlagava sacrifice.
+[^650]: 258:36 He should destine another young animal in the way stated above (Sûtras 7 seqq.) to a new <i>S</i>ûlagava sacrifice.
 
 [^651]: 258:39 Rig-veda VII, 35. Comp. above, II, 8, 11.

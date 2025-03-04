@@ -38,7 +38,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^700] On the full-moon day of Mârga<i>ri</i>îrsha he puts wood on the fire, strews (Darbha grass) on the entire surface round the fire, cooks a mess of sacrificial food with milk, sprinkles it (with Â<i>ri</i>ya), takes it from the fire, performs the rites down to the Vyâh<i>ri</i>ti oblations, and sacrifices (four oblations) with (the following Mantras):
 
-‘This offering, the creeping of I<i>d</i>â, rich in ghee, moving and not moving, accept gladly, O _G_âtavedas. <span id="p240">[<sup><small>p. 240</small></sup>]</span> What domestic animals there are, of all shapes, all seven kinds of them: may they gladly dwell here and may they prosper. Svâhâ!
+‘This offering, the creeping of I<i>d</i>â, rich in ghee, moving and not moving, accept gladly, O <i>G</i>âtavedas. <span id="p240">[<sup><small>p. 240</small></sup>]</span> What domestic animals there are, of all shapes, all seven kinds of them: may they gladly dwell here and may they prosper. Svâhâ!
 
 ‘The night which men welcome like a cow that comes to them, (the night) which is the consort of the year, may that (night) be auspicious to us. Svâhâ!
 
@@ -102,7 +102,7 @@ End of the Seventh Pa<i>t</i>ala.
 
 [^699]: 239:1 17, 1. Comp. on the Âgrahâya<i>î ceremony </i>î ceremony <i>S</i>âṅkhâyana IV, 17; Pâraskara III, 2, &c.; Winternitz, Sarpabali, 32 seq.
 
-[^700]: 239:2 The first Mantra is very corrupt; comp. Atharva-veda III, 10, 6. Regarding the legend of I<i>d</i>â, who was procreated out of Manu's Pala-sacrifice, and ‘came forth as if dripping, and clarified butter gathered on her step,’ comp. _S_atapatha Brâhma<i>d</i>a I, 8, 1, 7 (M.M., India, what can it teach us? p. 136).
+[^700]: 239:2 The first Mantra is very corrupt; comp. Atharva-veda III, 10, 6. Regarding the legend of I<i>d</i>â, who was procreated out of Manu's Pala-sacrifice, and ‘came forth as if dripping, and clarified butter gathered on her step,’ comp. <i>S</i>atapatha Brâhma<i>d</i>a I, 8, 1, 7 (M.M., India, what can it teach us? p. 136).
 
 [^701]: 240:3 Comp. Taitt. Br. II, 4, I, 4; Pâraskara III, 1, 3.
 

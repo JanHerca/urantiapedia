@@ -123,11 +123,11 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. (Keeping the Vrata through one year is allowed only) if (the student's) ancestors have learnt the Mahânâmnî verses.
 
-7\. There is also a Brâhma<i>n</i>a of the Rauruki (_S_âkhâ, in which it is said):
+7\. There is also a Brâhma<i>n</i>a of the Rauruki (<i>S</i>âkhâ, in which it is said):
 
 8\. 'The mothers forsooth say to their sons, when they suckle them:
 
-9\. ‘“Become men, my little sons, who endeavour to accomplish the _S_akvarî-vrata!”’
+9\. ‘“Become men, my little sons, who endeavour to accomplish the <i>S</i>akvarî-vrata!”’
 
 10\. [^267] During (the Vrata preparatory to the study of) these (i.e. the Mahânâmnî verses), touching water at the time of each Savana (is prescribed).
 
@@ -151,9 +151,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 20\. And when it is raining, he should not retire to a covered place.
 
-21\. He should say to (the god) when he sends rain, ‘The _S_akvarîs are water.’
+21\. He should say to (the god) when he sends rain, ‘The <i>S</i>akvarîs are water.’
 
-22\. When (the god) sends lightning, he should say to him, ‘Such forsooth is the nature of the _S_akvarîs.’
+22\. When (the god) sends lightning, he should say to him, ‘Such forsooth is the nature of the <i>S</i>akvarîs.’
 
 23\. When (the god) thunders, he should say to him, ‘The great voice of the great (cow)!’
 
@@ -221,7 +221,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 55\. [^279] Here the following standing duties are to be observed:
 
-56\. He should not have intercourse with a _S_ûdrâ woman.
+56\. He should not have intercourse with a <i>S</i>ûdrâ woman.
 
 57\. He should not eat bird's flesh.
 
@@ -268,7 +268,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. [^292] On the full-moon day of Taisha they leave off (studying the Veda).
 
-15\. [^293] They should go out of the village in an easterly or northerly direction, should go to water which reaches higher than to their secret parts, should touch water (in the way prescribed above, I, 2), and should satiate the metres, the _Ri_shis, and teachers (by libations of water).
+15\. [^293] They should go out of the village in an easterly or northerly direction, should go to water which reaches higher than to their secret parts, should touch water (in the way prescribed above, I, 2), and should satiate the metres, the <i>Ri</i>shis, and teachers (by libations of water).
 
 16\. [^294] After this second Upâkara<i>n</i>a, until the (chief) Upâkara<i>n</i>a (has been performed) again for the Vedic texts, an interruption of the study (of the Veda takes place), if clouds rise. <span id="p80">[<sup><small>p. 80</small></sup>]</span>
 
@@ -302,7 +302,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 31\. If a spar of the roof or the middle (post of the house) breaks, or if the water-barrel bursts, let him sacrifice (Â<i>ri</i>ya oblations) with the Vyâh<i>ri</i>tis.
 
-32\. If he has seen bad dreams, let him murmur this verse, ‘To-day, O god Savit_ri_’ (Sâma-veda I, 141).
+32\. If he has seen bad dreams, let him murmur this verse, ‘To-day, O god Savit<i>ri</i>’ (Sâma-veda I, 141).
 
 33\. Now (follows) another (expiation).
 
@@ -328,7 +328,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. One who does not belong to the same Gotra,
 
-5\. [^302] And who is not a Sapi<i>n</i><i>n</i>a relation of his mother.
+5\. [^302] And who is not a Sapi<i>nd</i>a relation of his mother.
 
 6\. [^303] The best, however, is a ‘naked’ girl.
 
@@ -402,7 +402,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 5\. Nor with a woman during her courses,
 
-6\. Nor with one who descends from the same _Ri_shis.
+6\. Nor with one who descends from the same <i>Ri</i>shis.
 
 7\. Let him not eat food which has been brought by another door (than the usual),
 
@@ -458,7 +458,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 33\. [^312] Nor alone,
 
-34\. Nor together with V<i>ri</i>shalas (or _S_ûdras).
+34\. Nor together with V<i>ri</i>shalas (or <i>S</i>ûdras).
 
 35\. He should not enter the village by a by-path.
 
@@ -599,9 +599,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 21\. Having sipped water, they should touch their mouths, their heads, and their limbs from above downwards, with (the verse), ‘This art thou’ (ibid. 14).
 
-22\. In the same way (sacrifices of the first fruits are performed) of _S_yâmâka (panicum frumentaceum) and of barley.
+22\. In the same way (sacrifices of the first fruits are performed) of <i>S</i>yâmâka (panicum frumentaceum) and of barley.
 
-23\. (At the sacrifice) of _S_yâmâka (the Mantra with which the food is partaken of \[comp. Sûtra 16\], is), ‘May Agni eat as the first’ (ibid. 15).
+23\. (At the sacrifice) of <i>S</i>yâmâka (the Mantra with which the food is partaken of \[comp. Sûtra 16\], is), ‘May Agni eat as the first’ (ibid. 15).
 
 24\. (At the sacrifice) of barley, ‘This barley, mixed with honey’ (ibid. 16).
 
@@ -615,11 +615,11 @@ dateCreated: 2025-1-14T23:38:48Z
 
 3\. [^333] He does not murmur (here) the Mantra, ‘Adoration to the Earth’s.’ <span id="p95">[<sup><small>p. 95</small></sup>]</span>
 
-4\. In the morning, after he has sacrificed the (regular) morning oblation, he should have the following (plants and branches of trees) fetched, viz. Darbha grass, a _S_ami (branch), Vîri<i>n</i>a grass, a (Badarî branch) with fruits, Apâmârga, and _S_irîsha. He then should silently throw (a portion) of flour of fried barley into the fire, should cause the Brâhma<i>n</i>as to pronounce auspicious wishes, and should circumambulate the house, turning his right side towards it, starting from the room for the (sacred) fire, striking the smoke (of the sacred fire) with those objects (i.e. with the plants and branches mentioned above).
+4\. In the morning, after he has sacrificed the (regular) morning oblation, he should have the following (plants and branches of trees) fetched, viz. Darbha grass, a <i>S</i>ami (branch), Vîri<i>n</i>a grass, a (Badarî branch) with fruits, Apâmârga, and <i>S</i>irîsha. He then should silently throw (a portion) of flour of fried barley into the fire, should cause the Brâhma<i>n</i>as to pronounce auspicious wishes, and should circumambulate the house, turning his right side towards it, starting from the room for the (sacred) fire, striking the smoke (of the sacred fire) with those objects (i.e. with the plants and branches mentioned above).
 
 5\. He should throw away those objects, after he has made use of them.
 
-6\. [^334] On solid stones he places a water-barrel with the two (Sâmans belonging to the verse), ‘Vâstoshpati’ (Sâma-veda I, 275) and with (that) _Ri_<i>k</i> (itself).
+6\. [^334] On solid stones he places a water-barrel with the two (Sâmans belonging to the verse), ‘Vâstoshpati’ (Sâma-veda I, 275) and with (that) <i>Rik<i> (itself).
 
 7\. Let him pour two pots of water into that barrel with this verse, ‘Some assemble’ (Sâma-veda-Âra<i>n</i>yaka, vol. ii, p. 292, ed. Bibl. Indica).
 
@@ -673,7 +673,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. (There are only) three Ash<i>t</i>akâs (in the winter), says Audgâhamâni,
 
-8\. And so say (also) Gautama and Vârkakha<i>n</i><i>n</i>i.
+8\. And so say (also) Gautama and Vârkakha<i>nd</i>i.
 
 9\. The eighth day of the dark fortnight after the Âgrahâya<i>t</i>î is called Apûpâsh<i>t</i>akâ (i.e. Ash<i>t</i>akâ of the cakes).
 
@@ -761,7 +761,7 @@ End of the Third Prapâ<i>th</i>aka.
 
 ## Footnotes
 
-[^259]: 69:1 1, 1. After the description of the regular Upanayana here follow, in chaps. 1 and 2, statements regarding the special Vratas which the Vedic student has to undergo, or rather which he may undergo, in the time of his studentship. Comp. the corresponding statements on the Vratas of the <i>Ri</i>gvedins, <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 11 and 12. By the followers of the Sâma-veda the ceremony of the Godâna, or cutting of the beard (comp. <i>S</i>âṅkhâyana I, 28, 19; Pâraskara II, 1, 7 seq.; Â<i>ri</i>valâyana I, 18), was put into connection with their system of Vratas; the undergoing of the Godânavrata enabled the student to study the Pûrvâr<i>ri</i>ika of the Sâma-veda. In the commentary on Gobhila III, 1, 28 we find the following statements with regard to this Vrata as well as to the other Vratas mentioned in Sûtra 28: 'The Upanayana-vrata has been declared to refer to the study of the Sâvitrî (comp. Bloomfield's notes on G<i>ri</i>hya-sa<i>ri</i>graha II, 42. 43); the Godâna-vrata, to the study of the collections of verses sacred to the gods Agni, Indra, and Soma Pavamâna (this is the Pûrvâr<i>ri</i>ika of the Sâma-veda); the Vrâtika-vrata, to the study of the Âra<i>ri</i>yaka, with the exclusion of the _S_ukriya sections; the Âditya-vrata, to the study of the _S_ukriya sections; the Aupanishada-vrata, to the study of the Upanishad-Brâhma<i>ri</i>a; the _G<i>ri</i>th_asâmika-vrata, to the study of the Â<i>ri</i>yadohas.' The Vratas were connected with a repetition of the Upanayana ceremony (Sûtras 10 seq.) in the way stated in my note on <i>S</i>âṅkhâyana II, 12, 1.—Khâdira-G<i>ri</i>hya II, 5, 1 seq.
+[^259]: 69:1 1, 1. After the description of the regular Upanayana here follow, in chaps. 1 and 2, statements regarding the special Vratas which the Vedic student has to undergo, or rather which he may undergo, in the time of his studentship. Comp. the corresponding statements on the Vratas of the <i>Ri</i>gvedins, <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 11 and 12. By the followers of the Sâma-veda the ceremony of the Godâna, or cutting of the beard (comp. <i>S</i>âṅkhâyana I, 28, 19; Pâraskara II, 1, 7 seq.; Â<i>ri</i>valâyana I, 18), was put into connection with their system of Vratas; the undergoing of the Godânavrata enabled the student to study the Pûrvâr<i>ri</i>ika of the Sâma-veda. In the commentary on Gobhila III, 1, 28 we find the following statements with regard to this Vrata as well as to the other Vratas mentioned in Sûtra 28: 'The Upanayana-vrata has been declared to refer to the study of the Sâvitrî (comp. Bloomfield's notes on G<i>ri</i>hya-sa<i>ri</i>graha II, 42. 43); the Godâna-vrata, to the study of the collections of verses sacred to the gods Agni, Indra, and Soma Pavamâna (this is the Pûrvâr<i>ri</i>ika of the Sâma-veda); the Vrâtika-vrata, to the study of the Âra<i>ri</i>yaka, with the exclusion of the <i>S</i>ukriya sections; the Âditya-vrata, to the study of the <i>S</i>ukriya sections; the Aupanishada-vrata, to the study of the Upanishad-Brâhma<i>ri</i>a; the _G<i>ri</i>th_asâmika-vrata, to the study of the Â<i>ri</i>yadohas.' The Vratas were connected with a repetition of the Upanayana ceremony (Sûtras 10 seq.) in the way stated in my note on <i>S</i>âṅkhâyana II, 12, 1.—Khâdira-G<i>ri</i>hya II, 5, 1 seq.
 
 [^260]: 69:2 Comp. <i>S</i>âṅkhâyana I, 28, 19, ‘The Godânakarman is identical with the _K<i>û</i>d_âkarman.’ Pâraskara II, 1, 7, At the Ke<i>û</i>ânta ceremony he says, “Hair and beard” (instead of “hair,” as at the _K<i>û</i>d<i>û</i>n_a).’
 
@@ -775,7 +775,7 @@ End of the Third Prapâ<i>th</i>aka.
 
 [^265]: 71:30 According to the commentary some study the _S<i>ukriyas as a part of the Âra</i>n_yaka; these do not undergo the Âditya-vrata. Others, for instance the Kauthumas, separate the _S<i>ukriyas as a part of the Âra</i>n_yaka and keep a special vow, the Âditya-vrata, by which they are enabled to study those texts.
 
-[^266]: 72:1 2, 1. Regarding the Mahânâmnî or _S_akvarî verses and the observances connected with their study, comp. <i>S</i>âṅkhâyana II, 12 (see especially the note on II, 12, 13) and the sixth Adhyâya of that text. Khâdira-G<i>ri</i>hya II, 5, 22 seq.
+[^266]: 72:1 2, 1. Regarding the Mahânâmnî or <i>S</i>akvarî verses and the observances connected with their study, comp. <i>S</i>âṅkhâyana II, 12 (see especially the note on II, 12, 13) and the sixth Adhyâya of that text. Khâdira-G<i>ri</i>hya II, 5, 22 seq.
 
 [^267]: 72:10 The rules as to ‘touching water’ have been given above, I, 2, 5 seq. The three Savanas or Soma-pressings of which the Soma sacrifice consists, are the prâta_h_\-savana, the mâdhyandina-savana, and the t<i>ri</i>tîya-savana, i.e. the morning Savana, the midday Savana, and the third or evening Savana.
 
@@ -817,13 +817,13 @@ End of the Third Prapâ<i>th</i>aka.
 
 [^286]: 78:6 It is not quite clear from the text, in what connection the rites described in Sûtras 6-8 stand with those treated of in the preceding Sûtras. The expression yathârtham used in Sûtra 5 (‘yathârtham iti karma<i>n</i>a_h<i>n</i>k_yate,’ Comm.; comp. above, I, 3, 12 note) clearly indicates the close of the ceremony; on the other hand the comparison of Pâraskara II, 10, 15 seq., <i>S</i>âṅkhâyana IV, 5, 10 seq., Â<i>n</i>valâyana III, 5, 10, seems to show that the acts stated in Sûtras 6-8 form part of the ceremony described before.
 
-[^287]: 78:8 I do not try to translate this very obscure Sûtra according to the commentary, in which khâ<i>n</i><i>n</i>ika is explained as ‘the number (of pupils).’ Perhaps the word is a misspelling for ka<i>n</i><i>n</i>ikâ or the like, and means sections of the texts. Comp. Khâdira-G<i>n</i>hya III, 2, 23. The construction (â<i>n</i>ântodakâ<i>h</i> . . . kârayet) is quite irregular.
+[^287]: 78:8 I do not try to translate this very obscure Sûtra according to the commentary, in which khâ<i>nd</i>ika is explained as ‘the number (of pupils).’ Perhaps the word is a misspelling for ka<i>nd</i>ikâ or the like, and means sections of the texts. Comp. Khâdira-G<i>n</i>hya III, 2, 23. The construction (â<i>n</i>ântodakâ<i>h</i> . . . kârayet) is quite irregular.
 
 [^288]: 78:9 I.e. they do not continue their study. The day sacred to Savit<i>ri</i> is the day under the constellation of Hasta, mentioned in Sûtra 1, for Savit<i>ri</i> is the presiding deity over that Nakshatra (comp. <i>S</i>âṅkhâyana I, 26, 11).
 
 [^289]: 78:10 Comp. the note on Sûtra 16.
 
-[^290]: 79:12 Regarding the Tarpa<i>n</i>a ceremony comp. <i>S</i>âṅkhâyana 1V, 9, s note. From the word ‘and’ the commentator concludes that the libations are offered not only to the Â<i>n</i>âryas, but also to the _Ri_shis, &c. (Sûtra 15).
+[^290]: 79:12 Regarding the Tarpa<i>n</i>a ceremony comp. <i>S</i>âṅkhâyana 1V, 9, s note. From the word ‘and’ the commentator concludes that the libations are offered not only to the Â<i>n</i>âryas, but also to the <i>Ri</i>shis, &c. (Sûtra 15).
 
 [^291]: 79:13 Comp. Gautama XVI, 1; Vasish<i>th</i>a XIII, 1; Âpastamba I, 9, 1, &c.
 
@@ -841,13 +841,13 @@ End of the Third Prapâ<i>th</i>aka.
 
 [^298]: 81:30 30-36. Different expiations; comp. Khâdira-G<i>ri</i>hya II, 5, 35-37.
 
-[^299]: 81:34 _K<i>itya means </i>K_itya agni, the piled-up fire-altar, the construction of which is treated of, for instance, in the _S_atapatha Brâhma<i>itya means </i>a VI-X. Prof. Weber has devoted to the rites connected with the <i>k</i>itya agni a very detailed paper, Indische Studien, XIII, 217 seq. That _k<i>itya means </i>k_itya agni is shown by the Mânava-G<i>itya means </i>hya I, 3: yadi . . . akshi vâ spandet kar<i>itya means </i>o vâ kro<i>itya means </i>ed agni_m<i>itya means </i>k<i>itya means </i>s<i>itya means </i>s<i>itya means </i>m<i>itya means </i>k_<i>itya means </i>ed yûpa_m<i>itya means </i>ri_<i>itya means </i>et, &c.
+[^299]: 81:34 _K<i>itya means </i>K_itya agni, the piled-up fire-altar, the construction of which is treated of, for instance, in the <i>S</i>atapatha Brâhma<i>itya means </i>a VI-X. Prof. Weber has devoted to the rites connected with the <i>k</i>itya agni a very detailed paper, Indische Studien, XIII, 217 seq. That _k<i>itya means </i>k_itya agni is shown by the Mânava-G<i>itya means </i>hya I, 3: yadi . . . akshi vâ spandet kar<i>itya means </i>o vâ kro<i>itya means </i>ed agni_m<i>itya means </i>k<i>itya means </i>s<i>itya means </i>s<i>itya means </i>m<i>itya means </i>k_<i>itya means </i>ed yûpa_m<i>itya means </i>ri_<i>itya means </i>et, &c.
 
 [^300]: 82:1 4, 1 seq. The description given in this chapter of the Samâvartana, or of the ceremony performed at the end of studentship, is opened with a few sentences referring to another section of the G<i>ri</i>hya ritual, namely, to marriage. It seems to me that these first Sûtras of this chapter once formed, in a text from which Gobhila has taken them, the introduction to an exposition of the wedding ceremonies, and that Gobhila was induced to transfer them to the description of the Samâvartana, by their opening words, ‘A student, after he has studied the Veda, &c.’ With Sûtras 1-3, comp. Khâdira-G<i>ri</i>hya I, 3, 1.
 
-[^301]: 82:3 I prefer to supply, (with the permission) of his parents, and not, of his teacher. Hira<i>n</i>yake<i>n</i>in says, samâv<i>n</i>tta â<i>n</i>âryakulât mâtâpitarau bibh<i>n</i>yât, tâbhyâm anu<i>n</i><i>n</i>âto bhâryâm upaya<i>n</i><i>n</i>et.
+[^301]: 82:3 I prefer to supply, (with the permission) of his parents, and not, of his teacher. Hira<i>n</i>yake<i>n</i>in says, samâv<i>n</i>tta â<i>n</i>âryakulât mâtâpitarau bibh<i>n</i>yât, tâbhyâm anu<i>nd</i>âto bhâryâm upaya<i>nd</i>et.
 
-[^302]: 82:5 Regarding the term Sapi<i>n</i><i>n</i>a, see, for instance, Gautama XIV, 13 (S.B.E. II, 247): ‘Sapi<i>n</i><i>n</i>a-relationship ceases with the fifth or the seventh (ancestor).’ Comp. Manu V, 60.
+[^302]: 82:5 Regarding the term Sapi<i>nd</i>a, see, for instance, Gautama XIV, 13 (S.B.E. II, 247): ‘Sapi<i>nd</i>a-relationship ceases with the fifth or the seventh (ancestor).’ Comp. Manu V, 60.
 
 [^303]: 82:6 According to the G<i>ri</i>hya-sa<i>ri</i>graha (II, 1 7. 18), a ‘naked’ girl is one who has not yet the monthly period, or whose breast is not yet developed. Comp. Vasish<i>ri</i>a XVII, 70; Gautama XVIII, 23.
 
@@ -881,7 +881,7 @@ End of the Third Prapâ<i>th</i>aka.
 
 [^318]: 90:8 As to avahanti, comp. above, I, 7, 4; Hillebrandt, Neu- and Vollmondsopfer, p. 30.
 
-[^319]: 90:11 According to the commentary atipra<i>n</i>îta means the fire which has been carried forward (Sûtra 3). Another explanation is then added, which is based on a quotation from a ‘tantrântara:’ ‘After he has established a fire, he should carry forward one firebrand taken from that fire, in a south-eastern direction, with the Mantra ye rûpâ<i>n</i>i pratimu<i>n</i><i>n</i>amânâ<i>h</i> &c.; that fire is the atipra<i>n</i>îta fire.’
+[^319]: 90:11 According to the commentary atipra<i>n</i>îta means the fire which has been carried forward (Sûtra 3). Another explanation is then added, which is based on a quotation from a ‘tantrântara:’ ‘After he has established a fire, he should carry forward one firebrand taken from that fire, in a south-eastern direction, with the Mantra ye rûpâ<i>n</i>i pratimu<i>nd</i>amânâ<i>h</i> &c.; that fire is the atipra<i>n</i>îta fire.’
 
 [^320]: 91:15 Literally, ‘turning round, following his left arm.’ Comp. <i>S</i>âṅkhâyana II, 3, 2. The Mantra runs thus, ‘O king of Serpents, dwelling towards the south (the west, the north), this is thy Bali!’
 

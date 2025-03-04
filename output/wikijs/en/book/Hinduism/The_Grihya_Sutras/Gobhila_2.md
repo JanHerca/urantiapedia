@@ -64,7 +64,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 14\. Another person with a goad (walks in the same way and stations himself in the same place). <span id="p44">[<sup><small>p. 44</small></sup>]</span>
 
-15\. They place roasted grain mixed with _S_amî leaves, to the amount of four handfuls, in a winnowing basket behind the fire,
+15\. They place roasted grain mixed with <i>S</i>amî leaves, to the amount of four handfuls, in a winnowing basket behind the fire,
 
 16\. And an upper mill-stone.
 
@@ -184,7 +184,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## KÂ_N__D_IKÂ 4. [^212]
 
-1\. When she mounts the chariot, let him murmur the verse, ‘Adorned with Ki<i>m</i><i>m</i>uka flowers, of _S_almali wood’ (MB. I, 3, 11).
+1\. When she mounts the chariot, let him murmur the verse, ‘Adorned with Ki<i>m</i><i>m</i>uka flowers, of <i>S</i>almali wood’ (MB. I, 3, 11).
 
 2\. [^213] On the way he should address crossways, rivers and unevennesses (of the soil), big trees, and burial grounds, with (the verse), ‘May no waylayers meet us’ (ibid. 12).
 
@@ -219,7 +219,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. [^218] Having put wood on the fire, he four times sacrifices expiatory Â<i>g</i>ya oblations with (the formula), ‘Agni! Thou art expiation’ (MB. I, 4, 1)—
 
-3\. (And with the same formula), putting instead of Agni, Vâyu, _K_andra, and Sûrya;
+3\. (And with the same formula), putting instead of Agni, Vâyu, <i>K</i>andra, and Sûrya;
 
 4\. [^219] A fifth oblation (with the names of the four gods) together, changing (in the Mantra the singular) into the plural.
 
@@ -435,7 +435,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 20\. [^246] He should repeat (when going to cut the hair on the back-side, and then again on the left side, the rites stated above), beginning from the moistening of the hair (Sûtra 12).
 
-21\. Grasping with his two hands (the boy) round his head he should murmur (the verse), ‘The threefold age of _G_amadagni’ (MB. I, 6, 8).
+21\. Grasping with his two hands (the boy) round his head he should murmur (the verse), ‘The threefold age of <i>G</i>amadagni’ (MB. I, 6, 8).
 
 22\. In the same way (the rites are performed) for a girl,
 
@@ -651,7 +651,7 @@ End of the Second Prapâ<i>th</i>aka.
 
 [^216]: 50:10 ‘Firm’ oblations seem to mean oblations by which the wife obtains a firm abode in her husband's house. Comp. Indische Studien, V, 376.
 
-[^217]: 51:1 5, 1. The _K_aturthîkarman.
+[^217]: 51:1 5, 1. The <i>K</i>aturthîkarman.
 
 [^218]: 51:2 2, 3. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 18, 3; Khâdira-G<i>ri</i>hya I, 4, 12.
 
@@ -671,7 +671,7 @@ End of the Second Prapâ<i>th</i>aka.
 
 [^226]: 55:13 13 seq. The soshyantîhoma. Khâdira-G<i>ri</i>hya II, 2, 28 seq.
 
-[^227]: 55:17 17 seq. Ceremonies for the new-born child (_G_âtakarman). Khâdira-G<i>ri</i>hya II, 2, 32 seq.
+[^227]: 55:17 17 seq. Ceremonies for the new-born child (<i>G</i>âtakarman). Khâdira-G<i>ri</i>hya II, 2, 32 seq.
 
 [^228]: 55:18 See above, chap. 6, 9.
 

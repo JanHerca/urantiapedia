@@ -45,7 +45,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 If he makes Bali offerings, this is the sacrifice to the Beings.
 
-If he gives (Pi<i>n</i><i>n</i>a offerings) to the Fathers, this is the sacrifice to the Fathers.
+If he gives (Pi<i>nd</i>a offerings) to the Fathers, this is the sacrifice to the Fathers.
 
 If he studies (Vedic) texts, this is the sacrifice to Brahman.
 
@@ -78,11 +78,11 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 ## KA<i>ND</i>IKÂ 3.
 
-1\. [^528]. He then should recite for himself (the following texts, viz.) the _Ri_<i>k</i>as, the Ya<i>k</i>us, the Sâmans, the Atharvan and Aṅgiras hymns, the Brâhma<i>k</i>as, the Kalpa (Sûtras), the Gâthâs, the (texts in honour of kings and heroes, called) Nârâ<i>k</i>a<i>k</i>sîs, the Itihâsas and Purâ<i>k</i>as.
+1\. [^528]. He then should recite for himself (the following texts, viz.) the <i>Rik<i>as, the Ya<i>k</i>us, the Sâmans, the Atharvan and Aṅgiras hymns, the Brâhma<i>k</i>as, the Kalpa (Sûtras), the Gâthâs, the (texts in honour of kings and heroes, called) Nârâ<i>k</i>a<i>k</i>sîs, the Itihâsas and Purâ<i>k</i>as.
 
-2\. In that he recites the _Ri_<i>k</i>as, he thereby satiates the gods with oblations of milk—in that (he recites) the Ya<i>k</i>us, with oblations of ghee—the Sâmans, with oblations of honey—the Atharvan and Aṅgiras hymns, with oblations of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, with oblations of ambrosia. <span id="p219">[<sup><small>p. 219</small></sup>]</span>
+2\. In that he recites the <i>Rik<i>as, he thereby satiates the gods with oblations of milk—in that (he recites) the Ya<i>k</i>us, with oblations of ghee—the Sâmans, with oblations of honey—the Atharvan and Aṅgiras hymns, with oblations of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, with oblations of ambrosia. <span id="p219">[<sup><small>p. 219</small></sup>]</span>
 
-3\. In that he recites the _Ri_<i>k</i>as, rivers of milk flow, as a funeral oblation, to his Fathers. In that (he recites) the Ya<i>k</i>us, rivers of ghee—the Sâmans, rivers of honey—the Atharvan and Aṅgiras hymns, rivers of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, rivers of ambrosia.
+3\. In that he recites the <i>Rik<i>as, rivers of milk flow, as a funeral oblation, to his Fathers. In that (he recites) the Ya<i>k</i>us, rivers of ghee—the Sâmans, rivers of honey—the Atharvan and Aṅgiras hymns, rivers of Soma—the Brâhma<i>k</i>as, Kalpas, Gâthâs, Nârâ<i>k</i>a<i>k</i>sîs, Itihâsas and Purâ<i>k</i>as, rivers of ambrosia.
 
 4\. After he has recited (those texts) as far as he thinks fit, he should finish with the following (verse),
 
@@ -93,13 +93,13 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 ## KA<i>ND</i>IKÂ 4.
 
-1\. [^529]. He satiates the deities: ‘Pra<i>g</i>âpati, Brahman, the Vedas, the gods, the _Ri_shis, all metres, the word Om, the word Vasha_t_, the Vyâh<i>g</i>tis, the Sâvitrî, the sacrifices, Heaven and Earth, the air, days and nights, the numbers, the Siddhas, the oceans, the rivers, the mountains, the fields, herbs, trees, Gandharvas and Apsaras, the snakes, the birds, the cows, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end.’
+1\. [^529]. He satiates the deities: ‘Pra<i>g</i>âpati, Brahman, the Vedas, the gods, the <i>Ri</i>shis, all metres, the word Om, the word Vasha_t_, the Vyâh<i>g</i>tis, the Sâvitrî, the sacrifices, Heaven and Earth, the air, days and nights, the numbers, the Siddhas, the oceans, the rivers, the mountains, the fields, herbs, trees, Gandharvas and Apsaras, the snakes, the birds, the cows, the Sâdhyas, the Vipras, the Yakshas, the Rakshas, the beings that have these (Rakshas, &c.) at their end.’
 
-2\. [^530]. Then the _Ri_shis: ‘The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (_Ri_shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, <span id="p220">[<sup><small>p. 220</small></sup>]</span> Vi<i>shis) of the hundred (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the Pavamâna hymns, the (_Ri_shis) of the short hymns, and of the long hymns.’
+2\. [^530]. Then the <i>Ri</i>shis: ‘The (_Ri<i>shis) of the hundred (</i>Ri_<i>shis) of the hundred (</i>as), the (<i>Ri</i>shis) of the middle (Ma<i>shis) of the hundred (</i><i>shis) of the hundred (</i>alas), G<i>shis) of the hundred (</i>tsamada, <span id="p220">[<sup><small>p. 220</small></sup>]</span> Vi<i>shis) of the hundred (</i>vâmitra, Vâmadeva, Atri, Bharadvâ<i>shis) of the hundred (</i>a, Vasish<i>shis) of the hundred (</i>a, the Pragâthas, the Pavamâna hymns, the (<i>Ri</i>shis) of the short hymns, and of the long hymns.’
 
 3\. (Then) with the sacrificial cord suspended over the right shoulder:
 
-4\. [^531]. ‘Sumantu, _G_aimini, Vai<i>s</i>ampâyana, Paila, the Sûtras, the Bhâshyas, the Bhârata, the Mahâbhârata, the teachers of law, _G_ânanti, Bâhavi, Gârgya, Gautama, _S_âkalya, Bâbhravya, Mâ<i>s</i><i>s</i>avya, Mâ<i>s</i><i>s</i>ûkeya, Gârgî Vâ<i>s</i>aknavî, Va<i>s</i>avâ Prâtîtheyî, Sulabhâ Maitreyî, Kahola Kaushîtaka, Mahâkaushîtaka, Paiṅgya, Mahâpaiṅgya, Suya<i>s</i><i>s</i>a <i>S</i>âṅkhâyana, Aitareya, Mahaitareya, the _S_âkala (text), the Bâshkala (text), Su<i>s</i>âtavaktra, Audavâhi, Mahaudavâhi, Sau<i>s</i>âmi, _S_aunaka, Â<i>s</i>valâyana—and whatsoever other teachers there are, may they all satiate themselves.’
+4\. [^531]. ‘Sumantu, <i>G</i>aimini, Vai<i>s</i>ampâyana, Paila, the Sûtras, the Bhâshyas, the Bhârata, the Mahâbhârata, the teachers of law, <i>G</i>ânanti, Bâhavi, Gârgya, Gautama, <i>S</i>âkalya, Bâbhravya, Mâ<i>s</i><i>s</i>avya, Mâ<i>s</i><i>s</i>ûkeya, Gârgî Vâ<i>s</i>aknavî, Va<i>s</i>avâ Prâtîtheyî, Sulabhâ Maitreyî, Kahola Kaushîtaka, Mahâkaushîtaka, Paiṅgya, Mahâpaiṅgya, Suya<i>s</i><i>s</i>a <i>S</i>âṅkhâyana, Aitareya, Mahaitareya, the <i>S</i>âkala (text), the Bâshkala (text), Su<i>s</i>âtavaktra, Audavâhi, Mahaudavâhi, Sau<i>s</i>âmi, <i>S</i>aunaka, Â<i>s</i>valâyana—and whatsoever other teachers there are, may they all satiate themselves.’
 
 5\. [^532]. After he has satiated the Fathers man by man, and has returned to his house, what he gives (then), that is the sacrificial fee.
 
@@ -123,13 +123,13 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 3\. Or on the fifth (Tithi of that month), under (the Nakshatra) Hasta.
 
-4\. [^535]. Having sacrificed the two Â<i>g</i>ya portions, he should offer Â<i>g</i>ya oblations (to the following deities, viz.) Sâvitrî, Brahman, Belief, Insight, Wisdom, Memory, Sadasaspati, Anumati, the metres, and the _Ri_shis.
+4\. [^535]. Having sacrificed the two Â<i>g</i>ya portions, he should offer Â<i>g</i>ya oblations (to the following deities, viz.) Sâvitrî, Brahman, Belief, Insight, Wisdom, Memory, Sadasaspati, Anumati, the metres, and the <i>Ri</i>shis.
 
 5\. He then sacrifices grains with curds (with the following texts):
 
 6\. ‘I praise Agni the Purohita’—this one verse (Rig-Veda I, 1, 1),
 
-7\. [^536]. ‘The Kushumbhaka (mungoose?) has said it’—‘If thou criest, O bird, announce luck to us Sung by _G_amadagni’—‘In thy abode the whole world rests’ <span id="p222">[<sup><small>p. 222</small></sup>]</span> —‘Come to our sacrifice, O you that are worthy of sacrifice, with care’—‘Whosoever, be he ours, be he alien’—‘Look on, look about’—‘Come here, Agni, the Maruts’ friend'—‘The oblation, O king, cooked for thee’—each time two verses;
+7\. [^536]. ‘The Kushumbhaka (mungoose?) has said it’—‘If thou criest, O bird, announce luck to us Sung by <i>G</i>amadagni’—‘In thy abode the whole world rests’ <span id="p222">[<sup><small>p. 222</small></sup>]</span> —‘Come to our sacrifice, O you that are worthy of sacrifice, with care’—‘Whosoever, be he ours, be he alien’—‘Look on, look about’—‘Come here, Agni, the Maruts’ friend'—‘The oblation, O king, cooked for thee’—each time two verses;
 
 8\. ‘United is your will’ (Rig-veda X, 191, 4)—this one verse;
 
@@ -159,7 +159,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 21\. They satiate those same deities (with water oblations),
 
-22\. (And besides) the Â<i>k</i>âryas, the _Ri_shis, and the Fathers.
+22\. (And besides) the Â<i>k</i>âryas, the <i>Ri</i>shis, and the Fathers.
 
 23\. [^544]. This is the Utsar<i>g</i>ana.
 
@@ -177,7 +177,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 4\. With this (hymn), ‘I loosen thee by sacrificial food, that thou mayst live’ (Rig-veda X, 161).
 
-5\. If he has seen a bad dream, he should worship the sun with the two verses, ‘To-day, god Savit_ri_’ (Rig-veda V, 82, 4, 5), and with the five verses, ‘What bad dreams there are among the cows’ (Rig-veda VIII, 47, 14 seqq.),
+5\. If he has seen a bad dream, he should worship the sun with the two verses, ‘To-day, god Savit<i>ri</i>’ (Rig-veda V, 82, 4, 5), and with the five verses, ‘What bad dreams there are among the cows’ (Rig-veda VIII, 47, 14 seqq.),
 
 6\. Or with (the verse), ‘Whosoever, O king, be it a companion or a friend’ (Rig-veda II, 28, 10).
 
@@ -276,7 +276,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 1\. [^554]. (He says), 'Memory and reproach and knowledge, faith, and wisdom as the fifth, what is sacrificed, and what is given, and what is studied, and what is done, truth, learning, vow—
 
-‘The vow which belongs to Agni together with Indra, with Pra<i>g</i>âpati, with the _Ri_shis, with the royal ones among the _Ri_shis, with the Fathers, with the royal ones among the Fathers, with the human beings, with the royal ones among the human beings, with shine, over-shine, after-shine, counter-shine, with gods and men, with Gandharvas and Apsaras, with wild animals and domestic animals,—the vow, belonging to my own self, dwelling in my own self, that is my universal vow. Hereby, O Agni, I become addicted to the universal vow. Svâhâ!’
+‘The vow which belongs to Agni together with Indra, with Pra<i>g</i>âpati, with the <i>Ri</i>shis, with the royal ones among the <i>Ri</i>shis, with the Fathers, with the royal ones among the Fathers, with the human beings, with the royal ones among the human beings, with shine, over-shine, after-shine, counter-shine, with gods and men, with Gandharvas and Apsaras, with wild animals and domestic animals,—the vow, belonging to my own self, dwelling in my own self, that is my universal vow. Hereby, O Agni, I become addicted to the universal vow. Svâhâ!’
 
 2\. [^555]. With (the hymn), ‘Mine, Agni, be vigour’ (Rig-veda X, 128, 1), verse by verse, he should put pieces of wood (on the fire).
 
@@ -332,7 +332,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 ‘Dyaus (the heaven) is covered; she is covered by Âditya (the sun). By her, &c.
 
-‘The quarters (of the horizon) are covered; they are covered by _K_andramas (the moon). By them, &c.
+‘The quarters (of the horizon) are covered; they are covered by <i>K</i>andramas (the moon). By them, &c.
 
 ‘The waters are covered; they are covered by Varu<i>n</i>a. By them, &c.
 
@@ -371,7 +371,7 @@ Looking at the point where heaven and earth touch each other, or shutting his ey
 
 12\. [^564]. He then mounts up to (the king on his chariot), while he is driving, and causes him to repeat the Abhîvarta hymn (Rig-veda X, 174) and the two verses, ‘He who, Mitra and Varu<i>n</i>a’ (Rig-veda VIII, 101, 3 seq.).
 
-13\. [^565]. He then should look at him with the Apratiratha, _S_âsa, and Saupar<i>n</i>a hymns.
+13\. [^565]. He then should look at him with the Apratiratha, <i>S</i>âsa, and Saupar<i>n</i>a hymns.
 
 14\. [^566]. The Saupar<i>n</i>a is (the hymn), ‘May the streams of honey and ghee flow forwards.’
 
@@ -419,30 +419,30 @@ End of the Third Adhyâya.
 
 ## Footnotes
 
-[^528]: 217:1 1, 1 seqq. Comp. _S_atapatha Brâhma<i>n</i>a XI, 5, 6, 1 seqq.
+[^528]: 217:1 1, 1 seqq. Comp. <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6, 1 seqq.
 
-[^529]: 218:1 3, 1. On this and the following paragraphs comp. chiefly _S_atapatha Brâhma<i>n</i>a XI, 5, 6. Other enumerations, contained in the Veda itself, of the texts that were considered as forming the Veda or as attached to the body of the Veda, are found in the _S_atapatha Brâhma<i>n</i>a XIV, 5, 4, 10 (Sacred Books, XV, 111), and in the _Kh_ândogya Upanishad VII, 1 (Sacred Books, I, 109)
+[^529]: 218:1 3, 1. On this and the following paragraphs comp. chiefly <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6. Other enumerations, contained in the Veda itself, of the texts that were considered as forming the Veda or as attached to the body of the Veda, are found in the <i>S</i>atapatha Brâhma<i>n</i>a XIV, 5, 4, 10 (Sacred Books, XV, 111), and in the _Kh_ândogya Upanishad VII, 1 (Sacred Books, I, 109)
 
 [^530]: 219:1 4, 1. Comp. <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 9. Nârâya<i>ri</i>a: ‘Having finished (the Svâdhyâya) he satiates with water oblations these deities.’
   Pra<i>g</i>âpati and the following words stand in the nominative; the verb to be supplied is t<i>g</i>pyatu (t<i>g</i>pyantu), ‘may he (they) satiate himself (themselves).’
 
-[^531]: 219:2 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 10. _S<i>ri</i>h_, the (_Ri_shis) of the Pavamâna hymns,' but pragâthâ_h<i>ri</i>s_valâyana has, and not as we should expect, prâgâthâ_h_.
+[^531]: 219:2 <i>S</i>âṅkhâyana-G<i>ri</i>hya IV, 10. _S<i>ri</i>h_, the (<i>Ri</i>shis) of the Pavamâna hymns,' but pragâthâ_h<i>ri</i>s_valâyana has, and not as we should expect, prâgâthâ_h_.
 
 [^532]: 220:4 The names from Kahola Kaushîtaki down to Â<i>s</i>valâyana stand in the accusative; tarpayâmi, ‘I satiate N.N.’ is to be supplied.
 
-[^533]: 220:5 Nârâya<i>n</i>a: ‘He satiates his father, grandfather, and great-grandfather, and goes to his house. What he then gives, for instance, food offered to guests, or given as alms (to religious beggars), is considered as the sacrificial fee for the Brahmaya<i>n</i><i>n</i>a.’
+[^533]: 220:5 Nârâya<i>n</i>a: ‘He satiates his father, grandfather, and great-grandfather, and goes to his house. What he then gives, for instance, food offered to guests, or given as alms (to religious beggars), is considered as the sacrificial fee for the Brahmaya<i>nd</i>a.’
 
-[^534]: 220:6 Comp. _S_atapatha Brâhma<i>n</i>a XI, 5, 7, 3. 4.
+[^534]: 220:6 Comp. <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 7, 3. 4.
 
 [^535]: 221:2-3 5, 2, 3. Perhaps the division of these Sûtras should be altered, so that _s<i>râva</i>n_asya would belong to Sûtra 2. In this case we should have to translate, ‘2. When the herbs appear, (on a day on which the moon stands in conjunction) with _S<i>râva</i>n_a. 3. Or on the fifth (Tithi) of the _S<i>râva</i>n_a month, under (the Nakshatra) Hasta.’ Comp. _s<i>râva</i>n<i>râva</i>ñ_<i>râva</i>amîm, Par. II, 10, 2. If we count the month beginning with the bright fortnight, and assume that the full moon day of _S<i>râva</i>n_a falls, as the name of the month implies, on _S<i>râva</i>n_a, the fifth Tithi of that month will fall indeed on Hasta. Comp. on the dates of the Upâkara<i>râva</i>a, Prof. Weber's remarks, Die vedischen Nachrichten von den Naxatra II, 322, and on the special symbolical signification of the Nakshatra _S<i>râva</i>n_a in this connection, my note on <i>S</i>âṅkhâyana IV, 5, 2.
 
 [^536]: 221:4 On the two Â<i>g</i>ya portions, comp. above, I, 3, 5; 10, 13 seqq.
 
-[^537]: 221:7 Comp. <i>S</i>âṅkhâyana IV, 5, 8. The verses with which the oblations are performed, are the first and last verses of each Ma<i>n</i><i>n</i>ala.
+[^537]: 221:7 Comp. <i>S</i>âṅkhâyana IV, 5, 8. The verses with which the oblations are performed, are the first and last verses of each Ma<i>nd</i>ala.
 
-[^538]: 222:9 This is the last verse of the _Ri_k-Sa<i>m</i>hitâ in the Bâshkala _S_âkhâ. See my note on <i>S</i>âṅkhâyana IV, 5, 9.
+[^538]: 222:9 This is the last verse of the _Ri_k-Sa<i>m</i>hitâ in the Bâshkala <i>S</i>âkhâ. See my note on <i>S</i>âṅkhâyana IV, 5, 9.
 
-[^539]: 222:10 The expression, ‘Those deities’ would, according to Nârâya<i>n</i>a, refer not only to the deities stated in Sûtra 4, but also to the deities of the first and last verses of the Ma<i>n</i><i>n</i>alas (Sûtras 6 seqq.). On the grains with curds, comp. Sûtra 5. The technical sense of the ‘cleaning’ is explained in the <i>S</i>rauta-sûtra I, 8, 2; comp. Hillebrandt, Das altindische Neu- and Vollmondsopfer, p. 130, note 1. The sacrificer covers his joined hands with the Ku<i>n</i>a grass spread out round the fire, and has water sprinkled on them.
+[^539]: 222:10 The expression, ‘Those deities’ would, according to Nârâya<i>n</i>a, refer not only to the deities stated in Sûtra 4, but also to the deities of the first and last verses of the Ma<i>nd</i>alas (Sûtras 6 seqq.). On the grains with curds, comp. Sûtra 5. The technical sense of the ‘cleaning’ is explained in the <i>S</i>rauta-sûtra I, 8, 2; comp. Hillebrandt, Das altindische Neu- and Vollmondsopfer, p. 130, note 1. The sacrificer covers his joined hands with the Ku<i>n</i>a grass spread out round the fire, and has water sprinkled on them.
 
 [^540]: 222:11 On the term brahmâ<i>ñ</i><i>ñ</i>ali, comp. Manu II, 71.
 
@@ -465,13 +465,13 @@ End of the Third Adhyâya.
 
 [^549]: 225:3 3 seq. See <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 9. There the same word anvash<i>ri</i>amade<i>ri</i>a occurs.
 
-[^550]: 226:9 Mû<i>n</i>a may either mean, ‘having lost his way,’ or ‘bewildered in his mind.’ Nârâya<i>n</i>a prefers the latter explanation (‘pra<i>n</i><i>n</i>âhîna_h_’).
+[^550]: 226:9 Mû<i>n</i>a may either mean, ‘having lost his way,’ or ‘bewildered in his mind.’ Nârâya<i>n</i>a prefers the latter explanation (‘pra<i>nd</i>âhîna_h_’).
 
-[^551]: 227:6 8, 6. ‘On high’ means ‘not on the ground’ (Nârâya<i>n</i>a). On the gaudânika<i>m</i> karma (the shaving of the beard), comp. above, Adhyâya I, Ka<i>n</i><i>n</i>ikâ 18. The word ‘ceremony’ would mean here, according to Nârâya<i>n</i>a, that he should perform the rite alone, without observing such prescriptions as stated above, I, 18, 7.
+[^551]: 227:6 8, 6. ‘On high’ means ‘not on the ground’ (Nârâya<i>n</i>a). On the gaudânika<i>m</i> karma (the shaving of the beard), comp. above, Adhyâya I, Ka<i>nd</i>ikâ 18. The word ‘ceremony’ would mean here, according to Nârâya<i>n</i>a, that he should perform the rite alone, without observing such prescriptions as stated above, I, 18, 7.
 
 [^552]: 227:7 Thus, instead of ‘Herb! protect him!’ (I, 17, 8) he is to say, ‘Herb! protect me!’ and so on.
 
-[^553]: 227:8 Ekaklîtaka is, according to Nârâya<i>n</i>a and the Prayogaratna, the seed of such a Kara<i>n</i><i>n</i>a fruit (Pongamia Glabra, Vent.) which contains only one grain of seed. Such grains are pounded before he rubs himself therewith.
+[^553]: 227:8 Ekaklîtaka is, according to Nârâya<i>n</i>a and the Prayogaratna, the seed of such a Kara<i>nd</i>a fruit (Pongamia Glabra, Vent.) which contains only one grain of seed. Such grains are pounded before he rubs himself therewith.
 
 [^554]: 228:21 On the hymn beginning with the words ‘Giving life,’ see Prof. Stenzler's note on this Sûtra. Its first verse is identical with Vâ<i>g</i>asaneyi Sa<i>g</i>hitâ XXXIV, 50 (comp. also <i>S</i>âṅkhâyana-G<i>g</i>hya III, 1, 7), and so are most of its verses found in that Sa<i>g</i>hitâ or in the Atharva-veda; the whole of it occurs among the Rig-veda Khilas (vol. vi, p. 25, 2-12).
 
@@ -498,7 +498,7 @@ End of the Third Adhyâya.
 
 [^565]: 234:12 The Abhîvarta hymn begins with the word abhîvartena, and is ascribed to Abhîvarta Âṅgirasa.
 
-[^566]: 234:13 The Apratiratha hymn is Rig-veda X, 103 (ascribed to Apratiratha Aindra); the _S_âsa, X, 152 (ascribed to Sâsa Bhâradvâ<i>g</i>a). On the Saupar<i>g</i>a, see the next Sûtra.
+[^566]: 234:13 The Apratiratha hymn is Rig-veda X, 103 (ascribed to Apratiratha Aindra); the <i>S</i>âsa, X, 152 (ascribed to Sâsa Bhâradvâ<i>g</i>a). On the Saupar<i>g</i>a, see the next Sûtra.
 
 [^567]: 234:14 This hymn is not found in any Vedic Sa<i>m</i>hitâ, as far s I know, nor does it occur in the Supar<i>m</i>âdhyâya. I have followed Prof. Stenzler's conjecture pra dhârâ yantu instead of pradhârayantu, which is confirmed by Sâya<i>m</i>a's note on Aitareya Brâhma<i>m</i>a VI, 25, 7; VIII, 10, 4 (pp. 365, 399 ed. Aufrecht).
 

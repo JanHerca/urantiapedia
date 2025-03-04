@@ -104,13 +104,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. (He should feed him) with partridge, according to some (teachers).
 
-3\. In the third year after his birth the _K_aula (or tonsure is performed) under (the Nakshatra of) the two Punarvasus.
+3\. In the third year after his birth the <i>K</i>aula (or tonsure is performed) under (the Nakshatra of) the two Punarvasus.
 
 4\. [^771] Brâhma<i>n</i>as are entertained with food as at the initiation (Upanayana).
 
 5\. [^772] The putting (of wood) on the fire, &c. (is performed) as at the Sîmantonnayana.
 
-6\. [^773] He makes (the boy) sit down to the west of <span id="p284">[<sup><small>p. 284</small></sup>]</span> the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral _Ri_shis,
+6\. [^773] He makes (the boy) sit down to the west of <span id="p284">[<sup><small>p. 284</small></sup>]</span> the fire, facing the east, combs his hair silently with a porcupine's quill that has three white spots, with three Darbha blades, and with a bunch of unripe Udumbara fruits; and he arranges the locks in the fashion of his ancestral <i>Ri</i>shis,
 
 7\. Or according to their family custom.
 
@@ -178,7 +178,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 [^775]: 284:10 I translate as if the words tena tryaham and karmaniv<i>ri</i>tti<i>h</i> formed two Sûtras.
 
-[^776]: 284:13 ‘Having performed the same rites as at the opening of the study of the Âgneya-kâ<i>n</i><i>n</i>a, he performs an Upasthâna to the deities as taught with regard to the _S_ukriyavrata.’ Haradatta.—‘After the ceremonies down to the Â<i>n</i>yabhâgas have been performed, one chief oblation of Â<i>n</i>ya is offered with the formula, “To Agni, the _Ri_shi of the Kâ<i>n</i><i>n</i>a, svâhâ!”’ Sudar<i>n</i>anârya.
+[^776]: 284:13 ‘Having performed the same rites as at the opening of the study of the Âgneya-kâ<i>nd</i>a, he performs an Upasthâna to the deities as taught with regard to the <i>S</i>ukriyavrata.’ Haradatta.—‘After the ceremonies down to the Â<i>n</i>yabhâgas have been performed, one chief oblation of Â<i>n</i>ya is offered with the formula, “To Agni, the <i>Ri</i>shi of the Kâ<i>nd</i>a, svâhâ!”’ Sudar<i>n</i>anârya.
 
 [^777]: 284:14 Comp. the statements given in the note on Gobhila III,
 

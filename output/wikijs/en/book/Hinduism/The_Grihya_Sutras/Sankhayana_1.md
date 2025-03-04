@@ -236,7 +236,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 12\. The strewing around (of the grass) is not necessary in the Â<i>g</i>ya offerings,
 
-13\. [^46]. Nor in the standing offerings, according to Mâ<i>n</i><i>n</i>ûkeya.
+13\. [^46]. Nor in the standing offerings, according to Mâ<i>nd</i>ûkeya.
 
 14\. [^47]. He now measures off with the span (of his hand) two Ku<i>s</i>a blades, which are not unequal, with unbroken points, bearing no young shoots in them, and severs them (from their roots) with a Ku<i>s</i>a blade, saying, ‘Purifiers are ye.’
 
@@ -382,7 +382,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 3\. And when he has murmured the following five verses,
 
-4\. [^77]. (He continues thus,) 'This am I, that art thou; <span id="p36">[<sup><small>p. 36</small></sup>]</span> that art thou, this am I; the heaven I, the earth thou; the _Ri_<i>k</i> art thou, the Sâman I. So be thou devoted to me.
+4\. [^77]. (He continues thus,) 'This am I, that art thou; <span id="p36">[<sup><small>p. 36</small></sup>]</span> that art thou, this am I; the heaven I, the earth thou; the <i>Rik<i> art thou, the Sâman I. So be thou devoted to me.
 
 ‘Well! Let us here marry. Let us beget offspring. Let us acquire many sons who may reach old age.’
 
@@ -406,7 +406,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 14\. And gives her a second garment with the same text (chap. 12, § 3).
 
-15\. Her father or brother pours out of a basket fried grain mixed with _S_amî leaves into her joined hands.
+15\. Her father or brother pours out of a basket fried grain mixed with <i>S</i>amî leaves into her joined hands.
 
 16\. The spreading under, the sprinkling over, and the second sprinkling over (are done) with Â<i>g</i>ya.
 
@@ -506,7 +506,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ‘With god Sûrya, with the heaven-world of the worlds, with the Sâma-veda of the Vedas: therewith I appease thee, N.N., svâhâ!
 
-‘With god _K_andra, with the world of the quarters (of the horizon) of the worlds, with the Brahma-veda of the Vedas: therewith I appease thee, N.N., svâhâ!’
+‘With god <i>K</i>andra, with the world of the quarters (of the horizon) of the worlds, with the Brahma-veda of the Vedas: therewith I appease thee, N.N., svâhâ!’
 
 4\. Or, 'Bhû_h_! What harm dwells in thee, bringing death to thy husband, death to thy husband's brother, that I make death-bringing to thy paramour, N.N., svâhâ!'—thus the first (of the before-mentioned formulas) may be joined with the first Mahâvyâh<i>ri</i>ti, the second with the second, the third with the third, the fourth with (the three Mahâvyâh<i>ri</i>tis) together.
 
@@ -576,7 +576,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 ## KHA<i>ND</i>A 19.
 
-1\. Let him pound the root of the Adhyâ<i>n</i><i>n</i>â plant and sprinkle it at the time of her monthly period with the two (verses), ‘Speed away from here; a husband has she’ (Rig-veda X, 85, 21. 22), with svâhâ at the end of each, into her right nostril.
+1\. Let him pound the root of the Adhyâ<i>nd</i>â plant and sprinkle it at the time of her monthly period with the two (verses), ‘Speed away from here; a husband has she’ (Rig-veda X, 85, 21. 22), with svâhâ at the end of each, into her right nostril.
 
 2\. ‘The mouth of the Gandharva Vi<i>s</i>vâvasu art thou’—with these words let him touch her, when he is about to cohabit with her.
 
@@ -608,7 +608,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 3\. [^96]. Having pounded a Soma stalk, or a Ku<i>s</i>a needle, or the last shoot of a Nyagrodha trunk, or the part of a sacrificial post which is exposed to the fire,
 
-4\. Or (having taken) after the completion of a sacrifice the remnants from the _G_uhû ladle,
+4\. Or (having taken) after the completion of a sacrifice the remnants from the <i>G</i>uhû ladle,
 
 5\. [^97]. Let him sprinkle it into her right nostril with the four verses, ‘By Agni may good’ (Rig-veda I, 1, 3), ‘That sperm to us’ (III, 4, 9), ‘May he succeed who lights fire’ (V, 37, 2), ‘Of tawny shape’ (II, 3, 9), with Svâhâ at the end (of each verse).
 
@@ -693,7 +693,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 6\. On the tenth day a name for common use, which is pleasing to the Brâhma<i>n</i>as.
 
-7\. Let him pulverise black and white and red hairs of a black ox, intermix (that powder) with those four substances (see Sûtra 3), and give it to eat (to the child) four times: such (is the opinion of) Mâ<i>n</i><i>n</i>ûkeya. <span id="p51">[<sup><small>p. 51</small></sup>]</span>
+7\. Let him pulverise black and white and red hairs of a black ox, intermix (that powder) with those four substances (see Sûtra 3), and give it to eat (to the child) four times: such (is the opinion of) Mâ<i>nd</i>ûkeya. <span id="p51">[<sup><small>p. 51</small></sup>]</span>
 
 8 [^106]. If he likes (let him do so) with the words, 'Bhû_h_! The Rig-veda I lay into thee, N.N., svâhâ!
 
@@ -767,7 +767,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 11\. To Savitar, to Hasta.
 
-12\. To Tvash<i>t</i>ar, to _K_itrâ.
+12\. To Tvash<i>t</i>ar, to <i>K</i>itrâ.
 
 13\. To Vâyu, to Svâti.
 
@@ -843,7 +843,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 8\. He pours cold water into warm with (the verse), ‘Mix yourselves, ye holy ones, with your waves, ye honied ones, mixing milk with honey, ye lovely ones, for the obtaining of wealth.’
 
-9\. 'May the waters moisten thee for life, for old age and splendour. The threefold age of _G_amadagni, Ka<i>s</i>yapa's threefold age, the threefold age of <span id="p56">[<sup><small>p. 56</small></sup>]</span> Agastya, the threefold age that belongs to the gods, that threefold age I produce for thee! N.N.!'—with these words he sprinkles the right part of his hair three times with lukewarm water.
+9\. 'May the waters moisten thee for life, for old age and splendour. The threefold age of <i>G</i>amadagni, Ka<i>s</i>yapa's threefold age, the threefold age of <span id="p56">[<sup><small>p. 56</small></sup>]</span> Agastya, the threefold age that belongs to the gods, that threefold age I produce for thee! N.N.!'—with these words he sprinkles the right part of his hair three times with lukewarm water.
 
 10\. Having loosened the tangled locks, according to some (teachers), with a porcupine's quill,
 
@@ -907,7 +907,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 [^14]: 12:2 As to the duty of the Vedic student of putting every day a piece of wood on the sacred fire of his teacher, see below, II, 6, 8, and compare the G<i>ri</i>hya-sa<i>ri</i>graha-pari<i>ri</i>ish<i>ri</i>a II, 58. According to a Kârikâ given by Nârâya<i>ri</i>a, and the Karmapradîpa (I, 6, 13). the prescription of this Sûtra regarding the time for the kindling of the sacred fire refers exclusively to the case of vâgdâna (betrothal). Comp. also Dr. Bloomfield's note on the G<i>ri</i>hya-sa<i>ri</i>graha-pari<i>ri</i>ish<i>ri</i>a I, 76 (Zeitschrift der Deutschen Morgenländischen Gesellschaft, XXXV, 560). In the Kârikâ it is stated that if the betrothed girl dies after the fire has been kindled, but before the marriage, the sacrificer is not to forsake his fire, but to marry another girl; if he cannot find a bride, he should make the fire enter into himself according to the rules given by <i>S</i>âṅkhâyana-G<i>ri</i>hya V, 1, and himself become uttarâ<i>ri</i>ramin, i.e. enter one of the two final Â<i>ri</i>ramas.
 
-[^15]: 13:5 Nârâya<i>n</i>a: 'If the fire has not been kindled at the time stated above, then, after the householder . . . i.e. the father, even if he should not have performed the âdhâna, or the elder brother has died, the eldest son (or the son who after his elder brother's death has become the eldest), after he has performed the Sapi<i>n</i><i>n</i>îkara<i>n</i>a (for the dead father or brother; see below, IV, 3, and the ninth chapter of the Pari<i>n</i>ish<i>n</i>a \[book V\]), even if he has not divided the inheritance with his younger brothers (so that the time stated in the fourth Sûtra would not have arrived), should kindle the fire himself, i.e. without an officiating priest (_ri<i>n</i>g_). . . . Or the Sûtra should be divided into two; prete vâ g<i>n</i>hapatau (or after the death of the householder), and svaya_m<i>n</i>g_yâyân (the eminent one himself), i.e. of Brâhma<i>n</i>as, Kshatriyas, and Vai<i>n</i>yas a <i>g</i>yâyân, which means a most eminent person, a Brâhma<i>n</i>a, performs the Pâkaya<i>n</i><i>n</i>as himself; for the two other castes the Pâkaya<i>n</i><i>n</i>as have to be performed through an officiating priest: this is the meaning of this svaya<i>m</i> (himself).' I have given this note of Nârâya<i>n</i>a as a specimen of the entirely arbitrary and obviously misleading explanations which are unfortunately so frequently found in this author, as indeed in most of the other Sûtra commentators. As to the true meaning of this svaya<i>m</i> I still adhere to the explanation which I proposed in my German edition of the text (p. 118), that in case no division of the inheritance takes place, the sacred fire should be kindled on behalf of all the joint-proprietors, but that only the eldest brother should act personally (svaya<i>m</i>).
+[^15]: 13:5 Nârâya<i>n</i>a: 'If the fire has not been kindled at the time stated above, then, after the householder . . . i.e. the father, even if he should not have performed the âdhâna, or the elder brother has died, the eldest son (or the son who after his elder brother's death has become the eldest), after he has performed the Sapi<i>nd</i>îkara<i>n</i>a (for the dead father or brother; see below, IV, 3, and the ninth chapter of the Pari<i>n</i>ish<i>n</i>a \[book V\]), even if he has not divided the inheritance with his younger brothers (so that the time stated in the fourth Sûtra would not have arrived), should kindle the fire himself, i.e. without an officiating priest (_ri<i>n</i>g_). . . . Or the Sûtra should be divided into two; prete vâ g<i>n</i>hapatau (or after the death of the householder), and svaya_m<i>n</i>g_yâyân (the eminent one himself), i.e. of Brâhma<i>n</i>as, Kshatriyas, and Vai<i>n</i>yas a <i>g</i>yâyân, which means a most eminent person, a Brâhma<i>n</i>a, performs the Pâkaya<i>nd</i>as himself; for the two other castes the Pâkaya<i>nd</i>as have to be performed through an officiating priest: this is the meaning of this svaya<i>m</i> (himself).' I have given this note of Nârâya<i>n</i>a as a specimen of the entirely arbitrary and obviously misleading explanations which are unfortunately so frequently found in this author, as indeed in most of the other Sûtra commentators. As to the true meaning of this svaya<i>m</i> I still adhere to the explanation which I proposed in my German edition of the text (p. 118), that in case no division of the inheritance takes place, the sacred fire should be kindled on behalf of all the joint-proprietors, but that only the eldest brother should act personally (svaya<i>m</i>).
 
 [^16]: 13:8 Or, ‘at (the fire of) a person rich in cattle, in the house of a Vai<i>s</i>ya,’ &c.? The commentators (see p. 118 of the German p. 14 edition) differ as to whether in purupa<i>s</i>u-vi<i>s</i>kula one or two alternatives are contained, and it is interesting to see that the Sûtra authors themselves differed in this respect; Pâraskara (I, 2, 3), when declaring from what place the fire should be fetched, speaks of the house of a Vai<i>s</i>ya rich in cattle; Â<i>s</i>valâyana, on the contrary, who in the G<i>s</i>hya-sûtra does not expressly treat of the kindling of the domestic fire, in the corresponding passage of the <i>S</i>rauta-sûtra (II, 2, 1), gives the rule that the dakshi<i>s</i>âgni is to be fetched from the house of a Vai<i>s</i>ya or from a rich person.’
 
@@ -917,7 +917,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 [^19]: 15:13 <i>S</i>rauta-sûtra I, 1, 6. 7: ya<i>g</i><i>g</i>opavîtî devakarmâ<i>g</i>i karoti, prâ<i>g</i>înâvîtî pitryâ<i>g</i>i, &c. The unity of the ritual of course means the unity of the two great domains of the <i>S</i>rauta and G<i>g</i>hya ritual.
 
-[^20]: 15:15 With regard to the twenty-one kinds of sacrifice compare, for instance, Gautama VIII, 18-20; Max Müller, Z_D__M__G_. IX, p. lxxiii; Weber, Indische Studien, X, 326. The seven kinds of Pâkaya<i>g</i><i>g</i>as are the Ash<i>g</i>akâ sacrifices (see below, III, 12 seq.), the sacrifices offered at each Parvan (I, 3), the _S_râddha (or funeral) sacrifices (IV, 1 seq.), the sacrifice of the _S<i>g</i>n_î full moon (IV, 19), of the Âgrahâya<i>g</i>î (IV, 17 seq.), of the _K_aitrî (IV, 19), and of the Â<i>g</i>vayu<i>g</i>î (IV, 16). The seven Havis sacrifices (belonging, as is the case also with the third division of sacrifices, to the <i>S</i>rauta ritual) are the Agnyâdheya, the Agnihotra, the sacrifices of the full and new moon, the Âgraya<i>g</i>a, the three _K_âturmâsya sacrifices, the Nirû<i>g</i>apa<i>g</i>ubandha, and the Sautrâma<i>g</i>î. The seven kinds of Soma sacrifices (of which the more ancient texts mention only three or four sa<i>g</i>sthâs, see Weber, Indische Studien, IX, 1 20) are the Agnish<i>g</i>oma, the Atyagnish<i>g</i>oma, the Ukthya, the Sho<i>g</i>a<i>g</i>in, the Atirâtra, the Aptoryâma.
+[^20]: 15:15 With regard to the twenty-one kinds of sacrifice compare, for instance, Gautama VIII, 18-20; Max Müller, Z_D__M__G_. IX, p. lxxiii; Weber, Indische Studien, X, 326. The seven kinds of Pâkaya<i>g</i><i>g</i>as are the Ash<i>g</i>akâ sacrifices (see below, III, 12 seq.), the sacrifices offered at each Parvan (I, 3), the <i>S</i>râddha (or funeral) sacrifices (IV, 1 seq.), the sacrifice of the _S<i>g</i>n_î full moon (IV, 19), of the Âgrahâya<i>g</i>î (IV, 17 seq.), of the <i>K</i>aitrî (IV, 19), and of the Â<i>g</i>vayu<i>g</i>î (IV, 16). The seven Havis sacrifices (belonging, as is the case also with the third division of sacrifices, to the <i>S</i>rauta ritual) are the Agnyâdheya, the Agnihotra, the sacrifices of the full and new moon, the Âgraya<i>g</i>a, the three <i>K</i>âturmâsya sacrifices, the Nirû<i>g</i>apa<i>g</i>ubandha, and the Sautrâma<i>g</i>î. The seven kinds of Soma sacrifices (of which the more ancient texts mention only three or four sa<i>g</i>sthâs, see Weber, Indische Studien, IX, 1 20) are the Agnish<i>g</i>oma, the Atyagnish<i>g</i>oma, the Ukthya, the Sho<i>g</i>a<i>g</i>in, the Atirâtra, the Aptoryâma.
 
 [^21]: 16:1 3, 1. Most probably this rule should be divided into two Sûtras, so that atha darsapûr<i>n</i>amâsau would stand as the heading of the chapter; comp. below, chap. 18, 1, atha <i>k</i>aturthîkarma; chap. 24, 1, atha <i>k</i>âtakarma, &c.
 
@@ -927,7 +927,7 @@ of the two eastern intermediate directions, sacred to Î<i>valâyana-</i>âna, s
 
 The deities of the festivals of the new and full moon (i.e. of the rites which in the <i>S</i>rauta ritual correspond to that taught here) are, at the full moon, Agni and Agnîshomau, at the new moon, Agni, Vish<i>n</i>u, and Indrâgnî, who are preceded in both cases by Agni and Soma as the deities of the two â<i>n</i>yabhâgas (see below, ch. 9, 7), and followed by Agni Svish<i>n</i>ak<i>n</i>t. For more detailed statements see Hillebrandt, Das altindische Neu- und Vollmondsopfer (Jena, 1879), pp. 102 seq.
 
-[^24]: 17:4 For instance, the taking of the portion of food destined to Agni should be performed with the Mantra: Agnaye tvâ _g<i>ushta</i>m<i>ushta</i>ri<i>ushta</i>n_âmi, &c. A number of ceremonies common to the Sthâlîpâka ritual and to the ordinary ritual of Â<i>ushta</i>ya oblations, such as the strewing of Ku<i>ushta</i>a grass round the fire, the ceremonies regarding the Pavitras (strainers), &c., have to be supplied here from the Â<i>ushta</i>ya ritual given below (ch. 7 seq.); this may be looked upon as an argument in favour of our conjecture which will be stated in the preface (vol. ii of the G<i>ushta</i>hya-sûtras), that our text, as probably is the case also with the Pâraskara-sûtra, is based on an original, the opening sentences of which are preserved to us in _S_âṅkh. I, 5, 1-5 = Pâraskara I, 4, 1-5, so that the first chapters of <i>S</i>âṅkhâyana, and among them the exposition of the festivals of the full and new moon, would have been prefixed to the original commencement of the text.
+[^24]: 17:4 For instance, the taking of the portion of food destined to Agni should be performed with the Mantra: Agnaye tvâ _g<i>ushta</i>m<i>ushta</i>ri<i>ushta</i>n_âmi, &c. A number of ceremonies common to the Sthâlîpâka ritual and to the ordinary ritual of Â<i>ushta</i>ya oblations, such as the strewing of Ku<i>ushta</i>a grass round the fire, the ceremonies regarding the Pavitras (strainers), &c., have to be supplied here from the Â<i>ushta</i>ya ritual given below (ch. 7 seq.); this may be looked upon as an argument in favour of our conjecture which will be stated in the preface (vol. ii of the G<i>ushta</i>hya-sûtras), that our text, as probably is the case also with the Pâraskara-sûtra, is based on an original, the opening sentences of which are preserved to us in <i>S</i>âṅkh. I, 5, 1-5 = Pâraskara I, 4, 1-5, so that the first chapters of <i>S</i>âṅkhâyana, and among them the exposition of the festivals of the full and new moon, would have been prefixed to the original commencement of the text.
 
 [^25]: 18:5 On the avadânadharmâs comp. Weber, Indische Studien, X, 95; Hillebrandt, Neu- und Vollmondsopfer, pp. 122 seqq.
 
@@ -947,7 +947,7 @@ The deities of the festivals of the new and full moon (i.e. of the rites which i
 
 With regard to the fourfold division of Pâkaya<i>g</i><i>g</i>as stated here comp. below, chap. 10, 7.
 
-[^33]: 20:2 Comp. the Kârikâ quoted by Nârâya<i>n</i>a, ‘vivâhâdishu bâhyo ’gnir ma<i>n</i><i>n</i>ape <i>k</i>a tad ishyata iti.’
+[^33]: 20:2 Comp. the Kârikâ quoted by Nârâya<i>n</i>a, ‘vivâhâdishu bâhyo ’gnir ma<i>nd</i>ape <i>k</i>a tad ishyata iti.’
 
 [^34]: 20:3 On the Agni-pra<i>n</i>ayana comp. the details given in the G<i>n</i>hya-sa<i>n</i>graha-pari<i>n</i>ish<i>n</i>a (Zeitschrift der Deutschen Morgenländischen Gesellschaft, vol. xxxv), I, 64-69.
 
@@ -967,7 +967,7 @@ With regard to the fourfold division of Pâkaya<i>g</i><i>g</i>as stated here co
 
 [^42]: 23:9 On the Agnipra<i>n</i>ayana (carrying forward of the fire) see the G<i>n</i>hya-sa<i>n</i>graha-pari<i>n</i>ish<i>n</i>a I, 64-69.
 
-[^43]: 24:1 8, 1. Comp. the passages quoted in Professor Eggeling's note on _S_atapatha Br. I, 1, 1, 22.
+[^43]: 24:1 8, 1. Comp. the passages quoted in Professor Eggeling's note on <i>S</i>atapatha Br. I, 1, 1, 22.
 
 [^44]: 24:6 Ordinarily there was no real Brahman present, and his place was filled by a bundle of Ku<i>s</i>a grass that represented him. Nârâya<i>s</i>a states that this bundle should consist of fifty blades of Ku<i>s</i>a grass. Comp. also the G<i>s</i>hya-sa<i>s</i>graha-pari<i>s</i>ish<i>s</i>a I, 89-90.
 
@@ -1003,7 +1003,7 @@ With regard to the fourfold division of Pâkaya<i>g</i><i>g</i>as stated here co
 
 [^60]: 28:11 See chap. 8, 13.
 
-[^61]: 28:12 This Sûtra prescribes where the âvâpa, i.e. the special characteristical offerings of each sacrifice, is to be inserted between the regular offerings that belong to the standing model. The same subject is treated of in the <i>S</i>rauta-sûtra in the two rules, I, 16, 3 and 4: ‘Whatsoever is offered between the two Â<i>t</i>ya portions and the Svish<i>t</i>ak<i>t</i>t, that is called âvâpa; this is the chief part (pradhâna) (of the sacrifice); the other (oblations) are subordinate thereto (tadaṅgâni).’ The position of the âvâpa among the other oblations is indicated by Pâraskara in the following rule (I, 5, 6): Between the general expiation and the oblation to Pra<i>t</i>âpati, this is the place for the âvâpa.' (The word vivâhe at the end of this Sûtra seems to me to belong not to this rule, but to Sûtra 7.) Our Sûtra is identical with that of Pâraskara word for word; only instead of sarvaprâya<i>t</i><i>t</i>itta, as Pâraskara has, we read here, mahâvyâh<i>t</i>tisarvaprâya<i>t</i><i>t</i>itta. This means, I believe, that the âvâpa, preceded and followed by the Mahâvyâh<i>t</i>ti oblations (comp. below, I, 12, 13), should be placed between the Sarvaprâya<i>t</i><i>t</i>itta and the Prâ<i>t</i>âpatya oblation. The oblations made with the Mahâvyâh<i>t</i>tayas are four in number; the corresponding formulas are: bhû<i>h</i> svâhâ, bhuva<i>h</i> svâhâ, svâ<i>h</i> svâhâ, bhûr bhuva_h<i>t</i>h_ svâhâ (comp. below, chap. 12, 12). The Sarvaprâya<i>t</i><i>t</i>itta (general expiation) consists of two oblations, one with the three Mahâvyâh<i>t</i>tayas, the other with the verse ayâ_s<i>t</i>k_âgne, quoted in the <i>S</i>rauta-sûtra III, 19, 3, and in Â<i>t</i>valâyana's <i>S</i>rauta-sûtra I, 11, 13. (On the Sarvaprâya<i>t</i><i>t</i>itta in the <i>S</i>rauta ritual, compare Hillebrandt, Neu- und Vollmondsopfer, p. 166.) The Prâ<i>t</i>âpatya oblation is performed with the formula Pra<i>t</i>âpataye svâhâ. The discussions of Nârâya<i>t</i>a on this Sûtra (see p. 125 of the German edition) evidently fail to bring out the true meaning of the text; according to this commentator the oblations follow each other in this order: the two Â<i>t</i>yabhâgas, the principal oblations (pradhânâhutaya<i>h</i>), the Svish<i>t</i>ak<i>t</i>t, the four Mahâvyâh<i>t</i>ti oblations, the two Sarvaprâya<i>t</i><i>t</i>itta oblations, the Prâ<i>t</i>âpatya oblation. Finally we may mention the corrupt form in which the corresponding passage of the _S_âmbavya-sûtra is preserved p. 29 in the MS. There the two Sûtras 10 and 11 are placed before the Mantra in Sûtra 9. This Mantra then is given down to svâheti, then follows â<i>t</i>yena, which seems to me to form part of the same Sûtra, and to refer to the oblations to which the Mantra belongs. Then the MS. goes on: mahâvyâh<i>t</i>tishu sarvaprâya<i>t</i><i>t</i>ittâra_m<i>t</i>m<i>t</i>g<i>t</i>ri<i>t</i>s_<i>t</i>ittâra_m<i>t</i>s_<i>t</i>ittâra_m<i>t</i>t<i>t</i>ri_to sthâlîpâke. In the commentary I find the following <i>S</i>lokas, which I give exactly as they are read in the MS.: tis<i>t</i><i>t</i>â_m<i>t</i>ri<i>t</i>m<i>t</i>k<i>t</i>s_<i>t</i>ittâhutîr api yad antara_m<i>t</i>m<i>t</i>h_pradhânake. sthâlîpâke vyâh<i>t</i>tinâ_m<i>t</i>t<i>t</i>ri<i>t</i>m<i>t</i>m<i>t</i>m<i>t</i>kh<i>t</i>m<i>t</i>k<i>t</i>h<i>t</i>m<i>t</i>s_<i>t</i>ittâhuti<i>h</i> kramât.
+[^61]: 28:12 This Sûtra prescribes where the âvâpa, i.e. the special characteristical offerings of each sacrifice, is to be inserted between the regular offerings that belong to the standing model. The same subject is treated of in the <i>S</i>rauta-sûtra in the two rules, I, 16, 3 and 4: ‘Whatsoever is offered between the two Â<i>t</i>ya portions and the Svish<i>t</i>ak<i>t</i>t, that is called âvâpa; this is the chief part (pradhâna) (of the sacrifice); the other (oblations) are subordinate thereto (tadaṅgâni).’ The position of the âvâpa among the other oblations is indicated by Pâraskara in the following rule (I, 5, 6): Between the general expiation and the oblation to Pra<i>t</i>âpati, this is the place for the âvâpa.' (The word vivâhe at the end of this Sûtra seems to me to belong not to this rule, but to Sûtra 7.) Our Sûtra is identical with that of Pâraskara word for word; only instead of sarvaprâya<i>t</i><i>t</i>itta, as Pâraskara has, we read here, mahâvyâh<i>t</i>tisarvaprâya<i>t</i><i>t</i>itta. This means, I believe, that the âvâpa, preceded and followed by the Mahâvyâh<i>t</i>ti oblations (comp. below, I, 12, 13), should be placed between the Sarvaprâya<i>t</i><i>t</i>itta and the Prâ<i>t</i>âpatya oblation. The oblations made with the Mahâvyâh<i>t</i>tayas are four in number; the corresponding formulas are: bhû<i>h</i> svâhâ, bhuva<i>h</i> svâhâ, svâ<i>h</i> svâhâ, bhûr bhuva_h<i>t</i>h_ svâhâ (comp. below, chap. 12, 12). The Sarvaprâya<i>t</i><i>t</i>itta (general expiation) consists of two oblations, one with the three Mahâvyâh<i>t</i>tayas, the other with the verse ayâ_s<i>t</i>k_âgne, quoted in the <i>S</i>rauta-sûtra III, 19, 3, and in Â<i>t</i>valâyana's <i>S</i>rauta-sûtra I, 11, 13. (On the Sarvaprâya<i>t</i><i>t</i>itta in the <i>S</i>rauta ritual, compare Hillebrandt, Neu- und Vollmondsopfer, p. 166.) The Prâ<i>t</i>âpatya oblation is performed with the formula Pra<i>t</i>âpataye svâhâ. The discussions of Nârâya<i>t</i>a on this Sûtra (see p. 125 of the German edition) evidently fail to bring out the true meaning of the text; according to this commentator the oblations follow each other in this order: the two Â<i>t</i>yabhâgas, the principal oblations (pradhânâhutaya<i>h</i>), the Svish<i>t</i>ak<i>t</i>t, the four Mahâvyâh<i>t</i>ti oblations, the two Sarvaprâya<i>t</i><i>t</i>itta oblations, the Prâ<i>t</i>âpatya oblation. Finally we may mention the corrupt form in which the corresponding passage of the <i>S</i>âmbavya-sûtra is preserved p. 29 in the MS. There the two Sûtras 10 and 11 are placed before the Mantra in Sûtra 9. This Mantra then is given down to svâheti, then follows â<i>t</i>yena, which seems to me to form part of the same Sûtra, and to refer to the oblations to which the Mantra belongs. Then the MS. goes on: mahâvyâh<i>t</i>tishu sarvaprâya<i>t</i><i>t</i>ittâra_m<i>t</i>m<i>t</i>g<i>t</i>ri<i>t</i>s_<i>t</i>ittâra_m<i>t</i>s_<i>t</i>ittâra_m<i>t</i>t<i>t</i>ri_to sthâlîpâke. In the commentary I find the following <i>S</i>lokas, which I give exactly as they are read in the MS.: tis<i>t</i><i>t</i>â_m<i>t</i>ri<i>t</i>m<i>t</i>k<i>t</i>s_<i>t</i>ittâhutîr api yad antara_m<i>t</i>m<i>t</i>h_pradhânake. sthâlîpâke vyâh<i>t</i>tinâ_m<i>t</i>t<i>t</i>ri<i>t</i>m<i>t</i>m<i>t</i>m<i>t</i>kh<i>t</i>m<i>t</i>k<i>t</i>h<i>t</i>m<i>t</i>s_<i>t</i>ittâhuti<i>h</i> kramât.
 
 [^62]: 29:17 See above, chap. 8, 17.
 
@@ -1029,7 +1029,7 @@ With regard to the fourfold division of Pâkaya<i>g</i><i>g</i>as stated here co
 
 On the anvârambha, comp. Weber's Indische Studien, IX, 224.
 
-[^73]: 32:4 The ‘king Pratyânîka’ has given origin to a very curious misunderstanding in the _S_âmbavya-G<i>ri</i>hya and its commentary; see p. 127 of the German edition.
+[^73]: 32:4 The ‘king Pratyânîka’ has given origin to a very curious misunderstanding in the <i>S</i>âmbavya-G<i>ri</i>hya and its commentary; see p. 127 of the German edition.
 
 [^74]: 33:5 12, 5. On the ceremony of ‘salving together’ (sama<i>ñ</i><i>ñ</i>ana), comp. Pâraskara I, 4, 14; Gobhila II, 2, &c. Professor Stenzler is certainly wrong in translating Pâraskara's sama<i>ñ</i><i>ñ</i>ayati by ‘heisst sie beide zusammentreten’ (according to <i>G</i>ayarâma's explication, sammukhîkaroti). It is clear from <i>S</i>âṅkhâyana, that a real anointing of bridegroom and bride took place. This was performed, according to Gobhila, by the ‘audaka’ (this seems to be the same person that is mentioned in Pâraskara I, 8, 3), of whom it is said, pâ<i>ñ</i>igrâha<i>m</i> (i.e. the bridegroom) mûrdhade<i>ñ</i>e ’vasi<i>ñ</i><i>ñ</i>ati, tathetarâm. Nârâya<i>ñ</i>a, on the contrary, in his note on our passage, says that it is the bridegroom who anoints the eyes of the girl with the verse quoted. But the word sam-a<i>ñ</i><i>ñ</i>ana, and the obvious meaning of the whole rite, make it rather probable that both were anointed, and that this was done by a third person.
 
@@ -1096,9 +1096,9 @@ On ku<i>s</i>aka<i>s</i><i>s</i>aka Nârâya<i>s</i>a says, ku<i>s</i>aka<i>s</i
 
 [^104]: 49:16-17 16, 17. Nârâya<i>n</i>a: modamânî_m<i>n</i>m<i>n</i>m_ mâṅgalikair gîtair gâyayet . . . mahâhemavatî_m<i>n</i>n<i>n</i>m_ vâ gâyayet.
 
-[^105]: 49:1 24, 1. Comp. Dr. Speijer's essay on the _G_âtakarman (Leiden, 1872). Nârâya<i>n</i>a observes that, as it is prescribed below (chap. 25, 4) that a mess of food is to be cooked in the sûtikâgni, here the sûtikâgni is established, and sacrifice is performed therein. The Sûtra I, 25, 4, from which it is to be inferred that the sûtikâgni should be kept, is considered, accordingly, as a _G_<i>n</i>âpaka (see Professor Bühler's notes on Âpastamba I, II, 7; Gautama p. 50 I, 31; Nârâya<i>n</i>a's note on chap. 25, 4, p. 133 of the German edition).
+[^105]: 49:1 24, 1. Comp. Dr. Speijer's essay on the <i>G</i>âtakarman (Leiden, 1872). Nârâya<i>n</i>a observes that, as it is prescribed below (chap. 25, 4) that a mess of food is to be cooked in the sûtikâgni, here the sûtikâgni is established, and sacrifice is performed therein. The Sûtra I, 25, 4, from which it is to be inferred that the sûtikâgni should be kept, is considered, accordingly, as a _G_<i>n</i>âpaka (see Professor Bühler's notes on Âpastamba I, II, 7; Gautama p. 50 I, 31; Nârâya<i>n</i>a's note on chap. 25, 4, p. 133 of the German edition).
 
-[^106]: 50:2 Abhyavânya should be corrected into abhyapânya, as in IV, 18, 1 nearly all the MSS. read nivâta instead of nipâta. The _S_âmbavya MS. reads in the text, trir abhyânyânuprâ<i>n</i>ya; in the commentary trir a<i>n</i>yapâ<i>n</i>yânuprâ<i>n</i>yâ. Comp., on the terminology of the different vital airs, Speijer, _G_âtakarma, p. 64 seq.; Eggeling, S.B.E., vol. xii, p. 20.
+[^106]: 50:2 Abhyavânya should be corrected into abhyapânya, as in IV, 18, 1 nearly all the MSS. read nivâta instead of nipâta. The <i>S</i>âmbavya MS. reads in the text, trir abhyânyânuprâ<i>n</i>ya; in the commentary trir a<i>n</i>yapâ<i>n</i>yânuprâ<i>n</i>yâ. Comp., on the terminology of the different vital airs, Speijer, <i>G</i>âtakarma, p. 64 seq.; Eggeling, S.B.E., vol. xii, p. 20.
 
 [^107]: 51:8 Veti vikalpârthe. bhûr _ri<i>gvedam ityâdi</i>k_aturbhir mantrair asâv ity atra pûrveva (read pûrvavat?) kumâranâmagraha<i>gvedam ityâdi</i>apûrvaka_m<i>gvedam ityâdi</i>m<i>gvedam ityâdi</i>s_ayet. Nârâya<i>gvedam ityâdi</i>a.
 
@@ -1112,13 +1112,13 @@ On ku<i>s</i>aka<i>s</i><i>s</i>aka Nârâya<i>s</i>a says, ku<i>s</i>aka<i>s</i
 
 [^112]: 52:11 ‘The words “every month” (Sûtra 10) retain their value p. 53(here also). Thus the sûtikâgni is to be kept through one year. After the lapse of that year one should sacrifice every month on the domestic fire as long as his life lasts. As it is said “in the domestic fire,” the sûtikâgni is not to be kept any longer.’ Nârâya<i>n</i>a.
 
-[^113]: 53:1 26, 1. This chapter is not found in the _S_âmbavya-G<i>ri</i>hya, and Nârâya<i>ri</i>a expressly designates it as kshepaka kha<i>ri</i><i>ri</i>a. It is a sort of appendix to the Sûtras 25, 5. 6; a sacrifice having there been prescribed to three Nakshatras with their presiding deities, an enumeration of the Nakshatras and deities is here given. Compare, on similar lists, Weber's second article on the Nakshatras seq. (Abhandlungen der Berliner Akademie der Wissenschaften, 1861), pp. 289 , 315, 367 seq.
+[^113]: 53:1 26, 1. This chapter is not found in the <i>S</i>âmbavya-G<i>ri</i>hya, and Nârâya<i>ri</i>a expressly designates it as kshepaka kha<i>ri</i><i>ri</i>a. It is a sort of appendix to the Sûtras 25, 5. 6; a sacrifice having there been prescribed to three Nakshatras with their presiding deities, an enumeration of the Nakshatras and deities is here given. Compare, on similar lists, Weber's second article on the Nakshatras seq. (Abhandlungen der Berliner Akademie der Wissenschaften, 1861), pp. 289 , 315, 367 seq.
 
 [^114]: 54:2-6 27, 2-6. These rules stand here, in the beginning of the chapter, as introductory remarks; the act of feeding itself (Sûtra 10) does not follow till after the sacrifice and the other performances prescribed in Sûtras 7-9.
 
 [^115]: 54:3 This rule evidently rests on the allusion of taittira (partridge flesh) to the Taittirîya school.
 
-[^116]: 54:7 Both metre and construction show that the Pâda imam Agna âyushe var<i>k</i>ase is incomplete; the _S_âmbavya-G<i>k</i>hya and Taitt. Sa<i>k</i>hitâ II, 3, 10, 3 add k<i>k</i>dhi after var<i>k</i>ase.
+[^116]: 54:7 Both metre and construction show that the Pâda imam Agna âyushe var<i>k</i>ase is incomplete; the <i>S</i>âmbavya-G<i>k</i>hya and Taitt. Sa<i>k</i>hitâ II, 3, 10, 3 add k<i>k</i>dhi after var<i>k</i>ase.
 
 [^117]: 55:1 28, 1. _K<i>û</i>l_âkarman literally means, the preparing of the lock or the locks (left when the rest of the hair is shaven).
 

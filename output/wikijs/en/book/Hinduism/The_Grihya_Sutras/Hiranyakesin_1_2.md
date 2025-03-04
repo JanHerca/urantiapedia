@@ -68,7 +68,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 And (again the formulas),
 
-‘Bhû_h_! I place thee in the _Ri_<i>k</i>as, in Agni, on the earth, in voice, in the Brahman, N.N.!
+‘Bhû_h_! I place thee in the <i>Rik<i>as, in Agni, on the earth, in voice, in the Brahman, N.N.!
 
 ‘Bhuva_h_! I place thee in the Ya<i>g</i>us, in Vâyu, in the air, in breath, in the Brahman, N.N.!
 
@@ -126,7 +126,7 @@ And (again the formulas),
 
 1\. [^516] He then causes (the student) to put on the fire seven pieces of fresh Palâ<i>s</i>a wood, with unbroken tops, of one span's length, which have been anointed with ghee.
 
-2\. [^517] One (of these pieces of wood he puts on the fire) with (the Mantra), ‘To Agni I have brought a piece of wood, to the great _G_âtavedas. As thou art inflamed, Agni, through that piece of wood, thus inflame me through wisdom, insight, offspring, cattle, holy lustre, and through the enjoyment of food. Svâhâ!’—
+2\. [^517] One (of these pieces of wood he puts on the fire) with (the Mantra), ‘To Agni I have brought a piece of wood, to the great <i>G</i>âtavedas. As thou art inflamed, Agni, through that piece of wood, thus inflame me through wisdom, insight, offspring, cattle, holy lustre, and through the enjoyment of food. Svâhâ!’—
 
 3\. (Then he puts on the fire) two (pieces of wood with the same Mantra, using the dual instead of the <span id="p156">[<sup><small>p. 156</small></sup>]</span> singular), ‘To Agni (I have brought) two pieces of wood;’
 
@@ -181,7 +181,7 @@ And (again the formulas),
 
 1\. [^530] He keeps through three days the (following) vow:
 
-2\. [^531] He eats no pungent or saline food and no vegetables; he sleeps on the ground; he does not drink out of an earthen vessel; he does not give the remnants of his food to a _S_ûdra; he does not eat honey or meat; he does not sleep in the daytime; <span id="p159">[<sup><small>p. 159</small></sup>]</span> in the morning and in the evening he brings (to his teacher) the food which he has received as alms and a pot of water; every day (he fetches) a bundle of firewood; in the morning and in the evening, or daily in the evening he puts fuel on (the fire, in the following way):
+2\. [^531] He eats no pungent or saline food and no vegetables; he sleeps on the ground; he does not drink out of an earthen vessel; he does not give the remnants of his food to a <i>S</i>ûdra; he does not eat honey or meat; he does not sleep in the daytime; <span id="p159">[<sup><small>p. 159</small></sup>]</span> in the morning and in the evening he brings (to his teacher) the food which he has received as alms and a pot of water; every day (he fetches) a bundle of firewood; in the morning and in the evening, or daily in the evening he puts fuel on (the fire, in the following way):
 
 3\. [^532] Before sprinkling (water) round (the fire), he wipes (with his wet hand) from left to right round (the fire) with the verse, ‘As you have loosed, O Vasus, the buffalo-cow’ (Taitt. Sa<i>m</i>h. IV, 7, 15, 7), and sprinkles (water) round (the fire) as above.
 
@@ -217,9 +217,9 @@ And (again the formulas),
 
 15\. He should not, however, omit keeping the observances.
 
-16\. [^541] At the beginning and on the completion of the study of a Kâ<i>n</i><i>n</i>a (of the Black Ya<i>n</i>ur-veda he sacrifices) with (the verse), ‘The lord of the seat, the wonderful one, the friend of Indra, the dear one, I have entreated for the gift of insight. Svâhâ!’
+16\. [^541] At the beginning and on the completion of the study of a Kâ<i>nd</i>a (of the Black Ya<i>n</i>ur-veda he sacrifices) with (the verse), ‘The lord of the seat, the wonderful one, the friend of Indra, the dear one, I have entreated for the gift of insight. Svâhâ!’
 
-In the second place the _Ri_shi of the Kâ<i>n</i><i>n</i>a (receives an oblation).
+In the second place the <i>Ri</i>shi of the Kâ<i>nd</i>a (receives an oblation).
 
 (Then follow oblations with the verses), ‘This, O Varu<i>n</i>a;’ ‘For this I entreat thee;’ ‘Thou, Agni;’ ‘Thus thou, Agni;’ ‘Thou, Agni, art quick;’ ‘Pra<i>n</i>âpati!’ and, ‘What I have done too much in this sacrifice.’ Here some add as subordinate oblations the <i>G</i>aya, Abhyâtâna, and Râsh<i>n</i>rabh<i>n</i>t (oblations) as above.
 
@@ -335,4 +335,4 @@ End of the Second Pa<i>t</i>ala.
 
 [^540]: 160:14 Â<i>ri</i>valâyana-G<i>ri</i>hya I, 22, 3; Âpastamba Dharma-sûtra I, 1, 2, 12 seq.
 
-[^541]: 161:16 <i>Ri</i>g-veda I, 18, 6. As the _Ri_shis of the single Kâ<i>n</i><i>n</i>as are considered, Pra<i>n</i>âpati, Soma, Agni, the Vi<i>n</i>ve devâs, Svayambhû. Regarding the Mantras quoted in the last section of this Sûtra, see above, I, 1, 3, 5-7.
+[^541]: 161:16 <i>Ri</i>g-veda I, 18, 6. As the <i>Ri</i>shis of the single Kâ<i>nd</i>as are considered, Pra<i>n</i>âpati, Soma, Agni, the Vi<i>n</i>ve devâs, Svayambhû. Regarding the Mantras quoted in the last section of this Sûtra, see above, I, 1, 3, 5-7.

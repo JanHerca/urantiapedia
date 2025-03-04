@@ -55,7 +55,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. [^1006]. He should pour out the sacrificial food with (the formula), ‘Agreeable to such and such (a deity) I pour thee out:’ (this formula) referring to the
 
-II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>n</i>a_m<i>n</i>k<i>n</i>n<i>n</i>t_vâtha tat kuryâd. 3. akurvan paur<i>n</i>amâsîm âkâṅkshed ity eke. 4. ऽparâh<i>n</i>e snâtvaupavasathika_m<i>n</i>ñ_<i>n</i>îyâtâm. 5. Mânadantavya uvâ<i>n</i>a: _s<i>n</i>m<i>n</i>g<i>n</i>m<i>n</i>m_ bhuṅkte. 6. tasmâd yat kâmayeta tad bhu<i>n</i><i>n</i>îta. 7. nâvratyam â<i>n</i>aret. 8. prâtarâhuti<i>m</i> hutvâ 9. havir nirvaped amushmai tvâ _g<i>n</i>t<i>n</i>m<i>n</i>s<i>n</i>m<i>n</i>ri<i>n</i>g<i>n</i>n<i>n</i>m_. <span id="p390">[<sup><small>p. 390</small></sup>]</span> deity, or a Ya<i>n</i>us, (is repeated) once; twice (it is done) silently.
+<small>II, 1, 1. paur<i>n</i>amâsopakramau dar<i>s</i>apaur<i>n</i>amâsau. 2. dâr<i>s</i>a<i>m</i> <i>k</i>et pûrvam upapadyeta paur<i>n</i>amâsenesh<i>t</i>vâtha tat kuryâd. 3. akurvan paur<i>n</i>amâsîm âkâṅkshed ity eke. 4. ऽparâh<i>n</i>e snâtvaupavasathika<i>m</i> dampatî bhu<i>ñ</i><i>g</i>îyâtâm. 5. Mânadantavya uvâ<i>k</i>a: <i>s</i>reyasî<i>m</i> pra<i>g</i>â<i>m</i> vindate kâmyo bhavaty akshodhuko ya aupavasathika<i>m</i> bhuṅkte. 6. tasmâd yat kâmayeta tad bhu<i>ñ</i><i>g</i>îta. 7. nâvratyam â<i>k</i>aret. 8. prâtarâhuti<i>m</i> hutvâ 9. havir nirvaped amushmai tvâ <i>g</i>ush<i>t</i>a<i>m</i> nirvapâmîti devatâ<i>s</i>raya<i>m</i> sak<i>ri</i>d ya<i>g</i>ur vâ dvis tûsh<i>n</i>î<i>m</i>.</small>
+
+<span id="p390">[<sup><small>p. 390</small></sup>]</span> deity, or a Ya<i>n</i>us, (is repeated) once; twice (it is done) silently.
 
 10\. He should wash (the food) thrice, (if it is destined) for gods;
 
@@ -71,13 +73,15 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 16\. Having put (the Havis) on the sacrificial grass,
 
-17\. [^1007]. He should sacrifice the two Â<i>ri</i>ya portions (in the following way): Having taken four portions of Â<i>ri</i>ya—five portions are taken by the Bh<i>ri</i>gus (or at least?) by the _G_âmadagnyas \[see Indische Studien, 10, 95\]—(he should make two oblations), to the north with (the formula), ‘To Agni Svâhâ!’ to the south with (the formula), ‘To Soma Svâhâ!’
+17\. [^1007]. He should sacrifice the two Â<i>ri</i>ya portions (in the following way): Having taken four portions of Â<i>ri</i>ya—five portions are taken by the Bh<i>ri</i>gus (or at least?) by the <i>G</i>âmadagnyas \[see Indische Studien, 10, 95\]—(he should make two oblations), to the north with (the formula), ‘To Agni Svâhâ!’ to the south with (the formula), ‘To Soma Svâhâ!’
 
 18\. Others (do it) conversely.
 
 19\. Having ‘spread under’ Â<i>g</i>ya, he should cut off with the pot-ladle (portions) of the Havis from the middle and from the eastern side;
 
-10\. trir devebhya<i>h</i> prakshâlayed. 11. dvir manushyebhya_h_. 12. sak<i>ri</i>t pit<i>ri</i>bhyo. 13. meksha<i>ri</i>ena pradakshi<i>ri</i>am udâyuva_ñ<i>ri</i>s<i>ri</i>k_. 14. _kh_<i>ri</i>tam abhighâryodag udvâsya pratyabhighârayet. 15. sarvâ<i>ri</i>y eva_m<i>ri</i>m_shi. 16. barhishy âsâdyâ. 17. ऽgyabhâgau _g<i>ri</i>k<i>ri</i>k<i>ri</i>ri<i>ri</i>g<i>ri</i>m<i>ri</i>ri<i>ri</i>ñ_<i>ri</i>âvatta<i>h</i> Bh<i>ri</i>gû<i>ri</i>â_m<i>ri</i>G_âmadagnyânâm Agnaye svâhety uttarata<i>h</i> Somâyeti dakshi<i>ri</i>ato. 18. viparîtam itara. 19. â<i>ri</i>yam upastîrya havishoऽvadyen meksha<i>ri</i>ena madhyât purastâd iti. <span id="p391">[<sup><small>p. 391</small></sup>]</span>
+<small>10. trir devebhya<i>h</i> prakshâlayed. 11. dvir manushyebhya<i>h</i>. 12. sak<i>ri</i>t pit<i>ri</i>bhyo. 13. meksha<i>n</i>ena pradakshi<i>n</i>am udâyuva<i>ñ</i> <i>s</i>rapaye<i>k</i>. 14. <i>kh</i><i>ri</i>tam abhighâryodag udvâsya pratyabhighârayet. 15. sarvâ<i>n</i>y eva<i>m</i> havî<i>m</i>shi. 16. barhishy âsâdyâ. 17. ऽgyabhâgau <i>g</i>uhuyâ<i>k</i> <i>k</i>aturg<i>ri</i>hîtam â<i>g</i>ya<i>m</i> g<i>ri</i>hîtvâ pa<i>ñ</i><i>k</i>âvatta<i>m</i> Bh<i>ri</i>gû<i>n</i>â<i>m</i> <i>G</i>âmadagnyânâm Agnaye svâhety uttarata<i>h</i> Somâyeti dakshi<i>n</i>ato. 18. viparîtam itara. 19. â<i>g</i>yam upastîrya havishoऽvadyen meksha<i>n</i>ena madhyât purastâd iti.</small>
+
+<span id="p391">[<sup><small>p. 391</small></sup>]</span>
 
 20\. One who takes five cut-off portions (see Sûtra 17), also from the western side.
 
@@ -93,7 +97,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 26\. He should dip Darbha-blades (of the sacrificial grass strewn round the fire) three times, the points, the middle, and the roots, into the Â<i>g</i>ya or into the Havis with (the words), ‘May the birds come, licking what has been anointed.’ Then, after having sprinkled (those Darbha-blades with water), he should throw them into the fire, with (the verse), ‘Thou who art the lord of cattle, Rudra, who walkest with the lines (of cattle), the manly one: do no harm to our cattle; let this be offered to thee. Svâhâ!’
 
-20\. pa<i>s</i><i>s</i>a_k<i>s</i>k<i>s</i>ñ_<i>s</i>âvatty. 21. abhighârya pratyanakty avadânasthânâni. 22. na svish<i>s</i>ak<i>s</i>to. 23. ऽmushmai svâheti _g<i>s</i>m_ syât. 24. svish<i>s</i>ak<i>s</i>ta_h<i>s</i>ri_d upastîrya dvir Bh<i>s</i>gû<i>s</i>â_m<i>s</i>ri_d dhavisho \[sic\] dvir abhighâryâgnaye svish<i>s</i>ak<i>s</i>te svâheti prâgudî<i>s</i>yâ<i>m</i> guhuyât. 25. samidham âdhâya. 26. darbhân â<i>s</i>ye havishi vi trir avadhâyâgramadhyamûlâny akta_m<i>s</i>n<i>s</i>h<i>s</i>s_ûnâm adhipatî Rudras tanti<i>s</i>aro v<i>s</i>shâ pa<i>s</i>ûn asmâ<i>s</i>a_m<i>s</i>m_sîr etad astu hutan tava svâheti. <span id="p392">[<sup><small>p. 392</small></sup>]</span>
+<small>20. pa<i>s</i><i>k</i>a<i>k</i> <i>k</i>a pa<i>ñ</i><i>k</i>âvatty. 21. abhighârya pratyanakty avadânasthânâni. 22. na svish<i>t</i>ak<i>ri</i>to. 23. ऽmushmai svâheti <i>g</i>uhuyâd yaddevatya<i>m</i> syât. 24. svish<i>t</i>ak<i>ri</i>ta<i>h</i> sak<i>ri</i>d upastîrya dvir Bh<i>ri</i>gû<i>n</i>â<i>m</i> sak<i>ri</i>d dhavisho [sic] dvir abhighâryâgnaye svish<i>t</i>ak<i>ri</i>te svâheti prâgudî<i>k</i>yâ<i>m</i> guhuyât. 25. samidham âdhâya. 26. darbhân â<i>g</i>ye havishi vi trir avadhâyâgramadhyamûlâny akta<i>m</i> rihâ<i>n</i>â viyantu vaya ity abhyukshyâgnâv anuprahared ya<i>h</i> pa<i>s</i>ûnâm adhipatî Rudras tanti<i>k</i>aro v<i>ri</i>shâ pa<i>s</i>ûn asmâ<i>k</i>a<i>m</i> mâ hi<i>m</i>sîr etad astu hutan tava svâheti.</small>
+
+<span id="p392">[<sup><small>p. 392</small></sup>]</span>
 
 27\. This (ceremony is called) Ya<i>s</i><i>s</i>avâstu.
 
@@ -105,7 +111,7 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 31\. Or as much as he can afford.
 
-27\. tad ya<i>g</i><i>g</i>avâstu. 28. sarvatra kuryâd. 29. dhavir u<i>g</i><i>g</i>ish<i>g</i>am udag udvâsya brahma<i>g</i>e dadyât. 30. pûr<i>g</i>apâtra_m<i>g</i>n_â. 31. yathotsâha<i>m</i> vâ.
+<small>27. tad ya<i>g</i><i>ñ</i>avâstu. 28. sarvatra kuryâd. 29. dhavir u<i>k</i><i>kh</i>ish<i>t</i>am udag udvâsya brahma<i>n</i>e dadyât. 30. pûr<i>n</i>apâtra<i>m</i> dakshi<i>n</i>â. 31. yathotsâha<i>m</i> vâ.<small>
 
 
 
@@ -127,7 +133,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 7\. For the sacrifice of the full moon the whole second fortnight (of the month);
 
-2\. 1. Âgneya sthâlîpâkoऽnâhitâgner dar<i>s</i>apûr<i>s</i>amâsayor. 2. agnîshomîya_h<i>s</i>n_amâsyâm âhitâgner. 3. aindro mâhendro vaindrâgno vâmâvâsyâyâ_m_. 4. yathâ vânâhitâgnes. 5. sarvam aha_h<i>s</i>m_. 6. râtris sâyamâhutes. 7. sarvoऽparapaksha_h<i>s</i>n_amâsasya. <span id="p393">[<sup><small>p. 393</small></sup>]</span>
+<small>2, 1. Âgneya sthâlîpâkoऽnâhitâgner dar<i>s</i>apûr<i>n</i>amâsayor. 2. agnîshomîya<i>h</i> paur<i>n</i>amâsyâm âhitâgner. 3. aindro mâhendro vaindrâgno vâmâvâsyâyâ<i>m</i>. 4. yathâ vânâhitâgnes. 5. sarvam aha<i>h</i> prâtarâhute sthâna<i>m</i>. 6. râtris sâyamâhutes. 7. sarvoऽparapaksha<i>h</i> paur<i>n</i>amâsasya.</small>
+
+<span id="p393">[<sup><small>p. 393</small></sup>]</span>
 
 8\. For the sacrifice of the new moon the first fortnight.
 
@@ -151,9 +159,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 18\. After she has bathed, her husband should put on her a (new) garment that has not yet been washed, and after having sacrificed he should stand behind her.
 
-19\. Grasping down over her right shoulder he
+19\. Grasping down over her right shoulder he <span id="p394">[<sup><small>p. 394</small></sup>]</span> should touch the uncovered place of her navel with (the verse), ‘The two men’ (MB. I, 4, 8).
 
-8\. pûrvapaksho dâr<i>s</i>asyâ. 9. bho<i>s</i>anena santanuyâd ity eke. 10. ऽvidyamâne havye yag<i>s</i>iyânâ_m<i>s</i>g_uhuyât. 11. palâ<i>s</i>âni vâ. 12. ऽpo vâ. 13. huta<i>m</i> hi. 14. prâya<i>s</i><i>s</i>ittam ahutasyâ. 15. ऽ<i>s</i>ya_ñ<i>s</i>g<i>s</i>s_e. 16. devatâ \[corr. devatâ_m_?\] mantrânâde<i>s</i>e. 17. prathamagarbhe t<i>s</i>tîye mâsi pu<i>s</i>savana_m_. 18. snâtâm ahatenâ<i>s</i>âdya hutvâ pati_h<i>s</i>ri<i>s</i>th<i>s</i>th_ed. 19. dakshi<i>s</i>am a<i>s</i>sam anvabhim<i>s</i><i>s</i>yânantarhita_m<i>s</i>m_, °hitân, the MSS.) nâbhide<i>s</i>am abhim<i>s</i><i>s</i>et pumâ<i>s</i>sâv ity. <span id="p394">[<sup><small>p. 394</small></sup>]</span> should touch the uncovered place of her navel with (the verse), ‘The two men’ (MB. I, 4, 8).
+<small>8. pûrvapaksho dâr<i>s</i>asyâ. 9. bho<i>g</i>anena santanuyâd ity eke. 10. ऽvidyamâne havye yag<i>ñ</i>iyânâ<i>m</i> phalâni <i>g</i>uhuyât. 11. palâ<i>s</i>âni vâ. 12. ऽpo vâ. 13. huta<i>m</i> hi. 14. prâya<i>s</i><i>k</i>ittam ahutasyâ. 15. ऽ<i>g</i>ya<i>ñ</i> <i>g</i>uhuyâd dhavishoऽnâde<i>s</i>e. 16. devatâ [corr. devatâ<i>m</i>?] mantrânâde<i>s</i>e. 17. prathamagarbhe t<i>ri</i>tîye mâsi pu<i>m</i>savana<i>m</i>. 18. snâtâm ahatenâ<i>kh</i>âdya hutvâ pati<i>h</i> p<i>ri</i>sh<i>th</i>atas tish<i>th</i>ed. 19. dakshi<i>n</i>am a<i>m</i>sam anvabhim<i>ri</i><i>s</i>yânantarhita<i>m</i> (°hitâ<i>m</i>, °hitân, the MSS.) nâbhide<i>s</i>am abhim<i>ri</i><i>s</i>et pumâ<i>m</i>sâv ity.</small>
 
 20\. Then another (ceremony). Having bought for three times seven barley corns or beans, a Nyagrodha-shoot which has fruits on both sides, which is not dry, and not touched by worms, he should set that up with (the formula), Ye herbs everywhere, being well-minded, bestow strength on this (shoot); for it will do its work.’
 
@@ -167,7 +175,7 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 25\. After she has bathed, her husband should put on her a garment that has not yet been washed,
 
-20\. athâpara_m<i> nyagrodha</i>s<i> nyagrodha</i>h<i> nyagrodha</i>ri<i> nyagrodha</i>ri<i> nyagrodha</i>m<i> nyagrodha</i>h_ parikrîyotthâpayen mâshair vâ sarvatraushadhayas sumanaso bhûtvâ (hutvâ, hutvâ<i>m</i> the MSS.) ऽsyâ_m<i> nyagrodha</i>m<i> nyagrodha</i>m_ karma karishyatîty. 21. âh<i> nyagrodha</i>tya vaihâyasî<i>m</i> kuryât. 22. kumârî vratavatî brahma<i> nyagrodha</i>ârî brâhma<i> nyagrodha</i>î vâ peshayed apratyâharantî. 23. snâtâ_m<i> nyagrodha</i>m<i> nyagrodha</i>s<i> nyagrodha</i>n<i> nyagrodha</i>ñ_<i> nyagrodha</i>et pumân Agnir ity. 24. athâsyâ_s<i> nyagrodha</i>k<i> nyagrodha</i>th<i> nyagrodha</i>m_. 25. snâtâm ahatenâ<i> nyagrodha</i>âdya hutvâ pati_h<i> nyagrodha</i>ri<i> nyagrodha</i>th<i> nyagrodha</i>th<i> nyagrodha</i>ri<i> nyagrodha</i>s<i> nyagrodha</i>ri<i> nyagrodha</i>s<i> nyagrodha</i>s<i> nyagrodha</i>g<i> nyagrodha</i>ri_ksha iti. <span id="p395">[<sup><small>p. 395</small></sup>]</span> and after having sacrificed, he should stand behind her and should part her hair once with a well-proportioned (?) branch of a tree, on which there are fruits, (and) with a porcupine's quill that has three white spots, with (the verse), ‘Rich in sap is this tree’ (MB. I, 5, 1).
+<small>20. athâpara<i>m</i> nyagrodha<i>s</i>uṅgâm ubhayata<i>h</i>phalâm asrâmâm ak<i>ri</i>miparis<i>ri</i>ptâ<i>m</i> trissaptair yavai<i>h</i> parikrîyotthâpayen mâshair vâ sarvatraushadhayas sumanaso bhûtvâ (hutvâ, hutvâ<i>m</i> the MSS.) ऽsyâ<i>m</i> vîrya<i>m</i> samâdhatteya<i>m</i> karma karishyatîty. 21. âh<i>ri</i>tya vaihâyasî<i>m</i> kuryât. 22. kumârî vratavatî brahma<i>k</i>ârî brâhma<i>n</i>î vâ peshayed apratyâharantî. 23. snâtâ<i>m</i> sa<i>m</i>ve<i>s</i>ya dakshi<i>n</i>e nâsikâsrotasy âsi<i>ñ</i><i>k</i>et pumân Agnir ity. 24. athâsyâ<i>s</i> <i>k</i>aturthe mâsi shash<i>th</i>e vâ sîmantonnayana<i>m</i>. 25. snâtâm ahatenâ<i>kh</i>âdya hutvâ pati<i>h</i> p<i>ri</i>sh<i>th</i>atas tish<i>th</i>ann anupûrvayâ phalav<i>ri</i>ksha<i>s</i>âkhayâ sak<i>ri</i>t sîmantam unnayet tri<i>s</i>vetayâ <i>s</i>alalyâyam ûr<i>g</i>âvato v<i>ri</i>ksha iti.</small>
 
 26\. While she looks at a mess of boiled rice with sesamum seeds, covered with ghee, he should ask her, ‘What dost thou see?’
 
@@ -187,7 +195,7 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 34\. And butter with (the verse), ‘May intelligence to thee’ (MB. I, 5, 9).
 
-26\. k<i>ri</i>sarasthâlîpâkam uttaragh<i>ri</i>tam aveksha\[n\]tîm p<i>ri</i><i>ri</i><i>ri</i>et ki_m<i>ri</i>s_yasîti. 27. pra<i>ri</i>âm iti vâ<i>ri</i>ayet. 28. pratish<i>ri</i>ite vastau soshyantîhoma_h_. 29. yâ tira<i>ri</i><i>ri</i>îti dvâbhyâm. 30. asâv iti nâma dadhyât. 31. tad guhya_m_. 32. prâṅ nâbhik<i>ri</i>ntanât stanadânâ_k<i>ri</i>k<i>ri</i>k<i>ri</i>kh<i>ri</i>ri_tâ. 33. ऽṅgush<i>ri</i>enânâmikayâ _k<i>ri</i>m<i>ri</i>s<i>ri</i>g_<i>ri</i>eti. 34. sarpi<i>s</i> ka medhân ta iti.
+<small>26. k<i>ri</i>sarasthâlîpâkam uttaragh<i>ri</i>tam aveksha[n]tîm p<i>ri</i><i>k</i><i>kh</i>et ki<i>m</i> pa<i>s</i>yasîti. 27. pra<i>g</i>âm iti vâ<i>k</i>ayet. 28. pratish<i>th</i>ite vastau soshyantîhoma<i>h</i>. 29. yâ tira<i>s</i><i>k</i>îti dvâbhyâm. 30. asâv iti nâma dadhyât. 31. tad guhya<i>m</i>. 32. prâṅ nâbhik<i>ri</i>ntanât stanadânâ<i>k</i> <i>k</i>a vrîhiyavau peshaye<i>k</i> <i>kh</i>uṅgâv<i>ri</i>tâ. 33. ऽṅgush<i>th</i>enânâmikayâ <i>k</i>âdâya kumâra<i>m</i> prâ<i>s</i>ayed iyam â<i>g</i><i>ñ</i>eti. 34. sarpi<i>s</i> ka medhân ta iti.</small>
 
 
 
@@ -209,9 +217,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 6\. [^1017]. After a period of ten nights, or of a hundred nights, or of one year after (the child's birth) he should give him a name.
 
-7\. He who is going to perform (that ceremony-the father or a representative of the father), after he
+7\. He who is going to perform (that ceremony-the father or a representative of the father), after he <span id="p397">[<sup><small>p. 397</small></sup>]</span> has had the boy bathed, should sit down, and the mother, having dressed him in a clean (garment), should hand him, with his face turned to the north, to the performer (of the ceremony).
 
-3\. 1. _g<i>ananâ</i>g<i>ananâ</i>g<i>ananâ</i>ri<i>ananâ</i>ri<i>ananâ</i>m<i>ananâ</i>s<i>ananâ</i>k<i>ananâ</i>th<i>ananâ</i>ñ_<i>ananâ</i>ali_h_. 2. _s<i>ananâ</i>k<i>ananâ</i>kh<i>ananâ</i>kh<i>ananâ</i>s_irasam. 3. anup<i>ananâ</i>sh<i>ananâ</i>a_m<i>ananâ</i>th_ed. 4. yat te susîma iti tis<i>ananâ</i>bhir upasthâyoda<i>ananâ</i><i>ananâ</i>a_m<i>ananâ</i>ñ_<i>ananâ</i>alim avasi<i>ananâ</i><i>ananâ</i>ed. 5. dvis tûsh<i>ananâ</i>î_m_. 6. _g<i>ananâ</i>m<i>ananâ</i>s<i>ananâ</i>k<i>ananâ</i>kh<i>ananâ</i>m_vatsarâd vâ nâma kuryât. 7. snâpya kumâra_m<i>ananâ</i>t<i>ananâ</i>s<i>ananâ</i>k<i>ananâ</i>kh<i>ananâ</i>kh<i>ananâ</i>s_irasam. <span id="p397">[<sup><small>p. 397</small></sup>]</span> has had the boy bathed, should sit down, and the mother, having dressed him in a clean (garment), should hand him, with his face turned to the north, to the performer (of the ceremony).
+<small>3, 1. <i>g</i>ananâ<i>g</i> <i>g</i>yautsne t<i>ri</i>tîye t<i>ri</i>tîyâyâ<i>m</i> prâta snâpya kumâram astam ite <i>s</i>ântâsu dikshu pitâ <i>k</i>andramasam upatish<i>th</i>et prâ<i>ñ</i><i>g</i>ali<i>h</i>. 2. <i>s</i>u<i>k</i>inâ<i>kh</i>âdya mâtâ praya<i>kh</i>ed udak<i>s</i>irasam. 3. anup<i>ri</i>sh<i>th</i>a<i>m</i> gatvottaratas tish<i>th</i>ed. 4. yat te susîma iti tis<i>ri</i>bhir upasthâyoda<i>ñ</i><i>k</i>a<i>m</i> mâtre pradâya yad ada ity apâm a<i>ñ</i><i>g</i>alim avasi<i>ñ</i><i>k</i>ed. 5. dvis tûsh<i>n</i>î<i>m</i>. 6. <i>g</i>ananâd ûrdhva<i>m</i> da<i>s</i>arâtrâ<i>k</i> <i>kh</i>atarâtrât sa<i>m</i>vatsarâd vâ nâma kuryât. 7. snâpya kumâra<i>m</i> karishyata upavish<i>t</i>asya <i>s</i>u<i>k</i>inâ<i>kh</i>âdya mâtâ praya<i>kh</i>ed udak<i>s</i>irasam.</small>
 
 8\. She then should walk around behind (his) back and should sit down towards the north.
 
@@ -231,9 +239,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 16\. [^1019]. In the third year the tonsure (of the child's head is performed).
 
-17\. There the barber, warm water, a mirror, or a
+17\. There the barber, warm water, a mirror, or a <span id="p398">[<sup><small>p. 398</small></sup>]</span> razor of Udumbara-wood, and (Darbha)-blades (ate placed) towards the south.
 
-8\. anup<i>ri</i>sh<i>ri</i>a_m<i>ri</i>s_ed. 9. dhutvâ koऽsîti tasya mukhyân prâ<i>ri</i>ân abhim<i>ri</i><i>ri</i>ed. 10. asâv iti nâma kuryât. 11. tad eva mantrânte. 12. mâtre prathamam âkhyâya. 13. viproshyâṅgâd aṅgâd iti putrasya mûrdhâna_m<i>ri</i>ri<i>ri</i>n_îyât. 14. pa<i>ri</i>ûnâ_m<i>ri</i>g_ighret. 15. tûsh<i>ri</i>î<i>m</i> striyas. 16. t<i>ri</i>tîye varshe <i>k</i>aulan. 17. tatra nâpita ush<i>ri</i>odakam âdar<i>ri</i>a_h<i>ri</i>h<i>ri</i>ñ_<i>ri</i>ûlya iti dakshi<i>ri</i>ata. <span id="p398">[<sup><small>p. 398</small></sup>]</span> razor of Udumbara-wood, and (Darbha)-blades (ate placed) towards the south.
+<small>8. anup<i>ri</i>sh<i>th</i>a<i>m</i> gatvottarata upavi<i>s</i>ed. 9. dhutvâ koऽsîti tasya mukhyân prâ<i>n</i>ân abhim<i>ri</i><i>s</i>ed. 10. asâv iti nâma kuryât. 11. tad eva mantrânte. 12. mâtre prathamam âkhyâya. 13. viproshyâṅgâd aṅgâd iti putrasya mûrdhâna<i>m</i> parig<i>ri</i>h<i>n</i>îyât. 14. pa<i>s</i>ûnâ<i>m</i> tvety abhi<i>g</i>ighret. 15. tûsh<i>n</i>î<i>m</i> striyas. 16. t<i>ri</i>tîye varshe <i>k</i>aulan. 17. tatra nâpita ush<i>n</i>odakam âdar<i>s</i>a<i>h</i> kshuro vaudumbara<i>h</i> pi<i>ñ</i><i>g</i>ûlya iti dakshi<i>n</i>ata.</small>
 
 18\. A bull's dung and a mess of boiled rice with sesamum seeds which may be more or less cooked, to the north;
 
@@ -251,9 +259,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 25\. With (the formula), ‘Axe!’ (l.l. 6) (he presses them down) with the mirror or with the razor of Udumbara-wood.
 
-26\. With (the Mantra), ‘With which Pûshan’ (l.l. 7), he should move forward (the razor) three
+26\. With (the Mantra), ‘With which Pûshan’ (l.l. 7), he should move forward (the razor) three <span id="p399">[<sup><small>p. 399</small></sup>]</span> times towards the east on the right side (of the boy's hair).
 
-18\. âna<i>d</i>uho gomaya_h<i>d</i>ri<i>d</i>ri_thâpakva ity uttarato. 19. mâtâ <i>k</i>a kumâram âdâya. 20. hutvâyam agâd iti nâpita<i>m</i> prekshet Savitâra<i>m</i> dhyâyann. 21. ush<i>d</i>enety ush<i>d</i>odaka<i>m</i> prekshed Vâyu<i>m</i> dhyâyann. 22. âpa ity untte (aṅte, u<i>d</i>de, uṅ<i>d</i>te, uṅte the MSS.). 23. Vish<i>d</i>or ity âdar<i>d</i>a_m<i>d</i>m_ vau. 24. ऽshadha iti darbhapi<i>d</i><i>d</i>ûlîs saptordhvâgrâ abhinidhâya. 25. svadhita ity âdar<i>d</i>ena kshure<i>d</i>audumbare<i>d</i>a vâ. 26. yena Pûsheti dakshi<i>d</i>atas tri_h<i>d</i>ñ_<i>d</i>a<i>m</i> prohet. <span id="p399">[<sup><small>p. 399</small></sup>]</span> times towards the east on the right side (of the boy's hair).
+<small>18. âna<i>d</i>uho gomaya<i>h</i> k<i>ri</i>sarasthâlîpâko v<i>ri</i>thâpakva ity uttarato. 19. mâtâ <i>k</i>a kumâram âdâya. 20. hutvâyam agâd iti nâpita<i>m</i> prekshet Savitâra<i>m</i> dhyâyann. 21. ush<i>n</i>enety ush<i>n</i>odaka<i>m</i> prekshed Vâyu<i>m</i> dhyâyann. 22. âpa ity untte (aṅte, u<i>m</i>de, uṅ<i>m</i>te, uṅte the MSS.). 23. Vish<i>n</i>or ity âdar<i>s</i>a<i>m</i> prekshetaudumbara<i>m</i> vau. 24. ऽshadha iti darbhapi<i>ñ</i><i>g</i>ûlîs saptordhvâgrâ abhinidhâya. 25. svadhita ity âdar<i>s</i>ena kshure<i>n</i>audumbare<i>n</i>a vâ. 26. yena Pûsheti dakshi<i>n</i>atas tri<i>h</i> prâ<i>ñ</i><i>k</i>a<i>m</i> prohet.</small>
 
 27\. Cutting (the hair) once with a razor of metal he should throw the hair on the bull's dung.
 
@@ -269,7 +277,7 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 33\. A cow constitutes the sacrificial fee.
 
-27\. sak<i>ri</i>d âyasena pra<i>ri</i>idyâna<i>ri</i>uhe gomaye ke<i>ri</i>ân kuryâd. 28, undanaprabh<i>ri</i>ty eva_m<i>ri</i>s_<i>ri</i>âd uttarata_s<i>ri</i>k_a. 29. tryâyusham iti putrasya mûrdhâna_m<i>ri</i>ri<i>ri</i>g_aped. 30. udaiṅṅ uts<i>ri</i>pya ku<i>ri</i>alîkârayed yathâgotrakulakalpam. 31. ara<i>ri</i>ye ke<i>ri</i>ân nikhaneyu_h_. 32. stambe nidadhaty eke. 33. gaur dakshi<i>ri</i>â.
+<small>27. sak<i>ri</i>d âyasena pra<i>kh</i>idyâna<i>d</i>uhe gomaye ke<i>s</i>ân kuryâd. 28, undanaprabh<i>ri</i>ty eva<i>m</i> pa<i>s</i><i>k</i>âd uttarata<i>s</i> <i>k</i>a. 29. tryâyusham iti putrasya mûrdhâna<i>m</i> parig<i>ri</i>hya <i>g</i>aped. 30. udaiṅṅ uts<i>ri</i>pya ku<i>s</i>alîkârayed yathâgotrakulakalpam. 31. ara<i>n</i>ye ke<i>s</i>ân nikhaneyu<i>h</i>. 32. stambe nidadhaty eke. 33. gaur dakshi<i>n</i>â.</small>
 
 
 
@@ -282,7 +290,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 3\. In the eleventh a Kshatriya.
 
-4\. 1. ash<i>t</i>ame varshe brâhma<i>t</i>am upanayet. 2. tasyâ sho<i>t</i>a<i>t</i>âd anatîta<i>h</i> kâla. 3. ekâda<i>t</i>e kshatriya_m_. <span id="p400">[<sup><small>p. 400</small></sup>]</span>
+<small>4, 1. ash<i>t</i>ame varshe brâhma<i>n</i>am upanayet. 2. tasyâ sho<i>d</i>a<i>s</i>âd anatîta<i>h</i> kâla. 3. ekâda<i>s</i>e kshatriya<i>m</i>.</small>
+
+<span id="p400">[<sup><small>p. 400</small></sup>]</span>
 
 4\. For him (the time has not passed) until the twenty-second.
 
@@ -302,7 +312,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 12\. (The student) to whom (the teacher) has said, ‘What is thy name?’ should pronounce a name which he is to use at respectful salutations, derived from (the name of) a deity or a Nakshatra, ‘I am N.N.!’ (l.l. 17.)
 
-4\. tasyâ dvâvi<i>m</i><i>m</i>âd. 5. dvâda<i>m</i>e vai<i>m</i>ya_m_. 6. tasyâ _k<i>m</i>m_<i>m</i>ât. 7. ku<i>m</i>alîk<i>m</i>tam ala<i>m</i>k<i>m</i>tam ahatenâ<i>m</i>âdya hutvâgne vratapata ity. 8. uttaratoऽgne_h<i>m</i>ñ_<i>m</i>ali<i>m</i> kârayet. 9. svaya_m<i>m</i>k_opari kuryâd. 10. dakshi<i>m</i>atas tish<i>m</i>an mantravân brâhma<i>m</i>a â<i>m</i>âryâyodakâ<i>m</i><i>m</i>alim pûrayed. 11. âgantreti _g<i>m</i>n_e \[sic\]. 12. ko nâmâsîty ukto devatâ<i>m</i>raya_m<i>m</i>s<i>m</i>m<i>m</i>m_ nâma brûyâd asâv asmîty. <span id="p401">[<sup><small>p. 401</small></sup>]</span>
+<small>4. tasyâ dvâvi<i>m</i><i>s</i>âd. 5. dvâda<i>s</i>e vai<i>s</i>ya<i>m</i>. 6. tasyâ <i>k</i>aturvi<i>m</i><i>s</i>ât. 7. ku<i>s</i>alîk<i>ri</i>tam ala<i>m</i>k<i>ri</i>tam ahatenâ<i>kh</i>âdya hutvâgne vratapata ity. 8. uttaratoऽgne<i>h</i> pratyaṅmukham avasthâpyâ<i>ñ</i><i>g</i>ali<i>m</i> kârayet. 9. svaya<i>m</i> <i>k</i>opari kuryâd. 10. dakshi<i>n</i>atas tish<i>th</i>an mantravân brâhma<i>n</i>a â<i>k</i>âryâyodakâ<i>ñ</i><i>g</i>alim pûrayed. 11. âgantreti <i>g</i>apet prekshamâ<i>n</i>e [sic]. 12. ko nâmâsîty ukto devatâ<i>s</i>raya<i>m</i> nakshatrâ<i>s</i>raya<i>m</i> vâbhivâdanîya<i>m</i> nâma brûyâd asâv asmîty.</small>
+
+<span id="p401">[<sup><small>p. 401</small></sup>]</span>
 
 13\. Having let the water run (out of his joined hands over the student's hands) the teacher should seize with his two hands, holding the right uppermost, (the student's) joined hands, with (the formula), By the impulse of the god Sâvitrî' (l.l. 18).
 
@@ -318,7 +330,9 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 19\. Having directed him (to observe the duties of Brahma<i>k</i>arya, by the formula), ‘A student art thou’ (l.l. 25, 26), (the teacher) sitting down should from left to right tie round the student, who bends his right knee and clasps his hands, the girdle made of Mu<i>k</i><i>k</i>a grass, and should cause him to repeat (the verse), ‘Protecting us from evil word’ (l.l. 27).
 
-13\. uts<i>ri</i><i>ri</i>yâpo devasya ta iti dakshi<i>ri</i>ottarâbhyâ_m<i>ri</i>ñ_<i>ri</i>ali_m<i>ri</i>ri<i>ri</i>n<i>ri</i>k_âryas. 14. Sûryasyeti pradakshi<i>ri</i>am âvartayed. 15. dakshi<i>ri</i>am a<i>ri</i>sam anvavam<i>ri</i><i>ri</i>yânantarhitâ_m<i>ri</i>n_ânâm ity. 16. athaina_m<i>ri</i>ri_tibhir. 17. dakshi<i>ri</i>am a<i>ri</i>sa<i>m</i> Pra<i>ri</i>âpataye tveti. 18. savyena savya<i>m</i> devâya tveti. 19. brahma<i>ri</i>âry asîti sa<i>ri</i>preshyopavi<i>ri</i>ya (sa<i>ri</i>prekshy°, sa<i>ri</i>prokshy° the MSS.) dakshni<i>ri</i>a<i>ri</i>ânvaktam a<i>ri</i><i>ri</i>alîk<i>ri</i>ta_m<i>ri</i>n<i>ri</i>m<i>ri</i>ñ_<i>ri</i>amekhalâm âbadhnan vâ<i>ri</i>ayed iya<i>m</i> duruktâd ity. <span id="p402">[<sup><small>p. 402</small></sup>]</span>
+<small>13. uts<i>ri</i><i>g</i>yâpo devasya ta iti dakshi<i>n</i>ottarâbhyâ<i>m</i> hastâbhyâm a<i>ñ</i><i>g</i>ali<i>m</i> g<i>ri</i>h<i>n</i>îyâd â<i>k</i>âryas. 14. Sûryasyeti pradakshi<i>n</i>am âvartayed. 15. dakshi<i>n</i>am a<i>m</i>sam anvavam<i>ri</i><i>s</i>yânantarhitâ<i>m</i> nâbhim âlabhet prâ<i>n</i>ânâm ity. 16. athaina<i>m</i> pariadyâd antakaprabh<i>ri</i>tibhir. 17. dakshi<i>n</i>am a<i>m</i>sa<i>m</i> Pra<i>g</i>âpataye tveti. 18. savyena savya<i>m</i> devâya tveti. 19. brahma<i>k</i>âry asîti sa<i>m</i>preshyopavi<i>s</i>ya (sa<i>m</i>prekshy°, sa<i>m</i>prokshy° the MSS.) dakshni<i>n</i>a<i>g</i>ânvaktam a<i>ñ</i><i>g</i>alîk<i>ri</i>ta<i>m</i> pradakshi<i>n</i>a<i>m</i> mu<i>ñ</i><i>g</i>amekhalâm âbadhnan vâ<i>k</i>ayed iya<i>m</i> duruktâd ity.</small>
+
+<span id="p402">[<sup><small>p. 402</small></sup>]</span>
 
 20\. With (the words), ‘Recite, sir!’ (the student) should respectfully sit down near (the teacher).
 
@@ -346,14 +360,14 @@ II, 1, 1. paur<i>n</i>amâsopakramau dar<i>n</i>apaur<i>n</i>amâsau. 2. dâr<i>
 
 32\. Through a period of three nights he should avoid eating saline food and drinking milk.
 
-20\. adhîhi bho ity upasîdet. 21. tasmâ anvâha sâvitrî_m<i> pa</i>k_<i> pa</i>o ऽrdhar<i> pa</i>a<i> pa</i>as sarvâm iti sâvitrî_m<i> pa</i>k_ayed. 22. mahâvyâh<i> pa</i>tî_s<i> pa</i>k<i> pa</i>s_a. 23. o<i> pa</i>kâra_ñ<i> pa</i>k_a. 24. praya<i> pa</i>aty asmai vârksha_m<i> pa</i>n_<i> pa</i>a_m_. 25. su<i> pa</i>ravas su<i> pa</i>ravasa<i>m</i> meti. 26. samidham âdadhyâd Agnaye samidham iti. 27. bhaiksha_m<i> pa</i>k_aren. 28. mâtaram agre. 29. ऽthânyâs suh<i> pa</i>da. 30. â<i> pa</i>âryâya bhaikshan nivedayet. 31. tish<i> pa</i>ed âstamayât tûsh<i> pa</i>î_m_. 32. trirâtra_m<i> pa</i>n<i> pa</i>g_ayet.
+<small>20. adhîhi bho ity upasîdet. 21. tasmâ anvâha sâvitrî<i>m</i> pa<i>k</i><i>kh</i>o ऽrdhar<i>k</i>a<i>s</i>as sarvâm iti sâvitrî<i>m</i> vâ<i>k</i>ayed. 22. mahâvyâh<i>ri</i>tî<i>s</i> <i>k</i>aikaika<i>s</i>a. 23. o<i>m</i>kâra<i>ñ</i> <i>k</i>a. 24. praya<i>kh</i>aty asmai vârksha<i>m</i> da<i>n</i><i>d</i>a<i>m</i>. 25. su<i>s</i>ravas su<i>s</i>ravasa<i>m</i> meti. 26. samidham âdadhyâd Agnaye samidham iti. 27. bhaiksha<i>m</i> <i>k</i>aren. 28. mâtaram agre. 29. ऽthânyâs suh<i>ri</i>da. 30. â<i>k</i>âryâya bhaikshan nivedayet. 31. tish<i>th</i>ed âstamayât tûsh<i>n</i>î<i>m</i>. 32. trirâtra<i>m</i> kshâralava<i>n</i>e dugdham iti var<i>g</i>ayet.</small>
 
 
 ## KHA<i>ND</i>A 5.
 
-1\. [^1021]. At the Godâna (or cutting of the beard) the
+1\. [^1021]. At the Godâna (or cutting of the beard) the <span id="p403">[<sup><small>p. 403</small></sup>]</span> rite is identical with the <i>K</i>aula (cutting of the hair; see above, chap. 3, 16 seqq.).
 
-5\. 1. atha goalie _k<i>aulavat kalpa</i>h_. <span id="p403">[<sup><small>p. 403</small></sup>]</span> rite is identical with the _K_aula (cutting of the hair; see above, chap. 3, 16 seqq.).
+<small>5, 1. atha goalie <i>k</i>aulavat kalpa<i>h</i>.</small>
 
 2\. He should have (his beard) and the hair of his body shaven.
 
@@ -383,7 +397,9 @@ He should sleep on the ground.
 
 14\. Let him not mount a chariot yoked with cows,
 
-2\. saloma<i>m</i> vâpayed. 3. goऽ<i>vâvimithunâni dakshi</i>vâvimithunâni dakshi<i>vâvimithunâni dakshi</i>â_h<i>vâvimithunâni dakshi</i>ri<i>vâvimithunâni dakshi</i>n<i>vâvimithunâni dakshi</i>m_. 4. sarveshâ<i>m</i> vâ gaur. 5. a<i>vâvimithunâni dakshi</i>a_h<i>vâvimithunâni dakshi</i>s_apratigrahâyo. 6. ऽktam upanayana_m_. 7. nâ<i>vâvimithunâni dakshi</i>arishyanta_m<i>vâvimithunâni dakshi</i>m_vatsaram. 8. aniyuktan tv ahatam. 9. athâla<i>vâvimithunâni dakshi</i>kâro. 10. ऽdhassa<i>vâvimithunâni dakshi</i>ve<i>vâvimithunâni dakshi</i>y. 11. amadhumâ<i>vâvimithunâni dakshi</i>sâ<i>vâvimithunâni dakshi</i>î syân. 12. maithunakshurak<i>vâvimithunâni dakshi</i>tyasnânâvalekhanadantadhâvanapâdadhâvanâni var<i>vâvimithunâni dakshi</i>ayen. 13. nâsya kâme reta skanden. 14. na goyuktam ârohen. <span id="p404">[<sup><small>p. 404</small></sup>]</span>
+<small>2. saloma<i>m</i> vâpayed. 3. goऽ<i>s</i>vâvimithunâni dakshi<i>n</i>â<i>h</i> p<i>ri</i>thag var<i>n</i>ânâ<i>m</i>. 4. sarveshâ<i>m</i> vâ gaur. 5. a<i>g</i>a<i>h</i> ke<i>s</i>apratigrahâyo. 6. ऽktam upanayana<i>m</i>. 7. nâ<i>k</i>arishyanta<i>m</i> sa<i>m</i>vatsaram. 8. aniyuktan tv ahatam. 9. athâla<i>m</i>kâro. 10. ऽdhassa<i>m</i>ve<i>s</i>y. 11. amadhumâ<i>m</i>sâ<i>s</i>î syân. 12. maithunakshurak<i>ri</i>tyasnânâvalekhanadantadhâvanapâdadhâvanâni var<i>g</i>ayen. 13. nâsya kâme reta skanden. 14. na goyuktam ârohen.</small>
+
+<span id="p404">[<sup><small>p. 404</small></sup>]</span>
 
 15\. Nor (wear) shoes in the village.
 
@@ -399,9 +415,9 @@ He should sleep on the ground.
 
 21\. And they do not descend into water.
 
-22\. [^1022]. For the _S_akvarî verses, twelve, nine, six, or three (years through which the Vrata is to be kept) make up the various possibilities.
+22\. [^1022]. For the <i>S</i>akvarî verses, twelve, nine, six, or three (years through which the Vrata is to be kept) make up the various possibilities.
 
-23\. He (who keeps the _S_âkvara-vrata) wears dark clothes.
+23\. He (who keeps the <i>S</i>âkvara-vrata) wears dark clothes.
 
 24\. He eats dark food.
 
@@ -411,11 +427,13 @@ He should sleep on the ground.
 
 27\. He should sit at night.
 
-28\. According to some (teachers, the Vrata may last only) one year, if the ancestors (of the student) have learnt (the _S_akvarî verses).
+28\. According to some (teachers, the Vrata may last only) one year, if the ancestors (of the student) have learnt (the <i>S</i>akvarî verses).
 
-25\. na grâma upânahau. 16. mekhalâdhâranabhaikshâ<i>k</i>ara<i>k</i>ada<i>k</i><i>k</i>asamidâdhânopaspar<i>k</i>anaprâtarabhivâdâ nitya_m_. 1 7. godânavrâtikâdityavratopanisha<i>k</i><i>k</i>yesh<i>k</i>asâmikâs sa<i>k</i>vatsarâ. 18. nâdityavratam ekeshâ_m_. 19. ye <i>k</i>aranty ekavâsaso bhavanty. 20. âditya_ñ<i>k</i>k_a nântardadhate. 21. na <i>k</i>âpoऽbhyupayanti. 22. _s<i>k</i>n<i>k</i>m<i>k</i>s<i>k</i>t<i>k</i>h_. 23. k<i>k</i>sh<i>k</i>avastra_h_. 24. k<i>k</i>sh<i>k</i>abhaksha. 25. â<i>k</i>âryâdhînas. 26. tish<i>k</i>ed divâ. 27. ऽsîta nakta_m_. 28. sa<i>k</i>vatsaram ekeshâm pûrvai_s<i>k</i>s<i>k</i>s<i>k</i>k_ed. <span id="p405">[<sup><small>p. 405</small></sup>]</span>
+<small>25. na grâma upânahau. 16. mekhalâdhâranabhaikshâ<i>k</i>ara<i>n</i>ada<i>n</i><i>d</i>asamidâdhânopaspar<i>s</i>anaprâtarabhivâdâ nitya<i>m</i>. 1 7. godânavrâtikâdityavratopanisha<i>g</i><i>g</i>yesh<i>th</i>asâmikâs sa<i>m</i>vatsarâ. 18. nâdityavratam ekeshâ<i>m</i>. 19. ye <i>k</i>aranty ekavâsaso bhavanty. 20. âditya<i>ñ</i> <i>k</i>a nântardadhate. 21. na <i>k</i>âpoऽbhyupayanti. 22. <i>s</i>akvarî<i>n</i>â<i>m</i> dvâda<i>s</i>a nava sha<i>t</i> traya iti vikalpâ<i>h</i>. 23. k<i>ri</i>sh<i>n</i>avastra<i>h</i>. 24. k<i>ri</i>sh<i>n</i>abhaksha. 25. â<i>k</i>âryâdhînas. 26. tish<i>th</i>ed divâ. 27. ऽsîta nakta<i>m</i>. 28. sa<i>m</i>vatsaram ekeshâm pûrvai<i>s</i> <i>s</i>rutâ<i>s</i> <i>k</i>ed.</small>
 
-29\. (The teacher) should sing (those verses) to (the student) who has fasted and veiled his eyes (thinking), ‘May (the teacher) not burn me (with the _S_akvarî verses).’
+<span id="p405">[<sup><small>p. 405</small></sup>]</span>
+
+29\. (The teacher) should sing (those verses) to (the student) who has fasted and veiled his eyes (thinking), ‘May (the teacher) not burn me (with the <i>S</i>akvarî verses).’
 
 30\. In the morning they make (the student) look at such things as they expect will not burn him, viz. water, fire, a calf, the sun.
 
@@ -427,9 +445,9 @@ He should sleep on the ground.
 
 34\. At the Anuprava<i>k</i>anîya ceremonies (see Â<i>k</i>valâyana-G<i>k</i>hya I, 22, 12) he should sacrifice Â<i>k</i>ya with (the two verses), ‘To the _Ri__k_, to the Sâman we sacrifice’ (Sâma-veda I, 369), and, ‘The lord of the seat’ (Sv. I, 171).
 
-35\. [^1023]. If he has touched a fire-altar or a sacrificial post, if he has humming in his ears, or if his eye
+35\. [^1023]. If he has touched a fire-altar or a sacrificial post, if he has humming in his ears, or if his eye <span id="p406">[<sup><small>p. 406</small></sup>]</span> palpitates, or if the sun rises or sets while he is sleeping, or if his organs of sense have been defiled by something bad, he should sacrifice two oblations of Â<i>n</i>ya with the two (verses), 'May (my strength) return to me;
 
-29\. uposhitâya pari<i>n</i>addhâkshâyânugâpayed yathâ mâ na pradhakshyatîti. 30. ta_m<i>n</i>m_ vatsam âdityam. 31. apoऽbhivyakhyam ity apo _g<i>n</i>m<i>n</i>s<i>n</i>m_ sur \[sic\] abhivyakhyam ity âditya_m<i>n</i>ri_<i>n</i>ed vâ<i>n</i>a_m_. 32. gaur dakshi<i>n</i>â. 33. ka<i>n</i>so vâso rukma_s<i>n</i>k_â. 34. ऽnuprava<i>n</i>anîyeshv _ri<i>n</i>m_ sâma Sadasaspatim iti _k<i>n</i>g<i>n</i>m<i>n</i>g<i>n</i>k_. 35. _k<i>n</i>s<i>n</i>n<i>n</i>s<i>n</i>s<i>n</i>k<i>n</i>s<i>n</i>h_ punar mâm ity etâbhyâm âhutîr (correct, âhutî?) <i>g</i>uhuyâd. <span id="p406">[<sup><small>p. 406</small></sup>]</span> palpitates, or if the sun rises or sets while he is sleeping, or if his organs of sense have been defiled by something bad, he should sacrifice two oblations of Â<i>n</i>ya with the two (verses), 'May (my strength) return to me;
+<small>29. uposhitâya pari<i>n</i>addhâkshâyânugâpayed yathâ mâ na pradhakshyatîti. 30. ta<i>m</i> prâtar abhivîkshayanti yâny apradhakshyanti manyanteऽpoऽgni<i>m</i> vatsam âdityam. 31. apoऽbhivyakhyam ity apo <i>g</i>yotir abhivyakhyam ity agni<i>m</i> pa<i>s</i>ûn abhivyakhyam iti vatsa<i>m</i> sur [sic] abhivyakhyam ity âditya<i>m</i> vis<i>ri</i><i>g</i>ed vâ<i>k</i>a<i>m</i>. 32. gaur dakshi<i>n</i>â. 33. ka<i>m</i>so vâso rukma<i>s</i> <i>k</i>â. 34. ऽnuprava<i>k</i>anîyeshv <i>ri</i>ka<i>m</i> sâma Sadasaspatim iti <i>k</i>â<i>g</i>ya<i>m</i> <i>g</i>uhuyâ<i>k</i>. 35. <i>k</i>ityayûpopaspar<i>s</i>anakar<i>n</i>akro<i>s</i>âkshivepaneshu sûryâbhyuditas sûryâbhinimrukta indriyai<i>s</i> <i>k</i>a pâpaspar<i>s</i>ai<i>h</i> punar mâm ity etâbhyâm âhutîr (correct, âhutî?) <i>g</i>uhuyâd.</small>
 
 36\. Or two pieces of wood anointed with Â<i>g</i>ya.
 
@@ -437,7 +455,7 @@ He should sleep on the ground.
 
 End of the Second Pa<i>t</i>ala.
 
-36\. â<i>g</i>yalipte vâ samidhau. 37. <i>g</i>aped vâ laghushu, <i>g</i>aped vâ laghushu. dvitîyapa<i>g</i>ala_h_.
+<small>36. â<i>g</i>yalipte vâ samidhau. 37. <i>g</i>aped vâ laghushu, <i>g</i>aped vâ laghushu. dvitîyapa<i>t</i>ala<i>h</i>.</small>
 
 
 

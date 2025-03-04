@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 8, SECTION 21.
 
-1\. [^788] The times for the monthly _S_râddha are in the second fortnight (of the month), as they are stated.
+1\. [^788] The times for the monthly <i>S</i>râddha are in the second fortnight (of the month), as they are stated.
 
 2\. Let him feed, without regard of (worldly) purposes, pure Brâhma<i>n</i>as, versed in the Mantras, who are not connected with himself by consanguinity or by their Gotra or by the Mantras (such as his teacher or his pupils), an odd number, at least three.
 
@@ -52,7 +52,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. Having caused them with the next (formula, II, 20, 1) to touch (the food, he gives it to them to eat).
 
-9\. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Pi<i>n</i><i>n</i>as, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the <span id="p293">[<sup><small>p. 293</small></sup>]</span> ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Pi<i>n</i><i>n</i>as) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Ya<i>n</i>us (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadânas) from all (portions of food), and eats of the remains at least one morsel with the next Ya<i>n</i>us (26).
+9\. When they have eaten (and gone away), he goes after them, circumambulates them, turning his right side towards them, spreads out southward-pointed Darbha grass in two different layers, pours water on it with the next (formulas, II, 20, 2-7), distributes the Pi<i>nd</i>as, ending in the south, with the next (formulas, II, 20, 8-13), pours out water as before with the next (formulas, 14-19), worships (the <span id="p293">[<sup><small>p. 293</small></sup>]</span> ancestors) with the next (formulas, II, 20, 20-23), sprinkles with the next (verse, 24) water three times from right to left round (the Pi<i>nd</i>as) with a water-pot, besprinkles the vessels, which are turned upside down, repeating the next Ya<i>n</i>us (25) at least three times without taking breath, sets up the vessels two by two, cuts off (Avadânas) from all (portions of food), and eats of the remains at least one morsel with the next Ya<i>n</i>us (26).
 
 10\. Of the dark fortnight that follows after the full moon of Mâgha, the eighth day falls under (the constellation of) _G<i>yesh</i>th_â: this day is called Ekâsh<i>yesh</i>akâ.
 
@@ -81,15 +81,15 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. Then the Â<i>g</i>ya oblations (indicated by the) next (Mantras, II, 21, 2-9).
 
-8\. (The rites) from the Svish<i>t</i>ak<i>t</i>t down to the offering of the Pi<i>t</i><i>t</i>as are the same (as at the _S_râddha).
+8\. (The rites) from the Svish<i>t</i>ak<i>t</i>t down to the offering of the Pi<i>t</i><i>t</i>as are the same (as at the <i>S</i>râddha).
 
-9\. Some (teachers) prescribe the Pi<i>n</i><i>n</i>a offering for the day after the Ash<i>n</i>akâ.
+9\. Some (teachers) prescribe the Pi<i>nd</i>a offering for the day after the Ash<i>n</i>akâ.
 
 10\. Here (follows) another (way for celebrating the Ash<i>t</i>akâ sacrifice). He sacrifices curds with his joined hands in the same way as the cake.
 
 11\. Having left over from the meat of the (cow, see above, 3. 4) as much as is required, on the day after (the Ash<i>t</i>akâ) (he performs) the rite of the Anvash<i>t</i>akâ.
 
-12\. This rite has been explained in the description of the monthly _S_râddha.
+12\. This rite has been explained in the description of the monthly <i>S</i>râddha.
 
 13\. If he goes out in order to beg for something, <span id="p295">[<sup><small>p. 295</small></sup>]</span> let him murmur the next (Mantras, II, 21, 10-16) and then state his desire.
 

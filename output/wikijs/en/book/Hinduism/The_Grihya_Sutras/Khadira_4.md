@@ -55,9 +55,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 9\. One who is desirous of cattle, as stated above (III, I, 5?).
 
-10\. One who desires that his stock of cattle
+10\. One who desires that his stock of cattle <span id="p426">[<sup><small>p. 426</small></sup>]</span> may increase, should sacrifice rice and barley, with (the verse), ‘He who has a thousand arms’ (MB. II, 4, 7).
 
-IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân. 2. nityaprayuktânâm âdita. 3. uparish<i> bhaktâni trî</i>ât sânnipâtika. 4. eva_m<i> bhaktâni trî</i>g_anîyaprayogeshv. 5. ardhamâsavraty. 6. a<i> bhaktâni trî</i>aktau peyam (read, peyâm) eka<i>m</i> kâlam. 7. ara<i> bhaktâni trî</i>ve prapada_m<i> bhaktâni trî</i>g<i> bhaktâni trî</i>h_ prâgagreshv. 8. eva_m<i> bhaktâni trî</i>k_asakâmo. 9. yathokta_m<i> bhaktâni trî</i>s<i> bhaktâni trî</i>h_. 10. sahasrabâhur iti pa<i> bhaktâni trî</i>usvastyayanakâmo vrîhiyavau <i>g</i>uhuyâd. <span id="p426">[<sup><small>p. 426</small></sup>]</span> may increase, should sacrifice rice and barley, with (the verse), ‘He who has a thousand arms’ (MB. II, 4, 7).
+<small>IV, 1, 1. kâmyeshu sha<i>d</i> bhaktâni trî<i>n</i>i vâ nâ<i>s</i>nîyân. 2. nityaprayuktânâm âdita. 3. uparish<i>t</i>ât sânnipâtika. 4. eva<i>m</i> ya<i>g</i>anîyaprayogeshv. 5. ardhamâsavraty. 6. a<i>s</i>aktau peyam (read, peyâm) eka<i>m</i> kâlam. 7. ara<i>n</i>ve prapada<i>m</i> <i>g</i>aped âsîna<i>h</i> prâgagreshv. 8. eva<i>m</i> brahmavar<i>k</i>asakâmo. 9. yathokta<i>m</i> pa<i>s</i>ukâma<i>h</i>. 10. sahasrabâhur iti pa<i>s</i>usvastyayanakâmo vrîhiyavau <i>g</i>uhuyâd.</small>
 
 11\. To one with whom he wishes to become associated, he should give fruits of a big tree, over which he has murmured the Kautomata verse (MB. II, 4, 8).
 
@@ -71,7 +71,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 16\. One who desires that his flocks may increase, (should sacrifice) sesamum seeds with the third (verse), while the moon has a halo.
 
-11\. yene<i>kh</i>et sahakâra_m<i>kh</i>ri<i>kh</i>g_apya dadyâd. 12. ardhamâsavratî paur<i>kh</i>amâsyâ_m<i>kh</i>m<i>kh</i>n_<i>kh</i>ulân âsyena _g<i>kh</i>ri<i>kh</i>ñ_<i>kh</i>abhi_h_. 13. pârthiva<i>m</i> karma. 14. prathamayâdityam upatish<i>kh</i>ed bhogakâmoऽrthapatau prekshamâ<i>kh</i>e. 15. dvitîyayâkshatata<i>kh</i><i>kh</i>ulân âditye parivishyamâ<i>kh</i>e b<i>kh</i>hatpattrasvastyayanakâmas. 16. t<i>kh</i>tîyayâ _k<i>kh</i>n_<i>kh</i>ulân kshudrapa<i>kh</i>usvastyayanakâma_s_. <span id="p427">[<sup><small>p. 427</small></sup>]</span>
+<small>11. yene<i>kh</i>et sahakâra<i>m</i> kautomatenâsya mahâv<i>ri</i>kshaphalâni pari<i>g</i>apya dadyâd. 12. ardhamâsavratî paur<i>n</i>amâsyâ<i>m</i> râtrau nâbhimâtra<i>m</i> pragâhyâvidâsini hradeऽkshatata<i>n</i><i>d</i>ulân âsyena <i>g</i>uhuyâd udake v<i>ri</i>ksha iveti pa<i>ñ</i><i>k</i>abhi<i>h</i>. 13. pârthiva<i>m</i> karma. 14. prathamayâdityam upatish<i>th</i>ed bhogakâmoऽrthapatau prekshamâ<i>n</i>e. 15. dvitîyayâkshatata<i>n</i><i>d</i>ulân âditye parivishyamâ<i>n</i>e b<i>ri</i>hatpattrasvastyayanakâmas. 16. t<i>ri</i>tîyayâ <i>k</i>andramasi tilata<i>n</i><i>d</i>ulân kshudrapa<i>s</i>usvastyayanakâma<i>s</i>.</small>
+
+<span id="p427">[<sup><small>p. 427</small></sup>]</span>
 
 17\. Having worshipped the sun with the fourth (verse), let him try to gain great wealth.
 
@@ -93,11 +95,13 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 26\. At the morning twilight (he says), ‘When thou risest’ (l.l. 15).
 
-17\. _k<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>th_et. 18. pa<i>aturthyâdityam upasthâya gurum artham abhyuttish</i><i>aturthyâdityam upasthâya gurum artham abhyuttish</i>amyâdityam upasthâya g<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>hân eyâd. 19. anakâmamâra_m<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>m<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>g_aped bhûr iti. 20. ya<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>anîye _g<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>d<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>ri<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>h<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>g<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>k_â. 21. ऽlakshmînir<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>odo. 22. ऽksheme pathy apehîti <i>g</i>aped. 23. ya<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>o ऽham ity âdityam upatish<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>ed ya<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>askâma_h<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>n<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>n_eshu. 24. prâtarah<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>asyeti yathârtham filled. 25. âditya nâvam iti sandhyopasthâna<i>m</i> svastyayanam. 26. udyanta_m<i>aturthyâdityam upasthâya gurum artham abhyuttish</i>m_. <span id="p428">[<sup><small>p. 428</small></sup>]</span>
+<small>17. <i>k</i>aturthyâdityam upasthâya gurum artham abhyuttish<i>th</i>et. 18. pa<i>ñ</i><i>k</i>amyâdityam upasthâya g<i>ri</i>hân eyâd. 19. anakâmamâra<i>m</i> nitya<i>m</i> <i>g</i>aped bhûr iti. 20. ya<i>g</i>anîye <i>g</i>uhuyân mûrdhnoऽdhi ma iti sha<i>d</i>bhir vâmadevyargbhir mahâvyâh<i>ri</i>tibhi<i>h</i> prâ<i>g</i>âpatyayâ <i>k</i>â. 21. ऽlakshmînir<i>n</i>odo. 22. ऽksheme pathy apehîti <i>g</i>aped. 23. ya<i>s</i>o ऽham ity âdityam upatish<i>th</i>ed ya<i>s</i>askâma<i>h</i> pûrvâh<i>n</i>amadhyandinâparâh<i>n</i>eshu. 24. prâtarah<i>n</i>asyeti yathârtham filled. 25. âditya nâvam iti sandhyopasthâna<i>m</i> svastyayanam. 26. udyanta<i>m</i> tveti pûrvâ<i>m</i>.</small>
+
+<span id="p428">[<sup><small>p. 428</small></sup>]</span>
 
 27\. At the evening twilight, ‘When thou goest to rest’ (l.l. 16).
 
-27\. pratitish<i>th</i>anta_m<i>th</i>s_<i>th</i>imâm.
+<small>27. pratitish<i>th</i>anta<i>m</i> tveti pa<i>s</i><i>k</i>imâm.</small>
 
 ## KHA<i>ND</i>A 2.
 
@@ -117,7 +121,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 8\. (Plants) with milky juice or with thorns or acrid plants should not be there.
 
-2\. 1. ardhamâsavratî tâmisrâdau brâhma<i>n</i>ân â<i>n</i>ayed vrîhika<i>n</i>saudana_m_. 2. tasya ka<i>n</i>ân aparâsu sandhyâsu pratyag grâmât stha<i>n</i><i>n</i>ilam upalipya Phalâyeti <i>g</i>uhuyât. 3. Phallâyeti _k<i>n</i>m_s tâmisrâdau. 4. brahma<i>n</i>aryam â samâpter. 5. â<i>n</i>ita<i>n</i>ata<i>m</i> bhavati. 6. gaure bhûmibhâge brâhma<i>n</i>o lohite kshatriya_h<i>n</i>ri<i>n</i>n<i>n</i>s<i>n</i>m<i>n</i>g<i>n</i>m<i>n</i>s<i>n</i>n<i>n</i>s<i>n</i>m_. 7. yatrodaka_m<i>n</i>k<i>n</i>m_ pravartate. 8. kshîri<i>n</i>a_h<i>n</i>n_<i>n</i>akina<i>m</i> \[sic\] ka<i>n</i>ukâ_s<i>n</i>k_âtraushadhayo na syur. <span id="p429">[<sup><small>p. 429</small></sup>]</span>
+<small>2, 1. ardhamâsavratî tâmisrâdau brâhma<i>n</i>ân â<i>s</i>ayed vrîhika<i>m</i>saudana<i>m</i>. 2. tasya ka<i>n</i>ân aparâsu sandhyâsu pratyag grâmât stha<i>n</i><i>d</i>ilam upalipya Phalâyeti <i>g</i>uhuyât. 3. Phallâyeti <i>k</i>aivam evâparasmi<i>m</i>s tâmisrâdau. 4. brahma<i>k</i>aryam â samâpter. 5. â<i>k</i>ita<i>s</i>ata<i>m</i> bhavati. 6. gaure bhûmibhâge brâhma<i>n</i>o lohite kshatriya<i>h</i> k<i>ri</i>sh<i>n</i>e vai<i>s</i>yoऽvasâna<i>m</i> <i>g</i>oshayet sama<i>m</i> loma<i>s</i>am anîri<i>n</i>am a<i>s</i>ushka<i>m</i>. 7. yatrodaka<i>m</i> pratyagudî<i>k</i>î<i>m</i> pravartate. 8. kshîri<i>n</i>a<i>h</i> ka<i>n</i><i>t</i>akina<i>h</i> [sic] ka<i>t</i>ukâ<i>s</i> <i>k</i>âtraushadhayo na syur.</small>
+
+<span id="p429">[<sup><small>p. 429</small></sup>]</span>
 
 9\. (Soil) on which Darbha-grass grows, brings holy lustre;
 
@@ -143,7 +149,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 21\. After he has sacrificed, he should distribute Balis in the different directions (of the horizon).
 
-9\. darbhasammita_m<i> brahmavar</i>k<i> brahmavar</i>m_. 10. b<i> brahmavar</i>hatt<i> brahmavar</i><i> brahmavar</i>air balyam. 11. m<i> brahmavar</i>dut<i> brahmavar</i><i> brahmavar</i>ai_h<i> brahmavar</i>s<i> brahmavar</i>m_. 12. <i>s</i>âtâbhir (corr. <i>s</i>âdâbhir?) ma<i> brahmavar</i><i> brahmavar</i>aladvîpibhir vâ. 13. yatra vâ svaya<i> brahmavar</i>k<i> brahmavar</i>tâ_h<i> brahmavar</i>s<i> brahmavar</i>h<i> brahmavar</i>h_. 14. prâgdvâra_m<i> brahmavar</i>m<i> brahmavar</i>s<i> brahmavar</i>m<i> brahmavar</i>k<i> brahmavar</i>m<i> brahmavar</i>m<i> brahmavar</i>s<i> brahmavar</i>m<i> brahmavar</i>k<i> brahmavar</i>n_advâre sarve kâmâ. anudvâra<i>m</i> gehadvâram 15. asa<i> brahmavar</i>lokî (asa<i> brahmavar</i>loki?) syât. 16. pâyaso havi_h_. 17. k<i> brahmavar</i>shnâ <i>s</i>a gaur. 18. a<i> brahmavar</i>o vâ _s<i> brahmavar</i>h_ pâyasa eva vâ. 19. madhye ve<i> brahmavar</i>mano vasâ_m<i> brahmavar</i>m<i> brahmavar</i>k<i> brahmavar</i>s<i> brahmavar</i>t<i> brahmavar</i>ri<i> brahmavar</i>m<i> brahmavar</i>g_uhuyâd Vâstoshpata iti. 20. yâ_s<i> brahmavar</i>k<i> brahmavar</i>n<i> brahmavar</i>s<i> brahmavar</i>k_a. 21. hutvâ di<i> brahmavar</i>â_m<i> brahmavar</i>m_ nayed. <span id="p430">[<sup><small>p. 430</small></sup>]</span>
+<small>9. darbhasammita<i>m</i> brahmavar<i>k</i>asya<i>m</i>. 10. b<i>ri</i>hatt<i>ri</i><i>n</i>air balyam. 11. m<i>ri</i>dut<i>ri</i><i>n</i>ai<i>h</i> pa<i>s</i>avya<i>m</i>. 12. <i>s</i>âtâbhir (corr. <i>s</i>âdâbhir?) ma<i>n</i><i>d</i>aladvîpibhir vâ. 13. yatra vâ svaya<i>m</i>k<i>ri</i>tâ<i>h</i> <i>s</i>vabhrâ<i>h</i> sarvatoऽbhimukhâ syu<i>h</i>. 14. prâgdvâra<i>m</i> dhanya<i>m</i> ya<i>s</i>asya<i>m</i> <i>k</i>odagdvâra<i>m</i> putrya<i>m</i> pa<i>s</i>avya<i>m</i> <i>k</i>a dakshi<i>n</i>advâre sarve kâmâ. anudvâra<i>m</i> gehadvâram 15. asa<i>m</i>lokî (asa<i>m</i>loki?) syât. 16. pâyaso havi<i>h</i>. 17. k<i>ri</i>shnâ <i>k</i>a gaur. 18. a<i>g</i>o vâ <i>s</i>veta<i>h</i> pâyasa eva vâ. 19. madhye ve<i>s</i>mano vasâ<i>m</i> pâyasa<i>m</i> <i>k</i>âgyena mi<i>s</i>ram ash<i>t</i>ag<i>ri</i>hîta<i>m</i> <i>g</i>uhuyâd Vâstoshpata iti. 20. yâ<i>s</i> <i>k</i>a parâs saptâlakshmînir<i>n</i>ode tâbhi<i>s</i> <i>k</i>a. 21. hutvâ di<i>s</i>â<i>m</i> bali<i>m</i> nayed.</small>
+
+<span id="p430">[<sup><small>p. 430</small></sup>]</span>
 
 22\. And towards the intermediate points, and upwards and downwards.
 
@@ -153,7 +161,7 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 25\. He should pronounce the name of the person whom he wishes to subdue to his will, ‘N.N.;’ then that person will obey him.
 
-22\. avântaradi<i>s</i>â_m<i>s</i>k<i>s</i>k<i>s</i>m<i>s</i>k_ai. 23. ऽva_m<i>s</i>m<i>s</i>m<i>s</i>g_<i>s</i>ayor vâ. 24. vasa<i>s</i>gamâv ity etâbhyâm âhutî <i>g</i>uhuyâd. 25. yam i<i>s</i>ed va<i>s</i>am âyânta_m<i>s</i>ri<i>s</i>s_î hâsya bhavati.
+<small>22. avântaradi<i>s</i>â<i>m</i> <i>k</i>ordhvâvâ<i>k</i>îbhyâ<i>m</i> <i>k</i>ai. 23. ऽva<i>m</i> sa<i>m</i>vatsare&nbsp;sa<i>m</i>vatsare navaya<i>g</i><i>ñ</i>ayor vâ. 24. vasa<i>m</i>gamâv ity etâbhyâm âhutî <i>g</i>uhuyâd. 25. yam i<i>kh</i>ed va<i>s</i>am âyânta<i>m</i> tasya nâma g<i>ri</i>hîtvâsâv iti va<i>s</i>î hâsya bhavati.</small>
 
 
 ## KHA<i>ND</i>A 3.
@@ -162,9 +170,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 2\. (Those pegs should be) of Khâdira wood, if he is desirous of long life.
 
-3\. Now another (ceremony performed with the same verse). He should go out of the village in an eastern or northern direction, should brush up an elevated surface, or (should raise it) on a mountain with the dung of beasts of the forest, should set it on
+3\. Now another (ceremony performed with the same verse). He should go out of the village in an eastern or northern direction, should brush up an elevated surface, or (should raise it) on a mountain with the dung of beasts of the forest, should set it on <span id="p431">[<sup><small>p. 431</small></sup>]</span> fire, should sweep the coals away (from that surface), and should make an oblation (of butter) with his mouth.
 
-3\. 1. ardhamâsavratî paur<i>n</i>amâsyâ_m<i>n</i>s<i>n</i>s<i>n</i>m<i>n</i>g<i>n</i>h_. 2. khâdirân âyushkâmo. 3. ऽthâpara_m_. prâṅ vodaṅ vâ grâmân nishkramya stha<i>n</i><i>n</i>ila_m<i>n</i>n_yair gomayai sthâpayitvâ (read, gomayais tâpayitvâ?) ऽṅgârân apohyâsyena guhuyâd. <span id="p431">[<sup><small>p. 431</small></sup>]</span> fire, should sweep the coals away (from that surface), and should make an oblation (of butter) with his mouth.
+<small>3, 1. ardhamâsavratî paur<i>n</i>amâsyâ<i>m</i> râtrau <i>s</i>aṅku<i>s</i>ata<i>m</i> <i>g</i>uhuyâd ekâksharyayâ sânvayakâma<i>h</i>. 2. khâdirân âyushkâmo. 3. ऽthâpara<i>m</i>. prâṅ vodaṅ vâ grâmân nishkramya stha<i>n</i><i>d</i>ila<i>m</i> samûhya parvate vâra<i>n</i>yair gomayai sthâpayitvâ (read, gomayais tâpayitvâ?) ऽṅgârân apohyâsyena guhuyâd.</small>
 
 4\. If (the butter) catches fire, twelve villages (will be his).
 
@@ -182,7 +190,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 11\. A third (oblation) in the village with (the formula), ‘The food’s’ (l.l. 15).
 
-4\. dvâda<i>s</i>a grâmâ <i>g</i>valite. 5. tryavarâ dhûme. 6. kambûkân sâya<i>s</i>prâtar _g<i>s</i>ri<i>s</i>h_ kshîyata. 7. idam aham imam iti pa<i>s</i>yahoma_m<i>s</i>g_uhuyât. 8. pûr<i>s</i>ahoma_m<i>s</i>g<i>s</i>g_uhuyâd. 9. Indrâmavadâd iti sahâyakâmo. 10. ऽsh<i>s</i>arâtroposhitoऽpara_m<i>s</i>k<i>s</i>k<i>s</i>k<i>s</i>k<i>s</i>g<i>s</i>m<i>s</i>s_rîr vâ iti. 11. grâme t<i>s</i>tîyâm annasyety. <span id="p432">[<sup><small>p. 432</small></sup>]</span>
+<small>4. dvâda<i>s</i>a grâmâ <i>g</i>valite. 5. tryavarâ dhûme. 6. kambûkân sâya<i>m</i>prâtar <i>g</i>uhuyân nâsya v<i>ri</i>tti<i>h</i> kshîyata. 7. idam aham imam iti pa<i>n</i>yahoma<i>m</i> <i>g</i>uhuyât. 8. pûr<i>n</i>ahoma<i>m</i> ya<i>g</i>anîye <i>g</i>uhuyâd. 9. Indrâmavadâd iti sahâyakâmo. 10. ऽsh<i>t</i>arâtroposhitoऽpara<i>m</i> prâṅ vodaṅ vâ grâmâ<i>k</i> <i>k</i>atushpathe samidhyâgnim audumbara idhma syât sruva<i>k</i>amasau <i>k</i>a <i>g</i>uhuyâd anna<i>m</i> vâ iti <i>s</i>rîr vâ iti. 11. grâme t<i>ri</i>tîyâm annasyety.</small>
+
+<span id="p432">[<sup><small>p. 432</small></sup>]</span>
 
 12\. Then he will become a ruler.
 
@@ -196,13 +206,15 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 17\. [^1049]. Let him make oblations of fresh cowdung in the evening and in the morning; then his means of livelihood will not be exhausted.
 
-12\. âdhipatya<i>m</i> prâpnoty. 13. upatâpinîshu gosh<i>th</i>e pâyasa_m<i>th</i>g_uhuyâd. 14. aksheme pathi vastrada<i>th</i>ânâ_m<i>th</i>m<i>th</i>m_?) <i>k</i>a svastyayanâni. 15. kshudhe svâhety etâbhyâm âhutisahasra_m<i>th</i>g<i>th</i>k_itasahasrakâmo. 16. vatsamithunayo_h<i>th</i>n<i>th</i>s<i>th</i>h<i>th</i>s_ukâmo. 17. haritagomayena sâyamprâtar _g<i>th</i>ri<i>th</i>h_ kshîyate.
+<small>12. âdhipatya<i>m</i> prâpnoty. 13. upatâpinîshu gosh<i>th</i>e pâyasa<i>m</i> <i>g</i>uhuyâd. 14. aksheme pathi vastrada<i>s</i>ânâ<i>m</i> granthîn kuryât sahâyinâ<i>m</i> (sahâyânâ<i>m</i>?) <i>k</i>a svastyayanâni. 15. kshudhe svâhety etâbhyâm âhutisahasra<i>m</i> <i>g</i>uhuyâd â<i>k</i>itasahasrakâmo. 16. vatsamithunayo<i>h</i> purîshe<i>n</i>a pa<i>s</i>ukâmoऽvimithunayo<i>h</i> kshudrapa<i>s</i>ukâmo. 17. haritagomayena sâyamprâtar <i>g</i>uhuyân nâsya v<i>ri</i>tti<i>h</i> kshîyate.</small>
 
 ## KHA<i>ND</i>A 4.
 
 1\. [^1050]. One who has been bitten by a venomous animal, he should besprinkle with water, murmuring (the verse), ‘Do not fear’ (MB. IL 6, 18).
 
-4\. 1. vishavatâ dash<i>t</i>am adbhir abhyukshan <i>g</i>apen mâ bhaishîr iti. <span id="p433">[<sup><small>p. 433</small></sup>]</span>
+<small>4, 1. vishavatâ dash<i>t</i>am adbhir abhyukshan <i>g</i>apen mâ bhaishîr iti.</small>
+
+<span id="p433">[<sup><small>p. 433</small></sup>]</span>
 
 2\. A Snâtaka should, when lying down to sleep, put his bamboo staff near (his bed) with (the formula), ‘Strong one, protect’ (l.l. 19). This will bring him luck.
 
@@ -220,7 +232,7 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 9\. With the feet (he treads on another bundle of
 
-2\. snâtakas sa<i>m</i>vi<i>m</i>an vai<i>m</i>ava_m<i>m</i>n_<i>m</i>am upanidadhyât tura gopâyeti svastyayana_m_. 3. hatas ta (hastata, ha<i>m</i>sta, hasta, vitasta, the MSS.) iti k<i>m</i>mimanta_m<i>m</i>s<i>m</i>ñ<i>m</i>g_apet. 4. pa<i>m</i>ûnâ_m<i>m</i>k<i>m</i>n<i>m</i>t<i>m</i>ri<i>m</i>h<i>m</i>m<i>m</i>h<i>m</i>ñ<i>m</i>g_apen. 5. madhuparka_m<i>m</i>th<i>m</i>ñ<i>m</i>g_aped. 6. vish<i>m</i>arapâdyârghyâ<i>m</i>amanîyamadhuparkâ<i>m</i>âm ekaika<i>m</i> trir vedayante. 7. gâ_m<i>m</i>k_o. 8. . ऽda<i>m</i><i>m</i>a_m<i>m</i>t_aram âstîrya yâ oshadhîr ity adhyâsîta. 9. pâdayor dvitîyayâ dvau <i>k</i>ed. <span id="p434">[<sup><small>p. 434</small></sup>]</span> grass), if there are two, with the second (verse) (l.l. 4).
+<small>2. snâtakas sa<i>m</i>vi<i>s</i>an vai<i>n</i>ava<i>m</i> da<i>n</i><i>d</i>am upanidadhyât tura gopâyeti svastyayana<i>m</i>. 3. hatas ta (hastata, ha<i>h</i>sta, hasta, vitasta, the MSS.) iti k<i>ri</i>mimanta<i>m</i> de<i>s</i>am adbhir abhyuksha<i>ñ</i> <i>g</i>apet. 4. pa<i>s</i>ûnâ<i>m</i> <i>k</i>ed aparâh<i>n</i>e sîtâlosh<i>t</i>am âh<i>ri</i>tya tasya prâta<i>h</i> pâ<i>m</i>subhi<i>h</i> pratishkira<i>ñ</i> <i>g</i>apen. 5. madhuparka<i>m</i> pratigrahîshyann idam aham imâm iti pratitish<i>th</i>a<i>ñ</i> <i>g</i>aped. 6. vish<i>t</i>arapâdyârghyâ<i>k</i>amanîyamadhuparkâ<i>n</i>âm ekaika<i>m</i> trir vedayante. 7. gâ<i>m</i> <i>k</i>o. 8. . ऽda<i>ñ</i><i>k</i>a<i>m</i> vish<i>t</i>aram âstîrya yâ oshadhîr ity adhyâsîta. 9. pâdayor dvitîyayâ dvau <i>k</i>ed.</small>
 
 10\. Let him look at the water with (the formula), ‘From which side I see the goddesses’ (l.l. 5).
 
@@ -244,7 +256,9 @@ IV, 1, 1. kâmyeshu sha_d<i> bhaktâni trî</i>n<i> bhaktâni trî</i>s_nîyân.
 
 20\. ‘Make it (ready),’ if it is a sacrifice.
 
-10\. apa_h<i> pa</i>s_yed yato devîr iti. 11. savya_m<i> pa</i>ñ_<i> pa</i>ed savyam iti dakshi<i> pa</i>a_m<i> pa</i>n<i> pa</i>m<i> pa</i>s<i> pa</i>n_â. 12. ऽnnasya râsh<i> pa</i>rir asîty arghya_m<i> pa</i>ri<i> pa</i>n_îyâd. 13. ya<i> pa</i>oऽsîty â<i> pa</i>amanîya_m_. 14. ya<i> pa</i>aso ya<i> pa</i>oऽsîti madhuparka_m_. 15. tri_h<i> pa</i>s<i> pa</i>s_riyâ iti. 16. tûsh<i> pa</i>î_m<i> pa</i>k<i> pa</i>m<i> pa</i>n<i> pa</i>k_<i> pa</i>ish<i> pa</i>a<i>m</i> dadyâd. 17. ga_m<i> pa</i>ñ_<i> pa</i>a gâm ity. 18. amushya <i>k</i>ety arhayitur nâma brûyâd. 19. evam aya<i> pa</i><i> pa</i>e. 20. kuruteti ya<i> pa</i><i> pa</i>a. <span id="p435">[<sup><small>p. 435</small></sup>]</span>
+<small>10. apa<i>h</i> pa<i>s</i>yed yato devîr iti. 11. savya<i>m</i> pâdam avasi<i>ñ</i><i>k</i>ed savyam iti dakshi<i>n</i>a<i>m</i>&nbsp;dakshi<i>n</i>a<i>m</i> ity ubhau <i>s</i>eshe<i>n</i>â. 12. ऽnnasya râsh<i>t</i>rir asîty arghya<i>m</i> pratig<i>ri</i>h<i>n</i>îyâd. 13. ya<i>s</i>oऽsîty â<i>k</i>amanîya<i>m</i>. 14. ya<i>s</i>aso ya<i>s</i>oऽsîti madhuparka<i>m</i>. 15. tri<i>h</i> pibed ya<i>s</i>aso mahasa <i>s</i>riyâ iti. 16. tûsh<i>n</i>î<i>m</i> <i>k</i>aturtha<i>m</i> bhûyoऽbhipâya brâhma<i>n</i>âyo<i>k</i><i>kh</i>ish<i>t</i>a<i>m</i> dadyâd. 17. ga<i>m</i> veditâm anumantrayeta mu<i>ñ</i><i>k</i>a gâm ity. 18. amushya <i>k</i>ety arhayitur nâma brûyâd. 19. evam aya<i>g</i><i>ñ</i>e. 20. kuruteti ya<i>g</i><i>ñ</i>a.</small>
+
+<span id="p435">[<sup><small>p. 435</small></sup>]</span>
 
 21\. The six persons to whom the Arghya reception is due are, a teacher, an officiating priest, a Snâtaka, a king, the father-in-law, a friend.
 
@@ -256,9 +270,9 @@ End of the Fourth Pa<i>t</i>ala.
 
 End of the G<i>ri</i>hyakha<i>ri</i><i>ri</i>a.
 
-21\. â<i>k</i>ârya _ri<i>k</i>g<i>k</i>h<i>k</i>d<i>k</i>h_. 22. pratisa<i>k</i>vatsarân arhayet. 23. punar ya<i>k</i><i>k</i>avivâhayo_s<i>k</i>k<i>k</i>g_<i>k</i>avivâhayo_s<i>k</i>k_a. _k<i>k</i>t<i>k</i>h_.
+<small>21. â<i>k</i>ârya <i>ri</i>tvik snâtako râ<i>g</i>â vivâhya<i>h</i> priya iti sha<i>d</i> arghyâ<i>h</i>. 22. pratisa<i>m</i>vatsarân arhayet. 23. punar ya<i>g</i><i>ñ</i>avivâhayo<i>s</i> <i>k</i>a punar ya<i>g</i><i>ñ</i>avivâhayo<i>s</i> <i>k</i>a. <i>k</i>aturthapa<i>t</i>ala<i>h</i>.</small>
 
-g<i>ri</i>hyakha<i>ri</i><i>ri</i>a<i>m</i> samâptam.
+<small>g<i>ri</i>hyakha<i>n</i><i>d</i>a<i>m</i> samâptam.</small>
 
 
 

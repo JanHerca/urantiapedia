@@ -32,282 +32,282 @@ dateCreated: 2025-1-14T23:38:48Z
   </table>
 </figure>
 
-126
+<span id="an126"></span>
 
 ## SÛTRA CXXVI.
 
 They are optionally vikâras of the Aindrâgna. <span id="p349">[<sup><small>p. 349</small></sup>]</span>
 
-126c
+<span id="an126c"></span>
 
 **Commentary.**
 
 Sometimes these two Sûtras are combined into one. The commentator, however, sees in the vâ of aindrâgnavikârâ vâ a deeper meaning. Agnî-Shomau, he says, consists of four, Indrâgnî of three syllables. Therefore if the name of more than one deity consists of four syllables, it should be treated as a vikâra of the Agnîshomîya, if of less than four syllables, as a vikâra of the Aindrâgna.
 
-127
+<span id="an127"></span>
 
 ## SÛTRA CXXVII.
 
 An exception must be made in the case of the gods of the prak<i>ri</i>ti, as, for instance, the Aindra puro<i>ri</i>â<i>ri</i>a, the Saumya <i>k</i>aru.
 
-127c
+<span id="an127c"></span>
 
 **Commentary.**
 
 The exception applies to cases where the offering in a vik<i>ri</i>ti sacrifice is meant for the same principal deities as those of the prak<i>ri</i>ti offering. For instance, in the Dar<i>ri</i>a-pûr<i>ri</i>amâsa Agni and Soma are the deities of the Agnîshomîya, Indra and Agni of the Aindrâgna. If then in one of the secondary or vik<i>ri</i>ti sacrifices there occurs an Aindra puro<i>ri</i>â<i>ri</i>a, or a Saumya <i>k</i>aru, then the Aindra puro<i>ri</i>â<i>ri</i>a is treated as a vikâra of the Aindrâgna, the Saumya karu as a vikâra of the Agnîshomîya. The Somendra <i>k</i>aru also, as its principal deity is Soma, would follow the Agnîshomîya, the Indrâsomîya puro<i>ri</i>â<i>ri</i>a, as its principal deity is Indra, would follow the Aindrâgna.
 
-128
+<span id="an128"></span>
 
 ## SÛTRA CXXVIII.
 
 If there is sameness both in the offering and in the deity, then the offering prevails.
 
-128c
+<span id="an128c"></span>
 
 **Commentary.**
 
 If a <i>k</i>aru for Pra<i>g</i>âpati occurs in a vik<i>g</i>ti sacrifice, it would follow that, being offered to Pra<i>g</i>âpati, it should be offered with murmuring, but, as it is a vegetable offering, it follows the norm of the puro<i>g</i>â<i>g</i>a, though the puro<i>g</i>â<i>g</i>a is intended for Agni. <span id="p350">[<sup><small>p. 350</small></sup>]</span>
 
-129
+<span id="an129"></span>
 
 ## SÛTRA CXXIX.
 
 If there is contradiction with regard to the substance and the preparation of an offering, the substance prevails.
 
-129c
+<span id="an129c"></span>
 
 **Commentary.**
 
 A puro<i>d</i>â<i>d</i>a may be made of vrîhi, rice, or of nîvâra, wild growing rice. The wild rice has to be pounded, but not the good rice. The preparation, however, has to yield in a vik<i>d</i>ti, the important point being the substance.
 
-130
+<span id="an130"></span>
 
 ## SÛTRA CXXX.
 
 If there is contradiction with regard to the substance, the object prevails.
 
-130c
+<span id="an130c"></span>
 
 **Commentary.**
 
 An example makes the meaning of this Sûtra quite clear. Generally the yûpa or sacrificial post for fastening sacrificial animals is made of Khadira wood. But if a post made of wood is not strong enough to hold the animal, then an iron post is to be used, the object being the fastening of the animal, while the material is of less consequence.
 
-131
+<span id="an131"></span>
 
 ## SÛTRA CXXXI.
 
 In a Prak<i>ri</i>ti sacrifice there is no Ûha, modification of the mantras.
 
-131c
+<span id="an131c"></span>
 
 **Commentary.**
 
 Certain mantras of the Veda have to be slightly altered, when their application varies. In the normal sacrifices, however, no such alteration takes place.
 
-132
+<span id="an132"></span>
 
 ## SÛTRA CXXXII.
 
 In a Vik<i>ri</i>ti sacrifice modification takes place, according to the sense, but not in an arthavâda.
 
-132c
+<span id="an132c"></span>
 
 **Commentary.**
 
 Some mantras remain the same in the Vik<i>ri</i>ti as in the Prak<i>ri</i>ti. Others have to be modified so as to be <span id="p351">[<sup><small>p. 351</small></sup>]</span> adapted to anything new that has to be. If, for instance, there is a Puro<i>ri</i>â<i>ri</i>a for Agni in the Prak<i>ri</i>ti, and in its place a Puro<i>ri</i>â<i>ri</i>a for Sûrya in the Vik<i>ri</i>ti, then we must place Sûrya instead of Agni in the dedicatory mantra.
 
-133
+<span id="an133"></span>
 
 ## SÛTRA CXXXIII.
 
 When we hear words referring to something else, that is arthavâda.
 
-133c
+<span id="an133c"></span>
 
 **Commentary.**
 
 Arthavâda is generally explained as anything occurring in the Brâhma<i>n</i>as which is not vidhi or command. Here, however, it refers to Mantras or passages recited at the sacrifice. We saw how such passages, if they referred to some part of the sacrifice, had to be modified under certain circumstances according to the sense. Here we are told that passages which do not refer to anything special in the sacrifice, are arthavâda and remain unmodified. All this is expressed by the words paravâkya<i>n</i>rava<i>n</i>ât. Vâkya stands for padâni, words, such as are used in the nivâpamantra, &c. Some of these words are called samavetârthâni, because they tell of something connected with the performance of the sacrifice, as, for instance, Agnaye _g<i>n</i>t<i>n</i>m_ nirvapâmi, I offer what is acceptable to Agni; others are asamavetârthâni, as, for instance, Devasya tvâ Savitu<i>h</i> prasave. When such passages which are not connected with some sacrificial act occur (_s<i>n</i>n_ât), they naturally remain unaltered.
 
-134
+<span id="an134"></span>
 
 ## SÛTRA CXXXIV.
 
 If what is prescribed is absent, a substitute is to be taken according to similarity.
 
-134c
+<span id="an134c"></span>
 
 **Commentary.**
 
-Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect. <span id="p352">[<sup><small>p. 352</small></sup>]</span> According to Ma<i>n</i><i>n</i>ana's Trikâ<i>n</i><i>n</i>a, the degrees of similarity are to be determined in the following order:
+Here we have no longer modification, but substitution (pratinidhi). In cases where anything special that has been prescribed is wanting, a substitute must be chosen, as similar as possible, and producing a similar effect. <span id="p352">[<sup><small>p. 352</small></sup>]</span> According to Ma<i>nd</i>ana's Trikâ<i>nd</i>a, the degrees of similarity are to be determined in the following order:
 
 Kâryai rûpais tathâ par<i>n</i>ai_h<i>n</i>h<i>n</i>h_ phalair api,
 Gandhai rasai_h<i> sad</i>ri_g grâhyam pûrvâlâbhe param param.
 
 ‘What is similar by effect, by shape, by leaves, by milk, by flowers, and by fruit, By smell, or by taste is to be taken one after the other, if the former cannot be found.’
 
-135
+<span id="an135"></span>
 
 ## SÛTRA CXXXV.
 
 If there is nothing very like, something a little like may be substituted, only it must not be prohibited.
 
-135c
+<span id="an135c"></span>
 
 **Commentary.**
 
 If in a <i>k</i>aru of mudgas, kidney-beans, phaseolus mungo, these kidney-beans should fail, a substitute may be taken, but that substitute must not be mâshas, phaseolus radiatus, because these mâshas are expressly forbidden; for it is said, Aya<i>g</i><i>g</i>iyâ vai mâshâ_h_, ‘Mâshas are not fit for sacrifice.’
 
-136
+<span id="an136"></span>
 
 ## SÛTRA CXXXVI.
 
 The substitute should take the nature of that for which it is substituted.
 
-136c
+<span id="an136c"></span>
 
 **Commentary.**
 
 Taddharma, having the same qualities. If, for instance, nîvâra has been substituted for vrîhi, it should be treated as if it were vrîhi. The name vrîhi should remain, and should not be replaced by nîvâra, just as Soma, if replaced by pûtikâ, is still called Soma. Thus, when in the course of a sacrifice vrîhi has once been replaced by nîvâra, and vrîhi can be procured afterwards, yet nîvâra is then to be retained to the end. If, however, the substituted nîvâra also come to an end, and afterwards both nîvâra and vrîhi are forthcoming, then vrîhi has the preference. If neither be forthcoming, then some substitute is to be taken that approaches nearest to the substitute, the nîvâra, not to the <span id="p353">[<sup><small>p. 353</small></sup>]</span> original vrîhi. Further, if a choice has been allowed between vrîhi, rice, and yava, barley, and vrîhi has been chosen, and afterwards, as substitute for vrîhi, nîvâra, then, if nîvâra come to an end, and in the absence of vrîhi, when a new supply of both nîvâra, and yava has been obtained, the yava is to be avoided, and the original substitute for vrîhi, the nîvâra, must be retained. In most of these cases, however, a certain penance also (prâya<i>s</i><i>s</i>itta) is required.
 
-137
+<span id="an137"></span>
 
 ## SÛTRA CXXXVII.
 
 If something is wanting in the measure, let him finish with the rest.
 
-137c
+<span id="an137c"></span>
 
 **Commentary.**
 
 If it is said that a puro<i>d</i>â<i>d</i>a should be as large as a horse's hoof, and there is not quite so much left, yet whatever is left should be used to finish the offering.
 
-138
+<span id="an138"></span>
 
 ## SÛTRA CXXXVIII.
 
 Substitution does not apply to the master, the altar-fire, the deity, the word, the act, and a prohibition.
 
-138c
+<span id="an138c"></span>
 
 **Commentary.**
 
 The master is meant for the sacrificer himself and his wife. Their place cannot, of course, be taken by anybody else. The altar-fire is supposed to have a supernatural power, and cannot be replaced by any other fire. Nothing can take the place of the invoked deities, nor of the words used in the mantras addressed to them, nor can the sacrifice itself be replaced by any other act. Lastly, when it is said that mâshas, varakas, kodravas are not fit for sacrifice, or that a man ought not to sacrifice with what should not be eaten by Âryas, nothing else can be substituted for what is thus prohibited.
 
-139
+<span id="an139"></span>
 
 ## SÛTRA CXXXIX.
 
 The Prak<i>ri</i>ti stops from three causes, from a corollary, from a prohibition, and from loss of purpose. <span id="p354">[<sup><small>p. 354</small></sup>]</span>
 
-139c
+<span id="an139c"></span>
 
 **Commentary.**
 
 A corollary (pratyâmnâna) occurs, when it is said, ‘instead of Ku<i>s</i>a grass, let him make a barhis of reeds.’ A prohibition (pratishedha) occurs, when it is said, ‘he does not choose an Ârsheya.’ Loss of purpose (arthalopa) occurs, when pesha<i>s</i>a, pounding, would refer to <i>k</i>aru, a pulse, that cannot be pounded, while grains can be.
 
-140
+<span id="an140"></span>
 
 ## SÛTRA CXL.
 
 The Agnish<i>t</i>oma is the Prak<i>t</i>ti of the Ekâha sacrifices.
 
-140c
+<span id="an140c"></span>
 
 **Commentary.**
 
 The Ekâha are sacrifices accomplished in one day.
 
-141
+<span id="an141"></span>
 
 ## SÛTRA CXLI.
 
 The Dvâda<i>s</i>âha is the Prak<i>s</i>ti of the Aharga<i>s</i>as.
 
-141c
+<span id="an141c"></span>
 
 **Commentary.**
 
 The Dvâda<i>s</i>âha lasts twelve days and is a Soma sacrifice. It is either an Ahîna or a Sattra. An Aharga<i>s</i>a is a series of daily and nightly sacrifices. Those which last from two nights to eleven nights are called Ahîna. Those which last from thirteen to one hundred nights or more are called Sattras.
 
-142
+<span id="an142"></span>
 
 ## SÛTRA CXLII.
 
 The Gavâmayana is the Prak<i>ri</i>ti of the Sâ<i>ri</i>vatsarikas.
 
-142c
+<span id="an142c"></span>
 
 **Commentary.**
 
 The Gavâmayana lasts three years, and it is the type of all Sâ<i>m</i>vatsarika sacrifices, whether they last one, two, three or more years. They all belong to the class of Sattras.
 
-143
+<span id="an143"></span>
 
 ## SÛTRA CXLIII.
 
 Of the Nikâyi sacrifices the first serves as Prak<i>ri</i>ti. <span id="p355">[<sup><small>p. 355</small></sup>]</span>
 
-143c
+<span id="an143c"></span>
 
 **Commentary.**
 
 Among the Nikâyi sacrifices, lit. those which consist of a number, all having the same name, but different rewards, the first is the prak<i>ri</i>ti of the subsequent ones. The commentator calls them sâdyaskra &c., and mentions as the first the Agnish<i>ri</i>oma. See Sûtra CXLVI, and Weber, Ind. Stud. XIII, p. 218.
 
-144
+<span id="an144"></span>
 
 ## SÛTRA CXLIV.
 
 At the Agnish<i>t</i>oma there is the Uttara-vedi.
 
-144c
+<span id="an144c"></span>
 
 **Commentary.**
 
 The commentator explains this by saying that at the Soma sacrifices, i.e. at the Agnish<i>t</i>oma, Ukthya, Sho<i>t</i>a<i>t</i>in, and Atirâtra, the fire is carried from the Âhavanîya to the Uttara-vedi, which is also called the Soma altar.
 
-145
+<span id="an145"></span>
 
 ## SÛTRA CXLV.
 
 The fire is valid for the successive sacrifices.
 
-145c
+<span id="an145c"></span>
 
 **Commentary.**
 
 This fire refers to the fire on the Uttara-vedi, mentioned in the preceding Sûtra, and the object of the Sûtra seems to be to include the act of lighting the fire on the Uttara-vedi in the Prak<i>ri</i>ti, though properly speaking it does not form part of the Agnish<i>ri</i>oma. But I cannot quite understand the argument of the commentator.
 
-146
+<span id="an146"></span>
 
 ## SÛTRA CXLVI.
 
 This does not apply to the Sâdyaskras, the Vâ<i>g</i>apeya, the Sho<i>g</i>a<i>g</i>in, and the Sârasvata Sattra.
 
-146c
+<span id="an146c"></span>
 
 **Commentary.**
 
 With regard to the Sho<i>d</i>a<i>d</i>in and its vikâra, the Vâ<i>d</i>apeya, the laying of the fire is not mentioned. In the case of the Sâdyaskras, it becomes impossible, because they have to be quickly finished. In the case of the Sârasvata Sattra, there is the same difficulty on account of not remaining in the same place (anavasthâpân nâgni_s<i>d</i>k_îyate). <span id="p356">[<sup><small>p. 356</small></sup>]</span>
 
-147
+<span id="an147"></span>
 
 ## SÛTRA CXLVII.
 
 A sacrificer wishes the object of his sacrifice at the beginning of the sacrifice.
 
-147c
+<span id="an147c"></span>
 
 **Commentary.**
 
 Some MSS. read kâmayeta, ‘he should wish,’ but the commentator explains that such a command (vidhi) is unnecessary, because it is natural to form a wish (svata<i>h</i> siddhatvât).
 
-148
+<span id="an148"></span>
 
 ## SÛTRA CXLVIII.
 
 At the beginning of a special part of the sacrifice, one should wish the object of that part of the sacrifice.
 
-148c
+<span id="an148c"></span>
 
 **Commentary.**
 
@@ -321,7 +321,7 @@ Hârîta says: Pâkaya<i>g</i><i>g</i>ân ya<i>g</i>en nitya_m<i>g</i>g_<i>g</i>
 
 A Brâhma<i>n</i>a shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Dar<i>n</i>a and Paur<i>n</i>amâsa (ish<i>n</i>is) at the end of each half-month;
 
-‘When the old grain has been consumed the (Âgraya<i>n</i>a) Ish<i>n</i>i with new grain; at the end of the (three) seasons the (_K_âturmâsya) sacrifices; at the solstices an animal (sacrifice); at the end of the year Soma offerings;
+‘When the old grain has been consumed the (Âgraya<i>n</i>a) Ish<i>n</i>i with new grain; at the end of the (three) seasons the (<i>K</i>âturmâsya) sacrifices; at the solstices an animal (sacrifice); at the end of the year Soma offerings;
 
 ‘A Brâhma<i>n</i>a, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Âgraya<i>n</i>a) Ish<i>n</i>i with new grain and an animal (sacrifice) [^799].’
 
@@ -334,10 +334,10 @@ Seven | Seven | Seven
 Pâkasa<i>m</i>sthâs: | Havirya<i>g</i><i>g</i>asa<i>g</i>sthâs: | Somasa<i>m</i>sthâs:
 (1) Ash<i>t</i>akâ, | (1) Agnyâdheyam, | (1) Agnish<i>t</i>oma_h_,
 (2) Pârva<i>n</i>am, | (2) Agnihotram, | (2) Atyagnish<i>t</i>oma_h_,
-(3) _S_râddham, | (3) Dar<i>s</i>apûr<i>s</i>amâsau, | (3) Ukthya_h_,
-(4) _S<i>râva</i>n_î, | (4) _K_âturmâsyâni [^801], | (4) Sho<i>d</i>a<i>d</i>î [^802],
+(3) <i>S</i>râddham, | (3) Dar<i>s</i>apûr<i>s</i>amâsau, | (3) Ukthya_h_,
+(4) _S<i>râva</i>n_î, | (4) <i>K</i>âturmâsyâni [^801], | (4) Sho<i>d</i>a<i>d</i>î [^802],
 (5) Âgrahâya<i>n</i>î, | (5) Âgraya<i>n</i>esh<i>n</i>i_h_, | (5) Vâ<i>g</i>apeya_h_,
-(6) _K_aitrî, | (6) Nirû<i>apa</i>apa<i>apa</i>ubandha_h_, | (6) Atirâtra_h_,
+(6) <i>K</i>aitrî, | (6) Nirû<i>apa</i>apa<i>apa</i>ubandha_h_, | (6) Atirâtra_h_,
 (7) Â<i>vayu</i>vayu<i>vayu</i>î. | (7) Sautrâma<i>n</i>î. | (7) Aptoryâma_h_.
 
 In a commentary on Dhûrtasvâmin's Âpastambasûtrabhâshya (MS. E.I.H. 137) another list is given:
@@ -347,10 +347,10 @@ Pâkaya<i>g</i><i>g</i>as: | Havirya<i>g</i><i>g</i>as: | Somaya<i>g</i><i>g</i>
 (1) Aupâsanahoma_h_, | Agnihotram, | Agnish<i>t</i>oma_h_,
 (2) Vai<i>s</i>vadevam, | Dar<i>s</i>apûr<i>s</i>amâsau, | Atyagnish<i>t</i>oma_h_,
 (3) Pârva<i>n</i>am, | Âgraya<i>n</i>am, | Ukthya_h_,
-(4) Ash<i>t</i>akâ, | _K_âturmâsyâni, | Sho<i>d</i>a<i>d</i>î,
+(4) Ash<i>t</i>akâ, | <i>K</i>âturmâsyâni, | Sho<i>d</i>a<i>d</i>î,
 (5) Mâsi<i>s</i>râddham, | Nirû<i>apa</i>apa<i>apa</i>ubandha_h_, | Vâ<i>g</i>apeya_h_,
 (6) Sarpabali_h_, | Sautrâma<i>n</i>î, | Atirâtra_h_,
-(7) Î<i>ânabali</i>ânabali_h_. | Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a_h_. | Aptoryâma_h_.
+(7) Î<i>ânabali</i>ânabali_h_. | Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a_h_. | Aptoryâma_h_.
 
 This list is nearly the same as one given by Satyavrata Sâmâ<i>s</i>rami in the Ushâ. He gives, however, another list, which is:
 
@@ -362,30 +362,30 @@ Pâkasa<i>m</i>sthâs: | Havi<i>h</i>sa<i>h</i>sthâs: | Somasa<i>m</i>sthâs:
 (3) Sthâlîpâka, | Dar<i>s</i>a-, | Ukthya_h_,
 (4) Navaya<i>g</i><i>g</i>a_h_, | Paur<i>n</i>amâsau, | Sho<i>d</i>a<i>d</i>î,
 (5) Vai<i>s</i>vadevam, | Âgraya<i>n</i>a, | Vâ<i>g</i>apeya_h_,
-(6) Pit<i>ri</i>ya<i>ri</i><i>ri</i>a_h_, | _K_âturmâsyâni, | Atirâtra_h_,
+(6) Pit<i>ri</i>ya<i>ri</i><i>ri</i>a_h_, | <i>K</i>âturmâsyâni, | Atirâtra_h_,
 (7) Ash<i>t</i>akâ. | Pa<i>s</i>ubandha_h_. | Aptoryâma_h_.
 
-According to the substances offered, sacrifices are sometimes <span id="p359">[<sup><small>p. 359</small></sup>]</span> divided into vegetable and animal sacrifices. The vegetable substances are, ta<i>n</i><i>n</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_, and aktava_h_. The animal substances are, paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam, and pa<i>n</i>urasa_h_.
+According to the substances offered, sacrifices are sometimes <span id="p359">[<sup><small>p. 359</small></sup>]</span> divided into vegetable and animal sacrifices. The vegetable substances are, ta<i>nd</i>ulâ_h_, pish<i>n</i>âni, phalîkara<i>n</i>â_h_, puro<i>n</i>â<i>n</i>a_h_, odana_h_, yavâgû_h_, p<i>n</i>thukâ_h_, lâ<i>n</i>â_h_, dhânâ_h_, and aktava_h_. The animal substances are, paya_h_, dadhi, â<i>n</i>yam, âmikshâ, vâ<i>n</i>inam, vapâ, tva<i>n</i>a_h_, mâ<i>n</i>sam, lohitam, and pa<i>n</i>urasa_h_.
 
-149
+<span id="an149"></span>
 
 ## SÛTRA CXLIX.
 
 If there are fewer Mantras and more (sacrificial) acts, then after dividing them into equal parts, let him perform the former with the former, the latter with the latter.
 
-149c
+<span id="an149c"></span>
 
 **Commentary.**
 
 It happens, for instance, in certain ish<i>t</i>is that a pair of Yâ<i>t</i>yâ and Anuvâkyâ mantras is given, but six acts. In that case one half of the mantras is used for one half of the acts, and the other half of the mantras for the other half of the acts.
 
-150
+<span id="an150"></span>
 
 ## SÛTRA CL.
 
 If there are fewer acts and more Mantras, let him perform and act with one mantra, those which remain are optional, as the materials for the sacrificial post.
 
-150c
+<span id="an150c"></span>
 
 **Commentary.**
 

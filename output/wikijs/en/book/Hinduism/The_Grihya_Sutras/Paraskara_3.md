@@ -81,7 +81,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 6\. [^872]. After they have spread out to the west of the fire a layer (of straw) and a garment that has <span id="p340">[<sup><small>p. 340</small></sup>]</span> not yet been washed, they ‘redescend,’ having bathed, wearing garments which have not yet been washed: the master (of the house) southward, his wife to the north (of her husband, and then the other persons belonging to the house) so that each younger one lies more to the north.
 
-7\. Having caused the Brahman to sit down southward, and having placed to the north a water-pot, a _S_amî branch, an earth-clod taken out of a furrow, and a stone, he murmurs, looking at the fire: ‘This Agni is most valiant, he is most blessed, the best giver of a thousand boons, highly powerful. May he establish us both in the highest place.’
+7\. Having caused the Brahman to sit down southward, and having placed to the north a water-pot, a <i>S</i>amî branch, an earth-clod taken out of a furrow, and a stone, he murmurs, looking at the fire: ‘This Agni is most valiant, he is most blessed, the best giver of a thousand boons, highly powerful. May he establish us both in the highest place.’
 
 8\. To the west of the fire he joins his hands (and holds them) towards the east.
 
@@ -95,7 +95,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 13\. With (the verse), ‘Be soft to us, O earth’ (Vâ_g_. Sa<i>m</i>h. XXXV, 21), they lie down on their right sides, their heads turned towards the east. <span id="p341">[<sup><small>p. 341</small></sup>]</span>
 
-14 [14](sbe29193.htm#fn875). They arise with (the verse), 'Up! with life, with blessed life. Up! with Par<i>m</i>anya's eye, with the seven spaces of the earth.’
+14 [14](#fn875). They arise with (the verse), 'Up! with life, with blessed life. Up! with Par<i>m</i>anya's eye, with the seven spaces of the earth.’
 
 15\. This (they repeat) two other times, with the Brahman's permission.
 
@@ -145,11 +145,11 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 8\. The middle Ash<i>t</i>akâ (is celebrated) with (the sacrifice of) a cow.
 
-9\. He sacrifices the omentum of that (cow) with (the verse), ‘Carry the omentum, O _G_âtavedas, to the fathers’ (Vâ_g_. Sa<i>m</i>h. XXXV, 20).
+9\. He sacrifices the omentum of that (cow) with (the verse), ‘Carry the omentum, O <i>G</i>âtavedas, to the fathers’ (Vâ_g_. Sa<i>m</i>h. XXXV, 20).
 
 10\. On the day following each (Ash<i>t</i>akâ), the Anvash<i>t</i>akâ day, (he brings a sacrifice) with the left ribs and the left thigh, in an enclosure, according to (the ritual of) the Pi<i>t</i><i>t</i>apit<i>t</i>ya<i>t</i><i>t</i>a.
 
-11\. Also to the female (ancestors he makes Pi<i>n</i><i>n</i>a offerings) and pours (for them) strong liquor and water oblations into pits, and (offers) collyrium, salves, and garlands.
+11\. Also to the female (ancestors he makes Pi<i>nd</i>a offerings) and pours (for them) strong liquor and water oblations into pits, and (offers) collyrium, salves, and garlands.
 
 12\. (He may also make oblations), if he likes, to the teacher and to the pupils who have no children. <span id="p345">[<sup><small>p. 345</small></sup>]</span>
 
@@ -291,7 +291,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 5\. [^899]. Or (it may be) a cow, on account of the designation.
 
-6\. [^900]. Having cooked the omentum, a mess of sacrificial food, and the portions cut off (of the victim), he sacrifices the omentum to Rudra, the fat to the Air, and the cut-off portions together with the mess of cooked food to Agni, Rudra, _S_arva, Pa<i>s</i>upati, Ugra, A<i>s</i>ani, Bhava, Mahâdeva, [Î<i>s</i>âna](errata.htm#2).
+6\. [^900]. Having cooked the omentum, a mess of sacrificial food, and the portions cut off (of the victim), he sacrifices the omentum to Rudra, the fat to the Air, and the cut-off portions together with the mess of cooked food to Agni, Rudra, <i>S</i>arva, Pa<i>s</i>upati, Ugra, A<i>s</i>ani, Bhava, Mahâdeva, Î<i>s</i>âna.
 
 7\. (Then follows a sacrifice to) Vanaspati.
 
@@ -395,7 +395,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 26\. Let them eat food which they have bought or received (from. others); (they should eat it) only in the day-time, (and should eat) no meat.
 
-27\. [^924]. Having offered to the deceased person the Pi<i>n</i><i>n</i>a, naming his name at the washing, at the offering (of the Pi<i>n</i><i>n</i>a), and at the second washing—
+27\. [^924]. Having offered to the deceased person the Pi<i>nd</i>a, naming his name at the washing, at the offering (of the Pi<i>nd</i>a), and at the second washing—
 
 28\. [^925]. They should that night put milk and water in an earthen vessel into the open air with (the words), ‘Deceased one, bathe here!’
 
@@ -441,17 +441,17 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 49\. Some also kill a cow in honour of the deceased person.
 
-50\. When the Pi<i>n</i><i>n</i>as are prepared, the deceased person, if he has sons, shall be considered as the first of the (three) Fathers (to whom Pi<i>n</i><i>n</i>as are offered).
+50\. When the Pi<i>nd</i>as are prepared, the deceased person, if he has sons, shall be considered as the first of the (three) Fathers (to whom Pi<i>nd</i>as are offered).
 
 51\. [^932]. The fourth one should be left out.
 
-52\. [^933]. Some (make Pi<i>n</i><i>n</i>a offerings to a deceased person) separately through one year (before admitting him to a share in the common Pit<i>n</i>ya<i>n</i><i>n</i>a).
+52\. [^933]. Some (make Pi<i>nd</i>a offerings to a deceased person) separately through one year (before admitting him to a share in the common Pit<i>n</i>ya<i>nd</i>a).
 
-53\. [^934]. But there is a rule, ‘There can be no fourth Pi<i>n</i><i>n</i>a’—for this is stated in the <i>S</i>ruti.
+53\. [^934]. But there is a rule, ‘There can be no fourth Pi<i>nd</i>a’—for this is stated in the <i>S</i>ruti.
 
 54\. [^935]. Every day he shall give food to him (i.e. to the deceased person), and if he was a Brâhma<i>n</i>a, a vessel with water.
 
-55\. Some offer also a. Pi<i>n</i><i>n</i>a.
+55\. Some offer also a. Pi<i>nd</i>a.
 
 
 
@@ -567,7 +567,7 @@ From the good you have led us to the better, ye gods! Through thee, the nourishm
 
 5\. When he is going to mount a camel, he addresses it: ‘Thou art the son of Tvash<i>t</i>_ri_; Tvash<i>t</i>_ri_ is thy deity. Make me arrive safely.’
 
-6\. [^958]. When he is going to mount a he-ass, he addresses it: ‘A _S_ûdra art thou, a _S_ûdra by birth. To Agni thou belongest, with twofold sperm. Make me arrive safely.’
+6\. [^958]. When he is going to mount a he-ass, he addresses it: ‘A <i>S</i>ûdra art thou, a <i>S</i>ûdra by birth. To Agni thou belongest, with twofold sperm. Make me arrive safely.’
 
 7\. A path he addresses: ‘Adoration to Rudra who dwells on the paths. Make me arrive safely.’
 
@@ -613,7 +613,7 @@ May my mouth be skilful; my tongue be honey-sweet speech. With my ears I have he
 
 The Brahman's word art thou; the Brahman's stand art thou; the Brahman's store-house art thou. Fulfilment art thou; peace art thou; unforgetfulness art thou; enter into my store-house of the Brahman. With the voice I cover thee! With the voice I cover thee! May I be able to form the vowels, to produce, to hold fast and to utter the guttural, pectoral, dental, and labial sounds. May my limbs grow strong, my voice, breath, eye, ear, honour, and power. What I have heard and studied, may that be fixed in my mind; may that be fixed in my mind.’
 
-End of the Third Kâ<i>n</i><i>n</i>a.
+End of the Third Kâ<i>nd</i>a.
 
 End of Pâraskara's G<i>ri</i>hya-sûtra.
 
@@ -667,7 +667,7 @@ End of Pâraskara's G<i>ri</i>hya-sûtra.
 
 [^875]: 340:12 On upeta, which means a person for whom the Upanayana has been performed, see my note, <i>S</i>âṅkhâyana-G<i>ri</i>hya II, 1, 1.
 
-[^876]: 341:14 The verse occurs, with a few differences, in the Kâ<i>n</i>va _S_âkhâ of the Vâ_g_. Sa<i>n</i>hitâ, II, 7, 5.
+[^876]: 341:14 The verse occurs, with a few differences, in the Kâ<i>n</i>va <i>S</i>âkhâ of the Vâ_g_. Sa<i>n</i>hitâ, II, 7, 5.
 
 [^877]: 341:1 3, 1. On the Ash<i>t</i>akâs, celebrated on the eighth days of the three dark fortnights following after the Âgrahâya<i>t</i>î full moon, see <i>S</i>âṅkhâyana III, 12 seqq.; Â<i>t</i>valâyana II, 4; Gobhila III, 10.
 
@@ -755,9 +755,9 @@ In the Mantra I propose to read, pari tvâ hvalano, &c. Niv<i>ri</i>ttendravîru
 
 [^918]: 355:7 Manu V, 68; Yâ<i>g</i><i>g</i>avalkya III, 1.
 
-[^919]: 355:10\_9 The Yama song is stated to be the second verse of Taittirîya Âra<i>n</i>yaka VI, 5, 3 ('He who day by day leads away cows, horses, men, and everything that moves, Vivasvat's son Yama is insatiable of the five human tribes'); the Yama hymn is Rig-veda X, 14. Comp. Yâ<i>n</i><i>n</i>avalkya III, 2.
+[^919]: 355:10\_9 The Yama song is stated to be the second verse of Taittirîya Âra<i>n</i>yaka VI, 5, 3 ('He who day by day leads away cows, horses, men, and everything that moves, Vivasvat's son Yama is insatiable of the five human tribes'); the Yama hymn is Rig-veda X, 14. Comp. Yâ<i>nd</i>avalkya III, 2.
 
-[^920]: 355:10\_10 The bhûmi<i>g</i>osha<i>g</i>a (election of the site for the Sma<i>g</i>âna) is p. 356 treated of in _S_atapatha Brâhma<i>g</i>a XIII, 8, 1, 6 seqq.; Kâtyâyana <i>S</i>rauta-sûtra XXI, 3, 15 seqq. On the bath taken after the ceremony, see _S_atapatha Brâhma<i>g</i>a XIII, 8,4,5; Kâtyâyana XXI, 4, 24.
+[^920]: 355:10\_10 The bhûmi<i>g</i>osha<i>g</i>a (election of the site for the Sma<i>g</i>âna) is p. 356 treated of in <i>S</i>atapatha Brâhma<i>g</i>a XIII, 8, 1, 6 seqq.; Kâtyâyana <i>S</i>rauta-sûtra XXI, 3, 15 seqq. On the bath taken after the ceremony, see <i>S</i>atapatha Brâhma<i>g</i>a XIII, 8,4,5; Kâtyâyana XXI, 4, 24.
 
 [^921]: 356:16 Yâ<i>g</i><i>g</i>avalkya III, 3.
 
@@ -769,7 +769,7 @@ In the Mantra I propose to read, pari tvâ hvalano, &c. Niv<i>ri</i>ttendravîru
 
 [^924]: 357:25-26 25, 26. Yâ<i>g</i><i>g</i>avalkya III, 16; Manu V, 73; Vasish<i>g</i>a IV, 15.
 
-[^925]: 357:27 See on the washing and on the offering of the Pi<i>n</i><i>n</i>a, Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 10. 11. Comp. Weber, Indische Studien, X, 82.
+[^925]: 357:27 See on the washing and on the offering of the Pi<i>nd</i>a, Kâtyâyana-<i>S</i>rauta-sûtra IV, 1, 10. 11. Comp. Weber, Indische Studien, X, 82.
 
 [^926]: 357:28 Yâ<i>g</i><i>g</i>avalkya III, 17.
 
@@ -789,7 +789,7 @@ In the Mantra I propose to read, pari tvâ hvalano, &c. Niv<i>ri</i>ttendravîru
 
 [^934]: 359:52 <i>S</i>âṅkhâyana-G<i>ri</i>hya VIII, 2. Comp. the description of the Sapi<i>ri</i><i>ri</i>îkara<i>ri</i>a, ibid., chap. 3.
 
-[^935]: 359:53 There would be four Pi<i>n</i><i>n</i>as, if one were to be offered to the recently deceased person, and three others to those Fathers who had received Pi<i>n</i><i>n</i>a offerings before his death. Therefore one of these three Fathers is omitted; see § 51.
+[^935]: 359:53 There would be four Pi<i>nd</i>as, if one were to be offered to the recently deceased person, and three others to those Fathers who had received Pi<i>nd</i>a offerings before his death. Therefore one of these three Fathers is omitted; see § 51.
 
 [^936]: 359:54 Comp. Âpastamba I, 13, 1; Baudhâyana II, 11, 3.
 
@@ -823,7 +823,7 @@ In the Mantra I propose to read, pari tvâ hvalano, &c. Niv<i>ri</i>ttendravîru
 
 [^951]: 362:3 In Sanskrit the words sabha (court) and samiti (assembly) are of feminine gender. I have translated upa ma sa tish<i>th</i>et in the sense indicated by Pâ<i>th</i>ini I, 4, 87.
 
-[^952]: 363:5 Perhaps we should read garbhe<i>n</i>â<i>n</i>vataryâ<i>h</i> saha: we take away thy anger together with the offspring of the she-mule (that cannot foal). Comp. _K_ullavagga VII, 2, 5; S.B.E., XX, 238.
+[^952]: 363:5 Perhaps we should read garbhe<i>n</i>â<i>n</i>vataryâ<i>h</i> saha: we take away thy anger together with the offspring of the she-mule (that cannot foal). Comp. <i>K</i>ullavagga VII, 2, 5; S.B.E., XX, 238.
 
 [^953]: 363:6 It is impossible to give a sure restoration of this corrupt Mantra. Perhaps we should read something like this: â te vâ<i>k</i>am âsya â te h<i>k</i>daya âdade. Comp. Hira<i>k</i>y.-G<i>k</i>hya I, 4, 15, 6.
 
@@ -835,7 +835,7 @@ In the Mantra I propose to read, pari tvâ hvalano, &c. Niv<i>ri</i>ttendravîru
 
 [^957]: 365:13 I cannot say what ‘the post’ (stambha) here means; it may be apart of the chariot. _G<i>ayarâma has dhva</i>g_astambha, i.e. the staff of a flag, which we are to suppose was carried on the chariot. This may be the right explanation.
 
-[^958]: 365:15 _S_atapatha Brâhma<i>n</i>a I, 8, 2, 9.
+[^958]: 365:15 <i>S</i>atapatha Brâhma<i>n</i>a I, 8, 2, 9.
 
 [^959]: 366:6 The he-ass has twofold sperm, because he begets both asses and mules. Taittirîya Sa<i>m</i>hitâ VII, 1, 1, 2.
 

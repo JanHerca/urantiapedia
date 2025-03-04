@@ -80,7 +80,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 8\. The boy, sitting to the east (of him), facing the west, seizes with his right hand (the teacher's) right foot and says, ‘Recite the Sâvitrî, Sir!’
 
-9\. He recites (the Sâvitrî) to him, ‘That (glorious splendour) of Savit_ri_’ (Taitt. Sa<i>m</i>h. I, 5, 6, 4; M. 4, 13);
+9\. He recites (the Sâvitrî) to him, ‘That (glorious splendour) of Savit<i>ri</i>’ (Taitt. Sa<i>m</i>h. I, 5, 6, 4; M. 4, 13);
 
 10\. Pâda by Pâda, hemistich by hemistich, and the whole (verse).
 

@@ -70,4 +70,4 @@ I have here to thank Dr. Winternitz, to whom we are indebted for an excellent ed
 
 ## Footnotes
 
-[^711]: 249:1 See above, pp. [3](sbe30003.htm#p3) seq.
+[^711]: 249:1 See above, pp. [3](Gobhila_Intro#p3) seq.

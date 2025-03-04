@@ -75,7 +75,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. (The host) announces (to the guest), ‘The water for washing the feet!’
 
-5\. [^766] (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brâhma<i>n</i>a, the left to a _S_ûdra.
+5\. [^766] (The guest) should recite the next (verse, II, 9, 10) over (that water) and should stretch out the right foot first to a Brâhma<i>n</i>a, the left to a <i>S</i>ûdra.
 
 6\. Having touched the person who washes him, he should touch himself (i.e. his own heart) with the next (formula, M. II, 9, II).
 
@@ -103,7 +103,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 18\. (In this case) he recites the next (formulas, M. II, 10, 13-17) in a low voice over the food which is announced to him (instead of the cow), (and says) loudly, ‘Om! Make it ready!’ (II, 10, 18).
 
-19\. For his teacher, for a _Ri<i>tvi</i>g_, for his father-in-law, for a king he ought to perform this (Arghya ceremony) as often as they visit his house, if at least one year has elapsed (since they came last).
+19\. For his teacher, for a <i>Ri</i>tvi<i>g</i>, for his father-in-law, for a king he ought to perform this (Arghya ceremony) as often as they visit his house, if at least one year has elapsed (since they came last).
 
 20\. For a renowned teacher (of the Veda the ceremony should be performed) once.
 

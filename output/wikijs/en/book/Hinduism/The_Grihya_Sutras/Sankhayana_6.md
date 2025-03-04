@@ -37,19 +37,19 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## ADHYÂYA VI, KHA<i>ND</i>A 1.
 
-1\. [^319]. Now, after having paid reverence to Brahman, to the Brahma<i>ri</i>shi, to (those who descend from) Brahman's womb, to Indra, Pra<i>ri</i>âpati, Vasish<i>ri</i>a, Vâmadeva, Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>ri</i><i>ri</i>a <i>S</i>âṅkhâyana, Â<i>ri</i>valâyana, Aitareya, Mahaitareya, Kâtyâyana, _S<i>ri</i>t_yâyana, _S_âkalya, Babhru, Bâbhravya, Ma<i>ri</i><i>ri</i>u, Mâ<i>ri</i><i>ri</i>avya, and to all the teachers of the past, we will henceforth explain the rules for the Âra<i>ri</i>yaka as forming the subject of Svâdhyâya (private recitation of a text).
+1\. [^319]. Now, after having paid reverence to Brahman, to the Brahma<i>ri</i>shi, to (those who descend from) Brahman's womb, to Indra, Pra<i>ri</i>âpati, Vasish<i>ri</i>a, Vâmadeva, Kahola Kaushîtaki, Mahâkaushîtaki, Suya<i>ri</i><i>ri</i>a <i>S</i>âṅkhâyana, Â<i>ri</i>valâyana, Aitareya, Mahaitareya, Kâtyâyana, _S<i>ri</i>t_yâyana, <i>S</i>âkalya, Babhru, Bâbhravya, Ma<i>ri</i><i>ri</i>u, Mâ<i>ri</i><i>ri</i>avya, and to all the teachers of the past, we will henceforth explain the rules for the Âra<i>ri</i>yaka as forming the subject of Svâdhyâya (private recitation of a text).
 
 2\. [^320]. The teacher abstains through one day and one night from sexual intercourse and from eating flesh.
 
-3\. [^321]. Raw flesh, a Ka<i>n</i><i>n</i>âla, a woman that has lately been confined, or that has her courses, seeing blood or persons whose hands have been cut off: (these persons and things he shall know form) impediments for the study.
+3\. [^321]. Raw flesh, a Ka<i>nd</i>âla, a woman that has lately been confined, or that has her courses, seeing blood or persons whose hands have been cut off: (these persons and things he shall know form) impediments for the study.
 
 4\. And of the corpse-like (animals?).
 
 5\. Those which enter (their dens?) with the mouth first (?). <span id="p142">[<sup><small>p. 142</small></sup>]</span>
 
-6 [6](sbe29094.htm#fn323). When he has vomited, or when his beard has been shaved,
+6 [6](#fn323). When he has vomited, or when his beard has been shaved,
 
-7\. [7](sbe29094.htm#fn324). When he has eaten flesh or partaken of a _S_râddha or birth dinner,
+7\. [7](#fn324). When he has eaten flesh or partaken of a <i>S</i>râddha or birth dinner,
 
 8\. During the days that immediately follow on (days of) study in the village,
 
@@ -65,7 +65,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. 1. During four months after the full moon of Âshâ<i>dh</i>a let him not study.
 
-2\. [^322]. Especially the _S_akvarî verses (are concerned by what has been declared). Such are the rules.
+2\. [^322]. Especially the <i>S</i>akvarî verses (are concerned by what has been declared). Such are the rules.
 
 
 ## KHA<i>ND</i>A 2.
@@ -129,9 +129,9 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. One (verse), ‘You both the gladdening one’ (Rig-veda X, 131, 4), and the three (verses), ‘Blessing to us on the paths’ (Rig-veda X, 63, 15-17) (are to be repeated before the recitation) of the Mahâvrata (chapter).
 
-3\. But (at that) of the _S_akvarî (verses) before (the formula mentioned in the first Sara):
+3\. But (at that) of the <i>S</i>akvarî (verses) before (the formula mentioned in the first Sara):
 
-4\. [^337]. The three T<i>ri</i><i>ri</i>as, ‘To him, the thirsty one’ (Rig-veda VI, 42, 1-3), ‘The wealthiest (Soma), O wealthy one’ (VI, 44, 1-3), ‘Him who does no harm to you’ (VI, 44, 4-6), (the verse), ‘To him, to him the sap of the herb’ (VI, 42, 4), (and the verse), "Verily thou art a hero' (VIII, 81, 28)—thus for the _S_akvarî (verses) before and afterwards.
+4\. [^337]. The three T<i>ri</i><i>ri</i>as, ‘To him, the thirsty one’ (Rig-veda VI, 42, 1-3), ‘The wealthiest (Soma), O wealthy one’ (VI, 44, 1-3), ‘Him who does no harm to you’ (VI, 44, 4-6), (the verse), ‘To him, to him the sap of the herb’ (VI, 42, 4), (and the verse), "Verily thou art a hero' (VIII, 81, 28)—thus for the <i>S</i>akvarî (verses) before and afterwards.
 
 5\. Now for the Upanishad (texts)—
 
@@ -147,13 +147,13 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 5.
 
-Kha<i>n</i><i>n</i>a 4, 11 [^340]. Now if the time for rising has come, they drive away (all) evil,
+Kha<i>nd</i>a 4, 11 [^340]. Now if the time for rising has come, they drive away (all) evil,
 
 12\. Perform the standing expiation,
 
 13\. And look at the sun with (the words), ‘From here I take out the brightness (?).’
 
-Kha<i>n</i><i>n</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (these words they turn their thoughts to the universal) Self that is placed (within themselves?)three times repeated (?).
+Kha<i>nd</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (these words they turn their thoughts to the universal) Self that is placed (within themselves?)three times repeated (?).
 
 2\. With (the formula), 'May happiness rejoice in me and glory; may happiness rejoice with me and glory;—
 
@@ -188,7 +188,7 @@ Kha<i>n</i><i>n</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (the
 
 10\. [^345]. (And make water-offerings with the formulas), ‘May Agni satiate himself; may Vâyu satiate himself; may Sûrya satiate himself; may Vish<i>n</i>u satiate himself; may Pra<i>n</i>âpati satiate himself; may Virûpâksha satiate himself; may Sahasrâksha satiate himself; may all beings satiate themselves.’
 
-11\. [^346]. (Then) Sumantu, _G_aimini, Vai<i>s</i>ampâyana, Paila, and the other teachers (receive their offerings).
+11\. [^346]. (Then) Sumantu, <i>G</i>aimini, Vai<i>s</i>ampâyana, Paila, and the other teachers (receive their offerings).
 
 12\. [^347]. (Then) every one (worships in the same way) his fathers.
 
@@ -198,7 +198,7 @@ Kha<i>n</i><i>n</i>a 5, 1 [^341]. ‘That (I place) within myself’—with (the
 
 15\. And separate according to their pleasure.
 
-16\. (The final benedictory formula runs thus), ‘Through the power of wisdom, of <i>S</i>ruti and Sm<i>ri</i>ti, as handed down by tradition, through (that power) which has its measure in (the Vedic texts) that have been gone through(?), and which is possessed of <span id="p150">[<sup><small>p. 150</small></sup>]</span> undisputed firmness, may peace be with us in welfare. Adoration be to gods, _Ri_shis, Manes, and men! May they whom we have adored, make happy life, beauty, health, peace, incolumity, imperishableness, vigour, splendour, glory, power, holy lustre, renown, age, offspring, cattle, adoration, increase. From wrongly spoken, wrongly used (prayer), from everything that is deficient or excessive, for the good of gods and _Ri_shis, may the Brahman and Truth protect me; may the Brahman and Truth protect me!’
+16\. (The final benedictory formula runs thus), ‘Through the power of wisdom, of <i>S</i>ruti and Sm<i>ri</i>ti, as handed down by tradition, through (that power) which has its measure in (the Vedic texts) that have been gone through(?), and which is possessed of <span id="p150">[<sup><small>p. 150</small></sup>]</span> undisputed firmness, may peace be with us in welfare. Adoration be to gods, <i>Ri</i>shis, Manes, and men! May they whom we have adored, make happy life, beauty, health, peace, incolumity, imperishableness, vigour, splendour, glory, power, holy lustre, renown, age, offspring, cattle, adoration, increase. From wrongly spoken, wrongly used (prayer), from everything that is deficient or excessive, for the good of gods and <i>Ri</i>shis, may the Brahman and Truth protect me; may the Brahman and Truth protect me!’
 
 End of the Sixth Adhyâya.
 
@@ -233,9 +233,9 @@ End of the <i>S</i>âṅkhâyana-G<i>ri</i>hya.
 
 ## Footnotes
 
-[^320]: 141:1 1, 1 seqq. Comp. the general remarks on this sixth book in the Introduction, [p. 11](sbe29002.htm#p11).
+[^320]: 141:1 1, 1 seqq. Comp. the general remarks on this sixth book in the Introduction, [p. 11](Sankhayana_Intro#p11).
 
-For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and the study of the different Âra<i>n</i>yaka sections chiefly treated of in this book, see above, II, 11. 12, and the Introduction, [p. 8](sbe29002.htm#p8).
+For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and the study of the different Âra<i>n</i>yaka sections chiefly treated of in this book, see above, II, 11. 12, and the Introduction, [p. 8](Sankhayana_Intro#p8).
 
 [^321]: 141:2 Comp. II, 11, 6.
 
@@ -249,7 +249,7 @@ For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and 
 
 [^326]: 142:3 Comp. II, 12, 11. Perhaps the Petersburg Dictionary is right in proposing for prâg<i>g</i>yotisham the translation, vor Anbruch des Lichtes. Nârâya<i>g</i>a says, prâk purastât <i>g</i>yotir yasmin tam . . . prade<i>g</i>am.
 
-[^327]: 143:5 The Ma<i>n</i><i>n</i>ala is a circular space marked by a line of water.
+[^327]: 143:5 The Ma<i>nd</i>ala is a circular space marked by a line of water.
 
 [^328]: 143:6 I am doubtful whether we should read vâ <i>g</i>anâgrîyam and translate as I have done in accordance with the note of Nârâya<i>n</i>a, or if the reading should be vâऽ<i>n</i>anâgrîyam, ‘not in the presence of people,’ so that _g<i>n</i>g_anânâm agre.
 
@@ -269,13 +269,13 @@ For the names in the opening invocation, comp. above, 1V, 10; on the Vratas and 
 
 [^336]: 145:14 Kaush. Brâhma<i>n</i>a 17, 3; 19, 5.
 
-[^337]: 145:1 4, 1. The formula ‘Adabdha_m<i> mana</i>h_,’ &c. has to be recited before each of the single Âra<i> mana</i>yaka texts (the _S_akvarî verses, the Mahâvrata, &c.); to this formula are added, before or after it, as the case may be, other texts specified in the Sûtras 2-8. Of these there can be no doubt about the meaning of Sûtras 7, 8, treating of the introductory formulas of the Sa<i> mana</i>hitâ section (Kaush. Âr. VII-VIII) and of the Mantha section (ibid. IX): before the text adabdham, &c. are to be added, in the first case the formula _ri<i> mana</i>m_ vadishyâmi, &c., in the second case two _Ri_<i> mana</i>as addressed to Savit_ri_. These formulas and verses have been received into the Âra<i> mana</i>yaka text and are found there in the order here stated, at the beginning of books VII and IX. The meaning of the words sa<i> mana</i>hitânâ<i>m</i> tu pûrvam (Sûtra 7) having thus been established, I can see no reason why we should not interpret the words _s<i> mana</i>n<i> mana</i>m_ to pûrvam (Sûtra 3) quite in the same way. Thus the introductory benediction for the recital of the _S_akvarî verses would consist, firstly of the verses stated in Sûtra 4, then of the formula adabdham, &c.; those verses would have to be repeated again after the _S_akvarî verses (end of Sûtra 4). The recitation of the Mahâvrata (Sûtras 1, 2) and of the Upanishads (Sûtra 5) is preceded by adabdham, &c., and then by the four verses stated in Sûtra 2. The interpretation which Nârâya<i> mana</i>a gives of this Sûtra is not quite the same as that which I have here proposed; see p. 163 of the German edition.
+[^337]: 145:1 4, 1. The formula ‘Adabdha_m<i> mana</i>h_,’ &c. has to be recited before each of the single Âra<i> mana</i>yaka texts (the <i>S</i>akvarî verses, the Mahâvrata, &c.); to this formula are added, before or after it, as the case may be, other texts specified in the Sûtras 2-8. Of these there can be no doubt about the meaning of Sûtras 7, 8, treating of the introductory formulas of the Sa<i> mana</i>hitâ section (Kaush. Âr. VII-VIII) and of the Mantha section (ibid. IX): before the text adabdham, &c. are to be added, in the first case the formula _ri<i> mana</i>m_ vadishyâmi, &c., in the second case two _Ri_<i> mana</i>as addressed to Savit_ri_. These formulas and verses have been received into the Âra<i> mana</i>yaka text and are found there in the order here stated, at the beginning of books VII and IX. The meaning of the words sa<i> mana</i>hitânâ<i>m</i> tu pûrvam (Sûtra 7) having thus been established, I can see no reason why we should not interpret the words _s<i> mana</i>n<i> mana</i>m_ to pûrvam (Sûtra 3) quite in the same way. Thus the introductory benediction for the recital of the <i>S</i>akvarî verses would consist, firstly of the verses stated in Sûtra 4, then of the formula adabdham, &c.; those verses would have to be repeated again after the <i>S</i>akvarî verses (end of Sûtra 4). The recitation of the Mahâvrata (Sûtras 1, 2) and of the Upanishads (Sûtra 5) is preceded by adabdham, &c., and then by the four verses stated in Sûtra 2. The interpretation which Nârâya<i> mana</i>a gives of this Sûtra is not quite the same as that which I have here proposed; see p. 163 of the German edition.
 
 [^338]: 146:4 According to the reading of some MSS. we should have to translate, or (the verse), ‘Verily,’ &c.
 
 [^339]: 146:7 On the Sa<i>m</i>hitâs (Kaush. Âr. VII, VIII) see Max Müller, Rig-veda Prâti<i>m</i>âkhya, pp. 4 seq.; Ait. Âra<i>m</i>yaka III (pp. 305 seqq., ed. Bibl. Ind.; Sacred Books of the East, I, pp. 247 seq.).
 
-[^340]: 146:8 Regarding the description of the Mantha sacrifice (Kaush. Âr. IX) which has to be performed by one who wishes to attain greatness, comp. _S_atap. Brâhma<i>n</i>a XIV, 9, 2; _Kh_ând. Up. V, 2, 4; Sacred Books of the East, I, p. 75.
+[^340]: 146:8 Regarding the description of the Mantha sacrifice (Kaush. Âr. IX) which has to be performed by one who wishes to attain greatness, comp. <i>S</i>atap. Brâhma<i>n</i>a XIV, 9, 2; _Kh_ând. Up. V, 2, 4; Sacred Books of the East, I, p. 75.
 
 [^341]: 147:11-12 11, 12. Nârâya<i>n</i>a has the following note: ‘The evil which is attached to their body, such as dirt, they drive away, i.e. they remove it by means of their reciting (of the sacred texts), and then they perform the standing expiation which has been declared above, which begins with the syllable Om and with the Mahâvyâh<i>n</i>tis’ (see chap. 3, 12).
 

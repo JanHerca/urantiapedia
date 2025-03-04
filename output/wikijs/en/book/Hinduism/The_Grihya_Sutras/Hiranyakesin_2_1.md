@@ -90,15 +90,15 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 7\. [^649] He fumigates (the child) with small grains mixed with mustard seeds. These he throws into the coals (of the Sûtikâgni) (eleven times, each time with one of the following Mantras):
 
-(a) 'May _S<i>a</i>n_<i>a</i>a and Marka, Upavîra, _S<i>a</i>n_<i>a</i>ikera, Ulûkhala, _K_yavana vanish from here. Svâhâ!
+(a) 'May _S<i>a</i>n_<i>a</i>a and Marka, Upavîra, _S<i>a</i>n_<i>a</i>ikera, Ulûkhala, <i>K</i>yavana vanish from here. Svâhâ!
 
 (b) 'Âlikhat, Vilikhat, Animisha, Ki<i>m</i>vadanta, Upa<i>m</i>ruti. Svâhâ!
 
-(c) 'Aryam<i>n</i>a, Kumbhin, _S_atru, Pâtrapâ<i>n</i>i, Nipu<i>n</i>i. Svâhâ!
+(c) 'Aryam<i>n</i>a, Kumbhin, <i>S</i>atru, Pâtrapâ<i>n</i>i, Nipu<i>n</i>i. Svâhâ!
 
 (d) 'May Ântrîmukha, Sarshapâru<i>n</i>a vanish from here. Svâhâ!
 
-(e) 'Ke<i>s</i>inî, _S_valominî, Ba<i>s</i>âbo<i>s</i>â, Upakâ<i>s</i>ini—go away, vanish from here. Svâhâ!
+(e) 'Ke<i>s</i>inî, <i>S</i>valominî, Ba<i>s</i>âbo<i>s</i>â, Upakâ<i>s</i>ini—go away, vanish from here. Svâhâ!
 
 (f) 'The servants of Kuvera, Vi<i>s</i>vavâsa (?), sent by the king of demons, all of one common origin, <span id="p212">[<sup><small>p. 212</small></sup>]</span> walk through the villages, visiting those who wake (?). Svâhâ!
 
@@ -152,7 +152,7 @@ He then makes the wife who has taken a bath, who wears a clean dress and ornamen
 
 10\. ‘This, O Varu<i>ri</i>a’ (&c.; see I, chap. 27, Sûtra 2, down to): ‘Hail! Good luck!’ Then let him give a name to the child, of two syllables or of four syllables, beginning with a sonant, with a semi-vowel in it, with a long vowel (or) the Visarga at its end, or a name that contains the particle su, for such a name has a firm foundation; thus it is understood.
 
-11\. [^654] Let the father and the mother pronounce (that name) first. For it is understood, ‘My name first, O _G_âtavedas.’
+11\. [^654] Let the father and the mother pronounce (that name) first. For it is understood, ‘My name first, O <i>G</i>âtavedas.’
 
 12\. He should give him two names. For it is understood (Taitt. Sa<i>m</i>h. VI, 3, I, 3), ‘Therefore a Brâhma<i>m</i>a who has two names, will have success.’
 

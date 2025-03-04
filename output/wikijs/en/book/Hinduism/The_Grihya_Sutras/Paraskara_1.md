@@ -117,7 +117,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 16\. [^683]. With (the formula), ‘With Mitra’s’ (Vâ_g_. Sa<i>m</i>h., Kâ<i>m</i>va<i>m</i>âkhâ II, 3, 4) he looks at the Madhuparka.
 
-17\. [^684]. With (the formula), ‘By the impulse of the god Savit_ri_’ (Vâ_g_. Sa<i>m</i>h. l.l.) he accepts it.
+17\. [^684]. With (the formula), ‘By the impulse of the god Savit<i>ri</i>’ (Vâ_g_. Sa<i>m</i>h. l.l.) he accepts it.
 
 18\. [^685]. Taking it into his left hand he stirs it about <span id="p275">[<sup><small>p. 275</small></sup>]</span> three times with the fourth finger of his right hand with (the formula), ‘Adoration to the brown-faced One. What has been damaged in thee, when the food was eaten, that I cut off from thee.’
 
@@ -169,7 +169,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 10\. One to a Vai<i>s</i>ya,
 
-11\. One _S_ûdra wife besides to all, according to some (teachers), without using Mantras (at the ceremonies of wedding, &c.).
+11\. One <i>S</i>ûdra wife besides to all, according to some (teachers), without using Mantras (at the ceremonies of wedding, &c.).
 
 12\. [^694]. He then makes her put on the (under) garment with (the verse), ‘Live to old age; put on the garment! Be a protectress of the human tribes against imprecation. Live a hundred years full of vigour; clothe thyself in wealth and children. Blessed with life put on this garment!’
 
@@ -207,7 +207,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 8\. [^700]. Because it has been said, ‘By what sacrifice he wishes to attain success.’
 
-9\. [^701]. (The <i>G</i>aya formulas run thus): 'Thought and thinking. Intention and intending. The understood and understanding. The mind and the _S_akvarî (verses). The new moon and the full moon. B<i>ri</i>hat and Rathantara.
+9\. [^701]. (The <i>G</i>aya formulas run thus): 'Thought and thinking. Intention and intending. The understood and understanding. The mind and the <i>S</i>akvarî (verses). The new moon and the full moon. B<i>ri</i>hat and Rathantara.
 
 ‘Pra<i>g</i>âpati, the powerful one in victorious battles, has given victories (or, the Gaya formulas) to manly Indra. To him all subjects bowed down; he has become powerful and worthy of sacrifice. Svâhâ!
 
@@ -227,7 +227,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ## KA<i>ND</i>IKÂ 6.
 
-1\. [^703]. The girl's brother pours out of his joined hands into her joined hands fried grain mixed with _S_amî leaves. <span id="p282">[<sup><small>p. 282</small></sup>]</span>
+1\. [^703]. The girl's brother pours out of his joined hands into her joined hands fried grain mixed with <i>S</i>amî leaves. <span id="p282">[<sup><small>p. 282</small></sup>]</span>
 
 2 [^704]. This she sacrifices, with firmly joined hands, standing, (while the bridegroom recites the verses,)
 
@@ -241,7 +241,7 @@ PÂRASKARA-G_RI_HYA-SÛTRA.
 
 ‘I seize thy hand for the sake of happiness, that thou mayst live to old age with me, thy husband. Bhaga, Aryaman, Sâvitrî, Purandhi, the gods have given thee to me that we may rule our house.
 
-‘This am I, that art thou; that art thou, this am I. The Sâman am I, the _Ri_<i>k</i> thou; the heaven I, the earth thou.
+‘This am I, that art thou; that art thou, this am I. The Sâman am I, the <i>Rik<i> thou; the heaven I, the earth thou.
 
 ‘Come! Let us marry. Let us unite our sperm. Let us beget offspring. Let us acquire many sons, and may they reach old age.
 
@@ -449,7 +449,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 ‘The gods are long-lived; through ambrosia (am<i>ri</i>ta) they are, &c.
 
-‘The _Ri_shis are long-lived; through their observances they are, &c.
+‘The <i>Ri</i>shis are long-lived; through their observances they are, &c.
 
 ‘The Fathers are long-lived; through the Svadhâ oblations (or oblations made to the Manes) they are, &c.
 
@@ -461,7 +461,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 8\. If he desires, ‘May he live his full term of <span id="p295">[<sup><small>p. 295</small></sup>]</span> life,’ he should touch him with the Vâtsapra hymn (Vâ_g_. Sa<i>m</i>h. XII, 18-29).
 
-9\. From the Anuvâka beginning with ‘From heaven’ (XII, 18 seqq.) he omits the last _Ri_<i>k</i> (XII, 29).
+9\. From the Anuvâka beginning with ‘From heaven’ (XII, 18 seqq.) he omits the last <i>Rik<i> (XII, 29).
 
 10\. Having placed five Brâhma<i>n</i>as towards the (five) regions, he should say to them, ‘Breathe ye upon this (child).’
 
@@ -489,9 +489,9 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 22\. He puts down a pot of water near her head with (the verse), ‘O waters, you watch with the gods. As you watch with the gods, thus watch over this mother who is confined, and her child.’
 
-23\. [^748]. Having established near the door the fire that has been kept from (the wife's) confinement, he throws into that fire at the time of the morning and evening twilight, until (the mother) gets up (from childbed), mustard seeds mixed with rice chaff (pronouncing the following names of demons and goblins): 'May _S<i>a</i>n_<i>a</i>a and Marka, Upavîra, _S<i>a</i>n_<i>a</i>ikeya, Ulûkhala, Malimlu<i>a</i>a, Dro<i>a</i>âsa, _K_yavana vanish hence. Svâhâ!
+23\. [^748]. Having established near the door the fire that has been kept from (the wife's) confinement, he throws into that fire at the time of the morning and evening twilight, until (the mother) gets up (from childbed), mustard seeds mixed with rice chaff (pronouncing the following names of demons and goblins): 'May _S<i>a</i>n_<i>a</i>a and Marka, Upavîra, _S<i>a</i>n_<i>a</i>ikeya, Ulûkhala, Malimlu<i>a</i>a, Dro<i>a</i>âsa, <i>K</i>yavana vanish hence. Svâhâ!
 
-‘May Âlikhat, Animisha, Ki<i>m</i>vadanta, Upa<i>m</i>ruti, Haryaksha, Kumbhin, _S_atru, Pâtrapâ<i>m</i>i, N<i>m</i>ma<i>m</i>i, Hantrîmukha, Sarshapâru<i>m</i>a, _K_yavana vanish hence. Svâhâ!’
+‘May Âlikhat, Animisha, Ki<i>m</i>vadanta, Upa<i>m</i>ruti, Haryaksha, Kumbhin, <i>S</i>atru, Pâtrapâ<i>m</i>i, N<i>m</i>ma<i>m</i>i, Hantrîmukha, Sarshapâru<i>m</i>a, <i>K</i>yavana vanish hence. Svâhâ!’
 
 24\. [^749]. If (the demon bringing disease) Kumâra attacks the boy, the father covers him with a net <span id="p297">[<sup><small>p. 297</small></sup>]</span> or with an upper garment, takes him on his lap, and murmurs: Kûrkura, Sukûrkura, Kûrkura, who holds fast children. _K<i>et! </i>k_et! doggy! let him loose. Reverence be to thee, the Sîsara, barker, bender.
 
@@ -519,7 +519,7 @@ If he desires; ‘May (the son) become valiant,’ he recites over him (i.e. ove
 
 <span id="p298">[<sup><small>p. 298</small></sup>]</span>
 
-_s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (for inst. Lakshmîvarman), that of a Vai<i>n</i>ya in gupta (for inst. _K_andragupta).
+_s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (for inst. Lakshmîvarman), that of a Vai<i>n</i>ya in gupta (for inst. <i>K</i>andragupta).
 
 5\. In the forth month (follows) the going out.
 
@@ -583,7 +583,7 @@ _s_arman (for inst. Vish<i>n</i>u<i>n</i>arman), that of a Kshatriya in varman (
 
 13\. Or each (sort of) food one by one. Then (follows) feeding of the Brâhma<i>n</i>as, or each (sort of) food one by one. Then feeding of the Brâhma<i>n</i>as.
 
-End of the First Kâ<i>n</i><i>n</i>a.
+End of the First Kâ<i>nd</i>a.
 
 
 
@@ -625,17 +625,17 @@ End of the First Kâ<i>n</i><i>n</i>a.
 
 [^668]: 271:3 <i>S</i>âṅkhâyana I, 1, 8.
 
-[^669]: 271:4 The _k<i>âtushprâ</i>s_ya food is prepared, at the time of the setting up of the <i>S</i>rauta fires, for the four chief officiating priests of the <i>S</i>rauta sacrifices. Comp. _S_atapatha Brâhma<i>âtushprâ</i>a II, 1, 4. Kâtyâyana's corresponding rules with regard to the Âdhâna of the <i>S</i>rauta fires are found at IV, 7, 15. 16.
+[^669]: 271:4 The _k<i>âtushprâ</i>s_ya food is prepared, at the time of the setting up of the <i>S</i>rauta fires, for the four chief officiating priests of the <i>S</i>rauta sacrifices. Comp. <i>S</i>atapatha Brâhma<i>âtushprâ</i>a II, 1, 4. Kâtyâyana's corresponding rules with regard to the Âdhâna of the <i>S</i>rauta fires are found at IV, 7, 15. 16.
 
-[^670]: 271:5 Comp. the remarks on this Sûtra, in the Introduction, pp. [265](sbe29154.htm#p265) seq.
+[^670]: 271:5 Comp. the remarks on this Sûtra, in the Introduction, pp. [265](Paraskara_Intro#p265) seq.
 
-[^671]: 271:6 _S_atapatha Brâhma<i>n</i>a XI, 5, 6, 1: ‘There are five great sacrifices which are great Sattras, viz. the sacrifice to living beings, the sacrifice to men, the sacrifice to the Manes, the sacrifice to the gods, the Brahmaya<i>n</i><i>n</i>a.’ As the G<i>n</i>hya ceremonies are included here under the category of mahâya<i>n</i><i>n</i>âs or great sacrifices, they require, according to the teachers whose opinion is stated in Sûtra 5, a form of the Agnyâdhâna (setting up of the sacred fire) analogous to the Agnyâdhâna of the <i>S</i>rauta ritual, and containing, like that Âdhâna, the act of the Ara<i>n</i>ipradâna or handing over of the kindling woods (Sûtra 5).
+[^671]: 271:6 <i>S</i>atapatha Brâhma<i>n</i>a XI, 5, 6, 1: ‘There are five great sacrifices which are great Sattras, viz. the sacrifice to living beings, the sacrifice to men, the sacrifice to the Manes, the sacrifice to the gods, the Brahmaya<i>nd</i>a.’ As the G<i>n</i>hya ceremonies are included here under the category of mahâya<i>nd</i>âs or great sacrifices, they require, according to the teachers whose opinion is stated in Sûtra 5, a form of the Agnyâdhâna (setting up of the sacred fire) analogous to the Agnyâdhâna of the <i>S</i>rauta ritual, and containing, like that Âdhâna, the act of the Ara<i>n</i>ipradâna or handing over of the kindling woods (Sûtra 5).
 
 [^672]: 271:7 The deities of the Agnyâdheya, or of the <i>S</i>rauta ceremony corresponding to the G<i>ri</i>hya rite here treated of, are Agni pavamâna, Agni pâvaka, Agni _s<i>ri</i>k_i, Aditi. On the Â<i>ri</i>yabhâgas, see <i>S</i>âṅkhâyana I, 9, 7, &c.
 
 [^673]: 271:8 The verses Vâ_g_. Sa<i>m</i>h. XXI, 3, 4, the two verses quoted p. 272 Kâty. XXV, 1, 11, and fifthly the verse Vâ_g_. Sa<i>m</i>h. XII, 12, are prescribed for the Sarvaprâya<i>m</i><i>m</i>itta (or general expiatory ceremony), see Kâtyâyana l.l.
 
-[^674]: 272:11 Professor Stenzler, following <i>G</i>ayarâma, takes the whole as one Mantra, which he translates: 'Ungehemmet sei Agni's Spende, die durch die That ich überreich machte, bahnschaffende Götter!' But the words yat karma<i>n</i>âtyarîri<i>n</i>am are the opening words of a Mantra quoted _S_atapatha Brâhma<i>n</i>a XIV, 9, 4, 24, (comp. also Â<i>n</i>valâyana-G<i>n</i>hya I, 10, 23; the connection in which atyarîri<i>n</i>am there stands, shows that the word designates a mistake made in the sacrificial work by doing too much.) The words devâ gâtuvida<i>h</i> are the Pratîka of Vâ_g_. Sa<i>n</i>hitâ VIII, 21. Thus I have no doubt that also ayâsy Agner vasha<i>n</i>k<i>n</i>tam (or possibly ayâsy Agner (?) and vasha<i>n</i>k<i>n</i>tam (?)) is a Pratîka. Of course, the translation of these words must remain uncertain until the Mantra to which they belong has been discovered.
+[^674]: 272:11 Professor Stenzler, following <i>G</i>ayarâma, takes the whole as one Mantra, which he translates: 'Ungehemmet sei Agni's Spende, die durch die That ich überreich machte, bahnschaffende Götter!' But the words yat karma<i>n</i>âtyarîri<i>n</i>am are the opening words of a Mantra quoted <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 24, (comp. also Â<i>n</i>valâyana-G<i>n</i>hya I, 10, 23; the connection in which atyarîri<i>n</i>am there stands, shows that the word designates a mistake made in the sacrificial work by doing too much.) The words devâ gâtuvida<i>h</i> are the Pratîka of Vâ_g_. Sa<i>n</i>hitâ VIII, 21. Thus I have no doubt that also ayâsy Agner vasha<i>n</i>k<i>n</i>tam (or possibly ayâsy Agner (?) and vasha<i>n</i>k<i>n</i>tam (?)) is a Pratîka. Of course, the translation of these words must remain uncertain until the Mantra to which they belong has been discovered.
 
 [^675]: 272:12 On the throwing into the fire of the Barhis, comp. Kâtyâyana III, 8.
 
@@ -739,7 +739,7 @@ End of the First Kâ<i>n</i><i>n</i>a.
 
 [^725]: 289:4 The water-pot is that mentioned in Sûtra 1.
 
-[^726]: 289:6 _S_atapatha Brâhma<i>n</i>a I, 6, 1, 18; XIV, 9, 4, II (= B<i>n</i>had Âra<i>n</i>yaka VI, 4, 12; Sacred Books of the East, vol. xv, p. 218).
+[^726]: 289:6 <i>S</i>atapatha Brâhma<i>n</i>a I, 6, 1, 18; XIV, 9, 4, II (= B<i>n</i>had Âra<i>n</i>yaka VI, 4, 12; Sacred Books of the East, vol. xv, p. 218).
 
 [^727]: 289:8 Taittirîya Sa<i>m</i>hitâ II, 5, 1, 5.
 
@@ -769,23 +769,23 @@ End of the First Kâ<i>n</i><i>n</i>a.
 
 [^740]: 293:8 Â<i>k</i>valâyana l.l. § 7. I take avimukta<i>k</i>akre to be the vocative of the feminine.
 
-[^741]: 293:1 16, 1. _S_atapatha Brâhma<i>n</i>a XIV, 9, 4, 22.
+[^741]: 293:1 16, 1. <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 22.
 
 [^742]: 293:2 Atharva-veda I, II, 4.
 
-[^743]: 294:4 Comp. _S_atapatha Brâhma<i>n</i>a XIV, 9, 4, 23 seqq. (B<i>n</i>had Âra<i>n</i>yaka VI, 4, 24 seqq.; S.B.E., XV, 222 seq.). The text has anâmikayâ suvar<i>n</i>ântarhitayâ, which literally is: with the nameless (or fourth) finger, between which (and the food) gold has been put.
+[^743]: 294:4 Comp. <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 23 seqq. (B<i>n</i>had Âra<i>n</i>yaka VI, 4, 24 seqq.; S.B.E., XV, 222 seq.). The text has anâmikayâ suvar<i>n</i>ântarhitayâ, which literally is: with the nameless (or fourth) finger, between which (and the food) gold has been put.
 
-[^744]: 295:11 11 seqq. In translating the technical terms for the different kinds of breath, I adopt the expressions chosen by Professor Max Müller, S.B.E., XV, 94. As to the whole rite, comp. _S_atap. Br. XI, 8, 3, 6.
+[^744]: 295:11 11 seqq. In translating the technical terms for the different kinds of breath, I adopt the expressions chosen by Professor Max Müller, S.B.E., XV, 94. As to the whole rite, comp. <i>S</i>atap. Br. XI, 8, 3, 6.
 
 [^745]: 295:17 Comp. above, I, 11, 9. The comparison of the parallel Mantra leaves scarcely any doubt that veda (the first word of the verse) is the first, not the third person, and bhûmi the vocative case. Compare the vocative darvi of the Vâ_g_. Sa<i>m</i>hitâ, while the Atharva-veda has darve. Lanman, Noun-Inflection, p. 390.
 
-[^746]: 295:18 _S_atapatha Brâhma<i>n</i>a XIV, 9, 4, 26; Â<i>n</i>valâyana I, 15, 3.
+[^746]: 295:18 <i>S</i>atapatha Brâhma<i>n</i>a XIV, 9, 4, 26; Â<i>n</i>valâyana I, 15, 3.
 
-[^747]: 296:19 _S_atapatha Brâhma<i>n</i>a l.l. § 27. Comp. Professor Max Müller's note, S.B.E., XV, 223 seq.
+[^747]: 296:19 <i>S</i>atapatha Brâhma<i>n</i>a l.l. § 27. Comp. Professor Max Müller's note, S.B.E., XV, 223 seq.
 
-[^748]: 296:21 _S_atapatha Brâhma<i>n</i>a l.1. § 28.
+[^748]: 296:21 <i>S</i>atapatha Brâhma<i>n</i>a l.1. § 28.
 
-[^749]: 296:23 On the sûtikâgni, comp. _S_atap. Br. l.l. § 23; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 25, 4, &c.
+[^749]: 296:23 On the sûtikâgni, comp. <i>S</i>atap. Br. l.l. § 23; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 25, 4, &c.
 
 [^750]: 296:24 Kûrkura seems to me, and this is also Professor Stenzler's p. 297 opinion, identical with kurkura, kukkura (‘dog’). The Petersburg Dictionary explains it, ‘Name eines die Kinder bedrohenden Dämons (vielleicht eine Personification des Hustens).’
 

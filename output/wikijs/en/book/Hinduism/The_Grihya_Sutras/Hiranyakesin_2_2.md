@@ -46,13 +46,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘Suvîri<i>n</i>a, let him loose! Let him loose, Ekavrâtya! Let him loose, doggy! Let him loose, _Kh_at!
 
-‘_T_eka and Sasarama<i>t</i>a<i>t</i>ka and Tûla and Vitûla and the white one and the red one. Let him loose! . . . . the brown and red one.
+‘<i>T</i>eka and Sasarama<i>t</i>a<i>t</i>ka and Tûla and Vitûla and the white one and the red one. Let him loose! . . . . the brown and red one.
 
 ‘On those two single ones the sarasyakâs (?) run <span id="p220">[<sup><small>p. 220</small></sup>]</span> down in the third heaven from here. _Kh_at! Go away. Sîsarama! Sârameya! Adoration to thee, Sîsara!
 
-‘Your mother is called the messenger; your father is the ma<i>n</i><i>n</i>âkaka (ma<i>n</i><i>n</i>ûkaka, the frog?). _Kh_at! Go away, &c.
+‘Your mother is called the messenger; your father is the ma<i>nd</i>âkaka (ma<i>nd</i>ûkaka, the frog?). _Kh_at! Go away, &c.
 
-‘Your mother is called dulâ (the staggering one?); your father is the ma<i>n</i><i>n</i>âkaka. _Kh_at! Go away, &c.
+‘Your mother is called dulâ (the staggering one?); your father is the ma<i>nd</i>âkaka. _Kh_at! Go away, &c.
 
 ‘The stallions (stamp with) their feet. Do not gnash (?) thy teeth. _Kh_at! Go away, &c.
 

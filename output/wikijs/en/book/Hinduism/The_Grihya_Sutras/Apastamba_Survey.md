@@ -151,13 +151,13 @@ Song of lute-players. _S_. I, 22, 11 seq.; Â. I, 14, 6 seq.; P. I, 15, 7 seq. (
   - a. The driving out of the cows, and other rites referring to the cows. _S_. III, 9; Â. II, 10, 5 seq.; G. III, 6; Kh. III, 1, 45 seq.; H. I, 18.
   - b. Making marks on the cattle. _S_. III, 10.
   - c. The V<i>ri</i>shotsarga. _S_. III, 11; P. III, 9.
-  - d. The _S_ûlagava (‘spit-ox’ offered to Rudra). Â. IV, 8; P. III, 8; H. II, 8-9; Âp. 19, 13-20, 19.
+  - d. The <i>S</i>ûlagava (‘spit-ox’ offered to Rudra). Â. IV, 8; P. III, 8; H. II, 8-9; Âp. 19, 13-20, 19.
     - α. Distribution of Palâ<i>s</i>a leaves. P. III, 8, 11; H. II, 9, 1 seq.; Âp. 20, 5 seq.
     - β. Sacrifice to Kshetrapati. H. II, 9, 8 seq.; Âp. 20, 12 seq.
 
 ---
 
-27\. The _K_aitra offerings. _S_. IV, 19.
+27\. The <i>K</i>aitra offerings. _S_. IV, 19.
 
 28\. The _S<i>râva</i>n_a sacrifice to the Serpents. _S_. IV, 15; Â. II, 1; P. II, 14; G. III, 7 (comp. IV, 8, 1); Kh. III, 2, 1 seq.; H. II, 16; Âp. 18, 5-19, 2.
 
@@ -187,12 +187,12 @@ Death. Burning dead bodies. P. III, 10.
 
 ---
 
-34\. _S_râddha offerings to the Fathers. _S_. IV, 1-4; Â. II, 5, 10 seq.; IV, 7; G. IV, 4 (comp. chap. 2. 3); Kh. III, 5, 35; H. II, 10-13; Âp. 21, I-9.
+34\. <i>S</i>râddha offerings to the Fathers. _S_. IV, 1-4; Â. II, 5, 10 seq.; IV, 7; G. IV, 4 (comp. chap. 2. 3); Kh. III, 5, 35; H. II, 10-13; Âp. 21, I-9.
   - a. The invited Brâhma<i>n</i>as. _S_. IV, 1, 2 seq.; Â. II, 5, 10 seq.; IV, 7, 2 seq.; G. IV, 2, 33 seq.; H. II, 10, 2 seq.; Âp. 21, 2 seq.
-  - b. Offering of the Pi<i>n</i><i>n</i>as. _S_. IV, I, 9 seq.; Â. II, 5, 4 seq.; IV, 7, 28; P. III, 10, 50 seq.; G. IV, 3, 8 seq.; Kh. III, 5, 18 &c.; H. II, 12, 3 seq.; Âp. 21, 9.
-  - c. The Ekoddish<i>t</i>a _S_râddha. _S_. IV, 2 (comp. Â. IV, 7, 1); P. III, 10, 50 seq.
-  - d. The Sapi<i>n</i><i>n</i>îkara<i>n</i>a. _S_. IV, 3; V, 9 (comp. P. III, 10, 51).
-  - e. The Abhyudayika _S_râddha. _S_. IV, 4, comp. Â. II, 5, 13; IV, 7, 1; G. IV, 3, 35.
+  - b. Offering of the Pi<i>nd</i>as. _S_. IV, I, 9 seq.; Â. II, 5, 4 seq.; IV, 7, 28; P. III, 10, 50 seq.; G. IV, 3, 8 seq.; Kh. III, 5, 18 &c.; H. II, 12, 3 seq.; Âp. 21, 9.
+  - c. The Ekoddish<i>t</i>a <i>S</i>râddha. _S_. IV, 2 (comp. Â. IV, 7, 1); P. III, 10, 50 seq.
+  - d. The Sapi<i>nd</i>îkara<i>n</i>a. _S_. IV, 3; V, 9 (comp. P. III, 10, 51).
+  - e. The Abhyudayika <i>S</i>râddha. _S_. IV, 4, comp. Â. II, 5, 13; IV, 7, 1; G. IV, 3, 35.
 
 ---
 
@@ -231,7 +231,7 @@ Miscellaneous matter.
 
 38\. The choosing of priests for officiating at a sacrifice. Â. I, 23.
 
-39\. The _K_aitya sacrifice. Â. I, 12, 1 seq. (comp. Par. III, 11, 10 seq.).
+39\. The <i>K</i>aitya sacrifice. Â. I, 12, 1 seq. (comp. Par. III, 11, 10 seq.).
 
 40\. The Dhanvantari sacrifice. Â. I, 12, 7.
 

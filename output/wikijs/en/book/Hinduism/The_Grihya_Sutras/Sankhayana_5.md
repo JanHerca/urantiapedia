@@ -147,7 +147,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. [^305]. If (his wife) gives birth to a child, without the Sîmantonnayana having been performed,
 
-2\. [^306]. (Or if) the _G_âtakarman has not been performed (for the child), <span id="p138">[<sup><small>p. 138</small></sup>]</span>
+2\. [^306]. (Or if) the <i>G</i>âtakarman has not been performed (for the child), <span id="p138">[<sup><small>p. 138</small></sup>]</span>
 
 3 [^307]. He places, when ten days have elapsed since (the delivery), the little child in the mother's lap,
 
@@ -171,7 +171,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 ## KHA<i>ND</i>A 9.
 
-1\. [^312]. Now (follows) the Sapi<i>n</i><i>n</i>îkara<i>n</i>a. <span id="p139">[<sup><small>p. 139</small></sup>]</span>
+1\. [^312]. Now (follows) the Sapi<i>nd</i>îkara<i>n</i>a. <span id="p139">[<sup><small>p. 139</small></sup>]</span>
 
 2 [^313]. Let him fill four water-pots (for the Manes) from the father upwards,
 
@@ -246,7 +246,7 @@ Here ends the Fifth Adhyâya.
 
 [^299]: 133:5 Comp. the commentary on Â<i>n</i>v.-<i>S</i>raut., loc. cit. 8. He makes the fire redescend from his body or from the Ara<i>n</i>is by performing the Manthana (kindling the fire by attrition of the Ara<i>n</i>is).
 
-[^300]: 133:7 The Mantra alluded to here is given in the <i>S</i>rauta-sûtra. It p. 134 runs thus, ‘Redescend, O _G_âtavedas; carry again offerings to the gods, knowing us. Long life, offspring, wealth bestow on us; uninjured shine in our dwelling!’
+[^300]: 133:7 The Mantra alluded to here is given in the <i>S</i>rauta-sûtra. It p. 134 runs thus, ‘Redescend, O <i>G</i>âtavedas; carry again offerings to the gods, knowing us. Long life, offspring, wealth bestow on us; uninjured shine in our dwelling!’
 
 [^301]: 134:8-9 These Sûtras stand in no connection with the Samâroha<i>n</i>a treated of before.
 
@@ -264,7 +264,7 @@ The vow spoken of in Sûtra 9 Nârâya<i>n</i>a refers to the restrictions regar
 
 [^306]: 137:1 7, 1. On the Sîmantonnayana, see I, 22.
 
-[^307]: 137:2 The _G_âtakarman has been described I, 24.
+[^307]: 137:2 The <i>G</i>âtakarman has been described I, 24.
 
 [^308]: 138:7\_3 On the ten days, comp. I, 25, 1 and the note there.
 
@@ -288,4 +288,4 @@ The vow spoken of in Sûtra 9 Nârâya<i>n</i>a refers to the restrictions regar
 
 [^318]: 140:6 Comp. III, 13, 1 with the note.
 
-[^319]: 140:2 11, 2. Nârâya<i>n</i>a understands the ‘great expiation’ as a rite directed to Gane<i>n</i>a and to the planets (comp. Yâ<i>n</i><i>n</i>avalkya I, 276 seq., 292, &c.); that this ceremony was known already to the author of this Sûtra seems very doubtful. Another ‘mahâ<i>n</i>ânti’ is frequently mentioned in the Kau<i>n</i>ika-sûtra (quoted in Böhtlingk-Roth's Dictionary); comp. my German edition of Sâṅkhâyana, p. 159.
+[^319]: 140:2 11, 2. Nârâya<i>n</i>a understands the ‘great expiation’ as a rite directed to Gane<i>n</i>a and to the planets (comp. Yâ<i>nd</i>avalkya I, 276 seq., 292, &c.); that this ceremony was known already to the author of this Sûtra seems very doubtful. Another ‘mahâ<i>n</i>ânti’ is frequently mentioned in the Kau<i>n</i>ika-sûtra (quoted in Böhtlingk-Roth's Dictionary); comp. my German edition of Sâṅkhâyana, p. 159.

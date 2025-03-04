@@ -72,7 +72,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 1\. On the full moon day of Â<i>vayu</i>vayu<i>vayu</i>a the Â<i>vayu</i>vayu<i>vayu</i>î ceremony (is performed).
 
-2\. [^488]. Having adorned the house, having bathed and put on clean garments, they should pour out a mess of cooked food for Pa<i>s</i>upati, and should sacrifice it with (the formula), To Pa<i>s</i>upati, to _S_iva, to _S<i>s</i>m_kara, to P<i>s</i>shâtaka svâhâ!’
+2\. [^488]. Having adorned the house, having bathed and put on clean garments, they should pour out a mess of cooked food for Pa<i>s</i>upati, and should sacrifice it with (the formula), To Pa<i>s</i>upati, to <i>S</i>iva, to _S<i>s</i>m_kara, to P<i>s</i>shâtaka svâhâ!’
 
 3\. He should sacrifice with his joined hands a mixture of curds and butter (p<i>ri</i>shâtaka) with (the formula), ‘May what is deficient be made full to me; may what is full not decay to me. To P<i>ri</i>shâtaka svâhâ!’
 
@@ -126,7 +126,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 4\. Boiled rice, boiled rice with sesamum seeds, rice-milk—
 
-5\. Or cakes made of four _S_arâvas (of ground grain)—
+5\. Or cakes made of four <i>S</i>arâvas (of ground grain)—
 
 6\. Sacrificing with the eight (verses), ‘May the lower (Fathers) and the higher arise’ (Rig-veda X, 15, 1 seqq.), or with as many (verses) as he likes.
 
@@ -142,7 +142,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 12\. This (Ash<i>t</i>akâ) some state to be sacred to the Vi<i>t</i>ve devâs, some to Agni, some to the Sun, some to Pra<i>t</i>âpati, some state that the Night is its deity, some that the Nakshatras are, some that the Seasons are, some that the Fathers are, some that cattle is.
 
-13\. [^499]. Having killed the animal according to the <span id="p207">[<sup><small>p. 207</small></sup>]</span> ritual of the animal sacrifice, omitting the sprinkling (with water) and the touching of the animal with a fresh branch, he should draw out the omentum and sacrifice it with (the verse), ‘Carry the omentum, _G_âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may all these wishes be fulfilled. Svâhâ!’
+13\. [^499]. Having killed the animal according to the <span id="p207">[<sup><small>p. 207</small></sup>]</span> ritual of the animal sacrifice, omitting the sprinkling (with water) and the touching of the animal with a fresh branch, he should draw out the omentum and sacrifice it with (the verse), ‘Carry the omentum, <i>G</i>âtavedas, to the Fathers, where thou knowest them resting afar. May streams of fat flow to them; may all these wishes be fulfilled. Svâhâ!’
 
 14\. [^500]. Then (follow oblations) of the Avadâna portions and the cooked food, two with (the two verses), ‘Agni, lead us on a good path to wealth’ (Rig-veda I, 189, 1 seq.), (and other oblations with the texts), 'May summer, winter, the seasons be happy to us, happy the rainy season, safe to us the autumn. The year be our lord who gives breath to us; may days and nights produce long life. Svâhâ!
 
@@ -164,7 +164,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 2\. [^502]. Having prepared (a portion) of that same meat, having established the fire on a surface inclined towards the south, having fenced it in, and made a door on the north side of the enclosure, having strewn round (the fire) three times sacrificial grass with its roots, without tossing it, turning the left side towards the fire, he should put down the things to be offered, boiled rice, boiled rice with sesamum seeds, rice-milk, meal-pap with curds, and meal-pap with honey.
 
-3\. [^503]. (The ceremony should be performed) according to the ritual of the Pi<i>n</i><i>n</i>apit<i>n</i>ya<i>n</i><i>n</i>a.
+3\. [^503]. (The ceremony should be performed) according to the ritual of the Pi<i>nd</i>apit<i>n</i>ya<i>nd</i>a.
 
 4\. [^504]. Having sacrificed (of those sorts of food) with the exception of the meal-pap with honey, let him give (lumps of those substances) to the Fathers.
 
@@ -292,13 +292,13 @@ dateCreated: 2025-1-14T23:38:47Z
 
 10\. Or as an oblong quadrangle. <span id="p213">[<sup><small>p. 213</small></sup>]</span>
 
-11 [^512]. With a _S_amî branch or an Udumbara branch he sprinkles it (with water), going thrice round it, so that his right side is turned towards it, reciting the _S_antâtîya hymn.
+11 [^512]. With a <i>S</i>amî branch or an Udumbara branch he sprinkles it (with water), going thrice round it, so that his right side is turned towards it, reciting the <i>S</i>antâtîya hymn.
 
 12\. And (so he does again three times) pouring out water without interruption, with the three verses, ‘O waters, ye are wholesome’ (Rig-veda X, 9, 1 seqq.).
 
 13\. [^513]. In the interstices between the bamboo staffs he should have the (single) rooms constructed.
 
-14\. Into the pits in which the posts are to stand, he should have an Avakâ, i.e. (the water-plant called) _S_îpâla put down; then fire will not befall him: thus it is understood (in the <i>S</i>ruti).
+14\. Into the pits in which the posts are to stand, he should have an Avakâ, i.e. (the water-plant called) <i>S</i>îpâla put down; then fire will not befall him: thus it is understood (in the <i>S</i>ruti).
 
 15\. [^514]. Having put (that plant) into the pit in which the middle-post is to stand, he should spread (on it) eastward-pointed and northward-pointed Ku<i>s</i>a grass and should sprinkle (on that grass) water into which rice and barley have been thrown, with (the words), ‘To the steady one, the earth-demon, svâhâ!’
 
@@ -320,7 +320,7 @@ dateCreated: 2025-1-14T23:38:47Z
 
 6\. [^517]. He then ‘appeases’ it (in the following way).
 
-7\. [^518]. He puts gold into water into which rice and barley have been thrown, and (with that water) he sprinkles it three times, going round it with his right side turned towards it, with the _S_antâtîya hymn.
+7\. [^518]. He puts gold into water into which rice and barley have been thrown, and (with that water) he sprinkles it three times, going round it with his right side turned towards it, with the <i>S</i>antâtîya hymn.
 
 8\. [^519]. And (so he does again three times) pouring out <span id="p215">[<sup><small>p. 215</small></sup>]</span> water without interruption, with the three verses, ‘O waters, ye are wholesome’ (Rig-veda X, 9, I seqq.).
 
@@ -434,7 +434,7 @@ End of the Second Adhyâya.
 
 [^511]: 210:2 On the Vedic form of the chariot and of the wheels, comp. Zimmer, Altindisches Leben, p. 247.
 
-[^512]: 210:6 According to Nârâya<i>n</i>a this Sûtra would refer only to other vehicles of wood, which he is directed to touch with that _Ri_<i>k</i> when going to mount them. Perhaps the commentator is right; the wording of the _Ri_<i>k</i> is well in keeping with his explanation.
+[^512]: 210:6 According to Nârâya<i>n</i>a this Sûtra would refer only to other vehicles of wood, which he is directed to touch with that <i>Rik<i> when going to mount them. Perhaps the commentator is right; the wording of the <i>Rik<i> is well in keeping with his explanation.
 
 [^513]: 213:11 8, 11. The hymn of which all verses (except a few) commence with, and frequently contain, the word <i>s</i>am (Rig-veda VII, 35).
 
@@ -448,7 +448,7 @@ End of the Second Adhyâya.
 
 [^518]: 214:6 The ground on which the house is to be built.
 
-[^519]: 214:7 On the _S_antâtîya hymn, see above, chap. 8, Ir.
+[^519]: 214:7 On the <i>S</i>antâtîya hymn, see above, chap. 8, Ir.
 
 [^520]: 214:8 This Sûtra is identical with chap. 8, 12.
 

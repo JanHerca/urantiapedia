@@ -46,7 +46,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 4\. And as the prescription (is stated with regard to the time of the single ceremonies).
 
-5\. [^96] All (ceremonies) are accompanied by the Anvâhârya (_S_râddha). <span id="p14">[<sup><small>p. 14</small></sup>]</span>
+5\. [^96] All (ceremonies) are accompanied by the Anvâhârya (<i>S</i>râddha). <span id="p14">[<sup><small>p. 14</small></sup>]</span>
 
 6\. [^97] At the end (of each ceremony) he should feed worthy (Brâhma<i>n</i>as) according to his ability.
 
@@ -311,13 +311,13 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 14\. He then gets the pieces of wood ready (which are to be put on the fire)—of Khadira or of Palâ<i>s</i>a wood.
 
-15\. If Khadira or Palâ<i>s</i>a wood cannot be obtained, it may be wood—as far as it serves the purpose—of any tree, with the exception of Vibhîdaka, Tilvaka, Bâdhaka, Nîva, Nimba, Râ<i>s</i>av<i>s</i>ksha, _S_almali, Aralu, Dadhittha, Kovidâra, _S_leshmâtaka wood.
+15\. If Khadira or Palâ<i>s</i>a wood cannot be obtained, it may be wood—as far as it serves the purpose—of any tree, with the exception of Vibhîdaka, Tilvaka, Bâdhaka, Nîva, Nimba, Râ<i>s</i>av<i>s</i>ksha, <i>S</i>almali, Aralu, Dadhittha, Kovidâra, <i>S</i>leshmâtaka wood.
 
 16\. The Barhis consists of Ku<i>s</i>a grass cut off at the points at which the blades diverge from the main stalk.
 
 17\. (The blades should be) cut off near the roots at (the ceremonies directed to) the Fathers.
 
-18\. If that (i.e. Ku<i>s</i>a grass) cannot be obtained, (he may take) any kind of grass, with the exception of _S_ûka grass, of Saccharum reed, of such grass as is apt to break, of Balba<i>s</i>a grass, of Mutava, of Amphidonax reed, of _S<i>s</i>n_<i>s</i>a.
+18\. If that (i.e. Ku<i>s</i>a grass) cannot be obtained, (he may take) any kind of grass, with the exception of <i>S</i>ûka grass, of Saccharum reed, of such grass as is apt to break, of Balba<i>s</i>a grass, of Mutava, of Amphidonax reed, of _S<i>s</i>n_<i>s</i>a.
 
 19\. [^140] (He should get ready the following things, viz.) Â<i>g</i>ya, rice or barley to be cooked for the sacrifice, the pot in which the oblation of cooked rice (or barley) is prepared, the pot-ladle, the Sruva, the water fetched from a hidden place—
 
@@ -421,7 +421,7 @@ This Bali is called â-sasya, because it is offered until (â) the next crop (sa
 
 15\. This rule for strewing (grass) round (the fire is valid) for all (ceremonies) at which oblations are made.
 
-16\. [^154] Some lay also branches of _S_amî wood or of Par<i>n</i>a wood round (the fire). <span id="p33">[<sup><small>p. 33</small></sup>]</span>
+16\. [^154] Some lay also branches of <i>S</i>amî wood or of Par<i>n</i>a wood round (the fire). <span id="p33">[<sup><small>p. 33</small></sup>]</span>
 
 17\. To the north (of the fire) a Sruva full of water (is placed): this is the Pra<i>n</i>îta water;
 
@@ -607,7 +607,7 @@ End of the First Prapâ<i>th</i>aka.
 
 [^95]: 13:1 1, 1-4. Comp. Khâdira-G<i>ri</i>hya I, 1, 1. 2. 5. 7.
 
-[^96]: 13:5 I cannot give this translation of the words ‘sarvâ<i>n</i>y evânvâhâryavanti’ without expressing my doubts as to whether the commentator, whom I have followed, is right. He says: ‘anu pa<i>n</i><i>n</i>âd âhriyate yasmât prak<i>n</i>ta<i>m</i> karma iti, anu pa<i>n</i><i>n</i>âd âhriyate yat prastutât (prak<i>n</i>tât?) karma<i>n</i>a iti _k<i>n</i>m<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k<i>n</i>k_yate.’ It is evident that the first explanation of anvâhârya as a ceremony after which the chief sacrifice follows, is inadmissible. Below, IV, 4, 3. 4, Gobhila himself defines the Anvâhârya _S_râddha as a monthly ceremony (comp. Manu III, 123; Max Müller, India, p. 240); it is, consequently, different from a _S_râddha accompanying each G<i>n</i>hya sacrifice. The _S<i>n</i>ri_hyântara’ seems to me not to remove the doubt; I think rather that it contains a speculation based on this very passage of Gobhila, taken in the sense in p. 14 which the commentator takes it, and on the Sûtras IV, 4, 3. 4. Thus I rather believe that we ought to understand anvâhârya as a mess of food like that offered after the dar<i>n</i>apûr<i>n</i>amâsau sacrifices to the officiating priests (Hillebrandt, Neu- and Vollmondsopfer, 133), and I propose to translate: All (sacrifices) are followed by (the offering of) the Anvâhârya food (to the priest).
+[^96]: 13:5 I cannot give this translation of the words ‘sarvâ<i>n</i>y evânvâhâryavanti’ without expressing my doubts as to whether the commentator, whom I have followed, is right. He says: ‘anu pa<i>nd</i>âd âhriyate yasmât prak<i>n</i>ta<i>m</i> karma iti, anu pa<i>nd</i>âd âhriyate yat prastutât (prak<i>n</i>tât?) karma<i>n</i>a iti _k<i>n</i>m<i>n</i>s<i>n</i>m<i>n</i>n<i>n</i>k<i>n</i>k_yate.’ It is evident that the first explanation of anvâhârya as a ceremony after which the chief sacrifice follows, is inadmissible. Below, IV, 4, 3. 4, Gobhila himself defines the Anvâhârya <i>S</i>râddha as a monthly ceremony (comp. Manu III, 123; Max Müller, India, p. 240); it is, consequently, different from a <i>S</i>râddha accompanying each G<i>n</i>hya sacrifice. The _S<i>n</i>ri_hyântara’ seems to me not to remove the doubt; I think rather that it contains a speculation based on this very passage of Gobhila, taken in the sense in p. 14 which the commentator takes it, and on the Sûtras IV, 4, 3. 4. Thus I rather believe that we ought to understand anvâhârya as a mess of food like that offered after the dar<i>n</i>apûr<i>n</i>amâsau sacrifices to the officiating priests (Hillebrandt, Neu- and Vollmondsopfer, 133), and I propose to translate: All (sacrifices) are followed by (the offering of) the Anvâhârya food (to the priest).
 
 [^97]: 14:6 Khâdira-G<i>ri</i>hya I, 1, 3.
 
@@ -633,7 +633,7 @@ End of the First Prapâ<i>th</i>aka.
 
 [^108]: 18:17 As to the Tîrthas (or parts of the hand) sacred to the different deities or beings, comp. Vasish<i>th</i>a III, 64 seqq., &c. See also Manu II, 58.
 
-[^109]: 18:20 According to the commentary he has to hold his hands between his knees. Comp. _S_âṅkh.-G<i>ri</i>hya I, 10, 8. Thus the shoulders are brought forward.
+[^109]: 18:20 According to the commentary he has to hold his hands between his knees. Comp. <i>S</i>âṅkh.-G<i>ri</i>hya I, 10, 8. Thus the shoulders are brought forward.
 
 [^110]: 18:21 21-27. These Sûtras form three regular <i>S</i>loka hemistichs. Only at the end of the second hemistich there is a metrical irregularity (sopânatka_h<i> kva</i>k_it standing at the end of the verse).
 
@@ -641,7 +641,7 @@ End of the First Prapâ<i>th</i>aka.
 
 [^112]: 18:28 Khâdira-G<i>ri</i>hya I, 1, 10.
 
-[^113]: 18:29 In other texts (for instance, Manu II, 62; Vasish<i>th</i>a III, 31 seqq.) it is stated that a Brâhma<i>th</i>a should sip water that reaches his heart, a Kshatriya water reaching his throat, a Vai<i>th</i>ya water that wets his palate; a _S_ûdra should only touch water with his lips.
+[^113]: 18:29 In other texts (for instance, Manu II, 62; Vasish<i>th</i>a III, 31 seqq.) it is stated that a Brâhma<i>th</i>a should sip water that reaches his heart, a Kshatriya water reaching his throat, a Vai<i>th</i>ya water that wets his palate; a <i>S</i>ûdra should only touch water with his lips.
 
 [^114]: 19:32 This Sûtra again forms a Sloka, though a slightly irregular Sloka.
 
@@ -705,7 +705,7 @@ End of the First Prapâ<i>th</i>aka.
 
 [^144]: 29:7 Khâdira-G<i>ri</i>hya II, I, 7.
 
-[^145]: 29:14 The ceremonies stated in this Sûtra have to be performed by the Brahman. This is stated in the commentary, and the comparison p. 30 of parallel texts leaves no doubt as to the correctness of this view. Thus Hira<i>n</i>yake<i>n</i>in says (I, 1): etasmin kâle brahmâ ya<i>n</i><i>n</i>opavîta_m<i>n</i>ri<i>n</i>k<i>n</i>n<i>n</i>m<i>n</i>n<i>n</i>ri_<i>n</i>a<i>m</i> nirasya, &c. Comp. also the corresponding passages of the <i>S</i>rauta ritual given by Hillebrandt, Neu- and Vollmondsopfer, p. 17. I do not think it probable, however, that we should read brahmâऽsanât, so that it would be distinctly expressed by the text that the Brahman is the subject (comp. Dr. Knauer's Introduction, p. viii). For we read in this same Sûtra brahmâsanât t<i>n</i><i>n</i>am abhisa<i>n</i>g<i>n</i>hya; in Sûtra 15, brahmâsana upavi<i>n</i>ati; in Sûtra 21, brahmâsane nidhâya: of these passages it is in the second made probable by the sense, and it is certain in the third, that brahmâsana is to be understood as a compound equal to brahmasadana. Thus it would, in my opinion, be unnatural not to explain it in the same way also in the first passage. Parâvasu is opposed to Vasu (Sûtra 15) in the same way as some texts, for instance Âpastamba, oppose Parâgvasu to Arvâgvasu.
+[^145]: 29:14 The ceremonies stated in this Sûtra have to be performed by the Brahman. This is stated in the commentary, and the comparison p. 30 of parallel texts leaves no doubt as to the correctness of this view. Thus Hira<i>n</i>yake<i>n</i>in says (I, 1): etasmin kâle brahmâ ya<i>nd</i>opavîta_m<i>n</i>ri<i>n</i>k<i>n</i>n<i>n</i>m<i>n</i>n<i>n</i>ri_<i>n</i>a<i>m</i> nirasya, &c. Comp. also the corresponding passages of the <i>S</i>rauta ritual given by Hillebrandt, Neu- and Vollmondsopfer, p. 17. I do not think it probable, however, that we should read brahmâऽsanât, so that it would be distinctly expressed by the text that the Brahman is the subject (comp. Dr. Knauer's Introduction, p. viii). For we read in this same Sûtra brahmâsanât t<i>nd</i>am abhisa<i>n</i>g<i>n</i>hya; in Sûtra 15, brahmâsana upavi<i>n</i>ati; in Sûtra 21, brahmâsane nidhâya: of these passages it is in the second made probable by the sense, and it is certain in the third, that brahmâsana is to be understood as a compound equal to brahmasadana. Thus it would, in my opinion, be unnatural not to explain it in the same way also in the first passage. Parâvasu is opposed to Vasu (Sûtra 15) in the same way as some texts, for instance Âpastamba, oppose Parâgvasu to Arvâgvasu.
 
 [^146]: 30:16 seqq Khâdira-G<i>ri</i>hya I, 1, 19 seqq.
 
@@ -767,7 +767,7 @@ End of the First Prapâ<i>th</i>aka.
 
 [^175]: 39:14 14 seq. Khâdira-G<i>ri</i>hya II, 2, 5 seq.; <i>S</i>âṅkhâyana-G<i>ri</i>hya I, 3, 6.
 
-[^176]: 39:16 16 seqq. Khâdira-G<i>ri</i>hya II, 2, 10 seqq. In this teacher Pâkaya<i>ri</i><i>ri</i>a, son of I<i>ri</i>â, whose opinion on the performance of certain Pâkaya<i>ri</i><i>ri</i>as is here stated, we have of course to see a fictitious sage of the same kind with the well-known _Ri_shi Pragâtha, to whom the authorship of a number of Sûktas in the Pragâtha book (<i>Ri</i>g-veda, Ma<i>ri</i><i>ri</i>ala VIII) is ascribed.
+[^176]: 39:16 16 seqq. Khâdira-G<i>ri</i>hya II, 2, 10 seqq. In this teacher Pâkaya<i>ri</i><i>ri</i>a, son of I<i>ri</i>â, whose opinion on the performance of certain Pâkaya<i>ri</i><i>ri</i>as is here stated, we have of course to see a fictitious sage of the same kind with the well-known <i>Ri</i>shi Pragâtha, to whom the authorship of a number of Sûktas in the Pragâtha book (<i>Ri</i>g-veda, Ma<i>ri</i><i>ri</i>ala VIII) is ascribed.
 
 [^177]: 39:18 18, 19. By the repetition of iti these Sûtras seem to be characterised as continuing the statement of Pâkaya<i>g</i><i>g</i>a's opinion; comp. Dr. Knauer's Introduction, p. xviii. As to Sûtra 18, comp. <i>S</i>âṅkhâyana-G<i>g</i>hya I, 3, 9.
 

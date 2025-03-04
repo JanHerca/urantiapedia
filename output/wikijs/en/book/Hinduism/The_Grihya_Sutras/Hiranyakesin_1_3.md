@@ -38,19 +38,19 @@ dateCreated: 2025-1-14T23:38:48Z
 
 2\. We shall explain that (bath).
 
-3\. During the northern course of the sun, in the time of the increasing moon, under (the Nakshatra) Rohi<i>ri</i>î, (or) M<i>ri</i>ga<i>ri</i>iras, (or) Tishya, (or) Uttarâ <span id="p162">[<sup><small>p. 162</small></sup>]</span> Phalgunî, (or) Hasta, (or) _K_itrâ, or the two Vi<i>ri</i>âkhâs: under these (Nakshatras) he may take the bath.
+3\. During the northern course of the sun, in the time of the increasing moon, under (the Nakshatra) Rohi<i>ri</i>î, (or) M<i>ri</i>ga<i>ri</i>iras, (or) Tishya, (or) Uttarâ <span id="p162">[<sup><small>p. 162</small></sup>]</span> Phalgunî, (or) Hasta, (or) <i>K</i>itrâ, or the two Vi<i>ri</i>âkhâs: under these (Nakshatras) he may take the bath.
 
-4\. [^542] He goes to a place near which water is, puts wood on the fire, performs the rites down to the oblations made with the Vyâh<i>ri</i>tis, and puts a piece of Palâ<i>ri</i>a wood on (the fire) with (the verse), ‘Let us prepare this song like a chariot, for _G_âtavedas who deserves it, with our prayer. For his foresight in this assembly is a bliss to us. Agni! Dwelling in thy friendship may we not suffer harm. Svâhâ!’
+4\. [^542] He goes to a place near which water is, puts wood on the fire, performs the rites down to the oblations made with the Vyâh<i>ri</i>tis, and puts a piece of Palâ<i>ri</i>a wood on (the fire) with (the verse), ‘Let us prepare this song like a chariot, for <i>G</i>âtavedas who deserves it, with our prayer. For his foresight in this assembly is a bliss to us. Agni! Dwelling in thy friendship may we not suffer harm. Svâhâ!’
 
 5\. Then he sacrifices with the Vyâh<i>ri</i>tis as above,
 
-6\. [^543] (And another oblation with the verse), 'The threefold age of _G_amadagni, Ka<i>s</i>yapa's threefold age, the threefold age that belongs to the gods: may that threefold age be mine. Svâhâ!’
+6\. [^543] (And another oblation with the verse), 'The threefold age of <i>G</i>amadagni, Ka<i>s</i>yapa's threefold age, the threefold age that belongs to the gods: may that threefold age be mine. Svâhâ!’
 
 7\. (Then follow oblations with the verses), ‘This, O Varu<i>n</i>a,’ &c. (see above, I, 2, 8, 16, down to the end of the Sûtra).
 
 8\. [^544] After he has served food to the Brâhma<i>n</i>as, and has caused them to say, ‘An auspicious day! Hail! Good luck!’ he discharges himself of his vow by (repeating) these (Mantras), ‘Agni, lord of the vow, I have kept the vow.’
 
-9\. Having (thus) discharged himself of his vow, he worships the sun with the two (verses), ‘Upwards <span id="p163">[<sup><small>p. 163</small></sup>]</span> that (_G_âtavedas)’ (Taitt. Sa<i>m</i>h. I, 4, 43, 1), and, ‘The bright’ (ibid.).
+9\. Having (thus) discharged himself of his vow, he worships the sun with the two (verses), ‘Upwards <span id="p163">[<sup><small>p. 163</small></sup>]</span> that (<i>G</i>âtavedas)’ (Taitt. Sa<i>m</i>h. I, 4, 43, 1), and, ‘The bright’ (ibid.).
 
 10\. [^545] With (the words), ‘(Loosen) from us thy highest band, Varu<i>n</i>a,’ he takes off the upper garment which he has worn during his studentship, and puts on another (garment). With (the words), ‘(Loosen) the lowest (fetter),’ (he takes off) the under garment; with (the words), ‘(Take) away the middle (fetter),’ the girdle. With (the words), ‘And may we, O Âditya, under thy law (&c.),’ (he deposes) his staff. The girdle, the staff, and the black antelope's skin he throws into water, sits down to the west of the fire, facing the east, and touches the razor (with which he is going to be shaven), with (the formula), ‘Razor is thy name; the axe is thy father. Adoration to thee! Do no harm to me!’
 
@@ -92,7 +92,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ‘I have obtained an auspicious name like (the name) of a father of gold. Thus may (the gold) make me shine with golden lustre; (may it make me) beloved among many people; may it make me full of holy lustre. Svâhâ!
 
-‘Make me beloved among the gods; make me beloved with Brahman (i.e. among the Brâhma<i>n</i>as), beloved among Vai<i>n</i>yas and _S_ûdras; make me beloved among the kings (i.e. among the Kshatriyas). Svâhâ!
+‘Make me beloved among the gods; make me beloved with Brahman (i.e. among the Brâhma<i>n</i>as), beloved among Vai<i>n</i>yas and <i>S</i>ûdras; make me beloved among the kings (i.e. among the Kshatriyas). Svâhâ!
 
 ‘This herb is protecting, overcoming, and powerful. May it make me shine with golden lustre; (may it make me) beloved among many people; may it make me full of holy lustre. Svâhâ!’
 
@@ -164,11 +164,11 @@ End of the Third Pa<i>t</i>ala.
 
 [^544]: 162:8 Comp. I, 2, 7, 25; 8, 7.
 
-[^545]: 163:10 The words quoted in this Sûtra are the parts of a _Ri_<i>k</i> which is found in Taittirîya Sa<i>m</i>hitâ I, 5, 11, 3.
+[^545]: 163:10 The words quoted in this Sûtra are the parts of a <i>Rik<i> which is found in Taittirîya Sa<i>m</i>hitâ I, 5, 11, 3.
 
 [^546]: 163:11 The words which I have included in brackets are wanting in some of the MSS., and are not explained in the commentaries. They are doubtless a spurious addition. Comp. Â<i>s</i>valâyana I, 57, 6, &c.
 
-[^547]: 163:12 Pâraskara II, 1, 9. The same expression dakshi<i>n</i>a<i>m</i> godânam, of which I have treated there in the note, is used in this Sûtra. Comp., besides, <i>S</i>âṅkhâyana-G<i>n</i>hya I, 28, 9; Âpastamba-<i>S</i>rauta-sûtra p. 164 X, 5, 8; _S_atapatha-Br. III, 1, 2, 6. According to Mât<i>n</i>datta, there is some difference of opinion between the different teachers as to whether the Mantras for the moistening of the hair and the following rites are to be repeated by the teacher or by the barber.
+[^547]: 163:12 Pâraskara II, 1, 9. The same expression dakshi<i>n</i>a<i>m</i> godânam, of which I have treated there in the note, is used in this Sûtra. Comp., besides, <i>S</i>âṅkhâyana-G<i>n</i>hya I, 28, 9; Âpastamba-<i>S</i>rauta-sûtra p. 164 X, 5, 8; <i>S</i>atapatha-Br. III, 1, 2, 6. According to Mât<i>n</i>datta, there is some difference of opinion between the different teachers as to whether the Mantras for the moistening of the hair and the following rites are to be repeated by the teacher or by the barber.
 
 [^548]: 164:13 Â<i>s</i>valâyana I, 17, 8; Pâraskara II, 1, 10; Âpastamba-<i>S</i>raut., loc. cit.; Kâtyâyana-Sraut. VII, 2, 10. The parallel texts prescribe that one Ku<i>s</i>a blade, or three Ku<i>s</i>a blades, should be put into the hair.
 

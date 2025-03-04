@@ -107,7 +107,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 11\. [^724] (To which the words allude), ‘He sacrifices twice; he wipes off (his hand) twice; he partakes twice (of the sacrificial food); having gone away he sips (out of the Sru<i>k</i>) and licks off (the Sru<i>k</i>).’
 
-12\. All seasons are fit for marriage with the exception of the two months of the _s<i>i</i>s_ira season, and of the last summer month.
+12\. All seasons are fit for marriage with the exception of the two months of the <i>s</i>i<i>s</i>ira season, and of the last summer month.
 
 13\. All Nakshatras which are stated to be pure, (are fit for marriage);
 
@@ -214,7 +214,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 [^723]: 254:10 According to Haradatta, this Sûtra would imply that wheresoever the ritual described in the preceding Sûtras holds good, p. 255 another ritual based on the Brâhma<i>n</i>a, and more especially on the treatment of the Agnihotra in the Brâhma<i>n</i>a, may be used in its stead.
 
-[^724]: 255:11 Comp. Taitt. Brâhma<i>n</i>a II, 1, 4, 5; _S_atapatha Brâhma<i>n</i>a II, 3, 1, 18. 21.—At the Agnihotra the sacrificer, having wiped off the Sru<i>k</i> with his hand, wipes off the hand on the Barhis or on the earth (Âpast.-<i>S</i>raut. VI, 10, 11; 11, 4; Kâtyâyana IV, 14, 20). As to the following acts alluded to in this Sûtra, comp. Âpastamba VI, 11, 4. 5; 12, 2.
+[^724]: 255:11 Comp. Taitt. Brâhma<i>n</i>a II, 1, 4, 5; <i>S</i>atapatha Brâhma<i>n</i>a II, 3, 1, 18. 21.—At the Agnihotra the sacrificer, having wiped off the Sru<i>k</i> with his hand, wipes off the hand on the Barhis or on the earth (Âpast.-<i>S</i>raut. VI, 10, 11; 11, 4; Kâtyâyana IV, 14, 20). As to the following acts alluded to in this Sûtra, comp. Âpastamba VI, 11, 4. 5; 12, 2.
 
 [^725]: 255:16 On the Nakshatra Invakâs, comp. Section 3, Sûtra 4. This Sûtra forms a <i>S</i>loka-hemistich, on which Haradatta observes, ‘This verse has not been made by the Sûtrakâra.’
 

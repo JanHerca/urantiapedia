@@ -36,7 +36,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 1\. [^667] Now (follows) the sacrifice of the <i>s</i>ûlagava (or spit-ox, for propitiating Rudra and averting plague in cattle).
 
-2\. In the fortnight of the increasing moon, under an auspicious constellation, he puts wood on the fire, strews (Darbha grass) on the entire surface around the fire, cooks a mess of sacrificial food with milk, <span id="p221">[<sup><small>p. 221</small></sup>]</span> sprinkles it (with Â<i>g</i>ya), takes it from the fire, builds two huts to the west of the fire, and has the spit-ox led to the southerly (hut) with (the verse), ‘May the fallow steeds, the harmonious ones, bring thee hither, together with the white horses, the bright, wind-swift, strong ones, that are as quick as thought. Come quickly to my offering, _S_arva! Om!’
+2\. In the fortnight of the increasing moon, under an auspicious constellation, he puts wood on the fire, strews (Darbha grass) on the entire surface around the fire, cooks a mess of sacrificial food with milk, <span id="p221">[<sup><small>p. 221</small></sup>]</span> sprinkles it (with Â<i>g</i>ya), takes it from the fire, builds two huts to the west of the fire, and has the spit-ox led to the southerly (hut) with (the verse), ‘May the fallow steeds, the harmonious ones, bring thee hither, together with the white horses, the bright, wind-swift, strong ones, that are as quick as thought. Come quickly to my offering, <i>S</i>arva! Om!’
 
 3\. [^668] To the northerly (hut he has) the ‘bountiful one’ (led);—(i.e. the consort of the spit-ox);
 
@@ -46,9 +46,9 @@ dateCreated: 2025-1-14T23:38:48Z
 
 6\. After he has performed (the rites) down to the Vyâh<i>ri</i>ti oblations, he takes the messes of boiled rice (to the fire) and sacrifices them (the first with the Mantra),
 
-‘To the god Bhava svâhâ! To the god Rudra svâhâ! To the god _S_arva svâhâ! To the god Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma svâhâ! To the great god svâhâ!’
+‘To the god Bhava svâhâ! To the god Rudra svâhâ! To the god <i>S</i>arva svâhâ! To the god Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma svâhâ! To the great god svâhâ!’
 
-7\. Then he sacrifices the consort's rice to the consort (of Rudra, with the Mantra), ‘To the consort <span id="p222">[<sup><small>p. 222</small></sup>]</span> of the god Bhava svâhâ! To the consort of the god Rudra . . . _S_arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . of he great god svâhâ!’
+7\. Then he sacrifices the consort's rice to the consort (of Rudra, with the Mantra), ‘To the consort <span id="p222">[<sup><small>p. 222</small></sup>]</span> of the god Bhava svâhâ! To the consort of the god Rudra . . . <i>S</i>arva . . . Î<i>s</i>âna . . . Pa<i>s</i>upati . . . Ugra . . . Bhîma . . . of he great god svâhâ!’
 
 8\. Then he sacrifices of the middle portion of rice with (the Mantra), ‘To the conqueror svâhâ! To the conqueror svâhâ!’
 
@@ -130,4 +130,4 @@ End of the Third Pa<i>t</i>ala.
 
 [^673]: 224:8 Mât<i>ri</i>datta says, kshaitrapatya_m<i>ri</i>m_ payasi sthâlîpâkam, &c. The meaning of the expression ‘that (enam) mess of sacrificial food’ is doubtful; the commentary says, enam iti pûrvâpeksham pûrvavad aupâsana evâsyâpi _s<i>ri</i>n_ârtham.—The last words (on four or on seven leaves) the commentator transfers to the next Sûtra, but he mentions the different opinion of other authorities.
 
-[^674]: 224:10 nûrtte _s<i>îghra</i>m<i>îghra</i>g_ate. kuta_h_. yata_h<i>îghra</i>h<i>îghra</i>h<i>îghra</i>k<i>îghra</i>s_îlas tîkshmas (read, tîksh<i>îghra</i>as) tasmât. Mât<i>îghra</i>datta.—Possibly Dr. Kirste is right in reading tûrta_m_; the corresponding Sûtra of Âpastamba has kshipram (VII, 20, 15), and, as the _S_atapatha Brâhma<i>îghra</i>a (VI, 3, 2, 2) observes, ‘yad vai kshipra<i>m</i> tat tûrtam.’
+[^674]: 224:10 nûrtte _s<i>îghra</i>m<i>îghra</i>g_ate. kuta_h_. yata_h<i>îghra</i>h<i>îghra</i>h<i>îghra</i>k<i>îghra</i>s_îlas tîkshmas (read, tîksh<i>îghra</i>as) tasmât. Mât<i>îghra</i>datta.—Possibly Dr. Kirste is right in reading tûrta_m_; the corresponding Sûtra of Âpastamba has kshipram (VII, 20, 15), and, as the <i>S</i>atapatha Brâhma<i>îghra</i>a (VI, 3, 2, 2) observes, ‘yad vai kshipra<i>m</i> tat tûrtam.’

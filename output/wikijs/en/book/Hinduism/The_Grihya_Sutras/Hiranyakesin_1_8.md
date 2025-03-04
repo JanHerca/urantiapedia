@@ -36,13 +36,13 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PRA<i>S</i>NA I, PA<i>T</i>ALA 8, SECTION 27.
 
-1\. If he will have a house built, he should during the northerly course of the sun, in the time of the increasing moon, under the constellation Rohi<i>dh</i>î and under the three constellations designated as Uttara (Uttara-Phalgunî, Uttara-Ashâ<i>dh</i>â, Uttara-Prosh<i>dh</i>apadâ<i>h</i>) put wood on the fire, perform the rites down to the Vyâh<i>dh</i>ti oblations, and should sacrifice with (the verses), ‘This, O Varu<i>dh</i>a’ (&c.; see I, 2, 8, 16, down to the end of the Sûtra). Then he serves food to the Brâhma<i>dh</i>as and causes them to say, ‘An auspicious day! Hail! Good luck!’ he puts on a garment that has not yet been washed, touches water, takes a shovel with (the formula), ‘On the impulse of the god Savit_ri_’ (Taitt. Sa<i>dh</i>h. I, 3, 1, 1) draws lines thrice from the left to the right round (the places where the pits for the posts shall be dug) with (the formula), ‘A line has been drawn’ (Taitt. Sa<i>dh</i>h. I, 3, 1, 1), digs the pits (in which the posts shall be erected) as it is fit, and casts the earth (dug out of those pits) towards the inside (of the building-ground).
+1\. If he will have a house built, he should during the northerly course of the sun, in the time of the increasing moon, under the constellation Rohi<i>dh</i>î and under the three constellations designated as Uttara (Uttara-Phalgunî, Uttara-Ashâ<i>dh</i>â, Uttara-Prosh<i>dh</i>apadâ<i>h</i>) put wood on the fire, perform the rites down to the Vyâh<i>dh</i>ti oblations, and should sacrifice with (the verses), ‘This, O Varu<i>dh</i>a’ (&c.; see I, 2, 8, 16, down to the end of the Sûtra). Then he serves food to the Brâhma<i>dh</i>as and causes them to say, ‘An auspicious day! Hail! Good luck!’ he puts on a garment that has not yet been washed, touches water, takes a shovel with (the formula), ‘On the impulse of the god Savit<i>ri</i>’ (Taitt. Sa<i>dh</i>h. I, 3, 1, 1) draws lines thrice from the left to the right round (the places where the pits for the posts shall be dug) with (the formula), ‘A line has been drawn’ (Taitt. Sa<i>dh</i>h. I, 3, 1, 1), digs the pits (in which the posts shall be erected) as it is fit, and casts the earth (dug out of those pits) towards the inside (of the building-ground).
 
 2\. He erects the southern door-post with (the verse), ‘Here I erect a firm house; it stands in peace, streaming ghee. Thus may we walk in thee, O house, blessed with heroes, with all heroes, with unharmed heroes;’
 
 3\. The northern (door-post) with (the verse), ‘Stand here firmly, O house, rich in horses and cows, rich in delight; rich in sap, overflowing with milk be set up, for the sake of great happiness.’ <span id="p205">[<sup><small>p. 205</small></sup>]</span>
 
-4\. [4](sbe30071.htm#fn640) With (the verse), ‘To thee (may) the young child (go), to thee the calf with its companion, to thee the golden cup; to thee may they go with pots of curds’—he touches the two posts, after they have been erected.
+4\. [4](#fn640) With (the verse), ‘To thee (may) the young child (go), to thee the calf with its companion, to thee the golden cup; to thee may they go with pots of curds’—he touches the two posts, after they have been erected.
 
 5\. In the same way (Sûtras 2. 3) he erects the two chief posts,
 
@@ -50,7 +50,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 7\. He fixes the beam of the roof on the posts with (the formula), ‘Rightly ascend the post, O beam, erect, shining, drive off the enemies. Give us treasures and valiant sons.’
 
-8\. [8](sbe30071.htm#fn641) When the house has got its roof, he touches it with (the verse),
+8\. [8](#fn641) When the house has got its roof, he touches it with (the verse),
 
 ‘The consort of honour, a blissful refuge, a goddess, thou hast been erected by the gods in the beginning; clothed in grass, cheerful thou art; bring us bliss, to men and animals.’
 

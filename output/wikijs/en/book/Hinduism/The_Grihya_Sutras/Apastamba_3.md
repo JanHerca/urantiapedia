@@ -93,7 +93,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 ## PA<i>T</i>ALA 3, SECTION 8.
 
-1\. [^752] At the opening and concluding ceremonies of the Vedic study, the _Ri_shi who is indicated (as the <span id="p267">[<sup><small>p. 267</small></sup>]</span> _Ri_shi of the Kâ<i>n</i><i>n</i>a which they study, is the deity to whom the ceremony belongs),
+1\. [^752] At the opening and concluding ceremonies of the Vedic study, the <i>Ri</i>shi who is indicated (as the <span id="p267">[<sup><small>p. 267</small></sup>]</span> <i>Ri</i>shi of the Kâ<i>nd</i>a which they study, is the deity to whom the ceremony belongs),
 
 2\. And in the second place Sadasaspati (cf. Mantrap. I, 9, 8).
 
@@ -196,7 +196,7 @@ dateCreated: 2025-1-14T23:38:48Z
 
 [^751]: 266:27 For instance, the Srâva<i>î paur</i>î paur<i>î paur</i>amâsî is the deity of the ceremony described below, VII, 18, 5 seq.
 
-[^752]: 266:1 8, 1. Haradatta observes that at the kâ<i>n</i><i>n</i>opâkara<i>n</i>a and kâ<i>n</i><i>n</i>asamâpana the _Ri<i>n</i>n_<i>n</i>a, at the general adhyâyopâkara<i>n</i>a and samâpana all kâ<i>n</i><i>n</i>arshis, should be worshipped.
+[^752]: 266:1 8, 1. Haradatta observes that at the kâ<n>nd</i>opâkara<i>n</i>a and kâ<i>nd</i>asamâpana the <i>Ri<i>shi of that kâ<i>nd</i>a, at the general adhyâyopâkara<i>n</i>a and samâpana all kâ<i>nd</i>arshis, should be worshipped.
 
 [^753]: 268:12 Taittirîya Sa<i>m</i>hitâ II, 5, 1, 6 seq.
 
