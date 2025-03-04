@@ -32,7 +32,9 @@ dateCreated: 2025-1-15T21:2:10Z
   </table>
 </figure>
 
+The Santi Parva is a huge interpolation in the Mahabharata, in the genre known as ‘wisdom literature.’ The narrative progression is placed on hold almost from the first page. Instead we get a long and winding recapitulation of Brahmanic lore, including weighty treatises on topics such as kingcraft, metaphysics, cosmology, geography, and mythology. There are discussions of the Sankya and Yoga philosophical schools, and mentions of Buddhism. It is apparent that the Santi Parva was added to the Mahabharata at a later time than the main body of the epic.
 
+PRODUCTION NOTES: (11/30/2004) The printed edition we used divides this book into three (apparently arbitrary) parts. Note that each part's page numbering starts at page one, so if you cite a page number in this etext for some reason, you will also need to cite the part. There was no ‘Section CCCCLXIV’ in the source edition I used. —John Bruno Hare.
 
 <figure class="table chapter-navigator">
   <table>

@@ -117,8 +117,8 @@ The following errors have been corrected or noted in the HTML version; the text 
 - Book 12: Santi Parva
 	- [Book 12 — Note](/en/book/Hinduism/The_Mahabharata/Book_12_Note)
 	- Book 12 — Part 1
-		- [Book 12 — 	Part 1 — Rajadharmanusasana Parva](/en/book/Hinduism/The_Mahabharata/Book_12_1_1)
-		- [Book 12 — 	Part 1 — Apaddharmanusasana Parva](/en/book/Hinduism/The_Mahabharata/Book_12_1_2)
+		- [Book 12 — Part 1 — Rajadharmanusasana Parva](/en/book/Hinduism/The_Mahabharata/Book_12_1_1)
+		- [Book 12 — Part 1 — Apaddharmanusasana Parva](/en/book/Hinduism/The_Mahabharata/Book_12_1_2)
 	- [Book 12 — Part 2 — Mokshadharma Parva](/en/book/Hinduism/The_Mahabharata/Book_12_2)
 	- [Book 12 — Part 3 — Santi Parva Part III](/en/book/Hinduism/The_Mahabharata/Book_12_3)
 - Book 13: Anusasana Parva
