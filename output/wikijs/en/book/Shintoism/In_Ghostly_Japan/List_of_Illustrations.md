@@ -29,7 +29,24 @@ dateCreated: 2025-2-12T12:5:1Z
   </table>
 </figure>
 
+**Full Page**
 
+&nbsp; | &nbsp;
+--- | ---
+THE MOUNTAIN OF SKULLS | _Frontispiece_
+THE MAGICAL INCENSE | _To face page_ 43
+THE PEONY LANTERN | 80
+THE LIGHTS OF THE DEAD | 230
+
+**Illustrations in the Text**
+
+&nbsp; | &nbsp;
+--- | ---
+S'RÎPADÂ-TRACING AT DENTSU-IN, KOISHIKAWA, TÔKYÔ | 121
+SHÔ-EKÔ-HÔ-KWAN | 124
+SQUARE AND TRIANGLE | 104
+JIZÔ | 178
+EMMA, DAI-Ô | 179
 
 <figure class="table chapter-navigator">
   <table>
