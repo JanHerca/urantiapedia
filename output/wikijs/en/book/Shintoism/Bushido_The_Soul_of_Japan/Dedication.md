@@ -29,7 +29,21 @@ dateCreated: 2025-2-12T12:4:32Z
   </table>
 </figure>
 
-
+<p style="text-align:center;">
+TO MY BELOVED UNCLE<br>
+<br>
+TOKITOSHI OTA<br>
+<br>
+WHO TAUGHT ME TO REVERE THE PAST<br>
+<br>
+AND<br>
+<br>
+TO ADMIRE THE DEEDS OF THE SAMURAI<br>
+<br>
+I DEDICATE<br>
+<br>
+THIS LITTLE BOOK<br>
+</p>
 
 <figure class="table chapter-navigator">
   <table>
