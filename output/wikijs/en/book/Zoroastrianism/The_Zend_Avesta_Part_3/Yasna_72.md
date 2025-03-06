@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA LXXII.
 
+(See Y. LXI.)
 
 <figure class="table chapter-navigator">
   <table>

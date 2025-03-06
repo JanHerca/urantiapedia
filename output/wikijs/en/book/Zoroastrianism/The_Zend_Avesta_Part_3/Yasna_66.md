@@ -32,6 +32,12 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA LXVI (SP. LXV). TO THE AHURIAN ONE 
+
+[^1341].
+
+1\. I am now offering this Zaothra here with sanctity [^1342], together with the Haoma and the flesh, and the Hadhânaêpata lifted up with sacred regularity as to thee, O Ahurian One, for the propitiation of Ahura Mazda, of the Bountiful Immortals, of Sraosha (Obedience) the blessed, and of the Fire of Ahura Mazda, the ritual's lofty lord. 2. Y. VII, 5-19. 3. Y. XXII, XXVIII, 24-27.
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +63,9 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1352]: 320:5 I should say Ardvi Sûra Anâhita; see Y. LXVIII, 10, where the good waters are addressed as Ahurian Ones of Ahura.
+
+[^1353]: 320:6 Or, for a blessing.’

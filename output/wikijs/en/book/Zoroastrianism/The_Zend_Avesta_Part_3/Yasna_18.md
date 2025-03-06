@@ -32,6 +32,10 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+[^1091].
+
+1\. Grant me, Thou who art maker of the Kine, plants and waters, Immortality, Mazda! Grant, too, Weal, Spirit bounteous—.
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +61,7 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1100]: 259:4 See Y. LI, 7, and Y. XLVII.

@@ -32,7 +32,9 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA LXVII (SP. LXVI).
 
+1-4. (See Y. XXIII, 1-4, replacing ‘I desire to approach with sanctity’ by ‘I offer with sanctity;’ see also Y. VII, 24.) 5-7. (See Y. XXXVIII, 3-5.)
 
 <figure class="table chapter-navigator">
   <table>

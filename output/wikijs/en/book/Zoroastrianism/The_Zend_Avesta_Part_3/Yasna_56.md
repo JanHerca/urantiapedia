@@ -32,6 +32,18 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+<span id="p296">[<sup><small>p. 296</small></sup>]</span>
+
+## YASNA LVI (SP. LV). INTRODUCTION TO THE SRÔSH YA_S_T.
+
+1\. Let Sraosha (the listening Obedience) be present here for the worship of Ahura Mazda, the most beneficent, and holy, of him) who is desired by us as at the first, so at the last; and so again may attentive Obedience be present here for the worship of Ahura Mazda, the most beneficent and the holy who (is so) desired by us.
+
+2\. (Yea), let Sraosha (the attentive Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints which are so desired by us, \[^1233]) souls\], as at the first, so at the last.
+
+And thus again may Sraosha (the listening Obedience) be present here for the worship of the good waters, and for the Fravashis of the saints, which are so desired by us, \[(and) for (their) souls\].
+
+3\. Let Sraosha (the listening Obedience) be present here for the worship of the good waters; yea, let the good Obedience be here for the worship of the good and bountiful Immortals who rule aright, and dispose (of all) aright, the good, and for the worship of the good Sanctity, or Blessedness, who is closely knit with the Righteous Order, to perfect us, and to incite us. May Sraosha (Obedience) be here present for the worship of the good waters, he the good and the holy [^1234], as at the first, so at the last. <span id="p297">[<sup><small>p. 297</small></sup>]</span> 4\. And so again may Sraosha, (Obedience) the good, be present here for the worship of the good waters, and of the good [^1235] and bountiful Immortals, and of Blessedness the good who is closely knit with the Righteous Order to perfect and to incite us [^1236]. Yea, we worship Sraosha the blessed and the stately, who smites with victory, and who furthers the settlements in their advance, the holy lord of the ritual order [^1237].
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +69,15 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1243]: 296:1 One might be inclined to render ‘who are so desired by us for our souls.’ But I think that the words are Pâzand to the preceding.
+
+[^1244]: 296:2 Or, ‘endowed with recompense.’
+
+[^1245]: 297:1 Of the female (feminine) names.
+
+[^1246]: 297:2 Or, ‘give to us.’ The Ahuna and Ashem Vohû follow here.
+
+[^1247]: 297:3 The YêNhê hâtãm, &c. follows.

@@ -32,6 +32,10 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA LXIII [^1324] (SP. LXII).
+
+(See Y. XV, 2; Y. LXVI, 2; Y. XXXVIII, 3.)
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +61,7 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1335]: 316:4 This chapter is composed of short passages from other portions of the Yasna collected together possibly for the purpose of filling out the number of sections to some figure no longer known.

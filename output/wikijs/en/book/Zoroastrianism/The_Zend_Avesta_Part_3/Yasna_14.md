@@ -32,6 +32,20 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA XIV (SP. XV). DEDICATIONS.
+
+1\. I will come to You, O Ye Bountiful Immortals! as a praiser and a priest, and an invoker and sacrificer, as a memorising reciter and a chanter, for Your sacrifice and homage, which are to be offered to You, the Bountiful Immortals, and for our dedication and sanctification; (yea, for ours) who are the holy prophets (destined to benefit the saints).
+
+2\. And to You, O Ye Bountiful Immortals [^1062]! would I dedicate the flesh of my very body [^1063], and all the blessings of a prospered life [^1064].
+
+3\. In this Zaothra with this Baresman, I desire to <span id="p254">[<sup><small>p. 254</small></sup>]</span> approach the holy Yazads with my praise [^1065], and all the holy lords of the ritual order at their times, Hâvani at his time, and Sâvanghi and Vîsya at their times. 4. I confess myself a Mazdayasnian, and of Zarathu_s_tra's order [^1066].
+
+5\. The Zaotar speaks: As an Ahû (revered and) chosen, the Zaotar (?) speaks forth to me (?).
+
+The Ratu speaks: As an Ahû (revered and) to be chosen, the Zaotar speaks forth to me.
+
+The Zaotar: So let the Ratu from his Righteousness, holy and learned, speak forth!
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +71,15 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1070]: 253:2a Elsewhere with verbal difference.
+
+[^1071]: 253:3 See Y. XXXIII, 14.
+
+[^1072]: 253:4 Verses 1, 2 are Gâthic.
+
+[^1073]: 254:1 See Y. II, 18.
+
+[^1074]: 254:2 See Y. III, 24, 25.

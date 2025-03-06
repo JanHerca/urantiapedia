@@ -32,6 +32,14 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA XXXVII. TO AHURA, THE HOLY CREATION, THE FRAVASHIS OF THE JUST, AND THE BOUNTIFUL IMMORTALS.
+
+1\. Thus therefore do we worship Ahura Mazda, who made the Kine (the living creation), and the (embodied) Righteousness (which is incarnate in the clean), and the waters, and the wholesome plants, the stars, and the earth, and all (existing) objects <span id="p286">[<sup><small>p. 286</small></sup>]</span> that are good. 2. Yea, we worship Him for His Sovereign Power and His greatness, beneficent (as they are), and with priority among the Yazads [^1191] who abide beside the Kine (and care for her protection and support).
+
+3\. And we worship Him under His name as Lord, to Mazda dear, the most beneficent (of names). We worship him with our bones, and with our flesh, (with our bodies and our life). And we worship the [^1192] Fravashis of the saints, of holy men, and holy women; (4.) and Righteousness the Best do we worship, the most beauteous, the Bountiful Immortal and that which is endowed with light in all things good.
+
+5\. And we worship the Good Mind (of the Lord), and His Sovereign Power, and the Good Faith, the good law of our thrift, and Piety the ready mind (within Thy folk)!
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +65,9 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1201]: 286:1 Or, ‘with the priority in the Yasnas, (we who are they) who abide.’
+
+[^1202]: 286:2 T_e_m is interpolated; or shall we render: ‘We worship Him’ as in the F. with adverbial use as in the Greek, and often here?

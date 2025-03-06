@@ -32,6 +32,18 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA XV (SP. XVI). THE SACRIFICE CONTINUES.
+
+1\. With precept, praise, and with delight produced by grace [^1067], I call upon the Bountiful Immortals the good, and also therewith the beautiful by name [^1068]; and I sacrifice to them with the blessing of the good ritual, with the earnest blessings of the good Mazdayasnian Faith.
+
+2\. Whose best gift from his Righteousness is mine in the offering Ahura this knoweth; who have lived, and live ever, by their names these I worship, while I draw near with praises [^1069]. The Good Kingdom is to be chosen, that lot which most of all bears on (our blessings [^1070]).
+
+3\. Let Sraosha (Obedience) be here present for <span id="p255">[<sup><small>p. 255</small></sup>]</span> the sacrifice of Ahura Mazda, the most beneficent, the holy, who is so dear to us as at the first, so at the last; yea, let him be present here [^1071].
+
+4\. As the Ahû (revered and) to be chosen, the Âtarevakhsha thus speaks forth to me.
+
+(Response): So let the Ratu from his righteousness, holy and learned, speak forth!
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +69,15 @@ dateCreated: 2025-2-12T12:15:42Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1075]: 254:3 Root rap = rabh, a reception of grace, or being received by grace.
+
+[^1076]: 254:4 Namãn may be meant for a locative; ‘with the beautiful things in their name (?).’
+
+[^1077]: 254:5 See Y. LI, 22.
+
+[^1078]: 254:6 See Y. LI, 1.
+
+[^1079]: 255:1 This fragment in the Gâthic dialect might more properly be placed before the Srôsh Ya_s_t.

@@ -32,6 +32,16 @@ dateCreated: 2025-2-12T12:15:42Z
   </table>
 </figure>
 
+## YASNA LXIV (SP. LXIII).
+
+(See Y. XLVI, 3; Y. L, 6-11.)
+
+
+<span id="p325">[<sup><small>p. 325</small></sup>]</span>
+
+## YASNA LXIX (SP. LXVIII).
+
+This chapter is composed of fragments: see Y. XV, 2; and Y. LI, 1 and 22.
 
 
 <figure class="table chapter-navigator">
