@@ -33,6 +33,22 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
+<span id="pix">[<sup><small>p. ix</small></sup>]</span>
+
+THE present volume contains a translation of the Sîrôzahs and Ya_s_ts, and of the Nyâyi_s_. This part of the Avesta treats chiefly of the mythical and legendary lore of Zoroastrianism.
+
+For a satisfactory translation of these texts, the etymological and comparative method is generally considered as the best or as the only possible one, on account of the entire absence of any traditional interpretation. I have tried, however, to reduce the sphere of etymological guesswork to its narrowest limits, with the help of different Pahlavi, Persian, and Sanskrit translations, which are as yet unpublished, and have been neglected by former translators. I found such translations for the Sîrôzahs, for Ya_s_ts I, VI, VII, XI, XXIII, XXIV, and for the Nyâyi_s_ [^0] (besides the already published translations of Ya_s_ts XXI and XXII).
+
+Of the remaining Ya_s_ts, which are mostly of an epical character, there is no direct translation available; but a close comparison of the legends in Firdausi's Shah Nâmah seems to throw some light, even as regards philological points, on not a few obscure and important passages. This has enabled me, I believe, to restore a few myths to their original form, and to frame a more correct idea of others [^1].
+
+In this volume, as in the preceding one, I have to thank Mr. West for his kind assistance in making my translation more readable, as well as for valuable hints in the interpretation of several passages.
+
+JAMES DARMESTETER.
+
+&nbsp;&nbsp;&nbsp;&nbsp;PARIS,
+13 December, 1882.
+
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +73,9 @@ dateCreated: 2025-2-12T12:15:34Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^0]: ix:1 These translations have been edited in our Études Iraniennes, II, 253 seq. (Paris, Vieweg, 1883).
+
+[^1]: ix:2 See ibidem, II, 206 seq.

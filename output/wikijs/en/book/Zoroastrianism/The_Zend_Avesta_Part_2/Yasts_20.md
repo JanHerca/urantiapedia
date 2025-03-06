@@ -33,6 +33,39 @@ dateCreated: 2025-2-12T12:15:34Z
 </figure>
 
 
+<span id="p310">[<sup><small>p. 310</small></sup>]</span>
+
+This Ya_s_t ought to follow immediately after the Tîr Ya_s_t, as it is derived from the same Sîrôzah formula; the one in which Ti_s_trya is invoked along with Vana_n__t_ and Haptôiri_n_ga (Sîrôzah, § 13). It is a mere supplement to that Ya_s_t. On Vana_n__t_, see [p. 97](Yasts_8#p97), note [6](Yasts_8#fn481).
+
+---
+
+0\. May Ahura Mazda be rejoiced! . . . .
+
+Ashem Vohû: Holiness is the best of all good . . .
+
+I confess myself a worshipper of Mazda, a follower of Zarathu_s_tra, one who hates the Daêvas and obeys the laws of Ahura;
+
+For sacrifice, prayer, propitiation, and glorification unto \[Hâvani\], the holy and master of holiness . . . .
+
+Unto the star Vana_n__t_, made by Mazda,
+
+Be propitiation, with sacrifice, prayer, propitiation, and glorification.
+
+Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
+
+1\. We sacrifice unto the star Vana_n__t_, made by Mazda, the holy and master of holiness.
+
+I will sacrifice unto Vana_n__t_, strong, invoked by his own name [^1322], healing, in order to withstand the accursed and most foul Khrafstras [^1323] of the most abominable Angra Mainyu.
+
+2\. Yathâ ahû vairyô: The will of the Lord is the law of holiness . . . .
+
+I bless the sacrifice and prayer, and the strength and vigour of the star Vana_n__t_, made by Mazda.
+
+Ashem Vohû: Holiness is the best of all good . . . .
+
+\[Give\] unto that man [^1324] brightness and glory, . . . . give him the bright, all-happy, blissful abode of the holy Ones.
+
+
 
 <figure class="table chapter-navigator">
   <table>
@@ -57,3 +90,11 @@ dateCreated: 2025-2-12T12:15:34Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^1388]: 310:1 See [p. 13](Sirozahs_1#p13), note [2](Sirozahs_1#fn96).
+
+[^1389]: 310:2 The reptiles and other Ahrimanian creatures (Vendîdâd, Introd. V, 11) which are destroyed by the rain (Bund. VII, 7).
+
+[^1390]: 310:3 Who sacrifices to Vana_n__t_.
