@@ -33,6 +33,9 @@ dateCreated: 2025-2-12T12:11:44Z
 </figure>
 
 
+<span id="p176">[<sup><small>p. 176</small></sup>]</span>
+
+### (omitted)
 
 <figure class="table chapter-navigator">
   <table>
