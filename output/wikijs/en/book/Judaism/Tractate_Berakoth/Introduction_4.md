@@ -32,7 +32,17 @@ dateCreated: 2025-2-7T10:38:9Z
   </table>
 </figure>
 
+<span id="pxvii">[<sup><small>p. xvii</small></sup>]</span>
 
+C. The present translation has been made from the edition published by W. H. Lowe: _The Mishnah on which the Palestinian Talmud Rests_, Cambridge, 1883, a reproduction of the MS. Add. 470. 1. in the University Library. The notation of C. has also been followed, but as this differs from that of the common text of the Mishnaioth, the notation of the latter has been added. The order is alike, save in VIII. 3 and 4.
+
+B. With it has been constantly compared the text given by D. W. Staerk (Bonn, 1910), which is that of Goldschmidt (1897) taken from Bomberg (Venice, 1520), with occasional readings from the Munich MS. of the Babylonian Talmud.
+
+For the commentary by Bartenora (properly Bertinoro, who died about 1500 A.D.) quoted occasionally, the text in the common edition of the Mishnaioth, Warsaw, 1873, has sufficed.
+
+## THE TOSEPHTA
+
+The translation is made from the text of Zuckermandel (Passewalk, 1881, with supplement, Treves, 1882), which is chiefly that of a MS. formerly at Erfurt and now at Berlin, reference being made continually to a MS. at Vienna.
 
 <figure class="table chapter-navigator">
   <table>
