@@ -1,5 +1,5 @@
 ---
-title: "Section I"
+title: "Annexe I"
 description: "Le Yi King"
 published: true
 date: 2025-2-12T22:26:12Z
@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T22:26:12Z
         </td>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_2">
-          <span class="pr-2">Section I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Annexe II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -50,7 +50,7 @@ dateCreated: 2025-2-12T22:26:12Z
         </td>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_2">
-          <span class="pr-2">Section I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Annexe II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

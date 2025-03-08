@@ -1,5 +1,5 @@
 ---
-title: "Sección I"
+title: "Apéndice I"
 description: "El I Ching"
 published: true
 date: 2025-2-12T12:52:1Z
@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:52:1Z
         </td>
         <td>
         <a href="/es/book/Confucianism/The_I_Ching/Appendix_2">
-          <span class="pr-2">Sección I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -50,7 +50,7 @@ dateCreated: 2025-2-12T12:52:1Z
         </td>
         <td>
         <a href="/es/book/Confucianism/The_I_Ching/Appendix_2">
-          <span class="pr-2">Sección I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Apéndice II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

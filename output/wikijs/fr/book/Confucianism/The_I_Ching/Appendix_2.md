@@ -1,5 +1,5 @@
 ---
-title: "Section I"
+title: "Annexe II"
 description: "Le Yi King"
 published: true
 date: 2025-2-12T22:26:12Z
@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T22:26:12Z
       <tr>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Section I</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annexe I</span>
         </a>
         </td>
         <td>
@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T22:26:12Z
         </td>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_3">
-          <span class="pr-2">Section I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Annexe III : Le Grand Appendice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T22:26:12Z
       <tr>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_1">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Section I</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annexe I</span>
         </a>
         </td>
         <td>
@@ -50,7 +50,7 @@ dateCreated: 2025-2-12T22:26:12Z
         </td>
         <td>
         <a href="/fr/book/Confucianism/The_I_Ching/Appendix_3">
-          <span class="pr-2">Section I</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Annexe III : Le Grand Appendice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -1,5 +1,5 @@
 ---
-title: "Sección I: Khien"
+title: "Apéndice IV"
 description: "El I Ching"
 published: true
 date: 2025-2-12T12:52:1Z
@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:52:1Z
       <tr>
         <td>
         <a href="/es/book/Confucianism/The_I_Ching/Appendix_3">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sección I</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice III: El Gran Apéndice</span>
         </a>
         </td>
         <td>
@@ -40,7 +40,7 @@ dateCreated: 2025-2-12T12:52:1Z
       <tr>
         <td>
         <a href="/es/book/Confucianism/The_I_Ching/Appendix_3">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sección I</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apéndice III: El Gran Apéndice</span>
         </a>
         </td>
         <td>
