@@ -69,7 +69,7 @@ PRODUCTION NOTES: I obtained a used _ex-libris_ copy of this long out-of-print b
 	- [Chapter III](/en/book/Judaism/The_Talmud/Introduction_3)
 	- [Chapter IV](/en/book/Judaism/The_Talmud/Introduction_4)
 	- [Chapter V](/en/book/Judaism/The_Talmud/Introduction_5)
-	- [Chapter VI.](/en/book/Judaism/The_Talmud/Introduction_)
+	- [Chapter VI.](/en/book/Judaism/The_Talmud/Introduction_6)
 	- [Chapter VII](/en/book/Judaism/The_Talmud/Introduction_7)
 - Treatise I. On Blessings
 	- [Chapter I](/en/book/Judaism/The_Talmud/Treatise1_1)
@@ -98,7 +98,7 @@ PRODUCTION NOTES: I obtained a used _ex-libris_ copy of this long out-of-print b
 	- [Chapter III](/en/book/Judaism/The_Talmud/Treatise3_3)
 	- [Chapter IV](/en/book/Judaism/The_Talmud/Treatise3_4)
 	- [Chapter V](/en/book/Judaism/The_Talmud/Treatise3_5)
-	- [Chapter IV](/en/book/Judaism/The_Talmud/Treatise3_4)
+	- [Chapter VI](/en/book/Judaism/The_Talmud/Treatise3_6)
 	- [Chapter VII](/en/book/Judaism/The_Talmud/Treatise3_7)
 	- [Chapter VIII](/en/book/Judaism/The_Talmud/Treatise3_8)
 - Treatise IV. On the Passover

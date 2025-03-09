@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p280">[<sup><small>p. 280</small></sup>]</span>
 
+## XXVIII. TREATISE GITTIN.
+
+### Introduction.
+
+Under this title the laws relating to the Get \[i.e. bill or letter of divorce, of which the word Gittin is the plural term\] are specified, without which document no marriage can be legally dissolved. The texts of the Holy Law on which the regulations of this Treatise are founded, are contained in chapter xxiv. of Deuteronomy.
 
 <figure class="table chapter-navigator">
   <table>

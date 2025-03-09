@@ -32,7 +32,15 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p144">[<sup><small>p. 144</small></sup>]</span>
 
+## XVIII. TREATISE YOM TOB, OR, OF THE FESTIVAL.
+
+### Introduction.
+
+This book, which is commonly called ‏ביצה‎, or egg \[from the word with which it commences\], contains laws and regulations for the proper observance of the festivals. It explains the works forbidden on the Sabbath, but which may be done on the festival; and prescribes the restrictions and mode in which they may be done.
+
+It is necessary, for the proper understanding of this Treatise, to explain here three phrases which will often occur therein; viz. ‏נולד‎, i.e. whatever was born or has come into existence, has been produced, or become fit for use, on the very day of the festival, is thus called. Such are the egg that was laid on the day of the festival, the fruit which thereon had fallen from trees, &c. All these may not be used on the festival, because thereon those things only may be used which have been ‏מוכן‎, or _prepared_ before the festival. The third term, ‏מוקצה‎, designates those articles of food, &c. which have not been thus previously “prepared,” or set apart for the festival; and which, therefore, may not be used thereon.
 
 <figure class="table chapter-navigator">
   <table>

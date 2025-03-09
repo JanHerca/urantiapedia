@@ -69,7 +69,7 @@ NOTAS DE PRODUCCIÓN: Obtuve una copia usada _ex-libris_ de este libro que estuv
 	- [Capítulo III](/es/book/Judaism/The_Talmud/Introduction_3)
 	- [Capítulo IV](/es/book/Judaism/The_Talmud/Introduction_4)
 	- [Capítulo V](/es/book/Judaism/The_Talmud/Introduction_5)
-	- [Capítulo VI.](/es/book/Judaism/The_Talmud/Introduction_)
+	- [Capítulo VI.](/es/book/Judaism/The_Talmud/Introduction_6)
 	- [Capítulo VII](/es/book/Judaism/The_Talmud/Introduction_7)
 - Tratado I. Sobre las bendiciones
 	- [Capítulo I](/es/book/Judaism/The_Talmud/Treatise1_1)
@@ -98,7 +98,7 @@ NOTAS DE PRODUCCIÓN: Obtuve una copia usada _ex-libris_ de este libro que estuv
 	- [Capítulo III](/es/book/Judaism/The_Talmud/Treatise3_3)
 	- [Capítulo IV](/es/book/Judaism/The_Talmud/Treatise3_4)
 	- [Capítulo V](/es/book/Judaism/The_Talmud/Treatise3_5)
-	- [Capítulo IV](/es/book/Judaism/The_Talmud/Treatise3_4)
+	- [Capítulo VI](/es/book/Judaism/The_Talmud/Treatise3_6)
 	- [Capítulo VII](/es/book/Judaism/The_Talmud/Treatise3_7)
 	- [Capítulo VIII](/es/book/Judaism/The_Talmud/Treatise3_8)
 - Tratado IV. Sobre la Pascua

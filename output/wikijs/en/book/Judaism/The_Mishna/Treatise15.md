@@ -32,7 +32,9 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+## XV. TREATISE SHEKALIM.
 
+\[Contains laws relating to the capitation tax of half a shekel, founded on Exod. xiii. 12.\]
 
 <figure class="table chapter-navigator">
   <table>

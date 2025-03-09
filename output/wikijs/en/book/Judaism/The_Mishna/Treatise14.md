@@ -32,7 +32,19 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p279">[<sup><small>p. 279</small></sup>]</span>
 
+## XXV. TREATISE NEDARIM.
+
+\[Contains laws relating to vows made by females, which the father and the husband have the power to annul, founded on Numbers xxx. 4–16.\]
+
+## XXVI. TREATISE NAZIR.
+
+\[Relates to vows of abstinence. The precepts are founded on Numbers vi. 1–21.\]
+
+## XXVII. TREATISE SOOTAH.
+
+\[Contains laws relating to the woman suspected of adultery, founded on Numbers v. 11–31.\]
 
 <figure class="table chapter-navigator">
   <table>

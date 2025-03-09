@@ -62,7 +62,7 @@ Introduction | #
 	Chapter III | Introduction_3
 	Chapter IV | Introduction_4
 	Chapter V | Introduction_5
-	Chapter VI. | Introduction_
+	Chapter VI. | Introduction_6
 	Chapter VII | Introduction_7
 Treatise I. On Blessings | #
 	Chapter I | Treatise1_1
@@ -91,7 +91,7 @@ Treatise III. On the Sabbath | #
 	Chapter III | Treatise3_3
 	Chapter IV | Treatise3_4
 	Chapter V | Treatise3_5
-	Chapter IV | Treatise3_4
+	Chapter VI | Treatise3_6
 	Chapter VII | Treatise3_7
 	Chapter VIII | Treatise3_8
 Treatise IV. On the Passover | #

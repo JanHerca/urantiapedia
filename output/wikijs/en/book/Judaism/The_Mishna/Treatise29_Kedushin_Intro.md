@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p306">[<sup><small>p. 306</small></sup>]</span>
 
+## XXIX. TREATISE KEDUSHIN, OR, OF BETROTHING.
+
+### Introduction.
+
+Under this title, several laws relative to the acquisition of a woman as a wife are mentioned. It is called ‏קדושין‎ from ‏קדש‎ “to consecrate, or set apart;” as by that act a woman is “set apart,” as it were, for her husband only. Several other regulations, not immediately connected with the subject of the treatise, are (as is usual in the Mishna) occasionally introduced.
 
 <figure class="table chapter-navigator">
   <table>

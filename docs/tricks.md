@@ -173,6 +173,13 @@ Books ||
 Italic inside words ||
 `(?<=[\wâêîôû])_([^_/\.-\\,]+)_(?=[\wâêîôû ])` | <i>$1</i>
 
+Greeks letters
+
+Alpha - Α α Beta - Β β Gamma - Γ γ Delta - Δ δ Epsilon - Ε ε Zeta - Ζ ζ
+Eta - Η η Theta - Θ θ Iota - Ι ι Kappa - Κ κ Lambda - Λ λ Mu - Μ μ
+Nu - Ν ν Xi - Ξ ξ Omicron - Ο ο Pi - Π π Rho - Ρ ρ Sigma - Σ σ/ς
+Tau - Τ τ Upsilon - Υ υ Phi - Φ φ Chi - Χ χ Psi - Ψ ψ Omega - Ω ω
+
 ## VS Code tricks
 
 * Multi cursor: Select through search, then Ctrl + Shift + L (place a cursor in each selection), then Alt + Click (to modify cursors location at once)

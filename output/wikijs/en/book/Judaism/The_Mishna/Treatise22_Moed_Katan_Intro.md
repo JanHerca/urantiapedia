@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p192">[<sup><small>p. 192</small></sup>]</span>
 
+## XXII. TREATISE MOED KATAN OR, THE MIDDLE DAYS OF FESTIVALS.
+
+### Introduction.
+
+This Treatise contains regulations for the better observance of the minor or middle days of the Passover and Tabernacles, pointing out which kinds of work may be performed on these middle days, and which are prohibited thereon. It also establishes certain rules for mourners.
 
 <figure class="table chapter-navigator">
   <table>

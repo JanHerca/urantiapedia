@@ -32,7 +32,13 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p156">[<sup><small>p. 156</small></sup>]</span>
 
+## XIX. TREATISE ROSH HASHANAH, OR, OF THE NEW YEAR.
+
+### Introduction.
+
+In this Treatise are enumerated various periods of commencement of the year for different objects, during the existence of the second Temple. The mode of determining the day of the feast of new moon from the observation of witnesses, as also the manner of examining them, and other matters incident thereunto, is related next; and finally, this Treatise treats of the feast of new year, and whatever is peculiar to it, such as the sounding of the cornet ‏שופר‎, and the prayers and service of that festival.
 
 <figure class="table chapter-navigator">
   <table>

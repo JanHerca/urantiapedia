@@ -62,7 +62,7 @@ Introducción | #
 	Capítulo III | Introduction_3
 	Capítulo IV | Introduction_4
 	Capítulo V | Introduction_5
-	Capítulo VI. | Introduction_
+	Capítulo VI. | Introduction_6
 	Capítulo VII | Introduction_7
 Tratado I. Sobre las bendiciones | #
 	Capítulo I | Treatise1_1
@@ -91,7 +91,7 @@ Tratado III. Sobre el sábado | #
 	Capítulo III | Treatise3_3
 	Capítulo IV | Treatise3_4
 	Capítulo V | Treatise3_5
-	Capítulo IV | Treatise3_4
+	Capítulo VI | Treatise3_6
 	Capítulo VII | Treatise3_7
 	Capítulo VIII | Treatise3_8
 Tratado IV. Sobre la Pascua | #

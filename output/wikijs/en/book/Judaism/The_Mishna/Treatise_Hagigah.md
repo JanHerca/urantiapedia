@@ -33,6 +33,9 @@ dateCreated: 2025-2-6T12:55:40Z
 </figure>
 
 
+\[Contains Laws relating to the Sacrifices on Festivals.\]
+
+WHICH CLOSES SEDER MOED.
 
 <figure class="table chapter-navigator">
   <table>

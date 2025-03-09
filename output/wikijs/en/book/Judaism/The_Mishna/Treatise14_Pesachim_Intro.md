@@ -32,7 +32,19 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p97">[<sup><small>p. 97</small></sup>]</span>
 
+‏פסחים‎
+
+\_\_\_\_
+
+## XIV. TREATISE PESACHIM,
+
+OR, OF THE PASSOVER; RELATING TO THE LAWS CONCERNING THE PASSOVER FESTIVAL, AND THE SACRIFICE OF THE PASCHAL LAMB ON THE FOURTEENTH OF THE MONTH NISSAN.
+
+### INTRODUCTION.
+
+It treats more particularly of all matters relative to the removal of leaven from our houses, or places under our jurisdiction or control; it defines what constitutes leaven, and how to banish or annul it before or during the festival; what bitter herbs were to be eaten with the paschal sacrifice; laws relative to the proper observance of the festival, the middle days thereof, and of the 14th of Nissan; also, respecting the observance of the Second Passover, by those who could not observe it at its proper time (Num. ix.), and other laws incidentally mentioned, or directly relating to the subject.
 
 <figure class="table chapter-navigator">
   <table>

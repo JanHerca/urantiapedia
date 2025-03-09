@@ -32,6 +32,14 @@ dateCreated: 2025-2-6T12:55:40Z
   </table>
 </figure>
 
+<span id="p126">[<sup><small>p. 126</small></sup>]</span>
+
+## XVI. TREATISE YOMAH, OR, THE DAY OF ATONEMENT.
+
+### INTRODUCTION.
+
+The first seven chapters treat of the manner in which the day of atonement [^352] was celebrated in the second temple; the different sacrifices brought on that day, the preparation of the high priest for his ministry, and the order of service, as he performed it, entering fully into minute details of every circumstance connected therewith. The eighth chapter treats of the general observance of the day, with respect to fasting, penitence, &c., and the rules and regulations thereunto appertaining. As the precepts contained in the first seven chapters are at present in abeyance, the eighth chapter only has been translated.
+
 
 
 <figure class="table chapter-navigator">
@@ -57,3 +65,7 @@ dateCreated: 2025-2-6T12:55:40Z
     </tbody>
   </table>
 </figure>
+
+## Footnotes
+
+[^352]: 126:1 Levit. xvi. 1–34. Levit. xxiii. 26–32. Numb. xxix. 7–11.

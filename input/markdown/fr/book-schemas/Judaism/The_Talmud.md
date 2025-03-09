@@ -62,7 +62,7 @@ Introduction | #
 	Chapitre III | Introduction_3
 	Chapitre IV | Introduction_4
 	Chapitre V | Introduction_5
-	Chapitre VI. | Introduction_
+	Chapitre VI. | Introduction_6
 	Chapitre VII | Introduction_7
 Traité I. Des bénédictions | #
 	Chapitre I | Treatise1_1
@@ -91,7 +91,7 @@ Traité III. Du sabbat | #
 	Chapitre III | Treatise3_3
 	Chapitre IV | Treatise3_4
 	Chapitre V | Treatise3_5
-	Chapitre IV | Treatise3_4
+	Chapitre VI | Treatise3_6
 	Chapitre VII | Treatise3_7
 	Chapitre VIII | Treatise3_8
 Traité IV. Sur la Pâque | #

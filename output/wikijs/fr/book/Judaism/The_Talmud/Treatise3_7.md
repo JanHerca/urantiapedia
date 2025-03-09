@@ -13,8 +13,8 @@ dateCreated: 2025-2-7T10:45:5Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/book/Judaism/The_Talmud/Treatise3_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapitre IV</span>
+        <a href="/fr/book/Judaism/The_Talmud/Treatise3_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapitre VI</span>
         </a>
         </td>
         <td>
@@ -39,8 +39,8 @@ dateCreated: 2025-2-7T10:45:5Z
     <tbody>
       <tr>
         <td>
-        <a href="/fr/book/Judaism/The_Talmud/Treatise3_4">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapitre IV</span>
+        <a href="/fr/book/Judaism/The_Talmud/Treatise3_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chapitre VI</span>
         </a>
         </td>
         <td>

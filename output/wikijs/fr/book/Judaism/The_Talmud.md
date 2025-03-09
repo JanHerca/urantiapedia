@@ -69,7 +69,7 @@ NOTES DE PRODUCTION : J'ai obtenu un exemplaire d'occasion de ce livre épuisé 
 	- [Chapitre III](/fr/book/Judaism/The_Talmud/Introduction_3)
 	- [Chapitre IV](/fr/book/Judaism/The_Talmud/Introduction_4)
 	- [Chapitre V](/fr/book/Judaism/The_Talmud/Introduction_5)
-	- [Chapitre VI.](/fr/book/Judaism/The_Talmud/Introduction_)
+	- [Chapitre VI.](/fr/book/Judaism/The_Talmud/Introduction_6)
 	- [Chapitre VII](/fr/book/Judaism/The_Talmud/Introduction_7)
 - Traité I. Des bénédictions
 	- [Chapitre I](/fr/book/Judaism/The_Talmud/Treatise1_1)
@@ -98,7 +98,7 @@ NOTES DE PRODUCTION : J'ai obtenu un exemplaire d'occasion de ce livre épuisé 
 	- [Chapitre III](/fr/book/Judaism/The_Talmud/Treatise3_3)
 	- [Chapitre IV](/fr/book/Judaism/The_Talmud/Treatise3_4)
 	- [Chapitre V](/fr/book/Judaism/The_Talmud/Treatise3_5)
-	- [Chapitre IV](/fr/book/Judaism/The_Talmud/Treatise3_4)
+	- [Chapitre VI](/fr/book/Judaism/The_Talmud/Treatise3_6)
 	- [Chapitre VII](/fr/book/Judaism/The_Talmud/Treatise3_7)
 	- [Chapitre VIII](/fr/book/Judaism/The_Talmud/Treatise3_8)
 - Traité IV. Sur la Pâque
