@@ -32,7 +32,9 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
+KALPA SÛTRA.
 
+LIVES OF THE <i>G</i>INAS.
 
 <figure class="table chapter-navigator">
   <table>

@@ -32,7 +32,17 @@ dateCreated: 2025-1-12T19:15:12Z
   </table>
 </figure>
 
+FOURTEENTH LECTURE.
 
+One should not be pleased with nor prohibit a reciprocal action, which relates to one's self, and produces karman.
+
+A mendicant should not be pleased with nor prohibit it, if (he and the other) wipe or rub each other's feet, &c.
+
+In this way the whole Thirteenth Lecture should be repeated here.
+
+This is the whole duty, &c. Thus I say. (1)
+
+End of the Second Part, called the Seven Lectures.
 
 <figure class="table chapter-navigator">
   <table>
